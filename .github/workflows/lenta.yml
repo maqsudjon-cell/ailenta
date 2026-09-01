@@ -78,6 +78,13 @@ jobs:
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: node src/ig-refresh.mjs
 
+      # Push rad etilishi mumkin: yugurish davomida kimdir repozitoriyaga
+      # yozsa (masalan qo'lda tuzatish), bizning asosimiz eskirib qoladi.
+      # Ilgari bunda BUTUN yugurish qulardi va tayyor xabarlar yo'qolardi —
+      # bir marta shunday bo'ldi va uchta xabar nashr qilinmay qoldi.
+      #
+      # Rebase'da "theirs" — bu BIZNING commit'imiz. docs/ va data/ shu
+      # yugurishda qayta qurilgan, shuning uchun to'qnashuvda ular ustun.
       - name: Nashr qilish
         run: |
           git config user.name "ai-lenta-bot"
@@ -85,10 +92,20 @@ jobs:
           git add data docs
           if git diff --staged --quiet; then
             echo "Yangi xabar yo'q — commit qilinmadi."
-          else
-            git commit -m "lenta: $(date -u '+%Y-%m-%d %H:%M') UTC"
-            git push
+            exit 0
           fi
+          git commit -m "lenta: $(date -u '+%Y-%m-%d %H:%M') UTC"
+          for i in 1 2 3; do
+            if git push; then
+              echo "Nashr qilindi ($i-urinish)."
+              exit 0
+            fi
+            echo "Push rad etildi — asosni yangilab qayta urinamiz ($i/3)."
+            git pull --rebase -X theirs origin main || git rebase --abort
+            sleep 5
+          done
+          echo "Uch urinishdan keyin ham push o'tmadi."
+          exit 1
 
       - name: Qidiruv tizimlariga bildirish
         run: node src/indexnow.mjs
