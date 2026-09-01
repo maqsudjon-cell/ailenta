@@ -1,5 +1,118 @@
 [
   {
+    "id": "4f1080483383",
+    "slug": "anthropic-yangi-claude-fable-5-1-modelini-chiqardi-4f1080",
+    "title": "Anthropic yangi Claude Fable 5.1 modelini chiqardi",
+    "summary": "Anthropic kompaniyasi yangi Claude Fable 5.1 sun'iy intellekt modelini taqdim etdi. Mazkur model avvalgilaridan arzonroq bo'lib, kod yozishda yaxshiroq natija ko'rsatadi.",
+    "tags": [
+      "Anthropic"
+    ],
+    "importance": 4,
+    "score": 33,
+    "published": "2026-09-01T18:01:02.000Z",
+    "created": "2026-09-01T18:09:40.909Z",
+    "coverage": 1,
+    "source": {
+      "name": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNU3g1eFNCNGd1ZlFka19DSDl3Y0pfdDJudFFfaTZzdHkySlB6WDhvMTlPbkVCLXVWMDdqYjNCWGk5UGEwTGZ4MTBNUkFBdTFfVndrbzY0bHN3VzhzWEV2N1RPYml2ZnAyOE5mQ3JPSWdhb0NFWFg3WGdoVnNEZmRlMEEtTTdtWlpuaHdGVk9tUGhoTEx6V2NsUnRlazFkZE1idlBCMmRyam9MWS05aTJDUTdhWUZINVE",
+      "title": "Anthropic Says New Fable 5.1 AI Model Is Cheaper, Better at Coding",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "3b5f2688fec1",
+    "slug": "kompaniyalar-ish-jarayonini-ai-agentlariga-topshirmoqda-3b5f26",
+    "title": "Kompaniyalar ish jarayonini AI agentlariga topshirmoqda",
+    "summary": "Basis, Clay va Exa Labs kompaniyalari ish jarayonlarini yaxshilash uchun sun'iy intellekt agentlaridan foydalanmoqda. Ushbu agentlar yangi xodimlarni moslashtirish va hisoblar boshqaruvini yaxshilashga yordam beradi.",
+    "tags": [
+      "agentlar"
+    ],
+    "importance": 2,
+    "score": 33,
+    "published": "2026-09-01T17:00:00.000Z",
+    "created": "2026-09-01T18:09:40.909Z",
+    "coverage": 1,
+    "source": {
+      "name": "OpenAI",
+      "url": "https://openai.com/index/ai-native-company-workflows",
+      "title": "How AI-native companies turn workflows into operating capability",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "50e05f9b472e",
+    "slug": "chatgpt-tibbiy-malumotlar-tizimiga-ulandi-50e05f",
+    "title": "ChatGPT tibbiy ma'lumotlar tizimiga ulandi",
+    "summary": "Sog'liqni saqlash tashkilotlari endi elektron tibbiy yozuvlarni ChatGPT tizimiga ulashlari mumkin. Bu shifokorlarga bemorlar tarixi va tibbiy tadqiqotlardan xavfsiz foydalanish imkonini beradi.",
+    "tags": [
+      "OpenAI",
+      "tibbiyot"
+    ],
+    "importance": 4,
+    "score": 33,
+    "published": "2026-09-01T12:00:00.000Z",
+    "created": "2026-09-01T18:09:40.910Z",
+    "coverage": 1,
+    "source": {
+      "name": "OpenAI",
+      "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
+      "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "0722d5b7ddae",
+    "slug": "ai-malumot-markazlari-nima-uchun-norozilikka-sabab-bolmoqda-0722d5",
+    "title": "AI ma'lumot markazlari nima uchun norozilikka sabab bo'lmoqda",
+    "summary": "AI ma'lumot markazlari shovqinli, xunuk va atrof-muhit resurslarini ko'p iste'mol qilgani sababli norozilikka uchramoqda. Ulardan tushgan foydaning aksariyati AQSh kompaniyalariga ketadi. Sharqiy Londonda 5,200 kvadrat metrlik ma'lumot markazi qurilishiga qarshilik ko'rsatilmoqda.",
+    "tags": [
+      "biznes",
+      "siyosat"
+    ],
+    "importance": 3,
+    "score": 23,
+    "published": "2026-09-01T17:04:20.000Z",
+    "created": "2026-09-01T18:09:54.242Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/uk-news/video/2026/sep/01/why-does-everyone-hate-datacentres",
+      "title": "Why does everyone hate datacentres?",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "22130b8b67f2",
+    "slug": "oracle-ai-yordamida-muhandislik-samaradorligini-oshirmoqda-22130b",
+    "title": "Oracle AI yordamida muhandislik samaradorligini oshirmoqda",
+    "summary": "Oracle kompaniyasi sun'iy intellekt yordamida muhandislik samaradorligini sezilarli darajada oshirishni maqsad qilgan. Bu kompaniya 21,000 xodimni ishdan bo'shatganidan so'ng amalga oshirilmoqda.",
+    "tags": [
+      "Oracle",
+      "mehnat bozori"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-09-01T16:06:00.000Z",
+    "created": "2026-09-01T18:09:54.242Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/ai-and-ml/2026/09/01/oracle-pins-hopes-on-star-wars-productivity-jump-to-lightspeed-from-ai-assisted-engineering-1/5293596",
+      "title": "Oracle pins hopes on 'Star Wars' productivity jump to lightspeed from AI-assisted engineering",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "59336903632e",
     "slug": "avtomatlashtirish-va-aining-mehnat-bozoriga-tasiri-593369",
     "title": "Avtomatlashtirish va AIning mehnat bozoriga ta'siri",
