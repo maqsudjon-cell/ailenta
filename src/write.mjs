@@ -8,6 +8,7 @@
 
 import { readFile, writeFile } from "node:fs/promises";
 import { storyKey, sameStory } from "./similar.mjs";
+import { normalizeTags, TAG_GUIDE } from "./tags.mjs";
 import { join, dirname } from "node:path";
 import { fileURLToPath } from "node:url";
 
@@ -46,7 +47,7 @@ QAT'IY QOIDALAR:
 Javobni faqat JSON massiv sifatida qaytar, boshqa hech narsa yozma:
 [{"id":"<berilgan id>","title":"...","summary":"...","tags":["..."],"importance":1-5,"skip":false}]
 
-tags — 1 yoki 2 ta: kompaniya nomi yoki mavzu (masalan "Anthropic", "chiplar", "sud").
+tags — 1 yoki 2 ta. ${TAG_GUIDE}
 importance — 5 = kunning asosiy voqeasi, 1 = mayda xabar.`;
 
 // ---------- provayderlar ----------
@@ -213,7 +214,7 @@ async function main() {
         slug: `${slugify(r.title)}-${lead.id.slice(0, 6)}`,
         title: r.title.trim(),
         summary: r.summary.trim(),
-        tags: (r.tags || []).slice(0, 2),
+        tags: normalizeTags(r.tags),
         importance: Math.min(5, Math.max(1, Number(r.importance) || 3)),
         score: c.score,
         published: lead.published,
@@ -227,7 +228,19 @@ async function main() {
           title: lead.title,
           indirect: !!lead.indirect,
         },
-        also: [...new Set(c.items.slice(1).map((x) => x.sourceName))].slice(0, 4),
+        // Boshqa nashrlar — nomi va havolasi bilan. Xabar sahifasida
+        // o'quvchi bir voqeani bir necha manbadan tekshira olishi uchun.
+        also: (() => {
+          const seenName = new Set([lead.sourceName]);
+          const out = [];
+          for (const x of c.items.slice(1)) {
+            if (seenName.has(x.sourceName) || x.indirect) continue;
+            seenName.add(x.sourceName);
+            out.push({ name: x.sourceName, url: x.url });
+            if (out.length >= 6) break;
+          }
+          return out;
+        })(),
         model: PROVIDER,
       });
     }
@@ -251,6 +264,12 @@ async function main() {
 
   await writeFile(join(ROOT, "data/posts.json"), JSON.stringify(posts, null, 2));
   await writeFile(join(ROOT, "data/seen.json"), JSON.stringify(seen, null, 2));
+
+  // Shu yugurishda nima chiqqani — Telegram shu ro'yxatdan yuboradi.
+  await writeFile(
+    join(ROOT, "data/last-run.json"),
+    JSON.stringify({ at: new Date().toISOString(), slugs: written.map((p) => p.slug) }, null, 2)
+  );
 
   console.log(`Yozildi: ${written.length} ta xabar (jami ${posts.length})`);
   for (const p of written) console.log(`  [${p.importance}] ${p.title}`);

@@ -160,6 +160,194 @@
       "url": "https://www.platformer.news/rss/",
       "weight": 4,
       "lang": "en"
+    },
+    {
+      "id": "semafor",
+      "name": "Semafor",
+      "url": "https://www.semafor.com/rss.xml",
+      "weight": 4,
+      "cap": 25,
+      "lang": "en"
+    },
+    {
+      "id": "nyt-tech",
+      "name": "The New York Times",
+      "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml",
+      "weight": 6,
+      "lang": "en"
+    },
+    {
+      "id": "businessinsider",
+      "name": "Business Insider",
+      "url": "https://www.businessinsider.com/rss",
+      "weight": 3,
+      "lang": "en"
+    },
+    {
+      "id": "fortune",
+      "name": "Fortune",
+      "url": "https://fortune.com/feed/fortune-feeds/?id=3230629",
+      "weight": 4,
+      "lang": "en"
+    },
+    {
+      "id": "404media",
+      "name": "404 Media",
+      "url": "https://www.404media.co/rss/",
+      "weight": 4,
+      "lang": "en"
+    },
+    {
+      "id": "restofworld",
+      "name": "Rest of World",
+      "url": "https://restofworld.org/feed/latest/",
+      "weight": 4,
+      "lang": "en"
+    },
+    {
+      "id": "wapo-tech",
+      "name": "The Washington Post",
+      "url": "https://feeds.washingtonpost.com/rss/business/technology",
+      "weight": 5,
+      "lang": "en"
+    },
+    {
+      "id": "nvidia",
+      "name": "Nvidia",
+      "url": "https://blogs.nvidia.com/feed/",
+      "weight": 5,
+      "primary": true,
+      "lang": "en"
+    },
+    {
+      "id": "apple-ml",
+      "name": "Apple",
+      "url": "https://machinelearning.apple.com/rss.xml",
+      "weight": 5,
+      "primary": true,
+      "lang": "en"
+    },
+    {
+      "id": "qwen",
+      "name": "Qwen",
+      "url": "https://qwenlm.github.io/blog/index.xml",
+      "weight": 4,
+      "primary": true,
+      "cap": 6,
+      "lang": "en"
+    },
+    {
+      "id": "microsoft",
+      "name": "Microsoft",
+      "url": "https://news.microsoft.com/source/feed/",
+      "weight": 5,
+      "primary": true,
+      "lang": "en"
+    },
+    {
+      "id": "meta",
+      "name": "Meta",
+      "url": "https://about.fb.com/news/feed/",
+      "weight": 5,
+      "primary": true,
+      "lang": "en"
+    },
+    {
+      "id": "nature-ml",
+      "name": "Nature",
+      "url": "https://www.nature.com/subjects/machine-learning.rss",
+      "weight": 5,
+      "cap": 8,
+      "lang": "en"
+    },
+    {
+      "id": "arxiv-lg",
+      "name": "arXiv cs.LG",
+      "url": "https://export.arxiv.org/rss/cs.LG",
+      "weight": 1,
+      "cap": 3,
+      "lang": "en"
+    },
+    {
+      "id": "arxiv-cl",
+      "name": "arXiv cs.CL",
+      "url": "https://export.arxiv.org/rss/cs.CL",
+      "weight": 1,
+      "cap": 3,
+      "lang": "en"
+    },
+    {
+      "id": "interconnects",
+      "name": "Interconnects",
+      "url": "https://www.interconnects.ai/feed",
+      "weight": 3,
+      "lang": "en"
+    },
+    {
+      "id": "ainews",
+      "name": "AI News",
+      "url": "https://buttondown.com/ainews/rss",
+      "weight": 2,
+      "cap": 4,
+      "lang": "en"
+    },
+    {
+      "id": "habr",
+      "name": "Habr",
+      "url": "https://habr.com/ru/rss/hub/artificial_intelligence/all/",
+      "weight": 2,
+      "cap": 10,
+      "lang": "en"
+    },
+    {
+      "id": "daryo",
+      "name": "Daryo",
+      "url": "https://daryo.uz/feed",
+      "weight": 5,
+      "local": true,
+      "cap": 40,
+      "lang": "uz"
+    },
+    {
+      "id": "gazeta-uz",
+      "name": "Gazeta.uz",
+      "url": "https://www.gazeta.uz/uz/rss/",
+      "weight": 5,
+      "local": true,
+      "lang": "uz"
+    },
+    {
+      "id": "kun-uz",
+      "name": "Kun.uz",
+      "url": "https://kun.uz/uz/news/rss",
+      "weight": 5,
+      "local": true,
+      "lang": "uz"
+    },
+    {
+      "id": "spot-uz",
+      "name": "Spot.uz",
+      "url": "https://www.spot.uz/rss/",
+      "weight": 5,
+      "local": true,
+      "lang": "uz"
+    },
+    {
+      "id": "uzdaily",
+      "name": "UzDaily",
+      "url": "https://www.uzdaily.uz/uz/rss/",
+      "weight": 4,
+      "local": true,
+      "lang": "uz"
+    },
+    {
+      "id": "review-uz",
+      "name": "Review.uz",
+      "url": "https://review.uz/rss",
+      "weight": 4,
+      "local": true,
+      "cap": 20,
+      "lang": "uz"
     }
   ],
   "googleNews": [
@@ -185,6 +373,13 @@
       "id": "gn-uz",
       "name": "Google News",
       "q": "sun'iy intellekt O'zbekiston OR Uzbekistan artificial intelligence",
+      "weight": 5,
+      "local": true
+    },
+    {
+      "id": "gn-uz2",
+      "name": "Google News",
+      "q": "\"sun'iy intellekt\" OR \"суний интеллект\"",
       "weight": 5,
       "local": true
     }
@@ -307,6 +502,17 @@
     "MIT News": 4,
     "Platformer": 4,
     "MIT Technology Review": 5,
-    "The Decoder": 3
+    "The Decoder": 3,
+    "Semafor": 4,
+    "404 Media": 4,
+    "Rest of World": 4,
+    "Daryo": 5,
+    "Gazeta.uz": 5,
+    "Kun.uz": 5,
+    "Spot.uz": 5,
+    "UzDaily": 4,
+    "Review.uz": 4,
+    "Nature": 5,
+    "Interconnects": 3
   }
 }

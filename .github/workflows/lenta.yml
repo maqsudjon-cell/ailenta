@@ -40,6 +40,12 @@ jobs:
       - name: Sahifalarni qurish
         run: node src/build.mjs
 
+      - name: Telegram kanalga yuborish
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: node src/telegram.mjs
+
       - name: Nashr qilish
         run: |
           git config user.name "ai-lenta-bot"
@@ -51,3 +57,6 @@ jobs:
             git commit -m "lenta: $(date -u '+%Y-%m-%d %H:%M') UTC"
             git push
           fi
+
+      - name: Qidiruv tizimlariga bildirish
+        run: node src/indexnow.mjs

@@ -1,14 +1,17 @@
-// build.mjs — posts.json dan statik sahifalar quradi.
+// build.mjs — posts.json dan butun saytni quradi.
 //
-// node src/build.mjs            → uchala dizaynni ham quradi
-// node src/build.mjs lenta      → faqat bittasini
+//   node src/build.mjs          → docs/ (nashr uchun: bosh sahifa, xabarlar,
+//                                 mavzular, kunlar, arxiv, sitemap, RSS)
+//   node src/build.mjs lenta    → site/lenta/ (faqat dizaynni ko'rish uchun)
 
-import { readFile, writeFile, mkdir } from "node:fs/promises";
+import { readFile, writeFile, mkdir, rm } from "node:fs/promises";
 import { join, dirname } from "node:path";
 import { fileURLToPath } from "node:url";
+import { SITE } from "../templates/shell.mjs";
+import { postPage, listPage, topicsPage } from "../templates/pages.mjs";
+import { slugTag } from "../templates/parts.mjs";
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
-// Saytda chiqadigan dizayn. Qolganlari faqat solishtirish uchun quriladi.
 const PUBLISH = "katta";
 const THEMES = ["lenta", "katta", "gazeta"];
 
@@ -24,12 +27,12 @@ export function tashkent(iso) {
     hhmm: `${String(d.getUTCHours()).padStart(2, "0")}:${String(d.getUTCMinutes()).padStart(2, "0")}`,
     day: d.getUTCDate(),
     month: MONTHS[d.getUTCMonth()],
+    year: d.getUTCFullYear(),
     date: `${d.getUTCDate()}-${MONTHS[d.getUTCMonth()]}`,
     ymd: `${d.getUTCFullYear()}-${String(d.getUTCMonth() + 1).padStart(2, "0")}-${String(d.getUTCDate()).padStart(2, "0")}`,
   };
 }
 
-// "3 soat oldin"
 export function ago(iso) {
   const mins = Math.max(1, Math.round((Date.now() - Date.parse(iso)) / 60000));
   if (mins < 60) return `${mins} daqiqa oldin`;
@@ -40,9 +43,8 @@ export function ago(iso) {
 }
 
 export const esc = (s = "") =>
-  s.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
+  String(s).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
 
-// Manba nomidan sayt domenini chiqaramiz (favicon uchun emas, ko'rsatish uchun).
 export const hostOf = (url) => {
   try { return new URL(url).hostname.replace(/^www\./, ""); } catch { return ""; }
 };
@@ -52,29 +54,176 @@ export const hostOf = (url) => {
 export const via = (p) =>
   p.source.indirect ? "Google News orqali" : hostOf(p.source.url);
 
-async function main() {
-  const only = process.argv[2];
-  const posts = JSON.parse(await readFile(join(ROOT, "data/posts.json"), "utf8"));
+const U = { tashkent, ago, esc, hostOf, via, MONTHS };
 
-  // Argumentsiz chaqirilsa — nashr uchun quriladi (docs/ → GitHub Pages).
-  // Dizayn nomi berilsa — solishtirish uchun site/ ichiga quriladi.
-  const build = async (name, outDir, label) => {
-    const { render } = await import(`../templates/${name}.mjs`);
-    const html = render(posts, { tashkent, ago, esc, hostOf, via, MONTHS });
-    await mkdir(join(ROOT, outDir), { recursive: true });
-    await writeFile(join(ROOT, outDir, "index.html"), html);
-    console.log(`  ✓ ${label}  (${(html.length / 1024).toFixed(1)} KB)`);
-  };
+const write = async (relPath, body) => {
+  const full = join(ROOT, relPath);
+  await mkdir(dirname(full), { recursive: true });
+  await writeFile(full, body);
+  return body.length;
+};
 
-  if (!only) {
-    await build(PUBLISH, "docs", "docs/index.html");
-    return;
-  }
-  if (only === "all") {
-    for (const t of THEMES) await build(t, join("site", t), `site/${t}/index.html`);
-    return;
-  }
-  await build(only, join("site", only), `site/${only}/index.html`);
+// ---------- sitemap va RSS ----------
+
+function sitemap(urls) {
+  return `<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+${urls.map((u) => `  <url>
+    <loc>${esc(SITE.url)}${esc(u.path)}</loc>
+    <lastmod>${u.lastmod.slice(0, 10)}</lastmod>
+    <changefreq>${u.freq}</changefreq>
+    <priority>${u.priority}</priority>
+  </url>`).join("\n")}
+</urlset>
+`;
 }
 
-main();
+function rss(posts) {
+  const now = new Date().toUTCString();
+  return `<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>${esc(SITE.name)}</title>
+  <link>${SITE.url}</link>
+  <description>${esc(SITE.description)}</description>
+  <language>uz</language>
+  <lastBuildDate>${now}</lastBuildDate>
+  <atom:link href="${SITE.url}/rss.xml" rel="self" type="application/rss+xml"/>
+${posts.slice(0, 50).map((p) => `  <item>
+    <title>${esc(p.title)}</title>
+    <link>${SITE.url}/x/${esc(p.slug)}/</link>
+    <guid isPermaLink="true">${SITE.url}/x/${esc(p.slug)}/</guid>
+    <pubDate>${new Date(p.published).toUTCString()}</pubDate>
+    <description>${esc(p.summary)}</description>
+    ${(p.tags || []).map((t) => `<category>${esc(t)}</category>`).join("")}
+  </item>`).join("\n")}
+</channel>
+</rss>
+`;
+}
+
+// ---------- asosiy ----------
+
+async function buildPreview(name) {
+  const posts = JSON.parse(await readFile(join(ROOT, "data/posts.json"), "utf8"));
+  const { render } = await import(`../templates/${name}.mjs`);
+  const n = await write(join("site", name, "index.html"), render(posts, U));
+  console.log(`  ✓ site/${name}/index.html  (${(n / 1024).toFixed(1)} KB)`);
+}
+
+async function buildSite() {
+  const posts = JSON.parse(await readFile(join(ROOT, "data/posts.json"), "utf8"))
+    .sort((a, b) => b.published.localeCompare(a.published));
+
+  // Eski sahifalar qolib ketmasin: xabar sahifalari har safar qaytadan quriladi.
+  await rm(join(ROOT, "docs/x"), { recursive: true, force: true });
+  await rm(join(ROOT, "docs/mavzu"), { recursive: true, force: true });
+  await rm(join(ROOT, "docs/kun"), { recursive: true, force: true });
+
+  const urls = [];
+  let pages = 0;
+
+  // Bosh sahifa — eng so'nggi 60 tasi.
+  const { render } = await import(`../templates/${PUBLISH}.mjs`);
+  await write("docs/index.html", render(posts.slice(0, 60), U));
+  urls.push({ path: "/", lastmod: posts[0]?.published || new Date().toISOString(), freq: "hourly", priority: "1.0" });
+  pages++;
+
+  // Mavzu va kun bo'yicha guruhlar.
+  const byTag = new Map();
+  const byDay = new Map();
+  for (const p of posts) {
+    for (const t of p.tags || []) {
+      if (!byTag.has(t)) byTag.set(t, []);
+      byTag.get(t).push(p);
+    }
+    const ymd = tashkent(p.published).ymd;
+    if (!byDay.has(ymd)) byDay.set(ymd, []);
+    byDay.get(ymd).push(p);
+  }
+
+  // Xabar sahifalari.
+  for (const p of posts) {
+    const related = posts
+      .filter((r) => r.slug !== p.slug && (r.tags || []).some((t) => (p.tags || []).includes(t)))
+      .slice(0, 4);
+    await write(`docs/x/${p.slug}/index.html`, postPage(p, related, U));
+    urls.push({ path: `/x/${p.slug}/`, lastmod: p.published, freq: "monthly", priority: "0.8" });
+    pages++;
+  }
+
+  // Mavzu sahifalari. Bitta xabarli mavzu sahifasi qidiruv uchun bo'sh sahifa —
+  // havolasi ishlaydi, lekin indeksga tushmaydi va sitemapga kirmaydi.
+  let thinTags = 0;
+  for (const [tag, items] of byTag) {
+    const path = `/mavzu/${slugTag(tag)}/`;
+    const thin = items.length < 2;
+    await write(`docs${path}index.html`, listPage({
+      title: `${tag} — ${SITE.name}`,
+      heading: tag,
+      intro: `"${tag}" mavzusidagi ${items.length} ta xabar. Sahifa avtomat to'lib boradi.`,
+      path,
+      items,
+      noindex: thin,
+      trail: [{ label: "Bosh sahifa", href: "/" }, { label: "Mavzular", href: "/mavzular/" }, { label: tag }],
+    }, U));
+    if (thin) thinTags++;
+    else urls.push({ path, lastmod: items[0].published, freq: "daily", priority: "0.7" });
+    pages++;
+  }
+
+  // Kun sahifalari.
+  const days = [...byDay.entries()].sort((a, b) => b[0].localeCompare(a[0]));
+  for (const [ymd, items] of days) {
+    const t = tashkent(`${ymd}T12:00:00Z`);
+    const path = `/kun/${ymd}/`;
+    await write(`docs${path}index.html`, listPage({
+      title: `${t.day}-${t.month}, ${t.year} — ${SITE.name}`,
+      heading: `${t.day}-${t.month}, ${t.year}`,
+      intro: `O'sha kuni chiqqan ${items.length} ta sun'iy intellekt xabari.`,
+      path,
+      items,
+      trail: [{ label: "Bosh sahifa", href: "/" }, { label: "Arxiv", href: "/arxiv/" }, { label: `${t.day}-${t.month}` }],
+    }, U));
+    urls.push({ path, lastmod: items[0].published, freq: "monthly", priority: "0.6" });
+    pages++;
+  }
+
+  // Arxiv — barcha kunlar ro'yxati.
+  const archiveLinks = `<div class="tagcloud">${days
+    .map(([ymd, items]) => {
+      const t = tashkent(`${ymd}T12:00:00Z`);
+      return `<a href="/kun/${ymd}/">${t.day}-${t.month}<b>${items.length}</b></a>`;
+    })
+    .join("")}</div>`;
+  await write("docs/arxiv/index.html", listPage({
+    title: `Arxiv — ${SITE.name}`,
+    heading: "Arxiv",
+    intro: `${days.length} kun, jami ${posts.length} ta xabar.`,
+    path: "/arxiv/",
+    items: [],
+    trail: [{ label: "Bosh sahifa", href: "/" }, { label: "Arxiv" }],
+    extra: archiveLinks,
+  }, U));
+  urls.push({ path: "/arxiv/", lastmod: posts[0]?.published || new Date().toISOString(), freq: "daily", priority: "0.6" });
+  pages++;
+
+  // Mavzular ro'yxati.
+  const tagCounts = [...byTag.entries()].map(([t, items]) => [t, items.length]).sort((a, b) => b[1] - a[1]);
+  await write("docs/mavzular/index.html", topicsPage(tagCounts, U));
+  urls.push({ path: "/mavzular/", lastmod: posts[0]?.published || new Date().toISOString(), freq: "daily", priority: "0.6" });
+  pages++;
+
+  // Sitemap, RSS, robots.
+  await write("docs/sitemap.xml", sitemap(urls));
+  await write("docs/rss.xml", rss(posts));
+  await write("docs/robots.txt", `User-agent: *\nAllow: /\n\nSitemap: ${SITE.url}/sitemap.xml\n`);
+
+  console.log(`  ✓ ${pages} ta sahifa · ${byTag.size} mavzu (${thinTags} tasi indekssiz) · ${days.length} kun`);
+  console.log(`  ✓ sitemap.xml (${urls.length} manzil) · rss.xml (${Math.min(posts.length, 50)} xabar) · robots.txt`);
+}
+
+const only = process.argv[2];
+if (!only) await buildSite();
+else if (only === "all") for (const t of THEMES) await buildPreview(t);
+else await buildPreview(only);

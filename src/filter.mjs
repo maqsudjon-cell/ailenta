@@ -12,13 +12,20 @@ const MAX_PER_RUN = 14;
 const CLUSTER_MIN = 0.26;   // bundan past o'xshashlik — boshqa voqea
 
 // Sarlavhada uchrasa, mavzu AI ekaniga ishonch beradi.
-const AI_TERMS = [
+// Ro'yxat norm() bilan bir xil shaklga keltiriladi, aks holda apostrofli
+// o'zbekcha atamalar ("sun'iy intellekt") hech qachon topilmaydi.
+const AI_TERMS_RAW = [
+  // inglizcha
   "ai", "a.i.", "artificial intelligence", "machine learning", "llm", "gpt", "chatgpt",
   "claude", "gemini", "anthropic", "openai", "deepmind", "mistral", "llama", "qwen",
   "neural", "transformer", "model", "agent", "agentic", "inference", "training",
   "deepseek", "copilot", "midjourney", "diffusion", "chatbot", "robot", "humanoid",
   "nvidia", "gpu", "datacenter", "data center", "hugging face", "grok", "xai",
-  "sun'iy intellekt", "sun’iy intellekt", "suniy intellekt",
+  // o'zbekcha
+  "sun'iy intellekt", "sun'iy idrok", "suniy intellekt", "sunʼiy intellekt",
+  "neyron tarmoq", "chatbot", "robotexnika", "raqamli texnologiya",
+  // ruscha
+  "искусственный интеллект", "нейросеть", "нейросети", "чат-бот",
 ];
 
 // Bular yangilik emas — reklama, ro'yxat, birja shovqini.
@@ -31,6 +38,11 @@ const JUNK = [
   /\bwhy .* is a (buy|sell)\b/i,
   /^watch\b/i,            // Bloomberg TV lavhalari — maqola emas
   /\| bloomberg tech\b/i,
+  // Sotuvchi bloglaridagi reklama va qo'llanmalar — bular yangilik emas
+  /\b(forrester wave|magic quadrant|recognized as a leader|named a leader)\b/i,
+  /^(how to|getting started|introducing our|build|deploy|create) .{0,60}\bwith\b/i,
+  /\b(step[- ]by[- ]step|tutorial|webinar|case study|customer story)\b/i,
+  /\b(now available in|expands to|general availability) .{0,30}\bregion/i,
 ];
 
 // Nashrlar sarlavhaga qo'shadigan xizmat belgilari.
@@ -120,6 +132,8 @@ function centroidOf(vecs) {
   }
   return { v: sum, norm: Math.sqrt(sq) || 1 };
 }
+
+const AI_TERMS = [...new Set(AI_TERMS_RAW.map(norm).filter(Boolean))];
 
 function aiScore(item) {
   const hay = ` ${norm(item.title)} ${norm(item.summary || "")} `;
