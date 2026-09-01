@@ -30,16 +30,8 @@
     "robototexnika": "Ameca Generation 1.jpg",
     "sud": "United States Post Office and Courthouse 2.jpg"
   },
-  "fokus_izoh": "Suratni kesishda vertikal markaz: 0 = tepa, 1 = past. Tik suratlar keng kartochkaga kesilganda markazdan olsak odamning boshi yoki binoning logotipi kesilib qoladi. Qiymatlar ko'z bilan tekshirilgan.",
+  "fokus_izoh": "Kesish markazi ODATDA O'ZI hisoblanadi (src/photos.mjs dagi autoFocus, surat nisbatiga qarab). Bu ro'yxat faqat qoida xato bo'lgan kamdan-kam hollar uchun: 0 = tepa, 1 = past.",
   "fokus": {
-    "mediatek": 0.12,
-    "robototexnika": 0.04,
-    "openai": 0.28,
-    "salesforce": 0.16,
-    "endryu beyli": 0.22,
-    "jensen huang": 0.32,
-    "donald tramp": 0.26,
-    "anthropic": 0.42,
-    "asml": 0.42
+    "robototexnika": 0.04
   }
 }
