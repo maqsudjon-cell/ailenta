@@ -15,6 +15,24 @@ export const SITE = {
 export const esc = (s = "") =>
   String(s).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
 
+// Google tavsifni ~155 belgida kesadi. O'zimiz so'z chegarasida kesamiz —
+// aks holda natijada yarim so'z qolib ketadi.
+export function clampDesc(text, max = 155) {
+  const t = String(text || "").replace(/\s+/g, " ").trim();
+  if (t.length <= max) return t;
+  const cut = t.slice(0, max - 1);
+  const sp = cut.lastIndexOf(" ");
+  return (sp > max * 0.6 ? cut.slice(0, sp) : cut).replace(/[\s,.;:—-]+$/, "") + "…";
+}
+
+// Sarlavha ham ~60 belgida kesiladi. Joy yetsa brend nomi qo'shiladi,
+// yetmasa sarlavhaning o'zi qoladi — brend uchun sarlavhani qurbon qilmaymiz.
+export function pageTitle(headline, { brand = true } = {}) {
+  const h = String(headline).trim();
+  const suffix = ` — ${SITE.name}`;
+  return brand && h.length + suffix.length <= 60 ? h + suffix : h;
+}
+
 export const CSS = `<style>
   :root{
     --paper:#FFFFFF; --raise:#F6F7F9; --ink:#0A0A0B; --dim:#52565E; --faint:#8A9099;
@@ -281,9 +299,9 @@ const FONTS = `<link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;600;700;800;900&family=IBM+Plex+Mono:wght@400;500;600&display=swap">`;
 
 // Sahifa boshi: meta teglar, ijtimoiy tarmoq kartasi, JSON-LD, statistika.
-export function head({ title, description, path = "/", jsonld = [], noindex = false, image }) {
+export function head({ title, description, path = "/", jsonld = [], noindex = false, image, article }) {
   const canonical = `${SITE.url}${path}`;
-  const desc = description || SITE.description;
+  const desc = clampDesc(description || SITE.description);
   const og = `${SITE.url}${image || "/og/default.png"}`;
   return `<!doctype html>
 <html lang="${SITE.lang}" data-design="katta">
@@ -294,7 +312,7 @@ export function head({ title, description, path = "/", jsonld = [], noindex = fa
 <meta name="description" content="${esc(desc)}">
 <link rel="canonical" href="${esc(canonical)}">
 ${noindex ? '<meta name="robots" content="noindex,follow">' : '<meta name="robots" content="index,follow,max-image-preview:large,max-snippet:-1">'}
-<meta property="og:type" content="website">
+<meta property="og:type" content="${article ? "article" : "website"}">
 <meta property="og:site_name" content="${esc(SITE.name)}">
 <meta property="og:locale" content="uz_UZ">
 <meta property="og:title" content="${esc(title)}">
@@ -305,6 +323,9 @@ ${noindex ? '<meta name="robots" content="noindex,follow">' : '<meta name="robot
 <meta property="og:image:height" content="630">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:image" content="${esc(og)}">
+${article ? `<meta property="article:published_time" content="${esc(article.published)}">
+<meta property="article:modified_time" content="${esc(article.modified || article.published)}">
+${(article.tags || []).map((t) => `<meta property="article:tag" content="${esc(t)}">`).join("\n")}` : ""}
 <meta name="twitter:title" content="${esc(title)}">
 <meta name="twitter:description" content="${esc(desc)}">
 <meta name="theme-color" content="#ffffff" media="(prefers-color-scheme: light)">
@@ -315,7 +336,7 @@ ${noindex ? '<meta name="robots" content="noindex,follow">' : '<meta name="robot
 <link rel="apple-touch-icon" href="/favicon-180.png">
 ${FONTS}
 ${jsonld.map((j) => `<script type="application/ld+json">${JSON.stringify(j)}</script>`).join("\n")}
-<script data-goatcounter="https://${SITE.goatcounter}.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+<script data-goatcounter="https://${SITE.goatcounter}.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>
 ${CSS}
 </head>
 <body>`;

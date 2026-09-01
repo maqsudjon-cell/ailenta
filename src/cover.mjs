@@ -37,7 +37,10 @@ const esc = (s = "") =>
 
 // Ustunlar bo'ylab joylashgan kataklar: to'ldirilgan doira, halqa yoki tayoqcha.
 // Qaysi biri chiqishi xabar identifikatoriga bog'liq.
-function pattern({ x, y, w, h, cols, rows, color, seed }) {
+function pattern({ x, y, w, h, cols, rows, color, seed, precise = true }) {
+  // Kichik rasmda kasr koordinata ko'zga tashlanmaydi, lekin sahifa vaznini
+  // ikki barobar oshiradi — shuning uchun u yerda butun songa yaxlitlanadi.
+  const f = (n) => (precise ? n.toFixed(1) : Math.round(n));
   const rand = rng(seed);
   const cw = w / cols;
   const ch = h / rows;
@@ -49,16 +52,16 @@ function pattern({ x, y, w, h, cols, rows, color, seed }) {
       const cx = x + c * cw + cw / 2;
       const cy = y + r * ch + ch / 2;
       const s = Math.min(cw, ch);
-      const op = (0.18 + rand() * 0.62).toFixed(2);
+      const op = (0.18 + rand() * 0.62).toFixed(precise ? 2 : 1);
       if (v < 0.55) {
-        out.push(`<circle cx="${cx.toFixed(1)}" cy="${cy.toFixed(1)}" r="${(s * 0.3).toFixed(1)}" fill="${color}" opacity="${op}"/>`);
+        out.push(`<circle cx="${f(cx)}" cy="${f(cy)}" r="${f(s * 0.3)}" fill="${color}" opacity="${op}"/>`);
       } else if (v < 0.8) {
-        out.push(`<circle cx="${cx.toFixed(1)}" cy="${cy.toFixed(1)}" r="${(s * 0.29).toFixed(1)}" fill="none" stroke="${color}" stroke-width="${(s * 0.1).toFixed(1)}" opacity="${op}"/>`);
+        out.push(`<circle cx="${f(cx)}" cy="${f(cy)}" r="${f(s * 0.29)}" fill="none" stroke="${color}" stroke-width="${f(s * 0.1)}" opacity="${op}"/>`);
       } else {
         const vertical = rand() < 0.5;
         const bw = vertical ? s * 0.16 : s * 0.62;
         const bh = vertical ? s * 0.62 : s * 0.16;
-        out.push(`<rect x="${(cx - bw / 2).toFixed(1)}" y="${(cy - bh / 2).toFixed(1)}" width="${bw.toFixed(1)}" height="${bh.toFixed(1)}" rx="${(Math.min(bw, bh) / 2).toFixed(1)}" fill="${color}" opacity="${op}"/>`);
+        out.push(`<rect x="${f(cx - bw / 2)}" y="${f(cy - bh / 2)}" width="${f(bw)}" height="${f(bh)}" rx="${f(Math.min(bw, bh) / 2)}" fill="${color}" opacity="${op}"/>`);
       }
     }
   }
@@ -153,12 +156,12 @@ export function thumbSvg(post, size = 64) {
   const color = topicColor(post.tags);
   const glyph = topicGlyph(post.tags, color, 24);
   const seed = seedOf((post.slug || post.title) + "t");
-  return `<svg class="thumb" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="${size}" height="${size}" aria-hidden="true" focusable="false">
-  <rect width="64" height="64" rx="7" fill="${color}" opacity="0.13"/>
-  <g opacity="0.8">${pattern({ x: 0, y: 0, w: 64, h: 64, cols: 4, rows: 4, color, seed })}</g>
-  <circle cx="32" cy="32" r="17" fill="#FFFFFF" opacity="0.92"/>
-  <g transform="translate(17 17) scale(1.25)">${glyph.inner}</g>
-</svg>`;
+  // HTML ichida xmlns kerak emas; koordinatalar butun songa yaxlitlanadi.
+  return `<svg class="thumb" viewBox="0 0 64 64" width="${size}" height="${size}" aria-hidden="true">`
+    + `<rect width="64" height="64" rx="7" fill="${color}" opacity=".13"/>`
+    + `<g opacity=".8">${pattern({ x: 0, y: 0, w: 64, h: 64, cols: 3, rows: 3, color, seed, precise: false })}</g>`
+    + `<circle cx="32" cy="32" r="17" fill="#fff" opacity=".92"/>`
+    + `<g transform="translate(17 17) scale(1.25)">${glyph.inner}</g></svg>`;
 }
 
 export { topicColor, topicGlyph };

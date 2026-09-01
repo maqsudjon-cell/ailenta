@@ -44,6 +44,10 @@ jobs:
       - name: Sahifalarni qurish
         run: node src/build.mjs
 
+      - name: Saytni tekshirish
+        continue-on-error: true
+        run: node src/audit.mjs
+
       - name: Telegram kanalga yuborish
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}

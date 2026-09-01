@@ -1,6 +1,6 @@
 // pages.mjs — xabar, mavzu, kun va arxiv sahifalari.
 
-import { SITE, head, topbar, foot, publisher } from "./shell.mjs";
+import { SITE, head, topbar, foot, publisher, pageTitle, clampDesc } from "./shell.mjs";
 import { coverBar, sourceMark, tagChips, listItem, crumbs, tagPath } from "./parts.mjs";
 
 // ---------- bitta xabar ----------
@@ -48,10 +48,11 @@ export function postPage(p, related, u) {
     .filter((a) => a && a.name && a.name !== p.source.name);
 
   return `${head({
-    title: `${p.title} — ${SITE.name}`,
+    title: pageTitle(p.title),
     description: p.summary,
     path: `/x/${p.slug}/`,
     image: `/og/${p.slug}.png`,
+    article: { published: p.published, modified: p.created, tags: p.tags },
     jsonld,
   })}
 ${topbar(now.hhmm)}
@@ -150,6 +151,41 @@ ${topbar(now.hhmm)}
   </section>
 
   ${extra}
+${foot(now)}`;
+}
+
+// ---------- topilmadi ----------
+//
+// GitHub Pages mavjud bo'lmagan manzilda shu faylni ko'rsatadi. Bo'sh oq
+// sahifa o'rniga o'quvchini kerakli joyga yo'naltiramiz.
+export function notFoundPage(latest, u) {
+  const { tashkent, esc } = u;
+  const now = tashkent(new Date().toISOString());
+  return `${head({
+    title: `Sahifa topilmadi — ${SITE.name}`,
+    description: "Bunday sahifa yo'q. Bosh sahifadan so'nggi sun'iy intellekt yangiliklarini o'qing.",
+    path: "/404.html",
+    noindex: true,
+  })}
+${topbar(now.hhmm)}
+
+<div class="wrap">
+  <div class="listing-head">
+    <h1>Bunday sahifa yo'q</h1>
+    <p>Havola eskirgan yoki manzilda xato bo'lishi mumkin. Quyidagilardan boshlang.</p>
+  </div>
+
+  <div class="tagcloud" style="padding-top:1.6rem">
+    <a href="/">Bosh sahifa</a>
+    <a href="/arxiv/">Arxiv</a>
+    <a href="/mavzular/">Mavzular</a>
+    <a href="/rss.xml">RSS</a>
+  </div>
+
+  <section class="related" style="padding-top:2.4rem">
+    <h2>So'nggi xabarlar</h2>
+    ${latest.slice(0, 5).map((p) => listItem(p, u)).join("")}
+  </section>
 ${foot(now)}`;
 }
 

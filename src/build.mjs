@@ -8,7 +8,7 @@ import { readFile, writeFile, mkdir, rm } from "node:fs/promises";
 import { join, dirname } from "node:path";
 import { fileURLToPath } from "node:url";
 import { SITE } from "../templates/shell.mjs";
-import { postPage, listPage, topicsPage } from "../templates/pages.mjs";
+import { postPage, listPage, topicsPage, notFoundPage } from "../templates/pages.mjs";
 import { slugTag } from "../templates/parts.mjs";
 import { buildImages } from "./images.mjs";
 
@@ -165,7 +165,8 @@ async function buildSite() {
     await write(`docs${path}index.html`, listPage({
       title: `${tag} — ${SITE.name}`,
       heading: tag,
-      intro: `"${tag}" mavzusidagi ${items.length} ta xabar. Sahifa avtomat to'lib boradi.`,
+      intro: `"${tag}" mavzusidagi ${items.length} ta sun'iy intellekt xabari o'zbek tilida. `
+        + `Sahifa har uch soatda avtomat to'lib boradi, har bir xabarda asl manbaga havola bor.`,
       path,
       items,
       noindex: thin,
@@ -184,7 +185,9 @@ async function buildSite() {
     await write(`docs${path}index.html`, listPage({
       title: `${t.day}-${t.month}, ${t.year} — ${SITE.name}`,
       heading: `${t.day}-${t.month}, ${t.year}`,
-      intro: `O'sha kuni chiqqan ${items.length} ta sun'iy intellekt xabari.`,
+      intro: `${t.day}-${t.month}, ${t.year} kuni dunyoda sun'iy intellekt bo'yicha nima bo'ldi — `
+        + `${items.length} ta xabar, ${[...new Set(items.map((x) => x.source.name))].length} ta manbadan, `
+        + `o'zbek tilida va har birida asl maqolaga havola bilan.`,
       path,
       items,
       trail: [{ label: "Bosh sahifa", href: "/" }, { label: "Arxiv", href: "/arxiv/" }, { label: `${t.day}-${t.month}` }],
@@ -203,7 +206,8 @@ async function buildSite() {
   await write("docs/arxiv/index.html", listPage({
     title: `Arxiv — ${SITE.name}`,
     heading: "Arxiv",
-    intro: `${days.length} kun, jami ${posts.length} ta xabar.`,
+    intro: `Kun bo'yicha arxiv: ${days.length} kun, jami ${posts.length} ta sun'iy intellekt xabari `
+      + `o'zbek tilida. Har bir kunni alohida ochib, o'sha kuni nima bo'lganini ko'rish mumkin.`,
     path: "/arxiv/",
     items: [],
     trail: [{ label: "Bosh sahifa", href: "/" }, { label: "Arxiv" }],
@@ -216,6 +220,10 @@ async function buildSite() {
   const tagCounts = [...byTag.entries()].map(([t, items]) => [t, items.length]).sort((a, b) => b[1] - a[1]);
   await write("docs/mavzular/index.html", topicsPage(tagCounts, U));
   urls.push({ path: "/mavzular/", lastmod: posts[0]?.published || new Date().toISOString(), freq: "daily", priority: "0.6" });
+  pages++;
+
+  // Topilmadi sahifasi — GitHub Pages uni noto'g'ri manzilda ko'rsatadi.
+  await write("docs/404.html", notFoundPage(posts, U));
   pages++;
 
   // Sitemap, RSS, robots.
