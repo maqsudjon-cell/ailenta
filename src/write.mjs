@@ -191,19 +191,34 @@ async function main() {
         score: c.score,
         published: lead.published,
         created: new Date().toISOString(),
-        source: { name: lead.sourceName, url: lead.url, title: lead.title },
-        also: c.items.slice(1, 5).map((x) => ({ name: x.sourceName, url: x.url })),
+        // coverage — nechta nashr bu voqea haqida yozgani. Sahifada chiziq
+        // bo'lib ko'rinadi, shuning uchun to'liq son bo'lishi shart.
+        coverage: c.items.length,
+        source: {
+          name: lead.sourceName,
+          url: lead.url,
+          title: lead.title,
+          indirect: !!lead.indirect,
+        },
+        also: [...new Set(c.items.slice(1).map((x) => x.sourceName))].slice(0, 4),
         model: PROVIDER,
       });
     }
   }
 
+  // Voqea nashr etilganda uning BARCHA nashrlaridagi sarlavhalarni eslab qolamiz.
+  // Faqat bosh manbani eslasak, keyingi yugurishda o'sha voqeaga boshqa nashr
+  // bosh bo'lib qoladi va xabar ikkinchi marta chiqib ketadi.
+  const flat = (t) => t.toLowerCase().replace(/[^a-z0-9 ]/g, " ").replace(/\s+/g, " ").trim();
   for (const p of written) {
-    seen.urls.push(p.source.url);
-    seen.titles.push(p.source.title.toLowerCase().replace(/[^a-z0-9 ]/g, " ").replace(/\s+/g, " ").trim());
+    const c = clusters.find((x) => x.items[0].id === p.id);
+    for (const it of (c ? c.items : []).slice(0, 12)) {
+      seen.urls.push(it.url);
+      seen.titles.push(flat(it.title));
+    }
   }
-  seen.urls = seen.urls.slice(-4000);
-  seen.titles = seen.titles.slice(-1500);
+  seen.urls = seen.urls.slice(-12000);
+  seen.titles = seen.titles.slice(-6000);
 
   posts = [...written, ...posts];
 

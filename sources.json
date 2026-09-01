@@ -118,13 +118,6 @@
       "lang": "en"
     },
     {
-      "id": "zdnet",
-      "name": "ZDNET",
-      "url": "https://www.zdnet.com/topic/artificial-intelligence/rss.xml",
-      "weight": 3,
-      "lang": "en"
-    },
-    {
       "id": "decoder",
       "name": "The Decoder",
       "url": "https://the-decoder.com/feed/",
@@ -138,6 +131,35 @@
       "weight": 3,
       "lang": "en",
       "cap": 8
+    },
+    {
+      "id": "techmeme",
+      "name": "Techmeme",
+      "url": "https://www.techmeme.com/feed.xml",
+      "weight": 3,
+      "lang": "en"
+    },
+    {
+      "id": "ieee",
+      "name": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
+      "weight": 4,
+      "lang": "en"
+    },
+    {
+      "id": "mitnews",
+      "name": "MIT News",
+      "url": "https://news.mit.edu/rss/topic/artificial-intelligence2",
+      "weight": 4,
+      "lang": "en",
+      "cap": 6
+    },
+    {
+      "id": "platformer",
+      "name": "Platformer",
+      "url": "https://www.platformer.news/rss/",
+      "weight": 4,
+      "lang": "en"
     }
   ],
   "googleNews": [
@@ -279,6 +301,12 @@
     "Yahoo": 1,
     "Yahoo News UK": 1,
     "MSN": 1,
-    "LinkedIn": 1
+    "LinkedIn": 1,
+    "Techmeme": 3,
+    "IEEE Spectrum": 4,
+    "MIT News": 4,
+    "Platformer": 4,
+    "MIT Technology Review": 5,
+    "The Decoder": 3
   }
 }

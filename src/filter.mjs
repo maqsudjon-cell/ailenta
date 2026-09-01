@@ -155,16 +155,12 @@ async function main() {
   const raw = await readJson("data/raw.json", []);
   const seen = await readJson("data/seen.json", { urls: [], titles: [] });
   const seenUrls = new Set(seen.urls);
-  const seenTitles = seen.titles.map((t) => new Set(t.split(" ")));
+  const seenTitles = seen.titles.map((t) => tokens(t));
 
   const fresh = raw.filter((it) => {
     if (seenUrls.has(it.url)) return false;
     if (JUNK.some((re) => re.test(it.title))) return false;
-    const t = tokens(it.title);
-    if (t.size < 2) return false;
-    // Ilgari chiqqan xabarga juda o'xshasa — bu o'sha voqeaning takrori.
-    if (seenTitles.some((prev) => overlap(t, prev) / Math.min(t.size, prev.size || 1) > 0.6)) return false;
-    return true;
+    return tokens(it.title).size >= 2;
   });
 
   // AI'ga aloqasi bo'lmaganlarni tashlaymiz.
@@ -182,7 +178,7 @@ async function main() {
   // Solishtirish faqat klaster *urug'i* bilan bo'ladi. Agar har bir a'zo bilan
   // solishtirsak, A~B va B~C bo'lgani uchun aloqasiz A va C bir klasterga
   // tushib qoladi — zanjirlanish. Urug' bilan solishtirish buni to'xtatadi.
-  const clusters = [];
+  let clusters = [];
   for (const x of scored) {
     let best = null;
     let bestSim = CLUSTER_MIN;
@@ -201,6 +197,16 @@ async function main() {
     }
   }
 
+  // Voqea allaqachon chiqqanmi? Klasterning istalgan a'zosi ilgari nashr
+  // etilgan sarlavhaga o'xshasa — bu o'sha voqea, boshqa nashrning so'zi bilan.
+  const alreadyPublished = (c) =>
+    c.members.some((m) =>
+      seenTitles.some((prev) => overlap(m.toks, prev) / Math.min(m.toks.size, prev.size || 1) >= 0.5)
+    );
+
+  const repeats = clusters.filter(alreadyPublished).length;
+  clusters = clusters.filter((c) => !alreadyPublished(c));
+
   for (const c of clusters) {
     c.items = c.members.map((m) => m.it);
     delete c.members;
@@ -218,7 +224,7 @@ async function main() {
 
   await writeFile(join(ROOT, "data/clusters.json"), JSON.stringify(picked, null, 2));
 
-  console.log(`Xom: ${raw.length} → yangi: ${fresh.length} → AI: ${scored.length} → klaster: ${clusters.length} → tanlandi: ${picked.length}\n`);
+  console.log(`Xom: ${raw.length} → yangi: ${fresh.length} → AI: ${scored.length} → klaster: ${clusters.length + repeats} (${repeats} tasi takror) → tanlandi: ${picked.length}\n`);
   for (const c of picked) {
     const lead = c.items[0];
     console.log(`  [${String(c.score).padStart(5)}] ${lead.sourceName}${c.items.length > 1 ? ` +${c.items.length - 1}` : ""}`);
