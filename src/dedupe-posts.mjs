@@ -10,29 +10,11 @@
 import { readFile, writeFile } from "node:fs/promises";
 import { join, dirname } from "node:path";
 import { fileURLToPath } from "node:url";
+import { storyKey, sameStory } from "./similar.mjs";
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
 const APPLY = process.argv.includes("--apply");
 
-const STOP = new Set(
-  ("va bilan uchun ham bu shu o'z uni unga ular bir ikki har qanday keyin oldin"
-   + " kompaniyasi kompaniyani kompaniya haqida bo'yicha ustidan orqali").split(" ")
-);
-
-const tokens = (s) =>
-  new Set(
-    s.toLowerCase()
-      .replace(/[’']/g, "")
-      .replace(/[^a-z0-9Ѐ-ӿ ]+/g, " ")
-      .split(/\s+/)
-      .filter((w) => w.length > 3 && !STOP.has(w))
-  );
-
-const overlap = (a, b) => {
-  let n = 0;
-  for (const x of a) if (b.has(x)) n++;
-  return n;
-};
 
 const posts = JSON.parse(await readFile(join(ROOT, "data/posts.json"), "utf8"));
 
@@ -43,11 +25,8 @@ const kept = [];
 const dropped = [];
 
 for (const p of byAge) {
-  const t = tokens(`${p.title} ${p.summary}`);
-  const twin = kept.find((k) => {
-    const shared = overlap(t, k.toks);
-    return shared >= 3 && shared / Math.min(t.size, k.toks.size) >= 0.5;
-  });
+  const t = storyKey(p);
+  const twin = kept.find((k) => sameStory(t, k.toks));
   if (twin) dropped.push({ p, twin: twin.p });
   else kept.push({ p, toks: t });
 }

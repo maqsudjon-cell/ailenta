@@ -7,6 +7,7 @@
 // Chiqish: data/posts.json (qo'shib boriladi), data/seen.json (yangilanadi)
 
 import { readFile, writeFile } from "node:fs/promises";
+import { storyKey, sameStory } from "./similar.mjs";
 import { join, dirname } from "node:path";
 import { fileURLToPath } from "node:url";
 
@@ -29,13 +30,18 @@ QAT'IY QOIDALAR:
 6. Ortiqcha sifat va reklama ohangi bo'lmasin: "ajoyib", "inqilobiy", "hayratlanarli" —
    bularni ishlatma. Faktni quruq va tiniq ayt.
 7. Texnik atamalarni o'zbekchada keng qo'llaniladigan shaklda yoz: "model", "chip",
-   "bulut", "agent". Sun'iy tarjima qilma.
+   "bulut", "agent". Sun'iy tarjima qilma. Sun'iy intellektni faqat "sun'iy
+   intellekt" yoki "AI" deb yoz — "SI" yoki "SunI" kabi qisqartma ishlatma.
 8. Kim nima qilgani va kim xabar bergani chalkashmasin. Manbada "X kompaniyani
    tanqid qildi" desa, "X bu haqda xabar berdi" deb yozma. Harakat qilgan tomonni
    harakat qilgan tomon, xabar bergan nashrni xabar bergan nashr deb qoldir.
 9. Sabab yoki maqsad manbada aytilmagan bo'lsa, o'zingdan qo'shma. Faqat nima
    bo'lganini yoz, nima uchun bo'lganini taxmin qilma.
 10. Ishonching komil bo'lmasa yoki matn yetarli bo'lmasa, "skip": true qaytar.
+11. Foydalanuvchi xabarining oxirida "ALLAQACHON CHIQQAN" ro'yxati beriladi.
+    Agar voqea o'sha ro'yxatda allaqachon bo'lsa — boshqa so'z bilan yozilgan
+    bo'lsa ham, boshqa nashrdan kelgan bo'lsa ham — "skip": true qaytar.
+    Yangi tafsilot qo'shilgani takroran chiqarish uchun asos bo'lmaydi.
 
 Javobni faqat JSON massiv sifatida qaytar, boshqa hech narsa yozma:
 [{"id":"<berilgan id>","title":"...","summary":"...","tags":["..."],"importance":1-5,"skip":false}]
@@ -144,6 +150,12 @@ async function main() {
 
   const written = [];
 
+  // Nashr etilgan xabarlarning o'zbekcha matn imzosi. Inglizcha sarlavhalar
+  // bo'yicha tekshiruv filter.mjs da bo'ldi, ammo turli nashrlar bir voqeani
+  // butunlay boshqa so'zlar bilan yozadi va u yerdan o'tib ketishi mumkin.
+  // Model esa hammasini bitta o'zbekcha shaklga keltiradi — oxirgi to'siq shu.
+  const publishedKeys = posts.map(storyKey);
+
   for (let i = 0; i < clusters.length; i += BATCH) {
     const batch = clusters.slice(i, i + BATCH);
     const prompt = batch
@@ -161,9 +173,17 @@ async function main() {
       })
       .join("\n\n");
 
+    // Modelga oxirgi chiqqan sarlavhalarni ko'rsatamiz. So'z solishtirish bir
+    // voqeaning turlicha yozilgan variantlarini ushlay olmaydi — buni model
+    // ma'no darajasida hal qiladi.
+    const recent = posts.slice(0, 40).map((p) => `- ${p.title}`).join("\n");
+    const full = recent
+      ? `${prompt}\n\n### ALLAQACHON CHIQQAN\n${recent}`
+      : prompt;
+
     let parsed;
     try {
-      parsed = extractJson(await call(prompt));
+      parsed = extractJson(await call(full));
     } catch (e) {
       console.error(`  ✗ LLM xatosi: ${e.message}`);
       continue;
@@ -179,6 +199,13 @@ async function main() {
         console.error(`  ✗ tashlandi (raqam manbada yo'q): ${r.title}`);
         continue;
       }
+
+      const key = storyKey(r);
+      if (publishedKeys.some((prev) => sameStory(key, prev))) {
+        console.error(`  ✗ tashlandi (bu voqea chiqib bo'lgan): ${r.title}`);
+        continue;
+      }
+      publishedKeys.push(key);
 
       const lead = c.items[0];
       written.push({
