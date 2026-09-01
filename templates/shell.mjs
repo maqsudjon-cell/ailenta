@@ -75,8 +75,10 @@ export const CSS = `<style>
     max-width:1020px;margin:0 auto;padding:.75rem 1.4rem;
     display:flex;align-items:center;gap:1rem;
   }
-  /* "ailenta" bir tekis yozilsa "alienta" bo'lib o'qiladi. AI ni katta harf,
-     urg'uli rang va zichroq oraliq bilan ajratamiz — ko'z darrov bo'ladi. */
+  /* "ailenta" bir tekis yozilsa "alienta" bo'lib o'qiladi.
+     Katta harfli "AI" ham yaramaydi: Archivo'da katta I va kichik l bir xil tik
+     chiziq, "AIlenta" ko'zga "Allenta" bo'lib tushadi. Yechim — kichik "i":
+     uning nuqtasi uni "l" dan ajratib turadi, va bu aynan domen imlosi. */
   .brand{
     font-weight:900;font-size:1.15rem;letter-spacing:-.045em;line-height:1;
     display:inline-flex;align-items:baseline;
@@ -415,7 +417,7 @@ ${CSS}
 export function topbar(stamp) {
   return `<div class="topbar">
   <div class="topbar-in">
-    <a class="brand" href="/"><em>AI</em>lenta</a>
+    <a class="brand" href="/"><em>Ai</em>lenta</a>
     <span class="status"><span class="dot"></span>${esc(stamp)} da yangilandi</span>
     <nav class="nav">
       <a href="/arxiv/">Arxiv</a>
@@ -431,7 +433,7 @@ export function topbar(stamp) {
 export function foot(now, extra = "") {
   return `${extra}
   <footer>
-    <span><a href="/"><em>AI</em>lenta</a> · ${SITE.domain}</span>
+    <span><a href="/"><em>Ai</em>lenta</a> · ${SITE.domain}</span>
     <span>${now.day}-${now.month}, ${new Date().getUTCFullYear()}</span>
     <span><a href="/arxiv/">Arxiv</a></span>
     <span><a href="/rss.xml">RSS</a></span>

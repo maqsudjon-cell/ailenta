@@ -142,12 +142,13 @@ export function coverSvg(post, { width = 1200, height = 630, photoData = null, h
     <circle cx="21" cy="-13.5" r="3.4" fill="#1F2BFF"/>
     <rect x="0" y="-8" width="22" height="5" rx="2.5" fill="#0A0A0B" opacity="0.55"/>
     <rect x="0" y="0" width="11" height="5" rx="2.5" fill="#0A0A0B" opacity="0.32"/>
-    <!-- tspan bilan yozilgani uchun "AI" va "lenta" orasida bo'shliq qolmaydi:
-         qo'lda joylashtirsak har shriftda boshqacha chiqadi. Brend rangi
-         o'zgarmas — mavzu rangi emas, aks holda logotip har xabarda
-         boshqa rangda bo'lib brend zaiflashadi. -->
+    <!-- Kichik "i" ataylab: katta I va kichik l Archivo'da bir xil tik chiziq,
+         "AIlenta" ko'zga "Allenta" bo'lib tushadi. "i" ning nuqtasi buni hal
+         qiladi va imlo domen bilan bir xil bo'lib qoladi.
+         tspan bilan yozilgani uchun orada bo'shliq qolmaydi. Rang doimiy brend
+         ko'ki — mavzu rangi bo'lsa logotip har xabarda boshqacha bo'lardi. -->
     <text x="34" y="3" font-family="Archivo" font-size="27" font-weight="900" letter-spacing="-1">
-      <tspan fill="#1F2BFF">AI</tspan><tspan fill="#0A0A0B">lenta</tspan>
+      <tspan fill="#1F2BFF">Ai</tspan><tspan fill="#0A0A0B">lenta</tspan>
     </text>
     <text x="34" y="22" font-family="IBM Plex Mono" font-size="15" fill="#9CA3AF">${esc(domain)}</text>
   </g>
