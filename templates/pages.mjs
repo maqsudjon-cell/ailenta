@@ -22,7 +22,7 @@ export function postPage(p, related, u) {
       url: `${SITE.url}/x/${p.slug}/`,
       mainEntityOfPage: { "@type": "WebPage", "@id": `${SITE.url}/x/${p.slug}/` },
       publisher,
-      image: `${SITE.url}/og/${p.slug}.png`,
+      image: `${SITE.url}/og/${p.slug}.jpg`,
       isBasedOn: p.source.url,
       citation: [p.source.name, ...(p.also || []).map((a) => (typeof a === "string" ? a : a.name))].map((n) => ({
         "@type": "CreativeWork",
@@ -51,7 +51,7 @@ export function postPage(p, related, u) {
     title: pageTitle(p.title),
     description: p.summary,
     path: `/x/${p.slug}/`,
-    image: `/og/${p.slug}.png`,
+    image: `/og/${p.slug}.jpg`,
     article: { published: p.published, modified: p.created, tags: p.tags },
     jsonld,
   })}
@@ -190,11 +190,33 @@ export function photosPage(cache, u) {
   const now = tashkent(new Date().toISOString());
   const rows = Object.entries(cache).sort((a, b) => a[0].localeCompare(b[0]));
 
+  // Sahifa indekslanadi, shuning uchun tuzilma ham bo'lishi kerak.
+  const jsonld = [
+    {
+      "@context": "https://schema.org",
+      "@type": "CollectionPage",
+      name: "Suratlar va litsenziyalar",
+      description: "Saytdagi suratlarning muallifi va litsenziyasi.",
+      url: `${SITE.url}/rasmlar/`,
+      inLanguage: "uz",
+      publisher,
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      itemListElement: [
+        { "@type": "ListItem", position: 1, name: "Bosh sahifa", item: `${SITE.url}/` },
+        { "@type": "ListItem", position: 2, name: "Suratlar", item: `${SITE.url}/rasmlar/` },
+      ],
+    },
+  ];
+
   return `${head({
     title: `Suratlar va litsenziyalar — ${SITE.name}`,
     description: "Saytdagi suratlar Wikimedia Commons'dan erkin litsenziya bilan olingan. "
       + "Har birining muallifi va litsenziyasi shu sahifada ko'rsatilgan.",
     path: "/rasmlar/",
+    jsonld,
   })}
 ${topbar(now.hhmm)}
 

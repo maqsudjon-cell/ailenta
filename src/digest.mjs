@@ -71,7 +71,7 @@ async function main() {
 
   let j = { ok: false };
   try {
-    const bytes = await readFile(join(ROOT, `docs/og/${picked[0].slug}.png`));
+    const bytes = await readFile(join(ROOT, `docs/og/${picked[0].slug}.jpg`));
     const form = new FormData();
     form.set("chat_id", CHAT);
     form.set("caption", lines.join("\n"));

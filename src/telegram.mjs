@@ -136,7 +136,7 @@ async function main() {
   let ok = 0;
   for (const p of queue) {
     try {
-      await send(message(p), join(ROOT, `docs/og/${p.slug}.png`));
+      await send(message(p), join(ROOT, `docs/og/${p.slug}.jpg`));
       sentSet.add(p.slug);
       ok++;
       console.log(`  → ${p.title}`);

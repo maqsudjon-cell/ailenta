@@ -54,7 +54,16 @@ export async function buildImages(posts) {
   let n = 0;
   for (const p of posts) {
     const data = await photoData(p.photo);
-    await put(`docs/og/${p.slug}.png`, toPng(coverSvg(p, { photoData: data, domain: SITE.domain }), 1200));
+    // JPEG, PNG emas. Muqovalar 1200x630 va ularning ko'pi fotosurat —
+    // PNG'da o'rtacha 348 KB, JPEG'da ~60 KB. Har yugurishda yangi
+    // muqovalar commit qilinadi, shuning uchun bu farq git tarixida
+    // kuniga 14 MB va oyiga 400 MB bo'lib to'planardi.
+    await put(
+      `docs/og/${p.slug}.jpg`,
+      await sharp(toPng(coverSvg(p, { photoData: data, domain: SITE.domain }), 1200))
+        .jpeg({ quality: 88, mozjpeg: true })
+        .toBuffer()
+    );
     // Instagram faqat JPEG qabul qiladi va rasmni havola orqali o'zi yuklab
     // oladi, shuning uchun u saytda tayyor turishi kerak.
     if (p.importance >= 4) {
@@ -65,12 +74,12 @@ export async function buildImages(posts) {
   }
 
   // Bosh sahifa va boshqa sahifalar uchun umumiy muqova.
-  await put("docs/og/default.png", toPng(coverSvg({
+  await put("docs/og/default.jpg", await sharp(toPng(coverSvg({
     slug: "ai-lenta",
     title: "Sun'iy intellekt yangiliklari, o'zbekcha",
     tags: ["agentlar"],
     source: { name: "ai.maqsudjon.com" },
-  }), 1200));
+  }), 1200)).jpeg({ quality: 88, mozjpeg: true }).toBuffer());
 
   // Favicon: SVG zamonaviy brauzerlar uchun, PNG qolganlari uchun.
   const mark = brandMark({ size: 512 });

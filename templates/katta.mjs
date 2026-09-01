@@ -44,7 +44,12 @@ export function render(posts, u) {
     <article class="twin-item">
       <a class="twin-thumb" href="/x/${esc(p.slug)}/" aria-hidden="true" tabindex="-1">${
         p.photo
+          // Kartochka 480 piksel keng, lekin to'liq surat 1200 piksel va ~300 KB.
+          // srcset bilan brauzer ekranga mos o'lchamni o'zi tanlaydi: telefonda
+          // 400 pikselli nusxa (~65 KB) yetarli.
           ? `<img class="thumb card photo" src="${esc(p.photo.src)}" width="480" height="320"
+                 ${p.photo.thumb ? `srcset="${esc(p.photo.thumb)} 400w, ${esc(p.photo.src)} 1200w"
+                 sizes="(max-width: 720px) 92vw, 480px"` : ""}
                  style="object-position:50% ${Math.round((p.photo.focus ?? 0.5) * 100)}%"
                  loading="lazy" decoding="async" alt="">`
           : cardSvg(p, 480, 270)

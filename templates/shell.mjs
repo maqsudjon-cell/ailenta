@@ -376,7 +376,7 @@ const FONTS = `<link rel="preconnect" href="https://fonts.googleapis.com">
 export function head({ title, description, path = "/", jsonld = [], noindex = false, image, article }) {
   const canonical = `${SITE.url}${path}`;
   const desc = clampDesc(description || SITE.description);
-  const og = `${SITE.url}${image || "/og/default.png"}`;
+  const og = `${SITE.url}${image || "/og/default.jpg"}`;
   return `<!doctype html>
 <html lang="${SITE.lang}" data-design="katta">
 <head>
