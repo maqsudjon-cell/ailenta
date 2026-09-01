@@ -1,4 +1,4 @@
-import { thumbSvg } from "../src/cover.mjs";
+import { thumbSvg, cardSvg } from "../src/cover.mjs";
 
 // parts.mjs — sahifalar orasida takrorlanadigan bo'laklar.
 // Bosh sahifa, xabar sahifasi, mavzu va kun sahifalari shularni ishlatadi.
@@ -32,8 +32,8 @@ export const sourceMark = (p, u) => `
 // Haqiqiy surat bo'lsa o'shani, bo'lmasa kod bilan chizilgan katakni ko'rsatamiz.
 export function itemThumb(p, u) {
   const inner = p.photo
-    ? `<img class="thumb photo" src="${u.esc(p.photo.thumb || p.photo.src)}" width="64" height="64" loading="lazy" decoding="async" alt="">`
-    : thumbSvg(p, 64);
+    ? `<img class="thumb card photo" src="${u.esc(p.photo.thumb || p.photo.src)}" width="220" height="147" loading="lazy" decoding="async" alt="">`
+    : cardSvg(p, 220, 147);
   return `<a class="item-thumb" href="/x/${u.esc(p.slug)}/" aria-hidden="true" tabindex="-1">${inner}</a>`;
 }
 

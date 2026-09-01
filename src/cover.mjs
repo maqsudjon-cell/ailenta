@@ -138,9 +138,10 @@ export function coverSvg(post, { width = 1200, height = 630, photoData = null } 
   <rect x="0" y="0" width="10" height="${height}" fill="${color}"/>
 
   <g transform="translate(${pad}, 62)">
-    <rect x="0" y="-16" width="22" height="5" rx="2.5" fill="${color}"/>
-    <rect x="0" y="-8" width="16" height="5" rx="2.5" fill="#0A0A0B" opacity="0.8"/>
-    <rect x="0" y="0" width="10" height="5" rx="2.5" fill="#0A0A0B" opacity="0.45"/>
+    <rect x="0" y="-16" width="15" height="5" rx="2.5" fill="#0A0A0B" opacity="0.9"/>
+    <circle cx="21" cy="-13.5" r="3.4" fill="${color}"/>
+    <rect x="0" y="-8" width="22" height="5" rx="2.5" fill="#0A0A0B" opacity="0.55"/>
+    <rect x="0" y="0" width="11" height="5" rx="2.5" fill="#0A0A0B" opacity="0.32"/>
     <text x="34" y="3" font-family="Archivo" font-size="26" font-weight="800" fill="#0A0A0B" letter-spacing="-1">ai.lenta</text>
   </g>
 
@@ -152,6 +153,26 @@ export function coverSvg(post, { width = 1200, height = 630, photoData = null } 
     .map((l, i) => `<text x="${pad}" y="${(startY + i * lineH).toFixed(0)}" font-family="Archivo" font-size="${fs}" font-weight="800" fill="#0A0A0B" letter-spacing="-2">${esc(l)}</text>`)
     .join("\n  ")}
 </svg>`;
+}
+
+// ---------- lentadagi kartochka ----------
+//
+// Haqiqiy surat bilan bir o'lchamda turishi kerak, aks holda rasmi bor va yo'q
+// xabarlar qatori bir-biriga mos kelmaydi.
+export function cardSvg(post, w = 220, h = 147) {
+  const color = topicColor(post.tags);
+  const glyph = topicGlyph(post.tags, color, 24);
+  const seed = seedOf((post.slug || post.title) + "c");
+  const cx = w / 2, cy = h / 2;
+  const r = Math.min(w, h) * 0.24;
+  // slice — konteyner nisbati boshqacha bo'lsa ham to'ldiradi (rasmdagi
+  // object-fit: cover kabi). Aks holda 16:9 joyda 3:2 chizma atrofida bo'sh
+  // hoshiya qoladi.
+  return `<svg class="thumb card" viewBox="0 0 ${w} ${h}" width="${w}" height="${h}" preserveAspectRatio="xMidYMid slice" aria-hidden="true">`
+    + `<rect width="${w}" height="${h}" rx="6" fill="${color}" opacity=".12"/>`
+    + `<g opacity=".85">${pattern({ x: 0, y: 0, w, h, cols: 6, rows: 4, color, seed, precise: false })}</g>`
+    + `<circle cx="${cx}" cy="${cy}" r="${r.toFixed(0)}" fill="#fff" opacity=".93"/>`
+    + `<g transform="translate(${(cx - 18).toFixed(0)} ${(cy - 18).toFixed(0)}) scale(1.5)">${glyph.inner}</g></svg>`;
 }
 
 // ---------- kichik muqova (lentadagi qator uchun) ----------

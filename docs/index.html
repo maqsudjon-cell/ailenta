@@ -145,7 +145,7 @@
   .daymark::after{content:"";flex:1;height:2px;background:var(--ink)}
 
   .item{
-    display:grid;grid-template-columns:4.2rem minmax(0,1fr) auto;gap:1.4rem;
+    display:grid;grid-template-columns:4.2rem minmax(0,1fr) 13.8rem;gap:1.4rem;
     padding:1.5rem 0;border-top:1px solid var(--hair);
   }
   .item:first-of-type{border-top:0}
@@ -156,6 +156,7 @@
   .item-body{min-width:0}
   .thumb{display:block;border-radius:6px;flex:none}
   img.thumb{object-fit:cover;background:var(--raise)}
+  .thumb.card{width:100%;height:auto;aspect-ratio:3/2}
   .hero-photo{margin:1.6rem 0 0}
   .hero-photo img{
     display:block;width:100%;height:auto;border-radius:4px;background:var(--raise);
@@ -176,7 +177,8 @@
   }
   tbody tr:last-child td{border-bottom:0}
   .item-thumb{align-self:start;padding-top:.15rem}
-  .twin-thumb{margin-bottom:.9rem}
+  .twin-thumb{display:block;margin-bottom:1rem}
+  .twin-thumb .thumb{width:100%;height:auto;aspect-ratio:16/9;border-radius:5px}
   .item h3{margin:0;font-weight:700;letter-spacing:-.028em;line-height:1.16;text-wrap:balance}
   .item.t1 h3{font-size:1.6rem}
   .item.t2 h3{font-size:1.45rem}
@@ -242,10 +244,13 @@
     .hero{padding:2rem 0 1.6rem}
     .hero .sum{font-size:1.08rem}
     .twin{grid-template-columns:1fr;gap:2rem;padding:2rem 0}
-    .item{grid-template-columns:2.6rem minmax(0,1fr);gap:.9rem;padding:1.3rem 0}
+    /* Tor ekranda rasm butun kenglikda va matndan keyin — kichik rasm
+       burchakda yolg'iz qolsa g'alati ko'rinadi. */
+    .item{grid-template-columns:2.6rem minmax(0,1fr);gap:.5rem .9rem;padding:1.3rem 0}
     .item .when{grid-column:1;font-size:.66rem;padding-top:.2rem}
     .item .item-body{grid-column:2}
-    .item-thumb{grid-column:1;grid-row:2;padding-top:.2rem}
+    .item-thumb{grid-column:1 / -1;grid-row:2;padding-top:.9rem}
+    .thumb.card{aspect-ratio:16/9;border-radius:5px}
     .item.t1 h3{font-size:1.55rem}
     .item.t2 h3{font-size:1.28rem}
     .item.t3 h3{font-size:1.08rem}
@@ -318,7 +323,7 @@
 <div class="topbar">
   <div class="topbar-in">
     <a class="brand" href="/">ai<em>.</em>lenta</a>
-    <span class="status"><span class="dot"></span>18:49 da yangilandi</span>
+    <span class="status"><span class="dot"></span>19:17 da yangilandi</span>
     <nav class="nav">
       <a href="/arxiv/">Arxiv</a>
       <a href="/mavzular/">Mavzular</a>
@@ -353,7 +358,7 @@
   <section class="twin">
     
     <article class="twin-item">
-      <a class="twin-thumb" href="/x/openai-apple-kompaniyasining-ayblovlarini-rad-etdi-cc43d2/" aria-hidden="true" tabindex="-1"><svg class="thumb" viewBox="0 0 64 64" width="56" height="56" aria-hidden="true"><rect width="64" height="64" rx="7" fill="#0F766E" opacity=".13"/><g opacity=".8"><circle cx="11" cy="11" r="6" fill="#0F766E" opacity="0.7"/><circle cx="11" cy="53" r="6" fill="#0F766E" opacity="0.2"/><circle cx="32" cy="11" r="6" fill="#0F766E" opacity="0.6"/><circle cx="32" cy="53" r="6" fill="#0F766E" opacity="0.4"/><rect x="47" y="30" width="13" height="3" rx="2" fill="#0F766E" opacity="0.3"/><rect x="52" y="47" width="3" height="13" rx="2" fill="#0F766E" opacity="0.8"/></g><circle cx="32" cy="32" r="17" fill="#fff" opacity=".92"/><g transform="translate(17 17) scale(1.25)"><rect x="4" y="7" width="16" height="13" rx="1.5" fill="none" stroke="#0F766E" stroke-width="2"/><path d="M8 7 V4 H16 V7 M8 11.5 H16 M8 15.5 H13" fill="none" stroke="#0F766E" stroke-width="2" stroke-linejoin="round"/></g></svg></a>
+      <a class="twin-thumb" href="/x/openai-apple-kompaniyasining-ayblovlarini-rad-etdi-cc43d2/" aria-hidden="true" tabindex="-1"><img class="thumb card photo" src="/photo/openai.jpg" width="480" height="270" loading="lazy" decoding="async" alt=""></a>
       <h2><a href="/x/openai-apple-kompaniyasining-ayblovlarini-rad-etdi-cc43d2/">OpenAI Apple kompaniyasining ayblovlarini rad etdi</a></h2>
       <p>OpenAI kompaniyasi Apple tomonidan bildirilgan tijorat sirlarini o'g'irlash haqidagi ayblovlarni rad etdi. Kompaniya ushbu nizoni Apple'ning o'zi keltirib chiqarganini ta'kidlamoqda. Avvalroq Apple OpenAI'ga qarshi da'volarini kengaytirgan edi.</p>
       <div class="meta">
@@ -368,7 +373,7 @@
       </div>
     </article>
     <article class="twin-item">
-      <a class="twin-thumb" href="/x/nvidia-mediatek-kompaniyasiga-3-5-milliard-dollar-tikadi-c1af7c/" aria-hidden="true" tabindex="-1"><svg class="thumb" viewBox="0 0 64 64" width="56" height="56" aria-hidden="true"><rect width="64" height="64" rx="7" fill="#4D7C0F" opacity=".13"/><g opacity=".8"><rect x="4" y="9" width="13" height="3" rx="2" fill="#4D7C0F" opacity="0.6"/><rect x="9" y="25" width="3" height="13" rx="2" fill="#4D7C0F" opacity="0.5"/><circle cx="32" cy="32" r="6" fill="none" stroke="#4D7C0F" stroke-width="2" opacity="0.5"/><rect x="52" y="4" width="3" height="13" rx="2" fill="#4D7C0F" opacity="0.3"/><circle cx="53" cy="32" r="6" fill="#4D7C0F" opacity="0.4"/><rect x="52" y="47" width="3" height="13" rx="2" fill="#4D7C0F" opacity="0.4"/></g><circle cx="32" cy="32" r="17" fill="#fff" opacity=".92"/><g transform="translate(17 17) scale(1.25)"><rect x="7" y="7" width="10" height="10" rx="1" fill="none" stroke="#4D7C0F" stroke-width="2"/><path d="M10 3 V7 M14 3 V7 M10 17 V21 M14 17 V21 M3 10 H7 M3 14 H7 M17 10 H21 M17 14 H21" stroke="#4D7C0F" stroke-width="2" stroke-linecap="round"/></g></svg></a>
+      <a class="twin-thumb" href="/x/nvidia-mediatek-kompaniyasiga-3-5-milliard-dollar-tikadi-c1af7c/" aria-hidden="true" tabindex="-1"><img class="thumb card photo" src="/photo/mediatek.jpg" width="480" height="270" loading="lazy" decoding="async" alt=""></a>
       <h2><a href="/x/nvidia-mediatek-kompaniyasiga-3-5-milliard-dollar-tikadi-c1af7c/">Nvidia MediaTek kompaniyasiga 3,5 milliard dollar tikadi</a></h2>
       <p>Nvidia yarimo'tkazgichlar ishlab chiqaruvchi MediaTek kompaniyasiga 3,5 milliard dollar sarmoya kiritadi. Hamkorlik doirasida kompaniyalar sun'iy intellekt chiplari, shaxsiy kompyuterlar va avtomobillar uchun texnologiyalarni integratsiya qilish ustida ishlaydi.</p>
       <div class="meta">
@@ -398,7 +403,7 @@
           <a class="chip" href="/mavzu/nvidia/">Nvidia</a><a class="chip" href="/mavzu/mehnat-bozori/">mehnat bozori</a>
         </div>
       </div>
-      <a class="item-thumb" href="/x/nvidia-rahbari-ai-yangi-ish-orinlari-yaratishini-aytdi-2a55c9/" aria-hidden="true" tabindex="-1"><img class="thumb photo" src="/photo/jensen-huang-sm.jpg" width="64" height="64" loading="lazy" decoding="async" alt=""></a>
+      <a class="item-thumb" href="/x/nvidia-rahbari-ai-yangi-ish-orinlari-yaratishini-aytdi-2a55c9/" aria-hidden="true" tabindex="-1"><img class="thumb card photo" src="/photo/jensen-huang-sm.jpg" width="220" height="147" loading="lazy" decoding="async" alt=""></a>
     </article>
     <article class="item t3">
       <time class="when" datetime="2026-09-01T11:37:21.000Z">16:37</time>
@@ -413,7 +418,7 @@
           <a class="chip" href="/mavzu/xavfsizlik/">xavfsizlik</a>
         </div>
       </div>
-      <a class="item-thumb" href="/x/baa-kompaniyasi-videoni-siqish-texnologiyasini-taklif-qildi-08e4ec/" aria-hidden="true" tabindex="-1"><svg class="thumb" viewBox="0 0 64 64" width="64" height="64" aria-hidden="true"><rect width="64" height="64" rx="7" fill="#C2410C" opacity=".13"/><g opacity=".8"><circle cx="11" cy="11" r="6" fill="#C2410C" opacity="0.6"/><circle cx="11" cy="32" r="6" fill="#C2410C" opacity="0.6"/><circle cx="11" cy="53" r="6" fill="#C2410C" opacity="0.4"/><circle cx="32" cy="32" r="6" fill="none" stroke="#C2410C" stroke-width="2" opacity="0.6"/><circle cx="32" cy="53" r="6" fill="none" stroke="#C2410C" stroke-width="2" opacity="0.4"/><circle cx="53" cy="32" r="6" fill="#C2410C" opacity="0.7"/><rect x="47" y="52" width="13" height="3" rx="2" fill="#C2410C" opacity="0.3"/></g><circle cx="32" cy="32" r="17" fill="#fff" opacity=".92"/><g transform="translate(17 17) scale(1.25)"><path d="M12 3 L20 6 V12 C20 16.5 16.6 20 12 21.5 C7.4 20 4 16.5 4 12 V6 Z" fill="none" stroke="#C2410C" stroke-width="2" stroke-linejoin="round"/></g></svg></a>
+      <a class="item-thumb" href="/x/baa-kompaniyasi-videoni-siqish-texnologiyasini-taklif-qildi-08e4ec/" aria-hidden="true" tabindex="-1"><svg class="thumb card" viewBox="0 0 220 147" width="220" height="147" preserveAspectRatio="xMidYMid slice" aria-hidden="true"><rect width="220" height="147" rx="6" fill="#C2410C" opacity=".12"/><g opacity=".85"><circle cx="18" cy="18" r="11" fill="#C2410C" opacity="0.7"/><circle cx="18" cy="55" r="11" fill="none" stroke="#C2410C" stroke-width="4" opacity="0.4"/><rect x="15" y="81" width="6" height="23" rx="3" fill="#C2410C" opacity="0.2"/><rect x="52" y="117" width="6" height="23" rx="3" fill="#C2410C" opacity="0.5"/><circle cx="92" cy="18" r="11" fill="#C2410C" opacity="0.7"/><circle cx="92" cy="55" r="11" fill="#C2410C" opacity="0.3"/><rect x="80" y="89" width="23" height="6" rx="3" fill="#C2410C" opacity="0.7"/><circle cx="92" cy="129" r="11" fill="#C2410C" opacity="0.4"/><circle cx="128" cy="18" r="11" fill="#C2410C" opacity="0.2"/><circle cx="128" cy="55" r="11" fill="none" stroke="#C2410C" stroke-width="4" opacity="0.6"/><rect x="117" y="89" width="23" height="6" rx="3" fill="#C2410C" opacity="0.6"/><circle cx="165" cy="55" r="11" fill="#C2410C" opacity="0.5"/><rect x="154" y="89" width="23" height="6" rx="3" fill="#C2410C" opacity="0.3"/><circle cx="202" cy="18" r="11" fill="none" stroke="#C2410C" stroke-width="4" opacity="0.5"/><circle cx="202" cy="55" r="11" fill="#C2410C" opacity="0.4"/><circle cx="202" cy="129" r="11" fill="#C2410C" opacity="0.2"/></g><circle cx="110" cy="73.5" r="35" fill="#fff" opacity=".93"/><g transform="translate(92 56) scale(1.5)"><path d="M12 3 L20 6 V12 C20 16.5 16.6 20 12 21.5 C7.4 20 4 16.5 4 12 V6 Z" fill="none" stroke="#C2410C" stroke-width="2" stroke-linejoin="round"/></g></svg></a>
     </article>
     <article class="item t3">
       <time class="when" datetime="2026-09-01T11:05:03.000Z">16:05</time>
@@ -428,7 +433,7 @@
           <a class="chip" href="/mavzu/biznes/">biznes</a>
         </div>
       </div>
-      <a class="item-thumb" href="/x/dyson-ai-kamerali-tish-chotkasini-taqdim-etdi-a11449/" aria-hidden="true" tabindex="-1"><svg class="thumb" viewBox="0 0 64 64" width="64" height="64" aria-hidden="true"><rect width="64" height="64" rx="7" fill="#15803D" opacity=".13"/><g opacity=".8"><circle cx="11" cy="53" r="6" fill="#15803D" opacity="0.6"/><rect x="30" y="25" width="3" height="13" rx="2" fill="#15803D" opacity="0.3"/><circle cx="32" cy="53" r="6" fill="#15803D" opacity="0.7"/><circle cx="53" cy="11" r="6" fill="#15803D" opacity="0.8"/><circle cx="53" cy="53" r="6" fill="none" stroke="#15803D" stroke-width="2" opacity="0.8"/></g><circle cx="32" cy="32" r="17" fill="#fff" opacity=".92"/><g transform="translate(17 17) scale(1.25)"><path d="M4 20 H20 M7 20 V13 M12 20 V8 M17 20 V4" fill="none" stroke="#15803D" stroke-width="2" stroke-linecap="round"/></g></svg></a>
+      <a class="item-thumb" href="/x/dyson-ai-kamerali-tish-chotkasini-taqdim-etdi-a11449/" aria-hidden="true" tabindex="-1"><svg class="thumb card" viewBox="0 0 220 147" width="220" height="147" preserveAspectRatio="xMidYMid slice" aria-hidden="true"><rect width="220" height="147" rx="6" fill="#15803D" opacity=".12"/><g opacity=".85"><rect x="15" y="7" width="6" height="23" rx="3" fill="#15803D" opacity="0.7"/><circle cx="18" cy="55" r="11" fill="none" stroke="#15803D" stroke-width="4" opacity="0.5"/><circle cx="18" cy="92" r="11" fill="none" stroke="#15803D" stroke-width="4" opacity="0.8"/><rect x="15" y="117" width="6" height="23" rx="3" fill="#15803D" opacity="0.8"/><circle cx="55" cy="18" r="11" fill="#15803D" opacity="0.7"/><circle cx="55" cy="55" r="11" fill="#15803D" opacity="0.6"/><circle cx="55" cy="92" r="11" fill="#15803D" opacity="0.2"/><circle cx="92" cy="18" r="11" fill="#15803D" opacity="0.5"/><circle cx="92" cy="55" r="11" fill="#15803D" opacity="0.5"/><rect x="89" y="117" width="6" height="23" rx="3" fill="#15803D" opacity="0.4"/><rect x="117" y="15" width="23" height="6" rx="3" fill="#15803D" opacity="0.2"/><rect x="125" y="44" width="6" height="23" rx="3" fill="#15803D" opacity="0.6"/><circle cx="165" cy="18" r="11" fill="#15803D" opacity="0.2"/><circle cx="165" cy="55" r="11" fill="#15803D" opacity="0.4"/><circle cx="165" cy="129" r="11" fill="none" stroke="#15803D" stroke-width="4" opacity="0.6"/><circle cx="202" cy="18" r="11" fill="#15803D" opacity="0.7"/><circle cx="202" cy="55" r="11" fill="#15803D" opacity="0.7"/><circle cx="202" cy="92" r="11" fill="none" stroke="#15803D" stroke-width="4" opacity="0.4"/><circle cx="202" cy="129" r="11" fill="#15803D" opacity="0.5"/></g><circle cx="110" cy="73.5" r="35" fill="#fff" opacity=".93"/><g transform="translate(92 56) scale(1.5)"><path d="M4 20 H20 M7 20 V13 M12 20 V8 M17 20 V4" fill="none" stroke="#15803D" stroke-width="2" stroke-linecap="round"/></g></svg></a>
     </article>
     <article class="item t3">
       <time class="when" datetime="2026-09-01T11:00:01.000Z">16:00</time>
@@ -446,7 +451,7 @@
           <a class="chip" href="/mavzu/nvidia/">Nvidia</a><a class="chip" href="/mavzu/biznes/">biznes</a>
         </div>
       </div>
-      <a class="item-thumb" href="/x/onerail-va-nvidia-yetkazib-berish-platformasini-yaratdi-9f8c65/" aria-hidden="true" tabindex="-1"><img class="thumb photo" src="/photo/nvidia-sm.jpg" width="64" height="64" loading="lazy" decoding="async" alt=""></a>
+      <a class="item-thumb" href="/x/onerail-va-nvidia-yetkazib-berish-platformasini-yaratdi-9f8c65/" aria-hidden="true" tabindex="-1"><img class="thumb card photo" src="/photo/nvidia-sm.jpg" width="220" height="147" loading="lazy" decoding="async" alt=""></a>
     </article>
     <article class="item t3">
       <time class="when" datetime="2026-09-01T10:31:36.000Z">15:31</time>
@@ -461,7 +466,7 @@
           <a class="chip" href="/mavzu/nvidia/">Nvidia</a><a class="chip" href="/mavzu/robototexnika/">robototexnika</a>
         </div>
       </div>
-      <a class="item-thumb" href="/x/nvidia-dunyo-robotlarini-boshqarishni-xohlamoqda-65ddc6/" aria-hidden="true" tabindex="-1"><img class="thumb photo" src="/photo/nvidia-sm.jpg" width="64" height="64" loading="lazy" decoding="async" alt=""></a>
+      <a class="item-thumb" href="/x/nvidia-dunyo-robotlarini-boshqarishni-xohlamoqda-65ddc6/" aria-hidden="true" tabindex="-1"><img class="thumb card photo" src="/photo/nvidia-sm.jpg" width="220" height="147" loading="lazy" decoding="async" alt=""></a>
     </article>
     <article class="item t3">
       <time class="when" datetime="2026-09-01T10:00:00.000Z">15:00</time>
@@ -476,7 +481,7 @@
           <a class="chip" href="/mavzu/xavfsizlik/">xavfsizlik</a><a class="chip" href="/mavzu/openai/">OpenAI</a>
         </div>
       </div>
-      <a class="item-thumb" href="/x/garbda-yaratilgan-ai-xavfsizligi-boshqa-joylarda-ishlamayapt-26c9ee/" aria-hidden="true" tabindex="-1"><img class="thumb photo" src="/photo/openai-sm.jpg" width="64" height="64" loading="lazy" decoding="async" alt=""></a>
+      <a class="item-thumb" href="/x/garbda-yaratilgan-ai-xavfsizligi-boshqa-joylarda-ishlamayapt-26c9ee/" aria-hidden="true" tabindex="-1"><img class="thumb card photo" src="/photo/openai-sm.jpg" width="220" height="147" loading="lazy" decoding="async" alt=""></a>
     </article>
     <article class="item t3">
       <time class="when" datetime="2026-09-01T10:00:00.000Z">15:00</time>
@@ -491,7 +496,7 @@
           <a class="chip" href="/mavzu/biznes/">biznes</a><a class="chip" href="/mavzu/iqtisod/">iqtisod</a>
         </div>
       </div>
-      <a class="item-thumb" href="/x/ai-investitsiya-kiritish-usulini-ozgartirmaydi-10481e/" aria-hidden="true" tabindex="-1"><svg class="thumb" viewBox="0 0 64 64" width="64" height="64" aria-hidden="true"><rect width="64" height="64" rx="7" fill="#15803D" opacity=".13"/><g opacity=".8"><rect x="4" y="9" width="13" height="3" rx="2" fill="#15803D" opacity="0.5"/><rect x="4" y="30" width="13" height="3" rx="2" fill="#15803D" opacity="0.3"/><circle cx="11" cy="53" r="6" fill="#15803D" opacity="0.8"/><rect x="30" y="47" width="3" height="13" rx="2" fill="#15803D" opacity="0.6"/><circle cx="53" cy="11" r="6" fill="none" stroke="#15803D" stroke-width="2" opacity="0.7"/><circle cx="53" cy="32" r="6" fill="#15803D" opacity="0.7"/></g><circle cx="32" cy="32" r="17" fill="#fff" opacity=".92"/><g transform="translate(17 17) scale(1.25)"><path d="M4 20 H20 M7 20 V13 M12 20 V8 M17 20 V4" fill="none" stroke="#15803D" stroke-width="2" stroke-linecap="round"/></g></svg></a>
+      <a class="item-thumb" href="/x/ai-investitsiya-kiritish-usulini-ozgartirmaydi-10481e/" aria-hidden="true" tabindex="-1"><svg class="thumb card" viewBox="0 0 220 147" width="220" height="147" preserveAspectRatio="xMidYMid slice" aria-hidden="true"><rect width="220" height="147" rx="6" fill="#15803D" opacity=".12"/><g opacity=".85"><rect x="7" y="15" width="23" height="6" rx="3" fill="#15803D" opacity="0.8"/><circle cx="18" cy="92" r="11" fill="#15803D" opacity="0.2"/><circle cx="18" cy="129" r="11" fill="none" stroke="#15803D" stroke-width="4" opacity="0.6"/><circle cx="55" cy="18" r="11" fill="#15803D" opacity="0.6"/><circle cx="55" cy="55" r="11" fill="#15803D" opacity="0.3"/><rect x="44" y="89" width="23" height="6" rx="3" fill="#15803D" opacity="0.5"/><circle cx="55" cy="129" r="11" fill="#15803D" opacity="0.7"/><rect x="80" y="15" width="23" height="6" rx="3" fill="#15803D" opacity="0.3"/><circle cx="92" cy="55" r="11" fill="#15803D" opacity="0.2"/><circle cx="92" cy="129" r="11" fill="none" stroke="#15803D" stroke-width="4" opacity="0.8"/><circle cx="128" cy="18" r="11" fill="#15803D" opacity="0.5"/><circle cx="128" cy="55" r="11" fill="#15803D" opacity="0.7"/><circle cx="128" cy="92" r="11" fill="#15803D" opacity="0.8"/><circle cx="128" cy="129" r="11" fill="#15803D" opacity="0.4"/><circle cx="165" cy="18" r="11" fill="none" stroke="#15803D" stroke-width="4" opacity="0.8"/><circle cx="165" cy="55" r="11" fill="#15803D" opacity="0.5"/><circle cx="165" cy="92" r="11" fill="#15803D" opacity="0.4"/><circle cx="165" cy="129" r="11" fill="#15803D" opacity="0.7"/><circle cx="202" cy="18" r="11" fill="#15803D" opacity="0.4"/><circle cx="202" cy="55" r="11" fill="#15803D" opacity="0.7"/><circle cx="202" cy="92" r="11" fill="#15803D" opacity="0.2"/></g><circle cx="110" cy="73.5" r="35" fill="#fff" opacity=".93"/><g transform="translate(92 56) scale(1.5)"><path d="M4 20 H20 M7 20 V13 M12 20 V8 M17 20 V4" fill="none" stroke="#15803D" stroke-width="2" stroke-linecap="round"/></g></svg></a>
     </article>
     <article class="item t3">
       <time class="when" datetime="2026-09-01T09:00:01.000Z">14:00</time>
@@ -506,7 +511,7 @@
           <a class="chip" href="/mavzu/openai/">OpenAI</a><a class="chip" href="/mavzu/anthropic/">Anthropic</a>
         </div>
       </div>
-      <a class="item-thumb" href="/x/openai-va-anthropic-xatarlari-tahlil-qilindi-0c4c98/" aria-hidden="true" tabindex="-1"><img class="thumb photo" src="/photo/anthropic-sm.jpg" width="64" height="64" loading="lazy" decoding="async" alt=""></a>
+      <a class="item-thumb" href="/x/openai-va-anthropic-xatarlari-tahlil-qilindi-0c4c98/" aria-hidden="true" tabindex="-1"><img class="thumb card photo" src="/photo/anthropic-sm.jpg" width="220" height="147" loading="lazy" decoding="async" alt=""></a>
     </article>
     <article class="item t3">
       <time class="when" datetime="2026-09-01T07:30:49.000Z">12:30</time>
@@ -521,7 +526,7 @@
           <a class="chip" href="/mavzu/hugging-face/">Hugging Face</a><a class="chip" href="/mavzu/robototexnika/">robototexnika</a>
         </div>
       </div>
-      <a class="item-thumb" href="/x/hugging-face-ordak-robotining-savdosi-tezlashdi-5ffd42/" aria-hidden="true" tabindex="-1"><img class="thumb photo" src="/photo/robototexnika-sm.jpg" width="64" height="64" loading="lazy" decoding="async" alt=""></a>
+      <a class="item-thumb" href="/x/hugging-face-ordak-robotining-savdosi-tezlashdi-5ffd42/" aria-hidden="true" tabindex="-1"><img class="thumb card photo" src="/photo/robototexnika-sm.jpg" width="220" height="147" loading="lazy" decoding="async" alt=""></a>
     </article>
     <article class="item t2">
       <time class="when" datetime="2026-09-01T06:43:33.000Z">11:43</time>
@@ -536,7 +541,7 @@
           <a class="chip" href="/mavzu/anthropic/">Anthropic</a><a class="chip" href="/mavzu/xavfsizlik/">xavfsizlik</a>
         </div>
       </div>
-      <a class="item-thumb" href="/x/anthropic-kiberxavfsizlik-sinovlarini-qayta-boshladi-00f4f2/" aria-hidden="true" tabindex="-1"><img class="thumb photo" src="/photo/anthropic-sm.jpg" width="64" height="64" loading="lazy" decoding="async" alt=""></a>
+      <a class="item-thumb" href="/x/anthropic-kiberxavfsizlik-sinovlarini-qayta-boshladi-00f4f2/" aria-hidden="true" tabindex="-1"><img class="thumb card photo" src="/photo/anthropic-sm.jpg" width="220" height="147" loading="lazy" decoding="async" alt=""></a>
     </article>
     <article class="item t3">
       <time class="when" datetime="2026-09-01T06:14:00.000Z">11:14</time>
@@ -551,7 +556,7 @@
           <a class="chip" href="/mavzu/nvidia/">Nvidia</a><a class="chip" href="/mavzu/chiplar/">chiplar</a>
         </div>
       </div>
-      <a class="item-thumb" href="/x/nvidia-kelishuvi-mediatekni-yetakchilar-qatoriga-qoshdi-73e3b2/" aria-hidden="true" tabindex="-1"><img class="thumb photo" src="/photo/mediatek-sm.jpg" width="64" height="64" loading="lazy" decoding="async" alt=""></a>
+      <a class="item-thumb" href="/x/nvidia-kelishuvi-mediatekni-yetakchilar-qatoriga-qoshdi-73e3b2/" aria-hidden="true" tabindex="-1"><img class="thumb card photo" src="/photo/mediatek-sm.jpg" width="220" height="147" loading="lazy" decoding="async" alt=""></a>
     </article>
     <article class="item t3">
       <time class="when" datetime="2026-09-01T04:00:45.000Z">09:00</time>
@@ -566,7 +571,7 @@
           <a class="chip" href="/mavzu/yevropa-ittifoqi/">Yevropa Ittifoqi</a><a class="chip" href="/mavzu/asml/">ASML</a>
         </div>
       </div>
-      <a class="item-thumb" href="/x/yevropa-suniy-intellekt-poygasini-toxtatishi-mumkin-f451fe/" aria-hidden="true" tabindex="-1"><img class="thumb photo" src="/photo/asml-sm.jpg" width="64" height="64" loading="lazy" decoding="async" alt=""></a>
+      <a class="item-thumb" href="/x/yevropa-suniy-intellekt-poygasini-toxtatishi-mumkin-f451fe/" aria-hidden="true" tabindex="-1"><img class="thumb card photo" src="/photo/asml-sm.jpg" width="220" height="147" loading="lazy" decoding="async" alt=""></a>
     </article>
     <article class="item t3">
       <time class="when" datetime="2026-09-01T04:00:44.000Z">09:00</time>
@@ -581,7 +586,7 @@
           <a class="chip" href="/mavzu/xavfsizlik/">xavfsizlik</a>
         </div>
       </div>
-      <a class="item-thumb" href="/x/suniy-intellekt-aldovining-oldini-olish-choralari-1de5c4/" aria-hidden="true" tabindex="-1"><svg class="thumb" viewBox="0 0 64 64" width="64" height="64" aria-hidden="true"><rect width="64" height="64" rx="7" fill="#C2410C" opacity=".13"/><g opacity=".8"><rect x="4" y="9" width="13" height="3" rx="2" fill="#C2410C" opacity="0.7"/><circle cx="11" cy="32" r="6" fill="none" stroke="#C2410C" stroke-width="2" opacity="0.3"/><circle cx="11" cy="53" r="6" fill="none" stroke="#C2410C" stroke-width="2" opacity="0.5"/><circle cx="32" cy="11" r="6" fill="#C2410C" opacity="0.7"/><circle cx="32" cy="32" r="6" fill="#C2410C" opacity="0.5"/><circle cx="53" cy="32" r="6" fill="none" stroke="#C2410C" stroke-width="2" opacity="0.7"/><circle cx="53" cy="53" r="6" fill="none" stroke="#C2410C" stroke-width="2" opacity="0.4"/></g><circle cx="32" cy="32" r="17" fill="#fff" opacity=".92"/><g transform="translate(17 17) scale(1.25)"><path d="M12 3 L20 6 V12 C20 16.5 16.6 20 12 21.5 C7.4 20 4 16.5 4 12 V6 Z" fill="none" stroke="#C2410C" stroke-width="2" stroke-linejoin="round"/></g></svg></a>
+      <a class="item-thumb" href="/x/suniy-intellekt-aldovining-oldini-olish-choralari-1de5c4/" aria-hidden="true" tabindex="-1"><svg class="thumb card" viewBox="0 0 220 147" width="220" height="147" preserveAspectRatio="xMidYMid slice" aria-hidden="true"><rect width="220" height="147" rx="6" fill="#C2410C" opacity=".12"/><g opacity=".85"><circle cx="18" cy="18" r="11" fill="none" stroke="#C2410C" stroke-width="4" opacity="0.2"/><circle cx="18" cy="55" r="11" fill="#C2410C" opacity="0.5"/><circle cx="18" cy="129" r="11" fill="#C2410C" opacity="0.7"/><rect x="52" y="7" width="6" height="23" rx="3" fill="#C2410C" opacity="0.2"/><circle cx="55" cy="55" r="11" fill="none" stroke="#C2410C" stroke-width="4" opacity="0.8"/><circle cx="55" cy="92" r="11" fill="none" stroke="#C2410C" stroke-width="4" opacity="0.3"/><circle cx="55" cy="129" r="11" fill="none" stroke="#C2410C" stroke-width="4" opacity="0.6"/><circle cx="92" cy="18" r="11" fill="#C2410C" opacity="0.6"/><circle cx="92" cy="92" r="11" fill="#C2410C" opacity="0.8"/><circle cx="92" cy="129" r="11" fill="#C2410C" opacity="0.6"/><circle cx="128" cy="18" r="11" fill="none" stroke="#C2410C" stroke-width="4" opacity="0.3"/><circle cx="128" cy="55" r="11" fill="none" stroke="#C2410C" stroke-width="4" opacity="0.4"/><rect x="117" y="89" width="23" height="6" rx="3" fill="#C2410C" opacity="0.7"/><circle cx="128" cy="129" r="11" fill="none" stroke="#C2410C" stroke-width="4" opacity="0.3"/><circle cx="165" cy="18" r="11" fill="none" stroke="#C2410C" stroke-width="4" opacity="0.7"/><rect x="162" y="81" width="6" height="23" rx="3" fill="#C2410C" opacity="0.5"/><rect x="154" y="126" width="23" height="6" rx="3" fill="#C2410C" opacity="0.4"/><circle cx="202" cy="18" r="11" fill="#C2410C" opacity="0.7"/><rect x="199" y="81" width="6" height="23" rx="3" fill="#C2410C" opacity="0.7"/><circle cx="202" cy="129" r="11" fill="none" stroke="#C2410C" stroke-width="4" opacity="0.4"/></g><circle cx="110" cy="73.5" r="35" fill="#fff" opacity=".93"/><g transform="translate(92 56) scale(1.5)"><path d="M12 3 L20 6 V12 C20 16.5 16.6 20 12 21.5 C7.4 20 4 16.5 4 12 V6 Z" fill="none" stroke="#C2410C" stroke-width="2" stroke-linejoin="round"/></g></svg></a>
     </article>
     <article class="item t2">
       <time class="when" datetime="2026-09-01T02:35:09.000Z">07:35</time>
@@ -599,7 +604,7 @@
           <a class="chip" href="/mavzu/anthropic/">Anthropic</a><a class="chip" href="/mavzu/sud/">sud</a>
         </div>
       </div>
-      <a class="item-thumb" href="/x/sud-anthropic-boyicha-qarorni-noqonuniy-deb-topdi-8d6274/" aria-hidden="true" tabindex="-1"><img class="thumb photo" src="/photo/anthropic-sm.jpg" width="64" height="64" loading="lazy" decoding="async" alt=""></a>
+      <a class="item-thumb" href="/x/sud-anthropic-boyicha-qarorni-noqonuniy-deb-topdi-8d6274/" aria-hidden="true" tabindex="-1"><img class="thumb card photo" src="/photo/anthropic-sm.jpg" width="220" height="147" loading="lazy" decoding="async" alt=""></a>
     </article>
     <article class="item t2">
       <time class="when" datetime="2026-09-01T02:20:19.000Z">07:20</time>
@@ -614,7 +619,7 @@
           <a class="chip" href="/mavzu/anthropic/">Anthropic</a>
         </div>
       </div>
-      <a class="item-thumb" href="/x/anthropic-bazi-ai-mashgulotlarini-toxtatdi-87eed7/" aria-hidden="true" tabindex="-1"><img class="thumb photo" src="/photo/anthropic-sm.jpg" width="64" height="64" loading="lazy" decoding="async" alt=""></a>
+      <a class="item-thumb" href="/x/anthropic-bazi-ai-mashgulotlarini-toxtatdi-87eed7/" aria-hidden="true" tabindex="-1"><img class="thumb card photo" src="/photo/anthropic-sm.jpg" width="220" height="147" loading="lazy" decoding="async" alt=""></a>
     </article>
     <article class="item t3">
       <time class="when" datetime="2026-09-01T01:25:40.000Z">06:25</time>
@@ -629,7 +634,7 @@
           <a class="chip" href="/mavzu/agentlar/">agentlar</a><a class="chip" href="/mavzu/tadqiqot/">tadqiqot</a>
         </div>
       </div>
-      <a class="item-thumb" href="/x/doltlite-git-uslubidagi-versiya-boshqaruvi-a14615/" aria-hidden="true" tabindex="-1"><svg class="thumb" viewBox="0 0 64 64" width="64" height="64" aria-hidden="true"><rect width="64" height="64" rx="7" fill="#1F2BFF" opacity=".13"/><g opacity=".8"><circle cx="11" cy="11" r="6" fill="none" stroke="#1F2BFF" stroke-width="2" opacity="0.3"/><circle cx="11" cy="32" r="6" fill="none" stroke="#1F2BFF" stroke-width="2" opacity="0.3"/><rect x="25" y="9" width="13" height="3" rx="2" fill="#1F2BFF" opacity="0.4"/><rect x="30" y="47" width="3" height="13" rx="2" fill="#1F2BFF" opacity="0.4"/><circle cx="53" cy="11" r="6" fill="none" stroke="#1F2BFF" stroke-width="2" opacity="0.2"/><circle cx="53" cy="32" r="6" fill="none" stroke="#1F2BFF" stroke-width="2" opacity="0.3"/></g><circle cx="32" cy="32" r="17" fill="#fff" opacity=".92"/><g transform="translate(17 17) scale(1.25)"><circle cx="12" cy="12" r="3" fill="none" stroke="#1F2BFF" stroke-width="2"/><circle cx="5" cy="6" r="2" fill="#1F2BFF"/><circle cx="19" cy="6" r="2" fill="#1F2BFF"/><circle cx="5" cy="18" r="2" fill="#1F2BFF"/><circle cx="19" cy="18" r="2" fill="#1F2BFF"/><path d="M6.6 7.4 L9.9 10.3 M17.4 7.4 L14.1 10.3 M6.6 16.6 L9.9 13.7 M17.4 16.6 L14.1 13.7" stroke="#1F2BFF" stroke-width="1.6"/></g></svg></a>
+      <a class="item-thumb" href="/x/doltlite-git-uslubidagi-versiya-boshqaruvi-a14615/" aria-hidden="true" tabindex="-1"><svg class="thumb card" viewBox="0 0 220 147" width="220" height="147" preserveAspectRatio="xMidYMid slice" aria-hidden="true"><rect width="220" height="147" rx="6" fill="#1F2BFF" opacity=".12"/><g opacity=".85"><rect x="7" y="15" width="23" height="6" rx="3" fill="#1F2BFF" opacity="0.5"/><circle cx="18" cy="55" r="11" fill="#1F2BFF" opacity="0.5"/><circle cx="18" cy="129" r="11" fill="none" stroke="#1F2BFF" stroke-width="4" opacity="0.2"/><circle cx="55" cy="92" r="11" fill="#1F2BFF" opacity="0.3"/><rect x="89" y="7" width="6" height="23" rx="3" fill="#1F2BFF" opacity="0.5"/><circle cx="92" cy="55" r="11" fill="none" stroke="#1F2BFF" stroke-width="4" opacity="0.5"/><circle cx="92" cy="129" r="11" fill="none" stroke="#1F2BFF" stroke-width="4" opacity="0.3"/><circle cx="128" cy="18" r="11" fill="#1F2BFF" opacity="0.2"/><circle cx="128" cy="55" r="11" fill="none" stroke="#1F2BFF" stroke-width="4" opacity="0.4"/><circle cx="128" cy="92" r="11" fill="none" stroke="#1F2BFF" stroke-width="4" opacity="0.2"/><circle cx="165" cy="18" r="11" fill="#1F2BFF" opacity="0.7"/><circle cx="165" cy="55" r="11" fill="none" stroke="#1F2BFF" stroke-width="4" opacity="0.5"/><rect x="154" y="89" width="23" height="6" rx="3" fill="#1F2BFF" opacity="0.7"/><rect x="162" y="117" width="6" height="23" rx="3" fill="#1F2BFF" opacity="0.6"/><circle cx="202" cy="18" r="11" fill="none" stroke="#1F2BFF" stroke-width="4" opacity="0.3"/><circle cx="202" cy="92" r="11" fill="#1F2BFF" opacity="0.5"/><circle cx="202" cy="129" r="11" fill="#1F2BFF" opacity="0.7"/></g><circle cx="110" cy="73.5" r="35" fill="#fff" opacity=".93"/><g transform="translate(92 56) scale(1.5)"><circle cx="12" cy="12" r="3" fill="none" stroke="#1F2BFF" stroke-width="2"/><circle cx="5" cy="6" r="2" fill="#1F2BFF"/><circle cx="19" cy="6" r="2" fill="#1F2BFF"/><circle cx="5" cy="18" r="2" fill="#1F2BFF"/><circle cx="19" cy="18" r="2" fill="#1F2BFF"/><path d="M6.6 7.4 L9.9 10.3 M17.4 7.4 L14.1 10.3 M6.6 16.6 L9.9 13.7 M17.4 16.6 L14.1 13.7" stroke="#1F2BFF" stroke-width="1.6"/></g></svg></a>
     </article>
     <article class="item t3">
       <time class="when" datetime="2026-09-01T01:10:40.000Z">06:10</time>
@@ -644,7 +649,7 @@
           <a class="chip" href="/mavzu/tadqiqot/">tadqiqot</a>
         </div>
       </div>
-      <a class="item-thumb" href="/x/suniy-intellekt-ongini-organish-masalasi-9c3d31/" aria-hidden="true" tabindex="-1"><svg class="thumb" viewBox="0 0 64 64" width="64" height="64" aria-hidden="true"><rect width="64" height="64" rx="7" fill="#4338CA" opacity=".13"/><g opacity=".8"><circle cx="11" cy="11" r="6" fill="#4338CA" opacity="0.6"/><rect x="9" y="47" width="3" height="13" rx="2" fill="#4338CA" opacity="0.7"/><circle cx="32" cy="32" r="6" fill="#4338CA" opacity="0.5"/><circle cx="32" cy="53" r="6" fill="none" stroke="#4338CA" stroke-width="2" opacity="0.6"/><circle cx="53" cy="11" r="6" fill="#4338CA" opacity="0.2"/><circle cx="53" cy="32" r="6" fill="#4338CA" opacity="0.5"/><rect x="47" y="52" width="13" height="3" rx="2" fill="#4338CA" opacity="0.3"/></g><circle cx="32" cy="32" r="17" fill="#fff" opacity=".92"/><g transform="translate(17 17) scale(1.25)"><path d="M9.5 3 V9 L4.5 18.5 A1.6 1.6 0 0 0 6 21 H18 A1.6 1.6 0 0 0 19.5 18.5 L14.5 9 V3 M8 3 H16 M7.4 14 H16.6" fill="none" stroke="#4338CA" stroke-width="2" stroke-linejoin="round"/></g></svg></a>
+      <a class="item-thumb" href="/x/suniy-intellekt-ongini-organish-masalasi-9c3d31/" aria-hidden="true" tabindex="-1"><svg class="thumb card" viewBox="0 0 220 147" width="220" height="147" preserveAspectRatio="xMidYMid slice" aria-hidden="true"><rect width="220" height="147" rx="6" fill="#4338CA" opacity=".12"/><g opacity=".85"><circle cx="18" cy="55" r="11" fill="#4338CA" opacity="0.6"/><circle cx="18" cy="92" r="11" fill="none" stroke="#4338CA" stroke-width="4" opacity="0.4"/><circle cx="55" cy="18" r="11" fill="#4338CA" opacity="0.3"/><circle cx="55" cy="55" r="11" fill="none" stroke="#4338CA" stroke-width="4" opacity="0.4"/><circle cx="55" cy="92" r="11" fill="#4338CA" opacity="0.3"/><circle cx="55" cy="129" r="11" fill="#4338CA" opacity="0.7"/><circle cx="92" cy="55" r="11" fill="#4338CA" opacity="0.6"/><circle cx="92" cy="92" r="11" fill="none" stroke="#4338CA" stroke-width="4" opacity="0.6"/><circle cx="92" cy="129" r="11" fill="#4338CA" opacity="0.7"/><rect x="125" y="7" width="6" height="23" rx="3" fill="#4338CA" opacity="0.7"/><circle cx="128" cy="92" r="11" fill="#4338CA" opacity="0.3"/><circle cx="128" cy="129" r="11" fill="none" stroke="#4338CA" stroke-width="4" opacity="0.8"/><circle cx="165" cy="55" r="11" fill="none" stroke="#4338CA" stroke-width="4" opacity="0.6"/><circle cx="165" cy="92" r="11" fill="none" stroke="#4338CA" stroke-width="4" opacity="0.2"/><circle cx="165" cy="129" r="11" fill="#4338CA" opacity="0.6"/><circle cx="202" cy="55" r="11" fill="#4338CA" opacity="0.4"/><circle cx="202" cy="92" r="11" fill="none" stroke="#4338CA" stroke-width="4" opacity="0.3"/></g><circle cx="110" cy="73.5" r="35" fill="#fff" opacity=".93"/><g transform="translate(92 56) scale(1.5)"><path d="M9.5 3 V9 L4.5 18.5 A1.6 1.6 0 0 0 6 21 H18 A1.6 1.6 0 0 0 19.5 18.5 L14.5 9 V3 M8 3 H16 M7.4 14 H16.6" fill="none" stroke="#4338CA" stroke-width="2" stroke-linejoin="round"/></g></svg></a>
     </article>
     <article class="item t3">
       <time class="when" datetime="2026-09-01T00:40:27.000Z">05:40</time>
@@ -659,7 +664,7 @@
           <a class="chip" href="/mavzu/hugging-face/">Hugging Face</a><a class="chip" href="/mavzu/xavfsizlik/">xavfsizlik</a>
         </div>
       </div>
-      <a class="item-thumb" href="/x/hugging-face-kiberhujumi-kutilgandan-jiddiyroq-boldi-2b66fb/" aria-hidden="true" tabindex="-1"><svg class="thumb" viewBox="0 0 64 64" width="64" height="64" aria-hidden="true"><rect width="64" height="64" rx="7" fill="#C2410C" opacity=".13"/><g opacity=".8"><circle cx="11" cy="32" r="6" fill="#C2410C" opacity="0.3"/><rect x="30" y="25" width="3" height="13" rx="2" fill="#C2410C" opacity="0.3"/><circle cx="53" cy="11" r="6" fill="none" stroke="#C2410C" stroke-width="2" opacity="0.4"/><rect x="47" y="30" width="13" height="3" rx="2" fill="#C2410C" opacity="0.3"/></g><circle cx="32" cy="32" r="17" fill="#fff" opacity=".92"/><g transform="translate(17 17) scale(1.25)"><path d="M12 3 L20 6 V12 C20 16.5 16.6 20 12 21.5 C7.4 20 4 16.5 4 12 V6 Z" fill="none" stroke="#C2410C" stroke-width="2" stroke-linejoin="round"/></g></svg></a>
+      <a class="item-thumb" href="/x/hugging-face-kiberhujumi-kutilgandan-jiddiyroq-boldi-2b66fb/" aria-hidden="true" tabindex="-1"><svg class="thumb card" viewBox="0 0 220 147" width="220" height="147" preserveAspectRatio="xMidYMid slice" aria-hidden="true"><rect width="220" height="147" rx="6" fill="#C2410C" opacity=".12"/><g opacity=".85"><rect x="7" y="52" width="23" height="6" rx="3" fill="#C2410C" opacity="0.3"/><circle cx="18" cy="92" r="11" fill="none" stroke="#C2410C" stroke-width="4" opacity="0.7"/><circle cx="18" cy="129" r="11" fill="none" stroke="#C2410C" stroke-width="4" opacity="0.4"/><circle cx="55" cy="55" r="11" fill="none" stroke="#C2410C" stroke-width="4" opacity="0.3"/><circle cx="55" cy="92" r="11" fill="#C2410C" opacity="0.3"/><circle cx="55" cy="129" r="11" fill="#C2410C" opacity="0.4"/><circle cx="92" cy="18" r="11" fill="#C2410C" opacity="0.3"/><circle cx="92" cy="55" r="11" fill="none" stroke="#C2410C" stroke-width="4" opacity="0.5"/><circle cx="92" cy="129" r="11" fill="#C2410C" opacity="0.6"/><rect x="125" y="7" width="6" height="23" rx="3" fill="#C2410C" opacity="0.4"/><circle cx="128" cy="55" r="11" fill="#C2410C" opacity="0.3"/><circle cx="128" cy="92" r="11" fill="#C2410C" opacity="0.7"/><circle cx="128" cy="129" r="11" fill="none" stroke="#C2410C" stroke-width="4" opacity="0.5"/><circle cx="165" cy="92" r="11" fill="none" stroke="#C2410C" stroke-width="4" opacity="0.7"/><rect x="154" y="126" width="23" height="6" rx="3" fill="#C2410C" opacity="0.5"/><circle cx="202" cy="18" r="11" fill="none" stroke="#C2410C" stroke-width="4" opacity="0.5"/><circle cx="202" cy="55" r="11" fill="none" stroke="#C2410C" stroke-width="4" opacity="0.6"/><rect x="199" y="81" width="6" height="23" rx="3" fill="#C2410C" opacity="0.7"/><rect x="190" y="126" width="23" height="6" rx="3" fill="#C2410C" opacity="0.3"/></g><circle cx="110" cy="73.5" r="35" fill="#fff" opacity=".93"/><g transform="translate(92 56) scale(1.5)"><path d="M12 3 L20 6 V12 C20 16.5 16.6 20 12 21.5 C7.4 20 4 16.5 4 12 V6 Z" fill="none" stroke="#C2410C" stroke-width="2" stroke-linejoin="round"/></g></svg></a>
     </article>
     <article class="item t3">
       <time class="when" datetime="2026-09-01T00:28:03.000Z">05:28</time>
@@ -674,7 +679,7 @@
           <a class="chip" href="/mavzu/salesforce/">Salesforce</a><a class="chip" href="/mavzu/anthropic/">Anthropic</a>
         </div>
       </div>
-      <a class="item-thumb" href="/x/salesforce-anthropic-bilan-hamkorlikni-kengaytiradi-1e975b/" aria-hidden="true" tabindex="-1"><img class="thumb photo" src="/photo/salesforce-sm.jpg" width="64" height="64" loading="lazy" decoding="async" alt=""></a>
+      <a class="item-thumb" href="/x/salesforce-anthropic-bilan-hamkorlikni-kengaytiradi-1e975b/" aria-hidden="true" tabindex="-1"><img class="thumb card photo" src="/photo/salesforce-sm.jpg" width="220" height="147" loading="lazy" decoding="async" alt=""></a>
     </article>
     <article class="item t2">
       <time class="when" datetime="2026-09-01T00:10:02.000Z">05:10</time>
@@ -692,7 +697,7 @@
           <a class="chip" href="/mavzu/anthropic/">Anthropic</a><a class="chip" href="/mavzu/xavfsizlik/">xavfsizlik</a>
         </div>
       </div>
-      <a class="item-thumb" href="/x/anthropic-claude-xavfsizligi-boyicha-choralar-kordi-06ab92/" aria-hidden="true" tabindex="-1"><img class="thumb photo" src="/photo/anthropic-sm.jpg" width="64" height="64" loading="lazy" decoding="async" alt=""></a>
+      <a class="item-thumb" href="/x/anthropic-claude-xavfsizligi-boyicha-choralar-kordi-06ab92/" aria-hidden="true" tabindex="-1"><img class="thumb card photo" src="/photo/anthropic-sm.jpg" width="220" height="147" loading="lazy" decoding="async" alt=""></a>
     </article>
     <article class="item t3">
       <time class="when" datetime="2026-09-01T00:00:00.000Z">05:00</time>
@@ -710,7 +715,7 @@
           <a class="chip" href="/mavzu/tadqiqot/">tadqiqot</a><a class="chip" href="/mavzu/qonun/">qonun</a>
         </div>
       </div>
-      <a class="item-thumb" href="/x/suniy-intellekt-xatolari-uchun-kim-javobgar-boladi-c5b960/" aria-hidden="true" tabindex="-1"><svg class="thumb" viewBox="0 0 64 64" width="64" height="64" aria-hidden="true"><rect width="64" height="64" rx="7" fill="#4338CA" opacity=".13"/><g opacity=".8"><circle cx="11" cy="11" r="6" fill="none" stroke="#4338CA" stroke-width="2" opacity="0.7"/><circle cx="11" cy="53" r="6" fill="#4338CA" opacity="0.4"/><rect x="25" y="9" width="13" height="3" rx="2" fill="#4338CA" opacity="0.7"/><rect x="25" y="30" width="13" height="3" rx="2" fill="#4338CA" opacity="0.2"/><circle cx="32" cy="53" r="6" fill="none" stroke="#4338CA" stroke-width="2" opacity="0.8"/><circle cx="53" cy="11" r="6" fill="#4338CA" opacity="0.2"/><rect x="52" y="47" width="3" height="13" rx="2" fill="#4338CA" opacity="0.4"/></g><circle cx="32" cy="32" r="17" fill="#fff" opacity=".92"/><g transform="translate(17 17) scale(1.25)"><path d="M9.5 3 V9 L4.5 18.5 A1.6 1.6 0 0 0 6 21 H18 A1.6 1.6 0 0 0 19.5 18.5 L14.5 9 V3 M8 3 H16 M7.4 14 H16.6" fill="none" stroke="#4338CA" stroke-width="2" stroke-linejoin="round"/></g></svg></a>
+      <a class="item-thumb" href="/x/suniy-intellekt-xatolari-uchun-kim-javobgar-boladi-c5b960/" aria-hidden="true" tabindex="-1"><svg class="thumb card" viewBox="0 0 220 147" width="220" height="147" preserveAspectRatio="xMidYMid slice" aria-hidden="true"><rect width="220" height="147" rx="6" fill="#4338CA" opacity=".12"/><g opacity=".85"><rect x="7" y="52" width="23" height="6" rx="3" fill="#4338CA" opacity="0.5"/><circle cx="18" cy="92" r="11" fill="#4338CA" opacity="0.6"/><rect x="15" y="117" width="6" height="23" rx="3" fill="#4338CA" opacity="0.5"/><rect x="44" y="15" width="23" height="6" rx="3" fill="#4338CA" opacity="0.5"/><circle cx="55" cy="92" r="11" fill="#4338CA" opacity="0.6"/><circle cx="55" cy="129" r="11" fill="#4338CA" opacity="0.4"/><circle cx="92" cy="18" r="11" fill="none" stroke="#4338CA" stroke-width="4" opacity="0.2"/><circle cx="92" cy="55" r="11" fill="#4338CA" opacity="0.5"/><rect x="80" y="89" width="23" height="6" rx="3" fill="#4338CA" opacity="0.3"/><rect x="125" y="7" width="6" height="23" rx="3" fill="#4338CA" opacity="0.7"/><circle cx="128" cy="92" r="11" fill="none" stroke="#4338CA" stroke-width="4" opacity="0.4"/><rect x="125" y="117" width="6" height="23" rx="3" fill="#4338CA" opacity="0.3"/><circle cx="165" cy="18" r="11" fill="none" stroke="#4338CA" stroke-width="4" opacity="0.7"/><circle cx="165" cy="92" r="11" fill="#4338CA" opacity="0.4"/><rect x="190" y="52" width="23" height="6" rx="3" fill="#4338CA" opacity="0.2"/><circle cx="202" cy="92" r="11" fill="#4338CA" opacity="0.8"/><circle cx="202" cy="129" r="11" fill="#4338CA" opacity="0.5"/></g><circle cx="110" cy="73.5" r="35" fill="#fff" opacity=".93"/><g transform="translate(92 56) scale(1.5)"><path d="M9.5 3 V9 L4.5 18.5 A1.6 1.6 0 0 0 6 21 H18 A1.6 1.6 0 0 0 19.5 18.5 L14.5 9 V3 M8 3 H16 M7.4 14 H16.6" fill="none" stroke="#4338CA" stroke-width="2" stroke-linejoin="round"/></g></svg></a>
     </article>
     <article class="item t2">
       <time class="when" datetime="2026-08-31T23:59:00.000Z">04:59</time>
@@ -725,7 +730,7 @@
           <a class="chip" href="/mavzu/anthropic/">Anthropic</a><a class="chip" href="/mavzu/bulut/">bulut</a>
         </div>
       </div>
-      <a class="item-thumb" href="/x/anthropic-lambda-bilan-35-milliard-dollarlik-shartnoma-tuzdi-ca224c/" aria-hidden="true" tabindex="-1"><img class="thumb photo" src="/photo/anthropic-sm.jpg" width="64" height="64" loading="lazy" decoding="async" alt=""></a>
+      <a class="item-thumb" href="/x/anthropic-lambda-bilan-35-milliard-dollarlik-shartnoma-tuzdi-ca224c/" aria-hidden="true" tabindex="-1"><img class="thumb card photo" src="/photo/anthropic-sm.jpg" width="220" height="147" loading="lazy" decoding="async" alt=""></a>
     </article>
     <article class="item t3">
       <time class="when" datetime="2026-08-31T23:43:37.000Z">04:43</time>
@@ -740,7 +745,7 @@
           <a class="chip" href="/mavzu/tadqiqot/">tadqiqot</a><a class="chip" href="/mavzu/mehnat-bozori/">mehnat bozori</a>
         </div>
       </div>
-      <a class="item-thumb" href="/x/ish-joylarida-ai-keng-ammo-yuzaki-qollanilmoqda-a25968/" aria-hidden="true" tabindex="-1"><svg class="thumb" viewBox="0 0 64 64" width="64" height="64" aria-hidden="true"><rect width="64" height="64" rx="7" fill="#4338CA" opacity=".13"/><g opacity=".8"><circle cx="11" cy="11" r="6" fill="#4338CA" opacity="0.5"/><circle cx="11" cy="53" r="6" fill="none" stroke="#4338CA" stroke-width="2" opacity="0.6"/><rect x="47" y="30" width="13" height="3" rx="2" fill="#4338CA" opacity="0.2"/></g><circle cx="32" cy="32" r="17" fill="#fff" opacity=".92"/><g transform="translate(17 17) scale(1.25)"><path d="M9.5 3 V9 L4.5 18.5 A1.6 1.6 0 0 0 6 21 H18 A1.6 1.6 0 0 0 19.5 18.5 L14.5 9 V3 M8 3 H16 M7.4 14 H16.6" fill="none" stroke="#4338CA" stroke-width="2" stroke-linejoin="round"/></g></svg></a>
+      <a class="item-thumb" href="/x/ish-joylarida-ai-keng-ammo-yuzaki-qollanilmoqda-a25968/" aria-hidden="true" tabindex="-1"><svg class="thumb card" viewBox="0 0 220 147" width="220" height="147" preserveAspectRatio="xMidYMid slice" aria-hidden="true"><rect width="220" height="147" rx="6" fill="#4338CA" opacity=".12"/><g opacity=".85"><circle cx="18" cy="18" r="11" fill="#4338CA" opacity="0.4"/><circle cx="18" cy="92" r="11" fill="none" stroke="#4338CA" stroke-width="4" opacity="0.7"/><circle cx="55" cy="55" r="11" fill="none" stroke="#4338CA" stroke-width="4" opacity="0.2"/><circle cx="55" cy="92" r="11" fill="none" stroke="#4338CA" stroke-width="4" opacity="0.5"/><circle cx="55" cy="129" r="11" fill="none" stroke="#4338CA" stroke-width="4" opacity="0.7"/><circle cx="92" cy="18" r="11" fill="#4338CA" opacity="0.2"/><rect x="80" y="52" width="23" height="6" rx="3" fill="#4338CA" opacity="0.5"/><rect x="80" y="89" width="23" height="6" rx="3" fill="#4338CA" opacity="0.6"/><circle cx="128" cy="55" r="11" fill="none" stroke="#4338CA" stroke-width="4" opacity="0.7"/><circle cx="128" cy="92" r="11" fill="none" stroke="#4338CA" stroke-width="4" opacity="0.4"/><circle cx="128" cy="129" r="11" fill="none" stroke="#4338CA" stroke-width="4" opacity="0.5"/><circle cx="165" cy="18" r="11" fill="none" stroke="#4338CA" stroke-width="4" opacity="0.2"/><circle cx="165" cy="55" r="11" fill="none" stroke="#4338CA" stroke-width="4" opacity="0.2"/><circle cx="165" cy="92" r="11" fill="#4338CA" opacity="0.6"/><circle cx="165" cy="129" r="11" fill="#4338CA" opacity="0.4"/><rect x="199" y="44" width="6" height="23" rx="3" fill="#4338CA" opacity="0.3"/><circle cx="202" cy="129" r="11" fill="none" stroke="#4338CA" stroke-width="4" opacity="0.3"/></g><circle cx="110" cy="73.5" r="35" fill="#fff" opacity=".93"/><g transform="translate(92 56) scale(1.5)"><path d="M9.5 3 V9 L4.5 18.5 A1.6 1.6 0 0 0 6 21 H18 A1.6 1.6 0 0 0 19.5 18.5 L14.5 9 V3 M8 3 H16 M7.4 14 H16.6" fill="none" stroke="#4338CA" stroke-width="2" stroke-linejoin="round"/></g></svg></a>
     </article>
     <article class="item t3">
       <time class="when" datetime="2026-08-31T23:13:00.000Z">04:13</time>
@@ -755,7 +760,7 @@
           <a class="chip" href="/mavzu/anthropic/">Anthropic</a><a class="chip" href="/mavzu/xavfsizlik/">xavfsizlik</a>
         </div>
       </div>
-      <a class="item-thumb" href="/x/anthropic-suniy-intellekt-modellarini-sinashni-tiklaydi-9e749f/" aria-hidden="true" tabindex="-1"><img class="thumb photo" src="/photo/anthropic-sm.jpg" width="64" height="64" loading="lazy" decoding="async" alt=""></a>
+      <a class="item-thumb" href="/x/anthropic-suniy-intellekt-modellarini-sinashni-tiklaydi-9e749f/" aria-hidden="true" tabindex="-1"><img class="thumb card photo" src="/photo/anthropic-sm.jpg" width="220" height="147" loading="lazy" decoding="async" alt=""></a>
     </article>
     <article class="item t3">
       <time class="when" datetime="2026-08-31T22:54:24.000Z">03:54</time>
@@ -770,7 +775,7 @@
           <a class="chip" href="/mavzu/nvidia/">Nvidia</a><a class="chip" href="/mavzu/biznes/">biznes</a>
         </div>
       </div>
-      <a class="item-thumb" href="/x/nvidia-nvlink-orqali-litsenziyalash-imperiyasini-qurmoqda-dc4db3/" aria-hidden="true" tabindex="-1"><img class="thumb photo" src="/photo/nvidia-sm.jpg" width="64" height="64" loading="lazy" decoding="async" alt=""></a>
+      <a class="item-thumb" href="/x/nvidia-nvlink-orqali-litsenziyalash-imperiyasini-qurmoqda-dc4db3/" aria-hidden="true" tabindex="-1"><img class="thumb card photo" src="/photo/nvidia-sm.jpg" width="220" height="147" loading="lazy" decoding="async" alt=""></a>
     </article>
     <article class="item t2">
       <time class="when" datetime="2026-08-31T22:29:54.000Z">03:29</time>
@@ -788,7 +793,7 @@
           <a class="chip" href="/mavzu/siyosat/">siyosat</a><a class="chip" href="/mavzu/xavfsizlik/">xavfsizlik</a>
         </div>
       </div>
-      <a class="item-thumb" href="/x/angliya-banki-rahbari-ai-kiberxavflaridan-ogohlantirdi-d449ee/" aria-hidden="true" tabindex="-1"><svg class="thumb" viewBox="0 0 64 64" width="64" height="64" aria-hidden="true"><rect width="64" height="64" rx="7" fill="#475569" opacity=".13"/><g opacity=".8"><circle cx="11" cy="11" r="6" fill="none" stroke="#475569" stroke-width="2" opacity="0.2"/><circle cx="11" cy="53" r="6" fill="none" stroke="#475569" stroke-width="2" opacity="0.2"/><rect x="30" y="4" width="3" height="13" rx="2" fill="#475569" opacity="0.7"/><circle cx="32" cy="32" r="6" fill="#475569" opacity="0.7"/><rect x="25" y="52" width="13" height="3" rx="2" fill="#475569" opacity="0.6"/><circle cx="53" cy="11" r="6" fill="none" stroke="#475569" stroke-width="2" opacity="0.3"/><circle cx="53" cy="32" r="6" fill="#475569" opacity="0.8"/></g><circle cx="32" cy="32" r="17" fill="#fff" opacity=".92"/><g transform="translate(17 17) scale(1.25)"><path d="M3 20 H21 M5 20 V10 M9.5 20 V10 M14.5 20 V10 M19 20 V10 M12 3 L21 8 H3 Z" fill="none" stroke="#475569" stroke-width="2" stroke-linejoin="round"/></g></svg></a>
+      <a class="item-thumb" href="/x/angliya-banki-rahbari-ai-kiberxavflaridan-ogohlantirdi-d449ee/" aria-hidden="true" tabindex="-1"><svg class="thumb card" viewBox="0 0 220 147" width="220" height="147" preserveAspectRatio="xMidYMid slice" aria-hidden="true"><rect width="220" height="147" rx="6" fill="#475569" opacity=".12"/><g opacity=".85"><rect x="15" y="7" width="6" height="23" rx="3" fill="#475569" opacity="0.8"/><circle cx="18" cy="92" r="11" fill="#475569" opacity="0.5"/><circle cx="18" cy="129" r="11" fill="none" stroke="#475569" stroke-width="4" opacity="0.4"/><circle cx="55" cy="18" r="11" fill="none" stroke="#475569" stroke-width="4" opacity="0.7"/><circle cx="55" cy="55" r="11" fill="none" stroke="#475569" stroke-width="4" opacity="0.3"/><rect x="52" y="81" width="6" height="23" rx="3" fill="#475569" opacity="0.3"/><circle cx="55" cy="129" r="11" fill="#475569" opacity="0.3"/><circle cx="92" cy="18" r="11" fill="#475569" opacity="0.3"/><rect x="89" y="44" width="6" height="23" rx="3" fill="#475569" opacity="0.5"/><circle cx="92" cy="129" r="11" fill="#475569" opacity="0.3"/><circle cx="128" cy="18" r="11" fill="#475569" opacity="0.6"/><circle cx="128" cy="55" r="11" fill="none" stroke="#475569" stroke-width="4" opacity="0.8"/><circle cx="165" cy="18" r="11" fill="#475569" opacity="0.6"/><circle cx="165" cy="129" r="11" fill="#475569" opacity="0.4"/><circle cx="202" cy="18" r="11" fill="none" stroke="#475569" stroke-width="4" opacity="0.7"/><rect x="199" y="44" width="6" height="23" rx="3" fill="#475569" opacity="0.4"/><circle cx="202" cy="129" r="11" fill="none" stroke="#475569" stroke-width="4" opacity="0.7"/></g><circle cx="110" cy="73.5" r="35" fill="#fff" opacity=".93"/><g transform="translate(92 56) scale(1.5)"><path d="M3 20 H21 M5 20 V10 M9.5 20 V10 M14.5 20 V10 M19 20 V10 M12 3 L21 8 H3 Z" fill="none" stroke="#475569" stroke-width="2" stroke-linejoin="round"/></g></svg></a>
     </article>
     <article class="item t3">
       <time class="when" datetime="2026-08-31T21:36:32.000Z">02:36</time>
@@ -803,7 +808,7 @@
           <a class="chip" href="/mavzu/openai/">OpenAI</a><a class="chip" href="/mavzu/microsoft/">Microsoft</a>
         </div>
       </div>
-      <a class="item-thumb" href="/x/chatgpt-work-va-outlook-faoliyatida-uzilishlar-yuz-berdi-cc2bb3/" aria-hidden="true" tabindex="-1"><img class="thumb photo" src="/photo/microsoft-sm.jpg" width="64" height="64" loading="lazy" decoding="async" alt=""></a>
+      <a class="item-thumb" href="/x/chatgpt-work-va-outlook-faoliyatida-uzilishlar-yuz-berdi-cc2bb3/" aria-hidden="true" tabindex="-1"><img class="thumb card photo" src="/photo/microsoft-sm.jpg" width="220" height="147" loading="lazy" decoding="async" alt=""></a>
     </article>
     <article class="item t3">
       <time class="when" datetime="2026-08-31T20:48:35.000Z">01:48</time>
@@ -818,7 +823,7 @@
           <a class="chip" href="/mavzu/vmware/">VMware</a><a class="chip" href="/mavzu/amd/">AMD</a>
         </div>
       </div>
-      <a class="item-thumb" href="/x/vmware-amd-bilan-hamkorlikda-loyiha-yaratmoqda-33c191/" aria-hidden="true" tabindex="-1"><img class="thumb photo" src="/photo/nvidia-sm.jpg" width="64" height="64" loading="lazy" decoding="async" alt=""></a>
+      <a class="item-thumb" href="/x/vmware-amd-bilan-hamkorlikda-loyiha-yaratmoqda-33c191/" aria-hidden="true" tabindex="-1"><img class="thumb card photo" src="/photo/nvidia-sm.jpg" width="220" height="147" loading="lazy" decoding="async" alt=""></a>
     </article>
     <article class="item t3">
       <time class="when" datetime="2026-08-31T20:13:45.000Z">01:13</time>
@@ -833,7 +838,7 @@
           <a class="chip" href="/mavzu/pentagon/">Pentagon</a>
         </div>
       </div>
-      <a class="item-thumb" href="/x/pentagon-chatgpt-va-grok-versiyalariga-ega-boldi-bef216/" aria-hidden="true" tabindex="-1"><img class="thumb photo" src="/photo/pentagon-sm.jpg" width="64" height="64" loading="lazy" decoding="async" alt=""></a>
+      <a class="item-thumb" href="/x/pentagon-chatgpt-va-grok-versiyalariga-ega-boldi-bef216/" aria-hidden="true" tabindex="-1"><img class="thumb card photo" src="/photo/pentagon-sm.jpg" width="220" height="147" loading="lazy" decoding="async" alt=""></a>
     </article>
     <article class="item t3">
       <time class="when" datetime="2026-08-31T19:48:33.000Z">00:48</time>
@@ -848,7 +853,7 @@
           <a class="chip" href="/mavzu/nvidia/">Nvidia</a><a class="chip" href="/mavzu/chiplar/">chiplar</a>
         </div>
       </div>
-      <a class="item-thumb" href="/x/nvidianing-groq-chipi-ai-agentlari-imkoniyatini-belgilaydi-884dc7/" aria-hidden="true" tabindex="-1"><img class="thumb photo" src="/photo/nvidia-sm.jpg" width="64" height="64" loading="lazy" decoding="async" alt=""></a>
+      <a class="item-thumb" href="/x/nvidianing-groq-chipi-ai-agentlari-imkoniyatini-belgilaydi-884dc7/" aria-hidden="true" tabindex="-1"><img class="thumb card photo" src="/photo/nvidia-sm.jpg" width="220" height="147" loading="lazy" decoding="async" alt=""></a>
     </article>
     <article class="item t2">
       <time class="when" datetime="2026-08-31T19:16:59.000Z">00:16</time>
@@ -866,7 +871,7 @@
           <a class="chip" href="/mavzu/instagram/">Instagram</a>
         </div>
       </div>
-      <a class="item-thumb" href="/x/instagram-ai-profillarga-cheklovlar-joriy-etmoqda-6f3e14/" aria-hidden="true" tabindex="-1"><svg class="thumb" viewBox="0 0 64 64" width="64" height="64" aria-hidden="true"><rect width="64" height="64" rx="7" fill="#1F2BFF" opacity=".13"/><g opacity=".8"><circle cx="11" cy="11" r="6" fill="#1F2BFF" opacity="0.4"/><rect x="4" y="30" width="13" height="3" rx="2" fill="#1F2BFF" opacity="0.3"/><rect x="30" y="4" width="3" height="13" rx="2" fill="#1F2BFF" opacity="0.2"/><circle cx="32" cy="32" r="6" fill="none" stroke="#1F2BFF" stroke-width="2" opacity="0.6"/><rect x="30" y="47" width="3" height="13" rx="2" fill="#1F2BFF" opacity="0.4"/><rect x="52" y="4" width="3" height="13" rx="2" fill="#1F2BFF" opacity="0.3"/><circle cx="53" cy="32" r="6" fill="none" stroke="#1F2BFF" stroke-width="2" opacity="0.5"/><circle cx="53" cy="53" r="6" fill="none" stroke="#1F2BFF" stroke-width="2" opacity="0.8"/></g><circle cx="32" cy="32" r="17" fill="#fff" opacity=".92"/><g transform="translate(17 17) scale(1.25)"><rect x="4" y="7" width="16" height="13" rx="1.5" fill="none" stroke="#1F2BFF" stroke-width="2"/><path d="M8 7 V4 H16 V7 M8 11.5 H16 M8 15.5 H13" fill="none" stroke="#1F2BFF" stroke-width="2" stroke-linejoin="round"/></g></svg></a>
+      <a class="item-thumb" href="/x/instagram-ai-profillarga-cheklovlar-joriy-etmoqda-6f3e14/" aria-hidden="true" tabindex="-1"><svg class="thumb card" viewBox="0 0 220 147" width="220" height="147" preserveAspectRatio="xMidYMid slice" aria-hidden="true"><rect width="220" height="147" rx="6" fill="#1F2BFF" opacity=".12"/><g opacity=".85"><circle cx="18" cy="18" r="11" fill="none" stroke="#1F2BFF" stroke-width="4" opacity="0.7"/><rect x="15" y="44" width="6" height="23" rx="3" fill="#1F2BFF" opacity="0.2"/><circle cx="18" cy="92" r="11" fill="#1F2BFF" opacity="0.8"/><circle cx="18" cy="129" r="11" fill="none" stroke="#1F2BFF" stroke-width="4" opacity="0.2"/><rect x="52" y="7" width="6" height="23" rx="3" fill="#1F2BFF" opacity="0.8"/><circle cx="55" cy="55" r="11" fill="none" stroke="#1F2BFF" stroke-width="4" opacity="0.3"/><rect x="44" y="126" width="23" height="6" rx="3" fill="#1F2BFF" opacity="0.3"/><circle cx="92" cy="55" r="11" fill="none" stroke="#1F2BFF" stroke-width="4" opacity="0.3"/><circle cx="92" cy="92" r="11" fill="#1F2BFF" opacity="0.8"/><circle cx="92" cy="129" r="11" fill="#1F2BFF" opacity="0.6"/><rect x="117" y="15" width="23" height="6" rx="3" fill="#1F2BFF" opacity="0.4"/><circle cx="128" cy="55" r="11" fill="#1F2BFF" opacity="0.3"/><circle cx="128" cy="92" r="11" fill="#1F2BFF" opacity="0.5"/><circle cx="128" cy="129" r="11" fill="none" stroke="#1F2BFF" stroke-width="4" opacity="0.5"/><circle cx="165" cy="18" r="11" fill="#1F2BFF" opacity="0.6"/><circle cx="165" cy="55" r="11" fill="#1F2BFF" opacity="0.3"/><circle cx="165" cy="92" r="11" fill="#1F2BFF" opacity="0.2"/><circle cx="165" cy="129" r="11" fill="#1F2BFF" opacity="0.6"/><circle cx="202" cy="18" r="11" fill="#1F2BFF" opacity="0.3"/><circle cx="202" cy="55" r="11" fill="#1F2BFF" opacity="0.4"/><circle cx="202" cy="129" r="11" fill="none" stroke="#1F2BFF" stroke-width="4" opacity="0.7"/></g><circle cx="110" cy="73.5" r="35" fill="#fff" opacity=".93"/><g transform="translate(92 56) scale(1.5)"><rect x="4" y="7" width="16" height="13" rx="1.5" fill="none" stroke="#1F2BFF" stroke-width="2"/><path d="M8 7 V4 H16 V7 M8 11.5 H16 M8 15.5 H13" fill="none" stroke="#1F2BFF" stroke-width="2" stroke-linejoin="round"/></g></svg></a>
     </article>
   </section>
   <section>
@@ -885,7 +890,7 @@
           <a class="chip" href="/mavzu/anthropic/">Anthropic</a><a class="chip" href="/mavzu/ipo/">IPO</a>
         </div>
       </div>
-      <a class="item-thumb" href="/x/anthropic-iposi-yangi-ai-listinglariga-yol-ochishi-mumkin-45ccaf/" aria-hidden="true" tabindex="-1"><img class="thumb photo" src="/photo/anthropic-sm.jpg" width="64" height="64" loading="lazy" decoding="async" alt=""></a>
+      <a class="item-thumb" href="/x/anthropic-iposi-yangi-ai-listinglariga-yol-ochishi-mumkin-45ccaf/" aria-hidden="true" tabindex="-1"><img class="thumb card photo" src="/photo/anthropic-sm.jpg" width="220" height="147" loading="lazy" decoding="async" alt=""></a>
     </article>
     <article class="item t3">
       <time class="when" datetime="2026-08-31T18:10:45.000Z">23:10</time>
@@ -900,7 +905,7 @@
           <a class="chip" href="/mavzu/anthropic/">Anthropic</a><a class="chip" href="/mavzu/sud/">sud</a>
         </div>
       </div>
-      <a class="item-thumb" href="/x/anthropic-xodimlarining-yozishmalari-sudda-dalil-boldi-b50a87/" aria-hidden="true" tabindex="-1"><img class="thumb photo" src="/photo/anthropic-sm.jpg" width="64" height="64" loading="lazy" decoding="async" alt=""></a>
+      <a class="item-thumb" href="/x/anthropic-xodimlarining-yozishmalari-sudda-dalil-boldi-b50a87/" aria-hidden="true" tabindex="-1"><img class="thumb card photo" src="/photo/anthropic-sm.jpg" width="220" height="147" loading="lazy" decoding="async" alt=""></a>
     </article>
     <article class="item t2">
       <time class="when" datetime="2026-08-31T18:00:00.000Z">23:00</time>
@@ -918,7 +923,7 @@
           <a class="chip" href="/mavzu/openai/">OpenAI</a><a class="chip" href="/mavzu/xavfsizlik/">xavfsizlik</a>
         </div>
       </div>
-      <a class="item-thumb" href="/x/openai-agentlari-hugging-face-platformasini-buzib-kirdi-95ea7d/" aria-hidden="true" tabindex="-1"><img class="thumb photo" src="/photo/openai-sm.jpg" width="64" height="64" loading="lazy" decoding="async" alt=""></a>
+      <a class="item-thumb" href="/x/openai-agentlari-hugging-face-platformasini-buzib-kirdi-95ea7d/" aria-hidden="true" tabindex="-1"><img class="thumb card photo" src="/photo/openai-sm.jpg" width="220" height="147" loading="lazy" decoding="async" alt=""></a>
     </article>
     <article class="item t3">
       <time class="when" datetime="2026-08-31T17:32:02.000Z">22:32</time>
@@ -933,7 +938,7 @@
           <a class="chip" href="/mavzu/donald-tramp/">Donald Tramp</a><a class="chip" href="/mavzu/malumotlar-markazi/">ma'lumotlar markazi</a>
         </div>
       </div>
-      <a class="item-thumb" href="/x/tramp-malumotlar-markazlariga-qarshilarni-tanqid-qildi-256614/" aria-hidden="true" tabindex="-1"><img class="thumb photo" src="/photo/donald-tramp-sm.jpg" width="64" height="64" loading="lazy" decoding="async" alt=""></a>
+      <a class="item-thumb" href="/x/tramp-malumotlar-markazlariga-qarshilarni-tanqid-qildi-256614/" aria-hidden="true" tabindex="-1"><img class="thumb card photo" src="/photo/donald-tramp-sm.jpg" width="220" height="147" loading="lazy" decoding="async" alt=""></a>
     </article>
     <article class="item t2">
       <time class="when" datetime="2026-08-31T17:07:04.000Z">22:07</time>
@@ -948,7 +953,7 @@
           <a class="chip" href="/mavzu/xavfsizlik/">xavfsizlik</a><a class="chip" href="/mavzu/tadqiqot/">tadqiqot</a>
         </div>
       </div>
-      <a class="item-thumb" href="/x/chatbotlar-oz-joniga-qasd-qilish-mavzusida-suhbatlashmoqda-1314d1/" aria-hidden="true" tabindex="-1"><svg class="thumb" viewBox="0 0 64 64" width="64" height="64" aria-hidden="true"><rect width="64" height="64" rx="7" fill="#C2410C" opacity=".13"/><g opacity=".8"><circle cx="11" cy="32" r="6" fill="none" stroke="#C2410C" stroke-width="2" opacity="0.6"/><circle cx="11" cy="53" r="6" fill="none" stroke="#C2410C" stroke-width="2" opacity="0.3"/><rect x="30" y="25" width="3" height="13" rx="2" fill="#C2410C" opacity="0.8"/><circle cx="32" cy="53" r="6" fill="none" stroke="#C2410C" stroke-width="2" opacity="0.5"/><circle cx="53" cy="11" r="6" fill="#C2410C" opacity="0.7"/><rect x="47" y="30" width="13" height="3" rx="2" fill="#C2410C" opacity="0.3"/><circle cx="53" cy="53" r="6" fill="none" stroke="#C2410C" stroke-width="2" opacity="0.5"/></g><circle cx="32" cy="32" r="17" fill="#fff" opacity=".92"/><g transform="translate(17 17) scale(1.25)"><path d="M12 3 L20 6 V12 C20 16.5 16.6 20 12 21.5 C7.4 20 4 16.5 4 12 V6 Z" fill="none" stroke="#C2410C" stroke-width="2" stroke-linejoin="round"/></g></svg></a>
+      <a class="item-thumb" href="/x/chatbotlar-oz-joniga-qasd-qilish-mavzusida-suhbatlashmoqda-1314d1/" aria-hidden="true" tabindex="-1"><svg class="thumb card" viewBox="0 0 220 147" width="220" height="147" preserveAspectRatio="xMidYMid slice" aria-hidden="true"><rect width="220" height="147" rx="6" fill="#C2410C" opacity=".12"/><g opacity=".85"><circle cx="18" cy="18" r="11" fill="#C2410C" opacity="0.7"/><circle cx="18" cy="55" r="11" fill="none" stroke="#C2410C" stroke-width="4" opacity="0.7"/><circle cx="55" cy="18" r="11" fill="#C2410C" opacity="0.7"/><circle cx="55" cy="55" r="11" fill="none" stroke="#C2410C" stroke-width="4" opacity="0.5"/><rect x="44" y="89" width="23" height="6" rx="3" fill="#C2410C" opacity="0.2"/><circle cx="55" cy="129" r="11" fill="none" stroke="#C2410C" stroke-width="4" opacity="0.4"/><rect x="89" y="7" width="6" height="23" rx="3" fill="#C2410C" opacity="0.6"/><circle cx="92" cy="129" r="11" fill="none" stroke="#C2410C" stroke-width="4" opacity="0.5"/><circle cx="128" cy="18" r="11" fill="#C2410C" opacity="0.5"/><circle cx="128" cy="55" r="11" fill="#C2410C" opacity="0.3"/><rect x="117" y="89" width="23" height="6" rx="3" fill="#C2410C" opacity="0.4"/><circle cx="128" cy="129" r="11" fill="none" stroke="#C2410C" stroke-width="4" opacity="0.4"/><circle cx="165" cy="18" r="11" fill="#C2410C" opacity="0.3"/><rect x="154" y="52" width="23" height="6" rx="3" fill="#C2410C" opacity="0.4"/><circle cx="165" cy="92" r="11" fill="none" stroke="#C2410C" stroke-width="4" opacity="0.7"/><circle cx="202" cy="18" r="11" fill="#C2410C" opacity="0.5"/><circle cx="202" cy="55" r="11" fill="none" stroke="#C2410C" stroke-width="4" opacity="0.5"/><circle cx="202" cy="129" r="11" fill="none" stroke="#C2410C" stroke-width="4" opacity="0.5"/></g><circle cx="110" cy="73.5" r="35" fill="#fff" opacity=".93"/><g transform="translate(92 56) scale(1.5)"><path d="M12 3 L20 6 V12 C20 16.5 16.6 20 12 21.5 C7.4 20 4 16.5 4 12 V6 Z" fill="none" stroke="#C2410C" stroke-width="2" stroke-linejoin="round"/></g></svg></a>
     </article>
     <article class="item t3">
       <time class="when" datetime="2026-08-31T17:04:35.000Z">22:04</time>
@@ -963,7 +968,7 @@
           <a class="chip" href="/mavzu/tibbiyot/">tibbiyot</a>
         </div>
       </div>
-      <a class="item-thumb" href="/x/si-gigantlari-sogliqni-saqlash-sohasiga-etibor-qaratmoqda-9e8f1c/" aria-hidden="true" tabindex="-1"><svg class="thumb" viewBox="0 0 64 64" width="64" height="64" aria-hidden="true"><rect width="64" height="64" rx="7" fill="#047857" opacity=".13"/><g opacity=".8"><circle cx="11" cy="11" r="6" fill="none" stroke="#047857" stroke-width="2" opacity="0.6"/><circle cx="11" cy="32" r="6" fill="none" stroke="#047857" stroke-width="2" opacity="0.7"/><circle cx="32" cy="11" r="6" fill="#047857" opacity="0.2"/><rect x="25" y="30" width="13" height="3" rx="2" fill="#047857" opacity="0.2"/><circle cx="32" cy="53" r="6" fill="none" stroke="#047857" stroke-width="2" opacity="0.3"/><rect x="47" y="9" width="13" height="3" rx="2" fill="#047857" opacity="0.8"/><circle cx="53" cy="53" r="6" fill="#047857" opacity="0.7"/></g><circle cx="32" cy="32" r="17" fill="#fff" opacity=".92"/><g transform="translate(17 17) scale(1.25)"><path d="M3 12 H7 L9.5 5.5 L14 18.5 L16.5 12 H21" fill="none" stroke="#047857" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></g></svg></a>
+      <a class="item-thumb" href="/x/si-gigantlari-sogliqni-saqlash-sohasiga-etibor-qaratmoqda-9e8f1c/" aria-hidden="true" tabindex="-1"><svg class="thumb card" viewBox="0 0 220 147" width="220" height="147" preserveAspectRatio="xMidYMid slice" aria-hidden="true"><rect width="220" height="147" rx="6" fill="#047857" opacity=".12"/><g opacity=".85"><circle cx="18" cy="18" r="11" fill="#047857" opacity="0.7"/><circle cx="18" cy="55" r="11" fill="#047857" opacity="0.4"/><circle cx="18" cy="92" r="11" fill="#047857" opacity="0.2"/><circle cx="55" cy="55" r="11" fill="none" stroke="#047857" stroke-width="4" opacity="0.7"/><rect x="44" y="89" width="23" height="6" rx="3" fill="#047857" opacity="0.5"/><circle cx="92" cy="18" r="11" fill="#047857" opacity="0.8"/><circle cx="92" cy="55" r="11" fill="#047857" opacity="0.8"/><circle cx="92" cy="92" r="11" fill="none" stroke="#047857" stroke-width="4" opacity="0.6"/><circle cx="92" cy="129" r="11" fill="none" stroke="#047857" stroke-width="4" opacity="0.5"/><circle cx="128" cy="18" r="11" fill="#047857" opacity="0.8"/><circle cx="128" cy="55" r="11" fill="#047857" opacity="0.5"/><rect x="117" y="89" width="23" height="6" rx="3" fill="#047857" opacity="0.4"/><circle cx="128" cy="129" r="11" fill="none" stroke="#047857" stroke-width="4" opacity="0.8"/><circle cx="165" cy="18" r="11" fill="#047857" opacity="0.7"/><rect x="162" y="44" width="6" height="23" rx="3" fill="#047857" opacity="0.5"/><rect x="162" y="81" width="6" height="23" rx="3" fill="#047857" opacity="0.4"/><circle cx="202" cy="18" r="11" fill="#047857" opacity="0.6"/><circle cx="202" cy="55" r="11" fill="#047857" opacity="0.5"/><circle cx="202" cy="92" r="11" fill="#047857" opacity="0.3"/><circle cx="202" cy="129" r="11" fill="#047857" opacity="0.5"/></g><circle cx="110" cy="73.5" r="35" fill="#fff" opacity=".93"/><g transform="translate(92 56) scale(1.5)"><path d="M3 12 H7 L9.5 5.5 L14 18.5 L16.5 12 H21" fill="none" stroke="#047857" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></g></svg></a>
     </article>
     <article class="item t3">
       <time class="when" datetime="2026-08-31T17:00:00.000Z">22:00</time>
@@ -978,7 +983,7 @@
           <a class="chip" href="/mavzu/chatbot/">chatbot</a><a class="chip" href="/mavzu/maxfiylik/">maxfiylik</a>
         </div>
       </div>
-      <a class="item-thumb" href="/x/chatbotdagi-yozishmalarni-boshqalar-oqishi-mumkin-4e0f14/" aria-hidden="true" tabindex="-1"><svg class="thumb" viewBox="0 0 64 64" width="64" height="64" aria-hidden="true"><rect width="64" height="64" rx="7" fill="#7E22CE" opacity=".13"/><g opacity=".8"><circle cx="11" cy="11" r="6" fill="#7E22CE" opacity="0.7"/><circle cx="11" cy="32" r="6" fill="none" stroke="#7E22CE" stroke-width="2" opacity="0.3"/><circle cx="32" cy="11" r="6" fill="#7E22CE" opacity="0.3"/><rect x="25" y="30" width="13" height="3" rx="2" fill="#7E22CE" opacity="0.5"/><circle cx="53" cy="11" r="6" fill="#7E22CE" opacity="0.7"/><circle cx="53" cy="53" r="6" fill="#7E22CE" opacity="0.7"/></g><circle cx="32" cy="32" r="17" fill="#fff" opacity=".92"/><g transform="translate(17 17) scale(1.25)"><rect x="5" y="10.5" width="14" height="9.5" rx="1.5" fill="none" stroke="#7E22CE" stroke-width="2"/><path d="M8.5 10.5 V7.5 a3.5 3.5 0 0 1 7 0 V10.5" fill="none" stroke="#7E22CE" stroke-width="2"/></g></svg></a>
+      <a class="item-thumb" href="/x/chatbotdagi-yozishmalarni-boshqalar-oqishi-mumkin-4e0f14/" aria-hidden="true" tabindex="-1"><svg class="thumb card" viewBox="0 0 220 147" width="220" height="147" preserveAspectRatio="xMidYMid slice" aria-hidden="true"><rect width="220" height="147" rx="6" fill="#7E22CE" opacity=".12"/><g opacity=".85"><circle cx="18" cy="18" r="11" fill="none" stroke="#7E22CE" stroke-width="4" opacity="0.2"/><rect x="15" y="44" width="6" height="23" rx="3" fill="#7E22CE" opacity="0.4"/><circle cx="18" cy="92" r="11" fill="#7E22CE" opacity="0.2"/><circle cx="18" cy="129" r="11" fill="none" stroke="#7E22CE" stroke-width="4" opacity="0.8"/><circle cx="55" cy="18" r="11" fill="#7E22CE" opacity="0.4"/><circle cx="55" cy="92" r="11" fill="none" stroke="#7E22CE" stroke-width="4" opacity="0.2"/><rect x="52" y="117" width="6" height="23" rx="3" fill="#7E22CE" opacity="0.4"/><circle cx="92" cy="18" r="11" fill="none" stroke="#7E22CE" stroke-width="4" opacity="0.6"/><circle cx="128" cy="18" r="11" fill="#7E22CE" opacity="0.4"/><circle cx="128" cy="92" r="11" fill="#7E22CE" opacity="0.4"/><circle cx="165" cy="18" r="11" fill="#7E22CE" opacity="0.3"/><circle cx="165" cy="55" r="11" fill="#7E22CE" opacity="0.7"/><circle cx="165" cy="92" r="11" fill="none" stroke="#7E22CE" stroke-width="4" opacity="0.5"/><circle cx="165" cy="129" r="11" fill="#7E22CE" opacity="0.5"/><rect x="199" y="7" width="6" height="23" rx="3" fill="#7E22CE" opacity="0.3"/><circle cx="202" cy="55" r="11" fill="none" stroke="#7E22CE" stroke-width="4" opacity="0.2"/><circle cx="202" cy="92" r="11" fill="none" stroke="#7E22CE" stroke-width="4" opacity="0.6"/><circle cx="202" cy="129" r="11" fill="none" stroke="#7E22CE" stroke-width="4" opacity="0.8"/></g><circle cx="110" cy="73.5" r="35" fill="#fff" opacity=".93"/><g transform="translate(92 56) scale(1.5)"><rect x="5" y="10.5" width="14" height="9.5" rx="1.5" fill="none" stroke="#7E22CE" stroke-width="2"/><path d="M8.5 10.5 V7.5 a3.5 3.5 0 0 1 7 0 V10.5" fill="none" stroke="#7E22CE" stroke-width="2"/></g></svg></a>
     </article>
     <article class="item t3">
       <time class="when" datetime="2026-08-31T16:49:11.000Z">21:49</time>
@@ -993,7 +998,7 @@
           <a class="chip" href="/mavzu/iqtisod/">iqtisod</a><a class="chip" href="/mavzu/g20/">G20</a>
         </div>
       </div>
-      <a class="item-thumb" href="/x/ai-global-iqtisodiy-inqirozga-sabab-bolishi-mumkin-2d41de/" aria-hidden="true" tabindex="-1"><img class="thumb photo" src="/photo/endryu-beyli-sm.jpg" width="64" height="64" loading="lazy" decoding="async" alt=""></a>
+      <a class="item-thumb" href="/x/ai-global-iqtisodiy-inqirozga-sabab-bolishi-mumkin-2d41de/" aria-hidden="true" tabindex="-1"><img class="thumb card photo" src="/photo/endryu-beyli-sm.jpg" width="220" height="147" loading="lazy" decoding="async" alt=""></a>
     </article>
     <article class="item t2">
       <time class="when" datetime="2026-08-31T16:33:46.000Z">21:33</time>
@@ -1008,7 +1013,7 @@
           <a class="chip" href="/mavzu/openai/">OpenAI</a><a class="chip" href="/mavzu/reklama/">reklama</a>
         </div>
       </div>
-      <a class="item-thumb" href="/x/openai-reklama-biznesi-1-milliard-dollarga-yetdi-0c17b3/" aria-hidden="true" tabindex="-1"><img class="thumb photo" src="/photo/anthropic-sm.jpg" width="64" height="64" loading="lazy" decoding="async" alt=""></a>
+      <a class="item-thumb" href="/x/openai-reklama-biznesi-1-milliard-dollarga-yetdi-0c17b3/" aria-hidden="true" tabindex="-1"><img class="thumb card photo" src="/photo/anthropic-sm.jpg" width="220" height="147" loading="lazy" decoding="async" alt=""></a>
     </article>
     <article class="item t3">
       <time class="when" datetime="2026-08-31T16:33:40.000Z">21:33</time>
@@ -1023,7 +1028,7 @@
           <a class="chip" href="/mavzu/nvidia/">Nvidia</a><a class="chip" href="/mavzu/anthropic/">Anthropic</a>
         </div>
       </div>
-      <a class="item-thumb" href="/x/claude-science-platformasida-nvidia-xizmatlari-ishga-tushdi-4c7f2f/" aria-hidden="true" tabindex="-1"><img class="thumb photo" src="/photo/anthropic-sm.jpg" width="64" height="64" loading="lazy" decoding="async" alt=""></a>
+      <a class="item-thumb" href="/x/claude-science-platformasida-nvidia-xizmatlari-ishga-tushdi-4c7f2f/" aria-hidden="true" tabindex="-1"><img class="thumb card photo" src="/photo/anthropic-sm.jpg" width="220" height="147" loading="lazy" decoding="async" alt=""></a>
     </article>
     <article class="item t3">
       <time class="when" datetime="2026-08-31T16:03:46.000Z">21:03</time>
@@ -1038,7 +1043,7 @@
           <a class="chip" href="/mavzu/anthropic/">Anthropic</a><a class="chip" href="/mavzu/xavfsizlik/">xavfsizlik</a>
         </div>
       </div>
-      <a class="item-thumb" href="/x/anthropic-ogirlangan-hisoblarga-qarshi-kurashmoqda-17daba/" aria-hidden="true" tabindex="-1"><img class="thumb photo" src="/photo/anthropic-sm.jpg" width="64" height="64" loading="lazy" decoding="async" alt=""></a>
+      <a class="item-thumb" href="/x/anthropic-ogirlangan-hisoblarga-qarshi-kurashmoqda-17daba/" aria-hidden="true" tabindex="-1"><img class="thumb card photo" src="/photo/anthropic-sm.jpg" width="220" height="147" loading="lazy" decoding="async" alt=""></a>
     </article>
     <article class="item t2">
       <time class="when" datetime="2026-08-31T16:00:29.000Z">21:00</time>
@@ -1053,7 +1058,7 @@
           <a class="chip" href="/mavzu/tibbiyot/">tibbiyot</a>
         </div>
       </div>
-      <a class="item-thumb" href="/x/yurak-kasalligini-tez-aniqlovchi-ai-vositasi-883978/" aria-hidden="true" tabindex="-1"><svg class="thumb" viewBox="0 0 64 64" width="64" height="64" aria-hidden="true"><rect width="64" height="64" rx="7" fill="#047857" opacity=".13"/><g opacity=".8"><circle cx="11" cy="11" r="6" fill="none" stroke="#047857" stroke-width="2" opacity="0.3"/><circle cx="11" cy="53" r="6" fill="#047857" opacity="0.5"/><circle cx="32" cy="11" r="6" fill="#047857" opacity="0.3"/><circle cx="32" cy="53" r="6" fill="none" stroke="#047857" stroke-width="2" opacity="0.3"/><circle cx="53" cy="11" r="6" fill="none" stroke="#047857" stroke-width="2" opacity="0.4"/><rect x="47" y="30" width="13" height="3" rx="2" fill="#047857" opacity="0.3"/><circle cx="53" cy="53" r="6" fill="none" stroke="#047857" stroke-width="2" opacity="0.7"/></g><circle cx="32" cy="32" r="17" fill="#fff" opacity=".92"/><g transform="translate(17 17) scale(1.25)"><path d="M3 12 H7 L9.5 5.5 L14 18.5 L16.5 12 H21" fill="none" stroke="#047857" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></g></svg></a>
+      <a class="item-thumb" href="/x/yurak-kasalligini-tez-aniqlovchi-ai-vositasi-883978/" aria-hidden="true" tabindex="-1"><svg class="thumb card" viewBox="0 0 220 147" width="220" height="147" preserveAspectRatio="xMidYMid slice" aria-hidden="true"><rect width="220" height="147" rx="6" fill="#047857" opacity=".12"/><g opacity=".85"><circle cx="18" cy="18" r="11" fill="#047857" opacity="0.5"/><circle cx="18" cy="55" r="11" fill="#047857" opacity="0.2"/><circle cx="18" cy="92" r="11" fill="none" stroke="#047857" stroke-width="4" opacity="0.6"/><rect x="44" y="15" width="23" height="6" rx="3" fill="#047857" opacity="0.2"/><circle cx="55" cy="55" r="11" fill="none" stroke="#047857" stroke-width="4" opacity="0.5"/><rect x="44" y="89" width="23" height="6" rx="3" fill="#047857" opacity="0.7"/><circle cx="55" cy="129" r="11" fill="none" stroke="#047857" stroke-width="4" opacity="0.4"/><rect x="80" y="15" width="23" height="6" rx="3" fill="#047857" opacity="0.5"/><circle cx="92" cy="55" r="11" fill="none" stroke="#047857" stroke-width="4" opacity="0.5"/><circle cx="92" cy="92" r="11" fill="#047857" opacity="0.8"/><circle cx="92" cy="129" r="11" fill="#047857" opacity="0.3"/><circle cx="128" cy="92" r="11" fill="none" stroke="#047857" stroke-width="4" opacity="0.3"/><rect x="117" y="126" width="23" height="6" rx="3" fill="#047857" opacity="0.3"/><circle cx="165" cy="18" r="11" fill="#047857" opacity="0.7"/><rect x="162" y="81" width="6" height="23" rx="3" fill="#047857" opacity="0.6"/><circle cx="202" cy="18" r="11" fill="#047857" opacity="0.2"/><circle cx="202" cy="92" r="11" fill="none" stroke="#047857" stroke-width="4" opacity="0.3"/><circle cx="202" cy="129" r="11" fill="#047857" opacity="0.7"/></g><circle cx="110" cy="73.5" r="35" fill="#fff" opacity=".93"/><g transform="translate(92 56) scale(1.5)"><path d="M3 12 H7 L9.5 5.5 L14 18.5 L16.5 12 H21" fill="none" stroke="#047857" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></g></svg></a>
     </article>
     <article class="item t2">
       <time class="when" datetime="2026-08-31T15:15:25.000Z">20:15</time>
@@ -1071,7 +1076,7 @@
           <a class="chip" href="/mavzu/nvidia/">Nvidia</a><a class="chip" href="/mavzu/chiplar/">chiplar</a>
         </div>
       </div>
-      <a class="item-thumb" href="/x/nvidia-mediatek-sarmoyasi-orqali-ornini-saqlamoqchi-fb0f06/" aria-hidden="true" tabindex="-1"><img class="thumb photo" src="/photo/mediatek-sm.jpg" width="64" height="64" loading="lazy" decoding="async" alt=""></a>
+      <a class="item-thumb" href="/x/nvidia-mediatek-sarmoyasi-orqali-ornini-saqlamoqchi-fb0f06/" aria-hidden="true" tabindex="-1"><img class="thumb card photo" src="/photo/mediatek-sm.jpg" width="220" height="147" loading="lazy" decoding="async" alt=""></a>
     </article>
     <article class="item t3">
       <time class="when" datetime="2026-08-31T15:00:29.000Z">20:00</time>
@@ -1086,7 +1091,7 @@
           <a class="chip" href="/mavzu/avstraliya/">Avstraliya</a>
         </div>
       </div>
-      <a class="item-thumb" href="/x/avstraliya-parlamentida-ai-gallyucinatsiyalari-aniqlandi-d06cf5/" aria-hidden="true" tabindex="-1"><svg class="thumb" viewBox="0 0 64 64" width="64" height="64" aria-hidden="true"><rect width="64" height="64" rx="7" fill="#1F2BFF" opacity=".13"/><g opacity=".8"><circle cx="11" cy="11" r="6" fill="none" stroke="#1F2BFF" stroke-width="2" opacity="0.4"/><circle cx="11" cy="53" r="6" fill="#1F2BFF" opacity="0.8"/><rect x="25" y="52" width="13" height="3" rx="2" fill="#1F2BFF" opacity="0.5"/><circle cx="53" cy="11" r="6" fill="none" stroke="#1F2BFF" stroke-width="2" opacity="0.3"/><circle cx="53" cy="32" r="6" fill="none" stroke="#1F2BFF" stroke-width="2" opacity="0.4"/><circle cx="53" cy="53" r="6" fill="none" stroke="#1F2BFF" stroke-width="2" opacity="0.8"/></g><circle cx="32" cy="32" r="17" fill="#fff" opacity=".92"/><g transform="translate(17 17) scale(1.25)"><circle cx="6" cy="6" r="2" fill="#1F2BFF"/><circle cx="12" cy="6" r="2" fill="#1F2BFF"/><circle cx="18" cy="6" r="2" fill="#1F2BFF"/><circle cx="6" cy="12" r="2" fill="#1F2BFF"/><circle cx="12" cy="12" r="2" fill="#1F2BFF"/><circle cx="6" cy="18" r="2" fill="#1F2BFF"/></g></svg></a>
+      <a class="item-thumb" href="/x/avstraliya-parlamentida-ai-gallyucinatsiyalari-aniqlandi-d06cf5/" aria-hidden="true" tabindex="-1"><svg class="thumb card" viewBox="0 0 220 147" width="220" height="147" preserveAspectRatio="xMidYMid slice" aria-hidden="true"><rect width="220" height="147" rx="6" fill="#1F2BFF" opacity=".12"/><g opacity=".85"><circle cx="18" cy="55" r="11" fill="#1F2BFF" opacity="0.4"/><circle cx="18" cy="92" r="11" fill="#1F2BFF" opacity="0.6"/><rect x="15" y="117" width="6" height="23" rx="3" fill="#1F2BFF" opacity="0.5"/><circle cx="55" cy="18" r="11" fill="#1F2BFF" opacity="0.4"/><circle cx="55" cy="92" r="11" fill="none" stroke="#1F2BFF" stroke-width="4" opacity="0.4"/><circle cx="55" cy="129" r="11" fill="#1F2BFF" opacity="0.7"/><rect x="80" y="15" width="23" height="6" rx="3" fill="#1F2BFF" opacity="0.4"/><circle cx="92" cy="55" r="11" fill="#1F2BFF" opacity="0.7"/><circle cx="92" cy="92" r="11" fill="none" stroke="#1F2BFF" stroke-width="4" opacity="0.5"/><circle cx="92" cy="129" r="11" fill="none" stroke="#1F2BFF" stroke-width="4" opacity="0.2"/><rect x="125" y="7" width="6" height="23" rx="3" fill="#1F2BFF" opacity="0.2"/><circle cx="128" cy="55" r="11" fill="none" stroke="#1F2BFF" stroke-width="4" opacity="0.7"/><circle cx="128" cy="92" r="11" fill="#1F2BFF" opacity="0.4"/><circle cx="128" cy="129" r="11" fill="none" stroke="#1F2BFF" stroke-width="4" opacity="0.4"/><circle cx="165" cy="18" r="11" fill="#1F2BFF" opacity="0.5"/><circle cx="165" cy="55" r="11" fill="#1F2BFF" opacity="0.3"/><circle cx="165" cy="92" r="11" fill="#1F2BFF" opacity="0.7"/><circle cx="165" cy="129" r="11" fill="none" stroke="#1F2BFF" stroke-width="4" opacity="0.6"/><rect x="199" y="44" width="6" height="23" rx="3" fill="#1F2BFF" opacity="0.3"/><rect x="190" y="126" width="23" height="6" rx="3" fill="#1F2BFF" opacity="0.5"/></g><circle cx="110" cy="73.5" r="35" fill="#fff" opacity=".93"/><g transform="translate(92 56) scale(1.5)"><circle cx="6" cy="6" r="2" fill="#1F2BFF"/><circle cx="12" cy="6" r="2" fill="#1F2BFF"/><circle cx="18" cy="6" r="2" fill="#1F2BFF"/><circle cx="6" cy="12" r="2" fill="#1F2BFF"/><circle cx="12" cy="12" r="2" fill="#1F2BFF"/><circle cx="6" cy="18" r="2" fill="#1F2BFF"/></g></svg></a>
     </article>
     <article class="item t2">
       <time class="when" datetime="2026-08-31T14:31:37.000Z">19:31</time>
@@ -1101,7 +1106,7 @@
           <a class="chip" href="/mavzu/openai/">OpenAI</a><a class="chip" href="/mavzu/qonun/">qonun</a>
         </div>
       </div>
-      <a class="item-thumb" href="/x/yevropa-ittifoqi-chatgpt-ustidan-nazoratni-kuchaytiradi-b6fa8c/" aria-hidden="true" tabindex="-1"><img class="thumb photo" src="/photo/openai-sm.jpg" width="64" height="64" loading="lazy" decoding="async" alt=""></a>
+      <a class="item-thumb" href="/x/yevropa-ittifoqi-chatgpt-ustidan-nazoratni-kuchaytiradi-b6fa8c/" aria-hidden="true" tabindex="-1"><img class="thumb card photo" src="/photo/openai-sm.jpg" width="220" height="147" loading="lazy" decoding="async" alt=""></a>
     </article>
     <article class="item t2">
       <time class="when" datetime="2026-08-31T12:42:05.000Z">17:42</time>
@@ -1116,7 +1121,7 @@
           <a class="chip" href="/mavzu/anthropic/">Anthropic</a><a class="chip" href="/mavzu/sud/">sud</a>
         </div>
       </div>
-      <a class="item-thumb" href="/x/anthropic-qoshiqlar-ogirligi-boyicha-sudga-berildi-a29afa/" aria-hidden="true" tabindex="-1"><img class="thumb photo" src="/photo/anthropic-sm.jpg" width="64" height="64" loading="lazy" decoding="async" alt=""></a>
+      <a class="item-thumb" href="/x/anthropic-qoshiqlar-ogirligi-boyicha-sudga-berildi-a29afa/" aria-hidden="true" tabindex="-1"><img class="thumb card photo" src="/photo/anthropic-sm.jpg" width="220" height="147" loading="lazy" decoding="async" alt=""></a>
     </article>
     <article class="item t3">
       <time class="when" datetime="2026-08-31T12:41:22.000Z">17:41</time>
@@ -1131,7 +1136,7 @@
           <a class="chip" href="/mavzu/apple/">Apple</a>
         </div>
       </div>
-      <a class="item-thumb" href="/x/apple-mac-qurilmalariga-bolgan-ai-talabiga-tayyor-emasdi-9a5f18/" aria-hidden="true" tabindex="-1"><img class="thumb photo" src="/photo/apple-sm.jpg" width="64" height="64" loading="lazy" decoding="async" alt=""></a>
+      <a class="item-thumb" href="/x/apple-mac-qurilmalariga-bolgan-ai-talabiga-tayyor-emasdi-9a5f18/" aria-hidden="true" tabindex="-1"><img class="thumb card photo" src="/photo/apple-sm.jpg" width="220" height="147" loading="lazy" decoding="async" alt=""></a>
     </article>
     <article class="item t3">
       <time class="when" datetime="2026-08-31T12:00:24.000Z">17:00</time>
@@ -1146,7 +1151,7 @@
           <a class="chip" href="/mavzu/siyosat/">siyosat</a>
         </div>
       </div>
-      <a class="item-thumb" href="/x/suniy-intellekt-aqsh-siyosatiga-zarar-yetkazmoqda-f89b9e/" aria-hidden="true" tabindex="-1"><svg class="thumb" viewBox="0 0 64 64" width="64" height="64" aria-hidden="true"><rect width="64" height="64" rx="7" fill="#475569" opacity=".13"/><g opacity=".8"><circle cx="11" cy="11" r="6" fill="#475569" opacity="0.3"/><circle cx="11" cy="32" r="6" fill="none" stroke="#475569" stroke-width="2" opacity="0.8"/><circle cx="11" cy="53" r="6" fill="#475569" opacity="0.4"/><rect x="30" y="25" width="3" height="13" rx="2" fill="#475569" opacity="0.5"/><circle cx="32" cy="53" r="6" fill="none" stroke="#475569" stroke-width="2" opacity="0.7"/><circle cx="53" cy="11" r="6" fill="#475569" opacity="0.7"/><circle cx="53" cy="32" r="6" fill="none" stroke="#475569" stroke-width="2" opacity="0.7"/><circle cx="53" cy="53" r="6" fill="none" stroke="#475569" stroke-width="2" opacity="0.5"/></g><circle cx="32" cy="32" r="17" fill="#fff" opacity=".92"/><g transform="translate(17 17) scale(1.25)"><path d="M3 20 H21 M5 20 V10 M9.5 20 V10 M14.5 20 V10 M19 20 V10 M12 3 L21 8 H3 Z" fill="none" stroke="#475569" stroke-width="2" stroke-linejoin="round"/></g></svg></a>
+      <a class="item-thumb" href="/x/suniy-intellekt-aqsh-siyosatiga-zarar-yetkazmoqda-f89b9e/" aria-hidden="true" tabindex="-1"><svg class="thumb card" viewBox="0 0 220 147" width="220" height="147" preserveAspectRatio="xMidYMid slice" aria-hidden="true"><rect width="220" height="147" rx="6" fill="#475569" opacity=".12"/><g opacity=".85"><circle cx="18" cy="55" r="11" fill="#475569" opacity="0.7"/><circle cx="55" cy="18" r="11" fill="none" stroke="#475569" stroke-width="4" opacity="0.5"/><rect x="52" y="81" width="6" height="23" rx="3" fill="#475569" opacity="0.6"/><rect x="52" y="117" width="6" height="23" rx="3" fill="#475569" opacity="0.6"/><circle cx="92" cy="18" r="11" fill="#475569" opacity="0.3"/><rect x="89" y="44" width="6" height="23" rx="3" fill="#475569" opacity="0.2"/><circle cx="92" cy="92" r="11" fill="none" stroke="#475569" stroke-width="4" opacity="0.5"/><circle cx="92" cy="129" r="11" fill="#475569" opacity="0.7"/><circle cx="128" cy="55" r="11" fill="#475569" opacity="0.2"/><circle cx="128" cy="92" r="11" fill="none" stroke="#475569" stroke-width="4" opacity="0.4"/><circle cx="165" cy="92" r="11" fill="#475569" opacity="0.7"/><circle cx="165" cy="129" r="11" fill="none" stroke="#475569" stroke-width="4" opacity="0.5"/><rect x="199" y="44" width="6" height="23" rx="3" fill="#475569" opacity="0.5"/><circle cx="202" cy="92" r="11" fill="none" stroke="#475569" stroke-width="4" opacity="0.8"/></g><circle cx="110" cy="73.5" r="35" fill="#fff" opacity=".93"/><g transform="translate(92 56) scale(1.5)"><path d="M3 20 H21 M5 20 V10 M9.5 20 V10 M14.5 20 V10 M19 20 V10 M12 3 L21 8 H3 Z" fill="none" stroke="#475569" stroke-width="2" stroke-linejoin="round"/></g></svg></a>
     </article>
     <article class="item t3">
       <time class="when" datetime="2026-08-31T11:17:25.000Z">16:17</time>
@@ -1164,7 +1169,7 @@
           <a class="chip" href="/mavzu/meta/">Meta</a><a class="chip" href="/mavzu/agentlar/">agentlar</a>
         </div>
       </div>
-      <a class="item-thumb" href="/x/meta-ai-agentlarni-tashqi-xotirani-tekshirishga-orgatdi-8f2ed9/" aria-hidden="true" tabindex="-1"><img class="thumb photo" src="/photo/meta-sm.jpg" width="64" height="64" loading="lazy" decoding="async" alt=""></a>
+      <a class="item-thumb" href="/x/meta-ai-agentlarni-tashqi-xotirani-tekshirishga-orgatdi-8f2ed9/" aria-hidden="true" tabindex="-1"><img class="thumb card photo" src="/photo/meta-sm.jpg" width="220" height="147" loading="lazy" decoding="async" alt=""></a>
     </article>
     <article class="item t3">
       <time class="when" datetime="2026-08-31T11:02:00.000Z">16:02</time>
@@ -1179,7 +1184,7 @@
           <a class="chip" href="/mavzu/anthropic/">Anthropic</a><a class="chip" href="/mavzu/pentagon/">Pentagon</a>
         </div>
       </div>
-      <a class="item-thumb" href="/x/anthropic-va-pentagon-ortasidagi-huquqiy-kurash-1ecc1c/" aria-hidden="true" tabindex="-1"><img class="thumb photo" src="/photo/anthropic-sm.jpg" width="64" height="64" loading="lazy" decoding="async" alt=""></a>
+      <a class="item-thumb" href="/x/anthropic-va-pentagon-ortasidagi-huquqiy-kurash-1ecc1c/" aria-hidden="true" tabindex="-1"><img class="thumb card photo" src="/photo/anthropic-sm.jpg" width="220" height="147" loading="lazy" decoding="async" alt=""></a>
     </article>
     <article class="item t3">
       <time class="when" datetime="2026-08-31T10:30:00.000Z">15:30</time>
@@ -1194,7 +1199,7 @@
           <a class="chip" href="/mavzu/mehnat-bozori/">mehnat bozori</a>
         </div>
       </div>
-      <a class="item-thumb" href="/x/sugurta-mutaxassislari-suniy-intellektni-yoqtirmaydi-a62fb3/" aria-hidden="true" tabindex="-1"><svg class="thumb" viewBox="0 0 64 64" width="64" height="64" aria-hidden="true"><rect width="64" height="64" rx="7" fill="#B45309" opacity=".13"/><g opacity=".8"><circle cx="11" cy="32" r="6" fill="#B45309" opacity="0.4"/><circle cx="11" cy="53" r="6" fill="none" stroke="#B45309" stroke-width="2" opacity="0.5"/><circle cx="32" cy="11" r="6" fill="#B45309" opacity="0.7"/><rect x="25" y="52" width="13" height="3" rx="2" fill="#B45309" opacity="0.6"/><rect x="52" y="4" width="3" height="13" rx="2" fill="#B45309" opacity="0.7"/><circle cx="53" cy="53" r="6" fill="none" stroke="#B45309" stroke-width="2" opacity="0.3"/></g><circle cx="32" cy="32" r="17" fill="#fff" opacity=".92"/><g transform="translate(17 17) scale(1.25)"><rect x="3" y="8" width="18" height="12" rx="2" fill="none" stroke="#B45309" stroke-width="2"/><path d="M9 8 V6 a1.6 1.6 0 0 1 1.6-1.6 h2.8 A1.6 1.6 0 0 1 15 6 V8 M3 13.5 H21" fill="none" stroke="#B45309" stroke-width="2" stroke-linejoin="round"/></g></svg></a>
+      <a class="item-thumb" href="/x/sugurta-mutaxassislari-suniy-intellektni-yoqtirmaydi-a62fb3/" aria-hidden="true" tabindex="-1"><svg class="thumb card" viewBox="0 0 220 147" width="220" height="147" preserveAspectRatio="xMidYMid slice" aria-hidden="true"><rect width="220" height="147" rx="6" fill="#B45309" opacity=".12"/><g opacity=".85"><circle cx="18" cy="18" r="11" fill="#B45309" opacity="0.6"/><circle cx="18" cy="55" r="11" fill="#B45309" opacity="0.4"/><circle cx="18" cy="92" r="11" fill="none" stroke="#B45309" stroke-width="4" opacity="0.7"/><rect x="44" y="52" width="23" height="6" rx="3" fill="#B45309" opacity="0.4"/><circle cx="55" cy="92" r="11" fill="none" stroke="#B45309" stroke-width="4" opacity="0.4"/><circle cx="55" cy="129" r="11" fill="none" stroke="#B45309" stroke-width="4" opacity="0.6"/><rect x="80" y="15" width="23" height="6" rx="3" fill="#B45309" opacity="0.3"/><rect x="80" y="89" width="23" height="6" rx="3" fill="#B45309" opacity="0.3"/><rect x="89" y="117" width="6" height="23" rx="3" fill="#B45309" opacity="0.2"/><circle cx="128" cy="55" r="11" fill="none" stroke="#B45309" stroke-width="4" opacity="0.7"/><circle cx="128" cy="92" r="11" fill="none" stroke="#B45309" stroke-width="4" opacity="0.6"/><rect x="117" y="126" width="23" height="6" rx="3" fill="#B45309" opacity="0.5"/><rect x="162" y="7" width="6" height="23" rx="3" fill="#B45309" opacity="0.7"/><circle cx="165" cy="55" r="11" fill="none" stroke="#B45309" stroke-width="4" opacity="0.2"/><circle cx="165" cy="92" r="11" fill="none" stroke="#B45309" stroke-width="4" opacity="0.4"/><circle cx="165" cy="129" r="11" fill="none" stroke="#B45309" stroke-width="4" opacity="0.8"/><circle cx="202" cy="18" r="11" fill="none" stroke="#B45309" stroke-width="4" opacity="0.5"/><circle cx="202" cy="55" r="11" fill="#B45309" opacity="0.2"/><circle cx="202" cy="92" r="11" fill="none" stroke="#B45309" stroke-width="4" opacity="0.6"/><circle cx="202" cy="129" r="11" fill="none" stroke="#B45309" stroke-width="4" opacity="0.4"/></g><circle cx="110" cy="73.5" r="35" fill="#fff" opacity=".93"/><g transform="translate(92 56) scale(1.5)"><rect x="3" y="8" width="18" height="12" rx="2" fill="none" stroke="#B45309" stroke-width="2"/><path d="M9 8 V6 a1.6 1.6 0 0 1 1.6-1.6 h2.8 A1.6 1.6 0 0 1 15 6 V8 M3 13.5 H21" fill="none" stroke="#B45309" stroke-width="2" stroke-linejoin="round"/></g></svg></a>
     </article>
     <article class="item t3">
       <time class="when" datetime="2026-08-31T10:00:34.000Z">15:00</time>
@@ -1209,7 +1214,7 @@
           <a class="chip" href="/mavzu/meta/">Meta</a><a class="chip" href="/mavzu/biznes/">biznes</a>
         </div>
       </div>
-      <a class="item-thumb" href="/x/pocket-ai-yaratgan-oyinlar-meta-nazoratida-72cb6d/" aria-hidden="true" tabindex="-1"><img class="thumb photo" src="/photo/meta-sm.jpg" width="64" height="64" loading="lazy" decoding="async" alt=""></a>
+      <a class="item-thumb" href="/x/pocket-ai-yaratgan-oyinlar-meta-nazoratida-72cb6d/" aria-hidden="true" tabindex="-1"><img class="thumb card photo" src="/photo/meta-sm.jpg" width="220" height="147" loading="lazy" decoding="async" alt=""></a>
     </article>
     <article class="item t3">
       <time class="when" datetime="2026-08-31T09:33:46.000Z">14:33</time>
@@ -1224,7 +1229,7 @@
           <a class="chip" href="/mavzu/anthropic/">Anthropic</a><a class="chip" href="/mavzu/xitoy/">Xitoy</a>
         </div>
       </div>
-      <a class="item-thumb" href="/x/xitoy-anthropic-kompaniyasini-tanqid-qildi-382f32/" aria-hidden="true" tabindex="-1"><img class="thumb photo" src="/photo/anthropic-sm.jpg" width="64" height="64" loading="lazy" decoding="async" alt=""></a>
+      <a class="item-thumb" href="/x/xitoy-anthropic-kompaniyasini-tanqid-qildi-382f32/" aria-hidden="true" tabindex="-1"><img class="thumb card photo" src="/photo/anthropic-sm.jpg" width="220" height="147" loading="lazy" decoding="async" alt=""></a>
     </article>
     <article class="item t3">
       <time class="when" datetime="2026-08-31T07:00:00.000Z">12:00</time>
@@ -1239,7 +1244,7 @@
           <a class="chip" href="/mavzu/openai/">OpenAI</a><a class="chip" href="/mavzu/qonun/">qonun</a>
         </div>
       </div>
-      <a class="item-thumb" href="/x/openai-kaliforniyaning-xavfsizlik-qonunini-qolladi-070398/" aria-hidden="true" tabindex="-1"><img class="thumb photo" src="/photo/openai-sm.jpg" width="64" height="64" loading="lazy" decoding="async" alt=""></a>
+      <a class="item-thumb" href="/x/openai-kaliforniyaning-xavfsizlik-qonunini-qolladi-070398/" aria-hidden="true" tabindex="-1"><img class="thumb card photo" src="/photo/openai-sm.jpg" width="220" height="147" loading="lazy" decoding="async" alt=""></a>
     </article>
     <article class="item t3">
       <time class="when" datetime="2026-08-31T07:00:00.000Z">12:00</time>
@@ -1254,7 +1259,7 @@
           <a class="chip" href="/mavzu/openai/">OpenAI</a><a class="chip" href="/mavzu/yaponiya/">Yaponiya</a>
         </div>
       </div>
-      <a class="item-thumb" href="/x/polimill-yaponiya-uchun-yangi-ai-infratuzilmasini-yaratadi-7bc341/" aria-hidden="true" tabindex="-1"><img class="thumb photo" src="/photo/openai-sm.jpg" width="64" height="64" loading="lazy" decoding="async" alt=""></a>
+      <a class="item-thumb" href="/x/polimill-yaponiya-uchun-yangi-ai-infratuzilmasini-yaratadi-7bc341/" aria-hidden="true" tabindex="-1"><img class="thumb card photo" src="/photo/openai-sm.jpg" width="220" height="147" loading="lazy" decoding="async" alt=""></a>
     </article>
   </section>
 

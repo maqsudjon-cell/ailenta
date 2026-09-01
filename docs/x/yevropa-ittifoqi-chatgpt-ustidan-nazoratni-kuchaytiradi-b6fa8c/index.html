@@ -148,7 +148,7 @@
   .daymark::after{content:"";flex:1;height:2px;background:var(--ink)}
 
   .item{
-    display:grid;grid-template-columns:4.2rem minmax(0,1fr) auto;gap:1.4rem;
+    display:grid;grid-template-columns:4.2rem minmax(0,1fr) 13.8rem;gap:1.4rem;
     padding:1.5rem 0;border-top:1px solid var(--hair);
   }
   .item:first-of-type{border-top:0}
@@ -159,6 +159,7 @@
   .item-body{min-width:0}
   .thumb{display:block;border-radius:6px;flex:none}
   img.thumb{object-fit:cover;background:var(--raise)}
+  .thumb.card{width:100%;height:auto;aspect-ratio:3/2}
   .hero-photo{margin:1.6rem 0 0}
   .hero-photo img{
     display:block;width:100%;height:auto;border-radius:4px;background:var(--raise);
@@ -179,7 +180,8 @@
   }
   tbody tr:last-child td{border-bottom:0}
   .item-thumb{align-self:start;padding-top:.15rem}
-  .twin-thumb{margin-bottom:.9rem}
+  .twin-thumb{display:block;margin-bottom:1rem}
+  .twin-thumb .thumb{width:100%;height:auto;aspect-ratio:16/9;border-radius:5px}
   .item h3{margin:0;font-weight:700;letter-spacing:-.028em;line-height:1.16;text-wrap:balance}
   .item.t1 h3{font-size:1.6rem}
   .item.t2 h3{font-size:1.45rem}
@@ -245,10 +247,13 @@
     .hero{padding:2rem 0 1.6rem}
     .hero .sum{font-size:1.08rem}
     .twin{grid-template-columns:1fr;gap:2rem;padding:2rem 0}
-    .item{grid-template-columns:2.6rem minmax(0,1fr);gap:.9rem;padding:1.3rem 0}
+    /* Tor ekranda rasm butun kenglikda va matndan keyin — kichik rasm
+       burchakda yolg'iz qolsa g'alati ko'rinadi. */
+    .item{grid-template-columns:2.6rem minmax(0,1fr);gap:.5rem .9rem;padding:1.3rem 0}
     .item .when{grid-column:1;font-size:.66rem;padding-top:.2rem}
     .item .item-body{grid-column:2}
-    .item-thumb{grid-column:1;grid-row:2;padding-top:.2rem}
+    .item-thumb{grid-column:1 / -1;grid-row:2;padding-top:.9rem}
+    .thumb.card{aspect-ratio:16/9;border-radius:5px}
     .item.t1 h3{font-size:1.55rem}
     .item.t2 h3{font-size:1.28rem}
     .item.t3 h3{font-size:1.08rem}
@@ -321,7 +326,7 @@
 <div class="topbar">
   <div class="topbar-in">
     <a class="brand" href="/">ai<em>.</em>lenta</a>
-    <span class="status"><span class="dot"></span>18:49 da yangilandi</span>
+    <span class="status"><span class="dot"></span>19:17 da yangilandi</span>
     <nav class="nav">
       <a href="/arxiv/">Arxiv</a>
       <a href="/mavzular/">Mavzular</a>
@@ -354,7 +359,7 @@
     <span class="pub">The Decoder</span>
     
       
-      <span class="when-inline">31-avgust, 19:31 · 23 soat oldin</span>
+      <span class="when-inline">31-avgust, 19:31 · kecha</span>
       <a class="chip" href="/mavzu/openai/">OpenAI</a><a class="chip" href="/mavzu/qonun/">qonun</a>
     </div>
   </article>
@@ -390,7 +395,7 @@
           <a class="chip" href="/mavzu/xavfsizlik/">xavfsizlik</a><a class="chip" href="/mavzu/openai/">OpenAI</a>
         </div>
       </div>
-      <a class="item-thumb" href="/x/garbda-yaratilgan-ai-xavfsizligi-boshqa-joylarda-ishlamayapt-26c9ee/" aria-hidden="true" tabindex="-1"><img class="thumb photo" src="/photo/openai-sm.jpg" width="64" height="64" loading="lazy" decoding="async" alt=""></a>
+      <a class="item-thumb" href="/x/garbda-yaratilgan-ai-xavfsizligi-boshqa-joylarda-ishlamayapt-26c9ee/" aria-hidden="true" tabindex="-1"><img class="thumb card photo" src="/photo/openai-sm.jpg" width="220" height="147" loading="lazy" decoding="async" alt=""></a>
     </article>
     <article class="item t3">
       <time class="when" datetime="2026-09-01T09:00:01.000Z">1-sen<br>14:00</time>
@@ -405,7 +410,7 @@
           <a class="chip" href="/mavzu/openai/">OpenAI</a><a class="chip" href="/mavzu/anthropic/">Anthropic</a>
         </div>
       </div>
-      <a class="item-thumb" href="/x/openai-va-anthropic-xatarlari-tahlil-qilindi-0c4c98/" aria-hidden="true" tabindex="-1"><img class="thumb photo" src="/photo/anthropic-sm.jpg" width="64" height="64" loading="lazy" decoding="async" alt=""></a>
+      <a class="item-thumb" href="/x/openai-va-anthropic-xatarlari-tahlil-qilindi-0c4c98/" aria-hidden="true" tabindex="-1"><img class="thumb card photo" src="/photo/anthropic-sm.jpg" width="220" height="147" loading="lazy" decoding="async" alt=""></a>
     </article>
     <article class="item t2">
       <time class="when" datetime="2026-09-01T08:15:25.000Z">1-sen<br>13:15</time>
@@ -423,7 +428,7 @@
           <a class="chip" href="/mavzu/openai/">OpenAI</a><a class="chip" href="/mavzu/apple/">Apple</a>
         </div>
       </div>
-      <a class="item-thumb" href="/x/openai-apple-kompaniyasining-ayblovlarini-rad-etdi-cc43d2/" aria-hidden="true" tabindex="-1"><img class="thumb photo" src="/photo/openai-sm.jpg" width="64" height="64" loading="lazy" decoding="async" alt=""></a>
+      <a class="item-thumb" href="/x/openai-apple-kompaniyasining-ayblovlarini-rad-etdi-cc43d2/" aria-hidden="true" tabindex="-1"><img class="thumb card photo" src="/photo/openai-sm.jpg" width="220" height="147" loading="lazy" decoding="async" alt=""></a>
     </article>
     <article class="item t3">
       <time class="when" datetime="2026-09-01T00:00:00.000Z">1-sen<br>05:00</time>
@@ -441,7 +446,7 @@
           <a class="chip" href="/mavzu/tadqiqot/">tadqiqot</a><a class="chip" href="/mavzu/qonun/">qonun</a>
         </div>
       </div>
-      <a class="item-thumb" href="/x/suniy-intellekt-xatolari-uchun-kim-javobgar-boladi-c5b960/" aria-hidden="true" tabindex="-1"><svg class="thumb" viewBox="0 0 64 64" width="64" height="64" aria-hidden="true"><rect width="64" height="64" rx="7" fill="#4338CA" opacity=".13"/><g opacity=".8"><circle cx="11" cy="11" r="6" fill="none" stroke="#4338CA" stroke-width="2" opacity="0.7"/><circle cx="11" cy="53" r="6" fill="#4338CA" opacity="0.4"/><rect x="25" y="9" width="13" height="3" rx="2" fill="#4338CA" opacity="0.7"/><rect x="25" y="30" width="13" height="3" rx="2" fill="#4338CA" opacity="0.2"/><circle cx="32" cy="53" r="6" fill="none" stroke="#4338CA" stroke-width="2" opacity="0.8"/><circle cx="53" cy="11" r="6" fill="#4338CA" opacity="0.2"/><rect x="52" y="47" width="3" height="13" rx="2" fill="#4338CA" opacity="0.4"/></g><circle cx="32" cy="32" r="17" fill="#fff" opacity=".92"/><g transform="translate(17 17) scale(1.25)"><path d="M9.5 3 V9 L4.5 18.5 A1.6 1.6 0 0 0 6 21 H18 A1.6 1.6 0 0 0 19.5 18.5 L14.5 9 V3 M8 3 H16 M7.4 14 H16.6" fill="none" stroke="#4338CA" stroke-width="2" stroke-linejoin="round"/></g></svg></a>
+      <a class="item-thumb" href="/x/suniy-intellekt-xatolari-uchun-kim-javobgar-boladi-c5b960/" aria-hidden="true" tabindex="-1"><svg class="thumb card" viewBox="0 0 220 147" width="220" height="147" preserveAspectRatio="xMidYMid slice" aria-hidden="true"><rect width="220" height="147" rx="6" fill="#4338CA" opacity=".12"/><g opacity=".85"><rect x="7" y="52" width="23" height="6" rx="3" fill="#4338CA" opacity="0.5"/><circle cx="18" cy="92" r="11" fill="#4338CA" opacity="0.6"/><rect x="15" y="117" width="6" height="23" rx="3" fill="#4338CA" opacity="0.5"/><rect x="44" y="15" width="23" height="6" rx="3" fill="#4338CA" opacity="0.5"/><circle cx="55" cy="92" r="11" fill="#4338CA" opacity="0.6"/><circle cx="55" cy="129" r="11" fill="#4338CA" opacity="0.4"/><circle cx="92" cy="18" r="11" fill="none" stroke="#4338CA" stroke-width="4" opacity="0.2"/><circle cx="92" cy="55" r="11" fill="#4338CA" opacity="0.5"/><rect x="80" y="89" width="23" height="6" rx="3" fill="#4338CA" opacity="0.3"/><rect x="125" y="7" width="6" height="23" rx="3" fill="#4338CA" opacity="0.7"/><circle cx="128" cy="92" r="11" fill="none" stroke="#4338CA" stroke-width="4" opacity="0.4"/><rect x="125" y="117" width="6" height="23" rx="3" fill="#4338CA" opacity="0.3"/><circle cx="165" cy="18" r="11" fill="none" stroke="#4338CA" stroke-width="4" opacity="0.7"/><circle cx="165" cy="92" r="11" fill="#4338CA" opacity="0.4"/><rect x="190" y="52" width="23" height="6" rx="3" fill="#4338CA" opacity="0.2"/><circle cx="202" cy="92" r="11" fill="#4338CA" opacity="0.8"/><circle cx="202" cy="129" r="11" fill="#4338CA" opacity="0.5"/></g><circle cx="110" cy="73.5" r="35" fill="#fff" opacity=".93"/><g transform="translate(92 56) scale(1.5)"><path d="M9.5 3 V9 L4.5 18.5 A1.6 1.6 0 0 0 6 21 H18 A1.6 1.6 0 0 0 19.5 18.5 L14.5 9 V3 M8 3 H16 M7.4 14 H16.6" fill="none" stroke="#4338CA" stroke-width="2" stroke-linejoin="round"/></g></svg></a>
     </article>
   </section>
 

@@ -8,7 +8,7 @@
 
 import { SITE, head, topbar, foot, publisher } from "./shell.mjs";
 import { coverBar, sourceMark, feedItem } from "./parts.mjs";
-import { thumbSvg } from "../src/cover.mjs";
+import { cardSvg } from "../src/cover.mjs";
 
 export function render(posts, u) {
   const { tashkent, ago, esc } = u;
@@ -42,7 +42,11 @@ export function render(posts, u) {
 
   const secondCard = (p) => `
     <article class="twin-item">
-      <a class="twin-thumb" href="/x/${esc(p.slug)}/" aria-hidden="true" tabindex="-1">${thumbSvg(p, 56)}</a>
+      <a class="twin-thumb" href="/x/${esc(p.slug)}/" aria-hidden="true" tabindex="-1">${
+        p.photo
+          ? `<img class="thumb card photo" src="${esc(p.photo.src)}" width="480" height="270" loading="lazy" decoding="async" alt="">`
+          : cardSvg(p, 480, 270)
+      }</a>
       <h2><a href="/x/${esc(p.slug)}/">${esc(p.title)}</a></h2>
       <p>${esc(p.summary)}</p>
       <div class="meta">

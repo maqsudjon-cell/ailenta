@@ -147,7 +147,7 @@
   .daymark::after{content:"";flex:1;height:2px;background:var(--ink)}
 
   .item{
-    display:grid;grid-template-columns:4.2rem minmax(0,1fr) auto;gap:1.4rem;
+    display:grid;grid-template-columns:4.2rem minmax(0,1fr) 13.8rem;gap:1.4rem;
     padding:1.5rem 0;border-top:1px solid var(--hair);
   }
   .item:first-of-type{border-top:0}
@@ -158,6 +158,7 @@
   .item-body{min-width:0}
   .thumb{display:block;border-radius:6px;flex:none}
   img.thumb{object-fit:cover;background:var(--raise)}
+  .thumb.card{width:100%;height:auto;aspect-ratio:3/2}
   .hero-photo{margin:1.6rem 0 0}
   .hero-photo img{
     display:block;width:100%;height:auto;border-radius:4px;background:var(--raise);
@@ -178,7 +179,8 @@
   }
   tbody tr:last-child td{border-bottom:0}
   .item-thumb{align-self:start;padding-top:.15rem}
-  .twin-thumb{margin-bottom:.9rem}
+  .twin-thumb{display:block;margin-bottom:1rem}
+  .twin-thumb .thumb{width:100%;height:auto;aspect-ratio:16/9;border-radius:5px}
   .item h3{margin:0;font-weight:700;letter-spacing:-.028em;line-height:1.16;text-wrap:balance}
   .item.t1 h3{font-size:1.6rem}
   .item.t2 h3{font-size:1.45rem}
@@ -244,10 +246,13 @@
     .hero{padding:2rem 0 1.6rem}
     .hero .sum{font-size:1.08rem}
     .twin{grid-template-columns:1fr;gap:2rem;padding:2rem 0}
-    .item{grid-template-columns:2.6rem minmax(0,1fr);gap:.9rem;padding:1.3rem 0}
+    /* Tor ekranda rasm butun kenglikda va matndan keyin — kichik rasm
+       burchakda yolg'iz qolsa g'alati ko'rinadi. */
+    .item{grid-template-columns:2.6rem minmax(0,1fr);gap:.5rem .9rem;padding:1.3rem 0}
     .item .when{grid-column:1;font-size:.66rem;padding-top:.2rem}
     .item .item-body{grid-column:2}
-    .item-thumb{grid-column:1;grid-row:2;padding-top:.2rem}
+    .item-thumb{grid-column:1 / -1;grid-row:2;padding-top:.9rem}
+    .thumb.card{aspect-ratio:16/9;border-radius:5px}
     .item.t1 h3{font-size:1.55rem}
     .item.t2 h3{font-size:1.28rem}
     .item.t3 h3{font-size:1.08rem}
@@ -320,7 +325,7 @@
 <div class="topbar">
   <div class="topbar-in">
     <a class="brand" href="/">ai<em>.</em>lenta</a>
-    <span class="status"><span class="dot"></span>18:49 da yangilandi</span>
+    <span class="status"><span class="dot"></span>19:17 da yangilandi</span>
     <nav class="nav">
       <a href="/arxiv/">Arxiv</a>
       <a href="/mavzular/">Mavzular</a>
@@ -391,7 +396,7 @@
           <a class="chip" href="/mavzu/anthropic/">Anthropic</a><a class="chip" href="/mavzu/pentagon/">Pentagon</a>
         </div>
       </div>
-      <a class="item-thumb" href="/x/anthropic-va-pentagon-ortasidagi-huquqiy-kurash-1ecc1c/" aria-hidden="true" tabindex="-1"><img class="thumb photo" src="/photo/anthropic-sm.jpg" width="64" height="64" loading="lazy" decoding="async" alt=""></a>
+      <a class="item-thumb" href="/x/anthropic-va-pentagon-ortasidagi-huquqiy-kurash-1ecc1c/" aria-hidden="true" tabindex="-1"><img class="thumb card photo" src="/photo/anthropic-sm.jpg" width="220" height="147" loading="lazy" decoding="async" alt=""></a>
     </article>
   </section>
 

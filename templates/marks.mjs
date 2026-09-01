@@ -5,15 +5,17 @@
 
 // ---------- brend belgisi ----------
 
-// Lenta — qatorlar oqimi. Eng yuqorigi eng yangisi, shuning uchun u urg'uli.
-// Qatorlar uzunligi turlicha: teng bo'lsa menyu belgisiga o'xshab qoladi.
-export function brandMark({ size = 64, ground = "#0A0A0B", accent = "#1F2BFF", ink = "#FFFFFF" } = {}) {
-  const r = size * 0.22;
+// Lenta — qatorlar oqimi. Yuqori qatordan ajralgan ko'k nuqta ikki ish qiladi:
+// diqqatni bir joyga to'playdi va so'z belgisidagi "ai.lenta" nuqtasini
+// takrorlaydi. Qatorlar uzunligi turlicha — teng bo'lsa menyu belgisiga
+// o'xshab qoladi. 16 pikselda ham o'qilishi tekshirilgan.
+export function brandMark({ size = 64, ground = "#0B0D12", accent = "#1F2BFF", ink = "#FFFFFF" } = {}) {
   return `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="${size}" height="${size}">
-  <rect width="64" height="64" rx="${(r / size) * 64}" fill="${ground}"/>
-  <rect x="12" y="17" width="40" height="7" rx="3.5" fill="${accent}"/>
-  <rect x="12" y="28.5" width="30" height="7" rx="3.5" fill="${ink}" opacity="0.85"/>
-  <rect x="12" y="40" width="19" height="7" rx="3.5" fill="${ink}" opacity="0.5"/>
+  <rect width="64" height="64" rx="15" fill="${ground}"/>
+  <rect x="13" y="17.5" width="26" height="7" rx="3.5" fill="${ink}" opacity="0.94"/>
+  <circle cx="47" cy="21" r="5" fill="${accent}"/>
+  <rect x="13" y="29.5" width="38" height="7" rx="3.5" fill="${ink}" opacity="0.6"/>
+  <rect x="13" y="41.5" width="20" height="7" rx="3.5" fill="${ink}" opacity="0.36"/>
 </svg>`;
 }
 
