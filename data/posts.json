@@ -1,5 +1,96 @@
 [
   {
+    "id": "2a55c995f991",
+    "slug": "nvidia-rahbari-ai-yangi-ish-orinlari-yaratishini-aytdi-2a55c9",
+    "title": "Nvidia rahbari AI yangi ish o'rinlari yaratishini aytdi",
+    "summary": "Nvidia bosh direktori Jensen Huang sun'iy intellekt yuz minglab yangi ish o'rinlarini yaratishini ma'lum qildi. Uning fikricha, AI ish o'rinlarini qisqartirishdan ko'ra ko'paytiradi. Bundan ayniqsa qo'l mehnati bilan shug'ullanuvchi mutaxassislar foyda ko'radi.",
+    "tags": [
+      "Nvidia",
+      "mehnat bozori"
+    ],
+    "importance": 3,
+    "score": 22,
+    "published": "2026-09-01T11:55:02.000Z",
+    "created": "2026-09-01T12:53:43.080Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/09/01/nvidia-ceo-jensen-huang-ai-will-create-hundreds-of-thousands-of-jobs-skilled-trade-workers-data-centers",
+      "title": "Nvidia CEO Jensen Huang says AI will create ‘hundreds of thousands’ of new jobs—including for people who want to ‘make things with their hands’",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "08e4ec22b3be",
+    "slug": "baa-kompaniyasi-videoni-siqish-texnologiyasini-taklif-qildi-08e4ec",
+    "title": "BAA kompaniyasi videoni siqish texnologiyasini taklif qildi",
+    "summary": "Abu-Dabida joylashgan Neurovia AI kompaniyasi Saudiya Arabistoni xavfsizlik xizmati uchun o'z dasturini taklif qildi. Ushbu dastur video fayllar hajmini asl sifatini saqlab qolgan holda 95% gacha qisqartira oladi.",
+    "tags": [
+      "xavfsizlik"
+    ],
+    "importance": 2,
+    "score": 19,
+    "published": "2026-09-01T11:37:21.000Z",
+    "created": "2026-09-01T12:53:43.081Z",
+    "coverage": 1,
+    "source": {
+      "name": "Semafor",
+      "url": "https://semafor.com/article/09/01/2026/uae-ai-firm-pitches-video-compression-for-saudi-security",
+      "title": "UAE AI firm pitches video compression for Saudi security",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "a14615529df4",
+    "slug": "doltlite-git-uslubidagi-versiya-boshqaruvi-a14615",
+    "title": "DoltLite: Git uslubidagi versiya boshqaruvi",
+    "summary": "DoltLite – bu SQLite'ning Git uslubidagi versiya boshqaruviga ega bo'lgan forkidir. U 2000 ta agent pull requestlari yordamida yaratilgan.",
+    "tags": [
+      "agentlar",
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 17.3,
+    "published": "2026-09-01T01:25:40.000Z",
+    "created": "2026-09-01T12:54:07.723Z",
+    "coverage": 1,
+    "source": {
+      "name": "Hacker News",
+      "url": "https://dolthub.com/blog/2026-08-31-doltlite-beta",
+      "title": "DoltLite: A SQLite fork with Git-style version control, built with 2k agent PRs",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "72cb6d29f86f",
+    "slug": "pocket-ai-yaratgan-oyinlar-meta-nazoratida-72cb6d",
+    "title": "Pocket AI yaratgan o'yinlar Meta nazoratida",
+    "summary": "Pocket AI yordamida o'yin g'oyalari amalga oshirilgan. Endilikda bu natijalar Meta kompaniyasi tomonidan nazorat qilinadi.",
+    "tags": [
+      "Meta",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 17,
+    "published": "2026-08-31T10:00:34.000Z",
+    "created": "2026-09-01T12:54:07.723Z",
+    "coverage": 1,
+    "source": {
+      "name": "Ars Technica",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQXQ3eXlwZVl6R0xtZG1QeHRMZURDbzZnamQ4TWxXd19JZjRQLXRnUmVDZDI4ODVOOFYtWEhtWXZDWk8ycHF0MFdUSXlDMU5pMms3STdpcXRVLW9ia3IyY0U1MkJoT1hNMFhwN3hka1Atc29GTFRlS2JaYzR5LWQ1d2M3ZzBiUkYybF9OeGVxSVZTUHpVRFhiRkFlRG40ME1jc2RnUTYzaw",
+      "title": "Pocket’s AI made my game ideas real. Now Meta controls the results.",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "a1144997ca43",
     "slug": "dyson-ai-kamerali-tish-chotkasini-taqdim-etdi-a11449",
     "title": "Dyson AI kamerali tish cho'tkasini taqdim etdi",
