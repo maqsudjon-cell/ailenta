@@ -4,7 +4,7 @@
 //                                 mavzular, kunlar, arxiv, sitemap, RSS)
 //   node src/build.mjs lenta    → site/lenta/ (faqat dizaynni ko'rish uchun)
 
-import { readFile, writeFile, mkdir, rm } from "node:fs/promises";
+import { readFile, writeFile, mkdir, rm, stat } from "node:fs/promises";
 import { join, dirname } from "node:path";
 import { fileURLToPath } from "node:url";
 import { SITE } from "../templates/shell.mjs";
@@ -100,6 +100,44 @@ ${posts.slice(0, 50).map((p) => `  <item>
     <description>${esc(p.summary)}</description>
     ${(p.tags || []).map((t) => `<category>${esc(t)}</category>`).join("")}
   </item>`).join("\n")}
+</channel>
+</rss>
+`;
+}
+
+// Instagram uchun alohida lenta.
+//
+// Vositachi xizmat (Make, Zapier va h.k.) shu lentani kuzatadi va yangi
+// yozuvni Instagram'ga o'zi joylaydi. Shuning uchun bu yerda oddiy RSS'dan
+// ikki farq bor: tavsif — postning to'liq matni (xulosa emas), va har
+// yozuvda 1080x1350 rasmga havola turadi. Vositachiga faqat ikki maydonni
+// ulash qoladi.
+//
+// Faqat muhimligi 4 va undan yuqori xabarlar kiradi — Instagram tasmasi
+// har uch soatda to'lib ketmasligi kerak.
+function instagramFeed(items) {
+  const now = new Date().toUTCString();
+  return `<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+  <title>${esc(SITE.name)} — Instagram</title>
+  <link>${SITE.url}</link>
+  <description>Instagram uchun tayyor postlar: 1080x1350 rasm va to'liq matn.</description>
+  <language>uz</language>
+  <lastBuildDate>${now}</lastBuildDate>
+  <atom:link href="${SITE.url}/instagram.xml" rel="self" type="application/rss+xml"/>
+${items.map((it) => {
+  const img = `${SITE.url}/ig/${it.slug}.jpg`;
+  return `  <item>
+    <title>${esc(it.title)}</title>
+    <link>${SITE.url}/x/${esc(it.slug)}/</link>
+    <guid isPermaLink="true">${SITE.url}/x/${esc(it.slug)}/</guid>
+    <pubDate>${new Date(it.published).toUTCString()}</pubDate>
+    <description>${esc(it.caption)}</description>
+    <enclosure url="${img}" length="${it.bytes}" type="image/jpeg"/>
+    <media:content url="${img}" medium="image" type="image/jpeg" width="1080" height="1350"/>
+  </item>`;
+}).join("\n")}
 </channel>
 </rss>
 `;
@@ -237,18 +275,25 @@ async function buildSite() {
 
   // Instagram uchun qo'l sahifasi. Sitemap'ga QO'SHILMAYDI va hech qayerdan
   // havola qilinmaydi — bu tashqi o'quvchi uchun emas, joylash uchun quroldir.
-  const igItems = posts
-    .filter((p) => p.importance >= 4)
-    .slice(0, 40)
-    .map((p) => ({
+  const igItems = [];
+  for (const p of posts.filter((p) => p.importance >= 4).slice(0, 40)) {
+    // Rasmi yo'q yozuv lentaga tushmasligi kerak — vositachi uni ocholmaydi.
+    let bytes = 0;
+    try { bytes = (await stat(join(ROOT, `docs/ig/${p.slug}.jpg`))).size; } catch { continue; }
+    igItems.push({
       slug: p.slug,
       title: p.title,
       published: p.published,
       importance: p.importance,
       caption: caption(p),
-    }));
+      bytes,
+    });
+  }
   await write("docs/ig-post/index.html", instagramPage(igItems, U));
   pages++;
+
+  // Vositachi xizmat uchun lenta. Sitemap'ga kirmaydi — bu mashina uchun.
+  await write("docs/instagram.xml", instagramFeed(igItems.slice(0, 20)));
 
   // Topilmadi sahifasi — GitHub Pages uni noto'g'ri manzilda ko'rsatadi.
   await write("docs/404.html", notFoundPage(posts, U));
@@ -263,7 +308,7 @@ async function buildSite() {
   console.log(`  ✓ sitemap.xml (${urls.length} manzil) · rss.xml (${Math.min(posts.length, 50)} xabar) · robots.txt`);
   console.log(`  ✓ ${imgCount} ta muqova rasmi · favicon · kanal logotipi`);
   console.log(`  ✓ ${withPhoto}/${posts.length} ta xabarda haqiqiy surat`);
-  console.log(`  ✓ /ig-post/ — ${igItems.length} ta Instagram kartochkasi tayyor`);
+  console.log(`  ✓ /ig-post/ va instagram.xml — ${igItems.length} ta Instagram kartochkasi`);
 }
 
 const only = process.argv[2];
