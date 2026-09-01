@@ -4,13 +4,18 @@ name: Lenta
 # Qo'lda ham ishga tushirish mumkin (Actions > Lenta > Run workflow).
 on:
   schedule:
-    # GitHub jadvalni 20-50 daqiqa kechiktiradi va ba'zi vaqtlarni umuman
-    # o'tkazib yuboradi (bu shu akkauntdagi boshqa repoda ham kuzatildi:
-    # cron '15 */3' bo'lsa ham yugurishlar 00:36, 08:36, 14:07 da bo'lgan).
-    # Shuning uchun har uch soatlik oynaga ikkita vaqt qo'yamiz — biri
-    # o'tkazib yuborilsa, ikkinchisi ushlaydi. Takror yugurish arzon:
-    # yangi xabar bo'lmasa quvur LLM'ga umuman murojaat qilmaydi.
-    - cron: "21 */3 * * *"
+    # GitHub jadvalni kafolatlamaydi: 20-50 daqiqa kechiktiradi va vaqtlarning
+    # ko'pini umuman tashlab yuboradi. Shu akkauntdagi boshqa repoda cron
+    # '15 */3' bo'lsa ham yugurishlar 00:36, 08:36, 14:07 da bo'lgan —
+    # kuniga 8 tadan atigi 3 tasi ishlagan.
+    #
+    # Buni tuzatib bo'lmaydi, shuning uchun urinishlar sonini oshiramiz:
+    # har soat + har uch soatda qo'shimcha. Uchdan biri ishlasa ham kunlik
+    # maqsadga (8 marta) yetamiz.
+    #
+    # Ortiqcha yugurish arzon: yangi xabar ikkitadan kam bo'lsa quvur LLM'ga
+    # umuman murojaat qilmaydi, ya'ni bepul limit sarflanmaydi.
+    - cron: "26 * * * *"
     - cron: "51 */3 * * *"
   workflow_dispatch:
 
