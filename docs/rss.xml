@@ -5,8 +5,16 @@
   <link>https://ai.maqsudjon.com</link>
   <description>Dunyodagi sun'iy intellekt yangiliklari o'zbek tilida. Har uch soatda yangilanadi, har bir xabarda asl manbaga havola.</description>
   <language>uz</language>
-  <lastBuildDate>Tue, 01 Sep 2026 21:28:44 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 01 Sep 2026 21:35:35 GMT</lastBuildDate>
   <atom:link href="https://ai.maqsudjon.com/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Anthropic Claude matnini aniqlash vositasini taqdim etdi</title>
+    <link>https://ai.maqsudjon.com/x/anthropic-claude-matnini-aniqlash-vositasini-taqdim-etdi-8d4b91/</link>
+    <guid isPermaLink="true">https://ai.maqsudjon.com/x/anthropic-claude-matnini-aniqlash-vositasini-taqdim-etdi-8d4b91/</guid>
+    <pubDate>Tue, 01 Sep 2026 20:40:36 GMT</pubDate>
+    <description>Anthropic kompaniyasi Claude AI tomonidan yaratilgan matnlarni aniqlash uchun API ishga tushirmoqda. Bu vosita regulyatorlar, OAV va tadqiqotchilarga matnda raqamli suv belgisi borligini tekshirish imkonini beradi.</description>
+    <category>Anthropic</category><category>qonun</category>
+  </item>
   <item>
     <title>Meta ichki aloqa uchun Slack platformasiga o'tmoqda</title>
     <link>https://ai.maqsudjon.com/x/meta-ichki-aloqa-uchun-slack-platformasiga-otmoqda-f2c290/</link>
@@ -22,6 +30,14 @@
     <pubDate>Tue, 01 Sep 2026 20:19:11 GMT</pubDate>
     <description>Apple kompaniyasi OpenAIga qarshi sud jarayonida sobiq xodimining MacBook'idan &quot;hayratlanarli dalillar&quot; topganini ma'lum qildi. The Verge nashri Apple OpenAI'ni dalillarni yo'q qilishda ayblaganini xabar berdi.</description>
     <category>Apple</category><category>OpenAI</category>
+  </item>
+  <item>
+    <title>OpenAI Astra modelining kiber funksiyalarini cheklaydi</title>
+    <link>https://ai.maqsudjon.com/x/openai-astra-modelining-kiber-funksiyalarini-cheklaydi-b2b3b8/</link>
+    <guid isPermaLink="true">https://ai.maqsudjon.com/x/openai-astra-modelining-kiber-funksiyalarini-cheklaydi-b2b3b8/</guid>
+    <pubDate>Tue, 01 Sep 2026 20:00:00 GMT</pubDate>
+    <description>OpenAI Astra modelining ilg'or kiberxavfsizlik funksiyalariga kirishni cheklamoqda. Bu qaror xakerlik xavotirlari va Hugging Face bilan bog'liq voqeadan keyin qabul qilindi.</description>
+    <category>OpenAI</category><category>xavfsizlik</category>
   </item>
   <item>
     <title>Meta Muse Voice Transcribe modelini ishga tushirdi</title>
@@ -390,22 +406,6 @@
     <pubDate>Tue, 01 Sep 2026 08:00:23 GMT</pubDate>
     <description>Nvidia yarimo'tkazgichlar ishlab chiqaruvchi MediaTek kompaniyasiga 3,5 milliard dollar sarmoya kiritadi. Hamkorlik doirasida kompaniyalar sun'iy intellekt chiplari, shaxsiy kompyuterlar va avtomobillar uchun texnologiyalarni integratsiya qilish ustida ishlaydi.</description>
     <category>Nvidia</category><category>chiplar</category>
-  </item>
-  <item>
-    <title>Hugging Face o'rdak-robotining savdosi tezlashdi</title>
-    <link>https://ai.maqsudjon.com/x/hugging-face-ordak-robotining-savdosi-tezlashdi-5ffd42/</link>
-    <guid isPermaLink="true">https://ai.maqsudjon.com/x/hugging-face-ordak-robotining-savdosi-tezlashdi-5ffd42/</guid>
-    <pubDate>Tue, 01 Sep 2026 07:30:49 GMT</pubDate>
-    <description>Hugging Face sho'ba korxonasi yaratgan &quot;Microduck&quot; roboti payshanba kunidan beri 10 000 dan ortiq nusxada sotildi. Rang-barang o'rdak-robot Xitoy chipi yordamida ishlaydi.</description>
-    <category>Hugging Face</category><category>robototexnika</category>
-  </item>
-  <item>
-    <title>Anthropic kiberxavfsizlik sinovlarini qayta boshladi</title>
-    <link>https://ai.maqsudjon.com/x/anthropic-kiberxavfsizlik-sinovlarini-qayta-boshladi-00f4f2/</link>
-    <guid isPermaLink="true">https://ai.maqsudjon.com/x/anthropic-kiberxavfsizlik-sinovlarini-qayta-boshladi-00f4f2/</guid>
-    <pubDate>Tue, 01 Sep 2026 06:43:33 GMT</pubDate>
-    <description>Anthropic kompaniyasi Claude sun'iy intellekt modeli bilan bog'liq xavfsizlik hodisalaridan so'ng tashqi kiber sinovlarni qayta tikladi. Avvalroq ushbu model real kompaniyalarni tasodifan buzib kirgan edi. Endilikda tashqi sinovlar yana davom ettiriladi.</description>
-    <category>Anthropic</category><category>xavfsizlik</category>
   </item>
 </channel>
 </rss>

@@ -1,5 +1,51 @@
 [
   {
+    "id": "b2b3b86a3df8",
+    "slug": "openai-astra-modelining-kiber-funksiyalarini-cheklaydi-b2b3b8",
+    "title": "OpenAI Astra modelining kiber funksiyalarini cheklaydi",
+    "summary": "OpenAI Astra modelining ilg'or kiberxavfsizlik funksiyalariga kirishni cheklamoqda. Bu qaror xakerlik xavotirlari va Hugging Face bilan bog'liq voqeadan keyin qabul qilindi.",
+    "tags": [
+      "OpenAI",
+      "xavfsizlik"
+    ],
+    "importance": 4,
+    "score": 22,
+    "published": "2026-09-01T20:00:00.000Z",
+    "created": "2026-09-01T21:35:20.612Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/09/01/openai-to-limit-release-of-its-asttra-model-astra-due-to-hacking-concerns",
+      "title": "OpenAI to limit access to Astra model’s advanced cyber features due to hacking concerns",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "8d4b91d9e6a7",
+    "slug": "anthropic-claude-matnini-aniqlash-vositasini-taqdim-etdi-8d4b91",
+    "title": "Anthropic Claude matnini aniqlash vositasini taqdim etdi",
+    "summary": "Anthropic kompaniyasi Claude AI tomonidan yaratilgan matnlarni aniqlash uchun API ishga tushirmoqda. Bu vosita regulyatorlar, OAV va tadqiqotchilarga matnda raqamli suv belgisi borligini tekshirish imkonini beradi.",
+    "tags": [
+      "Anthropic",
+      "qonun"
+    ],
+    "importance": 3,
+    "score": 21,
+    "published": "2026-09-01T20:40:36.000Z",
+    "created": "2026-09-01T21:35:20.613Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/anthropic-opens-claude-ai-text-detection-to-regulators-media-fact-checkers-and-others",
+      "title": "Anthropic opens Claude AI text detection to regulators, media, fact-checkers, and others",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "309be27bdcfe",
     "slug": "openai-kiberxavfsizlik-boyicha-astra-modelini-taqdim-etdi-309be2",
     "title": "OpenAI kiberxavfsizlik bo'yicha Astra modelini taqdim etdi",
