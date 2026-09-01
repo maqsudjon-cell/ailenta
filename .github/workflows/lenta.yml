@@ -1,0 +1,53 @@
+name: Lenta
+
+# Har 3 soatda: yangiliklarni yig'ib, o'zbekchada yozib, saytga chiqaradi.
+# Qo'lda ham ishga tushirish mumkin (Actions > Lenta > Run workflow).
+on:
+  schedule:
+    - cron: "0 */3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: lenta
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Manbalarni yig'ish
+        run: node src/collect.mjs
+
+      - name: Saralash va klasterlash
+        run: node src/filter.mjs
+
+      - name: O'zbekchada yozish
+        env:
+          AI_PROVIDER: ${{ vars.AI_PROVIDER || 'gemini' }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: node src/write.mjs
+
+      - name: Sahifalarni qurish
+        run: node src/build.mjs
+
+      - name: Nashr qilish
+        run: |
+          git config user.name "ai-lenta-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add data docs
+          if git diff --staged --quiet; then
+            echo "Yangi xabar yo'q — commit qilinmadi."
+          else
+            git commit -m "lenta: $(date -u '+%Y-%m-%d %H:%M') UTC"
+            git push
+          fi

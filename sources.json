@@ -1,0 +1,284 @@
+{
+  "feeds": [
+    {
+      "id": "techcrunch",
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "weight": 3,
+      "lang": "en"
+    },
+    {
+      "id": "verge",
+      "name": "The Verge",
+      "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "weight": 3,
+      "lang": "en"
+    },
+    {
+      "id": "venturebeat",
+      "name": "VentureBeat",
+      "url": "https://venturebeat.com/category/ai/feed/",
+      "weight": 2,
+      "lang": "en"
+    },
+    {
+      "id": "arstechnica",
+      "name": "Ars Technica",
+      "url": "https://feeds.arstechnica.com/arstechnica/technology-lab",
+      "weight": 2,
+      "lang": "en"
+    },
+    {
+      "id": "openai",
+      "name": "OpenAI",
+      "url": "https://openai.com/news/rss.xml",
+      "weight": 5,
+      "lang": "en",
+      "primary": true
+    },
+    {
+      "id": "googleai",
+      "name": "Google",
+      "url": "https://blog.google/technology/ai/rss/",
+      "weight": 5,
+      "lang": "en",
+      "primary": true
+    },
+    {
+      "id": "huggingface",
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/blog/feed.xml",
+      "weight": 3,
+      "lang": "en",
+      "primary": true
+    },
+    {
+      "id": "deepmind",
+      "name": "Google DeepMind",
+      "url": "https://deepmind.google/blog/rss.xml",
+      "weight": 4,
+      "lang": "en",
+      "primary": true
+    },
+    {
+      "id": "arxiv",
+      "name": "arXiv cs.AI",
+      "url": "https://export.arxiv.org/rss/cs.AI",
+      "weight": 1,
+      "lang": "en",
+      "cap": 3
+    },
+    {
+      "id": "guardian",
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
+      "weight": 5,
+      "lang": "en"
+    },
+    {
+      "id": "bbc",
+      "name": "BBC News",
+      "url": "https://feeds.bbci.co.uk/news/technology/rss.xml",
+      "weight": 5,
+      "lang": "en"
+    },
+    {
+      "id": "register",
+      "name": "The Register",
+      "url": "https://www.theregister.com/headlines.atom",
+      "weight": 4,
+      "lang": "en"
+    },
+    {
+      "id": "wired",
+      "name": "Wired",
+      "url": "https://www.wired.com/feed/tag/ai/latest/rss",
+      "weight": 5,
+      "lang": "en"
+    },
+    {
+      "id": "techreview",
+      "name": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/feed/",
+      "weight": 5,
+      "lang": "en"
+    },
+    {
+      "id": "engadget",
+      "name": "Engadget",
+      "url": "https://www.engadget.com/rss.xml",
+      "weight": 3,
+      "lang": "en"
+    },
+    {
+      "id": "cnbc",
+      "name": "CNBC",
+      "url": "https://www.cnbc.com/id/19854910/device/rss/rss.html",
+      "weight": 4,
+      "lang": "en"
+    },
+    {
+      "id": "zdnet",
+      "name": "ZDNET",
+      "url": "https://www.zdnet.com/topic/artificial-intelligence/rss.xml",
+      "weight": 3,
+      "lang": "en"
+    },
+    {
+      "id": "decoder",
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/feed/",
+      "weight": 3,
+      "lang": "en"
+    },
+    {
+      "id": "simonw",
+      "name": "Simon Willison",
+      "url": "https://simonwillison.net/atom/everything/",
+      "weight": 3,
+      "lang": "en",
+      "cap": 8
+    }
+  ],
+  "googleNews": [
+    {
+      "id": "gn-anthropic",
+      "name": "Google News",
+      "q": "Anthropic OR Claude AI",
+      "weight": 4
+    },
+    {
+      "id": "gn-nvidia",
+      "name": "Google News",
+      "q": "Nvidia AI chip",
+      "weight": 3
+    },
+    {
+      "id": "gn-meta",
+      "name": "Google News",
+      "q": "Meta AI OR Llama model",
+      "weight": 3
+    },
+    {
+      "id": "gn-uz",
+      "name": "Google News",
+      "q": "sun'iy intellekt O'zbekiston OR Uzbekistan artificial intelligence",
+      "weight": 5,
+      "local": true
+    }
+  ],
+  "hackernews": {
+    "name": "Hacker News",
+    "weight": 3,
+    "minPoints": 40
+  },
+  "maxAgeHours": 72,
+  "blockDomains": [
+    "Stocktwits",
+    "Seeking Alpha",
+    "TradingView",
+    "simplywall.st",
+    "Benzinga",
+    "Investing.com",
+    "Investing.com UK",
+    "Kalkine Media",
+    "Quiver Quantitative",
+    "Stock Titan",
+    "moomoo.com",
+    "Longbridge",
+    "HDFC Sky",
+    "scanx.trade",
+    "Equitypandit",
+    "Briefs Finance",
+    "Finimize",
+    "TradingKey",
+    "Intellectia AI",
+    "Pluang",
+    "mexc.co",
+    "CryptoRank",
+    "Cryptonews.net",
+    "bloomingbit",
+    "grafa.com",
+    "blockchain.news",
+    "NAI500",
+    "Proactive financial news",
+    "Yahoo Finance",
+    "finance.biggo.com",
+    "AD HOC NEWS",
+    "GlobeNewswire",
+    "citybiz",
+    "MarketBeat",
+    "Zacks",
+    "tech-insider.org",
+    "Devdiscourse",
+    "Technology Org",
+    "Klover.ai",
+    "AIBase",
+    "Intellectia AI",
+    "LatestLY",
+    "Startup Fortune",
+    "Times Square Chronicles",
+    "bizpacreview.com",
+    "Mshale"
+  ],
+  "publishers": {
+    "Reuters": 6,
+    "Bloomberg.com": 6,
+    "The Wall Street Journal": 6,
+    "WSJ": 6,
+    "Financial Times": 6,
+    "The New York Times": 6,
+    "The Washington Post": 5,
+    "The Guardian": 5,
+    "Associated Press": 6,
+    "AP News": 6,
+    "The Verge": 5,
+    "TechCrunch": 5,
+    "Ars Technica": 5,
+    "Wired": 5,
+    "The Information": 6,
+    "Axios": 5,
+    "axios.com": 5,
+    "CNBC": 4,
+    "Fortune": 4,
+    "Forbes": 3,
+    "Business Insider": 3,
+    "Al Jazeera": 4,
+    "BBC": 5,
+    "BBC News": 5,
+    "The Register": 4,
+    "SiliconANGLE": 3,
+    "VentureBeat": 4,
+    "Engadget": 3,
+    "Mashable": 2,
+    "ZDNET": 3,
+    "Anthropic": 6,
+    "OpenAI": 6,
+    "Google": 6,
+    "NVIDIA Developer": 5,
+    "Nvidia": 5,
+    "Microsoft": 5,
+    "Meta": 5,
+    "Futurism": 2,
+    "Neowin": 2,
+    "Tech Times": 1,
+    "AI Business": 2,
+    "Unite.AI": 2,
+    "HackerNoon": 1,
+    "The Economic Times": 2,
+    "NDTV": 2,
+    "India Today": 2,
+    "Firstpost": 2,
+    "MediaNama": 2,
+    "Moneycontrol.com": 1,
+    "Nikkei Asia": 4,
+    "The Japan Times": 3,
+    "Tech in Asia": 3,
+    "KED Global": 2,
+    "Focus Taiwan": 2,
+    "Yahoo": 1,
+    "Yahoo News UK": 1,
+    "MSN": 1,
+    "LinkedIn": 1
+  }
+}
