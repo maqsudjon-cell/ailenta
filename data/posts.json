@@ -1,5 +1,118 @@
 [
   {
+    "id": "59336903632e",
+    "slug": "avtomatlashtirish-va-aining-mehnat-bozoriga-tasiri-593369",
+    "title": "Avtomatlashtirish va AIning mehnat bozoriga ta'siri",
+    "summary": "Financial Times jurnalisti Sara O’Konnor o'zining yangi kitobida avtomatlashtirishning xavflari va oqibatlarini o'rgandi. U mexanizatsiyalash va sun'iy intellekt mehnat bozorini qanday o'zgartirganini tahlil qiladi.",
+    "tags": [
+      "mehnat bozori"
+    ],
+    "importance": 2,
+    "score": 19,
+    "published": "2026-09-01T15:31:23.000Z",
+    "created": "2026-09-01T16:39:38.925Z",
+    "coverage": 1,
+    "source": {
+      "name": "Semafor",
+      "url": "https://semafor.com/article/09/01/2026/how-mechanization-and-ai-have-transformed-the-workforce",
+      "title": "How mechanization and AI have transformed the workforce",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "f7be0c3dbd20",
+    "slug": "ai-tokenlariga-soliq-solish-taklif-etildi-f7be0c",
+    "title": "AI tokenlariga soliq solish taklif etildi",
+    "summary": "Yangi qonun loyihasiga ko'ra, sun'iy intellekt ommaviy ishsizlikka sabab bo'lsa, AI tokenlariga soliq solinadi. Ushbu aksiz solig'idan tushgan mablag'lar uy-joy qurilishi va infratuzilmani moliyalashtirishga yo'naltiriladi.",
+    "tags": [
+      "siyosat",
+      "mehnat bozori"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-09-01T15:30:39.000Z",
+    "created": "2026-09-01T16:39:38.926Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/09/01/bill-tax-ai-tokens-fund-jobs-technology-unemployment",
+      "title": "A new bill would tax AI tokens to fund jobs if the technology causes mass unemployment",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "4b0b6b2be262",
+    "slug": "ey-xodimlarga-25-000-dollargacha-bonus-taklif-qilmoqda-4b0b6b",
+    "title": "EY xodimlarga 25 000 dollargacha bonus taklif qilmoqda",
+    "summary": "EY kompaniyasi sun'iy intellekt davrida insoniy ko'nikmalar muhimligini isbotlagan xodimlarga 25 000 dollargacha pul mukofotlari taklif etmoqda. Kompaniya bu orqali qaror qabul qilish va moslashuvchanlik kabi qobiliyatlarni rag'batlantiradi.",
+    "tags": [
+      "biznes",
+      "mehnat bozori"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-09-01T14:55:15.000Z",
+    "created": "2026-09-01T16:39:38.926Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/09/01/accounting-firm-ernst-and-young-ey-100-million-investment-employee-bonuses-future-focused-human-skills-ai-era",
+      "title": "EY is dangling bonuses of up to $25,000 for workers who prove their human skills still matter in the age of AI",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "10e1c97e0937",
+    "slug": "john-deere-fermerlar-uchun-ai-chatbotini-sinovdan-otkazmoqda-10e1c9",
+    "title": "John Deere fermerlar uchun AI chatbotini sinovdan o'tkazmoqda",
+    "summary": "John Deere kompaniyasi fermerlarga daromadni oshirishda yordam beruvchi \"JD\" sun'iy intellekt yordamchisini sinovdan o'tkazmoqda. Tizim fermerlarning shaxsiy dala, mashina va operatsion ma'lumotlariga tayanadi. U uskunalar sozlamalari, yoqilg'i sarfi va hosil yig'ish vaqti bo'yicha savollarga javob beradi.",
+    "tags": [
+      "biznes",
+      "agentlar"
+    ],
+    "importance": 3,
+    "score": 18,
+    "published": "2026-09-01T16:00:52.000Z",
+    "created": "2026-09-01T16:39:47.797Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Verge",
+      "url": "https://theverge.com/ai-artificial-intelligence/987486/john-deere-jd-ai-chatbot",
+      "title": "John Deere launched an AI chatbot for farmers",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "b0b31086ff18",
+    "slug": "tom-blomfild-anthropic-xodimlari-haqida-fikr-bildirdi-b0b310",
+    "title": "Tom Blomfild Anthropic xodimlari haqida fikr bildirdi",
+    "summary": "Monzo bankining sobiq rahbari Tom Blomfild Anthropic kompaniyasiga qo'shilganidan ikki oy o'tib, o'z hamkasblari haqida fikr bildirdi. U yangi hamkasblarini xudbinlikdan xoli va o'ta jiddiy \"meganerdlar\" guruhi deb atadi.",
+    "tags": [
+      "Anthropic"
+    ],
+    "importance": 2,
+    "score": 18,
+    "published": "2026-09-01T13:33:47.000Z",
+    "created": "2026-09-01T16:39:47.798Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/tom-blomfield-anthropic-culture-hyper-earnest-meganerds-monzo-2026-9",
+      "title": "Anthropic's Tom Blomfield says his new coworkers are a 'hyper-earnest group of meganerds' with a 'lack of ego'",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "ab183206da80",
     "slug": "google-pics-tasvirlarni-tahrirlash-vositasi-taqdim-etildi-ab1832",
     "title": "Google Pics tasvirlarni tahrirlash vositasi taqdim etildi",
