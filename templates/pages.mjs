@@ -283,3 +283,145 @@ export function topicsPage(tags, u) {
     u
   );
 }
+
+// ---------- Instagram uchun qo'l sahifasi ----------
+//
+// Instagram'ning API'si Meta developer akkauntini talab qiladi. U yo'q ekan,
+// bu sahifa oradagi ishni yengillashtiradi: kartochka tayyor, matn tayyor,
+// bir bosishda nusxa olinadi. Qidiruvga chiqmaydi (noindex) va hech qayerdan
+// havola qilinmaydi — bu ish quroli, xabar emas.
+export function instagramPage(items, u) {
+  const { tashkent, esc } = u;
+  const now = tashkent(new Date().toISOString());
+
+  const cards = items.map((it) => {
+    const t = tashkent(it.published);
+    return `<article class="ig" data-slug="${esc(it.slug)}">
+  <img class="ig-shot" src="/ig/${esc(it.slug)}.jpg" alt="" loading="lazy" width="270" height="337">
+  <div class="ig-body">
+    <p class="ig-when">${t.date} · ${t.hhmm} · muhimlik ${it.importance}</p>
+    <h2>${esc(it.title)}</h2>
+    <textarea class="ig-text" readonly rows="7">${esc(it.caption)}</textarea>
+    <div class="ig-acts">
+      <button class="ig-btn ig-copy" type="button">Matnni nusxalash</button>
+      <a class="ig-btn" href="/ig/${esc(it.slug)}.jpg" download>Rasmni saqlash</a>
+      <button class="ig-btn ig-done" type="button">Joyladim</button>
+    </div>
+  </div>
+</article>`;
+  }).join("\n");
+
+  return `${head({
+    title: "Instagram uchun tayyor postlar",
+    description: "Instagram kartochkalari va matnlari — qo'lda joylash uchun.",
+    path: "/ig-post/",
+    noindex: true,
+  })}
+${topbar(now.hhmm)}
+
+<div class="wrap">
+  <div class="listing-head">
+    <h1>Instagram uchun tayyor</h1>
+    <p>
+      Rasm ham, matn ham tayyor. Rasmni saqlang, matnni nusxalang, Instagram'da
+      joylang. Joylaganingizni belgilab qo'ysangiz, kartochka xiralashadi —
+      belgi shu brauzerda saqlanadi, boshqa qurilmaga o'tmaydi.
+    </p>
+    <p id="ig-count" class="ig-count"></p>
+  </div>
+
+  <div class="ig-list">
+${cards || "<p>Hozircha tayyor kartochka yo'q.</p>"}
+  </div>
+</div>
+
+<style>
+  .ig-count{font-weight:700;color:var(--ink)}
+  .ig-list{display:flex;flex-direction:column;gap:1.4rem;margin:1.8rem 0 3rem}
+  .ig{
+    display:flex;gap:1.2rem;padding:1.2rem;
+    border:1px solid var(--line);background:var(--raise);
+  }
+  .ig.done{opacity:.4}
+  .ig-shot{
+    width:150px;height:187px;object-fit:cover;flex:none;
+    border:1px solid var(--line);background:var(--paper);
+  }
+  .ig-body{min-width:0;flex:1;display:flex;flex-direction:column;gap:.6rem}
+  .ig-when{
+    margin:0;font-size:.72rem;letter-spacing:.08em;text-transform:uppercase;
+    color:var(--faint);
+  }
+  .ig-body h2{margin:0;font-size:1.05rem;line-height:1.3}
+  .ig-text{
+    width:100%;box-sizing:border-box;resize:vertical;
+    font:400 .84rem/1.5 ui-monospace,SFMono-Regular,Menlo,monospace;
+    color:var(--ink);background:var(--paper);
+    border:1px solid var(--line);padding:.6rem;
+  }
+  .ig-acts{display:flex;flex-wrap:wrap;gap:.5rem}
+  .ig-btn{
+    font-family:inherit;font-size:.78rem;font-weight:600;line-height:1;
+    letter-spacing:.04em;display:inline-block;
+    color:var(--ink);background:var(--paper);text-decoration:none;
+    border:1px solid var(--line);padding:.55rem .85rem;cursor:pointer;
+  }
+  .ig-btn:hover{border-color:var(--ink)}
+  .ig-btn:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+  .ig-btn.ok{border-color:var(--accent);color:var(--accent)}
+  @media(max-width:640px){
+    .ig{flex-direction:column}
+    .ig-shot{width:100%;height:auto;aspect-ratio:4/5}
+  }
+</style>
+
+<script>
+(function(){
+  var KEY = "ailenta-ig-joylandi";
+  var done = {};
+  try { done = JSON.parse(localStorage.getItem(KEY) || "{}"); } catch (e) {}
+
+  function save(){ try { localStorage.setItem(KEY, JSON.stringify(done)); } catch (e) {} }
+
+  var cards = Array.prototype.slice.call(document.querySelectorAll(".ig"));
+
+  function count(){
+    var left = cards.filter(function(c){ return !done[c.dataset.slug]; }).length;
+    var el = document.getElementById("ig-count");
+    el.textContent = left ? left + " ta joylanmagan" : "Hammasi joylandi.";
+  }
+
+  cards.forEach(function(card){
+    var slug = card.dataset.slug;
+    if (done[slug]) card.classList.add("done");
+
+    card.querySelector(".ig-copy").addEventListener("click", function(){
+      var ta = card.querySelector(".ig-text");
+      var btn = this;
+      function ok(){
+        btn.textContent = "Nusxalandi";
+        btn.classList.add("ok");
+        setTimeout(function(){ btn.textContent = "Matnni nusxalash"; btn.classList.remove("ok"); }, 1600);
+      }
+      if (navigator.clipboard && navigator.clipboard.writeText) {
+        navigator.clipboard.writeText(ta.value).then(ok, function(){ ta.select(); });
+      } else {
+        ta.select();
+        try { document.execCommand("copy"); ok(); } catch (e) {}
+      }
+    });
+
+    card.querySelector(".ig-done").addEventListener("click", function(){
+      if (done[slug]) { delete done[slug]; card.classList.remove("done"); this.textContent = "Joyladim"; }
+      else { done[slug] = 1; card.classList.add("done"); this.textContent = "Qaytarish"; }
+      save(); count();
+    });
+
+    if (done[slug]) card.querySelector(".ig-done").textContent = "Qaytarish";
+  });
+
+  count();
+})();
+</script>
+${foot(now)}`;
+}

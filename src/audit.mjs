@@ -56,11 +56,15 @@ async function main() {
     if (!canonical) add("xato", url, "canonical yo'q");
     if (!ogImage) add("xato", url, "og:image yo'q");
 
-    if (title && title.length > 65) add("eslatma", url, `sarlavha uzun (${title.length} belgi, Google ~60 da kesadi)`);
-    if (desc && desc.length > 165) add("eslatma", url, `tavsif uzun (${desc.length} belgi)`);
-    if (desc && desc.length < 60) add("eslatma", url, `tavsif qisqa (${desc.length} belgi)`);
-
+    // Uzunlik eslatmalari faqat qidiruvga chiqadigan sahifalarga tegishli:
+    // noindex sahifaning Google'da parchasi ham bo'lmaydi, kesiladigan joyi ham.
     const noindex = robots && robots.includes("noindex");
+    if (!noindex) {
+      if (title && title.length > 65) add("eslatma", url, `sarlavha uzun (${title.length} belgi, Google ~60 da kesadi)`);
+      if (desc && desc.length > 165) add("eslatma", url, `tavsif uzun (${desc.length} belgi)`);
+      if (desc && desc.length < 60) add("eslatma", url, `tavsif qisqa (${desc.length} belgi)`);
+    }
+
     if (!noindex && title) {
       if (titles.has(title)) add("xato", url, `sarlavha takrorlanadi: ${titles.get(title)}`);
       else titles.set(title, url);

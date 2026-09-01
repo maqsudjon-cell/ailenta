@@ -26,10 +26,10 @@ const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 
 // Instagram havolalarni bosib bo'lmaydigan qiladi, shuning uchun manzilni
 // matnda yozamiz. Xeshteglar esa u yerda haqiqatan topilishga yordam beradi.
-const hashtag = (t) =>
+export const hashtag = (t) =>
   "#" + String(t).toLowerCase().replace(/[’'`]/g, "").replace(/[^\p{L}\p{N}]+/gu, "");
 
-function caption(p) {
+export function caption(p) {
   const tags = [...new Set([...(p.tags || []).map(hashtag), "#suniyintellekt", "#AI", "#texnologiya", "#ozbekiston"])];
   return [
     p.title,
@@ -132,4 +132,4 @@ async function main() {
   console.log(`Instagram: ${ok}/${queue.length} ta xabar joylandi.`);
 }
 
-main();
+if (process.argv[1]?.endsWith("instagram.mjs")) main();

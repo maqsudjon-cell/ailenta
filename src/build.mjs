@@ -8,7 +8,8 @@ import { readFile, writeFile, mkdir, rm } from "node:fs/promises";
 import { join, dirname } from "node:path";
 import { fileURLToPath } from "node:url";
 import { SITE } from "../templates/shell.mjs";
-import { postPage, listPage, topicsPage, notFoundPage, photosPage } from "../templates/pages.mjs";
+import { postPage, listPage, topicsPage, notFoundPage, photosPage, instagramPage } from "../templates/pages.mjs";
+import { caption } from "./instagram.mjs";
 import { slugTag } from "../templates/parts.mjs";
 import { buildImages } from "./images.mjs";
 import { ensurePhotos, photoFor } from "./photos.mjs";
@@ -234,6 +235,21 @@ async function buildSite() {
   urls.push({ path: "/rasmlar/", lastmod: new Date().toISOString(), freq: "monthly", priority: "0.3" });
   pages++;
 
+  // Instagram uchun qo'l sahifasi. Sitemap'ga QO'SHILMAYDI va hech qayerdan
+  // havola qilinmaydi — bu tashqi o'quvchi uchun emas, joylash uchun quroldir.
+  const igItems = posts
+    .filter((p) => p.importance >= 4)
+    .slice(0, 40)
+    .map((p) => ({
+      slug: p.slug,
+      title: p.title,
+      published: p.published,
+      importance: p.importance,
+      caption: caption(p),
+    }));
+  await write("docs/ig-post/index.html", instagramPage(igItems, U));
+  pages++;
+
   // Topilmadi sahifasi — GitHub Pages uni noto'g'ri manzilda ko'rsatadi.
   await write("docs/404.html", notFoundPage(posts, U));
   pages++;
@@ -247,6 +263,7 @@ async function buildSite() {
   console.log(`  ✓ sitemap.xml (${urls.length} manzil) · rss.xml (${Math.min(posts.length, 50)} xabar) · robots.txt`);
   console.log(`  ✓ ${imgCount} ta muqova rasmi · favicon · kanal logotipi`);
   console.log(`  ✓ ${withPhoto}/${posts.length} ta xabarda haqiqiy surat`);
+  console.log(`  ✓ /ig-post/ — ${igItems.length} ta Instagram kartochkasi tayyor`);
 }
 
 const only = process.argv[2];
