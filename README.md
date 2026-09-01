@@ -122,9 +122,32 @@ Har bir sahifada JSON-LD (`NewsArticle`, `ItemList`, `BreadcrumbList`,
 
 ## Rasmlar
 
-Sayt faqat harflardan iborat bo'lmasligi uchun har bir xabarning muqovasi bor.
-**Hech bir rasm sun'iy intellekt bilan yaratilmaydi va birovning suratidan
-olinmaydi** — hammasi kod bilan chiziladi:
+Ikki qatlam: haqiqiy suratlar va kod bilan chizilgan muqovalar.
+
+### Haqiqiy suratlar
+
+**Boshqa nashrlarning surati olinmaydi.** CNBC yoki TechCrunch'dagi suratlar
+ularning mulki (ko'pincha Getty yoki matbuot xizmatidan, litsenziya bilan);
+ko'chirib chiqarish mualliflik huquqini buzadi.
+
+O'rniga **Wikimedia Commons** — erkin litsenziyali, qonuniy va tekin. Sharti
+muallif va litsenziyani ko'rsatish: har suratning tagida yozuv bor,
+`/rasmlar/` sahifasi hammasini bir joyga yig'adi.
+
+Fayllar `assets/photos.json` da **qo'lda** tanlangan. Avtomatik qidiruv
+sinovdan o'tmadi: MediaTek so'ralganda Bundesarchiv arxividagi aloqasiz
+suratni, AMD so'ralganda AQSh armiyasi askarlarini qaytardi. Xabar yonidagi
+noto'g'ri surat suratsizlikdan yomonroq.
+
+```bash
+node src/photos.mjs     # suratlarni yuklab olish va qamrovni ko'rish
+```
+
+Hozir 59 xabardan 41 tasida haqiqiy surat bor. Qolganlari chizilgan muqovada.
+
+### Chizilgan muqovalar
+
+**Sun'iy intellekt bilan yaratilmaydi** — hammasi kod bilan chiziladi:
 
 | Bo'lak | Nima qiladi |
 | --- | --- |
