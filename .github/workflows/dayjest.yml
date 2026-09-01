@@ -4,7 +4,8 @@ name: Dayjest
 # bitta post bo'lib Telegram kanalga chiqadi.
 on:
   schedule:
-    - cron: "0 4 * * *"
+    # 09:07 Toshkent. Soat boshidan siljitilgan — qarang: lenta.yml
+    - cron: "7 4 * * *"
   workflow_dispatch:
 
 jobs:

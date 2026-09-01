@@ -4,7 +4,9 @@ name: Lenta
 # Qo'lda ham ishga tushirish mumkin (Actions > Lenta > Run workflow).
 on:
   schedule:
-    - cron: "0 */3 * * *"
+    # Soat boshi (:00) GitHub'da eng band vaqt — jadval o'sha yerda kechikadi
+    # yoki umuman o'tkazib yuboriladi. Shuning uchun 21-daqiqa.
+    - cron: "21 */3 * * *"
   workflow_dispatch:
 
 permissions:
