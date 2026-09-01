@@ -1,5 +1,268 @@
 [
   {
+    "id": "ab183206da80",
+    "slug": "google-pics-tasvirlarni-tahrirlash-vositasi-taqdim-etildi-ab1832",
+    "title": "Google Pics tasvirlarni tahrirlash vositasi taqdim etildi",
+    "summary": "Google kompaniyasi Nano Banana modeliga asoslangan Google Pics tasvir yaratish va tahrirlash vositasini ishga tushirdi. Ushbu vosita Google Workspace hamda AI Pro va Ultra obunachilari uchun taqdim etildi.",
+    "tags": [
+      "Google"
+    ],
+    "importance": 3,
+    "score": 39,
+    "published": "2026-09-01T16:00:00.000Z",
+    "created": "2026-09-01T16:20:27.851Z",
+    "coverage": 2,
+    "source": {
+      "name": "Google",
+      "url": "https://blog.google/products-and-platforms/products/workspace/google-pics",
+      "title": "Try Google Pics: Easy image creation and editing in Google Workspace",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "Engadget",
+        "url": "https://engadget.com/2247619/google-brings-its-pics-image-editor-to-ai-pro-and-ultra-subscribers"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "7fe475aabd5b",
+    "slug": "sonos-oz-dasturlariga-suniy-intellektni-joriy-etmoqda-7fe475",
+    "title": "Sonos o'z dasturlariga sun'iy intellektni joriy etmoqda",
+    "summary": "Sonos kompaniyasi o'z dasturiy ta'minotiga agentli avtomatlashtirishni o'z ichiga olgan yangi AI funksiyalarini qo'shmoqda. Ushbu funksiyalar ixtiyoriy ravishda yoqiladi. Shuningdek, kompaniya yangi Beam Ultra saundbarini ham namoyish etdi.",
+    "tags": [
+      "agentlar"
+    ],
+    "importance": 2,
+    "score": 32,
+    "published": "2026-09-01T14:40:00.000Z",
+    "created": "2026-09-01T16:20:27.852Z",
+    "coverage": 2,
+    "source": {
+      "name": "Wired",
+      "url": "https://wired.com/story/sonos-has-new-devices-a-new-os-and-yes-a-new-app",
+      "title": "Sonos Ace Ultra, Beam Ultra, Sonos Fabric, and a New App: Everything Sonos Just Announced",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "Engadget",
+        "url": "https://engadget.com/2248155/sonos-unveils-new-beam-ultra-soundbar-with-true-7-1-2-dolby-atmos"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "46f651f35dd6",
+    "slug": "microsoft-va-aws-bulutli-ulanishlarni-soddalashtirdi-46f651",
+    "title": "Microsoft va AWS bulutli ulanishlarni soddalashtirdi",
+    "summary": "Microsoft va AWS kompaniyalari sun'iy intellekt davri uchun bulutli ulanishlarni soddalashtirishini e'lon qildi. Bu hamkorlik bulutli xizmatlardan foydalanishni osonlashtirishga qaratilgan.",
+    "tags": [
+      "Microsoft",
+      "bulut"
+    ],
+    "importance": 3,
+    "score": 28.1,
+    "published": "2026-08-31T16:08:55.000Z",
+    "created": "2026-09-01T16:20:27.853Z",
+    "coverage": 1,
+    "source": {
+      "name": "Microsoft",
+      "url": "https://azure.microsoft.com/en-us/blog/introducing-azure-multicloud-interconnect-for-aws",
+      "title": "Microsoft and AWS simplify cloud connections for the AI era",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "f880c37054b3",
+    "slug": "mediatek-nvidia-komagida-ai-mavqeyini-mustahkamlamoqda-f880c3",
+    "title": "MediaTek Nvidia ko'magida AI mavqeyini mustahkamlamoqda",
+    "summary": "MediaTek kompaniyasi Nvidia qo'llab-quvvatlovi yordamida sun'iy intellekt bozoridagi o'z mavqeyini mustahkamlamoqda. Bu hamkorlik kompaniyaning AI sohasidagi ishtirokini kengaytiradi.",
+    "tags": [
+      "Nvidia",
+      "chiplar"
+    ],
+    "importance": 3,
+    "score": 27,
+    "published": "2026-09-01T15:33:34.000Z",
+    "created": "2026-09-01T16:20:27.853Z",
+    "coverage": 1,
+    "source": {
+      "name": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQU2h1RzN0MjdkZnFLNEJiQ0VVREJyTlg2S01DM3dGY3dXczFiRjJvRm1KS1g4enN0YXBUQWZsOFRieC1LeXBSdTVmWmhoMFJ4V09ESl93VU5ZTXlZNFdOSFhQY1d5Y2VHaDRLOFkzWnBDYy1kQ3NwdVNWUV9jOHRtck4zdEV3VkkxbkNVUkpES3RPNGpKblZqbFVydU1DVmlCWnBhU3RzV2VYMlo0OUxPUkVHRHpCZG9uYW1kT1FRZWg4emRuRGZIWQ",
+      "title": "MediaTek Cements Its Standing as AI Player With Nvidia’s Backing",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "fd356e9cde4a",
+    "slug": "avstraliya-universiteti-darslarni-ai-chatbotga-topshirdi-fd356e",
+    "title": "Avstraliya universiteti darslarni AI chatbotga topshirdi",
+    "summary": "Makkuori universiteti ikkita majburiy psixologiya fani bo'yicha an'anaviy darslarni sun'iy intellektli chatbotga almashtirdi. Virtual Peer deb nomlangan ushbu chatbot talabalarga savollar beradi va ularni yo'naltiradi.",
+    "tags": [
+      "ta'lim"
+    ],
+    "importance": 3,
+    "score": 26,
+    "published": "2026-09-01T15:00:02.000Z",
+    "created": "2026-09-01T16:20:27.854Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/technology/2026/sep/02/macquarie-university-using-ai-chatbot-tutorials",
+      "title": "Macquarie University swaps in-person psychology classes with AI chatbot for two subjects",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "85562dc16345",
+    "slug": "hugging-face-mahalliy-ai-uchun-yangi-paket-taqdim-etdi-85562d",
+    "title": "Hugging Face mahalliy AI uchun yangi paket taqdim etdi",
+    "summary": "Hugging Face kompaniyasi mahalliy sun'iy intellektni ishga tushirish uchun mo'ljallangan yangi paketni taqdim etdi. Ushbu to'plam o'z ichiga 200 dan ortiq WebGPU yadrolarini oladi.",
+    "tags": [
+      "Hugging Face"
+    ],
+    "importance": 3,
+    "score": 23.3,
+    "published": "2026-09-01T00:00:00.000Z",
+    "created": "2026-09-01T16:20:27.854Z",
+    "coverage": 1,
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/blog/webgpu-kernels",
+      "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "feb2b17cbcef",
+    "slug": "ai-eski-texnologiyalarni-modernizatsiya-qilishga-yordam-bera-feb2b1",
+    "title": "AI eski texnologiyalarni modernizatsiya qilishga yordam beradi",
+    "summary": "Kompaniyalar eski texnologiyalarni modernizatsiya qilishda qiyinchiliklarga duch kelgan. Sun'iy intellekt endi bu jarayonni osonlashtirish va imkoniyat sifatida ko'rsatishga yordam bermoqda.",
+    "tags": [
+      "biznes",
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 23,
+    "published": "2026-09-01T14:00:00.000Z",
+    "created": "2026-09-01T16:20:43.702Z",
+    "coverage": 1,
+    "source": {
+      "name": "MIT Technology Review",
+      "url": "https://technologyreview.com/2026/09/01/1142180/making-the-ai-powered-case-for-legacy-modernization",
+      "title": "Making the AI-powered case for legacy modernization",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "a76e8caa5f31",
+    "slug": "sb-energy-ipoga-ariza-berdi-openaiga-bogliq-a76e8c",
+    "title": "SB Energy IPOga ariza berdi, OpenAIga bog'liq",
+    "summary": "Softbank'ning SB Energy kompaniyasi IPOga ariza berdi va OpenAIga sezilarli darajada bog'liqligini ma'lum qildi. Kompaniyaning ma'lumotlar markazi biznesi hali daromad keltirmagan va markazlar ishga tushmagan.",
+    "tags": [
+      "OpenAI",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 22,
+    "published": "2026-09-01T16:14:16.000Z",
+    "created": "2026-09-01T16:20:43.702Z",
+    "coverage": 1,
+    "source": {
+      "name": "CNBC",
+      "url": "https://cnbc.com/2026/09/01/sb-energy-ipo-softbank-open-ai-nvidia.html",
+      "title": "Softbank's SB Energy files for IPO, says it's 'substantially dependent' on OpenAI",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "1c73e76b8082",
+    "slug": "ai-bizni-bir-xil-fikrlashga-majbur-qilmoqdami-1c73e7",
+    "title": "AI bizni bir xil fikrlashga majbur qilmoqdami",
+    "summary": "Nature nashri sun'iy intellekt odamlarni bir xil fikrlashga majbur qilayotganini muhokama qilmoqda. Bu AIning jamiyatga ta'siri haqidagi savollarni ko'taradi.",
+    "tags": [
+      "tadqiqot",
+      "siyosat"
+    ],
+    "importance": 2,
+    "score": 21.3,
+    "published": "2026-09-01T00:00:00.000Z",
+    "created": "2026-09-01T16:20:43.703Z",
+    "coverage": 1,
+    "source": {
+      "name": "Nature",
+      "url": "https://nature.com/articles/d41586-026-02682-3",
+      "title": "Bland new world: is AI making us all think the same?",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "0ee6702b8114",
+    "slug": "perplexity-mac-ilovasi-uchun-hybrid-compute-ishga-tushirdi-0ee670",
+    "title": "Perplexity Mac ilovasi uchun Hybrid Compute ishga tushirdi",
+    "summary": "Perplexity o'zining Mac ilovasi foydalanuvchilari uchun \"Hybrid Compute\"ni taqdim etdi. Bu tizim AI yuklamalarini bulutli modellar va mahalliy LLMlar o'rtasida taqsimlaydi, bu esa xarajatlarni kamaytirishi mumkin.",
+    "tags": [
+      "bulut"
+    ],
+    "importance": 3,
+    "score": 21,
+    "published": "2026-09-01T15:20:01.000Z",
+    "created": "2026-09-01T16:20:43.703Z",
+    "coverage": 2,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/260901/p22",
+      "title": "Perplexity launches Hybrid Compute, which splits workloads between frontier cloud models like Opus 5 and local LLMs, for all users of its Mac app (Igor Bonifacic/Engadget)",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "Engadget",
+        "url": "https://engadget.com/2248548/perplexitys-hybrid-compute-splits-sensitive-tasks-between-cloud-and-local-ai"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "9df32751ca64",
+    "slug": "xitoyda-openclaw-agentlariga-qiziqish-pasaydi-9df327",
+    "title": "Xitoyda OpenClaw agentlariga qiziqish pasaydi",
+    "summary": "Xitoyda OpenClaw agentlari atrofidagi shov-shuv pasaymoqda. Hozirda AQShda Xitoyga qaraganda ko'proq OpenClaw instansiyalari joylashtirilgan.",
+    "tags": [
+      "agentlar",
+      "siyosat"
+    ],
+    "importance": 2,
+    "score": 19,
+    "published": "2026-09-01T15:41:22.000Z",
+    "created": "2026-09-01T16:20:43.703Z",
+    "coverage": 1,
+    "source": {
+      "name": "Semafor",
+      "url": "https://semafor.com/article/09/01/2026/openclaw-hype-dies-down-in-china",
+      "title": "OpenClaw agent hype dies down in China",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "87a21f5f9227",
     "slug": "nvidia-dlss-5-texnologiyasini-ishga-tushirmoqda-87a21f",
     "title": "Nvidia DLSS 5 texnologiyasini ishga tushirmoqda",

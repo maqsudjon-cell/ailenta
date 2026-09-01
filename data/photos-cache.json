@@ -138,5 +138,25 @@
     "license": "Public domain",
     "licenseUrl": "",
     "page": "https://commons.wikimedia.org/wiki/File:Andrew_Bailey_and_Jane_Hartley.jpg"
+  },
+  "google": {
+    "file": "Sundar Pichai - 2023 (cropped).jpg",
+    "src": "/photo/google.jpg",
+    "thumb": "/photo/google-sm.jpg",
+    "focus": 0.18,
+    "author": "Photographer: Lukasz Kobus (European Commission)",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Sundar_Pichai_-_2023_(cropped).jpg"
+  },
+  "bulut": {
+    "file": "BalticServers data center.jpg",
+    "src": "/photo/bulut.jpg",
+    "thumb": "/photo/bulut-sm.jpg",
+    "focus": 0.5,
+    "author": "BalticServers.com",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:BalticServers_data_center.jpg"
   }
 }
