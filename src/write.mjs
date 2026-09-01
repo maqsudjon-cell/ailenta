@@ -176,10 +176,15 @@ async function main() {
       })
       .join("\n\n");
 
-    // Modelga oxirgi chiqqan sarlavhalarni ko'rsatamiz. So'z solishtirish bir
-    // voqeaning turlicha yozilgan variantlarini ushlay olmaydi — buni model
-    // ma'no darajasida hal qiladi.
-    const recent = posts.slice(0, 40).map((p) => `- ${p.title}`).join("\n");
+    // Modelga oxirgi chiqqan xabarlarni sarlavhasi va xulosasining boshi bilan
+    // ko'rsatamiz. Yolg'iz sarlavha yetarli emas: "AI global iqtisodiy inqirozga
+    // sabab bo'lishi mumkin" va "Angliya banki rahbari AI kiberxavflaridan
+    // ogohlantirdi" bir odamning bir chiqishi haqida, lekin sarlavhalari
+    // umuman kesishmaydi. Xulosada esa ikkalasida ham uning ismi turadi.
+    const recent = posts
+      .slice(0, 30)
+      .map((p) => `- ${p.title} — ${p.summary.split(/\s+/).slice(0, 16).join(" ")}`)
+      .join("\n");
     const full = recent
       ? `${prompt}\n\n### ALLAQACHON CHIQQAN\n${recent}`
       : prompt;
@@ -194,7 +199,13 @@ async function main() {
 
     for (const r of parsed) {
       const c = batch.find((x) => x.items[0].id === r.id);
-      if (!c || r.skip) continue;
+      if (!c) continue;
+      // Nima rad etilgani ko'rinib tursin: filtr juda qattiq bo'lib qolsa
+      // yoki aksincha o'tkazib yuborsa, buni logdan bilamiz.
+      if (r.skip) {
+        console.error(`  · model o'tkazmadi: ${c.items[0].title.slice(0, 70)}`);
+        continue;
+      }
       if (!r.title || !r.summary) continue;
 
       const sourceText = c.items.map((x) => `${x.title} ${x.summary || ""}`).join(" ");

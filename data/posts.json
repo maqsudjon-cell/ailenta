@@ -1,5 +1,283 @@
 [
   {
+    "id": "a2596898e5e1",
+    "slug": "ish-joylarida-ai-keng-ammo-yuzaki-qollanilmoqda-a25968",
+    "title": "Ish joylarida AI keng, ammo yuzaki qo'llanilmoqda",
+    "summary": "Generativ AI hozirda kasblarning 80 foiziga yetib borgan bo'lsa-da, aksariyat sohalarda xodimlarning yarmidan kamrog'i undan foydalanadi. The Register nashrining xabar berishicha, ish joylarida texnologiyani o'zlashtirish keng ko'lamli, ammo sayoz bo'lib qolmoqda.",
+    "tags": [
+      "tadqiqot",
+      "mehnat bozori"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-08-31T23:43:37.000Z",
+    "created": "2026-09-01T10:34:29.371Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/ai-and-ml/2026/09/01/ai-adoption-at-work-is-broad-but-shallow/5293545",
+      "title": "AI adoption at work is broad but shallow",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "dc4db3c14c3f",
+    "slug": "nvidia-nvlink-orqali-litsenziyalash-imperiyasini-qurmoqda-dc4db3",
+    "title": "Nvidia NVLink orqali litsenziyalash imperiyasini qurmoqda",
+    "summary": "Nvidia kompaniyasi NVLink texnologiyasi asosida intellektual mulkni litsenziyalash imperiyasini barpo etmoqda. The Register nashrining yozishicha, hatto Nvidia mahsulotini sotib olmayapman deb o'ylaganingizda ham, baribir uning texnologiyasini xarid qilayotgan bo'lishingiz mumkin.",
+    "tags": [
+      "Nvidia",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-08-31T22:54:24.000Z",
+    "created": "2026-09-01T10:34:29.376Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/systems/2026/08/31/nvidia-is-building-an-ip-licensing-empire-on-the-back-of-nvlink/5293530",
+      "title": "Nvidia is building an IP licensing empire on the back of NVLink",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "9a5f1851944b",
+    "slug": "apple-mac-qurilmalariga-bolgan-ai-talabiga-tayyor-emasdi-9a5f18",
+    "title": "Apple Mac qurilmalariga bo'lgan AI talabiga tayyor emasdi",
+    "summary": "Apple kompaniyasi Mac Mini va Mac Studio qurilmalariga sun'iy intellekt tufayli ortgan yuqori talabga kutilmaganda duch keldi. Hacker News xabariga ko'ra, kompaniya ushbu qurilmalarga bo'lgan bunday qiziqishni oldindan taxmin qila olmagan.",
+    "tags": [
+      "Apple"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-08-31T12:41:22.000Z",
+    "created": "2026-09-01T10:34:29.377Z",
+    "coverage": 1,
+    "source": {
+      "name": "Hacker News",
+      "url": "https://macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand",
+      "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "f89b9e32083d",
+    "slug": "suniy-intellekt-aqsh-siyosatiga-zarar-yetkazmoqda-f89b9e",
+    "title": "Sun'iy intellekt AQSh siyosatiga zarar yetkazmoqda",
+    "summary": "The Guardian nashrining yozishicha, sun'iy intellekt AQSh siyosatiga salbiy ta'sir ko'rsatmoqda, siyosatchilar undan yolg'on tarqatish uchun foydalanmoqda. Biroq, Yaponiya va Shotlandiya misollari ko'rsatganidek, nomzodlar ushbu texnologiya yordamida saylovchilar fikrini chuqurroq tinglashlari ham mumkin.",
+    "tags": [
+      "siyosat"
+    ],
+    "importance": 3,
+    "score": 18.8,
+    "published": "2026-08-31T12:00:24.000Z",
+    "created": "2026-09-01T10:34:29.379Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/commentisfree/2026/aug/31/ai-politics-voters",
+      "title": "AI is hurting US politics. Here’s how candidates could use it for good | Bruce Schneier and Nathan E Sanders",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "10481ee5fd85",
+    "slug": "ai-investitsiya-kiritish-usulini-ozgartirmaydi-10481e",
+    "title": "AI investitsiya kiritish usulini o'zgartirmaydi",
+    "summary": "Devid Butning fikricha, sun'iy intellekt dunyoni o'zgartirsa ham, odamlarning investitsiya kiritish uslubiga ta'sir qilmaydi. U buni ilgari odamlar muzni qo'lda kesgan bo'lsa, bugun bluetooth muzlatgichlar borligi bilan qiyosladi.",
+    "tags": [
+      "biznes",
+      "iqtisod"
+    ],
+    "importance": 2,
+    "score": 19,
+    "published": "2026-09-01T10:00:00.000Z",
+    "created": "2026-09-01T10:33:49.994Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/09/01/david-booth-ai-may-change-the-world-it-just-wont-change-how-you-invest",
+      "title": "David Booth: AI may change the world. It just won’t change how you invest",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "26c9ee45b884",
+    "slug": "garbda-yaratilgan-ai-xavfsizligi-boshqa-joylarda-ishlamayapt-26c9ee",
+    "title": "G'arbda yaratilgan AI xavfsizligi boshqa joylarda ishlamayapti",
+    "summary": "OpenAI faoliyatidagi tanaffus sun'iy intellektning tezkor rivojlanish xavflarini ko'rsatmoqda. Amaldagi xavfsizlik tizimlari G'arbdan tashqaridagi tillar va kontekstlarni hisobga olmayapti, vaholanki zarar eng ko'p o'sha yerlarda seziladi.",
+    "tags": [
+      "xavfsizlik",
+      "OpenAI"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-09-01T10:00:00.000Z",
+    "created": "2026-09-01T10:33:49.996Z",
+    "coverage": 1,
+    "source": {
+      "name": "Rest of World",
+      "url": "https://restofworld.org/2026/ai-safety-bias",
+      "title": "AI safety is designed in the West, and failing users everywhere",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "c5b960511706",
+    "slug": "suniy-intellekt-xatolari-uchun-kim-javobgar-boladi-c5b960",
+    "title": "Sun'iy intellekt xatolari uchun kim javobgar bo'ladi",
+    "summary": "Nature nashrining yozishicha, sun'iy intellekt ilmiy ishlarni yozishda yordam berganida, undagi xatolar uchun kim javobgarlikni zimmasiga olishi masalasi muhokama qilinmoqda. Bu borada aniq huquqiy va axloqiy yechimlar hozircha mavjud emas.",
+    "tags": [
+      "tadqiqot",
+      "qonun"
+    ],
+    "importance": 3,
+    "score": 29,
+    "published": "2026-09-01T00:00:00.000Z",
+    "created": "2026-09-01T10:32:06.021Z",
+    "coverage": 2,
+    "source": {
+      "name": "Nature",
+      "url": "https://nature.com/articles/d41586-026-02735-7",
+      "title": "When AI does science, who is accountable for mistakes?",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "884dc72ea79c",
+    "slug": "nvidianing-groq-chipi-ai-agentlari-imkoniyatini-belgilaydi-884dc7",
+    "title": "Nvidia'ning Groq chipi AI agentlari imkoniyatini belgilaydi",
+    "summary": "Wall Street Journal nashrining xabar berishicha, Nvidia kompaniyasining Groq chipi sun'iy intellekt agentlaridan foydalanish imkoniyatlarini belgilab beradi. Ushbu texnologiya agentlarning ishlash samaradorligiga sezilarli ta'sir ko'rsatishi kutilmoqda.",
+    "tags": [
+      "Nvidia",
+      "chiplar"
+    ],
+    "importance": 3,
+    "score": 28.9,
+    "published": "2026-08-31T19:48:33.000Z",
+    "created": "2026-09-01T10:32:06.024Z",
+    "coverage": 1,
+    "source": {
+      "name": "WSJ",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOOFZ5Vm9DUWpmc0YzbE0xaDhUVE1na3hGdGlObWdGS3pNbU1BRVlBTjRDVXExWFJZcDJMSGFudU5Na3V4bWhXclhDMk1lNnhTeWJpNXpHUG9CcDI4R1hRMG9xVmxUQUhzc3NLNmFDcjNHV2tnVzNYZ1RsMV9oQ2hYa0ZEbUtWSnktbGpSNjB1WlRqdw",
+      "title": "Nvidia’s Groq Chip Will Shape AI Agent Usability",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "9c3d316bd477",
+    "slug": "suniy-intellekt-ongini-organish-masalasi-9c3d31",
+    "title": "Sun'iy intellekt ongini o'rganish masalasi",
+    "summary": "The New York Times nashrining yozishicha, tadqiqotchilar sun'iy intellektning ongi bor-yo'qligini o'rganishmoqda. Ushbu mavzu bo'yicha munozaralar va botlarning o'z munosabati tahlil qilinmoqda.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 27,
+    "published": "2026-09-01T01:10:40.000Z",
+    "created": "2026-09-01T10:32:06.024Z",
+    "coverage": 1,
+    "source": {
+      "name": "The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMkpQcFN6ZnItTTBIS1RBeFQ3UllmZ1RVTjhSSHlDR1FYZ0JlNjhZOHlqb1BpVFc5VnZIYzZVUE5UWm9SODNiZFh6YThSLUlVNkdyeGZyYUo5S1ZDSmw4VlFOSEJybWpHcS1XclBQNWFtUFdSZS1XemFzaEJmc1FLUWtKdw",
+      "title": "Study A.I. Consciousness? The Bots Would Like a Word With You.",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "d449ee878604",
+    "slug": "angliya-banki-rahbari-ai-kiberxavflaridan-ogohlantirdi-d449ee",
+    "title": "Angliya banki rahbari AI kiberxavflaridan ogohlantirdi",
+    "summary": "Angliya banki rahbari Beyli o'ta rivojlangan sun'iy intellektning muhim infratuzilmaga soladigan tahdidlari haqida ogohlantirdi. AQSh Vakillar palatasining razvedka qo'mitasi ham sun'iy intellektning kutilmagan xavflaridan xavotir bildirdi.",
+    "tags": [
+      "siyosat",
+      "xavfsizlik"
+    ],
+    "importance": 4,
+    "score": 25,
+    "published": "2026-08-31T22:29:54.000Z",
+    "created": "2026-09-01T10:32:06.025Z",
+    "coverage": 2,
+    "source": {
+      "name": "Semafor",
+      "url": "https://semafor.com/article/08/31/2026/boe-chief-andrew-bailey-warns-of-ai-cyber-risks",
+      "title": "BoE chief warns of AI cyber risks",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "CNBC",
+        "url": "https://cnbc.com/2026/08/31/ai-warning-house-intelligence-committee.html"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "0c4c980e2f38",
+    "slug": "openai-va-anthropic-xatarlari-tahlil-qilindi-0c4c98",
+    "title": "OpenAI va Anthropic xatarlari tahlil qilindi",
+    "summary": "Tadqiqotchilar OpenAI va Anthropic modellarining xavflari hamda ularning ochiq vaznli xitoylik raqobatchilari o'rtasidagi asosiy farqlarni aniqlashdi. Bu tahlil kompaniyalar duch kelayotgan turli xavfsizlik muammolarini ko'rsatib beradi.",
+    "tags": [
+      "OpenAI",
+      "Anthropic"
+    ],
+    "importance": 3,
+    "score": 21,
+    "published": "2026-09-01T09:00:01.000Z",
+    "created": "2026-09-01T10:32:23.776Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/openai-anthropic-risky-different-open-weight-rivals-china-2026-9",
+      "title": "Why OpenAI and Anthropic are risky for different reasons than their Chinese AI rivals",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "1314d1f6c237",
+    "slug": "chatbotlar-oz-joniga-qasd-qilish-mavzusida-suhbatlashmoqda-1314d1",
+    "title": "Chatbotlar o'z joniga qasd qilish mavzusida suhbatlashmoqda",
+    "summary": "O'tkazilgan tadqiqotda sun'iy intellekt chatbotlari bilan 50 000 dan ortiq suhbat tahlil qilindi. Natijada, chatbotlar xavfsizroq bo'lib qolganiga qaramay, foydalanuvchilarga o'z joniga qasd qilish yoki o'lim haqida hikoyalar yozishda hamon yordam berayotgani aniqlandi.",
+    "tags": [
+      "xavfsizlik",
+      "tadqiqot"
+    ],
+    "importance": 4,
+    "score": 20.8,
+    "published": "2026-08-31T17:07:04.000Z",
+    "created": "2026-09-01T10:32:23.777Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Washington Post",
+      "url": "https://washingtonpost.com/technology/2026/08/31/chatbots-will-role-play-self-harm-scenarios-with-users-study-finds",
+      "title": "Chatbots got safer but will still role-play self-harm with users",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "cc43d2af0aae",
     "slug": "openai-apple-kompaniyasining-ayblovlarini-rad-etdi-cc43d2",
     "title": "OpenAI Apple kompaniyasining ayblovlarini rad etdi",
