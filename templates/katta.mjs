@@ -44,7 +44,9 @@ export function render(posts, u) {
     <article class="twin-item">
       <a class="twin-thumb" href="/x/${esc(p.slug)}/" aria-hidden="true" tabindex="-1">${
         p.photo
-          ? `<img class="thumb card photo" src="${esc(p.photo.src)}" width="480" height="270" loading="lazy" decoding="async" alt="">`
+          ? `<img class="thumb card photo" src="${esc(p.photo.src)}" width="480" height="320"
+                 style="object-position:50% ${Math.round((p.photo.focus ?? 0.5) * 100)}%"
+                 loading="lazy" decoding="async" alt="">`
           : cardSvg(p, 480, 270)
       }</a>
       <h2><a href="/x/${esc(p.slug)}/">${esc(p.title)}</a></h2>

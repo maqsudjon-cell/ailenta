@@ -30,10 +30,12 @@ const stripTags = (s = "") =>
 // ---------- qaysi surat qaysi xabarga ----------
 
 let MAP = null;
+let FOCUS = {};
 
 async function loadMap() {
   if (MAP) return MAP;
   const raw = JSON.parse(await readFile(join(ROOT, "assets/photos.json"), "utf8"));
+  FOCUS = raw.fokus || {};
   const entries = [];
   for (const group of ["odamlar", "kompaniyalar", "mavzular"]) {
     for (const [key, file] of Object.entries(raw[group] || {})) {
@@ -155,11 +157,17 @@ export async function ensurePhotos(posts) {
 }
 
 // Xabarga tegishli surat yozuvi (yoki null).
+//
+// focus — suratni keng kartochkaga kesishda vertikal markaz. Tik suratni
+// markazdan kessak odamning boshi kesilib qoladi, shuning uchun har biriga
+// alohida qiymat berilgan.
 export async function photoFor(post, cache) {
   const e = await matchEntity(post);
   if (!e) return null;
   const c = cache[e.key];
-  return c ? { ...c, entity: e.key } : null;
+  if (!c) return null;
+  await loadMap();
+  return { ...c, entity: e.key, focus: FOCUS[e.key] ?? 0.5 };
 }
 
 if (process.argv[1] && process.argv[1].endsWith("photos.mjs")) {

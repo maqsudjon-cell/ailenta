@@ -69,7 +69,9 @@ ${topbar(now.hhmm)}
     <p class="lede">${esc(p.summary)}</p>
     ${p.photo ? `
     <figure class="hero-photo">
-      <img src="${esc(p.photo.src)}" alt="${esc(p.photo.entity)} — arxiv surati" width="1200" height="675" loading="lazy" decoding="async">
+      <img src="${esc(p.photo.src)}" alt="${esc(p.photo.entity)} — arxiv surati" width="1200" height="800"
+           style="object-position:50% ${Math.round((p.photo.focus ?? 0.5) * 100)}%"
+           loading="lazy" decoding="async">
       <figcaption class="credit">
         Arxiv surati · ${esc(p.photo.author)} ·
         <a href="${esc(p.photo.page)}" target="_blank" rel="noopener nofollow">${esc(p.photo.license)}</a>,

@@ -171,7 +171,7 @@
   .hero-photo{margin:1.6rem 0 0}
   .hero-photo img{
     display:block;width:100%;height:auto;border-radius:4px;background:var(--raise);
-    aspect-ratio:16/9;object-fit:cover;
+    aspect-ratio:3/2;object-fit:cover;
   }
   .credit{
     margin:.6rem 0 0;font-family:var(--mono);font-size:.66rem;line-height:1.5;
@@ -189,7 +189,7 @@
   tbody tr:last-child td{border-bottom:0}
   .item-thumb{align-self:start;padding-top:.15rem}
   .twin-thumb{display:block;margin-bottom:1rem}
-  .twin-thumb .thumb{width:100%;height:auto;aspect-ratio:16/9;border-radius:5px}
+  .twin-thumb .thumb{width:100%;height:auto;aspect-ratio:3/2;border-radius:5px}
   .item h3{margin:0;font-weight:700;letter-spacing:-.028em;line-height:1.16;text-wrap:balance}
   .item.t1 h3{font-size:1.6rem}
   .item.t2 h3{font-size:1.45rem}
@@ -261,7 +261,9 @@
     .item .when{grid-column:1;font-size:.66rem;padding-top:.2rem}
     .item .item-body{grid-column:2}
     .item-thumb{grid-column:1 / -1;grid-row:2;padding-top:.9rem}
-    .thumb.card{aspect-ratio:16/9;border-radius:5px}
+    /* 16:9 juda keng edi — tik suratlarda odamning boshi kesilib qolardi.
+       3:2 da yo'qoladigan qism ancha kam. */
+    .thumb.card{aspect-ratio:3/2;border-radius:5px}
     .item.t1 h3{font-size:1.55rem}
     .item.t2 h3{font-size:1.28rem}
     .item.t3 h3{font-size:1.08rem}
@@ -366,7 +368,7 @@
 <div class="topbar">
   <div class="topbar-in">
     <a class="brand" href="/"><em>Ai</em>lenta</a>
-    <span class="status"><span class="dot"></span>20:01 da yangilandi</span>
+    <span class="status"><span class="dot"></span>20:15 da yangilandi</span>
     <nav class="nav">
       <a href="/arxiv/">Arxiv</a>
       <a href="/mavzular/">Mavzular</a>
@@ -402,7 +404,9 @@
           <a class="chip" href="/mavzu/openai/">OpenAI</a><a class="chip" href="/mavzu/anthropic/">Anthropic</a>
         </div>
       </div>
-      <a class="item-thumb" href="/x/openai-va-anthropic-xatarlari-tahlil-qilindi-0c4c98/" aria-hidden="true" tabindex="-1"><img class="thumb card photo" src="/photo/anthropic-sm.jpg" width="220" height="147" loading="lazy" decoding="async" alt=""></a>
+      <a class="item-thumb" href="/x/openai-va-anthropic-xatarlari-tahlil-qilindi-0c4c98/" aria-hidden="true" tabindex="-1"><img class="thumb card photo" src="/photo/anthropic-sm.jpg" width="220" height="147"
+           style="object-position:50% 42%"
+           loading="lazy" decoding="async" alt=""></a>
     </article>
     <article class="item t2">
       <time class="when" datetime="2026-09-01T06:43:33.000Z">1-sen<br>11:43</time>
@@ -417,7 +421,9 @@
           <a class="chip" href="/mavzu/anthropic/">Anthropic</a><a class="chip" href="/mavzu/xavfsizlik/">xavfsizlik</a>
         </div>
       </div>
-      <a class="item-thumb" href="/x/anthropic-kiberxavfsizlik-sinovlarini-qayta-boshladi-00f4f2/" aria-hidden="true" tabindex="-1"><img class="thumb card photo" src="/photo/anthropic-sm.jpg" width="220" height="147" loading="lazy" decoding="async" alt=""></a>
+      <a class="item-thumb" href="/x/anthropic-kiberxavfsizlik-sinovlarini-qayta-boshladi-00f4f2/" aria-hidden="true" tabindex="-1"><img class="thumb card photo" src="/photo/anthropic-sm.jpg" width="220" height="147"
+           style="object-position:50% 42%"
+           loading="lazy" decoding="async" alt=""></a>
     </article>
     <article class="item t2">
       <time class="when" datetime="2026-09-01T02:35:09.000Z">1-sen<br>07:35</time>
@@ -435,7 +441,9 @@
           <a class="chip" href="/mavzu/anthropic/">Anthropic</a><a class="chip" href="/mavzu/sud/">sud</a>
         </div>
       </div>
-      <a class="item-thumb" href="/x/sud-anthropic-boyicha-qarorni-noqonuniy-deb-topdi-8d6274/" aria-hidden="true" tabindex="-1"><img class="thumb card photo" src="/photo/anthropic-sm.jpg" width="220" height="147" loading="lazy" decoding="async" alt=""></a>
+      <a class="item-thumb" href="/x/sud-anthropic-boyicha-qarorni-noqonuniy-deb-topdi-8d6274/" aria-hidden="true" tabindex="-1"><img class="thumb card photo" src="/photo/anthropic-sm.jpg" width="220" height="147"
+           style="object-position:50% 42%"
+           loading="lazy" decoding="async" alt=""></a>
     </article>
     <article class="item t2">
       <time class="when" datetime="2026-09-01T02:20:19.000Z">1-sen<br>07:20</time>
@@ -450,7 +458,9 @@
           <a class="chip" href="/mavzu/anthropic/">Anthropic</a>
         </div>
       </div>
-      <a class="item-thumb" href="/x/anthropic-bazi-ai-mashgulotlarini-toxtatdi-87eed7/" aria-hidden="true" tabindex="-1"><img class="thumb card photo" src="/photo/anthropic-sm.jpg" width="220" height="147" loading="lazy" decoding="async" alt=""></a>
+      <a class="item-thumb" href="/x/anthropic-bazi-ai-mashgulotlarini-toxtatdi-87eed7/" aria-hidden="true" tabindex="-1"><img class="thumb card photo" src="/photo/anthropic-sm.jpg" width="220" height="147"
+           style="object-position:50% 42%"
+           loading="lazy" decoding="async" alt=""></a>
     </article>
     <article class="item t2">
       <time class="when" datetime="2026-09-01T02:05:52.000Z">1-sen<br>07:05</time>
@@ -465,7 +475,9 @@
           <a class="chip" href="/mavzu/anthropic/">Anthropic</a><a class="chip" href="/mavzu/xavfsizlik/">xavfsizlik</a>
         </div>
       </div>
-      <a class="item-thumb" href="/x/anthropic-claude-agentlari-sabab-xavfsizlikni-kuchaytirdi-308fb7/" aria-hidden="true" tabindex="-1"><img class="thumb card photo" src="/photo/anthropic-sm.jpg" width="220" height="147" loading="lazy" decoding="async" alt=""></a>
+      <a class="item-thumb" href="/x/anthropic-claude-agentlari-sabab-xavfsizlikni-kuchaytirdi-308fb7/" aria-hidden="true" tabindex="-1"><img class="thumb card photo" src="/photo/anthropic-sm.jpg" width="220" height="147"
+           style="object-position:50% 42%"
+           loading="lazy" decoding="async" alt=""></a>
     </article>
     <article class="item t3">
       <time class="when" datetime="2026-09-01T00:28:03.000Z">1-sen<br>05:28</time>
@@ -480,7 +492,9 @@
           <a class="chip" href="/mavzu/salesforce/">Salesforce</a><a class="chip" href="/mavzu/anthropic/">Anthropic</a>
         </div>
       </div>
-      <a class="item-thumb" href="/x/salesforce-anthropic-bilan-hamkorlikni-kengaytiradi-1e975b/" aria-hidden="true" tabindex="-1"><img class="thumb card photo" src="/photo/salesforce-sm.jpg" width="220" height="147" loading="lazy" decoding="async" alt=""></a>
+      <a class="item-thumb" href="/x/salesforce-anthropic-bilan-hamkorlikni-kengaytiradi-1e975b/" aria-hidden="true" tabindex="-1"><img class="thumb card photo" src="/photo/salesforce-sm.jpg" width="220" height="147"
+           style="object-position:50% 16%"
+           loading="lazy" decoding="async" alt=""></a>
     </article>
     <article class="item t2">
       <time class="when" datetime="2026-09-01T00:10:02.000Z">1-sen<br>05:10</time>
@@ -498,7 +512,9 @@
           <a class="chip" href="/mavzu/anthropic/">Anthropic</a><a class="chip" href="/mavzu/xavfsizlik/">xavfsizlik</a>
         </div>
       </div>
-      <a class="item-thumb" href="/x/anthropic-claude-xavfsizligi-boyicha-choralar-kordi-06ab92/" aria-hidden="true" tabindex="-1"><img class="thumb card photo" src="/photo/anthropic-sm.jpg" width="220" height="147" loading="lazy" decoding="async" alt=""></a>
+      <a class="item-thumb" href="/x/anthropic-claude-xavfsizligi-boyicha-choralar-kordi-06ab92/" aria-hidden="true" tabindex="-1"><img class="thumb card photo" src="/photo/anthropic-sm.jpg" width="220" height="147"
+           style="object-position:50% 42%"
+           loading="lazy" decoding="async" alt=""></a>
     </article>
     <article class="item t2">
       <time class="when" datetime="2026-08-31T23:59:00.000Z">1-sen<br>04:59</time>
@@ -513,7 +529,9 @@
           <a class="chip" href="/mavzu/anthropic/">Anthropic</a><a class="chip" href="/mavzu/bulut/">bulut</a>
         </div>
       </div>
-      <a class="item-thumb" href="/x/anthropic-lambda-bilan-35-milliard-dollarlik-shartnoma-tuzdi-ca224c/" aria-hidden="true" tabindex="-1"><img class="thumb card photo" src="/photo/anthropic-sm.jpg" width="220" height="147" loading="lazy" decoding="async" alt=""></a>
+      <a class="item-thumb" href="/x/anthropic-lambda-bilan-35-milliard-dollarlik-shartnoma-tuzdi-ca224c/" aria-hidden="true" tabindex="-1"><img class="thumb card photo" src="/photo/anthropic-sm.jpg" width="220" height="147"
+           style="object-position:50% 42%"
+           loading="lazy" decoding="async" alt=""></a>
     </article>
     <article class="item t3">
       <time class="when" datetime="2026-08-31T23:13:00.000Z">1-sen<br>04:13</time>
@@ -528,7 +546,9 @@
           <a class="chip" href="/mavzu/anthropic/">Anthropic</a><a class="chip" href="/mavzu/xavfsizlik/">xavfsizlik</a>
         </div>
       </div>
-      <a class="item-thumb" href="/x/anthropic-suniy-intellekt-modellarini-sinashni-tiklaydi-9e749f/" aria-hidden="true" tabindex="-1"><img class="thumb card photo" src="/photo/anthropic-sm.jpg" width="220" height="147" loading="lazy" decoding="async" alt=""></a>
+      <a class="item-thumb" href="/x/anthropic-suniy-intellekt-modellarini-sinashni-tiklaydi-9e749f/" aria-hidden="true" tabindex="-1"><img class="thumb card photo" src="/photo/anthropic-sm.jpg" width="220" height="147"
+           style="object-position:50% 42%"
+           loading="lazy" decoding="async" alt=""></a>
     </article>
     <article class="item t3">
       <time class="when" datetime="2026-08-31T18:21:11.000Z">31-avg<br>23:21</time>
@@ -543,7 +563,9 @@
           <a class="chip" href="/mavzu/anthropic/">Anthropic</a><a class="chip" href="/mavzu/ipo/">IPO</a>
         </div>
       </div>
-      <a class="item-thumb" href="/x/anthropic-iposi-yangi-ai-listinglariga-yol-ochishi-mumkin-45ccaf/" aria-hidden="true" tabindex="-1"><img class="thumb card photo" src="/photo/anthropic-sm.jpg" width="220" height="147" loading="lazy" decoding="async" alt=""></a>
+      <a class="item-thumb" href="/x/anthropic-iposi-yangi-ai-listinglariga-yol-ochishi-mumkin-45ccaf/" aria-hidden="true" tabindex="-1"><img class="thumb card photo" src="/photo/anthropic-sm.jpg" width="220" height="147"
+           style="object-position:50% 42%"
+           loading="lazy" decoding="async" alt=""></a>
     </article>
     <article class="item t3">
       <time class="when" datetime="2026-08-31T18:10:45.000Z">31-avg<br>23:10</time>
@@ -558,7 +580,9 @@
           <a class="chip" href="/mavzu/anthropic/">Anthropic</a><a class="chip" href="/mavzu/sud/">sud</a>
         </div>
       </div>
-      <a class="item-thumb" href="/x/anthropic-xodimlarining-yozishmalari-sudda-dalil-boldi-b50a87/" aria-hidden="true" tabindex="-1"><img class="thumb card photo" src="/photo/anthropic-sm.jpg" width="220" height="147" loading="lazy" decoding="async" alt=""></a>
+      <a class="item-thumb" href="/x/anthropic-xodimlarining-yozishmalari-sudda-dalil-boldi-b50a87/" aria-hidden="true" tabindex="-1"><img class="thumb card photo" src="/photo/anthropic-sm.jpg" width="220" height="147"
+           style="object-position:50% 42%"
+           loading="lazy" decoding="async" alt=""></a>
     </article>
     <article class="item t3">
       <time class="when" datetime="2026-08-31T16:33:40.000Z">31-avg<br>21:33</time>
@@ -573,7 +597,9 @@
           <a class="chip" href="/mavzu/nvidia/">Nvidia</a><a class="chip" href="/mavzu/anthropic/">Anthropic</a>
         </div>
       </div>
-      <a class="item-thumb" href="/x/claude-science-platformasida-nvidia-xizmatlari-ishga-tushdi-4c7f2f/" aria-hidden="true" tabindex="-1"><img class="thumb card photo" src="/photo/anthropic-sm.jpg" width="220" height="147" loading="lazy" decoding="async" alt=""></a>
+      <a class="item-thumb" href="/x/claude-science-platformasida-nvidia-xizmatlari-ishga-tushdi-4c7f2f/" aria-hidden="true" tabindex="-1"><img class="thumb card photo" src="/photo/anthropic-sm.jpg" width="220" height="147"
+           style="object-position:50% 42%"
+           loading="lazy" decoding="async" alt=""></a>
     </article>
     <article class="item t3">
       <time class="when" datetime="2026-08-31T16:03:46.000Z">31-avg<br>21:03</time>
@@ -588,7 +614,9 @@
           <a class="chip" href="/mavzu/anthropic/">Anthropic</a><a class="chip" href="/mavzu/xavfsizlik/">xavfsizlik</a>
         </div>
       </div>
-      <a class="item-thumb" href="/x/anthropic-ogirlangan-hisoblarga-qarshi-kurashmoqda-17daba/" aria-hidden="true" tabindex="-1"><img class="thumb card photo" src="/photo/anthropic-sm.jpg" width="220" height="147" loading="lazy" decoding="async" alt=""></a>
+      <a class="item-thumb" href="/x/anthropic-ogirlangan-hisoblarga-qarshi-kurashmoqda-17daba/" aria-hidden="true" tabindex="-1"><img class="thumb card photo" src="/photo/anthropic-sm.jpg" width="220" height="147"
+           style="object-position:50% 42%"
+           loading="lazy" decoding="async" alt=""></a>
     </article>
     <article class="item t2">
       <time class="when" datetime="2026-08-31T12:42:05.000Z">31-avg<br>17:42</time>
@@ -603,7 +631,9 @@
           <a class="chip" href="/mavzu/anthropic/">Anthropic</a><a class="chip" href="/mavzu/sud/">sud</a>
         </div>
       </div>
-      <a class="item-thumb" href="/x/anthropic-qoshiqlar-ogirligi-boyicha-sudga-berildi-a29afa/" aria-hidden="true" tabindex="-1"><img class="thumb card photo" src="/photo/anthropic-sm.jpg" width="220" height="147" loading="lazy" decoding="async" alt=""></a>
+      <a class="item-thumb" href="/x/anthropic-qoshiqlar-ogirligi-boyicha-sudga-berildi-a29afa/" aria-hidden="true" tabindex="-1"><img class="thumb card photo" src="/photo/anthropic-sm.jpg" width="220" height="147"
+           style="object-position:50% 42%"
+           loading="lazy" decoding="async" alt=""></a>
     </article>
     <article class="item t3">
       <time class="when" datetime="2026-08-31T11:02:00.000Z">31-avg<br>16:02</time>
@@ -618,7 +648,9 @@
           <a class="chip" href="/mavzu/anthropic/">Anthropic</a><a class="chip" href="/mavzu/pentagon/">Pentagon</a>
         </div>
       </div>
-      <a class="item-thumb" href="/x/anthropic-va-pentagon-ortasidagi-huquqiy-kurash-1ecc1c/" aria-hidden="true" tabindex="-1"><img class="thumb card photo" src="/photo/anthropic-sm.jpg" width="220" height="147" loading="lazy" decoding="async" alt=""></a>
+      <a class="item-thumb" href="/x/anthropic-va-pentagon-ortasidagi-huquqiy-kurash-1ecc1c/" aria-hidden="true" tabindex="-1"><img class="thumb card photo" src="/photo/anthropic-sm.jpg" width="220" height="147"
+           style="object-position:50% 42%"
+           loading="lazy" decoding="async" alt=""></a>
     </article>
     <article class="item t3">
       <time class="when" datetime="2026-08-31T09:33:46.000Z">31-avg<br>14:33</time>
@@ -633,7 +665,9 @@
           <a class="chip" href="/mavzu/anthropic/">Anthropic</a><a class="chip" href="/mavzu/xitoy/">Xitoy</a>
         </div>
       </div>
-      <a class="item-thumb" href="/x/xitoy-anthropic-kompaniyasini-tanqid-qildi-382f32/" aria-hidden="true" tabindex="-1"><img class="thumb card photo" src="/photo/anthropic-sm.jpg" width="220" height="147" loading="lazy" decoding="async" alt=""></a>
+      <a class="item-thumb" href="/x/xitoy-anthropic-kompaniyasini-tanqid-qildi-382f32/" aria-hidden="true" tabindex="-1"><img class="thumb card photo" src="/photo/anthropic-sm.jpg" width="220" height="147"
+           style="object-position:50% 42%"
+           loading="lazy" decoding="async" alt=""></a>
     </article>
   </section>
 

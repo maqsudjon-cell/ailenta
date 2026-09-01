@@ -32,7 +32,9 @@ export const sourceMark = (p, u) => `
 // Haqiqiy surat bo'lsa o'shani, bo'lmasa kod bilan chizilgan katakni ko'rsatamiz.
 export function itemThumb(p, u) {
   const inner = p.photo
-    ? `<img class="thumb card photo" src="${u.esc(p.photo.thumb || p.photo.src)}" width="220" height="147" loading="lazy" decoding="async" alt="">`
+    ? `<img class="thumb card photo" src="${u.esc(p.photo.thumb || p.photo.src)}" width="220" height="147"
+           style="object-position:50% ${Math.round((p.photo.focus ?? 0.5) * 100)}%"
+           loading="lazy" decoding="async" alt="">`
     : cardSvg(p, 220, 147);
   return `<a class="item-thumb" href="/x/${u.esc(p.slug)}/" aria-hidden="true" tabindex="-1">${inner}</a>`;
 }

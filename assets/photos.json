@@ -1,6 +1,5 @@
 {
   "_izoh": "Xabar mavzusiga mos haqiqiy suratlar. Har biri Wikimedia Commons'dan, erkin litsenziya bilan. Fayllar QO'LDA tanlangan: avtomatik qidiruv aloqasiz suratlarni qaytaradi (MediaTek so'ralganda Bundesarchiv arxivi, AMD so'ralganda AQSh armiyasi chiqdi). Ro'yxatda yo'q mavzu uchun kod bilan chizilgan muqova ishlatiladi.",
-
   "kompaniyalar": {
     "anthropic": "Dario Amodei at TechCrunch Disrupt 2023 05.jpg",
     "openai": "Sam Altman CropEdit James Tamim.jpg",
@@ -15,7 +14,6 @@
     "mediatek": "MediaTek Taipei Branch in Hall C, Solar Technology Square 20191103.jpg",
     "pentagon": "Aerial Closeup of the Pentagon, May 11, 2021.jpg"
   },
-
   "odamlar": {
     "john ternus": "John Ternus at the Apple 50th Anniversary Kickoff.jpg",
     "tim cook": "Tim Cook (2017, cropped).jpg",
@@ -26,11 +24,22 @@
     "endryu beyli": "Andrew Bailey and Jane Hartley.jpg",
     "donald tramp": "Donald Trump official portrait (cropped).jpg"
   },
-
   "mavzular": {
     "chiplar": "Silicon wafer researcher.jpg",
     "bulut": "BalticServers data center.jpg",
     "robototexnika": "Ameca Generation 1.jpg",
     "sud": "United States Post Office and Courthouse 2.jpg"
+  },
+  "fokus_izoh": "Suratni kesishda vertikal markaz: 0 = tepa, 1 = past. Tik suratlar keng kartochkaga kesilganda markazdan olsak odamning boshi yoki binoning logotipi kesilib qoladi. Qiymatlar ko'z bilan tekshirilgan.",
+  "fokus": {
+    "mediatek": 0.12,
+    "robototexnika": 0.04,
+    "openai": 0.28,
+    "salesforce": 0.16,
+    "endryu beyli": 0.22,
+    "jensen huang": 0.32,
+    "donald tramp": 0.26,
+    "anthropic": 0.42,
+    "asml": 0.42
   }
 }

@@ -175,7 +175,7 @@ export const CSS = `<style>
   .hero-photo{margin:1.6rem 0 0}
   .hero-photo img{
     display:block;width:100%;height:auto;border-radius:4px;background:var(--raise);
-    aspect-ratio:16/9;object-fit:cover;
+    aspect-ratio:3/2;object-fit:cover;
   }
   .credit{
     margin:.6rem 0 0;font-family:var(--mono);font-size:.66rem;line-height:1.5;
@@ -193,7 +193,7 @@ export const CSS = `<style>
   tbody tr:last-child td{border-bottom:0}
   .item-thumb{align-self:start;padding-top:.15rem}
   .twin-thumb{display:block;margin-bottom:1rem}
-  .twin-thumb .thumb{width:100%;height:auto;aspect-ratio:16/9;border-radius:5px}
+  .twin-thumb .thumb{width:100%;height:auto;aspect-ratio:3/2;border-radius:5px}
   .item h3{margin:0;font-weight:700;letter-spacing:-.028em;line-height:1.16;text-wrap:balance}
   .item.t1 h3{font-size:1.6rem}
   .item.t2 h3{font-size:1.45rem}
@@ -265,7 +265,9 @@ export const CSS = `<style>
     .item .when{grid-column:1;font-size:.66rem;padding-top:.2rem}
     .item .item-body{grid-column:2}
     .item-thumb{grid-column:1 / -1;grid-row:2;padding-top:.9rem}
-    .thumb.card{aspect-ratio:16/9;border-radius:5px}
+    /* 16:9 juda keng edi — tik suratlarda odamning boshi kesilib qolardi.
+       3:2 da yo'qoladigan qism ancha kam. */
+    .thumb.card{aspect-ratio:3/2;border-radius:5px}
     .item.t1 h3{font-size:1.55rem}
     .item.t2 h3{font-size:1.28rem}
     .item.t3 h3{font-size:1.08rem}
