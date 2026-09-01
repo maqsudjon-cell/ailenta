@@ -11,7 +11,9 @@
     "write": "node src/write.mjs",
     "build": "node src/build.mjs",
     "telegram": "node src/telegram.mjs",
-    "digest": "node src/digest.mjs"
+    "digest": "node src/digest.mjs",
+    "instagram": "node src/instagram.mjs",
+    "audit": "node src/audit.mjs"
   },
   "repository": {
     "type": "git",
@@ -22,7 +24,8 @@
   },
   "homepage": "https://github.com/maqsudjon-cell/ailenta#readme",
   "dependencies": {
-    "@resvg/resvg-js": "^2.6.2"
+    "@resvg/resvg-js": "^2.6.2",
+    "sharp": "^0.35.4"
   },
   "private": true,
   "type": "module"

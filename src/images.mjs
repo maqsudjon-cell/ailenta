@@ -7,7 +7,8 @@ import { readFile, writeFile, mkdir, readdir, rm } from "node:fs/promises";
 import { join, dirname } from "node:path";
 import { fileURLToPath } from "node:url";
 import { Resvg } from "@resvg/resvg-js";
-import { coverSvg } from "./cover.mjs";
+import sharp from "sharp";
+import { coverSvg, instaSvg } from "./cover.mjs";
 import { brandMark } from "../templates/marks.mjs";
 import { SITE } from "../templates/shell.mjs";
 
@@ -34,6 +35,7 @@ const put = async (rel, buf) => {
 export async function buildImages(posts) {
   // Eski muqovalar yig'ilib qolmasin — har safar faqat mavjud xabarlarniki.
   await rm(join(ROOT, "docs/og"), { recursive: true, force: true });
+  await rm(join(ROOT, "docs/ig"), { recursive: true, force: true });
 
   // Bir surat bir necha xabarda ishlatiladi — bir marta o'qib keshlaymiz.
   const dataCache = new Map();
@@ -51,7 +53,14 @@ export async function buildImages(posts) {
 
   let n = 0;
   for (const p of posts) {
-    await put(`docs/og/${p.slug}.png`, toPng(coverSvg(p, { photoData: await photoData(p.photo), domain: SITE.domain }), 1200));
+    const data = await photoData(p.photo);
+    await put(`docs/og/${p.slug}.png`, toPng(coverSvg(p, { photoData: data, domain: SITE.domain }), 1200));
+    // Instagram faqat JPEG qabul qiladi va rasmni havola orqali o'zi yuklab
+    // oladi, shuning uchun u saytda tayyor turishi kerak.
+    if (p.importance >= 4) {
+      const png = toPng(instaSvg(p, { photoData: data, domain: SITE.domain }), 1080);
+      await put(`docs/ig/${p.slug}.jpg`, await sharp(png).jpeg({ quality: 86 }).toBuffer());
+    }
     n++;
   }
 

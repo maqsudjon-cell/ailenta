@@ -177,6 +177,28 @@ Muhimlik 4+ bo'lgan xabarlar darhol chiqadi, qolganlari ertalab 09:00 dagi
 dayjestga (`src/digest.mjs`). Rasm **havola bilan emas, fayl bo'lib** yuboriladi:
 bu qadam saytga chiqishdan oldin ishlaydi va havola hali mavjud bo'lmaydi.
 
+## Instagram
+
+`src/instagram.mjs` muhim xabarlarni (4+) Instagram tasmasiga joylaydi.
+Rasm alohida chiziladi: 1080×1350 (4:5), JPEG — `docs/ig/<slug>.jpg`.
+
+**Telegramdan muhim farqi:** Telegramga rasmni fayl bo'lib yuborsak bo'ladi,
+Instagram esa faqat HAVOLA qabul qiladi va rasmni o'zi yuklab oladi. Shuning
+uchun bu qadam sayt chiqqandan keyin turadi va rasm ochilishini o'zi kutadi.
+
+Ikkita secret kerak: `IG_USER_ID` va `IG_ACCESS_TOKEN`. Ular bo'lmasa qadam
+jimgina o'tkazib yuboriladi.
+
+Akkaunt tomonidagi shartlar (bir martalik):
+
+1. Instagram akkaunti **professional** (Business yoki Creator) bo'lishi
+2. Facebook sahifasiga ulangan bo'lishi
+3. `developers.facebook.com` da ilova yaratilishi va
+   `instagram_business_content_publish` ruxsati olinishi
+4. Uzoq muddatli token olinishi — u **60 kun** ishlaydi, keyin yangilash kerak
+
+Chegara: sutkasiga 100 ta post. Bizniki kuniga 8-10 ta.
+
 ## Domenni ko'chirish
 
 Manzil bitta joyda — `templates/shell.mjs` dagi `SITE.url`. Canonical, og:url,

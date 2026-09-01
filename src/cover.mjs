@@ -169,6 +169,69 @@ export function coverSvg(post, { width = 1200, height = 630, photoData = null, h
 </svg>`;
 }
 
+// ---------- Instagram uchun tik kartochka ----------
+//
+// Instagram tasmasida 4:5 eng ko'p joy egallaydi. Tepada surat, pastda
+// oq maydonda sarlavha — telefon ekranida uzoqdan ham o'qiladi.
+export function instaSvg(post, { photoData = null, handle = "ailentauz", domain = "" } = {}) {
+  const W = 1080, H = 1350;
+  const IMG_H = 820;
+  const color = topicColor(post.tags);
+  const glyph = topicGlyph(post.tags, color, 24);
+  const seed = seedOf((post.slug || post.title) + "i");
+  const focus = post.photo?.focus ?? 0.5;
+
+  const pad = 64;
+  let fs = 62;
+  let lines = wrap(post.title, W - pad * 2, fs, 4);
+  if (lines.length > 3) { fs = 54; lines = wrap(post.title, W - pad * 2, fs, 4); }
+  const lineH = fs * 1.08;
+  // Sarlavhani pastki maydonning o'rtasiga qo'yamiz — qatorlar soni o'zgarsa
+  // ham ostida bir xil bo'shliq qoladi.
+  const bandTop = IMG_H + 92;
+  const bandBottom = H - 132;
+  const blockH = lines.length * lineH;
+  const startY = bandTop + (bandBottom - bandTop - blockH) / 2 + fs * 0.78;
+
+  const tag = (post.tags && post.tags[0]) || "yangilik";
+  const src = post.source?.name || "";
+
+  return `<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${H}" viewBox="0 0 ${W} ${H}">
+  <rect width="${W}" height="${H}" fill="#FFFFFF"/>
+  ${photoData
+    ? `<clipPath id="ic"><rect x="0" y="0" width="${W}" height="${IMG_H}"/></clipPath>
+  <image href="${photoData}" x="0" y="0" width="${W}" height="${IMG_H}"
+         preserveAspectRatio="${focus < 0.33 ? "xMidYMin" : focus < 0.67 ? "xMidYMid" : "xMidYMax"} slice"
+         clip-path="url(#ic)"/>`
+    : `<rect x="0" y="0" width="${W}" height="${IMG_H}" fill="${color}" opacity=".1"/>
+  <g opacity=".85">${pattern({ x: 0, y: 0, w: W, h: IMG_H, cols: 7, rows: 5, color, seed, precise: false })}</g>
+  <circle cx="${W / 2}" cy="${IMG_H / 2}" r="120" fill="#fff" opacity=".93"/>
+  <g transform="translate(${W / 2 - 54} ${IMG_H / 2 - 54}) scale(4.5)">${glyph.inner}</g>`}
+
+  <rect x="0" y="${IMG_H}" width="${W}" height="6" fill="${color}"/>
+
+  ${lines.map((l, i) =>
+    `<text x="${pad}" y="${(startY + i * lineH).toFixed(0)}" font-family="Archivo" font-size="${fs}" font-weight="800" fill="#0A0A0B" letter-spacing="-2">${esc(l)}</text>`
+  ).join("\n  ")}
+
+  <g transform="translate(${pad}, ${H - 84})">
+    <rect x="0" y="-14" width="17" height="6" rx="3" fill="#0A0A0B" opacity="0.9"/>
+    <circle cx="24" cy="-11" r="4" fill="#1F2BFF"/>
+    <rect x="0" y="-4" width="25" height="6" rx="3" fill="#0A0A0B" opacity="0.55"/>
+    <rect x="0" y="6" width="13" height="6" rx="3" fill="#0A0A0B" opacity="0.32"/>
+    <text x="42" y="4" font-family="Archivo" font-size="34" font-weight="900" letter-spacing="-1">
+      <tspan fill="#1F2BFF">Ai</tspan><tspan fill="#0A0A0B">lenta</tspan>
+    </text>
+    <text x="42" y="34" font-family="IBM Plex Mono" font-size="20" fill="#9CA3AF">${esc(domain)}</text>
+  </g>
+
+  <g transform="translate(${pad}, ${IMG_H + 40})">
+    <text x="0" y="0" font-family="IBM Plex Mono" font-size="26" font-weight="500" fill="${color}">${esc(String(tag).toUpperCase())}</text>
+    <text x="${(String(tag).length * 16 + 26).toFixed(0)}" y="0" font-family="IBM Plex Mono" font-size="26" fill="#9CA3AF">${esc(src)}</text>
+  </g>
+</svg>`;
+}
+
 // ---------- lentadagi kartochka ----------
 //
 // Haqiqiy surat bilan bir o'lchamda turishi kerak, aks holda rasmi bor va yo'q
