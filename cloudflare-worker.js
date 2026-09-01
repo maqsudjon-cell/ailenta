@@ -9,7 +9,7 @@
 //
 // SOZLASH:
 //   1. Cloudflare → Workers → yangi Worker, shu kodni qo'ying
-//   2. Settings → Variables → Secret: GITHUB_TOKEN
+//   2. Settings → Variables → Secret: GITHUB_TOKEN va TRIGGER_KEY
 //      (GitHub'da fine-grained token, faqat ailenta repozitoriyasiga,
 //       faqat "Actions: write" huquqi bilan)
 //   3. Settings → Triggers → Cron: 0 */3 * * *
@@ -49,10 +49,22 @@ export default {
     console.log(`dispatch ${r.status}${r.text ? " — " + r.text : ""}`);
   },
 
-  // Brauzerdan ochilganda holatni ko'rsatadi; ?run=1 bilan qo'lda ishga tushadi.
+  // Brauzerdan ochilganda holatni ko'rsatadi; ?run=<kalit> bilan ishga tushadi.
+  //
+  // KALIT NEGA KERAK. Bu manzil tashqi jadval xizmatiga beriladi va ochiq
+  // internetda turadi. Kalitsiz uni topgan har kim quvurni cheksiz ishga
+  // tushira olardi — bu Gemini limitini yoqib yuboradi va kanalga keraksiz
+  // yugurish keltiradi. Kalit TRIGGER_KEY maxfiy o'zgaruvchisida.
   async fetch(request, env) {
     const url = new URL(request.url);
-    if (url.searchParams.get("run") === "1") {
+    const run = url.searchParams.get("run");
+    if (run) {
+      if (!env.TRIGGER_KEY || run !== env.TRIGGER_KEY) {
+        return new Response("kalit noto'g'ri", {
+          status: 403,
+          headers: { "content-type": "text/plain; charset=utf-8" },
+        });
+      }
       const r = await dispatch(env);
       return new Response(
         r.ok ? "ishga tushirildi" : `xato ${r.status}: ${r.text}`,
@@ -61,8 +73,9 @@ export default {
     }
     return new Response(
       `ailenta cron\nrepo: ${REPO}\nish oqimi: ${WORKFLOW}\n` +
-      `token: ${env.GITHUB_TOKEN ? "qo'yilgan" : "QO'YILMAGAN"}\n\n` +
-      `qo'lda sinash: ?run=1`,
+      `token: ${env.GITHUB_TOKEN ? "qo'yilgan" : "QO'YILMAGAN"}\n` +
+      `kalit: ${env.TRIGGER_KEY ? "qo'yilgan" : "QO'YILMAGAN"}\n\n` +
+      `ishga tushirish: ?run=<kalit>`,
       { headers: { "content-type": "text/plain; charset=utf-8" } }
     );
   },
