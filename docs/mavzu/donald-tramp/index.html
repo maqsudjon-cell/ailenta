@@ -155,6 +155,26 @@
   }
   .item-body{min-width:0}
   .thumb{display:block;border-radius:6px;flex:none}
+  img.thumb{object-fit:cover;background:var(--raise)}
+  .hero-photo{margin:1.6rem 0 0}
+  .hero-photo img{
+    display:block;width:100%;height:auto;border-radius:4px;background:var(--raise);
+    aspect-ratio:16/9;object-fit:cover;
+  }
+  .credit{
+    margin:.6rem 0 0;font-family:var(--mono);font-size:.66rem;line-height:1.5;
+    color:var(--faint);letter-spacing:.02em;
+  }
+  .credit a{color:var(--faint);border-bottom:1px solid var(--line)}
+  .credit a:hover{color:var(--ink)}
+  .scroll{overflow-x:auto;border:1px solid var(--line)}
+  table{border-collapse:collapse;width:100%;font-size:.86rem;min-width:32rem}
+  th,td{text-align:left;padding:.6rem .8rem;border-bottom:1px solid var(--hair);vertical-align:middle}
+  th{
+    font-family:var(--mono);font-size:.64rem;text-transform:uppercase;letter-spacing:.09em;
+    color:var(--faint);font-weight:600;background:var(--raise);white-space:nowrap;
+  }
+  tbody tr:last-child td{border-bottom:0}
   .item-thumb{align-self:start;padding-top:.15rem}
   .twin-thumb{margin-bottom:.9rem}
   .item h3{margin:0;font-weight:700;letter-spacing:-.028em;line-height:1.16;text-wrap:balance}
@@ -298,7 +318,7 @@
 <div class="topbar">
   <div class="topbar-in">
     <a class="brand" href="/">ai<em>.</em>lenta</a>
-    <span class="status"><span class="dot"></span>17:54 da yangilandi</span>
+    <span class="status"><span class="dot"></span>18:49 da yangilandi</span>
     <nav class="nav">
       <a href="/arxiv/">Arxiv</a>
       <a href="/mavzular/">Mavzular</a>
@@ -333,7 +353,7 @@
           <a class="chip" href="/mavzu/donald-tramp/">Donald Tramp</a><a class="chip" href="/mavzu/malumotlar-markazi/">ma'lumotlar markazi</a>
         </div>
       </div>
-      <a class="item-thumb" href="/x/tramp-malumotlar-markazlariga-qarshilarni-tanqid-qildi-256614/" aria-hidden="true" tabindex="-1"><svg class="thumb" viewBox="0 0 64 64" width="64" height="64" aria-hidden="true"><rect width="64" height="64" rx="7" fill="#1F2BFF" opacity=".13"/><g opacity=".8"><circle cx="11" cy="53" r="6" fill="none" stroke="#1F2BFF" stroke-width="2" opacity="0.7"/><rect x="30" y="4" width="3" height="13" rx="2" fill="#1F2BFF" opacity="0.4"/><rect x="25" y="52" width="13" height="3" rx="2" fill="#1F2BFF" opacity="0.2"/><circle cx="53" cy="53" r="6" fill="none" stroke="#1F2BFF" stroke-width="2" opacity="0.5"/></g><circle cx="32" cy="32" r="17" fill="#fff" opacity=".92"/><g transform="translate(17 17) scale(1.25)"><circle cx="6" cy="6" r="2" fill="#1F2BFF"/><circle cx="12" cy="6" r="2" fill="#1F2BFF"/><circle cx="18" cy="6" r="2" fill="#1F2BFF"/><circle cx="6" cy="12" r="2" fill="#1F2BFF"/><circle cx="12" cy="12" r="2" fill="#1F2BFF"/><circle cx="6" cy="18" r="2" fill="#1F2BFF"/></g></svg></a>
+      <a class="item-thumb" href="/x/tramp-malumotlar-markazlariga-qarshilarni-tanqid-qildi-256614/" aria-hidden="true" tabindex="-1"><img class="thumb photo" src="/photo/donald-tramp-sm.jpg" width="64" height="64" loading="lazy" decoding="async" alt=""></a>
     </article>
   </section>
 
@@ -344,6 +364,7 @@
     <span>1-sentabr, 2026</span>
     <span><a href="/arxiv/">Arxiv</a></span>
     <span><a href="/rss.xml">RSS</a></span>
+    <span><a href="/rasmlar/">Suratlar</a></span>
   </footer>
 </div>
 

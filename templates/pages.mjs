@@ -67,6 +67,15 @@ ${topbar(now.hhmm)}
     <span class="eyebrow">Xabar</span>
     <h1>${esc(p.title)}</h1>
     <p class="lede">${esc(p.summary)}</p>
+    ${p.photo ? `
+    <figure class="hero-photo">
+      <img src="${esc(p.photo.src)}" alt="${esc(p.photo.entity)} — arxiv surati" width="1200" height="675" loading="lazy" decoding="async">
+      <figcaption class="credit">
+        Arxiv surati · ${esc(p.photo.author)} ·
+        <a href="${esc(p.photo.page)}" target="_blank" rel="noopener nofollow">${esc(p.photo.license)}</a>,
+        Wikimedia Commons
+      </figcaption>
+    </figure>` : ""}
     <div class="meta">
       ${sourceMark(p, u)}
       ${p.coverage > 1 ? coverBar(p.coverage) : ""}
@@ -151,6 +160,52 @@ ${topbar(now.hhmm)}
   </section>
 
   ${extra}
+${foot(now)}`;
+}
+
+// ---------- suratlar va litsenziyalar ----------
+//
+// Erkin litsenziyalar muallif va litsenziya ko'rsatilishini talab qiladi.
+// Har bir suratning tagida yozuv bor, bu sahifa esa hammasini bir joyga yig'adi.
+export function photosPage(cache, u) {
+  const { tashkent, esc } = u;
+  const now = tashkent(new Date().toISOString());
+  const rows = Object.entries(cache).sort((a, b) => a[0].localeCompare(b[0]));
+
+  return `${head({
+    title: `Suratlar va litsenziyalar — ${SITE.name}`,
+    description: "Saytdagi suratlar Wikimedia Commons'dan erkin litsenziya bilan olingan. "
+      + "Har birining muallifi va litsenziyasi shu sahifada ko'rsatilgan.",
+    path: "/rasmlar/",
+  })}
+${topbar(now.hhmm)}
+
+<div class="wrap">
+  ${crumbs([{ label: "Bosh sahifa", href: "/" }, { label: "Suratlar" }], u)}
+
+  <div class="listing-head">
+    <h1>Suratlar va litsenziyalar</h1>
+    <p>
+      Saytdagi suratlar boshqa nashrlardan olinmaydi — ular birovning mulki.
+      Bu yerdagi barcha surat Wikimedia Commons'dan, erkin litsenziya bilan.
+      Mos surat topilmagan xabarda kod bilan chizilgan muqova turadi.
+    </p>
+  </div>
+
+  <div class="scroll" style="margin-top:1.6rem">
+    <table>
+      <thead><tr><th>Mavzu</th><th>Muallif</th><th>Litsenziya</th><th>Manba</th></tr></thead>
+      <tbody>
+        ${rows.map(([key, c]) => `<tr>
+          <td><img src="${esc(c.thumb || c.src)}" width="40" height="40" alt="" loading="lazy"
+               style="border-radius:4px;object-fit:cover;vertical-align:middle;margin-right:.6rem">${esc(key)}</td>
+          <td>${esc(c.author)}</td>
+          <td>${esc(c.license)}</td>
+          <td><a href="${esc(c.page)}" target="_blank" rel="noopener nofollow">Commons</a></td>
+        </tr>`).join("")}
+      </tbody>
+    </table>
+  </div>
 ${foot(now)}`;
 }
 

@@ -29,6 +29,14 @@ export const sourceMark = (p, u) => `
     <span class="pub">${u.esc(p.source.name)}</span>
     ${p.source.indirect ? `<span class="viamark">${u.esc(u.via(p))}</span>` : ""}`;
 
+// Haqiqiy surat bo'lsa o'shani, bo'lmasa kod bilan chizilgan katakni ko'rsatamiz.
+export function itemThumb(p, u) {
+  const inner = p.photo
+    ? `<img class="thumb photo" src="${u.esc(p.photo.thumb || p.photo.src)}" width="64" height="64" loading="lazy" decoding="async" alt="">`
+    : thumbSvg(p, 64);
+  return `<a class="item-thumb" href="/x/${u.esc(p.slug)}/" aria-hidden="true" tabindex="-1">${inner}</a>`;
+}
+
 export const tier = (p) => (p.importance >= 5 ? "t1" : p.importance === 4 ? "t2" : "t3");
 
 // Oqimdagi bitta qator.
@@ -46,7 +54,7 @@ export function feedItem(p, u) {
           ${tagChips(p, u)}
         </div>
       </div>
-      <a class="item-thumb" href="/x/${u.esc(p.slug)}/" aria-hidden="true" tabindex="-1">${thumbSvg(p, 64)}</a>
+      ${itemThumb(p, u)}
     </article>`;
 }
 
@@ -65,7 +73,7 @@ export function listItem(p, u) {
           ${tagChips(p, u)}
         </div>
       </div>
-      <a class="item-thumb" href="/x/${u.esc(p.slug)}/" aria-hidden="true" tabindex="-1">${thumbSvg(p, 64)}</a>
+      ${itemThumb(p, u)}
     </article>`;
 }
 

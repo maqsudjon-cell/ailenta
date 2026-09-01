@@ -8,9 +8,10 @@ import { readFile, writeFile, mkdir, rm } from "node:fs/promises";
 import { join, dirname } from "node:path";
 import { fileURLToPath } from "node:url";
 import { SITE } from "../templates/shell.mjs";
-import { postPage, listPage, topicsPage, notFoundPage } from "../templates/pages.mjs";
+import { postPage, listPage, topicsPage, notFoundPage, photosPage } from "../templates/pages.mjs";
 import { slugTag } from "../templates/parts.mjs";
 import { buildImages } from "./images.mjs";
+import { ensurePhotos, photoFor } from "./photos.mjs";
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
 const PUBLISH = "katta";
@@ -121,6 +122,12 @@ async function buildSite() {
   await rm(join(ROOT, "docs/mavzu"), { recursive: true, force: true });
   await rm(join(ROOT, "docs/kun"), { recursive: true, force: true });
 
+  // Haqiqiy suratlar — Wikimedia Commons'dan, erkin litsenziya bilan.
+  // Mos surat topilmagan xabar kod bilan chizilgan muqovada qoladi.
+  const photoCache = await ensurePhotos(posts);
+  for (const p of posts) p.photo = await photoFor(p, photoCache);
+  const withPhoto = posts.filter((p) => p.photo).length;
+
   // Muqova rasmlari sahifalardan oldin: og:image ular tayyor bo'lgach ishlaydi.
   const imgCount = await buildImages(posts);
 
@@ -222,6 +229,11 @@ async function buildSite() {
   urls.push({ path: "/mavzular/", lastmod: posts[0]?.published || new Date().toISOString(), freq: "daily", priority: "0.6" });
   pages++;
 
+  // Suratlar va litsenziyalar — erkin litsenziyalar shuni talab qiladi.
+  await write("docs/rasmlar/index.html", photosPage(photoCache, U));
+  urls.push({ path: "/rasmlar/", lastmod: new Date().toISOString(), freq: "monthly", priority: "0.3" });
+  pages++;
+
   // Topilmadi sahifasi — GitHub Pages uni noto'g'ri manzilda ko'rsatadi.
   await write("docs/404.html", notFoundPage(posts, U));
   pages++;
@@ -234,6 +246,7 @@ async function buildSite() {
   console.log(`  ✓ ${pages} ta sahifa · ${byTag.size} mavzu (${thinTags} tasi indekssiz) · ${days.length} kun`);
   console.log(`  ✓ sitemap.xml (${urls.length} manzil) · rss.xml (${Math.min(posts.length, 50)} xabar) · robots.txt`);
   console.log(`  ✓ ${imgCount} ta muqova rasmi · favicon · kanal logotipi`);
+  console.log(`  ✓ ${withPhoto}/${posts.length} ta xabarda haqiqiy surat`);
 }
 
 const only = process.argv[2];

@@ -34,9 +34,23 @@ export async function buildImages(posts) {
   // Eski muqovalar yig'ilib qolmasin — har safar faqat mavjud xabarlarniki.
   await rm(join(ROOT, "docs/og"), { recursive: true, force: true });
 
+  // Bir surat bir necha xabarda ishlatiladi — bir marta o'qib keshlaymiz.
+  const dataCache = new Map();
+  const photoData = async (photo) => {
+    if (!photo) return null;
+    if (dataCache.has(photo.src)) return dataCache.get(photo.src);
+    let out = null;
+    try {
+      const buf = await readFile(join(ROOT, "docs", photo.src.replace(/^\//, "")));
+      out = `data:image/jpeg;base64,${buf.toString("base64")}`;
+    } catch {}
+    dataCache.set(photo.src, out);
+    return out;
+  };
+
   let n = 0;
   for (const p of posts) {
-    await put(`docs/og/${p.slug}.png`, toPng(coverSvg(p), 1200));
+    await put(`docs/og/${p.slug}.png`, toPng(coverSvg(p, { photoData: await photoData(p.photo) }), 1200));
     n++;
   }
 

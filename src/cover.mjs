@@ -101,7 +101,9 @@ function wrap(text, maxWidth, fontSize, maxLines) {
 
 // ---------- katta muqova (ijtimoiy tarmoq uchun) ----------
 
-export function coverSvg(post, { width = 1200, height = 630 } = {}) {
+// photoData — "data:image/jpeg;base64,..." ko'rinishida. Bo'lsa, o'ng tomondagi
+// geometrik naqsh o'rniga haqiqiy surat qo'yiladi.
+export function coverSvg(post, { width = 1200, height = 630, photoData = null } = {}) {
   const color = topicColor(post.tags);
   const glyph = topicGlyph(post.tags, color, 24);
   const seed = seedOf(post.slug || post.id || post.title);
@@ -128,7 +130,11 @@ export function coverSvg(post, { width = 1200, height = 630 } = {}) {
 
   return `<svg xmlns="http://www.w3.org/2000/svg" width="${width}" height="${height}" viewBox="0 0 ${width} ${height}">
   <rect width="${width}" height="${height}" fill="#FFFFFF"/>
-  <g>${pattern({ x: 812, y: 0, w: 388, h: height, cols: 5, rows: 8, color, seed })}</g>
+  ${photoData
+    ? `<clipPath id="pc"><rect x="812" y="0" width="388" height="${height}"/></clipPath>
+  <image href="${photoData}" x="812" y="0" width="388" height="${height}"
+         preserveAspectRatio="xMidYMid slice" clip-path="url(#pc)"/>`
+    : `<g>${pattern({ x: 812, y: 0, w: 388, h: height, cols: 5, rows: 8, color, seed })}</g>`}
   <rect x="0" y="0" width="10" height="${height}" fill="${color}"/>
 
   <g transform="translate(${pad}, 62)">

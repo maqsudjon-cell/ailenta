@@ -157,6 +157,26 @@
   }
   .item-body{min-width:0}
   .thumb{display:block;border-radius:6px;flex:none}
+  img.thumb{object-fit:cover;background:var(--raise)}
+  .hero-photo{margin:1.6rem 0 0}
+  .hero-photo img{
+    display:block;width:100%;height:auto;border-radius:4px;background:var(--raise);
+    aspect-ratio:16/9;object-fit:cover;
+  }
+  .credit{
+    margin:.6rem 0 0;font-family:var(--mono);font-size:.66rem;line-height:1.5;
+    color:var(--faint);letter-spacing:.02em;
+  }
+  .credit a{color:var(--faint);border-bottom:1px solid var(--line)}
+  .credit a:hover{color:var(--ink)}
+  .scroll{overflow-x:auto;border:1px solid var(--line)}
+  table{border-collapse:collapse;width:100%;font-size:.86rem;min-width:32rem}
+  th,td{text-align:left;padding:.6rem .8rem;border-bottom:1px solid var(--hair);vertical-align:middle}
+  th{
+    font-family:var(--mono);font-size:.64rem;text-transform:uppercase;letter-spacing:.09em;
+    color:var(--faint);font-weight:600;background:var(--raise);white-space:nowrap;
+  }
+  tbody tr:last-child td{border-bottom:0}
   .item-thumb{align-self:start;padding-top:.15rem}
   .twin-thumb{margin-bottom:.9rem}
   .item h3{margin:0;font-weight:700;letter-spacing:-.028em;line-height:1.16;text-wrap:balance}
@@ -300,7 +320,7 @@
 <div class="topbar">
   <div class="topbar-in">
     <a class="brand" href="/">ai<em>.</em>lenta</a>
-    <span class="status"><span class="dot"></span>17:54 da yangilandi</span>
+    <span class="status"><span class="dot"></span>18:49 da yangilandi</span>
     <nav class="nav">
       <a href="/arxiv/">Arxiv</a>
       <a href="/mavzular/">Mavzular</a>
@@ -319,12 +339,13 @@
     <span class="eyebrow">Xabar</span>
     <h1>Sun'iy intellekt ongini o'rganish masalasi</h1>
     <p class="lede">The New York Times nashrining yozishicha, tadqiqotchilar sun'iy intellektning ongi bor-yo'qligini o'rganishmoqda. Ushbu mavzu bo'yicha munozaralar va botlarning o'z munosabati tahlil qilinmoqda.</p>
+    
     <div class="meta">
       
     <span class="pub">The New York Times</span>
     <span class="viamark">Google News orqali</span>
       
-      <span class="when-inline">1-sentabr, 06:10 · 12 soat oldin</span>
+      <span class="when-inline">1-sentabr, 06:10 · 13 soat oldin</span>
       <a class="chip" href="/mavzu/tadqiqot/">tadqiqot</a>
     </div>
   </article>
@@ -417,6 +438,7 @@
     <span>1-sentabr, 2026</span>
     <span><a href="/arxiv/">Arxiv</a></span>
     <span><a href="/rss.xml">RSS</a></span>
+    <span><a href="/rasmlar/">Suratlar</a></span>
   </footer>
 </div>
 

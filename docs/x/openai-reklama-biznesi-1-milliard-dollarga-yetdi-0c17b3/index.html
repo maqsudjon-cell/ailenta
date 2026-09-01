@@ -158,6 +158,26 @@
   }
   .item-body{min-width:0}
   .thumb{display:block;border-radius:6px;flex:none}
+  img.thumb{object-fit:cover;background:var(--raise)}
+  .hero-photo{margin:1.6rem 0 0}
+  .hero-photo img{
+    display:block;width:100%;height:auto;border-radius:4px;background:var(--raise);
+    aspect-ratio:16/9;object-fit:cover;
+  }
+  .credit{
+    margin:.6rem 0 0;font-family:var(--mono);font-size:.66rem;line-height:1.5;
+    color:var(--faint);letter-spacing:.02em;
+  }
+  .credit a{color:var(--faint);border-bottom:1px solid var(--line)}
+  .credit a:hover{color:var(--ink)}
+  .scroll{overflow-x:auto;border:1px solid var(--line)}
+  table{border-collapse:collapse;width:100%;font-size:.86rem;min-width:32rem}
+  th,td{text-align:left;padding:.6rem .8rem;border-bottom:1px solid var(--hair);vertical-align:middle}
+  th{
+    font-family:var(--mono);font-size:.64rem;text-transform:uppercase;letter-spacing:.09em;
+    color:var(--faint);font-weight:600;background:var(--raise);white-space:nowrap;
+  }
+  tbody tr:last-child td{border-bottom:0}
   .item-thumb{align-self:start;padding-top:.15rem}
   .twin-thumb{margin-bottom:.9rem}
   .item h3{margin:0;font-weight:700;letter-spacing:-.028em;line-height:1.16;text-wrap:balance}
@@ -301,7 +321,7 @@
 <div class="topbar">
   <div class="topbar-in">
     <a class="brand" href="/">ai<em>.</em>lenta</a>
-    <span class="status"><span class="dot"></span>17:54 da yangilandi</span>
+    <span class="status"><span class="dot"></span>18:49 da yangilandi</span>
     <nav class="nav">
       <a href="/arxiv/">Arxiv</a>
       <a href="/mavzular/">Mavzular</a>
@@ -320,12 +340,21 @@
     <span class="eyebrow">Xabar</span>
     <h1>OpenAI reklama biznesi 1 milliard dollarga yetdi</h1>
     <p class="lede">OpenAI kompaniyasining ChatGPT ilovasidagi reklama biznesi yillik 1 milliard dollar daromad darajasiga yetdi. Yil boshida ushbu reklama loyihasi raqib Anthropic kompaniyasi tomonidan masxara qilingan edi.</p>
+    
+    <figure class="hero-photo">
+      <img src="/photo/anthropic.jpg" alt="anthropic — arxiv surati" width="1200" height="675" loading="lazy" decoding="async">
+      <figcaption class="credit">
+        Arxiv surati · TechCrunch ·
+        <a href="https://commons.wikimedia.org/wiki/File:Dario_Amodei_at_TechCrunch_Disrupt_2023_05.jpg" target="_blank" rel="noopener nofollow">CC BY 2.0</a>,
+        Wikimedia Commons
+      </figcaption>
+    </figure>
     <div class="meta">
       
     <span class="pub">CNBC</span>
     
       
-      <span class="when-inline">31-avgust, 21:33 · 20 soat oldin</span>
+      <span class="when-inline">31-avgust, 21:33 · 21 soat oldin</span>
       <a class="chip" href="/mavzu/openai/">OpenAI</a><a class="chip" href="/mavzu/reklama/">reklama</a>
     </div>
   </article>
@@ -363,7 +392,7 @@
           <a class="chip" href="/mavzu/xavfsizlik/">xavfsizlik</a><a class="chip" href="/mavzu/openai/">OpenAI</a>
         </div>
       </div>
-      <a class="item-thumb" href="/x/garbda-yaratilgan-ai-xavfsizligi-boshqa-joylarda-ishlamayapt-26c9ee/" aria-hidden="true" tabindex="-1"><svg class="thumb" viewBox="0 0 64 64" width="64" height="64" aria-hidden="true"><rect width="64" height="64" rx="7" fill="#C2410C" opacity=".13"/><g opacity=".8"><circle cx="11" cy="11" r="6" fill="none" stroke="#C2410C" stroke-width="2" opacity="0.2"/><circle cx="11" cy="32" r="6" fill="none" stroke="#C2410C" stroke-width="2" opacity="0.3"/><rect x="30" y="4" width="3" height="13" rx="2" fill="#C2410C" opacity="0.3"/><rect x="30" y="25" width="3" height="13" rx="2" fill="#C2410C" opacity="0.5"/><circle cx="32" cy="53" r="6" fill="none" stroke="#C2410C" stroke-width="2" opacity="0.3"/><circle cx="53" cy="11" r="6" fill="none" stroke="#C2410C" stroke-width="2" opacity="0.4"/><rect x="52" y="25" width="3" height="13" rx="2" fill="#C2410C" opacity="0.3"/><rect x="52" y="47" width="3" height="13" rx="2" fill="#C2410C" opacity="0.5"/></g><circle cx="32" cy="32" r="17" fill="#fff" opacity=".92"/><g transform="translate(17 17) scale(1.25)"><path d="M12 3 L20 6 V12 C20 16.5 16.6 20 12 21.5 C7.4 20 4 16.5 4 12 V6 Z" fill="none" stroke="#C2410C" stroke-width="2" stroke-linejoin="round"/></g></svg></a>
+      <a class="item-thumb" href="/x/garbda-yaratilgan-ai-xavfsizligi-boshqa-joylarda-ishlamayapt-26c9ee/" aria-hidden="true" tabindex="-1"><img class="thumb photo" src="/photo/openai-sm.jpg" width="64" height="64" loading="lazy" decoding="async" alt=""></a>
     </article>
     <article class="item t3">
       <time class="when" datetime="2026-09-01T09:00:01.000Z">1-sen<br>14:00</time>
@@ -378,7 +407,7 @@
           <a class="chip" href="/mavzu/openai/">OpenAI</a><a class="chip" href="/mavzu/anthropic/">Anthropic</a>
         </div>
       </div>
-      <a class="item-thumb" href="/x/openai-va-anthropic-xatarlari-tahlil-qilindi-0c4c98/" aria-hidden="true" tabindex="-1"><svg class="thumb" viewBox="0 0 64 64" width="64" height="64" aria-hidden="true"><rect width="64" height="64" rx="7" fill="#0F766E" opacity=".13"/><g opacity=".8"><circle cx="11" cy="11" r="6" fill="#0F766E" opacity="0.8"/><circle cx="11" cy="32" r="6" fill="none" stroke="#0F766E" stroke-width="2" opacity="0.7"/><circle cx="32" cy="11" r="6" fill="#0F766E" opacity="0.4"/><rect x="25" y="30" width="13" height="3" rx="2" fill="#0F766E" opacity="0.2"/><rect x="47" y="9" width="13" height="3" rx="2" fill="#0F766E" opacity="0.5"/><circle cx="53" cy="32" r="6" fill="#0F766E" opacity="0.5"/></g><circle cx="32" cy="32" r="17" fill="#fff" opacity=".92"/><g transform="translate(17 17) scale(1.25)"><rect x="4" y="7" width="16" height="13" rx="1.5" fill="none" stroke="#0F766E" stroke-width="2"/><path d="M8 7 V4 H16 V7 M8 11.5 H16 M8 15.5 H13" fill="none" stroke="#0F766E" stroke-width="2" stroke-linejoin="round"/></g></svg></a>
+      <a class="item-thumb" href="/x/openai-va-anthropic-xatarlari-tahlil-qilindi-0c4c98/" aria-hidden="true" tabindex="-1"><img class="thumb photo" src="/photo/anthropic-sm.jpg" width="64" height="64" loading="lazy" decoding="async" alt=""></a>
     </article>
     <article class="item t2">
       <time class="when" datetime="2026-09-01T08:15:25.000Z">1-sen<br>13:15</time>
@@ -396,7 +425,7 @@
           <a class="chip" href="/mavzu/openai/">OpenAI</a><a class="chip" href="/mavzu/apple/">Apple</a>
         </div>
       </div>
-      <a class="item-thumb" href="/x/openai-apple-kompaniyasining-ayblovlarini-rad-etdi-cc43d2/" aria-hidden="true" tabindex="-1"><svg class="thumb" viewBox="0 0 64 64" width="64" height="64" aria-hidden="true"><rect width="64" height="64" rx="7" fill="#0F766E" opacity=".13"/><g opacity=".8"><circle cx="11" cy="11" r="6" fill="#0F766E" opacity="0.7"/><circle cx="11" cy="53" r="6" fill="#0F766E" opacity="0.2"/><circle cx="32" cy="11" r="6" fill="#0F766E" opacity="0.6"/><circle cx="32" cy="53" r="6" fill="#0F766E" opacity="0.4"/><rect x="47" y="30" width="13" height="3" rx="2" fill="#0F766E" opacity="0.3"/><rect x="52" y="47" width="3" height="13" rx="2" fill="#0F766E" opacity="0.8"/></g><circle cx="32" cy="32" r="17" fill="#fff" opacity=".92"/><g transform="translate(17 17) scale(1.25)"><rect x="4" y="7" width="16" height="13" rx="1.5" fill="none" stroke="#0F766E" stroke-width="2"/><path d="M8 7 V4 H16 V7 M8 11.5 H16 M8 15.5 H13" fill="none" stroke="#0F766E" stroke-width="2" stroke-linejoin="round"/></g></svg></a>
+      <a class="item-thumb" href="/x/openai-apple-kompaniyasining-ayblovlarini-rad-etdi-cc43d2/" aria-hidden="true" tabindex="-1"><img class="thumb photo" src="/photo/openai-sm.jpg" width="64" height="64" loading="lazy" decoding="async" alt=""></a>
     </article>
     <article class="item t3">
       <time class="when" datetime="2026-08-31T21:36:32.000Z">1-sen<br>02:36</time>
@@ -411,7 +440,7 @@
           <a class="chip" href="/mavzu/openai/">OpenAI</a><a class="chip" href="/mavzu/microsoft/">Microsoft</a>
         </div>
       </div>
-      <a class="item-thumb" href="/x/chatgpt-work-va-outlook-faoliyatida-uzilishlar-yuz-berdi-cc2bb3/" aria-hidden="true" tabindex="-1"><svg class="thumb" viewBox="0 0 64 64" width="64" height="64" aria-hidden="true"><rect width="64" height="64" rx="7" fill="#0F766E" opacity=".13"/><g opacity=".8"><rect x="4" y="9" width="13" height="3" rx="2" fill="#0F766E" opacity="0.8"/><circle cx="11" cy="53" r="6" fill="none" stroke="#0F766E" stroke-width="2" opacity="0.2"/><rect x="30" y="25" width="3" height="13" rx="2" fill="#0F766E" opacity="0.3"/><rect x="30" y="47" width="3" height="13" rx="2" fill="#0F766E" opacity="0.7"/><circle cx="53" cy="32" r="6" fill="none" stroke="#0F766E" stroke-width="2" opacity="0.3"/><circle cx="53" cy="53" r="6" fill="#0F766E" opacity="0.6"/></g><circle cx="32" cy="32" r="17" fill="#fff" opacity=".92"/><g transform="translate(17 17) scale(1.25)"><rect x="4" y="7" width="16" height="13" rx="1.5" fill="none" stroke="#0F766E" stroke-width="2"/><path d="M8 7 V4 H16 V7 M8 11.5 H16 M8 15.5 H13" fill="none" stroke="#0F766E" stroke-width="2" stroke-linejoin="round"/></g></svg></a>
+      <a class="item-thumb" href="/x/chatgpt-work-va-outlook-faoliyatida-uzilishlar-yuz-berdi-cc2bb3/" aria-hidden="true" tabindex="-1"><img class="thumb photo" src="/photo/microsoft-sm.jpg" width="64" height="64" loading="lazy" decoding="async" alt=""></a>
     </article>
   </section>
 
@@ -420,6 +449,7 @@
     <span>1-sentabr, 2026</span>
     <span><a href="/arxiv/">Arxiv</a></span>
     <span><a href="/rss.xml">RSS</a></span>
+    <span><a href="/rasmlar/">Suratlar</a></span>
   </footer>
 </div>
 

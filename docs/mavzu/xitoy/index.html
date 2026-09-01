@@ -155,6 +155,26 @@
   }
   .item-body{min-width:0}
   .thumb{display:block;border-radius:6px;flex:none}
+  img.thumb{object-fit:cover;background:var(--raise)}
+  .hero-photo{margin:1.6rem 0 0}
+  .hero-photo img{
+    display:block;width:100%;height:auto;border-radius:4px;background:var(--raise);
+    aspect-ratio:16/9;object-fit:cover;
+  }
+  .credit{
+    margin:.6rem 0 0;font-family:var(--mono);font-size:.66rem;line-height:1.5;
+    color:var(--faint);letter-spacing:.02em;
+  }
+  .credit a{color:var(--faint);border-bottom:1px solid var(--line)}
+  .credit a:hover{color:var(--ink)}
+  .scroll{overflow-x:auto;border:1px solid var(--line)}
+  table{border-collapse:collapse;width:100%;font-size:.86rem;min-width:32rem}
+  th,td{text-align:left;padding:.6rem .8rem;border-bottom:1px solid var(--hair);vertical-align:middle}
+  th{
+    font-family:var(--mono);font-size:.64rem;text-transform:uppercase;letter-spacing:.09em;
+    color:var(--faint);font-weight:600;background:var(--raise);white-space:nowrap;
+  }
+  tbody tr:last-child td{border-bottom:0}
   .item-thumb{align-self:start;padding-top:.15rem}
   .twin-thumb{margin-bottom:.9rem}
   .item h3{margin:0;font-weight:700;letter-spacing:-.028em;line-height:1.16;text-wrap:balance}
@@ -298,7 +318,7 @@
 <div class="topbar">
   <div class="topbar-in">
     <a class="brand" href="/">ai<em>.</em>lenta</a>
-    <span class="status"><span class="dot"></span>17:54 da yangilandi</span>
+    <span class="status"><span class="dot"></span>18:49 da yangilandi</span>
     <nav class="nav">
       <a href="/arxiv/">Arxiv</a>
       <a href="/mavzular/">Mavzular</a>
@@ -333,7 +353,7 @@
           <a class="chip" href="/mavzu/anthropic/">Anthropic</a><a class="chip" href="/mavzu/xitoy/">Xitoy</a>
         </div>
       </div>
-      <a class="item-thumb" href="/x/xitoy-anthropic-kompaniyasini-tanqid-qildi-382f32/" aria-hidden="true" tabindex="-1"><svg class="thumb" viewBox="0 0 64 64" width="64" height="64" aria-hidden="true"><rect width="64" height="64" rx="7" fill="#B45309" opacity=".13"/><g opacity=".8"><circle cx="11" cy="32" r="6" fill="#B45309" opacity="0.6"/><circle cx="11" cy="53" r="6" fill="#B45309" opacity="0.6"/><rect x="30" y="4" width="3" height="13" rx="2" fill="#B45309" opacity="0.7"/><rect x="25" y="30" width="13" height="3" rx="2" fill="#B45309" opacity="0.7"/><circle cx="53" cy="11" r="6" fill="#B45309" opacity="0.7"/><rect x="52" y="47" width="3" height="13" rx="2" fill="#B45309" opacity="0.5"/></g><circle cx="32" cy="32" r="17" fill="#fff" opacity=".92"/><g transform="translate(17 17) scale(1.25)"><rect x="4" y="7" width="16" height="13" rx="1.5" fill="none" stroke="#B45309" stroke-width="2"/><path d="M8 7 V4 H16 V7 M8 11.5 H16 M8 15.5 H13" fill="none" stroke="#B45309" stroke-width="2" stroke-linejoin="round"/></g></svg></a>
+      <a class="item-thumb" href="/x/xitoy-anthropic-kompaniyasini-tanqid-qildi-382f32/" aria-hidden="true" tabindex="-1"><img class="thumb photo" src="/photo/anthropic-sm.jpg" width="64" height="64" loading="lazy" decoding="async" alt=""></a>
     </article>
   </section>
 
@@ -344,6 +364,7 @@
     <span>1-sentabr, 2026</span>
     <span><a href="/arxiv/">Arxiv</a></span>
     <span><a href="/rss.xml">RSS</a></span>
+    <span><a href="/rasmlar/">Suratlar</a></span>
   </footer>
 </div>
 
