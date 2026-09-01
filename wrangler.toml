@@ -1,0 +1,17 @@
+# Cloudflare Worker — jadval uchun ishonchli soat.
+#
+# GitHub cron bu repozitoriyada bir marta ham ishlamadi (11 yugurishning
+# hammasi qo'lda turtilgan). Shuning uchun jadvalni Cloudflare yuritadi.
+#
+# Bu fayl ATAYLAB repozitoriyada turadi: ilgari u vaqtinchalik papkada edi
+# va o'chib ketgan, shu sababli cron sozlamasi ham yo'qolgan.
+#
+# Yoyish:  npx wrangler deploy
+# Maxfiy:  npx wrangler secret put GITHUB_TOKEN
+
+name = "ailenta-cron"
+main = "cloudflare-worker.js"
+compatibility_date = "2026-09-01"
+
+[triggers]
+crons = ["0 */3 * * *"]
