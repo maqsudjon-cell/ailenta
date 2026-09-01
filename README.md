@@ -79,10 +79,36 @@ Bular kodga kiritilgan, shunchaki niyat emas:
 5. Manba rasmlari olinmaydi.
 6. Aimastava kanali va sayti manba sifatida ishlatilmaydi.
 
+## Takrorni to'xtatish — uch qavat
+
+Bir voqea ikki marta chiqib ketmasligi eng qiyin qism bo'ldi. Uchta to'siq bor:
+
+1. **Havola** — ko'rilgan URL boshqa chiqmaydi (`data/seen.json`).
+2. **Sarlavha** — voqea chiqqanda uning *barcha* nashrlaridagi inglizcha
+   sarlavhalar eslab qolinadi; keyingi klaster shular bilan solishtiriladi.
+3. **Ma'no** — modelga oxirgi 40 ta chiqqan o'zbekcha sarlavha ko'rsatiladi va
+   voqea ro'yxatda bo'lsa u `skip` qaytaradi.
+
+Uchinchisi shart: nashrlar bir voqeani shunchalik boshqacha yozadiki, so'z
+solishtirish ushlamaydi. Angliya banki rahbarining bitta chiqishi uch xil
+sarlavha bilan chiqib ketdi — o'xshashlik 0.32 va 0.46 bo'lgan, chegara esa 0.45.
+
+Chiqib bo'lgan takrorlarni tozalash uchun:
+
+```bash
+node src/dedupe-posts.mjs          # nimani o'chirishini ko'rsatadi
+node src/dedupe-posts.mjs --apply  # o'chiradi
+```
+
+## Jonli
+
+- Sayt: https://ai.maqsudjon.com
+- Repo: https://github.com/maqsudjon-cell/ailenta
+- Ish oqimi har 3 soatda o'zi ishlaydi; qo'lda: Actions → Lenta → Run workflow
+
 ## Hozircha yo'q
 
-- `write.mjs` haqiqiy kalit bilan hali sinovdan o'tmagan (`data/posts.json` ni
-  vaqtincha `src/seed-posts.mjs` to'ldirgan — kalit ulangach u fayl o'chiriladi)
 - Alohida xabar sahifalari, teglar, kompaniya sahifalari
 - Kunlik dayjest va Telegram bot
 - RSS, sitemap, JSON-LD
+- GoatCounter va Search Console
