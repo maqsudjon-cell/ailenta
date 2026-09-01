@@ -160,6 +160,21 @@ bu qadam saytga chiqishdan oldin ishlaydi va havola hali mavjud bo'lmaydi.
 - Repo: https://github.com/maqsudjon-cell/ailenta
 - Ish oqimi har 3 soatda o'zi ishlaydi; qo'lda: Actions → Lenta → Run workflow
 
+## Audit
+
+```bash
+node src/audit.mjs
+```
+
+Har bir sahifada meta teglar, canonical, JSON-LD, `h1` soni, ichki havolalar,
+sitemap mosligi va sahifa vaznini tekshiradi. CI'da har yugurishda ishlaydi,
+lekin nashrni to'xtatmaydi (`continue-on-error`) — kosmetik xato tufayli
+yangilik chiqmay qolmasligi kerak.
+
+Nimalarni tutadi: takrorlangan sarlavha va tavsif, 60 belgidan uzun sarlavha,
+155 belgidan uzun tavsif, bo'sh joyga olib boradigan ichki havola, sitemapda
+bor-u sahifasi yo'q manzil, buzuq JSON-LD, `h1` yo'qligi yoki bir nechtaligi.
+
 ## Bepul tarif chegarasi
 
 Gemini bepul tarifida kunlik so'rov chegarasi bor va u **har bir model uchun
