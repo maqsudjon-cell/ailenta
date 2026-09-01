@@ -1,5 +1,164 @@
 [
   {
+    "id": "309be27bdcfe",
+    "slug": "openai-kiberxavfsizlik-boyicha-astra-modelini-taqdim-etdi-309be2",
+    "title": "OpenAI kiberxavfsizlik bo'yicha Astra modelini taqdim etdi",
+    "summary": "OpenAI o'zining Astra modelini e'lon qildi. Bu model kompaniyaning kiberxavfsizlik bo'yicha \"Critical\" (o'ta muhim) chegarasidan o'tgan birinchi modeli bo'ldi. Modelni chiqarishda xavfsizlik choralari kuchaytirilgan.",
+    "tags": [
+      "OpenAI",
+      "xavfsizlik"
+    ],
+    "importance": 4,
+    "score": 57,
+    "published": "2026-09-01T13:00:00.000Z",
+    "created": "2026-09-01T21:26:50.906Z",
+    "coverage": 4,
+    "source": {
+      "name": "OpenAI",
+      "url": "https://openai.com/index/path-to-astra",
+      "title": "Path to Astra: critical capabilities and frontier safeguards",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "Wired",
+        "url": "https://wired.com/story/openai-astra-first-ai-model-with-critical-cyber-abilities"
+      },
+      {
+        "name": "CNBC",
+        "url": "https://cnbc.com/2026/09/01/open-ai-astra-cyber-model.html"
+      },
+      {
+        "name": "Techmeme",
+        "url": "https://techmeme.com/260901/p44"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "f2c290a897de",
+    "slug": "meta-ichki-aloqa-uchun-slack-platformasiga-otmoqda-f2c290",
+    "title": "Meta ichki aloqa uchun Slack platformasiga o'tmoqda",
+    "summary": "Meta kompaniyasi ichki aloqa uchun Google Chat o'rniga Slack platformasidan foydalanishni boshlaydi. Kompaniyaning AI bo'limi rahbari Aleksandr Vangning ta'kidlashicha, Slack hozirda sun'iy intellekt agentlari uchun eng kuchli platforma hisoblanadi.",
+    "tags": [
+      "Meta",
+      "agentlar"
+    ],
+    "importance": 3,
+    "score": 27,
+    "published": "2026-09-01T20:30:00.000Z",
+    "created": "2026-09-01T21:26:50.907Z",
+    "coverage": 3,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/260901/p46",
+      "title": "Memo: Alexandr Wang says Meta is switching from Google Chat to Slack for internal communications as Slack is the \"strongest platform available today for agents\" (Business Insider)",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "Business Insider",
+        "url": "https://businessinsider.com/meta-switching-from-google-chat-slack-for-ai-agents-2026-9"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "5e190544cdfd",
+    "slug": "meta-muse-voice-transcribe-modelini-ishga-tushirdi-5e1905",
+    "title": "Meta Muse Voice Transcribe modelini ishga tushirdi",
+    "summary": "Meta AI Research real-time audio perception modeli Muse Voice Transcribe'ni taqdim etdi. U 70 dan ortiq tilda oqimli avtomatik nutqni aniqlash imkoniyatiga ega.",
+    "tags": [
+      "Meta",
+      "tadqiqot"
+    ],
+    "importance": 4,
+    "score": 24,
+    "published": "2026-09-01T19:50:01.000Z",
+    "created": "2026-09-01T21:28:34.165Z",
+    "coverage": 2,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/260901/p41",
+      "title": "Meta launches Muse Voice Transcribe, MSL's first real-time audio perception model, with streaming automatic speech recognition, trained with 70+ languages (Meta AI Research)",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "84c8424078f1",
+    "slug": "apple-openaiga-qarshi-sudga-yangi-dalillar-taqdim-etdi-84c842",
+    "title": "Apple OpenAIga qarshi sudga yangi dalillar taqdim etdi",
+    "summary": "Apple kompaniyasi OpenAIga qarshi sud jarayonida sobiq xodimining MacBook'idan \"hayratlanarli dalillar\" topganini ma'lum qildi. The Verge nashri Apple OpenAI'ni dalillarni yo'q qilishda ayblaganini xabar berdi.",
+    "tags": [
+      "Apple",
+      "OpenAI"
+    ],
+    "importance": 4,
+    "score": 23.6,
+    "published": "2026-09-01T20:19:11.000Z",
+    "created": "2026-09-01T21:28:34.166Z",
+    "coverage": 2,
+    "source": {
+      "name": "Hacker News",
+      "url": "https://9to5mac.com/2026/08/31/apple-openai-forensic-macbook-evidence",
+      "title": "Apple reveals 'shocking evidence' from ex-employee's MacBook in OpenAI suit",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "The Verge",
+        "url": "https://theverge.com/tech/987575/apple-openai-destroying-evidence-trade-secrets-lawsuit"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "389667d1ba01",
+    "slug": "ai-alpha-centauriga-sayohatni-rejalashtirdi-389667",
+    "title": "AI Alpha Centauriga sayohatni rejalashtirdi",
+    "summary": "Fermi Explorer Mission notijorat tashkiloti 2029-yil oxirigacha eng yaqin yulduz tizimiga kosmik kema uchirish niyatida ekanligini e'lon qildi. Ushbu missiya doirasida AI yordamida sayohat rejalashtirilgan.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 23,
+    "published": "2026-09-01T19:10:36.000Z",
+    "created": "2026-09-01T21:28:34.166Z",
+    "coverage": 1,
+    "source": {
+      "name": "MIT Technology Review",
+      "url": "https://technologyreview.com/2026/09/01/1143247/ai-interstellar-journey-alpha-centauri",
+      "title": "How AI plotted an interstellar journey to Alpha Centauri",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "44526c1223b0",
+    "slug": "kichik-transformer-koplab-llmlardan-ustun-keldi-44526c",
+    "title": "Kichik transformer ko'plab LLM'lardan ustun keldi",
+    "summary": "Bir foydalanuvchi 1.5 soat ichida kichik transformer modelini o'rgatib, uning ko'plab katta til modellaridan (LLM) ustunligini ma'lum qildi.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 23,
+    "published": "2026-09-01T09:52:45.000Z",
+    "created": "2026-09-01T21:28:34.166Z",
+    "coverage": 1,
+    "source": {
+      "name": "Hacker News",
+      "url": "https://mvakde.github.io/blog/44-on-arc-1",
+      "title": "I trained a small transformer in 1.5hrs and it beats many LLMs",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "123fd05b4f2a",
     "slug": "openai-codex-ilovasi-libreofficeni-oz-ichiga-oladi-123fd0",
     "title": "OpenAI Codex ilovasi LibreOffice'ni o'z ichiga oladi",
