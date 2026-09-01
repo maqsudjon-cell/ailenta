@@ -1,5 +1,79 @@
 [
   {
+    "id": "9f8c65530d2a",
+    "slug": "onerail-va-nvidia-yetkazib-berish-platformasini-yaratdi-9f8c65",
+    "title": "OneRail va Nvidia yetkazib berish platformasini yaratdi",
+    "summary": "OneRail kompaniyasi Nvidia bilan hamkorlikda chakana sotuvchilar uchun yangi platforma ishga tushirdi. Tizim sun'iy intellekt yordamida yetkazib berish bo'yicha tezroq va samaraliroq qarorlar qabul qilishga yordam beradi.",
+    "tags": [
+      "Nvidia",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 32,
+    "published": "2026-09-01T11:00:01.000Z",
+    "created": "2026-09-01T11:27:48.000Z",
+    "coverage": 2,
+    "source": {
+      "name": "CNBC",
+      "url": "https://cnbc.com/2026/09/01/onerail-nvidia-ai-delivery-platform.html",
+      "title": "OneRail launches AI platform with Nvidia for retailers to make faster delivery decisions",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "Hacker News",
+        "url": "https://hermit-tech.com/blog/ai-can-make-you-suck-faster-too"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "65ddc6652037",
+    "slug": "nvidia-dunyo-robotlarini-boshqarishni-xohlamoqda-65ddc6",
+    "title": "Nvidia dunyo robotlarini boshqarishni xohlamoqda",
+    "summary": "Nvidia kompaniyasi butun dunyodagi robotlarni boshqarishga intilmoqda. Xitoy esa ushbu texnologiyaning faol xaridoriga aylandi.",
+    "tags": [
+      "Nvidia",
+      "robototexnika"
+    ],
+    "importance": 3,
+    "score": 27,
+    "published": "2026-09-01T10:31:36.000Z",
+    "created": "2026-09-01T11:27:48.001Z",
+    "coverage": 1,
+    "source": {
+      "name": "WSJ",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYXl6OG5lWGF2aEJWbHVGdzRaVENwZXNZRTN2VFoxQXE2UnZfXzZ2YmVFa1ZFR1NnU3NpaGdlanRiSXNFSUVDbnRZOTU5SVlyY010RUhTRkVzNXo4MHBKWS1sUU45R3JEWk9SM0QtcXFFYTRyaTRMa2ZsM2thOGhIRjFVTXJvX2R3cC11Q1JXZUhUTzBsU25SaFdJdncxY3dtNmtJ",
+      "title": "Nvidia Wants to Run the World’s Robots. China Is an Eager Customer.",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "4e69db1748ec",
+    "slug": "apple-kompaniyasida-jon-ternus-davri-boshlandi-4e69db",
+    "title": "Apple kompaniyasida Jon Ternus davri boshlandi",
+    "summary": "Jon Ternus Apple bosh direktori sifatidagi faoliyatini boshladi. Bu davr kompaniya uchun xotira narxlari oshishi va sun'iy intellekt sohasidagi qiyinchiliklar kuchaygan vaqtga to'g'ri keldi.",
+    "tags": [
+      "Apple",
+      "biznes"
+    ],
+    "importance": 4,
+    "score": 19,
+    "published": "2026-09-01T11:00:01.000Z",
+    "created": "2026-09-01T11:27:48.001Z",
+    "coverage": 1,
+    "source": {
+      "name": "CNBC",
+      "url": "https://cnbc.com/2026/09/01/apple-enters-ternus-era-as-ai-challenges-and-memory-crunch-intensify.html",
+      "title": "Apple enters John Ternus era as AI challenges and memory crunch intensify",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "2b66fbd604bd",
     "slug": "hugging-face-kiberhujumi-kutilgandan-jiddiyroq-boldi-2b66fb",
     "title": "Hugging Face kiberhujumi kutilgandan jiddiyroq bo'ldi",
