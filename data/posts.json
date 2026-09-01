@@ -1,5 +1,119 @@
 [
   {
+    "id": "0bbcbe8195b3",
+    "slug": "wafer-startapi-sotib-olish-takliflarini-oldi-0bbcbe",
+    "title": "Wafer startapi sotib olish takliflarini oldi",
+    "summary": "Nvidia chiplaridan foydalanmaydigan Wafer startapi kompaniyani sotib olish bo'yicha takliflar oldi. Kompaniyaning qiymati 200 million dollardan ortiqqa baholanmoqda. Bu haqda The Information xabar berdi.",
+    "tags": [
+      "biznes",
+      "chiplar"
+    ],
+    "importance": 3,
+    "score": 30,
+    "published": "2026-09-01T14:03:30.000Z",
+    "created": "2026-09-01T14:18:35.906Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Information",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQWjQybGdBcVJFT1pkdUJlczZQUnE4WW5rREkxd0JpbjJocjFyNVJUcW1WVktsSTFab19zVUlaSVNETHltNG5WcGo3dF9EYlJOOExGdG9xdGdYZFEyalRmcElobHNqWWtnemphckFhSEU1VTUzTWlnczFkVkhNRXVSTEV6ZVo5Ylpkb0JEbDl1cDJHT19DOHZseDhHU1dSdmpwOUg3WFc4SGg0SV9YU0Jaa2o5Tm1HcmQ1bHdqVUMzMklGSkZPakFlSW5PbG5zQnczZGc2VENGNXZJVzVwYThaOXJJcl9aZw",
+      "title": "Wafer, An Inference Provider That Uses Non-Nvidia Chips, Lands Acquisition Offers and $200 Million-Plus Valuation",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "89376b22ad64",
+    "slug": "bosh-kompyuter-quvvatini-ijaraga-berib-pul-topish-89376b",
+    "title": "Bo'sh kompyuter quvvatini ijaraga berib pul topish",
+    "summary": "Foydalanuvchilar o'zlarining bo'sh turgan kompyuter quvvatlarini AI inference jarayonlari uchun ijaraga berib, daromad olishlari mumkin. Far Labs rahbari Ilman Shazhaev buni sun'iy intellekt uchun Uber yoki Airbnb xizmatiga o'xshatdi.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 28,
+    "published": "2026-09-01T14:00:03.000Z",
+    "created": "2026-09-01T14:18:35.906Z",
+    "coverage": 1,
+    "source": {
+      "name": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/ai-inference-distributed-computing",
+      "title": "Cash in on the AI Boom by Renting Out Your Spare Compute",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "7558009b0c92",
+    "slug": "meta-ai-yordamida-foydalanuvchi-yoshini-aniqlaydi-755800",
+    "title": "Meta AI yordamida foydalanuvchi yoshini aniqlaydi",
+    "summary": "Meta kompaniyasi foydalanuvchilarning yoshini aniqlash uchun sun'iy intellektdan foydalanmoqda. Raqamli huquq guruhlari bu yondashuvdan xavotirda, chunki yig'ilgan ma'lumotlar sizib chiqishi yoki noto'g'ri ishlatilishi mumkin.",
+    "tags": [
+      "Meta",
+      "maxfiylik"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-09-01T13:57:22.000Z",
+    "created": "2026-09-01T14:19:06.997Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/09/01/meta-age-checking-ai-scans",
+      "title": "Meta’s $18 billion settlement bets on AI to tell which users are kids, raising new privacy questions for kids and adults alike",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "17d6070cb1e3",
+    "slug": "raqamli-kamuflyaj-koylagi-ai-kameralarini-chalgitadi-17d607",
+    "title": "Raqamli kamuflyaj ko'ylagi AI kameralarini chalg'itadi",
+    "summary": "Simon Weckert tomonidan yaratilgan \"raqamli kamuflyaj\" ko'ylagi sun'iy intellektga asoslangan kuzatuv kameralarini chalg'itishga qodir. Bu kiyim AI tizimlarining aniqlash qobiliyatiga ta'sir ko'rsatadi.",
+    "tags": [
+      "xavfsizlik",
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 19,
+    "published": "2026-09-01T13:27:26.000Z",
+    "created": "2026-09-01T14:19:06.998Z",
+    "coverage": 1,
+    "source": {
+      "name": "404 Media",
+      "url": "https://404media.co/this-digital-camouflage-shirt-confuses-ai-powered-surveillance-cameras",
+      "title": "This 'Digital Camouflage' Shirt Confuses AI-Powered Surveillance Cameras",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "51cd5ec3c09f",
+    "slug": "eff-sudlarni-ai-sabab-mualliflik-huquqini-ozgartirmaslikka-c-51cd5e",
+    "title": "EFF sudlarni AI sabab mualliflik huquqini o'zgartirmaslikka chaqirdi",
+    "summary": "Electronic Frontier Foundation (EFF) sudlarga murojaat qilib, sun'iy intellektga bo'lgan qiziqish tufayli mualliflik huquqi qonunlarini qayta ko'rib chiqmaslikni so'radi. Tashkilot AI shov-shuvlari sababli huquqiy tizimda shoshilinch o'zgarishlar qilishga qarshi.",
+    "tags": [
+      "qonun",
+      "siyosat"
+    ],
+    "importance": 4,
+    "score": 18.3,
+    "published": "2026-09-01T12:53:51.000Z",
+    "created": "2026-09-01T14:19:06.998Z",
+    "coverage": 1,
+    "source": {
+      "name": "Hacker News",
+      "url": "https://eff.org/deeplinks/2026/08/eff-courts-dont-rewrite-copyright-over-ai-hype",
+      "title": "EFF to Courts: Don't Rewrite Copyright over AI Hype",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "2a55c995f991",
     "slug": "nvidia-rahbari-ai-yangi-ish-orinlari-yaratishini-aytdi-2a55c9",
     "title": "Nvidia rahbari AI yangi ish o'rinlari yaratishini aytdi",
