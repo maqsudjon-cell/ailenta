@@ -188,6 +188,13 @@ async function main() {
   const clusters = JSON.parse(await readFile(join(ROOT, "data/clusters.json"), "utf8"));
   if (!clusters.length) return console.log("Yangi klaster yo'q.");
 
+  // Jadval ikki marta ishga tushsa, ikkinchisida deyarli hamma narsa takror
+  // bo'ladi. Bir-ikkita arzimas klaster uchun bepul limitni sarflamaymiz.
+  const MIN_CLUSTERS = Number(process.env.MIN_CLUSTERS || 2);
+  if (clusters.length < MIN_CLUSTERS) {
+    return console.log(`Atigi ${clusters.length} ta yangi klaster — LLM chaqirilmadi.`);
+  }
+
   let posts = [];
   let seen = { urls: [], titles: [] };
   try { posts = JSON.parse(await readFile(join(ROOT, "data/posts.json"), "utf8")); } catch {}

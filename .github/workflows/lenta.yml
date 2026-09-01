@@ -4,9 +4,14 @@ name: Lenta
 # Qo'lda ham ishga tushirish mumkin (Actions > Lenta > Run workflow).
 on:
   schedule:
-    # Soat boshi (:00) GitHub'da eng band vaqt — jadval o'sha yerda kechikadi
-    # yoki umuman o'tkazib yuboriladi. Shuning uchun 21-daqiqa.
+    # GitHub jadvalni 20-50 daqiqa kechiktiradi va ba'zi vaqtlarni umuman
+    # o'tkazib yuboradi (bu shu akkauntdagi boshqa repoda ham kuzatildi:
+    # cron '15 */3' bo'lsa ham yugurishlar 00:36, 08:36, 14:07 da bo'lgan).
+    # Shuning uchun har uch soatlik oynaga ikkita vaqt qo'yamiz — biri
+    # o'tkazib yuborilsa, ikkinchisi ushlaydi. Takror yugurish arzon:
+    # yangi xabar bo'lmasa quvur LLM'ga umuman murojaat qilmaydi.
     - cron: "21 */3 * * *"
+    - cron: "51 */3 * * *"
   workflow_dispatch:
 
 permissions:
