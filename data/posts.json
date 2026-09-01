@@ -1,213 +1,5 @@
 [
   {
-    "id": "33c19167cd16",
-    "slug": "vmware-amd-bilan-hamkorlikda-loyiha-yaratmoqda-33c191",
-    "title": "VMware AMD bilan hamkorlikda loyiha yaratmoqda",
-    "summary": "VMware kompaniyasi Nvidia afzal ko'radigan \"AI factory\" brendi ostida uning raqobatchisi AMD bilan yangi loyiha ustida ishlamoqda. Mazkur loyiha foydalanuvchilarning tokenlar uchun xarajatlarini kamaytirishga qaratilgan.",
-    "tags": [
-      "VMware",
-      "AMD"
-    ],
-    "importance": 3,
-    "score": 21.5,
-    "published": "2026-08-31T20:48:35.000Z",
-    "created": "2026-09-01T10:05:30.279Z",
-    "coverage": 1,
-    "source": {
-      "name": "The Register",
-      "url": "https://theregister.com/virtualization/2026/08/31/vmware-uses-nvidia-favored-ai-factory-brand-to-build-something-with-rival-amd/5293520",
-      "title": "VMware uses Nvidia-favored 'AI factory' brand to build something with rival AMD",
-      "indirect": false
-    },
-    "also": [],
-    "model": "gemini"
-  },
-  {
-    "id": "6f3e144d7d71",
-    "slug": "instagram-ai-profillarga-cheklovlar-joriy-etmoqda-6f3e14",
-    "title": "Instagram AI profillarga cheklovlar joriy etmoqda",
-    "summary": "Instagram sun'iy intellekt yordamida yaratilganini oshkor qilmagan profillar qamrovini cheklamoqda. Bunga foydalanuvchilar bunday profillarni haqiqiysidan ajrata olmayotgani sabab bo'lgan. Ushbu qaror AI blogerlaridan norozilik kuchaygan bir paytda qabul qilindi.",
-    "tags": [
-      "Instagram"
-    ],
-    "importance": 4,
-    "score": 19.9,
-    "published": "2026-08-31T19:16:59.000Z",
-    "created": "2026-09-01T10:05:40.200Z",
-    "coverage": 2,
-    "source": {
-      "name": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles",
-      "title": "Instagram puts new limits on undisclosed AI profiles",
-      "indirect": false
-    },
-    "also": [
-      "The Decoder"
-    ],
-    "model": "gemini"
-  },
-  {
-    "id": "5ffd428abf10",
-    "slug": "hugging-face-ordak-robotining-savdosi-tezlashdi-5ffd42",
-    "title": "Hugging Face o'rdak-robotining savdosi tezlashdi",
-    "summary": "Hugging Face sho'ba korxonasi yaratgan \"Microduck\" roboti payshanba kunidan beri 10 000 dan ortiq nusxada sotildi. Rang-barang o'rdak-robot Xitoy chipi yordamida ishlaydi.",
-    "tags": [
-      "Hugging Face",
-      "robototexnika"
-    ],
-    "importance": 3,
-    "score": 19,
-    "published": "2026-09-01T07:30:49.000Z",
-    "created": "2026-09-01T10:05:40.200Z",
-    "coverage": 1,
-    "source": {
-      "name": "CNBC",
-      "url": "https://cnbc.com/2026/09/01/hugging-faces-new-duck-robot-is-selling-fast-a-chinese-chip-powers-it.html",
-      "title": "Hugging Face's new duck robot is selling fast. A Chinese chip powers it",
-      "indirect": false
-    },
-    "also": [],
-    "model": "gemini"
-  },
-  {
-    "id": "45ccaf860b66",
-    "slug": "anthropic-iposi-yangi-ai-listinglariga-yol-ochishi-mumkin-45ccaf",
-    "title": "Anthropic IPO'si yangi AI listinglariga yo'l ochishi mumkin",
-    "summary": "Madrona venchur kompaniyasiga ko'ra, Anthropic'ning aksiyalarni ommaviy joylashtirishi boshqa AI kompaniyalarining birjaga chiqishiga turtki beradi. Bu sohada yangi listinglar oqimini boshlab berishi kutilmoqda.",
-    "tags": [
-      "Anthropic",
-      "IPO"
-    ],
-    "importance": 3,
-    "score": 28.5,
-    "published": "2026-08-31T18:21:11.000Z",
-    "created": "2026-09-01T10:04:21.958Z",
-    "coverage": 1,
-    "source": {
-      "name": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbjBPN2VZOVJvMUhwNGJaY3NYdHkxaXU4VVpfSWJJdWMyY0VObFVKdVRTX215S092enlqVjJWZ1UyOUVxcl9RbWMySE84N2RHcTA2MWZFVW9PUnBrVzNBT2tROUdpSVpQbEhISFlQcktTU1YwWXQ0VGU3SnhTNzY5VmJDXzFyY1RTTHVLb3NkM1RlY0JBMlhyN21qSmtOcFpxc25XQTVTMEM1d19ueDJhMVp3",
-      "title": "Anthropic IPO Could Open AI Listings Floodgates: Madrona",
-      "indirect": true
-    },
-    "also": [],
-    "model": "gemini"
-  },
-  {
-    "id": "1ecc1c8708c9",
-    "slug": "anthropic-va-pentagon-ortasidagi-huquqiy-kurash-1ecc1c",
-    "title": "Anthropic va Pentagon o'rtasidagi huquqiy kurash",
-    "summary": "Bloomberg xabariga ko'ra, Anthropic kompaniyasining Pentagon bilan huquqiy kurashi sun'iy intellekt siyosatining o'zgarib borayotganini ko'rsatmoqda. Ushbu nizo sohadagi yangi siyosiy tendensiyalardan darak beradi.",
-    "tags": [
-      "Anthropic",
-      "Pentagon"
-    ],
-    "importance": 3,
-    "score": 25.6,
-    "published": "2026-08-31T11:02:00.000Z",
-    "created": "2026-09-01T10:04:21.962Z",
-    "coverage": 1,
-    "source": {
-      "name": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcENDVHNNVTNHclJ3dDhvdmZCQnppYV85bmt1Q1Q0RUxGcmhobTd4ZFd5WlZLdlVoMEZ3dUNYOEFkZFhzTUtCQnctUkVwZEowYW5pVmpBSmFMZXVJLUs5emhJMmhzMlhBSEFyMXJpQ0VwdmhYbUFGZ1pzdnBnckQwVlpNOVhETmtic1Bybld5QV9QZG0tc0FDX25NdnIyQnRydElMM2hmMEZYTktpN0tsR2dCNDVvNWNGSFZN",
-      "title": "Anthropic Legal Fight With Pentagon Shows Shifting Politics of AI",
-      "indirect": true
-    },
-    "also": [],
-    "model": "gemini"
-  },
-  {
-    "id": "4c7f2f6aaf00",
-    "slug": "claude-science-platformasida-nvidia-xizmatlari-ishga-tushdi-4c7f2f",
-    "title": "Claude Science platformasida Nvidia xizmatlari ishga tushdi",
-    "summary": "Claude Science platformasida oqsil tuzilishini prognoz qilish uchun Nvidia BioNeMo NIM mikroxizmatlarini ishga tushirish imkoniyati yaratildi. Bu haqda Nvidia Developer xabar bermoqda.",
-    "tags": [
-      "Nvidia",
-      "Anthropic"
-    ],
-    "importance": 2,
-    "score": 23.8,
-    "published": "2026-08-31T16:33:40.000Z",
-    "created": "2026-09-01T10:04:21.962Z",
-    "coverage": 1,
-    "source": {
-      "name": "NVIDIA Developer",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOblBOY1doemdyTjV5b3BRanJfUjU4Wm1HaGhHcy1YeWtsNno0bFd3d2JsNDI2bXhpS0k5S3JBZERQcTVSQ0RaLXhJUEJtNmpDM1FmQ2pTY3N1Vm1QaV81NmZaZVFoNGQzb0RhcUtHTlllNnJUcVN0Z3djUUFBd2d5QldtSl83c05hdGdzQ0tmb1hJTkZ4M2ExR1g4TXpRRWs0b2NiZEhwZFRyYmI1bktLUkYwa0x6dGkyYUp0NzI3VQ",
-      "title": "Run NVIDIA BioNeMo NIM Microservices for Protein Structure Prediction in Claude Science",
-      "indirect": true
-    },
-    "also": [],
-    "model": "gemini"
-  },
-  {
-    "id": "8f2ed9fd803c",
-    "slug": "meta-ai-agentlarni-tashqi-xotirani-tekshirishga-orgatdi-8f2ed9",
-    "title": "Meta AI agentlarni tashqi xotirani tekshirishga o'rgatdi",
-    "summary": "Meta AI mutaxassislari sun'iy intellekt agentlariga tashqi xotirani nafaqat qanday, balki qachon tekshirish kerakligini o'rgatdi. Bu haqda xenospectrum.com nashri xabar berdi.",
-    "tags": [
-      "Meta",
-      "agentlar"
-    ],
-    "importance": 3,
-    "score": 23.6,
-    "published": "2026-08-31T11:17:25.000Z",
-    "created": "2026-09-01T10:04:21.962Z",
-    "coverage": 2,
-    "source": {
-      "name": "Hacker News",
-      "url": "https://calpaterson.com/memoryfields.html",
-      "title": "Agent memory as a file format",
-      "indirect": false
-    },
-    "also": [
-      "xenospectrum.com"
-    ],
-    "model": "gemini"
-  },
-  {
-    "id": "883978f3c371",
-    "slug": "yurak-kasalligini-tez-aniqlovchi-ai-vositasi-883978",
-    "title": "Yurak kasalligini tez aniqlovchi AI vositasi",
-    "summary": "Shifokorlar yurak kasalligini ikki soniyadan kamroq vaqt ichida aniqlaydigan AI vositasini yaratishdi. Millionlab EKG ma'lumotlarida o'qitilgan ushbu texnologiya inson ko'zidan ko'ra ko'proq ma'lumotni tahlil qila oladi. Bu bemorlarni tezroq davolashga yordam beradi.",
-    "tags": [
-      "tibbiyot"
-    ],
-    "importance": 4,
-    "score": 20.6,
-    "published": "2026-08-31T16:00:29.000Z",
-    "created": "2026-09-01T10:04:34.932Z",
-    "coverage": 1,
-    "source": {
-      "name": "The Guardian",
-      "url": "https://theguardian.com/technology/2026/aug/31/superhuman-ai-tool-spots-heart-disease",
-      "title": "‘Superhuman’ AI tool spots heart disease in less than 2 seconds",
-      "indirect": false
-    },
-    "also": [],
-    "model": "gemini"
-  },
-  {
-    "id": "d06cf53a41ba",
-    "slug": "avstraliya-parlamentida-ai-gallyucinatsiyalari-aniqlandi-d06cf5",
-    "title": "Avstraliya parlamentida AI gallyucinatsiyalari aniqlandi",
-    "summary": "Guardian tahliliga ko'ra, Avstraliya parlamenti so'rovlariga yuborilgan o'nlab hujjatlarda AI yaratgan noto'g'ri ma'lumotlar aniqlangan. Tizim mavjud bo'lmagan tadqiqotlarni to'qib chiqargan materiallar bilan to'lib bormoqda. Bu holat parlamentning to'g'ri qaror qabul qilish jarayoniga ta'sir qilmoqda.",
-    "tags": [
-      "Avstraliya"
-    ],
-    "importance": 3,
-    "score": 20.2,
-    "published": "2026-08-31T15:00:29.000Z",
-    "created": "2026-09-01T10:04:34.932Z",
-    "coverage": 1,
-    "source": {
-      "name": "The Guardian",
-      "url": "https://theguardian.com/australia-news/2026/sep/01/how-misinformation-ai-hallucinations-infiltrating-australian-parliament",
-      "title": "‘Scary’: how misinformation and AI hallucinations are infiltrating Australia’s parliament",
-      "indirect": false
-    },
-    "also": [],
-    "model": "gemini"
-  },
-  {
     "id": "cc43d2af0aae",
     "slug": "openai-apple-kompaniyasining-ayblovlarini-rad-etdi-cc43d2",
     "title": "OpenAI Apple kompaniyasining ayblovlarini rad etdi",
@@ -268,6 +60,29 @@
         "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcjlMRWVYT1pXS1M1ZDJzeEt6TFJ6RjlINENGQ2JpcGZzaUxod0F5SFhTUWFoNFlRM1g3WG52YmVjWURUbE9WX2tqWk10TGdDNkN2QnA3WWYzdHJJaldsREVlTml6QnJWQXh6TW1UN3l1QmhPcUFMeXNsMnFnOWxVUFhfMEV4SHh5bi1lUnlpbHMtNlhGSnAyM0tqck5FYU1TSDU1N3V0Z2hFY3VFTWZCRXktcjZvczVk"
       }
     ],
+    "model": "gemini"
+  },
+  {
+    "id": "5ffd428abf10",
+    "slug": "hugging-face-ordak-robotining-savdosi-tezlashdi-5ffd42",
+    "title": "Hugging Face o'rdak-robotining savdosi tezlashdi",
+    "summary": "Hugging Face sho'ba korxonasi yaratgan \"Microduck\" roboti payshanba kunidan beri 10 000 dan ortiq nusxada sotildi. Rang-barang o'rdak-robot Xitoy chipi yordamida ishlaydi.",
+    "tags": [
+      "Hugging Face",
+      "robototexnika"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-09-01T07:30:49.000Z",
+    "created": "2026-09-01T10:05:40.200Z",
+    "coverage": 1,
+    "source": {
+      "name": "CNBC",
+      "url": "https://cnbc.com/2026/09/01/hugging-faces-new-duck-robot-is-selling-fast-a-chinese-chip-powers-it.html",
+      "title": "Hugging Face's new duck robot is selling fast. A Chinese chip powers it",
+      "indirect": false
+    },
+    "also": [],
     "model": "gemini"
   },
   {
@@ -553,6 +368,29 @@
     "model": "gemini"
   },
   {
+    "id": "33c19167cd16",
+    "slug": "vmware-amd-bilan-hamkorlikda-loyiha-yaratmoqda-33c191",
+    "title": "VMware AMD bilan hamkorlikda loyiha yaratmoqda",
+    "summary": "VMware kompaniyasi Nvidia afzal ko'radigan \"AI factory\" brendi ostida uning raqobatchisi AMD bilan yangi loyiha ustida ishlamoqda. Mazkur loyiha foydalanuvchilarning tokenlar uchun xarajatlarini kamaytirishga qaratilgan.",
+    "tags": [
+      "VMware",
+      "AMD"
+    ],
+    "importance": 3,
+    "score": 21.5,
+    "published": "2026-08-31T20:48:35.000Z",
+    "created": "2026-09-01T10:05:30.279Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/virtualization/2026/08/31/vmware-uses-nvidia-favored-ai-factory-brand-to-build-something-with-rival-amd/5293520",
+      "title": "VMware uses Nvidia-favored 'AI factory' brand to build something with rival AMD",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "bef216b73739",
     "slug": "pentagon-chatgpt-va-grok-versiyalariga-ega-boldi-bef216",
     "title": "Pentagon ChatGPT va Grok versiyalariga ega bo'ldi",
@@ -575,6 +413,53 @@
         "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE16UjRSUWU0dTZMbzg5a3Y5djU1d08teE55Wl9yM0N4ZjhacHFBS0thanQyTHZnN0lQVmNIWjFobV9hMS1xOE9ud0szbVVqazJwa0lIUzF4MVJrWFRMcjFRSU5OUlRIY1JyNXFkbEtrZkwyNDYxVEUw"
       }
     ],
+    "model": "gemini"
+  },
+  {
+    "id": "6f3e144d7d71",
+    "slug": "instagram-ai-profillarga-cheklovlar-joriy-etmoqda-6f3e14",
+    "title": "Instagram AI profillarga cheklovlar joriy etmoqda",
+    "summary": "Instagram sun'iy intellekt yordamida yaratilganini oshkor qilmagan profillar qamrovini cheklamoqda. Bunga foydalanuvchilar bunday profillarni haqiqiysidan ajrata olmayotgani sabab bo'lgan. Ushbu qaror AI blogerlaridan norozilik kuchaygan bir paytda qabul qilindi.",
+    "tags": [
+      "Instagram"
+    ],
+    "importance": 4,
+    "score": 19.9,
+    "published": "2026-08-31T19:16:59.000Z",
+    "created": "2026-09-01T10:05:40.200Z",
+    "coverage": 2,
+    "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles",
+      "title": "Instagram puts new limits on undisclosed AI profiles",
+      "indirect": false
+    },
+    "also": [
+      "The Decoder"
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "45ccaf860b66",
+    "slug": "anthropic-iposi-yangi-ai-listinglariga-yol-ochishi-mumkin-45ccaf",
+    "title": "Anthropic IPO'si yangi AI listinglariga yo'l ochishi mumkin",
+    "summary": "Madrona venchur kompaniyasiga ko'ra, Anthropic'ning aksiyalarni ommaviy joylashtirishi boshqa AI kompaniyalarining birjaga chiqishiga turtki beradi. Bu sohada yangi listinglar oqimini boshlab berishi kutilmoqda.",
+    "tags": [
+      "Anthropic",
+      "IPO"
+    ],
+    "importance": 3,
+    "score": 28.5,
+    "published": "2026-08-31T18:21:11.000Z",
+    "created": "2026-09-01T10:04:21.958Z",
+    "coverage": 1,
+    "source": {
+      "name": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbjBPN2VZOVJvMUhwNGJaY3NYdHkxaXU4VVpfSWJJdWMyY0VObFVKdVRTX215S092enlqVjJWZ1UyOUVxcl9RbWMySE84N2RHcTA2MWZFVW9PUnBrVzNBT2tROUdpSVpQbEhISFlQcktTU1YwWXQ0VGU3SnhTNzY5VmJDXzFyY1RTTHVLb3NkM1RlY0JBMlhyN21qSmtOcFpxc25XQTVTMEM1d19ueDJhMVp3",
+      "title": "Anthropic IPO Could Open AI Listings Floodgates: Madrona",
+      "indirect": true
+    },
+    "also": [],
     "model": "gemini"
   },
   {
@@ -654,7 +539,7 @@
   {
     "id": "9e8f1c6f6713",
     "slug": "si-gigantlari-sogliqni-saqlash-sohasiga-etibor-qaratmoqda-9e8f1c",
-    "title": "SI gigantlari sog'liqni saqlash sohasiga e'tibor qaratmoqda",
+    "title": "AI gigantlari sog'liqni saqlash sohasiga e'tibor qaratmoqda",
     "summary": "Sun'iy intellekt sohasidagi yirik kompaniyalar jamoatchilikning salbiy munosabatini yumshatishga harakat qilmoqda. Buning uchun ular sog'liqni saqlash yo'nalishiga ko'proq e'tibor qaratishni boshladi.",
     "tags": [
       "tibbiyot"
@@ -753,6 +638,29 @@
     "model": "gemini"
   },
   {
+    "id": "4c7f2f6aaf00",
+    "slug": "claude-science-platformasida-nvidia-xizmatlari-ishga-tushdi-4c7f2f",
+    "title": "Claude Science platformasida Nvidia xizmatlari ishga tushdi",
+    "summary": "Claude Science platformasida oqsil tuzilishini prognoz qilish uchun Nvidia BioNeMo NIM mikroxizmatlarini ishga tushirish imkoniyati yaratildi. Bu haqda Nvidia Developer xabar bermoqda.",
+    "tags": [
+      "Nvidia",
+      "Anthropic"
+    ],
+    "importance": 2,
+    "score": 23.8,
+    "published": "2026-08-31T16:33:40.000Z",
+    "created": "2026-09-01T10:04:21.962Z",
+    "coverage": 1,
+    "source": {
+      "name": "NVIDIA Developer",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOblBOY1doemdyTjV5b3BRanJfUjU4Wm1HaGhHcy1YeWtsNno0bFd3d2JsNDI2bXhpS0k5S3JBZERQcTVSQ0RaLXhJUEJtNmpDM1FmQ2pTY3N1Vm1QaV81NmZaZVFoNGQzb0RhcUtHTlllNnJUcVN0Z3djUUFBd2d5QldtSl83c05hdGdzQ0tmb1hJTkZ4M2ExR1g4TXpRRWs0b2NiZEhwZFRyYmI1bktLUkYwa0x6dGkyYUp0NzI3VQ",
+      "title": "Run NVIDIA BioNeMo NIM Microservices for Protein Structure Prediction in Claude Science",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "17daba0400ca",
     "slug": "anthropic-ogirlangan-hisoblarga-qarshi-kurashmoqda-17daba",
     "title": "Anthropic o'g'irlangan hisoblarga qarshi kurashmoqda",
@@ -791,6 +699,28 @@
     "model": "gemini"
   },
   {
+    "id": "883978f3c371",
+    "slug": "yurak-kasalligini-tez-aniqlovchi-ai-vositasi-883978",
+    "title": "Yurak kasalligini tez aniqlovchi AI vositasi",
+    "summary": "Shifokorlar yurak kasalligini ikki soniyadan kamroq vaqt ichida aniqlaydigan AI vositasini yaratishdi. Millionlab EKG ma'lumotlarida o'qitilgan ushbu texnologiya inson ko'zidan ko'ra ko'proq ma'lumotni tahlil qila oladi. Bu bemorlarni tezroq davolashga yordam beradi.",
+    "tags": [
+      "tibbiyot"
+    ],
+    "importance": 4,
+    "score": 20.6,
+    "published": "2026-08-31T16:00:29.000Z",
+    "created": "2026-09-01T10:04:34.932Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/technology/2026/aug/31/superhuman-ai-tool-spots-heart-disease",
+      "title": "‘Superhuman’ AI tool spots heart disease in less than 2 seconds",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "fb0f0626949d",
     "slug": "nvidia-mediatek-sarmoyasi-orqali-ornini-saqlamoqchi-fb0f06",
     "title": "Nvidia MediaTek sarmoyasi orqali o'rnini saqlamoqchi",
@@ -816,6 +746,28 @@
       "CTOL Digital Solutions",
       "The Korea Daily"
     ],
+    "model": "gemini"
+  },
+  {
+    "id": "d06cf53a41ba",
+    "slug": "avstraliya-parlamentida-ai-gallyucinatsiyalari-aniqlandi-d06cf5",
+    "title": "Avstraliya parlamentida AI gallyucinatsiyalari aniqlandi",
+    "summary": "Guardian tahliliga ko'ra, Avstraliya parlamenti so'rovlariga yuborilgan o'nlab hujjatlarda AI yaratgan noto'g'ri ma'lumotlar aniqlangan. Tizim mavjud bo'lmagan tadqiqotlarni to'qib chiqargan materiallar bilan to'lib bormoqda. Bu holat parlamentning to'g'ri qaror qabul qilish jarayoniga ta'sir qilmoqda.",
+    "tags": [
+      "Avstraliya"
+    ],
+    "importance": 3,
+    "score": 20.2,
+    "published": "2026-08-31T15:00:29.000Z",
+    "created": "2026-09-01T10:04:34.932Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/australia-news/2026/sep/01/how-misinformation-ai-hallucinations-infiltrating-australian-parliament",
+      "title": "‘Scary’: how misinformation and AI hallucinations are infiltrating Australia’s parliament",
+      "indirect": false
+    },
+    "also": [],
     "model": "gemini"
   },
   {
@@ -854,6 +806,54 @@
         "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQld2RWtFcDZKTFdOekJMY2NCclRFeWJnN1I0NUVrZHBzUXY4Z2t5Z2FZdEZmTmQtTkg2REtlWVZhcVhYSTViNG4zZzlzOVlPa09vVXVkV1g4ZWNScWNwdzllVm5ndUgzQzBjcUdJdTFGWndWcUp1aFY3MTNzVWY2YVN5M1dYRFpQbG9hLWZINlo1bHVqamxLN1VYWHJPREJQMEE"
       }
     ],
+    "model": "gemini"
+  },
+  {
+    "id": "8f2ed9fd803c",
+    "slug": "meta-ai-agentlarni-tashqi-xotirani-tekshirishga-orgatdi-8f2ed9",
+    "title": "Meta AI agentlarni tashqi xotirani tekshirishga o'rgatdi",
+    "summary": "Meta AI mutaxassislari sun'iy intellekt agentlariga tashqi xotirani nafaqat qanday, balki qachon tekshirish kerakligini o'rgatdi. Bu haqda xenospectrum.com nashri xabar berdi.",
+    "tags": [
+      "Meta",
+      "agentlar"
+    ],
+    "importance": 3,
+    "score": 23.6,
+    "published": "2026-08-31T11:17:25.000Z",
+    "created": "2026-09-01T10:04:21.962Z",
+    "coverage": 2,
+    "source": {
+      "name": "Hacker News",
+      "url": "https://calpaterson.com/memoryfields.html",
+      "title": "Agent memory as a file format",
+      "indirect": false
+    },
+    "also": [
+      "xenospectrum.com"
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "1ecc1c8708c9",
+    "slug": "anthropic-va-pentagon-ortasidagi-huquqiy-kurash-1ecc1c",
+    "title": "Anthropic va Pentagon o'rtasidagi huquqiy kurash",
+    "summary": "Bloomberg xabariga ko'ra, Anthropic kompaniyasining Pentagon bilan huquqiy kurashi sun'iy intellekt siyosatining o'zgarib borayotganini ko'rsatmoqda. Ushbu nizo sohadagi yangi siyosiy tendensiyalardan darak beradi.",
+    "tags": [
+      "Anthropic",
+      "Pentagon"
+    ],
+    "importance": 3,
+    "score": 25.6,
+    "published": "2026-08-31T11:02:00.000Z",
+    "created": "2026-09-01T10:04:21.962Z",
+    "coverage": 1,
+    "source": {
+      "name": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcENDVHNNVTNHclJ3dDhvdmZCQnppYV85bmt1Q1Q0RUxGcmhobTd4ZFd5WlZLdlVoMEZ3dUNYOEFkZFhzTUtCQnctUkVwZEowYW5pVmpBSmFMZXVJLUs5emhJMmhzMlhBSEFyMXJpQ0VwdmhYbUFGZ1pzdnBnckQwVlpNOVhETmtic1Bybld5QV9QZG0tc0FDX25NdnIyQnRydElMM2hmMEZYTktpN0tsR2dCNDVvNWNGSFZN",
+      "title": "Anthropic Legal Fight With Pentagon Shows Shifting Politics of AI",
+      "indirect": true
+    },
+    "also": [],
     "model": "gemini"
   },
   {
@@ -924,26 +924,6 @@
       "name": "OpenAI",
       "url": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
       "title": "OpenAI supports California’s bill to advance youth AI safety"
-    },
-    "also": [],
-    "model": "gemini"
-  },
-  {
-    "id": "44f61163770f",
-    "slug": "chatgpt-reklama-daromadi-1-milliard-dollarga-yetdi-44f611",
-    "title": "ChatGPT reklama daromadi 1 milliard dollarga yetdi",
-    "summary": "OpenAI kompaniyasining ChatGPT reklama daromadi yillik hisobda 1 milliard dollarga yetdi. Kompaniya ushbu xizmatni global miqyosda kengaytirmoqda. Bu bepul va arzonroq variantlar orqali sun'iy intellektdan foydalanish imkoniyatini oshiradi.",
-    "tags": [
-      "OpenAI"
-    ],
-    "importance": 3,
-    "score": 29,
-    "published": "2026-08-31T04:00:00.000Z",
-    "created": "2026-09-01T09:27:57.502Z",
-    "source": {
-      "name": "OpenAI",
-      "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
-      "title": "A milestone in expanding access to AI"
     },
     "also": [],
     "model": "gemini"

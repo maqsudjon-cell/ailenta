@@ -26,9 +26,9 @@ const dropped = [];
 
 for (const p of byAge) {
   const t = storyKey(p);
-  const twin = kept.find((k) => sameStory(t, k.toks));
+  const twin = kept.find((k) => sameStory(t, k.key));
   if (twin) dropped.push({ p, twin: twin.p });
-  else kept.push({ p, toks: t });
+  else kept.push({ p, key: t });
 }
 
 console.log(`${posts.length} ta xabar → ${kept.length} ta qoladi, ${dropped.length} ta takror\n`);

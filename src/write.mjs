@@ -43,6 +43,8 @@ QAT'IY QOIDALAR:
     Agar voqea o'sha ro'yxatda allaqachon bo'lsa — boshqa so'z bilan yozilgan
     bo'lsa ham, boshqa nashrdan kelgan bo'lsa ham — "skip": true qaytar.
     Yangi tafsilot qo'shilgani takroran chiqarish uchun asos bo'lmaydi.
+12. Shu javobning o'zida ikkita element bir voqea haqida bo'lsa, faqat bittasini
+    qoldir — qolganiga "skip": true qo'y.
 
 Javobni faqat JSON massiv sifatida qaytar, boshqa hech narsa yozma:
 [{"id":"<berilgan id>","title":"...","summary":"...","tags":["..."],"importance":1-5,"skip":false}]

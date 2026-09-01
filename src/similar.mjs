@@ -27,12 +27,22 @@ export function overlap(a, b) {
   return n;
 }
 
-// Ikki matn bir voqea haqidami? Kamida uchta jiddiy so'z umumiy bo'lishi va
-// qisqarog'ining yarmidan ko'pi mos kelishi shart.
+const containment = (a, b) => overlap(a, b) / Math.min(a.size, b.size || 1);
+
+// Ikki xabar bir voqea haqidami?
+//
+// Sarlavha va to'liq matn alohida solishtiriladi. Sarlavha aniqroq signal:
+// "OpenAI reklama biznesi 1 milliard dollarga yetdi" va "ChatGPT reklama
+// daromadi 1 milliard dollarga yetdi" — bir voqea, lekin xulosalari boshqacha
+// yozilgani uchun to'liq matn bo'yicha o'xshashlik 0.44 ga tushib qoladi.
+// Sarlavhalar bo'yicha esa 0.67.
 export function sameStory(a, b) {
-  const shared = overlap(a, b);
-  if (shared < 3) return false;
-  return shared / Math.min(a.size, b.size) >= 0.45;
+  if (overlap(a.title, b.title) >= 3 && containment(a.title, b.title) >= 0.6) return true;
+  if (overlap(a.full, b.full) < 3) return false;
+  return containment(a.full, b.full) >= 0.45;
 }
 
-export const storyKey = (post) => tokens(`${post.title} ${post.summary}`);
+export const storyKey = (post) => ({
+  title: tokens(post.title),
+  full: tokens(`${post.title} ${post.summary}`),
+});
