@@ -12,7 +12,7 @@ import { postPage, listPage, topicsPage, notFoundPage, photosPage, instagramPage
 import { caption } from "./instagram.mjs";
 import { slugTag } from "../templates/parts.mjs";
 import { buildImages } from "./images.mjs";
-import { ensurePhotos, photoFor } from "./photos.mjs";
+import { ensurePhotos, assignPhotos } from "./photos.mjs";
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
 const PUBLISH = "katta";
@@ -164,7 +164,10 @@ async function buildSite() {
   // Haqiqiy suratlar — Wikimedia Commons'dan, erkin litsenziya bilan.
   // Mos surat topilmagan xabar kod bilan chizilgan muqovada qoladi.
   const photoCache = await ensurePhotos(posts);
-  for (const p of posts) p.photo = await photoFor(p, photoCache);
+  // Navbat bilan taqsimlanadi, shuning uchun qo'shni xabarlarda bir xil
+  // surat chiqmaydi.
+  const assigned = await assignPhotos(posts, photoCache);
+  posts.forEach((p, i) => { p.photo = assigned[i]; });
   const withPhoto = posts.filter((p) => p.photo).length;
 
   // Muqova rasmlari sahifalardan oldin: og:image ular tayyor bo'lgach ishlaydi.

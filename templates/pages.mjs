@@ -216,7 +216,7 @@ ${topbar(now.hhmm)}
       <tbody>
         ${rows.map(([key, c]) => `<tr>
           <td><img src="${esc(c.thumb || c.src)}" width="40" height="40" alt="" loading="lazy"
-               style="border-radius:4px;object-fit:cover;vertical-align:middle;margin-right:.6rem">${esc(key)}</td>
+               style="border-radius:4px;object-fit:cover;vertical-align:middle;margin-right:.6rem">${esc(key.split("#")[0])}</td>
           <td>${esc(c.author)}</td>
           <td>${esc(c.license)}</td>
           <td><a href="${esc(c.page)}" target="_blank" rel="noopener nofollow">Commons</a></td>

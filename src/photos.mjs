@@ -38,8 +38,10 @@ async function loadMap() {
   FOCUS = raw.fokus || {};
   const entries = [];
   for (const group of ["odamlar", "kompaniyalar", "mavzular"]) {
-    for (const [key, file] of Object.entries(raw[group] || {})) {
-      entries.push({ key, file, group });
+    for (const [key, val] of Object.entries(raw[group] || {})) {
+      // Bir mavzuga bir nechta surat: ketma-ket xabarlarda bir xil rasm
+      // chiqmasligi uchun. Eski yozuvlar (bitta satr) ham ishlayveradi.
+      entries.push({ key, files: Array.isArray(val) ? val : [val], group });
     }
   }
   // Uzun nom oldin tekshirilsin: "john ternus" "apple" dan ustun turadi.
@@ -132,14 +134,28 @@ export async function ensurePhotos(posts) {
   const needed = new Map();
   for (const p of posts) {
     const e = await matchEntity(p);
-    if (e) needed.set(e.key, e.file);
+    if (e) needed.set(e.key, e.files);
   }
 
   await mkdir(join(ROOT, "docs/photo"), { recursive: true });
   let fetched = 0;
 
-  for (const [key, file] of needed) {
-    const name = `${slug(key)}.jpg`;
+  // Variantlar bitta ro'yxatga yoyiladi. Birinchisi eski nom bilan qoladi
+  // (qayta yuklab o'tirmaslik uchun), qolganlari -2, -3 qo'shimchasi bilan.
+  const jobs = [];
+  for (const [key, files] of needed) {
+    files.forEach((file, i) => {
+      jobs.push({
+        id: i === 0 ? key : `${key}#${i}`,
+        base: i === 0 ? slug(key) : `${slug(key)}-${i + 1}`,
+        file,
+      });
+    });
+  }
+
+  for (const { id, base, file } of jobs) {
+    const key = id;
+    const name = `${base}.jpg`;
     const local = join(ROOT, "docs/photo", name);
 
     if (cache[key]?.file === file && (await exists(local))) continue;
@@ -150,7 +166,7 @@ export async function ensurePhotos(posts) {
       if (!img.ok) throw new Error(`rasm ${img.status}`);
       await writeFile(local, Buffer.from(await img.arrayBuffer()));
 
-      const smallName = `${slug(key)}-sm.jpg`;
+      const smallName = `${base}-sm.jpg`;
       const small = await commonsInfo(file, THUMB_WIDTH);
       const smallImg = await fetch(small.url, { headers: { "user-agent": UA } });
       if (smallImg.ok) {
@@ -185,21 +201,49 @@ export async function ensurePhotos(posts) {
 // focus — suratni keng kartochkaga kesishda vertikal markaz. Tik suratni
 // markazdan kessak odamning boshi kesilib qoladi, shuning uchun har biriga
 // alohida qiymat berilgan.
-export async function photoFor(post, cache) {
+export async function photoFor(post, cache, variant = 0) {
   const e = await matchEntity(post);
   if (!e) return null;
-  const c = cache[e.key];
-  if (!c) return null;
   await loadMap();
+  const i = ((variant % e.files.length) + e.files.length) % e.files.length;
+  const key = i === 0 ? e.key : `${e.key}#${i}`;
+  const c = cache[key] || cache[e.key];
+  if (!c) return null;
   // Fokus o'zi hisoblanadi; ro'yxatdagi qiymat faqat qoida xato bo'lgan
   // kamdan-kam holat uchun (masalan robotning boshi suratning eng tepasida).
   return { ...c, entity: e.key, focus: FOCUS[e.key] ?? c.focus ?? 0.5 };
 }
 
+// Butun ro'yxatga surat taqsimlaydi.
+//
+// NEGA BITTALAB EMAS. Har mavzuga bitta surat biriktirilganda Anthropic
+// haqidagi 18 ta xabar bitta rasmni ulashardi va lentada ketma-ket ikki
+// bir xil surat chiqardi. Tasodifiy tanlash ham buni yechmaydi — qo'shni
+// ikkitasi baribir bir xil tushishi mumkin.
+//
+// Shuning uchun navbat: har mavzu uchun hisoblagich yuritiladi va ro'yxat
+// bo'ylab suratlar aylanadi. Bu qo'shni xabarlarda bir xil rasmni MUTLAQO
+// istisno qiladi va natija barqaror — bir xil ro'yxat har doim bir xil
+// taqsimot beradi.
+export async function assignPhotos(posts, cache) {
+  const seen = new Map();
+  const out = [];
+  for (const post of posts) {
+    const e = await matchEntity(post);
+    if (!e) { out.push(null); continue; }
+    const n = seen.get(e.key) || 0;
+    seen.set(e.key, n + 1);
+    out.push(await photoFor(post, cache, n));
+  }
+  return out;
+}
+
 if (process.argv[1] && process.argv[1].endsWith("photos.mjs")) {
   const posts = JSON.parse(await readFile(join(ROOT, "data/posts.json"), "utf8"));
   const cache = await ensurePhotos(posts);
-  let withPhoto = 0;
-  for (const p of posts) if (await photoFor(p, cache)) withPhoto++;
+  const assigned = await assignPhotos(posts, cache);
+  const withPhoto = assigned.filter(Boolean).length;
+  const used = new Set(assigned.filter(Boolean).map((a) => a.src));
+  console.log(`  ${used.size} xil surat ishlatilyapti`);
   console.log(`  ${withPhoto}/${posts.length} ta xabarda haqiqiy surat bor`);
 }

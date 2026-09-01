@@ -1,17 +1,38 @@
 {
-  "_izoh": "Xabar mavzusiga mos haqiqiy suratlar. Har biri Wikimedia Commons'dan, erkin litsenziya bilan. Fayllar QO'LDA tanlangan: avtomatik qidiruv aloqasiz suratlarni qaytaradi (MediaTek so'ralganda Bundesarchiv arxivi, AMD so'ralganda AQSh armiyasi chiqdi). Ro'yxatda yo'q mavzu uchun kod bilan chizilgan muqova ishlatiladi.",
+  "_izoh": "Xabar mavzusiga mos haqiqiy suratlar. Har biri Wikimedia Commons'dan, erkin litsenziya bilan. Fayllar QO'LDA tanlangan: avtomatik qidiruv aloqasiz suratlarni qaytaradi (MediaTek so'ralganda Bundesarchiv arxivi, AMD so'ralganda AQSh armiyasi chiqdi). Bir mavzuga bir nechta surat berilsa, ular NAVBAT bilan aylanadi — shuning uchun ketma-ket xabarlarda bir xil rasm chiqmaydi. Ro'yxatda yo'q mavzu uchun kod bilan chizilgan muqova ishlatiladi.",
   "kompaniyalar": {
-    "anthropic": "Dario Amodei at TechCrunch Disrupt 2023 05.jpg",
-    "openai": "Sam Altman CropEdit James Tamim.jpg",
-    "nvidia": "NVIDIA Headquarters.jpg",
+    "anthropic": [
+      "Dario Amodei at TechCrunch Disrupt 2023 05.jpg",
+      "Dario Amodei in 2023.jpg",
+      "Jared Kaplan 2025.jpg",
+      "Dario Amodei at TechCrunch Disrupt 2023 08.jpg"
+    ],
+    "openai": [
+      "Sam Altman CropEdit James Tamim.jpg",
+      "Pioneer Building, San Francisco (2019) -1.jpg",
+      "1515 Third Street.jpg",
+      "“Sam Altman” by Village Global (Cropped).jpg"
+    ],
+    "nvidia": [
+      "NVIDIA Headquarters.jpg",
+      "Nvidia campus aerial.jpg",
+      "Nvidiaheadquarters.jpg"
+    ],
     "apple": "Apple Park aerial view, June 2024.jpg",
     "meta": "Meta Platforms Headquarters Menlo Park California.jpg",
     "microsoft": "Aerial Microsoft West Campus August 2009.jpg",
-    "google": "Sundar Pichai - 2023 (cropped).jpg",
+    "google": [
+      "Sundar Pichai - 2023 (cropped).jpg",
+      "Google I-O 2019.jpg"
+    ],
     "salesforce": "Salesforce Tower 2020.jpg",
     "amd": "2485 Augustine Drive headquarters in Santa Clara, California.jpg",
     "asml": "ASML headquarters Veldhoven.jpg",
-    "mediatek": "MediaTek Taipei Branch in Hall C, Solar Technology Square 20191103.jpg",
+    "mediatek": [
+      "MediaTek Taipei Branch in Hall C, Solar Technology Square 20191103.jpg",
+      "MediaTek Taipei Branch in Solar Technology Square C building 2016-05-24.jpg",
+      "MediaTek Taipei Branch in Hall C, Solar Technology Square 20110217.jpg"
+    ],
     "pentagon": "Aerial Closeup of the Pentagon, May 11, 2021.jpg"
   },
   "odamlar": {
@@ -19,8 +40,15 @@
     "tim cook": "Tim Cook (2017, cropped).jpg",
     "jensen huang": "Jensen huang stanford 2026-04-30 007.jpg",
     "sundar pichai": "Sundar Pichai - 2023 (cropped).jpg",
-    "sam altman": "Sam Altman CropEdit James Tamim.jpg",
-    "dario amodei": "Dario Amodei at TechCrunch Disrupt 2023 05.jpg",
+    "sam altman": [
+      "Sam Altman CropEdit James Tamim.jpg",
+      "“Sam Altman” by Village Global (Cropped).jpg"
+    ],
+    "dario amodei": [
+      "Dario Amodei at TechCrunch Disrupt 2023 05.jpg",
+      "Dario Amodei in 2023.jpg",
+      "Dario Amodei at TechCrunch Disrupt 2023 08.jpg"
+    ],
     "endryu beyli": "Andrew Bailey and Jane Hartley.jpg",
     "donald tramp": "Donald Trump official portrait (cropped).jpg"
   },

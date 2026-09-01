@@ -158,5 +158,115 @@
     "license": "CC BY-SA 3.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
     "page": "https://commons.wikimedia.org/wiki/File:BalticServers_data_center.jpg"
+  },
+  "anthropic#1": {
+    "file": "Dario Amodei in 2023.jpg",
+    "src": "/photo/anthropic-2.jpg",
+    "thumb": "/photo/anthropic-2-sm.jpg",
+    "focus": 0.18,
+    "author": "UK Prime Minister",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Dario_Amodei_in_2023.jpg"
+  },
+  "anthropic#2": {
+    "file": "Jared Kaplan 2025.jpg",
+    "src": "/photo/anthropic-3.jpg",
+    "thumb": "/photo/anthropic-3-sm.jpg",
+    "focus": 0.18,
+    "author": "TechCrunch",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Jared_Kaplan_2025.jpg"
+  },
+  "anthropic#3": {
+    "file": "Dario Amodei at TechCrunch Disrupt 2023 08.jpg",
+    "src": "/photo/anthropic-4.jpg",
+    "thumb": "/photo/anthropic-4-sm.jpg",
+    "focus": 0.5,
+    "author": "TechCrunch",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Dario_Amodei_at_TechCrunch_Disrupt_2023_08.jpg"
+  },
+  "openai#1": {
+    "file": "Pioneer Building, San Francisco (2019) -1.jpg",
+    "src": "/photo/openai-2.jpg",
+    "thumb": "/photo/openai-2-sm.jpg",
+    "focus": 0.5,
+    "author": "HaeB",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Pioneer_Building,_San_Francisco_(2019)_-1.jpg"
+  },
+  "openai#2": {
+    "file": "1515 Third Street.jpg",
+    "src": "/photo/openai-3.jpg",
+    "thumb": "/photo/openai-3-sm.jpg",
+    "focus": 0.5,
+    "author": "Coolcaesar",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:1515_Third_Street.jpg"
+  },
+  "openai#3": {
+    "file": "“Sam Altman” by Village Global (Cropped).jpg",
+    "src": "/photo/openai-4.jpg",
+    "thumb": "/photo/openai-4-sm.jpg",
+    "focus": 0.18,
+    "author": "Village Global",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:%E2%80%9CSam_Altman%E2%80%9D_by_Village_Global_(Cropped).jpg"
+  },
+  "google#1": {
+    "file": "Google I-O 2019.jpg",
+    "src": "/photo/google-2.jpg",
+    "thumb": "/photo/google-2-sm.jpg",
+    "focus": 0.5,
+    "author": "Александр Щербаков",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Google_I-O_2019.jpg"
+  },
+  "mediatek#1": {
+    "file": "MediaTek Taipei Branch in Solar Technology Square C building 2016-05-24.jpg",
+    "src": "/photo/mediatek-2.jpg",
+    "thumb": "/photo/mediatek-2-sm.jpg",
+    "focus": 0.18,
+    "author": "Padai",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:MediaTek_Taipei_Branch_in_Solar_Technology_Square_C_building_2016-05-24.jpg"
+  },
+  "mediatek#2": {
+    "file": "MediaTek Taipei Branch in Hall C, Solar Technology Square 20110217.jpg",
+    "src": "/photo/mediatek-3.jpg",
+    "thumb": "/photo/mediatek-3-sm.jpg",
+    "focus": 0.18,
+    "author": "Solomon203",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:MediaTek_Taipei_Branch_in_Hall_C,_Solar_Technology_Square_20110217.jpg"
+  },
+  "nvidia#1": {
+    "file": "Nvidia campus aerial.jpg",
+    "src": "/photo/nvidia-2.jpg",
+    "thumb": "/photo/nvidia-2-sm.jpg",
+    "focus": 0.28,
+    "author": "Dicklyon",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Nvidia_campus_aerial.jpg"
+  },
+  "nvidia#2": {
+    "file": "Nvidiaheadquarters.jpg",
+    "src": "/photo/nvidia-3.jpg",
+    "thumb": "/photo/nvidia-3-sm.jpg",
+    "focus": 0.35,
+    "author": "Coolcaesar at English Wikipedia",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Nvidiaheadquarters.jpg"
   }
 }
