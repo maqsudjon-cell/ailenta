@@ -1,5 +1,73 @@
 [
   {
+    "id": "2b66fbd604bd",
+    "slug": "hugging-face-kiberhujumi-kutilgandan-jiddiyroq-boldi-2b66fb",
+    "title": "Hugging Face kiberhujumi kutilgandan jiddiyroq bo'ldi",
+    "summary": "Hugging Face platformasiga qilingan kiberhujum kutilganidan ko'ra jiddiyroq oqibatlarga olib kelgani ma'lum bo'ldi. Mazkur voqea fonida sun'iy intellekt sanoatida texnologiyalar rivojlanishini sekinlashtirish bo'yicha chaqiriqlar yangramoqda.",
+    "tags": [
+      "Hugging Face",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 22,
+    "published": "2026-09-01T00:40:27.000Z",
+    "created": "2026-09-01T10:35:36.283Z",
+    "coverage": 1,
+    "source": {
+      "name": "Platformer",
+      "url": "https://platformer.news/openai-huggingface-metr-report-slowdown",
+      "title": "The Hugging Face attack was worse than we thought",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "cc2bb3b64bb0",
+    "slug": "chatgpt-work-va-outlook-faoliyatida-uzilishlar-yuz-berdi-cc2bb3",
+    "title": "ChatGPT Work va Outlook faoliyatida uzilishlar yuz berdi",
+    "summary": "Dushanba kuni OpenAI kompaniyasining ChatGPT Work xizmati ba'zi foydalanuvchilar uchun ishlamay qoldi. Shuningdek, Microsoft kompaniyasi Exchange Online tizimida muammolar borligini ma'lum qildi.",
+    "tags": [
+      "OpenAI",
+      "Microsoft"
+    ],
+    "importance": 3,
+    "score": 18.6,
+    "published": "2026-08-31T21:36:32.000Z",
+    "created": "2026-09-01T10:35:48.532Z",
+    "coverage": 1,
+    "source": {
+      "name": "CNBC",
+      "url": "https://cnbc.com/2026/08/31/microsoft-outlook-and-openais-chatgpt-work-experience-outages-.html",
+      "title": "Microsoft Outlook and OpenAI's ChatGPT Work are experiencing user outages",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "a62fb3314999",
+    "slug": "sugurta-mutaxassislari-suniy-intellektni-yoqtirmaydi-a62fb3",
+    "title": "Sug'urta mutaxassislari sun'iy intellektni yoqtirmaydi",
+    "summary": "Glassdoor platformasidagi sug'urta mutaxassislarining sun'iy intellekt haqidagi fikrlari o'rganilganda, ularning 98 foizi salbiy bo'lib chiqdi. Soha xodimlari sun'iy intellektni shunchaki vosita deb hisoblaydi.",
+    "tags": [
+      "mehnat bozori"
+    ],
+    "importance": 2,
+    "score": 18.2,
+    "published": "2026-08-31T10:30:00.000Z",
+    "created": "2026-09-01T10:35:48.533Z",
+    "coverage": 1,
+    "source": {
+      "name": "Wired",
+      "url": "https://wired.com/story/insurance-claims-adjusters-really-hate-ai",
+      "title": "You Know Who Really Hates AI? Insurance Claims Adjusters",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "a2596898e5e1",
     "slug": "ish-joylarida-ai-keng-ammo-yuzaki-qollanilmoqda-a25968",
     "title": "Ish joylarida AI keng, ammo yuzaki qo'llanilmoqda",
