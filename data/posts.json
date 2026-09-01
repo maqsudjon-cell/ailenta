@@ -1,5 +1,77 @@
 [
   {
+    "id": "17fd322bfe13",
+    "slug": "anthropic-malumotlarni-saqlash-siyosatini-ozgartirdi-17fd32",
+    "title": "Anthropic ma'lumotlarni saqlash siyosatini o'zgartirdi",
+    "summary": "Anthropic kompaniyasi mijozlar e'tirozidan so'ng Enterprise Frontier Safeguards tizimini ishga tushirdi. Yangi vosita korxonalarga o'z ma'lumotlarini tekshirish, saqlash va boshqarishni nazorat qilish imkonini beradi.",
+    "tags": [
+      "Anthropic",
+      "maxfiylik"
+    ],
+    "importance": 3,
+    "score": 34,
+    "published": "2026-09-01T18:29:17.000Z",
+    "created": "2026-09-01T18:52:36.470Z",
+    "coverage": 3,
+    "source": {
+      "name": "CNBC",
+      "url": "https://cnbc.com/2026/09/01/anthropic-data-retention.html",
+      "title": "Anthropic changes data retention policy after pushback from customers",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "Techmeme",
+        "url": "https://techmeme.com/260901/p36"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "adbb48cd09c0",
+    "slug": "oklahoma-shahri-yozuvlar-uchun-yuqori-haq-talab-qildi-adbb48",
+    "title": "Oklahoma shahri yozuvlar uchun yuqori haq talab qildi",
+    "summary": "Oklahomada shahar fermerdan ma'lumot markazi bilan bog'liq hibsga olish yozuvlari uchun 17,125.44 dollar talab qilgan. Shtat shaharga bu miqdorni undira olmasligini aytdi.",
+    "tags": [
+      "qonun"
+    ],
+    "importance": 2,
+    "score": 19,
+    "published": "2026-09-01T13:49:42.000Z",
+    "created": "2026-09-01T18:52:50.290Z",
+    "coverage": 1,
+    "source": {
+      "name": "404 Media",
+      "url": "https://404media.co/oklahoma-tells-city-it-cant-charge-17-125-44-for-a-records-request-related-to-data-center-arrest",
+      "title": "Oklahoma Tells City It Can't Charge $17,125.44 for a Records Request Related to Data Center Arrest",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "d1bfe22b3e8d",
+    "slug": "dwarf-fortress-ijodkori-ai-sanoati-inqirozda-dedi-d1bfe2",
+    "title": "Dwarf Fortress ijodkori AI sanoati inqirozda dedi",
+    "summary": "\"Dwarf Fortress\" o'yinining yaratuvchisi sun'iy intellekt sanoati inqiroz holatida ekanligini ta'kidladi. Uning fikricha, bu soha jiddiy muammolarga duch kelmoqda.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 18.8,
+    "published": "2026-09-01T15:53:42.000Z",
+    "created": "2026-09-01T18:52:50.290Z",
+    "coverage": 1,
+    "source": {
+      "name": "Hacker News",
+      "url": "https://pcgamer.com/gaming-industry/dwarf-fortress-creator-says-the-industrys-in-shambles-over-ai-and-layoff-happy-ceos-everyone-i-know-their-bosses-are-slowly-getting-psychosis",
+      "title": "Dwarf Fortress' creator says the industry's in shambles over AI",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "4f1080483383",
     "slug": "anthropic-yangi-claude-fable-5-1-modelini-chiqardi-4f1080",
     "title": "Anthropic yangi Claude Fable 5.1 modelini chiqardi",
