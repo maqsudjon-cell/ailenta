@@ -1,5 +1,76 @@
 [
   {
+    "id": "33c19167cd16",
+    "slug": "vmware-amd-bilan-hamkorlikda-loyiha-yaratmoqda-33c191",
+    "title": "VMware AMD bilan hamkorlikda loyiha yaratmoqda",
+    "summary": "VMware kompaniyasi Nvidia afzal ko'radigan \"AI factory\" brendi ostida uning raqobatchisi AMD bilan yangi loyiha ustida ishlamoqda. Mazkur loyiha foydalanuvchilarning tokenlar uchun xarajatlarini kamaytirishga qaratilgan.",
+    "tags": [
+      "VMware",
+      "AMD"
+    ],
+    "importance": 3,
+    "score": 21.5,
+    "published": "2026-08-31T20:48:35.000Z",
+    "created": "2026-09-01T10:05:30.279Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/virtualization/2026/08/31/vmware-uses-nvidia-favored-ai-factory-brand-to-build-something-with-rival-amd/5293520",
+      "title": "VMware uses Nvidia-favored 'AI factory' brand to build something with rival AMD",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "6f3e144d7d71",
+    "slug": "instagram-ai-profillarga-cheklovlar-joriy-etmoqda-6f3e14",
+    "title": "Instagram AI profillarga cheklovlar joriy etmoqda",
+    "summary": "Instagram sun'iy intellekt yordamida yaratilganini oshkor qilmagan profillar qamrovini cheklamoqda. Bunga foydalanuvchilar bunday profillarni haqiqiysidan ajrata olmayotgani sabab bo'lgan. Ushbu qaror AI blogerlaridan norozilik kuchaygan bir paytda qabul qilindi.",
+    "tags": [
+      "Instagram",
+      "AI"
+    ],
+    "importance": 4,
+    "score": 19.9,
+    "published": "2026-08-31T19:16:59.000Z",
+    "created": "2026-09-01T10:05:40.200Z",
+    "coverage": 2,
+    "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles",
+      "title": "Instagram puts new limits on undisclosed AI profiles",
+      "indirect": false
+    },
+    "also": [
+      "The Decoder"
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "5ffd428abf10",
+    "slug": "hugging-face-ordak-robotining-savdosi-tezlashdi-5ffd42",
+    "title": "Hugging Face o'rdak-robotining savdosi tezlashdi",
+    "summary": "Hugging Face sho'ba korxonasi yaratgan \"Microduck\" roboti payshanba kunidan beri 10 000 dan ortiq nusxada sotildi. Rang-barang o'rdak-robot Xitoy chipi yordamida ishlaydi.",
+    "tags": [
+      "Hugging Face",
+      "robototexnika"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-09-01T07:30:49.000Z",
+    "created": "2026-09-01T10:05:40.200Z",
+    "coverage": 1,
+    "source": {
+      "name": "CNBC",
+      "url": "https://cnbc.com/2026/09/01/hugging-faces-new-duck-robot-is-selling-fast-a-chinese-chip-powers-it.html",
+      "title": "Hugging Face's new duck robot is selling fast. A Chinese chip powers it",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "45ccaf860b66",
     "slug": "anthropic-iposi-yangi-ai-listinglariga-yol-ochishi-mumkin-45ccaf",
     "title": "Anthropic IPO'si yangi AI listinglariga yo'l ochishi mumkin",
