@@ -120,6 +120,29 @@ Har bir sahifada JSON-LD (`NewsArticle`, `ItemList`, `BreadcrumbList`,
 `src/indexnow.mjs` yangi manzillarni Bing va Yandex'ga darhol bildiradi
 (kalit fayli `docs/<kalit>.txt` — **o'chirmang**, bu egalik isboti).
 
+## Rasmlar
+
+Sayt faqat harflardan iborat bo'lmasligi uchun har bir xabarning muqovasi bor.
+**Hech bir rasm sun'iy intellekt bilan yaratilmaydi va birovning suratidan
+olinmaydi** — hammasi kod bilan chiziladi:
+
+| Bo'lak | Nima qiladi |
+| --- | --- |
+| `templates/marks.mjs` | Brend belgisi, 23 ta mavzu rangi, 17 ta qo'lda chizilgan piktogramma |
+| `src/cover.mjs` | Muqova (1200×630) va lentadagi kichik rasm |
+| `src/images.mjs` | PNG chizish (`@resvg/resvg-js`), favicon, kanal logotipi |
+
+Rasm tarkibi: mavzudan kelib chiqqan rang, mavzu piktogrammasi (qalqon =
+xavfsizlik, bolg'a = sud, chip = chiplar...) va xabar identifikatoridan hosil
+bo'ladigan geometrik naqsh. Bir xil xabar har doim bir xil rasm beradi.
+
+Kompaniya logotiplari ishlatilmadi: Simple Icons to'plamida OpenAI, Microsoft,
+Amazon, Salesforce va IBM yo'q (brendlar so'rovi bilan olib tashlangan), ya'ni
+eng ko'p yozadigan kompaniyalarimiz rasmsiz qolardi.
+
+Shriftlar (`assets/fonts/`) repo ichida turadi — natija mahalliy kompyuterda
+ham, GitHub Actions ichida ham bir xil chiqadi.
+
 ## Telegram
 
 `src/telegram.mjs` shu yugurishda saytga chiqqan xabarlarni kanalga yuboradi
@@ -127,15 +150,26 @@ Har bir sahifada JSON-LD (`NewsArticle`, `ItemList`, `BreadcrumbList`,
 Ikkita secret kerak: `TELEGRAM_BOT_TOKEN` va `TELEGRAM_CHAT_ID`. Ular bo'lmasa
 qadam jimgina o'tkazib yuboriladi.
 
+Muhimlik 4+ bo'lgan xabarlar darhol chiqadi, qolganlari ertalab 09:00 dagi
+dayjestga (`src/digest.mjs`). Rasm **havola bilan emas, fayl bo'lib** yuboriladi:
+bu qadam saytga chiqishdan oldin ishlaydi va havola hali mavjud bo'lmaydi.
+
 ## Jonli
 
 - Sayt: https://ai.maqsudjon.com
 - Repo: https://github.com/maqsudjon-cell/ailenta
 - Ish oqimi har 3 soatda o'zi ishlaydi; qo'lda: Actions → Lenta → Run workflow
 
+## Bepul tarif chegarasi
+
+Gemini bepul tarifida kunlik so'rov chegarasi bor va u **har bir model uchun
+alohida** hisoblanadi. Chegara tugasa `write.mjs` keyingi modelga o'tadi:
+`gemini-3.5-flash` → `gemini-2.5-flash` → `gemini-flash-latest`. Aks holda
+o'sha yugurishdagi xabarlar butunlay yo'qolardi.
+
 ## Hozircha yo'q
 
-- Alohida xabar sahifalari, teglar, kompaniya sahifalari
-- Kunlik dayjest va Telegram bot
-- RSS, sitemap, JSON-LD
-- GoatCounter va Search Console
+- Qo'lda yoziladigan tahlil maqolalari
+- Kompaniya sahifalari (`/kompaniya/openai/`)
+- O'zbekcha AI lug'ati
+- Haftalik xulosa
