@@ -1,5 +1,74 @@
 [
   {
+    "id": "123fd05b4f2a",
+    "slug": "openai-codex-ilovasi-libreofficeni-oz-ichiga-oladi-123fd0",
+    "title": "OpenAI Codex ilovasi LibreOffice'ni o'z ichiga oladi",
+    "summary": "OpenAI Codex ish stoli ilovasi (hozirgi ChatGPT) o'zining runtime papkasida 1.7 GB hajmdagi ma'lumotlarni saqlaydi. Ular orasida LibreOffice, Python va Node.js kabi dasturiy ta'minotlar mavjud.",
+    "tags": [
+      "OpenAI",
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 21,
+    "published": "2026-09-01T19:03:01.000Z",
+    "created": "2026-09-01T19:21:04.441Z",
+    "coverage": 1,
+    "source": {
+      "name": "Simon Willison",
+      "url": "https://simonwillison.net/2026/Sep/1/codex-libreoffice",
+      "title": "Codex bundles LibreOffice",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "d45a12d0cb5a",
+    "slug": "nori-robotics-arzon-gumanoid-robotni-taqdim-etdi-d45a12",
+    "title": "Nori Robotics arzon gumanoid robotni taqdim etdi",
+    "summary": "Nori Robotics (YC S26) kompaniyasi ishlab chiqish uchun mo'ljallangan arzon gumanoid robotni ishga tushirdi. Bu robototexnika sohasida yangi imkoniyatlar yaratishi kutilmoqda.",
+    "tags": [
+      "robototexnika",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 20,
+    "published": "2026-09-01T17:35:10.000Z",
+    "created": "2026-09-01T19:21:04.442Z",
+    "coverage": 1,
+    "source": {
+      "name": "Hacker News",
+      "url": "https://norirobotics.com",
+      "title": "Launch HN: Nori Robotics (YC S26) – A low-cost humanoid robot for development",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "60d804d76874",
+    "slug": "llm-tokenlarining-ortacha-narxi-97-sentga-tushdi-60d804",
+    "title": "LLM tokenlarining o'rtacha narxi 97 sentga tushdi",
+    "summary": "Katta til modellari (LLM) tokenlarining har millioni uchun o'rtacha narx 97 sentga tushdi. Bu narx 28-maydagi 2.07 dollardan keskin pasayganini ko'rsatadi.",
+    "tags": [
+      "iqtisod",
+      "biznes"
+    ],
+    "importance": 4,
+    "score": 18,
+    "published": "2026-09-01T17:20:02.000Z",
+    "created": "2026-09-01T19:21:04.442Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/260901/p32",
+      "title": "LLM Token Expenditure Index: average cost per million tokens has fallen to 97 cents, part of a sharp months-long decline since hitting a high of $2.07 on May 28 (Alex Harring/CNBC)",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "17fd322bfe13",
     "slug": "anthropic-malumotlarni-saqlash-siyosatini-ozgartirdi-17fd32",
     "title": "Anthropic ma'lumotlarni saqlash siyosatini o'zgartirdi",

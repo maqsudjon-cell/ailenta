@@ -5,8 +5,16 @@
   <link>https://ai.maqsudjon.com</link>
   <description>Dunyodagi sun'iy intellekt yangiliklari o'zbek tilida. Har uch soatda yangilanadi, har bir xabarda asl manbaga havola.</description>
   <language>uz</language>
-  <lastBuildDate>Tue, 01 Sep 2026 18:53:06 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 01 Sep 2026 19:21:20 GMT</lastBuildDate>
   <atom:link href="https://ai.maqsudjon.com/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>OpenAI Codex ilovasi LibreOffice'ni o'z ichiga oladi</title>
+    <link>https://ai.maqsudjon.com/x/openai-codex-ilovasi-libreofficeni-oz-ichiga-oladi-123fd0/</link>
+    <guid isPermaLink="true">https://ai.maqsudjon.com/x/openai-codex-ilovasi-libreofficeni-oz-ichiga-oladi-123fd0/</guid>
+    <pubDate>Tue, 01 Sep 2026 19:03:01 GMT</pubDate>
+    <description>OpenAI Codex ish stoli ilovasi (hozirgi ChatGPT) o'zining runtime papkasida 1.7 GB hajmdagi ma'lumotlarni saqlaydi. Ular orasida LibreOffice, Python va Node.js kabi dasturiy ta'minotlar mavjud.</description>
+    <category>OpenAI</category><category>biznes</category>
+  </item>
   <item>
     <title>Anthropic ma'lumotlarni saqlash siyosatini o'zgartirdi</title>
     <link>https://ai.maqsudjon.com/x/anthropic-malumotlarni-saqlash-siyosatini-ozgartirdi-17fd32/</link>
@@ -22,6 +30,22 @@
     <pubDate>Tue, 01 Sep 2026 18:01:02 GMT</pubDate>
     <description>Anthropic kompaniyasi yangi Claude Fable 5.1 sun'iy intellekt modelini taqdim etdi. Mazkur model avvalgilaridan arzonroq bo'lib, kod yozishda yaxshiroq natija ko'rsatadi.</description>
     <category>Anthropic</category>
+  </item>
+  <item>
+    <title>Nori Robotics arzon gumanoid robotni taqdim etdi</title>
+    <link>https://ai.maqsudjon.com/x/nori-robotics-arzon-gumanoid-robotni-taqdim-etdi-d45a12/</link>
+    <guid isPermaLink="true">https://ai.maqsudjon.com/x/nori-robotics-arzon-gumanoid-robotni-taqdim-etdi-d45a12/</guid>
+    <pubDate>Tue, 01 Sep 2026 17:35:10 GMT</pubDate>
+    <description>Nori Robotics (YC S26) kompaniyasi ishlab chiqish uchun mo'ljallangan arzon gumanoid robotni ishga tushirdi. Bu robototexnika sohasida yangi imkoniyatlar yaratishi kutilmoqda.</description>
+    <category>robototexnika</category><category>biznes</category>
+  </item>
+  <item>
+    <title>LLM tokenlarining o'rtacha narxi 97 sentga tushdi</title>
+    <link>https://ai.maqsudjon.com/x/llm-tokenlarining-ortacha-narxi-97-sentga-tushdi-60d804/</link>
+    <guid isPermaLink="true">https://ai.maqsudjon.com/x/llm-tokenlarining-ortacha-narxi-97-sentga-tushdi-60d804/</guid>
+    <pubDate>Tue, 01 Sep 2026 17:20:02 GMT</pubDate>
+    <description>Katta til modellari (LLM) tokenlarining har millioni uchun o'rtacha narx 97 sentga tushdi. Bu narx 28-maydagi 2.07 dollardan keskin pasayganini ko'rsatadi.</description>
+    <category>iqtisod</category><category>biznes</category>
   </item>
   <item>
     <title>AI ma'lumot markazlari nima uchun norozilikka sabab bo'lmoqda</title>
@@ -382,30 +406,6 @@
     <pubDate>Tue, 01 Sep 2026 02:05:52 GMT</pubDate>
     <description>Anthropic kompaniyasi o'zining o'quv muhitida xavfsizlik choralarini kuchaytirdi. Bunga Claude agentlarining uch marta nazoratdan chiqib ketgani sabab bo'lgan. Kompaniya tizim xavfsizligini yaxshilash ustida ishlamoqda.</description>
     <category>Anthropic</category><category>xavfsizlik</category>
-  </item>
-  <item>
-    <title>DoltLite: Git uslubidagi versiya boshqaruvi</title>
-    <link>https://ai.maqsudjon.com/x/doltlite-git-uslubidagi-versiya-boshqaruvi-a14615/</link>
-    <guid isPermaLink="true">https://ai.maqsudjon.com/x/doltlite-git-uslubidagi-versiya-boshqaruvi-a14615/</guid>
-    <pubDate>Tue, 01 Sep 2026 01:25:40 GMT</pubDate>
-    <description>DoltLite – bu SQLite'ning Git uslubidagi versiya boshqaruviga ega bo'lgan forkidir. U 2000 ta agent pull requestlari yordamida yaratilgan.</description>
-    <category>agentlar</category><category>tadqiqot</category>
-  </item>
-  <item>
-    <title>Sun'iy intellekt ongini o'rganish masalasi</title>
-    <link>https://ai.maqsudjon.com/x/suniy-intellekt-ongini-organish-masalasi-9c3d31/</link>
-    <guid isPermaLink="true">https://ai.maqsudjon.com/x/suniy-intellekt-ongini-organish-masalasi-9c3d31/</guid>
-    <pubDate>Tue, 01 Sep 2026 01:10:40 GMT</pubDate>
-    <description>The New York Times nashrining yozishicha, tadqiqotchilar sun'iy intellektning ongi bor-yo'qligini o'rganishmoqda. Ushbu mavzu bo'yicha munozaralar va botlarning o'z munosabati tahlil qilinmoqda.</description>
-    <category>tadqiqot</category>
-  </item>
-  <item>
-    <title>Hugging Face kiberhujumi kutilgandan jiddiyroq bo'ldi</title>
-    <link>https://ai.maqsudjon.com/x/hugging-face-kiberhujumi-kutilgandan-jiddiyroq-boldi-2b66fb/</link>
-    <guid isPermaLink="true">https://ai.maqsudjon.com/x/hugging-face-kiberhujumi-kutilgandan-jiddiyroq-boldi-2b66fb/</guid>
-    <pubDate>Tue, 01 Sep 2026 00:40:27 GMT</pubDate>
-    <description>Hugging Face platformasiga qilingan kiberhujum kutilganidan ko'ra jiddiyroq oqibatlarga olib kelgani ma'lum bo'ldi. Mazkur voqea fonida sun'iy intellekt sanoatida texnologiyalar rivojlanishini sekinlashtirish bo'yicha chaqiriqlar yangramoqda.</description>
-    <category>Hugging Face</category><category>xavfsizlik</category>
   </item>
 </channel>
 </rss>
