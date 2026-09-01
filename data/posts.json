@@ -1,5 +1,147 @@
 [
   {
+    "id": "f451fe0dbc3a",
+    "slug": "yevropa-suniy-intellekt-poygasini-toxtatishi-mumkin-f451fe",
+    "title": "Yevropa sun'iy intellekt poygasini to'xtatishi mumkin",
+    "summary": "Yevropa Ittifoqining ASML kompaniyasi uskunalarini eksport qilishni taqiqlashi sun'iy intellekt poygasini to'xtatishi mumkin. Ko'pchilik ushbu poygani halokatli deb hisoblaydi. Jarayon ekologik inqiroz, ishsizlik va moliyaviy muammolarga olib kelishi taxmin qilinmoqda.",
+    "tags": [
+      "Yevropa Ittifoqi",
+      "ASML"
+    ],
+    "importance": 3,
+    "score": 26,
+    "published": "2026-09-01T04:00:45.000Z",
+    "created": "2026-09-01T09:33:17.604Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/commentisfree/2026/sep/01/from-bill-gates-to-bernie-sanders-most-agree-the-ai-arms-race-is-disastrous-only-europe-can-make-it-stop",
+      "title": "From Bill Gates to Bernie Sanders, most agree the AI arms race is disastrous. Only Europe can make it stop",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "cc43d2af0aae",
+    "slug": "openai-apple-kompaniyasining-ayblovlarini-rad-etdi-cc43d2",
+    "title": "OpenAI Apple kompaniyasining ayblovlarini rad etdi",
+    "summary": "OpenAI kompaniyasi Apple tomonidan bildirilgan tijorat sirlarini o'g'irlash haqidagi ayblovlarni rad etdi. Kompaniya ushbu nizoni Apple'ning o'zi keltirib chiqarganini ta'kidlamoqda. Avvalroq Apple OpenAI'ga qarshi da'volarini kengaytirgan edi.",
+    "tags": [
+      "OpenAI",
+      "Apple"
+    ],
+    "importance": 4,
+    "score": 24,
+    "published": "2026-09-01T08:15:25.000Z",
+    "created": "2026-09-01T09:33:17.605Z",
+    "coverage": 2,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/260901/p2",
+      "title": "Filing: OpenAI denies Apple's allegations of trade secret theft, saying \"this dispute is a mess of Apple's own making, and it is trying to blame everyone else\" (Deepa Seetharaman/Reuters)",
+      "indirect": false
+    },
+    "also": [
+      "Engadget"
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "4469201f7484",
+    "slug": "angliya-banki-rahbari-suniy-intellekt-xavfidan-ogohlantirdi-446920",
+    "title": "Angliya banki rahbari sun'iy intellekt xavfidan ogohlantirdi",
+    "summary": "Angliya banki rahbari Endryu Beyli yangi sun'iy intellekt modellari global moliyaviy tizimga kiberxavflarni oshirishi haqida ogohlantirdi. Shuningdek, u sun'iy intellektning shishirilgan qiymati va yuqori leveraj navbatdagi moliyaviy inqirozni keltirib chiqarishi mumkinligini aytdi.",
+    "tags": [
+      "moliya",
+      "kiberxavfsizlik"
+    ],
+    "importance": 4,
+    "score": 21.8,
+    "published": "2026-08-31T13:35:11.000Z",
+    "created": "2026-09-01T09:33:29.256Z",
+    "coverage": 2,
+    "source": {
+      "name": "CNBC",
+      "url": "https://cnbc.com/2026/08/31/bailey-frontier-ai-financial-stability-risk.html",
+      "title": "Bank of England chief warns new AI models threaten global financial stability",
+      "indirect": false
+    },
+    "also": [
+      "The Decoder"
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "b50a876629a2",
+    "slug": "anthropic-xodimlarining-yozishmalari-sudda-dalil-boldi-b50a87",
+    "title": "Anthropic xodimlarining yozishmalari sudda dalil bo'ldi",
+    "summary": "Sony kompaniyasining da'vo arizasida Anthropic xodimlarining qaroqchilikni qo'llab-quvvatlagan ichki yozishmalari keltirildi. Xususan, xodimlar chatlarda \"Zlibrary\" kutubxonasini maqtagan.",
+    "tags": [
+      "Anthropic",
+      "sud"
+    ],
+    "importance": 3,
+    "score": 21.7,
+    "published": "2026-08-31T18:10:45.000Z",
+    "created": "2026-09-01T09:33:29.256Z",
+    "coverage": 1,
+    "source": {
+      "name": "Ars Technica",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWEMzRFNoaThybmlLa0dpWnprZ2FpOG1PRHdYQkltanRRMFdKNVlPUkdqYzNlZWV1SVExQW9HRmRNelBDb2pEQUNXclM4Q1VnX3MyZHFMVjZDelI4X1lqYURiM0dxZnV0UnFRcDQzbnJmOGpDby1oSE43c0l5MU00aTdHRlUxMEowTG1FclI0REgtdVdnNlRrbER4SWZSV1VaQUVRcWhxMlh1RXRCSE9mTlphbVBrZTJma1c5Z1BYNA",
+      "title": "“Zlibrary my beloved”: Anthropic staff chats extolling piracy cited in Sony suit",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "9e8f1c6f6713",
+    "slug": "si-gigantlari-sogliqni-saqlash-sohasiga-etibor-qaratmoqda-9e8f1c",
+    "title": "SI gigantlari sog'liqni saqlash sohasiga e'tibor qaratmoqda",
+    "summary": "Sun'iy intellekt sohasidagi yirik kompaniyalar jamoatchilikning salbiy munosabatini yumshatishga harakat qilmoqda. Buning uchun ular sog'liqni saqlash yo'nalishiga ko'proq e'tibor qaratishni boshladi.",
+    "tags": [
+      "tibbiyot",
+      "texnologiya"
+    ],
+    "importance": 3,
+    "score": 21.2,
+    "published": "2026-08-31T17:04:35.000Z",
+    "created": "2026-09-01T09:33:29.256Z",
+    "coverage": 1,
+    "source": {
+      "name": "axios.com",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbVUyQzVGMlRnN1JyWFVjTDg4YV9QZzYwTDRHdVg5ZzNUemJTU2hwbUpBckdJbndjRnlBczFWV2xrU0V2Mlp2QmktVHFWLVQ5VVpvcjBfaTBYS3VFSjg3U0tZR3g0ckVKNXNsek9Bckp0R3BubTJvdnBfVWMxZDV5ZEpLa1lvUQ",
+      "title": "AI giants lean into health care to stall public backlash",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "4e0f1439942e",
+    "slug": "chatbotdagi-yozishmalarni-boshqalar-oqishi-mumkin-4e0f14",
+    "title": "Chatbotdagi yozishmalarni boshqalar o'qishi mumkin",
+    "summary": "Foydalanuvchilarning chatbotlar bilan suhbatlarini uchinchi shaxslar o'qishi mumkinligi ma'lum bo'ldi. Bular qatoriga ish beruvchilar, texnologik kompaniyalar va politsiya xodimlari kiradi.",
+    "tags": [
+      "chatbot",
+      "maxfiylik"
+    ],
+    "importance": 3,
+    "score": 21.2,
+    "published": "2026-08-31T17:00:00.000Z",
+    "created": "2026-09-01T09:33:29.256Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNS0wSEdXV0hPWWNNMC1WbUxMNlM3aGFRc1NYNGRHZFpGdTFxaTVXVXdXMFhBQUNWTXJLMUtKb0huNlJQMHRMMWpITWxqNDlZYm9manVCV0l0ZUZ4aVdhYUZJUEJSREZsZ29GdGE5NnNxZnZWN0tZckpyNGZGWU5NQkl4bzY2TTZySDJfR3FvNnZ1NVI3QzJDaEc1Ri1LSDlVdllhOHIzYkJRUjlB",
+      "title": "Your boss, tech companies and police can read your chatbot conversations",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "c1af7cc428de",
     "slug": "nvidia-mediatek-kompaniyasiga-3-5-milliard-dollar-tikadi-c1af7c",
     "title": "Nvidia MediaTek kompaniyasiga 3,5 milliard dollar tikadi",
