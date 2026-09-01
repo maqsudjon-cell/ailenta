@@ -3,7 +3,7 @@
 //
 // Chiqish: data/raw.json — [{ id, title, url, source, sourceName, published, summary, weight, points }]
 
-import { readFile, writeFile, mkdir } from "node:fs/promises";
+import { readFile, writeFile, mkdir, rename } from "node:fs/promises";
 import { createHash } from "node:crypto";
 import { dirname, join } from "node:path";
 import { fileURLToPath } from "node:url";
@@ -219,7 +219,9 @@ async function main() {
   const unique = [...byUrl.values()].sort((a, b) => b.published.localeCompare(a.published));
 
   await mkdir(join(ROOT, "data"), { recursive: true });
-  await writeFile(join(ROOT, "data/raw.json"), JSON.stringify(unique, null, 2));
+  const tmp = join(ROOT, "data/raw.json.tmp");
+  await writeFile(tmp, JSON.stringify(unique, null, 2));
+  await rename(tmp, join(ROOT, "data/raw.json"));
 
   const perSource = {};
   for (const it of unique) perSource[it.sourceName] = (perSource[it.sourceName] || 0) + 1;

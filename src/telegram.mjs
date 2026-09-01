@@ -54,17 +54,31 @@ async function api(method, body) {
 }
 
 // Rasm bilan yuboriladi — kanalda faqat matn turgani zerikarli ko'rinadi.
-// Rasm saytdagi muqova; Telegram uni o'zi yuklab oladi. Biror sabab bilan
-// rasm o'tmasa, xabar matn ko'rinishida ketaveradi.
-async function send(text, photoUrl) {
-  if (photoUrl) {
+//
+// Rasm URL bilan emas, fayl bo'lib yuboriladi: bu qadam saytga chiqishdan
+// oldin ishlaydi, ya'ni havola hali mavjud emas va Telegram uni yuklab
+// ololmaydi ("failed to get HTTP URL content").
+async function sendPhotoFile(text, filePath) {
+  const bytes = await readFile(filePath);
+  const form = new FormData();
+  form.set("chat_id", CHAT);
+  form.set("caption", text);
+  form.set("parse_mode", "HTML");
+  form.set("photo", new Blob([bytes], { type: "image/png" }), "cover.png");
+
+  const res = await fetch(`https://api.telegram.org/bot${TOKEN}/sendPhoto`, {
+    method: "POST",
+    body: form,
+  });
+  const j = await res.json().catch(() => ({}));
+  if (!j.ok) throw new Error(j.description || `HTTP ${res.status}`);
+  return j.result;
+}
+
+async function send(text, photoPath) {
+  if (photoPath) {
     try {
-      return await api("sendPhoto", {
-        chat_id: CHAT,
-        photo: photoUrl,
-        caption: text,
-        parse_mode: "HTML",
-      });
+      return await sendPhotoFile(text, photoPath);
     } catch (e) {
       console.error(`    (rasm o'tmadi: ${e.message} — matn bilan yuborilmoqda)`);
     }
@@ -119,7 +133,7 @@ async function main() {
   let ok = 0;
   for (const p of queue) {
     try {
-      await send(message(p), `${SITE.url}/og/${p.slug}.png`);
+      await send(message(p), join(ROOT, `docs/og/${p.slug}.png`));
       sentSet.add(p.slug);
       ok++;
       console.log(`  → ${p.title}`);

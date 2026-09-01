@@ -67,12 +67,19 @@ async function main() {
       body: JSON.stringify(body),
     }).then((r) => r.json());
 
-  let j = await call("sendPhoto", {
-    chat_id: CHAT,
-    photo: `${SITE.url}/og/${picked[0].slug}.png`,
-    caption: lines.join("\n"),
-    parse_mode: "HTML",
-  });
+  let j = { ok: false };
+  try {
+    const bytes = await readFile(join(ROOT, `docs/og/${picked[0].slug}.png`));
+    const form = new FormData();
+    form.set("chat_id", CHAT);
+    form.set("caption", lines.join("\n"));
+    form.set("parse_mode", "HTML");
+    form.set("photo", new Blob([bytes], { type: "image/png" }), "cover.png");
+    j = await fetch(`https://api.telegram.org/bot${TOKEN}/sendPhoto`, { method: "POST", body: form })
+      .then((r) => r.json());
+  } catch (e) {
+    console.error(`  (rasm o'tmadi: ${e.message})`);
+  }
   if (!j.ok) {
     j = await call("sendMessage", {
       chat_id: CHAT,

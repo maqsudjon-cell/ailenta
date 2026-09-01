@@ -6,13 +6,23 @@
 // Kirish:  data/clusters.json
 // Chiqish: data/posts.json (qo'shib boriladi), data/seen.json (yangilanadi)
 
-import { readFile, writeFile } from "node:fs/promises";
+import { readFile, writeFile, rename } from "node:fs/promises";
 import { storyKey, sameStory } from "./similar.mjs";
 import { normalizeTags, TAG_GUIDE } from "./tags.mjs";
 import { join, dirname } from "node:path";
 import { fileURLToPath } from "node:url";
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
+
+// Fayl yozilayotganda jarayon to'xtasa (masalan quvur yopilsa), oddiy
+// writeFile faylni bo'shatib qoldiradi. Avval yonidagi vaqtinchalik faylga
+// yozib, keyin o'rniga ko'chiramiz — bunda fayl yo eski, yo yangi holatda bo'ladi.
+async function writeAtomic(path, data) {
+  const tmp = `${path}.tmp`;
+  await writeFile(tmp, data);
+  await rename(tmp, path);
+}
+
 const PROVIDER = process.env.AI_PROVIDER || "gemini";
 const BATCH = 8;
 
@@ -54,10 +64,17 @@ importance — 5 = kunning asosiy voqeasi, 1 = mayda xabar.`;
 
 // ---------- provayderlar ----------
 
-async function callGemini(prompt) {
-  const key = process.env.GEMINI_API_KEY;
-  if (!key) throw new Error("GEMINI_API_KEY yo'q");
-  const model = process.env.GEMINI_MODEL || "gemini-3.5-flash";
+// Bepul tarifda kunlik so'rov chegarasi bor va u har bir model uchun alohida.
+// Chegara tugasa 429 qaytadi — shunda biroz kutamiz, keyin yengilroq modelga
+// o'tamiz. Aks holda o'sha yugurishdagi xabarlar butunlay yo'qoladi.
+const GEMINI_MODELS = (process.env.GEMINI_MODEL || "gemini-3.5-flash,gemini-2.5-flash,gemini-flash-latest")
+  .split(",")
+  .map((m) => m.trim())
+  .filter(Boolean);
+
+const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
+
+async function geminiOnce(model, key, prompt) {
   const res = await fetch(
     `https://generativelanguage.googleapis.com/v1beta/models/${model}:generateContent`,
     {
@@ -70,9 +87,34 @@ async function callGemini(prompt) {
       }),
     }
   );
-  if (!res.ok) throw new Error(`Gemini ${res.status}: ${(await res.text()).slice(0, 200)}`);
+  if (res.status === 429) {
+    const err = new Error(`${model}: kunlik chegara tugadi`);
+    err.quota = true;
+    throw err;
+  }
+  if (!res.ok) throw new Error(`${model} ${res.status}: ${(await res.text()).slice(0, 160)}`);
   const j = await res.json();
   return j.candidates?.[0]?.content?.parts?.[0]?.text ?? "";
+}
+
+async function callGemini(prompt) {
+  const key = process.env.GEMINI_API_KEY;
+  if (!key) throw new Error("GEMINI_API_KEY yo'q");
+
+  let last;
+  for (const model of GEMINI_MODELS) {
+    for (let attempt = 0; attempt < 2; attempt++) {
+      try {
+        return await geminiOnce(model, key, prompt);
+      } catch (e) {
+        last = e;
+        if (e.quota) break;              // bu modelda kutish yordam bermaydi
+        if (attempt === 0) await sleep(3000);
+      }
+    }
+    console.error(`  · ${last.message} — keyingi modelga o'tilmoqda`);
+  }
+  throw last;
 }
 
 async function callAnthropic(prompt) {
@@ -275,11 +317,11 @@ async function main() {
 
   posts = [...written, ...posts];
 
-  await writeFile(join(ROOT, "data/posts.json"), JSON.stringify(posts, null, 2));
-  await writeFile(join(ROOT, "data/seen.json"), JSON.stringify(seen, null, 2));
+  await writeAtomic(join(ROOT, "data/posts.json"), JSON.stringify(posts, null, 2));
+  await writeAtomic(join(ROOT, "data/seen.json"), JSON.stringify(seen, null, 2));
 
   // Shu yugurishda nima chiqqani — Telegram shu ro'yxatdan yuboradi.
-  await writeFile(
+  await writeAtomic(
     join(ROOT, "data/last-run.json"),
     JSON.stringify({ at: new Date().toISOString(), slugs: written.map((p) => p.slug) }, null, 2)
   );
