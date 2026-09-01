@@ -88,6 +88,10 @@ Bir voqea ikki marta chiqib ketmasligi eng qiyin qism bo'ldi. Uchta to'siq bor:
    sarlavhalar eslab qolinadi; keyingi klaster shular bilan solishtiriladi.
 3. **Ma'no** — modelga oxirgi 40 ta chiqqan o'zbekcha sarlavha ko'rsatiladi va
    voqea ro'yxatda bo'lsa u `skip` qaytaradi.
+4. **O'zbekcha matn** — nashrdan oldin sarlavha va xulosa chiqib bo'lganlari
+   bilan solishtiriladi (`src/similar.mjs`). Sarlavha alohida tekshiriladi:
+   bir voqeaning ikki xil xulosasi chegaradan o'tib ketishi mumkin, sarlavhalari
+   esa baribir o'xshab qoladi.
 
 Uchinchisi shart: nashrlar bir voqeani shunchalik boshqacha yozadiki, so'z
 solishtirish ushlamaydi. Angliya banki rahbarining bitta chiqishi uch xil
@@ -99,6 +103,29 @@ Chiqib bo'lgan takrorlarni tozalash uchun:
 node src/dedupe-posts.mjs          # nimani o'chirishini ko'rsatadi
 node src/dedupe-posts.mjs --apply  # o'chiradi
 ```
+
+## Sayt tuzilishi
+
+| Manzil | Nima |
+| --- | --- |
+| `/` | Bosh sahifa — so'nggi 60 ta xabar, kun bo'yicha ajratilgan |
+| `/x/<slug>/` | Bitta xabar: xulosa, manba havolasi, boshqa nashrlar, shu mavzudagilar |
+| `/mavzu/<teg>/` | Mavzu sahifasi (1 ta xabarlisi `noindex`) |
+| `/kun/<sana>/` | O'sha kunning barcha xabari |
+| `/arxiv/`, `/mavzular/` | Kunlar va mavzular ro'yxati |
+| `/sitemap.xml`, `/rss.xml` | Qidiruv tizimlari va o'quvchilar uchun |
+
+Har bir sahifada JSON-LD (`NewsArticle`, `ItemList`, `BreadcrumbList`,
+`CollectionPage`), canonical, Open Graph va GoatCounter kodi bor.
+`src/indexnow.mjs` yangi manzillarni Bing va Yandex'ga darhol bildiradi
+(kalit fayli `docs/<kalit>.txt` — **o'chirmang**, bu egalik isboti).
+
+## Telegram
+
+`src/telegram.mjs` shu yugurishda saytga chiqqan xabarlarni kanalga yuboradi
+(`data/last-run.json` dan oladi, `data/telegram-sent.json` bilan takrorlamaydi).
+Ikkita secret kerak: `TELEGRAM_BOT_TOKEN` va `TELEGRAM_CHAT_ID`. Ular bo'lmasa
+qadam jimgina o'tkazib yuboriladi.
 
 ## Jonli
 
