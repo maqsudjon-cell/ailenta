@@ -16,6 +16,10 @@ const TOKEN = process.env.TELEGRAM_BOT_TOKEN;
 const CHAT = process.env.TELEGRAM_CHAT_ID;
 const PAUSE = 1500; // Telegram kanalga soniyasiga bir nechta xabar yuborishni cheklaydi
 
+// Kanalga faqat muhim xabarlar darhol chiqadi. Qolganlari saytda turadi va
+// ertalabki dayjestga tushadi — aks holda kanal kuniga 30 ta post bilan to'ladi.
+const MIN_IMPORTANCE = Number(process.env.TELEGRAM_MIN_IMPORTANCE || 4);
+
 const esc = (s = "") =>
   String(s).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
 
@@ -84,11 +88,12 @@ async function main() {
     .filter((s) => !sentSet.has(s))
     .map((s) => bySlug.get(s))
     .filter(Boolean)
+    .filter((p) => p.importance >= MIN_IMPORTANCE)
     // Muhimi oldin ketsin.
     .sort((a, b) => b.importance - a.importance);
 
   if (!queue.length) {
-    console.log("Telegram: yuboradigan yangi xabar yo'q.");
+    console.log(`Telegram: muhimlik ${MIN_IMPORTANCE}+ bo'lgan yangi xabar yo'q.`);
     return;
   }
 

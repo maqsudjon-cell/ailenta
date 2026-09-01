@@ -1,0 +1,22 @@
+name: Dayjest
+
+# Har kuni ertalab 09:00 (Toshkent) — o'tgan sutkaning eng muhim xabarlari
+# bitta post bo'lib Telegram kanalga chiqadi.
+on:
+  schedule:
+    - cron: "0 4 * * *"
+  workflow_dispatch:
+
+jobs:
+  send:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+      - name: Dayjestni yuborish
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: node src/digest.mjs
