@@ -177,6 +177,25 @@ Muhimlik 4+ bo'lgan xabarlar darhol chiqadi, qolganlari ertalab 09:00 dagi
 dayjestga (`src/digest.mjs`). Rasm **havola bilan emas, fayl bo'lib** yuboriladi:
 bu qadam saytga chiqishdan oldin ishlaydi va havola hali mavjud bo'lmaydi.
 
+## Domenni ko'chirish
+
+Manzil bitta joyda — `templates/shell.mjs` dagi `SITE.url`. Canonical, og:url,
+sitemap, RSS va muqova rasmidagi yozuv hammasi o'shandan olinadi.
+
+```bash
+node src/set-domain.mjs ailenta.uz
+node src/build.mjs && node src/audit.mjs
+```
+
+Skript avval DNS haqiqatan GitHub Pages'ga qarab turganini tekshiradi —
+noto'g'ri ulangan domenga ko'chsak sayt butunlay ochilmay qoladi.
+
+Kerakli A yozuvlari: `185.199.108.153`, `185.199.109.153`, `185.199.110.153`,
+`185.199.111.153`.
+
+Diqqat: GitHub Pages bitta repoga bitta domen beradi — ko'chgach eski manzil
+ishlamay qoladi.
+
 ## Jonli
 
 - Sayt: https://ai.maqsudjon.com

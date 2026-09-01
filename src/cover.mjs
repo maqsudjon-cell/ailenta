@@ -103,7 +103,7 @@ function wrap(text, maxWidth, fontSize, maxLines) {
 
 // photoData — "data:image/jpeg;base64,..." ko'rinishida. Bo'lsa, o'ng tomondagi
 // geometrik naqsh o'rniga haqiqiy surat qo'yiladi.
-export function coverSvg(post, { width = 1200, height = 630, photoData = null, handle = "ailentauz" } = {}) {
+export function coverSvg(post, { width = 1200, height = 630, photoData = null, handle = "ailentauz", domain = "ai.maqsudjon.com" } = {}) {
   const color = topicColor(post.tags);
   const glyph = topicGlyph(post.tags, color, 24);
   const seed = seedOf(post.slug || post.id || post.title);
@@ -139,10 +139,17 @@ export function coverSvg(post, { width = 1200, height = 630, photoData = null, h
 
   <g transform="translate(${pad}, 62)">
     <rect x="0" y="-16" width="15" height="5" rx="2.5" fill="#0A0A0B" opacity="0.9"/>
-    <circle cx="21" cy="-13.5" r="3.4" fill="${color}"/>
+    <circle cx="21" cy="-13.5" r="3.4" fill="#1F2BFF"/>
     <rect x="0" y="-8" width="22" height="5" rx="2.5" fill="#0A0A0B" opacity="0.55"/>
     <rect x="0" y="0" width="11" height="5" rx="2.5" fill="#0A0A0B" opacity="0.32"/>
-    <text x="34" y="3" font-family="Archivo" font-size="26" font-weight="800" fill="#0A0A0B" letter-spacing="-1">ai.lenta</text>
+    <!-- tspan bilan yozilgani uchun "AI" va "lenta" orasida bo'shliq qolmaydi:
+         qo'lda joylashtirsak har shriftda boshqacha chiqadi. Brend rangi
+         o'zgarmas — mavzu rangi emas, aks holda logotip har xabarda
+         boshqa rangda bo'lib brend zaiflashadi. -->
+    <text x="34" y="3" font-family="Archivo" font-size="27" font-weight="900" letter-spacing="-1">
+      <tspan fill="#1F2BFF">AI</tspan><tspan fill="#0A0A0B">lenta</tspan>
+    </text>
+    <text x="34" y="22" font-family="IBM Plex Mono" font-size="15" fill="#9CA3AF">${esc(domain)}</text>
   </g>
 
   <g transform="translate(${pad}, ${height - 88}) scale(1.5)">${glyph.inner}</g>

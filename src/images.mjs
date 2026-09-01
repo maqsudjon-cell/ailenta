@@ -9,6 +9,7 @@ import { fileURLToPath } from "node:url";
 import { Resvg } from "@resvg/resvg-js";
 import { coverSvg } from "./cover.mjs";
 import { brandMark } from "../templates/marks.mjs";
+import { SITE } from "../templates/shell.mjs";
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
 
@@ -50,7 +51,7 @@ export async function buildImages(posts) {
 
   let n = 0;
   for (const p of posts) {
-    await put(`docs/og/${p.slug}.png`, toPng(coverSvg(p, { photoData: await photoData(p.photo) }), 1200));
+    await put(`docs/og/${p.slug}.png`, toPng(coverSvg(p, { photoData: await photoData(p.photo), domain: SITE.domain }), 1200));
     n++;
   }
 

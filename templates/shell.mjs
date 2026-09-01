@@ -11,6 +11,9 @@ export const SITE = {
   lang: "uz",
   goatcounter: "ailenta",
   telegram: "ailentauz",
+  // Rasmlarda va quyi qismda ko'rinadigan manzil. SITE.url dan olinadi,
+  // shuning uchun domen ko'chganda alohida tuzatish kerak emas.
+  get domain() { return this.url.replace(/^https?:\/\//, "").replace(/\/$/, ""); },
 };
 
 export const esc = (s = "") =>
@@ -72,8 +75,17 @@ export const CSS = `<style>
     max-width:1020px;margin:0 auto;padding:.75rem 1.4rem;
     display:flex;align-items:center;gap:1rem;
   }
-  .brand{font-weight:900;font-size:1.15rem;letter-spacing:-.05em;line-height:1}
-  .brand em{font-style:normal;color:var(--accent)}
+  /* "ailenta" bir tekis yozilsa "alienta" bo'lib o'qiladi. AI ni katta harf,
+     urg'uli rang va zichroq oraliq bilan ajratamiz — ko'z darrov bo'ladi. */
+  .brand{
+    font-weight:900;font-size:1.15rem;letter-spacing:-.045em;line-height:1;
+    display:inline-flex;align-items:baseline;
+  }
+  .brand em{
+    font-style:normal;color:var(--accent);font-weight:900;
+    letter-spacing:-.02em;margin-right:.04em;
+  }
+  footer em{font-style:normal;color:var(--accent);font-weight:700}
   .status{
     display:flex;align-items:center;gap:.45rem;
     font-family:var(--mono);font-size:.68rem;letter-spacing:.08em;
@@ -403,7 +415,7 @@ ${CSS}
 export function topbar(stamp) {
   return `<div class="topbar">
   <div class="topbar-in">
-    <a class="brand" href="/">ai<em>.</em>lenta</a>
+    <a class="brand" href="/"><em>AI</em>lenta</a>
     <span class="status"><span class="dot"></span>${esc(stamp)} da yangilandi</span>
     <nav class="nav">
       <a href="/arxiv/">Arxiv</a>
@@ -419,7 +431,7 @@ export function topbar(stamp) {
 export function foot(now, extra = "") {
   return `${extra}
   <footer>
-    <span><a href="/">ai.lenta</a></span>
+    <span><a href="/"><em>AI</em>lenta</a> · ${SITE.domain}</span>
     <span>${now.day}-${now.month}, ${new Date().getUTCFullYear()}</span>
     <span><a href="/arxiv/">Arxiv</a></span>
     <span><a href="/rss.xml">RSS</a></span>
