@@ -39,6 +39,9 @@ function message(p) {
     `<a href="${SITE.url}/x/${esc(p.slug)}/">Saytda o'qish</a>`,
   ];
   if (tags) lines.push("", tags);
+  // Post boshqa joyga uzatilganda kanal manzili u bilan birga ketsin —
+  // o'qigan odam qayerdan kelganini biladi va bosib qo'shila oladi.
+  lines.push("", `@${SITE.telegram}`);
   return lines.join("\n");
 }
 

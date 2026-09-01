@@ -57,6 +57,8 @@ async function main() {
     ...picked.map((p) => `● <a href="${SITE.url}/x/${esc(p.slug)}/">${esc(p.title)}</a>`),
     "",
     `<a href="${SITE.url}/kun/${t.ymd}/">Kunning barcha xabari (${day.length} ta)</a>`,
+    "",
+    `@${SITE.telegram}`,
   ];
 
   // Dayjest muqovasi — kunning eng muhim xabarining rasmi.

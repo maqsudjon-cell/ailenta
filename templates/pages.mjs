@@ -106,6 +106,22 @@ ${topbar(now.hhmm)}
     </p>
   </section>
 
+  <div class="share">
+    <span class="share-label">Ulashish</span>
+    <a class="primary" href="https://t.me/share/url=${encodeURIComponent(`${SITE.url}/x/${p.slug}/`)}&text=${encodeURIComponent(p.title)}"
+       target="_blank" rel="noopener">Telegram</a>
+    <a href="https://wa.me/?text=${encodeURIComponent(`${p.title} — ${SITE.url}/x/${p.slug}/`)}"
+       target="_blank" rel="noopener">WhatsApp</a>
+    <a href="https://twitter.com/intent/tweet?url=${encodeURIComponent(`${SITE.url}/x/${p.slug}/`)}&text=${encodeURIComponent(p.title)}"
+       target="_blank" rel="noopener">X</a>
+    <button type="button" class="copy" data-url="${SITE.url}/x/${p.slug}/">Havolani nusxalash</button>
+  </div>
+
+  <div class="follow">
+    <p><b>Har uch soatda yangilanadi.</b> Kunning eng muhim xabarlari Telegram kanalida ham chiqadi.</p>
+    <a href="https://t.me/${SITE.telegram}" target="_blank" rel="noopener">@${SITE.telegram}</a>
+  </div>
+
   ${related.length ? `
   <section class="related">
     <h2>Shu mavzuda</h2>

@@ -103,7 +103,7 @@ function wrap(text, maxWidth, fontSize, maxLines) {
 
 // photoData — "data:image/jpeg;base64,..." ko'rinishida. Bo'lsa, o'ng tomondagi
 // geometrik naqsh o'rniga haqiqiy surat qo'yiladi.
-export function coverSvg(post, { width = 1200, height = 630, photoData = null } = {}) {
+export function coverSvg(post, { width = 1200, height = 630, photoData = null, handle = "ailentauz" } = {}) {
   const color = topicColor(post.tags);
   const glyph = topicGlyph(post.tags, color, 24);
   const seed = seedOf(post.slug || post.id || post.title);
@@ -152,6 +152,12 @@ export function coverSvg(post, { width = 1200, height = 630, photoData = null } 
   ${lines
     .map((l, i) => `<text x="${pad}" y="${(startY + i * lineH).toFixed(0)}" font-family="Archivo" font-size="${fs}" font-weight="800" fill="#0A0A0B" letter-spacing="-2">${esc(l)}</text>`)
     .join("\n  ")}
+
+  <g transform="translate(${width - pad - 172}, ${height - 94})">
+    <rect width="172" height="42" rx="21" fill="#0A0A0B" opacity="0.82"/>
+    <text x="86" y="27" text-anchor="middle" font-family="IBM Plex Mono" font-size="20"
+          fill="#FFFFFF" opacity="0.95">@${esc(handle)}</text>
+  </g>
 </svg>`;
 }
 
