@@ -127,7 +127,7 @@ export const CSS = `<style>
   .daymark::after{content:"";flex:1;height:2px;background:var(--ink)}
 
   .item{
-    display:grid;grid-template-columns:4.2rem minmax(0,1fr);gap:1.4rem;
+    display:grid;grid-template-columns:4.2rem minmax(0,1fr) auto;gap:1.4rem;
     padding:1.5rem 0;border-top:1px solid var(--hair);
   }
   .item:first-of-type{border-top:0}
@@ -136,6 +136,9 @@ export const CSS = `<style>
     padding-top:.42rem;font-variant-numeric:tabular-nums;
   }
   .item-body{min-width:0}
+  .thumb{display:block;border-radius:6px;flex:none}
+  .item-thumb{align-self:start;padding-top:.15rem}
+  .twin-thumb{margin-bottom:.9rem}
   .item h3{margin:0;font-weight:700;letter-spacing:-.028em;line-height:1.16;text-wrap:balance}
   .item.t1 h3{font-size:1.6rem}
   .item.t2 h3{font-size:1.45rem}
@@ -201,8 +204,10 @@ export const CSS = `<style>
     .hero{padding:2rem 0 1.6rem}
     .hero .sum{font-size:1.08rem}
     .twin{grid-template-columns:1fr;gap:2rem;padding:2rem 0}
-    .item{grid-template-columns:1fr;gap:.45rem;padding:1.3rem 0}
-    .when{padding:0;font-size:.72rem}
+    .item{grid-template-columns:2.6rem minmax(0,1fr);gap:.9rem;padding:1.3rem 0}
+    .item .when{grid-column:1;font-size:.66rem;padding-top:.2rem}
+    .item .item-body{grid-column:2}
+    .item-thumb{grid-column:1;grid-row:2;padding-top:.2rem}
     .item.t1 h3{font-size:1.55rem}
     .item.t2 h3{font-size:1.28rem}
     .item.t3 h3{font-size:1.08rem}
@@ -276,9 +281,10 @@ const FONTS = `<link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;600;700;800;900&family=IBM+Plex+Mono:wght@400;500;600&display=swap">`;
 
 // Sahifa boshi: meta teglar, ijtimoiy tarmoq kartasi, JSON-LD, statistika.
-export function head({ title, description, path = "/", jsonld = [], noindex = false }) {
+export function head({ title, description, path = "/", jsonld = [], noindex = false, image }) {
   const canonical = `${SITE.url}${path}`;
   const desc = description || SITE.description;
+  const og = `${SITE.url}${image || "/og/default.png"}`;
   return `<!doctype html>
 <html lang="${SITE.lang}" data-design="katta">
 <head>
@@ -294,12 +300,19 @@ ${noindex ? '<meta name="robots" content="noindex,follow">' : '<meta name="robot
 <meta property="og:title" content="${esc(title)}">
 <meta property="og:description" content="${esc(desc)}">
 <meta property="og:url" content="${esc(canonical)}">
-<meta name="twitter:card" content="summary">
+<meta property="og:image" content="${esc(og)}">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="${esc(og)}">
 <meta name="twitter:title" content="${esc(title)}">
 <meta name="twitter:description" content="${esc(desc)}">
 <meta name="theme-color" content="#ffffff" media="(prefers-color-scheme: light)">
 <meta name="theme-color" content="#0B0B0D" media="(prefers-color-scheme: dark)">
 <link rel="alternate" type="application/rss+xml" title="${esc(SITE.name)}" href="${SITE.url}/rss.xml">
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<link rel="icon" href="/favicon-32.png" sizes="32x32" type="image/png">
+<link rel="apple-touch-icon" href="/favicon-180.png">
 ${FONTS}
 ${jsonld.map((j) => `<script type="application/ld+json">${JSON.stringify(j)}</script>`).join("\n")}
 <script data-goatcounter="https://${SITE.goatcounter}.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>

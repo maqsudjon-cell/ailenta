@@ -1,3 +1,5 @@
+import { thumbSvg } from "../src/cover.mjs";
+
 // parts.mjs — sahifalar orasida takrorlanadigan bo'laklar.
 // Bosh sahifa, xabar sahifasi, mavzu va kun sahifalari shularni ishlatadi.
 
@@ -44,6 +46,7 @@ export function feedItem(p, u) {
           ${tagChips(p, u)}
         </div>
       </div>
+      <a class="item-thumb" href="/x/${u.esc(p.slug)}/" aria-hidden="true" tabindex="-1">${thumbSvg(p, 64)}</a>
     </article>`;
 }
 
@@ -62,6 +65,7 @@ export function listItem(p, u) {
           ${tagChips(p, u)}
         </div>
       </div>
+      <a class="item-thumb" href="/x/${u.esc(p.slug)}/" aria-hidden="true" tabindex="-1">${thumbSvg(p, 64)}</a>
     </article>`;
 }
 

@@ -22,6 +22,7 @@ export function postPage(p, related, u) {
       url: `${SITE.url}/x/${p.slug}/`,
       mainEntityOfPage: { "@type": "WebPage", "@id": `${SITE.url}/x/${p.slug}/` },
       publisher,
+      image: `${SITE.url}/og/${p.slug}.png`,
       isBasedOn: p.source.url,
       citation: [p.source.name, ...(p.also || []).map((a) => (typeof a === "string" ? a : a.name))].map((n) => ({
         "@type": "CreativeWork",
@@ -50,6 +51,7 @@ export function postPage(p, related, u) {
     title: `${p.title} — ${SITE.name}`,
     description: p.summary,
     path: `/x/${p.slug}/`,
+    image: `/og/${p.slug}.png`,
     jsonld,
   })}
 ${topbar(now.hhmm)}

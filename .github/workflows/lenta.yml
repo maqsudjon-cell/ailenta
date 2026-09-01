@@ -23,6 +23,10 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: "22"
+          cache: npm
+
+      - name: Paketlarni o'rnatish
+        run: npm ci
 
       - name: Manbalarni yig'ish
         run: node src/collect.mjs

@@ -59,18 +59,29 @@ async function main() {
     `<a href="${SITE.url}/kun/${t.ymd}/">Kunning barcha xabari (${day.length} ta)</a>`,
   ];
 
-  const res = await fetch(`https://api.telegram.org/bot${TOKEN}/sendMessage`, {
-    method: "POST",
-    headers: { "content-type": "application/json" },
-    body: JSON.stringify({
+  // Dayjest muqovasi — kunning eng muhim xabarining rasmi.
+  const call = (method, body) =>
+    fetch(`https://api.telegram.org/bot${TOKEN}/${method}`, {
+      method: "POST",
+      headers: { "content-type": "application/json" },
+      body: JSON.stringify(body),
+    }).then((r) => r.json());
+
+  let j = await call("sendPhoto", {
+    chat_id: CHAT,
+    photo: `${SITE.url}/og/${picked[0].slug}.png`,
+    caption: lines.join("\n"),
+    parse_mode: "HTML",
+  });
+  if (!j.ok) {
+    j = await call("sendMessage", {
       chat_id: CHAT,
       text: lines.join("\n"),
       parse_mode: "HTML",
       link_preview_options: { is_disabled: true },
-    }),
-  });
-  const j = await res.json().catch(() => ({}));
-  if (!j.ok) throw new Error(j.description || `HTTP ${res.status}`);
+    });
+  }
+  if (!j.ok) throw new Error(j.description || "yuborilmadi");
 
   console.log(`Dayjest yuborildi: ${picked.length} ta sarlavha (sutkada ${day.length} ta xabar).`);
 }

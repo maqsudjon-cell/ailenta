@@ -10,6 +10,7 @@ import { fileURLToPath } from "node:url";
 import { SITE } from "../templates/shell.mjs";
 import { postPage, listPage, topicsPage } from "../templates/pages.mjs";
 import { slugTag } from "../templates/parts.mjs";
+import { buildImages } from "./images.mjs";
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
 const PUBLISH = "katta";
@@ -120,6 +121,9 @@ async function buildSite() {
   await rm(join(ROOT, "docs/mavzu"), { recursive: true, force: true });
   await rm(join(ROOT, "docs/kun"), { recursive: true, force: true });
 
+  // Muqova rasmlari sahifalardan oldin: og:image ular tayyor bo'lgach ishlaydi.
+  const imgCount = await buildImages(posts);
+
   const urls = [];
   let pages = 0;
 
@@ -221,6 +225,7 @@ async function buildSite() {
 
   console.log(`  ✓ ${pages} ta sahifa · ${byTag.size} mavzu (${thinTags} tasi indekssiz) · ${days.length} kun`);
   console.log(`  ✓ sitemap.xml (${urls.length} manzil) · rss.xml (${Math.min(posts.length, 50)} xabar) · robots.txt`);
+  console.log(`  ✓ ${imgCount} ta muqova rasmi · favicon · kanal logotipi`);
 }
 
 const only = process.argv[2];

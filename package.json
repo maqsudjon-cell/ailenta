@@ -1,0 +1,29 @@
+{
+  "name": "ailenta",
+  "version": "1.0.0",
+  "description": "Sun'iy intellekt yangiliklari o'zbek tilida — avtomat quvur",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "collect": "node src/collect.mjs",
+    "filter": "node src/filter.mjs",
+    "write": "node src/write.mjs",
+    "build": "node src/build.mjs",
+    "telegram": "node src/telegram.mjs",
+    "digest": "node src/digest.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maqsudjon-cell/ailenta.git"
+  },
+  "bugs": {
+    "url": "https://github.com/maqsudjon-cell/ailenta/issues"
+  },
+  "homepage": "https://github.com/maqsudjon-cell/ailenta#readme",
+  "dependencies": {
+    "@resvg/resvg-js": "^2.6.2"
+  },
+  "private": true,
+  "type": "module"
+}

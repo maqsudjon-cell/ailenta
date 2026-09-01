@@ -42,20 +42,39 @@ function message(p) {
   return lines.join("\n");
 }
 
-async function send(text) {
-  const res = await fetch(`https://api.telegram.org/bot${TOKEN}/sendMessage`, {
+async function api(method, body) {
+  const res = await fetch(`https://api.telegram.org/bot${TOKEN}/${method}`, {
     method: "POST",
     headers: { "content-type": "application/json" },
-    body: JSON.stringify({
-      chat_id: CHAT,
-      text,
-      parse_mode: "HTML",
-      link_preview_options: { is_disabled: true },
-    }),
+    body: JSON.stringify(body),
   });
   const j = await res.json().catch(() => ({}));
   if (!j.ok) throw new Error(j.description || `HTTP ${res.status}`);
-  return j.result?.message_id;
+  return j.result;
+}
+
+// Rasm bilan yuboriladi — kanalda faqat matn turgani zerikarli ko'rinadi.
+// Rasm saytdagi muqova; Telegram uni o'zi yuklab oladi. Biror sabab bilan
+// rasm o'tmasa, xabar matn ko'rinishida ketaveradi.
+async function send(text, photoUrl) {
+  if (photoUrl) {
+    try {
+      return await api("sendPhoto", {
+        chat_id: CHAT,
+        photo: photoUrl,
+        caption: text,
+        parse_mode: "HTML",
+      });
+    } catch (e) {
+      console.error(`    (rasm o'tmadi: ${e.message} — matn bilan yuborilmoqda)`);
+    }
+  }
+  return api("sendMessage", {
+    chat_id: CHAT,
+    text,
+    parse_mode: "HTML",
+    link_preview_options: { is_disabled: true },
+  });
 }
 
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
@@ -100,7 +119,7 @@ async function main() {
   let ok = 0;
   for (const p of queue) {
     try {
-      await send(message(p));
+      await send(message(p), `${SITE.url}/og/${p.slug}.png`);
       sentSet.add(p.slug);
       ok++;
       console.log(`  → ${p.title}`);
