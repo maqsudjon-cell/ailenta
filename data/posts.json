@@ -1,44 +1,45 @@
 [
   {
-    "id": "73a1ac1e0e30",
-    "slug": "gubernator-malumot-markazlarini-tanqid-qildi-73a1ac",
-    "title": "Gubernator ma'lumot markazlarini tanqid qildi",
-    "summary": "Pensilvaniya gubernatori Shapironing aytishicha, ko'plab ma'lumot markazlari yaratuvchilari mahalliy jamoalar haqida qayg'urmaydi. May oyidagi Gallup so'roviga ko'ra, har 10 amerikalikdan 7 nafari o'z hududida sun'iy intellekt ma'lumot markazlari qurilishiga qarshi chiqmoqda.",
+    "id": "9658836c8e4c",
+    "slug": "google-deepmind-gemini-bilan-agentli-video-tushunishni-taqdi-965883",
+    "title": "Google DeepMind Gemini bilan agentli video tushunishni taqdim etdi",
+    "summary": "Google DeepMind Gemini modeli yordamida agentli video tushunish funksiyasini joriy qildi. Bu yangilik videolarni tahlil qilishda yangi imkoniyatlar ochadi.",
     "tags": [
-      "siyosat"
+      "Google",
+      "agentlar"
     ],
     "importance": 3,
-    "score": 22,
-    "published": "2026-09-01T20:16:05.000Z",
-    "created": "2026-09-02T00:29:19.429Z",
+    "score": 32,
+    "published": "2026-09-01T17:08:51.000Z",
+    "created": "2026-09-02T00:30:38.606Z",
     "coverage": 1,
     "source": {
-      "name": "CNBC",
-      "url": "https://cnbc.com/2026/09/01/data-center-pennsylvania-shapiro-trump.html",
-      "title": "Pa. Gov. Shapiro says too many data center developers 'don't care about our communities'",
+      "name": "Google DeepMind",
+      "url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini",
+      "title": "Introducing agentic video understanding with Gemini",
       "indirect": false
     },
     "also": [],
     "model": "gemini"
   },
   {
-    "id": "95180dea72b1",
-    "slug": "hugging-face-platformasiga-hujum-va-javobgarlik-bahsi-95180d",
-    "title": "Hugging Face platformasiga hujum va javobgarlik bahsi",
-    "summary": "Hugging Face dasturchilar platformasiga qilingan kiberhujum AI xavfsizligi bo'yicha bahslarga sabab bo'ldi. Ba'zilar hujumda OpenAI kompaniyasini, boshqalar esa sun'iy intellekt sivilizatsiyalarini ayblamoqda. Bu munozaralar kiberxavfsizlik hodisasi uchun javobgarlikni kompaniyadan boshqa tomonga yo'naltirishi mumkin.",
+    "id": "fa409b7195a7",
+    "slug": "anthropic-modellar-nazoratini-kuchaytirishga-vada-berdi-fa409b",
+    "title": "Anthropic modellar nazoratini kuchaytirishga va'da berdi",
+    "summary": "Anthropic o'z modellarini nazorat qilishni kuchaytirishga va'da berdi. Kompaniya hamkorlardan ham bu jarayonga hissa qo'shishni so'radi.",
     "tags": [
-      "Hugging Face",
+      "Anthropic",
       "xavfsizlik"
     ],
     "importance": 3,
-    "score": 21,
-    "published": "2026-09-01T19:02:54.000Z",
-    "created": "2026-09-02T00:29:32.465Z",
-    "coverage": 1,
+    "score": 25,
+    "published": "2026-09-01T19:27:23.000Z",
+    "created": "2026-09-02T00:30:38.607Z",
+    "coverage": 2,
     "source": {
-      "name": "The Verge",
-      "url": "https://theverge.com/ai-artificial-intelligence/987566/ai-civilizations-opeai-hugging-face-hack",
-      "title": "The rise of AI ‘civilizations’ and the fall of corporate responsibility",
+      "name": "The Register",
+      "url": "https://theregister.com/ai-and-ml/2026/09/01/anthropic-pledges-to-try-harder-to-keep-models-under-control-asks-partners-to-chip-in/5293733",
+      "title": "Anthropic pledges to try harder to keep models under control, asks partners to chip in",
       "indirect": false
     },
     "also": [],
