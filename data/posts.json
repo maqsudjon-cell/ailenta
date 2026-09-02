@@ -1,5 +1,96 @@
 [
   {
+    "id": "3162fc3c4281",
+    "slug": "acer-nvidia-rtx-spark-chipli-ai-kompyuterini-taqdim-etdi-3162fc",
+    "title": "Acer Nvidia RTX Spark chipli AI kompyuterini taqdim etdi",
+    "summary": "Acer kompaniyasi Nvidia'ning yangi RTX Spark chip texnologiyasiga asoslangan AI ish stoli kompyuteri dizaynini namoyish etdi. Ushbu yangi chip qurilmalarning sun'iy intellekt imkoniyatlarini oshirishga xizmat qiladi.",
+    "tags": [
+      "Nvidia",
+      "chiplar"
+    ],
+    "importance": 3,
+    "score": 24,
+    "published": "2026-09-02T09:30:00.000Z",
+    "created": "2026-09-02T11:01:11.097Z",
+    "coverage": 2,
+    "source": {
+      "name": "Engadget",
+      "url": "https://engadget.com/2248794/acer-shows-off-its-ai-desktop-future-with-the-rtx-spark-design",
+      "title": "Acer shows off its AI desktop future with the RTX Spark design",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "59bbca77e679",
+    "slug": "pangram-suniy-intellektni-aniqlashda-yetakchiga-aylandi-59bbca",
+    "title": "Pangram sun'iy intellektni aniqlashda yetakchiga aylandi",
+    "summary": "Pangram dasturi matnlarni sun'iy intellekt yordamida yozilganligini aniqlash bo'yicha yetakchi vositaga aylandi. Ushbu texnologiya nashriyot va boshqa sohalardagi mutaxassislar faoliyatiga jiddiy ta'sir ko'rsatmoqda.",
+    "tags": [
+      "xavfsizlik"
+    ],
+    "importance": 2,
+    "score": 23,
+    "published": "2026-09-02T10:00:00.000Z",
+    "created": "2026-09-02T11:01:11.098Z",
+    "coverage": 1,
+    "source": {
+      "name": "Wired",
+      "url": "https://wired.com/story/pangram-has-emerged-as-the-gold-standard-of-ai-detection",
+      "title": "Pangram Has Emerged as the Gold Standard of AI Detection. Should You Trust It?",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "ef7ef24e953e",
+    "slug": "buyuk-britaniya-mahalliy-ai-uchun-100-mln-funt-ajratadi-ef7ef2",
+    "title": "Buyuk Britaniya mahalliy AI uchun 100 mln funt ajratadi",
+    "summary": "Buyuk Britaniya hukumati milliy sog'liqni saqlash, mudofaa va agentlar xavfsizligi muammolarini hal qilish uchun mahalliy startaplardan xizmatlar sotib oladi. Buning uchun 100 million funt sterlinglik dastur ishga tushirildi.",
+    "tags": [
+      "siyosat",
+      "agentlar"
+    ],
+    "importance": 3,
+    "score": 22,
+    "published": "2026-09-02T10:51:00.000Z",
+    "created": "2026-09-02T11:01:11.099Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/ai-and-ml/2026/09/02/uk-goes-shopping-for-homegrown-ai-with-100m-procurement-scheme/5293680",
+      "title": "UK goes shopping for homegrown AI with £100M procurement scheme",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "7e0c4714b45d",
+    "slug": "gemini-video-tahlilida-tokenlarni-88-foizgacha-tejaydi-7e0c47",
+    "title": "Gemini video tahlilida tokenlarni 88 foizgacha tejaydi",
+    "summary": "Google o'zining Gemini 3.7 Flash, 3.6 Flash va 3.5 Flash-Lite modellariga agentga asoslangan video tahlilini qo'shmoqda. Yangi usul videoni kadrlar bo'yicha emas, balki modelning o'zi tanlagan qismlar bo'yicha tahlil qiladi. Bu tokenlar sarfini 88 foizgacha kamaytiradi va aniqlikni oshiradi.",
+    "tags": [
+      "Google",
+      "agentlar"
+    ],
+    "importance": 4,
+    "score": 21,
+    "published": "2026-09-02T08:21:38.000Z",
+    "created": "2026-09-02T11:01:52.568Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/google-geminis-new-agent-based-video-analysis-cuts-token-usage-by-up-to-88-percent",
+      "title": "Google Gemini&#039;s new agent-based video analysis cuts token usage by up to 88 percent",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "d466ecc95ce9",
     "slug": "apple-ai-va-tijorat-sirlari-boyicha-xavotirda-d466ec",
     "title": "Apple AI va tijorat sirlari bo'yicha xavotirda",
