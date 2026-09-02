@@ -1,5 +1,73 @@
 [
   {
+    "id": "def2ba567c32",
+    "slug": "aqsh-adliya-vazirligi-ai-oqitishni-himoya-qildi-def2ba",
+    "title": "AQSh Adliya vazirligi AI o'qitishni himoya qildi",
+    "summary": "AQSh Adliya vazirligi The New York Times ishtirokidagi sud jarayonida AI modellarini mualliflik huquqi bilan himoyalangan matnlarda o'qitish qonuniy ekanini bildirdi. Bu pozitsiya AQSh Mualliflik huquqi idorasi xulosasiga zid kelmoqda.",
+    "tags": [
+      "sud",
+      "qonun"
+    ],
+    "importance": 4,
+    "score": 18,
+    "published": "2026-09-02T18:24:42.000Z",
+    "created": "2026-09-02T22:01:03.912Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/us-department-of-justice-backs-fair-use-for-ai-training-in-landmark-copyright-case",
+      "title": "US Department of Justice backs fair use for AI training in landmark copyright case",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "98d8f1ffbc50",
+    "slug": "aqsh-armiyasi-palantir-va-anduril-bilan-shartnoma-tuzdi-98d8f1",
+    "title": "AQSh armiyasi Palantir va Anduril bilan shartnoma tuzdi",
+    "summary": "AQSh armiyasi Palantir va Anduril kompaniyalariga sakkizta TITAN sun'iy intellektli mobil yer usti stansiyalarini ishlab chiqarish uchun 192 million dollarlik shartnoma berdi. Qurilmalar keyingi 18 oy davomida yetkazib berilishi rejalashtirilgan.",
+    "tags": [
+      "xavfsizlik",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-09-02T16:20:01.000Z",
+    "created": "2026-09-02T22:01:17.866Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/260902/p30",
+      "title": "The US Army awards $192M in contracts to Palantir and Anduril to produce eight TITAN AI-powered mobile ground stations, to be delivered over the next 18 months (Barratt Dewey/Tectonic Defense)",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "40d5f1d8eb31",
+    "slug": "jio-eski-kompyuterlarni-ai-uchun-moslashtirmoqchi-40d5f1",
+    "title": "Jio eski kompyuterlarni AI uchun moslashtirmoqchi",
+    "summary": "Hindistonning Jio kompaniyasi eski kompyuterlarni sun'iy intellektga tayyor holatga keltirish xizmatini yo'lga qo'ymoqchi. Foydalanuvchilar ushbu imkoniyatdan ikki oy davomida taxminan 11 dollar evaziga foydalanishi mumkin.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-09-02T16:01:48.000Z",
+    "created": "2026-09-02T22:01:17.867Z",
+    "coverage": 1,
+    "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/02/indias-richest-man-now-wants-to-turn-aging-computers-into-ai-ready-pcs",
+      "title": "India’s richest man now wants to turn aging computers into AI-ready PCs",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "4df22e291125",
     "slug": "google-2026-yil-avgust-oyidagi-ai-yangiliklarini-elon-qildi-4df22e",
     "title": "Google 2026-yil avgust oyidagi AI yangiliklarini e'lon qildi",
