@@ -1,17 +1,39 @@
 [
   {
+    "id": "83b543a32cda",
+    "slug": "missurida-malumot-markazi-tarafdori-chaqirib-olindi-83b543",
+    "title": "Missurida ma'lumot markazi tarafdori chaqirib olindi",
+    "summary": "Missuri shtatining Indepandens shahri aholisi ma'lumot markazi uchun milliardlab dollar soliq imtiyozlarini qo'llab-quvvatlagan rasmiyni chaqirib olish uchun ovoz berdi. Dastlabki natijalar buni ko'rsatmoqda.",
+    "tags": [
+      "siyosat"
+    ],
+    "importance": 3,
+    "score": 27,
+    "published": "2026-09-02T02:47:33.000Z",
+    "created": "2026-09-02T03:02:29.841Z",
+    "coverage": 1,
+    "source": {
+      "name": "The New York Times",
+      "url": "https://nytimes.com/2026/09/01/technology/data-center-recall-vote-independence.html",
+      "title": "Missouri Voters Appear to Recall City Councilman Over Data Center Support",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "7837e832447f",
-    "slug": "artifactory-tizimi-yangi-kiberhujumlarga-uchramoqda-7837e8",
-    "title": "Artifactory tizimi yangi kiberhujumlarga uchramoqda",
-    "summary": "Artifactory platformasidagi xavfsizlik zaifligi sababli ochiq serverlarga hujumlar uyushtirilmoqda. Tizimga ruxsatsiz kirgan tajovuzkorlar administrator tokenlarini yaratish imkoniyatiga ega bo'lmoqda.",
+    "slug": "artifactory-tizimi-kiberhujumga-uchramoqda-7837e8",
+    "title": "Artifactory tizimi kiberhujumga uchramoqda",
+    "summary": "Artifactory tizimidagi yangi zaiflik tufayli serverlar kiberhujumga uchramoqda. Tizimga ruxsatsiz kirganlar administrator tokenlarini yaratishi mumkin bo'lib, hujumlar ortida AI agentlari yoki insonlar turgan bo'lishi mumkin.",
     "tags": [
       "xavfsizlik",
       "agentlar"
     ],
-    "importance": 2,
+    "importance": 3,
     "score": 19,
     "published": "2026-09-01T21:07:13.000Z",
-    "created": "2026-09-02T03:01:27.937Z",
+    "created": "2026-09-02T03:02:42.321Z",
     "coverage": 1,
     "source": {
       "name": "The Register",
@@ -24,16 +46,16 @@
   },
   {
     "id": "5b546aa54238",
-    "slug": "hp-singapurda-garage-2-0-akseleratorini-ishga-tushirdi-5b546a",
-    "title": "HP Singapurda Garage 2.0 akseleratorini ishga tushirdi",
-    "summary": "HP kompaniyasi AI davrida o'z faoliyatini rivojlantirish maqsadida Singapurda Garage 2.0 startap akseleratorini ochdi. Kompaniya ushbu tashabbus orqali Osiyo bozorida o'z o'rnini mustahkamlashga harakat qilmoqda.",
+    "slug": "hp-singapurda-yangi-akseleratorni-ishga-tushirdi-5b546a",
+    "title": "HP Singapurda yangi akseleratorni ishga tushirdi",
+    "summary": "HP kompaniyasi Singapurda Garage 2.0 deb nomlangan startap akseleratorini ishga tushirdi. Kompaniya ushbu loyiha orqali AI davrida o'z biznesini rivojlantirishni maqsad qilgan.",
     "tags": [
       "biznes"
     ],
     "importance": 2,
     "score": 19,
     "published": "2026-09-01T21:00:00.000Z",
-    "created": "2026-09-02T03:01:27.938Z",
+    "created": "2026-09-02T03:02:42.321Z",
     "coverage": 1,
     "source": {
       "name": "Fortune",
