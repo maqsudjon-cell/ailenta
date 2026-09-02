@@ -108,7 +108,7 @@ ${topbar(now.hhmm)}
 
   <div class="creed">
     <span><b>${esc(SITE.tagline)}.</b></span>
-    <span>Har 3 soatda yangilanadi</span>
+    <span>Har soatda yangilanadi</span>
     <span>${posts.length} ta xabar</span>
     <span>${sources.length} ta manba</span>
   </div>
@@ -116,6 +116,15 @@ ${topbar(now.hhmm)}
   <section class="twin">
     ${second.map(secondCard).join("")}
   </section>
+
+  <aside class="tgcta">
+    <div class="tgcta-text">
+      <b>Telegramda ham o'qing</b>
+      <span>Kunning eng muhim xabarlari kanalga ham chiqadi — saytga kirmasdan
+      xabardor bo'lasiz.</span>
+    </div>
+    <a href="https://t.me/${SITE.telegram}" target="_blank" rel="noopener">@${SITE.telegram}</a>
+  </aside>
 
   ${groups.map((g) => `
   <section>

@@ -257,18 +257,51 @@
     .hero{padding:2rem 0 1.6rem}
     .hero .sum{font-size:1.08rem}
     .twin{grid-template-columns:1fr;gap:2rem;padding:2rem 0}
-    /* Tor ekranda rasm butun kenglikda va matndan keyin — kichik rasm
-       burchakda yolg'iz qolsa g'alati ko'rinadi. */
-    .item{grid-template-columns:2.6rem minmax(0,1fr);gap:.5rem .9rem;padding:1.3rem 0}
-    .item .when{grid-column:1;font-size:.66rem;padding-top:.2rem}
-    .item .item-body{grid-column:2}
-    .item-thumb{grid-column:1 / -1;grid-row:2;padding-top:.9rem}
-    /* 16:9 juda keng edi — tik suratlarda odamning boshi kesilib qolardi.
-       3:2 da yo'qoladigan qism ancha kam. */
-    .thumb.card{aspect-ratio:3/2;border-radius:5px}
-    .item.t1 h3{font-size:1.55rem}
-    .item.t2 h3{font-size:1.28rem}
-    .item.t3 h3{font-size:1.08rem}
+    /* Ilgari rasm butun kenglikda matndan KEYIN turardi va xulosa to'liq
+       chiqardi. Natijada bitta xabar ~1000 piksel egallab, bosh sahifa
+       32 000 pikselga cho'zilgan edi — telefonda 40 ta ekran. Sarlavhalarni
+       ko'z yugurtirib chiqish imkonsiz edi.
+       Endi: matn chapda, kvadrat rasm o'ngda, xulosa ikki qatorda. */
+    .item{
+      grid-template-columns:minmax(0,1fr) 5.4rem;
+      grid-template-rows:auto auto;
+      gap:.2rem .85rem;padding:1.05rem 0;
+    }
+    .item .when{grid-column:1;grid-row:1;font-size:.64rem;padding-top:0}
+    .item .item-body{grid-column:1;grid-row:2}
+    .item-thumb{grid-column:2;grid-row:1 / span 2;align-self:start;padding-top:.15rem}
+    .thumb.card{aspect-ratio:1/1;width:5.4rem;border-radius:5px}
+    /* Xulosa ikki qatordan oshmasin — qolganini xabar sahifasida o'qiydi. */
+    .item p{
+      margin-top:.3rem;font-size:.87rem;line-height:1.42;
+      display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;
+    }
+    .item .meta{margin-top:.5rem}
+    /* Sarlavha o'lchami hamon muhimlikni bildiradi, lekin farq kichraydi. */
+    .item.t1 h3{font-size:1.18rem}
+    .item.t2 h3{font-size:1.08rem}
+    .item.t3 h3{font-size:1rem}
+
+    /* Katta kartochkalarda (twin) rasm baribir keng qolsin — ular tanlangan
+       xabarlar va ularga joy ajratish o'rinli. Yuqoridagi .thumb.card qoidasi
+       ularga ham tegib ketmasin: kenglik va nisbatni qaytarib beramiz. */
+    .twin-thumb .thumb.card{width:100%;aspect-ratio:3/2}
+    /* Surati yo'q xabarda kod bilan chizilgan naqsh turadi. Kichik qatorda u
+       mavzu rangini bildiruvchi foydali belgi, lekin katta kartochkada yarim
+       ekranni egallab hech narsa aytmaydi — mobilda olib tashlaymiz. */
+    .twin-thumb svg.thumb.card{display:none}
+    .twin-thumb:has(svg){display:none}
+    .twin-item p{
+      display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden;
+    }
+
+    /* Qahramon xabarning xulosasi butun ekranni egallardi va o'quvchi
+       birinchi ekranda bitta sarlavha ko'rardi. Uch qator yetadi —
+       qolganini xabar sahifasida o'qiydi. */
+    .hero .sum{
+      display:-webkit-box;-webkit-line-clamp:4;-webkit-box-orient:vertical;overflow:hidden;
+    }
+    .hero h1{font-size:clamp(1.9rem,7.4vw,2.6rem)}
   }
   /* ---------- ichki sahifalar ---------- */
   .crumbs{
@@ -333,6 +366,28 @@
   .nav a.tg{color:var(--accent)}
   .nav a.tg:hover{color:var(--ink)}
 
+  /* ---------- Telegram chaqiruvi ---------- */
+  .tgcta{
+    display:flex;align-items:center;justify-content:space-between;gap:1.2rem;
+    flex-wrap:wrap;margin:2.4rem 0;padding:1.5rem 1.6rem;
+    border:1px solid var(--line);background:var(--raise);
+  }
+  .tgcta-text{min-width:0}
+  .tgcta b{
+    display:block;font-size:1.12rem;font-weight:800;letter-spacing:-.02em;
+    color:var(--ink);
+  }
+  .tgcta span{display:block;margin-top:.35rem;color:var(--dim);font-size:.93rem;max-width:48ch}
+  .tgcta a{
+    flex:none;background:var(--accent);color:#fff;font-weight:700;
+    padding:.72rem 1.3rem;border-radius:3px;white-space:nowrap;
+  }
+  .tgcta a:hover{opacity:.87}
+  @media (max-width:600px){
+    .tgcta{padding:1.2rem 1.1rem;margin:1.8rem 0}
+    .tgcta a{width:100%;text-align:center}
+  }
+
   /* ---------- ulashish ---------- */
   .share{
     display:flex;gap:.5rem;flex-wrap:wrap;align-items:center;
@@ -362,7 +417,25 @@
     border:1px solid var(--accent);color:var(--accent);padding:.5rem 1rem;white-space:nowrap;
   }
   .follow a:hover{background:var(--accent);color:#fff}
-  @media (max-width:600px){ .nav{display:none} }
+  /* Ilgari bu yerda .nav butunlay yashirilardi. Natijada telefonda —
+     ya'ni trafikning ko'p qismida — Telegram havolasi ham, mavzular ham
+     ko'rinmasdi. Endi yashirmaymiz, ixchamlashtiramiz. */
+  @media (max-width:600px){
+    .topbar-in{flex-wrap:wrap;row-gap:.5rem}
+    .status{display:none}
+    .nav{
+      order:3;width:100%;margin-left:0;gap:.9rem;
+      overflow-x:auto;flex-wrap:nowrap;scrollbar-width:none;
+      padding-bottom:.15rem;
+    }
+    .nav::-webkit-scrollbar{display:none}
+    .nav a{white-space:nowrap}
+    .nav a.tg{
+      color:var(--paper);background:var(--accent);
+      padding:.22rem .55rem;border-radius:3px;font-weight:700;
+    }
+    .nav a.tg:hover{color:var(--paper);opacity:.85}
+  }
 
 </style>
 </head>
@@ -370,7 +443,7 @@
 <div class="topbar">
   <div class="topbar-in">
     <a class="brand" href="/"><em>Ai</em>lenta</a>
-    <span class="status"><span class="dot"></span>21:01 da yangilandi</span>
+    <span class="status"><span class="dot"></span>21:11 da yangilandi</span>
     <nav class="nav">
       <a href="/arxiv/">Arxiv</a>
       <a href="/mavzular/">Mavzular</a>
@@ -427,7 +500,7 @@
 
   <div class="share">
     <span class="share-label">Ulashish</span>
-    <a class="primary" href="https://t.me/share/url=https%3A%2F%2Failenta.uz%2Fx%2Fanthropic-yangi-claude-fable-5-1-modelini-chiqardi-4f1080%2F&text=Anthropic%20yangi%20Claude%20Fable%205.1%20modelini%20chiqardi"
+    <a class="primary" href="https://t.me/share/url?url=https%3A%2F%2Failenta.uz%2Fx%2Fanthropic-yangi-claude-fable-5-1-modelini-chiqardi-4f1080%2F&text=Anthropic%20yangi%20Claude%20Fable%205.1%20modelini%20chiqardi"
        target="_blank" rel="noopener">Telegram</a>
     <a href="https://wa.me/?text=Anthropic%20yangi%20Claude%20Fable%205.1%20modelini%20chiqardi%20%E2%80%94%20https%3A%2F%2Failenta.uz%2Fx%2Fanthropic-yangi-claude-fable-5-1-modelini-chiqardi-4f1080%2F"
        target="_blank" rel="noopener">WhatsApp</a>
@@ -437,7 +510,7 @@
   </div>
 
   <div class="follow">
-    <p><b>Har uch soatda yangilanadi.</b> Kunning eng muhim xabarlari Telegram kanalida ham chiqadi.</p>
+    <p><b>Har soatda yangilanadi.</b> Kunning eng muhim xabarlari Telegram kanalida ham chiqadi.</p>
     <a href="https://t.me/ailentauz" target="_blank" rel="noopener">@ailentauz</a>
   </div>
 
