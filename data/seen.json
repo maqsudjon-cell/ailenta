@@ -205,7 +205,20 @@
     "https://bbc.co.uk/news/articles/cn9wv80j9w9o?at_medium=RSS&at_campaign=rss",
     "https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt",
     "https://theguardian.com/technology/2026/sep/03/canberra-put-on-notice-ai-submissions-false-information-hallucinations-parliament",
-    "https://the-decoder.com/us-military-adds-chatgpt-and-grok-to-ai-platform-genai-mil"
+    "https://the-decoder.com/us-military-adds-chatgpt-and-grok-to-ai-platform-genai-mil",
+    "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVW1vejVrSEc2dXRITnk1MWdqTXBxaFdsVV9oVkhydl94R0F2UG1nODdnSUdGMU84LU9nMl9IN0tXTFpoSTRaZUNlYzhHTlNCWERQQmk4RTVBR3dVNjNlT2VNZEhweVF1bHJnV294ZGxfeEJzS2pPcUNtTDZjX1d6NmVHX0VzVTJqYURWelkxNEpBZ3ljQ21aaU9FbnQwYmhWNmhDc1Zqdno2YWVTZ3lQa0VUZFVVRFA0UGFHVVpNdkN1N1E",
+    "https://news.google.com/rss/articles/CBMilgFBVV95cUxOREExOVJiV3BnUHprZG1VRXgtVTJuTHFPSUlDUWZmMUd6UW9Zd2ZHUkJabHJtaDA1cUNyRnZMc1VMd1Jpd2RKMnVYSzBXUkw0R3JvUDFwNjRieS1vNTdULVRWdmYtSlgxQmFYLUJ2OFc3aG9TQXcySEQ3RXk2c2JVcFM2a2FEdGs4eTZWWmhDUVVvSjBGTEE",
+    "https://news.google.com/rss/articles/CBMioAFBVV95cUxOT185anNsLUsxU0hSdlZidGFZYVkwbWxmTDlqWHV2YjJYYTIyaVhQQmRKSFhfOUlIMkJmQU1wUzNiVUVJeE1iVkRSMTNELWFtQ3M1YVhraExwSW9xRUNZMmxQNGFYQS1MZUpMWDRmaFZ5X1Y4YWRtaVc3QkZCVmNkLU1ZYnNPNFI0a0sxS2NKRXFHSjdzeV95UFVfNnR6Y1E3",
+    "https://theregister.com/public-sector/2026/09/02/anthropic-hires-architect-of-uk-ai-policy-as-mps-warn-of-clear-conflict-of-interest/5293903",
+    "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNMmdUQk8zVlNBQlJjU25tTXpWekNiRlg3WmVLTl9IRUhpYll5RXpsaFVucXFMaEZFQW9oZnVkMjd6dmhGa2hFX3pqb3hfbFRac2pHZGhRSGt0UlRENkk0a0djUlpmSUtPSnJUNFVTaHBrOTZ1SG9hM2NkOVB3YnItSlc1dVROMnYtRDlMWDVtSmhLbXdlN2FFcmJiMU5xeWdPTUlXMnh4ZW92NEotOWF1RmR4d2swRnotZG43dUxoZC1jX2FYeEVlUGgyWW9UcG1aTUF6WXlrRUVEMENL",
+    "https://wired.com/story/bot-vs-bot-job-interview-ai",
+    "https://microsoft.com/en-us/microsoft-cloud/blog/healthcare/2026/09/01/from-ai-readiness-to-impact-why-a-strong-data-foundation-determines-success-in-healthcare",
+    "https://theguardian.com/technology/2026/sep/02/uber-drivers-europe-legal-action-ai-algorithm",
+    "https://technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale",
+    "https://theguardian.com/uk-news/2026/sep/02/tell-us-do-you-live-near-a-planned-ai-datacentre-uk",
+    "https://huggingface.co/blog/allenai/benchmirt",
+    "https://nature.com/articles/s41467-026-77333-2",
+    "https://nature.com/articles/s44460-026-00136-x"
   ],
   "titles": [
     "anthropic to resume external testing of ai models following security incidents",
@@ -413,6 +426,19 @@
     "lords call for ai kill switch powers in uk",
     "claude s new system prompt really doesn t want to reproduce song lyrics",
     "canberra put on notice as ai generated submissions bring false information into parliamentary inquiries",
-    "us military adds chatgpt and grok to ai platform genai mil"
+    "us military adds chatgpt and grok to ai platform genai mil",
+    "what s inside anthropic claude fable mythos 5 1 smarts safeguards and anti distillation mechanisms",
+    "anthropic s mythos update puts eu back on hold over ai access",
+    "anthropic s new claude fable 5 1 and mythos 5 1 update what s new",
+    "anthropic hires architect of uk ai policy as mps warn of clear conflict of interest",
+    "anthropic hires architect of uk ai policy as mps warn of clear conflict of interest",
+    "the logical end point of ai job interviews is two bots talking to each other",
+    "from ai readiness to impact why a strong data foundation determines success in healthcare",
+    "uber drivers launch european class action over soulless and scary ai algorithm",
+    "facilitating ai integration with simplicity at scale",
+    "tell us do you live near the site of a planned ai datacentre in the uk",
+    "benchmirt what are llm benchmarks actually measuring",
+    "unsupervised discovery of functional sequence patterns from protein language model with motifae",
+    "human judgment in ai assisted dermatology"
   ]
 }
