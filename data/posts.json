@@ -1,5 +1,119 @@
 [
   {
+    "id": "1c4c8cac964e",
+    "slug": "osiyoda-malumotlar-markazlari-bumu-norozilikka-uchramoqda-1c4c8c",
+    "title": "Osiyoda ma'lumotlar markazlari bumu norozilikka uchramoqda",
+    "summary": "Osiyo hukumatlarining sun'iy intellekt bumidan daromad olish istagi aholining ekologiya va sog'liq borasidagi xavotirlari bilan to'qnashmoqda. Bu haqda Semafor nashri xabar berdi.",
+    "tags": [
+      "siyosat",
+      "bulut"
+    ],
+    "importance": 3,
+    "score": 31,
+    "published": "2026-09-02T22:42:05.000Z",
+    "created": "2026-09-02T22:44:41.977Z",
+    "coverage": 2,
+    "source": {
+      "name": "Semafor",
+      "url": "https://semafor.com/article/09/02/2026/asias-data-center-boom-faces-backlash",
+      "title": "Asian data center boom faces backlash",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "d3857e275853",
+    "slug": "kompaniyalar-muqobil-chiplarni-nvidiadan-ustun-qoymoqda-d3857e",
+    "title": "Kompaniyalar muqobil chiplarni Nvidia'dan ustun qo'ymoqda",
+    "summary": "Korxonalar o'z baholash ro'yxatlarida Nvidia bo'lmagan chiplarni ushbu kompaniyaning keyingi avlod GPU'laridan 14 ochko yuqoriga joylashtirdi. Bu haqda VentureBeat nashri xabar berdi.",
+    "tags": [
+      "Nvidia",
+      "chiplar"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-09-02T21:05:59.000Z",
+    "created": "2026-09-02T22:44:41.979Z",
+    "coverage": 1,
+    "source": {
+      "name": "VentureBeat",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbHFNMjYzQzg1WXZTZHA1NXpkdGt6TmlSY3B2Zm9zblJSTWJTVzBJRmlpaHdBdUZuVG12eVd1UTJUQkg0THBaV2JsZ2wtejAzYWZWV1VBVXVkbndjaGN6cUtBSjNURHB1SkowSlZtX0Fidl9hcE1mNkxLU1JXZy1zcFpzRENLSWRuMHFzanpHRU5hYV9tRjY1YWZuQVJCb1M3X1VmYk9xQWlFX0ZfMEIzR2JMbEhwalB1bUVKREQ2c2tXLTRvbnhV",
+      "title": "Enterprises put non-Nvidia chips 14 points ahead of Nvidia's next-gen GPUs on their evaluation lists",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "f77da1d55673",
+    "slug": "techcrunch-disrupt-2026-yangi-real-world-ai-sahnasi-f77da1",
+    "title": "TechCrunch Disrupt 2026: Yangi \"Real World AI\" sahnasi",
+    "summary": "TechCrunch Disrupt 2026 konferensiyasida yangi \"Real World AI\" sahnasi ochiladi. Unda raqamli va jismoniy dunyo kesishmasi muhokama qilinadi. Sahnada Nvidia, robotlar va yo'q bo'lib ketgan hayvonlar namoyish etiladi.",
+    "tags": [
+      "Nvidia",
+      "robototexnika"
+    ],
+    "importance": 2,
+    "score": 18,
+    "published": "2026-09-02T22:24:09.000Z",
+    "created": "2026-09-02T22:44:57.450Z",
+    "coverage": 1,
+    "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals",
+      "title": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "28189ba9a853",
+    "slug": "neyroset-yordamida-xonani-qayta-joylashtirish-28189b",
+    "title": "Neyroset yordamida xonani qayta joylashtirish",
+    "summary": "Bir foydalanuvchi neyroset yordamida xonadagi mebellarni qayta joylashtirdi. Maqsad, 14 va 7 yoshli bolalar yashaydigan xonada qo'shimcha ish joyi yaratish edi. Bu amaliy vazifa dizayn emas, balki funksionallikka qaratilgan.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 1,
+    "score": 17,
+    "published": "2026-09-02T18:44:58.000Z",
+    "created": "2026-09-02T22:44:57.451Z",
+    "coverage": 2,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1077858",
+      "title": "Как с помощью нейросети сделать перестановку в комнате",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "19ea4fc55e35",
+    "slug": "oracle-ai-database-bilan-ilovalar-yaratish-19ea4f",
+    "title": "Oracle AI Database bilan ilovalar yaratish",
+    "summary": "Oracle AI Database va Java MCP Toolkit yordamida A2UI va MCP ilovalarini ishlab chiqish mumkin. Bu ilovalar Google Gemini Enterprise App, ChatGPT va Claude platformalarida ishlaydi.",
+    "tags": [
+      "Oracle",
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 16,
+    "published": "2026-09-02T16:13:38.000Z",
+    "created": "2026-09-02T22:44:57.451Z",
+    "coverage": 1,
+    "source": {
+      "name": "Oracle Blogs",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPTW1YakhmUlhPd0g3a1FLb1oyUDRrb25Sc2VERnlPenkwZHJUaHh2bW8xLVpSNFBYZEJTUzFyYkx3WmVRY1I0YXhzWWI5MkRZTmtBVlFpWlR1cVVoZGpiOGFUY3JaenhMb0hEcDBadEMyRGR2UHU5dXhGV1FNckdDR29VbUl5bkFkUzBudl9JN3RCQUtVNVFxTGJYUHEzOVFxOXpKdEhZSWZ2bmFHM2VHd0NnSnlFNmg1bVdxcUNBb2NzQ2t4cG0xcXhUMGNTbEhwM052WWVibGNSeE1YYWpVaWFXdGNDUnFWOTRxaWlYSWh0V1hxSXdHN2NfNi1vQQ",
+      "title": "Develop A2UI and MCP Apps with Oracle AI Database and the Java MCP Toolkit running in Google Gemini Enterprise App, ChatGPT, and Claude",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "def2ba567c32",
     "slug": "aqsh-adliya-vazirligi-ai-oqitishni-himoya-qildi-def2ba",
     "title": "AQSh Adliya vazirligi AI o'qitishni himoya qildi",
