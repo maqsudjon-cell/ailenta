@@ -1,5 +1,74 @@
 [
   {
+    "id": "1c27240c99d9",
+    "slug": "openai-astra-modelida-recurrent-depth-usulini-qollaydi-1c2724",
+    "title": "OpenAI Astra modelida recurrent depth usulini qo'llaydi",
+    "summary": "The Information xabariga ko'ra, OpenAI'ning yangi Astra modeli recurrent depth texnologiyasidan foydalanadi. Bu usul unumdorlikni oshirib xarajatni kamaytirsa-da, modelning fikrlash zanjirini yashirib, uni nazorat qilishni qiyinlashtiradi.",
+    "tags": [
+      "OpenAI",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 21,
+    "published": "2026-09-02T01:55:00.000Z",
+    "created": "2026-09-02T02:01:05.407Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/260901/p61",
+      "title": "Source: OpenAI's Astra model uses \"recurrent depth\", a technique that improves cost and performance but obscures the AI's reasoning, making it harder to monitor (The Information)",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "3638e3fbd022",
+    "slug": "palo-alto-networks-choraklik-korsatkichlarni-oshirdi-3638e3",
+    "title": "Palo Alto Networks choraklik ko'rsatkichlarni oshirdi",
+    "summary": "Palo Alto Networks kompaniyasi AI vositalariga bo'lgan talab ortishi ortidan choraklik prognozlardan o'zib ketdi. Kompaniyaning aksiyalari joriy yilda deyarli ikki baravar ko'paydi. Shuningdek, u sotib olishlar seriyasini davom ettirmoqda.",
+    "tags": [
+      "biznes",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-09-01T21:41:15.000Z",
+    "created": "2026-09-02T02:01:23.243Z",
+    "coverage": 1,
+    "source": {
+      "name": "CNBC",
+      "url": "https://cnbc.com/2026/09/01/palo-alto-networks-panw-q4-2026-earnings.html",
+      "title": "Palo Alto Networks beats quarterly estimates on AI demand, continues acquisition spree",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "9e5b8fe632ee",
+    "slug": "dell-aksiyalari-ai-serverlari-sababli-9-foizga-osdi-9e5b8f",
+    "title": "Dell aksiyalari AI serverlari sababli 9 foizga o'sdi",
+    "summary": "Dell kompaniyasi AI serverlaridan keladigan daromad uch baravar ko'payishini prognoz qilgach, uning aksiyalari 9 foizga o'sdi. Olti oy avval kompaniya bu ko'rsatkich ikki baravar oshishini kutgan edi. Bu o'sish 2027-moliya yiliga mo'ljallangan.",
+    "tags": [
+      "biznes",
+      "iqtisod"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-09-01T21:40:18.000Z",
+    "created": "2026-09-02T02:01:23.245Z",
+    "coverage": 1,
+    "source": {
+      "name": "CNBC",
+      "url": "https://cnbc.com/2026/09/01/dell-q2-earnings-report-2027.html",
+      "title": "Dell surges 9% after lifting fiscal 2027 forecast on AI server strength",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "631a857c7a24",
     "slug": "gilbert-tobin-yuridik-firmasi-aidan-foydalanmoqda-631a85",
     "title": "Gilbert + Tobin yuridik firmasi AIdan foydalanmoqda",

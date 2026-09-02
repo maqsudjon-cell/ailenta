@@ -2,9 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://ai.maqsudjon.com/</loc>
-    <lastmod>2026-09-01</lastmod>
+    <lastmod>2026-09-02</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://ai.maqsudjon.com/x/openai-astra-modelida-recurrent-depth-usulini-qollaydi-1c2724/</loc>
+    <lastmod>2026-09-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://ai.maqsudjon.com/x/1-trillion-dollarlik-kiberxavfsizlik-tizimi-aiga-tayyor-emas-c66683/</loc>
@@ -26,6 +32,18 @@
   </url>
   <url>
     <loc>https://ai.maqsudjon.com/x/anthropic-mijozlari-80-foiz-kop-pul-tolamoqda-664095/</loc>
+    <lastmod>2026-09-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ai.maqsudjon.com/x/palo-alto-networks-choraklik-korsatkichlarni-oshirdi-3638e3/</loc>
+    <lastmod>2026-09-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ai.maqsudjon.com/x/dell-aksiyalari-ai-serverlari-sababli-9-foizga-osdi-9e5b8f/</loc>
     <lastmod>2026-09-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -703,6 +721,18 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://ai.maqsudjon.com/mavzu/openai/</loc>
+    <lastmod>2026-09-02</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://ai.maqsudjon.com/mavzu/tadqiqot/</loc>
+    <lastmod>2026-09-02</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://ai.maqsudjon.com/mavzu/xavfsizlik/</loc>
     <lastmod>2026-09-01</lastmod>
     <changefreq>daily</changefreq>
@@ -739,12 +769,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://ai.maqsudjon.com/mavzu/openai/</loc>
-    <lastmod>2026-09-01</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://ai.maqsudjon.com/mavzu/qonun/</loc>
     <lastmod>2026-09-01</lastmod>
     <changefreq>daily</changefreq>
@@ -770,12 +794,6 @@
   </url>
   <url>
     <loc>https://ai.maqsudjon.com/mavzu/siyosat/</loc>
-    <lastmod>2026-09-01</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://ai.maqsudjon.com/mavzu/tadqiqot/</loc>
     <lastmod>2026-09-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
@@ -842,7 +860,7 @@
   </url>
   <url>
     <loc>https://ai.maqsudjon.com/kun/2026-09-02/</loc>
-    <lastmod>2026-09-01</lastmod>
+    <lastmod>2026-09-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -860,13 +878,13 @@
   </url>
   <url>
     <loc>https://ai.maqsudjon.com/arxiv/</loc>
-    <lastmod>2026-09-01</lastmod>
+    <lastmod>2026-09-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://ai.maqsudjon.com/mavzular/</loc>
-    <lastmod>2026-09-01</lastmod>
+    <lastmod>2026-09-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
