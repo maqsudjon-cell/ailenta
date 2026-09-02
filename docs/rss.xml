@@ -5,23 +5,31 @@
   <link>https://ailenta.uz</link>
   <description>Dunyodagi sun'iy intellekt yangiliklari o'zbek tilida. Har soatda yangilanadi, har bir xabarda asl manbaga havola.</description>
   <language>uz</language>
-  <lastBuildDate>Wed, 02 Sep 2026 21:01:57 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 02 Sep 2026 21:03:33 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/rss.xml" rel="self" type="application/rss+xml"/>
   <item>
-    <title>Broadcom choraklik daromadini ma'lum qildi</title>
-    <link>https://ailenta.uz/x/broadcom-choraklik-daromadini-malum-qildi-f2d12e/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/broadcom-choraklik-daromadini-malum-qildi-f2d12e/</guid>
+    <title>Broadcom kompaniyasining AI chiplaridan daromadi oshdi</title>
+    <link>https://ailenta.uz/x/broadcom-kompaniyasining-ai-chiplaridan-daromadi-oshdi-f2d12e/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/broadcom-kompaniyasining-ai-chiplaridan-daromadi-oshdi-f2d12e/</guid>
     <pubDate>Wed, 02 Sep 2026 20:45:20 GMT</pubDate>
-    <description>Broadcom kompaniyasining choraklik daromadi 86 foizga oshib, 29,59 milliard dollarni tashkil etdi. AI yarimo'tkazgichlari sotuvi esa 221 foizga o'sib, 16,7 milliard dollarga yetdi. Shunga qaramay, past prognozlar tufayli kompaniya aksiyalari 5 foizga arzonlashdi.</description>
-    <category>biznes</category><category>chiplar</category>
+    <description>Broadcom uchinchi chorakda daromadini 86 foizga oshirib, 29,59 milliard dollarga yetkazdi. Kompaniyaning AI yarimo'tkazgichlaridan olgan daromadi esa 221 foizga o'sib, 16,7 milliard dollarni tashkil etdi. Biroq, keyingi chorak uchun past prognozlar sababli kompaniya aksiyalari 5 foizga arzonlashdi.</description>
+    <category>chiplar</category><category>biznes</category>
   </item>
   <item>
     <title>Snowflake aksiyalari 22 foizga qimmatlashdi</title>
     <link>https://ailenta.uz/x/snowflake-aksiyalari-22-foizga-qimmatlashdi-1f5f1a/</link>
     <guid isPermaLink="true">https://ailenta.uz/x/snowflake-aksiyalari-22-foizga-qimmatlashdi-1f5f1a/</guid>
     <pubDate>Wed, 02 Sep 2026 20:28:39 GMT</pubDate>
-    <description>Snowflake kompaniyasining biznesi tez sur'atlar bilan rivojlanmoqda. Bunga qisman kod yozish uchun sun'iy intellekt agentining joriy etilishi sabab bo'ldi. Natijada kompaniya aksiyalari choraklik hisobotlardan so'ng 22 foizga oshdi.</description>
+    <description>Snowflake kompaniyasining daromadi tez sur'atlar bilan o'smoqda. Bunga qisman kod yozish uchun mo'ljallangan sun'iy intellekt agentining joriy etilishi sabab bo'lgan.</description>
     <category>biznes</category><category>agentlar</category>
+  </item>
+  <item>
+    <title>OpenAI tizimlarni avtomatik o'chirish ustida ishlamoqda</title>
+    <link>https://ailenta.uz/x/openai-tizimlarni-avtomatik-ochirish-ustida-ishlamoqda-ef8e50/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/openai-tizimlarni-avtomatik-ochirish-ustida-ishlamoqda-ef8e50/</guid>
+    <pubDate>Wed, 02 Sep 2026 20:20:02 GMT</pubDate>
+    <description>Reuters ko'rib chiqqan xatga ko'ra, OpenAI AQSh Vakillar palatasining ikki demokrat a'zosiga muhandislari AI tizimlarini avtomatik o'chirish imkoniyatini ishlab chiqayotganini ma'lum qilgan. Bu tizimlar xavfsizligini ta'minlash maqsadida amalga oshirilmoqda.</description>
+    <category>OpenAI</category><category>xavfsizlik</category>
   </item>
   <item>
     <title>AQSh ma'lumot markazlariga soliq imtiyozi bermoqda</title>
@@ -398,14 +406,6 @@
     <pubDate>Wed, 02 Sep 2026 10:02:41 GMT</pubDate>
     <description>Yevropaning yetakchi sun'iy intellekt modeli sifatida Quasar 438B e'lon qilindi. Bu model mintaqadagi AI rivojlanishida muhim qadam hisoblanadi.</description>
     <category>biznes</category>
-  </item>
-  <item>
-    <title>Pangram sun'iy intellektni aniqlashda yetakchiga aylandi</title>
-    <link>https://ailenta.uz/x/pangram-suniy-intellektni-aniqlashda-yetakchiga-aylandi-59bbca/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/pangram-suniy-intellektni-aniqlashda-yetakchiga-aylandi-59bbca/</guid>
-    <pubDate>Wed, 02 Sep 2026 10:00:00 GMT</pubDate>
-    <description>Pangram dasturi matnlarni sun'iy intellekt yordamida yozilganligini aniqlash bo'yicha yetakchi vositaga aylandi. Ushbu texnologiya nashriyot va boshqa sohalardagi mutaxassislar faoliyatiga jiddiy ta'sir ko'rsatmoqda.</description>
-    <category>xavfsizlik</category>
   </item>
 </channel>
 </rss>

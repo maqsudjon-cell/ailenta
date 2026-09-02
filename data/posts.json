@@ -3,7 +3,7 @@
     "id": "1f5f1a9c60bc",
     "slug": "snowflake-aksiyalari-22-foizga-qimmatlashdi-1f5f1a",
     "title": "Snowflake aksiyalari 22 foizga qimmatlashdi",
-    "summary": "Snowflake kompaniyasining biznesi tez sur'atlar bilan rivojlanmoqda. Bunga qisman kod yozish uchun sun'iy intellekt agentining joriy etilishi sabab bo'ldi. Natijada kompaniya aksiyalari choraklik hisobotlardan so'ng 22 foizga oshdi.",
+    "summary": "Snowflake kompaniyasining daromadi tez sur'atlar bilan o'smoqda. Bunga qisman kod yozish uchun mo'ljallangan sun'iy intellekt agentining joriy etilishi sabab bo'lgan.",
     "tags": [
       "biznes",
       "agentlar"
@@ -11,7 +11,7 @@
     "importance": 3,
     "score": 25,
     "published": "2026-09-02T20:28:39.000Z",
-    "created": "2026-09-02T21:01:16.699Z",
+    "created": "2026-09-02T21:02:47.682Z",
     "coverage": 1,
     "source": {
       "name": "CNBC",
@@ -24,22 +24,45 @@
   },
   {
     "id": "f2d12ecd3e55",
-    "slug": "broadcom-choraklik-daromadini-malum-qildi-f2d12e",
-    "title": "Broadcom choraklik daromadini ma'lum qildi",
-    "summary": "Broadcom kompaniyasining choraklik daromadi 86 foizga oshib, 29,59 milliard dollarni tashkil etdi. AI yarimo'tkazgichlari sotuvi esa 221 foizga o'sib, 16,7 milliard dollarga yetdi. Shunga qaramay, past prognozlar tufayli kompaniya aksiyalari 5 foizga arzonlashdi.",
+    "slug": "broadcom-kompaniyasining-ai-chiplaridan-daromadi-oshdi-f2d12e",
+    "title": "Broadcom kompaniyasining AI chiplaridan daromadi oshdi",
+    "summary": "Broadcom uchinchi chorakda daromadini 86 foizga oshirib, 29,59 milliard dollarga yetkazdi. Kompaniyaning AI yarimo'tkazgichlaridan olgan daromadi esa 221 foizga o'sib, 16,7 milliard dollarni tashkil etdi. Biroq, keyingi chorak uchun past prognozlar sababli kompaniya aksiyalari 5 foizga arzonlashdi.",
     "tags": [
-      "biznes",
-      "chiplar"
+      "chiplar",
+      "biznes"
     ],
     "importance": 4,
     "score": 21,
     "published": "2026-09-02T20:45:20.000Z",
-    "created": "2026-09-02T21:01:16.700Z",
+    "created": "2026-09-02T21:02:47.683Z",
     "coverage": 2,
     "source": {
       "name": "Techmeme",
       "url": "https://techmeme.com/260902/p40",
       "title": "Broadcom reports Q3 revenue up 86% YoY to $29.59B, vs. $29.36B est., AI semiconductor revenue up 221% to $16.7B, and forecasts Q4 revenue below estimates (Jordan Novet/CNBC)",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "ef8e50ee5c8a",
+    "slug": "openai-tizimlarni-avtomatik-ochirish-ustida-ishlamoqda-ef8e50",
+    "title": "OpenAI tizimlarni avtomatik o'chirish ustida ishlamoqda",
+    "summary": "Reuters ko'rib chiqqan xatga ko'ra, OpenAI AQSh Vakillar palatasining ikki demokrat a'zosiga muhandislari AI tizimlarini avtomatik o'chirish imkoniyatini ishlab chiqayotganini ma'lum qilgan. Bu tizimlar xavfsizligini ta'minlash maqsadida amalga oshirilmoqda.",
+    "tags": [
+      "OpenAI",
+      "xavfsizlik"
+    ],
+    "importance": 4,
+    "score": 18,
+    "published": "2026-09-02T20:20:02.000Z",
+    "created": "2026-09-02T21:02:57.099Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/260902/p38",
+      "title": "Letter: OpenAI told two House Democrats that its engineers are developing \"automated shutdown capabilities\" for AI systems (Courtney Rozen/Reuters)",
       "indirect": false
     },
     "also": [],
