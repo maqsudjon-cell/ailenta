@@ -1,5 +1,49 @@
 [
   {
+    "id": "6282dc9e630f",
+    "slug": "pangram-matnlarda-ai-ishlatilganini-fosh-qildi-6282dc",
+    "title": "Pangram matnlarda AI ishlatilganini fosh qildi",
+    "summary": "Pangram xizmati The New York Times va The Wall Street Journal nashrlarida sun'iy intellekt qo'llanganini aniqladi. Shuningdek, ushbu vosita yirik kitob shartnomasining bekor qilinishiga sababchi bo'ldi.",
+    "tags": [
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-09-02T22:49:25.000Z",
+    "created": "2026-09-02T23:01:07.655Z",
+    "coverage": 1,
+    "source": {
+      "name": "Semafor",
+      "url": "https://semafor.com/article/09/02/2026/textual-sleuths-wage-crusade-against-ai-slop-with-pangram",
+      "title": "Textual sleuths fight AI slop with Pangram",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "361a495fe5ec",
+    "slug": "palo-alto-networks-console-startapini-sotib-oldi-361a49",
+    "title": "Palo Alto Networks Console startapini sotib oldi",
+    "summary": "Manbalarga ko'ra, Palo Alto Networks kompaniyasi Console startapini 500 million dollarga sotib olgan. Ushbu kelishuvdan so'ng, Serval startapi sun'iy intellektga asoslangan IT xizmatlarini avtomatlashtirish sohasida yetakchiga aylanishi kutilmoqda.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-09-02T22:44:56.000Z",
+    "created": "2026-09-02T23:01:20.527Z",
+    "coverage": 1,
+    "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say",
+      "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "1c4c8cac964e",
     "slug": "osiyoda-malumotlar-markazlari-bumu-norozilikka-uchramoqda-1c4c8c",
     "title": "Osiyoda ma'lumotlar markazlari bumu norozilikka uchramoqda",
