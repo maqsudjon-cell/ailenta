@@ -5,7 +5,7 @@
   <link>https://ai.maqsudjon.com</link>
   <description>Dunyodagi sun'iy intellekt yangiliklari o'zbek tilida. Har uch soatda yangilanadi, har bir xabarda asl manbaga havola.</description>
   <language>uz</language>
-  <lastBuildDate>Wed, 02 Sep 2026 00:04:49 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 02 Sep 2026 00:29:51 GMT</lastBuildDate>
   <atom:link href="https://ai.maqsudjon.com/rss.xml" rel="self" type="application/rss+xml"/>
   <item>
     <title>AfterQuery 3.2 milliard dollarga baholandi</title>
@@ -72,6 +72,14 @@
     <category>Apple</category><category>OpenAI</category>
   </item>
   <item>
+    <title>Gubernator ma'lumot markazlarini tanqid qildi</title>
+    <link>https://ai.maqsudjon.com/x/gubernator-malumot-markazlarini-tanqid-qildi-73a1ac/</link>
+    <guid isPermaLink="true">https://ai.maqsudjon.com/x/gubernator-malumot-markazlarini-tanqid-qildi-73a1ac/</guid>
+    <pubDate>Tue, 01 Sep 2026 20:16:05 GMT</pubDate>
+    <description>Pensilvaniya gubernatori Shapironing aytishicha, ko'plab ma'lumot markazlari yaratuvchilari mahalliy jamoalar haqida qayg'urmaydi. May oyidagi Gallup so'roviga ko'ra, har 10 amerikalikdan 7 nafari o'z hududida sun'iy intellekt ma'lumot markazlari qurilishiga qarshi chiqmoqda.</description>
+    <category>siyosat</category>
+  </item>
+  <item>
     <title>OpenAI Astra modelining kiber funksiyalarini cheklaydi</title>
     <link>https://ai.maqsudjon.com/x/openai-astra-modelining-kiber-funksiyalarini-cheklaydi-b2b3b8/</link>
     <guid isPermaLink="true">https://ai.maqsudjon.com/x/openai-astra-modelining-kiber-funksiyalarini-cheklaydi-b2b3b8/</guid>
@@ -102,6 +110,14 @@
     <pubDate>Tue, 01 Sep 2026 19:03:01 GMT</pubDate>
     <description>OpenAI Codex ish stoli ilovasi (hozirgi ChatGPT) o'zining runtime papkasida 1.7 GB hajmdagi ma'lumotlarni saqlaydi. Ular orasida LibreOffice, Python va Node.js kabi dasturiy ta'minotlar mavjud.</description>
     <category>OpenAI</category><category>biznes</category>
+  </item>
+  <item>
+    <title>Hugging Face platformasiga hujum va javobgarlik bahsi</title>
+    <link>https://ai.maqsudjon.com/x/hugging-face-platformasiga-hujum-va-javobgarlik-bahsi-95180d/</link>
+    <guid isPermaLink="true">https://ai.maqsudjon.com/x/hugging-face-platformasiga-hujum-va-javobgarlik-bahsi-95180d/</guid>
+    <pubDate>Tue, 01 Sep 2026 19:02:54 GMT</pubDate>
+    <description>Hugging Face dasturchilar platformasiga qilingan kiberhujum AI xavfsizligi bo'yicha bahslarga sabab bo'ldi. Ba'zilar hujumda OpenAI kompaniyasini, boshqalar esa sun'iy intellekt sivilizatsiyalarini ayblamoqda. Bu munozaralar kiberxavfsizlik hodisasi uchun javobgarlikni kompaniyadan boshqa tomonga yo'naltirishi mumkin.</description>
+    <category>Hugging Face</category><category>xavfsizlik</category>
   </item>
   <item>
     <title>Anthropic ma'lumotlarni saqlash siyosatini o'zgartirdi</title>
@@ -390,22 +406,6 @@
     <pubDate>Tue, 01 Sep 2026 11:00:01 GMT</pubDate>
     <description>OneRail kompaniyasi Nvidia bilan hamkorlikda chakana sotuvchilar uchun yangi platforma ishga tushirdi. Tizim sun'iy intellekt yordamida yetkazib berish bo'yicha tezroq va samaraliroq qarorlar qabul qilishga yordam beradi.</description>
     <category>Nvidia</category><category>biznes</category>
-  </item>
-  <item>
-    <title>Apple kompaniyasida Jon Ternus davri boshlandi</title>
-    <link>https://ai.maqsudjon.com/x/apple-kompaniyasida-jon-ternus-davri-boshlandi-4e69db/</link>
-    <guid isPermaLink="true">https://ai.maqsudjon.com/x/apple-kompaniyasida-jon-ternus-davri-boshlandi-4e69db/</guid>
-    <pubDate>Tue, 01 Sep 2026 11:00:01 GMT</pubDate>
-    <description>Jon Ternus Apple bosh direktori sifatidagi faoliyatini boshladi. Bu davr kompaniya uchun xotira narxlari oshishi va sun'iy intellekt sohasidagi qiyinchiliklar kuchaygan vaqtga to'g'ri keldi.</description>
-    <category>Apple</category><category>biznes</category>
-  </item>
-  <item>
-    <title>Nvidia dunyo robotlarini boshqarishni xohlamoqda</title>
-    <link>https://ai.maqsudjon.com/x/nvidia-dunyo-robotlarini-boshqarishni-xohlamoqda-65ddc6/</link>
-    <guid isPermaLink="true">https://ai.maqsudjon.com/x/nvidia-dunyo-robotlarini-boshqarishni-xohlamoqda-65ddc6/</guid>
-    <pubDate>Tue, 01 Sep 2026 10:31:36 GMT</pubDate>
-    <description>Nvidia kompaniyasi butun dunyodagi robotlarni boshqarishga intilmoqda. Xitoy esa ushbu texnologiyaning faol xaridoriga aylandi.</description>
-    <category>Nvidia</category><category>robototexnika</category>
   </item>
 </channel>
 </rss>
