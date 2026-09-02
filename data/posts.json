@@ -1,5 +1,143 @@
 [
   {
+    "id": "4df22e291125",
+    "slug": "google-2026-yil-avgust-oyidagi-ai-yangiliklarini-elon-qildi-4df22e",
+    "title": "Google 2026-yil avgust oyidagi AI yangiliklarini e'lon qildi",
+    "summary": "Google 2026-yil avgust oyida e'lon qilingan so'nggi AI yangilanishlarini taqdim etdi. Bu kompaniyaning sun'iy intellekt sohasidagi yangi ishlanmalarini o'z ichiga oladi.",
+    "tags": [
+      "Google",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 28,
+    "published": "2026-09-01T20:45:00.000Z",
+    "created": "2026-09-02T21:22:08.833Z",
+    "coverage": 1,
+    "source": {
+      "name": "Google",
+      "url": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026",
+      "title": "The latest AI news we announced in August 2026",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "3c9c234d63ff",
+    "slug": "microsoft-2026-yilda-masuliyatli-ai-haqida-malumot-berdi-3c9c23",
+    "title": "Microsoft 2026-yilda mas'uliyatli AI haqida ma'lumot berdi",
+    "summary": "Microsoft 2026-yilda mas'uliyatli AIga qanday moslashayotgani haqida post e'lon qildi. Unda kompaniyaning kelajakdagi yondashuvlari yoritilgan.",
+    "tags": [
+      "Microsoft",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 26.3,
+    "published": "2026-09-01T16:39:21.000Z",
+    "created": "2026-09-02T21:22:08.833Z",
+    "coverage": 1,
+    "source": {
+      "name": "Microsoft",
+      "url": "https://blogs.microsoft.com/on-the-issues/2026/09/01/responsible-ai-in-2026-how-we-are-adapting-for-whats-ahead",
+      "title": "Responsible AI in 2026: How we are adapting for what’s ahead",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "03f62d1fd788",
+    "slug": "hpe-uchinchi-chorak-daromadi-34-osganini-malum-qildi-03f62d",
+    "title": "HPE uchinchi chorak daromadi 34% o'sganini ma'lum qildi",
+    "summary": "HPE uchinchi chorakda daromadi 34% ga oshib, 12,2 milliard dollarni tashkil etganini xabar qildi. Kompaniya bulut firmasi bilan 3,5 milliard dollarlik server shartnomasini imzoladi va AI yuklamalari tufayli kelgusi yillar uchun sotuv prognozini oshirdi.",
+    "tags": [
+      "biznes",
+      "bulut"
+    ],
+    "importance": 4,
+    "score": 24,
+    "published": "2026-09-02T21:05:02.000Z",
+    "created": "2026-09-02T21:22:08.834Z",
+    "coverage": 2,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/260902/p41",
+      "title": "HPE reports Q3 revenue up 34% YoY to $12.2B, vs. $11.9B est., forecasts FY 2026 and FY 2027 sales growth above est., signs a $3.5B server deal with a cloud firm (Dina Bass/Bloomberg)",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "cf155639f674",
+    "slug": "openai-va-anthropicdan-keyin-oltita-curl-cve-aniqlandi-cf1556",
+    "title": "OpenAI va Anthropic'dan keyin oltita curl CVE aniqlandi",
+    "summary": "OpenAI va Anthropic kompaniyalari nol natija qaytarganidan so'ng, oltita curl CVE (umumiy zaifliklar va ta'sirlar) aniqlandi. Bu xavfsizlik bilan bog'liq yangi muammolarni ko'rsatadi.",
+    "tags": [
+      "OpenAI",
+      "Anthropic"
+    ],
+    "importance": 3,
+    "score": 23.7,
+    "published": "2026-09-02T13:43:14.000Z",
+    "created": "2026-09-02T21:22:08.834Z",
+    "coverage": 1,
+    "source": {
+      "name": "Hacker News",
+      "url": "https://aisle.com/blog/aisle-discovered-six-curl-cves-after-openai-and-anthropic-found-zero",
+      "title": "Six curl CVEs after OpenAI and Anthropic came back with zero",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "569889965fd0",
+    "slug": "mit-va-ibm-ai-va-kvant-texnologiyalarini-tezlashtirmoqda-569889",
+    "title": "MIT va IBM AI va kvant texnologiyalarini tezlashtirmoqda",
+    "summary": "MIT va IBM Computing Research Lab hamkorligida AI va kvant texnologiyalarini joriy etish tezlashtirilmoqda. Bu nazariy bilimlarni ishlab chiqarish tizimlariga tatbiq etishga qaratilgan.",
+    "tags": [
+      "IBM",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-09-02T20:25:00.000Z",
+    "created": "2026-09-02T21:22:08.834Z",
+    "coverage": 1,
+    "source": {
+      "name": "MIT News",
+      "url": "https://news.mit.edu/2026/from-mit-to-ibm-expediting-ai-and-quantum-deployment-0902",
+      "title": "From MIT to IBM, expediting AI and quantum deployment",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "d95e434cdce1",
+    "slug": "amerikaliklar-aini-yaxshi-koradi-ammo-malumot-markazlarini-e-d95e43",
+    "title": "Amerikaliklar AI'ni yaxshi ko'radi, ammo ma'lumot markazlarini emas",
+    "summary": "Amerikaliklar sun'iy intellekt modellaridan foydalanishni yoqtiradi, ammo ularni quvvatlantiruvchi ma'lumot markazlarini yomon ko'radi. Ular yirik texnologiya kompaniyalariga ishonmaydi.",
+    "tags": [
+      "siyosat",
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 18,
+    "published": "2026-09-02T21:13:24.000Z",
+    "created": "2026-09-02T21:22:08.835Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/americans-love-ai-they-dont-want-the-data-centers-2026-9",
+      "title": "Americans love AI. They don't want the data centers that power it.",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "1f5f1a9c60bc",
     "slug": "snowflake-aksiyalari-22-foizga-qimmatlashdi-1f5f1a",
     "title": "Snowflake aksiyalari 22 foizga qimmatlashdi",
