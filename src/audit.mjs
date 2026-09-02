@@ -23,6 +23,10 @@ async function htmlFiles(dir = DOCS, base = "") {
     const p = join(dir, e.name);
     if (e.isDirectory()) out.push(...(await htmlFiles(p, `${base}/${e.name}`)));
     else if (e.name === "index.html") out.push({ file: p, url: `${base}/` });
+    // Qidiruv tizimlarining tasdiqlash fayllari .html bilan tugaydi, lekin
+    // sahifa emas — ular ichida bitta qator matn turadi. Ularni sahifa deb
+    // tekshirsak "h1 yo'q", "sitemapda yo'q" kabi yolg'on xatolar chiqadi.
+    else if (/^(google[0-9a-f]+|BingSiteAuth|yandex_[0-9a-f]+)\.html$/i.test(e.name)) continue;
     else if (e.name.endsWith(".html")) out.push({ file: p, url: `${base}/${e.name}` });
   }
   return out;
