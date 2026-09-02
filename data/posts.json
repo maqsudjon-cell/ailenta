@@ -1,5 +1,97 @@
 [
   {
+    "id": "d466ecc95ce9",
+    "slug": "apple-ai-va-tijorat-sirlari-boyicha-xavotirda-d466ec",
+    "title": "Apple AI va tijorat sirlari bo'yicha xavotirda",
+    "summary": "Apple kompaniyasi dushanba kungi arizasida sun'iy intellekt modeli yoki agentiga kiritilgan tijorat sirlari qaytarib bo'lmaydigan oqibatlarga olib kelishi mumkinligini ma'lum qildi. Bu haqda Business Insider xabar berdi.",
+    "tags": [
+      "Apple",
+      "maxfiylik"
+    ],
+    "importance": 3,
+    "score": 21,
+    "published": "2026-09-02T09:01:01.000Z",
+    "created": "2026-09-02T10:01:10.657Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/apple-openai-trade-secret-lawsuit-ai-unlearning-2026-9",
+      "title": "Apple raises new concerns around clawing back trade secrets from an AI",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "12d39a17e497",
+    "slug": "aqsh-g20da-ai-tartibga-solishni-yumshatishga-chaqirdi-12d39a",
+    "title": "AQSh G20da AI tartibga solishni yumshatishga chaqirdi",
+    "summary": "AQSh G20 texnologik yig'ilishida sun'iy intellektni tartibga solishda yumshoqroq yondashuvni qo'llashga chaqirdi. Shuningdek, Anthropic kompaniyasi yangi qoidalar va dasturiy ta'minot bilan bog'liq xavotirlarni muhokama qilish uchun uchrashuv o'tkazdi.",
+    "tags": [
+      "siyosat",
+      "Anthropic"
+    ],
+    "importance": 3,
+    "score": 20,
+    "published": "2026-09-02T07:15:00.000Z",
+    "created": "2026-09-02T10:01:26.853Z",
+    "coverage": 2,
+    "source": {
+      "name": "MediaNama",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5WR3dGdHB5OUVTMF9tWVVWZEFlU3FlYWg0VWQ0bERkb0NRLXJDYXVMX2lmMnRWRl91Nk9vMlU0bGJhQ21hQUNxOU0tRnZVT1N5aUdpYnl5RmhZQUxrQmVtTkpMcUdxZTdhdzRreGdUMmZ4WHlLOWdMT2gzWGw",
+      "title": "US calls for hands-off AI regulation at G20 tech meeting",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "922e0f8214d9",
+    "slug": "britaniya-kiberqonuni-ai-foydalanuvchilariga-qaratiladi-922e0f",
+    "title": "Britaniya kiberqonuni AI foydalanuvchilariga qaratiladi",
+    "summary": "Buyuk Britaniyaning yangi kiberqonun loyihasi sun'iy intellekt yaratuvchilarini emas, balki undan foydalanuvchilarni nishonga oladi. Vazirlar favqulodda o'chirish vakolatlarini rad etib, ixtiyoriy himoya choralarini ma'qullashdi.",
+    "tags": [
+      "qonun",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-09-02T09:44:00.000Z",
+    "created": "2026-09-02T10:01:26.854Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/security/2026/09/02/uk-cyber-bill-targets-ai-users-not-the-vendors-building-it/5293738",
+      "title": "UK cyber bill targets AI users, not the vendors building it",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "cf23f423cd36",
+    "slug": "meta-kelishuvi-yangi-ai-mahsulotlariga-yol-ochishi-mumkin-cf23f4",
+    "title": "Meta kelishuvi yangi AI mahsulotlariga yo'l ochishi mumkin",
+    "summary": "Morgan Stanley tahlilchilariga ko'ra, Meta kompaniyasining huquqiy kelishuvi yangi sun'iy intellekt mahsulotlarini taqdim etishga imkon beradi. Ushbu kelishuvdan so'ng kompaniyaning mahsulotlar liniyasi faollashishi kutilmoqda.",
+    "tags": [
+      "Meta",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-09-02T09:19:25.000Z",
+    "created": "2026-09-02T10:01:26.855Z",
+    "coverage": 1,
+    "source": {
+      "name": "CNBC",
+      "url": "https://cnbc.com/2026/09/02/meta-18-billion-settlement-ai-products.html",
+      "title": "Meta settlement could clear the way for new AI product launches, Morgan Stanley says",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "626250e9afb3",
     "slug": "aqsh-siyosatida-suniy-intellektli-videolar-kopaymoqda-626250",
     "title": "AQSh siyosatida sun'iy intellektli videolar ko'paymoqda",
