@@ -1,5 +1,73 @@
 [
   {
+    "id": "631a857c7a24",
+    "slug": "gilbert-tobin-yuridik-firmasi-aidan-foydalanmoqda-631a85",
+    "title": "Gilbert + Tobin yuridik firmasi AIdan foydalanmoqda",
+    "summary": "Gilbert + Tobin yuridik firmasi ChatGPT Enterprise va Codex modellarini butun kompaniya bo'ylab joriy etmoqda. Buning uchun firma qat'iy boshqaruv va insoniy javobgarlik tamoyillaridan foydalanadi.",
+    "tags": [
+      "OpenAI",
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 34.1,
+    "published": "2026-09-01T01:00:00.000Z",
+    "created": "2026-09-02T01:11:06.441Z",
+    "coverage": 1,
+    "source": {
+      "name": "OpenAI",
+      "url": "https://openai.com/index/gilbert-tobin",
+      "title": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "c666839c3d27",
+    "slug": "1-trillion-dollarlik-kiberxavfsizlik-tizimi-aiga-tayyor-emas-c66683",
+    "title": "1 trillion dollarlik kiberxavfsizlik tizimi AIga tayyor emas",
+    "summary": "Palo Alto bosh direktori Nikesh Arora sun'iy intellekt kompaniyalarni kiberxavfsizlik infratuzilmasini yangilashga majbur qilayotganini bildirdi. Uning so'zlariga ko'ra, taxminan 1 trillion dollarlik eskirgan tizimlar hujumlardan himoyalanish uchun yetarli darajada jihozlanmagan.",
+    "tags": [
+      "xavfsizlik",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-09-01T23:20:44.000Z",
+    "created": "2026-09-02T01:11:13.922Z",
+    "coverage": 1,
+    "source": {
+      "name": "CNBC",
+      "url": "https://cnbc.com/2026/09/01/palo-alto-ceo-says-1-trillion-of-cybersecurity-infrastructure-isnt-ready-for-ai.html",
+      "title": "Palo Alto CEO says $1 trillion of cybersecurity infrastructure isn’t ready for AI",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "8120590dc579",
+    "slug": "ai-eksporti-osiyo-valyutalarini-mustahkamladi-812059",
+    "title": "AI eksporti Osiyo valyutalarini mustahkamladi",
+    "summary": "Goldman Sachs hisobotiga ko'ra, Janubiy Koreya, Tayvan va Malayziya valyutalari boshqa mamlakatlardan ko'ra ko'proq o'sish ko'rsatdi. Bunga mazkur davlatlarning Silikon vodiysi AI xarajatlaridan tushayotgan eksport daromadlari sabab bo'ldi.",
+    "tags": [
+      "iqtisod"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-09-01T22:52:14.000Z",
+    "created": "2026-09-02T01:11:13.923Z",
+    "coverage": 1,
+    "source": {
+      "name": "Semafor",
+      "url": "https://semafor.com/article/09/01/2026/asian-currencies-boosted-by-ai-exports-goldman-sachs",
+      "title": "Asian currencies boosted by AI exports: Goldman Sachs",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "5aec0c714ba2",
     "slug": "openai-va-sb-energy-ortasidagi-bogliqlik-oshkor-boldi-5aec0c",
     "title": "OpenAI va SB Energy o'rtasidagi bog'liqlik oshkor bo'ldi",
