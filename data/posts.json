@@ -1,5 +1,168 @@
 [
   {
+    "id": "f91940d0ff30",
+    "slug": "aqsh-savdo-vaziri-anthropic-mamuriyat-bilan-togri-yolda-f91940",
+    "title": "AQSh savdo vaziri: Anthropic ma'muriyat bilan \"to'g'ri yo'lda\"",
+    "summary": "AQSh savdo vaziri Howard Lutnick Anthropic kompaniyasiga ishonch bildirdi. Uning so'zlariga ko'ra, Anthropic ma'muriyat bilan \"to'g'ri yo'lda\" va ulardan so'ralgan ishlarni bajargan.",
+    "tags": [
+      "Anthropic",
+      "siyosat"
+    ],
+    "importance": 4,
+    "score": 27,
+    "published": "2026-09-02T16:30:02.000Z",
+    "created": "2026-09-02T16:45:14.889Z",
+    "coverage": 3,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/260902/p32",
+      "title": "Commerce Secretary Howard Lutnick says \"we trust Anthropic\" as they are \"back on the right side\" with the administration and that \"they've done what we asked\" (Maria Curi/Axios)",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "75fde16a17c3",
+    "slug": "aqsh-mamuriyati-openaini-nyt-sudida-qollab-quvvatladi-75fde1",
+    "title": "AQSh ma'muriyati OpenAI'ni NYT sudida qo'llab-quvvatladi",
+    "summary": "AQSh ma'muriyati The New York Times'ning OpenAI'ga qarshi mualliflik huquqi bo'yicha sudiga aralashdi. Ma'muriyat OpenAI foydasiga chiqib, katta til modellarini mualliflik huquqi bilan himoyalangan asarlarda o'qitish odatda adolatli foydalanish hisoblanishini ta'kidladi.",
+    "tags": [
+      "OpenAI",
+      "qonun"
+    ],
+    "importance": 5,
+    "score": 24,
+    "published": "2026-09-02T16:12:25.000Z",
+    "created": "2026-09-02T16:45:14.890Z",
+    "coverage": 2,
+    "source": {
+      "name": "The Verge",
+      "url": "https://theverge.com/ai-artificial-intelligence/988344/trump-administration-new-york-times-openai-lawsuit",
+      "title": "The Trump administration is supporting OpenAI in the NYT copyright lawsuit",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "Techmeme",
+        "url": "https://techmeme.com/260902/p25"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "441ed5a219b2",
+    "slug": "mistral-endi-foydalanuvchi-malumotlarida-oqitiladi-441ed5",
+    "title": "Mistral endi foydalanuvchi ma'lumotlarida o'qitiladi",
+    "summary": "Mistral kompaniyasi endi o'z modellarini foydalanuvchi kiritgan ma'lumotlar asosida standart tarzda o'qitadi. Bu qoida faqat korporativ darajadagi xizmatlar uchun istisno qilinadi.",
+    "tags": [
+      "Mistral",
+      "maxfiylik"
+    ],
+    "importance": 4,
+    "score": 22.7,
+    "published": "2026-09-02T12:30:39.000Z",
+    "created": "2026-09-02T16:45:14.890Z",
+    "coverage": 1,
+    "source": {
+      "name": "Hacker News",
+      "url": "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training",
+      "title": "Mistral now trains on user input by default, except on enterprise tier",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "e06dcd6cace6",
+    "slug": "texas-politsiyasi-ai-yordamida-hisobot-yozdi-e06dcd",
+    "title": "Texas politsiyasi AI yordamida hisobot yozdi",
+    "summary": "Texas politsiyasi abort qildirgan ayolni qidirishda Flock tizimidan foydalangani haqida hisobot yozish uchun sun'iy intellektdan foydalandi. Ushbu voqea politsiya departamentlari nozik holatlarda ham AI kuzatuv vositalaridan tez fursatda foydalana boshlaganini ko'rsatadi.",
+    "tags": [
+      "maxfiylik",
+      "siyosat"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-09-02T15:57:29.000Z",
+    "created": "2026-09-02T16:45:47.471Z",
+    "coverage": 1,
+    "source": {
+      "name": "404 Media",
+      "url": "https://404media.co/texas-police-used-ai-to-write-report-about-using-flock-to-search-for-woman-who-had-abortion",
+      "title": "Texas Police Used AI to Write Report About Using Flock to Search for Woman Who Had Abortion",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "2373971d0c47",
+    "slug": "nyu-york-gubernatorligiga-nomzod-ai-video-yaratdi-237397",
+    "title": "Nyu-York gubernatorligiga nomzod AI-video yaratdi",
+    "summary": "Nyu-York gubernatorligiga respublikachi nomzod Zohran Mamdani va Keti Hokul ishtirokida sun'iy intellekt yordamida video tayyorladi. Ushbu videoda ular xuddi retseptli dori-darmonlar reklamasida birga vaqt o'tkazayotgandek tasvirlangan.",
+    "tags": [
+      "siyosat"
+    ],
+    "importance": 2,
+    "score": 19,
+    "published": "2026-09-02T15:09:02.000Z",
+    "created": "2026-09-02T16:45:47.471Z",
+    "coverage": 1,
+    "source": {
+      "name": "404 Media",
+      "url": "https://404media.co/bruce-blakeman-ai-campaign-video-mamdani-hochul",
+      "title": "The Republican Nominee for New York Governor Made a Creepy, AI-Generated Video of Mamdani and Hochul",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "12bff037b7e7",
+    "slug": "haydovchisiz-mashinalar-xatosini-aniqlovchi-tizim-12bff0",
+    "title": "Haydovchisiz mashinalar xatosini aniqlovchi tizim",
+    "summary": "Yangi ishlab chiqilgan CW-Net usuli haydovchisiz transport vositalarining qachon xato qilishini oldindan aytishga yordam beradi. Tizim avtonom transport AI tizimining fikrlash jarayonini uning xatti-harakatlarini tushuntiruvchi tushunchalarga o'girib beradi.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-09-02T15:00:00.000Z",
+    "created": "2026-09-02T16:45:47.472Z",
+    "coverage": 1,
+    "source": {
+      "name": "MIT News",
+      "url": "https://news.mit.edu/2026/system-helps-humans-predict-when-self-driving-cars-will-make-mistakes-0902",
+      "title": "System helps humans predict when self-driving cars will make mistakes",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "b38a186b31f0",
+    "slug": "microsoft-yangilanishi-outlook-va-teamsni-buzdi-b38a18",
+    "title": "Microsoft yangilanishi Outlook va Teams'ni buzdi",
+    "summary": "Microsoft yangilanishi Arm arxitekturali shaxsiy kompyuterlarda Outlook va Teams dasturlari ishini buzdi. Muammoni bartaraf etish uchun AI o'yin paketini o'rnatish yordam beradi, biroq bunda maxsus kursorlar sozlamalari alohida tiklanadi.",
+    "tags": [
+      "Microsoft"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-09-02T12:30:00.000Z",
+    "created": "2026-09-02T16:45:47.472Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/os-platforms/2026/09/02/microsoft-update-disarms-outlook-and-teams-on-arm-pcs/5293849",
+      "title": "Microsoft update disarms Outlook and Teams on Arm PCs",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "61ebde09fb2b",
     "slug": "anthropic-claude-fable-va-mythos-5-1-modellarini-yangiladi-61ebde",
     "title": "Anthropic Claude Fable va Mythos 5.1 modellarini yangiladi",
