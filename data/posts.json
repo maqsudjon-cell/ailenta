@@ -1,17 +1,17 @@
 [
   {
     "id": "99960f674f3d",
-    "slug": "buyuk-britaniyada-ai-uchun-ochirish-tugmasi-talab-qilinmoqda-99960f",
-    "title": "Buyuk Britaniyada AI uchun \"o'chirish tugmasi\" talab qilinmoqda",
-    "summary": "Buyuk Britaniya Lordlar palatasi sun'iy intellekt tizimlari uchun \"o'chirish tugmasi\" vakolatlarini joriy etishga chaqirdi. Bu OpenAI va Anthropic kabi kompaniyalarning nazoratsiz AI tizimlariga qarshi muhim xavfsizlik tarmog'i bo'lishi aytilmoqda.",
+    "slug": "britaniyada-ai-uchun-ochirish-tugmasi-talab-qilinmoqda-99960f",
+    "title": "Britaniyada AI uchun o'chirish tugmasi talab qilinmoqda",
+    "summary": "Buyuk Britaniya lordlar palatasi a'zolari sun'iy intellekt tizimlarini favqulodda o'chirish vakolatini joriy etishga chaqirmoqda. Bu chora OpenAI va Anthropic kabi nazoratdan chiqib ketishi mumkin bo'lgan tizimlarga qarshi muhim xavfsizlik tarmog'i bo'lishi kutilmoqda.",
     "tags": [
-      "xavfsizlik",
-      "qonun"
+      "OpenAI",
+      "xavfsizlik"
     ],
     "importance": 4,
     "score": 29,
     "published": "2026-09-02T14:41:52.000Z",
-    "created": "2026-09-02T15:02:44.244Z",
+    "created": "2026-09-02T15:05:16.832Z",
     "coverage": 1,
     "source": {
       "name": "BBC News",
@@ -23,41 +23,17 @@
     "model": "gemini"
   },
   {
-    "id": "3c9c234d63ff",
-    "slug": "microsoft-2026-yilda-masuliyatli-ai-haqida-malumot-berdi-3c9c23",
-    "title": "Microsoft 2026-yilda mas'uliyatli AI haqida ma'lumot berdi",
-    "summary": "Microsoft kompaniyasi 2026-yilda mas'uliyatli sun'iy intellektni rivojlantirish va kelajakdagi o'zgarishlarga moslashish yo'llari haqida post e'lon qildi.",
-    "tags": [
-      "Microsoft",
-      "xavfsizlik"
-    ],
-    "importance": 3,
-    "score": 28.9,
-    "published": "2026-09-01T16:39:21.000Z",
-    "created": "2026-09-02T15:02:44.246Z",
-    "coverage": 1,
-    "source": {
-      "name": "Microsoft",
-      "url": "https://blogs.microsoft.com/on-the-issues/2026/09/01/responsible-ai-in-2026-how-we-are-adapting-for-whats-ahead",
-      "title": "Responsible AI in 2026: How we are adapting for what’s ahead",
-      "indirect": false
-    },
-    "also": [],
-    "model": "gemini"
-  },
-  {
     "id": "7c32fbb7723e",
-    "slug": "anthropic-claude-uchun-yangi-tizim-promptini-elon-qildi-7c32fb",
-    "title": "Anthropic Claude uchun yangi tizim promptini e'lon qildi",
-    "summary": "Anthropic kompaniyasi Claude ilovalari uchun tizim promptlarini, jumladan, Haiku 4.5 modelining yangilangan promptini e'lon qildi. Yangi promptda qo'shiq matnlarini takrorlamaslikka urg'u berilgan.",
+    "slug": "claude-yangi-tizim-korsatmalari-elon-qilindi-7c32fb",
+    "title": "Claude yangi tizim ko'rsatmalari e'lon qilindi",
+    "summary": "Anthropic kompaniyasi Claude ilovalari uchun tizim ko'rsatmalarini e'lon qildi. Yangilangan ko'rsatmalarga ko'ra, model qo'shiq matnlarini qayta tiklashdan bosh tortadi.",
     "tags": [
-      "Anthropic",
-      "ochiq model"
+      "Anthropic"
     ],
     "importance": 2,
     "score": 24,
     "published": "2026-09-02T14:16:42.000Z",
-    "created": "2026-09-02T15:02:44.246Z",
+    "created": "2026-09-02T15:05:16.832Z",
     "coverage": 1,
     "source": {
       "name": "Simon Willison",
@@ -70,17 +46,17 @@
   },
   {
     "id": "8b86d7bebf83",
-    "slug": "ai-yaratgan-malumotlar-parlament-sorovlariga-notogri-axborot-8b86d7",
-    "title": "AI yaratgan ma'lumotlar parlament so'rovlariga noto'g'ri axborot kiritmoqda",
-    "summary": "Avstraliya parlament qo'mitalari raislari sun'iy intellekt tomonidan yaratilgan materiallar siyosatga noto'g'ri ma'lumotlarni kiritayotganidan ogohlantirdi. Guardian Australia tahlili AI tomonidan yaratilgan kontent so'rovlarni to'ldirib, mavjud bo'lmagan tadqiqotlarni ixtiro qilayotganini ko'rsatdi.",
+    "slug": "avstraliya-parlamentiga-ai-notogri-malumotlar-kiritmoqda-8b86d7",
+    "title": "Avstraliya parlamentiga AI noto'g'ri ma'lumotlar kiritmoqda",
+    "summary": "Avstraliya parlamenti qo'mitalari rahbarlari sun'iy intellekt tomonidan yaratilgan materiallar qonun ijodkorligiga noto'g'ri ma'lumotlar olib kirayotganidan ogohlantirdi. AI mavjud bo'lmagan tadqiqotlarni haqiqiy olimlarga bog'lab, soxta ma'lumotlar yaratmoqda.",
     "tags": [
       "siyosat",
       "xavfsizlik"
     ],
-    "importance": 4,
+    "importance": 3,
     "score": 23,
     "published": "2026-09-02T15:00:27.000Z",
-    "created": "2026-09-02T15:02:44.247Z",
+    "created": "2026-09-02T15:05:16.833Z",
     "coverage": 1,
     "source": {
       "name": "The Guardian",
@@ -92,55 +68,10 @@
     "model": "gemini"
   },
   {
-    "id": "6a052858f31d",
-    "slug": "kompaniyalarda-ai-integratsiyasini-soddalashtirish-muhokama--6a0528",
-    "title": "Kompaniyalarda AI integratsiyasini soddalashtirish muhokama qilindi",
-    "summary": "MIT Technology Review kompaniyalarda sun'iy intellekt integratsiyasini keng miqyosda soddalashtirish masalasini ko'rib chiqdi. Maqolada tarqoq tizimlar va ma'lumotlar siloslari AI samaradorligiga to'sqinlik qilishi ta'kidlangan.",
-    "tags": [
-      "biznes"
-    ],
-    "importance": 2,
-    "score": 23,
-    "published": "2026-09-02T14:00:00.000Z",
-    "created": "2026-09-02T15:02:44.248Z",
-    "coverage": 1,
-    "source": {
-      "name": "MIT Technology Review",
-      "url": "https://technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale",
-      "title": "Facilitating AI integration with simplicity at scale",
-      "indirect": false
-    },
-    "also": [],
-    "model": "gemini"
-  },
-  {
-    "id": "db7274fad155",
-    "slug": "buyuk-britaniyada-ai-malumotlar-markazlariga-qarshi-norozili-db7274",
-    "title": "Buyuk Britaniyada AI ma'lumotlar markazlariga qarshi norozilik kuchaymoqda",
-    "summary": "Buyuk Britaniyada sun'iy intellekt ma'lumotlar markazlarining yangi qurilishlariga qarshi norozilik kuchaymoqda. Shotlandiya Milliy partiyasi va Yashillar AI ma'lumotlar markazlarini rivojlantirishga moratoriy qo'llab-quvvatladi.",
-    "tags": [
-      "siyosat",
-      "bulut"
-    ],
-    "importance": 3,
-    "score": 23,
-    "published": "2026-09-02T13:32:44.000Z",
-    "created": "2026-09-02T15:02:44.248Z",
-    "coverage": 1,
-    "source": {
-      "name": "The Guardian",
-      "url": "https://theguardian.com/uk-news/2026/sep/02/tell-us-do-you-live-near-a-planned-ai-datacentre-uk",
-      "title": "Tell us: do you live near the site of a planned AI datacentre in the UK?",
-      "indirect": false
-    },
-    "also": [],
-    "model": "gemini"
-  },
-  {
     "id": "8482b459c2e3",
-    "slug": "aqsh-harbiylari-genai-mil-platformasiga-chatgpt-va-grokni-qo-8482b4",
-    "title": "AQSh harbiylari GenAI.mil platformasiga ChatGPT va Grokni qo'shdi",
-    "summary": "Pentagon o'zining GenAI.mil sun'iy intellekt platformasini kengaytirmoqda. Unga OpenAI'ning ChatGPT Mil va xAI'ning Grok for Government modellarini qo'shish rejalashtirilgan.",
+    "slug": "aqsh-harbiylari-genai-mil-platformasiga-ai-modellarini-qoshd-8482b4",
+    "title": "AQSh harbiylari GenAI.mil platformasiga AI modellarini qo'shdi",
+    "summary": "Pentagon o'zining GenAI.mil AI platformasini kengaytirib, unga OpenAI'ning ChatGPT Mil va xAI'ning Grok for Government modellarini qo'shdi.",
     "tags": [
       "OpenAI",
       "xAI"
@@ -148,7 +79,7 @@
     "importance": 3,
     "score": 21,
     "published": "2026-09-02T14:40:51.000Z",
-    "created": "2026-09-02T15:03:44.519Z",
+    "created": "2026-09-02T15:05:31.355Z",
     "coverage": 1,
     "source": {
       "name": "The Decoder",
