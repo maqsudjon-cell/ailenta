@@ -1,9 +1,31 @@
 [
   {
+    "id": "80d66d3a6686",
+    "slug": "frilanserlar-ai-xatolarini-tuzatishga-kop-vaqt-sarflamoqda-80d66d",
+    "title": "Frilanserlar AI xatolarini tuzatishga ko'p vaqt sarflamoqda",
+    "summary": "Ko'plab kompaniyalar original ish yaratish o'rniga sun'iy intellekt xatolarini tuzatish uchun frilanserlarni yollamoqda. Masalan, ispaniyalik dizaynerning logotip va qadoqlash bo'yicha buyurtmalarining 90 foizi AI yaratgan kamchiliklarni to'g'rilashdan iborat bo'lib qoldi.",
+    "tags": [
+      "mehnat bozori"
+    ],
+    "importance": 3,
+    "score": 29,
+    "published": "2026-09-02T12:00:23.000Z",
+    "created": "2026-09-02T12:02:54.582Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/technology/2026/sep/02/ai-jobs-freelance-cleanup",
+      "title": "Freelancers are getting buried with ‘soulless’ AI slop cleanup: ‘It’s a shame we need to do it’",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "8eb843f02e25",
-    "slug": "anthropic-moslashuv-va-xavfsizlik-amaliyotlari-yaxshilanmoqd-8eb843",
-    "title": "Anthropic: Moslashuv va xavfsizlik amaliyotlari yaxshilanmoqda",
-    "summary": "Anthropic kompaniyasi o'zining moslashuv va xavfsizlik amaliyotlarini takomillashtirayotganini ma'lum qildi. Bu kompaniyaning AI tizimlarini yanada ishonchli qilishga qaratilgan.",
+    "slug": "anthropic-xavfsizlik-va-moslashuv-amaliyotlarini-yaxshilamoq-8eb843",
+    "title": "Anthropic xavfsizlik va moslashuv amaliyotlarini yaxshilamoqda",
+    "summary": "Anthropic kompaniyasi o'zining sun'iy intellekt modellarining xavfsizligi va moslashuvchanligini oshirish bo'yicha amaliyotlarini takomillashtirayotganini e'lon qildi. Bu harakatlar AI tizimlarining ishonchliligi va mas'uliyatini ta'minlashga qaratilgan.",
     "tags": [
       "Anthropic",
       "xavfsizlik"
@@ -11,36 +33,13 @@
     "importance": 3,
     "score": 16.9,
     "published": "2026-08-31T22:43:26.000Z",
-    "created": "2026-09-02T12:01:43.687Z",
+    "created": "2026-09-02T12:03:06.710Z",
     "coverage": 1,
     "source": {
       "name": "Anthropic",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE00LWY0NEplRlIyRFlGZENXb0VQc0ZNb3BuSjlZeTB3OWdqWEh5eEFxbzJMa0hFTkhrYy03NjZ5MGdsMnNKbHJsXzVpVENSb014eXdXaEkzOXFHWUVRa1U3TXhpVWZCb0FJaHFqWTJhLW9JbGtYWGc",
       "title": "Improving our alignment and security practices",
       "indirect": true
-    },
-    "also": [],
-    "model": "gemini"
-  },
-  {
-    "id": "4769be960494",
-    "slug": "google-deepmind-rahbari-ai-yetakchiligini-muhim-deb-atadi-4769be",
-    "title": "Google DeepMind rahbari AI yetakchiligini muhim deb atadi",
-    "summary": "Google DeepMind'ning yangi rahbari Koray Kavukcuoglu kompaniyaning hozirgi modellarini \"chegaradan biroz pastroq\" deb tan oldi. U AI sohasida yetakchilikka erishishga 100% ishonch bildirdi.",
-    "tags": [
-      "Google",
-      "tadqiqot"
-    ],
-    "importance": 3,
-    "score": 15.1,
-    "published": "2026-09-01T16:49:11.000Z",
-    "created": "2026-09-02T12:01:43.688Z",
-    "coverage": 1,
-    "source": {
-      "name": "The Decoder",
-      "url": "https://the-decoder.com/google-deepminds-new-chief-says-frontier-ai-leadership-is-the-only-thing-that-matters",
-      "title": "Google Deepmind&#039;s new chief says frontier AI leadership is the only thing that matters",
-      "indirect": false
     },
     "also": [],
     "model": "gemini"
