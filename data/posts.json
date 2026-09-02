@@ -1,5 +1,93 @@
 [
   {
+    "id": "8a013d3b01f2",
+    "slug": "youtubeda-ai-videolarini-yashiruvchi-kengaytma-yaratildi-8a013d",
+    "title": "YouTube'da AI videolarini yashiruvchi kengaytma yaratildi",
+    "summary": "Safari brauzeri uchun Weedout deb nomlangan yangi kengaytma taqdim etildi. Ushbu vosita YouTube platformasida sun'iy intellekt yordamida yaratilgan deb belgilangan videolarni foydalanuvchilardan yashirish imkonini beradi.",
+    "tags": [
+      "Apple"
+    ],
+    "importance": 2,
+    "score": 20.5,
+    "published": "2026-09-01T22:06:57.000Z",
+    "created": "2026-09-02T09:01:47.667Z",
+    "coverage": 1,
+    "source": {
+      "name": "Hacker News",
+      "url": "https://masteranza.github.io/weedout",
+      "title": "Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "626250e9afb3",
+    "slug": "aqshda-ai-va-aktyorlar-ishtirokidagi-videolar-tarqaldi-626250",
+    "title": "AQShda AI va aktyorlar ishtirokidagi videolar tarqaldi",
+    "summary": "AQShda sun'iy intellekt matnlari va pullik aktyorlar yordamida tayyorlangan videolar orqali daromad topish yo'lga qo'yildi. \"Yashirin ijodkorlar\" deb ataluvchi guruhlar demokratlarga qarshi qaratilgan shov-shuvli videolar bilan millionlab tomoshabinlarni jalb qilmoqda.",
+    "tags": [
+      "siyosat"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-09-02T08:58:23.000Z",
+    "created": "2026-09-02T09:01:47.668Z",
+    "coverage": 1,
+    "source": {
+      "name": "Semafor",
+      "url": "https://semafor.com/article/09/02/2026/paid-actors-ai-writing-how-a-new-kind-of-video-business-cashed-in-on-americas-divided-politics",
+      "title": "Paid actors, AI writing: How a new kind of video business cashed in on America’s divided politics",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "c888f4a82514",
+    "slug": "aqsh-respublikachilari-ai-masalalarini-chetga-surib-qoydi-c888f4",
+    "title": "AQSh respublikachilari AI masalalarini chetga surib qo'ydi",
+    "summary": "AQSh Vakillar palatasidagi respublikachilar qonunchilik ishlarini yakunlash uchun qolishlarini ma'lum qildi. Biroq, ular sun'iy intellekt masalalari bilan emas, balki yillik mudofaa siyosati to'g'risidagi qonun loyihasi kabi boshqa vazifalar bilan shug'ullanadi.",
+    "tags": [
+      "siyosat"
+    ],
+    "importance": 2,
+    "score": 19,
+    "published": "2026-09-02T08:55:17.000Z",
+    "created": "2026-09-02T09:01:47.669Z",
+    "coverage": 1,
+    "source": {
+      "name": "Semafor",
+      "url": "https://semafor.com/article/09/02/2026/house-republicans-may-stick-around-but-not-for-ai-work",
+      "title": "House Republicans may stick around — but not for AI work",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "d15f2b596907",
+    "slug": "chikago-fed-rahbari-ai-shov-shuvidan-ogohlantirdi-d15f2b",
+    "title": "Chikago Fed rahbari AI shov-shuvidan ogohlantirdi",
+    "summary": "Chikago Federal zaxira banki prezidenti Ostan Gulsbi an'anaviy iqtisodiyotga qaytish niyatida ekanini ma'lum qildi. U oddiy amerikaliklarga e'tibor qaratish, inflyatsiyani jilovlash va sun'iy intellekt atrofidagi ortiqcha shov-shuvlardan ehtiyot bo'lish muhimligini ta'kidladi.",
+    "tags": [
+      "iqtisod"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-09-02T07:00:00.000Z",
+    "created": "2026-09-02T09:01:47.670Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/09/02/austan-goolsbee-old-school-economics-consumers-health",
+      "title": "Chicago Fed’s Austan Goolsbee wants to get back to ‘old school’ economics: Focused on ordinary Americans, mindful of AI hype, and sharp on inflation",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "22b27e530cb9",
     "slug": "bojxonada-suniy-intellektni-joriy-etish-muhokamasi-22b27e",
     "title": "Bojxonada sun'iy intellektni joriy etish muhokamasi",
