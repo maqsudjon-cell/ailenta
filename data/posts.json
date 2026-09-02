@@ -1,5 +1,51 @@
 [
   {
+    "id": "8eb843f02e25",
+    "slug": "anthropic-moslashuv-va-xavfsizlik-amaliyotlari-yaxshilanmoqd-8eb843",
+    "title": "Anthropic: Moslashuv va xavfsizlik amaliyotlari yaxshilanmoqda",
+    "summary": "Anthropic kompaniyasi o'zining moslashuv va xavfsizlik amaliyotlarini takomillashtirayotganini ma'lum qildi. Bu kompaniyaning AI tizimlarini yanada ishonchli qilishga qaratilgan.",
+    "tags": [
+      "Anthropic",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 16.9,
+    "published": "2026-08-31T22:43:26.000Z",
+    "created": "2026-09-02T12:01:43.687Z",
+    "coverage": 1,
+    "source": {
+      "name": "Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE00LWY0NEplRlIyRFlGZENXb0VQc0ZNb3BuSjlZeTB3OWdqWEh5eEFxbzJMa0hFTkhrYy03NjZ5MGdsMnNKbHJsXzVpVENSb014eXdXaEkzOXFHWUVRa1U3TXhpVWZCb0FJaHFqWTJhLW9JbGtYWGc",
+      "title": "Improving our alignment and security practices",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "4769be960494",
+    "slug": "google-deepmind-rahbari-ai-yetakchiligini-muhim-deb-atadi-4769be",
+    "title": "Google DeepMind rahbari AI yetakchiligini muhim deb atadi",
+    "summary": "Google DeepMind'ning yangi rahbari Koray Kavukcuoglu kompaniyaning hozirgi modellarini \"chegaradan biroz pastroq\" deb tan oldi. U AI sohasida yetakchilikka erishishga 100% ishonch bildirdi.",
+    "tags": [
+      "Google",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 15.1,
+    "published": "2026-09-01T16:49:11.000Z",
+    "created": "2026-09-02T12:01:43.688Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/google-deepminds-new-chief-says-frontier-ai-leadership-is-the-only-thing-that-matters",
+      "title": "Google Deepmind&#039;s new chief says frontier AI leadership is the only thing that matters",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "8a013d3b01f2",
     "slug": "safari-uchun-ai-videolarini-yashiruvchi-kengaytma-yaratildi-8a013d",
     "title": "Safari uchun AI videolarini yashiruvchi kengaytma yaratildi",
