@@ -391,6 +391,11 @@ export const CSS = `<style>
   }
 
   /* ---------- ulashish ---------- */
+  /* Sarlavha ostidagi nusxa maqolani bo'lib yubormasligi kerak — u yengilroq. */
+  .share.share-top{
+    border-top:0;margin-top:1.2rem;padding-top:0;
+  }
+  .share.share-top .share-label{display:none}
   .share{
     display:flex;gap:.5rem;flex-wrap:wrap;align-items:center;
     padding:1.4rem 0 0;border-top:1px solid var(--hair);margin-top:1.4rem;

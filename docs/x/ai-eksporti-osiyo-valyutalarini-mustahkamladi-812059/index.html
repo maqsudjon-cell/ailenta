@@ -389,6 +389,11 @@
   }
 
   /* ---------- ulashish ---------- */
+  /* Sarlavha ostidagi nusxa maqolani bo'lib yubormasligi kerak — u yengilroq. */
+  .share.share-top{
+    border-top:0;margin-top:1.2rem;padding-top:0;
+  }
+  .share.share-top .share-label{display:none}
   .share{
     display:flex;gap:.5rem;flex-wrap:wrap;align-items:center;
     padding:1.4rem 0 0;border-top:1px solid var(--hair);margin-top:1.4rem;
@@ -443,7 +448,7 @@
 <div class="topbar">
   <div class="topbar-in">
     <a class="brand" href="/"><em>Ai</em>lenta</a>
-    <span class="status"><span class="dot"></span>22:02 da yangilandi</span>
+    <span class="status"><span class="dot"></span>22:06 da yangilandi</span>
     <nav class="nav">
       <a href="/arxiv/">Arxiv</a>
       <a href="/mavzular/">Mavzular</a>
@@ -472,6 +477,16 @@
       <span class="when-inline">2-sentabr, 03:52 · 18 soat oldin</span>
       <a class="chip" href="/mavzu/iqtisod/">iqtisod</a>
     </div>
+    <!-- Ulashish faqat maqola oxirida edi. Ko'p o'quvchi o'sha yergacha
+         yetib bormaydi, shuning uchun sarlavha ostida ham turadi. -->
+    <div class="share share-top">
+      <span class="share-label">Ulashish</span>
+      <a class="primary" href="https://t.me/share/url?url=https%3A%2F%2Failenta.uz%2Fx%2Fai-eksporti-osiyo-valyutalarini-mustahkamladi-812059%2F&text=AI%20eksporti%20Osiyo%20valyutalarini%20mustahkamladi"
+         target="_blank" rel="noopener">Telegram</a>
+      <a href="https://wa.me/?text=AI%20eksporti%20Osiyo%20valyutalarini%20mustahkamladi%20%E2%80%94%20https%3A%2F%2Failenta.uz%2Fx%2Fai-eksporti-osiyo-valyutalarini-mustahkamladi-812059%2F"
+         target="_blank" rel="noopener">WhatsApp</a>
+      <button type="button" class="copy" data-url="https://ailenta.uz/x/ai-eksporti-osiyo-valyutalarini-mustahkamladi-812059/">Havolani nusxalash</button>
+    </div>
   </article>
 
   <section class="outlets">
@@ -497,11 +512,6 @@
     <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Failenta.uz%2Fx%2Fai-eksporti-osiyo-valyutalarini-mustahkamladi-812059%2F&text=AI%20eksporti%20Osiyo%20valyutalarini%20mustahkamladi"
        target="_blank" rel="noopener">X</a>
     <button type="button" class="copy" data-url="https://ailenta.uz/x/ai-eksporti-osiyo-valyutalarini-mustahkamladi-812059/">Havolani nusxalash</button>
-  </div>
-
-  <div class="follow">
-    <p><b>Har soatda yangilanadi.</b> Kunning eng muhim xabarlari Telegram kanalida ham chiqadi.</p>
-    <a href="https://t.me/ailentauz" target="_blank" rel="noopener">@ailentauz</a>
   </div>
 
   
@@ -569,6 +579,17 @@
       <a class="item-thumb" href="/x/malumot-markazlariga-qarshi-global-noroziliklar-844be0/" aria-hidden="true" tabindex="-1"><svg class="thumb card" viewBox="0 0 220 147" width="220" height="147" preserveAspectRatio="xMidYMid slice" aria-hidden="true"><rect width="220" height="147" rx="6" fill="#A16207" opacity=".12"/><g opacity=".85"><rect x="15" y="7" width="6" height="23" rx="3" fill="#A16207" opacity="0.5"/><circle cx="18" cy="55" r="11" fill="#A16207" opacity="0.3"/><circle cx="55" cy="18" r="11" fill="none" stroke="#A16207" stroke-width="4" opacity="0.5"/><circle cx="55" cy="92" r="11" fill="#A16207" opacity="0.8"/><circle cx="55" cy="129" r="11" fill="#A16207" opacity="0.3"/><circle cx="92" cy="18" r="11" fill="#A16207" opacity="0.6"/><circle cx="92" cy="92" r="11" fill="none" stroke="#A16207" stroke-width="4" opacity="0.4"/><circle cx="92" cy="129" r="11" fill="#A16207" opacity="0.6"/><rect x="125" y="7" width="6" height="23" rx="3" fill="#A16207" opacity="0.5"/><circle cx="128" cy="55" r="11" fill="#A16207" opacity="0.4"/><rect x="154" y="15" width="23" height="6" rx="3" fill="#A16207" opacity="0.5"/><circle cx="165" cy="92" r="11" fill="none" stroke="#A16207" stroke-width="4" opacity="0.2"/><circle cx="165" cy="129" r="11" fill="#A16207" opacity="0.4"/><rect x="199" y="7" width="6" height="23" rx="3" fill="#A16207" opacity="0.5"/><circle cx="202" cy="92" r="11" fill="none" stroke="#A16207" stroke-width="4" opacity="0.8"/><circle cx="202" cy="129" r="11" fill="#A16207" opacity="0.7"/></g><circle cx="110" cy="73.5" r="35" fill="#fff" opacity=".93"/><g transform="translate(92 56) scale(1.5)"><path d="M4 17 L9 11 L13 14 L20 5" fill="none" stroke="#A16207" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><path d="M15 5 H20 V10" fill="none" stroke="#A16207" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></g></svg></a>
     </article>
   </section>
+
+  <!-- Taklif eng oxirida: o'quvchi maqolani ham, o'xshash xabarlarni ham
+       ko'rgach, keyingi qadam nima ekani aniq bo'lsin. -->
+  <aside class="tgcta">
+    <div class="tgcta-text">
+      <b>Yangi xabarlarni o'tkazib yubormang</b>
+      <span>Kunning eng muhim AI yangiliklari Telegram kanalida ham chiqadi —
+      o'zbek tilida, qisqa va manba havolasi bilan.</span>
+    </div>
+    <a href="https://t.me/ailentauz" target="_blank" rel="noopener">@ailentauz</a>
+  </aside>
 
   <footer>
     <span><a href="/"><em>Ai</em>lenta</a> · ailenta.uz</span>

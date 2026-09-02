@@ -84,6 +84,16 @@ ${topbar(now.hhmm)}
       <span class="when-inline">${t.day}-${t.month}, ${t.hhmm} · ${ago(p.published)}</span>
       ${tagChips(p, u)}
     </div>
+    <!-- Ulashish faqat maqola oxirida edi. Ko'p o'quvchi o'sha yergacha
+         yetib bormaydi, shuning uchun sarlavha ostida ham turadi. -->
+    <div class="share share-top">
+      <span class="share-label">Ulashish</span>
+      <a class="primary" href="https://t.me/share/url?url=${encodeURIComponent(`${SITE.url}/x/${p.slug}/`)}&text=${encodeURIComponent(p.title)}"
+         target="_blank" rel="noopener">Telegram</a>
+      <a href="https://wa.me/?text=${encodeURIComponent(`${p.title} — ${SITE.url}/x/${p.slug}/`)}"
+         target="_blank" rel="noopener">WhatsApp</a>
+      <button type="button" class="copy" data-url="${SITE.url}/x/${p.slug}/">Havolani nusxalash</button>
+    </div>
   </article>
 
   <section class="outlets">
@@ -119,16 +129,22 @@ ${topbar(now.hhmm)}
     <button type="button" class="copy" data-url="${SITE.url}/x/${p.slug}/">Havolani nusxalash</button>
   </div>
 
-  <div class="follow">
-    <p><b>Har soatda yangilanadi.</b> Kunning eng muhim xabarlari Telegram kanalida ham chiqadi.</p>
-    <a href="https://t.me/${SITE.telegram}" target="_blank" rel="noopener">@${SITE.telegram}</a>
-  </div>
-
   ${related.length ? `
   <section class="related">
     <h2>Shu mavzuda</h2>
     ${related.map((r) => listItem(r, u)).join("")}
   </section>` : ""}
+
+  <!-- Taklif eng oxirida: o'quvchi maqolani ham, o'xshash xabarlarni ham
+       ko'rgach, keyingi qadam nima ekani aniq bo'lsin. -->
+  <aside class="tgcta">
+    <div class="tgcta-text">
+      <b>Yangi xabarlarni o'tkazib yubormang</b>
+      <span>Kunning eng muhim AI yangiliklari Telegram kanalida ham chiqadi —
+      o'zbek tilida, qisqa va manba havolasi bilan.</span>
+    </div>
+    <a href="https://t.me/${SITE.telegram}" target="_blank" rel="noopener">@${SITE.telegram}</a>
+  </aside>
 ${foot(now)}`;
 }
 

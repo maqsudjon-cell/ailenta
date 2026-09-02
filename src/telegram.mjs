@@ -20,6 +20,17 @@ const PAUSE = 1500; // Telegram kanalga soniyasiga bir nechta xabar yuborishni c
 // ertalabki dayjestga tushadi — aks holda kanal kuniga 30 ta post bilan to'ladi.
 const MIN_IMPORTANCE = Number(process.env.TELEGRAM_MIN_IMPORTANCE || 4);
 
+// Kanal tezligi. Jadval kuniga 8 martadan ~30 martaga chiqqach, kuniga 25 ta
+// xabar keta boshladi — obunachi uchun bu juda ko'p.
+//
+// Chegarani ko'tarish yordam bermaydi: LLM eng yuqori baho sifatida 4 qo'yadi,
+// 5 hech qachon chiqmaydi. Ya'ni MIN_IMPORTANCE=5 kanalni butunlay jimitardi.
+// Shuning uchun muhimlik emas, TEZLIK cheklanadi.
+const MAX_PER_DAY = Number(process.env.TELEGRAM_MAX_PER_DAY || 8);
+const MIN_GAP_MIN = Number(process.env.TELEGRAM_MIN_GAP_MIN || 45);
+const PER_RUN = Number(process.env.TELEGRAM_PER_RUN || 2);
+const MAX_AGE_HOURS = Number(process.env.TELEGRAM_MAX_AGE_HOURS || 24);
+
 const esc = (s = "") =>
   String(s).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
 
@@ -114,29 +125,57 @@ async function main() {
   const bySlug = new Map(posts.map((p) => [p.slug, p]));
 
   // Bir marta yuborilgan xabar ikkinchi marta ketmasin.
-  let sent = [];
+  //
+  // Fayl ilgari oddiy slug ro'yxati edi, endi har yozuvda vaqt ham bor —
+  // tezlikni hisoblash uchun kerak. Eski yozuvlar ham o'qiladi.
+  let raw = [];
   try {
-    sent = JSON.parse(await readFile(join(ROOT, "data/telegram-sent.json"), "utf8"));
+    raw = JSON.parse(await readFile(join(ROOT, "data/telegram-sent.json"), "utf8"));
   } catch {}
-  const sentSet = new Set(sent);
+  const sent = raw.map((e) => (typeof e === "string" ? { slug: e, at: null } : e));
+  const sentSet = new Set(sent.map((e) => e.slug));
 
-  const queue = (run.slugs || [])
-    .filter((s) => !sentSet.has(s))
-    .map((s) => bySlug.get(s))
-    .filter(Boolean)
+  const now = Date.now();
+  const DAY = 86400_000;
+
+  const lastDay = sent.filter((e) => e.at && now - Date.parse(e.at) < DAY).length;
+  const lastAt = sent.reduce(
+    (m, e) => (e.at && Date.parse(e.at) > m ? Date.parse(e.at) : m), 0
+  );
+  const sinceLast = lastAt ? (now - lastAt) / 60000 : Infinity;
+
+  if (lastDay >= MAX_PER_DAY) {
+    console.log(`Telegram: kunlik chegara to'ldi (${lastDay}/${MAX_PER_DAY}) — o'tkazib yuborildi.`);
+    return;
+  }
+  if (sinceLast < MIN_GAP_MIN) {
+    console.log(`Telegram: oxirgi xabardan ${Math.round(sinceLast)} daqiqa o'tdi, kamida ${MIN_GAP_MIN} kerak.`);
+    return;
+  }
+
+  // Navbat SHU yugurishda yozilganlar bilan cheklanmaydi. Aks holda tezlik
+  // cheklovi tufayli o'tkazib yuborilgan xabar boshqa hech qachon ketmasdi:
+  // keyingi yugurishda last-run.json boshqa slug'lar bilan almashadi.
+  const queue = posts
+    .filter((p) => !sentSet.has(p.slug))
     .filter((p) => p.importance >= MIN_IMPORTANCE)
-    // Muhimi oldin ketsin.
-    .sort((a, b) => b.importance - a.importance);
+    // Eskirgan xabarni kanalga chiqarish ma'nosiz.
+    .filter((p) => now - Date.parse(p.published) < MAX_AGE_HOURS * 3600_000)
+    .sort((a, b) => b.importance - a.importance || b.published.localeCompare(a.published));
 
   if (!queue.length) {
     console.log(`Telegram: muhimlik ${MIN_IMPORTANCE}+ bo'lgan yangi xabar yo'q.`);
     return;
   }
 
+  const budget = Math.min(PER_RUN, MAX_PER_DAY - lastDay, queue.length);
+  const batch = queue.slice(0, budget);
+
   let ok = 0;
-  for (const p of queue) {
+  for (const p of batch) {
     try {
       await send(message(p), join(ROOT, `docs/og/${p.slug}.jpg`));
+      sent.push({ slug: p.slug, at: new Date().toISOString() });
       sentSet.add(p.slug);
       ok++;
       console.log(`  → ${p.title}`);
@@ -148,9 +187,12 @@ async function main() {
 
   await writeFile(
     join(ROOT, "data/telegram-sent.json"),
-    JSON.stringify([...sentSet].slice(-3000), null, 2)
+    JSON.stringify(sent.slice(-3000), null, 2)
   );
-  console.log(`Telegram: ${ok}/${queue.length} ta xabar yuborildi.`);
+  console.log(
+    `Telegram: ${ok} ta yuborildi · navbatda ${queue.length - ok} ta · ` +
+    `bugun ${lastDay + ok}/${MAX_PER_DAY}`
+  );
 }
 
 main();

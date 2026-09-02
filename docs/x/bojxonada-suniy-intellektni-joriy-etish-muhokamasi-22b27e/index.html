@@ -389,6 +389,11 @@
   }
 
   /* ---------- ulashish ---------- */
+  /* Sarlavha ostidagi nusxa maqolani bo'lib yubormasligi kerak — u yengilroq. */
+  .share.share-top{
+    border-top:0;margin-top:1.2rem;padding-top:0;
+  }
+  .share.share-top .share-label{display:none}
   .share{
     display:flex;gap:.5rem;flex-wrap:wrap;align-items:center;
     padding:1.4rem 0 0;border-top:1px solid var(--hair);margin-top:1.4rem;
@@ -443,7 +448,7 @@
 <div class="topbar">
   <div class="topbar-in">
     <a class="brand" href="/"><em>Ai</em>lenta</a>
-    <span class="status"><span class="dot"></span>22:02 da yangilandi</span>
+    <span class="status"><span class="dot"></span>22:06 da yangilandi</span>
     <nav class="nav">
       <a href="/arxiv/">Arxiv</a>
       <a href="/mavzular/">Mavzular</a>
@@ -472,6 +477,16 @@
       <span class="when-inline">2-sentabr, 12:45 · 9 soat oldin</span>
       <a class="chip" href="/mavzu/ozbekiston/">O'zbekiston</a>
     </div>
+    <!-- Ulashish faqat maqola oxirida edi. Ko'p o'quvchi o'sha yergacha
+         yetib bormaydi, shuning uchun sarlavha ostida ham turadi. -->
+    <div class="share share-top">
+      <span class="share-label">Ulashish</span>
+      <a class="primary" href="https://t.me/share/url?url=https%3A%2F%2Failenta.uz%2Fx%2Fbojxonada-suniy-intellektni-joriy-etish-muhokamasi-22b27e%2F&text=Bojxonada%20sun'iy%20intellektni%20joriy%20etish%20muhokamasi"
+         target="_blank" rel="noopener">Telegram</a>
+      <a href="https://wa.me/?text=Bojxonada%20sun'iy%20intellektni%20joriy%20etish%20muhokamasi%20%E2%80%94%20https%3A%2F%2Failenta.uz%2Fx%2Fbojxonada-suniy-intellektni-joriy-etish-muhokamasi-22b27e%2F"
+         target="_blank" rel="noopener">WhatsApp</a>
+      <button type="button" class="copy" data-url="https://ailenta.uz/x/bojxonada-suniy-intellektni-joriy-etish-muhokamasi-22b27e/">Havolani nusxalash</button>
+    </div>
   </article>
 
   <section class="outlets">
@@ -499,12 +514,18 @@
     <button type="button" class="copy" data-url="https://ailenta.uz/x/bojxonada-suniy-intellektni-joriy-etish-muhokamasi-22b27e/">Havolani nusxalash</button>
   </div>
 
-  <div class="follow">
-    <p><b>Har soatda yangilanadi.</b> Kunning eng muhim xabarlari Telegram kanalida ham chiqadi.</p>
-    <a href="https://t.me/ailentauz" target="_blank" rel="noopener">@ailentauz</a>
-  </div>
-
   
+
+  <!-- Taklif eng oxirida: o'quvchi maqolani ham, o'xshash xabarlarni ham
+       ko'rgach, keyingi qadam nima ekani aniq bo'lsin. -->
+  <aside class="tgcta">
+    <div class="tgcta-text">
+      <b>Yangi xabarlarni o'tkazib yubormang</b>
+      <span>Kunning eng muhim AI yangiliklari Telegram kanalida ham chiqadi —
+      o'zbek tilida, qisqa va manba havolasi bilan.</span>
+    </div>
+    <a href="https://t.me/ailentauz" target="_blank" rel="noopener">@ailentauz</a>
+  </aside>
 
   <footer>
     <span><a href="/"><em>Ai</em>lenta</a> · ailenta.uz</span>
