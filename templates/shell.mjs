@@ -3,7 +3,7 @@
 // Bir joyda turgani uchun dizayn o'zgarsa hamma sahifa birdaniga o'zgaradi.
 
 export const SITE = {
-  url: "https://ai.maqsudjon.com",
+  url: "https://ailenta.uz",
   name: "AI Lenta",
   tagline: "Sun'iy intellekt yangiliklari, o'zbekcha",
   description:

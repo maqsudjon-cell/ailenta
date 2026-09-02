@@ -23,17 +23,37 @@ if (!domain || !/^[a-z0-9.-]+\.[a-z]{2,}$/i.test(domain)) {
 // ulangan domenga ko'chsak sayt butunlay ochilmay qoladi.
 const PAGES_IPS = ["185.199.108.153", "185.199.109.153", "185.199.110.153", "185.199.111.153"];
 
-async function dnsOk() {
+// Ikki yo'l bilan so'raymiz. Faqat DoH'ga suyanish xato edi: bu kompyuterdan
+// dns.google javob bermay qoldi va skript to'g'ri ulangan domenni "ulanmagan"
+// deb ko'rsatdi. Tizimning o'z resolveri asosiy, DoH zaxira.
+async function resolveSystem() {
+  try {
+    const { Resolver } = await import("node:dns/promises");
+    const r = new Resolver();
+    r.setServers(["1.1.1.1", "8.8.8.8"]);
+    return await r.resolve4(domain);
+  } catch {
+    return null;
+  }
+}
+
+async function resolveDoh() {
   try {
     const res = await fetch(`https://dns.google/resolve?name=${domain}&type=A`, {
       headers: { accept: "application/dns-json" },
     });
+    if (!res.ok) return null;
     const j = await res.json();
-    const ips = (j.Answer || []).filter((a) => a.type === 1).map((a) => a.data);
-    return { ips, ok: ips.some((ip) => PAGES_IPS.includes(ip)) };
-  } catch (e) {
-    return { ips: [], ok: false, error: e.message };
+    return (j.Answer || []).filter((a) => a.type === 1).map((a) => a.data);
+  } catch {
+    return null;
   }
+}
+
+async function dnsOk() {
+  const ips = (await resolveSystem()) ?? (await resolveDoh());
+  if (!ips) return { ips: [], ok: false, error: "DNS so'rovi o'tmadi" };
+  return { ips, ok: ips.some((ip) => PAGES_IPS.includes(ip)) };
 }
 
 const shellPath = join(ROOT, "templates/shell.mjs");
