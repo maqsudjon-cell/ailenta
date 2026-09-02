@@ -1,5 +1,50 @@
 [
   {
+    "id": "7837e832447f",
+    "slug": "artifactory-tizimi-yangi-kiberhujumlarga-uchramoqda-7837e8",
+    "title": "Artifactory tizimi yangi kiberhujumlarga uchramoqda",
+    "summary": "Artifactory platformasidagi xavfsizlik zaifligi sababli ochiq serverlarga hujumlar uyushtirilmoqda. Tizimga ruxsatsiz kirgan tajovuzkorlar administrator tokenlarini yaratish imkoniyatiga ega bo'lmoqda.",
+    "tags": [
+      "xavfsizlik",
+      "agentlar"
+    ],
+    "importance": 2,
+    "score": 19,
+    "published": "2026-09-01T21:07:13.000Z",
+    "created": "2026-09-02T03:01:27.937Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/security/2026/09/01/another-artifactory-cve-under-attack-by-ai-agents-or-humans/5293769",
+      "title": "Another Artifactory CVE under attack by AI agents or humans",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "5b546aa54238",
+    "slug": "hp-singapurda-garage-2-0-akseleratorini-ishga-tushirdi-5b546a",
+    "title": "HP Singapurda Garage 2.0 akseleratorini ishga tushirdi",
+    "summary": "HP kompaniyasi AI davrida o'z faoliyatini rivojlantirish maqsadida Singapurda Garage 2.0 startap akseleratorini ochdi. Kompaniya ushbu tashabbus orqali Osiyo bozorida o'z o'rnini mustahkamlashga harakat qilmoqda.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 19,
+    "published": "2026-09-01T21:00:00.000Z",
+    "created": "2026-09-02T03:01:27.938Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/09/01/hp-asia-ai-pcs-wubble-ai-changi-airport-michael-boyle",
+      "title": "From a Singapore airport soundtrack to new AI-powered PCs, HP is looking for a new rhythm in Asia",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "1c27240c99d9",
     "slug": "openai-astra-modelida-recurrent-depth-usulini-qollaydi-1c2724",
     "title": "OpenAI Astra modelida recurrent depth usulini qo'llaydi",

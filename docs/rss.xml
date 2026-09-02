@@ -5,7 +5,7 @@
   <link>https://ai.maqsudjon.com</link>
   <description>Dunyodagi sun'iy intellekt yangiliklari o'zbek tilida. Har uch soatda yangilanadi, har bir xabarda asl manbaga havola.</description>
   <language>uz</language>
-  <lastBuildDate>Wed, 02 Sep 2026 02:01:44 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 02 Sep 2026 03:01:49 GMT</lastBuildDate>
   <atom:link href="https://ai.maqsudjon.com/rss.xml" rel="self" type="application/rss+xml"/>
   <item>
     <title>OpenAI Astra modelida recurrent depth usulini qo'llaydi</title>
@@ -80,12 +80,28 @@
     <category>Nvidia</category><category>xavfsizlik</category>
   </item>
   <item>
+    <title>Artifactory tizimi yangi kiberhujumlarga uchramoqda</title>
+    <link>https://ai.maqsudjon.com/x/artifactory-tizimi-yangi-kiberhujumlarga-uchramoqda-7837e8/</link>
+    <guid isPermaLink="true">https://ai.maqsudjon.com/x/artifactory-tizimi-yangi-kiberhujumlarga-uchramoqda-7837e8/</guid>
+    <pubDate>Tue, 01 Sep 2026 21:07:13 GMT</pubDate>
+    <description>Artifactory platformasidagi xavfsizlik zaifligi sababli ochiq serverlarga hujumlar uyushtirilmoqda. Tizimga ruxsatsiz kirgan tajovuzkorlar administrator tokenlarini yaratish imkoniyatiga ega bo'lmoqda.</description>
+    <category>xavfsizlik</category><category>agentlar</category>
+  </item>
+  <item>
     <title>OpenAI va SB Energy o'rtasidagi bog'liqlik oshkor bo'ldi</title>
     <link>https://ai.maqsudjon.com/x/openai-va-sb-energy-ortasidagi-bogliqlik-oshkor-boldi-5aec0c/</link>
     <guid isPermaLink="true">https://ai.maqsudjon.com/x/openai-va-sb-energy-ortasidagi-bogliqlik-oshkor-boldi-5aec0c/</guid>
     <pubDate>Tue, 01 Sep 2026 21:01:53 GMT</pubDate>
     <description>SB Energy kompaniyasining IPO arizasida uning OpenAI bilan yaqin aloqalari aks etgan. Kompaniya sun'iy intellekt infratuzilmasini rivojlantirishdagi talab bo'yicha OpenAIga tayanadi.</description>
     <category>OpenAI</category><category>biznes</category>
+  </item>
+  <item>
+    <title>HP Singapurda Garage 2.0 akseleratorini ishga tushirdi</title>
+    <link>https://ai.maqsudjon.com/x/hp-singapurda-garage-2-0-akseleratorini-ishga-tushirdi-5b546a/</link>
+    <guid isPermaLink="true">https://ai.maqsudjon.com/x/hp-singapurda-garage-2-0-akseleratorini-ishga-tushirdi-5b546a/</guid>
+    <pubDate>Tue, 01 Sep 2026 21:00:00 GMT</pubDate>
+    <description>HP kompaniyasi AI davrida o'z faoliyatini rivojlantirish maqsadida Singapurda Garage 2.0 startap akseleratorini ochdi. Kompaniya ushbu tashabbus orqali Osiyo bozorida o'z o'rnini mustahkamlashga harakat qilmoqda.</description>
+    <category>biznes</category>
   </item>
   <item>
     <title>Anthropic Claude matnini aniqlash vositasini taqdim etdi</title>
@@ -390,22 +406,6 @@
     <pubDate>Tue, 01 Sep 2026 13:33:47 GMT</pubDate>
     <description>Monzo bankining sobiq rahbari Tom Blomfild Anthropic kompaniyasiga qo'shilganidan ikki oy o'tib, o'z hamkasblari haqida fikr bildirdi. U yangi hamkasblarini xudbinlikdan xoli va o'ta jiddiy &quot;meganerdlar&quot; guruhi deb atadi.</description>
     <category>Anthropic</category>
-  </item>
-  <item>
-    <title>Raqamli kamuflyaj ko'ylagi AI kameralarini chalg'itadi</title>
-    <link>https://ai.maqsudjon.com/x/raqamli-kamuflyaj-koylagi-ai-kameralarini-chalgitadi-17d607/</link>
-    <guid isPermaLink="true">https://ai.maqsudjon.com/x/raqamli-kamuflyaj-koylagi-ai-kameralarini-chalgitadi-17d607/</guid>
-    <pubDate>Tue, 01 Sep 2026 13:27:26 GMT</pubDate>
-    <description>Simon Weckert tomonidan yaratilgan &quot;raqamli kamuflyaj&quot; ko'ylagi sun'iy intellektga asoslangan kuzatuv kameralarini chalg'itishga qodir. Bu kiyim AI tizimlarining aniqlash qobiliyatiga ta'sir ko'rsatadi.</description>
-    <category>xavfsizlik</category><category>tadqiqot</category>
-  </item>
-  <item>
-    <title>OpenAI kiberxavfsizlik bo'yicha Astra modelini taqdim etdi</title>
-    <link>https://ai.maqsudjon.com/x/openai-kiberxavfsizlik-boyicha-astra-modelini-taqdim-etdi-309be2/</link>
-    <guid isPermaLink="true">https://ai.maqsudjon.com/x/openai-kiberxavfsizlik-boyicha-astra-modelini-taqdim-etdi-309be2/</guid>
-    <pubDate>Tue, 01 Sep 2026 13:00:00 GMT</pubDate>
-    <description>OpenAI o'zining Astra modelini e'lon qildi. Bu model kompaniyaning kiberxavfsizlik bo'yicha &quot;Critical&quot; (o'ta muhim) chegarasidan o'tgan birinchi modeli bo'ldi. Modelni chiqarishda xavfsizlik choralari kuchaytirilgan.</description>
-    <category>OpenAI</category><category>xavfsizlik</category>
   </item>
 </channel>
 </rss>
