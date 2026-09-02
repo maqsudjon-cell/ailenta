@@ -1,5 +1,51 @@
 [
   {
+    "id": "280d7904601e",
+    "slug": "google-gemini-3-8-flash-yangi-arzon-model-280d79",
+    "title": "Google Gemini 3.8 Flash: Yangi arzon model",
+    "summary": "Google Gemini 3.8 Flash olti haftada chiqarilgan uchinchi Flash modelidir. U ba'zi agentlik kodlash testlarida Claude Opus 5 bilan tenglashadi, ammo yuqori token iste'moli tufayli amalda qimmatroq.",
+    "tags": [
+      "Google",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 30,
+    "published": "2026-09-02T16:59:29.000Z",
+    "created": "2026-09-02T17:01:45.238Z",
+    "coverage": 2,
+    "source": {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/gemini-3-8-flash-is-googles-third-budget-model-in-six-weeks-while-frontier-models-remain-mia",
+      "title": "Gemini 3.8 Flash is Google&#039;s third budget model in six weeks while frontier models remain MIA",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "4faa738293a5",
+    "slug": "apple-kompaniyasining-yangi-rahbari-jon-ternus-4faa73",
+    "title": "Apple kompaniyasining yangi rahbari Jon Ternus",
+    "summary": "Apple kompaniyasining yangi bosh direktori etib Jon Ternus tayinlandi. Apparat ta'minoti bo'yicha tajribali mutaxassis bo'lgan Ternus 4,7 trillion dollarlik kompaniyani boshqaradi. Hozirda Apple sun'iy intellekt sohasida raqobatchilar bilan kurashishda qiyinchiliklarga duch kelmoqda.",
+    "tags": [
+      "Apple",
+      "biznes"
+    ],
+    "importance": 4,
+    "score": 18.7,
+    "published": "2026-09-01T18:18:44.000Z",
+    "created": "2026-09-02T17:02:13.387Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Washington Post",
+      "url": "https://washingtonpost.com/technology/2026/09/01/john-ternus-takes-over-apple-ceo-tim-cook-amid-ai-challenges",
+      "title": "Who is John Ternus, Apple’s new CEO?",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "164af9b86142",
     "slug": "uch-sayt-ai-uchun-215-128-sahifa-yaratdi-164af9",
     "title": "Uch sayt AI uchun 215,128 sahifa yaratdi",

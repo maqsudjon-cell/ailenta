@@ -5,8 +5,16 @@
   <link>https://ailenta.uz</link>
   <description>Dunyodagi sun'iy intellekt yangiliklari o'zbek tilida. Har soatda yangilanadi, har bir xabarda asl manbaga havola.</description>
   <language>uz</language>
-  <lastBuildDate>Wed, 02 Sep 2026 16:53:53 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 02 Sep 2026 17:02:45 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Google Gemini 3.8 Flash: Yangi arzon model</title>
+    <link>https://ailenta.uz/x/google-gemini-3-8-flash-yangi-arzon-model-280d79/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/google-gemini-3-8-flash-yangi-arzon-model-280d79/</guid>
+    <pubDate>Wed, 02 Sep 2026 16:59:29 GMT</pubDate>
+    <description>Google Gemini 3.8 Flash olti haftada chiqarilgan uchinchi Flash modelidir. U ba'zi agentlik kodlash testlarida Claude Opus 5 bilan tenglashadi, ammo yuqori token iste'moli tufayli amalda qimmatroq.</description>
+    <category>Google</category><category>biznes</category>
+  </item>
   <item>
     <title>Tadqiqotchilar OpenAI Astra xavfsizligidan xavotirda</title>
     <link>https://ailenta.uz/x/tadqiqotchilar-openai-astra-xavfsizligidan-xavotirda-867593/</link>
@@ -398,14 +406,6 @@
     <pubDate>Wed, 02 Sep 2026 05:25:01 GMT</pubDate>
     <description>Understanding AI hisobotiga ko'ra, gumanoid robotlar vazifalarni umumlashtirish va uzoq jarayonlarni bajarishda jiddiy qiyinchiliklarga duch kelmoqda. Ushbu texnik to'siqlarni bartaraf etish uchun yillar yoki o'n yilliklar kerak bo'lishi mumkin.</description>
     <category>robototexnika</category><category>tadqiqot</category>
-  </item>
-  <item>
-    <title>Sun'iy neyron tarmoqlarda ramziy tuzilmaning paydo bo'lishi</title>
-    <link>https://ailenta.uz/x/suniy-neyron-tarmoqlarda-ramziy-tuzilmaning-paydo-bolishi-c4a33f/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/suniy-neyron-tarmoqlarda-ramziy-tuzilmaning-paydo-bolishi-c4a33f/</guid>
-    <pubDate>Wed, 02 Sep 2026 04:15:56 GMT</pubDate>
-    <description>Sun'iy neyron tarmoqlarda ramziy tuzilmalarning paydo bo'lishi haqida yangi tadqiqot e'lon qilindi. Bu AI modellarining ichki ishlash mexanizmlarini tushunishga yordam beradi.</description>
-    <category>tadqiqot</category>
   </item>
 </channel>
 </rss>
