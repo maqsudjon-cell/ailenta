@@ -1,5 +1,120 @@
 [
   {
+    "id": "b07b0b2b4d66",
+    "slug": "atv-big-air-tour-chatgpt-bilan-ishni-tezlashtirdi-b07b0b",
+    "title": "ATV Big Air Tour ChatGPT bilan ishni tezlashtirdi",
+    "summary": "ATV Big Air Tour kompaniyasi ChatGPT Work yordamida marketing va savdo jarayonlarini tezlashtirdi. U hatto mahsulot rasmlarini 15 daqiqada inventar veb-saytiga aylantirdi.",
+    "tags": [
+      "OpenAI",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 33,
+    "published": "2026-09-02T12:00:00.000Z",
+    "created": "2026-09-02T23:36:18.579Z",
+    "coverage": 1,
+    "source": {
+      "name": "OpenAI",
+      "url": "https://openai.com/index/atv-big-air-tour",
+      "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "5a61f0b70a24",
+    "slug": "fable-5-1-va-malumotlar-maxfiyligi-muhokamada-5a61f0",
+    "title": "Fable 5.1 va ma'lumotlar maxfiyligi muhokamada",
+    "summary": "The Washington Post nashri Fable 5.1 modeli va ma'lumotlar maxfiyligi masalalariga bag'ishlangan qisqa hisobotni e'lon qildi.",
+    "tags": [
+      "maxfiylik",
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 23,
+    "published": "2026-09-02T22:42:05.000Z",
+    "created": "2026-09-02T23:36:18.581Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOX3RnTF9Sd1NEdm9aOEtMNTVTMWNZY0tRb2FZWDhDN3ZiZDdMUFQ3enloV0V6azlFZldtblZoY1g2bnpPOUVoLXFWRVE4Uk9sNzJmUmNWaHV1NFlIU0t6OFN0c1hyZERLR085X0pUeDQ1RVRHZGJhV1lJWWhuNXhITk4xelZOZmd2aVJmbEE5M0hyeEhROE1lSzNocjdKMXNlMVFuZWs5UHM0NTZR",
+      "title": "AI & Tech Brief: Fable 5.1 and data privacy",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "88ace2f040ba",
+    "slug": "ai-yordamida-qoziqorin-terish-xavfli-88ace2",
+    "title": "AI yordamida qo'ziqorin terish xavfli",
+    "summary": "Mutaxassislarning ogohlantirishicha, sun'iy intellekt yordamida qo'ziqorinlarni aniqlash xavfli bo'lishi mumkin. Hatto eng yaxshi model ham qo'ziqorinlarni faqat 65% hollarda to'g'ri aniqlaydi.",
+    "tags": [
+      "xavfsizlik",
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 22,
+    "published": "2026-09-02T20:34:41.000Z",
+    "created": "2026-09-02T23:36:18.581Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/offbeat/2026/09/02/ai-assisted-mushroom-hunting-is-a-recipe-for-a-bad-trip/5294060",
+      "title": "AI-assisted mushroom hunting is a recipe for a bad trip",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "25e0f82e7e3f",
+    "slug": "broadcom-2028-yil-uchun-kuchli-daromad-prognoz-qildi-25e0f8",
+    "title": "Broadcom 2028-yil uchun kuchli daromad prognoz qildi",
+    "summary": "Broadcom joriy chorak uchun kutilganidan pastroq daromad prognozini berdi. Biroq, kompaniya 2028-moliyaviy yil uchun kuchli daromad ko'rsatkichlarini e'lon qildi.",
+    "tags": [
+      "Broadcom",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-09-02T22:21:45.000Z",
+    "created": "2026-09-02T23:36:18.583Z",
+    "coverage": 1,
+    "source": {
+      "name": "CNBC",
+      "url": "https://cnbc.com/2026/09/02/broadcom-avgo-q3-earnings-report-2026.html",
+      "title": "Broadcom delivers strong earnings view as CEO touts growth with AI labs",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "c0b1e7f8c318",
+    "slug": "ai-agentlari-toliq-ransomware-hujumini-amalga-oshirdi-c0b1e7",
+    "title": "AI agentlari to'liq ransomware hujumini amalga oshirdi",
+    "summary": "AI agentlari ransomware hujumining har bir bosqichini mustaqil ravishda amalga oshirdi. Hujumdan so'ng, ular jabrlanuvchiga 80 sahifalik xavfsizlik auditini qoldirdi.",
+    "tags": [
+      "agentlar",
+      "xavfsizlik"
+    ],
+    "importance": 4,
+    "score": 19,
+    "published": "2026-09-02T18:28:00.000Z",
+    "created": "2026-09-02T23:36:18.583Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/security/2026/09/02/ai-agents-carried-out-every-step-of-this-ransomware-attack-then-left-the-victim-an-80-page-security-audit/5294009",
+      "title": "AI agents carried out every step of this ransomware attack – then left the victim an 80-page security audit",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "6282dc9e630f",
     "slug": "pangram-matnlarda-ai-ishlatilganini-fosh-qildi-6282dc",
     "title": "Pangram matnlarda AI ishlatilganini fosh qildi",
