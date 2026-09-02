@@ -1,41 +1,162 @@
 [
-  "apple-kompaniyasida-jon-ternus-davri-boshlandi-4e69db",
-  "onerail-va-nvidia-yetkazib-berish-platformasini-yaratdi-9f8c65",
-  "nvidia-dunyo-robotlarini-boshqarishni-xohlamoqda-65ddc6",
-  "yevropa-ittifoqi-chatgpt-ustidan-nazoratni-kuchaytiradi-b6fa8c",
-  "nvidia-rahbari-ai-yangi-ish-orinlari-yaratishini-aytdi-2a55c9",
-  "pocket-ai-yaratgan-oyinlar-meta-nazoratida-72cb6d",
-  "eff-sudlarni-ai-sabab-mualliflik-huquqini-ozgartirmaslikka-c-51cd5e",
-  "anthropic-claude-agentlari-sabab-xavfsizlikni-kuchaytirdi-308fb7",
-  "anthropic-yangi-claude-fable-5-1-modelini-chiqardi-4f1080",
-  "chatgpt-tibbiy-malumotlar-tizimiga-ulandi-50e05f",
-  "llm-tokenlarining-ortacha-narxi-97-sentga-tushdi-60d804",
-  "openai-kiberxavfsizlik-boyicha-astra-modelini-taqdim-etdi-309be2",
-  "meta-muse-voice-transcribe-modelini-ishga-tushirdi-5e1905",
-  "apple-openaiga-qarshi-sudga-yangi-dalillar-taqdim-etdi-84c842",
-  "openai-astra-modelining-kiber-funksiyalarini-cheklaydi-b2b3b8",
-  "anthropic-oz-modellarining-xakerlik-hujumlarini-tan-oldi-8fe89d",
-  "google-gemini-3-8-flash-modelini-chiqarishni-rejalashtirmoqd-09aa15",
-  "hugging-face-kiberhujumga-uchradi-95180d",
-  "britaniya-hukumatining-ai-strategiyasi-memori-anthropicga-qo-fb3148",
-  "anthropic-fable-5-1-modelining-narxi-pasayganini-elon-qildi-6d716d",
-  "janubiy-koreya-ai-infratuzilmasiga-919-mlrd-dollar-kiritadi-1e4c05",
-  "cognition-startapi-47-milliard-dollarga-baholanmoqda-d1fbc4",
-  "openai-yangi-astra-modelini-chiqarishga-tayyorlanmoqda-5e1133",
-  "openai-ozining-ai-vositalari-ustidan-nazoratni-yoqotdi-95180d",
-  "gemini-video-tahlilida-tokenlarni-88-foizgacha-tejaydi-7e0c47",
-  "saudiya-15-mlrd-dollarlik-ai-bitimlarini-imzoladi-d65ed3",
-  "lyte-startapi-165-million-dollar-investitsiya-jalb-qildi-da8962",
-  "openai-tumbler-ridge-otishmasi-boyicha-30-ta-yangi-davo-bila-6a7c4e",
-  "yevropaning-yetakchi-ai-modeli-quasar-438b-taqdim-etildi-1d990f",
-  "nvidia-ai-chiplari-arxitekturasi-ikki-yilda-yangilanadi-4de92b",
-  "britaniyada-ai-uchun-ochirish-tugmasi-talab-qilinmoqda-99960f",
-  "anthropic-claude-fable-va-mythos-5-1-modellarini-yangiladi-61ebde",
-  "uber-haydovchilari-ai-algoritmi-ustidan-sudga-murojaat-qildi-77718c",
-  "aqsh-mamuriyati-openaini-nyt-sudida-qollab-quvvatladi-75fde1",
-  "aqsh-savdo-vaziri-anthropic-mamuriyat-bilan-togri-yolda-f91940",
-  "mistral-endi-foydalanuvchi-malumotlarida-oqitiladi-441ed5",
-  "tadqiqotchilar-openai-astra-xavfsizligidan-xavotirda-867593",
-  "huskeys-ai-hujumlarini-bloklash-uchun-27m-dollar-sarmoya-old-b22358",
-  "apple-kompaniyasining-yangi-rahbari-jon-ternus-4faa73"
+  {
+    "slug": "apple-kompaniyasida-jon-ternus-davri-boshlandi-4e69db",
+    "at": null
+  },
+  {
+    "slug": "onerail-va-nvidia-yetkazib-berish-platformasini-yaratdi-9f8c65",
+    "at": null
+  },
+  {
+    "slug": "nvidia-dunyo-robotlarini-boshqarishni-xohlamoqda-65ddc6",
+    "at": null
+  },
+  {
+    "slug": "yevropa-ittifoqi-chatgpt-ustidan-nazoratni-kuchaytiradi-b6fa8c",
+    "at": null
+  },
+  {
+    "slug": "nvidia-rahbari-ai-yangi-ish-orinlari-yaratishini-aytdi-2a55c9",
+    "at": null
+  },
+  {
+    "slug": "pocket-ai-yaratgan-oyinlar-meta-nazoratida-72cb6d",
+    "at": null
+  },
+  {
+    "slug": "eff-sudlarni-ai-sabab-mualliflik-huquqini-ozgartirmaslikka-c-51cd5e",
+    "at": null
+  },
+  {
+    "slug": "anthropic-claude-agentlari-sabab-xavfsizlikni-kuchaytirdi-308fb7",
+    "at": null
+  },
+  {
+    "slug": "anthropic-yangi-claude-fable-5-1-modelini-chiqardi-4f1080",
+    "at": null
+  },
+  {
+    "slug": "chatgpt-tibbiy-malumotlar-tizimiga-ulandi-50e05f",
+    "at": null
+  },
+  {
+    "slug": "llm-tokenlarining-ortacha-narxi-97-sentga-tushdi-60d804",
+    "at": null
+  },
+  {
+    "slug": "openai-kiberxavfsizlik-boyicha-astra-modelini-taqdim-etdi-309be2",
+    "at": null
+  },
+  {
+    "slug": "meta-muse-voice-transcribe-modelini-ishga-tushirdi-5e1905",
+    "at": null
+  },
+  {
+    "slug": "apple-openaiga-qarshi-sudga-yangi-dalillar-taqdim-etdi-84c842",
+    "at": null
+  },
+  {
+    "slug": "openai-astra-modelining-kiber-funksiyalarini-cheklaydi-b2b3b8",
+    "at": null
+  },
+  {
+    "slug": "anthropic-oz-modellarining-xakerlik-hujumlarini-tan-oldi-8fe89d",
+    "at": null
+  },
+  {
+    "slug": "google-gemini-3-8-flash-modelini-chiqarishni-rejalashtirmoqd-09aa15",
+    "at": null
+  },
+  {
+    "slug": "hugging-face-kiberhujumga-uchradi-95180d",
+    "at": null
+  },
+  {
+    "slug": "britaniya-hukumatining-ai-strategiyasi-memori-anthropicga-qo-fb3148",
+    "at": null
+  },
+  {
+    "slug": "anthropic-fable-5-1-modelining-narxi-pasayganini-elon-qildi-6d716d",
+    "at": null
+  },
+  {
+    "slug": "janubiy-koreya-ai-infratuzilmasiga-919-mlrd-dollar-kiritadi-1e4c05",
+    "at": null
+  },
+  {
+    "slug": "cognition-startapi-47-milliard-dollarga-baholanmoqda-d1fbc4",
+    "at": null
+  },
+  {
+    "slug": "openai-yangi-astra-modelini-chiqarishga-tayyorlanmoqda-5e1133",
+    "at": null
+  },
+  {
+    "slug": "openai-ozining-ai-vositalari-ustidan-nazoratni-yoqotdi-95180d",
+    "at": null
+  },
+  {
+    "slug": "gemini-video-tahlilida-tokenlarni-88-foizgacha-tejaydi-7e0c47",
+    "at": null
+  },
+  {
+    "slug": "saudiya-15-mlrd-dollarlik-ai-bitimlarini-imzoladi-d65ed3",
+    "at": null
+  },
+  {
+    "slug": "lyte-startapi-165-million-dollar-investitsiya-jalb-qildi-da8962",
+    "at": null
+  },
+  {
+    "slug": "openai-tumbler-ridge-otishmasi-boyicha-30-ta-yangi-davo-bila-6a7c4e",
+    "at": null
+  },
+  {
+    "slug": "yevropaning-yetakchi-ai-modeli-quasar-438b-taqdim-etildi-1d990f",
+    "at": null
+  },
+  {
+    "slug": "nvidia-ai-chiplari-arxitekturasi-ikki-yilda-yangilanadi-4de92b",
+    "at": null
+  },
+  {
+    "slug": "britaniyada-ai-uchun-ochirish-tugmasi-talab-qilinmoqda-99960f",
+    "at": null
+  },
+  {
+    "slug": "anthropic-claude-fable-va-mythos-5-1-modellarini-yangiladi-61ebde",
+    "at": null
+  },
+  {
+    "slug": "uber-haydovchilari-ai-algoritmi-ustidan-sudga-murojaat-qildi-77718c",
+    "at": null
+  },
+  {
+    "slug": "aqsh-mamuriyati-openaini-nyt-sudida-qollab-quvvatladi-75fde1",
+    "at": null
+  },
+  {
+    "slug": "aqsh-savdo-vaziri-anthropic-mamuriyat-bilan-togri-yolda-f91940",
+    "at": null
+  },
+  {
+    "slug": "mistral-endi-foydalanuvchi-malumotlarida-oqitiladi-441ed5",
+    "at": null
+  },
+  {
+    "slug": "tadqiqotchilar-openai-astra-xavfsizligidan-xavotirda-867593",
+    "at": null
+  },
+  {
+    "slug": "huskeys-ai-hujumlarini-bloklash-uchun-27m-dollar-sarmoya-old-b22358",
+    "at": null
+  },
+  {
+    "slug": "apple-kompaniyasining-yangi-rahbari-jon-ternus-4faa73",
+    "at": null
+  },
+  {
+    "slug": "nvidia-hugging-faceni-14-milliard-dollarga-sotib-olmoqchi-723b1e",
+    "at": "2026-09-02T18:02:00.120Z"
+  }
 ]
