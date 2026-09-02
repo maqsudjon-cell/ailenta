@@ -324,19 +324,40 @@
 
   .outlets{padding:2rem 0;border-bottom:1px solid var(--line)}
   .outlets h2,.related h2,.listing h2{
-    margin:0 0 1rem;font-size:1.05rem;font-weight:800;letter-spacing:-.02em;
+    margin:2rem 0 1rem;font-size:1.05rem;font-weight:800;letter-spacing:-.02em;
   }
+  .related h2,.listing h2{margin-top:0}
+
+  /* Asl maqolaga o'tish — bu sahifadagi asosiy harakat, shunday ko'rinsin. */
+  .source-main{
+    display:grid;grid-template-columns:1fr auto;align-items:center;gap:.4rem 1rem;
+    padding:1.15rem 1.35rem;background:var(--raise);
+    border:1px solid var(--line);border-left:3px solid var(--accent);
+    transition:border-color .12s ease, background .12s ease;
+  }
+  .source-main:hover{border-color:var(--accent);background:var(--accent-soft)}
+  .source-main-label{
+    grid-column:1;font-size:.72rem;letter-spacing:.09em;text-transform:uppercase;
+    color:var(--faint);
+  }
+  .source-main-name{
+    grid-column:1;font-size:1.28rem;font-weight:800;letter-spacing:-.025em;color:var(--ink);
+  }
+  .source-main-go{
+    grid-column:2;grid-row:1 / span 2;font-size:1.5rem;color:var(--accent);
+  }
+
   .outlets ul{list-style:none;margin:0;padding:0;display:flex;flex-wrap:wrap;gap:.5rem}
   .outlets li a{
-    display:inline-block;font-family:var(--mono);font-size:.72rem;
-    border:1px solid var(--line);padding:.3rem .65rem;color:var(--dim);
+    display:inline-block;font-size:.82rem;font-weight:600;
+    border:1px solid var(--line);padding:.36rem .75rem;color:var(--dim);
   }
   .outlets li a:hover{border-color:var(--accent);color:var(--accent)}
   .outlets li .outlet-plain{
-    display:inline-block;font-family:var(--mono);font-size:.72rem;
-    border:1px dashed var(--line);padding:.3rem .65rem;color:var(--faint);
+    display:inline-block;font-size:.82rem;
+    border:1px dashed var(--line);padding:.36rem .75rem;color:var(--faint);
   }
-  .outlets p{margin:.8rem 0 0;font-size:.88rem;color:var(--faint);max-width:60ch}
+  .outlets p{margin:1.1rem 0 0;font-size:.88rem;color:var(--faint);max-width:60ch}
 
   .related{padding:2rem 0}
   .related .item{border-top:1px solid var(--hair)}
@@ -391,38 +412,24 @@
 
   /* ---------- ulashish ---------- */
   /* Sarlavha ostidagi nusxa maqolani bo'lib yubormasligi kerak — u yengilroq. */
-  .share.share-top{
-    border-top:0;margin-top:1.2rem;padding-top:0;
-  }
-  .share.share-top .share-label{display:none}
+  /* Ulashish qatori ilgari ikki marta chiqardi va tugmalarning hammasi bir xil
+     og'irlikda edi. Endi bitta qator va aniq ierarxiya: Telegram to'ldirilgan,
+     qolganlari jim. */
   .share{
-    display:flex;gap:.5rem;flex-wrap:wrap;align-items:center;
-    padding:1.4rem 0 0;border-top:1px solid var(--hair);margin-top:1.4rem;
-  }
-  .share-label{
-    font-family:var(--mono);font-size:.66rem;letter-spacing:.12em;
-    text-transform:uppercase;color:var(--faint);margin-right:.3rem;
+    display:flex;gap:.55rem;flex-wrap:wrap;align-items:center;margin-top:1.5rem;
   }
   .share a,.share button{
-    font:inherit;font-family:var(--mono);font-size:.72rem;cursor:pointer;
+    font:inherit;font-size:.82rem;font-weight:600;cursor:pointer;
     border:1px solid var(--line);background:none;color:var(--dim);
-    padding:.34rem .7rem;border-radius:0;
+    padding:.5rem .9rem;border-radius:3px;
+    transition:border-color .12s ease, color .12s ease;
   }
   .share a:hover,.share button:hover{border-color:var(--ink);color:var(--ink)}
-  .share a.primary{border-color:var(--accent);color:var(--accent)}
-  .share a.primary:hover{background:var(--accent);color:#fff}
+  .share a.primary{
+    background:var(--accent);border-color:var(--accent);color:#fff;
+  }
+  .share a.primary:hover{opacity:.87;color:#fff}
 
-  .follow{
-    margin-top:2.4rem;padding:1.4rem 1.5rem;background:var(--raise);
-    display:flex;gap:1rem;align-items:center;flex-wrap:wrap;
-  }
-  .follow p{margin:0;font-size:.95rem;color:var(--dim);flex:1;min-width:14rem}
-  .follow p b{color:var(--ink);font-weight:600}
-  .follow a{
-    font-family:var(--mono);font-size:.75rem;letter-spacing:.04em;
-    border:1px solid var(--accent);color:var(--accent);padding:.5rem 1rem;white-space:nowrap;
-  }
-  .follow a:hover{background:var(--accent);color:#fff}
   /* Ilgari bu yerda .nav butunlay yashirilardi. Natijada telefonda —
      ya'ni trafikning ko'p qismida — Telegram havolasi ham, mavzular ham
      ko'rinmasdi. Endi yashirmaymiz, ixchamlashtiramiz. */
@@ -449,7 +456,7 @@
 <div class="topbar">
   <div class="topbar-in">
     <a class="brand" href="/"><em>Ai</em>lenta</a>
-    <span class="status"><span class="dot"></span>22:06 da yangilandi</span>
+    <span class="status"><span class="dot"></span>22:24 da yangilandi</span>
     <nav class="nav">
       <a href="/arxiv/">Arxiv</a>
       <a href="/mavzular/">Mavzular</a>
@@ -480,53 +487,43 @@
         Wikimedia Commons
       </figcaption>
     </figure>
+    <!-- Manba nomi bu yerdan olib tashlandi: u pastdagi katta blokda
+         allaqachon turibdi va ikki marta takrorlanishi ierarxiyani
+         zaiflashtirardi. -->
     <div class="meta">
-      
-    <span class="pub">Techmeme</span>
-    
       <span class="cover" title="2 ta nashr bu voqea haqida yozdi">
       <span class="cover-track"><span class="cover-fill" style="width:17%"></span></span>
       <span class="cover-n">2 nashr</span>
     </span>
-      <span class="when-inline">2-sentabr, 00:50 · 21 soat oldin</span>
+      <span class="when-inline">2-sentabr, 00:50 · 22 soat oldin</span>
       <a class="chip" href="/mavzu/meta/">Meta</a><a class="chip" href="/mavzu/tadqiqot/">tadqiqot</a>
     </div>
     <!-- Ulashish faqat maqola oxirida edi. Ko'p o'quvchi o'sha yergacha
          yetib bormaydi, shuning uchun sarlavha ostida ham turadi. -->
-    <div class="share share-top">
-      <span class="share-label">Ulashish</span>
+    <div class="share">
       <a class="primary" href="https://t.me/share/url?url=https%3A%2F%2Failenta.uz%2Fx%2Fmeta-muse-voice-transcribe-modelini-ishga-tushirdi-5e1905%2F&text=Meta%20Muse%20Voice%20Transcribe%20modelini%20ishga%20tushirdi"
-         target="_blank" rel="noopener">Telegram</a>
-      <a href="https://wa.me/?text=Meta%20Muse%20Voice%20Transcribe%20modelini%20ishga%20tushirdi%20%E2%80%94%20https%3A%2F%2Failenta.uz%2Fx%2Fmeta-muse-voice-transcribe-modelini-ishga-tushirdi-5e1905%2F"
-         target="_blank" rel="noopener">WhatsApp</a>
+         target="_blank" rel="noopener">Telegramda ulashish</a>
+      <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Failenta.uz%2Fx%2Fmeta-muse-voice-transcribe-modelini-ishga-tushirdi-5e1905%2F&text=Meta%20Muse%20Voice%20Transcribe%20modelini%20ishga%20tushirdi"
+         target="_blank" rel="noopener">X</a>
       <button type="button" class="copy" data-url="https://ailenta.uz/x/meta-muse-voice-transcribe-modelini-ishga-tushirdi-5e1905/">Havolani nusxalash</button>
     </div>
   </article>
 
   <section class="outlets">
-    <h2>Manba</h2>
-    <ul>
-      <li><a href="https://techmeme.com/260901/p41" target="_blank" rel="noopener nofollow">
-        Techmeme — asl maqola
-      </a></li>
-    </ul>
+    <!-- Agregator uchun manba eng muhim ishonch belgisi. Ilgari u kichik
+         ramkali chipda turardi va boshqa hamma narsa bilan bir xil og'irlikda
+         edi. Endi bu sahifadagi asosiy harakat. -->
+    <a class="source-main" href="https://techmeme.com/260901/p41" target="_blank" rel="noopener nofollow">
+      <span class="source-main-label">Asl maqolani o'qish</span>
+      <span class="source-main-name">Techmeme</span>
+      <span class="source-main-go" aria-hidden="true">↗</span>
+    </a>
     
     <p>
       Sarlavha va xulosa asl maqola asosida sun'iy intellekt yordamida o'zbekchada
       tayyorlangan. To'liq matnni manbadan o'qing.
     </p>
   </section>
-
-  <div class="share">
-    <span class="share-label">Ulashish</span>
-    <a class="primary" href="https://t.me/share/url?url=https%3A%2F%2Failenta.uz%2Fx%2Fmeta-muse-voice-transcribe-modelini-ishga-tushirdi-5e1905%2F&text=Meta%20Muse%20Voice%20Transcribe%20modelini%20ishga%20tushirdi"
-       target="_blank" rel="noopener">Telegram</a>
-    <a href="https://wa.me/?text=Meta%20Muse%20Voice%20Transcribe%20modelini%20ishga%20tushirdi%20%E2%80%94%20https%3A%2F%2Failenta.uz%2Fx%2Fmeta-muse-voice-transcribe-modelini-ishga-tushirdi-5e1905%2F"
-       target="_blank" rel="noopener">WhatsApp</a>
-    <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Failenta.uz%2Fx%2Fmeta-muse-voice-transcribe-modelini-ishga-tushirdi-5e1905%2F&text=Meta%20Muse%20Voice%20Transcribe%20modelini%20ishga%20tushirdi"
-       target="_blank" rel="noopener">X</a>
-    <button type="button" class="copy" data-url="https://ailenta.uz/x/meta-muse-voice-transcribe-modelini-ishga-tushirdi-5e1905/">Havolani nusxalash</button>
-  </div>
 
   
   <section class="related">

@@ -78,33 +78,36 @@ ${topbar(now.hhmm)}
         Wikimedia Commons
       </figcaption>
     </figure>` : ""}
+    <!-- Manba nomi bu yerdan olib tashlandi: u pastdagi katta blokda
+         allaqachon turibdi va ikki marta takrorlanishi ierarxiyani
+         zaiflashtirardi. -->
     <div class="meta">
-      ${sourceMark(p, u)}
       ${p.coverage > 1 ? coverBar(p.coverage) : ""}
       <span class="when-inline">${t.day}-${t.month}, ${t.hhmm} · ${ago(p.published)}</span>
       ${tagChips(p, u)}
     </div>
     <!-- Ulashish faqat maqola oxirida edi. Ko'p o'quvchi o'sha yergacha
          yetib bormaydi, shuning uchun sarlavha ostida ham turadi. -->
-    <div class="share share-top">
-      <span class="share-label">Ulashish</span>
+    <div class="share">
       <a class="primary" href="https://t.me/share/url?url=${encodeURIComponent(`${SITE.url}/x/${p.slug}/`)}&text=${encodeURIComponent(p.title)}"
-         target="_blank" rel="noopener">Telegram</a>
-      <a href="https://wa.me/?text=${encodeURIComponent(`${p.title} — ${SITE.url}/x/${p.slug}/`)}"
-         target="_blank" rel="noopener">WhatsApp</a>
+         target="_blank" rel="noopener">Telegramda ulashish</a>
+      <a href="https://twitter.com/intent/tweet?url=${encodeURIComponent(`${SITE.url}/x/${p.slug}/`)}&text=${encodeURIComponent(p.title)}"
+         target="_blank" rel="noopener">X</a>
       <button type="button" class="copy" data-url="${SITE.url}/x/${p.slug}/">Havolani nusxalash</button>
     </div>
   </article>
 
   <section class="outlets">
-    <h2>Manba</h2>
-    <ul>
-      <li><a href="${esc(p.source.url)}" target="_blank" rel="noopener nofollow">
-        ${esc(p.source.name)} — asl maqola${p.source.indirect ? " (Google News orqali)" : ""}
-      </a></li>
-    </ul>
+    <!-- Agregator uchun manba eng muhim ishonch belgisi. Ilgari u kichik
+         ramkali chipda turardi va boshqa hamma narsa bilan bir xil og'irlikda
+         edi. Endi bu sahifadagi asosiy harakat. -->
+    <a class="source-main" href="${esc(p.source.url)}" target="_blank" rel="noopener nofollow">
+      <span class="source-main-label">Asl maqolani o'qish${p.source.indirect ? " · Google News orqali" : ""}</span>
+      <span class="source-main-name">${esc(p.source.name)}</span>
+      <span class="source-main-go" aria-hidden="true">↗</span>
+    </a>
     ${outlets.length ? `
-    <h2 style="margin-top:1.4rem">Bu voqea haqida yana kim yozdi</h2>
+    <h2>Bu voqea haqida yana kim yozdi</h2>
     <ul>${outlets
       .map((a) =>
         a.url
@@ -117,17 +120,6 @@ ${topbar(now.hhmm)}
       tayyorlangan. To'liq matnni manbadan o'qing.
     </p>
   </section>
-
-  <div class="share">
-    <span class="share-label">Ulashish</span>
-    <a class="primary" href="https://t.me/share/url?url=${encodeURIComponent(`${SITE.url}/x/${p.slug}/`)}&text=${encodeURIComponent(p.title)}"
-       target="_blank" rel="noopener">Telegram</a>
-    <a href="https://wa.me/?text=${encodeURIComponent(`${p.title} — ${SITE.url}/x/${p.slug}/`)}"
-       target="_blank" rel="noopener">WhatsApp</a>
-    <a href="https://twitter.com/intent/tweet?url=${encodeURIComponent(`${SITE.url}/x/${p.slug}/`)}&text=${encodeURIComponent(p.title)}"
-       target="_blank" rel="noopener">X</a>
-    <button type="button" class="copy" data-url="${SITE.url}/x/${p.slug}/">Havolani nusxalash</button>
-  </div>
 
   ${related.length ? `
   <section class="related">

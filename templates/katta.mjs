@@ -139,10 +139,17 @@ ${topbar(now.hhmm)}
     yozganini ko'rsatadi. Tahlil maqolalari qo'lda yoziladi va alohida belgilanadi.
   </p>
 
-  <div class="follow">
-    <p><b>Kanalda ham bor.</b> Kunning eng muhim xabarlari va har kuni ertalab dayjest.</p>
+  <!-- Yuqoridagi blok bilan bir xil ko'rinishda: sahifada ikki xil uslubdagi
+       bitta taklif chalkashtiradi. Matni boshqa — pastga yetib kelgan
+       o'quvchi allaqachon qiziqqan, unga aniqroq va'da beramiz. -->
+  <aside class="tgcta">
+    <div class="tgcta-text">
+      <b>Kanalda ham bor</b>
+      <span>Kunning eng muhim xabarlari va har kuni ertalab dayjest —
+      hammasi o'zbek tilida.</span>
+    </div>
     <a href="https://t.me/${SITE.telegram}" target="_blank" rel="noopener">@${SITE.telegram}</a>
-  </div>
+  </aside>
 
   <section class="sources">
     <div class="sources-label">Bugungi manbalar</div>
