@@ -1,5 +1,74 @@
 [
   {
+    "id": "844be02ead1a",
+    "slug": "malumot-markazlariga-qarshi-global-noroziliklar-844be0",
+    "title": "Ma'lumot markazlariga qarshi global noroziliklar",
+    "summary": "Shotlandiyadan Hindistongacha bo'lgan hududlarda aholi ma'lumot markazlari qurilishiga qarshi chiqmoqda. Faollar ushbu obektlar energiya zaxiralarini kamaytirishi va iqlim inqirozini kuchaytirishi haqida ogohlantirmoqda. Hukumatlar esa ularni AI rivoji uchun zarur deb hisoblaydi.",
+    "tags": [
+      "iqtisod",
+      "siyosat"
+    ],
+    "importance": 3,
+    "score": 26,
+    "published": "2026-09-02T05:45:42.000Z",
+    "created": "2026-09-02T06:01:11.888Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/world/2026/sep/02/wednesday-briefing-whats-behind-the-global-backlash-against-datacentres",
+      "title": "Wednesday briefing: ​What’s behind the global backlash against datacentres?",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "035f592a015b",
+    "slug": "sidney-universiteti-xodimlari-ai-sababli-ish-tashladi-035f59",
+    "title": "Sidney universiteti xodimlari AI sababli ish tashladi",
+    "summary": "Sidney universitetining minglab xodimlari sun'iy intellektdan foydalanish va ish o'rinlari xavfsizligi bo'yicha kuchliroq himoya talab qilib ish tashlash o'tkazdi. Xodimlar 24 soatlik namoyishga chiqishga kelishib olgan. Ichki so'rovnomada xodimlarning aksariyati rahbariyatga ishonmasligini bildirgan.",
+    "tags": [
+      "mehnat bozori",
+      "ta'lim"
+    ],
+    "importance": 3,
+    "score": 23,
+    "published": "2026-09-02T05:50:36.000Z",
+    "created": "2026-09-02T06:01:11.889Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/australia-news/2026/sep/02/we-have-had-enough-thousands-of-staff-at-the-university-of-sydney-walk-off-the-job-over-ai-job-security",
+      "title": "‘We have had enough’: thousands of staff at the University of Sydney walk off the job over AI, job security",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "d0dd7434830a",
+    "slug": "gumanoid-robototexnikasi-muammolari-tahlil-qilindi-d0dd74",
+    "title": "Gumanoid robototexnikasi muammolari tahlil qilindi",
+    "summary": "Understanding AI hisobotiga ko'ra, gumanoid robotlar vazifalarni umumlashtirish va uzoq jarayonlarni bajarishda jiddiy qiyinchiliklarga duch kelmoqda. Ushbu texnik to'siqlarni bartaraf etish uchun yillar yoki o'n yilliklar kerak bo'lishi mumkin.",
+    "tags": [
+      "robototexnika",
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 21,
+    "published": "2026-09-02T05:25:01.000Z",
+    "created": "2026-09-02T06:01:20.168Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/260902/p1",
+      "title": "A look at the current state of humanoid robotics and challenges like generalization and completing long tasks, which may take years or even decades to overcome (Kai Williams/Understanding AI)",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "fb31485a1c3b",
     "slug": "britaniya-hukumatining-ai-strategiyasi-memori-anthropicga-qo-fb3148",
     "title": "Britaniya hukumatining AI strategiyasi me'mori Anthropic'ga qo'shildi",
