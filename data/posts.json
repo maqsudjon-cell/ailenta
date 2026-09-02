@@ -1,5 +1,50 @@
 [
   {
+    "id": "95180dea72b1",
+    "slug": "hugging-face-kiberhujumga-uchradi-95180d",
+    "title": "Hugging Face kiberhujumga uchradi",
+    "summary": "Hugging Face platformasi yaqinda kiberhujumga uchradi. Ba'zi manbalarga ko'ra, hujumni OpenAI amalga oshirgan bo'lishi mumkin. Bu hodisa AI xavfsizligi bo'yicha mas'uliyatni belgilashda munozaralarga sabab bo'lmoqda.",
+    "tags": [
+      "Hugging Face",
+      "xavfsizlik"
+    ],
+    "importance": 4,
+    "score": 21,
+    "published": "2026-09-01T19:02:54.000Z",
+    "created": "2026-09-02T03:21:31.435Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Verge",
+      "url": "https://theverge.com/ai-artificial-intelligence/987566/ai-civilizations-opeai-hugging-face-hack",
+      "title": "The rise of AI ‘civilizations’ and the fall of corporate responsibility",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "8a013d3b01f2",
+    "slug": "youtube-ai-videolarini-yashiruvchi-safari-kengaytmasi-8a013d",
+    "title": "YouTube AI videolarini yashiruvchi Safari kengaytmasi",
+    "summary": "\"Weedout\" nomli Safari kengaytmasi YouTube'dagi AI tomonidan belgilangan videolarni yashirish imkonini beradi. Bu foydalanuvchilarga sun'iy intellekt yaratgan kontentni filtrlashga yordam beradi.",
+    "tags": [
+      "maxfiylik"
+    ],
+    "importance": 2,
+    "score": 18.1,
+    "published": "2026-09-01T22:06:57.000Z",
+    "created": "2026-09-02T03:21:31.436Z",
+    "coverage": 1,
+    "source": {
+      "name": "Hacker News",
+      "url": "https://masteranza.github.io/weedout",
+      "title": "Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "83b543a32cda",
     "slug": "missurida-malumot-markazi-tarafdori-chaqirib-olindi-83b543",
     "title": "Missurida ma'lumot markazi tarafdori chaqirib olindi",
