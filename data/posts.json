@@ -1,5 +1,51 @@
 [
   {
+    "id": "1f5f1a9c60bc",
+    "slug": "snowflake-aksiyalari-22-foizga-qimmatlashdi-1f5f1a",
+    "title": "Snowflake aksiyalari 22 foizga qimmatlashdi",
+    "summary": "Snowflake kompaniyasining biznesi tez sur'atlar bilan rivojlanmoqda. Bunga qisman kod yozish uchun sun'iy intellekt agentining joriy etilishi sabab bo'ldi. Natijada kompaniya aksiyalari choraklik hisobotlardan so'ng 22 foizga oshdi.",
+    "tags": [
+      "biznes",
+      "agentlar"
+    ],
+    "importance": 3,
+    "score": 25,
+    "published": "2026-09-02T20:28:39.000Z",
+    "created": "2026-09-02T21:01:16.699Z",
+    "coverage": 1,
+    "source": {
+      "name": "CNBC",
+      "url": "https://cnbc.com/2026/09/02/snowflake-snow-q2-earnings-report-2027.html",
+      "title": "Snowflake spikes 22% on healthy results and AI coding momentum",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "f2d12ecd3e55",
+    "slug": "broadcom-choraklik-daromadini-malum-qildi-f2d12e",
+    "title": "Broadcom choraklik daromadini ma'lum qildi",
+    "summary": "Broadcom kompaniyasining choraklik daromadi 86 foizga oshib, 29,59 milliard dollarni tashkil etdi. AI yarimo'tkazgichlari sotuvi esa 221 foizga o'sib, 16,7 milliard dollarga yetdi. Shunga qaramay, past prognozlar tufayli kompaniya aksiyalari 5 foizga arzonlashdi.",
+    "tags": [
+      "biznes",
+      "chiplar"
+    ],
+    "importance": 4,
+    "score": 21,
+    "published": "2026-09-02T20:45:20.000Z",
+    "created": "2026-09-02T21:01:16.700Z",
+    "coverage": 2,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/260902/p40",
+      "title": "Broadcom reports Q3 revenue up 86% YoY to $29.59B, vs. $29.36B est., AI semiconductor revenue up 221% to $16.7B, and forecasts Q4 revenue below estimates (Jordan Novet/CNBC)",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "0705366de62b",
     "slug": "claude-fayllarini-aniqlash-imkoniyati-070536",
     "title": "Claude fayllarini aniqlash imkoniyati",
