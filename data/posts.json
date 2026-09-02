@@ -1,5 +1,96 @@
 [
   {
+    "id": "8aca512ae5a9",
+    "slug": "mostik-ai-modellarini-sozsiz-muloqotga-orgatdi-8aca51",
+    "title": "Mostik AI modellarini so'zsiz muloqotga o'rgatdi",
+    "summary": "Mostik startapi sun'iy intellekt modellarining imkoniyatlarini birlashtirishning yangi usulini ishlab chiqdi. Rossiyalik matematiklar modellarni bir-biri bilan so'zlarsiz muloqot qilishga o'rgatdi.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 23,
+    "published": "2026-09-02T18:20:00.000Z",
+    "created": "2026-09-02T19:01:02.275Z",
+    "coverage": 1,
+    "source": {
+      "name": "Wired",
+      "url": "https://wired.com/story/russian-startup-mostik-ai-models-communication",
+      "title": "These Russian Mathematicians Taught AI Models How to Talk to Each Other Without Using Words",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "5816cb21e13f",
+    "slug": "claude-cookie-fayllari-gmail-xavfsizligiga-tahdid-solmoqda-5816cb",
+    "title": "Claude cookie-fayllari Gmail xavfsizligiga tahdid solmoqda",
+    "summary": "O'g'irlangan Claude sessiya cookie-fayllari korporativ Gmail pochtasiga kirish imkonini berishi aniqlandi. IT administratorlari ushbu ruxsatnomalarni bekor qila olmaydi. Bu haqda VentureBeat xabar berdi.",
+    "tags": [
+      "Anthropic",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-09-02T17:51:48.000Z",
+    "created": "2026-09-02T19:01:02.276Z",
+    "coverage": 1,
+    "source": {
+      "name": "VentureBeat",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPYzg3UFhQV0ZFbmp2MG9kQkhubllpVndELTRHSHd5YWRXMzNqOTBqM2VkT3dDQVNTY3YxNWhJSThDdnhLdC1sWU1laC1FOWllQV9hd2o5WmdfbURkVUN1RGVVX2JwSFpQcmtxa0tjNUVrTEhWcmxrV1F4STdqT2RMWS0xZElzbW5kdlp2ZkhoaDN2X00tdW1UejF1a0I0VUNGVHNfRndvemw3eDgtekdIRlNlMXdLSTNPeUxJcGRVQXN3M25t",
+      "title": "Stolen Claude session cookies can reach corporate Gmail through grants no IT admin can revoke",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "e908ece748d1",
+    "slug": "nyc-maktablari-generativ-ai-vositalarini-taqiqladi-e908ec",
+    "title": "NYC maktablari generativ AI vositalarini taqiqladi",
+    "summary": "Nyu-York shahridagi davlat maktablari sakkizinchi sinfgacha bo'lgan o'quvchilar uchun generativ AI vositalaridan foydalanishni bir yilga taqiqladi. Bu cheklov ta'lim jarayonida sun'iy intellektga yondashuvni qayta ko'rib chiqishga qaratilgan.",
+    "tags": [
+      "ta'lim",
+      "siyosat"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-09-02T18:50:09.000Z",
+    "created": "2026-09-02T19:01:21.213Z",
+    "coverage": 1,
+    "source": {
+      "name": "Engadget",
+      "url": "https://engadget.com/2249790/nyc-generative-ai-ban-in-public-schools-through-eighth-grade",
+      "title": "NYC bans the use of generative AI tools in public schools for students through eighth grade",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "e9ddda31f3b9",
+    "slug": "pangram-bosh-direktori-olik-internet-nazariyasidan-ogohlanti-e9ddda",
+    "title": "Pangram bosh direktori \"o'lik internet\" nazariyasidan ogohlantirdi",
+    "summary": "Pangram bosh direktori sun'iy intellekt tomonidan yaratilgan kontent tufayli internetda ishonch muammosi yuzaga kelganini ta'kidladi. Uning so'zlariga ko'ra, AI matn va tasvirlari ish arizalari, mahsulot sharhlari va sug'urta da'volariga kirib bormoqda.",
+    "tags": [
+      "biznes",
+      "xavfsizlik"
+    ],
+    "importance": 4,
+    "score": 15,
+    "published": "2026-09-02T17:09:57.000Z",
+    "created": "2026-09-02T19:01:21.213Z",
+    "coverage": 1,
+    "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/podcast/were-dangerously-close-to-dead-internet-theory-says-pangrams-ceo",
+      "title": "We’re ‘dangerously close’ to dead internet theory, says Pangram’s CEO",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "d15f2b596907",
     "slug": "chicago-fed-prezidenti-ai-shov-shuvidan-ogoh-bolishga-chaqir-d15f2b",
     "title": "Chicago Fed prezidenti AI shov-shuvidan ogoh bo'lishga chaqirdi",
