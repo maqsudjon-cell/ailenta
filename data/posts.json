@@ -1,86 +1,16 @@
 [
   {
-    "id": "a0fc52c7c407",
-    "slug": "kier-group-copilotdan-foydalanmoqda-a0fc52",
-    "title": "Kier Group Copilot'dan foydalanmoqda",
-    "summary": "Kier Group'dan Louisa Finlay qurilish sanoatida xavfsizlik va samaradorlikni oshirish uchun Copilot'dan foydalanmoqda. Bu Microsoft'ning AI vositasining amaliy qo'llanilishini ko'rsatadi.",
-    "tags": [
-      "Microsoft",
-      "biznes"
-    ],
-    "importance": 2,
-    "score": 33,
-    "published": "2026-09-02T16:28:46.000Z",
-    "created": "2026-09-02T18:01:07.320Z",
-    "coverage": 1,
-    "source": {
-      "name": "Microsoft",
-      "url": "https://news.microsoft.com/source/emea/features/how-kier-groups-louisa-finlay-is-using-copilot-to-drive-safety-and-productivity-in-the-construction-industry",
-      "title": "How Kier Group’s Louisa Finlay is using Copilot to drive safety and productivity in the construction industry",
-      "indirect": false
-    },
-    "also": [],
-    "model": "gemini"
-  },
-  {
-    "id": "3c9c234d63ff",
-    "slug": "microsoft-2026-yil-uchun-masuliyatli-ai-3c9c23",
-    "title": "Microsoft 2026-yil uchun mas'uliyatli AI",
-    "summary": "Microsoft 2026-yilda mas'uliyatli sun'iy intellektga qanday moslashayotgani haqida xabar berdi. Kompaniya kelajakdagi o'zgarishlarga tayyorgarlik ko'rmoqda.",
-    "tags": [
-      "Microsoft",
-      "xavfsizlik"
-    ],
-    "importance": 3,
-    "score": 27.7,
-    "published": "2026-09-01T16:39:21.000Z",
-    "created": "2026-09-02T18:01:07.321Z",
-    "coverage": 1,
-    "source": {
-      "name": "Microsoft",
-      "url": "https://blogs.microsoft.com/on-the-issues/2026/09/01/responsible-ai-in-2026-how-we-are-adapting-for-whats-ahead",
-      "title": "Responsible AI in 2026: How we are adapting for what’s ahead",
-      "indirect": false
-    },
-    "also": [],
-    "model": "gemini"
-  },
-  {
-    "id": "cf155639f674",
-    "slug": "openai-va-anthropicdan-song-6-ta-curl-cve-cf1556",
-    "title": "OpenAI va Anthropic'dan so'ng 6 ta curl CVE",
-    "summary": "OpenAI va Anthropic nol xato bilan qaytganidan so'ng, oltita curl CVE (umumiy zaifliklar va ta'sirlar) aniqlandi. Bu AI kompaniyalari bilan bog'liq xavfsizlik holatini ko'rsatadi.",
-    "tags": [
-      "OpenAI",
-      "Anthropic"
-    ],
-    "importance": 3,
-    "score": 22.8,
-    "published": "2026-09-02T13:43:14.000Z",
-    "created": "2026-09-02T18:01:07.321Z",
-    "coverage": 1,
-    "source": {
-      "name": "Hacker News",
-      "url": "https://aisle.com/blog/aisle-discovered-six-curl-cves-after-openai-and-anthropic-found-zero",
-      "title": "Six curl CVEs after OpenAI and Anthropic came back with zero",
-      "indirect": false
-    },
-    "also": [],
-    "model": "gemini"
-  },
-  {
     "id": "d15f2b596907",
-    "slug": "chikago-fed-prezidenti-ai-shov-shuvidan-ogohlantirdi-d15f2b",
-    "title": "Chikago Fed prezidenti AI shov-shuvidan ogohlantirdi",
-    "summary": "Chikago Federal zaxira banki prezidenti Austan Goolsbee \"eski maktab\" iqtisodiyotiga qaytishni taklif qildi. U AI shov-shuviga e'tibor qaratib, inflyatsiya masalasida hushyor bo'lishga chaqirdi.",
+    "slug": "chicago-fed-prezidenti-ai-shov-shuvidan-ogoh-bolishga-chaqir-d15f2b",
+    "title": "Chicago Fed prezidenti AI shov-shuvidan ogoh bo'lishga chaqirdi",
+    "summary": "Chicago Fed prezidenti Austan Goolsbee AI shov-shuviga e'tibor qaratib, \"eski maktab\" iqtisodiyotiga qaytishni taklif qildi. Uning fikricha, iste'molchilarning holati iqtisodiyotga bevosita ta'sir qiladi.",
     "tags": [
-      "biznes",
       "iqtisod"
     ],
     "importance": 3,
     "score": 19,
     "published": "2026-09-02T07:00:00.000Z",
-    "created": "2026-09-02T18:01:22.071Z",
+    "created": "2026-09-02T18:02:56.071Z",
     "coverage": 1,
     "source": {
       "name": "Fortune",
@@ -95,15 +25,14 @@
     "id": "d3e2b4567bba",
     "slug": "wellington-meri-deloitte-hisobotini-ai-yozganini-aytdi-d3e2b4",
     "title": "Wellington meri Deloitte hisobotini AI yozganini aytdi",
-    "summary": "Wellington meri shahar kengashi uchun tayyorlangan Deloitte hisobotining katta qismlari sun'iy intellekt tomonidan yozilganini ma'lum qildi. Bu holat hisobotning ishonchliligi borasida savollar tug'dirdi.",
+    "summary": "Wellington meri shahar kengashining Deloitte tomonidan tayyorlangan hisobotining \"katta qismlari\" sun'iy intellekt tomonidan yozilganini ma'lum qildi.",
     "tags": [
-      "siyosat",
-      "biznes"
+      "siyosat"
     ],
     "importance": 2,
     "score": 16.8,
     "published": "2026-09-02T07:50:46.000Z",
-    "created": "2026-09-02T18:01:22.072Z",
+    "created": "2026-09-02T18:02:56.072Z",
     "coverage": 1,
     "source": {
       "name": "Hacker News",
@@ -115,33 +44,10 @@
     "model": "gemini"
   },
   {
-    "id": "723b1e5c3896",
-    "slug": "nvidia-hugging-faceni-14-milliard-dollarga-sotib-olmoqchi-723b1e",
-    "title": "Nvidia Hugging Face'ni 14 milliard dollarga sotib olmoqchi",
-    "summary": "Nvidia kompaniyasi Hugging Face'ni 14 milliard dollarga sotib olishni maqsad qilgan. Bu harakat token inferensiya talabi ortib borayotgan bir paytda \"AI model darvozasi\"ni nazorat qilishga qaratilgan.",
-    "tags": [
-      "Nvidia",
-      "Hugging Face"
-    ],
-    "importance": 4,
-    "score": 15.2,
-    "published": "2026-09-02T04:06:00.000Z",
-    "created": "2026-09-02T18:01:22.072Z",
-    "coverage": 1,
-    "source": {
-      "name": "富途牛牛",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVXJrWXFIZVJHSEp6VWs1a0IwTnpWWjBfN1R4bWlGc0wzQ0stM2c5bXBZR0dycTZITm1CVTg0OG5nbDZIVjE4WXdWRDY3eE1mblpkSGNvV2NhWXd3WGx0M3pTdm9lUDA4aU50MDZ2R29LN0RsWm9IOGJROWNSTGZqbjNXYWpFLU11LUpFNEVmR3R0VG9WOGpPdVd0MlZEQQ",
-      "title": "Amid the surge in token inference demand, the GPU hegemon strives to control the \"AI model gateway\"! NVIDIA (NVDA.US) aims to acquire Hugging Face for $14 billion this week.",
-      "indirect": true
-    },
-    "also": [],
-    "model": "gemini"
-  },
-  {
     "id": "3aa3d7e1b7a3",
-    "slug": "amazon-ai-yordamchisi-soxta-elektron-xatlarni-aniqlaydi-3aa3d7",
-    "title": "Amazon AI yordamchisi soxta elektron xatlarni aniqlaydi",
-    "summary": "Amazon o'zining AI yordamchisi orqali kompaniyadan kelgan soxta elektron xatlar, SMS va qo'ng'iroqlarni aniqlash imkoniyatini taqdim etdi. Bu yangi funksiya firibgarlikka qarshi kurashishga yordam beradi.",
+    "slug": "amazon-ai-yordamchisi-soxta-xabarlarni-aniqlaydi-3aa3d7",
+    "title": "Amazon AI yordamchisi soxta xabarlarni aniqlaydi",
+    "summary": "Amazon o'zining AI yordamchisi orqali kompaniyadan kelgan soxta elektron pochta, SMS yoki qo'ng'iroqlarni aniqlash imkoniyatini taqdim etdi. Bu yangi funksiya firibgarlikka qarshi kurashishga qaratilgan.",
     "tags": [
       "Amazon",
       "xavfsizlik"
@@ -149,12 +55,34 @@
     "importance": 3,
     "score": 15,
     "published": "2026-09-02T17:52:56.000Z",
-    "created": "2026-09-02T18:01:22.072Z",
+    "created": "2026-09-02T18:02:56.073Z",
     "coverage": 1,
     "source": {
       "name": "The Verge",
       "url": "https://theverge.com/tech/988518/amazon-alexa-for-shopping-verify-emails",
       "title": "Amazon’s AI assistant can now spot fake emails from the company",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "5d3f07b4d223",
+    "slug": "mamdani-600-ming-talaba-uchun-aini-sinfdan-chiqardi-5d3f07",
+    "title": "Mamdani 600 ming talaba uchun AI'ni sinfdan chiqardi",
+    "summary": "Mamdani 600 ming talaba uchun sinfxonalardan sun'iy intellektni chiqarib tashladi. Yangi qoidalar boshlang'ich va o'rta maktab o'quvchilari foydalanadigan dasturlardan AI'ni bloklaydi yoki o'chiradi.",
+    "tags": [
+      "ta'lim"
+    ],
+    "importance": 4,
+    "score": 15,
+    "published": "2026-09-02T17:21:17.000Z",
+    "created": "2026-09-02T18:02:56.073Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/mamdani-new-york-ciy-schools-ai-moratorium-2026-09",
+      "title": "Mamdani expels AI from the classroom for 600,000 students",
       "indirect": false
     },
     "also": [],
