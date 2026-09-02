@@ -1,5 +1,102 @@
 [
   {
+    "id": "0705366de62b",
+    "slug": "claude-fayllarini-aniqlash-imkoniyati-070536",
+    "title": "Claude fayllarini aniqlash imkoniyati",
+    "summary": "Claude Fable 5.1 modeli yordamida yaratilgan fayllarni aniqlash imkoniyati muhokama qilinmoqda. Simon Willison Claude Fable 5.1 yordamida animatsion pelikan yaratganini xabar qildi.",
+    "tags": [
+      "Anthropic",
+      "xavfsizlik"
+    ],
+    "importance": 2,
+    "score": 35.4,
+    "published": "2026-09-02T12:23:20.000Z",
+    "created": "2026-09-02T20:01:37.484Z",
+    "coverage": 2,
+    "source": {
+      "name": "Hacker News",
+      "url": "https://claude.com/check-content",
+      "title": "Check if a file was made with Claude",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "Simon Willison",
+        "url": "https://simonwillison.net/2026/Sep/1/claude-fable-5-1"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "6b86c017bd4f",
+    "slug": "yangi-ai-modellarining-xavfsizlik-muammolari-6b86c0",
+    "title": "Yangi AI modellarining xavfsizlik muammolari",
+    "summary": "Anthropic va Google kompaniyalari xavfsizlik bilan bog'liq xavotirlar fonida yangi AI modellarini taqdim etdi. OpenAI ham ilg'or AI modellarini ishga tushirib, monitoring masalalarini ko'tardi. Texnologiya gigantlarining yangi AI modellariga oid xavfsizlik munozaralari davom etmoqda.",
+    "tags": [
+      "xavfsizlik",
+      "biznes"
+    ],
+    "importance": 4,
+    "score": 31,
+    "published": "2026-09-02T18:45:00.000Z",
+    "created": "2026-09-02T20:01:37.485Z",
+    "coverage": 4,
+    "source": {
+      "name": "Telangana Today",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQR2w3OTdpMDVIYVcweEFxWmpMelNMeWt1YXgybW5Ld3NXWGllSGpPRzBfWWNieENuZTNsQzMyVV9NMkxvNnd2RFhfdEFnRFltOGtmNHNxdWl6bXJLUUZMWEpqbzdnbjdNTzhQbnY5alRxSDhLcV80d21EUEk2cGZPUnpCZUhnMzBMM0xMS3R0TjYzZXhrX3ZHYmJBYzNqck1ObzdjVXp4TnhzUQ",
+      "title": "Anthropic, Google roll out new AI models amid safety concerns",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "35854b43f80b",
+    "slug": "ai-fizika-laboratoriyasi-ishga-tushirildi-35854b",
+    "title": "AI fizika laboratoriyasi ishga tushirildi",
+    "summary": "Physical Superintelligence startapi 58 million dollar sarmoya bilan o'z faoliyatini boshladi. Kompaniya ma'lumot markazlari samaradorligini oshirish uchun AI fizika laboratoriyasini ishga tushirdi.",
+    "tags": [
+      "biznes",
+      "bulut"
+    ],
+    "importance": 3,
+    "score": 22,
+    "published": "2026-09-02T19:15:20.000Z",
+    "created": "2026-09-02T20:01:37.486Z",
+    "coverage": 1,
+    "source": {
+      "name": "Semafor",
+      "url": "https://semafor.com/article/09/02/2026/startup-launches-ai-physics-lab-to-maximize-data-center-efficiency",
+      "title": "Startup launches AI physics lab to maximize data center efficiency",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "3df3b82ddcbb",
+    "slug": "uorren-baffet-ai-sabab-alphabet-aksiyalariga-sarmoya-kiritdi-3df3b8",
+    "title": "Uorren Baffet AI sabab Alphabet aksiyalariga sarmoya kiritdi",
+    "summary": "Berkshire Hathaway rahbarining vorisi Greg Abel teleintervyuda Uorren Baffetning sun'iy intellektga pul tikib, Alphabet kompaniyasiga yirik sarmoya kiritganini bildirdi. Shuningdek, u Baffetning bosh direktorlikdan keyingi faoliyati haqida ham to'xtalib o'tdi.",
+    "tags": [
+      "Google",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-09-02T16:21:05.000Z",
+    "created": "2026-09-02T20:01:45.125Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/warren-buffett-alphabet-stock-greg-abel-interview-ai-investing-berkshire-2026-9",
+      "title": "Warren Buffett piled into Alphabet to bet big on AI, successor Greg Abel says",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "ec15e112e59e",
     "slug": "anthropic-chakana-savdo-uchun-ai-agentlarini-taqdim-etdi-ec15e1",
     "title": "Anthropic chakana savdo uchun AI agentlarini taqdim etdi",
