@@ -1,5 +1,74 @@
 [
   {
+    "id": "fb31485a1c3b",
+    "slug": "britaniya-hukumatining-ai-strategiyasi-memori-anthropicga-qo-fb3148",
+    "title": "Britaniya hukumatining AI strategiyasi me'mori Anthropic'ga qo'shildi",
+    "summary": "Matt Clifford, Buyuk Britaniya hukumatining AI strategiyasini ishlab chiqqan shaxs, AQShning Anthropic startapiga yuqori lavozimga ishga kirdi. U o'tgan yili Downing Street'dagi lavozimidan ketgan edi.",
+    "tags": [
+      "Anthropic",
+      "siyosat"
+    ],
+    "importance": 4,
+    "score": 32,
+    "published": "2026-09-02T04:00:23.000Z",
+    "created": "2026-09-02T05:09:04.233Z",
+    "coverage": 2,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/technology/2026/sep/02/architect-of-uks-ai-strategy-joins-anthropic",
+      "title": "Architect of British government’s AI strategy joins Anthropic",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "9a53a1e79323",
+    "slug": "ai-token-narxlari-yangi-rekord-darajada-pastladi-9a53a1",
+    "title": "AI token narxlari yangi rekord darajada pastladi",
+    "summary": "AI tokenlarining narxlari yangi rekord darajada pastladi. Bu holat OpenAI va Anthropic kabi kompaniyalarga bosim o'tkazmoqda.",
+    "tags": [
+      "iqtisod",
+      "OpenAI"
+    ],
+    "importance": 3,
+    "score": 30.6,
+    "published": "2026-09-01T16:08:31.000Z",
+    "created": "2026-09-02T05:09:04.233Z",
+    "coverage": 2,
+    "source": {
+      "name": "CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9mQWFjYmw4NHEyTFlGWjE4UTBmdFhISmIwMlk5N0d3bGNzRmdnUUFRQzFpQ2hScWdPbUljZDZPV2xrdWhBRTRxU0JxU09qRFJSZVZtNG14OG5qZVA1X2FwWUZiUTdQa19W0gFuQVVfeXFMUEpuTzRMcmZkYXhWTVp0X1V1ZUQ5RWN2UXZjVVdqaWxDZFVLMndNRXUyUWpCNFVtQWhZYXU4ZEJMRjRpS1JCTjVHQ3hqOUpCMm1kUjFYN2RTTVo4NkJHQlMtaHREdkNTU0JweFJHNEE",
+      "title": "AI token prices are hitting new record lows",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "6d716d61c0a2",
+    "slug": "anthropic-fable-5-1-modelining-narxi-pasayganini-elon-qildi-6d716d",
+    "title": "Anthropic Fable 5.1 modelining narxi pasayganini e'lon qildi",
+    "summary": "Anthropic o'zining Claude uchun yangi Fable 5.1 modelini chiqardi. Kompaniya ma'lumotiga ko'ra, Fable 5.1 odatiy ish yuklari uchun Fable 5'dan 25% arzonroq bo'ladi. Agentli ishlar uchun esa narx 45% gacha kamayishi mumkin.",
+    "tags": [
+      "Anthropic",
+      "biznes"
+    ],
+    "importance": 4,
+    "score": 24,
+    "published": "2026-09-01T23:52:37.000Z",
+    "created": "2026-09-02T05:09:04.234Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/260901/p59",
+      "title": "Anthropic says Fable 5.1 will cost an estimated 25% less than Fable 5 for typical workloads and up to 45% less for highly agentic work (Zac Hall/9to5Mac)",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "eafd89ecb2f4",
     "slug": "google-pics-ai-bilan-yangi-dizayn-vositalari-eafd89",
     "title": "Google Pics: AI bilan yangi dizayn vositalari",
