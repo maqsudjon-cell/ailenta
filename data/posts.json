@@ -1,5 +1,140 @@
 [
   {
+    "id": "f87fac23efcf",
+    "slug": "chatgpt-grok-va-claude-chatbotlarida-uzilish-yuz-berdi-f87fac",
+    "title": "ChatGPT, Grok va Claude chatbotlarida uzilish yuz berdi",
+    "summary": "OpenAI kompaniyasining ChatGPT, xAI’ning Grok va Anthropic’ning Claude chatbotlari bir vaqtda ishlamay qoldi. ChatGPT foydalanuvchilarga xatolik xabarlarini ko'rsatishni boshlagan. Muammo Codex tizimida ham kuzatilgan.",
+    "tags": [
+      "OpenAI",
+      "Anthropic"
+    ],
+    "importance": 4,
+    "score": 24,
+    "published": "2026-09-03T15:35:14.000Z",
+    "created": "2026-09-03T16:01:30.144Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Verge",
+      "url": "https://theverge.com/ai-artificial-intelligence/989503/chatgpt-grok-claude-outage-down",
+      "title": "ChatGPT, Grok, and Claude all went down at the same time",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "b7f3f7dd5c79",
+    "slug": "humain-startapi-2-5-milliard-dollar-yigishni-rejalashtirmoqd-b7f3f7",
+    "title": "Humain startapi 2,5 milliard dollar yig'ishni rejalashtirmoqda",
+    "summary": "Riyoddagi Humain AI startapi Saudiya Arabistonida 250 MVt quvvatga ega ma'lumotlar markazini moliyalashtirish uchun 2,5 milliard dollar yig'ishni rejalashtirmoqda. Mablag'lar mahalliy va xalqaro investorlardan jalb qilinadi. Bu haqda Bloomberg xabar berdi.",
+    "tags": [
+      "biznes",
+      "iqtisod"
+    ],
+    "importance": 3,
+    "score": 21,
+    "published": "2026-09-03T14:00:01.000Z",
+    "created": "2026-09-03T16:01:36.721Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/260903/p22",
+      "title": "Sources: Riyadh-based AI startup Humain is planning to raise an initial $2.5B fund to help finance data center capacity of 250 MW in Saudi Arabia (Omar El Chmouri/Bloomberg)",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "f2fcf6712106",
+    "slug": "idp-va-rpa-5-yilda-yoq-bolishi-taxmin-f2fcf6",
+    "title": "IDP va RPA 5 yilda yo'q bo'lishi taxmin",
+    "summary": "Content AI kompaniyasi hujjatlarni intellektual qayta ishlash (IDP) va robotlashtirilgan jarayonlarni avtomatlashtirish (RPA) mustaqil sinf sifatida besh yil ichida yo'qolishini prognoz qilmoqda. Kompaniya buni korporativ avtomatlashtirish bozori uchun ijobiy yangilik deb hisoblaydi.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 11,
+    "published": "2026-09-03T10:44:52.000Z",
+    "created": "2026-09-03T16:02:02.591Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/companies/contentai/articles/1078040",
+      "title": "IDP и RPA исчезнут как классы: что будет с корпоративной автоматизацией",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "84d7b7412eb4",
+    "slug": "suniy-intellekt-davrida-meta-etika-masalalari-organildi-84d7b7",
+    "title": "Sun'iy intellekt davrida meta-etika masalalari o'rganildi",
+    "summary": "Yangi tadqiqotda sun'iy intellektning o'ziga xos etikasi bilan bog'liq meta-etik masalalar tahlil qilindi. Agar kelajakda AI tizimlari axloqiy fikrlash qobiliyatiga ega bo'lsa, insonlar tomonidan o'rnatilgan qoidalardan farqli yangi savollar yuzaga keladi.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 10,
+    "published": "2026-09-03T04:00:00.000Z",
+    "created": "2026-09-03T16:02:02.591Z",
+    "coverage": 1,
+    "source": {
+      "name": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2609.01685",
+      "title": "Meta-ethics and AI: exploring the novel meta-ethical questions in the era of AI",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "5027c88ef4fb",
+    "slug": "wmllm-optimallashtirish-agentlari-taqdim-etildi-5027c8",
+    "title": "WMLLM optimallashtirish agentlari taqdim etildi",
+    "summary": "Tadqiqotchilar qora quti optimallashtirish muammolarini hal qilish uchun WMLLM deb nomlangan o'z-o'zidan rivojlanuvchi agentlarni taqdim etishdi. Ushbu tizim dunyoni modellashtirish orqali qidiruv samaradorligini oshirishga yordam beradi.",
+    "tags": [
+      "agentlar",
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 10,
+    "published": "2026-09-03T04:00:00.000Z",
+    "created": "2026-09-03T16:02:02.591Z",
+    "coverage": 1,
+    "source": {
+      "name": "arXiv cs.LG",
+      "url": "https://arxiv.org/abs/2609.01608",
+      "title": "WMLLM: Self-Evolving Optimization Agents via Predict-Then-Act World Modeling",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "f835d058e9b0",
+    "slug": "savol-javob-tizimlari-uchun-yangi-usul-ishlab-chiqildi-f835d0",
+    "title": "Savol-javob tizimlari uchun yangi usul ishlab chiqildi",
+    "summary": "Tadqiqotchilar ko'p bosqichli savol-javob tizimlarida dalillar yetarli bo'lmaganda modelning javob berishdan tiyilishini ta'minlovchi yangi usulni taklif qilishdi. Bu usul modelning noto'g'ri yoki asossiz javoblar berishining oldini olishga yordam beradi.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 10,
+    "published": "2026-09-03T04:00:00.000Z",
+    "created": "2026-09-03T16:02:02.592Z",
+    "coverage": 1,
+    "source": {
+      "name": "arXiv cs.CL",
+      "url": "https://arxiv.org/abs/2609.01687",
+      "title": "Learning Evidence Sufficiency Boundaries for Selective Answering in Grounded Multi-Hop QA",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "ea1d3bcfe49f",
     "slug": "o-zbekistonda-startaplar-uchun-demo-day-o-tkazildi-ea1d3b",
     "title": "O‘zbekistonda startaplar uchun Demo Day o‘tkazildi",
