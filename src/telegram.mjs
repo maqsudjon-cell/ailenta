@@ -26,13 +26,28 @@ const MIN_IMPORTANCE = Number(process.env.TELEGRAM_MIN_IMPORTANCE || 4);
 // Chegarani ko'tarish yordam bermaydi: LLM eng yuqori baho sifatida 4 qo'yadi,
 // 5 hech qachon chiqmaydi. Ya'ni MIN_IMPORTANCE=5 kanalni butunlay jimitardi.
 // Shuning uchun muhimlik emas, TEZLIK cheklanadi.
-// 8 juda kam bo'lib chiqdi: kuniga ~25 ta muhim xabar chiqadi va navbatda
-// 24 tasi to'planib qoldi — ular 24 soatdan oshib, kanalga umuman
-// yetib bormasdi. 25 ham juda ko'p edi. O'rtasi: 12.
-const MAX_PER_DAY = Number(process.env.TELEGRAM_MAX_PER_DAY || 12);
-const MIN_GAP_MIN = Number(process.env.TELEGRAM_MIN_GAP_MIN || 30);
-const PER_RUN = Number(process.env.TELEGRAM_PER_RUN || 2);
-const MAX_AGE_HOURS = Number(process.env.TELEGRAM_MAX_AGE_HOURS || 24);
+// Kanal ikki xil post chiqaradi.
+//
+// Sabab: kuniga ~100 xabar chiqadi, ulardan ~25 tasi muhimlik 4. Har birini
+// alohida post qilsak kanal yashab qolmaydi; chegara qo'ysak esa yaxshi
+// xabarlar navbatda eskirib yo'qoladi (o'lchandi: chegara 8 bo'lganda
+// 24 ta xabar navbatda qolib ketgan).
+//
+// Yechim — hajmni emas, SHAKLNI o'zgartirish:
+//   1. Eng muhimlari  → alohida post, rasm va xulosa bilan
+//   2. Qolganlari     → bir necha soatda bir marta bitta TO'PLAM posti
+//
+// Shunda muhim xabarlarning hammasi kanalga yetib boradi, lekin post soni
+// kuniga ~10 tadan oshmaydi.
+const TOP_PER_DAY = Number(process.env.TELEGRAM_TOP_PER_DAY || 6);
+const TOP_GAP_MIN = Number(process.env.TELEGRAM_TOP_GAP_MIN || 75);
+const PER_RUN = Number(process.env.TELEGRAM_PER_RUN || 1);
+
+const ROUNDUP_EVERY_MIN = Number(process.env.TELEGRAM_ROUNDUP_EVERY_MIN || 200);
+const ROUNDUP_MIN = Number(process.env.TELEGRAM_ROUNDUP_MIN || 3);
+const ROUNDUP_MAX = Number(process.env.TELEGRAM_ROUNDUP_MAX || 12);
+
+const MAX_AGE_HOURS = Number(process.env.TELEGRAM_MAX_AGE_HOURS || 30);
 
 const esc = (s = "") =>
   String(s).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
@@ -75,6 +90,25 @@ async function api(method, body) {
 // Rasm URL bilan emas, fayl bo'lib yuboriladi: bu qadam saytga chiqishdan
 // oldin ishlaydi, ya'ni havola hali mavjud emas va Telegram uni yuklab
 // ololmaydi ("failed to get HTTP URL content").
+// To'plam posti: sarlavha havola bo'ladi, tagida manba. Rasm yo'q —
+// o'nlab rasm kanalni og'irlashtiradi va bu post o'qish uchun emas,
+// ko'z yugurtirish uchun.
+export function roundupMessage(items, stamp) {
+  const lines = [
+    `<b>Yana nimalar bo'ldi</b>`,
+    `<i>${esc(stamp)} holatiga · ${items.length} ta xabar</i>`,
+    "",
+  ];
+  for (const p of items) {
+    lines.push(
+      `• <a href="${SITE.url}/x/${esc(p.slug)}/">${esc(p.title)}</a>`,
+      `  <i>${esc(p.source.name)}</i>`,
+    );
+  }
+  lines.push("", `Batafsil: ${SITE.url}`, `@${SITE.telegram}`);
+  return lines.join("\n");
+}
+
 async function sendPhotoFile(text, filePath) {
   const bytes = await readFile(filePath);
   const form = new FormData();
@@ -140,21 +174,19 @@ async function main() {
 
   const now = Date.now();
   const DAY = 86400_000;
+  const since = (t) => (t ? (now - t) / 60000 : Infinity);
+  const lastOf = (kind) =>
+    sent.reduce((m, e) => {
+      if (!e.at || (kind && e.how !== kind)) return m;
+      const t = Date.parse(e.at);
+      return t > m ? t : m;
+    }, 0);
 
-  const lastDay = sent.filter((e) => e.at && now - Date.parse(e.at) < DAY).length;
-  const lastAt = sent.reduce(
-    (m, e) => (e.at && Date.parse(e.at) > m ? Date.parse(e.at) : m), 0
-  );
-  const sinceLast = lastAt ? (now - lastAt) / 60000 : Infinity;
-
-  if (lastDay >= MAX_PER_DAY) {
-    console.log(`Telegram: kunlik chegara to'ldi (${lastDay}/${MAX_PER_DAY}) — o'tkazib yuborildi.`);
-    return;
-  }
-  if (sinceLast < MIN_GAP_MIN) {
-    console.log(`Telegram: oxirgi xabardan ${Math.round(sinceLast)} daqiqa o'tdi, kamida ${MIN_GAP_MIN} kerak.`);
-    return;
-  }
+  const topToday = sent.filter(
+    (e) => e.at && e.how !== "roundup" && now - Date.parse(e.at) < DAY
+  ).length;
+  const sinceTop = since(lastOf("post"));
+  const sinceRoundup = since(lastOf("roundup"));
 
   // Navbat SHU yugurishda yozilganlar bilan cheklanmaydi. Aks holda tezlik
   // cheklovi tufayli o'tkazib yuborilgan xabar boshqa hech qachon ketmasdi:
@@ -171,30 +203,61 @@ async function main() {
     return;
   }
 
-  const budget = Math.min(PER_RUN, MAX_PER_DAY - lastDay, queue.length);
-  const batch = queue.slice(0, budget);
+  let ok = 0, inRoundup = 0;
 
-  let ok = 0;
-  for (const p of batch) {
-    try {
-      await send(message(p), join(ROOT, `docs/og/${p.slug}.jpg`));
-      sent.push({ slug: p.slug, at: new Date().toISOString() });
-      sentSet.add(p.slug);
-      ok++;
-      console.log(`  → ${p.title}`);
-    } catch (e) {
-      console.error(`  ✗ yuborilmadi: ${p.title} — ${e.message}`);
+  // ---------- 1. Eng muhimlari: alohida post ----------
+  if (topToday < TOP_PER_DAY && sinceTop >= TOP_GAP_MIN) {
+    const budget = Math.min(PER_RUN, TOP_PER_DAY - topToday, queue.length);
+    for (const p of queue.slice(0, budget)) {
+      try {
+        await send(message(p), join(ROOT, `docs/og/${p.slug}.jpg`));
+        sent.push({ slug: p.slug, at: new Date().toISOString(), how: "post" });
+        sentSet.add(p.slug);
+        ok++;
+        console.log(`  → ${p.title}`);
+      } catch (e) {
+        console.error(`  ✗ yuborilmadi: ${p.title} — ${e.message}`);
+      }
+      await sleep(PAUSE);
     }
-    await sleep(PAUSE);
   }
 
-  await writeFile(
-    join(ROOT, "data/telegram-sent.json"),
-    JSON.stringify(sent.slice(-3000), null, 2)
-  );
+  // ---------- 2. Qolganlari: bitta to'plam posti ----------
+  // Alohida post qilinmagan xabarlar shu yerda kanalga yetadi. Eng eskisidan
+  // boshlaymiz: navbat oxirida turganlar eskirib yo'qolmasin.
+  const rest = queue
+    .filter((p) => !sentSet.has(p.slug))
+    .sort((a, b) => a.published.localeCompare(b.published))
+    .slice(0, ROUNDUP_MAX);
+
+  if (sinceRoundup >= ROUNDUP_EVERY_MIN && rest.length >= ROUNDUP_MIN) {
+    const stamp = new Date(now + 5 * 3600_000).toISOString().slice(11, 16);
+    try {
+      await send(roundupMessage(rest, stamp));
+      const at = new Date().toISOString();
+      for (const p of rest) {
+        sent.push({ slug: p.slug, at, how: "roundup" });
+        sentSet.add(p.slug);
+      }
+      inRoundup = rest.length;
+      console.log(`  → to'plam: ${rest.length} ta xabar`);
+    } catch (e) {
+      console.error(`  ✗ to'plam yuborilmadi — ${e.message}`);
+    }
+  }
+
+  if (ok || inRoundup) {
+    await writeFile(
+      join(ROOT, "data/telegram-sent.json"),
+      JSON.stringify(sent.slice(-3000), null, 2)
+    );
+  }
+
+  const left = queue.filter((p) => !sentSet.has(p.slug)).length;
   console.log(
-    `Telegram: ${ok} ta yuborildi · navbatda ${queue.length - ok} ta · ` +
-    `bugun ${lastDay + ok}/${MAX_PER_DAY}`
+    `Telegram: ${ok} ta alohida (bugun ${topToday + ok}/${TOP_PER_DAY})` +
+    (inRoundup ? ` · to'plamda ${inRoundup} ta` : "") +
+    ` · navbatda ${left} ta`
   );
 }
 
