@@ -5,8 +5,16 @@
   <link>https://ailenta.uz</link>
   <description>Dunyodagi sun'iy intellekt yangiliklari o'zbek tilida. Har soatda yangilanadi, har bir xabarda asl manbaga havola.</description>
   <language>uz</language>
-  <lastBuildDate>Thu, 03 Sep 2026 16:17:55 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 03 Sep 2026 16:39:31 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Nvidia RTX Spark N1X chipini oktyabrda chiqaradi</title>
+    <link>https://ailenta.uz/x/nvidia-rtx-spark-n1x-chipini-oktyabrda-chiqaradi-7bcf0e/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/nvidia-rtx-spark-n1x-chipini-oktyabrda-chiqaradi-7bcf0e/</guid>
+    <pubDate>Thu, 03 Sep 2026 16:25:01 GMT</pubDate>
+    <description>Nvidia kompaniyasi RTX Spark N1X chipi oktyabr oyida ikki xil konfiguratsiyada taqdim etilishini ma'lum qildi. Birinchi variant 20 yadroli protsessor va 6 144 yadroli Blackwell GPU bilan, ikkinchisi esa 18 yadroli protsessor va 5 120 yadroli GPU bilan jihozlanadi.</description>
+    <category>Nvidia</category><category>chiplar</category>
+  </item>
   <item>
     <title>Ollie AI yordamchisi maxfiylikka urg'u bermoqda</title>
     <link>https://ailenta.uz/x/ollie-ai-yordamchisi-maxfiylikka-urgu-bermoqda-c9405d/</link>
@@ -142,6 +150,14 @@
     <pubDate>Thu, 03 Sep 2026 13:00:18 GMT</pubDate>
     <description>Habr nashri Anthropic, OpenAI va Google'ning ilg'or AI modellarini badiiy tarjima, tahrirlash va tekshirish maqsadida solishtirdi. Taqqoslashda Google (Gemini Flash 3.7, Pro 3.1), Anthropic (Claude Opus 5) va OpenAI (GPT Sol 5.6) modellaridan foydalanildi. Barcha solishtiruvlar BookTrans ochiq kodli konveyeri ichida o'tkazildi.</description>
     <category>tadqiqot</category><category>ochiq model</category>
+  </item>
+  <item>
+    <title>PlayTiger Roblox'ga agentlar tizimini olib kirdi</title>
+    <link>https://ailenta.uz/x/playtiger-robloxga-agentlar-tizimini-olib-kirdi-7010f5/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/playtiger-robloxga-agentlar-tizimini-olib-kirdi-7010f5/</guid>
+    <pubDate>Thu, 03 Sep 2026 13:00:00 GMT</pubDate>
+    <description>PlayTiger platformasi ChatGPT va Claude modellaridan foydalangan holda Roblox muhitiga agentlar orkestratsiyasini joriy qildi.</description>
+    <category>agentlar</category>
   </item>
   <item>
     <title>Nvidia RTX Spark &quot;Superchip&quot; bilan ilk AI kompyuterlar taqdim etildi</title>
@@ -390,22 +406,6 @@
     <pubDate>Thu, 03 Sep 2026 09:02:44 GMT</pubDate>
     <description>Rydoo kompaniyasi xarajatlarni boshqarish tizimini Anthropic'ning Claude va OpenAI'ning ChatGPT modellariga integratsiyalash uchun yangi ulagichni ishga tushirdi. Bu AI yordamida moliyaviy jarayonlarni avtomatlashtirishga yordam beradi.</description>
     <category>OpenAI</category><category>Anthropic</category>
-  </item>
-  <item>
-    <title>Vatikan uglerod neytralligi uchun 117 million dollar sarflaydi</title>
-    <link>https://ailenta.uz/x/vatikan-uglerod-neytralligi-uchun-117-million-dollar-sarflay-471201/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/vatikan-uglerod-neytralligi-uchun-117-million-dollar-sarflay-471201/</guid>
-    <pubDate>Thu, 03 Sep 2026 09:01:00 GMT</pubDate>
-    <description>Vatikan uglerod neytralligiga erishish uchun 117 million dollar sarflamoqda. Ushbu mitti davlat Meta kompaniyasining 2030-yilga kelib 5 gigavattgacha elektr energiyasi iste'mol qilishi kutilayotgan Hyperion ma'lumotlar markazidan ham kichikroqdir.</description>
-    <category>Meta</category><category>bulut</category>
-  </item>
-  <item>
-    <title>Elon Musk ustidan Grok sababli sudga da'vo kiritildi</title>
-    <link>https://ailenta.uz/x/elon-musk-ustidan-grok-sababli-sudga-davo-kiritildi-71bc0b/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/elon-musk-ustidan-grok-sababli-sudga-davo-kiritildi-71bc0b/</guid>
-    <pubDate>Thu, 03 Sep 2026 09:00:49 GMT</pubDate>
-    <description>Bolaligida jinsiy zo'ravonlikka uchragan shaxs Elon Muskning AI kompaniyasini sudga berdi. Da'vogarning ta'kidlashicha, Grok chatboti uning eski suratlaridan yangi noqonuniy tasvirlar yaratishda foydalangan. Musk esa chatbot bunday tasvirlarni yaratganidan xabarsizligini bildirdi.</description>
-    <category>xAI</category><category>sud</category>
   </item>
 </channel>
 </rss>

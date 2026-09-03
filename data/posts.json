@@ -1,5 +1,50 @@
 [
   {
+    "id": "7bcf0e4319a2",
+    "slug": "nvidia-rtx-spark-n1x-chipini-oktyabrda-chiqaradi-7bcf0e",
+    "title": "Nvidia RTX Spark N1X chipini oktyabrda chiqaradi",
+    "summary": "Nvidia kompaniyasi RTX Spark N1X chipi oktyabr oyida ikki xil konfiguratsiyada taqdim etilishini ma'lum qildi. Birinchi variant 20 yadroli protsessor va 6 144 yadroli Blackwell GPU bilan, ikkinchisi esa 18 yadroli protsessor va 5 120 yadroli GPU bilan jihozlanadi.",
+    "tags": [
+      "Nvidia",
+      "chiplar"
+    ],
+    "importance": 3,
+    "score": 18,
+    "published": "2026-09-03T16:25:01.000Z",
+    "created": "2026-09-03T16:38:34.906Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/260903/p26",
+      "title": "Nvidia says the RTX Spark N1X launches in October in two configurations: a 20-core CPU with a 6,144-core Blackwell GPU and an 18-core CPU with a 5,120-core GPU (Andrew E. Freedman/Tom's Hardware)",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "7010f5a06b83",
+    "slug": "playtiger-robloxga-agentlar-tizimini-olib-kirdi-7010f5",
+    "title": "PlayTiger Roblox'ga agentlar tizimini olib kirdi",
+    "summary": "PlayTiger platformasi ChatGPT va Claude modellaridan foydalangan holda Roblox muhitiga agentlar orkestratsiyasini joriy qildi.",
+    "tags": [
+      "agentlar"
+    ],
+    "importance": 2,
+    "score": 13,
+    "published": "2026-09-03T13:00:00.000Z",
+    "created": "2026-09-03T16:38:34.907Z",
+    "coverage": 1,
+    "source": {
+      "name": "PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxORmFBMjUxMk8tQ3FEMy12bGM3TTdYTC1qenB4ajcydzU3VkdocGdUTUptbktmbjdKNzJCLVhLanhKOThlZ3BfSnZiaG8tWkRjbmRzbS1YTWhTUU1MRXNMOGdxaFhadGl6dHNCRUFwMmFaZEY2YjFJQTR5ZkNQNVhCbVE1ZHdJQnhSeXd4S1g0SzBxd194ejVuUlRqcXl4ekFXcnY4bWNsSHdhRW42NVQyRDQ4dWUyaVkzVUxfTy1rS3hSaFBvb0VCUUp3UTljQXc",
+      "title": "PlayTiger Brings Agentic Orchestration to Roblox Through ChatGPT and Claude",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "0df17a3d800a",
     "slug": "google-gmail-docs-va-keep-uchun-ai-ovozli-yordamchi-chiqardi-0df17a",
     "title": "Google Gmail, Docs va Keep uchun AI ovozli yordamchi chiqardi",
