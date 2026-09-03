@@ -1,5 +1,50 @@
 [
   {
+    "id": "4ca1cf36c0cd",
+    "slug": "doj-openai-va-microsoft-foydasiga-qaror-chiqarishni-soradi-4ca1cf",
+    "title": "DOJ OpenAI va Microsoft foydasiga qaror chiqarishni so'radi",
+    "summary": "AQSh Adliya vazirligi sudni OpenAI va Microsoft foydasiga qaror chiqarishga chaqirdi. Vazirlikka ko'ra, sun'iy intellektni gazeta materiallarida o'qitish mualliflik huquqini buzmaydi. Shuningdek, ushbu soha milliy xavfsizlik manfaati deb ataldi.",
+    "tags": [
+      "OpenAI",
+      "sud"
+    ],
+    "importance": 4,
+    "score": 29,
+    "published": "2026-09-02T17:55:07.000Z",
+    "created": "2026-09-03T06:01:00.299Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Washington Post",
+      "url": "https://washingtonpost.com/technology/2026/09/02/doj-urges-judge-rule-openai-microsoft-ny-times-lawsuit",
+      "title": "DOJ urges judge to rule for OpenAI, Microsoft in N.Y. Times lawsuit",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "6141628d319c",
+    "slug": "yuridik-firmalar-ozlarining-ai-vositalarini-yaratmoqda-614162",
+    "title": "Yuridik firmalar o'zlarining AI vositalarini yaratmoqda",
+    "summary": "Bir qator xalqaro yuridik firmalar o'z intellektual mulkini himoya qilish uchun maxsus AI vositalarini yaratishga intilmoqda. Ular kundalik vazifalar uchun tayyor AI yechimlaridan foydalanadi. Bu harakat o'zaro farqlanish va ichki platformalarni rivojlantirish istagi bilan bog'liq.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-09-03T05:55:02.000Z",
+    "created": "2026-09-03T06:01:00.300Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/260903/p6",
+      "title": "Several international law firms are seeking to build bespoke AI tools to gain an edge and protect their IP, while using off-the-shelf AI for everyday tasks (Nick Huber/Financial Times)",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "9eff64c42b6e",
     "slug": "ai-kontentini-aniqlash-nega-qiyinlashmoqda-9eff64",
     "title": "AI kontentini aniqlash nega qiyinlashmoqda",
