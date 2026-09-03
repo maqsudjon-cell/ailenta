@@ -195,7 +195,12 @@ export async function shortenTitle(title, call) {
     // tegib, birinchi qator tirnoq bilan qolib ketardi.
     const out = (await call(prompt)).trim().split("\n")[0].trim()
       .replace(/^["'«»]+|["'«».]+$/g, "").trim();
-    if (out && out.length <= TITLE_MAX && out.length >= 15) return out;
+
+    // Ilgari shart "TITLE_MAX dan qisqa bo'lsa" edi va bu juda qattiq
+    // chiqdi: model 80 belgini 64 ga qisqartirsa ham javob rad etilib,
+    // ASL 80 belgilik sarlavha qolardi. Har qanday yaxshilanish
+    // yo'qdan afzal.
+    if (out && out.length >= 15 && out.length < title.length) return out;
   } catch (e) {
     console.error(`  · sarlavhani qisqartirib bo'lmadi: ${e.message}`);
   }

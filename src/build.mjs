@@ -84,7 +84,7 @@ ${urls.map((u) => `  <url>
 function rss(posts) {
   const now = new Date().toUTCString();
   return `<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
   <title>${esc(SITE.name)}</title>
   <link>${SITE.url}</link>
@@ -99,6 +99,8 @@ ${posts.slice(0, 50).map((p) => `  <item>
     <pubDate>${new Date(p.published).toUTCString()}</pubDate>
     <description>${esc(p.summary)}</description>
     ${(p.tags || []).map((t) => `<category>${esc(t)}</category>`).join("")}
+    <media:content url="${SITE.url}/og/${esc(p.slug)}.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="${SITE.url}/og/${esc(p.slug)}.jpg"/>
   </item>`).join("\n")}
 </channel>
 </rss>
@@ -140,6 +142,74 @@ ${items.map((it) => {
 }).join("\n")}
 </channel>
 </rss>
+`;
+}
+
+// Google News uchun alohida sitemap. Oddiy sitemapdan farqi — unda maqola
+// sanasi va tili news: nom fazosida beriladi va faqat SO'NGGI ikki kunlik
+// xabarlar bo'ladi. Google News aynan shunisini kutadi; oddiy sitemap
+// yangilik saytini indekslashga yetarli emas.
+function newsSitemap(posts) {
+  const cutoff = Date.now() - 48 * 3600_000;
+  const fresh = posts.filter((p) => Date.parse(p.published) >= cutoff).slice(0, 1000);
+  return `<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
+${fresh.map((p) => `  <url>
+    <loc>${SITE.url}/x/${esc(p.slug)}/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>${esc(SITE.name)}</news:name>
+        <news:language>uz</news:language>
+      </news:publication>
+      <news:publication_date>${new Date(p.published).toISOString()}</news:publication_date>
+      <news:title>${esc(p.title)}</news:title>
+    </news:news>
+  </url>`).join("\n")}
+</urlset>
+`;
+}
+
+// llms.txt — sayt xaritasining AI tizimlari uchun mo'ljallangan ko'rinishi.
+//
+// Sabab: til modellari HTML sahifani o'qiyotganda navigatsiya, uslub va
+// takrorlanuvchi qismlarni mazmundan ajratishga kuch sarflaydi. llms.txt
+// esa toza matn: sayt nima haqida, qanday bo'limlari bor va bugun nima
+// chiqdi. Bu yangi, hali majburiy bo'lmagan standart, lekin arzon va
+// zarari yo'q.
+function llmsTxt(posts, u) {
+  const today = posts.slice(0, 30);
+  const sources = [...new Set(posts.map((p) => p.source.name))].sort();
+  return `# ${SITE.name}
+
+> ${SITE.description}
+
+Sayt sun'iy intellekt yangiliklarini ochiq manbalardan yig'adi, o'zbek
+tilida qisqa xulosa yozadi va har birida asl manbaga havola qoldiradi.
+Xulosalar til modeli yordamida tayyorlanadi; asl matn tarjima qilinmaydi.
+Yangilanish: har soatda. Til: o'zbek (lotin).
+
+## Bo'limlar
+
+- [Bosh sahifa](${SITE.url}/): so'nggi xabarlar
+- [Arxiv](${SITE.url}/arxiv/): kunlar bo'yicha barcha xabarlar
+- [Mavzular](${SITE.url}/mavzular/): mavzu bo'yicha ro'yxat
+- [RSS](${SITE.url}/rss.xml): mashina o'qiydigan lenta
+- [Suratlar va litsenziyalar](${SITE.url}/rasmlar/): rasmlarning manbasi
+
+## So'nggi xabarlar
+
+${today.map((p) => `- [${p.title}](${SITE.url}/x/${p.slug}/): ${p.summary}`).join("\n")}
+
+## Manbalar
+
+Xabarlar quyidagi nashrlardan yig'iladi: ${sources.join(", ")}.
+
+## Foydalanish
+
+Matndan foydalansangiz manba sifatida ${SITE.domain} ni va xabardagi asl
+nashrni ko'rsating. Suratlar Wikimedia Commons'dan, o'z litsenziyalari
+bilan — ular ${SITE.url}/rasmlar/ sahifasida sanab o'tilgan.
 `;
 }
 
@@ -304,11 +374,34 @@ async function buildSite() {
 
   // Sitemap, RSS, robots.
   await write("docs/sitemap.xml", sitemap(urls));
+  await write("docs/news-sitemap.xml", newsSitemap(posts));
   await write("docs/rss.xml", rss(posts));
-  await write("docs/robots.txt", `User-agent: *\nAllow: /\n\nSitemap: ${SITE.url}/sitemap.xml\n`);
+  await write("docs/llms.txt", llmsTxt(posts, U));
+
+  // AI to'plovchilarini ATAYLAB nom bilan ruxsat etamiz. `User-agent: *`
+  // ularni baribir qamrab oladi, lekin ba'zi operatorlar o'z nomini
+  // qidiradi, Google-Extended esa alohida: u Gemini va AI Overviews
+  // uchun kontent olishni boshqaradi va ruxsatsiz saytni chetlab o'tadi.
+  //
+  // Bu sayt ochiq manbalardan yig'iladi va manbaga havola qoldiradi —
+  // uni AI tizimlari o'qishi maqsadga muvofiq.
+  const aiBots = [
+    "GPTBot", "OAI-SearchBot", "ChatGPT-User",
+    "ClaudeBot", "Claude-User", "Claude-SearchBot",
+    "Google-Extended", "PerplexityBot", "Perplexity-User",
+    "Applebot-Extended", "Bingbot", "CCBot", "cohere-ai", "Meta-ExternalAgent",
+  ];
+  await write("docs/robots.txt",
+    `User-agent: *\nAllow: /\n\n` +
+    aiBots.map((b) => `User-agent: ${b}\nAllow: /\n`).join("\n") +
+    `\nSitemap: ${SITE.url}/sitemap.xml\n` +
+    `Sitemap: ${SITE.url}/news-sitemap.xml\n`
+  );
 
   console.log(`  ✓ ${pages} ta sahifa · ${byTag.size} mavzu (${thinTags} tasi indekssiz) · ${days.length} kun`);
+  const freshCount = posts.filter((p) => Date.now() - Date.parse(p.published) < 48 * 3600_000).length;
   console.log(`  ✓ sitemap.xml (${urls.length} manzil) · rss.xml (${Math.min(posts.length, 50)} xabar) · robots.txt`);
+  console.log(`  ✓ news-sitemap.xml (${freshCount} yangi xabar) · llms.txt`);
   console.log(`  ✓ ${imgCount} ta muqova rasmi · favicon · kanal logotipi`);
   console.log(`  ✓ ${withPhoto}/${posts.length} ta xabarda haqiqiy surat`);
   console.log(`  ✓ /ig-post/ va instagram.xml — ${igItems.length} ta Instagram kartochkasi`);

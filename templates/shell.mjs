@@ -589,8 +589,19 @@ export function foot(now, extra = "") {
 }
 
 // Nashriyot ma'lumoti — har bir sahifadagi JSON-LD uchun umumiy qism.
+// Google yangiliklar nashri uchun logotip talab qiladi — usiz NewsArticle
+// tuzilmasi to'liq hisoblanmaydi. NewsMediaOrganization — Organization'ning
+// aniqroq turi, qidiruv tizimi nashr ekanini shundan biladi.
 export const publisher = {
-  "@type": "Organization",
+  "@type": "NewsMediaOrganization",
   name: SITE.name,
   url: SITE.url,
+  logo: {
+    "@type": "ImageObject",
+    url: `${SITE.url}/logo-512.png`,
+    width: 512,
+    height: 512,
+  },
+  sameAs: [`https://t.me/${SITE.telegram}`],
+  inLanguage: "uz",
 };
