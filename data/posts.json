@@ -1,5 +1,119 @@
 [
   {
+    "id": "53a491070515",
+    "slug": "meta-suniy-intellektda-yetakchilarga-yetib-oldi-53a491",
+    "title": "Meta sun'iy intellektda yetakchilarga yetib oldi",
+    "summary": "Meta kompaniyasi sun'iy intellekt sohasida OpenAI va Anthropic darajasiga yetib olganini ma'lum qildi. Shuningdek, kompaniyaning yangi AI modeli Hindiston aholisining haqiqiy so'zlashuv nutqini tushunish imkoniyatiga ega bo'ldi.",
+    "tags": [
+      "Meta"
+    ],
+    "importance": 4,
+    "score": 16,
+    "published": "2026-09-03T11:39:19.000Z",
+    "created": "2026-09-03T11:45:12.713Z",
+    "coverage": 2,
+    "source": {
+      "name": "TechJuice",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNd2RMdjBDSWw5QkF3QnZfNXRKenJJNFNsemNRbENqUXRIb1VGa1dEV3d4UEZ6VnowZDI4Zk8tMnFNV25vd1VhNzdNN1Y1aW82dUFCemFTVTVORVY2QzVkRTR1NGpKaFJiUmlld2I1cXE0M3dBQ0VTX3MwNXB5OHpQNFpFLW9JVUdxOVE",
+      "title": "Meta Says It Finally Caught Up With OpenAI and Anthropic",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "b3cfdcb5297d",
+    "slug": "nato-ukrainaga-harbiy-rahbarlarni-tayyorlamoqda-b3cfdc",
+    "title": "NATO Ukrainaga harbiy rahbarlarni tayyorlamoqda",
+    "summary": "NATO Ukrainaga yangi harbiy tayyorgarlik doirasida oddiy askarlarni emas, balki boshqa harbiylarni o'qita oladigan rahbarlarni tayyorlamoqda. Bu ko'nikmalarni butun armiya bo'ylab yoyishga yordam beradi.",
+    "tags": [
+      "siyosat",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-09-03T11:02:18.000Z",
+    "created": "2026-09-03T11:46:27.062Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/wests-training-ukraine-soldiers-focuses-on-leaders-spread-skills-2026-9",
+      "title": "At this NATO training camp, the aim is to train the Ukrainians who can then turn around and train everyone else",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "32e5bf8a1e52",
+    "slug": "firefoxda-ai-ochirilgan-ammo-telemetriya-emas-32e5bf",
+    "title": "Firefox'da AI o'chirilgan, ammo telemetriya emas",
+    "summary": "Firefox brauzerida sun'iy intellekt funksiyasi o'chirilgan bo'lsa-da, telemetriya (ma'lumot yig'ish) faol holatda qolmoqda. Bu foydalanuvchi maxfiyligi bilan bog'liq savollarni tug'diradi.",
+    "tags": [
+      "maxfiylik",
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 14.5,
+    "published": "2026-09-02T18:30:49.000Z",
+    "created": "2026-09-03T11:46:27.063Z",
+    "coverage": 1,
+    "source": {
+      "name": "Hacker News",
+      "url": "https://marius.blog/firefox-155-ai-kill-switch-retest",
+      "title": "Firefox's AI Switch Is Off. Telemetry Isn't",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "a66071d1e714",
+    "slug": "ai-mahsulotlari-uchun-interfeys-tanlash-muammosi-a66071",
+    "title": "AI mahsulotlari uchun interfeys tanlash muammosi",
+    "summary": "AI mahsulotini ishlab chiqishda LLM tanlashdan ko'ra, u bilan ishlash uchun interfeysni tanlash qiyinroq bo'ldi. Mavjud AI chatlari bir model uchun yaxshi, ammo bir nechta agentli murakkab mahsulotlarni cheklaydi.",
+    "tags": [
+      "tadqiqot",
+      "agentlar"
+    ],
+    "importance": 2,
+    "score": 14,
+    "published": "2026-09-03T08:11:26.000Z",
+    "created": "2026-09-03T11:46:27.063Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1078008",
+      "title": "Выбор UI‑инструмента для быстрого прототипирования в AI‑продуктах: Open WebUI",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "f158912bef08",
+    "slug": "rydoo-xarajatlarni-boshqarishni-claude-va-chatgptga-integrat-f15891",
+    "title": "Rydoo xarajatlarni boshqarishni Claude va ChatGPT'ga integratsiyaladi",
+    "summary": "Rydoo kompaniyasi xarajatlarni boshqarish tizimini Anthropic'ning Claude va OpenAI'ning ChatGPT modellariga integratsiyalash uchun yangi ulagichni ishga tushirdi. Bu AI yordamida moliyaviy jarayonlarni avtomatlashtirishga yordam beradi.",
+    "tags": [
+      "OpenAI",
+      "Anthropic"
+    ],
+    "importance": 3,
+    "score": 13,
+    "published": "2026-09-03T09:02:44.000Z",
+    "created": "2026-09-03T11:46:38.695Z",
+    "coverage": 1,
+    "source": {
+      "name": "FF News",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOaExIWDJYd29md1BsMWpDQnltdVNJYmZXeXVMZ3ZzeVROYV8xaXYwc2Q5dmhrVGM2V0puMHduUGNFakE2SUo5VTFhLWhSdmxmYXdXY2Qyd0VSak9MVXBNMFphUTJSblA5WFdncS1KMHM2YWd4bTBhdmF2NHEyVEZrUHZsdzNpWFJRYWt5c2pOUWtmbmpMUEU5VFg4c25sdw",
+      "title": "Rydoo Launches Model Context Protocol Connector to Integrate Expense Management into Claude and ChatGPT",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "1997b2254e18",
     "slug": "saudiya-arabistonining-humain-firmasi-venchur-fond-ochadi-1997b2",
     "title": "Saudiya Arabistonining HUMAIN firmasi venchur fond ochadi",
