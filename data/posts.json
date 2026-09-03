@@ -1,5 +1,56 @@
 [
   {
+    "id": "be4a3c542626",
+    "slug": "legora-gpt-6-astra-yordamida-41-ta-hujjatni-tekshirdi-be4a3c",
+    "title": "Legora GPT-6 Astra yordamida 41 ta hujjatni tekshirdi",
+    "summary": "Legora kompaniyasi GPT-6 Astra modelidan foydalanib, bir necha daqiqa ichida 41 ta hujjatni ko'rib chiqdi. Model hujjatlarga ataylab kiritilgan barcha to'rtta xatoni aniqladi va moliyaviy tahlil jarayonida ish samaradorligini qariyb 40 foizga oshirdi.",
+    "tags": [
+      "OpenAI",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 33,
+    "published": "2026-09-03T12:00:00.000Z",
+    "created": "2026-09-03T22:48:48.416Z",
+    "coverage": 1,
+    "source": {
+      "name": "OpenAI",
+      "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
+      "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "8e216ab4807e",
+    "slug": "gpt-6-astra-arc-agi-3-testida-yuqori-natija-korsatdi-8e216a",
+    "title": "GPT-6 Astra ARC-AGI-3 testida yuqori natija ko'rsatdi",
+    "summary": "OpenAI kompaniyasining GPT-6 Astra modeli ARC-AGI-3 testida standart tizimda 62,7 foiz, yangi adapter tizimida esa 99,9 foiz natija qayd etdi. Taqqoslash uchun, Claude Opus 5 modeli 30,2 foiz, GPT-5.6 Sol esa 7,8 foiz ball to'plagan.",
+    "tags": [
+      "OpenAI",
+      "tadqiqot"
+    ],
+    "importance": 4,
+    "score": 29.1,
+    "published": "2026-09-03T20:05:01.000Z",
+    "created": "2026-09-03T22:48:48.418Z",
+    "coverage": 2,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/260903/p40",
+      "title": "GPT-6 Astra scores 62.7% on ARC-AGI-3 with the standard harness and 99.9% with a new provider adapter harness; Claude Opus 5 scored 30.2%, and GPT-5.6 Sol 7.8% (Greg Kamradt/ARC Prize)",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "Hacker News",
+        "url": "https://arcprize.org/blog/astra"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
     "id": "5190d2a1dccd",
     "slug": "openai-muhim-xizmatlarni-himoya-qilishga-1-mlrd-dollar-ajrat-5190d2",
     "title": "OpenAI muhim xizmatlarni himoya qilishga 1 mlrd dollar ajratdi",
