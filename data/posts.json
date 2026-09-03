@@ -1,9 +1,31 @@
 [
   {
+    "id": "9337d92037bd",
+    "slug": "openai-yangi-astra-modeli-bilan-agi-davri-kelganini-aytdi-9337d9",
+    "title": "OpenAI yangi Astra modeli bilan AGI davri kelganini aytdi",
+    "summary": "OpenAI prezidenti Greg Brokman kompaniyaning yangi Astra modelini taqdim etib, dunyo sun'iy umumiy intellekt (AGI) davriga qadam qo'yganini ma'lum qildi. Kompaniya Astra modelini dunyodagi eng aqlli va moslashtirilgan model deb atadi.",
+    "tags": [
+      "OpenAI"
+    ],
+    "importance": 5,
+    "score": 32,
+    "published": "2026-09-03T18:24:42.000Z",
+    "created": "2026-09-03T20:02:32.578Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/technology/2026/sep/03/openai-artificial-general-intelligence-astra-release",
+      "title": "OpenAI hails ‘new era of artificial general intelligence’ with Astra model release",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "c81a00deabee",
-    "slug": "sukerberg-ai-tartibga-solinishiga-qarshi-chiqdi-c81a00",
-    "title": "Sukerberg AI tartibga solinishiga qarshi chiqdi",
-    "summary": "Meta rahbari Mark Sukerberg AQSh prezidenti Donald Tramp bilan shaxsiy telefon suhbatida milliy AI regulyatorini yaratish g'oyasiga qarshi chiqqan. Ba'zi manbalarga ko'ra, u Trampdan o'z pozitsiyasini o'zgartirishni so'ramagan.",
+    "slug": "sukerberg-tramp-bilan-suhbatda-ai-nazoratiga-qarshi-chiqdi-c81a00",
+    "title": "Sukerberg Tramp bilan suhbatda AI nazoratiga qarshi chiqdi",
+    "summary": "Meta rahbari Mark Sukerberg AQSh prezidenti Donald Tramp bilan telefon suhbatida milliy sun'iy intellekt regulyatorini yaratish g'oyasiga qarshi chiqqan. Oq uy rasmiysi Sukerbergning ushbu taklifni xato deb hisoblashini tasdiqladi.",
     "tags": [
       "Meta",
       "siyosat"
@@ -11,7 +33,7 @@
     "importance": 4,
     "score": 27,
     "published": "2026-09-03T19:51:52.000Z",
-    "created": "2026-09-03T20:00:09.564Z",
+    "created": "2026-09-03T20:02:32.580Z",
     "coverage": 3,
     "source": {
       "name": "Business Insider",
@@ -25,6 +47,98 @@
         "url": "https://techmeme.com/260903/p38"
       }
     ],
+    "model": "gemini"
+  },
+  {
+    "id": "7e80672b84c6",
+    "slug": "qwen-3-8-27b-modeli-cerebrasda-1500-token-s-tezlikda-7e8067",
+    "title": "Qwen 3.8 27B modeli Cerebras'da 1500 token/s tezlikda",
+    "summary": "Qwen 3.8 27B modeli Cerebras platformasida mavjud bo'ldi. U 1500 token/s tezlikda ishlay oladi.",
+    "tags": [
+      "Cerebras",
+      "chiplar"
+    ],
+    "importance": 3,
+    "score": 23,
+    "published": "2026-09-03T18:32:13.000Z",
+    "created": "2026-09-03T20:02:45.970Z",
+    "coverage": 1,
+    "source": {
+      "name": "Hacker News",
+      "url": "https://inference-docs.cerebras.ai/models/overview",
+      "title": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "7593dab63f4d",
+    "slug": "anthropic-va-openai-daromad-farqi-tushuntirildi-7593da",
+    "title": "Anthropic va OpenAI daromad farqi tushuntirildi",
+    "summary": "Axios nashri Anthropic va OpenAI kompaniyalari o'rtasidagi daromad farqini tushuntirdi. Bu ikki kompaniya moliyaviy jihatdan sezilarli farqlarga ega.",
+    "tags": [
+      "Anthropic",
+      "OpenAI"
+    ],
+    "importance": 3,
+    "score": 23,
+    "published": "2026-09-03T13:53:24.000Z",
+    "created": "2026-09-03T20:02:45.971Z",
+    "coverage": 1,
+    "source": {
+      "name": "Axios",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMk5jbUdTandha3A1bnQ3N2dJY043XzgwS2pQWkE4RUZpYWV4NHAyMHEyWGdKSmRtNlIyeC1KZ0dYZGxQMmRzdG1iU0YyRUJYRDdZWE1FTHI4eUpST1JVUEp0d05wRzlKb0FBc2xEZ0ZBUFV1S2k4YmdIWHV4cFhKOHJDZjI",
+      "title": "Anthropic and OpenAI's revenue chasm, explained",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "7111a270edef",
+    "slug": "openai-astra-modelini-100-mingdan-ortiq-gpu-bilan-oqitdi-7111a2",
+    "title": "OpenAI Astra modelini 100 mingdan ortiq GPU bilan o'qitdi",
+    "summary": "OpenAI kompaniyasi GPT-6 Astra modelini taqdim etdi. U Texasdagi Stargate markazida 100 000 dan ortiq GPU yordamida o'qitilgan eng yirik modeldir. Kompaniya uni avlodlar sakrashi deb atadi.",
+    "tags": [
+      "OpenAI",
+      "chiplar"
+    ],
+    "importance": 4,
+    "score": 21,
+    "published": "2026-09-03T18:25:01.000Z",
+    "created": "2026-09-03T20:02:45.971Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/260903/p36",
+      "title": "OpenAI says Astra was built on its largest-ever training run, using more than 100,000 GPUs at its Stargate site in Texas (Ina Fried/Axios)",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "30f1e8274b58",
+    "slug": "ray-kurzweil-miya-kompyuter-startapiga-qoshildi-30f1e8",
+    "title": "Ray Kurzweil miya-kompyuter startapiga qo'shildi",
+    "summary": "AI mutaxassisi Ray Kurzweil Subsense startapiga qo'shildi. Kompaniya burun orqali yuboriladigan nano zarrachalar yordamida miya-kompyuter tizimini ishlab chiqmoqda. Bu tizim Neuralink'ka raqobat qilishi mumkin.",
+    "tags": [
+      "tadqiqot",
+      "tibbiyot"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-09-03T19:02:18.000Z",
+    "created": "2026-09-03T20:03:03.511Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/09/03/ai-visionary-ray-kurzweil-is-joining-a-silicon-valley-startup-developing-a-brain-computer-system-that-involves-snorting-nano-particles",
+      "title": "AI visionary Ray Kurzweil is joining a Silicon Valley startup developing a brain computer system that involves snorting nano particles",
+      "indirect": false
+    },
+    "also": [],
     "model": "gemini"
   },
   {
