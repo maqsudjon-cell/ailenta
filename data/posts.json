@@ -1,5 +1,141 @@
 [
   {
+    "id": "4d08cbce6e29",
+    "slug": "anthropic-iposidan-qaysi-investorlar-foyda-koradi-4d08cb",
+    "title": "Anthropic IPO'sidan qaysi investorlar foyda ko'radi",
+    "summary": "Anthropic kompaniyasi ommaviy aksiyalarini joylashtirishga (IPO) tayyorlanmoqda. Ushbu yirik taklifdan qaysi investorlar foyda ko'rishi startap sarmoyalari yillar davomida qanchalik o'zgarganini ko'rsatadi.",
+    "tags": [
+      "Anthropic",
+      "iqtisod"
+    ],
+    "importance": 3,
+    "score": 27,
+    "published": "2026-09-03T09:02:51.000Z",
+    "created": "2026-09-03T09:38:46.805Z",
+    "coverage": 1,
+    "source": {
+      "name": "The New York Times",
+      "url": "https://nytimes.com/2026/09/03/technology/anthropic-ipo-investors-winners.html",
+      "title": "Which Investors Will Get Rich From Anthropic’s IPO?",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "471201d9b5af",
+    "slug": "vatikan-uglerod-neytralligi-uchun-117-million-dollar-sarflay-471201",
+    "title": "Vatikan uglerod neytralligi uchun 117 million dollar sarflaydi",
+    "summary": "Vatikan uglerod neytralligiga erishish uchun 117 million dollar sarflamoqda. Ushbu mitti davlat Meta kompaniyasining 2030-yilga kelib 5 gigavattgacha elektr energiyasi iste'mol qilishi kutilayotgan Hyperion ma'lumotlar markazidan ham kichikroqdir.",
+    "tags": [
+      "Meta",
+      "bulut"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-09-03T09:01:00.000Z",
+    "created": "2026-09-03T09:38:59.452Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/09/03/pope-leo-vatican-world-smallest-nation-117-million-carbon-neutral-solar-panels",
+      "title": "The Vatican is smaller than a single data center. Now it’s spending $117 million to go carbon-neutral",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "16f02e095428",
+    "slug": "go-grossmeysteri-shin-katago-ai-modelini-maglub-etdi-16f02e",
+    "title": "Go grossmeysteri Shin KataGo AI modelini mag'lub etdi",
+    "summary": "Go o'yini bo'yicha grossmeyster Shin KataGo sun'iy intellekt modelini mag'lub etdi. Bu insoniyatning sun'iy intellekt ustidan qozongan tarixiy g'alabasi bo'ldi.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 16.6,
+    "published": "2026-09-03T01:11:22.000Z",
+    "created": "2026-09-03T09:38:59.452Z",
+    "coverage": 1,
+    "source": {
+      "name": "Hacker News",
+      "url": "https://kedglobal.com/artificial-intelligence/newsView/ked202607210007",
+      "title": "Go grandmaster Shin defeats AI KataGo in historic human victory",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "39a3611660fa",
+    "slug": "nvidia-chip-aksiyalari-osishiga-yetakchilik-qilmoqda-39a361",
+    "title": "Nvidia chip aksiyalari o'sishiga yetakchilik qilmoqda",
+    "summary": "Sun'iy intellekt xarajatlariga bo'lgan ishonch fonida Nvidia chip ishlab chiqaruvchilar aksiyalarining o'sishiga yetakchilik qilmoqda. Prognozlarga ko'ra, 2030-yilga kelib AI infratuzilmasi xarajatlari 1,4 trillion dollarga yetadi.",
+    "tags": [
+      "Nvidia",
+      "chiplar"
+    ],
+    "importance": 4,
+    "score": 15.7,
+    "published": "2026-09-02T20:53:00.000Z",
+    "created": "2026-09-03T09:39:17.568Z",
+    "coverage": 2,
+    "source": {
+      "name": "Investor's Business Daily",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQeXdEWkFIalBmUF9HbFdhN0pwMlNIdU9FNDRoT2lZU01mYUtaV2FDVVhSOW5yVTByUXJKVzQ3cl9BNGgzaTFQRFZXYl91MVRkdW5ZcC1kRkt0SU1hczUza0xvZkhWSVZVSGFZSUlFLTBqMHljMGxMUlN5aGN0WE0wcFdpR0ZJM3RtR09F",
+      "title": "Nvidia Leads Chip Stocks Higher Amid Renewed Confidence In AI Spending",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "f2ef022e73ff",
+    "slug": "ai-tasiri-past-bolgan-yuqori-daromadli-kasblar-f2ef02",
+    "title": "AI ta'siri past bo'lgan yuqori daromadli kasblar",
+    "summary": "Sun'iy intellekt ta'siri kam bo'lgan, ammo yuqori maoshli va o'sib borayotgan 10 ta kasb aniqlandi. Ular orasida sog'liqni saqlash sohasidagi bir nechta mutaxassisliklar mavjud.",
+    "tags": [
+      "mehnat bozori",
+      "tibbiyot"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-09-03T09:30:02.000Z",
+    "created": "2026-09-03T09:39:17.568Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/high-paying-growing-jobs-low-exposure-to-ai-2026-9",
+      "title": "10 high-paying and growing jobs with low exposure to AI",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "899ddb355585",
+    "slug": "odamlar-ozlarining-ai-sirlarini-malum-qilishdi-899ddb",
+    "title": "Odamlar o'zlarining AI sirlarini ma'lum qilishdi",
+    "summary": "Oliviya Tay notanish odamlardan sun'iy intellekt bilan bog'liq eng katta sirlarini yozishni so'radi. Odamlar sobiq yigitlarining ovozini klonlash va chatbotlar bilan uchrashish haqida yozishgan.",
+    "tags": [
+      "maxfiylik"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-09-03T09:00:01.000Z",
+    "created": "2026-09-03T09:39:17.568Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/ai-use-secrets-what-we-tell-ai-website-artist-2026-9",
+      "title": "She asked people to write down their AI secrets. The confessions came pouring in.",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "71bc0bb7dedb",
     "slug": "elon-musk-ustidan-grok-sababli-sudga-davo-kiritildi-71bc0b",
     "title": "Elon Musk ustidan Grok sababli sudga da'vo kiritildi",
