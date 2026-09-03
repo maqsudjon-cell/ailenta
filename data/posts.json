@@ -1,5 +1,188 @@
 [
   {
+    "id": "ea1d3bcfe49f",
+    "slug": "o-zbekistonda-startaplar-uchun-demo-day-o-tkazildi-ea1d3b",
+    "title": "O‘zbekistonda startaplar uchun Demo Day o‘tkazildi",
+    "summary": "Innovatsion rivojlanish agentligi mustaqillikning 35 yilligi munosabati bilan Demo Day tadbirini tashkil etdi. Unda startap loyihalari yirik ishlab chiqarish klasterlariga taqdim etildi.",
+    "tags": [
+      "O'zbekiston"
+    ],
+    "importance": 3,
+    "score": 41,
+    "published": "2026-09-03T15:05:00.000Z",
+    "created": "2026-09-03T15:39:02.858Z",
+    "coverage": 1,
+    "source": {
+      "name": "UzDaily",
+      "url": "https://uzdaily.uz/uz/ozbekistonda-startap-loyihalari-uchun-demo-day-otkazildi",
+      "title": "O‘zbekistonda startap loyihalari uchun “Demo Day” o‘tkazildi",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "3452ca408a39",
+    "slug": "nvidia-hugging-face-kompaniyasini-sotib-olmoqda-3452ca",
+    "title": "Nvidia Hugging Face kompaniyasini sotib olmoqda",
+    "summary": "Hugging Face bosh direktori Nvidia rahbari Jensen Huang bilan 12,9 milliard dollarlik xariddan bir necha hafta oldin bog‘langan. Nvidia ushbu kelishuv orqali butun dunyodagi dasturchilar uchun AI imkoniyatlarini kengaytiradi.",
+    "tags": [
+      "Nvidia",
+      "Hugging Face"
+    ],
+    "importance": 5,
+    "score": 25,
+    "published": "2026-09-03T14:38:25.000Z",
+    "created": "2026-09-03T15:39:02.860Z",
+    "coverage": 1,
+    "source": {
+      "name": "CNBC",
+      "url": "https://cnbc.com/2026/09/03/nvidia-agrees-to-buy-hugging-face-for-almost-13-billion-ai-expansion.html",
+      "title": "Hugging Face approached Nvidia’s Huang weeks ahead of $12.9B acquisition, CEO tells CNBC",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "aa3887886905",
+    "slug": "google-ob-havoni-prognoz-qiluvchi-yangi-ai-modelini-chiqardi-aa3887",
+    "title": "Google ob-havoni prognoz qiluvchi yangi AI modelini chiqardi",
+    "summary": "Google DeepMind va Google Research olimlari WeatherNext 3 deb nomlangan yangi sun'iy intellekt modelini taqdim etdi. Ushbu model ob-havo o'zgarishlarini aniqroq ko'rish va uning harakatlarini tez-tez prognoz qilish imkonini beradi.",
+    "tags": [
+      "Google",
+      "tadqiqot"
+    ],
+    "importance": 4,
+    "score": 24,
+    "published": "2026-09-03T15:00:00.000Z",
+    "created": "2026-09-03T15:39:02.861Z",
+    "coverage": 1,
+    "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella",
+      "title": "Google’s latest AI weather model gives you no excuse to forget your umbrella",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "1685ffb1122e",
+    "slug": "salesforce-foyda-kamayishida-claude-modelini-aybladi-1685ff",
+    "title": "Salesforce foyda kamayishida Claude modelini aybladi",
+    "summary": "Salesforce kompaniyasi o'zining foyda marjasi prognozi pasayishiga Claude modelidan haddan tashqari ko'p foydalanish sabab bo'lganini ma'lum qildi. Endilikda kompaniya investorlar talabi bilan modellarni yanada ehtiyotkorlik bilan tanlash rejimiga o'tmoqda.",
+    "tags": [
+      "Salesforce",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-09-03T14:44:48.000Z",
+    "created": "2026-09-03T15:39:02.861Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/ai-and-ml/2026/09/03/salesforce-blames-its-claude-addiction-for-denting-profit-margin-guidance/5294219",
+      "title": "Salesforce blames its Claude addiction for denting profit margin guidance",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "c22774e46292",
+    "slug": "startlux-xitoyning-ai-poygasiga-qoshildi-c22774",
+    "title": "StartLux Xitoyning AI poygasiga qo'shildi",
+    "summary": "StartLux nomli yangi kompaniya Xitoyning sun'iy intellekt bozoriga kirib keldi. Bu kompaniya AI sohasida raqobatni kuchaytirishi kutilmoqda.",
+    "tags": [
+      "StartLux",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 16.8,
+    "published": "2026-09-03T11:12:57.000Z",
+    "created": "2026-09-03T15:39:18.093Z",
+    "coverage": 1,
+    "source": {
+      "name": "Hacker News",
+      "url": "https://chinaonchina.com/article/chen-dawei-returns-enters-the-large-model-sector",
+      "title": "A dark horse enters China's AI race: StartLux",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "5f9a395b8fb7",
+    "slug": "ai-davridan-keyingi-internet-yaxshi-emas-5f9a39",
+    "title": "AI davridan keyingi internet yaxshi emas",
+    "summary": "Hacker News nashriga ko'ra, sun'iy intellekt davridan keyingi internetning holati yaxshi emas. Bu AI texnologiyalari ta'sirida internetdagi o'zgarishlarga ishora qiladi.",
+    "tags": [
+      "biznes",
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 14.8,
+    "published": "2026-09-02T19:41:01.000Z",
+    "created": "2026-09-03T15:39:18.094Z",
+    "coverage": 1,
+    "source": {
+      "name": "Hacker News",
+      "url": "https://jordangoodman.xyz/the-post-ai-internet-doesnt-look-great",
+      "title": "The Post-AI Internet Doesn't Look Great",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "547ff0fca3bc",
+    "slug": "ai-agentlari-va-amalga-oshmaydigan-refaktoring-547ff0",
+    "title": "AI agentlari va amalga oshmaydigan refaktoring",
+    "summary": "Hacker News nashrida AI agentlari bilan bog'liq muammolar muhokama qilindi. Xususan, agentlar ishtirokidagi refaktoring jarayonlari amalga oshmayotgani ta'kidlandi.",
+    "tags": [
+      "agentlar",
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 13.7,
+    "published": "2026-09-02T19:51:39.000Z",
+    "created": "2026-09-03T15:39:18.094Z",
+    "coverage": 1,
+    "source": {
+      "name": "Hacker News",
+      "url": "https://rosenfeld.page/articles/programming/2026_09_02_ai_agents_and_the_refactoring_that_never_happens",
+      "title": "AI Agents and the Refactoring That Never Happens",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "0fe437a1a120",
+    "slug": "model-sinovida-xarajatlar-17-barobar-farq-qilmoqda-0fe437",
+    "title": "Model sinovida xarajatlar 17 barobar farq qilmoqda",
+    "summary": "FrontierHarness Eval ma'lumotlariga ko'ra, bir xil modelni sinovdan o'tkazishda xarajatlar 9 ta turli tizimda 17 barobargacha farq qilishi mumkin. Bu AI modellarini baholashdagi narxlar o'zgaruvchanligini ko'rsatadi.",
+    "tags": [
+      "tadqiqot",
+      "iqtisod"
+    ],
+    "importance": 3,
+    "score": 13.5,
+    "published": "2026-09-02T16:14:52.000Z",
+    "created": "2026-09-03T15:39:18.094Z",
+    "coverage": 1,
+    "source": {
+      "name": "Hacker News",
+      "url": "https://frontierharness.org",
+      "title": "Show HN: FrontierHarness Eval – 9 harness, same model, cost per pass varies 17x",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "d56f5a2a8ea5",
     "slug": "htc-vive-eagle-aqlli-kozoynaklarini-chiqardi-d56f5a",
     "title": "HTC Vive Eagle aqlli ko'zoynaklarini chiqardi",
