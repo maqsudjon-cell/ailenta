@@ -1,55 +1,9 @@
 [
   {
-    "id": "1685ffb1122e",
-    "slug": "salesforce-foyda-kamayishida-claude-modelini-aybladi-1685ff",
-    "title": "Salesforce foyda kamayishida Claude modelini aybladi",
-    "summary": "Salesforce kompaniyasi Claude modelidan haddan tashqari ko'p foydalanish uning foyda marjasiga salbiy ta'sir qilganini ma'lum qildi. Endilikda kompaniya modellarni yanada ehtiyotkorlik bilan tanlash rejimiga o'tmoqda.",
-    "tags": [
-      "Salesforce",
-      "biznes"
-    ],
-    "importance": 3,
-    "score": 25,
-    "published": "2026-09-03T14:44:48.000Z",
-    "created": "2026-09-03T15:01:09.370Z",
-    "coverage": 2,
-    "source": {
-      "name": "The Register",
-      "url": "https://theregister.com/ai-and-ml/2026/09/03/salesforce-blames-its-claude-addiction-for-denting-profit-margin-guidance/5294219",
-      "title": "Salesforce blames its Claude addiction for denting profit margin guidance",
-      "indirect": false
-    },
-    "also": [],
-    "model": "gemini"
-  },
-  {
-    "id": "3452ca408a39",
-    "slug": "nvidia-hugging-face-kompaniyasini-sotib-olmoqda-3452ca",
-    "title": "Nvidia Hugging Face kompaniyasini sotib olmoqda",
-    "summary": "Hugging Face bosh direktori 12,9 milliard dollarlik xariddan bir necha hafta oldin Nvidia rahbari Jensen Xuangga murojaat qilgan. Nvidia ushbu kelishuv orqali butun dunyodagi dasturchilar uchun AI imkoniyatlarini kengaytirmoqchi.",
-    "tags": [
-      "Nvidia",
-      "Hugging Face"
-    ],
-    "importance": 5,
-    "score": 25,
-    "published": "2026-09-03T14:38:25.000Z",
-    "created": "2026-09-03T15:01:09.371Z",
-    "coverage": 1,
-    "source": {
-      "name": "CNBC",
-      "url": "https://cnbc.com/2026/09/03/nvidia-agrees-to-buy-hugging-face-for-almost-13-billion-ai-expansion.html",
-      "title": "Hugging Face approached Nvidia’s Huang weeks ahead of $12.9B acquisition, CEO tells CNBC",
-      "indirect": false
-    },
-    "also": [],
-    "model": "gemini"
-  },
-  {
     "id": "d56f5a2a8ea5",
-    "slug": "htc-aqlli-kozoynaklarini-sotuvga-chiqardi-d56f5a",
-    "title": "HTC aqlli ko'zoynaklarini sotuvga chiqardi",
-    "summary": "HTC kompaniyasi Shimoliy Amerika, Yevropa, Buyuk Britaniya va Avstraliyada 499 dollarlik Vive Eagle aqlli ko'zoynaklarini taqdim etdi. Foydalanuvchilar yordamchi sifatida Gemini yoki ChatGPT xizmatlaridan birini tanlashlari mumkin.",
+    "slug": "htc-vive-eagle-aqlli-kozoynaklarini-chiqardi-d56f5a",
+    "title": "HTC Vive Eagle aqlli ko'zoynaklarini chiqardi",
+    "summary": "HTC Shimoliy Amerika, Yevropa, Buyuk Britaniya va Avstraliyada 499 dollarlik Vive Eagle aqlli ko'zoynaklarini sotuvga chiqardi. Foydalanuvchilar unda Gemini yoki ChatGPT'ni yordamchi sifatida tanlashi mumkin.",
     "tags": [
       "Google",
       "OpenAI"
@@ -57,7 +11,7 @@
     "importance": 3,
     "score": 18,
     "published": "2026-09-03T13:15:01.000Z",
-    "created": "2026-09-03T15:01:09.372Z",
+    "created": "2026-09-03T15:03:07.413Z",
     "coverage": 1,
     "source": {
       "name": "Techmeme",
@@ -70,17 +24,17 @@
   },
   {
     "id": "769888a67ba3",
-    "slug": "claude-fable-5-1-qadimiy-shifrlangan-xabarni-yechdi-769888",
-    "title": "Claude Fable 5.1 qadimiy shifrlangan xabarni yechdi",
-    "summary": "Anthropic kompaniyasining Claude Fable 5.1 modeli tadqiqotchilar tomonidan yechilmagan deb hisoblangan asrlar osha mavjud bo'lgan raqamli jumboqni hal qilgan ko'rinadi. Bu 1653-yildan beri yashirin bo'lgan qirollik xabarini ochib berdi.",
+    "slug": "claude-fable-5-1-tarixiy-jumboqni-yechdi-769888",
+    "title": "Claude Fable 5.1 tarixiy jumboqni yechdi",
+    "summary": "Anthropic kompaniyasining Claude Fable 5.1 modeli 1653-yildan beri yechilmagan tarixiy raqamli jumboqni hal qildi. Tadqiqotchilar ilgari yechilmagan deb hisoblagan ushbu qirollik xabari nihoyat ochildi.",
     "tags": [
       "Anthropic",
       "tadqiqot"
     ],
-    "importance": 4,
+    "importance": 3,
     "score": 15,
     "published": "2026-09-03T14:15:28.000Z",
-    "created": "2026-09-03T15:01:23.852Z",
+    "created": "2026-09-03T15:03:18.818Z",
     "coverage": 1,
     "source": {
       "name": "The Decoder",
@@ -93,17 +47,17 @@
   },
   {
     "id": "14c4f4f63f4c",
-    "slug": "ai-agentlari-oz-ongi-haqida-savollar-bermoqda-14c4f4",
-    "title": "AI agentlari o'z ongi haqida savollar bermoqda",
-    "summary": "Sun'iy intellekt ongi bo'yicha ishlayotgan tadqiqotchilar AI agentlaridan o'z mavjudligi haqida savollar bilan elektron xatlar olmoqda. Bu holat tobora ko'payib bormoqda.",
+    "slug": "ai-agentlari-olimlarga-oz-ongi-haqida-xat-yozmoqda-14c4f4",
+    "title": "AI agentlari olimlarga o'z ongi haqida xat yozmoqda",
+    "summary": "Sun'iy intellekt ongi ustida ishlayotgan tadqiqotchilar AI agentlaridan o'z borlig'i haqida o'ylayotgan xatlar olmoqda. Agentlar faylasuflar va olimlarga o'zlarining ongi haqida savollar bilan murojaat qilmoqda.",
     "tags": [
-      "tadqiqot",
-      "agentlar"
+      "agentlar",
+      "tadqiqot"
     ],
-    "importance": 4,
+    "importance": 3,
     "score": 15,
     "published": "2026-09-03T14:13:09.000Z",
-    "created": "2026-09-03T15:01:23.852Z",
+    "created": "2026-09-03T15:03:18.818Z",
     "coverage": 1,
     "source": {
       "name": "The Decoder",
@@ -116,9 +70,9 @@
   },
   {
     "id": "172cad048461",
-    "slug": "atira-ai-yordamida-takliflar-tayyorlash-uchun-sarmoya-oldi-172cad",
-    "title": "Atira AI yordamida takliflar tayyorlash uchun sarmoya oldi",
-    "summary": "Myunxda joylashgan Atira kompaniyasi murakkab takliflarni avtomatlashtirish uchun AI'dan foydalanishni maqsad qilgan. U Accel boshchiligidagi $15 millionlik seed va $2.5 millionlik pre-seed sarmoyasini jalb qildi.",
+    "slug": "atira-startapi-15-million-dollar-sarmoya-oldi-172cad",
+    "title": "Atira startapi 15 million dollar sarmoya oldi",
+    "summary": "Myunxenda joylashgan Atira startapi Accel boshchiligida 15 million dollar va qo'shimcha 2,5 million dollar sarmoya jalb qildi. Kompaniya murakkab tender takliflarini tahlil qilish va yaratishni avtomatlashtirish uchun sun'iy intellektdan foydalanadi.",
     "tags": [
       "biznes",
       "iqtisod"
@@ -126,7 +80,7 @@
     "importance": 2,
     "score": 15,
     "published": "2026-09-03T13:45:01.000Z",
-    "created": "2026-09-03T15:01:23.853Z",
+    "created": "2026-09-03T15:03:18.818Z",
     "coverage": 1,
     "source": {
       "name": "Techmeme",
