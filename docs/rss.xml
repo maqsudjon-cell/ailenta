@@ -5,7 +5,7 @@
   <link>https://ailenta.uz</link>
   <description>Dunyodagi sun'iy intellekt yangiliklari o'zbek tilida. Har soatda yangilanadi, har bir xabarda asl manbaga havola.</description>
   <language>uz</language>
-  <lastBuildDate>Thu, 03 Sep 2026 06:04:24 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 03 Sep 2026 06:07:09 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/rss.xml" rel="self" type="application/rss+xml"/>
   <item>
     <title>Xalqaro yuridik firmalar o'z AI vositalarini yaratmoqda</title>
@@ -14,6 +14,14 @@
     <pubDate>Thu, 03 Sep 2026 05:55:02 GMT</pubDate>
     <description>Bir qancha xalqaro yuridik firmalar raqobatda ustunlikka erishish va intellektual mulkini himoya qilish uchun maxsus AI vositalarini yaratishga intilmoqda. Ular kundalik vazifalar uchun tayyor AI yechimlaridan foydalanmoqda.</description>
     <category>biznes</category><category>agentlar</category>
+  </item>
+  <item>
+    <title>GitSpawn nuqsoni Claude Code va boshqalarda kod bajarishga imkon beradi</title>
+    <link>https://ailenta.uz/x/gitspawn-nuqsoni-claude-code-va-boshqalarda-kod-bajarishga-i-fcd38c/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/gitspawn-nuqsoni-claude-code-va-boshqalarda-kod-bajarishga-i-fcd38c/</guid>
+    <pubDate>Thu, 03 Sep 2026 05:35:00 GMT</pubDate>
+    <description>GitSpawn nuqsoni Claude Code, Codex, Cursor va Grok tizimlarida ixtiyoriy kod bajarish imkonini beradi. Bu xavfsizlik zaifligi aniqlangan.</description>
+    <category>xavfsizlik</category><category>Anthropic</category>
   </item>
   <item>
     <title>Google AI modellari yordamida o'sishni boshladi</title>
@@ -398,14 +406,6 @@
     <pubDate>Wed, 02 Sep 2026 16:25:00 GMT</pubDate>
     <description>Huskeys kompaniyasi AI yordamida kompaniyalarni AI hujumlaridan himoya qiladi. U Blackstone Innovations Investments boshchiligidagi A seriyali raundda 27 million dollar sarmoya jalb qildi.</description>
     <category>biznes</category><category>xavfsizlik</category>
-  </item>
-  <item>
-    <title>Uorren Baffet AI sabab Alphabet aksiyalariga sarmoya kiritdi</title>
-    <link>https://ailenta.uz/x/uorren-baffet-ai-sabab-alphabet-aksiyalariga-sarmoya-kiritdi-3df3b8/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/uorren-baffet-ai-sabab-alphabet-aksiyalariga-sarmoya-kiritdi-3df3b8/</guid>
-    <pubDate>Wed, 02 Sep 2026 16:21:05 GMT</pubDate>
-    <description>Berkshire Hathaway rahbarining vorisi Greg Abel teleintervyuda Uorren Baffetning sun'iy intellektga pul tikib, Alphabet kompaniyasiga yirik sarmoya kiritganini bildirdi. Shuningdek, u Baffetning bosh direktorlikdan keyingi faoliyati haqida ham to'xtalib o'tdi.</description>
-    <category>Google</category><category>biznes</category>
   </item>
 </channel>
 </rss>

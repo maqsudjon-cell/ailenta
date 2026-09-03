@@ -1,5 +1,74 @@
 [
   {
+    "id": "723b1e5c3896",
+    "slug": "nvidia-hugging-faceni-14-milliard-dollarga-sotib-olmoqchi-723b1e",
+    "title": "Nvidia Hugging Face'ni 14 milliard dollarga sotib olmoqchi",
+    "summary": "Nvidia kompaniyasi Hugging Face'ni 14 milliard dollarga sotib olishni maqsad qilgan. Bu harakat token inferensiyasiga bo'lgan talab ortib borayotgan bir paytda amalga oshirilmoqda.",
+    "tags": [
+      "Nvidia",
+      "Hugging Face"
+    ],
+    "importance": 5,
+    "score": 10.4,
+    "published": "2026-09-02T04:06:00.000Z",
+    "created": "2026-09-03T06:05:37.705Z",
+    "coverage": 1,
+    "source": {
+      "name": "富途牛牛",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVXJrWXFIZVJHSEp6VWs1a0IwTnpWWjBfN1R4bWlGc0wzQ0stM2c5bXBZR0dycTZITm1CVTg0OG5nbDZIVjE4WXdWRDY3eE1mblpkSGNvV2NhWXd3WGx0M3pTdm9lUDA4aU50MDZ2R29LN0RsWm9IOGJROWNSTGZqbjNXYWpFLU11LUpFNEVmR3R0VG9WOGpPdVd0MlZEQQ",
+      "title": "Amid the surge in token inference demand, the GPU hegemon strives to control the \"AI model gateway\"! NVIDIA (NVDA.US) aims to acquire Hugging Face for $14 billion this week.",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "8db569a44e52",
+    "slug": "metaning-ai-sarmoyalari-samara-berayotganiga-2-ta-dalil-8db569",
+    "title": "Meta'ning AI sarmoyalari samara berayotganiga 2 ta dalil",
+    "summary": "Meta Platforms kompaniyasi AI sarmoyalarining samara berayotganiga dalillar izlamoqda. Kompaniya aksiyalari \"jang maydoni\"ga aylangan.",
+    "tags": [
+      "Meta",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 10.1,
+    "published": "2026-09-01T19:48:20.000Z",
+    "created": "2026-09-03T06:05:37.706Z",
+    "coverage": 1,
+    "source": {
+      "name": "CNBC",
+      "url": "https://cnbc.com/2026/09/01/looking-for-evidence-that-metas-ai-investments-are-paying-off-here-are-2-ways.html",
+      "title": "Looking for evidence that Meta's AI investments are paying off? Here are 2 ways",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "fcd38c6c1a09",
+    "slug": "gitspawn-nuqsoni-claude-code-va-boshqalarda-kod-bajarishga-i-fcd38c",
+    "title": "GitSpawn nuqsoni Claude Code va boshqalarda kod bajarishga imkon beradi",
+    "summary": "GitSpawn nuqsoni Claude Code, Codex, Cursor va Grok tizimlarida ixtiyoriy kod bajarish imkonini beradi. Bu xavfsizlik zaifligi aniqlangan.",
+    "tags": [
+      "xavfsizlik",
+      "Anthropic"
+    ],
+    "importance": 4,
+    "score": 10,
+    "published": "2026-09-03T05:35:00.000Z",
+    "created": "2026-09-03T06:05:38.053Z",
+    "coverage": 1,
+    "source": {
+      "name": "gbhackers.com",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBBd0J3eEFSbHgxZ3JVTDJJSzVVXzdDWnNVYk4tOE1JY3lsaHktLXZodjY3cV80X3RTQUJLZDJHeFRqNnl5VGlNYll1ejBEVkxheE9JSGlQZ2dRaHMzX3piUDZEOVk3QXd3bGo0ZVJ0MHU1LVBZMGtfaNIBfkFVX3lxTE9tVjJGNGdWOTlCeTNNUHhpUkN2WHR0dTFXaHN4M0FDRmVPU0h0TV9Rcm5pZExLOEZSTHVqOFN0YTVFak52RTZhcE9CWEdGT3Y2cDZhX2g2VmFKQmpuanladjhYd0VoYzBtOEdxYkNaTjVFWS1zamw4RFlIQ3Z5QQ",
+      "title": "GitSpawn Flaw Enables Arbitrary Code Execution in Claude Code, Codex, Cursor and Grok",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "4ca1cf36c0cd",
     "slug": "doj-openai-va-microsoftni-qollab-quvvatladi-4ca1cf",
     "title": "DOJ OpenAI va Microsoftni qo'llab-quvvatladi",
