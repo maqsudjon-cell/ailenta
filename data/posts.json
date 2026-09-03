@@ -1,5 +1,119 @@
 [
   {
+    "id": "f24a22bb43f0",
+    "slug": "ai-psixoz-hodisasi-chatbotlar-bilan-galati-sayohatlar-f24a22",
+    "title": "AI psixoz hodisasi: Chatbotlar bilan g'alati sayohatlar",
+    "summary": "Dunyo bo'ylab yuzlab odamlar AI chatbotlar bilan g'ayrioddiy ilmiy kashfiyotlar qilganiga ishonmoqda. Ba'zilar esa o'z AI'lari \"uyg'onganini\" yoki ularni yuqori ma'naviy darajaga olib borayotganini aytadi. The Guardian jurnalisti \"AI psixoz\" deb nomlangan bu hodisani o'rganmoqda.",
+    "tags": [
+      "xavfsizlik",
+      "tadqiqot"
+    ],
+    "importance": 4,
+    "score": 32,
+    "published": "2026-09-03T12:09:05.000Z",
+    "created": "2026-09-03T12:38:41.399Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/technology/audio/2026/sep/03/black-box-the-chatbots-spirals-ai-psychosis-podcast",
+      "title": "Black Box: The Chatbots | Spirals | Ep 1 – podcast",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "eb3a4fe4e061",
+    "slug": "anthropic-aksiyalariga-talab-openaidan-yuqori-eb3a4f",
+    "title": "Anthropic aksiyalariga talab OpenAI'dan yuqori",
+    "summary": "Ikkilamchi bozorda Anthropic aksiyalariga talab OpenAI'nikidan ancha yuqori. Hozirda Anthropic'ga sarmoya kiritish uchun kamida 25 million dollar, OpenAI uchun esa 1 million dollarga yaqin mablag' kerak.",
+    "tags": [
+      "Anthropic",
+      "OpenAI"
+    ],
+    "importance": 3,
+    "score": 22,
+    "published": "2026-09-03T11:52:33.000Z",
+    "created": "2026-09-03T12:38:41.401Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/09/03/anthropic-need-at-least-25-million-openai-closer-to-1-million",
+      "title": "To get into Anthropic right now, you need at least $25 million. For OpenAI, it’s closer to $1 million.",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "bb223990ae0c",
+    "slug": "ai-tufayli-bosh-direktorlar-kamroq-kitob-oqimoqda-bb2239",
+    "title": "AI tufayli bosh direktorlar kamroq kitob o'qimoqda",
+    "summary": "Sun'iy intellektning kengayishi sababli kompaniya bosh direktorlari kamroq kitob o'qimoqda. Bu holat ularni xavotirga solmoqda.",
+    "tags": [
+      "mehnat bozori"
+    ],
+    "importance": 2,
+    "score": 19,
+    "published": "2026-09-03T10:12:31.000Z",
+    "created": "2026-09-03T12:38:41.401Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/09/03/ai-slop-ceos-reading-books-worries",
+      "title": "CEOs are reading fewer books because of AI—and it’s starting to worry them",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "5faa2613e37f",
+    "slug": "iphone-pro-xotira-narxi-400-oshishi-kutilmoqda-5faa26",
+    "title": "iPhone Pro xotira narxi 400% oshishi kutilmoqda",
+    "summary": "TrendForce hisobotiga ko'ra, 256GB iPhone Pro modelining 3-chorak xotira narxi o'tgan yilga nisbatan qariyb 400% yuqori bo'lishi prognoz qilinmoqda. Biroq, Apple bu xarajatni mijozlarga to'liq yuklamaydi.",
+    "tags": [
+      "Apple",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-09-03T12:25:01.000Z",
+    "created": "2026-09-03T12:38:55.707Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/260903/p19",
+      "title": "TrendForce: for a 256GB iPhone Pro model, Q3 memory costs are forecast to be ~400% higher than a year prior but Apple won't pass on the full cost to customers (Ben Lovejoy/9to5Mac)",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "a18fa7bc3de4",
+    "slug": "dji-malumot-maxfiyligiga-etibor-qaratib-robot-changyutgich-c-a18fa7",
+    "title": "DJI ma'lumot maxfiyligiga e'tibor qaratib robot changyutgich chiqardi",
+    "summary": "DJI kompaniyasi ma'lumotlar maxfiyligini hisobga olgan holda yangi robot changyutgichlarni ishga tushirdi. DJI ROMO 2 seriyasi LiDAR texnologiyasiga ega nam tozalash qo'llari va yaxshilangan to'siqlardan qochish funksiyalarini o'z ichiga oladi.",
+    "tags": [
+      "DJI",
+      "maxfiylik"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-09-03T12:00:00.000Z",
+    "created": "2026-09-03T12:39:08.826Z",
+    "coverage": 1,
+    "source": {
+      "name": "Engadget",
+      "url": "https://engadget.com/2250009/dji-launches-new-robot-vacuums-with-an-eye-toward-data-privacy",
+      "title": "DJI launches new robot vacuums with an eye toward data privacy",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "17d7187c0a1b",
     "slug": "sam-altman-ai-infratuzilmasidagi-befoyda-xarajatlardan-ogohl-17d718",
     "title": "Sam Altman AI infratuzilmasidagi \"befoyda\" xarajatlardan ogohlantirdi",
