@@ -128,7 +128,16 @@ async function main() {
   for (const { file, url } of pages) {
     const html = await readFile(file, "utf8");
     if ((html.match(/<meta name="robots" content="([^"]*)"/) || [])[1]?.includes("noindex")) continue;
-    if (!sitemapPaths.has(url)) add("eslatma", url, "sitemapda yo'q");
+    // Xabar sahifasi HAR DOIM sitemapda bo'lishi kerak. U yerda bo'lmasa
+    // demak sahifa bor, lekin posts.json da yo'q — ya'ni xabar ma'lumotdan
+    // yo'qolgan va keyingi qurilishda sahifa ham o'chib ketadi. Bu eslatma
+    // emas, nosozlik. (Bir marta sodir bo'lgan: ikkita yugurish rebase'da
+    // to'qnashib, posts.json bir yugurishnikiga, sahifa boshqasinikiga
+    // o'tib qolgan.)
+    if (!sitemapPaths.has(url)) {
+      add(url.startsWith("/x/") ? "xato" : "eslatma", url,
+        url.startsWith("/x/") ? "sitemapda yo'q — sahifa bor, lekin posts.json da yo'q" : "sitemapda yo'q");
+    }
   }
 
   // --- 404 sahifasi ---

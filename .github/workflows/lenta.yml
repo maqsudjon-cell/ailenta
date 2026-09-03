@@ -102,6 +102,17 @@ jobs:
             fi
             echo "Push rad etildi — asosni yangilab qayta urinamiz ($i/3)."
             git pull --rebase -X theirs origin main || git rebase --abort
+            # Rebase data/ va docs/ ni ALOHIDA hal qiladi va ular bir-biriga
+            # mos kelmay qolishi mumkin: posts.json shu yugurishnikiga
+            # o'tadi, boshqa yugurish yaratgan sahifa esa nizosiz yangi fayl
+            # bo'lgani uchun saqlanib qoladi. Natijada sahifasi bor, lekin
+            # ro'yxatda yo'q xabarlar paydo bo'ladi (o'lchandi: 03:01 va
+            # 03:03 yugurishlari, bitta xabar yo'qolgan).
+            # Shuning uchun push'dan oldin docs/ ni yakuniy posts.json dan
+            # qayta hosil qilamiz.
+            node src/build.mjs
+            git add data docs
+            git diff --staged --quiet || git commit --amend --no-edit
             sleep 5
           done
           echo "Uch urinishdan keyin ham push o'tmadi."
