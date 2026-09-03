@@ -1,5 +1,72 @@
 [
   {
+    "id": "eec006df3386",
+    "slug": "obsidian-uchun-tome-reader-plaginida-ai-yordamchisi-eec006",
+    "title": "Obsidian uchun Tome Reader plaginida AI yordamchisi",
+    "summary": "Obsidian uchun yangi Tome Reader plaginida EPUB kitob o'qish imkoniyati mavjud. Unda foydalanuvchi o'z kalitini qo'shishi mumkin bo'lgan ixtiyoriy AI yordamchisi ham bor.",
+    "tags": [
+      "agentlar"
+    ],
+    "importance": 2,
+    "score": 11,
+    "published": "2026-09-02T18:00:55.000Z",
+    "created": "2026-09-03T05:12:06.378Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1077802",
+      "title": "Tome Reader, своя читалка для Obsidian",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "94ab06e506a5",
+    "slug": "kiberxavfsizlik-yangiliklari-agregatori-qanday-yaratildi-94ab06",
+    "title": "Kiberxavfsizlik yangiliklari agregatori qanday yaratildi",
+    "summary": "Kiberxavfsizlik yangiliklari agregatorini yaratish jarayoni tasvirlangan. Dastlabki versiya rut5_base_sum_gazeta modelidan foydalangan, keyinchalik LLMlar imkoniyatlari muhokama qilingan.",
+    "tags": [
+      "xavfsizlik",
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 10.7,
+    "published": "2026-09-02T16:30:49.000Z",
+    "created": "2026-09-03T05:12:06.380Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1076014",
+      "title": "Как создавался агрегатор ИБ‑новостей: склейка сюжетов, семь признаков важности и порог по данным",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "cb60adddbafc",
+    "slug": "nutq-sifatini-yaxshilashda-moe-arxitekturasi-tajribasi-cb60ad",
+    "title": "Nutq sifatini yaxshilashda MoE arxitekturasi tajribasi",
+    "summary": "Talabalar nutq sifatini yaxshilash (Speech Enhancement) bo'yicha tajribalarini bo'lishdi. Ular turli shovqin turlarini qayta ishlash uchun sparse Mixture of Experts (MoE) arxitekturasini qo'llashgan.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 10.5,
+    "published": "2026-09-02T16:00:04.000Z",
+    "created": "2026-09-03T05:12:06.381Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/companies/vk/articles/1077722",
+      "title": "Меньше шума, больше смысла: опыт SESAME для Speech Enhancement",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "5a77c4a1f64b",
     "slug": "meta-muse-spark-1-3-ai-indeksida-62-ball-oldi-5a77c4",
     "title": "Meta Muse Spark 1.3 AI indeksida 62 ball oldi",
