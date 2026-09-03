@@ -1,5 +1,51 @@
 [
   {
+    "id": "b1b384da1978",
+    "slug": "moonshot-gonkongda-ipo-otkazish-uchun-ariza-berdi-b1b384",
+    "title": "Moonshot Gonkongda IPO o'tkazish uchun ariza berdi",
+    "summary": "Xitoyning Moonshot AI startapi Gonkongda IPO o'tkazish uchun maxfiy ravishda ariza topshirdi. Kompaniya IPO oldidan 50 milliard dollar qiymatida investitsiya jalb qilish bo'yicha muzokaralar olib bormoqda.",
+    "tags": [
+      "biznes",
+      "iqtisod"
+    ],
+    "importance": 4,
+    "score": 18,
+    "published": "2026-09-03T03:10:02.000Z",
+    "created": "2026-09-03T04:01:02.254Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/260902/p50",
+      "title": "China-based Moonshot filed confidentially for a Hong Kong IPO; source: the company is in talks to raise a pre-IPO funding round at a $50B valuation (Juro Osawa/The Information)",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "cd80b9107bb4",
+    "slug": "meta-ai-kozoynaklariga-maxfiylik-himoyasini-qoshdi-cd80b9",
+    "title": "Meta AI ko'zoynaklariga maxfiylik himoyasini qo'shdi",
+    "summary": "Meta kompaniyasi sun'iy intellektga ega ko'zoynaklariga maxfiylikni ta'minlovchi qo'shimcha himoya choralarini joriy qildi. Bu harakat maxfiylik bilan bog'liq xavotirlar ortidan amalga oshirildi.",
+    "tags": [
+      "Meta",
+      "maxfiylik"
+    ],
+    "importance": 3,
+    "score": 13,
+    "published": "2026-09-03T03:14:22.000Z",
+    "created": "2026-09-03T04:01:18.891Z",
+    "coverage": 2,
+    "source": {
+      "name": "Deccan Chronicle",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObHViaHFOUkpLd3R3NzVLbjJ6ZUt3SlUwTU5QcHphaXdob1Jxakp5UjJBSDF6LXZvSWFacW1ib0IzWFB0dFpNM0ZFVGg5Ym4zdDV6S2kxSkdYWnV4N091Z0szM3k3NVRFNnRvdHIwbkNrODNuOXFMN01Fcm4tRVJiNlBjelJ6OUI3ZGNjZDh1SnRUTUhuQmhYQWh5SmRZT2VjQnFRb1loTDlCSEJFaktiN1FwNDRjQWw5Y3YwRdIBwgFBVV95cUxOVHJxUVkxRG16OFlRZ1RsTUowYjJhUTc1M2t0c2JJMFE4UjFxSHd2NGZSWnZKd1JTeVRXS25kWjNkWHpxZlNHOU82SUJjMU1hWXNvSzVfcFVxeFZVUGtUZFZ0NWtzWGZBN1pnTnhmMGc2Q1hmdFBJZEh0ZHV4SkRRMEp5RUlUV0ZyR3BPZ2NfZTF5VXJZVU80UWdpMTR2bHdKRlpBZXlkQXhFME41a3BDejhVdGdJTC1pY2VXY0NSV0E0dw",
+      "title": "Meta Adds Guardrails to AI Glasses Amid Privacy Concerns",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "58140a51e575",
     "slug": "broadcom-kelgusi-ikki-yilda-ai-chip-sotuvi-osishini-kutmoqda-58140a",
     "title": "Broadcom kelgusi ikki yilda AI chip sotuvi o'sishini kutmoqda",
