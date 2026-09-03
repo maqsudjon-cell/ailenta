@@ -1,5 +1,74 @@
 [
   {
+    "id": "0c2866f13c26",
+    "slug": "meta-xodimlarni-yangi-ai-agentini-sinashga-undamoqda-0c2866",
+    "title": "Meta xodimlarni yangi AI agentini sinashga undamoqda",
+    "summary": "Meta kompaniyasi o'z xodimlariga sun'iy intellekt vositalaridan foydalanish bo'yicha bosimni kamaytirdi. Shu bilan birga, kompaniya ularni Hatch deb nomlangan o'zining eng ilg'or AI loyihasini sinab ko'rishga undamoqda.",
+    "tags": [
+      "Meta",
+      "agentlar"
+    ],
+    "importance": 3,
+    "score": 29,
+    "published": "2026-09-03T01:32:02.000Z",
+    "created": "2026-09-03T02:01:02.219Z",
+    "coverage": 1,
+    "source": {
+      "name": "Wired",
+      "url": "https://wired.com/story/meta-pushes-its-new-ai-agent-on-employees-but-eases-off-on-tokenmaxxing",
+      "title": "Meta Pushes Its New AI Agent on Employees—but Eases Off on Tokenmaxxing",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "dfe19370467b",
+    "slug": "openai-ozining-astra-modelini-eng-xavfli-deb-atadi-dfe193",
+    "title": "OpenAI o'zining Astra modelini eng xavfli deb atadi",
+    "summary": "OpenAI o'zining bo'lajak Astra modelini kiberimkoniyatlarga ega birinchi tizim deb baholadi. Kompaniya uni fikrlash zanjirini kuzatish orqali nazorat qilmoqchi, biroq yangi arxitektura tufayli buni amalga oshirish qiyinlashishi mumkin.",
+    "tags": [
+      "OpenAI",
+      "xavfsizlik"
+    ],
+    "importance": 4,
+    "score": 18,
+    "published": "2026-09-02T14:20:28.000Z",
+    "created": "2026-09-03T02:01:02.221Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/openai-calls-astra-its-most-dangerous-model-yet-watching-what-it-does-is-only-getting-harder",
+      "title": "OpenAI calls Astra its most dangerous model yet - watching what it does is only getting harder",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "162de5fdbda4",
+    "slug": "claude-ai-wago-plc-uchun-rce-eksploytini-yaratdi-162de5",
+    "title": "Claude AI WAGO PLC uchun RCE eksploytini yaratdi",
+    "summary": "Claude AI WAGO PLC qurilmasi uchun oldindan avtorizatsiyasiz masofaviy kod bajarish (RCE) eksploytini yaratdi. Bu ARM shellcode'ni hech qanday hisobga olish ma'lumotlarisiz ishga tushirish imkonini beradi.",
+    "tags": [
+      "Anthropic",
+      "xavfsizlik"
+    ],
+    "importance": 4,
+    "score": 15.5,
+    "published": "2026-09-02T12:48:44.000Z",
+    "created": "2026-09-03T02:01:24.860Z",
+    "coverage": 2,
+    "source": {
+      "name": "CyberSecurityNews",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE10SHJWX0l5V2NySDR1OGNBdGtIdEM5MWMyOUVUNGg5T29aeUN0N1JfenFLb25WS2FOQmlYTkd0X2lTUHFtWVhUOFBKaHluSXdWaXU4UzBUSExmdzFJRGNTWld5UEl2c0ttNVNrOHVrdHhKMjZGaGhB0gF8QVVfeXFMUHJOS3FwbzFHcG9CdTlyMFFUTWlGT1M3UjBIUUlmYlAtci0tVmtZUmktOHhHTG9yd19OWV9PWmVNLWZZaWtOVG40dy16ZjFWRzAwS0poRFZSRF9hdC0wQzRQdnpCLW8xYlNzMDgzbjBud2RwWVlEa0Z3dkczUg",
+      "title": "Claude AI Builds Pre-Auth RCE Exploit for WAGO PLC to Execute ARM Shellcode Without Credentials",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "4f5cb1e3be05",
     "slug": "hiddenlayer-ai-xavfsizligi-uchun-100-mln-dollar-oldi-4f5cb1",
     "title": "HiddenLayer AI xavfsizligi uchun 100 mln dollar oldi",
