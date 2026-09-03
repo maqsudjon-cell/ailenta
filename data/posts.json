@@ -1,9 +1,9 @@
 [
   {
     "id": "a4152028c58c",
-    "slug": "humain-minimax-bilan-arab-tilidagi-ai-modelini-chiqardi-a41520",
-    "title": "Humain MiniMax bilan arab tilidagi AI modelini chiqardi",
-    "summary": "Saudiya Arabistonining Humain kompaniyasi MiniMax bilan hamkorlikda humain-m3 nomli arab tilidagi AI modelini ishga tushirdi. Bu model Xitoy laboratoriyasining ochiq modeliga asoslangan.",
+    "slug": "humain-minimax-bilan-arab-tilidagi-modelni-ishga-tushirdi-a41520",
+    "title": "Humain MiniMax bilan arab tilidagi modelni ishga tushirdi",
+    "summary": "Saudiya Arabistonining Humain kompaniyasi MiniMax bilan hamkorlikda humain-m3 nomli arab tilidagi AI modelini taqdim etdi. Bu model Xitoy modellariga asoslangan suveren AI bo'yicha bahslar fonida chiqarildi.",
     "tags": [
       "Humain",
       "ochiq model"
@@ -11,7 +11,7 @@
     "importance": 3,
     "score": 21,
     "published": "2026-09-03T17:30:00.000Z",
-    "created": "2026-09-03T18:01:12.672Z",
+    "created": "2026-09-03T18:03:39.865Z",
     "coverage": 1,
     "source": {
       "name": "Techmeme",
@@ -24,21 +24,68 @@
   },
   {
     "id": "572ac5877866",
-    "slug": "thinking-machines-lab-1-milliard-dollar-jalb-qilmoqchi-572ac5",
-    "title": "Thinking Machines Lab 1 milliard dollar jalb qilmoqchi",
-    "summary": "OpenAI sobiq texnik direktori Mira Murati boshchiligidagi Thinking Machines Lab kamida 1 milliard dollar investitsiya jalb qilish bo'yicha muzokaralar olib bormoqda. Kompaniya 40 milliard dollardan ortiqqa baholanmoqda. Bu ko'rsatkich o'tgan yilgi 50 milliard dollarlik kutilmadan pastroq.",
+    "slug": "mira-murati-labi-40-mlrd-dollardan-ortiq-baholanmoqda-572ac5",
+    "title": "Mira Murati labi 40 mlrd dollardan ortiq baholanmoqda",
+    "summary": "Sobiq OpenAI texnologiya direktori Mira Murati boshchiligidagi Thinking Machines Lab 1 milliard dollardan ortiq sarmoya jalb qilish bo'yicha muzokaralar olib bormoqda. Kompaniya 40 milliard dollardan ortiq baholanmoqda, bu o'tgan yilgi 50 milliard dollardan past.",
     "tags": [
+      "Thinking Machines Lab",
       "biznes"
     ],
     "importance": 4,
     "score": 18,
     "published": "2026-09-03T17:53:02.000Z",
-    "created": "2026-09-03T18:01:22.106Z",
+    "created": "2026-09-03T18:04:03.995Z",
     "coverage": 1,
     "source": {
       "name": "Techmeme",
       "url": "https://techmeme.com/260903/p32",
       "title": "Sources: Mira Murati's Thinking Machines Lab is in talks to raise $1B+ at a $40B+ pre-money valuation, lower than the $50B+ valuation it sought last year (The Information)",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "2877763b3f10",
+    "slug": "anthropic-ai-poygasida-galaba-uchun-markazlar-qurishni-tavsi-287776",
+    "title": "Anthropic AI poygasida g'alaba uchun markazlar qurishni tavsiya qildi",
+    "summary": "Anthropic kompaniyasi sun'iy intellekt poygasida g'alaba qozonish uchun ma'lumot markazlari qurish muhimligini ta'kidladi. Bu AI infratuzilmasini rivojlantirishga qaratilgan chaqiriqdir.",
+    "tags": [
+      "Anthropic",
+      "bulut"
+    ],
+    "importance": 3,
+    "score": 16,
+    "published": "2026-09-03T11:58:20.000Z",
+    "created": "2026-09-03T18:04:11.411Z",
+    "coverage": 2,
+    "source": {
+      "name": "ETHRWorld.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNldreXJXOUZTdnpYN2kzajVCYnZ6QjBaQmg3UHF6bUNGMkJRNXJfVlkxZXZlMEUwRk1KZmszSEZLaHY5U2pqTTdiOTFwMVBhLWJZQkQ5YjJkMFJWallhVXpUUHVneWNHVGF0VDg4MWswMlNQbGZaLTJUOFo4Z0NUYUVsQXZERXBEcDFZakptczVJTl9jUkpPeDhLeUlHSGFPWVgwTEZXLW1LaGvSAbABQVVfeXFMUExKNTdjN2F3WVJ5MU1JYU96RTRySkF4azFzOUJuMTMyMFV2TmliaFppZGZNY3FTeFhoSjRTejVhSVZ6M1VGTkU4Mk52WDJPRDFtRzluVFJlbkZldUJpRVNENTZkeTl1Y0xhNW1YR2NJenNaZnUtSGRtMGpfYWE3anBhT19TRXc4VktzQ3RoVzZuekJ2SlVhNmd3SlZwUzF1Y0ZrbzJkMV9hN1FjOHlzaVU",
+      "title": "Build data centres to win AI race: Anthropic",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "8c530b68987b",
+    "slug": "eng-arzon-gpu-bulut-xizmatlari-taqdim-etildi-8c530b",
+    "title": "Eng arzon GPU bulut xizmatlari taqdim etildi",
+    "summary": "Hacker News'da H100 GPU'lari soatiga 2,04 dollardan, H200 GPU'lari esa soatiga 3 dollardan taklif etilayotgan eng arzon bulut xizmatlari namoyish etildi. Bu AI ish yuklamalari uchun arzon yechim.",
+    "tags": [
+      "bulut",
+      "chiplar"
+    ],
+    "importance": 2,
+    "score": 15.4,
+    "published": "2026-09-03T02:50:47.000Z",
+    "created": "2026-09-03T18:04:11.412Z",
+    "coverage": 1,
+    "source": {
+      "name": "Hacker News",
+      "url": "https://compute.cheap",
+      "title": "Show HN: The cheapest GPU cloud – H100s at $2.04/HR, H200s at $3/HR",
       "indirect": false
     },
     "also": [],
