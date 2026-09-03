@@ -1,5 +1,28 @@
 [
   {
+    "id": "21d0b9aaa470",
+    "slug": "crusoe-va-jane-street-13-mlrd-dollarlik-kelishuv-tuzdi-21d0b9",
+    "title": "Crusoe va Jane Street 13 mlrd dollarlik kelishuv tuzdi",
+    "summary": "Bloomberg manbalariga ko'ra, Crusoe kompaniyasi Jane Street bilan besh yillik shartnoma imzoladi. Kelishuv doirasida Crusoe bulutli platformasi orqali AI modellarini o'qitish va ishlatish uchun GPU hamda boshqa infratuzilmalarni yetkazib beradi. Shartnoma qiymati taxminan 13 milliard dollarni tashkil etadi.",
+    "tags": [
+      "biznes",
+      "bulut"
+    ],
+    "importance": 4,
+    "score": 24,
+    "published": "2026-09-03T20:25:00.000Z",
+    "created": "2026-09-03T21:01:15.642Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/260903/p41",
+      "title": "Sources: Crusoe signed a ~$13B, five-year deal with Jane Street to provide GPUs and other infrastructure for AI training and inference via its cloud platform (Bloomberg)",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "9337d92037bd",
     "slug": "openai-yangi-astra-modeli-bilan-agi-davri-kelganini-aytdi-9337d9",
     "title": "OpenAI yangi Astra modeli bilan AGI davri kelganini aytdi",
