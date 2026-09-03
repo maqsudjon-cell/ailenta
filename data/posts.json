@@ -1,5 +1,165 @@
 [
   {
+    "id": "8bd06e9d727a",
+    "slug": "bill-simmons-chatgptdan-foydalangani-uchun-tanqid-qilindi-8bd06e",
+    "title": "Bill Simmons ChatGPT'dan foydalangani uchun tanqid qilindi",
+    "summary": "The Ringer va Grantland asoschisi Bill Simmons ChatGPT texnologiyasini targ‘ib qilgani uchun tanqidga uchradi. Ekspertlar buni ijodiy sohalarga zarar yetkazuvchi harakat deb baholamoqda. Simmons ilgari yozuvchilarni kashf etishi bilan tanilgan edi.",
+    "tags": [
+      "OpenAI",
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 26,
+    "published": "2026-09-03T10:00:51.000Z",
+    "created": "2026-09-03T11:01:24.554Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/sport/2026/sep/03/bill-simmons-ai-ads-podcast-ringer",
+      "title": "Bill Simmons’s embrace of ChatGPT is a breach of his website’s creative spirit",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "13cea335cd30",
+    "slug": "ekspertlar-ai-bioterrorizm-xavfidan-ogohlantirdi-13cea3",
+    "title": "Ekspertlar AI bioterrorizm xavfidan ogohlantirdi",
+    "summary": "Google DeepMind tadqiqotchisi sun'iy intellekt vaksina yaratishda foydalanadigan ma'lumotlar biologik qurol ishlab chiqishda ham qo'llanishi mumkinligidan ogohlantirdi. Bu haqda Financial Times nashri xabar berdi.",
+    "tags": [
+      "Google",
+      "xavfsizlik"
+    ],
+    "importance": 4,
+    "score": 22,
+    "published": "2026-09-03T10:50:25.000Z",
+    "created": "2026-09-03T11:01:24.556Z",
+    "coverage": 1,
+    "source": {
+      "name": "Semafor",
+      "url": "https://semafor.com/article/09/03/2026/experts-warn-of-threats-of-ai-bioterrorism",
+      "title": "Experts warn of threats of AI bioterrorism",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "ec684586b6e1",
+    "slug": "ai-kompaniyalari-qoriqchilari-ish-tashlashga-tayyorlanmoqda-ec6845",
+    "title": "AI kompaniyalari qo'riqchilari ish tashlashga tayyorlanmoqda",
+    "summary": "OpenAI, Anthropic, Google va Meta kabi texnologiya kompaniyalarining 14 ming nafar xavfsizlik xodimlarini birlashtirgan kasaba uyushmasi ish tashlash o'tkazishga ruxsat berdi. Bu Kaliforniyadagi ofislar faoliyatiga ta'sir qilishi mumkin.",
+    "tags": [
+      "OpenAI",
+      "mehnat bozori"
+    ],
+    "importance": 3,
+    "score": 21,
+    "published": "2026-09-03T10:22:09.000Z",
+    "created": "2026-09-03T11:01:24.556Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/security-workers-union-strike-silicon-valley-offices-openai-anthropic-google-2026-9",
+      "title": "Office security workers for OpenAI, Anthropic, and other tech firms authorize a strike",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "c5852046fda4",
+    "slug": "gemini-maslahatiga-ishongan-alpinistlar-qutqarildi-c58520",
+    "title": "Gemini maslahatiga ishongan alpinistlar qutqarildi",
+    "summary": "Google'ning Gemini modeli alpinistlar guruhiga Shasta tog'iga ko'tarilish uchun sakkiz soat yetarli bo'lishini aytgan. Natijada, adashib qolgan alpinistlar bir kundan keyin qutqarib olindi.",
+    "tags": [
+      "Google",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 18,
+    "published": "2026-09-03T10:20:00.000Z",
+    "created": "2026-09-03T11:01:24.556Z",
+    "coverage": 1,
+    "source": {
+      "name": "Engadget",
+      "url": "https://engadget.com/2250160/dont-use-google-gemini-to-plan-a-mountain-climb",
+      "title": "PSA: Don't rely on AI to plan anything that could put your life at risk... like a mountain climb",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "6e3e8a2e2ede",
+    "slug": "altman-va-brokman-yangi-ai-vada-qilmoqda-6e3e8a",
+    "title": "Altman va Brokman yangi AI va'da qilmoqda",
+    "summary": "Time jurnali muqovasida chiqqan Sem Altman va Greg Brokman 2026-yil oxirigacha haqiqiy sun'iy intellekt yaratishga va'da berdi. Biroq tahlilchilar neyrotarmoqlar atrofidagi shov-shuvlarni va AI agentlarining mustaqil buzib kirish qobiliyatlari haqidagi xabarlarni shubha ostiga olmoqda.",
+    "tags": [
+      "OpenAI",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 17,
+    "published": "2026-09-03T09:07:46.000Z",
+    "created": "2026-09-03T11:01:48.000Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/companies/ddosguard/articles/1078030",
+      "title": "Скайнет или Скамнет? Как корпораты продали нам за миллиарды фантазию про «искусственный интеллект»",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "183af5215609",
+    "slug": "ping-claude-ai-agentlari-xavfsizligini-kuchaytiradi-183af5",
+    "title": "Ping Claude AI agentlari xavfsizligini kuchaytiradi",
+    "summary": "Ping Identity kompaniyasi Anthropic'ning Claude shaxsiy AI agentlari uchun imtiyozli kirish nazoratini kengaytirdi. Yangi tizim ushbu agentlarni aniqlashdan tortib harakat qilishgacha bo'lgan jarayonlarda xavfsizlikni ta'minlashga xizmat qiladi.",
+    "tags": [
+      "Anthropic",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 16,
+    "published": "2026-09-03T00:09:00.000Z",
+    "created": "2026-09-03T11:01:48.000Z",
+    "coverage": 2,
+    "source": {
+      "name": "Biometric Update",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZmFkR0tzRG1hWlRpVTZBMHM5bGpleDN5cjg3cTJBR0E4NkJlR3FCeFZMNzFrVnZZbWtOMnZSakpYT1YtcC1wYVlXU3JLRzZ3ZFBaUkZwZmdTUWo5aVFkV3o5SFc0dzBxNzI0Y3FNVkk1NG1SbHdVUTQxR3pSRW5CRWZtS3ZQM3F0Z0dxMlNGMDhyd3NPZ3B5OGY0Vmw2dFk",
+      "title": "Ping extends privileged access controls to Claude AI agents",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "86f0aecd5eda",
+    "slug": "ota-onalar-oilaviy-ishlarni-ai-orqali-rejalashtirmoqda-86f0ae",
+    "title": "Ota-onalar oilaviy ishlarni AI orqali rejalashtirmoqda",
+    "summary": "Financial Times nashriga ko'ra, ota-onalar oilaviy jadvallarni tartibga solish va uy yumushlarini avtomatlashtirish uchun sun'iy intellektdan foydalanmoqda. Ular Ollie va Cozi Max ilovalari yordamida bog'chalarni qidirmoqda, taomlar va xaridlarni rejalashtirmoqda.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-09-03T10:25:01.000Z",
+    "created": "2026-09-03T11:01:48.000Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/260903/p11",
+      "title": "How some parents, mostly mothers, use AI to help them organize their families' schedules and automate mundane household tasks via apps like Ollie and Cozi Max (Valeriya Safronova/Financial Times)",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "50959979bc7f",
     "slug": "aziza-ai-xitoy-bozoriga-chiqishni-boshladi-509599",
     "title": "Aziza AI Xitoy bozoriga chiqishni boshladi",
