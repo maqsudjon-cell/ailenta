@@ -64,6 +64,7 @@ jobs:
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          TELEGRAM_ROUNDUP_EVERY_MIN: "1"
         run: node src/telegram.mjs
 
       # Instagram tokeni 60 kunda tugaydi. Qo'lda yangilash esdan chiqadi,
