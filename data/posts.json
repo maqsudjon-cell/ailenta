@@ -1,17 +1,17 @@
 [
   {
     "id": "4ca1cf36c0cd",
-    "slug": "doj-openai-va-microsoft-foydasiga-qaror-chiqarishni-soradi-4ca1cf",
-    "title": "DOJ OpenAI va Microsoft foydasiga qaror chiqarishni so'radi",
-    "summary": "AQSh Adliya vazirligi sudni OpenAI va Microsoft foydasiga qaror chiqarishga chaqirdi. Vazirlikka ko'ra, sun'iy intellektni gazeta materiallarida o'qitish mualliflik huquqini buzmaydi. Shuningdek, ushbu soha milliy xavfsizlik manfaati deb ataldi.",
+    "slug": "doj-openai-va-microsoftni-qollab-quvvatladi-4ca1cf",
+    "title": "DOJ OpenAI va Microsoftni qo'llab-quvvatladi",
+    "summary": "AQSh Adliya vazirligi sudni The New York Times'ga qarshi da'voda OpenAI va Microsoft foydasiga qaror chiqarishga chaqirdi. Vazirlik AI'ni gazeta kontentida o'qitish mualliflik huquqini buzmaydi deb hisoblaydi.",
     "tags": [
       "OpenAI",
-      "sud"
+      "Microsoft"
     ],
     "importance": 4,
     "score": 29,
     "published": "2026-09-02T17:55:07.000Z",
-    "created": "2026-09-03T06:01:00.299Z",
+    "created": "2026-09-03T06:02:42.310Z",
     "coverage": 1,
     "source": {
       "name": "The Washington Post",
@@ -24,16 +24,17 @@
   },
   {
     "id": "6141628d319c",
-    "slug": "yuridik-firmalar-ozlarining-ai-vositalarini-yaratmoqda-614162",
-    "title": "Yuridik firmalar o'zlarining AI vositalarini yaratmoqda",
-    "summary": "Bir qator xalqaro yuridik firmalar o'z intellektual mulkini himoya qilish uchun maxsus AI vositalarini yaratishga intilmoqda. Ular kundalik vazifalar uchun tayyor AI yechimlaridan foydalanadi. Bu harakat o'zaro farqlanish va ichki platformalarni rivojlantirish istagi bilan bog'liq.",
+    "slug": "xalqaro-yuridik-firmalar-oz-ai-vositalarini-yaratmoqda-614162",
+    "title": "Xalqaro yuridik firmalar o'z AI vositalarini yaratmoqda",
+    "summary": "Bir qancha xalqaro yuridik firmalar raqobatda ustunlikka erishish va intellektual mulkini himoya qilish uchun maxsus AI vositalarini yaratishga intilmoqda. Ular kundalik vazifalar uchun tayyor AI yechimlaridan foydalanmoqda.",
     "tags": [
-      "biznes"
+      "biznes",
+      "agentlar"
     ],
-    "importance": 2,
+    "importance": 3,
     "score": 15,
     "published": "2026-09-03T05:55:02.000Z",
-    "created": "2026-09-03T06:01:00.300Z",
+    "created": "2026-09-03T06:02:42.311Z",
     "coverage": 1,
     "source": {
       "name": "Techmeme",
