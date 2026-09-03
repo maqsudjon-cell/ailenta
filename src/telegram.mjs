@@ -26,8 +26,11 @@ const MIN_IMPORTANCE = Number(process.env.TELEGRAM_MIN_IMPORTANCE || 4);
 // Chegarani ko'tarish yordam bermaydi: LLM eng yuqori baho sifatida 4 qo'yadi,
 // 5 hech qachon chiqmaydi. Ya'ni MIN_IMPORTANCE=5 kanalni butunlay jimitardi.
 // Shuning uchun muhimlik emas, TEZLIK cheklanadi.
-const MAX_PER_DAY = Number(process.env.TELEGRAM_MAX_PER_DAY || 8);
-const MIN_GAP_MIN = Number(process.env.TELEGRAM_MIN_GAP_MIN || 45);
+// 8 juda kam bo'lib chiqdi: kuniga ~25 ta muhim xabar chiqadi va navbatda
+// 24 tasi to'planib qoldi — ular 24 soatdan oshib, kanalga umuman
+// yetib bormasdi. 25 ham juda ko'p edi. O'rtasi: 12.
+const MAX_PER_DAY = Number(process.env.TELEGRAM_MAX_PER_DAY || 12);
+const MIN_GAP_MIN = Number(process.env.TELEGRAM_MIN_GAP_MIN || 30);
 const PER_RUN = Number(process.env.TELEGRAM_PER_RUN || 2);
 const MAX_AGE_HOURS = Number(process.env.TELEGRAM_MAX_AGE_HOURS || 24);
 
