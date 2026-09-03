@@ -1,5 +1,97 @@
 [
   {
+    "id": "1997b2254e18",
+    "slug": "saudiya-arabistonining-humain-firmasi-venchur-fond-ochadi-1997b2",
+    "title": "Saudiya Arabistonining HUMAIN firmasi venchur fond ochadi",
+    "summary": "Saudiya Arabistonining HUMAIN sun'iy intellekt kompaniyasi joriy yilda yirik global venchur fondini ishga tushiradi. Shuningdek, kompaniya Eron urushi infratuzilmaga tahdid solayotgani sababli ma'lumotlar markazlari himoyasini kuchaytirmoqda.",
+    "tags": [
+      "biznes",
+      "siyosat"
+    ],
+    "importance": 3,
+    "score": 22,
+    "published": "2026-09-03T11:06:56.000Z",
+    "created": "2026-09-03T11:29:51.682Z",
+    "coverage": 1,
+    "source": {
+      "name": "Semafor",
+      "url": "https://semafor.com/article/09/03/2026/saudi-ai-firm-humain-to-launch-giant-global-vc-fund-this-year",
+      "title": "Saudi AI firm HUMAIN to launch giant global VC fund this year",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "88cab183b4f6",
+    "slug": "anthropic-talabalar-uchun-elchilik-dasturini-ochdi-88cab1",
+    "title": "Anthropic talabalar uchun elchilik dasturini ochdi",
+    "summary": "Anthropic kompaniyasi 2026-yilgi talabalar elchiligi dasturini e'lon qildi. Ishtirokchilar 3600 dollar stipendiya va API kreditlariga ega bo'lib, o'z oliygohlarida sun'iy intellekt tashabbuslarini boshqaradilar.",
+    "tags": [
+      "Anthropic",
+      "ta'lim"
+    ],
+    "importance": 2,
+    "score": 16,
+    "published": "2026-09-03T06:30:00.000Z",
+    "created": "2026-09-03T11:29:51.684Z",
+    "coverage": 2,
+    "source": {
+      "name": "Global South Opportunities",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1OUlktV3lJYXVNdGZfZkdPZnRZU0FJeXdaLVpZaEdJUGdyemFyU0llemdfY2lLWTRld3laRkduSkY0cHBJY0hDVzNNNTJabDJpc29aemJ6cXNqQ2hnLWdPTkFidW5uUXZ4UzRNZGxaZHR0Zw",
+      "title": "Anthropic Campus Ambassador Program 2026: Earn a $3,600 Stipend, Get API Credits and Lead AI Initiatives on Campus",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "74813656da1f",
+    "slug": "g20-davlatlari-karolina-prinsiplarini-maqulladi-748136",
+    "title": "G20 davlatlari Karolina prinsiplarini ma'qulladi",
+    "summary": "G20 davlatlari AQSh tomonidan taklif etilgan Karolina prinsiplarini bir ovozdan ma'qulladi. Ushbu majburiy bo'lmagan hujjat sun'iy intellektni yumshoqroq va sohaga mos ravishda tartibga solishni nazarda tutadi. Bu haqda Bloomberg xabar berdi.",
+    "tags": [
+      "siyosat",
+      "qonun"
+    ],
+    "importance": 4,
+    "score": 15,
+    "published": "2026-09-03T09:55:00.000Z",
+    "created": "2026-09-03T11:30:12.929Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/260903/p9",
+      "title": "All G20 nations unanimously endorse the non-binding Carolina Principles, a US-proposed framework advocating for a lighter-touch, sector-specific AI regulation (Maggie Eastland/Bloomberg)",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "fe2ac8ae3194",
+    "slug": "anker-aqlli-uy-uchun-mindbase-xabini-taqdim-etdi-fe2ac8",
+    "title": "Anker aqlli uy uchun MindBase xabini taqdim etdi",
+    "summary": "Anker kompaniyasi aqlli uyni boshqarish va xavfsizlikni ta'minlash uchun MindBase qurilmasini taqdim etdi. Tizim sun'iy intellekt yordamida ishlaydi hamda ma'lumotlarni saqlash vazifasini ham bajaradi. Bu haqda Engadget xabar berdi.",
+    "tags": [
+      "biznes",
+      "xavfsizlik"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-09-03T07:30:00.000Z",
+    "created": "2026-09-03T11:30:12.930Z",
+    "coverage": 1,
+    "source": {
+      "name": "Engadget",
+      "url": "https://engadget.com/2249482/anker-mindbase-is-a-smart-home-hub-nas-and-security-guard",
+      "title": "Anker's MindBase is a smart home hub, NAS and security guard",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "8bd06e9d727a",
     "slug": "bill-simmons-chatgptdan-foydalangani-uchun-tanqid-qilindi-8bd06e",
     "title": "Bill Simmons ChatGPT'dan foydalangani uchun tanqid qilindi",
