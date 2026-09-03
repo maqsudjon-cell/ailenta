@@ -168,6 +168,40 @@ export function numbersAreGrounded(text, sourceText) {
   });
 }
 
+// Sarlavha uzunligi — promptda aytilgan, lekin model uni ba'zan e'tiborsiz
+// qoldiradi (o'lchandi: 244 xabardan 7 tasi 65 belgidan uzun). Google
+// sarlavhani ~60 belgida kesadi va bosilish darajasi tushadi, shuning uchun
+// ko'rsatmaga ishonib qolmasdan kod darajasida tekshiramiz.
+//
+// Uzun bo'lsa modeldan bitta qisqa so'rov bilan qisqartirishni so'raymiz.
+// U ham uddalay olmasa xabarni TASHLAMAYMIZ — uzun sarlavha yomon, lekin
+// xabarni butunlay yo'qotish undan yomonroq.
+export const TITLE_MAX = 60;
+
+export async function shortenTitle(title, call) {
+  const prompt = [
+    "Quyidagi o'zbekcha yangilik sarlavhasi juda uzun.",
+    `Uni ${TITLE_MAX} belgidan oshmaydigan qilib qayta yoz.`,
+    "Ma'noni, kim va nima qilganini saqla. Raqam bo'lsa saqla.",
+    "Nuqta qo'yma, hayajon belgisi ishlatma, tirnoq qo'shma.",
+    "Faqat sarlavhaning o'zini qaytar, boshqa hech narsa yozma.",
+    "",
+    `Sarlavha: ${title}`,
+  ].join("\n");
+
+  try {
+    // Avval birinchi qatorni ajratamiz, keyin tirnoq va nuqtani tozalaymiz.
+    // Teskari tartibda model ikki qator qaytarsa tozalash oxirgi qatorga
+    // tegib, birinchi qator tirnoq bilan qolib ketardi.
+    const out = (await call(prompt)).trim().split("\n")[0].trim()
+      .replace(/^["'«»]+|["'«».]+$/g, "").trim();
+    if (out && out.length <= TITLE_MAX && out.length >= 15) return out;
+  } catch (e) {
+    console.error(`  · sarlavhani qisqartirib bo'lmadi: ${e.message}`);
+  }
+  return null;
+}
+
 function extractJson(text) {
   const start = text.indexOf("[");
   const end = text.lastIndexOf("]");
@@ -256,6 +290,16 @@ async function main() {
         continue;
       }
       if (!r.title || !r.summary) continue;
+
+      if (r.title.trim().length > TITLE_MAX) {
+        const short = await shortenTitle(r.title.trim(), call);
+        if (short) {
+          console.error(`  · sarlavha qisqartirildi (${r.title.trim().length} → ${short.length}): ${short}`);
+          r.title = short;
+        } else {
+          console.error(`  · sarlavha uzun qoldi (${r.title.trim().length} belgi): ${r.title.trim().slice(0, 70)}`);
+        }
+      }
 
       const sourceText = c.items.map((x) => `${x.title} ${x.summary || ""}`).join(" ");
       if (!numbersAreGrounded(`${r.title} ${r.summary}`, sourceText)) {
