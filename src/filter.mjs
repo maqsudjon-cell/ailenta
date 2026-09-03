@@ -133,6 +133,95 @@ function centroidOf(vecs) {
   return { v: sum, norm: Math.sqrt(sq) || 1 };
 }
 
+// ---------- o'zbek startap va texnologiya yo'lagi ----------
+//
+// Sayt AI yangiliklari uchun qurilgan va filtr AI atamasi bo'lmagan hamma
+// narsani tashlaydi. Lekin o'zbek nashrlarida AI atamasi ishlatilmagan,
+// ammo bizga kerakli xabarlar bor: "IT Park startaplar tanlovi",
+// "steyblkoin sinovi", "FOC ko'zoynagini sotuvga chiqardi".
+//
+// Shuning uchun uzTech deb belgilangan manbalar uchun alohida yo'lak:
+// startap/texnologiya lug'ati bo'yicha o'tadi.
+// FAQAT texnologiya otlari. Fe'l qo'shmaymiz: "taqdim etdi", "chiqardi"
+// kabi so'zlar har qanday e'londa uchraydi va ular tufayli birja hamda
+// bojxona xabarlari ham o'tib ketdi (o'lchandi).
+const UZ_TECH_TERMS_RAW = [
+  // startap ekotizimi
+  "startap", "startup", "venchur", "akselerator", "inkubator", "it park", "itpark",
+  "investitsiya raundi", "seed raund", "pre-seed", "unicorn", "yunikorn",
+  // mahsulot va platforma
+  "ilova", "platforma", "marketpleys", "superilova", "sun'iy intellekt",
+  "neyron tarmoq", "chatbot", "algoritm",
+  // fintex va kripto
+  "fintex", "fintech", "steyblkoin", "stablecoin", "kriptovalyuta", "blokcheyn",
+  "raqamli to'lov", "mobil to'lov",
+  // qurilma va apparat
+  "aqlli ko'zoynak", "aqlli soat", "aqlli qurilma", "gadjet", "smartfon",
+  "elektromobil", "kvadrokopter", "dron", "protsessor", "chip",
+  // odamlar va sohalar
+  "dasturchi", "dasturlash", "kiberxavfsizlik", "bulutli xizmat",
+];
+
+// Qo'llanma, fikr va makro-siyosat xabarlari — nashr uchun emas.
+// pivot.uz da bular ko'p: "B2B bitimni qanday yopish", "5 tamoyil",
+// "Startapga investitsiyani qayerdan jalb qilish mumkin?".
+const UZ_SKIP = [
+  /\?\s*$/,                                    // savol sarlavhasi — deyarli har doim qo'llanma
+  /\b(qanday|qayerdan|nima uchun|nimaga|qaysi)\b/i,
+  /\b\d+\s*(ta\s+)?(tamoyil|maslahat|usul|sabab|qadam|sir|xato)\b/i,
+  /\b(qo'llanma|yo'riqnoma|maslahat|fikr|kolonka|intervyu)\b/i,
+  // Makroiqtisod, siyosat va moliya institutlari — texnologiya emas
+  /\b(yaim|inflyatsiya|byudjet|soliq stavkasi|farmon|qaror loyihasi|deputat)\b/i,
+  /\b(strategiya(si|ni)?|bojxona|birja|vazirlik|hokimiyat|prezident)\b/i,
+];
+
+const UZ_TECH_TERMS = [...new Set(UZ_TECH_TERMS_RAW.map(norm).filter(Boolean))];
+
+// O'zbek tili qo'shimchali: "startap" matnda "startapga", "startaplar",
+// "startaplariga" bo'lib keladi. Butun so'z bo'yicha qidirish bularning
+// hech birini topmaydi — shuning uchun uzun atamalar uchun so'z BOSHIga
+// qaraymiz. Qisqa atamalar (chip, dron, ipo) butun so'z bo'yicha qoladi,
+// aks holda "chip" so'zi "chipta" ni ham ushlab olardi.
+const PREFIX_MIN = 5;
+
+// FAQAT sarlavha bo'yicha. Xulosani ham hisobga olish yolg'on ijobiy
+// beradi: "35 yil — 35 raqam" mustaqillik haqidagi retrospektiv edi, lekin
+// xulosasida "raqamli to'lov" uchragani uchun texnologiya xabari deb
+// o'tkazilgan. Sarlavha nima haqidaligini eng aniq aytadi.
+function uzTechScore(item) {
+  const hay = norm(item.title);
+  const toks = hay.split(" ").filter(Boolean);
+  let hits = 0;
+  for (const term of UZ_TECH_TERMS) {
+    if (term.includes(" ")) {
+      // Ko'p so'zli atama: oxirgi so'z qo'shimcha oladi ("aqlli ko'zoynagini"),
+      // shuning uchun boshini o'z holicha, oxirgi so'zni prefiks bo'yicha
+      // solishtiramiz.
+      const parts = term.split(" ");
+      const bosh = parts.slice(0, -1).join(" ");
+      const oxir = parts[parts.length - 1];
+      const oxirStem = /[kqp]$/.test(oxir) ? oxir.slice(0, -1) : oxir;
+      const re = new RegExp(`(^|\\s)${bosh.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")}\\s${oxirStem.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")}`);
+      if (re.test(hay)) hits++;
+    } else if (term.length >= PREFIX_MIN) {
+      // Undosh almashinuvi: unli qo'shimcha oldidan k→g, q→g', p→b.
+      // "ko'zoynak" matnda "ko'zoynagini" bo'lib keladi, ya'ni oddiy
+      // prefiks ham yetmaydi. Oxirgi undoshni tashlab ham qaraymiz.
+      const stem = /[kqp]$/.test(term) ? term.slice(0, -1) : term;
+      if (toks.some((t) => t.startsWith(term) || t.startsWith(stem))) hits++;
+    } else if (toks.includes(term)) {
+      hits++;
+    }
+  }
+  return hits;
+}
+
+export function uzTechAllowed(item) {
+  if (!item.uzTech) return false;
+  if (UZ_SKIP.some((re) => re.test(item.title))) return false;
+  return uzTechScore(item) > 0;
+}
+
 const AI_TERMS = [...new Set(AI_TERMS_RAW.map(norm).filter(Boolean))];
 
 function aiScore(item) {
@@ -177,13 +266,14 @@ async function main() {
     return tokens(it.title).size >= 2;
   });
 
-  // AI'ga aloqasi bo'lmaganlarni tashlaymiz.
+  // AI'ga aloqasi bo'lmaganlarni tashlaymiz — bundan o'zbek nashrlaridagi
+  // startap va texnologiya xabarlari mustasno (yuqoridagi yo'lakka qarang).
   const scored = fresh
     .map((it) => {
       it.title = cleanTitle(it.title);
-      return { it, aiHits: aiScore(it), toks: tokens(it.title) };
+      return { it, aiHits: aiScore(it), uzTech: uzTechAllowed(it), toks: tokens(it.title) };
     })
-    .filter((x) => x.aiHits > 0);
+    .filter((x) => x.aiHits > 0 || x.uzTech);
 
   const idf = buildIdf(scored.map((x) => x.toks));
   for (const x of scored) x.vec = vectorize(x.toks, idf);
@@ -246,4 +336,6 @@ async function main() {
   }
 }
 
-main();
+// Boshqa modullar bu fayldan funksiya import qila olishi uchun himoya:
+// himoyasiz import butun filtrni ishga tushirib yuborardi.
+if (process.argv[1]?.endsWith("filter.mjs")) main();

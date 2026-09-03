@@ -105,6 +105,9 @@ function parseFeed(xml, src) {
       weight: src.weight ?? 1,
       primary: !!src.primary,
       local: !!src.local,
+      // O'zbek startap yo'lagi uchun: filtr shu belgiga qarab AI atamasi
+      // bo'lmagan mahalliy texnologiya xabarlarini ham o'tkazadi.
+      uzTech: !!src.uzTech,
     });
   }
   return src.cap ? out.slice(0, src.cap) : out;
