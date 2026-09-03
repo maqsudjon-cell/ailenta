@@ -13,6 +13,7 @@
 // yomonroq. Ro'yxatda yo'q mavzu kod bilan chizilgan muqovada qoladi.
 
 import { readFile, writeFile, mkdir, access } from "node:fs/promises";
+import sharp from "sharp";
 import { join, dirname } from "node:path";
 import { fileURLToPath } from "node:url";
 
@@ -36,13 +37,34 @@ async function loadMap() {
   if (MAP) return MAP;
   const raw = JSON.parse(await readFile(join(ROOT, "assets/photos.json"), "utf8"));
   FOCUS = raw.fokus || {};
+
+  // Commons kategoriyalaridan yig'ilgan havza. Qo'lda tanlangan suratlar
+  // birinchi turadi (ular tekshirilgan), havzadagilar ularni to'ldiradi.
+  //
+  // Sabab: qo'lda tanlash 31 ta surat berdi va ular 346 xabarda aylanib
+  // yurdi — Anthropic suratlari 15-16 tadan xabarda takrorlandi. Havza
+  // buni 188 taga chiqardi.
+  let pool = {};
+  try {
+    pool = JSON.parse(await readFile(join(ROOT, "assets/photo-pool.json"), "utf8"));
+  } catch {}
+
   const entries = [];
   for (const group of ["odamlar", "kompaniyalar", "mavzular"]) {
     for (const [key, val] of Object.entries(raw[group] || {})) {
       // Bir mavzuga bir nechta surat: ketma-ket xabarlarda bir xil rasm
       // chiqmasligi uchun. Eski yozuvlar (bitta satr) ham ishlayveradi.
-      entries.push({ key, files: Array.isArray(val) ? val : [val], group });
+      const hand = Array.isArray(val) ? val : [val];
+      const extra = (pool[key] || []).filter((f) => !hand.includes(f));
+      entries.push({ key, files: [...hand, ...extra], group });
     }
+  }
+
+  // Havzada bor, lekin qo'lda tanlanmagan mavzular ham qo'shilsin.
+  const known = new Set(entries.map((e) => e.key));
+  for (const [key, files] of Object.entries(pool)) {
+    if (key.startsWith("_") || known.has(key) || !files.length) continue;
+    entries.push({ key, files, group: "havza" });
   }
   // Uzun nom oldin tekshirilsin: "john ternus" "apple" dan ustun turadi.
   entries.sort((a, b) => b.key.length - a.key.length);
@@ -164,13 +186,28 @@ export async function ensurePhotos(posts) {
       const info = await commonsInfo(file);
       const img = await fetch(info.url, { headers: { "user-agent": UA } });
       if (!img.ok) throw new Error(`rasm ${img.status}`);
-      await writeFile(local, Buffer.from(await img.arrayBuffer()));
+      // Commons'dan kelgan fayl siqilmagan — o'rtacha 400 KB, ba'zisi 1 MB.
+      // Havza 31 tadan 106 taga o'sgach bu docs/photo ni 13 MB dan 42 MB ga
+      // chiqardi, ya'ni muqovalarni JPEG'ga o'tkazib qo'lga kiritgan
+      // yutuqni yo'qqa chiqardi. Ko'rinishga ta'sir qilmaydigan darajada
+      // siqamiz.
+      const raw = Buffer.from(await img.arrayBuffer());
+      let out = raw;
+      try {
+        out = await sharp(raw).jpeg({ quality: 82, mozjpeg: true }).toBuffer();
+      } catch { /* siqilmasa asl faylni qoldiramiz */ }
+      await writeFile(local, out);
 
       const smallName = `${base}-sm.jpg`;
       const small = await commonsInfo(file, THUMB_WIDTH);
       const smallImg = await fetch(small.url, { headers: { "user-agent": UA } });
       if (smallImg.ok) {
-        await writeFile(join(ROOT, "docs/photo", smallName), Buffer.from(await smallImg.arrayBuffer()));
+        const rawSmall = Buffer.from(await smallImg.arrayBuffer());
+        let outSmall = rawSmall;
+        try {
+          outSmall = await sharp(rawSmall).jpeg({ quality: 80, mozjpeg: true }).toBuffer();
+        } catch {}
+        await writeFile(join(ROOT, "docs/photo", smallName), outSmall);
       }
 
       cache[key] = {

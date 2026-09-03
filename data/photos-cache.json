@@ -1,44 +1,4 @@
 {
-  "nvidia": {
-    "file": "NVIDIA Headquarters.jpg",
-    "src": "/photo/nvidia.jpg",
-    "thumb": "/photo/nvidia-sm.jpg",
-    "focus": 0.5,
-    "author": "Coolcaesar",
-    "license": "CC BY-SA 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:NVIDIA_Headquarters.jpg"
-  },
-  "anthropic": {
-    "file": "Dario Amodei at TechCrunch Disrupt 2023 05.jpg",
-    "src": "/photo/anthropic.jpg",
-    "thumb": "/photo/anthropic-sm.jpg",
-    "focus": 0.5,
-    "author": "TechCrunch",
-    "license": "CC BY 2.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Dario_Amodei_at_TechCrunch_Disrupt_2023_05.jpg"
-  },
-  "meta": {
-    "file": "Meta Platforms Headquarters Menlo Park California.jpg",
-    "src": "/photo/meta.jpg",
-    "thumb": "/photo/meta-sm.jpg",
-    "focus": 0.5,
-    "author": "LPS.1",
-    "license": "CC0",
-    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "page": "https://commons.wikimedia.org/wiki/File:Meta_Platforms_Headquarters_Menlo_Park_California.jpg"
-  },
-  "jensen huang": {
-    "file": "Jensen huang stanford 2026-04-30 007.jpg",
-    "src": "/photo/jensen-huang.jpg",
-    "thumb": "/photo/jensen-huang-sm.jpg",
-    "focus": 0.18,
-    "author": "Anderseidesvik",
-    "license": "CC BY-SA 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Jensen_huang_stanford_2026-04-30_007.jpg"
-  },
   "openai": {
     "file": "Sam Altman CropEdit James Tamim.jpg",
     "src": "/photo/openai.jpg",
@@ -48,146 +8,6 @@
     "license": "CC BY 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
     "page": "https://commons.wikimedia.org/wiki/File:Sam_Altman_CropEdit_James_Tamim.jpg"
-  },
-  "apple": {
-    "file": "Apple Park aerial view, June 2024.jpg",
-    "src": "/photo/apple.jpg",
-    "thumb": "/photo/apple-sm.jpg",
-    "focus": 0.35,
-    "author": "Nils Huenerfuerst",
-    "license": "CC0",
-    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "page": "https://commons.wikimedia.org/wiki/File:Apple_Park_aerial_view,_June_2024.jpg"
-  },
-  "microsoft": {
-    "file": "Aerial Microsoft West Campus August 2009.jpg",
-    "src": "/photo/microsoft.jpg",
-    "thumb": "/photo/microsoft-sm.jpg",
-    "focus": 0.5,
-    "author": "Jelson25",
-    "license": "Public domain",
-    "licenseUrl": "",
-    "page": "https://commons.wikimedia.org/wiki/File:Aerial_Microsoft_West_Campus_August_2009.jpg"
-  },
-  "mediatek": {
-    "file": "MediaTek Taipei Branch in Hall C, Solar Technology Square 20191103.jpg",
-    "src": "/photo/mediatek.jpg",
-    "thumb": "/photo/mediatek-sm.jpg",
-    "focus": 0.18,
-    "author": "Solomon203",
-    "license": "CC BY-SA 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:MediaTek_Taipei_Branch_in_Hall_C,_Solar_Technology_Square_20191103.jpg"
-  },
-  "robototexnika": {
-    "file": "Ameca Generation 1.jpg",
-    "src": "/photo/robototexnika.jpg",
-    "thumb": "/photo/robototexnika-sm.jpg",
-    "focus": 0.28,
-    "author": "Willy Jackson",
-    "license": "CC BY-SA 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Ameca_Generation_1.jpg"
-  },
-  "asml": {
-    "file": "ASML headquarters Veldhoven.jpg",
-    "src": "/photo/asml.jpg",
-    "thumb": "/photo/asml-sm.jpg",
-    "focus": 0.35,
-    "author": "A ansems",
-    "license": "Public domain",
-    "licenseUrl": "",
-    "page": "https://commons.wikimedia.org/wiki/File:ASML_headquarters_Veldhoven.jpg"
-  },
-  "salesforce": {
-    "file": "Salesforce Tower 2020.jpg",
-    "src": "/photo/salesforce.jpg",
-    "thumb": "/photo/salesforce-sm.jpg",
-    "focus": 0.18,
-    "author": "Saggittarius A",
-    "license": "CC BY-SA 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Salesforce_Tower_2020.jpg"
-  },
-  "pentagon": {
-    "file": "Aerial Closeup of the Pentagon, May 11, 2021.jpg",
-    "src": "/photo/pentagon.jpg",
-    "thumb": "/photo/pentagon-sm.jpg",
-    "focus": 0.5,
-    "author": "Air Force Staff Sgt. Brittany A. Chase, DOD",
-    "license": "Public domain",
-    "licenseUrl": "",
-    "page": "https://commons.wikimedia.org/wiki/File:Aerial_Closeup_of_the_Pentagon,_May_11,_2021.jpg"
-  },
-  "donald tramp": {
-    "file": "Donald Trump official portrait (cropped).jpg",
-    "src": "/photo/donald-tramp.jpg",
-    "thumb": "/photo/donald-tramp-sm.jpg",
-    "focus": 0.18,
-    "author": "Shealeah Craighead",
-    "license": "Public domain",
-    "licenseUrl": "",
-    "page": "https://commons.wikimedia.org/wiki/File:Donald_Trump_official_portrait_(cropped).jpg"
-  },
-  "endryu beyli": {
-    "file": "Andrew Bailey and Jane Hartley.jpg",
-    "src": "/photo/endryu-beyli.jpg",
-    "thumb": "/photo/endryu-beyli-sm.jpg",
-    "focus": 0.18,
-    "author": "Office of U.S. Ambassador to U.K.",
-    "license": "Public domain",
-    "licenseUrl": "",
-    "page": "https://commons.wikimedia.org/wiki/File:Andrew_Bailey_and_Jane_Hartley.jpg"
-  },
-  "google": {
-    "file": "Sundar Pichai - 2023 (cropped).jpg",
-    "src": "/photo/google.jpg",
-    "thumb": "/photo/google-sm.jpg",
-    "focus": 0.18,
-    "author": "Photographer: Lukasz Kobus (European Commission)",
-    "license": "CC BY 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Sundar_Pichai_-_2023_(cropped).jpg"
-  },
-  "bulut": {
-    "file": "BalticServers data center.jpg",
-    "src": "/photo/bulut.jpg",
-    "thumb": "/photo/bulut-sm.jpg",
-    "focus": 0.5,
-    "author": "BalticServers.com",
-    "license": "CC BY-SA 3.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-    "page": "https://commons.wikimedia.org/wiki/File:BalticServers_data_center.jpg"
-  },
-  "anthropic#1": {
-    "file": "Dario Amodei in 2023.jpg",
-    "src": "/photo/anthropic-2.jpg",
-    "thumb": "/photo/anthropic-2-sm.jpg",
-    "focus": 0.18,
-    "author": "UK Prime Minister",
-    "license": "CC BY 2.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Dario_Amodei_in_2023.jpg"
-  },
-  "anthropic#2": {
-    "file": "Jared Kaplan 2025.jpg",
-    "src": "/photo/anthropic-3.jpg",
-    "thumb": "/photo/anthropic-3-sm.jpg",
-    "focus": 0.18,
-    "author": "TechCrunch",
-    "license": "CC BY 2.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Jared_Kaplan_2025.jpg"
-  },
-  "anthropic#3": {
-    "file": "Dario Amodei at TechCrunch Disrupt 2023 08.jpg",
-    "src": "/photo/anthropic-4.jpg",
-    "thumb": "/photo/anthropic-4-sm.jpg",
-    "focus": 0.5,
-    "author": "TechCrunch",
-    "license": "CC BY 2.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Dario_Amodei_at_TechCrunch_Disrupt_2023_08.jpg"
   },
   "openai#1": {
     "file": "Pioneer Building, San Francisco (2019) -1.jpg",
@@ -219,35 +39,115 @@
     "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
     "page": "https://commons.wikimedia.org/wiki/File:%E2%80%9CSam_Altman%E2%80%9D_by_Village_Global_(Cropped).jpg"
   },
-  "google#1": {
-    "file": "Google I-O 2019.jpg",
-    "src": "/photo/google-2.jpg",
-    "thumb": "/photo/google-2-sm.jpg",
+  "openai#4": {
+    "file": "OpenAI OpenAI on a phone.jpg",
+    "src": "/photo/openai-5.jpg",
+    "thumb": "/photo/openai-5-sm.jpg",
     "focus": 0.5,
-    "author": "Александр Щербаков",
-    "license": "CC BY-SA 3.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Google_I-O_2019.jpg"
-  },
-  "mediatek#1": {
-    "file": "MediaTek Taipei Branch in Solar Technology Square C building 2016-05-24.jpg",
-    "src": "/photo/mediatek-2.jpg",
-    "thumb": "/photo/mediatek-2-sm.jpg",
-    "focus": 0.18,
-    "author": "Padai",
+    "author": "Focal Foto",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:MediaTek_Taipei_Branch_in_Solar_Technology_Square_C_building_2016-05-24.jpg"
+    "page": "https://commons.wikimedia.org/wiki/File:OpenAI_OpenAI_on_a_phone.jpg"
   },
-  "mediatek#2": {
-    "file": "MediaTek Taipei Branch in Hall C, Solar Technology Square 20110217.jpg",
-    "src": "/photo/mediatek-3.jpg",
-    "thumb": "/photo/mediatek-3-sm.jpg",
+  "openai#5": {
+    "file": "“Sam Altman” by Village Global.jpg",
+    "src": "/photo/openai-6.jpg",
+    "thumb": "/photo/openai-6-sm.jpg",
     "focus": 0.18,
-    "author": "Solomon203",
-    "license": "CC BY-SA 3.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-    "page": "https://commons.wikimedia.org/wiki/File:MediaTek_Taipei_Branch_in_Hall_C,_Solar_Technology_Square_20110217.jpg"
+    "author": "Village Global",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:%E2%80%9CSam_Altman%E2%80%9D_by_Village_Global.jpg"
+  },
+  "anthropic": {
+    "file": "Dario Amodei at TechCrunch Disrupt 2023 05.jpg",
+    "src": "/photo/anthropic.jpg",
+    "thumb": "/photo/anthropic-sm.jpg",
+    "focus": 0.5,
+    "author": "TechCrunch",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Dario_Amodei_at_TechCrunch_Disrupt_2023_05.jpg"
+  },
+  "anthropic#1": {
+    "file": "Dario Amodei in 2023.jpg",
+    "src": "/photo/anthropic-2.jpg",
+    "thumb": "/photo/anthropic-2-sm.jpg",
+    "focus": 0.18,
+    "author": "UK Prime Minister",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Dario_Amodei_in_2023.jpg"
+  },
+  "anthropic#2": {
+    "file": "Jared Kaplan 2025.jpg",
+    "src": "/photo/anthropic-3.jpg",
+    "thumb": "/photo/anthropic-3-sm.jpg",
+    "focus": 0.18,
+    "author": "TechCrunch",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Jared_Kaplan_2025.jpg"
+  },
+  "anthropic#3": {
+    "file": "Dario Amodei at TechCrunch Disrupt 2023 08.jpg",
+    "src": "/photo/anthropic-4.jpg",
+    "thumb": "/photo/anthropic-4-sm.jpg",
+    "focus": 0.5,
+    "author": "TechCrunch",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Dario_Amodei_at_TechCrunch_Disrupt_2023_08.jpg"
+  },
+  "anthropic#4": {
+    "file": "The Prime Minister meets with AI developers.jpg",
+    "src": "/photo/anthropic-5.jpg",
+    "thumb": "/photo/anthropic-5-sm.jpg",
+    "focus": 0.5,
+    "author": "UK Prime Minister",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:The_Prime_Minister_meets_with_AI_developers.jpg"
+  },
+  "anthropic#5": {
+    "file": "V20230504LJ-0199-2.jpg",
+    "src": "/photo/anthropic-6.jpg",
+    "thumb": "/photo/anthropic-6-sm.jpg",
+    "focus": 0.5,
+    "author": "The White House",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "page": "https://commons.wikimedia.org/wiki/File:V20230504LJ-0199-2.jpg"
+  },
+  "anthropic#6": {
+    "file": "Dario Amodei at TechCrunch Disrupt 2023 03.jpg",
+    "src": "/photo/anthropic-7.jpg",
+    "thumb": "/photo/anthropic-7-sm.jpg",
+    "focus": 0.5,
+    "author": "TechCrunch",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Dario_Amodei_at_TechCrunch_Disrupt_2023_03.jpg"
+  },
+  "anthropic#7": {
+    "file": "Sanae Takaichi and Dario Amodei in 2025 (2).jpg",
+    "src": "/photo/anthropic-8.jpg",
+    "thumb": "/photo/anthropic-8-sm.jpg",
+    "focus": 0.5,
+    "author": "Cabinet Secretariat",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Sanae_Takaichi_and_Dario_Amodei_in_2025_(2).jpg"
+  },
+  "nvidia": {
+    "file": "NVIDIA Headquarters.jpg",
+    "src": "/photo/nvidia.jpg",
+    "thumb": "/photo/nvidia-sm.jpg",
+    "focus": 0.5,
+    "author": "Coolcaesar",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:NVIDIA_Headquarters.jpg"
   },
   "nvidia#1": {
     "file": "Nvidia campus aerial.jpg",
@@ -269,25 +169,405 @@
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
     "page": "https://commons.wikimedia.org/wiki/File:Nvidiaheadquarters.jpg"
   },
-  "chiplar": {
-    "file": "Silicon wafer researcher.jpg",
-    "src": "/photo/chiplar.jpg",
-    "thumb": "/photo/chiplar-sm.jpg",
+  "nvidia#3": {
+    "file": "2008Computex Inter-Hall Shuttle 716FL inside.jpg",
+    "src": "/photo/nvidia-4.jpg",
+    "thumb": "/photo/nvidia-4-sm.jpg",
+    "focus": 0.35,
+    "author": "Rico Shen",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:2008Computex_Inter-Hall_Shuttle_716FL_inside.jpg"
+  },
+  "nvidia#4": {
+    "file": "Hannover-Messe 2012 by-RaBoe 063.jpg",
+    "src": "/photo/nvidia-5.jpg",
+    "thumb": "/photo/nvidia-5-sm.jpg",
     "focus": 0.5,
-    "author": "U.S. Department of Energy",
+    "author": "© Ra Boe / Wikipedia Create the proper attribution for your usage by clicking on this button! This file is licensed under the Creative Commons Attribution-Share Alike 3.0 Germany license.Attribution: Ra Boe / Wikipedia You are free: to share – to copy, distribute and transmit the work to remix – to adapt the work Under the following conditions: attribution – You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use. share alike – If you remix, transform, or build upon the material, you must distribute your contributions under the same or compatible license as the original.https://creativecommons.org/licenses/by-sa/3.0/de/deed.enCC BY-SA 3.0 deCreative Commons Attribution-Share Alike 3.0 detruetrue Internet: Titel Foto: Ra Boe / Wikipedia, Original; Lizenz: CC by-sa 3.0 Print: Titel Foto: Ra Boe / Wikipedia, Lizenz: CC by-sa 3.0 I have published this image as author Ra Boe under the \"CC-BY-SA-3.0\" in Wikipedia. This means that free, commercial usage outside of Wikipedia is permitted under the following licence terms: Online media: The author \" RaBoe/Wikipedia \" is named A weblink to the original image is provided: //commons.wikimedia.org/wiki/File:Hannover-Messe_2012_by-RaBoe_063.jpg A copy of, or the Uniform Resource Identifier (https://creativecommons.org/licenses/by-sa/3.0/de/legalcode) for, this License with every copy Print media: The author \" RaBoe/Wikipedia\" is named A copy of, or the Uniform Resource Identifier (https://creativecommons.org/licenses/by-sa/3.0/de/legalcode) for, this License with every copy Please send me a specimen copy or the URL of the website where the image is used. Please write an email to raboe001-at-web.de, if you need the image in a higher resolution need my postal address for sending a specimen copy have further questions about the terms of the licence PS: In case of refusal of the above terms the author reserves the right to take legal action. This license and the rights granted hereunder will terminate automatically upon any breach by you of the terms of this license. In this case the author reserves to demand declaration to cease and desist, and compensation (according to the MFM fee references currently in force). Any of the above conditions can be waived if you get permission from the copyright holder.",
+    "license": "CC BY-SA 3.0 de",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+    "page": "https://commons.wikimedia.org/wiki/File:Hannover-Messe_2012_by-RaBoe_063.jpg"
+  },
+  "nvidia#5": {
+    "file": "CES 2012 - NVIDIA Tesla Model S (6791587356).jpg",
+    "src": "/photo/nvidia-6.jpg",
+    "thumb": "/photo/nvidia-6-sm.jpg",
+    "focus": 0.35,
+    "author": "The Conmunity - Pop Culture Geek from Los Angeles, CA, USA",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:CES_2012_-_NVIDIA_Tesla_Model_S_(6791587356).jpg"
+  },
+  "nvidia#6": {
+    "file": "CES 2012 - NVIDIA Tesla Model S dash (6791587194).jpg",
+    "src": "/photo/nvidia-7.jpg",
+    "thumb": "/photo/nvidia-7-sm.jpg",
+    "focus": 0.35,
+    "author": "The Conmunity - Pop Culture Geek from Los Angeles, CA, USA",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:CES_2012_-_NVIDIA_Tesla_Model_S_dash_(6791587194).jpg"
+  },
+  "nvidia#7": {
+    "file": "CES 2012 - NVIDIA Tesla Model S hatch (6937704731).jpg",
+    "src": "/photo/nvidia-8.jpg",
+    "thumb": "/photo/nvidia-8-sm.jpg",
+    "focus": 0.35,
+    "author": "The Conmunity - Pop Culture Geek from Los Angeles, CA, USA",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:CES_2012_-_NVIDIA_Tesla_Model_S_hatch_(6937704731).jpg"
+  },
+  "nvidia#8": {
+    "file": "CES 2012 - NVIDIA (6791587078).jpg",
+    "src": "/photo/nvidia-9.jpg",
+    "thumb": "/photo/nvidia-9-sm.jpg",
+    "focus": 0.35,
+    "author": "The Conmunity - Pop Culture Geek from Los Angeles, CA, USA",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:CES_2012_-_NVIDIA_(6791587078).jpg"
+  },
+  "nvidia#9": {
+    "file": "CES 2012 - NVIDIA Lamborghini (6764011199).jpg",
+    "src": "/photo/nvidia-10.jpg",
+    "thumb": "/photo/nvidia-10-sm.jpg",
+    "focus": 0.35,
+    "author": "The Conmunity - Pop Culture Geek from Los Angeles, CA, USA",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:CES_2012_-_NVIDIA_Lamborghini_(6764011199).jpg"
+  },
+  "nvidia#10": {
+    "file": "CSIRO ScienceImage 11130 CSIROs colonoscopy simulator developed using the latest computer gaming technology.jpg",
+    "src": "/photo/nvidia-11.jpg",
+    "thumb": "/photo/nvidia-11-sm.jpg",
+    "focus": 0.5,
+    "author": "division, CSIRO",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:CSIRO_ScienceImage_11130_CSIROs_colonoscopy_simulator_developed_using_the_latest_computer_gaming_technology.jpg"
+  },
+  "nvidia#11": {
+    "file": "BBP1.jpg",
+    "src": "/photo/nvidia-12.jpg",
+    "thumb": "/photo/nvidia-12-sm.jpg",
+    "focus": 0.35,
+    "author": "Luokj",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:BBP1.jpg"
+  },
+  "nvidia#12": {
+    "file": "GeForce GTX AllStar Tournament.jpg",
+    "src": "/photo/nvidia-13.jpg",
+    "thumb": "/photo/nvidia-13-sm.jpg",
+    "focus": 0.35,
+    "author": "Alper Çuğun from Berlin, Germany",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:GeForce_GTX_AllStar_Tournament.jpg"
+  },
+  "nvidia#13": {
+    "file": "Computex Taipei at Taipei Nangang Exhibition Center 20160531.jpg",
+    "src": "/photo/nvidia-14.jpg",
+    "thumb": "/photo/nvidia-14-sm.jpg",
+    "focus": 0.5,
+    "author": "NVIDIA Taiwan",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Computex_Taipei_at_Taipei_Nangang_Exhibition_Center_20160531.jpg"
+  },
+  "nvidia#14": {
+    "file": "GeForce GTX 10 Series ad truck in front of Grand Hyatt Taipei 20160531.jpg",
+    "src": "/photo/nvidia-15.jpg",
+    "thumb": "/photo/nvidia-15-sm.jpg",
+    "focus": 0.5,
+    "author": "NVIDIA Taiwan",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:GeForce_GTX_10_Series_ad_truck_in_front_of_Grand_Hyatt_Taipei_20160531.jpg"
+  },
+  "google": {
+    "file": "Sundar Pichai - 2023 (cropped).jpg",
+    "src": "/photo/google.jpg",
+    "thumb": "/photo/google-sm.jpg",
+    "focus": 0.18,
+    "author": "Photographer: Lukasz Kobus (European Commission)",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Sundar_Pichai_-_2023_(cropped).jpg"
+  },
+  "google#1": {
+    "file": "Google I-O 2019.jpg",
+    "src": "/photo/google-2.jpg",
+    "thumb": "/photo/google-2-sm.jpg",
+    "focus": 0.5,
+    "author": "Александр Щербаков",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Google_I-O_2019.jpg"
+  },
+  "google#2": {
+    "file": "Prime Minister Narendra Modi at Google campus.jpg",
+    "src": "/photo/google-3.jpg",
+    "thumb": "/photo/google-3-sm.jpg",
+    "focus": 0.35,
+    "author": "Prime Minister's Office, Government of India",
+    "license": "GODL-India",
+    "licenseUrl": "https://data.gov.in/sites/default/files/Gazette_Notification_OGDL.pdf",
+    "page": "https://commons.wikimedia.org/wiki/File:Prime_Minister_Narendra_Modi_at_Google_campus.jpg"
+  },
+  "google#3": {
+    "file": "Prime Minister Narendra Modi at the stage for Digital India Dinner.jpg",
+    "src": "/photo/google-4.jpg",
+    "thumb": "/photo/google-4-sm.jpg",
+    "focus": 0.5,
+    "author": "Prime Minister's Office, Government of India",
+    "license": "GODL-India",
+    "licenseUrl": "https://data.gov.in/sites/default/files/Gazette_Notification_OGDL.pdf",
+    "page": "https://commons.wikimedia.org/wiki/File:Prime_Minister_Narendra_Modi_at_the_stage_for_Digital_India_Dinner.jpg"
+  },
+  "google#4": {
+    "file": "Prime Minister Narendra Modi with the Satya Nadella of Microsoft, Sundar Pichai of Google, John Chambers of CISCO, Shantanu Narayen of Adobe and Paul Jacobs of Qualcomm.jpg",
+    "src": "/photo/google-5.jpg",
+    "thumb": "/photo/google-5-sm.jpg",
+    "focus": 0.5,
+    "author": "Prime Minister's Office, Government of India",
+    "license": "GODL-India",
+    "licenseUrl": "https://data.gov.in/sites/default/files/Gazette_Notification_OGDL.pdf",
+    "page": "https://commons.wikimedia.org/wiki/File:Prime_Minister_Narendra_Modi_with_the_Satya_Nadella_of_Microsoft,_Sundar_Pichai_of_Google,_John_Chambers_of_CISCO,_Shantanu_Narayen_of_Adobe_and_Paul_Jacobs_of_Qualcomm.jpg"
+  },
+  "google#5": {
+    "file": "Meet Google CEO Sundar Pichai @Hanoi, Vietnam (23811168542).jpg",
+    "src": "/photo/google-6.jpg",
+    "thumb": "/photo/google-6-sm.jpg",
+    "focus": 0.35,
+    "author": "Nguyen Hung Vu from Hanoi, Vietnam",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Meet_Google_CEO_Sundar_Pichai_@Hanoi,_Vietnam_(23811168542).jpg"
+  },
+  "google#6": {
+    "file": "President Obama and Google CEO Sundar Pichai Step Inside the 2016 Global Entrepreneurship Summit (27782910722).jpg",
+    "src": "/photo/google-7.jpg",
+    "thumb": "/photo/google-7-sm.jpg",
+    "focus": 0.5,
+    "author": "GES 2016",
     "license": "Public domain",
     "licenseUrl": "",
-    "page": "https://commons.wikimedia.org/wiki/File:Silicon_wafer_researcher.jpg"
+    "page": "https://commons.wikimedia.org/wiki/File:President_Obama_and_Google_CEO_Sundar_Pichai_Step_Inside_the_2016_Global_Entrepreneurship_Summit_(27782910722).jpg"
   },
-  "sud": {
-    "file": "United States Post Office and Courthouse 2.jpg",
-    "src": "/photo/sud.jpg",
-    "thumb": "/photo/sud-sm.jpg",
+  "google#7": {
+    "file": "Google CEO Sundar Pichai and Supermodel Karlie Kloss.jpg",
+    "src": "/photo/google-8.jpg",
+    "thumb": "/photo/google-8-sm.jpg",
+    "focus": 0.5,
+    "author": "Steve Jurvetson",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Google_CEO_Sundar_Pichai_and_Supermodel_Karlie_Kloss.jpg"
+  },
+  "google#8": {
+    "file": "PC Lab TEAM.jpg",
+    "src": "/photo/google-9.jpg",
+    "thumb": "/photo/google-9-sm.jpg",
     "focus": 0.35,
-    "author": "Doughbo",
+    "author": "Husancheg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:PC_Lab_TEAM.jpg"
+  },
+  "google#9": {
+    "file": "Pedro Sánchez y Sundar Pichai en La Moncloa 20220328 (2).jpg",
+    "src": "/photo/google-10.jpg",
+    "thumb": "/photo/google-10-sm.jpg",
+    "focus": 0.5,
+    "author": "Borja Puig de la Bellacasa",
+    "license": "Attribution",
+    "licenseUrl": "",
+    "page": "https://commons.wikimedia.org/wiki/File:Pedro_S%C3%A1nchez_y_Sundar_Pichai_en_La_Moncloa_20220328_(2).jpg"
+  },
+  "google#10": {
+    "file": "Mateusz Morawiecki spotkał się z CEO Google Sundar Pichai w KPRM (2022.03.29) 01.jpg",
+    "src": "/photo/google-11.jpg",
+    "thumb": "/photo/google-11-sm.jpg",
+    "focus": 0.5,
+    "author": "Krystian Maj",
+    "license": "CC BY 3.0 pl",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0/pl/deed.en",
+    "page": "https://commons.wikimedia.org/wiki/File:Mateusz_Morawiecki_spotka%C5%82_si%C4%99_z_CEO_Google_Sundar_Pichai_w_KPRM_(2022.03.29)_01.jpg"
+  },
+  "google#11": {
+    "file": "Pichai-Jourová meeting (2023).jpg",
+    "src": "/photo/google-12.jpg",
+    "thumb": "/photo/google-12-sm.jpg",
+    "focus": 0.5,
+    "author": "Photographer: Lukasz Kobus (European Commission)",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Pichai-Jourov%C3%A1_meeting_(2023).jpg"
+  },
+  "google#12": {
+    "file": "Pichai-Jourová meeting (2023) 2.jpg",
+    "src": "/photo/google-13.jpg",
+    "thumb": "/photo/google-13-sm.jpg",
+    "focus": 0.5,
+    "author": "Photographer: Lukasz Kobus (European Commission)",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Pichai-Jourov%C3%A1_meeting_(2023)_2.jpg"
+  },
+  "salesforce": {
+    "file": "Salesforce Tower 2020.jpg",
+    "src": "/photo/salesforce.jpg",
+    "thumb": "/photo/salesforce-sm.jpg",
+    "focus": 0.18,
+    "author": "Saggittarius A",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Salesforce_Tower_2020.jpg"
+  },
+  "jensen huang": {
+    "file": "Jensen huang stanford 2026-04-30 007.jpg",
+    "src": "/photo/jensen-huang.jpg",
+    "thumb": "/photo/jensen-huang-sm.jpg",
+    "focus": 0.18,
+    "author": "Anderseidesvik",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Jensen_huang_stanford_2026-04-30_007.jpg"
+  },
+  "apple": {
+    "file": "Apple Park aerial view, June 2024.jpg",
+    "src": "/photo/apple.jpg",
+    "thumb": "/photo/apple-sm.jpg",
+    "focus": 0.35,
+    "author": "Nils Huenerfuerst",
     "license": "CC0",
     "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "page": "https://commons.wikimedia.org/wiki/File:United_States_Post_Office_and_Courthouse_2.jpg"
+    "page": "https://commons.wikimedia.org/wiki/File:Apple_Park_aerial_view,_June_2024.jpg"
+  },
+  "apple#1": {
+    "file": "Capital factory tim cook.jpg",
+    "src": "/photo/apple-2.jpg",
+    "thumb": "/photo/apple-2-sm.jpg",
+    "focus": 0.5,
+    "author": "Austin Community College",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Capital_factory_tim_cook.jpg"
+  },
+  "apple#2": {
+    "file": "The Apple CEO, Mr. Tim Cook calls on the Prime Minister, Shri Narendra Modi, in New Delhi on May 21, 2016 (1).jpg",
+    "src": "/photo/apple-3.jpg",
+    "thumb": "/photo/apple-3-sm.jpg",
+    "focus": 0.5,
+    "author": "Prime Minister's Office",
+    "license": "GODL-India",
+    "licenseUrl": "https://data.gov.in/sites/default/files/Gazette_Notification_OGDL.pdf",
+    "page": "https://commons.wikimedia.org/wiki/File:The_Apple_CEO,_Mr._Tim_Cook_calls_on_the_Prime_Minister,_Shri_Narendra_Modi,_in_New_Delhi_on_May_21,_2016_(1).jpg"
+  },
+  "apple#3": {
+    "file": "The American Workforce Policy Advisory Board Meeting (46394773625).jpg",
+    "src": "/photo/apple-4.jpg",
+    "thumb": "/photo/apple-4-sm.jpg",
+    "focus": 0.5,
+    "author": "The White House from Washington, DC",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "page": "https://commons.wikimedia.org/wiki/File:The_American_Workforce_Policy_Advisory_Board_Meeting_(46394773625).jpg"
+  },
+  "apple#4": {
+    "file": "Professor Lorna M Hughes and Tim Cook, CEO of Apple.jpg",
+    "src": "/photo/apple-5.jpg",
+    "thumb": "/photo/apple-5-sm.jpg",
+    "focus": 0.28,
+    "author": "Usermare",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Professor_Lorna_M_Hughes_and_Tim_Cook,_CEO_of_Apple.jpg"
+  },
+  "apple#5": {
+    "file": "President Trump Tours the Apple Manufacturing Plant (49100010848).jpg",
+    "src": "/photo/apple-6.jpg",
+    "thumb": "/photo/apple-6-sm.jpg",
+    "focus": 0.5,
+    "author": "The White House from Washington, DC",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "page": "https://commons.wikimedia.org/wiki/File:President_Trump_Tours_the_Apple_Manufacturing_Plant_(49100010848).jpg"
+  },
+  "apple#6": {
+    "file": "Steven Mnuchin and Tim Cook at Apple HQ.jpg",
+    "src": "/photo/apple-7.jpg",
+    "thumb": "/photo/apple-7-sm.jpg",
+    "focus": 0.5,
+    "author": "Office of U.S. Treasury Secretary",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "page": "https://commons.wikimedia.org/wiki/File:Steven_Mnuchin_and_Tim_Cook_at_Apple_HQ.jpg"
+  },
+  "apple#7": {
+    "file": "Tim Cook (2017).jpg",
+    "src": "/photo/apple-8.jpg",
+    "thumb": "/photo/apple-8-sm.jpg",
+    "focus": 0.5,
+    "author": "Austin Community College",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Tim_Cook_(2017).jpg"
+  },
+  "apple#8": {
+    "file": "Tim Cook (2017) (cropped).jpg",
+    "src": "/photo/apple-9.jpg",
+    "thumb": "/photo/apple-9-sm.jpg",
+    "focus": 0.18,
+    "author": "Austin Community College",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Tim_Cook_(2017)_(cropped).jpg"
+  },
+  "apple#9": {
+    "file": "Pedro Sánchez y Tim Cook en Palacio de La Moncloa 2018 (3).jpg",
+    "src": "/photo/apple-10.jpg",
+    "thumb": "/photo/apple-10-sm.jpg",
+    "focus": 0.5,
+    "author": "Fernando Calvo Rollán",
+    "license": "Attribution",
+    "licenseUrl": "",
+    "page": "https://commons.wikimedia.org/wiki/File:Pedro_S%C3%A1nchez_y_Tim_Cook_en_Palacio_de_La_Moncloa_2018_(3).jpg"
+  },
+  "apple#10": {
+    "file": "Tim Cook (2017) (cropped2).jpg",
+    "src": "/photo/apple-11.jpg",
+    "thumb": "/photo/apple-11-sm.jpg",
+    "focus": 0.18,
+    "author": "Austin Community College",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Tim_Cook_(2017)_(cropped2).jpg"
+  },
+  "apple#11": {
+    "file": "President Donald Trump delivers inaugural address.jpg",
+    "src": "/photo/apple-12.jpg",
+    "thumb": "/photo/apple-12-sm.jpg",
+    "focus": 0.5,
+    "author": "The Trump White House",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "page": "https://commons.wikimedia.org/wiki/File:President_Donald_Trump_delivers_inaugural_address.jpg"
+  },
+  "apple#12": {
+    "file": "Donald Trump takes the oath of office (2025).jpg",
+    "src": "/photo/apple-13.jpg",
+    "thumb": "/photo/apple-13-sm.jpg",
+    "focus": 0.35,
+    "author": "Joint Congressional Committee on Inaugural Ceremonies",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "page": "https://commons.wikimedia.org/wiki/File:Donald_Trump_takes_the_oath_of_office_(2025).jpg"
   },
   "sam altman": {
     "file": "Sam Altman CropEdit James Tamim.jpg",
@@ -308,5 +588,475 @@
     "license": "CC BY 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
     "page": "https://commons.wikimedia.org/wiki/File:%E2%80%9CSam_Altman%E2%80%9D_by_Village_Global_(Cropped).jpg"
+  },
+  "meta": {
+    "file": "Meta Platforms Headquarters Menlo Park California.jpg",
+    "src": "/photo/meta.jpg",
+    "thumb": "/photo/meta-sm.jpg",
+    "focus": 0.5,
+    "author": "LPS.1",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "page": "https://commons.wikimedia.org/wiki/File:Meta_Platforms_Headquarters_Menlo_Park_California.jpg"
+  },
+  "sud": {
+    "file": "United States Post Office and Courthouse 2.jpg",
+    "src": "/photo/sud.jpg",
+    "thumb": "/photo/sud-sm.jpg",
+    "focus": 0.35,
+    "author": "Doughbo",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "page": "https://commons.wikimedia.org/wiki/File:United_States_Post_Office_and_Courthouse_2.jpg"
+  },
+  "robototexnika": {
+    "file": "Ameca Generation 1.jpg",
+    "src": "/photo/robototexnika.jpg",
+    "thumb": "/photo/robototexnika-sm.jpg",
+    "focus": 0.28,
+    "author": "Willy Jackson",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Ameca_Generation_1.jpg"
+  },
+  "robototexnika#1": {
+    "file": "Ars Electronica 2008 Kotaro.jpg",
+    "src": "/photo/robototexnika-2.jpg",
+    "thumb": "/photo/robototexnika-2-sm.jpg",
+    "focus": 0.35,
+    "author": "Manfred Werner - Tsui",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "page": "https://commons.wikimedia.org/wiki/File:Ars_Electronica_2008_Kotaro.jpg"
+  },
+  "robototexnika#2": {
+    "file": "Deutsches Zentrum für Luft- und Raumfahrt (8115838087).jpg",
+    "src": "/photo/robototexnika-3.jpg",
+    "thumb": "/photo/robototexnika-3-sm.jpg",
+    "focus": 0.18,
+    "author": "DLR German Aerospace Center",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Deutsches_Zentrum_f%C3%BCr_Luft-_und_Raumfahrt_(8115838087).jpg"
+  },
+  "robototexnika#3": {
+    "file": "Ansan 219.jpg",
+    "src": "/photo/robototexnika-4.jpg",
+    "thumb": "/photo/robototexnika-4-sm.jpg",
+    "focus": 0.35,
+    "author": "myself (User:Piotrus)",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Ansan_219.jpg"
+  },
+  "robototexnika#4": {
+    "file": "Atlas frontview 2013.jpg",
+    "src": "/photo/robototexnika-5.jpg",
+    "thumb": "/photo/robototexnika-5-sm.jpg",
+    "focus": 0.18,
+    "author": "DARPA",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "page": "https://commons.wikimedia.org/wiki/File:Atlas_frontview_2013.jpg"
+  },
+  "robototexnika#5": {
+    "file": "Dortmund, DASA, Roboter (1).JPG",
+    "src": "/photo/robototexnika-6.jpg",
+    "thumb": "/photo/robototexnika-6-sm.jpg",
+    "focus": 0.18,
+    "author": "Malchen53",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Dortmund,_DASA,_Roboter_(1).JPG"
+  },
+  "robototexnika#6": {
+    "file": "Diwakar Vaish with his development - Manav at A-SET Robotics Lab.jpg",
+    "src": "/photo/robototexnika-7.jpg",
+    "thumb": "/photo/robototexnika-7-sm.jpg",
+    "focus": 0.5,
+    "author": "Jasonprost",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Diwakar_Vaish_with_his_development_-_Manav_at_A-SET_Robotics_Lab.jpg"
+  },
+  "robototexnika#7": {
+    "file": "Christmas Wrenchman (55407636).jpeg",
+    "src": "/photo/robototexnika-8.jpg",
+    "thumb": "/photo/robototexnika-8-sm.jpg",
+    "focus": 0.18,
+    "author": "Billy L",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Christmas_Wrenchman_(55407636).jpeg"
+  },
+  "robototexnika#8": {
+    "file": "2015 Hackfort-Treefort2015-credit-Christina-Birkinbine 04 (16752876340).jpg",
+    "src": "/photo/robototexnika-9.jpg",
+    "thumb": "/photo/robototexnika-9-sm.jpg",
+    "focus": 0.18,
+    "author": "Treefort Music Fest",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:2015_Hackfort-Treefort2015-credit-Christina-Birkinbine_04_(16752876340).jpg"
+  },
+  "robototexnika#9": {
+    "file": "Gasa forumo 2017 19.jpg",
+    "src": "/photo/robototexnika-10.jpg",
+    "thumb": "/photo/robototexnika-10-sm.jpg",
+    "focus": 0.18,
+    "author": "RG72",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Gasa_forumo_2017_19.jpg"
+  },
+  "robototexnika#10": {
+    "file": "Cognitive Service Robot Cosero.jpg",
+    "src": "/photo/robototexnika-11.jpg",
+    "thumb": "/photo/robototexnika-11-sm.jpg",
+    "focus": 0.18,
+    "author": "Sven Behnke",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Cognitive_Service_Robot_Cosero.jpg"
+  },
+  "robototexnika#11": {
+    "file": "18th Orlando Fringe DSC 1836 (48225879721).jpg",
+    "src": "/photo/robototexnika-12.jpg",
+    "thumb": "/photo/robototexnika-12-sm.jpg",
+    "focus": 0.5,
+    "author": "Orlando Fringe",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:18th_Orlando_Fringe_DSC_1836_(48225879721).jpg"
+  },
+  "robototexnika#12": {
+    "file": "18th Orlando Fringe DSC 1840 (48225877466).jpg",
+    "src": "/photo/robototexnika-13.jpg",
+    "thumb": "/photo/robototexnika-13-sm.jpg",
+    "focus": 0.5,
+    "author": "Orlando Fringe",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:18th_Orlando_Fringe_DSC_1840_(48225877466).jpg"
+  },
+  "chiplar": {
+    "file": "Silicon wafer researcher.jpg",
+    "src": "/photo/chiplar.jpg",
+    "thumb": "/photo/chiplar-sm.jpg",
+    "focus": 0.5,
+    "author": "U.S. Department of Energy",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "page": "https://commons.wikimedia.org/wiki/File:Silicon_wafer_researcher.jpg"
+  },
+  "bulut": {
+    "file": "BalticServers data center.jpg",
+    "src": "/photo/bulut.jpg",
+    "thumb": "/photo/bulut-sm.jpg",
+    "focus": 0.5,
+    "author": "BalticServers.com",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:BalticServers_data_center.jpg"
+  },
+  "bulut#1": {
+    "file": "COMPUTER ROOM DISCHARGE.JPG",
+    "src": "/photo/bulut-2.jpg",
+    "thumb": "/photo/bulut-2-sm.jpg",
+    "focus": 0.35,
+    "author": "Keith4048",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "page": "https://commons.wikimedia.org/wiki/File:COMPUTER_ROOM_DISCHARGE.JPG"
+  },
+  "bulut#2": {
+    "file": "CPD Interdominios.jpg",
+    "src": "/photo/bulut-3.jpg",
+    "thumb": "/photo/bulut-3-sm.jpg",
+    "focus": 0.5,
+    "author": "Ledguer",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:CPD_Interdominios.jpg"
+  },
+  "bulut#3": {
+    "file": "Cabinet Asile.jpg",
+    "src": "/photo/bulut-4.jpg",
+    "thumb": "/photo/bulut-4-sm.jpg",
+    "focus": 0.18,
+    "author": "Robert.Harker",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Cabinet_Asile.jpg"
+  },
+  "bulut#4": {
+    "file": "CRAC Cabinets 2.jpg",
+    "src": "/photo/bulut-5.jpg",
+    "thumb": "/photo/bulut-5-sm.jpg",
+    "focus": 0.35,
+    "author": "Robert.Harker",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:CRAC_Cabinets_2.jpg"
+  },
+  "bulut#5": {
+    "file": "Open Compute Server Front.jpg",
+    "src": "/photo/bulut-6.jpg",
+    "thumb": "/photo/bulut-6-sm.jpg",
+    "focus": 0.18,
+    "author": "Robert.Harker",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Open_Compute_Server_Front.jpg"
+  },
+  "bulut#6": {
+    "file": "Open Compute 1U Drive Tray Bent.jpg",
+    "src": "/photo/bulut-7.jpg",
+    "thumb": "/photo/bulut-7-sm.jpg",
+    "focus": 0.18,
+    "author": "Robert.Harker",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Open_Compute_1U_Drive_Tray_Bent.jpg"
+  },
+  "bulut#7": {
+    "file": "Open Compute 1U Drive Tray Flat.jpg",
+    "src": "/photo/bulut-8.jpg",
+    "thumb": "/photo/bulut-8-sm.jpg",
+    "focus": 0.5,
+    "author": "Robert.Harker",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Open_Compute_1U_Drive_Tray_Flat.jpg"
+  },
+  "bulut#8": {
+    "file": "Open Compute Server Rear.jpg",
+    "src": "/photo/bulut-9.jpg",
+    "thumb": "/photo/bulut-9-sm.jpg",
+    "focus": 0.18,
+    "author": "Robert.Harker",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Open_Compute_Server_Rear.jpg"
+  },
+  "bulut#9": {
+    "file": "CSC1941.JPG",
+    "src": "/photo/bulut-10.jpg",
+    "thumb": "/photo/bulut-10-sm.jpg",
+    "focus": 0.5,
+    "author": "Alexkisi",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:CSC1941.JPG"
+  },
+  "bulut#10": {
+    "file": "CERIT data center 2014-09-19 (2).jpg",
+    "src": "/photo/bulut-11.jpg",
+    "thumb": "/photo/bulut-11-sm.jpg",
+    "focus": 0.35,
+    "author": "Venca24",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:CERIT_data_center_2014-09-19_(2).jpg"
+  },
+  "bulut#11": {
+    "file": "Data Center (22370911658).jpg",
+    "src": "/photo/bulut-12.jpg",
+    "thumb": "/photo/bulut-12-sm.jpg",
+    "focus": 0.5,
+    "author": "Carl Lender from Sunrise, USA",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Data_Center_(22370911658).jpg"
+  },
+  "microsoft": {
+    "file": "Aerial Microsoft West Campus August 2009.jpg",
+    "src": "/photo/microsoft.jpg",
+    "thumb": "/photo/microsoft-sm.jpg",
+    "focus": 0.5,
+    "author": "Jelson25",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "page": "https://commons.wikimedia.org/wiki/File:Aerial_Microsoft_West_Campus_August_2009.jpg"
+  },
+  "microsoft#1": {
+    "file": "Satya Nadella.jpg",
+    "src": "/photo/microsoft-2.jpg",
+    "thumb": "/photo/microsoft-2-sm.jpg",
+    "focus": 0.35,
+    "author": "OFFICIAL LEWEB PHOTOS",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Satya_Nadella.jpg"
+  },
+  "microsoft#2": {
+    "file": "MM SatyaNadella.jpg",
+    "src": "/photo/microsoft-3.jpg",
+    "thumb": "/photo/microsoft-3-sm.jpg",
+    "focus": 0.5,
+    "author": "Presidencia de la Nación Argentina",
+    "license": "CC BY 2.5 ar",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/ar/deed.en",
+    "page": "https://commons.wikimedia.org/wiki/File:MM_SatyaNadella.jpg"
+  },
+  "microsoft#3": {
+    "file": "MS-Exec-Nadella-Satya-2017-08-31-8-2.jpg",
+    "src": "/photo/microsoft-4.jpg",
+    "thumb": "/photo/microsoft-4-sm.jpg",
+    "focus": 0.18,
+    "author": "Brian Smale and Microsoft",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:MS-Exec-Nadella-Satya-2017-08-31-8-2.jpg"
+  },
+  "microsoft#4": {
+    "file": "Satya smiling-print.jpg",
+    "src": "/photo/microsoft-5.jpg",
+    "thumb": "/photo/microsoft-5-sm.jpg",
+    "focus": 0.5,
+    "author": "Brian Smale and Microsoft",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Satya_smiling-print.jpg"
+  },
+  "microsoft#5": {
+    "file": "The CEO of Microsoft, Shri Satya Narayana Nadella meeting the Union Minister for Electronics & Information Technology and Law & Justice, Shri Ravi Shankar Prasad, in New Delhi on February 21, 2017.jpg",
+    "src": "/photo/microsoft-6.jpg",
+    "thumb": "/photo/microsoft-6-sm.jpg",
+    "focus": 0.28,
+    "author": "Ministry of Electronics &amp; IT, Government of India",
+    "license": "GODL-India",
+    "licenseUrl": "https://data.gov.in/sites/default/files/Gazette_Notification_OGDL.pdf",
+    "page": "https://commons.wikimedia.org/wiki/File:The_CEO_of_Microsoft,_Shri_Satya_Narayana_Nadella_meeting_the_Union_Minister_for_Electronics_%26_Information_Technology_and_Law_%26_Justice,_Shri_Ravi_Shankar_Prasad,_in_New_Delhi_on_February_21,_2017.jpg"
+  },
+  "microsoft#6": {
+    "file": "Satya smiling-print (cropped).jpg",
+    "src": "/photo/microsoft-7.jpg",
+    "thumb": "/photo/microsoft-7-sm.jpg",
+    "focus": 0.28,
+    "author": "Brian Smale and Microsoft",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Satya_smiling-print_(cropped).jpg"
+  },
+  "microsoft#7": {
+    "file": "Satya Nadella, CEO of Microsoft, with former CEOs Bill Gates, and Steve Ballmer.jpg",
+    "src": "/photo/microsoft-8.jpg",
+    "thumb": "/photo/microsoft-8-sm.jpg",
+    "focus": 0.5,
+    "author": "Briansmale",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Satya_Nadella,_CEO_of_Microsoft,_with_former_CEOs_Bill_Gates,_and_Steve_Ballmer.jpg"
+  },
+  "microsoft#8": {
+    "file": "MS-Exec-Nadella-Satya-2017-08-31-22 (cropped).jpg",
+    "src": "/photo/microsoft-9.jpg",
+    "thumb": "/photo/microsoft-9-sm.jpg",
+    "focus": 0.18,
+    "author": "Brian Smale and Microsoft",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:MS-Exec-Nadella-Satya-2017-08-31-22_(cropped).jpg"
+  },
+  "microsoft#9": {
+    "file": "President Joe Biden drops by a meeting with Vice President Kamala Harris and AI CEO’s on May 4, 2023 in the Roosevelt Room of the White House - P20230504AS-0693.jpg",
+    "src": "/photo/microsoft-10.jpg",
+    "thumb": "/photo/microsoft-10-sm.jpg",
+    "focus": 0.5,
+    "author": "The White House",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "page": "https://commons.wikimedia.org/wiki/File:President_Joe_Biden_drops_by_a_meeting_with_Vice_President_Kamala_Harris_and_AI_CEO%E2%80%99s_on_May_4,_2023_in_the_Roosevelt_Room_of_the_White_House_-_P20230504AS-0693.jpg"
+  },
+  "microsoft#10": {
+    "file": "Satya Nadella Gears of War 4 Gold Master.jpg",
+    "src": "/photo/microsoft-11.jpg",
+    "thumb": "/photo/microsoft-11-sm.jpg",
+    "focus": 0.5,
+    "author": "Microsoft Corporation",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Satya_Nadella_Gears_of_War_4_Gold_Master.jpg"
+  },
+  "microsoft#11": {
+    "file": "F20250904AH-2619 (54778707405).jpg",
+    "src": "/photo/microsoft-12.jpg",
+    "thumb": "/photo/microsoft-12-sm.jpg",
+    "focus": 0.5,
+    "author": "The White House",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "page": "https://commons.wikimedia.org/wiki/File:F20250904AH-2619_(54778707405).jpg"
+  },
+  "pentagon": {
+    "file": "Aerial Closeup of the Pentagon, May 11, 2021.jpg",
+    "src": "/photo/pentagon.jpg",
+    "thumb": "/photo/pentagon-sm.jpg",
+    "focus": 0.5,
+    "author": "Air Force Staff Sgt. Brittany A. Chase, DOD",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "page": "https://commons.wikimedia.org/wiki/File:Aerial_Closeup_of_the_Pentagon,_May_11,_2021.jpg"
+  },
+  "mediatek": {
+    "file": "MediaTek Taipei Branch in Hall C, Solar Technology Square 20191103.jpg",
+    "src": "/photo/mediatek.jpg",
+    "thumb": "/photo/mediatek-sm.jpg",
+    "focus": 0.18,
+    "author": "Solomon203",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:MediaTek_Taipei_Branch_in_Hall_C,_Solar_Technology_Square_20191103.jpg"
+  },
+  "mediatek#1": {
+    "file": "MediaTek Taipei Branch in Solar Technology Square C building 2016-05-24.jpg",
+    "src": "/photo/mediatek-2.jpg",
+    "thumb": "/photo/mediatek-2-sm.jpg",
+    "focus": 0.18,
+    "author": "Padai",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:MediaTek_Taipei_Branch_in_Solar_Technology_Square_C_building_2016-05-24.jpg"
+  },
+  "mediatek#2": {
+    "file": "MediaTek Taipei Branch in Hall C, Solar Technology Square 20110217.jpg",
+    "src": "/photo/mediatek-3.jpg",
+    "thumb": "/photo/mediatek-3-sm.jpg",
+    "focus": 0.18,
+    "author": "Solomon203",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:MediaTek_Taipei_Branch_in_Hall_C,_Solar_Technology_Square_20110217.jpg"
+  },
+  "asml": {
+    "file": "ASML headquarters Veldhoven.jpg",
+    "src": "/photo/asml.jpg",
+    "thumb": "/photo/asml-sm.jpg",
+    "focus": 0.35,
+    "author": "A ansems",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "page": "https://commons.wikimedia.org/wiki/File:ASML_headquarters_Veldhoven.jpg"
+  },
+  "donald tramp": {
+    "file": "Donald Trump official portrait (cropped).jpg",
+    "src": "/photo/donald-tramp.jpg",
+    "thumb": "/photo/donald-tramp-sm.jpg",
+    "focus": 0.18,
+    "author": "Shealeah Craighead",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "page": "https://commons.wikimedia.org/wiki/File:Donald_Trump_official_portrait_(cropped).jpg"
+  },
+  "endryu beyli": {
+    "file": "Andrew Bailey and Jane Hartley.jpg",
+    "src": "/photo/endryu-beyli.jpg",
+    "thumb": "/photo/endryu-beyli-sm.jpg",
+    "focus": 0.18,
+    "author": "Office of U.S. Ambassador to U.K.",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "page": "https://commons.wikimedia.org/wiki/File:Andrew_Bailey_and_Jane_Hartley.jpg"
   }
 }

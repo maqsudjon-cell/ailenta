@@ -61,5 +61,42 @@
   "fokus_izoh": "Kesish markazi ODATDA O'ZI hisoblanadi (src/photos.mjs dagi autoFocus, surat nisbatiga qarab). Bu ro'yxat faqat qoida xato bo'lgan kamdan-kam hollar uchun: 0 = tepa, 1 = past.",
   "fokus": {
     "robototexnika": 0.04
+  },
+  "kategoriyalar_izoh": "Commons KATEGORIYALARI — surat havzasi shulardan yig'iladi (node src/photo-pool.mjs). Kategoriya qo'lda tanlangan: kalit so'z qidiruvi aloqasiz natija beradi. Kategoriya nomi ham ehtiyot bilan tanlanadi — masalan 'Anthropic' kategoriyasida antropologiya buyumlari bor, shuning uchun uning o'rniga 'Dario Amodei' ishlatiladi. Umumiy texnika kategoriyalari (Semiconductors, Microsoft, Artificial intelligence) ATAYLAB olib tashlangan: ular ilmiy mikrofotosurat, o'yin ko'rgazmasi va chizmalar beradi — AI xabari uchun yaroqsiz. Meta uchun Commons'da yaroqli kategoriya YO'Q: 'Facebook, Inc.' va 'Meta Platforms headquarters' bo'sh, 'Mark Zuckerberg' da imzo rasmi, 'Menlo Park' da esa maktab binosi chiqadi. Shuning uchun Meta qo'lda tanlangan surat bilan qoladi.",
+  "kategoriyalar": {
+    "anthropic": [
+      "Dario Amodei"
+    ],
+    "openai": [
+      "OpenAI",
+      "Sam Altman"
+    ],
+    "nvidia": [
+      "Nvidia",
+      "Jen-Hsun Huang"
+    ],
+    "google": [
+      "Sundar Pichai"
+    ],
+    "microsoft": [
+      "Satya Nadella"
+    ],
+    "apple": [
+      "Tim Cook"
+    ],
+    "bulut": [
+      "Data centers",
+      "Server rooms"
+    ],
+    "malumotlar markazi": [
+      "Data centers",
+      "Server rooms"
+    ],
+    "robototexnika": [
+      "Humanoid robots"
+    ],
+    "superkompyuter": [
+      "Supercomputers"
+    ]
   }
 }
