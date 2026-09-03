@@ -1,5 +1,50 @@
 [
   {
+    "id": "a4152028c58c",
+    "slug": "humain-minimax-bilan-arab-tilidagi-ai-modelini-chiqardi-a41520",
+    "title": "Humain MiniMax bilan arab tilidagi AI modelini chiqardi",
+    "summary": "Saudiya Arabistonining Humain kompaniyasi MiniMax bilan hamkorlikda humain-m3 nomli arab tilidagi AI modelini ishga tushirdi. Bu model Xitoy laboratoriyasining ochiq modeliga asoslangan.",
+    "tags": [
+      "Humain",
+      "ochiq model"
+    ],
+    "importance": 3,
+    "score": 21,
+    "published": "2026-09-03T17:30:00.000Z",
+    "created": "2026-09-03T18:01:12.672Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/260903/p31",
+      "title": "Humain launches humain-m3, an Arabic-language model developed with MiniMax, amid controversy among US allies over sovereign AI built with Chinese models (Bloomberg)",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "572ac5877866",
+    "slug": "thinking-machines-lab-1-milliard-dollar-jalb-qilmoqchi-572ac5",
+    "title": "Thinking Machines Lab 1 milliard dollar jalb qilmoqchi",
+    "summary": "OpenAI sobiq texnik direktori Mira Murati boshchiligidagi Thinking Machines Lab kamida 1 milliard dollar investitsiya jalb qilish bo'yicha muzokaralar olib bormoqda. Kompaniya 40 milliard dollardan ortiqqa baholanmoqda. Bu ko'rsatkich o'tgan yilgi 50 milliard dollarlik kutilmadan pastroq.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 4,
+    "score": 18,
+    "published": "2026-09-03T17:53:02.000Z",
+    "created": "2026-09-03T18:01:22.106Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/260903/p32",
+      "title": "Sources: Mira Murati's Thinking Machines Lab is in talks to raise $1B+ at a $40B+ pre-money valuation, lower than the $50B+ valuation it sought last year (The Information)",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "7924d5f10a84",
     "slug": "elektr-tarmoqlari-ai-talabiga-yetib-olishga-ulgurmayapti-7924d5",
     "title": "Elektr tarmoqlari AI talabiga yetib olishga ulgurmayapti",
