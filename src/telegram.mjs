@@ -90,23 +90,94 @@ async function api(method, body) {
 // Rasm URL bilan emas, fayl bo'lib yuboriladi: bu qadam saytga chiqishdan
 // oldin ishlaydi, ya'ni havola hali mavjud emas va Telegram uni yuklab
 // ololmaydi ("failed to get HTTP URL content").
-// To'plam posti: sarlavha havola bo'ladi, tagida manba. Rasm yo'q —
-// o'nlab rasm kanalni og'irlashtiradi va bu post o'qish uchun emas,
-// ko'z yugurtirish uchun.
-export function roundupMessage(items, stamp) {
-  const lines = [
-    `<b>Yana nimalar bo'ldi</b>`,
-    `<i>${esc(stamp)} holatiga · ${items.length} ta xabar</i>`,
-    "",
-  ];
-  for (const p of items) {
-    lines.push(
-      `• <a href="${SITE.url}/x/${esc(p.slug)}/">${esc(p.title)}</a>`,
-      `  <i>${esc(p.source.name)}</i>`,
-    );
+// ---------- to'plam posti ----------
+//
+// Birinchi variant oddiy nuqtali ro'yxat edi va zerikarli chiqdi: 12 ta
+// bir xil ko'rinishdagi qator, manba nomi alohida qatorda joy yeydi,
+// ko'z hech narsaga ilashmaydi.
+//
+// Endi xabarlar mavzu bo'yicha guruhlanadi va har biri BITTA qatorda
+// turadi. Mahalliy xabarlar eng tepada: o'zbek o'quvchisi uchun eng
+// qimmatli farq shu, uni ro'yxat o'rtasida ko'mib yuborish bema'nilik.
+const UZ_SOURCES = new Set(["Pivot", "Spot.uz", "Daryo", "Gazeta.uz", "Kun.uz", "UzDaily", "Review.uz"]);
+
+// Tartib muhim: ro'yxat yuqoridan pastga shu ketma-ketlikda chiqadi.
+const GROUPS = [
+  { key: "uz",       label: "O'ZBEKISTON",   emoji: "🇺🇿" },
+  { key: "xavf",     label: "XAVFSIZLIK",    emoji: "🔐", tags: ["xavfsizlik", "maxfiylik"] },
+  { key: "siyosat",  label: "SIYOSAT",       emoji: "⚖️", tags: ["siyosat", "qonun", "sud", "tartibga solish"] },
+  { key: "biznes",   label: "BIZNES",        emoji: "💼", tags: ["biznes", "iqtisod", "ipo", "mehnat bozori", "investitsiya"] },
+  { key: "model",    label: "MODELLAR",      emoji: "🧠", tags: ["tadqiqot", "agentlar", "chatbot"] },
+  { key: "temir",    label: "CHIP VA BULUT", emoji: "⚙️", tags: ["chiplar", "bulut", "ma'lumotlar markazi", "robototexnika"] },
+  { key: "jamiyat",  label: "JAMIYAT",       emoji: "🏥", tags: ["tibbiyot", "ta'lim", "jamiyat", "madaniyat"] },
+  // Ko'p xabar FAQAT kompaniya nomi bilan teglanadi (masalan [Meta] yoki
+  // [Nvidia, Hugging Face]) — mavzu tegi umuman bo'lmaydi, chunki xabar
+  // aynan o'sha kompaniya haqida. Ular oxirgi guruhga tushadi, aks holda
+  // "qolganlari" ro'yxatning yarmini egallab ketardi.
+  { key: "kompaniya", label: "KOMPANIYALAR", emoji: "🏢", tags: [
+    "anthropic", "openai", "google", "meta", "nvidia", "microsoft", "apple",
+    "hugging face", "amazon", "xai", "mistral", "deepseek", "salesforce",
+    "oracle", "tesla", "ibm", "qualcomm", "amd", "intel", "samsung",
+  ] },
+];
+const OTHER = { label: "QOLGANLARI", emoji: "📌" };
+
+function groupOf(p) {
+  if (UZ_SOURCES.has(p.source.name)) return "uz";
+  const tags = (p.tags || []).map((t) => String(t).toLowerCase());
+  for (const g of GROUPS) {
+    if (g.tags && g.tags.some((t) => tags.includes(t))) return g.key;
   }
-  lines.push("", `Batafsil: ${SITE.url}`, `@${SITE.telegram}`);
-  return lines.join("\n");
+  return "other";
+}
+
+export function roundupMessage(items, stamp) {
+  const line = (p) =>
+    `→ <a href="${SITE.url}/x/${esc(p.slug)}/">${esc(p.title)}</a> · <i>${esc(p.source.name)}</i>`;
+
+  const out = [
+    `⚡️ <b>Qisqacha · ${items.length} ta xabar</b>`,
+    `<i>${esc(stamp)}</i>`,
+  ];
+
+  // To'rttadan kam bo'lsa guruhlash ortiqcha — sarlavhalar mazmundan
+  // ko'proq joy egallab ketadi.
+  if (items.length < 4) {
+    out.push("", ...items.map(line));
+  } else {
+    const bins = new Map();
+    for (const p of items) {
+      const k = groupOf(p);
+      if (!bins.has(k)) bins.set(k, []);
+      bins.get(k).push(p);
+    }
+    // Guruh soni cheklanadi. 12 ta xabarga 8 ta sarlavha ko'p — post
+    // maydalanib, sarlavhalar mazmundan ko'proq joy egallaydi. Eng katta
+    // guruhlar qoladi, bittalik guruhlar oxiriga yig'iladi.
+    //
+    // O'zbekiston bundan mustasno: u bitta xabar bo'lsa ham o'z sarlavhasi
+    // bilan chiqadi, chunki bu kanal uchun eng qimmatli farq.
+    const MAX_GROUPS = 5;
+    const ranked = GROUPS
+      .filter((g) => bins.get(g.key)?.length)
+      .sort((a, b) => (b.key === "uz") - (a.key === "uz")
+        || bins.get(b.key).length - bins.get(a.key).length);
+    const keep = new Set(ranked.slice(0, MAX_GROUPS).map((g) => g.key));
+
+    for (const g of GROUPS) {
+      const list = bins.get(g.key);
+      if (!list || !list.length || !keep.has(g.key)) continue;
+      out.push("", `${g.emoji} <b>${g.label}</b>`, ...list.map(line));
+      bins.delete(g.key);
+    }
+    // Guruhga tushmaganlar va chegaradan chiqqan kichik guruhlar.
+    const rest = [...bins.values()].flat()
+      .sort((a, b) => b.published.localeCompare(a.published));
+    if (rest.length) out.push("", `${OTHER.emoji} <b>${OTHER.label}</b>`, ...rest.map(line));
+  }
+
+  out.push("", `Hammasi saytda → ${SITE.url}`, `@${SITE.telegram}`);
+  return out.join("\n");
 }
 
 async function sendPhotoFile(text, filePath) {
