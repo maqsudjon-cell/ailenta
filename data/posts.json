@@ -1,21 +1,67 @@
 [
   {
-    "id": "2a5fe0f4a790",
-    "slug": "virjiniyadagi-malumotlar-markazlari-hududi-organildi-2a5fe0",
-    "title": "Virjiniyadagi ma'lumotlar markazlari hududi o'rganildi",
-    "summary": "AQShning Virjiniya shtatidagi Loudoun okrugi \"Ma'lumotlar markazlari xiyoboni\" deb nomlanib, unda 250 ga yaqin ma'lumotlar markazi joylashgan. Ushbu hudud sun'iy intellekt infratuzilmasining mahalliy jamoalarga ko'rsatadigan ta'sirini yaqqol namoyon etadi.",
+    "id": "58140a51e575",
+    "slug": "broadcom-kelgusi-ikki-yilda-ai-chip-sotuvi-osishini-kutmoqda-58140a",
+    "title": "Broadcom kelgusi ikki yilda AI chip sotuvi o'sishini kutmoqda",
+    "summary": "Broadcom kompaniyasi kelgusi ikki yil ichida AI chiplari sotuvi sezilarli darajada oshishini prognoz qildi. Biroq, kompaniya joriy chorakdagi sotuvlar bo'yicha kutilganidan pastroq ko'rsatkichlarni bashorat qilmoqda.",
     "tags": [
-      "bulut"
+      "Broadcom",
+      "chiplar"
+    ],
+    "importance": 4,
+    "score": 39,
+    "published": "2026-09-02T22:39:36.000Z",
+    "created": "2026-09-03T03:02:35.224Z",
+    "coverage": 3,
+    "source": {
+      "name": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYktLOGJKZW5pZDR4S3h6eUhHMnlBa29wOVdXblk5VWhUVDBNUWNFWUJRdklNTmhtNGxFVXdwdU93MW1MTDVtbkF0SS1xdFZNblZvTUUwaFpZQjJ2bVNWZ3lfN2xQTG5mRFh3RFBueGlwRGRJRGV2Q2YxczhQcjc2cl9nZzdOWUpFNFlTY3UwV3E5RUF4S0ZyZFhHbTFUMWxVaU9OcDA2aEk5SW1rc1E",
+      "title": "Broadcom Predicts Surge in AI Chip Sales Over Next Two Years",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "2a5fe0f4a790",
+    "slug": "virjiniyadagi-malumotlar-markazi-xiyoboni-2a5fe0",
+    "title": "Virjiniyadagi \"Ma'lumotlar markazi xiyoboni\"",
+    "summary": "Virjiniya shtatining Loudoun okrugi \"Ma'lumotlar markazi xiyoboni\" deb nomlanib, unda 250 ga yaqin ma'lumotlar markazi joylashgan. Bu hudud AQSh bo'ylab qurilayotgan yirik AI infratuzilmasining jamoalarga ta'sirini ko'rsatadi.",
+    "tags": [
+      "bulut",
+      "siyosat"
     ],
     "importance": 3,
     "score": 18,
     "published": "2026-09-03T01:35:02.000Z",
-    "created": "2026-09-03T03:00:58.974Z",
+    "created": "2026-09-03T03:02:35.225Z",
     "coverage": 1,
     "source": {
       "name": "Techmeme",
       "url": "https://techmeme.com/260902/p48",
       "title": "A look at Loudoun County, Virginia, dubbed \"Data Center Alley\", which hosts ~250 data centers and offers a glimpse into data centers' impact on communities (Lauren Feiner/The Verge)",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "e2ff80d25a21",
+    "slug": "irobot-yangi-roomba-changyutgichlarini-taqdim-etdi-e2ff80",
+    "title": "iRobot yangi Roomba changyutgichlarini taqdim etdi",
+    "summary": "iRobot kompaniyasi IFA 2026 ko'rgazmasida o'zining eng kuchli robotlarini namoyish qildi. Taqdimotda 1199 dollarlik Roomba Max 875 Combo va 899 dollarlik Roomba Plus 678 Combo modellari e'lon qilindi.",
+    "tags": [
+      "robototexnika"
+    ],
+    "importance": 3,
+    "score": 13.6,
+    "published": "2026-09-02T11:34:36.000Z",
+    "created": "2026-09-03T03:02:48.864Z",
+    "coverage": 1,
+    "source": {
+      "name": "Engadget",
+      "url": "https://engadget.com/2249331/irobot-roomba-max-875-plus-678-combo",
+      "title": "iRobot's new $1,199 Roomba Max 875 Combo is its most powerful robot yet",
       "indirect": false
     },
     "also": [],
