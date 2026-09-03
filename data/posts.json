@@ -1,5 +1,27 @@
 [
   {
+    "id": "9eff64c42b6e",
+    "slug": "ai-kontentini-aniqlash-nega-qiyinlashmoqda-9eff64",
+    "title": "AI kontentini aniqlash nega qiyinlashmoqda",
+    "summary": "Pangram vakili Maks Spero sun'iy intellekt yaratgan kontentni aniqlash tobora murakkablashayotganini bildirdi. Uning ta'kidlashicha, AI matnlari va tasvirlari endilikda ishga arizalar, mahsulot sharhlari hamda sug'urta da'volarida ham keng uchramoqda.",
+    "tags": [
+      "xavfsizlik"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-09-02T17:18:13.000Z",
+    "created": "2026-09-03T05:21:11.008Z",
+    "coverage": 1,
+    "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake",
+      "title": "Pangram’s Max Spero on why AI detection is harder than ‘Real or Fake’",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "eec006df3386",
     "slug": "obsidian-uchun-tome-reader-plaginida-ai-yordamchisi-eec006",
     "title": "Obsidian uchun Tome Reader plaginida AI yordamchisi",
