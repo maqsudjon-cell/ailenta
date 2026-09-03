@@ -66,6 +66,17 @@ jobs:
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: node src/telegram.mjs
 
+      # Kunlik dayjest. Vaqtni skriptning o'zi hal qiladi: Toshkent bo'yicha
+      # 20:00 dan keyin va bugun hali chiqmagan bo'lsa yuboradi. Ilgari u
+      # alohida ish oqimida, GitHub jadvaliga bog'liq edi — GitHub esa
+      # kuniga 1-2 marta ishlaydi va dayjest umuman chiqmay qolishi mumkin edi.
+      - name: Kunlik dayjest
+        continue-on-error: true
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: node src/digest.mjs
+
       # Instagram tokeni 60 kunda tugaydi. Qo'lda yangilash esdan chiqadi,
       # shuning uchun muddat yaqinlashganda o'zi yangilanadi. Bu qadam
       # nashrdan OLDIN turadi — muddat fayli shu commit bilan saqlansin.

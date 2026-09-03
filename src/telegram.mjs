@@ -26,26 +26,16 @@ const MIN_IMPORTANCE = Number(process.env.TELEGRAM_MIN_IMPORTANCE || 4);
 // Chegarani ko'tarish yordam bermaydi: LLM eng yuqori baho sifatida 4 qo'yadi,
 // 5 hech qachon chiqmaydi. Ya'ni MIN_IMPORTANCE=5 kanalni butunlay jimitardi.
 // Shuning uchun muhimlik emas, TEZLIK cheklanadi.
-// Kanal ikki xil post chiqaradi.
+// Kuniga 5 ta alohida post, kun bo'yi tarqatilgan. Kunlik yakun alohida
+// dayjest posti bilan chiqadi (src/digest.mjs, kechqurun).
 //
-// Sabab: kuniga ~100 xabar chiqadi, ulardan ~25 tasi muhimlik 4. Har birini
-// alohida post qilsak kanal yashab qolmaydi; chegara qo'ysak esa yaxshi
-// xabarlar navbatda eskirib yo'qoladi (o'lchandi: chegara 8 bo'lganda
-// 24 ta xabar navbatda qolib ketgan).
-//
-// Yechim — hajmni emas, SHAKLNI o'zgartirish:
-//   1. Eng muhimlari  → alohida post, rasm va xulosa bilan
-//   2. Qolganlari     → bir necha soatda bir marta bitta TO'PLAM posti
-//
-// Shunda muhim xabarlarning hammasi kanalga yetib boradi, lekin post soni
-// kuniga ~10 tadan oshmaydi.
-const TOP_PER_DAY = Number(process.env.TELEGRAM_TOP_PER_DAY || 6);
-const TOP_GAP_MIN = Number(process.env.TELEGRAM_TOP_GAP_MIN || 75);
+// Ilgari bu yerda "to'plam" posti ham bor edi — muhim xabarlarning
+// hammasini bir postga yig'ib yuborardi. U olib tashlandi: alohida
+// postlar o'qilishi va ko'rinishi bo'yicha ancha ustun, kunlik yakun
+// esa dayjestda baribir beriladi.
+const TOP_PER_DAY = Number(process.env.TELEGRAM_TOP_PER_DAY || 5);
+const TOP_GAP_MIN = Number(process.env.TELEGRAM_TOP_GAP_MIN || 150);
 const PER_RUN = Number(process.env.TELEGRAM_PER_RUN || 1);
-
-const ROUNDUP_EVERY_MIN = Number(process.env.TELEGRAM_ROUNDUP_EVERY_MIN || 200);
-const ROUNDUP_MIN = Number(process.env.TELEGRAM_ROUNDUP_MIN || 3);
-const ROUNDUP_MAX = Number(process.env.TELEGRAM_ROUNDUP_MAX || 12);
 
 const MAX_AGE_HOURS = Number(process.env.TELEGRAM_MAX_AGE_HOURS || 30);
 
@@ -90,96 +80,6 @@ async function api(method, body) {
 // Rasm URL bilan emas, fayl bo'lib yuboriladi: bu qadam saytga chiqishdan
 // oldin ishlaydi, ya'ni havola hali mavjud emas va Telegram uni yuklab
 // ololmaydi ("failed to get HTTP URL content").
-// ---------- to'plam posti ----------
-//
-// Birinchi variant oddiy nuqtali ro'yxat edi va zerikarli chiqdi: 12 ta
-// bir xil ko'rinishdagi qator, manba nomi alohida qatorda joy yeydi,
-// ko'z hech narsaga ilashmaydi.
-//
-// Endi xabarlar mavzu bo'yicha guruhlanadi va har biri BITTA qatorda
-// turadi. Mahalliy xabarlar eng tepada: o'zbek o'quvchisi uchun eng
-// qimmatli farq shu, uni ro'yxat o'rtasida ko'mib yuborish bema'nilik.
-const UZ_SOURCES = new Set(["Pivot", "Spot.uz", "Daryo", "Gazeta.uz", "Kun.uz", "UzDaily", "Review.uz"]);
-
-// Tartib muhim: ro'yxat yuqoridan pastga shu ketma-ketlikda chiqadi.
-const GROUPS = [
-  { key: "uz",       label: "O'ZBEKISTON",   emoji: "🇺🇿" },
-  { key: "xavf",     label: "XAVFSIZLIK",    emoji: "🔐", tags: ["xavfsizlik", "maxfiylik"] },
-  { key: "siyosat",  label: "SIYOSAT",       emoji: "⚖️", tags: ["siyosat", "qonun", "sud", "tartibga solish"] },
-  { key: "biznes",   label: "BIZNES",        emoji: "💼", tags: ["biznes", "iqtisod", "ipo", "mehnat bozori", "investitsiya"] },
-  { key: "model",    label: "MODELLAR",      emoji: "🧠", tags: ["tadqiqot", "agentlar", "chatbot"] },
-  { key: "temir",    label: "CHIP VA BULUT", emoji: "⚙️", tags: ["chiplar", "bulut", "ma'lumotlar markazi", "robototexnika"] },
-  { key: "jamiyat",  label: "JAMIYAT",       emoji: "🏥", tags: ["tibbiyot", "ta'lim", "jamiyat", "madaniyat"] },
-  // Ko'p xabar FAQAT kompaniya nomi bilan teglanadi (masalan [Meta] yoki
-  // [Nvidia, Hugging Face]) — mavzu tegi umuman bo'lmaydi, chunki xabar
-  // aynan o'sha kompaniya haqida. Ular oxirgi guruhga tushadi, aks holda
-  // "qolganlari" ro'yxatning yarmini egallab ketardi.
-  { key: "kompaniya", label: "KOMPANIYALAR", emoji: "🏢", tags: [
-    "anthropic", "openai", "google", "meta", "nvidia", "microsoft", "apple",
-    "hugging face", "amazon", "xai", "mistral", "deepseek", "salesforce",
-    "oracle", "tesla", "ibm", "qualcomm", "amd", "intel", "samsung",
-  ] },
-];
-const OTHER = { label: "QOLGANLARI", emoji: "📌" };
-
-function groupOf(p) {
-  if (UZ_SOURCES.has(p.source.name)) return "uz";
-  const tags = (p.tags || []).map((t) => String(t).toLowerCase());
-  for (const g of GROUPS) {
-    if (g.tags && g.tags.some((t) => tags.includes(t))) return g.key;
-  }
-  return "other";
-}
-
-export function roundupMessage(items, stamp) {
-  const line = (p) =>
-    `→ <a href="${SITE.url}/x/${esc(p.slug)}/">${esc(p.title)}</a> · <i>${esc(p.source.name)}</i>`;
-
-  const out = [
-    `⚡️ <b>Qisqacha · ${items.length} ta xabar</b>`,
-    `<i>${esc(stamp)}</i>`,
-  ];
-
-  // To'rttadan kam bo'lsa guruhlash ortiqcha — sarlavhalar mazmundan
-  // ko'proq joy egallab ketadi.
-  if (items.length < 4) {
-    out.push("", ...items.map(line));
-  } else {
-    const bins = new Map();
-    for (const p of items) {
-      const k = groupOf(p);
-      if (!bins.has(k)) bins.set(k, []);
-      bins.get(k).push(p);
-    }
-    // Guruh soni cheklanadi. 12 ta xabarga 8 ta sarlavha ko'p — post
-    // maydalanib, sarlavhalar mazmundan ko'proq joy egallaydi. Eng katta
-    // guruhlar qoladi, bittalik guruhlar oxiriga yig'iladi.
-    //
-    // O'zbekiston bundan mustasno: u bitta xabar bo'lsa ham o'z sarlavhasi
-    // bilan chiqadi, chunki bu kanal uchun eng qimmatli farq.
-    const MAX_GROUPS = 5;
-    const ranked = GROUPS
-      .filter((g) => bins.get(g.key)?.length)
-      .sort((a, b) => (b.key === "uz") - (a.key === "uz")
-        || bins.get(b.key).length - bins.get(a.key).length);
-    const keep = new Set(ranked.slice(0, MAX_GROUPS).map((g) => g.key));
-
-    for (const g of GROUPS) {
-      const list = bins.get(g.key);
-      if (!list || !list.length || !keep.has(g.key)) continue;
-      out.push("", `${g.emoji} <b>${g.label}</b>`, ...list.map(line));
-      bins.delete(g.key);
-    }
-    // Guruhga tushmaganlar va chegaradan chiqqan kichik guruhlar.
-    const rest = [...bins.values()].flat()
-      .sort((a, b) => b.published.localeCompare(a.published));
-    if (rest.length) out.push("", `${OTHER.emoji} <b>${OTHER.label}</b>`, ...rest.map(line));
-  }
-
-  out.push("", `Hammasi saytda → ${SITE.url}`, `@${SITE.telegram}`);
-  return out.join("\n");
-}
-
 async function sendPhotoFile(text, filePath) {
   const bytes = await readFile(filePath);
   const form = new FormData();
@@ -257,7 +157,6 @@ async function main() {
     (e) => e.at && e.how !== "roundup" && now - Date.parse(e.at) < DAY
   ).length;
   const sinceTop = since(lastOf("post"));
-  const sinceRoundup = since(lastOf("roundup"));
 
   // Navbat SHU yugurishda yozilganlar bilan cheklanmaydi. Aks holda tezlik
   // cheklovi tufayli o'tkazib yuborilgan xabar boshqa hech qachon ketmasdi:
@@ -274,9 +173,8 @@ async function main() {
     return;
   }
 
-  let ok = 0, inRoundup = 0;
+  let ok = 0;
 
-  // ---------- 1. Eng muhimlari: alohida post ----------
   if (topToday < TOP_PER_DAY && sinceTop >= TOP_GAP_MIN) {
     const budget = Math.min(PER_RUN, TOP_PER_DAY - topToday, queue.length);
     for (const p of queue.slice(0, budget)) {
@@ -293,31 +191,7 @@ async function main() {
     }
   }
 
-  // ---------- 2. Qolganlari: bitta to'plam posti ----------
-  // Alohida post qilinmagan xabarlar shu yerda kanalga yetadi. Eng eskisidan
-  // boshlaymiz: navbat oxirida turganlar eskirib yo'qolmasin.
-  const rest = queue
-    .filter((p) => !sentSet.has(p.slug))
-    .sort((a, b) => a.published.localeCompare(b.published))
-    .slice(0, ROUNDUP_MAX);
-
-  if (sinceRoundup >= ROUNDUP_EVERY_MIN && rest.length >= ROUNDUP_MIN) {
-    const stamp = new Date(now + 5 * 3600_000).toISOString().slice(11, 16);
-    try {
-      await send(roundupMessage(rest, stamp));
-      const at = new Date().toISOString();
-      for (const p of rest) {
-        sent.push({ slug: p.slug, at, how: "roundup" });
-        sentSet.add(p.slug);
-      }
-      inRoundup = rest.length;
-      console.log(`  → to'plam: ${rest.length} ta xabar`);
-    } catch (e) {
-      console.error(`  ✗ to'plam yuborilmadi — ${e.message}`);
-    }
-  }
-
-  if (ok || inRoundup) {
+  if (ok) {
     await writeFile(
       join(ROOT, "data/telegram-sent.json"),
       JSON.stringify(sent.slice(-3000), null, 2)
@@ -326,9 +200,8 @@ async function main() {
 
   const left = queue.filter((p) => !sentSet.has(p.slug)).length;
   console.log(
-    `Telegram: ${ok} ta alohida (bugun ${topToday + ok}/${TOP_PER_DAY})` +
-    (inRoundup ? ` · to'plamda ${inRoundup} ta` : "") +
-    ` · navbatda ${left} ta`
+    `Telegram: ${ok} ta yuborildi · bugun ${topToday + ok}/${TOP_PER_DAY} · ` +
+    `navbatda ${left} ta (kunlik yakun dayjestda chiqadi)`
   );
 }
 

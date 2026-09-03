@@ -1,7 +1,12 @@
-// digest.mjs — kunlik dayjest: o'tgan sutkaning eng muhim xabarlari bitta postda.
+// digest.mjs — kunlik dayjest: kunning eng muhim xabarlari bitta postda.
 //
-// Har kuni ertalab ishlaydi. Kanalga darhol chiqmagan xabarlar ham shu yerda
-// ko'rinadi, ya'ni hech narsa e'tibordan chetda qolmaydi.
+// Kanalga darhol chiqmagan xabarlar ham shu yerda ko'rinadi, ya'ni hech
+// narsa e'tibordan chetda qolmaydi.
+//
+// SOATLIK QUVUR ichida ishlaydi va vaqtni O'ZI hal qiladi. Ilgari u alohida
+// ish oqimida, GitHub jadvaliga bog'liq edi — GitHub esa kuniga 1-2 marta
+// ishlaydi, ya'ni kunda bir marta chiqadigan post umuman chiqmasligi mumkin
+// edi. Endi har soatda tekshiriladi: kech bo'ldimi va bugun yuborilganmi.
 
 import { readFile } from "node:fs/promises";
 import { join, dirname } from "node:path";
@@ -12,6 +17,9 @@ const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
 const TOKEN = process.env.TELEGRAM_BOT_TOKEN;
 const CHAT = process.env.TELEGRAM_CHAT_ID;
 const COUNT = Number(process.env.DIGEST_COUNT || 7);
+// Toshkent vaqti bilan shu soatdan keyin chiqadi.
+const HOUR = Number(process.env.DIGEST_HOUR || 20);
+const STATE = "data/digest-sent.json";
 
 const MONTHS = [
   "yanvar", "fevral", "mart", "aprel", "may", "iyun",
@@ -25,6 +33,7 @@ const tashkent = (iso) => {
   const d = new Date(Date.parse(iso) + 5 * 3600_000);
   return {
     day: d.getUTCDate(),
+    hour: d.getUTCHours(),
     month: MONTHS[d.getUTCMonth()],
     ymd: `${d.getUTCFullYear()}-${String(d.getUTCMonth() + 1).padStart(2, "0")}-${String(d.getUTCDate()).padStart(2, "0")}`,
   };
@@ -33,6 +42,22 @@ const tashkent = (iso) => {
 async function main() {
   if (!TOKEN || !CHAT) {
     console.log("Dayjest: Telegram kaliti yo'q — o'tkazib yuborildi.");
+    return;
+  }
+
+  const nowT = tashkent(new Date().toISOString());
+
+  // Kech bo'lmaguncha kutamiz.
+  if (nowT.hour < HOUR) {
+    console.log(`Dayjest: hozir ${String(nowT.hour).padStart(2, "0")}:00, ${HOUR}:00 dan keyin chiqadi.`);
+    return;
+  }
+
+  // Bugun allaqachon chiqqan bo'lsa takrorlamaymiz.
+  let last = null;
+  try { last = JSON.parse(await readFile(join(ROOT, STATE), "utf8")).ymd; } catch {}
+  if (last === nowT.ymd) {
+    console.log(`Dayjest: bugun (${nowT.ymd}) allaqachon yuborilgan.`);
     return;
   }
 
@@ -91,6 +116,9 @@ async function main() {
     });
   }
   if (!j.ok) throw new Error(j.description || "yuborilmadi");
+
+  const { writeFile } = await import("node:fs/promises");
+  await writeFile(join(ROOT, STATE), JSON.stringify({ ymd: nowT.ymd, at: new Date().toISOString() }, null, 2) + "\n");
 
   console.log(`Dayjest yuborildi: ${picked.length} ta sarlavha (sutkada ${day.length} ta xabar).`);
 }

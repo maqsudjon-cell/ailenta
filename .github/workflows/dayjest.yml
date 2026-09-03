@@ -1,11 +1,14 @@
 name: Dayjest
 
-# Har kuni ertalab 09:00 (Toshkent) — o'tgan sutkaning eng muhim xabarlari
-# bitta post bo'lib Telegram kanalga chiqadi.
+# Kunlik dayjest endi lenta.yml ichida, soatlik quvurda ishlaydi va vaqtni
+# O'ZI hal qiladi (Toshkent bo'yicha 20:00 dan keyin, kuniga bir marta).
+#
+# Jadval shu sababdan olib tashlandi: u faqat GitHub cron'iga bog'liq edi,
+# GitHub esa bu repozitoriyada kuniga 1-2 marta ishlaydi — kunda bir marta
+# chiqadigan post umuman chiqmay qolishi mumkin edi.
+#
+# Bu fayl faqat qo'lda ishga tushirish uchun qoldi.
 on:
-  schedule:
-    # 09:07 Toshkent. Soat boshidan siljitilgan — qarang: lenta.yml
-    - cron: "7 4 * * *"
   workflow_dispatch:
 
 jobs:
