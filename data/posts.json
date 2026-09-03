@@ -1,5 +1,56 @@
 [
   {
+    "id": "5190d2a1dccd",
+    "slug": "openai-muhim-xizmatlarni-himoya-qilishga-1-mlrd-dollar-ajrat-5190d2",
+    "title": "OpenAI muhim xizmatlarni himoya qilishga 1 mlrd dollar ajratdi",
+    "summary": "OpenAI \"Daybreak for Frontline Defenders\" tashabbusini ishga tushirdi. Kompaniya muhim xizmatlarni himoya qilish uchun 1 milliard dollar ajratib, kiber AI, o'qitish va qo'llab-quvvatlashga kirishni kengaytiradi.",
+    "tags": [
+      "OpenAI",
+      "xavfsizlik"
+    ],
+    "importance": 4,
+    "score": 45,
+    "published": "2026-09-03T13:15:00.000Z",
+    "created": "2026-09-03T21:24:20.100Z",
+    "coverage": 2,
+    "source": {
+      "name": "OpenAI",
+      "url": "https://openai.com/index/daybreak-for-frontline-defenders",
+      "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "Techmeme",
+        "url": "https://techmeme.com/260903/p42"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "7a45b185cff5",
+    "slug": "playco-gpt-6-astra-bilan-prototiplashni-tezlashtirdi-7a45b1",
+    "title": "Playco GPT-6 Astra bilan prototiplashni tezlashtirdi",
+    "summary": "Playco kompaniyasi GPT-6 Astra modelidan foydalanib, uchta o'yin prototipini yaratdi. Ular avvalgi modelga nisbatan qo'lda tuzatishlar sonini 50% ga kamaytirganini ma'lum qildi.",
+    "tags": [
+      "OpenAI",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 36,
+    "published": "2026-09-03T12:00:00.000Z",
+    "created": "2026-09-03T21:24:20.101Z",
+    "coverage": 1,
+    "source": {
+      "name": "OpenAI",
+      "url": "https://openai.com/index/playco-game-prototyping-with-astra",
+      "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "21d0b9aaa470",
     "slug": "crusoe-va-jane-street-13-mlrd-dollarlik-kelishuv-tuzdi-21d0b9",
     "title": "Crusoe va Jane Street 13 mlrd dollarlik kelishuv tuzdi",
