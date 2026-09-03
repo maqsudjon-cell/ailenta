@@ -1,5 +1,74 @@
 [
   {
+    "id": "dc469c54d4ab",
+    "slug": "claude-mythos-kiberhujum-zanjirini-yakunladi-dc469c",
+    "title": "Claude Mythos kiberhujum zanjirini yakunladi",
+    "summary": "Ekspertlarga ko'ra, Claude Mythos kiberhujum zanjirini to'liq yakunlagan yagona modelga aylandi. Cyber Weapon Index tadqiqoti sun'iy intellekt yordamidagi hujumlar xavfi yaqinlashayotganini ko'rsatmoqda.",
+    "tags": [
+      "Anthropic",
+      "xavfsizlik"
+    ],
+    "importance": 4,
+    "score": 31,
+    "published": "2026-09-02T21:31:31.000Z",
+    "created": "2026-09-03T01:01:10.720Z",
+    "coverage": 2,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/security/2026/09/02/claude-mythos-only-model-to-complete-full-cyber-kill-chain-experts-say/5294071",
+      "title": "Claude Mythos only model to complete full cyber kill chain, experts say",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "de7c950f5a44",
+    "slug": "black-duck-claude-katalogiga-signal-vositasini-qoshdi-de7c95",
+    "title": "Black Duck Claude katalogiga Signal vositasini qo'shdi",
+    "summary": "Black Duck kompaniyasi Claude Directory platformasiga Signal integratsiyasini kiritdi. Yangi vosita yordamida Claude ichida sun'iy intellektga asoslangan xavfsizlik zaifliklarini tekshirish imkoniyati paydo bo'ldi.",
+    "tags": [
+      "Anthropic",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 15.8,
+    "published": "2026-09-02T12:27:47.000Z",
+    "created": "2026-09-03T01:01:34.382Z",
+    "coverage": 2,
+    "source": {
+      "name": "IT Security Guru",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNR29rWUdyUERGejdzSi0zS3BtVFNDeWx1bVFPdUNyTEpEUHczclZDQ0FLQXNPck52cUs4MjJITmZ0QmlXd0RzVEd6NTc3eFhNU1cwX1o5dFMzVnJpWnU2WmUyaWxuMmN5Ui1xMlhWLXRqTUZtdFpFazlLM0VybmEwdGtPSXdNRndqWnl1Q2JadGFrazgwVjY5RDk5MFUtby0ydFZ4OVlzQkJfbjgtWXFVR0ZUa1hqaUZNZy1DWU9CSVYzMVVmMTBaWWlHM1ZsclE",
+      "title": "Black Duck brings AI-powered vulnerability scanning into Claude with new Signal integration",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "92b00fb02e6c",
+    "slug": "amazon-xaridlari-uchun-firibgarlikni-aniqlovchi-vosita-92b00f",
+    "title": "Amazon xaridlari uchun firibgarlikni aniqlovchi vosita",
+    "summary": "Amazon kompaniyasi Alexa for Shopping tizimiga firibgarlikni aniqlash funksiyasini qo'shmoqda. Yangi imkoniyat shubhali xat yoki xabarlarning haqiqatan ham sotuvchidan kelganini tekshirib beradi.",
+    "tags": [
+      "Amazon",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-09-02T14:56:34.000Z",
+    "created": "2026-09-03T01:01:34.383Z",
+    "coverage": 1,
+    "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/02/psa-amazons-shopping-ai-can-now-tell-you-if-that-message-is-a-scam",
+      "title": "PSA: Amazon’s shopping AI can now tell you if that message is a scam",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "a3cc0c775a08",
     "slug": "milliy-xavfsizlik-mutaxassislari-ai-xavfidan-xavotirda-a3cc0c",
     "title": "Milliy xavfsizlik mutaxassislari AI xavfidan xavotirda",
