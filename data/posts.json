@@ -1,5 +1,118 @@
 [
   {
+    "id": "50959979bc7f",
+    "slug": "aziza-ai-xitoy-bozoriga-chiqishni-boshladi-509599",
+    "title": "Aziza AI Xitoy bozoriga chiqishni boshladi",
+    "summary": "Startup Garage rezidenti Aziza AI loyihasi Pekindagi HICOOL 2026 sammitida Xitoyning HR va texnologiya ekotizimi vakillari bilan muzokaralar olib bordi. Loyiha o‘zining sun’iy intellektga asoslangan HR yechimlarini taqdim etdi va ilk PoC bosqichlarini boshladi.",
+    "tags": [
+      "O'zbekiston"
+    ],
+    "importance": 3,
+    "score": 51,
+    "published": "2026-09-03T08:44:12.000Z",
+    "created": "2026-09-03T10:01:46.280Z",
+    "coverage": 1,
+    "source": {
+      "name": "Pivot",
+      "url": "https://pivot.uz/uz/aziza-aining-xitoy-bozoriga-chiqishi-boyicha-ilk-poc-bosqichlari-boshlandi",
+      "title": "Aziza AI’ning Xitoy bozoriga chiqishi bo‘yicha ilk PoC bosqichlari boshlandi",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "5bbe2e77dd30",
+    "slug": "o-zbekiston-oliygohlari-startaplarga-investitsiya-kiritadi-5bbe2e",
+    "title": "O‘zbekiston oliygohlari startaplarga investitsiya kiritadi",
+    "summary": "O‘zbekistondagi universitetlarga talabalar va ilmiy xodimlar startaplariga o‘z mablag‘laridan 20 ming dollargacha investitsiya kiritishga ruxsat beriladi. \"Universitetlar — startaplar generatori\" dasturi 2026-yil 1-sentabrdan boshlanishi rejalashtirilgan. Loyihani amalga oshirishda IT Park yordam beradi.",
+    "tags": [
+      "O'zbekiston",
+      "biznes"
+    ],
+    "importance": 4,
+    "score": 40.6,
+    "published": "2026-09-02T11:05:00.000Z",
+    "created": "2026-09-03T10:01:46.281Z",
+    "coverage": 1,
+    "source": {
+      "name": "Pivot",
+      "url": "https://pivot.uz/uz/o%ca%bbzbekiston-universitetlarga-talaba-startaplariga-20-ming-investitsiya-kiritishga-ruxsat-beradi",
+      "title": "Oʻzbekiston universitetlarga talaba startaplariga $20 ming investitsiya kiritishga ruxsat beradi",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "486daba17dfa",
+    "slug": "agentli-ai-tizimlarini-biznesda-kengaytirish-muammolari-486dab",
+    "title": "Agentli AI tizimlarini biznesda kengaytirish muammolari",
+    "summary": "Agentli sun'iy intellekt tajriba bosqichidan korxonalarda qo'llanish darajasiga o'tmoqda. Fortune 500 kompaniyalarining qariyb 80 foizi ushbu texnologiyani joriy etgan bo'lsa-da, agentlarning xavfsiz ishlashi va o'zaro bog'lanishini ta'minlash asosiy muammo bo'lib qolmoqda.",
+    "tags": [
+      "agentlar",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 26,
+    "published": "2026-09-03T09:30:32.000Z",
+    "created": "2026-09-03T10:01:46.282Z",
+    "coverage": 1,
+    "source": {
+      "name": "MIT Technology Review",
+      "url": "https://technologyreview.com/2026/09/03/1142868/scaling-agentic-ai-pilots-across-the-enterprise",
+      "title": "Scaling agentic AI pilots across the enterprise",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "bce0fb95b5bb",
+    "slug": "mutaxassislar-o-z-o-rnini-oladigan-aini-o-qitishni-rad-etdi-bce0fb",
+    "title": "Mutaxassislar o‘z o‘rnini oladigan AIni o‘qitishni rad etdi",
+    "summary": "Sun'iy intellekt kompaniyalari yuqori ma'lumotli mutaxassislarga mashinalarni o'qitish uchun pul to'lamoqda. Biroq, ba'zi ishchilar kelajakda o'zlarining o'rnini egallashi mumkin bo'lgan tizimlarni o'rgatishdan bosh tortmoqdalar.",
+    "tags": [
+      "mehnat bozori"
+    ],
+    "importance": 2,
+    "score": 19,
+    "published": "2026-09-03T10:00:00.000Z",
+    "created": "2026-09-03T10:01:46.282Z",
+    "coverage": 1,
+    "source": {
+      "name": "Rest of World",
+      "url": "https://restofworld.org/2026/ai-training-jobs-expert-replacement",
+      "title": "I refused to train the AI that could replace me",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "4be4ecd3da1d",
+    "slug": "texnologiya-rahbarlari-g20da-ai-cheklovlariga-qarshi-chiqdi-4be4ec",
+    "title": "Texnologiya rahbarlari G20da AI cheklovlariga qarshi chiqdi",
+    "summary": "G20 sammitida Jensen Xuang, Mark Sukerberg, Sem Altman va Ilon Mask Tramp rasmiylari bilan birga siyosatchilarni qat'iy AI cheklovlariga qarshi chiqishga undadi. Ularning fikricha, texnologik taraqqiyot sun'iy intellektni hukumat tartibga solishidan ko'ra xavfsizroq qilmoqda.",
+    "tags": [
+      "siyosat",
+      "biznes"
+    ],
+    "importance": 4,
+    "score": 15,
+    "published": "2026-09-03T09:45:01.000Z",
+    "created": "2026-09-03T10:03:00.930Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/260903/p8",
+      "title": "At the G20 summit, Jensen Huang, Mark Zuckerberg, Sam Altman, and Elon Musk joined Trump officials in lobbying policymakers against heavy AI regulations (Amrith Ramkumar/Wall Street Journal)",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "4d08cbce6e29",
     "slug": "anthropic-iposidan-qaysi-investorlar-foyda-koradi-4d08cb",
     "title": "Anthropic IPO'sidan qaysi investorlar foyda ko'radi",
