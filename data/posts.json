@@ -1,22 +1,45 @@
 [
   {
-    "id": "7924d5f10a84",
-    "slug": "ai-elektr-energiyasiga-talabni-oshirmoqda-7924d5",
-    "title": "AI elektr energiyasiga talabni oshirmoqda",
-    "summary": "Sun'iy intellekt ma'lumot markazlariga bo'lgan talab keskin oshib bormoqda. Natijada, elektr energiyasi ta'minoti va tarmoq ulanishlari bu ehtiyojni qondirish uchun yillar talab qilishi mumkin.",
+    "id": "f77c2ea8f16c",
+    "slug": "openai-cursor-bilan-hamkorlikni-toxtatdi-f77c2e",
+    "title": "OpenAI Cursor bilan hamkorlikni to'xtatdi",
+    "summary": "OpenAI kompaniyasi Cursor startapi bilan hamkorlikni to'xtatdi. Ushbu hamkorlik yiliga 1 milliard dollardan ortiq daromad keltirishi taxmin qilingan edi. OpenAI bu qarorga startapni Ilon Maskning SpaceX kompaniyasi sotib olganidan so'ng kelgan.",
     "tags": [
-      "iqtisod",
+      "OpenAI",
       "biznes"
     ],
     "importance": 4,
-    "score": 22,
-    "published": "2026-09-03T16:12:39.000Z",
-    "created": "2026-09-03T16:42:59.010Z",
+    "score": 26,
+    "published": "2026-09-03T16:42:40.000Z",
+    "created": "2026-09-03T16:46:07.271Z",
     "coverage": 1,
     "source": {
-      "name": "Fortune",
-      "url": "https://fortune.com/2026/09/03/ai-data-centers-demand-electric-grid",
-      "title": "AI wants electricity now. The electric grid needs years to catch up",
+      "name": "Wired",
+      "url": "https://wired.com/story/openai-elon-musk-cursor-billion-revenue",
+      "title": "OpenAI Cut Off a Billion-Dollar Customer to Avoid Elon Musk",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "6b3b04dd8465",
+    "slug": "anthropic-claude-foydalanuvchilarini-xakerlardan-himoya-qild-6b3b04",
+    "title": "Anthropic Claude foydalanuvchilarini xakerlardan himoya qildi",
+    "summary": "Anthropic Claude foydalanuvchilarini avtomatik ravishda tizimdan chiqardi. Bu harakat infostealer zararli dasturlari tomonidan o'g'irlangan faol Claude login sessiyalarini himoya qilishga qaratilgan.",
+    "tags": [
+      "Anthropic",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 18,
+    "published": "2026-09-03T16:39:18.000Z",
+    "created": "2026-09-03T16:46:47.958Z",
+    "coverage": 1,
+    "source": {
+      "name": "Engadget",
+      "url": "https://engadget.com/2250467/claude-automatic-sign-out-hackers-explained",
+      "title": "Anthropic automatically signs out Claude users to protect them from hackers",
       "indirect": false
     },
     "also": [],
