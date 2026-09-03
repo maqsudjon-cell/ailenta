@@ -388,6 +388,27 @@
   .nav a.tg{color:var(--accent)}
   .nav a.tg:hover{color:var(--ink)}
 
+  /* ---------- mavzu tasmasi ---------- */
+  .topics{
+    display:flex;gap:.5rem;flex-wrap:wrap;align-items:center;
+    padding:1.1rem 0;border-top:1px solid var(--line);
+  }
+  .topics a{
+    font-size:.82rem;font-weight:600;color:var(--dim);
+    border:1px solid var(--line);padding:.4rem .8rem;border-radius:3px;
+    transition:border-color .12s ease, color .12s ease;
+  }
+  .topics a:hover{border-color:var(--ink);color:var(--ink)}
+  .topics a.topics-all{border-color:transparent;color:var(--accent)}
+  .topics a.topics-all:hover{color:var(--ink)}
+  @media (max-width:720px){
+    .topics{
+      flex-wrap:nowrap;overflow-x:auto;scrollbar-width:none;padding:.9rem 0;
+    }
+    .topics::-webkit-scrollbar{display:none}
+    .topics a{white-space:nowrap;flex:none}
+  }
+
   /* ---------- Telegram chaqiruvi ---------- */
   .tgcta{
     display:flex;align-items:center;justify-content:space-between;gap:1.2rem;
@@ -456,7 +477,7 @@
 <div class="topbar">
   <div class="topbar-in">
     <a class="brand" href="/"><em>Ai</em>lenta</a>
-    <span class="status"><span class="dot"></span>14:39 da yangilandi</span>
+    <span class="status"><span class="dot"></span>14:50 da yangilandi</span>
     <nav class="nav">
       <a href="/arxiv/">Arxiv</a>
       <a href="/mavzular/">Mavzular</a>
@@ -492,7 +513,7 @@
          zaiflashtirardi. -->
     <div class="meta">
       
-      <span class="when-inline">2-sentabr, 21:13 · 17 soat oldin</span>
+      <span class="when-inline">2-sentabr, 21:13 · 18 soat oldin</span>
       <a class="chip" href="/mavzu/oracle/">Oracle</a><a class="chip" href="/mavzu/biznes/">biznes</a>
     </div>
     <!-- Ulashish faqat maqola oxirida edi. Ko'p o'quvchi o'sha yergacha

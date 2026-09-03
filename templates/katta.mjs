@@ -7,7 +7,7 @@
 //   kun ajratgichi     → xabar qaysi kunga tegishli
 
 import { SITE, head, topbar, foot, publisher } from "./shell.mjs";
-import { coverBar, sourceMark, feedItem } from "./parts.mjs";
+import { coverBar, sourceMark, feedItem, tagPath } from "./parts.mjs";
 import { cardSvg } from "../src/cover.mjs";
 
 export function render(posts, u) {
@@ -22,6 +22,12 @@ export function render(posts, u) {
   const rest = sorted.slice(3).sort((a, b) => b.published.localeCompare(a.published));
 
   const sources = [...new Set(posts.map((p) => p.source.name))].sort();
+
+  // Eng ko'p yoziladigan mavzular. Kam uchraydiganlari tasmani to'ldirib,
+  // foydali signalni ko'mib yuboradi — shuning uchun yettitasi.
+  const tagCount = new Map();
+  for (const p of posts) for (const t of p.tags || []) tagCount.set(t, (tagCount.get(t) || 0) + 1);
+  const topTags = [...tagCount.entries()].sort((a, b) => b[1] - a[1]).slice(0, 7).map(([t]) => t);
 
   const dayLabel = (ymd) => {
     const today = now.ymd;
@@ -105,6 +111,14 @@ ${topbar(now.hhmm)}
       <span class="when-inline">${ago(lead.published)}</span>
     </div>
   </section>
+
+  <!-- Mavzu tasmasi. Ilgari mavzular faqat /mavzular/ ortida edi va
+       o'quvchi sayt nimalarni qamrab olishini bilmasdi. Endi eng ko'p
+       yoziladigan mavzular bosh sahifada turadi. -->
+  <nav class="topics" aria-label="Mavzular">
+    ${topTags.map((t) => `<a href="${tagPath(t)}">${esc(t)}</a>`).join("")}
+    <a class="topics-all" href="/mavzular/">Barchasi →</a>
+  </nav>
 
   <div class="creed">
     <span><b>${esc(SITE.tagline)}.</b></span>
