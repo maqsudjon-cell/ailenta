@@ -1,5 +1,102 @@
 [
   {
+    "id": "0df17a3d800a",
+    "slug": "google-gmail-docs-va-keep-uchun-ai-ovozli-yordamchi-chiqardi-0df17a",
+    "title": "Google Gmail, Docs va Keep uchun AI ovozli yordamchi chiqardi",
+    "summary": "Google Gmail, Docs va Keep ilovalari uchun AI asosidagi ovozli yordamchi rejimlarini taqdim etmoqda. Bu funksiyalar ilovalarni ovoz orqali boshqarish imkonini beradi va real vaqtda suhbatlashishga mo'ljallangan.",
+    "tags": [
+      "Google",
+      "agentlar"
+    ],
+    "importance": 3,
+    "score": 27,
+    "published": "2026-09-03T16:00:00.000Z",
+    "created": "2026-09-03T16:16:46.829Z",
+    "coverage": 2,
+    "source": {
+      "name": "The Verge",
+      "url": "https://theverge.com/tech/989508/google-gmail-docs-keep-live-voice-modes-gemini",
+      "title": "Google now lets you chat with Gmail, Docs, and Keep",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "Engadget",
+        "url": "https://engadget.com/2250178/google-rolls-out-ai-voice-gmail-docs-keep"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "17f6b8dc50f8",
+    "slug": "rogo-va-hebbia-daromadi-oshdi-claude-tahdidi-mavjud-17f6b8",
+    "title": "Rogo va Hebbia daromadi oshdi, Claude tahdidi mavjud",
+    "summary": "The Information nashrining xabar berishicha, Rogo va Hebbia kompaniyalarining daromadi oshgan. Bu holat Claude modelining moliyaviy tahdidi mavjud bo'lishiga qaramay yuz bermoqda.",
+    "tags": [
+      "biznes",
+      "Anthropic"
+    ],
+    "importance": 2,
+    "score": 27,
+    "published": "2026-09-03T14:05:00.000Z",
+    "created": "2026-09-03T16:16:46.831Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Information",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQLXN3eTNhQllKcVZxN180dEg1eGZQUF8wMEJWR2VzTkdYTWswX0hVNGJmcldmbGdqc1dWTUlMSFYwNURMYTRzdWM2dzFybW9GdmxVbERSNHVFUnNXTVB6WndmbFNYSmZzcEs4dVRPSUJMWjVhZkNtekhnTHNlT1hQSkFTckJyOUR0TFlyZGg0ckNDR2ItTlMzRG84cVpxOFg5Tzg4S2N4RXNNQQ",
+      "title": "Rogo, Hebbia Revenue Rises as Claude Finance Threat Looms",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "c9405d8895ce",
+    "slug": "ollie-ai-yordamchisi-maxfiylikka-urgu-bermoqda-c9405d",
+    "title": "Ollie AI yordamchisi maxfiylikka urg'u bermoqda",
+    "summary": "Ollie oilaga yo'naltirilgan AI yordamchisi bo'lib, kundalik hayot ma'lumotlariga kirishni xohlaydi. Kompaniya bu ma'lumotlarni AI modellarini o'qitish yoki boshqalar bilan bo'lishmasligini ta'kidlaydi.",
+    "tags": [
+      "maxfiylik",
+      "agentlar"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-09-03T16:09:01.000Z",
+    "created": "2026-09-03T16:16:59.805Z",
+    "coverage": 1,
+    "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/03/ollie-is-betting-privacy-can-win-the-ai-assistant-race",
+      "title": "Ollie is betting its focus on privacy can help it win the AI assistant race",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "40f67a17659f",
+    "slug": "nvidia-pair-bosh-turgan-kompyuterlarni-ai-uchun-ishlatadi-40f67a",
+    "title": "NVIDIA PAIR bo'sh turgan kompyuterlarni AI uchun ishlatadi",
+    "summary": "NVIDIA PAIR — bu bo'sh turgan kompyuterlar bo'ylab AI ish yuklamalarini taqsimlay oladigan bepul, ochiq kodli vosita. Bu foydalanuvchilarga o'zlarining ishlatilmayotgan resurslaridan AI hisoblashlari uchun foydalanish imkonini beradi.",
+    "tags": [
+      "Nvidia",
+      "ochiq model"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-09-03T16:00:00.000Z",
+    "created": "2026-09-03T16:16:59.805Z",
+    "coverage": 1,
+    "source": {
+      "name": "Engadget",
+      "url": "https://engadget.com/2250189/nvidia-ifa-2026-pair-distributed-ai-computing-home-network",
+      "title": "NVIDIA's PAIR lets you use idle PCs for AI computing tasks",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "f87fac23efcf",
     "slug": "chatgpt-grok-va-claude-chatbotlarida-uzilish-yuz-berdi-f87fac",
     "title": "ChatGPT, Grok va Claude chatbotlarida uzilish yuz berdi",
