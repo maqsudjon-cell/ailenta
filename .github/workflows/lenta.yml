@@ -64,6 +64,8 @@ jobs:
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          TELEGRAM_TOP_PER_DAY: "20"
+          TELEGRAM_TOP_GAP_MIN: "1"
         run: node src/telegram.mjs
 
       # Kunlik dayjest. Vaqtni skriptning o'zi hal qiladi: Toshkent bo'yicha
