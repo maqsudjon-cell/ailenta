@@ -57,7 +57,7 @@ export function postPage(p, related, u) {
   })}
 ${topbar(now.hhmm)}
 
-<div class="wrap">
+<main class="wrap" id="asosiy">
   ${crumbs([
     { label: "Bosh sahifa", href: "/" },
     { label: `${t.day}-${t.month}`, href: `/kun/${t.ymd}/` },
@@ -171,7 +171,7 @@ export function listPage({ title, heading, intro, path, items, trail, extra = ""
   return `${head({ title, description: intro, path, jsonld, noindex, feed })}
 ${topbar(now.hhmm)}
 
-<div class="wrap">
+<main class="wrap" id="asosiy">
   ${crumbs(trail, u)}
   ${feed ? `<p class="feed-link"><a href="${feed}">Shu mavzuga RSS orqali obuna bo'lish</a></p>` : ""}
 
@@ -229,7 +229,7 @@ export function photosPage(cache, u) {
   })}
 ${topbar(now.hhmm)}
 
-<div class="wrap">
+<main class="wrap" id="asosiy">
   ${crumbs([{ label: "Bosh sahifa", href: "/" }, { label: "Suratlar" }], u)}
 
   <div class="listing-head">
@@ -273,7 +273,7 @@ export function notFoundPage(latest, u) {
   })}
 ${topbar(now.hhmm)}
 
-<div class="wrap">
+<main class="wrap" id="asosiy">
   <div class="listing-head">
     <h1>Bunday sahifa yo'q</h1>
     <p>Havola eskirgan yoki manzilda xato bo'lishi mumkin. Quyidagilardan boshlang.</p>
@@ -297,15 +297,33 @@ ${foot(now)}`;
 
 export function topicsPage(tags, u) {
   const { esc } = u;
-  const cloud = `<div class="tagcloud">${tags
+
+  // Mavzular ikki guruhga bo'linadi. Sabab: 56 tegning 25 tasi bir marta
+  // uchraydi (DeepSeek, DJI, Adobe kabi kompaniya nomlari). Ular teg
+  // sifatida to'g'ri, lekin asosiylari bilan bir tekisda ko'rsatilsa
+  // foydali signal ko'milib ketadi.
+  const MAIN_FROM = 3;
+  const main = tags.filter(([, n]) => n >= MAIN_FROM);
+  const rare = tags.filter(([, n]) => n < MAIN_FROM);
+
+  const chips = (list) => `<div class="tagcloud">${list
     .map(([t, n]) => `<a href="${tagPath(t)}">${esc(t)}<b>${n}</b></a>`)
     .join("")}</div>`;
+
+  const cloud = chips(main) + (rare.length ? `
+    <h2 class="topics-h">Kam uchraydigan mavzular</h2>
+    <p class="topics-note">
+      Hozircha ${MAIN_FROM} tadan kam xabar bor. Ular to'planib borgach
+      asosiy ro'yxatga ko'chadi.
+    </p>
+    ${chips(rare)}` : "");
 
   return listPage(
     {
       title: `Mavzular — ${SITE.name}`,
       heading: "Mavzular",
-      intro: `${tags.length} ta mavzu bo'yicha xabarlar. Har bir mavzu sahifasi o'zi to'lib boradi.`,
+      intro: `${main.length} ta asosiy mavzu va ${rare.length} ta yangi mavzu. `
+        + `Har bir mavzu sahifasi o'zi to'lib boradi.`,
       path: "/mavzular/",
       items: [],
       trail: [{ label: "Bosh sahifa", href: "/" }, { label: "Mavzular" }],
@@ -350,7 +368,7 @@ export function instagramPage(items, u) {
   })}
 ${topbar(now.hhmm)}
 
-<div class="wrap">
+<main class="wrap" id="asosiy">
   <div class="listing-head">
     <h1>Instagram uchun tayyor</h1>
     <p>
@@ -477,7 +495,7 @@ export function searchPage(u) {
   })}
 ${topbar(now.hhmm)}
 
-<div class="wrap">
+<main class="wrap" id="asosiy">
   ${crumbs([{ label: "Bosh sahifa", href: "/" }, { label: "Qidiruv" }], u)}
 
   <div class="listing-head">
@@ -644,7 +662,7 @@ export function aboutPage(sources, stats, u) {
   })}
 ${topbar(now.hhmm)}
 
-<div class="wrap">
+<main class="wrap" id="asosiy">
   ${crumbs([{ label: "Bosh sahifa", href: "/" }, { label: "Loyiha haqida" }], u)}
 
   <div class="listing-head">
@@ -780,7 +798,7 @@ export function statsPage(s, u) {
   })}
 ${topbar(now.hhmm)}
 
-<div class="wrap">
+<main class="wrap" id="asosiy">
   ${crumbs([{ label: "Bosh sahifa", href: "/" }, { label: "Statistika" }], u)}
 
   <div class="listing-head">
@@ -893,7 +911,7 @@ export function glossaryPage(terms, u) {
   })}
 ${topbar(now.hhmm)}
 
-<div class="wrap">
+<main class="wrap" id="asosiy">
   ${crumbs([{ label: "Bosh sahifa", href: "/" }, { label: "Atamalar" }], u)}
 
   <div class="listing-head">

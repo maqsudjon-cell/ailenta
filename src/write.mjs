@@ -84,7 +84,15 @@ const GEMINI_MODELS = (process.env.GEMINI_MODEL || "gemini-3.5-flash,gemini-2.5-
 
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 
+// Xarajat monitoringi. Kecha Gemini kunlik chegarasi tugab, sayt uch soat
+// yangilanmadi va buni hech kim sezmadi — jurnalda faqat 429 kodi bor edi.
+// Endi har yugurish nechta so'rov qilgani va qaysi modelga tushgani
+// hisobga olinadi.
+export const usage = { requests: 0, byModel: {}, quotaHits: 0 };
+
 async function geminiOnce(model, key, prompt) {
+  usage.requests++;
+  usage.byModel[model] = (usage.byModel[model] || 0) + 1;
   const res = await fetch(
     `https://generativelanguage.googleapis.com/v1beta/models/${model}:generateContent`,
     {
@@ -98,6 +106,7 @@ async function geminiOnce(model, key, prompt) {
     }
   );
   if (res.status === 429) {
+    usage.quotaHits++;
     const err = new Error(`${model}: kunlik chegara tugadi`);
     err.quota = true;
     throw err;
@@ -448,6 +457,15 @@ async function main() {
 
   console.log(`Yozildi: ${written.length} ta xabar (jami ${posts.length})`);
   for (const p of written) console.log(`  [${p.importance}] ${p.title}`);
+
+  // Xarajat: so'rov soni va qaysi model ishlatilgani. Zaxira modelga
+  // o'tilgan bo'lsa — birinchisining chegarasi tugagan, ya'ni ogohlantirish.
+  const models = Object.entries(usage.byModel).map(([m, n]) => `${m}:${n}`).join(" ");
+  console.log(
+    `\nLLM: ${usage.requests} so'rov` +
+    (models ? ` · ${models}` : "") +
+    (usage.quotaHits ? ` · CHEGARA TUGADI: ${usage.quotaHits} marta` : "")
+  );
 }
 
 // To'g'ridan-to'g'ri ishga tushirilgandagina bajariladi. Modul import qilinganda

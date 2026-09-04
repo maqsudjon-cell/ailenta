@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Mavzular — AI Lenta</title>
-<meta name="description" content="56 ta mavzu bo'yicha xabarlar. Har bir mavzu sahifasi o'zi to'lib boradi.">
+<meta name="description" content="26 ta asosiy mavzu va 30 ta yangi mavzu. Har bir mavzu sahifasi o'zi to'lib boradi.">
 <link rel="canonical" href="https://ailenta.uz/mavzular/">
 
 <meta name="robots" content="index,follow,max-image-preview:large,max-snippet:-1">
@@ -12,7 +12,7 @@
 <meta property="og:site_name" content="AI Lenta">
 <meta property="og:locale" content="uz_UZ">
 <meta property="og:title" content="Mavzular — AI Lenta">
-<meta property="og:description" content="56 ta mavzu bo'yicha xabarlar. Har bir mavzu sahifasi o'zi to'lib boradi.">
+<meta property="og:description" content="26 ta asosiy mavzu va 30 ta yangi mavzu. Har bir mavzu sahifasi o'zi to'lib boradi.">
 <meta property="og:url" content="https://ailenta.uz/mavzular/">
 <meta property="og:image" content="https://ailenta.uz/og/default.jpg">
 <meta property="og:image:width" content="1200">
@@ -21,7 +21,7 @@
 <meta name="twitter:image" content="https://ailenta.uz/og/default.jpg">
 
 <meta name="twitter:title" content="Mavzular — AI Lenta">
-<meta name="twitter:description" content="56 ta mavzu bo'yicha xabarlar. Har bir mavzu sahifasi o'zi to'lib boradi.">
+<meta name="twitter:description" content="26 ta asosiy mavzu va 30 ta yangi mavzu. Har bir mavzu sahifasi o'zi to'lib boradi.">
 <meta name="theme-color" content="#ffffff" media="(prefers-color-scheme: light)">
 <meta name="theme-color" content="#0B0B0D" media="(prefers-color-scheme: dark)">
 <link rel="alternate" type="application/rss+xml" title="AI Lenta" href="https://ailenta.uz/rss.xml">
@@ -31,7 +31,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;600;700;800;900&family=IBM+Plex+Mono:wght@400;500;600&display=swap">
-<script type="application/ld+json">{"@context":"https://schema.org","@type":"CollectionPage","name":"Mavzular","description":"56 ta mavzu bo'yicha xabarlar. Har bir mavzu sahifasi o'zi to'lib boradi.","url":"https://ailenta.uz/mavzular/","inLanguage":"uz","publisher":{"@type":"NewsMediaOrganization","name":"AI Lenta","url":"https://ailenta.uz","logo":{"@type":"ImageObject","url":"https://ailenta.uz/logo-512.png","width":512,"height":512},"sameAs":["https://t.me/ailentauz"],"inLanguage":"uz"}}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"CollectionPage","name":"Mavzular","description":"26 ta asosiy mavzu va 30 ta yangi mavzu. Har bir mavzu sahifasi o'zi to'lib boradi.","url":"https://ailenta.uz/mavzular/","inLanguage":"uz","publisher":{"@type":"NewsMediaOrganization","name":"AI Lenta","url":"https://ailenta.uz","logo":{"@type":"ImageObject","url":"https://ailenta.uz/logo-512.png","width":512,"height":512},"sameAs":["https://t.me/ailentauz"],"inLanguage":"uz"}}</script>
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"ItemList","itemListElement":[]}</script>
 <script data-goatcounter="https://ailenta.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>
 <style>
@@ -62,6 +62,12 @@
   a{color:inherit;text-decoration:none}
   a:focus-visible{outline:2px solid var(--accent);outline-offset:3px;border-radius:2px}
   .wrap{max-width:1020px;margin:0 auto;padding:0 1.4rem}
+
+  .skip{
+    position:absolute;left:-9999px;top:0;z-index:100;
+    background:var(--accent);color:#fff;padding:.7rem 1.1rem;font-weight:700;
+  }
+  .skip:focus{left:0}
 
   /* ---------- yuqori chiziq ---------- */
   .topbar{
@@ -411,6 +417,9 @@
   .feed-link a{color:var(--accent)}
   .feed-link a:hover{color:var(--ink)}
 
+  .topics-h{margin:2.4rem 0 .3rem;font-size:1.02rem;font-weight:800;letter-spacing:-.02em}
+  .topics-note{margin:0 0 .2rem;color:var(--faint);font-size:.88rem;max-width:56ch}
+
   .arch-month{padding:1.6rem 0 0}
   .arch-month h2{
     margin:0;font-size:1.05rem;font-weight:800;letter-spacing:-.02em;
@@ -526,10 +535,11 @@
 </style>
 </head>
 <body>
+<a class="skip" href="#asosiy">Asosiy kontentga o'tish</a>
 <div class="topbar">
   <div class="topbar-in">
     <a class="brand" href="/"><em>Ai</em>lenta</a>
-    <span class="status"><span class="dot"></span>04:25 da yangilandi</span>
+    <span class="status"><span class="dot"></span>04:32 da yangilandi</span>
     <nav class="nav">
       <a href="/qidiruv/">Qidiruv</a>
       <a href="/arxiv/">Arxiv</a>
@@ -542,7 +552,7 @@
   </div>
 </div>
 
-<div class="wrap">
+<main class="wrap" id="asosiy">
   <nav class="crumbs" aria-label="Yo'l">
     <a href="/">Bosh sahifa</a><span aria-hidden="true">/</span><span>Mavzular</span>
   </nav>
@@ -550,14 +560,20 @@
 
   <div class="listing-head">
     <h1>Mavzular</h1>
-    <p>56 ta mavzu bo'yicha xabarlar. Har bir mavzu sahifasi o'zi to'lib boradi.</p>
+    <p>26 ta asosiy mavzu va 30 ta yangi mavzu. Har bir mavzu sahifasi o'zi to'lib boradi.</p>
   </div>
 
   <section class="listing">
     <p class="note">Bu sahifada hozircha xabar yo'q.</p>
   </section>
 
-  <div class="tagcloud"><a href="/mavzu/biznes/">biznes<b>107</b></a><a href="/mavzu/xavfsizlik/">xavfsizlik<b>75</b></a><a href="/mavzu/anthropic/">Anthropic<b>60</b></a><a href="/mavzu/openai/">OpenAI<b>56</b></a><a href="/mavzu/tadqiqot/">tadqiqot<b>53</b></a><a href="/mavzu/siyosat/">siyosat<b>42</b></a><a href="/mavzu/agentlar/">agentlar<b>35</b></a><a href="/mavzu/nvidia/">Nvidia<b>30</b></a><a href="/mavzu/chiplar/">chiplar<b>24</b></a><a href="/mavzu/iqtisod/">iqtisod<b>23</b></a><a href="/mavzu/google/">Google<b>20</b></a><a href="/mavzu/meta/">Meta<b>17</b></a><a href="/mavzu/mehnat-bozori/">mehnat bozori<b>16</b></a><a href="/mavzu/maxfiylik/">maxfiylik<b>13</b></a><a href="/mavzu/qonun/">qonun<b>13</b></a><a href="/mavzu/bulut/">bulut<b>12</b></a><a href="/mavzu/robototexnika/">robototexnika<b>10</b></a><a href="/mavzu/microsoft/">Microsoft<b>9</b></a><a href="/mavzu/ozbekiston/">O'zbekiston<b>9</b></a><a href="/mavzu/hugging-face/">Hugging Face<b>9</b></a><a href="/mavzu/tibbiyot/">tibbiyot<b>9</b></a><a href="/mavzu/sud/">sud<b>8</b></a><a href="/mavzu/apple/">Apple<b>8</b></a><a href="/mavzu/talim/">ta'lim<b>6</b></a><a href="/mavzu/ochiq-model/">ochiq model<b>4</b></a><a href="/mavzu/amazon/">Amazon<b>3</b></a><a href="/mavzu/salesforce/">Salesforce<b>2</b></a><a href="/mavzu/xai/">xAI<b>2</b></a><a href="/mavzu/broadcom/">Broadcom<b>2</b></a><a href="/mavzu/oracle/">Oracle<b>2</b></a><a href="/mavzu/pentagon/">Pentagon<b>2</b></a><a href="/mavzu/deepseek/">DeepSeek<b>1</b></a><a href="/mavzu/cerebras/">Cerebras<b>1</b></a><a href="/mavzu/thinking-machines-lab/">Thinking Machines Lab<b>1</b></a><a href="/mavzu/humain/">Humain<b>1</b></a><a href="/mavzu/dji/">DJI<b>1</b></a><a href="/mavzu/startlux/">StartLux<b>1</b></a><a href="/mavzu/ibm/">IBM<b>1</b></a><a href="/mavzu/ukg/">UKG<b>1</b></a><a href="/mavzu/adobe/">Adobe<b>1</b></a><a href="/mavzu/mistral/">Mistral<b>1</b></a><a href="/mavzu/runway/">Runway<b>1</b></a><a href="/mavzu/yevropa-ittifoqi/">Yevropa Ittifoqi<b>1</b></a><a href="/mavzu/asml/">ASML<b>1</b></a><a href="/mavzu/vmware/">VMware<b>1</b></a><a href="/mavzu/amd/">AMD<b>1</b></a><a href="/mavzu/instagram/">Instagram<b>1</b></a><a href="/mavzu/ipo/">IPO<b>1</b></a><a href="/mavzu/donald-tramp/">Donald Tramp<b>1</b></a><a href="/mavzu/malumotlar-markazi/">ma'lumotlar markazi<b>1</b></a><a href="/mavzu/chatbot/">chatbot<b>1</b></a><a href="/mavzu/g20/">G20<b>1</b></a><a href="/mavzu/reklama/">reklama<b>1</b></a><a href="/mavzu/avstraliya/">Avstraliya<b>1</b></a><a href="/mavzu/xitoy/">Xitoy<b>1</b></a><a href="/mavzu/yaponiya/">Yaponiya<b>1</b></a></div>
+  <div class="tagcloud"><a href="/mavzu/biznes/">biznes<b>107</b></a><a href="/mavzu/xavfsizlik/">xavfsizlik<b>74</b></a><a href="/mavzu/anthropic/">Anthropic<b>60</b></a><a href="/mavzu/openai/">OpenAI<b>56</b></a><a href="/mavzu/tadqiqot/">tadqiqot<b>53</b></a><a href="/mavzu/siyosat/">siyosat<b>40</b></a><a href="/mavzu/agentlar/">agentlar<b>35</b></a><a href="/mavzu/nvidia/">Nvidia<b>29</b></a><a href="/mavzu/chiplar/">chiplar<b>24</b></a><a href="/mavzu/iqtisod/">iqtisod<b>23</b></a><a href="/mavzu/google/">Google<b>20</b></a><a href="/mavzu/meta/">Meta<b>17</b></a><a href="/mavzu/mehnat-bozori/">mehnat bozori<b>16</b></a><a href="/mavzu/maxfiylik/">maxfiylik<b>13</b></a><a href="/mavzu/qonun/">qonun<b>13</b></a><a href="/mavzu/bulut/">bulut<b>12</b></a><a href="/mavzu/robototexnika/">robototexnika<b>10</b></a><a href="/mavzu/microsoft/">Microsoft<b>9</b></a><a href="/mavzu/ozbekiston/">O'zbekiston<b>9</b></a><a href="/mavzu/hugging-face/">Hugging Face<b>9</b></a><a href="/mavzu/tibbiyot/">tibbiyot<b>9</b></a><a href="/mavzu/sud/">sud<b>8</b></a><a href="/mavzu/apple/">Apple<b>8</b></a><a href="/mavzu/talim/">ta'lim<b>6</b></a><a href="/mavzu/ochiq-model/">ochiq model<b>4</b></a><a href="/mavzu/amazon/">Amazon<b>3</b></a></div>
+    <h2 class="topics-h">Kam uchraydigan mavzular</h2>
+    <p class="topics-note">
+      Hozircha 3 tadan kam xabar bor. Ular to'planib borgach
+      asosiy ro'yxatga ko'chadi.
+    </p>
+    <div class="tagcloud"><a href="/mavzu/salesforce/">Salesforce<b>2</b></a><a href="/mavzu/xai/">xAI<b>2</b></a><a href="/mavzu/broadcom/">Broadcom<b>2</b></a><a href="/mavzu/oracle/">Oracle<b>2</b></a><a href="/mavzu/pentagon/">Pentagon<b>2</b></a><a href="/mavzu/deepseek/">DeepSeek<b>1</b></a><a href="/mavzu/cerebras/">Cerebras<b>1</b></a><a href="/mavzu/thinking-machines-lab/">Thinking Machines Lab<b>1</b></a><a href="/mavzu/humain/">Humain<b>1</b></a><a href="/mavzu/dji/">DJI<b>1</b></a><a href="/mavzu/startlux/">StartLux<b>1</b></a><a href="/mavzu/ibm/">IBM<b>1</b></a><a href="/mavzu/ukg/">UKG<b>1</b></a><a href="/mavzu/adobe/">Adobe<b>1</b></a><a href="/mavzu/mistral/">Mistral<b>1</b></a><a href="/mavzu/runway/">Runway<b>1</b></a><a href="/mavzu/yevropa-ittifoqi/">Yevropa Ittifoqi<b>1</b></a><a href="/mavzu/asml/">ASML<b>1</b></a><a href="/mavzu/vmware/">VMware<b>1</b></a><a href="/mavzu/amd/">AMD<b>1</b></a><a href="/mavzu/instagram/">Instagram<b>1</b></a><a href="/mavzu/ipo/">IPO<b>1</b></a><a href="/mavzu/donald-tramp/">Donald Tramp<b>1</b></a><a href="/mavzu/malumotlar-markazi/">ma'lumotlar markazi<b>1</b></a><a href="/mavzu/chatbot/">chatbot<b>1</b></a><a href="/mavzu/g20/">G20<b>1</b></a><a href="/mavzu/reklama/">reklama<b>1</b></a><a href="/mavzu/avstraliya/">Avstraliya<b>1</b></a><a href="/mavzu/xitoy/">Xitoy<b>1</b></a><a href="/mavzu/yaponiya/">Yaponiya<b>1</b></a></div>
 
   <footer>
     <div class="foot-brand">
@@ -576,7 +592,7 @@
       <a href="https://t.me/ailentauz" target="_blank" rel="noopener">Telegram</a>
     </nav>
   </footer>
-</div>
+</main>
 
 <script>
   (function () {

@@ -66,6 +66,12 @@
   a:focus-visible{outline:2px solid var(--accent);outline-offset:3px;border-radius:2px}
   .wrap{max-width:1020px;margin:0 auto;padding:0 1.4rem}
 
+  .skip{
+    position:absolute;left:-9999px;top:0;z-index:100;
+    background:var(--accent);color:#fff;padding:.7rem 1.1rem;font-weight:700;
+  }
+  .skip:focus{left:0}
+
   /* ---------- yuqori chiziq ---------- */
   .topbar{
     position:sticky;top:0;z-index:30;background:var(--paper);
@@ -414,6 +420,9 @@
   .feed-link a{color:var(--accent)}
   .feed-link a:hover{color:var(--ink)}
 
+  .topics-h{margin:2.4rem 0 .3rem;font-size:1.02rem;font-weight:800;letter-spacing:-.02em}
+  .topics-note{margin:0 0 .2rem;color:var(--faint);font-size:.88rem;max-width:56ch}
+
   .arch-month{padding:1.6rem 0 0}
   .arch-month h2{
     margin:0;font-size:1.05rem;font-weight:800;letter-spacing:-.02em;
@@ -529,10 +538,11 @@
 </style>
 </head>
 <body>
+<a class="skip" href="#asosiy">Asosiy kontentga o'tish</a>
 <div class="topbar">
   <div class="topbar-in">
     <a class="brand" href="/"><em>Ai</em>lenta</a>
-    <span class="status"><span class="dot"></span>04:25 da yangilandi</span>
+    <span class="status"><span class="dot"></span>04:32 da yangilandi</span>
     <nav class="nav">
       <a href="/qidiruv/">Qidiruv</a>
       <a href="/arxiv/">Arxiv</a>
@@ -545,7 +555,7 @@
   </div>
 </div>
 
-<div class="wrap">
+<main class="wrap" id="asosiy">
   <nav class="crumbs" aria-label="Yo'l">
     <a href="/">Bosh sahifa</a><span aria-hidden="true">/</span><a href="/kun/2026-08-31/">31-avgust</a>
   </nav>
@@ -632,7 +642,7 @@
       <a href="https://t.me/ailentauz" target="_blank" rel="noopener">Telegram</a>
     </nav>
   </footer>
-</div>
+</main>
 
 <script>
   (function () {

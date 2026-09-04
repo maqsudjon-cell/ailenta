@@ -99,7 +99,7 @@ export function render(posts, u) {
   })}
 ${topbar(now.hhmm)}
 
-<div class="wrap">
+<main class="wrap" id="asosiy">
 
   <section class="hero">
     <span class="eyebrow">Kunning asosiy xabari</span>
@@ -111,14 +111,6 @@ ${topbar(now.hhmm)}
       <span class="when-inline">${ago(lead.published)}</span>
     </div>
   </section>
-
-  <!-- Mavzu tasmasi. Ilgari mavzular faqat /mavzular/ ortida edi va
-       o'quvchi sayt nimalarni qamrab olishini bilmasdi. Endi eng ko'p
-       yoziladigan mavzular bosh sahifada turadi. -->
-  <nav class="topics" aria-label="Mavzular">
-    ${topTags.map((t) => `<a href="${tagPath(t)}">${esc(t)}</a>`).join("")}
-    <a class="topics-all" href="/mavzular/">Barchasi →</a>
-  </nav>
 
   <!-- Saytning va'dasi. Ilgari kichik kulrang monospace qator edi va uch
        qatorga noqulay o'ralib, nosozlik jurnaliga o'xshab turardi. Bu —
@@ -135,6 +127,14 @@ ${topbar(now.hhmm)}
   <section class="twin">
     ${second.map(secondCard).join("")}
   </section>
+
+  <!-- Mavzu tasmasi. Ilgari mavzular faqat /mavzular/ ortida edi va
+       o'quvchi sayt nimalarni qamrab olishini bilmasdi. Endi eng ko'p
+       yoziladigan mavzular bosh sahifada turadi. -->
+  <nav class="topics" aria-label="Mavzular">
+    ${topTags.map((t) => `<a href="${tagPath(t)}">${esc(t)}</a>`).join("")}
+    <a class="topics-all" href="/mavzular/">Barchasi →</a>
+  </nav>
 
   <aside class="tgcta">
     <div class="tgcta-text">
@@ -157,6 +157,7 @@ ${topbar(now.hhmm)}
     Sarlavha o'lchami xabar muhimligini, yonidagi chiziq esa bu voqea haqida nechta nashr
     yozganini ko'rsatadi. Tahlil maqolalari qo'lda yoziladi va alohida belgilanadi.
   </p>
+
 
   <!-- Yuqoridagi blok bilan bir xil ko'rinishda: sahifada ikki xil uslubdagi
        bitta taklif chalkashtiradi. Matni boshqa — pastga yetib kelgan

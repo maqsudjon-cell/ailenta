@@ -13,10 +13,10 @@ collect.mjs  →  filter.mjs  →  write.mjs  →  build.mjs
 
 | Bosqich | Nima qiladi | Chiqishi |
 | --- | --- | --- |
-| `collect.mjs` | 19 ta RSS/Atom feed, Hacker News API va Google News so'rovlaridan xabar oladi. Oxirgi 72 soat bilan cheklanadi, birja shovqinini bloklaydi. | `data/raw.json` |
+| `collect.mjs` | 50 ta RSS/Atom feed (jumladan Xitoy, Yevropa va O'zbekiston nashrlari), Hacker News API va Google News so'rovlaridan xabar oladi. Oxirgi 72 soat bilan cheklanadi, birja shovqinini bloklaydi. | `data/raw.json` |
 | `filter.mjs` | Ko'rilganlarni tashlaydi, AI'ga aloqasini baholaydi, bir voqea haqidagi turli xabarlarni bitta klasterga yig'adi (IDF vektor + markazga bog'lash), muhimini tanlaydi. | `data/clusters.json` |
 | `write.mjs` | Har klaster uchun LLM'dan o'zbekcha sarlavha va xulosa oladi. Xulosadagi raqamlar manba matnida borligini tekshiradi. | `data/posts.json`, `data/seen.json` |
-| `build.mjs` | `posts.json`dan statik HTML quradi. | `site/<dizayn>/index.html` |
+| `build.mjs` | `posts.json`dan butun saytni quradi: sahifalar, sitemap, RSS, qidiruv indeksi, llms.txt. | `docs/` |
 
 ## Ishga tushirish
 
@@ -245,6 +245,37 @@ Gemini bepul tarifida kunlik so'rov chegarasi bor va u **har bir model uchun
 alohida** hisoblanadi. Chegara tugasa `write.mjs` keyingi modelga o'tadi:
 `gemini-3.5-flash` → `gemini-2.5-flash` → `gemini-flash-latest`. Aks holda
 o'sha yugurishdagi xabarlar butunlay yo'qolardi.
+
+## Yordamchi skriptlar
+
+| Skript | Vazifasi | Qachon ishlaydi |
+| --- | --- | --- |
+| `watchdog.mjs` | 6 soatdan beri yangi xabar bo'lmasa xato qaytaradi — GitHub egaga xat yuboradi | har yugurishda, oxirida |
+| `photo-pool.mjs` | Commons kategoriyalaridan surat havzasini yig'adi | qo'lda, kerak bo'lganda |
+| `digest.mjs` | Kunlik dayjestni Telegramga yuboradi | kechqurun |
+| `indexnow.mjs` | Bing va Yandex'ga yangi manzillarni bildiradi | har yugurishda |
+| `set-domain.mjs` | Saytni yangi domenga ko'chiradi | qo'lda |
+
+## Ma'lumot fayllari
+
+| Fayl | Nima uchun |
+| --- | --- |
+| `assets/nomlar.json` | Ismlar lug'ati — LLM chiqarishini yagona shaklga keltiradi (Sem Altman → Sam Altman) |
+| `assets/atamalar.json` | AI atamalari o'zbekcha izohi; `/lugat/` sahifasi va promptda ishlatiladi |
+| `assets/photos.json` | Qo'lda tanlangan suratlar va Commons kategoriyalari |
+| `assets/photo-pool.json` | Kategoriyalardan yig'ilgan surat havzasi |
+
+## Sozlamalar
+
+Muhim qiymatlar env orqali o'zgartiriladi, kodga tegmasdan:
+
+| O'zgaruvchi | Standart | Nima |
+| --- | --- | --- |
+| `TELEGRAM_TOP_PER_DAY` | 5 | kuniga nechta alohida post |
+| `TELEGRAM_TOP_GAP_MIN` | 150 | postlar orasidagi eng kam oraliq |
+| `WRITE_BATCH` | 14 | bir LLM so'roviga nechta klaster |
+| `PHOTO_MIN_GAP` | 60 | surat necha xabar oralab takrorlanishi mumkin |
+| `WATCHDOG_HOURS` | 6 | nazorat chegarasi |
 
 ## Hozircha yo'q
 
