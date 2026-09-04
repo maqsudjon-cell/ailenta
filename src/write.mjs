@@ -24,7 +24,17 @@ async function writeAtomic(path, data) {
 }
 
 const PROVIDER = process.env.AI_PROVIDER || "gemini";
-const BATCH = 8;
+// Bitta so'rovda nechta klaster. Kattaroq to'plam = kamroq so'rov =
+// Gemini bepul tarif chegarasi kechroq tugaydi.
+//
+// Sabab: kuniga ~24 yugurish, har birida 2-3 so'rov = 50-70 so'rov.
+// Chegara shuncha ko'tarmadi va tunda 01:00-04:00 orasida 429 qaytib,
+// xabarlar to'xtab qoldi. 8 dan 14 ga o'tish so'rovlar sonini deyarli
+// ikki barobar kamaytiradi.
+//
+// 14 xavfsiz: kirish ~5000 token, chiqish ~2000 — Flash modelining
+// 8192 tokenlik standart chegarasidan ancha past.
+const BATCH = Number(process.env.WRITE_BATCH || 14);
 
 const SYSTEM = `Sen o'zbek tilidagi AI yangiliklar tahririyatining muharririsan.
 Senga bir voqea haqidagi ingliz tilidagi sarlavhalar va qisqa tavsiflar beriladi.
