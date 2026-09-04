@@ -29,6 +29,21 @@ const AI_TERMS_RAW = [
 ];
 
 // Bular yangilik emas — reklama, ro'yxat, birja shovqini.
+// Press-reliz va mahsulot e'loni belgilari. To'liq to'sish emas — ball
+// pasaytiriladi, chunki haqiqiy e'lon ham shu so'zlar bilan yoziladi.
+const PROMO = [
+  /\btaqdim etdi\b/, /\bchiqardi\b.*\bqurilma\b/, /\bsotuvga chiqdi\b/,
+  /\bchegirma\b/, /\baksiya\b.*\bnarx\b/, /\bkupon\b/, /\bsotib oling\b/,
+  /\beng yaxshi\b.*\bro.yxat\b/, /\bqanday tanlash\b/,
+];
+
+// Iste'mol elektronikasi brendlari: ularning e'lonlari AI atamasini
+// ishlatadi, lekin AI yangiligi emas.
+const CONSUMER = [
+  /\banker\b/, /\bugreen\b/, /\beufy\b/, /\bgeforce now\b/, /\bnba 2k\b/,
+  /\bxiaomi\b.*\bsmartfon\b/, /\bnaushnik\b/, /\bchangyutgich\b/,
+];
+
 const JUNK = [
   /\bdeal(s)?\b.*\b(off|save|discount|price)\b/i,
   /\b(best|top)\s+\d+\b/i,
@@ -243,6 +258,31 @@ function scoreCluster(c) {
   s += Math.min(pts / 25, 8);                 // HN ovozlari
   const ageH = (Date.now() - Date.parse(lead.published)) / 3600_000;
   s -= Math.max(0, ageH - 12) * 0.4;          // eskirgani uchun jarima
+
+  // Reklama va mahsulot e'lonlari uchun jarima.
+  //
+  // O'lchandi: 383 xabardan 23 tasi shu turdagi — "Anker Eufy yangi robot
+  // taqdim etdi", "NBA 2K27 GeForce NOW'ga keladi", "Ugreen platformani
+  // taqdim etdi". Ular AI atamasini ishlatgani uchun filtrdan o'tadi,
+  // lekin yangilik emas — press-reliz.
+  //
+  // Jarima, to'liq to'sish emas: kompaniyaning haqiqiy e'loni ham shu
+  // shaklda yoziladi. Bir nechta nashr yozgan bo'lsa (c.items.length)
+  // ball baribir yuqori qoladi.
+  const t = ` ${norm(lead.title)} `;
+
+  // Jarima FAQAT kam yoritilgan xabarga. Farq shunda: press-reliz haqida
+  // bitta nashr yozadi, haqiqiy e'lon haqida o'nlab.
+  //
+  // Sinovda ko'rindi: shartsiz jarima "OpenAI GPT-6 modelini taqdim etdi"
+  // kabi yirik e'lonni ham pasaytirardi.
+  const lonely = c.items.length <= 2;
+  if (lonely && PROMO.some((re) => re.test(t))) s -= 14;
+
+  // Iste'mol elektronikasi brendlari — bu yerda shart yo'q: Anker yoki
+  // GeForce NOW xabari nechta nashrda chiqsa ham AI yangiligi emas.
+  if (CONSUMER.some((re) => re.test(t))) s -= 10;
+
   return Math.round(s * 10) / 10;
 }
 

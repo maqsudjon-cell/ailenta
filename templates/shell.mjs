@@ -374,6 +374,17 @@ export const CSS = `<style>
   }
   .listing-head p{margin:.8rem 0 0;color:var(--dim);max-width:56ch}
 
+  .arch-month{padding:1.6rem 0 0}
+  .arch-month h2{
+    margin:0;font-size:1.05rem;font-weight:800;letter-spacing:-.02em;
+    display:flex;align-items:baseline;gap:.6rem;flex-wrap:wrap;
+  }
+  .arch-month h2 span{
+    font-family:var(--mono);font-size:.72rem;font-weight:400;color:var(--faint);
+    letter-spacing:.04em;
+  }
+  .arch-month .tagcloud{padding-top:.7rem}
+
   .tagcloud{display:flex;flex-wrap:wrap;gap:.45rem;padding:1.4rem 0 0}
   .tagcloud a{
     font-family:var(--mono);font-size:.7rem;text-transform:uppercase;letter-spacing:.08em;

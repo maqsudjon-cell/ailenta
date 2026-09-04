@@ -363,6 +363,27 @@
       "local": true,
       "uzTech": true,
       "lang": "uz"
+    },
+    {
+      "id": "technode",
+      "name": "TechNode",
+      "url": "https://technode.com/feed/",
+      "weight": 3,
+      "lang": "en"
+    },
+    {
+      "id": "pandaily",
+      "name": "Pandaily",
+      "url": "https://pandaily.com/feed",
+      "weight": 3,
+      "lang": "en"
+    },
+    {
+      "id": "sifted",
+      "name": "Sifted",
+      "url": "https://sifted.eu/feed",
+      "weight": 3,
+      "lang": "en"
     }
   ],
   "googleNews": [

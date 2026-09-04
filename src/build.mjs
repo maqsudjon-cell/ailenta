@@ -358,18 +358,35 @@ async function buildSite() {
     pages++;
   }
 
-  // Arxiv — barcha kunlar ro'yxati.
-  const archiveLinks = `<div class="tagcloud">${days
-    .map(([ymd, items]) => {
-      const t = tashkent(`${ymd}T12:00:00Z`);
-      return `<a href="/kun/${ymd}/">${t.day}-${t.month}<b>${items.length}</b></a>`;
-    })
-    .join("")}</div>`;
+  // Arxiv — kunlar OY bo'yicha guruhlangan.
+  //
+  // Ilgari hamma kun bitta uzun ro'yxatda edi. Bir necha oydan keyin u
+  // yuzlab havolaga aylanadi va foydasiz bo'lib qoladi.
+  const byMonth = new Map();
+  for (const [ymd, items] of days) {
+    const t = tashkent(`${ymd}T12:00:00Z`);
+    const key = ymd.slice(0, 7);
+    if (!byMonth.has(key)) byMonth.set(key, { label: `${t.month} ${t.year}`, days: [], n: 0 });
+    const m = byMonth.get(key);
+    m.days.push([ymd, t, items.length]);
+    m.n += items.length;
+  }
+  const archiveLinks = [...byMonth.entries()]
+    .sort((a, b) => b[0].localeCompare(a[0]))
+    .map(([, m]) => `
+      <section class="arch-month">
+        <h2>${esc(m.label)} <span>${m.n} ta xabar</span></h2>
+        <div class="tagcloud">${m.days
+          .sort((a, b) => b[0].localeCompare(a[0]))
+          .map(([ymd, t, n]) => `<a href="/kun/${ymd}/">${t.day}-${t.month}<b>${n}</b></a>`)
+          .join("")}</div>
+      </section>`)
+    .join("");
   await write("docs/arxiv/index.html", listPage({
     title: `Arxiv — ${SITE.name}`,
     heading: "Arxiv",
-    intro: `Kun bo'yicha arxiv: ${days.length} kun, jami ${posts.length} ta sun'iy intellekt xabari `
-      + `o'zbek tilida. Har bir kunni alohida ochib, o'sha kuni nima bo'lganini ko'rish mumkin.`,
+    intro: `Oy va kun bo'yicha arxiv: ${byMonth.size} oy, ${days.length} kun, jami ${posts.length} ta `
+      + `sun'iy intellekt xabari o'zbek tilida. Har bir kunni alohida ochish mumkin.`,
     path: "/arxiv/",
     items: [],
     trail: [{ label: "Bosh sahifa", href: "/" }, { label: "Arxiv" }],
