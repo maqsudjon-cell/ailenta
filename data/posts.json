@@ -1,5 +1,51 @@
 [
   {
+    "id": "cc4c98b60610",
+    "slug": "nvidia-shaxsiy-kompyuterlar-uchun-pair-dasturini-chiqardi-cc4c98",
+    "title": "Nvidia shaxsiy kompyuterlar uchun PAIR dasturini chiqardi",
+    "summary": "Nvidia kompaniyasi shaxsiy kompyuterlarni mahalliy AI vazifalarini bajarish uchun birlashtiruvchi bepul PAIR dasturini taqdim etdi. Ushbu ochiq kodli dasturiy ta'minot Ollama va LM Studio kabi vositalar bilan ishlaydi.",
+    "tags": [
+      "Nvidia",
+      "agentlar"
+    ],
+    "importance": 4,
+    "score": 28.4,
+    "published": "2026-09-03T16:00:00.000Z",
+    "created": "2026-09-04T08:04:09.594Z",
+    "coverage": 2,
+    "source": {
+      "name": "The Verge",
+      "url": "https://theverge.com/ai-artificial-intelligence/989435/nvidia-pair-personal-ai-router-home-local-llm-compute-tool-rtx-macbook",
+      "title": "Nvidia launches free tool that links idle computers into a personal AI data center",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "d4793f1bc3ad",
+    "slug": "anthropic-15-mlrd-dollarlik-kredit-liniyasini-yakunlamoqda-d4793f",
+    "title": "Anthropic 15 mlrd dollarlik kredit liniyasini yakunlamoqda",
+    "summary": "Anthropic kompaniyasi IPO oldidan 15 milliard dollarlik kredit liniyasini rasmiylashtirishni yakunlamoqda. Bu haqda Bloomberg nashri xabar berdi.",
+    "tags": [
+      "Anthropic",
+      "biznes"
+    ],
+    "importance": 4,
+    "score": 27,
+    "published": "2026-09-03T22:43:54.000Z",
+    "created": "2026-09-04T08:04:09.597Z",
+    "coverage": 1,
+    "source": {
+      "name": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQOExNTGpmX1ZyVUtwbXBmVWkyanNXNnY2eUVJQlhDTG0tT0Z0cUdkcGk4bVVrd0FWVnlkRDRxcC14TUI0STd0bkE4Q3RLLXVSUGExZmtneUctNmItcjlDNmZpTWhfckZGVFJYd0RISEdIUVRhSmNxS2o1OVAyaW9YVm90S2wyYWZ4SnZGSzNzZmhiaXE1MmpkTHhIazI3b3JKMnlJcVBXS0tON19xVTlJeGV3",
+      "title": "Anthropic Finalizing $15 Billion Pre-IPO Credit Facility",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "0ccbabc26ca5",
     "slug": "o-zbekistonda-startaplar-uchun-yangi-dastur-ishga-tushadi-0ccbab",
     "title": "O‘zbekistonda startaplar uchun yangi dastur ishga tushadi",
