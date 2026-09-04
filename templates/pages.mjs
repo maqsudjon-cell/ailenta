@@ -684,7 +684,10 @@ ${topbar(now.hhmm)}
       Nashr vakili bo'lsangiz va materialingizga oid e'tirozingiz bo'lsa,
       xabar bering — tegishli sahifa darhol olib tashlanadi.
     </p>
-    <p><a class="doc-cta" href="${tg}" target="_blank" rel="noopener">Telegram orqali yozish</a></p>
+    <p class="doc-contact">
+      <a class="doc-cta" href="mailto:${esc(SITE.email)}">${esc(SITE.email)}</a>
+      <a class="doc-cta doc-cta-alt" href="${tg}" target="_blank" rel="noopener">Telegram</a>
+    </p>
 
     <h2>Suratlar</h2>
     <p>
@@ -740,12 +743,111 @@ ${topbar(now.hhmm)}
     font-weight:700;padding:.6rem 1.1rem;border-radius:3px;
   }
   .doc-cta:hover{opacity:.87;color:#fff !important}
+  .doc-contact{display:flex;gap:.6rem;flex-wrap:wrap;align-items:center}
+  .doc-cta-alt{
+    background:none;border:1px solid var(--line);color:var(--ink) !important;font-weight:600;
+  }
+  .doc-cta-alt:hover{border-color:var(--ink);opacity:1;color:var(--ink) !important}
   .doc-sources{
     display:flex;flex-wrap:wrap;gap:.4rem;list-style:none;padding:0;margin:.9rem 0 0;
   }
   .doc-sources li{
     font-size:.82rem;color:var(--dim);
     border:1px solid var(--line);padding:.3rem .65rem;border-radius:3px;
+  }
+</style>
+${foot(now)}`;
+}
+
+// ---------- ochiq statistika ----------
+//
+// "Bugun necha manba, necha xabar" — shaffoflik ishonch beradi va
+// texnik auditoriyaga yoqadi. Raqamlar qo'lda emas, ma'lumotdan
+// hisoblanadi: to'qib yozilgan son bo'lmasligi uchun.
+export function statsPage(s, u) {
+  const { tashkent, esc } = u;
+  const now = tashkent(new Date().toISOString());
+
+  const bar = (n, max) => Math.round((n / Math.max(1, max)) * 100);
+  const maxDay = Math.max(...s.days.map((d) => d.n), 1);
+  const maxSrc = Math.max(...s.topSources.map((x) => x[1]), 1);
+
+  return `${head({
+    title: pageTitle("Statistika"),
+    description: "Ailenta raqamlarda: nechta xabar, nechta manba, kunlik oqim va eng ko'p yoziladigan mavzular.",
+    path: "/statistika/",
+  })}
+${topbar(now.hhmm)}
+
+<div class="wrap">
+  ${crumbs([{ label: "Bosh sahifa", href: "/" }, { label: "Statistika" }], u)}
+
+  <div class="listing-head">
+    <h1>Statistika</h1>
+    <p>Raqamlar ma'lumotdan hisoblanadi va har qurilishda yangilanadi.</p>
+  </div>
+
+  <div class="stat-grid">
+    <div class="stat"><b>${s.posts}</b><span>xabar</span></div>
+    <div class="stat"><b>${s.sources}</b><span>manba</span></div>
+    <div class="stat"><b>${s.tags}</b><span>mavzu</span></div>
+    <div class="stat"><b>${s.days.length}</b><span>kun</span></div>
+    <div class="stat"><b>${s.withPhoto}</b><span>suratli xabar</span></div>
+    <div class="stat"><b>${s.perDay}</b><span>kuniga o'rtacha</span></div>
+  </div>
+
+  <h2 class="stat-h">Kunlik oqim</h2>
+  <div class="stat-rows">
+    ${s.days.slice(-14).map((d) => `<div class="stat-row">
+      <span class="stat-lbl">${esc(d.label)}</span>
+      <span class="stat-bar"><i style="width:${bar(d.n, maxDay)}%"></i></span>
+      <span class="stat-num">${d.n}</span>
+    </div>`).join("")}
+  </div>
+
+  <h2 class="stat-h">Eng ko'p yozadigan manbalar</h2>
+  <div class="stat-rows">
+    ${s.topSources.map(([name, n]) => `<div class="stat-row">
+      <span class="stat-lbl">${esc(name)}</span>
+      <span class="stat-bar"><i style="width:${bar(n, maxSrc)}%"></i></span>
+      <span class="stat-num">${n}</span>
+    </div>`).join("")}
+  </div>
+
+  <p class="stat-note">
+    Manbalarning to'liq ro'yxati <a href="/haqida/">Loyiha haqida</a> sahifasida.
+    Xabarlar qanday yig'ilishi va xulosani kim yozishi ham o'sha yerda.
+  </p>
+</div>
+
+<style>
+  .stat-grid{
+    display:grid;grid-template-columns:repeat(auto-fit,minmax(9rem,1fr));
+    gap:1px;background:var(--line);border:1px solid var(--line);margin:1.6rem 0 0;
+  }
+  .stat{background:var(--paper);padding:1.2rem 1rem;text-align:center}
+  .stat b{
+    display:block;font-size:1.9rem;font-weight:900;letter-spacing:-.04em;
+    font-variant-numeric:tabular-nums;
+  }
+  .stat span{
+    display:block;margin-top:.2rem;font-size:.72rem;letter-spacing:.08em;
+    text-transform:uppercase;color:var(--faint);
+  }
+  .stat-h{margin:2.4rem 0 .9rem;font-size:1.05rem;font-weight:800;letter-spacing:-.02em}
+  .stat-rows{display:flex;flex-direction:column;gap:.4rem}
+  .stat-row{display:grid;grid-template-columns:8.5rem 1fr 2.6rem;gap:.7rem;align-items:center}
+  .stat-lbl{font-size:.85rem;color:var(--dim);overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+  .stat-bar{background:var(--hair);height:.55rem;border-radius:2px;overflow:hidden}
+  .stat-bar i{display:block;height:100%;background:var(--accent);border-radius:2px}
+  .stat-num{
+    font-family:var(--mono);font-size:.78rem;color:var(--faint);text-align:right;
+    font-variant-numeric:tabular-nums;
+  }
+  .stat-note{margin:2.2rem 0 3rem;color:var(--faint);font-size:.9rem;max-width:56ch}
+  @media(max-width:600px){
+    .stat-row{grid-template-columns:6.5rem 1fr 2.2rem;gap:.5rem}
+    .stat-lbl{font-size:.78rem}
   }
 </style>
 ${foot(now)}`;

@@ -140,3 +140,9 @@ jobs:
           IG_USER_ID: ${{ secrets.IG_USER_ID }}
           IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
         run: node src/instagram.mjs
+
+      # Nazorat quvurning OXIRIDA: xato bo'lsa ham sayt allaqachon nashr
+      # qilingan bo'ladi. continue-on-error YO'Q — xato ko'rinishi kerak,
+      # GitHub shunda repozitoriya egasiga xat yuboradi.
+      - name: Quvur nazorati
+        run: node src/watchdog.mjs

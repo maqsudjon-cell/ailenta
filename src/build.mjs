@@ -8,7 +8,7 @@ import { readFile, writeFile, mkdir, rm, stat } from "node:fs/promises";
 import { join, dirname } from "node:path";
 import { fileURLToPath } from "node:url";
 import { SITE } from "../templates/shell.mjs";
-import { postPage, listPage, topicsPage, notFoundPage, photosPage, instagramPage, searchPage, aboutPage } from "../templates/pages.mjs";
+import { postPage, listPage, topicsPage, notFoundPage, photosPage, instagramPage, searchPage, aboutPage, statsPage } from "../templates/pages.mjs";
 import { caption } from "./instagram.mjs";
 import { slugTag } from "../templates/parts.mjs";
 import { buildImages } from "./images.mjs";
@@ -393,6 +393,31 @@ async function buildSite() {
   ));
   urls.push({ path: "/haqida/", lastmod: new Date().toISOString(), freq: "monthly", priority: "0.6" });
   pages++;
+
+  // Ochiq statistika — shaffoflik. Raqamlar ma'lumotdan hisoblanadi.
+  {
+    const srcCount = new Map();
+    for (const p of posts) srcCount.set(p.source.name, (srcCount.get(p.source.name) || 0) + 1);
+    const dayCount = new Map();
+    for (const p of posts) {
+      const t = tashkent(p.published);
+      const key = t.ymd;
+      if (!dayCount.has(key)) dayCount.set(key, { label: `${t.day}-${t.month}`, n: 0 });
+      dayCount.get(key).n++;
+    }
+    const days = [...dayCount.entries()].sort((a, b) => a[0].localeCompare(b[0])).map(([, v]) => v);
+    await write("docs/statistika/index.html", statsPage({
+      posts: posts.length,
+      sources: srcCount.size,
+      tags: byTag.size,
+      withPhoto,
+      perDay: days.length ? Math.round(posts.length / days.length) : 0,
+      days,
+      topSources: [...srcCount.entries()].sort((a, b) => b[1] - a[1]).slice(0, 12),
+    }, U));
+    urls.push({ path: "/statistika/", lastmod: new Date().toISOString(), freq: "daily", priority: "0.5" });
+    pages++;
+  }
 
   // Qidiruv — 368 xabar orasidan topish uchun. Brauzerda ishlaydi.
   await write("docs/qidiruv/index.html", searchPage(U));

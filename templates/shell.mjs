@@ -11,6 +11,8 @@ export const SITE = {
   lang: "uz",
   goatcounter: "ailenta",
   telegram: "ailentauz",
+  // Nashrlar takedown so'rovi uchun odatda email kutadi, Telegram emas.
+  email: "polatovmaqsudjon1@gmail.com",
   // Rasmlarda va quyi qismda ko'rinadigan manzil. SITE.url dan olinadi,
   // shuning uchun domen ko'chganda alohida tuzatish kerak emas.
   get domain() { return this.url.replace(/^https?:\/\//, "").replace(/\/$/, ""); },
@@ -548,6 +550,8 @@ export function foot(now, extra = "") {
     <span><a href="/rss.xml">RSS</a></span>
     <span><a href="/rasmlar/">Suratlar</a></span>
     <span><a href="/haqida/">Loyiha haqida</a></span>
+    <span><a href="/statistika/">Statistika</a></span>
+    <span><a href="mailto:${SITE.email}">Aloqa</a></span>
     <span><a href="https://t.me/${SITE.telegram}" target="_blank" rel="noopener">Telegram kanal</a></span>
   </footer>
 </div>
