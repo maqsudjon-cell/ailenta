@@ -374,6 +374,10 @@ export const CSS = `<style>
   }
   .listing-head p{margin:.8rem 0 0;color:var(--dim);max-width:56ch}
 
+  .feed-link{margin:1rem 0 0;font-size:.85rem}
+  .feed-link a{color:var(--accent)}
+  .feed-link a:hover{color:var(--ink)}
+
   .arch-month{padding:1.6rem 0 0}
   .arch-month h2{
     margin:0;font-size:1.05rem;font-weight:800;letter-spacing:-.02em;
@@ -492,7 +496,7 @@ const FONTS = `<link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;600;700;800;900&family=IBM+Plex+Mono:wght@400;500;600&display=swap">`;
 
 // Sahifa boshi: meta teglar, ijtimoiy tarmoq kartasi, JSON-LD, statistika.
-export function head({ title, description, path = "/", jsonld = [], noindex = false, image, article }) {
+export function head({ title, description, path = "/", jsonld = [], noindex = false, image, article, feed }) {
   const canonical = `${SITE.url}${path}`;
   const desc = clampDesc(description || SITE.description);
   const og = `${SITE.url}${image || "/og/default.jpg"}`;
@@ -504,6 +508,7 @@ export function head({ title, description, path = "/", jsonld = [], noindex = fa
 <title>${esc(title)}</title>
 <meta name="description" content="${esc(desc)}">
 <link rel="canonical" href="${esc(canonical)}">
+${feed ? `<link rel="alternate" type="application/rss+xml" title="${esc(title)}" href="${esc(feed)}">` : ""}
 ${noindex ? '<meta name="robots" content="noindex,follow">' : '<meta name="robots" content="index,follow,max-image-preview:large,max-snippet:-1">'}
 <meta property="og:type" content="${article ? "article" : "website"}">
 <meta property="og:site_name" content="${esc(SITE.name)}">

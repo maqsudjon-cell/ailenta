@@ -81,17 +81,21 @@ ${urls.map((u) => `  <url>
 `;
 }
 
-function rss(posts) {
+function rss(posts, opt = {}) {
   const now = new Date().toUTCString();
+  const title = opt.title || SITE.name;
+  const link = opt.link || SITE.url;
+  const description = opt.description || SITE.description;
+  const self = opt.self || `${SITE.url}/rss.xml`;
   return `<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
-  <title>${esc(SITE.name)}</title>
-  <link>${SITE.url}</link>
-  <description>${esc(SITE.description)}</description>
+  <title>${esc(title)}</title>
+  <link>${esc(link)}</link>
+  <description>${esc(description)}</description>
   <language>uz</language>
   <lastBuildDate>${now}</lastBuildDate>
-  <atom:link href="${SITE.url}/rss.xml" rel="self" type="application/rss+xml"/>
+  <atom:link href="${esc(self)}" rel="self" type="application/rss+xml"/>
 ${posts.slice(0, 50).map((p) => `  <item>
     <title>${esc(p.title)}</title>
     <link>${SITE.url}/x/${esc(p.slug)}/</link>
@@ -320,10 +324,14 @@ async function buildSite() {
 
   // Mavzu sahifalari. Bitta xabarli mavzu sahifasi qidiruv uchun bo'sh sahifa —
   // havolasi ishlaydi, lekin indeksga tushmaydi va sitemapga kirmaydi.
+  //
+  // Chegara 3: ikkita xabarli sahifa ham Google uchun yupqa va shunday
+  // sahifalar ko'p bo'lsa butun saytning bahosi tushadi.
   let thinTags = 0;
+  const THIN_BELOW = 3;
   for (const [tag, items] of byTag) {
     const path = `/mavzu/${slugTag(tag)}/`;
-    const thin = items.length < 2;
+    const thin = items.length < THIN_BELOW;
     await write(`docs${path}index.html`, listPage({
       title: `${tag} — ${SITE.name}`,
       heading: tag,
@@ -332,10 +340,21 @@ async function buildSite() {
       path,
       items,
       noindex: thin,
+      feed: thin ? null : `${path}rss.xml`,
       trail: [{ label: "Bosh sahifa", href: "/" }, { label: "Mavzular", href: "/mavzular/" }, { label: tag }],
     }, U));
     if (thin) thinTags++;
-    else urls.push({ path, lastmod: items[0].published, freq: "daily", priority: "0.7" });
+    else {
+      urls.push({ path, lastmod: items[0].published, freq: "daily", priority: "0.7" });
+      // Mavzu bo'yicha alohida RSS: o'quvchi butun lentaga emas, faqat
+      // qiziqqan mavzusiga obuna bo'la oladi.
+      await write(`docs${path}rss.xml`, rss(items.slice(0, 30), {
+        title: `${SITE.name} — ${tag}`,
+        link: `${SITE.url}${path}`,
+        description: `"${tag}" mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.`,
+        self: `${SITE.url}${path}rss.xml`,
+      }));
+    }
     pages++;
   }
 

@@ -1,0 +1,57 @@
+name: Zaxira
+
+# Arxiv — loyihaning eng qimmatli aktivi. Repozitoriyaning o'zi ham
+# nusxa, lekin u buzilsa yoki o'chirilsa hammasi ketadi. Shuning uchun
+# ma'lumot haftada bir marta GitHub Release sifatida alohida saqlanadi:
+# release repozitoriya tarixiga bog'liq emas.
+
+on:
+  schedule:
+    - cron: "20 3 * * 0"      # yakshanba, 03:20 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  zaxira:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Arxivni tayyorlash
+        id: pack
+        run: |
+          mkdir -p zaxira
+          cp data/posts.json zaxira/
+          cp data/seen.json zaxira/ 2>/dev/null || true
+          cp assets/photos.json assets/photo-pool.json assets/nomlar.json assets/atamalar.json zaxira/ 2>/dev/null || true
+          cp sources.json zaxira/
+          N=$(node -e "console.log(require('./data/posts.json').length)")
+          D=$(date -u '+%Y-%m-%d')
+          tar -czf "ailenta-$D.tar.gz" zaxira
+          echo "n=$N" >> $GITHUB_OUTPUT
+          echo "d=$D" >> $GITHUB_OUTPUT
+          ls -lh "ailenta-$D.tar.gz"
+
+      - name: Release sifatida saqlash
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          TAG="zaxira-${{ steps.pack.outputs.d }}"
+          gh release create "$TAG" "ailenta-${{ steps.pack.outputs.d }}.tar.gz" \
+            --title "Zaxira ${{ steps.pack.outputs.d }}" \
+            --notes "${{ steps.pack.outputs.n }} ta xabar, manbalar va lug'atlar." \
+            || gh release upload "$TAG" "ailenta-${{ steps.pack.outputs.d }}.tar.gz" --clobber
+
+      - name: Eski zaxiralarni tozalash
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          # Oxirgi 8 tasi qoladi — taxminan ikki oylik tarix.
+          gh release list --limit 100 --json tagName \
+            --jq '.[] | select(.tagName | startswith("zaxira-")) | .tagName' \
+            | tail -n +9 | while read -r t; do
+              echo "o'chirilmoqda: $t"
+              gh release delete "$t" --yes --cleanup-tag || true
+            done

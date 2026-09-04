@@ -142,7 +142,7 @@ ${foot(now)}`;
 
 // ---------- ro'yxat sahifasi (mavzu, kun, arxiv) ----------
 
-export function listPage({ title, heading, intro, path, items, trail, extra = "", noindex = false }, u) {
+export function listPage({ title, heading, intro, path, items, trail, extra = "", noindex = false, feed = null }, u) {
   const { tashkent, esc } = u;
   const now = tashkent(new Date().toISOString());
 
@@ -168,11 +168,12 @@ export function listPage({ title, heading, intro, path, items, trail, extra = ""
     },
   ];
 
-  return `${head({ title, description: intro, path, jsonld, noindex })}
+  return `${head({ title, description: intro, path, jsonld, noindex, feed })}
 ${topbar(now.hhmm)}
 
 <div class="wrap">
   ${crumbs(trail, u)}
+  ${feed ? `<p class="feed-link"><a href="${feed}">Shu mavzuga RSS orqali obuna bo'lish</a></p>` : ""}
 
   <div class="listing-head">
     <h1>${esc(heading)}</h1>
