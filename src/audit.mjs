@@ -98,7 +98,11 @@ async function main() {
     }
 
     // --- ichki havolalar ---
-    for (const m of html.matchAll(/href="(\/[^"]*)"/g)) internal.add(m[1]);
+    // <script> ichidagi matn havola emas. Qidiruv sahifasining kodida
+    // '/x/' + it.s + '/' degan satr bor va u "bo'sh joyga olib boruvchi
+    // havola" deb xato belgilanardi.
+    const noScript = html.replace(/<script\b[^>]*>[\s\S]*?<\/script>/gi, "");
+    for (const m of noScript.matchAll(/href="(\/[^"]*)"/g)) internal.add(m[1]);
   }
 
   // --- ichki havolalar haqiqatan mavjudmi ---

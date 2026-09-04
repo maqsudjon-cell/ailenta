@@ -547,6 +547,7 @@ export function foot(now, extra = "") {
     <span><a href="/arxiv/">Arxiv</a></span>
     <span><a href="/rss.xml">RSS</a></span>
     <span><a href="/rasmlar/">Suratlar</a></span>
+    <span><a href="/haqida/">Loyiha haqida</a></span>
     <span><a href="https://t.me/${SITE.telegram}" target="_blank" rel="noopener">Telegram kanal</a></span>
   </footer>
 </div>

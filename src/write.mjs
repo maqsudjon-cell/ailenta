@@ -178,6 +178,34 @@ export function numbersAreGrounded(text, sourceText) {
   });
 }
 
+// Ismlar lug'ati. Bitta sahifada "Sem Altman" ham, "Sam Altman" ham
+// chiqib qolardi (o'lchandi: 7 va 1 marta). Promptga ko'rsatma yozish
+// yetarli emasligi bugun ikki marta ko'rindi, shuning uchun almashtirish
+// chiqishda MAJBURAN bajariladi.
+let NAMES = null;
+async function loadNames() {
+  if (NAMES) return NAMES;
+  try {
+    const raw = JSON.parse(await readFile(join(ROOT, "assets/nomlar.json"), "utf8"));
+    NAMES = [];
+    for (const [canon, variants] of Object.entries(raw)) {
+      if (canon.startsWith("_")) continue;
+      for (const v of variants) {
+        if (v === canon) continue;
+        // So'z chegarasi bilan: "Meta" ni "Metallurgiya" ichida almashtirmaymiz.
+        NAMES.push([new RegExp(`\\b${v.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")}\\b`, "g"), canon]);
+      }
+    }
+  } catch { NAMES = []; }
+  return NAMES;
+}
+
+function applyNames(text, rules) {
+  let out = String(text);
+  for (const [re, canon] of rules) out = out.replace(re, canon);
+  return out;
+}
+
 // Sarlavha uzunligi — promptda aytilgan, lekin model uni ba'zan e'tiborsiz
 // qoldiradi (o'lchandi: 244 xabardan 7 tasi 65 belgidan uzun). Google
 // sarlavhani ~60 belgida kesadi va bosilish darajasi tushadi, shuning uchun
@@ -305,6 +333,12 @@ async function main() {
         continue;
       }
       if (!r.title || !r.summary) continue;
+
+      // Ismlarni yagona shaklga keltiramiz — sarlavha uzunligi
+      // tekshiruvidan OLDIN, chunki almashtirish uzunlikni o'zgartiradi.
+      const nameRules = await loadNames();
+      r.title = applyNames(r.title, nameRules);
+      r.summary = applyNames(r.summary, nameRules);
 
       if (r.title.trim().length > TITLE_MAX) {
         const short = await shortenTitle(r.title.trim(), call);

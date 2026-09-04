@@ -8,7 +8,7 @@ import { readFile, writeFile, mkdir, rm, stat } from "node:fs/promises";
 import { join, dirname } from "node:path";
 import { fileURLToPath } from "node:url";
 import { SITE } from "../templates/shell.mjs";
-import { postPage, listPage, topicsPage, notFoundPage, photosPage, instagramPage, searchPage } from "../templates/pages.mjs";
+import { postPage, listPage, topicsPage, notFoundPage, photosPage, instagramPage, searchPage, aboutPage } from "../templates/pages.mjs";
 import { caption } from "./instagram.mjs";
 import { slugTag } from "../templates/parts.mjs";
 import { buildImages } from "./images.mjs";
@@ -382,6 +382,16 @@ async function buildSite() {
   const tagCounts = [...byTag.entries()].map(([t, items]) => [t, items.length]).sort((a, b) => b[1] - a[1]);
   await write("docs/mavzular/index.html", topicsPage(tagCounts, U));
   urls.push({ path: "/mavzular/", lastmod: posts[0]?.published || new Date().toISOString(), freq: "daily", priority: "0.6" });
+  pages++;
+
+  // Loyiha haqida — javobgarlik, aloqa, tuzatish siyosati, maxfiylik,
+  // litsenziya va manbalar ro'yxati bitta sahifada.
+  await write("docs/haqida/index.html", aboutPage(
+    [...new Set(posts.map((p) => p.source.name))].sort(),
+    { posts: posts.length, sources: new Set(posts.map((p) => p.source.name)).size },
+    U
+  ));
+  urls.push({ path: "/haqida/", lastmod: new Date().toISOString(), freq: "monthly", priority: "0.6" });
   pages++;
 
   // Qidiruv — 368 xabar orasidan topish uchun. Brauzerda ishlaydi.

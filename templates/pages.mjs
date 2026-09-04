@@ -608,3 +608,145 @@ ${topbar(now.hhmm)}
 </script>
 ${foot(now)}`;
 }
+
+// ---------- loyiha haqida ----------
+//
+// Auditning bir nechta bandini birdan yopadi: aloqa kanali (#2),
+// javobgarlik (#5), tuzatish siyosati (#6), maxfiylik (#45),
+// kontent litsenziyasi (#46), manbalar ro'yxati (#60).
+//
+// Ohang: avtomatlashtirishni yashirmaymiz. O'quvchi xulosani mashina
+// yozganini bilishi kerak — bu ishonchni buzmaydi, aksincha mustahkamlaydi,
+// chunki har xabarda asl manbaga havola turadi.
+export function aboutPage(sources, stats, u) {
+  const { tashkent, esc } = u;
+  const now = tashkent(new Date().toISOString());
+  const tg = `https://t.me/${SITE.telegram}`;
+
+  const jsonld = [
+    {
+      "@context": "https://schema.org",
+      "@type": "AboutPage",
+      name: "Loyiha haqida",
+      url: `${SITE.url}/haqida/`,
+      inLanguage: "uz",
+      publisher,
+    },
+  ];
+
+  return `${head({
+    title: pageTitle("Loyiha haqida"),
+    description: "Ailenta qanday ishlaydi: xabarlar qayerdan yig'iladi, xulosani kim yozadi, "
+      + "suratlar qayerdan olinadi va xato topsangiz qayerga yozish kerak.",
+    path: "/haqida/",
+    jsonld,
+  })}
+${topbar(now.hhmm)}
+
+<div class="wrap">
+  ${crumbs([{ label: "Bosh sahifa", href: "/" }, { label: "Loyiha haqida" }], u)}
+
+  <div class="listing-head">
+    <h1>Loyiha haqida</h1>
+    <p>Bu sayt sun'iy intellekt yangiliklarini o'zbek tilida yetkazadi.
+    Quyida u qanday ishlashi ochiq yozilgan.</p>
+  </div>
+
+  <div class="doc">
+    <h2>Qanday ishlaydi</h2>
+    <p>
+      Har soatda ${stats.sources} ta ochiq manbadan yangi xabarlar yig'iladi. Sun'iy
+      intellektga aloqador bo'lmaganlari chetlab o'tiladi, bir voqea haqida yozgan
+      turli nashrlar bitta guruhga birlashtiriladi. So'ng til modeli har guruh
+      uchun o'zbekcha sarlavha va qisqa xulosa yozadi.
+    </p>
+    <p class="doc-note">
+      <b>Xulosalarni mashina yozadi, odam emas.</b> Asl maqola tarjima qilinmaydi —
+      uning asosida qisqa mazmun tayyorlanadi. Har xabarda asl manbaga havola
+      turadi va uni o'qish tavsiya etiladi. Sarlavhadagi har bir raqam asl
+      matnda uchrashi avtomatik tekshiriladi; uchramasa xabar chiqmaydi.
+    </p>
+
+    <h2>Kim yuritadi</h2>
+    <p>
+      Loyihani <a href="https://maqsudjon.com" target="_blank" rel="noopener">Maqsudjon
+      Po'latov</a> yuritadi. Sayt mustaqil, hech qaysi nashr yoki kompaniyaga
+      tegishli emas. Xabarlar tanlovi avtomatik — qo'lda tahrir qilinmaydi.
+    </p>
+
+    <h2>Xato topsangiz</h2>
+    <p>
+      Xato bo'lishi mumkin: manba noto'g'ri yozgan bo'lishi ham, model xato
+      tushunishi ham mumkin. Topsangiz ayting — tuzatamiz va sahifada
+      nima o'zgargani ko'rsatiladi.
+    </p>
+    <p>
+      Nashr vakili bo'lsangiz va materialingizga oid e'tirozingiz bo'lsa,
+      xabar bering — tegishli sahifa darhol olib tashlanadi.
+    </p>
+    <p><a class="doc-cta" href="${tg}" target="_blank" rel="noopener">Telegram orqali yozish</a></p>
+
+    <h2>Suratlar</h2>
+    <p>
+      Saytdagi suratlar boshqa nashrlardan olinmaydi. Ular Wikimedia Commons'dan,
+      erkin litsenziya bilan — har birining muallifi va litsenziyasi
+      <a href="/rasmlar/">alohida sahifada</a> ko'rsatilgan. Mos surat topilmagan
+      xabarda kod bilan chizilgan muqova turadi.
+    </p>
+
+    <h2>Kontentdan foydalanish</h2>
+    <p>
+      Sarlavha va xulosalardan foydalansangiz, manba sifatida
+      <b>${esc(SITE.domain)}</b> ni va xabardagi asl nashrni ko'rsating.
+      RSS lentasi ochiq: <a href="/rss.xml">${esc(SITE.domain)}/rss.xml</a>.
+      Suratlar o'z litsenziyalari bilan tarqatiladi.
+    </p>
+
+    <h2>Maxfiylik</h2>
+    <p>
+      Sayt kuki qo'ymaydi va ro'yxatdan o'tishni talab qilmaydi. Tashriflar
+      GoatCounter orqali sanaladi — u IP manzilni saqlamaydi va shaxsni
+      aniqlamaydi. Reklama tarmoqlari va kuzatuv skriptlari yo'q.
+    </p>
+
+    <h2>Manbalar</h2>
+    <p>Xabarlar quyidagi nashrlardan yig'iladi:</p>
+    <ul class="doc-sources">
+      ${sources.map((s) => `<li>${esc(s)}</li>`).join("")}
+    </ul>
+    <p class="doc-note">
+      Ro'yxat o'zgarib turadi. Hozir ${stats.posts} ta xabar,
+      ${stats.sources} ta manba.
+    </p>
+  </div>
+</div>
+
+<style>
+  .doc{padding:1.6rem 0 3rem;max-width:60ch}
+  .doc h2{
+    margin:2.2rem 0 .7rem;font-size:1.15rem;font-weight:800;letter-spacing:-.02em;
+  }
+  .doc h2:first-child{margin-top:0}
+  .doc p{margin:.7rem 0 0;color:var(--dim);line-height:1.65}
+  .doc p b{color:var(--ink);font-weight:600}
+  .doc a{color:var(--accent)}
+  .doc a:hover{color:var(--ink)}
+  .doc-note{
+    padding:.9rem 1.1rem;background:var(--raise);
+    border-left:3px solid var(--accent);font-size:.94rem;
+  }
+  .doc-cta{
+    display:inline-block;margin-top:.5rem;background:var(--accent);color:#fff !important;
+    font-weight:700;padding:.6rem 1.1rem;border-radius:3px;
+  }
+  .doc-cta:hover{opacity:.87;color:#fff !important}
+  .doc-sources{
+    display:flex;flex-wrap:wrap;gap:.4rem;list-style:none;padding:0;margin:.9rem 0 0;
+  }
+  .doc-sources li{
+    font-size:.82rem;color:var(--dim);
+    border:1px solid var(--line);padding:.3rem .65rem;border-radius:3px;
+  }
+</style>
+${foot(now)}`;
+}

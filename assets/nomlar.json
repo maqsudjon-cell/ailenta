@@ -1,0 +1,25 @@
+{
+  "_izoh": "Ismlar va kompaniyalar lug'ati. Chap tomonda — yagona to'g'ri shakl, o'ngda LLM chiqarishi mumkin bo'lgan variantlar. write.mjs har xabarni yozgach shu jadval bo'yicha almashtiradi. Promptga ko'rsatma yozish yetarli emas: o'lchandi, 'Sem Altman' 7 marta, 'Sam Altman' 1 marta chiqqan.",
+  "_qoida": "Asl lotin yozuvi saqlanadi. Sabab: odamlar qidiruvda 'Sam Altman' deb yozadi, 'Sem Oltman' deb emas — ya'ni bu SEO masalasi ham.",
+
+  "Sam Altman":        ["Sem Altman", "Sem Oltman", "Sam Oltman", "Sem Altmen"],
+  "Elon Musk":         ["Ilon Mask", "Elon Mask", "Ilon Musk", "Elon Mask"],
+  "Mark Zuckerberg":   ["Mark Sukerberg", "Mark Zukerberg", "Mark Zuckerburg", "Mark Sukkerberg"],
+  "Jensen Huang":      ["Jensen Xuang", "Jensen Hvang", "Jensen Huan"],
+  "Dario Amodei":      ["Dario Amodey", "Dario Amodei", "Dario Amodei"],
+  "Sundar Pichai":     ["Sundar Pichay", "Sundar Pichaya"],
+  "Satya Nadella":     ["Satya Nadela", "Satiya Nadella"],
+  "Greg Brockman":     ["Greg Brokman", "Grek Brokman"],
+  "Ilya Sutskever":    ["Ilya Sutskver", "Ilya Sutskevar"],
+  "Tim Cook":          ["Tim Kuk"],
+  "Demis Hassabis":    ["Demis Xassabis", "Demis Hassabis"],
+
+  "OpenAI":            ["Open AI", "OpenAi", "Openai"],
+  "Anthropic":         ["Antropik", "Anthropik"],
+  "Nvidia":            ["NVIDIA", "Nvidiya"],
+  "Google":            ["Gugl"],
+  "Microsoft":         ["Maykrosoft"],
+  "Hugging Face":      ["Hagging Feys", "HuggingFace"],
+  "DeepMind":          ["Deep Mind", "Dipmaynd"],
+  "Meta":              ["Meta Platforms"]
+}
