@@ -1,5 +1,49 @@
 [
   {
+    "id": "e2496fd9747c",
+    "slug": "github-copilot-dasturiga-hydrafusion-qo-shildi-e2496f",
+    "title": "GitHub Copilot dasturiga HydraFusion qo‘shildi",
+    "summary": "Microsoft kompaniyasi GitHub Copilot tizimida HydraFusion texnologiyasini taqdim etdi. U kodlash vazifalarini bajarish uchun bir nechta modellarni birlashtiradi. Bu esa xarajatlarni 67 foizgacha kamaytirish imkonini beradi.",
+    "tags": [
+      "Microsoft"
+    ],
+    "importance": 3,
+    "score": 36,
+    "published": "2026-09-04T17:30:53.000Z",
+    "created": "2026-09-04T18:01:09.088Z",
+    "coverage": 1,
+    "source": {
+      "name": "Microsoft",
+      "url": "https://linkedin.com/feed/update/urn:li:activity:7501674820452069376",
+      "title": "Super excited about HydraFusion in GitHub Copilot, and what it shows about the shift from model selection to model orchestration. By bringing together multiple models to plan, build, critique, and complete coding tasks, it can deliver outcomes at up to 67% lower cost. [Read more]",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "eec4ecfc0794",
+    "slug": "openai-prezidenti-ai-inson-darajasiga-yetganini-aytdi-eec4ec",
+    "title": "OpenAI prezidenti AI inson darajasiga yetganini aytdi",
+    "summary": "OpenAI prezidenti Greg Brockman sun’iy intellekt hozirda inson kabi qobiliyatga ega ekanini ta’kidladi. Ushbu bayonot kompaniya ChatGPT uchun yangi va kuchli modelni chiqarishga tayyorlanayotgan bir vaqtda yangradi.",
+    "tags": [
+      "OpenAI"
+    ],
+    "importance": 4,
+    "score": 25.5,
+    "published": "2026-09-03T21:15:00.000Z",
+    "created": "2026-09-04T18:01:09.089Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Washington Post",
+      "url": "https://washingtonpost.com/technology/2026/09/03/openai-greg-brockman-says-its-new-model-astra-is-agi",
+      "title": "OpenAI’s president claims AI is as capable as humans now",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "ac276b593910",
     "slug": "g42-aqsh-kompaniyalariga-ulushini-sotishni-ko-rib-chiqmoqda-ac276b",
     "title": "G42 AQSh kompaniyalariga ulushini sotishni koʻrib chiqmoqda",
