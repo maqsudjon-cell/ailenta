@@ -1,17 +1,17 @@
 [
   {
     "id": "145f28bce137",
-    "slug": "broadcom-ai-chip-daromadi-16-7-milliard-dollarga-yetdi-145f28",
-    "title": "Broadcom AI chip daromadi 16,7 milliard dollarga yetdi",
-    "summary": "Broadcom kompaniyasining AI chip daromadi uch baravar oshib, 16,7 milliard dollarga yetdi. Bu oʻsish 221 foizni tashkil etib, maxsus chiplar endi Nvidia mahsulotlaridan arzonroq ekanligini koʻrsatmoqda.",
+    "slug": "broadcom-ai-chiplaridan-tushgan-daromadini-oshirdi-145f28",
+    "title": "Broadcom AI chiplaridan tushgan daromadini oshirdi",
+    "summary": "Broadcom kompaniyasining AI chiplaridan olgan daromadi uch barobar ko‘payib, 16,7 milliard dollarga yetdi. Kompaniyaning maxsus chiplari hozirda Nvidia mahsulotlaridan arzonroq sotilmoqda.",
     "tags": [
-      "Broadcom",
-      "chiplar"
+      "chiplar",
+      "biznes"
     ],
     "importance": 4,
     "score": 28,
     "published": "2026-09-04T06:00:00.000Z",
-    "created": "2026-09-04T15:01:16.269Z",
+    "created": "2026-09-04T15:03:00.096Z",
     "coverage": 4,
     "source": {
       "name": "Martin Cid Magazine",
@@ -23,90 +23,22 @@
     "model": "gemini"
   },
   {
-    "id": "d75554c78e0f",
-    "slug": "google-deepmind-weathernext-3-ob-havo-modelini-taqdim-etdi-d75554",
-    "title": "Google DeepMind WeatherNext 3 ob-havo modelini taqdim etdi",
-    "summary": "Google DeepMind oʻzining eng ilgʻor va aniq global ob-havo AI modeli WeatherNext 3ʼni ishga tushirdi. Bu model ob-havo prognozlarini yaxshilashga qaratilgan.",
-    "tags": [
-      "Google",
-      "tadqiqot"
-    ],
-    "importance": 3,
-    "score": 27.2,
-    "published": "2026-09-03T15:02:08.000Z",
-    "created": "2026-09-04T15:01:16.270Z",
-    "coverage": 1,
-    "source": {
-      "name": "Google DeepMind",
-      "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model",
-      "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
-      "indirect": false
-    },
-    "also": [],
-    "model": "gemini"
-  },
-  {
-    "id": "df15784065a9",
-    "slug": "openai-agentlari-uchun-yangi-forum-topildi-df1578",
-    "title": "OpenAI agentlari uchun yangi forum topildi",
-    "summary": "Hacker News nashri OpenAI agentlari uchun moʻljallangan yangi xabar almashish forumining topilgani haqida xabar berdi. Bu forum agentlar faoliyatiga oid boʻlishi mumkin.",
-    "tags": [
-      "OpenAI",
-      "agentlar"
-    ],
-    "importance": 2,
-    "score": 26,
-    "published": "2026-09-04T11:54:53.000Z",
-    "created": "2026-09-04T15:01:16.271Z",
-    "coverage": 1,
-    "source": {
-      "name": "Hacker News",
-      "url": "https://collusion.wiki",
-      "title": "Discovery of a new OpenAI agent message board",
-      "indirect": false
-    },
-    "also": [],
-    "model": "gemini"
-  },
-  {
-    "id": "2cf84daeca42",
-    "slug": "ai-ish-bozorida-halokatli-aylanish-yaratmoqda-2cf84d",
-    "title": "AI ish bozorida \"halokatli aylanish\" yaratmoqda",
-    "summary": "Wired nashrining xabar berishicha, ish izlovchilar AI yordamida arizalarni topshirish jarayonini manipulyatsiya qilishga urinmoqda. Biroq bu urinishlar kutilgan natijani bermayapti.",
-    "tags": [
-      "mehnat bozori"
-    ],
-    "importance": 3,
-    "score": 23,
-    "published": "2026-09-04T10:00:00.000Z",
-    "created": "2026-09-04T15:01:16.271Z",
-    "coverage": 1,
-    "source": {
-      "name": "Wired",
-      "url": "https://wired.com/story/ai-job-market-infinite-doom-loop",
-      "title": "AI Use in the Job Market Is Creating an Infinite Doom Loop",
-      "indirect": false
-    },
-    "also": [],
-    "model": "gemini"
-  },
-  {
-    "id": "def4f2a0fce3",
-    "slug": "xakerlar-ai-modellarini-kiberhujumlar-uchun-ishlatmoqda-def4f2",
-    "title": "Xakerlar AI modellarini kiberhujumlar uchun ishlatmoqda",
-    "summary": "Xakerlar Claude, Qwen va DeepSeek kabi AI modellarini real kiberhujumlar uchun agent sifatida qoʻllamoqda. Ular ushbu agentlar yordamida hukumat tarmoqlariga hujum qilmoqda.",
+    "id": "cdf2623e405f",
+    "slug": "xakerlar-ai-modellarini-kiberhujum-agentlariga-aylantirdi-cdf262",
+    "title": "Xakerlar AI modellarini kiberhujum agentlariga aylantirdi",
+    "summary": "Xakerlar Claude, Qwen va DeepSeek modellaridan davlat tarmoqlariga kiberhujumlar uyushtirishda foydalanmoqda. Ular ushbu modellarni real dunyodagi hujumlar uchun AI agentlariga aylantirgan.",
     "tags": [
       "xavfsizlik",
       "agentlar"
     ],
     "importance": 4,
     "score": 22,
-    "published": "2026-09-04T13:23:55.000Z",
-    "created": "2026-09-04T15:01:16.271Z",
+    "published": "2026-09-04T13:22:10.000Z",
+    "created": "2026-09-04T15:03:00.098Z",
     "coverage": 2,
     "source": {
       "name": "CyberSecurityNews",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB0enc4X1Q4N2Q4cENWODdnc1FsOXpxeVJIVUQwRXNWSzA3VjBCczlpLThrM0ppLUZIMUVxTnJHZVZna2VJcjhIRGhPcnRtT1NYQVBSejIxWFhGVkN2VEo4ZVluZl9GUWtXbnQ3OWwzU2dKQ1VXVHE40gF8QVVfeXFMUE5CMnNXUG1hLThFa2ZBQkRvNVhIbnNpeDNfWGxSSzRKWTRjWUFIRm1xbHZuZDBJYlEtMkUxLTdIWFVsSzd0VF9hQXF1ZXo0WWZCYnNzbmV3bVRDRmhFTUdCWmRKOTIxZVphaERqQ1l6NkhnbzRWMW1mT1lsYw",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBOQjJzV1BtYS04RWtmQUJEbzVYSG5zaXgzX1hsUks0Slk0Y1lBSEZtcWx2bmQwSWJRLTJFMS03SFhVbEs3dFRfYUFxdWV6NFlmQmJzc25ld21UQ0ZoRU1HQlpkSjkyMWVaYWhEakNZejZIZ280VjFtZk9ZbGPSAXxBVV95cUxQTkIyc1dQbWEtOEVrZkFCRG81WEhuc2l4M19YbFJLNEpZNGNZQUhGbXFsdm5kMEliUS0yRTEtN0hYVWxLN3RUX2FBcXVlejRZZkJic3NuZXdtVENGaEVNR0JaZEo5MjFlWmFoRGpDWXo2SGdvNFYxbWZPWWxj",
       "title": "Hackers Turn Claude, Qwen and DeepSeek Into AI Agents for Real-World Cyberattacks",
       "indirect": true
     },
