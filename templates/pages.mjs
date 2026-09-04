@@ -455,3 +455,156 @@ ${cards || "<p>Hozircha tayyor kartochka yo'q.</p>"}
 </script>
 ${foot(now)}`;
 }
+
+// ---------- qidiruv ----------
+//
+// Server yo'q, shuning uchun qidiruv brauzerda: indeks bir marta yuklanadi
+// va filtrlash mahalliy bajariladi. Natija yozayotganda darhol chiqadi.
+//
+// O'zbek tilining ikki xususiyati hisobga olingan:
+//   - apostrof turlicha yoziladi (o' / oʻ / o‘) — normalizatsiya qilinadi
+//   - so'zlar qo'shimcha oladi ("startap" matnda "startaplariga") — shuning
+//     uchun so'z BOSHI bo'yicha solishtiriladi, to'liq moslik emas
+export function searchPage(u) {
+  const { tashkent, esc } = u;
+  const now = tashkent(new Date().toISOString());
+
+  return `${head({
+    title: pageTitle("Qidiruv"),
+    description: "Saytdagi barcha AI yangiliklari orasidan qidiring — sarlavha, mavzu va manba bo'yicha.",
+    path: "/qidiruv/",
+  })}
+${topbar(now.hhmm)}
+
+<div class="wrap">
+  ${crumbs([{ label: "Bosh sahifa", href: "/" }, { label: "Qidiruv" }], u)}
+
+  <div class="listing-head">
+    <h1>Qidiruv</h1>
+    <p>Sarlavha, mavzu yoki manba bo'yicha qidiring. Natija yozayotganingizda chiqadi.</p>
+  </div>
+
+  <div class="qbox">
+    <input id="q" type="search" placeholder="Masalan: Nvidia, xavfsizlik, startap"
+           autocomplete="off" autofocus aria-label="Qidiruv so'zi">
+    <p id="qinfo" class="qinfo">Indeks yuklanmoqda…</p>
+  </div>
+
+  <div id="qres" class="qres"></div>
+</div>
+
+<style>
+  .qbox{padding:1.4rem 0 0}
+  .qbox input{
+    width:100%;box-sizing:border-box;font-family:inherit;font-size:1.15rem;
+    padding:.85rem 1rem;color:var(--ink);background:var(--paper);
+    border:1px solid var(--line);border-radius:3px;
+  }
+  .qbox input:focus{outline:2px solid var(--accent);outline-offset:1px;border-color:var(--accent)}
+  .qinfo{margin:.7rem 0 0;font-size:.85rem;color:var(--faint)}
+  .qres{display:flex;flex-direction:column;margin:1.4rem 0 3rem}
+  .qitem{padding:1rem 0;border-top:1px solid var(--hair)}
+  .qitem:first-child{border-top:0}
+  .qitem h2{margin:0;font-size:1.05rem;font-weight:700;line-height:1.3;letter-spacing:-.015em}
+  .qitem h2 a:hover{color:var(--accent)}
+  .qitem p{margin:.35rem 0 0;color:var(--dim);font-size:.9rem;
+    display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+  .qmeta{margin-top:.45rem;font-family:var(--mono);font-size:.7rem;color:var(--faint)}
+  .qmeta b{color:var(--dim);font-weight:400}
+  mark{background:var(--accent-soft);color:inherit;padding:0 .1em}
+</style>
+
+<script>
+(function () {
+  var input = document.getElementById("q");
+  var info = document.getElementById("qinfo");
+  var res = document.getElementById("qres");
+  var data = null;
+
+  // Apostrofning har xil ko'rinishi bir shaklga keltiriladi, aks holda
+  // "o'zbekiston" va "oʻzbekiston" boshqa so'z bo'lib qoladi.
+  function norm(s) {
+    return String(s).toLowerCase()
+      .replace(/[‘’ʻʼ\`´']/g, "'")
+      .replace(/\s+/g, " ").trim();
+  }
+
+  function esc(s) {
+    return String(s).replace(/[&<>"]/g, function (c) {
+      return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c];
+    });
+  }
+
+  function mark(text, words) {
+    var out = esc(text);
+    words.forEach(function (w) {
+      if (w.length < 2) return;
+      var re = new RegExp("(" + w.replace(/[.*+?^\${}()|[\]\\\\]/g, "\\\\$&") + ")", "gi");
+      out = out.replace(re, "<mark>$1</mark>");
+    });
+    return out;
+  }
+
+  function render(items, words) {
+    if (!items.length) {
+      res.innerHTML = '<p class="qinfo">Hech narsa topilmadi.</p>';
+      return;
+    }
+    res.innerHTML = items.slice(0, 60).map(function (it) {
+      return '<article class="qitem">'
+        + '<h2><a href="/x/' + it.s + '/">' + mark(it.t, words) + "</a></h2>"
+        + "<p>" + mark(it.x, words) + "</p>"
+        + '<div class="qmeta">' + esc(it.d) + " · <b>" + esc(it.m) + "</b>"
+        + (it.g.length ? " · " + it.g.map(esc).join(", ") : "")
+        + "</div></article>";
+    }).join("");
+  }
+
+  function search() {
+    if (!data) return;
+    var q = norm(input.value);
+    if (!q) {
+      res.innerHTML = "";
+      info.textContent = data.length + " ta xabar orasidan qidiriladi.";
+      return;
+    }
+    var words = q.split(" ").filter(Boolean);
+    var hits = [];
+    for (var i = 0; i < data.length; i++) {
+      var it = data[i];
+      var hay = it._h || (it._h = norm(it.t + " " + it.x + " " + it.g.join(" ") + " " + it.m));
+      var score = 0, all = true;
+      for (var w = 0; w < words.length; w++) {
+        // So'z boshi bo'yicha: o'zbekchada qo'shimcha so'z oxiriga qo'shiladi
+        var at = hay.indexOf(words[w]);
+        if (at < 0) { all = false; break; }
+        // Sarlavhada topilsa yuqoriroq turadi
+        score += norm(it.t).indexOf(words[w]) >= 0 ? 3 : 1;
+      }
+      if (all) { it._s = score; hits.push(it); }
+    }
+    hits.sort(function (a, b) { return b._s - a._s || (a.d < b.d ? 1 : -1); });
+    info.textContent = hits.length + " ta natija";
+    render(hits, words);
+  }
+
+  fetch("/search-index.json")
+    .then(function (r) { return r.json(); })
+    .then(function (j) {
+      data = j;
+      info.textContent = data.length + " ta xabar orasidan qidiriladi.";
+      // Manzilda ?q= bo'lsa darhol qidiramiz
+      var pre = new URLSearchParams(location.search).get("q");
+      if (pre) { input.value = pre; search(); }
+    })
+    .catch(function () { info.textContent = "Indeks yuklanmadi. Sahifani yangilang."; });
+
+  var timer;
+  input.addEventListener("input", function () {
+    clearTimeout(timer);
+    timer = setTimeout(search, 120);
+  });
+})();
+</script>
+${foot(now)}`;
+}

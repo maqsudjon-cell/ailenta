@@ -8,7 +8,7 @@ import { readFile, writeFile, mkdir, rm, stat } from "node:fs/promises";
 import { join, dirname } from "node:path";
 import { fileURLToPath } from "node:url";
 import { SITE } from "../templates/shell.mjs";
-import { postPage, listPage, topicsPage, notFoundPage, photosPage, instagramPage } from "../templates/pages.mjs";
+import { postPage, listPage, topicsPage, notFoundPage, photosPage, instagramPage, searchPage } from "../templates/pages.mjs";
 import { caption } from "./instagram.mjs";
 import { slugTag } from "../templates/parts.mjs";
 import { buildImages } from "./images.mjs";
@@ -213,6 +213,23 @@ bilan — ular ${SITE.url}/rasmlar/ sahifasida sanab o'tilgan.
 `;
 }
 
+// Qidiruv indeksi. GitHub Pages'da server yo'q, shuning uchun qidiruv
+// brauzerda ishlaydi: indeks bir marta yuklanadi va filtrlash mahalliy
+// bajariladi. 368 xabar uchun ~80 KB — bir martalik yuklash.
+//
+// Xulosa qisqartiriladi: to'liq matn indeksni ikki barobar kattalashtiradi,
+// qidiruvga esa birinchi jumla yetadi.
+function searchIndex(posts) {
+  return JSON.stringify(posts.map((p) => ({
+    s: p.slug,
+    t: p.title,
+    d: p.published.slice(0, 10),
+    g: (p.tags || []).slice(0, 4),
+    m: p.source.name,
+    x: p.summary.slice(0, 140),
+  })));
+}
+
 // ---------- asosiy ----------
 
 async function buildPreview(name) {
@@ -367,6 +384,11 @@ async function buildSite() {
   urls.push({ path: "/mavzular/", lastmod: posts[0]?.published || new Date().toISOString(), freq: "daily", priority: "0.6" });
   pages++;
 
+  // Qidiruv — 368 xabar orasidan topish uchun. Brauzerda ishlaydi.
+  await write("docs/qidiruv/index.html", searchPage(U));
+  urls.push({ path: "/qidiruv/", lastmod: new Date().toISOString(), freq: "monthly", priority: "0.5" });
+  pages++;
+
   // Suratlar va litsenziyalar — erkin litsenziyalar shuni talab qiladi.
   await write("docs/rasmlar/index.html", photosPage(photoCache, U));
   urls.push({ path: "/rasmlar/", lastmod: new Date().toISOString(), freq: "monthly", priority: "0.3" });
@@ -403,6 +425,7 @@ async function buildSite() {
   await write("docs/news-sitemap.xml", newsSitemap(posts));
   await write("docs/rss.xml", rss(posts));
   await write("docs/llms.txt", llmsTxt(posts, U));
+  await write("docs/search-index.json", searchIndex(posts));
 
   // AI to'plovchilarini ATAYLAB nom bilan ruxsat etamiz. `User-agent: *`
   // ularni baribir qamrab oladi, lekin ba'zi operatorlar o'z nomini

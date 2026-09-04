@@ -528,6 +528,7 @@ export function topbar(stamp) {
     <a class="brand" href="/"><em>Ai</em>lenta</a>
     <span class="status"><span class="dot"></span>${esc(stamp)} da yangilandi</span>
     <nav class="nav">
+      <a href="/qidiruv/">Qidiruv</a>
       <a href="/arxiv/">Arxiv</a>
       <a href="/mavzular/">Mavzular</a>
       <a href="/rss.xml">RSS</a>
