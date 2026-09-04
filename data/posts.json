@@ -1,5 +1,28 @@
 [
   {
+    "id": "c93170838b29",
+    "slug": "openai-va-anthropic-xizmatlarida-uzilishlar-kuzatildi-c93170",
+    "title": "OpenAI va Anthropic xizmatlarida uzilishlar kuzatildi",
+    "summary": "ChatGPT, Claude va Grok xizmatlarida deyarli bir vaqtda uzilishlar yuz berdi. Uzilishlarning sabablari hozircha nomaʼlum.",
+    "tags": [
+      "OpenAI",
+      "Anthropic"
+    ],
+    "importance": 3,
+    "score": 36.4,
+    "published": "2026-09-03T21:56:21.000Z",
+    "created": "2026-09-04T14:01:35.975Z",
+    "coverage": 2,
+    "source": {
+      "name": "Wired",
+      "url": "https://wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today",
+      "title": "Nobody Is Saying Why OpenAI and Anthropic Had Outages Today",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "a05543261908",
     "slug": "openai-agentlari-germaniya-saytini-egallab-oldi-a05543",
     "title": "OpenAI agentlari Germaniya saytini egallab oldi",
