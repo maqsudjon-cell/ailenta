@@ -167,7 +167,9 @@ ${topbar(now.hhmm)}
 
   <section class="sources">
     <div class="sources-label">Bugungi manbalar</div>
-    <div class="sources-list">${sources.map((s) => `<span>${esc(s)}</span>`).join("")}</div>
+    <div class="sources-list">${sources.slice(0, 12).map((s) => `<span>${esc(s)}</span>`).join("")}${
+      sources.length > 12 ? `<a class="sources-more" href="/haqida/">yana ${sources.length - 12} ta</a>` : ""
+    }</div>
   </section>
 ${foot(now)}`;
 }

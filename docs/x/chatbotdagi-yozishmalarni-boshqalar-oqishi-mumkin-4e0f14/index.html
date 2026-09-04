@@ -237,16 +237,39 @@
     font-family:var(--mono);font-size:.68rem;letter-spacing:.16em;
     text-transform:uppercase;color:var(--faint);margin-bottom:.9rem;
   }
+  /* Ilgari hamma manba (27 ta) mono shriftda to'kilardi va tartibsiz
+     ko'rinardi. Endi 12 tasi, qolgani /haqida/ sahifasida. */
   .sources-list{
-    display:flex;flex-wrap:wrap;gap:.4rem .9rem;
-    font-family:var(--mono);font-size:.74rem;color:var(--dim);
+    display:flex;flex-wrap:wrap;gap:.4rem;
+    font-size:.76rem;color:var(--dim);
   }
+  .sources-list span{
+    border:1px solid var(--line);padding:.25rem .55rem;border-radius:3px;
+  }
+  .sources-more{
+    padding:.25rem .55rem;color:var(--accent);font-weight:600;
+  }
+  .sources-more:hover{color:var(--ink)}
 
+  /* Futer ilgari bitta uzun mono qator edi va tor ekranda tartibsiz
+     o'ralardi. Endi ikki bo'lak: brend va havolalar. */
   footer{
-    margin-top:2.4rem;padding:1.2rem 0 3rem;border-top:3px solid var(--ink);
-    font-family:var(--mono);font-size:.68rem;letter-spacing:.08em;
-    text-transform:uppercase;color:var(--faint);
-    display:flex;gap:1.6rem;flex-wrap:wrap;
+    margin-top:2.4rem;padding:1.4rem 0 3rem;border-top:3px solid var(--ink);
+    display:flex;justify-content:space-between;gap:1rem 2rem;flex-wrap:wrap;
+    font-size:.8rem;color:var(--faint);
+  }
+  .foot-brand{display:flex;flex-direction:column;gap:.2rem}
+  .foot-brand a{font-weight:800;letter-spacing:-.02em;color:var(--ink);font-size:.95rem}
+  .foot-brand a em{font-style:normal;color:var(--accent)}
+  .foot-brand span{
+    font-family:var(--mono);font-size:.68rem;letter-spacing:.06em;color:var(--faint);
+  }
+  .foot-links{display:flex;flex-wrap:wrap;gap:.5rem 1.1rem;align-items:flex-start}
+  .foot-links a{color:var(--dim)}
+  .foot-links a:hover{color:var(--ink)}
+  @media (max-width:600px){
+    footer{flex-direction:column;gap:1.1rem}
+    .foot-links{gap:.55rem 1rem}
   }
 
   @media (max-width:720px){
@@ -418,11 +441,11 @@
   .topics a.topics-all{border-color:transparent;color:var(--accent)}
   .topics a.topics-all:hover{color:var(--ink)}
   @media (max-width:720px){
-    .topics{
-      flex-wrap:nowrap;overflow-x:auto;scrollbar-width:none;padding:.9rem 0;
-    }
-    .topics::-webkit-scrollbar{display:none}
-    .topics a{white-space:nowrap;flex:none}
+    /* Bu ham o'raladi: aylanadigan qatorda oxirgi chip doim yarim
+       kesilib turadi va o'quvchi u yerda yana element borligini
+       bilmaydi. */
+    .topics{flex-wrap:wrap;gap:.4rem;padding:.9rem 0}
+    .topics a{white-space:nowrap;font-size:.78rem;padding:.34rem .65rem}
   }
 
   /* ---------- Telegram chaqiruvi ---------- */
@@ -473,12 +496,13 @@
   @media (max-width:600px){
     .topbar-in{flex-wrap:wrap;row-gap:.5rem}
     .status{display:none}
+    /* O'RALADI, aylanmaydi. Ilgari overflow-x:auto edi va Telegram tugmasi
+       ekran chetida kesilib turardi — sayt buzuqdek ko'rinardi. Ikki toza
+       qator bitta kesilgan qatordan yaxshi. */
     .nav{
-      order:3;width:100%;margin-left:0;gap:.9rem;
-      overflow-x:auto;flex-wrap:nowrap;scrollbar-width:none;
-      padding-bottom:.15rem;
+      order:3;width:100%;margin-left:0;gap:.5rem .9rem;
+      flex-wrap:wrap;padding-bottom:.15rem;
     }
-    .nav::-webkit-scrollbar{display:none}
     .nav a{white-space:nowrap}
     .nav a.tg{
       color:var(--paper);background:var(--accent);
@@ -493,7 +517,7 @@
 <div class="topbar">
   <div class="topbar-in">
     <a class="brand" href="/"><em>Ai</em>lenta</a>
-    <span class="status"><span class="dot"></span>22:42 da yangilandi</span>
+    <span class="status"><span class="dot"></span>22:51 da yangilandi</span>
     <nav class="nav">
       <a href="/qidiruv/">Qidiruv</a>
       <a href="/arxiv/">Arxiv</a>
@@ -632,15 +656,21 @@
   </aside>
 
   <footer>
-    <span><a href="/"><em>Ai</em>lenta</a> · ailenta.uz</span>
-    <span>4-sentabr, 2026</span>
-    <span><a href="/arxiv/">Arxiv</a></span>
-    <span><a href="/rss.xml">RSS</a></span>
-    <span><a href="/rasmlar/">Suratlar</a></span>
-    <span><a href="/haqida/">Loyiha haqida</a></span>
-    <span><a href="/statistika/">Statistika</a></span>
-    <span><a href="mailto:polatovmaqsudjon1@gmail.com">Aloqa</a></span>
-    <span><a href="https://t.me/ailentauz" target="_blank" rel="noopener">Telegram kanal</a></span>
+    <div class="foot-brand">
+      <a href="/"><em>Ai</em>lenta</a>
+      <span>ailenta.uz · 4-sentabr, 2026</span>
+    </div>
+    <nav class="foot-links" aria-label="Sayt bo'limlari">
+      <a href="/arxiv/">Arxiv</a>
+      <a href="/mavzular/">Mavzular</a>
+      <a href="/lugat/">Atamalar</a>
+      <a href="/statistika/">Statistika</a>
+      <a href="/rasmlar/">Suratlar</a>
+      <a href="/haqida/">Loyiha haqida</a>
+      <a href="/rss.xml">RSS</a>
+      <a href="mailto:polatovmaqsudjon1@gmail.com">Aloqa</a>
+      <a href="https://t.me/ailentauz" target="_blank" rel="noopener">Telegram</a>
+    </nav>
   </footer>
 </div>
 
