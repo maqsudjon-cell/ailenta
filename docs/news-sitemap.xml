@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://ailenta.uz/x/o-zbekistonda-startaplar-uchun-yangi-dastur-ishga-tushadi-0ccbab/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>AI Lenta</news:name>
+        <news:language>uz</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-04T06:35:07.000Z</news:publication_date>
+      <news:title>O‘zbekistonda startaplar uchun yangi dastur ishga tushadi</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://ailenta.uz/x/hugging-face-nvidia-bilan-bitim-tuzishga-uringan-9e1efb/</loc>
     <news:news>
       <news:publication>
@@ -54,6 +65,17 @@
       </news:publication>
       <news:publication_date>2026-09-03T22:42:22.000Z</news:publication_date>
       <news:title>OpenAI GPT-6 modelining debyutini kechiktirdi</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://ailenta.uz/x/ai-agentlarida-xavfli-zaiflik-aniqlandi-372577/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>AI Lenta</news:name>
+        <news:language>uz</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-03T21:20:34.000Z</news:publication_date>
+      <news:title>AI agentlarida xavfli zaiflik aniqlandi</news:title>
     </news:news>
   </url>
   <url>
@@ -2375,28 +2397,6 @@
       </news:publication>
       <news:publication_date>2026-09-02T07:09:00.000Z</news:publication_date>
       <news:title>AQShda AI uchun tabiiy gaz ishlab chiqarish ko'payadi</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://ailenta.uz/x/chicago-fed-prezidenti-ai-shov-shuvidan-ogoh-bolishga-chaqir-d15f2b/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>AI Lenta</news:name>
-        <news:language>uz</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-02T07:00:00.000Z</news:publication_date>
-      <news:title>Chicago Fed prezidenti AI shov-shuvidan ogoh bo'lishga chaqirdi</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://ailenta.uz/x/janubiy-koreya-ai-infratuzilmasiga-919-mlrd-dollar-kiritadi-1e4c05/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>AI Lenta</news:name>
-        <news:language>uz</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-02T06:30:00.000Z</news:publication_date>
-      <news:title>Janubiy Koreya AI infratuzilmasiga 919 mlrd dollar kiritadi</news:title>
     </news:news>
   </url>
 </urlset>

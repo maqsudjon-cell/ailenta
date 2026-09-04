@@ -1,5 +1,51 @@
 [
   {
+    "id": "0ccbabc26ca5",
+    "slug": "o-zbekistonda-startaplar-uchun-yangi-dastur-ishga-tushadi-0ccbab",
+    "title": "O‘zbekistonda startaplar uchun yangi dastur ishga tushadi",
+    "summary": "Prezident farmoniga ko‘ra, O‘zbekistonda startaplarni moliyalashtirish va xususiy investorlarni rag‘batlantirish mexanizmlari joriy etiladi. IT Park Uzbekistan texnologik loyihalarni qo‘llab-quvvatlaydi va venchur bozorini rivojlantiradi.",
+    "tags": [
+      "O'zbekiston",
+      "biznes"
+    ],
+    "importance": 4,
+    "score": 45,
+    "published": "2026-09-04T06:35:07.000Z",
+    "created": "2026-09-04T07:06:54.534Z",
+    "coverage": 1,
+    "source": {
+      "name": "Pivot",
+      "url": "https://pivot.uz/uz/ozbekistonda-startaplar-uchun-yangi-moliyalashtirish-dasturi-ishga-tushiriladi",
+      "title": "O‘zbekistonda startaplar uchun yangi moliyalashtirish dasturi ishga tushiriladi",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "3725772a5216",
+    "slug": "ai-agentlarida-xavfli-zaiflik-aniqlandi-372577",
+    "title": "AI agentlarida xavfli zaiflik aniqlandi",
+    "summary": "Zararli .git konfiguratsiyalari yordamida Claude, Codex va Cursor kabi AI agentlarida hujumchilar kodini ishga tushirish imkoniyati aniqlandi. Bu haqda The Hacker News nashri xabar bermoqda.",
+    "tags": [
+      "xavfsizlik",
+      "agentlar"
+    ],
+    "importance": 3,
+    "score": 31,
+    "published": "2026-09-03T21:20:34.000Z",
+    "created": "2026-09-04T07:06:54.536Z",
+    "coverage": 2,
+    "source": {
+      "name": "Hacker News",
+      "url": "https://armature.tech/blog/which-tools-coding-agents-install",
+      "title": "Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "38d67a909bae",
     "slug": "sem-altman-agi-2026-yil-oxirigacha-paydo-bolishi-mumkin-38d67a",
     "title": "Sem Altman: AGI 2026-yil oxirigacha paydo bo'lishi mumkin",
