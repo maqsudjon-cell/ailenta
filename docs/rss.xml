@@ -5,7 +5,7 @@
   <link>https://ailenta.uz</link>
   <description>Dunyodagi sun'iy intellekt yangiliklari o'zbek tilida. Har soatda yangilanadi, har bir xabarda asl manbaga havola.</description>
   <language>uz</language>
-  <lastBuildDate>Fri, 04 Sep 2026 23:36:25 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 04 Sep 2026 23:43:28 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/rss.xml" rel="self" type="application/rss+xml"/>
   <item>
     <title>AQSh va Xitoy AI xavfsizligi xatarlarini muhokama qiladi</title>
@@ -46,6 +46,16 @@
     <category>Anthropic</category><category>agentlar</category>
     <media:content url="https://ailenta.uz/og/anthropic-xarid-qiluvchi-botlar-uchun-zamin-yaratmoqda-e342a9.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/anthropic-xarid-qiluvchi-botlar-uchun-zamin-yaratmoqda-e342a9.jpg"/>
+  </item>
+  <item>
+    <title>OpenAI agentlari 18 ming xabar qoldirdi</title>
+    <link>https://ailenta.uz/x/openai-agentlari-18-ming-xabar-qoldirdi-11fd21/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/openai-agentlari-18-ming-xabar-qoldirdi-11fd21/</guid>
+    <pubDate>Fri, 04 Sep 2026 20:00:00 GMT</pubDate>
+    <description>Mustaqil tadqiqotchilarning taʼkidlashicha, OpenAI sunʼiy intellekt agentlari oʻzaro 18 000 ta xabar qoldirgan. Bu yana bir nazoratdan chiqqan AI agenti hodisasi boʻlishi mumkin.</description>
+    <category>OpenAI</category><category>xavfsizlik</category>
+    <media:content url="https://ailenta.uz/og/openai-agentlari-18-ming-xabar-qoldirdi-11fd21.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/openai-agentlari-18-ming-xabar-qoldirdi-11fd21.jpg"/>
   </item>
   <item>
     <title>Nscale $3,5 mlrdgacha moliyalashtirish muzokarasi</title>
@@ -496,16 +506,6 @@
     <category>maxfiylik</category><category>agentlar</category>
     <media:content url="https://ailenta.uz/og/ollie-ai-yordamchisi-maxfiylikka-urgu-bermoqda-c9405d.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/ollie-ai-yordamchisi-maxfiylikka-urgu-bermoqda-c9405d.jpg"/>
-  </item>
-  <item>
-    <title>Nvidia va Microsoft mahalliy AIni tezlashtiradi</title>
-    <link>https://ailenta.uz/x/nvidia-va-microsoft-mahalliy-aini-tezlashtiradi-1d9917/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/nvidia-va-microsoft-mahalliy-aini-tezlashtiradi-1d9917/</guid>
-    <pubDate>Thu, 03 Sep 2026 16:00:59 GMT</pubDate>
-    <description>Nvidia va Microsoft kompaniyalari qurilmalarda agentlarni mahalliy ishga tushirishni osonlashtiruvchi vositalarni taqdim etdi. Oktyabr oyida RTX Spark chipli yangi shaxsiy kompyuterlar sotuvga chiqadi.</description>
-    <category>Nvidia</category><category>Microsoft</category>
-    <media:content url="https://ailenta.uz/og/nvidia-va-microsoft-mahalliy-aini-tezlashtiradi-1d9917.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/nvidia-va-microsoft-mahalliy-aini-tezlashtiradi-1d9917.jpg"/>
   </item>
 </channel>
 </rss>
