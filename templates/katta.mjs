@@ -120,12 +120,17 @@ ${topbar(now.hhmm)}
     <a class="topics-all" href="/mavzular/">Barchasi →</a>
   </nav>
 
-  <div class="creed">
-    <span><b>${esc(SITE.tagline)}.</b></span>
-    <span>Har soatda yangilanadi</span>
-    <span>${posts.length} ta xabar</span>
-    <span>${sources.length} ta manba</span>
-  </div>
+  <!-- Saytning va'dasi. Ilgari kichik kulrang monospace qator edi va uch
+       qatorga noqulay o'ralib, nosozlik jurnaliga o'xshab turardi. Bu —
+       asosiy pozitsiya, shunday ko'rinishi kerak. -->
+  <section class="creed">
+    <p class="creed-line">${esc(SITE.tagline)}</p>
+    <dl class="creed-facts">
+      <div><dt>${posts.length}</dt><dd>xabar</dd></div>
+      <div><dt>${sources.length}</dt><dd>manba</dd></div>
+      <div><dt>1 soat</dt><dd>yangilanish</dd></div>
+    </dl>
+  </section>
 
   <section class="twin">
     ${second.map(secondCard).join("")}

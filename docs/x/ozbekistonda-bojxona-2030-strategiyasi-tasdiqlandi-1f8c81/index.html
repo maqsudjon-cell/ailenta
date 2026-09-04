@@ -130,11 +130,24 @@
 
   /* ---------- shior ---------- */
   .creed{
-    display:flex;gap:1.6rem;flex-wrap:wrap;align-items:baseline;
-    padding:1.1rem 0;border-top:1px solid var(--line);border-bottom:1px solid var(--line);
-    font-family:var(--mono);font-size:.72rem;letter-spacing:.06em;color:var(--faint);
+    display:flex;justify-content:space-between;align-items:center;
+    gap:1.2rem 2.4rem;flex-wrap:wrap;
+    padding:1.4rem 0;border-top:1px solid var(--line);border-bottom:1px solid var(--line);
   }
-  .creed b{color:var(--ink);font-weight:500}
+  .creed-line{
+    margin:0;font-size:1.02rem;font-weight:600;letter-spacing:-.015em;
+    color:var(--ink);max-width:30ch;
+  }
+  .creed-facts{display:flex;gap:1.8rem;margin:0}
+  .creed-facts div{display:flex;flex-direction:column;gap:.1rem}
+  .creed-facts dt{
+    font-size:1.15rem;font-weight:800;letter-spacing:-.03em;color:var(--ink);
+    font-variant-numeric:tabular-nums;
+  }
+  .creed-facts dd{
+    margin:0;font-size:.68rem;letter-spacing:.09em;text-transform:uppercase;
+    color:var(--faint);
+  }
 
   /* ---------- ikkilik ---------- */
   .twin{
@@ -276,8 +289,10 @@
        yolg'iz qolib, ro'yxat belgisiga o'xshab ketadi — oraliq bilan ajratamiz. */
     .meta{gap:.35rem .95rem}
     .meta > * + *::before{content:none}
-    .creed{gap:.3rem 1.1rem;padding:.9rem 0;font-size:.68rem}
-    .creed b{display:block;width:100%}
+    .creed{flex-direction:column;align-items:flex-start;gap:.9rem;padding:1.1rem 0}
+    .creed-line{font-size:.98rem;max-width:none}
+    .creed-facts{gap:1.4rem}
+    .creed-facts dt{font-size:1.05rem}
     .hero{padding:2rem 0 1.6rem}
     .hero .sum{font-size:1.08rem}
     .twin{grid-template-columns:1fr;gap:2rem;padding:2rem 0}
@@ -516,7 +531,7 @@
 <div class="topbar">
   <div class="topbar-in">
     <a class="brand" href="/"><em>Ai</em>lenta</a>
-    <span class="status"><span class="dot"></span>23:05 da yangilandi</span>
+    <span class="status"><span class="dot"></span>23:19 da yangilandi</span>
     <nav class="nav">
       <a href="/qidiruv/">Qidiruv</a>
       <a href="/arxiv/">Arxiv</a>
@@ -544,7 +559,7 @@
          zaiflashtirardi. -->
     <div class="meta">
       
-      <span class="when-inline">3-sentabr, 11:37 · kecha</span>
+      <span class="when-inline">3-sentabr, 11:37 · 2 kun oldin</span>
       <a class="chip" href="/mavzu/ozbekiston/">O'zbekiston</a>
     </div>
     <!-- Ulashish faqat maqola oxirida edi. Ko'p o'quvchi o'sha yergacha
