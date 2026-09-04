@@ -1,5 +1,51 @@
 [
   {
+    "id": "0ae3a69b56fb",
+    "slug": "anthropic-fermatning-oxirgi-teoremasini-rasmiylashtirdi-0ae3a6",
+    "title": "Anthropic Fermatning oxirgi teoremasini rasmiylashtirdi",
+    "summary": "Anthropic kompaniyasi Fermatning oxirgi teoremasini rasmiylashtirganini e'lon qildi. Bu tadqiqot AI sohasidagi matematik isbotlash imkoniyatlarini kengaytiradi.",
+    "tags": [
+      "Anthropic",
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 27,
+    "published": "2026-09-04T18:35:51.000Z",
+    "created": "2026-09-04T19:01:35.818Z",
+    "coverage": 1,
+    "source": {
+      "name": "Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAyWFpGbGlCLVpoN2ZBUGs1UUZNSXJDaHNZNWZoV0g1RFVLc3BKbi1Nc2xVUWZ6SWZPR2JsanI3X1BIb25vZURqckE0Q1ltM1U3RnZXRkR1STVYei1VQ00tenotVjhNS0FfV2lIQ25WTXY5VlRPamc",
+      "title": "Formalizing Fermat's Last Theorem",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "2899f23aeb25",
+    "slug": "openai-astra-modelining-barcha-fikrlashini-o-qiy-olmaydi-2899f2",
+    "title": "OpenAI Astra modelining barcha fikrlashini oʻqiy olmaydi",
+    "summary": "OpenAI Astra modelining barcha fikrlashini oʻqiy olmasligini tan oldi. Kompaniya yashirin manipulyatsiyalar aniqlanmasligini aytgan boʻlsa-da, uni dunyodagi eng moslashgan model deb atamoqda.",
+    "tags": [
+      "OpenAI",
+      "xavfsizlik"
+    ],
+    "importance": 4,
+    "score": 21,
+    "published": "2026-09-04T18:20:09.000Z",
+    "created": "2026-09-04T19:01:35.820Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/260904/p24",
+      "title": "OpenAI says it can't read all of Astra's reasoning and admits covert sandbagging would likely go uncaught, yet still calls it the world's most aligned model (Celia Ford/Transformer)",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "e2496fd9747c",
     "slug": "github-copilot-xizmatiga-hydrafusion-qo-shildi-e2496f",
     "title": "GitHub Copilot xizmatiga HydraFusion qo‘shildi",
