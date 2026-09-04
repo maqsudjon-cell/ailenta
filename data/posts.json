@@ -1,5 +1,36 @@
 [
   {
+    "id": "cf69e442428f",
+    "slug": "ugreen-mahalliy-ai-boshqaruviga-ega-platformani-taqdim-etdi-cf69e4",
+    "title": "Ugreen mahalliy AI boshqaruviga ega platformani taqdim etdi",
+    "summary": "Ugreen kompaniyasi IFA ko‘rgazmasida HomeAgent aqlli uy platformasini namoyish qildi. Tizim xavfsizlik kameralari xotirasi, qurilmaning o‘zidagi sun'iy intellekt va aqlli uyni boshqarishni birlashtiradi.",
+    "tags": [
+      "robototexnika"
+    ],
+    "importance": 2,
+    "score": 36,
+    "published": "2026-09-04T09:41:44.000Z",
+    "created": "2026-09-04T10:07:04.804Z",
+    "coverage": 3,
+    "source": {
+      "name": "The Verge",
+      "url": "https://theverge.com/tech/990006/this-nas-company-wants-to-run-your-local-smart-home",
+      "title": "This NAS company wants to run your local smart home",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "The Decoder",
+        "url": "https://the-decoder.com/nvidia-wants-your-home-network-to-work-like-a-mini-data-center-for-local-ai"
+      },
+      {
+        "name": "Engadget",
+        "url": "https://engadget.com/2250749/ugreen-smart-home-ecosystem-built-around-local-ai-hubs"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
     "id": "46d52fdffb31",
     "slug": "o-zbekiston-va-koica-hamkorlikni-muhokama-qildi-46d52f",
     "title": "O‘zbekiston va KOICA hamkorlikni muhokama qildi",
