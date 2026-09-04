@@ -1,5 +1,28 @@
 [
   {
+    "id": "d75554c78e0f",
+    "slug": "google-deepmind-weathernext-3-ob-havo-modelini-taqdim-etdi-d75554",
+    "title": "Google DeepMind WeatherNext 3 ob-havo modelini taqdim etdi",
+    "summary": "Google DeepMind oʻzining eng ilgʻor va aniq global ob-havo AI modeli boʻlgan WeatherNext 3 ni ishga tushirdi. Bu model ob-havo prognozini yaxshilashga qaratilgan.",
+    "tags": [
+      "Google",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 26.4,
+    "published": "2026-09-03T15:02:08.000Z",
+    "created": "2026-09-04T17:08:31.017Z",
+    "coverage": 1,
+    "source": {
+      "name": "Google DeepMind",
+      "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model",
+      "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "959aa5be4bcd",
     "slug": "google-ai-mode-mahsulotlarni-qimmatroq-ko-rsatmoqda-959aa5",
     "title": "Google AI Mode mahsulotlarni qimmatroq koʻrsatmoqda",
