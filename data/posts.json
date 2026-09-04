@@ -1,5 +1,73 @@
 [
   {
+    "id": "f6517af564c5",
+    "slug": "raqobat-qo-mitasi-raqamli-platformalarni-tekshirmoqda-f6517a",
+    "title": "Raqobat qo‘mitasi raqamli platformalarni tekshirmoqda",
+    "summary": "O‘zbekiston Raqobat qo‘mitasi striming, internet va raqamli televideniye platformalari faoliyatini o‘rganmoqda. Bunga telekom xizmatlari bo‘yicha shikoyatlar ikki baravar ko‘paygani sabab bo‘lgan.",
+    "tags": [
+      "O'zbekiston"
+    ],
+    "importance": 3,
+    "score": 41,
+    "published": "2026-09-04T08:20:00.000Z",
+    "created": "2026-09-04T11:04:56.368Z",
+    "coverage": 1,
+    "source": {
+      "name": "UzDaily",
+      "url": "https://uzdaily.uz/uz/raqobat-qomitasi-raqamli-xizmat-platformalarini-tekshirmoqda",
+      "title": "Raqobat qo‘mitasi raqamli xizmat platformalarini tekshirmoqda",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "1d99173b7b22",
+    "slug": "nvidia-va-microsoft-mahalliy-aini-tezlashtiradi-1d9917",
+    "title": "Nvidia va Microsoft mahalliy AIni tezlashtiradi",
+    "summary": "Nvidia va Microsoft kompaniyalari qurilmalarda agentlarni mahalliy ishga tushirishni osonlashtiruvchi vositalarni taqdim etdi. Oktyabr oyida RTX Spark chipli yangi shaxsiy kompyuterlar sotuvga chiqadi.",
+    "tags": [
+      "Nvidia",
+      "Microsoft"
+    ],
+    "importance": 3,
+    "score": 36.2,
+    "published": "2026-09-03T16:00:59.000Z",
+    "created": "2026-09-04T11:04:56.369Z",
+    "coverage": 1,
+    "source": {
+      "name": "Nvidia",
+      "url": "https://blogs.nvidia.com/blog/local-ai-ifa-next-gen-agents-nv-pair-rtx-spark",
+      "title": "Sparks Fly: NVIDIA Accelerates Local AI at IFA 2026",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "7ad8197ece6b",
+    "slug": "deepseek-160-mingdan-ortiq-huawei-chiplaridan-foydalanadi-7ad819",
+    "title": "DeepSeek 160 mingdan ortiq Huawei chiplaridan foydalanadi",
+    "summary": "DeepSeek kompaniyasi Ichki Mo‘g‘ulistondagi ma’lumotlar markazida Huawei kompaniyasining 160 mingdan ortiq Ascend 950DT chiplarini o‘rnatishni rejalashtirmoqda. Bu eng yirik Huawei chiplari klasterlaridan biri bo‘ladi.",
+    "tags": [
+      "DeepSeek",
+      "chiplar"
+    ],
+    "importance": 4,
+    "score": 33,
+    "published": "2026-09-04T10:30:20.000Z",
+    "created": "2026-09-04T11:04:56.370Z",
+    "coverage": 3,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/260904/p6",
+      "title": "Sources: DeepSeek plans to use 160K+ of Huawei's Ascend 950DT chips at an Inner Mongolia data center, which would create one of the largest Huawei chip clusters (Mackenzie Hawkins/Bloomberg)",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "cf69e442428f",
     "slug": "ugreen-mahalliy-ai-boshqaruviga-ega-platformani-taqdim-etdi-cf69e4",
     "title": "Ugreen mahalliy AI boshqaruviga ega platformani taqdim etdi",
