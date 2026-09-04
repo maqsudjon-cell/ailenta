@@ -262,15 +262,46 @@ export async function photoFor(post, cache, variant = 0) {
 // bo'ylab suratlar aylanadi. Bu qo'shni xabarlarda bir xil rasmni MUTLAQO
 // istisno qiladi va natija barqaror — bir xil ro'yxat har doim bir xil
 // taqsimot beradi.
-export async function assignPhotos(posts, cache) {
-  const seen = new Map();
+// MASOFA QOIDASI. Mavzu bo'yicha navbat yetarli emas edi: Anthropic'da
+// 5 ta surat bo'lsa, oltinchi xabarda birinchisi qaytardi va lentada
+// atigi besh qator oralab bir xil rasm ko'rinardi.
+//
+// Butunlay takrorlanmaslik esa imkonsiz — Anthropic haqida ~60 xabar bor,
+// Commons'da Dario Amodei suratlari atigi 5 ta. Arifmetika yo'l qo'ymaydi.
+//
+// Lekin takror faqat YONMA-YON turganda ko'zga tashlanadi. Shuning uchun:
+// surat oxirgi MIN_GAP xabar ichida ishlatilgan bo'lsa, uni qayta
+// ishlatmaymiz — o'rniga kod chizgan muqova qo'yiladi. Muqovalar slug
+// bo'yicha urug'lanadi, ya'ni ular hech qachon takrorlanmaydi.
+// 60 — bosh sahifa ko'rsatadigan xabarlar soni. Aynan shu qiymatda bosh
+// sahifada bironta surat takrorlanmaydi (o'lchandi: 45 da uch juft
+// takror qolardi, 60 da nol). Narxi kichik: 31 o'rniga 28 kartochka
+// surat oladi, qolgan uchtasi kod chizgan muqova bilan chiqadi.
+const MIN_GAP = Number(process.env.PHOTO_MIN_GAP || 60);
+
+export async function assignPhotos(posts, cache, { minGap = MIN_GAP } = {}) {
+  const lastUsed = new Map();   // surat manzili → oxirgi ishlatilgan o'rni
   const out = [];
-  for (const post of posts) {
-    const e = await matchEntity(post);
+
+  for (let i = 0; i < posts.length; i++) {
+    const e = await matchEntity(posts[i]);
     if (!e) { out.push(null); continue; }
-    const n = seen.get(e.key) || 0;
-    seen.set(e.key, n + 1);
-    out.push(await photoFor(post, cache, n));
+
+    // Mavzu ro'yxatidan eng UZOQ vaqt ishlatilmaganini tanlaymiz.
+    let best = null, bestAge = -1;
+    for (let v = 0; v < e.files.length; v++) {
+      const cand = await photoFor(posts[i], cache, v);
+      if (!cand) continue;
+      const prev = lastUsed.has(cand.src) ? lastUsed.get(cand.src) : -Infinity;
+      const age = i - prev;
+      if (age > bestAge) { bestAge = age; best = cand; }
+    }
+
+    // Eng yaxshisi ham yaqinda ishlatilgan bo'lsa — surat qo'ymaymiz.
+    if (!best || bestAge < minGap) { out.push(null); continue; }
+
+    lastUsed.set(best.src, i);
+    out.push(best);
   }
   return out;
 }

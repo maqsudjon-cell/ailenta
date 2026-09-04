@@ -234,10 +234,36 @@ async function buildSite() {
   // Haqiqiy suratlar — Wikimedia Commons'dan, erkin litsenziya bilan.
   // Mos surat topilmagan xabar kod bilan chizilgan muqovada qoladi.
   const photoCache = await ensurePhotos(posts);
-  // Navbat bilan taqsimlanadi, shuning uchun qo'shni xabarlarda bir xil
-  // surat chiqmaydi.
-  const assigned = await assignPhotos(posts, photoCache);
-  posts.forEach((p, i) => { p.photo = assigned[i]; });
+
+  // MUHIM: taqsimot bosh sahifa KO'RSATADIGAN tartibda bajariladi.
+  //
+  // Ilgari u e'lon tartibida ishlardi, bosh sahifa esa xabarlarni
+  // muhimlik bo'yicha qayta tartiblaydi. Natijada hisoblangan masofa
+  // o'quvchi ko'radigan masofaga mos kelmasdi va bir surat bosh
+  // sahifada uch marta chiqib qolardi.
+  // Tartib katta.mjs dagi bilan AYNAN bir xil bo'lishi kerak: u avval
+  // muhimlik bo'yicha saralaydi, uchta yetakchini ajratadi, qolganini esa
+  // sana bo'yicha QAYTA tartiblaydi. Faqat birinchi saralashni takrorlash
+  // yetarli emas edi — masofa hisobi to'rtinchi xabardan boshlab siljib
+  // ketardi.
+  // Bosh sahifa eng yangi 60 tasini oladi va ularni O'ZI qayta tartiblaydi.
+  // Masofani butun ro'yxat bo'ylab hisoblash yaramaydi: mening ro'yxatimda
+  // 200 qadam uzoq turgan ikki xabar bosh sahifada yonma-yon tushishi
+  // mumkin. Shuning uchun avval AYNAN bosh sahifaning ro'yxati va tartibi
+  // bo'yicha taqsimlaymiz, qolganini keyin.
+  const HOME = 60;
+  const homeSet = posts.slice(0, HOME);
+  const byRank = homeSet.slice().sort(
+    (a, b) => b.importance - a.importance || b.published.localeCompare(a.published)
+  );
+  const homeOrder = [
+    ...byRank.slice(0, 3),
+    ...byRank.slice(3).sort((a, b) => b.published.localeCompare(a.published)),
+  ];
+  const displayOrder = [...homeOrder, ...posts.slice(HOME)];
+  const assigned = await assignPhotos(displayOrder, photoCache);
+  const bySlug = new Map(displayOrder.map((p, i) => [p.slug, assigned[i]]));
+  posts.forEach((p) => { p.photo = bySlug.get(p.slug) || null; });
   const withPhoto = posts.filter((p) => p.photo).length;
 
   // Muqova rasmlari sahifalardan oldin: og:image ular tayyor bo'lgach ishlaydi.
