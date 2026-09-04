@@ -1,5 +1,56 @@
 [
   {
+    "id": "38d67a909bae",
+    "slug": "sem-altman-agi-2026-yil-oxirigacha-paydo-bolishi-mumkin-38d67a",
+    "title": "Sem Altman: AGI 2026-yil oxirigacha paydo bo'lishi mumkin",
+    "summary": "OpenAI bosh direktori Sem Altman inson darajasidagi vazifalarni bajarishga qodir umumiy sun'iy intellekt (AGI) 2026-yil oxirigacha paydo bo'lishi mumkinligini aytdi. Kompaniya o'zining AGI tushunchasiga mos keladigan ichki tizim yaratishni rejalashtirmoqda.",
+    "tags": [
+      "OpenAI",
+      "tadqiqot"
+    ],
+    "importance": 4,
+    "score": 51,
+    "published": "2026-09-04T03:30:00.000Z",
+    "created": "2026-09-04T06:06:07.325Z",
+    "coverage": 1,
+    "source": {
+      "name": "Kun.uz",
+      "url": "https://kun.uz/news/2026/09/04/altman-agi-yil-oxirigacha-paydo-bolishi-mumkin",
+      "title": "Altman: AGI yil oxirigacha paydo boʻlishi mumkin.",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "9f51bb0bfc69",
+    "slug": "crusoe-3-milliard-dollar-sarmoya-jalb-qildi-9f51bb",
+    "title": "Crusoe 3 milliard dollar sarmoya jalb qildi",
+    "summary": "Ma'lumot markazlari yaratuvchi Crusoe kompaniyasi 30 milliard dollarlik baholash bilan 3 milliard dollar mablag' jalb qildi. Raundga Atreides Management va Valor Equity Partners yetakchilik qildi, unda Mubadala Capital ham ishtirok etdi.",
+    "tags": [
+      "biznes",
+      "iqtisod"
+    ],
+    "importance": 4,
+    "score": 24,
+    "published": "2026-09-04T00:48:42.000Z",
+    "created": "2026-09-04T06:06:31.480Z",
+    "coverage": 2,
+    "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation",
+      "title": "Crusoe reportedly raises $3B at a $30B valuation",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "Techmeme",
+        "url": "https://techmeme.com/260903/p46"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
     "id": "9e1efbef7173",
     "slug": "hugging-face-nvidia-bilan-bitim-tuzishga-uringan-9e1efb",
     "title": "Hugging Face Nvidia bilan bitim tuzishga uringan",
