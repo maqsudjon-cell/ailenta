@@ -852,3 +852,85 @@ ${topbar(now.hhmm)}
 </style>
 ${foot(now)}`;
 }
+
+// ---------- atamalar lug'ati ----------
+//
+// Ikki vazifa: o'quvchiga xabarlardagi atamalarni tushuntiradi va
+// saytga ORIGINAL kontent qo'shadi. Qolgan hamma narsa boshqa
+// nashrlardan kelib chiqadi, bu esa faqat shu yerda bor.
+//
+// Qidiruv uchun ham qimmatli: "inference nima", "fine-tuning o'zbekcha"
+// kabi so'rovlarga o'zbek tilida javob deyarli yo'q.
+export function glossaryPage(terms, u) {
+  const { tashkent, esc } = u;
+  const now = tashkent(new Date().toISOString());
+
+  const jsonld = [
+    {
+      "@context": "https://schema.org",
+      "@type": "DefinedTermSet",
+      name: "Sun'iy intellekt atamalari — o'zbekcha",
+      url: `${SITE.url}/lugat/`,
+      inLanguage: "uz",
+      publisher,
+      hasDefinedTerm: terms.map((t) => ({
+        "@type": "DefinedTerm",
+        name: t.uz,
+        alternateName: t.en,
+        description: t.izoh,
+        inDefinedTermSet: `${SITE.url}/lugat/`,
+      })),
+    },
+  ];
+
+  return `${head({
+    title: pageTitle("AI atamalari lug'ati"),
+    description: "Sun'iy intellekt atamalarining o'zbekcha izohi: inference, fine-tuning, "
+      + "token, kontekst oynasi, agent va boshqalar — sodda tilda.",
+    path: "/lugat/",
+    jsonld,
+  })}
+${topbar(now.hhmm)}
+
+<div class="wrap">
+  ${crumbs([{ label: "Bosh sahifa", href: "/" }, { label: "Atamalar" }], u)}
+
+  <div class="listing-head">
+    <h1>AI atamalari</h1>
+    <p>
+      Xabarlarda uchraydigan atamalar sodda tilda izohlangan. Saytdagi
+      xulosalar ham shu atamalardan foydalanadi — shuning uchun ular izchil.
+    </p>
+  </div>
+
+  <dl class="gloss">
+    ${terms.map((t) => `
+    <div class="gloss-item" id="${esc(t.en.toLowerCase().replace(/[^a-z0-9]+/g, "-"))}">
+      <dt>
+        <b>${esc(t.uz)}</b>
+        <span class="gloss-en">${esc(t.en)}</span>
+      </dt>
+      <dd>${esc(t.izoh)}</dd>
+    </div>`).join("")}
+  </dl>
+
+  <p class="stat-note">
+    Atama yetishmayotgan bo'lsa yoki izoh noto'g'ri bo'lsa —
+    <a href="/haqida/">ayting</a>, qo'shamiz.
+  </p>
+</div>
+
+<style>
+  .gloss{margin:1.6rem 0 0;padding:0}
+  .gloss-item{padding:1.1rem 0;border-top:1px solid var(--hair)}
+  .gloss-item:first-child{border-top:0}
+  .gloss dt{display:flex;align-items:baseline;gap:.6rem;flex-wrap:wrap;margin:0}
+  .gloss dt b{font-size:1.05rem;font-weight:800;letter-spacing:-.02em;color:var(--ink)}
+  .gloss-en{
+    font-family:var(--mono);font-size:.74rem;color:var(--faint);
+    border:1px solid var(--line);padding:.1rem .4rem;border-radius:2px;
+  }
+  .gloss dd{margin:.4rem 0 0;color:var(--dim);line-height:1.6;max-width:62ch}
+</style>
+${foot(now)}`;
+}

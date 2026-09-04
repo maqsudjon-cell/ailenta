@@ -178,6 +178,22 @@ export function numbersAreGrounded(text, sourceText) {
   });
 }
 
+// Atamalar lug'ati promptga qo'shiladi: xulosalarda "inference" har xil
+// tarjima qilinmasin. Faqat eng chalkash 12 tasi — hammasi prompt'ni
+// bekorga uzaytiradi.
+let TERMS = null;
+async function loadTerms() {
+  if (TERMS !== null) return TERMS;
+  try {
+    const raw = JSON.parse(await readFile(join(ROOT, "assets/atamalar.json"), "utf8"));
+    TERMS = (raw.atamalar || [])
+      .slice(0, 12)
+      .map((t) => `${t.en} = ${t.uz}`)
+      .join("; ");
+  } catch { TERMS = ""; }
+  return TERMS;
+}
+
 // Ismlar lug'ati. Bitta sahifada "Sem Altman" ham, "Sam Altman" ham
 // chiqib qolardi (o'lchandi: 7 va 1 marta). Promptga ko'rsatma yozish
 // yetarli emasligi bugun ikki marta ko'rindi, shuning uchun almashtirish
@@ -311,9 +327,13 @@ async function main() {
       .slice(0, 30)
       .map((p) => `- ${p.title} — ${p.summary.split(/\s+/).slice(0, 16).join(" ")}`)
       .join("\n");
-    const full = recent
+    // Atamalar lug'ati: "inference" har xil tarjima qilinmasin.
+    const terms = await loadTerms();
+    const glossary = terms ? `\n\n### ATAMALAR (shu shaklda yoz)\n${terms}` : "";
+
+    const full = (recent
       ? `${prompt}\n\n### ALLAQACHON CHIQQAN\n${recent}`
-      : prompt;
+      : prompt) + glossary;
 
     let parsed;
     try {

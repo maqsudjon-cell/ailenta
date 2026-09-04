@@ -533,6 +533,7 @@ export function topbar(stamp) {
       <a href="/qidiruv/">Qidiruv</a>
       <a href="/arxiv/">Arxiv</a>
       <a href="/mavzular/">Mavzular</a>
+      <a href="/lugat/">Atamalar</a>
       <a href="/rss.xml">RSS</a>
       <a class="tg" href="https://t.me/${SITE.telegram}" target="_blank" rel="noopener">Telegram</a>
     </nav>

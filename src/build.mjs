@@ -8,7 +8,7 @@ import { readFile, writeFile, mkdir, rm, stat } from "node:fs/promises";
 import { join, dirname } from "node:path";
 import { fileURLToPath } from "node:url";
 import { SITE } from "../templates/shell.mjs";
-import { postPage, listPage, topicsPage, notFoundPage, photosPage, instagramPage, searchPage, aboutPage, statsPage } from "../templates/pages.mjs";
+import { postPage, listPage, topicsPage, notFoundPage, photosPage, instagramPage, searchPage, aboutPage, statsPage, glossaryPage } from "../templates/pages.mjs";
 import { caption } from "./instagram.mjs";
 import { slugTag } from "../templates/parts.mjs";
 import { buildImages } from "./images.mjs";
@@ -393,6 +393,14 @@ async function buildSite() {
   ));
   urls.push({ path: "/haqida/", lastmod: new Date().toISOString(), freq: "monthly", priority: "0.6" });
   pages++;
+
+  // Atamalar lug'ati — saytdagi yagona to'liq original kontent.
+  {
+    const terms = JSON.parse(await readFile(join(ROOT, "assets/atamalar.json"), "utf8")).atamalar;
+    await write("docs/lugat/index.html", glossaryPage(terms, U));
+    urls.push({ path: "/lugat/", lastmod: new Date().toISOString(), freq: "monthly", priority: "0.7" });
+    pages++;
+  }
 
   // Ochiq statistika — shaffoflik. Raqamlar ma'lumotdan hisoblanadi.
   {

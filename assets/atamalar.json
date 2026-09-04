@@ -1,0 +1,33 @@
+{
+  "_izoh": "AI atamalarining o'zbekcha lug'ati. Ikki vazifasi bor: (1) xulosalarda atamalar izchil ishlatilsin — modelga prompt orqali beriladi; (2) /lugat/ sahifasi original kontent va qidiruv trafigi.",
+  "atamalar": [
+    { "en": "inference", "uz": "xulosa chiqarish", "izoh": "O'qitilgan modelning ishlashi — savolga javob berishi yoki matn yozishi. O'qitishdan farqli, bu tayyor modeldan foydalanish bosqichi." },
+    { "en": "training", "uz": "o'qitish", "izoh": "Modelga ma'lumot berib, uning ichki parametrlarini sozlash jarayoni. Eng qimmat va eng uzoq bosqich." },
+    { "en": "fine-tuning", "uz": "moslashtirish", "izoh": "Tayyor modelni aniq vazifaga qayta o'qitish. Noldan o'qitishdan ancha arzon." },
+    { "en": "weights", "uz": "og'irliklar", "izoh": "Modelning o'qish davomida sozlangan raqamlari. Model aslida shu raqamlar to'plami." },
+    { "en": "open-weight", "uz": "ochiq og'irlikli", "izoh": "Og'irliklari yuklab olish uchun ochiq model. 'Ochiq kodli' bilan bir xil emas: o'qitish ma'lumoti va kodi yopiq bo'lishi mumkin." },
+    { "en": "checkpoint", "uz": "nazorat nuqtasi", "izoh": "O'qitish jarayonida saqlangan oraliq holat. Undan davom ettirish yoki orqaga qaytish mumkin." },
+    { "en": "token", "uz": "token", "izoh": "Matnning model ishlaydigan eng kichik bo'lagi — odatda so'z yoki uning qismi. Narx va uzunlik shunda o'lchanadi." },
+    { "en": "context window", "uz": "kontekst oynasi", "izoh": "Model bir vaqtda ko'ra oladigan matn hajmi. Undan oshgani unutiladi." },
+    { "en": "prompt", "uz": "so'rov", "izoh": "Modelga beriladigan ko'rsatma yoki savol." },
+    { "en": "hallucination", "uz": "to'qib chiqarish", "izoh": "Model ishonchli ohangda noto'g'ri ma'lumot yozishi. Eng keng tarqalgan xato turi." },
+    { "en": "benchmark", "uz": "sinov to'plami", "izoh": "Modellarni taqqoslash uchun standart topshiriqlar. Natijalar ko'pincha reklama uchun ishlatiladi." },
+    { "en": "embedding", "uz": "vektor tasvir", "izoh": "Matn yoki rasmning raqamlar ketma-ketligiga aylantirilgan shakli. Ma'no yaqinligini o'lchash uchun kerak." },
+    { "en": "agent", "uz": "agent", "izoh": "Vazifani bosqichma-bosqich mustaqil bajaradigan model — vosita ishlatadi, natijani tekshiradi, davom etadi." },
+    { "en": "RAG", "uz": "manbadan qidirib javob berish", "izoh": "Model javob yozishdan oldin tashqi hujjatlardan qidiradi. To'qib chiqarishni kamaytiradi." },
+    { "en": "alignment", "uz": "moslik", "izoh": "Modelni odam kutgan va xavfsiz javob beradigan qilib sozlash." },
+    { "en": "guardrails", "uz": "cheklovlar", "izoh": "Modelning zararli javob berishini to'sadigan qoidalar." },
+    { "en": "multimodal", "uz": "ko'p turdagi", "izoh": "Matn, rasm, ovoz va videoni birga tushunadigan model." },
+    { "en": "quantization", "uz": "siqish", "izoh": "Og'irliklarni kamroq xotira egallaydigan shaklga o'tkazish. Model tezlashadi, aniqligi biroz tushadi." },
+    { "en": "latency", "uz": "kechikish", "izoh": "So'rov yuborilgandan javob kelguncha o'tgan vaqt." },
+    { "en": "dataset", "uz": "ma'lumotlar to'plami", "izoh": "Model o'qitiladigan matn, rasm yoki ovoz to'plami." },
+    { "en": "GPU", "uz": "grafik protsessor", "izoh": "AI o'qitish va ishlatish uchun asosiy jihoz. Nvidia bu bozorda yetakchi." },
+    { "en": "data center", "uz": "ma'lumotlar markazi", "izoh": "Serverlar joylashgan bino. AI uchun ular juda ko'p elektr va suv talab qiladi." },
+    { "en": "LLM", "uz": "katta til modeli", "izoh": "Matn bilan ishlaydigan yirik model — ChatGPT, Claude, Gemini shular qatoriga kiradi." },
+    { "en": "AGI", "uz": "umumiy sun'iy intellekt", "izoh": "Odam qila oladigan aqliy ishlarning deyarli hammasini bajara oladigan faraziy model. Hali mavjud emas." },
+    { "en": "distillation", "uz": "kichraytirish", "izoh": "Katta modelning bilimini kichik modelga o'tkazish. Arzonroq ishlaydi." },
+    { "en": "jailbreak", "uz": "cheklovni aylanib o'tish", "izoh": "Modelni taqiqlangan javob berishga majburlash usuli." },
+    { "en": "chain of thought", "uz": "fikrlash zanjiri", "izoh": "Model javobdan oldin qadam-baqadam o'ylashi. Murakkab masalalarda aniqlikni oshiradi." },
+    { "en": "reasoning model", "uz": "fikrlaydigan model", "izoh": "Javob berishdan oldin ko'proq hisoblash sarflaydigan model turi." }
+  ]
+}
