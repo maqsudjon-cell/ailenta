@@ -1,5 +1,51 @@
 [
   {
+    "id": "0d8097011c53",
+    "slug": "aqsh-va-xitoy-ai-xavfsizligi-xatarlarini-muhokama-qiladi-0d8097",
+    "title": "AQSh va Xitoy AI xavfsizligi xatarlarini muhokama qiladi",
+    "summary": "AQSh va Xitoy sentyabr oyi o'rtalarida rejalashtirilgan muzokaralar davomida sun'iy intellekt xavfsizligi xatarlarini muhokama qiladi. Reuters manbalariga ko'ra, AQSh delegatsiyasiga moliya vaziri Skott Bessent boshchilik qiladi.",
+    "tags": [
+      "siyosat",
+      "xavfsizlik"
+    ],
+    "importance": 4,
+    "score": 27,
+    "published": "2026-09-04T23:20:20.000Z",
+    "created": "2026-09-04T23:24:28.720Z",
+    "coverage": 3,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/260904/p32",
+      "title": "Sources: the US and China will discuss AI safety risks during talks planned for mid-September, with Treasury Secretary Scott Bessent leading the US side (Laurie Chen/Reuters)",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "ae48987a36a2",
+    "slug": "aqsh-nvidia-chiplari-orqali-tinchlik-bitimiga-erishdi-ae4898",
+    "title": "AQSh Nvidia chiplari orqali tinchlik bitimiga erishdi",
+    "summary": "WSJ nashrining xabar berishicha, AQSh hukumati Armaniston va Ozarbayjon o'rtasida tinchlik bitimini tuzishda Nvidia chiplarini yetkazib berish va'dasidan foydalangan.",
+    "tags": [
+      "Nvidia",
+      "siyosat"
+    ],
+    "importance": 4,
+    "score": 27,
+    "published": "2026-09-04T23:02:40.000Z",
+    "created": "2026-09-04T23:24:28.721Z",
+    "coverage": 1,
+    "source": {
+      "name": "WSJ",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbEJmOWRwaGQxLXdMVzlaUk16VUZfVE9FTkN4MVdOXzBYZEY5VlpWMWZFbHBjaTNCTmxnQVdsamU4YUd3YmUtZDV6OUFNZDdvOGFfY0pLSndyc0JVci03c2NrcUtveEhnTU8tOEZMY3FoUUlETnlrM0pZUGlsSFdjOW5xU2VpQ3pOeWhoOHZ2TTNqb3RyQzdFSnR0YktRWjZHeDcxNzBuQmZvOUk",
+      "title": "U.S. Used Promise of Nvidia Chips to Broker Armenia-Azerbaijan Peace Deal",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "d7afce71bf05",
     "slug": "ascii-smuggling-xavfi-faqat-ai-bilan-cheklanmaydi-d7afce",
     "title": "ASCII smuggling xavfi faqat AI bilan cheklanmaydi",
