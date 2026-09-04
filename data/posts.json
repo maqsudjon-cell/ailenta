@@ -1,5 +1,78 @@
 [
   {
+    "id": "d7afce71bf05",
+    "slug": "ascii-smuggling-xavfi-faqat-ai-bilan-cheklanmaydi-d7afce",
+    "title": "ASCII smuggling xavfi faqat AI bilan cheklanmaydi",
+    "summary": "Fishing hujumchilari va spam tarqatuvchilar ko'rinmas Unicode belgilaridan foydalanadigan ASCII smuggling usulini o'zlashtirmoqda. Ilgari ushbu usul asosan sun'iy intellekt tizimlariga hujum qilish uchun ishlatilgan.",
+    "tags": [
+      "xavfsizlik"
+    ],
+    "importance": 2,
+    "score": 25,
+    "published": "2026-09-04T19:23:25.000Z",
+    "created": "2026-09-04T22:01:31.774Z",
+    "coverage": 2,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/security/2026/09/04/ascii-smuggling-isnt-just-an-ai-security-risk/5294595",
+      "title": "ASCII smuggling isn't just an AI security risk",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "Ars Technica",
+        "url": "https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "e342a9152cac",
+    "slug": "anthropic-xarid-qiluvchi-botlar-uchun-zamin-yaratmoqda-e342a9",
+    "title": "Anthropic xarid qiluvchi botlar uchun zamin yaratmoqda",
+    "summary": "Anthropic kompaniyasi foydalanuvchilar o'rniga xarid qila oladigan botlar ustida ishlamoqda. Endilikda kompaniya mijozlar va sotuvchilarni xaridlar borasida sun'iy intellektga ishonishga ko'ndirishi kerak bo'ladi.",
+    "tags": [
+      "Anthropic",
+      "agentlar"
+    ],
+    "importance": 3,
+    "score": 22,
+    "published": "2026-09-04T20:36:07.000Z",
+    "created": "2026-09-04T22:01:31.775Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/ai-and-ml/2026/09/04/anthropic-lays-groundwork-for-bots-that-shop-for-you/5294621",
+      "title": "Anthropic lays groundwork for bots that shop for you",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "1062f11513a2",
+    "slug": "micro1-malumotlar-uchun-12-5-mln-dollar-taklif-qildi-1062f1",
+    "title": "Micro1 ma'lumotlar uchun 12,5 mln dollar taklif qildi",
+    "summary": "Sun'iy intellektni o'qitish uchun ma'lumotlar yig'uvchi Micro1 startapi Spirit Airlines ma'lumotlarini sotib olish uchun 12,5 million dollar taklif qildi. Biroq aviakompaniyaning Google bilan allaqachon 10 million dollarlik kelishuvi borligi sababli ushbu taklif qiyinchiliklarga duch kelmoqda.",
+    "tags": [
+      "Google",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 21,
+    "published": "2026-09-04T21:10:01.000Z",
+    "created": "2026-09-04T22:01:31.776Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/260904/p29",
+      "title": "Filing: AI training data startup Micro1 offers to pay $12.5M for Spirit Airlines' data; the offer faces hurdles as Spirit already has a $10M deal with Google (Jonathan Randles/Bloomberg)",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "a7173c3c511d",
     "slug": "nscale-3-5-mlrdgacha-moliyalashtirish-muzokarasi-a7173c",
     "title": "Nscale $3,5 mlrdgacha moliyalashtirish muzokarasi",
