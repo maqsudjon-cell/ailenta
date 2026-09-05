@@ -1,5 +1,27 @@
 [
   {
+    "id": "8a1f0ccbac78",
+    "slug": "openai-astra-modelining-sinov-ko-rsatkichlarini-o-zgartirdi-8a1f0c",
+    "title": "OpenAI Astra modelining sinov koʻrsatkichlarini oʻzgartirdi",
+    "summary": "OpenAI oʻz blogida Astra modeliga doir baholash koʻrsatkichlarini jimgina yangiladi. Ayrim oʻzgarishlar Astra modelini yaxshiroq, raqobatchilar modellarini esa yomonroq koʻrsatishga qaratilgan.",
+    "tags": [
+      "OpenAI"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-09-05T00:12:32.000Z",
+    "created": "2026-09-05T01:01:23.683Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/09/04/openai-quietly-boosts-some-of-astras-evaluation-metrics-amid-rare-delay-in-publication-of-the-modeblog-post-announcement",
+      "title": "OpenAI quietly boosts some of Astra’s evaluation metrics, and continues to change others post-launch",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "b548c89b70b8",
     "slug": "amd-threadripper-halo-mahalliy-ai-ish-stansiyasini-taqdim-et-b548c8",
     "title": "AMD Threadripper Halo mahalliy AI ish stansiyasini taqdim etdi",
