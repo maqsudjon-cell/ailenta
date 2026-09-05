@@ -5,7 +5,7 @@
   <link>https://ailenta.uz</link>
   <description>Dunyodagi sun'iy intellekt yangiliklari o'zbek tilida. Har soatda yangilanadi, har bir xabarda asl manbaga havola.</description>
   <language>uz</language>
-  <lastBuildDate>Fri, 04 Sep 2026 23:43:28 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 05 Sep 2026 00:02:22 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/rss.xml" rel="self" type="application/rss+xml"/>
   <item>
     <title>AQSh va Xitoy AI xavfsizligi xatarlarini muhokama qiladi</title>
@@ -46,6 +46,16 @@
     <category>Anthropic</category><category>agentlar</category>
     <media:content url="https://ailenta.uz/og/anthropic-xarid-qiluvchi-botlar-uchun-zamin-yaratmoqda-e342a9.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/anthropic-xarid-qiluvchi-botlar-uchun-zamin-yaratmoqda-e342a9.jpg"/>
+  </item>
+  <item>
+    <title>AMD Threadripper Halo mahalliy AI ish stansiyasini taqdim etdi</title>
+    <link>https://ailenta.uz/x/amd-threadripper-halo-mahalliy-ai-ish-stansiyasini-taqdim-et-b548c8/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/amd-threadripper-halo-mahalliy-ai-ish-stansiyasini-taqdim-et-b548c8/</guid>
+    <pubDate>Fri, 04 Sep 2026 20:12:11 GMT</pubDate>
+    <description>AMD kompaniyasi tadqiqotchilar uchun moʻljallangan Threadripper Halo mahalliy AI ish stansiyasini chiqardi. U 576 GB HBM3e xotira va 16 TB/s gacha xotira oʻtkazish qobiliyatini taklif etadi.</description>
+    <category>AMD</category><category>chiplar</category>
+    <media:content url="https://ailenta.uz/og/amd-threadripper-halo-mahalliy-ai-ish-stansiyasini-taqdim-et-b548c8.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/amd-threadripper-halo-mahalliy-ai-ish-stansiyasini-taqdim-et-b548c8.jpg"/>
   </item>
   <item>
     <title>OpenAI agentlari 18 ming xabar qoldirdi</title>
@@ -496,16 +506,6 @@
     <category>iqtisod</category><category>biznes</category>
     <media:content url="https://ailenta.uz/og/elektr-tarmoqlari-ai-talabiga-yetib-olishga-ulgurmayapti-7924d5.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/elektr-tarmoqlari-ai-talabiga-yetib-olishga-ulgurmayapti-7924d5.jpg"/>
-  </item>
-  <item>
-    <title>Ollie AI yordamchisi maxfiylikka urg'u bermoqda</title>
-    <link>https://ailenta.uz/x/ollie-ai-yordamchisi-maxfiylikka-urgu-bermoqda-c9405d/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/ollie-ai-yordamchisi-maxfiylikka-urgu-bermoqda-c9405d/</guid>
-    <pubDate>Thu, 03 Sep 2026 16:09:01 GMT</pubDate>
-    <description>Ollie oilaga yo'naltirilgan AI yordamchisi bo'lib, kundalik hayot ma'lumotlariga kirishni xohlaydi. Kompaniya bu ma'lumotlarni AI modellarini o'qitish yoki boshqalar bilan bo'lishmasligini ta'kidlaydi.</description>
-    <category>maxfiylik</category><category>agentlar</category>
-    <media:content url="https://ailenta.uz/og/ollie-ai-yordamchisi-maxfiylikka-urgu-bermoqda-c9405d.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/ollie-ai-yordamchisi-maxfiylikka-urgu-bermoqda-c9405d.jpg"/>
   </item>
 </channel>
 </rss>
