@@ -1,5 +1,50 @@
 [
   {
+    "id": "43db3a21f210",
+    "slug": "deepseek-huawei-chiplariga-katta-etibor-qaratmoqda-43db3a",
+    "title": "DeepSeek Huawei chiplariga katta e'tibor qaratmoqda",
+    "summary": "DeepSeek kompaniyasi Huawei chiplariga katta sarmoya kiritmoqda. Bu Xitoyning Nvidia'ga muqobil izlash harakatlari fonida yuz bermoqda.",
+    "tags": [
+      "DeepSeek",
+      "chiplar"
+    ],
+    "importance": 3,
+    "score": 9.8,
+    "published": "2026-09-05T08:25:27.000Z",
+    "created": "2026-09-05T21:03:11.301Z",
+    "coverage": 1,
+    "source": {
+      "name": "varindia.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNd0tZLTRQaDdqaEFvbmhXSWtGR3ZlMm45N3hiRmNOazZlNl9XbTN6QmxvWFQ3R0hFSUFacTlqQnJXR1VXSHFlN1V5YmhhcDJQWDd1RTQyenEtc2ItVHNpSzBTZ2VMWkVwRW9TckJYYktwNzhraHJMbW5wY2c4QmxSdUtjMjV2UUowNDhObjZtX1JhaHctSVR6TElMNHJWdw",
+      "title": "DeepSeek bets big on Huawei chips as China seeks Nvidia alternative",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "fc75f575fc53",
+    "slug": "roland-generativ-ai-musiqasiga-melody-flip-bilan-kirdi-fc75f5",
+    "title": "Roland generativ AI musiqasiga Melody Flip bilan kirdi",
+    "summary": "Roland kompaniyasi Melody Flip vositasi bilan generativ AI musiqasi sohasiga kirib keldi. Bu vosita raqamli audio ish stansiyalari uchun plagin sifatida mavjud bo'lib, 250 ga yaqin \"Palettes\" taklif etadi.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 8.9,
+    "published": "2026-09-04T17:51:35.000Z",
+    "created": "2026-09-05T21:03:11.302Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Verge",
+      "url": "https://theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip",
+      "title": "Roland is getting into generative AI music with Melody Flip",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "e6a0162e86d9",
     "slug": "viktoriyadagi-saylov-oldidan-ai-reklamalari-tarqalmoqda-e6a016",
     "title": "Viktoriyadagi saylov oldidan AI reklamalari tarqalmoqda",

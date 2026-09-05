@@ -5,7 +5,7 @@
   <link>https://ailenta.uz</link>
   <description>Dunyodagi sun'iy intellekt yangiliklari o'zbek tilida. Har soatda yangilanadi, har bir xabarda asl manbaga havola.</description>
   <language>uz</language>
-  <lastBuildDate>Sat, 05 Sep 2026 21:02:23 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 05 Sep 2026 21:05:41 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/rss.xml" rel="self" type="application/rss+xml"/>
   <item>
     <title>Viktoriyadagi saylov oldidan AI reklamalari tarqalmoqda</title>
@@ -328,6 +328,16 @@
     <media:thumbnail url="https://ailenta.uz/og/sanders-loyihasi-ai-rahbarlarini-qamoqqa-olishi-mumkin-2df925.jpg"/>
   </item>
   <item>
+    <title>DeepSeek Huawei chiplariga katta e'tibor qaratmoqda</title>
+    <link>https://ailenta.uz/x/deepseek-huawei-chiplariga-katta-etibor-qaratmoqda-43db3a/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/deepseek-huawei-chiplariga-katta-etibor-qaratmoqda-43db3a/</guid>
+    <pubDate>Sat, 05 Sep 2026 08:25:27 GMT</pubDate>
+    <description>DeepSeek kompaniyasi Huawei chiplariga katta sarmoya kiritmoqda. Bu Xitoyning Nvidia'ga muqobil izlash harakatlari fonida yuz bermoqda.</description>
+    <category>DeepSeek</category><category>chiplar</category>
+    <media:content url="https://ailenta.uz/og/deepseek-huawei-chiplariga-katta-etibor-qaratmoqda-43db3a.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/deepseek-huawei-chiplariga-katta-etibor-qaratmoqda-43db3a.jpg"/>
+  </item>
+  <item>
     <title>Sayohatchilar AIga haddan tashqari ishonib qutqarildi</title>
     <link>https://ailenta.uz/x/sayohatchilar-aiga-haddan-tashqari-ishonib-qutqarildi-2c0ec1/</link>
     <guid isPermaLink="true">https://ailenta.uz/x/sayohatchilar-aiga-haddan-tashqari-ishonib-qutqarildi-2c0ec1/</guid>
@@ -496,16 +506,6 @@
     <category>OpenAI</category><category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/gpt-6-astra-modeli-sinovdan-otkazildi-b3b9e9.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/gpt-6-astra-modeli-sinovdan-otkazildi-b3b9e9.jpg"/>
-  </item>
-  <item>
-    <title>Spotify Portal Claude token sarfini kamaytirdi</title>
-    <link>https://ailenta.uz/x/spotify-portal-claude-token-sarfini-kamaytirdi-44a6c9/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/spotify-portal-claude-token-sarfini-kamaytirdi-44a6c9/</guid>
-    <pubDate>Fri, 04 Sep 2026 23:38:50 GMT</pubDate>
-    <description>Spotify'ning Portal xizmati Claude Code token ishlatishini 90% ga kamaytirdi. Bu AI modelidan foydalanish samaradorligini oshirishga yordam beradi.</description>
-    <category>Anthropic</category><category>biznes</category>
-    <media:content url="https://ailenta.uz/og/spotify-portal-claude-token-sarfini-kamaytirdi-44a6c9.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/spotify-portal-claude-token-sarfini-kamaytirdi-44a6c9.jpg"/>
   </item>
 </channel>
 </rss>
