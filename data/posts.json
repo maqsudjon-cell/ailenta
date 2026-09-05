@@ -1,5 +1,51 @@
 [
   {
+    "id": "f038a295bd4f",
+    "slug": "microsoft-copilot-nyt-maqolalarini-deyarli-ko-chirmaydi-f038a2",
+    "title": "Microsoft Copilot NYT maqolalarini deyarli ko‘chirmaydi",
+    "summary": "Microsoft sud hujjatlarida Copilot chatbotidan foydalanuvchilar The New York Times maqolalarini deyarli olmaganini ma'lum qildi. Kompaniyaga ko'ra, chatbot yangiliklar va kitoblardan to'liq jumlalarni juda kamdan-kam hollarda takrorlaydi.",
+    "tags": [
+      "Microsoft",
+      "sud"
+    ],
+    "importance": 3,
+    "score": 16.8,
+    "published": "2026-09-04T16:05:57.000Z",
+    "created": "2026-09-05T07:01:21.653Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Verge",
+      "url": "https://theverge.com/policy/990267/microsoft-openai-new-york-times-authors-lawsuit",
+      "title": "Microsoft says virtually nobody was grabbing NYT articles through its chatbot",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "a2d3d2ae6b0e",
+    "slug": "apple-bosh-direktori-tim-cook-lavozimidan-ketdi-a2d3d2",
+    "title": "Apple bosh direktori Tim Cook lavozimidan ketdi",
+    "summary": "Tim Cook Apple bosh direktorligidan iste'foga chiqdi va uning o'rnini apparat ta'minoti bo'limi sobiq rahbari Jon Ternus egalladi. Kuk kompaniyada ijrochi rais sifatida qolib, siyosat masalalari bilan shug'ullanadi.",
+    "tags": [
+      "Apple",
+      "biznes"
+    ],
+    "importance": 5,
+    "score": 16.8,
+    "published": "2026-09-04T16:04:08.000Z",
+    "created": "2026-09-05T07:01:21.654Z",
+    "coverage": 1,
+    "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/podcast/apples-ternus-era-begins-as-nvidia-bets-on-the-whole-ai-stack",
+      "title": "Apple’s Ternus era begins as Nvidia bets on the whole AI stack",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "b0122383861b",
     "slug": "aqsh-texnologik-boshqaruvga-chaqqon-yondashuvga-muhtoj-b01223",
     "title": "AQSh texnologik boshqaruvga chaqqon yondashuvga muhtoj",
