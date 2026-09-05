@@ -1,5 +1,96 @@
 [
   {
+    "id": "81234c33580d",
+    "slug": "demis-hassabis-agi-10-yilda-paydo-bo-lishini-aytdi-81234c",
+    "title": "Demis Hassabis AGI 10 yilda paydo bo‘lishini aytdi",
+    "summary": "Google DeepMind rahbari Demis Hassabis sun’iy umumiy intellekt (AGI) sanoat inqilobidan o‘n barobar kuchliroq ta’sirga ega bo‘lishini va o‘n yil ichida yuz berishini ma’lum qildi. U AGI iqtisodiyot va mehnat bozoriga ta’sirini ham muhokama qildi.",
+    "tags": [
+      "Google",
+      "mehnat bozori"
+    ],
+    "importance": 4,
+    "score": 51,
+    "published": "2026-09-05T09:33:51.000Z",
+    "created": "2026-09-05T10:01:20.638Z",
+    "coverage": 1,
+    "source": {
+      "name": "Pivot",
+      "url": "https://pivot.uz/uz/katta-til-modellari-oddiy-tovarga-aylanmaydi",
+      "title": "Katta til modellari oddiy tovarga aylanmaydi",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "c050c0a1436f",
+    "slug": "anthropic-mualliflarga-1-5-milliard-dollar-to-laydi-c050c0",
+    "title": "Anthropic mualliflarga 1,5 milliard dollar to‘laydi",
+    "summary": "Anthropic kompaniyasi chatbotini o‘qitish uchun foydalanilgan har bir pirat kitob uchun 3000 dollardan to‘lashi kerak. Mualliflar va nashriyotlar ushbu 1,5 milliard dollarlik kelishuv mablag‘lari ustida bahslashmoqda.",
+    "tags": [
+      "Anthropic",
+      "sud"
+    ],
+    "importance": 4,
+    "score": 39,
+    "published": "2026-09-05T09:03:10.000Z",
+    "created": "2026-09-05T10:01:20.640Z",
+    "coverage": 2,
+    "source": {
+      "name": "The New York Times",
+      "url": "https://nytimes.com/2026/09/05/books/anthropic-settlement-ai-copyright-books.html",
+      "title": "Authors Wrangle With Publishers Over $1.5 Billion Anthropic A.I. Settlement",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "4eb02318e2d9",
+    "slug": "ai-keniyalik-insho-yozuvchilarni-ishsiz-qoldirdi-4eb023",
+    "title": "AI keniyalik insho yozuvchilarni ishsiz qoldirdi",
+    "summary": "Keniyada minglab odamlar xorijlik talabalar uchun insho yozib kun kechirardi. Sun’iy intellekt paydo bo‘lishi bilan bu ishlar to‘xtadi, bu esa global onlayn mehnat bozori uchun jiddiy ogohlantirishdir.",
+    "tags": [
+      "mehnat bozori"
+    ],
+    "importance": 3,
+    "score": 27,
+    "published": "2026-09-05T09:02:13.000Z",
+    "created": "2026-09-05T10:01:20.641Z",
+    "coverage": 1,
+    "source": {
+      "name": "The New York Times",
+      "url": "https://nytimes.com/2026/09/05/technology/kenya-college-essays-ai.html",
+      "title": "Kenyans Made a Living Writing College Essays. Then A.I. Arrived.",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "40edf53f5c1b",
+    "slug": "ai-bumu-tufayli-smartfonlar-narxi-oshadi-40edf5",
+    "title": "AI bumu tufayli smartfonlar narxi oshadi",
+    "summary": "Sun’iy intellekt bumu keltirib chiqargan inflatsiya tufayli smartfonlar narxi yanada qimmatlashadi. Shu sababli, yangi telefon sotib olish uchun hozir eng qulay vaqt bo‘lishi mumkin.",
+    "tags": [
+      "Apple",
+      "iqtisod"
+    ],
+    "importance": 2,
+    "score": 23,
+    "published": "2026-09-05T09:00:00.000Z",
+    "created": "2026-09-05T10:01:20.641Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Washington Post",
+      "url": "https://washingtonpost.com/technology/2026/09/05/apple-is-expected-raise-iphone-prices-due-ai-inflation",
+      "title": "The best time to buy an iPhone may be right this minute",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "a2111f1e0c92",
     "slug": "nazoratsiz-ai-xavfi-haqidagi-ogohlantirishlar-kuchaymoqda-a2111f",
     "title": "Nazoratsiz AI xavfi haqidagi ogohlantirishlar kuchaymoqda",
