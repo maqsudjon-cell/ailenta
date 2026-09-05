@@ -1,5 +1,120 @@
 [
   {
+    "id": "120fcbdbd178",
+    "slug": "6-ta-bepul-ai-api-shlyuzlari-modellar-limitlar-va-rpm-120fcb",
+    "title": "6 ta bepul AI API-shlyuzlari: modellar, limitlar va RPM",
+    "summary": "Habr nashri 6 ta bepul AI API-servisini sinovdan oʻtkazdi. Tadqiqotda mavjud modellar, boshlangʻich limitlar, RPM va API ishlashi amalda solishtirildi.",
+    "tags": [
+      "tadqiqot",
+      "bulut"
+    ],
+    "importance": 2,
+    "score": 11,
+    "published": "2026-09-05T21:25:16.000Z",
+    "created": "2026-09-05T23:47:20.876Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1078896",
+      "title": "6 бесплатных AI API‑шлюзов: модели, лимиты и реальные RPM",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "36597161f3bb",
+    "slug": "bulutli-ai-modellarni-kompaniya-ichida-xavfsiz-ishlatish-365971",
+    "title": "Bulutli AI modellarni kompaniya ichida xavfsiz ishlatish",
+    "summary": "Habr nashri bulutli AI modellarni kompaniya ichki tizimida qanday xavfsiz ishlatish mumkinligini koʻrib chiqdi. Maqolada AIga paket menejeri rolini berish misoli keltirilgan.",
+    "tags": [
+      "xavfsizlik",
+      "bulut"
+    ],
+    "importance": 2,
+    "score": 11,
+    "published": "2026-09-05T14:25:33.000Z",
+    "created": "2026-09-05T23:47:20.877Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1078824",
+      "title": "Как использовать облачные AI модели внутри контура компании и не получить по шее от ИБ?",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "191af65b7d82",
+    "slug": "ikki-chip-uskunalari-aksiyasi-nvidia-dan-ustun-keldi-191af6",
+    "title": "Ikki chip uskunalari aksiyasi Nvidiaʼdan ustun keldi",
+    "summary": "Ikki chip uskunalari ishlab chiqaruvchi kompaniyaning aksiyalari Nvidiaʼdan ustun keldi. Bu AI aksiyalari bozorining kengayayotganidan dalolat berishi mumkin.",
+    "tags": [
+      "Nvidia",
+      "chiplar"
+    ],
+    "importance": 3,
+    "score": 10,
+    "published": "2026-09-05T18:43:32.000Z",
+    "created": "2026-09-05T23:47:20.878Z",
+    "coverage": 1,
+    "source": {
+      "name": "finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRlFxcWtZdkFQWTE2a0xGZHFIcC1LTzJKbnpqeVZPblhiOU05SUVmdUFocWxDdHc5S05nYndqLWxqeTZWRS04NmMwSEFySGd6aVRGUU1IVXVIMTBWUGx5SlpwYnREUnJNSTItanlNMnNDQkNIbWcyTkZ0c1I2NXA2LVl0ZmZzb21RX2ZLV0V1M0dINFNhb2c",
+      "title": "Two Chip-Equipment Stocks Just Crushed Nvidia. Is the AI Rally Broadening?",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "308b487c736b",
+    "slug": "bashorat-bozorlarida-garovlar-taqiqlanish-va-hibslarga-sabab-308b48",
+    "title": "Bashorat bozorlarida garovlar taqiqlanish va hibslarga sabab boʻlmoqda",
+    "summary": "Wired nashri bashorat bozorlaridagi garovlar odamlarning taqiqlanishi va hibsga olinishiga olib kelayotganini yoritdi. Shuningdek, Flockʼning AI asosidagi politsiya qidiruv vositasi ham muhokama qilindi.",
+    "tags": [
+      "qonun",
+      "siyosat"
+    ],
+    "importance": 3,
+    "score": 7.8,
+    "published": "2026-09-03T21:48:24.000Z",
+    "created": "2026-09-05T23:47:28.670Z",
+    "coverage": 1,
+    "source": {
+      "name": "Wired",
+      "url": "https://wired.com/story/prediction-market-betting-is-getting-people-banned-and-arrested",
+      "title": "Prediction Market Betting Is Getting People Banned and Arrested",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "0bcb4c8ea574",
+    "slug": "reddit-anthropic-ni-ai-raqibi-deb-atashini-cheklamoqda-0bcb4c",
+    "title": "Reddit Anthropicʼni AI raqibi deb atashini cheklamoqda",
+    "summary": "Reddit Anthropic kompaniyasini AI raqibi deb atashni cheklayotganini maʼlum qildi. Bu harakat maʼlumotlarni topishni cheklash maqsadida qilingani aytilmoqda.",
+    "tags": [
+      "Anthropic",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 7.5,
+    "published": "2026-09-05T05:24:53.000Z",
+    "created": "2026-09-05T23:47:28.670Z",
+    "coverage": 1,
+    "source": {
+      "name": "RuntimeWire",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUmQ0ZG9SVEd4d2tSSW5MWUxZLXJPSmFETEwzaERtUFN6SlFLTTdweGFpdTZPTjluYXEwdm5waW8wRXJVbGRVQ3g1ZFpXY2ltRjIyNUV4X2xxdDJUR3F2MG5rUFpSWkNtdk1KSWtSUlB1Tk50VjJYVjNFcXdKSEt5M1pLajBUZDg",
+      "title": "Reddit says Anthropic is calling it an AI rival to restrict discovery",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "92df3333dd57",
     "slug": "openai-nosoz-agentlar-haqida-xabar-berishni-ozgartiradi-92df33",
     "title": "OpenAI nosoz agentlar haqida xabar berishni o'zgartiradi",
