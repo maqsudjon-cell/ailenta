@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/agentlar/</link>
   <description>&quot;agentlar&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Sat, 05 Sep 2026 18:02:22 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 05 Sep 2026 18:05:43 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/agentlar/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>AI agentlari tokenlarni tejashga o'rgatildi</title>
+    <link>https://ailenta.uz/x/ai-agentlari-tokenlarni-tejashga-orgatildi-b42457/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/ai-agentlari-tokenlarni-tejashga-orgatildi-b42457/</guid>
+    <pubDate>Sat, 05 Sep 2026 17:29:26 GMT</pubDate>
+    <description>Tadqiqotda to'rtta AI agenti kod haqida bahslashib, 40 million token sarflagani aniqlandi. Ularni o'z vaqtida to'xtatish orqali 4,5 million token tejashga muvaffaq bo'lindi.</description>
+    <category>tadqiqot</category><category>agentlar</category>
+    <media:content url="https://ailenta.uz/og/ai-agentlari-tokenlarni-tejashga-orgatildi-b42457.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/ai-agentlari-tokenlarni-tejashga-orgatildi-b42457.jpg"/>
+  </item>
   <item>
     <title>Blender va kodlash agentlari macOS'da</title>
     <link>https://ailenta.uz/x/blender-va-kodlash-agentlari-macosda-22aace/</link>
@@ -296,16 +306,6 @@
     <category>Google</category><category>agentlar</category>
     <media:content url="https://ailenta.uz/og/gemini-video-tahlilida-tokenlarni-88-foizgacha-tejaydi-7e0c47.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/gemini-video-tahlilida-tokenlarni-88-foizgacha-tejaydi-7e0c47.jpg"/>
-  </item>
-  <item>
-    <title>Artifactory tizimi kiberhujumga uchramoqda</title>
-    <link>https://ailenta.uz/x/artifactory-tizimi-kiberhujumga-uchramoqda-7837e8/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/artifactory-tizimi-kiberhujumga-uchramoqda-7837e8/</guid>
-    <pubDate>Tue, 01 Sep 2026 21:07:13 GMT</pubDate>
-    <description>Artifactory tizimidagi yangi zaiflik tufayli serverlar kiberhujumga uchramoqda. Tizimga ruxsatsiz kirganlar administrator tokenlarini yaratishi mumkin bo'lib, hujumlar ortida AI agentlari yoki insonlar turgan bo'lishi mumkin.</description>
-    <category>xavfsizlik</category><category>agentlar</category>
-    <media:content url="https://ailenta.uz/og/artifactory-tizimi-kiberhujumga-uchramoqda-7837e8.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/artifactory-tizimi-kiberhujumga-uchramoqda-7837e8.jpg"/>
   </item>
 </channel>
 </rss>

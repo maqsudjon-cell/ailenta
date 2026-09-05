@@ -5,8 +5,18 @@
   <link>https://ailenta.uz</link>
   <description>Dunyodagi sun'iy intellekt yangiliklari o'zbek tilida. Har soatda yangilanadi, har bir xabarda asl manbaga havola.</description>
   <language>uz</language>
-  <lastBuildDate>Sat, 05 Sep 2026 18:02:22 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 05 Sep 2026 18:05:43 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>AI agentlari tokenlarni tejashga o'rgatildi</title>
+    <link>https://ailenta.uz/x/ai-agentlari-tokenlarni-tejashga-orgatildi-b42457/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/ai-agentlari-tokenlarni-tejashga-orgatildi-b42457/</guid>
+    <pubDate>Sat, 05 Sep 2026 17:29:26 GMT</pubDate>
+    <description>Tadqiqotda to'rtta AI agenti kod haqida bahslashib, 40 million token sarflagani aniqlandi. Ularni o'z vaqtida to'xtatish orqali 4,5 million token tejashga muvaffaq bo'lindi.</description>
+    <category>tadqiqot</category><category>agentlar</category>
+    <media:content url="https://ailenta.uz/og/ai-agentlari-tokenlarni-tejashga-orgatildi-b42457.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/ai-agentlari-tokenlarni-tejashga-orgatildi-b42457.jpg"/>
+  </item>
   <item>
     <title>Uoll-strit AI aksiyalari uchun talabni oshirdi</title>
     <link>https://ailenta.uz/x/uoll-strit-ai-aksiyalari-uchun-talabni-oshirdi-322f12/</link>
@@ -368,6 +378,16 @@
     <media:thumbnail url="https://ailenta.uz/og/nvidia-dlss-5ni-eski-rtx-40-seriyali-gpularga-olib-keladi-782c35.jpg"/>
   </item>
   <item>
+    <title>GPT-6 Astra modeli sinovdan o'tkazildi</title>
+    <link>https://ailenta.uz/x/gpt-6-astra-modeli-sinovdan-otkazildi-b3b9e9/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/gpt-6-astra-modeli-sinovdan-otkazildi-b3b9e9/</guid>
+    <pubDate>Fri, 04 Sep 2026 23:59:05 GMT</pubDate>
+    <description>Simon Willison GPT-6 Astra modelini sinovdan o'tkazib, undan turli darajadagi mulohazalar bilan SVG tasvirlarini yaratdi. U Astra natijalarini GPT-5.6 Sol, Terra va Luna modellarining natijalari bilan solishtirdi.</description>
+    <category>OpenAI</category><category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/gpt-6-astra-modeli-sinovdan-otkazildi-b3b9e9.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/gpt-6-astra-modeli-sinovdan-otkazildi-b3b9e9.jpg"/>
+  </item>
+  <item>
     <title>Spotify Portal Claude token sarfini kamaytirdi</title>
     <link>https://ailenta.uz/x/spotify-portal-claude-token-sarfini-kamaytirdi-44a6c9/</link>
     <guid isPermaLink="true">https://ailenta.uz/x/spotify-portal-claude-token-sarfini-kamaytirdi-44a6c9/</guid>
@@ -486,26 +506,6 @@
     <category>Nvidia</category><category>biznes</category>
     <media:content url="https://ailenta.uz/og/nscale-3-5-mlrdgacha-moliyalashtirish-muzokarasi-a7173c.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/nscale-3-5-mlrdgacha-moliyalashtirish-muzokarasi-a7173c.jpg"/>
-  </item>
-  <item>
-    <title>AI sxema platalarini loyihalashi mumkinmi</title>
-    <link>https://ailenta.uz/x/ai-sxema-platalarini-loyihalashi-mumkinmi-47f11a/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/ai-sxema-platalarini-loyihalashi-mumkinmi-47f11a/</guid>
-    <pubDate>Fri, 04 Sep 2026 19:48:29 GMT</pubDate>
-    <description>Hacker News nashrida sunʼiy intellektning sxema platalarini loyihalash qobiliyati muhokama qilinmoqda. Bu AI ning muhandislik sohasidagi imkoniyatlari haqida savollar tugʻdiradi.</description>
-    <category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/ai-sxema-platalarini-loyihalashi-mumkinmi-47f11a.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/ai-sxema-platalarini-loyihalashi-mumkinmi-47f11a.jpg"/>
-  </item>
-  <item>
-    <title>Meta kompaniyasi yangi sud da'vosiga duch keldi</title>
-    <link>https://ailenta.uz/x/meta-kompaniyasi-yangi-sud-davosiga-duch-keldi-a17e6c/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/meta-kompaniyasi-yangi-sud-davosiga-duch-keldi-a17e6c/</guid>
-    <pubDate>Fri, 04 Sep 2026 19:28:42 GMT</pubDate>
-    <description>Meta kompaniyasi o'zining aqlli ko'zoynaklaridan olingan ma'lumotlarni AI modellarini o'qitish uchun ishlatganlikda ayblanmoqda. Kompaniyaga qarshi yangi maxfiylik da'vosi qo'zg'atildi. Bu bolalar xavfsizligi bo'yicha yirik kelishuvdan bir necha hafta o'tib sodir bo'ldi.</description>
-    <category>Meta</category><category>sud</category>
-    <media:content url="https://ailenta.uz/og/meta-kompaniyasi-yangi-sud-davosiga-duch-keldi-a17e6c.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/meta-kompaniyasi-yangi-sud-davosiga-duch-keldi-a17e6c.jpg"/>
   </item>
 </channel>
 </rss>

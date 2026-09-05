@@ -5,7 +5,7 @@
   <link>https://ailenta.uz/mavzu/nvidia/</link>
   <description>&quot;Nvidia&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Sat, 05 Sep 2026 18:02:22 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 05 Sep 2026 18:05:43 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/nvidia/rss.xml" rel="self" type="application/rss+xml"/>
   <item>
     <title>Nvidia DLSS 5'ni eski RTX 40-seriyali GPUlarga olib keladi</title>
@@ -36,6 +36,16 @@
     <category>Nvidia</category><category>biznes</category>
     <media:content url="https://ailenta.uz/og/nscale-3-5-mlrdgacha-moliyalashtirish-muzokarasi-a7173c.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/nscale-3-5-mlrdgacha-moliyalashtirish-muzokarasi-a7173c.jpg"/>
+  </item>
+  <item>
+    <title>Nvidia AI sanoatiga $99 milliard sarmoya kiritdi</title>
+    <link>https://ailenta.uz/x/nvidia-ai-sanoatiga-99-milliard-sarmoya-kiritdi-7e3d71/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/nvidia-ai-sanoatiga-99-milliard-sarmoya-kiritdi-7e3d71/</guid>
+    <pubDate>Fri, 04 Sep 2026 15:38:47 GMT</pubDate>
+    <description>Nvidia AI rivojlanishiga katta hissa qo'shib, chip savdosidan sezilarli daromad oldi. Hozirda kompaniya AI sanoatiga 99 milliard dollar sarmoya kiritgan.</description>
+    <category>Nvidia</category><category>iqtisod</category>
+    <media:content url="https://ailenta.uz/og/nvidia-ai-sanoatiga-99-milliard-sarmoya-kiritdi-7e3d71.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/nvidia-ai-sanoatiga-99-milliard-sarmoya-kiritdi-7e3d71.jpg"/>
   </item>
   <item>
     <title>Nvidia investitsiyalari 99 mlrd dollarga yetdi</title>
@@ -296,16 +306,6 @@
     <category>Nvidia</category><category>chiplar</category>
     <media:content url="https://ailenta.uz/og/nvidianing-groq-chipi-ai-agentlari-imkoniyatini-belgilaydi-884dc7.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/nvidianing-groq-chipi-ai-agentlari-imkoniyatini-belgilaydi-884dc7.jpg"/>
-  </item>
-  <item>
-    <title>Claude Science platformasida Nvidia xizmatlari ishga tushdi</title>
-    <link>https://ailenta.uz/x/claude-science-platformasida-nvidia-xizmatlari-ishga-tushdi-4c7f2f/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/claude-science-platformasida-nvidia-xizmatlari-ishga-tushdi-4c7f2f/</guid>
-    <pubDate>Mon, 31 Aug 2026 16:33:40 GMT</pubDate>
-    <description>Claude Science platformasida oqsil tuzilishini prognoz qilish uchun Nvidia BioNeMo NIM mikroxizmatlarini ishga tushirish imkoniyati yaratildi. Bu haqda Nvidia Developer xabar bermoqda.</description>
-    <category>Nvidia</category><category>Anthropic</category>
-    <media:content url="https://ailenta.uz/og/claude-science-platformasida-nvidia-xizmatlari-ishga-tushdi-4c7f2f.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/claude-science-platformasida-nvidia-xizmatlari-ishga-tushdi-4c7f2f.jpg"/>
   </item>
 </channel>
 </rss>

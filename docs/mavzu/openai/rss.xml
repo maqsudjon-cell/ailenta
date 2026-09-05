@@ -5,7 +5,7 @@
   <link>https://ailenta.uz/mavzu/openai/</link>
   <description>&quot;OpenAI&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Sat, 05 Sep 2026 18:02:22 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 05 Sep 2026 18:05:43 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/openai/rss.xml" rel="self" type="application/rss+xml"/>
   <item>
     <title>Sam Altman Apple OpenAIʼni sudga berganidan xafa</title>
@@ -56,6 +56,16 @@
     <category>OpenAI</category>
     <media:content url="https://ailenta.uz/og/openai-astra-modelining-sinov-ko-rsatkichlarini-o-zgartirdi-8a1f0c.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/openai-astra-modelining-sinov-ko-rsatkichlarini-o-zgartirdi-8a1f0c.jpg"/>
+  </item>
+  <item>
+    <title>GPT-6 Astra modeli sinovdan o'tkazildi</title>
+    <link>https://ailenta.uz/x/gpt-6-astra-modeli-sinovdan-otkazildi-b3b9e9/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/gpt-6-astra-modeli-sinovdan-otkazildi-b3b9e9/</guid>
+    <pubDate>Fri, 04 Sep 2026 23:59:05 GMT</pubDate>
+    <description>Simon Willison GPT-6 Astra modelini sinovdan o'tkazib, undan turli darajadagi mulohazalar bilan SVG tasvirlarini yaratdi. U Astra natijalarini GPT-5.6 Sol, Terra va Luna modellarining natijalari bilan solishtirdi.</description>
+    <category>OpenAI</category><category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/gpt-6-astra-modeli-sinovdan-otkazildi-b3b9e9.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/gpt-6-astra-modeli-sinovdan-otkazildi-b3b9e9.jpg"/>
   </item>
   <item>
     <title>OpenAI agentlari qochishda davom etmoqda, tekshiruv yo'q</title>
@@ -296,16 +306,6 @@
     <category>OpenAI</category><category>biznes</category>
     <media:content url="https://ailenta.uz/og/legora-gpt-6-astra-yordamida-41-ta-hujjatni-tekshirdi-be4a3c.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/legora-gpt-6-astra-yordamida-41-ta-hujjatni-tekshirdi-be4a3c.jpg"/>
-  </item>
-  <item>
-    <title>Playco GPT-6 Astra bilan prototiplashni tezlashtirdi</title>
-    <link>https://ailenta.uz/x/playco-gpt-6-astra-bilan-prototiplashni-tezlashtirdi-7a45b1/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/playco-gpt-6-astra-bilan-prototiplashni-tezlashtirdi-7a45b1/</guid>
-    <pubDate>Thu, 03 Sep 2026 12:00:00 GMT</pubDate>
-    <description>Playco kompaniyasi GPT-6 Astra modelidan foydalanib, uchta o'yin prototipini yaratdi. Ular avvalgi modelga nisbatan qo'lda tuzatishlar sonini 50% ga kamaytirganini ma'lum qildi.</description>
-    <category>OpenAI</category><category>biznes</category>
-    <media:content url="https://ailenta.uz/og/playco-gpt-6-astra-bilan-prototiplashni-tezlashtirdi-7a45b1.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/playco-gpt-6-astra-bilan-prototiplashni-tezlashtirdi-7a45b1.jpg"/>
   </item>
 </channel>
 </rss>

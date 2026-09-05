@@ -1,5 +1,97 @@
 [
   {
+    "id": "b3b9e98febac",
+    "slug": "gpt-6-astra-modeli-sinovdan-otkazildi-b3b9e9",
+    "title": "GPT-6 Astra modeli sinovdan o'tkazildi",
+    "summary": "Simon Willison GPT-6 Astra modelini sinovdan o'tkazib, undan turli darajadagi mulohazalar bilan SVG tasvirlarini yaratdi. U Astra natijalarini GPT-5.6 Sol, Terra va Luna modellarining natijalari bilan solishtirdi.",
+    "tags": [
+      "OpenAI",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 12.6,
+    "published": "2026-09-04T23:59:05.000Z",
+    "created": "2026-09-05T18:03:15.606Z",
+    "coverage": 1,
+    "source": {
+      "name": "Simon Willison",
+      "url": "https://simonwillison.net/2026/Sep/4/astra-pelicans",
+      "title": "The Pelican comparison grid for Astra is pretty interesting",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "b424573663aa",
+    "slug": "ai-agentlari-tokenlarni-tejashga-orgatildi-b42457",
+    "title": "AI agentlari tokenlarni tejashga o'rgatildi",
+    "summary": "Tadqiqotda to'rtta AI agenti kod haqida bahslashib, 40 million token sarflagani aniqlandi. Ularni o'z vaqtida to'xtatish orqali 4,5 million token tejashga muvaffaq bo'lindi.",
+    "tags": [
+      "tadqiqot",
+      "agentlar"
+    ],
+    "importance": 3,
+    "score": 11,
+    "published": "2026-09-05T17:29:26.000Z",
+    "created": "2026-09-05T18:03:15.607Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1078846",
+      "title": "Четыре AI-агента сожгли 40 млн токенов, споря о коде. Я научил их вовремя останавливаться",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "ce7b2c5a244b",
+    "slug": "aqsh-firmasi-ai-dasturiy-taminotini-sudga-berdi-ce7b2c",
+    "title": "AQSh firmasi AI dasturiy ta'minotini sudga berdi",
+    "summary": "AQSh yuridik firmasi Buyuk Britaniyaning AI dasturiy ta'minot kompaniyasini shartnomani istalmagan holda yangilashda aybladi. Mijoz AI telekommunikatsiya tizimida tez-tez muammolar bo'lganini da'vo qilmoqda.",
+    "tags": [
+      "sud",
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 10.7,
+    "published": "2026-09-04T09:15:00.000Z",
+    "created": "2026-09-05T18:03:15.608Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/legal/2026/09/04/us-law-firm-accuses-uk-ai-software-firm-of-unwanted-contract-renewal-when-it-tried-to-leave/5293995",
+      "title": "US law firm accuses UK AI software firm of unwanted contract renewal when it tried to leave",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "7e3d719447b9",
+    "slug": "nvidia-ai-sanoatiga-99-milliard-sarmoya-kiritdi-7e3d71",
+    "title": "Nvidia AI sanoatiga $99 milliard sarmoya kiritdi",
+    "summary": "Nvidia AI rivojlanishiga katta hissa qo'shib, chip savdosidan sezilarli daromad oldi. Hozirda kompaniya AI sanoatiga 99 milliard dollar sarmoya kiritgan.",
+    "tags": [
+      "Nvidia",
+      "iqtisod"
+    ],
+    "importance": 4,
+    "score": 10.2,
+    "published": "2026-09-04T15:38:47.000Z",
+    "created": "2026-09-05T18:03:15.609Z",
+    "coverage": 2,
+    "source": {
+      "name": "International Business Times",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNEdTMUt0QTVabEE2QmxzZWpGTWVjOEFxNkk4M2E3cktFS2RyM3JIRHJhUVlzRUhYclYxN1h6QlJMeC02TEFBLU8ySU5RNjhQNk1aZ3NlSnAyTXB2VmNmYklUaE5sbUJwNk1YT1hEWHZra0h0SGtoa3JiX0hqUnkzN3RnUmktaEY3QTFnbkhFSFRFT2hUSXBBNVZ6X1o4dTR3Vlc5NXFfZ3NfZEdOaFZ4bXJ3",
+      "title": "Nvidia Soared Selling The Chips Behind The AI Boom. Now It Has $99 Billion Riding On The Industry.",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "72af5609f3bd",
     "slug": "ai-dasturchilarni-tezlashtirdi-ammo-loyihalarni-emas-72af56",
     "title": "AI dasturchilarni tezlashtirdi, ammo loyihalarni emas",
