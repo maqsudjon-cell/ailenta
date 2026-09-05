@@ -1,5 +1,97 @@
 [
   {
+    "id": "886491e995a1",
+    "slug": "nscale-ipo-oldidan-3-5-milliard-dollar-mablag-izlamoqda-886491",
+    "title": "Nscale IPO oldidan 3,5 milliard dollar mablagʻ izlamoqda",
+    "summary": "Nscale kompaniyasi IPO oldidan qoʻshimcha 3,5 milliard dollar mablagʻ jalb qilish boʻyicha muzokaralar olib bormoqda. Yaqinda kompaniya Anthropic bilan 45 milliard dollarlik kelishuvga erishgan edi.",
+    "tags": [
+      "biznes",
+      "Anthropic"
+    ],
+    "importance": 3,
+    "score": 23.3,
+    "published": "2026-09-04T21:12:11.000Z",
+    "created": "2026-09-05T10:57:34.218Z",
+    "coverage": 2,
+    "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing",
+      "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "ff327903fc76",
+    "slug": "ai-hodisalarni-boshqarishi-muhandislarni-chetlatmoqda-ff3279",
+    "title": "AI hodisalarni boshqarishi muhandislarni chetlatmoqda",
+    "summary": "Sunʼiy intellekt tizimlardagi hodisalarni boshqarishi sababli, muhandislar oʻz tizimlari bilan aloqani yoʻqotmoqda. Bu holat texnik xizmat koʻrsatish va muammolarni hal qilishda yangi muammolarni keltirib chiqarishi mumkin.",
+    "tags": [
+      "mehnat bozori",
+      "xavfsizlik"
+    ],
+    "importance": 2,
+    "score": 20.8,
+    "published": "2026-09-05T07:52:50.000Z",
+    "created": "2026-09-05T10:57:56.528Z",
+    "coverage": 1,
+    "source": {
+      "name": "Hacker News",
+      "url": "https://sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
+      "title": "AI handles incidents, engineers lose touch with their systems",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "8e25b1adba7a",
+    "slug": "sap-saaspocalypse-va-ai-sarmoyalarini-muhokama-qildi-8e25b1",
+    "title": "SAP SaaSpocalypse va AI sarmoyalarini muhokama qildi",
+    "summary": "SAP ijrochi direktori Jan Gilg SaaSpocalypse taʼsiri va kompaniyaning AI sarmoyalari haqida gapirdi. SAP hozirda Palantir va boshqa AI kompaniyalari bilan koʻproq raqobatlashmoqda.",
+    "tags": [
+      "biznes",
+      "iqtisod"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-09-05T10:00:01.000Z",
+    "created": "2026-09-05T10:57:56.529Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/sap-bets-on-ai-to-recover-saaspocalypse-downturn-2026-9",
+      "title": "SAP has a message for software doomsayers: The pendulum will swing back",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "2b3f01b0c728",
+    "slug": "snehal-antani-horizon3-ai-kompaniyasiga-asos-soldi-2b3f01",
+    "title": "Snehal Antani Horizon3 AI kompaniyasiga asos soldi",
+    "summary": "Snehal Antani deyarli 20 yil kutib, Horizon3 nomli AI xakerlik kompaniyasiga asos soldi. Uning tajribasi moliyalashtirishdagi qiyinchiliklarni yengishga yordam bergan.",
+    "tags": [
+      "biznes",
+      "xavfsizlik"
+    ],
+    "importance": 1,
+    "score": 15,
+    "published": "2026-09-05T09:50:01.000Z",
+    "created": "2026-09-05T10:57:56.530Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/horizon3-ceo-snehal-antani-prepared-2-billion-startup-2026-9",
+      "title": "He waited nearly 20 years to start a company. Now he's the cofounder of a double unicorn.",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "bd6738b139c2",
     "slug": "sam-altman-apple-openai-ni-sudga-berganidan-xafa-bd6738",
     "title": "Sam Altman Apple OpenAIʼni sudga berganidan xafa",
