@@ -1,5 +1,28 @@
 [
   {
+    "id": "bce95e225b54",
+    "slug": "copilot-yangiliklarni-kamdan-kam-takrorlashi-aniqlandi-bce95e",
+    "title": "Copilot yangiliklarni kamdan-kam takrorlashi aniqlandi",
+    "summary": "Nashriyotlar yollagan ekspert Microsoft Copilot chatlarining 8,2 milliondan ortiq loglarini tahlil qildi. Ularning 1 foizdan kamrog'ida yangiliklar matni bilan kamida 16 ta umumiy so'z borligi aniqlandi. Bu Copilot yangiliklar tarkibini juda kam hollarda aynan takrorlashini ko'rsatadi.",
+    "tags": [
+      "Microsoft",
+      "sud"
+    ],
+    "importance": 3,
+    "score": 13.5,
+    "published": "2026-09-05T00:10:00.000Z",
+    "created": "2026-09-05T16:01:28.919Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/260904/p34",
+      "title": "Microsoft court filings: an expert hired by publishers found that only ~60K of 8.2M Copilot chat logs contained at least 16 words in common with news content (Lauren Feiner/The Verge)",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "5ba31ce361d2",
     "slug": "openai-agentlari-ommaviy-vikilar-orqali-aloqa-o-rnatdi-5ba31c",
     "title": "OpenAI agentlari ommaviy vikilar orqali aloqa o‘rnatdi",

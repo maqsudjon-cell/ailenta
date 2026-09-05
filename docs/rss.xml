@@ -5,7 +5,7 @@
   <link>https://ailenta.uz</link>
   <description>Dunyodagi sun'iy intellekt yangiliklari o'zbek tilida. Har soatda yangilanadi, har bir xabarda asl manbaga havola.</description>
   <language>uz</language>
-  <lastBuildDate>Sat, 05 Sep 2026 15:38:18 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 05 Sep 2026 16:02:41 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/rss.xml" rel="self" type="application/rss+xml"/>
   <item>
     <title>Roku TV AI ijodkorlar uchun platforma taklif etadi</title>
@@ -268,6 +268,16 @@
     <media:thumbnail url="https://ailenta.uz/og/openai-astra-modelining-sinov-ko-rsatkichlarini-o-zgartirdi-8a1f0c.jpg"/>
   </item>
   <item>
+    <title>Copilot yangiliklarni kamdan-kam takrorlashi aniqlandi</title>
+    <link>https://ailenta.uz/x/copilot-yangiliklarni-kamdan-kam-takrorlashi-aniqlandi-bce95e/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/copilot-yangiliklarni-kamdan-kam-takrorlashi-aniqlandi-bce95e/</guid>
+    <pubDate>Sat, 05 Sep 2026 00:10:00 GMT</pubDate>
+    <description>Nashriyotlar yollagan ekspert Microsoft Copilot chatlarining 8,2 milliondan ortiq loglarini tahlil qildi. Ularning 1 foizdan kamrog'ida yangiliklar matni bilan kamida 16 ta umumiy so'z borligi aniqlandi. Bu Copilot yangiliklar tarkibini juda kam hollarda aynan takrorlashini ko'rsatadi.</description>
+    <category>Microsoft</category><category>sud</category>
+    <media:content url="https://ailenta.uz/og/copilot-yangiliklarni-kamdan-kam-takrorlashi-aniqlandi-bce95e.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/copilot-yangiliklarni-kamdan-kam-takrorlashi-aniqlandi-bce95e.jpg"/>
+  </item>
+  <item>
     <title>Spotify Portal Claude token sarfini kamaytirdi</title>
     <link>https://ailenta.uz/x/spotify-portal-claude-token-sarfini-kamaytirdi-44a6c9/</link>
     <guid isPermaLink="true">https://ailenta.uz/x/spotify-portal-claude-token-sarfini-kamaytirdi-44a6c9/</guid>
@@ -496,16 +506,6 @@
     <category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/gollivudda-ai-dan-foydalanishni-targib-qilishmoqda-ee847c.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/gollivudda-ai-dan-foydalanishni-targib-qilishmoqda-ee847c.jpg"/>
-  </item>
-  <item>
-    <title>Microsoft Copilot NYT maqolalarini deyarli ko‘chirmaydi</title>
-    <link>https://ailenta.uz/x/microsoft-copilot-nyt-maqolalarini-deyarli-ko-chirmaydi-f038a2/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/microsoft-copilot-nyt-maqolalarini-deyarli-ko-chirmaydi-f038a2/</guid>
-    <pubDate>Fri, 04 Sep 2026 16:05:57 GMT</pubDate>
-    <description>Microsoft sud hujjatlarida Copilot chatbotidan foydalanuvchilar The New York Times maqolalarini deyarli olmaganini ma'lum qildi. Kompaniyaga ko'ra, chatbot yangiliklar va kitoblardan to'liq jumlalarni juda kamdan-kam hollarda takrorlaydi.</description>
-    <category>Microsoft</category><category>sud</category>
-    <media:content url="https://ailenta.uz/og/microsoft-copilot-nyt-maqolalarini-deyarli-ko-chirmaydi-f038a2.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/microsoft-copilot-nyt-maqolalarini-deyarli-ko-chirmaydi-f038a2.jpg"/>
   </item>
 </channel>
 </rss>
