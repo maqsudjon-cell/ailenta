@@ -1,5 +1,74 @@
 [
   {
+    "id": "76e2daa54d43",
+    "slug": "neyrosetni-qoshimcha-oqitishsiz-uslubga-orgatish-76e2da",
+    "title": "Neyrosetni qo'shimcha o'qitishsiz uslubga o'rgatish",
+    "summary": "Yangi usul AI agentini qo'shimcha o'qitishsiz muallif uslubida yozishga o'rgatadi. Claude Code/Codex uchun yaratilgan ikki ko'nikma matnlardan uslubni olib, boshqa matnlarni shu uslubda qayta yozadi. Bu usul o'qitish va maxsus uskunalarsiz ishlaydi.",
+    "tags": [
+      "tadqiqot",
+      "agentlar"
+    ],
+    "importance": 3,
+    "score": 17,
+    "published": "2026-09-05T18:29:51.000Z",
+    "created": "2026-09-05T19:04:09.533Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1078874",
+      "title": "Как научить нейросеть чужому стилю без дообучения",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "7e057d7bcf96",
+    "slug": "broadcom-va-nvidia-ai-chip-kompaniyalarini-solishtirdi-7e057d",
+    "title": "Broadcom va Nvidia AI chip kompaniyalarini solishtirdi",
+    "summary": "Daromadlar e'lon qilinganidan so'ng, Broadcom va Nvidia kompaniyalari AI chip ishlab chiqaruvchilari sifatida taqqoslandi. Bir muhim ko'rsatkich qaysi kompaniya yaxshiroq sarmoya ekanligini ko'rsatadi.",
+    "tags": [
+      "Nvidia",
+      "chiplar"
+    ],
+    "importance": 2,
+    "score": 13,
+    "published": "2026-09-05T18:58:57.000Z",
+    "created": "2026-09-05T19:04:13.393Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbkZ2VWc0U3JGWm1aN09Tb2dMTEh4cnY1c0hsUzM2WmlNMHlPTkN6OUxsTkZSLWdaVGhJS0ltRVFVbWwxQU10dTRJMFp0WHdjUTVMUEsyUGxDcnFPblZRdXRjbm0tYjlPTmxUT1MyU3l3UFlweDc1Z25rU1hCUXlnMjRQYV9GdGRMRzVtWmluUVhQT0VOclRrNQ",
+      "title": "Broadcom vs. Nvidia: 1 Critical Metric Shows Which Artificial Intelligence (AI) Chipmaker Is the Better Buy After Earnings",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "0cb3a1c8a0a4",
+    "slug": "anthropic-keyingi-yirik-ipo-bolishi-mumkin-0cb3a1",
+    "title": "Anthropic keyingi yirik IPO bo'lishi mumkin",
+    "summary": "Anthropic kompaniyasi keyingi yirik IPO (birlamchi ommaviy taklif) bo'lishi mumkinligi taxmin qilinmoqda. Ikki yirik aksiya allaqachon ushbu AI startapining bir qismiga egalik qiladi.",
+    "tags": [
+      "Anthropic",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 10,
+    "published": "2026-09-05T17:19:49.000Z",
+    "created": "2026-09-05T19:04:13.394Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOR0g2OHMwQkFrQjd4dmJiUmZpVG43dXNkdzRBLWxuNTJuUTM1dW9FNVAzNjhXT0NfR25GTC1KNlhGekFhM3p2TWIxbXFMa01UdkJKbXVoNGlZakN5S2RIcG56OWhyMTNTUlY5b0M3NVlkNC10czBSRi1NX2xoQWVRUXBFMVZnMElFS0Jfbzh4bVkyVUtlalc1Vg",
+      "title": "Anthropic Could Be the Next Mega IPO: 2 Magnificent Stocks That Already Own a Piece of the AI Unicorn",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "b3b9e98febac",
     "slug": "gpt-6-astra-modeli-sinovdan-otkazildi-b3b9e9",
     "title": "GPT-6 Astra modeli sinovdan o'tkazildi",

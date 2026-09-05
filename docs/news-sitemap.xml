@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://ailenta.uz/x/broadcom-va-nvidia-ai-chip-kompaniyalarini-solishtirdi-7e057d/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>AI Lenta</news:name>
+        <news:language>uz</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-05T18:58:57.000Z</news:publication_date>
+      <news:title>Broadcom va Nvidia AI chip kompaniyalarini solishtirdi</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://ailenta.uz/x/neyrosetni-qoshimcha-oqitishsiz-uslubga-orgatish-76e2da/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>AI Lenta</news:name>
+        <news:language>uz</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-05T18:29:51.000Z</news:publication_date>
+      <news:title>Neyrosetni qo'shimcha o'qitishsiz uslubga o'rgatish</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://ailenta.uz/x/ai-agentlari-tokenlarni-tejashga-orgatildi-b42457/</loc>
     <news:news>
       <news:publication>
@@ -10,6 +32,17 @@
       </news:publication>
       <news:publication_date>2026-09-05T17:29:26.000Z</news:publication_date>
       <news:title>AI agentlari tokenlarni tejashga o'rgatildi</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://ailenta.uz/x/anthropic-keyingi-yirik-ipo-bolishi-mumkin-0cb3a1/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>AI Lenta</news:name>
+        <news:language>uz</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-05T17:19:49.000Z</news:publication_date>
+      <news:title>Anthropic keyingi yirik IPO bo'lishi mumkin</news:title>
     </news:news>
   </url>
   <url>
@@ -1132,50 +1165,6 @@
       </news:publication>
       <news:publication_date>2026-09-03T19:51:52.000Z</news:publication_date>
       <news:title>Sukerberg Tramp bilan suhbatda AI nazoratiga qarshi chiqdi</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://ailenta.uz/x/ray-kurzweil-miya-kompyuter-startapiga-qoshildi-30f1e8/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>AI Lenta</news:name>
-        <news:language>uz</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-03T19:02:18.000Z</news:publication_date>
-      <news:title>Ray Kurzweil miya-kompyuter startapiga qo'shildi</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://ailenta.uz/x/qwen-3-8-27b-modeli-cerebrasda-1500-token-s-tezlikda-7e8067/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>AI Lenta</news:name>
-        <news:language>uz</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-03T18:32:13.000Z</news:publication_date>
-      <news:title>Qwen 3.8 27B modeli Cerebras'da 1500 token/s tezlikda</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://ailenta.uz/x/openai-astra-modelini-100-mingdan-ortiq-gpu-bilan-oqitdi-7111a2/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>AI Lenta</news:name>
-        <news:language>uz</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-03T18:25:01.000Z</news:publication_date>
-      <news:title>OpenAI Astra modelini 100 mingdan ortiq GPU bilan o'qitdi</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://ailenta.uz/x/openai-yangi-astra-modeli-bilan-agi-davri-kelganini-aytdi-9337d9/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>AI Lenta</news:name>
-        <news:language>uz</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-03T18:24:42.000Z</news:publication_date>
-      <news:title>OpenAI yangi Astra modeli bilan AGI davri kelganini aytdi</news:title>
     </news:news>
   </url>
 </urlset>

@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/agentlar/</link>
   <description>&quot;agentlar&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Sat, 05 Sep 2026 18:05:43 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 05 Sep 2026 19:05:19 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/agentlar/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Neyrosetni qo'shimcha o'qitishsiz uslubga o'rgatish</title>
+    <link>https://ailenta.uz/x/neyrosetni-qoshimcha-oqitishsiz-uslubga-orgatish-76e2da/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/neyrosetni-qoshimcha-oqitishsiz-uslubga-orgatish-76e2da/</guid>
+    <pubDate>Sat, 05 Sep 2026 18:29:51 GMT</pubDate>
+    <description>Yangi usul AI agentini qo'shimcha o'qitishsiz muallif uslubida yozishga o'rgatadi. Claude Code/Codex uchun yaratilgan ikki ko'nikma matnlardan uslubni olib, boshqa matnlarni shu uslubda qayta yozadi. Bu usul o'qitish va maxsus uskunalarsiz ishlaydi.</description>
+    <category>tadqiqot</category><category>agentlar</category>
+    <media:content url="https://ailenta.uz/og/neyrosetni-qoshimcha-oqitishsiz-uslubga-orgatish-76e2da.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/neyrosetni-qoshimcha-oqitishsiz-uslubga-orgatish-76e2da.jpg"/>
+  </item>
   <item>
     <title>AI agentlari tokenlarni tejashga o'rgatildi</title>
     <link>https://ailenta.uz/x/ai-agentlari-tokenlarni-tejashga-orgatildi-b42457/</link>
@@ -296,16 +306,6 @@
     <category>siyosat</category><category>agentlar</category>
     <media:content url="https://ailenta.uz/og/buyuk-britaniya-mahalliy-ai-uchun-100-mln-funt-ajratadi-ef7ef2.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/buyuk-britaniya-mahalliy-ai-uchun-100-mln-funt-ajratadi-ef7ef2.jpg"/>
-  </item>
-  <item>
-    <title>Gemini video tahlilida tokenlarni 88 foizgacha tejaydi</title>
-    <link>https://ailenta.uz/x/gemini-video-tahlilida-tokenlarni-88-foizgacha-tejaydi-7e0c47/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/gemini-video-tahlilida-tokenlarni-88-foizgacha-tejaydi-7e0c47/</guid>
-    <pubDate>Wed, 02 Sep 2026 08:21:38 GMT</pubDate>
-    <description>Google o'zining Gemini 3.7 Flash, 3.6 Flash va 3.5 Flash-Lite modellariga agentga asoslangan video tahlilini qo'shmoqda. Yangi usul videoni kadrlar bo'yicha emas, balki modelning o'zi tanlagan qismlar bo'yicha tahlil qiladi. Bu tokenlar sarfini 88 foizgacha kamaytiradi va aniqlikni oshiradi.</description>
-    <category>Google</category><category>agentlar</category>
-    <media:content url="https://ailenta.uz/og/gemini-video-tahlilida-tokenlarni-88-foizgacha-tejaydi-7e0c47.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/gemini-video-tahlilida-tokenlarni-88-foizgacha-tejaydi-7e0c47.jpg"/>
   </item>
 </channel>
 </rss>
