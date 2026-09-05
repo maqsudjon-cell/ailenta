@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/anthropic/</link>
   <description>&quot;Anthropic&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Sat, 05 Sep 2026 08:02:30 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 05 Sep 2026 09:03:06 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/anthropic/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>ChatGPT va Claudeʼda minglab muammolar qayd etildi</title>
+    <link>https://ailenta.uz/x/chatgpt-va-claude-da-minglab-muammolar-qayd-etildi-d251bb/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/chatgpt-va-claude-da-minglab-muammolar-qayd-etildi-d251bb/</guid>
+    <pubDate>Sat, 05 Sep 2026 04:40:07 GMT</pubDate>
+    <description>Minglab foydalanuvchilar ChatGPT va Claude AI modellarida muammolar borligini xabar qilishdi. OpenAI foydalanuvchilari minglab xatolarni qayd etishmoqda.</description>
+    <category>OpenAI</category><category>Anthropic</category>
+    <media:content url="https://ailenta.uz/og/chatgpt-va-claude-da-minglab-muammolar-qayd-etildi-d251bb.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/chatgpt-va-claude-da-minglab-muammolar-qayd-etildi-d251bb.jpg"/>
+  </item>
   <item>
     <title>Spotify Portal Claude token sarfini kamaytirdi</title>
     <link>https://ailenta.uz/x/spotify-portal-claude-token-sarfini-kamaytirdi-44a6c9/</link>
@@ -296,16 +306,6 @@
     <category>Anthropic</category>
     <media:content url="https://ailenta.uz/og/claude-yangi-tizim-korsatmalari-elon-qilindi-7c32fb.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/claude-yangi-tizim-korsatmalari-elon-qilindi-7c32fb.jpg"/>
-  </item>
-  <item>
-    <title>OpenAI va Anthropic'dan keyin oltita curl CVE aniqlandi</title>
-    <link>https://ailenta.uz/x/openai-va-anthropicdan-keyin-oltita-curl-cve-aniqlandi-cf1556/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/openai-va-anthropicdan-keyin-oltita-curl-cve-aniqlandi-cf1556/</guid>
-    <pubDate>Wed, 02 Sep 2026 13:43:14 GMT</pubDate>
-    <description>OpenAI va Anthropic kompaniyalari nol natija qaytarganidan so'ng, oltita curl CVE (umumiy zaifliklar va ta'sirlar) aniqlandi. Bu xavfsizlik bilan bog'liq yangi muammolarni ko'rsatadi.</description>
-    <category>OpenAI</category><category>Anthropic</category>
-    <media:content url="https://ailenta.uz/og/openai-va-anthropicdan-keyin-oltita-curl-cve-aniqlandi-cf1556.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/openai-va-anthropicdan-keyin-oltita-curl-cve-aniqlandi-cf1556.jpg"/>
   </item>
 </channel>
 </rss>
