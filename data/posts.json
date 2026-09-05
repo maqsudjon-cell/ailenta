@@ -1,5 +1,120 @@
 [
   {
+    "id": "aafafb3e8cc1",
+    "slug": "claude-endi-carplayda-barcha-foydalanuvchilar-uchun-aafafb",
+    "title": "Claude endi CarPlay'da barcha foydalanuvchilar uchun",
+    "summary": "Claude chatboti endi CarPlay platformasida barcha foydalanuvchilar uchun mavjud. Bu bilan CarPlay beshta yirik chatbot ilovasini qo'llab-quvvatlaydi.",
+    "tags": [
+      "Apple",
+      "Anthropic"
+    ],
+    "importance": 2,
+    "score": 13,
+    "published": "2026-09-05T07:09:49.000Z",
+    "created": "2026-09-05T17:43:44.200Z",
+    "coverage": 2,
+    "source": {
+      "name": "autoevolution",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObEItZFhvS0VxSlNGeENMTUJfeEVSZC16NWJ4SlA4a3Zubkw1ZlNKbGgxVEFxVk5naXZXT1FuNm1ud2ZfWkIzZzRVSENfZGZsclpQVDMtN0gxS0ZVU1k4RjgxWGphLXlSVEtETzQxWWU4U0dJU012aWNkWkdTS2JjZEkzNXBSWkZTTGFfV0NzdjFqVEw5eTFiOXByRE13RUl4UEdQSnVVbExsTUxy",
+      "title": "Another Big App on CarPlay: Claude Now Available for All Users",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "782c358676ed",
+    "slug": "nvidia-dlss-5ni-eski-rtx-40-seriyali-gpularga-olib-keladi-782c35",
+    "title": "Nvidia DLSS 5'ni eski RTX 40-seriyali GPUlarga olib keladi",
+    "summary": "Nvidia DLSS 5 texnologiyasini eski RTX 40-seriyali GPUlarga RTX 50 seriyasi sozlangandan so'ng olib kelishni rejalashtirmoqda. Kompaniya DLSS 5 o'yinlari haqida tasdiq bermadi.",
+    "tags": [
+      "Nvidia",
+      "chiplar"
+    ],
+    "importance": 2,
+    "score": 12.7,
+    "published": "2026-09-05T00:05:21.000Z",
+    "created": "2026-09-05T17:43:44.201Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/260904/p33",
+      "title": "Nvidia says it plans to bring DLSS 5 to older RTX 40-series GPUs \"once RTX 50 Series performance is more fully tuned\" (Sean Hollister/The Verge)",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "d7b2d01e2750",
+    "slug": "xdof-1-2-milliard-bahoda-series-b-raundini-muhokama-qilmoqda-d7b2d0",
+    "title": "XDOF $1.2 milliard bahoda Series B raundini muhokama qilmoqda",
+    "summary": "Robot ma'lumotlari startapi XDOF, yashirin faoliyatdan chiqqanidan uch oy o'tib, $1.2 milliard bahoda Series B moliyalashtirish raundini muhokama qilmoqda.",
+    "tags": [
+      "robototexnika",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 12.6,
+    "published": "2026-09-04T23:36:14.000Z",
+    "created": "2026-09-05T17:43:59.634Z",
+    "coverage": 1,
+    "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation",
+      "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "d16b4fac5b9b",
+    "slug": "xitoy-firmalari-saudiya-arabistoni-bilan-aloqalarni-kuchayti-d16b4f",
+    "title": "Xitoy firmalari Saudiya Arabistoni bilan aloqalarni kuchaytirmoqda",
+    "summary": "Xitoyning sun'iy intellekt, robotaksi va zavodlari Saudiya Arabistonida o'z faoliyatini kengaytirmoqda. Xitoy texnologiya firmalari qirollik bilan aloqalarni chuqurlashtirmoqda.",
+    "tags": [
+      "siyosat",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 11.7,
+    "published": "2026-09-04T11:26:32.000Z",
+    "created": "2026-09-05T17:44:02.622Z",
+    "coverage": 1,
+    "source": {
+      "name": "Semafor",
+      "url": "https://semafor.com/article/09/04/2026/chinese-tech-firms-deepen-ties-in-saudi-arabia",
+      "title": "Chinese tech firms deepen ties in Saudi Arabia",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "243278da21bc",
+    "slug": "multimodal-model-oshqozon-saratonini-bashorat-qiladi-243278",
+    "title": "Multimodal model oshqozon saratonini bashorat qiladi",
+    "summary": "Yangi multimodal radiopatologik model oshqozon saratonida operatsiyadan keyingi metaxron jigar metastazini bashorat qila oladi. Bu tibbiyotda AI qo'llanilishining yangi misoli.",
+    "tags": [
+      "tibbiyot",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 11.1,
+    "published": "2026-09-04T00:00:00.000Z",
+    "created": "2026-09-05T17:44:02.622Z",
+    "coverage": 1,
+    "source": {
+      "name": "Nature",
+      "url": "https://nature.com/articles/s41467-026-76382-x",
+      "title": "Multimodal radiopathomics model predicts postoperative metachronous liver metastasis in gastric cancer",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "22aacec03e46",
     "slug": "blender-va-kodlash-agentlari-macosda-22aace",
     "title": "Blender va kodlash agentlari macOS'da",
