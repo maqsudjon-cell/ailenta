@@ -1,5 +1,28 @@
 [
   {
+    "id": "f038a295bd4f",
+    "slug": "microsoft-copilot-nyt-maqolalaridan-deyarli-foydalanmagan-f038a2",
+    "title": "Microsoft Copilot NYT maqolalaridan deyarli foydalanmagan",
+    "summary": "Microsoft sud jarayonida Copilot boti The New York Times maqolalaridan deyarli foydalanmaganini ma'lum qildi. Kompaniya nashriyotlar bilan sudlashish doirasida 8,2 million Copilot ma'lumotlarini taqdim etdi.",
+    "tags": [
+      "Microsoft",
+      "sud"
+    ],
+    "importance": 3,
+    "score": 17.2,
+    "published": "2026-09-04T16:05:57.000Z",
+    "created": "2026-09-05T06:00:29.006Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Verge",
+      "url": "https://theverge.com/policy/990267/microsoft-openai-new-york-times-authors-lawsuit",
+      "title": "Microsoft says virtually nobody was grabbing NYT articles through its chatbot",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "5df34f6e54c7",
     "slug": "openai-agiga-erishganini-taxmin-qilmoqda-5df34f",
     "title": "OpenAI AGIga erishganini taxmin qilmoqda",

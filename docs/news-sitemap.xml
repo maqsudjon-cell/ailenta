@@ -189,6 +189,17 @@
     </news:news>
   </url>
   <url>
+    <loc>https://ailenta.uz/x/microsoft-copilot-nyt-maqolalaridan-deyarli-foydalanmagan-f038a2/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>AI Lenta</news:name>
+        <news:language>uz</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-04T16:05:57.000Z</news:publication_date>
+      <news:title>Microsoft Copilot NYT maqolalaridan deyarli foydalanmagan</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://ailenta.uz/x/g42-aqsh-kompaniyalariga-ulushini-sotishni-ko-rib-chiqmoqda-ac276b/</loc>
     <news:news>
       <news:publication>
@@ -1451,28 +1462,6 @@
       </news:publication>
       <news:publication_date>2026-09-03T06:18:23.000Z</news:publication_date>
       <news:title>Claude AI matnlarga ko'rinmas suv belgilari qo'shadi</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://ailenta.uz/x/xalqaro-yuridik-firmalar-oz-ai-vositalarini-yaratmoqda-614162/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>AI Lenta</news:name>
-        <news:language>uz</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-03T05:55:02.000Z</news:publication_date>
-      <news:title>Xalqaro yuridik firmalar o'z AI vositalarini yaratmoqda</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://ailenta.uz/x/gitspawn-nuqsoni-claude-code-va-boshqalarda-kod-bajarishga-i-fcd38c/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>AI Lenta</news:name>
-        <news:language>uz</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-03T05:35:00.000Z</news:publication_date>
-      <news:title>GitSpawn nuqsoni Claude Code va boshqalarda kod bajarishga imkon beradi</news:title>
     </news:news>
   </url>
 </urlset>
