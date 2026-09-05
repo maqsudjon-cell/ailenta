@@ -1,5 +1,96 @@
 [
   {
+    "id": "ab0efec866b3",
+    "slug": "astra-ai-monitoring-bo-yicha-munozaralarni-boshladi-ab0efe",
+    "title": "Astra AI monitoring boʻyicha munozaralarni boshladi",
+    "summary": "OpenAIʼning Astra modeli sunʼiy intellekt monitoringi boʻyicha munozaralarni keltirib chiqardi. Model oʻz fikrlarini kamroq oshkor qilgani sababli, tadqiqotchilar uning ichki jarayonlarini tushunishda qiyinchiliklarga duch kelmoqda.",
+    "tags": [
+      "OpenAI",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 17.5,
+    "published": "2026-09-04T19:09:46.000Z",
+    "created": "2026-09-05T11:01:46.816Z",
+    "coverage": 1,
+    "source": {
+      "name": "Semafor",
+      "url": "https://semafor.com/article/09/04/2026/astra-kicks-off-ai-monitoring-debate",
+      "title": "Astra kicks off AI monitoring debate",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "2c0ec1cf6fd1",
+    "slug": "sayohatchilar-aiga-haddan-tashqari-ishonib-qutqarildi-2c0ec1",
+    "title": "Sayohatchilar AIga haddan tashqari ishonib qutqarildi",
+    "summary": "Uch nafar sayohatchi Mount Shasta togʻida sunʼiy intellektga haddan tashqari ishonib qolgani sababli qutqarildi. AQSh Oʻrmon xizmati reynjeri bu AI bilan bogʻliq baxtsiz hodisalarning yangi tendensiyasi ekanligini aytdi.",
+    "tags": [
+      "xavfsizlik"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-09-05T08:11:01.000Z",
+    "created": "2026-09-05T11:01:46.817Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/hikers-rescued-relied-on-ai-new-trend-ranger-2026-9",
+      "title": "Hikers 'relied too much' on AI and had to be rescued. A ranger says it wasn't the first AI-related mishap he's seen.",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "4913e9ec15e2",
+    "slug": "spammerlar-ai-prompt-injection-usulini-qo-llamoqda-4913e9",
+    "title": "Spammerlar AI prompt injection usulini qoʻllamoqda",
+    "summary": "Microsoft kompaniyasi elektron pochta spammerlari \"ASCII smuggling\" deb nomlangan AI prompt injection usulini qoʻllayotganini maʼlum qildi. Bu usul yordamida zararli koʻrsatmalar yashirilib, elektron pochta filtrlari chetlab oʻtilmoqda.",
+    "tags": [
+      "Microsoft",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-09-05T06:05:26.000Z",
+    "created": "2026-09-05T11:01:46.818Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/260905/p4",
+      "title": "Microsoft says email spammers are adopting ASCII smuggling, an AI prompt injection tactic used to hide malicious instructions, to evade email platform filters (Dan Goodin/Ars Technica)",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "fa4a0ffa1182",
+    "slug": "scan-com-ai-yordamida-220-million-dollar-mablag-jalb-qildi-fa4a0f",
+    "title": "Scan.com AI yordamida 220 million dollar mablagʻ jalb qildi",
+    "summary": "Scan.com kompaniyasi AI yordamida bemorlarni tasvirlash markazlari bilan bogʻlaydi va 220 million dollarlik Series C raundini yakunladi. Bu mablagʻning 90 million dollari aksiyalar, 130 million dollari esa qarz vositalari hisobiga toʻgʻri keladi.",
+    "tags": [
+      "tibbiyot",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-09-05T05:10:02.000Z",
+    "created": "2026-09-05T11:01:46.818Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/260905/p2",
+      "title": "Scan.com, which uses AI to match patient referrals with imaging centers by availability, price, and specialty, raised a $220M Series C, including $90M in equity (Eve Bender/MobiHealthNews)",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "886491e995a1",
     "slug": "nscale-ipo-oldidan-3-5-milliard-dollar-mablag-izlamoqda-886491",
     "title": "Nscale IPO oldidan 3,5 milliard dollar mablagʻ izlamoqda",
