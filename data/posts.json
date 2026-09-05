@@ -1,5 +1,120 @@
 [
   {
+    "id": "e6a0162e86d9",
+    "slug": "viktoriyadagi-saylov-oldidan-ai-reklamalari-tarqalmoqda-e6a016",
+    "title": "Viktoriyadagi saylov oldidan AI reklamalari tarqalmoqda",
+    "summary": "Viktoriyadagi saylov oldidan ijtimoiy tarmoqlarda sun'iy intellekt yordamida yaratilgan xavotirli reklamalar ko'paymoqda. Bu kampaniyalar muxolifatning fikrlarini aks ettirib, asosiy partiyalardan ko'proq mablag' sarflamoqda.",
+    "tags": [
+      "siyosat",
+      "maxfiylik"
+    ],
+    "importance": 3,
+    "score": 23,
+    "published": "2026-09-05T20:00:46.000Z",
+    "created": "2026-09-05T20:45:10.140Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/australia-news/2026/sep/06/fix-victoria-ai-ads-flooding-social-media-election-who-is-behind-them",
+      "title": "Alarming AI ads are flooding social media in the lead-up to Victoria’s election. But who is behind them?",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "6245ce7540f7",
+    "slug": "katta-texnologiya-kompaniyalari-masuliyatni-his-qilishi-kera-6245ce",
+    "title": "Katta texnologiya kompaniyalari mas'uliyatni his qilishi kerak",
+    "summary": "AI rivojlanishi bilan hukumatlar katta texnologiya kompaniyalarini javobgarlikka tortishni muhim deb bilmoqda. Raqamli g'amxo'rlik majburiyati faqat \"algoritmdan voz kechish\"dan ko'ra ko'proq narsani anglatadi.",
+    "tags": [
+      "qonun",
+      "siyosat"
+    ],
+    "importance": 3,
+    "score": 23,
+    "published": "2026-09-05T20:00:45.000Z",
+    "created": "2026-09-05T20:45:16.775Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/commentisfree/2026/sep/06/digital-duty-of-care-can-hold-big-tech-to-account-meta-tiktok-addictive-social-media-ban",
+      "title": "An algorithm off switch isn’t enough. Big tech needs a duty of care over addictive designs | Zoe Daniel",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "05d8db6c1707",
+    "slug": "google-gemini-tavsiyasi-bilan-sayohatchilar-qutqarildi-05d8db",
+    "title": "Google Gemini tavsiyasi bilan sayohatchilar qutqarildi",
+    "summary": "Sayohatchilar Google Gemini'dan marshrut rejalashtirish uchun foydalanganidan so'ng qutqarildi. Sheriff idorasi Gemini ularga guruh uchun kerak bo'lganidan ancha kam oziq-ovqat va suv olib kelishni maslahat berganini aytdi.",
+    "tags": [
+      "Google",
+      "xavfsizlik"
+    ],
+    "importance": 4,
+    "score": 15,
+    "published": "2026-09-05T19:35:24.000Z",
+    "created": "2026-09-05T20:45:16.776Z",
+    "coverage": 1,
+    "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning",
+      "title": "Hikers rescued after using Google Gemini for planning",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "99a07d22de87",
+    "slug": "claude-code-sayt-maketlarini-yaratishda-token-sarfi-99a07d",
+    "title": "Claude Code sayt maketlarini yaratishda token sarfi",
+    "summary": "Figma AI agentlar uchun kanvasni ochganidan so'ng, Claude Code sayt maketlarini yaratishda sinovdan o'tkazildi. Tadqiqot agentning dizaynni maketga qanchalik yaxshi o'tkazishi va buning uchun qancha token sarflashini aniqladi.",
+    "tags": [
+      "tadqiqot",
+      "agentlar"
+    ],
+    "importance": 2,
+    "score": 14,
+    "published": "2026-09-05T19:35:56.000Z",
+    "created": "2026-09-05T20:45:16.777Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1078882",
+      "title": "Я попросил Claude Code собрать макеты сайтов и выяснил, на что уходят токены",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "106a43fccd23",
+    "slug": "chatgptdan-bepul-foydalanish-usuli-topildi-106a43",
+    "title": "ChatGPT'dan bepul foydalanish usuli topildi",
+    "summary": "Bir foydalanuvchi ChatGPT'ning bepul chatlaridagi kunlik cheklovni yangi akkauntlar ochish orqali chetlab o'tish usulini bo'lishdi. Bu usul chat tarixini saqlashni istamaydiganlar uchun mos keladi.",
+    "tags": [
+      "OpenAI",
+      "maxfiylik"
+    ],
+    "importance": 2,
+    "score": 11,
+    "published": "2026-09-05T18:11:50.000Z",
+    "created": "2026-09-05T20:45:16.777Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1078868",
+      "title": "Как пользоваться ChatGPT бесплатно, меняя аккаунты: личный опыт",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "89d682fdf6d2",
     "slug": "malumotlar-markazlarini-sugurtalash-bozori-osadi-89d682",
     "title": "Ma'lumotlar markazlarini sug'urtalash bozori o'sadi",
