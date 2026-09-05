@@ -1,5 +1,139 @@
 [
   {
+    "id": "5df34f6e54c7",
+    "slug": "openai-agiga-erishganini-taxmin-qilmoqda-5df34f",
+    "title": "OpenAI AGIga erishganini taxmin qilmoqda",
+    "summary": "Bloomberg.com xabariga koʻra, OpenAI umumiy sunʼiy intellekt (AGI) darajasiga erishganini taxmin qilmoqda. Bu AI imkoniyatlari boʻyicha muhim rivojlanishni anglatadi.",
+    "tags": [
+      "OpenAI",
+      "tadqiqot"
+    ],
+    "importance": 4,
+    "score": 27,
+    "published": "2026-09-04T18:55:35.000Z",
+    "created": "2026-09-05T05:02:17.701Z",
+    "coverage": 1,
+    "source": {
+      "name": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNR3pWZVVEZUF0cHZ5TGNDb2Nzb2laSmppbEZMSkp1SVFwek9EQWt0SUhJNTZPYnROQ2pHcXU3XzBvVldtS1V6WHowVE93ZUVMNUVTQmFfcXFZOUttbXM1ZFNMSGdaVmlyMWlhalBRNF9jV3pPUFlfcE8tWWZHdmg2Z2FhVG5fWW5tRUktWnB2YVJuNnFWRkFiUE1mcmd3U19tUDNnMVNpRERvTUM3UkZVMTNCdnBFcUktaFdQRw",
+      "title": "OpenAI Suggests It's Reached AGI. What Is It Anyway?",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "47f11a181774",
+    "slug": "ai-sxema-platalarini-loyihalashi-mumkinmi-47f11a",
+    "title": "AI sxema platalarini loyihalashi mumkinmi",
+    "summary": "Hacker News nashrida sunʼiy intellektning sxema platalarini loyihalash qobiliyati muhokama qilinmoqda. Bu AI ning muhandislik sohasidagi imkoniyatlari haqida savollar tugʻdiradi.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 23,
+    "published": "2026-09-04T19:48:29.000Z",
+    "created": "2026-09-05T05:02:17.703Z",
+    "coverage": 1,
+    "source": {
+      "name": "Hacker News",
+      "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet",
+      "title": "Can AI design circuit boards yet?",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "0566171fd695",
+    "slug": "ai-rivojlanishi-inson-aloqasiga-tasir-qilmoqda-056617",
+    "title": "AI rivojlanishi inson aloqasiga ta'sir qilmoqda",
+    "summary": "The Guardian nashri AI rivojlanishi sharoitida insoniy aloqalarning ahamiyati haqida maqola chop etdi. Maqolada texnologiyaning izolyatsiya qiluvchi taʼsiri va umumiy qadriyatlarga ehtiyoj taʼkidlangan.",
+    "tags": [
+      "siyosat"
+    ],
+    "importance": 2,
+    "score": 22.2,
+    "published": "2026-09-04T15:00:11.000Z",
+    "created": "2026-09-05T05:02:17.703Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/commentisfree/2026/sep/05/as-ai-madness-encroaches-we-need-human-connection-more-than-ever",
+      "title": "As AI madness encroaches, we need human connection more than ever. But we’ll have to fight for it | Van Badham",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "b107c6fa642b",
+    "slug": "ai-ongi-haqida-bahslar-u-tirikmi-b107c6",
+    "title": "AI ongi haqida bahslar: u tirikmi",
+    "summary": "Wired nashri sunʼiy intellektning ongi va uning tirik mavjudot sifatidagi holati haqida maqola eʼlon qildi. Unda faylasuflarning AI ongi boʻyicha munozaralari yoritilgan.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 22.2,
+    "published": "2026-09-04T15:00:00.000Z",
+    "created": "2026-09-05T05:02:17.703Z",
+    "coverage": 1,
+    "source": {
+      "name": "Wired",
+      "url": "https://wired.com/story/who-cares-if-ai-is-conscious-its-basically-alive",
+      "title": "Who Cares if AI Is Conscious—It’s Basically Alive",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "151ff70b82d8",
+    "slug": "ai-tilni-o-zgartirmoqda-151ff7",
+    "title": "AI tilni oʻzgartirmoqda",
+    "summary": "MIT Technology Review xabariga koʻra, sunʼiy intellekt tilni qayta shakllantirmoqda. Bu AI ning jamiyat va kommunikatsiyaga taʼsiri haqida yangi savollar tugʻdiradi.",
+    "tags": [
+      "tadqiqot",
+      "siyosat"
+    ],
+    "importance": 2,
+    "score": 21.1,
+    "published": "2026-09-04T12:10:00.000Z",
+    "created": "2026-09-05T05:02:17.704Z",
+    "coverage": 1,
+    "source": {
+      "name": "MIT Technology Review",
+      "url": "https://technologyreview.com/2026/09/04/1143457/the-download-ukraine-selling-drone-data-ai-reshaping-language",
+      "title": "The Download: selling battlefield drone data and AI reshaping language",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "2cf84daeca42",
+    "slug": "ai-mehnat-bozorida-muammolar-yaratmoqda-2cf84d",
+    "title": "AI mehnat bozorida muammolar yaratmoqda",
+    "summary": "Wired nashri AI ning mehnat bozoriga taʼsiri haqida xabar berdi. Ish izlovchilar AI dan foydalanib arizalarni manipulyatsiya qilishga urinmoqda, ammo bu samarasiz boʻlmoqda.",
+    "tags": [
+      "mehnat bozori"
+    ],
+    "importance": 3,
+    "score": 20.2,
+    "published": "2026-09-04T10:00:00.000Z",
+    "created": "2026-09-05T05:02:17.704Z",
+    "coverage": 1,
+    "source": {
+      "name": "Wired",
+      "url": "https://wired.com/story/ai-job-market-infinite-doom-loop",
+      "title": "AI Use in the Job Market Is Creating an Infinite Doom Loop",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "057b40c2d063",
     "slug": "anthropic-noyabrda-ipo-o-tkazishni-rejalashtirmoqda-057b40",
     "title": "Anthropic noyabrda IPO oʻtkazishni rejalashtirmoqda",
