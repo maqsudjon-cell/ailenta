@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/anthropic/</link>
   <description>&quot;Anthropic&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Sat, 05 Sep 2026 02:02:21 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 05 Sep 2026 03:02:11 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/anthropic/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Anthropic noyabrda IPO o‘tkazishni rejalashtirmoqda</title>
+    <link>https://ailenta.uz/x/anthropic-noyabrda-ipo-o-tkazishni-rejalashtirmoqda-057b40/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/anthropic-noyabrda-ipo-o-tkazishni-rejalashtirmoqda-057b40/</guid>
+    <pubDate>Fri, 04 Sep 2026 22:55:01 GMT</pubDate>
+    <description>Reuters manbalariga ko‘ra, Anthropic sentyabr oxirida o‘zining IPO prospektini ochiqlashi kutilmoqda. Kompaniya listing jarayonini noyabr oyidagi AQSh oraliq saylovlaridan bir necha kun oldin yakunlashni rejalashtirmoqda.</description>
+    <category>Anthropic</category><category>biznes</category>
+    <media:content url="https://ailenta.uz/og/anthropic-noyabrda-ipo-o-tkazishni-rejalashtirmoqda-057b40.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/anthropic-noyabrda-ipo-o-tkazishni-rejalashtirmoqda-057b40.jpg"/>
+  </item>
   <item>
     <title>Anthropic xarid qiluvchi botlar uchun zamin yaratmoqda</title>
     <link>https://ailenta.uz/x/anthropic-xarid-qiluvchi-botlar-uchun-zamin-yaratmoqda-e342a9/</link>
@@ -296,16 +306,6 @@
     <category>Anthropic</category><category>siyosat</category>
     <media:content url="https://ailenta.uz/og/anthropic-britaniya-ai-siyosati-memorini-ishga-oldi-eb51be.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/anthropic-britaniya-ai-siyosati-memorini-ishga-oldi-eb51be.jpg"/>
-  </item>
-  <item>
-    <title>Claude AI WAGO PLC uchun RCE eksploytini yaratdi</title>
-    <link>https://ailenta.uz/x/claude-ai-wago-plc-uchun-rce-eksploytini-yaratdi-162de5/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/claude-ai-wago-plc-uchun-rce-eksploytini-yaratdi-162de5/</guid>
-    <pubDate>Wed, 02 Sep 2026 12:48:44 GMT</pubDate>
-    <description>Claude AI WAGO PLC qurilmasi uchun oldindan avtorizatsiyasiz masofaviy kod bajarish (RCE) eksploytini yaratdi. Bu ARM shellcode'ni hech qanday hisobga olish ma'lumotlarisiz ishga tushirish imkonini beradi.</description>
-    <category>Anthropic</category><category>xavfsizlik</category>
-    <media:content url="https://ailenta.uz/og/claude-ai-wago-plc-uchun-rce-eksploytini-yaratdi-162de5.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/claude-ai-wago-plc-uchun-rce-eksploytini-yaratdi-162de5.jpg"/>
   </item>
 </channel>
 </rss>
