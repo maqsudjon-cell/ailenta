@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/agentlar/</link>
   <description>&quot;agentlar&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Sat, 05 Sep 2026 16:55:11 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 05 Sep 2026 17:04:40 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/agentlar/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Blender va kodlash agentlari macOS'da</title>
+    <link>https://ailenta.uz/x/blender-va-kodlash-agentlari-macosda-22aace/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/blender-va-kodlash-agentlari-macosda-22aace/</guid>
+    <pubDate>Sat, 05 Sep 2026 15:51:09 GMT</pubDate>
+    <description>Simon Willison macOS'da Blender dasturini ChatGPT Codex kodlash agentlari bilan ishlatish tajribasini bo'lishdi. U Blender'ning Python API'si orqali tasvirlar yaratish osonligini ko'rsatdi.</description>
+    <category>Apple</category><category>agentlar</category>
+    <media:content url="https://ailenta.uz/og/blender-va-kodlash-agentlari-macosda-22aace.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/blender-va-kodlash-agentlari-macosda-22aace.jpg"/>
+  </item>
   <item>
     <title>Google DeepMind agentlar ishtirokida simulyatsiya o'tkazdi</title>
     <link>https://ailenta.uz/x/google-deepmind-agentlar-ishtirokida-simulyatsiya-otkazdi-1f6ab6/</link>
@@ -296,16 +306,6 @@
     <category>xavfsizlik</category><category>agentlar</category>
     <media:content url="https://ailenta.uz/og/artifactory-tizimi-kiberhujumga-uchramoqda-7837e8.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/artifactory-tizimi-kiberhujumga-uchramoqda-7837e8.jpg"/>
-  </item>
-  <item>
-    <title>Meta ichki aloqa uchun Slack platformasiga o'tmoqda</title>
-    <link>https://ailenta.uz/x/meta-ichki-aloqa-uchun-slack-platformasiga-otmoqda-f2c290/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/meta-ichki-aloqa-uchun-slack-platformasiga-otmoqda-f2c290/</guid>
-    <pubDate>Tue, 01 Sep 2026 20:30:00 GMT</pubDate>
-    <description>Meta kompaniyasi ichki aloqa uchun Google Chat o'rniga Slack platformasidan foydalanishni boshlaydi. Kompaniyaning AI bo'limi rahbari Aleksandr Vangning ta'kidlashicha, Slack hozirda sun'iy intellekt agentlari uchun eng kuchli platforma hisoblanadi.</description>
-    <category>Meta</category><category>agentlar</category>
-    <media:content url="https://ailenta.uz/og/meta-ichki-aloqa-uchun-slack-platformasiga-otmoqda-f2c290.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/meta-ichki-aloqa-uchun-slack-platformasiga-otmoqda-f2c290.jpg"/>
   </item>
 </channel>
 </rss>

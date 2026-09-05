@@ -1,5 +1,141 @@
 [
   {
+    "id": "22aacec03e46",
+    "slug": "blender-va-kodlash-agentlari-macosda-22aace",
+    "title": "Blender va kodlash agentlari macOS'da",
+    "summary": "Simon Willison macOS'da Blender dasturini ChatGPT Codex kodlash agentlari bilan ishlatish tajribasini bo'lishdi. U Blender'ning Python API'si orqali tasvirlar yaratish osonligini ko'rsatdi.",
+    "tags": [
+      "Apple",
+      "agentlar"
+    ],
+    "importance": 2,
+    "score": 21,
+    "published": "2026-09-05T15:51:09.000Z",
+    "created": "2026-09-05T17:03:29.176Z",
+    "coverage": 1,
+    "source": {
+      "name": "Simon Willison",
+      "url": "https://simonwillison.net/2026/Sep/5/blender-coding-agents-macos",
+      "title": "Using Blender with coding agents on macOS",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "322f12e7fb34",
+    "slug": "uoll-strit-ai-aksiyalari-uchun-talabni-oshirdi-322f12",
+    "title": "Uoll-strit AI aksiyalari uchun talabni oshirdi",
+    "summary": "Uoll-strit AI aksiyalari uchun talabni oshirganidan so'ng, investorlar AIga bo'lgan ta'sirni muvozanatlash uchun himoyaviy aksiyalarga sarmoya kiritishdi.",
+    "tags": [
+      "biznes",
+      "iqtisod"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-09-05T16:45:14.000Z",
+    "created": "2026-09-05T17:03:29.178Z",
+    "coverage": 1,
+    "source": {
+      "name": "CNBC",
+      "url": "https://cnbc.com/2026/09/05/we-got-more-defensive-last-week-as-wall-street-raised-the-bar-for-ai-stocks.html",
+      "title": "We got more defensive last week as Wall Street raised the bar for AI stocks",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "cdea40b3ba26",
+    "slug": "nfl-oyinchisi-niqobida-firibgarlik-avj-oldi-cdea40",
+    "title": "NFL o'yinchisi niqobida firibgarlik avj oldi",
+    "summary": "Ayrim shaxslar NFL o'yinchilari sifatida o'zlarini tanishtirib, tanishuv va pul topish maqsadida firibgarlik qilmoqda. Bir kishi hibsga olinishidan oldin 1,3 million dollar ishlab topgan.",
+    "tags": [
+      "biznes",
+      "qonun"
+    ],
+    "importance": 2,
+    "score": 19,
+    "published": "2026-09-05T14:07:27.000Z",
+    "created": "2026-09-05T17:03:29.178Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/09/05/men-larping-nfl-1-3-million-scam",
+      "title": "Men are larp-ing as NFL players to score dates and cash—one made $1.3 million before the FBI arrested him",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "c930cc046d38",
+    "slug": "ufc-jangchisi-oila-va-karyera-muvozanati-haqida-c930cc",
+    "title": "UFC jangchisi oila va karyera muvozanati haqida",
+    "summary": "UFC jangchisi Peddi Pimblett egizak qizlarini tarbiyalash mashg'ulotlarini qiyinlashtirayotganini aytdi. Biroq, u uchun baxtli oila chempionlikdan muhimroq.",
+    "tags": [
+      "mehnat bozori"
+    ],
+    "importance": 1,
+    "score": 15,
+    "published": "2026-09-05T14:26:01.000Z",
+    "created": "2026-09-05T17:03:29.179Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/paddy-pimblett-ufc-fighter-father-twins-family-2026-9",
+      "title": "I'm a UFC fighter and dad of twins. Having a family makes my career harder.",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "8bc3938bfd4a",
+    "slug": "ukraina-askarlari-nato-mashgulotlarida-8bc393",
+    "title": "Ukraina askarlari NATO mashg'ulotlarida",
+    "summary": "Ukraina askarlari G'arbiy mashg'ulotlarga jang maydonidagi topqirlikni olib kelmoqda. NATO instruktorlari ularning ijodkorligini yuqori baholagan bo'lsa-da, ba'zi asosiy ko'nikmalarni o'rgatish zarur.",
+    "tags": [
+      "siyosat"
+    ],
+    "importance": 1,
+    "score": 15,
+    "published": "2026-09-05T11:30:01.000Z",
+    "created": "2026-09-05T17:03:29.179Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/ukraine-shows-allies-creativity-in-training-while-learning-some-basics-2026-9",
+      "title": "Ukrainian trainees are bringing hard-won battlefield ingenuity to training while NATO trainers fill gaps in the fundamentals",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "c4ed70d9262a",
+    "slug": "ai-ofisni-egallashiga-qarshi-mushuk-haqida-oyin-c4ed70",
+    "title": "AI ofisni egallashiga qarshi mushuk haqida o'yin",
+    "summary": "Yangi mustaqil o'yinlar orasida AI tomonidan ofisni egallab olishiga qarshi kurashayotgan mushuk haqidagi o'yin ham bor. Bu o'yinlar qiziqarli va e'tiborga loyiq.",
+    "tags": [
+      "robototexnika",
+      "biznes"
+    ],
+    "importance": 1,
+    "score": 15,
+    "published": "2026-09-05T11:30:00.000Z",
+    "created": "2026-09-05T17:03:29.179Z",
+    "coverage": 1,
+    "source": {
+      "name": "Engadget",
+      "url": "https://engadget.com/2251521/remote-work-as-a-worm-colorful-platformers-and-other-new-indie-games-worth-checking-out",
+      "title": "Remote work as a worm, colorful platformers and other new indie games worth checking out",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "bce95e225b54",
     "slug": "copilot-yangiliklarni-kamdan-kam-takrorlashi-aniqlandi-bce95e",
     "title": "Copilot yangiliklarni kamdan-kam takrorlashi aniqlandi",
