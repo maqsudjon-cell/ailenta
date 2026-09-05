@@ -1,5 +1,50 @@
 [
   {
+    "id": "89d682fdf6d2",
+    "slug": "malumotlar-markazlarini-sugurtalash-bozori-osadi-89d682",
+    "title": "Ma'lumotlar markazlarini sug'urtalash bozori o'sadi",
+    "summary": "Swiss Re hisobotiga ko'ra, 2030-yilga kelib ma'lumotlar markazlarini sug'urtalash bo'yicha global mukofotlar yiliga 20-30 milliard dollarga yetishi mumkin. AQShdagi ma'lumotlar markazlari quvvatining qariyb 40 foizi tornado xavfi yuqori bo'lgan hududlarda joylashgan.",
+    "tags": [
+      "biznes",
+      "iqtisod"
+    ],
+    "importance": 3,
+    "score": 18,
+    "published": "2026-09-05T19:45:01.000Z",
+    "created": "2026-09-05T20:01:12.812Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/260905/p11",
+      "title": "Swiss Re: global premiums for insuring data centers will likely reach $20B-$30B/year by 2030; ~40% of US data-center capacity is located in tornado-prone areas (Jean Eaglesham/Wall Street Journal)",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "dc4217eae8e9",
+    "slug": "snickers-suniy-intellekt-uchun-shokolad-chiqardi-dc4217",
+    "title": "Snickers sun'iy intellekt uchun \"shokolad\" chiqardi",
+    "summary": "Snickers brendi ChatGPT tez-tez xato qilishi va yolg'on gapirishini uning \"ochligi\" bilan tushuntirib, yangi reklama kampaniyasini boshladi. Hungr.AI loyihasi doirasida foydalanuvchilarga chat-botni virtual tarzda \"boqish\" taklif etilmoqda.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 17,
+    "published": "2026-09-05T19:23:05.000Z",
+    "created": "2026-09-05T20:01:12.813Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1078880",
+      "title": "[Перевод] Ты не ChaGPT, когда голоден. Snickers выпустил «батончик» для нейросетей",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "e225fa4a66ea",
     "slug": "texaslik-ai-chatbotga-tahdid-uchun-hibsga-olindi-e225fa",
     "title": "Texaslik AI chatbotga tahdid uchun hibsga olindi",
