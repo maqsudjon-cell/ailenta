@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://ailenta.uz/x/gemini-fitna-nazariyalariga-ishonchni-kamaytiradi-603000/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>AI Lenta</news:name>
+        <news:language>uz</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-05T12:39:12.000Z</news:publication_date>
+      <news:title>Gemini fitna nazariyalariga ishonchni kamaytiradi</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://ailenta.uz/x/google-deepmind-agentlar-ishtirokida-simulyatsiya-otkazdi-1f6ab6/</loc>
     <news:news>
       <news:publication>
@@ -1165,39 +1176,6 @@
       </news:publication>
       <news:publication_date>2026-09-03T13:45:01.000Z</news:publication_date>
       <news:title>Atira startapi 15 million dollar sarmoya oldi</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://ailenta.uz/x/htc-vive-eagle-aqlli-kozoynaklarini-chiqardi-d56f5a/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>AI Lenta</news:name>
-        <news:language>uz</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-03T13:15:01.000Z</news:publication_date>
-      <news:title>HTC Vive Eagle aqlli ko'zoynaklarini chiqardi</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://ailenta.uz/x/openai-muhim-xizmatlarni-himoya-qilishga-1-mlrd-dollar-ajrat-5190d2/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>AI Lenta</news:name>
-        <news:language>uz</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-03T13:15:00.000Z</news:publication_date>
-      <news:title>OpenAI muhim xizmatlarni himoya qilishga 1 mlrd dollar ajratdi</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://ailenta.uz/x/john-lewis-ai-qidiruvni-yaxshilashga-chatshou-ochdi-fd3ce0/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>AI Lenta</news:name>
-        <news:language>uz</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-03T13:08:54.000Z</news:publication_date>
-      <news:title>John Lewis AI qidiruvni yaxshilashga chatshou ochdi</news:title>
     </news:news>
   </url>
 </urlset>
