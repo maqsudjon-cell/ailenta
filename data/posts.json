@@ -1,5 +1,28 @@
 [
   {
+    "id": "72af5609f3bd",
+    "slug": "ai-dasturchilarni-tezlashtirdi-ammo-loyihalarni-emas-72af56",
+    "title": "AI dasturchilarni tezlashtirdi, ammo loyihalarni emas",
+    "summary": "DX tadqiqotiga ko'ra, sun'iy intellekt dasturchilar ishini tezlashtirgan bo'lsa-da, umumiy loyihalar tezligini oshirmadi. 500 dan ortiq kompaniyada kodlarni tekshirish sekinlashgan va o'zgarishlarga ishonch kamaygan. Bo'shagan vaqt yangi ishlanmalarga sarflanmayapti.",
+    "tags": [
+      "tadqiqot",
+      "mehnat bozori"
+    ],
+    "importance": 3,
+    "score": 11,
+    "published": "2026-09-05T10:18:20.000Z",
+    "created": "2026-09-05T17:47:22.674Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/companies/otus/articles/1078602",
+      "title": "ИИ ускорил разработчиков, но не разработку: результаты исследования 500+ команд",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "aafafb3e8cc1",
     "slug": "claude-endi-carplayda-barcha-foydalanuvchilar-uchun-aafafb",
     "title": "Claude endi CarPlay'da barcha foydalanuvchilar uchun",

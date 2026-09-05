@@ -5,7 +5,7 @@
   <link>https://ailenta.uz</link>
   <description>Dunyodagi sun'iy intellekt yangiliklari o'zbek tilida. Har soatda yangilanadi, har bir xabarda asl manbaga havola.</description>
   <language>uz</language>
-  <lastBuildDate>Sat, 05 Sep 2026 17:45:14 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 05 Sep 2026 17:48:34 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/rss.xml" rel="self" type="application/rss+xml"/>
   <item>
     <title>Uoll-strit AI aksiyalari uchun talabni oshirdi</title>
@@ -106,6 +106,16 @@
     <category>Google</category><category>agentlar</category>
     <media:content url="https://ailenta.uz/og/google-deepmind-agentlar-ishtirokida-simulyatsiya-otkazdi-1f6ab6.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/google-deepmind-agentlar-ishtirokida-simulyatsiya-otkazdi-1f6ab6.jpg"/>
+  </item>
+  <item>
+    <title>AI dasturchilarni tezlashtirdi, ammo loyihalarni emas</title>
+    <link>https://ailenta.uz/x/ai-dasturchilarni-tezlashtirdi-ammo-loyihalarni-emas-72af56/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/ai-dasturchilarni-tezlashtirdi-ammo-loyihalarni-emas-72af56/</guid>
+    <pubDate>Sat, 05 Sep 2026 10:18:20 GMT</pubDate>
+    <description>DX tadqiqotiga ko'ra, sun'iy intellekt dasturchilar ishini tezlashtirgan bo'lsa-da, umumiy loyihalar tezligini oshirmadi. 500 dan ortiq kompaniyada kodlarni tekshirish sekinlashgan va o'zgarishlarga ishonch kamaygan. Bo'shagan vaqt yangi ishlanmalarga sarflanmayapti.</description>
+    <category>tadqiqot</category><category>mehnat bozori</category>
+    <media:content url="https://ailenta.uz/og/ai-dasturchilarni-tezlashtirdi-ammo-loyihalarni-emas-72af56.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/ai-dasturchilarni-tezlashtirdi-ammo-loyihalarni-emas-72af56.jpg"/>
   </item>
   <item>
     <title>SAP SaaSpocalypse va AI sarmoyalarini muhokama qildi</title>
@@ -496,16 +506,6 @@
     <category>Meta</category><category>sud</category>
     <media:content url="https://ailenta.uz/og/meta-kompaniyasi-yangi-sud-davosiga-duch-keldi-a17e6c.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/meta-kompaniyasi-yangi-sud-davosiga-duch-keldi-a17e6c.jpg"/>
-  </item>
-  <item>
-    <title>ASCII smuggling xavfi faqat AI bilan cheklanmaydi</title>
-    <link>https://ailenta.uz/x/ascii-smuggling-xavfi-faqat-ai-bilan-cheklanmaydi-d7afce/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/ascii-smuggling-xavfi-faqat-ai-bilan-cheklanmaydi-d7afce/</guid>
-    <pubDate>Fri, 04 Sep 2026 19:23:25 GMT</pubDate>
-    <description>Fishing hujumchilari va spam tarqatuvchilar ko'rinmas Unicode belgilaridan foydalanadigan ASCII smuggling usulini o'zlashtirmoqda. Ilgari ushbu usul asosan sun'iy intellekt tizimlariga hujum qilish uchun ishlatilgan.</description>
-    <category>xavfsizlik</category>
-    <media:content url="https://ailenta.uz/og/ascii-smuggling-xavfi-faqat-ai-bilan-cheklanmaydi-d7afce.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/ascii-smuggling-xavfi-faqat-ai-bilan-cheklanmaydi-d7afce.jpg"/>
   </item>
 </channel>
 </rss>
