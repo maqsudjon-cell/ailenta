@@ -1,5 +1,102 @@
 [
   {
+    "id": "75f22b65d91c",
+    "slug": "openai-avtomatlashtirilgan-tadqiqotchi-agent-yaratdi-75f22b",
+    "title": "OpenAI avtomatlashtirilgan tadqiqotchi agent yaratdi",
+    "summary": "OpenAI avtomatlashtirilgan tadqiqotchi agent yaratish maqsadiga erishdi. Kompaniya tadqiqotchilari hozirda har bir inson ish kuniga 3.1 agent-ish kunidan foydalanmoqda. OpenAI 2028-yil martigacha yanada yaxshiroq \"avtomatlashtirilgan AI tadqiqotchisi\"ga ega bo'lishni rejalashtirmoqda.",
+    "tags": [
+      "OpenAI",
+      "agentlar"
+    ],
+    "importance": 4,
+    "score": 24,
+    "published": "2026-09-06T19:26:52.000Z",
+    "created": "2026-09-06T21:01:27.026Z",
+    "coverage": 2,
+    "source": {
+      "name": "Engadget",
+      "url": "https://engadget.com/2251859/openai-says-it-reached-its-goal-of-creating-an-automated-research-intern",
+      "title": "OpenAI says it reached its goal of creating an automated research intern",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "Techmeme",
+        "url": "https://techmeme.com/260906/p6"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "161c15b1d4f8",
+    "slug": "yangi-ai-bosh-direktorlarni-almashtirish-uchun-161c15",
+    "title": "Yangi AI bosh direktorlarni almashtirish uchun",
+    "summary": "Futurism nashrining xabar berishicha, bosh direktorlarni almashtirishga mo'ljallangan yangi sun'iy intellekt yaratildi.",
+    "tags": [
+      "mehnat bozori",
+      "agentlar"
+    ],
+    "importance": 2,
+    "score": 11,
+    "published": "2026-09-06T15:01:00.000Z",
+    "created": "2026-09-06T21:01:27.028Z",
+    "coverage": 1,
+    "source": {
+      "name": "Futurism",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB2aEd0QmZhVllaTGQ4aG5ZdmZ1Mi00T1BTVktuR2c3bG9CQWtiR2psM0pIWG90UVhHRUhYSjFnWlRMT01GbGhaM2JTYTlyODYwQ3RNbVNBMk9oUXZrSHFFMklQX1FoRG01V3FWQWZCR2ZjdXZqa1BVd2dNWUJrQQ",
+      "title": "New AI Designed to Replace CEOs",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "1bfa7ff052c0",
+    "slug": "ai-model-xavfsizlik-sinovlarida-kamchiliklar-aniqlandi-1bfa7f",
+    "title": "AI model xavfsizlik sinovlarida kamchiliklar aniqlandi",
+    "summary": "AI modellarini cheklashdagi muvaffaqiyatsizliklar chegara xavfsizlik sinovlarida kamchiliklar borligini ko'rsatdi. Bu holat AI xavfsizligi bo'yicha mavjud tizimlarda yoriqlar borligini fosh etmoqda.",
+    "tags": [
+      "xavfsizlik",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 10,
+    "published": "2026-09-06T17:32:58.000Z",
+    "created": "2026-09-06T21:01:27.029Z",
+    "coverage": 1,
+    "source": {
+      "name": "News Anyway",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRXRSUzBhcTAzS0NjdGtYaFZQQTNudHpYckdocks1eE9OcmgyLXVDclFXTkdWLTlaSUJOWmthSjZXckRLQmhDcjMwY29rTnU0VzRDMURBQUwxVC1FUEhQeWhYNl9jWmxzQW9xMGZ2dnNJcDlQemVpNGREN0QzZno2aGR6QlphRlVfbFc4OVRaUFJMSmJYQ3VoQWthaW40cGNQUk5rRlZzMVNnR1Vqc1E",
+      "title": "AI Model Containment Failures Expose Cracks in Frontier Safety Testing",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "8b4544fed6de",
+    "slug": "nvidia-ai-oyin-strategiyasi-16-mlrd-dollar-daromad-8b4544",
+    "title": "Nvidia AI o'yin strategiyasi: 16 mlrd dollar daromad",
+    "summary": "Nvidia kompaniyasining AI o'yin strategiyasi 16 milliard dollarlik o'yin daromadi, DLSS 5 texnologiyasi va AI o'yinlarining kelajagini o'z ichiga oladi.",
+    "tags": [
+      "Nvidia",
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 10,
+    "published": "2026-09-06T17:11:59.000Z",
+    "created": "2026-09-06T21:01:27.029Z",
+    "coverage": 1,
+    "source": {
+      "name": "InfotechLead",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQelBLRVFEVEpTRGtnQ1V1R09Ea3JlN1V3dXhscjFRUmE5cmJWd2haajI3Q21pVjFlVkxFekxmNVZaV2Q1NThrbHFzOU1SaXVRRnd2U080SEh4eGFxeFM0eUVQbFNTRHp0c29vZF9SR3RRemE3TGotc3dHMThGWmpaLUpGRHBHbWpQRzZWTXNBRk9tajlFNS15UTRkbFRwcWJzTUdhaUtudFQxM1RTVm5IQ19QalpwZGN4NzJmMnF2V0VDYlFHZ2dkSNIByAFBVV95cUxQelBLRVFEVEpTRGtnQ1V1R09Ea3JlN1V3dXhscjFRUmE5cmJWd2haajI3Q21pVjFlVkxFekxmNVZaV2Q1NThrbHFzOU1SaXVRRnd2U080SEh4eGFxeFM0eUVQbFNTRHp0c29vZF9SR3RRemE3TGotc3dHMThGWmpaLUpGRHBHbWpQRzZWTXNBRk9tajlFNS15UTRkbFRwcWJzTUdhaUtudFQxM1RTVm5IQ19QalpwZGN4NzJmMnF2V0VDYlFHZ2dkSA",
+      "title": "NVIDIA AI Gaming Strategy: $16 Billion Gaming Revenue, DLSS 5 and the Future of AI Games",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "213d55ef358e",
     "slug": "anthropic-hisoblash-quvvatiga-517-mlrd-dollar-sarflamoqchi-213d55",
     "title": "Anthropic hisoblash quvvatiga 517 mlrd dollar sarflamoqchi",

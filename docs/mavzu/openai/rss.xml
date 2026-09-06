@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/openai/</link>
   <description>&quot;OpenAI&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Sun, 06 Sep 2026 20:53:59 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 06 Sep 2026 21:02:52 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/openai/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>OpenAI avtomatlashtirilgan tadqiqotchi agent yaratdi</title>
+    <link>https://ailenta.uz/x/openai-avtomatlashtirilgan-tadqiqotchi-agent-yaratdi-75f22b/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/openai-avtomatlashtirilgan-tadqiqotchi-agent-yaratdi-75f22b/</guid>
+    <pubDate>Sun, 06 Sep 2026 19:26:52 GMT</pubDate>
+    <description>OpenAI avtomatlashtirilgan tadqiqotchi agent yaratish maqsadiga erishdi. Kompaniya tadqiqotchilari hozirda har bir inson ish kuniga 3.1 agent-ish kunidan foydalanmoqda. OpenAI 2028-yil martigacha yanada yaxshiroq &quot;avtomatlashtirilgan AI tadqiqotchisi&quot;ga ega bo'lishni rejalashtirmoqda.</description>
+    <category>OpenAI</category><category>agentlar</category>
+    <media:content url="https://ailenta.uz/og/openai-avtomatlashtirilgan-tadqiqotchi-agent-yaratdi-75f22b.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/openai-avtomatlashtirilgan-tadqiqotchi-agent-yaratdi-75f22b.jpg"/>
+  </item>
   <item>
     <title>OpenAI agentlari tizim zaifliklarini topdi</title>
     <link>https://ailenta.uz/x/openai-agentlari-tizim-zaifliklarini-topdi-973132/</link>
@@ -296,16 +306,6 @@
     <category>OpenAI</category>
     <media:content url="https://ailenta.uz/og/openai-prezidenti-ai-imkoniyatlari-haqida-gapirdi-eec4ec.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/openai-prezidenti-ai-imkoniyatlari-haqida-gapirdi-eec4ec.jpg"/>
-  </item>
-  <item>
-    <title>GPT-6 Astra ARC-AGI-3 testida yuqori natija ko'rsatdi</title>
-    <link>https://ailenta.uz/x/gpt-6-astra-arc-agi-3-testida-yuqori-natija-korsatdi-8e216a/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/gpt-6-astra-arc-agi-3-testida-yuqori-natija-korsatdi-8e216a/</guid>
-    <pubDate>Thu, 03 Sep 2026 20:05:01 GMT</pubDate>
-    <description>OpenAI kompaniyasining GPT-6 Astra modeli ARC-AGI-3 testida standart tizimda 62,7 foiz, yangi adapter tizimida esa 99,9 foiz natija qayd etdi. Taqqoslash uchun, Claude Opus 5 modeli 30,2 foiz, GPT-5.6 Sol esa 7,8 foiz ball to'plagan.</description>
-    <category>OpenAI</category><category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/gpt-6-astra-arc-agi-3-testida-yuqori-natija-korsatdi-8e216a.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/gpt-6-astra-arc-agi-3-testida-yuqori-natija-korsatdi-8e216a.jpg"/>
   </item>
 </channel>
 </rss>
