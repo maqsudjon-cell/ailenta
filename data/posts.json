@@ -1,5 +1,73 @@
 [
   {
+    "id": "0933e84b2f96",
+    "slug": "aqsh-gpu-eksportini-diplomatik-vosita-sifatida-ishlatmoqda-0933e8",
+    "title": "AQSh GPU eksportini diplomatik vosita sifatida ishlatmoqda",
+    "summary": "AQSh GPU eksportini diplomatik muzokaralarda savdo vositasi sifatida qo'llamoqda. Bu harakat mamlakatning texnologik ustunligini siyosiy maqsadlarda ishlatishga qaratilgan.",
+    "tags": [
+      "siyosat",
+      "chiplar"
+    ],
+    "importance": 4,
+    "score": 7,
+    "published": "2026-09-06T05:48:18.000Z",
+    "created": "2026-09-06T06:02:30.236Z",
+    "coverage": 1,
+    "source": {
+      "name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaksyZ296YnRlMFBNN2VERmtrNWhpU2xqVGY2MndvRDdzRk9ET0R1dy1iMnN4MldTMk9rT0VuOXp3NmdBRDVyeldjZkVvMzd3M3pua1BoLXZDU0gyWGV2QVFHdlB3ekp1b2Vhbm1RNnlEb1RDbm9iUkh4Z185MnFiWXJHNHVwTnJa",
+      "title": "U.S. Deploys GPU Exports as Diplomatic Bargaining Chip",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "bc185063c0c2",
+    "slug": "ai-chatbotlarining-inqirozda-ishlashini-sinash-uchun-5-mln-bc1850",
+    "title": "AI chatbotlarining inqirozda ishlashini sinash uchun $5 mln",
+    "summary": "AI chatbotlarining inqiroz holatlarida foydalanuvchilarga yordam bera olmasligini tekshirish uchun $5 million ajratildi. Bu mablag' chatbotlarning ishonchliligini baholashga qaratilgan.",
+    "tags": [
+      "tadqiqot",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 7,
+    "published": "2026-09-06T04:50:45.000Z",
+    "created": "2026-09-06T06:02:30.236Z",
+    "coverage": 1,
+    "source": {
+      "name": "ICTworks",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPLTBTbzNmTU9QSlh0RkR2LWJYeXVBcnRVQjd4ZlZ4RXhjTHUxd2RxbVI5OEc0Vmw1N3RfZks3b1RKcGhiTk5Nc29UYnFPVGlrSjNsWWdQTW5jc0JrUDI4cVdVbmMxcGYyaDN6dUE2dWthRE0wcUxFX2FfX2pnWU1aTWVTOElfQQ",
+      "title": "Apply Now: $5 Million to Test If AI Chatbots Fail Users in Crisis",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "5eac92faee23",
+    "slug": "ai-yaratgan-menyularning-bir-xillik-muammosi-5eac92",
+    "title": "AI yaratgan menyularning bir xillik muammosi",
+    "summary": "Restoran egalari generativ AI yordamida menyularni yangilashga urinishmoqda. Biroq, mijozlar AI yaratgan taomlarning bir xilligini sezib, ularni ishtahaochar deb bilmayapti.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 2,
+    "score": -0.1,
+    "published": "2026-09-04T04:21:03.000Z",
+    "created": "2026-09-06T06:02:30.237Z",
+    "coverage": 1,
+    "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus",
+      "title": "The sameness problem behind those unappetizing AI-generated menus",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "2c4f18293f6f",
     "slug": "ai-adoption-index-yetakchi-kompaniyalarni-aniqladi-2c4f18",
     "title": "AI Adoption Index yetakchi kompaniyalarni aniqladi",
