@@ -1,5 +1,71 @@
 [
   {
+    "id": "c1775abf32dd",
+    "slug": "google-gemini-ilovasiga-musiqa-modelini-qoshdi-c1775a",
+    "title": "Google Gemini ilovasiga musiqa modelini qo'shdi",
+    "summary": "Google kompaniyasi Gemini ilovasi va API orqali foydalanish uchun Lyria 3.5 musiqa modelini taqdim etdi. Mazkur model yanada boyroq aranjirovkalarni taklif etadi. Kompaniyaning ta'kidlashicha, model faqat litsenziyalangan kontent asosida o'qitilgan.",
+    "tags": [
+      "Google"
+    ],
+    "importance": 4,
+    "score": 21,
+    "published": "2026-09-06T09:56:24.000Z",
+    "created": "2026-09-06T10:01:21.931Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/google-brings-ai-music-generation-directly-into-the-gemini-app-with-its-new-lyria-3-5-model",
+      "title": "Google brings AI music generation directly into the Gemini app with its new Lyria 3.5 model",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "25bd7a1ded78",
+    "slug": "ish-izlovchilar-rezyumega-yashirin-sorovlar-yozmoqda-25bd7a",
+    "title": "Ish izlovchilar rezyumega yashirin so'rovlar yozmoqda",
+    "summary": "Ayrim ish izlovchilar rezyumelarni saralash dasturlariga ta'sir o'tkazish uchun oq rangli matnda yashirin AI so'rovlarini yozmoqda. Mutaxassislar buni xavfli qadam deb baholamoqda.",
+    "tags": [
+      "mehnat bozori"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-09-06T09:43:01.000Z",
+    "created": "2026-09-06T10:01:21.932Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/resume-ai-prompt-injection-applicants-job-search-2026-9",
+      "title": "Job applicants are hiding secret AI messages in their résumés",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "3b6c72c147c3",
+    "slug": "kompaniyalar-xodimlarga-ai-boyicha-cheklovlar-qoymoqda-3b6c72",
+    "title": "Kompaniyalar xodimlarga AI bo'yicha cheklovlar qo'ymoqda",
+    "summary": "Sun'iy intellekt yordamida yaratilgan chalkash va haddan tashqari uzun ichki hujjatlardan charchagan kompaniyalar yangi qoidalar joriy etmoqda. Endilikda xodimlarga AIdan qachon foydalanish mumkinligi va mumkin emasligi belgilab berilmoqda.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-09-06T09:30:03.000Z",
+    "created": "2026-09-06T10:01:21.932Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/companies-writing-ai-policies-stop-ai-slop-2026-8",
+      "title": "AI can turn a few sentences into pages of prose. Some employers have had enough.",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "fc95077ea6ef",
     "slug": "inspur-sanksiyalarga-qaramay-nvidia-chiplarini-sotib-oldi-fc9507",
     "title": "Inspur sanksiyalarga qaramay Nvidia chiplarini sotib oldi",
