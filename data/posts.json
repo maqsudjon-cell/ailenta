@@ -1,5 +1,51 @@
 [
   {
+    "id": "8571fcdb7296",
+    "slug": "ai-kiberxavfsizlik-urushida-ciso-roli-muhimlashmoqda-8571fc",
+    "title": "AI kiberxavfsizlik urushida CISO roli muhimlashmoqda",
+    "summary": "OpenAI va Hugging Face agentlari bilan bogʻliq xakerlik hodisasi biznes olamida shov-shuvga sabab boʻldi. Bu voqea bosh axborot xavfsizligi xodimini (CISO) diqqat markaziga olib chiqdi.",
+    "tags": [
+      "xavfsizlik",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 20.4,
+    "published": "2026-09-05T12:00:01.000Z",
+    "created": "2026-09-06T19:05:00.583Z",
+    "coverage": 1,
+    "source": {
+      "name": "CNBC",
+      "url": "https://cnbc.com/2026/09/05/ai-cybersecurity-ciso-executive.html",
+      "title": "Meet the CISO: A new front line star in the AI cybersecurity war",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "c5423195a915",
+    "slug": "jd-cloud-jismoniy-ai-ambitsiyasini-ilgari-surmoqda-c54231",
+    "title": "JD Cloud \"jismoniy AI\" ambitsiyasini ilgari surmoqda",
+    "summary": "JD Cloud kompaniyasi \"jismoniy AI\" ambitsiyasini ilgari surib, robotlar, mujassamlangan maʼlumotlar va uy qurilmalariga sarmoya kiritmoqda. Bu AI ning ekranlardan real dunyoga oʻtishini anglatadi.",
+    "tags": [
+      "biznes",
+      "robototexnika"
+    ],
+    "importance": 3,
+    "score": -6.1,
+    "published": "2026-09-04T02:19:54.000Z",
+    "created": "2026-09-06T19:05:00.585Z",
+    "coverage": 1,
+    "source": {
+      "name": "Pandaily",
+      "url": "https://pandaily.com/jd-cloud-physical-ai-airport-ads-jdd-sep2026",
+      "title": "JD Cloud Charts a ‘Physical AI’ Ambition, From Airport Ads to the JDD Stage",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "c430edb1f815",
     "slug": "ai-agentlari-adaptiv-kompyuter-qurtini-yaratdi-c430ed",
     "title": "AI agentlari adaptiv kompyuter qurtini yaratdi",
