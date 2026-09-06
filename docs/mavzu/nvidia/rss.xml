@@ -5,7 +5,7 @@
   <link>https://ailenta.uz/mavzu/nvidia/</link>
   <description>&quot;Nvidia&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Sun, 06 Sep 2026 01:02:22 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 06 Sep 2026 01:12:00 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/nvidia/rss.xml" rel="self" type="application/rss+xml"/>
   <item>
     <title>Broadcom va Nvidia AI chip kompaniyalarini solishtirdi</title>
@@ -26,6 +26,16 @@
     <category>Nvidia</category><category>chiplar</category>
     <media:content url="https://ailenta.uz/og/ikki-chip-uskunalari-aksiyasi-nvidia-dan-ustun-keldi-191af6.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/ikki-chip-uskunalari-aksiyasi-nvidia-dan-ustun-keldi-191af6.jpg"/>
+  </item>
+  <item>
+    <title>Nvidia Hugging Faceʼdagi xavfsizlik hodisasiga javob berdi</title>
+    <link>https://ailenta.uz/x/nvidia-hugging-face-dagi-xavfsizlik-hodisasiga-javob-berdi-5a71e7/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/nvidia-hugging-face-dagi-xavfsizlik-hodisasiga-javob-berdi-5a71e7/</guid>
+    <pubDate>Sat, 05 Sep 2026 06:47:37 GMT</pubDate>
+    <description>Nvidia kompaniyasi Hugging Faceʼdagi AI xavfsizligi bilan bogʻliq hodisaga javoban oʻzining xavfsizlik choralarini kuchaytirdi. Bu holat AI kiberxavfsizligi sohasida yangi muammolarni keltirib chiqardi.</description>
+    <category>Nvidia</category><category>Hugging Face</category>
+    <media:content url="https://ailenta.uz/og/nvidia-hugging-face-dagi-xavfsizlik-hodisasiga-javob-berdi-5a71e7.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/nvidia-hugging-face-dagi-xavfsizlik-hodisasiga-javob-berdi-5a71e7.jpg"/>
   </item>
   <item>
     <title>Nvidia DLSS 5'ni eski RTX 40-seriyali GPUlarga olib keladi</title>
@@ -296,16 +306,6 @@
     <category>Nvidia</category><category>chiplar</category>
     <media:content url="https://ailenta.uz/og/nvidia-mediatek-kompaniyasiga-3-5-milliard-dollar-tikadi-c1af7c.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/nvidia-mediatek-kompaniyasiga-3-5-milliard-dollar-tikadi-c1af7c.jpg"/>
-  </item>
-  <item>
-    <title>Nvidia kelishuvi MediaTek'ni yetakchilar qatoriga qo'shdi</title>
-    <link>https://ailenta.uz/x/nvidia-kelishuvi-mediatekni-yetakchilar-qatoriga-qoshdi-73e3b2/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/nvidia-kelishuvi-mediatekni-yetakchilar-qatoriga-qoshdi-73e3b2/</guid>
-    <pubDate>Tue, 01 Sep 2026 06:14:00 GMT</pubDate>
-    <description>Nvidia bilan imzolangan yirik kelishuv MediaTek kompaniyasini sun'iy intellekt chiplari ishlab chiqaruvchi yetakchi klubga olib kirdi. Ushbu hamkorlik kompaniyaning bozordagi mavqeini sezilarli darajada mustahkamlaydi.</description>
-    <category>Nvidia</category><category>chiplar</category>
-    <media:content url="https://ailenta.uz/og/nvidia-kelishuvi-mediatekni-yetakchilar-qatoriga-qoshdi-73e3b2.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/nvidia-kelishuvi-mediatekni-yetakchilar-qatoriga-qoshdi-73e3b2.jpg"/>
   </item>
 </channel>
 </rss>
