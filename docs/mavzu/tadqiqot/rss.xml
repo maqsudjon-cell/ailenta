@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/tadqiqot/</link>
   <description>&quot;tadqiqot&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Sun, 06 Sep 2026 00:02:19 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 06 Sep 2026 00:06:03 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/tadqiqot/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>AI hayvonlar bilan aloqani tushunishda yangi xavflar tugʻdiradi</title>
+    <link>https://ailenta.uz/x/ai-hayvonlar-bilan-aloqani-tushunishda-yangi-xavflar-tug-dir-f90904/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/ai-hayvonlar-bilan-aloqani-tushunishda-yangi-xavflar-tug-dir-f90904/</guid>
+    <pubDate>Sun, 06 Sep 2026 00:00:15 GMT</pubDate>
+    <description>Tadqiqotchilar AI yordamida hayvonlar aloqasini tushunishga harakat qilmoqda. Bioetika mutaxassislari bu insonlarga hayvonlarni manipulyatsiya qilish, ekspluatatsiya qilish va ularga zarar yetkazishning yangi usullarini berishi mumkinligidan ogohlantirmoqda.</description>
+    <category>tadqiqot</category><category>xavfsizlik</category>
+    <media:content url="https://ailenta.uz/og/ai-hayvonlar-bilan-aloqani-tushunishda-yangi-xavflar-tug-dir-f90904.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/ai-hayvonlar-bilan-aloqani-tushunishda-yangi-xavflar-tug-dir-f90904.jpg"/>
+  </item>
   <item>
     <title>6 ta bepul AI API-shlyuzlari: modellar, limitlar va RPM</title>
     <link>https://ailenta.uz/x/6-ta-bepul-ai-api-shlyuzlari-modellar-limitlar-va-rpm-120fcb/</link>
@@ -296,16 +306,6 @@
     <category>agentlar</category><category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/wmllm-optimallashtirish-agentlari-taqdim-etildi-5027c8.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/wmllm-optimallashtirish-agentlari-taqdim-etildi-5027c8.jpg"/>
-  </item>
-  <item>
-    <title>Savol-javob tizimlari uchun yangi usul ishlab chiqildi</title>
-    <link>https://ailenta.uz/x/savol-javob-tizimlari-uchun-yangi-usul-ishlab-chiqildi-f835d0/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/savol-javob-tizimlari-uchun-yangi-usul-ishlab-chiqildi-f835d0/</guid>
-    <pubDate>Thu, 03 Sep 2026 04:00:00 GMT</pubDate>
-    <description>Tadqiqotchilar ko'p bosqichli savol-javob tizimlarida dalillar yetarli bo'lmaganda modelning javob berishdan tiyilishini ta'minlovchi yangi usulni taklif qilishdi. Bu usul modelning noto'g'ri yoki asossiz javoblar berishining oldini olishga yordam beradi.</description>
-    <category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/savol-javob-tizimlari-uchun-yangi-usul-ishlab-chiqildi-f835d0.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/savol-javob-tizimlari-uchun-yangi-usul-ishlab-chiqildi-f835d0.jpg"/>
   </item>
 </channel>
 </rss>
