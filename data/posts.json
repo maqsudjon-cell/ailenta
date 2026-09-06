@@ -1,16 +1,39 @@
 [
   {
+    "id": "fc95077ea6ef",
+    "slug": "inspur-sanksiyalarga-qaramay-nvidia-chiplarini-sotib-oldi-fc9507",
+    "title": "Inspur sanksiyalarga qaramay Nvidia chiplarini sotib oldi",
+    "summary": "AQSh Xitoyning Inspur kompaniyasiga harbiylar bilan hamkorligi sababli sanksiya joriy qilgan edi. Shunga qaramay, kompaniyaning shuʼba korxonasi Xitoyning yetakchi AI firmalari uchun Nvidia chiplarini yetkazib berishda davom etgan.",
+    "tags": [
+      "Nvidia",
+      "chiplar"
+    ],
+    "importance": 4,
+    "score": 27,
+    "published": "2026-09-06T09:00:58.000Z",
+    "created": "2026-09-06T09:08:08.860Z",
+    "coverage": 1,
+    "source": {
+      "name": "The New York Times",
+      "url": "https://nytimes.com/2026/09/06/technology/ai-chips-china-blacklist.html",
+      "title": "How a Blacklisted Chinese Tech Giant Kept Buying America’s Best A.I. Chips",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "48dc1be40eca",
-    "slug": "o-qituvchilar-ai-nazoratidan-qabul-qilishga-o-tmoqda-48dc1b",
-    "title": "Oʻqituvchilar AI nazoratidan qabul qilishga oʻtmoqda",
-    "summary": "Oʻqituvchilar AI detektorlaridan foydalanish yoki qogʻozga qaytish oʻrniga, darslarni qayta ishlab chiqdilar. Ular talabalarning oʻrganayotganini isbotlashlari uchun sharoit yaratishmoqda.",
+    "slug": "o-qituvchilar-ai-taqiqlashdan-uni-qabul-qilishga-o-tmoqda-48dc1b",
+    "title": "Oʻqituvchilar AI taqiqlashdan uni qabul qilishga oʻtmoqda",
+    "summary": "Pedagoglar AI detektorlariga tayanish yoki qogʻozdagi topshiriqlarga qaytish oʻrniga darslarni qayta loyihalashtirmoqda. Endi talabalar oʻz bilimlarini amalda isbotlashlari kerak boʻladi.",
     "tags": [
       "ta'lim"
     ],
-    "importance": 2,
+    "importance": 3,
     "score": 23,
     "published": "2026-09-06T09:00:00.000Z",
-    "created": "2026-09-06T09:01:38.414Z",
+    "created": "2026-09-06T09:08:08.861Z",
     "coverage": 1,
     "source": {
       "name": "The Washington Post",
@@ -22,41 +45,18 @@
     "model": "gemini"
   },
   {
-    "id": "d8823faf47ba",
-    "slug": "nvidia-endi-faqat-ai-chip-kompaniyasi-emas-d8823f",
-    "title": "Nvidia endi faqat AI chip kompaniyasi emas",
-    "summary": "Calcalistech.com xabariga koʻra, Nvidia endi faqat AI chip kompaniyasi boʻlmay qoldi. U oʻzi yaratgan inqilobni moliyalashtirmoqda.",
-    "tags": [
-      "Nvidia",
-      "biznes"
-    ],
-    "importance": 3,
-    "score": 10,
-    "published": "2026-09-06T08:34:00.000Z",
-    "created": "2026-09-06T09:01:38.415Z",
-    "coverage": 1,
-    "source": {
-      "name": "calcalistech.com",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBmdDJMVzIyMzM5TFlrMXNMM1dvVFljaTRyZVBkZlVhUlBDSHo3elQ3VlhyT3V2bmVqOVpmVGZjVGZyTWNnb28wUDNUUlJLRHVmczZMYnBudVRheTNjVXpCTEJ2dlhyRjg",
-      "title": "Nvidia is no longer just an AI chip company. It is financing the revolution it built",
-      "indirect": true
-    },
-    "also": [],
-    "model": "gemini"
-  },
-  {
     "id": "43f1754e9daf",
-    "slug": "meta-hatch-ai-agentini-tayyorlamoqda-43f175",
-    "title": "Meta Hatch AI agentini tayyorlamoqda",
-    "summary": "Business Upturn xabariga koʻra, Meta kompaniyasi Hatch AI agentini tayyorlamoqda. Mark Zuckerberg katta AI xarajatlarini nihoyat monetizatsiya qilishni maqsad qilgan.",
+    "slug": "meta-kompaniyasi-hatch-ai-agentini-tayyorlamoqda-43f175",
+    "title": "Meta kompaniyasi Hatch AI agentini tayyorlamoqda",
+    "summary": "Mark Zuckerberg sun'iy intellektga qilingan ulkan xarajatlarni monetizatsiya qilish maqsadida Hatch AI agentini tayyorlamoqda. Bu haqda Business Upturn xabar berdi.",
     "tags": [
       "Meta",
       "agentlar"
     ],
-    "importance": 3,
+    "importance": 4,
     "score": 10,
     "published": "2026-09-06T05:37:00.000Z",
-    "created": "2026-09-06T09:01:38.415Z",
+    "created": "2026-09-06T09:08:08.862Z",
     "coverage": 1,
     "source": {
       "name": "Business Upturn",
@@ -68,41 +68,18 @@
     "model": "gemini"
   },
   {
-    "id": "0fcac24fdf3e",
-    "slug": "nvidia-rahbari-ai-talabi-osishidan-ogohlantirdi-0fcac2",
-    "title": "Nvidia rahbari AI talabi o'sishidan ogohlantirdi",
-    "summary": "CoinMarketCap xabariga koʻra, Nvidia bosh direktori sunʼiy intellekt hisoblashga boʻlgan talab misli koʻrilmagan darajada oʻsib borayotganidan ogohlantirdi.",
-    "tags": [
-      "Nvidia",
-      "biznes"
-    ],
-    "importance": 3,
-    "score": 8.8,
-    "published": "2026-09-05T17:58:27.000Z",
-    "created": "2026-09-06T09:05:35.952Z",
-    "coverage": 1,
-    "source": {
-      "name": "CoinMarketCap",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWG1HdS1pbUx1aE0ta0MxcTdlZmJOQUkxc0l2UFZzeFVZSDRWSHNMbGJ0ZUpNa3hCSXZFS0hXcmswSjd4MVdIMWdxcTZXNzBTdXhRQXVYeXA5N2E1REVKeTJFZ05jZXNYS0ExRXNoQjZLc0NtaTF3RzQ4Nk9WN2s5a2lELVBBWWQybWFXUHlDWEtsS3piM2JHdTh4YndYcm5VdWRYNVJRYndZdw",
-      "title": "Nvidia CEO Warns AI Compute Demand Surging at Unprecedented Rate",
-      "indirect": true
-    },
-    "also": [],
-    "model": "gemini"
-  },
-  {
     "id": "99d779a94809",
-    "slug": "microsoft-maia-300-ai-chipi-nvidia-ustunligiga-qarshi-99d779",
-    "title": "Microsoft Maia 300 AI chipi Nvidia ustunligiga qarshi",
-    "summary": "Analytics Insight xabariga koʻra, Microsoft oʻzining Maia 300 AI chipini taqdim etdi. Uning Nvidia kompaniyasining bozor ustunligiga qanday qarshi turishi muhokama qilinmoqda.",
+    "slug": "microsoft-maia-300-chipi-nvidia-bilan-raqobatlashadi-99d779",
+    "title": "Microsoft Maia 300 chipi Nvidia bilan raqobatlashadi",
+    "summary": "Analytics Insight nashri Microsoft Maia 300 AI chipini tahlil qildi. Unda ushbu chipning Nvidia ustunligiga qarshi qanday kurashishi koʻrib chiqilgan.",
     "tags": [
       "Microsoft",
-      "Nvidia"
+      "chiplar"
     ],
-    "importance": 4,
+    "importance": 3,
     "score": 7,
     "published": "2026-09-06T07:49:32.000Z",
-    "created": "2026-09-06T09:05:35.953Z",
+    "created": "2026-09-06T09:08:08.862Z",
     "coverage": 1,
     "source": {
       "name": "Analytics Insight",
