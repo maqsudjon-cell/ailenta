@@ -1,5 +1,74 @@
 [
   {
+    "id": "a8e8f9dc895a",
+    "slug": "openai-mutaxassisi-ai-xavfsizligi-va-muvofiqligi-haqida-a8e8f9",
+    "title": "OpenAI mutaxassisi AI xavfsizligi va muvofiqligi haqida",
+    "summary": "OpenAI'dan Jakub Pachocki sun'iy intellektning tobora ortib borayotgan imkoniyatlari va uni to'g'ri yo'nalishda ushlab turish muammosini muhokama qildi. U kuchliroq himoya choralari va xalqaro muvofiqlashtirishga chaqirdi.",
+    "tags": [
+      "OpenAI",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 33,
+    "published": "2026-09-06T09:00:00.000Z",
+    "created": "2026-09-06T17:12:36.616Z",
+    "coverage": 1,
+    "source": {
+      "name": "OpenAI",
+      "url": "https://openai.com/index/an-alien-mind",
+      "title": "An Alien Mind",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "38f95d09453c",
+    "slug": "big-tech-llm-oqitishdan-qidiruvga-sarmoya-kiritmoqda-38f95d",
+    "title": "Big tech LLM o'qitishdan qidiruvga sarmoya kiritmoqda",
+    "summary": "Yirik texnologiya kompaniyalari LLM'larni o'qitish byudjetlarini qisqartirib, qidiruv, ma'lumotlarni yetkazib berish va filtrlash infratuzilmasiga yo'naltirmoqda. Bu holat model sinov to'plamlari haqidagi bahslar fonida yuz bermoqda.",
+    "tags": [
+      "biznes",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 11,
+    "published": "2026-09-06T16:09:19.000Z",
+    "created": "2026-09-06T17:12:36.617Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1079102",
+      "title": "Вышла новая модель? Не смотри на бенчмарки, смотри на поисковик за её спиной",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "d8823faf47ba",
+    "slug": "nvidia-ai-inqilobini-moliyalashtirmoqda-d8823f",
+    "title": "Nvidia AI inqilobini moliyalashtirmoqda",
+    "summary": "Nvidia endi faqat AI chip kompaniyasi emas, balki o'zi yaratgan sun'iy intellekt inqilobini moliyalashtirmoqda. Bu kompaniyaning strategiyasida yangi bosqichni anglatadi.",
+    "tags": [
+      "Nvidia",
+      "biznes"
+    ],
+    "importance": 4,
+    "score": 10,
+    "published": "2026-09-06T08:34:00.000Z",
+    "created": "2026-09-06T17:12:36.618Z",
+    "coverage": 1,
+    "source": {
+      "name": "calcalistech.com",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBmdDJMVzIyMzM5TFlrMXNMM1dvVFljaTRyZVBkZlVhUlBDSHo3elQ3VlhyT3V2bmVqOVpmVGZjVGZyTWNnb28wUDNUUlJLRHVmczZMYnBudVRheTNjVXpCTEJ2dlhyRjg",
+      "title": "Nvidia is no longer just an AI chip company. It is financing the revolution it built",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "19672c4832d4",
     "slug": "openai-tadqiqotlarda-kodlovchi-agentlardan-foydalanmoqda-19672c",
     "title": "OpenAI tadqiqotlarda kodlovchi agentlardan foydalanmoqda",
