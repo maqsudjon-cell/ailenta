@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/nvidia/</link>
   <description>&quot;Nvidia&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Sun, 06 Sep 2026 13:02:33 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 06 Sep 2026 14:02:19 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/nvidia/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>AI poygasi tufayli model charchog'i yuzaga kelmoqda</title>
+    <link>https://ailenta.uz/x/ai-poygasi-tufayli-model-charchogi-yuzaga-kelmoqda-afee1e/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/ai-poygasi-tufayli-model-charchogi-yuzaga-kelmoqda-afee1e/</guid>
+    <pubDate>Sun, 06 Sep 2026 12:13:49 GMT</pubDate>
+    <description>Anthropic, OpenAI, Meta va Google kompaniyalari yangi modellarni tezkorlik bilan chiqarayotgani sababli foydalanuvchilarda model charchog'i kuzatilmoqda. Shu bilan birga, Nvidia ochiq kodli Hugging Face AI platformasini sotib olayotganini ma'lum qildi.</description>
+    <category>Nvidia</category><category>Hugging Face</category>
+    <media:content url="https://ailenta.uz/og/ai-poygasi-tufayli-model-charchogi-yuzaga-kelmoqda-afee1e.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/ai-poygasi-tufayli-model-charchogi-yuzaga-kelmoqda-afee1e.jpg"/>
+  </item>
   <item>
     <title>Inspur sanksiyalarga qaramay Nvidia chiplarini sotib oldi</title>
     <link>https://ailenta.uz/x/inspur-sanksiyalarga-qaramay-nvidia-chiplarini-sotib-oldi-fc9507/</link>
@@ -296,16 +306,6 @@
     <category>Nvidia</category><category>chiplar</category>
     <media:content url="https://ailenta.uz/og/mediatek-nvidia-komagida-ai-mavqeyini-mustahkamlamoqda-f880c3.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/mediatek-nvidia-komagida-ai-mavqeyini-mustahkamlamoqda-f880c3.jpg"/>
-  </item>
-  <item>
-    <title>Nvidia DLSS 5 texnologiyasini ishga tushirmoqda</title>
-    <link>https://ailenta.uz/x/nvidia-dlss-5-texnologiyasini-ishga-tushirmoqda-87a21f/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/nvidia-dlss-5-texnologiyasini-ishga-tushirmoqda-87a21f/</guid>
-    <pubDate>Tue, 01 Sep 2026 13:00:00 GMT</pubDate>
-    <description>Nvidia kompaniyasi 3-sentabr kuni DLSS 5 texnologiyasini rasman ishga tushiradi. Ushbu sun'iy intellektga asoslangan tasvirni masshtablash texnologiyasi yuqori GPU quvvatini talab qiladi. U RTX 50 seriyali video kartalar va GeForce Now xizmatida ishlaydi.</description>
-    <category>Nvidia</category><category>chiplar</category>
-    <media:content url="https://ailenta.uz/og/nvidia-dlss-5-texnologiyasini-ishga-tushirmoqda-87a21f.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/nvidia-dlss-5-texnologiyasini-ishga-tushirmoqda-87a21f.jpg"/>
   </item>
 </channel>
 </rss>
