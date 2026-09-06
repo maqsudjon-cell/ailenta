@@ -3,18 +3,18 @@
     "id": "0933e84b2f96",
     "slug": "aqsh-gpu-eksportini-diplomatik-vosita-sifatida-ishlatmoqda-0933e8",
     "title": "AQSh GPU eksportini diplomatik vosita sifatida ishlatmoqda",
-    "summary": "AQSh GPU eksportini diplomatik muzokaralarda savdo vositasi sifatida qo'llamoqda. Bu harakat mamlakatning texnologik ustunligini siyosiy maqsadlarda ishlatishga qaratilgan.",
+    "summary": "AQSh GPU eksportini diplomatik muzokaralar vositasi sifatida qoʻllamoqda. Bu haqda chosun.com xabar berdi.",
     "tags": [
       "siyosat",
       "chiplar"
     ],
-    "importance": 4,
+    "importance": 3,
     "score": 7,
     "published": "2026-09-06T05:48:18.000Z",
-    "created": "2026-09-06T06:02:30.236Z",
+    "created": "2026-09-06T06:04:52.473Z",
     "coverage": 1,
     "source": {
-      "name": "조선일보",
+      "name": "chosun.com",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaksyZ296YnRlMFBNN2VERmtrNWhpU2xqVGY2MndvRDdzRk9ET0R1dy1iMnN4MldTMk9rT0VuOXp3NmdBRDVyeldjZkVvMzd3M3pua1BoLXZDU0gyWGV2QVFHdlB3ekp1b2Vhbm1RNnlEb1RDbm9iUkh4Z185MnFiWXJHNHVwTnJa",
       "title": "U.S. Deploys GPU Exports as Diplomatic Bargaining Chip",
       "indirect": true
@@ -24,9 +24,9 @@
   },
   {
     "id": "bc185063c0c2",
-    "slug": "ai-chatbotlarining-inqirozda-ishlashini-sinash-uchun-5-mln-bc1850",
-    "title": "AI chatbotlarining inqirozda ishlashini sinash uchun $5 mln",
-    "summary": "AI chatbotlarining inqiroz holatlarida foydalanuvchilarga yordam bera olmasligini tekshirish uchun $5 million ajratildi. Bu mablag' chatbotlarning ishonchliligini baholashga qaratilgan.",
+    "slug": "5-millionlik-grant-ai-chatbotlar-inqirozda-sinovdan-o-tkazil-bc1850",
+    "title": "$5 millionlik grant: AI chatbotlar inqirozda sinovdan oʻtkaziladi",
+    "summary": "AI chatbotlarining inqiroz holatlarida foydalanuvchilarga yordam bera olishini sinash uchun $5 millionlik grant ajratildi. Hozirda ushbu grantga ariza topshirish mumkin.",
     "tags": [
       "tadqiqot",
       "xavfsizlik"
@@ -34,10 +34,10 @@
     "importance": 3,
     "score": 7,
     "published": "2026-09-06T04:50:45.000Z",
-    "created": "2026-09-06T06:02:30.236Z",
+    "created": "2026-09-06T06:04:52.845Z",
     "coverage": 1,
     "source": {
-      "name": "ICTworks",
+      "name": "ictworks.org",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPLTBTbzNmTU9QSlh0RkR2LWJYeXVBcnRVQjd4ZlZ4RXhjTHUxd2RxbVI5OEc0Vmw1N3RfZks3b1RKcGhiTk5Nc29UYnFPVGlrSjNsWWdQTW5jc0JrUDI4cVdVbmMxcGYyaDN6dUE2dWthRE0wcUxFX2FfX2pnWU1aTWVTOElfQQ",
       "title": "Apply Now: $5 Million to Test If AI Chatbots Fail Users in Crisis",
       "indirect": true
@@ -47,21 +47,45 @@
   },
   {
     "id": "5eac92faee23",
-    "slug": "ai-yaratgan-menyularning-bir-xillik-muammosi-5eac92",
-    "title": "AI yaratgan menyularning bir xillik muammosi",
-    "summary": "Restoran egalari generativ AI yordamida menyularni yangilashga urinishmoqda. Biroq, mijozlar AI yaratgan taomlarning bir xilligini sezib, ularni ishtahaochar deb bilmayapti.",
+    "slug": "ai-tomonidan-yaratilgan-menyularning-bir-xillik-muammosi-5eac92",
+    "title": "AI tomonidan yaratilgan menyularning bir xillik muammosi",
+    "summary": "Generativ AI yordamida yaratilgan restoran menyulari bir xil boʻlib chiqmoqda. Mijozlar bunday menyulardagi taomlarda nimadir notoʻgʻri ekanligini sezmoqda.",
     "tags": [
-      "biznes"
+      "biznes",
+      "tadqiqot"
     ],
     "importance": 2,
     "score": -0.1,
     "published": "2026-09-04T04:21:03.000Z",
-    "created": "2026-09-06T06:02:30.237Z",
+    "created": "2026-09-06T06:04:52.846Z",
     "coverage": 1,
     "source": {
       "name": "TechCrunch",
       "url": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus",
       "title": "The sameness problem behind those unappetizing AI-generated menus",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "36b00d9511ab",
+    "slug": "guangdong-mlcc-ishlab-chiqaruvchilari-ai-tufayli-daromadni-o-36b00d",
+    "title": "Guangdong MLCC ishlab chiqaruvchilari AI tufayli daromadni oshirdi",
+    "summary": "Guangdongdagi MLCC ishlab chiqaruvchi kompaniyalar, jumladan Chaozhou Three-circle (Group), AI hisoblashga boʻlgan talab tufayli birinchi yarim yillikda daromadlarini sezilarli oshirdi.",
+    "tags": [
+      "iqtisod",
+      "chiplar"
+    ],
+    "importance": 3,
+    "score": -0.9,
+    "published": "2026-09-04T02:24:42.000Z",
+    "created": "2026-09-06T06:04:55.214Z",
+    "coverage": 1,
+    "source": {
+      "name": "Pandaily",
+      "url": "https://pandaily.com/guangdong-mlcc-three-musketeers-three-circle-fenghua-viiyong-ai-sep2026",
+      "title": "Guangdong’s MLCC ‘Three Musketeers’ Ride the AI Compute Wave to Stronger Earnings",
       "indirect": false
     },
     "also": [],
