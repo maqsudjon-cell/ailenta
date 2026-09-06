@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+  <title>AI Lenta — xAI</title>
+  <link>https://ailenta.uz/mavzu/xai/</link>
+  <description>&quot;xAI&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
+  <language>uz</language>
+  <lastBuildDate>Sun, 06 Sep 2026 23:18:10 GMT</lastBuildDate>
+  <atom:link href="https://ailenta.uz/mavzu/xai/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Kodlash va AI agentlariga yo'naltirilgan Grok 4.5 chiqdi</title>
+    <link>https://ailenta.uz/x/kodlash-va-ai-agentlariga-yonaltirilgan-grok-4-5-chiqdi-b3237a/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/kodlash-va-ai-agentlariga-yonaltirilgan-grok-4-5-chiqdi-b3237a/</guid>
+    <pubDate>Sun, 06 Sep 2026 21:20:57 GMT</pubDate>
+    <description>Kodlash va AI agentlariga e'tibor qaratgan yangi Grok 4.5 modeli ishga tushirildi. Bu OpenAI va Anthropic kompaniyalari bilan raqobatni yanada kuchaytiradi.</description>
+    <category>xAI</category><category>agentlar</category>
+    <media:content url="https://ailenta.uz/og/kodlash-va-ai-agentlariga-yonaltirilgan-grok-4-5-chiqdi-b3237a.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/kodlash-va-ai-agentlariga-yonaltirilgan-grok-4-5-chiqdi-b3237a.jpg"/>
+  </item>
+  <item>
+    <title>Elon Musk ustidan Grok sababli sudga da'vo kiritildi</title>
+    <link>https://ailenta.uz/x/elon-musk-ustidan-grok-sababli-sudga-davo-kiritildi-71bc0b/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/elon-musk-ustidan-grok-sababli-sudga-davo-kiritildi-71bc0b/</guid>
+    <pubDate>Thu, 03 Sep 2026 09:00:49 GMT</pubDate>
+    <description>Bolaligida jinsiy zo'ravonlikka uchragan shaxs Elon Muskning AI kompaniyasini sudga berdi. Da'vogarning ta'kidlashicha, Grok chatboti uning eski suratlaridan yangi noqonuniy tasvirlar yaratishda foydalangan. Musk esa chatbot bunday tasvirlarni yaratganidan xabarsizligini bildirdi.</description>
+    <category>xAI</category><category>sud</category>
+    <media:content url="https://ailenta.uz/og/elon-musk-ustidan-grok-sababli-sudga-davo-kiritildi-71bc0b.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/elon-musk-ustidan-grok-sababli-sudga-davo-kiritildi-71bc0b.jpg"/>
+  </item>
+  <item>
+    <title>AQSh harbiylari GenAI.mil platformasiga AI modellarini qo'shdi</title>
+    <link>https://ailenta.uz/x/aqsh-harbiylari-genai-mil-platformasiga-ai-modellarini-qoshd-8482b4/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/aqsh-harbiylari-genai-mil-platformasiga-ai-modellarini-qoshd-8482b4/</guid>
+    <pubDate>Wed, 02 Sep 2026 14:40:51 GMT</pubDate>
+    <description>Pentagon o'zining GenAI.mil AI platformasini kengaytirib, unga OpenAI'ning ChatGPT Mil va xAI'ning Grok for Government modellarini qo'shdi.</description>
+    <category>OpenAI</category><category>xAI</category>
+    <media:content url="https://ailenta.uz/og/aqsh-harbiylari-genai-mil-platformasiga-ai-modellarini-qoshd-8482b4.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/aqsh-harbiylari-genai-mil-platformasiga-ai-modellarini-qoshd-8482b4.jpg"/>
+  </item>
+</channel>
+</rss>
