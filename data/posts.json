@@ -1,5 +1,50 @@
 [
   {
+    "id": "c8e091be9887",
+    "slug": "anthropic-tadqiqoti-mythos-modelining-xavfini-korsatdi-c8e091",
+    "title": "Anthropic tadqiqoti Mythos modelining xavfini ko'rsatdi",
+    "summary": "Anthropic tadqiqotiga ko'ra, kompaniyaning Mythos modeli bir necha soat ichida yangi aniqlangan dasturiy ta'minot zaifliklari uchun ishchi eksploitlar yarata olgan. Bu modelning kiberxavfsizlik sohasidagi imkoniyatlarini ko'rsatadi.",
+    "tags": [
+      "Anthropic",
+      "xavfsizlik"
+    ],
+    "importance": 4,
+    "score": 10,
+    "published": "2026-09-05T20:27:17.000Z",
+    "created": "2026-09-06T03:03:14.639Z",
+    "coverage": 1,
+    "source": {
+      "name": "International Business Times",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOaFBUNktSQ3ozY2EzTElvQkFrd19VR2wta1k5Y05ZTDNPdjA0dVdrWXZzbXZtU09KOHFnaDQ3V284MkNSR2ZkZFFKdnlnLWxuUHF2Rm1LUU91S1NvWi0yMDA3WlFZcXJwYVltVmxlcHhudTJRTm1EZk1HT0puNUFUcGpDVXVXNWlpN3U5NkI1NjVxb0J1VDRiZFlfMC1tRWpobWUzRUNnRTdoMXgxYTZIazlzeWtzNFNsSVAtQkhBTjFSLWhGTnlsWQ",
+      "title": "Anthropic Research Shows Mythos Model Built Working Exploits For Newly Disclosed Software Flaws In Hours",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "f539c84c5cb4",
+    "slug": "yirik-ai-chatbotlarining-ochib-qolishi-sababi-nomalum-f539c8",
+    "title": "Yirik AI chatbotlarining o'chib qolishi sababi noma'lum",
+    "summary": "Kecha barcha yirik sun'iy intellekt chatbotlari kutilmaganda ishdan chiqdi. Hozircha hech bir tomon ushbu o'chib qolish sabablarini ochiqlamadi.",
+    "tags": [
+      "xavfsizlik"
+    ],
+    "importance": 4,
+    "score": 4.8,
+    "published": "2026-09-04T15:55:34.000Z",
+    "created": "2026-09-06T03:03:14.641Z",
+    "coverage": 1,
+    "source": {
+      "name": "Futurism",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZnFzVy1rWDFkQzdCUFJhTk82NW9sV0F3US1qdGJrM05sM1h2cGotbTRhUlA2cndGODF0YkI0NjdaSWRTVExibFlZTWNGcFVDSTBLdG1yTy1EM2JfQ0F5RTlWbVl5YlBVdnJ1R055OTlRSUhOM1ZabHhERGtQUFU0M2RpM2JhWHI4YXpz",
+      "title": "Nobody Will Say Why Every Major AI Chatbot Suddenly Went Down Yesterday",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "2ec6a5a0c499",
     "slug": "avstraliyada-ai-ma-lumot-markazlari-jadal-rivojlanmoqda-2ec6a5",
     "title": "Avstraliyada AI maʼlumot markazlari jadal rivojlanmoqda",
