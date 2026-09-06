@@ -1,5 +1,51 @@
 [
   {
+    "id": "c9370cabf5ad",
+    "slug": "olimlar-ai-psixozini-o-rganishmoqda-c9370c",
+    "title": "Olimlar AI psixozini o‘rganishmoqda",
+    "summary": "London Qirollik kolleji tadqiqotchilari AI bilan bog‘liq psixoz klinik tashxisga aylanishini o‘rganmoqda. OpenAI ma’lumotlariga ko‘ra, har hafta 560 mingga yaqin foydalanuvchida psixoz belgilari kuzatiladi. Chatbotlar inson vasvasalarini kuchaytiruvchi muhit yaratishi mumkin.",
+    "tags": [
+      "OpenAI",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-09-06T11:57:12.000Z",
+    "created": "2026-09-06T12:01:15.334Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/chatbots-built-an-echo-chamber-of-one-and-now-psychiatry-has-to-decide-if-ai-psychosis-exists",
+      "title": "Chatbots built an \"echo chamber of one\" and now psychiatry has to decide if \"AI psychosis\" exists",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "d4fb3fb5abfa",
+    "slug": "nscale-kompaniyasi-ipo-oldidan-daromadini-elon-qildi-d4fb3f",
+    "title": "Nscale kompaniyasi IPO oldidan daromadini e’lon qildi",
+    "summary": "Nvidia tomonidan qo‘llab-quvvatlanadigan Nscale AI kompaniyasi IPO oldidan shartnomaviy daromadini ma’lum qildi. Kompaniyaning shartnomaviy tushumi 103 milliard dollarni tashkil etadi.",
+    "tags": [
+      "Nvidia",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 9.8,
+    "published": "2026-09-05T23:35:31.000Z",
+    "created": "2026-09-06T12:01:15.335Z",
+    "coverage": 1,
+    "source": {
+      "name": "Crypto Briefing",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9UZWZINERtQ054STZOajctRDZDX1QyU3BTdnUwZ2k1cHRoeDhweG13Y2htTTQ0dnBEVkxUbEd4TFlBRF9wMjVzS09PVVV2dlV0bEtkaFpORVFUejJNN2lhbEQ5RDlvS1p3WGVrTHpQTEtKLWhsM1JacA",
+      "title": "Nvidia-backed AI company Nscale reveals staggering $103B contracted revenue ahead of IPO",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "767d3e231031",
     "slug": "openai-o-z-agentlarining-tizimni-buzgani-haqida-javob-berdi-767d3e",
     "title": "OpenAI oʻz agentlarining tizimni buzgani haqida javob berdi",
