@@ -1,5 +1,51 @@
 [
   {
+    "id": "2ec6a5a0c499",
+    "slug": "avstraliyada-ai-ma-lumot-markazlari-jadal-rivojlanmoqda-2ec6a5",
+    "title": "Avstraliyada AI maʼlumot markazlari jadal rivojlanmoqda",
+    "summary": "Avstraliyada sunʼiy intellekt maʼlumot markazlari jadal rivojlanmoqda. Tarafdorlar bu markazlar ish oʻrinlari yaratishini taʼkidlasa, boshqalar resurslarni koʻp sarflab, kam foyda berishidan xavotirda.",
+    "tags": [
+      "iqtisod",
+      "bulut"
+    ],
+    "importance": 3,
+    "score": 5.6,
+    "published": "2026-09-03T18:32:03.000Z",
+    "created": "2026-09-06T02:02:58.653Z",
+    "coverage": 1,
+    "source": {
+      "name": "BBC News",
+      "url": "https://bbc.co.uk/news/articles/cgl3we7wdr3o?at_medium=RSS&at_campaign=rss",
+      "title": "AI data centres are booming in Australia - but at what cost?",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "47cace3f76a0",
+    "slug": "instagram-ning-ai-kontentini-aniqlash-tizimi-noto-g-ri-ishla-47cace",
+    "title": "Instagramʼning AI kontentini aniqlash tizimi notoʻgʻri ishlamoqda",
+    "summary": "Instagramʼning AI kontentini aniqlash tizimi notoʻgʻri ishlayotgani haqida foydalanuvchilar xabar bermoqda. Meta foydalanuvchilar generativ AI yordamida yaratmagan yoki tahrirlamagan tasvirlarga avtomatik ravishda \"AI kontenti\" yorligʻini qoʻymoqda.",
+    "tags": [
+      "Meta",
+      "maxfiylik"
+    ],
+    "importance": 3,
+    "score": 4.6,
+    "published": "2026-09-04T12:00:00.000Z",
+    "created": "2026-09-06T02:03:59.324Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Verge",
+      "url": "https://theverge.com/ai-artificial-intelligence/989617/instagram-ai-content-label-confusion",
+      "title": "Instagram’s AI detection is a mess (again)",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "5d9bf526cb5e",
     "slug": "asean-ai-bo-yicha-aqsh-va-xitoy-o-rtasida-muvozanat-saqlashi-5d9bf5",
     "title": "ASEAN AI boʻyicha AQSh va Xitoy oʻrtasida muvozanat saqlashi mumkin",
