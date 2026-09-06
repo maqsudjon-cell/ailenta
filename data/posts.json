@@ -1,5 +1,97 @@
 [
   {
+    "id": "2c4f18293f6f",
+    "slug": "ai-adoption-index-yetakchi-kompaniyalarni-aniqladi-2c4f18",
+    "title": "AI Adoption Index yetakchi kompaniyalarni aniqladi",
+    "summary": "AI Adoption Index reytingida Nvidia, Amazon, Meta va Schlumberger kompaniyalari yetakchi deb topildi. Bu haqda Yellow.com nashri xabar berdi.",
+    "tags": [
+      "Nvidia",
+      "Meta"
+    ],
+    "importance": 2,
+    "score": 8,
+    "published": "2026-09-05T12:08:56.000Z",
+    "created": "2026-09-06T05:08:56.693Z",
+    "coverage": 1,
+    "source": {
+      "name": "Yellow.com",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBEanJZTmNZWmhKQll6blBkd2tqNWNlVExqbHE4WlRpMFNPZXBJY2pQczY1NGo3bXVmeWx2UVFyMjkxLW5XaVNDZlVFNE11VlR2VDJtLUVubjR1VXNaY29DeXdjOTlDTF9IaVBYVlN4UQ",
+      "title": "AI Adoption Index Crowns Nvidia, Amazon, Meta And Schlumberger",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "1052caed9bbc",
+    "slug": "anthropic-foydalanish-limitlarini-ozgartirmoqda-1052ca",
+    "title": "Anthropic foydalanish limitlarini o'zgartirmoqda",
+    "summary": "Anthropic kompaniyasi foydalanish limitlarini doimiy ravishda qayta o'rnatmoqda. Startupfortune nashrining ta'kidlashicha, bu quvvat bilan emas, balki ishonch bilan bog'liq muammodir.",
+    "tags": [
+      "Anthropic",
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 2.3,
+    "published": "2026-09-05T05:25:04.000Z",
+    "created": "2026-09-06T05:08:56.693Z",
+    "coverage": 1,
+    "source": {
+      "name": "startupfortune.com",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOLV9pYmRiaU1sVnBmcFV0MU9WR25mMXZxNjhPcUxjR2ExOW1XU2ZvYXpQTE9vV0JneFJyT0lKTjZ4c0FkY3U4Q2hBSm1mWk5NV19qcXEtdXlmZlNfZ1ExRVRnWlJobGg3dWlER0N5eTd4bUpSeGdTRUUtT0RaaFpRWEh0Ums5RXFUaG9aV2Z5cnl3Yk1hbVZ6ZDBDSTlEX2FFSDZSdWpLU3M5VjlUeXRiSVl4QW5NaURFRXZkdzdtYw",
+      "title": "Anthropic Keeps Resetting Usage Limits. That's Not a Capacity Problem, It's a Confidence Problem.",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "9866e2ad9958",
+    "slug": "xitoyda-ai-poygasi-xarajatlarga-qaratilmoqda-9866e2",
+    "title": "Xitoyda AI poygasi xarajatlarga qaratilmoqda",
+    "summary": "UBS Securities tahlilchisi Xiong Wei Xitoy AI sohasida past xarajatlar va kengroq foydalanish real biznes qiymatiga aylanishi mumkinligi masalasini ko'tardi. Endilikda mamlakatda faqat yaxshi modellar yaratish yetarli bo'lmayapti.",
+    "tags": [
+      "biznes",
+      "siyosat"
+    ],
+    "importance": 3,
+    "score": 2.1,
+    "published": "2026-09-04T08:55:18.000Z",
+    "created": "2026-09-06T05:08:56.694Z",
+    "coverage": 1,
+    "source": {
+      "name": "TechNode",
+      "url": "https://technode.com/2026/09/04/better-models-arent-enough-chinas-ai-race-turns-to-cost-products-and-paying-users",
+      "title": "Better Models Aren’t Enough: China’s AI Race Turns to Cost, Products and Paying Users",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "f586a6c1031b",
+    "slug": "zoho-oz-tizimiga-ai-yordamchilarini-qoshdi-f586a6",
+    "title": "Zoho o'z tizimiga AI yordamchilarini qo'shdi",
+    "summary": "Zoho kompaniyasi o'zining Catalyst PaaS platformasiga Anthropic va OpenAI kod yordamchilarini integratsiya qildi. Bu haqda Portal ERP nashri xabar bermoqda.",
+    "tags": [
+      "Anthropic",
+      "OpenAI"
+    ],
+    "importance": 2,
+    "score": 1,
+    "published": "2026-09-04T18:42:10.000Z",
+    "created": "2026-09-06T05:08:56.694Z",
+    "coverage": 1,
+    "source": {
+      "name": "Portal ERP",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMzB0Z1ZTaFF6aWJhVkJ5VThVQ0RrZVJydUpxcmh6eXZxWlRpRXZOOWZNTnZoclhHZjNRaTFvcDBmT0xFWjJtQXVOUjlxY185UlFmSTI5bnhBNkdINk14Wml4ajZVRldzVU0yUXVaaG41NzJwQlNOMXRudXp6bU91WDIxZGh0M0lEYy1abjRpTmFPTUx3VHBqRll4NUhVaGc3TEZCRTZn",
+      "title": "Zoho integrates Anthropic and OpenAI coding assistants into Catalyst PaaS",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "01dcc53440ba",
     "slug": "ai-chatbotlarining-saylov-savollariga-javoblari-noto-g-ri-01dcc5",
     "title": "AI chatbotlarining saylov savollariga javoblari notoʻgʻri",

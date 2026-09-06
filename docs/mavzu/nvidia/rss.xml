@@ -5,7 +5,7 @@
   <link>https://ailenta.uz/mavzu/nvidia/</link>
   <description>&quot;Nvidia&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Sun, 06 Sep 2026 05:02:39 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 06 Sep 2026 05:09:58 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/nvidia/rss.xml" rel="self" type="application/rss+xml"/>
   <item>
     <title>Broadcom va Nvidia AI chip kompaniyalarini solishtirdi</title>
@@ -26,6 +26,16 @@
     <category>Nvidia</category><category>chiplar</category>
     <media:content url="https://ailenta.uz/og/ikki-chip-uskunalari-aksiyasi-nvidia-dan-ustun-keldi-191af6.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/ikki-chip-uskunalari-aksiyasi-nvidia-dan-ustun-keldi-191af6.jpg"/>
+  </item>
+  <item>
+    <title>AI Adoption Index yetakchi kompaniyalarni aniqladi</title>
+    <link>https://ailenta.uz/x/ai-adoption-index-yetakchi-kompaniyalarni-aniqladi-2c4f18/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/ai-adoption-index-yetakchi-kompaniyalarni-aniqladi-2c4f18/</guid>
+    <pubDate>Sat, 05 Sep 2026 12:08:56 GMT</pubDate>
+    <description>AI Adoption Index reytingida Nvidia, Amazon, Meta va Schlumberger kompaniyalari yetakchi deb topildi. Bu haqda Yellow.com nashri xabar berdi.</description>
+    <category>Nvidia</category><category>Meta</category>
+    <media:content url="https://ailenta.uz/og/ai-adoption-index-yetakchi-kompaniyalarni-aniqladi-2c4f18.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/ai-adoption-index-yetakchi-kompaniyalarni-aniqladi-2c4f18.jpg"/>
   </item>
   <item>
     <title>Nvidia Hugging Faceʼdagi xavfsizlik hodisasiga javob berdi</title>
@@ -296,16 +306,6 @@
     <category>Nvidia</category><category>robototexnika</category>
     <media:content url="https://ailenta.uz/og/nvidia-dunyo-robotlarini-boshqarishni-xohlamoqda-65ddc6.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/nvidia-dunyo-robotlarini-boshqarishni-xohlamoqda-65ddc6.jpg"/>
-  </item>
-  <item>
-    <title>Nvidia MediaTek kompaniyasiga 3,5 milliard dollar tikadi</title>
-    <link>https://ailenta.uz/x/nvidia-mediatek-kompaniyasiga-3-5-milliard-dollar-tikadi-c1af7c/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/nvidia-mediatek-kompaniyasiga-3-5-milliard-dollar-tikadi-c1af7c/</guid>
-    <pubDate>Tue, 01 Sep 2026 08:00:23 GMT</pubDate>
-    <description>Nvidia yarimo'tkazgichlar ishlab chiqaruvchi MediaTek kompaniyasiga 3,5 milliard dollar sarmoya kiritadi. Hamkorlik doirasida kompaniyalar sun'iy intellekt chiplari, shaxsiy kompyuterlar va avtomobillar uchun texnologiyalarni integratsiya qilish ustida ishlaydi.</description>
-    <category>Nvidia</category><category>chiplar</category>
-    <media:content url="https://ailenta.uz/og/nvidia-mediatek-kompaniyasiga-3-5-milliard-dollar-tikadi-c1af7c.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/nvidia-mediatek-kompaniyasiga-3-5-milliard-dollar-tikadi-c1af7c.jpg"/>
   </item>
 </channel>
 </rss>
