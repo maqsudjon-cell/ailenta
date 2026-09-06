@@ -1,5 +1,119 @@
 [
   {
+    "id": "48dc1be40eca",
+    "slug": "o-qituvchilar-ai-nazoratidan-qabul-qilishga-o-tmoqda-48dc1b",
+    "title": "Oʻqituvchilar AI nazoratidan qabul qilishga oʻtmoqda",
+    "summary": "Oʻqituvchilar AI detektorlaridan foydalanish yoki qogʻozga qaytish oʻrniga, darslarni qayta ishlab chiqdilar. Ular talabalarning oʻrganayotganini isbotlashlari uchun sharoit yaratishmoqda.",
+    "tags": [
+      "ta'lim"
+    ],
+    "importance": 2,
+    "score": 23,
+    "published": "2026-09-06T09:00:00.000Z",
+    "created": "2026-09-06T09:01:38.414Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Washington Post",
+      "url": "https://washingtonpost.com/technology/2026/09/06/teachers-college-educators-are-rethinking-classes-age-ai",
+      "title": "These teachers are moving from AI policing to AI acceptance",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "d8823faf47ba",
+    "slug": "nvidia-endi-faqat-ai-chip-kompaniyasi-emas-d8823f",
+    "title": "Nvidia endi faqat AI chip kompaniyasi emas",
+    "summary": "Calcalistech.com xabariga koʻra, Nvidia endi faqat AI chip kompaniyasi boʻlmay qoldi. U oʻzi yaratgan inqilobni moliyalashtirmoqda.",
+    "tags": [
+      "Nvidia",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 10,
+    "published": "2026-09-06T08:34:00.000Z",
+    "created": "2026-09-06T09:01:38.415Z",
+    "coverage": 1,
+    "source": {
+      "name": "calcalistech.com",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBmdDJMVzIyMzM5TFlrMXNMM1dvVFljaTRyZVBkZlVhUlBDSHo3elQ3VlhyT3V2bmVqOVpmVGZjVGZyTWNnb28wUDNUUlJLRHVmczZMYnBudVRheTNjVXpCTEJ2dlhyRjg",
+      "title": "Nvidia is no longer just an AI chip company. It is financing the revolution it built",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "43f1754e9daf",
+    "slug": "meta-hatch-ai-agentini-tayyorlamoqda-43f175",
+    "title": "Meta Hatch AI agentini tayyorlamoqda",
+    "summary": "Business Upturn xabariga koʻra, Meta kompaniyasi Hatch AI agentini tayyorlamoqda. Mark Zuckerberg katta AI xarajatlarini nihoyat monetizatsiya qilishni maqsad qilgan.",
+    "tags": [
+      "Meta",
+      "agentlar"
+    ],
+    "importance": 3,
+    "score": 10,
+    "published": "2026-09-06T05:37:00.000Z",
+    "created": "2026-09-06T09:01:38.415Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Upturn",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVFFoT01mQVBvbV8yVngtWXBMMkh0d3I5XzdvX2dhRndVdi1KR1JRTTZMNEdOSnVlRDJjazQwWWRUcWJHVkluUWN6LVhWTWdaUEdhRzhtdFRrajcyYzdKM0ZKTDNPR0FHVlYxaGNUc29WMkJPVS1kaGt6dlFqR2Q5VW5UTGZfRldpT0hWaWFxeFE3UmFxcVJ1VU9BSUxtX1FXWlplZnpFeWRFZ09mNURjRWVNMjNINHhSMF9rRTJUNGpyUGlyYkFRSmtNbC11d25aSmdja0ZR",
+      "title": "Meta prepares Hatch AI agent as Zuckerberg looks to finally monetize its huge AI spending",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "0fcac24fdf3e",
+    "slug": "nvidia-rahbari-ai-talabi-osishidan-ogohlantirdi-0fcac2",
+    "title": "Nvidia rahbari AI talabi o'sishidan ogohlantirdi",
+    "summary": "CoinMarketCap xabariga koʻra, Nvidia bosh direktori sunʼiy intellekt hisoblashga boʻlgan talab misli koʻrilmagan darajada oʻsib borayotganidan ogohlantirdi.",
+    "tags": [
+      "Nvidia",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 8.8,
+    "published": "2026-09-05T17:58:27.000Z",
+    "created": "2026-09-06T09:05:35.952Z",
+    "coverage": 1,
+    "source": {
+      "name": "CoinMarketCap",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWG1HdS1pbUx1aE0ta0MxcTdlZmJOQUkxc0l2UFZzeFVZSDRWSHNMbGJ0ZUpNa3hCSXZFS0hXcmswSjd4MVdIMWdxcTZXNzBTdXhRQXVYeXA5N2E1REVKeTJFZ05jZXNYS0ExRXNoQjZLc0NtaTF3RzQ4Nk9WN2s5a2lELVBBWWQybWFXUHlDWEtsS3piM2JHdTh4YndYcm5VdWRYNVJRYndZdw",
+      "title": "Nvidia CEO Warns AI Compute Demand Surging at Unprecedented Rate",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "99d779a94809",
+    "slug": "microsoft-maia-300-ai-chipi-nvidia-ustunligiga-qarshi-99d779",
+    "title": "Microsoft Maia 300 AI chipi Nvidia ustunligiga qarshi",
+    "summary": "Analytics Insight xabariga koʻra, Microsoft oʻzining Maia 300 AI chipini taqdim etdi. Uning Nvidia kompaniyasining bozor ustunligiga qanday qarshi turishi muhokama qilinmoqda.",
+    "tags": [
+      "Microsoft",
+      "Nvidia"
+    ],
+    "importance": 4,
+    "score": 7,
+    "published": "2026-09-06T07:49:32.000Z",
+    "created": "2026-09-06T09:05:35.953Z",
+    "coverage": 1,
+    "source": {
+      "name": "Analytics Insight",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVGJoTkw5Mkx5QTZ4NHFWQWh5dkJVWGR6TTdkZlVMLWtNRDRlV3JYWEJaMDZmTmgzYjYzOU52UVBjbmlJdFFMM1pteFFvWXBZX1AyOGgxUFdhYU82RnIwUTRZTE96VkpZZm04MU9yaE5sUlJxZDNQejQzRHBxT1hRSXNyTWgzRy1JSnB1eXFoY1l1YnhUVEFteU42TUptZmE0YTkzMm9R0gGzAUFVX3lxTE5BUTM4NjFCYmNSdHhkaVd0clBjZXV4VU5nem55V2I3Sk82bHM3Z0ZjNzFJTlVlSEgwcU5xbWNxUktyRW9pUklFMzBSQkZscjZ5T2duQWRKSmR1UkM2Y0NUYWZPQlRsVm81WVJqdW93UUxBMkNjY0gtVTVkZDkxZnllUjJNOVNsaGYyUHB6NVVrU29QMFJlN0VMX1RMN1had2hzbFpZUmRuZFJFRmxhZGNlNVJz",
+      "title": "Microsoft Maia 300 AI Chip: How it Fares Against NVIDIA’s Dominance",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "e5cff606d711",
     "slug": "shenzhen-metrosida-to-rt-oyoqli-robotlar-ish-boshladi-e5cff6",
     "title": "Shenzhen metrosida toʻrt oyoqli robotlar ish boshladi",
