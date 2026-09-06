@@ -1,9 +1,9 @@
 [
   {
     "id": "c9370cabf5ad",
-    "slug": "olimlar-ai-psixozini-o-rganishmoqda-c9370c",
-    "title": "Olimlar AI psixozini o‘rganishmoqda",
-    "summary": "London Qirollik kolleji tadqiqotchilari AI bilan bog‘liq psixoz klinik tashxisga aylanishini o‘rganmoqda. OpenAI ma’lumotlariga ko‘ra, har hafta 560 mingga yaqin foydalanuvchida psixoz belgilari kuzatiladi. Chatbotlar inson vasvasalarini kuchaytiruvchi muhit yaratishi mumkin.",
+    "slug": "olimlar-ai-psixozini-klinik-tashxis-deb-baholamoqda-c9370c",
+    "title": "Olimlar AI psixozini klinik tashxis deb baholamoqda",
+    "summary": "London Qirollik kolleji tadqiqotchilari sun'iy intellekt keltirib chiqaradigan psixozni klinik tashxis sifatida baholashni o'rganmoqda. OpenAI ma'lumotlariga ko'ra, har hafta 560 000 foydalanuvchida psixoz belgilari kuzatiladi. Chatbotlar inson xayollarini kuchaytirishi mumkin.",
     "tags": [
       "OpenAI",
       "tadqiqot"
@@ -11,7 +11,7 @@
     "importance": 3,
     "score": 15,
     "published": "2026-09-06T11:57:12.000Z",
-    "created": "2026-09-06T12:01:15.334Z",
+    "created": "2026-09-06T12:03:36.504Z",
     "coverage": 1,
     "source": {
       "name": "The Decoder",
@@ -23,23 +23,23 @@
     "model": "gemini"
   },
   {
-    "id": "d4fb3fb5abfa",
-    "slug": "nscale-kompaniyasi-ipo-oldidan-daromadini-elon-qildi-d4fb3f",
-    "title": "Nscale kompaniyasi IPO oldidan daromadini e’lon qildi",
-    "summary": "Nvidia tomonidan qo‘llab-quvvatlanadigan Nscale AI kompaniyasi IPO oldidan shartnomaviy daromadini ma’lum qildi. Kompaniyaning shartnomaviy tushumi 103 milliard dollarni tashkil etadi.",
+    "id": "93300f2c4d4a",
+    "slug": "amd-va-anthropic-strategik-hamkorlikni-boshladi-93300f",
+    "title": "AMD va Anthropic strategik hamkorlikni boshladi",
+    "summary": "AMD kompaniyasi Anthropic bilan strategik investitsiya va GPU chiplarini joylashtirish bo'yicha hamkorlikni boshladi.",
     "tags": [
-      "Nvidia",
-      "biznes"
+      "AMD",
+      "Anthropic"
     ],
-    "importance": 3,
-    "score": 9.8,
-    "published": "2026-09-05T23:35:31.000Z",
-    "created": "2026-09-06T12:01:15.335Z",
+    "importance": 4,
+    "score": 12.8,
+    "published": "2026-09-05T23:27:12.000Z",
+    "created": "2026-09-06T12:03:36.505Z",
     "coverage": 1,
     "source": {
-      "name": "Crypto Briefing",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9UZWZINERtQ054STZOajctRDZDX1QyU3BTdnUwZ2k1cHRoeDhweG13Y2htTTQ0dnBEVkxUbEd4TFlBRF9wMjVzS09PVVV2dlV0bEtkaFpORVFUejJNN2lhbEQ5RDlvS1p3WGVrTHpQTEtKLWhsM1JacA",
-      "title": "Nvidia-backed AI company Nscale reveals staggering $103B contracted revenue ahead of IPO",
+      "name": "intellectia.ai",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdjFvQXRaaW5MTEo2UXdEYXJ3aVpWTjFrT1BHdTZGMUN2eVBSeWlQSy10a3ZtTHRyVzg5UGNMb1RfNDNzNm14ekNqc1RCd3pDb1EtZzNtS0R5UFNQdi1ZVEU3dzNtQ1poSUdxeUJUVk1tVHBya2p2YWM1ZFBRalJ1WWtTUV8wR2dEQWE0SF9uNUdEYUlIc3lnVTE2bWMwX2Vxb19ON2Yzblo",
+      "title": "AMD Partners with Anthropic for Strategic Investment and GPU Deployment",
       "indirect": true
     },
     "also": [],
