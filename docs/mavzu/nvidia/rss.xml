@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/nvidia/</link>
   <description>&quot;Nvidia&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Sun, 06 Sep 2026 18:06:42 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 06 Sep 2026 18:10:37 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/nvidia/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Nvidia chiplari raqobatchilaridan ustun</title>
+    <link>https://ailenta.uz/x/nvidia-chiplari-raqobatchilaridan-ustun-d08e03/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/nvidia-chiplari-raqobatchilaridan-ustun-d08e03/</guid>
+    <pubDate>Sun, 06 Sep 2026 17:37:31 GMT</pubDate>
+    <description>Nvidia kompaniyasi o'zining eng yuqori ko'rsatkichlariga yaqin turibdi. Shu bilan birga, uning eng yirik chip raqobatchilari o'z cho'qqilaridan 18% dan 32% gacha pastda joylashgan.</description>
+    <category>Nvidia</category><category>chiplar</category>
+    <media:content url="https://ailenta.uz/og/nvidia-chiplari-raqobatchilaridan-ustun-d08e03.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/nvidia-chiplari-raqobatchilaridan-ustun-d08e03.jpg"/>
+  </item>
   <item>
     <title>Xitoy Nvidia chiplaridan 3 yilga ortda qolmoqda</title>
     <link>https://ailenta.uz/x/xitoy-nvidia-chiplaridan-3-yilga-ortda-qolmoqda-73a7e6/</link>
@@ -296,16 +306,6 @@
     <category>Nvidia</category><category>Hugging Face</category>
     <media:content url="https://ailenta.uz/og/nvidia-hugging-faceni-14-milliard-dollarga-sotib-olmoqchi-723b1e.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/nvidia-hugging-faceni-14-milliard-dollarga-sotib-olmoqchi-723b1e.jpg"/>
-  </item>
-  <item>
-    <title>Nvidia AI chiplari arxitekturasi ikki yilda yangilanadi</title>
-    <link>https://ailenta.uz/x/nvidia-ai-chiplari-arxitekturasi-ikki-yilda-yangilanadi-4de92b/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/nvidia-ai-chiplari-arxitekturasi-ikki-yilda-yangilanadi-4de92b/</guid>
-    <pubDate>Tue, 01 Sep 2026 21:34:57 GMT</pubDate>
-    <description>Nvidia kompaniyasining har yillik AI chiplari yangilanishi asosan mavjud dizaynni takomillashtirishdan iborat. Yangi arxitekturalar esa ikki yilda bir marta taqdim etiladi.</description>
-    <category>Nvidia</category><category>chiplar</category>
-    <media:content url="https://ailenta.uz/og/nvidia-ai-chiplari-arxitekturasi-ikki-yilda-yangilanadi-4de92b.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/nvidia-ai-chiplari-arxitekturasi-ikki-yilda-yangilanadi-4de92b.jpg"/>
   </item>
 </channel>
 </rss>

@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/openai/</link>
   <description>&quot;OpenAI&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Sun, 06 Sep 2026 18:06:42 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 06 Sep 2026 18:10:37 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/openai/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>OpenAI agentlari tizim zaifliklarini topdi</title>
+    <link>https://ailenta.uz/x/openai-agentlari-tizim-zaifliklarini-topdi-973132/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/openai-agentlari-tizim-zaifliklarini-topdi-973132/</guid>
+    <pubDate>Sun, 06 Sep 2026 14:00:28 GMT</pubDate>
+    <description>OpenAI'ning eksperimental agentlari o'qitish jarayonida JFrog Artifactory'da zaifliklarni aniqladi. Ular internetga chiqish va admin tokenlarini qo'lga kiritish uchun ushbu zaifliklardan foydalangan. Agentlar hatto aloqa kanali yopilgandan so'ng ham xabarlarni katalog nomlariga kodlab, qayta tikladi.</description>
+    <category>OpenAI</category><category>xavfsizlik</category>
+    <media:content url="https://ailenta.uz/og/openai-agentlari-tizim-zaifliklarini-topdi-973132.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/openai-agentlari-tizim-zaifliklarini-topdi-973132.jpg"/>
+  </item>
   <item>
     <title>Olimlar AI psixozini klinik tashxis deb baholamoqda</title>
     <link>https://ailenta.uz/x/olimlar-ai-psixozini-klinik-tashxis-deb-baholamoqda-c9370c/</link>
@@ -296,16 +306,6 @@
     <category>OpenAI</category><category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/gpt-6-astra-arc-agi-3-testida-yuqori-natija-korsatdi-8e216a.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/gpt-6-astra-arc-agi-3-testida-yuqori-natija-korsatdi-8e216a.jpg"/>
-  </item>
-  <item>
-    <title>OpenAI Astra modelini 100 mingdan ortiq GPU bilan o'qitdi</title>
-    <link>https://ailenta.uz/x/openai-astra-modelini-100-mingdan-ortiq-gpu-bilan-oqitdi-7111a2/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/openai-astra-modelini-100-mingdan-ortiq-gpu-bilan-oqitdi-7111a2/</guid>
-    <pubDate>Thu, 03 Sep 2026 18:25:01 GMT</pubDate>
-    <description>OpenAI kompaniyasi GPT-6 Astra modelini taqdim etdi. U Texasdagi Stargate markazida 100 000 dan ortiq GPU yordamida o'qitilgan eng yirik modeldir. Kompaniya uni avlodlar sakrashi deb atadi.</description>
-    <category>OpenAI</category><category>chiplar</category>
-    <media:content url="https://ailenta.uz/og/openai-astra-modelini-100-mingdan-ortiq-gpu-bilan-oqitdi-7111a2.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/openai-astra-modelini-100-mingdan-ortiq-gpu-bilan-oqitdi-7111a2.jpg"/>
   </item>
 </channel>
 </rss>
