@@ -5,7 +5,7 @@
   <link>https://ailenta.uz/mavzu/tadqiqot/</link>
   <description>&quot;tadqiqot&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Mon, 07 Sep 2026 22:06:34 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 07 Sep 2026 23:04:01 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/tadqiqot/rss.xml" rel="self" type="application/rss+xml"/>
   <item>
     <title>AI atamalari lug'ati e'lon qilindi</title>
@@ -76,6 +76,16 @@
     <category>tibbiyot</category><category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/ai-yaratgan-dori-biologik-yoshni-qaytarishi-mumkin-910e26.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/ai-yaratgan-dori-biologik-yoshni-qaytarishi-mumkin-910e26.jpg"/>
+  </item>
+  <item>
+    <title>GPT-6 Astra yordamida xarita proyeksiyasi vositasi yaratildi</title>
+    <link>https://ailenta.uz/x/gpt-6-astra-yordamida-xarita-proyeksiyasi-vositasi-yaratildi-b206cf/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/gpt-6-astra-yordamida-xarita-proyeksiyasi-vositasi-yaratildi-b206cf/</guid>
+    <pubDate>Mon, 07 Sep 2026 16:24:16 GMT</pubDate>
+    <description>Simon Willison BMTda ovoz berilgan Equal Earth xarita proyeksiyasiga qiziqib, GPT-6 Astra yordamida Mercator va Equal Earth o'rtasida animatsion o'tish vositasini yaratdi.</description>
+    <category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/gpt-6-astra-yordamida-xarita-proyeksiyasi-vositasi-yaratildi-b206cf.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/gpt-6-astra-yordamida-xarita-proyeksiyasi-vositasi-yaratildi-b206cf.jpg"/>
   </item>
   <item>
     <title>Qwen va Grok sovet topishmoqlarini yechdi</title>
@@ -296,16 +306,6 @@
     <category>biznes</category><category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/big-tech-llm-oqitishdan-qidiruvga-sarmoya-kiritmoqda-38f95d.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/big-tech-llm-oqitishdan-qidiruvga-sarmoya-kiritmoqda-38f95d.jpg"/>
-  </item>
-  <item>
-    <title>Olimlar AI psixozini klinik tashxis deb baholamoqda</title>
-    <link>https://ailenta.uz/x/olimlar-ai-psixozini-klinik-tashxis-deb-baholamoqda-c9370c/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/olimlar-ai-psixozini-klinik-tashxis-deb-baholamoqda-c9370c/</guid>
-    <pubDate>Sun, 06 Sep 2026 11:57:12 GMT</pubDate>
-    <description>London Qirollik kolleji tadqiqotchilari sun'iy intellekt keltirib chiqaradigan psixozni klinik tashxis sifatida baholashni o'rganmoqda. OpenAI ma'lumotlariga ko'ra, har hafta 560 000 foydalanuvchida psixoz belgilari kuzatiladi. Chatbotlar inson xayollarini kuchaytirishi mumkin.</description>
-    <category>OpenAI</category><category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/olimlar-ai-psixozini-klinik-tashxis-deb-baholamoqda-c9370c.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/olimlar-ai-psixozini-klinik-tashxis-deb-baholamoqda-c9370c.jpg"/>
   </item>
 </channel>
 </rss>

@@ -1,5 +1,142 @@
 [
   {
+    "id": "c281ccb5c207",
+    "slug": "xitoyda-ai-bitiruvchilar-mehnat-bozorini-ozgartirmoqda-c281cc",
+    "title": "Xitoyda AI bitiruvchilar mehnat bozorini o'zgartirmoqda",
+    "summary": "Semafor xabariga ko'ra, sun'iy intellekt Xitoyning bitiruvchilar mehnat bozoriga ta'sir ko'rsatmoqda. Bu yil 12.7 million bitiruvchi ishchi kuchiga qo'shiladi, bu talabdan ancha ko'p.",
+    "tags": [
+      "mehnat bozori",
+      "iqtisod"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-09-07T22:28:16.000Z",
+    "created": "2026-09-07T23:01:53.144Z",
+    "coverage": 1,
+    "source": {
+      "name": "Semafor",
+      "url": "https://semafor.com/article/09/07/2026/ai-upends-chinas-graduate-job-market",
+      "title": "AI upends China’s graduate job market",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "86ca6d285b30",
+    "slug": "openai-mudofaa-tizimlari-uchun-ai-modellarini-oqitmoqda-86ca6d",
+    "title": "OpenAI mudofaa tizimlari uchun AI modellarini o'qitmoqda",
+    "summary": "Jakub Pachocki fikricha, boshqa AI xavflariga qarshi mudofaa tizimlarini qurish uchun aqlliroq modellarni tez o'qitish kerak. OpenAI infratuzilmani himoya qilish va yangi choralar yaratishga e'tibor qaratadi.",
+    "tags": [
+      "OpenAI",
+      "xavfsizlik"
+    ],
+    "importance": 4,
+    "score": 18,
+    "published": "2026-09-07T22:26:25.000Z",
+    "created": "2026-09-07T23:01:53.145Z",
+    "coverage": 1,
+    "source": {
+      "name": "Simon Willison",
+      "url": "https://simonwillison.net/2026/Sep/7/jakub-pachocki",
+      "title": "Quoting Jakub Pachocki",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "b206cff9a692",
+    "slug": "gpt-6-astra-yordamida-xarita-proyeksiyasi-vositasi-yaratildi-b206cf",
+    "title": "GPT-6 Astra yordamida xarita proyeksiyasi vositasi yaratildi",
+    "summary": "Simon Willison BMTda ovoz berilgan Equal Earth xarita proyeksiyasiga qiziqib, GPT-6 Astra yordamida Mercator va Equal Earth o'rtasida animatsion o'tish vositasini yaratdi.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 18,
+    "published": "2026-09-07T16:24:16.000Z",
+    "created": "2026-09-07T23:01:53.146Z",
+    "coverage": 1,
+    "source": {
+      "name": "Simon Willison",
+      "url": "https://simonwillison.net/2026/Sep/7/equal-earth",
+      "title": "Mercator ↔ Equal Earth",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "8c5fb414b52c",
+    "slug": "anthropic-fable-5-1ni-ishga-tushirdi-8c5fb4",
+    "title": "Anthropic Fable 5.1'ni ishga tushirdi",
+    "summary": "Mashable xabariga ko'ra, Anthropic kompaniyasi AI xavfsizligi borasidagi xavotirlar kuchaygan bir paytda Fable 5.1'ni taqdim etdi.",
+    "tags": [
+      "Anthropic",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 12.4,
+    "published": "2026-09-07T06:59:25.000Z",
+    "created": "2026-09-07T23:01:53.146Z",
+    "coverage": 1,
+    "source": {
+      "name": "Mashable",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9iSkczSWFDaVBPT3JwYkV2ekRNOWwwdkFTOGZhNXpQclBIbVFsTE9OQzRwdmg5RG5SVFdsTUJMeFEyOTlJeGRkSHdHNEdva29keXZveEFCbjhSZC1maUpYdUIyQWVsN2lKczVqeXItU2lzdw",
+      "title": "Anthropic launches Fable 5.1 as AI security worries mount",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "d43408659a95",
+    "slug": "nvidia-chip-eksportidagi-boshliq-aqsh-xitoy-muzokaralariga-t-d43408",
+    "title": "Nvidia chip eksportidagi bo'shliq AQSh-Xitoy muzokaralariga ta'sir qildi",
+    "summary": "Asia Times xabariga ko'ra, Nvidia chiplarini eksport qilishdagi bo'shliq AQSh va Xitoy o'rtasidagi AI sammiti muzokaralariga soya solmoqda.",
+    "tags": [
+      "Nvidia",
+      "chiplar"
+    ],
+    "importance": 4,
+    "score": 10,
+    "published": "2026-09-07T22:38:08.000Z",
+    "created": "2026-09-07T23:02:06.860Z",
+    "coverage": 1,
+    "source": {
+      "name": "Asia Times",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWmpaYnpQZkdMZjZHd2swZGJSQ0JhV2lqcGJIVmhTNWkydVIyWVpSQWhIVC05NEktRHZzam9Oa0ZaRVl5cjhNNWY1dG1UWExZVzhQaFlxemZ6QzdRVzBiX2FpaktrNkF6RFBqRXE5RkViMER6MFMzZVVSUzlscDRfY282QjQyeEJNOHNpZnUtaG9OaVl2",
+      "title": "Nvidia chip export loophole clouds US-China AI summit talks",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "6b21c0db6ae1",
+    "slug": "fluidstack-anthropicning-50-milliard-dollarlik-hisoblash-quv-6b21c0",
+    "title": "Fluidstack Anthropic'ning 50 milliard dollarlik hisoblash quvvatini boshqarmoqda",
+    "summary": "AI Magazine xabariga ko'ra, Fluidstack kompaniyasi Anthropic'ning 50 milliard dollarlik hisoblash quvvatini yaratish loyihasiga rahbarlik qilmoqda.",
+    "tags": [
+      "Anthropic",
+      "bulut"
+    ],
+    "importance": 4,
+    "score": 6.5,
+    "published": "2026-09-07T09:43:19.000Z",
+    "created": "2026-09-07T23:02:15.999Z",
+    "coverage": 1,
+    "source": {
+      "name": "AI Magazine",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbUU2VmsxcFZpaWRaSlAzOUE2X0Z1ZFRCNEhiQVhoanFKQl9NcEVVbzR6YS1fQno2MElKQ184YlBySXdWandBY2RrOXViTFJnbmxCeEltV2tBdk5VMElUOHBGTEt0RFVpY1BpWDF1OGhsR0hEZDhRLWI1SnpYVFJ0d185QVQ2U2xuMUk4",
+      "title": "Fluidstack: Leading Anthropic's US$50bn Compute Build-Out",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "ca52170cc17b",
     "slug": "meta-aqlli-kozoynaklar-sababli-sudga-berildi-ca5217",
     "title": "Meta aqlli ko'zoynaklar sababli sudga berildi",

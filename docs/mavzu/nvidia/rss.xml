@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/nvidia/</link>
   <description>&quot;Nvidia&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Mon, 07 Sep 2026 22:06:34 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 07 Sep 2026 23:04:01 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/nvidia/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Nvidia chip eksportidagi bo'shliq AQSh-Xitoy muzokaralariga ta'sir qildi</title>
+    <link>https://ailenta.uz/x/nvidia-chip-eksportidagi-boshliq-aqsh-xitoy-muzokaralariga-t-d43408/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/nvidia-chip-eksportidagi-boshliq-aqsh-xitoy-muzokaralariga-t-d43408/</guid>
+    <pubDate>Mon, 07 Sep 2026 22:38:08 GMT</pubDate>
+    <description>Asia Times xabariga ko'ra, Nvidia chiplarini eksport qilishdagi bo'shliq AQSh va Xitoy o'rtasidagi AI sammiti muzokaralariga soya solmoqda.</description>
+    <category>Nvidia</category><category>chiplar</category>
+    <media:content url="https://ailenta.uz/og/nvidia-chip-eksportidagi-boshliq-aqsh-xitoy-muzokaralariga-t-d43408.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/nvidia-chip-eksportidagi-boshliq-aqsh-xitoy-muzokaralariga-t-d43408.jpg"/>
+  </item>
   <item>
     <title>Nvidia Xitoy bozoriga qaytdi</title>
     <link>https://ailenta.uz/x/nvidia-xitoy-bozoriga-qaytdi-91b66e/</link>
@@ -296,16 +306,6 @@
     <category>Hugging Face</category><category>Nvidia</category>
     <media:content url="https://ailenta.uz/og/hugging-face-nvidia-bilan-bitim-tuzishga-uringan-9e1efb.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/hugging-face-nvidia-bilan-bitim-tuzishga-uringan-9e1efb.jpg"/>
-  </item>
-  <item>
-    <title>Nvidia RTX Spark N1X chipini oktyabrda chiqaradi</title>
-    <link>https://ailenta.uz/x/nvidia-rtx-spark-n1x-chipini-oktyabrda-chiqaradi-7bcf0e/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/nvidia-rtx-spark-n1x-chipini-oktyabrda-chiqaradi-7bcf0e/</guid>
-    <pubDate>Thu, 03 Sep 2026 16:25:01 GMT</pubDate>
-    <description>Nvidia kompaniyasi RTX Spark N1X chipi oktyabr oyida ikki xil konfiguratsiyada taqdim etilishini ma'lum qildi. Birinchi variant 20 yadroli protsessor va 6 144 yadroli Blackwell GPU bilan, ikkinchisi esa 18 yadroli protsessor va 5 120 yadroli GPU bilan jihozlanadi.</description>
-    <category>Nvidia</category><category>chiplar</category>
-    <media:content url="https://ailenta.uz/og/nvidia-rtx-spark-n1x-chipini-oktyabrda-chiqaradi-7bcf0e.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/nvidia-rtx-spark-n1x-chipini-oktyabrda-chiqaradi-7bcf0e.jpg"/>
   </item>
 </channel>
 </rss>
