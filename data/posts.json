@@ -1,5 +1,164 @@
 [
   {
+    "id": "e02ae19def6b",
+    "slug": "openai-ukrainada-jurnalistikani-qollab-quvvatlaydi-e02ae1",
+    "title": "OpenAI Ukrainada jurnalistikani qo'llab-quvvatlaydi",
+    "summary": "OpenAI, AIRPPU va WAN-IFRA Ukraina yangiliklar tashkilotlariga yordam berish uchun AI dasturini ishga tushirdi. Bu dastur innovatsiya va mustaqil jurnalistikani mustahkamlashga qaratilgan.",
+    "tags": [
+      "OpenAI",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 36,
+    "published": "2026-09-07T00:00:00.000Z",
+    "created": "2026-09-07T08:04:36.782Z",
+    "coverage": 1,
+    "source": {
+      "name": "OpenAI",
+      "url": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
+      "title": "Supporting independent journalism in Ukraine",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "407089adce9e",
+    "slug": "linus-torvalds-linux-relizida-aini-aybladi-407089",
+    "title": "Linus Torvalds Linux relizida AI'ni aybladi",
+    "summary": "Linus Torvalds katta Linux reliz kandidati uchun AI'ni hazil bilan aybladi. U avvalroq tizim yangilanishidagi xato uchun o'zini aybdor deb hisoblagan edi.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 19,
+    "published": "2026-09-07T02:32:33.000Z",
+    "created": "2026-09-07T08:07:13.251Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/os-platforms/2026/09/07/might-as-well-blame-ai-for-this-giant-linux-release-candidate-says-linus-torvalds/5294697",
+      "title": "Might as well blame AI for this giant Linux release candidate, says Linus Torvalds",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "7e8d84fe4d4b",
+    "slug": "xitoyning-nvidia-raqibi-aksiyalari-20-ga-tushdi-7e8d84",
+    "title": "Xitoyning Nvidia raqibi aksiyalari 20% ga tushdi",
+    "summary": "Xitoyning Nvidia kompaniyasiga raqobatchi bo'lgan AI kompaniyasining aksiyalari 20% ga tushib ketdi. Bu holat AI sohasidagi ba'zi kompaniyalar uchun haqiqatni ko'rsatdi.",
+    "tags": [
+      "chiplar",
+      "iqtisod"
+    ],
+    "importance": 3,
+    "score": 18,
+    "published": "2026-09-07T07:01:09.000Z",
+    "created": "2026-09-07T08:07:13.251Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPckZHdUhVT2dnUG1pdEVyTF9ob1NGS25PQU9YcGVGV0xWZnljWmJiNC1IeU5QcmVsbUM2aDF1QXBRX2JYOG1xQ0hMeV9RaDNCdnhlbklTT1NhX05uUGpfVWVkb3dOX042VTh1cjNlaWlCZENJQ0VZREFXejY0Y25CY3ZCOFZNZHlfT19HQzIwSVhYVm9NLWpuZjUzRDBybmRNT0E",
+      "title": "China’s Nvidia challenger crashed 20% in a reality check for an AI darling",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "502dd5b7b21e",
+    "slug": "nvidia-ai-imperiyasini-himoya-qilish-uchun-12-9-mlrd-dollar--502dd5",
+    "title": "Nvidia AI imperiyasini himoya qilish uchun 12.9 mlrd dollar tikdi",
+    "summary": "Nvidia o'zining AI imperiyasini himoya qilish maqsadida 12.9 milliard dollarlik ulkan sarmoya kiritdi. Bu kompaniyaning AI sohasidagi mavqeini mustahkamlashga qaratilgan.",
+    "tags": [
+      "Nvidia",
+      "biznes"
+    ],
+    "importance": 4,
+    "score": 16,
+    "published": "2026-09-06T21:03:00.000Z",
+    "created": "2026-09-07T08:08:43.371Z",
+    "coverage": 2,
+    "source": {
+      "name": "thestreet.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVEhUaFdLM2xrQWdab0JfRTdMYnFkcGh2T2NiZVR6dklDOXQ2VDNKbXZSaktRbVNFTTBrRFJoSVZFcjZPWTNla0dHQzN4VUJVclAxR05EVnhjMG9IUUI5WS1BN18tOFJVSlJLblpMOEpGVDBNYklDTTJzaDNZVnIwTGpXd0k5YURMXzVQXzM5cklXZTFNeFFpbA",
+      "title": "Nvidia makes staggering $12.9 billion bet to protect AI empire",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "a8dbaf8cf9b2",
+    "slug": "openai-va-anthropic-ai-apparat-savdosini-qayta-jonlantirdi-a8dbaf",
+    "title": "OpenAI va Anthropic AI apparat savdosini qayta jonlantirdi",
+    "summary": "OpenAI va Anthropic kompaniyalari sun'iy intellekt apparat savdosini qayta jonlantirdi. Bu holat AI chiplari va boshqa uskunalar bozorida faollikni oshirdi.",
+    "tags": [
+      "OpenAI",
+      "Anthropic"
+    ],
+    "importance": 3,
+    "score": 13,
+    "published": "2026-09-07T02:55:26.000Z",
+    "created": "2026-09-07T08:08:43.372Z",
+    "coverage": 1,
+    "source": {
+      "name": "Moomoo",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQjIwRDlINmxTbzExQXFxS0ZidXF5MzV2NExMSzJSWDVSMWRjQjNYeG1kQkJVbjdyTnU4djFxYzNnSkptZVdHNVJjZkUwbzFVOWFyQ3FOMWJKWXdVa2hxOGl2cENoZVIxbnNrNlNLS28zVU9DN1IwX25teUZjOTVTQ19uVTdVWTJOLURnQ2NjaUd6SHRHSTROdHdaTnZtVWl0NmFEdzNhY29lcUd5b3gxRQ",
+      "title": "OpenAI and Anthropic Just Reignited the AI Hardware Trade",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "c7d7a755e629",
+    "slug": "nvidia-amd-va-intelga-shaxmat-dedi-c7d7a7",
+    "title": "Nvidia AMD va Intel'ga \"shaxmat\" dedi",
+    "summary": "Nvidia kompaniyasi sun'iy intellekt bozorida AMD va Intel'ga nisbatan ustunlikka erishdi. Bu holat raqobatchilar uchun qiyin vaziyatni yuzaga keltirdi.",
+    "tags": [
+      "Nvidia",
+      "AMD"
+    ],
+    "importance": 4,
+    "score": 13,
+    "published": "2026-09-06T23:10:00.000Z",
+    "created": "2026-09-07T08:08:43.372Z",
+    "coverage": 2,
+    "source": {
+      "name": "fool.com",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQalREeVlpbHZ1eTBvaldzRktZT1MxRmhnRXAtMVdOcHRUWHJtU1VBWHNOSmlCU1ROcEJHanZuQ3dtY0hteDZxQ1ZkajlpSkxLZWh3WXFxVzhoWXczZF94UkJoSzFPeGNoTnMxUFQtRzJXakFycmx4TmhHZDA2NXNVQVNPcG0xbWl6T3JPNmUwNk9oQjA",
+      "title": "Did Nvidia Just Say Checkmate to AMD and Intel?",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "5e2f6bd5a7dd",
+    "slug": "1c-uchun-5-ta-yangi-yechim-taqdim-etildi-5e2f6b",
+    "title": "1C uchun 5 ta yangi yechim taqdim etildi",
+    "summary": "Avgust oyida 1C uchun beshta yangi avtomatlashtirish yechimi paydo bo'ldi. Ular neyron tarmoqlar uchun ma'lumot tayyorlashdan tortib, kadr hujjatlarini imzolashgacha bo'lgan jarayonlarni qamrab oladi.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 11,
+    "published": "2026-09-07T07:00:08.000Z",
+    "created": "2026-09-07T08:08:43.372Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/companies/infostart/articles/1077706",
+      "title": "5 новых решений для 1С",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "86378f95ad8e",
     "slug": "kremniy-vodiysining-ai-boyicha-xavotirlari-rad-etildi-86378f",
     "title": "Kremniy vodiysining AI bo'yicha xavotirlari rad etildi",

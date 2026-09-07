@@ -5,7 +5,7 @@
   <link>https://ailenta.uz/mavzu/tadqiqot/</link>
   <description>&quot;tadqiqot&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Mon, 07 Sep 2026 07:02:46 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 07 Sep 2026 08:09:56 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/tadqiqot/rss.xml" rel="self" type="application/rss+xml"/>
   <item>
     <title>DeepMind veterani AI tadqiqotlari uchun kompaniyadan ketdi</title>
@@ -36,6 +36,16 @@
     <category>tadqiqot</category><category>agentlar</category>
     <media:content url="https://ailenta.uz/og/ai-ishga-qabul-qilish-tizimlari-rivojlanishi-korib-chiqildi-a43ca3.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/ai-ishga-qabul-qilish-tizimlari-rivojlanishi-korib-chiqildi-a43ca3.jpg"/>
+  </item>
+  <item>
+    <title>Linus Torvalds Linux relizida AI'ni aybladi</title>
+    <link>https://ailenta.uz/x/linus-torvalds-linux-relizida-aini-aybladi-407089/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/linus-torvalds-linux-relizida-aini-aybladi-407089/</guid>
+    <pubDate>Mon, 07 Sep 2026 02:32:33 GMT</pubDate>
+    <description>Linus Torvalds katta Linux reliz kandidati uchun AI'ni hazil bilan aybladi. U avvalroq tizim yangilanishidagi xato uchun o'zini aybdor deb hisoblagan edi.</description>
+    <category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/linus-torvalds-linux-relizida-aini-aybladi-407089.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/linus-torvalds-linux-relizida-aini-aybladi-407089.jpg"/>
   </item>
   <item>
     <title>Meta'ning Muse Spark 1.3 modeli huquqiy AI'da samarali</title>
@@ -296,16 +306,6 @@
     <category>tadqiqot</category><category>siyosat</category>
     <media:content url="https://ailenta.uz/og/ai-tilni-o-zgartirmoqda-151ff7.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/ai-tilni-o-zgartirmoqda-151ff7.jpg"/>
-  </item>
-  <item>
-    <title>AI tomonidan yaratilgan menyularning bir xillik muammosi</title>
-    <link>https://ailenta.uz/x/ai-tomonidan-yaratilgan-menyularning-bir-xillik-muammosi-5eac92/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/ai-tomonidan-yaratilgan-menyularning-bir-xillik-muammosi-5eac92/</guid>
-    <pubDate>Fri, 04 Sep 2026 04:21:03 GMT</pubDate>
-    <description>Generativ AI yordamida yaratilgan restoran menyulari bir xil boʻlib chiqmoqda. Mijozlar bunday menyulardagi taomlarda nimadir notoʻgʻri ekanligini sezmoqda.</description>
-    <category>biznes</category><category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/ai-tomonidan-yaratilgan-menyularning-bir-xillik-muammosi-5eac92.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/ai-tomonidan-yaratilgan-menyularning-bir-xillik-muammosi-5eac92.jpg"/>
   </item>
 </channel>
 </rss>
