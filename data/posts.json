@@ -1,5 +1,51 @@
 [
   {
+    "id": "2d23527da23e",
+    "slug": "chiplar-taqchilligi-saratonni-davolashni-sekinlashtirmoqda-2d2352",
+    "title": "Chiplar taqchilligi saratonni davolashni sekinlashtirmoqda",
+    "summary": "Arm kompaniyasi rahbari chiplar yetishmovchiligi sababli saraton DNK markerlarini modellashtirish hozircha imkonsizligini aytdi. Biroq u kelajakda kompyuterlar bu muammoni hal qilishiga ishonadi.",
+    "tags": [
+      "chiplar",
+      "tibbiyot"
+    ],
+    "importance": 4,
+    "score": 23,
+    "published": "2026-09-07T23:05:12.000Z",
+    "created": "2026-09-07T23:38:55.821Z",
+    "coverage": 1,
+    "source": {
+      "name": "BBC News",
+      "url": "https://bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
+      "title": "AI cancer cures slowed by chip shortage, says UK's biggest tech boss",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "197535fb1d36",
+    "slug": "ai-aqshda-ish-orinlari-yoqolishiga-hali-sabab-bolmadi-197535",
+    "title": "AI AQShda ish o'rinlari yo'qolishiga hali sabab bo'lmadi",
+    "summary": "AQSh bandlik ko'rsatkichlari sun'iy intellekt tufayli ish o'rinlarining ommaviy qisqarishini ko'rsatmadi. Bu esa texnologiya sababli yuzaga keladigan ishsizlik haqidagi xavotirlar hali erta ekanidan dalolat beradi.",
+    "tags": [
+      "mehnat bozori",
+      "iqtisod"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-09-07T23:02:53.000Z",
+    "created": "2026-09-07T23:38:55.822Z",
+    "coverage": 1,
+    "source": {
+      "name": "Semafor",
+      "url": "https://semafor.com/article/09/07/2026/ai-is-not-yet-driving-us-job-losses",
+      "title": "AI is not yet driving US job losses",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "c281ccb5c207",
     "slug": "xitoyda-ai-bitiruvchilar-mehnat-bozorini-ozgartirmoqda-c281cc",
     "title": "Xitoyda AI bitiruvchilar mehnat bozorini o'zgartirmoqda",
