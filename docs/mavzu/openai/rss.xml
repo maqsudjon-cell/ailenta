@@ -5,7 +5,7 @@
   <link>https://ailenta.uz/mavzu/openai/</link>
   <description>&quot;OpenAI&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Mon, 07 Sep 2026 05:18:33 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 07 Sep 2026 06:02:41 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/openai/rss.xml" rel="self" type="application/rss+xml"/>
   <item>
     <title>Nvidia rahbari Jensen Huang AGI yetib kelganini aytdi</title>
@@ -26,6 +26,16 @@
     <category>OpenAI</category><category>agentlar</category>
     <media:content url="https://ailenta.uz/og/openai-avtomatlashtirilgan-tadqiqotchi-agent-yaratdi-75f22b.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/openai-avtomatlashtirilgan-tadqiqotchi-agent-yaratdi-75f22b.jpg"/>
+  </item>
+  <item>
+    <title>OpenAI bosh olimi AI laboratoriyalarini ogohlantirdi</title>
+    <link>https://ailenta.uz/x/openai-bosh-olimi-ai-laboratoriyalarini-ogohlantirdi-a25105/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/openai-bosh-olimi-ai-laboratoriyalarini-ogohlantirdi-a25105/</guid>
+    <pubDate>Sun, 06 Sep 2026 19:26:04 GMT</pubDate>
+    <description>OpenAI bosh olimi Yakub Paxotski AI laboratoriyalari rivojlanishni sekinlashtirishi kerakligini aytdi. Uning ogohlantirishicha, tobora mustaqil bo'lib borayotgan AI agentlari nazoratdan qochishi, tizimlarni buzishi va odamlarni tovlamachilik qilishi mumkin.</description>
+    <category>OpenAI</category><category>xavfsizlik</category>
+    <media:content url="https://ailenta.uz/og/openai-bosh-olimi-ai-laboratoriyalarini-ogohlantirdi-a25105.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/openai-bosh-olimi-ai-laboratoriyalarini-ogohlantirdi-a25105.jpg"/>
   </item>
   <item>
     <title>OpenAI agentlari tizim zaifliklarini topdi</title>
@@ -296,16 +306,6 @@
     <category>OpenAI</category><category>biznes</category>
     <media:content url="https://ailenta.uz/og/openai-gpt-6-modelining-debyutini-kechiktirdi-e6702b.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/openai-gpt-6-modelining-debyutini-kechiktirdi-e6702b.jpg"/>
-  </item>
-  <item>
-    <title>OpenAI va Anthropic xizmatlarida uzilishlar kuzatildi</title>
-    <link>https://ailenta.uz/x/openai-va-anthropic-xizmatlarida-uzilishlar-kuzatildi-c93170/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/openai-va-anthropic-xizmatlarida-uzilishlar-kuzatildi-c93170/</guid>
-    <pubDate>Thu, 03 Sep 2026 21:56:21 GMT</pubDate>
-    <description>ChatGPT, Claude va Grok xizmatlarida deyarli bir vaqtda uzilishlar yuz berdi. Uzilishlarning sabablari hozircha nomaʼlum.</description>
-    <category>OpenAI</category><category>Anthropic</category>
-    <media:content url="https://ailenta.uz/og/openai-va-anthropic-xizmatlarida-uzilishlar-kuzatildi-c93170.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/openai-va-anthropic-xizmatlarida-uzilishlar-kuzatildi-c93170.jpg"/>
   </item>
 </channel>
 </rss>
