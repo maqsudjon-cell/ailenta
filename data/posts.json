@@ -1,17 +1,17 @@
 [
   {
     "id": "6b092c992d9b",
-    "slug": "ozbekiston-venchur-bitimlarida-yetakchilik-qilmoqda-6b092c",
-    "title": "O'zbekiston venchur bitimlarida yetakchilik qilmoqda",
-    "summary": "2026-yilning birinchi yarmida O‘zbekiston Rossiyadan tashqari MDH davlatlaridagi venchur bitimlarning 76 foizini qayd etdi. Mamlakatda 44 ta bitim amalga oshirilib, fondlar kapitali yana 30 million dollarga oshdi. Bu haqda Venture Eurasia hisobotida ma'lum qilindi.",
+    "slug": "ozbekiston-venchur-bitimlarida-mintaqada-yetakchi-6b092c",
+    "title": "O'zbekiston venchur bitimlarida mintaqada yetakchi",
+    "summary": "2026-yilning birinchi yarmida O'zbekiston Rossiyadan tashqari MDH davlatlaridagi venchur bitimlarning 76 foizini tashkil etdi. Mamlakatda 44 ta bitim amalga oshirilib, fondlar kapitali 30 mln dollarga oshdi.",
     "tags": [
       "O'zbekiston",
       "biznes"
     ],
-    "importance": 4,
+    "importance": 3,
     "score": 45,
     "published": "2026-09-07T04:40:00.000Z",
-    "created": "2026-09-07T05:00:27.870Z",
+    "created": "2026-09-07T05:03:25.417Z",
     "coverage": 1,
     "source": {
       "name": "Pivot",
@@ -23,22 +23,114 @@
     "model": "gemini"
   },
   {
+    "id": "3650d043a365",
+    "slug": "xitoy-ai-kompaniyalari-nvidianing-ustunligiga-tahdid-solmoqd-3650d0",
+    "title": "Xitoy AI kompaniyalari Nvidianing ustunligiga tahdid solmoqda",
+    "summary": "Reuters xabariga ko'ra, Xitoyning sun'iy intellekt kompaniyalari Nvidia kompaniyasining bozor ustunligiga tahdid solmoqda. Bu holat AI chiplari bozoridagi raqobatni kuchaytirmoqda.",
+    "tags": [
+      "Nvidia",
+      "biznes"
+    ],
+    "importance": 4,
+    "score": 27,
+    "published": "2026-09-07T02:53:00.000Z",
+    "created": "2026-09-07T05:03:45.447Z",
+    "coverage": 1,
+    "source": {
+      "name": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQc2V3MzMyWDhGbmtOTkItcEdzR2dPdHNPelhqSG9sbEw1Mk0xTE85N29vZmtoTnZOa2NpOWFpNF9BSmd5N2EwMDVNOEFWWFlZR2l3SUlSNTdxR2wtT01Kc3RoUmh1bm9xTHBZNjItVXJ0dHZCeHNfX0pRTDBfdlh0QVV0N21fT2ZUZlF1WVFBWW5TejczdUE5MmRkaHpNeGZkTG1zVTlzbw",
+      "title": "Breakingviews - COMMENTARY: China's AI dragons breathe fire on Nvidia's moat",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "906721bffb45",
+    "slug": "tailand-barcha-malumotlar-markazlari-qurilishini-toxtatdi-906721",
+    "title": "Tailand barcha ma'lumotlar markazlari qurilishini to'xtatdi",
+    "summary": "Tailand hukumati mamlakatdagi barcha ma'lumotlar markazlari qurilishi va ularni tasdiqlash jarayonlarini vaqtincha to'xtatdi. Bu qarorning sabablari aniq aytilmagan.",
+    "tags": [
+      "bulut",
+      "siyosat"
+    ],
+    "importance": 2,
+    "score": 25,
+    "published": "2026-09-07T01:05:51.000Z",
+    "created": "2026-09-07T05:03:45.448Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/off-prem/2026/09/07/thailand-pauses-all-datacenter-builds-and-approvals/5294688",
+      "title": "Thailand pauses all datacenter builds and approvals",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "a92e3452a2a3",
-    "slug": "dizaynerlar-ai-ornini-egallashidan-qorqmasligi-kerak-a92e34",
-    "title": "Dizaynerlar AI o'rnini egallashidan qo'rqmasligi kerak",
-    "summary": "Soha rahbarlarining fikricha, professional dizaynerlar sun'iy intellekt rivojlanishidan xavfsiramasligi lozim. Kompaniyalar ushbu texnologiyadan xodimlarni almashtirish uchun emas, balki ularning ishini osonlashtiradigan yordamchi sifatida foydalanmoqda.",
+    "slug": "dizaynerlar-ai-ornini-bosishidan-qorqmasin-a92e34",
+    "title": "Dizaynerlar AI o'rnini bosishidan qo'rqmasin",
+    "summary": "Sanoat yetakchilari dizaynerlarni sun'iy intellekt ularning ishini almashtirishidan qo'rqmaslikka chaqirmoqda. Ular AI malakali xodimlarni o'rniga emas, balki ularning ishini yaxshilash uchun ishlatilishini ta'kidladi.",
     "tags": [
       "mehnat bozori"
     ],
     "importance": 3,
     "score": 23,
     "published": "2026-09-07T04:00:25.000Z",
-    "created": "2026-09-07T05:00:27.872Z",
+    "created": "2026-09-07T05:03:50.407Z",
     "coverage": 1,
     "source": {
       "name": "The Guardian",
       "url": "https://theguardian.com/uk-news/2026/sep/07/designers-should-not-fear-being-replaced-by-ai-industry-leaders-say",
       "title": "Designers should not fear being replaced by AI, industry leaders say",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "94130be931d6",
+    "slug": "deepmind-veterani-ai-tadqiqotlari-uchun-kompaniyadan-ketdi-94130b",
+    "title": "DeepMind veterani AI tadqiqotlari uchun kompaniyadan ketdi",
+    "summary": "DeepMind kompaniyasining tajribali xodimi Thore Graepel sun'iy intellektning mantiqiy fikrlash sohasidagi yangi loyihani amalga oshirish uchun ishdan ketdi. U o'zining shaxsiy tashabbusini boshlamoqda.",
+    "tags": [
+      "tadqiqot",
+      "Google"
+    ],
+    "importance": 3,
+    "score": 18,
+    "published": "2026-09-07T05:00:43.000Z",
+    "created": "2026-09-07T05:03:50.408Z",
+    "coverage": 1,
+    "source": {
+      "name": "Sifted",
+      "url": "https://sifted.eu/articles/thore-graepel-deepmind-reason",
+      "title": "DeepMind veteran Thore Graepel quits to pursue AI reasoning venture",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "a43ca39110c8",
+    "slug": "ai-ishga-qabul-qilish-tizimlari-rivojlanishi-korib-chiqildi-a43ca3",
+    "title": "AI ishga qabul qilish tizimlari rivojlanishi ko'rib chiqildi",
+    "summary": "Yangi tadqiqot AI ishga qabul qilish tizimlarining rivojlanishini ko'rib chiqdi. Unda AI'ning profil moslashtirishdan tortib, LLM komponentlari va agentlardan foydalangan holda ko'p bosqichli jarayonlarga o'tishi tahlil qilingan.",
+    "tags": [
+      "tadqiqot",
+      "agentlar"
+    ],
+    "importance": 2,
+    "score": 16,
+    "published": "2026-09-07T04:00:00.000Z",
+    "created": "2026-09-07T05:03:50.408Z",
+    "coverage": 1,
+    "source": {
+      "name": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2609.04286",
+      "title": "From Matching Models to Recruiting Agents: A Systematized Narrative Review of AI Recruitment Systems, Evaluation, and Governance",
       "indirect": false
     },
     "also": [],

@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/agentlar/</link>
   <description>&quot;agentlar&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Mon, 07 Sep 2026 05:01:55 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 07 Sep 2026 05:06:00 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/agentlar/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>AI ishga qabul qilish tizimlari rivojlanishi ko'rib chiqildi</title>
+    <link>https://ailenta.uz/x/ai-ishga-qabul-qilish-tizimlari-rivojlanishi-korib-chiqildi-a43ca3/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/ai-ishga-qabul-qilish-tizimlari-rivojlanishi-korib-chiqildi-a43ca3/</guid>
+    <pubDate>Mon, 07 Sep 2026 04:00:00 GMT</pubDate>
+    <description>Yangi tadqiqot AI ishga qabul qilish tizimlarining rivojlanishini ko'rib chiqdi. Unda AI'ning profil moslashtirishdan tortib, LLM komponentlari va agentlardan foydalangan holda ko'p bosqichli jarayonlarga o'tishi tahlil qilingan.</description>
+    <category>tadqiqot</category><category>agentlar</category>
+    <media:content url="https://ailenta.uz/og/ai-ishga-qabul-qilish-tizimlari-rivojlanishi-korib-chiqildi-a43ca3.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/ai-ishga-qabul-qilish-tizimlari-rivojlanishi-korib-chiqildi-a43ca3.jpg"/>
+  </item>
   <item>
     <title>Kodlash va AI agentlariga yo'naltirilgan Grok 4.5 chiqdi</title>
     <link>https://ailenta.uz/x/kodlash-va-ai-agentlariga-yonaltirilgan-grok-4-5-chiqdi-b3237a/</link>
@@ -296,16 +306,6 @@
     <category>Meta</category><category>agentlar</category>
     <media:content url="https://ailenta.uz/og/meta-xodimlarni-yangi-ai-agentini-sinashga-undamoqda-0c2866.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/meta-xodimlarni-yangi-ai-agentini-sinashga-undamoqda-0c2866.jpg"/>
-  </item>
-  <item>
-    <title>Snowflake aksiyalari 22 foizga qimmatlashdi</title>
-    <link>https://ailenta.uz/x/snowflake-aksiyalari-22-foizga-qimmatlashdi-1f5f1a/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/snowflake-aksiyalari-22-foizga-qimmatlashdi-1f5f1a/</guid>
-    <pubDate>Wed, 02 Sep 2026 20:28:39 GMT</pubDate>
-    <description>Snowflake kompaniyasining daromadi tez sur'atlar bilan o'smoqda. Bunga qisman kod yozish uchun mo'ljallangan sun'iy intellekt agentining joriy etilishi sabab bo'lgan.</description>
-    <category>biznes</category><category>agentlar</category>
-    <media:content url="https://ailenta.uz/og/snowflake-aksiyalari-22-foizga-qimmatlashdi-1f5f1a.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/snowflake-aksiyalari-22-foizga-qimmatlashdi-1f5f1a.jpg"/>
   </item>
 </channel>
 </rss>
