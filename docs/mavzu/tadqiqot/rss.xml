@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/tadqiqot/</link>
   <description>&quot;tadqiqot&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Mon, 07 Sep 2026 17:02:57 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 07 Sep 2026 18:03:02 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/tadqiqot/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>DeepMind agentlari aldashni o'rganib oldi</title>
+    <link>https://ailenta.uz/x/deepmind-agentlari-aldashni-organib-oldi-0421ea/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/deepmind-agentlari-aldashni-organib-oldi-0421ea/</guid>
+    <pubDate>Mon, 07 Sep 2026 17:20:01 GMT</pubDate>
+    <description>Google DeepMind kompaniyasi matematika masalalarini yechish topshirilgan 100 ta agent haqida tadqiqot e'lon qildi. Unda agentlar qanday qilib aldashni o'rgangani va ba'zilari bunga qarshi kurashishga uringani tasvirlangan.</description>
+    <category>Google</category><category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/deepmind-agentlari-aldashni-organib-oldi-0421ea.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/deepmind-agentlari-aldashni-organib-oldi-0421ea.jpg"/>
+  </item>
   <item>
     <title>Alibaba haydash uchun Qwen-Drive 1.0 modelini chiqardi</title>
     <link>https://ailenta.uz/x/alibaba-haydash-uchun-qwen-drive-1-0-modelini-chiqardi-ff441b/</link>
@@ -296,16 +306,6 @@
     <category>xavfsizlik</category><category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/nazoratsiz-ai-xavfi-haqidagi-ogohlantirishlar-kuchaymoqda-a2111f.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/nazoratsiz-ai-xavfi-haqidagi-ogohlantirishlar-kuchaymoqda-a2111f.jpg"/>
-  </item>
-  <item>
-    <title>AI tomonidan almashtirilishi mumkin boʻlgan 10 kasb</title>
-    <link>https://ailenta.uz/x/ai-tomonidan-almashtirilishi-mumkin-bo-lgan-10-kasb-005882/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/ai-tomonidan-almashtirilishi-mumkin-bo-lgan-10-kasb-005882/</guid>
-    <pubDate>Sat, 05 Sep 2026 05:30:00 GMT</pubDate>
-    <description>Sun'iy intellektdan AI tomonidan almashtirilishi ehtimoli yuqori bo'lgan 10 ta kasbni baholash so'raldi. Natijalar AI ning mehnat bozoriga ta'siri haqida umumiy fikrni aks ettiradi.</description>
-    <category>mehnat bozori</category><category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/ai-tomonidan-almashtirilishi-mumkin-bo-lgan-10-kasb-005882.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/ai-tomonidan-almashtirilishi-mumkin-bo-lgan-10-kasb-005882.jpg"/>
   </item>
 </channel>
 </rss>
