@@ -1,5 +1,72 @@
 [
   {
+    "id": "ce4828133630",
+    "slug": "openai-ai-agentlari-3-1-ish-kunini-bajarmoqda-ce4828",
+    "title": "OpenAI AI agentlari 3.1 ish kunini bajarmoqda",
+    "summary": "OpenAI'ning AI agentlari tadqiqotda har bir inson ish kuniga 3.1 ish kunini bajarmoqda. Kompaniya \"avtomatlashtirilgan tadqiqot stajyori\" maqsadiga erishganini aytdi, biroq bosh olim Pachocki tezlikni oshirishda muvofiqlik va monitoring xavotirlari borligini ogohlantirdi.",
+    "tags": [
+      "OpenAI",
+      "agentlar"
+    ],
+    "importance": 4,
+    "score": 18,
+    "published": "2026-09-07T13:05:22.000Z",
+    "created": "2026-09-07T15:04:26.566Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/openai-reports-ai-research-interns-and-warns-about-its-own-pace-at-the-same-time",
+      "title": "OpenAI reports AI \"research interns\" and warns about its own pace at the same time",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "b1cfeba2af24",
+    "slug": "kamil-gadeevning-promp-injiniring-kitobi-b1cfeb",
+    "title": "Kamil Gadeevning promp-injiniring kitobi",
+    "summary": "Kamil Gadeevning katta til modellariga (LLM) va sun'iy intellektga bag'ishlangan kitobi nashr etildi. Unda promp-injiniring, AI to'qib chiqarishlari va mashinadan samarali javob olish usullari ko'rib chiqiladi.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 14,
+    "published": "2026-09-07T11:38:51.000Z",
+    "created": "2026-09-07T15:04:26.568Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/companies/bhv_publishing/articles/1079364",
+      "title": "Как говорить с искусственным интеллектом. Книга о промптах",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "a2c2bc37474f",
+    "slug": "300-kishilik-jamoa-6-oyda-aiga-otdi-a2c2bc",
+    "title": "300 kishilik jamoa 6 oyda AI'ga o'tdi",
+    "summary": "Bir kompaniya 300 kishilik jamoani olti oy ichida sun'iy intellekt bilan tizimli ishlashga o'tkazdi. Bu jarayonda ko'plab g'oyalar loyihalar portfeliga aylantirilib, sakkizta yechim ishlab chiqarishga kiritildi.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 11,
+    "published": "2026-09-07T14:27:44.000Z",
+    "created": "2026-09-07T15:04:26.569Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/companies/cloud_ru/articles/1077754",
+      "title": "От хаоса к системе: насколько реально построить AI-first команду за полгода",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "f1f8fd6a68d5",
     "slug": "audi-a2-modelini-elektromobilga-aylantirdi-f1f8fd",
     "title": "Audi A2 modelini elektromobilga aylantirdi",

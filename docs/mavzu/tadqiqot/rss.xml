@@ -5,7 +5,7 @@
   <link>https://ailenta.uz/mavzu/tadqiqot/</link>
   <description>&quot;tadqiqot&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Mon, 07 Sep 2026 15:02:50 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 07 Sep 2026 15:07:44 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/tadqiqot/rss.xml" rel="self" type="application/rss+xml"/>
   <item>
     <title>Alibaba haydash uchun Qwen-Drive 1.0 modelini chiqardi</title>
@@ -16,6 +16,16 @@
     <category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/alibaba-haydash-uchun-qwen-drive-1-0-modelini-chiqardi-ff441b.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/alibaba-haydash-uchun-qwen-drive-1-0-modelini-chiqardi-ff441b.jpg"/>
+  </item>
+  <item>
+    <title>Kamil Gadeevning promp-injiniring kitobi</title>
+    <link>https://ailenta.uz/x/kamil-gadeevning-promp-injiniring-kitobi-b1cfeb/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/kamil-gadeevning-promp-injiniring-kitobi-b1cfeb/</guid>
+    <pubDate>Mon, 07 Sep 2026 11:38:51 GMT</pubDate>
+    <description>Kamil Gadeevning katta til modellariga (LLM) va sun'iy intellektga bag'ishlangan kitobi nashr etildi. Unda promp-injiniring, AI to'qib chiqarishlari va mashinadan samarali javob olish usullari ko'rib chiqiladi.</description>
+    <category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/kamil-gadeevning-promp-injiniring-kitobi-b1cfeb.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/kamil-gadeevning-promp-injiniring-kitobi-b1cfeb.jpg"/>
   </item>
   <item>
     <title>AI yordamida yaratilgan dori qarishni sekinlashtirishi mumkin</title>
@@ -296,16 +306,6 @@
     <category>mehnat bozori</category><category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/ai-tomonidan-almashtirilishi-mumkin-bo-lgan-10-kasb-005882.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/ai-tomonidan-almashtirilishi-mumkin-bo-lgan-10-kasb-005882.jpg"/>
-  </item>
-  <item>
-    <title>GPT-6 Astra modeli sinovdan o'tkazildi</title>
-    <link>https://ailenta.uz/x/gpt-6-astra-modeli-sinovdan-otkazildi-b3b9e9/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/gpt-6-astra-modeli-sinovdan-otkazildi-b3b9e9/</guid>
-    <pubDate>Fri, 04 Sep 2026 23:59:05 GMT</pubDate>
-    <description>Simon Willison GPT-6 Astra modelini sinovdan o'tkazib, undan turli darajadagi mulohazalar bilan SVG tasvirlarini yaratdi. U Astra natijalarini GPT-5.6 Sol, Terra va Luna modellarining natijalari bilan solishtirdi.</description>
-    <category>OpenAI</category><category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/gpt-6-astra-modeli-sinovdan-otkazildi-b3b9e9.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/gpt-6-astra-modeli-sinovdan-otkazildi-b3b9e9.jpg"/>
   </item>
 </channel>
 </rss>
