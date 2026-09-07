@@ -1,5 +1,72 @@
 [
   {
+    "id": "ec7f3bc8928a",
+    "slug": "dolli-partonning-singlisi-ai-kontentni-toxtatishni-soradi-ec7f3b",
+    "title": "Dolli Partonning singlisi AI kontentni to'xtatishni so'radi",
+    "summary": "Xonanda Dolli Parton avgust oyi oxirida vafot etganidan beri internetda uning ovozi va qiyofasi aks etgan o'nlab AI qo'shiqlar, tasvirlar va videolar paydo bo'ldi. Uning singlisi bunday sun'iy intellekt mahsulotlarini tarqatishni to'xtatishni talab qilmoqda.",
+    "tags": [
+      "maxfiylik"
+    ],
+    "importance": 2,
+    "score": 23,
+    "published": "2026-09-07T11:30:27.000Z",
+    "created": "2026-09-07T13:01:25.180Z",
+    "coverage": 1,
+    "source": {
+      "name": "BBC News",
+      "url": "https://bbc.co.uk/news/articles/c1wxppnrqlqo?at_medium=RSS&at_campaign=rss",
+      "title": "Dolly Parton's sister pleads for end to 'AI garbage' posts after singer's death",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "ff441b409cce",
+    "slug": "alibaba-haydash-uchun-qwen-drive-1-0-modelini-chiqardi-ff441b",
+    "title": "Alibaba haydash uchun Qwen-Drive 1.0 modelini chiqardi",
+    "summary": "Alibaba tadqiqot bo'limi transportni boshqarish va yo'nalishni rejalashtirish uchun Qwen-Drive 1.0 modelini taqdim etdi. Model tormozlash sababini tushuntira oladi, biroq uning izohi harakatga mos kelmasligi mumkin. Tizim uch o'lchamli makonni anglash uchun maxsus o'qitilgan.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 21,
+    "published": "2026-09-07T12:15:54.000Z",
+    "created": "2026-09-07T13:01:25.181Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/qwen-drive-1-0-tells-you-why-it-brakes-just-dont-expect-the-explanation-to-match-the-maneuver",
+      "title": "Qwen-Drive 1.0 tells you why it brakes, just don&#039;t expect the explanation to match the maneuver",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "31a9470554d2",
+    "slug": "hut-8-kompaniyasi-7-5-milliard-dollar-moliyalashtirish-oldi-31a947",
+    "title": "Hut 8 kompaniyasi 7,5 milliard dollar moliyalashtirish oldi",
+    "summary": "Hut 8 kompaniyasi sun'iy intellektga o'tishni tezlashtirish uchun 7,5 milliard dollar moliyaviy mablag' jalb qildi. Bu kelishuv Anthropic bilan bog'liq bo'lib, uning qiymati 35 milliard dollarni tashkil etadi.",
+    "tags": [
+      "Anthropic",
+      "biznes"
+    ],
+    "importance": 4,
+    "score": 16,
+    "published": "2026-09-07T11:42:25.000Z",
+    "created": "2026-09-07T13:01:25.182Z",
+    "coverage": 2,
+    "source": {
+      "name": "Dealroom",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUWZkNDRYLXREd1JVZHUza3VNenhUeGF2WFhGUngtUEVWNDVaZzFaMkczUEFaa25MYjZJbkYxT1kyUHZvcXNhcG9lR0x3Y2oxU05aUE4ycHZjU25Nb0FXWDdOd2RDWUdldHZPTXNZbU5ESjR3S2hhdXQ5cktXU1dvbTBJUHNVZ0d6aDN6MGpqb2hGVkRDQWRoQjVGM2ZFTlR6TTJZZUhsOVVwOW8wVEhxOQ",
+      "title": "Hut 8 lands $7.5B financing as AI pivot accelerates with Anthropic-linked deal",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "465251a58a2f",
     "slug": "datavolt-saudiya-arabistonini-ai-markaziga-aylantirmoqchi-465251",
     "title": "DataVolt Saudiya Arabistonini AI markaziga aylantirmoqchi",
