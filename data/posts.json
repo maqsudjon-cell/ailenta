@@ -1,22 +1,22 @@
 [
   {
-    "id": "269af7f78268",
-    "slug": "jensen-huang-agi-yetib-kelganini-malum-qildi-269af7",
-    "title": "Jensen Huang AGI yetib kelganini ma'lum qildi",
-    "summary": "Nvidia bosh direktori Jensen Huang sun'iy umumiy intellekt (AGI) yetib kelganini aytdi va OpenAI kompaniyasini tabrikladi. U ushbu fikrni OpenAI o'zining eng yangi va kuchli Astra modelini taqdim etganidan bir necha kun o'tib bildirdi.",
+    "id": "cd5a15547d76",
+    "slug": "google-ob-havoni-aniqlovchi-yangi-modelni-taqdim-etdi-cd5a15",
+    "title": "Google ob-havoni aniqlovchi yangi modelni taqdim etdi",
+    "summary": "Google Research va DeepMind fizika simulyatsiyalarisiz, to'g'ridan-to'g'ri sun'iy yo'ldosh ma'lumotlaridan o'rganuvchi WeatherNext 3 modelini chiqardi. U besh kilometrgacha aniqlikda har soatlik prognozlarni taqdim etadi.",
     "tags": [
-      "Nvidia",
-      "OpenAI"
+      "Google",
+      "tadqiqot"
     ],
-    "importance": 4,
-    "score": 24,
-    "published": "2026-09-06T22:59:32.000Z",
-    "created": "2026-09-07T00:01:20.255Z",
+    "importance": 3,
+    "score": 17.4,
+    "published": "2026-09-06T10:36:35.000Z",
+    "created": "2026-09-07T00:03:39.755Z",
     "coverage": 1,
     "source": {
-      "name": "Business Insider",
-      "url": "https://businessinsider.com/nvidia-jensen-huang-agi-openai-astra-ai-2026-9",
-      "title": "Nvidia's Jensen Huang says 'AGI has arrived' and congratulates OpenAI",
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/googles-weathernext-3-ditches-physics-simulations-and-learns-weather-directly-from-live-satellite-data",
+      "title": "Google&#039;s WeatherNext 3 ditches physics simulations and learns weather directly from live satellite data",
       "indirect": false
     },
     "also": [],

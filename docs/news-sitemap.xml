@@ -2,17 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
-    <loc>https://ailenta.uz/x/jensen-huang-agi-yetib-kelganini-malum-qildi-269af7/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>AI Lenta</news:name>
-        <news:language>uz</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-06T22:59:32.000Z</news:publication_date>
-      <news:title>Jensen Huang AGI yetib kelganini ma'lum qildi</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://ailenta.uz/x/kodlash-va-ai-agentlariga-yonaltirilgan-grok-4-5-chiqdi-b3237a/</loc>
     <news:news>
       <news:publication>
@@ -241,6 +230,17 @@
       </news:publication>
       <news:publication_date>2026-09-06T11:00:03.000Z</news:publication_date>
       <news:title>AI va bolalar: Ota-onalar uchun muhim ma'lumotlar</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://ailenta.uz/x/google-ob-havoni-aniqlovchi-yangi-modelni-taqdim-etdi-cd5a15/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>AI Lenta</news:name>
+        <news:language>uz</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-06T10:36:35.000Z</news:publication_date>
+      <news:title>Google ob-havoni aniqlovchi yangi modelni taqdim etdi</news:title>
     </news:news>
   </url>
   <url>
@@ -1242,17 +1242,6 @@
       </news:publication>
       <news:publication_date>2026-09-05T00:10:00.000Z</news:publication_date>
       <news:title>Copilot yangiliklarni kamdan-kam takrorlashi aniqlandi</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://ailenta.uz/x/nvidia-dlss-5ni-eski-rtx-40-seriyali-gpularga-olib-keladi-782c35/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>AI Lenta</news:name>
-        <news:language>uz</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-05T00:05:21.000Z</news:publication_date>
-      <news:title>Nvidia DLSS 5'ni eski RTX 40-seriyali GPUlarga olib keladi</news:title>
     </news:news>
   </url>
 </urlset>
