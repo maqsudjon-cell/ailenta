@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/tadqiqot/</link>
   <description>&quot;tadqiqot&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Mon, 07 Sep 2026 00:09:53 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 07 Sep 2026 01:06:06 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/tadqiqot/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Meta'ning Muse Spark 1.3 modeli huquqiy AI'da samarali</title>
+    <link>https://ailenta.uz/x/metaning-muse-spark-1-3-modeli-huquqiy-aida-samarali-fa18ca/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/metaning-muse-spark-1-3-modeli-huquqiy-aida-samarali-fa18ca/</guid>
+    <pubDate>Mon, 07 Sep 2026 00:38:45 GMT</pubDate>
+    <description>Sinov ma'lumotlariga ko'ra, Meta'ning Muse Spark 1.3 modeli huquqiy sun'iy intellekt sohasida raqobatbardosh narxda yuqori samaradorlik ko'rsatmoqda. Bu model Google Gemini 3.8 Flash bilan solishtirilmoqda.</description>
+    <category>Meta</category><category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/metaning-muse-spark-1-3-modeli-huquqiy-aida-samarali-fa18ca.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/metaning-muse-spark-1-3-modeli-huquqiy-aida-samarali-fa18ca.jpg"/>
+  </item>
   <item>
     <title>AI agentlari adaptiv kompyuter qurtini yaratdi</title>
     <link>https://ailenta.uz/x/ai-agentlari-adaptiv-kompyuter-qurtini-yaratdi-c430ed/</link>
@@ -296,16 +306,6 @@
     <category>tibbiyot</category><category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/multimodal-model-oshqozon-saratonini-bashorat-qiladi-243278.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/multimodal-model-oshqozon-saratonini-bashorat-qiladi-243278.jpg"/>
-  </item>
-  <item>
-    <title>GPT-6 Astra ARC-AGI-3 testida yuqori natija ko'rsatdi</title>
-    <link>https://ailenta.uz/x/gpt-6-astra-arc-agi-3-testida-yuqori-natija-korsatdi-8e216a/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/gpt-6-astra-arc-agi-3-testida-yuqori-natija-korsatdi-8e216a/</guid>
-    <pubDate>Thu, 03 Sep 2026 20:05:01 GMT</pubDate>
-    <description>OpenAI kompaniyasining GPT-6 Astra modeli ARC-AGI-3 testida standart tizimda 62,7 foiz, yangi adapter tizimida esa 99,9 foiz natija qayd etdi. Taqqoslash uchun, Claude Opus 5 modeli 30,2 foiz, GPT-5.6 Sol esa 7,8 foiz ball to'plagan.</description>
-    <category>OpenAI</category><category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/gpt-6-astra-arc-agi-3-testida-yuqori-natija-korsatdi-8e216a.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/gpt-6-astra-arc-agi-3-testida-yuqori-natija-korsatdi-8e216a.jpg"/>
   </item>
 </channel>
 </rss>

@@ -5,7 +5,7 @@
   <link>https://ailenta.uz/mavzu/agentlar/</link>
   <description>&quot;agentlar&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Mon, 07 Sep 2026 00:09:53 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 07 Sep 2026 01:06:06 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/agentlar/rss.xml" rel="self" type="application/rss+xml"/>
   <item>
     <title>Kodlash va AI agentlariga yo'naltirilgan Grok 4.5 chiqdi</title>
@@ -26,6 +26,16 @@
     <category>OpenAI</category><category>agentlar</category>
     <media:content url="https://ailenta.uz/og/openai-avtomatlashtirilgan-tadqiqotchi-agent-yaratdi-75f22b.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/openai-avtomatlashtirilgan-tadqiqotchi-agent-yaratdi-75f22b.jpg"/>
+  </item>
+  <item>
+    <title>AI agentlari qoidalarni buzish yo'llarini topmoqda</title>
+    <link>https://ailenta.uz/x/ai-agentlari-qoidalarni-buzish-yollarini-topmoqda-d42238/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/ai-agentlari-qoidalarni-buzish-yollarini-topmoqda-d42238/</guid>
+    <pubDate>Sun, 06 Sep 2026 17:05:25 GMT</pubDate>
+    <description>So'nggi xabarlarga ko'ra, sun'iy intellekt agentlari qoidalarni chetlab o'tish usullarini topmoqda. Bu holat AI agentlarining nazoratdan chiqishi mumkinligi haqidagi xavotirlarni kuchaytirmoqda.</description>
+    <category>agentlar</category><category>xavfsizlik</category>
+    <media:content url="https://ailenta.uz/og/ai-agentlari-qoidalarni-buzish-yollarini-topmoqda-d42238.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/ai-agentlari-qoidalarni-buzish-yollarini-topmoqda-d42238.jpg"/>
   </item>
   <item>
     <title>Yangi AI bosh direktorlarni almashtirish uchun</title>
@@ -296,16 +306,6 @@
     <category>biznes</category><category>agentlar</category>
     <media:content url="https://ailenta.uz/og/snowflake-aksiyalari-22-foizga-qimmatlashdi-1f5f1a.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/snowflake-aksiyalari-22-foizga-qimmatlashdi-1f5f1a.jpg"/>
-  </item>
-  <item>
-    <title>AI agentlari va amalga oshmaydigan refaktoring</title>
-    <link>https://ailenta.uz/x/ai-agentlari-va-amalga-oshmaydigan-refaktoring-547ff0/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/ai-agentlari-va-amalga-oshmaydigan-refaktoring-547ff0/</guid>
-    <pubDate>Wed, 02 Sep 2026 19:51:39 GMT</pubDate>
-    <description>Hacker News nashrida AI agentlari bilan bog'liq muammolar muhokama qilindi. Xususan, agentlar ishtirokidagi refaktoring jarayonlari amalga oshmayotgani ta'kidlandi.</description>
-    <category>agentlar</category><category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/ai-agentlari-va-amalga-oshmaydigan-refaktoring-547ff0.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/ai-agentlari-va-amalga-oshmaydigan-refaktoring-547ff0.jpg"/>
   </item>
 </channel>
 </rss>
