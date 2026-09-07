@@ -1,31 +1,9 @@
 [
   {
-    "id": "ec7f3bc8928a",
-    "slug": "dolli-partonning-singlisi-ai-postlarini-toxtatishni-soradi-ec7f3b",
-    "title": "Dolli Partonning singlisi AI postlarini to'xtatishni so'radi",
-    "summary": "Xonandaning avgust oyi oxiridagi vafotidan keyin internetda o'nlab AI orqali yaratilgan qo'shiqlar, rasm va videolar paydo bo'ldi. Uning singlisi bunday kontentlarni tarqatishni to'xtatishga chaqirdi.",
-    "tags": [
-      "maxfiylik"
-    ],
-    "importance": 2,
-    "score": 23,
-    "published": "2026-09-07T11:30:27.000Z",
-    "created": "2026-09-07T12:03:41.754Z",
-    "coverage": 1,
-    "source": {
-      "name": "BBC News",
-      "url": "https://bbc.co.uk/news/articles/c1wxppnrqlqo?at_medium=RSS&at_campaign=rss",
-      "title": "Dolly Parton's sister pleads for end to 'AI garbage' posts after singer's death",
-      "indirect": false
-    },
-    "also": [],
-    "model": "gemini"
-  },
-  {
     "id": "465251a58a2f",
-    "slug": "saudiya-arabistoni-global-ai-markaziga-aylanmoqchi-465251",
-    "title": "Saudiya Arabistoni global AI markaziga aylanmoqchi",
-    "summary": "DataVolt kompaniyasi Saudiya Arabistonini global AI markaziga aylantirish maqsadida qiymati 1 milliard dollarlik ma'lumotlar markazini qurish vaqtini qisqartirishga intilmoqda. Kompaniya NEOM loyihasidan hisoblash quvvatlarini eksport qilishni rejalashtirmoqda.",
+    "slug": "datavolt-saudiya-arabistonini-ai-markaziga-aylantirmoqchi-465251",
+    "title": "DataVolt Saudiya Arabistonini AI markaziga aylantirmoqchi",
+    "summary": "Saudiya Arabistonining DataVolt kompaniyasi NEOM loyihasidagi 1 milliard dollarlik ma'lumotlar markazini tezroq qurishga intilmoqda. Kompaniya ushbu loyiha orqali mamlakatni global AI markaziga aylantirishni maqsad qilgan.",
     "tags": [
       "biznes",
       "bulut"
@@ -33,7 +11,7 @@
     "importance": 3,
     "score": 22,
     "published": "2026-09-07T11:14:09.000Z",
-    "created": "2026-09-07T12:03:41.755Z",
+    "created": "2026-09-07T12:06:24.393Z",
     "coverage": 1,
     "source": {
       "name": "Semafor",
@@ -46,9 +24,9 @@
   },
   {
     "id": "1db1236fdcd1",
-    "slug": "ineffable-intelligence-olti-nafar-hammuassisni-yolladi-1db123",
-    "title": "Ineffable Intelligence olti nafar hammuassisni yolladi",
-    "summary": "Qiymati 5 milliard dollarga baholangan Ineffable Intelligence startapi Google DeepMind, InstaDeep va Flying Fish kompaniyalaridan mutaxassislarni yolladi. Startap DeepMind o'yin AI'larida qo'llagan usullar yordamida o'ta kuchli intellekt yaratishni maqsad qilgan.",
+    "slug": "ineffable-intelligence-olti-yangi-hammuassisni-yolladi-1db123",
+    "title": "Ineffable Intelligence olti yangi hammuassisni yolladi",
+    "summary": "5 milliard dollarga baholangan Ineffable Intelligence startapi oltita yangi hammuassisni ishga oldi. Ular orasida Google DeepMind va InstaDeep faxriylari bor. Kompaniya o'yin AI tizimlarida qo'llangan usullar yordamida superintellekt yaratmoqchi.",
     "tags": [
       "Google",
       "biznes"
@@ -56,7 +34,7 @@
     "importance": 3,
     "score": 22,
     "published": "2026-09-07T10:35:55.000Z",
-    "created": "2026-09-07T12:03:41.756Z",
+    "created": "2026-09-07T12:06:24.393Z",
     "coverage": 1,
     "source": {
       "name": "Fortune",
@@ -69,16 +47,16 @@
   },
   {
     "id": "388c0912b384",
-    "slug": "donald-tramp-ai-rasmlari-va-bayonotlar-elon-qildi-388c09",
-    "title": "Donald Tramp AI rasmlari va bayonotlar e'lon qildi",
-    "summary": "AQSh Prezidenti Donald Tramp yakshanba kuni Truth Social tarmog'ida AI yordamida yaratilgan rasmlar va tasdiqlanmagan da'volarni joylashtirdi. U o'z postlarida AQSh uchun aksiyalardan yuzlab milliard dollar ishlab topganini ta'kidladi.",
+    "slug": "donald-tramp-ai-rasmlar-va-tasdiqlanmagan-davolarni-joyladi-388c09",
+    "title": "Donald Tramp AI rasmlar va tasdiqlanmagan da'volarni joyladi",
+    "summary": "AQSh Prezidenti Donald Tramp Truth Social tarmog'ida AI yordamida yaratilgan rasmlarni joylashtirdi. Shuningdek, u AQSh uchun aksiyalardan yuzlab milliard dollar ishlab topgani haqida tasdiqlanmagan da'volarni ilgari surdi.",
     "tags": [
       "siyosat"
     ],
     "importance": 3,
     "score": 19,
     "published": "2026-09-07T11:49:54.000Z",
-    "created": "2026-09-07T12:03:41.757Z",
+    "created": "2026-09-07T12:06:24.394Z",
     "coverage": 1,
     "source": {
       "name": "CNBC",
