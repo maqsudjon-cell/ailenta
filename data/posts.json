@@ -1,17 +1,40 @@
 [
   {
+    "id": "ce43b63790d7",
+    "slug": "ai-yordamida-yaratilgan-dori-qarishni-sekinlashtirishi-mumki-ce43b6",
+    "title": "AI yordamida yaratilgan dori qarishni sekinlashtirishi mumkin",
+    "summary": "Sun'iy intellekt yordamida kam uchraydigan o'pka kasalligi uchun rentosertib nomli dori nomzodi ishlab chiqildi. Ishlab chiqaruvchining ta'kidlashicha, bu dori qarishning biologik belgilarini ham kamaytirishi mumkin.",
+    "tags": [
+      "tibbiyot",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 30,
+    "published": "2026-09-07T09:04:03.000Z",
+    "created": "2026-09-07T09:14:38.313Z",
+    "coverage": 1,
+    "source": {
+      "name": "The New York Times",
+      "url": "https://nytimes.com/2026/09/07/science/ai-generated-drug-longevity.html",
+      "title": "Early Data Indicates an A.I.-Generated Drug Could Slow Aging",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "dc414062a80c",
     "slug": "nvidia-hugging-faceni-sotib-olishi-ai-sanoatini-ozgartirishi-dc4140",
     "title": "Nvidia Hugging Face'ni sotib olishi AI sanoatini o'zgartirishi mumkin",
-    "summary": "Nvidia'ning Hugging Face'ni sotib olishi AI sanoatida yangi davrni boshlashi mumkin. Bu harakat sohani yanada bo'lingan va yopiq rivojlanishga olib kelishi mumkin.",
+    "summary": "Nvidia kompaniyasining Hugging Face'ni sotib olishi sun'iy intellekt sanoatida yangi davrni boshlashi mumkin. Bu harakat AI rivojlanishini yanada bo'laklarga bo'lib, izolyatsiya qilingan holatga keltirishi mumkin.",
     "tags": [
       "Nvidia",
-      "biznes"
+      "Hugging Face"
     ],
     "importance": 4,
     "score": 22,
     "published": "2026-09-07T05:30:00.000Z",
-    "created": "2026-09-07T09:06:46.280Z",
+    "created": "2026-09-07T09:14:48.682Z",
     "coverage": 1,
     "source": {
       "name": "The Register",
@@ -23,18 +46,41 @@
     "model": "gemini"
   },
   {
+    "id": "750eb21a73ba",
+    "slug": "anthropicning-kichik-jamoasi-yomon-goyalarni-tez-yoq-qiladi-750eb2",
+    "title": "Anthropic'ning kichik jamoasi yomon g'oyalarni tez yo'q qiladi",
+    "summary": "Anthropic Labs nomli kichik jamoa kompaniyaning Claude Code kabi eng yirik loyihalarini yaratgan. Jamoa yomon g'oyalarni tezda bartaraf etib, doimiy ravishda yangi loyihalarni boshlashga qaratilgan.",
+    "tags": [
+      "Anthropic",
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 18,
+    "published": "2026-09-07T09:00:01.000Z",
+    "created": "2026-09-07T09:18:00.969Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/anthropic-labs-team-ai-innovation-ipo-2026-9",
+      "title": "Inside the tiny Anthropic team designed to kill bad ideas fast and keep starting over",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "8c49466ae10b",
     "slug": "linux-foundation-token-xarajatlarini-boshqarish-uchun-yangi--8c4946",
-    "title": "Linux Foundation token xarajatlarini boshqarish uchun yangi tizim taklif qildi",
-    "summary": "Linux Foundation Tokenomics Foundation'ni ishga tushirdi. U \"Big-T Notation\" nomli tizimni taqdim etdi. Bu tizim LLM va agent tizimlarida token xarajatlarini baholash va boshqarishga yordam beradi.",
+    "title": "Linux Foundation token xarajatlarini boshqarish uchun yangi notatsiya taklif qildi",
+    "summary": "Linux Foundation qoshida Tokenomics Foundation tashkil etildi. Ushbu fond LLM va agent tizimlarida token xarajatlarini baholash va boshqarish uchun \"Big-T Notation\" nomli yangi tizimni taqdim etdi.",
     "tags": [
       "tadqiqot",
       "biznes"
     ],
-    "importance": 3,
+    "importance": 2,
     "score": 14,
     "published": "2026-09-07T08:27:46.000Z",
-    "created": "2026-09-07T09:09:29.122Z",
+    "created": "2026-09-07T09:21:00.338Z",
     "coverage": 1,
     "source": {
       "name": "Habr",
@@ -47,9 +93,9 @@
   },
   {
     "id": "919d59dc2c19",
-    "slug": "qwen-modelining-vazifalarni-bajarishdagi-qiyinchiliklari-919d59",
-    "title": "Qwen modelining vazifalarni bajarishdagi qiyinchiliklari",
-    "summary": "Qwen3.6 modeli handoff vazifasini bajarishda qiynalib, doimiy \"mulohazalarga\" kirishib ketdi. Qwen3.8-27B modelini tezlashtirish uchun og'irliklarini kamaytirish (kvantizatsiya) muhimligi aniqlandi.",
+    "slug": "qwen3-6-modeli-vazifani-bajarishda-ortiqcha-oylash-muammosig-919d59",
+    "title": "Qwen3.6 modeli vazifani bajarishda \"ortiqcha o'ylash\" muammosiga duch keldi",
+    "summary": "Qwen3.6 AI modeli standart vazifani bajarishda \"ortiqcha o'ylash\" tufayli muvaffaqiyatsizlikka uchradi. Oldingi tadqiqotlar Qwen3.8-27B modelining tezligini oshirish uchun og'irliklarini kamaytirish (kvantlash) muhimligini ko'rsatgan edi.",
     "tags": [
       "tadqiqot",
       "ochiq model"
@@ -57,58 +103,13 @@
     "importance": 2,
     "score": 14,
     "published": "2026-09-07T08:23:28.000Z",
-    "created": "2026-09-07T09:09:29.122Z",
+    "created": "2026-09-07T09:21:05.891Z",
     "coverage": 1,
     "source": {
       "name": "Habr",
       "url": "https://habr.com/ru/articles/1079274",
       "title": "Дело о лишних размышлениях: почему вредно много думать",
       "indirect": false
-    },
-    "also": [],
-    "model": "gemini"
-  },
-  {
-    "id": "69187f22aad8",
-    "slug": "protomex-ai-modellarini-tushuntirish-uchun-yangi-usul-69187f",
-    "title": "ProToMEx AI modellarini tushuntirish uchun yangi usul",
-    "summary": "Tadqiqotchilar ProToMEx nomli yangi tushuntirish paradigmasini taqdim etdi. U ehtimollik mavzu modellaridan foydalanib, mashina o'rganish tasniflagichlari uchun tez va tushunarli izohlar beradi.",
-    "tags": [
-      "tadqiqot"
-    ],
-    "importance": 3,
-    "score": 10,
-    "published": "2026-09-07T04:00:00.000Z",
-    "created": "2026-09-07T09:09:29.123Z",
-    "coverage": 1,
-    "source": {
-      "name": "arXiv cs.LG",
-      "url": "https://arxiv.org/abs/2609.04265",
-      "title": "ProToMEx: Rapid, Interpretable Explanations via Structured Representations",
-      "indirect": false
-    },
-    "also": [],
-    "model": "gemini"
-  },
-  {
-    "id": "793bb12a6ad0",
-    "slug": "aqsh-prezidenti-anthropic-texnologiyasini-toxtatishni-buyurd-793bb1",
-    "title": "AQSH Prezidenti Anthropic texnologiyasini to'xtatishni buyurdi",
-    "summary": "AQSH Prezidenti federal agentliklarga Anthropic kompaniyasi texnologiyasidan foydalanishni zudlik bilan to'xtatishni buyurdi. Bu qarorning sabablari matnda keltirilmagan.",
-    "tags": [
-      "Anthropic",
-      "siyosat"
-    ],
-    "importance": 5,
-    "score": 8.6,
-    "published": "2026-09-06T17:32:39.000Z",
-    "created": "2026-09-07T09:10:34.993Z",
-    "coverage": 1,
-    "source": {
-      "name": "News On AIR",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQb2xWRXdteWtDNEZJSlJQa1FCMWtZUV9lTnNyWVlOMmpRcWktX3VMbk1lZ1pfWVFrYl9TeUg3eHl0TGNFQl9SMTd0TTRiMFlXXzJwcnRhM0VMSEU0Ti1fMnBCdkJCWnVpNmc4SktNLXZMNm9mUUtmRnpYQW9hUHZwTzUtamdWUVhxVUtfSk04MmlzMW1yOTU5ZVI2WEZOSmhLOVZ1ZUpUT25feURLWHZQYkRGYkdzcVMya2xGT09lc1hJOHhRcnFLRkdlY1pxY090amlJNjR0YTRUUTg",
-      "title": "US President directes federal agencies ederal agency to immediately stop using technology from AI developer Anthropic | Akashvani News",
-      "indirect": true
     },
     "also": [],
     "model": "gemini"
