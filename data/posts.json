@@ -1,5 +1,256 @@
 [
   {
+    "id": "8cb049985dbb",
+    "slug": "bytedance-asoschisi-ai-elitasiga-qoshildi-8cb049",
+    "title": "ByteDance asoschisi AI elitasiga qo'shildi",
+    "summary": "ByteDance asoschisi sun'iy intellekt elitasiga qo'shilib, \"world models\"ni takomillashtirish poygasida ishtirok etmoqda. Bu haqda Bloomberg xabar berdi.",
+    "tags": [
+      "ByteDance",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 33,
+    "published": "2026-09-07T12:25:45.000Z",
+    "created": "2026-09-07T20:01:15.580Z",
+    "coverage": 2,
+    "source": {
+      "name": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbTNscGYxNUFIUms5a0tuUG5scnBtam96SUNVVk14OUtIZFNzOGxQZnNUTWw5SERDdjBweldhWXA3SWxZRUgwYW1aTXFjeWtPSERWTU85cGJSV3lJY1hJRU1WUVc2V01PUEU5V0NEb1AzNkFpek82dUVTM1hGaUlJWWhRX0cwZGtSck1mWVRZOTRmOFVDaUJNWEh2SXJ4b2VfNGYtVTJsWkFmWXNUdVFxRFVLamxkUQ",
+      "title": "ByteDance Founder Joins AI Elite in Race to Perfect World Models",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "375e038f05f3",
+    "slug": "ai-atamalari-lugati-elon-qilindi-375e03",
+    "title": "AI atamalari lug'ati e'lon qilindi",
+    "summary": "Sun'iy intellektning rivojlanishi bilan yangi atamalar paydo bo'lmoqda. TechCrunch nashri eng muhim AI atamalari va iboralarining lug'atini taqdim etdi.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 21,
+    "published": "2026-09-07T19:24:00.000Z",
+    "created": "2026-09-07T20:01:15.582Z",
+    "coverage": 2,
+    "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms",
+      "title": "Opaque recurrence, and other AI terms that you should probably know",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "94546cf0fde7",
+    "slug": "muse-spark-1-3-ai-ish-oqimi-vositasi-taqdim-etildi-94546c",
+    "title": "Muse Spark 1.3 AI ish oqimi vositasi taqdim etildi",
+    "summary": "Muse Spark 1.3 uzoq muddatli ish oqimlari uchun mo'ljallangan sun'iy intellekt vositasi sifatida taqdim etildi. Bu haqda Dynamic Business xabar berdi.",
+    "tags": [
+      "biznes",
+      "agentlar"
+    ],
+    "importance": 2,
+    "score": 7,
+    "published": "2026-09-07T19:19:18.000Z",
+    "created": "2026-09-07T20:01:15.583Z",
+    "coverage": 1,
+    "source": {
+      "name": "Dynamic Business",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUWU5dWN1bmRhcndYYV9oemhXM29qdEE5RnhucFB1N3VrTHV1S0dPb1lZZDhBOHV3VmthYTdpbTYxdjlMbjJYdllvZnJrWXBEWDJqLXdKRzNDQkU3Ylg3ZjlGZTJSMUd2RnlNQkpFdjFpc3hPd0FNZnVrOEZoUkVQdVNrdEJua1k",
+      "title": "Muse Spark 1.3: AI Long-Horizon Workflow Tool",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "e1420823ad61",
+    "slug": "meta-yangi-nutq-dvigatelini-taqdim-etdi-e14208",
+    "title": "Meta yangi nutq dvigatelini taqdim etdi",
+    "summary": "Meta kompaniyasi har 80 millisekundda nutqni transkripsiya qiluvchi yangi dvigatelni chiqardi. U doimiy ishlaydigan AI ko'zoynaklari uchun mo'ljallangan.",
+    "tags": [
+      "Meta",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 7,
+    "published": "2026-09-07T18:23:21.000Z",
+    "created": "2026-09-07T20:01:15.584Z",
+    "coverage": 1,
+    "source": {
+      "name": "eGamers.io",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMDN2YnNoSU84d3F5LXVlQ2IxU1lzWmFpeHJMamxmSnFFZXAzc2lZaHFIdV9tR2ppN2MwRGk3YUhzQVozV2lHUHNwM1BqVjVrZl9HY05lejE2OThHUm5pcjF4V0VCT1ExS053QUhVSWs2X3V0eEpoMU15S0tkUE14U2hjeVFjd3ZQTUNYU3lEek14RVpLWi1kVUZUX0JpUkVfSTBwLVg4UWFNMlZpcVBkSUhzR3FQTmJJaDhYdTBDZm9CZw",
+      "title": "Meta’s new speech engine transcribes every 80 milliseconds — and it’s aimed squarely at always-on AI glasses",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "91b66e54a3d0",
+    "slug": "nvidia-xitoy-bozoriga-qaytdi-91b66e",
+    "title": "Nvidia Xitoy bozoriga qaytdi",
+    "summary": "Nvidia kompaniyasi nihoyat Xitoy bozoriga qaytdi. Biroq, bu qaytishda ba'zi cheklovlar mavjudligi aytilmoqda.",
+    "tags": [
+      "Nvidia",
+      "biznes"
+    ],
+    "importance": 4,
+    "score": 7,
+    "published": "2026-09-07T16:47:00.000Z",
+    "created": "2026-09-07T20:01:15.584Z",
+    "coverage": 1,
+    "source": {
+      "name": "bgr.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5vcDd4TmJvN3pKR1g0X0NnWVBHTjVFT3hkMTk4LUM2UWRnXzBiZUs2Q1IyZGhhTHd1N2JDWWk0TG1HRnRqUW1jNHNoajhDSWZaWUlia1hwR1pfYTVQUHZXd3UzaGxzMVBnWjktWWV2QlowVHRSWmc",
+      "title": "Nvidia Finally Breaks Back Into The Chinese Market, But There's A Catch",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "7745cac44813",
+    "slug": "janubiy-koreyaning-hamma-uchun-ai-tashabbusi-7745ca",
+    "title": "Janubiy Koreyaning 'Hamma uchun AI' tashabbusi",
+    "summary": "Janubiy Koreyaning \"Hamma uchun AI\" tashabbusi chip ishlab chiqaruvchilar uchun foydali. Biroq, u haqiqat devoriga duch kelishi mumkinligi aytilmoqda.",
+    "tags": [
+      "siyosat",
+      "chiplar"
+    ],
+    "importance": 3,
+    "score": 7,
+    "published": "2026-09-07T16:18:00.000Z",
+    "created": "2026-09-07T20:01:15.585Z",
+    "coverage": 1,
+    "source": {
+      "name": "24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNamxFaW5wS01TVzJlUmVSWEdlX1Foa3dJV29QMFdIUlc0XzNjQm9Kd0JRYWliOFBkXzRLblhJMTNuTnJvdFB4RUk3TlVoUmxqQmRmRFBTMWgyeHNaakFhZGNRMlpreVRrVVRtWFpNYUkxYWZuY1ZIMjQ5S3lkMmNPOGZzeTZCLU9YQjZBR1dzYkJWTVpudjVaSFpLdnpQLWtsVzRaSmRycmo3SnZRUnBHdjdJcXZ1N2JnQV9GTFBDWnJZY2xyOEtJ",
+      "title": "South Korea’s ‘AI for All’ Is Great for Chipmakers, but It Will Run Into Wall of Reality",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "bc12840a429c",
+    "slug": "ai-overviews-xarid-reklamalariga-tasir-qilishi-mumkin-bc1284",
+    "title": "AI Overviews xarid reklamalariga ta'sir qilishi mumkin",
+    "summary": "AI Overviews xarid reklamalarining CTR (bosish tezligi) va ko'rsatuvlariga ta'sir qilishi mumkin. Bu haqda Search Engine Land xabar berdi.",
+    "tags": [
+      "biznes",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 7,
+    "published": "2026-09-07T15:21:00.000Z",
+    "created": "2026-09-07T20:01:15.585Z",
+    "coverage": 1,
+    "source": {
+      "name": "Search Engine Land",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPei1LQ2NKczhhYVFoSjJtWHZsdy1kWjZkWlJEQXlaNFFBYWxQMTkwdHUzbGViWHNGS0NKSkNnamtTZ0NRSDgtY0dvUUpyb0Y2YUZqRC1VbXJuUDlZSXRkVzM0bzV4T2J2cDY4anRHTldMVXJCVm5PdGQteVdWc3JUN1F6MUJqSXd1cGthX1dWaXRuQW5CLU5yTUhaZUlVZw",
+      "title": "AI Overviews may be affecting Shopping ad CTR and impressions",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "04712a0dd430",
+    "slug": "arc-agi-95-5-korsatkichga-erishdi-04712a",
+    "title": "ARC-AGI 95.5% ko'rsatkichga erishdi",
+    "summary": "O'z-o'zini takomillashtiruvchi tizimlar ARC-AGI ko'rsatkichini 95.5% ga oshirdi. Bu haqda startuphub.ai xabar berdi.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 7,
+    "published": "2026-09-07T15:09:28.000Z",
+    "created": "2026-09-07T20:01:15.586Z",
+    "coverage": 1,
+    "source": {
+      "name": "startuphub.ai",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcmdXWkZzSEh3VU1XUElMTUUtOGtDNTZYUklMZ050V2FXQl9NR3FjRmo1RzlmNDhVTjh3eWUwWWR2Q0RRUnV5ZzdaM0tpYW9oZU9yc3pJV1FrUTZ3aEw4SVN4SzhiN0MzWVBjN0llbDQ3WThvUWRydV84QW5VZlJ3dlAwRVJ3RnA2dmtQaHlNRDAxeU5zT3VrVnVWcw",
+      "title": "Self-Improving Harnesses Push ARC-AGI to 95.5%",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "911a00aa672f",
+    "slug": "amd-ai-chip-ozgarishlari-ortida-turibdi-911a00",
+    "title": "AMD AI chip o'zgarishlari ortida turibdi",
+    "summary": "AMD kompaniyasi sun'iy intellekt chiplari sohasidagi o'zgarishlar ortida turibdi. Bu haqda 24/7 Wall St. xabar berdi.",
+    "tags": [
+      "AMD",
+      "chiplar"
+    ],
+    "importance": 3,
+    "score": 7,
+    "published": "2026-09-07T14:40:00.000Z",
+    "created": "2026-09-07T20:01:15.586Z",
+    "coverage": 1,
+    "source": {
+      "name": "24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMFlqMEpOOG55dkpQa2prSlUxckxJcFE0VWlSaFBSQjUxeEcxd1lpR1QxWUFkdVpZVFpZX0ZfcGp2WXlWazJrRGhCV3c0TkRnNnRraXEzM0JWU1V4X0FpTE9icXltTWxyb2FjOEFob090TmZRR1dBbEwxY1ctRk4zLWtVbk5vUk1YYmdoT3gxV2Vhc1FRZnlSSVJ5dWR1REh0",
+      "title": "AMD Is Behind The AI Chip Shift Nobody Is Talking About",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "ac332c261715",
+    "slug": "aqsh-lablari-xitoy-ai-yutuqlaridan-foydalanmoqda-ac332c",
+    "title": "AQSh lablari Xitoy AI yutuqlaridan foydalanmoqda",
+    "summary": "AQSh laboratoriyalari Xitoyning mustahkamlovchi o'rganish (reinforcement learning) sohasidagi AI yutuqlaridan foyda ko'rmoqda. Bu haqda cryptobriefing.com xabar berdi.",
+    "tags": [
+      "tadqiqot",
+      "siyosat"
+    ],
+    "importance": 3,
+    "score": 7,
+    "published": "2026-09-07T13:27:50.000Z",
+    "created": "2026-09-07T20:01:15.587Z",
+    "coverage": 1,
+    "source": {
+      "name": "cryptobriefing.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQnVQQVdMclQ4a3dwcThaNFgzdFVOSmJrUVFvUmdfcVl0cFNlLWtRWWpyVUE1VE5jZklBT01VUUZfaEZOZTVqNDUwU0wxZlY4RVRCR3lTSXdnRV90RzdZTFo1ZzhSQmVmMWFSdG8wTDZaZEU3R0xDaUltbHFrakJ1WXcyWENuUkdWbWJFbnppLTJ5dmJnQ1dRaU9PbmtMQTg",
+      "title": "US labs benefit from Chinese AI advancements in reinforcement learning",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "272908b275ad",
+    "slug": "nvidia-hyperscalerlarga-ehtiyoj-sezmasligi-mumkin-272908",
+    "title": "Nvidia hyperscalerlarga ehtiyoj sezmasligi mumkin",
+    "summary": "Nvidia kompaniyasi hyperscalerlarga ehtiyoj sezmasligini ko'rsatmoqda. Bu haqda Value The Markets xabar berdi.",
+    "tags": [
+      "Nvidia",
+      "bulut"
+    ],
+    "importance": 3,
+    "score": 7,
+    "published": "2026-09-07T11:39:52.000Z",
+    "created": "2026-09-07T20:01:15.588Z",
+    "coverage": 1,
+    "source": {
+      "name": "Value The Markets",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcDFiRFoxRVVXUUs2ZUx0aGluY2lTLVRHMm9LNFgyWFFlRFdMUnI1QUh6cXd5emdlQWlncHIwaTh5QnpFN3Nqd3U1Wk85cXJqQ0wyYTY0MDI5MWRSSXlZb1ctSl9jSWlRb0xZN1VXc1RLaGxDV2pnUVZmUU0xWTdkNlFhSmJDZkVBNmd2R0dWdktYcEU0U3F3",
+      "title": "Nvidia Shows It May Not Need Hyperscalers After All",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "8d9238dca598",
     "slug": "anthropic-labs-jamoasi-flagman-mahsulotlarni-ishlab-chiqmoqd-8d9238",
     "title": "Anthropic Labs jamoasi flagman mahsulotlarni ishlab chiqmoqda",
