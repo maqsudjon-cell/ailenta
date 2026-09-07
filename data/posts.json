@@ -1,5 +1,95 @@
 [
   {
+    "id": "ec7f3bc8928a",
+    "slug": "dolli-partonning-singlisi-ai-postlarini-toxtatishni-soradi-ec7f3b",
+    "title": "Dolli Partonning singlisi AI postlarini to'xtatishni so'radi",
+    "summary": "Xonandaning avgust oyi oxiridagi vafotidan keyin internetda o'nlab AI orqali yaratilgan qo'shiqlar, rasm va videolar paydo bo'ldi. Uning singlisi bunday kontentlarni tarqatishni to'xtatishga chaqirdi.",
+    "tags": [
+      "maxfiylik"
+    ],
+    "importance": 2,
+    "score": 23,
+    "published": "2026-09-07T11:30:27.000Z",
+    "created": "2026-09-07T12:03:41.754Z",
+    "coverage": 1,
+    "source": {
+      "name": "BBC News",
+      "url": "https://bbc.co.uk/news/articles/c1wxppnrqlqo?at_medium=RSS&at_campaign=rss",
+      "title": "Dolly Parton's sister pleads for end to 'AI garbage' posts after singer's death",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "465251a58a2f",
+    "slug": "saudiya-arabistoni-global-ai-markaziga-aylanmoqchi-465251",
+    "title": "Saudiya Arabistoni global AI markaziga aylanmoqchi",
+    "summary": "DataVolt kompaniyasi Saudiya Arabistonini global AI markaziga aylantirish maqsadida qiymati 1 milliard dollarlik ma'lumotlar markazini qurish vaqtini qisqartirishga intilmoqda. Kompaniya NEOM loyihasidan hisoblash quvvatlarini eksport qilishni rejalashtirmoqda.",
+    "tags": [
+      "biznes",
+      "bulut"
+    ],
+    "importance": 3,
+    "score": 22,
+    "published": "2026-09-07T11:14:09.000Z",
+    "created": "2026-09-07T12:03:41.755Z",
+    "coverage": 1,
+    "source": {
+      "name": "Semafor",
+      "url": "https://semafor.com/article/09/07/2026/saudi-arabian-data-center-firm-races-to-export-compute-from-neom",
+      "title": "Saudi Arabian data center firm races to export compute from NEOM",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "1db1236fdcd1",
+    "slug": "ineffable-intelligence-olti-nafar-hammuassisni-yolladi-1db123",
+    "title": "Ineffable Intelligence olti nafar hammuassisni yolladi",
+    "summary": "Qiymati 5 milliard dollarga baholangan Ineffable Intelligence startapi Google DeepMind, InstaDeep va Flying Fish kompaniyalaridan mutaxassislarni yolladi. Startap DeepMind o'yin AI'larida qo'llagan usullar yordamida o'ta kuchli intellekt yaratishni maqsad qilgan.",
+    "tags": [
+      "Google",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 22,
+    "published": "2026-09-07T10:35:55.000Z",
+    "created": "2026-09-07T12:03:41.756Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/09/07/ineffable-intelligence-hires-cofounders-hiring-google-deepmind-instadeep-flying-fish",
+      "title": "Ineffable Intelligence adds six ‘cofounders,’ hiring veterans from Google DeepMind, InstaDeep and venture firm Flying Fish",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "388c0912b384",
+    "slug": "donald-tramp-ai-rasmlari-va-bayonotlar-elon-qildi-388c09",
+    "title": "Donald Tramp AI rasmlari va bayonotlar e'lon qildi",
+    "summary": "AQSh Prezidenti Donald Tramp yakshanba kuni Truth Social tarmog'ida AI yordamida yaratilgan rasmlar va tasdiqlanmagan da'volarni joylashtirdi. U o'z postlarida AQSh uchun aksiyalardan yuzlab milliard dollar ishlab topganini ta'kidladi.",
+    "tags": [
+      "siyosat"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-09-07T11:49:54.000Z",
+    "created": "2026-09-07T12:03:41.757Z",
+    "coverage": 1,
+    "source": {
+      "name": "CNBC",
+      "url": "https://cnbc.com/2026/09/07/trump-truth-social-ai-images-posting-spree.html",
+      "title": "Trump says he's made 'Hundreds of Billions of Dollars on Stocks' for the U.S., in AI posting spree",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "9adc7e6c4403",
     "slug": "openai-agentlari-wiki-hodisasida-qanday-harakat-qilgani-9adc7e",
     "title": "OpenAI agentlari wiki hodisasida qanday harakat qilgani",
