@@ -1,5 +1,210 @@
 [
   {
+    "id": "8d9238dca598",
+    "slug": "anthropic-labs-jamoasi-flagman-mahsulotlarni-ishlab-chiqmoqd-8d9238",
+    "title": "Anthropic Labs jamoasi flagman mahsulotlarni ishlab chiqmoqda",
+    "summary": "Anthropic kompaniyasining 20 kishilik Labs jamoasi hammuassis Ben Mann boshchiligida ishlamoqda. Bu guruh ichki startap inkubatori sifatida flagman mahsulotlarni yaratishga xizmat qiladi.",
+    "tags": [
+      "Anthropic",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 18,
+    "published": "2026-09-07T12:50:00.000Z",
+    "created": "2026-09-07T19:25:44.831Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/260907/p10",
+      "title": "A look at Anthropic's Labs team, a ~20-person group led by cofounder Ben Mann that acts as an internal startup incubator for developing flagship products (Stephen Council/Business Insider)",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "910e2601f33b",
+    "slug": "ai-yaratgan-dori-biologik-yoshni-qaytarishi-mumkin-910e26",
+    "title": "AI yaratgan dori biologik yoshni qaytarishi mumkin",
+    "summary": "Insilico Medicine tomonidan AI yordamida yaratilgan rentosertib dorisi biologik qarish belgilarini qaytarishi mumkin. Dastlabki sinovlarda 42 nafar bemorda biologik yosh olti yilgacha yosharishi kuzatildi.",
+    "tags": [
+      "tibbiyot",
+      "tadqiqot"
+    ],
+    "importance": 4,
+    "score": 15,
+    "published": "2026-09-07T16:34:20.000Z",
+    "created": "2026-09-07T19:25:44.832Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/ai-designed-drug-appears-to-turn-back-the-bodys-biological-clock-in-early-trial",
+      "title": "AI-designed drug appears to turn back the body&#039;s biological clock in early trial",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "5cffc49ae44b",
+    "slug": "qwen-va-grok-sovet-topishmoqlarini-yechdi-5cffc4",
+    "title": "Qwen va Grok sovet topishmoqlarini yechdi",
+    "summary": "Habr nashri Qwen va Grok AI modellarining sovet topishmoqlarini yechish qobiliyatini sinovdan o'tkazdi. Ikki klassik boshqotirma yordamida qiziqarli natijalar olindi.",
+    "tags": [
+      "xAI",
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 14,
+    "published": "2026-09-07T16:13:33.000Z",
+    "created": "2026-09-07T19:25:44.833Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1079530",
+      "title": "Qwen и Grok отгадывают советские загадки на внимательность",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "b701b2761260",
+    "slug": "rag-tizimining-rivojlanish-tarixi-organildi-b701b2",
+    "title": "RAG tizimining rivojlanish tarixi o'rganildi",
+    "summary": "Habr nashri bir loyiha misolida RAG (Retrieval-Augmented Generation) tizimining rivojlanish tarixini yoritdi. Maqolada oddiy neyron tarmoqdan murakkab ko'p qatlamli tizimga aylanish jarayoni tasvirlangan.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 11,
+    "published": "2026-09-07T17:18:08.000Z",
+    "created": "2026-09-07T19:25:44.834Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1079556",
+      "title": "История развития RAG на примере одного проекта",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "548794e670f6",
+    "slug": "ai-korporativ-hujjatlarni-oqishga-orgatildi-548794",
+    "title": "AI korporativ hujjatlarni o'qishga o'rgatildi",
+    "summary": "Habr nashri korporativ RAG-servisini yaratish bo'yicha amaliy tajribani baham ko'rdi. Unda AI'ni ichki reglament va normativ hujjatlarni o'qishga o'rgatish jarayoni tushuntirilgan.",
+    "tags": [
+      "biznes",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 11,
+    "published": "2026-09-07T12:53:58.000Z",
+    "created": "2026-09-07T19:25:44.835Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1079414",
+      "title": "Как мы научили ИИ читать корпоративные регламенты: от наивного RAG до измеримого pipeline",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "bc7020372519",
+    "slug": "anthropic-aining-farovonlikka-tasirini-baholashga-chaqirdi-bc7020",
+    "title": "Anthropic AI'ning farovonlikka ta'sirini baholashga chaqirdi",
+    "summary": "Anthropic kompaniyasi sun'iy intellektning inson farovonligiga ta'sirini yaxshiroq baholash uchun yordam so'radi. Bu AI'ning ijtimoiy oqibatlarini o'rganishga qaratilgan.",
+    "tags": [
+      "Anthropic",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 10,
+    "published": "2026-09-07T16:44:20.000Z",
+    "created": "2026-09-07T19:25:44.835Z",
+    "coverage": 1,
+    "source": {
+      "name": "Science|Business",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUDF0LTdsUXhjR2w3X1p0ZDhvZTJFM3lmUlQyWTl6WE50XzVaakFfSVVrdVJTc2ktajFYc3Bwa2d0VjFrNWFRQUtOalBBZlZTWlU1dWxDYmJMcUd1MGRsTW95QnNCX2QtRWZjSWtqVEdpeEltU1I0M3c1SGdTbGN3eG55LWdMOFROOS1MZmhIemR5YW1CUzJ2aGs4U0hNLUFDNDdNWm5WOGFCMU9qLVlheUVRcW5yWHRWNFVKTEV3UjMwZkJ5",
+      "title": "Funding Radar: Anthropic calls for help to better evaluate the impact of AI on wellbeing",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "a5bd254ff2cb",
+    "slug": "anthropic-ai-tartibga-solish-munozarasiga-qoshildi-a5bd25",
+    "title": "Anthropic AI tartibga solish munozarasiga qo'shildi",
+    "summary": "Amazon AI sohasidagi faoliyatini kengaytirmoqda, Zoox Las Vegas aeroportiga kirdi. Shu bilan birga, Anthropic sun'iy intellektni tartibga solish bo'yicha munozaralarga qo'shildi.",
+    "tags": [
+      "Anthropic",
+      "qonun"
+    ],
+    "importance": 3,
+    "score": 10,
+    "published": "2026-09-07T10:50:48.000Z",
+    "created": "2026-09-07T19:25:44.837Z",
+    "coverage": 1,
+    "source": {
+      "name": "entARABI",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZWk2elN1TmJDYUlzZVVGbmZNRXp5Sk4zNUJIVXUwblFzM01nZnF3MzlzTWJra3N2cGc4a2gxWkZMY2cwYURrV2lFc2EwU2tNekMyWkdnUXluVjVUeU9BdEdoNmtTc05XWHVWU3RKSk9TTGFCWTB3ZThtWmtOMmhzYy05SlltMHVrOWd1eE8tdnJ3ZVhpaldlaDkyWFFLRGF2MU1jbUtjX0hyY3NIcExfdmJkSkdhUXFFQXdMeFE4RUpqaDFpcGdJOXo1TlpibmlVVjN3",
+      "title": "Amazon Expands Its AI Bet: Zoox Moves Into Las Vegas Airport as Anthropic Enters the AI Regulation Debate",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "60ccc57c14d6",
+    "slug": "ai-chip-aksiyalari-uchun-sentyabr-effekti-tahlil-qilindi-60ccc5",
+    "title": "AI chip aksiyalari uchun sentyabr effekti tahlil qilindi",
+    "summary": "Sentyabr effekti sun'iy intellekt chip aksiyalari uchun qanday ma'no kasb etishi tahlil qilindi. Bu holat bozorning qulashi yoki korreksiyasi emasligi ta'kidlandi.",
+    "tags": [
+      "chiplar",
+      "iqtisod"
+    ],
+    "importance": 2,
+    "score": 10,
+    "published": "2026-09-07T10:04:00.000Z",
+    "created": "2026-09-07T19:25:44.838Z",
+    "coverage": 1,
+    "source": {
+      "name": "Currently.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeERiUmh1d3FwZHNES2hmQjliUGc2MHA2TWxfdU5SaVY0US1kRDcyeHNfUGcwNGdaRVptNEFnNXFraHdzRS12RkJRU3dRWHNTbkxmNlg0Z3FlU2tSRjM2Y1ZUVEhvQlJ1bVgxbGpvamJRYTduMElIMHdXOHZyOHRQX21mTUVjU0pZR2w3MkJn",
+      "title": "Not a Crash, Not a Correction: What the September Effect Really Means for Artificial Intelligence (AI) Chip Stocks",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "69187f22aad8",
+    "slug": "protomex-ai-tushuntirishlari-uchun-yangi-yondashuv-69187f",
+    "title": "ProToMEx: AI tushuntirishlari uchun yangi yondashuv",
+    "summary": "ProToMEx mashinani o'rganish tasniflagichlari uchun tez va tushunarli izohlarni taqdim etuvchi yangi yondashuvdir. U ehtimollik mavzu modellaridan foydalanib, qarorlarning yuqori darajadagi sabablarini aniqlaydi.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 8.6,
+    "published": "2026-09-07T04:00:00.000Z",
+    "created": "2026-09-07T19:25:44.838Z",
+    "coverage": 1,
+    "source": {
+      "name": "arXiv cs.LG",
+      "url": "https://arxiv.org/abs/2609.04265",
+      "title": "ProToMEx: Rapid, Interpretable Explanations via Structured Representations",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "c87f1b4faf8b",
     "slug": "makron-insoniyatni-si-borasida-dahshatli-xato-ga-yo-l-qo-yma-c87f1b",
     "title": "Makron insoniyatni SI borasida «dahshatli xato»ga yoʻl qoʻymaslikka chaqirdi",
