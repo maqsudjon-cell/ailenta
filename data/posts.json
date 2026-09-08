@@ -1,5 +1,94 @@
 [
   {
+    "id": "a4b7df07e9bc",
+    "slug": "dasturchilar-applening-yangi-siri-aisini-qabul-qilmayapti-a4b7df",
+    "title": "Dasturchilar Apple’ning yangi Siri AI’sini qabul qilmayapti",
+    "summary": "Apple kompaniyasining yangi sun'iy intellekt tizimi muvaffaqiyat qozonishi uchun ommabop ilovalar yaratuvchilarining ko'maklashishi zarur. Biroq asosiy dasturchilar hozircha yangi Siri AI tizimini faol qo'llab-quvvatlashga shoshilmayapti.",
+    "tags": [
+      "Apple"
+    ],
+    "importance": 3,
+    "score": 30,
+    "published": "2026-09-08T09:04:17.000Z",
+    "created": "2026-09-08T10:02:45.666Z",
+    "coverage": 1,
+    "source": {
+      "name": "The New York Times",
+      "url": "https://nytimes.com/2026/09/08/technology/apple-siri-ai.html",
+      "title": "Key App Developers Have Yet to Embrace Apple’s New Siri A.I.",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "6af5ae9d5383",
+    "slug": "ai-modellari-wechat-akkauntlarini-buzuvchi-qurt-yaratdi-6af5ae",
+    "title": "AI modellari WeChat akkauntlarini buzuvchi qurt yaratdi",
+    "summary": "Sun'iy intellekt modellari WeChat akkauntlarini tezkorlik bilan buzib kirishga qodir kompyuter qurtini yaratdi. Mutaxassislarning fikricha, ushbu hujum bir necha soat ichida yuz millionlab qurilmalarga zarar yetkazishi mumkin edi.",
+    "tags": [
+      "xavfsizlik"
+    ],
+    "importance": 4,
+    "score": 27,
+    "published": "2026-09-08T09:05:09.000Z",
+    "created": "2026-09-08T10:02:45.668Z",
+    "coverage": 1,
+    "source": {
+      "name": "The New York Times",
+      "url": "https://nytimes.com/2026/09/08/us/politics/calif-ai-worm-wechat-hack.html",
+      "title": "A.I. Models Built a Computer Worm That Could Rapidly Hack WeChat Accounts",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "a61cda49a874",
+    "slug": "ish-izlovchilar-suhbatda-ai-haqida-hayajon-bilan-gapirmoqda-a61cda",
+    "title": "Ish izlovchilar suhbatda AI haqida hayajon bilan gapirmoqda",
+    "summary": "Ish qidirayotgan nomzodlar ishga qabul qilish suhbatlarida sun'iy intellektga nisbatan qiziqish va hayajon ko'rsatishga majbur bo'lishmoqda. Hatto bu texnologiyaga shubha bilan qaraydiganlar ham suhbat davomida bosimni his qilmoqda.",
+    "tags": [
+      "mehnat bozori"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-09-08T09:20:01.000Z",
+    "created": "2026-09-08T10:02:45.669Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/job-search-ai-tools-interviews-enthusiasm-hiring-tech-chatgpt-claude-2026-9",
+      "title": "Job seekers are learning a new interview skill: how to sound excited about AI",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "b2f46c097d49",
+    "slug": "moore-threads-gonkongda-1-mlrd-dollarlik-ipo-o-tkazmoqchi-b2f46c",
+    "title": "Moore Threads Gonkongda 1 mlrd dollarlik IPO o‘tkazmoqchi",
+    "summary": "Xitoyning sun'iy intellekt chiplari ishlab chiqaruvchi Moore Threads kompaniyasi Gonkongda 1 milliard dollarlik IPO o'tkazish uchun ariza topshirdi. Kompaniya Nvidia kabi chiplar ishlab chiqarish bilan shug'ullanadi.",
+    "tags": [
+      "chiplar",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 10,
+    "published": "2026-09-08T08:06:50.000Z",
+    "created": "2026-09-08T10:02:45.671Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Standard (HK)",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQbTlOMy1KWnFmS1NWVWtTTmhUd1BuUG9SdDVHLTJ1RFpMTk9iMkpuNF93MWhrTmdTNUpENjZaeDFGMG1OcUViel9ILWFrRWFoVXJJbFJfcGRkQWVoOC1jMHV3MER4Skh4Q1JUTEd3dVUxdXVxSEpseGJudTdZblktcXRROVhjajA1eFdrYzkyTXZiNjlfMThfS25hZ1VxZjVXaWEzc0tpcG9qSmVVR1F1cjBqSmFOQjJKTFEzbmM2NFBVMF81SWpFVnJmT3VRSXlqS0E",
+      "title": "Nvidia-like Chinese AI chipmaker Moore Threads files for US$1b Hong Kong IPO : report",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "8cd9967101e8",
     "slug": "it-park-texnologik-soha-uchun-rezyumelar-bazasini-ochdi-8cd996",
     "title": "IT Park texnologik soha uchun rezyumelar bazasini ochdi",
