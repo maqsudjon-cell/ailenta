@@ -1,9 +1,9 @@
 [
   {
     "id": "a0d364dafd18",
-    "slug": "bmt-suniy-intellekt-ustidan-nazoratni-kuchaytirishga-chaqird-a0d364",
-    "title": "BMT sun'iy intellekt ustidan nazoratni kuchaytirishga chaqirdi",
-    "summary": "BMT Inson huquqlari boʻyicha Oliy komissari Folker Tyurk sunʼiy intellekt rivojlanishi ustidan xalqaro nazoratni kuchaytirishga chaqirdi. U nazoratsiz AI tufayli insoniyat jiddiy tahdidga uchrashi mumkinligidan ogohlantirdi. Bu haqda BMT Yangiliklar markazi xabar berdi.",
+    "slug": "bmt-nazoratsiz-ai-insoniyatga-tahdid-solmoqda-a0d364",
+    "title": "BMT: Nazoratsiz AI insoniyatga tahdid solmoqda",
+    "summary": "BMT Inson huquqlari boʻyicha Oliy komissari Folker Tyurk AI rivojlanishi ustidan xalqaro nazoratni kuchaytirishga chaqirdi. BMT Yangiliklar markazi bu haqda xabar berdi.",
     "tags": [
       "siyosat",
       "xavfsizlik"
@@ -11,13 +11,59 @@
     "importance": 4,
     "score": 48,
     "published": "2026-09-08T13:46:00.000Z",
-    "created": "2026-09-08T18:01:24.019Z",
+    "created": "2026-09-08T18:04:19.974Z",
     "coverage": 1,
     "source": {
       "name": "Kun.uz",
       "url": "https://kun.uz/news/2026/09/08/bmt-nazoratsiz-si-tufayli-insoniyatni-jiddiy-tahdid-kutayotganidan-ogohlantirdi",
       "title": "BMT nazoratsiz SI tufayli insoniyatni «jiddiy tahdid» kutayotganidan ogohlantirdi.",
       "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "c4da0e6719d9",
+    "slug": "anthropic-decart-ai-bilan-kelishuvni-toxtatdi-c4da0e",
+    "title": "Anthropic Decart AI bilan kelishuvni to'xtatdi",
+    "summary": "Anthropic kompaniyasi Decart AI bilan kelishuvni to'xtatdi. Kompaniya kutilayotgan IPO oldidan hisoblash quvvatiga sarmoya kiritmoqda.",
+    "tags": [
+      "Anthropic",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 30,
+    "published": "2026-09-08T14:34:47.000Z",
+    "created": "2026-09-08T18:04:19.975Z",
+    "coverage": 1,
+    "source": {
+      "name": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdENDWDlNa01qclNUTUMzUWc0dGFUSWRncXNMVXRfLUhUdDhQdjJZY1NYVE5TbGNJWC1oZ3hnYmttREx0Z3d1TURzaHZBT05HSDNBMFpFUjNPQ1hMNjllQ0lsSlc5SEJQX0M1SWF4QmF4X0xHbWRNQ3Mzdk9adExlcnlUVlFPUUl5MVZFV1E4QkQzTS1yM1B5aENHb09jN3NxVlltX1M1YkRPb1hqYVpPOEs4Rmo",
+      "title": "Anthropic frenaría acuerdo por Decart AI mientras invierte en cómputo antes de su esperada OPI",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "e457945131e6",
+    "slug": "anthropic-kompaniyasiga-qarshi-sud-davosi-qozgatildi-e45794",
+    "title": "Anthropic kompaniyasiga qarshi sud da'vosi qo'zg'atildi",
+    "summary": "Anthropic kompaniyasiga qarshi yangi jamoaviy sud da'vosi qo'zg'atildi. Da'voda kompaniya foydalanuvchilarni chalg'itgan holda qonunni buzganligi so'roq ostiga olingan.",
+    "tags": [
+      "Anthropic",
+      "sud"
+    ],
+    "importance": 3,
+    "score": 23,
+    "published": "2026-09-08T17:27:31.000Z",
+    "created": "2026-09-08T18:04:19.977Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Verge",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQN1lmRzFiZGlzRmd5T3A2aUxkUF9hSWN2dFE5MmtOYTVmek1ZeFdLNGQ2M1hYOTllVllwcmM0T21Yc0VOOV9HNlJNQTZoWnFRWTR0RHFOWTB5T19yUDBtR2RsRHlfc2ZBZ3ZHX29mTl9qOGJ4T1pTNUozeHdJbWpxYlF1MmMxOXRkOC13OHBxQklVaHFWR1d5d0UzRk9RZzVkNWtjRzF0ak9wRmc1XzVwQVJEOUtsV3M",
+      "title": "A new class action lawsuit questions whether Anthropic broke the law by misleading power users",
+      "indirect": true
     },
     "also": [],
     "model": "gemini"
