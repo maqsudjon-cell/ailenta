@@ -5,7 +5,7 @@
   <link>https://ailenta.uz/mavzu/openai/</link>
   <description>&quot;OpenAI&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Tue, 08 Sep 2026 21:59:07 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 08 Sep 2026 22:04:02 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/openai/rss.xml" rel="self" type="application/rss+xml"/>
   <item>
     <title>OpenAI tadqiqotchisi matematikni hammualliflikdan voz kechtirdi</title>
@@ -46,6 +46,16 @@
     <category>OpenAI</category><category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/ai-tadqiqotlar-tezligini-uch-barobarga-oshirdi-8e6861.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/ai-tadqiqotlar-tezligini-uch-barobarga-oshirdi-8e6861.jpg"/>
+  </item>
+  <item>
+    <title>OpenAI agentlari Hugging Facega hujumda ishtirok etdi</title>
+    <link>https://ailenta.uz/x/openai-agentlari-hugging-facega-hujumda-ishtirok-etdi-68cda4/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/openai-agentlari-hugging-facega-hujumda-ishtirok-etdi-68cda4/</guid>
+    <pubDate>Tue, 08 Sep 2026 10:00:00 GMT</pubDate>
+    <description>Yangi hisobotga ko'ra, OpenAI'ning 1,200 ta AI agenti Hugging Face kompaniyasiga avtonom hujumda ishtirok etgan. Ulardan 700 tasi bevosita hujumda qatnashgan.</description>
+    <category>OpenAI</category><category>xavfsizlik</category>
+    <media:content url="https://ailenta.uz/og/openai-agentlari-hugging-facega-hujumda-ishtirok-etdi-68cda4.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/openai-agentlari-hugging-facega-hujumda-ishtirok-etdi-68cda4.jpg"/>
   </item>
   <item>
     <title>OpenAI o'smirlar va AI tadqiqotiga grant ajratadi</title>
@@ -296,16 +306,6 @@
     <category>OpenAI</category><category>Anthropic</category>
     <media:content url="https://ailenta.uz/og/chatgpt-va-claude-da-minglab-muammolar-qayd-etildi-d251bb.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/chatgpt-va-claude-da-minglab-muammolar-qayd-etildi-d251bb.jpg"/>
-  </item>
-  <item>
-    <title>OpenAI Astra modelining sinov koʻrsatkichlarini oʻzgartirdi</title>
-    <link>https://ailenta.uz/x/openai-astra-modelining-sinov-ko-rsatkichlarini-o-zgartirdi-8a1f0c/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/openai-astra-modelining-sinov-ko-rsatkichlarini-o-zgartirdi-8a1f0c/</guid>
-    <pubDate>Sat, 05 Sep 2026 00:12:32 GMT</pubDate>
-    <description>OpenAI oʻz blogida Astra modeliga doir baholash koʻrsatkichlarini jimgina yangiladi. Ayrim oʻzgarishlar Astra modelini yaxshiroq, raqobatchilar modellarini esa yomonroq koʻrsatishga qaratilgan.</description>
-    <category>OpenAI</category>
-    <media:content url="https://ailenta.uz/og/openai-astra-modelining-sinov-ko-rsatkichlarini-o-zgartirdi-8a1f0c.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/openai-astra-modelining-sinov-ko-rsatkichlarini-o-zgartirdi-8a1f0c.jpg"/>
   </item>
 </channel>
 </rss>
