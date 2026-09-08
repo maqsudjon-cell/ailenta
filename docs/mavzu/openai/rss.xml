@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/openai/</link>
   <description>&quot;OpenAI&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Tue, 08 Sep 2026 21:08:17 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 08 Sep 2026 21:30:23 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/openai/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>OpenAI tadqiqotchisi matematikni hammualliflikdan voz kechtirdi</title>
+    <link>https://ailenta.uz/x/openai-tadqiqotchisi-matematikni-hammualliflikdan-voz-kechti-80a0c8/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/openai-tadqiqotchisi-matematikni-hammualliflikdan-voz-kechti-80a0c8/</guid>
+    <pubDate>Tue, 08 Sep 2026 19:23:04 GMT</pubDate>
+    <description>Matematik Tristan Bakmasterning aytishicha, OpenAI tadqiqotchisi uni Navier-Stokes tenglamalari bo'yicha AI yordamida erishilgan yutuq haqidagi ma'lumot kompaniyaga yetib borgach, hammuallifidan voz kechishga majburlagan. Hammuallif Anthropicda ishlagan.</description>
+    <category>OpenAI</category><category>Anthropic</category>
+    <media:content url="https://ailenta.uz/og/openai-tadqiqotchisi-matematikni-hammualliflikdan-voz-kechti-80a0c8.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/openai-tadqiqotchisi-matematikni-hammualliflikdan-voz-kechti-80a0c8.jpg"/>
+  </item>
   <item>
     <title>GPT-5.6 Sol kvant tajribalarini o'tkazishga yordam beradi</title>
     <link>https://ailenta.uz/x/gpt-5-6-sol-kvant-tajribalarini-otkazishga-yordam-beradi-167bce/</link>
@@ -296,16 +306,6 @@
     <category>OpenAI</category>
     <media:content url="https://ailenta.uz/og/openai-astra-modelining-sinov-ko-rsatkichlarini-o-zgartirdi-8a1f0c.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/openai-astra-modelining-sinov-ko-rsatkichlarini-o-zgartirdi-8a1f0c.jpg"/>
-  </item>
-  <item>
-    <title>GPT-6 Astra modeli sinovdan o'tkazildi</title>
-    <link>https://ailenta.uz/x/gpt-6-astra-modeli-sinovdan-otkazildi-b3b9e9/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/gpt-6-astra-modeli-sinovdan-otkazildi-b3b9e9/</guid>
-    <pubDate>Fri, 04 Sep 2026 23:59:05 GMT</pubDate>
-    <description>Simon Willison GPT-6 Astra modelini sinovdan o'tkazib, undan turli darajadagi mulohazalar bilan SVG tasvirlarini yaratdi. U Astra natijalarini GPT-5.6 Sol, Terra va Luna modellarining natijalari bilan solishtirdi.</description>
-    <category>OpenAI</category><category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/gpt-6-astra-modeli-sinovdan-otkazildi-b3b9e9.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/gpt-6-astra-modeli-sinovdan-otkazildi-b3b9e9.jpg"/>
   </item>
 </channel>
 </rss>
