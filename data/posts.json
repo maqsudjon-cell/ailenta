@@ -1,5 +1,166 @@
 [
   {
+    "id": "0941ee89da8a",
+    "slug": "meta-ai-yaratgan-bolalar-zoravonligi-reklamalarini-korsatdi-0941ee",
+    "title": "Meta AI yaratgan bolalar zo'ravonligi reklamalarini ko'rsatdi",
+    "summary": "NNT xabariga ko'ra, Meta platformalarida sun'iy intellekt yordamida yaratilgan bolalarga nisbatan jinsiy zo'ravonlik tasvirlangan yuzlab reklamalar joylashtirilgan. Kompaniya ushbu reklamalarni o'z tarmoqlarida namoyish etgan.",
+    "tags": [
+      "Meta",
+      "xavfsizlik"
+    ],
+    "importance": 4,
+    "score": 27,
+    "published": "2026-09-08T12:00:00.000Z",
+    "created": "2026-09-08T14:02:00.639Z",
+    "coverage": 1,
+    "source": {
+      "name": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNUozb3RjZC1YbF9HczdtSk5rTF9Gc3pVbFl5eUtoRjhLaDZNMlc1UkRyeEJpaTVEckZ5N1p4UHoxM1doQjlNYzFYWWM3UklPcE55Zmk2TGdnNGRlZ2prQ1NyMXpWV1o1M2NDNV84aTJreWRKcDBXS24wUTZrcHg1Rm5BVnh2SGlnb1AtMlNTMGJ5MUZXeWhuV2g5SE43Z3gtWFJadlVtTkJkSlRrRU9OTXZCU3M",
+      "title": "Meta Ran Hundreds of Ads Showing AI Child Sexual Abuse, NGO Says",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "a44874919817",
+    "slug": "google-deepmind-9-milliard-dnk-variantini-xaritaga-tushirdi-a44874",
+    "title": "Google DeepMind 9 milliard DNK variantini xaritaga tushirdi",
+    "summary": "Google DeepMind tadqiqotchilari 9 milliardga yaqin ehtimoliy DNK variantlarini xaritaga tushirishdi. Ushbu loyiha genlar faoliyatini tartibga solishni va ko'plab kasalliklarning kelib chiqish sabablarini yaxshiroq tushunishga yordam beradi.",
+    "tags": [
+      "Google",
+      "tibbiyot"
+    ],
+    "importance": 4,
+    "score": 22,
+    "published": "2026-09-08T14:00:05.000Z",
+    "created": "2026-09-08T14:02:00.641Z",
+    "coverage": 1,
+    "source": {
+      "name": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/alphagenome-atlas",
+      "title": "Google DeepMind Maps 9 Billion Possible DNA Variants",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "22755ac78014",
+    "slug": "avstraliya-texnologik-kompaniyalarni-jarimaga-tortmoqchi-22755a",
+    "title": "Avstraliya texnologik kompaniyalarni jarimaga tortmoqchi",
+    "summary": "Avstraliya yirik texnologiya kompaniyalarini ijtimoiy tarmoqlardagi faoliyati uchun javobgarlikka tortish maqsadida 78,6 million dollar miqdorida jarima joriy etishni taklif qilmoqda. Yangi qoida bolalar xavfsizligi talablarini onlayn o'yinlar, ilovalar va AI chatbotlariga ham tatbiq etadi.",
+    "tags": [
+      "siyosat",
+      "qonun"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-09-08T13:22:04.000Z",
+    "created": "2026-09-08T14:02:00.642Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/09/08/australia-social-media-feeds",
+      "title": "Australia vows to hold big tech companies to account on social media — with $78.6 million fines",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "750f45186195",
+    "slug": "sapien-startapi-180-million-dollar-qiymatga-baholandi-750f45",
+    "title": "Sapien startapi 180 million dollar qiymatga baholandi",
+    "summary": "Sun'iy intellekt sohasidagi Sapien startapi yangi investitsiya raundida 180 million dollarga baholandi. Kompaniya moliyaviy direktorlarga daromad o'zgarishi sabablarini aniqlashda yordam beruvchi AI texnologiyalarini ishlab chiqadi.",
+    "tags": [
+      "biznes",
+      "iqtisod"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-09-08T12:21:59.000Z",
+    "created": "2026-09-08T14:02:00.643Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/09/08/exclusive-ai-startup-sapien-raises-180m-valuation-companies-find-really-driving-profit-cfo",
+      "title": "AI startup Sapien raises at $180M valuation to help companies find what’s really driving profit",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "850aed4874a0",
+    "slug": "qualcomm-va-amazon-ai-infratuzilmasi-boyicha-kelishib-oldi-850aed",
+    "title": "Qualcomm va Amazon AI infratuzilmasi bo'yicha kelishib oldi",
+    "summary": "Qualcomm kompaniyasi Amazon Web Services uchun sun'iy intellekt infratuzilmasini yaratish maqsadida maxsus chiplar yetkazib berish bo'yicha shartnoma imzoladi. Ushbu kelishuv ortidan Qualcomm aksiyalari narxi 6 foizdan ko'proqqa oshdi.",
+    "tags": [
+      "Qualcomm",
+      "Amazon"
+    ],
+    "importance": 4,
+    "score": 18,
+    "published": "2026-09-08T13:35:01.000Z",
+    "created": "2026-09-08T14:02:00.643Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/260908/p17",
+      "title": "Qualcomm signs a deal with Amazon to provide \"multiple generations of customized silicon\" to help build AWS' AI infrastructure; QCOM jumps 6%+ (Ari Levy/CNBC)",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "9be583ce79ed",
+    "slug": "google-cloud-va-accenture-yangi-guruh-tashkil-etdi-9be583",
+    "title": "Google Cloud va Accenture yangi guruh tashkil etdi",
+    "summary": "Google Cloud va Accenture kompaniyalari Gemini Enterprise tizimi uchun 1000 nafargacha muhandisni o'qitish maqsadida qo'shma guruh tuzdilar. Ushbu hamkorlik korporativ mijozlarga sun'iy intellekt texnologiyalarini joriy etishga yordam beradi.",
+    "tags": [
+      "Google",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-09-08T13:45:07.000Z",
+    "created": "2026-09-08T14:02:00.645Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/260908/p19",
+      "title": "Google Cloud and Accenture form the Accenture Gemini Enterprise Business Group to train up to 1,000 Accenture forward deployed engineers for Gemini Enterprise (Isabelle Bousquette/Wall Street Journal)",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "c1d66f1c50fd",
+    "slug": "google-uchun-yadroviy-reaktorni-tiklashga-ruxsat-berildi-c1d66f",
+    "title": "Google uchun yadroviy reaktorni tiklashga ruxsat berildi",
+    "summary": "AQSh regulyatori Google kompaniyasining AI ma'lumotlar markazlarini energiya bilan ta'minlash uchun Ayova shtatidagi to'xtatilgan yadroviy reaktorni qayta ishga tushirishga 1,9 milliard dollarlik kreditni tasdiqladi. Bu loyiha kompaniyaga yadro energiyasidan foydalanish imkonini beradi.",
+    "tags": [
+      "Google",
+      "siyosat"
+    ],
+    "importance": 4,
+    "score": 15,
+    "published": "2026-09-08T12:58:06.000Z",
+    "created": "2026-09-08T14:02:00.646Z",
+    "coverage": 1,
+    "source": {
+      "name": "Engadget",
+      "url": "https://engadget.com/2252521/us-regulator-approves-1-9-billion-loan-to-spin-up-iowas-dead-nuclear-reactor-for-google",
+      "title": "US regulator approves $1.9 billion loan to spin up Iowa's dead nuclear reactor for Google",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "05885ee53264",
     "slug": "google-tovlamachilar-ai-malumotlarini-kozlayotganidan-ogohla-05885e",
     "title": "Google tovlamachilar AI ma'lumotlarini ko'zlayotganidan ogohlantirdi",
