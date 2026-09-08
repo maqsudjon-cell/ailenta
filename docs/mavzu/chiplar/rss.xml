@@ -5,7 +5,7 @@
   <link>https://ailenta.uz/mavzu/chiplar/</link>
   <description>&quot;chiplar&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Tue, 08 Sep 2026 06:06:51 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 08 Sep 2026 07:03:01 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/chiplar/rss.xml" rel="self" type="application/rss+xml"/>
   <item>
     <title>Nvidia Rebellions kompaniyasiga e'tibor qaratmoqda</title>
@@ -66,6 +66,16 @@
     <category>AMD</category><category>chiplar</category>
     <media:content url="https://ailenta.uz/og/amd-ai-chip-ozgarishlari-ortida-turibdi-911a00.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/amd-ai-chip-ozgarishlari-ortida-turibdi-911a00.jpg"/>
+  </item>
+  <item>
+    <title>GPT-6 taqdimotidan so'ng AI chiplari aksiyalari oshdi</title>
+    <link>https://ailenta.uz/x/gpt-6-taqdimotidan-song-ai-chiplari-aksiyalari-oshdi-52ad15/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/gpt-6-taqdimotidan-song-ai-chiplari-aksiyalari-oshdi-52ad15/</guid>
+    <pubDate>Mon, 07 Sep 2026 12:44:55 GMT</pubDate>
+    <description>OpenAI kompaniyasining GPT-6 modeli taqdim etilganidan keyin Osiyoda sun'iy intellekt chiplari aksiyalari narxi ko'tarildi. Stocks Down Under nashrining yozishicha, Nvidia, Micron va AMD kompaniyalari ham ushbu tendensiyadan foyda ko'rishi mumkin.</description>
+    <category>Nvidia</category><category>chiplar</category>
+    <media:content url="https://ailenta.uz/og/gpt-6-taqdimotidan-song-ai-chiplari-aksiyalari-oshdi-52ad15.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/gpt-6-taqdimotidan-song-ai-chiplari-aksiyalari-oshdi-52ad15.jpg"/>
   </item>
   <item>
     <title>Inspur AQSh cheklovlarini chetlab o'tganlikda ayblanmoqda</title>
@@ -296,16 +306,6 @@
     <category>iqtisod</category><category>chiplar</category>
     <media:content url="https://ailenta.uz/og/guangdong-mlcc-ishlab-chiqaruvchilari-ai-tufayli-daromadni-o-36b00d.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/guangdong-mlcc-ishlab-chiqaruvchilari-ai-tufayli-daromadni-o-36b00d.jpg"/>
-  </item>
-  <item>
-    <title>Qwen 3.8 27B modeli Cerebras'da 1500 token/s tezlikda</title>
-    <link>https://ailenta.uz/x/qwen-3-8-27b-modeli-cerebrasda-1500-token-s-tezlikda-7e8067/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/qwen-3-8-27b-modeli-cerebrasda-1500-token-s-tezlikda-7e8067/</guid>
-    <pubDate>Thu, 03 Sep 2026 18:32:13 GMT</pubDate>
-    <description>Qwen 3.8 27B modeli Cerebras platformasida mavjud bo'ldi. U 1500 token/s tezlikda ishlay oladi.</description>
-    <category>Cerebras</category><category>chiplar</category>
-    <media:content url="https://ailenta.uz/og/qwen-3-8-27b-modeli-cerebrasda-1500-token-s-tezlikda-7e8067.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/qwen-3-8-27b-modeli-cerebrasda-1500-token-s-tezlikda-7e8067.jpg"/>
   </item>
 </channel>
 </rss>
