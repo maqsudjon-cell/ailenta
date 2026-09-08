@@ -1,16 +1,17 @@
 [
   {
     "id": "83a1f02d45d9",
-    "slug": "xpeng-gumanoid-robotlar-ishlab-chiqarish-liniyasini-ochdi-83a1f0",
-    "title": "Xpeng gumanoid robotlar ishlab chiqarish liniyasini ochdi",
-    "summary": "Xpeng kompaniyasi gumanoid robotlar uchun avtomatlashtirilgan ishlab chiqarish liniyasini ishga tushirdi. Kompaniyaning birinchi yuqori darajali universal gumanoid roboti yig'ilib, liniyadan mustaqil ravishda yurib chiqdi. Ishlab chiqarish liniyasining asosiy jarayonlarida avtomatlashtirish darajasi 80 foizdan oshadi.",
+    "slug": "xpeng-gumanoid-robotlar-uchun-ishlab-chiqarish-liniyasini-is-83a1f0",
+    "title": "Xpeng gumanoid robotlar uchun ishlab chiqarish liniyasini ishga tushirdi",
+    "summary": "Xpeng kompaniyasi gumanoid robotlar uchun avtomatlashtirilgan ishlab chiqarish liniyasini ishga tushirdi. Birinchi universal gumanoid robot yig'ishni yakunlab, liniyadan mustaqil ravishda chiqib ketgan. Liniya ommaviy ishlab chiqarishga mo'ljallangan bo'lib, asosiy jarayonlarida 80% dan ortiq avtomatlashtirish darajasiga ega.",
     "tags": [
+      "Xpeng",
       "robototexnika"
     ],
     "importance": 4,
     "score": 18,
     "published": "2026-09-08T05:26:34.000Z",
-    "created": "2026-09-08T06:01:09.583Z",
+    "created": "2026-09-08T06:03:59.411Z",
     "coverage": 1,
     "source": {
       "name": "TechNode",
@@ -23,9 +24,9 @@
   },
   {
     "id": "1e05d2e2dfe3",
-    "slug": "meta-muse-aiga-bank-hisoblarini-ishonishni-soramoqda-1e05d2",
-    "title": "Meta Muse AI'ga bank hisoblarini ishonishni so'ramoqda",
-    "summary": "Meta kompaniyasi foydalanuvchilardan o'zining Muse AI tizimiga taqvim, eslatmalar va bank hisoblarini ishonishni so'ramoqda. Ushbu sun'iy intellekt yordamchisi foydalanuvchilarning shaxsiy ma'lumotlari va moliyaviy amallarini boshqarishga mo'ljallangan.",
+    "slug": "meta-muse-aiga-shaxsiy-malumotlarni-ishonishni-soramoqda-1e05d2",
+    "title": "Meta Muse AI'ga shaxsiy ma'lumotlarni ishonishni so'ramoqda",
+    "summary": "Meta kompaniyasi foydalanuvchilardan o'zining Muse AI tizimiga kalendar, eslatmalar va bank hisobvaraqlari kabi shaxsiy ma'lumotlarni ishonishni so'ramoqda. Bu harakat AI'ning shaxsiy hayotga integratsiyalashuvi borasidagi munozaralarni kuchaytirishi mumkin.",
     "tags": [
       "Meta",
       "maxfiylik"
@@ -33,12 +34,35 @@
     "importance": 3,
     "score": 7,
     "published": "2026-09-08T05:34:00.000Z",
-    "created": "2026-09-08T06:01:09.585Z",
+    "created": "2026-09-08T06:03:59.411Z",
     "coverage": 1,
     "source": {
-      "name": "androidauthority.com",
+      "name": "Android Authority",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9mS3RRWDdnWEkyLUxERXVZUm9qSUx0V2hpb2tHZUZzTlJGX1o0NF94Rk11NFYxX3dSUXF6WUhQMXBXTWxBUkxuVWZPcWN6REQ2bllJTF81VXVBTS1majIwMTNXQzNYMkhCakt3enFaMXVTMVQ2VWpDQw",
       "title": "Meta wants you to trust its Muse AI with your calendar, reminders, and bank accounts",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "0a4cc6d1fbbe",
+    "slug": "metaning-ichki-tadqiqoti-ai-va-tana-qiyofasi-haqida-0a4cc6",
+    "title": "Meta'ning ichki tadqiqoti AI va tana qiyofasi haqida",
+    "summary": "Meta kompaniyasining tana qiyofasi muammolari bo'yicha ichki tadqiqotlari sun'iy intellekt haqida ma'lumot beradi. Bu tadqiqotlar AI'ning ijtimoiy ta'sirlarini tushunishga yordam berishi mumkin.",
+    "tags": [
+      "Meta",
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 1.9,
+    "published": "2026-09-07T05:20:08.000Z",
+    "created": "2026-09-08T06:03:59.412Z",
+    "coverage": 1,
+    "source": {
+      "name": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZlVKRktEcTJQYUNXdjhxLXdGVFVQNEFKNmFtR2tHWFNxNGZMWjRCSmw1N2UtUmRkUHU2NE9FblRLZm01VkRyNi04cUNJcGlzb0VURkN1SU9hNDNLaldUdVNSenhrMkhjMVFSbDc3RG5aRG9HZ3c1OHNOWkZsOVd1c1NWbHNSazBlSWFDU3BhR1pYa1VYbDBnRzA1WE4xaGs1",
+      "title": "Meta's internal research about body image issues tells us something about AI - ABC News & Headlines – Australian Broadcasting Corporation",
       "indirect": true
     },
     "also": [],
