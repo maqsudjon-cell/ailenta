@@ -1,5 +1,50 @@
 [
   {
+    "id": "a0d364dafd18",
+    "slug": "bmt-suniy-intellekt-ustidan-nazoratni-kuchaytirishga-chaqird-a0d364",
+    "title": "BMT sun'iy intellekt ustidan nazoratni kuchaytirishga chaqirdi",
+    "summary": "BMT Inson huquqlari bo'yicha Oliy komissari Folker Tyurk sun'iy intellekt rivojlanishi ustidan xalqaro nazoratni sezilarli darajada kuchaytirishga chaqirdi. U nazoratsiz AI tufayli insoniyat jiddiy tahdidga duch kelishi mumkinligidan ogohlantirdi.",
+    "tags": [
+      "siyosat",
+      "xavfsizlik"
+    ],
+    "importance": 4,
+    "score": 48,
+    "published": "2026-09-08T13:46:00.000Z",
+    "created": "2026-09-08T15:01:40.053Z",
+    "coverage": 1,
+    "source": {
+      "name": "Kun.uz",
+      "url": "https://kun.uz/news/2026/09/08/bmt-nazoratsiz-si-tufayli-insoniyatni-jiddiy-tahdid-kutayotganidan-ogohlantirdi",
+      "title": "BMT nazoratsiz SI tufayli insoniyatni «jiddiy tahdid» kutayotganidan ogohlantirdi.",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "30ea9b1137b5",
+    "slug": "libreoffice-yuklab-olish-boyicha-rekord-ornatdi-30ea9b",
+    "title": "LibreOffice yuklab olish bo'yicha rekord o'rnatdi",
+    "summary": "LibreOffice ofis dasturlari to'plami o'zida hech qanday sun'iy intellekt funksiyalari yo'qligini e'lon qilganidan keyin yuklab olishlar soni bo'yicha rekord o'rnatdi.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 22.8,
+    "published": "2026-09-08T14:05:57.000Z",
+    "created": "2026-09-08T15:01:40.055Z",
+    "coverage": 1,
+    "source": {
+      "name": "Hacker News",
+      "url": "https://manualdousuario.net/en/libreoffice-download-record-no-ai",
+      "title": "LibreOffice breaks download records after declaring it has no AI features",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "411acddf2b24",
     "slug": "mistral-ai-3-milliard-yevro-investitsiya-jalb-qildi-411acd",
     "title": "Mistral AI 3 milliard yevro investitsiya jalb qildi",
