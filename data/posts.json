@@ -1,17 +1,17 @@
 [
   {
     "id": "782d3bd31e25",
-    "slug": "meta-shaxsiy-yordamchi-ai-agentini-taqdim-etdi-782d3b",
-    "title": "Meta shaxsiy yordamchi AI agentini taqdim etdi",
-    "summary": "Meta yangi AI agentini ishga tushirdi. U shaxsiy raqamli yordamchi sifatida ishlaydi va Facebook, Instagram hamda Spotify kabi uchinchi tomon ilovalariga ulanadi.",
+    "slug": "meta-elektron-xat-yuboradigan-muse-ai-agentini-taqdim-etdi-782d3b",
+    "title": "Meta elektron xat yuboradigan Muse AI agentini taqdim etdi",
+    "summary": "Meta kompaniyasi Muse deb nomlangan yangi sun'iy intellekt agentini taqdim etdi. U shaxsiy raqamli yordamchi sifatida elektron xatlar yuborishi, sayohatlarni rejalashtirishi va xaridlarni amalga oshirishi mumkin. Agent Facebook, Instagram hamda Spotify kabi uchinchi tomon ilovalariga ulanadi.",
     "tags": [
       "Meta",
       "agentlar"
     ],
-    "importance": 3,
+    "importance": 4,
     "score": 54,
     "published": "2026-09-08T19:00:03.000Z",
-    "created": "2026-09-08T21:01:34.555Z",
+    "created": "2026-09-08T21:04:32.430Z",
     "coverage": 5,
     "source": {
       "name": "The New York Times",
@@ -29,17 +29,17 @@
   },
   {
     "id": "167bce5d47e7",
-    "slug": "mit-tadqiqotchisi-kvant-hisoblashda-ai-dan-foydalanmoqda-167bce",
-    "title": "MIT tadqiqotchisi kvant hisoblashda AI dan foydalanmoqda",
-    "summary": "MIT tadqiqotchisi GPT-5.6 Sol va Codex yordamida kvant hisoblash tajribalarini avtonom tarzda o'tkazmoqda. Bu AI natijalarni tahlil qilish va qubitlarni kalibrlashga yordam beradi.",
+    "slug": "gpt-5-6-sol-kvant-tajribalarini-otkazishga-yordam-beradi-167bce",
+    "title": "GPT-5.6 Sol kvant tajribalarini o'tkazishga yordam beradi",
+    "summary": "MIT tadqiqotchisi kvant hisoblash tajribalarini avtonom tarzda o'tkazish uchun Codex bilan birga GPT-5.6 Sol modelidan foydalanmoqda. Tizim tajriba natijalarini tahlil qiladi va kubitlarni kalibrlaydi.",
     "tags": [
       "OpenAI",
       "tadqiqot"
     ],
-    "importance": 2,
+    "importance": 3,
     "score": 33,
     "published": "2026-09-08T17:00:00.000Z",
-    "created": "2026-09-08T21:01:34.556Z",
+    "created": "2026-09-08T21:04:32.431Z",
     "coverage": 1,
     "source": {
       "name": "OpenAI",
@@ -52,45 +52,22 @@
   },
   {
     "id": "8e6861c7129c",
-    "slug": "openai-ai-tadqiqot-ishlarini-tezlashtirmoqda-8e6861",
-    "title": "OpenAI: AI tadqiqot ishlarini tezlashtirmoqda",
-    "summary": "OpenAI ma'lumotlariga ko'ra, sun'iy intellekt inson tadqiqotchilarining bir kunlik ishiga nisbatan uch kunlik natija bermoqda. Bosh olim Jakub Pachocki AI ni \"o'zga ong\" deb atadi.",
+    "slug": "ai-tadqiqotlar-tezligini-uch-barobarga-oshirdi-8e6861",
+    "title": "AI tadqiqotlar tezligini uch barobarga oshirdi",
+    "summary": "OpenAI ma'lumotlariga ko'ra, sun'iy intellekt inson tadqiqotchilarining bir kunlik mehnati evaziga uch kunlik tadqiqot natijalarini ishlab chiqarmoqda. Kompaniya bosh olimi Yakub Pachocki esa soha rivojlanishini sekinlashtirish kerakligini va AIga \"o'zga sayyoralik ongi\" kabi qarash lozimligini aytdi.",
     "tags": [
       "OpenAI",
       "tadqiqot"
     ],
-    "importance": 3,
+    "importance": 4,
     "score": 22,
     "published": "2026-09-08T11:01:57.000Z",
-    "created": "2026-09-08T21:01:34.558Z",
+    "created": "2026-09-08T21:04:32.435Z",
     "coverage": 1,
     "source": {
       "name": "Fortune",
       "url": "https://fortune.com/2026/09/08/openai-rsi-progress-jakub-pachoki-warns-dangers-slowdown-safety-rules",
       "title": "OpenAI details how AI is accelerating its own work—even as its chief scientist lays out growing dangers and says he hopes the industry slows down",
-      "indirect": false
-    },
-    "also": [],
-    "model": "gemini"
-  },
-  {
-    "id": "ab659088d647",
-    "slug": "antioch-ai-oqitish-uchun-32-million-dollar-yigdi-ab6590",
-    "title": "Antioch AI o'qitish uchun 32 million dollar yig'di",
-    "summary": "Antioch startapi AI o'qitishda apparat tekshiruvini kamaytirish uchun yuqori aniqlikdagi simulyatsiyalar yaratadi. Kompaniya Greylock boshchiligidagi A seriyali raundda 32 million dollar mablag' jalb qildi.",
-    "tags": [
-      "biznes",
-      "tadqiqot"
-    ],
-    "importance": 2,
-    "score": 21,
-    "published": "2026-09-08T19:55:02.000Z",
-    "created": "2026-09-08T21:01:34.559Z",
-    "coverage": 1,
-    "source": {
-      "name": "Techmeme",
-      "url": "https://techmeme.com/260908/p39",
-      "title": "Antioch, which creates high-fidelity simulations to reduce the need for hardware validation in physical AI training, raised a $32M Series A led by Greylock (John Koetsier/Forbes)",
       "indirect": false
     },
     "also": [],
