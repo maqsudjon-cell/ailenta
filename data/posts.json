@@ -1,5 +1,74 @@
 [
   {
+    "id": "9da7adf7eb48",
+    "slug": "mistral-24-milliard-dollar-qiymatga-erishdi-9da7ad",
+    "title": "Mistral 24 milliard dollar qiymatga erishdi",
+    "summary": "Mistral kompaniyasi Samsung boshchiligidagi yangi investitsiya raundida 24 milliard dollarlik bahoga erishdi. Kompaniya OpenAI va Anthropic bilan raqobatlashish uchun ochiq og'irlikli AI modellariga tayanmoqda.",
+    "tags": [
+      "Mistral",
+      "biznes"
+    ],
+    "importance": 5,
+    "score": 28,
+    "published": "2026-09-08T05:00:01.000Z",
+    "created": "2026-09-08T05:20:51.923Z",
+    "coverage": 1,
+    "source": {
+      "name": "CNBC",
+      "url": "https://cnbc.com/2026/09/08/mistral-ai-funding-valuation-samsung.html",
+      "title": "Mistral bags $24 billion valuation as Samsung leads funding for Europe's AI champion",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "97ae9f7c8ad8",
+    "slug": "anthropic-labs-faoliyati-haqida-malumotlar-berildi-97ae9f",
+    "title": "Anthropic Labs faoliyati haqida ma'lumotlar berildi",
+    "summary": "Anthropic Labs jamoasi 20 kishidan iborat bo'lib, har ikki haftada loyihalarni davom ettirish yoki to'xtatish bo'yicha qaror qabul qiladi. Mazkur laboratoriyada g'oyalarning 80 foizigacha samarasiz bo'lishiga ruxsat berilgan.",
+    "tags": [
+      "Anthropic",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 13,
+    "published": "2026-09-08T04:12:15.000Z",
+    "created": "2026-09-08T05:20:51.924Z",
+    "coverage": 2,
+    "source": {
+      "name": "36Kr",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5BUVdxNWNxMWxfS210X080VjhhZ0hua25XZUIzbVR4SU9FeHREeWJqUEdTbGs2MlFHY0ZTM3lqVzFqNThTU1hSMkxwZFVUNExzSHVj",
+      "title": "Anthropic Labs Uncovered: 20-Person Team, Biweekly Retention or Departure Decisions, 80% Idea Failure Permitted",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "645cb82364eb",
+    "slug": "meta-yangi-ai-fotosuratlardan-dipfeyk-yarata-oladi-645cb8",
+    "title": "Meta yangi AI fotosuratlardan dipfeyk yarata oladi",
+    "summary": "Meta chiqargan yangi AI vositasi Instagram'dagi suratlardan dipfeyk yaratish imkoniyatiga ega. Foydalanuvchilar maxsus ravishda rad etmasa, aksariyat ochiq profillar ushbu tizimga kiritiladi.",
+    "tags": [
+      "Meta",
+      "maxfiylik"
+    ],
+    "importance": 4,
+    "score": 2.1,
+    "published": "2026-09-07T05:09:25.000Z",
+    "created": "2026-09-08T05:20:51.925Z",
+    "coverage": 1,
+    "source": {
+      "name": "International Business Times",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOR2p2RmoyYk5OR2tpNDUyVy1haDZYbjFXWFUxQkJtMGJJZXVlTlBpcjNCX0FvWGJocUtTV0dWSmc0TUI0dU5scGhpM2lxbkN5R0k4YXphUm54bV84NUJ1Rk9Sb2ZaOFRtNzY2UjFabEVodmhlcDhpOFE3eEFMajNELWkzQnl0dzlPam5ZTmJUZVVqNFRYNkdiZkZsMDBLUmk4OTloSnhpOGtQTUFKVmtmeVprdUlWVTg1MWNHWV94OGZYN2NsWXc",
+      "title": "Meta's New AI Can Turn Instagram Photos Into Deepfakes. Most Public Users Are Included Unless They Opt Out.",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "d404bd289d58",
     "slug": "xitoy-rossiyaga-dron-xomashyosini-yetkazib-bergan-d404bd",
     "title": "Xitoy Rossiyaga dron xomashyosini yetkazib bergan",
