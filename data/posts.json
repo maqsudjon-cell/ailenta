@@ -1,16 +1,17 @@
 [
   {
     "id": "8cd9967101e8",
-    "slug": "it-park-texnologik-soha-uchun-rezyumelar-bazasini-yaratadi-8cd996",
-    "title": "IT Park texnologik soha uchun rezyumelar bazasini yaratadi",
-    "summary": "Mutaxassislar ushbu bazaga o'z rezyumelarini yuborishlari mumkin. Keyinchalik bu ma'lumotlar kadrlar qidirayotgan kompaniyalarga taqdim etiladi.",
+    "slug": "it-park-texnologik-soha-uchun-rezyumelar-bazasini-ochdi-8cd996",
+    "title": "IT Park texnologik soha uchun rezyumelar bazasini ochdi",
+    "summary": "IT Park texnologiya sohasidagi nomzodlar uchun yagona rezyumelar bazasini ishga tushirmoqda. Mutaxassislar o‘z rezyumelarini ushbu bazaga yuborishlari mumkin. Keyinchalik bu ma’lumotlar kadrlar qidirayotgan kompaniyalarga taqdim etiladi.",
     "tags": [
+      "mehnat bozori",
       "O'zbekiston"
     ],
     "importance": 3,
     "score": 45,
     "published": "2026-09-08T08:44:00.000Z",
-    "created": "2026-09-08T09:01:31.623Z",
+    "created": "2026-09-08T09:04:05.967Z",
     "coverage": 1,
     "source": {
       "name": "Spot.uz",
@@ -23,16 +24,17 @@
   },
   {
     "id": "9d1cb931f2a4",
-    "slug": "ozbekiston-va-serbiya-agrar-ishchi-guruh-tuzdi-9d1cb9",
-    "title": "O'zbekiston va Serbiya agrar ishchi guruh tuzdi",
-    "summary": "Serbiya va O'zbekiston qishloq xo'jaligi sohasida hamkorlikni kengaytirish uchun ishchi guruh tuzdi. Guruh investitsiya, texnologiya, savdo va sun'iy intellekt yo'nalishlarida ish olib boradi.",
+    "slug": "o-zbekiston-va-serbiya-agrar-ishchi-guruh-tuzdi-9d1cb9",
+    "title": "O‘zbekiston va Serbiya agrar ishchi guruh tuzdi",
+    "summary": "O‘zbekiston va Serbiya qishloq xo‘jaligi sohasida hamkorlikni kengaytirish maqsadida ishchi guruh tuzdi. Tomonlar investitsiyalar, texnologiyalar, savdo hamda sun’iy intellekt yo‘nalishlarida birgalikda faoliyat olib boradi.",
     "tags": [
-      "O'zbekiston"
+      "O'zbekiston",
+      "siyosat"
     ],
     "importance": 3,
     "score": 44,
     "published": "2026-09-08T07:15:00.000Z",
-    "created": "2026-09-08T09:01:31.624Z",
+    "created": "2026-09-08T09:04:05.968Z",
     "coverage": 1,
     "source": {
       "name": "UzDaily",
@@ -45,9 +47,9 @@
   },
   {
     "id": "e54c4e76417c",
-    "slug": "anthropic-va-openai-uchun-yuqori-kredit-reytingi-soralmoqda-e54c4e",
-    "title": "Anthropic va OpenAI uchun yuqori kredit reytingi so'ralmoqda",
-    "summary": "Anthropic va OpenAI bankirlari ushbu kompaniyalar IPO'dan keyin yuqori darajadagi kredit reytinglariga ega bo'lishi uchun harakat qilmoqda. Bu haqda Financial Times xabar berdi.",
+    "slug": "anthropic-va-openai-yuqori-kredit-reytingini-ko-zlamoqda-e54c4e",
+    "title": "Anthropic va OpenAI yuqori kredit reytingini ko‘zlamoqda",
+    "summary": "Anthropic va OpenAI bankirlari kompaniyalar IPOdan o‘tganidan keyin yuqori darajadagi kredit reytinglarini olishga intilmoqda. Bu haqda Financial Times nashri xabar berdi.",
     "tags": [
       "Anthropic",
       "OpenAI"
@@ -55,7 +57,7 @@
     "importance": 3,
     "score": 30,
     "published": "2026-09-08T04:00:17.000Z",
-    "created": "2026-09-08T09:01:31.625Z",
+    "created": "2026-09-08T09:04:05.969Z",
     "coverage": 1,
     "source": {
       "name": "Financial Times",
@@ -68,17 +70,17 @@
   },
   {
     "id": "fccf47848545",
-    "slug": "arm-yangi-platformada-agentli-aini-joriy-etmoqda-fccf47",
-    "title": "Arm yangi platformada agentli AI'ni joriy etmoqda",
-    "summary": "Arm kompaniyasi telefonlar uchun yangi avlod platformasida agentli AI va yuqori sifatli grafikani taqdim etdi. Yangi protsessor va videochiplar kam quvvat sarflagan holda yuqori tezlikni ta'minlaydi.",
+    "slug": "arm-yangi-platformada-agentli-ai-va-grafikani-taqdim-etdi-fccf47",
+    "title": "Arm yangi platformada agentli AI va grafikani taqdim etdi",
+    "summary": "Arm kompaniyasi telefonlar uchun mo‘ljallangan yeni avlod platformasida agentli AI va yuqori sifatli grafikani ilgari surmoqda. Yangi protsessor va videochiplar dizayni kam quvvat sarflagan holda kechikish vaqtini kamaytirishga qaratilgan.",
     "tags": [
-      "agentlar",
-      "chiplar"
+      "chiplar",
+      "agentlar"
     ],
     "importance": 3,
     "score": 25,
     "published": "2026-09-08T08:35:00.000Z",
-    "created": "2026-09-08T09:01:31.626Z",
+    "created": "2026-09-08T09:04:05.971Z",
     "coverage": 1,
     "source": {
       "name": "The Register",
@@ -92,15 +94,16 @@
   {
     "id": "12cd015eb8f2",
     "slug": "tsmc-va-samsung-asmlning-yangi-uskunalaridan-foydalanadi-12cd01",
-    "title": "TSMC va Samsung ASML'ning yangi uskunalaridan foydalanadi",
-    "summary": "TSMC va Samsung kompaniyalari ilg'or chiplar ishlab chiqarish uchun ASML'ning yangi High NA EUV uskunalarini joriy qiladi. Bunga sun'iy intellekt tufayli kichik va murakkab yarimo'tkazgichlarga bo'lgan talab sabab bo'lmoqda.",
+    "title": "TSMC va Samsung ASML’ning yangi uskunalaridan foydalanadi",
+    "summary": "TSMC va Samsung kompaniyalari ilg‘or chiplar ishlab chiqarish uchun ASML’ning eng yeni High NA EUV uskunalarini joriy etadi. Bunga sun’iy intellekt tufayli kichik va murakkab yarimo‘tkazgichlarga bo‘lgan talab ortishi sabab bo‘lmoqda.",
     "tags": [
-      "chiplar"
+      "chiplar",
+      "biznes"
     ],
     "importance": 4,
     "score": 19,
     "published": "2026-09-08T08:32:02.000Z",
-    "created": "2026-09-08T09:01:31.627Z",
+    "created": "2026-09-08T09:04:05.972Z",
     "coverage": 1,
     "source": {
       "name": "CNBC",
@@ -112,22 +115,91 @@
     "model": "gemini"
   },
   {
-    "id": "8f491a02e507",
-    "slug": "patagoniya-malumotlar-markazlari-uchun-jozibador-bolmoqda-8f491a",
-    "title": "Patagoniya ma'lumotlar markazlari uchun jozibador bo'lmoqda",
-    "summary": "Argentinaning Patagoniya hududi sovuq iqlimi, keng yer maydonlari va qayta tiklanadigan energiya manbalari tufayli ma'lumotlar markazlari ishlab chiquvchilarida qiziqish uyg'otmoqda. Bu haqda Reuters xabar berdi.",
+    "id": "ea011de79991",
+    "slug": "investorlar-ai-startaplarining-daromadlariga-shubha-qilmoqda-ea011d",
+    "title": "Investorlar AI startaplarining daromadlariga shubha qilmoqda",
+    "summary": "Sun’iy intellekt startaplari katta daromadlar haqida e’lon qilishda davom etayotgan bir paytda, venchur investorlar orasida shubhalar ortmoqda. Mutaxassislarning fikricha, ushbu hisob-kitoblar tobora tushunarsiz bo‘lib bormoqda.",
     "tags": [
-      "biznes"
+      "biznes",
+      "iqtisod"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-09-08T09:00:03.000Z",
+    "created": "2026-09-08T09:04:05.973Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/why-vcs-are-questioning-ai-companies-big-revenue-claims-2026-9",
+      "title": "'There's no accountability;' AI startups keep claiming huge revenue. VCs say the math is getting 'murky.'",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "8f491a02e507",
+    "slug": "patagoniya-malumotlar-markazlari-uchun-jozibador-bo-lmoqda-8f491a",
+    "title": "Patagoniya ma’lumotlar markazlari uchun jozibador bo‘lmoqda",
+    "summary": "Argentinaning Patagoniya hududi sovuq iqlimi, keng yer maydonlari va qayta tiklanadigan energiya manbalari tufayli ma’lumotlar markazlari ishlab chiquvchilarida qiziqish uyg‘otmoqda. Bu haqda Reuters agentligi xabar berdi.",
+    "tags": [
+      "biznes",
+      "bulut"
     ],
     "importance": 3,
     "score": 15,
     "published": "2026-09-08T08:56:11.000Z",
-    "created": "2026-09-08T09:01:31.627Z",
+    "created": "2026-09-08T09:04:05.974Z",
     "coverage": 1,
     "source": {
       "name": "Techmeme",
       "url": "https://techmeme.com/260908/p5",
       "title": "Argentina's Patagonia region is drawing interest from hyperscalers and data center developers due to its cold climate, expanses of land, and renewable energy (Leila Miller/Reuters)",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "900e05ac1c72",
+    "slug": "siyosatchilar-malumotlar-markazlari-bo-yicha-o-ylanmoqda-900e05",
+    "title": "Siyosatchilar ma’lumotlar markazlari bo‘yicha o‘ylanmoqda",
+    "summary": "Sun’iy intellekt ma’lumotlar markazlariga nisbatan jamoatchilik noroziligi ortishi fonida, 11 nafar siyosatchi o‘z qarashlarini qayta ko‘rib chiqmoqda. Ular imtiyozlarni kamaytirish, yangi cheklovlarni qo‘llab-quvvatlash yoki rivojlanishni to‘xtatishni talab qilmoqda.",
+    "tags": [
+      "siyosat"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-09-08T08:43:01.000Z",
+    "created": "2026-09-08T09:04:05.975Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/politicians-changing-views-ai-data-centers-backlash-2026-9",
+      "title": "11 politicians who have changed their tune on data centers",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "889fdad8559a",
+    "slug": "xodimlar-o-zlarining-ai-agentlari-bilan-maqtanmoqda-889fda",
+    "title": "Xodimlar o‘zlarining AI agentlari bilan maqtanmoqda",
+    "summary": "Ko‘plab xodimlar o‘nlab sun’iy intellekt agentlarini boshqarayotgani bilan maqtanmoqda. Biroq ekspertlarning ta’kidlashicha, bu raqamlar chalg‘ituvchi bo‘lishi mumkin va haqiqiy mehnat unumdorligi yoki qiymatini aks ettirmaydi.",
+    "tags": [
+      "agentlar",
+      "mehnat bozori"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-09-08T08:07:01.000Z",
+    "created": "2026-09-08T09:04:05.976Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/ai-agents-bot-bragging-workplace-flex-2026-9",
+      "title": "Why your coworker is suddenly obsessed with their little AI minions",
       "indirect": false
     },
     "also": [],
