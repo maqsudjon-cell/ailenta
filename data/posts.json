@@ -1,5 +1,139 @@
 [
   {
+    "id": "8cd9967101e8",
+    "slug": "it-park-texnologik-soha-uchun-rezyumelar-bazasini-yaratadi-8cd996",
+    "title": "IT Park texnologik soha uchun rezyumelar bazasini yaratadi",
+    "summary": "Mutaxassislar ushbu bazaga o'z rezyumelarini yuborishlari mumkin. Keyinchalik bu ma'lumotlar kadrlar qidirayotgan kompaniyalarga taqdim etiladi.",
+    "tags": [
+      "O'zbekiston"
+    ],
+    "importance": 3,
+    "score": 45,
+    "published": "2026-09-08T08:44:00.000Z",
+    "created": "2026-09-08T09:01:31.623Z",
+    "coverage": 1,
+    "source": {
+      "name": "Spot.uz",
+      "url": "https://spot.uz/ru/2026/09/08/talent-park",
+      "title": "IT Park запускает единую базу резюме соискателей в технологической сфере",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "9d1cb931f2a4",
+    "slug": "ozbekiston-va-serbiya-agrar-ishchi-guruh-tuzdi-9d1cb9",
+    "title": "O'zbekiston va Serbiya agrar ishchi guruh tuzdi",
+    "summary": "Serbiya va O'zbekiston qishloq xo'jaligi sohasida hamkorlikni kengaytirish uchun ishchi guruh tuzdi. Guruh investitsiya, texnologiya, savdo va sun'iy intellekt yo'nalishlarida ish olib boradi.",
+    "tags": [
+      "O'zbekiston"
+    ],
+    "importance": 3,
+    "score": 44,
+    "published": "2026-09-08T07:15:00.000Z",
+    "created": "2026-09-08T09:01:31.624Z",
+    "coverage": 1,
+    "source": {
+      "name": "UzDaily",
+      "url": "https://uzdaily.uz/uz/serbiya-va-ozbekiston-agrar-loyihalar-boyicha-ishchi-guruh-tuzadi",
+      "title": "Serbiya va O‘zbekiston agrar loyihalar bo‘yicha ishchi guruh tuzadi",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "e54c4e76417c",
+    "slug": "anthropic-va-openai-uchun-yuqori-kredit-reytingi-soralmoqda-e54c4e",
+    "title": "Anthropic va OpenAI uchun yuqori kredit reytingi so'ralmoqda",
+    "summary": "Anthropic va OpenAI bankirlari ushbu kompaniyalar IPO'dan keyin yuqori darajadagi kredit reytinglariga ega bo'lishi uchun harakat qilmoqda. Bu haqda Financial Times xabar berdi.",
+    "tags": [
+      "Anthropic",
+      "OpenAI"
+    ],
+    "importance": 3,
+    "score": 30,
+    "published": "2026-09-08T04:00:17.000Z",
+    "created": "2026-09-08T09:01:31.625Z",
+    "coverage": 1,
+    "source": {
+      "name": "Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPd3Z6TmVsNklaVTFJUzRYNkxMQjFoN2ZvSnJjbHlmX0JzTzgwUTRGVUlXR3NPM08wemRmUlItRGlBVzZNSlh0cXBiN1BsRW5LRzYtQUZ2QktPSF9ZQUY5SFRNalJYb0puYmtjQVFiQjZWWkNpQ2hQd1ZBUFRRZDhrdVBhbkk",
+      "title": "Anthropic and OpenAI bankers push for top-tier credit ratings post-IPO",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "fccf47848545",
+    "slug": "arm-yangi-platformada-agentli-aini-joriy-etmoqda-fccf47",
+    "title": "Arm yangi platformada agentli AI'ni joriy etmoqda",
+    "summary": "Arm kompaniyasi telefonlar uchun yangi avlod platformasida agentli AI va yuqori sifatli grafikani taqdim etdi. Yangi protsessor va videochiplar kam quvvat sarflagan holda yuqori tezlikni ta'minlaydi.",
+    "tags": [
+      "agentlar",
+      "chiplar"
+    ],
+    "importance": 3,
+    "score": 25,
+    "published": "2026-09-08T08:35:00.000Z",
+    "created": "2026-09-08T09:01:31.626Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/systems/2026/09/08/arm-pushes-agentic-ai-and-desktop-quality-graphics-in-next-gen-phone-platform/5294867",
+      "title": "Arm pushes agentic AI and desktop-quality graphics in next-gen phone platform",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "12cd015eb8f2",
+    "slug": "tsmc-va-samsung-asmlning-yangi-uskunalaridan-foydalanadi-12cd01",
+    "title": "TSMC va Samsung ASML'ning yangi uskunalaridan foydalanadi",
+    "summary": "TSMC va Samsung kompaniyalari ilg'or chiplar ishlab chiqarish uchun ASML'ning yangi High NA EUV uskunalarini joriy qiladi. Bunga sun'iy intellekt tufayli kichik va murakkab yarimo'tkazgichlarga bo'lgan talab sabab bo'lmoqda.",
+    "tags": [
+      "chiplar"
+    ],
+    "importance": 4,
+    "score": 19,
+    "published": "2026-09-08T08:32:02.000Z",
+    "created": "2026-09-08T09:01:31.627Z",
+    "coverage": 1,
+    "source": {
+      "name": "CNBC",
+      "url": "https://cnbc.com/2026/09/08/tsmc-samsung-asml-high-na-euv-machine-ai-chips.html",
+      "title": "TSMC, Samsung commit to ASML’s newest chipmaking tools as AI drives demand",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "8f491a02e507",
+    "slug": "patagoniya-malumotlar-markazlari-uchun-jozibador-bolmoqda-8f491a",
+    "title": "Patagoniya ma'lumotlar markazlari uchun jozibador bo'lmoqda",
+    "summary": "Argentinaning Patagoniya hududi sovuq iqlimi, keng yer maydonlari va qayta tiklanadigan energiya manbalari tufayli ma'lumotlar markazlari ishlab chiquvchilarida qiziqish uyg'otmoqda. Bu haqda Reuters xabar berdi.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-09-08T08:56:11.000Z",
+    "created": "2026-09-08T09:01:31.627Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/260908/p5",
+      "title": "Argentina's Patagonia region is drawing interest from hyperscalers and data center developers due to its cold climate, expanses of land, and renewable energy (Leila Miller/Reuters)",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "52ad15002832",
     "slug": "gpt-6-taqdimotidan-song-ai-chiplari-aksiyalari-oshdi-52ad15",
     "title": "GPT-6 taqdimotidan so'ng AI chiplari aksiyalari oshdi",
