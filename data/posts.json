@@ -1,5 +1,74 @@
 [
   {
+    "id": "e744af61e836",
+    "slug": "xitoy-ai-hisoblash-quvvatini-keskin-oshirdi-e744af",
+    "title": "Xitoy AI hisoblash quvvatini keskin oshirdi",
+    "summary": "Xitoyda sun'iy intellekt hisoblash quvvati o'tgan yilga nisbatan 177 foizga oshib, 2185 eflopsga yetdi. Mamlakat 2030-yilgacha infratuzilmaga 532 milliard dollar sarflab, quvvatni 9800 eflopsga yetkazishni rejalashtirmoqda.",
+    "tags": [
+      "siyosat",
+      "iqtisod"
+    ],
+    "importance": 4,
+    "score": 18,
+    "published": "2026-09-08T10:50:04.000Z",
+    "created": "2026-09-08T11:01:27.432Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/260908/p9",
+      "title": "China says its AI compute capacity rose 177% YoY to 2,185 eflops by the end of June, and targets 9,800 eflops by 2030 via ~$532B in IT infrastructure spend (Howard Liu/South China Morning Post)",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "dafbf04216e0",
+    "slug": "arm-rahbari-ai-saratonni-davolashi-mumkinligini-aytdi-dafbf0",
+    "title": "Arm rahbari AI saratonni davolashi mumkinligini aytdi",
+    "summary": "Arm bosh direktori sun'iy intellekt saratonni davolashga qodirligini ma'lum qildi. Biroq uning ta'kidlashicha, ma'lumotlar markazlari bu yo'lda asosiy to'siq bo'lib xizmat qilmoqda.",
+    "tags": [
+      "tibbiyot",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-09-08T06:47:18.000Z",
+    "created": "2026-09-08T11:01:27.434Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/arm-ceo-says-ai-could-cure-cancer-data-centers-bottleneck-2026-9",
+      "title": "Arm's CEO says AI could cure cancer, but data centers are creating a bottleneck",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "9e7370bba48d",
+    "slug": "nvidia-h100-chiplari-ijarasi-narxi-oshib-bormoqda-9e7370",
+    "title": "Nvidia H100 chiplari ijarasi narxi oshib bormoqda",
+    "summary": "Sun'iy intellektga bo'lgan talab ortishi fonida Nvidia H100 chiplarining ijara narxi ko'tarildi. Bu esa ushbu chiplarning eskirishi va qadrsizlanishining oldini olmoqda.",
+    "tags": [
+      "Nvidia",
+      "chiplar"
+    ],
+    "importance": 3,
+    "score": 10,
+    "published": "2026-09-08T06:21:00.000Z",
+    "created": "2026-09-08T11:01:27.435Z",
+    "coverage": 1,
+    "source": {
+      "name": "Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE52WFFoc08tRnUzQVBRN3B2UkpGV3hhbkU1Q09JTnFicXZORkNPd2hqTW1iYUgyOEgzcTA2UXFKMnFjWWpjd25rNGFYUmxjLTVtRkg3ZjdzMVdRUWlabWVCZHJPVkc4T21OSUFoOG5MMkJsOEZMU1Y5enRR0gGOAUFVX3lxTE5sT3VIU2dZbG1rRXlnRDYycnU2VmFHdERBSUptNU1pa1RoTnpSQW5idzVMeFBfeXhFbnY3S0hNdG00RkMxczBPNkZXVWZEXzhweWUzUGZuSi1GV0huMHVTeWh4QmhTNTFTMGpkT1Q2dDV1cGdwX3VMUG1LSDhlUE8xNm11azB4SzVrS25jQmc",
+      "title": "Nvidia H100 defies depreciation as rental fees surge amid AI demand - CHOSUNBIZ",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "a4b7df07e9bc",
     "slug": "dasturchilar-applening-yangi-siri-aisini-qabul-qilmayapti-a4b7df",
     "title": "Dasturchilar Apple’ning yangi Siri AI’sini qabul qilmayapti",
