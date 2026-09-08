@@ -1,5 +1,51 @@
 [
   {
+    "id": "51f2262b3e5e",
+    "slug": "preferred-networks-ai-chiplari-uchun-ipo-otkazmoqchi-51f226",
+    "title": "Preferred Networks AI chiplari uchun IPO o'tkazmoqchi",
+    "summary": "Preferred Networks kompaniyasi Nvidia GPU'laridan tezroq ishlaydigan AI chiplarini ommaviy ishlab chiqarish uchun IPO o'tkazishni rejalashtirmoqda. Mazkur tashabbus generativ sun'iy intellekt apparat vositalarini tezlashtirishga qaratilgan.",
+    "tags": [
+      "Nvidia",
+      "chiplar"
+    ],
+    "importance": 3,
+    "score": 10.9,
+    "published": "2026-09-07T09:44:07.000Z",
+    "created": "2026-09-08T03:05:02.783Z",
+    "coverage": 2,
+    "source": {
+      "name": "The Cryptonomist",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE93WXY0UmRVS2FvY3kyMlU5MFhRSDIwaGlTRk1TaXB1TDlJUjJ2cXZka3hiWUJ5V1pkeFE2YjhadUE0cE1RUFhTcldDWGJ6RWF1eVB1X0FNYzlOZS13VFN6S09XODA2Qmt3dE44ZDdUXzlHblFuVDVpOTNn",
+      "title": "Preferred Networks AI Chips IPO Targets Faster Generative AI Hardware",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "5b2518d0d9d8",
+    "slug": "scale-ai-suniy-intellekt-agentlari-xatolarini-organdi-5b2518",
+    "title": "Scale AI sun'iy intellekt agentlari xatolarini o'rgandi",
+    "summary": "Scale AI tadqiqotida AI agentlari xatolarining sabablari tahlil qilindi. Unga ko'ra, modelning o'zi deyarli hech qachon xatoga sabab bo'lmaydi va muammoni qo'shimcha o'qitish orqali hal qilib bo'lmaydi.",
+    "tags": [
+      "tadqiqot",
+      "agentlar"
+    ],
+    "importance": 2,
+    "score": 11,
+    "published": "2026-09-08T02:56:10.000Z",
+    "created": "2026-09-08T03:05:02.784Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1079638",
+      "title": "Кто на самом деле сломал вашего ИИ-агента: модель или обвязка?",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "d1f24e3f9c26",
     "slug": "samsung-sds-openai-va-anthropic-bilan-hamkorlik-qiladi-d1f24e",
     "title": "Samsung SDS OpenAI va Anthropic bilan hamkorlik qiladi",
