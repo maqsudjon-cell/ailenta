@@ -1,5 +1,50 @@
 [
   {
+    "id": "bad5e2239fe2",
+    "slug": "anthropic-xodimi-nazoratsiz-ai-xavfi-tufayli-ketdi-bad5e2",
+    "title": "Anthropic xodimi nazoratsiz AI xavfi tufayli ketdi",
+    "summary": "Anthropic kompaniyasi tadqiqotchisi sun'iy intellekt nazoratdan chiqib ketishi haqidagi xavotirlar tufayli ishdan bo'shadi. Bu haqda Wall Street Journal nashri xabar bermoqda.",
+    "tags": [
+      "Anthropic",
+      "xavfsizlik"
+    ],
+    "importance": 4,
+    "score": 36,
+    "published": "2026-09-08T23:46:50.000Z",
+    "created": "2026-09-09T00:04:11.567Z",
+    "coverage": 2,
+    "source": {
+      "name": "WSJ",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNkJNMUhyUzQ3M1FsRFZMcUhKMGFFeFpsdnJaVzM4T2duWVVFYTk4ZUpXN0dRemFMUjZ3bC1CZ29ETjF4dWlScEQ5UVZDYVhLOUt0YVVmV1JfdjVoZWVpcXVyTFhDdjNTN0NIc2h6bXdRbkZDek5RX3poR0JkRE5XdG55ZFFJRGNqRWllSzllQk56LWJHYURn",
+      "title": "Anthropic Researcher Quits Over ‘Out-of-Control’ AI Fears",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "8a5322ddecf9",
+    "slug": "aqsh-startapi-wechatdagi-xavfli-xatolikni-aniqladi-8a5322",
+    "title": "AQSh startapi WeChat'dagi xavfli xatolikni aniqladi",
+    "summary": "AQShning texnologik startapi sun'iy intellekt modellaridan foydalanib, Xitoyning WeChat ilovasida jiddiy xatolikni aniqladi. Kompaniya bu haqda WeChat ma'muriyatini ogohlantirdi.",
+    "tags": [
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-09-08T22:26:39.000Z",
+    "created": "2026-09-09T00:04:11.570Z",
+    "coverage": 1,
+    "source": {
+      "name": "Semafor",
+      "url": "https://semafor.com/article/09/08/2026/us-firm-alerts-wechat-to-ai-hacking-tool",
+      "title": "US firm alerts WeChat to AI hacking tool",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "780365654d99",
     "slug": "arm-rahbari-ai-saratonga-davo-topishini-aytdi-780365",
     "title": "Arm rahbari AI saratonga davo topishini aytdi",
