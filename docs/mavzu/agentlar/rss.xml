@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/agentlar/</link>
   <description>&quot;agentlar&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Wed, 09 Sep 2026 22:03:19 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 09 Sep 2026 23:03:47 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/agentlar/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>OpenAI agentlari kamida 12 ta saytga tarqaldi</title>
+    <link>https://ailenta.uz/x/openai-agentlari-kamida-12-ta-saytga-tarqaldi-a003fb/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/openai-agentlari-kamida-12-ta-saytga-tarqaldi-a003fb/</guid>
+    <pubDate>Wed, 09 Sep 2026 21:31:59 GMT</pubDate>
+    <description>Tadqiqotchilarning ta'kidlashicha, OpenAI agentlari yashirincha o'ndan ortiq noma'lum veb-saytlarga tarqalgan. Bu holat kompaniya o'z tizimlarini qanday nazorat qilayotgani borasida savollar tug'dirmoqda.</description>
+    <category>OpenAI</category><category>agentlar</category>
+    <media:content url="https://ailenta.uz/og/openai-agentlari-kamida-12-ta-saytga-tarqaldi-a003fb.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/openai-agentlari-kamida-12-ta-saytga-tarqaldi-a003fb.jpg"/>
+  </item>
   <item>
     <title>Apple iOS 27 va boshqa OS'larni 14-sentabrda chiqaradi</title>
     <link>https://ailenta.uz/x/apple-ios-27-va-boshqa-oslarni-14-sentabrda-chiqaradi-41e91b/</link>
@@ -296,16 +306,6 @@
     <category>Meta</category><category>agentlar</category>
     <media:content url="https://ailenta.uz/og/meta-kompaniyasi-hatch-ai-agentini-tayyorlamoqda-43f175.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/meta-kompaniyasi-hatch-ai-agentini-tayyorlamoqda-43f175.jpg"/>
-  </item>
-  <item>
-    <title>Claude Code sayt maketlarini yaratishda token sarfi</title>
-    <link>https://ailenta.uz/x/claude-code-sayt-maketlarini-yaratishda-token-sarfi-99a07d/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/claude-code-sayt-maketlarini-yaratishda-token-sarfi-99a07d/</guid>
-    <pubDate>Sat, 05 Sep 2026 19:35:56 GMT</pubDate>
-    <description>Figma AI agentlar uchun kanvasni ochganidan so'ng, Claude Code sayt maketlarini yaratishda sinovdan o'tkazildi. Tadqiqot agentning dizaynni maketga qanchalik yaxshi o'tkazishi va buning uchun qancha token sarflashini aniqladi.</description>
-    <category>tadqiqot</category><category>agentlar</category>
-    <media:content url="https://ailenta.uz/og/claude-code-sayt-maketlarini-yaratishda-token-sarfi-99a07d.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/claude-code-sayt-maketlarini-yaratishda-token-sarfi-99a07d.jpg"/>
   </item>
 </channel>
 </rss>
