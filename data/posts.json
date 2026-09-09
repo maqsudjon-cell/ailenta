@@ -1,5 +1,54 @@
 [
   {
+    "id": "b5810de0e33a",
+    "slug": "ai-agenti-gadjetlarni-buzdi-va-xavfsizlikni-oshirdi-b5810d",
+    "title": "AI agenti gadjetlarni buzdi va xavfsizlikni oshirdi",
+    "summary": "Bir foydalanuvchi xavfsizlik cheklovlari olib tashlangan ochiq modelga o'z gadjetlarini buzishga ruxsat berdi. AI agenti uy qurilmalaridagi zaifliklarni topib, kompyuterga kirdi. Shuningdek, u qurilmalarni qanday qilib xavfsizroq qilish bo'yicha maslahatlar berdi.",
+    "tags": [
+      "agentlar",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 29,
+    "published": "2026-09-09T18:30:00.000Z",
+    "created": "2026-09-09T18:37:14.672Z",
+    "coverage": 1,
+    "source": {
+      "name": "Wired",
+      "url": "https://wired.com/story/i-used-ai-to-hack-my-home-network",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "094bffaacf50",
+    "slug": "microsoft-maktablar-uchun-ai-maxfiylik-qoidalarini-joriy-etd-094bff",
+    "title": "Microsoft maktablar uchun AI maxfiylik qoidalarini joriy etdi",
+    "summary": "Microsoft Amerika O'qituvchilar Federatsiyasi (AFT) bilan maktablarda AI xavfsizligi va maxfiyligi bo'yicha kelishuvga erishdi. Bu kelishuv Microsoftni ma'lumotlar buzilishi uchun javobgar qiluvchi huquqiy himoyani o'z ichiga oladi.",
+    "tags": [
+      "Microsoft",
+      "maxfiylik"
+    ],
+    "importance": 4,
+    "score": 21,
+    "published": "2026-09-09T17:07:48.000Z",
+    "created": "2026-09-09T18:37:14.673Z",
+    "coverage": 2,
+    "source": {
+      "name": "The Verge",
+      "url": "https://theverge.com/policy/992359/microsoft-aft-schools-ai-privacy",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "Techmeme",
+        "url": "https://techmeme.com/260909/p21"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
     "id": "534907e0d31e",
     "slug": "pol-kristiano-openai-boshqaruv-kengashiga-qoshildi-534907",
     "title": "Pol Kristiano OpenAI boshqaruv kengashiga qo'shildi",
