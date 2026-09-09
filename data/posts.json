@@ -1,5 +1,74 @@
 [
   {
+    "id": "57a76e85b338",
+    "slug": "aqsh-xitoy-ai-kompaniyalarini-nusxa-kochirishda-aybladi-57a76e",
+    "title": "AQSh Xitoy AI kompaniyalarini nusxa ko'chirishda aybladi",
+    "summary": "AQSh maxsus xizmatlari va CISA agentligi Xitoyning DeepSeek va Alibaba kabi yetakchi kompaniyalarini Amerika modellaridan tizimli ravishda nusxa ko'chirishda aybladi. Ularning asosiy strategiyasi AQSh modellarini distillash orqali o'zlashtirishdan iborat ekani aytilmoqda.",
+    "tags": [
+      "DeepSeek",
+      "siyosat"
+    ],
+    "importance": 4,
+    "score": 28,
+    "published": "2026-09-09T02:59:20.000Z",
+    "created": "2026-09-09T09:01:29.780Z",
+    "coverage": 2,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/ai-and-ml/2026/09/09/us-claims-chinese-ai-companies-core-ai-strategy-is-distilling-american-models/5295171",
+      "title": "US claims Chinese AI companies’ core AI strategy is distilling American models",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "5681caf98ef3",
+    "slug": "filippin-ai-yordamida-yalpi-ichki-mahsulotni-oshirmoqchi-5681ca",
+    "title": "Filippin AI yordamida yalpi ichki mahsulotni oshirmoqchi",
+    "summary": "Filippin sun'iy intellekt yordamida yetti yil ichida yalpi ichki mahsulotni 12 foizga oshirishni rejalashtirmoqda. Buning uchun mamlakat ma'lumotlar markazlari quvvatini 30 barobarga kengaytirishni maqsad qilgan.",
+    "tags": [
+      "iqtisod",
+      "bulut"
+    ],
+    "importance": 3,
+    "score": 22,
+    "published": "2026-09-09T05:25:44.000Z",
+    "created": "2026-09-09T09:01:29.782Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/public-sector/2026/09/09/philippines-bets-ai-will-lift-gdp-by-12-percent-in-seven-years-without-hurting-outsourcing/5295178",
+      "title": "Philippines bets AI will lift GDP by 12 percent in seven years – without hurting outsourcing",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "92b54c005d6b",
+    "slug": "oq-uy-ai-xavfsizligi-qoidalarini-elon-qilishga-chaqirildi-92b54c",
+    "title": "Oq uy AI xavfsizligi qoidalarini e'lon qilishga chaqirildi",
+    "summary": "AQShdagi so'l va o'ng qanot tashkilotlaridan iborat koalitsiya Oq uyni sun'iy intellekt xavfsizligi bo'yicha ixtiyoriy qoidalarni ommaga e'lon qilishga chaqirdi. Ular bu borada maxsus maktub yo'llashgan.",
+    "tags": [
+      "xavfsizlik",
+      "siyosat"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-09-09T08:38:42.000Z",
+    "created": "2026-09-09T09:01:45.614Z",
+    "coverage": 1,
+    "source": {
+      "name": "Semafor",
+      "url": "https://semafor.com/article/09/08/2026/left-right-coalition-seeks-release-of-white-house-ai-framework",
+      "title": "Left-right coalition seeks release of White House AI framework",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "e674b68670d0",
     "slug": "openai-sobiq-tadqiqotchisi-tencent-jamoasiga-rahbar-boldi-e674b6",
     "title": "OpenAI sobiq tadqiqotchisi Tencent jamoasiga rahbar bo'ldi",
