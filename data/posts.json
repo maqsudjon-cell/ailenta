@@ -1,5 +1,78 @@
 [
   {
+    "id": "f821f043161d",
+    "slug": "google-deepmind-inson-genomi-atlasini-yaratdi-f821f0",
+    "title": "Google DeepMind inson genomi atlasini yaratdi",
+    "summary": "Google DeepMind inson genomi atlasini ishlab chiqdi. Ushbu loyiha kelajakda yangi davolash usullarini yaratishga yo'l ochishi kutilmoqda.",
+    "tags": [
+      "Google",
+      "tibbiyot"
+    ],
+    "importance": 4,
+    "score": 28,
+    "published": "2026-09-08T22:50:25.000Z",
+    "created": "2026-09-09T03:01:24.840Z",
+    "coverage": 2,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/ai-and-ml/2026/09/08/google-deepmind-rises-above-the-ai-scrum-with-genome-atlas/5295137",
+      "title": "Google DeepMind rises above the AI scrum with genome atlas",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "The Verge",
+        "url": "https://theverge.com/ai-artificial-intelligence/991180/google-launches-alpha-genome-atlas"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "25531677a926",
+    "slug": "amazon-va-qualcomm-ai-chiplarini-hamkorlikda-ishlab-chiqadi-255316",
+    "title": "Amazon va Qualcomm AI chiplarini hamkorlikda ishlab chiqadi",
+    "summary": "Amazon va Qualcomm kompaniyalari sun'iy intellekt ma'lumotlar markazlari uchun chiplar ishlab chiqish bo'yicha hamkorlikni yo'lga qo'ydi. Ushbu ko'p avlodli loyiha tarmoq chiplarini ham qamrab oladi.",
+    "tags": [
+      "Amazon",
+      "Qualcomm"
+    ],
+    "importance": 3,
+    "score": 28,
+    "published": "2026-09-08T17:29:24.000Z",
+    "created": "2026-09-09T03:01:24.841Z",
+    "coverage": 2,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/off-prem/2026/09/08/amazon-ropes-qualcomm-into-something-something-ai-networking-chips/5295071",
+      "title": "Amazon ropes Qualcomm into something, something AI, networking chips",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "55333c5a675b",
+    "slug": "ai-samaradorligi-model-emas-malumotlar-hisobiga-oshgan-55333c",
+    "title": "AI samaradorligi model emas, ma'lumotlar hisobiga oshgan",
+    "summary": "Dwarkesh Podcast tahliliga ko'ra, 2019-yildan 2025-yilgacha sun'iy intellektni o'qitish samaradorligi oshgan. Bu o'sish asosan modellar emas, balki ma'lumotlarning yaxshilanishi hisobiga sodir bo'lgan.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 18,
+    "published": "2026-09-09T02:10:01.000Z",
+    "created": "2026-09-09T03:01:24.844Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/260908/p49",
+      "title": "from 2019 to 2025, gains in pretraining compute efficiency came mostly from data improvements rather than model improvements (Dwarkesh Podcast)",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "64550b5aad18",
     "slug": "xodimlarni-lavozimda-kotarish-aiga-boglanmoqda-64550b",
     "title": "Xodimlarni lavozimda ko'tarish AI'ga bog'lanmoqda",
