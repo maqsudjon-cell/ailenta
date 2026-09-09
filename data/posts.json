@@ -1,5 +1,50 @@
 [
   {
+    "id": "ada2f6461358",
+    "slug": "google-deepmind-sevgi-tarixini-ai-yordamida-tikladi-ada2f6",
+    "title": "Google DeepMind sevgi tarixini AI yordamida tikladi",
+    "summary": "Rejissyorlar va Google DeepMind sun'iy intellekt yordamida er-xotinning o'tmishini qayta tikladi. Ushbu texnologiya \"Love, Rendered\" qisqa metrajli filmida qo'llanilgan.",
+    "tags": [
+      "Google"
+    ],
+    "importance": 2,
+    "score": 36,
+    "published": "2026-09-09T16:00:00.000Z",
+    "created": "2026-09-09T16:55:13.347Z",
+    "coverage": 1,
+    "source": {
+      "name": "Google",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film",
+      "title": "Recreating a 70-year love story frame by frame",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "0a560326fee8",
+    "slug": "anthropic-iqtisodiy-osishni-bashorat-qiluvchi-vosita-chiqard-0a5603",
+    "title": "Anthropic iqtisodiy o'sishni bashorat qiluvchi vosita chiqardi",
+    "summary": "Anthropic kompaniyasi sun'iy intellektning AQSh iqtisodiyotiga ta'sirini o'rganuvchi interaktiv vositani taqdim etdi. Unda AI 2030-yilgacha ish o'rinlari, ish haqi va iqtisodiy o'sishga qanday ta'sir qilishi ko'rsatilgan.",
+    "tags": [
+      "Anthropic",
+      "iqtisod"
+    ],
+    "importance": 3,
+    "score": 21,
+    "published": "2026-09-09T15:45:34.000Z",
+    "created": "2026-09-09T16:55:38.922Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/260909/p22",
+      "title": "Anthropic releases an interactive tool that lets users explore how AI might affect US economic growth, jobs, wages, and more by 2030 (Scott Horsley/NPR)",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "3e6aa5af2ab6",
     "slug": "ai-ishlatadigan-oquvchilar-pastroq-baho-oladi-3e6aa5",
     "title": "AI ishlatadigan o'quvchilar pastroq baho oladi",
