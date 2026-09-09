@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/chiplar/</link>
   <description>&quot;chiplar&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Wed, 09 Sep 2026 13:05:27 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 09 Sep 2026 14:03:35 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/chiplar/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>AWS va Qualcomm sun'iy intellekt sohasida hamkorlik qilmoqda</title>
+    <link>https://ailenta.uz/x/aws-va-qualcomm-suniy-intellekt-sohasida-hamkorlik-qilmoqda-af2ee6/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/aws-va-qualcomm-suniy-intellekt-sohasida-hamkorlik-qilmoqda-af2ee6/</guid>
+    <pubDate>Wed, 09 Sep 2026 12:27:42 GMT</pubDate>
+    <description>AWS kompaniyasi sun'iy intellekt xulosalarini chiqarish uchun Qualcomm chiplaridan foydalanmoqda. O'z navbatida, Qualcomm yangi chiplarni loyihalashda AWS Bedrock platformasidan foydalanadi.</description>
+    <category>Qualcomm</category><category>chiplar</category>
+    <media:content url="https://ailenta.uz/og/aws-va-qualcomm-suniy-intellekt-sohasida-hamkorlik-qilmoqda-af2ee6.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/aws-va-qualcomm-suniy-intellekt-sohasida-hamkorlik-qilmoqda-af2ee6.jpg"/>
+  </item>
   <item>
     <title>Xiaomi o'zining yangi chiplarini ishlab chiqaradi</title>
     <link>https://ailenta.uz/x/xiaomi-ozining-yangi-chiplarini-ishlab-chiqaradi-4573e4/</link>
@@ -296,16 +306,6 @@
     <category>Nvidia</category><category>chiplar</category>
     <media:content url="https://ailenta.uz/og/ikki-chip-uskunalari-aksiyasi-nvidia-dan-ustun-keldi-191af6.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/ikki-chip-uskunalari-aksiyasi-nvidia-dan-ustun-keldi-191af6.jpg"/>
-  </item>
-  <item>
-    <title>Apple Neural Engine: Qwen modelini ishga tushirish</title>
-    <link>https://ailenta.uz/x/apple-neural-engine-qwen-modelini-ishga-tushirish-2fec4b/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/apple-neural-engine-qwen-modelini-ishga-tushirish-2fec4b/</guid>
-    <pubDate>Sat, 05 Sep 2026 12:08:08 GMT</pubDate>
-    <description>Apple Neural Engine (ANE) boʻyicha tadqiqotlar davom etmoqda. Unda Qwen modelini GPU va CPUʼsiz ishga tushirish usullari koʻrib chiqildi.</description>
-    <category>Apple</category><category>chiplar</category>
-    <media:content url="https://ailenta.uz/og/apple-neural-engine-qwen-modelini-ishga-tushirish-2fec4b.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/apple-neural-engine-qwen-modelini-ishga-tushirish-2fec4b.jpg"/>
   </item>
 </channel>
 </rss>

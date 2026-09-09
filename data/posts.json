@@ -1,5 +1,102 @@
 [
   {
+    "id": "501c0abacbed",
+    "slug": "instacart-ozining-clementine-ai-yordamchisini-chiqardi-501c0a",
+    "title": "Instacart o'zining Clementine AI yordamchisini chiqardi",
+    "summary": "Instacart platformasi Clementine deb nomlangan suhbatdosh sun'iy intellekt yordamchisini ishga tushirdi. Ushbu yangi vosita foydalanuvchilarga oziq-ovqat xarid qilishda ko'maklashadi.",
+    "tags": [
+      "biznes",
+      "agentlar"
+    ],
+    "importance": 2,
+    "score": 21,
+    "published": "2026-09-09T13:00:00.000Z",
+    "created": "2026-09-09T14:01:30.037Z",
+    "coverage": 2,
+    "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/09/instacart-launches-an-ai-grocery-shopping-assistant-called-clementine",
+      "title": "Instacart launches an AI grocery shopping assistant called Clementine",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "Engadget",
+        "url": "https://engadget.com/2253622/instacart-ai-assistant-called-clementine"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "dde093efbd06",
+    "slug": "adgm-markazidagi-ai-mablaglari-100-mlrd-dollardan-oshdi-dde093",
+    "title": "ADGM markazidagi AI mablag'lari 100 mlrd dollardan oshdi",
+    "summary": "Abu-Dabining ADGM xalqaro moliyaviy markazida sun'iy intellektga yo'naltirilgan mablag'lar miqdori 100 milliard dollardan oshdi. Ular orasida eng yirigi iyul oyida 49 milliard dollarlik birinchi fondini yopgan MGX texnologik kompaniyasidir.",
+    "tags": [
+      "iqtisod",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-09-09T13:34:46.000Z",
+    "created": "2026-09-09T14:01:30.039Z",
+    "coverage": 1,
+    "source": {
+      "name": "Semafor",
+      "url": "https://semafor.com/article/09/09/2026/abu-dhabis-adgm-now-holds-more-than-100-billion-in-ai-money",
+      "title": "Abu Dhabi’s ADGM now holds more than $100B in AI money",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "9556e1ec3e54",
+    "slug": "mark-zuckerberg-metaning-muse-ai-agentidan-qanday-foydalanad-9556e1",
+    "title": "Mark Zuckerberg Meta'ning Muse AI agentidan qanday foydalanadi",
+    "summary": "Mark Zuckerberg dam olish kunlari qizi bilan pishiriq tayyorlash kabi oilaviy yumushlarda Meta kompaniyasining Muse nomli sun'iy intellekt agentidan foydalanishini ma'lum qildi. Shuningdek, u ushbu agentdan MMA bo'yicha maslahatlar olishda ham foydalanadi.",
+    "tags": [
+      "Meta",
+      "agentlar"
+    ],
+    "importance": 2,
+    "score": 18,
+    "published": "2026-09-09T13:01:03.000Z",
+    "created": "2026-09-09T14:01:36.015Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/mark-zuckerberg-muse-ai-meta-baking-tips-mma-advice-2026-9",
+      "title": "Mark Zuckerberg laid out what he uses Meta's new AI agent for — kid-friendly cake recipes and MMA advice",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "af2ee6b4c09e",
+    "slug": "aws-va-qualcomm-suniy-intellekt-sohasida-hamkorlik-qilmoqda-af2ee6",
+    "title": "AWS va Qualcomm sun'iy intellekt sohasida hamkorlik qilmoqda",
+    "summary": "AWS kompaniyasi sun'iy intellekt xulosalarini chiqarish uchun Qualcomm chiplaridan foydalanmoqda. O'z navbatida, Qualcomm yangi chiplarni loyihalashda AWS Bedrock platformasidan foydalanadi.",
+    "tags": [
+      "Qualcomm",
+      "chiplar"
+    ],
+    "importance": 3,
+    "score": 18,
+    "published": "2026-09-09T12:27:42.000Z",
+    "created": "2026-09-09T14:01:36.016Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/aws-is-using-qualcomm-for-ai-inference-while-qualcomm-uses-aws-bedrock-to-design-the-chips",
+      "title": "AWS is using Qualcomm for AI inference while Qualcomm uses AWS Bedrock to design the chips",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "a3c1048ceff7",
     "slug": "anthropic-tadqiqotchisi-ai-xavfi-sabab-kompaniyani-tark-etdi-a3c104",
     "title": "Anthropic tadqiqotchisi AI xavfi sabab kompaniyani tark etdi",
