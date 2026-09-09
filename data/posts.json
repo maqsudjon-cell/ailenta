@@ -1,17 +1,17 @@
 [
   {
     "id": "57a76e85b338",
-    "slug": "aqsh-xitoy-ai-kompaniyalarini-nusxa-kochirishda-aybladi-57a76e",
-    "title": "AQSh Xitoy AI kompaniyalarini nusxa ko'chirishda aybladi",
-    "summary": "AQSh maxsus xizmatlari va CISA agentligi Xitoyning DeepSeek va Alibaba kabi yetakchi kompaniyalarini Amerika modellaridan tizimli ravishda nusxa ko'chirishda aybladi. Ularning asosiy strategiyasi AQSh modellarini distillash orqali o'zlashtirishdan iborat ekani aytilmoqda.",
+    "slug": "aqsh-xitoy-ai-kompaniyalarini-amerika-modellarini-nusxalashd-57a76e",
+    "title": "AQSh Xitoy AI kompaniyalarini Amerika modellarini nusxalashda aybladi",
+    "summary": "AQSh agentliklari Xitoyning DeepSeek va Alibaba kabi AI kompaniyalari Amerika modellarini tizimli ravishda nusxalayotganini da'vo qildi. Ular buni \"sanoat miqyosidagi distillash\" deb atamoqda.",
     "tags": [
-      "DeepSeek",
-      "siyosat"
+      "siyosat",
+      "DeepSeek"
     ],
     "importance": 4,
     "score": 28,
     "published": "2026-09-09T02:59:20.000Z",
-    "created": "2026-09-09T09:01:29.780Z",
+    "created": "2026-09-09T09:05:43.996Z",
     "coverage": 2,
     "source": {
       "name": "The Register",
@@ -24,17 +24,17 @@
   },
   {
     "id": "5681caf98ef3",
-    "slug": "filippin-ai-yordamida-yalpi-ichki-mahsulotni-oshirmoqchi-5681ca",
-    "title": "Filippin AI yordamida yalpi ichki mahsulotni oshirmoqchi",
-    "summary": "Filippin sun'iy intellekt yordamida yetti yil ichida yalpi ichki mahsulotni 12 foizga oshirishni rejalashtirmoqda. Buning uchun mamlakat ma'lumotlar markazlari quvvatini 30 barobarga kengaytirishni maqsad qilgan.",
+    "slug": "filippin-ai-bilan-yaimni-12-oshirishni-rejalashtirmoqda-5681ca",
+    "title": "Filippin AI bilan YaIMni 12% oshirishni rejalashtirmoqda",
+    "summary": "Filippin sun'iy intellekt yordamida yetti yil ichida YaIMni 12 foizga oshirishni maqsad qilgan. Mamlakat ma'lumotlar markazlari hajmini 30 barobar kengaytirishni rejalashtirmoqda.",
     "tags": [
       "iqtisod",
-      "bulut"
+      "siyosat"
     ],
     "importance": 3,
     "score": 22,
     "published": "2026-09-09T05:25:44.000Z",
-    "created": "2026-09-09T09:01:29.782Z",
+    "created": "2026-09-09T09:05:49.900Z",
     "coverage": 1,
     "source": {
       "name": "The Register",
@@ -46,23 +46,23 @@
     "model": "gemini"
   },
   {
-    "id": "92b54c005d6b",
-    "slug": "oq-uy-ai-xavfsizligi-qoidalarini-elon-qilishga-chaqirildi-92b54c",
-    "title": "Oq uy AI xavfsizligi qoidalarini e'lon qilishga chaqirildi",
-    "summary": "AQShdagi so'l va o'ng qanot tashkilotlaridan iborat koalitsiya Oq uyni sun'iy intellekt xavfsizligi bo'yicha ixtiyoriy qoidalarni ommaga e'lon qilishga chaqirdi. Ular bu borada maxsus maktub yo'llashgan.",
+    "id": "02455bf6ab8f",
+    "slug": "sergey-brin-googlening-ai-sohasidagi-qaytishiga-rahbarlik-qi-02455b",
+    "title": "Sergey Brin Google'ning AI sohasidagi qaytishiga rahbarlik qilmoqda",
+    "summary": "Google'ning AI bo'limidagi o'zgarishlar Sergey Brinning ta'sirini oshirdi. Ichki manbalarga ko'ra, u Gemini loyihasini startap kabi boshqarishga harakat qilmoqda.",
     "tags": [
-      "xavfsizlik",
-      "siyosat"
+      "Google",
+      "biznes"
     ],
     "importance": 3,
-    "score": 19,
-    "published": "2026-09-09T08:38:42.000Z",
-    "created": "2026-09-09T09:01:45.614Z",
+    "score": 18,
+    "published": "2026-09-09T09:00:01.000Z",
+    "created": "2026-09-09T09:06:32.627Z",
     "coverage": 1,
     "source": {
-      "name": "Semafor",
-      "url": "https://semafor.com/article/09/08/2026/left-right-coalition-seeks-release-of-white-house-ai-framework",
-      "title": "Left-right coalition seeks release of White House AI framework",
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/sergey-brin-google-gemini-ai-microkitchen-2026-9",
+      "title": "Sergey Brin is cooking up Google's AI comeback in a California microkitchen",
       "indirect": false
     },
     "also": [],
