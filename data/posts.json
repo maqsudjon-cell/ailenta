@@ -1,5 +1,96 @@
 [
   {
+    "id": "64550b5aad18",
+    "slug": "xodimlarni-lavozimda-kotarish-aiga-boglanmoqda-64550b",
+    "title": "Xodimlarni lavozimda ko'tarish AI'ga bog'lanmoqda",
+    "summary": "Ko'proq kompaniyalar xodimlarning martaba o'sishini sun'iy intellektdan foydalanish darajasiga bog'lamoqda. BBC News nashrining xabar berishicha, bu holat ish joylarida bunday yondashuvning qanchalik adolatli ekanligi borasidagi savollarni keltirib chiqarmoqda.",
+    "tags": [
+      "mehnat bozori"
+    ],
+    "importance": 2,
+    "score": 23,
+    "published": "2026-09-08T23:05:23.000Z",
+    "created": "2026-09-09T01:01:32.448Z",
+    "coverage": 1,
+    "source": {
+      "name": "BBC News",
+      "url": "https://bbc.co.uk/news/articles/c1j1896e973o?at_medium=RSS&at_campaign=rss",
+      "title": "Should promotion depend on how workers use AI?",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "9ab49c70fe6f",
+    "slug": "anthropic-yirik-texnologik-guruhdan-ajralib-chiqdi-9ab49c",
+    "title": "Anthropic yirik texnologik guruhdan ajralib chiqdi",
+    "summary": "Axios nashrining xabar berishicha, Anthropic kompaniyasi chiplar bo'yicha kelishmovchiliklar sababli yirik texnologik guruh bilan hamkorlikni to'xtatdi. Tafsilotlar hozircha to'liq ochiqlanmagan.",
+    "tags": [
+      "Anthropic",
+      "chiplar"
+    ],
+    "importance": 3,
+    "score": 23,
+    "published": "2026-09-08T19:54:27.000Z",
+    "created": "2026-09-09T01:01:32.449Z",
+    "coverage": 1,
+    "source": {
+      "name": "Axios",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1wQXJjM3prLW5SV3pEUVJlS1lzZzlKbTFtNngzUUJSU0ZvR08xODFXMVlGSTNwNG5HdXN6WGpLMWt1VkdBaHowTUo1bEluQ0QyeUNmLXZTcFNFQjkxSFkzbTBRN01VWk11c1FQWGxaQWc3aWUy",
+      "title": "Scoop: Anthropic breaks from major tech group over chips",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "5d2c9d03d5dd",
+    "slug": "jim-kremer-investorlarni-ai-aksiyalaridan-chalgishga-chaqird-5d2c9d",
+    "title": "Jim Kremer investorlarni AI aksiyalaridan chalg'ishga chaqirdi",
+    "summary": "CNBC teleboshlovchisi Jim Kremer investorlar sun'iy intellekt ma'lumotlar markazlariga haddan tashqari ko'p e'tibor qaratayotganini aytdi. Uning fikricha, bozorning boshqa sohalarida ham jozibador investitsiya imkoniyatlari paydo bo'lmoqda.",
+    "tags": [
+      "biznes",
+      "iqtisod"
+    ],
+    "importance": 2,
+    "score": 22,
+    "published": "2026-09-08T22:25:23.000Z",
+    "created": "2026-09-09T01:01:36.631Z",
+    "coverage": 1,
+    "source": {
+      "name": "CNBC",
+      "url": "https://cnbc.com/2026/09/08/jim-cramer-investors-focused-ai-stocks.html",
+      "title": "Jim Cramer says investors are too focused on AI stocks. Here’s where he says to look instead",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "08d0e8d3fa10",
+    "slug": "ai-infratuzilmasi-aksiyalari-kelishuvlar-ortidan-kotarildi-08d0e8",
+    "title": "AI infratuzilmasi aksiyalari kelishuvlar ortidan ko'tarildi",
+    "summary": "Qualcomm va Corning kompaniyalarining yangi kelishuvlari ortidan sun'iy intellekt infratuzilmasi bilan bog'liq aksiyalar narxi oshdi. Xususan, Intel va AMD kabi kompaniyalar aksiyalarida ham o'sish kuzatildi.",
+    "tags": [
+      "chiplar",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-09-08T22:02:53.000Z",
+    "created": "2026-09-09T01:01:36.634Z",
+    "coverage": 1,
+    "source": {
+      "name": "CNBC",
+      "url": "https://cnbc.com/2026/09/08/ai-infrastructure-stocks-rally-on-deal-from-qualcomm-and-corning.html",
+      "title": "AI infrastructure stocks rally on deal announcements from Qualcomm, Corning",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "bad5e2239fe2",
     "slug": "anthropic-xodimi-nazoratsiz-ai-xavfi-tufayli-ketdi-bad5e2",
     "title": "Anthropic xodimi nazoratsiz AI xavfi tufayli ketdi",
