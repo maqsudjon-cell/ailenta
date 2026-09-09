@@ -1,5 +1,27 @@
 [
   {
+    "id": "928ae2e79333",
+    "slug": "ai-ochiq-ilmiy-tadqiqotlarga-tahdid-solmoqda-928ae2",
+    "title": "AI ochiq ilmiy tadqiqotlarga tahdid solmoqda",
+    "summary": "Terence Tao AI'ning ochiq ilmiy muammolarni tezda hal qilish qobiliyati haqida xavotir bildirdi. Bu an'anaviy ochiq fan tamoyillariga zid bo'lishi mumkin.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 24,
+    "published": "2026-09-09T00:20:17.000Z",
+    "created": "2026-09-09T05:04:23.642Z",
+    "coverage": 2,
+    "source": {
+      "name": "Simon Willison",
+      "url": "https://simonwillison.net/2026/Sep/9/terence-tao",
+      "title": "Quoting Terence Tao",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "f821f043161d",
     "slug": "google-deepmind-inson-genomi-atlasini-yaratdi-f821f0",
     "title": "Google DeepMind inson genomi atlasini yaratdi",
