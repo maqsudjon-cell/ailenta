@@ -14,4 +14,7 @@ main = "cloudflare-worker.js"
 compatibility_date = "2026-09-01"
 
 [triggers]
-crons = ["0 */3 * * *"]
+# :35 da — cron-job.org har soat :00 da turtadi va ikkalasi bir daqiqada
+# ishga tushsa, ikkita yugurish bir vaqtda Telegramga yuborib yuborardi
+# (o'lchandi: 00:00:33 va 00:01:13 da ikkita yugurish). Vaqtni ajratamiz.
+crons = ["35 */3 * * *"]

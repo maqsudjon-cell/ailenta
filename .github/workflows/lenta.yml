@@ -113,6 +113,16 @@ jobs:
             fi
             echo "Push rad etildi — asosni yangilab qayta urinamiz ($i/3)."
             git pull --rebase -X theirs origin main || git rebase --abort
+
+            # -X theirs shu yugurishning nusxasini oladi. Bu docs/ uchun
+            # to'g'ri, lekin telegram-sent.json va seen.json uchun XATO:
+            # ular faqat qo'shib boriladigan ro'yxat va boshqa yugurishning
+            # yozuvlari yo'qoladi. Natijada o'sha xabar keyingi yugurishda
+            # QAYTA yuboriladi — kanalda bir post ikki marta chiqqani shundan
+            # (o'lchandi: "Google Gemini tavsiyasi" 00:02 va 00:04 da).
+            #
+            # Bunday fayllar uchun to'g'ri hal — birlashma, tanlov emas.
+            node src/merge-state.mjs
             # Rebase data/ va docs/ ni ALOHIDA hal qiladi va ular bir-biriga
             # mos kelmay qolishi mumkin: posts.json shu yugurishnikiga
             # o'tadi, boshqa yugurish yaratgan sahifa esa nizosiz yangi fayl
