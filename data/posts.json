@@ -1,5 +1,96 @@
 [
   {
+    "id": "c6c05bd728e5",
+    "slug": "anthropic-mutaxassisi-aidan-foydalanmaslik-haqida-gapirdi-c6c05b",
+    "title": "Anthropic mutaxassisi AI'dan foydalanmaslik haqida gapirdi",
+    "summary": "Anthropic kompaniyasining sun'iy intellekt bo'yicha mutaxassisi eng yaxshi foydalanuvchilar ishni qachon mustaqil bajarish kerakligini bilishini aytdi. Uning so'zlariga ko'ra, AI'dan qachon foydalanmaslikni bilish ortiqcha yuklamadan qochishga yordam beradi.",
+    "tags": [
+      "Anthropic"
+    ],
+    "importance": 2,
+    "score": 21,
+    "published": "2026-09-09T09:35:01.000Z",
+    "created": "2026-09-09T09:58:09.062Z",
+    "coverage": 2,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/anthropic-ai-fluency-chief-discernment-tax-work-2026-9",
+      "title": "Anthropic's AI fluency chief says the best AI users know when to do the work themselves",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "1fc6b4aa0003",
+    "slug": "google-yevropada-ai-infratuzilmasiga-15-mlrd-dollar-tikadi-1fc6b4",
+    "title": "Google Yevropada AI infratuzilmasiga 15 mlrd dollar tikadi",
+    "summary": "Google kompaniyasi Finlandiyadagi sun'iy intellekt infratuzilmasiga 15,1 milliard dollar sarmoya kiritadi. Bu texnologiya gigantining Yevropadagi eng yirik sarmoyasiga aylanadi.",
+    "tags": [
+      "Google",
+      "biznes"
+    ],
+    "importance": 4,
+    "score": 19,
+    "published": "2026-09-09T09:15:41.000Z",
+    "created": "2026-09-09T09:58:09.063Z",
+    "coverage": 1,
+    "source": {
+      "name": "CNBC",
+      "url": "https://cnbc.com/2026/09/09/google-finland-ai-infrastructure-investment.html",
+      "title": "Google to invest record $15 billion in AI infrastructure in the 'Texas of Europe'",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "92b54c005d6b",
+    "slug": "oq-uydan-ai-xavfsizligi-qoidalarini-elon-qilish-soraldi-92b54c",
+    "title": "Oq uydan AI xavfsizligi qoidalarini e'lon qilish so'raldi",
+    "summary": "Ikki o'ndan ortiq tashkilot Oq uyni sun'iy intellekt xavfsizligi bo'yicha ixtiyoriy qoidalarni ommaga e'lon qilishga chaqirdi. Bu haqda Semafor nashri xabar bermoqda.",
+    "tags": [
+      "siyosat",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-09-09T08:38:42.000Z",
+    "created": "2026-09-09T09:58:09.064Z",
+    "coverage": 1,
+    "source": {
+      "name": "Semafor",
+      "url": "https://semafor.com/article/09/08/2026/left-right-coalition-seeks-release-of-white-house-ai-framework",
+      "title": "Left-right coalition seeks release of White House AI framework",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "6e89e61a94b0",
+    "slug": "anthropic-obunachilari-kompaniyani-sudga-berdi-6e89e6",
+    "title": "Anthropic obunachilari kompaniyani sudga berdi",
+    "summary": "Anthropic foydalanuvchilari kompaniya ularni qimmat obuna imkoniyatlari bo'yicha chalg'itganini da'vo qilib, sudga murojaat qildi. Da'vogarlarning fikricha, kompaniya va'da qilingan xizmatlarni to'liq taqdim etmagan.",
+    "tags": [
+      "Anthropic",
+      "sud"
+    ],
+    "importance": 3,
+    "score": 16.2,
+    "published": "2026-09-08T17:27:31.000Z",
+    "created": "2026-09-09T09:58:09.065Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Verge",
+      "url": "https://theverge.com/ai-artificial-intelligence/990313/anthropic-class-action-lawsuit-pricing-subscription-plans",
+      "title": "AI power users claim Anthropic duped them with subscriptions, and they’re taking it to court",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "57a76e85b338",
     "slug": "aqsh-xitoy-ai-kompaniyalarini-amerika-modellarini-nusxalashd-57a76e",
     "title": "AQSh Xitoy AI kompaniyalarini Amerika modellarini nusxalashda aybladi",
