@@ -1,5 +1,95 @@
 [
   {
+    "id": "39989d15638c",
+    "slug": "pentagon-ittifoqchilarning-ai-resurslari-kamligini-aytdi-39989d",
+    "title": "Pentagon ittifoqchilarning AI resurslari kamligini aytdi",
+    "summary": "Pentagonning yuqori lavozimli rasmiysi Kemeron Stenli AQSh ittifoqchilarida harbiy sohada sun'iy intellektni joriy etish uchun yetarli resurslar yo'qligini ma'lum qildi. Vashington ularga xatolardan qochishda yordam bermoqda.",
+    "tags": [
+      "siyosat"
+    ],
+    "importance": 3,
+    "score": 26,
+    "published": "2026-09-09T10:00:05.000Z",
+    "created": "2026-09-09T10:01:21.766Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/us-news/2026/sep/09/us-military-pentagon-allies-ai",
+      "title": "US allies lack resources to keep pace on AI, top Pentagon official says",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "d1c66e6e7b63",
+    "slug": "xitoyda-ai-yigitlar-tartibga-solinmoqda-d1c66e",
+    "title": "Xitoyda \"AI yigitlar\" tartibga solinmoqda",
+    "summary": "Xitoy nazorat organlari odamlarga taqlid qiluvchi sun'iy intellekt chat-botlarini tartibga solishni boshladi. Foydalanuvchilar ushbu virtual hamrohlarga hissiy jihatdan bog'lanib qolayotgani xabar qilinmoqda.",
+    "tags": [
+      "qonun",
+      "siyosat"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-09-09T10:00:07.000Z",
+    "created": "2026-09-09T10:01:21.767Z",
+    "coverage": 1,
+    "source": {
+      "name": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/china-ai-chatbot-regulation",
+      "title": "China’s Regulators Take Aim at “AI Boyfriends”",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "21e42d987182",
+    "slug": "unitree-yangi-gumanoid-robotini-namoyish-etdi-21e42d",
+    "title": "Unitree yangi gumanoid robotini namoyish etdi",
+    "summary": "Unitree kompaniyasi G1 gumanoid robotining murabbiy bilan sparring tushayotgan videosini taqdim etdi. Robot masofadan boshqaruvsiz, UnifoLM-X2-1.0 modeli yordamida real vaqtda harakatlarni rejalashtiradi.",
+    "tags": [
+      "robototexnika"
+    ],
+    "importance": 3,
+    "score": 18,
+    "published": "2026-09-09T09:57:19.000Z",
+    "created": "2026-09-09T10:01:21.768Z",
+    "coverage": 1,
+    "source": {
+      "name": "Pandaily",
+      "url": "https://pandaily.com/unitree-g1-unifolm-x2-autonomous-sparring-world-model",
+      "title": "Unitree G1 Sparring Demo Uses UnifoLM-X2-1.0 World Model Without Teleoperation",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "4573e4070caf",
+    "slug": "xiaomi-ozining-yangi-chiplarini-ishlab-chiqaradi-4573e4",
+    "title": "Xiaomi o'zining yangi chiplarini ishlab chiqaradi",
+    "summary": "Xiaomi kompaniyasining XRing O3 chipi ommaviy ishlab chiqarila boshlandi. Shuningdek, kompaniya 2027-yilning birinchi yarmida O100 sun'iy intellekt tezlatgichi va D100 aqlli haydash chipini chiqarishni rejalashtirmoqda.",
+    "tags": [
+      "chiplar",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-09-09T09:57:25.000Z",
+    "created": "2026-09-09T10:01:21.770Z",
+    "coverage": 1,
+    "source": {
+      "name": "Pandaily",
+      "url": "https://pandaily.com/xiaomi-xring-o3-mass-production-mimo-o100-d100-roadmap",
+      "title": "Xiaomi XRing O3 Enters Mass Production as MiMo Goes On-Device and O100/D100 Target 2027",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "c6c05bd728e5",
     "slug": "anthropic-mutaxassisi-aidan-foydalanmaslik-haqida-gapirdi-c6c05b",
     "title": "Anthropic mutaxassisi AI'dan foydalanmaslik haqida gapirdi",
