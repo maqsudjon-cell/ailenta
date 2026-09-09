@@ -1,44 +1,49 @@
 [
   {
     "id": "3e6aa5af2ab6",
-    "slug": "microsoft-maktablar-uchun-ai-xavfsizlik-standartini-elon-qil-3e6aa5",
-    "title": "Microsoft maktablar uchun AI xavfsizlik standartini e'lon qildi",
-    "summary": "Microsoft, AFT va UFT tashkilotlari maktablar uchun milliy AI xavfsizligi va maxfiylik standartini e'lon qildi. Bu standart o'quvchilar, oilalar va o'qituvchilarni himoya qilishga qaratilgan.",
+    "slug": "ai-ishlatadigan-oquvchilar-pastroq-baho-oladi-3e6aa5",
+    "title": "AI ishlatadigan o'quvchilar pastroq baho oladi",
+    "summary": "The Verge nashrining xabar berishicha, maktabda sun'iy intellektdan foydalanadigan o'quvchilar odatda pastroq baho oladi. Microsoft esa AI davrida o'quvchilarni himoya qilish bo'yicha yangi maktab standartini e'lon qildi.",
     "tags": [
       "Microsoft",
-      "xavfsizlik"
+      "ta'lim"
     ],
     "importance": 3,
-    "score": 33,
-    "published": "2026-09-09T14:00:12.000Z",
-    "created": "2026-09-09T15:12:28.940Z",
-    "coverage": 1,
+    "score": 39,
+    "published": "2026-09-09T15:02:52.000Z",
+    "created": "2026-09-09T15:15:33.398Z",
+    "coverage": 2,
     "source": {
       "name": "Microsoft",
       "url": "https://news.microsoft.com/source/2026/09/09/aft-uft-and-microsoft-announce-national-ai-safety-privacy-standard-for-schools-to-protect-students-families-and-educators",
-      "title": "AFT, UFT and Microsoft announce ‘National AI Safety &#038; Privacy Standard’ for schools to protect students, families and educators",
+      "title": "Protecting students in the age of AI: A new school standard",
       "indirect": false
     },
-    "also": [],
+    "also": [
+      {
+        "name": "The Verge",
+        "url": "https://theverge.com/ai-artificial-intelligence/991956/student-ai-use-scores-oecd-pisa"
+      }
+    ],
     "model": "gemini"
   },
   {
-    "id": "28b8a7ee70f9",
-    "slug": "tramp-ai-superqahramon-memlarini-joylashtirdi-28b8a7",
-    "title": "Tramp AI superqahramon memlarini joylashtirdi",
-    "summary": "Donald Tramp sun'iy intellekt yordamida yaratilgan superqahramon memlarini ijtimoiy tarmoqlarga joylashtirdi. Oq uyning ta'kidlashicha, bu memlar tarafdorlarni ruhlantiradi. Biroq, GOP strategining fikricha, ular saylovchilarning iqtisodiy muammolarini hal qilmaydi.",
+    "id": "d8f45449054f",
+    "slug": "loft-orbital-va-marlan-space-hamkorlik-shartnomasi-tuzdi-d8f454",
+    "title": "Loft Orbital va Marlan Space hamkorlik shartnomasi tuzdi",
+    "summary": "Loft Orbital kompaniyasi BAAning Marlan Space kompaniyasi bilan sun'iy intellekt asosida ishlaydigan sun'iy yo'ldoshlar turkumini yaratish bo'yicha shartnoma imzoladi. Kelishuv qiymati bir milliard dollarni tashkil etadi.",
     "tags": [
-      "siyosat"
+      "biznes"
     ],
-    "importance": 2,
-    "score": 19,
-    "published": "2026-09-09T14:08:54.000Z",
-    "created": "2026-09-09T15:12:28.942Z",
+    "importance": 4,
+    "score": 15,
+    "published": "2026-09-09T15:14:04.000Z",
+    "created": "2026-09-09T15:15:33.402Z",
     "coverage": 1,
     "source": {
-      "name": "Fortune",
-      "url": "https://fortune.com/2026/09/09/trump-memes-republicans-midterms",
-      "title": "Trump posts AI superhero memes as low approval on the economy, $4.15 gas and the midterms test Republicans",
+      "name": "Sifted",
+      "url": "https://sifted.eu/articles/loft-orbital-billion-dollar-deal-marlan-space",
+      "title": "Loft Orbital strikes billion-dollar deal with UAE's Marlan Space to build AI-powered satellite constellation",
       "indirect": false
     },
     "also": [],
