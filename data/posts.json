@@ -1,5 +1,165 @@
 [
   {
+    "id": "a3c1048ceff7",
+    "slug": "anthropic-tadqiqotchisi-ai-xavfi-sabab-kompaniyani-tark-etdi-a3c104",
+    "title": "Anthropic tadqiqotchisi AI xavfi sabab kompaniyani tark etdi",
+    "summary": "Anthropic kompaniyasining AI xavfsizligi bo‘yicha tadqiqotchisi Jacob Coxon kompaniyani tark etdi. U ilg‘or AI tizimlarining rivojlanish sur’ati inson nazoratidan oshib ketishidan xavotir bildirdi.",
+    "tags": [
+      "Anthropic",
+      "xavfsizlik"
+    ],
+    "importance": 4,
+    "score": 57,
+    "published": "2026-09-09T04:16:38.000Z",
+    "created": "2026-09-09T13:02:45.685Z",
+    "coverage": 1,
+    "source": {
+      "name": "Pivot",
+      "url": "https://pivot.uz/uz/anthropic-tadqiqotchisi-nazoratdan-chiqishi-mumkin-bolgan-ai-xavfi-sabab-kompaniyani-tark-etdi",
+      "title": "Anthropic tadqiqotchisi nazoratdan chiqishi mumkin bo‘lgan AI xavfi sabab kompaniyani tark etdi",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "205683640d2b",
+    "slug": "vc-party-toshkentda-markaziy-osiyo-venchur-kechasi-23-sentab-205683",
+    "title": "VC Party Toshkentda: Markaziy Osiyo venchur kechasi 23-sentabrda",
+    "summary": "23-sentabr kuni Toshkentda MOST va Stanbase kompaniyalari VC Party Tashkent netvorking kechasini tashkil etadi. Tadbir Markaziy Osiyo startap asoschilari, investorlar va innovatsion ekotizim yetakchilarini birlashtiradi.",
+    "tags": [
+      "biznes",
+      "O'zbekiston"
+    ],
+    "importance": 2,
+    "score": 41,
+    "published": "2026-09-09T12:25:00.000Z",
+    "created": "2026-09-09T13:03:00.170Z",
+    "coverage": 1,
+    "source": {
+      "name": "UzDaily",
+      "url": "https://uzdaily.uz/uz/vc-party-toshkentga-qaytmoqda-markaziy-osiyoning-asosiy-venchur-kechasi-23-sentabr-kuni-bolib-otadi",
+      "title": "VC Party Toshkentga qaytmoqda: Markaziy Osiyoning asosiy venchur kechasi 23-sentabr kuni bo‘lib o‘tadi",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "18e9b3e5e308",
+    "slug": "susskind-kitobi-ai-talim-imkoniyatlari-18e9b3",
+    "title": "Susskind kitobi AI ta'lim imkoniyatlari",
+    "summary": "Daniel Susskindning yangi kitobi AI'ning ta'lim sohasidagi imkoniyatlarini qamrab olishga chaqiradi. Muallif texnologiyadan qo'rqish o'rniga, undan foydalanishni taklif etadi.",
+    "tags": [
+      "ta'lim"
+    ],
+    "importance": 2,
+    "score": 23,
+    "published": "2026-09-09T06:00:01.000Z",
+    "created": "2026-09-09T13:03:43.288Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/books/2026/sep/09/what-should-my-children-do-by-daniel-susskind-review-the-case-for-embracing-tech-in-the-classroom",
+      "title": "What Should My Children Do? by Daniel Susskind review – the case for embracing tech in the classroom",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "3addccf8cb79",
+    "slug": "buyuk-britaniyada-ai-markazlari-kam-ish-orni-yaratadi-3addcc",
+    "title": "Buyuk Britaniyada AI markazlari kam ish o'rni yaratadi",
+    "summary": "Yangi tahlilga ko'ra, AI infratuzilmasiga kiritilayotgan milliardlab sarmoyaga qaramay, Buyuk Britaniyadagi ma'lumot markazlari texnologiya sektori kutganidek ko'p doimiy ish o'rni yaratmaydi.",
+    "tags": [
+      "iqtisod",
+      "mehnat bozori"
+    ],
+    "importance": 3,
+    "score": 22,
+    "published": "2026-09-09T12:26:40.000Z",
+    "created": "2026-09-09T13:03:49.823Z",
+    "coverage": 1,
+    "source": {
+      "name": "CNBC",
+      "url": "https://cnbc.com/2026/09/09/ai-data-centers-jobs-tech-buildout.html",
+      "title": "AI data centers won't create as many UK jobs as the tech sector projects, think tank warns",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "389f5a5044ab",
+    "slug": "ai-wechat-voip-zaifligini-aniqlashga-yordam-berdi-389f5a",
+    "title": "AI WeChat VoIP zaifligini aniqlashga yordam berdi",
+    "summary": "Kaliforniya shtati AI WeChat'dagi VoIP xotira xatosini platformalararo RCE'ga aylantirishga yordam berganini ma'lum qildi. Tencent ushbu zaiflikni bartaraf etdi.",
+    "tags": [
+      "xavfsizlik",
+      "Tencent"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-09-09T12:45:00.000Z",
+    "created": "2026-09-09T13:03:52.066Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/security/2026/09/09/wechat-worm-could-pwn-a-friend-before-they-even-answered-the-call/5295234",
+      "title": "WeChat worm could pwn a friend before they even answered the call",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "2f71d944c7c8",
+    "slug": "luum-kompaniyasi-kiprik-uzaytirish-uchun-robotlar-yaratdi-2f71d9",
+    "title": "Luum kompaniyasi kiprik uzaytirish uchun robotlar yaratdi",
+    "summary": "Luum kompaniyasi insultdan keyingi bemorlar uchun ekzoskeletlar yaratganidan so'ng, endi kiprik uzaytirish xizmatlari uchun robotlar ishlab chiqdi. Kompaniya bu maqsadlar uchun 36 million dollar sarmoya jalb qildi.",
+    "tags": [
+      "robototexnika",
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 19,
+    "published": "2026-09-09T12:06:47.000Z",
+    "created": "2026-09-09T13:03:52.067Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/09/09/eyelash-extension-robot-ulta-nordstrom",
+      "title": "They built exoskeletons for stroke patients. Now, their robots can do eyelash extensions",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "557b42c1fa7b",
+    "slug": "ai-yozuvidan-foydalanishda-ikki-xil-standart-mavjud-557b42",
+    "title": "AI yozuvidan foydalanishda ikki xil standart mavjud",
+    "summary": "Jamiyatda AI yozuvidan foydalanishga nisbatan ikki xil standart mavjud. Milliarderlar uchun bu qabul qilinadi, ammo boshqalar uchun karyerani tugatuvchi janjalga aylanishi mumkin.",
+    "tags": [
+      "siyosat",
+      "iqtisod"
+    ],
+    "importance": 2,
+    "score": 19,
+    "published": "2026-09-09T11:30:00.000Z",
+    "created": "2026-09-09T13:03:52.068Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/09/09/ai-writing-stanley-druckenmiller-career-ending-scandal-not-for-billionaires",
+      "title": "AI writing is A-ok if you’re a billionaire. For everyone else, it can be a career-ending scandal",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "b9dc3245e198",
     "slug": "hugging-face-ml-internni-ishga-tushirdi-b9dc32",
     "title": "Hugging Face ML Internni ishga tushirdi",
