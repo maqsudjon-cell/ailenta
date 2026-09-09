@@ -1,5 +1,50 @@
 [
   {
+    "id": "534907e0d31e",
+    "slug": "pol-kristiano-openai-boshqaruv-kengashiga-qoshildi-534907",
+    "title": "Pol Kristiano OpenAI boshqaruv kengashiga qo'shildi",
+    "summary": "Pol Kristiano OpenAI jamg'armasi boshqaruv kengashi hamda uning xavfsizlik va himoya qo'mitasi a'zosiga aylandi. U sun'iy intellektni muvofiqlashtirish, xavfsizlik va standartlar sohasidagi tajribasini olib kiradi.",
+    "tags": [
+      "OpenAI",
+      "xavfsizlik"
+    ],
+    "importance": 4,
+    "score": 36,
+    "published": "2026-09-09T17:00:00.000Z",
+    "created": "2026-09-09T18:01:28.047Z",
+    "coverage": 1,
+    "source": {
+      "name": "OpenAI",
+      "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
+      "title": "Paul Christiano joins OpenAI Foundation Board",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "0dba5116c519",
+    "slug": "siri-ai-tizimiga-ega-ios-27-sentabrda-chiqadi-0dba51",
+    "title": "Siri AI tizimiga ega iOS 27 sentabrda chiqadi",
+    "summary": "Siri AI funksiyasiga ega iOS 27 operatsion tizimi 14-sentabr kuni taqdim etiladi. Oktyabr oyida esa ushbu sun'iy intellekt yordamchisi fransuz, yapon, koreys, portugal va ispan tillarida ham ishlay boshlaydi.",
+    "tags": [
+      "Apple"
+    ],
+    "importance": 4,
+    "score": 21,
+    "published": "2026-09-09T17:42:23.000Z",
+    "created": "2026-09-09T18:01:28.049Z",
+    "coverage": 2,
+    "source": {
+      "name": "Engadget",
+      "url": "https://engadget.com/2254005/ios-27-with-siri-ai-will-be-available-on-september-14",
+      "title": "iOS 27 with Siri AI will be available on September 14",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "e8608e40b722",
     "slug": "ibm-granite-time-series-patchtst-fm-r2-modelini-chiqardi-e8608e",
     "title": "IBM Granite Time Series PatchTST-FM-r2 modelini chiqardi",
