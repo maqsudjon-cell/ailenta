@@ -5,7 +5,7 @@
   <link>https://ailenta.uz/mavzu/tadqiqot/</link>
   <description>&quot;tadqiqot&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Wed, 09 Sep 2026 23:03:47 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 09 Sep 2026 23:35:19 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/tadqiqot/rss.xml" rel="self" type="application/rss+xml"/>
   <item>
     <title>MIT AI'ni turli fanlarda o'qitish uchun pilot dastur boshladi</title>
@@ -26,6 +26,16 @@
     <category>OpenAI</category><category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/openai-gpt-images-2-5-tasvir-generatorini-yangiladi-f3373f.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/openai-gpt-images-2-5-tasvir-generatorini-yangiladi-f3373f.jpg"/>
+  </item>
+  <item>
+    <title>OpenAI &quot;mingyillik masalasini&quot; yechdi, mualliflik mojarosi</title>
+    <link>https://ailenta.uz/x/openai-mingyillik-masalasini-yechdi-mualliflik-mojarosi-57238d/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/openai-mingyillik-masalasini-yechdi-mualliflik-mojarosi-57238d/</guid>
+    <pubDate>Wed, 09 Sep 2026 13:55:00 GMT</pubDate>
+    <description>OpenAI Navye-Stoks tenglamalariga oid &quot;mingyillik masalasini&quot; AI yordamida yechganini e'lon qildi. Nyu-York universiteti professori Tristan Bakmaster kompaniyani e'lon qilinmagan g'oyalardan foydalanganlikda ayblamoqda.</description>
+    <category>OpenAI</category><category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/openai-mingyillik-masalasini-yechdi-mualliflik-mojarosi-57238d.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/openai-mingyillik-masalasini-yechdi-mualliflik-mojarosi-57238d.jpg"/>
   </item>
   <item>
     <title>OpenAI ming yillik muammo isboti bo‘yicha bahsga tortildi</title>
@@ -296,16 +306,6 @@
     <category>OpenAI</category><category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/openaining-the-collective-agentlari-xatti-harakatlari-107a35.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/openaining-the-collective-agentlari-xatti-harakatlari-107a35.jpg"/>
-  </item>
-  <item>
-    <title>Linux Foundation token xarajatlarini boshqarish uchun yangi notatsiya taklif qildi</title>
-    <link>https://ailenta.uz/x/linux-foundation-token-xarajatlarini-boshqarish-uchun-yangi--8c4946/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/linux-foundation-token-xarajatlarini-boshqarish-uchun-yangi--8c4946/</guid>
-    <pubDate>Mon, 07 Sep 2026 08:27:46 GMT</pubDate>
-    <description>Linux Foundation qoshida Tokenomics Foundation tashkil etildi. Ushbu fond LLM va agent tizimlarida token xarajatlarini baholash va boshqarish uchun &quot;Big-T Notation&quot; nomli yangi tizimni taqdim etdi.</description>
-    <category>tadqiqot</category><category>biznes</category>
-    <media:content url="https://ailenta.uz/og/linux-foundation-token-xarajatlarini-boshqarish-uchun-yangi--8c4946.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/linux-foundation-token-xarajatlarini-boshqarish-uchun-yangi--8c4946.jpg"/>
   </item>
 </channel>
 </rss>

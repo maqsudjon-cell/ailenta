@@ -1,5 +1,83 @@
 [
   {
+    "id": "57238df31f28",
+    "slug": "openai-mingyillik-masalasini-yechdi-mualliflik-mojarosi-57238d",
+    "title": "OpenAI \"mingyillik masalasini\" yechdi, mualliflik mojarosi",
+    "summary": "OpenAI Navye-Stoks tenglamalariga oid \"mingyillik masalasini\" AI yordamida yechganini e'lon qildi. Nyu-York universiteti professori Tristan Bakmaster kompaniyani e'lon qilinmagan g'oyalardan foydalanganlikda ayblamoqda.",
+    "tags": [
+      "OpenAI",
+      "tadqiqot"
+    ],
+    "importance": 4,
+    "score": 51,
+    "published": "2026-09-09T13:55:00.000Z",
+    "created": "2026-09-09T23:32:34.413Z",
+    "coverage": 1,
+    "source": {
+      "name": "Kun.uz",
+      "url": "https://kun.uz/news/2026/09/09/openai-mingyillik-masalasini-yechdi-biroq-amerikalik-matematik-uni-oz-goyasini-ogirlaganlikda-aybladi",
+      "title": "OpenAI «mingyillik masalasini» yechdi, biroq amerikalik matematik uni oʻz gʻoyasini oʻgʻirlaganlikda aybladi.",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "85669d8f3ba8",
+    "slug": "yangi-blue-moon-toplami-ai-ga-asoslangan-ekspluatatsiyalarni-85669d",
+    "title": "Yangi \"Blue Moon\" to'plami AI-ga asoslangan ekspluatatsiyalarni aks ettiradi",
+    "summary": "\"Blue Moon\" nomli yangi ekspluatatsiya to'plami Chrome va Windows'ni nishonga olmoqda. To'rt guruh bir xil ekspluatatsiya to'plamidan foydalanganligi aniqlandi.",
+    "tags": [
+      "xavfsizlik",
+      "Microsoft"
+    ],
+    "importance": 3,
+    "score": 25,
+    "published": "2026-09-09T22:28:53.000Z",
+    "created": "2026-09-09T23:32:39.202Z",
+    "coverage": 2,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/research/2026/09/09/novel-blue-moon-kit-targeting-chrome-and-windows-reflects-new-reality-of-ai-driven-exploits/5295399",
+      "title": "Novel Blue Moon kit targeting Chrome and Windows reflects new reality of AI-driven exploits",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "Ars Technica",
+        "url": "https://arstechnica.com/information-technology/2026/09/4-groups-caught-using-the-same-chrome-and-windows-exploit-kit"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "083b4aa3461b",
+    "slug": "muse-guruhi-metaning-ai-agenti-tufayli-akkauntlarini-yoqotdi-083b4a",
+    "title": "\"Muse\" guruhi Meta'ning AI agenti tufayli akkauntlarini yo'qotdi",
+    "summary": "\"Muse\" musiqiy guruhi Meta'ning yangi AI agenti \"Muse\" tufayli ijtimoiy tarmoqlardagi akkauntlarini yo'qotdi. Meta rahbarlari AI agenti o'rniga guruhni noto'g'ri belgilagan.",
+    "tags": [
+      "Meta",
+      "agentlar"
+    ],
+    "importance": 2,
+    "score": 24,
+    "published": "2026-09-09T22:52:49.000Z",
+    "created": "2026-09-09T23:33:15.339Z",
+    "coverage": 2,
+    "source": {
+      "name": "Engadget",
+      "url": "https://engadget.com/2254419/muse-the-band-lost-its-social-media-handles-to-muse-meta-s-new-ai-agent",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "The Independent",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdjB6SDh3TXRqd1VFY0VWSFRDQnpyc1pENTNoQTRXQy1NUWYtSlN2ZlZHTWxwVjlvMWstNm8yTEpidXYxdmZweEhUa254bEVoUHpBYS1sd25ESk1GWGRtdEpqaDMwdUp5eUd1Rk1udnVQRFRxTTFhQ1pLVmZlcmI0cUhwN2oxX3g2aXo1S2RJMTRmZFMzQjh1NmxsS19KU3VybXc"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
     "id": "a003fb465c61",
     "slug": "openai-agentlari-kamida-12-ta-saytga-tarqaldi-a003fb",
     "title": "OpenAI agentlari kamida 12 ta saytga tarqaldi",
