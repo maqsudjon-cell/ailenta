@@ -7,7 +7,7 @@
 // Chiqish: data/posts.json (qo'shib boriladi), data/seen.json (yangilanadi)
 
 import { readFile, writeFile, rename } from "node:fs/promises";
-import { storyKey, sameStory } from "./similar.mjs";
+import { storyKey, sameStory, similarCandidates } from "./similar.mjs";
 import { normalizeTags, TAG_GUIDE } from "./tags.mjs";
 import { join, dirname } from "node:path";
 import { fileURLToPath } from "node:url";
@@ -241,6 +241,58 @@ function applyNames(text, rules) {
 // xabarni butunlay yo'qotish undan yomonroq.
 export const TITLE_MAX = 60;
 
+// Bir voqea ikki marta chiqmasin: aniq savol bilan tekshiruv.
+//
+// Qat'iy so'z-to'sig'i (sameStory) nashrlar bir voqeani boshqa so'zlar bilan
+// yozganda ishlamaydi — o'lchandi: kanalga Anthropic xabari uch marta,
+// DeepMind xabari ikki marta chiqqan, umumiy so'z esa atigi 1-2 ta edi.
+//
+// Modelga 30 qatorli ro'yxat berish ham yordam bermadi (ko'rsatma promptda
+// bor edi, u qo'llanmadi). Shuning uchun: zaif so'z-signal FAQAT ishora
+// beradi, model esa bitta aniq savolga javob beradi.
+//
+// Xato bo'lsa xabar SAQLANADI — takror yomon, lekin xabarni bekorga
+// yo'qotish undan yomonroq.
+// Shubhali xabarlarning HAMMASI bitta so'rovda tekshiriladi.
+//
+// Har biriga alohida so'rov yuborish yugurishiga ~6 ta qo'shimcha chaqiruv
+// berardi — Gemini kunlik chegarasi yaqinda shu sababdan tugagan edi.
+// Bitta so'rov ham yetadi.
+export async function checkDuplicates(pending, call) {
+  if (!pending.length) return new Set();
+
+  const prompt = [
+    "Quyida YANGI xabarlar va ularning har biri uchun AVVAL CHIQQAN o'xshash",
+    "xabarlar berilgan. Har bir yangi xabar uchun ayt: u avval chiqqanlardan",
+    "biri bilan AYNAN BIR voqea haqidami?",
+    "",
+    "Bir voqea — o'sha hodisa, o'sha e'lon, o'sha odam yoki o'sha qaror.",
+    "Bir mavzudagi BOSHQA voqea bo'lsa — bu takror EMAS.",
+    "",
+    ...pending.map((x, i) => [
+      `### ${i}`,
+      `YANGI: ${x.title}`,
+      `Xulosa: ${x.summary.slice(0, 200)}`,
+      "AVVAL CHIQQAN:",
+      ...x.hints.map((h) => `  - ${h.label}`),
+    ].join("\n")),
+    "",
+    'Javobni JSON massiv qilib qaytar: [{"n": 0, "takror": true}, {"n": 1, "takror": false}]',
+  ].join("\n\n");
+
+  try {
+    const parsed = extractJson(await call(prompt));
+    const dup = new Set();
+    for (const r of parsed) {
+      if (r && r.takror === true && Number.isInteger(r.n)) dup.add(r.n);
+    }
+    return dup;
+  } catch (e) {
+    console.error(`  · takror tekshiruvi o'tmadi: ${e.message}`);
+    return new Set();   // shubhada xabar SAQLANADI
+  }
+}
+
 export async function shortenTitle(title, call) {
   const prompt = [
     "Quyidagi o'zbekcha yangilik sarlavhasi juda uzun.",
@@ -309,6 +361,10 @@ async function main() {
   // butunlay boshqa so'zlar bilan yozadi va u yerdan o'tib ketishi mumkin.
   // Model esa hammasini bitta o'zbekcha shaklga keltiradi — oxirgi to'siq shu.
   const publishedKeys = posts.map(storyKey);
+
+  // O'xshash ko'ringan, lekin qat'iy to'siqdan o'tgan xabarlar. Ular
+  // halqadan keyin bitta so'rovda tekshiriladi.
+  const suspects = [];
 
   for (let i = 0; i < clusters.length; i += BATCH) {
     const batch = clusters.slice(i, i + BATCH);
@@ -386,6 +442,17 @@ async function main() {
       }
 
       const key = storyKey(r);
+
+      // Ikkinchi qavat: so'z-to'sig'idan o'tgan, lekin o'xshash ko'ringan
+      // xabarni modeldan so'rab tekshiramiz.
+      // Ishora bo'lsa — darhol qabul qilmaymiz, shubhalilar ro'yxatiga
+      // qo'yamiz va halqadan keyin HAMMASINI bitta so'rovda tekshiramiz.
+      const hints = similarCandidates(key, publishedKeys);
+      if (hints.length && !publishedKeys.some((prev) => sameStory(key, prev))) {
+        suspects.push({ title: r.title, summary: r.summary, hints, r, c, key });
+        continue;
+      }
+
       if (publishedKeys.some((prev) => sameStory(key, prev))) {
         console.error(`  ✗ tashlandi (bu voqea chiqib bo'lgan): ${r.title}`);
         continue;
@@ -425,6 +492,38 @@ async function main() {
           }
           return out;
         })(),
+        model: PROVIDER,
+      });
+    }
+  }
+
+  // ---------- shubhalilarni bitta so'rovda tekshirish ----------
+  if (suspects.length) {
+    console.log(`\nO'xshash ko'rindi: ${suspects.length} ta — tekshirilmoqda.`);
+    const dup = await checkDuplicates(suspects, call);
+    for (let i = 0; i < suspects.length; i++) {
+      const sp = suspects[i];
+      if (dup.has(i)) {
+        console.error(`  ✗ takror (model tasdiqladi): ${sp.title.slice(0, 52)}`);
+        console.error(`      o'xshashi: ${sp.hints[0].label.slice(0, 52)}`);
+        continue;
+      }
+      // Takror emas — odatdagi yo'l bilan qabul qilamiz.
+      publishedKeys.push(sp.key);
+      const lead = sp.c.items[0];
+      written.push({
+        id: lead.id,
+        slug: `${slugify(sp.r.title)}-${lead.id.slice(0, 6)}`,
+        title: sp.r.title.trim(),
+        summary: sp.r.summary.trim(),
+        tags: normalizeTags(sp.r.tags),
+        importance: Number(sp.r.importance) || 3,
+        score: sp.c.score,
+        published: lead.published,
+        created: new Date().toISOString(),
+        coverage: sp.c.items.length,
+        source: { name: lead.sourceName, url: lead.url, indirect: !!lead.indirect },
+        also: sp.c.items.slice(1, 6).map((x) => ({ name: x.sourceName, url: x.url })),
         model: PROVIDER,
       });
     }
