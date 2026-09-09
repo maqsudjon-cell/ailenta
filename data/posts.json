@@ -1,5 +1,189 @@
 [
   {
+    "id": "21197f2a6420",
+    "slug": "mit-aini-turli-fanlarda-oqitish-uchun-pilot-dastur-boshladi-21197f",
+    "title": "MIT AI'ni turli fanlarda o'qitish uchun pilot dastur boshladi",
+    "summary": "MIT Schwarzman Computing kolleji o'qituvchilarga AI'ni turli fanlarda o'rgatishga yordam berish uchun pilot dasturini ishga tushirdi. Yozgi seminar davomida oliy ta'lim professor-o'qituvchilari AI materiallarini sinflarga moslashtirishni o'rgandi.",
+    "tags": [
+      "tadqiqot",
+      "ta'lim"
+    ],
+    "importance": 2,
+    "score": 22,
+    "published": "2026-09-09T20:40:00.000Z",
+    "created": "2026-09-09T21:41:51.036Z",
+    "coverage": 1,
+    "source": {
+      "name": "MIT News",
+      "url": "https://news.mit.edu/2026/mit-schwarzman-college-computing-launches-pilot-help-educators-teach-ai-across-disciplines-0909",
+      "title": "MIT Schwarzman College of Computing launches pilot to help educators teach AI across disciplines",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "41e91b3db78e",
+    "slug": "apple-ios-27-va-boshqa-oslarni-14-sentabrda-chiqaradi-41e91b",
+    "title": "Apple iOS 27 va boshqa OS'larni 14-sentabrda chiqaradi",
+    "summary": "Apple iOS 27, iPadOS 27, watchOS 27 va macOS 27 Golden Gate operatsion tizimlarini 14-sentabrda chiqarishini e'lon qildi. Ushbu yangilanishlarning barchasi Siri AI funksiyalarini o'z ichiga oladi.",
+    "tags": [
+      "Apple",
+      "agentlar"
+    ],
+    "importance": 4,
+    "score": 21,
+    "published": "2026-09-09T19:05:03.000Z",
+    "created": "2026-09-09T21:41:51.699Z",
+    "coverage": 2,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/260909/p38",
+      "title": "Apple says iOS 27, iPadOS 27, watchOS 27, and macOS 27 Golden Gate, all with Siri AI, will be released on September 14 (Igor Bonifacic/Engadget)",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "Engadget",
+        "url": "https://engadget.com/2254005/ios-27-with-siri-ai-will-be-available-on-september-14"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "ef8927268a2a",
+    "slug": "apple-iphone-18-proda-ai-manipulyatsiyasiga-qarshi-funksiya-ef8927",
+    "title": "Apple iPhone 18 Pro'da AI manipulyatsiyasiga qarshi funksiya",
+    "summary": "Apple iPhone 18 Pro qatorida \"Reference Image\" nomli yangi funksiyani taqdim etadi. U kamera sensori yordamida fotosuratlarning AI tomonidan o'zgartirilmaganligini tasdiqlaydi.",
+    "tags": [
+      "Apple",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 33,
+    "published": "2026-09-09T19:30:12.000Z",
+    "created": "2026-09-09T21:41:51.978Z",
+    "coverage": 4,
+    "source": {
+      "name": "The Verge",
+      "url": "https://theverge.com/tech/992766/apple-iphone-18-pro-reference-image",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "Engadget",
+        "url": "https://engadget.com/2254210/apple-iphone-18-pro-camera-innovations-went-well-beyond-megapixels-and-ai"
+      },
+      {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/09/apple-has-a-new-way-prove-your-iphone-photos-arent-ai-slop"
+      },
+      {
+        "name": "Techmeme",
+        "url": "https://techmeme.com/260909/p30"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "9f0c905dc649",
+    "slug": "san-fransisko-metadan-ai-bolalar-zoravonligi-reklamalarini-t-9f0c90",
+    "title": "San-Fransisko Meta'dan AI bolalar zo'ravonligi reklamalarini to'xtatishni talab qildi",
+    "summary": "San-Fransisko shahar prokuraturasi Meta'dan Facebook va Instagram'da AI bilan bog'liq bolalar zo'ravonligi reklamalari qanday paydo bo'lganini tushuntirishni so'radi. Meta bu reklamalar shahar yurisdiksiyasiga kirmasligini da'vo qilmoqda.",
+    "tags": [
+      "Meta",
+      "qonun"
+    ],
+    "importance": 4,
+    "score": 23,
+    "published": "2026-09-09T21:15:27.000Z",
+    "created": "2026-09-09T21:41:51.978Z",
+    "coverage": 1,
+    "source": {
+      "name": "Wired",
+      "url": "https://wired.com/story/san-francisco-orders-meta-to-stop-allowing-ai-child-abuse-ads",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "37ae1859f8c5",
+    "slug": "apple-ai-talabi-tufayli-iphone-narxlarini-oshirdi-37ae18",
+    "title": "Apple AI talabi tufayli iPhone narxlarini oshirdi",
+    "summary": "Apple va boshqa gadjet ishlab chiqaruvchilar iPhone narxlarini oshirdi. Bu qisman AI kompaniyalari tomonidan talab yuqori bo'lgan asosiy komponentlar tanqisligi bilan bog'liq.",
+    "tags": [
+      "Apple",
+      "iqtisod"
+    ],
+    "importance": 3,
+    "score": 23,
+    "published": "2026-09-09T19:01:21.000Z",
+    "created": "2026-09-09T21:41:51.978Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Washington Post",
+      "url": "https://washingtonpost.com/business/2026/09/09/apple-increased-prices-its-new-iphone-18-line-older-models",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "b96e6b0be6cd",
+    "slug": "apple-siri-ai-tinglash-funksiyalari-va-maxfiylikni-tushuntir-b96e6b",
+    "title": "Apple Siri AI tinglash funksiyalari va maxfiylikni tushuntirdi",
+    "summary": "Apple iPhone Duo taqdimotida Siri AI Audio Intelligence'ning yangi tinglash funksiyalarini e'lon qildi. Kompaniya AI \"ambient tinglash\" va foydalanuvchi maxfiyligini qanday muvozanatlashini tushuntiruvchi hujjat chiqardi.",
+    "tags": [
+      "Apple",
+      "maxfiylik"
+    ],
+    "importance": 3,
+    "score": 21,
+    "published": "2026-09-09T20:44:43.000Z",
+    "created": "2026-09-09T21:41:51.978Z",
+    "coverage": 2,
+    "source": {
+      "name": "The Verge",
+      "url": "https://theverge.com/tech/992919/apple-siri-ai-audio-intelligence-privacy",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "a9e9647669dd",
+    "slug": "salesforce-listen-labs-ai-platformasini-2-mlrd-dollarga-soti-a9e964",
+    "title": "Salesforce Listen Labs AI platformasini 2 mlrd dollarga sotib olishni muhokama qildi",
+    "summary": "Manbalarga ko'ra, Salesforce AI asosidagi mijozlarni tadqiq qilish platformasi Listen Labs'ni 2 milliard dollarga sotib olish bo'yicha muzokaralar olib borgan. Listen Labs bu yil boshida 500 million dollarga baholangan edi.",
+    "tags": [
+      "Salesforce",
+      "biznes"
+    ],
+    "importance": 4,
+    "score": 21,
+    "published": "2026-09-09T19:20:02.000Z",
+    "created": "2026-09-09T21:41:51.978Z",
+    "coverage": 2,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/260909/p40",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "Business Insider",
+        "url": "https://businessinsider.com/salesforce-acquire-ai-startup-listen-labs-2026-9"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
     "id": "fd226af97a53",
     "slug": "xitoy-ai-ko-zoynaklarini-korxonalar-uchun-targ-ib-qilmoqda-fd226a",
     "title": "Xitoy AI koʻzoynaklarini korxonalar uchun targʻib qilmoqda",
