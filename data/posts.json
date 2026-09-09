@@ -1,5 +1,77 @@
 [
   {
+    "id": "fd226af97a53",
+    "slug": "xitoy-ai-ko-zoynaklarini-korxonalar-uchun-targ-ib-qilmoqda-fd226a",
+    "title": "Xitoy AI koʻzoynaklarini korxonalar uchun targʻib qilmoqda",
+    "summary": "Xitoy korxonalar uchun sun'iy intellektga asoslangan koʻzoynaklarni faol targʻib qilmoqda. Mamlakatda aqlli koʻzoynaklar ommalashgani sababli, hukumat sanoat uchun xulq-atvor kodeksini chiqardi.",
+    "tags": [
+      "siyosat",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-09-09T17:11:10.000Z",
+    "created": "2026-09-09T19:02:37.227Z",
+    "coverage": 1,
+    "source": {
+      "name": "Semafor",
+      "url": "https://semafor.com/article/09/09/2026/china-makes-enterprise-push-for-ai-glasses",
+      "title": "China makes enterprise push for AI glasses",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "ed57044fcb19",
+    "slug": "apple-iphone-duo-buklanuvchi-telefonini-taqdim-etdi-ed5704",
+    "title": "Apple iPhone Duo buklanuvchi telefonini taqdim etdi",
+    "summary": "Apple oʻzining yillik mahsulot taqdimotida iPhone Duo nomli buklanuvchi telefonini namoyish qildi. Uning narxi 1,999 dollardan boshlanadi va 2TB modeli 3,199 dollarga sotiladi. Kompaniya AI sohasidagi ishlarini ham koʻrsatdi.",
+    "tags": [
+      "Apple",
+      "biznes"
+    ],
+    "importance": 4,
+    "score": 33,
+    "published": "2026-09-09T18:52:19.000Z",
+    "created": "2026-09-09T19:03:39.201Z",
+    "coverage": 2,
+    "source": {
+      "name": "The New York Times",
+      "url": "https://nytimes.com/2026/09/09/technology/apple-iphone-duo-foldable-phone.html",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "Techmeme",
+        "url": "https://techmeme.com/260909/p36"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "ed7826b91fd7",
+    "slug": "ai-ko-krak-saratoni-dori-samaradorligini-bashorat-qildi-ed7826",
+    "title": "AI koʻkrak saratoni dori samaradorligini bashorat qildi",
+    "summary": "Nature jurnalida xabar berilishicha, sun'iy intellekt modeli koʻkrak saratoni dori vositalarining qaysi biri eng yaxshi ishlashini bashorat qila oladi. Bu tibbiyot sohasida yangi imkoniyatlar ochadi.",
+    "tags": [
+      "tibbiyot",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 23.2,
+    "published": "2026-09-09T00:00:00.000Z",
+    "created": "2026-09-09T19:03:39.201Z",
+    "coverage": 1,
+    "source": {
+      "name": "Nature",
+      "url": "https://nature.com/articles/d41586-026-02845-2",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "38317a625bdf",
     "slug": "ai-agentlari-pulni-investitsiya-qilmoqda-38317a",
     "title": "AI agentlari pulni investitsiya qilmoqda",
