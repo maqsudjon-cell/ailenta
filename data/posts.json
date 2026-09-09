@@ -1,5 +1,51 @@
 [
   {
+    "id": "e8608e40b722",
+    "slug": "ibm-granite-time-series-patchtst-fm-r2-modelini-chiqardi-e8608e",
+    "title": "IBM Granite Time Series PatchTST-FM-r2 modelini chiqardi",
+    "summary": "IBM tijorat maqsadlarida foydalanish mumkin bo'lgan litsenziya bilan Granite Time Series PatchTST-FM-r2 modelini taqdim etdi. Bu model vaqt qatorlari tahlili uchun mo'ljallangan.",
+    "tags": [
+      "IBM",
+      "ochiq model"
+    ],
+    "importance": 2,
+    "score": 25,
+    "published": "2026-09-09T15:36:24.000Z",
+    "created": "2026-09-09T17:01:25.647Z",
+    "coverage": 1,
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
+      "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "b69346a1157c",
+    "slug": "avgustda-kompaniyalarda-ai-xarajatlari-kamaydi-b69346",
+    "title": "Avgustda kompaniyalarda AI xarajatlari kamaydi",
+    "summary": "Avgust oyida yetakchi kompaniyalarda har bir xodimga to'g'ri keladigan AI xarajatlari pasaydi. Token narxlarining tushishi va arzonroq modellar sababli, AI joriy etilishi kutilganidek kechmayapti.",
+    "tags": [
+      "iqtisod",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 21,
+    "published": "2026-09-09T14:18:34.000Z",
+    "created": "2026-09-09T17:01:25.649Z",
+    "coverage": 2,
+    "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/09/ai-spend-per-employee-slumped-at-top-firms-in-august-summer-doldrums-or-a-warning-sign",
+      "title": "AI spend per employee slumped at top firms in August — summer doldrums or a warning sign?",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "ada2f6461358",
     "slug": "google-deepmind-sevgi-tarixini-ai-yordamida-tikladi-ada2f6",
     "title": "Google DeepMind sevgi tarixini AI yordamida tikladi",
