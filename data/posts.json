@@ -1,5 +1,77 @@
 [
   {
+    "id": "787af55ca844",
+    "slug": "suno-musiqa-yaratuvchi-v6-ai-modelini-taqdim-etdi-787af5",
+    "title": "Suno musiqa yaratuvchi v6 AI modelini taqdim etdi",
+    "summary": "Suno kompaniyasi Warner Music Group va BMG bilan hamkorlikda o'qitilgan yangi v6 modellarini chiqardi. Kompaniya musiqalardan foydalanilganda leybllar va nashriyotlarga royalti to'lashini ma'lum qildi. Foydalanuvchilar so'rovlarda aniq ijodkorlarni ko'rsata olmaydi.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 4,
+    "score": 24,
+    "published": "2026-09-09T10:15:11.000Z",
+    "created": "2026-09-09T11:01:23.400Z",
+    "coverage": 2,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/260909/p7",
+      "title": "Suno rolls out v6, a new line of AI models trained in partnership with WMG and BMG, and says it will pay labels and publishers royalties when models are used (Bloomberg)",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "Engadget",
+        "url": "https://engadget.com/2251539/suno-trained-its-v6-ai-music-models-with-help-from-warner-and-bmg"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "dca2a8da65be",
+    "slug": "xitoylik-mutaxassislar-ai-malumotlarini-oqitmoqda-dca2a8",
+    "title": "Xitoylik mutaxassislar AI ma'lumotlarini o'qitmoqda",
+    "summary": "Xitoyda iqtisodiy turg'unlik sababli ishsiz qolgan yoki kam maosh oluvchi huquqshunoslar, me'morlar va muhandislar sun'iy intellekt modellarini o'qitish uchun arzon mehnat bozoriga kirib bormoqda. Ular o'z sohalari bo'yicha ma'lumotlarni tayyorlash bilan shug'ullanmoqda.",
+    "tags": [
+      "mehnat bozori",
+      "siyosat"
+    ],
+    "importance": 3,
+    "score": 22,
+    "published": "2026-09-09T10:00:00.000Z",
+    "created": "2026-09-09T11:01:23.401Z",
+    "coverage": 1,
+    "source": {
+      "name": "Rest of World",
+      "url": "https://restofworld.org/2026/china-expert-ai-trainers",
+      "title": "Now it’s China’s experts who are gig workers training AI data",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "b6a2d58e5d55",
+    "slug": "aqsh-xitoyning-ai-poygasida-golib-bolishidan-xavotirda-b6a2d5",
+    "title": "AQSh Xitoyning AI poygasida g'olib bo'lishidan xavotirda",
+    "summary": "AQSh G'aznachilik kotibi agar Xitoy sun'iy intellekt poygasida g'alaba qozonsa, boshqa hech narsa ahamiyatga ega bo'lmasligini ogohlantirdi. AQSh ikki davlat rasmiylarining uchrashuvi oldidan Xitoyga nisbatan ritorikani kuchaytirmoqda.",
+    "tags": [
+      "siyosat"
+    ],
+    "importance": 4,
+    "score": 19,
+    "published": "2026-09-09T10:34:12.000Z",
+    "created": "2026-09-09T11:01:23.403Z",
+    "coverage": 1,
+    "source": {
+      "name": "Semafor",
+      "url": "https://semafor.com/article/09/09/2026/us-ramps-up-china-rhetoric-ahead-of-upcoming-meeting",
+      "title": "US ramps up China rhetoric ahead of upcoming meeting",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "39989d15638c",
     "slug": "pentagon-ittifoqchilarning-ai-resurslari-kamligini-aytdi-39989d",
     "title": "Pentagon ittifoqchilarning AI resurslari kamligini aytdi",
