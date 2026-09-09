@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/tadqiqot/</link>
   <description>&quot;tadqiqot&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Wed, 09 Sep 2026 12:03:19 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 09 Sep 2026 12:07:17 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/tadqiqot/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>OpenAI ming yillik muammo isboti bo‘yicha bahsga tortildi</title>
+    <link>https://ailenta.uz/x/openai-ming-yillik-muammo-isboti-bo-yicha-bahsga-tortildi-3c7b09/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/openai-ming-yillik-muammo-isboti-bo-yicha-bahsga-tortildi-3c7b09/</guid>
+    <pubDate>Wed, 09 Sep 2026 10:27:37 GMT</pubDate>
+    <description>OpenAI AI tomonidan yaratilgan ming yillik muammo isboti bo‘yicha bahsga tortildi. Matematik Tristan Buckmaster OpenAI'ni akademik firibgarlikda aybladi, Sam Altman esa buni rad etdi.</description>
+    <category>OpenAI</category><category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/openai-ming-yillik-muammo-isboti-bo-yicha-bahsga-tortildi-3c7b09.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/openai-ming-yillik-muammo-isboti-bo-yicha-bahsga-tortildi-3c7b09.jpg"/>
+  </item>
   <item>
     <title>AI samaradorligi ma'lumotlar hisobiga oshdi</title>
     <link>https://ailenta.uz/x/ai-samaradorligi-malumotlar-hisobiga-oshdi-55333c/</link>
@@ -296,16 +306,6 @@
     <category>tadqiqot</category><category>Google</category>
     <media:content url="https://ailenta.uz/og/deepmind-veterani-ai-tadqiqotlari-uchun-kompaniyadan-ketdi-94130b.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/deepmind-veterani-ai-tadqiqotlari-uchun-kompaniyadan-ketdi-94130b.jpg"/>
-  </item>
-  <item>
-    <title>Engrim – AI CLI'lar uchun SQLite xotira mexanizmi</title>
-    <link>https://ailenta.uz/x/engrim-ai-clilar-uchun-sqlite-xotira-mexanizmi-d02abe/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/engrim-ai-clilar-uchun-sqlite-xotira-mexanizmi-d02abe/</guid>
-    <pubDate>Mon, 07 Sep 2026 04:49:36 GMT</pubDate>
-    <description>Engrim – bu AI buyruq qatori interfeyslari (CLI) uchun universal, lokal-birinchi SQLite xotira mexanizmi. U dasturchilarga yordam berishga qaratilgan.</description>
-    <category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/engrim-ai-clilar-uchun-sqlite-xotira-mexanizmi-d02abe.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/engrim-ai-clilar-uchun-sqlite-xotira-mexanizmi-d02abe.jpg"/>
   </item>
 </channel>
 </rss>

@@ -1,5 +1,74 @@
 [
   {
+    "id": "b9dc3245e198",
+    "slug": "hugging-face-ml-internni-ishga-tushirdi-b9dc32",
+    "title": "Hugging Face ML Internni ishga tushirdi",
+    "summary": "Hugging Face \"ML Intern\" nomli AI yordamchisini ishga tushirdi. Bu chatbotga o‘rnatilgan yordamchi foydalanuvchilarga mashina o‘rganish tajribalarini ML bilimisiz o‘tkazish imkonini beradi.",
+    "tags": [
+      "Hugging Face",
+      "agentlar"
+    ],
+    "importance": 3,
+    "score": 24,
+    "published": "2026-09-09T10:38:41.000Z",
+    "created": "2026-09-09T12:04:19.280Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/hugging-faces-new-ml-intern-lets-anyone-run-machine-learning-experiments-through-a-simple-chat",
+      "title": "Hugging Face&#039;s new ML Intern lets anyone run machine learning experiments through a simple chat",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "32988aa15c39",
+    "slug": "saudiya-humain-kompaniyasi-ai-uchun-sarmoya-jalb-qilmoqda-32988a",
+    "title": "Saudiya Humain kompaniyasi AI uchun sarmoya jalb qilmoqda",
+    "summary": "Saudiya Arabistonining Humain kompaniyasi ma'lumotlar markazlarini qurish va AI ambitsiyalarini kuchaytirish uchun IPO va milliardlab yangi kapital jalb qilmoqda. Bu moliyaviy cheklovlar fonida amalga oshirilmoqda.",
+    "tags": [
+      "biznes",
+      "iqtisod"
+    ],
+    "importance": 3,
+    "score": 22,
+    "published": "2026-09-09T09:55:32.000Z",
+    "created": "2026-09-09T12:04:19.281Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/09/09/saudis-humain-turns-to-outside-investment-as-the-kingdom-reins-in-fiscal-spending",
+      "title": "Saudi’s Humain turns to outside investment as the kingdom reins in fiscal spending",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "3c7b09da67bf",
+    "slug": "openai-ming-yillik-muammo-isboti-bo-yicha-bahsga-tortildi-3c7b09",
+    "title": "OpenAI ming yillik muammo isboti bo‘yicha bahsga tortildi",
+    "summary": "OpenAI AI tomonidan yaratilgan ming yillik muammo isboti bo‘yicha bahsga tortildi. Matematik Tristan Buckmaster OpenAI'ni akademik firibgarlikda aybladi, Sam Altman esa buni rad etdi.",
+    "tags": [
+      "OpenAI",
+      "tadqiqot"
+    ],
+    "importance": 4,
+    "score": 18,
+    "published": "2026-09-09T10:27:37.000Z",
+    "created": "2026-09-09T12:04:19.282Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/openais-millennium-proof-dispute-raises-the-question-of-whether-researchers-can-trust-ai-labs",
+      "title": "OpenAI&#039;s millennium proof dispute raises the question of whether researchers can trust AI labs",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "7e94b820a528",
     "slug": "alibaba-rahbari-ai-agentlarining-imkoniyatlarini-baholadi-7e94b8",
     "title": "Alibaba rahbari AI agentlarining imkoniyatlarini baholadi",
