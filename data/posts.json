@@ -1,5 +1,71 @@
 [
   {
+    "id": "38317a625bdf",
+    "slug": "ai-agentlari-pulni-investitsiya-qilmoqda-38317a",
+    "title": "AI agentlari pulni investitsiya qilmoqda",
+    "summary": "Bir kishi o'z pulini investitsiya qilish uchun AI agentlaridan foydalanmoqda. Ushbu agentlarning hatto o'z ismlari ham bor.",
+    "tags": [
+      "agentlar",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 27,
+    "published": "2026-09-09T14:25:20.000Z",
+    "created": "2026-09-09T18:46:15.104Z",
+    "coverage": 1,
+    "source": {
+      "name": "WSJ",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQLThYM2VKejRrbndnaTJuYUFpNVBmMlFqa0xyQmhDRWVJSENSRlJ3dmRBMlZoS0lXNEY2VUEyRHFrQzNCV3dWYVlzNTlOMnRLeTZiNkNPTHJyR3FiYkV4OVJYamRqb2Q3bDBtMkdIOGxXTTRMRm0zZnRfUkRlTmNKMXFfSE5UVFV1dkdZOGRTREctd3ZsLXdnTFNPRk1SbVE",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "1c67cba858c5",
+    "slug": "anthropic-faollarni-kuzatish-tizimini-yaratmoqda-1c67cb",
+    "title": "Anthropic faollarni kuzatish tizimini yaratmoqda",
+    "summary": "Anthropic kompaniyasi faollarni kuzatish uchun bashorat qiluvchi kuzatuv tizimini qurmoqda. Bu haqda Hacker News xabar berdi.",
+    "tags": [
+      "Anthropic",
+      "xavfsizlik"
+    ],
+    "importance": 4,
+    "score": 23,
+    "published": "2026-09-09T16:01:41.000Z",
+    "created": "2026-09-09T18:46:15.104Z",
+    "coverage": 1,
+    "source": {
+      "name": "Hacker News",
+      "url": "https://prospect.org/2026/09/09/anthropic-artificial-intelligence-surveillance-system-monitor-activists",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "f3373f4b6dc1",
+    "slug": "openai-gpt-images-2-5-tasvir-generatorini-yangiladi-f3373f",
+    "title": "OpenAI GPT Images 2.5 tasvir generatorini yangiladi",
+    "summary": "OpenAI 2026-yil 8-sentabrda o'zining ChatGPT Images 2.5 tasvir generatorining yangilangan versiyasini chiqardi. Bu model avvalgi versiyaning takomillashtirilgan shakli hisoblanadi.",
+    "tags": [
+      "OpenAI",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 20,
+    "published": "2026-09-09T16:47:14.000Z",
+    "created": "2026-09-09T18:46:15.104Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/companies/gptunnel/articles/1080484",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "b5810de0e33a",
     "slug": "ai-agenti-gadjetlarni-buzdi-va-xavfsizlikni-oshirdi-b5810d",
     "title": "AI agenti gadjetlarni buzdi va xavfsizlikni oshirdi",
