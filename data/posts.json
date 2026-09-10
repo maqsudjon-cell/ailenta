@@ -1,5 +1,35 @@
 [
   {
+    "id": "5927f1e08301",
+    "slug": "umg-va-elevenlabs-yangi-ai-musiqa-platformasini-yaratadi-5927f1",
+    "title": "UMG va ElevenLabs yangi AI musiqa platformasini yaratadi",
+    "summary": "Universal Music Group va ElevenLabs foydalanuvchilarga qo'shiq remikslari va mashuplar yaratish imkonini beruvchi platforma ustida hamkorlik qilmoqda. Yangi xizmat kompaniya katalogidagi musiqalardan foydalangan holda yangi talqinlar yaratishga xizmat qiladi.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 27,
+    "published": "2026-09-10T18:45:01.000Z",
+    "created": "2026-09-10T21:14:49.697Z",
+    "coverage": 3,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/260910/p31",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "Engadget",
+        "url": "https://engadget.com/2255044/universal-music-group-is-collaborating-with-elevenlabs-on-a-new-ai-powered-creation-platform"
+      },
+      {
+        "name": "The Verge",
+        "url": "https://theverge.com/ai-artificial-intelligence/993465/universal-music-elevenlabs-ai"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
     "id": "67f67b7b1778",
     "slug": "anthropic-ai-qurollari-imkoniyatlarini-olchamoqda-67f67b",
     "title": "Anthropic AI qurollari imkoniyatlarini o'lchamoqda",
