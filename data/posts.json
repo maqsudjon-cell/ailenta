@@ -1,5 +1,92 @@
 [
   {
+    "id": "a719a9d90ad9",
+    "slug": "huawei-nvidia-va-broadcomga-qarshi-yangi-standart-taqdim-etd-a719a9",
+    "title": "Huawei Nvidia va Broadcom'ga qarshi yangi standart taqdim etdi",
+    "summary": "Huawei kompaniyasi Nvidia va Broadcom bilan raqobatlashish uchun yangi optik texnologiya standartini taqdim etdi. Bu haqda Nikkei Asia nashri xabar berdi.",
+    "tags": [
+      "Nvidia",
+      "chiplar"
+    ],
+    "importance": 4,
+    "score": 19,
+    "published": "2026-09-10T07:30:00.000Z",
+    "created": "2026-09-10T08:01:30.317Z",
+    "coverage": 1,
+    "source": {
+      "name": "Nikkei Asia",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNdFI1dmFBeVVyVlVIX2YyMG5jdjl1cW9Pek1xRnRsaFhxdmFvdFlUeGY1SlhQTkNZOGVhNExuQkpPc2gxNkdxMjdHUnpLUDcwYXhTMVJRZWlFelFVZmdNRjNTdXd4bGt0X2NPRWQ0TTU3ZF84SWN4MUVNNE8yVE0yREdQQ0E1bTlrdlloRHNobzBCcDdHekV6RlpXNW02eThmVnE2cEY2bFlaY2YwaUJDWjFtYU5rQ2NDdVF0X2NUQ0owTW9QYzhlSFVpTFdmMFVoODBwb3BEZw",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "622e86af6053",
+    "slug": "boy-ota-onalar-farzandlari-uchun-ai-maktabini-sotib-olmoqda-622e86",
+    "title": "Boy ota-onalar farzandlari uchun AI maktabini sotib olmoqda",
+    "summary": "Savodxonlik inqirozi fonida boy ota-onalar farzandlari uchun 75 000 dollarlik sun'iy intellekt maktabini sotib olmoqda. Alpha School maktabida asosiy fanlarni AI repetitor o'rgatadi.",
+    "tags": [
+      "ta'lim"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-09-10T07:03:00.000Z",
+    "created": "2026-09-10T08:01:30.317Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/09/10/alpha-school-wealthy-parents-ai-school",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "36ad37508eee",
+    "slug": "finlandiyaga-30-mlrd-dollardan-ortiq-sarmoya-kiritilmoqda-36ad37",
+    "title": "Finlandiyaga 30 mlrd dollardan ortiq sarmoya kiritilmoqda",
+    "summary": "Google, Microsoft va TikTok kompaniyalari Finlandiyada ma'lumotlar markazlarini qurish uchun 30,2 milliard dollardan ortiq sarmoya kiritmoqda. Bu mamlakatni Yevropaning ma'lumotlar markazi poytaxtiga aylantirmoqda.",
+    "tags": [
+      "Google",
+      "Microsoft"
+    ],
+    "importance": 4,
+    "score": 19,
+    "published": "2026-09-10T07:00:00.000Z",
+    "created": "2026-09-10T08:01:30.317Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/09/10/europe-data-center-capital-google-microsoft-tiktok-30-2-billion",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "a752b001ca80",
+    "slug": "microsoft-salesforce-foydalanuvchilari-uchun-ai-vosita-yarat-a752b0",
+    "title": "Microsoft Salesforce foydalanuvchilari uchun AI vosita yaratdi",
+    "summary": "Microsoft kompaniyasi Salesforce va ERP foydalanuvchilarini jalb qilish uchun sun'iy intellektga asoslangan konverter yaratdi. Bu yangilik Salesforce o'zining AI mahsulotlarini sotishda qiyinchilikka duch kelayotgan bir vaqtda e'lon qilindi.",
+    "tags": [
+      "Microsoft",
+      "Salesforce"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-09-10T04:53:32.000Z",
+    "created": "2026-09-10T08:01:30.317Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/software/2026/09/10/microsoft-goes-after-salesforce-and-erp-users-with-ai-powered-converter/5295428",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "a2e68c025989",
     "slug": "jd-cloud-100-ming-gpuli-klaster-quradi-a2e68c",
     "title": "JD Cloud 100 ming GPU'li klaster quradi",

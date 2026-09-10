@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/nvidia/</link>
   <description>&quot;Nvidia&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Thu, 10 Sep 2026 07:05:37 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 10 Sep 2026 08:03:37 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/nvidia/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Huawei Nvidia va Broadcom'ga qarshi yangi standart taqdim etdi</title>
+    <link>https://ailenta.uz/x/huawei-nvidia-va-broadcomga-qarshi-yangi-standart-taqdim-etd-a719a9/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/huawei-nvidia-va-broadcomga-qarshi-yangi-standart-taqdim-etd-a719a9/</guid>
+    <pubDate>Thu, 10 Sep 2026 07:30:00 GMT</pubDate>
+    <description>Huawei kompaniyasi Nvidia va Broadcom bilan raqobatlashish uchun yangi optik texnologiya standartini taqdim etdi. Bu haqda Nikkei Asia nashri xabar berdi.</description>
+    <category>Nvidia</category><category>chiplar</category>
+    <media:content url="https://ailenta.uz/og/huawei-nvidia-va-broadcomga-qarshi-yangi-standart-taqdim-etd-a719a9.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/huawei-nvidia-va-broadcomga-qarshi-yangi-standart-taqdim-etd-a719a9.jpg"/>
+  </item>
   <item>
     <title>Nvidia H100 chiplari ijarasi narxi oshib bormoqda</title>
     <link>https://ailenta.uz/x/nvidia-h100-chiplari-ijarasi-narxi-oshib-bormoqda-9e7370/</link>
@@ -296,16 +306,6 @@
     <category>Nvidia</category><category>Hugging Face</category>
     <media:content url="https://ailenta.uz/og/nvidia-hugging-face-dagi-xavfsizlik-hodisasiga-javob-berdi-5a71e7.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/nvidia-hugging-face-dagi-xavfsizlik-hodisasiga-javob-berdi-5a71e7.jpg"/>
-  </item>
-  <item>
-    <title>Nvidia DLSS 5'ni eski RTX 40-seriyali GPUlarga olib keladi</title>
-    <link>https://ailenta.uz/x/nvidia-dlss-5ni-eski-rtx-40-seriyali-gpularga-olib-keladi-782c35/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/nvidia-dlss-5ni-eski-rtx-40-seriyali-gpularga-olib-keladi-782c35/</guid>
-    <pubDate>Sat, 05 Sep 2026 00:05:21 GMT</pubDate>
-    <description>Nvidia DLSS 5 texnologiyasini eski RTX 40-seriyali GPUlarga RTX 50 seriyasi sozlangandan so'ng olib kelishni rejalashtirmoqda. Kompaniya DLSS 5 o'yinlari haqida tasdiq bermadi.</description>
-    <category>Nvidia</category><category>chiplar</category>
-    <media:content url="https://ailenta.uz/og/nvidia-dlss-5ni-eski-rtx-40-seriyali-gpularga-olib-keladi-782c35.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/nvidia-dlss-5ni-eski-rtx-40-seriyali-gpularga-olib-keladi-782c35.jpg"/>
   </item>
 </channel>
 </rss>
