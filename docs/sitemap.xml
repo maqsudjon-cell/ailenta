@@ -2,9 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://ailenta.uz/</loc>
-    <lastmod>2026-09-09</lastmod>
+    <lastmod>2026-09-10</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://ailenta.uz/x/buyuk-britaniyada-tibbiy-ai-uchun-yangi-qonunlar-kerak-a5607f/</loc>
+    <lastmod>2026-09-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://ailenta.uz/x/muse-guruhi-metaning-ai-agenti-tufayli-akkauntlarini-yoqotdi-083b4a/</loc>
@@ -4795,6 +4801,18 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://ailenta.uz/mavzu/tibbiyot/</loc>
+    <lastmod>2026-09-10</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://ailenta.uz/mavzu/qonun/</loc>
+    <lastmod>2026-09-10</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://ailenta.uz/mavzu/meta/</loc>
     <lastmod>2026-09-09</lastmod>
     <changefreq>daily</changefreq>
@@ -4820,12 +4838,6 @@
   </url>
   <url>
     <loc>https://ailenta.uz/mavzu/openai/</loc>
-    <lastmod>2026-09-09</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://ailenta.uz/mavzu/qonun/</loc>
     <lastmod>2026-09-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
@@ -4939,12 +4951,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://ailenta.uz/mavzu/tibbiyot/</loc>
-    <lastmod>2026-09-09</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://ailenta.uz/mavzu/amazon/</loc>
     <lastmod>2026-09-08</lastmod>
     <changefreq>daily</changefreq>
@@ -4988,7 +4994,7 @@
   </url>
   <url>
     <loc>https://ailenta.uz/kun/2026-09-10/</loc>
-    <lastmod>2026-09-09</lastmod>
+    <lastmod>2026-09-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -5054,13 +5060,13 @@
   </url>
   <url>
     <loc>https://ailenta.uz/arxiv/</loc>
-    <lastmod>2026-09-09</lastmod>
+    <lastmod>2026-09-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://ailenta.uz/mavzular/</loc>
-    <lastmod>2026-09-09</lastmod>
+    <lastmod>2026-09-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
