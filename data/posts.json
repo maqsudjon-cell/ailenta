@@ -1,5 +1,70 @@
 [
   {
+    "id": "b59c434aa23c",
+    "slug": "gen-z-vakillari-shifokordan-oldin-aiga-murojaat-qilmoqda-b59c43",
+    "title": "Gen Z vakillari shifokordan oldin AI'ga murojaat qilmoqda",
+    "summary": "Aflac prezidentining ma'lum qilishicha, Gen Z yoshlarining 76 foizi va milleniallarning 63 foizi shifokor qabuliga borishdan oldin sun'iy intellektga murojaat qiladi. Mutaxassis sog'liqni saqlash sohasini to'liq AI boshqaruviga topshirib qo'ymaslik kerakligini ta'kidlamoqda.",
+    "tags": [
+      "tibbiyot"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-09-10T10:00:00.000Z",
+    "created": "2026-09-10T12:01:20.029Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/09/10/aflac-president-why-ai-shouldnt-drive-your-healthcare",
+      "title": "Aflac President: why AI shouldn’t drive your healthcare",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "6a06e578f341",
+    "slug": "virginiyadagi-malumotlar-markazlarida-elektr-uzildi-6a06e5",
+    "title": "Virginiyadagi ma'lumotlar markazlarida elektr uzildi",
+    "summary": "2026-yil 22-iyulda dunyodagi eng yirik ma'lumotlar markazlari klasteri joylashgan Virginiya shtatining Ashburn shahrida elektr uzatish liniyasidagi nosozlik tufayli 3 gigavattdan ortiq yuklama tarmoqdan uzildi. Ikki yil avval ham shunga o'xshash avariya yuz bergan edi.",
+    "tags": [
+      "bulut"
+    ],
+    "importance": 3,
+    "score": 26,
+    "published": "2026-09-10T11:00:00.000Z",
+    "created": "2026-09-10T12:01:23.292Z",
+    "coverage": 1,
+    "source": {
+      "name": "MIT Technology Review",
+      "url": "https://technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "76ef3261c3cf",
+    "slug": "anthropic-yevropa-kiberxavfsizlik-agentligiga-ruxsat-berdi-76ef32",
+    "title": "Anthropic Yevropa kiberxavfsizlik agentligiga ruxsat berdi",
+    "summary": "Anthropic kompaniyasi Yevropa Ittifoqining kiberxavfsizlik agentligi ENISA'ga o'zining Mythos 5 modelini sinovdan o'tkazish imkoniyatini taqdim etdi. May oyida boshlangan muzokaralardan so'ng berilgan ushbu ruxsatga qaramay, agentlikda hali Mythos 5.1 modelini sinash imkoni yo'q.",
+    "tags": [
+      "Anthropic",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 21,
+    "published": "2026-09-10T10:25:01.000Z",
+    "created": "2026-09-10T12:01:23.292Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/260910/p14",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "9f7aabe5b912",
     "slug": "clearview-ai-politsiya-uchun-yangi-ai-vositasini-sinamoqda-9f7aab",
     "title": "Clearview AI politsiya uchun yangi AI vositasini sinamoqda",
