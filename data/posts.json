@@ -1,5 +1,59 @@
 [
   {
+    "id": "ea4d3b05d9ae",
+    "slug": "d-matrix-o-z-chiplari-uchun-nvidia-texnologiyasini-tanladi-ea4d3b",
+    "title": "d-Matrix o‘z chiplari uchun Nvidia texnologiyasini tanladi",
+    "summary": "Sun'iy intellekt chiplari ishlab chiqaruvchi d-Matrix kompaniyasi o'zining Raptor chiplarini Nvidia infratuzilmasiga ulash uchun NVLink Fusion texnologiyasidan foydalanadi. Bu d-Matrix mahsulotlarini Nvidia platformasi bilan integratsiya qilish imkonini beradi.",
+    "tags": [
+      "Nvidia",
+      "chiplar"
+    ],
+    "importance": 3,
+    "score": 45,
+    "published": "2026-09-10T13:00:21.000Z",
+    "created": "2026-09-10T13:01:43.828Z",
+    "coverage": 2,
+    "source": {
+      "name": "Nvidia",
+      "url": "https://blogs.nvidia.com/blog/d-matrix-nvlink-fusion",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "The Register",
+        "url": "https://theregister.com/systems/2026/09/10/d-matrix-drinks-the-nvidia-kool-aid-with-nvlink-fusion-and-mgx-rack-designs/5295403"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "6fd1eb919bc8",
+    "slug": "openai-boshqaruv-azosi-xavflardan-ogohlantirdi-6fd1eb",
+    "title": "OpenAI boshqaruv a’zosi xavflardan ogohlantirdi",
+    "summary": "OpenAI not-tijorat jamg'armasi boshqaruv kengashi a'zosi Pol Kristiano kompaniya sun'iy intellekt ustidan nazoratni yo'qotish xavfini kamaytirish choralarini yetarli darajada ko'rmayotganini ma'lum qildi. Uning so'zlariga ko'ra, yaqin kelajakda qaytarib bo'lmaydigan xavflar yuzaga kelishi mumkin.",
+    "tags": [
+      "OpenAI",
+      "xavfsizlik"
+    ],
+    "importance": 4,
+    "score": 32,
+    "published": "2026-09-10T12:23:21.000Z",
+    "created": "2026-09-10T13:01:43.828Z",
+    "coverage": 2,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/technology/2026/sep/10/openai-risk-catastrophic-loss-control-board-member-paul-christiano",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "PBS",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNjVVRTdJVkMweDNHZkMzZkJhQ09wc2tjNm41eXFEeGMzRktCcWNreC1WdWJOa3I2RmpjbExDbUEwUVNCcTQ2dm1zbEowN2NoekxZVWtUVElRdGpLRHhQSEZqYlQzaThYcU9meWJkN1ZsS1puZ0l5U2tTbWc2RVJtTnlkWFRnMi1XeHhlU1RPTm5oSTBUeWJfWmlDSQ"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
     "id": "b59c434aa23c",
     "slug": "gen-z-vakillari-shifokordan-oldin-aiga-murojaat-qilmoqda-b59c43",
     "title": "Gen Z vakillari shifokordan oldin AI'ga murojaat qilmoqda",
