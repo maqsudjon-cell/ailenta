@@ -1,5 +1,49 @@
 [
   {
+    "id": "3f2c50a23540",
+    "slug": "nscale-britaniya-ai-sarmoyasining-asosiy-qismini-oldi-3f2c50",
+    "title": "Nscale Britaniya AI sarmoyasining asosiy qismini oldi",
+    "summary": "Tracxn ma'lumotlariga ko'ra, Britaniya ma'lumotlar markazlari sektoriga jami 5,7 milliard dollar sarmoya kiritilgan. Shundan 3,7 milliard dollari AI infratuzilmasi bilan shug'ullanuvchi Nscale kompaniyasiga to'g'ri keldi.",
+    "tags": [
+      "iqtisod",
+      "bulut"
+    ],
+    "importance": 3,
+    "score": 22,
+    "published": "2026-09-10T14:08:00.000Z",
+    "created": "2026-09-10T21:35:46.286Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/on-prem/2026/09/10/nscale-swallows-lions-share-of-uk-datacenter-investment/5295541",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "2056a97d365f",
+    "slug": "aqshda-xodim-boshiga-ai-xarajatlari-kamaydi-2056a9",
+    "title": "AQShda xodim boshiga AI xarajatlari kamaydi",
+    "summary": "Ramp indeksi ma'lumotlariga ko'ra, avgust oyida AQShning yirik kompaniyalarida xodim boshiga AI xarajatlari qariyb 10 foizga kamaydi. Bir million token narxi 41 foizga pasaygani sababli, bizneslar qimmat modellardan arzonroq muqobillarga o'tmoqda.",
+    "tags": [
+      "iqtisod",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 21,
+    "published": "2026-09-10T09:34:21.000Z",
+    "created": "2026-09-10T21:35:46.286Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/top-ai-spenders-cut-per-employee-costs-by-nearly-10-percent-in-august",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "5927f1e08301",
     "slug": "umg-va-elevenlabs-yangi-ai-musiqa-platformasini-yaratadi-5927f1",
     "title": "UMG va ElevenLabs yangi AI musiqa platformasini yaratadi",
