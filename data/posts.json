@@ -1,5 +1,50 @@
 [
   {
+    "id": "a2e68c025989",
+    "slug": "jd-cloud-100-ming-gpuli-klaster-quradi-a2e68c",
+    "title": "JD Cloud 100 ming GPU'li klaster quradi",
+    "summary": "JD Cloud kompaniyasi Xitoyning Moore Threads chip ishlab chiqaruvchisi bilan hamkorlikda 100 000 ta GPU'dan iborat hisoblash klasterini qurishni rejalashtirmoqda. Ushbu loyiha katta modellarni o'qitish va xulosa chiqarishni qo'llab-quvvatlaydi. Hisoblash quvvatidan turli soha kompaniyalari foydalanishi mumkin bo'ladi.",
+    "tags": [
+      "chiplar",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 19.1,
+    "published": "2026-09-09T05:43:48.000Z",
+    "created": "2026-09-10T06:01:27.197Z",
+    "coverage": 1,
+    "source": {
+      "name": "TechNode",
+      "url": "https://technode.com/2026/09/09/jd-cloud-moore-threads-100000-gpu-computing-cluster",
+      "title": "JD Cloud plans 100,000-GPU computing cluster powered by Moore Threads",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "f3bee85ee72c",
+    "slug": "aidan-kamroq-foydalangan-oquvchilar-yaxshi-natija-korsatdi-f3bee8",
+    "title": "AI'dan kamroq foydalangan o'quvchilar yaxshi natija ko'rsatdi",
+    "summary": "OECD tashkilotining 91 ta davlatdagi 760 000 dan ortiq o'quvchi o'rtasida o'tkazgan tadqiqotiga ko'ra, sun'iy intellektdan foydalanmagan o'quvchilar darslarni yaxshiroq o'zlashtiradi. AI'dan tiyilgan o'quvchilarning akademik ko'rsatkichlari undan foydalanadigan tengdoshlariga qaraganda yuqoriroq bo'lgan.",
+    "tags": [
+      "ta'lim",
+      "tadqiqot"
+    ],
+    "importance": 4,
+    "score": 18.7,
+    "published": "2026-09-09T17:10:44.000Z",
+    "created": "2026-09-10T06:01:40.155Z",
+    "coverage": 1,
+    "source": {
+      "name": "Semafor",
+      "url": "https://semafor.com/article/09/09/2026/students-perform-better-academically-with-less-ai-study-finds",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "336747972315",
     "slug": "eda-ai-ilovasi-bo-yicha-raqobat-qo-mitasi-aralashdi-336747",
     "title": "“Eda AI” ilovasi bo‘yicha Raqobat qo‘mitasi aralashdi",

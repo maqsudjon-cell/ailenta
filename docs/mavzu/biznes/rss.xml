@@ -5,7 +5,7 @@
   <link>https://ailenta.uz/mavzu/biznes/</link>
   <description>&quot;biznes&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Thu, 10 Sep 2026 05:24:15 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 10 Sep 2026 06:03:14 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/biznes/rss.xml" rel="self" type="application/rss+xml"/>
   <item>
     <title>“Eda AI” ilovasi bo‘yicha Raqobat qo‘mitasi aralashdi</title>
@@ -228,6 +228,16 @@
     <media:thumbnail url="https://ailenta.uz/og/openai-sobiq-tadqiqotchisi-tencent-jamoasiga-rahbar-boldi-e674b6.jpg"/>
   </item>
   <item>
+    <title>JD Cloud 100 ming GPU'li klaster quradi</title>
+    <link>https://ailenta.uz/x/jd-cloud-100-ming-gpuli-klaster-quradi-a2e68c/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/jd-cloud-100-ming-gpuli-klaster-quradi-a2e68c/</guid>
+    <pubDate>Wed, 09 Sep 2026 05:43:48 GMT</pubDate>
+    <description>JD Cloud kompaniyasi Xitoyning Moore Threads chip ishlab chiqaruvchisi bilan hamkorlikda 100 000 ta GPU'dan iborat hisoblash klasterini qurishni rejalashtirmoqda. Ushbu loyiha katta modellarni o'qitish va xulosa chiqarishni qo'llab-quvvatlaydi. Hisoblash quvvatidan turli soha kompaniyalari foydalanishi mumkin bo'ladi.</description>
+    <category>chiplar</category><category>biznes</category>
+    <media:content url="https://ailenta.uz/og/jd-cloud-100-ming-gpuli-klaster-quradi-a2e68c.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/jd-cloud-100-ming-gpuli-klaster-quradi-a2e68c.jpg"/>
+  </item>
+  <item>
     <title>HarmonyOS 7 bir kunda 5 milliondan ortiq qurilmaga o'rnatildi</title>
     <link>https://ailenta.uz/x/harmonyos-7-bir-kunda-5-milliondan-ortiq-qurilmaga-ornatildi-4dfd00/</link>
     <guid isPermaLink="true">https://ailenta.uz/x/harmonyos-7-bir-kunda-5-milliondan-ortiq-qurilmaga-ornatildi-4dfd00/</guid>
@@ -296,16 +306,6 @@
     <category>Anthropic</category><category>biznes</category>
     <media:content url="https://ailenta.uz/og/anthropic-decart-ai-bilan-kelishuvni-toxtatdi-c4da0e.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/anthropic-decart-ai-bilan-kelishuvni-toxtatdi-c4da0e.jpg"/>
-  </item>
-  <item>
-    <title>Meta muhandislar faoliyatini AI orqali baholashni to'xtatdi</title>
-    <link>https://ailenta.uz/x/meta-muhandislar-faoliyatini-ai-orqali-baholashni-toxtatdi-d38aba/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/meta-muhandislar-faoliyatini-ai-orqali-baholashni-toxtatdi-d38aba/</guid>
-    <pubDate>Tue, 08 Sep 2026 14:27:40 GMT</pubDate>
-    <description>Meta kompaniyasi muhandislar ishini baholashda sun'iy intellekt vositalaridan foydalanish ko'rsatkichini hisobga olmaydigan bo'ldi. Bu qaror &quot;tokenmaxxing&quot; muammosi tufayli qabul qilindi.</description>
-    <category>Meta</category><category>biznes</category>
-    <media:content url="https://ailenta.uz/og/meta-muhandislar-faoliyatini-ai-orqali-baholashni-toxtatdi-d38aba.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/meta-muhandislar-faoliyatini-ai-orqali-baholashni-toxtatdi-d38aba.jpg"/>
   </item>
 </channel>
 </rss>
