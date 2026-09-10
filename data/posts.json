@@ -1,5 +1,54 @@
 [
   {
+    "id": "94f3002b19f7",
+    "slug": "robotaksi-bozori-2035-yilga-kelib-400-mlrd-dollarga-yetadi-94f300",
+    "title": "Robotaksi bozori 2035-yilga kelib 400 mlrd dollarga yetadi",
+    "summary": "Robotaksi bozori 2035-yilga borib 400 milliard dollarga yetishi va 6 milliondan ortiq haydovchisiz transport vositalari xizmat ko'rsatishi kutilmoqda. Dunyodagi yetakchi robotaksi ishlab chiqaruvchilari o'z tizimlarini yaratishda Nvidia texnologiyalaridan foydalanmoqda.",
+    "tags": [
+      "Nvidia",
+      "robototexnika"
+    ],
+    "importance": 3,
+    "score": 36,
+    "published": "2026-09-10T16:00:04.000Z",
+    "created": "2026-09-10T18:36:00.836Z",
+    "coverage": 1,
+    "source": {
+      "name": "Nvidia",
+      "url": "https://blogs.nvidia.com/blog/robotaxi-leaders-full-stack-open-platform",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "f77366f3c61d",
+    "slug": "matematiklar-openaini-ogrilikda-ayblamoqda-f77366",
+    "title": "Matematiklar OpenAI'ni o'g'rilikda ayblamoqda",
+    "summary": "Yana bir matematik tadqiqotchi OpenAI kompaniyasini o'zining matematik kashfiyotlari uchun ma'lumotlardan noqonuniy foydalanganlikda aybladi. U kompaniyani shaffoflik yetishmasligi va insofsiz xatti-harakatlarda ayblab, o'z ishlaridan foydalanilmaganini isbotlashni talab qilmoqda.",
+    "tags": [
+      "OpenAI",
+      "sud"
+    ],
+    "importance": 4,
+    "score": 32,
+    "published": "2026-09-10T11:00:57.000Z",
+    "created": "2026-09-10T18:36:00.836Z",
+    "coverage": 2,
+    "source": {
+      "name": "The Verge",
+      "url": "https://theverge.com/ai-artificial-intelligence/993263/where-does-openai-get-mathematics-training-data",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "Hacker News",
+        "url": "https://twitter.com/ValerioCapraro/status/2097791836269977996"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
     "id": "3ec577877ef1",
     "slug": "anthropic-biologik-qurol-yaratish-urinishlarini-toxtatdi-3ec577",
     "title": "Anthropic biologik qurol yaratish urinishlarini to'xtatdi",
