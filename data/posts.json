@@ -1,22 +1,21 @@
 [
   {
     "id": "336747972315",
-    "slug": "raqobat-qomitasi-eda-ai-ilovasi-ishiga-aralashdi-336747",
-    "title": "Raqobat qo'mitasi Eda AI ilovasi ishiga aralashdi",
-    "summary": "Foydalanuvchilar ogohlantirishsiz yillik obuna to'lovi yozib olingani va pulni qaytarishdagi muammolardan shikoyat qilgan. Shundan so'ng Raqobat qo'mitasi vaziyatga aralashdi.",
+    "slug": "eda-ai-ilovasi-bo-yicha-raqobat-qo-mitasi-aralashdi-336747",
+    "title": "“Eda AI” ilovasi bo‘yicha Raqobat qo‘mitasi aralashdi",
+    "summary": "Foydalanuvchilar “Eda AI” ilovasida ogohlantirishsiz yillik obuna puli yechib olingani va pulni qaytarishda muammolar borligidan shikoyat qilishgan. Raqobat qo‘mitasi ushbu vaziyatga aralashdi.",
     "tags": [
-      "O'zbekiston",
-      "qonun"
+      "biznes",
+      "O'zbekiston"
     ],
     "importance": 3,
     "score": 48,
     "published": "2026-09-10T04:57:00.000Z",
-    "created": "2026-09-10T05:01:28.055Z",
+    "created": "2026-09-10T05:04:23.676Z",
     "coverage": 1,
     "source": {
       "name": "Spot.uz",
       "url": "https://spot.uz/ru/2026/09/10/eda-ai",
-      "title": "Комитет по конкуренции вмешался в ситуацию с приложением Eda AI",
       "indirect": false
     },
     "also": [],
@@ -26,19 +25,68 @@
     "id": "cc1da5919990",
     "slug": "google-ai-modeli-siklonlarni-aniqroq-bashorat-qilmoqda-cc1da5",
     "title": "Google AI modeli siklonlarni aniqroq bashorat qilmoqda",
-    "summary": "Nature jurnalida chop etilgan maqolaga ko'ra, Google kompaniyasining WeatherNext AI modeli siklonlarni bashorat qilishda mavjud tizimlardan ustun keldi. Yangi texnologiya dovul va tayfunlar haqida uch kun oldin aniq ogohlantirish imkonini beradi.",
+    "summary": "Nature jurnalida chop etilgan maqolaga ko‘ra, Google’ning WeatherNext AI modeli siklonlarni bashorat qilishda mavjud tizimlardan ustun. Bu texnologiya uch kunlik ob-havo ma’lumotini avvalgi ikki kunlik bashorat kabi aniqlikda taqdim etadi.",
     "tags": [
       "Google",
       "tadqiqot"
     ],
-    "importance": 3,
+    "importance": 4,
     "score": 29,
     "published": "2026-09-10T05:00:17.000Z",
-    "created": "2026-09-10T05:01:33.130Z",
+    "created": "2026-09-10T05:04:23.676Z",
     "coverage": 1,
     "source": {
       "name": "The Guardian",
       "url": "https://theguardian.com/news/2026/sep/10/weatherwatch-ai-model-beats-standard-methods-at-predicting-cyclones",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "3521fdcedd0b",
+    "slug": "ai-tadqiqotchisi-andrew-tulloch-metani-tark-etmoqda-3521fd",
+    "title": "AI tadqiqotchisi Andrew Tulloch Meta’ni tark etmoqda",
+    "summary": "AI tadqiqotchisi Andrew Tulloch Meta kompaniyasidan ketmoqda. U kompaniya ochiq kodli AI modellari va “Muse” AI yordamchisini muvaffaqiyatli ishga tushirgunga qadar ketishini kechiktirgan edi.",
+    "tags": [
+      "Meta",
+      "mehnat bozori"
+    ],
+    "importance": 3,
+    "score": 25,
+    "published": "2026-09-09T21:29:25.000Z",
+    "created": "2026-09-10T05:04:23.676Z",
+    "coverage": 2,
+    "source": {
+      "name": "Semafor",
+      "url": "https://semafor.com/article/09/09/2026/ai-researcher-andrew-tulloch-is-leaving-meta",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "Semafor",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQV3VqOTQwQ2s2V1NlOW05dldHRVdaMDFjMi14QlJmbHZjTXpZU045cG8yNGQwSTlqUXdKT0VrR2xGWGk3V0dYSTFNTlUzT05ieUNwbFY3Yms2YjZHVTlUZ2p6OW9WYzNzakFzTDBsdWtkWEluRnpxV1kzM2lXMHhxS2dfLXhteVNyMFljS20wWXk"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "f52f7c504d33",
+    "slug": "alibaba-unipat-ai-startapiga-300-mln-dollar-sarmoya-kiritadi-f52f7c",
+    "title": "Alibaba UniPat AI startapiga 300 mln dollar sarmoya kiritadi",
+    "summary": "Manbalarga ko‘ra, Alibaba AI modellarni sinovdan o‘tkazuvchi UniPat AI startapiga 300 million dollar sarmoya kiritishga tayyorlanmoqda. Bu sarmoya bilan UniPat AI kompaniyasi 2.5 milliard dollarga baholanmoqda.",
+    "tags": [
+      "Alibaba",
+      "biznes"
+    ],
+    "importance": 4,
+    "score": 21,
+    "published": "2026-09-10T04:05:01.000Z",
+    "created": "2026-09-10T05:04:23.676Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/260910/p1",
       "indirect": false
     },
     "also": [],
