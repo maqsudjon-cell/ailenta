@@ -1,5 +1,49 @@
 [
   {
+    "id": "1001a93b1317",
+    "slug": "anthropic-boshqaruv-kengashi-ai-xavfsizligi-haqida-1001a9",
+    "title": "Anthropic boshqaruv kengashi AI xavfsizligi haqida",
+    "summary": "Anthropic boshqaruv kengashi a'zosi Vas Narasimhan kompaniya sun'iy intellekt xavfsizligi borasida to'g'ri yondashuvga ega ekanligini ta'kidladi.",
+    "tags": [
+      "Anthropic",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 22,
+    "published": "2026-09-09T16:15:23.000Z",
+    "created": "2026-09-10T00:23:41.958Z",
+    "coverage": 1,
+    "source": {
+      "name": "CNBC",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQdWZDR21KdE9QSElzc1VHdDFDamRMdUdiOUQ1RUJvRUE0QUNLbXlHSmZOa0VXM0xtazgyUzFyZWk3RU1URnlKZWdWNU9XTmVUcmF1emJneE5iaDhzZUpBLVpmaFp0alNyT09FVFVhd19zOFh4MWhMZWpod2NhcHNSR04ySjVxbDJMTXpNcnNVR2FTVG9UVXdhMENyWlV6QkFLbXliSGVZVUdXYUlvaklLOHdXZmc4dVNLM3BZR3ctSThhZXdoNUcwd0F5UHAtUms",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "74125c188853",
+    "slug": "geiger-mashinadagi-ai-agentlarini-korish-vositasi-74125c",
+    "title": "Geiger: Mashinadagi AI agentlarini ko'rish vositasi",
+    "summary": "\"Geiger\" nomli vosita foydalanuvchilarga o'z mashinalaridagi barcha sun'iy intellekt agentlarini va ularning qaysi ma'lumotlarga kira olishini ko'rish imkonini beradi.",
+    "tags": [
+      "xavfsizlik",
+      "agentlar"
+    ],
+    "importance": 2,
+    "score": 19.8,
+    "published": "2026-09-09T14:54:49.000Z",
+    "created": "2026-09-10T00:23:41.958Z",
+    "coverage": 1,
+    "source": {
+      "name": "Hacker News",
+      "url": "https://github.com/Atomburstofficial/geiger",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "57238df31f28",
     "slug": "openai-mingyillik-masalasini-yechdi-mualliflik-mojarosi-57238d",
     "title": "OpenAI \"mingyillik masalasini\" yechdi, mualliflik mojarosi",
