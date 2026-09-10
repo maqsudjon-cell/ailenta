@@ -1,5 +1,32 @@
 [
   {
+    "id": "3ec577877ef1",
+    "slug": "anthropic-biologik-qurol-yaratish-urinishlarini-toxtatdi-3ec577",
+    "title": "Anthropic biologik qurol yaratish urinishlarini to'xtatdi",
+    "summary": "Anthropic startapi o'zining yangi hisobotida biologik qurol yaratishga qaratilgan bo'lishi mumkin bo'lgan tadqiqotlarni to'xtatganini ma'lum qildi. Kompaniya ushbu ishlarning qonuniy yoki zararli ekanini aniqlay olmagani sababli ularni bloklab qo'ygan.",
+    "tags": [
+      "Anthropic",
+      "xavfsizlik"
+    ],
+    "importance": 4,
+    "score": 36,
+    "published": "2026-09-10T17:00:05.000Z",
+    "created": "2026-09-10T18:01:41.279Z",
+    "coverage": 2,
+    "source": {
+      "name": "The New York Times",
+      "url": "https://nytimes.com/2026/09/10/us/politics/anthropic-ai-biological-weapons.html",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOb3RxODh4LWhOS0o0UFBGNUhHODA0Z2dqbTcyTlFmYVRwRzJVVnhKMFl4U2dqQUQwZXV6d0c1c0gwRHZXeF9wOFRTN2xCengtRnRuR0tJLUNDTlI3VjAyekRzRngwMWY4M01hSUVwWURFUFAxdkRjRC1HZUM3cG9YTnZ4UVFNcVlnT200"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
     "id": "74f1f6122ab8",
     "slug": "skild-ai-robotlarni-orgatishda-nvidiadan-foydalanadi-74f1f6",
     "title": "Skild AI robotlarni o'rgatishda Nvidia'dan foydalanadi",
