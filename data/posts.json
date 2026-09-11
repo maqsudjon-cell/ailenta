@@ -1,5 +1,53 @@
 [
   {
+    "id": "94e68cf89267",
+    "slug": "britaniya-deputatlari-superintellektni-taqiqlashni-soradi-94e68c",
+    "title": "Britaniya deputatlari superintellektni taqiqlashni so'radi",
+    "summary": "Buyuk Britaniyaning 70 dan ortiq deputati Endi Bernxemni sun'iy superintellekt yaratilishini taqiqlashni qo'llab-quvvatlashga chaqirdi. Bu taklif ekspertlarning texnologiya insoniyatni yo'q qilishi mumkinligi haqidagi ogohlantirishlaridan so'ng ilgari surildi.",
+    "tags": [
+      "siyosat"
+    ],
+    "importance": 3,
+    "score": 26,
+    "published": "2026-09-11T16:54:35.000Z",
+    "created": "2026-09-11T17:01:19.167Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/technology/2026/sep/11/mps-urge-andy-burnham-block-artificial-superintelligence-asi",
+      "title": "UK lawmakers urge Burnham to block creation of artificial superintelligence after chilling warnings",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "b04c96053a96",
+    "slug": "hacker-news-suniy-intellektsiz-talqinini-taqdim-etdi-b04c96",
+    "title": "Hacker News sun'iy intellektsiz talqinini taqdim etdi",
+    "summary": "Hacker News platformasi sun'iy intellektga oid kontentning ustuvorligini pasaytirdi. Shuningdek, foydalanuvchilar uchun sun'iy intellektga oid xabarlarsiz yangi talqin taqdim etildi.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 1,
+    "score": 25.1,
+    "published": "2026-09-11T15:52:49.000Z",
+    "created": "2026-09-11T17:01:59.176Z",
+    "coverage": 2,
+    "source": {
+      "name": "Hacker News",
+      "url": "https://sprinklz.io/public/pdwt4dve5uai",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "Hacker News",
+        "url": "https://hcker.news/?ai=exclude"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
     "id": "7e03ad2f57b7",
     "slug": "timnit-gebru-ai-xavfi-haqidagi-gaplarni-tanqid-qildi-7e03ad",
     "title": "Timnit Gebru AI xavfi haqidagi gaplarni tanqid qildi",
