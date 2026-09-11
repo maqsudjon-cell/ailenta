@@ -1,5 +1,109 @@
 [
   {
+    "id": "0471fbbfc5f6",
+    "slug": "bolalar-ai-emas-insoniy-muloqotga-muhtoj-0471fb",
+    "title": "Bolalar AI emas, insoniy muloqotga muhtoj",
+    "summary": "Ba'zi ekspertlar bolalar uchun sun'iy intellekt emas, balki insoniy muloqot muhimligini ta'kidlamoqda. Ular AI'ning inson o'qituvchilarini almashtirishga urinishini tanqid qilib, bu yondashuvni noto'g'ri deb hisoblaydi.",
+    "tags": [
+      "ta'lim",
+      "siyosat"
+    ],
+    "importance": 2,
+    "score": 26,
+    "published": "2026-09-11T17:17:51.000Z",
+    "created": "2026-09-11T21:22:25.184Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/technology/2026/sep/11/children-need-interaction-not-ai",
+      "title": "Children need interaction, not AI | Letters",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "f31b46b07559",
+    "slug": "google-mechanize-ai-startapi-bilan-kelishuvni-yakunladi-f31b46",
+    "title": "Google Mechanize AI startapi bilan kelishuvni yakunladi",
+    "summary": "Google sun'iy intellektga ixtisoslashgan Mechanize startapi bilan 1,5 milliard dollardan ortiq qiymatdagi kelishuvni yakunladi. Bu kelishuv orqali Google AI sohasida yangi iste'dodlarni qo'lga kiritdi.",
+    "tags": [
+      "Google",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 24,
+    "published": "2026-09-11T20:20:01.000Z",
+    "created": "2026-09-11T21:22:25.186Z",
+    "coverage": 2,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/260911/p28",
+      "title": "LinkedIn profiles show Google appears to have completed its talent deal, reportedly for $1.5B+, with AI coding startup Mechanize (Business Insider)",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "Business Insider",
+        "url": "https://businessinsider.com/google-completes-deal-for-ai-agents-startup-mechanize-2026-9"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "bf259215047e",
+    "slug": "ai-xodimlari-apokalipsis-xavfi-sabab-dilemma-oldida-bf2592",
+    "title": "AI xodimlari apokalipsis xavfi sabab dilemma oldida",
+    "summary": "Sun'iy intellekt xodimlari apokalipsis xavfidan qo'rqib, ishdan ketish yoki ichkaridan o'zgarish qilish dilemmasi bilan yuzlashmoqda. Bu munozara Anthropic kompaniyasi xodimining ommaviy iste'fosi bilan boshlandi.",
+    "tags": [
+      "Anthropic",
+      "mehnat bozori"
+    ],
+    "importance": 2,
+    "score": 30,
+    "published": "2026-09-11T17:49:37.000Z",
+    "created": "2026-09-11T21:22:58.017Z",
+    "coverage": 3,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/ai-apocalypse-workers-fearing-face-thorny-career-dilemma-2026-9",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "LinkedIn",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPS0hILV8tZ3o3V2F5R1NxUDJWTFRoeXRaRWgxV1FoUlV6YzlLMVZZYmd4MkNabW5UMG04SHFtT3c5U0FDQlhoWlZpZVlhaUVTRVMweGF5NlVBVnViMk9BcGJubzEtSWE3Ull6bUJOTjVITUc2eGlxREN5RC0wZXhGWVJYWS05VEdNS3NRY3UzR19WZlpnVDZ2czF0RzlHSk0"
+      },
+      {
+        "name": "businessinsider.com",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbnFNOGozdUptMGtpR2JlellXWUtGckVwWURpNjBWcHBQZU5yR1duejlpZ2piSkhNQWZUdHQwRzZaSzJId3VjQVFNNkdYTVR5X3N6bm1veXBTLU5seWZrdlVlVHpZM3lRWm9Tb0Y3a3V2NDZ0RzBxdzA4T0ZsTlozZE9aazU3Tjd4cDAtb3kxQ2MxRzNxV0o1SHh2NA"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "aadadfed43e1",
+    "slug": "ai-tadqiqotlarni-kamroq-hamkorlikka-aylantirmoqda-aadadf",
+    "title": "AI tadqiqotlarni kamroq hamkorlikka aylantirmoqda",
+    "summary": "Sun'iy intellekt tadqiqot sohasida hamkorlikni pasaytirmoqda. Bu holat \"Waymo effekti\" deb atalib, AI'ning ilmiy hamkorlikka salbiy ta'sirini ko'rsatadi.",
+    "tags": [
+      "tadqiqot",
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 23,
+    "published": "2026-09-11T11:17:50.000Z",
+    "created": "2026-09-11T21:22:58.017Z",
+    "coverage": 1,
+    "source": {
+      "name": "Hacker News",
+      "url": "https://researchagenda.news/articles/the-waymo-effect.html",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "2607901e4b8a",
     "slug": "bred-gerstner-ai-xavfi-haqidagi-davolarni-tanqid-qildi-260790",
     "title": "Bred Gerstner AI xavfi haqidagi da'volarni tanqid qildi",
