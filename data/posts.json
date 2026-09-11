@@ -1,5 +1,54 @@
 [
   {
+    "id": "2d8931061015",
+    "slug": "ai-pul-tejash-uchun-hayvonlarni-nobud-qilishi-mumkin-2d8931",
+    "title": "AI pul tejash uchun hayvonlarni nobud qilishi mumkin",
+    "summary": "Mashinali o'qitish modellari hayotning qadrini tushunish borasida hali ko'p narsani o'rganishi kerak. Tadqiqotlarga ko'ra, sun'iy intellekt yonilg'i yoki pulni tejash imkoni bo'lsa, hayvonlarni nobud qilish qarorini tanlashga moyil bo'ladi.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 22,
+    "published": "2026-09-11T21:49:59.000Z",
+    "created": "2026-09-11T23:01:37.729Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/ai-and-ml/2026/09/11/ai-more-likely-to-kill-animals-if-it-saves-fuel-or-money/5295993",
+      "title": "AI more likely to kill animals if it saves fuel or money",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "7711507c40da",
+    "slug": "jeff-dean-yangi-startapi-uchun-sarmoya-yigmoqda-771150",
+    "title": "Jeff Dean yangi startapi uchun sarmoya yig'moqda",
+    "summary": "Google kompaniyasining sobiq bosh ilmiy xodimi Jeff Dean o'zining Discovery Loop nomli yangi AI startapi uchun mablag' yig'ishni boshladi. Kompaniya taxminan 50 milliard dollar qiymatda baholanishni ko'zlamoqda. Bir necha hafta oldin startap 10 milliard dollar baho bilan 1 milliard dollar yig'ayotgan edi.",
+    "tags": [
+      "Google",
+      "biznes"
+    ],
+    "importance": 4,
+    "score": 21,
+    "published": "2026-09-11T22:55:01.000Z",
+    "created": "2026-09-11T23:01:50.592Z",
+    "coverage": 2,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/260911/p33",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "Business Insider",
+        "url": "https://businessinsider.com/jeff-deans-startup-discovery-loop-is-eyeing-a-valuation-2026-9"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
     "id": "268dfb112f23",
     "slug": "gollivudda-ai-haqidagi-filmlar-kopaymoqda-268dfb",
     "title": "Gollivudda AI haqidagi filmlar ko'paymoqda",
