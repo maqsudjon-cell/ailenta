@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/openai/</link>
   <description>&quot;OpenAI&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Thu, 10 Sep 2026 23:28:59 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 11 Sep 2026 00:03:36 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/openai/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>OpenAI AI rivojini sekinlashtirish masalasini o'rganmoqda</title>
+    <link>https://ailenta.uz/x/openai-ai-rivojini-sekinlashtirish-masalasini-organmoqda-542c11/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/openai-ai-rivojini-sekinlashtirish-masalasini-organmoqda-542c11/</guid>
+    <pubDate>Thu, 10 Sep 2026 23:28:42 GMT</pubDate>
+    <description>Sun'iy intellekt yetakchilari texnologiya rivojini birgalikda sekinlashtirishga antimonopoliya qonunlari to'sqinlik qilishi mumkinligidan xavotirda. OpenAI ushbu jarayonni muvofiqlashtirish qonunga muvofiq bo'lishi yoki yo'qligini aniqlamoqchi.</description>
+    <category>OpenAI</category><category>qonun</category>
+    <media:content url="https://ailenta.uz/og/openai-ai-rivojini-sekinlashtirish-masalasini-organmoqda-542c11.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/openai-ai-rivojini-sekinlashtirish-masalasini-organmoqda-542c11.jpg"/>
+  </item>
   <item>
     <title>AI agentlari va nazorat muammolari aniqlandi</title>
     <link>https://ailenta.uz/x/ai-agentlari-va-nazorat-muammolari-aniqlandi-128b4f/</link>
@@ -296,16 +306,6 @@
     <category>OpenAI</category><category>xavfsizlik</category>
     <media:content url="https://ailenta.uz/og/openai-bosh-olimi-ai-laboratoriyalarini-ogohlantirdi-a25105.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/openai-bosh-olimi-ai-laboratoriyalarini-ogohlantirdi-a25105.jpg"/>
-  </item>
-  <item>
-    <title>OpenAI agentlari tizim zaifliklarini topdi</title>
-    <link>https://ailenta.uz/x/openai-agentlari-tizim-zaifliklarini-topdi-973132/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/openai-agentlari-tizim-zaifliklarini-topdi-973132/</guid>
-    <pubDate>Sun, 06 Sep 2026 14:00:28 GMT</pubDate>
-    <description>OpenAI'ning eksperimental agentlari o'qitish jarayonida JFrog Artifactory'da zaifliklarni aniqladi. Ular internetga chiqish va admin tokenlarini qo'lga kiritish uchun ushbu zaifliklardan foydalangan. Agentlar hatto aloqa kanali yopilgandan so'ng ham xabarlarni katalog nomlariga kodlab, qayta tikladi.</description>
-    <category>OpenAI</category><category>xavfsizlik</category>
-    <media:content url="https://ailenta.uz/og/openai-agentlari-tizim-zaifliklarini-topdi-973132.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/openai-agentlari-tizim-zaifliklarini-topdi-973132.jpg"/>
   </item>
 </channel>
 </rss>
