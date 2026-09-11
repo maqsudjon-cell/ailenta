@@ -1,5 +1,97 @@
 [
   {
+    "id": "a904fb270c48",
+    "slug": "advokat-chatgpt-yozgan-soxta-hujjat-uchun-jarimaga-tortildi-a904fb",
+    "title": "Advokat ChatGPT yozgan soxta hujjat uchun jarimaga tortildi",
+    "summary": "Nyu-Meksiko oliy sudi advokat Stiven Aaronsni jarimaga tortdi. U ChatGPT yordamida tayyorlangan va ichida soxtalashtirilgan politsiya ko'rsatmalari bo'lgan hujjatni sudga taqdim etgan. Advokat ma'lumotlar to'g'riligini tekshirmagani uchun aybdor deb topildi.",
+    "tags": [
+      "OpenAI",
+      "sud"
+    ],
+    "importance": 3,
+    "score": 32,
+    "published": "2026-09-11T18:04:05.000Z",
+    "created": "2026-09-11T18:36:40.926Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/technology/2026/sep/11/new-mexico-lawyer-ai-chatgpt-testimony",
+      "title": "New Mexico lawyer fined for using AI-generated brief containing fabricated police testimony",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "92ec75135900",
+    "slug": "hugging-face-rahbari-anthropic-xodimini-tanqid-qildi-92ec75",
+    "title": "Hugging Face rahbari Anthropic xodimini tanqid qildi",
+    "summary": "Hugging Face bosh direktori Kleman Delang Anthropic tadqiqotchisining AI xavfi haqidagi ogohlantirishini tanqid qildi. Uning fikricha, undan insoniyatning yo'q bo'lib ketish xavfi haqida so'rash konditsioner ustasidan iqlim o'zgarishi haqida so'rash bilan barobardir.",
+    "tags": [
+      "Hugging Face",
+      "Anthropic"
+    ],
+    "importance": 2,
+    "score": 27,
+    "published": "2026-09-11T18:25:05.000Z",
+    "created": "2026-09-11T18:38:01.705Z",
+    "coverage": 2,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/hugging-face-clement-delangue-jacob-coxon-ac-guy-2026-9",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "Business Insider",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUzFCUmNvWE5fZ21VMHNUOXY1NmVWUmlMMVV4eVI4Z0IxYmZ4RjdpSk1OMXlmWkduZnVUc0YwNFlUMWh6Vnc0SUh5RzBiRTFtUDlPcFBwQkJlc2dqNVh1WUREQVU2Y2pVTnBlWW95YVZZc1JyYzZlckF4R3ZkQmJmc183LU9WdGdOcUlfel80R04"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "f6ab17a7f37e",
+    "slug": "claude-yozgan-kodlar-xavfsizligi-qanday-taminlanadi-f6ab17",
+    "title": "Claude yozgan kodlar xavfsizligi qanday ta'minlanadi",
+    "summary": "Anthropic vakili Boris Cherniyning so'zlariga ko'ra, Claude modeli yozgan kodlar inson yozganidan ko'ra qat'iyroq tekshiriladi. Buning uchun kompaniya ko'plab testlar, avtomatlashtirilgan kod tahlili va xavfsizlik tekshiruvlaridan foydalanadi.",
+    "tags": [
+      "Anthropic"
+    ],
+    "importance": 2,
+    "score": 24,
+    "published": "2026-09-11T17:47:11.000Z",
+    "created": "2026-09-11T18:38:01.705Z",
+    "coverage": 1,
+    "source": {
+      "name": "Simon Willison",
+      "url": "https://simonwillison.net/2026/Sep/11/boris-cherny",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "a059fb42af23",
+    "slug": "buyuk-britaniya-ai-uchun-favqulodda-ochirgichni-rad-etdi-a059fb",
+    "title": "Buyuk Britaniya AI uchun favqulodda o'chirgichni rad etdi",
+    "summary": "Buyuk Britaniya hukumati xavfli sun'iy intellekt tizimlarini favqulodda o'chirish tugmasini joriy etish g'oyasini rad etdi. Vazirlar Mahkamasi mamlakat sun'iy intellektni shunchaki o'chirib qo'ya olmasligini ma'lum qildi.",
+    "tags": [
+      "siyosat"
+    ],
+    "importance": 3,
+    "score": 23,
+    "published": "2026-09-11T15:07:07.000Z",
+    "created": "2026-09-11T18:38:01.705Z",
+    "coverage": 1,
+    "source": {
+      "name": "BBC News",
+      "url": "https://bbc.co.uk/news/articles/c3eq7kl5l00o?at_medium=RSS&at_campaign=rss",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "5f5990c18b5b",
     "slug": "eron-anthropic-modelidan-aqsh-kemalariga-qarshi-foydalandi-5f5990",
     "title": "Eron Anthropic modelidan AQSh kemalariga qarshi foydalandi",
