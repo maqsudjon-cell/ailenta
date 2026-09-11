@@ -1,5 +1,31 @@
 [
   {
+    "id": "a8ab16342f9c",
+    "slug": "malumotlar-markazlari-uchun-ekologik-qoidalar-ozgarmoqda-a8ab16",
+    "title": "Ma'lumotlar markazlari uchun ekologik qoidalar o'zgarmoqda",
+    "summary": "AQSh Atrof-muhitni muhofaza qilish agentligi ma'lumotlar markazlari ifloslanishini jamoatchilik tomonidan ko'rib chiqish qoidalarini bekor qilmoqchi. Shu bilan birga, Massachusets shtati bunday markazlar uchun toza energiya bo'yicha yangi talablarni joriy qildi.",
+    "tags": [
+      "siyosat"
+    ],
+    "importance": 3,
+    "score": 22.6,
+    "published": "2026-09-11T18:05:21.000Z",
+    "created": "2026-09-11T18:41:47.924Z",
+    "coverage": 2,
+    "source": {
+      "name": "Hacker News",
+      "url": "https://capitalbnews.org/data-centers-permit-rules-epa",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
     "id": "a904fb270c48",
     "slug": "advokat-chatgpt-yozgan-soxta-hujjat-uchun-jarimaga-tortildi-a904fb",
     "title": "Advokat ChatGPT yozgan soxta hujjat uchun jarimaga tortildi",
