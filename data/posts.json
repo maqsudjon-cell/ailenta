@@ -1,5 +1,36 @@
 [
   {
+    "id": "5f5990c18b5b",
+    "slug": "eron-anthropic-modelidan-aqsh-kemalariga-qarshi-foydalandi-5f5990",
+    "title": "Eron Anthropic modelidan AQSh kemalariga qarshi foydalandi",
+    "summary": "Anthropic kompaniyasining ma'lum qilishicha, Eron bilan aloqador guruhlar AQSh harbiy kemalarini nishonga olish uchun uning AI modelidan foydalangan. Ular ushbu model yordamida nishonlar bo'yicha qo'llanmalar yaratgan.",
+    "tags": [
+      "Anthropic",
+      "xavfsizlik"
+    ],
+    "importance": 4,
+    "score": 45,
+    "published": "2026-09-11T13:49:00.000Z",
+    "created": "2026-09-11T18:01:51.624Z",
+    "coverage": 3,
+    "source": {
+      "name": "WSJ",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNaElwSjlfRDJiaDhsR3pkdFlhMDk3cGJXb3NUMHZRNDh0V2tKOVNhR0FTMlUzNFdNOWJRbGNlNE5WV3FJT1l5UjFfV1lvYU1uMVB4ZXdLbjZiZldYMnhtRXdMVURGcnlINEM5Rk5ueldZaDFoczJfZV9Tb2RfdzRLUnFybjZUNDlSaE9pWHJ3NnhXX1ZZS0dqN09xUHNvamtSNkFRSTl4VE9pdy1jR3pfeS1oNFNEMTZMNmZOR0h3dHBjSmFQV1pKOVJR",
+      "indirect": true
+    },
+    "also": [
+      {
+        "name": "qz.com",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1pcW9yLTNzbzhuZmtvV0pUTHFFTDR0SGdjNGwtbUk2OExLZm4xMXota0dGaFRvbkdTWnRhZS1KbnI5dTBvMDg4V2xGVUM3cjhrQS03dDdOSFo0eTJsS0NxRDduVlN6dXhEaUEtZlRBTjQ"
+      },
+      {
+        "name": "stripes.com",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdExMQTZpWEJxQS1lR19UbzdVcGw2VFhERTNOaWVSN0d4bDloVEdnNUVEeWxXOGppWGtmNTYzeWtLLUxiRFdKWWJpR0M2djBMNHFPMnlvclBlMmtOb1pPRlFaU0ZEX1JhVHVDcWMySC11QVhsNnAtcG9NV0VvdDF1bkotQm5CMHdhTUwzam5pQm52S0hwYWszV3VhazRkMTAzOUZEX1FUcw"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
     "id": "94e68cf89267",
     "slug": "britaniya-deputatlari-superintellektni-taqiqlashni-soradi-94e68c",
     "title": "Britaniya deputatlari superintellektni taqiqlashni so'radi",
