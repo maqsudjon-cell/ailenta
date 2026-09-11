@@ -1,5 +1,71 @@
 [
   {
+    "id": "268dfb112f23",
+    "slug": "gollivudda-ai-haqidagi-filmlar-kopaymoqda-268dfb",
+    "title": "Gollivudda AI haqidagi filmlar ko'paymoqda",
+    "summary": "Shu kuzda Gollivudda sun'iy intellekt va Silikon vodiysiga bag'ishlangan to'rtta film ekranlarga chiqadi. Ushbu kartinalar kinoteatrlarda tomoshabinlar e'tibori uchun o'zaro raqobatlashadi.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 19,
+    "published": "2026-09-11T17:15:55.000Z",
+    "created": "2026-09-11T22:02:14.192Z",
+    "coverage": 1,
+    "source": {
+      "name": "Semafor",
+      "url": "https://semafor.com/article/09/11/2026/silicon-valley-focused-films-take-over-hollywood",
+      "title": "Silicon Valley-focused films take over Hollywood",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "84645e3f33ed",
+    "slug": "britaniya-kasaba-uyushmasi-ai-boyicha-ogohlantirdi-84645e",
+    "title": "Britaniya kasaba uyushmasi AI bo'yicha ogohlantirdi",
+    "summary": "Buyuk Britaniya kasaba uyushmalari kongressi ish joylarida qaror qabul qilishni algoritmlarga topshirish xavfidan ogohlantirdi. Tashkilot hukumatdan AI joriy etilishidan oldin xodimlarning fikri olinishini talab qilmoqda.",
+    "tags": [
+      "mehnat bozori",
+      "siyosat"
+    ],
+    "importance": 2,
+    "score": 19,
+    "published": "2026-09-11T10:35:22.000Z",
+    "created": "2026-09-11T22:02:14.195Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/public-sector/2026/09/11/union-body-tells-uk-government-workers-must-get-a-say-before-ai-clocks-in/5295806",
+      "title": "Union body tells UK government workers must get a say before AI clocks in",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "81efc701f6af",
+    "slug": "britaniyada-ai-va-texnologiyalar-nazorati-tarqaldi-81efc7",
+    "title": "Britaniyada AI va texnologiyalar nazorati tarqaldi",
+    "summary": "Buyuk Britaniya hukumati ilm-fan, AI va raqamli hukumat sohalarini turli vazirliklar portfellariga taqsimlab yubordi. Natijada texnologiyalar bo'yicha vazifalar tarqoq holatga kelib qolgan.",
+    "tags": [
+      "siyosat"
+    ],
+    "importance": 2,
+    "score": 19,
+    "published": "2026-09-11T13:12:00.000Z",
+    "created": "2026-09-11T22:02:20.346Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/public-sector/2026/09/11/britains-technology-brief-is-now-everyones-job-and-nobodys-responsibility/5295849",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "76fe6826b43c",
     "slug": "ai-tufayli-serverlar-savdosi-oshmoqda-76fe68",
     "title": "AI tufayli serverlar savdosi oshmoqda",
