@@ -1,5 +1,139 @@
 [
   {
+    "id": "94ad36d7ed05",
+    "slug": "google-search-yuguruvchilarni-poygaga-tayyorlaydi-94ad36",
+    "title": "Google Search yuguruvchilarni poygaga tayyorlaydi",
+    "summary": "Google Search yuguruvchilarga poyga kuniga tayyorlanishda yordam beruvchi uchta yangi usulni taqdim etdi. U roʻyxatdan oʻtish ogohlantirishlari va moslashtirilgan mashgʻulot rejalarini oʻz ichiga oladi.",
+    "tags": [
+      "Google",
+      "biznes"
+    ],
+    "importance": 1,
+    "score": 32.6,
+    "published": "2026-09-10T16:00:00.000Z",
+    "created": "2026-09-11T05:01:56.999Z",
+    "coverage": 1,
+    "source": {
+      "name": "Google",
+      "url": "https://blog.google/products-and-platforms/products/search/running-race-training-tips",
+      "title": "3 ways to prep for your next big race with Search",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "10bfdf213741",
+    "slug": "chesky-insonlar-ai-tolqinida-suzishi-kerak-10bfdf",
+    "title": "Chesky: Insonlar AI to'lqinida suzishi kerak",
+    "summary": "Airbnb bosh direktori Brayan Cheskyning aytishicha, insonlar sun'iy intellekt to'lqinida suzishi, uni yutib yuborishiga yo'l qo'ymasligi kerak. Bu fikr Communacopia konferensiyasida bildirildi.",
+    "tags": [
+      "biznes",
+      "iqtisod"
+    ],
+    "importance": 2,
+    "score": 22,
+    "published": "2026-09-10T21:22:39.000Z",
+    "created": "2026-09-11T05:01:57.002Z",
+    "coverage": 1,
+    "source": {
+      "name": "CNBC",
+      "url": "https://cnbc.com/2026/09/10/goldman-sachs-communacopia-technology-conference-ai-tech.html",
+      "title": "Humans need to 'surf the wave' of AI rather than get swallowed by it, Chesky says at Communacopia",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "098dd8b0d3a1",
+    "slug": "openai-navier-stoks-tenglamasini-yechdi-098dd8",
+    "title": "OpenAI Navier-Stoks tenglamasini yechdi",
+    "summary": "OpenAI oʻz neyrotarmoqlari yordamida matematikadagi mashhur Nave-Stoks tenglamalari yechimlarining mavjudligi va silliqligi masalasiga yechim topdi. Bu kompaniya uchun muhim yutuq hisoblanadi.",
+    "tags": [
+      "OpenAI",
+      "tadqiqot"
+    ],
+    "importance": 4,
+    "score": 48,
+    "published": "2026-09-11T02:40:28.000Z",
+    "created": "2026-09-11T05:01:57.478Z",
+    "coverage": 1,
+    "source": {
+      "name": "Kun.uz",
+      "url": "https://kun.uz/news/2026/09/11/openai-ming-yillik-masalasidan-birini-yechganini-malum-qildi",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "bfbc21451335",
+    "slug": "microsoft-ai-bilan-xavfsiz-ishtirok-uchun-asos-yaratdi-bfbc21",
+    "title": "Microsoft AI bilan xavfsiz ishtirok uchun asos yaratdi",
+    "summary": "Microsoft kelajak avlod uchun sun'iy intellekt bilan xavfsiz ishtirok etish bo'yicha yangi asosni taqdim etdi. Bu yondashuv AI texnologiyalaridan mas'uliyatli foydalanishga qaratilgan.",
+    "tags": [
+      "Microsoft",
+      "xavfsizlik"
+    ],
+    "importance": 2,
+    "score": 33,
+    "published": "2026-09-10T17:00:31.000Z",
+    "created": "2026-09-11T05:01:57.478Z",
+    "coverage": 1,
+    "source": {
+      "name": "Microsoft",
+      "url": "https://blogs.microsoft.com/on-the-issues/2026/09/10/safe-participation-framework-opportunity-and-safety-for-the-next-generation-in-the-age-of-ai",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "0d5b414e99a7",
+    "slug": "openai-suhbatlarda-oqitilgani-haqida-yangi-iddao-0d5b41",
+    "title": "OpenAI suhbatlarda o'qitilgani haqida yangi iddao",
+    "summary": "Yana bir tadqiqotchi OpenAI'ni suhbatlarda o'qitilgan modellari asosida yutuqqa erishganlikda aybladi. Bu kompaniyaning ma'lumotlardan foydalanish usullari bo'yicha savollarni tug'dirmoqda.",
+    "tags": [
+      "OpenAI",
+      "maxfiylik"
+    ],
+    "importance": 3,
+    "score": 21.4,
+    "published": "2026-09-10T13:07:14.000Z",
+    "created": "2026-09-11T05:01:57.478Z",
+    "coverage": 1,
+    "source": {
+      "name": "Hacker News",
+      "url": "https://bsky.app/profile/did:plc:ckaz32jwl6t2cno6fmuw2nhn/post/3mv4mt4ikss2d",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "9da9989ecc0c",
+    "slug": "thelio-mira-ai-linux-ish-stansiyasi-taqdim-etildi-9da998",
+    "title": "Thelio Mira AI Linux ish stansiyasi taqdim etildi",
+    "summary": "Thelio Mira AI Linux ish stansiyasi 192 GB GPU xotirasi bilan taqdim etildi. Bu yangi ish stansiyasi sun'iy intellekt vazifalari uchun yuqori unumdorlikni taklif etadi.",
+    "tags": [
+      "chiplar",
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 20.7,
+    "published": "2026-09-10T23:10:06.000Z",
+    "created": "2026-09-11T05:01:57.478Z",
+    "coverage": 1,
+    "source": {
+      "name": "Hacker News",
+      "url": "https://system76.com/workstations/thelio-mira-ai",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "ded7bfa816ed",
     "slug": "enflame-aksiyalari-debyut-kunida-188-foizga-osdi-ded7bf",
     "title": "Enflame aksiyalari debyut kunida 188 foizga o'sdi",
