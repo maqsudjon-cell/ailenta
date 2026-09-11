@@ -1,5 +1,81 @@
 [
   {
+    "id": "95fb5fbeacd7",
+    "slug": "the-guardian-ai-nazoratini-hukumatlarga-yuklashni-taklif-qil-95fb5f",
+    "title": "The Guardian AI nazoratini hukumatlarga yuklashni taklif qildi",
+    "summary": "The Guardian nashri tahririyat maqolasida sun'iy intellektni nazorat qilish insoniyatning omon qolishi uchun muhimligini ta'kidladi. Nashr hukumatlar AI rivojlanishini kompaniyalarga qoldirmasligi kerakligini bildirdi.",
+    "tags": [
+      "Siyosat",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 32,
+    "published": "2026-09-11T16:34:07.000Z",
+    "created": "2026-09-11T21:37:05.160Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/commentisfree/2026/sep/11/the-guardian-view-on-controlling-ai-humanity-cannot-outsource-its-survival",
+      "title": "The Guardian view on controlling AI: humanity cannot outsource its survival | Editorial",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "d7e9830de4dc",
+    "slug": "trump-ai-xavfi-haqidagi-xavotirlarni-rad-etdi-d7e983",
+    "title": "Trump AI xavfi haqidagi xavotirlarni rad etdi",
+    "summary": "AQShning sobiq prezidenti Donald Tramp sun'iy intellekt insoniyatni yo'q qilishi mumkinligidan xavotirda emasligini bildirdi. Bu holat OpenAI va Anthropic kompaniyalarining bir qator xodimlari AI rivojlanishini sekinlashtirishga chaqirayotgan bir paytda yuz berdi.",
+    "tags": [
+      "Siyosat",
+      "OpenAI"
+    ],
+    "importance": 4,
+    "score": 37,
+    "published": "2026-09-11T14:31:16.000Z",
+    "created": "2026-09-11T21:37:37.401Z",
+    "coverage": 3,
+    "source": {
+      "name": "CNBC",
+      "url": "https://cnbc.com/2026/09/11/trump-ai-extinction-risks.html",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "CNBC",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBFQmxROTdQNUMtdlp6WWt5NEJ4clJ3cXhXcmhCbWNSeHo3RWpkUzlsNVBqYldaVlFtYmtGdGl6ZklWczgyem0zbzcxWEM3R0Q5S2RwZElPNDdFYmtfbG9TeWFvc0tyVWt3U1FHd18wb9IBdEFVX3lxTE1ITHNmX3NhN1dBQ29pS3gzZ0JnX1dmQzNNUHdERWZuY3AwZXJmUXNDWVFaVFIxbF9GYkk3QWJKTkdabGdYX1F5Vkh6YU1OYVRaMUQ3aGMyVFVuM1VEOG1yTDFPS045d1NXd1o2VDcxMjhrUGF6"
+      },
+      {
+        "name": "CNBC Africa",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPblRadWxfS3NLNzJaNkI5MHRhWjYwNFNER0Z4Um1wMVRNZ1paRnZCeFhLQWtNaDg1aml2c2tWeHBISEE4bkw4ZWhOUmFKZnR0NHZCMURvenozajhwaHBzVjI1Q2ZJQmtqay1mZXNKYkRwN0NEeTZaeENYV2xWNU9wS3RSd1dhcGpBV05RWHJaeG5ZOTRkdC1YU0hGS0l4V1NrWE9rVFp6bnBFMDQ1RHRKQk1OMXB5dG5HaUFLcFJ0N2YzSzUwNms4cXVULXdmVWc"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "72208e9cd5e4",
+    "slug": "amazon-prime-videoga-ai-xarid-funksiyasini-qoshdi-72208e",
+    "title": "Amazon Prime Video'ga AI xarid funksiyasini qo'shdi",
+    "summary": "Amazon Prime Video'ga yangi funksiya qo'shdi, bu orqali tomoshabinlar AI yordamida ekrandagi qahramonlar kiygan yoki ishlatgan mahsulotlarni xarid qilishlari mumkin. Bu \"binge watching\" va \"binge shopping\"ni birlashtiradi.",
+    "tags": [
+      "Amazon",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-09-11T21:15:57.000Z",
+    "created": "2026-09-11T21:37:37.401Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/09/11/binge-watching-shopping-amazon-shop-the-scene-feature-jeff-bezos-streaming-tech",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "0471fbbfc5f6",
     "slug": "bolalar-ai-emas-insoniy-muloqotga-muhtoj-0471fb",
     "title": "Bolalar AI emas, insoniy muloqotga muhtoj",
