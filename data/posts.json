@@ -1,5 +1,91 @@
 [
   {
+    "id": "f2ee3a7d5200",
+    "slug": "ai-tufayli-buyuk-britaniya-iqtisodiyoti-kutilmaganda-osdi-f2ee3a",
+    "title": "AI tufayli Buyuk Britaniya iqtisodiyoti kutilmaganda o'sdi",
+    "summary": "Buyuk Britaniya iqtisodiyoti iyul oyida kutilmaganda 0.4% o'sishni ko'rsatdi. Bu o'sish xizmat ko'rsatish sohasida sun'iy intellektning tez rivojlanishi bilan bog'liq.",
+    "tags": [
+      "iqtisod"
+    ],
+    "importance": 2,
+    "score": 23,
+    "published": "2026-09-11T06:02:13.000Z",
+    "created": "2026-09-11T08:04:01.870Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/business/2026/sep/11/uk-economy-defies-forecasts-with-surprise-04-growth-in-july",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "a412c7357f35",
+    "slug": "ai-turizmda-yashirin-joylarni-topishga-yordam-beradi-a412c7",
+    "title": "AI turizmda yashirin joylarni topishga yordam beradi",
+    "summary": "Klook hammuassisi Ethan Linning so'zlariga ko'ra, AI sayyohlarga kam ma'lum bo'lgan joylarni topish orqali haddan tashqari turizm muammosini hal qiladi. Osiyolik sayohatchilarning 57% yangi yo'nalishlarni topish uchun AI'dan foydalangan.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 19,
+    "published": "2026-09-11T07:00:00.000Z",
+    "created": "2026-09-11T08:04:01.870Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/09/11/ai-overtourism-asia-travel-experiences",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "97f402e75789",
+    "slug": "anthropic-ai-agentlari-captchani-yoqtirmasligini-aniqladi-97f402",
+    "title": "Anthropic AI agentlari CAPTCHA'ni yoqtirmasligini aniqladi",
+    "summary": "Anthropic kompaniyasi o'zining AI agentlari CAPTCHA'larni yomon ko'rishini ma'lum qildi. Bu botlarning internetda o'zlarini inson sifatida ko'rsatishga urinishlari bilan bog'liq.",
+    "tags": [
+      "Anthropic",
+      "tadqiqot"
+    ],
+    "importance": 1,
+    "score": 17.2,
+    "published": "2026-09-10T17:54:44.000Z",
+    "created": "2026-09-11T08:04:01.870Z",
+    "coverage": 1,
+    "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "c1817be6d99e",
+    "slug": "anthropic-matematiklari-eyler-va-navye-stoks-tenglamalari-us-c1817b",
+    "title": "Anthropic matematiklari Eyler va Navye-Stoks tenglamalari ustida ishladi",
+    "summary": "NYU professori Tristan Buckmaster va Anthropic'dan Levent Alpöge Eyler va Navye-Stoks tenglamalari ustida ish olib bordi. Bu ish Anthropic kompaniyasi bilan bog'liq emas, ular bo'sh vaqtlarida shug'ullangan.",
+    "tags": [
+      "Anthropic",
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 16.7,
+    "published": "2026-09-10T19:21:36.000Z",
+    "created": "2026-09-11T08:04:01.870Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1081030",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "28f6558f79f4",
     "slug": "ai-tarqalishi-kognitiv-virusga-oxshatildi-28f655",
     "title": "AI tarqalishi kognitiv virusga o'xshatildi",
