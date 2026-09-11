@@ -1,5 +1,55 @@
 [
   {
+    "id": "d5076a8bd686",
+    "slug": "farg-ona-delegatsiyasi-lg-ko-rgazmasida-bo-ldi-d5076a",
+    "title": "Farg‘ona delegatsiyasi LG ko‘rgazmasida bo‘ldi",
+    "summary": "Farg‘ona viloyati delegatsiyasi Seul shahridagi LG Innovation Gallery ko‘rgazmasiga tashrif buyurdi. U yerda delegatsiya a’zolari sun’iy intellekt, robototexnika va Smart Home texnologiyalari bilan yaqindan tanishdi.",
+    "tags": [
+      "robototexnika",
+      "O'zbekiston"
+    ],
+    "importance": 2,
+    "score": 44,
+    "published": "2026-09-11T12:15:00.000Z",
+    "created": "2026-09-11T12:36:41.259Z",
+    "coverage": 1,
+    "source": {
+      "name": "UzDaily",
+      "url": "https://uzdaily.uz/uz/fargona-delegatsiyasi-lg-innovation-galleryga-tashrif-buyurdi",
+      "title": "Farg‘ona delegatsiyasi LG Innovation Gallery‘ga tashrif buyurdi",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "8d3cbbeb2b18",
+    "slug": "anthropic-baaga-aloqador-ai-suiistemolini-aniqladi-8d3cbb",
+    "title": "Anthropic BAAga aloqador AI suiiste’molini aniqladi",
+    "summary": "Anthropic kompaniyasi \"Musulmon birodarlar\" guruhiga qarshi qaratilgan va BAAga aloqador bo‘lgan sun’iy intellektdan suiiste’mol qilish holatini aniqladi. Ushbu operatsiyada 300 ga yaqin soxta ijtimoiy tarmoq hisoblaridan foydalanilgan.",
+    "tags": [
+      "Anthropic",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 28,
+    "published": "2026-09-11T12:08:27.000Z",
+    "created": "2026-09-11T12:36:48.834Z",
+    "coverage": 2,
+    "source": {
+      "name": "Semafor",
+      "url": "https://semafor.com/article/09/11/2026/anthropic-flags-uae-linked-misuse-of-ai-targeting-the-muslim-brotherhood",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdjBiTWhiYUtiOXhiY1BKSTFIRFhZSktVYmxHb2lfRUFuWUpQMkxOOXM2VVF5UmdLVnZabEJWaDNTemZMNHF3T0NZR2NoWWFvYUtwT3pLQ3FJR05Yb3JuZWxKdUl0NjhFdUJ4UVNsbkRZZVN4Y0VNQzdnRXNuQWUyQnZZUjdSZDBnSW1YRzdUMko1cDhJcDlzZA"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
     "id": "961a836f0566",
     "slug": "ai-talimda-oqitish-yetarli-emas-961a83",
     "title": "AI ta'limda: O'qitish yetarli emas",
