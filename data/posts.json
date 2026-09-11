@@ -1,5 +1,55 @@
 [
   {
+    "id": "76fe6826b43c",
+    "slug": "ai-tufayli-serverlar-savdosi-oshmoqda-76fe68",
+    "title": "AI tufayli serverlar savdosi oshmoqda",
+    "summary": "Sun'iy intellektga bo'lgan talab ortishi ortidan serverlar savdosi ko'paymoqda. Narxlar oshganiga qaramay, yirik kompaniyalar va hukumat xaridorlari tufayli serverlarni yetkazib berish hajmi o'sishda davom etmoqda.",
+    "tags": [
+      "biznes",
+      "iqtisod"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-09-11T14:27:00.000Z",
+    "created": "2026-09-11T21:49:35.535Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/systems/2026/09/11/higher-prices-cant-crimp-server-sales-as-ai-drives-demand/5295827",
+      "title": "Higher prices can't crimp server sales as AI drives demand",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "3e343d7d31d7",
+    "slug": "fidji-simo-nscale-direktorlar-kengashiga-qoshildi-3e343d",
+    "title": "Fidji Simo Nscale direktorlar kengashiga qo'shildi",
+    "summary": "OpenAI sobiq rahbari Fidji Simo Nscale kompaniyasi direktorlar kengashi a'zosiga aylandi. U 2023-yilda Instacart kompaniyasini IPO bosqichidan o'tkazgan edi. Ushbu tayinlov Nscale'ning kutilayotgan IPO jarayoni oldidan yuz berdi.",
+    "tags": [
+      "OpenAI",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 24,
+    "published": "2026-09-11T16:46:25.000Z",
+    "created": "2026-09-11T21:49:36.885Z",
+    "coverage": 2,
+    "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
     "id": "95fb5fbeacd7",
     "slug": "the-guardian-ai-nazoratini-hukumatlarga-yuklashni-taklif-qil-95fb5f",
     "title": "The Guardian AI nazoratini hukumatlarga yuklashni taklif qildi",
