@@ -1,5 +1,77 @@
 [
   {
+    "id": "961a836f0566",
+    "slug": "ai-talimda-oqitish-yetarli-emas-961a83",
+    "title": "AI ta'limda: O'qitish yetarli emas",
+    "summary": "Sun'iy intellekt ta'lim texnologiyalari sohasiga kirib bormoqda, ammo maktablar xodimlarni o'qitishni e'tiborsiz qoldirmoqda. Vashington bu borada samaradorlik isbotini talab qilmoqda.",
+    "tags": [
+      "ta'lim",
+      "siyosat"
+    ],
+    "importance": 2,
+    "score": 22,
+    "published": "2026-09-11T11:30:00.000Z",
+    "created": "2026-09-11T11:51:59.796Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/09/11/ai-edtech-schools-repeating-tech-mistake",
+      "title": "AI is now part of the edtech stack — and schools are repeating the mistake they made in every wave before",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "d4adc7539c6b",
+    "slug": "koplab-ai-tadqiqotchilari-mashinalar-xavfidan-xavotirda-d4adc7",
+    "title": "Ko'plab AI tadqiqotchilari mashinalar xavfidan xavotirda",
+    "summary": "Tez rivojlanish, o'z-o'zini takomillashtirish va agentlar to'plami tufayli ko'plab AI tadqiqotchilari mashinalar insoniyatga xavf tug'dirishi mumkinligidan xavotirda. Bu holat yirik laboratoriyalarda jiddiy tashvish uyg'otmoqda.",
+    "tags": [
+      "tadqiqot",
+      "xavfsizlik"
+    ],
+    "importance": 4,
+    "score": 32,
+    "published": "2026-09-11T09:00:00.000Z",
+    "created": "2026-09-11T11:52:21.108Z",
+    "coverage": 2,
+    "source": {
+      "name": "Wired",
+      "url": "https://wired.com/story/why-so-many-ai-researchers-think-the-machines-could-kill-everyone",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "Fortune",
+        "url": "https://fortune.com/2026/09/11/could-ai-kill-us-all-congress-regulation"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "82fea849fb17",
+    "slug": "openai-caltech-matematika-xakatoniga-homiylikni-toxtatdi-82fea8",
+    "title": "OpenAI Caltech matematika xakatoniga homiylikni to'xtatdi",
+    "summary": "OpenAI \"slop mathematics\" tanqididan so'ng Caltech'ning matematika xakatoniga homiylik qilishni to'xtatdi. Ushbu tadbirda ishtirokchilar tadqiqot muammolarini AI yordamida hal qilishgan.",
+    "tags": [
+      "OpenAI",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 18,
+    "published": "2026-09-11T11:30:00.000Z",
+    "created": "2026-09-11T11:52:21.108Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/260911/p13",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "5266ae7d10ee",
     "slug": "aqsh-senatida-ai-xavfsizligi-boyicha-kelishmovchiliklar-5266ae",
     "title": "AQSh Senatida AI xavfsizligi bo'yicha kelishmovchiliklar",

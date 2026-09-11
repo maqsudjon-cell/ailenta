@@ -7,6 +7,18 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://ailenta.uz/x/ai-talimda-oqitish-yetarli-emas-961a83/</loc>
+    <lastmod>2026-09-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ailenta.uz/x/openai-caltech-matematika-xakatoniga-homiylikni-toxtatdi-82fea8/</loc>
+    <lastmod>2026-09-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://ailenta.uz/x/ai-kompaniyalari-osiyoda-rahbar-xodimlar-uchun-kurashmoqda-087ec3/</loc>
     <lastmod>2026-09-11</lastmod>
     <changefreq>monthly</changefreq>
@@ -14,6 +26,12 @@
   </url>
   <url>
     <loc>https://ailenta.uz/x/kanadada-matematik-ai-xavfsizligi-instituti-ochildi-fcbc13/</loc>
+    <lastmod>2026-09-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ailenta.uz/x/koplab-ai-tadqiqotchilari-mashinalar-xavfidan-xavotirda-d4adc7/</loc>
     <lastmod>2026-09-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -5227,13 +5245,19 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ailenta.uz/mavzu/openai/</loc>
+    <loc>https://ailenta.uz/mavzu/talim/</loc>
     <lastmod>2026-09-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://ailenta.uz/mavzu/anthropic/</loc>
+    <loc>https://ailenta.uz/mavzu/siyosat/</loc>
+    <lastmod>2026-09-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://ailenta.uz/mavzu/openai/</loc>
     <lastmod>2026-09-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
@@ -5245,13 +5269,13 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://ailenta.uz/mavzu/xavfsizlik/</loc>
+    <loc>https://ailenta.uz/mavzu/anthropic/</loc>
     <lastmod>2026-09-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://ailenta.uz/mavzu/siyosat/</loc>
+    <loc>https://ailenta.uz/mavzu/xavfsizlik/</loc>
     <lastmod>2026-09-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
@@ -5348,12 +5372,6 @@
   </url>
   <url>
     <loc>https://ailenta.uz/mavzu/ozbekiston/</loc>
-    <lastmod>2026-09-10</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://ailenta.uz/mavzu/talim/</loc>
     <lastmod>2026-09-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>

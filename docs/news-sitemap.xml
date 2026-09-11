@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://ailenta.uz/x/ai-talimda-oqitish-yetarli-emas-961a83/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>AI Lenta</news:name>
+        <news:language>uz</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-11T11:30:00.000Z</news:publication_date>
+      <news:title>AI ta'limda: O'qitish yetarli emas</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://ailenta.uz/x/openai-caltech-matematika-xakatoniga-homiylikni-toxtatdi-82fea8/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>AI Lenta</news:name>
+        <news:language>uz</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-11T11:30:00.000Z</news:publication_date>
+      <news:title>OpenAI Caltech matematika xakatoniga homiylikni to'xtatdi</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://ailenta.uz/x/ai-kompaniyalari-osiyoda-rahbar-xodimlar-uchun-kurashmoqda-087ec3/</loc>
     <news:news>
       <news:publication>
@@ -21,6 +43,17 @@
       </news:publication>
       <news:publication_date>2026-09-11T09:15:10.000Z</news:publication_date>
       <news:title>Kanadada Matematik AI xavfsizligi instituti ochildi</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://ailenta.uz/x/koplab-ai-tadqiqotchilari-mashinalar-xavfidan-xavotirda-d4adc7/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>AI Lenta</news:name>
+        <news:language>uz</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-11T09:00:00.000Z</news:publication_date>
+      <news:title>Ko'plab AI tadqiqotchilari mashinalar xavfidan xavotirda</news:title>
     </news:news>
   </url>
   <url>
@@ -1165,28 +1198,6 @@
       </news:publication>
       <news:publication_date>2026-09-09T12:06:47.000Z</news:publication_date>
       <news:title>Luum kompaniyasi kiprik uzaytirish uchun robotlar yaratdi</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://ailenta.uz/x/ai-yozuvidan-foydalanishda-ikki-xil-standart-mavjud-557b42/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>AI Lenta</news:name>
-        <news:language>uz</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-09T11:30:00.000Z</news:publication_date>
-      <news:title>AI yozuvidan foydalanishda ikki xil standart mavjud</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://ailenta.uz/x/alibaba-rahbari-ai-agentlarining-imkoniyatlarini-baholadi-7e94b8/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>AI Lenta</news:name>
-        <news:language>uz</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-09T11:30:00.000Z</news:publication_date>
-      <news:title>Alibaba rahbari AI agentlarining imkoniyatlarini baholadi</news:title>
     </news:news>
   </url>
 </urlset>
