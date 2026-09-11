@@ -1,5 +1,47 @@
 [
   {
+    "id": "7e03ad2f57b7",
+    "slug": "timnit-gebru-ai-xavfi-haqidagi-gaplarni-tanqid-qildi-7e03ad",
+    "title": "Timnit Gebru AI xavfi haqidagi gaplarni tanqid qildi",
+    "summary": "Sun'iy intellekt tanqidchisi Timnit Gebruning ta'kidlashicha, AI kompaniyalari insoniyatning yo'q bo'lib ketishi haqidagi xavflarni bo'rttirmoqda. Uning fikricha, bu haqiqiy zararlar, masalan, avtonom qurollar haqidagi muhokamalardan chalg'itish uchun qilinmoqda.",
+    "tags": [
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 23,
+    "published": "2026-09-11T15:00:00.000Z",
+    "created": "2026-09-11T16:48:36.965Z",
+    "coverage": 1,
+    "source": {
+      "name": "Wired",
+      "url": "https://wired.com/story/one-of-ais-fiercest-critics-says-all-the-doom-talk-is-meant-to-distract-us",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "d6e1210c3456",
+    "slug": "michigan-aholisi-yadroviy-ai-markaziga-qarshi-chiqdi-d6e121",
+    "title": "Michigan aholisi yadroviy AI markaziga qarshi chiqdi",
+    "summary": "Michigan universiteti va Los-Alamos milliy laboratoriyasi kichik shaharchada yirik ma'lumotlar markazi qurishni rejalashtirmoqda. Mahalliy aholi bu loyiha bo'yicha ulardan maslahat so'ralmaganidan norozi bo'lib, norozilik bildirmoqda.",
+    "tags": [
+      "bulut"
+    ],
+    "importance": 2,
+    "score": 22,
+    "published": "2026-09-11T13:40:59.000Z",
+    "created": "2026-09-11T16:48:36.965Z",
+    "coverage": 1,
+    "source": {
+      "name": "404 Media",
+      "url": "https://404media.co/we-did-not-invite-you-citizens-rage-at-town-hall-over-proposed-nuclear-ai-data-center",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "e3cafb36acca",
     "slug": "meta-ai-taklif-qiladigan-sorovlarni-ozgartiradi-e3cafb",
     "title": "Meta AI taklif qiladigan so'rovlarni o'zgartiradi",
