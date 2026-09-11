@@ -1,5 +1,70 @@
 [
   {
+    "id": "70f569c99e76",
+    "slug": "apple-imo-ishora-tiliga-matn-tarjimasi-modelini-taqdim-etdi-70f569",
+    "title": "Apple imo-ishora tiliga matn tarjimasi modelini taqdim etdi",
+    "summary": "Apple nutqni tushunishga asoslangan DiscoSign nomli yangi hisoblash yondashuvini joriy qildi. Bu model matnni imo-ishora tiliga tarjima qilish uchun mo'ljallangan bo'lib, tilshunoslik tadqiqotlariga asoslangan.",
+    "tags": [
+      "Apple",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 35.2,
+    "published": "2026-09-11T00:00:00.000Z",
+    "created": "2026-09-11T14:02:52.849Z",
+    "coverage": 1,
+    "source": {
+      "name": "Apple",
+      "url": "https://machinelearning.apple.com/research/discosign-gloss-translation",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "0ffd8ae9be8c",
+    "slug": "xitoyda-wechatga-ai-hujumi-yangi-davrni-korsatdi-0ffd8a",
+    "title": "Xitoyda WeChat'ga AI hujumi yangi davrni ko'rsatdi",
+    "summary": "Xitoyda WeChat messenjeriga sun'iy intellekt yordamida simulyatsiya qilingan hujum amalga oshirildi. The New York Times'ga ko'ra, bu holat xavfli yangi davr boshlanganidan dalolat beradi.",
+    "tags": [
+      "xavfsizlik",
+      "siyosat"
+    ],
+    "importance": 3,
+    "score": 27,
+    "published": "2026-09-11T09:43:29.000Z",
+    "created": "2026-09-11T14:02:52.849Z",
+    "coverage": 1,
+    "source": {
+      "name": "The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBLT1V6dG0xRGNxMDBjbF9KN3VvUlcwU2Uxa21PYVY5Wm1ET3dqODJOcmlEQUlCbjloZENlY1pSUnJmdU5BWGZ4cWdUeEUzSXZGU0trbEdwWGM0eHh5NkQ3RE04UDN2am1tVzFPaDdRLTJlLW81dWUwLUt1Z0Jidw",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "d0404c2f099e",
+    "slug": "komik-garrett-millerick-ai-avatarini-yaratdi-d0404c",
+    "title": "Komik Garrett Millerick AI avatarini yaratdi",
+    "summary": "Komik Garrett Millerick o'z materiallari asosida sun'iy intellekt avatarini yaratdi. BBC News bu avatarning qanchalik yaxshi ekanligini muhokama qilmoqda.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 1,
+    "score": 23,
+    "published": "2026-09-11T12:49:30.000Z",
+    "created": "2026-09-11T14:02:52.849Z",
+    "coverage": 1,
+    "source": {
+      "name": "BBC News",
+      "url": "https://bbc.co.uk/news/videos/c5yjk63ww1ro?at_medium=RSS&at_campaign=rss",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "d5076a8bd686",
     "slug": "farg-ona-delegatsiyasi-lg-ko-rgazmasida-bo-ldi-d5076a",
     "title": "Farg‘ona delegatsiyasi LG ko‘rgazmasida bo‘ldi",
