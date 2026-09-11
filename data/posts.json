@@ -1,5 +1,70 @@
 [
   {
+    "id": "28f6558f79f4",
+    "slug": "ai-tarqalishi-kognitiv-virusga-oxshatildi-28f655",
+    "title": "AI tarqalishi kognitiv virusga o'xshatildi",
+    "summary": "Santa Fe va Harvard Wyss institutlari tadqiqotchilari katta til modellarining jamiyatda tarqalishini epidemiologik model orqali o'rgandi. Olimlar bu jarayonni odamlarning AI bilan munosabatidan kelib chiqib \"kognitiv virus\" deb atadi.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 54,
+    "published": "2026-09-11T06:20:00.000Z",
+    "created": "2026-09-11T06:36:01.183Z",
+    "coverage": 1,
+    "source": {
+      "name": "Pivot",
+      "url": "https://pivot.uz/uz/ai-sizning-orningizga-fikrlay-boshlasa-nima-boladi",
+      "title": "AI sizning o‘rningizga fikrlay boshlasa nima bo‘ladi?",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "09612ea14b41",
+    "slug": "tramp-ai-tufayli-insoniyat-yoq-bolishi-xavfini-rad-etdi-09612e",
+    "title": "Tramp AI tufayli insoniyat yo'q bo'lishi xavfini rad etdi",
+    "summary": "AQSh Prezidenti Donald Tramp sun'iy intellekt tufayli insoniyat yo'q bo'lib ketishi haqidagi ogohlantirishlarni rad etdi. Uning fikricha, AQSh bu sohada Xitoydan bir yil oldinda va g'alaba qozonishi shart.",
+    "tags": [
+      "siyosat"
+    ],
+    "importance": 4,
+    "score": 18,
+    "published": "2026-09-11T04:55:00.000Z",
+    "created": "2026-09-11T06:36:06.096Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/260911/p2",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "06f41091517d",
+    "slug": "deepmindda-ai-xavflarini-ochiq-muhokama-qilish-taqiqlangan-06f410",
+    "title": "DeepMind'da AI xavflarini ochiq muhokama qilish taqiqlangan",
+    "summary": "Google DeepMind sobiq vakili Vishal Mainining ma'lum qilishicha, laboratoriyada sun'iy intellekt tufayli insoniyat yo'q bo'lishi xavfini ommaviy muhokama qilish taqiqlangan edi. Biroq ichki jamoa muammolar hal etilmaganini bilgan.",
+    "tags": [
+      "Google",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 17.2,
+    "published": "2026-09-10T16:31:02.000Z",
+    "created": "2026-09-11T06:36:06.096Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/former-deepmind-pr-staffer-says-the-lab-once-banned-public-discussion-of-ai-extinction-risk",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "94ad36d7ed05",
     "slug": "google-search-yuguruvchilarni-poygaga-tayyorlaydi-94ad36",
     "title": "Google Search yuguruvchilarni poygaga tayyorlaydi",
