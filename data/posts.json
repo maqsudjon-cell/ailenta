@@ -1,5 +1,27 @@
 [
   {
+    "id": "0b07644ad3db",
+    "slug": "apple-oqsillar-dizayni-uchun-simpledesign-modelini-yaratdi-0b0764",
+    "title": "Apple oqsillar dizayni uchun SimpleDesign modelini yaratdi",
+    "summary": "Apple oqsillar ketma-ketligi va uch o'lchamli tuzilishini birgalikda loyihalash uchun SimpleDesign modelini taqdim etdi. Ushbu model dori vositalarini kashf qilish va oqsil muhandisligi sohalarida qo'llanilishi mumkin.",
+    "tags": [
+      "Apple",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 35,
+    "published": "2026-09-11T00:00:00.000Z",
+    "created": "2026-09-11T14:32:34.553Z",
+    "coverage": 1,
+    "source": {
+      "name": "Apple",
+      "url": "https://machinelearning.apple.com/research/simpledesign-protein-codesign",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "70f569c99e76",
     "slug": "apple-imo-ishora-tiliga-matn-tarjimasi-modelini-taqdim-etdi-70f569",
     "title": "Apple imo-ishora tiliga matn tarjimasi modelini taqdim etdi",
