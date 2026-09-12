@@ -1,5 +1,77 @@
 [
   {
+    "id": "ed44b0bf9543",
+    "slug": "positron-ai-xulosa-chiqarish-uchun-875-mln-dollar-yigdi-ed44b0",
+    "title": "Positron AI xulosa chiqarish uchun 875 mln dollar yig'di",
+    "summary": "Positron AI kompaniyasi xulosa chiqarishda oddiy xotira HBM xotirasidan ustunligini isbotlash uchun 875 million dollar jalb qildi. Bu sarmoya Nvidia kompaniyasining bozordagi ustunligini sindirishga qaratilgan.",
+    "tags": [
+      "chiplar",
+      "biznes"
+    ],
+    "importance": 4,
+    "score": 16,
+    "published": "2026-09-12T12:32:50.000Z",
+    "created": "2026-09-12T16:01:19.358Z",
+    "coverage": 2,
+    "source": {
+      "name": "Tech Times",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNd2NoM2tHLXFRYWExMm0tN19rWGRseV9DSzhmdGZodmRoMTJBOEpkY1YtY3FKZmllaFhwWmJ3NlR1em45TDFNZ0tsRjZQUTNRbHN4RkR5ZEw5RUUwWUZZMjJ2d3R4OVdqTHlEUlNCY2pyUTh3cXlzeUNyTlZjXzBXXzFTTV9sZVkzeHd2SWZvT2dMeTVtQ3NNUlIxekVqRlpfRUl1Rk5HUXJPTzlYNjdZenA0TnJJa2dMbnhvckNVSHUyZw",
+      "title": "Positron AI Raises $875M to Prove Commodity Memory Can Beat HBM in Inference",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "ad39676bb2ae",
+    "slug": "anthropic-uchinchi-tomon-ekspertlariga-doimiy-ruxsat-beradi-ad3967",
+    "title": "Anthropic uchinchi tomon ekspertlariga doimiy ruxsat beradi",
+    "summary": "Anthropic bosh direktori Dario Amodei sun'iy intellekt poygasini sekinlashtirish o'qitishni to'xtatishni anglatmasligini aytdi. Kompaniya uchinchi tomon ekspertlariga xavfsizlik choralarini tekshirish uchun doimiy ruxsat berish majburiyatini olmoqda.",
+    "tags": [
+      "Anthropic",
+      "xavfsizlik"
+    ],
+    "importance": 4,
+    "score": 27,
+    "published": "2026-09-12T15:05:05.000Z",
+    "created": "2026-09-12T16:01:40.703Z",
+    "coverage": 2,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/260912/p9",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "Techmeme",
+        "url": "https://techmeme.com/260912/p7"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "07ad137c5160",
+    "slug": "tramp-aqsh-ustunligini-saqlash-uchun-aini-cheklamaydi-07ad13",
+    "title": "Tramp AQSh ustunligini saqlash uchun AIni cheklamaydi",
+    "summary": "Donald Tramp Si Szinpin bilan sammit oldidan AQShning Xitoydan ustunligini saqlab qolish uchun sun'iy intellektni tartibga solishga aralashmaslik yondashuvini tanlamoqda. Sammitda AI xavfsizligi asosiy mavzu bo'lishi kutilmoqda.",
+    "tags": [
+      "siyosat",
+      "xavfsizlik"
+    ],
+    "importance": 5,
+    "score": 15,
+    "published": "2026-09-12T15:30:02.000Z",
+    "created": "2026-09-12T16:01:40.703Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/260912/p10",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "872f6ccc38a0",
     "slug": "ilands-ai-agentlari-bilan-bogliq-spam-872f6c",
     "title": "iLands' AI agentlari bilan bog'liq spam",
