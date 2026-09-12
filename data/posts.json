@@ -1,5 +1,94 @@
 [
   {
+    "id": "fd8216df37ad",
+    "slug": "ai-qorquvi-haqiqiy-xavflarni-tosib-qoymoqda-fd8216",
+    "title": "AI qo'rquvi haqiqiy xavflarni to'sib qo'ymoqda",
+    "summary": "Sun'iy intellekt insoniyatni yo'q qilishi haqidagi gaplarga ko'r-ko'rona ishonish haqiqiy xavflarni e'tiborsiz qoldirishga olib keladi. Bunga AI odamlarning ishlash va muloqot qilish usullarini o'zgartirishi natijasidagi iqtisodiy va ijtimoiy beqarorlik kiradi.",
+    "tags": [
+      "iqtisod",
+      "siyosat"
+    ],
+    "importance": 2,
+    "score": 17.1,
+    "published": "2026-09-11T17:15:36.000Z",
+    "created": "2026-09-12T10:01:24.629Z",
+    "coverage": 1,
+    "source": {
+      "name": "Semafor",
+      "url": "https://semafor.com/article/09/11/2026/we-have-nothing-to-fear-but-ai-fear-itself",
+      "title": "We have nothing to fear but AI fear itself",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "7e5b3fcd8558",
+    "slug": "ai-soliq-tizimi-qanday-yaratilgani-malum-qilindi-7e5b3f",
+    "title": "AI Soliq tizimi qanday yaratilgani ma'lum qilindi",
+    "summary": "Soliq qo'mitasi Sun'iy intellekt laboratoriyasi rahbari AI Soliq tizimining yaratilishi haqida gapirdi. Loyihada tayyor xizmatlardan foydalanilmagan. Tizim biznes va davlat o'rtasidagi munosabatlarni o'zgartirishi kutilmoqda.",
+    "tags": [
+      "O'zbekiston",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 48,
+    "published": "2026-09-12T10:00:00.000Z",
+    "created": "2026-09-12T10:01:28.058Z",
+    "coverage": 1,
+    "source": {
+      "name": "Spot.uz",
+      "url": "https://spot.uz/ru/2026/09/12/soliq-ai",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "657a3e73e0a3",
+    "slug": "google-kelajakni-bashorat-qiluvchi-modelni-taqdim-etdi-657a3e",
+    "title": "Google kelajakni bashorat qiluvchi modelni taqdim etdi",
+    "summary": "Google Research bo'limi TimesFM-3 modelini taqdim etdi. 330 million parametrli ushbu model savdo ma'lumotlari va ob-havo asosida kelajakni bashorat qiladi. Tizim barcha vaqt nuqtalarini bir marta o'tishda to'ldirib, hisoblash vaqtini va xatolarni kamaytiradi.",
+    "tags": [
+      "Google",
+      "tadqiqot"
+    ],
+    "importance": 4,
+    "score": 18,
+    "published": "2026-09-12T09:26:05.000Z",
+    "created": "2026-09-12T10:01:28.059Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/googles-new-ai-model-predicts-the-future-from-sales-data-weather-and-discount-schedules",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "c9efb3dfa17c",
+    "slug": "ai-dasturchilarini-qamoq-jazosi-bilan-jazolash-taklif-etildi-c9efb3",
+    "title": "AI dasturchilarini qamoq jazosi bilan jazolash taklif etildi",
+    "summary": "Bernining sun'iy intellekt bo'yicha yangi qonun loyihasi taqdim etildi. Unda AI dasturchilarini 20 yilgacha ozodlikdan mahrum qilish taklif etilmoqda.",
+    "tags": [
+      "qonun",
+      "siyosat"
+    ],
+    "importance": 3,
+    "score": 17.2,
+    "published": "2026-09-12T00:24:36.000Z",
+    "created": "2026-09-12T10:01:28.059Z",
+    "coverage": 1,
+    "source": {
+      "name": "Hacker News",
+      "url": "https://twitter.com/venturetwins/status/2098456905526211026",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "9121bec9a6d2",
     "slug": "til-organishda-ai-inson-ornini-bosa-olmaydi-9121be",
     "title": "Til o'rganishda AI inson o'rnini bosa olmaydi",

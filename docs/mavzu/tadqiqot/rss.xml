@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/tadqiqot/</link>
   <description>&quot;tadqiqot&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Sat, 12 Sep 2026 09:39:47 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 12 Sep 2026 10:03:53 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/tadqiqot/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Google kelajakni bashorat qiluvchi modelni taqdim etdi</title>
+    <link>https://ailenta.uz/x/google-kelajakni-bashorat-qiluvchi-modelni-taqdim-etdi-657a3e/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/google-kelajakni-bashorat-qiluvchi-modelni-taqdim-etdi-657a3e/</guid>
+    <pubDate>Sat, 12 Sep 2026 09:26:05 GMT</pubDate>
+    <description>Google Research bo'limi TimesFM-3 modelini taqdim etdi. 330 million parametrli ushbu model savdo ma'lumotlari va ob-havo asosida kelajakni bashorat qiladi. Tizim barcha vaqt nuqtalarini bir marta o'tishda to'ldirib, hisoblash vaqtini va xatolarni kamaytiradi.</description>
+    <category>Google</category><category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/google-kelajakni-bashorat-qiluvchi-modelni-taqdim-etdi-657a3e.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/google-kelajakni-bashorat-qiluvchi-modelni-taqdim-etdi-657a3e.jpg"/>
+  </item>
   <item>
     <title>OpenAI modeli matematik muammoni hal qildi</title>
     <link>https://ailenta.uz/x/openai-modeli-matematik-muammoni-hal-qildi-ecb863/</link>
@@ -296,16 +306,6 @@
     <category>OpenAI</category><category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/ai-tadqiqotlar-tezligini-uch-barobarga-oshirdi-8e6861.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/ai-tadqiqotlar-tezligini-uch-barobarga-oshirdi-8e6861.jpg"/>
-  </item>
-  <item>
-    <title>OpenAI o'smirlar va AI tadqiqotiga grant ajratadi</title>
-    <link>https://ailenta.uz/x/openai-osmirlar-va-ai-tadqiqotiga-grant-ajratadi-99c22b/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/openai-osmirlar-va-ai-tadqiqotiga-grant-ajratadi-99c22b/</guid>
-    <pubDate>Tue, 08 Sep 2026 09:00:00 GMT</pubDate>
-    <description>OpenAI kompaniyasi generativ sun'iy intellektning o'smirlar rivojlanishi, farovonligi va xavfsizligiga ta'sirini o'rganish uchun 5 million dollar grant ajratadi. Ushbu dastur mustaqil tadqiqotlarni qo'llab-quvvatlashga qaratilgan.</description>
-    <category>OpenAI</category><category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/openai-osmirlar-va-ai-tadqiqotiga-grant-ajratadi-99c22b.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/openai-osmirlar-va-ai-tadqiqotiga-grant-ajratadi-99c22b.jpg"/>
   </item>
 </channel>
 </rss>
