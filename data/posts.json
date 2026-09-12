@@ -1,5 +1,139 @@
 [
   {
+    "id": "bb64f54bbc0b",
+    "slug": "ai-xavotirlari-ortib-qonunchilar-harakatga-otmoqda-bb64f5",
+    "title": "AI xavotirlari ortib, qonunchilar harakatga o'tmoqda",
+    "summary": "Sobiq Anthropic tadqiqotchisining ogohlantirishi qonunchilarni sun'iy intellekt xavflariga e'tibor qaratishga undadi. Biroq, bu shoshilinchlikni qonunga aylantirish qiyin bo'lib qolmoqda.",
+    "tags": [
+      "siyosat",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 32,
+    "published": "2026-09-12T09:00:00.000Z",
+    "created": "2026-09-12T18:04:29.214Z",
+    "coverage": 2,
+    "source": {
+      "name": "The Washington Post",
+      "url": "https://washingtonpost.com/technology/2026/09/12/ais-existential-threatsuddenly-has-washingtonsattention",
+      "title": "As AI fears grow, lawmakers are racing to turn alarm into action",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "2b5a16e92de0",
+    "slug": "silikon-vodiysi-ai-ogohlantirishlariga-shubha-2b5a16",
+    "title": "Silikon vodiysi AI ogohlantirishlariga shubha",
+    "summary": "Sun'iy intellekt xavflari haqidagi so'nggi keskin ogohlantirishlar ba'zi rahbarlar va investorlar tomonidan shubha bilan kutib olindi.",
+    "tags": [
+      "biznes",
+      "xavfsizlik"
+    ],
+    "importance": 2,
+    "score": 23,
+    "published": "2026-09-12T17:28:53.000Z",
+    "created": "2026-09-12T18:04:32.685Z",
+    "coverage": 1,
+    "source": {
+      "name": "BBC News",
+      "url": "https://bbc.co.uk/news/articles/cq635037g18o?at_medium=RSS&at_campaign=rss",
+      "title": "Dramatic insider warnings over AI fall flat with some in Silicon Valley",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "30ec8ad38b18",
+    "slug": "ai-ogohlantirishlari-jonsonga-tatilni-bekor-qilish-tavsiya-e-30ec8a",
+    "title": "AI ogohlantirishlari: Jonsonga ta'tilni bekor qilish tavsiya etildi",
+    "summary": "AQSh Vakillar Palatasi spikeri Mayk Jonsonga sun'iy intellekt xavflari haqidagi ogohlantirishlar tufayli ta'tilni bekor qilish taklif qilindi.",
+    "tags": [
+      "siyosat",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 23,
+    "published": "2026-09-12T11:19:45.000Z",
+    "created": "2026-09-12T18:05:02.335Z",
+    "coverage": 1,
+    "source": {
+      "name": "Axios",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORzNfelNQaFhjd1MyazVGeVk4WEFPbGpLNmRDWWhfVkp0RUc0ampoWHpZQ2wxcldET2RfeWlnVXlVTDUxNjJCcFQ1T1dCaFZHbGNOOWViYmJvNDNYLVhXMzJLMFJ1OUFhRzRHczA3SHVYWkg5RGxFUnhpZEM0N3Z1YQ",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "5e177ef433dc",
+    "slug": "ai-yetakchilari-rivojlanishni-sekinlashtirishni-qolladi-5e177e",
+    "title": "AI yetakchilari rivojlanishni sekinlashtirishni qo'lladi",
+    "summary": "Anthropic rahbari Dario Amodei sun'iy intellekt rivojini sekinlashtirishga chaqirdi. OpenAI rahbari Sam Altman va Elon Musk ham bu chaqiriqlarga qo'shildi.",
+    "tags": [
+      "Anthropic",
+      "OpenAI"
+    ],
+    "importance": 4,
+    "score": 21,
+    "published": "2026-09-12T17:21:44.000Z",
+    "created": "2026-09-12T18:05:02.335Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/ai-slow-down-dario-amodei-sam-altman-elon-musk-2026-9",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "f33df07e7789",
+    "slug": "altman-kompaniyalar-bilan-ai-xavfsizligi-kelishuviga-ishora-f33df0",
+    "title": "Altman kompaniyalar bilan AI xavfsizligi kelishuviga ishora",
+    "summary": "OpenAI rahbari Sam Altman boshqa sun'iy intellekt kompaniyalari bilan xavfsizlik xatarlarini hal qilish bo'yicha kelishuv tuzishga ishora berdi.",
+    "tags": [
+      "OpenAI",
+      "xavfsizlik"
+    ],
+    "importance": 4,
+    "score": 19,
+    "published": "2026-09-12T15:00:00.000Z",
+    "created": "2026-09-12T18:05:02.335Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPY2FVbkpubTVNNFhFQmd0V3o1eTN3RVZGZk9vcXdGNE1kWWlyRVJtRlNPb0pIVnJBaXhjeU9nbG9jcFN3MGxVX2lJX2pfOVQ0ZFFIMHJocEt2VmgyNy1wdnd6MDdkaGtqT3NOWnVGM3FUY1RrMXRZN2VuQUx6Yll4bkItWExwRUVYWEV4TGJGTFhSTWVkVkd0aE16S2tpS3VWVm85SjlfQXV6ZW8",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "05face6270d9",
+    "slug": "mutaxassislar-ai-insoniyatni-yoq-qilishidan-ogohlantirdi-05face",
+    "title": "Mutaxassislar AI insoniyatni yo'q qilishidan ogohlantirdi",
+    "summary": "Texnologiya sohasidagi xabarchilar sun'iy intellekt insoniyatni yo'q qilishi mumkinligini ta'kidlamoqda. Ular xavfli tadqiqotlarni to'xtatishga chaqirmoqda.",
+    "tags": [
+      "xavfsizlik",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 18,
+    "published": "2026-09-11T10:00:01.000Z",
+    "created": "2026-09-12T18:05:02.335Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/commentisfree/2026/sep/11/risky-ai-research-pause-humanity",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "87fe82a9600e",
     "slug": "aqsh-sud-tizimi-ai-bilan-bogliq-ishlarda-qiynalmoqda-87fe82",
     "title": "AQSh sud tizimi AI bilan bog'liq ishlarda qiynalmoqda",
