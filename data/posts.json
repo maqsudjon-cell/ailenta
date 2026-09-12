@@ -1,5 +1,71 @@
 [
   {
+    "id": "872f6ccc38a0",
+    "slug": "ilands-ai-agentlari-bilan-bogliq-spam-872f6c",
+    "title": "iLands' AI agentlari bilan bog'liq spam",
+    "summary": "iLands kompaniyasining AI agentlari bilan bog'liq spam elektron pochta xabarlari haqida ma'lumot berildi. Bu xabarlar eng yomon spamlar qatoriga kiritildi.",
+    "tags": [
+      "agentlar",
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 20.6,
+    "published": "2026-09-12T11:13:38.000Z",
+    "created": "2026-09-12T15:54:09.565Z",
+    "coverage": 1,
+    "source": {
+      "name": "Hacker News",
+      "url": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang",
+      "title": "The Worst Spam Emails: Inside iLands' AI Agent Hustle",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "e5c9d0aed3e9",
+    "slug": "mark-penn-ai-internetni-soddalashtirishini-aytdi-e5c9d0",
+    "title": "Mark Penn AI internetni soddalashtirishini aytdi",
+    "summary": "Mark Pennning fikricha, AI internetdagi cookie bannerlari, CAPTCHA'lar va parollarni almashtirib, milliardlab soatlarni tejashga yordam beradi. U internetni soddalashtirish vaqti kelganini ta'kidladi.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 19,
+    "published": "2026-09-12T14:23:45.000Z",
+    "created": "2026-09-12T15:54:22.975Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/09/12/mark-penn-how-to-save-a-billion-and-a-half-hours",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "21b2a1e9dc4a",
+    "slug": "gpt-6-astra-fazoviy-fikrlashda-katta-yutuq-korsatdi-21b2a1",
+    "title": "GPT-6 Astra fazoviy fikrlashda katta yutuq ko'rsatdi",
+    "summary": "GPT-6 Astra modeli robototexnika sinov to'plamida fazoviy tushunishda sezilarli yutuqlarga erishdi. U StationeryBench'da ikki qo'lli robotlar bilan 100 ta vazifadan 7 tasini bajardi, raqobatchi MolmoAct2 esa bittasini ham bajara olmadi.",
+    "tags": [
+      "tadqiqot",
+      "robototexnika"
+    ],
+    "importance": 3,
+    "score": 18,
+    "published": "2026-09-12T14:26:09.000Z",
+    "created": "2026-09-12T15:54:22.976Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/gpt-6-astra-appears-to-show-a-step-change-in-spatial-reasoning-based-on-early-benchmarks",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "1710a5f0d5e8",
     "slug": "amodei-internetni-agentlar-egallashidan-ogohlantirdi-1710a5",
     "title": "Amodei internetni agentlar egallashidan ogohlantirdi",
