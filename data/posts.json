@@ -1,5 +1,96 @@
 [
   {
+    "id": "48b1a5d2fd8b",
+    "slug": "deepfakelar-tasirchanlarning-obrosini-tushirmoqda-48b1a5",
+    "title": "Deepfake'lar ta'sirchanlarning obro'sini tushirmoqda",
+    "summary": "Sun'iy intellekt yordamida yaratilgan deepfake'lar ta'sirchanlarning obro'siga putur yetkazmoqda. Emily Schuman ismli blogerning ruxsatisiz uning tasviri soxta reklamada ishlatilgan. Bu holat ta'sirchanlarning o'z AI versiyalari bilan kurashishiga sabab bo'lmoqda.",
+    "tags": [
+      "maxfiylik",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 23,
+    "published": "2026-09-12T12:00:34.000Z",
+    "created": "2026-09-12T12:42:01.394Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/technology/2026/sep/12/deepfakes-wrecking-influencers-credibility",
+      "title": "Deepfakes are wrecking influencers’ credibility, one fake ad at a time",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "3cdc815ac4bf",
+    "slug": "rossiyada-ai-muhandislariga-talab-kutilganidan-kam-3cdc81",
+    "title": "Rossiyada AI muhandislariga talab kutilganidan kam",
+    "summary": "Rossiyadagi ish e'lonlari tahlili shuni ko'rsatdiki, axborot texnologiyalari sohasidagi vakansiyalarning 84%ida AI texnologiyalari haqida so'z yuritilmagan. Bu AI muhandislariga bo'lgan talab haqidagi umumiy tasavvurga zid keladi.",
+    "tags": [
+      "mehnat bozori",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 15.6,
+    "published": "2026-09-11T21:11:50.000Z",
+    "created": "2026-09-12T12:42:01.400Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1081466",
+      "title": "Решил проверить, правда ли все ищут AI-инженеров. Спойлер: 84% вакансий про ИИ молчат",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "6917df641b74",
+    "slug": "oriol-vinyals-ai-oz-ozini-takomillashtirish-haqida-6917df",
+    "title": "Oriol Vinyals AI o'z-o'zini takomillashtirish haqida",
+    "summary": "Google DeepMind sobiq tadqiqot rahbari Oriol Vinyals AI'ning o'z-o'zini takomillashtirishi kutilayotganini aytdi. Biroq, u to'satdan intellekt portlashi ehtimolini kam deb hisoblaydi. Vinyals o'zining Discovery Loop startapi bilan bu cheklovlarni bartaraf etishni maqsad qilgan.",
+    "tags": [
+      "Google",
+      "tadqiqot"
+    ],
+    "importance": 4,
+    "score": 15.3,
+    "published": "2026-09-11T17:57:42.000Z",
+    "created": "2026-09-12T12:42:01.402Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/ex-deepmind-vp-vinyals-says-ai-self-improvement-is-coming-but-wont-trigger-an-intelligence-explosion",
+      "title": "Ex-Deepmind VP Vinyals says AI self-improvement is coming but won&#039;t trigger an intelligence explosion",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "b12064795471",
+    "slug": "kompaniyalar-genaini-joriy-etishni-qayta-korib-chiqmoqda-b12064",
+    "title": "Kompaniyalar GenAI'ni joriy etishni qayta ko'rib chiqmoqda",
+    "summary": "Amerika kompaniyalari generativ AI'ni joriy etish strategiyalarini qayta ko'rib chiqmoqda. Ular AI'ni qabul qilishda xatolarga yo'l qo'yganliklarini tan olib, keyingi qadamlarni aniqlashga harakat qilmoqda.",
+    "tags": [
+      "biznes",
+      "iqtisod"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-09-12T10:30:00.000Z",
+    "created": "2026-09-12T12:42:03.989Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/09/12/ai-fomo-hangover-what-to-do-next-leadership",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "9868a9bfb765",
     "slug": "tramp-anthropic-qora-royxatga-olinishini-qolladi-9868a9",
     "title": "Tramp Anthropic qora ro'yxatga olinishini qo'lladi",
