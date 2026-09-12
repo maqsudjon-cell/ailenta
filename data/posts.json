@@ -1,5 +1,70 @@
 [
   {
+    "id": "1710a5f0d5e8",
+    "slug": "amodei-internetni-agentlar-egallashidan-ogohlantirdi-1710a5",
+    "title": "Amodei internetni agentlar egallashidan ogohlantirdi",
+    "summary": "Anthropic rahbari Amodei sun'iy intellekt poygasini sekinlashtirish kerakligini ma'lum qildi. Uning ogohlantirishicha, agentlar to'dasi yaqin 6-12 oy ichida internetni butunlay egallab olishi mumkin.",
+    "tags": [
+      "Anthropic",
+      "agentlar"
+    ],
+    "importance": 4,
+    "score": 24,
+    "published": "2026-09-12T15:01:01.000Z",
+    "created": "2026-09-12T15:05:00.107Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/260912/p8",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "ac6ba8d8ce50",
+    "slug": "menejerlar-qiyin-suhbatlar-uchun-aidan-foydalanmoqda-ac6ba8",
+    "title": "Menejerlar qiyin suhbatlar uchun AIdan foydalanmoqda",
+    "summary": "Rahbarlar xodimlar bilan qiyin suhbatlarni mashq qilishda sun'iy intellektdan foydalanmoqda. Ekspertlar bu jarayonda maxfiylikni saqlash va insoniy qaror qabul qilish muhimligini ta'kidlamoqda.",
+    "tags": [
+      "mehnat bozori",
+      "maxfiylik"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-09-12T14:32:08.000Z",
+    "created": "2026-09-12T15:05:00.107Z",
+    "coverage": 1,
+    "source": {
+      "name": "CNBC",
+      "url": "https://cnbc.com/2026/09/12/ai-manager-coaching-employee-feedback-performanc-review.html",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "f7a04832ea04",
+    "slug": "as-watson-rahbari-xaridlar-haqida-fikr-bildirdi-f7a048",
+    "title": "AS Watson rahbari xaridlar haqida fikr bildirdi",
+    "summary": "AS Watson rahbari Malina Ngai sun'iy intellekt xaridlarni yanada insoniy qilishini aytdi. Uning ogohlantirishicha, texnologiyadan faqat bugungi jarayonlarni yaxshilash uchun foydalanish o'tmishda qolib ketishga olib keladi.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 19,
+    "published": "2026-09-12T13:46:12.000Z",
+    "created": "2026-09-12T15:05:00.107Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/09/12/as-watson-ceo-malina-ngai-ai-retail-jobs",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "18f7ce66b61d",
     "slug": "aqshda-qurilish-robotlari-uy-joy-qurishda-qollanmoqda-18f7ce",
     "title": "AQShda qurilish robotlari uy-joy qurishda qo'llanmoqda",
