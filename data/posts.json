@@ -1,5 +1,55 @@
 [
   {
+    "id": "12e9dd685180",
+    "slug": "perplexity-oz-tizimlarini-gpt-6-astraga-ishonib-topshirdi-12e9dd",
+    "title": "Perplexity o'z tizimlarini GPT-6 Astra'ga ishonib topshirdi",
+    "summary": "Perplexity kompaniyasi aloqalarni yozish, dasturiy ta'minotni o'zgartirish va ishlab chiqarish tizimlarini kuzatishda Astra modelidan foydalanmoqda. Kompaniya avvalgi modellarga qaraganda tizimni ancha kam tekshirmoqda.",
+    "tags": [
+      "OpenAI",
+      "biznes"
+    ],
+    "importance": 4,
+    "score": 33,
+    "published": "2026-09-14T00:00:00.000Z",
+    "created": "2026-09-12T03:01:18.616Z",
+    "coverage": 1,
+    "source": {
+      "name": "OpenAI",
+      "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+      "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "1ccedc60c302",
+    "slug": "rossiyaliklar-kamikadze-dronlari-uchun-aidan-foydalangan-1ccedc",
+    "title": "Rossiyaliklar kamikadze dronlari uchun AIdan foydalangan",
+    "summary": "Anthropic xabariga ko'ra, rossiyalik dasturchilar \"kamikadze\" hujum dronlari dasturini yaratishda sun'iy intellektdan foydalangan. Shuningdek, xakerlar Ukraina hukumati, harbiy va diplomatik sektorlariga hujum qilishda ham AIdan foydalangani aniqlangan.",
+    "tags": [
+      "Anthropic",
+      "xavfsizlik"
+    ],
+    "importance": 4,
+    "score": 32,
+    "published": "2026-09-12T02:12:01.000Z",
+    "created": "2026-09-12T03:01:23.142Z",
+    "coverage": 2,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/world/2026/sep/12/ukraine-war-briefing-russian-developers-used-ai-to-build-kamikaze-attack-drone-software-anthropic-says",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "The Guardian",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNV1pNN1E2LTdmelB4VUxzNkxvRThpTmNFc012M3lyWDBiYXc2c2VvUms2LTg2cjBqZGs0ZFJyN3pGU3doRVdkNnVzWVBFM0s3cWRtYVdHdUhtRS0wWEY3TjlBTG02V2czS2tjOVlsbkRMM0s4TV9heWo4UHh6ZFpjcW9pVlhCdXVmUnJFRWZldE5OWlVFQUFYcEhQcWUwRzdER0NKanB6SlIwLU5nSThMUTBsbDlSSk1JSkR0Y19VeHo4VEthNjZzZi1fVTU3S21FbDdRQWl3UGxXNGlMd3NEdVhB"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
     "id": "65eb4a5d53eb",
     "slug": "openai-agentlari-zararli-paketlar-yuklagani-aytildi-65eb4a",
     "title": "OpenAI agentlari zararli paketlar yuklagani aytildi",
