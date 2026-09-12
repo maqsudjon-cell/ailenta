@@ -1,5 +1,79 @@
 [
   {
+    "id": "ecb8630122ba",
+    "slug": "openai-modeli-matematik-muammoni-hal-qildi-ecb863",
+    "title": "OpenAI modeli matematik muammoni hal qildi",
+    "summary": "OpenAI kompaniyasining yangi sun'iy intellekt modeli o'n yilliklar davomida yechilmagan va 1 million dollar mukofotga ega bo'lgan Mingyillik muammosini hal qildi. Buning uchun 10 000 ta AI agentidan foydalanildi. Biroq ko'plab matematiklar ushbu muvaffaqiyatdan xavotirga tushishdi.",
+    "tags": [
+      "OpenAI",
+      "tadqiqot"
+    ],
+    "importance": 4,
+    "score": 32,
+    "published": "2026-09-12T08:00:28.000Z",
+    "created": "2026-09-12T08:01:30.394Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/science/2026/sep/12/openai-mathematicians-millennium-prize-problem",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "7cf62ded67a5",
+    "slug": "ai-buyuk-britaniyada-bitiruvchilar-ishiga-tasir-qilmoqda-7cf62d",
+    "title": "AI Buyuk Britaniyada bitiruvchilar ishiga ta'sir qilmoqda",
+    "summary": "Buyuk Britaniya ma'lumotlariga ko'ra, sun'iy intellekt kompyuter texnologiyalari va iqtisodiyot yo'nalishi bitiruvchilarining ish topish imkoniyatlariga salbiy ta'sir ko'rsatmoqda. O'tgan yili dasturlash va dasturiy ta'minot yaratish sohalarida ish o'rinlari eng tez kamaygan kasblarga aylandi.",
+    "tags": [
+      "mehnat bozori"
+    ],
+    "importance": 3,
+    "score": 23,
+    "published": "2026-09-12T07:00:30.000Z",
+    "created": "2026-09-12T08:01:30.394Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/education/2026/sep/12/ai-computer-science-graduates-job-prospects-uk-data",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "ee8da309a548",
+    "slug": "yamandagi-xusiylar-ai-yordamida-qurol-yaratishga-urindi-ee8da3",
+    "title": "Yamandagi xusiylar AI yordamida qurol yaratishga urindi",
+    "summary": "Anthropic kompaniyasining ma'lum qilishicha, Yamanning xusiylar nazoratidagi hududlarida foydalanuvchilar sun'iy intellekt yordamida ilg'or qurollarni ishlab chiqishga uringan. Bu haqda xavfsizlik va axborot nashrlari xabar bermoqda.",
+    "tags": [
+      "Anthropic",
+      "xavfsizlik"
+    ],
+    "importance": 4,
+    "score": 22,
+    "published": "2026-09-12T01:50:53.000Z",
+    "created": "2026-09-12T08:01:30.394Z",
+    "coverage": 3,
+    "source": {
+      "name": "SecurityWeek",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPOWdqUGduNU5jYkNPQnpGWFJ2WWkzNmpsMXhiUHl0Ry1feEpqRFotUlI3VTNSM051cFBSZnU3eFFJcUxLbjMtdmVPWWhlUkRwQ0hkWkF3TXllSHNZS2FSOUVEVGhVWEJVQ0pEV0RoNGF3djRwLTBiN2Z5WExFVG0xbGF1VTdJQXNNb2lMb21CVGI3X2VUVUZ6YlJRUXpFc2hVemRaMFFVSnl5dmtVYTNlaUNZVdIBuAFBVV95cUxNYk1LZGJGQmU2ZXFublZ6b2hiVGIxRE5BaW9uNTN0Y3lUZ3NwSmtmZWpjR3loTHpnZE4wOHZEUWdnZFF1VHJLN1NPOGdnVUQtYzBHMnktMTJ6V20yMlM5aHlZS3FVS2N1aG96dWN5T1VEQUZfWDJyRmZjN3BJSHFPZDByLXVNUENVZjJuaEVTcE50LU41Uk9QRHN2TlZoLWFHOEhfOEZBR1dPX3luenF3eE5kUXpZMGdY",
+      "indirect": true
+    },
+    "also": [
+      {
+        "name": "NBC Bay Area",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNjAtQllidGlldmN1M0E1aE1Cc0poU0ktS1ZuZTEzVzZBY3Mxc0xJaHdrSWhzczl4dU5BbDZZSHQ1LVdIMGQ1clQ1ZENmVnJfczZ5WEtNZEJZTzhsamc2SmtHaDNYZHJ6dXcyZUtwZUg4R0FIS2NTaHdFSWttTW1ZOFFucWZZN3o2MzZJQmdqSmo2cUtORlIyLTgxU3FUR3V4NnV5Y0lodTd3VThOY3pKNlhnblZuMnMxUGJlcVZTMlHSAcABQVVfeXFMUDYwLUJZYnRpZXZjdTNBNWhNQnNKaFNJLUtWbmUxM1c2QWNzMXNMSWh3a0loc3M5eHVOQWw2WUh0NS1XSDBkNXJUNWRDZlZyX3M2eVhLTWRCWU84bGpnNkprR2gzWGRyenV3MmVLcGVIOEdBSEtjU2h3RUlrbU1tWThRbnFmWTd6NjM2SUJnakpqNnFLTkZSMi04MVNxVEd1eDZ1eWNJaHU3d1U4TmN6SjZYZ25WbjJzMVBiZXFWUzJR"
+      },
+      {
+        "name": "Bozeman Daily Chronicle",
+        "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNeDVEUUliUk9OMGFjMnpISGdtcFE3RzhmTkowQWxmQjFfclBubGljbHpGREpwU0ptUUJhbGdJZk4wM29fdWRUUEZIeGlCeld5b3JxamI5QmtsQTNzU0NfdVdmYXh3UTVXOG1ZT0J2aGRBdUd2QVV1QWhLQlItTnViZ1docjhvTGgyZkhGZkRrbHVQck81UTBwLXpJbDgxZ0FjbU15WVk1U1BUNnZDakVqT2ZQZnRvbHJWSF9WQTNvWkh6Nm1YX1V6cHR4SDZQVW1MX194YVc1b1JmcU1ZcklfT1VQc0tFRDRJNTNXVWNaZmx4eXJoc1V0M1o4ZXM4OUh3TFZkMmp2bkJGS2JnWHYxY20wZw"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
     "id": "acad04a359be",
     "slug": "ai-haqida-qaygu-va-ekzistensial-inqiroz-acad04",
     "title": "AI haqida qayg'u va ekzistensial inqiroz",
