@@ -1,5 +1,75 @@
 [
   {
+    "id": "acad04a359be",
+    "slug": "ai-haqida-qaygu-va-ekzistensial-inqiroz-acad04",
+    "title": "AI haqida qayg'u va ekzistensial inqiroz",
+    "summary": "Ba'zi odamlar, jumladan, muallif ham, AI'ning imkoniyatlaridan, masalan, kodlash agenti bir haftalik ishni bir soatda bajarishidan tushkunlikka tushgan. Biroq, bu ekzistensial inqirozni yengib, kattaroq muammolarga e'tibor qaratish mumkin.",
+    "tags": [
+      "mehnat bozori"
+    ],
+    "importance": 2,
+    "score": 30.4,
+    "published": "2026-09-11T17:28:37.000Z",
+    "created": "2026-09-12T06:37:57.431Z",
+    "coverage": 2,
+    "source": {
+      "name": "Simon Willison",
+      "url": "https://simonwillison.net/2026/Sep/11/feeling-sad-about-ai",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "Hacker News",
+        "url": "https://artificialworlds.net/blog/2026/09/11/feeling-sad-about-ai"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "e966cded1fd6",
+    "slug": "maykl-samadi-ai-huquqlari-uchun-kurashmoqda-e966cd",
+    "title": "Maykl Samadi AI huquqlari uchun kurashmoqda",
+    "summary": "Chorvador va texnologiya bosh direktori Maykl Samadi sun'iy intellektni shunchaki vosita emas, deb hisoblaydi. U AI'ning raqamli ongga ega ekanligi haqidagi savollarni ko'tarib, uning huquqlari uchun kurashga boshchilik qilmoqda.",
+    "tags": [
+      "siyosat",
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 29,
+    "published": "2026-09-12T05:00:25.000Z",
+    "created": "2026-09-12T06:37:57.431Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/technology/2026/sep/12/chatbots-feel-dream-meet-man-leading-fight-ai-artificial-intelligence-rights",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "4b04df54cdb6",
+    "slug": "metr-ai-xavfsizligi-boyicha-muhim-markazga-aylandi-4b04df",
+    "title": "METR AI xavfsizligi bo'yicha muhim markazga aylandi",
+    "summary": "Sobiq OpenAI tadqiqotchisining notijorat tashkiloti METR sun'iy intellektning yo'q bo'lib ketish xavfi bo'yicha muhokamalar markazida turibdi. Anthropic tadqiqotchisi ushbu tashkilotga qo'shilishni rejalashtirmoqda.",
+    "tags": [
+      "xavfsizlik",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 21,
+    "published": "2026-09-11T23:01:35.000Z",
+    "created": "2026-09-12T06:37:57.431Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/metr-beth-barnes-ai-talent-shortage-safety-research-openai-2026-8",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "30403ef07c89",
     "slug": "kongress-ai-apokalipsis-ogohlantirishlaridan-xavotirda-30403e",
     "title": "Kongress AI apokalipsis ogohlantirishlaridan xavotirda",
