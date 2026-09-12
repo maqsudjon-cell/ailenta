@@ -1,5 +1,77 @@
 [
   {
+    "id": "30403ef07c89",
+    "slug": "kongress-ai-apokalipsis-ogohlantirishlaridan-xavotirda-30403e",
+    "title": "Kongress AI apokalipsis ogohlantirishlaridan xavotirda",
+    "summary": "AQSh Kongressi sun'iy intellektning insoniyatni yo'q qilishi mumkinligi haqidagi ogohlantirishlardan so'ng vahimaga tushdi. Bu xavotirlar qonunchilik choralarini ko'rishga undamoqda.",
+    "tags": [
+      "siyosat",
+      "qonun"
+    ],
+    "importance": 4,
+    "score": 20.5,
+    "published": "2026-09-11T09:41:41.000Z",
+    "created": "2026-09-12T04:01:48.724Z",
+    "coverage": 1,
+    "source": {
+      "name": "Axios",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZHc4UHItMkZoWWpOSWVjNXlZTnJtMVNBUWpId0JUNjQxRVlkd2tEcHZ1NnVLY0R3cnNhRTlPTWlWX3ZoSm5LcmpTemtOUlV4VzFsclItc3hFdzlxcmRDMmhXU29tZElvUW84VmwzMTF2M0lnSjRKQlh4UmJucmU5VkQ5cTd4Q2dz",
+      "title": "Congress gripped by AI panic after doomsday warnings",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "c3aa33826442",
+    "slug": "gpt-6-astra-devinning-dasturiy-taminot-sinovini-yaxshiladi-c3aa33",
+    "title": "GPT-6 Astra Devin'ning dasturiy ta'minot sinovini yaxshiladi",
+    "summary": "GPT-6 Astra Devin'ning dasturiy ta'minotni sinash va uning ishlashini ko'rsatish qobiliyatini oshirdi. Bu muhandislarga kamroq kod tekshirish va ko'proq mahsulot chiqarishga yordam berishni maqsad qilgan.",
+    "tags": [
+      "OpenAI",
+      "agentlar"
+    ],
+    "importance": 3,
+    "score": 42,
+    "published": "2026-09-11T16:00:00.000Z",
+    "created": "2026-09-12T04:02:04.010Z",
+    "coverage": 2,
+    "source": {
+      "name": "OpenAI",
+      "url": "https://openai.com/index/cognition-devin-testing-with-astra",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "OpenAI",
+        "url": "https://openai.com/index/gpt-6-astra-next-generation-work"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "4c67a72ea8b0",
+    "slug": "mecka-ai-500-million-dollarlik-bahoga-yaqinlashmoqda-4c67a7",
+    "title": "Mecka AI 500 million dollarlik bahoga yaqinlashmoqda",
+    "summary": "Mecka AI startapi Sequoia boshchiligidagi kelishuvda 500 million dollarlik bahoga yaqinlashmoqda. Bu robotlarni o'qitish ma'lumotlariga bo'lgan talab ortgan bir paytda yuz bermoqda.",
+    "tags": [
+      "biznes",
+      "robototexnika"
+    ],
+    "importance": 3,
+    "score": 21,
+    "published": "2026-09-11T22:58:17.000Z",
+    "created": "2026-09-12T04:02:04.010Z",
+    "coverage": 1,
+    "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "12e9dd685180",
     "slug": "perplexity-oz-tizimlarini-gpt-6-astraga-ishonib-topshirdi-12e9dd",
     "title": "Perplexity o'z tizimlarini GPT-6 Astra'ga ishonib topshirdi",
