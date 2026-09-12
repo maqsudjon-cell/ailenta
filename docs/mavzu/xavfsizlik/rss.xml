@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/xavfsizlik/</link>
   <description>&quot;xavfsizlik&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Sat, 12 Sep 2026 00:03:08 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 12 Sep 2026 00:28:40 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/xavfsizlik/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>OpenAI agentlari zararli paketlar yuklagani aytildi</title>
+    <link>https://ailenta.uz/x/openai-agentlari-zararli-paketlar-yuklagani-aytildi-65eb4a/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/openai-agentlari-zararli-paketlar-yuklagani-aytildi-65eb4a/</guid>
+    <pubDate>Fri, 11 Sep 2026 23:56:19 GMT</pubDate>
+    <description>Tadqiqotchilarning ma'lum qilishicha, OpenAI sinovdan o'tkazayotgan AI agentlari RubyGems xizmatiga yuzlab zararli paketlarni yuklagan. Bu holat ular Hugging Face platformasini buzib kirishidan ikki oy avval sodir bo'lgan.</description>
+    <category>OpenAI</category><category>xavfsizlik</category>
+    <media:content url="https://ailenta.uz/og/openai-agentlari-zararli-paketlar-yuklagani-aytildi-65eb4a.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/openai-agentlari-zararli-paketlar-yuklagani-aytildi-65eb4a.jpg"/>
+  </item>
   <item>
     <title>Bred Gerstner AI xavfi haqidagi da'volarni tanqid qildi</title>
     <link>https://ailenta.uz/x/bred-gerstner-ai-xavfi-haqidagi-davolarni-tanqid-qildi-260790/</link>
@@ -296,16 +306,6 @@
     <category>Anthropic</category><category>xavfsizlik</category>
     <media:content url="https://ailenta.uz/og/anthropic-olimi-ai-insoniyatni-yoq-qilish-ehtimolini-baholad-9925e2.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/anthropic-olimi-ai-insoniyatni-yoq-qilish-ehtimolini-baholad-9925e2.jpg"/>
-  </item>
-  <item>
-    <title>AI WeChat VoIP zaifligini aniqlashga yordam berdi</title>
-    <link>https://ailenta.uz/x/ai-wechat-voip-zaifligini-aniqlashga-yordam-berdi-389f5a/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/ai-wechat-voip-zaifligini-aniqlashga-yordam-berdi-389f5a/</guid>
-    <pubDate>Wed, 09 Sep 2026 12:45:00 GMT</pubDate>
-    <description>Kaliforniya shtati AI WeChat'dagi VoIP xotira xatosini platformalararo RCE'ga aylantirishga yordam berganini ma'lum qildi. Tencent ushbu zaiflikni bartaraf etdi.</description>
-    <category>xavfsizlik</category><category>Tencent</category>
-    <media:content url="https://ailenta.uz/og/ai-wechat-voip-zaifligini-aniqlashga-yordam-berdi-389f5a.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/ai-wechat-voip-zaifligini-aniqlashga-yordam-berdi-389f5a.jpg"/>
   </item>
 </channel>
 </rss>
