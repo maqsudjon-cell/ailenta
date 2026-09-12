@@ -1,5 +1,32 @@
 [
   {
+    "id": "44f80600b1eb",
+    "slug": "ai-kompaniyalari-halokat-xavfini-muhokama-qilmoqda-44f806",
+    "title": "AI kompaniyalari halokat xavfini muhokama qilmoqda",
+    "summary": "Anthropic, OpenAI, Meta va Google tadqiqotchilari sun'iy intellektning global xavflari haqida ogohlantirmoqda. Mutaxassislar o'ta aqlli tizimlar keltirib chiqarishi mumkin bo'lgan halokatli oqibatlarga e'tibor qaratishga harakat qilmoqda.",
+    "tags": [
+      "OpenAI",
+      "xavfsizlik"
+    ],
+    "importance": 4,
+    "score": 42,
+    "published": "2026-09-12T09:03:01.000Z",
+    "created": "2026-09-12T11:17:52.814Z",
+    "coverage": 2,
+    "source": {
+      "name": "The New York Times",
+      "url": "https://nytimes.com/2026/09/12/technology/doomsday-discussions-ai-companies.html",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQb2VZT2RaOHpEM0RneENGMFBIQk93Y0oxYmhqYnBIeDdRcGpRajBpTFhybzFqMHpSRHBmbGpxdUthMU1iNkxydUpoU2hHUUxvUmU0RkVyc0lpVUpQbDgtb2drdnYxNXcyWVhCR2lYMnVYd0s1QW5YdTVpR0lldnlKbnV0QndvRGdWc1ZabQ"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
     "id": "d909bbb8d70a",
     "slug": "malumotlar-markazlari-uchun-yangi-xavf-obligatsiyalari-d909bb",
     "title": "Ma'lumotlar markazlari uchun yangi xavf obligatsiyalari",
