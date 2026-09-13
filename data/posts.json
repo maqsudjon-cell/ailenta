@@ -1,5 +1,32 @@
 [
   {
+    "id": "cb8bebc1f85b",
+    "slug": "yamandagi-isyonchilar-anthropic-ai-botidan-foydalandi-cb8beb",
+    "title": "Yamandagi isyonchilar Anthropic AI botidan foydalandi",
+    "summary": "Yamandagi jangarilar boshqariladigan raketa va snaryadlar yaratish uchun Anthropic dasturlash vositasidan foydalanishga uringan. Kompaniya buni aniqlab, so'rovlarning bir qismini bloklashga muvaffaq bo'lgan. Biroq barcha so'rovlar ham to'sib qolinmagan.",
+    "tags": [
+      "Anthropic",
+      "xavfsizlik"
+    ],
+    "importance": 4,
+    "score": 20.3,
+    "published": "2026-09-11T15:24:00.000Z",
+    "created": "2026-09-13T01:01:57.237Z",
+    "coverage": 2,
+    "source": {
+      "name": "The Washington Post",
+      "url": "https://washingtonpost.com/technology/2026/09/11/rebels-used-anthropics-ai-bot-develop-guided-weapons-report-says",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "The Washington Post",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOaERpaFByZnFpVDR2NXVtS1Nvdy1XN09IVnFDWU9VNF9TTVdpWG0wemJJaFMyVDh3dGZMb2lzOEgzT2NvcHNmNFkwdFdBcmY5UXZ4WnBNZHdpQ05xUnVoTk41b3BjR1BNcXhST1VsY1kwSHVXdzFvcklnQWwzcTVtX1lka1hNczViYlJqbzFnT3BnSHplWllJOEt6MmJYNlRXNk1TeFhiQWFZVTk4bW9TcENTSmxCQ1VjTEE"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
     "id": "a4c630f3309f",
     "slug": "sam-altman-openai-ham-mustaqil-ekspertlarga-ruxsat-berishini-a4c630",
     "title": "Sam Altman OpenAI ham mustaqil ekspertlarga ruxsat berishini aytdi",
