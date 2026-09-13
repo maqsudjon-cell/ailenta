@@ -1,5 +1,49 @@
 [
   {
+    "id": "82a6d74a71e1",
+    "slug": "obama-ai-xavfsizligi-rejasini-ustuvor-qilishga-chaqirdi-82a6d7",
+    "title": "Obama AI xavfsizligi rejasini ustuvor qilishga chaqirdi",
+    "summary": "AQSh sobiq prezidenti Barak Obama demokratlarni sun'iy intellekt xavfsizligi bo'yicha ochiq muloqot boshlashga chaqirdi. U yopiq tadbirda AI rivojini sekinlashtirish, ish o'rinlari yo'qolishi va bolalar farovonligini qamrab oluvchi tizim yaratishni taklif qildi.",
+    "tags": [
+      "siyosat",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 23,
+    "published": "2026-09-13T15:47:37.000Z",
+    "created": "2026-09-13T16:01:24.706Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/us-news/2026/sep/13/obama-democrats-ai-safety",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "65807a7770cd",
+    "slug": "matematik-olim-oz-ishini-ai-ogirlaganidan-shubhalanmoqda-65807a",
+    "title": "Matematik olim o'z ishini AI o'g'irlaganidan shubhalanmoqda",
+    "summary": "Nyu-York universiteti professori nazariy matematikadagi murakkab muammoni hal qilgan AI agentlari uning ishidan foydalangan bo'lishi mumkinligini taxmin qilmoqda. Olim katta ilmiy kashfiyot arafasida turganida, AI undan o'zib ketgan.",
+    "tags": [
+      "tadqiqot",
+      "agentlar"
+    ],
+    "importance": 3,
+    "score": 23,
+    "published": "2026-09-13T10:00:00.000Z",
+    "created": "2026-09-13T16:01:24.706Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Washington Post",
+      "url": "https://washingtonpost.com/technology/2026/09/13/he-was-close-1-million-breakthrough-then-openai-swooped",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "86bd19fea3f3",
     "slug": "chatbotlar-insoniy-bogliqlikni-suiistemol-qilishi-mumkin-86bd19",
     "title": "Chatbotlar insoniy bog'liqlikni suiiste'mol qilishi mumkin",
