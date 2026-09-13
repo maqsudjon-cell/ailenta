@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/agentlar/</link>
   <description>&quot;agentlar&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Sun, 13 Sep 2026 12:41:56 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 13 Sep 2026 12:57:17 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/agentlar/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>GPT-6 Astra dron boshqarish va biznes sinovidan o'tdi</title>
+    <link>https://ailenta.uz/x/gpt-6-astra-dron-boshqarish-va-biznes-sinovidan-otdi-be33ef/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/gpt-6-astra-dron-boshqarish-va-biznes-sinovidan-otdi-be33ef/</guid>
+    <pubDate>Sun, 13 Sep 2026 10:52:16 GMT</pubDate>
+    <description>GPT-6 Astra modeli Vending-Bench sinov to'plamida Claude Fable 5.1 modeliga qaraganda qariyb uch baravar ko'p daromad keltirdi. Shuningdek, u dron nazorati bo'yicha beshta topshiriqning barchasida inson ko'rsatkichidan o'zib ketgan birinchi model bo'ldi.</description>
+    <category>agentlar</category><category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/gpt-6-astra-dron-boshqarish-va-biznes-sinovidan-otdi-be33ef.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/gpt-6-astra-dron-boshqarish-va-biznes-sinovidan-otdi-be33ef.jpg"/>
+  </item>
   <item>
     <title>Tajribali sotuvchilar murabbiy o'rniga AIni tanladi</title>
     <link>https://ailenta.uz/x/tajribali-sotuvchilar-murabbiy-orniga-aini-tanladi-42e4f6/</link>
@@ -296,16 +306,6 @@
     <category>OpenAI</category><category>agentlar</category>
     <media:content url="https://ailenta.uz/og/openai-agentlari-wiki-hodisasida-qanday-harakat-qilgani-9adc7e.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/openai-agentlari-wiki-hodisasida-qanday-harakat-qilgani-9adc7e.jpg"/>
-  </item>
-  <item>
-    <title>AI ishga qabul qilish tizimlari rivojlanishi ko'rib chiqildi</title>
-    <link>https://ailenta.uz/x/ai-ishga-qabul-qilish-tizimlari-rivojlanishi-korib-chiqildi-a43ca3/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/ai-ishga-qabul-qilish-tizimlari-rivojlanishi-korib-chiqildi-a43ca3/</guid>
-    <pubDate>Mon, 07 Sep 2026 04:00:00 GMT</pubDate>
-    <description>Yangi tadqiqot AI ishga qabul qilish tizimlarining rivojlanishini ko'rib chiqdi. Unda AI'ning profil moslashtirishdan tortib, LLM komponentlari va agentlardan foydalangan holda ko'p bosqichli jarayonlarga o'tishi tahlil qilingan.</description>
-    <category>tadqiqot</category><category>agentlar</category>
-    <media:content url="https://ailenta.uz/og/ai-ishga-qabul-qilish-tizimlari-rivojlanishi-korib-chiqildi-a43ca3.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/ai-ishga-qabul-qilish-tizimlari-rivojlanishi-korib-chiqildi-a43ca3.jpg"/>
   </item>
 </channel>
 </rss>

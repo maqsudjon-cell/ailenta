@@ -1,5 +1,27 @@
 [
   {
+    "id": "be33ef90be1a",
+    "slug": "gpt-6-astra-dron-boshqarish-va-biznes-sinovidan-otdi-be33ef",
+    "title": "GPT-6 Astra dron boshqarish va biznes sinovidan o'tdi",
+    "summary": "GPT-6 Astra modeli Vending-Bench sinov to'plamida Claude Fable 5.1 modeliga qaraganda qariyb uch baravar ko'p daromad keltirdi. Shuningdek, u dron nazorati bo'yicha beshta topshiriqning barchasida inson ko'rsatkichidan o'zib ketgan birinchi model bo'ldi.",
+    "tags": [
+      "agentlar",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 24,
+    "published": "2026-09-13T10:52:16.000Z",
+    "created": "2026-09-13T12:54:46.687Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/gpt-6-astra-pilots-a-surveillance-drone-and-runs-a-business-on-its-own",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "4b9758d4d725",
     "slug": "xitoy-brics-davlatlarida-ai-hamkorligini-yetaklaydi-4b9758",
     "title": "Xitoy BRICS davlatlarida AI hamkorligini yetaklaydi",
