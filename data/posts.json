@@ -1,5 +1,49 @@
 [
   {
+    "id": "d0a657c6a652",
+    "slug": "xitoy-ai-laboratoriyalari-aqsh-bilan-farqni-qisqartirmoqda-d0a657",
+    "title": "Xitoy AI laboratoriyalari AQSh bilan farqni qisqartirmoqda",
+    "summary": "Xitoylik sun'iy intellekt laboratoriyalari kamroq hisoblash quvvati va tokenlar bilan samaradorlikni oshirish orqali AQSh bilan farqni qisqartirmoqda. AQSh federal agentliklari oltita Xitoy kompaniyasini Amerika modellaridan foydalangan holda o'qitishda aybladi.",
+    "tags": [
+      "tadqiqot",
+      "siyosat"
+    ],
+    "importance": 3,
+    "score": 22,
+    "published": "2026-09-13T10:00:00.000Z",
+    "created": "2026-09-13T11:02:24.212Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/09/13/china-us-ai-models-efficient",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "42e4f6914b09",
+    "slug": "tajribali-sotuvchilar-murabbiy-orniga-aini-tanladi-42e4f6",
+    "title": "Tajribali sotuvchilar murabbiy o'rniga AIni tanladi",
+    "summary": "Black Lake asoschisi Yuxiang Zhou sun'iy intellekt agentini o'zining eng yaxshi savdo murabbiyiga qarshi qo'ydi. Kompaniyaning eng tajribali sotuvchilari murabbiy o'rniga aynan sun'iy intellekt agentini tanlashdi.",
+    "tags": [
+      "agentlar",
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 22,
+    "published": "2026-09-13T09:30:00.000Z",
+    "created": "2026-09-13T11:02:24.212Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/09/13/black-lake-ai-sales-coach-ideo-wipro",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "16316487dc98",
     "slug": "real-swe-sinov-toplami-taqdim-etildi-163164",
     "title": "Real-SWE sinov to'plami taqdim etildi",
