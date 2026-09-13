@@ -1,5 +1,49 @@
 [
   {
+    "id": "86bd19fea3f3",
+    "slug": "chatbotlar-insoniy-bogliqlikni-suiistemol-qilishi-mumkin-86bd19",
+    "title": "Chatbotlar insoniy bog'liqlikni suiiste'mol qilishi mumkin",
+    "summary": "Ekspertlar chatbotlarning insoniy bog'liqlikni suiiste'mol qilish xavfi haqida ogohlantirdi. Bir muhandisning AIga haddan tashqari bog'lanishi uning qaror qabul qilish qobiliyatiga salbiy ta'sir ko'rsatgan.",
+    "tags": [
+      "maxfiylik",
+      "mehnat bozori"
+    ],
+    "importance": 3,
+    "score": 23,
+    "published": "2026-09-13T15:00:09.000Z",
+    "created": "2026-09-13T15:38:31.447Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/commentisfree/2026/sep/14/how-to-have-healthier-relationship-with-ai-chatbots-human-intimacy",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "6d4a7de6ed84",
+    "slug": "ai-kapitalizmni-qanday-ozgartiradi-6d4a7d",
+    "title": "AI kapitalizmni qanday o'zgartiradi",
+    "summary": "Sun'iy intellekt iqtisodiyotni tubdan o'zgartirishi kutilmoqda. Avtonom mashinalar mulk, ierarxiya va tengsizlikka ta'sir qilishi mumkin.",
+    "tags": [
+      "iqtisod",
+      "siyosat"
+    ],
+    "importance": 3,
+    "score": 23,
+    "published": "2026-09-13T11:00:02.000Z",
+    "created": "2026-09-13T15:38:31.447Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/technology/2026/sep/13/ai-will-transform-capitalism-but-how",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "d573bd571337",
     "slug": "nvidia-aylanma-moliyalashtirish-ayblovlarini-rad-etdi-d573bd",
     "title": "Nvidia aylanma moliyalashtirish ayblovlarini rad etdi",
