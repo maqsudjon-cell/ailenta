@@ -1,5 +1,48 @@
 [
   {
+    "id": "16316487dc98",
+    "slug": "real-swe-sinov-toplami-taqdim-etildi-163164",
+    "title": "Real-SWE sinov to'plami taqdim etildi",
+    "summary": "Real-SWE sun'iy intellekt modellarini xususiy va real korporativ kodlar bazasida sinovdan o'tkazish uchun yangi sinov to'plamidir. U modellarning haqiqiy dasturlash muhitidagi imkoniyatlarini baholashga yordam beradi.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 22.4,
+    "published": "2026-09-12T20:25:48.000Z",
+    "created": "2026-09-13T10:01:31.442Z",
+    "coverage": 1,
+    "source": {
+      "name": "Hacker News",
+      "url": "https://withspecific.com/benchmarks/real-swe",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "ac5f7c295c81",
+    "slug": "aini-taqiqlash-talabalar-natijasini-yomonlashtiradi-ac5f7c",
+    "title": "AIni taqiqlash talabalar natijasini yomonlashtiradi",
+    "summary": "Ikki yillik tadqiqot natijasiga ko'ra, sun'iy intellektdan foydalanish taqiqlangan talabalar eng past natija ko'rsatgan. Huquq professori AI taqiqlanishi, nazoratsiz ishlatilishi va tizimli o'qitishni solishtirdi. AI taqiqlangan guruh har ikki yilda ham oxirgi o'rinni egalladi.",
+    "tags": [
+      "ta'lim",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 18,
+    "published": "2026-09-13T09:27:01.000Z",
+    "created": "2026-09-13T10:01:31.442Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/two-year-university-study-finds-banning-ai-from-classrooms-leaves-students-worse-off",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "d75e27f1e59d",
     "slug": "britaniyada-ishsiz-yoshlar-uchun-ai-lageri-ochildi-d75e27",
     "title": "Britaniyada ishsiz yoshlar uchun AI lageri ochildi",
