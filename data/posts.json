@@ -1,5 +1,36 @@
 [
   {
+    "id": "538b0d26aee2",
+    "slug": "vashington-ai-qoidalarini-qabul-qilishga-shoshilmoqda-538b0d",
+    "title": "Vashington AI qoidalarini qabul qilishga shoshilmoqda",
+    "summary": "Vashington sun'iy intellekt uchun himoya choralarini qabul qilishga harakat qilmoqda. Vakillar Palatasi noyabr oyidagi oraliq saylovlargacha uyga jo'natilishi sababli, AI qonunchiligini qabul qilish uchun vaqt oz qoldi.",
+    "tags": [
+      "siyosat",
+      "qonun"
+    ],
+    "importance": 3,
+    "score": 31,
+    "published": "2026-09-13T17:48:53.000Z",
+    "created": "2026-09-13T22:31:50.730Z",
+    "coverage": 3,
+    "source": {
+      "name": "CNBC",
+      "url": "https://cnbc.com/2026/09/13/ai-congress-anthropic-openai-crisis.html",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "CNBC",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE43ZFdOcUNiZmFDbmRDV3RyN3ZxekV1S3BONUxRZ0twQWlCcFFublhOanpUS3VUaHNiZFBBQ2FiN08wZGxKMW5KTHB3SV9Nc0lYcjhMQTdZZjdkMUtZbzU5dG9aX0t6SWJTUGhLVkJjeGprc2NkbUVtS1RHUk_SAYIBQVVfeXFMTjRGRTZPVklWdGtRb1N3NF8yZlBfTmxSNjZnRHp1WE5ybzZlZXJMZWdNT3JmbGJnTjlQR1JFbEhkQUxzZkdfNGZNeVJkYklSdDd4NGVRdkRBdmZrRi1CS1F5Z2sxZmpFYTlSb0o1WlBiTWI1Z3djM1dUeVFjRlJETjR6Zw"
+      },
+      {
+        "name": "ad-hoc-news.de",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOUFNqNHpGR3FrcERDUkxSMlpySFJXalhrWlBjaVdPNGpsNWRlRG5HVGhSQndyTzd2STBmRzRwb3o3MzFLcUIyZXk4ejNST3hmWU0wZjNsTHh0M095N2Z2bGJSQXhacE9Ed2pIS0NLNzhJRGZfanM2bWROWk90cFp2enNNUkxkMm1scVQtSm9hZ3I5VnNMdmlfSWlDZ25QZDNlSGJYZzhUejh6T2dsWFJ6Tkdsc21KOGdwTVpWQ1BXdFlVTlpCbU9VbmRvQTVDYWtUSDFSRi1fOVlkNGM"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
     "id": "0954826ab0f8",
     "slug": "fors-korfazi-har-ikki-ai-blokiga-pul-tikmoqda-095482",
     "title": "Fors ko'rfazi har ikki AI blokiga pul tikmoqda",
