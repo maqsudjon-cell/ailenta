@@ -1,5 +1,70 @@
 [
   {
+    "id": "a76ae3778f74",
+    "slug": "qirol-charlz-ai-yetakchilari-bilan-uchrashuv-otkazadi-a76ae3",
+    "title": "Qirol Charlz AI yetakchilari bilan uchrashuv o'tkazadi",
+    "summary": "Buyuk Britaniya qiroli Charlz sun'iy intellekt sohasi yetakchilari bilan uchrashuv o'tkazishni rejalashtirmoqda. Ushbu uchrashuv sohada xavf-xatarlar haqidagi ogohlantirishlar ko'payayotgan bir paytda alohida ahamiyat kasb etadi.",
+    "tags": [
+      "siyosat"
+    ],
+    "importance": 3,
+    "score": 23,
+    "published": "2026-09-14T12:58:00.000Z",
+    "created": "2026-09-14T13:23:56.533Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Washington Post",
+      "url": "https://washingtonpost.com/world/2026/09/14/king-charles-host-ai-leaders-disaster-warnings-mount",
+      "title": "King Charles to host AI leaders as disaster warnings mount",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "f4ff1c898cac",
+    "slug": "microsoft-kelajakdagi-ai-modellari-uchun-cheklovlar-qoyadi-f4ff1c",
+    "title": "Microsoft kelajakdagi AI modellari uchun cheklovlar qo'yadi",
+    "summary": "Microsoft o'zining kelajakdagi sun'iy intellekt modellari uchun cheklovlar joriy etmoqda. Kompaniya Anthropic va OpenAI kabi hamkorlari bilan birga model yaratishni kengaytirar ekan, mas'uliyatli AI tashkiloti sifatida ko'rinishni maqsad qilgan.",
+    "tags": [
+      "Microsoft",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 28,
+    "published": "2026-09-14T13:09:31.000Z",
+    "created": "2026-09-14T13:24:01.269Z",
+    "coverage": 1,
+    "source": {
+      "name": "CNBC",
+      "url": "https://cnbc.com/2026/09/14/microsoft-ai-model-limits-anthropic-openai.html",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "768d4b475a26",
+    "slug": "maxfiy-malumotlar-ai-oqsil-modellarini-kuchaytirmoqda-768d4b",
+    "title": "Maxfiy ma'lumotlar AI oqsil modellarini kuchaytirmoqda",
+    "summary": "Farmatsevtika kompaniyalarining maxfiy ma'lumotlari sun'iy intellektning oqsil modellarini yanada kuchaytirmoqda. Bu haqda Nature nashri xabar berdi.",
+    "tags": [
+      "tibbiyot"
+    ],
+    "importance": 3,
+    "score": 22.4,
+    "published": "2026-09-14T00:00:00.000Z",
+    "created": "2026-09-14T13:24:01.269Z",
+    "coverage": 1,
+    "source": {
+      "name": "Nature",
+      "url": "https://nature.com/articles/d41586-026-02882-x",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "683824e43ae1",
     "slug": "ozbekistonda-elektromobil-importi-oshdi-683824",
     "title": "O'zbekistonda elektromobil importi oshdi",
