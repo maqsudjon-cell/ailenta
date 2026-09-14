@@ -1,5 +1,48 @@
 [
   {
+    "id": "727aa85020d0",
+    "slug": "ai-sanoati-sababli-xavfli-kimyoviy-moddalar-kopaymoqda-727aa8",
+    "title": "AI sanoati sababli xavfli kimyoviy moddalar ko'paymoqda",
+    "summary": "Faollar AI ma'lumotlar markazlari ehtiyojini qondirish uchun ishlab chiqaruvchilar PFAS deb ataluvchi xavfli kimyoviy moddalarni ko'p miqdorda ishlab chiqarishni rejalashtirayotganidan ogohlantirdi. Saraton bilan bog'liq ushbu moddalarni ishlab chiqaruvchi 10 ta eng yirik kompaniyaning aksariyati ishlab chiqarishni oshirishni rejalashtirmoqda.",
+    "tags": [
+      "biznes",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 23,
+    "published": "2026-09-14T06:00:26.000Z",
+    "created": "2026-09-14T06:36:45.615Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/environment/2026/sep/14/pfas-firms-tidal-wave-forever-chemicals-ai-industry-demand-datacentres",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "f667992fcc87",
+    "slug": "gartner-ai-va-uning-targibotchilari-biznesga-tayyor-emas-f66799",
+    "title": "Gartner: AI va uning targ'ibotchilari biznesga tayyor emas",
+    "summary": "Gartner tadqiqot kompaniyasi sun'iy intellekt va uning asosiy targ'ibotchilari hali korxonalar uchun tayyor emasligini ma'lum qildi. Tashkilotga ko'ra, model yaratuvchilari juda tez harakat qilmoqda va biror narsani buzib qo'yishganda bunga e'tibor qaratishmayapti.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 22,
+    "published": "2026-09-14T05:11:19.000Z",
+    "created": "2026-09-14T06:36:45.615Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/ai-and-ml/2026/09/14/ai-and-its-main-promoters-are-not-enterprise-ready-says-gartner/5296074",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "9687a42d6ac4",
     "slug": "ssenariynavislar-ai-yordamida-girromlik-qilayotgani-aytildi-9687a4",
     "title": "Ssenariynavislar AI yordamida g'irromlik qilayotgani aytildi",
