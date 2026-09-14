@@ -1,5 +1,76 @@
 [
   {
+    "id": "2b73f80f3cc3",
+    "slug": "deputatlar-ai-tahdidiga-qarshi-qonun-qabul-qilishga-chaqirdi-2b73f8",
+    "title": "Deputatlar AI tahdidiga qarshi qonun qabul qilishga chaqirdi",
+    "summary": "Deputatlar va lordlar guruhi amaldagi qonunlar qamrab olmagan inson huquqlari xavflarini aniqladi. Ular sun'iy intellekt tahdidlariga qarshi kurashish uchun qonun loyihasini qabul qilishga chaqirmoqda.",
+    "tags": [
+      "qonun",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 32,
+    "published": "2026-09-14T03:23:54.000Z",
+    "created": "2026-09-14T05:01:25.788Z",
+    "coverage": 2,
+    "source": {
+      "name": "BBC News",
+      "url": "https://bbc.co.uk/news/articles/cwyzvgj70y4o?at_medium=RSS&at_campaign=rss",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "LiveNOW from FOX",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5admEwV0ZzWXJXMXdHTm1PSGN1RjdyTmVYeThuVEFBRmI0MHdkNUczRmh6QVE0UkJzSVpKc1lpX1JHTFVaLVZybU9YaWxfNDRfd1hyMWI4d0dNNmtnMDl0LUwwNNIBaEFVX3lxTE1JR1hmbG0xQkdlU2dQc05WWlppU1NLMWI2Sk9QN1ExblBHWEJlRlNBc1RrUjg2Z0dYQXNqZnN1Ri01eUhNZE1Tb1JMWDl6NG9TWktldjZfVWlXeHdrNV8yWnZtLXlSSFp1"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "2cbfd96992be",
+    "slug": "anthropic-joriy-chorakda-operatsion-foyda-kutmoqda-2cbfd9",
+    "title": "Anthropic joriy chorakda operatsion foyda kutmoqda",
+    "summary": "Financial Times nashrining xabar berishicha, Anthropic kompaniyasi joriy chorakda operatsion foyda olishni kutmoqda. Bu haqda Bloomberg xabar berdi.",
+    "tags": [
+      "Anthropic",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 27,
+    "published": "2026-09-13T23:41:43.000Z",
+    "created": "2026-09-14T05:01:25.788Z",
+    "coverage": 1,
+    "source": {
+      "name": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMGV3bGNRVEstaHRTWTJid0RqME9NUFdlQ0d5OHZnbnpKMWRBMFV5dzg4dlRxa2xhNTZrYXdSdll4TkFWY0M1T2c0YVJmSW9nV3Azd1Y5V29pZWVpVGp6WUJKWWVwc3ZQS0E3RUF0VkFxeHlSMnBjeFBicEtvcVFXRFMtbXB4OXAwMnotR1kza041UXR6dGs0akZUZUpHREpTQWxVcHR1VGRaV2FVbEE0UFBB",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "1ccfa6a4e947",
+    "slug": "xavfsizlik-uchun-muhim-vaziyatlarda-ai-uchun-yangi-usul-1ccfa6",
+    "title": "Xavfsizlik uchun muhim vaziyatlarda AI uchun yangi usul",
+    "summary": "HardFlow algoritmi generativ AI modellariga qat'iy talablarga rioya qilgan holda yuqori sifatli natijalar chiqarishga yordam beradi. Bu usul xavfsizlik nuqtai nazaridan o'ta muhim vaziyatlarda qo'llaniladi.",
+    "tags": [
+      "tadqiqot",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-09-14T04:00:00.000Z",
+    "created": "2026-09-14T05:01:25.788Z",
+    "coverage": 1,
+    "source": {
+      "name": "MIT News",
+      "url": "https://news.mit.edu/2026/new-method-enables-ai-safety-critical-situations-0914",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "c08bc791f3d4",
     "slug": "ai-xodimlari-insoniyat-kelajagidan-qorqmoqda-c08bc7",
     "title": "AI xodimlari insoniyat kelajagidan qo'rqmoqda",
