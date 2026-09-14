@@ -1,5 +1,76 @@
 [
   {
+    "id": "68550e809ed4",
+    "slug": "avstraliya-ai-hujumlariga-qarshi-zaif-68550e",
+    "title": "Avstraliya AI hujumlariga qarshi zaif",
+    "summary": "Avstraliya razvedka agentligi mamlakatning eskirgan texnologiyalari AI hujumlariga duchor bo'lishi mumkinligidan ogohlantirdi. Hukumat AI rivojlanishini nazorat qilish choralarini muhokama qilmoqda.",
+    "tags": [
+      "xavfsizlik"
+    ],
+    "importance": 2,
+    "score": 32,
+    "published": "2026-09-14T15:00:10.000Z",
+    "created": "2026-09-14T15:01:38.396Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/australia-news/2026/sep/15/australias-outdated-technology-is-vulnerable-to-ai-hacking-attacks-signals-chief-says",
+      "title": "Australia’s outdated technology is vulnerable to AI hacking attacks, signals chief says",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "9fe82e237d64",
+    "slug": "ibm-oliy-talimda-masuliyatli-ai-vebinari-9fe82e",
+    "title": "IBM: Oliy ta'limda mas'uliyatli AI vebinari",
+    "summary": "IBM kompaniyasi AI turlari, xavotirlari va mas'uliyatli AI yondashuvini tushuntirish uchun vebinar tashkil etadi. Unda talabalarga yo'l-yo'riqlar beriladi.",
+    "tags": [
+      "IBM",
+      "ta'lim"
+    ],
+    "importance": 1,
+    "score": 22,
+    "published": "2026-09-14T14:18:11.000Z",
+    "created": "2026-09-14T15:01:40.149Z",
+    "coverage": 1,
+    "source": {
+      "name": "IEEE Spectrum",
+      "url": "https://webinars.on24.com/wileyevents/ResponsibleAI",
+      "title": "Responsible AI for Higher Education",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "50b0e52b9836",
+    "slug": "tramp-aini-nazorat-qilish-chaqiriqlarini-rad-etdi-50b0e5",
+    "title": "Tramp AI'ni nazorat qilish chaqiriqlarini rad etdi",
+    "summary": "Donald Tramp AI rivojlanishini cheklash chaqiriqlarini \"kasal fitna\" deb atadi. Uning fikricha, AI'ga faqat \"kuchli va aqlli prezident\" kerak.",
+    "tags": [
+      "siyosat"
+    ],
+    "importance": 3,
+    "score": 35,
+    "published": "2026-09-14T14:54:00.000Z",
+    "created": "2026-09-14T15:01:45.118Z",
+    "coverage": 2,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/business/2026/sep/14/ai-linked-stocks-fall-tech-bosses-call-slowdown-anthropic-openai",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "WFSB",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNYUdDeU82VFNhM3ktOWJJNU41TVpzbFdlcDV3SjNWZy1OYUVFelN3X0E2UVhTTWlLVXMyX1NCVjRFUXYwcjM4X0VoWU5tY1YtenkzbzlaRGdkeWM1NFctS2FXNlNsaGZpemNuc1ZRaWM0aGZmTVBWQ21keDY3ck5PQnBYZUJUakJKNVZ3aVdhcVVyZEJQbF9EbzFmcGxIOU1ETnRYM2Nvb1REbTk0U1lySWlnaFdESVVfaE9vVNIB0AFBVV95cUxQWFdmalQwSk4tV01nMUNJV0tEakVkS1NpX2tQNGJfRjBVRUhublZhSUtiWTVLZnpmMTlkR1JUUzlWektTc01EX01tdVNRMDZ5MUt5U29KMFpXNHFZU0JBcGMzXzE4VFBoUE5CWmVnR2JjdXFKcENvQ05jcnVHb0FZLWNoMlNJV0l3VTE0c25Xd1pHSUs3NVRnYnktTE9yTkw5M0pIYkpYY2cxUGRqNGl6bklZWWowc3hmSFdDaWdnVm16c3UwdjBrRnBjc0JzU1Yt"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
     "id": "9dd6c42f42c2",
     "slug": "baa-5-gigavattli-ai-malumot-markazi-qurmoqda-9dd6c4",
     "title": "BAA 5 gigavattli AI ma'lumot markazi qurmoqda",
