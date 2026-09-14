@@ -1,5 +1,58 @@
 [
   {
+    "id": "ecfaac3c4b8c",
+    "slug": "broadcom-ai-infratuzilmasiga-talab-yuqoriligini-malum-qildi-ecfaac",
+    "title": "Broadcom AI infratuzilmasiga talab yuqoriligini ma'lum qildi",
+    "summary": "Broadcom rahbari Xok Tan kuchli modellar bo'yicha xavotirlarga qaramay, AI infratuzilmasiga talab kuchli bo'lib qolayotganini aytdi. Kompaniyaning daromad maqsadlari o'zgarmagan.",
+    "tags": [
+      "biznes",
+      "chiplar"
+    ],
+    "importance": 3,
+    "score": 25,
+    "published": "2026-09-14T22:43:25.000Z",
+    "created": "2026-09-14T23:01:18.083Z",
+    "coverage": 2,
+    "source": {
+      "name": "CNBC",
+      "url": "https://cnbc.com/2026/09/14/broadcom-ceo-on-anthropics-slowdown-push-ai-revenue-targets-havent-changed.html",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "CNBC",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOamtMaEl3OW04aFdDZXY3Q0tDMnRWWHNna3h1ak5HTi1INUZIX0h6R1g1Z0JKOC1NSkR1R3VCVUFzTktFR0g0T2V4QzNRQkgtRlZ4YUltRGc0eGdITDhCY3N4M1VaRU5Nd2w1TWJXMnNSNTZPRHBkTUwwM0lUZkhmU1VzNnhtUXl2TTlPcGJ3c2NabEhmTDA3RGNaMGtKTmQzZG1hdm1sbzBDRHlmYXNZZ9IBtgFBVV95cUxQRk56b2o1TFpzTnZKNGpOVm5QeUxNZzk4SC11d1FGUnNNX1ltU0lTaGdYQjB4Qjl5aExrTjVJQ0xpWlVVQ2tqdGE4UU1tajBRZWM5NWVMVXJvcU1zZFFGX254NzV3V3RSLUVUR0E0VVc5REZxM01WbE9IZi1FWkNiaW5VbGJXbmtsdXQyS3Z4d0FNd2VlSDdJRlZDRDJZQnp1dmhyc2hQVDBBMENxaUlYc05IcHhfQQ"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "d373b32b5b27",
+    "slug": "crowdstrike-rahbari-ai-rivojlanishini-sekinlashtirishga-qars-d373b3",
+    "title": "CrowdStrike rahbari AI rivojlanishini sekinlashtirishga qarshi",
+    "summary": "CrowdStrike bosh direktori Jorj Kurs AI rivojlanishini sekinlashtirish xavflarni bartaraf etmasligini ma'lum qildi. Uning so'zlariga ko'ra, xavfli bo'lishi mumkin bo'lgan modellar allaqachon keng tarqalib ulgurgan.",
+    "tags": [
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 25,
+    "published": "2026-09-14T22:41:44.000Z",
+    "created": "2026-09-14T23:01:18.083Z",
+    "coverage": 2,
+    "source": {
+      "name": "CNBC",
+      "url": "https://cnbc.com/2026/09/14/crowdstrike-ceo-anthropics-ai-safety-warning.html",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "CNBC",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbXAxVnBaX2h3RWVkOWo4Z0Zsb1NvYjBjOGw5UEltcjE4RVp0T1psMFd3UVlrVUd1V2lMZXB4bnREdGFpSkFnWFlhMDV3S2dJMVJDa0tnSnNoTzFvZHYzZEwyVy11cVd5TEdsNFhpRGFaRjFpRXZCdGlGQ0FWSGhJUHpPWUFFaFhx0gGOAUFVX3lxTE5lSVVSSENyQzdFYXl1WTl5OXpfc08wZW1wb3A5eFhGanhadHJETGdhN1MycGNDS0xqblhEY2otaXRrbng3UENDSmQwUzFQWW9fT2hwbkFXdFdyQ25Xa3c5MlRBUC1FY2U1eXplc09tc3lnNkRMZ3hPaEZuZ1REMXpFUTItMVJPQ0V5NW5zTlE"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
     "id": "88c921916ab8",
     "slug": "cornelis-nvidia-bilan-raqobatga-205-mln-dollar-jalb-qildi-88c921",
     "title": "Cornelis Nvidia bilan raqobatga 205 mln dollar jalb qildi",
