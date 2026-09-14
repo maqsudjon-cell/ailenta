@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://ailenta.uz/x/anthropic-chaqirigi-pekinni-gazablantirdi-ae494b/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>AI Lenta</news:name>
+        <news:language>uz</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-14T15:11:15.000Z</news:publication_date>
+      <news:title>Anthropic chaqirig'i Pekinni g'azablantirdi</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://ailenta.uz/x/perplexity-portable-computer-windowsda-nvidia-rtx-bilan-f447d8/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>AI Lenta</news:name>
+        <news:language>uz</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-14T15:00:52.000Z</news:publication_date>
+      <news:title>Perplexity Portable Computer Windows'da, Nvidia RTX bilan</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://ailenta.uz/x/avstraliya-ai-hujumlariga-qarshi-zaif-68550e/</loc>
     <news:news>
       <news:publication>
@@ -32,6 +54,17 @@
       </news:publication>
       <news:publication_date>2026-09-14T14:18:11.000Z</news:publication_date>
       <news:title>IBM: Oliy ta'limda mas'uliyatli AI vebinari</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://ailenta.uz/x/openai-britaniya-qonunchilarini-aini-cheklashga-chaqirdi-19e741/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>AI Lenta</news:name>
+        <news:language>uz</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-14T14:01:58.000Z</news:publication_date>
+      <news:title>OpenAI Britaniya qonunchilarini AI'ni cheklashga chaqirdi</news:title>
     </news:news>
   </url>
   <url>
@@ -769,28 +802,6 @@
       </news:publication>
       <news:publication_date>2026-09-12T16:25:01.000Z</news:publication_date>
       <news:title>AQSh sud tizimi AI bilan bog'liq ishlarda qiynalmoqda</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://ailenta.uz/x/tramp-aqsh-ustunligini-saqlash-uchun-aini-cheklamaydi-07ad13/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>AI Lenta</news:name>
-        <news:language>uz</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-12T15:30:02.000Z</news:publication_date>
-      <news:title>Tramp AQSh ustunligini saqlash uchun AIni cheklamaydi</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://ailenta.uz/x/anthropic-uchinchi-tomon-ekspertlariga-doimiy-ruxsat-beradi-ad3967/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>AI Lenta</news:name>
-        <news:language>uz</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-12T15:05:05.000Z</news:publication_date>
-      <news:title>Anthropic uchinchi tomon ekspertlariga doimiy ruxsat beradi</news:title>
     </news:news>
   </url>
 </urlset>

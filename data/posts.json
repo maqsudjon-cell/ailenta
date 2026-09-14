@@ -1,5 +1,76 @@
 [
   {
+    "id": "f447d8cbcd59",
+    "slug": "perplexity-portable-computer-windowsda-nvidia-rtx-bilan-f447d8",
+    "title": "Perplexity Portable Computer Windows'da, Nvidia RTX bilan",
+    "summary": "Perplexity Portable Computer endi Windows'da mavjud. Nvidia GPU'lari bilan tezlashtirilgan bu lokal agent ko'p bosqichli vazifalarni kompyuterda bajaradi. U ma'lumotlarni tahlil qilib, maxfiy axborotni qurilmada saqlaydi.",
+    "tags": [
+      "Nvidia",
+      "agentlar"
+    ],
+    "importance": 3,
+    "score": 39,
+    "published": "2026-09-14T15:00:52.000Z",
+    "created": "2026-09-14T15:37:17.487Z",
+    "coverage": 1,
+    "source": {
+      "name": "Nvidia",
+      "url": "https://blogs.nvidia.com/blog/local-ai-perplexity-windows-pcs",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "19e74150bd7d",
+    "slug": "openai-britaniya-qonunchilarini-aini-cheklashga-chaqirdi-19e741",
+    "title": "OpenAI Britaniya qonunchilarini AI'ni cheklashga chaqirdi",
+    "summary": "OpenAI Britaniya qonunchilarini AI xavfsizligi bo'yicha qonunlar qabul qilishga undadi. Kompaniya hukumatni texnologiyani cheklash uchun zudlik bilan harakat qilishga chaqirmoqda.",
+    "tags": [
+      "OpenAI",
+      "qonun"
+    ],
+    "importance": 4,
+    "score": 38,
+    "published": "2026-09-14T14:01:58.000Z",
+    "created": "2026-09-14T15:37:17.487Z",
+    "coverage": 2,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/technology/2026/sep/14/ai-regulation-anthropic-uk-human-rights-committee-mps-lords",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "theguardian.com",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQUg4LUJwelRmLTNXSzNpUFJOSTJKMWlPYVNLeW9mc01ScF9jMmlEeUFsOGRmSER6STRvd0Y4YVFCV04xNUltMkdYQVZBQjAzLWczQzFuclpkOXB5c3FZTEVIc2syaEg4REhhMlVnelh6ZnhYd1ZzYmk3WVFSdTB1Z1NRYnhmajhvbVI3dlZ6MmxPc2dhMURVdlRNbjM3RFBrcnF5bnFyQ1FpcW5id1Jv"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "ae494b612f0a",
+    "slug": "anthropic-chaqirigi-pekinni-gazablantirdi-ae494b",
+    "title": "Anthropic chaqirig'i Pekinni g'azablantirdi",
+    "summary": "Anthropic kompaniyasining AI rivojlanishini sekinlashtirish chaqirig'i Pekinni g'azablantirdi. Bu holat \"AI Sovuq urushi\"ga olib kelishi mumkinligi aytilmoqda.",
+    "tags": [
+      "Anthropic",
+      "siyosat"
+    ],
+    "importance": 3,
+    "score": 27,
+    "published": "2026-09-14T15:11:15.000Z",
+    "created": "2026-09-14T15:37:17.487Z",
+    "coverage": 1,
+    "source": {
+      "name": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5XMEkwZ3I2bTVFa0dPWkNJMXRITUlIeG4yOUVMTVBDUk1GMDZsV29JSTFuQmdXVGh5WDJVTU1MbHhXVDV2TjVlWlFxR1hWTHlIMjl2YURoSEhMTmVleGJmeVJVNm9pYjQ",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "68550e809ed4",
     "slug": "avstraliya-ai-hujumlariga-qarshi-zaif-68550e",
     "title": "Avstraliya AI hujumlariga qarshi zaif",
