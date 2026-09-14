@@ -1,5 +1,77 @@
 [
   {
+    "id": "310d4fd0496b",
+    "slug": "pion-har-qanday-kompaniyani-avtonom-boshqaruvchi-agent-310d4f",
+    "title": "Pion — har qanday kompaniyani avtonom boshqaruvchi agent",
+    "summary": "Pion deb nomlangan yangi AI agenti har qanday kompaniyani avtonom tarzda boshqarish uchun mo'ljallangan. U biznes jarayonlarini mustaqil ravishda amalga oshirish imkoniyatiga ega.",
+    "tags": [
+      "agentlar",
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 23,
+    "published": "2026-09-14T17:16:06.000Z",
+    "created": "2026-09-14T21:37:15.811Z",
+    "coverage": 1,
+    "source": {
+      "name": "Hacker News",
+      "url": "https://andonlabs.com/blog/why-we-built-pion",
+      "title": "Pion, an agent designed to run any company autonomously",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "d11b347a1f7b",
+    "slug": "anthropic-sobiq-xodimi-ai-insoniyatga-tahdid-solishi-haqida-d11b34",
+    "title": "Anthropic sobiq xodimi AI insoniyatga tahdid solishi haqida",
+    "summary": "Anthropic kompaniyasining sobiq xodimi sun'iy intellekt insoniyatga qanday tahdid solishi mumkinligi haqida video intervyu berdi. U AI xavf-xatarlari borasida o'z fikrlarini bildirdi.",
+    "tags": [
+      "Anthropic",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 36,
+    "published": "2026-09-14T18:32:37.000Z",
+    "created": "2026-09-14T21:37:38.410Z",
+    "coverage": 2,
+    "source": {
+      "name": "The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQY19HazYzTC1tSERRTjNtMzdmNzl3QnRVaEg3czV3djNjVkozTG1kYXBCUHdXYkxydFRoYllaNk9wR0hNVEFIWkpFeGFtdHpvWUNOMTJHa3IyNzlYRXduMUpNdDI2VnN0dUd1Yy1SM1N3a2pmaWd5ZlhlaHJFLUF4ekh4QVVQcDhQQTZQRDk3QW56MXhwWkdJS21PT056OUhDSXJZdDVhbU9iaXpwYmZEZm0xOU1ORW1fZlh1NTNLbm1DUEU",
+      "indirect": true
+    },
+    "also": [
+      {
+        "name": "The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPalRpaDlIN2prS0p0MjZhZXFSdTU3VzhlT3RielpDdnY3OVFQTHJDUXdkN0cxNWYzOUwxZUs1MEtVR29zT3BMdnZaQ0N6QlNZQ0hFTi03YmVyMjhCc0R1dGdocGtiM08yc3ozVFJxNnNaaG11LVpVMWJzSlJlRnp5ZEM0Y2dfU1RSRTVJdzdHRFZ0RnlCWk5NU2hTbkU2TXA2NDBvZjBPTmtaeUJLb2h4eHY3SDdlUC1tZ2w2d085V2RnbFhm"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "51fa59b3b1e6",
+    "slug": "xitoy-ai-boyicha-yomon-raqobat-goyasini-tanqid-qildi-51fa59",
+    "title": "Xitoy AI bo'yicha \"yomon raqobat\" g'oyasini tanqid qildi",
+    "summary": "Xitoy sun'iy intellekt sohasida \"yomon raqobat\" mavjudligi haqidagi g'oyani tanqid qildi. Mamlakat bu kabi fikrlarni asossiz deb hisoblaydi.",
+    "tags": [
+      "siyosat",
+      "Xitoy"
+    ],
+    "importance": 3,
+    "score": 23,
+    "published": "2026-09-14T11:31:39.000Z",
+    "created": "2026-09-14T21:37:38.410Z",
+    "coverage": 1,
+    "source": {
+      "name": "BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBaeDNXTE9VVG9wOHgwdFBZdmtwNHZYOUlPbEVJWUluWHFJdFpldEl6TGxsbXNuSGlDNlQyOGV3VS1QMHZBbVozOXpmLXNBM0xJdWNzcFRRczhZdw",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "c7c16d0a124a",
     "slug": "xitoy-razvedkasi-aini-milliy-xavfsizlikka-tahdid-deb-bildi-c7c16d",
     "title": "Xitoy razvedkasi AI'ni milliy xavfsizlikka tahdid deb bildi",

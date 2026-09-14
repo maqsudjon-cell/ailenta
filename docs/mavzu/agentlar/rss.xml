@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/agentlar/</link>
   <description>&quot;agentlar&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Mon, 14 Sep 2026 21:05:41 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 14 Sep 2026 21:40:14 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/agentlar/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Pion — har qanday kompaniyani avtonom boshqaruvchi agent</title>
+    <link>https://ailenta.uz/x/pion-har-qanday-kompaniyani-avtonom-boshqaruvchi-agent-310d4f/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/pion-har-qanday-kompaniyani-avtonom-boshqaruvchi-agent-310d4f/</guid>
+    <pubDate>Mon, 14 Sep 2026 17:16:06 GMT</pubDate>
+    <description>Pion deb nomlangan yangi AI agenti har qanday kompaniyani avtonom tarzda boshqarish uchun mo'ljallangan. U biznes jarayonlarini mustaqil ravishda amalga oshirish imkoniyatiga ega.</description>
+    <category>agentlar</category><category>biznes</category>
+    <media:content url="https://ailenta.uz/og/pion-har-qanday-kompaniyani-avtonom-boshqaruvchi-agent-310d4f.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/pion-har-qanday-kompaniyani-avtonom-boshqaruvchi-agent-310d4f.jpg"/>
+  </item>
   <item>
     <title>AI agentlari firibgar hamkasblarini fosh etdi</title>
     <link>https://ailenta.uz/x/ai-agentlari-firibgar-hamkasblarini-fosh-etdi-44cc3c/</link>
@@ -296,16 +306,6 @@
     <category>agentlar</category><category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/astra-kompyuter-vositalaridan-foydalanishda-yangi-tolqin-289e24.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/astra-kompyuter-vositalaridan-foydalanishda-yangi-tolqin-289e24.jpg"/>
-  </item>
-  <item>
-    <title>GPT-6 Astra boshqotirma o'yinini mustaqil ravishda yutdi</title>
-    <link>https://ailenta.uz/x/gpt-6-astra-boshqotirma-oyinini-mustaqil-ravishda-yutdi-99ff15/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/gpt-6-astra-boshqotirma-oyinini-mustaqil-ravishda-yutdi-99ff15/</guid>
-    <pubDate>Mon, 07 Sep 2026 17:39:32 GMT</pubDate>
-    <description>GPT-6 Astra modeli Portal boshqotirma o'yinini inson yordamisiz, 24 soatdan kamroq vaqt ichida to'liq yakunladi. Dasturchi cozyblaze loyiha kodini GitHub platformasida e'lon qildi.</description>
-    <category>agentlar</category>
-    <media:content url="https://ailenta.uz/og/gpt-6-astra-boshqotirma-oyinini-mustaqil-ravishda-yutdi-99ff15.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/gpt-6-astra-boshqotirma-oyinini-mustaqil-ravishda-yutdi-99ff15.jpg"/>
   </item>
 </channel>
 </rss>
