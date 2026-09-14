@@ -1,5 +1,71 @@
 [
   {
+    "id": "c7c16d0a124a",
+    "slug": "xitoy-razvedkasi-aini-milliy-xavfsizlikka-tahdid-deb-bildi-c7c16d",
+    "title": "Xitoy razvedkasi AI'ni milliy xavfsizlikka tahdid deb bildi",
+    "summary": "Xitoy Davlat xavfsizlik vazirligi rahbari Chen Isin sun'iy intellekt mamlakat xavfsizligiga jiddiy xavf tug'dirishi haqida ogohlantirdi. Uning ta'kidlashicha, xorijiy kuchlar ushbu texnologiyadan axborot urushi, kiberhujumlar va maxfiy ma'lumotlarni yig'ishda foydalanmoqda.",
+    "tags": [
+      "siyosat",
+      "xavfsizlik"
+    ],
+    "importance": 4,
+    "score": 48,
+    "published": "2026-09-14T18:26:35.000Z",
+    "created": "2026-09-14T19:31:32.920Z",
+    "coverage": 1,
+    "source": {
+      "name": "Kun.uz",
+      "url": "https://kun.uz/news/2026/09/14/xitoy-razvedkasi-rahbari-suniy-intellektni-milliy-xavfsizlikka-tahdid-deb-atadi",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "ff9d56b7b095",
+    "slug": "ai-uchun-majburiy-ochirish-tugmasi-joriy-etilishi-mumkin-ff9d56",
+    "title": "AI uchun majburiy o'chirish tugmasi joriy etilishi mumkin",
+    "summary": "Anthropic hammuassisi Jek Klark sun'iy intellekt laboratoriyalari uchun tizimni majburiy o'chirish mexanizmi talab qilinishi mumkinligini ma'lum qildi. Uning so'zlariga ko'ra, hozirda aksariyat laboratoriyalarda tizimni tarmoqdan uzishning turli xil usullari mavjud.",
+    "tags": [
+      "Anthropic",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 26,
+    "published": "2026-09-14T18:54:16.000Z",
+    "created": "2026-09-14T19:31:32.920Z",
+    "coverage": 1,
+    "source": {
+      "name": "BBC News",
+      "url": "https://bbc.co.uk/news/articles/cqgk5e2j0gg8o?at_medium=RSS&at_campaign=rss",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "16a2a8e1d0a5",
+    "slug": "yevropa-oz-ai-texnologiyasini-yaratishi-kerak-16a2a8",
+    "title": "Yevropa o'z AI texnologiyasini yaratishi kerak",
+    "summary": "Yevropa markaziy banki rahbari Kristin Lagard mintaqa AQSh yoki Xitoydan uzilib qolish xavfining oldini olishi uchun o'z sun'iy intellekt modellarini va ma'lumotlar markazlarini qurishi kerakligini aytdi. Aks holda, bu qaramlik savdo muzokaralarida boshqalarga ustunlik beradi.",
+    "tags": [
+      "siyosat",
+      "iqtisod"
+    ],
+    "importance": 4,
+    "score": 23,
+    "published": "2026-09-14T18:41:13.000Z",
+    "created": "2026-09-14T19:31:32.920Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/technology/2026/sep/14/europe-ai-datacentres-growth-us-china-ecb-christine-lagarde",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "44cc3cd3a8dc",
     "slug": "ai-agentlari-firibgar-hamkasblarini-fosh-etdi-44cc3c",
     "title": "AI agentlari firibgar hamkasblarini fosh etdi",
