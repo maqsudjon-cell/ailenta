@@ -1,9 +1,9 @@
 [
   {
     "id": "727aa85020d0",
-    "slug": "ai-sanoati-sababli-xavfli-kimyoviy-moddalar-kopaymoqda-727aa8",
-    "title": "AI sanoati sababli xavfli kimyoviy moddalar ko'paymoqda",
-    "summary": "Faollar AI ma'lumotlar markazlari ehtiyojini qondirish uchun ishlab chiqaruvchilar PFAS deb ataluvchi xavfli kimyoviy moddalarni ko'p miqdorda ishlab chiqarishni rejalashtirayotganidan ogohlantirdi. Saraton bilan bog'liq ushbu moddalarni ishlab chiqaruvchi 10 ta eng yirik kompaniyaning aksariyati ishlab chiqarishni oshirishni rejalashtirmoqda.",
+    "slug": "ai-sanoati-uchun-pfas-kimyoviy-moddalari-kopaymoqda-727aa8",
+    "title": "AI sanoati uchun PFAS kimyoviy moddalari ko'paymoqda",
+    "summary": "Kampaniyalar AI sanoati talabini qondirish uchun PFAS (\"abadiy kimyoviy moddalar\") ishlab chiqarish keskin oshirilayotganidan ogohlantirdi. Bu moddalar saraton bilan bog'liq bo'lishiga qaramay, ishlab chiqaruvchilar ishlab chiqarishni ko'paytirishni rejalashtirmoqda.",
     "tags": [
       "biznes",
       "xavfsizlik"
@@ -11,32 +11,136 @@
     "importance": 3,
     "score": 23,
     "published": "2026-09-14T06:00:26.000Z",
-    "created": "2026-09-14T06:36:45.615Z",
+    "created": "2026-09-14T06:40:50.974Z",
     "coverage": 1,
     "source": {
       "name": "The Guardian",
       "url": "https://theguardian.com/environment/2026/sep/14/pfas-firms-tidal-wave-forever-chemicals-ai-industry-demand-datacentres",
+      "title": "‘Tidal wave’ of Pfas being launched to satisfy AI industry, campaigners warn",
       "indirect": false
     },
     "also": [],
     "model": "gemini"
   },
   {
-    "id": "f667992fcc87",
-    "slug": "gartner-ai-va-uning-targibotchilari-biznesga-tayyor-emas-f66799",
-    "title": "Gartner: AI va uning targ'ibotchilari biznesga tayyor emas",
-    "summary": "Gartner tadqiqot kompaniyasi sun'iy intellekt va uning asosiy targ'ibotchilari hali korxonalar uchun tayyor emasligini ma'lum qildi. Tashkilotga ko'ra, model yaratuvchilari juda tez harakat qilmoqda va biror narsani buzib qo'yishganda bunga e'tibor qaratishmayapti.",
+    "id": "b57ecce0b50c",
+    "slug": "ai-rivojlanishini-sekinlashtirish-chaqiriqlari-aksiyalarni-t-b57ecc",
+    "title": "AI rivojlanishini sekinlashtirish chaqiriqlari aksiyalarni tushirdi",
+    "summary": "AI kompaniyalari rahbarlarining rivojlanishni sekinlashtirish chaqiriqlari investorlarni xavotirga soldi. Natijada, AI bilan bog'liq aksiyalar narxi tushib ketdi. Investor Maykl Berri bu chaqiriqlarni \"o'z manfaati uchun\" deb atadi.",
     "tags": [
-      "biznes"
+      "OpenAI",
+      "Anthropic"
+    ],
+    "importance": 3,
+    "score": 41,
+    "published": "2026-09-14T06:38:25.000Z",
+    "created": "2026-09-14T06:41:07.974Z",
+    "coverage": 3,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/business/live/2026/sep/14/ai-stocks-fall-development-slowdown-anthropic-openai-investors-latest-news-updates",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "The Mighty 790 KFGO",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPOTFCdjQ5Q2I4LWwwU2swNERlT1FjLW50LXVrYW5aeDV6QTFHQ1liZXRJcXB3Q0xBdjhXV0dOdTdrN1EwUHJrUkcxekJoMmg0emdJbkt6X1VnbWZzeXBROHptZzlHcjloWHZqQmhscU5ZMkt1X0NLR05kTDlMbFhmQ2pSeWMwSVBiMC1uNE5oMkkybnpuOHo0RW1HZHR6Y0o2YThjQ0EySjJtYlVUOC00d2ZtcERBenpoNXE0c0JXcw"
+      },
+      {
+        "name": "Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNTTgxYjBHZXNGVFRDVXdTdGJBQ3ZUaXB3Q2RvdFB5aHIydVdRLWdBUXRiSzJTZ3p5dVdnTi1zUlhLVEtJeVJpUEhWakw1d2FralNhdktDUEhQYWVhdC0wQzRrYkFjR1VxYkkwODFwTjBHelZDVzdxX2JzNnl0OUIzclVkY2JXQWl6TTF3TjJKZ1RYLUozTUZCTEZzVUJOMmEyRDJpNkpiNUs3STVVMEppZlVzQ1ZUb2xNN2o5VzNtcy1BbnljczFFb0dITHJtYUxnRm9nUTY2SVROZ0RXcTltNTdlOA"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "4803f4969e6d",
+    "slug": "insight-partners-openai-va-anthropicga-sarmoya-qilmaydi-4803f4",
+    "title": "Insight Partners OpenAI va Anthropicga sarmoya qilmaydi",
+    "summary": "Insight Partners kompaniyasi boshqa investorlar OpenAI va Anthropicga katta sarmoya kiritayotgan bir paytda, o'z investitsiyalarini diversifikatsiya qilmoqda. Bu haqda Deven Parex ma'lum qildi.",
+    "tags": [
+      "OpenAI",
+      "Anthropic"
+    ],
+    "importance": 2,
+    "score": 26,
+    "published": "2026-09-13T21:30:00.000Z",
+    "created": "2026-09-14T06:41:07.974Z",
+    "coverage": 1,
+    "source": {
+      "name": "TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPNmE5SnB2aTZ4Vk9nY3k2aVhTeU5reFV6WVNoYWwwc1JYLTJCbGw1X3A2ZUsxVDljdDhIYVpBaldLM1h2Sk8zcTZsdjVGZHMyNmxNR2htcVQ3ZWZheDBEQVRGd3BMOWVsRU9yMHhIM2JYWURPclFHb0hDck1Yb0xrWkxTUDVTZDZKQ3ZMOXJnOHJtc3lfQ0NEeW1obHJMNlJHbFdhTHJnZWc4aC1pS2RPMXI5WHdXOUFmeEh0ZVhPbFJMcExiQU00dUswMjBXMWVoQmd1d0pnYlBETXpVZ0d2MnAzd0RSbk12Q1E",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "f667992fcc87",
+    "slug": "gartner-ai-korporativ-foydalanishga-tayyor-emas-f66799",
+    "title": "Gartner: AI korporativ foydalanishga tayyor emas",
+    "summary": "Gartner tahliliy kompaniyasi sun'iy intellekt va uning asosiy targ'ibotchilari korporativ foydalanishga tayyor emasligini ma'lum qildi. Model yaratuvchilar juda tez harakat qilmoqda va xatolarga e'tibor bermayapti.",
+    "tags": [
+      "biznes",
+      "tadqiqot"
     ],
     "importance": 3,
     "score": 22,
     "published": "2026-09-14T05:11:19.000Z",
-    "created": "2026-09-14T06:36:45.615Z",
+    "created": "2026-09-14T06:41:07.974Z",
     "coverage": 1,
     "source": {
       "name": "The Register",
       "url": "https://theregister.com/ai-and-ml/2026/09/14/ai-and-its-main-promoters-are-not-enterprise-ready-says-gartner/5296074",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "6de70d118a39",
+    "slug": "anthropic-bosh-direktori-nazoratdan-chiqqan-ai-agentlari-haq-6de70d",
+    "title": "Anthropic bosh direktori nazoratdan chiqqan AI agentlari haqida",
+    "summary": "Anthropic bosh direktori nazoratdan chiqqan AI agentlari haqidagi xavotirlarga munosabat bildirdi. Semafor nashri AI apokalipsisi haqidagi shov-shuvli sarlavhalar jiddiy muhokamalarni yopib qo'yayotganini ta'kidladi.",
+    "tags": [
+      "Anthropic",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 21.1,
+    "published": "2026-09-13T01:31:21.000Z",
+    "created": "2026-09-14T06:41:07.974Z",
+    "coverage": 2,
+    "source": {
+      "name": "Semafor",
+      "url": "https://semafor.com/article/09/12/2026/how-the-ai-apocalypse-story-escaped-containment",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "cnn.com",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNTElvLVpyQUlhSW9WZDVNbXV2LV9HbFpseTFhbW00MHRpcDBlZnptTkwtZXhodEt2a2tuVkNpZUZ0SXRqZFVJdmVXTGJGaUxEY05MQUVYU2YzRV8xN2hTNlNHdkRaVWdydUFSckRqMWIzSjVLeHdHa2JYWDUzYzVKZnhya29NZUpRb29JTWpEU0gxeTU4QWxWeHBzQVNWUnlielZaWGx3bmtkbmIzN0YwMXlRNHBtSDBuZDB4NHpITFE5amlhZl9pZlZEMG8"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "316b908f991a",
+    "slug": "ai-yetakchilari-hukumat-nazorati-shartlarini-kelishdi-316b90",
+    "title": "AI yetakchilari hukumat nazorati shartlarini kelishdi",
+    "summary": "Dario Amodei, Sam Altman, Satya Nadella va Elon Musk hukumat sun'iy intellektni qanday nazorat qilishi mumkinligi bo'yicha shartlarni kelishib oldilar. Ular buni \"chegarani belgilash\" deb atashdi.",
+    "tags": [
+      "siyosat",
+      "qonun"
+    ],
+    "importance": 4,
+    "score": 19,
+    "published": "2026-09-14T01:15:16.000Z",
+    "created": "2026-09-14T06:41:07.974Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/ai-and-ml/2026/09/14/big-ai-sets-out-its-terms-for-regulatory-capture-and-calls-it-pace-the-frontier/5296067",
       "indirect": false
     },
     "also": [],
