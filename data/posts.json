@@ -1,5 +1,81 @@
 [
   {
+    "id": "296d33defd03",
+    "slug": "fyxer-openai-modellari-bilan-ai-yordamchisi-yaratdi-296d33",
+    "title": "Fyxer OpenAI modellari bilan AI yordamchisi yaratdi",
+    "summary": "Fyxer kompaniyasi OpenAI modellari, moslashtirish va foydalanuvchi fikr-mulohazalari yordamida AI ijrochi yordamchisini yaratdi. Bu yordamchi elektron pochtalarni tashkil etadi va xatlarni foydalanuvchi ovozida yozadi.",
+    "tags": [
+      "OpenAI",
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 42,
+    "published": "2026-09-14T12:00:00.000Z",
+    "created": "2026-09-14T17:02:12.808Z",
+    "coverage": 2,
+    "source": {
+      "name": "OpenAI",
+      "url": "https://openai.com/index/fyxer",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "Rest of World",
+        "url": "https://restofworld.org/2026/global-workers-using-ai-at-work"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "b2d72c4adce4",
+    "slug": "xitoy-ai-rahbarlarining-chaqiriqlarini-qorqitish-deb-atadi-b2d72c",
+    "title": "Xitoy AI rahbarlarining chaqiriqlarini \"qo'rqitish\" deb atadi",
+    "summary": "Xitoy davlat OAVlari AI kompaniyalari rahbarlarining rivojlanishni sekinlashtirish chaqiriqlarini \"qo'rqitish\" deb baholadi. Ular barcha guruhlarni AI ochiqligi va inklyuzivligi uchun birgalikda ishlashga chaqirdi.",
+    "tags": [
+      "siyosat",
+      "xavfsizlik"
+    ],
+    "importance": 4,
+    "score": 25,
+    "published": "2026-09-14T13:18:23.000Z",
+    "created": "2026-09-14T17:02:12.808Z",
+    "coverage": 2,
+    "source": {
+      "name": "CNBC",
+      "url": "https://cnbc.com/2026/09/14/china-ai-slowdown-us-tech-ceos.html",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "Business Insider",
+        "url": "https://businessinsider.com/michael-burry-big-short-anthropic-openai-slowdown-altman-amodei-musk-2026-9"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "c94276cec5e1",
+    "slug": "openai-ichki-hujjatlari-maxfiylikni-oshkor-etdi-c94276",
+    "title": "OpenAI ichki hujjatlari maxfiylikni oshkor etdi",
+    "summary": "OpenAI ichki hujjatlariga ko'ra, pudratchilar anonimlashtirilgan so'rovlar va chatlarni baholaydi. Shuningdek, iste'molchi rejalari uchun modelni o'qitish sukut bo'yicha yoqilgan.",
+    "tags": [
+      "OpenAI",
+      "maxfiylik"
+    ],
+    "importance": 4,
+    "score": 24,
+    "published": "2026-09-14T16:30:00.000Z",
+    "created": "2026-09-14T17:02:12.809Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/260914/p26",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "f447d8cbcd59",
     "slug": "perplexity-portable-computer-windowsda-nvidia-rtx-bilan-f447d8",
     "title": "Perplexity Portable Computer Windows'da, Nvidia RTX bilan",
