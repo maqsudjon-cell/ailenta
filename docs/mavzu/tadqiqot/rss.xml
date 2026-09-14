@@ -5,7 +5,7 @@
   <link>https://ailenta.uz/mavzu/tadqiqot/</link>
   <description>&quot;tadqiqot&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Mon, 14 Sep 2026 13:26:39 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 14 Sep 2026 14:05:25 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/tadqiqot/rss.xml" rel="self" type="application/rss+xml"/>
   <item>
     <title>Inson terisi ma'lumotlarida AI modeli o'qitilmoqda</title>
@@ -36,6 +36,16 @@
     <category>tadqiqot</category><category>xavfsizlik</category>
     <media:content url="https://ailenta.uz/og/xavfsizlik-uchun-muhim-vaziyatlarda-ai-uchun-yangi-usul-1ccfa6.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/xavfsizlik-uchun-muhim-vaziyatlarda-ai-uchun-yangi-usul-1ccfa6.jpg"/>
+  </item>
+  <item>
+    <title>scTransMIL saratonni aniqlashda yordam beradi</title>
+    <link>https://ailenta.uz/x/sctransmil-saratonni-aniqlashda-yordam-beradi-23fb2a/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/sctransmil-saratonni-aniqlashda-yordam-beradi-23fb2a/</guid>
+    <pubDate>Mon, 14 Sep 2026 00:00:00 GMT</pubDate>
+    <description>Nature jurnalida chop etilgan maqolaga ko'ra, scTransMIL modeli bemor darajasidagi kasallik holatlari va bir hujayrali transkriptomikani bog'laydi. Bu saratonni skrining qilish va geterogenlikni xulosa chiqarish uchun xizmat qiladi.</description>
+    <category>tibbiyot</category><category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/sctransmil-saratonni-aniqlashda-yordam-beradi-23fb2a.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/sctransmil-saratonni-aniqlashda-yordam-beradi-23fb2a.jpg"/>
   </item>
   <item>
     <title>AI rivojlanishini sekinlashtirish qanday bo'ladi</title>
@@ -296,16 +306,6 @@
     <category>Apple</category><category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/apple-imo-ishora-tiliga-matn-tarjimasi-modelini-taqdim-etdi-70f569.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/apple-imo-ishora-tiliga-matn-tarjimasi-modelini-taqdim-etdi-70f569.jpg"/>
-  </item>
-  <item>
-    <title>Anthropic matematiklari Eyler va Navye-Stoks tenglamalari ustida ishladi</title>
-    <link>https://ailenta.uz/x/anthropic-matematiklari-eyler-va-navye-stoks-tenglamalari-us-c1817b/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/anthropic-matematiklari-eyler-va-navye-stoks-tenglamalari-us-c1817b/</guid>
-    <pubDate>Thu, 10 Sep 2026 19:21:36 GMT</pubDate>
-    <description>NYU professori Tristan Buckmaster va Anthropic'dan Levent Alpöge Eyler va Navye-Stoks tenglamalari ustida ish olib bordi. Bu ish Anthropic kompaniyasi bilan bog'liq emas, ular bo'sh vaqtlarida shug'ullangan.</description>
-    <category>Anthropic</category><category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/anthropic-matematiklari-eyler-va-navye-stoks-tenglamalari-us-c1817b.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/anthropic-matematiklari-eyler-va-navye-stoks-tenglamalari-us-c1817b.jpg"/>
   </item>
 </channel>
 </rss>
