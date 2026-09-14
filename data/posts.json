@@ -1,5 +1,90 @@
 [
   {
+    "id": "be5d490dcd8d",
+    "slug": "ai-sekinlashuviga-chaqiriqlar-tanqidga-uchradi-be5d49",
+    "title": "AI sekinlashuviga chaqiriqlar tanqidga uchradi",
+    "summary": "Anthropic bosh direktorining AI rivojlanishini sekinlashtirish takliflari tanqidchilar tomonidan \"juda oz, juda kech\" deb baholandi. Ba'zi ekspertlar va Tramp ma'muriyati bu chaqiriqlarga shubha bilan qaradi.",
+    "tags": [
+      "xavfsizlik",
+      "siyosat"
+    ],
+    "importance": 3,
+    "score": 38,
+    "published": "2026-09-13T16:54:58.000Z",
+    "created": "2026-09-14T00:36:54.960Z",
+    "coverage": 2,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/technology/2026/sep/13/too-little-too-late-critics-perplexed-and-suspicious-of-ai-leaders-call-for-a-slowdown",
+      "title": "‘Too little, too late’: critics perplexed and suspicious of AI leaders’ call for a slowdown",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "9cc0efcfd6eb",
+    "slug": "amodei-ai-sekinlashuvida-xitoyni-eng-qiyin-masala-deb-atadi-9cc0ef",
+    "title": "Amodei AI sekinlashuvida Xitoyni eng qiyin masala deb atadi",
+    "summary": "Anthropic bosh direktori Dario Amodei AI rivojlanishini sekinlashtirish taklifida Xitoyning harakatini eng qiyin dilemma deb hisobladi. Sam Altman, Demis Hassabis va Elon Musk Amodeining taklifini qo'llab-quvvatladi.",
+    "tags": [
+      "Anthropic",
+      "siyosat"
+    ],
+    "importance": 4,
+    "score": 43,
+    "published": "2026-09-13T16:39:24.000Z",
+    "created": "2026-09-14T00:37:11.411Z",
+    "coverage": 4,
+    "source": {
+      "name": "CNBC",
+      "url": "https://cnbc.com/2026/09/13/china-dilemma-ai-slowdown-anthropic.html",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "Techmeme",
+        "url": "https://techmeme.com/260913/p10"
+      },
+      {
+        "name": "cnbc.com",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9Ebm16S0djWjFGYTEyTkZEdFdFR3FjdjRMdE5DeVE1QllJOG1UNmE5bDNTSEVqdkVRcGdSckN1N0xyWVh2aEc1bm5FNHpvNFlIYnJQaEI4eFR4TnNnM0hKRkhaOUNCLXVjTGJUZlN0YmpHZmJTdkNwamNDTkLSAYIBQVVfeXFMTmJXdGZqZG1xWURORnhQc0FLRjN4VGxQSG4yTkhxRzNjWWFtZzNQamFPZ3Z1TS1pVm13bzdHaWU0d0FER1BQUnlHUnk4U00zbmU0aGdfd3YwMzBaaWpvNlBvRjA2NFVIWWY3ZGduU1U2SkdSQWMyUlRiM2UxdkpHVElpZw"
+      },
+      {
+        "name": "CBS News",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNkxsbkpoMVMyai1iMWRudGdXanVEMnY0SFlFV08waEdSOGdrZWdMamJ3UDAzekNNOTg5V1ZOaG5icEJ6d1FMdEZUbEJlSmZzcDZ5NUZuS1NxZUtoVXN1N19wbi04bHZrM0VCamlsVWltQmEwemxSV2p6UXpmMFNRMkUtTmNVN1lPd2VpMTNJblk2WFhraDN1WFowTmt5dVRidUhDQg"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "08440f731904",
+    "slug": "ai-rivojlanishini-sekinlashtirish-qanday-boladi-08440f",
+    "title": "AI rivojlanishini sekinlashtirish qanday bo'ladi",
+    "summary": "Sun'iy intellekt rivojlanishini sekinlashtirish g'oyasi oson yechimdek tuyulsa-da, uning amaliyotda qanday ko'rinish olishi bo'yicha savollar ko'paymoqda. Bu murakkab masala ekanligi ta'kidlandi.",
+    "tags": [
+      "xavfsizlik",
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 29,
+    "published": "2026-09-13T18:20:22.000Z",
+    "created": "2026-09-14T00:37:11.411Z",
+    "coverage": 2,
+    "source": {
+      "name": "BBC News",
+      "url": "https://bbc.co.uk/news/articles/cwyzp47py48o?at_medium=RSS&at_campaign=rss",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "BBC",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4zY05fd2lMX2h2WW44TFRaRnZxZ0wwM0tyVHczektsUV95dXFtaFYwRXMwby1Jd1dVbmdua3lDcmNVQ29xZ21MNUdWQTRPdzg2LUtaejFKWUFVUQ"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
     "id": "538b0d26aee2",
     "slug": "vashington-ai-qoidalarini-qabul-qilishga-shoshilmoqda-538b0d",
     "title": "Vashington AI qoidalarini qabul qilishga shoshilmoqda",
