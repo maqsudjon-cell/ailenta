@@ -5,7 +5,7 @@
   <link>https://ailenta.uz/mavzu/microsoft/</link>
   <description>&quot;Microsoft&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Tue, 15 Sep 2026 21:37:22 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 15 Sep 2026 21:44:10 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/microsoft/rss.xml" rel="self" type="application/rss+xml"/>
   <item>
     <title>Microsoft rahbari AI xavfsizligi haqida ogohlantirdi</title>
@@ -18,6 +18,16 @@
     <media:thumbnail url="https://ailenta.uz/og/microsoft-rahbari-ai-xavfsizligi-haqida-ogohlantirdi-efb999.jpg"/>
   </item>
   <item>
+    <title>Microsoft Foundry agentlar uchun xavfsizlikni ta'minlaydi</title>
+    <link>https://ailenta.uz/x/microsoft-foundry-agentlar-uchun-xavfsizlikni-taminlaydi-784a55/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/microsoft-foundry-agentlar-uchun-xavfsizlikni-taminlaydi-784a55/</guid>
+    <pubDate>Mon, 14 Sep 2026 20:40:00 GMT</pubDate>
+    <description>Microsoft Foundry uzoq muddatli AI agentlarini korxonalar uchun tayyorlamoqda. Tizimga boshidanoq xavfsizlik, nazorat va FinOps kabi himoya mexanizmlari kiritilgan. Bu ko'p agentli va ko'p modelli ish jarayonlarida qo'llaniladi.</description>
+    <category>Microsoft</category><category>agentlar</category>
+    <media:content url="https://ailenta.uz/og/microsoft-foundry-agentlar-uchun-xavfsizlikni-taminlaydi-784a55.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/microsoft-foundry-agentlar-uchun-xavfsizlikni-taminlaydi-784a55.jpg"/>
+  </item>
+  <item>
     <title>Farmatsevtika sanoatida AI o'zgarishlari</title>
     <link>https://ailenta.uz/x/farmatsevtika-sanoatida-ai-ozgarishlari-cd4bdc/</link>
     <guid isPermaLink="true">https://ailenta.uz/x/farmatsevtika-sanoatida-ai-ozgarishlari-cd4bdc/</guid>
@@ -26,6 +36,16 @@
     <category>Microsoft</category><category>tibbiyot</category>
     <media:content url="https://ailenta.uz/og/farmatsevtika-sanoatida-ai-ozgarishlari-cd4bdc.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/farmatsevtika-sanoatida-ai-ozgarishlari-cd4bdc.jpg"/>
+  </item>
+  <item>
+    <title>Microsoft: AI insoniyatga xizmat qilsa, rivojlanishi kerak</title>
+    <link>https://ailenta.uz/x/microsoft-ai-insoniyatga-xizmat-qilsa-rivojlanishi-kerak-98fdc1/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/microsoft-ai-insoniyatga-xizmat-qilsa-rivojlanishi-kerak-98fdc1/</guid>
+    <pubDate>Mon, 14 Sep 2026 18:32:00 GMT</pubDate>
+    <description>Microsoft superintellektni rivojlantirish insoniyatga yordam berishi va inson nazorati ostida bo'lishi kerakligini ta'kidladi. Aks holda, uni izlashga arzimaydi.</description>
+    <category>Microsoft</category><category>xavfsizlik</category>
+    <media:content url="https://ailenta.uz/og/microsoft-ai-insoniyatga-xizmat-qilsa-rivojlanishi-kerak-98fdc1.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/microsoft-ai-insoniyatga-xizmat-qilsa-rivojlanishi-kerak-98fdc1.jpg"/>
   </item>
   <item>
     <title>Irlandiyalik ishchilarning qariyb yarmi AI tufayli kasbini qayta ko'rib chiqmoqda</title>
@@ -286,16 +306,6 @@
     <category>OpenAI</category><category>Microsoft</category>
     <media:content url="https://ailenta.uz/og/chatgpt-work-va-outlook-faoliyatida-uzilishlar-yuz-berdi-cc2bb3.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/chatgpt-work-va-outlook-faoliyatida-uzilishlar-yuz-berdi-cc2bb3.jpg"/>
-  </item>
-  <item>
-    <title>Microsoft va AWS bulutli ulanishlarni soddalashtirdi</title>
-    <link>https://ailenta.uz/x/microsoft-va-aws-bulutli-ulanishlarni-soddalashtirdi-46f651/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/microsoft-va-aws-bulutli-ulanishlarni-soddalashtirdi-46f651/</guid>
-    <pubDate>Mon, 31 Aug 2026 16:08:55 GMT</pubDate>
-    <description>Microsoft va AWS kompaniyalari sun'iy intellekt davri uchun bulutli ulanishlarni soddalashtirishini e'lon qildi. Bu hamkorlik bulutli xizmatlardan foydalanishni osonlashtirishga qaratilgan.</description>
-    <category>Microsoft</category><category>bulut</category>
-    <media:content url="https://ailenta.uz/og/microsoft-va-aws-bulutli-ulanishlarni-soddalashtirdi-46f651.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/microsoft-va-aws-bulutli-ulanishlarni-soddalashtirdi-46f651.jpg"/>
   </item>
 </channel>
 </rss>

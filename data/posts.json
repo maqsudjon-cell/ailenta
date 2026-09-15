@@ -1,29 +1,68 @@
 [
   {
-    "id": "d65f443b12ee",
-    "slug": "aqsh-kalshi-kompaniyasiga-ai-narx-kuzatuvchisini-olib-tashla-d65f44",
-    "title": "AQSh Kalshi kompaniyasiga AI narx kuzatuvchisini olib tashlashni buyurdi",
-    "summary": "AQSh Savdo vazirligi Kalshi kompaniyasiga AI hisoblash fyuchers mahsulotini olib tashlashni buyurdi. Bu milliy xavfsizlik nuqtai nazaridan xavotirlar tufayli amalga oshirildi va Kalshi bunga rozi boʻldi.",
+    "id": "784a55cfdfe7",
+    "slug": "microsoft-foundry-agentlar-uchun-xavfsizlikni-taminlaydi-784a55",
+    "title": "Microsoft Foundry agentlar uchun xavfsizlikni ta'minlaydi",
+    "summary": "Microsoft Foundry uzoq muddatli AI agentlarini korxonalar uchun tayyorlamoqda. Tizimga boshidanoq xavfsizlik, nazorat va FinOps kabi himoya mexanizmlari kiritilgan. Bu ko'p agentli va ko'p modelli ish jarayonlarida qo'llaniladi.",
     "tags": [
-      "siyosat",
-      "qonun"
+      "Microsoft",
+      "agentlar"
     ],
-    "importance": 4,
-    "score": 25,
-    "published": "2026-09-15T16:45:20.000Z",
-    "created": "2026-09-15T21:35:09.898Z",
-    "coverage": 2,
+    "importance": 2,
+    "score": 30.8,
+    "published": "2026-09-14T20:40:00.000Z",
+    "created": "2026-09-15T21:38:30.451Z",
+    "coverage": 1,
     "source": {
-      "name": "Semafor",
-      "url": "https://semafor.com/article/09/15/2026/commerce-dept-ordered-kalshi-to-take-down-ai-compute-futures-product",
+      "name": "Microsoft",
+      "url": "https://linkedin.com/feed/update/urn:li:activity:7505114604155322368",
       "indirect": false
     },
-    "also": [
-      {
-        "name": "Techmeme",
-        "url": "https://techmeme.com/260915/p34"
-      }
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "98fdc13124a5",
+    "slug": "microsoft-ai-insoniyatga-xizmat-qilsa-rivojlanishi-kerak-98fdc1",
+    "title": "Microsoft: AI insoniyatga xizmat qilsa, rivojlanishi kerak",
+    "summary": "Microsoft superintellektni rivojlantirish insoniyatga yordam berishi va inson nazorati ostida bo'lishi kerakligini ta'kidladi. Aks holda, uni izlashga arzimaydi.",
+    "tags": [
+      "Microsoft",
+      "xavfsizlik"
     ],
+    "importance": 3,
+    "score": 27,
+    "published": "2026-09-14T18:32:00.000Z",
+    "created": "2026-09-15T21:38:30.451Z",
+    "coverage": 1,
+    "source": {
+      "name": "Microsoft",
+      "url": "https://linkedin.com/feed/update/urn:li:activity:7504986609365352448",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "7d0b8ac8de21",
+    "slug": "nvidia-vera-rubin-uchun-energiya-samaradorligini-oshirdi-7d0b8a",
+    "title": "Nvidia Vera Rubin uchun energiya samaradorligini oshirdi",
+    "summary": "Nvidia Groq 3 LPX Deterministic Execution texnologiyasi yordamida Vera Rubin platformasida yuqori interaktiv xulosa chiqarishni energiya tejamkor qildi. Bu texnologiya samaradorlikni oshirishga qaratilgan.",
+    "tags": [
+      "Nvidia",
+      "chiplar"
+    ],
+    "importance": 2,
+    "score": 26,
+    "published": "2026-09-15T16:55:53.000Z",
+    "created": "2026-09-15T21:38:30.451Z",
+    "coverage": 1,
+    "source": {
+      "name": "NVIDIA Developer",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNc1Q3MWxxV3lrblJfQnlKMjlvemc5aFpVa29ud1lTY0h3NTQtaDNZWEZ2TU11YWVxSG1jTGUwZkV0bGJWaVROSkZQODhmN3FXeGpVMW1scjdrRTJydEdwU3pDQTJXblFkT2FBbHRIREtXYi1HY0xlVEdKc2Z3RDhTYWNGNDNmcnNQZHhqR1h1dDFxVVhrYnRSSlYwcnBZM1poa2p5bC1Fb1hPa1VHTXFKRmdmZkhZODNmV1J3cGNsOTNPT3FOa3N5cFdCclNBUHFlLXByVXVidFRWdXJOMEJVVE1yOXFybjEt",
+      "indirect": true
+    },
+    "also": [],
     "model": "gemini"
   },
   {
