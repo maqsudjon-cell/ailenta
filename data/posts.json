@@ -1,61 +1,27 @@
 [
   {
-    "id": "80862fd67dee",
-    "slug": "xitoy-ai-rivojlanishini-sekinlashtirish-munozarasida-80862f",
-    "title": "Xitoy AI rivojlanishini sekinlashtirish munozarasida",
-    "summary": "Xitoy ilg‘or AI rivojlanishini sekinlashtirish bo‘yicha munozaralarning markazida turibdi. Bu yerda xavfsizlik masalalari AQSh-Xitoy raqobati bilan to‘qnashmoqda.",
+    "id": "fc91d75fb101",
+    "slug": "nvidia-groq-kompaniyasining-muhim-qismini-ozlashtirdi-fc91d7",
+    "title": "Nvidia Groq kompaniyasining muhim qismini o'zlashtirdi",
+    "summary": "O'tgan yili 20 milliard dollarlik kelishuvda Nvidia Groq kompaniyasining asosiy qismini o'zlashtirdi. Natijada, Groq AI bulut startapi o'zining o'ziga xosligini yo'qotdi.",
     "tags": [
-      "siyosat",
-      "Xitoy"
+      "Nvidia",
+      "biznes"
     ],
     "importance": 3,
-    "score": 36,
-    "published": "2026-09-15T10:28:12.000Z",
-    "created": "2026-09-15T11:00:00.092Z",
-    "coverage": 4,
-    "source": {
-      "name": "Business Insider",
-      "url": "https://businessinsider.com/china-ai-slow-down-role-risks-reaction-anthropic-dario-amodei-2026-9",
-      "indirect": false
-    },
-    "also": [
-      {
-        "name": "Business Insider",
-        "url": "https://businessinsider.com/ai-risks-slow-down-reaction-anthropic-dario-amodei-sam-altman-2026-9"
-      },
-      {
-        "name": "The Verge",
-        "url": "https://theverge.com/ai-artificial-intelligence/995141/ai-executives-politicians-safety-regulation-anthropic-dario-amodei"
-      },
-      {
-        "name": "Business Insider",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNlBOMjdFWW1OZE9vekVuNU1VTEhkc2NJTXlIVFhUZ28zNEZDbDhOZlZob2VHemJhLVVEZUVndkhzWmRVMVNVcVY5UXk0SDdsUnZUUHRKNGZNWDJlZU1nckR1YUxRTUkwU2xvNC1xVm9JVXg5VDlSSUQwbVBJeHlNZWFYNzc2TC1LVWVMRUgzaUpXY0JCZUgtZ0RUdjBJdnY4aFE"
-      }
-    ],
-    "model": "gemini"
-  },
-  {
-    "id": "f66fe75a15f2",
-    "slug": "blueworm-mantis-standard-gumanoid-robotini-chiqardi-f66fe7",
-    "title": "Blueworm Mantis Standard gumanoid robotini chiqardi",
-    "summary": "Blueworm Embodied Mantis Standard nomli modulli g‘ildirakli gumanoid robotini taqdim etdi. U 9 800 RMB dan boshlanadi, 22 erkinlik darajasiga ega va 7 kg yuk ko‘tara oladi.",
-    "tags": [
-      "robototexnika"
-    ],
-    "importance": 2,
     "score": 24,
-    "published": "2026-09-15T09:32:09.000Z",
-    "created": "2026-09-15T11:00:00.093Z",
+    "published": "2026-09-15T09:00:01.000Z",
+    "created": "2026-09-15T11:04:36.569Z",
     "coverage": 2,
     "source": {
-      "name": "Pandaily",
-      "url": "https://pandaily.com/blueworm-mantis-standard-modular-wheeled-humanoid",
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/groq-navigates-ai-cloud-market-shift-after-nvidia-deal-2026-9",
       "indirect": false
     },
     "also": [
       {
-        "name": "TechNode",
-        "url": "https://technode.com/2026/09/15/blue-insect-mantis-standard-humanoid-robot"
+        "name": "Business Insider",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOLW55VF9QQ3k5QnZBLUt3NkR0NWg5TjBkTU43bldRVm1VMmZxakZqRnVPc0xPUjJ4eERSYWU3UklvU1RZNms0NjRtNWdLY0kzWmhLaVV4QTZXRU91eThEUnQ3NHZBbG5sMjRydmQtOEQtaFpndWtXeDBYVkt4TTF2S0Z4STlmWUs0V1dqTGFTNFFIME56RUxRYQ"
       }
     ],
     "model": "gemini"
