@@ -1,5 +1,111 @@
 [
   {
+    "id": "6c326f6cdcf1",
+    "slug": "o-zbekistonda-san-atda-ai-roli-ortmoqda-6c326f",
+    "title": "Oʻzbekistonda sanʼatda AI roli ortmoqda",
+    "summary": "Oʻzbekistonda sanʼat sohasida texnologiyalar, xususan sunʼiy intellektning roli oshmoqda. AI yordamida film, musiqa va tasviriy sanʼat kabi ijodiy mahsulotlar yaratish mumkin.",
+    "tags": [
+      "O'zbekiston"
+    ],
+    "importance": 2,
+    "score": 48,
+    "published": "2026-09-15T14:00:00.000Z",
+    "created": "2026-09-15T15:37:06.968Z",
+    "coverage": 1,
+    "source": {
+      "name": "Kun.uz",
+      "url": "https://kun.uz/news/2026/09/15/ozbekistonda-sanatning-yangi-davri-boshlanyaptimi",
+      "title": "Oʻzbekistonda sanʼatning yangi davri boshlanyaptimi?.",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "b1e9ea808e10",
+    "slug": "ai-rivojlanishi-sekinlashsa-iqtisodiyotga-tasiri-b1e9ea",
+    "title": "AI rivojlanishi sekinlashsa, iqtisodiyotga ta'siri",
+    "summary": "Prezidentning fikricha, AI rivojlanishini sekinlashtirishga chaqiriqlar AQSh iqtisodiy o'sishiga to'sqinlik qilishi mumkin. Bu AI poygasi sekinlashsa, iqtisodiyotga ta'sirini ko'rsatadi.",
+    "tags": [
+      "iqtisod",
+      "siyosat"
+    ],
+    "importance": 3,
+    "score": 44,
+    "published": "2026-09-15T09:33:50.000Z",
+    "created": "2026-09-15T15:37:20.433Z",
+    "coverage": 3,
+    "source": {
+      "name": "The Washington Post",
+      "url": "https://washingtonpost.com/technology/2026/09/15/investors-are-trying-work-out-financial-costs-an-ai-slowdown",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "The Guardian",
+        "url": "https://theguardian.com/technology/2026/sep/15/ai-doomsday-warnings"
+      },
+      {
+        "name": "The Guardian",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE92d2RPRE5TRkowQkN2bUQxdTAyZHlLUFYyTTI3RjFCZGEtaC1OZHNXWGFkR0dWR3BoLVN0T2VCMnR6Rm9tY1kwZ29yY0xGWmhfLUQ4aEJkWW83Uk1PdTB6SHNnTUxINy0xT0w5RTNCV2dYYnRBamx4ZmZqTQ"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "d99c26a142f2",
+    "slug": "meta-ozining-ai-chiplari-xarajatlarni-tejashini-malum-qildi-d99c26",
+    "title": "Meta o'zining AI chiplari xarajatlarni tejashini ma'lum qildi",
+    "summary": "Meta o'zining yangi AI chiplari xarajatlarni tejashini ta'kidladi. Kompaniya 2027-yilda Nvidia chiplari o'rniga \"Arke\" va \"Astrid\" nomli ichki chiplarni joriy etadi.",
+    "tags": [
+      "Meta",
+      "chiplar"
+    ],
+    "importance": 4,
+    "score": 39,
+    "published": "2026-09-15T14:00:08.000Z",
+    "created": "2026-09-15T15:37:20.433Z",
+    "coverage": 3,
+    "source": {
+      "name": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeUZCZk9JODh6eDF4RVB6Q3lGSkt5Ul9IOGRSVFROQ2lxTFAxY21rUmk3WHVsbnBYcTg2eHBuTTk4STNVRkliTEF5azVXZUs0M09yM0J4bW5ManFRMC1yckY1UTh4N2xEX2V6S3NFZ09UdTZnSm01a24xVDYzb3JRd1Zla1BUZDQtQ0JaTERnOVlQS3ZJSTRNamxtNnFFa2hKVmVxNnJicVFoNHBYSHltUlFLUEg",
+      "indirect": true
+    },
+    "also": [
+      {
+        "name": "oodaloop.com",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQzNWblU5aW81Z0RJNk9oNGxJMTdHVnNXbkN6SW1hb1hZU2xqbVROT3k4MXM0MUd1VjJTRXc3ODBXUUZnUVFEQjE4VUoxcVRGalRoMGlDOExZbDVNWnBuejMzS3JPWXNJQWlxZlpETFpEcEVjXzNKdC15TDd5b2dEUTZXU2N3cC16OS1VRHF6a0dZdHJ5MW9IX3BGTVpmSjJUWlpDNWZ6QWxqRklNNFRyZWlucDM"
+      },
+      {
+        "name": "NDTV Profit",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOX1pZMlpjUExKWTlwVE9ESFNRMnFjUlRZd2lIUDNwVDlVaEMxTUwwNXJPcEhuNnFBLWp2QUFEZkZtSjJneHZWMEIyWVp3SkdVTTBacm5ET0FyLTZCa0ZWTmZRTS0tN2YwVjctRlZWVHJjeTR2c2lPX05PNm5XOXluU1pVLWM5QkpZdWN4MjE0UU5Jc0NpMldKT1pJSzlBTVFaTjRLUmtoYTl1VGVUTXRXWmQ5bVNHNHA5VDZMTkJ30gHGAUFVX3lxTE43Wmd0TktTeUZYX3VBbjNnc3RvVy1BZXFaZXB3dkJHZzA4Q1M1NHJRWjQ2MmxFQTJIanF3TlEwYXVBemd4RENvWkFiNnEzdUNJS1l0Qm9oRktsUXppZVEtcXJDeWMtVTRkU1J4M296YXlOTWhXWWF1SXd6U3RFWmFFci1fLWM0VG8tbmtNQUpWd0lEX0U3NDByMUpxSDdvNXNzTlJaQktVT2lQMjQyNElmMzB3ZmpEVFM2aHFqcHVaZmdDNzlLQQ"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "63b04c12395d",
+    "slug": "google-ai-va-iqtisodiyot-atlasidan-yangi-malumotlar-63b04c",
+    "title": "Google AI va iqtisodiyot ATLASidan yangi ma'lumotlar",
+    "summary": "Google AI va iqtisodiyot ATLASidan yangi tushunchalarni taqdim etdi. U ATLASning millionlab global ma'lumotlarini interaktiv, ochiq kirish imkoniyatiga ega tajribaga aylantirdi.",
+    "tags": [
+      "Google",
+      "iqtisod"
+    ],
+    "importance": 2,
+    "score": 33,
+    "published": "2026-09-15T13:00:00.000Z",
+    "created": "2026-09-15T15:37:20.433Z",
+    "coverage": 1,
+    "source": {
+      "name": "Google",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "d79e886d5334",
     "slug": "openai-biologik-malumotlarni-sotib-olmoqda-d79e88",
     "title": "OpenAI biologik ma'lumotlarni sotib olmoqda",
