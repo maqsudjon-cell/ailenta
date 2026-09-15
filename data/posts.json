@@ -1,5 +1,98 @@
 [
   {
+    "id": "da3350b2e016",
+    "slug": "ai-xavfsizligi-faqat-tezlikni-pasaytirishdan-koproqni-talab--da3350",
+    "title": "AI xavfsizligi faqat tezlikni pasaytirishdan ko'proqni talab qiladi",
+    "summary": "Stuart Russellning fikricha, AI xavfsizligi talablari muzokara qilinmaydi va ular faqat rivojlanish tezligini o'zgartirish bilan emas, balki aniq maqsadlarga erishishga bog'liq. Bu bayonot Anthropic tadqiqotchisi Jacob Coxonning iste'fosidan keyin AI sohasidagi muhokamalar kuchaygan bir paytda yangradi.",
+    "tags": [
+      "tadqiqot",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 32,
+    "published": "2026-09-15T08:00:31.000Z",
+    "created": "2026-09-15T10:05:58.416Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/commentisfree/2026/sep/15/ai-safety-requirements",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "280846630cb4",
+    "slug": "alex-bores-ai-xavfsizligini-saylov-masalasi-qilishni-istaydi-280846",
+    "title": "Alex Bores AI xavfsizligini saylov masalasi qilishni istaydi",
+    "summary": "Kongressdagi praymerizda AI qoidalarini muhokama qilish bilan bog'liq bahsda yutqazgan Alex Bores, keyingi prezidentlik saylovlarida AI xavfsizligi masalasini markazga qo'yishga harakat qilmoqda.",
+    "tags": [
+      "siyosat",
+      "qonun"
+    ],
+    "importance": 2,
+    "score": 30,
+    "published": "2026-09-15T09:02:21.000Z",
+    "created": "2026-09-15T10:05:58.417Z",
+    "coverage": 1,
+    "source": {
+      "name": "The New York Times",
+      "url": "https://nytimes.com/2026/09/15/us/politics/ai-safety-2028-election-democrats.html",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "f429df9c2064",
+    "slug": "buyuk-britaniya-ai-ekspertlari-ogohlantirishlariga-quloq-tut-f429df",
+    "title": "Buyuk Britaniya AI ekspertlari ogohlantirishlariga quloq tutishi kerak",
+    "summary": "Buyuk Britaniya birinchi kotibi Louise Haigh hukumat AI texnologiyasidan foydalanishni maqsad qilgan bir paytda, sanoat yetakchilarining AI tahdidlari haqidagi ogohlantirishlariga e'tibor berishi kerakligini aytdi.",
+    "tags": [
+      "siyosat",
+      "qonun"
+    ],
+    "importance": 3,
+    "score": 29,
+    "published": "2026-09-15T09:33:17.000Z",
+    "created": "2026-09-15T10:05:58.417Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/technology/2026/sep/15/uk-must-heed-warnings-from-ai-experts-minister-louise-haigh",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "9ade8abaa830",
+    "slug": "tramp-ai-boyicha-kongressda-qarshilikka-uchradi-9ade8a",
+    "title": "Tramp AI bo'yicha Kongressda qarshilikka uchradi",
+    "summary": "Donald Tramp AI xavflari haqidagi xavotirlarni rad etgan bo'lsa-da, AQSh Kongressida demokratlar va ba'zi respublikachilar AI kompaniyalari uchun cheklovlar o'rnatishga chaqirib, unga qarshilik ko'rsatmoqda.",
+    "tags": [
+      "siyosat",
+      "qonun"
+    ],
+    "importance": 4,
+    "score": 29,
+    "published": "2026-09-15T06:39:40.000Z",
+    "created": "2026-09-15T10:05:58.417Z",
+    "coverage": 2,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/technology/2026/sep/15/trump-ai-guardrails-democrats-republicans",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "BBC",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE04MUFqcTlBMVdpaHpuYVRMNEFuWTdvLUgyNFgxVmFkNEdhYU9YelNVa1lpWFRoMWVLb0V5ZHNOSkhvdGhpdk1fNnp0VkpKX2FoeVhadnp5eDdZUkE"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
     "id": "a7e5903a82b8",
     "slug": "ai-gigantlari-rivojlanishni-sekinlashtirishga-kelishdi-a7e590",
     "title": "AI gigantlari rivojlanishni sekinlashtirishga kelishdi",
