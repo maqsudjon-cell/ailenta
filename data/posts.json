@@ -1,5 +1,143 @@
 [
   {
+    "id": "98c36a850624",
+    "slug": "google-ai-barcha-tillar-uchun-universal-bo-lishini-istaydi-98c36a",
+    "title": "Google AI barcha tillar uchun universal bo‘lishini istaydi",
+    "summary": "Google an'anaviy matn tarjimasidan tashqariga chiqib, dunyo tillarini o‘z ifodasida tushunadigan AI modellarini yaratmoqda. Maqsad – AI ni hamma uchun va har tilda mavjud qilish.",
+    "tags": [
+      "Google",
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 33,
+    "published": "2026-09-15T16:00:00.000Z",
+    "created": "2026-09-15T18:02:07.930Z",
+    "coverage": 1,
+    "source": {
+      "name": "Google",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language",
+      "title": "AI for everyone in every language",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "3ce4896c0102",
+    "slug": "ai-xavfsizligi-bo-yicha-tadqiqotchilar-yirik-kompaniyalarni--3ce489",
+    "title": "AI xavfsizligi bo‘yicha tadqiqotchilar yirik kompaniyalarni tark etmoqda",
+    "summary": "AI rivojlanish tezligi xavfsizlik bo‘yicha tadqiqotchilar orasida xavotirlarni kuchaytirmoqda. So‘nggi kunlarda Anthropic va Google DeepMind kompaniyalaridan ikki AI xavfsizligi tadqiqotchisi ishdan ketdi.",
+    "tags": [
+      "Anthropic",
+      "Google"
+    ],
+    "importance": 4,
+    "score": 54,
+    "published": "2026-09-15T11:02:46.000Z",
+    "created": "2026-09-15T18:02:08.238Z",
+    "coverage": 1,
+    "source": {
+      "name": "Pivot",
+      "url": "https://pivot.uz/uz/ai-xavfsizligi-boyicha-tadqiqotchilar-yirik-kompaniyalarni-tark-etmoqda",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "a4af56ad8102",
+    "slug": "sun-iy-intellektni-sekinlashtirishga-chaqiriqlar-muhokamada-a4af56",
+    "title": "Sunʼiy intellektni sekinlashtirishga chaqiriqlar muhokamada",
+    "summary": "Anthropic bosh direktori AI agentlari internetni egallab olishidan ogohlantirib, sohani tartibga solishga chaqirdi. Bu chaqiriqlar global siyosiy mavzuga aylanib, raqobatchilar va davlatlar tomonidan turli baholarga sabab bo‘lmoqda.",
+    "tags": [
+      "Anthropic",
+      "siyosat"
+    ],
+    "importance": 5,
+    "score": 51,
+    "published": "2026-09-15T14:52:00.000Z",
+    "created": "2026-09-15T18:02:08.238Z",
+    "coverage": 1,
+    "source": {
+      "name": "Kun.uz",
+      "url": "https://kun.uz/news/2026/09/15/suniy-intellektni-sekinlashtirishga-chaqiriqlar-xavotirlar-tijoriy-manfaat-va-geosiyosat",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "997c7e122b99",
+    "slug": "nvidia-ai-zavodlarida-energiya-istemolini-boshqarmoqda-997c7e",
+    "title": "Nvidia AI zavodlarida energiya iste'molini boshqarmoqda",
+    "summary": "Nvidia AI zavodlarida energiya iste'molini optimallashtirish ustida ishlamoqda. Silikon vodiysidagi AI zavodi elektr tarmog'idan signal olib, quvvat sarfini moslashtirgan.",
+    "tags": [
+      "Nvidia",
+      "chiplar"
+    ],
+    "importance": 3,
+    "score": 36,
+    "published": "2026-09-15T16:55:59.000Z",
+    "created": "2026-09-15T18:02:08.238Z",
+    "coverage": 1,
+    "source": {
+      "name": "Nvidia",
+      "url": "https://blogs.nvidia.com/blog/from-megawatts-to-tokens-how-nvidia-maximizes-ai-factory-production",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "3095b9ef157f",
+    "slug": "ai-insoniyatni-yo-q-qila-oladimi-xavflar-muhokamada-3095b9",
+    "title": "AI insoniyatni yo‘q qila oladimi: xavflar muhokamada",
+    "summary": "So‘nggi kunlarda AI xavfsizligi bo‘yicha keskin da'volar paydo bo‘ldi. Ba'zilar AI insoniyatni yo‘q qilishi yoki internetni egallashi mumkinligini aytmoqda. Nashr bu da'volar va ularga bo‘lgan munosabatlarni ko‘rib chiqdi.",
+    "tags": [
+      "xavfsizlik",
+      "tadqiqot"
+    ],
+    "importance": 4,
+    "score": 35,
+    "published": "2026-09-15T17:54:48.000Z",
+    "created": "2026-09-15T18:02:08.238Z",
+    "coverage": 2,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/technology/2026/sep/15/could-ai-really-wipe-out-humanity-and-hijack-the-internet",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "CNBC",
+        "url": "https://cnbc.com/2026/09/15/ai-destroy-humanity-extinction-risks.html"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "2db68954a435",
+    "slug": "google-ai-yordamida-hayotni-yaxshilashga-intilmoqda-2db689",
+    "title": "Google AI yordamida hayotni yaxshilashga intilmoqda",
+    "summary": "Google sun'iy intellektni ilm-fanni tezlashtirish va odamlar hayotini yaxshilash uchun yaratmoqda. Kompaniya ilg‘or texnologiyalar yordamida muhim sohalarda katta yutuqlarga erishishga e'tibor qaratmoqda.",
+    "tags": [
+      "Google",
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 33,
+    "published": "2026-09-15T16:00:00.000Z",
+    "created": "2026-09-15T18:02:08.238Z",
+    "coverage": 1,
+    "source": {
+      "name": "Google",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "5f6e3cec4e19",
     "slug": "nvidia-ai-infra-summitda-energiya-samaradorligini-namoyish-e-5f6e3c",
     "title": "Nvidia AI Infra Summitda energiya samaradorligini namoyish etdi",
