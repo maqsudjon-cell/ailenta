@@ -1,5 +1,77 @@
 [
   {
+    "id": "d69ce8689fec",
+    "slug": "meta-one-koproq-ai-va-funksiyalarga-ega-obuna-xizmati-d69ce8",
+    "title": "Meta One: Ko'proq AI va funksiyalarga ega obuna xizmati",
+    "summary": "Meta Facebook, Instagram, WhatsApp va Meta AI ilovalarida Meta One nomli yangi obuna xizmatini ishga tushirmoqda. Bu xizmat ko'proq AI imkoniyatlari, kengaytirilgan ifoda funksiyalari hamda ijodkorlar va bizneslar uchun vositalarni taklif etadi.",
+    "tags": [
+      "Meta",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 33,
+    "published": "2026-09-15T15:00:59.000Z",
+    "created": "2026-09-15T19:01:25.785Z",
+    "coverage": 1,
+    "source": {
+      "name": "Meta",
+      "url": "https://about.fb.com/news/2026/09/introducing-meta-one-subscription-service-more-features-ai",
+      "title": "Introducing Meta One: A Subscription Service With More Features and AI to Create, Connect, and Stand Out",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "cd4bdcc7bf8c",
+    "slug": "farmatsevtika-sanoatida-ai-ozgarishlari-cd4bdc",
+    "title": "Farmatsevtika sanoatida AI o'zgarishlari",
+    "summary": "Microsoft farmatsevtika sanoatida sun'iy intellektning o'rni va uning sohadagi o'zgarishlari haqida ma'lumot berdi.",
+    "tags": [
+      "Microsoft",
+      "tibbiyot"
+    ],
+    "importance": 2,
+    "score": 28,
+    "published": "2026-09-14T18:38:27.000Z",
+    "created": "2026-09-15T19:01:35.060Z",
+    "coverage": 1,
+    "source": {
+      "name": "Microsoft",
+      "url": "https://microsoft.com/en-us/microsoft-cloud/blog/healthcare/2026/09/14/the-ai-shift-is-real-how-pharmaceutical-leaders-are-operationalizing-ai",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "9ea776ae7c5b",
+    "slug": "anthropic-xodimi-ai-agentlarini-jilovlash-yolini-topdi-9ea776",
+    "title": "Anthropic xodimi AI agentlarini jilovlash yo'lini topdi",
+    "summary": "Anthropic kompaniyasining sobiq xodimi va METR COO'si AI agentlarini nazorat qilish usulini topdi. Ularning Artificial Intelligence Underwriting Company (AIUC) startapi 40 million dollar investitsiya jalb qildi.",
+    "tags": [
+      "Anthropic",
+      "agentlar"
+    ],
+    "importance": 3,
+    "score": 27,
+    "published": "2026-09-15T13:00:00.000Z",
+    "created": "2026-09-15T19:01:35.061Z",
+    "coverage": 2,
+    "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "TechCrunch",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQ2ZRQVhFTGpndGFTdG1wWWY3SGRwWEJybzM2NTBfcjFVbDJSQTZabE00X2ZrUi1Pb3ZYWVlMcjdJZGNVYzNLX3liZ09tYVBTQ19hLVhPU0lpX3lJbTJZd3RIZFRIci1fV1h0ampRWVQ1NklfdTNhZFMxTzJrenkwYTlsbWF5eWZyLVpFUjRfbkhod2JESGg0bzVmYVFRS1R0a0tLVDQ4QzFBeEFPR3g4dV92aTJMdw"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
     "id": "499b25d70a33",
     "slug": "datacentre-kompaniyasi-ai-yordamida-lobbichilikda-ayblandi-499b25",
     "title": "Datacentre kompaniyasi AI yordamida lobbichilikda ayblandi",
