@@ -1,5 +1,54 @@
 [
   {
+    "id": "5f6e3cec4e19",
+    "slug": "nvidia-ai-infra-summitda-energiya-samaradorligini-namoyish-e-5f6e3c",
+    "title": "Nvidia AI Infra Summitda energiya samaradorligini namoyish etdi",
+    "summary": "Nvidia vitse-prezidenti Ian Buck AI Infra Summitda AI zavodlarining energiya samaradorligi haqida gapirdi. Kompaniya Vera Rubin va DSX platformalari orqali token/vatt optimallashtirishni namoyish etdi.",
+    "tags": [
+      "Nvidia",
+      "chiplar"
+    ],
+    "importance": 3,
+    "score": 36,
+    "published": "2026-09-15T16:55:40.000Z",
+    "created": "2026-09-15T17:19:43.216Z",
+    "coverage": 1,
+    "source": {
+      "name": "Nvidia",
+      "url": "https://blogs.nvidia.com/blog/ai-infra-summit-vera-rubin-dsx-energy-efficiencies-tokens-per-watt-ai-factories",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "4044c2aacf0d",
+    "slug": "tramp-ai-qoidalarini-rad-etib-anthropic-ceosini-tanqid-qildi-4044c2",
+    "title": "Tramp AI qoidalarini rad etib, Anthropic CEO'sini tanqid qildi",
+    "summary": "Donald Tramp AI qoidalarini muhokama qilishni rad etdi. U Anthropic bosh direktori Dario Amodei tomonidan AI rivojlanishini sekinlashtirishga chaqiriqlarni tanqid qildi.",
+    "tags": [
+      "siyosat",
+      "Anthropic"
+    ],
+    "importance": 4,
+    "score": 29.6,
+    "published": "2026-09-14T20:53:24.000Z",
+    "created": "2026-09-15T17:19:43.217Z",
+    "coverage": 2,
+    "source": {
+      "name": "The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeHdfc3I3SlJyd1JBdUZLcWxVSE5TeHRHUlotMVNZSFlhU3RxRTJtZGIxUExBRXdhRXBQbHBFbm9TcVZMNTJvSnZ6OVcxTjdyazFhTWg3WVhQbVdLd0xFY0JWbkk2aUZsdVFrZHgwTk51RkM3TlUzMnhRQTMwWEgwLWo0RTFuM1dMX3kzQ2NkS0hnNzJfRUxsd0dn",
+      "indirect": true
+    },
+    "also": [
+      {
+        "name": "MercoPress",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVlBmaV9BTnRBVDB2S2ZlODI3bnU3dHJRVEpUUGxLQkE0b0swOUtKVmRVYjdoS0xkNXlSYk1qWVAweGxkZU8yRXhEck9CTnZKYUhGYk1zYXFIWU9ISE9nMGhhX0tjNGVyOWg0R2gyZktEdXEyc2J5QUdsZ3BZRmR2c0JzZUV1V2dmbDNUQWlXTUhLdkFSYUU3X2JEYWR3bzN2"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
     "id": "d7d70bfb54a5",
     "slug": "o-zbekistonda-avtomobillar-savdosi-20-4-foizga-oshdi-d7d70b",
     "title": "O‘zbekistonda avtomobillar savdosi 20,4 foizga oshdi",
