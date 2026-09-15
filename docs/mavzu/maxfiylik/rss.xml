@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/maxfiylik/</link>
   <description>&quot;maxfiylik&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Tue, 15 Sep 2026 23:04:05 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 15 Sep 2026 23:47:50 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/maxfiylik/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>AI laboratoriyalarida ma'lumotlar ishonchi muammosi</title>
+    <link>https://ailenta.uz/x/ai-laboratoriyalarida-malumotlar-ishonchi-muammosi-596ddf/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/ai-laboratoriyalarida-malumotlar-ishonchi-muammosi-596ddf/</guid>
+    <pubDate>Tue, 15 Sep 2026 17:52:05 GMT</pubDate>
+    <description>OpenAI va Anthropic korporativ mijozlar ma'lumotlaridan o'qitish uchun foydalanmaslikka va'da bergan. Biroq Anthropic foydalanish jurnallarini 30 kun saqlashini ma'lum qilgach, Palantir, Nvidia va Booz Allen Hamilton kabi kompaniyalar uning modelidan foydalanishni chekladi.</description>
+    <category>xavfsizlik</category><category>maxfiylik</category>
+    <media:content url="https://ailenta.uz/og/ai-laboratoriyalarida-malumotlar-ishonchi-muammosi-596ddf.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/ai-laboratoriyalarida-malumotlar-ishonchi-muammosi-596ddf.jpg"/>
+  </item>
   <item>
     <title>OpenAI ichki hujjatlari maxfiylikni oshkor etdi</title>
     <link>https://ailenta.uz/x/openai-ichki-hujjatlari-maxfiylikni-oshkor-etdi-c94276/</link>
@@ -296,16 +306,6 @@
     <category>Anthropic</category><category>maxfiylik</category>
     <media:content url="https://ailenta.uz/og/anthropic-malumotlarni-saqlash-siyosatini-ozgartirdi-17fd32.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/anthropic-malumotlarni-saqlash-siyosatini-ozgartirdi-17fd32.jpg"/>
-  </item>
-  <item>
-    <title>Meta AI yordamida foydalanuvchi yoshini aniqlaydi</title>
-    <link>https://ailenta.uz/x/meta-ai-yordamida-foydalanuvchi-yoshini-aniqlaydi-755800/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/meta-ai-yordamida-foydalanuvchi-yoshini-aniqlaydi-755800/</guid>
-    <pubDate>Tue, 01 Sep 2026 13:57:22 GMT</pubDate>
-    <description>Meta kompaniyasi foydalanuvchilarning yoshini aniqlash uchun sun'iy intellektdan foydalanmoqda. Raqamli huquq guruhlari bu yondashuvdan xavotirda, chunki yig'ilgan ma'lumotlar sizib chiqishi yoki noto'g'ri ishlatilishi mumkin.</description>
-    <category>Meta</category><category>maxfiylik</category>
-    <media:content url="https://ailenta.uz/og/meta-ai-yordamida-foydalanuvchi-yoshini-aniqlaydi-755800.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/meta-ai-yordamida-foydalanuvchi-yoshini-aniqlaydi-755800.jpg"/>
   </item>
 </channel>
 </rss>

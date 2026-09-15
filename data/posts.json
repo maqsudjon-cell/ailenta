@@ -1,5 +1,49 @@
 [
   {
+    "id": "523438692d2f",
+    "slug": "avstraliya-ai-uchun-mualliflik-huquqini-yumshatmoqchi-523438",
+    "title": "Avstraliya AI uchun mualliflik huquqini yumshatmoqchi",
+    "summary": "Avstraliya hukumati AQSh texnologiya gigantlari bilan kelishuv doirasida AI kompaniyalariga ijodkorlar ishlaridan foydalanish huquqini berishni ko'rib chiqmoqda. OpenAI vakillari mamlakat mualliflik huquqi qonunlari modellarni mahalliy darajada o'qitishga to'sqinlik qilayotganidan ogohlantirdi.",
+    "tags": [
+      "OpenAI",
+      "qonun"
+    ],
+    "importance": 3,
+    "score": 32,
+    "published": "2026-09-15T21:29:11.000Z",
+    "created": "2026-09-15T23:45:49.209Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/australia-news/2026/sep/16/pocock-says-labor-easing-copyright-protections-for-ai-datacentre-investment-would-throw-creatives-under-the-bus",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "596ddf903b01",
+    "slug": "ai-laboratoriyalarida-malumotlar-ishonchi-muammosi-596ddf",
+    "title": "AI laboratoriyalarida ma'lumotlar ishonchi muammosi",
+    "summary": "OpenAI va Anthropic korporativ mijozlar ma'lumotlaridan o'qitish uchun foydalanmaslikka va'da bergan. Biroq Anthropic foydalanish jurnallarini 30 kun saqlashini ma'lum qilgach, Palantir, Nvidia va Booz Allen Hamilton kabi kompaniyalar uning modelidan foydalanishni chekladi.",
+    "tags": [
+      "xavfsizlik",
+      "maxfiylik"
+    ],
+    "importance": 3,
+    "score": 24,
+    "published": "2026-09-15T17:52:05.000Z",
+    "created": "2026-09-15T23:45:49.209Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/ai-labs-have-a-data-trust-problem-that-their-policies-havent-solved",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "49c5ca3adae1",
     "slug": "kompaniyalarga-aidan-foydalanishda-koproq-yordam-kerak-49c5ca",
     "title": "Kompaniyalarga AIdan foydalanishda ko'proq yordam kerak",
