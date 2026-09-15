@@ -1,5 +1,54 @@
 [
   {
+    "id": "1ad152d23630",
+    "slug": "meta-whatsapp-business-sozlashda-ai-agentlaridan-foydalanmoq-1ad152",
+    "title": "Meta WhatsApp Business sozlashda AI agentlaridan foydalanmoqda",
+    "summary": "Meta WhatsApp Business MCP serveri orqali ishlab chiquvchilarga AI kodlash agentlaridan foydalanish imkonini beradi. Bu agentlar sozlash, xabar shablonlari, testlash va muammolarni bartaraf etishda yordam beradi.",
+    "tags": [
+      "Meta",
+      "agentlar"
+    ],
+    "importance": 3,
+    "score": 27,
+    "published": "2026-09-15T20:12:53.000Z",
+    "created": "2026-09-15T21:01:41.767Z",
+    "coverage": 2,
+    "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "TechCrunch",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcF8yQlQ5WlpPaXc5QUlwZEVLTVpPdThDemRORmJfQ0FkbnNNeF91T0ZZRWtwQ214bldVelM4Si1lSUV2WW85NUVkLUo4cUZKZUcwQXZDM1ktbHpnbGFNcWtXQmY0MEZNZFR1ZFJYZEphbHZCcGRZbkRNSGxtempiNklKZTNUQlV1eVloVFpKdjFHYUhjekNtMGtrazFrOWtLdE9TaFlSQWw4ZUVsSEE"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "47bae67b35c9",
+    "slug": "bernie-sanders-kongressni-ai-boyicha-sustkashlikda-aybladi-47bae6",
+    "title": "Bernie Sanders Kongressni AI bo'yicha sustkashlikda aybladi",
+    "summary": "Senator Bernie Sanders Vashingtondagi Pro-Human Assembly yig'ilishida sun'iy intellekt rivojlanishini tanqid qildi. Uning so'zlariga ko'ra, Kongress AI masalasida sustkashlik qilmoqda. Sanders hozirgi AI turini \"eng kam qobiliyatli versiya\" deb atadi.",
+    "tags": [
+      "siyosat",
+      "qonun"
+    ],
+    "importance": 3,
+    "score": 26,
+    "published": "2026-09-15T19:11:15.000Z",
+    "created": "2026-09-15T21:01:41.767Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/us-news/video/2026/sep/15/bernie-sanders-congress-ai-artificial-inteligence-video",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "d69ce8689fec",
     "slug": "meta-one-koproq-ai-va-funksiyalarga-ega-obuna-xizmati-d69ce8",
     "title": "Meta One: Ko'proq AI va funksiyalarga ega obuna xizmati",
