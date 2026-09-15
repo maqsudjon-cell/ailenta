@@ -1,5 +1,27 @@
 [
   {
+    "id": "d79e886d5334",
+    "slug": "openai-biologik-malumotlarni-sotib-olmoqda-d79e88",
+    "title": "OpenAI biologik ma'lumotlarni sotib olmoqda",
+    "summary": "OpenAI kompaniyasi sun'iy intellekt modellari uchun biologiyaga oid ma'lumotlarni yaratishga mablag' ajratmoqda. Buning uchun bankrot bo'lgan biotexnologik kompaniyalarning ma'lumotlaridan foydalanish taklif etilmoqda.",
+    "tags": [
+      "OpenAI",
+      "tibbiyot"
+    ],
+    "importance": 3,
+    "score": 26,
+    "published": "2026-09-15T12:00:00.000Z",
+    "created": "2026-09-15T13:44:28.078Z",
+    "coverage": 1,
+    "source": {
+      "name": "MIT Technology Review",
+      "url": "https://technologyreview.com/2026/09/15/1144129/ai-models-need-more-data-about-biology-and-openai-is-paying-to-create-it",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "4ed0a13c3f72",
     "slug": "deepmind-tadqiqotchisi-ai-xavfi-tufayli-istefo-berdi-4ed0a1",
     "title": "DeepMind tadqiqotchisi AI xavfi tufayli iste’fo berdi",

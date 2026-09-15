@@ -5,8 +5,18 @@
   <link>https://ailenta.uz</link>
   <description>Dunyodagi sun'iy intellekt yangiliklari o'zbek tilida. Har soatda yangilanadi, har bir xabarda asl manbaga havola.</description>
   <language>uz</language>
-  <lastBuildDate>Tue, 15 Sep 2026 13:04:35 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 15 Sep 2026 13:47:12 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>OpenAI biologik ma'lumotlarni sotib olmoqda</title>
+    <link>https://ailenta.uz/x/openai-biologik-malumotlarni-sotib-olmoqda-d79e88/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/openai-biologik-malumotlarni-sotib-olmoqda-d79e88/</guid>
+    <pubDate>Tue, 15 Sep 2026 12:00:00 GMT</pubDate>
+    <description>OpenAI kompaniyasi sun'iy intellekt modellari uchun biologiyaga oid ma'lumotlarni yaratishga mablag' ajratmoqda. Buning uchun bankrot bo'lgan biotexnologik kompaniyalarning ma'lumotlaridan foydalanish taklif etilmoqda.</description>
+    <category>OpenAI</category><category>tibbiyot</category>
+    <media:content url="https://ailenta.uz/og/openai-biologik-malumotlarni-sotib-olmoqda-d79e88.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/openai-biologik-malumotlarni-sotib-olmoqda-d79e88.jpg"/>
+  </item>
   <item>
     <title>DeepMind tadqiqotchisi AI xavfi tufayli iste’fo berdi</title>
     <link>https://ailenta.uz/x/deepmind-tadqiqotchisi-ai-xavfi-tufayli-istefo-berdi-4ed0a1/</link>
@@ -496,16 +506,6 @@
     <category>siyosat</category>
     <media:content url="https://ailenta.uz/og/coxon-bernie-va-bannon-insonparvar-ai-uchun-birlashdi-4786ef.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/coxon-bernie-va-bannon-insonparvar-ai-uchun-birlashdi-4786ef.jpg"/>
-  </item>
-  <item>
-    <title>Inson terisi ma'lumotlarida AI modeli o'qitilmoqda</title>
-    <link>https://ailenta.uz/x/inson-terisi-malumotlarida-ai-modeli-oqitilmoqda-3abfe4/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/inson-terisi-malumotlarida-ai-modeli-oqitilmoqda-3abfe4/</guid>
-    <pubDate>Mon, 14 Sep 2026 09:31:01 GMT</pubDate>
-    <description>Maykl Polanski boshchiligidagi &quot;Outer Bio&quot; loyihasi inson terisidan yig'ilgan ma'lumotlar yordamida sun'iy intellekt modelini o'qitmoqda. Ushbu loyiha shu paytgacha jamoatchilikka ma'lum bo'lmagan edi.</description>
-    <category>tadqiqot</category><category>tibbiyot</category>
-    <media:content url="https://ailenta.uz/og/inson-terisi-malumotlarida-ai-modeli-oqitilmoqda-3abfe4.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/inson-terisi-malumotlarida-ai-modeli-oqitilmoqda-3abfe4.jpg"/>
   </item>
 </channel>
 </rss>
