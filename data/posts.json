@@ -1,5 +1,26 @@
 [
   {
+    "id": "884609e2d727",
+    "slug": "unisound-u2-flash-moe-modelini-taqdim-etdi-884609",
+    "title": "Unisound U2-Flash MoE modelini taqdim etdi",
+    "summary": "Unisound agentlar va dasturlash vazifalari uchun U2-Flash modelini taqdim etdi. Mazkur siyrak MoE modeli jami 266 milliard parametrga ega bo'lib, uning taxminan 10 milliardi faoldir. Yangi model hozirda kompaniyaning MaaS platformasida ishga tushirildi.",
+    "tags": [
+      "agentlar"
+    ],
+    "importance": 2,
+    "score": 21,
+    "published": "2026-09-15T02:07:40.000Z",
+    "created": "2026-09-15T04:01:21.868Z",
+    "coverage": 1,
+    "source": {
+      "name": "Pandaily",
+      "url": "https://pandaily.com/unisound-u2-flash-moe-rsi-latent-reasoning-launch",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "cecb88d53547",
     "slug": "samsung-nvidia-chip-raqibini-qollab-quvvatladi-cecb88",
     "title": "Samsung Nvidia chip raqibini qo'llab-quvvatladi",
