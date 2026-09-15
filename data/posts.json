@@ -1,5 +1,66 @@
 [
   {
+    "id": "80862fd67dee",
+    "slug": "xitoy-ai-rivojlanishini-sekinlashtirish-munozarasida-80862f",
+    "title": "Xitoy AI rivojlanishini sekinlashtirish munozarasida",
+    "summary": "Xitoy ilg‘or AI rivojlanishini sekinlashtirish bo‘yicha munozaralarning markazida turibdi. Bu yerda xavfsizlik masalalari AQSh-Xitoy raqobati bilan to‘qnashmoqda.",
+    "tags": [
+      "siyosat",
+      "Xitoy"
+    ],
+    "importance": 3,
+    "score": 36,
+    "published": "2026-09-15T10:28:12.000Z",
+    "created": "2026-09-15T11:00:00.092Z",
+    "coverage": 4,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/china-ai-slow-down-role-risks-reaction-anthropic-dario-amodei-2026-9",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "Business Insider",
+        "url": "https://businessinsider.com/ai-risks-slow-down-reaction-anthropic-dario-amodei-sam-altman-2026-9"
+      },
+      {
+        "name": "The Verge",
+        "url": "https://theverge.com/ai-artificial-intelligence/995141/ai-executives-politicians-safety-regulation-anthropic-dario-amodei"
+      },
+      {
+        "name": "Business Insider",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNlBOMjdFWW1OZE9vekVuNU1VTEhkc2NJTXlIVFhUZ28zNEZDbDhOZlZob2VHemJhLVVEZUVndkhzWmRVMVNVcVY5UXk0SDdsUnZUUHRKNGZNWDJlZU1nckR1YUxRTUkwU2xvNC1xVm9JVXg5VDlSSUQwbVBJeHlNZWFYNzc2TC1LVWVMRUgzaUpXY0JCZUgtZ0RUdjBJdnY4aFE"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "f66fe75a15f2",
+    "slug": "blueworm-mantis-standard-gumanoid-robotini-chiqardi-f66fe7",
+    "title": "Blueworm Mantis Standard gumanoid robotini chiqardi",
+    "summary": "Blueworm Embodied Mantis Standard nomli modulli g‘ildirakli gumanoid robotini taqdim etdi. U 9 800 RMB dan boshlanadi, 22 erkinlik darajasiga ega va 7 kg yuk ko‘tara oladi.",
+    "tags": [
+      "robototexnika"
+    ],
+    "importance": 2,
+    "score": 24,
+    "published": "2026-09-15T09:32:09.000Z",
+    "created": "2026-09-15T11:00:00.093Z",
+    "coverage": 2,
+    "source": {
+      "name": "Pandaily",
+      "url": "https://pandaily.com/blueworm-mantis-standard-modular-wheeled-humanoid",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "TechNode",
+        "url": "https://technode.com/2026/09/15/blue-insect-mantis-standard-humanoid-robot"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
     "id": "da3350b2e016",
     "slug": "ai-xavfsizligi-faqat-tezlikni-pasaytirishdan-koproqni-talab--da3350",
     "title": "AI xavfsizligi faqat tezlikni pasaytirishdan ko'proqni talab qiladi",
