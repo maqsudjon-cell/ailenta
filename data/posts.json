@@ -1,5 +1,74 @@
 [
   {
+    "id": "582af6aeca46",
+    "slug": "ai-zamonaviy-hayotni-ozgartirmoqda-xavotirlar-mavjud-582af6",
+    "title": "AI zamonaviy hayotni o'zgartirmoqda, xavotirlar mavjud",
+    "summary": "Sun'iy intellekt zamonaviy hayotni o'zgartirmoqda. Ba'zilar uning suiiste'mol qilinishi yoki atrof-muhitga salbiy ta'siridan xavotirda.",
+    "tags": [
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 47,
+    "published": "2026-09-14T16:09:56.000Z",
+    "created": "2026-09-15T01:39:28.880Z",
+    "coverage": 4,
+    "source": {
+      "name": "BBC News",
+      "url": "https://bbc.co.uk/news/articles/c2l799gxjjpo?at_medium=RSS&at_campaign=rss",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "The Verge",
+        "url": "https://theverge.com/news/994566/microsoft-humanist-ai-code-of-conduct"
+      },
+      {
+        "name": "KSNV",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOYTFCVGVGb3k2Tk9DNDd0U2lVSzRjd1ZYc09MVG1lS1drZEFxZFFZSlNIaC1qX0F6dzZTVW50LWl3aHczLXVzV2d2RXFkbmNRbmtrR2s2SDVfRjdjTmNTdUtiTWMyNEFMeGIzdkswV0FLNlQxemM1RU5kUDYtb1dMOGt1RWNXSDFBcVU4"
+      },
+      {
+        "name": "KY3",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORXV3TG5oeXBoSVlhZlZhYnFfMHBRRHZSanc5R2RDcHNOUUZ6bFg5WnlRZ3ZJOF9XLVZkc0c5MWZmMDNuT3dUWDVrV1dUeTY4WGVNbkVpbHNidXoyM0tqWUY2YWVHZ1VmN05wenN0MlEtNXhMMFFRMjJlWEkzRFZ5ZWJ4NlJfU2FWTUgybE43aEZXMWNacVhyR0NhSmdMclpLcmfSAbYBQVVfeXFMTXFJdUR4aVRfaUVacTVFQ1ZGVURZRjhIbVVlWG9HVVlsTlZRN2J0VGM3WHNzdjZBaDJEZXJaSDVIcWhwd05ickFVUmpCV004dUJxdWZDRVR0NThCYjhic3ZqTTd5UjRVR0xmbVMtbnhXeVBQaXkyZmpkTUczeU5KaFU4dmVQQzFvTlcxUThVYzhSejFseWVIc2NkZUh1N09hTWNlNzZ6dHdQR2pVT3hTTTU5ZzlPSEE"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "8142a97675ed",
+    "slug": "sam-altman-ai-rivojlanishini-sekinlashtirishni-tushuntirdi-8142a9",
+    "title": "Sam Altman AI rivojlanishini sekinlashtirishni tushuntirdi",
+    "summary": "OpenAI rahbari Sam Altman AI sanoati rivojlanishini qanday sekinlashtirish mumkinligini tushuntirdi. Uning so'zlariga ko'ra, sanoat xavfsizlik xavotirlari ortidan birlashmoqda.",
+    "tags": [
+      "OpenAI",
+      "xavfsizlik"
+    ],
+    "importance": 4,
+    "score": 40,
+    "published": "2026-09-14T13:38:48.000Z",
+    "created": "2026-09-15T01:39:28.880Z",
+    "coverage": 4,
+    "source": {
+      "name": "CNBC",
+      "url": "https://cnbc.com/2026/09/14/sam-altman-ai-slowdown-anthropic-amodei-musk.html",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "CNBC",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPN0x1dy1VVUlFQXJ2c2hKQ2xuY2s4Ukk2SGpodktxVEJnQU9YNzhrVVVLRHFUd0diMWFCdTg3VFh2QkZGbG1EN2tKdGg1R196Q2Fya3I4WmNkcERQd2VsYW9icnNxejRrOERpZlVKTTVrOWVoLUx0SUJhcERpbU9qSk5VdjFOeV9k0gGOAUFVX3lxTE5QSWhQNnEzV0Y0LWdDalpDVUN5V0lyWU9ITXFXa2V3TjROd3VkQV9nMjJRS3drZEVUVWNHRngzeUYtOVVvazcza00wdFhZZTh1YXRVc2s2SHY1U0d2RFFRandZa3c0ZHBUWnh2Rkc5UGZ1b1FoWkktM21uV0hWMGpQcTQ0RDBWbFJla1JzX3c"
+      },
+      {
+        "name": "13newsnow.com",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQYnJKUVFST3V3MWFPVEo5OUw2VmVlQmhqbWUxYllSX1VfVmJfWTdJZ2JvRlNfU3RqWWhaVEVqTjNlTXBPSjRqSnFBc1d1QWNpR2dSck42RDFweEdRaVNuNmxWZEIzTFUtQkROUWNPdGowQmVPMEtjdXd3UWZkbU5oajczb0poNWtwc2ZUWm42QWRxNTIzbjVkSEZQcmxVMGtBdy1KeXV6Z2lfTDM2VUlKV1o3UHBHM1dyTXBCVmcxUXV6X2o5aDVPdjRFRGJrQ0hxNlE"
+      },
+      {
+        "name": "azfamily.com",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMkl5TDZXZjJkNXU5OEpXaHhtcFRpVUdKb2RTX0hHNGZnZU9haEtjTUFRamJ5RktXd3pSR2RlVVZ0WjE3R081OXNzVWp5RkpwMmZLc0JhWEpkcDhLSHM2S1g0MDZMcVVmU2hzdFh3SXotRk15ZUs2cnRLWUgyVmV0TExrdkZsYktKbzZlcll1Qmw0NjR4aG50bHppS3FrTGJHVERpXzNSWWo"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
     "id": "efb999faabd6",
     "slug": "microsoft-rahbari-ai-xavfsizligi-haqida-ogohlantirdi-efb999",
     "title": "Microsoft rahbari AI xavfsizligi haqida ogohlantirdi",
