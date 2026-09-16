@@ -1,5 +1,92 @@
 [
   {
+    "id": "b26812f67f8c",
+    "slug": "donald-tramp-ai-xavotirlarini-soxta-deb-atadi-b26812",
+    "title": "Donald Tramp AI xavotirlarini \"soxta\" deb atadi",
+    "summary": "AQSh prezidenti Donald Tramp sun'iy intellektga oid xavotirlarni \"soxta\" deb e'lon qildi. Uning so'zlariga ko'ra, bu fitna nazariyotchilari tomonidan o'ylab topilgan. Bu Anthropic va boshqa kompaniyalarning AI rivojlanishini sekinlashtirish chaqiriqlariga zid.",
+    "tags": [
+      "siyosat",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 27.6,
+    "published": "2026-09-15T18:06:39.000Z",
+    "created": "2026-09-16T09:38:27.540Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/politics/2026/sep/15/politicians-play-catchup-tech-bros-agree-decade-left-ai",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "511532461a98",
+    "slug": "ai-yordamida-sayohatni-rejalashtirish-samarali-sorovlar-511532",
+    "title": "AI yordamida sayohatni rejalashtirish: samarali so'rovlar",
+    "summary": "Mutaxassislarning fikricha, AI'dan sayohat tavsiyalari olish uchun aniqroq so'rovlar yozish kerak. Umumiy savollar umumiy javoblarga olib keladi. Yaxshi tavsiyalar olish uchun aqlliroq so'rovlardan foydalanish lozim.",
+    "tags": [
+      "ta'lim"
+    ],
+    "importance": 2,
+    "score": 27,
+    "published": "2026-09-16T09:02:18.000Z",
+    "created": "2026-09-16T09:38:27.540Z",
+    "coverage": 1,
+    "source": {
+      "name": "The New York Times",
+      "url": "https://nytimes.com/2026/09/16/travel/ai-trip-planning-prompts.html",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "82bf80b1909d",
+    "slug": "reid-hoffman-ai-foydalarini-korsatishga-chaqirdi-82bf80",
+    "title": "Reid Hoffman AI foydalarini ko'rsatishga chaqirdi",
+    "summary": "LinkedIn asoschisi Reid Hoffman sanoat va hukumatni amerikaliklarga AI foydalarini ko'rsatishga chaqirdi. Uning fikricha, bu AIga nisbatan salbiy munosabatning oldini olish uchun muhim.",
+    "tags": [
+      "siyosat",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 26,
+    "published": "2026-09-16T09:00:00.000Z",
+    "created": "2026-09-16T09:38:27.540Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Washington Post",
+      "url": "https://washingtonpost.com/technology/2026/09/16/linkedin-co-founder-reid-hoffman-calls-new-political-approach-ai",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "d48fe3d93da6",
+    "slug": "shanxay-ai-laboratoriyasi-atria-dawn-preview-modelini-chiqar-d48fe3",
+    "title": "Shanxay AI laboratoriyasi Atria Dawn Preview modelini chiqardi",
+    "summary": "Shanxay sun'iy intellekt laboratoriyasi Atria Dawn Preview nomli 744B MoE agent modelini ochiq manba qildi. GLM-5.2 asosida qurilgan model 256K kontekstga va FP8 og'irliklarga ega. U AutomationBench sinovida 53.8 ball to'pladi.",
+    "tags": [
+      "tadqiqot",
+      "ochiq model"
+    ],
+    "importance": 4,
+    "score": 24,
+    "published": "2026-09-16T08:10:51.000Z",
+    "created": "2026-09-16T09:38:27.540Z",
+    "coverage": 1,
+    "source": {
+      "name": "Pandaily",
+      "url": "https://pandaily.com/shanghai-ai-lab-atria-dawn-preview-744b-moe-agent",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "f473d2ebbabd",
     "slug": "anthropic-avstraliyada-yirik-datacentre-ijaraga-oladi-f473d2",
     "title": "Anthropic Avstraliyada yirik datacentre ijaraga oladi",
