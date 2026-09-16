@@ -1,5 +1,77 @@
 [
   {
+    "id": "53bdf1ed003a",
+    "slug": "ai-ilova-reklamalari-ayollarni-obyektivlashtirgani-uchun-taq-53bdf1",
+    "title": "AI ilova reklamalari ayollarni ob'yektivlashtirgani uchun taqiqlandi",
+    "summary": "Reklama nazorat organi ayollarni ob'yektivlashtiruvchi AI ilovalari reklamalarini taqiqladi. Regulyator bunday AI vositalarini targ'ib qiluvchi reklamalarga nisbatan murosasizligini bildirdi.",
+    "tags": [
+      "qonun",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 23,
+    "published": "2026-09-15T23:27:17.000Z",
+    "created": "2026-09-16T05:01:41.879Z",
+    "coverage": 1,
+    "source": {
+      "name": "BBC News",
+      "url": "https://bbc.co.uk/news/articles/cmlyrn2n4zg5o?at_medium=RSS&at_campaign=rss",
+      "title": "AI app ads promoting 'objectification of women' banned by watchdog",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "3d4f20ec7864",
+    "slug": "ai-yaratgan-sitkom-insoniyatni-zeriktirib-oldiradimi-3d4f20",
+    "title": "AI yaratgan sitkom: Insoniyatni zeriktirib o'ldiradimi",
+    "summary": "Bir Anthropic tadqiqotchisi AI insoniyatni yo'q qilish ehtimoli yuqori ekanini aytdi. Biroq, AI tomonidan yaratilgan sitkomning sifatsizligi bu xavfni yanada oshirishi mumkin.",
+    "tags": [
+      "Anthropic",
+      "xavfsizlik"
+    ],
+    "importance": 2,
+    "score": 25.2,
+    "published": "2026-09-15T15:00:53.000Z",
+    "created": "2026-09-16T05:01:42.235Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/tv-and-radio/2026/sep/15/no-big-deal-review-is-this-how-ai-ends-humanity-with-a-sitcom-so-bad-it-bores-you-to-death",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "939e8bd49a5b",
+    "slug": "salesforce-ceosi-ai-xavflari-haqida-ogohlantirdi-939e8b",
+    "title": "Salesforce CEO'si AI xavflari haqida ogohlantirdi",
+    "summary": "Salesforce bosh direktori Mark Benioff AI sanoatini mas'uliyatli harakat qilishga chaqirdi. U kuchli modellar rivojlanayotgani sababli xavflar ortib borayotganini ta'kidladi.",
+    "tags": [
+      "Salesforce",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 25,
+    "published": "2026-09-15T22:31:45.000Z",
+    "created": "2026-09-16T05:01:42.235Z",
+    "coverage": 2,
+    "source": {
+      "name": "CNBC",
+      "url": "https://cnbc.com/2026/09/15/salesforce-marc-benioff-ai-risks.html",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "The American Bazaar",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOX3E4WDVLV0JHQjRSaHZyZE5wdUYwWklQZjhXMDNyeDJMQjl4WUNXZ3ozbjVRMTJ0YXRjSE9vdTk1Z19JZlVab3BHY1hkckJIclFsV3ZQOWJCenZ4d2lmQldBeXI2YW1zTERBUmo2a0JYejRUV1JRMDRnTVBjRFQ5aEF5a19hMzRFMV93YTBRY2VVM241cE9IejNrWmtxZXRDQ3NSYTV6UmN4SXEweW53Tk9GX2U0QQ"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
     "id": "54b7d137de1d",
     "slug": "xitoy-anthropic-ceosining-ai-haqidagi-sozlariga-norozilik-54b7d1",
     "title": "Xitoy Anthropic CEO'sining AI haqidagi so'zlariga norozilik",
