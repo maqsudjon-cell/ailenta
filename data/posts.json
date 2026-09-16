@@ -1,5 +1,121 @@
 [
   {
+    "id": "5c61363562f7",
+    "slug": "microsoft-talimda-aiga-sodiqligini-elon-qildi-5c6136",
+    "title": "Microsoft ta'limda AI'ga sodiqligini e'lon qildi",
+    "summary": "Microsoft ta'lim sohasida sun'iy intellektni qo'llashga sodiqligini bildirdi. Bu e'lon kompaniyaning AI'ni ta'limga integratsiya qilish bo'yicha majburiyatini aks ettiradi.",
+    "tags": [
+      "Microsoft",
+      "ta'lim"
+    ],
+    "importance": 2,
+    "score": 33,
+    "published": "2026-09-16T19:21:05.000Z",
+    "created": "2026-09-16T20:19:14.932Z",
+    "coverage": 1,
+    "source": {
+      "name": "Microsoft",
+      "url": "https://blogs.microsoft.com/blog/2026/09/16/microsofts-commitment-for-ai-in-education",
+      "title": "Microsoft’s commitment for AI in education",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "5f7e182a53f2",
+    "slug": "openai-ai-foydalanishni-biznes-qiymatiga-boglash-5f7e18",
+    "title": "OpenAI AI foydalanishni biznes qiymatiga bog'lash",
+    "summary": "ChatGPT Work va Codex analitikasi jamoalarga AI'dan foydalanish va xarajatlarni tushunishga yordam beradi. Bu vositalar o'qitish ehtiyojlarini aniqlab, AI qabul qilinishini biznes natijalari bilan bog'laydi.",
+    "tags": [
+      "OpenAI",
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 39,
+    "published": "2026-09-16T12:00:00.000Z",
+    "created": "2026-09-16T20:19:18.856Z",
+    "coverage": 1,
+    "source": {
+      "name": "OpenAI",
+      "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "3194d6c72a8e",
+    "slug": "apple-glyph-agent-tizimini-taqdim-etdi-3194d6",
+    "title": "Apple Glyph agent tizimini taqdim etdi",
+    "summary": "Apple korxona ma'lumotlar kataloglari uchun Glyph nomli ko'p strategiyali agent tizimini ishlab chiqdi. Bu tizim ustun tavsiflarini yaratish va ma'lumotlarni tasniflash uchun LLM agentlaridan foydalanadi.",
+    "tags": [
+      "Apple",
+      "agentlar"
+    ],
+    "importance": 3,
+    "score": 32.7,
+    "published": "2026-09-16T00:00:00.000Z",
+    "created": "2026-09-16T20:19:18.856Z",
+    "coverage": 1,
+    "source": {
+      "name": "Apple",
+      "url": "https://machinelearning.apple.com/research/glyph-column-description-tagging",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "8b8fd6281dc9",
+    "slug": "zuckerberg-ai-imperiyasini-qurmoqda-maslahatchi-bilan-tanish-8b8fd6",
+    "title": "Zuckerberg AI imperiyasini qurmoqda: Maslahatchi bilan tanishing",
+    "summary": "Mark Zuckerberg AI imperiyasini qurishda davom etmoqda. Bloomberg.com nashri uning bu jarayondagi asosiy maslahatchisi haqida ma'lumot berdi.",
+    "tags": [
+      "Meta",
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 27,
+    "published": "2026-09-16T10:00:00.000Z",
+    "created": "2026-09-16T20:19:18.856Z",
+    "coverage": 1,
+    "source": {
+      "name": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWkNFYnhUQnFYempwS0puWklDWUZfazJES0RXVmRoUkEtSmRhTk83ZzZQSHBrVHdnbV9PZXFzclZVYmVkVDFfbXIzSlVTRU9rQXo0Ml9aY0dFaTAzUm9nZW10VVZoQUJoekE1RDBwSXV5S2FPTlpOcHRROEJOYnpXN3ZXMktiMWxwQXNidW9JU0VNU3lwWmotUkRyMUE5M0otWGNtOEtWUjZQZDZUWFNXWDZuNm1nUDZFcWFlYy1TWQ",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "8b808f09c31d",
+    "slug": "pentagon-ctosi-ai-kompaniyalarida-ulush-olishga-qarshi-8b808f",
+    "title": "Pentagon CTO'si AI kompaniyalarida ulush olishga qarshi",
+    "summary": "Pentagon CTO'si AQSh hukumati texnologiya gigantlarida ulush olmasligi kerakligini aytdi. U AI qoidalarini qo'shishni shubha ostiga qo'yib, Donald Trampning AI rivojlanishini sekinlashtirishga qarshi ekanligini ta'kidladi.",
+    "tags": [
+      "siyosat",
+      "qonun"
+    ],
+    "importance": 3,
+    "score": 25,
+    "published": "2026-09-16T17:50:00.000Z",
+    "created": "2026-09-16T20:19:18.856Z",
+    "coverage": 2,
+    "source": {
+      "name": "CNBC",
+      "url": "https://cnbc.com/2026/09/16/emil-michael-ai-regulation-trump.html",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "Techmeme",
+        "url": "https://techmeme.com/260916/p38"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
     "id": "28ac63a55752",
     "slug": "aqsh-vakillar-palatasi-ai-qonunlari-muhokamasi-oldidan-tatil-28ac63",
     "title": "AQSh Vakillar Palatasi AI qonunlari muhokamasi oldidan ta'tilga chiqdi",
