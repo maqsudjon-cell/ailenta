@@ -5,7 +5,7 @@
   <link>https://ailenta.uz</link>
   <description>Dunyodagi sun'iy intellekt yangiliklari o'zbek tilida. Har soatda yangilanadi, har bir xabarda asl manbaga havola.</description>
   <language>uz</language>
-  <lastBuildDate>Wed, 16 Sep 2026 20:22:19 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 16 Sep 2026 21:03:41 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/rss.xml" rel="self" type="application/rss+xml"/>
   <item>
     <title>Microsoft ta'limda AI'ga sodiqligini e'lon qildi</title>
@@ -16,6 +16,16 @@
     <category>Microsoft</category><category>ta'lim</category>
     <media:content url="https://ailenta.uz/og/microsoft-talimda-aiga-sodiqligini-elon-qildi-5c6136.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/microsoft-talimda-aiga-sodiqligini-elon-qildi-5c6136.jpg"/>
+  </item>
+  <item>
+    <title>Shotlandiyada yangi AI datacentrelar qurilishi to'xtatildi</title>
+    <link>https://ailenta.uz/x/shotlandiyada-yangi-ai-datacentrelar-qurilishi-toxtatildi-8f9c06/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/shotlandiyada-yangi-ai-datacentrelar-qurilishi-toxtatildi-8f9c06/</guid>
+    <pubDate>Wed, 16 Sep 2026 18:28:12 GMT</pubDate>
+    <description>Shotlandiya parlamenti yangi AI datacentrelari uchun rejalashtirish ruxsatnomalarini bir yilgacha to'xtatishga ovoz berdi. Bu vaqt ichida hukumat tomonidan milliy strategiya ishlab chiqiladi. Mazkur qaror Buyuk Britaniyaning umumiy sun'iy intellekt strategiyasiga to'siq bo'lishi mumkin.</description>
+    <category>bulut</category><category>siyosat</category>
+    <media:content url="https://ailenta.uz/og/shotlandiyada-yangi-ai-datacentrelar-qurilishi-toxtatildi-8f9c06.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/shotlandiyada-yangi-ai-datacentrelar-qurilishi-toxtatildi-8f9c06.jpg"/>
   </item>
   <item>
     <title>Pentagon CTO'si AI kompaniyalarida ulush olishga qarshi</title>
@@ -496,16 +506,6 @@
     <category>Nvidia</category><category>chiplar</category>
     <media:content url="https://ailenta.uz/og/nvidia-ai-infra-summitda-energiya-samaradorligini-namoyish-e-5f6e3c.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/nvidia-ai-infra-summitda-energiya-samaradorligini-namoyish-e-5f6e3c.jpg"/>
-  </item>
-  <item>
-    <title>Google AI barcha tillar uchun universal bo‘lishini istaydi</title>
-    <link>https://ailenta.uz/x/google-ai-barcha-tillar-uchun-universal-bo-lishini-istaydi-98c36a/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/google-ai-barcha-tillar-uchun-universal-bo-lishini-istaydi-98c36a/</guid>
-    <pubDate>Tue, 15 Sep 2026 16:00:00 GMT</pubDate>
-    <description>Google an'anaviy matn tarjimasidan tashqariga chiqib, dunyo tillarini o‘z ifodasida tushunadigan AI modellarini yaratmoqda. Maqsad – AI ni hamma uchun va har tilda mavjud qilish.</description>
-    <category>Google</category><category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/google-ai-barcha-tillar-uchun-universal-bo-lishini-istaydi-98c36a.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/google-ai-barcha-tillar-uchun-universal-bo-lishini-istaydi-98c36a.jpg"/>
   </item>
 </channel>
 </rss>
