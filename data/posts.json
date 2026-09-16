@@ -1,5 +1,54 @@
 [
   {
+    "id": "3cff062cff3d",
+    "slug": "sam-altman-va-jensen-huang-trampning-kechki-ovqatiga-boradi-3cff06",
+    "title": "Sam Altman va Jensen Huang Trampning kechki ovqatiga boradi",
+    "summary": "OpenAI rahbari Sam Altman va Nvidia rahbari Jensen Huang Vashingtonda AQSh prezidenti Donald Tramp va Xitoy rahbari Si Szinpin sammiti doirasidagi davlat kechki ovqatida ishtirok etadi. Bu tashrif AI tartibga solish bo'yicha bahslar kuchaygan davrga to'g'ri kelmoqda.",
+    "tags": [
+      "OpenAI",
+      "Nvidia"
+    ],
+    "importance": 3,
+    "score": 28,
+    "published": "2026-09-16T21:35:10.000Z",
+    "created": "2026-09-16T21:45:20.833Z",
+    "coverage": 2,
+    "source": {
+      "name": "CNBC",
+      "url": "https://cnbc.com/2026/09/16/openai-altman-trump-xi-summit.html",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "CNBC",
+        "url": "https://cnbc.com/2026/09/15/nvidia-jensen-huang-trump-xi.html"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "12998c007001",
+    "slug": "nvidia-va-meta-rahbarlari-ai-sekinlashuvini-rad-etdi-12998c",
+    "title": "Nvidia va Meta rahbarlari AI sekinlashuvini rad etdi",
+    "summary": "Nvidia va Meta kompaniyalari rahbarlari sun'iy intellekt rivojlanishini sekinlashtirish bo'yicha muvofiqlashtirilgan harakatlarni qo'llab-quvvatlashdan bosh tortdi. Ular AI taraqqiyotini sekinlashtirishga qaratilgan chaqiriqlarni rad etishgan.",
+    "tags": [
+      "Nvidia",
+      "Meta"
+    ],
+    "importance": 4,
+    "score": 24.9,
+    "published": "2026-09-15T20:55:21.000Z",
+    "created": "2026-09-16T21:45:20.833Z",
+    "coverage": 1,
+    "source": {
+      "name": "Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObG5VOF9FckVMY2o1eWJQVWRMU3ZDaGF4QVNnNDg1Q256UExlSVJnenkyV1luX0IxTTQtcGNvRWVQTEgweVhrQW5qSVJPYTRLRHZEZ1kxRGJqTnNNWnpIbnkyeWYxY3RIRDJUYXBPY21tR3JmcUNQdkZEU2tyOFdLWmgyZmc",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "ede4cb365197",
     "slug": "donald-tramp-aini-tartibga-solishga-intilmayapti-ede4cb",
     "title": "Donald Tramp AI'ni tartibga solishga intilmayapti",
