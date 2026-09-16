@@ -1,5 +1,71 @@
 [
   {
+    "id": "a7de83c52c88",
+    "slug": "ai-xavfsizligi-bahsida-ikki-qarama-qarshi-lager-paydo-boldi-a7de83",
+    "title": "AI xavfsizligi bahsida ikki qarama-qarshi lager paydo bo'ldi",
+    "summary": "AI xavfsizligi va tartibga solish bo'yicha bahsda ikki qarama-qarshi lager shakllandi. Bir tomonda Tramp va Huang, ikkinchi tomonda Amodei, Altman va Musk turibdi.",
+    "tags": [
+      "siyosat",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 25,
+    "published": "2026-09-15T22:16:45.000Z",
+    "created": "2026-09-16T03:02:28.019Z",
+    "coverage": 2,
+    "source": {
+      "name": "CNBC",
+      "url": "https://cnbc.com/2026/09/15/ai-regulation-trump-nvidia-openai-anthropic.html",
+      "title": "Two camps have emerged in the debate over AI safety and regulation",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "1bae7b582a6d",
+    "slug": "mark-zuckerberg-anthropicni-ai-sekinlashuvi-bahsida-tanqid-q-1bae7b",
+    "title": "Mark Zuckerberg Anthropicni AI sekinlashuvi bahsida tanqid qildi",
+    "summary": "Meta bosh direktori Mark Zuckerberg ijtimoiy tarmoqlarda Anthropicni tanqid qildi. Uning fikricha, yetakchi AI laboratoriyalari texnologiyani takomillashtirishdan ko'ra xavfsizlikka e'tibor qaratishi kerak.",
+    "tags": [
+      "Meta",
+      "Anthropic"
+    ],
+    "importance": 4,
+    "score": 57,
+    "published": "2026-09-16T00:19:23.000Z",
+    "created": "2026-09-16T03:02:36.765Z",
+    "coverage": 7,
+    "source": {
+      "name": "The New York Times",
+      "url": "https://nytimes.com/2026/09/15/technology/mark-zuckerberg-anthropic-ai-safety.html",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "CNBC",
+        "url": "https://cnbc.com/2026/09/15/meta-mark-zuckerberg-with-nvidia-huang-ai-safety-slowdown.html"
+      },
+      {
+        "name": "Business Insider",
+        "url": "https://businessinsider.com/zuckerberg-says-ai-labs-slow-down-market-pressure-for-safety-2026-9"
+      },
+      {
+        "name": "Bloomberg.com",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSV9SRVpGQXZ0U0RMZGhKcGp1aENFQnUzLWlLR1ZWLU5mcGVWaWxEanE2YnNwbzJyX1J4UlVHX0ZyZlVIU3JfV1dQTkl3ZWVtMmp5ZGQ5QVlKd2JYdTBFaWpYUkZFcUJISENMbUNibERvd0cxRzV5VXp6a0REa3c3TGU3TmFtdGFwSUFNaEZXZUhJMnk1UmFrdjNSM18yZDFidG5xR0d3aVNwajY0NkJiR2xwdlg"
+      },
+      {
+        "name": "The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbDdJR2JuaHlmNmNBV3BFUDN1WVh6amQzM0VnWUcwLUl5MVFzaUJDMlBSQkNEeUhSSG1ZcjIya21VSWh5TXQ4dll4X0pHRE1BeUl3V3dydTctWEtRU0ZYQmE4V3BkcVM4VHV6MzdKVy1mNWE0WUtidXRubkFLZmxIRVFKblBEZ3NwczBLQ1habw"
+      },
+      {
+        "name": "cnbc.com",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQamJwVnJmQjRaczZCX3ZrNkktNHJ2cWtsZk13cGZsZWwwaVJPMHRhVmtiZjY1OXNkclU4RmN1OElzRFdRSm9DeWF3dHFtSjE3Q3BIMG8yX25vdkhJdXJJQUI5OTRma2pFRjViVnlfekZMMXl5X2RnRVd5VmxEY2FNbWdUaHJJMTRwTk5pSTFMOF80SjRQVVp2SG5n"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
     "id": "651d11e80f30",
     "slug": "sam-altman-ai-firmalariga-ishonishga-chaqirdi-651d11",
     "title": "Sam Altman AI firmalariga ishonishga chaqirdi",
