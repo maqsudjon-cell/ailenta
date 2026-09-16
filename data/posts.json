@@ -1,5 +1,49 @@
 [
   {
+    "id": "ede4cb365197",
+    "slug": "donald-tramp-aini-tartibga-solishga-intilmayapti-ede4cb",
+    "title": "Donald Tramp AI'ni tartibga solishga intilmayapti",
+    "summary": "Guardian podkastida Donald Trampning AI'ni tartibga solishga bo‘lgan istaksizligi muhokama qilindi. Siyosiy doiralarda sun'iy intellektga cheklovlar qo‘yishga qiziqish bor-yo‘qligi ko‘rib chiqildi.",
+    "tags": [
+      "siyosat",
+      "qonun"
+    ],
+    "importance": 2,
+    "score": 24.9,
+    "published": "2026-09-16T06:52:47.000Z",
+    "created": "2026-09-16T21:37:14.250Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/australia-news/audio/2026/sep/16/why-wont-donald-trump-regulate-ai-decoding-america-podcast",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "ce05b6e45c50",
+    "slug": "avstraliya-ai-kompaniyalariga-kontentdan-foydalanishni-osonl-ce05b6",
+    "title": "Avstraliya AI kompaniyalariga kontentdan foydalanishni osonlashtirmoqda",
+    "summary": "Avstraliya hukumati AI kompaniyalariga internetdagi kontentdan o‘qitish uchun foydalanishni osonlashtiruvchi taklifni ko‘rib chiqmoqda. Bu \"opt-out\" modeli orqali amalga oshiriladi, bunda foydalanuvchilar o‘z kontentini istisno qilishlari kerak bo‘ladi.",
+    "tags": [
+      "qonun",
+      "maxfiylik"
+    ],
+    "importance": 3,
+    "score": 23.1,
+    "published": "2026-09-16T02:24:48.000Z",
+    "created": "2026-09-16T21:37:14.250Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/australia-news/commentisfree/2026/sep/16/labor-ai-big-tech-australia-rights-consent-copyright-law-opt-out",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "8f9c060ed0b3",
     "slug": "shotlandiyada-yangi-ai-datacentrelar-qurilishi-toxtatildi-8f9c06",
     "title": "Shotlandiyada yangi AI datacentrelar qurilishi to'xtatildi",
