@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://ailenta.uz/x/sam-altman-ai-firmalariga-ishonishga-chaqirdi-651d11/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>AI Lenta</news:name>
+        <news:language>uz</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-16T00:59:20.000Z</news:publication_date>
+      <news:title>Sam Altman AI firmalariga ishonishga chaqirdi</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://ailenta.uz/x/jensen-huang-anthropic-taklifini-keraksiz-deb-atadi-c00687/</loc>
     <news:news>
       <news:publication>
@@ -1055,17 +1066,6 @@
       </news:publication>
       <news:publication_date>2026-09-14T03:06:01.000Z</news:publication_date>
       <news:title>SoftBank OpenAI sarmoyasi uchun 11,87 mlrd dollar qarz oldi</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://ailenta.uz/x/ubtech-robotlar-ishlab-chiqaruvchi-aqlli-zavodni-ochdi-255c8d/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>AI Lenta</news:name>
-        <news:language>uz</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-14T01:50:05.000Z</news:publication_date>
-      <news:title>UBTECH robotlar ishlab chiqaruvchi aqlli zavodni ochdi</news:title>
     </news:news>
   </url>
 </urlset>

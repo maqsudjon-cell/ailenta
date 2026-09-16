@@ -2,9 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://ailenta.uz/</loc>
-    <lastmod>2026-09-15</lastmod>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://ailenta.uz/x/sam-altman-ai-firmalariga-ishonishga-chaqirdi-651d11/</loc>
+    <lastmod>2026-09-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://ailenta.uz/x/jensen-huang-anthropic-taklifini-keraksiz-deb-atadi-c00687/</loc>
@@ -6511,6 +6517,18 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://ailenta.uz/mavzu/openai/</loc>
+    <lastmod>2026-09-16</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://ailenta.uz/mavzu/xavfsizlik/</loc>
+    <lastmod>2026-09-16</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://ailenta.uz/mavzu/nvidia/</loc>
     <lastmod>2026-09-15</lastmod>
     <changefreq>daily</changefreq>
@@ -6518,18 +6536,6 @@
   </url>
   <url>
     <loc>https://ailenta.uz/mavzu/anthropic/</loc>
-    <lastmod>2026-09-15</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://ailenta.uz/mavzu/xavfsizlik/</loc>
-    <lastmod>2026-09-15</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://ailenta.uz/mavzu/openai/</loc>
     <lastmod>2026-09-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
@@ -6716,7 +6722,7 @@
   </url>
   <url>
     <loc>https://ailenta.uz/kun/2026-09-16/</loc>
-    <lastmod>2026-09-15</lastmod>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -6818,13 +6824,13 @@
   </url>
   <url>
     <loc>https://ailenta.uz/arxiv/</loc>
-    <lastmod>2026-09-15</lastmod>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://ailenta.uz/mavzular/</loc>
-    <lastmod>2026-09-15</lastmod>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
