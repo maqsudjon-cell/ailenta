@@ -1,5 +1,115 @@
 [
   {
+    "id": "e6696c6ebc7c",
+    "slug": "huawei-nvidia-ai-chip-hukmronligiga-javob-beradi-e6696c",
+    "title": "Huawei Nvidia AI chip hukmronligiga javob beradi",
+    "summary": "Huawei kompaniyasi Nvidia'ning AI chip bozoridagi hukmronligiga Xitoyning eng yaxshi javobini taqdim etishga tayyorlanmoqda. Bu yangi chip bozorga jiddiy raqobat olib kirishi kutilmoqda.",
+    "tags": [
+      "Huawei",
+      "Nvidia"
+    ],
+    "importance": 3,
+    "score": 30,
+    "published": "2026-09-16T23:00:00.000Z",
+    "created": "2026-09-16T23:55:05.255Z",
+    "coverage": 1,
+    "source": {
+      "name": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcHJ3Q0EwbFRwV2xZcHF0XzNtMVV2X0U1cVZ2bU1SRHBwRm51RlA1cGc2UmxST0JNbThJcUoxclFZTTVzeGlfcEREbjI3TjR3MGFYU1M4ZnpfbFgya2ltY3JxYk0zdXNFUXBNQURsODIzanFJa05UbzJJYmVwbF95MGRKajVCSTJfekM5QmNmRTRQajNFbmlEMFRoblBXVUtXSWFwNUNkMXU1WVhLWGE3QmFnaFVsUQ",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "81c5723cde87",
+    "slug": "apple-diffuzion-modellarda-rl-uchun-daca-grponi-taklif-qildi-81c572",
+    "title": "Apple diffuzion modellarda RL uchun DACA-GRPO'ni taklif qildi",
+    "summary": "Apple tadqiqotchilari diffuzion til modellarida kuchaytirilgan o‘rganish (RL) uchun DACA-GRPO nomli yangi usulni taklif qildi. Bu usul mavjud RL metodlarining zaif tomonlarini, jumladan, vaqtinchalik kredit taqsimoti va noto‘g‘ri ehtimollik baholarini bartaraf etadi.",
+    "tags": [
+      "Apple",
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 28.2,
+    "published": "2026-09-16T00:00:00.000Z",
+    "created": "2026-09-16T23:55:05.256Z",
+    "coverage": 1,
+    "source": {
+      "name": "Apple",
+      "url": "https://machinelearning.apple.com/research/denoising-aware-credit-assignment",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "9f221e95a93c",
+    "slug": "apple-diskret-oqim-moslashuvida-yangi-usulni-taklif-qildi-9f221e",
+    "title": "Apple diskret oqim moslashuvida yangi usulni taklif qildi",
+    "summary": "Apple \"Trajectory as the Teacher\" nomli tadqiqotida diskret oqim moslashuvini bir necha bosqichda amalga oshirish usulini taklif qildi. Ular o‘qitish traektoriyasini cheklovchi omil deb hisoblaydi, bu esa matn yaratish samaradorligini oshirishga yordam beradi.",
+    "tags": [
+      "Apple",
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 28.2,
+    "published": "2026-09-16T00:00:00.000Z",
+    "created": "2026-09-16T23:55:05.256Z",
+    "coverage": 1,
+    "source": {
+      "name": "Apple",
+      "url": "https://machinelearning.apple.com/research/trajectory-teacher-flow-matching",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "2a70d59635a9",
+    "slug": "4b-model-postgresdan-81-tezroq-sorov-rejalari-tuzadi-2a70d5",
+    "title": "4B model Postgres'dan 81% tezroq so'rov rejalari tuzadi",
+    "summary": "Yangi 4B model Postgres ma'lumotlar bazasiga qaraganda 81% tezroq so‘rov rejalari ishlab chiqarishga o‘rgatildi. Bu model ma'lumotlar bazasi samaradorligini sezilarli darajada oshirishi mumkin.",
+    "tags": [
+      "tadqiqot",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 26,
+    "published": "2026-09-16T18:50:00.000Z",
+    "created": "2026-09-16T23:55:05.256Z",
+    "coverage": 1,
+    "source": {
+      "name": "Hacker News",
+      "url": "https://rohanbansal.com/qorl",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "1c6bc645c754",
+    "slug": "jim-cramer-ai-xarajatlari-sekinlashmasligini-aytdi-1c6bc6",
+    "title": "Jim Cramer AI xarajatlari sekinlashmasligini aytdi",
+    "summary": "CNBC'dan Jim Cramer AI xarajatlari o‘z sur’atida davom etishiga ishonch bildirdi. U model rivojlanishi tezligi borasidagi xavotirlarga qaramay, ma'lumotlar markazlari savdosidan voz kechmasligini ta'kidladi.",
+    "tags": [
+      "iqtisod",
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 25,
+    "published": "2026-09-16T23:00:33.000Z",
+    "created": "2026-09-16T23:55:05.256Z",
+    "coverage": 1,
+    "source": {
+      "name": "CNBC",
+      "url": "https://cnbc.com/2026/09/16/cramer-ai-slowdown-stocks-dip.html",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "3cff062cff3d",
     "slug": "sam-altman-va-jensen-huang-trampning-kechki-ovqatiga-boradi-3cff06",
     "title": "Sam Altman va Jensen Huang Trampning kechki ovqatiga boradi",
