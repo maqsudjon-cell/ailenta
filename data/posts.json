@@ -1,5 +1,175 @@
 [
   {
+    "id": "027811ca1632",
+    "slug": "openai-va-aarp-keksalarga-ai-konikmalarini-orgatadi-027811",
+    "title": "OpenAI va AARP keksalarga AI ko'nikmalarini o'rgatadi",
+    "summary": "OpenAI va AARP AQShning 10 shahrida 1000 nafar keksa yoshli fuqarolar uchun bepul ChatGPT seminarlarini o'tkazmoqda. Maqsad ularga amaliy AI ko'nikmalarini xavfsiz o'rgatish.",
+    "tags": [
+      "OpenAI",
+      "ta'lim"
+    ],
+    "importance": 2,
+    "score": 39,
+    "published": "2026-09-16T16:00:00.000Z",
+    "created": "2026-09-16T17:12:04.421Z",
+    "coverage": 1,
+    "source": {
+      "name": "OpenAI",
+      "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+      "title": "Helping older adults use AI in everyday life",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "7c5d9cf3f050",
+    "slug": "bannon-va-sanders-ai-islohotlarini-talab-qildi-7c5d9c",
+    "title": "Bannon va Sanders AI islohotlarini talab qildi",
+    "summary": "Vashingtondagi tadbirda Stiv Bannon va Berni Sanders texnologiya \"oligarchlari\"ni tanqid qilib, AI sohasida islohotlar o'tkazishga chaqirdi. Unga turli soha vakillari qo'shildi.",
+    "tags": [
+      "siyosat",
+      "qonun"
+    ],
+    "importance": 3,
+    "score": 30,
+    "published": "2026-09-16T09:09:37.000Z",
+    "created": "2026-09-16T17:12:04.429Z",
+    "coverage": 1,
+    "source": {
+      "name": "The New York Times",
+      "url": "https://nytimes.com/2026/09/15/us/steve-bannon-bernie-sanders-ai.html",
+      "title": "Steve Bannon and Bernie Sanders Condemn Tech ‘Oligarchs’ and Demand A.I. Reforms",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "5b258133c86f",
+    "slug": "smartarm-ai-yordamida-bionik-protez-yaratmoqda-5b2581",
+    "title": "smartARM AI yordamida bionik protez yaratmoqda",
+    "summary": "Kanadalik smartARM startapi AI va ochiq manbali dasturiy ta'minot yordamida bionik qo'l prototipini ishlab chiqmoqda. Bu protez Meta AI ko'zoynaklari bilan yanada intuitiv boshqaruvni ta'minlaydi.",
+    "tags": [
+      "Meta",
+      "tibbiyot"
+    ],
+    "importance": 3,
+    "score": 39,
+    "published": "2026-09-16T16:00:19.000Z",
+    "created": "2026-09-16T17:12:16.997Z",
+    "coverage": 2,
+    "source": {
+      "name": "Meta",
+      "url": "https://about.fb.com/news/2026/09/canadian-start-up-smartarm-uses-ai-to-create-intuitive-bionic-prosthetics",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "The Tech Buzz",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYUtZQ1VHUjJtZmR2ZGM0ak5hWk5ZOUR1WE5UWlFFNzVFU1lWdm40MjBxa2UtNU5NdTJRaDN0UHVwaUxzdTNLcDc4ZmVPNVVRQUptOGtyQl9CMUZZR1RxMmVMUnVtMzExYmFheGRaaHdEcmF1VkJYOVpHOF9sM1JFa1E4dkp5bmhFODdndWkwVkNEb1phOElsR0Ytb1k"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "2539d6b605d7",
+    "slug": "nvidia-vera-rubin-nvl72-mlperf-sinovida-yetakchi-2539d6",
+    "title": "Nvidia Vera Rubin NVL72 MLPerf sinovida yetakchi",
+    "summary": "Nvidia Vera Rubin NVL72 tizimi MLPerf Inference v6.1 sinovlarida yuqori natijalarni ko'rsatdi. Bu AI xulosa chiqarish samaradorligi va infratuzilma optimallashuvini ta'minlaydi.",
+    "tags": [
+      "Nvidia",
+      "chiplar"
+    ],
+    "importance": 3,
+    "score": 39,
+    "published": "2026-09-16T15:00:48.000Z",
+    "created": "2026-09-16T17:12:16.997Z",
+    "coverage": 1,
+    "source": {
+      "name": "Nvidia",
+      "url": "https://blogs.nvidia.com/blog/vera-rubin-nvl72-mlperf-inference",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "0bc28778b4d4",
+    "slug": "mozilla-smart-window-yordamchisi-mistral-modelida-ishlaydi-0bc287",
+    "title": "Mozilla Smart Window yordamchisi Mistral modelida ishlaydi",
+    "summary": "Mozilla va Mistral hamkorlikda maxfiylikka e'tibor qaratgan holda AI asosidagi brauzerni taklif qilmoqda. Mozilla'ning yangi Smart Window yordamchisi Mistral modellarida ishlaydi.",
+    "tags": [
+      "Mistral",
+      "maxfiylik"
+    ],
+    "importance": 3,
+    "score": 32,
+    "published": "2026-09-16T15:01:38.000Z",
+    "created": "2026-09-16T17:12:16.997Z",
+    "coverage": 2,
+    "source": {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/mozillas-new-smart-window-assistant-runs-on-mistrals-models",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "Hacker News",
+        "url": "https://mistral.ai/news/mistral-x-mozilla"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "bbe6baec5321",
+    "slug": "ai-ilmiy-maqolalarni-interaktiv-agentlarga-aylantiradi-bbe6ba",
+    "title": "AI ilmiy maqolalarni interaktiv agentlarga aylantiradi",
+    "summary": "Yangi AI vositasi ilmiy tadqiqot maqolalarini interaktiv AI agentlariga aylantira oladi. Bu agentlar hamkorlik qilib, murakkab savollarga javob berishi mumkin.",
+    "tags": [
+      "tadqiqot",
+      "agentlar"
+    ],
+    "importance": 3,
+    "score": 29.9,
+    "published": "2026-09-16T00:00:00.000Z",
+    "created": "2026-09-16T17:12:16.997Z",
+    "coverage": 2,
+    "source": {
+      "name": "Nature",
+      "url": "https://nature.com/articles/d41586-026-02880-z",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "Nature",
+        "url": "https://nature.com/articles/d41586-026-02899-2"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "be0b58d14972",
+    "slug": "ai-kriket-sportini-ozgartirmoqda-be0b58",
+    "title": "AI kriket sportini o'zgartirmoqda",
+    "summary": "Sun'iy intellekt kriket sportini qayta shakllantirmoqda. AI o'yinchilar, murabbiylar va tahlilchilarni almashtirmaydi, balki ularning imkoniyatlarini kengaytiradi.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 1,
+    "score": 29,
+    "published": "2026-09-16T09:30:15.000Z",
+    "created": "2026-09-16T17:12:16.997Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/sport/2026/sep/16/robots-bowling-the-perfect-doosra-are-some-way-off-but-ai-is-already-reshaping-cricket-in-myriad-ways",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "52752974efc0",
     "slug": "openai-ai-yordamida-reklama-tajribalarini-taqdim-etdi-527529",
     "title": "OpenAI AI yordamida reklama tajribalarini taqdim etdi",
