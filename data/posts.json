@@ -1,5 +1,49 @@
 [
   {
+    "id": "01570f348ada",
+    "slug": "virtual-aktrisa-tilly-norwood-siyosiy-savollardan-qochmoqda-01570f",
+    "title": "Virtual aktrisa Tilly Norwood siyosiy savollardan qochmoqda",
+    "summary": "Misaligned filmini targ'ib qilayotgan Tilly Norwood ismli virtual AI qahramoni siyosiy mavzulardan qochishga urinib, foydalanuvchilarning kiyimlarini takroran muhokama qilmoqda.",
+    "tags": [
+      "xavfsizlik"
+    ],
+    "importance": 2,
+    "score": 22.6,
+    "published": "2026-09-15T18:00:09.000Z",
+    "created": "2026-09-16T07:01:25.219Z",
+    "coverage": 1,
+    "source": {
+      "name": "Wired",
+      "url": "https://wired.com/story/ai-actor-tilly-norwood-told-me-that-all-lives-matter",
+      "title": "AI ‘Actor’ Tilly Norwood Told Me That ‘All Lives Matter’",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "d0b9509c549f",
+    "slug": "m4-mac-mini-uchun-bir-oyda-linux-gpu-drayveri-yaratildi-d0b950",
+    "title": "M4 Mac Mini uchun bir oyda Linux GPU drayveri yaratildi",
+    "summary": "Ishlab chiquvchilar bir oy ichida yangi M4 chipli Mac Mini kompyuteri uchun Linux operatsion tizimida ishlaydigan GPU drayverini yaratishga muvaffaq bo'lishdi.",
+    "tags": [
+      "Apple",
+      "chiplar"
+    ],
+    "importance": 3,
+    "score": 23,
+    "published": "2026-09-15T19:30:03.000Z",
+    "created": "2026-09-16T07:01:47.635Z",
+    "coverage": 1,
+    "source": {
+      "name": "Hacker News",
+      "url": "https://codyho.dev/blog/gpu-driver",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "fa1c7be3a7a0",
     "slug": "manchester-universiteti-nvidia-earth-2-bilan-havo-ifloslanis-fa1c7b",
     "title": "Manchester universiteti Nvidia Earth-2 bilan havo ifloslanishini bashorat qiladi",
