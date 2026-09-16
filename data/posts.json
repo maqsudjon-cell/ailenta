@@ -1,5 +1,49 @@
 [
   {
+    "id": "fa1c7be3a7a0",
+    "slug": "manchester-universiteti-nvidia-earth-2-bilan-havo-ifloslanis-fa1c7b",
+    "title": "Manchester universiteti Nvidia Earth-2 bilan havo ifloslanishini bashorat qiladi",
+    "summary": "Manchester universiteti Buyuk Britaniyada havo ifloslanishini bashorat qilish uchun Nvidia Earth-2 modelidan foydalanmoqda. An'anaviy kimyoviy modellar qimmat bo'lgani sababli, bu yondashuv batafsilroq ma'lumot beradi.",
+    "tags": [
+      "Nvidia",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 33,
+    "published": "2026-09-16T05:00:42.000Z",
+    "created": "2026-09-16T05:22:15.486Z",
+    "coverage": 1,
+    "source": {
+      "name": "Nvidia",
+      "url": "https://blogs.nvidia.com/blog/uk-air-pollution-research-earth-2",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "b16ade5ad509",
+    "slug": "nvidia-anthropic-openai-rahbarlari-ai-masuliyati-haqida-b16ade",
+    "title": "Nvidia, Anthropic, OpenAI rahbarlari AI mas'uliyati haqida",
+    "summary": "Nvidia, Anthropic va OpenAI kompaniyalari bosh direktorlari Salesforce tadbirida AI rivojlanishi va mas'uliyati bo'yicha o'z fikrlarini bildirishdi. Ular sun'iy intellektning kelajakdagi yo'nalishini muhokama qildilar.",
+    "tags": [
+      "Nvidia",
+      "Anthropic"
+    ],
+    "importance": 4,
+    "score": 24,
+    "published": "2026-09-15T23:46:00.000Z",
+    "created": "2026-09-16T05:22:15.486Z",
+    "coverage": 1,
+    "source": {
+      "name": "SiliconANGLE",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQYUdNU3BlTHljVHRFclRVUjVZelBqbVJXZU8wOVc1QzNJdjdkYlp5SWpMVWNJS3h1Z3JZZ0dtRXNkbGpkZTRJV0poTktzLXl6U0lYZ1NwR21WOEY0ekNQd19OQ2dpNjFBVHpNOHg0WWpMZExjSVJuZlVTZk1PUDZqT1M3cGo5T0JIMVkyNDczUTh5T1dpT3k0SDNLbG5MbzREUVZZMS14UjdoTjFCSUFjUVBrdlNtSE1xMmNJaW9wUE5YTzI1M3NxVFcxeGlxd3ZWanF3",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "53bdf1ed003a",
     "slug": "ai-ilova-reklamalari-ayollarni-obyektivlashtirgani-uchun-taq-53bdf1",
     "title": "AI ilova reklamalari ayollarni ob'yektivlashtirgani uchun taqiqlandi",
