@@ -1,5 +1,49 @@
 [
   {
+    "id": "28ac63a55752",
+    "slug": "aqsh-vakillar-palatasi-ai-qonunlari-muhokamasi-oldidan-tatil-28ac63",
+    "title": "AQSh Vakillar Palatasi AI qonunlari muhokamasi oldidan ta'tilga chiqdi",
+    "summary": "AQSh Vakillar Palatasi spikeri Mike Johnson ovoz berishlarni bekor qilib, qonunchilarni muddatidan oldin ta'tilga jo‘natdi. Bu qaror sun'iy intellekt bo‘yicha qonun loyihalarini taklif qilishga urinishlar avj olgan bir paytda yuz berdi.",
+    "tags": [
+      "siyosat",
+      "qonun"
+    ],
+    "importance": 3,
+    "score": 26,
+    "published": "2026-09-16T17:10:42.000Z",
+    "created": "2026-09-16T19:05:28.652Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/us-news/2026/sep/16/mike-johnson-cancels-house-vote-hegseth",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "9245b8165b01",
+    "slug": "ai-xavfsizligi-boyicha-tartibga-solish-covid-davriga-oxshash-9245b8",
+    "title": "AI xavfsizligi bo'yicha tartibga solish Covid davriga o'xshash",
+    "summary": "\"AI otasi\" Yoshua Bengio sun'iy intellekt xavfsizligi bo'yicha xavotirlar hukumatlarni Covid pandemiyasidagi kabi harakatga undash nuqtasiga yetganini aytdi. Uning fikricha, so'nggi voqealar hukumat choralarini yanada ehtimolli qilmoqda.",
+    "tags": [
+      "qonun",
+      "tadqiqot"
+    ],
+    "importance": 4,
+    "score": 26,
+    "published": "2026-09-16T15:00:23.000Z",
+    "created": "2026-09-16T19:05:28.652Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/technology/2026/sep/16/ai-tech-regulation-government-action-yoshua-bengio",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "b00afcd75814",
     "slug": "factory-5-mlrd-baho-oldi-ai-dasturchilar-o-rnini-bosishga-ya-b00afc",
     "title": "Factory $5 mlrd baho oldi, AI dasturchilar o‘rnini bosishga yaqin",
