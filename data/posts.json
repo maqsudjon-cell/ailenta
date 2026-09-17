@@ -1,5 +1,49 @@
 [
   {
+    "id": "614319bc6b88",
+    "slug": "openrouter-ai-model-xarajatlari-openai-anthropicdan-ozdi-614319",
+    "title": "OpenRouter AI model xarajatlari: OpenAI Anthropicdan o'zdi",
+    "summary": "OpenRouter platformasida dasturchilarning OpenAI modellariga sarflagan xarajatlari 2024-yildan beri ilk bor Anthropic modellaridan oshdi. Bu platforma turli AI modellarini yagona API orqali ishlatish imkonini beradi va foydalanish hajmini ko'rsatadi.",
+    "tags": [
+      "OpenAI",
+      "Anthropic"
+    ],
+    "importance": 3,
+    "score": 57,
+    "published": "2026-09-17T04:00:00.000Z",
+    "created": "2026-09-17T04:10:00.196Z",
+    "coverage": 1,
+    "source": {
+      "name": "Pivot",
+      "url": "https://pivot.uz/uz/openrouter-kompaniyalarning-ai-modellariga-sarflagan-xarajatlarini-elon-qil",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "6a8042278f24",
+    "slug": "ozbek-startapi-tirgo-800-muammodan-80-000-daromadga-erishdi-6a8042",
+    "title": "O'zbek startapi TIRGO $800 muammodan $80,000 daromadga erishdi",
+    "summary": "O'zbekistonlik tadbirkor Behzod Zufarovning TIRGO startapi yuk tashishdagi muammoni raqamlashtirdi. Dastlabki marketplace modeli muvaffaqiyatsiz bo'lgach, loyiha tranzit deklaratsiyalari va sug'urta kabi xizmatlarga o'tdi. Bu o'zgarish startapga oyiga $80,000 daromad keltirdi.",
+    "tags": [
+      "O'zbekiston",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 48,
+    "published": "2026-09-17T04:00:00.000Z",
+    "created": "2026-09-17T04:10:00.196Z",
+    "coverage": 1,
+    "source": {
+      "name": "Pivot",
+      "url": "https://pivot.uz/uz/800lik-muammo-startapni-oyiga-80-ming-daromadga-olib-keldi",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "c52942f1dad3",
     "slug": "apple-server-bozoriga-qaytishni-rejalashtirmoqda-c52942",
     "title": "Apple server bozoriga qaytishni rejalashtirmoqda",
