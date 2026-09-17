@@ -5,7 +5,7 @@
   <link>https://ailenta.uz/mavzu/openai/</link>
   <description>&quot;OpenAI&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Thu, 17 Sep 2026 00:39:24 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 17 Sep 2026 01:04:32 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/openai/rss.xml" rel="self" type="application/rss+xml"/>
   <item>
     <title>AI kompaniyalari kiyim sotishni boshladi</title>
@@ -36,6 +36,16 @@
     <category>OpenAI</category><category>Nvidia</category>
     <media:content url="https://ailenta.uz/og/sam-altman-va-jensen-huang-trampning-kechki-ovqatiga-boradi-3cff06.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/sam-altman-va-jensen-huang-trampning-kechki-ovqatiga-boradi-3cff06.jpg"/>
+  </item>
+  <item>
+    <title>Anthropic va OpenAI AI nazoratchilarini taklif qildi</title>
+    <link>https://ailenta.uz/x/anthropic-va-openai-ai-nazoratchilarini-taklif-qildi-ed66df/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/anthropic-va-openai-ai-nazoratchilarini-taklif-qildi-ed66df/</guid>
+    <pubDate>Wed, 16 Sep 2026 19:31:06 GMT</pubDate>
+    <description>Anthropic va OpenAI modellar jamiyatga katta zarar yetkazish xavfini boshqarish uchun yangi &quot;neytral&quot; AI nazoratchilarini taklif qilmoqda. Bu g'oya ba'zi muammolarga ega.</description>
+    <category>Anthropic</category><category>OpenAI</category>
+    <media:content url="https://ailenta.uz/og/anthropic-va-openai-ai-nazoratchilarini-taklif-qildi-ed66df.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/anthropic-va-openai-ai-nazoratchilarini-taklif-qildi-ed66df.jpg"/>
   </item>
   <item>
     <title>OpenAI va AARP keksalarga AI ko'nikmalarini o'rgatadi</title>
@@ -296,16 +306,6 @@
     <category>OpenAI</category><category>biznes</category>
     <media:content url="https://ailenta.uz/og/fidji-simo-nscale-direktorlar-kengashiga-qoshildi-3e343d.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/fidji-simo-nscale-direktorlar-kengashiga-qoshildi-3e343d.jpg"/>
-  </item>
-  <item>
-    <title>GPT-6 Astra Devin'ning dasturiy ta'minot sinovini yaxshiladi</title>
-    <link>https://ailenta.uz/x/gpt-6-astra-devinning-dasturiy-taminot-sinovini-yaxshiladi-c3aa33/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/gpt-6-astra-devinning-dasturiy-taminot-sinovini-yaxshiladi-c3aa33/</guid>
-    <pubDate>Fri, 11 Sep 2026 16:00:00 GMT</pubDate>
-    <description>GPT-6 Astra Devin'ning dasturiy ta'minotni sinash va uning ishlashini ko'rsatish qobiliyatini oshirdi. Bu muhandislarga kamroq kod tekshirish va ko'proq mahsulot chiqarishga yordam berishni maqsad qilgan.</description>
-    <category>OpenAI</category><category>agentlar</category>
-    <media:content url="https://ailenta.uz/og/gpt-6-astra-devinning-dasturiy-taminot-sinovini-yaxshiladi-c3aa33.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/gpt-6-astra-devinning-dasturiy-taminot-sinovini-yaxshiladi-c3aa33.jpg"/>
   </item>
 </channel>
 </rss>

@@ -1,5 +1,115 @@
 [
   {
+    "id": "d200db485db2",
+    "slug": "mustafa-suleyman-ai-modellariga-hissiyot-berishga-qarshi-d200db",
+    "title": "Mustafa Suleyman AI modellariga hissiyot berishga qarshi",
+    "summary": "Microsoft AI rahbari Mustafa Suleyman modellar hissiyot, huquq yoki farovonlikka ega deb qaralmasligi kerakligini aytdi. Uning fikricha, bunday yondashuv AI'ni boshqarishni qiyinlashtiradi va dalillar bilan asoslanmagan.",
+    "tags": [
+      "Microsoft",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 36,
+    "published": "2026-09-16T16:00:54.000Z",
+    "created": "2026-09-17T01:01:36.916Z",
+    "coverage": 4,
+    "source": {
+      "name": "Simon Willison",
+      "url": "https://simonwillison.net/2026/Sep/16/mustafa-suleyman",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "Reuters",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcXVwcmwwcUVVMFVOeHFOZHdJQlJHMlhwdGNYUl9FeEhKVFZjWWNDV0pGUnh3dVNQZi1BSDhHZUszWmtpbVpYdGNLWU01clRZTngtT2VpQ1lPVkFhSkVwVGVVR1N6T2RaczBvX2NJTmc0aU5GWEhZTVBIYmIwbnVEc0hSRWxzeUF2d0hQQUZCcVl3cEw2MVBVdmU1MDNTbUhwQ0loRzFPSXJBY1lweWlV"
+      },
+      {
+        "name": "Axios",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNems2WVBQbG53YmJHY3RoQ3ZMWWxsOTFqTzR3SDhqTnJ2d2lsa3FCOWdtY2QxbV9RanVObFVyZmtWZFl2MnJhVzBLVG1nWGc1TTluRGRMNDF5TGtlUDhZbkxwazdwdWR4UlJJT3E1SDd1SW1sTWFrUUZ4M09nTWlydg"
+      },
+      {
+        "name": "Mashable SEA",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPeUdHSUVlSXJ3d1Rlb3VlZkNmMWVHMDRLZnlIRXpaeG5rSzNtQnBid0g4Q2ZXS21rdVBVdkpJOTRZTnhMNm1WY1Y0UGhrUzJ3dkMyZEtDbHR6cEJ4MVRWVTJKOVpscy1OZW40enVMX0Z6NF92c1VYUHpHc29US2ZxZndmaEw1Qlp6WklUSmFKNTh1Q3BYS1NSSHBLdGdiTVlhelRrcDdnTkUyMTE0bWQyYlE3WVNjSXYwblMwU2JR"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "4f89630a8aea",
+    "slug": "aqsh-hukumati-ai-boyicha-harakat-qilmayapti-4f8963",
+    "title": "AQSh hukumati AI bo'yicha harakat qilmayapti",
+    "summary": "Sam Altman, Elon Musk va Dario Amodei AI rivojlanishini sekinlashtirishga chaqirdi. Biroq, AQSh hukumati AI xavfsizligi bo'yicha harakat qilmayapti, bu esa texnologiyani xavfliroq qilishi mumkin.",
+    "tags": [
+      "siyosat",
+      "xavfsizlik"
+    ],
+    "importance": 4,
+    "score": 27.8,
+    "published": "2026-09-16T10:00:18.000Z",
+    "created": "2026-09-17T01:01:36.916Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/technology/2026/sep/16/us-government-failing-americans-ai",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "f944037e58f8",
+    "slug": "snap-specs-intelligence-ai-yordamchisini-taqdim-etdi-f94403",
+    "title": "Snap Specs Intelligence AI yordamchisini taqdim etdi",
+    "summary": "Snap iPhone, Mac va Specs ko'zoynaklarida ishlaydigan Specs Intelligence nomli AI yordamchisini chiqardi. Bu \"kutilgan AI xizmati\" iOS uchun dastlabki versiyada mavjud.",
+    "tags": [
+      "Snap",
+      "agentlar"
+    ],
+    "importance": 3,
+    "score": 27,
+    "published": "2026-09-17T00:30:32.000Z",
+    "created": "2026-09-17T01:01:36.916Z",
+    "coverage": 3,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/260916/p50",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "The Verge",
+        "url": "https://theverge.com/tech/996078/snap-specs-intelligence-ai-agent-ios-mac"
+      },
+      {
+        "name": "Engadget",
+        "url": "https://engadget.com/2260736/snap-introduces-a-standalone-ai-assistant-specs-intelligence"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "ed66dfca6081",
+    "slug": "anthropic-va-openai-ai-nazoratchilarini-taklif-qildi-ed66df",
+    "title": "Anthropic va OpenAI AI nazoratchilarini taklif qildi",
+    "summary": "Anthropic va OpenAI modellar jamiyatga katta zarar yetkazish xavfini boshqarish uchun yangi \"neytral\" AI nazoratchilarini taklif qilmoqda. Bu g'oya ba'zi muammolarga ega.",
+    "tags": [
+      "Anthropic",
+      "OpenAI"
+    ],
+    "importance": 3,
+    "score": 25,
+    "published": "2026-09-16T19:31:06.000Z",
+    "created": "2026-09-17T01:01:36.916Z",
+    "coverage": 1,
+    "source": {
+      "name": "CNBC",
+      "url": "https://cnbc.com/2026/09/16/anthropic-open-ai-model-safety-risks.html",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "89bbdfee8976",
     "slug": "nvidia-rust-tilida-gpu-dasturlashni-elon-qildi-89bbdf",
     "title": "Nvidia Rust tilida GPU dasturlashni e'lon qildi",
