@@ -1,5 +1,72 @@
 [
   {
+    "id": "54062b4737ea",
+    "slug": "o-zbekiston-tiv-makka-tomon-dron-hujumini-qoraladi-54062b",
+    "title": "O‘zbekiston TIV Makka tomon dron hujumini qoraladi",
+    "summary": "O‘zbekiston Tashqi ishlar vazirligi Makka shahriga yo‘naltirilgan dron hujumiga urinishni qoraladi. Vazirlik muqaddas joylar va tinch aholi xavfsizligini ta’kidladi.",
+    "tags": [
+      "O'zbekiston",
+      "siyosat"
+    ],
+    "importance": 3,
+    "score": 41,
+    "published": "2026-09-17T18:30:00.000Z",
+    "created": "2026-09-17T21:01:32.525Z",
+    "coverage": 1,
+    "source": {
+      "name": "UzDaily",
+      "url": "https://uzdaily.uz/uz/ozbekiston-tiv-makka-shahri-tomon-yonaltirilgan-dron-hujumini-qoraladi",
+      "title": "O‘zbekiston TIV Makka shahri tomon yo‘naltirilgan dron hujumini qoraladi",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "2d1092b1c84d",
+    "slug": "huawei-yangi-atlas-960-superpod-ai-tizimini-taqdim-etdi-2d1092",
+    "title": "Huawei yangi Atlas 960 SuperPoD AI tizimini taqdim etdi",
+    "summary": "Huawei sun’iy intellekt uchun mo‘ljallangan Atlas 960 SuperPoD hisoblash tizimini taqdim etdi. Bu tizim AI modellarini o‘qitish va ishga tushirishni tezlashtirish, shuningdek, Nvidia’ga muqobil infratuzilma yaratishni maqsad qilgan.",
+    "tags": [
+      "Huawei",
+      "Nvidia"
+    ],
+    "importance": 4,
+    "score": 40,
+    "published": "2026-09-17T10:26:31.000Z",
+    "created": "2026-09-17T21:02:04.167Z",
+    "coverage": 1,
+    "source": {
+      "name": "Pivot",
+      "url": "https://pivot.uz/uz/huawei-yangi-ai-tizimini-taqdim-etdi-kompaniya-nvidia-bilan-raqobatni-kuchaytirmoqda",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "363bbead77de",
+    "slug": "openai-huquq-sohasi-uchun-astra-ai-tizimini-taqdim-etdi-363bbe",
+    "title": "OpenAI huquq sohasi uchun Astra AI tizimini taqdim etdi",
+    "summary": "OpenAI huquq sohasi uchun Astra AI tizimini joriy qildi. U yuridik firmalar uchun maxsus ish oqimlari, bog‘langan huquqiy ma’lumotlar va maxfiy mijoz ishlari uchun nazoratni ta’minlaydi.",
+    "tags": [
+      "OpenAI",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 29.4,
+    "published": "2026-09-17T00:00:00.000Z",
+    "created": "2026-09-17T21:02:04.167Z",
+    "coverage": 1,
+    "source": {
+      "name": "OpenAI",
+      "url": "https://openai.com/index/astra-for-law",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "36ffa27c9724",
     "slug": "apple-yangi-reversal-bench-sinov-to-plamini-taqdim-etdi-36ffa2",
     "title": "Apple yangi REVERSAL-BENCH sinov to‘plamini taqdim etdi",
