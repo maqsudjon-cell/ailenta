@@ -1,5 +1,32 @@
 [
   {
+    "id": "f70a7c8bba02",
+    "slug": "snap-korporativ-bozor-uchun-hamkorlik-boshladi-f70a7c",
+    "title": "Snap korporativ bozor uchun hamkorlik boshladi",
+    "summary": "Snap kompaniyasi o'zining 2000 dollarlik Specs AR ko'zoynaklarini korporativ bozorga chiqarish uchun Nvidia, AWS va Salesforce bilan hamkorlik qilmoqda. Ushbu sheriklik korporativ savdoni rivojlantirishga qaratilgan.",
+    "tags": [
+      "Nvidia",
+      "Salesforce"
+    ],
+    "importance": 3,
+    "score": 27.2,
+    "published": "2026-09-16T23:40:05.000Z",
+    "created": "2026-09-17T13:40:22.863Z",
+    "coverage": 2,
+    "source": {
+      "name": "CNBC",
+      "url": "https://cnbc.com/2026/09/16/snap-enterprise-ai-service.html",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "The Economic Times",
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQM01zczJGSVk2dThwWG9KQlBYb3h5QkNNVGFJNVpXYzR0QVVCX3ZHSXRLdl9aN0hrZTZMZ0x0WC1SYTB6aUtQNGRWN1FOQXJyNDVDM1l1M004dVNSbTl5OWRVVXRiZzZQVE1KSk16cWkwTkMyZXdEY2tFeVpFLVFub3BjMHE0Z0MzdHNsdkJUMi1uMFBORjJiYWM2SmVuRkcxcmxHTV9uanFmTTNETUJaZ2Iyd3hsdzdNUFEyNVhjZzYyMTJFRGhRTndWQnVDLU5fdlh5MDdueTVadmhYQVRmQ3VTWXZBSi1pam9pbNIB8gFBVV95cUxONmM1cldYel8xU0w5UHJPenVvQVhfUzlWTS1qTVBtelA2NDVXYUNTTE0tV0dkYzJSdmZKajNwNFBER05PeGlFbDladXUwZkN6LW92YktNWEhXTC1uUWJLdEwtWlFNM1RrSlk4ZkgwSnRRR3hkZVZ3Q0lnSDhaRFBXN0dyTVN4MWFOY2RuOS1KcDMwdFEzT25iWFF0WGxGYmFYTXBVNXF6RUxsd0VoaDg1bkdWNXdESVg5cG1PZnJESmFpdFBjN3R0V29sYjdFaFpyYmFKZWkySXk4NmswWnJwN0p1c3FjTXFzdUt1cGVab2J2QQ"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
     "id": "3285b4de7d55",
     "slug": "ai-xavotirlari-vaziyatni-tushunish-uchun-oqish-royxati-3285b4",
     "title": "AI xavotirlari: Vaziyatni tushunish uchun o'qish ro'yxati",
