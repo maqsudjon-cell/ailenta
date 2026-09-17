@@ -1,22 +1,22 @@
 [
   {
-    "id": "e93d9e207a8c",
-    "slug": "xiaomi-mimo-2-6-jonli-o-qitishdan-keyingi-boshqaruv-paneli-e93d9e",
-    "title": "Xiaomi Mimo 2.6 jonli o‘qitishdan keyingi boshqaruv paneli",
-    "summary": "Xiaomi Mimo 2.6 uchun jonli o‘qitishdan keyingi boshqaruv paneli taqdim etildi. Bu yangilik modelni o‘qitish jarayonidan keyingi holatini kuzatish imkonini beradi.",
+    "id": "d700d6d14cd2",
+    "slug": "gm-ceo-gen-z-uchun-200-mlnlik-ai-proof-kasblarni-taklif-qild-d700d6",
+    "title": "GM CEO Gen Z uchun $200 mlnlik AI-proof kasblarni taklif qildi",
+    "summary": "General Motors bosh direktori Meri Barra Gen Z uchun $200 million sarmoya kiritilgan malakali kasblar AI ta'siridan himoyalangan yo'l bo'lishini aytdi.",
     "tags": [
-      "Xiaomi",
-      "tadqiqot"
+      "mehnat bozori",
+      "biznes"
     ],
-    "importance": 1,
-    "score": 23,
-    "published": "2026-09-16T20:09:18.000Z",
-    "created": "2026-09-17T07:55:23.118Z",
+    "importance": 3,
+    "score": 22,
+    "published": "2026-09-17T07:00:00.000Z",
+    "created": "2026-09-17T08:03:13.689Z",
     "coverage": 1,
     "source": {
-      "name": "Hacker News",
-      "url": "https://mimo.xiaomi.com/rl",
-      "title": "Xiaomi Mimo 2.6 live post-training dashboard",
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/09/17/general-motors-ceo-mary-barra-skilled-trades-six-figure-potential-for-gen-z-200-million-investment",
+      "title": "GM CEO Mary Barra says America has a ‘societal problem’ with skilled trades—and is putting $200 million behind training Gen Z to work with their hands",
       "indirect": false
     },
     "also": [],
@@ -24,9 +24,9 @@
   },
   {
     "id": "1fc2be158b68",
-    "slug": "qozog-iston-o-zbekistonda-agrosektor-uchun-ai-yechimlarini-t-1fc2be",
-    "title": "Qozog‘iston O‘zbekistonda agrosektor uchun AI yechimlarini taqdim etdi",
-    "summary": "Qozog‘iston O‘zbekistonda o‘tkazilgan seminarda qishloq xo‘jaligida sunʼiy intellekt, geofazoviy texnologiyalar va raqamli yechimlardan foydalanishni namoyish etdi. Bu yechimlar agrosektorni raqamlashtirishga qaratilgan.",
+    "slug": "qozog-iston-o-zbekiston-agrosektoriga-ai-yechimlar-taqdim-et-1fc2be",
+    "title": "Qozog‘iston O‘zbekiston agrosektoriga AI yechimlar taqdim etdi",
+    "summary": "Qozog‘iston O‘zbekistonda o‘tkazilgan seminarda qishloq xo‘jaligida sunʼiy intellekt, geofazoviy texnologiyalar va raqamli yechimlardan foydalanishni namoyish etdi.",
     "tags": [
       "O'zbekiston",
       "biznes"
@@ -34,33 +34,11 @@
     "importance": 2,
     "score": 30,
     "published": "2026-09-17T07:20:00.000Z",
-    "created": "2026-09-17T07:58:56.094Z",
+    "created": "2026-09-17T08:03:15.579Z",
     "coverage": 1,
     "source": {
       "name": "UzDaily",
       "url": "https://uzdaily.uz/uz/qozogiston-agrosektor-uchun-raqamli-yechimlarni-taqdim-etdi",
-      "indirect": false
-    },
-    "also": [],
-    "model": "gemini"
-  },
-  {
-    "id": "d700d6d14cd2",
-    "slug": "gm-200-mln-dollar-bilan-aiga-chidamli-kasblarni-qollaydi-d700d6",
-    "title": "GM 200 mln dollar bilan AI'ga chidamli kasblarni qo'llaydi",
-    "summary": "General Motors kompaniyasi o‘tgan yili malakali kasblarga 200 million dollar sarmoya kiritdi. Bosh direktor Meri Barraning aytishicha, bu Gen Z avlodi uchun AI'ga chidamli daromadli yo‘l bo‘lishi mumkin.",
-    "tags": [
-      "mehnat bozori",
-      "biznes"
-    ],
-    "importance": 2,
-    "score": 22,
-    "published": "2026-09-17T07:00:00.000Z",
-    "created": "2026-09-17T07:58:56.094Z",
-    "coverage": 1,
-    "source": {
-      "name": "Fortune",
-      "url": "https://fortune.com/2026/09/17/general-motors-ceo-mary-barra-skilled-trades-six-figure-potential-for-gen-z-200-million-investment",
       "indirect": false
     },
     "also": [],
