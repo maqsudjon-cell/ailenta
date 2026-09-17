@@ -1,5 +1,26 @@
 [
   {
+    "id": "89bbdfee8976",
+    "slug": "nvidia-rust-tilida-gpu-dasturlashni-elon-qildi-89bbdf",
+    "title": "Nvidia Rust tilida GPU dasturlashni e'lon qildi",
+    "summary": "Nvidia kompaniyasi Rust dasturlash tilida GPU uchun to'g'ridan-to'g'ri dasturlash imkoniyati yaratilganini e'lon qildi. Bu dasturchilarga grafik protsessorlar bilan ishlashda yangi imkoniyatlarni taqdim etadi.",
+    "tags": [
+      "Nvidia"
+    ],
+    "importance": 4,
+    "score": 24.7,
+    "published": "2026-09-16T11:15:53.000Z",
+    "created": "2026-09-17T00:36:30.047Z",
+    "coverage": 1,
+    "source": {
+      "name": "Hacker News",
+      "url": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "38716b74b55e",
     "slug": "ai-kompaniyalari-kiyim-sotishni-boshladi-38716b",
     "title": "AI kompaniyalari kiyim sotishni boshladi",

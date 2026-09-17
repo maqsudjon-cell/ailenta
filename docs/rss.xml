@@ -5,7 +5,7 @@
   <link>https://ailenta.uz</link>
   <description>Dunyodagi sun'iy intellekt yangiliklari o'zbek tilida. Har soatda yangilanadi, har bir xabarda asl manbaga havola.</description>
   <language>uz</language>
-  <lastBuildDate>Thu, 17 Sep 2026 00:05:01 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 17 Sep 2026 00:39:24 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/rss.xml" rel="self" type="application/rss+xml"/>
   <item>
     <title>AI kompaniyalari kiyim sotishni boshladi</title>
@@ -216,6 +216,16 @@
     <category>OpenAI</category><category>biznes</category>
     <media:content url="https://ailenta.uz/og/openai-ai-foydalanishni-biznes-qiymatiga-boglash-5f7e18.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/openai-ai-foydalanishni-biznes-qiymatiga-boglash-5f7e18.jpg"/>
+  </item>
+  <item>
+    <title>Nvidia Rust tilida GPU dasturlashni e'lon qildi</title>
+    <link>https://ailenta.uz/x/nvidia-rust-tilida-gpu-dasturlashni-elon-qildi-89bbdf/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/nvidia-rust-tilida-gpu-dasturlashni-elon-qildi-89bbdf/</guid>
+    <pubDate>Wed, 16 Sep 2026 11:15:53 GMT</pubDate>
+    <description>Nvidia kompaniyasi Rust dasturlash tilida GPU uchun to'g'ridan-to'g'ri dasturlash imkoniyati yaratilganini e'lon qildi. Bu dasturchilarga grafik protsessorlar bilan ishlashda yangi imkoniyatlarni taqdim etadi.</description>
+    <category>Nvidia</category>
+    <media:content url="https://ailenta.uz/og/nvidia-rust-tilida-gpu-dasturlashni-elon-qildi-89bbdf.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/nvidia-rust-tilida-gpu-dasturlashni-elon-qildi-89bbdf.jpg"/>
   </item>
   <item>
     <title>Arcee AI 20 mln dollarga 4 modelni o'qitib, 1 mlrdga baholandi</title>
@@ -496,16 +506,6 @@
     <category>Meta</category><category>agentlar</category>
     <media:content url="https://ailenta.uz/og/meta-whatsapp-business-sozlashda-ai-agentlaridan-foydalanmoq-1ad152.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/meta-whatsapp-business-sozlashda-ai-agentlaridan-foydalanmoq-1ad152.jpg"/>
-  </item>
-  <item>
-    <title>M4 Mac Mini uchun bir oyda Linux GPU drayveri yaratildi</title>
-    <link>https://ailenta.uz/x/m4-mac-mini-uchun-bir-oyda-linux-gpu-drayveri-yaratildi-d0b950/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/m4-mac-mini-uchun-bir-oyda-linux-gpu-drayveri-yaratildi-d0b950/</guid>
-    <pubDate>Tue, 15 Sep 2026 19:30:03 GMT</pubDate>
-    <description>Ishlab chiquvchilar bir oy ichida yangi M4 chipli Mac Mini kompyuteri uchun Linux operatsion tizimida ishlaydigan GPU drayverini yaratishga muvaffaq bo'lishdi.</description>
-    <category>Apple</category><category>chiplar</category>
-    <media:content url="https://ailenta.uz/og/m4-mac-mini-uchun-bir-oyda-linux-gpu-drayveri-yaratildi-d0b950.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/m4-mac-mini-uchun-bir-oyda-linux-gpu-drayveri-yaratildi-d0b950.jpg"/>
   </item>
 </channel>
 </rss>

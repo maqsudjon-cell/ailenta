@@ -5,7 +5,7 @@
   <link>https://ailenta.uz/mavzu/nvidia/</link>
   <description>&quot;Nvidia&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Thu, 17 Sep 2026 00:05:01 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 17 Sep 2026 00:39:24 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/nvidia/rss.xml" rel="self" type="application/rss+xml"/>
   <item>
     <title>AI kompaniyalari kiyim sotishni boshladi</title>
@@ -46,6 +46,16 @@
     <category>Nvidia</category><category>chiplar</category>
     <media:content url="https://ailenta.uz/og/nvidia-vera-rubin-nvl72-mlperf-sinovida-yetakchi-2539d6.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/nvidia-vera-rubin-nvl72-mlperf-sinovida-yetakchi-2539d6.jpg"/>
+  </item>
+  <item>
+    <title>Nvidia Rust tilida GPU dasturlashni e'lon qildi</title>
+    <link>https://ailenta.uz/x/nvidia-rust-tilida-gpu-dasturlashni-elon-qildi-89bbdf/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/nvidia-rust-tilida-gpu-dasturlashni-elon-qildi-89bbdf/</guid>
+    <pubDate>Wed, 16 Sep 2026 11:15:53 GMT</pubDate>
+    <description>Nvidia kompaniyasi Rust dasturlash tilida GPU uchun to'g'ridan-to'g'ri dasturlash imkoniyati yaratilganini e'lon qildi. Bu dasturchilarga grafik protsessorlar bilan ishlashda yangi imkoniyatlarni taqdim etadi.</description>
+    <category>Nvidia</category>
+    <media:content url="https://ailenta.uz/og/nvidia-rust-tilida-gpu-dasturlashni-elon-qildi-89bbdf.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/nvidia-rust-tilida-gpu-dasturlashni-elon-qildi-89bbdf.jpg"/>
   </item>
   <item>
     <title>Manchester universiteti Nvidia Earth-2 bilan havo ifloslanishini bashorat qiladi</title>
@@ -296,16 +306,6 @@
     <category>Nvidia</category><category>chiplar</category>
     <media:content url="https://ailenta.uz/og/nvidia-rebellions-kompaniyasiga-etibor-qaratmoqda-cd6612.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/nvidia-rebellions-kompaniyasiga-etibor-qaratmoqda-cd6612.jpg"/>
-  </item>
-  <item>
-    <title>Nvidia chip eksportidagi bo'shliq AQSh-Xitoy muzokaralariga ta'sir qildi</title>
-    <link>https://ailenta.uz/x/nvidia-chip-eksportidagi-boshliq-aqsh-xitoy-muzokaralariga-t-d43408/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/nvidia-chip-eksportidagi-boshliq-aqsh-xitoy-muzokaralariga-t-d43408/</guid>
-    <pubDate>Mon, 07 Sep 2026 22:38:08 GMT</pubDate>
-    <description>Asia Times xabariga ko'ra, Nvidia chiplarini eksport qilishdagi bo'shliq AQSh va Xitoy o'rtasidagi AI sammiti muzokaralariga soya solmoqda.</description>
-    <category>Nvidia</category><category>chiplar</category>
-    <media:content url="https://ailenta.uz/og/nvidia-chip-eksportidagi-boshliq-aqsh-xitoy-muzokaralariga-t-d43408.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/nvidia-chip-eksportidagi-boshliq-aqsh-xitoy-muzokaralariga-t-d43408.jpg"/>
   </item>
 </channel>
 </rss>
