@@ -1,5 +1,50 @@
 [
   {
+    "id": "8aae7569566f",
+    "slug": "ai-kompaniyalari-talimdan-ishga-yolni-egallashga-urinmoqda-8aae75",
+    "title": "AI kompaniyalari ta'limdan ishga yo'lni egallashga urinmoqda",
+    "summary": "AI kompaniyalari ta'limdan ishga o'tish yo'liga kirib bormoqda. Universitetlar talabalar uchun mustaqil ishga joylashish yo'lini himoya qilishi kerak. Talabalar AI vositalariga juda ishonmoqda va ularsiz o'z qobiliyatlariga shubha qilmoqda.",
+    "tags": [
+      "ta'lim",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 29,
+    "published": "2026-09-17T09:00:44.000Z",
+    "created": "2026-09-17T09:38:08.020Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/technology/2026/sep/17/big-ai-work-universities",
+      "title": "Big AI is trying to own the pathway to work. Universities shouldn’t play along | Ella Hafermalz",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "ad9985c3178e",
+    "slug": "ai-pentagon-eski-tarmoqlarini-tahdidga-aylantirdi-ad9985",
+    "title": "AI Pentagon eski tarmoqlarini tahdidga aylantirdi",
+    "summary": "AI Pentagonning eskirgan tarmoqlarini milliy xavfsizlikka tahdidga aylantirdi. Eskirgan tarmoqlar kibertahdidlarga duch kelmoqda, chunki AI raqiblarga zaifliklardan foydalanishni osonlashtirmoqda.",
+    "tags": [
+      "xavfsizlik",
+      "siyosat"
+    ],
+    "importance": 3,
+    "score": 23,
+    "published": "2026-09-17T09:00:00.000Z",
+    "created": "2026-09-17T09:38:48.066Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Washington Post",
+      "url": "https://washingtonpost.com/technology/2026/09/17/ai-has-transformed-pentagons-aging-networks-into-national-security-risk",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "7182a3f67202",
     "slug": "tramp-nvidia-rahbariga-sahnadaligida-qo-ng-iroq-qildi-7182a3",
     "title": "Tramp Nvidia rahbariga sahnadaligida qo‘ng‘iroq qildi",
