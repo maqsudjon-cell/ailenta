@@ -1,5 +1,27 @@
 [
   {
+    "id": "36ffa27c9724",
+    "slug": "apple-yangi-reversal-bench-sinov-to-plamini-taqdim-etdi-36ffa2",
+    "title": "Apple yangi REVERSAL-BENCH sinov to‘plamini taqdim etdi",
+    "summary": "Apple avtonom kuchaytirilgan o‘rganish uchun REVERSAL-BENCH nomli yangi sinov to‘plamini joriy qildi. Bu sinov to‘plami qaytarilmas harakatlar sharoitida uzluksiz siyosat o‘qitishni baholaydi. U real dunyo manipulyatsiyasidagi cheklovlarni o‘rganishga yordam beradi.",
+    "tags": [
+      "Apple",
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 30.4,
+    "published": "2026-09-17T00:00:00.000Z",
+    "created": "2026-09-17T18:37:43.449Z",
+    "coverage": 1,
+    "source": {
+      "name": "Apple",
+      "url": "https://machinelearning.apple.com/research/reversal-bench-rl-cliff",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "814431abc3b8",
     "slug": "anthropicdan-ketgan-matematik-ai-xavfsizligi-yuziga-aylandi-814431",
     "title": "Anthropicdan ketgan matematik AI xavfsizligi yuziga aylandi",
