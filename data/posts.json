@@ -1,5 +1,98 @@
 [
   {
+    "id": "3285b4de7d55",
+    "slug": "ai-xavotirlari-vaziyatni-tushunish-uchun-oqish-royxati-3285b4",
+    "title": "AI xavotirlari: Vaziyatni tushunish uchun o'qish ro'yxati",
+    "summary": "The Guardian nashri sun'iy intellekt atrofidagi shov-shuv va xavotirlarni tushunishga yordam beruvchi kitoblar ro'yxatini tavsiya qildi. So'nggi paytlarda AI xavflari haqida ogohlantirishlar ko'paymoqda.",
+    "tags": [
+      "xavfsizlik"
+    ],
+    "importance": 2,
+    "score": 26,
+    "published": "2026-09-17T11:00:46.000Z",
+    "created": "2026-09-17T12:36:58.904Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/books/2026/sep/17/ai-doom-books-reading-list",
+      "title": "Feeling overwhelmed by the AI doom loop? Here’s the essential reading list to make sense of it all",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "e914ef8257b0",
+    "slug": "san-fransiskoda-ishsiz-texnologlar-ai-rivojidan-chetda-qolmo-e914ef",
+    "title": "San-Fransiskoda ishsiz texnologlar AI rivojidan chetda qolmoqda",
+    "summary": "Bloomberg.com xabariga ko'ra, San-Fransiskoda ishsiz qolgan texnologiya sohasi xodimlari sun'iy intellekt sohasidagi o'sishdan foydalana olmayapti.",
+    "tags": [
+      "mehnat bozori",
+      "iqtisod"
+    ],
+    "importance": 2,
+    "score": 27,
+    "published": "2026-09-17T12:00:11.000Z",
+    "created": "2026-09-17T12:37:38.687Z",
+    "coverage": 1,
+    "source": {
+      "name": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMXdGZjBsRFdva0RaVEVrbDRmWmgzSnVaUld3U1JQOVlNUGVadk5VY3c4dDhLTW1rTHJTQnluc2dtWmFTMG9LVjBSaVlsRVJaeWoza3Q2a3FaYXpfUXIzRTdVOWdMY3BZSHVfMGVQcW1hV1lvalJPV1FRMjRha2l4eU9Pd3RRMEJJNFk4Z3FmMjlSQ202Yk5PZEdIR0RVbE90OGE0WlZSdWhaYmY1aTVBV2RZdXNwcmprcEJ6VXlkQnp3QnFPN2V3",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "7915e3deda81",
+    "slug": "anthropic-ipoga-tayyorlanar-ekan-ichki-tanqidlar-kuchaymoqda-7915e3",
+    "title": "Anthropic IPOga tayyorlanar ekan, ichki tanqidlar kuchaymoqda",
+    "summary": "Anthropic kompaniyasi 2 trillion dollarlik IPOga yaqinlashar ekan, uning ichidagi ba'zi xodimlar AI xavfsizligi bo'yicha jiddiy tanqidlar bildirmoqda. Bir tadqiqotchi hatto o'z ulushini yo'qotishga tayyorligini aytdi.",
+    "tags": [
+      "Anthropic",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 25,
+    "published": "2026-09-17T11:48:05.000Z",
+    "created": "2026-09-17T12:37:38.687Z",
+    "coverage": 2,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/09/17/anthropic-2-trillion-ipo-critics",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "Fortune",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1ieTJnN29pSzNybFBWQklJYWticDlkbXluMkRFVnNUaGxpT0R2ZDM3ZjAyRGxsaGJiT0FmZG1wd0hJZWw5LUZGRlRHSTVnRElqdFcxT0RjSFRJZkp5SzVBWjllaGh0amJtelFNeG9oOWJ2QQ"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "b9a1377e753a",
+    "slug": "ai-kompaniyalari-hamkorligi-xavfli-taklif-bolishi-mumkin-b9a137",
+    "title": "AI kompaniyalari hamkorligi xavfli taklif bo'lishi mumkin",
+    "summary": "The Guardian nashri AI kompaniyalarining rivojlanish sur'atini sekinlashtirish uchun hamkorlik qilish taklifini xavfli deb atadi. Bu harakat monopoliyaga qarshi qonunlarni chetlab o'tishga urinish bo'lishi mumkin.",
+    "tags": [
+      "siyosat",
+      "qonun"
+    ],
+    "importance": 3,
+    "score": 23.6,
+    "published": "2026-09-16T11:00:18.000Z",
+    "created": "2026-09-17T12:37:38.687Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/technology/2026/sep/16/ai-companies-collude-antitrust-laws",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "29e73087bb68",
     "slug": "emerald-ai-google-va-nvidia-ai-markazlari-uchun-alyans-tuzdi-29e730",
     "title": "Emerald AI, Google va Nvidia AI markazlari uchun alyans tuzdi",
