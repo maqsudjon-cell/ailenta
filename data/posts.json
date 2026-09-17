@@ -1,5 +1,54 @@
 [
   {
+    "id": "814431abc3b8",
+    "slug": "anthropicdan-ketgan-matematik-ai-xavfsizligi-yuziga-aylandi-814431",
+    "title": "Anthropicdan ketgan matematik AI xavfsizligi yuziga aylandi",
+    "summary": "Anthropic kompaniyasidan ketgan matematik AI xavfsizligi masalasida yetakchi shaxsga aylandi. Uning harakatlari sun'iy intellekt xavflari haqida xavotirlarni kuchaytirdi.",
+    "tags": [
+      "Anthropic",
+      "xavfsizlik"
+    ],
+    "importance": 4,
+    "score": 33.8,
+    "published": "2026-09-17T01:00:00.000Z",
+    "created": "2026-09-17T18:25:20.784Z",
+    "coverage": 2,
+    "source": {
+      "name": "WSJ",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBfZ1ZRUnVkR2YwbU50cWVaYVhxNEd2YnZ2ZVMzdlJWa1NvTXg3NUEzcEVfOWZ1Z2JuVlRlVVdfbm1HQXBKNEFNNjFJSmJra2FMMU9HZ014ekttTE0wQlJNYktqWFdNNF9YanJuR0NjaThSdk9zRnVVdzEwNTV2Zw",
+      "indirect": true
+    },
+    "also": [
+      {
+        "name": "The Times of India",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNb1YyQnN2QmhCVUVOTC01NTl5bnNBTzZhU0NrNnFuN0o0eENDbjFmcmZCTEl6a0J6UkZsWUhmS1NjbFhKWlV1a2hCLUZiWkRjc0pPQjFjYUxVQ3F0dFZZU3FaeHJLUk9GMlQyckFZOENqWm1sRGdsSXF1MlNBTUF1R09mQzdJY1V1VEZ3cWMtUUFZZWxBbHZRci1hWkt6NFpXMXByeWt0MUhubzgwLUN6QS1rNDN0c0dabFpNaFlwanRnN1lCbGdmQ1V4alRZRUg0QzhSMmQwd3VhSTY0VmZPM1BETy11Z9IB6wFBVV95cUxNY0NJSzk0ZXUtc2ZwTDRHM293VUk1YXZ6ZjZ4UUU1X0RkZ1BOcXNFNUw0UkgyQ2xCRXd0bzczOFVTcmQ2RlAySmd6VWFocllnT1Z1YzNVN2JncHF3c3JrODlaMmR0TEc0OE0wUjlIN0FlN2lyUlVaeTQ5RnB1cDhTODBmekJwQmE1Umk4bW1SMDZSVFVQYmtoZW5XMy1lYlpPaHR5VnJtNUlUUFY4ZThlY29pTGhTYzFlWS1wa3FfR3lURTVXRlUyX2Mwb0RWNGNWY3BCT2tZb2prT2RENzhnWHUtUUdmeExoVFdZ"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "ada31df013b5",
+    "slug": "anthropic-hayot-fanlari-verifikatsiya-dasturini-joriy-qildi-ada31d",
+    "title": "Anthropic hayot fanlari verifikatsiya dasturini joriy qildi",
+    "summary": "Anthropic kompaniyasi hayot fanlari sohasida verifikatsiya dasturini taqdim etdi. Bu dastur orqali AI ilovalarining ishonchliligi oshirilishi kutilmoqda.",
+    "tags": [
+      "Anthropic",
+      "tibbiyot"
+    ],
+    "importance": 2,
+    "score": 27,
+    "published": "2026-09-17T18:03:16.000Z",
+    "created": "2026-09-17T18:25:20.784Z",
+    "coverage": 1,
+    "source": {
+      "name": "Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1tdEtSOC1PRVFaSWU5TmlaMEtiZjRMdDdJLWg1bVIyUzlUTUV0UHZVa1Z3Y2JYeVVVLVEyeGZIQnVHR01tdC04X2x5Vk5LNDRKa3VyWnB2Vks0U3JpZDNNemZxczNDOFBNeGxrQnViOFNJQVU",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "349da5f8178d",
     "slug": "meta-kompaniyasiga-deepfeyklarni-ochirish-buyurildi-349da5",
     "title": "Meta kompaniyasiga deepfeyklarni o'chirish buyurildi",
