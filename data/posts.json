@@ -1,5 +1,72 @@
 [
   {
+    "id": "e93d9e207a8c",
+    "slug": "xiaomi-mimo-2-6-jonli-o-qitishdan-keyingi-boshqaruv-paneli-e93d9e",
+    "title": "Xiaomi Mimo 2.6 jonli o‘qitishdan keyingi boshqaruv paneli",
+    "summary": "Xiaomi Mimo 2.6 uchun jonli o‘qitishdan keyingi boshqaruv paneli taqdim etildi. Bu yangilik modelni o‘qitish jarayonidan keyingi holatini kuzatish imkonini beradi.",
+    "tags": [
+      "Xiaomi",
+      "tadqiqot"
+    ],
+    "importance": 1,
+    "score": 23,
+    "published": "2026-09-16T20:09:18.000Z",
+    "created": "2026-09-17T07:55:23.118Z",
+    "coverage": 1,
+    "source": {
+      "name": "Hacker News",
+      "url": "https://mimo.xiaomi.com/rl",
+      "title": "Xiaomi Mimo 2.6 live post-training dashboard",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "1fc2be158b68",
+    "slug": "qozog-iston-o-zbekistonda-agrosektor-uchun-ai-yechimlarini-t-1fc2be",
+    "title": "Qozog‘iston O‘zbekistonda agrosektor uchun AI yechimlarini taqdim etdi",
+    "summary": "Qozog‘iston O‘zbekistonda o‘tkazilgan seminarda qishloq xo‘jaligida sunʼiy intellekt, geofazoviy texnologiyalar va raqamli yechimlardan foydalanishni namoyish etdi. Bu yechimlar agrosektorni raqamlashtirishga qaratilgan.",
+    "tags": [
+      "O'zbekiston",
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 30,
+    "published": "2026-09-17T07:20:00.000Z",
+    "created": "2026-09-17T07:58:56.094Z",
+    "coverage": 1,
+    "source": {
+      "name": "UzDaily",
+      "url": "https://uzdaily.uz/uz/qozogiston-agrosektor-uchun-raqamli-yechimlarni-taqdim-etdi",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "d700d6d14cd2",
+    "slug": "gm-200-mln-dollar-bilan-aiga-chidamli-kasblarni-qollaydi-d700d6",
+    "title": "GM 200 mln dollar bilan AI'ga chidamli kasblarni qo'llaydi",
+    "summary": "General Motors kompaniyasi o‘tgan yili malakali kasblarga 200 million dollar sarmoya kiritdi. Bosh direktor Meri Barraning aytishicha, bu Gen Z avlodi uchun AI'ga chidamli daromadli yo‘l bo‘lishi mumkin.",
+    "tags": [
+      "mehnat bozori",
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 22,
+    "published": "2026-09-17T07:00:00.000Z",
+    "created": "2026-09-17T07:58:56.094Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/09/17/general-motors-ceo-mary-barra-skilled-trades-six-figure-potential-for-gen-z-200-million-investment",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "a8689e652f87",
     "slug": "nyu-york-kengashi-ai-xavflari-bo-yicha-eshituv-o-tkazadi-a8689e",
     "title": "Nyu-York kengashi AI xavflari boʻyicha eshituv oʻtkazadi",
