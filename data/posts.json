@@ -1,5 +1,86 @@
 [
   {
+    "id": "29e73087bb68",
+    "slug": "emerald-ai-google-va-nvidia-ai-markazlari-uchun-alyans-tuzdi-29e730",
+    "title": "Emerald AI, Google va Nvidia AI markazlari uchun alyans tuzdi",
+    "summary": "Emerald AI, Google va Nvidia AI Energy Management Alliance (AEMA) tashkil etilganini e'lon qildi. Ushbu alyans elektr energiyasidan dinamik foydalana oladigan ma'lumotlar markazlarini rivojlantirishga qaratilgan.",
+    "tags": [
+      "Google",
+      "Nvidia"
+    ],
+    "importance": 3,
+    "score": 41.4,
+    "published": "2026-09-16T13:00:33.000Z",
+    "created": "2026-09-17T10:06:12.680Z",
+    "coverage": 2,
+    "source": {
+      "name": "Nvidia",
+      "url": "https://blogs.nvidia.com/blog/ai-energy-management-alliance",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "Techmeme",
+        "url": "https://techmeme.com/260917/p6"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "676416bfe911",
+    "slug": "jd-vance-ai-nazoratini-rad-etdi-frankenstein-yaratmang-676416",
+    "title": "JD Vance AI nazoratini rad etdi: Frankenstein yaratmang",
+    "summary": "AQSh vitse-prezidenti JD Vance AI xavfsizligi bo'yicha global nazorat chaqiriqlarini rad etdi. U ilg'or AI modellarini yaratayotgan kompaniyalarga \"Agar Frankenstein yaratayotgan bo'lsangiz, to'xtating\" dedi.",
+    "tags": [
+      "siyosat",
+      "xavfsizlik"
+    ],
+    "importance": 4,
+    "score": 27.4,
+    "published": "2026-09-16T10:42:07.000Z",
+    "created": "2026-09-17T10:06:12.680Z",
+    "coverage": 2,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/technology/2026/sep/16/building-frankenstein-jd-vance-dismisses-ai-regulation",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "The Guardian",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOUU3a0YtdWVPbVZMOEJuM3dETXRIV1I5LXF2QWpmVy1EU0FZcDZ3ZlRUTzM2Vk0yMkVhSE9LeG85NDdwVEx0R2M0MDhYRVlqMXFneldVQUk0b1BiR1A4Zm00YlhPWlgzZXhRekdWck84dzNPSF8zN2RBWjBrNUQyenBIVGRwYjlYbkozTDNEOC1mVWc5M0FiN2xkeHQwR2d2VGkyMlR5cTk"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "719eca89d41e",
+    "slug": "anthropic-405k-maoshli-yangi-ai-agent-rolini-taklif-qildi-719eca",
+    "title": "Anthropic $405K maoshli yangi AI agent rolini taklif qildi",
+    "summary": "Anthropic kompaniyasi savdo operatsiyalarini boshqarish uchun AI agentlarini yaratish va yo'naltirishga mo'ljallangan yangi lavozimni e'lon qildi. Bu rol uchun yillik maosh $405,000 gacha bo'lishi mumkin.",
+    "tags": [
+      "Anthropic",
+      "mehnat bozori"
+    ],
+    "importance": 3,
+    "score": 24,
+    "published": "2026-09-17T09:50:01.000Z",
+    "created": "2026-09-17T10:06:12.680Z",
+    "coverage": 2,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/anthropic-engineer-role-ai-sales-hiring-2026-9",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "Business Insider",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOOVI4VjE2RmVoSllZV19Ma2RUeXdybWlmb19qLTN4R0IxUFhIVy1QS01vQU1lcUJ6YTZLVGJvUE1OamxKNmJLLUlJSmtxZkN4bGo1NngzWHhQak83MEFpeEc0TTNWejl2eUVGNzdyQW01X0ZDVTJ0UklQalNHXzF1V21YRW0"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
     "id": "8aae7569566f",
     "slug": "ai-kompaniyalari-talimdan-ishga-yolni-egallashga-urinmoqda-8aae75",
     "title": "AI kompaniyalari ta'limdan ishga yo'lni egallashga urinmoqda",
