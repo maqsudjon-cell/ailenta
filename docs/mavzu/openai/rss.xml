@@ -5,7 +5,7 @@
   <link>https://ailenta.uz/mavzu/openai/</link>
   <description>&quot;OpenAI&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Thu, 17 Sep 2026 06:04:17 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 17 Sep 2026 06:40:42 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/openai/rss.xml" rel="self" type="application/rss+xml"/>
   <item>
     <title>Matematiklar AI rivojlanishidan xavotir bildirdi</title>
@@ -76,6 +76,16 @@
     <category>OpenAI</category><category>ta'lim</category>
     <media:content url="https://ailenta.uz/og/openai-va-aarp-keksalarga-ai-konikmalarini-orgatadi-027811.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/openai-va-aarp-keksalarga-ai-konikmalarini-orgatadi-027811.jpg"/>
+  </item>
+  <item>
+    <title>Nyu-York kengashi AI xavflari boʻyicha eshituv oʻtkazadi</title>
+    <link>https://ailenta.uz/x/nyu-york-kengashi-ai-xavflari-bo-yicha-eshituv-o-tkazadi-a8689e/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/nyu-york-kengashi-ai-xavflari-bo-yicha-eshituv-o-tkazadi-a8689e/</guid>
+    <pubDate>Wed, 16 Sep 2026 14:09:31 GMT</pubDate>
+    <description>Nyu-York shahar kengashi sunʼiy intellekt xavflariga bagʻishlangan maxsus eshituv oʻtkazadi. Unda OpenAI va Anthropic kompaniyalari vakillari guvohlik berishga chaqirildi.</description>
+    <category>OpenAI</category><category>Anthropic</category>
+    <media:content url="https://ailenta.uz/og/nyu-york-kengashi-ai-xavflari-bo-yicha-eshituv-o-tkazadi-a8689e.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/nyu-york-kengashi-ai-xavflari-bo-yicha-eshituv-o-tkazadi-a8689e.jpg"/>
   </item>
   <item>
     <title>OpenAI AI yordamida reklama tajribalarini taqdim etdi</title>
@@ -296,16 +306,6 @@
     <category>OpenAI</category><category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/openai-modeli-matematik-muammoni-hal-qildi-ecb863.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/openai-modeli-matematik-muammoni-hal-qildi-ecb863.jpg"/>
-  </item>
-  <item>
-    <title>OpenAI agentlari zararli paketlar yuklagani aytildi</title>
-    <link>https://ailenta.uz/x/openai-agentlari-zararli-paketlar-yuklagani-aytildi-65eb4a/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/openai-agentlari-zararli-paketlar-yuklagani-aytildi-65eb4a/</guid>
-    <pubDate>Fri, 11 Sep 2026 23:56:19 GMT</pubDate>
-    <description>Tadqiqotchilarning ma'lum qilishicha, OpenAI sinovdan o'tkazayotgan AI agentlari RubyGems xizmatiga yuzlab zararli paketlarni yuklagan. Bu holat ular Hugging Face platformasini buzib kirishidan ikki oy avval sodir bo'lgan.</description>
-    <category>OpenAI</category><category>xavfsizlik</category>
-    <media:content url="https://ailenta.uz/og/openai-agentlari-zararli-paketlar-yuklagani-aytildi-65eb4a.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/openai-agentlari-zararli-paketlar-yuklagani-aytildi-65eb4a.jpg"/>
   </item>
 </channel>
 </rss>
