@@ -5,7 +5,7 @@
   <link>https://ailenta.uz</link>
   <description>Dunyodagi sun'iy intellekt yangiliklari o'zbek tilida. Har soatda yangilanadi, har bir xabarda asl manbaga havola.</description>
   <language>uz</language>
-  <lastBuildDate>Thu, 17 Sep 2026 05:04:19 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 17 Sep 2026 05:33:55 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/rss.xml" rel="self" type="application/rss+xml"/>
   <item>
     <title>Matematiklar AI rivojlanishidan xavotir bildirdi</title>
@@ -288,6 +288,16 @@
     <media:thumbnail url="https://ailenta.uz/og/ai-mahsuldorlikni-oshirishda-sekin-boladi-307346.jpg"/>
   </item>
   <item>
+    <title>Google real vaqtda ishlaydigan Gemini modellarini taqdim etdi</title>
+    <link>https://ailenta.uz/x/google-real-vaqtda-ishlaydigan-gemini-modellarini-taqdim-etd-06e105/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/google-real-vaqtda-ishlaydigan-gemini-modellarini-taqdim-etd-06e105/</guid>
+    <pubDate>Wed, 16 Sep 2026 14:00:00 GMT</pubDate>
+    <description>Google real vaqtda ovozli muloqot qilishga mo‘ljallangan Gemini 3.8 Live va murakkab vazifalar uchun Extended Thinking modellarini chiqardi. Ular 97 ta tilni qo‘llab-quvvatlaydi va kamera orqali ko‘rsatilgan obyektlarni tahlil qila oladi.</description>
+    <category>Google</category>
+    <media:content url="https://ailenta.uz/og/google-real-vaqtda-ishlaydigan-gemini-modellarini-taqdim-etd-06e105.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/google-real-vaqtda-ishlaydigan-gemini-modellarini-taqdim-etd-06e105.jpg"/>
+  </item>
+  <item>
     <title>OpenAI AI yordamida reklama tajribalarini taqdim etdi</title>
     <link>https://ailenta.uz/x/openai-ai-yordamida-reklama-tajribalarini-taqdim-etdi-527529/</link>
     <guid isPermaLink="true">https://ailenta.uz/x/openai-ai-yordamida-reklama-tajribalarini-taqdim-etdi-527529/</guid>
@@ -496,16 +506,6 @@
     <category>Apple</category><category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/apple-diffuzion-modellarda-rl-uchun-daca-grponi-taklif-qildi-81c572.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/apple-diffuzion-modellarda-rl-uchun-daca-grponi-taklif-qildi-81c572.jpg"/>
-  </item>
-  <item>
-    <title>Apple diskret oqim moslashuvida yangi usulni taklif qildi</title>
-    <link>https://ailenta.uz/x/apple-diskret-oqim-moslashuvida-yangi-usulni-taklif-qildi-9f221e/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/apple-diskret-oqim-moslashuvida-yangi-usulni-taklif-qildi-9f221e/</guid>
-    <pubDate>Wed, 16 Sep 2026 00:00:00 GMT</pubDate>
-    <description>Apple &quot;Trajectory as the Teacher&quot; nomli tadqiqotida diskret oqim moslashuvini bir necha bosqichda amalga oshirish usulini taklif qildi. Ular o‘qitish traektoriyasini cheklovchi omil deb hisoblaydi, bu esa matn yaratish samaradorligini oshirishga yordam beradi.</description>
-    <category>Apple</category><category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/apple-diskret-oqim-moslashuvida-yangi-usulni-taklif-qildi-9f221e.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/apple-diskret-oqim-moslashuvida-yangi-usulni-taklif-qildi-9f221e.jpg"/>
   </item>
 </channel>
 </rss>
