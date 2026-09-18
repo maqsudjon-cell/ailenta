@@ -1,5 +1,71 @@
 [
   {
+    "id": "6a571fb87b14",
+    "slug": "korporativ-amerika-ai-rivojlanishida-sekinlashmoqda-6a571f",
+    "title": "Korporativ Amerika AI rivojlanishida sekinlashmoqda",
+    "summary": "Korporativ Amerika AI rivojlanishida juda sekin harakat qilmoqda. Bu ehtiyotkorlik va yomon ishga qabul qilish bilan bogʻliq boʻlishi mumkin.",
+    "tags": [
+      "biznes",
+      "mehnat bozori"
+    ],
+    "importance": 3,
+    "score": 22,
+    "published": "2026-09-18T11:00:00.000Z",
+    "created": "2026-09-18T12:37:03.815Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/09/18/secret-truth-corporate-america-moving-too-slow-on-ai",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "a5ce7f947721",
+    "slug": "robotlarga-soliq-solish-boylikni-qayta-taqsimlash-uchun-a5ce7f",
+    "title": "Robotlarga soliq solish boylikni qayta taqsimlash uchun",
+    "summary": "Alessandro Crimi robotlarga soliq solish boylikni qayta taqsimlashda ishchilarni qayta oʻqitishdan koʻra samaraliroq ekanligini taʼkidladi. Bu avtomatlashtirishga soliq solish gʻoyasini ilgari suradi.",
+    "tags": [
+      "iqtisod",
+      "robototexnika"
+    ],
+    "importance": 2,
+    "score": 22,
+    "published": "2026-09-18T10:00:00.000Z",
+    "created": "2026-09-18T12:37:03.815Z",
+    "coverage": 1,
+    "source": {
+      "name": "Rest of World",
+      "url": "https://restofworld.org/2026/robot-tax-ai-wealth-redistribution",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "ca9d75540028",
+    "slug": "ai-sekinlashuvi-monopoliyaga-qarshi-muammolarni-keltirdi-ca9d75",
+    "title": "AI \"sekinlashuvi\" monopoliyaga qarshi muammolarni keltirdi",
+    "summary": "AI laboratoriyalari oʻz harakatlarini \"sekinlashuv\" deb atash orqali monopoliyaga qarshi muammolarga duch kelishi mumkin. Bu tartibga solish bilan bogʻliq qiyinchiliklarga olib kelishi mumkin.",
+    "tags": [
+      "qonun",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 21.1,
+    "published": "2026-09-17T19:58:28.000Z",
+    "created": "2026-09-18T12:37:03.815Z",
+    "coverage": 1,
+    "source": {
+      "name": "Wired",
+      "url": "https://wired.com/story/the-ai-slowdown-is-an-antitrust-mess",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "2f92a8ca47fb",
     "slug": "google-gemini-3-8-live-va-extended-thinkingni-taqdim-etdi-2f92a8",
     "title": "Google Gemini 3.8 Live va Extended Thinking'ni taqdim etdi",
