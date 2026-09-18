@@ -1,5 +1,48 @@
 [
   {
+    "id": "545f602036ea",
+    "slug": "anthropic-biologiya-laboratoriyasini-tashkil-etdi-545f60",
+    "title": "Anthropic biologiya laboratoriyasini tashkil etdi",
+    "summary": "Anthropic kompaniyasi dori vositalarini yaratish bo'yicha AI dasturini kengaytirish maqsadida biologiya laboratoriyasini tashkil etdi. Ushbu laboratoriya yashirincha ishga tushirilgan.",
+    "tags": [
+      "Anthropic",
+      "tibbiyot"
+    ],
+    "importance": 4,
+    "score": 30,
+    "published": "2026-09-18T10:09:18.000Z",
+    "created": "2026-09-18T11:01:48.488Z",
+    "coverage": 1,
+    "source": {
+      "name": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMnNocmF2MC1saXA1bW95QU5PcXUyNHZrZUdaZUFKNXVnYk1Yejg4UTlqa242RmJGMnBlZ1pkeC1KdERaazR1TGtSTHkwMFFLNTZQa3VBdHJzcWlWR0hldTYtVm5RQ3hQZDE2LXFfZ3gzeHVqQ3pNR1pEUmpHbnpUMlB1UkYtTHpfeURTVU9Kb082R3ZrbnA1VVZmcEJlcnZBUlEySmtkUQ",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "f860609b92dc",
+    "slug": "moonshot-oz-modelini-wall-street-malumotlariga-bogladi-f86060",
+    "title": "Moonshot o'z modelini Wall Street ma'lumotlariga bog'ladi",
+    "summary": "Xitoyning Moonshot startapi o'zining AI modelini Wall Streetning yetakchi ma'lumotlar provayderlari bilan bog'ladi. Kompaniya CICC investitsiya banki va venchur fondlari bilan shartnomalar imzolagan.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 22,
+    "published": "2026-09-18T08:41:11.000Z",
+    "created": "2026-09-18T11:01:48.488Z",
+    "coverage": 1,
+    "source": {
+      "name": "CNBC",
+      "url": "https://cnbc.com/2026/09/17/china-moonshot-kimi-financial-services.html",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "ddfa04c49625",
     "slug": "napster-ai-yordamida-o-qituvchilarni-klonlamoqchi-ddfa04",
     "title": "Napster AI yordamida o‘qituvchilarni klonlamoqchi",
