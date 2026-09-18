@@ -1,5 +1,50 @@
 [
   {
+    "id": "2ab3b1f4c237",
+    "slug": "rassomlar-ai-sababli-portret-tanloviga-qaytdi-2ab3b1",
+    "title": "Rassomlar AI sababli portret tanloviga qaytdi",
+    "summary": "Rassomlar ikki yil davomida AI ishlari tufayli boykot qilgan Brisben portret tanloviga qaytmoqda. Ular endi AI bilan raqobatlashishni maqsad qilgan.",
+    "tags": [
+      "madaniyat",
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 22.1,
+    "published": "2026-09-17T15:00:55.000Z",
+    "created": "2026-09-18T05:17:46.549Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/artanddesign/ng-interactive/2026/sep/18/bpp-brisbane-portrait-prize-2026-ai",
+      "title": "Artists boycotted this portrait prize over AI entries. Now they’re back to take them on",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "77ba42069d21",
+    "slug": "tramp-ai-xavflarini-aldov-deb-atadi-77ba42",
+    "title": "Tramp AI xavflarini \"aldov\" deb atadi",
+    "summary": "Texnologiya rahbarlari AI rivojlanishini sekinlashtirishni so‘ragan bo‘lsa-da, Prezident Tramp doomsday bashoratlarini \"aldov\" deb atadi. U AI sanoatini qo‘llab-quvvatlamoqda.",
+    "tags": [
+      "siyosat",
+      "AQSh"
+    ],
+    "importance": 3,
+    "score": 26,
+    "published": "2026-09-18T04:00:08.000Z",
+    "created": "2026-09-18T05:18:00.550Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/politics/audio/2026/sep/18/is-trumps-ai-obsession-walking-the-world-into-disaster-podcast",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "97435ceb7485",
     "slug": "palantir-rahbari-ai-lablarini-milliylashtirishni-soradi-97435c",
     "title": "Palantir rahbari AI lablarini milliylashtirishni so'radi",
