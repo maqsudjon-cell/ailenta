@@ -1,5 +1,54 @@
 [
   {
+    "id": "a21de8ab8c83",
+    "slug": "buyuk-britaniya-ai-xavfsizligi-bo-yicha-harakat-qilmoqda-a21de8",
+    "title": "Buyuk Britaniya AI xavfsizligi boʻyicha harakat qilmoqda",
+    "summary": "Buyuk Britaniya hukumati AI xavfsizligi boʻyicha yangi qonun ustida ishlamoqda. Ular mavjud qonunchilikni koʻrib chiqib, AI mahsulotlarini ishga tushirishdan oldin xavfsizlik sinovidan oʻtkazishni majburlash imkoniyatlarini oʻrganmoqda.",
+    "tags": [
+      "siyosat",
+      "qonun"
+    ],
+    "importance": 3,
+    "score": 26,
+    "published": "2026-09-18T14:57:11.000Z",
+    "created": "2026-09-18T21:18:06.828Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/technology/2026/sep/18/a-critical-moment-concern-uk-is-not-up-to-speed-in-acting-on-ai-risks",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "9a79b55d35bc",
+    "slug": "metaning-muse-ai-agenti-macda-ishga-tushdi-9a79b5",
+    "title": "Meta'ning Muse AI agenti Mac'da ishga tushdi",
+    "summary": "Meta kompaniyasining Muse AI agenti endi Mac qurilmalarida mavjud. U foydalanuvchining fayllari va ilovalari bilan ishlash orqali harakatlarni amalga oshira oladi.",
+    "tags": [
+      "Meta",
+      "agentlar"
+    ],
+    "importance": 3,
+    "score": 21,
+    "published": "2026-09-18T15:22:48.000Z",
+    "created": "2026-09-18T21:18:06.828Z",
+    "coverage": 2,
+    "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/18/metas-muse-hits-mac-letting-the-ai-take-actions-on-your-computer",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "Unite.AI",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxObzNjSE55QnZzZ2QzclU2STIwQ0JWTnVFWVZuM00tWlAxT1Y3Rm43R3dhcnhtVkJXb3diMnRNVTgtU3hobEpaYlVsUldtVkl6Vk5wcGdZaThCdjB5M3MzS0VHZFdoUEQ0eGJtdEp4R25uUnphQUZYVWZfODZvZEFZQ3lQVFdKWENESjN5V2JTQzA"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
     "id": "d102ff25abc0",
     "slug": "ai-rivojlanishini-sekinlashtirishni-taminlash-qiyin-d102ff",
     "title": "AI rivojlanishini sekinlashtirishni ta'minlash qiyin",
