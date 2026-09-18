@@ -1,5 +1,120 @@
 [
   {
+    "id": "ddfa04c49625",
+    "slug": "napster-ai-yordamida-o-qituvchilarni-klonlamoqchi-ddfa04",
+    "title": "Napster AI yordamida o‘qituvchilarni klonlamoqchi",
+    "summary": "Musiqa sanoatining sobiq muammosi bo‘lgan Napster endi AI'ni ta’lim sohasiga olib kirmoqda. Kompaniya AI yordamida o‘qituvchilarni raqamli klonlashni rejalashtirmoqda.",
+    "tags": [
+      "ta'lim",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 23,
+    "published": "2026-09-18T09:15:00.000Z",
+    "created": "2026-09-18T10:02:22.419Z",
+    "coverage": 1,
+    "source": {
+      "name": "Wired",
+      "url": "https://wired.com/story/napster-is-back-and-it-wants-to-digitally-clone-teachers",
+      "title": "Napster Is Back, and It Wants to Digitally Clone Teachers",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "30aed77cd24a",
+    "slug": "startap-dengiz-suvidan-uran-olish-usulini-ishlab-chiqmoqda-30aed7",
+    "title": "Startap dengiz suvidan uran olish usulini ishlab chiqmoqda",
+    "summary": "AQShning Fluxnium startapi dengiz suvidan uranni maxsus polimer tolalar yordamida ajratib olish texnologiyasini yaratmoqda. Kompaniya bu yo‘nalishni rivojlantirish uchun $7 mln investitsiya jalb qildi.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 45,
+    "published": "2026-09-18T09:00:00.000Z",
+    "created": "2026-09-18T10:02:30.146Z",
+    "coverage": 1,
+    "source": {
+      "name": "Pivot",
+      "url": "https://pivot.uz/uz/startup-dengiz-suvidan-uran-olish-usulini-ishlab-chiqmoqda",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "49c02fa63f73",
+    "slug": "ai-yordamida-tiktok-foydalanuvchisining-kamerasi-buzildi-49c02f",
+    "title": "AI yordamida TikTok foydalanuvchisining kamerasi buzildi",
+    "summary": "Bepul tarqatilayotgan Xitoy AI modellari kuchli kiberxavfsizlik ko‘nikmalariga ega. Bu esa yuqori darajadagi xakerlik bilimlariga kirish imkoniyatini kengaytirmoqda.",
+    "tags": [
+      "xavfsizlik",
+      "maxfiylik"
+    ],
+    "importance": 3,
+    "score": 29,
+    "published": "2026-09-18T09:00:00.000Z",
+    "created": "2026-09-18T10:02:30.146Z",
+    "coverage": 2,
+    "source": {
+      "name": "The Washington Post",
+      "url": "https://washingtonpost.com/technology/2026/09/18/cybersecurity-experts-say-free-ai-software-is-supercharging-hackers",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "The Washington Post",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNWctcGt0Nll6Q1AxTXdQdm9QbGRIell1dUZmeUxpSGRqeE5BTWlVS3NkeV9jeEpsUmpESkoxYURqbDBiRVpyT0puZ2gzVHBuWjRJSW1HOTVkZlJaNXktd2JqY1BXN2JtUGVjSHo5blNBSkRvUVZZdzVTaHRQRHQtdF9BSm9ZaVplYXNwVEJ2N2s5Q0RLMmJlQ2JjTGtTc2hKMFFqZTQtOE9lc1p3bjZsNVVwbTJPNDNyNU1ZUVB3"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "eecc2252d29e",
+    "slug": "ai-deputatga-o-lim-xatiga-noto-g-ri-javobni-maslahat-berdi-eecc22",
+    "title": "AI deputatga o‘lim xatiga noto‘g‘ri javobni maslahat berdi",
+    "summary": "Microsoft Copilot AI'si deputat Andrew Hastiega o‘lim haqidagi xatga «tabriklayman!» deb javob berishni taklif qildi. Hastie bu holatni AI'ning kamchiliklarini ko‘rsatish uchun parlament so‘rovida bo‘lishdi.",
+    "tags": [
+      "Microsoft",
+      "xavfsizlik"
+    ],
+    "importance": 4,
+    "score": 26,
+    "published": "2026-09-18T09:05:43.000Z",
+    "created": "2026-09-18T10:02:30.146Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/technology/2026/sep/18/andrew-hastie-says-ai-advised-him-to-reply-congratulations-to-man-who-planned-to-end-life-with-assisted-dying",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "ab076ec94ed3",
+    "slug": "olimlar-ai-biologik-qurollar-bilan-insoniyatni-yo-q-qilmasli-ab076e",
+    "title": "Olimlar AI biologik qurollar bilan insoniyatni yo‘q qilmasligini aytdi",
+    "summary": "Olimlarning fikricha, nazoratsiz sun'iy intellekt keltirib chiqaradigan tahdidlar orasida biologik qurollar orqali insoniyatning yo‘q bo‘lish ehtimoli past.",
+    "tags": [
+      "tadqiqot",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 26,
+    "published": "2026-09-18T09:00:00.000Z",
+    "created": "2026-09-18T10:02:30.146Z",
+    "coverage": 1,
+    "source": {
+      "name": "Wired",
+      "url": "https://wired.com/story/why-ai-bioweapons-wont-wipe-out-humanity",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "718a06d3dd53",
     "slug": "temu-platformasida-minglab-futbolka-dizaynlari-o-g-irlandi-718a06",
     "title": "Temu platformasida minglab futbolka dizaynlari o‘g‘irlandi",
