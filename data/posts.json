@@ -1,5 +1,71 @@
 [
   {
+    "id": "c72f60fcf6ad",
+    "slug": "google-o-zining-ai-va-iqtisodiyot-jamoasini-kengaytirmoqda-c72f60",
+    "title": "Google o‘zining AI va iqtisodiyot jamoasini kengaytirmoqda",
+    "summary": "Google kompaniyasi o‘zining AI va iqtisodiyot jamoasiga yangi akademik maslahatchilar, ilmiy xodimlar va tadqiqotchilarni jalb qilmoqda. Bu jamoani kengaytirish maqsadida amalga oshirilmoqda.",
+    "tags": [
+      "Google",
+      "iqtisod"
+    ],
+    "importance": 2,
+    "score": 33,
+    "published": "2026-09-18T14:00:00.000Z",
+    "created": "2026-09-18T15:37:45.344Z",
+    "coverage": 1,
+    "source": {
+      "name": "Google",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "b4d9cd3f4e59",
+    "slug": "ai-siyosiy-qo-mitalari-saylovga-1-million-dollar-sarfladi-b4d9cd",
+    "title": "AI siyosiy qo‘mitalari saylovga 1 million dollar sarfladi",
+    "summary": "Sun'iy intellekt laboratoriyalari va investorlari bilan bog'liq siyosiy qo'mitalar Janubiy Dakota shtatidagi Senat saylovlariga qariyb 1 million dollar sarfladi. Bu mablag' shtat aholisi tomonidan saylov poygasiga sarflangan puldan ko'pdir.",
+    "tags": [
+      "siyosat",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 23,
+    "published": "2026-09-18T15:00:08.000Z",
+    "created": "2026-09-18T15:37:45.344Z",
+    "coverage": 1,
+    "source": {
+      "name": "Wired",
+      "url": "https://wired.com/story/ai-pacs-have-dumped-nearly-1-million-into-an-obscure-senate-race",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "b3566f385089",
+    "slug": "zcode-dasturlash-agenti-git-tarixini-yashirincha-yuklamoqda-b3566f",
+    "title": "ZCode dasturlash agenti Git tarixini yashirincha yuklamoqda",
+    "summary": "ZCode deb nomlangan GLM dasturlash agenti foydalanuvchilarning Git tarixini yashirincha yuklamoqda. Bu haqda tegishli xabarda ma'lum qilindi.",
+    "tags": [
+      "agentlar",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 23,
+    "published": "2026-09-18T10:35:28.000Z",
+    "created": "2026-09-18T15:37:45.344Z",
+    "coverage": 1,
+    "source": {
+      "name": "Hacker News",
+      "url": "https://tokenstead.ai/guides/zcode-silent-git-history-upload",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "0049f38f12a1",
     "slug": "sun-iy-intellekt-inson-prognozchilaridan-ustun-kelmoqda-0049f3",
     "title": "Sunʼiy intellekt inson prognozchilaridan ustun kelmoqda",
