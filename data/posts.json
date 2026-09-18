@@ -1,5 +1,50 @@
 [
   {
+    "id": "41568e1a2d18",
+    "slug": "karta-kompaniyalari-ai-xarid-standartlarini-belgilashga-inti-41568e",
+    "title": "Karta kompaniyalari AI xarid standartlarini belgilashga intilmoqda",
+    "summary": "Karta kompaniyalari sun'iy intellekt yordamida xarid qilish standartlarini o'rnatishga harakat qilmoqda. Biroq, so'rovlarga ko'ra, xaridorlarning atigi 7% AI'ga tasdiqlashsiz xarid qilishga ruxsat beradi.",
+    "tags": [
+      "biznes",
+      "iqtisod"
+    ],
+    "importance": 2,
+    "score": 19,
+    "published": "2026-09-18T19:58:08.000Z",
+    "created": "2026-09-18T21:37:17.134Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/09/18/mastercard-visa-ai-shopping-payment-land-grab",
+      "title": "Card companies are on a ‘land grab’ to set the standards for AI shopping, even as consumers aren’t yet comfortable handing over purchases to a bot",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "96cec576ba1b",
+    "slug": "fbi-ai-yordamida-firibgarliklar-1-6-milliard-dollar-zarar-ke-96cec5",
+    "title": "FBI: AI yordamida firibgarliklar 1.6 milliard dollar zarar keltirdi",
+    "summary": "FBI ma'lumotlariga ko'ra, soxta politsiyachi va hukumat vakili qiyofasidagi firibgarliklar qurbonlarga 1.6 milliard dollar zarar yetkazgan. Jinoyatchilar bu ishda sun'iy intellektdan foydalangan.",
+    "tags": [
+      "xavfsizlik",
+      "qonun"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-09-18T16:19:27.000Z",
+    "created": "2026-09-18T21:37:20.453Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/cyber-crime/2026/09/18/fbi-fake-cop-and-government-impersonation-scams-cost-victims-16b/5297499",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "a21de8ab8c83",
     "slug": "buyuk-britaniya-ai-xavfsizligi-bo-yicha-harakat-qilmoqda-a21de8",
     "title": "Buyuk Britaniya AI xavfsizligi boʻyicha harakat qilmoqda",
