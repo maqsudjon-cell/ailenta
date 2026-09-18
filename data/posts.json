@@ -1,5 +1,98 @@
 [
   {
+    "id": "d102ff25abc0",
+    "slug": "ai-rivojlanishini-sekinlashtirishni-taminlash-qiyin-d102ff",
+    "title": "AI rivojlanishini sekinlashtirishni ta'minlash qiyin",
+    "summary": "Yirik AI kompaniyalari rivojlanishni to'xtatishga rozi bo'lsa ham, hech kim yashirincha oldinga o'tib ketmasligini ta'minlash qiyin bo'lishi mumkin. Bu jarayonni amalga oshirish murakkab vazifa hisoblanadi.",
+    "tags": [
+      "xavfsizlik",
+      "siyosat"
+    ],
+    "importance": 2,
+    "score": 23,
+    "published": "2026-09-18T19:21:09.000Z",
+    "created": "2026-09-18T21:02:02.989Z",
+    "coverage": 1,
+    "source": {
+      "name": "Wired",
+      "url": "https://wired.com/story/heres-how-an-ai-slowdown-could-actually-work",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "19cba699a868",
+    "slug": "ai-bulut-provayderi-nscale-ommaviy-bolishga-ariza-berdi-19cba6",
+    "title": "AI bulut provayderi Nscale ommaviy bo'lishga ariza berdi",
+    "summary": "AI bulut xizmatlari provayderi Nscale ommaviy bo'lish uchun ariza topshirdi. Kompaniya ommaviy bozorlarga chiqayotgan eng yangi sun'iy intellekt neobulut xizmati hisoblanadi.",
+    "tags": [
+      "bulut",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 22,
+    "published": "2026-09-18T20:53:21.000Z",
+    "created": "2026-09-18T21:02:02.989Z",
+    "coverage": 1,
+    "source": {
+      "name": "CNBC",
+      "url": "https://cnbc.com/2026/09/18/nscale-ai-cloud-provider-ipo-nscl.html",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "31344e51cc80",
+    "slug": "world-model-ai-kompaniyalari-sirlarni-saqlamoqda-31344e",
+    "title": "\"World model\" AI kompaniyalari sirlarni saqlamoqda",
+    "summary": "\"World model\" sohasidagi kompaniyalar katta mablag' va shov-shuvga ega bo'lsa-da, ular nima qurayotganini oshkor qilishmayapti. Ta'sischilardan tortib ma'lumot yetkazib beruvchilargacha hech kim bu haqda ma'lumot bermayapti.",
+    "tags": [
+      "biznes",
+      "maxfiylik"
+    ],
+    "importance": 2,
+    "score": 21,
+    "published": "2026-09-18T20:18:14.000Z",
+    "created": "2026-09-18T21:02:02.989Z",
+    "coverage": 2,
+    "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/18/world-model-companies-are-keeping-a-lot-of-secrets",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "Al Jazeera",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZzlaalc4M1lYMERJcTFfSkt3SVJlVm1tQ3AyNzZ4VkY1TjUwQmZFb3c0LWVpNzhLMVFZSWw2Q01LUmNST1h0NFRZMzRDRXhWNk8zZktNa3VycUtNbVR0YjJsdnR3b2dGNlNXRExqRGdIS3FmRjFjX2FrRDVBVUVGWTRxa3VUOHNhVWp3dHNYWmlYZE1lRkdjYUJjSGNmSXdTMkJvbdIBqgFBVV95cUxNRFczRTQ3OFQ0Z3hpWHJDYTl0LU9Nc2FRNFhjeDdGOUxLRU9UMzNRREhZUDhLemIxdGUtS0E0bmcxNlZ6b0tYYVVTTi1ScTA2V2ViLVZ6NEY1SWh0NjdIQ0RkMU9BamF4MnBYM05oS1RVd3RfOFRDbzFZNkRoN21jeDlzQ1Z6aDduV0RjdVl4d2ZsUzJBOGZPYVQ3QlJsYmNnbi1IbnJUNnJJdw"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "dd7eb0ba55d9",
+    "slug": "claude-code-agents-md-formatini-qollab-quvvatlaydi-dd7eb0",
+    "title": "Claude Code AGENTS.md formatini qo'llab-quvvatlaydi",
+    "summary": "Anthropic'ning Claude Code dasturi AGENTS.md formatini qo'llab-quvvatlashni boshladi. Endi CLAUDE.md fayli bo'lmagan papkalarda Claude AGENTS.md faylidan foydalanadi. Bu foydalanuvchilarga loyiha ko'rsatmalarini sozlash imkonini beradi.",
+    "tags": [
+      "Anthropic",
+      "agentlar"
+    ],
+    "importance": 2,
+    "score": 21,
+    "published": "2026-09-18T19:09:27.000Z",
+    "created": "2026-09-18T21:02:02.989Z",
+    "coverage": 1,
+    "source": {
+      "name": "Simon Willison",
+      "url": "https://simonwillison.net/2026/Sep/18/thariq-shihipar",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "56de587773ca",
     "slug": "virjiniya-gubernatori-ai-bo-yicha-ishchi-guruh-tuzdi-56de58",
     "title": "Virjiniya gubernatori AI boʻyicha ishchi guruh tuzdi",
