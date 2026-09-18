@@ -1,5 +1,76 @@
 [
   {
+    "id": "56de587773ca",
+    "slug": "virjiniya-gubernatori-ai-bo-yicha-ishchi-guruh-tuzdi-56de58",
+    "title": "Virjiniya gubernatori AI boʻyicha ishchi guruh tuzdi",
+    "summary": "Virjiniya gubernatori Abigail Spanberger ma'lumot markazlarini tasdiqlashni sekinlashtirish va AI xavflarini baholash uchun ijrochi farmon imzoladi. Farmon ishchi kuchining o'zgarishini baholash uchun AI bo'yicha maxsus ishchi guruh tuzishni ham ko'zda tutadi.",
+    "tags": [
+      "siyosat",
+      "mehnat bozori"
+    ],
+    "importance": 3,
+    "score": 24,
+    "published": "2026-09-18T18:55:01.000Z",
+    "created": "2026-09-18T19:51:38.247Z",
+    "coverage": 2,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/260918/p23",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "The Verge",
+        "url": "https://theverge.com/policy/997573/virginia-governor-spanberger-data-center-ai-task-force"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "38b05854d8bb",
+    "slug": "aqsh-harbiylari-ai-to-qib-chiqargan-hisobot-tufayli-xavf-ost-38b058",
+    "title": "AQSh harbiylari AI to‘qib chiqargan hisobot tufayli xavf ostida qoldi",
+    "summary": "AQSh harbiylari sun'iy intellekt tomonidan to'qib chiqarilgan razvedka hisobotidan foydalanganidan so'ng jiddiy xavfga duch keldi. Bu hodisa AI tizimlarining \"to'qib chiqarish\" (hallucination) xususiyati bilan bog'liq muammolarni ko'rsatadi.",
+    "tags": [
+      "xavfsizlik",
+      "siyosat"
+    ],
+    "importance": 4,
+    "score": 23,
+    "published": "2026-09-18T17:28:01.000Z",
+    "created": "2026-09-18T19:51:38.247Z",
+    "coverage": 1,
+    "source": {
+      "name": "Hacker News",
+      "url": "https://cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "61adf52d3436",
+    "slug": "aqsh-va-anthropic-xitoyni-aida-distillash-da-aybladi-61adf5",
+    "title": "AQSh va Anthropic Xitoyni AI'da \"distillash\"da aybladi",
+    "summary": "AQSh ma'muriyati va Anthropic kompaniyasi Xitoyning AI firmalarini \"distillash\" (distillation) usulidan foydalanishda aybladi. Biroq, bu da'voning ta'siri va aniqligi haqida savollar paydo bo'lmoqda.",
+    "tags": [
+      "siyosat",
+      "Anthropic"
+    ],
+    "importance": 3,
+    "score": 22,
+    "published": "2026-09-18T13:00:01.000Z",
+    "created": "2026-09-18T19:51:38.247Z",
+    "coverage": 1,
+    "source": {
+      "name": "CNBC",
+      "url": "https://cnbc.com/2026/09/18/china-ai-progress-distillation-tech-download.html",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "f6d562334264",
     "slug": "kde-30-yoshda-ai-ga-asoslangan-ish-stoli-taklifi-f6d562",
     "title": "KDE 30 yoshda: AI-ga asoslangan ish stoli taklifi",
