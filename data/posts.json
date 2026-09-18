@@ -1,5 +1,54 @@
 [
   {
+    "id": "2e96d8f13600",
+    "slug": "microsoft-va-openai-xodimlari-ai-malumot-yigishdan-xavotirda-2e96d8",
+    "title": "Microsoft va OpenAI xodimlari AI ma'lumot yig'ishdan xavotirda",
+    "summary": "Yangi ochilgan sud hujjatlariga ko‘ra, Microsoft va OpenAI ichida millionlab yangilik maqolalaridan AI tizimlarini rivojlantirish uchun foydalanish borasida xavotirlar mavjud. Microsoft rahbari buni \"insoniyat tarixidagi eng katta mehnat o‘g‘irligi\" deb atagan.",
+    "tags": [
+      "Microsoft",
+      "OpenAI"
+    ],
+    "importance": 4,
+    "score": 36,
+    "published": "2026-09-18T01:12:52.000Z",
+    "created": "2026-09-18T02:01:56.177Z",
+    "coverage": 2,
+    "source": {
+      "name": "The New York Times",
+      "url": "https://nytimes.com/2026/09/17/technology/microsoft-openai-publishing-industry.html",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "cc88de5a2191",
+    "slug": "microsoft-nazoratsiz-ai-kremniy-turlari-ga-olib-kelishi-mumk-cc88de",
+    "title": "Microsoft: Nazoratsiz AI \"kremniy turlari\"ga olib kelishi mumkin",
+    "summary": "Microsoft kompaniyasi nazoratsiz AI insoniyatga raqobatchi \"kremniy turlari\"ni keltirib chiqarishi mumkinligidan ogohlantirdi. Microsoft AI rahbari Mustafa Suleyman Anthropic o‘zining Claude modeliga \"ongli bo‘lishi mumkin\"ligini o‘rgatayotganiga ishonishini aytdi.",
+    "tags": [
+      "Microsoft",
+      "Anthropic"
+    ],
+    "importance": 4,
+    "score": 26.7,
+    "published": "2026-09-17T08:22:12.000Z",
+    "created": "2026-09-18T02:01:56.177Z",
+    "coverage": 1,
+    "source": {
+      "name": "BBC News",
+      "url": "https://bbc.co.uk/news/articles/c6n07ypqz8kzo?at_medium=RSS&at_campaign=rss",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "91b1986b6835",
     "slug": "bend-ai-xatolarini-bloklovchi-yangi-dasturlash-tili-91b198",
     "title": "Bend: AI xatolarini bloklovchi yangi dasturlash tili",

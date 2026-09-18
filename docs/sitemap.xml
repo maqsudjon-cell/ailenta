@@ -2,9 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://ailenta.uz/</loc>
-    <lastmod>2026-09-17</lastmod>
+    <lastmod>2026-09-18</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://ailenta.uz/x/microsoft-va-openai-xodimlari-ai-malumot-yigishdan-xavotirda-2e96d8/</loc>
+    <lastmod>2026-09-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://ailenta.uz/x/aqsh-hukumati-saytida-nusxa-kochirilgan-ai-ishlatildi-01d243/</loc>
@@ -110,6 +116,12 @@
   </url>
   <url>
     <loc>https://ailenta.uz/x/ai-pentagon-eski-tarmoqlarini-tahdidga-aylantirdi-ad9985/</loc>
+    <lastmod>2026-09-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ailenta.uz/x/microsoft-nazoratsiz-ai-kremniy-turlari-ga-olib-kelishi-mumk-cc88de/</loc>
     <lastmod>2026-09-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -7075,6 +7087,18 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://ailenta.uz/mavzu/microsoft/</loc>
+    <lastmod>2026-09-18</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://ailenta.uz/mavzu/openai/</loc>
+    <lastmod>2026-09-18</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://ailenta.uz/mavzu/anthropic/</loc>
     <lastmod>2026-09-17</lastmod>
     <changefreq>daily</changefreq>
@@ -7100,12 +7124,6 @@
   </url>
   <url>
     <loc>https://ailenta.uz/mavzu/xavfsizlik/</loc>
-    <lastmod>2026-09-17</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://ailenta.uz/mavzu/openai/</loc>
     <lastmod>2026-09-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
@@ -7184,12 +7202,6 @@
   </url>
   <url>
     <loc>https://ailenta.uz/mavzu/bulut/</loc>
-    <lastmod>2026-09-16</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://ailenta.uz/mavzu/microsoft/</loc>
     <lastmod>2026-09-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
@@ -7280,7 +7292,7 @@
   </url>
   <url>
     <loc>https://ailenta.uz/kun/2026-09-18/</loc>
-    <lastmod>2026-09-17</lastmod>
+    <lastmod>2026-09-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -7394,13 +7406,13 @@
   </url>
   <url>
     <loc>https://ailenta.uz/arxiv/</loc>
-    <lastmod>2026-09-17</lastmod>
+    <lastmod>2026-09-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://ailenta.uz/mavzular/</loc>
-    <lastmod>2026-09-17</lastmod>
+    <lastmod>2026-09-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
