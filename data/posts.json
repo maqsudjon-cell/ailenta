@@ -1,5 +1,120 @@
 [
   {
+    "id": "0049f38f12a1",
+    "slug": "sun-iy-intellekt-inson-prognozchilaridan-ustun-kelmoqda-0049f3",
+    "title": "Sunʼiy intellekt inson prognozchilaridan ustun kelmoqda",
+    "summary": "Sunʼiy intellekt tizimlari hozirda eng yaxshi inson prognozchilarining baʼzilaridan ustun natijalarni koʻrsatmoqda. Bu AI'ning bashorat qilish qobiliyatining sezilarli darajada oshganini anglatadi.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 24.1,
+    "published": "2026-09-17T15:13:30.000Z",
+    "created": "2026-09-18T15:15:07.750Z",
+    "coverage": 2,
+    "source": {
+      "name": "Hacker News",
+      "url": "https://economist.com/science-and-technology/2026/09/16/artificial-intelligence-now-beats-some-of-the-best-human-forecasters",
+      "title": "Artificial intelligence now beats some of the best human forecasters",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "6be4f46db364",
+    "slug": "toshkent-maktablarida-ai-davomat-tizimi-ishga-tushdi-6be4f4",
+    "title": "Toshkent maktablarida AI davomat tizimi ishga tushdi",
+    "summary": "Toshkentdagi 26 ta maktabda sunʼiy intellekt yordamida davomat olish tizimi joriy etildi. Bu tizim oʻquvchilarning darsga kelishini avtomatik qayd etadi.",
+    "tags": [
+      "O'zbekiston",
+      "ta'lim"
+    ],
+    "importance": 3,
+    "score": 48,
+    "published": "2026-09-18T13:48:00.000Z",
+    "created": "2026-09-18T15:15:18.083Z",
+    "coverage": 1,
+    "source": {
+      "name": "Kun.uz",
+      "url": "https://kun.uz/news/2026/09/18/inspektor-olimiga-sabab-bolgan-haydovchiga-hukm-va-sotuvga-chiqariladigan-avtozavod-mahalliy-dayjest",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "282315cad5df",
+    "slug": "microsoft-ai-transformatsiyasi-saboqlarini-bolishdi-282315",
+    "title": "Microsoft AI transformatsiyasi saboqlarini bo'lishdi",
+    "summary": "Microsoft kompaniyasi oʻzining sunʼiy intellektga oʻtish jarayonidan olingan saboqlar haqida maʼlumot berdi. Bu tajriba kompaniyaning ichki operatsiyalarini optimallashtirishga qaratilgan.",
+    "tags": [
+      "Microsoft",
+      "biznes"
+    ],
+    "importance": 1,
+    "score": 27.9,
+    "published": "2026-09-17T14:18:56.000Z",
+    "created": "2026-09-18T15:15:18.083Z",
+    "coverage": 1,
+    "source": {
+      "name": "Microsoft",
+      "url": "https://blogs.microsoft.com/blog/2026/09/17/what-weve-learned-from-microsofts-own-ai-transformation",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "1980da0b0525",
+    "slug": "ai-xavflarini-kuzatish-uchun-yangi-nazorat-rejasi-qo-llab-qu-1980da",
+    "title": "AI xavflarini kuzatish uchun yangi nazorat rejasi qoʻllab-quvvatlandi",
+    "summary": "“AI otasi” Geoffrey Hinton OpenAI va Anthropic kompaniyalaridagi AI xavflarini kuzatish uchun yangi nazorat rejasini qoʻllab-quvvatladi. Ikkala kompaniya ham baholovchilarni qabul qilishga tayyor ekanligini bildirdi.",
+    "tags": [
+      "OpenAI",
+      "Anthropic"
+    ],
+    "importance": 4,
+    "score": 27,
+    "published": "2026-09-18T13:00:01.000Z",
+    "created": "2026-09-18T15:15:18.083Z",
+    "coverage": 2,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/geoffrey-hinton-ai-watchdogs-openai-anthropic-safety-2026-9",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "Business Insider",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTnRQUGxRTE1iaUtoM3U0YTBrVERHTzh4bFFiUjhIRXdtNWhFdXFUMzhkVm5HeDA5c2xoajFtbEsxSkdBS2xRbHlPTlVRZU1YSlZZaWVXOUROTXJxb2pPWU9vZ19JRkxiN2RwdDI5QUs3WVBuQWRCcVJnakZMT1dzZERQS0JJVTVPMjN0STJJZ0VDTlUwWmc"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "947f760c8431",
+    "slug": "ai-sanoati-yangi-tashvish-javobgarlik-xavfi-947f76",
+    "title": "AI sanoati yangi tashvish: javobgarlik xavfi",
+    "summary": "Sunʼiy intellekt sanoati “javobgarlik xavfi” bilan bogʻliq yangi tashvishlarga duch kelmoqda. Bu AI tizimlari keltirib chiqarishi mumkin boʻlgan muammolar uchun kim javobgar boʻlishi haqidagi savollarni oʻz ichiga oladi.",
+    "tags": [
+      "biznes",
+      "qonun"
+    ],
+    "importance": 3,
+    "score": 27,
+    "published": "2026-09-18T12:24:42.000Z",
+    "created": "2026-09-18T15:15:18.083Z",
+    "coverage": 1,
+    "source": {
+      "name": "The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdGt5enpFT2RsRkhORHdHai1BNDZvTFp6WmVydS1CbVVqRDEwY0VsZnZJNzdWblhuVkNtSnJKNmE2Nkpia0F5QjNpOFFMZ1lfcHN1bUxQNU41MmVZbkZhSmMza0NVNnEwTkhBbE52V1FJOGlaMU13aHJLMnFra0dtWVBn",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "6a571fb87b14",
     "slug": "korporativ-amerika-ai-rivojlanishida-sekinlashmoqda-6a571f",
     "title": "Korporativ Amerika AI rivojlanishida sekinlashmoqda",
