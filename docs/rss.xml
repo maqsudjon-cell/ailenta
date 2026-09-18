@@ -5,7 +5,7 @@
   <link>https://ailenta.uz</link>
   <description>Dunyodagi sun'iy intellekt yangiliklari o'zbek tilida. Har soatda yangilanadi, har bir xabarda asl manbaga havola.</description>
   <language>uz</language>
-  <lastBuildDate>Fri, 18 Sep 2026 00:37:34 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 18 Sep 2026 00:44:51 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/rss.xml" rel="self" type="application/rss+xml"/>
   <item>
     <title>AQSh hukumati saytida nusxa ko'chirilgan AI ishlatildi</title>
@@ -26,6 +26,16 @@
     <category>siyosat</category><category>qonun</category>
     <media:content url="https://ailenta.uz/og/aqsh-kongressi-ai-bo-yicha-harakatni-kechiktirdi-9ad5de.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/aqsh-kongressi-ai-bo-yicha-harakatni-kechiktirdi-9ad5de.jpg"/>
+  </item>
+  <item>
+    <title>Bend: AI xatolarini bloklovchi yangi dasturlash tili</title>
+    <link>https://ailenta.uz/x/bend-ai-xatolarini-bloklovchi-yangi-dasturlash-tili-91b198/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/bend-ai-xatolarini-bloklovchi-yangi-dasturlash-tili-91b198/</guid>
+    <pubDate>Thu, 17 Sep 2026 20:36:13 GMT</pubDate>
+    <description>Bend deb nomlangan yangi dasturlash tili AI xatolarini isbotlash orqali bloklashga mo‘ljallangan. U CPU va GPUlarda ishlay oladi.</description>
+    <category>tadqiqot</category><category>xavfsizlik</category>
+    <media:content url="https://ailenta.uz/og/bend-ai-xatolarini-bloklovchi-yangi-dasturlash-tili-91b198.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/bend-ai-xatolarini-bloklovchi-yangi-dasturlash-tili-91b198.jpg"/>
   </item>
   <item>
     <title>Dreamforce konferensiyasida AI rivojlanishi muhokama qilindi</title>
@@ -496,16 +506,6 @@
     <category>siyosat</category>
     <media:content url="https://ailenta.uz/og/ai-hukmronligi-muqarrar-emasligi-takidlandi-53079e.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/ai-hukmronligi-muqarrar-emasligi-takidlandi-53079e.jpg"/>
-  </item>
-  <item>
-    <title>AI xavfsizligi bo'yicha tartibga solish Covid davriga o'xshash</title>
-    <link>https://ailenta.uz/x/ai-xavfsizligi-boyicha-tartibga-solish-covid-davriga-oxshash-9245b8/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/ai-xavfsizligi-boyicha-tartibga-solish-covid-davriga-oxshash-9245b8/</guid>
-    <pubDate>Wed, 16 Sep 2026 15:00:23 GMT</pubDate>
-    <description>&quot;AI otasi&quot; Yoshua Bengio sun'iy intellekt xavfsizligi bo'yicha xavotirlar hukumatlarni Covid pandemiyasidagi kabi harakatga undash nuqtasiga yetganini aytdi. Uning fikricha, so'nggi voqealar hukumat choralarini yanada ehtimolli qilmoqda.</description>
-    <category>qonun</category><category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/ai-xavfsizligi-boyicha-tartibga-solish-covid-davriga-oxshash-9245b8.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/ai-xavfsizligi-boyicha-tartibga-solish-covid-davriga-oxshash-9245b8.jpg"/>
   </item>
 </channel>
 </rss>
