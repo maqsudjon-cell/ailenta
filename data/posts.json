@@ -1,5 +1,32 @@
 [
   {
+    "id": "2f92a8ca47fb",
+    "slug": "google-gemini-3-8-live-va-extended-thinkingni-taqdim-etdi-2f92a8",
+    "title": "Google Gemini 3.8 Live va Extended Thinking'ni taqdim etdi",
+    "summary": "Google DeepMind Gemini 3.8 Live va 3.8 Live Extended Thinking versiyalarini joriy qildi. Bu yangilanishlar modelning imkoniyatlarini kengaytiradi.",
+    "tags": [
+      "Google",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 22.2,
+    "published": "2026-09-15T17:05:57.000Z",
+    "created": "2026-09-18T11:34:40.219Z",
+    "coverage": 2,
+    "source": {
+      "name": "Google DeepMind",
+      "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "Simon Willison",
+        "url": "https://simonwillison.net/2026/Sep/15/gemini-live"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
     "id": "545f602036ea",
     "slug": "anthropic-biologiya-laboratoriyasini-tashkil-etdi-545f60",
     "title": "Anthropic biologiya laboratoriyasini tashkil etdi",
