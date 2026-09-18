@@ -1,5 +1,76 @@
 [
   {
+    "id": "718a06d3dd53",
+    "slug": "temu-platformasida-minglab-futbolka-dizaynlari-o-g-irlandi-718a06",
+    "title": "Temu platformasida minglab futbolka dizaynlari o‘g‘irlandi",
+    "summary": "Lonely Kids Club brendi rahbari Uorvik Levi uning butun veb-sayti sun’iy intellekt yordamida skanerlangani va dizaynlari nusxalangani haqida ma’lum qildi. O‘g‘irlangan minglab dizaynlar Temu internet-do‘konida sotuvga qo‘yilgan.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 23,
+    "published": "2026-09-18T07:35:47.000Z",
+    "created": "2026-09-18T09:02:04.977Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/australia-news/2026/sep/18/ai-copyright-t-shirt-designs-stolen-temu-sydney-clothing-label-lonely-kids-club",
+      "title": "‘Brutal’: thousands of T-shirt designs stolen and listed on Temu, Sydney label claims",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "96ec7d6135cc",
+    "slug": "ai-tartibga-solish-bo-yicha-rahbarlar-o-rtasida-kelishmovchi-96ec7d",
+    "title": "AI tartibga solish bo‘yicha rahbarlar o‘rtasida kelishmovchilik",
+    "summary": "Texnologiya yetakchilari ilg‘or sun’iy intellektni kim tartibga solishi kerakligi borasida turlicha fikrda. Shu bilan birga, Tramp ma’muriyati va uning ittifoqchilari bu borada madaniy urushni kuchaytirmoqda.",
+    "tags": [
+      "siyosat",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 24.3,
+    "published": "2026-09-17T19:20:05.000Z",
+    "created": "2026-09-18T09:02:28.295Z",
+    "coverage": 2,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/09/17/as-ai-ceos-clash-over-regulation-a-new-culture-war-is-brewing",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "조선일보",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPV0x6aXc3MW5Fd2I2WGZLX0UyY2Vjdi0xSjJjMVVGb1ZTUkJvRWt4ZWRoMzZ0OERJSWQ4TUZtbXVtWnB5MGZTUDR5TF9qVUFkaUxEdjRBWGxfOGtma2hzY3R0Z0pFUFNPbW1SREJVTWhFd2hqTEhRUldreG5Qbk5hSE1QUnVNZnZi"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "eeec8c483953",
+    "slug": "openai-ichki-repozitoriylarida-xavfsizlik-muammosi-aniqlandi-eeec8c",
+    "title": "OpenAI ichki repozitoriylarida xavfsizlik muammosi aniqlandi",
+    "summary": "OpenAI kompaniyasining ichki repozitoriylarini xavf ostiga qo‘yishi mumkin bo‘lgan xavfsizlik muammolari aniqlandi. Bunga xotira to‘lib ketishi (heap overflow) va SSO tizimidagi noto‘g‘ri sozlamalar sabab bo‘lgan.",
+    "tags": [
+      "OpenAI",
+      "xavfsizlik"
+    ],
+    "importance": 4,
+    "score": 23,
+    "published": "2026-09-18T02:47:24.000Z",
+    "created": "2026-09-18T09:02:28.295Z",
+    "coverage": 1,
+    "source": {
+      "name": "Hacker News",
+      "url": "https://hacktron.ai/blog/hacking-openai",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "1148ee9a1a38",
     "slug": "suv-belgisi-ai-modellarining-xatti-harakatini-ozgartiradi-1148ee",
     "title": "Suv belgisi AI modellarining xatti-harakatini o'zgartiradi",

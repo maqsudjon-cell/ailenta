@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/xavfsizlik/</link>
   <description>&quot;xavfsizlik&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Fri, 18 Sep 2026 08:04:21 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 18 Sep 2026 09:04:17 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/xavfsizlik/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>OpenAI ichki repozitoriylarida xavfsizlik muammosi aniqlandi</title>
+    <link>https://ailenta.uz/x/openai-ichki-repozitoriylarida-xavfsizlik-muammosi-aniqlandi-eeec8c/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/openai-ichki-repozitoriylarida-xavfsizlik-muammosi-aniqlandi-eeec8c/</guid>
+    <pubDate>Fri, 18 Sep 2026 02:47:24 GMT</pubDate>
+    <description>OpenAI kompaniyasining ichki repozitoriylarini xavf ostiga qo‘yishi mumkin bo‘lgan xavfsizlik muammolari aniqlandi. Bunga xotira to‘lib ketishi (heap overflow) va SSO tizimidagi noto‘g‘ri sozlamalar sabab bo‘lgan.</description>
+    <category>OpenAI</category><category>xavfsizlik</category>
+    <media:content url="https://ailenta.uz/og/openai-ichki-repozitoriylarida-xavfsizlik-muammosi-aniqlandi-eeec8c.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/openai-ichki-repozitoriylarida-xavfsizlik-muammosi-aniqlandi-eeec8c.jpg"/>
+  </item>
   <item>
     <title>Bend: AI xatolarini bloklovchi yangi dasturlash tili</title>
     <link>https://ailenta.uz/x/bend-ai-xatolarini-bloklovchi-yangi-dasturlash-tili-91b198/</link>
@@ -296,16 +306,6 @@
     <category>Anthropic</category><category>xavfsizlik</category>
     <media:content url="https://ailenta.uz/og/anthropic-sobiq-xodimi-ai-insoniyatga-tahdid-solishi-haqida-d11b34.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/anthropic-sobiq-xodimi-ai-insoniyatga-tahdid-solishi-haqida-d11b34.jpg"/>
-  </item>
-  <item>
-    <title>Microsoft: AI insoniyatga xizmat qilsa, rivojlanishi kerak</title>
-    <link>https://ailenta.uz/x/microsoft-ai-insoniyatga-xizmat-qilsa-rivojlanishi-kerak-98fdc1/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/microsoft-ai-insoniyatga-xizmat-qilsa-rivojlanishi-kerak-98fdc1/</guid>
-    <pubDate>Mon, 14 Sep 2026 18:32:00 GMT</pubDate>
-    <description>Microsoft superintellektni rivojlantirish insoniyatga yordam berishi va inson nazorati ostida bo'lishi kerakligini ta'kidladi. Aks holda, uni izlashga arzimaydi.</description>
-    <category>Microsoft</category><category>xavfsizlik</category>
-    <media:content url="https://ailenta.uz/og/microsoft-ai-insoniyatga-xizmat-qilsa-rivojlanishi-kerak-98fdc1.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/microsoft-ai-insoniyatga-xizmat-qilsa-rivojlanishi-kerak-98fdc1.jpg"/>
   </item>
 </channel>
 </rss>

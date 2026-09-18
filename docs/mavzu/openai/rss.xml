@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/openai/</link>
   <description>&quot;OpenAI&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Fri, 18 Sep 2026 08:04:21 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 18 Sep 2026 09:04:17 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/openai/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>OpenAI ichki repozitoriylarida xavfsizlik muammosi aniqlandi</title>
+    <link>https://ailenta.uz/x/openai-ichki-repozitoriylarida-xavfsizlik-muammosi-aniqlandi-eeec8c/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/openai-ichki-repozitoriylarida-xavfsizlik-muammosi-aniqlandi-eeec8c/</guid>
+    <pubDate>Fri, 18 Sep 2026 02:47:24 GMT</pubDate>
+    <description>OpenAI kompaniyasining ichki repozitoriylarini xavf ostiga qo‘yishi mumkin bo‘lgan xavfsizlik muammolari aniqlandi. Bunga xotira to‘lib ketishi (heap overflow) va SSO tizimidagi noto‘g‘ri sozlamalar sabab bo‘lgan.</description>
+    <category>OpenAI</category><category>xavfsizlik</category>
+    <media:content url="https://ailenta.uz/og/openai-ichki-repozitoriylarida-xavfsizlik-muammosi-aniqlandi-eeec8c.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/openai-ichki-repozitoriylarida-xavfsizlik-muammosi-aniqlandi-eeec8c.jpg"/>
+  </item>
   <item>
     <title>OpenAI tadqiqotchisi Noam Brown bilan suhbat</title>
     <link>https://ailenta.uz/x/openai-tadqiqotchisi-noam-brown-bilan-suhbat-a9aceb/</link>
@@ -296,16 +306,6 @@
     <category>OpenAI</category><category>Anthropic</category>
     <media:content url="https://ailenta.uz/og/insight-partners-openai-va-anthropicga-sarmoya-qilmaydi-4803f4.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/insight-partners-openai-va-anthropicga-sarmoya-qilmaydi-4803f4.jpg"/>
-  </item>
-  <item>
-    <title>Sam Altman OpenAI IPO'si bu yil bo'lmasligini tasdiqladi</title>
-    <link>https://ailenta.uz/x/sam-altman-openai-iposi-bu-yil-bolmasligini-tasdiqladi-2bc635/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/sam-altman-openai-iposi-bu-yil-bolmasligini-tasdiqladi-2bc635/</guid>
-    <pubDate>Sat, 12 Sep 2026 19:35:05 GMT</pubDate>
-    <description>OpenAI bosh direktori Sam Altman kompaniyaning bu yil ommaviy taklif (IPO) o'tkazmasligini ma'lum qildi. Uning so'zlariga ko'ra, xavfsizlik bilan bog'liq vaziyat hozirda IPO uchun noo'rin vaqt.</description>
-    <category>OpenAI</category><category>biznes</category>
-    <media:content url="https://ailenta.uz/og/sam-altman-openai-iposi-bu-yil-bolmasligini-tasdiqladi-2bc635.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/sam-altman-openai-iposi-bu-yil-bolmasligini-tasdiqladi-2bc635.jpg"/>
   </item>
 </channel>
 </rss>
