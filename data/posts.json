@@ -1,5 +1,132 @@
 [
   {
+    "id": "f6d562334264",
+    "slug": "kde-30-yoshda-ai-ga-asoslangan-ish-stoli-taklifi-f6d562",
+    "title": "KDE 30 yoshda: AI-ga asoslangan ish stoli taklifi",
+    "summary": "KDE loyihasi 30 yilligini nishonladi va unga AI-ga asoslangan ish stoli taklifi kiritildi. Taklif Plasma ish stolining foydalanuvchining shaxsiy modeliga moslashishini nazarda tutadi.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 22,
+    "published": "2026-09-18T14:25:00.000Z",
+    "created": "2026-09-18T18:36:59.327Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/software/2026/09/18/kde-turns-30-and-someones-brought-an-ai-native-desktop-proposal/5297282",
+      "title": "KDE turns 30 and someone's brought an AI-native desktop proposal",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "afa99329678c",
+    "slug": "kaliforniya-gubernatori-ai-xavfsizligi-bo-yicha-farmon-chiqa-afa993",
+    "title": "Kaliforniya gubernatori AI xavfsizligi boʻyicha farmon chiqardi",
+    "summary": "Kaliforniya gubernatori Gavin Newsom AI xavfsizligi boʻyicha ijrochi farmon chiqardi. Unda kompaniyalardan “oʻchirish tugmasi”ni yaratishni talab qiluvchi tavsiyalar ishlab chiqish buyurilgan.",
+    "tags": [
+      "siyosat",
+      "qonun"
+    ],
+    "importance": 4,
+    "score": 54,
+    "published": "2026-09-18T17:27:15.000Z",
+    "created": "2026-09-18T18:36:59.635Z",
+    "coverage": 5,
+    "source": {
+      "name": "The New York Times",
+      "url": "https://nytimes.com/2026/09/18/technology/ai-safety-california-gavin-newsom.html",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "CNBC",
+        "url": "https://cnbc.com/2026/09/18/california-newsom-executive-order-ai.html"
+      },
+      {
+        "name": "The Decoder",
+        "url": "https://the-decoder.com/california-governor-newsom-signs-executive-order-demanding-kill-switch-for-ai-models"
+      },
+      {
+        "name": "The Verge",
+        "url": "https://theverge.com/policy/997516/california-governor-newsom-ai-kill-switch"
+      },
+      {
+        "name": "Techmeme",
+        "url": "https://techmeme.com/260918/p17"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "5a1fd842ce90",
+    "slug": "yevropa-ai-firmalari-aqshning-sekinlashuv-chaqiriqlariga-qar-5a1fd8",
+    "title": "Yevropa AI firmalari AQShning sekinlashuv chaqiriqlariga qarshi",
+    "summary": "Yevropaning AI kompaniyalari AQShning sun'iy intellekt rivojlanishini sekinlashtirish chaqiriqlariga e'tiroz bildirmoqda. Ular bu borada ortda qolayotganini ta'kidlab, raqobatbardoshlikni saqlashga intilmoqda.",
+    "tags": [
+      "biznes",
+      "siyosat"
+    ],
+    "importance": 3,
+    "score": 27,
+    "published": "2026-09-18T14:22:37.000Z",
+    "created": "2026-09-18T18:36:59.635Z",
+    "coverage": 1,
+    "source": {
+      "name": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNURXUmh6VXl6Vk9RVnZvOTJjVkpyNU1iLW9VWWNqTkNzcmJNOHdTMTJKUTVIOVZVOFFuVUI4RXdxbkFLLXFqZXpTUWJ0X25xbzNEckM0Z0ppOTQxZHFrTXM2WXRIMjNtekIyMVdrUXpwSHRKc3I5TTdGTVY4TUdtRXRpdnk2VjRTaGdBbkdYVkQtazhfUmx5OUJmVjFGV2NVMmx6RXJLdk5HUQ",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "87c482d24598",
+    "slug": "naza-filmi-isroilning-ai-nishon-tizimlarini-organadi-87c482",
+    "title": "NAZA filmi Isroilning AI-nishon tizimlarini o'rganadi",
+    "summary": "“NAZA” hujjatli filmi Isroil mudofaa kuchlari G'azoni bombardimon qilishda ishlatgan AI-ga asoslangan nishonga olish tizimlarini tekshiradi. Filmda 24 nafar anonim insayder bilan suhbatlar keltirilgan.",
+    "tags": [
+      "siyosat",
+      "xavfsizlik"
+    ],
+    "importance": 4,
+    "score": 23,
+    "published": "2026-09-18T16:46:30.000Z",
+    "created": "2026-09-18T18:36:59.635Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/commentisfree/2026/sep/18/the-guardian-view-on-nazas-persecuted-directors-journalism-is-not-treason",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "d8cd9e59c8f4",
+    "slug": "openai-va-anthropic-avval-tadqiqot-laboratoriyalari-edi-d8cd9e",
+    "title": "OpenAI va Anthropic avval tadqiqot laboratoriyalari edi",
+    "summary": "OpenAI va Anthropic kompaniyalari dastlab tadqiqot laboratoriyalari sifatida faoliyat yuritgan. Ular daromad bosimisiz innovatsiyalarga e'tibor qaratgan.",
+    "tags": [
+      "OpenAI",
+      "Anthropic"
+    ],
+    "importance": 2,
+    "score": 22,
+    "published": "2026-09-18T16:51:02.000Z",
+    "created": "2026-09-18T18:36:59.635Z",
+    "coverage": 1,
+    "source": {
+      "name": "Semafor",
+      "url": "https://semafor.com/article/09/18/2026/the-real-reason-not-to-ipo",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "9c7c03106617",
     "slug": "elektromobillar-o-zbekiston-avtoimportida-yetakchi-9c7c03",
     "title": "Elektromobillar O‘zbekiston avtoimportida yetakchi",

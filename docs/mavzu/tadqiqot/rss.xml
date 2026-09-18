@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/tadqiqot/</link>
   <description>&quot;tadqiqot&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Fri, 18 Sep 2026 18:04:25 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 18 Sep 2026 18:40:08 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/tadqiqot/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>KDE 30 yoshda: AI-ga asoslangan ish stoli taklifi</title>
+    <link>https://ailenta.uz/x/kde-30-yoshda-ai-ga-asoslangan-ish-stoli-taklifi-f6d562/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/kde-30-yoshda-ai-ga-asoslangan-ish-stoli-taklifi-f6d562/</guid>
+    <pubDate>Fri, 18 Sep 2026 14:25:00 GMT</pubDate>
+    <description>KDE loyihasi 30 yilligini nishonladi va unga AI-ga asoslangan ish stoli taklifi kiritildi. Taklif Plasma ish stolining foydalanuvchining shaxsiy modeliga moslashishini nazarda tutadi.</description>
+    <category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/kde-30-yoshda-ai-ga-asoslangan-ish-stoli-taklifi-f6d562.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/kde-30-yoshda-ai-ga-asoslangan-ish-stoli-taklifi-f6d562.jpg"/>
+  </item>
   <item>
     <title>OpenAI &quot;ming yillik masala&quot;ni yechganini e'lon qildi</title>
     <link>https://ailenta.uz/x/openai-ming-yillik-masala-ni-yechganini-elon-qildi-dbb4e1/</link>
@@ -296,16 +306,6 @@
     <category>xavfsizlik</category><category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/ai-rivojlanishini-sekinlashtirish-qanday-boladi-08440f.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/ai-rivojlanishini-sekinlashtirish-qanday-boladi-08440f.jpg"/>
-  </item>
-  <item>
-    <title>GPT-6 Astra dron boshqarish va biznes sinovidan o'tdi</title>
-    <link>https://ailenta.uz/x/gpt-6-astra-dron-boshqarish-va-biznes-sinovidan-otdi-be33ef/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/gpt-6-astra-dron-boshqarish-va-biznes-sinovidan-otdi-be33ef/</guid>
-    <pubDate>Sun, 13 Sep 2026 10:52:16 GMT</pubDate>
-    <description>GPT-6 Astra modeli Vending-Bench sinov to'plamida Claude Fable 5.1 modeliga qaraganda qariyb uch baravar ko'p daromad keltirdi. Shuningdek, u dron nazorati bo'yicha beshta topshiriqning barchasida inson ko'rsatkichidan o'zib ketgan birinchi model bo'ldi.</description>
-    <category>agentlar</category><category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/gpt-6-astra-dron-boshqarish-va-biznes-sinovidan-otdi-be33ef.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/gpt-6-astra-dron-boshqarish-va-biznes-sinovidan-otdi-be33ef.jpg"/>
   </item>
 </channel>
 </rss>
