@@ -1,5 +1,81 @@
 [
   {
+    "id": "3ceee4c70a85",
+    "slug": "robotlar-virtual-olamlarda-oqitilmoqda-3ceee4",
+    "title": "Robotlar virtual olamlarda o'qitilmoqda",
+    "summary": "Robotlarni real dunyoda harakatlanishga o'rgatuvchi o'qitish tizimlari takomillashmoqda. Bu tizimlar virtual olamlardan foydalanadi.",
+    "tags": [
+      "robototexnika",
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 23,
+    "published": "2026-09-17T23:00:47.000Z",
+    "created": "2026-09-18T03:36:45.453Z",
+    "coverage": 1,
+    "source": {
+      "name": "BBC News",
+      "url": "https://bbc.co.uk/news/articles/c79g0j3d4q9o?at_medium=RSS&at_campaign=rss",
+      "title": "The virtual worlds where robots are trained",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "ca8b71518e19",
+    "slug": "huawei-ai-chiplariga-talab-taklifdan-oshganini-aytdi-ca8b71",
+    "title": "Huawei AI chiplariga talab taklifdan oshganini aytdi",
+    "summary": "Huawei Xitoyda AI chiplariga bo'lgan talab taklifdan oshib ketganini ma'lum qildi. Kompaniya Nvidia'ga raqobatni kuchaytirmoqda.",
+    "tags": [
+      "Huawei",
+      "chiplar"
+    ],
+    "importance": 4,
+    "score": 36.8,
+    "published": "2026-09-17T02:40:00.000Z",
+    "created": "2026-09-18T03:36:53.573Z",
+    "coverage": 3,
+    "source": {
+      "name": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUUF2NV9DeFExYkFNQS1hQnZfTjFBY05sRjRmN3hMQkxoTmo0aEYtMnNyU3BnRUZPUzVtZGt6ZjE1ZWVsRldkWG1RMVUyaWpFWTg1Q3paeENVblNJUi1ITktZemVWRy1tbGc3OHd5QkFLT0Zya1UyOE13LW1XbTN4d002Zi1ReXJHRlZDNTZlUmh5cmFEcmhlNk9ET2JWZw",
+      "indirect": true
+    },
+    "also": [
+      {
+        "name": "Tekedia",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObmlhU2p5cngycjV5VklRUmdrZGpWVUxiX25WUlc0MGpsNDgtQ2pMQU16dHQzYWhnVVVVakJrVkllMlhVaUdUeXYzNmNtV1F3UHFEYUZSWllpdGlyQ1Z6WXFzek9OaEFFN2FkRXptcEZBbXkxR2Mza2pzRHZtZkZSTlRTVXUtenlHMmlfV0NVWXZkM2RjaklfQnhMRmdiN3RQZHNFRmJFdXZYMzBMZ3lyUzV3"
+      },
+      {
+        "name": "KWSN",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPd094bE92MnVtbndDdUhxcW1GZFJpTUExQTEteDdGdC12dW90THFSTlRUb1A3cERYcE5NaDB2SlBjckYwMWRXUkw4MEdJS1VJMWZDOTc0ZERXUmZtMk9YZFZ3blJWNjhqWHFBUGthNDZuQy1jckkxMTNuNnNPbjZfdTJMMA"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "a9aceb8330ee",
+    "slug": "openai-tadqiqotchisi-noam-brown-bilan-suhbat-a9aceb",
+    "title": "OpenAI tadqiqotchisi Noam Brown bilan suhbat",
+    "summary": "OpenAI tadqiqotchisi Noam Brown ko'p agentli tizimlar va AI'ning Navier-Stokes muammosini yechishi haqida gapirdi. U AI'ni hech qachon kam baholamaslik kerakligini ta'kidladi.",
+    "tags": [
+      "OpenAI",
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 24,
+    "published": "2026-09-18T01:30:02.000Z",
+    "created": "2026-09-18T03:36:53.573Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/260917/p43",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "2e96d8f13600",
     "slug": "microsoft-va-openai-xodimlari-ai-malumot-yigishdan-xavotirda-2e96d8",
     "title": "Microsoft va OpenAI xodimlari AI ma'lumot yig'ishdan xavotirda",
