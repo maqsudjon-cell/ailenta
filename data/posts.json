@@ -1,5 +1,31 @@
 [
   {
+    "id": "381a97dc0175",
+    "slug": "bytedance-yangi-doubao-seed-2-1-pro-modelini-taqdim-etdi-381a97",
+    "title": "ByteDance yangi Doubao-Seed-2.1-pro modelini taqdim etdi",
+    "summary": "ByteDance kompaniyasi Volcengine platformasida Doubao-Seed-2.1-pro modelini chiqardi. Yangi model multimodal kodlash imkoniyatiga ega bo'lib, tasvir va video uchun xulosa chiqarish tokenlari narxini 30 foizdan ko'proqqa arzonlashtiradi.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 24,
+    "published": "2026-09-18T03:34:24.000Z",
+    "created": "2026-09-18T04:01:22.778Z",
+    "coverage": 2,
+    "source": {
+      "name": "Pandaily",
+      "url": "https://pandaily.com/doubao-seed-2-1-pro-0915-multimodal-coding",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "Pandaily",
+        "url": "https://pandaily.com/bytedance-doubao-feishu-volcengine-ai-office-stack"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
     "id": "3ceee4c70a85",
     "slug": "robotlar-virtual-olamlarda-oqitilmoqda-3ceee4",
     "title": "Robotlar virtual olamlarda o'qitilmoqda",
