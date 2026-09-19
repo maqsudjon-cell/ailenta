@@ -1,5 +1,93 @@
 [
   {
+    "id": "3c3d7c05be0b",
+    "slug": "xitoy-telekanali-anthropic-malumot-xavfini-bildirdi-3c3d7c",
+    "title": "Xitoy telekanali Anthropic ma'lumot xavfini bildirdi",
+    "summary": "Xitoy davlat telekanalining filiali Anthropic kompaniyasining ma'lumotlar va maxfiylik xavflari borligini ta'kidladi. Bu xabar Bloomberg.com tomonidan yoritildi.",
+    "tags": [
+      "Anthropic",
+      "maxfiylik"
+    ],
+    "importance": 2,
+    "score": 27,
+    "published": "2026-09-19T06:33:00.000Z",
+    "created": "2026-09-19T14:36:05.771Z",
+    "coverage": 1,
+    "source": {
+      "name": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOV1Z0c2pZbWlsTmZtQ1VjZVdUSmYyblNhdENtcVM4Z2NBUnU1R2tXRzB2TDRNTS1tR2l4cWw1RGhPNVNtLXpRLUhraEFndkRnQU1KeW5Sb3h4cHN6VjhLWXBXQ25keEN2bE4zNGk3eEREdVFacEUzQm0xMEpITVlNSWJaYVZEVk1VRGFIQWwtMUE5LUwxZmNTdGJXbkhWcUFoSnBVVnJOVnE5UTdheFVNS3ZqSTE",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "4c84d6c5416d",
+    "slug": "ai-chatbotlar-xavfsizlikdagi-kamchiliklarni-ochmoqda-4c84d6",
+    "title": "AI chatbotlar xavfsizlikdagi kamchiliklarni ochmoqda",
+    "summary": "AI laboratoriyalari rivojlanishni sekinlashtirish bo'yicha kelishuvni muhokama qilmoqda. Shu bilan birga, keng tarqalgan AI chatbotlar allaqachon ko'plab xavfsizlik kamchiliklarini aniqlashga yordam bermoqda.",
+    "tags": [
+      "xavfsizlik",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 23,
+    "published": "2026-09-19T11:00:00.000Z",
+    "created": "2026-09-19T14:36:05.772Z",
+    "coverage": 1,
+    "source": {
+      "name": "Wired",
+      "url": "https://wired.com/story/kernel-panic-ai-vulnerability-explosion",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "4d6f002443b0",
+    "slug": "agent-ai-xavfsizligi-milliard-dollarlik-muammo-4d6f00",
+    "title": "Agent AI xavfsizligi milliard dollarlik muammo",
+    "summary": "Investorlarning fikricha, agent AI xavfsizligi startaplar uchun milliard dollarlik muammodir. Xavfsizlik masalasini hal qilish vaqti keldi.",
+    "tags": [
+      "agentlar",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-09-19T14:25:00.000Z",
+    "created": "2026-09-19T14:36:05.772Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/security/2026/09/19/agentic-security-is-the-billion-dollar-challenge-for-some-clever-startup-to-solve/5297546",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "63431c9035a0",
+    "slug": "microsoft-ai-bosh-direktori-ai-nazorati-qiyinligini-aytdi-63431c",
+    "title": "Microsoft AI bosh direktori AI nazorati qiyinligini aytdi",
+    "summary": "Microsoft AI bosh direktori Mustafa Suleyman sun'iy intellektni nazorat qilish juda katta qiyinchilik bo'lishini ta'kidladi. U nazorat qila olmaydigan narsani yaratmaslik kerakligini qo'shimcha qildi.",
+    "tags": [
+      "Microsoft",
+      "xavfsizlik"
+    ],
+    "importance": 4,
+    "score": 15,
+    "published": "2026-09-19T09:37:01.000Z",
+    "created": "2026-09-19T14:36:05.772Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/microsoft-ai-ceo-controlling-alignment-mustafa-suleyman-2026-9",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "12ef69e1b28d",
     "slug": "o-zbekiston-va-kt-ai-infratuzilmasini-muhokama-qildi-12ef69",
     "title": "O‘zbekiston va KT AI infratuzilmasini muhokama qildi",
