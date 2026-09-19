@@ -1,5 +1,69 @@
 [
   {
+    "id": "5b054754d625",
+    "slug": "anthropic-rahbari-ai-rivojlanishi-uchun-reja-taqdim-etdi-5b0547",
+    "title": "Anthropic rahbari AI rivojlanishi uchun reja taqdim etdi",
+    "summary": "Anthropic bosh direktori Dario Amodei AI rivojlanishini boshqarish rejasini e'lon qildi. Reja mustaqil xavfsizlik baholovchilari va demokratik davlatlardagi AI laboratoriyalari o'rtasidagi muvofiqlashtirishga asoslangan.",
+    "tags": [
+      "Anthropic",
+      "xavfsizlik"
+    ],
+    "importance": 4,
+    "score": 18,
+    "published": "2026-09-18T17:06:32.000Z",
+    "created": "2026-09-19T02:02:48.977Z",
+    "coverage": 1,
+    "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/podcast/automattics-33-hour-coup-and-can-ai-labs-police-themselves",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "3dd47325b128",
+    "slug": "kai-fu-lee-kompaniyalarga-ai-boshligi-kerak-deb-hisoblaydi-3dd473",
+    "title": "Kai-Fu Lee kompaniyalarga AI boshlig'i kerak deb hisoblaydi",
+    "summary": "Google'ning sobiq Xitoy rahbari Kai-Fu Lee kompaniyalar AI boshlig'iga ega bo'lishi kerakligini ta'kidladi. Uning fikricha, bosh direktorlar AI'dan ko'proq foyda olish uchun tanlov oldida turibdi.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 16.9,
+    "published": "2026-09-18T08:43:21.000Z",
+    "created": "2026-09-19T02:02:48.978Z",
+    "coverage": 1,
+    "source": {
+      "name": "Semafor",
+      "url": "https://semafor.com/article/09/18/2026/why-kai-fu-lee-thinks-companies-need-an-ai-boss",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "50ef1c35e14c",
+    "slug": "atlassian-rahbari-aidan-foydalanish-boyicha-maslahat-berdi-50ef1c",
+    "title": "Atlassian rahbari AI'dan foydalanish bo'yicha maslahat berdi",
+    "summary": "Atlassian bosh direktori Mayk Kannon-Bruks AI'dan maksimal foyda olish uchun kontekst, tajriba va katta sarmoyalar kerakligini aytdi. Kompaniya Silikon vodiysidan uzoqda $45 milliardlik qiymatga erishgan.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 16.9,
+    "published": "2026-09-18T08:43:10.000Z",
+    "created": "2026-09-19T02:02:48.978Z",
+    "coverage": 1,
+    "source": {
+      "name": "Semafor",
+      "url": "https://semafor.com/article/09/18/2026/how-atlassian-built-a-45-billion-software-company-far-from-silicon-valleys-froth-and-bubbles",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "ca95f399d7f6",
     "slug": "kpmg-ai-bolimlarida-ish-orinlarini-qisqartirdi-ca95f3",
     "title": "KPMG AI bo'limlarida ish o'rinlarini qisqartirdi",
