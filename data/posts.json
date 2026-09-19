@@ -1,5 +1,93 @@
 [
   {
+    "id": "ca95f399d7f6",
+    "slug": "kpmg-ai-bolimlarida-ish-orinlarini-qisqartirdi-ca95f3",
+    "title": "KPMG AI bo'limlarida ish o'rinlarini qisqartirdi",
+    "summary": "KPMG konsalting firmasi o'zining AI, kiberxavfsizlik va SAP bo'limlarida ish o'rinlarini qisqartirdi. Ba'zi xodimlar to'langan kompensatsiyani haqoratli deb atashdi.",
+    "tags": [
+      "mehnat bozori",
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 17.9,
+    "published": "2026-09-18T10:32:00.000Z",
+    "created": "2026-09-19T01:22:20.631Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/channel/2026/09/18/kpmg-tech-cuts-come-with-a-severance-sum-some-staff-call-insulting/5296942",
+      "title": "KPMG tech cuts come with a severance sum some staff call insulting",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "ee049a98f33c",
+    "slug": "ai-kuzatuv-va-urushda-qanday-qollanilishi-muhokama-qilindi-ee049a",
+    "title": "AI kuzatuv va urushda qanday qo'llanilishi muhokama qilindi",
+    "summary": "404 Media va The Intercept nashrlari AI'ning kuzatuv va harbiy maqsadlarda qo'llanilishi haqida suhbatlashdi. Unda xususiy kompaniyalar hukumat kuzatuvini qanday kuchaytirayotgani muhokama etildi.",
+    "tags": [
+      "siyosat",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-09-18T15:47:19.000Z",
+    "created": "2026-09-19T01:22:29.299Z",
+    "coverage": 1,
+    "source": {
+      "name": "404 Media",
+      "url": "https://404media.co/404-media-x-the-intercept-live-how-ai-is-used-to-surveil-and-kill",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "15eaf56d15f4",
+    "slug": "ai-modellarining-shaffofligi-xavf-ostida-15eaf5",
+    "title": "AI modellarining shaffofligi xavf ostida",
+    "summary": "Google DeepMind ma'lumotlariga ko'ra, AI modellarining \"fikr zanjirlari\" shaffofligi xavf ostida. Bu shaffoflik AI xavfsizligi uchun muhim afzallik hisoblanadi.",
+    "tags": [
+      "Google",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 18,
+    "published": "2026-09-18T14:32:49.000Z",
+    "created": "2026-09-19T01:22:29.299Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/visible-chains-of-thought-are-a-safety-advantage-for-ai-but-that-transparency-is-slipping-away",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "bd77d2c266c6",
+    "slug": "ai-navier-stokes-muammosini-hal-qildi-bd77d2",
+    "title": "AI Navier–Stokes muammosini hal qildi",
+    "summary": "Sun'iy intellekt Navier–Stokes muammosini yechdi. Bu yutuq fizika sohasi uchun muhim ahamiyatga ega bo'lishi mumkin.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 4,
+    "score": 17.7,
+    "published": "2026-09-18T00:00:00.000Z",
+    "created": "2026-09-19T01:22:29.300Z",
+    "coverage": 1,
+    "source": {
+      "name": "Nature",
+      "url": "https://nature.com/articles/d41586-026-02922-6",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "0e0c9e68f8be",
     "slug": "elon-musk-ai-xavfsizligi-haqida-gapirdi-0e0c9e",
     "title": "Elon Musk AI xavfsizligi haqida gapirdi",

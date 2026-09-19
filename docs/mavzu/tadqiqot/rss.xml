@@ -5,7 +5,7 @@
   <link>https://ailenta.uz/mavzu/tadqiqot/</link>
   <description>&quot;tadqiqot&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Sat, 19 Sep 2026 01:03:31 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 19 Sep 2026 01:25:03 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/tadqiqot/rss.xml" rel="self" type="application/rss+xml"/>
   <item>
     <title>AI xulosa chiqarish o'sishi chiplarni qayta ko'rib chiqishga undamoqda</title>
@@ -76,6 +76,16 @@
     <category>OpenAI</category><category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/openai-tadqiqotchisi-noam-brown-bilan-suhbat-a9aceb.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/openai-tadqiqotchisi-noam-brown-bilan-suhbat-a9aceb.jpg"/>
+  </item>
+  <item>
+    <title>AI Navier–Stokes muammosini hal qildi</title>
+    <link>https://ailenta.uz/x/ai-navier-stokes-muammosini-hal-qildi-bd77d2/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/ai-navier-stokes-muammosini-hal-qildi-bd77d2/</guid>
+    <pubDate>Fri, 18 Sep 2026 00:00:00 GMT</pubDate>
+    <description>Sun'iy intellekt Navier–Stokes muammosini yechdi. Bu yutuq fizika sohasi uchun muhim ahamiyatga ega bo'lishi mumkin.</description>
+    <category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/ai-navier-stokes-muammosini-hal-qildi-bd77d2.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/ai-navier-stokes-muammosini-hal-qildi-bd77d2.jpg"/>
   </item>
   <item>
     <title>Apple DSAS texnologiyasini taqdim etdi</title>
@@ -296,16 +306,6 @@
     <category>tadqiqot</category><category>tibbiyot</category>
     <media:content url="https://ailenta.uz/og/inson-terisi-malumotlarida-ai-modeli-oqitilmoqda-3abfe4.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/inson-terisi-malumotlarida-ai-modeli-oqitilmoqda-3abfe4.jpg"/>
-  </item>
-  <item>
-    <title>Gartner: AI korporativ foydalanishga tayyor emas</title>
-    <link>https://ailenta.uz/x/gartner-ai-korporativ-foydalanishga-tayyor-emas-f66799/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/gartner-ai-korporativ-foydalanishga-tayyor-emas-f66799/</guid>
-    <pubDate>Mon, 14 Sep 2026 05:11:19 GMT</pubDate>
-    <description>Gartner tahliliy kompaniyasi sun'iy intellekt va uning asosiy targ'ibotchilari korporativ foydalanishga tayyor emasligini ma'lum qildi. Model yaratuvchilar juda tez harakat qilmoqda va xatolarga e'tibor bermayapti.</description>
-    <category>biznes</category><category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/gartner-ai-korporativ-foydalanishga-tayyor-emas-f66799.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/gartner-ai-korporativ-foydalanishga-tayyor-emas-f66799.jpg"/>
   </item>
 </channel>
 </rss>
