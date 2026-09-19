@@ -1,5 +1,74 @@
 [
   {
+    "id": "3fbb36ec05da",
+    "slug": "ai-modellarining-avtonom-takomillashuvi-yaqinlashmoqda-3fbb36",
+    "title": "AI modellarining avtonom takomillashuvi yaqinlashmoqda",
+    "summary": "Yetakchi laboratoriyalar AI modellarining avtonom tarzda takomillashish qobiliyatiga erishish ssenariysi yaqin ekanini bildirdi. Bu AI rivojlanishidagi muhim bosqich bo'lishi mumkin.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 13,
+    "published": "2026-09-19T11:23:26.000Z",
+    "created": "2026-09-19T19:03:01.885Z",
+    "coverage": 2,
+    "source": {
+      "name": "myMotherLode.com",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNdHY5STFZV2JCWjZaZEhjM3hfRDYxandJNnR2MHc1bGxDNVdZUlBVOXNoTWVjRjUyRmo1bWJWTTBaNldZd0xGZGk0TzdfWmY2ckU0QVpidE9hRllHTktZNGxmQ1ZibTlvRFNmeEFwUVhPeGJGX2pNOHN5NzJiTHZyTGk3NTNzVzJtVFNfZ3g2cnV2QUtRbHJsVEVCZUpOa25oam4ycTZPdWViZWl3VThjSHVlX19PY0dsNV9oWG1JemxHdXpPbDlBQU5MaFphb1dmX3NvX2hQNVRCOHIyd2Raaks1d9IB6AFBVV95cUxNUVFLYmwwMkx6TC1HQ21LTWdFOXJ2UFViZm5rcXNBWWpSSG9rME5ZeW9adDVnbWdHYUgtMG1hRHI1bWtiZ1A5NFZhazhBYnlfZVh2dmdUQlBKci1taUt3OEZMS2xnWWxsOEd5dTQ5bXhrOElKS21TS1BjQU01ci02enJORXV2TlF5RGJBRzVEbUxUM2Rid2E2QVI3a2dmMVR6REJSRXNpcXhLZ05fOGkwQWdYemtkR05QOVFjam43eTFpZjZMLXBQelBPV3NpelRKVmZSRmE2cGhSU01aaFcxUnVqckY3YjdG",
+      "indirect": true
+    },
+    "also": [
+      {
+        "name": "The Independent",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOb1Q4MDBkbkJwMmFVVW1ocTR2amdVN3l3cVR1QTgzSWxxa09YRzJ2UUcwVGs3VWRJd1I4WWVrLWw1bENFUlJMT3phcFRhQVJGalhjVUptZ25kVkdIVzhjS3N2RVZpa19uYndKY0RoRTRuU3RoMUdxZnRNU19oVFpDc3NIRkRORTJvTzJET1NURjJ4QVFEbWJNcFpGdFVqZFlpcTZn"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "5b44e5cdf094",
+    "slug": "ai-agentlar-dasturni-rejalashtirishda-yordam-beradi-5b44e5",
+    "title": "AI agentlar dasturni rejalashtirishda yordam beradi",
+    "summary": "Bir dasturchi AI vositalarini shaxsiy loyihalarida sinovdan o'tkazdi. Uning so'zlariga ko'ra, AI agentlar dasturiy ta'minotni ishlab chiqish siklida, ayniqsa rejalashtirish bosqichida samaradorlikni oshiradi.",
+    "tags": [
+      "agentlar",
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 11,
+    "published": "2026-09-19T16:23:02.000Z",
+    "created": "2026-09-19T19:03:01.885Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/companies/reksoft/articles/1084182",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "34bb70e9f335",
+    "slug": "ai-internetdagi-malumot-sifatini-pasaytirmoqda-34bb70",
+    "title": "AI internetdagi ma'lumot sifatini pasaytirmoqda",
+    "summary": "Bir foydalanuvchi AI tomonidan yaratilgan kontent tufayli internetdagi ma'lumotlar sifatining yomonlashayotganini ta'kidladi. Ko'plab sahifalar bir xil matnni takrorlab, inson tomonidan yozilmaganini ko'rsatmoqda.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 11,
+    "published": "2026-09-19T15:49:04.000Z",
+    "created": "2026-09-19T19:03:01.885Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1084178",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "75d70ec3b8f3",
     "slug": "tramp-ai-boyicha-chizar-tayinlash-va-ai-kuchlari-tuzishni-re-75d70e",
     "title": "Tramp AI bo'yicha \"chizar\" tayinlash va \"AI Kuchlari\" tuzishni rejalashtirmoqda",
