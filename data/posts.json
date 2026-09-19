@@ -1,5 +1,93 @@
 [
   {
+    "id": "9a924eb8c30d",
+    "slug": "ai-xavflari-va-yadroviy-energiya-munozaralari-9a924e",
+    "title": "AI xavflari va yadroviy energiya munozaralari",
+    "summary": "Gazeta arxivlari AI'ning insoniyatga tahdid solishi haqidagi hozirgi munozaralar bilan yadroviy energiyaning ta'siri va uni tartibga solish bo'yicha o'tmishdagi bahslar o'rtasida o'xshashliklarni ko'rsatdi.",
+    "tags": [
+      "siyosat",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 15.4,
+    "published": "2026-09-18T15:05:53.000Z",
+    "created": "2026-09-19T12:01:22.857Z",
+    "coverage": 1,
+    "source": {
+      "name": "Semafor",
+      "url": "https://semafor.com/article/09/18/2026/fears-about-technology-causing-extinction-are-not-unprecedented",
+      "title": "Fears about technology causing extinction are not unprecedented",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "459c7a68e56f",
+    "slug": "suniy-intellekt-ish-orinlari-va-xavfsizlik-haqida-suhbat-459c7a",
+    "title": "Sun'iy intellekt: Ish o'rinlari va xavfsizlik haqida suhbat",
+    "summary": "Jamshid Muslimov va Odilxon Alimxonov Mohirdev asoschisi Anvar Narzullayev bilan AI'ning mehnat bozoriga ta'siri, shaxsiy ma'lumotlar xavfsizligi va inson nazorati haqida suhbatlashdi.",
+    "tags": [
+      "mehnat bozori",
+      "maxfiylik"
+    ],
+    "importance": 2,
+    "score": 48,
+    "published": "2026-09-19T06:24:00.000Z",
+    "created": "2026-09-19T12:01:38.214Z",
+    "coverage": 1,
+    "source": {
+      "name": "Kun.uz",
+      "url": "https://kun.uz/news/2026/09/19/suniy-intellekt-odamlarni-ishsiz-qoldiradimi-xavotirlar-va-imkoniyatlar-haqida-suhbat",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "d8912c6a9ccb",
+    "slug": "ai-insoniyatga-xavf-solishi-haqidagi-munozaralar-d8912c",
+    "title": "AI insoniyatga xavf solishi haqidagi munozaralar",
+    "summary": "Sobiq Anthropic tadqiqotchisining AI insoniyatga tahdid solishi haqidagi ogohlantirishlariga o'quvchilar javob berdi. Ko'pchilik bu mavzu ilmiy-fantastik filmlardagi kabi takrorlanuvchi syujet ekanligini ta'kidladi.",
+    "tags": [
+      "xavfsizlik",
+      "Anthropic"
+    ],
+    "importance": 3,
+    "score": 23.2,
+    "published": "2026-09-18T16:56:39.000Z",
+    "created": "2026-09-19T12:01:38.214Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/technology/2026/sep/18/could-ai-pose-a-serious-threat-to-our-existence",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "b4c14524fe70",
+    "slug": "ai-ish-orinlarini-yaratmoqda-va-yoqotmoqda-b4c145",
+    "title": "AI ish o'rinlarini yaratmoqda va yo'qotmoqda",
+    "summary": "AI sohasida ishlovchi Pat Gelsinger va Naveen Rao sun'iy intellektning ish o'rinlarini yo'qotish bilan birga, yangi ish joylarini ham yaratayotganini ta'kidladi.",
+    "tags": [
+      "mehnat bozori"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-09-19T09:00:00.000Z",
+    "created": "2026-09-19T12:01:38.214Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/09/19/pat-gelsinger-naveen-rao-silicon-valley-move-fast-break-things",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "554a5961074b",
     "slug": "hindistonning-dasturiy-xizmatlar-eksporti-ai-tufayli-osdi-554a59",
     "title": "Hindistonning dasturiy xizmatlar eksporti AI tufayli o'sdi",
