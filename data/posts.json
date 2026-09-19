@@ -1,5 +1,54 @@
 [
   {
+    "id": "12ef69e1b28d",
+    "slug": "o-zbekiston-va-kt-ai-infratuzilmasini-muhokama-qildi-12ef69",
+    "title": "O‘zbekiston va KT AI infratuzilmasini muhokama qildi",
+    "summary": "O‘zbekiston va Koreyaning KT kompaniyasi AI-data-markazlar, startaplarni qo‘llab-quvvatlash hamda sunʼiy intellekt bo‘yicha qo‘shma R&D loyihalarini muhokama qildi.",
+    "tags": [
+      "O'zbekiston",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 53,
+    "published": "2026-09-19T08:30:00.000Z",
+    "created": "2026-09-19T14:01:45.369Z",
+    "coverage": 2,
+    "source": {
+      "name": "UzDaily",
+      "url": "https://uzdaily.uz/uz/ozbekiston-va-kt-sun%CA%BCiy-intellekt-infratuzilmasi-va-startaplarni-qollab-quvvatlashni-muhokama-qildi",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "UzDaily",
+        "url": "https://uzdaily.uz/uz/ozbekiston-va-koreya-raqamli-hukumat-va-ai-data-hubni-muhokama-qildi"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "c8eff2dfdecd",
+    "slug": "vals-ai-sinov-toplami-uchun-standart-yaratmoqda-c8eff2",
+    "title": "Vals AI sinov to'plami uchun standart yaratmoqda",
+    "summary": "Andreessen Horowitz tomonidan qo‘llab-quvvatlanadigan Vals AI, AI sinov to‘plami (benchmark) uchun oltin standart bo‘lishni maqsad qilgan. Kompaniya neytral va ishonchli resurs yaratishga umid qilmoqda.",
+    "tags": [
+      "biznes",
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-09-19T13:00:00.000Z",
+    "created": "2026-09-19T14:01:45.369Z",
+    "coverage": 1,
+    "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "d737e7832d0a",
     "slug": "ai-kill-switch-samaradorligi-muhokama-qilinmoqda-d737e7",
     "title": "AI \"kill switch\" samaradorligi muhokama qilinmoqda",
