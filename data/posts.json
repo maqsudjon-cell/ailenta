@@ -1,5 +1,48 @@
 [
   {
+    "id": "da6a0c667239",
+    "slug": "meta-kompaniyasining-muse-ai-agenti-sinovdan-otkazildi-da6a0c",
+    "title": "Meta kompaniyasining Muse AI agenti sinovdan o'tkazildi",
+    "summary": "Business Insider jurnalisti Meta kompaniyasining Muse AI agentini bir hafta davomida sinab ko'rdi. U agentga o'z elektron pochtasi, kredit kartalari va Apple salomatlik ma'lumotlariga kirish huquqini bergan. Biroq agent bolalarining maktab ilovalari bilan bog'liq muammolarni hal qila olmagan.",
+    "tags": [
+      "Meta",
+      "agentlar"
+    ],
+    "importance": 2,
+    "score": 18,
+    "published": "2026-09-19T09:22:01.000Z",
+    "created": "2026-09-19T18:01:49.040Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/meta-muse-review-access-to-emails-credit-cards-health-data-2026-9",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "86ab101ea267",
+    "slug": "petlibro-mushuklar-uchun-aqlli-oziqlantirgich-taqdim-etdi-86ab10",
+    "title": "Petlibro mushuklar uchun aqlli oziqlantirgich taqdim etdi",
+    "summary": "Petlibro kompaniyasi o'rnatilgan tarozi va AI kameraga ega Granary 2 aqlli oziqlantirgichini namoyish qildi. Qurilma mushukning qachon va qancha ovqat yeyayotganini aniq kuzatib boradi. Biroq salomatlikni kuzatishning eng ilg'or funksiyalari uchun qo'shimcha obuna talab etiladi.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-09-19T15:00:00.000Z",
+    "created": "2026-09-19T18:01:49.040Z",
+    "coverage": 1,
+    "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "f12e4c499cde",
     "slug": "ai-agent-natijasi-sifatini-yakunlash-isbotlamaydi-f12e4c",
     "title": "AI agent natijasi sifatini yakunlash isbotlamaydi",
