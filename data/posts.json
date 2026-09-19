@@ -1,5 +1,115 @@
 [
   {
+    "id": "0e0c9e68f8be",
+    "slug": "elon-musk-ai-xavfsizligi-haqida-gapirdi-0e0c9e",
+    "title": "Elon Musk AI xavfsizligi haqida gapirdi",
+    "summary": "Elon Musk o'tgan hafta AI xavfsizligi haqida gapirdi. U Anthropic va OpenAI rahbarlari bilan fikrlari mos kelganini bildirdi.",
+    "tags": [
+      "xAI",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 25,
+    "published": "2026-09-18T19:15:24.000Z",
+    "created": "2026-09-19T00:36:49.401Z",
+    "coverage": 1,
+    "source": {
+      "name": "CNBC",
+      "url": "https://cnbc.com/2026/09/18/after-decade-of-clashes-in-ai-elon-musk-forging-strange-alliances.html",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "bb8a3d262a7a",
+    "slug": "ai-xulosa-chiqarish-osishi-chiplarni-qayta-korib-chiqishga-u-bb8a3d",
+    "title": "AI xulosa chiqarish o'sishi chiplarni qayta ko'rib chiqishga undamoqda",
+    "summary": "Sun'iy intellektda xulosa chiqarish hajmining keskin o'sishi chiplar va xotira tizimlarini qayta ko'rib chiqishni talab qilmoqda. Bu sohada yangi yechimlar zarur.",
+    "tags": [
+      "chiplar",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-09-18T21:07:35.000Z",
+    "created": "2026-09-19T00:36:49.401Z",
+    "coverage": 1,
+    "source": {
+      "name": "IEEE Spectrum",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1sZkl4SF95TDVhWHlKWV91VWFOX01IakF4clJUWkxKNDZUel9xMnZ5bEZTZmNPRDFDU3JWSmlWdFRoaW1jcFBibWZ4eksyRXFaNDJXaXZJSkJSYUptZUxKMm1NU2tOZw",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "87b16e708c07",
+    "slug": "ai-tufayli-kompyuter-fanlari-bitiruvchilari-ish-topishda-qiy-87b16e",
+    "title": "AI tufayli kompyuter fanlari bitiruvchilari ish topishda qiynalmoqda",
+    "summary": "AI rivojlanishi sababli kompyuter fanlari bitiruvchilari ish topishda qiyinchiliklarga duch kelmoqda. Iqtisodchilar bu holatni retsessiyaga o'xshash deb baholamoqda.",
+    "tags": [
+      "mehnat bozori",
+      "iqtisod"
+    ],
+    "importance": 4,
+    "score": 19,
+    "published": "2026-09-18T19:48:22.000Z",
+    "created": "2026-09-19T00:36:49.401Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/ai-and-ml/2026/09/18/compsci-grads-facing-recession-like-job-prospects-thanks-to-ai/5297537",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "52562b074c48",
+    "slug": "aqsh-vakili-chip-roy-aini-tartibga-solishga-qarshi-52562b",
+    "title": "AQSh vakili Chip Roy AI'ni tartibga solishga qarshi",
+    "summary": "AQSh vakili Chip Roy sun'iy intellektni qo'shimcha tartibga solishga qarshi ekanligini bildirdi. Biroq, u Kongressning AI ustidan nazorat rolini qo'llab-quvvatlaydi.",
+    "tags": [
+      "siyosat",
+      "qonun"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-09-18T14:20:46.000Z",
+    "created": "2026-09-19T00:36:49.401Z",
+    "coverage": 1,
+    "source": {
+      "name": "CNBC",
+      "url": "https://cnbc.com/2026/09/18/chip-roy-ai-congress-regulate.html",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "e58c2f2b0b9b",
+    "slug": "ai-agentlari-uchun-ideal-malumotlar-bazasi-mavjud-emas-e58c2f",
+    "title": "AI agentlari uchun ideal ma'lumotlar bazasi mavjud emas",
+    "summary": "Percona bosh direktori AI agentlari uchun ideal ma'lumotlar bazasi hali yaratilmaganini aytdi. Takrorlanuvchi ish yuklari sotuvchilarni tayyor emas holatda qoldirdi.",
+    "tags": [
+      "agentlar",
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 19,
+    "published": "2026-09-18T12:34:00.000Z",
+    "created": "2026-09-19T00:36:49.401Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/databases/2026/09/18/the-ideal-database-for-ai-agents-doesnt-exist-yet-says-percona-ceo/5296906",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "2e53bd246e52",
     "slug": "ai-oz-vorislarini-yaratishi-mumkinligi-haqida-ogohlantirish-2e53bd",
     "title": "AI o'z vorislarini yaratishi mumkinligi haqida ogohlantirish",
