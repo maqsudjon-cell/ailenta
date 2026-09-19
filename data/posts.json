@@ -11,7 +11,7 @@
     "importance": 3,
     "score": 53,
     "published": "2026-09-19T08:30:00.000Z",
-    "created": "2026-09-19T14:01:45.369Z",
+    "created": "2026-09-19T14:06:20.026Z",
     "coverage": 2,
     "source": {
       "name": "UzDaily",
@@ -27,18 +27,40 @@
     "model": "gemini"
   },
   {
-    "id": "c8eff2dfdecd",
-    "slug": "vals-ai-sinov-toplami-uchun-standart-yaratmoqda-c8eff2",
-    "title": "Vals AI sinov to'plami uchun standart yaratmoqda",
-    "summary": "Andreessen Horowitz tomonidan qo‘llab-quvvatlanadigan Vals AI, AI sinov to‘plami (benchmark) uchun oltin standart bo‘lishni maqsad qilgan. Kompaniya neytral va ishonchli resurs yaratishga umid qilmoqda.",
+    "id": "623c6b8c8f74",
+    "slug": "raindrop-ai-agentlarni-nazorat-qilish-uchun-35-mln-yigdi-623c6b",
+    "title": "Raindrop AI agentlarni nazorat qilish uchun $35 mln yig'di",
+    "summary": "AI agentlardagi to‘qib chiqarish va vositalardan noto‘g‘ri foydalanish kabi xatolarni nazorat qiluvchi Raindrop kompaniyasi CRV boshchiligidagi A seriyali moliyalashtirish bosqichida 35 million dollar mablag‘ jalb qildi.",
     "tags": [
-      "biznes",
-      "tadqiqot"
+      "agentlar",
+      "biznes"
     ],
-    "importance": 2,
+    "importance": 3,
+    "score": 18,
+    "published": "2026-09-19T14:00:51.000Z",
+    "created": "2026-09-19T14:06:20.026Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/260919/p7",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "c8eff2dfdecd",
+    "slug": "vals-ai-sinov-toplami-uchun-standart-yaratmoqchi-c8eff2",
+    "title": "Vals AI sinov to'plami uchun standart yaratmoqchi",
+    "summary": "Andreessen Horowitz tomonidan qo‘llab-quvvatlanadigan Vals AI, sun'iy intellekt sinov to‘plami (benchmarking) uchun neytral va ishonchli standart yaratishni maqsad qilgan.",
+    "tags": [
+      "tadqiqot",
+      "biznes"
+    ],
+    "importance": 3,
     "score": 15,
     "published": "2026-09-19T13:00:00.000Z",
-    "created": "2026-09-19T14:01:45.369Z",
+    "created": "2026-09-19T14:06:20.026Z",
     "coverage": 1,
     "source": {
       "name": "TechCrunch",
