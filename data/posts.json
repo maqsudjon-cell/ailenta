@@ -1,5 +1,69 @@
 [
   {
+    "id": "3e25916f07b0",
+    "slug": "typesafe-ai-dasturchilar-uchun-jev-modelini-taqdim-etdi-3e2591",
+    "title": "TypeSafe AI dasturchilar uchun Jev modelini taqdim etdi",
+    "summary": "TypeSafe AI kompaniyasi Jev nomli yangi AI modelini taqdim etdi. Ushbu model matnli javoblar generatsiya qilmasdan, dasturlar uchun qarorlarni tez va strukturali shaklda qaytaradi. Vercel ma'lumotlariga ko'ra, u AI Gateway platformasida ishga tushirilgan.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 57,
+    "published": "2026-09-19T08:00:00.000Z",
+    "created": "2026-09-19T09:01:44.573Z",
+    "coverage": 1,
+    "source": {
+      "name": "Pivot",
+      "url": "https://pivot.uz/uz/ai-bozorida-yangi-model-jev-nima-uchun-dasturchilar-etiborini-tortmoqda",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "3b9484e42e3b",
+    "slug": "lusi-guo-ai-odamlarni-koproq-ishlashga-majbur-qilmoqda-3b9484",
+    "title": "Lusi Guo: AI odamlarni ko'proq ishlashga majbur qilmoqda",
+    "summary": "Scale AI va Passes asoschisi Lusi Guo sun'iy intellekt odamlarning ishini kamaytirmayotganini, aksincha ularni ko'proq ishlashga majbur qilayotganini ma'lum qildi. U o'zi kuniga 26 soat ishlaganini ta'kidladi.",
+    "tags": [
+      "mehnat bozori"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-09-19T07:02:00.000Z",
+    "created": "2026-09-19T09:01:44.574Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/09/19/scale-ai-passes-founder-women-founders-lucy-guo-tech-venture-capital-autonomous-agents-billionaires",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "548d024dcc29",
+    "slug": "huaruizhipu-robotlar-uchun-praxis-one-platformasini-chiqardi-548d02",
+    "title": "Huaruizhipu robotlar uchun Praxis One platformasini chiqardi",
+    "summary": "Huaruizhipu kompaniyasi og'ir yuk ko'taruvchi robotlar uchun Praxis One jismoniy AI platformasini taqdim etdi. Qurilma MediaTek Genio Pro 5100 chipida ishlaydi va 106 TOPS quvvatiga ega.",
+    "tags": [
+      "robototexnika",
+      "chiplar"
+    ],
+    "importance": 3,
+    "score": 18,
+    "published": "2026-09-19T08:11:40.000Z",
+    "created": "2026-09-19T09:01:44.574Z",
+    "coverage": 1,
+    "source": {
+      "name": "Pandaily",
+      "url": "https://pandaily.com/huaruizhipu-praxis-one-mediatek-genio-pro-5100-edge",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "0edc02d372df",
     "slug": "anthropic-xavfsizlikni-nazorat-qilish-uchun-firma-tanladi-0edc02",
     "title": "Anthropic xavfsizlikni nazorat qilish uchun firma tanladi",
