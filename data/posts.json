@@ -1,5 +1,116 @@
 [
   {
+    "id": "f12e4c499cde",
+    "slug": "ai-agent-natijasi-sifatini-yakunlash-isbotlamaydi-f12e4c",
+    "title": "AI agent natijasi sifatini yakunlash isbotlamaydi",
+    "summary": "AI agentning vazifani yakunlashi va to‘g‘ri formatda qaytarishi uning natijasi sifatini to‘liq isbotlamaydi. Agent natijalarini qabul qilish uchun qo‘shimcha tekshiruvlar zarur.",
+    "tags": [
+      "agentlar",
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 11,
+    "published": "2026-09-19T13:16:00.000Z",
+    "created": "2026-09-19T15:38:02.083Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1084146",
+      "title": "Completion не доказывает качество результата AI-агента",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "8dea5a2654e8",
+    "slug": "anthropic-bosh-direktori-ai-rivojlanishini-sekinlashtirishni-8dea5a",
+    "title": "Anthropic bosh direktori AI rivojlanishini sekinlashtirishni taklif qildi",
+    "summary": "Anthropic bosh direktori Dario Amodei AI rivojlanishini sekinlashtirish bo‘yicha uch bosqichli rejani taklif etdi. Reja laboratoriyalarga uchinchi tomon baholovchilarini jalb qilish va xalqaro kelishuvlar tuzishni o‘z ichiga oladi.",
+    "tags": [
+      "Anthropic",
+      "qonun"
+    ],
+    "importance": 3,
+    "score": 18,
+    "published": "2026-09-19T13:00:00.000Z",
+    "created": "2026-09-19T15:38:13.390Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Verge",
+      "url": "https://theverge.com/ai-artificial-intelligence/997706/the-ai-regulation-smackdown-isnt-over",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "dbed379882ff",
+    "slug": "ai-aqsh-harbiylarini-xitoy-bilan-urushga-olib-kelishi-mumkin-dbed37",
+    "title": "AI AQSh harbiylarini Xitoy bilan urushga olib kelishi mumkin edi",
+    "summary": "Xabarlarga ko‘ra, AI tufayli AQSh harbiylari Xitoy kemasiga hujum qilishiga oz qolgan. Ular kemada yadro quroli komponentlari bor deb hisoblashgan.",
+    "tags": [
+      "xavfsizlik",
+      "siyosat"
+    ],
+    "importance": 5,
+    "score": 13.1,
+    "published": "2026-09-18T22:44:45.000Z",
+    "created": "2026-09-19T15:38:13.390Z",
+    "coverage": 1,
+    "source": {
+      "name": "Engadget",
+      "url": "https://engadget.com/2263043/ai-almost-led-the-us-military-to-attack-china-report-says",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "c87b08c06d02",
+    "slug": "britaniya-armiyasi-1000-ta-kichik-dron-sotib-oldi-c87b08",
+    "title": "Britaniya armiyasi 1000 ta kichik dron sotib oldi",
+    "summary": "Britaniya armiyasi kuzatuv va o‘qitish uchun 1000 ta cho‘ntak o‘lchamidagi dron tizimlariga 16 million funt sterling sarfladi. Dronlar uchta Buyuk Britaniya yetkazib beruvchisi orqali olinadi.",
+    "tags": [
+      "robototexnika",
+      "xavfsizlik"
+    ],
+    "importance": 2,
+    "score": 11.8,
+    "published": "2026-09-18T09:29:00.000Z",
+    "created": "2026-09-19T15:38:13.390Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/offbeat/2026/09/18/british-army-spends-16m-on-1000-pocket-sized-eyes-in-the-sky/5297248",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "8681059f8ba0",
+    "slug": "disney-ayblangan-ai-kompaniyasi-sobiq-bosh-direktorini-yolla-868105",
+    "title": "Disney ayblangan AI kompaniyasi sobiq bosh direktorini yolladi",
+    "summary": "Disney o‘zi mualliflik huquqini buzganlikda ayblagan AI kompaniyasining sobiq bosh direktorini ishga qabul qildi. Bu harakat intellektual mulk masalalariga oid savollarni keltirib chiqardi.",
+    "tags": [
+      "Disney",
+      "sud"
+    ],
+    "importance": 3,
+    "score": 11.4,
+    "published": "2026-09-18T18:36:47.000Z",
+    "created": "2026-09-19T15:38:13.390Z",
+    "coverage": 1,
+    "source": {
+      "name": "Engadget",
+      "url": "https://engadget.com/2262703/disney-hires-ex-ceo-of-ai-company-it-accused-of-copyright-infringement",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "760403627546",
     "slug": "ai-xavfsizligi-munozaralarida-haqiqatni-ajratish-qiyin-760403",
     "title": "AI xavfsizligi munozaralarida haqiqatni ajratish qiyin",
