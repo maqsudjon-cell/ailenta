@@ -1,5 +1,70 @@
 [
   {
+    "id": "2c1abb42d65b",
+    "slug": "iclr-ai-konferensiyasiga-50-000-ta-tezis-kelib-tushdi-2c1abb",
+    "title": "ICLR AI konferensiyasiga 50 000 ta tezis kelib tushdi",
+    "summary": "ICLR AI konferensiyasiga muddatidan oldin 50 000 ga yaqin tezis kelib tushdi. Bu ICLR 2026 dagi 19 500 ta tezisdan sezilarli ko'pdir. Tezislarning ko'payishi AI shov-shuvi va AI yordamida maqolalar yozishning osonlashishi bilan bog'liq.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-09-19T10:37:04.000Z",
+    "created": "2026-09-19T11:01:34.430Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/ai-conference-iclr-is-drowning-in-abstracts-with-roughly-50000-submissions-before-the-deadline",
+      "title": "AI conference ICLR is drowning in abstracts, with roughly 50,000 submissions before the deadline",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "c60031507b9a",
+    "slug": "matematiklar-aiga-boglanib-qolmoqda-c60031",
+    "title": "Matematiklar AIga bog'lanib qolmoqda",
+    "summary": "Kuchli AI modellari matematika sohasiga ekzistensial xavf tug'dirmoqda. Shunga qaramay, tadqiqotchilar ulardan foydalanishni to'xtata olmayapti, chunki AI juda foydali.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 23,
+    "published": "2026-09-19T10:00:00.000Z",
+    "created": "2026-09-19T11:01:46.370Z",
+    "coverage": 1,
+    "source": {
+      "name": "Wired",
+      "url": "https://wired.com/story/mathematicians-cant-quit-ai",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "5bc96b50fb2e",
+    "slug": "gates-fondi-maktablar-uchun-aiga-400-mln-ajratdi-5bc96b",
+    "title": "Gates fondi maktablar uchun AIga $400 mln ajratdi",
+    "summary": "Gates fondi maktablarda sun'iy intellektni joriy etish uchun 400 million dollar sarflamoqda. O'qituvchilarning ogohlantirishicha, bu harakat ta'limdagi tafovutni kengaytirishi mumkin. Bir o'qituvchi AI o'qituvchi tajribasini qo'llab-quvvatlashi, ammo uni almashtira olmasligini ta'kidladi.",
+    "tags": [
+      "ta'lim",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-09-19T08:01:00.000Z",
+    "created": "2026-09-19T11:01:46.370Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/09/19/the-gates-foundation-ai-schools-teachers-warn-gap-reading-math",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "f9ded3543236",
     "slug": "aviakompaniyalar-faa-taqdim-etgan-yangi-ai-vositasidan-xavot-f9ded3",
     "title": "Aviakompaniyalar FAA taqdim etgan yangi AI vositasidan xavotirda",
