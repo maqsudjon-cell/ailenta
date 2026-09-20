@@ -1,5 +1,27 @@
 [
   {
+    "id": "f08fad1e2d0d",
+    "slug": "ai-qurolli-biologik-xavf-amodei-va-altman-ogohlantirmoqda-f08fad",
+    "title": "AI-qurolli biologik xavf: Amodei va Altman ogohlantirmoqda",
+    "summary": "Anthropic bosh direktori Dario Amodei va OpenAI bosh direktori Sam Altman AI xavflari haqida ogohlantirdi. Ular AI rivojlanishini sekinlashtirish zarurligiga rozi bo'lishdi. Bu AI tomonidan yaratilishi mumkin bo'lgan biologik qurollar xavfi bilan bog'liq.",
+    "tags": [
+      "Anthropic",
+      "OpenAI"
+    ],
+    "importance": 4,
+    "score": 16.8,
+    "published": "2026-09-18T09:00:00.000Z",
+    "created": "2026-09-20T03:37:05.171Z",
+    "coverage": 1,
+    "source": {
+      "name": "MIT Technology Review",
+      "url": "https://technologyreview.com/2026/09/18/1144329/the-specter-of-ai-enabled-bioweapons-is-a-wake-up-call-for-biotech",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "85eb2ef08dd2",
     "slug": "qwen3-8-omni-flash-gemini-flash-narxidan-arzon-85eb2e",
     "title": "Qwen3.8-Omni-Flash Gemini Flash narxidan arzon",
