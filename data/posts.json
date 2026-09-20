@@ -1,5 +1,136 @@
 [
   {
+    "id": "0b35faef522d",
+    "slug": "axios-asoschilari-ai-elektron-pochtani-buzdi-0b35fa",
+    "title": "Axios asoschilari: AI elektron pochtani buzdi",
+    "summary": "Axios asoschilari Jim VandeHei, Mike Allen va Roy Schwartzning fikricha, vaqtni tejashga mo'ljallangan AI texnologiyasi aksincha ta'sir ko'rsatdi. Ular AI elektron pochtani buzganini ta'kidlamoqda.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 19,
+    "published": "2026-09-20T10:00:00.000Z",
+    "created": "2026-09-20T12:32:27.933Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/09/20/axios-founders-vandehei-allen-schwartz-simplify-book-interview",
+      "title": "The Axios founders on how AI ruined your inbox, why the ’90s really were different and how to succeed through ‘Simplify’",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "862b3760ee94",
+    "slug": "rossiya-ai-orqali-soxta-front-yutuqlarini-yaratmoqda-862b37",
+    "title": "Rossiya AI orqali soxta front yutuqlarini yaratmoqda",
+    "summary": "Rossiya armiyasi boʻlinmalari sunʼiy intellekt vositalaridan foydalanib, frontdagi \"ilgarilashi\"ni koʻrsatuvchi soxta fotosurat va videoyozuvlar yaratmoqda. Bu harakatlar \"chizilgan gʻalabalar\" deb atalmoqda.",
+    "tags": [
+      "siyosat",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 48,
+    "published": "2026-09-20T12:19:03.000Z",
+    "created": "2026-09-20T12:32:47.963Z",
+    "coverage": 1,
+    "source": {
+      "name": "Kun.uz",
+      "url": "https://kun.uz/news/2026/09/20/chizilgan-galabalar-rossiya-harbiylari-suniy-intellekt-orqali-frontdagi-yutuqlarni-qanday-yasamoqda",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "86796e8911f7",
+    "slug": "ai-pufakchasining-qulashi-bevosita-tahdid-bolishi-mumkin-86796e",
+    "title": "AI pufakchasining qulashi bevosita tahdid bo'lishi mumkin",
+    "summary": "So'nggi paytlarda AI xavflari haqidagi ogohlantirishlar ko'paygan bo'lsa-da, moliyaviy tahlilchilar AI pufakchasining qulashidan xavotirda. Texnologiya firmalari tomonidan ma'lumot markazlarini qurish uchun chiqarilayotgan qarzlar bu xavotirni kuchaytirmoqda.",
+    "tags": [
+      "iqtisod",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 23,
+    "published": "2026-09-20T10:38:51.000Z",
+    "created": "2026-09-20T12:32:47.964Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/business/2026/sep/20/ai-slowdown-calls-collapse-of-bubble-datacentre-tech-firms",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "885e4db894a6",
+    "slug": "runway-ai-videoni-real-vaqtda-jonli-efirga-uzatmoqchi-885e4d",
+    "title": "Runway AI videoni real vaqtda jonli efirga uzatmoqchi",
+    "summary": "Runway kompaniyasi AI tomonidan yaratilgan videolarni real vaqtda jonli efirga uzatishni rejalashtirmoqda. Bu yondashuv GWM-1 dunyo modeliga asoslangan bo'lib, videoni kadrma-kadr yaratadi.",
+    "tags": [
+      "tadqiqot",
+      "robototexnika"
+    ],
+    "importance": 3,
+    "score": 18,
+    "published": "2026-09-20T11:56:59.000Z",
+    "created": "2026-09-20T12:32:47.964Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/runway-wants-to-turn-ai-video-generation-into-a-live-stream-you-control-in-real-time",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "eafb06e98131",
+    "slug": "energetika-tizimlariga-eng-katta-xavf-insonlar-eafb06",
+    "title": "Energetika tizimlariga eng katta xavf – insonlar",
+    "summary": "So'nggi xakerlik hujumlari AI xavfini oshirgan bo'lsa-da, energetika tizimlari uchun eng katta kiberxavfsizlik tahdidi hali ham insonlar bo'lib qolmoqda. Mutaxassislarning fikricha, bu xavf tobora ortib bormoqda.",
+    "tags": [
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-09-20T12:00:00.000Z",
+    "created": "2026-09-20T12:32:47.964Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Verge",
+      "url": "https://theverge.com/science/997834/ai-cyberattack-energy-critical-infrastructure",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "4d29d0bb819f",
+    "slug": "ai-agentlar-hayotingizni-boshqarishga-tayyor-4d29d0",
+    "title": "AI agentlar hayotingizni boshqarishga tayyor",
+    "summary": "Meta kabi texnologiya kompaniyalari foydalanuvchilar AI agentlarini qabul qilishiga umid qilmoqda. Biroq, bu agentlar har doim ham insonlarning manfaatlariga mos kelmasligi ma'lum bo'lgan.",
+    "tags": [
+      "agentlar",
+      "Meta"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-09-20T09:01:01.000Z",
+    "created": "2026-09-20T12:32:47.964Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/ai-agents-misbehavior-alignment-privacy-muse-instinct-2026-9",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "d642ed555376",
     "slug": "hilton-ai-stajirovkalar-raqobatini-oshirdi-d642ed",
     "title": "Hilton: AI stajirovkalar raqobatini oshirdi",
