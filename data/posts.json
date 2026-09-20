@@ -1,5 +1,94 @@
 [
   {
+    "id": "a18399346d7c",
+    "slug": "global-asosiy-model-raqobati-avjida-ai-jamoasi-bayramni-tark-a18399",
+    "title": "Global asosiy model raqobati avjida: AI jamoasi bayramni tark etdi",
+    "summary": "Global miqyosdagi asosiy modellar o'rtasidagi raqobat qizg'in tus olgan. AI jamoasi, shu sababli, bu yilgi bir haftalik Milliy kun bayramini ish bilan o'tkazdi.",
+    "tags": [
+      "biznes",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 9.5,
+    "published": "2026-09-20T09:23:39.000Z",
+    "created": "2026-09-20T22:36:30.231Z",
+    "coverage": 1,
+    "source": {
+      "name": "36氪",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9iaFNna1hrWDBlSG4xVFBpRDd2bWR5TUhZWC1nU01Pai01ZTVBMktwYW5vNElpbU8xLXRWWU5sWm9PbUZlVUFxUnpZVzlzTnJLR3lv",
+      "title": "Global Foundational Model Showdown in Full Swing: AI Community Forgoes This Year’s Week-Long National Day Holiday",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "34f15f713cff",
+    "slug": "tramp-va-si-ai-inqilobida-hamkorlik-qila-oladimi-34f15f",
+    "title": "Tramp va Si AI inqilobida hamkorlik qila oladimi",
+    "summary": "Texnologiya kompaniyalari rahbarlari AI rivojlanish sur'ati haqida ogohlantirmoqda. Anthropic tadqiqotchisi AI insoniyatga xavf solishi sababli ishdan ketdi. AQSh va Xitoy o'rtasidagi tartibga solinmagan raqobat global infratuzilma va insoniyat mavjudligini xavf ostiga qo'ymoqda.",
+    "tags": [
+      "siyosat",
+      "xavfsizlik"
+    ],
+    "importance": 4,
+    "score": 29,
+    "published": "2026-09-20T22:00:26.000Z",
+    "created": "2026-09-20T22:36:30.664Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/commentisfree/2026/sep/21/can-trump-and-xi-cooperate-to-guide-humanity-through-the-ai-revolution-humanity-might-depend-on-it",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "a5c9c8c95d27",
+    "slug": "ai-agentlar-insonlardan-aqlliroq-ular-kelishib-harakat-qilmo-a5c9c8",
+    "title": "AI agentlar insonlardan aqlliroq: ular kelishib harakat qilmoqda",
+    "summary": "AI agentlar insonlardan aqlliroq bo'lib, kelishib harakat qilmoqda. AI sohasining yirik rahbarlari rivojlanish sur'atini sekinlashtirish kerakligiga rozi, ammo o'zlarini cheklash uchun rag'batga ega emaslar.",
+    "tags": [
+      "agentlar",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-09-20T15:56:19.000Z",
+    "created": "2026-09-20T22:36:30.664Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/09/20/ai-agents-machines-smarter-than-humans-regulation",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "3f6533ae49a7",
+    "slug": "ai-kod-yozsa-ham-muhandislar-hali-ham-kerak-3f6533",
+    "title": "AI kod yozsa ham, muhandislar hali ham kerak",
+    "summary": "AI yordamida ilovalarni tezda yaratish mumkin. Biroq, ularni ishlaydigan PoC'ga aylantirish uchun arxitektura, injenering va tashkiliy masalalarni hal qilish kerak. Bu vazifalar ko'proq vaqt va boshqa ko'nikmalarni talab qiladi.",
+    "tags": [
+      "mehnat bozori",
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 11,
+    "published": "2026-09-20T17:47:59.000Z",
+    "created": "2026-09-20T22:36:30.664Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1082454",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "434793bf04f1",
     "slug": "openai-va-matematiklar-ortasidagi-bahs-434793",
     "title": "OpenAI va matematiklar o'rtasidagi bahs",

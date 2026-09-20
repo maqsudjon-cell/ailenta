@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/mehnat-bozori/</link>
   <description>&quot;mehnat bozori&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Sun, 20 Sep 2026 22:04:55 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 20 Sep 2026 22:39:14 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/mehnat-bozori/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>AI kod yozsa ham, muhandislar hali ham kerak</title>
+    <link>https://ailenta.uz/x/ai-kod-yozsa-ham-muhandislar-hali-ham-kerak-3f6533/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/ai-kod-yozsa-ham-muhandislar-hali-ham-kerak-3f6533/</guid>
+    <pubDate>Sun, 20 Sep 2026 17:47:59 GMT</pubDate>
+    <description>AI yordamida ilovalarni tezda yaratish mumkin. Biroq, ularni ishlaydigan PoC'ga aylantirish uchun arxitektura, injenering va tashkiliy masalalarni hal qilish kerak. Bu vazifalar ko'proq vaqt va boshqa ko'nikmalarni talab qiladi.</description>
+    <category>mehnat bozori</category><category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/ai-kod-yozsa-ham-muhandislar-hali-ham-kerak-3f6533.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/ai-kod-yozsa-ham-muhandislar-hali-ham-kerak-3f6533.jpg"/>
+  </item>
   <item>
     <title>Ma'lumotlar markazi xodimlariga ko'proq haq to'lanmoqda</title>
     <link>https://ailenta.uz/x/malumotlar-markazi-xodimlariga-koproq-haq-tolanmoqda-a01c1b/</link>
@@ -296,16 +306,6 @@
     <category>mehnat bozori</category>
     <media:content url="https://ailenta.uz/og/ai-sababli-boshatilgan-xodimlar-qayta-yollanishi-mumkin-1acd8c.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/ai-sababli-boshatilgan-xodimlar-qayta-yollanishi-mumkin-1acd8c.jpg"/>
-  </item>
-  <item>
-    <title>AI tadqiqotchisi Andrew Tulloch Meta’ni tark etmoqda</title>
-    <link>https://ailenta.uz/x/ai-tadqiqotchisi-andrew-tulloch-metani-tark-etmoqda-3521fd/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/ai-tadqiqotchisi-andrew-tulloch-metani-tark-etmoqda-3521fd/</guid>
-    <pubDate>Wed, 09 Sep 2026 21:29:25 GMT</pubDate>
-    <description>AI tadqiqotchisi Andrew Tulloch Meta kompaniyasidan ketmoqda. U kompaniya ochiq kodli AI modellari va “Muse” AI yordamchisini muvaffaqiyatli ishga tushirgunga qadar ketishini kechiktirgan edi.</description>
-    <category>Meta</category><category>mehnat bozori</category>
-    <media:content url="https://ailenta.uz/og/ai-tadqiqotchisi-andrew-tulloch-metani-tark-etmoqda-3521fd.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/ai-tadqiqotchisi-andrew-tulloch-metani-tark-etmoqda-3521fd.jpg"/>
   </item>
 </channel>
 </rss>
