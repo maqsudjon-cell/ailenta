@@ -5,7 +5,7 @@
   <link>https://ailenta.uz/mavzu/biznes/</link>
   <description>&quot;biznes&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Sun, 20 Sep 2026 19:39:33 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 20 Sep 2026 20:04:47 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/biznes/rss.xml" rel="self" type="application/rss+xml"/>
   <item>
     <title>Zoom rahbari AI tufayli 3 kunlik ish haftasini kutmoqda</title>
@@ -76,6 +76,16 @@
     <category>Anthropic</category><category>biznes</category>
     <media:content url="https://ailenta.uz/og/anthropic-ai-poygasini-sekinlatishni-istaydi-ammo-yangi-mode-1aca9d.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/anthropic-ai-poygasini-sekinlatishni-istaydi-ammo-yangi-mode-1aca9d.jpg"/>
+  </item>
+  <item>
+    <title>Datasette-auth-github 1.0 plaginining yangi versiyasi</title>
+    <link>https://ailenta.uz/x/datasette-auth-github-1-0-plaginining-yangi-versiyasi-67bfed/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/datasette-auth-github-1-0-plaginining-yangi-versiyasi-67bfed/</guid>
+    <pubDate>Sat, 19 Sep 2026 19:52:02 GMT</pubDate>
+    <description>Datasette-auth-github plaginining 1.0 versiyasi chiqarildi. Yangilanishda autentifikatsiya qilingan sessiyalarning tez tugashi bilan bog'liq xato tuzatildi.</description>
+    <category>bulut</category><category>biznes</category>
+    <media:content url="https://ailenta.uz/og/datasette-auth-github-1-0-plaginining-yangi-versiyasi-67bfed.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/datasette-auth-github-1-0-plaginining-yangi-versiyasi-67bfed.jpg"/>
   </item>
   <item>
     <title>AI agentlar dasturni rejalashtirishda yordam beradi</title>
@@ -296,16 +306,6 @@
     <category>biznes</category><category>mehnat bozori</category>
     <media:content url="https://ailenta.uz/og/korporativ-amerika-ai-rivojlanishida-sekinlashmoqda-6a571f.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/korporativ-amerika-ai-rivojlanishida-sekinlashmoqda-6a571f.jpg"/>
-  </item>
-  <item>
-    <title>KPMG AI bo'limlarida ish o'rinlarini qisqartirdi</title>
-    <link>https://ailenta.uz/x/kpmg-ai-bolimlarida-ish-orinlarini-qisqartirdi-ca95f3/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/kpmg-ai-bolimlarida-ish-orinlarini-qisqartirdi-ca95f3/</guid>
-    <pubDate>Fri, 18 Sep 2026 10:32:00 GMT</pubDate>
-    <description>KPMG konsalting firmasi o'zining AI, kiberxavfsizlik va SAP bo'limlarida ish o'rinlarini qisqartirdi. Ba'zi xodimlar to'langan kompensatsiyani haqoratli deb atashdi.</description>
-    <category>mehnat bozori</category><category>biznes</category>
-    <media:content url="https://ailenta.uz/og/kpmg-ai-bolimlarida-ish-orinlarini-qisqartirdi-ca95f3.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/kpmg-ai-bolimlarida-ish-orinlarini-qisqartirdi-ca95f3.jpg"/>
   </item>
 </channel>
 </rss>

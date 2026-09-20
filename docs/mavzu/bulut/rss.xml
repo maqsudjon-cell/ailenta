@@ -5,7 +5,7 @@
   <link>https://ailenta.uz/mavzu/bulut/</link>
   <description>&quot;bulut&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Sun, 20 Sep 2026 19:39:33 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 20 Sep 2026 20:04:47 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/bulut/rss.xml" rel="self" type="application/rss+xml"/>
   <item>
     <title>Ma'lumotlar markazi xodimlariga ko'proq haq to'lanmoqda</title>
@@ -36,6 +36,16 @@
     <category>chiplar</category><category>bulut</category>
     <media:content url="https://ailenta.uz/og/china-mobile-cloud-ai-xulosa-chiqarishda-quvvatni-40-kamayti-161c17.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/china-mobile-cloud-ai-xulosa-chiqarishda-quvvatni-40-kamayti-161c17.jpg"/>
+  </item>
+  <item>
+    <title>Datasette-auth-github 1.0 plaginining yangi versiyasi</title>
+    <link>https://ailenta.uz/x/datasette-auth-github-1-0-plaginining-yangi-versiyasi-67bfed/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/datasette-auth-github-1-0-plaginining-yangi-versiyasi-67bfed/</guid>
+    <pubDate>Sat, 19 Sep 2026 19:52:02 GMT</pubDate>
+    <description>Datasette-auth-github plaginining 1.0 versiyasi chiqarildi. Yangilanishda autentifikatsiya qilingan sessiyalarning tez tugashi bilan bog'liq xato tuzatildi.</description>
+    <category>bulut</category><category>biznes</category>
+    <media:content url="https://ailenta.uz/og/datasette-auth-github-1-0-plaginining-yangi-versiyasi-67bfed.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/datasette-auth-github-1-0-plaginining-yangi-versiyasi-67bfed.jpg"/>
   </item>
   <item>
     <title>AI bulut provayderi Nscale ommaviy bo'lishga ariza berdi</title>
@@ -296,16 +306,6 @@
     <category>bulut</category><category>siyosat</category>
     <media:content url="https://ailenta.uz/og/virjiniyadagi-malumotlar-markazi-xiyoboni-2a5fe0.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/virjiniyadagi-malumotlar-markazi-xiyoboni-2a5fe0.jpg"/>
-  </item>
-  <item>
-    <title>Osiyoda ma'lumotlar markazlari bumu norozilikka uchramoqda</title>
-    <link>https://ailenta.uz/x/osiyoda-malumotlar-markazlari-bumu-norozilikka-uchramoqda-1c4c8c/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/osiyoda-malumotlar-markazlari-bumu-norozilikka-uchramoqda-1c4c8c/</guid>
-    <pubDate>Wed, 02 Sep 2026 22:42:05 GMT</pubDate>
-    <description>Osiyo hukumatlarining sun'iy intellekt bumidan daromad olish istagi aholining ekologiya va sog'liq borasidagi xavotirlari bilan to'qnashmoqda. Bu haqda Semafor nashri xabar berdi.</description>
-    <category>siyosat</category><category>bulut</category>
-    <media:content url="https://ailenta.uz/og/osiyoda-malumotlar-markazlari-bumu-norozilikka-uchramoqda-1c4c8c.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/osiyoda-malumotlar-markazlari-bumu-norozilikka-uchramoqda-1c4c8c.jpg"/>
   </item>
 </channel>
 </rss>

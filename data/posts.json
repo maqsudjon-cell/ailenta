@@ -1,5 +1,28 @@
 [
   {
+    "id": "67bfed950ab7",
+    "slug": "datasette-auth-github-1-0-plaginining-yangi-versiyasi-67bfed",
+    "title": "Datasette-auth-github 1.0 plaginining yangi versiyasi",
+    "summary": "Datasette-auth-github plaginining 1.0 versiyasi chiqarildi. Yangilanishda autentifikatsiya qilingan sessiyalarning tez tugashi bilan bog'liq xato tuzatildi.",
+    "tags": [
+      "bulut",
+      "biznes"
+    ],
+    "importance": 1,
+    "score": 10.1,
+    "published": "2026-09-19T19:52:02.000Z",
+    "created": "2026-09-20T20:01:21.778Z",
+    "coverage": 1,
+    "source": {
+      "name": "Simon Willison",
+      "url": "https://simonwillison.net/2026/Sep/19/datasette-auth-github",
+      "title": "datasette-auth-github 1.0",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "112fe87377c9",
     "slug": "jensen-huang-ai-xavflari-haqidagi-xavotirlarni-rad-etdi-112fe8",
     "title": "Jensen Huang AI xavflari haqidagi xavotirlarni rad etdi",
