@@ -1,5 +1,49 @@
 [
   {
+    "id": "d642ed555376",
+    "slug": "hilton-ai-stajirovkalar-raqobatini-oshirdi-d642ed",
+    "title": "Hilton: AI stajirovkalar raqobatini oshirdi",
+    "summary": "Hilton kompaniyasi 72 ta stajirovka o'rni uchun 12 000 ta ariza qabul qildi. Kompaniyaning CHROsi sun'iy intellekt mehmonxona sohasidagi ish o'rinlari raqobatini oshirganini ta'kidladi.",
+    "tags": [
+      "biznes",
+      "mehnat bozori"
+    ],
+    "importance": 2,
+    "score": 19,
+    "published": "2026-09-20T11:00:00.000Z",
+    "created": "2026-09-20T11:52:18.200Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/09/20/hilton-applications-gen-zers-internships-early-career-program-chro-ai-hospitality-jobs",
+      "title": "Hilton received 12,000 Gen Z applications for just 72 internship spots—its CHRO says AI has made the hospitality gigs more competitive",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "e811909f72b9",
+    "slug": "aqshda-aidan-kundalik-foydalanish-ikki-baravar-oshdi-e81190",
+    "title": "AQShda AI'dan kundalik foydalanish ikki baravar oshdi",
+    "summary": "Epoch AI va Ipsos so'rovlariga ko'ra, AQShda AI'dan deyarli har kuni foydalanadigan kattalar ulushi ikki baravar oshdi. 2026-yil martidan avgustigacha bu ko'rsatkich 8 foizdan 19 foizga ko'tarildi.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-09-20T10:03:29.000Z",
+    "created": "2026-09-20T11:52:20.855Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/daily-ai-usage-in-the-u-s-has-more-than-doubled-in-just-six-months",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "3044f16a445d",
     "slug": "trampning-oilasi-va-ittifoqchilari-ai-shartnomalaridan-boyim-3044f1",
     "title": "Trampning oilasi va ittifoqchilari AI shartnomalaridan boyimoqda",
