@@ -1,5 +1,48 @@
 [
   {
+    "id": "85eb2ef08dd2",
+    "slug": "qwen3-8-omni-flash-gemini-flash-narxidan-arzon-85eb2e",
+    "title": "Qwen3.8-Omni-Flash Gemini Flash narxidan arzon",
+    "summary": "Qwen kompaniyasi AI agentlari uchun mo'ljallangan Qwen3.8-Omni-Flash multimodal modelini taqdim etdi. U audio va videoni birga qayta ishlaydi hamda Gemini 3.8 Flash modelining sinov to'plami natijalariga yaqin ko'rsatkichlarni arzonroq narxda taklif qiladi.",
+    "tags": [
+      "Google",
+      "agentlar"
+    ],
+    "importance": 3,
+    "score": 20.6,
+    "published": "2026-09-19T14:30:57.000Z",
+    "created": "2026-09-20T03:32:14.739Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/qwen3-8-omni-flash-undercuts-gemini-flash-pricing-while-matching-its-multimodal-benchmarks",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "6d5c3fc9c1a5",
+    "slug": "harmonyos-7-xiaoyi-2-100-imkoniyatli-tizim-agenti-6d5c3f",
+    "title": "HarmonyOS 7: Xiaoyi 2,100+ imkoniyatli tizim agenti",
+    "summary": "HarmonyOS 7 operatsion tizimida Xiaoyi 2,100 dan ortiq tizim imkoniyatlari, 2,000 dan ortiq agentlar va 500 dan ortiq hamkor ko'nikmalariga ega tizim darajasidagi AI agenti sifatida taqdim etildi. U bir nechta ilovalar bo'ylab vazifalar zanjirini bajarishga qodir.",
+    "tags": [
+      "agentlar"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-09-20T02:55:48.000Z",
+    "created": "2026-09-20T03:32:14.739Z",
+    "coverage": 1,
+    "source": {
+      "name": "Pandaily",
+      "url": "https://pandaily.com/harmonyos-7-xiaoyi-system-agent-skills",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "1aca9da93350",
     "slug": "anthropic-ai-poygasini-sekinlatishni-istaydi-ammo-yangi-mode-1aca9d",
     "title": "Anthropic AI poygasini sekinlatishni istaydi, ammo yangi model rejalashtirmoqda",
