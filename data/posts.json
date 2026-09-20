@@ -1,5 +1,49 @@
 [
   {
+    "id": "ac4d4e95cd22",
+    "slug": "xitoyda-iqtisodiy-inqiroz-fonida-ai-rivojlanmoqda-ac4d4e",
+    "title": "Xitoyda iqtisodiy inqiroz fonida AI rivojlanmoqda",
+    "summary": "Si Szinpinning AQShga tashrifi arafasida Xitoyning sun'iy intellekt sohasidagi yutuqlari muhokama qilinmoqda. Shu bilan birga, mamlakat iqtisodiyoti so'nggi o'n yilliklardagi eng yomon holatni boshdan kechirmoqda.",
+    "tags": [
+      "siyosat",
+      "iqtisod"
+    ],
+    "importance": 3,
+    "score": 30,
+    "published": "2026-09-20T09:01:40.000Z",
+    "created": "2026-09-20T17:21:01.885Z",
+    "coverage": 1,
+    "source": {
+      "name": "The New York Times",
+      "url": "https://nytimes.com/2026/09/20/business/china-ai-economy.html",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "a01c1bec9323",
+    "slug": "malumotlar-markazi-xodimlariga-koproq-haq-tolanmoqda-a01c1b",
+    "title": "Ma'lumotlar markazi xodimlariga ko'proq haq to'lanmoqda",
+    "summary": "AQShda ma'lumotlar markazlaridagi texnik xizmat ko'rsatish xodimlariga boshqa sohalardagi o'xshash kasblarga qaraganda taxminan 42 foiz ko'proq ish haqi to'lanmoqda. Bu AI infratuzilmasini kengaytirish bilan bog'liq.",
+    "tags": [
+      "mehnat bozori",
+      "bulut"
+    ],
+    "importance": 2,
+    "score": 18,
+    "published": "2026-09-20T17:15:01.000Z",
+    "created": "2026-09-20T17:21:01.885Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/260920/p10",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "07a0eec83e03",
     "slug": "tramp-texnologiyani-kuzatish-uchun-maxsus-kuch-tuzadi-07a0ee",
     "title": "Tramp texnologiyani kuzatish uchun maxsus kuch tuzadi",
