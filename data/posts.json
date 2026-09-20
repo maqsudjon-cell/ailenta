@@ -1,5 +1,96 @@
 [
   {
+    "id": "a3bd9bf86446",
+    "slug": "zoom-rahbari-ai-tufayli-3-kunlik-ish-haftasini-kutmoqda-a3bd9b",
+    "title": "Zoom rahbari AI tufayli 3 kunlik ish haftasini kutmoqda",
+    "summary": "Zoom bosh direktori Erik Yuan sun'iy intellekt tufayli tez orada 3 kunlik ish haftasi joriy etilishini ma'lum qildi. Uning fikricha, texnologiya ba'zi ish o'rinlarini qisqartirsa-da, qolgan xodimlar kamroq kun ishlash imkoniyatiga ega bo'ladi.",
+    "tags": [
+      "mehnat bozori",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-09-20T13:24:12.000Z",
+    "created": "2026-09-20T15:37:26.383Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/article/zoom-ceo-eric-yuan-agrees-with-bill-gates-jensen-huang-jamie-dimon-3-day-workweek-coming-soon",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "f341d5e2ffe3",
+    "slug": "tencent-fonda-ishlaydigan-gander-ai-agentini-taqdim-etdi-f341d5",
+    "title": "Tencent fonda ishlaydigan Gander AI agentini taqdim etdi",
+    "summary": "Tencent kompaniyasi real vaqtda muloqot qila oladigan Gander AI agentini yaratdi. Tizim fonda murakkab vazifalarni bajarayotganda ham foydalanuvchi bilan suhbatni davom ettira oladi. Sinovlarda u foydalanuvchini faqat 8 foiz holatda bo'lib qo'ygan.",
+    "tags": [
+      "agentlar"
+    ],
+    "importance": 3,
+    "score": 18,
+    "published": "2026-09-20T15:33:30.000Z",
+    "created": "2026-09-20T15:37:26.383Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/tencents-gander-aims-to-keep-talking-while-it-works-in-the-background",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "e37660f5b329",
+    "slug": "nvidia-chiplar-savdosi-boyicha-prognozini-ikki-baravar-oshir-e37660",
+    "title": "Nvidia chiplar savdosi bo'yicha prognozini ikki baravar oshirdi",
+    "summary": "Nvidia rahbari Jensen Huang Shotlandiyadagi sammitda kompaniyaning chiplar savdosi bo'yicha prognozini ikki baravar oshirganini ma'lum qildi. Kompaniya 2027-yilgacha chiplar sotuvini ikki barobarga ko'paytirishni rejalashtirmoqda.",
+    "tags": [
+      "Nvidia",
+      "chiplar"
+    ],
+    "importance": 4,
+    "score": 16,
+    "published": "2026-09-20T08:48:42.000Z",
+    "created": "2026-09-20T15:37:26.383Z",
+    "coverage": 2,
+    "source": {
+      "name": "The Eastern Herald",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUFVJY1BLWWJjU042TDdMdjd4NFh1NFRBSk01VThOcUw0endweEgxcnlrb1llYWlXOHpkeXpXa294M0VmWExpSmFHRDZ5ZUNQTWE2b3p3SVUzNFc1MGx4d3dVYXNtNTNZQ1lLTXZvVGRNR3RoNE1jdVhJUXlseHRVc1YwU1BWXzdtcGoycll4cm1lWWJQdjc0aGxB",
+      "indirect": true
+    },
+    "also": [
+      {
+        "name": "GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOTlUem1nanJrNFUzb2R4SXFMbUhGUkxLek94RDhWWnVLTzVYZVZxZXlId2o5WEpPUXVMLVloY2E3eTN2Q2hBLWl6T0swdURCWlcxZVQzSGxHcTZPSU1rTHZJUVM2YjRVNklsaFpsYjN4ZlcwWWFydENFRUNzMFFmUDBUdmxGNXp1cWxlM0pGZVNoRnJtbEVtQjQzdlM4dWItaW5QVFc2ekdDRlk"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "f8c099b9067f",
+    "slug": "apple-aqlli-uy-uchun-siri-tizimini-tayyorlamoqda-f8c099",
+    "title": "Apple aqlli uy uchun Siri tizimini tayyorlamoqda",
+    "summary": "Apple kompaniyasi Siri sun'iy intellekti bilan ishlaydigan aqlli uy markazini ishlab chiqmoqda. Bloomberg xabariga ko'ra, ushbu qurilma kompaniyaning uy ekotizimi strategiyasida muhim o'rin tutadi. Shuningdek, Apple Fitness+ bo'limi xodimlarini qisqartirishni boshlagan.",
+    "tags": [
+      "Apple"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-09-20T15:00:01.000Z",
+    "created": "2026-09-20T15:37:26.383Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/260920/p8",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "0b35faef522d",
     "slug": "axios-asoschilari-ai-vaqtni-tejash-orniga-uni-sarflamoqda-0b35fa",
     "title": "Axios asoschilari: AI vaqtni tejash o'rniga uni sarflamoqda",
