@@ -1,5 +1,54 @@
 [
   {
+    "id": "434793bf04f1",
+    "slug": "openai-va-matematiklar-ortasidagi-bahs-434793",
+    "title": "OpenAI va matematiklar o'rtasidagi bahs",
+    "summary": "OpenAI o'zining AI agentlari matematikaning eng qiyin muammolaridan biri bo'lgan Navye-Stoks masalasini yechganini da'vo qildi. Biroq, bu soha mutaxassislari orasida xavotir uyg'otdi va kompaniya insonlar mehnatidan noqonuniy foydalanganlikda ayblandi.",
+    "tags": [
+      "OpenAI",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 29,
+    "published": "2026-09-20T16:58:03.000Z",
+    "created": "2026-09-20T22:01:30.109Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/commentisfree/2026/sep/20/the-guardian-view-on-ai-v-mathematicians-humans-are-still-vital-to-the-field-but-tech-firms-refuse-to-see-that",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "724076b6b87e",
+    "slug": "euclyd-startapi-samsung-komagida-231-mln-dollar-jalb-qildi-724076",
+    "title": "Euclyd startapi Samsung ko'magida 231 mln dollar jalb qildi",
+    "summary": "Niderlandiyaning sun'iy intellekt chiplari ishlab chiqaruvchi Euclyd startapi Samsung ko'magida sarmoya jalb qildi. Investitsiya miqdori 231 million dollarni tashkil etdi.",
+    "tags": [
+      "chiplar",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 10.6,
+    "published": "2026-09-20T04:00:00.000Z",
+    "created": "2026-09-20T22:01:30.109Z",
+    "coverage": 2,
+    "source": {
+      "name": "rswebsols.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbmsxN01WeDBPNDlabHlTSzd0YVZ3YTljRXFDamNiLVpmS0JpZllWUkdjd29YbnZJR2xOUWJnVTNObjUyRTBsVjJrTFh5el9UQ2JVV0ZYNHNrU091c2lmdmxTNnp3OERPZjVlUVNDaFBEcktWV2VJbTFZSkdYbWYzT09IQ3RXLTU2ZW5oWnZ3TTFUOGg3V0FUSXIxV1E2LUdrdk1vQjlLd1JFQ2Q4b0ktMzhsMGxVV1hf",
+      "indirect": true
+    },
+    "also": [
+      {
+        "name": "Tech Edition",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTHBzRzV1UV9aLTlsSjFFZ0ZqZzRZMXNUTlVYWU92cGo1TFVIb0x4VlhIMUFzbG5WOTlBMkhRbFRtSjhoSXlDUVBzS1I0VzdvNnV3RmJoZXZ2ZXEwSnc5ZUdVOWU3eHYtb0VFME1kMVNkUzFEWTU3MVpncVFPYXhReExsX2xQRlA0T0R4SnJGck43U0FjWFE3bGZ3"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
     "id": "a5e8240ae6d9",
     "slug": "devid-seks-trampni-ai-cheklovlariga-qarshi-chiqishga-kondird-a5e824",
     "title": "Devid Seks Trampni AI cheklovlariga qarshi chiqishga ko'ndirdi",
