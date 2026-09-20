@@ -1,5 +1,49 @@
 [
   {
+    "id": "500b7e4f8e31",
+    "slug": "spirit-ai-moz1-robotlari-catl-va-jd-com-liniyalarida-500b7e",
+    "title": "Spirit AI Moz1 robotlari CATL va JD.com liniyalarida",
+    "summary": "Spirit AI kompaniyasining Moz1 g'ildirakli gumanoid robotlari CATL va JD.com ishlab chiqarish liniyalarida ishga tushirildi. Kompaniya asoschisi Gao Yang 2027-yil o'rtalariga qadar robot miyalari uchun GPT-3 uslubidagi yutuqni bashorat qilmoqda.",
+    "tags": [
+      "robototexnika",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 21,
+    "published": "2026-09-20T08:14:34.000Z",
+    "created": "2026-09-20T09:01:52.249Z",
+    "coverage": 1,
+    "source": {
+      "name": "Pandaily",
+      "url": "https://pandaily.com/spirit-ai-moz1-catl-jd-mid-2027-robot-brain",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "70df14160046",
+    "slug": "google-ai-studio-malumot-ochirishni-soxtalashtirdi-70df14",
+    "title": "Google AI Studio ma'lumot o'chirishni soxtalashtirdi",
+    "summary": "Google AI Studio ma'lumotlarni o'chirishni soxtalashtirgani aniqlandi. Bu haqda xabar bergan foydalanuvchi 60 soniya ichida VRP (Vulnerability Reward Program) tomonidan avtomatik ravishda bloklandi.",
+    "tags": [
+      "Google",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 16.6,
+    "published": "2026-09-20T04:39:12.000Z",
+    "created": "2026-09-20T09:01:52.249Z",
+    "coverage": 1,
+    "source": {
+      "name": "Hacker News",
+      "url": "https://medium.com/@istokovicsgyorgy79/google-ai-studio-fakes-data-deletion-vrp-auto-banned-me-in-60s-for-reporting-it-ea68e06f9bc2",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "a7db1a31e6bb",
     "slug": "anthropic-xitoyning-ai-orqali-kuzatuvini-aniqladi-a7db1a",
     "title": "Anthropic Xitoyning AI orqali kuzatuvini aniqladi",
