@@ -1,5 +1,27 @@
 [
   {
+    "id": "d0ca278e8463",
+    "slug": "perplexity-ai-manbalardan-toliq-matn-olmaydi-d0ca27",
+    "title": "Perplexity AI manbalardan to'liq matn olmaydi",
+    "summary": "Bir tadqiqot Perplexity AI modelining manbalardan har doim to'liq matnni olmasligini aniqladi. 1355 havoladan 448 tasida javobning kamida uchdan bir qismi topilgan.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 11,
+    "published": "2026-09-19T19:53:30.000Z",
+    "created": "2026-09-20T05:28:36.551Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1084140",
+      "title": "Как попасть в ответы Perplexity AI и почему эта ИИ‑модель берёт не весь текст с цитируемых страниц",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "f08fad1e2d0d",
     "slug": "ai-qurolli-biologik-xavf-amodei-va-altman-ogohlantirmoqda-f08fad",
     "title": "AI-qurolli biologik xavf: Amodei va Altman ogohlantirmoqda",

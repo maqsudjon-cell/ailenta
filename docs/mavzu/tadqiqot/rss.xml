@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/tadqiqot/</link>
   <description>&quot;tadqiqot&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Sun, 20 Sep 2026 05:04:38 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 20 Sep 2026 05:31:25 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/tadqiqot/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Perplexity AI manbalardan to'liq matn olmaydi</title>
+    <link>https://ailenta.uz/x/perplexity-ai-manbalardan-toliq-matn-olmaydi-d0ca27/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/perplexity-ai-manbalardan-toliq-matn-olmaydi-d0ca27/</guid>
+    <pubDate>Sat, 19 Sep 2026 19:53:30 GMT</pubDate>
+    <description>Bir tadqiqot Perplexity AI modelining manbalardan har doim to'liq matnni olmasligini aniqladi. 1355 havoladan 448 tasida javobning kamida uchdan bir qismi topilgan.</description>
+    <category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/perplexity-ai-manbalardan-toliq-matn-olmaydi-d0ca27.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/perplexity-ai-manbalardan-toliq-matn-olmaydi-d0ca27.jpg"/>
+  </item>
   <item>
     <title>AI internetdagi ma'lumot sifatini pasaytirmoqda</title>
     <link>https://ailenta.uz/x/ai-internetdagi-malumot-sifatini-pasaytirmoqda-34bb70/</link>
@@ -296,16 +306,6 @@
     <category>Nvidia</category><category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/manchester-universiteti-nvidia-earth-2-bilan-havo-ifloslanis-fa1c7b.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/manchester-universiteti-nvidia-earth-2-bilan-havo-ifloslanis-fa1c7b.jpg"/>
-  </item>
-  <item>
-    <title>Apple diffuzion modellarda RL uchun DACA-GRPO'ni taklif qildi</title>
-    <link>https://ailenta.uz/x/apple-diffuzion-modellarda-rl-uchun-daca-grponi-taklif-qildi-81c572/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/apple-diffuzion-modellarda-rl-uchun-daca-grponi-taklif-qildi-81c572/</guid>
-    <pubDate>Wed, 16 Sep 2026 00:00:00 GMT</pubDate>
-    <description>Apple tadqiqotchilari diffuzion til modellarida kuchaytirilgan o‘rganish (RL) uchun DACA-GRPO nomli yangi usulni taklif qildi. Bu usul mavjud RL metodlarining zaif tomonlarini, jumladan, vaqtinchalik kredit taqsimoti va noto‘g‘ri ehtimollik baholarini bartaraf etadi.</description>
-    <category>Apple</category><category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/apple-diffuzion-modellarda-rl-uchun-daca-grponi-taklif-qildi-81c572.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/apple-diffuzion-modellarda-rl-uchun-daca-grponi-taklif-qildi-81c572.jpg"/>
   </item>
 </channel>
 </rss>
