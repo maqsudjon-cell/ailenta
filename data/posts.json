@@ -1,5 +1,47 @@
 [
   {
+    "id": "57692f27eb59",
+    "slug": "xitoy-aqshning-ai-boyicha-ogohlantirishlarini-rad-etdi-57692f",
+    "title": "Xitoy AQShning AI bo'yicha ogohlantirishlarini rad etdi",
+    "summary": "Pekin AQShning sun'iy intellekt rivojlanishini sekinlashtirish haqidagi chaqiriqlarini o'z ustunligini saqlab qolishga urinish deb hisoblamoqda. Xitoy xavfsizlik va rivojlanish sur'ati o'rtasida boshqacha muvozanatni maqsad qilgan.",
+    "tags": [
+      "siyosat"
+    ],
+    "importance": 3,
+    "score": 22.1,
+    "published": "2026-09-20T06:00:09.000Z",
+    "created": "2026-09-20T20:21:15.238Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/world/2026/sep/20/why-china-is-pushing-back-on-us-warnings-over-rapid-ai-development",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "c654b40d78a8",
+    "slug": "tramp-maslahatchisi-ai-kompaniyalariga-toxtashni-aytdi-c654b4",
+    "title": "Tramp maslahatchisi AI kompaniyalariga to'xtashni aytdi",
+    "summary": "Donald Trampning texnologiya bo'yicha maslahatchisi xavfsiz bo'lmagan modellar yaratishdan xavotirda bo'lgan AI kompaniyalariga shunchaki ishlarni to'xtatishni maslahat berdi. Uning so'zlariga ko'ra, kompaniyalar istalgan vaqtda rivojlanishni sekinlashtirishi mumkin.",
+    "tags": [
+      "siyosat"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-09-20T17:47:57.000Z",
+    "created": "2026-09-20T20:21:15.238Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/trump-tech-advisor-ai-slow-down-anthropic-openai-2026-9",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "67bfed950ab7",
     "slug": "datasette-auth-github-1-0-plaginining-yangi-versiyasi-67bfed",
     "title": "Datasette-auth-github 1.0 plaginining yangi versiyasi",
