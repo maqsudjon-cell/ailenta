@@ -1,5 +1,49 @@
 [
   {
+    "id": "2101896e26ea",
+    "slug": "vashingtonda-ai-va-malumotlar-markazlari-muhokama-qilindi-210189",
+    "title": "Vashingtonda AI va ma'lumotlar markazlari muhokama qilindi",
+    "summary": "Vashingtonda o'tgan Kongress qora tanlilar kokusining yillik yig'ilishida sun'iy intellekt va ma'lumotlar markazlari masalalari asosiy mavzuga aylandi. Tadbirda AI tarafdorlari va unga qarshi bo'lganlar ishtirok etdi.",
+    "tags": [
+      "siyosat",
+      "iqtisod"
+    ],
+    "importance": 2,
+    "score": 22,
+    "published": "2026-09-20T18:05:02.000Z",
+    "created": "2026-09-20T18:36:14.219Z",
+    "coverage": 1,
+    "source": {
+      "name": "CNBC",
+      "url": "https://cnbc.com/2026/09/20/ai-data-center-alarms-dominate-cbc-week-in-washington.html",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "a41a8a3c1b83",
+    "slug": "google-xavfsizlik-sinovida-xatoga-yol-qoydi-a41a8a",
+    "title": "Google xavfsizlik sinovida xatoga yo'l qo'ydi",
+    "summary": "Google kompaniyasi xavfsizlikni sinovdan o'tkazishda muammoga duch kelgan navbatdagi AI laboratoriyasiga aylandi. Ushbu xato haqida batafsil ma'lumot berilmagan.",
+    "tags": [
+      "Google",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 10.8,
+    "published": "2026-09-19T00:05:39.000Z",
+    "created": "2026-09-20T18:36:14.219Z",
+    "coverage": 1,
+    "source": {
+      "name": "Axios",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1uQTYtMzFHOXh2N05IRTFBZks5VERQX05BLUs1T1c4eXhLNlBaWFc1NWttWnBzN3RMdkVCbzNWT2owNmNEN21vbDJNWDR1c3dsU3VKSEQyN0d2SkdnU25ILUxXcFcxQTBGZTBkVENocU5sMUstNkhkamJR",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "ac4d4e95cd22",
     "slug": "xitoyda-iqtisodiy-inqiroz-fonida-ai-rivojlanmoqda-ac4d4e",
     "title": "Xitoyda iqtisodiy inqiroz fonida AI rivojlanmoqda",
