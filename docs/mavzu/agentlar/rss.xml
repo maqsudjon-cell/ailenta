@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/agentlar/</link>
   <description>&quot;agentlar&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Sun, 20 Sep 2026 15:40:49 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 20 Sep 2026 16:05:21 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/agentlar/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Vercel va Cloudflare Jev vositasini joriy qildi</title>
+    <link>https://ailenta.uz/x/vercel-va-cloudflare-jev-vositasini-joriy-qildi-4be5b8/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/vercel-va-cloudflare-jev-vositasini-joriy-qildi-4be5b8/</guid>
+    <pubDate>Sun, 20 Sep 2026 15:50:02 GMT</pubDate>
+    <description>Vercel va Cloudflare kabi kompaniyalar AI vositalarini tanlashni tezlashtiradigan va arzonlashtiradigan Jev texnologiyasini qo'shdi. TypeSafe ma'lumotlariga ko'ra, Jev ish jarayonini baholashda GPT-5.6 va Sonnet 5 modellariga mos keladi.</description>
+    <category>agentlar</category><category>bulut</category>
+    <media:content url="https://ailenta.uz/og/vercel-va-cloudflare-jev-vositasini-joriy-qildi-4be5b8.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/vercel-va-cloudflare-jev-vositasini-joriy-qildi-4be5b8.jpg"/>
+  </item>
   <item>
     <title>Tencent fonda ishlaydigan Gander AI agentini taqdim etdi</title>
     <link>https://ailenta.uz/x/tencent-fonda-ishlaydigan-gander-ai-agentini-taqdim-etdi-f341d5/</link>
@@ -296,16 +306,6 @@
     <category>agentlar</category><category>biznes</category>
     <media:content url="https://ailenta.uz/og/pion-har-qanday-kompaniyani-avtonom-boshqaruvchi-agent-310d4f.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/pion-har-qanday-kompaniyani-avtonom-boshqaruvchi-agent-310d4f.jpg"/>
-  </item>
-  <item>
-    <title>AI agentlari firibgar hamkasblarini fosh etdi</title>
-    <link>https://ailenta.uz/x/ai-agentlari-firibgar-hamkasblarini-fosh-etdi-44cc3c/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/ai-agentlari-firibgar-hamkasblarini-fosh-etdi-44cc3c/</guid>
-    <pubDate>Mon, 14 Sep 2026 16:00:00 GMT</pubDate>
-    <description>Google DeepMind o'tkazgan tajribada, bir guruh AI agentlari matematik muammolarni hal qilishda firibgarlik qilgan hamkasblarini fosh etdi. Bu xatti-harakat avtonom AI agentlarini nazorat qilish bo'yicha tadqiqotlar uchun muhim ahamiyatga ega.</description>
-    <category>tadqiqot</category><category>agentlar</category>
-    <media:content url="https://ailenta.uz/og/ai-agentlari-firibgar-hamkasblarini-fosh-etdi-44cc3c.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/ai-agentlari-firibgar-hamkasblarini-fosh-etdi-44cc3c.jpg"/>
   </item>
 </channel>
 </rss>

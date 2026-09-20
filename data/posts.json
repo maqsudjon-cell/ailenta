@@ -1,5 +1,50 @@
 [
   {
+    "id": "4be5b888b642",
+    "slug": "vercel-va-cloudflare-jev-vositasini-joriy-qildi-4be5b8",
+    "title": "Vercel va Cloudflare Jev vositasini joriy qildi",
+    "summary": "Vercel va Cloudflare kabi kompaniyalar AI vositalarini tanlashni tezlashtiradigan va arzonlashtiradigan Jev texnologiyasini qo'shdi. TypeSafe ma'lumotlariga ko'ra, Jev ish jarayonini baholashda GPT-5.6 va Sonnet 5 modellariga mos keladi.",
+    "tags": [
+      "agentlar",
+      "bulut"
+    ],
+    "importance": 3,
+    "score": 24,
+    "published": "2026-09-20T15:50:02.000Z",
+    "created": "2026-09-20T16:01:25.258Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/260920/p9",
+      "title": "Vercel, Cloudflare, and others quickly add Jev, as it makes AI tool selection much faster and cheaper; TypeSafe: Jev matches GPT-5.6 and Sonnet 5 workflow evals (Josipa Majic Predin/Forbes)",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "c3679ae64936",
+    "slug": "amazon-malumotlar-markazlaridagi-malumotlar-yoqoldi-c3679a",
+    "title": "Amazon ma'lumotlar markazlaridagi ma'lumotlar yo'qoldi",
+    "summary": "Amazon Web Services BAA va Bahrayndagi ma'lumotlar markazlariga qilingan dron hujumlaridan keyin mijozlar ma'lumotlari butunlay yo'qolganini tasdiqladi. Ushbu hodisa BAAda sun'iy intellektni rivojlantirish loyihasiga zarar yetkazdi va OpenAI bilan ijara shartnomasi to'xtatilishiga olib keldi.",
+    "tags": [
+      "Amazon",
+      "xavfsizlik"
+    ],
+    "importance": 4,
+    "score": 11,
+    "published": "2026-09-20T10:53:26.000Z",
+    "created": "2026-09-20T16:01:58.303Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1084306",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "a3bd9bf86446",
     "slug": "zoom-rahbari-ai-tufayli-3-kunlik-ish-haftasini-kutmoqda-a3bd9b",
     "title": "Zoom rahbari AI tufayli 3 kunlik ish haftasini kutmoqda",

@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/bulut/</link>
   <description>&quot;bulut&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Sun, 20 Sep 2026 15:40:49 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 20 Sep 2026 16:05:21 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/bulut/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Vercel va Cloudflare Jev vositasini joriy qildi</title>
+    <link>https://ailenta.uz/x/vercel-va-cloudflare-jev-vositasini-joriy-qildi-4be5b8/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/vercel-va-cloudflare-jev-vositasini-joriy-qildi-4be5b8/</guid>
+    <pubDate>Sun, 20 Sep 2026 15:50:02 GMT</pubDate>
+    <description>Vercel va Cloudflare kabi kompaniyalar AI vositalarini tanlashni tezlashtiradigan va arzonlashtiradigan Jev texnologiyasini qo'shdi. TypeSafe ma'lumotlariga ko'ra, Jev ish jarayonini baholashda GPT-5.6 va Sonnet 5 modellariga mos keladi.</description>
+    <category>agentlar</category><category>bulut</category>
+    <media:content url="https://ailenta.uz/og/vercel-va-cloudflare-jev-vositasini-joriy-qildi-4be5b8.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/vercel-va-cloudflare-jev-vositasini-joriy-qildi-4be5b8.jpg"/>
+  </item>
   <item>
     <title>China Mobile Cloud AI xulosa chiqarishda quvvatni 40% kamaytirdi</title>
     <link>https://ailenta.uz/x/china-mobile-cloud-ai-xulosa-chiqarishda-quvvatni-40-kamayti-161c17/</link>
@@ -296,16 +306,6 @@
     <category>biznes</category><category>bulut</category>
     <media:content url="https://ailenta.uz/og/hpe-uchinchi-chorak-daromadi-34-osganini-malum-qildi-03f62d.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/hpe-uchinchi-chorak-daromadi-34-osganini-malum-qildi-03f62d.jpg"/>
-  </item>
-  <item>
-    <title>AQSh ma'lumot markazlariga soliq imtiyozi bermoqda</title>
-    <link>https://ailenta.uz/x/aqsh-malumot-markazlariga-soliq-imtiyozi-bermoqda-7bcb58/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/aqsh-malumot-markazlariga-soliq-imtiyozi-bermoqda-7bcb58/</guid>
-    <pubDate>Wed, 02 Sep 2026 19:21:47 GMT</pubDate>
-    <description>AQShning 50 ta shtatidan 36 tasida ma'lumotlar markazlarini rivojlantirish uchun soliq imtiyozlari amal qilmoqda. Bu yirik texnologik loyihalarga uskunalar xarajatlarini tejashga yordam beradi, biroq ayrim shtatlar daromad yo'qotmoqda.</description>
-    <category>iqtisod</category><category>bulut</category>
-    <media:content url="https://ailenta.uz/og/aqsh-malumot-markazlariga-soliq-imtiyozi-bermoqda-7bcb58.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/aqsh-malumot-markazlariga-soliq-imtiyozi-bermoqda-7bcb58.jpg"/>
   </item>
 </channel>
 </rss>
