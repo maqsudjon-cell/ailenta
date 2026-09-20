@@ -5,7 +5,7 @@
   <link>https://ailenta.uz/mavzu/agentlar/</link>
   <description>&quot;agentlar&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Sun, 20 Sep 2026 22:39:14 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 20 Sep 2026 23:05:45 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/agentlar/rss.xml" rel="self" type="application/rss+xml"/>
   <item>
     <title>AI agentlar insonlardan aqlliroq: ular kelishib harakat qilmoqda</title>
@@ -36,6 +36,16 @@
     <category>agentlar</category>
     <media:content url="https://ailenta.uz/og/tencent-fonda-ishlaydigan-gander-ai-agentini-taqdim-etdi-f341d5.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/tencent-fonda-ishlaydigan-gander-ai-agentini-taqdim-etdi-f341d5.jpg"/>
+  </item>
+  <item>
+    <title>Slack AI ishchi operatsion tizimiga aylanmoqda</title>
+    <link>https://ailenta.uz/x/slack-ai-ishchi-operatsion-tizimiga-aylanmoqda-3f5856/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/slack-ai-ishchi-operatsion-tizimiga-aylanmoqda-3f5856/</guid>
+    <pubDate>Sun, 20 Sep 2026 09:40:00 GMT</pubDate>
+    <description>Slack platformasi jamoalar kanallarda agentlar bilan hamkorlik qilishi uchun AI ishchi operatsion tizimiga aylanmoqda. Unda jamoalar kanallar ichida AI agentlari bilan birgalikda ishlaydi.</description>
+    <category>agentlar</category><category>biznes</category>
+    <media:content url="https://ailenta.uz/og/slack-ai-ishchi-operatsion-tizimiga-aylanmoqda-3f5856.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/slack-ai-ishchi-operatsion-tizimiga-aylanmoqda-3f5856.jpg"/>
   </item>
   <item>
     <title>HarmonyOS 7: Xiaoyi 2,100+ imkoniyatli tizim agenti</title>
@@ -296,16 +306,6 @@
     <category>biznes</category><category>agentlar</category>
     <media:content url="https://ailenta.uz/og/jack-jill-ai-agentlari-40-mln-dollar-jalb-qildi-36aef2.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/jack-jill-ai-agentlari-40-mln-dollar-jalb-qildi-36aef2.jpg"/>
-  </item>
-  <item>
-    <title>Microsoft Foundry agentlar uchun xavfsizlikni ta'minlaydi</title>
-    <link>https://ailenta.uz/x/microsoft-foundry-agentlar-uchun-xavfsizlikni-taminlaydi-784a55/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/microsoft-foundry-agentlar-uchun-xavfsizlikni-taminlaydi-784a55/</guid>
-    <pubDate>Mon, 14 Sep 2026 20:40:00 GMT</pubDate>
-    <description>Microsoft Foundry uzoq muddatli AI agentlarini korxonalar uchun tayyorlamoqda. Tizimga boshidanoq xavfsizlik, nazorat va FinOps kabi himoya mexanizmlari kiritilgan. Bu ko'p agentli va ko'p modelli ish jarayonlarida qo'llaniladi.</description>
-    <category>Microsoft</category><category>agentlar</category>
-    <media:content url="https://ailenta.uz/og/microsoft-foundry-agentlar-uchun-xavfsizlikni-taminlaydi-784a55.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/microsoft-foundry-agentlar-uchun-xavfsizlikni-taminlaydi-784a55.jpg"/>
   </item>
 </channel>
 </rss>
