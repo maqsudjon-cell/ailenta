@@ -1,5 +1,48 @@
 [
   {
+    "id": "07a0eec83e03",
+    "slug": "tramp-texnologiyani-kuzatish-uchun-maxsus-kuch-tuzadi-07a0ee",
+    "title": "Tramp texnologiyani kuzatish uchun maxsus kuch tuzadi",
+    "summary": "Donald Tramp sun'iy intellektni kuzatish uchun maxsus vakil tayinlashini va \"AI Force\" tuzilishini ma'lum qildi. U texnologiya rivojlanishini sekinlashtirish haqidagi chaqiriqlarni tanqid qilgan. Rejalar haqida batafsil ma'lumot berilmagan.",
+    "tags": [
+      "siyosat"
+    ],
+    "importance": 4,
+    "score": 22.4,
+    "published": "2026-09-19T19:57:17.000Z",
+    "created": "2026-09-20T16:55:57.027Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/us-news/2026/sep/19/donald-trump-ai-force",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "7d8adafcf7aa",
+    "slug": "merilend-gubernatori-anthropic-bilan-kelishuvni-qolladi-7d8ada",
+    "title": "Merilend gubernatori Anthropic bilan kelishuvni qo'lladi",
+    "summary": "Merilend shtati gubernatori Ves Mur Anthropic kompaniyasi bilan tuzilgan sun'iy intellekt kelishuvini qo'llab-quvvatladi. U turli qarshiliklarga qaramay ushbu qarorida qoldi.",
+    "tags": [
+      "Anthropic",
+      "siyosat"
+    ],
+    "importance": 3,
+    "score": 10,
+    "published": "2026-09-20T16:45:00.000Z",
+    "created": "2026-09-20T16:55:57.027Z",
+    "coverage": 1,
+    "source": {
+      "name": "Washington Examiner",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPN1lwNlNXV3U2NjlhRUZtLXE1OVZSbFhCWS1wZVloLWpzaG5jQzhTd0pOWEdaOURzNWxOSkJDRGlkN0xnZWNpbmpfUGxRQW9JQkV2aGx3eC03cVVoLV9qZUc5bUNrMUkweWxVY21ybjQ3YjlxNk5vbXl2UVJvSDU3NldaTjNobnlqRzliMXM0dUUxVTdqZ1FvWHBzaFJNMEE",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "3168464f987a",
     "slug": "nvidia-ai-chiplari-kelasi-yili-koinotga-yuboriladi-316846",
     "title": "Nvidia AI chiplari kelasi yili koinotga yuboriladi",
