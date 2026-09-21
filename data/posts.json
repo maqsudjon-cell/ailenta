@@ -1,5 +1,198 @@
 [
   {
+    "id": "a49b3696b8cf",
+    "slug": "robot-blogerni-oktagonda-yiqitib-qolini-sindirdi-a49b36",
+    "title": "Robot blogerni oktagonda yiqitib, qo'lini sindirdi",
+    "summary": "Tarmoqlarda tarqalgan videoda robot blogerni oktagonda bir zarba bilan yiqitgani aks etgan. Xabarlarga ko'ra, blogerning qo'li singan.",
+    "tags": [
+      "robototexnika"
+    ],
+    "importance": 2,
+    "score": 48,
+    "published": "2026-09-21T16:59:58.000Z",
+    "created": "2026-09-21T18:03:20.911Z",
+    "coverage": 1,
+    "source": {
+      "name": "Kun.uz",
+      "url": "https://kun.uz/news/2026/09/21/inson-va-robot-oktagonda-jang-qildi",
+      "title": "Inson va robot oktagonda jang qildi.",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "da9cd8493bc3",
+    "slug": "amd-ai-talabi-tufayli-1-trillion-dollarlik-klubga-kirdi-da9cd8",
+    "title": "AMD AI talabi tufayli 1 trillion dollarlik klubga kirdi",
+    "summary": "AMD kompaniyasi sun'iy intellektga bo'lgan talab ortishi fonida bozor qiymati 1 trillion dollardan oshdi. Bu holat chip ishlab chiqaruvchilarning umumiy o'sishiga sabab bo'lmoqda.",
+    "tags": [
+      "AMD",
+      "biznes"
+    ],
+    "importance": 4,
+    "score": 51,
+    "published": "2026-09-21T15:32:11.000Z",
+    "created": "2026-09-21T18:04:15.762Z",
+    "coverage": 5,
+    "source": {
+      "name": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNEJSWFBacFZ6Y2xjRGFmeFBLLS02aTN5LWV1RWpLbWNtSXpQS3dGRF9OZUVYendmWTNxQnJqdHh6dEpIRWcxTnlFY0JXeVM2YXF3cTgwTmFxRjlYWm1oWFN5bFJFM3p2Y2twQ0xvTVFZb2NMQmNtdF9lX3dNNG1nR3l3dXg0OU1XX19pckx1cnBNNXlfeDJfTnVkSVhJbEpyTXY4dVdWalBQVkdSWDhn",
+      "indirect": true
+    },
+    "also": [
+      {
+        "name": "news24.com",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNlRHeURxX1ZIR0V4dzdPYnkxaDVwQTBoSGQ4LXRJN1o5MWJsQTBJbWZBNU04VW81MU5iR09TV3VWY2tkV1pfcmlRcWpGLUkzSlc2eTBpVndLZHZxa1FBa0pkYkJLa1E0N29SekZ2X2lYN0lBaTI1NnUyUE9MUUJnNEZ0R3NHVEpKNG5kZ2c0U3hUUS1WODF2WjJfMzZkdXBjSU1BYjl0M3hCUEk2NFd0UklJdHZkNzQ"
+      },
+      {
+        "name": "Mexico Business News",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSlNIeWVaek1sQXdIVkZrRXA5eld3Z2RyNkpmamhwN2x2eko1Rmc2QTVfN2JidVdLd0FwS3FVbnhfVW05RHZhdkdmTVdzZFJjM3NBNVYwVjRIMFJnVVk4OEw3TUp4MElLUlNlNXJZSkVubVRINlowM2xEd3E5Z1NGSERBTDE0ZG9xS2g3aE8wa01ITVdFUnVDZWFXVDlaaWFwY200"
+      },
+      {
+        "name": "The Globe and Mail",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQS1tNjRaZHlVc2Q1aEctNzVGeWxOSFJ4WnlHWHNWbzZfNEdpc2NaWXRWMFIyZ0tLZjh5M3VUN3ZvclM2SWpBZllSRXREaUdvelZDbTVybWlZeWc4MlNhNDUtOGhjdGlBN2duX0ZVYlU2elpXLWxOc3pkU25IbGd2a0RZUkpDNG9qeW1yVWgxZG1ZQmRQZlhxY1psNV9GU1hpcXh0UHB5WmlkZldmRENwemFzZGVBcG8"
+      },
+      {
+        "name": "The Straits Times",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQzV6dzlvb3lDODJ1N0gzZUtWYm9ieXJJQXozOEZHOF9DR2Q3bDdiZkxPY3l5UGRSOWthVkszc2dXS2tUTXlIQnpmUnpKVjVfMjFRc3UydjNrUVo3NGFSZGJHRHhaUzZyZi1oaklHRTF4SHR4T2hBSHZtQ0pPaGZfd2E4dXhoTUtIUkVTSy1Tbm9GNEhlMlByRV9LdjlmQWEzZUdnVnpn"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "19be835e9d5d",
+    "slug": "alibaba-qwen3-8-omni-flash-multimodal-modelini-chiqardi-19be83",
+    "title": "Alibaba Qwen3.8-Omni-Flash multimodal modelini chiqardi",
+    "summary": "Alibaba matn, rasm, audio va videoni qayta ishlay oladigan Qwen3.8-Omni-Flash modelini taqdim etdi. Uning kontekst oynasi 1 million tokengacha yetadi va audio/video bilan ishlash xarajatlari 98% dan ko'proqqa kamaygan.",
+    "tags": [
+      "Alibaba",
+      "ochiq model"
+    ],
+    "importance": 4,
+    "score": 37,
+    "published": "2026-09-21T10:00:00.000Z",
+    "created": "2026-09-21T18:04:15.762Z",
+    "coverage": 1,
+    "source": {
+      "name": "Pivot",
+      "url": "https://pivot.uz/uz/alibaba-qwen3-8-omni-flashni-taqdim-etdi",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "7755df424d41",
+    "slug": "misrning-ai-ekotizimi-ishlab-chiqarish-miqyosiga-yetdi-7755df",
+    "title": "Misrning AI ekotizimi ishlab chiqarish miqyosiga yetdi",
+    "summary": "Misrning sun'iy intellekt ekotizimi tez rivojlanib, ishlab chiqarish miqyosiga yetdi. Buyuk Misr muzeyida bo'lib o'tgan tadbirda Nvidia vakili ma'ruza qildi.",
+    "tags": [
+      "Nvidia",
+      "iqtisod"
+    ],
+    "importance": 2,
+    "score": 36,
+    "published": "2026-09-21T16:00:10.000Z",
+    "created": "2026-09-21T18:04:15.762Z",
+    "coverage": 1,
+    "source": {
+      "name": "Nvidia",
+      "url": "https://blogs.nvidia.com/blog/egypt-africa-ai-ecosystem",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "19a7cdd103de",
+    "slug": "microsoft-hindiston-bulutiga-ai-imkoniyatlarini-olib-kirdi-19a7cd",
+    "title": "Microsoft Hindiston bulutiga AI imkoniyatlarini olib kirdi",
+    "summary": "Microsoft Hindistondagi bulut infratuzilmasiga sun'iy intellektga tayyor imkoniyatlarni joriy etmoqda.",
+    "tags": [
+      "Microsoft",
+      "bulut"
+    ],
+    "importance": 3,
+    "score": 33,
+    "published": "2026-09-21T17:48:33.000Z",
+    "created": "2026-09-21T18:04:15.762Z",
+    "coverage": 1,
+    "source": {
+      "name": "Microsoft",
+      "url": "https://news.microsoft.com/source/asia/2026/09/21/ai-ambition-into-action-microsoft-brings-ai-ready-capabilities-across-its-india-cloud-infrastructure-establishes-india-south-central-region-as-a-strategic-hub-for-asia-and-global-south",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "1bb9769be8b3",
+    "slug": "fizik-aini-keng-miqyosda-joriy-etishda-xavfsizlik-muhim-1bb976",
+    "title": "Fizik AI'ni keng miqyosda joriy etishda xavfsizlik muhim",
+    "summary": "Fizik AI tadqiqotdan keng miqyosli joriy etishga tez o'tmoqda. 2035 yilga borib 49 million avtonom avtomobil va 60 million sanoat roboti joylashtirilishi kutilmoqda, bu esa har bir bosqichda xavfsizlikni talab qiladi.",
+    "tags": [
+      "Nvidia",
+      "xavfsizlik"
+    ],
+    "importance": 4,
+    "score": 33,
+    "published": "2026-09-21T16:00:46.000Z",
+    "created": "2026-09-21T18:04:15.762Z",
+    "coverage": 1,
+    "source": {
+      "name": "Nvidia",
+      "url": "https://blogs.nvidia.com/blog/physical-ai-halos-safety",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "120d000c67b0",
+    "slug": "ai-modellari-insoniylikka-intilishga-majburlanmoqdami-120d00",
+    "title": "AI modellari insoniylikka intilishga majburlanmoqdami",
+    "summary": "The New York Times nashri sun'iy intellekt modellari haddan tashqari insoniy harakat qilishga yo'naltirilayotganini so'roq ostiga oldi.",
+    "tags": [
+      "tadqiqot",
+      "xavfsizlik"
+    ],
+    "importance": 2,
+    "score": 27,
+    "published": "2026-09-21T17:00:06.000Z",
+    "created": "2026-09-21T18:04:15.762Z",
+    "coverage": 1,
+    "source": {
+      "name": "The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTFJXZzhtdnhvdXFTX1FVdWlQYnpvbTlMZ0xScVBCbEQybUNzWDdrd0txeGw5VTNOS1VwT2VrbU5yU0pOWW5sNnFNVGVudktWY3prVERMTWF0VUJTS2RoNFRKVl9DUVFIRUxfSzQtYkk3STlSSFBBR2hoVkQtbUUtbTJzM1pmWWpw",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "11306196be87",
+    "slug": "dario-aini-sekinlashtirishni-jensen-esa-tezlashtirishni-ista-113061",
+    "title": "Dario AI'ni sekinlashtirishni, Jensen esa tezlashtirishni istaydi",
+    "summary": "Anthropic rahbari Dario Amodei sun'iy intellekt rivojlanishini sekinlashtirishga chaqirmoqda. Nvidia bosh direktori Jensen Huang esa texnologiyani to'liq tezlikda rivojlantirish tarafdori.",
+    "tags": [
+      "Anthropic",
+      "Nvidia"
+    ],
+    "importance": 4,
+    "score": 27,
+    "published": "2026-09-21T11:38:37.000Z",
+    "created": "2026-09-21T18:04:15.762Z",
+    "coverage": 1,
+    "source": {
+      "name": "WSJ",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPcTJzNzJmYzhBcG1WaGtLOEhFUzBuRUZKQjd4N042Mkw0SFVBRDI4bmZXT1JDeHNSMjZic0NTejVLSUtrRVBlRXZKbVJEc1R4Mkhyak0wLWp2a0VWSmZncFM5V2NCTnZkQmZTSnJtbFFCRFhuRFF1c2NnMjNPQTBiU0F3",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "f41acf391d43",
     "slug": "ipoteka-mobile-ilovasida-10-mln-so-mgacha-komissiyasiz-o-tka-f41acf",
     "title": "Ipoteka Mobile ilovasida 10 mln soʻmgacha komissiyasiz oʻtkazma",
