@@ -5,7 +5,7 @@
   <link>https://ailenta.uz/mavzu/nvidia/</link>
   <description>&quot;Nvidia&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Mon, 21 Sep 2026 22:05:16 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 21 Sep 2026 23:05:18 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/nvidia/rss.xml" rel="self" type="application/rss+xml"/>
   <item>
     <title>Nvidia AI zavodlari uchun quvvat va sovutish mahsulotlarini tasdiqlaydi</title>
@@ -36,6 +36,16 @@
     <category>Nvidia</category><category>iqtisod</category>
     <media:content url="https://ailenta.uz/og/misrning-ai-ekotizimi-ishlab-chiqarish-miqyosiga-yetdi-7755df.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/misrning-ai-ekotizimi-ishlab-chiqarish-miqyosiga-yetdi-7755df.jpg"/>
+  </item>
+  <item>
+    <title>Nvidia AI agentlari xavfsizligi uchun reja ishlab chiqdi</title>
+    <link>https://ailenta.uz/x/nvidia-ai-agentlari-xavfsizligi-uchun-reja-ishlab-chiqdi-3056c0/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/nvidia-ai-agentlari-xavfsizligi-uchun-reja-ishlab-chiqdi-3056c0/</guid>
+    <pubDate>Mon, 21 Sep 2026 15:06:00 GMT</pubDate>
+    <description>Nvidia kompaniyasi agent stack himoyasi uchun sun'iy intellekt xavfsizligi rejasini ishlab chiqdi. Bu AI agentlarining xavfsizligini ta'minlashga qaratilgan.</description>
+    <category>Nvidia</category><category>xavfsizlik</category>
+    <media:content url="https://ailenta.uz/og/nvidia-ai-agentlari-xavfsizligi-uchun-reja-ishlab-chiqdi-3056c0.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/nvidia-ai-agentlari-xavfsizligi-uchun-reja-ishlab-chiqdi-3056c0.jpg"/>
   </item>
   <item>
     <title>Nvidia AI xavfsizligini muhandislik muammosi deb atadi</title>
@@ -296,16 +306,6 @@
     <category>Nvidia</category><category>Meta</category>
     <media:content url="https://ailenta.uz/og/nvidia-va-meta-rahbarlari-ai-sekinlashuvini-rad-etdi-12998c.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/nvidia-va-meta-rahbarlari-ai-sekinlashuvini-rad-etdi-12998c.jpg"/>
-  </item>
-  <item>
-    <title>Nvidia AI zavodlarida energiya iste'molini boshqarmoqda</title>
-    <link>https://ailenta.uz/x/nvidia-ai-zavodlarida-energiya-istemolini-boshqarmoqda-997c7e/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/nvidia-ai-zavodlarida-energiya-istemolini-boshqarmoqda-997c7e/</guid>
-    <pubDate>Tue, 15 Sep 2026 16:55:59 GMT</pubDate>
-    <description>Nvidia AI zavodlarida energiya iste'molini optimallashtirish ustida ishlamoqda. Silikon vodiysidagi AI zavodi elektr tarmog'idan signal olib, quvvat sarfini moslashtirgan.</description>
-    <category>Nvidia</category><category>chiplar</category>
-    <media:content url="https://ailenta.uz/og/nvidia-ai-zavodlarida-energiya-istemolini-boshqarmoqda-997c7e.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/nvidia-ai-zavodlarida-energiya-istemolini-boshqarmoqda-997c7e.jpg"/>
   </item>
 </channel>
 </rss>

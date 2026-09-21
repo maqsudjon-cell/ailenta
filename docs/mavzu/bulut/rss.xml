@@ -5,7 +5,7 @@
   <link>https://ailenta.uz/mavzu/bulut/</link>
   <description>&quot;bulut&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Mon, 21 Sep 2026 22:05:16 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 21 Sep 2026 23:05:18 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/bulut/rss.xml" rel="self" type="application/rss+xml"/>
   <item>
     <title>Microsoft Hindiston bulutiga AI imkoniyatlarini olib kirdi</title>
@@ -16,6 +16,16 @@
     <category>Microsoft</category><category>bulut</category>
     <media:content url="https://ailenta.uz/og/microsoft-hindiston-bulutiga-ai-imkoniyatlarini-olib-kirdi-19a7cd.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/microsoft-hindiston-bulutiga-ai-imkoniyatlarini-olib-kirdi-19a7cd.jpg"/>
+  </item>
+  <item>
+    <title>Salesforce AI to'plamini taqdim etdi</title>
+    <link>https://ailenta.uz/x/salesforce-ai-toplamini-taqdim-etdi-5164ed/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/salesforce-ai-toplamini-taqdim-etdi-5164ed/</guid>
+    <pubDate>Mon, 21 Sep 2026 15:00:00 GMT</pubDate>
+    <description>Salesforce kompaniyasi Google Cloud, Nvidia, AWS va Anthropic texnologiyalarini o'z ichiga olgan AI to'plamini chiqardi. Bu yangi texnologiyalarni birlashtirgan yechimdir.</description>
+    <category>Salesforce</category><category>bulut</category>
+    <media:content url="https://ailenta.uz/og/salesforce-ai-toplamini-taqdim-etdi-5164ed.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/salesforce-ai-toplamini-taqdim-etdi-5164ed.jpg"/>
   </item>
   <item>
     <title>Ma'lumotlar markazi xodimlariga ko'proq haq to'lanmoqda</title>
@@ -296,16 +306,6 @@
     <category>Meta</category><category>bulut</category>
     <media:content url="https://ailenta.uz/og/vatikan-uglerod-neytralligi-uchun-117-million-dollar-sarflay-471201.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/vatikan-uglerod-neytralligi-uchun-117-million-dollar-sarflay-471201.jpg"/>
-  </item>
-  <item>
-    <title>Eng arzon GPU bulut xizmatlari taqdim etildi</title>
-    <link>https://ailenta.uz/x/eng-arzon-gpu-bulut-xizmatlari-taqdim-etildi-8c530b/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/eng-arzon-gpu-bulut-xizmatlari-taqdim-etildi-8c530b/</guid>
-    <pubDate>Thu, 03 Sep 2026 02:50:47 GMT</pubDate>
-    <description>Hacker News'da H100 GPU'lari soatiga 2,04 dollardan, H200 GPU'lari esa soatiga 3 dollardan taklif etilayotgan eng arzon bulut xizmatlari namoyish etildi. Bu AI ish yuklamalari uchun arzon yechim.</description>
-    <category>bulut</category><category>chiplar</category>
-    <media:content url="https://ailenta.uz/og/eng-arzon-gpu-bulut-xizmatlari-taqdim-etildi-8c530b.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/eng-arzon-gpu-bulut-xizmatlari-taqdim-etildi-8c530b.jpg"/>
   </item>
 </channel>
 </rss>
