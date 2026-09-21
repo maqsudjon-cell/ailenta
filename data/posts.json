@@ -1,5 +1,93 @@
 [
   {
+    "id": "dbee1881968b",
+    "slug": "avstraliya-hisoboti-40-yilda-olim-tugilishdan-oshadi-dbee18",
+    "title": "Avstraliya hisoboti: 40 yilda o'lim tug'ilishdan oshadi",
+    "summary": "Avstraliyaning yettinchi avlodlararo hisobotiga ko'ra, 40 yildan so'ng mamlakatda tug'ilishdan ko'ra o'lim ko'proq bo'ladi. Hisobotda Avstraliya sun'iy intellektning noaniq davri ostonasida ekanligi ham qayd etilgan.",
+    "tags": [
+      "siyosat",
+      "iqtisod"
+    ],
+    "importance": 3,
+    "score": 23,
+    "published": "2026-09-21T02:30:32.000Z",
+    "created": "2026-09-21T03:36:55.932Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/australia-news/2026/sep/21/jim-chalmers-intergenerational-report-2026-deaths-outnumber-births-australia2060s",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "a414d00b22b7",
+    "slug": "dongfeng-zavodlariga-gumanoid-robotlar-kiradi-a414d0",
+    "title": "Dongfeng zavodlariga gumanoid robotlar kiradi",
+    "summary": "Dongfeng Motor kompaniyasi oktyabr oyida zavodlarga gumanoid robotlarni joylashtirishni rejalashtirmoqda. Ular saralash va sifat nazorati uchun ishlatiladi, yil oxirigacha kichik partiyali sinov ishlab chiqarish boshlanadi.",
+    "tags": [
+      "robototexnika",
+      "biznes"
+    ],
+    "importance": 4,
+    "score": 18,
+    "published": "2026-09-21T02:00:34.000Z",
+    "created": "2026-09-21T03:36:55.932Z",
+    "coverage": 1,
+    "source": {
+      "name": "Pandaily",
+      "url": "https://pandaily.com/dongfeng-humanoid-robots-october-factory-year-end-trial",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "d6399ce2a04d",
+    "slug": "xpeng-xitoyda-g9l-ai-flagman-suvni-ishga-tushirdi-d6399c",
+    "title": "XPeng Xitoyda G9L AI flagman SUV'ni ishga tushirdi",
+    "summary": "XPeng kompaniyasi Xitoyda G9L AI flagman SUV modelini 231,800 yuandan boshlab sotuvga chiqardi. Ushbu besh o'rindiqli avtomobil BEV va diapazonni kengaytiruvchi variantlarga ega bo'lib, 800V quvvatlanishni qo'llab-quvvatlaydi.",
+    "tags": [
+      "biznes",
+      "Xitoy"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-09-21T02:37:28.000Z",
+    "created": "2026-09-21T03:36:55.932Z",
+    "coverage": 1,
+    "source": {
+      "name": "Pandaily",
+      "url": "https://pandaily.com/xpeng-g9l-launches-china-flagship-suv-sep2026",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "85e277662c8b",
+    "slug": "ai-rahbarlari-ehtiyotkorlikka-chaqirmoqda-qonunchilar-bahsla-85e277",
+    "title": "AI rahbarlari ehtiyotkorlikka chaqirmoqda, qonunchilar bahslashmoqda",
+    "summary": "AI kompaniyalari rahbarlari ehtiyotkorlikka chaqirayotgan bir paytda, qonunchilar AI'ni tartibga solish bo'yicha bahslashmoqda. Vashington texnologiya rivojlanishidan oldin chora ko'radimi degan savol ochiq qolmoqda.",
+    "tags": [
+      "qonun",
+      "siyosat"
+    ],
+    "importance": 4,
+    "score": 7,
+    "published": "2026-09-21T00:30:14.000Z",
+    "created": "2026-09-21T03:36:55.932Z",
+    "coverage": 1,
+    "source": {
+      "name": "facebook.com",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPUng1bVNwVDNNVjV4TjBuSmlQbDFLYnYwY0NyaWdNTWxhb1VNT19fU2xqQkxRQVoxUlNqZTh1LVhxS3VKVmd2cllQZktDRE9rbkFjODRaOGhORklQckVzM19GOWc3b2tSZllXZWJleDF5NjRDQUxLUnN3T2JzMW5yU25mWERIWHlwSUdnaTF1MHQzSmsyM0ZBNXU3d3UySjhWRy14ZFNHeXVuakR5LUpPQXEwamRUajg5eXdGMnl2ZFo2N1BPN3dqa1RyTUVGdW9NVThNS1g0Q2JaS3BtcXdTQg",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "0a55cb8518d0",
     "slug": "anthropic-ipo-oldidan-bahosi-boyicha-prognozlar-bolindi-0a55cb",
     "title": "Anthropic IPO oldidan bahosi bo'yicha prognozlar bo'lindi",
