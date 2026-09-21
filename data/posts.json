@@ -1,5 +1,103 @@
 [
   {
+    "id": "d879ca20456b",
+    "slug": "apple-mac-studio-m5-ultra-sharhi-yuqori-narx-d879ca",
+    "title": "Apple Mac Studio (M5 Ultra) sharhi: yuqori narx",
+    "summary": "Apple Mac Studio (M5 Ultra) yuqori benchmark natijalari, katta xotira va Thunderbolt 5 portlariga ega. Biroq, 11,299 dollarlik narxi tufayli u faqat ayrim xaridorlar uchun mos keladi.",
+    "tags": [
+      "Apple",
+      "chiplar"
+    ],
+    "importance": 3,
+    "score": 24,
+    "published": "2026-09-21T13:13:39.000Z",
+    "created": "2026-09-21T13:24:12.460Z",
+    "coverage": 2,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/260921/p26",
+      "title": "Apple Mac Studio (M5 Ultra) review: incredible benchmark scores, high base memory, and a generous number of ultra-fast Thunderbolt 5 ports, but very expensive (Steve Dent/Engadget)",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "Engadget",
+        "url": "https://engadget.com/2263184/apple-mac-studio-m5-ultra-review"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "62c40c8c4caa",
+    "slug": "nvidia-rahbari-ai-dunyoni-yoq-qilishiga-ishonmaydi-62c40c",
+    "title": "Nvidia rahbari AI dunyoni yo'q qilishiga ishonmaydi",
+    "summary": "Nvidia bosh direktori Jensen Huang sun'iy intellekt 2030-yilgacha insoniyatni yo'q qilish ehtimoli 0% ekanini aytdi. U sobiq Anthropic tadqiqotchisining bunday da'volarini mas'uliyatsiz deb atadi.",
+    "tags": [
+      "Nvidia",
+      "xavfsizlik"
+    ],
+    "importance": 5,
+    "score": 35,
+    "published": "2026-09-21T10:31:47.000Z",
+    "created": "2026-09-21T13:26:14.025Z",
+    "coverage": 2,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/technology/2026/sep/21/nvidia-boss-jensen-huang-dismisses-warnings-ai-destroys-world-anthropic",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "The Guardian",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNR29qZDY0OGh1R2hYREF3UHBXR0xjUTFCaU5MWUxzZGNKX1NBeHVrQTVseURCRUlBX3d4RXFEZklnUVNFX3hsdVNMd0FKcDI4S2dOc3plZXdlSHZqbWdQLXk2Q1dKSE9TRUEwVmVjYXozenFVUU5SVVc3cThEVmZ6WVlnVG5VOWVtV3BiMnVqdGpWajhxTU9iMGxZTGtyNC1sQThfcUNkMGhSVGNvVGNaazBmRExMRXU5TVFHTkpOTQ"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "08be31d1d2d2",
+    "slug": "mini-agi-8gb-vramda-oqitilgan-model-taqdim-etildi-08be31",
+    "title": "Mini-AGI: 8GB VRAMda o'qitilgan model taqdim etildi",
+    "summary": "Hacker News'da 8GB VRAMda o'qitilgan, dinamik uzluksiz o'rganishga qodir Mini-AGI modeli namoyish etildi. Bu model kichik resurslarda ishlash imkoniyatini ko'rsatadi.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 22,
+    "published": "2026-09-21T04:42:37.000Z",
+    "created": "2026-09-21T13:26:14.025Z",
+    "coverage": 1,
+    "source": {
+      "name": "Hacker News",
+      "url": "https://github.com/volotat/mini-AGI",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "bd109b16c599",
+    "slug": "warp-startapi-ai-arizalarni-filtrlash-yolini-topdi-bd109b",
+    "title": "Warp startapi AI arizalarni filtrlash yo'lini topdi",
+    "summary": "Warp startapi xodimlarga LinkedIn'da post joylash uchun haq to'lab, ishga qabul qilish muammosini hal qilmoqda. Bu usul AI tomonidan yaratilgan arizalarni filtrlashga yordam beradi.",
+    "tags": [
+      "mehnat bozori",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-09-21T12:27:43.000Z",
+    "created": "2026-09-21T13:26:14.025Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/09/21/this-startup-is-paying-employees-to-post-on-linkedin-and-its-solving-its-hiring-problem",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "d59647eb2f43",
     "slug": "xitoy-gumanoid-robotlar-bozorini-tekshirmoqda-d59647",
     "title": "Xitoy gumanoid robotlar bozorini tekshirmoqda",
