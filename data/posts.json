@@ -1,5 +1,93 @@
 [
   {
+    "id": "d59647eb2f43",
+    "slug": "xitoy-gumanoid-robotlar-bozorini-tekshirmoqda-d59647",
+    "title": "Xitoy gumanoid robotlar bozorini tekshirmoqda",
+    "summary": "Xitoy regulyatorlari gumanoid robotlar bozoridagi kompaniyalarning birjaga chiqish rejalarini sinchiklab tekshirmoqda. Ular yuqori baholar va daromadlar ortida haqiqiy bozor talabi bor-yo'qligiga e'tibor qaratmoqda. Bu jarayon Unitree Robotics debyutidan so'ng kuchaydi.",
+    "tags": [
+      "robototexnika",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 48,
+    "published": "2026-09-21T10:00:00.000Z",
+    "created": "2026-09-21T12:36:42.245Z",
+    "coverage": 1,
+    "source": {
+      "name": "Pivot",
+      "url": "https://pivot.uz/uz/xitoy-humanoid-robotlar-bozoridagi-shov-shuvni-tekshira-boshladi",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "1ca691988404",
+    "slug": "nvidia-ai-toza-energiya-loyihalarida-qollanilmoqda-1ca691",
+    "title": "Nvidia AI toza energiya loyihalarida qo'llanilmoqda",
+    "summary": "Nvidia Nyu-York Iqlim Haftaligida beshta kompaniyani ta'kidladi. Bu kompaniyalar AI yordamida toza energiya loyihalarini rivojlantirmoqda. AI tadqiqotdan amalga oshirishgacha bo'lgan jarayonni tezlashtirmoqda.",
+    "tags": [
+      "Nvidia",
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 36,
+    "published": "2026-09-21T10:00:35.000Z",
+    "created": "2026-09-21T12:36:42.246Z",
+    "coverage": 1,
+    "source": {
+      "name": "Nvidia",
+      "url": "https://blogs.nvidia.com/blog/clean-energy-nvidia-ai",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "704b11ac89b1",
+    "slug": "aqsh-chegarasidagi-ai-kuzatuvi-kamchiliklari-aniqlandi-704b11",
+    "title": "AQSh chegarasidagi AI kuzatuvi kamchiliklari aniqlandi",
+    "summary": "MIT Technology Review AQSh-Meksika chegarasidagi \"virtual devor\"ni tekshirdi. AI bilan ishlaydigan kuzatuv minoralariga qaramay, odamlar aniqlanmay o'tib, keyin vafot etgan holatlar topildi. Bu tizimning kamchiliklarini ko'rsatadi.",
+    "tags": [
+      "xavfsizlik",
+      "siyosat"
+    ],
+    "importance": 3,
+    "score": 23,
+    "published": "2026-09-21T12:00:00.000Z",
+    "created": "2026-09-21T12:36:42.246Z",
+    "coverage": 1,
+    "source": {
+      "name": "MIT Technology Review",
+      "url": "https://technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "ae21e18b463a",
+    "slug": "nvidianing-bepul-ai-modeli-baaga-tasir-qilishi-mumkin-ae21e1",
+    "title": "Nvidia'ning bepul AI modeli BAAga ta'sir qilishi mumkin",
+    "summary": "Nvidia'ning keyingi bepul AI modeli BAAning AQSh bilan munosabatlariga ta'sir qilishi mumkin. Hozirda BAA mashinalarga egalik qilsa-da, intellektni ijaraga oladi. Bu model vaziyatni o'zgartirishi kutilmoqda.",
+    "tags": [
+      "Nvidia",
+      "siyosat"
+    ],
+    "importance": 3,
+    "score": 22,
+    "published": "2026-09-21T10:00:00.000Z",
+    "created": "2026-09-21T12:36:42.246Z",
+    "coverage": 1,
+    "source": {
+      "name": "Rest of World",
+      "url": "https://restofworld.org/2026/nvidia-open-source-ai-models-uae",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "34088336622f",
     "slug": "rbs-attention-uslubi-taqdim-etildi-340883",
     "title": "RBS-Attention uslubi taqdim etildi",
