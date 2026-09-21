@@ -1,5 +1,49 @@
 [
   {
+    "id": "9a7ca5588c95",
+    "slug": "ed-davey-superintellektual-aini-toxtatishga-chaqirdi-9a7ca5",
+    "title": "Ed Davey superintellektual AI'ni to'xtatishga chaqirdi",
+    "summary": "Buyuk Britaniyadagi Liberal-demokratlar partiyasi rahbari Ed Davey superintellektual sun'iy intellekt rivojlanishini to'xtatish uchun xalqaro bitim tuzishga chaqirmoqda. U ushbu jarayonni yadroviy qurollanish poygasiga qiyoslagan.",
+    "tags": [
+      "siyosat",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 23,
+    "published": "2026-09-21T21:30:26.000Z",
+    "created": "2026-09-21T21:35:54.104Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/politics/2026/sep/21/halt-super-intelligent-ai-ed-davey-lib-dem-conference",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "5127259f6a91",
+    "slug": "bristol-olimlari-tibbiy-ai-uchun-yangi-tizim-taklif-qildi-512725",
+    "title": "Bristol olimlari tibbiy AI uchun yangi tizim taklif qildi",
+    "summary": "Bristol universiteti tadqiqotchilari tibbiy AI tizimlarini xavfsiz qilish uchun dori vositalarini tasdiqlash modelidan foydalanishni taklif qildi. Yangi tizim model cheklovlari va klinik moslikni tekshiradi. Bu amaliyotda xavfli xato qiladigan modellarni aniqlashga yordam beradi.",
+    "tags": [
+      "tadqiqot",
+      "tibbiyot"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-09-21T14:06:28.000Z",
+    "created": "2026-09-21T21:35:54.104Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/bristol-researchers-say-medicine-already-knows-how-to-handle-black-boxes-and-ai-could-learn-from-it",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "b3a6ebf575f9",
     "slug": "shaxsiy-ai-xotirasi-hech-qachon-xulosa-qilmaydigan-model-b3a6eb",
     "title": "Shaxsiy AI xotirasi: hech qachon xulosa qilmaydigan model",

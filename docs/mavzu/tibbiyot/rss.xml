@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/tibbiyot/</link>
   <description>&quot;tibbiyot&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Mon, 21 Sep 2026 21:17:55 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 21 Sep 2026 21:38:43 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/tibbiyot/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Bristol olimlari tibbiy AI uchun yangi tizim taklif qildi</title>
+    <link>https://ailenta.uz/x/bristol-olimlari-tibbiy-ai-uchun-yangi-tizim-taklif-qildi-512725/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/bristol-olimlari-tibbiy-ai-uchun-yangi-tizim-taklif-qildi-512725/</guid>
+    <pubDate>Mon, 21 Sep 2026 14:06:28 GMT</pubDate>
+    <description>Bristol universiteti tadqiqotchilari tibbiy AI tizimlarini xavfsiz qilish uchun dori vositalarini tasdiqlash modelidan foydalanishni taklif qildi. Yangi tizim model cheklovlari va klinik moslikni tekshiradi. Bu amaliyotda xavfli xato qiladigan modellarni aniqlashga yordam beradi.</description>
+    <category>tadqiqot</category><category>tibbiyot</category>
+    <media:content url="https://ailenta.uz/og/bristol-olimlari-tibbiy-ai-uchun-yangi-tizim-taklif-qildi-512725.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/bristol-olimlari-tibbiy-ai-uchun-yangi-tizim-taklif-qildi-512725.jpg"/>
+  </item>
   <item>
     <title>Moderna va AI yetakchilari Cellular Intelligence kengashida</title>
     <link>https://ailenta.uz/x/moderna-va-ai-yetakchilari-cellular-intelligence-kengashida-6b9b20/</link>
@@ -296,16 +306,6 @@
     <category>Anthropic</category><category>tibbiyot</category>
     <media:content url="https://ailenta.uz/og/oila-claude-ai-yordamida-shifoxona-hisobini-kamaytirdi-417cb5.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/oila-claude-ai-yordamida-shifoxona-hisobini-kamaytirdi-417cb5.jpg"/>
-  </item>
-  <item>
-    <title>Protein til modellarida funksional naqshlarni aniqlash</title>
-    <link>https://ailenta.uz/x/protein-til-modellarida-funksional-naqshlarni-aniqlash-3d923d/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/protein-til-modellarida-funksional-naqshlarni-aniqlash-3d923d/</guid>
-    <pubDate>Wed, 02 Sep 2026 00:00:00 GMT</pubDate>
-    <description>Nature jurnalida MotifAE yordamida protein til modellaridan funksional ketma-ketlik naqshlarini nazoratsiz aniqlash bo'yicha tadqiqot e'lon qilindi. Bu ish oqsillarni tushunishga yangi yondashuvni taklif etadi.</description>
-    <category>tadqiqot</category><category>tibbiyot</category>
-    <media:content url="https://ailenta.uz/og/protein-til-modellarida-funksional-naqshlarni-aniqlash-3d923d.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/protein-til-modellarida-funksional-naqshlarni-aniqlash-3d923d.jpg"/>
   </item>
 </channel>
 </rss>
