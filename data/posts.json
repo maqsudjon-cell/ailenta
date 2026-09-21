@@ -1,5 +1,72 @@
 [
   {
+    "id": "e391bb44ff43",
+    "slug": "ricore-radiant-d35-chipi-primebot-bilan-hamkorlikda-e391bb",
+    "title": "Ricore Radiant D35 chipi PrimeBot bilan hamkorlikda",
+    "summary": "Suzhouda joylashgan Ricore kompaniyasining Radiant D35 RISC-V AI chipi PrimeBot uchun hisoblash ekotizimi hamkori bo'ldi. U bulutda o'qitish emas, balki gumanoid robotlar uchun chekka xulosa chiqarishga mo'ljallangan.",
+    "tags": [
+      "chiplar",
+      "robototexnika"
+    ],
+    "importance": 2,
+    "score": 24,
+    "published": "2026-09-21T08:22:54.000Z",
+    "created": "2026-09-21T09:02:20.956Z",
+    "coverage": 1,
+    "source": {
+      "name": "Pandaily",
+      "url": "https://pandaily.com/radiant-d35-risc-v-dataflow-chip-primebot-edge",
+      "title": "Radiant D35 RISC-V Dataflow Chip Partners With PrimeBot for Embodied Edge",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "6b9b201f742a",
+    "slug": "moderna-va-ai-yetakchilari-cellular-intelligence-kengashida-6b9b20",
+    "title": "Moderna va AI yetakchilari Cellular Intelligence kengashida",
+    "summary": "Moderna'dan Bob Langer va AI kashshofi Yann LeCun Cellular Intelligence kompaniyasi kengashiga qo'shildi. Ular Parkinson kasalligi dori vositasi orqali AI'ni tibbiyotga olib kirishni maqsad qilgan.",
+    "tags": [
+      "tibbiyot",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-09-21T07:00:00.000Z",
+    "created": "2026-09-21T09:03:06.474Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/09/21/moderna-bob-langer-ai-pioneer-yann-lecun-cellular-intelligence-board-ai-medicine",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "a58e5a046f9c",
+    "slug": "cix-technology-agx-x2-agentik-chekka-platformasi-chiqdi-a58e5a",
+    "title": "CIX Technology AGX X2 agentik chekka platformasi chiqdi",
+    "summary": "CIX Technology 80–300 TOPS quvvatga ega AGX X2 agentik chekka platformasini taqdim etdi. U 64–160GB LPDDR5 yagona xotiraga ega bo'lib, 7B–122B modellar uchun xulosa chiqarishni 50% kam energiya bilan ta'minlaydi.",
+    "tags": [
+      "chiplar",
+      "agentlar"
+    ],
+    "importance": 3,
+    "score": 18,
+    "published": "2026-09-21T08:19:42.000Z",
+    "created": "2026-09-21T09:03:06.474Z",
+    "coverage": 1,
+    "source": {
+      "name": "Pandaily",
+      "url": "https://pandaily.com/cix-technology-agx-x2-agentic-edge-80-300-tops",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "51c4ecb85012",
     "slug": "spaceborne-startapi-xalqaro-dastur-finaliga-chiqdi-51c4ec",
     "title": "Spaceborne startapi xalqaro dastur finaliga chiqdi",

@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/robototexnika/</link>
   <description>&quot;robototexnika&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Mon, 21 Sep 2026 08:04:42 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 21 Sep 2026 09:06:37 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/robototexnika/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Ricore Radiant D35 chipi PrimeBot bilan hamkorlikda</title>
+    <link>https://ailenta.uz/x/ricore-radiant-d35-chipi-primebot-bilan-hamkorlikda-e391bb/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/ricore-radiant-d35-chipi-primebot-bilan-hamkorlikda-e391bb/</guid>
+    <pubDate>Mon, 21 Sep 2026 08:22:54 GMT</pubDate>
+    <description>Suzhouda joylashgan Ricore kompaniyasining Radiant D35 RISC-V AI chipi PrimeBot uchun hisoblash ekotizimi hamkori bo'ldi. U bulutda o'qitish emas, balki gumanoid robotlar uchun chekka xulosa chiqarishga mo'ljallangan.</description>
+    <category>chiplar</category><category>robototexnika</category>
+    <media:content url="https://ailenta.uz/og/ricore-radiant-d35-chipi-primebot-bilan-hamkorlikda-e391bb.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/ricore-radiant-d35-chipi-primebot-bilan-hamkorlikda-e391bb.jpg"/>
+  </item>
   <item>
     <title>Dongfeng zavodlariga gumanoid robotlar kiradi</title>
     <link>https://ailenta.uz/x/dongfeng-zavodlariga-gumanoid-robotlar-kiradi-a414d0/</link>
@@ -296,16 +306,6 @@
     <category>robototexnika</category>
     <media:content url="https://ailenta.uz/og/ugreen-mahalliy-ai-boshqaruviga-ega-platformani-taqdim-etdi-cf69e4.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/ugreen-mahalliy-ai-boshqaruviga-ega-platformani-taqdim-etdi-cf69e4.jpg"/>
-  </item>
-  <item>
-    <title>Shenzhen metrosida toʻrt oyoqli robotlar ish boshladi</title>
-    <link>https://ailenta.uz/x/shenzhen-metrosida-to-rt-oyoqli-robotlar-ish-boshladi-e5cff6/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/shenzhen-metrosida-to-rt-oyoqli-robotlar-ish-boshladi-e5cff6/</guid>
-    <pubDate>Fri, 04 Sep 2026 02:24:37 GMT</pubDate>
-    <description>Yuejia Dynamics startapi Shenzhen metrosiga toʻrt oyoqli inspeksiya robotlarini joylashtirdi. Kompaniya oktyabr oyi oxirigacha yillik ishlab chiqarish quvvatini 10 000 donaga yetkazishni maqsad qilgan.</description>
-    <category>robototexnika</category>
-    <media:content url="https://ailenta.uz/og/shenzhen-metrosida-to-rt-oyoqli-robotlar-ish-boshladi-e5cff6.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/shenzhen-metrosida-to-rt-oyoqli-robotlar-ish-boshladi-e5cff6.jpg"/>
   </item>
 </channel>
 </rss>
