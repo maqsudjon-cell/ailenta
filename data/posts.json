@@ -1,5 +1,121 @@
 [
   {
+    "id": "c842b8eddb99",
+    "slug": "san-fransiskodagi-ai-uyi-politsiya-qaydlariga-tushdi-c842b8",
+    "title": "San-Fransiskodagi AI uyi politsiya qaydlariga tushdi",
+    "summary": "San-Fransisko ko'rfazi hududida sun'iy intellekt rivojlanishi bilan texnologik uylar ko'paydi. Ulardan biri keng qamrovli politsiya qaydlariga ega bo'lgan.",
+    "tags": [
+      "biznes",
+      "xavfsizlik"
+    ],
+    "importance": 2,
+    "score": 30,
+    "published": "2026-09-21T09:01:01.000Z",
+    "created": "2026-09-21T09:36:31.927Z",
+    "coverage": 1,
+    "source": {
+      "name": "The New York Times",
+      "url": "https://nytimes.com/2026/09/21/technology/agi-house-ai-culture.html",
+      "title": "This A.I. House Can Provide You With Connections. It Also Has a Dark Side.",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "34088336622f",
+    "slug": "uzoq-kontekstli-llm-uchun-rbs-attention-usuli-340883",
+    "title": "Uzoq kontekstli LLM uchun RBS-Attention usuli",
+    "summary": "Uzoq kontekstli katta til modellarida xulosa chiqarish prefill bilan cheklanadi. RBS-Attention usuli bu muammoni hal qilish uchun taklif etildi. U ikki xil tanlash tarmog'idan foydalanadi.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-09-21T04:00:00.000Z",
+    "created": "2026-09-21T09:36:46.233Z",
+    "coverage": 2,
+    "source": {
+      "name": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2609.20971",
+      "title": "RBS-Attention: Radius-Bounded Sparse Prefill for Long-Context Large Language Models",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "arXiv cs.LG",
+        "url": "https://arxiv.org/abs/2609.20888"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "752a1a6a697c",
+    "slug": "aqsh-va-xitoy-rasmiylari-savdo-va-ai-boyicha-muzokara-otkazd-752a1a",
+    "title": "AQSh va Xitoy rasmiylari savdo va AI bo'yicha muzokara o'tkazdi",
+    "summary": "AQSh va Xitoy rasmiylari Si Jinpingning tashrifi oldidan savdo va sun'iy intellekt masalalarini muhokama qildi. Moliya vaziri Scott Bessent Pekindagi muzokaralarni davom ettirishganini aytdi.",
+    "tags": [
+      "siyosat",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-09-21T09:01:11.000Z",
+    "created": "2026-09-21T09:37:16.709Z",
+    "coverage": 1,
+    "source": {
+      "name": "Semafor",
+      "url": "https://semafor.com/article/09/21/2026/us-chinese-officials-talk-trade-ai-ahead-of-xi-visit",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "0ed1201a049e",
+    "slug": "bmtda-xavfsiz-ai-boyicha-muloqot-otkazildi-0ed120",
+    "title": "BMTda xavfsiz AI bo'yicha muloqot o'tkazildi",
+    "summary": "Birlashgan Millatlar Tashkilotida xavfsiz va ishonchli sun'iy intellekt bo'yicha muloqot o'tkazildi. Unda AI xavflarini bartaraf etish uchun yo'l xaritasi mavjudligi ta'kidlandi.",
+    "tags": [
+      "siyosat",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-09-21T09:00:00.000Z",
+    "created": "2026-09-21T09:37:16.709Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/09/21/ai-safety-regulation-roadmap",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "18fe96f38a4d",
+    "slug": "altis-labs-25m-series-a-sarmoyasini-jalb-qildi-18fe96",
+    "title": "Altis Labs $25M Series A sarmoyasini jalb qildi",
+    "summary": "Altis Labs AI modeli onkologik sinovlardagi KT skanerlarini tahlil qiladi. Kompaniya dori ishlab chiqish uchun 25 million dollar Series A sarmoyasini jalb etdi.",
+    "tags": [
+      "tibbiyot",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 18,
+    "published": "2026-09-21T04:05:32.000Z",
+    "created": "2026-09-21T09:37:16.709Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/260921/p1",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "e391bb44ff43",
     "slug": "ricore-radiant-d35-chipi-primebot-bilan-hamkorlikda-e391bb",
     "title": "Ricore Radiant D35 chipi PrimeBot bilan hamkorlikda",

@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/tadqiqot/</link>
   <description>&quot;tadqiqot&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Mon, 21 Sep 2026 09:06:38 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 21 Sep 2026 09:40:48 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/tadqiqot/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Uzoq kontekstli LLM uchun RBS-Attention usuli</title>
+    <link>https://ailenta.uz/x/uzoq-kontekstli-llm-uchun-rbs-attention-usuli-340883/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/uzoq-kontekstli-llm-uchun-rbs-attention-usuli-340883/</guid>
+    <pubDate>Mon, 21 Sep 2026 04:00:00 GMT</pubDate>
+    <description>Uzoq kontekstli katta til modellarida xulosa chiqarish prefill bilan cheklanadi. RBS-Attention usuli bu muammoni hal qilish uchun taklif etildi. U ikki xil tanlash tarmog'idan foydalanadi.</description>
+    <category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/uzoq-kontekstli-llm-uchun-rbs-attention-usuli-340883.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/uzoq-kontekstli-llm-uchun-rbs-attention-usuli-340883.jpg"/>
+  </item>
   <item>
     <title>AI kod yozsa ham, muhandislar hali ham kerak</title>
     <link>https://ailenta.uz/x/ai-kod-yozsa-ham-muhandislar-hali-ham-kerak-3f6533/</link>
@@ -296,16 +306,6 @@
     <category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/sun-iy-intellekt-inson-prognozchilaridan-ustun-kelmoqda-0049f3.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/sun-iy-intellekt-inson-prognozchilaridan-ustun-kelmoqda-0049f3.jpg"/>
-  </item>
-  <item>
-    <title>Matematiklar AI rivojlanishidan xavotir bildirdi</title>
-    <link>https://ailenta.uz/x/matematiklar-ai-rivojlanishidan-xavotir-bildirdi-8598eb/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/matematiklar-ai-rivojlanishidan-xavotir-bildirdi-8598eb/</guid>
-    <pubDate>Thu, 17 Sep 2026 04:00:40 GMT</pubDate>
-    <description>OpenAI kompaniyasi yirik matematik muammoni hal qilganidan so'ng, nufuzli Fields medali sohiblaridan 25 nafari ochiq xat imzoladi. Ular AI kompaniyalari va matematika sohasi o'rtasidagi jiddiy nomuvofiqlikdan xavotirda.</description>
-    <category>OpenAI</category><category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/matematiklar-ai-rivojlanishidan-xavotir-bildirdi-8598eb.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/matematiklar-ai-rivojlanishidan-xavotir-bildirdi-8598eb.jpg"/>
   </item>
 </channel>
 </rss>
