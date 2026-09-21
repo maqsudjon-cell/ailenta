@@ -1,5 +1,48 @@
 [
   {
+    "id": "4c9291d46e14",
+    "slug": "tabby-startapi-buxgalterlar-ornini-bosuvchi-ai-yaratdi-4c9291",
+    "title": "Tabby startapi buxgalterlar o'rnini bosuvchi AI yaratdi",
+    "summary": "Sobiq buxgalter tomonidan yaratilgan Tabby platformasi real vaqt rejimida buxgalteriya hisobini yuritadi. Tizim mijozlarning hujjatlarini qayta ishlab, ularga biznesning foyda va zararlari haqida eng so'nggi ma'lumotlarni taqdim etadi.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-09-21T16:38:51.000Z",
+    "created": "2026-09-21T22:01:42.003Z",
+    "coverage": 1,
+    "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/21/with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "5609e51a5127",
+    "slug": "m5-ultra-chipli-mac-studio-sinovdan-otkazildi-5609e5",
+    "title": "M5 Ultra chipli Mac Studio sinovdan o'tkazildi",
+    "summary": "256 GB tezkor xotiraga ega yangi Mac Studio kompyuteri mahalliy AI agentlarini ishga tushirish uchun qulay qurilma deb topildi. U so'rovlarni qayta ishlash va matn yaratishda M3 Ultra modelidan sezilarli darajada o'zib ketgan.",
+    "tags": [
+      "Apple",
+      "agentlar"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-09-21T15:40:01.000Z",
+    "created": "2026-09-21T22:01:42.003Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/260921/p39",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "9a7ca5588c95",
     "slug": "ed-davey-superintellektual-aini-toxtatishga-chaqirdi-9a7ca5",
     "title": "Ed Davey superintellektual AI'ni to'xtatishga chaqirdi",
