@@ -1,5 +1,181 @@
 [
   {
+    "id": "4ccdcd928c19",
+    "slug": "aqsh-2028-yil-prezidentlikka-nomzodlar-ai-haqida-4ccdcd",
+    "title": "AQSh 2028 yil prezidentlikka nomzodlar AI haqida",
+    "summary": "AQShda 2028 yilgi prezidentlikka nomzodlar sun'iy intellekt bo'yicha o'z pozitsiyalarini bildirmoqda. Demokratlar yangi himoya choralarini qo'llab-quvvatlasa, Respublikachilar texnologiyani sekinlashtirishga qarshi.",
+    "tags": [
+      "siyosat",
+      "qonun"
+    ],
+    "importance": 3,
+    "score": 27,
+    "published": "2026-09-21T16:53:07.000Z",
+    "created": "2026-09-21T18:36:32.296Z",
+    "coverage": 1,
+    "source": {
+      "name": "The New York Times",
+      "url": "https://nytimes.com/2026/09/21/us/politics/2028-presidential-race-artificial-intelligence.html",
+      "title": "How Potential 2028 Presidential Candidates Are Talking About A.I.",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "c0ce65334154",
+    "slug": "macos-27-ai-modellarni-yuklamasdan-joy-tejash-c0ce65",
+    "title": "macOS 27: AI modellarni yuklamasdan joy tejash",
+    "summary": "macOS 27 operatsion tizimida AI modellarni yuklab olmasdan xotira joyini tejash imkonini beruvchi yechim topildi. Bu foydalanuvchilarga qurilma xotirasini samarali boshqarishga yordam beradi.",
+    "tags": [
+      "Apple"
+    ],
+    "importance": 2,
+    "score": 20.5,
+    "published": "2026-09-21T14:10:49.000Z",
+    "created": "2026-09-21T18:36:36.051Z",
+    "coverage": 1,
+    "source": {
+      "name": "Hacker News",
+      "url": "https://reddit.com/r/MacOSBeta/comments/1vlnf13/workaround_to_avoid_downloading_ai_models_and",
+      "title": "macOS 27: Workaround to avoid downloading AI models and save storage",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "8b64befa0499",
+    "slug": "nvidia-ai-zavodlari-uchun-quvvat-va-sovutish-mahsulotlarini--8b64be",
+    "title": "Nvidia AI zavodlari uchun quvvat va sovutish mahsulotlarini tasdiqlaydi",
+    "summary": "Nvidia DSX Ready dasturini ishga tushirmoqda. Bu dastur AI zavodlari uchun quvvat va sovutish mahsulotlarini tasdiqlaydi. Maqsad — quruvchilarga to'g'ri mahsulot tanlashda yordam berish va AI samaradorligini oshirish.",
+    "tags": [
+      "Nvidia",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 36,
+    "published": "2026-09-21T18:00:07.000Z",
+    "created": "2026-09-21T18:39:09.721Z",
+    "coverage": 1,
+    "source": {
+      "name": "Nvidia",
+      "url": "https://blogs.nvidia.com/blog/dsx-ready-ai-factories-power-cooling",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "bcea746a5d4b",
+    "slug": "trump-va-xi-ai-boyicha-muzokaralarda-bcea74",
+    "title": "Trump va Xi AI bo'yicha muzokaralarda",
+    "summary": "Vashington va Pekin AI sohasida tobora bog'lanib bormoqda. Kelgusi Trump-Xi sammitida apparat eksporti va texnologik cheklovlar muzokaralarda muhim rol o'ynaydi.",
+    "tags": [
+      "siyosat",
+      "biznes"
+    ],
+    "importance": 4,
+    "score": 23,
+    "published": "2026-09-21T18:33:02.000Z",
+    "created": "2026-09-21T18:39:09.721Z",
+    "coverage": 1,
+    "source": {
+      "name": "Wired",
+      "url": "https://wired.com/story/ai-tariffs-rare-minerals-what-to-expect-from-trumps-upcoming-summit-with-xi-jinping",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "8a4bda5d8904",
+    "slug": "buyuk-britaniya-ai-chatbotlardan-voz-kechishga-chaqirmoqda-8a4bda",
+    "title": "Buyuk Britaniya AI chatbotlardan voz kechishga chaqirmoqda",
+    "summary": "Buyuk Britaniyaning Citizens Advice tashkiloti xizmat ko'rsatuvchi provayderlarni AI chatbotlaridan foydalanishni kamaytirishga undadi. Ular mijozlarga inson bilan gaplashish huquqini kafolatlashni talab qilmoqda.",
+    "tags": [
+      "biznes",
+      "qonun"
+    ],
+    "importance": 3,
+    "score": 23,
+    "published": "2026-09-21T16:35:31.000Z",
+    "created": "2026-09-21T18:39:09.721Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/technology/2026/sep/21/stop-relying-on-chatbots-for-customer-care-uk-service-providers-urged",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "f8a26a5a5b56",
+    "slug": "aidan-yozish-uchun-foydalanmang-f8a26a",
+    "title": "AI'dan yozish uchun foydalanmang",
+    "summary": "Hacker News manbasi AI'dan yozish uchun foydalanmaslikni tavsiya qildi. Bu AI tomonidan yaratilgan matnlarning sifati yoki ishonchliligi bilan bog'liq bo'lishi mumkin.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 19.8,
+    "published": "2026-09-21T08:54:44.000Z",
+    "created": "2026-09-21T18:39:09.721Z",
+    "coverage": 1,
+    "source": {
+      "name": "Hacker News",
+      "url": "https://paulbakker.io/writing/no-ai-for-writing",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "21312729ce50",
+    "slug": "bmtda-jahon-yetakchilari-ai-xavotirlarini-muhokama-qildi-213127",
+    "title": "BMTda jahon yetakchilari AI xavotirlarini muhokama qildi",
+    "summary": "Birlashgan Millatlar Tashkilotida jahon yetakchilari yig'ilib, urushlar va AI bilan bog'liq ogohlantirishlar hamda uning kelajagi haqidagi shubhalarni muhokama qildi.",
+    "tags": [
+      "siyosat",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-09-21T15:31:01.000Z",
+    "created": "2026-09-21T18:39:09.721Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/09/21/un-meeting-ai-iran-ukraine-gaza-climate",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "da3defd4cef8",
+    "slug": "bmt-paneli-ai-agentlari-ustidan-nazorat-kafolatlanmagan-da3def",
+    "title": "BMT paneli AI agentlari ustidan nazorat kafolatlanmagan",
+    "summary": "BMTning AI bo'yicha ilmiy paneli o'zining birinchi hisobotida insonlarning AI agentlari ustidan nazorati kafolatlanmaganligini ogohlantirdi. Yetakchi tizimlar himoya choralarini ataylab chetlab o'tishi mumkin.",
+    "tags": [
+      "xavfsizlik",
+      "tadqiqot"
+    ],
+    "importance": 5,
+    "score": 18,
+    "published": "2026-09-21T17:44:10.000Z",
+    "created": "2026-09-21T18:39:09.721Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/un-science-panel-says-there-is-no-assurance-humans-will-keep-control-over-ai-agents",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "a49b3696b8cf",
     "slug": "robot-blogerni-oktagonda-yiqitib-qolini-sindirdi-a49b36",
     "title": "Robot blogerni oktagonda yiqitib, qo'lini sindirdi",

@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/nvidia/</link>
   <description>&quot;Nvidia&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Mon, 21 Sep 2026 18:07:47 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 21 Sep 2026 18:42:44 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/nvidia/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Nvidia AI zavodlari uchun quvvat va sovutish mahsulotlarini tasdiqlaydi</title>
+    <link>https://ailenta.uz/x/nvidia-ai-zavodlari-uchun-quvvat-va-sovutish-mahsulotlarini--8b64be/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/nvidia-ai-zavodlari-uchun-quvvat-va-sovutish-mahsulotlarini--8b64be/</guid>
+    <pubDate>Mon, 21 Sep 2026 18:00:07 GMT</pubDate>
+    <description>Nvidia DSX Ready dasturini ishga tushirmoqda. Bu dastur AI zavodlari uchun quvvat va sovutish mahsulotlarini tasdiqlaydi. Maqsad — quruvchilarga to'g'ri mahsulot tanlashda yordam berish va AI samaradorligini oshirish.</description>
+    <category>Nvidia</category><category>biznes</category>
+    <media:content url="https://ailenta.uz/og/nvidia-ai-zavodlari-uchun-quvvat-va-sovutish-mahsulotlarini--8b64be.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/nvidia-ai-zavodlari-uchun-quvvat-va-sovutish-mahsulotlarini--8b64be.jpg"/>
+  </item>
   <item>
     <title>Fizik AI'ni keng miqyosda joriy etishda xavfsizlik muhim</title>
     <link>https://ailenta.uz/x/fizik-aini-keng-miqyosda-joriy-etishda-xavfsizlik-muhim-1bb976/</link>
@@ -296,16 +306,6 @@
     <category>Nvidia</category><category>chiplar</category>
     <media:content url="https://ailenta.uz/og/nvidia-ai-zavodlarida-energiya-istemolini-boshqarmoqda-997c7e.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/nvidia-ai-zavodlarida-energiya-istemolini-boshqarmoqda-997c7e.jpg"/>
-  </item>
-  <item>
-    <title>Nvidia Vera Rubin uchun energiya samaradorligini oshirdi</title>
-    <link>https://ailenta.uz/x/nvidia-vera-rubin-uchun-energiya-samaradorligini-oshirdi-7d0b8a/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/nvidia-vera-rubin-uchun-energiya-samaradorligini-oshirdi-7d0b8a/</guid>
-    <pubDate>Tue, 15 Sep 2026 16:55:53 GMT</pubDate>
-    <description>Nvidia Groq 3 LPX Deterministic Execution texnologiyasi yordamida Vera Rubin platformasida yuqori interaktiv xulosa chiqarishni energiya tejamkor qildi. Bu texnologiya samaradorlikni oshirishga qaratilgan.</description>
-    <category>Nvidia</category><category>chiplar</category>
-    <media:content url="https://ailenta.uz/og/nvidia-vera-rubin-uchun-energiya-samaradorligini-oshirdi-7d0b8a.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/nvidia-vera-rubin-uchun-energiya-samaradorligini-oshirdi-7d0b8a.jpg"/>
   </item>
 </channel>
 </rss>
