@@ -1,5 +1,137 @@
 [
   {
+    "id": "f41acf391d43",
+    "slug": "ipoteka-mobile-ilovasida-10-mln-so-mgacha-komissiyasiz-o-tka-f41acf",
+    "title": "Ipoteka Mobile ilovasida 10 mln soʻmgacha komissiyasiz oʻtkazma",
+    "summary": "Yangi Ipoteka Mobile ilovasi Humo va Uzcard kartalari oʻrtasidagi barcha oʻtkazmalarga 0% komissiya taklif qiladi. Bu Oʻzbekistonning istalgan banklari uchun amal qiladi.",
+    "tags": [
+      "O'zbekiston",
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 45,
+    "published": "2026-09-21T09:59:40.000Z",
+    "created": "2026-09-21T15:36:54.823Z",
+    "coverage": 1,
+    "source": {
+      "name": "Kun.uz",
+      "url": "https://kun.uz/news/2026/09/21/yangi-ipoteka-mobile-ilovasida-har-oy-10-mln-somgacha-mablagni-komissiyasiz-otkazing",
+      "title": "Yangi Ipoteka Mobile ilovasida har oy 10 mln soʻmgacha mablagʻni komissiyasiz oʻtkazing.",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "8bbe89e1845b",
+    "slug": "nvidia-ai-xavfsizligini-muhandislik-muammosi-deb-atadi-8bbe89",
+    "title": "Nvidia AI xavfsizligini muhandislik muammosi deb atadi",
+    "summary": "Nvidia AI xavfsizligini muhandislik muammosi deb ta'kidladi. Kompaniya aniq talablar, nazorat va himoya vositalariga kengroq kirishni taklif qiladi. Sanoat xavfsizlik muhandisligini tezlashtirishi kerak.",
+    "tags": [
+      "Nvidia",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 36,
+    "published": "2026-09-21T14:51:34.000Z",
+    "created": "2026-09-21T15:37:21.709Z",
+    "coverage": 1,
+    "source": {
+      "name": "Nvidia",
+      "url": "https://blogs.nvidia.com/blog/ai-security-agent-stack",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "dbc5aad4e420",
+    "slug": "kompaniyalar-ai-rivojlanishini-toxtatishi-dargumon-dbc5aa",
+    "title": "Kompaniyalar AI rivojlanishini to'xtatishi dargumon",
+    "summary": "WSJ nashri kompaniyalar sun'iy intellekt rivojlanishini to'xtatishi dargumon ekanligini ta'kidladi. Bu AI sohasidagi hozirgi tendensiyalarni aks ettiradi.",
+    "tags": [
+      "biznes",
+      "iqtisod"
+    ],
+    "importance": 2,
+    "score": 25.6,
+    "published": "2026-09-21T00:06:34.000Z",
+    "created": "2026-09-21T15:37:21.709Z",
+    "coverage": 1,
+    "source": {
+      "name": "WSJ",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZkIwRy1pNXB4WXItZ0tJbjhpNTA4dWpYc2JobjgyU3FaOGxObi10eDZab2hFZlduS2I2SzZ6QnprRll5ZHhVck5kNDZ6NFQ1UFdrcWVHWjc2VTRjbU9PVWtPLTN3TG5ldGdKQWVUXzB1OG10bk13X1Z6M2k2RnB4blNpbXVqdUMxR1RBdExTQQ",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "e13bc5ccb5cb",
+    "slug": "ai-hamkor-olimlar-tadqiqot-usullarini-ozgartirmoqda-e13bc5",
+    "title": "AI hamkor olimlar tadqiqot usullarini o'zgartirmoqda",
+    "summary": "Nature nashriga ko'ra, sun'iy intellekt hamkor olimlar tadqiqot olib borish usullarini tubdan o'zgartirmoqda. Bu ilmiy izlanishlarda AI'ning rolini oshirmoqda.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 21.6,
+    "published": "2026-09-21T00:00:00.000Z",
+    "created": "2026-09-21T15:37:21.709Z",
+    "coverage": 1,
+    "source": {
+      "name": "Nature",
+      "url": "https://nature.com/articles/d41586-026-02931-5",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "69bfe55eb52e",
+    "slug": "indeed-bosh-direktori-ai-soxta-arizalardan-xavotirda-69bfe5",
+    "title": "Indeed bosh direktori AI soxta arizalardan xavotirda",
+    "summary": "Indeed bosh direktori ish bozorida AI tomonidan yaratilgan va soxta arizalar tufayli muammolar borligini aytdi. Bu malakali nomzodlarning ishga kirishini qiyinlashtirmoqda.",
+    "tags": [
+      "mehnat bozori",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-09-21T15:07:09.000Z",
+    "created": "2026-09-21T15:37:21.709Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/09/21/indeed-ceo-hisayuki-idekoba-broken-hiring-process-ai-fake-applicants-recruiter-struggles-cant-find-right-talent",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "8b0934e440d2",
+    "slug": "schneider-ai-malumot-markazlari-suv-istemolini-kamaytiradi-8b0934",
+    "title": "Schneider AI ma'lumot markazlari suv iste'molini kamaytiradi",
+    "summary": "Schneider kompaniyasi suyuqlik bilan sovutiladigan AI ma'lumot markazlarida issiqroq sovutgichdan foydalanish suv iste'molini ikki baravar kamaytirishi mumkinligini aytdi. Bu samaradorlikni oshirishga yordam beradi.",
+    "tags": [
+      "biznes",
+      "iqtisod"
+    ],
+    "importance": 2,
+    "score": 19,
+    "published": "2026-09-21T14:29:00.000Z",
+    "created": "2026-09-21T15:37:21.709Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/on-prem/2026/09/21/schneider-says-hotter-coolant-can-make-ai-datacenters-less-thirsty/5297759",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "5bf5ac62199c",
     "slug": "nscale-shartnomalarining-85-microsoft-va-anthropicda-5bf5ac",
     "title": "Nscale shartnomalarining 85% Microsoft va Anthropicda",

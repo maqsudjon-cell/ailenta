@@ -5,7 +5,7 @@
   <link>https://ailenta.uz/mavzu/tadqiqot/</link>
   <description>&quot;tadqiqot&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Mon, 21 Sep 2026 15:05:06 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 21 Sep 2026 15:39:33 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/tadqiqot/rss.xml" rel="self" type="application/rss+xml"/>
   <item>
     <title>Mini-AGI: 8GB VRAMda o'qitilgan model taqdim etildi</title>
@@ -26,6 +26,16 @@
     <category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/rbs-attention-uslubi-taqdim-etildi-340883.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/rbs-attention-uslubi-taqdim-etildi-340883.jpg"/>
+  </item>
+  <item>
+    <title>AI hamkor olimlar tadqiqot usullarini o'zgartirmoqda</title>
+    <link>https://ailenta.uz/x/ai-hamkor-olimlar-tadqiqot-usullarini-ozgartirmoqda-e13bc5/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/ai-hamkor-olimlar-tadqiqot-usullarini-ozgartirmoqda-e13bc5/</guid>
+    <pubDate>Mon, 21 Sep 2026 00:00:00 GMT</pubDate>
+    <description>Nature nashriga ko'ra, sun'iy intellekt hamkor olimlar tadqiqot olib borish usullarini tubdan o'zgartirmoqda. Bu ilmiy izlanishlarda AI'ning rolini oshirmoqda.</description>
+    <category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/ai-hamkor-olimlar-tadqiqot-usullarini-ozgartirmoqda-e13bc5.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/ai-hamkor-olimlar-tadqiqot-usullarini-ozgartirmoqda-e13bc5.jpg"/>
   </item>
   <item>
     <title>AI kod yozsa ham, muhandislar hali ham kerak</title>
@@ -296,16 +306,6 @@
     <category>robototexnika</category><category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/robotlar-virtual-olamlarda-oqitilmoqda-3ceee4.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/robotlar-virtual-olamlarda-oqitilmoqda-3ceee4.jpg"/>
-  </item>
-  <item>
-    <title>Bend: AI xatolarini bloklovchi yangi dasturlash tili</title>
-    <link>https://ailenta.uz/x/bend-ai-xatolarini-bloklovchi-yangi-dasturlash-tili-91b198/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/bend-ai-xatolarini-bloklovchi-yangi-dasturlash-tili-91b198/</guid>
-    <pubDate>Thu, 17 Sep 2026 20:36:13 GMT</pubDate>
-    <description>Bend deb nomlangan yangi dasturlash tili AI xatolarini isbotlash orqali bloklashga mo‘ljallangan. U CPU va GPUlarda ishlay oladi.</description>
-    <category>tadqiqot</category><category>xavfsizlik</category>
-    <media:content url="https://ailenta.uz/og/bend-ai-xatolarini-bloklovchi-yangi-dasturlash-tili-91b198.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/bend-ai-xatolarini-bloklovchi-yangi-dasturlash-tili-91b198.jpg"/>
   </item>
 </channel>
 </rss>
