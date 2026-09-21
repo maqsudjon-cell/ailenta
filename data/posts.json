@@ -1,5 +1,76 @@
 [
   {
+    "id": "5bf5ac62199c",
+    "slug": "nscale-shartnomalarining-85-microsoft-va-anthropicda-5bf5ac",
+    "title": "Nscale shartnomalarining 85% Microsoft va Anthropicda",
+    "summary": "Nscale kompaniyasining S-1 hujjatiga ko'ra, uning 103 milliard dollarlik shartnoma qiymatining 85%i Microsoft va Anthropic hissasiga to'g'ri keladi. Avgust oxirida bu shartnomalarning atigi 2,6 milliard dollari faol edi.",
+    "tags": [
+      "Microsoft",
+      "Anthropic"
+    ],
+    "importance": 3,
+    "score": 24,
+    "published": "2026-09-21T13:45:00.000Z",
+    "created": "2026-09-21T14:26:38.250Z",
+    "coverage": 2,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/260921/p33",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "Bloomberg.com",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWDR1ZzBnN3IwblJpX2RXNWtCdVIxNi0xcm1NSklQcm93anRDd0p1cVlXME1Ua1QySExvYWExYWhHdzBTeFdMeENBZ1Fqb0U2NXIybDZxT1Qxc2R3WmpwYUFraktNV21CWnZPZ185cTNQTUFYbUJGcHhGYkdUc3pVODhrNDRpUHN6S0ZiMzY2eldkTWp0QzNpd2l6U0VhMlFTRWpjallBcHRWdTBBd3dxUUpySlg0RThY"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "52da40a3e7d4",
+    "slug": "aqsh-markazlari-nvidia-bilan-samaraliroq-iflosroq-52da40",
+    "title": "AQSh markazlari Nvidia bilan: samaraliroq, iflosroq",
+    "summary": "AQSh ma'lumot markazlari Nvidia uskunalari yordamida samaradorlikni oshirmoqda. Biroq, energiya emissiyasi cheklovlari bekor qilinayotgani sababli ular iflosroq bo'lishi mumkin.",
+    "tags": [
+      "Nvidia",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-09-21T11:15:00.000Z",
+    "created": "2026-09-21T14:26:38.250Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/systems/2026/09/21/american-datacenters-might-be-getting-dirtier-but-at-least-theyll-be-efficient/5297526",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "bf01272a47d2",
+    "slug": "google-agentlari-hamkor-xatosi-tufayli-kimgadir-buzib-kirdi-bf0127",
+    "title": "Google agentlari hamkor xatosi tufayli kimgadir buzib kirdi",
+    "summary": "Google agentlari hamkorining internetga kirish xatosi tufayli kimgadir buzib kirgan. Kompaniya bu hodisani bir necha oy davomida sir saqlagan.",
+    "tags": [
+      "Google",
+      "xavfsizlik"
+    ],
+    "importance": 4,
+    "score": 19,
+    "published": "2026-09-21T03:50:54.000Z",
+    "created": "2026-09-21T14:26:38.250Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/ai-and-ml/2026/09/21/google-joins-the-oops-our-agents-hacked-someone-club-after-partners-internet-access-error/5297640",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "d879ca20456b",
     "slug": "apple-mac-studio-m5-ultra-sharhi-yuqori-narx-d879ca",
     "title": "Apple Mac Studio (M5 Ultra) sharhi: yuqori narx",
