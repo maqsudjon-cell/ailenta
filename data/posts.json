@@ -1,5 +1,169 @@
 [
   {
+    "id": "051b9d49ef38",
+    "slug": "jensen-huang-ai-qiyomat-ssenariylarini-masuliyatsiz-deb-atad-051b9d",
+    "title": "Jensen Huang AI qiyomat ssenariylarini mas'uliyatsiz deb atadi",
+    "summary": "Nvidia bosh direktori Jensen Huang sun'iy intellekt yetakchilarini \"qiyomat ssenariylari\" bilan jamoatchilikni qo'rqitishda mas'uliyatsiz deb hisoblaydi. Uning fikricha, AI qiyomatining ehtimoli \"0%\" va ba'zi AI kashshoflari AI rivojlanishini sekinlashtirish uchun boshqa sabablarga ega bo'lishi mumkin.",
+    "tags": [
+      "Nvidia",
+      "siyosat"
+    ],
+    "importance": 4,
+    "score": 28,
+    "published": "2026-09-21T18:58:24.000Z",
+    "created": "2026-09-22T02:02:52.788Z",
+    "coverage": 2,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/09/21/jensen-huang-ai-leaders-doomsday-narratives",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "Fortune",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPakNFUVoyY1ZPYTFzbkVGd0w2NjVSTEtpcEdaU0tEclJydlItMUVzNFpab1pVUUI0ZkRHTjVYYWhta0cxbTJDNWNOMEs5ajlEY09GM3BtcGpWYVRqQzY2RXhWS3E4d3Q2a015UXptV3o1VDJRRXEwTXJTSTR2eXhXVw"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "780c077a141f",
+    "slug": "anthropic-bilan-bogliq-225-ta-zaiflik-topildi-780c07",
+    "title": "Anthropic bilan bog'liq 225 ta zaiflik topildi",
+    "summary": "Glasswing tomonidan Anthropic bilan bog'liq 225 ta zaiflik aniqlandi. VulnCheck tadqiqotchisi kuzatuviga ko'ra, ulardan faqat bittasi amalda ekspluatatsiya qilingani tasdiqlangan.",
+    "tags": [
+      "Anthropic",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-09-21T22:32:51.000Z",
+    "created": "2026-09-22T02:02:52.788Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/security/2026/09/21/anthropic-linked-cves-pile-up-attackers-mostly-shrug/5298018",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "59410c16b525",
+    "slug": "trump-va-xi-savdo-barqarorligini-izlamoqda-59410c",
+    "title": "Trump va Xi savdo barqarorligini izlamoqda",
+    "summary": "Trump va Xi savdo barqarorligi hamda kelishuvlarga erishishga intilmoqda. Muzokaralarda AI, tariflar va Eron masalalari muhim o'rin tutadi. Trump o'rta muddatli saylovlar oldidan iqtisodiy reytingi pastligi sababli savdo yutuqlarini ko'rsatishga intiladi.",
+    "tags": [
+      "siyosat",
+      "iqtisod"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-09-21T22:25:33.000Z",
+    "created": "2026-09-22T02:02:52.788Z",
+    "coverage": 1,
+    "source": {
+      "name": "CNBC",
+      "url": "https://cnbc.com/2026/09/21/trump-xi-china-summit-trade-tariffs.html",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "61607822b526",
+    "slug": "hygon-cpu1000-physical-ai-chekka-chipini-taqdim-etdi-616078",
+    "title": "Hygon CPU1000 Physical-AI chekka chipini taqdim etdi",
+    "summary": "Hygon Shenzhen shahrida CPU1000-seriyali protsessorini ishga tushirmoqda. Ushbu chip robototexnika, mashinani ko'rish va aqlli ishlab chiqarish uchun kam quvvatli chekka hisoblashga mo'ljallangan bo'lib, kompaniyaning ma'lumot markazi CPU liniyalaridan tashqariga chiqadi.",
+    "tags": [
+      "chiplar",
+      "robototexnika"
+    ],
+    "importance": 3,
+    "score": 18,
+    "published": "2026-09-22T01:58:42.000Z",
+    "created": "2026-09-22T02:02:52.788Z",
+    "coverage": 1,
+    "source": {
+      "name": "Pandaily",
+      "url": "https://pandaily.com/hygon-cpu1000-series-physical-ai-edge-chip-shenzhen",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "72f5b82efc02",
+    "slug": "anthropic-redditning-ai-kontentini-yigish-davosini-rad-eta-o-72f5b8",
+    "title": "Anthropic Reddit'ning AI kontentini yig'ish da'vosini rad eta olmadi",
+    "summary": "Anthropic kompaniyasi Reddit tomonidan AI kontentini yig'ish va maxfiylik bo'yicha qo'zg'atilgan da'voni rad etishga muvaffaq bo'lmadi.",
+    "tags": [
+      "Anthropic",
+      "sud"
+    ],
+    "importance": 4,
+    "score": 16,
+    "published": "2026-09-22T01:44:00.000Z",
+    "created": "2026-09-22T02:02:52.788Z",
+    "coverage": 2,
+    "source": {
+      "name": "Law360",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQblNSNWhKQlVid1FJZDBkaEo5NlV5MWFIUEJYTkowdU1qXzd1eVdwRHJvR01oWWpSaVhSZlBSUi1JYjRnRHdZQ3NQNHpybU14MWJnM1B2dlRFbUhLQ0ZlcF9GNHI2OHBPejIza1gwRW5xWnBtbXQyTElNcGtjbmlIX3VYYThEdkh4c0NXSUotSFpDY2FMTFNQSlFrNNIBVkFVX3lxTE1fU0U0eHZGVVRCZE45Tm9yUmVqSHpBMzFDQ0pNV25ja3FrRG1PUmk4aktKdHo0dUQ0dlFsZWVqV01nR1hlbHNhMWVZR2tZOHlJTURkQmtB",
+      "indirect": true
+    },
+    "also": [
+      {
+        "name": "Bloomberg Law News",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNTl1STBYZjVWbGxndFA1Skd3VERaUzFTWXRWand1anpUWnlCMVBaaGxNUWlyLTBfNjczOFVjUmhSM0JVM2pOS2tueHdod21uUEhLX3Y4a0dYMXVHa195ZHg1Q0kzVjFib2FWRFcwX0Vzd21YRWNHd2J1d1pkNkY3QXBhMDVSZTRRS2RUelQyYXpHSVhNTlVCSF8wUFNkc0pH"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "d360e6e132e2",
+    "slug": "global-savdo-ai-va-raqamli-infratuzilmada-ishlashi-mumkin-d360e6",
+    "title": "Global savdo AI va raqamli infratuzilmada ishlashi mumkin",
+    "summary": "Global savdo jarayonlari hali ham an'anaviy usullarga tayanadi. IQAX kompaniyasi global savdoning keyingi bosqichini AI, elektron yuk xatlari va raqamli infratuzilma asosida ishlashini ta'minlash uchun harakat qilmoqda.",
+    "tags": [
+      "biznes",
+      "iqtisod"
+    ],
+    "importance": 2,
+    "score": 13,
+    "published": "2026-09-21T08:56:25.000Z",
+    "created": "2026-09-22T02:02:52.788Z",
+    "coverage": 1,
+    "source": {
+      "name": "TechNode",
+      "url": "https://technode.com/2026/09/21/the-next-layer-of-global-trade-could-run-on-ai-ebls-and-digital-infrastructure-as-iqax-works-to-connect-the-pieces",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "0be8f04d6753",
+    "slug": "anthropic-avstraliya-ilm-faniga-yana-10-mln-dollar-sarmoya-k-0be8f0",
+    "title": "Anthropic Avstraliya ilm-faniga yana 10 mln dollar sarmoya kiritdi",
+    "summary": "Anthropic kompaniyasi Avstraliya ilm-faniga yana 10 million dollar sarmoya kiritdi. Bu sun'iy intellekt sohasidagi hamkorlik aloqalari kengayib borayotgani bilan bog'liq.",
+    "tags": [
+      "Anthropic",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 10,
+    "published": "2026-09-22T00:29:04.000Z",
+    "created": "2026-09-22T02:02:52.788Z",
+    "coverage": 1,
+    "source": {
+      "name": "BiotechDispatch",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaU9PU3AtcTMydFU5TnZRazJ5QlhNLU1FbzZFam9NV19jZlc4ZlNsRmxfMHJXR2E4bTJnTDQwLXBSMzRVZ2ZUWkVmb1FySFJvRU9DX0FDVW1lWndsM2dKUjR3WUJaLThrVG5leXhsM0lJRDVfSmdNcUNHTnlQZEpRQThkMHNMWUZSRkhoNEhKM01od2I4SUVKTjk5Qjg3akxnXzNMMnozZG1mMUE3Y1I5WXNxbkZzX25iLUE",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "61783c7c535d",
     "slug": "bmt-hukumatlarni-ai-agentlarini-jilovlashga-chaqirdi-61783c",
     "title": "BMT hukumatlarni AI agentlarini jilovlashga chaqirdi",
