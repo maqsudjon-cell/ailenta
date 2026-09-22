@@ -5,7 +5,7 @@
   <link>https://ailenta.uz/mavzu/chiplar/</link>
   <description>&quot;chiplar&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Tue, 22 Sep 2026 06:40:15 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 22 Sep 2026 07:05:41 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/chiplar/rss.xml" rel="self" type="application/rss+xml"/>
   <item>
     <title>Hygon CPU1000 Physical-AI chekka chipini taqdim etdi</title>
@@ -16,6 +16,16 @@
     <category>chiplar</category><category>robototexnika</category>
     <media:content url="https://ailenta.uz/og/hygon-cpu1000-physical-ai-chekka-chipini-taqdim-etdi-616078.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/hygon-cpu1000-physical-ai-chekka-chipini-taqdim-etdi-616078.jpg"/>
+  </item>
+  <item>
+    <title>«Frontier AI»ni shaxsiy qurilmada ishga tushirish</title>
+    <link>https://ailenta.uz/x/frontier-ai-ni-shaxsiy-qurilmada-ishga-tushirish-1d6558/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/frontier-ai-ni-shaxsiy-qurilmada-ishga-tushirish-1d6558/</guid>
+    <pubDate>Mon, 21 Sep 2026 18:53:01 GMT</pubDate>
+    <description>Hacker News nashri «frontier AI» modellarini shaxsiy qurilmalarda ishga tushirish imkoniyatlari haqida xabar berdi. Bu mahalliy xulosa chiqarishga oid mavzu.</description>
+    <category>chiplar</category><category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/frontier-ai-ni-shaxsiy-qurilmada-ishga-tushirish-1d6558.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/frontier-ai-ni-shaxsiy-qurilmada-ishga-tushirish-1d6558.jpg"/>
   </item>
   <item>
     <title>AMD Ryzen AI Halo'da mahalliy xulosa chiqarish sinovlari</title>
@@ -296,16 +306,6 @@
     <category>chiplar</category><category>biznes</category>
     <media:content url="https://ailenta.uz/og/thelio-mira-ai-linux-ish-stansiyasi-taqdim-etildi-9da998.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/thelio-mira-ai-linux-ish-stansiyasi-taqdim-etildi-9da998.jpg"/>
-  </item>
-  <item>
-    <title>d-Matrix o‘z chiplari uchun Nvidia texnologiyasini tanladi</title>
-    <link>https://ailenta.uz/x/d-matrix-o-z-chiplari-uchun-nvidia-texnologiyasini-tanladi-ea4d3b/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/d-matrix-o-z-chiplari-uchun-nvidia-texnologiyasini-tanladi-ea4d3b/</guid>
-    <pubDate>Thu, 10 Sep 2026 13:00:21 GMT</pubDate>
-    <description>Sun'iy intellekt chiplari ishlab chiqaruvchi d-Matrix kompaniyasi o'zining Raptor chiplarini Nvidia infratuzilmasiga ulash uchun NVLink Fusion texnologiyasidan foydalanadi. Bu d-Matrix mahsulotlarini Nvidia platformasi bilan integratsiya qilish imkonini beradi.</description>
-    <category>Nvidia</category><category>chiplar</category>
-    <media:content url="https://ailenta.uz/og/d-matrix-o-z-chiplari-uchun-nvidia-texnologiyasini-tanladi-ea4d3b.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/d-matrix-o-z-chiplari-uchun-nvidia-texnologiyasini-tanladi-ea4d3b.jpg"/>
   </item>
 </channel>
 </rss>

@@ -1,5 +1,246 @@
 [
   {
+    "id": "fb8ad85c459c",
+    "slug": "omlx-yaratuvchisi-jun-kim-hugging-facega-qoshildi-fb8ad8",
+    "title": "oMLX yaratuvchisi Jun Kim Hugging Face'ga qo'shildi",
+    "summary": "oMLX loyihasining yaratuvchisi va boshqaruvchisi Jun Kim Hugging Face kompaniyasiga ishga kirdi. U MLX hamjamiyatini qo'llab-quvvatlashga yordam beradi.",
+    "tags": [
+      "Hugging Face",
+      "mehnat bozori"
+    ],
+    "importance": 2,
+    "score": 25,
+    "published": "2026-09-22T00:00:00.000Z",
+    "created": "2026-09-22T07:01:58.691Z",
+    "coverage": 1,
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/blog/omlx",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "1d6558f4da19",
+    "slug": "frontier-ai-ni-shaxsiy-qurilmada-ishga-tushirish-1d6558",
+    "title": "«Frontier AI»ni shaxsiy qurilmada ishga tushirish",
+    "summary": "Hacker News nashri «frontier AI» modellarini shaxsiy qurilmalarda ishga tushirish imkoniyatlari haqida xabar berdi. Bu mahalliy xulosa chiqarishga oid mavzu.",
+    "tags": [
+      "chiplar",
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 20.6,
+    "published": "2026-09-21T18:53:01.000Z",
+    "created": "2026-09-22T07:01:58.691Z",
+    "coverage": 1,
+    "source": {
+      "name": "Hacker News",
+      "url": "https://timdettmers.com/2026/09/21/dlab-open-source-week",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "ea5a46f75f18",
+    "slug": "alibaba-cloud-20gw-malumot-markazlari-quradi-ea5a46",
+    "title": "Alibaba Cloud 20GW ma'lumot markazlari quradi",
+    "summary": "Alibaba Cloud olti yil ichida 20 gigavatt quvvatga ega ma'lumot markazlari qurishni rejalashtirmoqda. Kompaniya ularni quvvatlantirish uchun chipni ham taqdim etdi.",
+    "tags": [
+      "Alibaba",
+      "bulut"
+    ],
+    "importance": 4,
+    "score": 19,
+    "published": "2026-09-22T05:42:32.000Z",
+    "created": "2026-09-22T07:01:58.691Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/off-prem/2026/09/22/alibaba-cloud-plans-six-year-stroll-to-20gw-of-datacenters-reveals-chip-to-power-them/5298062",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "c2d4317c578d",
+    "slug": "robin-williams-qizi-ai-videolariga-qarshi-chiqdi-c2d431",
+    "title": "Robin Williams qizi AI videolariga qarshi chiqdi",
+    "summary": "Aktyor Robin Williamsning qizi sun'iy intellekt yordamida otasining videolarini yaratayotgan muxlislarni tanqid qildi. U ularni «uyalishga» chaqirdi.",
+    "tags": [
+      "maxfiylik",
+      "qonun"
+    ],
+    "importance": 3,
+    "score": 18.3,
+    "published": "2026-09-22T01:24:49.000Z",
+    "created": "2026-09-22T07:01:58.691Z",
+    "coverage": 1,
+    "source": {
+      "name": "Hacker News",
+      "url": "https://variety.com/2026/film/news/robin-williams-daughter-ai-videos-1236871568",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "9b901fd41d26",
+    "slug": "goldman-sachs-ai-agentlar-biznes-modelini-baholadi-9b901f",
+    "title": "Goldman Sachs AI agentlar biznes modelini baholadi",
+    "summary": "Goldman Sachs AI agentlari uchun keyingi muhim savol ularning qanday daromad keltirishi ekanini aytdi. Reklama va obunalar eng yirik biznes modeliga aylanishi mumkin.",
+    "tags": [
+      "biznes",
+      "agentlar"
+    ],
+    "importance": 3,
+    "score": 18,
+    "published": "2026-09-22T06:20:34.000Z",
+    "created": "2026-09-22T07:01:58.691Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/meta-muse-ai-agent-how-ai-agents-make-money-goldman-2026-9",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "52faf7b6c0fc",
+    "slug": "robotlar-xavfli-korsatmalarni-rad-etadimi-52faf7",
+    "title": "Robotlar xavfli ko'rsatmalarni rad etadimi",
+    "summary": "Hacker News nashri «frontier» robot siyosatlari xavfli ko'rsatmalarni rad etish-etmasligi haqida savol ko'tardi. Bu robototexnika xavfsizligi bo'yicha muhim mavzu.",
+    "tags": [
+      "robototexnika",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 16.8,
+    "published": "2026-09-21T18:58:26.000Z",
+    "created": "2026-09-22T07:01:58.691Z",
+    "coverage": 1,
+    "source": {
+      "name": "Hacker News",
+      "url": "https://robocurve.org/roboharm",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "4bbe73edcfd1",
+    "slug": "spott-ai-rekruting-platformasi-21-mln-dollar-yigdi-4bbe73",
+    "title": "Spott AI rekruting platformasi 21 mln dollar yig'di",
+    "summary": "Belgiyaning Spott AI rekruting platformasi Balderton boshchiligida 21 million dollar Series A sarmoyasini jalb qildi. Kompaniyaning umumiy moliyalashtirishi 24 million dollarga yetdi.",
+    "tags": [
+      "biznes",
+      "mehnat bozori"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-09-22T05:50:02.000Z",
+    "created": "2026-09-22T07:01:58.691Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/260922/p4",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "a4c768cfe9bf",
+    "slug": "rick-rubin-ai-sanatida-ijodkorlik-sorovda-dedi-a4c768",
+    "title": "Rick Rubin AI san'atida ijodkorlik so'rovda dedi",
+    "summary": "Def Jam asoschilaridan biri Rick Rubinning aytishicha, sun'iy intellekt san'atidagi ijodkorlik so'rovda (prompt) yashiringan. U AI ko'proq odamlarga san'at yaratish imkonini beradi deb hisoblaydi.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-09-22T04:45:17.000Z",
+    "created": "2026-09-22T07:01:58.691Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/def-jam-rick-rubin-ai-art-creativity-prompt-ideation-2026-9",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "44aec132009f",
+    "slug": "kaliforniya-va-texas-malumot-markazlarini-tartibga-soladi-44aec1",
+    "title": "Kaliforniya va Texas ma'lumot markazlarini tartibga soladi",
+    "summary": "Kaliforniya va Texas shtatlari gubernatorlari ma'lumot markazlari qurilishini tartibga solmoqda. Bu ikki partiyaviy norozilik fonida amalga oshirilmoqda.",
+    "tags": [
+      "siyosat",
+      "qonun"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-09-22T00:44:54.000Z",
+    "created": "2026-09-22T07:01:58.691Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/california-texas-data-center-regulation-newsom-abbott-bipartisan-backlash-2026-9",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "0f2c3f79f9dc",
+    "slug": "ai-meritokratiyaga-tasir-qilishi-mumkin-0f2c3f",
+    "title": "AI meritokratiyaga ta'sir qilishi mumkin",
+    "summary": "Hacker News nashri sun'iy intellektning meritokratiyaga ta'siri haqida xabar berdi. AI yuqori martabaga erishish imkoniyatlarini o'zgartirishi mumkin.",
+    "tags": [
+      "mehnat bozori",
+      "iqtisod"
+    ],
+    "importance": 2,
+    "score": 14.1,
+    "published": "2026-09-21T12:07:16.000Z",
+    "created": "2026-09-22T07:01:58.691Z",
+    "coverage": 1,
+    "source": {
+      "name": "Hacker News",
+      "url": "https://noemamag.com/the-end-of-upward-mobility",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "8e8e1df9dca3",
+    "slug": "ai-agentlari-kodni-tez-yozadi-ammo-reliz-sekin-8e8e1d",
+    "title": "AI agentlari kodni tez yozadi, ammo reliz sekin",
+    "summary": "Habr nashri AI kodlash agentlari bilan 30 kunlik tajriba haqida xabar berdi. Agentlar kodni tez yozsa-da, loyihalarni ishlab chiqarishga chiqarish jarayoni sekinlashgan.",
+    "tags": [
+      "agentlar",
+      "mehnat bozori"
+    ],
+    "importance": 3,
+    "score": 14,
+    "published": "2026-09-22T06:38:00.000Z",
+    "created": "2026-09-22T07:01:58.691Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1084962",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "6d73aa108f67",
     "slug": "amd-1-trillion-dollarlik-kompaniyalar-safiga-qoshildi-6d73aa",
     "title": "AMD 1 trillion dollarlik kompaniyalar safiga qo'shildi",
