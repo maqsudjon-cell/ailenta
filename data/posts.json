@@ -1,5 +1,76 @@
 [
   {
+    "id": "48bea669b19d",
+    "slug": "texasda-malumot-markazlariga-ruxsat-berish-toxtatildi-48bea6",
+    "title": "Texasda ma'lumot markazlariga ruxsat berish to'xtatildi",
+    "summary": "Texas gubernatori Greg Abbott moratoriydan bir necha hafta o'tib, ma'lumot markazlariga ruxsatnomalar berishni to'xtatishni buyurdi. Bu masala shtatdagi 2026 yilgi oraliq saylovlarda asosiy bahsli mavzuga aylangan.",
+    "tags": [
+      "siyosat",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-09-21T22:46:26.000Z",
+    "created": "2026-09-22T00:03:50.533Z",
+    "coverage": 1,
+    "source": {
+      "name": "CNBC",
+      "url": "https://cnbc.com/2026/09/21/texas-governor-abbott-ai-data-center-permits.html",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "77dfa83bda6a",
+    "slug": "shopify-metaning-muse-agenti-bilan-xaridlarni-yolga-qoymoqda-77dfa8",
+    "title": "Shopify Meta'ning Muse agenti bilan xaridlarni yo'lga qo'ymoqda",
+    "summary": "Shopify Meta kompaniyasining Muse shaxsiy AI agentiga Shop Pay orqali foydalanuvchilar nomidan xaridlarni amalga oshirishga ruxsat bermoqchi. Bu xususiyat platforma tarmog'idagi do'konlarda ishlaydi.",
+    "tags": [
+      "Meta",
+      "agentlar"
+    ],
+    "importance": 3,
+    "score": 18,
+    "published": "2026-09-21T23:55:00.000Z",
+    "created": "2026-09-22T00:03:50.534Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/260921/p55",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "97a5a4988b27",
+    "slug": "nvidia-chiplari-chiqindisi-komir-giganti-bilan-tenglashdi-97a5a4",
+    "title": "Nvidia chiplari chiqindisi ko'mir giganti bilan tenglashdi",
+    "summary": "Yangi hisobotga ko'ra, Nvidia chiplaridan foydalanish tufayli havoga chiqariladigan chiqindilar miqdori Rossiyaning davlat ko'mir ishlab chiqaruvchisi darajasiga yetgan.",
+    "tags": [
+      "Nvidia",
+      "chiplar"
+    ],
+    "importance": 3,
+    "score": 12.9,
+    "published": "2026-09-21T11:51:55.000Z",
+    "created": "2026-09-22T00:03:50.534Z",
+    "coverage": 2,
+    "source": {
+      "name": "Newswav",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTklrcmtPbmUyQ3N3b3h3Qm9mR2c1Y3hlcmY0Y1lqd0NpMjRHNXZEcTR6c0w0b2FWRUJLdlYtVG1BTmwydkVCOUdoOWhMbGxhVFU0cmxoWS1hMTdaeHRsbGFGS0cySm1EbFV4QTNyR2d6SEFGLUlRVkhUMzBsZUEwTktYVzhyTk9pMEw5cDc3d3BNSmJtOWU4ajI3Q0hGeVlqNDYzQS1Ma2dSWEh0ZGdkN1V1WndDT28",
+      "indirect": true
+    },
+    "also": [
+      {
+        "name": "Euronews",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOLWdvbnFmVUI0amlUSXhwaW1yNDB0Ui1ZWi1IaVpSaC1aS1NUODVDQ1lmdnZsNFYtRkhmb25TdVVFUXJVdFo4Q1FObVc5TU5lcV84bVdTRmxJUHU0SVNzdHlaZDczaV9FOC1sa1Rfam45RmFZRVBBYTUyZkwyejlYb1VNUmJFcU5VbmlFeHZZM1haaWlLOUVCdHY0elRTdUxEdElBdXFZOC1US0RVX3RabWJETVFTTmpfNkR0OXMxMA"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
     "id": "50ca156965d5",
     "slug": "anthropic-kompaniyasi-2-trln-dollarga-baholanishi-mumkin-50ca15",
     "title": "Anthropic kompaniyasi 2 trln dollarga baholanishi mumkin",
