@@ -1,5 +1,50 @@
 [
   {
+    "id": "6e5902342a33",
+    "slug": "ai-falokat-yoki-shaxsiy-yordamchi-6e5902",
+    "title": "AI: falokat yoki shaxsiy yordamchi",
+    "summary": "Texnologiya olami sun'iy intellektni falokat yoki shaxsiy yordamchi sifatida taqdim etmoqda. AI falokati haqidagi ogohlantirishlardan so'ng, ba'zi odamlar shaxsiy AI agentlaridan mamnun.",
+    "tags": [
+      "agentlar",
+      "siyosat"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-09-22T21:02:12.000Z",
+    "created": "2026-09-22T23:53:13.234Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/ai-apocalypse-agents-share-something-in-common-meta-muse-anthropic-2026-9",
+      "title": "The tech world is selling you an AI apocalypse or an AI assistant. Just don't forget it's selling you something.",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "65bd760f42d7",
+    "slug": "mckinsey-ai-xarajatlari-oshishi-haqida-ogohlantirdi-65bd76",
+    "title": "McKinsey AI xarajatlari oshishi haqida ogohlantirdi",
+    "summary": "McKinsey kompaniyalarni sun'iy intellektga sarflanadigan xarajatlar yanada oshishi mumkinligi haqida ogohlantirdi. Agentlarni qabul qilish bilan bu xarajatlar kamroq bashorat qilinadigan bo'lishi mumkin.",
+    "tags": [
+      "biznes",
+      "agentlar"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-09-22T22:50:18.000Z",
+    "created": "2026-09-22T23:54:11.673Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/mckinsey-ai-agent-costs-variable-expensive-2026-9",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "201084ad191f",
     "slug": "cyera-malumot-xavfsizligi-startapi-400m-mablag-yigdi-201084",
     "title": "Cyera ma'lumot xavfsizligi startapi $400M mablag' yig'di",
