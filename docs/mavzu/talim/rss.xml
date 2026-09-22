@@ -5,7 +5,7 @@
   <link>https://ailenta.uz/mavzu/talim/</link>
   <description>&quot;ta'lim&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Tue, 22 Sep 2026 19:04:51 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 22 Sep 2026 19:14:43 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/talim/rss.xml" rel="self" type="application/rss+xml"/>
   <item>
     <title>Andreessen Horowitz 42 mln dollar bilan akademiya ochmoqda</title>
@@ -16,6 +16,16 @@
     <category>biznes</category><category>ta'lim</category>
     <media:content url="https://ailenta.uz/og/andreessen-horowitz-42-mln-dollar-bilan-akademiya-ochmoqda-55764e.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/andreessen-horowitz-42-mln-dollar-bilan-akademiya-ochmoqda-55764e.jpg"/>
+  </item>
+  <item>
+    <title>Ona AI yordamida bolalari uchun mashg'ulot kitoblari yaratmoqda</title>
+    <link>https://ailenta.uz/x/ona-ai-yordamida-bolalari-uchun-mashgulot-kitoblari-yaratmoq-e1b741/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/ona-ai-yordamida-bolalari-uchun-mashgulot-kitoblari-yaratmoq-e1b741/</guid>
+    <pubDate>Tue, 22 Sep 2026 13:27:15 GMT</pubDate>
+    <description>Uch farzandning onasi ChatGPT yordamida bolalari uchun chop etiladigan vazifalar jadvallari va mashg'ulot kitoblarini yaratmoqda. Bu bolalarning ekran oldida o'tkazadigan vaqtini kamaytirishga yordam beradi.</description>
+    <category>OpenAI</category><category>ta'lim</category>
+    <media:content url="https://ailenta.uz/og/ona-ai-yordamida-bolalari-uchun-mashgulot-kitoblari-yaratmoq-e1b741.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/ona-ai-yordamida-bolalari-uchun-mashgulot-kitoblari-yaratmoq-e1b741.jpg"/>
   </item>
   <item>
     <title>Universitetlar AI detektorlaridan foydalanishni taqiqladi</title>
@@ -296,16 +306,6 @@
     <category>iqtisod</category><category>ta'lim</category>
     <media:content url="https://ailenta.uz/og/janubiy-koreyada-ai-hayotni-o-zgartirmoqda-04caca.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/janubiy-koreyada-ai-hayotni-o-zgartirmoqda-04caca.jpg"/>
-  </item>
-  <item>
-    <title>Anthropic talabalar uchun elchilik dasturini ochdi</title>
-    <link>https://ailenta.uz/x/anthropic-talabalar-uchun-elchilik-dasturini-ochdi-88cab1/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/anthropic-talabalar-uchun-elchilik-dasturini-ochdi-88cab1/</guid>
-    <pubDate>Thu, 03 Sep 2026 06:30:00 GMT</pubDate>
-    <description>Anthropic kompaniyasi 2026-yilgi talabalar elchiligi dasturini e'lon qildi. Ishtirokchilar 3600 dollar stipendiya va API kreditlariga ega bo'lib, o'z oliygohlarida sun'iy intellekt tashabbuslarini boshqaradilar.</description>
-    <category>Anthropic</category><category>ta'lim</category>
-    <media:content url="https://ailenta.uz/og/anthropic-talabalar-uchun-elchilik-dasturini-ochdi-88cab1.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/anthropic-talabalar-uchun-elchilik-dasturini-ochdi-88cab1.jpg"/>
   </item>
 </channel>
 </rss>
