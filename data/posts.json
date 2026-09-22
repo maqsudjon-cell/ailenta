@@ -1,5 +1,206 @@
 [
   {
+    "id": "46a8cb077ff0",
+    "slug": "nscale-iposi-aiga-bo-lgan-ishtahani-sinovdan-o-tkazadi-46a8cb",
+    "title": "Nscale IPOsi AIga boʻlgan ishtahani sinovdan oʻtkazadi",
+    "summary": "Britaniyalik AI maʼlumot markazlari ishlab chiquvchisi Nscale IPOga chiqmoqda. Kompaniya daromadining asosiy qismi Microsoft va Anthropic kabi texnologiya gigantlariga bogʻliq.",
+    "tags": [
+      "biznes",
+      "bulut"
+    ],
+    "importance": 3,
+    "score": 21,
+    "published": "2026-09-22T12:23:05.000Z",
+    "created": "2026-09-22T15:36:15.495Z",
+    "coverage": 1,
+    "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/22/nscales-ipo-will-test-wall-streets-appetite-for-concentrated-ai-bets-once-again",
+      "title": "Nscale’s IPO will test Wall Street’s appetite for concentrated AI bets once again",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "aa9ec64bc028",
+    "slug": "kevin-warsh-stavka-oshishi-aqsh-iqtisodiyotini-fosh-etdi-aa9ec6",
+    "title": "Kevin Warsh stavka oshishi AQSh iqtisodiyotini fosh etdi",
+    "summary": "Kevin Warshning stavka oshirishi AQSh iqtisodiyotining ikki tezlikda rivojlanayotganini koʻrsatdi. AI va uy-joy bozori bu jarayonning asosiy qutblari boʻlib, ipoteka stavkalari 7% ga yaqinlashmoqda.",
+    "tags": [
+      "iqtisod",
+      "siyosat"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-09-22T15:01:05.000Z",
+    "created": "2026-09-22T15:36:18.457Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/09/22/fed-rate-hike-housing-debt-borrowing-costs",
+      "title": "How Kevin Warsh’s rate hike exposed a 2-speed U.S. economy, with AI and housing at the poles",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "6dabcc16bb8a",
+    "slug": "ai-serverlari-uchun-ventilyatorsiz-sovutish-kelajagi-6dabcc",
+    "title": "AI serverlari uchun ventilyatorsiz sovutish kelajagi",
+    "summary": "250 kVt dan yuqori server tokchalarini suyuqlik va havo aralashmasi bilan sovutish qiyin. Suyuqlik deyarli barcha issiqlikni olib, serverlarning ventilyatorsiz ishlashiga imkon beradi.",
+    "tags": [
+      "chiplar",
+      "bulut"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-09-22T12:22:50.000Z",
+    "created": "2026-09-22T15:36:18.461Z",
+    "coverage": 1,
+    "source": {
+      "name": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/fanless-liquid-cooled-ai-servers-coolit",
+      "title": "The Future Is Fanless: 100% Heat Capture for Liquid Cooled AI Servers",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "2fa5e55baf07",
+    "slug": "aqshda-ai-yangi-populizm-to-lqinini-keltirib-chiqarmoqda-2fa5e5",
+    "title": "AQShda AI yangi populizm toʻlqinini keltirib chiqarmoqda",
+    "summary": "Koʻplab amerikaliklar korporatsiyalar foyda koʻrayotgan bir paytda ishchilar jabr koʻrayotganini sezmoqda. Berni Sanders va Stiv Bannon AI va uning maʼlumot markazlarini toʻxtatishni talab qilib chiqishdi.",
+    "tags": [
+      "siyosat",
+      "mehnat bozori"
+    ],
+    "importance": 4,
+    "score": 23,
+    "published": "2026-09-22T10:00:52.000Z",
+    "created": "2026-09-22T15:36:18.814Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/commentisfree/2026/sep/22/ai-economic-populism-tipping-point",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "019df1db8bec",
+    "slug": "yangi-ish-qidirishning-kutilmagan-salbiy-ta-siri-019df1",
+    "title": "Yangi ish qidirishning kutilmagan salbiy taʼsiri",
+    "summary": "\"Ghost job\" eʼlonlari, AI intervyuerlari va shaxsiy aloqa yetishmasligi ruhiy salomatlikka salbiy taʼsir koʻrsatishi mumkin. Bu yangi ish qidirish jarayonining kutilmagan oqibatlaridan biri.",
+    "tags": [
+      "mehnat bozori",
+      "iqtisod"
+    ],
+    "importance": 3,
+    "score": 23,
+    "published": "2026-09-22T10:00:01.000Z",
+    "created": "2026-09-22T15:36:18.814Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Washington Post",
+      "url": "https://washingtonpost.com/business/2026/09/22/what-endlessly-searching-job-can-do-your-mind",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "2bcfe8147944",
+    "slug": "astroforge-keyingi-kosmik-kemasini-ai-boshqaruviga-beradi-2bcfe8",
+    "title": "AstroForge keyingi kosmik kemasini AI boshqaruviga beradi",
+    "summary": "AstroForge oʻzining navbatdagi kosmik kemasini AI boshqaruviga topshirmoqda. Autonomy-1 nomli zondni kichik, transformerga asoslangan AI modeli boshqaradi.",
+    "tags": [
+      "robototexnika",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 21,
+    "published": "2026-09-22T15:00:00.000Z",
+    "created": "2026-09-22T15:36:18.814Z",
+    "coverage": 1,
+    "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/22/astroforge-is-putting-ai-in-command-of-its-next-spacecraft",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "12167d85f73f",
+    "slug": "maxfiylik-guruhi-yining-ai-malumot-qoidalarini-tanqid-qildi-12167d",
+    "title": "Maxfiylik guruhi YIning AI ma'lumot qoidalarini tanqid qildi",
+    "summary": "Maxfiylik guruhi Yevropa Ittifoqini AIga moslashish uchun maʼlumot qoidalarini oʻzgartirganlikda aybladi. Qonunchilar GDPRga oʻzgartirishlar kiritishni taklif qilmoqda, bu esa yana bir huquqiy muammoga olib kelishi mumkin.",
+    "tags": [
+      "maxfiylik",
+      "qonun"
+    ],
+    "importance": 4,
+    "score": 19,
+    "published": "2026-09-22T15:30:00.000Z",
+    "created": "2026-09-22T15:36:18.815Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/legal/2026/09/22/privacy-group-slams-eu-for-changing-the-data-rules-to-cater-to-ai/5298175",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "b30be5c11067",
+    "slug": "microsoft-va-coinbase-ai-quvvatli-firibgarlarni-hibsga-oldi-b30be5",
+    "title": "Microsoft va Coinbase AI quvvatli firibgarlarni hibsga oldi",
+    "summary": "Microsoft va Coinbase tergovi \"EvilTokens\" nomli AI quvvatli fishing tarmogʻi ortidagi firibgarlarning hibsga olinishiga olib keldi. Bu firibgarlik ijtimoiy tarmoqlarda fishing kitlarini sotish orqali amalga oshirilgan.",
+    "tags": [
+      "xavfsizlik",
+      "Microsoft"
+    ],
+    "importance": 4,
+    "score": 19,
+    "published": "2026-09-22T15:00:00.000Z",
+    "created": "2026-09-22T15:36:18.815Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/09/22/microsoft-coinbase-phishing",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "f63b7f45e449",
+    "slug": "yi-ma-lumot-markazlari-uchun-yashil-reyting-joriy-etildi-f63b7f",
+    "title": "YI maʼlumot markazlari uchun yashil reyting joriy etildi",
+    "summary": "Yevropa Ittifoqi maʼlumot markazlari uchun uzoq kutilgan barqarorlik yorliqlarini joriy qildi. Komissiya minimal samaradorlik standartlarini koʻrib chiqmoqda.",
+    "tags": [
+      "qonun",
+      "bulut"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-09-22T13:32:00.000Z",
+    "created": "2026-09-22T15:36:18.815Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/on-prem/2026/09/22/eu-datacenter-green-scorecard-finally-escapes-brussels/5298167",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "896a55a7a50c",
     "slug": "ai-yutuqlari-va-xavotirlari-ko-proq-shov-shuv-bo-lishi-mumki-896a55",
     "title": "AI yutuqlari va xavotirlari koʻproq shov-shuv boʻlishi mumkin",
