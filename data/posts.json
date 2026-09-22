@@ -1,17 +1,17 @@
 [
   {
     "id": "a2cbaa7c7c13",
-    "slug": "ai-qabul-qilinishi-osib-bormoqda-mintaqaviy-farqlar-kengaymo-a2cbaa",
-    "title": "AI qabul qilinishi o'sib bormoqda, mintaqaviy farqlar kengaymoqda",
+    "slug": "ai-qabul-qilinishi-osmoqda-ammo-mintaqaviy-farqlar-kengaymoq-a2cbaa",
+    "title": "AI qabul qilinishi o'smoqda, ammo mintaqaviy farqlar kengaymoqda",
     "summary": "Microsoft xabariga ko'ra, sun'iy intellektni qabul qilish butun dunyo bo'ylab o'sib bormoqda. Biroq, mintaqalar o'rtasidagi farqlar tobora kengayib bormoqda.",
     "tags": [
       "Microsoft",
       "biznes"
     ],
-    "importance": 3,
+    "importance": 2,
     "score": 33,
     "published": "2026-09-22T18:01:00.000Z",
-    "created": "2026-09-22T21:38:42.502Z",
+    "created": "2026-09-22T21:44:23.436Z",
     "coverage": 1,
     "source": {
       "name": "Microsoft",
@@ -23,18 +23,68 @@
     "model": "gemini"
   },
   {
+    "id": "84258fb850c2",
+    "slug": "generativ-ai-tiolatsiya-domenlarini-loyihalashtirdi-84258f",
+    "title": "Generativ AI tiolatsiya domenlarini loyihalashtirdi",
+    "summary": "Generativ sun'iy intellekt non-ribosomal peptid sintetazlarni qayta dasturlash uchun funksional tiolatsiya domenlarini loyihalashtira oldi. Bu tadqiqot Nature jurnalida e'lon qilindi.",
+    "tags": [
+      "tadqiqot",
+      "tibbiyot"
+    ],
+    "importance": 3,
+    "score": 19.1,
+    "published": "2026-09-22T00:00:00.000Z",
+    "created": "2026-09-22T21:44:24.560Z",
+    "coverage": 1,
+    "source": {
+      "name": "Nature",
+      "url": "https://nature.com/articles/s41467-026-77963-6",
+      "title": "Generative AI designs functional thiolation domains for reprogramming non-ribosomal peptide synthetases",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "f8c61ee8fb2a",
+    "slug": "anthropic-va-openevidence-tibbiy-ai-uchun-hamkorlik-qildi-f8c61e",
+    "title": "Anthropic va OpenEvidence tibbiy AI uchun hamkorlik qildi",
+    "summary": "Anthropic OpenEvidence bilan hamkorlikda tibbiy sun'iy intellektni butun dunyo bo'ylab joriy etishni maqsad qilgan. Bu hamkorlik AI texnologiyalarini tibbiyot sohasiga kengroq tatbiq etishga qaratilgan.",
+    "tags": [
+      "Anthropic",
+      "tibbiyot"
+    ],
+    "importance": 3,
+    "score": 36,
+    "published": "2026-09-22T21:35:58.000Z",
+    "created": "2026-09-22T21:44:25.221Z",
+    "coverage": 2,
+    "source": {
+      "name": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOLVV5RE9jdGNuVXUycl9fTjJ1Ty1tVzZ2U1MxcWtaZDhXOG5qc29yTENvLVJtZ19PM09MQng5azRmbU5kNG40dUtBcVcxN0U1eGZNUkZwaXA0amt6R25qak9za19YTTNKVHFDVGg0VVVzN3V2VjFHdnBHN3BpUmtQR3BUdThUd3FqbXJIOHZLVE1kbVVRV005bDJmM3o3N2Z2Z3Bvd2NYZjhSLUdpYUhZ",
+      "indirect": true
+    },
+    "also": [
+      {
+        "name": "finance.yahoo.com",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWFgzeU83dlcwTi0xaHNwdmlDREdFZjRIbVJlRXpyd0hDVjhfalMyNUp3M3dlV2dzVDlmb2lraWdTZDI2Ym01NC10bXc4WG1qeG03UjJDc0JVRk11SG1TSlJTbFNEX002azJ2dDcxVzlGOV9KWDhBRE9XdW1kbnhIc0pYMnhlenlRTWZQblVGbmhNb1Z2ZWV0UXJwYlBTeEk"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
     "id": "6d302ceafa1a",
     "slug": "qualcomm-ai-uchun-moljallangan-android-chipini-chiqardi-6d302c",
     "title": "Qualcomm AI uchun mo'ljallangan Android chipini chiqardi",
-    "summary": "Qualcomm sun'iy intellektga mo'ljallangan yangi Android chipini taqdim etdi. Bu smartfon bozorida xotira tanqisligi kuzatilayotgan bir paytda amalga oshirildi.",
+    "summary": "Qualcomm sun'iy intellekt uchun mo'ljallangan yangi Android chipini taqdim etdi. Bu chip xotira tanqisligi sharoitida smartfon bozoriga kirib kelmoqda.",
     "tags": [
       "Qualcomm",
       "chiplar"
     ],
-    "importance": 4,
+    "importance": 3,
     "score": 28,
     "published": "2026-09-22T21:09:17.000Z",
-    "created": "2026-09-22T21:39:00.016Z",
+    "created": "2026-09-22T21:44:25.221Z",
     "coverage": 2,
     "source": {
       "name": "CNBC",
@@ -51,17 +101,17 @@
   },
   {
     "id": "e6cc66c51149",
-    "slug": "anthropic-foydalanish-chegaralarini-20-ga-oshirdi-e6cc66",
-    "title": "Anthropic foydalanish chegaralarini 20% ga oshirdi",
-    "summary": "Anthropic Pro, Max va Team rejalari uchun besh soatlik foydalanish chegaralarini 20% ga oshirdi. Obunachilar endi tezlik chegarasini qayta tiklash imkoniyatiga ega bo'lishadi.",
+    "slug": "anthropic-ozining-foydalanish-chegaralarini-20-oshirdi-e6cc66",
+    "title": "Anthropic o'zining foydalanish chegaralarini 20% oshirdi",
+    "summary": "Anthropic Pro, Max va Team rejalari uchun besh soatlik foydalanish chegaralarini 20% ga oshirdi. Obunachilar uchun esa tezlik chegaralari qayta tiklandi.",
     "tags": [
       "Anthropic",
       "biznes"
     ],
-    "importance": 3,
+    "importance": 2,
     "score": 24,
     "published": "2026-09-22T17:40:02.000Z",
-    "created": "2026-09-22T21:39:00.016Z",
+    "created": "2026-09-22T21:44:25.221Z",
     "coverage": 1,
     "source": {
       "name": "Techmeme",
@@ -73,17 +123,17 @@
   },
   {
     "id": "bb40bd111d9c",
-    "slug": "arzon-ai-modellaridan-foydalanish-ortib-bormoqda-bb40bd",
-    "title": "Arzon AI modellaridan foydalanish ortib bormoqda",
-    "summary": "Axios xabariga ko'ra, arzon va kuchli sun'iy intellekt modellaridan foydalanish ko'paymoqda. Bu AI sohasidagi o'sish uchun ijobiy belgi hisoblanadi.",
+    "slug": "arzon-va-kuchli-ai-modellaridan-foydalanish-ortmoqda-bb40bd",
+    "title": "Arzon va kuchli AI modellaridan foydalanish ortmoqda",
+    "summary": "Arzon va kuchli sun'iy intellekt modellaridan foydalanish sezilarli darajada oshmoqda. Bu holat AI sohasidagi rivojlanish uchun ijobiy belgi hisoblanadi.",
     "tags": [
       "biznes",
       "tadqiqot"
     ],
-    "importance": 3,
+    "importance": 2,
     "score": 23,
     "published": "2026-09-22T18:24:03.000Z",
-    "created": "2026-09-22T21:39:00.016Z",
+    "created": "2026-09-22T21:44:25.221Z",
     "coverage": 1,
     "source": {
       "name": "Axios",
@@ -94,32 +144,10 @@
     "model": "gemini"
   },
   {
-    "id": "84258fb850c2",
-    "slug": "generativ-ai-tiolatsiya-domenlarini-yaratdi-84258f",
-    "title": "Generativ AI tiolatsiya domenlarini yaratdi",
-    "summary": "Generativ sun'iy intellekt non-ribosomal peptid sintezatorlarini qayta dasturlash uchun funktsional tiolatsiya domenlarini loyihalashtirdi. Bu tadqiqot Nature jurnalida chop etildi.",
-    "tags": [
-      "tadqiqot",
-      "tibbiyot"
-    ],
-    "importance": 2,
-    "score": 19.2,
-    "published": "2026-09-22T00:00:00.000Z",
-    "created": "2026-09-22T21:39:00.016Z",
-    "coverage": 1,
-    "source": {
-      "name": "Nature",
-      "url": "https://nature.com/articles/s41467-026-77963-6",
-      "indirect": false
-    },
-    "also": [],
-    "model": "gemini"
-  },
-  {
     "id": "073ffabb036b",
-    "slug": "pekin-va-vashington-ai-boyicha-aloqa-liniyasini-muhokama-qil-073ffa",
-    "title": "Pekin va Vashington AI bo'yicha aloqa liniyasini muhokama qildi",
-    "summary": "Pekin va Vashington sun'iy intellekt bilan bog'liq hodisalarning oldini olish maqsadida \"tezkor aloqa liniyasi\"ni muhokama qilmoqda. Biroq, \"nazoratsiz AI\" uchun yechim yo'qligi xavfsizlikni ta'minlamasligi mumkin.",
+    "slug": "pekin-va-vashington-ai-boyicha-qaynoq-liniya-ni-muhokama-qil-073ffa",
+    "title": "Pekin va Vashington AI bo'yicha \"qaynoq liniya\"ni muhokama qildi",
+    "summary": "Pekin va Vashington sun'iy intellekt bilan bog'liq hodisalarning urushga aylanib ketishini oldini olish uchun \"qaynoq liniya\"ni muhokama qilmoqda. Biroq, \"nazoratsiz AI\" uchun yechim bo'lmasa, uning samaradorligi shubhali.",
     "tags": [
       "siyosat",
       "xavfsizlik"
@@ -127,7 +155,7 @@
     "importance": 4,
     "score": 19,
     "published": "2026-09-22T19:36:32.000Z",
-    "created": "2026-09-22T21:39:00.016Z",
+    "created": "2026-09-22T21:44:25.221Z",
     "coverage": 1,
     "source": {
       "name": "Fortune",
@@ -138,47 +166,34 @@
     "model": "gemini"
   },
   {
-    "id": "97cf2f46cb2e",
-    "slug": "microsoft-portallari-tufayli-mijozga-kutilmagan-hisob-97cf2f",
-    "title": "Microsoft portallari tufayli mijozga kutilmagan hisob",
-    "summary": "Microsoft portallari o'rtasidagi kelishmovchilik sababli, bir o'quvchi kutilmagan hisob-kitobga duch keldi. Bu holat Copilotning sinxronizatsiya kodiga aloqador bo'lishi mumkinligi taxmin qilinmoqda.",
+    "id": "de2c62fc4d8d",
+    "slug": "nvidia-ai-osishi-uglerod-chiqindilarini-oshirmoqda-de2c62",
+    "title": "Nvidia AI o'sishi uglerod chiqindilarini oshirmoqda",
+    "summary": "Bir hisobotda Nvidia kompaniyasining sun'iy intellekt sohasidagi o'sishi uglerod chiqindilarining ko'payishi bilan bog'liqligi aytildi. Bu ma'lumot Digital Watch Observatory tomonidan e'lon qilindi.",
     "tags": [
-      "Microsoft",
-      "biznes"
+      "Nvidia",
+      "iqtisod"
     ],
-    "importance": 2,
-    "score": 19,
-    "published": "2026-09-22T13:00:00.000Z",
-    "created": "2026-09-22T21:39:00.016Z",
-    "coverage": 1,
+    "importance": 3,
+    "score": 18.3,
+    "published": "2026-09-22T07:57:00.000Z",
+    "created": "2026-09-22T21:44:25.221Z",
+    "coverage": 3,
     "source": {
-      "name": "The Register",
-      "url": "https://theregister.com/saas/2026/09/22/register-reader-hit-with-surprise-bill-after-microsoft-portals-disagreed/5297799",
-      "indirect": false
-    },
-    "also": [],
-    "model": "gemini"
-  },
-  {
-    "id": "9b66707035e7",
-    "slug": "huawei-ascend-960-ai-chipini-2027-yilga-kochirdi-9b6670",
-    "title": "Huawei Ascend 960 AI chipini 2027 yilga ko'chirdi",
-    "summary": "Huawei o'zining Ascend 960 AI chipini chiqarish muddatini 2027 yilning birinchi choragiga ko'chirdi. Bu Nvidia bilan raqobatlashish uchun qilingan qadamdir.",
-    "tags": [
-      "Huawei",
-      "chiplar"
-    ],
-    "importance": 4,
-    "score": 18,
-    "published": "2026-09-22T16:20:34.000Z",
-    "created": "2026-09-22T21:39:00.016Z",
-    "coverage": 1,
-    "source": {
-      "name": "Forbes",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVnNtQk8ybGVmN1FUZkZ3OTE3elh4V09XV1FBQXlqRmNPYUJSeUhaVVZHM21GTm5kdzA3SjlzUUpqRnpVVlhaMEI5OGxJMWxIaVBua1BSOE96MGZ2YURfdXFqcTB1QndvdW1yc1ZrNE9hTUNmOWVTckRnaHVBYVg2R0FZVU5nTnl4ZTJXaDlGeFZsLU8yU2VYNTNyQlduNFhjOHRZN1h5MjJRWDEtU3NlR3F2bC1hTmtWQlpKTg",
+      "name": "Digital Watch Observatory",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1CS00wMWRreGVWVUs0SWdfXzJvNmZZaEtTYmlGdktRSFVzSDRDRUh0N2RPaUdVaUdWN1dLMlEzOU44TkNSdE5vZGdnem9hZkJadFJ2R3AxTWFhbzcyRTl0SVBGOXNBM1RnbmJtaDJleFRtQVk",
       "indirect": true
     },
-    "also": [],
+    "also": [
+      {
+        "name": "finance.yahoo.com",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZ3ZrMEFiZmt3VWVaZmpzQlFNTFlmNHFKN250bk42ekZlWnE5NnpxaW9ZZFlSQTNvMFI5WVVKMnYxaFMzNzQ4eDREbnhzNGk4aTFSNWZSS205VDJ5eHRBQzZGRzZEVHhid3JpX0phUnVwcmxxWV9IaG5oNEp5RHd0bzBibllvWXlwMG5xdG1mTHlpbkU"
+      },
+      {
+        "name": "247wallst.com",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPNHhmaHYxUHcySHdWVkYyeDRZcEowRlRuREVRX1ViSGRsRm0yLWEyckpyZHItOTBBelFnYlE0T19INEM3VDhQaTYyQmNTZ05Kd1J3dUdHUHRkMDhFekFLckFJOXFlaHpENWhmMFh0NHc4Q3d0Q1JLakpDYTRteDB4Y3hKR29YOXBoeHExQldWN1JuazBLeVNpaUtHc3paX2MxYTdjRTQzdktMYUxGUnZ1TzFsN2ZqVDZ2dk1oTVI2SkV1N3VDN2JzZzVYdkp5Qmc"
+      }
+    ],
     "model": "gemini"
   },
   {
