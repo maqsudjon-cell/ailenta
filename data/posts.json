@@ -1,5 +1,94 @@
 [
   {
+    "id": "201084ad191f",
+    "slug": "cyera-malumot-xavfsizligi-startapi-400m-mablag-yigdi-201084",
+    "title": "Cyera ma'lumot xavfsizligi startapi $400M mablag' yig'di",
+    "summary": "Ma'lumot xavfsizligi startapi Cyera Goldman Sachs'dan Series G kengaytmasida $400 million mablag' jalb qildi. Bu bilan uning 2025-yil iyundan beri umumiy moliyalashtirishi $1.94 milliardga yetdi.",
+    "tags": [
+      "xavfsizlik",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 18,
+    "published": "2026-09-22T22:35:02.000Z",
+    "created": "2026-09-22T23:03:16.530Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/260922/p55",
+      "title": "Data security startup Cyera raised $400M from Goldman Sachs in a Series G extension, bringing its total funding since June 2025 to $1.94B (James Rundle/Wall Street Journal)",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "ce45d8dc0f6c",
+    "slug": "parallel-gpt-6-astra-yordamida-tadqiqotni-tezlashtirdi-ce45d8",
+    "title": "Parallel GPT-6 Astra yordamida tadqiqotni tezlashtirdi",
+    "summary": "GPT-6 Astra Parallel agentlariga mehnat bozori ma'lumotlarini tadqiq qilish va sintez qilishda yordam berdi. Bu jarayon avvalgi modellarga nisbatan ikki barobar tez va arzonroq amalga oshirildi.",
+    "tags": [
+      "OpenAI",
+      "agentlar"
+    ],
+    "importance": 3,
+    "score": 33,
+    "published": "2026-09-22T12:00:00.000Z",
+    "created": "2026-09-22T23:03:27.469Z",
+    "coverage": 1,
+    "source": {
+      "name": "OpenAI",
+      "url": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "89b165091bca",
+    "slug": "altman-va-amodei-bmt-xavfsizlik-kengashi-yigilishiga-qoshila-89b165",
+    "title": "Altman va Amodei BMT Xavfsizlik Kengashi yig'ilishiga qo'shiladi",
+    "summary": "Sam Altman va Dario Amodei BMT Xavfsizlik Kengashining sun'iy intellekt bo'yicha yig'ilishida ishtirok etishi kutilmoqda. Prezident Donald Tramp BMT Bosh Assambleyasida AI'ni qo'llab-quvvatlashga va'da berdi.",
+    "tags": [
+      "siyosat",
+      "OpenAI"
+    ],
+    "importance": 5,
+    "score": 19,
+    "published": "2026-09-22T17:30:27.000Z",
+    "created": "2026-09-22T23:03:27.470Z",
+    "coverage": 1,
+    "source": {
+      "name": "CNBC",
+      "url": "https://cnbc.com/2026/09/22/altman-amodei-unga-ai-safety.html",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "e20ec45cd8a0",
+    "slug": "snorkel-ai-qiymati-3-5-milliardga-yetdi-e20ec4",
+    "title": "Snorkel AI qiymati $3.5 milliardga yetdi",
+    "summary": "Yetti yoshli Snorkel AI startapi o'z qiymatini $3.5 milliardga uch barobar oshirdi. Kompaniya ma'lumot-xizmat sifatida yondashuvini qo'llab-quvvatlash uchun $350 million Series E mablag'ini jalb qildi.",
+    "tags": [
+      "biznes",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 18,
+    "published": "2026-09-22T21:56:43.000Z",
+    "created": "2026-09-22T23:03:27.470Z",
+    "coverage": 1,
+    "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "d5e8f5ea5f3e",
     "slug": "ai-tasiridagi-ish-orinlarida-maoshlar-osdi-d5e8f5",
     "title": "AI ta'siridagi ish o'rinlarida maoshlar o'sdi",
