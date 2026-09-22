@@ -1,5 +1,93 @@
 [
   {
+    "id": "61783c7c535d",
+    "slug": "bmt-hukumatlarni-ai-agentlarini-jilovlashga-chaqirdi-61783c",
+    "title": "BMT hukumatlarni AI agentlarini jilovlashga chaqirdi",
+    "summary": "Birlashgan Millatlar Tashkilotining ilmiy paneli hukumatlarni AI agentlari xavflari to'liq tushunilishidan oldin ularni jilovlashga chaqirdi. Bu ogohlantirish tashkilotning OpenAI tomonidan Hugging Face buzib kirilishi bo'yicha birinchi yirik baholash hisobotida keltirilgan.",
+    "tags": [
+      "OpenAI",
+      "xavfsizlik"
+    ],
+    "importance": 4,
+    "score": 17.1,
+    "published": "2026-09-21T10:18:06.000Z",
+    "created": "2026-09-22T00:37:36.671Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Verge",
+      "url": "https://theverge.com/ai-artificial-intelligence/998090/un-ai-panel-hugging-face-hack-precautionary-principle",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "7c3c7cf2f12f",
+    "slug": "anthropic-biologiya-jamoalari-uchun-xavfsizlikni-yumshatdi-7c3c7c",
+    "title": "Anthropic biologiya jamoalari uchun xavfsizlikni yumshatdi",
+    "summary": "Anthropic kompaniyasi tekshirilgan hayot haqidagi fanlar jamoalari uchun sun'iy intellekt xavfsizligi choralarini yumshatdi. Bu haqda HPCwire nashri xabar berdi.",
+    "tags": [
+      "Anthropic",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 10,
+    "published": "2026-09-21T17:14:37.000Z",
+    "created": "2026-09-22T00:37:36.672Z",
+    "coverage": 1,
+    "source": {
+      "name": "HPCwire",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQkc5eTE1dUNOZ2lDZmNMRmNBd253SkRScFBqamhYT1REb21VcjNDZ1otMEFBaURrRGFxQm8zWThjVk04YlZzY2d5cG5kR0dLYy1kVzR1eDczQ2dXMTNlTUkyc1NQUkZ1dmloNUVEN01xZjBhdGlPVVVCNV9BSnZGSjZEMVk4TTBmZ3ZpcHFLSy1DYU4tV284cDRQRU9Dbm5zN2VzMG5Sbw",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "48627ea30c6c",
+    "slug": "nvidia-geforce-rtx-60-videokartasi-2028-yilgacha-kechiktiril-48627e",
+    "title": "Nvidia GeForce RTX 60 videokartasi 2028-yilgacha kechiktirildi",
+    "summary": "Ma'lumotlar sizib chiqishiga ko'ra, Nvidia GeForce RTX 60 videokartasi taqdimoti 2028-yilgacha kechiktirildi. Bunga AI ma'lumotlar markazlari barcha tezkor xotirani egallab olayotgani sabab qilib ko'rsatilgan.",
+    "tags": [
+      "Nvidia",
+      "chiplar"
+    ],
+    "importance": 3,
+    "score": 10,
+    "published": "2026-09-21T15:17:50.000Z",
+    "created": "2026-09-22T00:37:36.672Z",
+    "coverage": 1,
+    "source": {
+      "name": "Club386",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBjZTBvTmltZTBWRzV0dkt5dWJpNTB3R0JLMjYxMENnSkR3MWRTSWpnNGlidmxHYWJTSjJoUG1Rd0YtNzROS0tHMTh6Vm0wTWFsZDlsd0VwY1EyNWJ5cGs3X3pfVGw3ejZaQUxBT1JsSEtfanJaMGg0YQ",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "d946761ea67e",
+    "slug": "anthropic-suniy-intellekt-sertifikatlash-dasturini-kengaytir-d94676",
+    "title": "Anthropic sun'iy intellekt sertifikatlash dasturini kengaytirdi",
+    "summary": "Anthropic kompaniyasi ortib borayotgan talabni qondirish uchun o'zining AI sertifikatlash dasturini kengaytirdi. Bu haqda MSSP Alert nashri xabar bermoqda.",
+    "tags": [
+      "Anthropic",
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 10,
+    "published": "2026-09-21T13:38:34.000Z",
+    "created": "2026-09-22T00:37:36.672Z",
+    "coverage": 1,
+    "source": {
+      "name": "MSSP Alert",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNXoyNXNYWk1pRHlvTjBnM3pYamtEWWFYS0JpSnBVTnZMZF9zVXA4aGVwWUNCSHplblRmcC1fNUJVRmpiNzZ0aUtLSU5ndHU1V0dSTEh3SUdyQ0lGcGMxeEg5clJJNWRiSjlwd3Vab0xldHBrVkxINzlKLWJncXotbXduOUd5RjJjeTAyNm1QZ2lIQQ",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "df69de99cbd8",
     "slug": "apple-dokonlari-memori-ai-xaridlariga-shubha-bilan-qaraydi-df69de",
     "title": "Apple do'konlari me'mori AI xaridlariga shubha bilan qaraydi",

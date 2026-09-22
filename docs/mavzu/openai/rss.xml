@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/openai/</link>
   <description>&quot;OpenAI&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Tue, 22 Sep 2026 00:23:30 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 22 Sep 2026 00:41:16 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/openai/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>BMT hukumatlarni AI agentlarini jilovlashga chaqirdi</title>
+    <link>https://ailenta.uz/x/bmt-hukumatlarni-ai-agentlarini-jilovlashga-chaqirdi-61783c/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/bmt-hukumatlarni-ai-agentlarini-jilovlashga-chaqirdi-61783c/</guid>
+    <pubDate>Mon, 21 Sep 2026 10:18:06 GMT</pubDate>
+    <description>Birlashgan Millatlar Tashkilotining ilmiy paneli hukumatlarni AI agentlari xavflari to'liq tushunilishidan oldin ularni jilovlashga chaqirdi. Bu ogohlantirish tashkilotning OpenAI tomonidan Hugging Face buzib kirilishi bo'yicha birinchi yirik baholash hisobotida keltirilgan.</description>
+    <category>OpenAI</category><category>xavfsizlik</category>
+    <media:content url="https://ailenta.uz/og/bmt-hukumatlarni-ai-agentlarini-jilovlashga-chaqirdi-61783c.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/bmt-hukumatlarni-ai-agentlarini-jilovlashga-chaqirdi-61783c.jpg"/>
+  </item>
   <item>
     <title>OpenAI va matematiklar o'rtasidagi bahs</title>
     <link>https://ailenta.uz/x/openai-va-matematiklar-ortasidagi-bahs-434793/</link>
@@ -296,16 +306,6 @@
     <category>OpenAI</category><category>siyosat</category>
     <media:content url="https://ailenta.uz/og/donald-tramp-va-sam-altman-yopiq-uchrashuv-o-tkazdi-7b2b6f.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/donald-tramp-va-sam-altman-yopiq-uchrashuv-o-tkazdi-7b2b6f.jpg"/>
-  </item>
-  <item>
-    <title>OpenAI ichki hujjatlari maxfiylikni oshkor etdi</title>
-    <link>https://ailenta.uz/x/openai-ichki-hujjatlari-maxfiylikni-oshkor-etdi-c94276/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/openai-ichki-hujjatlari-maxfiylikni-oshkor-etdi-c94276/</guid>
-    <pubDate>Mon, 14 Sep 2026 16:30:00 GMT</pubDate>
-    <description>OpenAI ichki hujjatlariga ko'ra, pudratchilar anonimlashtirilgan so'rovlar va chatlarni baholaydi. Shuningdek, iste'molchi rejalari uchun modelni o'qitish sukut bo'yicha yoqilgan.</description>
-    <category>OpenAI</category><category>maxfiylik</category>
-    <media:content url="https://ailenta.uz/og/openai-ichki-hujjatlari-maxfiylikni-oshkor-etdi-c94276.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/openai-ichki-hujjatlari-maxfiylikni-oshkor-etdi-c94276.jpg"/>
   </item>
 </channel>
 </rss>
