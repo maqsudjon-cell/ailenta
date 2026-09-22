@@ -1,9 +1,9 @@
 [
   {
     "id": "d196e555274c",
-    "slug": "gov-uk-asoschisi-ai-oltin-shoshilishi-dan-ogohlantirdi-d196e5",
-    "title": "GOV.UK asoschisi AI \"oltin shoshilishi\"dan ogohlantirdi",
-    "summary": "GOV.UK asoschisi Mike Brackenning ogohlantirishicha, sun'iy intellektni joriy etishga bo'lgan shoshilinch harakat Britaniyani bir nechta texnologiya yetkazib beruvchilarga qaram qilib qo'yishi mumkin. Bu suveren AI'ni qabul qilish xavfini oshiradi.",
+    "slug": "gov-uk-asoschisi-ai-poygasi-britaniyani-qulflashi-mumkin-d196e5",
+    "title": "GOV.UK asoschisi: AI poygasi Britaniyani qulflashi mumkin",
+    "summary": "GOV.UK asoschisi Mike Brackenning ogohlantirishicha, suveren AIga intilish Britaniyani bir nechta texnologiya yetkazib beruvchilarga bogʻlab qoʻyishi mumkin. Bu nazoratni ularga berish xavfini tugʻdiradi.",
     "tags": [
       "siyosat",
       "biznes"
@@ -11,7 +11,7 @@
     "importance": 3,
     "score": 19,
     "published": "2026-09-22T08:30:00.000Z",
-    "created": "2026-09-22T09:09:24.182Z",
+    "created": "2026-09-22T09:18:27.297Z",
     "coverage": 1,
     "source": {
       "name": "The Register",
@@ -24,9 +24,9 @@
   },
   {
     "id": "627bba22ed25",
-    "slug": "kollejni-tashlab-aiga-chidamli-kasb-tanlagan-yigit-627bba",
-    "title": "Kollejni tashlab, \"AI'ga chidamli\" kasb tanlagan yigit",
-    "summary": "20 yoshli Alejandro Rodriguez kollejga bormay, texnik maktabni tanladi. U Porsche texnigi bo'lish orqali sun'iy intellekt ta'siridan himoyalangan kasbga ega bo'lishni maqsad qilgan.",
+    "slug": "20-yoshli-talaba-aiga-chidamli-kasb-uchun-kollejni-tashladi-627bba",
+    "title": "20 yoshli talaba AIga chidamli kasb uchun kollejni tashladi",
+    "summary": "20 yoshli Alejandro Rodriguez kollej oʻrniga texnik maktabni tanladi. U Porsche texnik xodimi boʻlishni maqsad qilib, AIga chidamli kasb egallashga intilmoqda.",
     "tags": [
       "mehnat bozori",
       "ta'lim"
@@ -34,7 +34,7 @@
     "importance": 2,
     "score": 19,
     "published": "2026-09-22T07:12:00.000Z",
-    "created": "2026-09-22T09:09:24.185Z",
+    "created": "2026-09-22T09:18:27.302Z",
     "coverage": 1,
     "source": {
       "name": "Fortune",
@@ -47,9 +47,9 @@
   },
   {
     "id": "1b6d928ae21c",
-    "slug": "t-head-yitian-server-cpulari-uchun-yol-xaritasini-elon-qildi-1b6d92",
-    "title": "T-Head Yitian server CPU'lari uchun yo'l xaritasini e'lon qildi",
-    "summary": "T-Head Apsara 2026 konferensiyasida Yitian 720 va 730 server CPU'lari uchun 2027 yilga mo'ljallangan yo'l xaritasini taqdim etdi. Keyinchalik Yitian 750 modeli Zhenwu AI tezlatkichlariga ICN-link orqali to'g'ridan-to'g'i ulanish imkoniyatini qo'shadi.",
+    "slug": "t-head-yitian-server-cpu-yo-l-xaritasini-e-lon-qildi-1b6d92",
+    "title": "T-Head Yitian server CPU yoʻl xaritasini eʼlon qildi",
+    "summary": "T-Head Apsara 2026 konferensiyasida Yitian 720 va 730 server CPUlari uchun 2027 yilga moʻljallangan yoʻl xaritasini taqdim etdi. Keyinchalik Yitian 750 Zhenwu AI tezlatkichlariga ulanadi.",
     "tags": [
       "Alibaba",
       "chiplar"
@@ -57,7 +57,7 @@
     "importance": 3,
     "score": 15,
     "published": "2026-09-22T08:33:27.000Z",
-    "created": "2026-09-22T09:12:24.633Z",
+    "created": "2026-09-22T09:18:30.212Z",
     "coverage": 1,
     "source": {
       "name": "Pandaily",
@@ -69,10 +69,32 @@
     "model": "gemini"
   },
   {
+    "id": "db95defdf1b9",
+    "slug": "sun-iy-intellekt-ishimizni-olib-qo-ymaydi-vazifalarimizni-o--db95de",
+    "title": "Sunʼiy intellekt ishimizni olib qoʻymaydi, vazifalarimizni oʻzgartiradi",
+    "summary": "Ekspert Anvar Narzullohning fikricha, sunʼiy intellekt kasblarni yoʻq qilmaydi, balki vazifalarni oʻzgartiradi. Bu haqda “Nima dard” podkastida muhokama qilindi.",
+    "tags": [
+      "mehnat bozori",
+      "O'zbekiston"
+    ],
+    "importance": 2,
+    "score": 48,
+    "published": "2026-09-22T07:50:15.000Z",
+    "created": "2026-09-22T09:18:42.590Z",
+    "coverage": 1,
+    "source": {
+      "name": "Kun.uz",
+      "url": "https://kun.uz/news/2026/09/22/suniy-intellekt-ishimizni-olib-qoymaydi-vazifalarimizni-ozgartiradi-xolos-ekspert-anvar-narzulloh",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "6227bac8868b",
-    "slug": "hududgaztaminot-da-yosh-startapchilar-uchun-catalyst-dasturi-6227ba",
-    "title": "\"Hududgazta'minot\"da yosh startapchilar uchun Catalyst dasturi",
-    "summary": "\"Hududgazta'minot\" AJda Yoshlar ishlari agentligi bilan hamkorlikda StartupFest loyihasining Catalyst dasturi o'tkazildi. Dasturda yosh startapchilar AI va boshqa raqamli texnologiyalarga asoslangan loyihalar ishlab chiqdilar.",
+    "slug": "hududgaztaminotda-yosh-startapchilar-uchun-catalyst-dasturi-6227ba",
+    "title": "Hududgazta’minotda yosh startapchilar uchun Catalyst dasturi",
+    "summary": "“Hududgazta’minot” AJda Yoshlar ishlari agentligi bilan hamkorlikda Catalyst dasturi oʻtkazildi. Unda yosh startapchilar gaz taʼminoti tizimi uchun AI va raqamli texnologiyalarga asoslangan loyihalar ishlab chiqdi.",
     "tags": [
       "O'zbekiston",
       "biznes"
@@ -80,7 +102,7 @@
     "importance": 2,
     "score": 48,
     "published": "2026-09-22T07:00:11.000Z",
-    "created": "2026-09-22T09:14:07.978Z",
+    "created": "2026-09-22T09:18:42.590Z",
     "coverage": 1,
     "source": {
       "name": "Kun.uz",
@@ -94,16 +116,16 @@
     "id": "fc703c844d63",
     "slug": "alibaba-zhenwu-v900-ai-chipini-taqdim-etdi-fc703c",
     "title": "Alibaba Zhenwu V900 AI chipini taqdim etdi",
-    "summary": "Alibaba'ning T-Head bo'linmasi Zhenwu V900 AI chipini namoyish qildi. U avvalgi Zhenwu M890 chipidan uch barobar yuqori hisoblash unumdorligiga ega. Alibaba 2032 yilga borib 20 gigavatt quvvatga ega bulutli ma'lumot markazlarini maqsad qilgan.",
+    "summary": "Alibaba’ning T-Head boʻlimi Zhenwu V900 AI chipini chiqardi. U avvalgi modeldan uch barobar kuchliroq boʻlib, 500 mingtagacha birlik klasterlariga kengayishi mumkin.",
     "tags": [
       "Alibaba",
       "chiplar"
     ],
     "importance": 4,
-    "score": 30,
+    "score": 24,
     "published": "2026-09-22T07:12:15.000Z",
-    "created": "2026-09-22T09:14:07.978Z",
-    "coverage": 3,
+    "created": "2026-09-22T09:18:42.590Z",
+    "coverage": 2,
     "source": {
       "name": "TechNode",
       "url": "https://technode.com/2026/09/22/alibaba-unveils-zhenwu-v900-ai-chip-as-it-targets-20gw-of-cloud-data-centers-by-2032",
@@ -113,50 +135,15 @@
       {
         "name": "Techmeme",
         "url": "https://techmeme.com/260921/p58"
-      },
-      {
-        "name": "freemalaysiatoday.com",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMHhXRWZ3VFVjYXNyeVhnQ1RqQWtYeERYVzc1TC1NRlpPRzh0S1dsVW1EcXp6Ul8xNXlFZ0x6OVhvX3dJbXhFVkIxWl9OT0hMMmpBSVVwLTR1Um93cVlkc3k0WjFWY2Q0ZzJnUE9Ecl9XTEtJSC12NGRWbG42WU1seG93Rl93LXJQaUNxVVJiOVNMNm9YMnNoTG45SnlPa1hmcFVaS3loa1hWNnpMQXM1clZCbEQ2OUpzXzRaRGFkV0FXQQ"
-      }
-    ],
-    "model": "gemini"
-  },
-  {
-    "id": "5dc131998993",
-    "slug": "metaning-muse-ai-agentida-jiddiy-zaiflik-topildi-5dc131",
-    "title": "Meta'ning Muse AI agentida jiddiy zaiflik topildi",
-    "summary": "Meta'ning yangi Muse AI agentida \"0-day\" zaifligi aniqlandi. Oddiy ClickFix hujumi orqali ushbu agentni to'liq egallab olish mumkin.",
-    "tags": [
-      "Meta",
-      "xavfsizlik"
-    ],
-    "importance": 4,
-    "score": 26,
-    "published": "2026-09-21T22:24:38.000Z",
-    "created": "2026-09-22T09:14:07.978Z",
-    "coverage": 3,
-    "source": {
-      "name": "Ars Technica",
-      "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day",
-      "indirect": false
-    },
-    "also": [
-      {
-        "name": "techtimes.com",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQcEhpdks4QkYtN3BWZmRKYkdFYzZQUklOZVp4NFNjY3E2S01rdzVOMTluS3ZTSkpHMGJ4YmpIalZ0ZmZ0TkU3ZlpVaVpZam9qQ1VUbTJJY3BfdlV0NktnSUVkMXZwUGF5Sm5WNXMzUHV4SXNqYnl3UHd5cFg1T1NhN21GYUo1S2VKeURvMDdQbjU1TXhXWFozblRuM2J3eDhKbk5lbXcxU2RibUpOa05xeVRXaFdZa01sZG9iS3FjOWtQNjhpTTl0NVo0eGNjTUlnUklnajVnYlM"
-      },
-      {
-        "name": "SecNews.gr",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1uV05ITmUzX09QNDJJS2J6d0hJUzdmMEl2QlBZZ0ltak5CLXhwNlUxY0wwTGpHYUt6bHM5Q19aZ3dfR0l2RGhuaFdVOXJrZHVBRG9vc3B6MXJNMVo1ekpoR1J5MVdfaFpLaVN0Z3MxdjhPc2RkckE"
       }
     ],
     "model": "gemini"
   },
   {
     "id": "8371053e859f",
-    "slug": "avstraliya-markaziy-banki-ai-iqtisodiyotga-foyda-bermayapti--837105",
-    "title": "Avstraliya markaziy banki AI iqtisodiyotga foyda bermayapti dedi",
-    "summary": "Avstraliya Rezerv banki rahbari Michele Bullockning aytishicha, sun'iy intellekt \"pufak\" bo'lishi mumkin. Uning joriy etilishi hozircha iqtisodiy o'sishga emas, balki inflyatsiyaga sabab bo'lmoqda.",
+    "slug": "avstraliya-markaziy-banki-ai-iqtisodiyotga-foyda-bermaydi-837105",
+    "title": "Avstraliya markaziy banki AI iqtisodiyotga foyda bermaydi",
+    "summary": "Avstraliya Zaxira banki rahbari Michele Bullockning aytishicha, AI iqtisodiyotni samaraliroq qilmayapti. U AI pufak boʻlishi mumkinligini va hozircha inflyatsiyani oshirayotganini taʼkidladi.",
     "tags": [
       "iqtisod",
       "siyosat"
@@ -164,7 +151,7 @@
     "importance": 3,
     "score": 23,
     "published": "2026-09-22T08:54:50.000Z",
-    "created": "2026-09-22T09:14:07.978Z",
+    "created": "2026-09-22T09:18:42.590Z",
     "coverage": 1,
     "source": {
       "name": "The Guardian",
@@ -175,10 +162,32 @@
     "model": "gemini"
   },
   {
+    "id": "312e442822ad",
+    "slug": "shanghai-ai-lab-intern-s2-397b-multimodal-modelini-chiqardi-312e44",
+    "title": "Shanghai AI Lab Intern-S2-397B multimodal modelini chiqardi",
+    "summary": "Shanghai AI Laboratory Intern-S2-397B nomli ochiq ogʻirlikli ilmiy multimodal modelni taqdim etdi. Model Hugging Face va ModelScope platformalarida mavjud.",
+    "tags": [
+      "tadqiqot",
+      "ochiq model"
+    ],
+    "importance": 3,
+    "score": 21,
+    "published": "2026-09-22T08:05:45.000Z",
+    "created": "2026-09-22T09:18:42.590Z",
+    "coverage": 1,
+    "source": {
+      "name": "Pandaily",
+      "url": "https://pandaily.com/shanghai-ai-lab-intern-s2-397b-memory-decoder-ascend-hf",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "c136f868652b",
-    "slug": "trumpning-ai-maslahatchisi-sanoat-muammolarini-hal-qilmaydi-c136f8",
-    "title": "Trumpning AI maslahatchisi sanoat muammolarini hal qilmaydi",
-    "summary": "Semafor nashrining xabar berishicha, Donald Trumpning yangi AI maslahatchisi sanoat muammolarini hal qilishi dargumon. Yangi maslahatchi AI xavfsizligi bo'yicha vaziyatni o'zgartirishiga ishonch kam.",
+    "slug": "yangi-trump-ai-maslahatchisi-sanoat-muammolarini-hal-qilmayd-c136f8",
+    "title": "Yangi Trump AI maslahatchisi sanoat muammolarini hal qilmaydi",
+    "summary": "Semafor nashri yangi Trump AI maslahatchisi sanoat muammolarini hal qilishiga ishonch kamligini yozdi. U AI xavfsizligi boʻyicha vaziyatni oʻzgartirmasligi mumkin.",
     "tags": [
       "siyosat",
       "xavfsizlik"
@@ -186,7 +195,7 @@
     "importance": 2,
     "score": 19,
     "published": "2026-09-22T08:53:08.000Z",
-    "created": "2026-09-22T09:14:07.978Z",
+    "created": "2026-09-22T09:18:42.590Z",
     "coverage": 1,
     "source": {
       "name": "Semafor",
@@ -197,22 +206,44 @@
     "model": "gemini"
   },
   {
-    "id": "a6c2dc9f05c6",
-    "slug": "meta-muse-agenti-1000-dollar-topishni-vada-qildi-a6c2dc",
-    "title": "Meta Muse agenti 1000 dollar topishni va'da qildi",
-    "summary": "Meta'ning AI jamoasi Muse agenti odamlarga moliyaviy holatini ko'rib chiqish va pul tejash vazifalarini bajarishda yordam berishini aytdi. Alexandr Wangning ta'kidlashicha, bu ilova deyarli bir zumda 1000 dollar ishlab topishga yordam berishi mumkin.",
+    "id": "a8e73a2cc6d0",
+    "slug": "meta-muse-konnektorlarini-ishlab-chiquvchilarga-ochmoqda-a8e73a",
+    "title": "Meta Muse konnektorlarini ishlab chiquvchilarga ochmoqda",
+    "summary": "Meta Muse konnektorlarini ishlab chiquvchilarga ochmoqda. Bu AI agentlarini yanada foydali qilish va onlayn tijoratni oʻzgartirish imkoniyatiga ega.",
     "tags": [
       "Meta",
       "agentlar"
     ],
     "importance": 3,
-    "score": 18,
-    "published": "2026-09-22T06:01:42.000Z",
-    "created": "2026-09-22T09:14:07.978Z",
+    "score": 15,
+    "published": "2026-09-22T09:03:01.000Z",
+    "created": "2026-09-22T09:18:42.590Z",
     "coverage": 1,
     "source": {
       "name": "Business Insider",
-      "url": "https://businessinsider.com/meta-muse-alexandr-wang-save-money-ai-agent-challenge-2026-9",
+      "url": "https://businessinsider.com/connectors-ai-app-store-boom-2026-9",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "db87c86578f8",
+    "slug": "ai-agentlarini-boshqarishga-ishchilar-kotarilmayapti-db87c8",
+    "title": "AI agentlarini boshqarishga ishchilar ko'tarilmayapti",
+    "summary": "Ishchilar endi AI agentlarini boshqarish, ularning ishini nazorat qilish va xatolarni tuzatish bilan shugʻullanmoqda. Biroq koʻpchilik bu uchun lavozimga koʻtarilmayapti yoki maosh oshirilmayapti.",
+    "tags": [
+      "mehnat bozori",
+      "agentlar"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-09-22T08:11:02.000Z",
+    "created": "2026-09-22T09:18:42.590Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/workers-managing-ai-agents-bots-promotions-raises-2026-9",
       "indirect": false
     },
     "also": [],
