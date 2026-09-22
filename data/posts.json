@@ -1,5 +1,197 @@
 [
   {
+    "id": "55764e08c669",
+    "slug": "andreessen-horowitz-42-mln-dollar-bilan-akademiya-ochmoqda-55764e",
+    "title": "Andreessen Horowitz 42 mln dollar bilan akademiya ochmoqda",
+    "summary": "Venchur kapital firmasi Andreessen Horowitz yoshlar uchun Silikon vodiysi startaplariga yo'l ochish maqsadida akademiya tashkil etmoqda. Akademiya 10 ta hamkor, jumladan Anthropic, Google, Meta, Nvidia va OpenAI bilan ishlaydi hamda a16z tomonidan 42 million dollar moliyalashtiriladi.",
+    "tags": [
+      "biznes",
+      "ta'lim"
+    ],
+    "importance": 3,
+    "score": 21,
+    "published": "2026-09-22T16:34:08.000Z",
+    "created": "2026-09-22T18:02:04.267Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Verge",
+      "url": "https://theverge.com/ai-artificial-intelligence/998813/andreessen-horowitz-ai-academy",
+      "title": "Andreessen Horowitz is launching an ‘academy’ with no homework and partnerships with Palantir, Google, and Meta",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "fabd17c9e32e",
+    "slug": "scott-bessent-ai-xavfi-uchun-hyperscalerlarni-aybladi-fabd17",
+    "title": "Scott Bessent AI xavfi uchun hyperscalerlarni aybladi",
+    "summary": "Scott Bessentning fikricha, agar AI insoniyatni yo'q qilsa, javobgarlik hukumatga emas, balki hyperscaler kompaniyalarga yuklanishi kerak. U ularni mas'uliyatdan ozod qilib bo'lmasligini ta'kidladi.",
+    "tags": [
+      "xavfsizlik",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-09-22T16:22:21.000Z",
+    "created": "2026-09-22T18:02:04.269Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/09/22/bessent-ai-labs-responsibility-government-liability-shield",
+      "title": "If AI is going to destroy humanity, Scott Bessent says hyperscalers, not government, must take the fall: ‘We cannot absolve you of responsibility’",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "a7ca59844a94",
+    "slug": "openai-matematika-va-ai-boyicha-maslahat-guruhini-tuzdi-a7ca59",
+    "title": "OpenAI Matematika va AI bo'yicha maslahat guruhini tuzdi",
+    "summary": "OpenAI sun'iy intellekt natijalarini ko'rib chiqish va ularni yetkazish uchun mustaqil Matematika va AI bo'yicha maslahat guruhini tuzdi. Bu guruh rivojlanayotgan AI natijalarini yo'naltirishga yordam beradi.",
+    "tags": [
+      "OpenAI",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 43.9,
+    "published": "2026-09-21T12:00:00.000Z",
+    "created": "2026-09-22T18:02:08.401Z",
+    "coverage": 2,
+    "source": {
+      "name": "OpenAI",
+      "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "Hacker News",
+        "url": "https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "4b13fede412e",
+    "slug": "tramp-ai-nomini-super-intellekt-deb-ozgartirmoqda-4b13fe",
+    "title": "Tramp AI nomini 'super intellekt' deb o'zgartirmoqda",
+    "summary": "Prezident Tramp AI nomini \"super intellekt\" deb o'zgartirayotganini aytdi. Uning so'zlariga ko'ra, bu o'zgarish hukumat hujjatlarida aks etadi va sun'iy intellektga oid xavotirlar kuchaygan bir paytda yuz bermoqda.",
+    "tags": [
+      "siyosat",
+      "qonun"
+    ],
+    "importance": 4,
+    "score": 38,
+    "published": "2026-09-22T16:48:14.000Z",
+    "created": "2026-09-22T18:02:08.401Z",
+    "coverage": 3,
+    "source": {
+      "name": "The Washington Post",
+      "url": "https://washingtonpost.com/technology/2026/09/22/trump-says-hes-renaming-ai-super-intelligence",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "Techmeme",
+        "url": "https://techmeme.com/260922/p35"
+      },
+      {
+        "name": "The Verge",
+        "url": "https://theverge.com/ai-artificial-intelligence/998816/donald-trump-ai-super-intelligence"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "b4fb82cc1313",
+    "slug": "openai-uchinchi-tomon-baholashlari-uchun-tamoyillarni-belgil-b4fb82",
+    "title": "OpenAI uchinchi tomon baholashlari uchun tamoyillarni belgiladi",
+    "summary": "OpenAI ilg'or modellar va himoya choralarining xavfsizligini mustaqil baholash uchun ustuvorliklar va tamoyillarni e'lon qildi. Bu qat'iy, xavfsiz va mustaqil baholashlarni ta'minlashga qaratilgan.",
+    "tags": [
+      "OpenAI",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 33.6,
+    "published": "2026-09-22T00:00:00.000Z",
+    "created": "2026-09-22T18:02:08.401Z",
+    "coverage": 1,
+    "source": {
+      "name": "OpenAI",
+      "url": "https://openai.com/index/priorities-principles-third-party-assessments",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "8f25026be124",
+    "slug": "trampning-soxta-ai-tasviri-ijtimoiy-tarmoqlarda-tarqaldi-8f2502",
+    "title": "Trampning soxta AI tasviri ijtimoiy tarmoqlarda tarqaldi",
+    "summary": "Sun'iy intellekt yordamida yaratilgan Trampning soxta tasviri ijtimoiy tarmoqlarda keng tarqaldi. AI rivojlanishi va kontentning onlayn tarqalishi haqiqiylikni aniqlashni qiyinlashtirmoqda.",
+    "tags": [
+      "xavfsizlik",
+      "maxfiylik"
+    ],
+    "importance": 4,
+    "score": 30,
+    "published": "2026-09-22T15:59:55.000Z",
+    "created": "2026-09-22T18:02:08.401Z",
+    "coverage": 1,
+    "source": {
+      "name": "The New York Times",
+      "url": "https://nytimes.com/2026/09/22/business/trump-natalie-harp-photo-ai.html",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "a57a182c7272",
+    "slug": "nvidia-rahbari-aiga-qarshi-kayfiyatga-izoh-berdi-a57a18",
+    "title": "Nvidia rahbari AIga qarshi kayfiyatga izoh berdi",
+    "summary": "Nvidia barqarorlik bo'yicha rahbari AQShda AIga qarshi kuchaygan kayfiyatga qarshi chiqdi. Uning so'zlariga ko'ra, ma'lumot markazlariga qarshi norozilik \"noma'lumdan qo'rqish\" bilan bog'liq.",
+    "tags": [
+      "Nvidia",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 25,
+    "published": "2026-09-22T15:39:25.000Z",
+    "created": "2026-09-22T18:02:08.402Z",
+    "coverage": 1,
+    "source": {
+      "name": "Semafor",
+      "url": "https://semafor.com/article/09/22/2026/fear-of-the-unknown-drives-data-center-pushback-nvidia-exec-says",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "1ab0e94ba612",
+    "slug": "anthropic-opus-5-5-modelini-40-arzonroq-taklif-etdi-1ab0e9",
+    "title": "Anthropic Opus 5.5 modelini 40% arzonroq taklif etdi",
+    "summary": "Anthropicning ma'lum qilishicha, Opus 5.5 modeli ko'pgina vazifalarda Fable 5.1 ga teng keladi. Shu bilan birga, Opus 5 ga nisbatan uni ishlatish 40 foizga arzonroq.",
+    "tags": [
+      "Anthropic",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 18,
+    "published": "2026-09-22T16:42:22.000Z",
+    "created": "2026-09-22T18:02:08.402Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/260922/p38",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "46a8cb077ff0",
     "slug": "nscale-iposi-aiga-bo-lgan-ishtahani-sinovdan-o-tkazadi-46a8cb",
     "title": "Nscale IPOsi AIga boʻlgan ishtahani sinovdan oʻtkazadi",
