@@ -1,5 +1,224 @@
 [
   {
+    "id": "d196e555274c",
+    "slug": "gov-uk-asoschisi-ai-oltin-shoshilishi-dan-ogohlantirdi-d196e5",
+    "title": "GOV.UK asoschisi AI \"oltin shoshilishi\"dan ogohlantirdi",
+    "summary": "GOV.UK asoschisi Mike Brackenning ogohlantirishicha, sun'iy intellektni joriy etishga bo'lgan shoshilinch harakat Britaniyani bir nechta texnologiya yetkazib beruvchilarga qaram qilib qo'yishi mumkin. Bu suveren AI'ni qabul qilish xavfini oshiradi.",
+    "tags": [
+      "siyosat",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-09-22T08:30:00.000Z",
+    "created": "2026-09-22T09:09:24.182Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/public-sector/2026/09/22/govuk-founder-warns-ai-gold-rush-could-leave-britain-locked-in/5297828",
+      "title": "GOV.UK founder warns AI gold rush could leave Britain locked in",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "627bba22ed25",
+    "slug": "kollejni-tashlab-aiga-chidamli-kasb-tanlagan-yigit-627bba",
+    "title": "Kollejni tashlab, \"AI'ga chidamli\" kasb tanlagan yigit",
+    "summary": "20 yoshli Alejandro Rodriguez kollejga bormay, texnik maktabni tanladi. U Porsche texnigi bo'lish orqali sun'iy intellekt ta'siridan himoyalangan kasbga ega bo'lishni maqsad qilgan.",
+    "tags": [
+      "mehnat bozori",
+      "ta'lim"
+    ],
+    "importance": 2,
+    "score": 19,
+    "published": "2026-09-22T07:12:00.000Z",
+    "created": "2026-09-22T09:09:24.185Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/09/22/20-year-old-with-high-gpa-who-skipped-college-technical-school-ai-proof-career",
+      "title": "‘Skills nobody can take’: Meet a 20-year-old with a 4.5 GPA who skipped college for technical school to land an ‘AI-proof’ career",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "1b6d928ae21c",
+    "slug": "t-head-yitian-server-cpulari-uchun-yol-xaritasini-elon-qildi-1b6d92",
+    "title": "T-Head Yitian server CPU'lari uchun yo'l xaritasini e'lon qildi",
+    "summary": "T-Head Apsara 2026 konferensiyasida Yitian 720 va 730 server CPU'lari uchun 2027 yilga mo'ljallangan yo'l xaritasini taqdim etdi. Keyinchalik Yitian 750 modeli Zhenwu AI tezlatkichlariga ICN-link orqali to'g'ridan-to'g'i ulanish imkoniyatini qo'shadi.",
+    "tags": [
+      "Alibaba",
+      "chiplar"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-09-22T08:33:27.000Z",
+    "created": "2026-09-22T09:12:24.633Z",
+    "coverage": 1,
+    "source": {
+      "name": "Pandaily",
+      "url": "https://pandaily.com/t-head-yitian-720-730-server-cpu-roadmap-2027-yitian-750-icn",
+      "title": "T-Head Maps Yitian 720 and 730 Server CPUs for 2027; Yitian 750 to ICN-Link Zhenwu",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "6227bac8868b",
+    "slug": "hududgaztaminot-da-yosh-startapchilar-uchun-catalyst-dasturi-6227ba",
+    "title": "\"Hududgazta'minot\"da yosh startapchilar uchun Catalyst dasturi",
+    "summary": "\"Hududgazta'minot\" AJda Yoshlar ishlari agentligi bilan hamkorlikda StartupFest loyihasining Catalyst dasturi o'tkazildi. Dasturda yosh startapchilar AI va boshqa raqamli texnologiyalarga asoslangan loyihalar ishlab chiqdilar.",
+    "tags": [
+      "O'zbekiston",
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 48,
+    "published": "2026-09-22T07:00:11.000Z",
+    "created": "2026-09-22T09:14:07.978Z",
+    "coverage": 1,
+    "source": {
+      "name": "Kun.uz",
+      "url": "https://kun.uz/news/2026/09/22/hududgaztaminotda-yosh-startapchilar-uchun-catalyst-dasturi-otkazildi",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "fc703c844d63",
+    "slug": "alibaba-zhenwu-v900-ai-chipini-taqdim-etdi-fc703c",
+    "title": "Alibaba Zhenwu V900 AI chipini taqdim etdi",
+    "summary": "Alibaba'ning T-Head bo'linmasi Zhenwu V900 AI chipini namoyish qildi. U avvalgi Zhenwu M890 chipidan uch barobar yuqori hisoblash unumdorligiga ega. Alibaba 2032 yilga borib 20 gigavatt quvvatga ega bulutli ma'lumot markazlarini maqsad qilgan.",
+    "tags": [
+      "Alibaba",
+      "chiplar"
+    ],
+    "importance": 4,
+    "score": 30,
+    "published": "2026-09-22T07:12:15.000Z",
+    "created": "2026-09-22T09:14:07.978Z",
+    "coverage": 3,
+    "source": {
+      "name": "TechNode",
+      "url": "https://technode.com/2026/09/22/alibaba-unveils-zhenwu-v900-ai-chip-as-it-targets-20gw-of-cloud-data-centers-by-2032",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "Techmeme",
+        "url": "https://techmeme.com/260921/p58"
+      },
+      {
+        "name": "freemalaysiatoday.com",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMHhXRWZ3VFVjYXNyeVhnQ1RqQWtYeERYVzc1TC1NRlpPRzh0S1dsVW1EcXp6Ul8xNXlFZ0x6OVhvX3dJbXhFVkIxWl9OT0hMMmpBSVVwLTR1Um93cVlkc3k0WjFWY2Q0ZzJnUE9Ecl9XTEtJSC12NGRWbG42WU1seG93Rl93LXJQaUNxVVJiOVNMNm9YMnNoTG45SnlPa1hmcFVaS3loa1hWNnpMQXM1clZCbEQ2OUpzXzRaRGFkV0FXQQ"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "5dc131998993",
+    "slug": "metaning-muse-ai-agentida-jiddiy-zaiflik-topildi-5dc131",
+    "title": "Meta'ning Muse AI agentida jiddiy zaiflik topildi",
+    "summary": "Meta'ning yangi Muse AI agentida \"0-day\" zaifligi aniqlandi. Oddiy ClickFix hujumi orqali ushbu agentni to'liq egallab olish mumkin.",
+    "tags": [
+      "Meta",
+      "xavfsizlik"
+    ],
+    "importance": 4,
+    "score": 26,
+    "published": "2026-09-21T22:24:38.000Z",
+    "created": "2026-09-22T09:14:07.978Z",
+    "coverage": 3,
+    "source": {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "techtimes.com",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQcEhpdks4QkYtN3BWZmRKYkdFYzZQUklOZVp4NFNjY3E2S01rdzVOMTluS3ZTSkpHMGJ4YmpIalZ0ZmZ0TkU3ZlpVaVpZam9qQ1VUbTJJY3BfdlV0NktnSUVkMXZwUGF5Sm5WNXMzUHV4SXNqYnl3UHd5cFg1T1NhN21GYUo1S2VKeURvMDdQbjU1TXhXWFozblRuM2J3eDhKbk5lbXcxU2RibUpOa05xeVRXaFdZa01sZG9iS3FjOWtQNjhpTTl0NVo0eGNjTUlnUklnajVnYlM"
+      },
+      {
+        "name": "SecNews.gr",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1uV05ITmUzX09QNDJJS2J6d0hJUzdmMEl2QlBZZ0ltak5CLXhwNlUxY0wwTGpHYUt6bHM5Q19aZ3dfR0l2RGhuaFdVOXJrZHVBRG9vc3B6MXJNMVo1ekpoR1J5MVdfaFpLaVN0Z3MxdjhPc2RkckE"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "8371053e859f",
+    "slug": "avstraliya-markaziy-banki-ai-iqtisodiyotga-foyda-bermayapti--837105",
+    "title": "Avstraliya markaziy banki AI iqtisodiyotga foyda bermayapti dedi",
+    "summary": "Avstraliya Rezerv banki rahbari Michele Bullockning aytishicha, sun'iy intellekt \"pufak\" bo'lishi mumkin. Uning joriy etilishi hozircha iqtisodiy o'sishga emas, balki inflyatsiyaga sabab bo'lmoqda.",
+    "tags": [
+      "iqtisod",
+      "siyosat"
+    ],
+    "importance": 3,
+    "score": 23,
+    "published": "2026-09-22T08:54:50.000Z",
+    "created": "2026-09-22T09:14:07.978Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/technology/2026/sep/22/ai-could-be-a-bubble-and-is-not-yet-making-australia-more-productive-michele-bullock-says",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "c136f868652b",
+    "slug": "trumpning-ai-maslahatchisi-sanoat-muammolarini-hal-qilmaydi-c136f8",
+    "title": "Trumpning AI maslahatchisi sanoat muammolarini hal qilmaydi",
+    "summary": "Semafor nashrining xabar berishicha, Donald Trumpning yangi AI maslahatchisi sanoat muammolarini hal qilishi dargumon. Yangi maslahatchi AI xavfsizligi bo'yicha vaziyatni o'zgartirishiga ishonch kam.",
+    "tags": [
+      "siyosat",
+      "xavfsizlik"
+    ],
+    "importance": 2,
+    "score": 19,
+    "published": "2026-09-22T08:53:08.000Z",
+    "created": "2026-09-22T09:14:07.978Z",
+    "coverage": 1,
+    "source": {
+      "name": "Semafor",
+      "url": "https://semafor.com/article/09/22/2026/new-trump-ai-adviser-wont-fix-industrys-problems",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "a6c2dc9f05c6",
+    "slug": "meta-muse-agenti-1000-dollar-topishni-vada-qildi-a6c2dc",
+    "title": "Meta Muse agenti 1000 dollar topishni va'da qildi",
+    "summary": "Meta'ning AI jamoasi Muse agenti odamlarga moliyaviy holatini ko'rib chiqish va pul tejash vazifalarini bajarishda yordam berishini aytdi. Alexandr Wangning ta'kidlashicha, bu ilova deyarli bir zumda 1000 dollar ishlab topishga yordam berishi mumkin.",
+    "tags": [
+      "Meta",
+      "agentlar"
+    ],
+    "importance": 3,
+    "score": 18,
+    "published": "2026-09-22T06:01:42.000Z",
+    "created": "2026-09-22T09:14:07.978Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/meta-muse-alexandr-wang-save-money-ai-agent-challenge-2026-9",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "fb8ad85c459c",
     "slug": "omlx-yaratuvchisi-jun-kim-hugging-facega-qoshildi-fb8ad8",
     "title": "oMLX yaratuvchisi Jun Kim Hugging Face'ga qo'shildi",
