@@ -1,5 +1,262 @@
 [
   {
+    "id": "896a55a7a50c",
+    "slug": "ai-yutuqlari-va-xavotirlari-ko-proq-shov-shuv-bo-lishi-mumki-896a55",
+    "title": "AI yutuqlari va xavotirlari koʻproq shov-shuv boʻlishi mumkin",
+    "summary": "MIT Technology Review AI sohasidagi soʻnggi yutuqlar va xavotirlar haqiqatdan koʻra koʻproq shov-shuv boʻlishi mumkinligini taʼkidladi. Ekspertlar bu borada oʻz fikrlarini bildirishdi.",
+    "tags": [
+      "tadqiqot",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 23,
+    "published": "2026-09-22T12:10:00.000Z",
+    "created": "2026-09-22T14:02:34.412Z",
+    "coverage": 1,
+    "source": {
+      "name": "MIT Technology Review",
+      "url": "https://technologyreview.com/2026/09/22/1144910/the-download-dont-believe-ai-hype",
+      "title": "The Download: why AI’s latest breakthroughs and fears may be more hype than reality",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "4b7738393072",
+    "slug": "uztelecom-buxoro-va-qo-qonda-yangi-ma-lumot-markazlarini-och-4b7738",
+    "title": "Uztelecom Buxoro va Qoʻqonda yangi maʼlumot markazlarini ochdi",
+    "summary": "Uztelecom 22-sentabr kuni Buxoro va Qoʻqonda ikkita maʼlumot markazini ishga tushirdi. Bu markazlar sunʼiy intellekt va bulutli texnologiyalarni rivojlantirishga xizmat qiladi.",
+    "tags": [
+      "O'zbekiston",
+      "bulut"
+    ],
+    "importance": 4,
+    "score": 48,
+    "published": "2026-09-22T12:00:22.000Z",
+    "created": "2026-09-22T14:02:53.665Z",
+    "coverage": 1,
+    "source": {
+      "name": "Kun.uz",
+      "url": "https://kun.uz/news/2026/09/22/uztelecom-suniy-intellekt-va-bulutli-texnologiyalarni-rivojlantirish-uchun-buxoro-va-qoqonda-malumotlar-markazlarini-ishga-tushirdi",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "4fb884f6c3d6",
+    "slug": "osnova-ai-uc-venturesdan-qo-shimcha-sarmoya-jalb-qildi-4fb884",
+    "title": "Osnova AI UC Venturesdan qoʻshimcha sarmoya jalb qildi",
+    "summary": "Osnova AI kompaniyasi UC Venturesdan yana 124 ming dollar investitsiya oldi. Kompaniya AI funksiyalarini, jumladan, HR jarayonlari konstruktori va ichki tanlov agentini ishga tushirishni rejalashtirmoqda.",
+    "tags": [
+      "biznes",
+      "agentlar"
+    ],
+    "importance": 2,
+    "score": 48,
+    "published": "2026-09-22T09:54:00.000Z",
+    "created": "2026-09-22T14:02:53.665Z",
+    "coverage": 1,
+    "source": {
+      "name": "Spot.uz",
+      "url": "https://spot.uz/ru/2026/09/22/osnova-uc-ventures",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "f5f5e9f0811e",
+    "slug": "o-zbekistonda-startap-tizimini-isloh-qilish-taklif-etildi-f5f5e9",
+    "title": "Oʻzbekistonda startap tizimini isloh qilish taklif etildi",
+    "summary": "Oʻzbekistonda startaplarni tanlash va moliyalashtirish tizimini isloh qilish taklif qilindi. Loyiha raqamlashtirish va xususiy investitsiyalarni jalb etishni koʻzda tutadi.",
+    "tags": [
+      "O'zbekiston",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 41,
+    "published": "2026-09-22T12:10:00.000Z",
+    "created": "2026-09-22T14:02:53.665Z",
+    "coverage": 1,
+    "source": {
+      "name": "UzDaily",
+      "url": "https://uzdaily.uz/uz/ozbekistonda-startaplarni-qollab-quvvatlash-tizimini-isloh-qilish-taklif-etildi",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "84b3a1bb6453",
+    "slug": "metaning-muse-ai-ilovasi-chartlarda-yetakchilik-qilmoqda-84b3a1",
+    "title": "Meta’ning Muse AI ilovasi chartlarda yetakchilik qilmoqda",
+    "summary": "Meta’ning yangi Muse AI ilovasi App Store chartlarida birinchi oʻrinni egalladi. U ikki hafta ichida 2,5 million yuklab olishga erishib, ijobiy baholarga sazovor boʻldi.",
+    "tags": [
+      "Meta",
+      "biznes"
+    ],
+    "importance": 4,
+    "score": 36.8,
+    "published": "2026-09-21T20:37:05.000Z",
+    "created": "2026-09-22T14:02:53.665Z",
+    "coverage": 3,
+    "source": {
+      "name": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNc0pWbDJJdHB2NjY5UHRWOU1OVU1BaHBMT00yUzctMkJiWThOWmtXVk1SM09EQjJ6U1VZRFNudmJuOFd5aTl4N0U5QkdwcHhELUV4NEhud0l1T1RuWTlxZTViS09ybGo5UVh1NVQ4VHlNUml6SkZsc01GM0taQUNETmltLTVwVFVIYnlxUk1IVHVEMzAxdnBNT0ptMlIteUk5WkxBNmxBd3ctVmhRWDE5WDhn",
+      "indirect": true
+    },
+    "also": [
+      {
+        "name": "SSBCrack",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQb1Utd1NmMW1mRlpQU0dLWmhHc1RvRW9KRW90OGF5YlZuM2JaSTFSZmR5N1ZFVnNvVFBlcGRsUGt1M2Q1a1c0TmwzYXlnSzM2cGxwWTJZSUEzLVdEcXhjdGl1SGNtaS0wQVh1bFl3WkF5WEIyTGY1aUFqSDZfd3JOT3RGQTBTV3lhM2dJUGJydFM4RldvY3BleGxZOVhhMEVtZy03WTdiQnI2QQ"
+      },
+      {
+        "name": "Chosunbiz",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5qU0NnbktnMmkwWXY1WjdEVnFmekZzS0c0TW1FRVg3Wl82Tk02QjNkNnJrc09iUTR6a09FZUNNZE9zQnBES2M0ZXdsaEdkVlNaNjhHYXlZeExzNGpKMnVNUmpad3o2TkVNaE13Y3FZWHBMX1E2RDNlTjZ30gGOAUFVX3lxTE5UWWhJcUNaU2NZU1pNMkRKTmZpU2lvNUxVb0QydEpsNFlua0Fya2J1UmVwV3JkRWdUS3VMWTI3Si1tWFFJaEUtQnZISGdGeHM1Sl9SNURNR2lJcDZzMEdxb0VaV3dpQ1lQbVctb3NfQ0VqMVh2UjN4M1Q3bGxBai1UaEVfQldscnpRZVlZUWc"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "763e99a3b933",
+    "slug": "apple-yangi-maclar-bilan-ai-xarajatlarini-kamaytirishga-inti-763e99",
+    "title": "Apple yangi Maclar bilan AI xarajatlarini kamaytirishga intilmoqda",
+    "summary": "Apple yangi Mac kompyuterlari bilan AI xarajatlarini kamaytirish maqsadida Microsoft va Nvidia bilan raqobatlashishni rejalashtirmoqda. Bu harakat AI sohasidagi tezkor rivojlanish fonida amalga oshirilmoqda.",
+    "tags": [
+      "Apple",
+      "chiplar"
+    ],
+    "importance": 4,
+    "score": 30,
+    "published": "2026-09-22T13:22:01.000Z",
+    "created": "2026-09-22T14:02:53.665Z",
+    "coverage": 1,
+    "source": {
+      "name": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdW5hd1BKazlnZmctdWM5ZjA5QXFOZnVPYjE0dExZNXc0cDJiUWhjb0VzWUZ0QkdYb3dKaThfR20wMzlOVWRGaTc3SlZUYVdWOXB5bWV5NFE0ZGhsSC1xeG1NN2szdVpISklVdW1FcExXZ1Eya3JoekEwa0VJSHJzc2l5dW9PRWdLVzJ5MVYyNG15ZWFVRHMxNmdDRHpZd0xWY2ZaUGhLTWptZVJlSHBueWloeUFIcHhYTGhISC00c0pHQ2lBdVE",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "5329df2794f4",
+    "slug": "kalamush-miyasi-ai-modellari-haqiqatga-yaqinlashdi-5329df",
+    "title": "Kalamush miyasi AI modellari haqiqatga yaqinlashdi",
+    "summary": "Biological Computing Company oʻzining AI vositalarini Amazon Web Servicesga olib kirmoqda. Bu kalamush miyasidan yaratilgan AI modellarini rivojlantirishga katta turtki beradi.",
+    "tags": [
+      "tadqiqot",
+      "Amazon"
+    ],
+    "importance": 2,
+    "score": 29,
+    "published": "2026-09-22T13:00:00.000Z",
+    "created": "2026-09-22T14:02:53.665Z",
+    "coverage": 2,
+    "source": {
+      "name": "Wired",
+      "url": "https://wired.com/story/ai-models-built-from-rat-brains-are-about-to-become-a-reality",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "Wired",
+        "url": "https://wired.com/story/ai-coworker-bots-loved-improv-and-interstellar-soundtrack"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "180468f13cc9",
+    "slug": "iqlim-o-zgarishidan-so-ng-ai-global-tahdidga-aylandi-180468",
+    "title": "Iqlim oʻzgarishidan soʻng AI global tahdidga aylandi",
+    "summary": "The New York Times xabariga koʻra, sunʼiy intellekt iqlim oʻzgarishi kabi global tahdid sifatida muhokama qilinmoqda. Ikkala muammo ham inson faoliyati natijasida yuzaga kelgan.",
+    "tags": [
+      "xavfsizlik",
+      "siyosat"
+    ],
+    "importance": 4,
+    "score": 27,
+    "published": "2026-09-22T12:20:39.000Z",
+    "created": "2026-09-22T14:02:53.665Z",
+    "coverage": 1,
+    "source": {
+      "name": "The New York Times",
+      "url": "https://nytimes.com/2026/09/22/climate/climate-change-artificial-intelligence-global-threat.html",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "a8ae6379058c",
+    "slug": "ai-xarid-botlari-ma-lumot-sifati-muammosiga-duch-kelmoqda-a8ae63",
+    "title": "AI xarid botlari maʼlumot sifati muammosiga duch kelmoqda",
+    "summary": "Bloomberg.com xabariga koʻra, AI xarid botlari hali ham \"Garbage In, Garbage Out\" muammosidan aziyat chekmoqda. Bu ularning samaradorligiga salbiy taʼsir koʻrsatmoqda.",
+    "tags": [
+      "agentlar",
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 27,
+    "published": "2026-09-22T11:02:01.000Z",
+    "created": "2026-09-22T14:02:53.665Z",
+    "coverage": 1,
+    "source": {
+      "name": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQ3ptSnhZTjlZV3hTT0x2TS1ZbXBEZC1CeU5wRXB6b2UxRDhwUWMzTlRDUW93YllhdVEwcGpUbGRvX3A1azV2X0xQWnR4WTNMY0NkMWRWS0YzVkZ2VDVDNEpUUTUxenQxV0FyZGdQWDNQRVF3R1VIYUhjNXpzdG9kY0pyeWtFYm1KN3Y4V04wY3laSUtyNVNIUjdtLVRoSGJzanhmYjI2SXJDMWVjOW1GSWtBSWZhQmt3U0x6Y3dWRk04dw",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "70a8c9f4b889",
+    "slug": "patti-harrison-ai-va-ijtimoiy-media-haqida-fikr-bildirdi-70a8c9",
+    "title": "Patti Harrison AI va ijtimoiy media haqida fikr bildirdi",
+    "summary": "Komediyachi Patti Harrison WIRED nashriga ijtimoiy media va AI haqida intervyu berdi. U Boston Dynamics robot itlarini taqlid qilib kulgi uygʻotishi haqida ham gapirdi.",
+    "tags": [
+      "siyosat",
+      "robototexnika"
+    ],
+    "importance": 1,
+    "score": 26,
+    "published": "2026-09-22T10:00:00.000Z",
+    "created": "2026-09-22T14:02:53.665Z",
+    "coverage": 1,
+    "source": {
+      "name": "Wired",
+      "url": "https://wired.com/story/big-interview-patti-harrison",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "98acfe91fd30",
+    "slug": "hugging-face-transformers-llama-cpp-kvantlarini-qo-llab-quvv-98acfe",
+    "title": "Hugging Face Transformers llama.cpp kvantlarini qoʻllab-quvvatlaydi",
+    "summary": "Hugging Face'ning Transformers kutubxonasi endi llama.cpp kvantlarini ishga tushirish imkoniyatiga ega. Bu model optimallashtirish uchun muhim yangilikdir.",
+    "tags": [
+      "Hugging Face",
+      "ochiq model"
+    ],
+    "importance": 3,
+    "score": 24.2,
+    "published": "2026-09-22T00:00:00.000Z",
+    "created": "2026-09-22T14:02:53.665Z",
+    "coverage": 1,
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/blog/transformers-llama-cpp-quants",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "b7aecca5027b",
     "slug": "amerikaliklarning-37-foizi-uy-sotib-olishni-aiga-ishonadi-b7aecc",
     "title": "Amerikaliklarning 37 foizi uy sotib olishni AIga ishonadi",
