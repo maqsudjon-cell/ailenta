@@ -1,5 +1,90 @@
 [
   {
+    "id": "afa3077f6306",
+    "slug": "sobiq-meta-muhandisi-nega-lavozimini-pasaytirishni-soradi-afa307",
+    "title": "Sobiq Meta muhandisi nega lavozimini pasaytirishni so'radi",
+    "summary": "Meta va OpenAI sobiq muhandisi Filip Su yuqori lavozimlar ortiqcha charchoq keltirgani sababli lavozimini pasaytirishni so'raganini ma'lum qildi. Uning so'zlariga ko'ra, yuqori talablar tufayli ko'tarilishlar quvonch keltirmay qo'ygan.",
+    "tags": [
+      "Meta",
+      "mehnat bozori"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-09-22T04:01:01.000Z",
+    "created": "2026-09-22T05:14:00.495Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/top-meta-engineer-said-he-enjoyed-work-more-after-demotion-2026-9",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "f790dcf3a000",
+    "slug": "calr-tizimi-ai-modellarida-mantiqni-yaxshilaydi-f790dc",
+    "title": "CaLR tizimi AI modellarida mantiqni yaxshilaydi",
+    "summary": "Tadqiqotchilar diffuziya modellarida mantiqiy fikrlashni yaxshilash uchun CaLR tizimini taklif qilishdi. Ushbu usul gradient orqali boshqariladigan \"fikrni qayta ko'rib chiqish\" yordamida mantiqiy izchillikni ta'minlaydi. Bu tizimga xatolarni o'zi tuzatish imkonini beradi.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 10,
+    "published": "2026-09-22T04:00:00.000Z",
+    "created": "2026-09-22T05:14:00.495Z",
+    "coverage": 1,
+    "source": {
+      "name": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2609.20981",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "e1e626b734a7",
+    "slug": "prquant-xulosa-chiqarish-samaradorligini-oshiradi-e1e626",
+    "title": "PRQuant xulosa chiqarish samaradorligini oshiradi",
+    "summary": "Tadqiqotchilar chiziqli qatlamlarni kvantlashda aniqlikni saqlash uchun PRQuant tizimini taklif qilishdi. Ushbu usul qo'shimcha o'qitishni talab qilmaydi va xulosa chiqarish jarayonidagi yuklamalarni kamaytiradi. U og'irliklardagi xatoliklarni bartaraf etishga yordam beradi.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 10,
+    "published": "2026-09-22T04:00:00.000Z",
+    "created": "2026-09-22T05:14:00.495Z",
+    "coverage": 1,
+    "source": {
+      "name": "arXiv cs.LG",
+      "url": "https://arxiv.org/abs/2609.22106",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "89c536779b73",
+    "slug": "sjr-tizimi-kontent-moderatsiyasini-osonlashtiradi-89c536",
+    "title": "SJR tizimi kontent moderatsiyasini osonlashtiradi",
+    "summary": "Tadqiqotchilar multimodal kontent moderatsiyasi uchun SJR deb nomlangan ikki modelli arxitekturani taklif qilishdi. Tizim kontentni tushunish va qoidalarni qo'llash vazifalarini bir-biridan ajratadi. Bu qoidalar o'zgarganda butun tizimni qayta o'qitish zaruratini yo'qotadi.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 10,
+    "published": "2026-09-22T04:00:00.000Z",
+    "created": "2026-09-22T05:14:00.495Z",
+    "coverage": 1,
+    "source": {
+      "name": "arXiv cs.CL",
+      "url": "https://arxiv.org/abs/2609.22094",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "cf4c9ab4caf4",
     "slug": "tencent-hy-image-3-5-preview-modelini-taqdim-etdi-cf4c9a",
     "title": "Tencent Hy Image 3.5 Preview modelini taqdim etdi",
