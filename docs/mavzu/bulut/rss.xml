@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/bulut/</link>
   <description>&quot;bulut&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Tue, 22 Sep 2026 09:26:19 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 22 Sep 2026 09:40:35 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/bulut/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Ollama'dan foydalanish bo'yicha ogohlantirish</title>
+    <link>https://ailenta.uz/x/ollamadan-foydalanish-boyicha-ogohlantirish-1f1f33/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/ollamadan-foydalanish-boyicha-ogohlantirish-1f1f33/</guid>
+    <pubDate>Tue, 22 Sep 2026 08:44:59 GMT</pubDate>
+    <description>Maqolada Ollama platformasining kamchiliklari va foydalanuvchilarni chalg'itishi muhokama qilinadi. Uning llama.cpp ustidagi oddiy interfeysi mashhurlikka erishgan bo'lsa-da, keyinchalik bulutga yo'naltirilgani tanqid qilinadi.</description>
+    <category>ochiq model</category><category>bulut</category>
+    <media:content url="https://ailenta.uz/og/ollamadan-foydalanish-boyicha-ogohlantirish-1f1f33.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/ollamadan-foydalanish-boyicha-ogohlantirish-1f1f33.jpg"/>
+  </item>
   <item>
     <title>Alibaba Cloud 20GW ma'lumot markazlari quradi</title>
     <link>https://ailenta.uz/x/alibaba-cloud-20gw-malumot-markazlari-quradi-ea5a46/</link>
@@ -296,16 +306,6 @@
     <category>iqtisod</category><category>bulut</category>
     <media:content url="https://ailenta.uz/og/avstraliyada-ai-ma-lumot-markazlari-jadal-rivojlanmoqda-2ec6a5.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/avstraliyada-ai-ma-lumot-markazlari-jadal-rivojlanmoqda-2ec6a5.jpg"/>
-  </item>
-  <item>
-    <title>Anthropic AI poygasida g'alaba uchun markazlar qurishni tavsiya qildi</title>
-    <link>https://ailenta.uz/x/anthropic-ai-poygasida-galaba-uchun-markazlar-qurishni-tavsi-287776/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/anthropic-ai-poygasida-galaba-uchun-markazlar-qurishni-tavsi-287776/</guid>
-    <pubDate>Thu, 03 Sep 2026 11:58:20 GMT</pubDate>
-    <description>Anthropic kompaniyasi sun'iy intellekt poygasida g'alaba qozonish uchun ma'lumot markazlari qurish muhimligini ta'kidladi. Bu AI infratuzilmasini rivojlantirishga qaratilgan chaqiriqdir.</description>
-    <category>Anthropic</category><category>bulut</category>
-    <media:content url="https://ailenta.uz/og/anthropic-ai-poygasida-galaba-uchun-markazlar-qurishni-tavsi-287776.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/anthropic-ai-poygasida-galaba-uchun-markazlar-qurishni-tavsi-287776.jpg"/>
   </item>
 </channel>
 </rss>

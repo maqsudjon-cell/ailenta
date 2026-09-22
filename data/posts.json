@@ -1,5 +1,182 @@
 [
   {
+    "id": "57b8b840dd04",
+    "slug": "yangi-chatbot-qadimgi-yunon-yozuvlari-sirlarini-ochadi-57b8b8",
+    "title": "Yangi chatbot qadimgi yunon yozuvlari sirlarini ochadi",
+    "summary": "Tadqiqotchilar papirus parchalaridagi bo'shliqlarni to'ldiruvchi katta til modelini yaratdilar. Bu qadimgi hayot haqida yangi ma'lumotlarni ochishga yordam beradi.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 26,
+    "published": "2026-09-22T09:30:00.000Z",
+    "created": "2026-09-22T09:36:09.343Z",
+    "coverage": 1,
+    "source": {
+      "name": "Wired",
+      "url": "https://wired.com/story/apollo-ai-model-ancient-greek-secrets-papyrus",
+      "title": "A New Chatbot Wants to Unlock the Secrets in Tattered Ancient Greek Records",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "c835da6fd0d9",
+    "slug": "rossiya-ai-bozori-2025-yilga-316-1-mlrd-rubl-c835da",
+    "title": "Rossiya AI bozori: 2025 yilga 316,1 mlrd rubl",
+    "summary": "AIANA tadqiqotiga ko'ra, Rossiya AI bozori hajmi 2025 yil oxiriga kelib 316,1 mlrd rublga baholanmoqda. Bozorning 71,9% B2B sektoriga to'g'ri keladi, 31,1% esa AI uskunalari va infratuzilmasiga.",
+    "tags": [
+      "biznes",
+      "iqtisod"
+    ],
+    "importance": 2,
+    "score": 11,
+    "published": "2026-09-22T09:00:09.000Z",
+    "created": "2026-09-22T09:36:09.357Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/companies/psm_unlim/articles/1083150",
+      "title": "AI забыл про энергетику? Парадокс исследования рынка ИИ в РФ",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "f6c39264c8cf",
+    "slug": "tender-hujjatlaridan-shartlarni-neyrosimvolik-ajratish-f6c392",
+    "title": "Tender hujjatlaridan shartlarni neyrosimvolik ajratish",
+    "summary": "Maqolada tender hujjatlaridan shartlarni ajratib olish uchun neyrosimvolik tizimni yaratish haqida so'z boradi. Ushbu tizim to'lov tartibi, avans, yetkazib berish muddati kabi ma'lumotlarni aniqlaydi.",
+    "tags": [
+      "biznes",
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 11,
+    "published": "2026-09-22T07:39:47.000Z",
+    "created": "2026-09-22T09:36:09.361Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1084984",
+      "title": "Как я строю нейросимвольное извлечение условий из тендерных документов",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "e0ac77372ae4",
+    "slug": "amerikaliklar-aiga-nisbatan-hissiyotlari-ozgarmoqda-e0ac77",
+    "title": "Amerikaliklar AIga nisbatan hissiyotlari o'zgarmoqda",
+    "summary": "Kundalik AI kuzatuvchisi shuni ko'rsatdiki, amerikaliklar AI rivojlanishini qo'llab-quvvatlaydi. Biroq, ular bu borada xursand emaslar.",
+    "tags": [
+      "siyosat"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-09-22T08:11:01.000Z",
+    "created": "2026-09-22T09:36:44.889Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/ai-superintelligence-doom-or-boom-public-sentiment-surveys-2026-9",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "621b00e6cd98",
+    "slug": "universitetlar-ai-detektorlaridan-foydalanishni-taqiqladi-621b00",
+    "title": "Universitetlar AI detektorlaridan foydalanishni taqiqladi",
+    "summary": "Ba'zi universitetlar AI detektorlaridan foydalanishni taqiqladi. Bu noto'g'ri musbat natijalar tufayli talaba-o'qituvchi ishonchsizligi bilan bog'liq. Ba'zi o'qituvchilar yozma topshiriqlarni bekor qildi.",
+    "tags": [
+      "ta'lim",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-09-22T07:50:46.000Z",
+    "created": "2026-09-22T09:36:44.889Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/260922/p6",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "d4e6dbb6384b",
+    "slug": "ai-agentlari-uchun-veb-saytlar-bilan-ishlash-muammosi-d4e6db",
+    "title": "AI agentlari uchun veb-saytlar bilan ishlash muammosi",
+    "summary": "AI agentlari veb-saytlar bilan ishlashda qiyinchiliklarga duch keladi. Maqolada saytlar o'z imkoniyatlarini agentlarga oshkor qilishi kerakligi muhokama qilinadi.",
+    "tags": [
+      "agentlar",
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 14,
+    "published": "2026-09-22T09:28:20.000Z",
+    "created": "2026-09-22T09:36:44.889Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/companies/first/articles/1084590",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "a502bc2cb55f",
+    "slug": "aida-jailbreak-hujumlar-nega-modellar-qoidalarni-buzadi-a502bc",
+    "title": "AIda JailBreak-hujumlar: nega modellar qoidalarni buzadi",
+    "summary": "Ba'zan to'g'ri tuzilgan matn neyron tarmoqni \"buzish\" uchun yetarli bo'ladi. Maqolada AIning o'z cheklovlarini qanday chetlab o'tishi va klassik JailBreak-hujumlar turlari ko'rib chiqiladi.",
+    "tags": [
+      "xavfsizlik",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 14,
+    "published": "2026-09-22T08:00:49.000Z",
+    "created": "2026-09-22T09:36:44.889Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/companies/selectel/articles/1083034",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "1f1f33a9c406",
+    "slug": "ollamadan-foydalanish-boyicha-ogohlantirish-1f1f33",
+    "title": "Ollama'dan foydalanish bo'yicha ogohlantirish",
+    "summary": "Maqolada Ollama platformasining kamchiliklari va foydalanuvchilarni chalg'itishi muhokama qilinadi. Uning llama.cpp ustidagi oddiy interfeysi mashhurlikka erishgan bo'lsa-da, keyinchalik bulutga yo'naltirilgani tanqid qilinadi.",
+    "tags": [
+      "ochiq model",
+      "bulut"
+    ],
+    "importance": 2,
+    "score": 11,
+    "published": "2026-09-22T08:44:59.000Z",
+    "created": "2026-09-22T09:36:44.889Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1085032",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "d196e555274c",
     "slug": "gov-uk-asoschisi-ai-poygasi-britaniyani-qulflashi-mumkin-d196e5",
     "title": "GOV.UK asoschisi: AI poygasi Britaniyani qulflashi mumkin",
