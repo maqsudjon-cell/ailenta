@@ -1,5 +1,164 @@
 [
   {
+    "id": "df69de99cbd8",
+    "slug": "apple-dokonlari-memori-ai-xaridlariga-shubha-bilan-qaraydi-df69de",
+    "title": "Apple do'konlari me'mori AI xaridlariga shubha bilan qaraydi",
+    "summary": "Apple do'konlarini qurgan Ron Johnson, Silikon vodiysining AI xaridlariga bo'lgan ishonchiga shubha bilan qaraydi. Uning fikricha, Apple'ning muvaffaqiyat siri har doim uning xodimlari bo'lgan.",
+    "tags": [
+      "Apple",
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-09-21T23:44:28.000Z",
+    "created": "2026-09-22T00:19:42.651Z",
+    "coverage": 1,
+    "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping",
+      "title": "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "5ea6100ff4b3",
+    "slug": "meta-muse-zuckerbergga-yangi-imkoniyat-beradi-5ea610",
+    "title": "Meta Muse Zuckerbergga yangi imkoniyat beradi",
+    "summary": "Business Insider xabariga ko'ra, Meta'ning Muse AI agenti Mark Zuckerbergga kuchli internet platformasi yaratish uchun yangi imkoniyat berishi mumkin. Dasturchilar bu loyihaga katta e'tibor qaratmoqda.",
+    "tags": [
+      "Meta",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 18,
+    "published": "2026-09-21T22:16:36.000Z",
+    "created": "2026-09-22T00:20:37.149Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/meta-muse-mark-zuckerberg-platform-opportunity-developers-2026-9",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "00488d515dc5",
+    "slug": "aqsh-armiyasi-dron-urushi-dasturini-yangilamoqda-00488d",
+    "title": "AQSh armiyasi dron urushi dasturini yangilamoqda",
+    "summary": "AQSh armiyasining o'quv qo'mondonligi dron urushi dasturini har 60 kunda yangilaydi. Bu askarlar fikri va Yaqin Sharq hamda Ukrainadagi mojarolardan olingan kuzatuvlarga asoslanadi.",
+    "tags": [
+      "siyosat",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-09-21T19:22:19.000Z",
+    "created": "2026-09-22T00:20:37.149Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/us-army-command-updates-drone-curriculum-regularly-2026-9",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "75d5ded90909",
+    "slug": "lg-electronics-nvidiadan-2-5mvt-cdu-uchun-tasdiq-oldi-75d5de",
+    "title": "LG Electronics Nvidia'dan 2.5MVt CDU uchun tasdiq oldi",
+    "summary": "LG Electronics kompaniyasi Nvidia'dan 2.5MVt quvvatga ega CDU (sovutish tarqatish bloki) uchun tasdiq oldi. Bu LG'ning AI ma'lumot markazlari bozoridagi mavqeini mustahkamlaydi.",
+    "tags": [
+      "LG",
+      "Nvidia"
+    ],
+    "importance": 3,
+    "score": 13,
+    "published": "2026-09-22T00:00:00.000Z",
+    "created": "2026-09-22T00:20:37.149Z",
+    "coverage": 1,
+    "source": {
+      "name": "biz.chosun.com",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBLc1lpVTQzamROTV9oaGh4V2VWSjhpOTZJeUwyVjF3bzdXUW9ZNEp2ZDcwckNJOXpOcVFURU1LQ1NXc1g0NVRUUEdFY2YzQmJIaElpclcxelVYM2ZIT05DZEFlVll5ZUxQZzMwb3p0NlhiUnpacGVvZm530gGOAUFVX3lxTE1BSk9UM1VrSlp4MjliTFphaDFjWTk5N25feFI4ZEF1YndjNXNmOFRFdWJNZXdDVE1PeVJaczEtYkYzaXFLOGVsUzQyTmhva1J3eERJYS1oalZOWFV0RnpsUWdYdTMybEc0RmczbEE4ODZqZXl2Sk9wbjhkcjVwbDhTc2NPT09XbXRjVkIyZkE",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "bd582dec9c25",
+    "slug": "kongress-ai-xavfi-va-nvidia-tasirini-muhokama-qildi-bd582d",
+    "title": "Kongress AI xavfi va Nvidia ta'sirini muhokama qildi",
+    "summary": "Kongress AI xavflariga e'tibor qaratayotgan bir paytda, Nvidia kompaniyasining Vashingtondagi ta'siri sinovdan o'tmoqda. Bu AI bo'yicha munozaralar Nvidia'ning siyosiy mavqeini o'zgartirishi mumkin.",
+    "tags": [
+      "Nvidia",
+      "siyosat"
+    ],
+    "importance": 3,
+    "score": 11.6,
+    "published": "2026-09-21T08:55:00.000Z",
+    "created": "2026-09-22T00:20:37.149Z",
+    "coverage": 2,
+    "source": {
+      "name": "streamlinefeed.co.ke",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUE1GN3cwT19MNmY2TktJV3BCdENCMWotbExNa0dfN2tpVUlWRVFCNXBGeS1vMnJKejlERnNENDV1OEc3SFhYaW5WekdoQ0FpcnJvZFBmVlBPTlVZaU82WFYydWRXN3dJcUtZRHdNX2pkOG96Ukw3eHd3dkdHNjFxWHdrWWZSbkZQYmdkdlptWFZDYmJFRWE3Ti1R",
+      "indirect": true
+    },
+    "also": [
+      {
+        "name": "Politico",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNTVOU09CdlUzSUJKRjI1SEpoYmhGOUJmTlJtVE9QUHgzODRIRmJMWEJYUGVJeHpKbmZYdnFwTW5TcWNQcms3V1QzWjNZbDNDc2t0VXJnaHVWUFNfeUE1WXgxVzZwM1lfeEJuOHl0YXFlV3RrWlM4aXhRaFR1ZUNOMUNKX19HNEQ1U0NibQ"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "a90a02a3c507",
+    "slug": "amd-ryzen-ai-haloda-mahalliy-xulosa-chiqarish-sinovlari-a90a02",
+    "title": "AMD Ryzen AI Halo'da mahalliy xulosa chiqarish sinovlari",
+    "summary": "Habr nashri AMD Ryzen AI Halo'da mahalliy xulosa chiqarish imkoniyatlarini sinovdan o'tkazdi. Maqolada turli modellar va kontekstlar, shuningdek, RTX 5060Ti 16GB bilan taqqoslashlar keltirilgan.",
+    "tags": [
+      "AMD",
+      "chiplar"
+    ],
+    "importance": 2,
+    "score": 11,
+    "published": "2026-09-21T17:00:02.000Z",
+    "created": "2026-09-22T00:20:37.150Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1081680",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "e15d5f69693e",
+    "slug": "jev-ai-modeli-ochiq-va-ichki-malumotlarda-sinovda-e15d5f",
+    "title": "Jev AI modeli ochiq va ichki ma'lumotlarda sinovda",
+    "summary": "Habr nashri Jev AI modelini ochiq va ichki ma'lumotlar to'plamlarida sinovdan o'tkazdi. U gpt-5.4-mini va gpt-5.6-luna bilan taqqoslanib, uning afzalliklari va kamchiliklari aniqlandi.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 11,
+    "published": "2026-09-21T14:11:26.000Z",
+    "created": "2026-09-22T00:20:37.150Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1084770",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "48bea669b19d",
     "slug": "texasda-malumot-markazlariga-ruxsat-berish-toxtatildi-48bea6",
     "title": "Texasda ma'lumot markazlariga ruxsat berish to'xtatildi",
