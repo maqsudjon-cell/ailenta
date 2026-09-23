@@ -1,5 +1,72 @@
 [
   {
+    "id": "446229dce782",
+    "slug": "fransiyada-muallif-ai-ishlatganlikda-ayblandi-446229",
+    "title": "Fransiyada muallif AI ishlatganlikda ayblandi",
+    "summary": "Fransiyada yozuvchi Thélyson Orélien sun'iy intellektdan foydalanganlikda ayblanib, jamoatchilik noroziligiga sabab bo'ldi. Bu holat muhokamalarga sabab bo'lmoqda.",
+    "tags": [
+      "qonun"
+    ],
+    "importance": 2,
+    "score": 23,
+    "published": "2026-09-23T15:28:05.000Z",
+    "created": "2026-09-23T21:02:12.996Z",
+    "coverage": 1,
+    "source": {
+      "name": "BBC",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE11c0ZBMmhoakltalJQckhralBvYmp2NEZZTmJZcHRxOXhNRS1oUFlJcEFUUGJTTWV3d3d3dFJ3Z01Sb2xwdjJTN0FWQ1BzbTRuYjlMdllVcWl2cDA",
+      "title": "Thélyson Orélien: French uproar over author accused of using AI",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "961a25f3b06d",
+    "slug": "robot-it-bir-quvvatlanishda-marafonda-yugurdi-961a25",
+    "title": "Robot it bir quvvatlanishda marafonda yugurdi",
+    "summary": "Bir robot it bir marta quvvatlanishda marafonda yugurishga muvaffaq bo'ldi. Yaratuvchilarning aytishicha, yengil apparat va mustahkamlovchi o'rganish bunga yordam bergan.",
+    "tags": [
+      "robototexnika",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-09-23T16:33:35.000Z",
+    "created": "2026-09-23T21:02:20.796Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/offbeat/2026/09/23/robot-dog-ran-a-marathon-on-one-charge-and-lived-to-publish-the-paper/5298648",
+      "title": "Robot dog ran a marathon on one charge and lived to publish the paper",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "f744b3bc273e",
+    "slug": "enveda-ai-dori-vositalari-uchun-311-mln-mablag-jalb-qildi-f744b3",
+    "title": "Enveda AI dori vositalari uchun $311 mln mablag' jalb qildi",
+    "summary": "AI biotexnologiya kompaniyasi Enveda $311 million sarmoya jalb qildi, uning qiymati $2 milliardga baholandi. Kompaniya teri kasalliklari va vazn yo'qotishni saqlash uchun AI dorilarini sinovdan o'tkazmoqda.",
+    "tags": [
+      "tibbiyot",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-09-23T19:31:28.000Z",
+    "created": "2026-09-23T21:02:44.603Z",
+    "coverage": 1,
+    "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/23/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "f7558dc5c9de",
     "slug": "gpt-6-astra-yuridik-hujjatlarni-yaxshilamoqda-f7558d",
     "title": "GPT-6 Astra yuridik hujjatlarni yaxshilamoqda",
