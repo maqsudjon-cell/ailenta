@@ -1,5 +1,121 @@
 [
   {
+    "id": "c7fbb858d6f2",
+    "slug": "ai-davrida-tanqidiy-fikrlash-aqlli-bolib-qolish-sirlari-c7fbb8",
+    "title": "AI davrida tanqidiy fikrlash: aqlli bo'lib qolish sirlari",
+    "summary": "Nature nashri AI davrida tanqidiy fikrlashning ilmiy jihatlari haqida maqola chop etdi. Unda sun'iy intellekt sharoitida aqlli bo'lib qolish yo'llari muhokama qilingan.",
+    "tags": [
+      "tadqiqot",
+      "ta'lim"
+    ],
+    "importance": 2,
+    "score": 22.8,
+    "published": "2026-09-23T00:00:00.000Z",
+    "created": "2026-09-23T12:36:56.573Z",
+    "coverage": 1,
+    "source": {
+      "name": "Nature",
+      "url": "https://nature.com/articles/d41586-026-02930-6",
+      "title": "How to stay smart in the age of AI: the science of critical thinking",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "35b54d5b712c",
+    "slug": "ai-yetakchilari-bmtni-texnologiya-xavflari-haqida-ogohlantir-35b54d",
+    "title": "AI yetakchilari BMTni texnologiya xavflari haqida ogohlantirdi",
+    "summary": "Sun'iy intellekt yetakchilari Birlashgan Millatlar Tashkilotiga brifing berdi. Ular texnologiya inson nazoratidan chiqib ketishi mumkinligi haqida ogohlantirishlar berishdi.",
+    "tags": [
+      "siyosat",
+      "xavfsizlik"
+    ],
+    "importance": 4,
+    "score": 27,
+    "published": "2026-09-23T11:18:01.000Z",
+    "created": "2026-09-23T12:38:51.016Z",
+    "coverage": 1,
+    "source": {
+      "name": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOazV6Q242LXE0TVZZRV9wcXl4UmJlMHp2ZHMtX0h4RGlPeGlUbkhGQklJTDhuN0FKaFdzUUs3cS0zN1ZsTVR1Mk51M190NFFuVjdZekJVSjlXMXpuaDAwVGVaSl9LbnpKMWlmMG1YaUVOQ3lqTXl4ck5nZm94RlMxaFA2N091TUxyNWJCSkpLOER1TDAtRF94TWZ6NVNIM01lcWxvOUJaWTVHYUZ3WlJjSm16WWtUSldqcHdWOFNR",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "4c9c68c80e3c",
+    "slug": "ai-yetakchilari-aqsh-va-xitoy-kelishuvi-zarurligini-aytdi-4c9c68",
+    "title": "AI yetakchilari AQSH va Xitoy kelishuvi zarurligini aytdi",
+    "summary": "Sanoat yetakchilari global kuchlar o'rtasida AI bo'yicha muvofiqlashtirishga chaqirdi. Biroq, ishonchsizlik va ichki bo'linishlar kelishuvni ehtimoldan yiroq qilmoqda.",
+    "tags": [
+      "siyosat",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 23,
+    "published": "2026-09-23T09:00:00.000Z",
+    "created": "2026-09-23T12:38:51.016Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Washington Post",
+      "url": "https://washingtonpost.com/politics/2026/09/23/trump-xi-jinping-will-talk-about-ai-they-arent-close-deal",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "b092de23a576",
+    "slug": "metaning-muse-ai-modeli-mashhurligi-ortib-tanqidlarga-uchram-b092de",
+    "title": "Meta'ning Muse AI modeli mashhurligi ortib, tanqidlarga uchramoqda",
+    "summary": "Meta'ning Muse AI modeli mashhurligi tez o'sib bormoqda. Biroq, u boshqa texnologiya gigantidan qizg'in tanqidlarga sabab bo'lmoqda.",
+    "tags": [
+      "Meta",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 18,
+    "published": "2026-09-22T22:11:00.000Z",
+    "created": "2026-09-23T12:38:51.016Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVGkycGZfS2VycXR5TUxfOTg2RlVabUl1cjhoWTdFZTN4NWd2dW5Ea003bXpPTkRKV0dwSFR0Vl9ia25aakZFTU40Z09OQm41M295TnNnblc4aTF0LV9kSklyS080ei1Ld0xTbHV1VmwtdTRmelNNVi1LYng1dVJtc2ctaG95VWVMOFJXWUZUSDk3R1J0Q3d0YzFoRmdncjFrU0E",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "1ad1a74b7063",
+    "slug": "nvidia-ai-poygasining-ikki-tomoniga-ham-sotishni-kuchaytirmo-1ad1a7",
+    "title": "Nvidia AI poygasining ikki tomoniga ham sotishni kuchaytirmoqda",
+    "summary": "Nvidia sun'iy intellekt poygasining har ikki tomoniga ham mahsulot sotishni faollashtirmoqda. Kompaniya o'z strategiyasini ikki barobar oshirmoqda.",
+    "tags": [
+      "Nvidia",
+      "chiplar"
+    ],
+    "importance": 3,
+    "score": 15.4,
+    "published": "2026-09-22T23:03:00.000Z",
+    "created": "2026-09-23T12:38:51.016Z",
+    "coverage": 2,
+    "source": {
+      "name": "AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQzViNjQxdmpiM2RLZUR4dEFFR1NiTWRTdy1VUzZZTTVwNVQ2Z1lSOWU3dEJLTXVkcWlIRnc2RmZkYXViZ1AxMWZMNVVYQ3B1VWg2dGM1dU4waWdYWWNKZ3dUVURFRXlwNG5TRnJrd191aUpUdmlrUDJmU1QzaUV6T0dB",
+      "indirect": true
+    },
+    "also": [
+      {
+        "name": "The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQamlrQkJOeS1aV1JhdkJBc1c0XzNBS2txTXpQMmdRejY3c2FNeU1BYnBibk5iclc0UE5ObDNEeWhtdTRfRWRsYmRKYlFPQzlXTDVQU2xMSnZSXzJ4MlZQZFJUcjJXSVFRbDl1RFZiTExoRVlOMHA4anM4WXdGLU9KSEdKRDQtcFNKOVE"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
     "id": "41a8f44fb467",
     "slug": "xitoy-ai-rivojlanishini-sekinlashtirishga-rozi-emas-41a8f4",
     "title": "Xitoy AI rivojlanishini sekinlashtirishga rozi emas",
