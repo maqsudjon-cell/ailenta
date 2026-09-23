@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/tibbiyot/</link>
   <description>&quot;tibbiyot&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Wed, 23 Sep 2026 05:05:34 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 23 Sep 2026 05:20:41 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/tibbiyot/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Ko'zi ojizlar uchun arzon AI integratsiyalangan aqlli hassa</title>
+    <link>https://ailenta.uz/x/kozi-ojizlar-uchun-arzon-ai-integratsiyalangan-aqlli-hassa-9a15fa/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/kozi-ojizlar-uchun-arzon-ai-integratsiyalangan-aqlli-hassa-9a15fa/</guid>
+    <pubDate>Wed, 23 Sep 2026 04:00:00 GMT</pubDate>
+    <description>Tadqiqotchilar ko'zi ojizlar uchun arzon ($88) va to'liq oflayn ishlaydigan AI integratsiyalangan aqlli hassa yaratdi. U Raspberry Pi Zero 2W asosida ko'p modalli harakatlanish yordamini ta'minlaydi.</description>
+    <category>tadqiqot</category><category>tibbiyot</category>
+    <media:content url="https://ailenta.uz/og/kozi-ojizlar-uchun-arzon-ai-integratsiyalangan-aqlli-hassa-9a15fa.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/kozi-ojizlar-uchun-arzon-ai-integratsiyalangan-aqlli-hassa-9a15fa.jpg"/>
+  </item>
   <item>
     <title>Anthropic va OpenEvidence tibbiy AI uchun hamkorlik qildi</title>
     <link>https://ailenta.uz/x/anthropic-va-openevidence-tibbiy-ai-uchun-hamkorlik-qildi-f8c61e/</link>
@@ -296,16 +306,6 @@
     <category>tibbiyot</category><category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/multimodal-model-oshqozon-saratonini-bashorat-qiladi-243278.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/multimodal-model-oshqozon-saratonini-bashorat-qiladi-243278.jpg"/>
-  </item>
-  <item>
-    <title>Ray Kurzweil miya-kompyuter startapiga qo'shildi</title>
-    <link>https://ailenta.uz/x/ray-kurzweil-miya-kompyuter-startapiga-qoshildi-30f1e8/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/ray-kurzweil-miya-kompyuter-startapiga-qoshildi-30f1e8/</guid>
-    <pubDate>Thu, 03 Sep 2026 19:02:18 GMT</pubDate>
-    <description>AI mutaxassisi Ray Kurzweil Subsense startapiga qo'shildi. Kompaniya burun orqali yuboriladigan nano zarrachalar yordamida miya-kompyuter tizimini ishlab chiqmoqda. Bu tizim Neuralink'ka raqobat qilishi mumkin.</description>
-    <category>tadqiqot</category><category>tibbiyot</category>
-    <media:content url="https://ailenta.uz/og/ray-kurzweil-miya-kompyuter-startapiga-qoshildi-30f1e8.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/ray-kurzweil-miya-kompyuter-startapiga-qoshildi-30f1e8.jpg"/>
   </item>
 </channel>
 </rss>

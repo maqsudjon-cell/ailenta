@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/tadqiqot/</link>
   <description>&quot;tadqiqot&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Wed, 23 Sep 2026 05:05:34 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 23 Sep 2026 05:20:41 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/tadqiqot/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Ko'zi ojizlar uchun arzon AI integratsiyalangan aqlli hassa</title>
+    <link>https://ailenta.uz/x/kozi-ojizlar-uchun-arzon-ai-integratsiyalangan-aqlli-hassa-9a15fa/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/kozi-ojizlar-uchun-arzon-ai-integratsiyalangan-aqlli-hassa-9a15fa/</guid>
+    <pubDate>Wed, 23 Sep 2026 04:00:00 GMT</pubDate>
+    <description>Tadqiqotchilar ko'zi ojizlar uchun arzon ($88) va to'liq oflayn ishlaydigan AI integratsiyalangan aqlli hassa yaratdi. U Raspberry Pi Zero 2W asosida ko'p modalli harakatlanish yordamini ta'minlaydi.</description>
+    <category>tadqiqot</category><category>tibbiyot</category>
+    <media:content url="https://ailenta.uz/og/kozi-ojizlar-uchun-arzon-ai-integratsiyalangan-aqlli-hassa-9a15fa.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/kozi-ojizlar-uchun-arzon-ai-integratsiyalangan-aqlli-hassa-9a15fa.jpg"/>
+  </item>
   <item>
     <title>San-Fransiskoda agentli muhandislik bo'yicha tadbir</title>
     <link>https://ailenta.uz/x/san-fransiskoda-agentli-muhandislik-boyicha-tadbir-50fdf1/</link>
@@ -296,16 +306,6 @@
     <category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/mini-agi-8gb-vramda-oqitilgan-model-taqdim-etildi-08be31.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/mini-agi-8gb-vramda-oqitilgan-model-taqdim-etildi-08be31.jpg"/>
-  </item>
-  <item>
-    <title>RBS-Attention uslubi taqdim etildi</title>
-    <link>https://ailenta.uz/x/rbs-attention-uslubi-taqdim-etildi-340883/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/rbs-attention-uslubi-taqdim-etildi-340883/</guid>
-    <pubDate>Mon, 21 Sep 2026 04:00:00 GMT</pubDate>
-    <description>Tadqiqotchilar uzun kontekstli yirik til modellari uchun RBS-Attention uslubini taklif qildi. Ushbu o'qitish talab etmaydigan uslub xulosa chiqarish jarayonidagi prefill bosqichi xarajatlarini kamaytirishga yordam beradi.</description>
-    <category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/rbs-attention-uslubi-taqdim-etildi-340883.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/rbs-attention-uslubi-taqdim-etildi-340883.jpg"/>
   </item>
 </channel>
 </rss>

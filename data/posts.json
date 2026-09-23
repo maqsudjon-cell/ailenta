@@ -1,5 +1,93 @@
 [
   {
+    "id": "d390cd76c558",
+    "slug": "micro1-startapi-4-milliard-bahoda-100m-mablag-jalb-qildi-d390cd",
+    "title": "Micro1 startapi $4 milliard bahoda $100M+ mablag' jalb qildi",
+    "summary": "AI o'qitish ma'lumotlari startapi Micro1 $4 milliard bahoda $100 milliondan ortiq mablag' jalb qildi. Kompaniyaning yillik takrorlanuvchi daromadi $500 milliondan oshdi va xAI asoschilari ham sarmoya kiritdi.",
+    "tags": [
+      "xAI",
+      "biznes"
+    ],
+    "importance": 4,
+    "score": 21,
+    "published": "2026-09-23T00:10:01.000Z",
+    "created": "2026-09-23T05:16:46.136Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/260922/p58",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "91c583490f40",
+    "slug": "ai-boshlangich-darajadagi-ish-orinlariga-tasir-qilmoqda-91c583",
+    "title": "AI boshlang'ich darajadagi ish o'rinlariga ta'sir qilmoqda",
+    "summary": "Sun'iy intellekt kichik xodimlarga beriladigan vazifalarni tobora samarali bajarmoqda. Bu holat kompaniyalarni boshlang'ich darajadagi ishga qabul qilish siyosatini qayta ko'rib chiqishga majbur qilmoqda.",
+    "tags": [
+      "mehnat bozori",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-09-23T05:00:01.000Z",
+    "created": "2026-09-23T05:16:46.136Z",
+    "coverage": 1,
+    "source": {
+      "name": "CNBC",
+      "url": "https://cnbc.com/2026/09/23/ai-workplace-graduate-entry-level-junior-hiring.html",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "e6da6783dcca",
+    "slug": "civo-britaniya-suveren-ai-uchun-40-markaz-quradi-e6da67",
+    "title": "Civo Britaniya suveren AI uchun 40 markaz quradi",
+    "summary": "Civo Britaniyaning suveren AI'sini quvvatlantirish uchun 40 ta chekka ma'lumot markazi qurishni rejalashtirmoqda. Birinchi markaz kelasi mart oyida Xertfordshirda Nvidia Vera Rubin tizimlari bilan ishga tushadi.",
+    "tags": [
+      "Nvidia",
+      "bulut"
+    ],
+    "importance": 3,
+    "score": 17,
+    "published": "2026-09-22T12:13:00.000Z",
+    "created": "2026-09-23T05:16:46.136Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/off-prem/2026/09/22/civo-plots-40-edge-datacenters-to-power-britains-sovereign-ai/5298141",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "9a15fab46a33",
+    "slug": "kozi-ojizlar-uchun-arzon-ai-integratsiyalangan-aqlli-hassa-9a15fa",
+    "title": "Ko'zi ojizlar uchun arzon AI integratsiyalangan aqlli hassa",
+    "summary": "Tadqiqotchilar ko'zi ojizlar uchun arzon ($88) va to'liq oflayn ishlaydigan AI integratsiyalangan aqlli hassa yaratdi. U Raspberry Pi Zero 2W asosida ko'p modalli harakatlanish yordamini ta'minlaydi.",
+    "tags": [
+      "tadqiqot",
+      "tibbiyot"
+    ],
+    "importance": 3,
+    "score": 16,
+    "published": "2026-09-23T04:00:00.000Z",
+    "created": "2026-09-23T05:16:46.136Z",
+    "coverage": 1,
+    "source": {
+      "name": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2609.22277",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "08a8d93fdc2e",
     "slug": "ai-sohasidagi-songgi-voqealar-va-shov-shuvlar-08a8d9",
     "title": "AI sohasidagi so'nggi voqealar va shov-shuvlar",
