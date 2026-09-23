@@ -1,5 +1,145 @@
 [
   {
+    "id": "9c3d5ec898b9",
+    "slug": "ai-viruslarni-oqova-suvlardan-kuzatishga-yordam-bermoqda-9c3d5e",
+    "title": "AI viruslarni oqova suvlardan kuzatishga yordam bermoqda",
+    "summary": "Microsoft xabariga ko'ra, sun'iy intellekt olimlarga viruslarni oqova suvlar orqali kuzatishda yordam bermoqda. Bu texnologiya kasalliklarning tarqalishini aniqlashda muhim rol o'ynaydi.",
+    "tags": [
+      "Microsoft",
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 33,
+    "published": "2026-09-23T17:44:41.000Z",
+    "created": "2026-09-23T18:05:26.963Z",
+    "coverage": 1,
+    "source": {
+      "name": "Microsoft",
+      "url": "https://techcommunity.microsoft.com/blog/microsoft-discovery-blog/decoding-environmental-viromes-amplifying-human-expertise-with-microsoft-discove/4555806",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "526089110df3",
+    "slug": "sakeena-fiza-nvidia-apparat-taminotini-muvaffaqiyatli-qilmoq-526089",
+    "title": "Sakeena Fiza Nvidia apparat ta'minotini muvaffaqiyatli qilmoqda",
+    "summary": "Nvidia'da validatsiya muhandisi Sakeena Fiza kompaniya apparat ta'minotining keng miqyosda muvaffaqiyatli ishlashiga yordam beradi. U tizimlarni sinchkovlik bilan tekshirib, kamchiliklarni aniqlaydi.",
+    "tags": [
+      "Nvidia",
+      "biznes"
+    ],
+    "importance": 1,
+    "score": 33,
+    "published": "2026-09-23T15:00:32.000Z",
+    "created": "2026-09-23T18:05:26.964Z",
+    "coverage": 1,
+    "source": {
+      "name": "Nvidia",
+      "url": "https://blogs.nvidia.com/blog/nvidia-life-sakeena-fiza",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "52af6748e104",
+    "slug": "akademikning-ai-bilan-murakkab-munosabatlari-52af67",
+    "title": "Akademikning AI bilan murakkab munosabatlari",
+    "summary": "Ko'p tilli akademik Setareh Seyedghorban sun'iy intellekt bilan murakkab munosabatlari haqida yozdi. U AI imkoniyatlarini tan olsa-da, tanqidiy fikrlash va hushyorlikni saqlash muhimligini ta'kidlaydi.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 32,
+    "published": "2026-09-23T15:00:52.000Z",
+    "created": "2026-09-23T18:05:26.964Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/commentisfree/2026/sep/24/my-complicated-relationship-with-ai-chatgpt-factchecking",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "3186e672f1e7",
+    "slug": "stripe-kompaniyasining-bilim-ai-platformasi-3186e6",
+    "title": "Stripe kompaniyasining Bilim AI platformasi",
+    "summary": "Hacker News xabariga ko'ra, Stripe kompaniyasi o'zining Bilim AI platformasini ishga tushirgan. Bu platforma kompaniyaning ichki bilimlarni boshqarish va samaradorlikni oshirishga xizmat qiladi.",
+    "tags": [
+      "biznes",
+      "bulut"
+    ],
+    "importance": 2,
+    "score": 19.9,
+    "published": "2026-09-23T13:38:00.000Z",
+    "created": "2026-09-23T18:05:26.964Z",
+    "coverage": 1,
+    "source": {
+      "name": "Hacker News",
+      "url": "https://stripe.dev/blog/meet-stripes-knowledge-ai-platform",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "deff4ee124b3",
+    "slug": "ai-uchun-korxonalarda-kuzatuv-boshligini-yopish-deff4e",
+    "title": "AI uchun korxonalarda kuzatuv bo'shlig'ini yopish",
+    "summary": "AI-ga tayyor korxonalar uchun kuzatuv bo'shlig'ini yopish muhim. AI boshqaruvidagi operatsiyalar tarmoq haqida boy ma'lumotlarga asoslangan ko'rinishni talab qiladi.",
+    "tags": [
+      "biznes",
+      "bulut"
+    ],
+    "importance": 2,
+    "score": 19,
+    "published": "2026-09-23T15:00:00.000Z",
+    "created": "2026-09-23T18:05:26.964Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/security/2026/09/23/sponsored-closing-the-observability-gap-for-the-ai-ready-enterprise/5298070",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "762a8f6fb683",
+    "slug": "tadqiqotchilar-ai-qiyomat-ssenariylarini-korib-chiqmoqda-762a8f",
+    "title": "Tadqiqotchilar AI qiyomat ssenariylarini ko'rib chiqmoqda",
+    "summary": "Tadqiqotchilar sun'iy intellekt bilan bog'liq \"qiyomat ssenariylari\"ni o'rganmoqda. Ular AI insoniyatni xavf ostiga qo'yishi mumkin bo'lgan holatlarni tahlil qilmoqda.",
+    "tags": [
+      "tadqiqot",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-09-23T11:30:44.000Z",
+    "created": "2026-09-23T18:05:26.964Z",
+    "coverage": 3,
+    "source": {
+      "name": "myMotherLode.com",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOT01JR0tFMnU3MUgxMC12UF9uME4tbFJhbkc0aUdqU1NTd1o2M0pNQkRoeFpZc0pnT0h4Q0g5NGNHSHBDd21ob3JCTGNGZ0FxQ1V2TVZrVGVvQ0NCazRtWjJfRzdaamc2N0VIcGNYczU3V2lVUnFmblpPOGo3NkVaUGRvd1JJMG5XcHNPYS1vaF9Ya2J0dkE1Ukd4VklycWVSVUlqb2c3NWRUakJINWN5WkptM0JlOTM1OFFCaEFGS3dQRkI0NkREaXlZZXVxRG9iWkHSAdIBQVVfeXFMTk9NSUdLRTJ1NzFIMTAtdlBfbjBOLWxSYW5HNGlHalNTU3daNjNKTUJEaHhaWXNKZ09IeENIOTRjR0hwQ3dtaG9yQkxjRmdBcUNVdk1Wa1Rlb0NDQms0bVoyX0c3WmpnNjdFSHBjWHM1N1dpVVJxZm5aTzhqNzZFWlBkb3dSSTBuV3BzT2Etb2hfWGtidHZBNVJHeFZJcnFlUlVJam9nNzVkVGpCSDVjeVpKbTNCZTkzNThRQmhBRkt3UEZCNDZERGl5WWV1cURvYlpB",
+      "indirect": true
+    },
+    "also": [
+      {
+        "name": "Audacy",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQXhmM3p6Sm8yMmV3MFhYR0h4enpXSHhEVXVVRDdKMU56ZlRwZG94aFVfTGs4X1JUb2tpRmQyN1BoWURjWEhQWmtDV1EyV2Z5RFVMWE81LS0xWi1adUd1c3JrYlY0UDFQdXdxM05QYVZ5aVpkVWhObE44UWJ4c2lMTXpKX0ptQ1Uxcks3eUNLcW43Z0xxZmkxSEZFZG93cW1POXVKS2JyZE1TM2daQ05J"
+      },
+      {
+        "name": "The Independent",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQc2V6dzNrQm15LTdncVpQTTBsSUIxQ3BTSE5mdkN6RTVqa01WZGJiQ2VNclJnbEswQTdJT1VLWHdQLU12WDhxZjYxZVVuYV9adVlNNXJMUkJWcHI5U0QzT2VYdkZ2QjM1MkhITHhrSGd6M0JIQnduY05velVlaU1hTkhMbWRyNEpCazJhcjhn"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
     "id": "933716f7438a",
     "slug": "nissan-ixcham-pixo-elektromobilini-taqdim-etdi-933716",
     "title": "Nissan ixcham Pixo elektromobilini taqdim etdi",
