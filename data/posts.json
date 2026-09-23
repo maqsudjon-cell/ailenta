@@ -1,5 +1,71 @@
 [
   {
+    "id": "08a8d93fdc2e",
+    "slug": "ai-sohasidagi-songgi-voqealar-va-shov-shuvlar-08a8d9",
+    "title": "AI sohasidagi so'nggi voqealar va shov-shuvlar",
+    "summary": "Anthropic o'zining Claude Mythos modeli dasturiy ta'minotdagi zaifliklarni topishda samarali ekanini aytdi. OpenAI-Hugging Face xakerlik hodisasi va Anthropic hamda Meta modellarida shunga o'xshash holatlar yuz berdi.",
+    "tags": [
+      "xavfsizlik",
+      "Anthropic"
+    ],
+    "importance": 3,
+    "score": 29.6,
+    "published": "2026-09-22T11:04:51.000Z",
+    "created": "2026-09-23T05:01:32.692Z",
+    "coverage": 1,
+    "source": {
+      "name": "MIT Technology Review",
+      "url": "https://technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype",
+      "title": "Don’t be fooled by this summer of AI hype",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "32d124392913",
+    "slug": "ai-veb-kontentini-tuzilishi-boyicha-aniqlovchi-model-32d124",
+    "title": "AI veb-kontentini tuzilishi bo'yicha aniqlovchi model",
+    "summary": "Hacker News'da AI tomonidan yaratilgan veb-kontentni faqatgina uning tuzilishiga qarab aniqlashga mo'ljallangan modelni o'qitish loyihasi namoyish etildi.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 21.4,
+    "published": "2026-09-22T13:00:49.000Z",
+    "created": "2026-09-23T05:01:36.098Z",
+    "coverage": 1,
+    "source": {
+      "name": "Hacker News",
+      "url": "https://arxiv.org/abs/2609.15369",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "50fdf1ad73b0",
+    "slug": "san-fransiskoda-agentli-muhandislik-boyicha-tadbir-50fdf1",
+    "title": "San-Fransiskoda agentli muhandislik bo'yicha tadbir",
+    "summary": "14-oktabr kuni San-Fransiskoda kodlash agentlari bilan ishlaydiganlar uchun agentli muhandislik bo'yicha tadbir bo'lib o'tadi. Unda quruvchilar va eksperimentchilar o'z tajribalari bilan o'rtoqlashadi.",
+    "tags": [
+      "agentlar",
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 18,
+    "published": "2026-09-23T02:53:19.000Z",
+    "created": "2026-09-23T05:01:36.098Z",
+    "coverage": 1,
+    "source": {
+      "name": "Simon Willison",
+      "url": "https://simonwillison.net/2026/Sep/23/bof-agentic-engineering",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "4d5959d698eb",
     "slug": "nvidia-singapurda-ai-day-tadbirini-otkazmoqda-4d5959",
     "title": "Nvidia Singapurda AI Day tadbirini o'tkazmoqda",
