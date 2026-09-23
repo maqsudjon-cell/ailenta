@@ -1,5 +1,75 @@
 [
   {
+    "id": "6dda44c01f97",
+    "slug": "anthropic-olimi-ai-xavfi-haqidagi-bahslarni-bashorat-qilgan-6dda44",
+    "title": "Anthropic olimi AI xavfi haqidagi bahslarni bashorat qilgan",
+    "summary": "Anthropic kompaniyasining bosh ilmiy xodimi Jared Kaplan sun'iy intellekt rivojlanishidagi muhim shaxslardan biridir. U bugungi kunda AI xavfi atrofidagi bahslar aynan sun'iy intellektni o'qitish jarayoniga bog'liq bo'lishini oldindan bashorat qilgan edi.",
+    "tags": [
+      "Anthropic",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 27,
+    "published": "2026-09-23T09:00:01.000Z",
+    "created": "2026-09-23T09:38:54.058Z",
+    "coverage": 2,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/jared-kaplan-ai-safety-concerns-last-year-gain-traction-anthropic-2026-9",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "Business Insider",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOM1M1UEVZOXN6dkRBSDljdjNqSHplQldhUnZ6bkwxdkJWY3NRQTB4ZThGV25wT3hKU2xvSEJsS0FUZ2ZmbmJoRnBGRExBSnlOQkktU3F0LW8tbHdaenhwQ0RUTHdkVzhLcmItVHlHaFExN0p2R2dhd3c2UGZZVElzblVtbS1GTDB0SzZDMHpTTUhzZkNxUXRMQVpnQWlUSkRQUUd5alFWWQ"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "17a65a0f61df",
+    "slug": "baidu-ozining-ai-biznesini-xorijda-kengaytirmoqda-17a65a",
+    "title": "Baidu o'zining AI biznesini xorijda kengaytirmoqda",
+    "summary": "Baidu kompaniyasi o'zining sun'iy intellektga asoslangan mahsuldorlik biznesini xorijda kengaytirish va global brendini yangilash rejalarini e'lon qildi. Ushbu tashabbus doirasida kompaniya o'zining xalqaro faoliyatini jadallashtirishni maqsad qilgan.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-09-23T09:16:38.000Z",
+    "created": "2026-09-23T09:38:54.059Z",
+    "coverage": 1,
+    "source": {
+      "name": "TechNode",
+      "url": "https://technode.com/2026/09/23/baidus-global-ai-push-takes-shape-in-kooko-built-around-deliverables",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "1c001489f79b",
+    "slug": "osiyo-ai-bumasidan-chakana-brendlar-foyda-kormoqda-1c0014",
+    "title": "Osiyo AI bumasidan chakana brendlar foyda ko'rmoqda",
+    "summary": "Shimoliy Osiyoda chiplar ishlab chiqaruvchilar tomonidan boshlangan sun'iy intellekt bumasidan endilikda chakana savdo va lyuks brendlar katta daromad olmoqda. AI tufayli orttirilgan boyliklar ushbu sohalarga yo'naltirilmoqda.",
+    "tags": [
+      "iqtisod",
+      "chiplar"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-09-23T07:14:09.000Z",
+    "created": "2026-09-23T09:38:54.059Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/kospi-korea-stock-market-wealth-luxury-spending-hynix-samsung-japan-2026-9",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "c0ca9d1e5255",
     "slug": "o-zbekistonda-elektromobillar-soni-bir-yilda-67-oshdi-c0ca9d",
     "title": "Oʻzbekistonda elektromobillar soni bir yilda 67% oshdi",
