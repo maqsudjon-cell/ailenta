@@ -1,5 +1,26 @@
 [
   {
+    "id": "ead5e4d45d49",
+    "slug": "astroforge-kosmik-kemalar-uchun-solo-ai-tizimini-yaratmoqda-ead5e4",
+    "title": "AstroForge kosmik kemalar uchun Solo AI tizimini yaratmoqda",
+    "summary": "AstroForge kosmik kemalardagi muammolarni mustaqil aniqlash va hal qilish uchun Solo nomli AI tizimini ishlab chiqmoqda. Kompaniya uni DeepSpace-2 missiyasida sinab ko'radi. Maqsad — kosmik kemalarga Yer aralashuvisiz ishlash imkonini berishdir.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 48,
+    "published": "2026-09-23T06:05:02.000Z",
+    "created": "2026-09-23T06:36:13.415Z",
+    "coverage": 1,
+    "source": {
+      "name": "Pivot",
+      "url": "https://pivot.uz/uz/ai-endi-kosmik-kemani-ozi-boshqarishi-mumkin",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "10c04bf66fd1",
     "slug": "rustda-til-modelini-oqitish-tajribasi-hisoboti-10c04b",
     "title": "Rustda til modelini o'qitish tajribasi hisoboti",
