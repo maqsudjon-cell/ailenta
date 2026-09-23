@@ -1,5 +1,26 @@
 [
   {
+    "id": "10c04bf66fd1",
+    "slug": "rustda-til-modelini-oqitish-tajribasi-hisoboti-10c04b",
+    "title": "Rustda til modelini o'qitish tajribasi hisoboti",
+    "summary": "Bir tadqiqotchi Rust tilida til modelini $164 evaziga o'qitish tajribasini hisobot qildi. Hisobotda Candle va Burn kabi Rust ML freymvorklarining o'qitish jarayonidagi kamchiliklari hujjatlashtirilgan.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 16,
+    "published": "2026-09-23T04:00:00.000Z",
+    "created": "2026-09-23T06:15:02.966Z",
+    "coverage": 1,
+    "source": {
+      "name": "arXiv cs.CL",
+      "url": "https://arxiv.org/abs/2609.25008",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "d390cd76c558",
     "slug": "micro1-startapi-4-milliard-bahoda-100m-mablag-jalb-qildi-d390cd",
     "title": "Micro1 startapi $4 milliard bahoda $100M+ mablag' jalb qildi",
