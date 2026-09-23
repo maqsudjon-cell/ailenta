@@ -1,106 +1,65 @@
 [
   {
-    "id": "8ca380ae3b47",
-    "slug": "ai-davrida-tarmoq-tamoyillarini-orgatish-muhim-hisoblanadi-8ca380",
-    "title": "AI davrida tarmoq tamoyillarini o'rgatish muhim hisoblanadi",
-    "summary": "Mutaxassislarning fikricha, sun'iy intellekt davrida ham tarmoq protokollarini shunchaki yodlashdan ko'ra, uning asosiy tamoyillarini o'rgatish muhimroq bo'lib qolmoqda. Bolalar BGP nima uchun muhimligini tezda o'rganishi mumkin, ammo bu ularni amaliyotga tayyorlamaydi.",
+    "id": "c0ca9d1e5255",
+    "slug": "o-zbekistonda-elektromobillar-soni-bir-yilda-67-oshdi-c0ca9d",
+    "title": "Oʻzbekistonda elektromobillar soni bir yilda 67% oshdi",
+    "summary": "Oʻzbekistonda roʻyxatga olingan elektromobillar soni bir yil ichida 67 foizga koʻpaydi. Umumiy 88,5 mingdan ortiq elektromobilning 72 foizi Toshkent shahriga toʻgʻri keladi. Toshkent va Samarqand viloyatlari keyingi oʻrinlarda.",
     "tags": [
-      "ta'lim"
-    ],
-    "importance": 2,
-    "score": 19,
-    "published": "2026-09-23T06:25:26.000Z",
-    "created": "2026-09-23T09:02:27.920Z",
-    "coverage": 1,
-    "source": {
-      "name": "The Register",
-      "url": "https://theregister.com/networks/2026/09/23/in-the-age-of-ai-teaching-networking-principles-remains-more-important-than-learning-protocols/5298478",
-      "indirect": false
-    },
-    "also": [],
-    "model": "gemini"
-  },
-  {
-    "id": "db5d4bcc2e5a",
-    "slug": "alibaba-yangi-avlod-qwen-4-modelini-oqitishni-boshladi-db5d4b",
-    "title": "Alibaba yangi avlod Qwen 4 modelini o'qitishni boshladi",
-    "summary": "Apsara 2026 konferensiyasida Alibaba yangi avlod Qwen 4 modeli hozirda o'qitish jarayonida ekanini ma'lum qildi. Kompaniya kelajakda 5 dan 10 trilliongacha parametrga ega bo'lgan Qwen 4.5 va Qwen 5 modellarini chiqarishni rejalashtirmoqda.",
-    "tags": [
-      "ochiq model"
-    ],
-    "importance": 4,
-    "score": 18,
-    "published": "2026-09-23T07:42:24.000Z",
-    "created": "2026-09-23T09:02:27.920Z",
-    "coverage": 1,
-    "source": {
-      "name": "Pandaily",
-      "url": "https://pandaily.com/alibaba-qwen4-training-roadmap-5-10t-apsara-2026",
-      "indirect": false
-    },
-    "also": [],
-    "model": "gemini"
-  },
-  {
-    "id": "55588d748698",
-    "slug": "biznes-va-suniy-intellekt-chegaralari-haqida-munozara-55588d",
-    "title": "Biznes va sun'iy intellekt chegaralari haqida munozara",
-    "summary": "Har qanday texnologik inqilobda eng katta boylikka yangi chegaralar ochilganda birinchilardan bo'lib joylashish muhimligini tushunganlar erishgan. Hozirda biznes olami sun'iy intellekt imkoniyatlaridan qanchalik uzoqda ekani haqida bahslar ketmoqda.",
-    "tags": [
-      "biznes"
-    ],
-    "importance": 2,
-    "score": 17.7,
-    "published": "2026-09-22T17:49:58.000Z",
-    "created": "2026-09-23T09:02:27.920Z",
-    "coverage": 1,
-    "source": {
-      "name": "Fortune",
-      "url": "https://fortune.com/2026/09/22/ai-pacing-debate-how-fast-slow-wrong-debate-frontier",
-      "indirect": false
-    },
-    "also": [],
-    "model": "gemini"
-  },
-  {
-    "id": "42dcbb9f23fe",
-    "slug": "niderlandiya-chip-dizaynini-ai-bilan-tezlashtirmoqchi-42dcbb",
-    "title": "Niderlandiya chip dizaynini AI bilan tezlashtirmoqchi",
-    "summary": "Niderlandiyaning yangi NADI agentligi Germaniyaning SPRIND tashkiloti bilan hamkorlikda chip dizaynini sun'iy intellekt yordamida tezlashtirish uchun 40 million yevrolik tanlov e'lon qildi. Loyiha strategik innovatsiyalarga erishishni maqsad qilgan.",
-    "tags": [
-      "chiplar",
-      "siyosat"
-    ],
-    "importance": 4,
-    "score": 15,
-    "published": "2026-09-23T08:25:15.000Z",
-    "created": "2026-09-23T09:02:27.920Z",
-    "coverage": 1,
-    "source": {
-      "name": "Techmeme",
-      "url": "https://techmeme.com/260923/p8",
-      "indirect": false
-    },
-    "also": [],
-    "model": "gemini"
-  },
-  {
-    "id": "0a78897ddffe",
-    "slug": "c-h-beck-nashriyoti-noxtua-kompaniyasining-aksiyalarini-soti-0a7889",
-    "title": "C.H.BECK nashriyoti Noxtua kompaniyasining aksiyalarini sotib oldi",
-    "summary": "Germaniyaning C.H.BECK nashriyoti huquqiy hujjatlarni tahlil qiluvchi Noxtua AI kompaniyasining nazorat paketini sotib oldi. Noxtua kompaniyasi Series C bosqichida 100 million dollardan ortiq mablag' jalb qilgan edi.",
-    "tags": [
-      "biznes",
-      "qonun"
+      "O'zbekiston",
+      "iqtisod"
     ],
     "importance": 3,
-    "score": 15,
-    "published": "2026-09-23T08:00:51.000Z",
-    "created": "2026-09-23T09:02:27.920Z",
+    "score": 45,
+    "published": "2026-09-23T07:15:31.000Z",
+    "created": "2026-09-23T09:07:39.086Z",
     "coverage": 1,
     "source": {
-      "name": "Techmeme",
-      "url": "https://techmeme.com/260923/p7",
+      "name": "Kun.uz",
+      "url": "https://kun.uz/news/2026/09/23/bir-yil-ichida-ozbekistondagi-elektromobillar-soni-67-foizga-oshdi",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "9e217ee32bbf",
+    "slug": "ai-laboratoriyalari-model-xarajatlarini-kamaytirmoqda-9e217e",
+    "title": "AI laboratoriyalari model xarajatlarini kamaytirmoqda",
+    "summary": "AI laboratoriyalari model xarajatlarini qisqartirmoqda. Bu ularga rivojlanishni xavfsiz tarzda sekinlashtirishga yordam berishi mumkin.",
+    "tags": [
+      "biznes",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 26,
+    "published": "2026-09-23T09:02:21.000Z",
+    "created": "2026-09-23T09:07:39.086Z",
+    "coverage": 1,
+    "source": {
+      "name": "Axios",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1UUHN6bVJZZ2Y0c1oxemMtMXdMTnh1VnRzaHE5XzlGVnBjUGxvbWtOWVNrVEpEUTROWHI3VHpNT0pvSlRydjBSV3dPSFItNlRpWEdISkN3cWFOeTB3MHpGa3ByZklQdi1pSWo0NlZpSkFCcTFSa3UxUw",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "fe622f2c382f",
+    "slug": "global-so-rovda-kattalar-aiga-ijobiy-munosabatda-fe622f",
+    "title": "Global soʻrovda kattalar AIga ijobiy munosabatda",
+    "summary": "Gallup tomonidan 37 mamlakatda oʻtkazilgan soʻrov natijalariga koʻra, 34 ta davlatda kattalar sun'iy intellektga salbiyga nisbatan koʻproq ijobiy munosabat bildirgan.",
+    "tags": [
+      "siyosat",
+      "iqtisod"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-09-23T08:53:26.000Z",
+    "created": "2026-09-23T09:07:39.086Z",
+    "coverage": 1,
+    "source": {
+      "name": "Semafor",
+      "url": "https://semafor.com/article/09/23/2026/adults-worldwide-feel-more-positive-on-ai-poll-finds",
       "indirect": false
     },
     "also": [],
