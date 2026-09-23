@@ -1,5 +1,93 @@
 [
   {
+    "id": "31e78420be51",
+    "slug": "xitoy-ai-ambitsiyalarini-quvvatlovchi-markazlar-31e784",
+    "title": "Xitoy AI ambitsiyalarini quvvatlovchi markazlar",
+    "summary": "BBC Xitoyning Ichki Mo'g'uliston hududida o'nlab ma'lumot markazlari qurilayotganini xabar qildi. Mamlakat sun'iy intellekt sohasida dunyoda yetakchi bo'lishni maqsad qilgan.",
+    "tags": [
+      "Xitoy",
+      "bulut"
+    ],
+    "importance": 3,
+    "score": 25.3,
+    "published": "2026-09-22T22:03:48.000Z",
+    "created": "2026-09-23T11:57:41.962Z",
+    "coverage": 1,
+    "source": {
+      "name": "BBC News",
+      "url": "https://bbc.co.uk/news/videos/cwe8ejvv0leno?at_medium=RSS&at_campaign=rss",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "bf5117943e6a",
+    "slug": "amerikaliklar-aidan-qorqadi-ammo-baribir-uni-sevadi-bf5117",
+    "title": "Amerikaliklar AI'dan qo'rqadi, ammo baribir uni sevadi",
+    "summary": "Gallup so'roviga ko'ra, ko'p AI foydalanuvchisi bo'lgan boy mamlakatlar kelajakdan ko'proq xavotirda. Bu holat \"Xavotirli G'arb paradoksi\" deb nomlandi, chunki amerikaliklar AI dunyoni yomonlashtirishidan qo'rqsa ham, uni ishlatishda davom etadi.",
+    "tags": [
+      "tadqiqot",
+      "mehnat bozori"
+    ],
+    "importance": 2,
+    "score": 19,
+    "published": "2026-09-23T11:13:53.000Z",
+    "created": "2026-09-23T11:57:41.962Z",
+    "coverage": 1,
+    "source": {
+      "name": "404 Media",
+      "url": "https://404media.co/americans-love-to-use-ai-but-fear-it-will-make-the-world-worse-according-to-new-study",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "3baa92cd6bfb",
+    "slug": "iqlim-texnologiyasi-sarmoya-kamaydi-ai-bitimlarni-boshqardi-3baa92",
+    "title": "Iqlim texnologiyasi sarmoya kamaydi, AI bitimlarni boshqardi",
+    "summary": "Iqlim texnologiyalari sohasida venchur kapitali yig'ish qariyb 40% ga kamaygan bo'lsa-da, sun'iy intellekt bitimlarni harakatga keltirmoqda. AI iqlim muhokamalarini o'zgartirdi va iqlimga yo'naltirilgan venchur kapitalistlar kamayganiga qaramay, bitimlar amalga oshirilmoqda.",
+    "tags": [
+      "biznes",
+      "iqtisod"
+    ],
+    "importance": 2,
+    "score": 19,
+    "published": "2026-09-23T11:13:27.000Z",
+    "created": "2026-09-23T11:57:41.962Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/09/23/climate-tech-vc-fundraising-is-down-almost-40-but-ai-is-driving-deals",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "92ae6d47e956",
+    "slug": "trump-mamuriyati-samarali-altruizm-ai-yovuzi-92ae6d",
+    "title": "Trump ma'muriyati: Samarali altruizm AI 'yovuzi",
+    "summary": "Trump ma'muriyati AI \"halokati\"ni targ'ib qilgani uchun samarali altruizmga qarshi chiqdi. Tanqidchilarning fikricha, bu kampaniya AI xavfi haqidagi jamoatchilik xavotirlaridan chalg'itishdir.",
+    "tags": [
+      "siyosat",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-09-23T10:03:22.000Z",
+    "created": "2026-09-23T11:57:41.962Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/09/23/effective-altruism-went-from-fringe-philosophy-to-trumps-ai-villain",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "6dda44c01f97",
     "slug": "anthropic-olimi-ai-xavfi-haqidagi-bahslarni-bashorat-qilgan-6dda44",
     "title": "Anthropic olimi AI xavfi haqidagi bahslarni bashorat qilgan",
