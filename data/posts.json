@@ -1,5 +1,115 @@
 [
   {
+    "id": "9171f25cfe64",
+    "slug": "anthropic-va-nvidia-basecamp-researchni-qollab-quvvatladi-9171f2",
+    "title": "Anthropic va Nvidia Basecamp Research'ni qo'llab-quvvatladi",
+    "summary": "Basecamp Research sun'iy intellekt startapi Series C raundida $140 million mablag' jalb qildi. Unga Anthropic, Nvidia va S32 sarmoya kiritdi. Kompaniyaning umumiy moliyalashtirishi $225 millionga yetdi.",
+    "tags": [
+      "Anthropic",
+      "Nvidia"
+    ],
+    "importance": 4,
+    "score": 45,
+    "published": "2026-09-23T14:00:30.000Z",
+    "created": "2026-09-23T15:36:42.455Z",
+    "coverage": 5,
+    "source": {
+      "name": "Sifted",
+      "url": "https://sifted.eu/articles/anthropic-nvidia-basecamp-research",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "The Decoder",
+        "url": "https://the-decoder.com/inside-basecamp-research-the-ai-startup-turning-evolution-into-training-data"
+      },
+      {
+        "name": "Techmeme",
+        "url": "https://techmeme.com/260923/p23"
+      },
+      {
+        "name": "Tech.eu",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOT3NBOXN5N1o1Z2kya012Zm1wZUNCdkRpZ3dKblFHSWxUbE01MVNXQlIxY3ZQX2VvWnpZdWZtWklCQ2VRejF6V3ZhRG9mSnVqblV6ZEpiN0FmZ01MTGM4dFgyZVRST3Y2Zl9ERGV4WmNDTW1LbEhOcDlJUzVKTXhCYzBUUGdrSVQ5RHp6eFJpNEFwdw"
+      },
+      {
+        "name": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPYnpEcGhycTNuOTZwTmFBWUxVaXBTZ2tQT1d5a3BMSFVEcFUwZ05YQ3M4enlwSjRDU1FOZmpZdmQ5Vm91MU5KTXVfaVVPRm9mU2lIdGN1aXlzM2sySG5sWWR4NS1HNF94STdtUEpRdjRkZzI3R0dsRkdNbmdxZGhQeFBRM1hlZ1pGVlhwRFVhU0R3Wll6M2JZUl9oWDJ3ZlZFT3N1elllVXp3UWRRd05hREZhUW5hdGYxSlFwNVp6Nm5ma2tmWl9QYUhaZzBwVGlNVER1SlRpV2o3VkxPTFduQTREVmRwZFdiQktwSVpuSVdSLUNQbTh5dQ"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "a4dec25709f4",
+    "slug": "hugging-face-nvidia-nemotron-3-diarizationni-taqdim-etdi-a4dec2",
+    "title": "Hugging Face Nvidia Nemotron 3 Diarizationni taqdim etdi",
+    "summary": "Hugging Face Nvidia Nemotron 3 Diarization yordamida real vaqtda ko'p nutqli AI tizimini yaratishni e'lon qildi. Bu texnologiya kim qachon gapirganini aniqlash imkonini beradi.",
+    "tags": [
+      "Hugging Face",
+      "Nvidia"
+    ],
+    "importance": 2,
+    "score": 28,
+    "published": "2026-09-23T13:17:01.000Z",
+    "created": "2026-09-23T15:36:42.455Z",
+    "coverage": 1,
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-diarization",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "f28c995c4f3c",
+    "slug": "youtube-ai-yordamida-shaxsiy-algoritm-yaratish-imkonini-bera-f28c99",
+    "title": "YouTube AI yordamida shaxsiy algoritm yaratish imkonini beradi",
+    "summary": "YouTube foydalanuvchilarga AI yordamida o'zlarining shaxsiy video lentasini yaratish imkoniyatini taqdim etadi. Foydalanuvchilar istalgan videolarni tasvirlab, Gemini orqali moslashtirilgan lentalarni olishlari mumkin.",
+    "tags": [
+      "Google",
+      "biznes"
+    ],
+    "importance": 4,
+    "score": 24,
+    "published": "2026-09-23T14:30:00.000Z",
+    "created": "2026-09-23T15:36:42.455Z",
+    "coverage": 2,
+    "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/23/youtube-will-let-you-build-your-own-algorithm-with-ai",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "The Verge",
+        "url": "https://theverge.com/tech/999140/made-on-youtube-creator-tools-ai-thumbnails-tests"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "fab4a2170000",
+    "slug": "mckinsey-ai-modellarining-xarajati-oshmoqda-fab4a2",
+    "title": "McKinsey: AI modellarining xarajati oshmoqda",
+    "summary": "McKinsey ekspertlari AI modellarining token narxi arzonlashsa-da, umumiy xarajatlar oshib borayotganini tushuntirdi. Ular rahbarlarga token narxidan boshqa ko'rsatkichlarni kuzatishni tavsiya etadi.",
+    "tags": [
+      "iqtisod",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-09-23T12:12:23.000Z",
+    "created": "2026-09-23T15:36:42.455Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/09/23/mckinsey-cheaper-ai-models-bigger-ai-bills-cfo",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "c7fbb858d6f2",
     "slug": "ai-davrida-tanqidiy-fikrlash-aqlli-bolib-qolish-sirlari-c7fbb8",
     "title": "AI davrida tanqidiy fikrlash: aqlli bo'lib qolish sirlari",
