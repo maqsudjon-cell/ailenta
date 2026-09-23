@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/nvidia/</link>
   <description>&quot;Nvidia&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Wed, 23 Sep 2026 19:05:45 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 23 Sep 2026 20:06:43 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/nvidia/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Nvidia Warp robototexnika simulyatsiyasini tezlashtiradi</title>
+    <link>https://ailenta.uz/x/nvidia-warp-robototexnika-simulyatsiyasini-tezlashtiradi-a70f8a/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/nvidia-warp-robototexnika-simulyatsiyasini-tezlashtiradi-a70f8a/</guid>
+    <pubDate>Wed, 23 Sep 2026 18:41:40 GMT</pubDate>
+    <description>Nvidia Warp va MjWarp texnologiyalari robototexnika simulyatsiyasi va o'rganish jarayonlarini tezlashtirish uchun ishlatiladi. Bu haqda Hugging Face xabar berdi.</description>
+    <category>Nvidia</category><category>robototexnika</category>
+    <media:content url="https://ailenta.uz/og/nvidia-warp-robototexnika-simulyatsiyasini-tezlashtiradi-a70f8a.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/nvidia-warp-robototexnika-simulyatsiyasini-tezlashtiradi-a70f8a.jpg"/>
+  </item>
   <item>
     <title>ByteDance Nscale orqali Nvidia chiplariga ega bo'ldi</title>
     <link>https://ailenta.uz/x/bytedance-nscale-orqali-nvidia-chiplariga-ega-boldi-2d42b5/</link>
@@ -296,16 +306,6 @@
     <category>Nvidia</category><category>biznes</category>
     <media:content url="https://ailenta.uz/og/nvidia-brookfield-ai-infratuzilma-fondiga-2-mlrd-ajratdi-90cb57.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/nvidia-brookfield-ai-infratuzilma-fondiga-2-mlrd-ajratdi-90cb57.jpg"/>
-  </item>
-  <item>
-    <title>Huawei yangi Atlas 960 SuperPoD AI tizimini taqdim etdi</title>
-    <link>https://ailenta.uz/x/huawei-yangi-atlas-960-superpod-ai-tizimini-taqdim-etdi-2d1092/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/huawei-yangi-atlas-960-superpod-ai-tizimini-taqdim-etdi-2d1092/</guid>
-    <pubDate>Thu, 17 Sep 2026 10:26:31 GMT</pubDate>
-    <description>Huawei sun’iy intellekt uchun mo‘ljallangan Atlas 960 SuperPoD hisoblash tizimini taqdim etdi. Bu tizim AI modellarini o‘qitish va ishga tushirishni tezlashtirish, shuningdek, Nvidia’ga muqobil infratuzilma yaratishni maqsad qilgan.</description>
-    <category>Huawei</category><category>Nvidia</category>
-    <media:content url="https://ailenta.uz/og/huawei-yangi-atlas-960-superpod-ai-tizimini-taqdim-etdi-2d1092.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/huawei-yangi-atlas-960-superpod-ai-tizimini-taqdim-etdi-2d1092.jpg"/>
   </item>
 </channel>
 </rss>
