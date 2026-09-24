@@ -1,5 +1,54 @@
 [
   {
+    "id": "eee113ab652d",
+    "slug": "meta-muse-uchun-tamagotchi-uslubidagi-qurilmani-taqdim-etdi-eee113",
+    "title": "Meta Muse uchun Tamagotchi uslubidagi qurilmani taqdim etdi",
+    "summary": "Meta o'zining Muse AI assistenti uchun kaftga sig'adigan, Tamagotchi uslubidagi \"Charm\" qurilmasini namoyish qildi. Qurilma 2 dyuymli OLED ekran, old va orqa kameralar hamda 5G aloqasiga ega bo'lib, yil oxirigacha sotuvga chiqadi.",
+    "tags": [
+      "Meta",
+      "agentlar"
+    ],
+    "importance": 3,
+    "score": 21,
+    "published": "2026-09-24T00:15:02.000Z",
+    "created": "2026-09-24T00:36:56.509Z",
+    "coverage": 2,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/260923/p51",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "Engadget",
+        "url": "https://engadget.com/2267229/meta-put-muse-in-a-tamagotchi-like-charm-device"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "b8106fc9c7a1",
+    "slug": "coreweave-bilan-bogliq-malumot-markazi-1-1-mlrd-jalb-qildi-b8106f",
+    "title": "CoreWeave bilan bog'liq ma'lumot markazi $1.1 mlrd jalb qildi",
+    "summary": "CoreWeave bilan bog'liq ma'lumot markazi ishlab chiquvchisi \"junk bonds\" orqali 1.1 milliard dollar mablag' jalb qildi. Bu mablag' ma'lumot markazini moliyalashtirishga yo'naltiriladi.",
+    "tags": [
+      "biznes",
+      "bulut"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-09-23T22:50:01.000Z",
+    "created": "2026-09-24T00:36:56.510Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/260923/p44",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "1a44fa319089",
     "slug": "nscale-ipo-hujjatidan-bytedanceni-olib-tashladi-1a44fa",
     "title": "Nscale IPO hujjatidan ByteDance'ni olib tashladi",
