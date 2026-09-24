@@ -1,5 +1,91 @@
 [
   {
+    "id": "4334fa3acfa4",
+    "slug": "apple-yarim-nazoratli-federativ-asr-usulini-taqdim-etdi-4334fa",
+    "title": "Apple yarim nazoratli federativ ASR usulini taqdim etdi",
+    "summary": "Apple tadqiqotchilari nutqni avtomatik aniqlash (ASR) modellarini o'qitishni barqarorlashtirish usulini taklif qilishdi. Yangi yondashuv server yangilanishlarini barqarorlashtirish va soxta yorliqlardan foydalanish orqali federativ o'qitishdagi xatolarni kamaytiradi.",
+    "tags": [
+      "Apple",
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 32.8,
+    "published": "2026-09-24T00:00:00.000Z",
+    "created": "2026-09-24T20:01:48.331Z",
+    "coverage": 1,
+    "source": {
+      "name": "Apple",
+      "url": "https://machinelearning.apple.com/research/practical-recipe-federated-asr",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "f6045776625c",
+    "slug": "ekspertlar-ai-rivojlanish-tezligini-past-baholagan-f60457",
+    "title": "Ekspertlar AI rivojlanish tezligini past baholagan",
+    "summary": "Forecasting Research Institute tadqiqotiga ko'ra, yetakchi ekspertlar sun'iy intellekt rivojlanish tezligini yetarlicha baholay olmagan. Masalan, AI xalqaro matematika olimpiadasida oltin medal darajasiga prognozlardan besh yil oldin erishgan.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-09-24T19:18:33.000Z",
+    "created": "2026-09-24T20:01:48.331Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/top-ai-experts-badly-underestimated-how-fast-the-field-is-moving-study-finds",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "6f92b6662220",
+    "slug": "meta-telefonda-ai-yordamida-oyin-yaratish-imkonini-beradi-6f92b6",
+    "title": "Meta telefonda AI yordamida o'yin yaratish imkonini beradi",
+    "summary": "Meta kompaniyasi Horizon platformasi uchun o'yinlar yaratishga mo'ljallangan ikkita yangi vositani e'lon qildi. Horizon Create mobil ilovasi va Horizon Studio brauzer ilovasi foydalanuvchilarga AI so'rovlari orqali o'yinlar yaratish imkonini beradi.",
+    "tags": [
+      "Meta"
+    ],
+    "importance": 4,
+    "score": 15,
+    "published": "2026-09-24T17:52:29.000Z",
+    "created": "2026-09-24T20:01:48.331Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Verge",
+      "url": "https://theverge.com/games/999972/meta-horizon-create-studio-ai-games",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "9b834c561082",
+    "slug": "google-photos-rasmdagi-maxfiy-malumotlarni-yashira-oladi-9b834c",
+    "title": "Google Photos rasmdagi maxfiy ma'lumotlarni yashira oladi",
+    "summary": "Google Photos ilovasida sun'iy intellekt asosida ishlaydigan yangi Redact vositasi paydo bo'ladi. Ushbu vosita tasvirdagi maxfiy yoki shaxsiy ma'lumotlarni tezda xiralashtirish imkonini beradi.",
+    "tags": [
+      "Google",
+      "maxfiylik"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-09-24T17:00:00.000Z",
+    "created": "2026-09-24T20:01:48.331Z",
+    "coverage": 1,
+    "source": {
+      "name": "Engadget",
+      "url": "https://engadget.com/2267415/google-photos-update-redact-tool",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "73ed9960e2b2",
     "slug": "mitsubishi-electric-ai-zavodlari-uchun-reja-taqdim-etdi-73ed99",
     "title": "Mitsubishi Electric AI zavodlari uchun reja taqdim etdi",
