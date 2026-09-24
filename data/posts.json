@@ -1,5 +1,135 @@
 [
   {
+    "id": "5431cc2fc83c",
+    "slug": "google-ai-skanerlari-muhim-infratuzilmani-himoyalaydi-5431cc",
+    "title": "Google AI skanerlari muhim infratuzilmani himoyalaydi",
+    "summary": "Google Gemini 3.8 Flash Cyber va Wiz's Red Agent jamoasi shifoxonalar, jamoat transporti hamda texnologiya sohalarini himoya qilish uchun hamkorlik qilmoqda. Google o'zining AI skanerlari xavfsiz bo'lishini va'da qilmoqda.",
+    "tags": [
+      "Google",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 25,
+    "published": "2026-09-24T13:00:00.000Z",
+    "created": "2026-09-24T15:21:23.329Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/security/2026/09/24/google-to-critical-infra-orgs-our-ai-scanners-wont-be-evil-promise/5298685",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "2d0c74b7a0b7",
+    "slug": "hpe-va-nvidia-ai-davrida-malumotlar-suverenitetini-muhokama--2d0c74",
+    "title": "HPE va Nvidia AI davrida ma'lumotlar suverenitetini muhokama qildi",
+    "summary": "HPE va Nvidia kompaniyalari Vashingtonda AI davrida ma'lumotlar suvereniteti bo'yicha yopiq davra suhbati o'tkazdi. Matt Rosoff raisligidagi ushbu muhokamada muhim masalalar ko'rib chiqildi.",
+    "tags": [
+      "Nvidia",
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 22,
+    "published": "2026-09-24T14:49:40.000Z",
+    "created": "2026-09-24T15:21:23.329Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/paas-and-iaas/2026/09/24/sponsored/5298888",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "4df937387dfe",
+    "slug": "kde-hamjamiyatida-ai-haqidagi-muhokamalar-qizgin-tus-oldi-4df937",
+    "title": "KDE hamjamiyatida AI haqidagi muhokamalar qizg'in tus oldi",
+    "summary": "KDE ish stoli taklifi va LLM \"slop\"ini cheklashga urinish hamjamiyatda qizg'in bahslarga sabab bo'ldi. AI mavzusi atrofidagi muhokamalar jiddiy tortishuvlarga olib keldi.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 1,
+    "score": 22,
+    "published": "2026-09-24T14:32:00.000Z",
+    "created": "2026-09-24T15:21:23.329Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/software/2026/09/24/talk-of-ai-in-kde-sets-the-community-ablaze/5298854",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "2511640fc1c0",
+    "slug": "aqsh-va-xitoy-savdo-sulhini-uzaytirdi-251164",
+    "title": "AQSH va Xitoy savdo sulhini uzaytirdi",
+    "summary": "Vashington va Pekin o'rtasidagi savdo sulhi uzaytirildi. Bu qaror savdo nizolari va AI bo'yicha kuchli raqobatga qaramay qabul qilindi. Uchrashuvdan umidlar past edi.",
+    "tags": [
+      "siyosat",
+      "iqtisod"
+    ],
+    "importance": 4,
+    "score": 19,
+    "published": "2026-09-24T10:54:11.000Z",
+    "created": "2026-09-24T15:21:23.329Z",
+    "coverage": 1,
+    "source": {
+      "name": "Semafor",
+      "url": "https://semafor.com/article/09/24/2026/washington-and-beijing-extend-trade-truce-despite-simmering-tensions",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "3bef99526ce6",
+    "slug": "senatorlar-ai-kompaniyalaridan-koproq-malumot-talab-qilmoqda-3bef99",
+    "title": "Senatorlar AI kompaniyalaridan ko'proq ma'lumot talab qilmoqda",
+    "summary": "AQSH senatorlari AI kompaniyalarini ko'proq ma'lumot oshkor qilishga majburlash choralarini ko'rmoqda. Bu chora Federal Savdo Komissiyasiga (FTC) ma'lum AI kompaniyalari uchun oshkor qilish talablarini joriy etishni yuklaydi.",
+    "tags": [
+      "qonun",
+      "siyosat"
+    ],
+    "importance": 4,
+    "score": 19,
+    "published": "2026-09-24T06:40:29.000Z",
+    "created": "2026-09-24T15:21:23.329Z",
+    "coverage": 1,
+    "source": {
+      "name": "Semafor",
+      "url": "https://semafor.com/article/09/24/2026/senators-move-to-force-ai-companies-to-disclose-more",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "74552770681c",
+    "slug": "xiaomi-mimo-v3-yangi-arxitekturani-qabul-qiladi-745527",
+    "title": "Xiaomi MiMo-V3 yangi arxitekturani qabul qiladi",
+    "summary": "Xiaomi MiMo-V3 yangi arxitekturaga o'tadi. Uning HySparse2 texnologiyasi uzoq kontekstli xulosa chiqarish xarajatlarini kamaytiradi va agentli ish yuklamalari uchun qidiruvni yaxshilaydi. Bu 1 million token kontekst uzunligida hisoblashni 5.02 barobar kamaytiradi.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 18,
+    "published": "2026-09-24T05:57:38.000Z",
+    "created": "2026-09-24T15:21:23.329Z",
+    "coverage": 1,
+    "source": {
+      "name": "TechNode",
+      "url": "https://technode.com/2026/09/24/xiaomis-mimo-v3-to-adopt-new-architecture-as-hysparse2-cuts-long-context-costs",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "bc4e6e2b4be6",
     "slug": "palo-alto-ceo-aini-sekinlatish-real-emas-bc4e6e",
     "title": "Palo Alto CEO: AI'ni sekinlatish real emas",
