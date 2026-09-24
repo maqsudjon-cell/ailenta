@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/tadqiqot/</link>
   <description>&quot;tadqiqot&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Thu, 24 Sep 2026 07:03:47 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 24 Sep 2026 08:08:31 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/tadqiqot/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Gen Alpha &quot;Bu AI&quot; iborasini haqorat sifatida ishlatmoqda</title>
+    <link>https://ailenta.uz/x/gen-alpha-bu-ai-iborasini-haqorat-sifatida-ishlatmoqda-1e0af9/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/gen-alpha-bu-ai-iborasini-haqorat-sifatida-ishlatmoqda-1e0af9/</guid>
+    <pubDate>Thu, 24 Sep 2026 04:00:07 GMT</pubDate>
+    <description>Gen Alpha avlodining eng ommabop yangi slangi yoshlarning sun'iy intellektga bo'lgan salbiy munosabatini ko'rsatadi. Ular &quot;Bu AI!&quot; iborasini haqorat sifatida qo'llamoqda.</description>
+    <category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/gen-alpha-bu-ai-iborasini-haqorat-sifatida-ishlatmoqda-1e0af9.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/gen-alpha-bu-ai-iborasini-haqorat-sifatida-ishlatmoqda-1e0af9.jpg"/>
+  </item>
   <item>
     <title>Xiaomi HySparse2 texnologiyasini taqdim etdi</title>
     <link>https://ailenta.uz/x/xiaomi-hysparse2-texnologiyasini-taqdim-etdi-d7efeb/</link>
@@ -296,16 +306,6 @@
     <category>tadqiqot</category><category>ochiq model</category>
     <media:content url="https://ailenta.uz/og/shanghai-ai-lab-intern-s2-397b-multimodal-modelini-chiqardi-312e44.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/shanghai-ai-lab-intern-s2-397b-multimodal-modelini-chiqardi-312e44.jpg"/>
-  </item>
-  <item>
-    <title>AIda JailBreak-hujumlar: nega modellar qoidalarni buzadi</title>
-    <link>https://ailenta.uz/x/aida-jailbreak-hujumlar-nega-modellar-qoidalarni-buzadi-a502bc/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/aida-jailbreak-hujumlar-nega-modellar-qoidalarni-buzadi-a502bc/</guid>
-    <pubDate>Tue, 22 Sep 2026 08:00:49 GMT</pubDate>
-    <description>Ba'zan to'g'ri tuzilgan matn neyron tarmoqni &quot;buzish&quot; uchun yetarli bo'ladi. Maqolada AIning o'z cheklovlarini qanday chetlab o'tishi va klassik JailBreak-hujumlar turlari ko'rib chiqiladi.</description>
-    <category>xavfsizlik</category><category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/aida-jailbreak-hujumlar-nega-modellar-qoidalarni-buzadi-a502bc.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/aida-jailbreak-hujumlar-nega-modellar-qoidalarni-buzadi-a502bc.jpg"/>
   </item>
 </channel>
 </rss>

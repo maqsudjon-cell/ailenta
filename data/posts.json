@@ -1,5 +1,48 @@
 [
   {
+    "id": "1e0af95cc497",
+    "slug": "gen-alpha-bu-ai-iborasini-haqorat-sifatida-ishlatmoqda-1e0af9",
+    "title": "Gen Alpha \"Bu AI\" iborasini haqorat sifatida ishlatmoqda",
+    "summary": "Gen Alpha avlodining eng ommabop yangi slangi yoshlarning sun'iy intellektga bo'lgan salbiy munosabatini ko'rsatadi. Ular \"Bu AI!\" iborasini haqorat sifatida qo'llamoqda.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 26,
+    "published": "2026-09-24T04:00:07.000Z",
+    "created": "2026-09-24T08:04:28.398Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/society/2026/sep/24/thats-so-ai-what-gen-alphas-biggest-insult-tells-us",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "5d255119d246",
+    "slug": "uber-asoschisi-travis-kalanik-yangi-ai-loyihasi-bilan-qaytdi-5d2551",
+    "title": "Uber asoschisi Travis Kalanik yangi AI loyihasi bilan qaytdi",
+    "summary": "Uber kompaniyasining sobiq asoschisi Travis Kalanik texnologiya olamiga qaytmoqda. U robototexnika va sun'iy intellekt sohasida ko'p milliardlik yangi loyiha boshladi.",
+    "tags": [
+      "robototexnika",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-09-24T07:00:00.000Z",
+    "created": "2026-09-24T08:04:28.398Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/09/24/travis-kalanick-uber-comeback-atoms-ai-robotics-cloud-kitchens-silicon-valley",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "82527048c6d3",
     "slug": "tencent-ozining-qclaw-ai-assistentini-yopadi-825270",
     "title": "Tencent o'zining QClaw AI assistentini yopadi",
