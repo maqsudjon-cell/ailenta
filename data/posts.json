@@ -1,5 +1,161 @@
 [
   {
+    "id": "c0d1f51a84f5",
+    "slug": "uptcr-t-hujayra-retseptor-antigen-bog-lanish-modeli-c0d1f5",
+    "title": "UpTCR: T-hujayra retseptor-antigen bogʻlanish modeli",
+    "summary": "UpTCR — bu T-hujayra retseptor-antigen bogʻlanishini aniqlash uchun yagona progressiv bilim uzatish fond modeli. U mustahkam tanib olishni ta'minlaydi.",
+    "tags": [
+      "tadqiqot",
+      "tibbiyot"
+    ],
+    "importance": 2,
+    "score": 22.9,
+    "published": "2026-09-24T00:00:00.000Z",
+    "created": "2026-09-24T12:19:31.231Z",
+    "coverage": 1,
+    "source": {
+      "name": "Nature",
+      "url": "https://nature.com/articles/s41467-026-78075-x",
+      "title": "UpTCR: a unified progressive knowledge transfer foundation model for robust T-cell receptor-antigen binding recognition",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "0a82a101ad8a",
+    "slug": "dr-gem-bir-hujayrali-vektor-tasvirlar-o-qitishni-ta-minlaydi-0a82a1",
+    "title": "DR-GEM bir hujayrali vektor tasvirlar oʻqitishni taʼminlaydi",
+    "summary": "DR-GEM bir hujayrali vektor tasvirlar va annotatsiyalar uchun oʻz-oʻzidan nazorat qilinadigan mashinani oʻqitishni yoqadi. Bu tadqiqot Nature jurnalida chop etildi.",
+    "tags": [
+      "tadqiqot",
+      "tibbiyot"
+    ],
+    "importance": 2,
+    "score": 22.9,
+    "published": "2026-09-24T00:00:00.000Z",
+    "created": "2026-09-24T12:19:35.542Z",
+    "coverage": 1,
+    "source": {
+      "name": "Nature",
+      "url": "https://nature.com/articles/s41467-026-77908-z",
+      "title": "DR-GEM enables self-supervised machine learning for single-cell embeddings and annotations",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "4e39f20b5a2a",
+    "slug": "uztelecom-va-apifonica-ozbekistonda-ovozli-ai-markaz-4e39f2",
+    "title": "Uztelecom va Apifonica O'zbekistonda ovozli AI markaz",
+    "summary": "Apifonica'ning AI agentlari platformasi Uztelecom infratuzilmasida joriy etiladi. Bu platforma asosida ovozli xizmatlar butun bozorga taqdim etiladi. Loyiha ICT Week Uzbekistan 2026 doirasida e'lon qilindi.",
+    "tags": [
+      "O'zbekiston",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 48,
+    "published": "2026-09-24T12:00:12.000Z",
+    "created": "2026-09-24T12:20:02.004Z",
+    "coverage": 1,
+    "source": {
+      "name": "Kun.uz",
+      "url": "https://kun.uz/news/2026/09/24/uztelecom-va-apifonica-ozbekistonda-ovozli-suniy-intellekt-markazini-tashkil-etadi",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "8391718c4a56",
+    "slug": "island-kiberxavfsizlik-startapi-6-4-mlrd-bahoga-yetdi-839171",
+    "title": "Island kiberxavfsizlik startapi $6.4 mlrd bahoga yetdi",
+    "summary": "Kiberxavfsizlik startapi Island yangi investitsiya raundida 6.4 milliard dollarlik bahoga erishdi. Bu AI hujumlari tufayli agentli AI himoyasiga talab ortishi bilan bog'liq.",
+    "tags": [
+      "biznes",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 22,
+    "published": "2026-09-24T10:00:01.000Z",
+    "created": "2026-09-24T12:20:02.004Z",
+    "coverage": 1,
+    "source": {
+      "name": "CNBC",
+      "url": "https://cnbc.com/2026/09/24/island-ai-cybersecurity-funding.html",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "82dbffa417ef",
+    "slug": "hindistonning-autsorsing-dasturiy-ta-minot-sanoati-o-sdi-82dbff",
+    "title": "Hindistonning autsorsing dasturiy taʼminot sanoati oʻsdi",
+    "summary": "Hindistonning autsorsing dasturiy taʼminot sanoati 9.5 foizga oʻsib, 239 milliard dollarga yetdi. Dasturiy mahsulotlarni ishlab chiqish sanoati biroz qisqargan.",
+    "tags": [
+      "iqtisod",
+      "mehnat bozori"
+    ],
+    "importance": 2,
+    "score": 19,
+    "published": "2026-09-24T03:34:18.000Z",
+    "created": "2026-09-24T12:20:02.004Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/channel/2026/09/24/indias-outsourced-software-industry-grows-95-percent-to-reach-239-billion/5298721",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "a33a96193ba7",
+    "slug": "frontier-ai-modellari-chaqiriqlarga-qaramay-rivojlanmoqda-a33a96",
+    "title": "Frontier AI modellari chaqiriqlarga qaramay rivojlanmoqda",
+    "summary": "Anthropic va OpenAI kompaniyalari Opus 5.5 hamda GPT-6 Sol va Luna modellarini taqdim etdi. Bu modellar AI rivojlanishini sekinlashtirish chaqiriqlariga qaramay paydo bo'ldi.",
+    "tags": [
+      "Anthropic",
+      "OpenAI"
+    ],
+    "importance": 4,
+    "score": 18.3,
+    "published": "2026-09-23T00:02:47.000Z",
+    "created": "2026-09-24T12:20:02.004Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/ai-and-ml/2026/09/23/frontier-ai-keeps-racing-despite-calls-to-slow-down/5298448",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "d065852b36e8",
+    "slug": "dnegning-brahma-ai-bo-limi-150-mln-sarmoya-jalb-qildi-d06585",
+    "title": "DNEG'ning Brahma AI boʻlimi $150 mln sarmoya jalb qildi",
+    "summary": "VFX kompaniyasi DNEG'ning AI boʻlimi Brahma 150 million dollar sarmoya jalb qildi. Uning bahosi 2 milliard dollarga yetdi. Brahma AI korporativ mijozlar uchun audiovizual kontent yaratadi.",
+    "tags": [
+      "biznes",
+      "iqtisod"
+    ],
+    "importance": 3,
+    "score": 18,
+    "published": "2026-09-24T10:45:31.000Z",
+    "created": "2026-09-24T12:20:02.004Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/260924/p18",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "ee5516a36380",
     "slug": "agrobank-agroventures-venchur-fondini-ishga-tushirdi-ee5516",
     "title": "Agrobank AgroVentures venchur fondini ishga tushirdi",

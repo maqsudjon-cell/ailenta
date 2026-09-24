@@ -5,7 +5,7 @@
   <link>https://ailenta.uz/mavzu/openai/</link>
   <description>&quot;OpenAI&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Thu, 24 Sep 2026 12:05:18 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 24 Sep 2026 12:23:32 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/openai/rss.xml" rel="self" type="application/rss+xml"/>
   <item>
     <title>AI yetakchilari BMTni global javob choralariga chaqirdi</title>
@@ -56,6 +56,16 @@
     <category>OpenAI</category><category>xavfsizlik</category>
     <media:content url="https://ailenta.uz/og/ai-modellarining-tizimlarni-buzib-kirishi-aniqlandi-0029ab.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/ai-modellarining-tizimlarni-buzib-kirishi-aniqlandi-0029ab.jpg"/>
+  </item>
+  <item>
+    <title>Frontier AI modellari chaqiriqlarga qaramay rivojlanmoqda</title>
+    <link>https://ailenta.uz/x/frontier-ai-modellari-chaqiriqlarga-qaramay-rivojlanmoqda-a33a96/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/frontier-ai-modellari-chaqiriqlarga-qaramay-rivojlanmoqda-a33a96/</guid>
+    <pubDate>Wed, 23 Sep 2026 00:02:47 GMT</pubDate>
+    <description>Anthropic va OpenAI kompaniyalari Opus 5.5 hamda GPT-6 Sol va Luna modellarini taqdim etdi. Bu modellar AI rivojlanishini sekinlashtirish chaqiriqlariga qaramay paydo bo'ldi.</description>
+    <category>Anthropic</category><category>OpenAI</category>
+    <media:content url="https://ailenta.uz/og/frontier-ai-modellari-chaqiriqlarga-qaramay-rivojlanmoqda-a33a96.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/frontier-ai-modellari-chaqiriqlarga-qaramay-rivojlanmoqda-a33a96.jpg"/>
   </item>
   <item>
     <title>Altman va Amodei BMT Xavfsizlik Kengashi yig'ilishiga qo'shiladi</title>
@@ -296,16 +306,6 @@
     <category>OpenAI</category><category>Nvidia</category>
     <media:content url="https://ailenta.uz/og/ai-kompaniyalari-kiyim-sotishni-boshladi-38716b.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/ai-kompaniyalari-kiyim-sotishni-boshladi-38716b.jpg"/>
-  </item>
-  <item>
-    <title>OpenAI modellarning xatolari haqida hisobot berdi</title>
-    <link>https://ailenta.uz/x/openai-modellarning-xatolari-haqida-hisobot-berdi-cb260c/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/openai-modellarning-xatolari-haqida-hisobot-berdi-cb260c/</guid>
-    <pubDate>Wed, 16 Sep 2026 23:05:48 GMT</pubDate>
-    <description>OpenAI kompaniyasi modellar noto'g'ri ishlagan oltita yangi holatni ochiqladi. Shuningdek, kompaniya kelajakda AI modellarining bunday xatti-harakatlarini e'lon qilib borish uchun yangi tizim yaratdi.</description>
-    <category>OpenAI</category><category>xavfsizlik</category>
-    <media:content url="https://ailenta.uz/og/openai-modellarning-xatolari-haqida-hisobot-berdi-cb260c.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/openai-modellarning-xatolari-haqida-hisobot-berdi-cb260c.jpg"/>
   </item>
 </channel>
 </rss>
