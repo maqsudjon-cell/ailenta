@@ -5,7 +5,7 @@
   <link>https://ailenta.uz/mavzu/tadqiqot/</link>
   <description>&quot;tadqiqot&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Thu, 24 Sep 2026 21:40:53 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 24 Sep 2026 21:56:27 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/tadqiqot/rss.xml" rel="self" type="application/rss+xml"/>
   <item>
     <title>Ekspertlar AI rivojlanish tezligini past baholagan</title>
@@ -16,6 +16,16 @@
     <category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/ekspertlar-ai-rivojlanish-tezligini-past-baholagan-f60457.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/ekspertlar-ai-rivojlanish-tezligini-past-baholagan-f60457.jpg"/>
+  </item>
+  <item>
+    <title>AI matematik bo'la oldimi: Habr muhokamasi</title>
+    <link>https://ailenta.uz/x/ai-matematik-bola-oldimi-habr-muhokamasi-df5fe1/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/ai-matematik-bola-oldimi-habr-muhokamasi-df5fe1/</guid>
+    <pubDate>Thu, 24 Sep 2026 17:54:33 GMT</pubDate>
+    <description>Habr nashri &quot;AI matematik bo'la oldimi?&quot; degan savolga javob izladi. Maqolada OpenAI va Anthropic'ning matematik sohadagi yangi yutuqlari muhokama qilingan.</description>
+    <category>tadqiqot</category><category>OpenAI</category>
+    <media:content url="https://ailenta.uz/og/ai-matematik-bola-oldimi-habr-muhokamasi-df5fe1.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/ai-matematik-bola-oldimi-habr-muhokamasi-df5fe1.jpg"/>
   </item>
   <item>
     <title>AI yordamida xato topish Ubuntu'ni haftalik yangilanishga o'tkazdi</title>
@@ -66,6 +76,16 @@
     <category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/neyrobiologlar-miyani-neyrosetlardan-yaxshiroq-tushungan-379a15.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/neyrobiologlar-miyani-neyrosetlardan-yaxshiroq-tushungan-379a15.jpg"/>
+  </item>
+  <item>
+    <title>AI'da niyat va motivatsiya yo'q</title>
+    <link>https://ailenta.uz/x/aida-niyat-va-motivatsiya-yoq-37add6/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/aida-niyat-va-motivatsiya-yoq-37add6/</guid>
+    <pubDate>Thu, 24 Sep 2026 09:13:25 GMT</pubDate>
+    <description>Hacker News'da sun'iy intellektda niyat va motivatsiya mavjud emasligi haqida fikr bildirildi. Bu AI'ning tabiati va imkoniyatlari borasidagi munozaralarga tegishli.</description>
+    <category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/aida-niyat-va-motivatsiya-yoq-37add6.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/aida-niyat-va-motivatsiya-yoq-37add6.jpg"/>
   </item>
   <item>
     <title>Xiaomi MiMo-V3 yangi arxitekturani qabul qiladi</title>
@@ -286,26 +306,6 @@
     <category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/astroforge-kosmik-kemalar-uchun-solo-ai-tizimini-yaratmoqda-ead5e4.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/astroforge-kosmik-kemalar-uchun-solo-ai-tizimini-yaratmoqda-ead5e4.jpg"/>
-  </item>
-  <item>
-    <title>Rustda til modelini o'qitish tajribasi hisoboti</title>
-    <link>https://ailenta.uz/x/rustda-til-modelini-oqitish-tajribasi-hisoboti-10c04b/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/rustda-til-modelini-oqitish-tajribasi-hisoboti-10c04b/</guid>
-    <pubDate>Wed, 23 Sep 2026 04:00:00 GMT</pubDate>
-    <description>Bir tadqiqotchi Rust tilida til modelini $164 evaziga o'qitish tajribasini hisobot qildi. Hisobotda Candle va Burn kabi Rust ML freymvorklarining o'qitish jarayonidagi kamchiliklari hujjatlashtirilgan.</description>
-    <category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/rustda-til-modelini-oqitish-tajribasi-hisoboti-10c04b.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/rustda-til-modelini-oqitish-tajribasi-hisoboti-10c04b.jpg"/>
-  </item>
-  <item>
-    <title>Ko'zi ojizlar uchun arzon AI integratsiyalangan aqlli hassa</title>
-    <link>https://ailenta.uz/x/kozi-ojizlar-uchun-arzon-ai-integratsiyalangan-aqlli-hassa-9a15fa/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/kozi-ojizlar-uchun-arzon-ai-integratsiyalangan-aqlli-hassa-9a15fa/</guid>
-    <pubDate>Wed, 23 Sep 2026 04:00:00 GMT</pubDate>
-    <description>Tadqiqotchilar ko'zi ojizlar uchun arzon ($88) va to'liq oflayn ishlaydigan AI integratsiyalangan aqlli hassa yaratdi. U Raspberry Pi Zero 2W asosida ko'p modalli harakatlanish yordamini ta'minlaydi.</description>
-    <category>tadqiqot</category><category>tibbiyot</category>
-    <media:content url="https://ailenta.uz/og/kozi-ojizlar-uchun-arzon-ai-integratsiyalangan-aqlli-hassa-9a15fa.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/kozi-ojizlar-uchun-arzon-ai-integratsiyalangan-aqlli-hassa-9a15fa.jpg"/>
   </item>
 </channel>
 </rss>

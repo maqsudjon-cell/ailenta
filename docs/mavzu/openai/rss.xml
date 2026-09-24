@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/openai/</link>
   <description>&quot;OpenAI&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Thu, 24 Sep 2026 21:40:53 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 24 Sep 2026 21:56:27 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/openai/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>AI matematik bo'la oldimi: Habr muhokamasi</title>
+    <link>https://ailenta.uz/x/ai-matematik-bola-oldimi-habr-muhokamasi-df5fe1/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/ai-matematik-bola-oldimi-habr-muhokamasi-df5fe1/</guid>
+    <pubDate>Thu, 24 Sep 2026 17:54:33 GMT</pubDate>
+    <description>Habr nashri &quot;AI matematik bo'la oldimi?&quot; degan savolga javob izladi. Maqolada OpenAI va Anthropic'ning matematik sohadagi yangi yutuqlari muhokama qilingan.</description>
+    <category>tadqiqot</category><category>OpenAI</category>
+    <media:content url="https://ailenta.uz/og/ai-matematik-bola-oldimi-habr-muhokamasi-df5fe1.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/ai-matematik-bola-oldimi-habr-muhokamasi-df5fe1.jpg"/>
+  </item>
   <item>
     <title>AI va ijtimoiy media bolalar xavfsizligi bo'yicha tanqid ostida</title>
     <link>https://ailenta.uz/x/ai-va-ijtimoiy-media-bolalar-xavfsizligi-boyicha-tanqid-osti-cdabe9/</link>
@@ -296,16 +306,6 @@
     <category>OpenAI</category><category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/matematiklar-ai-rivojlanishidan-xavotir-bildirdi-8598eb.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/matematiklar-ai-rivojlanishidan-xavotir-bildirdi-8598eb.jpg"/>
-  </item>
-  <item>
-    <title>OpenRouter AI model xarajatlari: OpenAI Anthropicdan o'zdi</title>
-    <link>https://ailenta.uz/x/openrouter-ai-model-xarajatlari-openai-anthropicdan-ozdi-614319/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/openrouter-ai-model-xarajatlari-openai-anthropicdan-ozdi-614319/</guid>
-    <pubDate>Thu, 17 Sep 2026 04:00:00 GMT</pubDate>
-    <description>OpenRouter platformasida dasturchilarning OpenAI modellariga sarflagan xarajatlari 2024-yildan beri ilk bor Anthropic modellaridan oshdi. Bu platforma turli AI modellarini yagona API orqali ishlatish imkonini beradi va foydalanish hajmini ko'rsatadi.</description>
-    <category>OpenAI</category><category>Anthropic</category>
-    <media:content url="https://ailenta.uz/og/openrouter-ai-model-xarajatlari-openai-anthropicdan-ozdi-614319.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/openrouter-ai-model-xarajatlari-openai-anthropicdan-ozdi-614319.jpg"/>
   </item>
 </channel>
 </rss>

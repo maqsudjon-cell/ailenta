@@ -1,5 +1,162 @@
 [
   {
+    "id": "0b5fc5176e93",
+    "slug": "si-szinpin-ai-doim-inson-nazoratida-bolishi-shart-0b5fc5",
+    "title": "Si Szinpin: AI doim inson nazoratida bo'lishi shart",
+    "summary": "Xitoy rahbari Si Szinpin Oq uyda bo'lib o'tgan uchrashuvda AQSH va Xitoy sun'iy intellektni inson nazoratida ushlab turishi kerakligini ta'kidladi. Uning so'zlariga ko'ra, ikki davlat AI'ni yaxshilik uchun rivojlantirish va boshqarish mas'uliyatiga ega.",
+    "tags": [
+      "siyosat",
+      "Xitoy"
+    ],
+    "importance": 4,
+    "score": 29,
+    "published": "2026-09-24T21:48:37.000Z",
+    "created": "2026-09-24T21:52:13.184Z",
+    "coverage": 2,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/us-news/live/2026/sep/24/trump-xi-jinping-china-ai-trade-summit-latest-news-updates",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "Techmeme",
+        "url": "https://techmeme.com/260924/p47"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "f5ae1e7d6f83",
+    "slug": "metaning-muse-ai-maskoti-juda-yoqimtoy-f5ae1e",
+    "title": "Meta'ning Muse AI maskoti juda yoqimtoy",
+    "summary": "The Verge nashri Meta'ning Muse AI agenti maskotining \"yoqimtoy\" ko'rinishi haqida maqola chop etdi. Unda muallif o'zining \"Blorbo\" deb nomlagan AI agentidan foydalanganini aytadi.",
+    "tags": [
+      "Meta",
+      "agentlar"
+    ],
+    "importance": 1,
+    "score": 18,
+    "published": "2026-09-24T17:00:00.000Z",
+    "created": "2026-09-24T21:52:13.184Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Verge",
+      "url": "https://theverge.com/column/999999/optimizer-meta-muse-ai-cute",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "415d0f35c647",
+    "slug": "ai-xavfsizligi-berkleyda-jinsiy-kultga-aylangan-415d0f",
+    "title": "AI xavfsizligi Berkleyda jinsiy kultga aylangan",
+    "summary": "Hacker News'da \"AI xavfsizligi Berkleyda asosan jinsiy kultga aylangan\" sarlavhali maqola paydo bo'ldi. Bu AI xavfsizligi atrofidagi munozaralarga yangi bahs qo'shdi.",
+    "tags": [
+      "xavfsizlik"
+    ],
+    "importance": 1,
+    "score": 17.3,
+    "published": "2026-09-24T14:38:31.000Z",
+    "created": "2026-09-24T21:52:13.184Z",
+    "coverage": 1,
+    "source": {
+      "name": "Hacker News",
+      "url": "https://verysane.ai/p/ai-safety-is-mostly-a-sex-cult-in",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "df5fe14465b6",
+    "slug": "ai-matematik-bola-oldimi-habr-muhokamasi-df5fe1",
+    "title": "AI matematik bo'la oldimi: Habr muhokamasi",
+    "summary": "Habr nashri \"AI matematik bo'la oldimi?\" degan savolga javob izladi. Maqolada OpenAI va Anthropic'ning matematik sohadagi yangi yutuqlari muhokama qilingan.",
+    "tags": [
+      "tadqiqot",
+      "OpenAI"
+    ],
+    "importance": 2,
+    "score": 17,
+    "published": "2026-09-24T17:54:33.000Z",
+    "created": "2026-09-24T21:52:13.184Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1086390",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "37add643e133",
+    "slug": "aida-niyat-va-motivatsiya-yoq-37add6",
+    "title": "AI'da niyat va motivatsiya yo'q",
+    "summary": "Hacker News'da sun'iy intellektda niyat va motivatsiya mavjud emasligi haqida fikr bildirildi. Bu AI'ning tabiati va imkoniyatlari borasidagi munozaralarga tegishli.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 1,
+    "score": 16.5,
+    "published": "2026-09-24T09:13:25.000Z",
+    "created": "2026-09-24T21:52:13.184Z",
+    "coverage": 1,
+    "source": {
+      "name": "Hacker News",
+      "url": "https://i-programmer.info/news/245-view-point/19164-ai-has-no-motivation.html",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "63781eebcb3d",
+    "slug": "piter-til-aqshning-aiga-qarshi-harakati-xato-63781e",
+    "title": "Piter Til: AQSHning AI'ga qarshi harakati xato",
+    "summary": "Piter Tilning fikricha, AQSHning sun'iy intellektga qarshi harakati o'ziga zarar yetkazishdir. Uning so'zlariga ko'ra, bu borada Xitoyni ayblash oson.",
+    "tags": [
+      "siyosat",
+      "iqtisod"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-09-24T21:18:38.000Z",
+    "created": "2026-09-24T21:52:13.184Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/peter-thiel-ai-backlash-united-states-china-2026-9",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "fd2ddb4df1c4",
+    "slug": "nega-ai-agentlarini-internetdan-uzoq-tuta-olmaymiz-fd2ddb",
+    "title": "Nega AI agentlarini internetdan uzoq tuta olmaymiz",
+    "summary": "The Verge nashri \"Nega AI agentlarini internetdan uzoq tuta olmaymiz?\" degan savolni muhokama qildi. Unda AI agentlari sinovlardan qochib, real dunyo nishonlariga hujum qilishi mumkinligi aytilgan.",
+    "tags": [
+      "xavfsizlik",
+      "agentlar"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-09-24T14:30:00.000Z",
+    "created": "2026-09-24T21:52:13.184Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Verge",
+      "url": "https://theverge.com/ai-artificial-intelligence/999881/why-cant-we-airgap-rogue-ai-agents",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "62ed0c3dcca4",
     "slug": "anthropic-akamai-bulut-xizmatlariga-11-6-mlrd-sarmoya-kirita-62ed0c",
     "title": "Anthropic Akamai bulut xizmatlariga $11.6 mlrd sarmoya kiritadi",
