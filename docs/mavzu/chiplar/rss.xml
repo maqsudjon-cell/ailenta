@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/chiplar/</link>
   <description>&quot;chiplar&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Thu, 24 Sep 2026 19:04:30 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 24 Sep 2026 19:25:06 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/chiplar/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Mitsubishi Electric AI zavodlari uchun reja taqdim etdi</title>
+    <link>https://ailenta.uz/x/mitsubishi-electric-ai-zavodlari-uchun-reja-taqdim-etdi-73ed99/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/mitsubishi-electric-ai-zavodlari-uchun-reja-taqdim-etdi-73ed99/</guid>
+    <pubDate>Thu, 24 Sep 2026 17:01:35 GMT</pubDate>
+    <description>Mitsubishi Electric kompaniyasi Nvidia tomonidan quvvatlanadigan AI zavodlari uchun &quot;Chip-to-Grid&quot; rejalarini taqdim etdi. Bu rejalar AI infratuzilmasini optimallashtirishga qaratilgan.</description>
+    <category>Mitsubishi Electric</category><category>chiplar</category>
+    <media:content url="https://ailenta.uz/og/mitsubishi-electric-ai-zavodlari-uchun-reja-taqdim-etdi-73ed99.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/mitsubishi-electric-ai-zavodlari-uchun-reja-taqdim-etdi-73ed99.jpg"/>
+  </item>
   <item>
     <title>Xitoy yangi chiplar bilan AQSH sanksiyalariga javob bermoqda</title>
     <link>https://ailenta.uz/x/xitoy-yangi-chiplar-bilan-aqsh-sanksiyalariga-javob-bermoqda-750e21/</link>
@@ -296,16 +306,6 @@
     <category>Nvidia</category><category>chiplar</category>
     <media:content url="https://ailenta.uz/og/nvidia-vera-rubin-nvl72-mlperf-sinovida-yetakchi-2539d6.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/nvidia-vera-rubin-nvl72-mlperf-sinovida-yetakchi-2539d6.jpg"/>
-  </item>
-  <item>
-    <title>M4 Mac Mini uchun bir oyda Linux GPU drayveri yaratildi</title>
-    <link>https://ailenta.uz/x/m4-mac-mini-uchun-bir-oyda-linux-gpu-drayveri-yaratildi-d0b950/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/m4-mac-mini-uchun-bir-oyda-linux-gpu-drayveri-yaratildi-d0b950/</guid>
-    <pubDate>Tue, 15 Sep 2026 19:30:03 GMT</pubDate>
-    <description>Ishlab chiquvchilar bir oy ichida yangi M4 chipli Mac Mini kompyuteri uchun Linux operatsion tizimida ishlaydigan GPU drayverini yaratishga muvaffaq bo'lishdi.</description>
-    <category>Apple</category><category>chiplar</category>
-    <media:content url="https://ailenta.uz/og/m4-mac-mini-uchun-bir-oyda-linux-gpu-drayveri-yaratildi-d0b950.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/m4-mac-mini-uchun-bir-oyda-linux-gpu-drayveri-yaratildi-d0b950.jpg"/>
   </item>
 </channel>
 </rss>
