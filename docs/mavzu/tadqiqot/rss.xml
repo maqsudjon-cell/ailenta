@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/tadqiqot/</link>
   <description>&quot;tadqiqot&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Thu, 24 Sep 2026 02:05:18 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 24 Sep 2026 03:05:46 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/tadqiqot/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Xiaomi HySparse2 texnologiyasini taqdim etdi</title>
+    <link>https://ailenta.uz/x/xiaomi-hysparse2-texnologiyasini-taqdim-etdi-d7efeb/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/xiaomi-hysparse2-texnologiyasini-taqdim-etdi-d7efeb/</guid>
+    <pubDate>Thu, 24 Sep 2026 02:00:12 GMT</pubDate>
+    <description>Xiaomi'ning LLM-Core jamoasi MiMo-V3 agent modellariga mo'ljallangan HySparse2 gibrid sparse-attention dizaynini e'lon qildi. Bu texnologiya 1M-token prefill FLOPslarini taxminan 5 barobar kamaytiradi.</description>
+    <category>Xiaomi</category><category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/xiaomi-hysparse2-texnologiyasini-taqdim-etdi-d7efeb.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/xiaomi-hysparse2-texnologiyasini-taqdim-etdi-d7efeb.jpg"/>
+  </item>
   <item>
     <title>Anthropic AI Crisprga o'xshash yangi ferment tizimini topdi</title>
     <link>https://ailenta.uz/x/anthropic-ai-crisprga-oxshash-yangi-ferment-tizimini-topdi-2c3b9d/</link>
@@ -296,16 +306,6 @@
     <category>xavfsizlik</category><category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/aida-jailbreak-hujumlar-nega-modellar-qoidalarni-buzadi-a502bc.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/aida-jailbreak-hujumlar-nega-modellar-qoidalarni-buzadi-a502bc.jpg"/>
-  </item>
-  <item>
-    <title>Tender hujjatlaridan shartlarni neyrosimvolik ajratish</title>
-    <link>https://ailenta.uz/x/tender-hujjatlaridan-shartlarni-neyrosimvolik-ajratish-f6c392/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/tender-hujjatlaridan-shartlarni-neyrosimvolik-ajratish-f6c392/</guid>
-    <pubDate>Tue, 22 Sep 2026 07:39:47 GMT</pubDate>
-    <description>Maqolada tender hujjatlaridan shartlarni ajratib olish uchun neyrosimvolik tizimni yaratish haqida so'z boradi. Ushbu tizim to'lov tartibi, avans, yetkazib berish muddati kabi ma'lumotlarni aniqlaydi.</description>
-    <category>biznes</category><category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/tender-hujjatlaridan-shartlarni-neyrosimvolik-ajratish-f6c392.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/tender-hujjatlaridan-shartlarni-neyrosimvolik-ajratish-f6c392.jpg"/>
   </item>
 </channel>
 </rss>

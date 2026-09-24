@@ -1,5 +1,98 @@
 [
   {
+    "id": "ae68dfd8b5e4",
+    "slug": "ai-yetakchilari-bmtni-global-javob-choralariga-chaqirdi-ae68df",
+    "title": "AI yetakchilari BMTni global javob choralariga chaqirdi",
+    "summary": "OpenAI'dan Sam Altman va Anthropic'dan Dario Amodei BMT Xavfsizlik Kengashiga AI inson nazorati ostida qolishi uchun xalqaro hamkorlik zarurligini aytdi. Ular global javob choralari bo'lmasa, xavf tug'ilishi mumkinligidan ogohlantirdi.",
+    "tags": [
+      "OpenAI",
+      "Anthropic"
+    ],
+    "importance": 5,
+    "score": 33,
+    "published": "2026-09-23T23:54:20.000Z",
+    "created": "2026-09-24T03:01:43.504Z",
+    "coverage": 1,
+    "source": {
+      "name": "The New York Times",
+      "url": "https://nytimes.com/2026/09/23/us/politics/ai-leaders-united-nations-global-response.html",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "8fc5154ef9d8",
+    "slug": "meta-ray-ban-kozoynaklariga-shaxsiy-ishlov-berishni-olib-kel-8fc515",
+    "title": "Meta Ray-Ban ko'zoynaklariga shaxsiy ishlov berishni olib keladi",
+    "summary": "Meta Ray-Ban Meta ko'zoynaklariga \"Private Processing\" funksiyasini joriy etishni rejalashtirmoqda. Bu AI assistentiga foydalanuvchi so'rovlarini Meta ma'lumotlarga kirmasdan bajarish imkonini beradi.",
+    "tags": [
+      "Meta",
+      "maxfiylik"
+    ],
+    "importance": 3,
+    "score": 21,
+    "published": "2026-09-24T01:10:54.000Z",
+    "created": "2026-09-24T03:01:43.504Z",
+    "coverage": 2,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/260923/p55",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "engineering.fb.com",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQd0prM0ZEeTRGUTNZaE9XRU1lbFNZN0tyYXpqNW55UXdSQkhvNGRkbVRSMExDRDFKUVdpWm9YdkQ2SlBBQkpqMEx6TWVIY003WEwzZjBvYXFLUjdwUDlWX2ppMUd6MWthcnZ0M1Q5UFJKS1ZmVk9KdldGR0c5dlRFUXNmSWg5ZV9lNWc"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "d7efeb1ae63b",
+    "slug": "xiaomi-hysparse2-texnologiyasini-taqdim-etdi-d7efeb",
+    "title": "Xiaomi HySparse2 texnologiyasini taqdim etdi",
+    "summary": "Xiaomi'ning LLM-Core jamoasi MiMo-V3 agent modellariga mo'ljallangan HySparse2 gibrid sparse-attention dizaynini e'lon qildi. Bu texnologiya 1M-token prefill FLOPslarini taxminan 5 barobar kamaytiradi.",
+    "tags": [
+      "Xiaomi",
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 18,
+    "published": "2026-09-24T02:00:12.000Z",
+    "created": "2026-09-24T03:01:43.504Z",
+    "coverage": 1,
+    "source": {
+      "name": "Pandaily",
+      "url": "https://pandaily.com/xiaomi-hysparse2-mimo-v3-two-level-kv-sharing-prefill",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "2e405ce6dc8f",
+    "slug": "meta-muse-ai-agentini-yanada-kuchliroq-qilmoqda-2e405c",
+    "title": "Meta Muse AI agentini yanada kuchliroq qilmoqda",
+    "summary": "Meta o'zining Muse AI agentini yangilab, uni yanada qobiliyatli qildi. Endi Muse agentlari o'z elektron pochta manzillariga ega bo'lib, ular orqali vazifalarni bajarishi mumkin.",
+    "tags": [
+      "Meta",
+      "agentlar"
+    ],
+    "importance": 3,
+    "score": 18,
+    "published": "2026-09-23T23:19:42.000Z",
+    "created": "2026-09-24T03:01:43.504Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Verge",
+      "url": "https://theverge.com/tech/999454/meta-muse-ai-agent-video-chat-connect-2026",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "be57f79d5784",
     "slug": "amerikaliklar-ai-haqida-xavotirda-be57f7",
     "title": "Amerikaliklar AI haqida xavotirda",
