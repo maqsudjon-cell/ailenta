@@ -1,5 +1,114 @@
 [
   {
+    "id": "f6fad453b0cd",
+    "slug": "vizual-ai-shaharlarni-organishda-imkoniyat-va-xavflar-f6fad4",
+    "title": "Vizual AI shaharlarni o'rganishda imkoniyat va xavflar",
+    "summary": "MIT tadqiqotchilari \"How AI Sees the City\" nomli yangi kitobida vizual AI'ning shaharlarni o'rganishdagi imkoniyatlari va xavflarini ko'rib chiqdi. Bu texnologiya shahar hayotini tadqiq qilish uchun muhim ahamiyatga ega.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 19,
+    "published": "2026-09-24T04:00:00.000Z",
+    "created": "2026-09-24T09:36:28.997Z",
+    "coverage": 1,
+    "source": {
+      "name": "MIT News",
+      "url": "https://news.mit.edu/2026/studying-cities-using-visual-ai-fabio-duarte-martina-mazzarello-carlo-ratti-fan-zhang-book-0924",
+      "title": "The promise and peril of using visual AI to study cities",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "9a0c877158c7",
+    "slug": "o-zbekistonda-ai-ta-lim-imkoniyatlari-kengaymoqda-9a0c87",
+    "title": "O‘zbekistonda AI taʼlim imkoniyatlari kengaymoqda",
+    "summary": "O'zbekistonda sun'iy intellekt, mashinali o'qitish, bulutli texnologiyalar va dasturlash bo'yicha ta'lim dasturlari kengaytirilmoqda. Bu raqamli ko'nikmalarni oshirishga qaratilgan.",
+    "tags": [
+      "O'zbekiston",
+      "ta'lim"
+    ],
+    "importance": 3,
+    "score": 47,
+    "published": "2026-09-24T09:00:00.000Z",
+    "created": "2026-09-24T09:36:56.425Z",
+    "coverage": 1,
+    "source": {
+      "name": "UzDaily",
+      "url": "https://uzdaily.uz/uz/ozbekistonda-sun%CA%BCiy-intellekt-boyicha-ta%CA%BClim-imkoniyatlari-kengaytirilmoqda",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "920b57559a43",
+    "slug": "google-gemini-4-modelini-ishga-tushirishga-yaqin-920b57",
+    "title": "Google Gemini 4 modelini ishga tushirishga yaqin",
+    "summary": "Google o'zining Gemini 4 modelini ishga tushirishga yaqinlashmoqda. Google DeepMind rahbari Koray Kavukcuoglu model hozirda takomillashtirish bosqichida ekanini ma'lum qildi.",
+    "tags": [
+      "Google"
+    ],
+    "importance": 4,
+    "score": 24,
+    "published": "2026-09-24T09:04:18.000Z",
+    "created": "2026-09-24T09:36:56.425Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Verge",
+      "url": "https://theverge.com/tech/999802/google-deepmind-gemini-4-timeline-koray-kavukcuoglu",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "ba609109e954",
+    "slug": "nik-kleg-ai-insoniyatni-yoq-qilishi-haqidagi-xavotirlarni-ra-ba6091",
+    "title": "Nik Kleg AI insoniyatni yo'q qilishi haqidagi xavotirlarni rad etdi",
+    "summary": "Nik Kleg sun'iy intellektning insoniyatni yo'q qilish qobiliyati haqidagi xavotirlarni asossiz deb hisoblaydi. U texnologiya rahbarlarini kiberxavfsizlik va biologik qurollar kabi aniq tahdidlarga e'tibor qaratishga chaqirdi.",
+    "tags": [
+      "siyosat",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 23,
+    "published": "2026-09-24T09:19:28.000Z",
+    "created": "2026-09-24T09:36:56.425Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/technology/2026/sep/24/nick-clegg-plays-down-fears-godlike-ai-could-exterminate-humanity",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "07762c6dcbee",
+    "slug": "meta-ai-kozoynaklari-haqidagi-tanqidiy-videoni-olib-tashladi-07762c",
+    "title": "Meta AI ko'zoynaklari haqidagi tanqidiy videoni olib tashladi",
+    "summary": "Meta kompaniyasi o'zining AI ko'zoynaklari haqida tanqidiy videoni olib tashladi. Video Meta hududida suratga olingan edi.",
+    "tags": [
+      "Meta",
+      "maxfiylik"
+    ],
+    "importance": 3,
+    "score": 18.2,
+    "published": "2026-09-24T08:23:03.000Z",
+    "created": "2026-09-24T09:36:56.425Z",
+    "coverage": 1,
+    "source": {
+      "name": "Hacker News",
+      "url": "https://reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "1e0af95cc497",
     "slug": "gen-alpha-bu-ai-iborasini-haqorat-sifatida-ishlatmoqda-1e0af9",
     "title": "Gen Alpha \"Bu AI\" iborasini haqorat sifatida ishlatmoqda",

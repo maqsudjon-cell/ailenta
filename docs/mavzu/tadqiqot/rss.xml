@@ -5,7 +5,7 @@
   <link>https://ailenta.uz/mavzu/tadqiqot/</link>
   <description>&quot;tadqiqot&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Thu, 24 Sep 2026 09:04:46 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 24 Sep 2026 09:40:24 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/tadqiqot/rss.xml" rel="self" type="application/rss+xml"/>
   <item>
     <title>Gen Alpha &quot;Bu AI&quot; iborasini haqorat sifatida ishlatmoqda</title>
@@ -16,6 +16,16 @@
     <category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/gen-alpha-bu-ai-iborasini-haqorat-sifatida-ishlatmoqda-1e0af9.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/gen-alpha-bu-ai-iborasini-haqorat-sifatida-ishlatmoqda-1e0af9.jpg"/>
+  </item>
+  <item>
+    <title>Vizual AI shaharlarni o'rganishda imkoniyat va xavflar</title>
+    <link>https://ailenta.uz/x/vizual-ai-shaharlarni-organishda-imkoniyat-va-xavflar-f6fad4/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/vizual-ai-shaharlarni-organishda-imkoniyat-va-xavflar-f6fad4/</guid>
+    <pubDate>Thu, 24 Sep 2026 04:00:00 GMT</pubDate>
+    <description>MIT tadqiqotchilari &quot;How AI Sees the City&quot; nomli yangi kitobida vizual AI'ning shaharlarni o'rganishdagi imkoniyatlari va xavflarini ko'rib chiqdi. Bu texnologiya shahar hayotini tadqiq qilish uchun muhim ahamiyatga ega.</description>
+    <category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/vizual-ai-shaharlarni-organishda-imkoniyat-va-xavflar-f6fad4.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/vizual-ai-shaharlarni-organishda-imkoniyat-va-xavflar-f6fad4.jpg"/>
   </item>
   <item>
     <title>Xiaomi HySparse2 texnologiyasini taqdim etdi</title>
@@ -296,16 +306,6 @@
     <category>agentlar</category><category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/ai-agentlari-uchun-veb-saytlar-bilan-ishlash-muammosi-d4e6db.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/ai-agentlari-uchun-veb-saytlar-bilan-ishlash-muammosi-d4e6db.jpg"/>
-  </item>
-  <item>
-    <title>Shanghai AI Lab Intern-S2-397B multimodal modelini chiqardi</title>
-    <link>https://ailenta.uz/x/shanghai-ai-lab-intern-s2-397b-multimodal-modelini-chiqardi-312e44/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/shanghai-ai-lab-intern-s2-397b-multimodal-modelini-chiqardi-312e44/</guid>
-    <pubDate>Tue, 22 Sep 2026 08:05:45 GMT</pubDate>
-    <description>Shanghai AI Laboratory Intern-S2-397B nomli ochiq ogʻirlikli ilmiy multimodal modelni taqdim etdi. Model Hugging Face va ModelScope platformalarida mavjud.</description>
-    <category>tadqiqot</category><category>ochiq model</category>
-    <media:content url="https://ailenta.uz/og/shanghai-ai-lab-intern-s2-397b-multimodal-modelini-chiqardi-312e44.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/shanghai-ai-lab-intern-s2-397b-multimodal-modelini-chiqardi-312e44.jpg"/>
   </item>
 </channel>
 </rss>
