@@ -1,5 +1,123 @@
 [
   {
+    "id": "bc4e6e2b4be6",
+    "slug": "palo-alto-ceo-aini-sekinlatish-real-emas-bc4e6e",
+    "title": "Palo Alto CEO: AI'ni sekinlatish real emas",
+    "summary": "Palo Alto bosh direktori Nikesh Arora AI'ni sekinlashtirishni \"haqiqatga to'g'ri kelmaydi\" deb hisoblaydi. Uning fikricha, AI'dan insoniyatga tahdid \"juda kichik\". Bu fikr Nvidia bosh direktori Jensen Xuangning qarashlariga yaqin.",
+    "tags": [
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 28,
+    "published": "2026-09-24T12:24:37.000Z",
+    "created": "2026-09-24T12:36:38.530Z",
+    "coverage": 1,
+    "source": {
+      "name": "CNBC",
+      "url": "https://cnbc.com/2026/09/24/palo-alto-networks-nikesh-arora-ai-slowdown.html",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "1de0dcc263b2",
+    "slug": "anthropic-ai-agentlari-yordamida-malumotlar-ogirlandi-1de0dc",
+    "title": "Anthropic: AI agentlari yordamida ma'lumotlar o'g'irlandi",
+    "summary": "Anthropic hisobotiga ko'ra, hujumchilar dasturiy ta'minot provayderining 200 ga yaqin mijoziga tegishli ma'lumotlarni o'g'irlagan. Bu ishning deyarli barchasini AI agentlari amalga oshirgan.",
+    "tags": [
+      "Anthropic",
+      "xavfsizlik"
+    ],
+    "importance": 4,
+    "score": 28,
+    "published": "2026-09-24T10:02:07.000Z",
+    "created": "2026-09-24T12:36:38.531Z",
+    "coverage": 2,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/09/24/ai-could-make-more-companies-worth-hacking-anthropic-report-suggests",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "Fortune",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPb1JQRHd1RmpxSXZoWnVwdXp0SzZJY3dQMmQxOEQ3aHdacnk1VXFQSEs1YlpVa2c1VEp1MWlLRFI5SWFxTVVBYWJsdlZUbEw4aXZjdmFoNTBOcGsxTmd6YmNwVDlEM3NreDlhbUdpdXpMY0phNzBEd1ZOY2VkcldnVnlESDhTMXRGQXRmNkxncm95cHZkWExHQW9iWkZoRXFIZHc"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "3c250389bd47",
+    "slug": "ema-kompaniyasi-ai-dasturiy-taminoti-uchun-77-mln-jalb-qildi-3c2503",
+    "title": "Ema kompaniyasi AI dasturiy ta'minoti uchun $77 mln jalb qildi",
+    "summary": "Ema kompaniyasi AI korporativ dasturiy ta'minoti va xizmatlari uchun 77 million dollar sarmoya jalb qildi. Hozirgacha kompaniya jami 140 million dollar yig'gan va 50 dan ortiq korporativ mijozga ega.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 16,
+    "published": "2026-09-23T12:00:00.000Z",
+    "created": "2026-09-24T12:36:38.531Z",
+    "coverage": 2,
+    "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/23/ema-raises-77m-as-ai-starts-eating-into-enterprise-software-and-services",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "TechCrunch",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQTlkT0dzTlZZN1pCLWpmdTdUY3Jzb0lrN2FEVG9scE5hdFhUZE1TdkZmZjByaE9VSTlweDNXV2xPYTg5SVh4N2I1VTZsblhYcFVZSDRDbl8zazAxOXJOSHlfQkZEbUhJUHFzX0FTWnVuRDFNUzREZnBnTU5nT1BDdGRYMVhvSVNGVjNSMG9CQVZjVnRfQjdjRDQtMFlMN3Q4VkY5bkNNYVpUclU"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "9f9b88f534d3",
+    "slug": "meta-applening-telefon-ustunligiga-qarshi-chiqmoqda-9f9b88",
+    "title": "Meta Apple'ning telefon ustunligiga qarshi chiqmoqda",
+    "summary": "Meta Connect konferensiyasida kompaniya Apple'ning telefon bozoridagi ustunligiga qarshi turishni maqsad qilgan yangi VR va AI mahsulotlarini taqdim etdi.",
+    "tags": [
+      "Meta",
+      "Apple"
+    ],
+    "importance": 4,
+    "score": 15,
+    "published": "2026-09-24T10:47:09.000Z",
+    "created": "2026-09-24T12:36:38.531Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/meta-connect-developers-conference-virtual-reality-ai-glasses-tech-charm-2026-9",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "bfa3d5c19f46",
+    "slug": "garb-yetakchilari-aini-boshqarish-uchun-global-tizimni-takli-bfa3d5",
+    "title": "G'arb yetakchilari AI'ni boshqarish uchun global tizimni taklif qildi",
+    "summary": "Mark Karney, Emmanuel Makron va boshqa G'arb yetakchilari AI'ni boshqarish uchun global nazorat rejimi va \"texnologik barqarorlik\" organini tashkil etishni ilgari surmoqda.",
+    "tags": [
+      "siyosat",
+      "qonun"
+    ],
+    "importance": 5,
+    "score": 15,
+    "published": "2026-09-24T10:05:11.000Z",
+    "created": "2026-09-24T12:36:38.531Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/260924/p15",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "c0d1f51a84f5",
     "slug": "uptcr-t-hujayra-retseptor-antigen-bog-lanish-modeli-c0d1f5",
     "title": "UpTCR: T-hujayra retseptor-antigen bogʻlanish modeli",
