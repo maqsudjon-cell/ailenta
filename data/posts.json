@@ -1,5 +1,94 @@
 [
   {
+    "id": "623b38c1f981",
+    "slug": "aqsh-ai-xarajatlari-2025-2032-yillarda-10-3t-ga-yetadi-623b38",
+    "title": "AQSH AI xarajatlari 2025-2032 yillarda $10.3T ga yetadi",
+    "summary": "Brookings instituti hisobotiga ko'ra, AQSHning AI'ga sarflaydigan xarajatlari 2025-2032 yillar oralig'ida 10.3 trillion dollarni tashkil etadi. Bu har yili YaIMning o'rtacha 3.6 foizini tashkil etadi.",
+    "tags": [
+      "iqtisod",
+      "siyosat"
+    ],
+    "importance": 4,
+    "score": 18,
+    "published": "2026-09-24T09:40:15.000Z",
+    "created": "2026-09-24T10:01:39.966Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/260924/p13",
+      "title": "Brookings projects US AI spending to total $10.3T between 2025 and 2032, averaging 3.6% of GDP per year, the largest single-industry build-out as a share of GDP (Wall Street Journal)",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "379a15a012df",
+    "slug": "neyrobiologlar-miyani-neyrosetlardan-yaxshiroq-tushungan-379a15",
+    "title": "Neyrobiologlar miyani neyrosetlardan yaxshiroq tushungan",
+    "summary": "Habr nashrida neyrobiologlar 60 yil oldin miyani hozirgi neyrosetlarga nisbatan yaxshiroq tushunganligi haqida maqola chop etildi. Unda 1950-yillardagi tadqiqotlar misol qilib keltirilgan.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 17,
+    "published": "2026-09-24T09:14:30.000Z",
+    "created": "2026-09-24T10:01:45.404Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/companies/ru_mts/articles/1085976",
+      "title": "Почему нейробиологи 60 лет назад понимали мозг лучше, чем мы понимаем нейросети",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "6a0eaf725c65",
+    "slug": "radioterapiya-samaradorligini-ai-bilan-optimallashtirish-6a0eaf",
+    "title": "Radioterapiya samaradorligini AI bilan optimallashtirish",
+    "summary": "Nature jurnalida sun'iy intellekt yordamida radioterapiya yetkazib berishni optimallashtirish bo'yicha maqola chop etildi. Bu AI'ning tibbiyot sohasidagi qo'llanilishini ko'rsatadi.",
+    "tags": [
+      "tibbiyot",
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 23,
+    "published": "2026-09-24T00:00:00.000Z",
+    "created": "2026-09-24T10:01:51.738Z",
+    "coverage": 1,
+    "source": {
+      "name": "Nature",
+      "url": "https://nature.com/articles/s41571-026-01204-4",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "fe5178239410",
+    "slug": "metaning-ai-xizmatlari-ortida-inson-mehnati-bor-fe5178",
+    "title": "Meta'ning AI xizmatlari ortida inson mehnati bor",
+    "summary": "Hacker News xabariga ko'ra, Meta'ning so'nggi AI xizmatlari ortida kam maosh oluvchi insonlar mehnati yotadi. Bu AI tizimlarining ishlash mexanizmlariga oid savollarni tug'diradi.",
+    "tags": [
+      "Meta",
+      "mehnat bozori"
+    ],
+    "importance": 3,
+    "score": 16.5,
+    "published": "2026-09-23T21:34:58.000Z",
+    "created": "2026-09-24T10:01:51.738Z",
+    "coverage": 1,
+    "source": {
+      "name": "Hacker News",
+      "url": "https://avclub.com/meta-muse-ai-human-labor",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "f6fad453b0cd",
     "slug": "vizual-ai-shaharlarni-organishda-imkoniyat-va-xavflar-f6fad4",
     "title": "Vizual AI shaharlarni o'rganishda imkoniyat va xavflar",
