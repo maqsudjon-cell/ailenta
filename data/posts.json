@@ -1,5 +1,231 @@
 [
   {
+    "id": "f213f81c1a15",
+    "slug": "apple-neyron-audio-kodlovchilarni-siqishni-organmoqda-f213f8",
+    "title": "Apple neyron audio kodlovchilarni siqishni o'rganmoqda",
+    "summary": "Apple qurilmalarida nutqni matnga aylantirish uchun ishlatiladigan neyron audio kodlovchilarni siqish usullari o'rganilmoqda. Bu xotira, quvvat sarfini kamaytirish va kechikishni qisqartirishga yordam beradi.",
+    "tags": [
+      "Apple",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 33.8,
+    "published": "2026-09-24T00:00:00.000Z",
+    "created": "2026-09-24T17:35:40.067Z",
+    "coverage": 1,
+    "source": {
+      "name": "Apple",
+      "url": "https://machinelearning.apple.com/research/latent-space-distillation",
+      "title": "Compressing Streaming Neural Audio Encoders via Latent-Space Distillation",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "ef336624bf36",
+    "slug": "iqlim-faollari-openai-google-va-amazonga-qarshi-norozilik-bi-ef3366",
+    "title": "Iqlim faollari OpenAI, Google va Amazon'ga qarshi norozilik bildirdi",
+    "summary": "Nyu-Yorkda iqlim faollari Climate Week davomida OpenAI, Google va Amazon ofislari oldida norozilik namoyishlari o'tkazdi. Ular yirik texnologiya kompaniyalarining atrof-muhitga ta'sirini tanqid qildi.",
+    "tags": [
+      "OpenAI",
+      "Google"
+    ],
+    "importance": 4,
+    "score": 32,
+    "published": "2026-09-24T14:00:21.000Z",
+    "created": "2026-09-24T17:35:53.523Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/us-news/2026/sep/24/climate-protesters-ai",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "cdabe90a8dd9",
+    "slug": "ai-va-ijtimoiy-media-bolalar-xavfsizligi-boyicha-tanqid-osti-cdabe9",
+    "title": "AI va ijtimoiy media bolalar xavfsizligi bo'yicha tanqid ostida",
+    "summary": "AI va ijtimoiy media kompaniyalari yosh foydalanuvchilarga ta'siri sababli jiddiy tanqidga uchramoqda. Meta giyohvandlikka olib keluvchi mahsulotlar yaratishda ayblanmoqda, OpenAI esa ChatGPT xavfsizligi bo'yicha sudga berilgan.",
+    "tags": [
+      "OpenAI",
+      "Meta"
+    ],
+    "importance": 4,
+    "score": 29,
+    "published": "2026-09-24T15:59:08.000Z",
+    "created": "2026-09-24T17:35:53.523Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/technology/2026/sep/24/parents-children-ai-social-media",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "7d1344517ef0",
+    "slug": "oracle-malumotlar-markazi-uchun-tolovlarni-kechiktirmoqda-7d1344",
+    "title": "Oracle ma'lumotlar markazi uchun to'lovlarni kechiktirmoqda",
+    "summary": "Oracle Blue Owl kompaniyasiga \"fors-major\" xabarnomasini yubordi. Bu Nyu-Meksikodagi 2.45 gigavattlik Project Jupiter ma'lumotlar markazi 2028 yilgacha ishga tushmasa, to'lovlarni kechiktirishga imkon beradi.",
+    "tags": [
+      "Oracle",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 24.7,
+    "published": "2026-09-24T13:04:21.000Z",
+    "created": "2026-09-24T17:35:53.523Z",
+    "coverage": 2,
+    "source": {
+      "name": "Hacker News",
+      "url": "https://bloomberg.com/news/articles/2026-09-24/oracle-cites-force-majeure-to-shield-itself-on-controversial-data-center",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "Techmeme",
+        "url": "https://techmeme.com/260924/p25"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "a22262639cbd",
+    "slug": "pixel-11da-ai-chatbot-orqali-qongiroq-qilish-sinovdan-otmoqd-a22262",
+    "title": "Pixel 11'da AI chatbot orqali qo'ng'iroq qilish sinovdan o'tmoqda",
+    "summary": "Tanlangan Gemini obunachilari Pixel 11 qurilmalarida \"Call For Me\" funksiyasini sinab ko'rishlari mumkin. Bu funksiya AI chatbot yordamida telefon qo'ng'iroqlarini amalga oshirish imkonini beradi.",
+    "tags": [
+      "Google",
+      "agentlar"
+    ],
+    "importance": 3,
+    "score": 21,
+    "published": "2026-09-24T16:00:00.000Z",
+    "created": "2026-09-24T17:35:53.523Z",
+    "coverage": 1,
+    "source": {
+      "name": "Engadget",
+      "url": "https://engadget.com/2267120/pixel-11-call-for-me-feature-begins-preliminary-rollout",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "462fe7b642f4",
+    "slug": "ai-yordamida-xato-topish-ubuntuni-haftalik-yangilanishga-otk-462fe7",
+    "title": "AI yordamida xato topish Ubuntu'ni haftalik yangilanishga o'tkazdi",
+    "summary": "AI yordamida xato topish himoyachilar ularni tuzatishidan tezroq zaifliklarni ko'paytirmoqda. Shu sababli Canonical Ubuntu uchun haftalik yadro yangilanish sikliga o'tmoqda.",
+    "tags": [
+      "xavfsizlik",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-09-24T16:33:00.000Z",
+    "created": "2026-09-24T17:35:53.523Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/os-platforms/2026/09/24/cve-flood-pushes-ubuntu-onto-weekly-kernel-release-cycle/5298912",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "e326a0d80371",
+    "slug": "ai-rivoji-arzon-telefonlar-bozorini-qisqartirishi-mumkin-e326a0",
+    "title": "AI rivoji arzon telefonlar bozorini qisqartirishi mumkin",
+    "summary": "AI rivoji tufayli 200 dollardan arzon telefonlar bozoridan yiliga 230 million dona mahsulot yo'qolishi mumkin. Komponentlar narxi oshishi sababli bu bozor 2030 yilga kelib 40% ga qisqarishi kutilmoqda.",
+    "tags": [
+      "iqtisod",
+      "biznes"
+    ],
+    "importance": 4,
+    "score": 19,
+    "published": "2026-09-24T16:00:00.000Z",
+    "created": "2026-09-24T17:35:53.523Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/personal-tech/2026/09/24/ai-boom-could-wipe-230-million-budget-phones-a-year-from-the-market/5298906",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "a5065de8ac05",
+    "slug": "yaponiya-kompaniyalari-keksa-ishchilarga-ishlamaslik-uchun-p-a5065d",
+    "title": "Yaponiya kompaniyalari keksa ishchilarga ishlamaslik uchun pul to'lamoqda",
+    "summary": "Yaponiyadagi kompaniyalarning qariyb yarmi keksa ishchilarga deyarli hech narsa qilmasdan maosh to'laydi. G'arbiy bosh direktorlar esa xodimlardan AI bilan bog'liq yuqori samaradorlikni talab qilmoqda.",
+    "tags": [
+      "mehnat bozori",
+      "iqtisod"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-09-24T15:58:27.000Z",
+    "created": "2026-09-24T17:35:53.523Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/article/japanese-companies-pay-old-window-workers-do-nothing-western-ceos-demand-super-ai-productivity",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "2abc0f454cf3",
+    "slug": "aj-scaramucci-350-mlnlik-dasturlanadigan-reallik-loyihasini--2abc0f",
+    "title": "AJ Scaramucci $350 mlnlik \"Dasturlanadigan Reallik\" loyihasini ishga tushirdi",
+    "summary": "AJ Scaramucci \"Dasturlanadigan Reallik\" loyihasiga 350 million dollar sarmoya kiritib, uni ommaga e'lon qildi. U Fortune nashriga AI va boshqa mavzular haqida gapirib berdi.",
+    "tags": [
+      "biznes",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-09-24T13:00:00.000Z",
+    "created": "2026-09-24T17:35:53.523Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/09/24/exclusive-aj-scaramucci-comes-out-of-stealth-with-a-350-million-bet-on-programmable-reality",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "757009ce6a47",
+    "slug": "ai-samaradorligi-xarajatlari-tez-pasaymoqda-757009",
+    "title": "AI samaradorligi xarajatlari tez pasaymoqda",
+    "summary": "AI modellarining belgilangan samaradorlikka erishish xarajatlari tez pasaymoqda. Epoch AI yiliga 13 barobar narx pasayishini, MIT esa algoritmik taraqqiyotni yiliga 3 barobar deb baholaydi.",
+    "tags": [
+      "iqtisod",
+      "tadqiqot"
+    ],
+    "importance": 4,
+    "score": 18,
+    "published": "2026-09-24T16:00:18.000Z",
+    "created": "2026-09-24T17:35:53.524Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/ai-performance-costs-are-falling-faster-than-those-of-any-previous-technology",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "5431cc2fc83c",
     "slug": "google-ai-skanerlari-muhim-infratuzilmani-himoyalaydi-5431cc",
     "title": "Google AI skanerlari muhim infratuzilmani himoyalaydi",
