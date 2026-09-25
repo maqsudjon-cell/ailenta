@@ -1,5 +1,27 @@
 [
   {
+    "id": "ca53c408de44",
+    "slug": "supabase-mijozlari-ai-ilovalari-orqali-malumotlarni-oshkor-q-ca53c4",
+    "title": "Supabase mijozlari AI ilovalari orqali ma'lumotlarni oshkor qilmoqda",
+    "summary": "Ba'zi Supabase mijozlari foydalanuvchilar ma'lumotlarini internetga oshkor qilmoqda. Bu AI tomonidan yaratilgan ilovalar noto'g'ri sozlanganda ma'lumotlarni sizdirishi mumkinligini ko'rsatadi.",
+    "tags": [
+      "maxfiylik",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-09-25T17:29:46.000Z",
+    "created": "2026-09-25T23:01:59.542Z",
+    "coverage": 1,
+    "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/25/some-supabase-customers-are-publicly-exposing-reams-of-peoples-data-to-the-web",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "62caf335c248",
     "slug": "walmart-ai-orqali-shaxsiylashtirilgan-narxlar-qollamasligini-62caf3",
     "title": "Walmart AI orqali shaxsiylashtirilgan narxlar qo'llamasligini aytdi",
