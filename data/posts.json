@@ -1,5 +1,49 @@
 [
   {
+    "id": "1f42122e4e53",
+    "slug": "ai-kompaniya-rahbarlari-uchun-sinov-boladi-1f4212",
+    "title": "AI kompaniya rahbarlari uchun sinov bo'ladi",
+    "summary": "Harvard biznes maktabining sobiq dekani Nitin Noriya sun'iy intellektni kompaniyalardagi hokimiyat tuzilmalariga tahdid soluvchi markazsizlashtiruvchi kuch deb hisoblaydi. Uning fikricha, ushbu texnologiya bugungi bosh ijrochi direktorlarni jiddiy sinovdan o'tkazadi.",
+    "tags": [
+      "biznes",
+      "mehnat bozori"
+    ],
+    "importance": 2,
+    "score": 19,
+    "published": "2026-09-25T08:56:14.000Z",
+    "created": "2026-09-25T09:01:30.968Z",
+    "coverage": 1,
+    "source": {
+      "name": "Semafor",
+      "url": "https://semafor.com/article/09/25/2026/how-harvard-business-schools-former-dean-thinks-ai-will-test-todays-ceos",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "97b0bac140b5",
+    "slug": "oq-uy-ai-xavfsizligi-masalasida-yakkalanib-qoldi-97b0ba",
+    "title": "Oq uy AI xavfsizligi masalasida yakkalanib qoldi",
+    "summary": "AQSH prezidenti Donald Trampning sun'iy intellektni aynan qanday bo'lsa, shunday qoldirish haqidagi chaqirig'i Xitoy rahbari Si Szinpinning pozitsiyasiga ham zid kelmoqda. Natijada Oq uy AI xavfsizligini rad etishda yakkalanib qolmoqda.",
+    "tags": [
+      "siyosat",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-09-25T08:47:40.000Z",
+    "created": "2026-09-25T09:01:30.968Z",
+    "coverage": 1,
+    "source": {
+      "name": "Semafor",
+      "url": "https://semafor.com/article/09/25/2026/white-house-is-isolated-in-brushing-off-ai-safety",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "c602f6a3537d",
     "slug": "aevex-yangi-specter-avtonom-dronini-taqdim-etdi-c602f6",
     "title": "AEVEX yangi Specter avtonom dronini taqdim etdi",
