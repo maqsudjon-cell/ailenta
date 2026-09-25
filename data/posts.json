@@ -1,5 +1,114 @@
 [
   {
+    "id": "8be5b0d8d93b",
+    "slug": "ogrilar-nvidia-treylerlaridan-20-tonna-qum-ogirladi-8be5b0",
+    "title": "O'g'rilar Nvidia treylerlaridan 20 tonna qum o'g'irladi",
+    "summary": "O'g'rilar Nvidia nomli treylerlarni o'g'irlashdi, ammo ularning ichidan kremniy o'rniga 20 tonna qum chiqdi. Ular chiplar uchun mo'ljallangan materialni kutishgan edi.",
+    "tags": [
+      "Nvidia",
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 23,
+    "published": "2026-09-25T20:30:40.000Z",
+    "created": "2026-09-25T21:01:40.271Z",
+    "coverage": 1,
+    "source": {
+      "name": "Wired",
+      "url": "https://wired.com/story/thieves-stole-nvidia-trailers-they-got-20-tons-of-sand",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "ac26c215730b",
+    "slug": "qotillik-sudida-ai-yaratgan-sevgi-qoshigi-yangradi-ac26c2",
+    "title": "Qotillik sudida AI yaratgan sevgi qo'shig'i yangradi",
+    "summary": "Qotillik bo'yicha sud jarayonida AI tomonidan yaratilgan sevgi qo'shig'i ijro etildi. Qo'shiqning biri xursand, ikkinchisi esa g'amgin ohangda ekani aytildi.",
+    "tags": [
+      "qonun"
+    ],
+    "importance": 2,
+    "score": 19,
+    "published": "2026-09-25T20:56:21.000Z",
+    "created": "2026-09-25T21:01:40.271Z",
+    "coverage": 1,
+    "source": {
+      "name": "404 Media",
+      "url": "https://404media.co/caleb-flynn-ai-love-song-for-mistress-played-at-murder-trial-is-most-excruciating-watch-in-recent-memory",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "27c256c719ff",
+    "slug": "ai-talabalar-uchun-mehnat-bozorini-qiyinlashtirmoqda-27c256",
+    "title": "AI talabalar uchun mehnat bozorini qiyinlashtirmoqda",
+    "summary": "AI ishga olish vositasi sifatida qo'llanilayotgani va ish beruvchilar tomonidan AI ko'nikmalari talab qilinayotgani sababli, kollej talabalari va bitiruvchilar uchun ish topish qiyinlashmoqda.",
+    "tags": [
+      "mehnat bozori",
+      "ta'lim"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-09-25T20:52:09.000Z",
+    "created": "2026-09-25T21:01:40.271Z",
+    "coverage": 1,
+    "source": {
+      "name": "CNBC",
+      "url": "https://cnbc.com/2026/09/25/ai-jobs-recent-graduates-college-degrees.html",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "ca87584b6bc2",
+    "slug": "tramp-va-si-ai-boyicha-muzokaralar-otkazdi-ca8758",
+    "title": "Tramp va Si AI bo'yicha muzokaralar o'tkazdi",
+    "summary": "Donald Tramp va Si Jinping o'rtasidagi muzokaralarda sun'iy intellekt asosiy mavzulardan biri bo'ldi. AI xavfsizligi bo'yicha xavotirlar so'nggi haftalarda global geosiyosiy kun tartibiga chiqqan edi.",
+    "tags": [
+      "siyosat",
+      "xavfsizlik"
+    ],
+    "importance": 5,
+    "score": 19,
+    "published": "2026-09-25T14:43:23.000Z",
+    "created": "2026-09-25T21:01:40.271Z",
+    "coverage": 1,
+    "source": {
+      "name": "CNBC",
+      "url": "https://cnbc.com/2026/09/25/the-tech-download-trump-xi-ai-talks.html",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "2bdd797e45a3",
+    "slug": "ai-javoblarida-internet-dokon-havolalari-kam-2bdd79",
+    "title": "AI javoblarida internet-do'kon havolalari kam",
+    "summary": "Tadqiqotga ko'ra, Alisa AI va Perplexity'ga berilgan 14 ta savoldan so'ng, 243 ta havoladan atigi 10 tasi mahsulot kartasiga olib borgan. AI ko'pincha savolga to'liq javob beradigan sahifalarga havolalar beradi.",
+    "tags": [
+      "tadqiqot",
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 17,
+    "published": "2026-09-25T19:17:04.000Z",
+    "created": "2026-09-25T21:01:40.271Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1086798",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "5ed35d71752a",
     "slug": "gollivud-aini-biladigan-istedodlarni-qidirmoqda-5ed35d",
     "title": "Gollivud AI'ni biladigan iste'dodlarni qidirmoqda",
