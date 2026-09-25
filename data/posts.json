@@ -1,5 +1,138 @@
 [
   {
+    "id": "81442c9113f0",
+    "slug": "amir-temur-bolalik-davri-filmi-ai-mukofotini-oldi-81442c",
+    "title": "“Amir Temur: Bolalik davri” filmi AI mukofotini oldi",
+    "summary": "\"Amir Temur: Bolalik davri\" filmi Venetsiyadagi \"AI Film Awards\" xalqaro tanlovida eng yuqori mukofotga sazovor bo'ldi.",
+    "tags": [
+      "O'zbekiston",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 48,
+    "published": "2026-09-25T15:00:30.000Z",
+    "created": "2026-09-25T15:36:07.672Z",
+    "coverage": 1,
+    "source": {
+      "name": "Kun.uz",
+      "url": "https://kun.uz/news/2026/09/25/madaniyat-vazirligidan-katta-galaba",
+      "title": "“Amir Temur: Bolalik davri” filmi xalqaro mukofotga loyiq koʻrildi.",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "9016c46e048a",
+    "slug": "ai-toqib-chiqarishi-aybsiz-ayolni-jim-qildi-9016c4",
+    "title": "AI to'qib chiqarishi aybsiz ayolni jim qildi",
+    "summary": "Tasmaniya ozodlikka chiqarish kengashi mavjud bo'lmagan huquqiy manbalarga tayanib, ayolni o'z aybsizligini e'lon qilishiga to'sqinlik qildi. Bu holat AI to'qib chiqarishining salbiy oqibatlarini ko'rsatadi.",
+    "tags": [
+      "xavfsizlik",
+      "qonun"
+    ],
+    "importance": 5,
+    "score": 23,
+    "published": "2026-09-25T15:00:11.000Z",
+    "created": "2026-09-25T15:36:15.033Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/australia-news/2026/sep/26/sue-neill-fraser-yacht-murder-ai-court-case-media-ban-tasmania-ntwnfb",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "047f24151f15",
+    "slug": "avstraliyani-ai-xavfidan-himoya-qilish-qiyin-047f24",
+    "title": "Avstraliyani AI xavfidan himoya qilish qiyin",
+    "summary": "Maqolada Avstraliyani AI xavfidan himoya qilish uchun jiddiyroq choralar kerakligi ta'kidlanadi. OpenAI'ning Medicare'ga buzib kirishi kabi holatlar sivilizatsiyani himoya qilish muhimligini ko'rsatadi.",
+    "tags": [
+      "xavfsizlik",
+      "siyosat"
+    ],
+    "importance": 4,
+    "score": 23,
+    "published": "2026-09-25T14:58:32.000Z",
+    "created": "2026-09-25T15:36:15.034Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/technology/2026/sep/25/australia-medicare-openai-hack-safeguarding-un-leaders",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "b005ba80ec50",
+    "slug": "aqsh-sudi-anthropicni-xavfli-deb-tasdiqladi-b005ba",
+    "title": "AQSH sudi Anthropic'ni xavfli deb tasdiqladi",
+    "summary": "AQSH apellyatsiya sudi Pentagonning Anthropic kompaniyasini ta'minot zanjiri uchun xavf deb belgilash qarorini tasdiqladi.",
+    "tags": [
+      "Anthropic",
+      "qonun"
+    ],
+    "importance": 4,
+    "score": 19,
+    "published": "2026-09-25T15:27:57.000Z",
+    "created": "2026-09-25T15:36:15.034Z",
+    "coverage": 1,
+    "source": {
+      "name": "CNBC",
+      "url": "https://cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "3e68d0c782f3",
+    "slug": "rim-papasi-ai-xavflaridan-ogohlantirdi-3e68d0",
+    "title": "Rim papasi AI xavflaridan ogohlantirdi",
+    "summary": "Rim papasi Leo sun'iy intellekt atrofida kuchliroq himoya choralarini ko'rishga chaqirdi. U texnologiya insonlar uchun vosita bo'lib qolishi kerakligini ta'kidladi.",
+    "tags": [
+      "siyosat",
+      "xavfsizlik"
+    ],
+    "importance": 4,
+    "score": 19,
+    "published": "2026-09-25T13:35:15.000Z",
+    "created": "2026-09-25T15:36:15.034Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/09/25/pope-leo-ai-paradise-machines",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "aa144cfdcc79",
+    "slug": "fed-vakili-ai-ish-orinlarini-yoqotmayapti-dedi-aa144c",
+    "title": "Fed vakili AI ish o'rinlarini yo'qotmayapti dedi",
+    "summary": "Richmond Fed prezidenti Tom Barkinning aytishicha, \"AI apokalipsisi\" hali kelgani yo'q. Kompaniyalar AIga sarmoya kiritmoqda, ammo kuchli daromadlar ishchi kuchini qisqartirishga olib kelmayapti.",
+    "tags": [
+      "iqtisod",
+      "mehnat bozori"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-09-25T13:05:58.000Z",
+    "created": "2026-09-25T15:36:15.034Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/09/25/feds-tom-barkin-former-mckinsey-cfo-says-ai-apocalypse-hasnt-arrived",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "ed3ed1925b31",
     "slug": "tadbirkor-ai-dokonlari-bilan-8-xonali-biznes-qurdi-ed3ed1",
     "title": "Tadbirkor AI do'konlari bilan 8 xonali biznes qurdi",
