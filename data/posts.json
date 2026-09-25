@@ -1,5 +1,49 @@
 [
   {
+    "id": "cb1362a947ee",
+    "slug": "aqsh-va-xitoy-suniy-intellekt-boyicha-muloqot-otkazdi-cb1362",
+    "title": "AQSH va Xitoy sun'iy intellekt bo'yicha muloqot o'tkazdi",
+    "summary": "AQSH va Xitoy sun'iy intellekt bo'yicha o'zlarining ilk muloqotini o'tkazdi. Unda tomonlar texnologiya xavfsizligi masalalarini muhokama qilgan, Pekin esa ochiq kodli modellar orqali dunyo bilan hamkorlik qilmoqda.",
+    "tags": [
+      "siyosat",
+      "xavfsizlik"
+    ],
+    "importance": 4,
+    "score": 19,
+    "published": "2026-09-24T19:13:33.000Z",
+    "created": "2026-09-25T05:01:54.704Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/09/24/us-china-ai-labs-converge-ai-guardrail-hotline",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "c27e736f539d",
+    "slug": "lightspeed-hindiston-uchun-250-million-dollar-yigadi-c27e73",
+    "title": "Lightspeed Hindiston uchun 250 million dollar yig'adi",
+    "summary": "Silikon vodiysining Lightspeed firmasi Hindistondagi yangi jamg'armasi uchun 250 million dollar yig'ishni rejalashtirmoqda. Ushbu mablag'lar asosan boshlang'ich bosqichdagi AI startaplariga yo'naltiriladi.",
+    "tags": [
+      "biznes",
+      "iqtisod"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-09-25T05:00:00.000Z",
+    "created": "2026-09-25T05:01:54.704Z",
+    "coverage": 1,
+    "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "a17a60369cfe",
     "slug": "metaning-ai-sohasidagi-muvaffaqiyati-uzoqqa-chozilmasligi-mu-a17a60",
     "title": "Meta'ning AI sohasidagi muvaffaqiyati uzoqqa cho'zilmasligi mumkin",
