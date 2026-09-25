@@ -1,5 +1,72 @@
 [
   {
+    "id": "51f94980b294",
+    "slug": "llm-ilovalari-konstruktori-flowise-yopildi-51f949",
+    "title": "LLM ilovalari konstruktori Flowise yopildi",
+    "summary": "LLM ilovalari uchun vizual konstruktor bo'lgan Flowise loyihasi 2026-yil 29-iyulda yopilganini e'lon qildi. Loyiha GitHub'da 55 ming yulduzga ega bo'lib, 13-avgustda uning repozitoriysi arxivlangan.",
+    "tags": [
+      "biznes",
+      "ochiq model"
+    ],
+    "importance": 3,
+    "score": 11,
+    "published": "2026-09-24T16:45:31.000Z",
+    "created": "2026-09-25T00:36:33.007Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1086288",
+      "title": "Flowise закрыли, я его форкнул — и выяснил, что форкать было нельзя",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "0f6e622c8d6d",
+    "slug": "google-gemini-pixel-telefonlarda-qongiroq-qila-oladi-0f6e62",
+    "title": "Google Gemini Pixel telefonlarda qo'ng'iroq qila oladi",
+    "summary": "Google'ning Gemini AI'si endi Pixel 11 seriyali telefonlarda \"Call for Me\" funksiyasi orqali qo'ng'iroqlar qila oladi. Bu xususiyat faqat Pixel 11 qurilmalari uchun mavjud.",
+    "tags": [
+      "Google",
+      "agentlar"
+    ],
+    "importance": 3,
+    "score": 23,
+    "published": "2026-09-24T16:00:00.000Z",
+    "created": "2026-09-25T00:36:38.856Z",
+    "coverage": 1,
+    "source": {
+      "name": "Wired",
+      "url": "https://wired.com/story/googles-gemini-can-now-make-calls-for-you-on-pixel-phones",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "cd1f21069a94",
+    "slug": "yevropada-37-ta-ai-xavfsizligi-startapi-aniqlandi-cd1f21",
+    "title": "Yevropada 37 ta AI xavfsizligi startapi aniqlandi",
+    "summary": "Yevropada sun'iy intellekt xavfsizligi sohasida faoliyat yurituvchi 37 ta startap aniqlandi. Bu kompaniyalar Yevropaning \"ishonch qatlami\"ni yaratishga hissa qo'shmoqda.",
+    "tags": [
+      "xavfsizlik",
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 12,
+    "published": "2026-09-24T05:00:07.000Z",
+    "created": "2026-09-25T00:36:38.856Z",
+    "coverage": 1,
+    "source": {
+      "name": "Sifted",
+      "url": "https://sifted.eu/articles/ai-safety-startups-mapped-38-companies-building-europes-trust-layer",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "d2f111d2320c",
     "slug": "kalshi-ai-reklamasi-sabab-tanqidga-uchradi-d2f111",
     "title": "Kalshi AI reklamasi sabab tanqidga uchradi",
