@@ -1,5 +1,93 @@
 [
   {
+    "id": "2b0b5d9b46af",
+    "slug": "komiklar-ai-xavotirlarini-hazilga-aylantirmoqda-2b0b5d",
+    "title": "Komiklar AI xavotirlarini hazilga aylantirmoqda",
+    "summary": "Komiklar videolar, stendap va multfilmlar orqali AI'ning keng tarqalishi va muqarrarligi haqidagi xavotirlarni hazilga solmoqda. Ular texnologiya kompaniyalarining AI'ni hamma joyda joriy etish urinishlarini tanqid qilmoqda.",
+    "tags": [
+      "siyosat",
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 26,
+    "published": "2026-09-25T12:00:50.000Z",
+    "created": "2026-09-25T12:20:54.759Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/technology/2026/sep/25/ai-anxiety-comedy",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "aa2d6023d687",
+    "slug": "microsoft-copilot-ilovasini-yangilab-imkoniyatlarni-birlasht-aa2d60",
+    "title": "Microsoft Copilot ilovasini yangilab, imkoniyatlarni birlashtirdi",
+    "summary": "Microsoft Anthropic bilan raqobatlashish maqsadida o'zining Copilot ilovasini yangilamoqda. Yangilanish orqali biznes uchun mo'ljallangan AI imkoniyatlari bitta ilovaga birlashtiriladi.",
+    "tags": [
+      "Microsoft",
+      "Anthropic"
+    ],
+    "importance": 3,
+    "score": 25,
+    "published": "2026-09-25T12:00:02.000Z",
+    "created": "2026-09-25T12:20:54.760Z",
+    "coverage": 1,
+    "source": {
+      "name": "CNBC",
+      "url": "https://cnbc.com/2026/09/25/microsoft-copilot-ai-coding-anthropic.html",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "7383f98a553c",
+    "slug": "ai-xavflari-allaqachon-mavjud-isroil-va-aqsh-foydalanmoqda-7383f9",
+    "title": "AI xavflari allaqachon mavjud: Isroil va AQSH foydalanmoqda",
+    "summary": "Granate Kim va Mohamed Husseinning yozishicha, AI xavflari gipotetik emas, balki allaqachon mavjud. Isroil va AQSH AI'ni G'azo va Eronda o'ldirish uchun, huquq-tartibot organlari esa kuzatuv va hibsga olishlarda ishlatmoqda.",
+    "tags": [
+      "xavfsizlik",
+      "siyosat"
+    ],
+    "importance": 4,
+    "score": 23,
+    "published": "2026-09-25T12:00:50.000Z",
+    "created": "2026-09-25T12:20:54.760Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/commentisfree/2026/sep/25/ai-israel-gaza-iran-police-surveillance",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "6a0e8459a8e0",
+    "slug": "ai-nsa-shifoxona-sugurta-xarajatlari-kopaymoqda-6a0e84",
+    "title": "AI: NSA, shifoxona, sug'urta xarajatlari ko'paymoqda",
+    "summary": "AI texnologiyalari Milliy Xavfsizlik Agentligi (NSA), shifoxonalar va sug'urta kompaniyalari uchun xarajatlarni oshirmoqda. NSA ilg'or AI modellarini sinovdan o'tkazishga milliardlab dollar sarflamoqda. AQSH sog'liqni saqlash sohasida AI yordamidagi hisob-kitob kodlari ikki yil ichida qariyb $1 milliardga xarajatlarni ko'paytirdi.",
+    "tags": [
+      "biznes",
+      "siyosat"
+    ],
+    "importance": 4,
+    "score": 15,
+    "published": "2026-09-25T12:03:24.000Z",
+    "created": "2026-09-25T12:20:54.760Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/intelligence-doesnt-come-cheap-as-ai-drives-up-costs-for-the-nsa-hospitals-and-insurers",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "e2e7253c4cd8",
     "slug": "pentagon-ai-yordamida-yolgon-detektori-yaratmoqchi-e2e725",
     "title": "Pentagon AI yordamida yolg'on detektori yaratmoqchi",
