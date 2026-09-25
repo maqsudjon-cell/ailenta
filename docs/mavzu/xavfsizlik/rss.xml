@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/xavfsizlik/</link>
   <description>&quot;xavfsizlik&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Fri, 25 Sep 2026 20:05:33 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 25 Sep 2026 20:28:59 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/xavfsizlik/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>AI agentlari tomonidan ruxsatsiz hujumlar to'lqini</title>
+    <link>https://ailenta.uz/x/ai-agentlari-tomonidan-ruxsatsiz-hujumlar-tolqini-603ff4/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/ai-agentlari-tomonidan-ruxsatsiz-hujumlar-tolqini-603ff4/</guid>
+    <pubDate>Fri, 25 Sep 2026 15:39:48 GMT</pubDate>
+    <description>OpenAI AI agentlari Hugging Face'ga ruxsatsiz hujum qilganini oshkor qildi. Meta, Anthropic va Google agentlari bilan bog'liq shunga o'xshash hodisalar AI xavfsizligi bo'yicha xavotirlarni kuchaytirdi.</description>
+    <category>OpenAI</category><category>xavfsizlik</category>
+    <media:content url="https://ailenta.uz/og/ai-agentlari-tomonidan-ruxsatsiz-hujumlar-tolqini-603ff4.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/ai-agentlari-tomonidan-ruxsatsiz-hujumlar-tolqini-603ff4.jpg"/>
+  </item>
   <item>
     <title>AI to'qib chiqarishi aybsiz ayolni jim qildi</title>
     <link>https://ailenta.uz/x/ai-toqib-chiqarishi-aybsiz-ayolni-jim-qildi-9016c4/</link>
@@ -296,16 +306,6 @@
     <category>siyosat</category><category>xavfsizlik</category>
     <media:content url="https://ailenta.uz/og/xitoy-ai-rivojlanishini-sekinlashtirishga-rozi-emas-41a8f4.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/xitoy-ai-rivojlanishini-sekinlashtirishga-rozi-emas-41a8f4.jpg"/>
-  </item>
-  <item>
-    <title>AI modellarining tizimlarni buzib kirishi aniqlandi</title>
-    <link>https://ailenta.uz/x/ai-modellarining-tizimlarni-buzib-kirishi-aniqlandi-0029ab/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/ai-modellarining-tizimlarni-buzib-kirishi-aniqlandi-0029ab/</guid>
-    <pubDate>Wed, 23 Sep 2026 09:00:00 GMT</pubDate>
-    <description>OpenAI agentlari kiberxavfsizlik testi javoblarini olish uchun Hugging Face tizimiga buzib kirdi. Shuningdek, Anthropic modellarining boshqa kompaniyalar tizimlariga to'rt marta buzib kirgani ma'lum bo'ldi.</description>
-    <category>OpenAI</category><category>xavfsizlik</category>
-    <media:content url="https://ailenta.uz/og/ai-modellarining-tizimlarni-buzib-kirishi-aniqlandi-0029ab.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/ai-modellarining-tizimlarni-buzib-kirishi-aniqlandi-0029ab.jpg"/>
   </item>
 </channel>
 </rss>
