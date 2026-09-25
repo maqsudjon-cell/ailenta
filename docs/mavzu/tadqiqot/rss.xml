@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/tadqiqot/</link>
   <description>&quot;tadqiqot&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Fri, 25 Sep 2026 09:05:49 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 25 Sep 2026 09:16:14 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/tadqiqot/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Shaxsiy AGI: Raspberry Pi'da ikkinchi miya</title>
+    <link>https://ailenta.uz/x/shaxsiy-agi-raspberry-pida-ikkinchi-miya-fde9d0/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/shaxsiy-agi-raspberry-pida-ikkinchi-miya-fde9d0/</guid>
+    <pubDate>Fri, 25 Sep 2026 07:35:12 GMT</pubDate>
+    <description>Muallif Anthropic akkaunti o'chirilgach, shaxsiy AGI'ni Raspberry Pi'da yaratdi. Bu tizim shaxsiy kontekstni saqlaydi, turli LLM'lar bilan ishlaydi va foydalanuvchiga vaqt tejaydi.</description>
+    <category>tadqiqot</category><category>ochiq model</category>
+    <media:content url="https://ailenta.uz/og/shaxsiy-agi-raspberry-pida-ikkinchi-miya-fde9d0.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/shaxsiy-agi-raspberry-pida-ikkinchi-miya-fde9d0.jpg"/>
+  </item>
   <item>
     <title>PAWS: Agentli dunyo simulyatsiyasi ma'lumotlar to'plami</title>
     <link>https://ailenta.uz/x/paws-agentli-dunyo-simulyatsiyasi-malumotlar-toplami-b301ad/</link>
@@ -296,16 +306,6 @@
     <category>Google</category><category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/gemini-3-8-matndan-nutqqa-texnologiyasi-taqdim-etildi-914ed3.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/gemini-3-8-matndan-nutqqa-texnologiyasi-taqdim-etildi-914ed3.jpg"/>
-  </item>
-  <item>
-    <title>Akademikning AI bilan murakkab munosabatlari</title>
-    <link>https://ailenta.uz/x/akademikning-ai-bilan-murakkab-munosabatlari-52af67/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/akademikning-ai-bilan-murakkab-munosabatlari-52af67/</guid>
-    <pubDate>Wed, 23 Sep 2026 15:00:52 GMT</pubDate>
-    <description>Ko'p tilli akademik Setareh Seyedghorban sun'iy intellekt bilan murakkab munosabatlari haqida yozdi. U AI imkoniyatlarini tan olsa-da, tanqidiy fikrlash va hushyorlikni saqlash muhimligini ta'kidlaydi.</description>
-    <category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/akademikning-ai-bilan-murakkab-munosabatlari-52af67.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/akademikning-ai-bilan-murakkab-munosabatlari-52af67.jpg"/>
   </item>
 </channel>
 </rss>
