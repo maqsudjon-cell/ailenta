@@ -1,5 +1,93 @@
 [
   {
+    "id": "d2f111d2320c",
+    "slug": "kalshi-ai-reklamasi-sabab-tanqidga-uchradi-d2f111",
+    "title": "Kalshi AI reklamasi sabab tanqidga uchradi",
+    "summary": "Kalshi kompaniyasi ijodkorning videosini ko'chirib, uning irqini o'zgartirganlikda ayblanib, tanqidlarga sabab bo'ldi. Kompaniya AI reklamalaridan foydalanishni cheklab, agentlik bilan munosabatlarini ko'rib chiqmoqda.",
+    "tags": [
+      "biznes",
+      "maxfiylik"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-09-24T23:11:33.000Z",
+    "created": "2026-09-25T00:01:37.282Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/kalshi-in-hot-water-over-race-swapping-ai-ads-2026-9",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "391643f47c22",
+    "slug": "anthropic-startaplarga-raqobat-qilmasligini-aytdi-391643",
+    "title": "Anthropic startaplarga raqobat qilmasligini aytdi",
+    "summary": "Anthropic kompaniyasi startaplarga raqobat qilish niyatida emasligini ma'lum qildi. Ular kichik kompaniyalarning bozor ulushini egallashga urinmayotganini ta'kidladi.",
+    "tags": [
+      "Anthropic",
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 12.2,
+    "published": "2026-09-24T05:00:25.000Z",
+    "created": "2026-09-25T00:01:37.282Z",
+    "coverage": 1,
+    "source": {
+      "name": "Sifted",
+      "url": "https://sifted.eu/articles/claude-founder-house-london",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "dc0d1302e6d9",
+    "slug": "rossiya-qozogiston-va-belarusda-hisoblash-bozori-dc0d13",
+    "title": "Rossiya, Qozog'iston va Belarusda hisoblash bozori",
+    "summary": "Habr nashri Rossiya, Qozog'iston va Belarusdagi hisoblash quvvatlari bozorini tahlil qildi. Qozog'iston Nvidia bilan AI-hab qurmoqda, Belarusda esa atom energiyasi profitsiti mavjud.",
+    "tags": [
+      "biznes",
+      "Nvidia"
+    ],
+    "importance": 3,
+    "score": 11,
+    "published": "2026-09-24T18:30:16.000Z",
+    "created": "2026-09-25T00:01:37.282Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1086402",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "97f3f0329969",
+    "slug": "gallup-sorovi-global-ai-optimizmini-korsatdi-97f3f0",
+    "title": "Gallup so'rovi global AI optimizmini ko'rsatdi",
+    "summary": "Gallup so'rovi natijalariga ko'ra, butun dunyoda sun'iy intellektga nisbatan keng tarqalgan optimizm mavjud. Bu AI haqidagi salbiy taxminlarga zid keladi.",
+    "tags": [
+      "tadqiqot",
+      "iqtisod"
+    ],
+    "importance": 3,
+    "score": 11,
+    "published": "2026-09-24T17:38:47.000Z",
+    "created": "2026-09-25T00:01:37.282Z",
+    "coverage": 1,
+    "source": {
+      "name": "Mashable",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMWRBeklLd0tsZnB5SzBUMGVIbVNrMnB5UXh6N0VpRmtfVjV6SGxVLV8tb3dZR2E1NjZGX0JyMERtTDhEQWlaZGszd0lkelhobEphX0Q1REhwbTlCZXUwcm9XeHNjQXRzUFh2NzlDN29MTkZJMEk1YTNoZkxPbDRiYw",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "6941f350b5d6",
     "slug": "anthropic-asoschilari-kop-ovoz-huquqini-olmoqchi-6941f3",
     "title": "Anthropic asoschilari ko'p ovoz huquqini olmoqchi",
