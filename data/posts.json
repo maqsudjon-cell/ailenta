@@ -1,5 +1,138 @@
 [
   {
+    "id": "ed3ed1925b31",
+    "slug": "tadbirkor-ai-dokonlari-bilan-8-xonali-biznes-qurdi-ed3ed1",
+    "title": "Tadbirkor AI do'konlari bilan 8 xonali biznes qurdi",
+    "summary": "Mayk Burnett uch o'n yillik tadbirkorlik faoliyati davomida gumball mashinalaridan AI do'konlarigacha bo'lgan biznesni qurdi. U trendlarga ergashib, 8 xonali daromadga erishdi.",
+    "tags": [
+      "biznes",
+      "mehnat bozori"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-09-25T09:45:01.000Z",
+    "created": "2026-09-25T12:36:39.817Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/ai-stores-small-business-entrepreneur-secrets-to-longevity-vending-machines-2026-9",
+      "title": "From gumball machines to AI stores: How an entrepreneur followed what's trending to build an 8-figure business",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "0ad2940559ce",
+    "slug": "golden-gate-ventures-markaziy-osiyo-startaplari-uchun-dastur-0ad294",
+    "title": "Golden Gate Ventures Markaziy Osiyo startaplari uchun dastur",
+    "summary": "Golden Gate Ventures O'zbekistonda Markaziy Osiyo startaplari asoschilari uchun ikki yillik qo'llab-quvvatlash dasturini ishga tushiradi.",
+    "tags": [
+      "O'zbekiston",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 41,
+    "published": "2026-09-25T11:50:00.000Z",
+    "created": "2026-09-25T12:36:45.307Z",
+    "coverage": 1,
+    "source": {
+      "name": "UzDaily",
+      "url": "https://uzdaily.uz/uz/golden-gate-ventures-markaziy-osiyo-startaplari-uchun-dastur-ishga-tushiradi",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "98cb7f43a8a8",
+    "slug": "anthropic-global-ai-yetakchiligi-boyicha-ikki-ssenariy-98cb7f",
+    "title": "Anthropic global AI yetakchiligi bo'yicha ikki ssenariy",
+    "summary": "Anthropic kompaniyasi 2028 yilga kelib global AI yetakchiligi uchun ikki xil ssenariyni taqdim etdi.",
+    "tags": [
+      "Anthropic",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 30,
+    "published": "2026-09-25T00:50:26.000Z",
+    "created": "2026-09-25T12:36:45.307Z",
+    "coverage": 1,
+    "source": {
+      "name": "Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0wbVRiTmVURWxrWXNjZXJxR1hMdFBlYVA0VUd0cHBKS2djVVRiT1FjNjZlYXZ2d0pJN0lOVGU2T1ctMjNFcm1TVXhOSVhlM25kTUdmelFCWnZMQUFzZkRqMjQ4MFVEemt0MDc1YndkWS0",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "fc3129d18209",
+    "slug": "boomerlar-aiga-haddan-tashqari-boglanganmi-oquvchilar-fikri-fc3129",
+    "title": "Boomerlar AI'ga haddan tashqari bog'langanmi? O'quvchilar fikri",
+    "summary": "WSJ nashrida \"Boomerlar AI'ga haddan tashqari bog'langanmi?\" sarlavhali esse chop etildi. O'quvchilar bu borada turli fikrlarni bildirishdi.",
+    "tags": [
+      "mehnat bozori",
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 23.9,
+    "published": "2026-09-24T16:57:17.000Z",
+    "created": "2026-09-25T12:36:45.307Z",
+    "coverage": 1,
+    "source": {
+      "name": "WSJ",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQng1Q2xZamJwZFZyUFE0MXRZbG40VGpHTlJHb3JjOUNPZ3ZaT0hJbDdVM1BuekFGRS1PeTdOcEo2RFJPRS1zMUxuSzFadmVHSF9aSzUyVklBamdhVHNDMEEyTm9BdElLY3A4Y0tnTlJNN1JqTWxkV1dxaC13TmIxSTZsNlRxblB2bS1oTA",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "7a914df58e7e",
+    "slug": "google-gemini-jonli-avatarlar-orqali-suhbatni-taqdim-etadi-7a914d",
+    "title": "Google Gemini jonli avatarlar orqali suhbatni taqdim etadi",
+    "summary": "Google Gemini generativ suhbatni multfilm yoki jonli avatarlar orqali taqdim eta oladi. DeepMind inson taqlidi odamlarga qanday ta'sir qilishi noaniq bo'lishiga qaramay, bu texnologiyani joriy etdi.",
+    "tags": [
+      "Google",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 21.7,
+    "published": "2026-09-24T23:57:01.000Z",
+    "created": "2026-09-25T12:36:45.308Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/ai-and-ml/2026/09/25/google-gemini-can-present-cartoon-or-lifelike-avatars-to-lip-sync-generative-chatter/5299016",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "378995128bfe",
+    "slug": "milliarder-david-rubenstein-ai-aksiyalari-haqida-fikr-bildir-378995",
+    "title": "Milliarder David Rubenstein AI aksiyalari haqida fikr bildirdi",
+    "summary": "Milliarder investor David Rubenstein Baltimore Orioles jamoasini sotib olishi, Amazon va Facebook'ni o'tkazib yuborishi haqida gapirdi. U shuningdek, AI aksiyalarining traektoriyasi bo'yicha o'z fikrlarini bildirdi.",
+    "tags": [
+      "iqtisod",
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-09-25T09:45:15.000Z",
+    "created": "2026-09-25T12:36:45.308Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/david-rubenstein-sports-teams-investing-amazon-facebook-ai-stocks-billionaires-2026-9",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "2b0b5d9b46af",
     "slug": "komiklar-ai-xavotirlarini-hazilga-aylantirmoqda-2b0b5d",
     "title": "Komiklar AI xavotirlarini hazilga aylantirmoqda",
