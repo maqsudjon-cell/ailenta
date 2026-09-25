@@ -1,5 +1,50 @@
 [
   {
+    "id": "18734c63e6d8",
+    "slug": "tw3cast-gift-eval-sinovida-3-orinni-egalladi-18734c",
+    "title": "TW3Cast GIFT-Eval sinovida 3-o'rinni egalladi",
+    "summary": "TW3Cast nomli vaqt qatorlarini bashorat qilish tizimi GIFT-Eval sinov to'plamida 130 ta ishtirokchi orasida 3-o'rinni egalladi. U agentlar yoki til modellaridan foydalanmasdan, moslashtirilgan asosiy modellarga tayanadi.",
+    "tags": [
+      "tadqiqot",
+      "ochiq model"
+    ],
+    "importance": 2,
+    "score": 16,
+    "published": "2026-09-25T04:00:00.000Z",
+    "created": "2026-09-25T05:28:39.759Z",
+    "coverage": 1,
+    "source": {
+      "name": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2609.28506",
+      "title": "TW3Cast: A Frozen Router of Lightly Fine-Tuned Foundation Models for Time-Series Forecasting on GIFT-Eval, Selected Entirely on the Training Split",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "05124634195a",
+    "slug": "xitoy-ai-filmlari-uchun-subsidiyalar-taklif-qilmoqda-051246",
+    "title": "Xitoy AI filmlari uchun subsidiyalar taklif qilmoqda",
+    "summary": "Xitoyning mahalliy hukumatlari AI filmlari ijodkorlarini jalb qilish uchun subsidiyalar taklif qilmoqda. Bu imtiyozlar hisoblash vaucherlari, ijara haqi imtiyozlari va maxsus moliyalashtirishni o'z ichiga oladi.",
+    "tags": [
+      "siyosat",
+      "iqtisod"
+    ],
+    "importance": 3,
+    "score": 18,
+    "published": "2026-09-25T05:25:00.000Z",
+    "created": "2026-09-25T05:29:01.096Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/260925/p1",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "cb1362a947ee",
     "slug": "aqsh-va-xitoy-suniy-intellekt-boyicha-muloqot-otkazdi-cb1362",
     "title": "AQSH va Xitoy sun'iy intellekt bo'yicha muloqot o'tkazdi",
