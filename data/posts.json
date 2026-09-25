@@ -1,5 +1,27 @@
 [
   {
+    "id": "b301ad5404a1",
+    "slug": "paws-agentli-dunyo-simulyatsiyasi-malumotlar-toplami-b301ad",
+    "title": "PAWS: Agentli dunyo simulyatsiyasi ma'lumotlar to'plami",
+    "summary": "Tadqiqotchilar PAWS nomli agentli dunyo simulyatsiyasi ma'lumotlar to'plamini taqdim etdi. U AQSHning 36 ta moliyaviy va iqtisodiy siyosat epizodini, 12,727 ta yangilik yozuvini qamrab oladi.",
+    "tags": [
+      "tadqiqot",
+      "agentlar"
+    ],
+    "importance": 2,
+    "score": 10,
+    "published": "2026-09-25T04:00:00.000Z",
+    "created": "2026-09-25T06:03:35.575Z",
+    "coverage": 1,
+    "source": {
+      "name": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2609.28547",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "18734c63e6d8",
     "slug": "tw3cast-gift-eval-sinovida-3-orinni-egalladi-18734c",
     "title": "TW3Cast GIFT-Eval sinovida 3-o'rinni egalladi",
