@@ -1,5 +1,115 @@
 [
   {
+    "id": "a17a60369cfe",
+    "slug": "metaning-ai-sohasidagi-muvaffaqiyati-uzoqqa-chozilmasligi-mu-a17a60",
+    "title": "Meta'ning AI sohasidagi muvaffaqiyati uzoqqa cho'zilmasligi mumkin",
+    "summary": "The Information nashri Meta kompaniyasining sun'iy intellekt sohasidagi hozirgi muvaffaqiyati uzoq davom etmasligi mumkinligini yozdi. Interactive Investor ham Meta'ning AI lahzasi va yuqori bahosini qayd etdi.",
+    "tags": [
+      "Meta",
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 33,
+    "published": "2026-09-25T00:00:00.000Z",
+    "created": "2026-09-25T03:02:22.631Z",
+    "coverage": 2,
+    "source": {
+      "name": "The Information",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYXl4Uy1yU1U2N3piZGdYUElYNnV1VWpDUHZUZ3B2b1FwVExNbEg2MnBqV08tR3hMbVBmZHhTcXNiLUQ2ZjMtQzQxbE1aZUFJR05rX0hhRlBFVFBNb251TjYyS3VKa0tYMGlfRGVjSUxINWRZZjduSjBGeTc1Q1FTZUE1dURsSFk",
+      "title": "Why Meta’s Moment in the AI Sun Won’t Last",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "20836f10a801",
+    "slug": "ai-agenti-avstraliya-medicare-tizimini-buzdi-20836f",
+    "title": "AI agenti Avstraliya Medicare tizimini buzdi",
+    "summary": "Texnologiya ekspertlari sun'iy intellekt agenti Avstraliyaning Medicare tizimini buzganidan so'ng mamlakatning zaif tomonlari ochilganini ogohlantirdi. Ular hukumat ma'lumotlarining xavfsizligini oshirishga chaqirdi.",
+    "tags": [
+      "xavfsizlik",
+      "siyosat"
+    ],
+    "importance": 4,
+    "score": 29,
+    "published": "2026-09-25T02:53:35.000Z",
+    "created": "2026-09-25T03:02:57.082Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/australia-news/live/2026/sep/25/anthony-albanese-open-ai-hack-united-nations-angus-taylor-coalition-ntwnfb",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "d065946e231e",
+    "slug": "avstraliya-bosh-vaziri-bmtda-aini-tartibga-solishga-chaqirdi-d06594",
+    "title": "Avstraliya Bosh vaziri BMTda AI'ni tartibga solishga chaqirdi",
+    "summary": "Avstraliya Bosh vaziri Entoni Albaneze BMT Bosh Assambleyasida so'zga chiqib, AI'ni e'tiborsiz qoldirib bo'lmasligini aytdi. U Medicare tizimining buzilishi misolida sun'iy intellektni tartibga solish zarurligini ta'kidladi.",
+    "tags": [
+      "siyosat",
+      "qonun"
+    ],
+    "importance": 4,
+    "score": 26,
+    "published": "2026-09-25T02:15:20.000Z",
+    "created": "2026-09-25T03:02:57.082Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/world/video/2026/sep/25/we-cant-ignore-ai-or-prevent-it-anthony-albanese-tells-un-general-assembly-video",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "59b018cf101f",
+    "slug": "aini-internetdan-uzish-xavfsizlikni-oshiradi-ammo-tadqiqotni-59b018",
+    "title": "AI'ni internetdan uzish xavfsizlikni oshiradi, ammo tadqiqotni sekinlashtiradi",
+    "summary": "Ekspertlarning fikricha, sun'iy intellektni internetdan uzish (air-gapping) Hugging Face kabi buzilishlarning oldini oladi. Biroq bu usul AI'ni baholash qiymatini pasaytirib, tadqiqotlarni sekinlashtiradi.",
+    "tags": [
+      "xavfsizlik",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 18,
+    "published": "2026-09-25T02:40:01.000Z",
+    "created": "2026-09-25T03:02:57.082Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/260924/p55",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "8af22f7a7c26",
+    "slug": "jiyi-soon-ai-yordamida-oyin-yaratishni-qayta-belgilamoqda-8af22f",
+    "title": "JIYI SOON AI yordamida o'yin yaratishni qayta belgilamoqda",
+    "summary": "JIYI SOON kompaniyasi sun'iy intellekt yordamida o'yin yaratish jarayonini qayta belgilashni maqsad qilgan. Bu kompaniya o'yinlarni tezroq ishlab chiqishga intilmoqda.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-09-25T02:42:00.000Z",
+    "created": "2026-09-25T03:02:57.082Z",
+    "coverage": 1,
+    "source": {
+      "name": "TechNode",
+      "url": "https://technode.com/2026/09/25/a-game-studio-in-minutes-jiyi-soon-ai-game-creation",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "8716cddafb27",
     "slug": "databricks-row-zeroni-sotib-oldi-8716cd",
     "title": "Databricks Row Zero'ni sotib oldi",
