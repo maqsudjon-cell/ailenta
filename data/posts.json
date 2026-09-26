@@ -1,5 +1,115 @@
 [
   {
+    "id": "cf3dec253da2",
+    "slug": "ict-week-uzbekistan-ai-rivojlantirish-boyicha-tavsiyalar-cf3dec",
+    "title": "ICT Week Uzbekistan: AI rivojlantirish bo'yicha tavsiyalar",
+    "summary": "ICT Week Uzbekistan ekspertlari O'zbekistonda AI-native avlodni tarbiyalash uchun ta'limga sarmoya kiritishni tavsiya etdi. Mahalliy AI modellarni rivojlantirish, startaplarni qo'llab-quvvatlash va xususiy sektor bilan hamkorlik qilish muhimligi ta'kidlandi. Mohirdev asoschisi AI'ni monopoliyaga aylantirmaslikka chaqirdi.",
+    "tags": [
+      "O'zbekiston",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 48,
+    "published": "2026-09-26T09:24:00.000Z",
+    "created": "2026-09-26T09:36:51.884Z",
+    "coverage": 1,
+    "source": {
+      "name": "Gazeta.uz",
+      "url": "https://gazeta.uz/uz/2026/09/26/ai-native-generation",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "f02ecf10c9ee",
+    "slug": "aqsh-va-rossiya-qotil-aini-tartibga-solishni-zaiflashtirdi-f02ecf",
+    "title": "AQSH va Rossiya qotil AI'ni tartibga solishni zaiflashtirdi",
+    "summary": "AQSH va Rossiya BMTning o'limga olib keluvchi avtonom qurollarni tartibga solish bo'yicha sa'y-harakatlarini zaiflashtirdi. Ikki davlat muhim xavfsizlik choralarini olib tashladi. Bu harakatlar potentsial shartnomaga erishish yo'lidagi eng katta yutuqni pasaytirdi.",
+    "tags": [
+      "siyosat",
+      "xavfsizlik"
+    ],
+    "importance": 4,
+    "score": 23,
+    "published": "2026-09-26T09:00:00.000Z",
+    "created": "2026-09-26T09:36:51.884Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Washington Post",
+      "url": "https://washingtonpost.com/technology/2026/09/26/how-us-russia-weakened-global-effort-regulate-killer-ai",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "f8e28568fd47",
+    "slug": "walmart-gen-zga-darajasiz-yuqori-daromadli-ish-taklif-etadi-f8e285",
+    "title": "Walmart Gen Z'ga darajasiz yuqori daromadli ish taklif etadi",
+    "summary": "Walmart Gen Z ishchilariga kollej qarzisiz yuqori daromadli ish o'rinlari taklif qilmoqda. Kompaniya do'kon xodimlarini yuk haydovchilari, texniklar va optiklar kabi talab yuqori bo'lgan kasblarga o'qitadi. Bu dastur yoshlarga darajasiz yaxshi maosh olish imkonini beradi.",
+    "tags": [
+      "mehnat bozori",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-09-26T07:00:00.000Z",
+    "created": "2026-09-26T09:36:51.884Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/09/26/walmart-job-training-truck-driver-technician-optician-gen-z",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "506c1413cb54",
+    "slug": "t-investitsii-ai-agentlari-uchun-mcp-serverni-ishga-tushirdi-506c14",
+    "title": "T-Investitsii AI agentlari uchun MCP-serverni ishga tushirdi",
+    "summary": "T-Investitsii kompaniyasi AI agentlariga o'z platformasi bilan o'zaro aloqa qilish imkonini beruvchi MCP-serverni ishga tushirdi. Bu agentlar qimmatli qog'ozlarni topish, bozorni va mijoz portfelini tahlil qilishda yordam beradi. Yangi server investitsiya jarayonlarini avtomatlashtirishga xizmat qiladi.",
+    "tags": [
+      "biznes",
+      "agentlar"
+    ],
+    "importance": 3,
+    "score": 17,
+    "published": "2026-09-26T09:00:55.000Z",
+    "created": "2026-09-26T09:36:51.885Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/companies/tbank/articles/1086714",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "aebbea0173c6",
+    "slug": "ai-lablar-universitetlardan-professorlarni-jalb-qilmoqda-aebbea",
+    "title": "AI lablar universitetlardan professorlarni jalb qilmoqda",
+    "summary": "Stanford universiteti biznes maktabi dekani Sarah Soule AI laboratoriyalari universitetlardan professor-o'qituvchilarni jalb qilayotganidan xavotir bildirdi. Bu holat oliy ta'lim muassasalari uchun raqobatni kuchaytirmoqda. Dekan bu tendensiyadan tashvishda ekanligini ta'kidladi.",
+    "tags": [
+      "ta'lim",
+      "mehnat bozori"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-09-26T09:15:01.000Z",
+    "created": "2026-09-26T09:36:51.885Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/stanford-business-dean-worry-ai-lab-poaching-2026-9",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "b584132842eb",
     "slug": "shifokor-saraton-tashxisida-ai-yordamidan-foydalandi-b58413",
     "title": "Shifokor saraton tashxisida AI yordamidan foydalandi",
