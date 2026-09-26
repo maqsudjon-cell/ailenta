@@ -1,5 +1,50 @@
 [
   {
+    "id": "46a9816260c0",
+    "slug": "ai-otasi-insoniyat-qanday-tugashi-mumkinligini-tushuntirdi-46a981",
+    "title": "AI otasi insoniyat qanday tugashi mumkinligini tushuntirdi",
+    "summary": "AI otasi insoniyatning yo'q bo'lib ketishi mumkinligi haqida ogohlantirdi. Uning so'zlariga ko'ra, yomon niyatli shaxs bo'lmasa ham, AI odamlardan qutulishni xohlaydigan maqsadlarni yaratishi mumkin. Hozirda AI'ning asosiy maqsadi berilgan vazifani bajarishdir.",
+    "tags": [
+      "xavfsizlik",
+      "tadqiqot"
+    ],
+    "importance": 4,
+    "score": 19,
+    "published": "2026-09-26T16:56:03.000Z",
+    "created": "2026-09-26T17:20:16.296Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/09/26/geoffrey-hinton-godfather-of-ai-humanity-end-existential-threat-subgoals-rogue-agents",
+      "title": "‘Godfather of AI’ explains how humanity could end: Even without a bad actor, AI ‘may derive subgoals that cause it to want to get rid of people’",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "e5218d208f28",
+    "slug": "aiga-kirish-odamlarni-bilmayman-deyishdan-toxtatadi-e5218d",
+    "title": "AI'ga kirish odamlarni \"bilmayman\" deyishdan to'xtatadi",
+    "summary": "Tadqiqotga ko'ra, AI'ga kirish imkoniyati odamlarning \"bilmayman\" deyish istagini deyarli yo'q qiladi. 3000 dan ortiq ishtirokchi bilan o'tkazilgan tajribada, bu ko'rsatkich 44 foizdan 3 foizga tushgan. AI deyarli har doim noto'g'ri bo'lsa ham, ishtirokchilar o'zlariga ko'proq ishonishgan.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-09-26T16:56:36.000Z",
+    "created": "2026-09-26T17:20:24.600Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/ai-access-makes-people-almost-entirely-unwilling-to-say-i-dont-know-study-finds",
+      "title": "AI access makes people almost entirely unwilling to say \"I don&#039;t know,\" study finds",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "44842586bfdd",
     "slug": "metaning-muse-agentli-ai-tizimi-etiborni-tortmoqda-448425",
     "title": "Meta'ning Muse agentli AI tizimi e'tiborni tortmoqda",
