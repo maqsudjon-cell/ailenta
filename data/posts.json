@@ -1,5 +1,47 @@
 [
   {
+    "id": "dc5183e86bb5",
+    "slug": "muallif-ozining-interaktiv-raqamli-avatarini-yaratdi-dc5183",
+    "title": "Muallif o'zining interaktiv raqamli avatarini yaratdi",
+    "summary": "TechCrunch jurnalisti o'zining interaktiv raqamli avatarini yaratdi va uni venchur firibgarliklarini muhokama qilishga o'rgatdi. U o'zining sun'iy intellekt klonlarini yaratish borasida ikkilanayotganini ma'lum qildi. Foydalanuvchilar ushbu avatar bilan suhbatlashishlari mumkin.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 18,
+    "published": "2026-09-26T14:00:00.000Z",
+    "created": "2026-09-26T15:01:48.496Z",
+    "coverage": 1,
+    "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "7c2c4d9670af",
+    "slug": "cloudflare-rahbari-internetni-aidan-qutqara-oladimi-7c2c4d",
+    "title": "Cloudflare rahbari internetni AI'dan qutqara oladimi",
+    "summary": "Cloudflare bosh ijrochi direktori Mettyu Prins internetning kelajagi va uni sun'iy intellektdan himoya qilish masalalarini muhokama qildi. Ushbu suhbat biznes kelajagiga bag'ishlangan turkum ko'rsatuvlarning bir qismidir.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-09-26T14:00:00.000Z",
+    "created": "2026-09-26T15:01:48.497Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Verge",
+      "url": "https://theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "11b8e2241ef4",
     "slug": "astrologiya-ilovasi-taqdimotida-ai-muhokamasi-11b8e2",
     "title": "Astrologiya ilovasi taqdimotida AI muhokamasi",
