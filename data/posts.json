@@ -1,5 +1,32 @@
 [
   {
+    "id": "435af0a8978d",
+    "slug": "meta-muse-tizimi-tashqi-korinishi-boyicha-tanqid-qilindi-435af0",
+    "title": "Meta Muse tizimi tashqi ko'rinishi bo'yicha tanqid qilindi",
+    "summary": "Meta o'zining Muse nomli AI vositasi faqat kattalar uchun mo'ljallanganini ma'lum qildi. Biroq uning o'yinchoqqa o'xshash maskoti va Tamagotchi uslubidagi qurilmasi barcha yoshdagi foydalanuvchilarni chalg'itishi mumkinligi aytilmoqda.",
+    "tags": [
+      "Meta",
+      "agentlar"
+    ],
+    "importance": 3,
+    "score": 32,
+    "published": "2026-09-26T10:30:00.000Z",
+    "created": "2026-09-26T11:02:17.754Z",
+    "coverage": 2,
+    "source": {
+      "name": "Wired",
+      "url": "https://wired.com/story/meta-muse-is-adults-only-why-does-it-look-like-a-cute-kids-toy",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "The Verge",
+        "url": "https://theverge.com/report/1000180/muse-openclaw-instinct-lookalike"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
     "id": "cf3dec253da2",
     "slug": "ict-week-uzbekistan-ai-rivojlantirish-boyicha-tavsiyalar-cf3dec",
     "title": "ICT Week Uzbekistan: AI rivojlantirish bo'yicha tavsiyalar",

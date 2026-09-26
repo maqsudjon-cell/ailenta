@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/agentlar/</link>
   <description>&quot;agentlar&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Sat, 26 Sep 2026 10:06:13 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 26 Sep 2026 11:06:43 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/agentlar/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Meta Muse tizimi tashqi ko'rinishi bo'yicha tanqid qilindi</title>
+    <link>https://ailenta.uz/x/meta-muse-tizimi-tashqi-korinishi-boyicha-tanqid-qilindi-435af0/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/meta-muse-tizimi-tashqi-korinishi-boyicha-tanqid-qilindi-435af0/</guid>
+    <pubDate>Sat, 26 Sep 2026 10:30:00 GMT</pubDate>
+    <description>Meta o'zining Muse nomli AI vositasi faqat kattalar uchun mo'ljallanganini ma'lum qildi. Biroq uning o'yinchoqqa o'xshash maskoti va Tamagotchi uslubidagi qurilmasi barcha yoshdagi foydalanuvchilarni chalg'itishi mumkinligi aytilmoqda.</description>
+    <category>Meta</category><category>agentlar</category>
+    <media:content url="https://ailenta.uz/og/meta-muse-tizimi-tashqi-korinishi-boyicha-tanqid-qilindi-435af0.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/meta-muse-tizimi-tashqi-korinishi-boyicha-tanqid-qilindi-435af0.jpg"/>
+  </item>
   <item>
     <title>T-Investitsii AI agentlari uchun MCP-serverni ishga tushirdi</title>
     <link>https://ailenta.uz/x/t-investitsii-ai-agentlari-uchun-mcp-serverni-ishga-tushirdi-506c14/</link>
@@ -296,16 +306,6 @@
     <category>agentlar</category><category>xavfsizlik</category>
     <media:content url="https://ailenta.uz/og/ai-agentlar-insonlardan-aqlliroq-ular-kelishib-harakat-qilmo-a5c9c8.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/ai-agentlar-insonlardan-aqlliroq-ular-kelishib-harakat-qilmo-a5c9c8.jpg"/>
-  </item>
-  <item>
-    <title>Vercel va Cloudflare Jev vositasini joriy qildi</title>
-    <link>https://ailenta.uz/x/vercel-va-cloudflare-jev-vositasini-joriy-qildi-4be5b8/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/vercel-va-cloudflare-jev-vositasini-joriy-qildi-4be5b8/</guid>
-    <pubDate>Sun, 20 Sep 2026 15:50:02 GMT</pubDate>
-    <description>Vercel va Cloudflare kabi kompaniyalar AI vositalarini tanlashni tezlashtiradigan va arzonlashtiradigan Jev texnologiyasini qo'shdi. TypeSafe ma'lumotlariga ko'ra, Jev ish jarayonini baholashda GPT-5.6 va Sonnet 5 modellariga mos keladi.</description>
-    <category>agentlar</category><category>bulut</category>
-    <media:content url="https://ailenta.uz/og/vercel-va-cloudflare-jev-vositasini-joriy-qildi-4be5b8.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/vercel-va-cloudflare-jev-vositasini-joriy-qildi-4be5b8.jpg"/>
   </item>
 </channel>
 </rss>
