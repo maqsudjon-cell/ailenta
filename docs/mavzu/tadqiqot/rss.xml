@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/tadqiqot/</link>
   <description>&quot;tadqiqot&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Sat, 26 Sep 2026 18:05:34 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 26 Sep 2026 18:41:50 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/tadqiqot/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>GTX 1080 Ti'da MoE-modelni ishga tushirish tajribasi</title>
+    <link>https://ailenta.uz/x/gtx-1080-tida-moe-modelni-ishga-tushirish-tajribasi-0272e9/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/gtx-1080-tida-moe-modelni-ishga-tushirish-tajribasi-0272e9/</guid>
+    <pubDate>Sat, 26 Sep 2026 17:26:17 GMT</pubDate>
+    <description>Habr nashri Qwen 3.8-Flash-Next modelini GTX 1080 Ti videokartasida ishga tushirish bo'yicha tajribalarini bo'lishdi. Tadqiqotchilar DeltaNet + attention arxitekturasi uzun kontekst bilan samarali ishlashini tasdiqladi.</description>
+    <category>chiplar</category><category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/gtx-1080-tida-moe-modelni-ishga-tushirish-tajribasi-0272e9.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/gtx-1080-tida-moe-modelni-ishga-tushirish-tajribasi-0272e9.jpg"/>
+  </item>
   <item>
     <title>AI'ga kirish odamlarni &quot;bilmayman&quot; deyishdan to'xtatadi</title>
     <link>https://ailenta.uz/x/aiga-kirish-odamlarni-bilmayman-deyishdan-toxtatadi-e5218d/</link>
@@ -296,16 +306,6 @@
     <category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/xiaomi-mimo-v3-yangi-arxitekturani-qabul-qiladi-745527.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/xiaomi-mimo-v3-yangi-arxitekturani-qabul-qiladi-745527.jpg"/>
-  </item>
-  <item>
-    <title>Gen Alpha &quot;Bu AI&quot; iborasini haqorat sifatida ishlatmoqda</title>
-    <link>https://ailenta.uz/x/gen-alpha-bu-ai-iborasini-haqorat-sifatida-ishlatmoqda-1e0af9/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/gen-alpha-bu-ai-iborasini-haqorat-sifatida-ishlatmoqda-1e0af9/</guid>
-    <pubDate>Thu, 24 Sep 2026 04:00:07 GMT</pubDate>
-    <description>Gen Alpha avlodining eng ommabop yangi slangi yoshlarning sun'iy intellektga bo'lgan salbiy munosabatini ko'rsatadi. Ular &quot;Bu AI!&quot; iborasini haqorat sifatida qo'llamoqda.</description>
-    <category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/gen-alpha-bu-ai-iborasini-haqorat-sifatida-ishlatmoqda-1e0af9.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/gen-alpha-bu-ai-iborasini-haqorat-sifatida-ishlatmoqda-1e0af9.jpg"/>
   </item>
 </channel>
 </rss>

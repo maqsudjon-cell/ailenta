@@ -1,5 +1,54 @@
 [
   {
+    "id": "9c2cea61f919",
+    "slug": "trump-nvidia-rahbari-huangning-ai-xavfi-fikrini-qolladi-9c2cea",
+    "title": "Trump Nvidia rahbari Huangning AI xavfi fikrini qo'lladi",
+    "summary": "Prezident Trump Nvidia asoschisi Jensen Huangning sun'iy intellekt xavflari borasidagi pozitsiyasini qo'llab-quvvatladi. Bu haqda ABC News Australia xabar berdi.",
+    "tags": [
+      "Nvidia",
+      "siyosat"
+    ],
+    "importance": 3,
+    "score": 15.1,
+    "published": "2026-09-26T04:28:21.000Z",
+    "created": "2026-09-26T18:37:21.269Z",
+    "coverage": 2,
+    "source": {
+      "name": "UA.NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWTM1UFctUHZPZHY3SUpuWk92aTA3NHl1VXg2NWJtWER1VVRsd0JSeHBqVzM4WVZPbklyeUJkVktOMTNYUjQ0Y3NTODRKZ2ZneDNSVTY5LTFkUzZxV2NyZUpMYlptMDdKblVRaWpYOUZFZFVqc2FUb0NNdWg0LUZWZVlRWE5DOHJiVHBLXzJ5aEdlWXdJQXU5dmEwMjE5a0xja0JES0dBLXJrU1VlZDd5RElMXzg1RmFaWXZYbjRYTHBlM0E",
+      "indirect": true
+    },
+    "also": [
+      {
+        "name": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQR3Y4eUtadkNtNzdRUkdsLVBHMTlWX2k2bnF1R0o1S1Q1OXVrWXRUS3hfc0xMU1lFREV5UWU2TzRkSkJfUnotNVdzQkhLczZGczg3SzZKd20xdnJ3WTEyTTNDeVJ4TFFmbUsyQ2RicVgxQ2hXbXJpSzlsOWgxbW90QjJhVUw3bFVHdU54TUhFMA"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "0272e988a35f",
+    "slug": "gtx-1080-tida-moe-modelni-ishga-tushirish-tajribasi-0272e9",
+    "title": "GTX 1080 Ti'da MoE-modelni ishga tushirish tajribasi",
+    "summary": "Habr nashri Qwen 3.8-Flash-Next modelini GTX 1080 Ti videokartasida ishga tushirish bo'yicha tajribalarini bo'lishdi. Tadqiqotchilar DeltaNet + attention arxitekturasi uzun kontekst bilan samarali ishlashini tasdiqladi.",
+    "tags": [
+      "chiplar",
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 14,
+    "published": "2026-09-26T17:26:17.000Z",
+    "created": "2026-09-26T18:37:21.270Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1086998",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "f1256fd32739",
     "slug": "it-rahbarlarining-aksariyati-ai-natijalarini-kormoqda-f1256f",
     "title": "IT rahbarlarining aksariyati AI natijalarini ko'rmoqda",

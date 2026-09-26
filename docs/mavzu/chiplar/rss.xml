@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/chiplar/</link>
   <description>&quot;chiplar&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Sat, 26 Sep 2026 18:05:34 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 26 Sep 2026 18:41:50 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/chiplar/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>GTX 1080 Ti'da MoE-modelni ishga tushirish tajribasi</title>
+    <link>https://ailenta.uz/x/gtx-1080-tida-moe-modelni-ishga-tushirish-tajribasi-0272e9/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/gtx-1080-tida-moe-modelni-ishga-tushirish-tajribasi-0272e9/</guid>
+    <pubDate>Sat, 26 Sep 2026 17:26:17 GMT</pubDate>
+    <description>Habr nashri Qwen 3.8-Flash-Next modelini GTX 1080 Ti videokartasida ishga tushirish bo'yicha tajribalarini bo'lishdi. Tadqiqotchilar DeltaNet + attention arxitekturasi uzun kontekst bilan samarali ishlashini tasdiqladi.</description>
+    <category>chiplar</category><category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/gtx-1080-tida-moe-modelni-ishga-tushirish-tajribasi-0272e9.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/gtx-1080-tida-moe-modelni-ishga-tushirish-tajribasi-0272e9.jpg"/>
+  </item>
   <item>
     <title>Mythic AI Nvidia bilan raqobatda samaradorlikka urg'u beradi</title>
     <link>https://ailenta.uz/x/mythic-ai-nvidia-bilan-raqobatda-samaradorlikka-urgu-beradi-ee65ba/</link>
@@ -296,16 +306,6 @@
     <category>chiplar</category><category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/ai-xulosa-chiqarish-osishi-chiplarni-qayta-korib-chiqishga-u-bb8a3d.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/ai-xulosa-chiqarish-osishi-chiplarni-qayta-korib-chiqishga-u-bb8a3d.jpg"/>
-  </item>
-  <item>
-    <title>Huawei AI chiplariga talab taklifdan oshganini aytdi</title>
-    <link>https://ailenta.uz/x/huawei-ai-chiplariga-talab-taklifdan-oshganini-aytdi-ca8b71/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/huawei-ai-chiplariga-talab-taklifdan-oshganini-aytdi-ca8b71/</guid>
-    <pubDate>Thu, 17 Sep 2026 02:40:00 GMT</pubDate>
-    <description>Huawei Xitoyda AI chiplariga bo'lgan talab taklifdan oshib ketganini ma'lum qildi. Kompaniya Nvidia'ga raqobatni kuchaytirmoqda.</description>
-    <category>Huawei</category><category>chiplar</category>
-    <media:content url="https://ailenta.uz/og/huawei-ai-chiplariga-talab-taklifdan-oshganini-aytdi-ca8b71.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/huawei-ai-chiplariga-talab-taklifdan-oshganini-aytdi-ca8b71.jpg"/>
   </item>
 </channel>
 </rss>
