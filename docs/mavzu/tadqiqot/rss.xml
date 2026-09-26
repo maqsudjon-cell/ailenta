@@ -5,7 +5,7 @@
   <link>https://ailenta.uz/mavzu/tadqiqot/</link>
   <description>&quot;tadqiqot&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Sat, 26 Sep 2026 16:52:13 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 26 Sep 2026 17:05:03 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/tadqiqot/rss.xml" rel="self" type="application/rss+xml"/>
   <item>
     <title>Muallif o'zining interaktiv raqamli avatarini yaratdi</title>
@@ -16,6 +16,16 @@
     <category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/muallif-ozining-interaktiv-raqamli-avatarini-yaratdi-dc5183.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/muallif-ozining-interaktiv-raqamli-avatarini-yaratdi-dc5183.jpg"/>
+  </item>
+  <item>
+    <title>AI agentlari: hamma muammoga yechim emas</title>
+    <link>https://ailenta.uz/x/ai-agentlari-hamma-muammoga-yechim-emas-c67de2/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/ai-agentlari-hamma-muammoga-yechim-emas-c67de2/</guid>
+    <pubDate>Sat, 26 Sep 2026 13:33:07 GMT</pubDate>
+    <description>Ko'pchilik AI agentlarini kelajak deb hisoblasa-da, ularning zaif tomonlari ham bor. Agentlar matematika va kodlashda yaxshi natijalar ko'rsatadi, ammo ularga to'liq ishonish kerakmi, degan savol ochiq qolmoqda.</description>
+    <category>agentlar</category><category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/ai-agentlari-hamma-muammoga-yechim-emas-c67de2.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/ai-agentlari-hamma-muammoga-yechim-emas-c67de2.jpg"/>
   </item>
   <item>
     <title>AI javoblarida internet-do'kon havolalari kam</title>
@@ -296,16 +306,6 @@
     <category>Xiaomi</category><category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/xiaomi-hysparse2-texnologiyasini-taqdim-etdi-d7efeb.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/xiaomi-hysparse2-texnologiyasini-taqdim-etdi-d7efeb.jpg"/>
-  </item>
-  <item>
-    <title>Apple yarim nazoratli federativ ASR usulini taqdim etdi</title>
-    <link>https://ailenta.uz/x/apple-yarim-nazoratli-federativ-asr-usulini-taqdim-etdi-4334fa/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/apple-yarim-nazoratli-federativ-asr-usulini-taqdim-etdi-4334fa/</guid>
-    <pubDate>Thu, 24 Sep 2026 00:00:00 GMT</pubDate>
-    <description>Apple tadqiqotchilari nutqni avtomatik aniqlash (ASR) modellarini o'qitishni barqarorlashtirish usulini taklif qilishdi. Yangi yondashuv server yangilanishlarini barqarorlashtirish va soxta yorliqlardan foydalanish orqali federativ o'qitishdagi xatolarni kamaytiradi.</description>
-    <category>Apple</category><category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/apple-yarim-nazoratli-federativ-asr-usulini-taqdim-etdi-4334fa.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/apple-yarim-nazoratli-federativ-asr-usulini-taqdim-etdi-4334fa.jpg"/>
   </item>
 </channel>
 </rss>

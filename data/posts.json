@@ -1,5 +1,49 @@
 [
   {
+    "id": "44842586bfdd",
+    "slug": "metaning-muse-agentli-ai-tizimi-etiborni-tortmoqda-448425",
+    "title": "Meta'ning Muse agentli AI tizimi e'tiborni tortmoqda",
+    "summary": "Meta'ning Muse agentli AI tizimi texnik jihatdan innovatsion va foydalanish uchun qulayligi bilan e'tiborni tortmoqda. Har bir foydalanuvchi Meta bulutida o'zining doimiy Linux VM'iga ega bo'ladi.",
+    "tags": [
+      "Meta",
+      "agentlar"
+    ],
+    "importance": 3,
+    "score": 16.3,
+    "published": "2026-09-25T17:22:01.000Z",
+    "created": "2026-09-26T17:01:43.427Z",
+    "coverage": 1,
+    "source": {
+      "name": "Simon Willison",
+      "url": "https://simonwillison.net/2026/Sep/25/john-gruber",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "c67de2600621",
+    "slug": "ai-agentlari-hamma-muammoga-yechim-emas-c67de2",
+    "title": "AI agentlari: hamma muammoga yechim emas",
+    "summary": "Ko'pchilik AI agentlarini kelajak deb hisoblasa-da, ularning zaif tomonlari ham bor. Agentlar matematika va kodlashda yaxshi natijalar ko'rsatadi, ammo ularga to'liq ishonish kerakmi, degan savol ochiq qolmoqda.",
+    "tags": [
+      "agentlar",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 11,
+    "published": "2026-09-26T13:33:07.000Z",
+    "created": "2026-09-26T17:01:43.427Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1086960",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "57ccbb610254",
     "slug": "wall-street-ai-aksiyalari-bilan-yuqori-yakunladi-57ccbb",
     "title": "Wall Street AI aksiyalari bilan yuqori yakunladi",
