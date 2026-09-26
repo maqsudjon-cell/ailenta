@@ -1,5 +1,50 @@
 [
   {
+    "id": "c4c6bada14f6",
+    "slug": "ai-yordamchilariga-kor-korona-ishonish-xavfi-c4c6ba",
+    "title": "AI yordamchilariga ko'r-ko'rona ishonish xavfi",
+    "summary": "AI yordamchilari kod yozish va boshqa vazifalarni tezlashtirsa-da, ularga to'liq ishonish xavfli. Ko'pchilik AI'ga nafaqat rutinga, balki fikrlash jarayonini ham topshirmoqda. Bu esa insonning o'z kodini tushunish qobiliyatini pasaytirishi mumkin.",
+    "tags": [
+      "xavfsizlik",
+      "mehnat bozori"
+    ],
+    "importance": 3,
+    "score": 20,
+    "published": "2026-09-26T05:04:48.000Z",
+    "created": "2026-09-26T05:26:22.356Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1086872",
+      "title": "Почему нельзя отдавать 100% мышления ИИ: ловушка слепого доверия к AI-ассистентам",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "f57ceda1916c",
+    "slug": "xitoy-ai-modellari-global-miqyosda-ommalashmoqda-f57ced",
+    "title": "Xitoy AI modellari global miqyosda ommalashmoqda",
+    "summary": "2026-yilda Xitoyning sun'iy intellekt modellari butun dunyo bo'ylab bizneslar orasida sezilarli darajada ommalashdi. Bu holat Vashingtonda xavotir uyg'otmoqda.",
+    "tags": [
+      "siyosat",
+      "biznes"
+    ],
+    "importance": 4,
+    "score": 19,
+    "published": "2026-09-26T05:00:01.000Z",
+    "created": "2026-09-26T05:26:32.381Z",
+    "coverage": 1,
+    "source": {
+      "name": "CNBC",
+      "url": "https://cnbc.com/2026/09/26/china-ai-global-adoption.html",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "6adb903e8228",
     "slug": "anthropic-asoschilari-nazorat-paketini-soramoqda-6adb90",
     "title": "Anthropic asoschilari nazorat paketini so'ramoqda",
