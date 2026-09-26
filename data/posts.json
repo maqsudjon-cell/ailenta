@@ -1,5 +1,93 @@
 [
   {
+    "id": "faa494846c0b",
+    "slug": "trump-va-si-ai-boyicha-kelishuvga-erishmadi-faa494",
+    "title": "Trump va Si AI bo'yicha kelishuvga erishmadi",
+    "summary": "AQSH prezidenti Trump va Xitoy prezidenti Si Jinping sammitni AI qurollanish poygasini to'xtatish bo'yicha muhim kelishuvlarsiz yakunladi. Uch kunlik tashrif davomida shaxsiy munosabatlarga urg'u berildi, ammo AI bo'yicha jiddiy kelishuvlar imzolamadi.",
+    "tags": [
+      "siyosat",
+      "xavfsizlik"
+    ],
+    "importance": 4,
+    "score": 21.4,
+    "published": "2026-09-25T22:11:52.000Z",
+    "created": "2026-09-26T21:36:27.944Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/technology/2026/sep/25/trump-xi-ai-arms-race",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "71b88d6b7195",
+    "slug": "ai-tibbiyot-xarajatlarini-oshirmoqda-deydi-sugurtachilar-71b88d",
+    "title": "AI tibbiyot xarajatlarini oshirmoqda, deydi sug'urtachilar",
+    "summary": "Sug'urta kompaniyalari AI tibbiyot xarajatlarini oshirayotganini da'vo qilmoqda. Blue Cross Blue Shield ma'lumotiga ko'ra, kasalxonalarda AI vositalaridan foydalanish ikki yil ichida qo'shimcha 942 million dollar sarf-xarajatlarga olib kelgan.",
+    "tags": [
+      "tibbiyot",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-09-26T21:02:06.000Z",
+    "created": "2026-09-26T21:36:27.944Z",
+    "coverage": 1,
+    "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "25017d0a5ec6",
+    "slug": "anthropicga-gigavatt-quvvat-kerak-ammo-u-yoq-25017d",
+    "title": "Anthropic'ga gigavatt quvvat kerak, ammo u yo'q",
+    "summary": "Anthropic kompaniyasi o'z faoliyati uchun gigavattlab quvvatga muhtoj. Biroq, hozirda bu quvvatga ega emas. Bir sanoat kompaniyasi esa uni sotadi.",
+    "tags": [
+      "Anthropic",
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 7,
+    "published": "2026-09-26T13:50:00.000Z",
+    "created": "2026-09-26T21:36:27.944Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQTmc4S1FMTkdfX0toZEZwVnBaSVUzR09PSzEtVTBFajdELVlMajloN3BRc1gtTm5WYkZNZDJWd29FRk9fNHlKX3J5MXpuS0RKS19NT09WNXNqVzhDR19vaHBFbkhrQ3ctVFVJR2dieV9Wcm9tLU1XWWlkSWtrRXN4cjZGVFg4VUM4S1FWNGhzZnlEWEtqRFUxWjlqbm1KS3J4SEtQSXEwZEk5N3Ftb3k4eHI3ckRta0lZYjdZdGNxQ3hEeTF2QkVXTmZFdmpDbk9tc04xVVl1YXBwZXVfbDhUZG5Xb3VBNHpTWEtlc2xmeHNEdnNIRER6ZFRwMG4yYVhNRUw3bw",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "1eb903f950e5",
+    "slug": "nvidia-2027-yil-uchun-108-milliard-dollarlik-prognoz-berdi-1eb903",
+    "title": "Nvidia 2027-yil uchun 108 milliard dollarlik prognoz berdi",
+    "summary": "Nvidia kompaniyasi 2027-yil uchun moliyaviy prognozini e'lon qildi. Unga ko'ra, kompaniya 108 milliard dollarlik ko'rsatkichni kutmoqda. Bu \"Vera Rubin Ramp\" bilan bog'liq.",
+    "tags": [
+      "Nvidia",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 7,
+    "published": "2026-09-26T13:17:32.000Z",
+    "created": "2026-09-26T21:36:27.944Z",
+    "coverage": 1,
+    "source": {
+      "name": "TIKR.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSmpxMEI1WW1hVUQ0YjFTYnVTcTQ5Ym1PS1BwcU0xQ3FwWXZHMG10ekc3R3l3eUtkVGVXWGoxZ3Z2SUVveFB6SHh5d3RwT0pXSlpiZng5Wjg5UEJ2TkxnSE1semxoaUhqN0ppZFBtby1FUFd6azhlRU9MMHp5VUluM1dEOXZaQ1NnZGtlR2pIU3Rab3doRko2b0JPQlZld2Fsc2ZWalNhZw",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "e39b9d3f103b",
     "slug": "ukraina-sobiq-mudofaa-vaziri-robot-armiyasi-taklif-qildi-e39b9d",
     "title": "Ukraina sobiq mudofaa vaziri robot armiyasi taklif qildi",
