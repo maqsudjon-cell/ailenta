@@ -1,5 +1,69 @@
 [
   {
+    "id": "7f174da2b557",
+    "slug": "toshkent-va-gonkong-it-sohasida-hamkorlikni-muhokama-qildi-7f174d",
+    "title": "Toshkent va Gonkong IT sohasida hamkorlikni muhokama qildi",
+    "summary": "Toshkent va Gonkong kompaniyalari o'rtasida uchrashuv bo'lib o'tdi. Tomonlar Smart City, sun'iy intellekt, raqamli boshqaruv va shahar infratuzilmasi bo'yicha qo'shma loyihalarni muhokama qildilar.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 44,
+    "published": "2026-09-26T11:15:00.000Z",
+    "created": "2026-09-26T11:52:28.240Z",
+    "coverage": 1,
+    "source": {
+      "name": "UzDaily",
+      "url": "https://uzdaily.uz/uz/toshkent-gonkongning-it-kompaniyalari-bilan-hamkorlikni-muhokama-qildi",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "6abbd4584cfb",
+    "slug": "ai-aqshning-2028-yilgi-saylovlariga-tasir-korsatmoqda-6abbd4",
+    "title": "AI AQSHning 2028-yilgi saylovlariga ta'sir ko'rsatmoqda",
+    "summary": "AQSH prezidentligiga Demokratlar partiyasidan da'vogarlar o'rtasida sun'iy intellektni tartibga solish va ma'lumotlar markazlari qurilishi asosiy mavzulardan biriga aylandi. Nomzodlar ushbu texnologiyaning atrof-muhit va energiya resurslariga ta'siridan xavotir bildirmoqda.",
+    "tags": [
+      "siyosat"
+    ],
+    "importance": 3,
+    "score": 26,
+    "published": "2026-09-26T11:00:33.000Z",
+    "created": "2026-09-26T11:52:28.241Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/us-news/2026/sep/26/potential-2028-democratic-presidential-candidates-ai",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "9bca3f44ffef",
+    "slug": "googlening-hindistondagi-loyihasi-norozilikka-sabab-boldi-9bca3f",
+    "title": "Google'ning Hindistondagi loyihasi norozilikka sabab bo'ldi",
+    "summary": "Hindistonning kichik qishlog'ida Google kompaniyasining 15 milliard dollarlik ma'lumotlar markazi qurilishi boshlandi. Mahalliy aholining so'zlariga ko'ra, hukumat ushbu loyiha sababli ularning yerlarini tortib olgan.",
+    "tags": [
+      "Google",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 23,
+    "published": "2026-09-26T11:00:34.000Z",
+    "created": "2026-09-26T11:52:28.241Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/world/2026/sep/26/ai-datacentre-hyperscale-india-andhra-pradesh-village-google-confiscated-land",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "435af0a8978d",
     "slug": "meta-muse-tizimi-tashqi-korinishi-boyicha-tanqid-qilindi-435af0",
     "title": "Meta Muse tizimi tashqi ko'rinishi bo'yicha tanqid qilindi",
