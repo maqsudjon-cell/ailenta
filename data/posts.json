@@ -1,5 +1,49 @@
 [
   {
+    "id": "dd48f8c31e9f",
+    "slug": "nsa-ai-modellarni-sinash-uchun-milliardlab-dollar-tolamoqda-dd48f8",
+    "title": "NSA AI modellarni sinash uchun milliardlab dollar to'lamoqda",
+    "summary": "Maxfiy hisob-kitoblarga ko'ra, AQSh Milliy xavfsizlik agentligi (NSA) AI modellarni sinovdan o'tkazish uchun milliardlab dollar sarflamoqda. Bu ma'lumotlar agentlikning AI texnologiyalariga sarmoyasini ko'rsatadi.",
+    "tags": [
+      "siyosat",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 21,
+    "published": "2026-09-25T15:27:35.000Z",
+    "created": "2026-09-26T05:36:05.354Z",
+    "coverage": 1,
+    "source": {
+      "name": "Hacker News",
+      "url": "https://washingtonsun.com/technology/classified-estimates-nsa-paying-billions-to-test-ai-models",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "3577fc794a4a",
+    "slug": "vsora-rahbari-biz-yevropaning-ai-nvidiasimiz-3577fc",
+    "title": "Vsora rahbari: Biz Yevropaning AI Nvidia'simiz",
+    "summary": "Vsora kompaniyasi bosh direktori o'zlarini AI xulosa chiqarish sohasida Yevropaning Nvidia'si deb atadi. Bu bayonot kompaniyaning bozordagi ambitsiyalarini ko'rsatadi.",
+    "tags": [
+      "Nvidia",
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 12.1,
+    "published": "2026-09-25T15:23:37.000Z",
+    "created": "2026-09-26T05:36:05.354Z",
+    "coverage": 1,
+    "source": {
+      "name": "SDxCentral",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONVBJcnAyd0FXc0NVY1h5R0lOanlQX19mTUptdDJWd281MHVvYlIxVmE0R25jdldPX1JmWFpwY19ESkViNVVOTm02cGJ4alJiR1l3ZmxuMFpBQi11aUNsYWJPcEtMcnFLaEd2OGMwTFBlUDljMjlzTV9lNVRtU05yaVBvdzJGdkVLaGMxQVlYYw",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "c4c6bada14f6",
     "slug": "ai-yordamchilariga-kor-korona-ishonish-xavfi-c4c6ba",
     "title": "AI yordamchilariga ko'r-ko'rona ishonish xavfi",
