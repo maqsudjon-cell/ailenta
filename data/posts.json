@@ -1,9 +1,9 @@
 [
   {
     "id": "e39b9d3f103b",
-    "slug": "ukrainada-xususiy-robotlar-armiyasi-tashkil-etiladi-e39b9d",
-    "title": "Ukrainada xususiy robotlar armiyasi tashkil etiladi",
-    "summary": "Ukrainaning sobiq mudofaa vaziri Mixailo Fedorov \"Robotlar armiyasi\" deb nomlangan xususiy tashabbusni e'lon qildi. Ushbu robotlar yaradorlarni evakuatsiya qilish, minalardan tozalash va jangovar harakatlarda qatnashadi. Fedorovning so'zlariga ko'ra, hozirda nishonlarni urishning 95 foizi dronlar hissasiga to'g'ri kelmoqda.",
+    "slug": "ukraina-sobiq-mudofaa-vaziri-robot-armiyasi-taklif-qildi-e39b9d",
+    "title": "Ukraina sobiq mudofaa vaziri robot armiyasi taklif qildi",
+    "summary": "Ukraina sobiq mudofaa vaziri Mixaylo Fedorov \"Robotlar armiyasi\" deb nomlangan xususiy jangovar robototexnika tashabbusini e'lon qildi. Robotlar yaradorlarni evakuatsiya qilish, minalarni tozalash va jangovar harakatlarda qo'llaniladi. Uning so'zlariga ko'ra, dronlar allaqachon nishonlarga zarbalarning 95 foizini tashkil etadi.",
     "tags": [
       "robototexnika",
       "siyosat"
@@ -11,7 +11,7 @@
     "importance": 3,
     "score": 15,
     "published": "2026-09-26T19:10:20.000Z",
-    "created": "2026-09-26T20:01:29.556Z",
+    "created": "2026-09-26T20:08:15.294Z",
     "coverage": 1,
     "source": {
       "name": "The Decoder",
@@ -23,23 +23,45 @@
     "model": "gemini"
   },
   {
-    "id": "308b78688af2",
-    "slug": "google-deepmind-tadqiqotchisi-ishdan-boshadi-308b78",
-    "title": "Google DeepMind tadqiqotchisi ishdan bo'shadi",
-    "summary": "Google DeepMind tadqiqotchisi Robert O'Kallaxan tez orada o'ta aqlli AI yaratishni mas'uliyatsizlik deb atab, ishdan ketdi. U sun'iy intellektni arzonroq va tezroq qiluvchi chiplarni loyihalash vositalari ustida ishlagan edi. Uning so'zlariga ko'ra, ko'plab hamkasblari ham shunday xavotirda, ammo buni ochiq aytmaydi.",
+    "id": "1cfc9400056d",
+    "slug": "ai-xavfi-ritorikasi-amaldorlarga-foyda-berishi-mumkin-1cfc94",
+    "title": "AI xavfi ritorikasi amaldorlarga foyda berishi mumkin",
+    "summary": "Anthropic investorining fikricha, sun'iy intellekt xavflari haqidagi ritorika siyosatni amaldagi kompaniyalar foydasiga shakllantirishi mumkin. Bu, bozordagi yangi ishtirokchilar uchun qiyinchilik tug'dirishi mumkin.",
     "tags": [
-      "Google",
-      "xavfsizlik"
+      "Anthropic",
+      "biznes"
     ],
     "importance": 3,
-    "score": 12.4,
-    "published": "2026-09-25T17:55:51.000Z",
-    "created": "2026-09-26T20:02:06.047Z",
+    "score": 10,
+    "published": "2026-09-26T18:51:10.000Z",
+    "created": "2026-09-26T20:08:30.098Z",
     "coverage": 1,
     "source": {
-      "name": "The Decoder",
-      "url": "https://the-decoder.com/another-google-deepmind-researcher-quits-says-building-superintelligent-ai-soon-is-inherently-irresponsible",
-      "indirect": false
+      "name": "BW Businessworld",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMnVIY1ltajh3WENkQ3NQTktDNTdkVHZWWGtLQURpMEYtM2ZIREp6TTFocmgtbXI0WlZkNGc4RlhHc0dpU0cySkI3MVJYWTludXBkQXFEUy1kSFc4My0tUkVuUk00M3plRFkwTnJ1R0VZcmZPdE1rd0ZwSGpodjFJcnhKRnlnNDdEUFJrTUNmQXZEYkZXV2Fjam1xbFdTano3RGJjVkxQRzYwOUtESjMyMU04Unh3VkFBbFow",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "eb7c187de4a6",
+    "slug": "bosh-vazir-yordamchisi-ai-vositasi-bilan-xavfsizlikni-buzdi-eb7c18",
+    "title": "Bosh vazir yordamchisi AI vositasi bilan xavfsizlikni buzdi",
+    "summary": "Xabarlarga ko'ra, Bosh vazir yordamchisi Urich OAVni kuzatish uchun sun'iy intellekt vositasini yaratgan. Bu harakat xavfsizlik buzilishiga olib kelgan.",
+    "tags": [
+      "xavfsizlik",
+      "siyosat"
+    ],
+    "importance": 4,
+    "score": 7,
+    "published": "2026-09-26T16:16:59.000Z",
+    "created": "2026-09-26T20:08:30.098Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Times of Israel",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOX3hTVG12ZWNCbG1BbjBCMlNyeXo4WDFfbGN1SXU2NHBCN3hGYm1fS0Z5ZjhJdkNVdDc0cjVETUdyNERGTk80aWhFOW15bm9icjVIc09pZVVkd1JJX0h0NjdqaUROOGlNdE56S1RVS3hhUTl4dGJTZEVMUkNTMi1tNmJqS21VUlFCcEdYZV9HMmI2Uy1NMUFUQlVodEtSRVZoWUt1Qmk1Y3B6aWtzcTNfUtIBsAFBVV95cUxOX3hTVG12ZWNCbG1BbjBCMlNyeXo4WDFfbGN1SXU2NHBCN3hGYm1fS0Z5ZjhJdkNVdDc0cjVETUdyNERGTk80aWhFOW15bm9icjVIc09pZVVkd1JJX0h0NjdqaUROOGlNdE56S1RVS3hhUTl4dGJTZEVMUkNTMi1tNmJqS21VUlFCcEdYZV9HMmI2Uy1NMUFUQlVodEtSRVZoWUt1Qmk1Y3B6aWtzcTNfUg",
+      "indirect": true
     },
     "also": [],
     "model": "gemini"
