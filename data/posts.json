@@ -1,5 +1,117 @@
 [
   {
+    "id": "dd624a686cd7",
+    "slug": "ai-skrining-yoshlarni-kiberjinoyatga-undamoqda-dd624a",
+    "title": "AI-skrining yoshlarni kiberjinoyatga undamoqda",
+    "summary": "Habr nashri AI yordamida rezyumelarni skrining qilish yosh mutaxassislarni ishga kirishda qiyinchiliklarga duchor etayotganini xabar qildi. Bu esa ularni kiberjinoyatga moyil qilishi mumkin.",
+    "tags": [
+      "mehnat bozori",
+      "xavfsizlik"
+    ],
+    "importance": 4,
+    "score": 11,
+    "published": "2026-09-27T11:41:40.000Z",
+    "created": "2026-09-27T12:32:46.326Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1087120",
+      "title": "Поколение отклонённых: как ИИ-скрининг резюме выталкивает молодёжь в киберпреступность",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "cbdb97b818c0",
+    "slug": "meta-1299-99-dollarlik-vr-ko-zoynaklarini-ai-apparatiga-qo-s-cbdb97",
+    "title": "Meta 1299,99 dollarlik VR ko‘zoynaklarini AI apparatiga qo‘shdi",
+    "summary": "RUSSPAIN.com xabariga ko‘ra, Meta kompaniyasi 1299,99 dollarlik VR ko‘zoynaklarini o‘zining AI apparat mahsulotlari qatoriga kiritdi. Bu kompaniyaning AI va VR integratsiyasiga e’tibor qaratayotganini ko‘rsatadi.",
+    "tags": [
+      "Meta",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": -2.9,
+    "published": "2026-09-25T23:38:31.000Z",
+    "created": "2026-09-27T12:33:02.068Z",
+    "coverage": 1,
+    "source": {
+      "name": "RUSSPAIN.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORXU0WlRtVWVsX05WU1gwVGVDcUI1YnZlNW9yNVd2eFpPbmFTUHZhMHE0ZGFXX095ZVRZMWk0VFB4bHo1UUlUbW9BOVllRnB4VUFJT21SbmpCeWF4R3FIVHZ0OTdEWUxsb3FOOEZvSk52MEdZVWJLSGstLWhXMmgtRnZfeEpYM2s5VGNhblJxZ00yWDVCWllmbnJxX2luRE9JVG9j",
+      "title": "Meta puts US$1.299,99 VR glasses at the top of its AI hardware range",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "23bf72f81ff5",
+    "slug": "saferzone-o-zbekistonni-kiberxavfsizlik-xabi-deb-biladi-23bf72",
+    "title": "SaferZone O‘zbekistonni kiberxavfsizlik xabi deb biladi",
+    "summary": "Janubiy Koreyaning SaferZone kompaniyasi O‘zbekistonda kiberxavfsizlik va data-markazlar infratuzilmasini rivojlantirishni rejalashtirmoqda. Bu mamlakatni mintaqaviy xabga aylantirishga yordam beradi.",
+    "tags": [
+      "O'zbekiston",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 41,
+    "published": "2026-09-27T12:02:00.000Z",
+    "created": "2026-09-27T12:33:23.509Z",
+    "coverage": 1,
+    "source": {
+      "name": "UzDaily",
+      "url": "https://uzdaily.uz/uz/saferzone-ozbekistonni-kiberxavfsizlik-xabi-sifatida-kormoqda",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "af2165e8c6df",
+    "slug": "nvidia-quvvat-tarmog-idagi-muammolarga-duch-kelmoqda-af2165",
+    "title": "Nvidia quvvat tarmog‘idagi muammolarga duch kelmoqda",
+    "summary": "ad-hoc-news.de xabariga ko‘ra, Nvidia kompaniyasi quvvat tarmog‘idagi cheklovlar bilan kurashmoqda. Bu holat AI gigantining energiya, robototexnika va ta’minot zanjiriga ta’sir ko‘rsatmoqda.",
+    "tags": [
+      "Nvidia",
+      "chiplar"
+    ],
+    "importance": 4,
+    "score": -5.3,
+    "published": "2026-09-25T17:40:51.000Z",
+    "created": "2026-09-27T12:33:23.509Z",
+    "coverage": 1,
+    "source": {
+      "name": "ad-hoc-news.de",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZGl4YkJyTHAtYVBsY2tNUGxwUWVnTm9idndybGdOYkhWT0JOSVZMT3BKLUVJNUZ4TVFKckRULXVGUXg2MTMtQzN6elloNEhHSkYtTERkc2hpVXZobEZWcV81dWluMExheHFOeWJlc2dXRExYWTNVeGRPVG5LUG8xZVltNXBiNlk1YVZjUWtFekFlT1h6T0xUSWFBVHhFOENlZS1mWUtOSUgwLThzbnBGak05UC1oa2tzYURCc0tkWmlVSVNPLW1VX09RY1hVUVdZTjFRdg",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "b3744853fbaf",
+    "slug": "nvidia-trump-xi-muzokaralari-fonida-muhim-darajani-sinovdan--b37448",
+    "title": "Nvidia Trump-Xi muzokaralari fonida muhim darajani sinovdan o‘tkazmoqda",
+    "summary": "Investor's Business Daily xabariga ko‘ra, Nvidia kompaniyasi Trump va Xi o‘rtasidagi muzokaralar hamda Xitoy bilan bog‘liq muammolar fonida muhim darajani sinovdan o‘tkazmoqda. Bu holat kompaniya uchun qiyinchilik tug‘dirishi mumkin.",
+    "tags": [
+      "Nvidia",
+      "iqtisod"
+    ],
+    "importance": 4,
+    "score": -5.6,
+    "published": "2026-09-25T16:58:00.000Z",
+    "created": "2026-09-27T12:33:23.509Z",
+    "coverage": 1,
+    "source": {
+      "name": "Investor's Business Daily",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNekRWNTUxQnMzZXJGTFFKVzJIUEZFX05MYkJwbmFsVWdjT2dQNEFaRWdRZWs4ZHVGTDdkaUkzbzdOcEdBNHZjQ3g4cmZ5YmNyeTBjWnZLWUpaS3ZDWDFoYVFMVXJWZWFiRTdNSFl5YlF4ZkFwZnZ3QldoN1QyajJFanRiLVJJNktscHRVSzVJUXc",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "0047127e7759",
     "slug": "aqsh-obligatsiyalari-stavkasi-ai-xarajatlarini-oshirmoqda-004712",
     "title": "AQSH obligatsiyalari stavkasi AI xarajatlarini oshirmoqda",
