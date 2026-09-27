@@ -1,5 +1,116 @@
 [
   {
+    "id": "cd5cba2a50c8",
+    "slug": "gpt-6-astra-roboti-notanish-oshxonani-tozaladi-cd5cba",
+    "title": "GPT-6 Astra roboti notanish oshxonani tozaladi",
+    "summary": "Stenford va Kaltek tadqiqotchilari GPT-6 Astra tomonidan boshqariladigan gumanoid robotni notanish oshxonani mustaqil tozalashga muvaffaq bo'lishdi. Ularning HomeBody tizimi til modeliga to'g'ridan-to'g'ri modulli ko'nikmalarni chaqirish imkonini beradi.",
+    "tags": [
+      "tadqiqot",
+      "robototexnika"
+    ],
+    "importance": 4,
+    "score": 24,
+    "published": "2026-09-27T10:59:11.000Z",
+    "created": "2026-09-27T11:02:04.051Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/researchers-plug-gpt-6-astra-directly-into-a-robot-and-let-it-clean-up-an-unfamiliar-kitchen",
+      "title": "Researchers plug GPT-6 Astra directly into a robot and let it clean up an unfamiliar kitchen",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "26b7a4358677",
+    "slug": "gen-z-ishga-tayyor-emas-genesys-works-oqitmoqda-26b7a4",
+    "title": "Gen Z ishga tayyor emas: Genesys Works o'qitmoqda",
+    "summary": "Genesys Works bosh direktori Bayron V. Garrettning aytishicha, ish beruvchilar ishga tayyor xodimlarni xohlashadi. Shu sababli, uning tashkiloti minglab AQSH o'smirlarini ish joyi odob-axloqi va elektron pochta yozishga o'rgatmoqda.",
+    "tags": [
+      "mehnat bozori",
+      "ta'lim"
+    ],
+    "importance": 2,
+    "score": 19,
+    "published": "2026-09-27T08:00:00.000Z",
+    "created": "2026-09-27T11:02:24.882Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/09/27/gen-z-workplace-youth-job-program-ceo-crash-course-emails-workplace-etiquette",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "b43c33040b75",
+    "slug": "ai-gen-z-avlodini-klaviaturada-yozishga-orgatmoqda-b43c33",
+    "title": "AI Gen Z avlodini klaviaturada yozishga o'rgatmoqda",
+    "summary": "Gen Z avlodi vakillari AI'dan foydalanish uchun klaviatura kerak bo'lgani sababli yozish kurslariga qatnamoqda. Ular asosan telefonlardan foydalanishga o'rgangan.",
+    "tags": [
+      "mehnat bozori",
+      "ta'lim"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-09-27T10:00:01.000Z",
+    "created": "2026-09-27T11:02:24.882Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/gen-z-improving-typing-skills-amid-rise-ai-technology-2026-9",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "229ba4de66d5",
+    "slug": "meta-oddiy-chatbot-museni-ai-mahsulotiga-aylantirdi-229ba4",
+    "title": "Meta oddiy chatbot Muse'ni AI mahsulotiga aylantirdi",
+    "summary": "Meta kompaniyasi o'zining oddiy Muse chatbotini mashhur AI mahsulotiga aylantirdi. Bu kompaniyaning sun'iy intellekt sohasidagi strategik qadamlaridan biri hisoblanadi.",
+    "tags": [
+      "Meta",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 9.2,
+    "published": "2026-09-26T21:00:00.000Z",
+    "created": "2026-09-27T11:02:24.882Z",
+    "coverage": 1,
+    "source": {
+      "name": "디지털투데이",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMUFFNlFVck15ajd4YzgxM01EQTVGQWxqUDJpd2prQ3RQTEhKV2kxWG9uR1lRenp5dFdMY09SejNXTEdjZGZ3S3JsaTZaWGlpU2VURVd2cGF1aU1taC12RnIyRWUxVFg3Q09BYkJWRWl2N2hvSHZvT0h3SDRvMkhZTFNGSFhfOXRRaW1rb2YtZFk4N0xmZzBjMjh2dGpNQ1pOeWpmOTUyNA",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "9f1904b77f28",
+    "slug": "nvidia-global-ai-qoidalar-muhokamasida-asosiy-rol-9f1904",
+    "title": "Nvidia global AI qoidalar muhokamasida asosiy rol",
+    "summary": "Nvidia kompaniyasi yangi global AI qoidalarini muhokama qilishda markaziy rol o'ynamoqda. Bu kompaniyaning sun'iy intellekt sanoatidagi ta'sirini ko'rsatadi.",
+    "tags": [
+      "Nvidia",
+      "qonun"
+    ],
+    "importance": 3,
+    "score": 2.1,
+    "published": "2026-09-26T03:18:00.000Z",
+    "created": "2026-09-27T11:02:24.882Z",
+    "coverage": 1,
+    "source": {
+      "name": "finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWTZzWlVrZ0VudjBKR0ROTXVkSVlCWFNvMmdzRDNaS1EwbkZ2dFlHaGQ5Rkh4ZWhodTFzZlBCSDVDQ29FZEstTEdaaVBxV2l1SG1pdUcyMXlVSEJIYVBKamY2SmQyUW8yVHp0STJ6WXNhZzBfRW5HZUNtN2ZlNmxWbFR4NWk5b1ZBTUdKdkRPNndhU3pmSXNuSQ",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "bfe439bb99f9",
     "slug": "nyu-yorkda-telefondan-aini-ochirish-darslari-otilmoqda-bfe439",
     "title": "Nyu-Yorkda telefondan AIni o'chirish darslari o'tilmoqda",
