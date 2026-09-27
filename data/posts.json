@@ -1,5 +1,182 @@
 [
   {
+    "id": "f73313bfa0ed",
+    "slug": "ona-chatgptdan-hayotini-tashkillashtirishni-soradi-f73313",
+    "title": "Ona ChatGPT'dan hayotini tashkillashtirishni so'radi",
+    "summary": "Bir ona o'zining ish vaqti, turmush o'rtog'ining jadvali va bolalariga g'amxo'rlik qilish ma'lumotlarini ChatGPT'ga kiritdi. U sun'iy intellektdan hayotini yaxshilashga yordam berishni so'radi.",
+    "tags": [
+      "OpenAI",
+      "mehnat bozori"
+    ],
+    "importance": 2,
+    "score": 26,
+    "published": "2026-09-27T15:00:09.000Z",
+    "created": "2026-09-27T15:36:30.244Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/lifeandstyle/2026/sep/28/parenthood-millennial-mothers-overwhelmed",
+      "title": "‘I can’t be the mum I want to be’: why does parenthood feel so impossible for millennial mothers?",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "0eb9f7791c69",
+    "slug": "akademiklar-aidan-talabalar-ishini-baholashda-foydalanmoqda-0eb9f7",
+    "title": "Akademiklar AI'dan talabalar ishini baholashda foydalanmoqda",
+    "summary": "Ta'lim muassasalarida akademiklar talabalar ishini baholash uchun generativ sun'iy intellektdan foydalanishni boshladi. Ba'zi mutaxassislar bu holat oliy ta'limga tahdid solishi mumkinligidan ogohlantirmoqda.",
+    "tags": [
+      "ta'lim",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 26,
+    "published": "2026-09-27T15:00:08.000Z",
+    "created": "2026-09-27T15:37:06.561Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/australia-news/2026/sep/28/university-ai-marking-academic-overworked-staff-student-shortcut",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "223cc7e1db1f",
+    "slug": "ai-gigantlari-xavfsizlikni-raqobat-ustunligiga-aylantirmoqda-223cc7",
+    "title": "AI gigantlari xavfsizlikni raqobat ustunligiga aylantirmoqda",
+    "summary": "Tahlilchilarning fikricha, AI gigantlari o'zlarini eng xavfsiz variant sifatida ko'rsatib, kichik raqobatchilarning o'sishini to'xtatishi mumkin. Bu ularga bozor ustunligini ta'minlaydi.",
+    "tags": [
+      "biznes",
+      "xavfsizlik"
+    ],
+    "importance": 4,
+    "score": 19,
+    "published": "2026-09-27T14:04:33.000Z",
+    "created": "2026-09-27T15:37:06.561Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/09/27/ai-giants-openai-sam-altman-anthropic-dario-amodei-existential-risk-humanity-competitive-moat-safety",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "461c0c323d93",
+    "slug": "ai-yordamida-marketpleys-qismlaridan-mobil-telefon-yigildi-461c0c",
+    "title": "AI yordamida marketpleys qismlaridan mobil telefon yig'ildi",
+    "summary": "Bir kishi turli marketpleyslardan sotib olingan qismlardan mobil telefon yig'ishda sun'iy intellektdan foydalandi. AI, asosan, vaqtni tejash va radio modul protokollarini tushunishga yordam berdi.",
+    "tags": [
+      "tadqiqot",
+      "agentlar"
+    ],
+    "importance": 2,
+    "score": 17,
+    "published": "2026-09-27T12:57:47.000Z",
+    "created": "2026-09-27T15:37:06.561Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1087140",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "8da879a34650",
+    "slug": "kichik-til-modellari-slm-va-ularning-llm-bilan-raqobati-8da879",
+    "title": "Kichik til modellari (SLM) va ularning LLM bilan raqobati",
+    "summary": "Kichik til modellari (SLM) kamroq resurs sarflab, katta til modellariga (LLM) deyarli tenglashmoqda. Mutaxassislar SLM'larning afzalliklari va cheklovlarini muhokama qilmoqda.",
+    "tags": [
+      "tadqiqot",
+      "ochiq model"
+    ],
+    "importance": 3,
+    "score": 11,
+    "published": "2026-09-27T13:18:40.000Z",
+    "created": "2026-09-27T15:37:06.561Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/companies/vtb/articles/1086030",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "0b074182597a",
+    "slug": "pereverzev-ai-muammolari-haqida-chatgptdan-oldin-oylagan-0b0741",
+    "title": "Pereverzev AI muammolari haqida ChatGPT'dan oldin o'ylagan",
+    "summary": "1966-yilda yozilgan kitobda jaz musiqashunosi Pereverzev kompyuterlarning ijodkorlikka ta'sirini muhokama qilgan. U ChatGPT'dan o'nlab yillar oldin AI'ni fikrlash yordamchisi sifatida tasvirlagan.",
+    "tags": [
+      "tadqiqot",
+      "tarix"
+    ],
+    "importance": 2,
+    "score": 11,
+    "published": "2026-09-27T12:50:57.000Z",
+    "created": "2026-09-27T15:37:06.561Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1087138",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "aaa49bfdfff7",
+    "slug": "anthropic-rahbari-dario-amodei-snlda-tasvirlangan-aaa49b",
+    "title": "Anthropic rahbari Dario Amodei SNL'da tasvirlangan",
+    "summary": "Anthropic kompaniyasi rahbari Dario Amodei Saturday Night Live ko'rsatuvida tasvirlangan. Bu sun'iy intellekt xavfsizligi bo'yicha ortib borayotgan xavotirlarni aks ettiradi.",
+    "tags": [
+      "Anthropic",
+      "xavfsizlik"
+    ],
+    "importance": 2,
+    "score": 7,
+    "published": "2026-09-27T15:32:16.000Z",
+    "created": "2026-09-27T15:37:06.561Z",
+    "coverage": 1,
+    "source": {
+      "name": "thenationalnews.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeVY3UHJyOGVGV04yRUhNdnBTeHFXWS15VjE3TXdJMV9aUGJFb1pzXzFRbTVtVTNVb2pIdnJxMXFFSHF1TUZWSWJVNUYxZXU1SkE3RUFVM1dXMjUtdWFMUm1zZnFwVzRlUjdCZkhHXzJiMmllQWx0NlJEcllxVmx6STB4TEJUdTFvZzNfSVh2SzR5cHBnTXpreGRaVTRQcWFOTEwweFRPVXh3cmdNTldnZEhn",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "1dbce7f4017d",
+    "slug": "sparkian-70-dan-ortiq-ai-modelli-ish-maydonini-ishga-tushird-1dbce7",
+    "title": "Sparkian 70 dan ortiq AI modelli ish maydonini ishga tushirdi",
+    "summary": "Sparkian kompaniyasi yangi AI ish maydonini ishga tushirdi. Bu platforma foydalanuvchilarga bitta obuna orqali 70 dan ortiq yetakchi sun'iy intellekt modellariga kirish imkonini beradi.",
+    "tags": [
+      "biznes",
+      "bulut"
+    ],
+    "importance": 3,
+    "score": 7,
+    "published": "2026-09-27T13:20:00.000Z",
+    "created": "2026-09-27T15:37:06.561Z",
+    "coverage": 1,
+    "source": {
+      "name": "Big News Network.com",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNZjQ1dk1zRTRWY1lPVndlcEJVWjM4Z1VUVjE2bHpRcU1xU0hyMlpVQTZEVFBMcnlqWEdkZnZnX0JjVkZaSHZmVUxMU1BlbkJrQ005TUhYRS1QZDY5eFhUekxXQXZLeThhVFFWTkE2dFlPM2lmLTlucnNpdEl1UjI1UFZpdktyY2RHN2Q5Q3M1d1IxcklZVmo3NUMyUFJaWlN1QVJxUVk5WkVta0FwdUhMcGhiZE90NmxwSEwzZU95UjhQbTZkSXVvYUkyaXZobk9LanFFUXRyMA",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "ab3ce882369c",
     "slug": "gumanoid-robotlar-suhbatda-yig-lashni-o-rgandi-ab3ce8",
     "title": "Gumanoid robotlar suhbatda yig‘lashni o‘rgandi",
