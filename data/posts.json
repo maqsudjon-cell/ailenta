@@ -1,5 +1,71 @@
 [
   {
+    "id": "9a7969ab10a9",
+    "slug": "jaan-tallinn-anthropicning-ilk-investori-va-ai-xavfsizligi-h-9a7969",
+    "title": "Jaan Tallinn Anthropic'ning ilk investori va AI xavfsizligi himoyachisi",
+    "summary": "Wall Street Journal nashri Anthropic'ning ilk investorlaridan biri Jaan Tallinn haqida maqola chop etdi. U 2021-yilda kompaniyaning 124 million dollarlik A seriya raundiga boshchilik qilgan va o‘n yildan ortiq vaqtdan beri AI xavfsizligini targ‘ib qilib keladi.",
+    "tags": [
+      "Anthropic",
+      "xavfsizlik"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-09-27T17:55:01.000Z",
+    "created": "2026-09-27T18:34:34.011Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/260927/p9",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "0457615dd816",
+    "slug": "xitoy-nvidia-rtx-pro-5500-chiplarini-sotib-olishni-maqullayd-045761",
+    "title": "Xitoy Nvidia RTX Pro 5500 chiplarini sotib olishni ma'qullaydi",
+    "summary": "The Information nashrining xabar berishicha, Xitoy hukumati Alibaba, ByteDance va boshqa kompaniyalardan Nvidia RTX Pro 5500 chiplarini sotib olish rejalari haqida hisobot so‘ragan. Hukumat ushbu xaridlarni ma'qullash niyatida ekanligini bildirgan.",
+    "tags": [
+      "Nvidia",
+      "chiplar"
+    ],
+    "importance": 4,
+    "score": 15,
+    "published": "2026-09-27T16:20:00.000Z",
+    "created": "2026-09-27T18:34:34.011Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/260927/p8",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "9d0ac7e17b6e",
+    "slug": "ai-yordamida-mac-uchun-ilova-yaratgan-injener-mahsulotchi-9d0ac7",
+    "title": "AI yordamida Mac uchun ilova yaratgan injener-mahsulotchi",
+    "summary": "Habr nashri muallifi Mac uchun oddiy ekran kattalashtirgich ilovasini yaratish tajribasi bilan o‘rtoqlashdi. U Swift va AppKit'ni bilmasdan, Claude Code yordamida uch kun ichida 10 mingdan ortiq qator kodga ega mahalliy ilova yaratgan.",
+    "tags": [
+      "mehnat bozori",
+      "tadqiqot"
+    ],
+    "importance": 1,
+    "score": 11,
+    "published": "2026-09-27T17:45:51.000Z",
+    "created": "2026-09-27T18:34:34.011Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1087200",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "5e2e139dc799",
     "slug": "dockerda-ssh-agent-orqali-xavfsiz-ssh-kirish-5e2e13",
     "title": "Docker'da SSH-agent orqali xavfsiz SSH-kirish",

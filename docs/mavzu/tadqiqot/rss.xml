@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/tadqiqot/</link>
   <description>&quot;tadqiqot&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Sun, 27 Sep 2026 18:05:52 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 27 Sep 2026 18:38:13 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/tadqiqot/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>AI yordamida Mac uchun ilova yaratgan injener-mahsulotchi</title>
+    <link>https://ailenta.uz/x/ai-yordamida-mac-uchun-ilova-yaratgan-injener-mahsulotchi-9d0ac7/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/ai-yordamida-mac-uchun-ilova-yaratgan-injener-mahsulotchi-9d0ac7/</guid>
+    <pubDate>Sun, 27 Sep 2026 17:45:51 GMT</pubDate>
+    <description>Habr nashri muallifi Mac uchun oddiy ekran kattalashtirgich ilovasini yaratish tajribasi bilan o‘rtoqlashdi. U Swift va AppKit'ni bilmasdan, Claude Code yordamida uch kun ichida 10 mingdan ortiq qator kodga ega mahalliy ilova yaratgan.</description>
+    <category>mehnat bozori</category><category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/ai-yordamida-mac-uchun-ilova-yaratgan-injener-mahsulotchi-9d0ac7.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/ai-yordamida-mac-uchun-ilova-yaratgan-injener-mahsulotchi-9d0ac7.jpg"/>
+  </item>
   <item>
     <title>Kichik til modellari (SLM) va ularning LLM bilan raqobati</title>
     <link>https://ailenta.uz/x/kichik-til-modellari-slm-va-ularning-llm-bilan-raqobati-8da879/</link>
@@ -296,16 +306,6 @@
     <category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/ekspertlar-ai-rivojlanish-tezligini-past-baholagan-f60457.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/ekspertlar-ai-rivojlanish-tezligini-past-baholagan-f60457.jpg"/>
-  </item>
-  <item>
-    <title>AI matematik bo'la oldimi: Habr muhokamasi</title>
-    <link>https://ailenta.uz/x/ai-matematik-bola-oldimi-habr-muhokamasi-df5fe1/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/ai-matematik-bola-oldimi-habr-muhokamasi-df5fe1/</guid>
-    <pubDate>Thu, 24 Sep 2026 17:54:33 GMT</pubDate>
-    <description>Habr nashri &quot;AI matematik bo'la oldimi?&quot; degan savolga javob izladi. Maqolada OpenAI va Anthropic'ning matematik sohadagi yangi yutuqlari muhokama qilingan.</description>
-    <category>tadqiqot</category><category>OpenAI</category>
-    <media:content url="https://ailenta.uz/og/ai-matematik-bola-oldimi-habr-muhokamasi-df5fe1.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/ai-matematik-bola-oldimi-habr-muhokamasi-df5fe1.jpg"/>
   </item>
 </channel>
 </rss>

@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/mehnat-bozori/</link>
   <description>&quot;mehnat bozori&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Sun, 27 Sep 2026 18:05:52 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 27 Sep 2026 18:38:13 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/mehnat-bozori/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>AI yordamida Mac uchun ilova yaratgan injener-mahsulotchi</title>
+    <link>https://ailenta.uz/x/ai-yordamida-mac-uchun-ilova-yaratgan-injener-mahsulotchi-9d0ac7/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/ai-yordamida-mac-uchun-ilova-yaratgan-injener-mahsulotchi-9d0ac7/</guid>
+    <pubDate>Sun, 27 Sep 2026 17:45:51 GMT</pubDate>
+    <description>Habr nashri muallifi Mac uchun oddiy ekran kattalashtirgich ilovasini yaratish tajribasi bilan o‘rtoqlashdi. U Swift va AppKit'ni bilmasdan, Claude Code yordamida uch kun ichida 10 mingdan ortiq qator kodga ega mahalliy ilova yaratgan.</description>
+    <category>mehnat bozori</category><category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/ai-yordamida-mac-uchun-ilova-yaratgan-injener-mahsulotchi-9d0ac7.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/ai-yordamida-mac-uchun-ilova-yaratgan-injener-mahsulotchi-9d0ac7.jpg"/>
+  </item>
   <item>
     <title>Ona ChatGPT'dan hayotini tashkillashtirishni so'radi</title>
     <link>https://ailenta.uz/x/ona-chatgptdan-hayotini-tashkillashtirishni-soradi-f73313/</link>
@@ -296,16 +306,6 @@
     <category>mehnat bozori</category><category>ta'lim</category>
     <media:content url="https://ailenta.uz/og/20-yoshli-talaba-aiga-chidamli-kasb-uchun-kollejni-tashladi-627bba.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/20-yoshli-talaba-aiga-chidamli-kasb-uchun-kollejni-tashladi-627bba.jpg"/>
-  </item>
-  <item>
-    <title>AI agentlari kodni tez yozadi, ammo reliz sekin</title>
-    <link>https://ailenta.uz/x/ai-agentlari-kodni-tez-yozadi-ammo-reliz-sekin-8e8e1d/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/ai-agentlari-kodni-tez-yozadi-ammo-reliz-sekin-8e8e1d/</guid>
-    <pubDate>Tue, 22 Sep 2026 06:38:00 GMT</pubDate>
-    <description>Habr nashri AI kodlash agentlari bilan 30 kunlik tajriba haqida xabar berdi. Agentlar kodni tez yozsa-da, loyihalarni ishlab chiqarishga chiqarish jarayoni sekinlashgan.</description>
-    <category>agentlar</category><category>mehnat bozori</category>
-    <media:content url="https://ailenta.uz/og/ai-agentlari-kodni-tez-yozadi-ammo-reliz-sekin-8e8e1d.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/ai-agentlari-kodni-tez-yozadi-ammo-reliz-sekin-8e8e1d.jpg"/>
   </item>
 </channel>
 </rss>
