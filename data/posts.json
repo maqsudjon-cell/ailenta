@@ -3,7 +3,7 @@
     "id": "cd5cba2a50c8",
     "slug": "gpt-6-astra-roboti-notanish-oshxonani-tozaladi-cd5cba",
     "title": "GPT-6 Astra roboti notanish oshxonani tozaladi",
-    "summary": "Stenford va Kaltek tadqiqotchilari GPT-6 Astra tomonidan boshqariladigan gumanoid robotni notanish oshxonani mustaqil tozalashga muvaffaq bo'lishdi. Ularning HomeBody tizimi til modeliga to'g'ridan-to'g'ri modulli ko'nikmalarni chaqirish imkonini beradi.",
+    "summary": "Stenford va Kaltek tadqiqotchilari GPT-6 Astra bilan ishlaydigan gumanoid robotni notanish oshxonani mustaqil tozalashga muvaffaq qilishdi. HomeBody tizimi til modeliga bevosita harakatlarni boshqarish imkonini beradi.",
     "tags": [
       "tadqiqot",
       "robototexnika"
@@ -11,7 +11,7 @@
     "importance": 4,
     "score": 24,
     "published": "2026-09-27T10:59:11.000Z",
-    "created": "2026-09-27T11:02:04.051Z",
+    "created": "2026-09-27T11:08:15.042Z",
     "coverage": 1,
     "source": {
       "name": "The Decoder",
@@ -23,10 +23,100 @@
     "model": "gemini"
   },
   {
+    "id": "b43c33040b75",
+    "slug": "ai-gen-z-avlodini-terishni-organishga-undamoqda-b43c33",
+    "title": "AI Gen Z avlodini terishni o'rganishga undamoqda",
+    "summary": "Gen Z avlodi vakillari terish kurslariga qatnashmoqda. Chunki AI dan foydalanish uchun klaviatura kerak, ular esa asosan telefonlardan foydalanishga o'rgangan.",
+    "tags": [
+      "mehnat bozori",
+      "ta'lim"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-09-27T10:00:01.000Z",
+    "created": "2026-09-27T11:08:15.051Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/gen-z-improving-typing-skills-amid-rise-ai-technology-2026-9",
+      "title": "AI is prompting these Gen Zers to learn how to type",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "c7567912db2e",
+    "slug": "alibabaning-ai-investitsiya-strategiyasi-barqarormi-c75679",
+    "title": "Alibaba'ning AI investitsiya strategiyasi barqarormi",
+    "summary": "Insider Monkey nashri Alibaba (BABA) kompaniyasining sun'iy intellektga investitsiya strategiyasi barqaror ekanligini muhokama qildi. Bu kompaniyaning kelajakdagi o'sishi uchun muhim savol.",
+    "tags": [
+      "Alibaba",
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 7,
+    "published": "2026-09-27T08:13:24.000Z",
+    "created": "2026-09-27T11:08:15.054Z",
+    "coverage": 1,
+    "source": {
+      "name": "Insider Monkey",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxON1JjempVMzNOTEowTXVyQ054VlByLVVyNEZMUzdiRXFNMTNleVp2TzNON2RGelNGaXltWmNZUHR1czZJeGt3cDNELUtNY3JkMGE1V2REdERFSGpodlVTanhyXzUtOEVaaUJiRFFncklGS0xfOUp3SUMycFVTOV9tSjBCRnJfUTJoNXNyejRJM2NPU2JoSVVJQ2Z6b3B6UDY1RS1z0gGjAUFVX3lxTE43UmN6alUzM05MSjBNdXJDTnhWUHItVXI0RkxTN2JFcU0xM2V5WnZPM043ZEZ6U0ZpeW1aY1lQdHVzNkl4a3dwM0QtS01jcmQwYTVXZER0REVIamh2VVNqeHJfNS04RVppQmJEUWdySUZLTF85SndJQzJwVVM5X21KMEJGcl9RMmg1c3J6NEkzY09TYmhJVUlDZnpvcHpQNjVFLXM",
+      "title": "Is Alibaba (BABA)’s AI Investment Strategy Sustainable?",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "088ae89a3f3f",
+    "slug": "silikon-vodiysi-ai-va-demokratiya-muammosiga-duch-088ae8",
+    "title": "Silikon vodiysi AI va demokratiya muammosiga duch",
+    "summary": "Stenford etikachisi Rob Reyxning so'zlariga ko'ra, Silikon vodiysi magnatlari tijorat modellari asosida ishlaydigan texnologik davlat qurishni muhokama qilgan. Ular kichik milliy davlat g'oyasiga qiziqishgan, ammo demokratiya masalasi sovuq kutib olingan.",
+    "tags": [
+      "siyosat",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 23,
+    "published": "2026-09-27T11:00:03.000Z",
+    "created": "2026-09-27T11:08:24.129Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/technology/ng-interactive/2026/sep/27/democracy-ai-datacenters-power",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "5dae6f23ad33",
+    "slug": "ai-davrida-insoniy-mulohaza-eng-muhim-konikma-5dae6f",
+    "title": "AI davrida insoniy mulohaza eng muhim ko'nikma",
+    "summary": "EY global vitse-prezidentining ta'kidlashicha, AI ishlarni avtomatlashtirgan sari, insoniy mulohaza kompaniyalar uchun eng zarur ko'nikmaga aylanadi. Bu AI ning eng katta paradoksi hisoblanadi.",
+    "tags": [
+      "mehnat bozori",
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 19,
+    "published": "2026-09-27T11:00:00.000Z",
+    "created": "2026-09-27T11:08:24.129Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/09/27/ai-fluency-human-judgment-leadership",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "26b7a4358677",
-    "slug": "gen-z-ishga-tayyor-emas-genesys-works-oqitmoqda-26b7a4",
-    "title": "Gen Z ishga tayyor emas: Genesys Works o'qitmoqda",
-    "summary": "Genesys Works bosh direktori Bayron V. Garrettning aytishicha, ish beruvchilar ishga tayyor xodimlarni xohlashadi. Shu sababli, uning tashkiloti minglab AQSH o'smirlarini ish joyi odob-axloqi va elektron pochta yozishga o'rgatmoqda.",
+    "slug": "gen-z-ish-joyiga-tayyor-emas-genesys-works-yordamda-26b7a4",
+    "title": "Gen Z ish joyiga tayyor emas: Genesys Works yordamda",
+    "summary": "Genesys Works bosh direktori Bayron V. Garretning aytishicha, ish beruvchilar ishga tayyor xodimlarni xohlaydi. Shu sababli, uning tashkiloti minglab AQSH o'smirlarini elektron pochta va ish joyi etiketiga o'rgatmoqda.",
     "tags": [
       "mehnat bozori",
       "ta'lim"
@@ -34,7 +124,7 @@
     "importance": 2,
     "score": 19,
     "published": "2026-09-27T08:00:00.000Z",
-    "created": "2026-09-27T11:02:24.882Z",
+    "created": "2026-09-27T11:08:24.129Z",
     "coverage": 1,
     "source": {
       "name": "Fortune",
@@ -45,40 +135,18 @@
     "model": "gemini"
   },
   {
-    "id": "b43c33040b75",
-    "slug": "ai-gen-z-avlodini-klaviaturada-yozishga-orgatmoqda-b43c33",
-    "title": "AI Gen Z avlodini klaviaturada yozishga o'rgatmoqda",
-    "summary": "Gen Z avlodi vakillari AI'dan foydalanish uchun klaviatura kerak bo'lgani sababli yozish kurslariga qatnamoqda. Ular asosan telefonlardan foydalanishga o'rgangan.",
-    "tags": [
-      "mehnat bozori",
-      "ta'lim"
-    ],
-    "importance": 2,
-    "score": 15,
-    "published": "2026-09-27T10:00:01.000Z",
-    "created": "2026-09-27T11:02:24.882Z",
-    "coverage": 1,
-    "source": {
-      "name": "Business Insider",
-      "url": "https://businessinsider.com/gen-z-improving-typing-skills-amid-rise-ai-technology-2026-9",
-      "indirect": false
-    },
-    "also": [],
-    "model": "gemini"
-  },
-  {
     "id": "229ba4de66d5",
     "slug": "meta-oddiy-chatbot-museni-ai-mahsulotiga-aylantirdi-229ba4",
     "title": "Meta oddiy chatbot Muse'ni AI mahsulotiga aylantirdi",
-    "summary": "Meta kompaniyasi o'zining oddiy Muse chatbotini mashhur AI mahsulotiga aylantirdi. Bu kompaniyaning sun'iy intellekt sohasidagi strategik qadamlaridan biri hisoblanadi.",
+    "summary": "Meta kompaniyasi oddiy Muse chatbotini AI texnologiyasi yordamida mashhur mahsulotga aylantirdi. Bu haqda raqamli yangiliklar nashri xabar berdi.",
     "tags": [
       "Meta",
       "biznes"
     ],
-    "importance": 3,
-    "score": 9.2,
+    "importance": 2,
+    "score": 9.1,
     "published": "2026-09-26T21:00:00.000Z",
-    "created": "2026-09-27T11:02:24.882Z",
+    "created": "2026-09-27T11:08:24.129Z",
     "coverage": 1,
     "source": {
       "name": "디지털투데이",
@@ -89,22 +157,21 @@
     "model": "gemini"
   },
   {
-    "id": "9f1904b77f28",
-    "slug": "nvidia-global-ai-qoidalar-muhokamasida-asosiy-rol-9f1904",
-    "title": "Nvidia global AI qoidalar muhokamasida asosiy rol",
-    "summary": "Nvidia kompaniyasi yangi global AI qoidalarini muhokama qilishda markaziy rol o'ynamoqda. Bu kompaniyaning sun'iy intellekt sanoatidagi ta'sirini ko'rsatadi.",
+    "id": "a22a8514396f",
+    "slug": "ai-xavfsizligi-munozarasi-turli-guruhlar-tahlili-a22a85",
+    "title": "AI xavfsizligi munozarasi: turli guruhlar tahlili",
+    "summary": "NPR nashri sun'iy intellekt xavfsizligi bo'yicha munozaralar chalkash ekanligini ta'kidladi. Nashr ushbu munozaradagi turli guruhlar haqida qo'llanma taqdim etdi.",
     "tags": [
-      "Nvidia",
-      "qonun"
+      "xavfsizlik"
     ],
     "importance": 3,
-    "score": 2.1,
-    "published": "2026-09-26T03:18:00.000Z",
-    "created": "2026-09-27T11:02:24.882Z",
+    "score": 1.3,
+    "published": "2026-09-26T09:00:00.000Z",
+    "created": "2026-09-27T11:08:24.129Z",
     "coverage": 1,
     "source": {
-      "name": "finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWTZzWlVrZ0VudjBKR0ROTXVkSVlCWFNvMmdzRDNaS1EwbkZ2dFlHaGQ5Rkh4ZWhodTFzZlBCSDVDQ29FZEstTEdaaVBxV2l1SG1pdUcyMXlVSEJIYVBKamY2SmQyUW8yVHp0STJ6WXNhZzBfRW5HZUNtN2ZlNmxWbFR4NWk5b1ZBTUdKdkRPNndhU3pmSXNuSQ",
+      "name": "npr.org",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcEN3Zm9SZ3VwcmhRTnV1cG5DX0JPTGhkT1VOSkZMUE5ZS3R2eENaeTJCc1NpTVJ2NjNOZTlMa1hwWndmbUZyUGp2ZkZaOWlfOXZ3YnRzN3Z6cExGcDFpN1JaVzgzSWxKdlNGN2VuSWlRakFQTWpjMmsxR0RUY1lrb2tfZ0lIblQ3Ymdya0pIYW1uRWNIVEVvOEpNTXR4dkl1eHhLc05ObHRCM2thTTViSnl1UXZ4OXNHZkttRA",
       "indirect": true
     },
     "also": [],
