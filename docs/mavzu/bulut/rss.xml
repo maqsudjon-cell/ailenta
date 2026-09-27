@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/bulut/</link>
   <description>&quot;bulut&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Sun, 27 Sep 2026 17:17:33 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 27 Sep 2026 17:22:53 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/bulut/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Docker'da SSH-agent orqali xavfsiz SSH-kirish</title>
+    <link>https://ailenta.uz/x/dockerda-ssh-agent-orqali-xavfsiz-ssh-kirish-5e2e13/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/dockerda-ssh-agent-orqali-xavfsiz-ssh-kirish-5e2e13/</guid>
+    <pubDate>Sun, 27 Sep 2026 14:03:32 GMT</pubDate>
+    <description>Habr nashri ssh-agent va rootless Docker asosidagi arxitekturani muhokama qildi. Bu yechimda jarayon shaxsiy kalitni olmasdan SSH-kirishdan foydalanishi mumkin. Bu xavfsizlikni oshiradi, chunki kalit jarayon buzilgan taqdirda ham o‘g‘irlanmaydi.</description>
+    <category>xavfsizlik</category><category>bulut</category>
+    <media:content url="https://ailenta.uz/og/dockerda-ssh-agent-orqali-xavfsiz-ssh-kirish-5e2e13.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/dockerda-ssh-agent-orqali-xavfsiz-ssh-kirish-5e2e13.jpg"/>
+  </item>
   <item>
     <title>Sparkian 70 dan ortiq AI modelli ish maydonini ishga tushirdi</title>
     <link>https://ailenta.uz/x/sparkian-70-dan-ortiq-ai-modelli-ish-maydonini-ishga-tushird-1dbce7/</link>
@@ -296,16 +306,6 @@
     <category>Nvidia</category><category>bulut</category>
     <media:content url="https://ailenta.uz/og/nvidia-va-palantir-suveren-ai-stekini-taqdim-etdi-1294e8.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/nvidia-va-palantir-suveren-ai-stekini-taqdim-etdi-1294e8.jpg"/>
-  </item>
-  <item>
-    <title>Michigan aholisi yadroviy AI markaziga qarshi chiqdi</title>
-    <link>https://ailenta.uz/x/michigan-aholisi-yadroviy-ai-markaziga-qarshi-chiqdi-d6e121/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/michigan-aholisi-yadroviy-ai-markaziga-qarshi-chiqdi-d6e121/</guid>
-    <pubDate>Fri, 11 Sep 2026 13:40:59 GMT</pubDate>
-    <description>Michigan universiteti va Los-Alamos milliy laboratoriyasi kichik shaharchada yirik ma'lumotlar markazi qurishni rejalashtirmoqda. Mahalliy aholi bu loyiha bo'yicha ulardan maslahat so'ralmaganidan norozi bo'lib, norozilik bildirmoqda.</description>
-    <category>bulut</category>
-    <media:content url="https://ailenta.uz/og/michigan-aholisi-yadroviy-ai-markaziga-qarshi-chiqdi-d6e121.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/michigan-aholisi-yadroviy-ai-markaziga-qarshi-chiqdi-d6e121.jpg"/>
   </item>
 </channel>
 </rss>

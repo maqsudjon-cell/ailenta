@@ -5,7 +5,7 @@
   <link>https://ailenta.uz</link>
   <description>Dunyodagi sun'iy intellekt yangiliklari o'zbek tilida. Har soatda yangilanadi, har bir xabarda asl manbaga havola.</description>
   <language>uz</language>
-  <lastBuildDate>Sun, 27 Sep 2026 17:17:33 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 27 Sep 2026 17:22:53 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/rss.xml" rel="self" type="application/rss+xml"/>
   <item>
     <title>Bill Geyts AI kelajagi ikki bosqichda bo‘lishini aytdi</title>
@@ -76,6 +76,16 @@
     <category>biznes</category><category>xavfsizlik</category>
     <media:content url="https://ailenta.uz/og/ai-gigantlari-xavfsizlikni-raqobat-ustunligiga-aylantirmoqda-223cc7.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/ai-gigantlari-xavfsizlikni-raqobat-ustunligiga-aylantirmoqda-223cc7.jpg"/>
+  </item>
+  <item>
+    <title>Docker'da SSH-agent orqali xavfsiz SSH-kirish</title>
+    <link>https://ailenta.uz/x/dockerda-ssh-agent-orqali-xavfsiz-ssh-kirish-5e2e13/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/dockerda-ssh-agent-orqali-xavfsiz-ssh-kirish-5e2e13/</guid>
+    <pubDate>Sun, 27 Sep 2026 14:03:32 GMT</pubDate>
+    <description>Habr nashri ssh-agent va rootless Docker asosidagi arxitekturani muhokama qildi. Bu yechimda jarayon shaxsiy kalitni olmasdan SSH-kirishdan foydalanishi mumkin. Bu xavfsizlikni oshiradi, chunki kalit jarayon buzilgan taqdirda ham o‘g‘irlanmaydi.</description>
+    <category>xavfsizlik</category><category>bulut</category>
+    <media:content url="https://ailenta.uz/og/dockerda-ssh-agent-orqali-xavfsiz-ssh-kirish-5e2e13.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/dockerda-ssh-agent-orqali-xavfsiz-ssh-kirish-5e2e13.jpg"/>
   </item>
   <item>
     <title>Sparkian 70 dan ortiq AI modelli ish maydonini ishga tushirdi</title>
@@ -226,6 +236,16 @@
     <category>siyosat</category><category>qonun</category>
     <media:content url="https://ailenta.uz/og/ai-rivojlanishi-hukumatlarni-ortda-qoldirmoqda-5548ec.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/ai-rivojlanishi-hukumatlarni-ortda-qoldirmoqda-5548ec.jpg"/>
+  </item>
+  <item>
+    <title>Anthropic AI biologik qurol noto‘g‘ri ishlatilishini to‘xtatdi</title>
+    <link>https://ailenta.uz/x/anthropic-ai-biologik-qurol-noto-g-ri-ishlatilishini-to-xtat-eff81e/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/anthropic-ai-biologik-qurol-noto-g-ri-ishlatilishini-to-xtat-eff81e/</guid>
+    <pubDate>Sun, 27 Sep 2026 08:54:49 GMT</pubDate>
+    <description>Anthropic kompaniyasi sun'iy intellektning biologik qurol sifatida noto‘g‘ri ishlatilishining oldini olganini ma'lum qildi. Bu haqda abcnews.com xabar berdi.</description>
+    <category>Anthropic</category><category>xavfsizlik</category>
+    <media:content url="https://ailenta.uz/og/anthropic-ai-biologik-qurol-noto-g-ri-ishlatilishini-to-xtat-eff81e.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/anthropic-ai-biologik-qurol-noto-g-ri-ishlatilishini-to-xtat-eff81e.jpg"/>
   </item>
   <item>
     <title>Pokistonda AIdan zahar haqida so‘ragan o‘smir ushlandi</title>
@@ -486,26 +506,6 @@
     <category>chiplar</category><category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/gtx-1080-tida-moe-modelni-ishga-tushirish-tajribasi-0272e9.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/gtx-1080-tida-moe-modelni-ishga-tushirish-tajribasi-0272e9.jpg"/>
-  </item>
-  <item>
-    <title>AI'ga kirish odamlarni &quot;bilmayman&quot; deyishdan to'xtatadi</title>
-    <link>https://ailenta.uz/x/aiga-kirish-odamlarni-bilmayman-deyishdan-toxtatadi-e5218d/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/aiga-kirish-odamlarni-bilmayman-deyishdan-toxtatadi-e5218d/</guid>
-    <pubDate>Sat, 26 Sep 2026 16:56:36 GMT</pubDate>
-    <description>Tadqiqotga ko'ra, AI'ga kirish imkoniyati odamlarning &quot;bilmayman&quot; deyish istagini deyarli yo'q qiladi. 3000 dan ortiq ishtirokchi bilan o'tkazilgan tajribada, bu ko'rsatkich 44 foizdan 3 foizga tushgan. AI deyarli har doim noto'g'ri bo'lsa ham, ishtirokchilar o'zlariga ko'proq ishonishgan.</description>
-    <category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/aiga-kirish-odamlarni-bilmayman-deyishdan-toxtatadi-e5218d.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/aiga-kirish-odamlarni-bilmayman-deyishdan-toxtatadi-e5218d.jpg"/>
-  </item>
-  <item>
-    <title>AI otasi insoniyat qanday tugashi mumkinligini tushuntirdi</title>
-    <link>https://ailenta.uz/x/ai-otasi-insoniyat-qanday-tugashi-mumkinligini-tushuntirdi-46a981/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/ai-otasi-insoniyat-qanday-tugashi-mumkinligini-tushuntirdi-46a981/</guid>
-    <pubDate>Sat, 26 Sep 2026 16:56:03 GMT</pubDate>
-    <description>AI otasi insoniyatning yo'q bo'lib ketishi mumkinligi haqida ogohlantirdi. Uning so'zlariga ko'ra, yomon niyatli shaxs bo'lmasa ham, AI odamlardan qutulishni xohlaydigan maqsadlarni yaratishi mumkin. Hozirda AI'ning asosiy maqsadi berilgan vazifani bajarishdir.</description>
-    <category>xavfsizlik</category><category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/ai-otasi-insoniyat-qanday-tugashi-mumkinligini-tushuntirdi-46a981.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/ai-otasi-insoniyat-qanday-tugashi-mumkinligini-tushuntirdi-46a981.jpg"/>
   </item>
 </channel>
 </rss>
