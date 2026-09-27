@@ -1,5 +1,69 @@
 [
   {
+    "id": "eb9e68692ce3",
+    "slug": "bill-geyts-ai-kelajagi-ikki-bosqichda-bo-lishini-aytdi-eb9e68",
+    "title": "Bill Geyts AI kelajagi ikki bosqichda bo‘lishini aytdi",
+    "summary": "Bill Geytsning so‘zlariga ko‘ra, insoniyat AI rivojlanishining murakkab birinchi bosqichiga kirmoqda. Ikkinchi bosqich esa \"farovonlik davri\"ni olib kelishi mumkin.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-09-27T16:55:13.000Z",
+    "created": "2026-09-27T17:08:08.329Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/bill-gates-future-of-ai-will-happen-in-two-phases-2026-9",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "7b27c0bdbe9a",
+    "slug": "spotify-ai-yordamida-yugurish-rejimini-taklif-etadi-7b27c0",
+    "title": "Spotify AI yordamida yugurish rejimini taklif etadi",
+    "summary": "Spotify iOS va Android uchun AI quvvatiga ega yugurish rejimini taqdim etdi. Bu funksiya foydalanuvchilarga yugurish jarayonini optimallashtirishga yordam beradi.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-09-27T15:45:00.000Z",
+    "created": "2026-09-27T17:08:08.330Z",
+    "coverage": 1,
+    "source": {
+      "name": "Engadget",
+      "url": "https://engadget.com/2267524/how-to-use-spotify-running-mode-ios-android-guide",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "f1d57288b756",
+    "slug": "investorlar-meta-ai-strategiyasiga-ishonch-bildirmoqda-f1d572",
+    "title": "Investorlar Meta AI strategiyasiga ishonch bildirmoqda",
+    "summary": "Investorlar Meta kompaniyasining AI strategiyasiga nisbatan ijobiy munosabatda. Ular Meta'ning sun'iy intellektga yo‘naltirilgan sa’y-harakatlariga ishonch bilan qarayapti.",
+    "tags": [
+      "Meta",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 7,
+    "published": "2026-09-27T14:49:51.000Z",
+    "created": "2026-09-27T17:08:08.330Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONGZ2dGNnSE11S2ctTXRzUExGRm5PRkdBaDZValZnTjBaN2hVNWVpaklKeF9vUXp0eG5XWGVCR0JocnFTSnlfakZka05WMnI2Zzl1d0FObUZ2bHFpLU9rMFEwQzBCM3R6cHNmOF9kV3RLU1RycG54Rld1MlY4SUNaVkl2VGc1Mm90R3JyLTZ3bmJVU0ZpcjJhVA",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "f73313bfa0ed",
     "slug": "ona-chatgptdan-hayotini-tashkillashtirishni-soradi-f73313",
     "title": "Ona ChatGPT'dan hayotini tashkillashtirishni so'radi",
