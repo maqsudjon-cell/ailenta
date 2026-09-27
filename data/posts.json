@@ -1,5 +1,93 @@
 [
   {
+    "id": "bfe439bb99f9",
+    "slug": "nyu-yorkda-telefondan-aini-ochirish-darslari-otilmoqda-bfe439",
+    "title": "Nyu-Yorkda telefondan AIni o'chirish darslari o'tilmoqda",
+    "summary": "Nyu-York shtatidagi kutubxona odamlarga telefonlaridan sun'iy intellektni o'chirishga yordam berayotgani sababli ommalashib ketdi. Kutubxonachi odamlarga AI bilan ishlashda ham yordam berishdan mamnunligini bildirdi.",
+    "tags": [
+      "ta'lim"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-09-27T09:50:01.000Z",
+    "created": "2026-09-27T10:01:45.431Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/library-bye-bye-ai-event-north-chatham-viral-2026-9",
+      "title": "This small town librarian offers a 'Bye, Bye AI' class to take AI off your phone. Now everyone wants in.",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "a7cf1195620f",
+    "slug": "astrofiziklar-kalibrlashni-avtomatlashtirish-uchun-grant-yut-a7cf11",
+    "title": "Astrofiziklar kalibrlashni avtomatlashtirish uchun grant yutdi",
+    "summary": "Santa-Kruzdagi Kaliforniya universiteti astrofiziklari sun'iy intellekt grantini qo'lga kiritdi. Ular ushbu mablag'ni murakkab kalibrlash jarayonini avtomatlashtirish loyihasiga sarflaydi.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": -4.4,
+    "published": "2026-09-25T17:37:09.000Z",
+    "created": "2026-09-27T10:01:51.465Z",
+    "coverage": 1,
+    "source": {
+      "name": "News",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5tX0ljcjRKb1lIQkxOaHA4NWdkNW1WcERfU2dKZngtRWpXNWZmWUNvVy1FQ2Jac1FvT1k3dDFhS0xPUWk4SUROcnA1NWM1Z3hsSG91MWxfWm5OZTVZRmxIek1icUxYeVdR",
+      "title": "Astrophysicists win AI grant for ‘Holy Grail’ project to automate laborious calibration process - UC Santa Cruz",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "a9637677b124",
+    "slug": "google-va-anthropicdagi-istefolar-norozilikni-oshirdi-a96376",
+    "title": "Google va Anthropic'dagi iste'folar norozilikni oshirdi",
+    "summary": "Google va Anthropic kompaniyalaridagi iste'folar sun'iy intellekt poygasini sekinlashtirish haqidagi chaqiriqlarni kuchaytirdi. Bu haqda Chosunbiz nashri xabar bermoqda.",
+    "tags": [
+      "Google",
+      "Anthropic"
+    ],
+    "importance": 3,
+    "score": 10,
+    "published": "2026-09-27T08:07:00.000Z",
+    "created": "2026-09-27T10:02:03.289Z",
+    "coverage": 1,
+    "source": {
+      "name": "Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE03alVYTFRjeFNtRHpKQ2lHZ056RlpDZ0FyU1pwQlRIN3FjUEN3OXg4LVI5RFVoeHl1WVZGNkdoNjNTVVNqcnhibVZXV2UtLTB2Vi1RTFdVX29SVVU1WFJJM1dLS1RXMkV0OGlkbGVlay1DWTQ5a1dLeml30gGOAUFVX3lxTFBZOVQwdFVYVWE2dWVLaDhWdWtYQVlkeTdkNjh5MjBZb0VEcWxFUEZBZUZFWktkSXBsT0plZHViVkhQMzQwZVpzZUFLTmlKZGlTMDhKajU1OFduWjRLUXhmUFBSQ0t6N3NuRXFDYWlBMVpfMDNJNzZNTTM1Nm81eV9vb1JzalJGbDBmREpWQUE",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "df8264bbd4ec",
+    "slug": "lg-nvidia-ai-infratuzilmasi-uchun-cduni-sertifikatladi-df8264",
+    "title": "LG Nvidia AI infratuzilmasi uchun CDU'ni sertifikatladi",
+    "summary": "LG kompaniyasi Nvidia DSX AI infratuzilmasi uchun 2,6 megavattli CDU qurilmasini sertifikatdan o'tkazdi. Bu haqda Refindustry nashri xabar berdi.",
+    "tags": [
+      "Nvidia",
+      "chiplar"
+    ],
+    "importance": 2,
+    "score": 9.8,
+    "published": "2026-09-26T21:30:00.000Z",
+    "created": "2026-09-27T10:02:03.289Z",
+    "coverage": 1,
+    "source": {
+      "name": "Refindustry",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZ3Ryb2t5dGFmSkJVc1NCUFZLVXY5VlVfR0ZkdV9qNTFHdU81eUlocFZTeG0zRE9oNV92Vk85THlRMHVjUlE3S1ZLaU1VMU5zMF9IQ2JtSTAtVmdfVHpMRHMxR0FQcFNGSnV3TGxYeTRvMjYwWGo1QnVXLVl2bWFCUThuRzNWcmVicEZCakFoMA",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "5548ec5adbb4",
     "slug": "ai-rivojlanishi-hukumatlarni-ortda-qoldirmoqda-5548ec",
     "title": "AI rivojlanishi hukumatlarni ortda qoldirmoqda",
