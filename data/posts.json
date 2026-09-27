@@ -1,17 +1,17 @@
 [
   {
     "id": "9a7969ab10a9",
-    "slug": "jaan-tallinn-anthropicning-ilk-investori-va-ai-xavfsizligi-h-9a7969",
-    "title": "Jaan Tallinn Anthropic'ning ilk investori va AI xavfsizligi himoyachisi",
-    "summary": "Wall Street Journal nashri Anthropic'ning ilk investorlaridan biri Jaan Tallinn haqida maqola chop etdi. U 2021-yilda kompaniyaning 124 million dollarlik A seriya raundiga boshchilik qilgan va o‘n yildan ortiq vaqtdan beri AI xavfsizligini targ‘ib qilib keladi.",
+    "slug": "anthropic-investori-jaan-tallinn-ai-xavfsizligini-qo-llab-qu-9a7969",
+    "title": "Anthropic investori Jaan Tallinn AI xavfsizligini qo‘llab-quvvatlamoqda",
+    "summary": "Anthropic kompaniyasining ilk investorlaridan biri Jaan Tallinn o‘n yildan ortiq vaqtdan beri AI xavfsizligini targ‘ib qilib keladi. U ushbu tashabbuslarga taxminan 170 million dollar xayriya qilgan va AI rivojlanishidagi xavflar haqida ogohlantirmoqda.",
     "tags": [
       "Anthropic",
       "xavfsizlik"
     ],
-    "importance": 2,
+    "importance": 3,
     "score": 15,
     "published": "2026-09-27T17:55:01.000Z",
-    "created": "2026-09-27T18:34:34.011Z",
+    "created": "2026-09-27T18:39:46.361Z",
     "coverage": 1,
     "source": {
       "name": "Techmeme",
@@ -22,22 +22,22 @@
     "model": "gemini"
   },
   {
-    "id": "0457615dd816",
-    "slug": "xitoy-nvidia-rtx-pro-5500-chiplarini-sotib-olishni-maqullayd-045761",
-    "title": "Xitoy Nvidia RTX Pro 5500 chiplarini sotib olishni ma'qullaydi",
-    "summary": "The Information nashrining xabar berishicha, Xitoy hukumati Alibaba, ByteDance va boshqa kompaniyalardan Nvidia RTX Pro 5500 chiplarini sotib olish rejalari haqida hisobot so‘ragan. Hukumat ushbu xaridlarni ma'qullash niyatida ekanligini bildirgan.",
+    "id": "08dd360827a5",
+    "slug": "ai-yordamida-yagona-tadqiqotchi-yangiliklar-yaratmoqda-08dd36",
+    "title": "AI yordamida yagona tadqiqotchi yangiliklar yaratmoqda",
+    "summary": "Habr nashri sun'iy intellektning yagona tadqiqotchi yoki kichik guruhlar qo‘lida yangi g‘oyalar yaratish quvvatini oshirishi haqida yozdi. AI turli sohalardan ma’lumotlarni birlashtirib, innovatsiyalarni tezlashtirishi mumkin.",
     "tags": [
-      "Nvidia",
-      "chiplar"
+      "tadqiqot",
+      "mehnat bozori"
     ],
-    "importance": 4,
-    "score": 15,
-    "published": "2026-09-27T16:20:00.000Z",
-    "created": "2026-09-27T18:34:34.011Z",
+    "importance": 2,
+    "score": 11,
+    "published": "2026-09-27T18:17:31.000Z",
+    "created": "2026-09-27T18:39:46.362Z",
     "coverage": 1,
     "source": {
-      "name": "Techmeme",
-      "url": "https://techmeme.com/260927/p8",
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1087210",
       "indirect": false
     },
     "also": [],
@@ -45,17 +45,17 @@
   },
   {
     "id": "9d0ac7e17b6e",
-    "slug": "ai-yordamida-mac-uchun-ilova-yaratgan-injener-mahsulotchi-9d0ac7",
-    "title": "AI yordamida Mac uchun ilova yaratgan injener-mahsulotchi",
-    "summary": "Habr nashri muallifi Mac uchun oddiy ekran kattalashtirgich ilovasini yaratish tajribasi bilan o‘rtoqlashdi. U Swift va AppKit'ni bilmasdan, Claude Code yordamida uch kun ichida 10 mingdan ortiq qator kodga ega mahalliy ilova yaratgan.",
+    "slug": "ai-yordamida-dasturchi-mac-ilovasini-uch-kunda-yaratdi-9d0ac7",
+    "title": "AI yordamida dasturchi Mac ilovasini uch kunda yaratdi",
+    "summary": "Bir dasturchi Swift va AppKitni bilmasdan turib, Claude Code AI yordamida Mac uchun oddiy ekran kattalashtirgich ilovasini uch kunda yaratdi. Bu AI texnologiyalari dasturchilarning ish jarayonini qanday o‘zgartirayotganini ko‘rsatadi.",
     "tags": [
       "mehnat bozori",
-      "tadqiqot"
+      "agentlar"
     ],
-    "importance": 1,
+    "importance": 3,
     "score": 11,
     "published": "2026-09-27T17:45:51.000Z",
-    "created": "2026-09-27T18:34:34.011Z",
+    "created": "2026-09-27T18:39:46.362Z",
     "coverage": 1,
     "source": {
       "name": "Habr",
