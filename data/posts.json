@@ -1,5 +1,158 @@
 [
   {
+    "id": "9b38b9faf7b1",
+    "slug": "spacey-toqima-naqshlarini-klinik-natijalar-bilan-boglaydi-9b38b9",
+    "title": "SpaCEy to'qima naqshlarini klinik natijalar bilan bog'laydi",
+    "summary": "Nature jurnalida e'lon qilingan tadqiqotga ko'ra, SpaCEy nomli vosita tushunarli graf neyron tarmoqlari yordamida to'qimalarning fazoviy naqshlarini klinik natijalar bilan bog'laydi. Bu tibbiyot sohasida diagnostika va davolashni yaxshilashga yordam berishi mumkin.",
+    "tags": [
+      "tadqiqot",
+      "tibbiyot"
+    ],
+    "importance": 2,
+    "score": 15.4,
+    "published": "2026-09-26T00:00:00.000Z",
+    "created": "2026-09-27T07:02:06.912Z",
+    "coverage": 1,
+    "source": {
+      "name": "Nature",
+      "url": "https://nature.com/articles/s41467-026-77924-z",
+      "title": "SpaCEy links spatial tissue patterns to clinical outcomes using explainable graph neural networks",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "d632d551ca58",
+    "slug": "aidan-qorqqan-tadbirkor-undan-milliardlar-ishlab-topmoqda-d632d5",
+    "title": "AI'dan qo'rqqan tadbirkor undan milliardlar ishlab topmoqda",
+    "summary": "WSJ xabariga ko'ra, bir tadbirkor sun'iy intellektdan juda qo'rqadi. Shunga qaramay, u AI texnologiyasidan milliardlab dollar foyda ko'rish arafasida. Bu holat AI rivojlanishidagi ziddiyatli jihatni ko'rsatadi.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-09-25T23:00:00.000Z",
+    "created": "2026-09-27T07:03:46.174Z",
+    "coverage": 1,
+    "source": {
+      "name": "WSJ",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9zUEUweHctVl9pRnc0TzVDWEtNS29fZ3o3dDVYbkYyQkxNRzY2VmlGODZ3VzFWak1NeF9rVm5WT3Z1WFl1TzNMQy1INU9xejdmMV90bzV6emlpV3ltY1VDVGNZV09Ib1c3RTM2VlJMaw",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "f37298ce386c",
+    "slug": "anthropicda-ai-xavfsizligi-va-samarali-altruizm-f37298",
+    "title": "Anthropic'da AI xavfsizligi va samarali altruizm",
+    "summary": "Wall Street Journal xabariga ko'ra, \"samarali altruizm\" harakati Anthropic kompaniyasida AI xavfsizligiga katta ta'sir ko'rsatgan. Ba'zi dastlabki xodimlar AI noto'g'ri rivojlansa, AQSHda uzoq joylardan yer sotib olishni o'ylamoqda.",
+    "tags": [
+      "Anthropic",
+      "xavfsizlik"
+    ],
+    "importance": 4,
+    "score": 18,
+    "published": "2026-09-27T06:00:02.000Z",
+    "created": "2026-09-27T07:03:46.174Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/260927/p4",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "047d1637d161",
+    "slug": "fizika-asosidagi-ml-protein-rnk-ozgarishini-bashorat-qiladi-047d16",
+    "title": "Fizika asosidagi ML protein-RNK o'zgarishini bashorat qiladi",
+    "summary": "Nature jurnalida chop etilgan tadqiqotga ko'ra, fizika asosidagi mashina o'rganish usuli protein-RNK komplekslaridagi mutatsiyalar natijasida bog'lanish erkin energiya o'zgarishlarini bashorat qila oladi. Bu tibbiyot va biologiya sohasida muhim ahamiyatga ega.",
+    "tags": [
+      "tadqiqot",
+      "tibbiyot"
+    ],
+    "importance": 2,
+    "score": 15.4,
+    "published": "2026-09-26T00:00:00.000Z",
+    "created": "2026-09-27T07:03:46.174Z",
+    "coverage": 1,
+    "source": {
+      "name": "Nature",
+      "url": "https://nature.com/articles/s42003-026-10948-9",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "fc7231b23df8",
+    "slug": "texnologiya-kompaniyalari-ai-tizimlari-huquqini-organmoqda-fc7231",
+    "title": "Texnologiya kompaniyalari AI tizimlari huquqini o'rganmoqda",
+    "summary": "Jerusalem Post xabariga ko'ra, texnologiya kompaniyalari sun'iy intellekt tizimlari uchun mumkin bo'lgan huquqlarni o'rganmoqda. Bu AI rivojlanishi bilan bog'liq huquqiy va axloqiy masalalarni ko'taradi.",
+    "tags": [
+      "qonun"
+    ],
+    "importance": 3,
+    "score": 7,
+    "published": "2026-09-27T06:59:39.000Z",
+    "created": "2026-09-27T07:03:46.174Z",
+    "coverage": 1,
+    "source": {
+      "name": "UA.NEWS",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaG9fUzdDWUJxdmU2MEhHWXhmdnY1Mk9fWnNHUXVZc3dDU1BJYlR1bllteUliWDFQV2VzdnV6NVV5bGhuZVFfbl9QWkZEbE1LQ3IydE54aUtLU3I5SmZwRDBXVl96akJfRnV4S1pJN0JqbVZvT3NFNnFBQi0wUzNFalB1VFhKOWc5aFlwOXRlZ0NVNlg3cUlwUGVza0RqZFk4YUVLNnpoblBWR3VyNzlKdnV3",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "031b87c84bae",
+    "slug": "metaning-ai-qaytishi-keyingi-osishga-turtki-bolishi-mumkin-031b87",
+    "title": "Meta'ning AI qaytishi keyingi o'sishga turtki bo'lishi mumkin",
+    "summary": "TipRanks xabariga ko'ra, Meta kompaniyasining sun'iy intellekt sohasidagi qaytishi uning keyingi bozor o'sishiga turtki bo'lishi mumkin. Bu kompaniyaning AI strategiyasiga investorlar ishonchini oshirishi kutilmoqda.",
+    "tags": [
+      "Meta",
+      "iqtisod"
+    ],
+    "importance": 3,
+    "score": 7,
+    "published": "2026-09-27T04:31:35.000Z",
+    "created": "2026-09-27T07:03:46.174Z",
+    "coverage": 1,
+    "source": {
+      "name": "TipRanks",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9GdkxkZTU4RjYwSDk3NUJFeUcxSEJDREJqVzZ4WEpfR1N4VDV5V3JEZlhmTU1wcWQtUUdEVEkzM3Q4cnMyYlR1LWs1R2d1ZDZsRmNtdkVGb2x2MmZqRHBZZnlqQlFQR2J5RWJYOF8ybHpST01NZjJDN2d1OEZTUGs",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "ed27b9661d17",
+    "slug": "rickards-xitoyning-ai-foydalanishi-superintellektdan-muhimro-ed27b9",
+    "title": "Rickards: Xitoyning AI foydalanishi superintellektdan muhimroq",
+    "summary": "Rickardsning ta'kidlashicha, Xitoyning sun'iy intellektdan foydalanishi \"superintellekt\" tahdididan ko'ra muhimroq. Uning fikricha, hozirgi AI ilovalari global xavfsizlik uchun ko'proq e'tibor talab qiladi.",
+    "tags": [
+      "siyosat",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 7,
+    "published": "2026-09-27T01:52:00.000Z",
+    "created": "2026-09-27T07:03:46.175Z",
+    "coverage": 1,
+    "source": {
+      "name": "tokenpost.com",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBNQVdtTUZ1S0hvVjRwbzdETnNDNUQ3OUZZelBjek04NE53eVdzdGRKUDVRZTFtSVllU3VfbVl3QkhwSlgyOWFPRVdPSHl2aG5GbFpPc3F2RWpZV3c",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "6b8125ccd5e8",
     "slug": "aqsh-va-rossiya-ai-qurol-kelishuvini-kuchsizlantirdi-6b8125",
     "title": "AQSH va Rossiya AI qurol kelishuvini kuchsizlantirdi",

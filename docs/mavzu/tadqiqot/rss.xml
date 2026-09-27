@@ -5,7 +5,7 @@
   <link>https://ailenta.uz/mavzu/tadqiqot/</link>
   <description>&quot;tadqiqot&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Sun, 27 Sep 2026 06:40:20 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 27 Sep 2026 07:08:15 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/tadqiqot/rss.xml" rel="self" type="application/rss+xml"/>
   <item>
     <title>GTX 1080 Ti'da MoE-modelni ishga tushirish tajribasi</title>
@@ -56,6 +56,26 @@
     <category>agentlar</category><category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/ai-agentlari-hamma-muammoga-yechim-emas-c67de2.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/ai-agentlari-hamma-muammoga-yechim-emas-c67de2.jpg"/>
+  </item>
+  <item>
+    <title>SpaCEy to'qima naqshlarini klinik natijalar bilan bog'laydi</title>
+    <link>https://ailenta.uz/x/spacey-toqima-naqshlarini-klinik-natijalar-bilan-boglaydi-9b38b9/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/spacey-toqima-naqshlarini-klinik-natijalar-bilan-boglaydi-9b38b9/</guid>
+    <pubDate>Sat, 26 Sep 2026 00:00:00 GMT</pubDate>
+    <description>Nature jurnalida e'lon qilingan tadqiqotga ko'ra, SpaCEy nomli vosita tushunarli graf neyron tarmoqlari yordamida to'qimalarning fazoviy naqshlarini klinik natijalar bilan bog'laydi. Bu tibbiyot sohasida diagnostika va davolashni yaxshilashga yordam berishi mumkin.</description>
+    <category>tadqiqot</category><category>tibbiyot</category>
+    <media:content url="https://ailenta.uz/og/spacey-toqima-naqshlarini-klinik-natijalar-bilan-boglaydi-9b38b9.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/spacey-toqima-naqshlarini-klinik-natijalar-bilan-boglaydi-9b38b9.jpg"/>
+  </item>
+  <item>
+    <title>Fizika asosidagi ML protein-RNK o'zgarishini bashorat qiladi</title>
+    <link>https://ailenta.uz/x/fizika-asosidagi-ml-protein-rnk-ozgarishini-bashorat-qiladi-047d16/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/fizika-asosidagi-ml-protein-rnk-ozgarishini-bashorat-qiladi-047d16/</guid>
+    <pubDate>Sat, 26 Sep 2026 00:00:00 GMT</pubDate>
+    <description>Nature jurnalida chop etilgan tadqiqotga ko'ra, fizika asosidagi mashina o'rganish usuli protein-RNK komplekslaridagi mutatsiyalar natijasida bog'lanish erkin energiya o'zgarishlarini bashorat qila oladi. Bu tibbiyot va biologiya sohasida muhim ahamiyatga ega.</description>
+    <category>tadqiqot</category><category>tibbiyot</category>
+    <media:content url="https://ailenta.uz/og/fizika-asosidagi-ml-protein-rnk-ozgarishini-bashorat-qiladi-047d16.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/fizika-asosidagi-ml-protein-rnk-ozgarishini-bashorat-qiladi-047d16.jpg"/>
   </item>
   <item>
     <title>AI javoblarida internet-do'kon havolalari kam</title>
@@ -286,26 +306,6 @@
     <category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/neyrobiologlar-miyani-neyrosetlardan-yaxshiroq-tushungan-379a15.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/neyrobiologlar-miyani-neyrosetlardan-yaxshiroq-tushungan-379a15.jpg"/>
-  </item>
-  <item>
-    <title>AI'da niyat va motivatsiya yo'q</title>
-    <link>https://ailenta.uz/x/aida-niyat-va-motivatsiya-yoq-37add6/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/aida-niyat-va-motivatsiya-yoq-37add6/</guid>
-    <pubDate>Thu, 24 Sep 2026 09:13:25 GMT</pubDate>
-    <description>Hacker News'da sun'iy intellektda niyat va motivatsiya mavjud emasligi haqida fikr bildirildi. Bu AI'ning tabiati va imkoniyatlari borasidagi munozaralarga tegishli.</description>
-    <category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/aida-niyat-va-motivatsiya-yoq-37add6.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/aida-niyat-va-motivatsiya-yoq-37add6.jpg"/>
-  </item>
-  <item>
-    <title>Xiaomi MiMo-V3 yangi arxitekturani qabul qiladi</title>
-    <link>https://ailenta.uz/x/xiaomi-mimo-v3-yangi-arxitekturani-qabul-qiladi-745527/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/xiaomi-mimo-v3-yangi-arxitekturani-qabul-qiladi-745527/</guid>
-    <pubDate>Thu, 24 Sep 2026 05:57:38 GMT</pubDate>
-    <description>Xiaomi MiMo-V3 yangi arxitekturaga o'tadi. Uning HySparse2 texnologiyasi uzoq kontekstli xulosa chiqarish xarajatlarini kamaytiradi va agentli ish yuklamalari uchun qidiruvni yaxshilaydi. Bu 1 million token kontekst uzunligida hisoblashni 5.02 barobar kamaytiradi.</description>
-    <category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/xiaomi-mimo-v3-yangi-arxitekturani-qabul-qiladi-745527.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/xiaomi-mimo-v3-yangi-arxitekturani-qabul-qiladi-745527.jpg"/>
   </item>
 </channel>
 </rss>
