@@ -1,5 +1,69 @@
 [
   {
+    "id": "ab3ce882369c",
+    "slug": "gumanoid-robotlar-suhbatda-yig-lashni-o-rgandi-ab3ce8",
+    "title": "Gumanoid robotlar suhbatda yig‘lashni o‘rgandi",
+    "summary": "Gumanoid robotlar inson his-tuyg‘ularini taqlid qilish darajasini oshirib, hissiy suhbat chog‘ida buyruq bo‘yicha yig‘lash qobiliyatiga ega bo‘ldi. Ishlab chiquvchilar robotlarning mimikasi va hissiy reaksiyalarini yanada kuchaytirmoqda.",
+    "tags": [
+      "robototexnika"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-09-27T13:15:00.000Z",
+    "created": "2026-09-27T14:01:42.970Z",
+    "coverage": 1,
+    "source": {
+      "name": "Engadget",
+      "url": "https://engadget.com/2266933/humanoid-robot-cries-on-command",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "60250ff5dfe4",
+    "slug": "pokistonda-aidan-zahar-haqida-so-ragan-o-smir-ushlandi-60250f",
+    "title": "Pokistonda AIdan zahar haqida so‘ragan o‘smir ushlandi",
+    "summary": "Pokistonda o‘smir yigit sun'iy intellektdan zahar tayyorlash va undan foydalanish bo‘yicha ko‘rsatmalar olgani sababli hibsga olindi. Huquq-tartibot idoralari holat yuzasidan tergov olib bormoqda.",
+    "tags": [
+      "xavfsizlik",
+      "qonun"
+    ],
+    "importance": 3,
+    "score": 7,
+    "published": "2026-09-27T08:32:38.000Z",
+    "created": "2026-09-27T14:01:42.970Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Jerusalem Post",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1BT1JkZF9FTHRTN0lVX3ZsNTFBUENYTUlScHZHNWNOOVdocnFXM0NDd0ZmUEMwdnFQczluOGFhT2hNbkdpX3VuNTlOZlczUTI0MWZ3Qm1hZ1RvVW0z",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "95e8b4951391",
+    "slug": "aleksandr-vang-shaxsiy-ai-yordamchilari-haqida-gapirdi-95e8b4",
+    "title": "Aleksandr Vang shaxsiy AI yordamchilari haqida gapirdi",
+    "summary": "Meta AI rahbari Aleksandr Vang shaxsiy yordamchilar foydalanuvchilar aytishidan oldin ularning aytilmagan istaklarini payqashi kerakligini bildirdi. Uning fikricha, texnologiya inson ehtiyojlarini oldindan anglashga yo‘naltirilishi lozim.",
+    "tags": [
+      "Meta"
+    ],
+    "importance": 2,
+    "score": -3.7,
+    "published": "2026-09-25T23:16:18.000Z",
+    "created": "2026-09-27T14:01:42.970Z",
+    "coverage": 1,
+    "source": {
+      "name": "ababnews.com",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBPVlZLZFNYVjRYellQTTZsMlBISkM0a0xlQ2F3UmIzX2J2Y2ctMHVaeVphdzVyaWc1b19vaGhyTVBUSjZodnBkeEloX0NGb3ZFeGJmMjJwV2ltb0ZoQWJuWkY3akdWRy10V0Z5UHQ1MW1jM0ti",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "dd624a686cd7",
     "slug": "ai-skrining-yoshlarni-kiberjinoyatga-undamoqda-dd624a",
     "title": "AI-skrining yoshlarni kiberjinoyatga undamoqda",
