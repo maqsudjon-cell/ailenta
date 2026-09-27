@@ -1,5 +1,115 @@
 [
   {
+    "id": "aa15e48e83cc",
+    "slug": "avstraliya-aqshdan-ai-markazlariga-norozilikni-olmoqda-aa15e4",
+    "title": "Avstraliya AQSHdan AI markazlariga norozilikni olmoqda",
+    "summary": "Avstraliyalik amaldorlar va biznes rahbarlari AI ma'lumot markazlariga qarshi jamoatchilik noroziligini AQSHdan o'zlashtirilgan deb hisoblamoqda. Ular Avstraliyadagi qurilish ko'lami kichikroq, tartibga solingan va AQSHnikidan kamroq zararli ekanligini ta'kidlamoqda.",
+    "tags": [
+      "siyosat",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 23,
+    "published": "2026-09-26T22:00:47.000Z",
+    "created": "2026-09-27T03:37:07.128Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/australia-news/2026/sep/26/australia-datacentre-backlash",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "7777e4571374",
+    "slug": "google-hindistonda-flipkartdan-xarid-qilishni-sinovdan-otkaz-7777e4",
+    "title": "Google Hindistonda Flipkart'dan xarid qilishni sinovdan o'tkazmoqda",
+    "summary": "Google Hindistonda Walmart'ga tegishli Flipkart'dan Gemini va AI rejimi orqali xarid qilishni sinovdan o'tkazmoqda. Cheklangan sinov tanlangan mahsulotlar va foydalanuvchilarni qamrab oladi, kengroq joriy etish oktyabr oyiga rejalashtirilgan.",
+    "tags": [
+      "Google",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 18,
+    "published": "2026-09-27T01:30:00.000Z",
+    "created": "2026-09-27T03:37:07.129Z",
+    "coverage": 1,
+    "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "8d2dd1b52d82",
+    "slug": "ai-modellarining-ixtisoslashuvi-va-claudening-ustunligi-8d2dd1",
+    "title": "AI modellarining ixtisoslashuvi va Claude'ning ustunligi",
+    "summary": "BotHub agregatori asoschisi AI modellarining ixtisoslashuvi haqida fikr bildirdi. Uning so'zlariga ko'ra, barcha matnli neyrotarmoqlar Google tomonidan ishlab chiqilgan transformer texnologiyasiga asoslangan. Dasturlash uchun eng yaxshi va BotHub'da eng mashhur model Anthropic'ning Claude'idir.",
+    "tags": [
+      "Anthropic",
+      "Google"
+    ],
+    "importance": 2,
+    "score": 17,
+    "published": "2026-09-27T03:13:51.000Z",
+    "created": "2026-09-27T03:37:07.129Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/companies/bothub/articles/1087042",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "c07eab97614f",
+    "slug": "ai-chip-bozori-2030-yilga-860-mlrdga-yetishi-kutilmoqda-c07eab",
+    "title": "AI chip bozori 2030-yilga $860 mlrd'ga yetishi kutilmoqda",
+    "summary": "Ma'lumot markazlari uchun AI chip bozori 2030-yilga kelib 860 milliard dollarga yetishi prognoz qilinmoqda. Bu prognoz Aju Press tomonidan e'lon qilindi.",
+    "tags": [
+      "chiplar",
+      "iqtisod"
+    ],
+    "importance": 4,
+    "score": 10,
+    "published": "2026-09-27T00:53:41.000Z",
+    "created": "2026-09-27T03:37:07.129Z",
+    "coverage": 1,
+    "source": {
+      "name": "Aju Press",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9VX2tuR1htanB1ZmJPUjFpWDNvQTRNYTc3bHY4NFc4QUZaMWJsMFNLYjdTa1BiTXk3UXZPbFBPSUJEOHBXTXBabFM0SklYN2szcWF2R1VZRdIBV0FVX3lxTE9VX2tuR1htanB1ZmJPUjFpWDNvQTRNYTc3bHY4NFc4QUZaMWJsMFNLYjdTa1BiTXk3UXZPbFBPSUJEOHBXTXBabFM0SklYN2szcWF2R1VZRQ",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "6d9d254ed2aa",
+    "slug": "fbi-malumoti-bilan-ai-zahar-fitnasida-osmir-hibsga-olindi-6d9d25",
+    "title": "FBI ma'lumoti bilan AI zahar fitnasida o'smir hibsga olindi",
+    "summary": "FBI ma'lumoti tufayli pokistonlik o'smir AI zahar fitnasida hibsga olindi. Bu haqda The Media Line xabar berdi.",
+    "tags": [
+      "xavfsizlik",
+      "qonun"
+    ],
+    "importance": 4,
+    "score": 7,
+    "published": "2026-09-26T21:49:18.000Z",
+    "created": "2026-09-27T03:37:07.129Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Media Line",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORFlkMkpuelNwN3hPVEtPRURRaUtkcy02NmRyTmhCblkxbE9ja1BFWmY2OU1YdW9FX3NzQ2s3bFY2cVBZcS1JdVl6YWFLUmsxRTBKbXpYWUR1amo1NGNyV3EzZGJIU0ZnbUlUSXREVWg2SHlnV0pJT2w1Rk5iRzRUOERjUVFIbWZiWmNoRHRoNFQtVmhCOTY5QTJpUQ",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "a5fcd3c1dbb4",
     "slug": "ai-hamma-uchun-mavjud-bolganda-it-kompaniyalar-qanday-yashay-a5fcd3",
     "title": "AI hamma uchun mavjud bo'lganda IT kompaniyalar qanday yashaydi",
