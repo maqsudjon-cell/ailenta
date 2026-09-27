@@ -1,5 +1,113 @@
 [
   {
+    "id": "d0395fc3af7a",
+    "slug": "walmart-ai-shaxsiy-malumotlardan-narx-belgilashda-foydalanma-d0395f",
+    "title": "Walmart AI shaxsiy ma'lumotlardan narx belgilashda foydalanmaydi",
+    "summary": "Walmart bosh direktori kompaniya va uning AI xarid yordamchisi narxlarni belgilashda shaxsiy ma'lumotlardan foydalanmasligini aytdi. Uning so'zlariga ko'ra, xarid vaqti yoki sharoiti narxni oshirish uchun sabab bo'lmasligi kerak. Bu raqamli yorliqlar joriy etilishi fonida ma'lum qilindi.",
+    "tags": [
+      "biznes",
+      "maxfiylik"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-09-27T20:53:52.000Z",
+    "created": "2026-09-27T21:41:35.582Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/09/27/walmart-ceo-ai-shopping-assistant-personal-information-prices-digital-labels",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "93164ff16076",
+    "slug": "engram-ai-toqib-chiqarishdan-musiqa-yaratuvchi-sampler-93164f",
+    "title": "Engram AI to'qib chiqarishdan musiqa yaratuvchi sampler",
+    "summary": "Thoughtful Things startapi Engram nomli yangi musiqa asbobini Kickstarterda ishga tushirdi. Bu AI yordamida kiruvchi audioni o'zgartirib, yangi tovushlarni to'qib chiqaradigan sampler va groovebox. Engram tayyor qo'shiqlar yaratishga mo'ljallanmagan.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-09-27T20:46:36.000Z",
+    "created": "2026-09-27T21:41:35.582Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Verge",
+      "url": "https://theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "7baa9cabf8e5",
+    "slug": "ollivo-lokal-aini-python-cuda-va-terminalsiz-ishga-tushirish-7baa9c",
+    "title": "Ollivo: lokal AI'ni Python, CUDA va terminalsiz ishga tushirish",
+    "summary": "Dasturchi Python, CUDA va terminalsiz lokal neyron tarmoqlarni ishga tushiruvchi Ollivo dasturini yaratdi. Uning tajribasiga ko'ra, Vulkan GTX 1080'da CUDA'dan tezroq ishlaydi. Shuningdek, Qwen modeli ruscha matnga xitoycha so'zlarni qo'shishi aniqlangan.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 14,
+    "published": "2026-09-27T20:43:53.000Z",
+    "created": "2026-09-27T21:41:35.582Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1087242",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "b1a4c95b40d7",
+    "slug": "yandex-aliceai-foundation-modelining-xulosa-chiqarish-narxi-b1a4c9",
+    "title": "Yandex AliceAI-Foundation modelining xulosa chiqarish narxi",
+    "summary": "Habr foydalanuvchilari Yandex'ning AliceAI-Foundation-80B-A3B-Base modelini muhokama qilmoqda. Bir dasturchi ushbu modelda xulosa chiqarish narxini aniqlashga harakat qildi. Buning uchun 4 ta A100 GPU kerak bo'lishi mumkinligi aytildi.",
+    "tags": [
+      "Yandex",
+      "bulut"
+    ],
+    "importance": 2,
+    "score": 11,
+    "published": "2026-09-27T20:44:37.000Z",
+    "created": "2026-09-27T21:41:35.582Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1087244",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "f1218ce5a976",
+    "slug": "anthropic-prezidenti-daniela-amodei-forbes-400-royxatida-f1218c",
+    "title": "Anthropic prezidenti Daniela Amodei Forbes 400 ro'yxatida",
+    "summary": "Anthropic prezidenti Daniela Amodei 15,5 milliard dollarlik boyligi bilan Forbes 400 ro'yxatiga kirdi. Bu uning moliyaviy muvaffaqiyatini ko'rsatadi.",
+    "tags": [
+      "Anthropic",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 7,
+    "published": "2026-09-27T11:03:02.000Z",
+    "created": "2026-09-27T21:41:35.582Z",
+    "coverage": 1,
+    "source": {
+      "name": "tokenpost.com",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5yUmdzcHl2R0xOWGg0RnZLVnNKdHVlYUtMckJJRFRWOXJzT05UT3V5MktIZnRFTlRVZEMzc0hzRERBT3FBdEE5YTV6VDc4V1VaSnZhZll3",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "740c146c9399",
     "slug": "bill-geyts-ai-xavfsizlik-choralariga-ega-bolishi-shart-dedi-740c14",
     "title": "Bill Geyts AI xavfsizlik choralariga ega bo'lishi shart dedi",
