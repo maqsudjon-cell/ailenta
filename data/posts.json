@@ -1,5 +1,98 @@
 [
   {
+    "id": "a1d0a068e0ea",
+    "slug": "shahar-atrofi-poyezdlariga-chipta-xarid-qilish-uchun-mobil-i-a1d0a0",
+    "title": "Shahar atrofi poyezdlariga chipta xarid qilish uchun mobil ilova ishlab chiqildi",
+    "summary": "Yangi mobil ilova orqali shahar atrofi poyezdlari uchun chipta xarid qilish mumkin. Ilova yo‘nalishni tanlash va poyezdlar qatnovi haqida maʼlumot olish imkonini beradi.",
+    "tags": [
+      "O'zbekiston",
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 45,
+    "published": "2026-09-28T11:26:06.000Z",
+    "created": "2026-09-28T12:03:18.740Z",
+    "coverage": 1,
+    "source": {
+      "name": "Daryo",
+      "url": "https://daryo.uz/2026/09/28/shahar-atrofi-poyezdlariga-chipta-xarid-qilish-uchun-mobil-ilova-ishlab-chiqildi",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "39cd15006def",
+    "slug": "ai-oqituvchilar-ishini-baholashda-stressga-sabab-bolmoqda-39cd15",
+    "title": "AI o'qituvchilar ishini baholashda stressga sabab bo'lmoqda",
+    "summary": "Multiverse kompaniyasida AI o'qituvchilarning darslarini kuzatib, baholamoqda. Bu tizim xodimlarda kuchli stress va doimiy kuzatuv hissini uyg'otmoqda.",
+    "tags": [
+      "mehnat bozori",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 26,
+    "published": "2026-09-28T11:57:57.000Z",
+    "created": "2026-09-28T12:03:18.741Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/technology/2026/sep/28/teachers-euan-blair-firm-report-horrendous-stress-ai-used-to-rate-their-work",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "098f910791da",
+    "slug": "nvidia-hugging-face-xakerligidan-song-ai-xavfsizlik-vositala-098f91",
+    "title": "Nvidia Hugging Face xakerligidan so'ng AI xavfsizlik vositalarini chiqardi",
+    "summary": "Nvidia Hugging Face'dagi xakerlik hujumidan keyin AI xavfsizlik vositalarini taqdim etdi. Kompaniya bu vositalar shunday hujumlarning oldini olishi mumkinligini bildirdi.",
+    "tags": [
+      "Nvidia",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-09-28T10:47:58.000Z",
+    "created": "2026-09-28T12:03:18.741Z",
+    "coverage": 2,
+    "source": {
+      "name": "Latest news from Azerbaijan",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbFdZMDNsSGdUVjFtaWtIWGtTaFZuaFM3SG14d0pVV1ZQNEFxa2lNa1djSjBQRTE1OFBiclVJMEIxYU0tYkRWMHg2MkY5cndXcXVMOUZxOHhud3JycGY1aTVaTFIzMzVYR3JUNFhlM1RTbFUzRnJwSDhrTU8zcWNpRmFn",
+      "indirect": true
+    },
+    "also": [
+      {
+        "name": "WSAU",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONkszWkQtVjU1MHRHbGhZMFhNZHNjQXAyaUZGclVhc3FrMEJ2dVJfMFVmZzZmMU5hVEFzQVdfVUk4bFdYSVBydEdIOVNjSjNsYWs3Y09YM1pMd09CaHJsalhlT2plRjk5aTVXN2YyV1ZSbGVVT2h0WHJ4UllCYjhRU0VCTUVScUR5YkFZb1QzLWdSSUg4MFZrTkJCbGp3cWpIeFNiaTJZRmdIS1pZ"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "08ba6490305a",
+    "slug": "instinct-ai-agenti-sayohat-rejalashtirishda-foydalanuvchini--08ba64",
+    "title": "Instinct AI agenti sayohat rejalashtirishda foydalanuvchini zeriktirdi",
+    "summary": "Instinct AI agenti ish safari uchun byudjetni tez tuzdi, ammo ta'til rejalari ustida bir soat ishladi. Foydalanuvchi AI'ning sayohat rejalashtirish usulidan norozi bo'ldi.",
+    "tags": [
+      "agentlar",
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 18,
+    "published": "2026-09-28T10:58:18.000Z",
+    "created": "2026-09-28T12:03:18.741Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/instinct-ai-agent-plan-travel-dull-mistake-vacation-work-trip-2026-9",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "99c8af84e95a",
     "slug": "ai-agentlari-uchun-markazlashgan-skill-omborlari-99c8af",
     "title": "AI agentlari uchun markazlashgan skill omborlari",
