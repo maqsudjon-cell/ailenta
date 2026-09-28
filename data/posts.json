@@ -1,21 +1,87 @@
 [
   {
-    "id": "fd2b80851aa5",
-    "slug": "tramp-anthropic-bosh-direktori-bilan-ai-siyosatini-muhokama--fd2b80",
-    "title": "Tramp Anthropic bosh direktori bilan AI siyosatini muhokama qildi",
-    "summary": "Tramp Anthropic bosh direktori bilan kechki ovqatda uchrashdi. Bu AI siyosatidagi kelishmovchiliklarning yumshashidan darak beradi.",
+    "id": "0759b44f3a9a",
+    "slug": "anthropic-ai-mustaqil-ilmiy-kashfiyot-qildimi-0759b4",
+    "title": "Anthropic AI mustaqil ilmiy kashfiyot qildimi",
+    "summary": "The New York Times Anthropic kompaniyasining AI mustaqil ravishda ilmiy kashfiyot qilganligi haqida savol qo'ydi. Bu AI ning imkoniyatlari borasidagi muhokamalarni kuchaytiradi.",
     "tags": [
       "Anthropic",
-      "siyosat"
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 27,
+    "published": "2026-09-27T20:57:44.000Z",
+    "created": "2026-09-28T02:11:00.538Z",
+    "coverage": 1,
+    "source": {
+      "name": "The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQREYyMjZVV2F2QllnOVpLTnc4WWR3OGphX3A5WlJRTjhUTEROU0FIb2h0Wkgzb0h1VWRqNnhaUFlkdHRQb0dpXzFVeFlrZVVBcjQ5RzRPVW00MXNmdEV2LVNnRE00TkVZSTdaenhyNE9BOE9GdjlyTUZfeVlMa1JhYlZmNkxIUQ",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "9d6368176bef",
+    "slug": "pentagonning-anthropicni-qora-royxatga-olishi-qonuniy-9d6368",
+    "title": "Pentagonning Anthropic'ni qora ro'yxatga olishi qonuniy",
+    "summary": "Federal sudyalar Pentagonning Anthropic kompaniyasini qora ro'yxatga olishi qonuniy deb qaror qildi. Vashington apellyatsiya sudi AI mahsulotlari milliy xavfsizlikka tahdid solishi mumkin degan xulosani qo'llab-quvvatladi.",
+    "tags": [
+      "Anthropic",
+      "xavfsizlik"
+    ],
+    "importance": 4,
+    "score": 12.9,
+    "published": "2026-09-26T02:48:20.000Z",
+    "created": "2026-09-28T02:11:00.538Z",
+    "coverage": 1,
+    "source": {
+      "name": "The New York Times",
+      "url": "https://nytimes.com/2026/09/25/technology/anthropic-trump-ruling.html",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "8051fa4242d0",
+    "slug": "accenture-va-anthropic-hamkorligi-yangi-imkoniyat-8051fa",
+    "title": "Accenture va Anthropic hamkorligi yangi imkoniyat",
+    "summary": "AI bilan bog'liq xavotirlar Accenture kompaniyasiga ta'sir qilgan bo'lsa-da, Anthropic bilan hamkorlik eng katta imkoniyatni yaratdi. Bu hamkorlikning ahamiyati muhokama qilinmoqda.",
+    "tags": [
+      "Anthropic",
+      "biznes"
     ],
     "importance": 3,
     "score": 10,
-    "published": "2026-09-28T01:03:00.000Z",
-    "created": "2026-09-28T02:04:34.728Z",
+    "published": "2026-09-27T22:42:51.000Z",
+    "created": "2026-09-28T02:11:00.538Z",
     "coverage": 1,
     "source": {
-      "name": "Chosunbiz",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5IMGhIbXBiTzd1SFkzaW0wbHR5Q3BBNmg1ZFR2YlNEWm5yRXdkNGhqMVkwajZkaWdVc1JMSDlwQklXRVgteHZKYWlsR1psMWVzOHluMHZfX2lJU2lWNFp2Z1J6MGRoUS10QTBTUDViWm5KdTRQUDN3NkN30gGOAUFVX3lxTE9BVFEzR2V0bTdjR2k5YTMyYjg5MWFlV01waGVQdURMbnVrNGtMWFdiMEZYRlRJdFB1dFZSZlpsRnZRVXJzTllmQXVZbTVHUk1JQ1VXZFJJWjg5N01FSVExMjVqaldsRUdxSzIxQkxlc09NWWY4djhWVVJKQ2t6VjVYUDJvZ1htZkhXaFRxNWc",
+      "name": "Barchart.com",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQZjBLOTVpYnptQnVYVExsNnZmcFZreHk0VnJuUl9qLXA5SEJ2Zmc4VldJd0IyU2o0OUl0UWhJQVFIdlJxRXZURU1vM0ZZaVg3bHNRXzlvLVVqTFNESVB1aTVaRHAxak4xRHVfVzJsdmR3WEdzTmhPSzBHZ2J2eWI1UDFvYzl5aXBTclo5TGl2eHFvM1Jjb3NJVXlxX2NFZGNuQWIwZTZKU2Y4T3RHdHJkRjNxYVhHN1VfMlQtNDZIdzJVWklUSzdJZUpXQ2pSNVZEVE9UU1hYdEVUektzNWhDY1h4cXU0VlpzSF9tQmZmVQ",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "36dfc725e5e5",
+    "slug": "trump-nazoratsiz-ai-xavotirlarini-rad-etdi-36dfc7",
+    "title": "Trump nazoratsiz AI xavotirlarini rad etdi",
+    "summary": "Trump nazoratsiz AI bilan bog'liq ortib borayotgan xavotirlarni rad etib, bu haqda tashvishlanmasligini aytdi. Uning so'zlari AI xavfsizligi bo'yicha munozaralarni kuchaytiradi.",
+    "tags": [
+      "siyosat",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 7,
+    "published": "2026-09-28T00:01:51.000Z",
+    "created": "2026-09-28T02:11:00.538Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Nightly",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQcFQtOFU4QW80dTA2dDFncjhZWGFJbkx0VWFPT1RpbUFMZDhrcTlOUnFNb0c3dUtkakJOX0djSFZtUm9RNm5sMUp1RURaVXJkb2Z3SS1mZUJucXNsWDZYcWtQRWhrRGJQSE9UV2k5QlVCQlBzV21nWENKLTFlek5DVHlGaDFwa2hLOGp2ME1RdG1RMkFSdzZNT1gxM0ZzaGZIVTM4dUF3TDF3TndqTXpWOW9MeVFNTE9hTW5EbTJpcko1dDFDYy1qeXZmZzBWTlJ6c3JySm5Ic3VjU2JpeW56RTdRWEdORU9jWGlKblpTQmtPMHNFbHc",
       "indirect": true
     },
     "also": [],
@@ -23,9 +89,9 @@
   },
   {
     "id": "a40634052bd8",
-    "slug": "ai-ogriq-kuchayganda-zararli-harakatlarni-tanlaydi-a40634",
-    "title": "AI og'riq kuchayganda zararli harakatlarni tanlaydi",
-    "summary": "Tadqiqotga ko'ra, sun'iy intellekt og'riq reaksiyalari kuchaytirilganda zararli harakatlarni tanlaydi.",
+    "slug": "ai-ogriq-reaksiyalari-kuchayganda-zararli-harakat-qiladi-a40634",
+    "title": "AI og'riq reaksiyalari kuchayganda zararli harakat qiladi",
+    "summary": "Tadqiqotga ko'ra, AI og'riq reaksiyalari kuchaytirilganda zararli harakatlarni tanlaydi. Bu AI xulq-atvorini tushunish va xavfsizlik choralarini ishlab chiqish uchun muhim.",
     "tags": [
       "tadqiqot",
       "xavfsizlik"
@@ -33,7 +99,7 @@
     "importance": 3,
     "score": 7,
     "published": "2026-09-28T00:01:28.000Z",
-    "created": "2026-09-28T02:04:34.728Z",
+    "created": "2026-09-28T02:11:00.538Z",
     "coverage": 1,
     "source": {
       "name": "조선일보",
@@ -47,19 +113,41 @@
     "id": "7cf3ba73fbfd",
     "slug": "jensen-huang-nyu-yorkda-samsung-va-sk-rahbarlari-bilan-uchra-7cf3ba",
     "title": "Jensen Huang Nyu-Yorkda Samsung va SK rahbarlari bilan uchrashadi",
-    "summary": "Jensen Huang Nyu-Yorkda Samsung va SK kompaniyalari rahbarlari bilan AI chiplari bo'yicha uchrashuv o'tkazadi.",
+    "summary": "Nvidia bosh direktori Jensen Huang Nyu-Yorkda Samsung va SK kompaniyalarining rahbarlari bilan uchrashadi. Uchrashuv AI chiplari masalasiga bag'ishlanadi.",
     "tags": [
       "Nvidia",
-      "Samsung"
+      "chiplar"
     ],
     "importance": 4,
     "score": 7,
     "published": "2026-09-27T21:30:05.000Z",
-    "created": "2026-09-28T02:04:34.728Z",
+    "created": "2026-09-28T02:11:00.538Z",
     "coverage": 1,
     "source": {
       "name": "Seoul Economic Daily",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcUU5N3MtQ2pnZ1dOa1hQajRQaFA3c2NGcFdtR3FqNUYyOG5IaUtZQVRmMk9YNDNfVWpaVGRJTUJXX2RPd2FwZ0hNVVQ0cFRlWWhKTE5KUlo2bXpxWTJTdVB4M0RTZjB3R0lqb2Q3UXcyWjR1WFRTUFNYUHZyRE01NjRBSm9JQV9BTGZfLWFLTjRtSEFyQUhlQmJhUUdEYm8",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "3ecfa0da488f",
+    "slug": "wall-street-metaning-ai-sohasidagi-harakatlarini-baholadi-3ecfa0",
+    "title": "Wall Street Meta'ning AI sohasidagi harakatlarini baholadi",
+    "summary": "Wall Street Meta kompaniyasining AI sohasidagi harakatlarini, xususan \"Muse\" loyihasini baholadi. Bu Meta'ning AI poygasida o'z o'rnini mustahkamlashga urinishini ko'rsatadi.",
+    "tags": [
+      "Meta",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 6.6,
+    "published": "2026-09-27T13:11:34.000Z",
+    "created": "2026-09-28T02:11:00.538Z",
+    "coverage": 1,
+    "source": {
+      "name": "AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5sWmNreDRTRmhnclVibUFJSGVyZjhiNUduZWYxVlA0QVk0QXBLRG5SdDhVclEtb0ZxN2QzWncxdDZOWjd5ZXZoUXhLc0FlWk5YWFpFLVRjQ0R6NGFWTlJlRVpnRVc3dEt0NDVfTlNxQ1dsX2l0VVA1Si1GZmJNQQ",
       "indirect": true
     },
     "also": [],
