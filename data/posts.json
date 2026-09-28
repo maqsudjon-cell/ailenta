@@ -1,5 +1,207 @@
 [
   {
+    "id": "df352ffaa2a1",
+    "slug": "mgx-osiyo-tinch-okeanida-malumot-markazlari-izlamoqda-df352f",
+    "title": "MGX Osiyo-Tinch okeanida ma'lumot markazlari izlamoqda",
+    "summary": "MGX fondi Osiyo-Tinch okeani mintaqasida ma'lumot markazlari aktivlarini qidirmoqda. U BlackRock tomonidan qo'llab-quvvatlanadigan AI infratuzilma hamkorligiga sarmoyador hisoblanadi.",
+    "tags": [
+      "biznes",
+      "bulut"
+    ],
+    "importance": 3,
+    "score": 28,
+    "published": "2026-09-28T13:49:45.000Z",
+    "created": "2026-09-28T15:36:25.515Z",
+    "coverage": 2,
+    "source": {
+      "name": "Semafor",
+      "url": "https://semafor.com/article/09/28/2026/mgx-looks-for-data-center-assets-in-the-asia-pacific",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "Asia Business Outlook",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObnlRbTNYd05QZUlVeS1nOFFwTkd0ZzJ3UURPMzZjamFqU0h5Y2tocTBsTUdsUnRmOUpIR0ltbXhtTGRDejNfcUhobHdLa0tnRHBONzlZZHRvWGR0dnNvU1R3QW5EcmNLOEQ1M3BRTFlFcHNselRUaTF1djJZYm42dlVsNUExVW82SEFtXzV2MlNTdENVQ0xmaFpkc19SeDZKYlpIdXowWVgzaXpWM3NOczZhd0RTLVZfMXQtMGplOG8wUQ"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "10c14ae22986",
+    "slug": "ai-takomillashuvi-harakat-imkoniyatini-yopishi-mumkin-10c14a",
+    "title": "AI takomillashuvi harakat imkoniyatini yopishi mumkin",
+    "summary": "AI sohasining kashshoflari sun'iy intellekt o'zini takomillashtira boshlasa, insoniyat uchun harakat qilish imkoniyati yopilishi mumkinligidan ogohlantirmoqda.",
+    "tags": [
+      "xavfsizlik",
+      "tadqiqot"
+    ],
+    "importance": 4,
+    "score": 23,
+    "published": "2026-09-28T15:01:30.000Z",
+    "created": "2026-09-28T15:36:25.515Z",
+    "coverage": 1,
+    "source": {
+      "name": "Axios",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9xS2R1eURZZUgyTTgtbnpUSVVXQjBZNTBLUFhpT2tnS3dCNEREem9EQy1YNk5aQjFoVUJaTzVlNjNmWUs0T0FnS2RybDFBMmpaLVQ1Rno0WWVCaDNZbF93SGpvZ2NKYnRRczQ5TVcwV1hTdzUteFE",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "618c37c2e0a2",
+    "slug": "psixolog-ai-xavfsizligi-uchun-amaliy-yondashuvga-chaqirdi-618c37",
+    "title": "Psixolog AI xavfsizligi uchun amaliy yondashuvga chaqirdi",
+    "summary": "Garvard psixologi Stiven Pinker AI bilan bog'liq qiyomat kunlari haqidagi gap-so'zlarni bo'rttirilgan deb hisoblaydi. U mustaqil nazorat, javobgarlik va inson nazoratiga asoslangan amaliy xavfsizlik muhandisligini talab qilmoqda.",
+    "tags": [
+      "xavfsizlik",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-09-28T15:32:57.000Z",
+    "created": "2026-09-28T15:36:25.515Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/harvard-psychologist-calls-for-sober-ai-safety-engineering-over-doomsday-rhetoric",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "e2b386d85c6d",
+    "slug": "deepfake-tovushdan-song-ai-startapi-tashkil-etildi-e2b386",
+    "title": "Deepfake tovushdan so'ng AI startapi tashkil etildi",
+    "summary": "Bobosi deepfake tovush orqali aldanganidan so'ng, Tarini Padmanabhuni DetectifAI startapiga asos soldi. Bu kompaniya smartfonlarda real vaqtda soxta ovozlarni aniqlaydigan AI modellarini yaratmoqda.",
+    "tags": [
+      "xavfsizlik",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-09-28T15:00:00.000Z",
+    "created": "2026-09-28T15:36:25.515Z",
+    "coverage": 1,
+    "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/28/after-a-deepfake-voice-fooled-her-grandfather-this-founder-sprang-into-action",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "56f68bc91612",
+    "slug": "meta-korxonalar-uchun-ai-xizmatlarini-sotadi-56f68b",
+    "title": "Meta korxonalar uchun AI xizmatlarini sotadi",
+    "summary": "Meta kompaniyasi korxonalarga AI vositalarini sotish uchun Meta Enterprise Platform nomli yangi biznes bo'linmasini ishga tushirmoqda.",
+    "tags": [
+      "Meta",
+      "biznes"
+    ],
+    "importance": 4,
+    "score": 15,
+    "published": "2026-09-28T14:48:26.000Z",
+    "created": "2026-09-28T15:36:25.516Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/meta-wants-to-turn-muse-into-a-moneymaker-by-selling-ai-services-to-businesses",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "61a105412198",
+    "slug": "robot-itlar-fermer-xojaliklarida-qollanilmoqda-61a105",
+    "title": "Robot itlar fermer xo'jaliklarida qo'llanilmoqda",
+    "summary": "Ilgari yuqori xavfsizlik ob'ektlarida ishlatilgan robot itlar endi fermer xo'jaliklarida ham qo'llanilmoqda. Ular faqat qo'riqlashdan tashqari boshqa vazifalarni ham bajaradi.",
+    "tags": [
+      "robototexnika"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-09-28T14:45:00.000Z",
+    "created": "2026-09-28T15:36:25.516Z",
+    "coverage": 1,
+    "source": {
+      "name": "Engadget",
+      "url": "https://engadget.com/2268588/farmers-new-job-for-robot-dogs",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "4108afa73c95",
+    "slug": "modulate-25m-sarmoya-jalb-qildi-4108af",
+    "title": "Modulate $25M sarmoya jalb qildi",
+    "summary": "Bostonlik Modulate startapi $25 million sarmoya jalb qildi. Kompaniya korxonalar uchun transkripsiya, emotsional tahlil va deepfake aniqlash kabi xizmatlarni kichik AI modellaridan foydalanib taqdim etadi.",
+    "tags": [
+      "biznes",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-09-28T14:35:02.000Z",
+    "created": "2026-09-28T15:36:25.516Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/260928/p26",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "4133fd226b22",
+    "slug": "outmarket-34-5m-sarmoya-jalb-qildi-4133fd",
+    "title": "Outmarket $34.5M sarmoya jalb qildi",
+    "summary": "Insuretech startapi Outmarket $34.5 million sarmoya jalb qildi. Kompaniya sug'urta agentliklari va brokerlari uchun zerikarli hujjat ishlarini AI yordamida avtomatlashtiradi.",
+    "tags": [
+      "biznes",
+      "iqtisod"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-09-28T14:00:00.000Z",
+    "created": "2026-09-28T15:36:25.516Z",
+    "coverage": 1,
+    "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/28/insuretech-outmarket-raises-34-5m-just-months-after-prior-round",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "85e870bd26b1",
+    "slug": "aqsh-hukumati-hujjatlarni-tahrirlashda-aidan-foydalanadi-85e870",
+    "title": "AQSH hukumati hujjatlarni tahrirlashda AI'dan foydalanadi",
+    "summary": "AQSH hukumati hujjatlarni tahrirlashda sun'iy intellektdan foydalanishni rejalashtirmoqda. Bu FOIA so'rovlari bo'yicha ko'proq ma'lumotlarning yashirilishiga olib kelishi mumkin.",
+    "tags": [
+      "siyosat",
+      "maxfiylik"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-09-28T11:25:54.000Z",
+    "created": "2026-09-28T15:36:25.516Z",
+    "coverage": 1,
+    "source": {
+      "name": "Engadget",
+      "url": "https://engadget.com/2270348/the-us-government-plans-to-use-ai-to-help-redact-documents",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "0bb3d23d98b8",
     "slug": "xivada-xitoy-universiteti-filiali-ochiladi-0bb3d2",
     "title": "Xivada Xitoy universiteti filiali ochiladi",
