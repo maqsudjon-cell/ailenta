@@ -1,5 +1,182 @@
 [
   {
+    "id": "9d5c72f467eb",
+    "slug": "toshkentda-yashirin-onlayn-qimor-platformasi-faoliyati-to-xt-9d5c72",
+    "title": "Toshkentda yashirin onlayn qimor platformasi faoliyati to‘xtatildi",
+    "summary": "Toshkentda konsalting xizmati niqobi ostida onlayn qimor o‘yinlarini tashkil etgan guruh faoliyatiga chek qo‘yildi. Ushbu ish bo‘yicha 11 kishi ushlandi.",
+    "tags": [
+      "O'zbekiston",
+      "qonun"
+    ],
+    "importance": 3,
+    "score": 41,
+    "published": "2026-09-28T17:50:00.000Z",
+    "created": "2026-09-28T21:25:17.618Z",
+    "coverage": 1,
+    "source": {
+      "name": "UzDaily",
+      "url": "https://uzdaily.uz/uz/toshkentda-yashirin-onlayn-qimor-oyinlari-platformasi-faoliyatiga-chek-qoyildi",
+      "title": "Toshkentda yashirin onlayn qimor o‘yinlari platformasi faoliyatiga chek qo‘yildi",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "bf0fe8cc388a",
+    "slug": "gpt-6-astra-soliq-hisobotini-tezroq-yakunladi-bf0fe8",
+    "title": "GPT-6 Astra soliq hisobotini tezroq yakunladi",
+    "summary": "GPT-6 Astra 50 tabli soliq hisobotini GPT-5.6 Sol'ga nisbatan ikki barobar tezroq yakunladi. Bu model foydalanuvchi niyatini yaxshiroq tushunadi, bu esa Basis kompaniyasiga ishonch beradi.",
+    "tags": [
+      "OpenAI",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 29.2,
+    "published": "2026-09-28T00:00:00.000Z",
+    "created": "2026-09-28T21:25:18.740Z",
+    "coverage": 1,
+    "source": {
+      "name": "OpenAI",
+      "url": "https://openai.com/index/basis-tax-workbook-with-astra",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "5e143e67c1ec",
+    "slug": "amd-world-labs-ai-firmasini-8-2-milliard-dollarga-sotib-olmo-5e143e",
+    "title": "AMD World Labs AI firmasini 8.2 milliard dollarga sotib olmoqda",
+    "summary": "AMD chip ishlab chiqaruvchisi Fei-Fei Li'ning World Labs AI firmasini 8.2 milliard dollarga sotib olmoqda. Kompaniya avvalroq World Labs'ga sarmoya kiritgan edi.",
+    "tags": [
+      "AMD",
+      "biznes"
+    ],
+    "importance": 4,
+    "score": 19,
+    "published": "2026-09-28T21:21:08.000Z",
+    "created": "2026-09-28T21:25:18.740Z",
+    "coverage": 1,
+    "source": {
+      "name": "CNBC",
+      "url": "https://cnbc.com/2026/09/28/amd-fei-fei-li-world-labs.html",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "123f4f21365d",
+    "slug": "nyu-york-shahri-musk-va-spacexaini-sudga-chaqirdi-123f4f",
+    "title": "Nyu-York shahri Musk va SpaceXAI'ni sudga chaqirdi",
+    "summary": "Nyu-York shahar kengashi Elon Musk va SpaceXAI'ga chaqiruv qog'ozi yubordi. Ulardan AI xavfsizligi bo'yicha tergovda guvohlik berish talab qilinmoqda.",
+    "tags": [
+      "xAI",
+      "qonun"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-09-28T21:08:05.000Z",
+    "created": "2026-09-28T21:25:18.740Z",
+    "coverage": 1,
+    "source": {
+      "name": "CNBC",
+      "url": "https://cnbc.com/2026/09/28/elon-musk-spacexai-subpoenaed-by-nyc-in-ai-safety-investigation.html",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "226b445e3117",
+    "slug": "ai-asoschilarni-eng-qiyin-ishlardan-qutqarmaydi-226b44",
+    "title": "AI asoschilarni eng qiyin ishlardan qutqarmaydi",
+    "summary": "Anduril asoschisi Palmer Luckey'ning aytishicha, AI texnik ishlarni avtomatlashtirishi mumkin. Biroq, asoschilar yuridik masalalar, xodimlar va asosiy biznes qarorlari uchun javobgar bo'lib qoladi.",
+    "tags": [
+      "biznes",
+      "mehnat bozori"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-09-28T21:16:57.000Z",
+    "created": "2026-09-28T21:25:18.740Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/palmer-luckey-says-ai-wont-make-founders-job-easy-2026-9",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "e22ca6006f19",
+    "slug": "disney-xodimlarni-aidan-yillik-baholashda-foydalanishga-unda-e22ca6",
+    "title": "Disney xodimlarni AI'dan yillik baholashda foydalanishga undamoqda",
+    "summary": "Disney kompaniyasi xodimlarni yillik ish baholash va maqsadlarni belgilashda AI'dan foydalanishga undamoqda. Kompaniya o'z-o'zini baholashda chatbotlardan yordam olishni tavsiya qilgan.",
+    "tags": [
+      "Disney",
+      "mehnat bozori"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-09-28T20:48:19.000Z",
+    "created": "2026-09-28T21:25:18.740Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/disney-ai-push-annual-performance-review-josh-damaro-2026-9",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "40744053d5ab",
+    "slug": "ai-agentlari-xarid-qilish-odatlarini-ozgartirishi-mumkin-407440",
+    "title": "AI agentlari xarid qilish odatlarini o'zgartirishi mumkin",
+    "summary": "Muse AI agentlari odamlar ulardan xarid qilish uchun foydalansa, Amazon'ga raqobatchi bo'lishi mumkin. Biroq, ko'pchilik odamlar AI agentlari orqali xarid qilishga unchalik qiziqmaydi.",
+    "tags": [
+      "agentlar",
+      "biznes"
+    ],
+    "importance": 1,
+    "score": 15,
+    "published": "2026-09-28T20:13:39.000Z",
+    "created": "2026-09-28T21:25:18.740Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/meta-muse-shopping-ecommerce-ads-mark-zuckerberg-2026-9",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "e488ebd8d98c",
+    "slug": "nations-technologies-va-siat-yangi-mcu-referansini-chiqardi-e488eb",
+    "title": "Nations Technologies va SIAT yangi MCU referansini chiqardi",
+    "summary": "Nations Technologies va SIAT 2026-yil 23-sentabrda N32H785 ikki yadroli MCU qo'shma-motor drayveri referansini chiqardi. U 20 N·m nominal va 60 N·m cho'qqi momentiga ega.",
+    "tags": [
+      "robototexnika",
+      "chiplar"
+    ],
+    "importance": 2,
+    "score": 14.3,
+    "published": "2026-09-28T07:43:52.000Z",
+    "created": "2026-09-28T21:25:18.740Z",
+    "coverage": 1,
+    "source": {
+      "name": "Pandaily",
+      "url": "https://pandaily.com/nations-technologies-siat-n32h785-humanoid-joint-motor-mcu",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "3382cafe99c9",
     "slug": "ai-xakerlikni-kuchaytirmoqda-muassasalar-tayyor-emas-3382ca",
     "title": "AI xakerlikni kuchaytirmoqda, muassasalar tayyor emas",

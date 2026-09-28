@@ -5,7 +5,7 @@
   <link>https://ailenta.uz/mavzu/robototexnika/</link>
   <description>&quot;robototexnika&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Mon, 28 Sep 2026 21:05:11 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 28 Sep 2026 21:30:08 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/robototexnika/rss.xml" rel="self" type="application/rss+xml"/>
   <item>
     <title>Robot itlar fermer xo'jaliklarida qo'llanilmoqda</title>
@@ -16,6 +16,16 @@
     <category>robototexnika</category>
     <media:content url="https://ailenta.uz/og/robot-itlar-fermer-xojaliklarida-qollanilmoqda-61a105.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/robot-itlar-fermer-xojaliklarida-qollanilmoqda-61a105.jpg"/>
+  </item>
+  <item>
+    <title>Nations Technologies va SIAT yangi MCU referansini chiqardi</title>
+    <link>https://ailenta.uz/x/nations-technologies-va-siat-yangi-mcu-referansini-chiqardi-e488eb/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/nations-technologies-va-siat-yangi-mcu-referansini-chiqardi-e488eb/</guid>
+    <pubDate>Mon, 28 Sep 2026 07:43:52 GMT</pubDate>
+    <description>Nations Technologies va SIAT 2026-yil 23-sentabrda N32H785 ikki yadroli MCU qo'shma-motor drayveri referansini chiqardi. U 20 N·m nominal va 60 N·m cho'qqi momentiga ega.</description>
+    <category>robototexnika</category><category>chiplar</category>
+    <media:content url="https://ailenta.uz/og/nations-technologies-va-siat-yangi-mcu-referansini-chiqardi-e488eb.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/nations-technologies-va-siat-yangi-mcu-referansini-chiqardi-e488eb.jpg"/>
   </item>
   <item>
     <title>Xitoy 2025-yilda sanoat robotlari o'rnatishda yetakchi</title>
@@ -296,16 +306,6 @@
     <category>O'zbekiston</category><category>robototexnika</category>
     <media:content url="https://ailenta.uz/og/o-zbekiston-va-koreya-hamkorligining-yangi-yo-nalishlari-85df44.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/o-zbekiston-va-koreya-hamkorligining-yangi-yo-nalishlari-85df44.jpg"/>
-  </item>
-  <item>
-    <title>UBTECH robotlar ishlab chiqaruvchi aqlli zavodni ochdi</title>
-    <link>https://ailenta.uz/x/ubtech-robotlar-ishlab-chiqaruvchi-aqlli-zavodni-ochdi-255c8d/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/ubtech-robotlar-ishlab-chiqaruvchi-aqlli-zavodni-ochdi-255c8d/</guid>
-    <pubDate>Mon, 14 Sep 2026 01:50:05 GMT</pubDate>
-    <description>UBTECH kompaniyasi Lyuchjou shahrida 14 ming kvadrat metrlik aqlli zavodni ishga tushirdi. Zavodda Walker S va Cruzr robotlari ishlab chiqariladi hamda yiliga 10 mingdan ortiq qurilma tayyorlash rejalashtirilgan.</description>
-    <category>robototexnika</category>
-    <media:content url="https://ailenta.uz/og/ubtech-robotlar-ishlab-chiqaruvchi-aqlli-zavodni-ochdi-255c8d.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/ubtech-robotlar-ishlab-chiqaruvchi-aqlli-zavodni-ochdi-255c8d.jpg"/>
   </item>
 </channel>
 </rss>
