@@ -1,5 +1,181 @@
 [
   {
+    "id": "99c8af84e95a",
+    "slug": "ai-agentlari-uchun-markazlashgan-skill-omborlari-99c8af",
+    "title": "AI agentlari uchun markazlashgan skill omborlari",
+    "summary": "Kompaniyalar AI agentlaridan faol foydalanmoqda, ammo ularning \"skill\"lari (ko'rsatmalari) turli joylarda tarqoq holda saqlanmoqda. Bu versiya nazorati va xavfsizlik muammolarini keltirib chiqaradi. Markazlashgan skill omborlari bu muammolarni hal qilishga yordam beradi.",
+    "tags": [
+      "agentlar",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 17,
+    "published": "2026-09-28T09:36:10.000Z",
+    "created": "2026-09-28T11:02:44.334Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1087464",
+      "title": "Централизованные хранилища скиллов (Skill registries)",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "b9f93ca1ef43",
+    "slug": "ai-yetakchilari-xavflarni-on-yillar-oldin-bilgan-b9f93c",
+    "title": "AI yetakchilari xavflarni o'n yillar oldin bilgan",
+    "summary": "Olimlar va tadbirkorlar AI xavflari haqida chorak asr oldin bilishgan, ammo qiziqish va foyda tufayli rivojlantirishni davom ettirishgan. So'nggi haftalarda AI ishlarni yo'qotish, ta'limni buzish va siyosatni buzish bilan bog'liq xavotirlarni kuchaytirdi.",
+    "tags": [
+      "xavfsizlik",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 32,
+    "published": "2026-09-28T10:00:31.000Z",
+    "created": "2026-09-28T11:02:52.615Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/commentisfree/2026/sep/28/ai-extinction-threats",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "ba148ff29ec8",
+    "slug": "ai-kosmik-kemalarga-avtonomiya-berdi-ba148f",
+    "title": "AI kosmik kemalarga avtonomiya berdi",
+    "summary": "NASA Anthropic'ning Claude modellaridan Marsdagi Perseverance roveri uchun yo'nalishlarni rejalashtirishda foydalandi. NASA va IBM Xalqaro kosmik stansiya hamda sun'iy yo'ldoshga siqilgan AI modelini joylashtirib, kosmosda toshqin va bulutlarni aniqlashni namoyish etdi.",
+    "tags": [
+      "Anthropic",
+      "tadqiqot"
+    ],
+    "importance": 4,
+    "score": 28,
+    "published": "2026-09-28T11:00:05.000Z",
+    "created": "2026-09-28T11:02:52.615Z",
+    "coverage": 1,
+    "source": {
+      "name": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/generative-ai-in-space-exploration",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "0196b8797db9",
+    "slug": "airbnb-bosh-direktori-ishga-olishga-kop-vaqt-sarflaydi-0196b8",
+    "title": "Airbnb bosh direktori ishga olishga ko'p vaqt sarflaydi",
+    "summary": "Airbnb bosh direktori Brian Chesky kuniga uch soatni ishga qabul qilishga sarflashini ma'lum qildi. U bu g'oyani ChatGPT rahbari Sem Altmandan olganini aytdi.",
+    "tags": [
+      "biznes",
+      "mehnat bozori"
+    ],
+    "importance": 1,
+    "score": 19,
+    "published": "2026-09-28T07:01:00.000Z",
+    "created": "2026-09-28T11:02:52.615Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/09/28/airbnb-ceo-brian-chesky-spends-three-hours-a-day-on-recruitment-hiring-managers-advice-sam-altman",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "edb7dcacefbc",
+    "slug": "cohere-mahalliy-ai-imkoniyatlari-rivojlanishi-shart-edb7dc",
+    "title": "Cohere: Mahalliy AI imkoniyatlari rivojlanishi shart",
+    "summary": "Cohere kompaniyasining bosh AI xodimi, agar mahalliy AI imkoniyatlari rivojlantirilmasa, AQSH va Xitoyning ta'siri kuchayishidan ogohlantirdi. Bu mahalliy texnologik suverenitetni ta'minlash muhimligini ko'rsatadi.",
+    "tags": [
+      "siyosat",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-09-28T10:45:52.000Z",
+    "created": "2026-09-28T11:02:52.615Z",
+    "coverage": 1,
+    "source": {
+      "name": "Sifted",
+      "url": "https://sifted.eu/articles/joelle-pineau-cohere-ai-sovereignty",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "b2b32fff4b01",
+    "slug": "xitoy-sudi-ai-ishlab-chiqarish-xarajatlarini-hisobga-oldi-b2b32f",
+    "title": "Xitoy sudi AI ishlab chiqarish xarajatlarini hisobga oldi",
+    "summary": "Xitoyning Uxan shahridagi sud birinchi marta mualliflik huquqini buzish ishlarida AI ishlab chiqarish xarajatlarini huquqiy omil sifatida hisobga oldi. Bu qaror AI tomonidan yaratilgan asarlar uchun mualliflik huquqini himoya qilishga qaratilgan.",
+    "tags": [
+      "qonun",
+      "siyosat"
+    ],
+    "importance": 4,
+    "score": 15,
+    "published": "2026-09-28T10:39:52.000Z",
+    "created": "2026-09-28T11:02:52.615Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/a-wuhan-court-just-made-ai-production-costs-a-legal-factor-in-copyright-infringement-cases",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "1ef1355d4cc3",
+    "slug": "affinity-bosh-direktori-ironman-mashgulotlari-haqida-1ef135",
+    "title": "Affinity bosh direktori Ironman mashg'ulotlari haqida",
+    "summary": "Affinity bosh direktori Ken Fine 40 yoshida Ironman mashg'ulotlarini boshlaganini aytdi. Uning so'zlariga ko'ra, bu mashg'ulotlar unga yanada tartibli bo'lishga va qiyinchiliklarni yengishga yordam bergan.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 1,
+    "score": 15,
+    "published": "2026-09-28T10:38:01.000Z",
+    "created": "2026-09-28T11:02:52.615Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/affinity-ceo-triathlon-ironman-training-helps-career-2026-9",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "af71ed31cc2d",
+    "slug": "xitoy-ai-va-chip-rahbarlari-oilalariga-cheklov-qoydi-af71ed",
+    "title": "Xitoy AI va chip rahbarlari oilalariga cheklov qo'ydi",
+    "summary": "Xitoy ba'zi muhim AI va chip rahbarlarining to'g'ridan-to'g'ri qarindoshlari uchun xorijga chiqish cheklovlarini kengaytirdi. Bu xususiy firmalardagi yuqori darajali AI mutaxassislarining oilalariga ta'sir qiladi.",
+    "tags": [
+      "siyosat",
+      "chiplar"
+    ],
+    "importance": 4,
+    "score": 15,
+    "published": "2026-09-28T10:35:02.000Z",
+    "created": "2026-09-28T11:02:52.615Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/260928/p12",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "3e023e604e44",
     "slug": "yurist-o-z-amaliyotida-haftasiga-20-soat-aini-o-qitmoqda-3e023e",
     "title": "Yurist o‘z amaliyotida haftasiga 20 soat AI'ni o‘qitmoqda",

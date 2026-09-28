@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/tadqiqot/</link>
   <description>&quot;tadqiqot&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Mon, 28 Sep 2026 10:06:25 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 28 Sep 2026 11:07:34 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/tadqiqot/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>AI kosmik kemalarga avtonomiya berdi</title>
+    <link>https://ailenta.uz/x/ai-kosmik-kemalarga-avtonomiya-berdi-ba148f/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/ai-kosmik-kemalarga-avtonomiya-berdi-ba148f/</guid>
+    <pubDate>Mon, 28 Sep 2026 11:00:05 GMT</pubDate>
+    <description>NASA Anthropic'ning Claude modellaridan Marsdagi Perseverance roveri uchun yo'nalishlarni rejalashtirishda foydalandi. NASA va IBM Xalqaro kosmik stansiya hamda sun'iy yo'ldoshga siqilgan AI modelini joylashtirib, kosmosda toshqin va bulutlarni aniqlashni namoyish etdi.</description>
+    <category>Anthropic</category><category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/ai-kosmik-kemalarga-avtonomiya-berdi-ba148f.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/ai-kosmik-kemalarga-avtonomiya-berdi-ba148f.jpg"/>
+  </item>
   <item>
     <title>Matematiklar AI'ning ta'siridan fanini himoya qilmoqda</title>
     <link>https://ailenta.uz/x/matematiklar-aining-tasiridan-fanini-himoya-qilmoqda-1b8fd1/</link>
@@ -296,16 +306,6 @@
     <category>tadqiqot</category><category>ochiq model</category>
     <media:content url="https://ailenta.uz/og/shaxsiy-agi-raspberry-pida-ikkinchi-miya-fde9d0.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/shaxsiy-agi-raspberry-pida-ikkinchi-miya-fde9d0.jpg"/>
-  </item>
-  <item>
-    <title>PAWS: Agentli dunyo simulyatsiyasi ma'lumotlar to'plami</title>
-    <link>https://ailenta.uz/x/paws-agentli-dunyo-simulyatsiyasi-malumotlar-toplami-b301ad/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/paws-agentli-dunyo-simulyatsiyasi-malumotlar-toplami-b301ad/</guid>
-    <pubDate>Fri, 25 Sep 2026 04:00:00 GMT</pubDate>
-    <description>Tadqiqotchilar PAWS nomli agentli dunyo simulyatsiyasi ma'lumotlar to'plamini taqdim etdi. U AQSHning 36 ta moliyaviy va iqtisodiy siyosat epizodini, 12,727 ta yangilik yozuvini qamrab oladi.</description>
-    <category>tadqiqot</category><category>agentlar</category>
-    <media:content url="https://ailenta.uz/og/paws-agentli-dunyo-simulyatsiyasi-malumotlar-toplami-b301ad.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/paws-agentli-dunyo-simulyatsiyasi-malumotlar-toplami-b301ad.jpg"/>
   </item>
 </channel>
 </rss>
