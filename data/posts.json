@@ -1,5 +1,49 @@
 [
   {
+    "id": "3382cafe99c9",
+    "slug": "ai-xakerlikni-kuchaytirmoqda-muassasalar-tayyor-emas-3382ca",
+    "title": "AI xakerlikni kuchaytirmoqda, muassasalar tayyor emas",
+    "summary": "AI xakerlik hujumlarini kuchaytirmoqda, bu esa mahalliy shifoxonalar va banklarni tayyor emas holatga keltirmoqda. Mart oyida Vivian's Door notijorat tashkiloti shubhali faoliyat haqida qo'ng'iroqlar ola boshladi.",
+    "tags": [
+      "xavfsizlik",
+      "biznes"
+    ],
+    "importance": 4,
+    "score": 18,
+    "published": "2026-09-28T18:30:00.000Z",
+    "created": "2026-09-28T20:01:55.274Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Verge",
+      "url": "https://theverge.com/ai-artificial-intelligence/1001427/ai-is-supercharging-hacking-and-your-local-hospitals-and-banks-arent-ready",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "8f7952c3ab8a",
+    "slug": "nvidia-ai-xavfsizlik-platformasi-uchun-guruh-tuzdi-8f7952",
+    "title": "Nvidia AI xavfsizlik platformasi uchun guruh tuzdi",
+    "summary": "Nvidia AI xavfsizlik platformasi uchun Anthropic va Arm kabi kompaniyalarni o'z ichiga olgan guruhni jalb qildi. Bu hamkorlik AI xavfsizligini oshirishga qaratilgan.",
+    "tags": [
+      "Nvidia",
+      "Anthropic"
+    ],
+    "importance": 3,
+    "score": 13,
+    "published": "2026-09-28T16:31:12.000Z",
+    "created": "2026-09-28T20:01:55.274Z",
+    "coverage": 1,
+    "source": {
+      "name": "thestack.technology",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdUxjbC12ZGxZRWVpWVlVX0QyWGlZX0M1VV9xTldUYVpvQTZWZjE0ZFFxdzNBX1BFSkpoNE9ySVIyM29qZ2xYaUZmY3lhb3gxNWczUXkybHJPQlE1UXd3SWRYbkNTd0xxeEpldlBkbDNGMUM0T1lPOTVfSGRzR3VjUTIwVQ",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "77afea3c2836",
     "slug": "milliarder-rubenstein-yoshlarga-ai-davrida-oqish-yozishni-or-77afea",
     "title": "Milliarder Rubenstein yoshlarga AI davrida o'qish-yozishni o'rganishni maslahat berdi",
