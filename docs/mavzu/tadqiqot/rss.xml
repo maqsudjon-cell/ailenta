@@ -5,7 +5,7 @@
   <link>https://ailenta.uz/mavzu/tadqiqot/</link>
   <description>&quot;tadqiqot&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Mon, 28 Sep 2026 21:40:51 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 28 Sep 2026 22:06:33 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/tadqiqot/rss.xml" rel="self" type="application/rss+xml"/>
   <item>
     <title>AI to'qib chiqargan paket nomlari xavf tug'dirmoqda</title>
@@ -36,6 +36,16 @@
     <category>xavfsizlik</category><category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/ai-takomillashuvi-harakat-imkoniyatini-yopishi-mumkin-10c14a.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/ai-takomillashuvi-harakat-imkoniyatini-yopishi-mumkin-10c14a.jpg"/>
+  </item>
+  <item>
+    <title>AI agenti Yevklid teleskopi ma'lumotlarini tahlil qilmoqda</title>
+    <link>https://ailenta.uz/x/ai-agenti-yevklid-teleskopi-malumotlarini-tahlil-qilmoqda-373c66/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/ai-agenti-yevklid-teleskopi-malumotlarini-tahlil-qilmoqda-373c66/</guid>
+    <pubDate>Mon, 28 Sep 2026 14:30:31 GMT</pubDate>
+    <description>Astronom-havaskor sunʼiy intellekt agenti yordamida Yevklid teleskopidan olingan maʼlumotlarni tahlil qilmoqda. Bu AI agentlari yordamida ilmiy tadqiqotlar oʻtkazish imkoniyatlarini koʻrsatadi.</description>
+    <category>agentlar</category><category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/ai-agenti-yevklid-teleskopi-malumotlarini-tahlil-qilmoqda-373c66.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/ai-agenti-yevklid-teleskopi-malumotlarini-tahlil-qilmoqda-373c66.jpg"/>
   </item>
   <item>
     <title>O'zbekistonda Yashil AI modeli yaratiladi</title>
@@ -296,16 +306,6 @@
     <category>tadqiqot</category><category>tibbiyot</category>
     <media:content url="https://ailenta.uz/og/fizika-asosidagi-ml-protein-rnk-ozgarishini-bashorat-qiladi-047d16.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/fizika-asosidagi-ml-protein-rnk-ozgarishini-bashorat-qiladi-047d16.jpg"/>
-  </item>
-  <item>
-    <title>AI javoblarida internet-do'kon havolalari kam</title>
-    <link>https://ailenta.uz/x/ai-javoblarida-internet-dokon-havolalari-kam-2bdd79/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/ai-javoblarida-internet-dokon-havolalari-kam-2bdd79/</guid>
-    <pubDate>Fri, 25 Sep 2026 19:17:04 GMT</pubDate>
-    <description>Tadqiqotga ko'ra, Alisa AI va Perplexity'ga berilgan 14 ta savoldan so'ng, 243 ta havoladan atigi 10 tasi mahsulot kartasiga olib borgan. AI ko'pincha savolga to'liq javob beradigan sahifalarga havolalar beradi.</description>
-    <category>tadqiqot</category><category>biznes</category>
-    <media:content url="https://ailenta.uz/og/ai-javoblarida-internet-dokon-havolalari-kam-2bdd79.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/ai-javoblarida-internet-dokon-havolalari-kam-2bdd79.jpg"/>
   </item>
 </channel>
 </rss>

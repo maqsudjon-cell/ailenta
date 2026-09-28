@@ -1,5 +1,93 @@
 [
   {
+    "id": "1866f38ade04",
+    "slug": "khanna-ai-xavfsizligi-boyicha-qonun-loyihasini-kiritadi-1866f3",
+    "title": "Khanna AI xavfsizligi bo'yicha qonun loyihasini kiritadi",
+    "summary": "Kongress aʼzosi Khanna AI xavfsizligi boʻyicha qonun loyihasini taqdim etadi. Unda himoya choralari mavjud boʻlmaguncha 'rekursiv' texnologiyani taqiqlash taklif qilinadi. Bu AI'ni tartibga solish boʻyicha boshqa takliflarga qoʻshiladi.",
+    "tags": [
+      "qonun",
+      "siyosat"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-09-28T21:43:40.000Z",
+    "created": "2026-09-28T22:02:24.509Z",
+    "coverage": 1,
+    "source": {
+      "name": "CNBC",
+      "url": "https://cnbc.com/2026/09/28/khanna-ai-safety-bill.html",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "4d1575b6898f",
+    "slug": "ai-kompaniyalari-tokenlarni-bepul-ishlatuvchilardan-ehtiyot--4d1575",
+    "title": "AI kompaniyalari tokenlarni bepul ishlatuvchilardan ehtiyot bo'lishi kerak",
+    "summary": "AI kompaniyalari tokenlarni bepul ishlatib, foyda marjalarini buzayotgan 'freeloader'lardan ehtiyot boʻlishlari lozim. Token iqtisodiyotida har bir soʻrovning oʻz narxi bor.",
+    "tags": [
+      "biznes",
+      "iqtisod"
+    ],
+    "importance": 2,
+    "score": 19,
+    "published": "2026-09-28T21:00:00.000Z",
+    "created": "2026-09-28T22:02:24.510Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/09/28/ai-unit-economics-token-theft-stripe",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "d2394bd4dea4",
+    "slug": "modal-labs-750m-sarmoya-jalb-qilib-qiymatini-oshirmoqda-d2394b",
+    "title": "Modal Labs $750M sarmoya jalb qilib, qiymatini oshirmoqda",
+    "summary": "Xulosa chiqarish xizmatini taqdim etuvchi Modal Labs $750 millionlik sarmoya raundini yakunlamoqda. Bu AI infratuzilma startapining qiymatini toʻrt oy ichida $15.75 milliardga yetkazib, uch barobardan koʻproq oshiradi.",
+    "tags": [
+      "biznes",
+      "bulut"
+    ],
+    "importance": 3,
+    "score": 18,
+    "published": "2026-09-28T21:29:18.000Z",
+    "created": "2026-09-28T22:02:24.510Z",
+    "coverage": 1,
+    "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "373c66531222",
+    "slug": "ai-agenti-yevklid-teleskopi-malumotlarini-tahlil-qilmoqda-373c66",
+    "title": "AI agenti Yevklid teleskopi ma'lumotlarini tahlil qilmoqda",
+    "summary": "Astronom-havaskor sunʼiy intellekt agenti yordamida Yevklid teleskopidan olingan maʼlumotlarni tahlil qilmoqda. Bu AI agentlari yordamida ilmiy tadqiqotlar oʻtkazish imkoniyatlarini koʻrsatadi.",
+    "tags": [
+      "agentlar",
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 11,
+    "published": "2026-09-28T14:30:31.000Z",
+    "created": "2026-09-28T22:02:24.510Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1087040",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "9d5c72f467eb",
     "slug": "toshkentda-yashirin-onlayn-qimor-platformasi-faoliyati-to-xt-9d5c72",
     "title": "Toshkentda yashirin onlayn qimor platformasi faoliyati to‘xtatildi",
