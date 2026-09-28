@@ -1,5 +1,204 @@
 [
   {
+    "id": "3e023e604e44",
+    "slug": "yurist-o-z-amaliyotida-haftasiga-20-soat-aini-o-qitmoqda-3e023e",
+    "title": "Yurist o‘z amaliyotida haftasiga 20 soat AI'ni o‘qitmoqda",
+    "summary": "Five Below kompaniyasining sobiq bosh yurist Ron Masciantonio o‘z shaxsiy amaliyotini boshladi. U mijozlar orasidagi bo‘shliqlarni to‘ldirish uchun haftasiga taxminan 20 soat AI'ni o‘qitishga sarflaydi.",
+    "tags": [
+      "mehnat bozori",
+      "ta'lim"
+    ],
+    "importance": 2,
+    "score": 18,
+    "published": "2026-09-28T08:06:01.000Z",
+    "created": "2026-09-28T09:36:47.993Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/lawyer-ai-training-left-corporate-micro1-revenue-private-practice-2026-9",
+      "title": "I left my job as Five Below's top lawyer and started my own practice. I spend around 20 hours a week training AI.",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "4ccfc30e9d7d",
+    "slug": "o-zbekiston-agentligi-xitoyda-ai-va-raqamlashtirishni-o-rgan-4ccfc3",
+    "title": "O‘zbekiston agentligi Xitoyda AI va raqamlashtirishni o‘rgandi",
+    "summary": "O‘zbekiston Sanoat kooperatsiyasi va davlat xaridlari agentligi xodimlari Xitoyda sunʼiy intellekt va raqamli texnologiyalar bo‘yicha bilim oldi. Bu ularning malakasini oshirishga qaratilgan.",
+    "tags": [
+      "O'zbekiston",
+      "ta'lim"
+    ],
+    "importance": 3,
+    "score": 44,
+    "published": "2026-09-28T08:40:00.000Z",
+    "created": "2026-09-28T09:37:02.177Z",
+    "coverage": 1,
+    "source": {
+      "name": "UzDaily",
+      "url": "https://uzdaily.uz/uz/sanoat-kooperatsiyasi-agentligi-xodimlari-xitoyda-sun%CA%BCiy-intellekt-va-raqamlashtirishni-organdi",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "298f77bb78ba",
+    "slug": "britaniya-startapi-aini-video-o-yinlar-orqali-o-qitmoqda-298f77",
+    "title": "Britaniya startapi AI'ni video o‘yinlar orqali o‘qitmoqda",
+    "summary": "Britaniya startapi video o‘yinlardagi ma'lumotlardan foydalanib, AI modellarini real dunyoda harakatlanishga o‘rgatmoqda. Bu AI'ning jismoniy dunyoda qo‘llanilishini kengaytirishga yordam beradi.",
+    "tags": [
+      "tadqiqot",
+      "agentlar"
+    ],
+    "importance": 3,
+    "score": 26,
+    "published": "2026-09-28T09:00:00.000Z",
+    "created": "2026-09-28T09:37:02.177Z",
+    "coverage": 1,
+    "source": {
+      "name": "Wired",
+      "url": "https://wired.com/story/the-next-evolution-of-ai-is-learning-from-your-dodgy-gaming-skills",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "1b8fd17d1b42",
+    "slug": "matematiklar-aining-tasiridan-fanini-himoya-qilmoqda-1b8fd1",
+    "title": "Matematiklar AI'ning ta'siridan fanini himoya qilmoqda",
+    "summary": "Matematika insoniyatning ijodiy sohalaridan biri bo‘lgan. Hozirda matematiklar AI'ning kuchli ta'siridan o‘z fanini himoya qilishga harakat qilmoqda.",
+    "tags": [
+      "tadqiqot",
+      "ta'lim"
+    ],
+    "importance": 2,
+    "score": 23,
+    "published": "2026-09-28T09:30:00.000Z",
+    "created": "2026-09-28T09:37:02.178Z",
+    "coverage": 1,
+    "source": {
+      "name": "Wired",
+      "url": "https://wired.com/story/solving-maths-greatest-problems-was-an-art-form-until-ai",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "f4ab72176603",
+    "slug": "2027-yilda-ai-bozori-yonalishlari-f4ab72",
+    "title": "2027 yilda AI bozori yo'nalishlari",
+    "summary": "AI bozorida katta til modellari asosiy mavzu bo‘lib qolmoqda, ammo 2027 yilda investorlar boshqa yo‘nalishlarga ham e'tibor qaratishi kerak. Bularga biznes uchun mahsulotlar, AI infratuzilmasi va ishlab chiqarishdagi amaliy AI kiradi.",
+    "tags": [
+      "biznes",
+      "iqtisod"
+    ],
+    "importance": 3,
+    "score": 20,
+    "published": "2026-09-28T09:20:01.000Z",
+    "created": "2026-09-28T09:37:02.178Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/companies/trinfico_private/articles/1087414",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "6ca8cd825ef3",
+    "slug": "ai-yuridik-firmalar-samaradorligi-mijozlar-chegirma-soradi-6ca8cd",
+    "title": "AI yuridik firmalar samaradorligi: mijozlar chegirma so'radi",
+    "summary": "AI yuridik firmalarning samaradorligini oshirganidan so‘ng, mijozlar xizmatlar uchun chegirmalar talab qila boshladi. Bu AI'ning biznesga ta'siri va narx siyosati haqidagi savollarni keltirib chiqardi.",
+    "tags": [
+      "biznes",
+      "mehnat bozori"
+    ],
+    "importance": 3,
+    "score": 19.9,
+    "published": "2026-09-28T01:30:17.000Z",
+    "created": "2026-09-28T09:37:02.178Z",
+    "coverage": 1,
+    "source": {
+      "name": "Hacker News",
+      "url": "https://nytimes.com/2026/09/26/business/dealbook/ai-law-discount-billable-hour.html",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "b1e1bacf31da",
+    "slug": "vashingtonda-ai-bo-yicha-uchrashuvlar-texno-rahbarlar-olqish-b1e1ba",
+    "title": "Vashingtonda AI bo‘yicha uchrashuvlar: texno rahbarlar olqishlandi",
+    "summary": "Vashingtonda AI bo‘yicha o‘tkazilgan uchrashuvlarda texnologiya kompaniyalari rahbarlari tanqid o‘rniga ko‘proq olqishlarga sazovor bo‘ldi. Bu AI atrofidagi muhokamalarning o‘zgarayotganini ko‘rsatadi.",
+    "tags": [
+      "siyosat",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-09-28T08:34:17.000Z",
+    "created": "2026-09-28T09:37:02.178Z",
+    "coverage": 1,
+    "source": {
+      "name": "Semafor",
+      "url": "https://semafor.com/article/09/29/2026/ai-panic-clouds-more-washington-meetings",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "ba5b9334a46c",
+    "slug": "google-tpularini-kosmosga-yuborishga-tayyorlanmoqda-ba5b93",
+    "title": "Google TPU'larini kosmosga yuborishga tayyorlanmoqda",
+    "summary": "Google o‘zining TPU (Tensor Processing Unit) chiplarini kosmosga yuborishga tayyorlanmoqda. Bu AI hisoblash quvvatini fazoda qo‘llash imkoniyatlarini ochadi.",
+    "tags": [
+      "Google",
+      "chiplar"
+    ],
+    "importance": 3,
+    "score": 17,
+    "published": "2026-09-28T04:52:25.000Z",
+    "created": "2026-09-28T09:37:02.178Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1086938",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "b04934350ff5",
+    "slug": "aiga-taxmin-qilma-buyrug-i-to-qib-chiqarishni-kamaytirdi-b04934",
+    "title": "AI'ga \"taxmin qilma\" buyrug‘i to‘qib chiqarishni kamaytirdi",
+    "summary": "AI modellariga \"taxmin qilma\" buyrug‘ini qo‘shish to‘qib chiqarilgan ma'lumotlar ulushini 71% dan 20% gacha kamaytirdi. Bu AI'ning ishonchliligini oshirishda muhim qadamdir.",
+    "tags": [
+      "tadqiqot",
+      "xavfsizlik"
+    ],
+    "importance": 4,
+    "score": 15.4,
+    "published": "2026-09-27T17:24:17.000Z",
+    "created": "2026-09-28T09:37:02.178Z",
+    "coverage": 1,
+    "source": {
+      "name": "Hacker News",
+      "url": "https://earnanhonestdollar.com/bench",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "19c882b06f1f",
     "slug": "aqsh-dhs-malumot-sorovlarida-ai-ishlatmoqchi-19c882",
     "title": "AQSH DHS ma'lumot so'rovlarida AI ishlatmoqchi",
