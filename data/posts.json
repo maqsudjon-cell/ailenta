@@ -1,5 +1,208 @@
 [
   {
+    "id": "2ef106a8fc98",
+    "slug": "exoduspoint-anthropic-bilan-ai-boyicha-hamkorlik-qilmoqda-2ef106",
+    "title": "ExodusPoint Anthropic bilan AI bo'yicha hamkorlik qilmoqda",
+    "summary": "ExodusPoint xedj-fondi Anthropic bilan sun'iy intellekt bo'yicha hamkorlikka qo'shildi. Bu Anthropic'ning 2 trillion dollardan ortiq baholanishiga yaqinlashayotgan bir paytda sodir bo'lmoqda.",
+    "tags": [
+      "Anthropic",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 36,
+    "published": "2026-09-29T13:09:22.000Z",
+    "created": "2026-09-29T15:38:44.891Z",
+    "coverage": 2,
+    "source": {
+      "name": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObEdmY3pmb1hFWEZ2VTR3TWRuTzZWU19QZTk0ZEVpcHMxV1hYcVVmN2dqNWpia1FISDR4SmkxUURqU1NVbUhIN1UyZk8tNlJ5cUNPcFZCSGhTX1Azb0hjMC1vV09GVHZPRE9iVFpIcGJHT0Z0Rnphd2Z3ek4tOUtrLU9NV3VBMTZYTEhjc3ltT0JweVlfZTZSSEZNajBIM3pMWmc2d1d1LXRKYVZXSGdHUUdxOTM",
+      "indirect": true
+    },
+    "also": [
+      {
+        "name": "waya.media",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeXR6SHNyLU9QaFlaR1EtTUk0WnNrRExkd3hFMmlYbWtseFNHVWJlMjdEUG45ZkxnOTZOYXlCczhwdS1NYm0teGtENVU3bElrWUp4SGR4QWV2Z3BISkVHal9EQTFoZGg4OU5BRXFzaUJfbUJFN29RU0lwWFBURDlIaXIxNkhZUjF5TVRmaUlkeXozd0p4M0lBTFp6NU81MEpCWXc"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "14dd769079a1",
+    "slug": "talabalar-ai-investitsiya-bozorida-faollashmoqda-14dd76",
+    "title": "Talabalar AI investitsiya bozorida faollashmoqda",
+    "summary": "Dorm Room Fund dasturi yangi 50 million dollarlik fondni jalb qildi. Bu dastur talabalarga o'z tengdoshlariga sarmoya kiritish imkonini beradi.",
+    "tags": [
+      "biznes",
+      "ta'lim"
+    ],
+    "importance": 2,
+    "score": 27,
+    "published": "2026-09-29T15:31:44.000Z",
+    "created": "2026-09-29T15:38:44.892Z",
+    "coverage": 1,
+    "source": {
+      "name": "The New York Times",
+      "url": "https://nytimes.com/2026/09/29/technology/dorm-room-fund-ai-investment.html",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "c99bcb7fb937",
+    "slug": "anthropic-ipo-optimizmi-texnologiya-aksiyalarini-oshirdi-c99bcb",
+    "title": "Anthropic IPO optimizmi texnologiya aksiyalarini oshirdi",
+    "summary": "Anthropic IPOsi bilan bog'liq optimizm texnologiya aksiyalarining o'sishiga sabab bo'ldi. Bu yuqori neft narxlari va daromadlar ta'sirini qopladi.",
+    "tags": [
+      "Anthropic",
+      "iqtisod"
+    ],
+    "importance": 3,
+    "score": 26.4,
+    "published": "2026-09-29T02:08:00.000Z",
+    "created": "2026-09-29T15:38:44.892Z",
+    "coverage": 1,
+    "source": {
+      "name": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSVdQU2VNMWNudXUwMjk0YnFXekg0R3B3d1gxcHUtcmx1UU9pSEtXNGRZTjMwR29Qa0JhSFJmdmRIZUdpdzFJVXVrcEFyYWwzZ0xsV0J2QmlaLTZXb0FzY0Fpa2JqdGJrWG53Sk0zX3RYc1ZZYmZkWFZ4bHJkM0gtRWpkYw",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "493cf3fce1b8",
+    "slug": "nvidia-kumo-tabular-jadval-bashoratida-yangi-chegarani-belgi-493cf3",
+    "title": "Nvidia Kumo Tabular jadval bashoratida yangi chegarani belgiladi",
+    "summary": "Nvidia Kumo Tabular jadval ma'lumotlarini bashorat qilishda aniqlik va samaradorlik bo'yicha yangi chegarani o'rnatdi. Bu yangi yechim samaradorlikni oshirishga qaratilgan.",
+    "tags": [
+      "Nvidia",
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 25,
+    "published": "2026-09-29T15:30:38.000Z",
+    "created": "2026-09-29T15:38:44.892Z",
+    "coverage": 1,
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/blog/nvidia/kumo-tabular",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "9934338df620",
+    "slug": "rfk-jr-aqsh-sogliq-malumotlarini-yigish-rejasini-taqdim-etdi-993433",
+    "title": "RFK Jr. AQSh sog'liq ma'lumotlarini yig'ish rejasini taqdim etdi",
+    "summary": "Robert F. Kennedy Jr. AQSh sog'liq ma'lumotlarini yig'ish, almashish va tahlil qilish bo'yicha keng qamrovli rejasini bayon etdi. U tibbiy va turmush tarzi ma'lumotlarini AI yordamida tahlil qilishni taklif qildi.",
+    "tags": [
+      "siyosat",
+      "tibbiyot"
+    ],
+    "importance": 3,
+    "score": 23,
+    "published": "2026-09-29T14:41:14.000Z",
+    "created": "2026-09-29T15:38:44.892Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/us-news/2026/sep/29/rfk-jr-collect-health-data",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "62f449fec124",
+    "slug": "aqsh-siyosiy-kampaniyalari-ai-xarajatlarini-oshkor-qildi-62f449",
+    "title": "AQSh siyosiy kampaniyalari AI xarajatlarini oshkor qildi",
+    "summary": "Yangi moliyaviy hisobotlar AQSh siyosiy kampaniyalarining AI vositalariga qancha mablag' sarflayotganini ko'rsatdi. Bu ma'lumotlar AI siyosatda muhim vositaga aylanayotganini tasdiqlaydi.",
+    "tags": [
+      "siyosat",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 23,
+    "published": "2026-09-29T11:00:49.000Z",
+    "created": "2026-09-29T15:38:44.892Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/technology/2026/sep/29/political-campaigns-ai-tools-spending",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "81742afa544e",
+    "slug": "timnit-gebru-aidan-mavjudlik-xavfi-yoq-deb-hisoblaydi-81742a",
+    "title": "Timnit Gebru AI'dan 'mavjudlik xavfi' yo'q deb hisoblaydi",
+    "summary": "AI tanqidchilaridan biri Timnit Gebru sun'iy intellektdan \"mavjudlik xavfi\" yo'q deb hisoblaydi. Uning fikricha, bu xavotirlar asoschilarning pul ishlashiga qaratilgan.",
+    "tags": [
+      "tadqiqot",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 23,
+    "published": "2026-09-29T10:30:00.000Z",
+    "created": "2026-09-29T15:38:44.892Z",
+    "coverage": 1,
+    "source": {
+      "name": "Wired",
+      "url": "https://wired.com/story/the-big-interview-podcast-timnit-gebru",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "5f0b2070db45",
+    "slug": "ai-tibbiy-qurilmalari-real-sharoitda-sinovdan-otishi-shart-5f0b20",
+    "title": "AI tibbiy qurilmalari real sharoitda sinovdan o'tishi shart",
+    "summary": "Sun'iy intellektga asoslangan tibbiy qurilmalar real sharoitlarda sinovdan o'tkazilishi kerak. Bu ularning samaradorligi va xavfsizligini ta'minlash uchun muhim.",
+    "tags": [
+      "tibbiyot",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 21.6,
+    "published": "2026-09-29T00:00:00.000Z",
+    "created": "2026-09-29T15:38:44.892Z",
+    "coverage": 1,
+    "source": {
+      "name": "Nature",
+      "url": "https://nature.com/articles/d41586-026-03046-7",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "d375f58772d2",
+    "slug": "elevenlabs-v4-nutq-modeli-ai-ovozlarini-ifodaliroq-qildi-d375f5",
+    "title": "ElevenLabs v4 nutq modeli AI ovozlarini ifodaliroq qildi",
+    "summary": "ElevenLabs kompaniyasi yangi Eleven v4 nutq modelini taqdim etdi. U AI ovozlarini yanada ifodali va barqaror qiladi, shuningdek, real vaqt rejimida ishlay oladi.",
+    "tags": [
+      "tadqiqot",
+      "agentlar"
+    ],
+    "importance": 3,
+    "score": 21,
+    "published": "2026-09-29T14:45:17.000Z",
+    "created": "2026-09-29T15:38:44.892Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/elevenlabs-new-v4-speech-model-makes-ai-voices-more-expressive-and-consistent",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "b80050304a7a",
     "slug": "aidan-foydalanganlarni-uyaltirishni-toxtating-tashkilotlanin-b80050",
     "title": "AI'dan foydalanganlarni uyaltirishni to'xtating, tashkilotlaning",

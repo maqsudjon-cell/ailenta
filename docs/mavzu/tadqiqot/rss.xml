@@ -5,8 +5,38 @@
   <link>https://ailenta.uz/mavzu/tadqiqot/</link>
   <description>&quot;tadqiqot&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Tue, 29 Sep 2026 15:06:24 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 29 Sep 2026 15:42:37 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/tadqiqot/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Nvidia Kumo Tabular jadval bashoratida yangi chegarani belgiladi</title>
+    <link>https://ailenta.uz/x/nvidia-kumo-tabular-jadval-bashoratida-yangi-chegarani-belgi-493cf3/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/nvidia-kumo-tabular-jadval-bashoratida-yangi-chegarani-belgi-493cf3/</guid>
+    <pubDate>Tue, 29 Sep 2026 15:30:38 GMT</pubDate>
+    <description>Nvidia Kumo Tabular jadval ma'lumotlarini bashorat qilishda aniqlik va samaradorlik bo'yicha yangi chegarani o'rnatdi. Bu yangi yechim samaradorlikni oshirishga qaratilgan.</description>
+    <category>Nvidia</category><category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/nvidia-kumo-tabular-jadval-bashoratida-yangi-chegarani-belgi-493cf3.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/nvidia-kumo-tabular-jadval-bashoratida-yangi-chegarani-belgi-493cf3.jpg"/>
+  </item>
+  <item>
+    <title>ElevenLabs v4 nutq modeli AI ovozlarini ifodaliroq qildi</title>
+    <link>https://ailenta.uz/x/elevenlabs-v4-nutq-modeli-ai-ovozlarini-ifodaliroq-qildi-d375f5/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/elevenlabs-v4-nutq-modeli-ai-ovozlarini-ifodaliroq-qildi-d375f5/</guid>
+    <pubDate>Tue, 29 Sep 2026 14:45:17 GMT</pubDate>
+    <description>ElevenLabs kompaniyasi yangi Eleven v4 nutq modelini taqdim etdi. U AI ovozlarini yanada ifodali va barqaror qiladi, shuningdek, real vaqt rejimida ishlay oladi.</description>
+    <category>tadqiqot</category><category>agentlar</category>
+    <media:content url="https://ailenta.uz/og/elevenlabs-v4-nutq-modeli-ai-ovozlarini-ifodaliroq-qildi-d375f5.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/elevenlabs-v4-nutq-modeli-ai-ovozlarini-ifodaliroq-qildi-d375f5.jpg"/>
+  </item>
+  <item>
+    <title>Timnit Gebru AI'dan 'mavjudlik xavfi' yo'q deb hisoblaydi</title>
+    <link>https://ailenta.uz/x/timnit-gebru-aidan-mavjudlik-xavfi-yoq-deb-hisoblaydi-81742a/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/timnit-gebru-aidan-mavjudlik-xavfi-yoq-deb-hisoblaydi-81742a/</guid>
+    <pubDate>Tue, 29 Sep 2026 10:30:00 GMT</pubDate>
+    <description>AI tanqidchilaridan biri Timnit Gebru sun'iy intellektdan &quot;mavjudlik xavfi&quot; yo'q deb hisoblaydi. Uning fikricha, bu xavotirlar asoschilarning pul ishlashiga qaratilgan.</description>
+    <category>tadqiqot</category><category>xavfsizlik</category>
+    <media:content url="https://ailenta.uz/og/timnit-gebru-aidan-mavjudlik-xavfi-yoq-deb-hisoblaydi-81742a.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/timnit-gebru-aidan-mavjudlik-xavfi-yoq-deb-hisoblaydi-81742a.jpg"/>
+  </item>
   <item>
     <title>Taste Labs AI'ga didni o'rgatishga urinmoqda</title>
     <link>https://ailenta.uz/x/taste-labs-aiga-didni-orgatishga-urinmoqda-405f39/</link>
@@ -276,36 +306,6 @@
     <category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/engram-ai-toqib-chiqarishdan-musiqa-yaratuvchi-sampler-93164f.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/engram-ai-toqib-chiqarishdan-musiqa-yaratuvchi-sampler-93164f.jpg"/>
-  </item>
-  <item>
-    <title>Ollivo: lokal AI'ni Python, CUDA va terminalsiz ishga tushirish</title>
-    <link>https://ailenta.uz/x/ollivo-lokal-aini-python-cuda-va-terminalsiz-ishga-tushirish-7baa9c/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/ollivo-lokal-aini-python-cuda-va-terminalsiz-ishga-tushirish-7baa9c/</guid>
-    <pubDate>Sun, 27 Sep 2026 20:43:53 GMT</pubDate>
-    <description>Dasturchi Python, CUDA va terminalsiz lokal neyron tarmoqlarni ishga tushiruvchi Ollivo dasturini yaratdi. Uning tajribasiga ko'ra, Vulkan GTX 1080'da CUDA'dan tezroq ishlaydi. Shuningdek, Qwen modeli ruscha matnga xitoycha so'zlarni qo'shishi aniqlangan.</description>
-    <category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/ollivo-lokal-aini-python-cuda-va-terminalsiz-ishga-tushirish-7baa9c.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/ollivo-lokal-aini-python-cuda-va-terminalsiz-ishga-tushirish-7baa9c.jpg"/>
-  </item>
-  <item>
-    <title>AI yordamida yagona tadqiqotchi yangiliklar yaratmoqda</title>
-    <link>https://ailenta.uz/x/ai-yordamida-yagona-tadqiqotchi-yangiliklar-yaratmoqda-08dd36/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/ai-yordamida-yagona-tadqiqotchi-yangiliklar-yaratmoqda-08dd36/</guid>
-    <pubDate>Sun, 27 Sep 2026 18:17:31 GMT</pubDate>
-    <description>Habr nashri sun'iy intellektning yagona tadqiqotchi yoki kichik guruhlar qo‘lida yangi g‘oyalar yaratish quvvatini oshirishi haqida yozdi. AI turli sohalardan ma’lumotlarni birlashtirib, innovatsiyalarni tezlashtirishi mumkin.</description>
-    <category>tadqiqot</category><category>mehnat bozori</category>
-    <media:content url="https://ailenta.uz/og/ai-yordamida-yagona-tadqiqotchi-yangiliklar-yaratmoqda-08dd36.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/ai-yordamida-yagona-tadqiqotchi-yangiliklar-yaratmoqda-08dd36.jpg"/>
-  </item>
-  <item>
-    <title>AI'ga &quot;taxmin qilma&quot; buyrug‘i to‘qib chiqarishni kamaytirdi</title>
-    <link>https://ailenta.uz/x/aiga-taxmin-qilma-buyrug-i-to-qib-chiqarishni-kamaytirdi-b04934/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/aiga-taxmin-qilma-buyrug-i-to-qib-chiqarishni-kamaytirdi-b04934/</guid>
-    <pubDate>Sun, 27 Sep 2026 17:24:17 GMT</pubDate>
-    <description>AI modellariga &quot;taxmin qilma&quot; buyrug‘ini qo‘shish to‘qib chiqarilgan ma'lumotlar ulushini 71% dan 20% gacha kamaytirdi. Bu AI'ning ishonchliligini oshirishda muhim qadamdir.</description>
-    <category>tadqiqot</category><category>xavfsizlik</category>
-    <media:content url="https://ailenta.uz/og/aiga-taxmin-qilma-buyrug-i-to-qib-chiqarishni-kamaytirdi-b04934.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/aiga-taxmin-qilma-buyrug-i-to-qib-chiqarishni-kamaytirdi-b04934.jpg"/>
   </item>
 </channel>
 </rss>
