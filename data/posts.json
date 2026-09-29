@@ -1,5 +1,55 @@
 [
   {
+    "id": "d18f81a65e79",
+    "slug": "meta-korporativ-ai-biznesini-yo-lga-qo-ymoqda-d18f81",
+    "title": "Meta korporativ AI biznesini yoʻlga qoʻymoqda",
+    "summary": "Meta kompaniyasi oʻzining katta AI xarajatlarini oqlash maqsadida korporativ biznesni boshlamoqda. U boshqa kompaniyalarga AI mahsulotlari va xizmatlarini sotishni rejalashtirmoqda. MongoDB sobiq bosh direktori CJ Desai bu tashabbusga rahbarlik qiladi.",
+    "tags": [
+      "Meta",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 42,
+    "published": "2026-09-28T18:37:57.000Z",
+    "created": "2026-09-29T02:02:00.636Z",
+    "coverage": 6,
+    "source": {
+      "name": "Engadget",
+      "url": "https://engadget.com/2271136/meta-is-starting-an-enterprise-business-to-justify-its-massive-ai-spending",
+      "title": "Meta is starting an enterprise business to justify its massive AI spending",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/28/meta-launches-enterprise-ai-platform-hires-mongodb-ceo-to-lead-new-initiative"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "3bf7099b7703",
+    "slug": "huang-ai-model-distillash-raqobat-bessent-ogirlik-3bf709",
+    "title": "Huang: AI model distillash raqobat, Bessent: o'g'irlik",
+    "summary": "Nvidia bosh direktori Jensen Huang AI modelini distillashni \"raqobat\" deb atadi. AQSh Gʻaznachilik kotibi Skott Bessent esa buni \"oʻgʻirlik\" deb hisobladi. Bu fikrlar AI sohasidagi bahslarni kuchaytirdi.",
+    "tags": [
+      "Nvidia",
+      "siyosat"
+    ],
+    "importance": 3,
+    "score": 25,
+    "published": "2026-09-28T14:37:43.000Z",
+    "created": "2026-09-29T02:02:06.966Z",
+    "coverage": 1,
+    "source": {
+      "name": "CNBC",
+      "url": "https://cnbc.com/2026/09/28/nvidias-jensen-huang-ai-distillation-china.html",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "0e75f8d0e200",
     "slug": "jadepuffer-jinoiy-guruhi-azure-identifikatorlarini-ogirladi-0e75f8",
     "title": "JadePuffer jinoiy guruhi Azure identifikatorlarini o'g'irladi",
