@@ -2,14 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
-    <loc>https://ailenta.uz/x/mistral-bosh-direktori-ai-xavfsizligi-bahsini-tanqid-qildi-8653e9/</loc>
+    <loc>https://ailenta.uz/x/mistral-rahbari-raqobatchilarni-beparvolikda-aybladi-8653e9/</loc>
     <news:news>
       <news:publication>
         <news:name>AI Lenta</news:name>
         <news:language>uz</news:language>
       </news:publication>
       <news:publication_date>2026-09-29T08:20:04.000Z</news:publication_date>
-      <news:title>Mistral bosh direktori AI xavfsizligi bahsini tanqid qildi</news:title>
+      <news:title>Mistral rahbari raqobatchilarni beparvolikda aybladi</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://ailenta.uz/x/knowin-uydagi-robotlar-uchun-glow-tizimini-taqdim-etdi-770298/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>AI Lenta</news:name>
+        <news:language>uz</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-29T07:00:41.000Z</news:publication_date>
+      <news:title>Knowin uydagi robotlar uchun GLOW tizimini taqdim etdi</news:title>
     </news:news>
   </url>
   <url>
@@ -21,17 +32,6 @@
       </news:publication>
       <news:publication_date>2026-09-29T05:31:44.000Z</news:publication_date>
       <news:title>Xodimlardan AI yozgan matnlarni belgilash talab qilinmoqda</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://ailenta.uz/x/ai-super-paclar-oraliq-saylovlarga-tasir-otkazmoqda-72f1b5/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>AI Lenta</news:name>
-        <news:language>uz</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-29T04:02:54.000Z</news:publication_date>
-      <news:title>AI Super PAC'lar oraliq saylovlarga ta'sir o'tkazmoqda</news:title>
     </news:news>
   </url>
   <url>
@@ -244,25 +244,25 @@
     </news:news>
   </url>
   <url>
-    <loc>https://ailenta.uz/x/zuckerberg-va-amodei-tramp-bilan-uchrashadi-571154/</loc>
+    <loc>https://ailenta.uz/x/sukerberg-va-amodei-tramp-bilan-uchrashadi-571154/</loc>
     <news:news>
       <news:publication>
         <news:name>AI Lenta</news:name>
         <news:language>uz</news:language>
       </news:publication>
       <news:publication_date>2026-09-28T20:00:45.000Z</news:publication_date>
-      <news:title>Zuckerberg va Amodei Tramp bilan uchrashadi</news:title>
+      <news:title>Sukerberg va Amodei Tramp bilan uchrashadi</news:title>
     </news:news>
   </url>
   <url>
-    <loc>https://ailenta.uz/x/openai-ai-oqitish-xavfsizligi-boyicha-korsatmalar-chiqardi-cf468e/</loc>
+    <loc>https://ailenta.uz/x/openai-ilgor-ai-xavfsizligi-boyicha-yoriqnoma-chiqardi-cf468e/</loc>
     <news:news>
       <news:publication>
         <news:name>AI Lenta</news:name>
         <news:language>uz</news:language>
       </news:publication>
       <news:publication_date>2026-09-28T19:00:00.000Z</news:publication_date>
-      <news:title>OpenAI AI o'qitish xavfsizligi bo'yicha ko'rsatmalar chiqardi</news:title>
+      <news:title>OpenAI ilg'or AI xavfsizligi bo'yicha yo'riqnoma chiqardi</news:title>
     </news:news>
   </url>
   <url>
@@ -1407,28 +1407,6 @@
       </news:publication>
       <news:publication_date>2026-09-27T09:35:00.000Z</news:publication_date>
       <news:title>Yirik AI kompaniyalari kontent muammosiga duch</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://ailenta.uz/x/ai-rivojlanishi-hukumatlarni-ortda-qoldirmoqda-5548ec/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>AI Lenta</news:name>
-        <news:language>uz</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-27T09:01:20.000Z</news:publication_date>
-      <news:title>AI rivojlanishi hukumatlarni ortda qoldirmoqda</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://ailenta.uz/x/anthropic-ai-biologik-qurol-noto-g-ri-ishlatilishini-to-xtat-eff81e/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>AI Lenta</news:name>
-        <news:language>uz</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-27T08:54:49.000Z</news:publication_date>
-      <news:title>Anthropic AI biologik qurol noto‘g‘ri ishlatilishini to‘xtatdi</news:title>
     </news:news>
   </url>
 </urlset>
