@@ -1,5 +1,116 @@
 [
   {
+    "id": "54afb9ce00eb",
+    "slug": "yozuvchilardan-ai-ishlatish-darajasini-sorash-54afb9",
+    "title": "Yozuvchilardan AI ishlatish darajasini so'rash",
+    "summary": "Yozuvchilardan AI'dan foydalanganliklari haqida so'rashning yangi usuli taklif qilindi. Unga ko'ra, AI ishtirokini 0 dan 5 gacha bo'lgan shkala bo'yicha baholash mumkin.",
+    "tags": [
+      "mehnat bozori",
+      "ta'lim"
+    ],
+    "importance": 1,
+    "score": 19,
+    "published": "2026-09-29T10:30:00.000Z",
+    "created": "2026-09-29T17:02:26.450Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/09/29/ai-writing-witch-hunt-new-spectrum-ghostwriting",
+      "title": "Stop asking writers if they used AI. Just ask them how much",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "83e10245b58b",
+    "slug": "microsoft-quine-ai-tizimini-taqdim-etdi-83e102",
+    "title": "Microsoft Quine AI tizimini taqdim etdi",
+    "summary": "Microsoft biologiyaning murakkabligi uchun mo'ljallangan Quine nomli AI tadqiqot tizimini ishga tushirdi. Bu tizim biologik ma'lumotlarni tahlil qilishga yordam beradi.",
+    "tags": [
+      "Microsoft",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 33,
+    "published": "2026-09-29T16:14:34.000Z",
+    "created": "2026-09-29T17:02:41.639Z",
+    "coverage": 1,
+    "source": {
+      "name": "Microsoft",
+      "url": "https://microsoft.com/en-us/research/blog/introducing-quine-an-ai-research-system-designed-for-the-complexity-of-biology",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "10831acfbe24",
+    "slug": "remotethreat-ai-tezligida-kiberhujumlar-uchun-10831a",
+    "title": "RemoteThreat AI tezligida kiberhujumlar uchun",
+    "summary": "RemoteThreat kompaniyasi 7 million dollar sarmoya bilan ishga tushdi. U 1000 ta hujum vositasini taklif qilib, korxonalar va hukumatni AI tezligidagi operatsiyalar uchun jihozlashni maqsad qilgan.",
+    "tags": [
+      "xavfsizlik",
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 19,
+    "published": "2026-09-29T11:30:00.000Z",
+    "created": "2026-09-29T17:02:41.639Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/security/2026/09/29/former-x-force-hackers-chase-the-offensive-cyber-gold-rush/5299662",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "8bd9b4222003",
+    "slug": "microsoft-power-bi-foydalanuvchilarini-kengaytirdi-8bd9b4",
+    "title": "Microsoft Power BI foydalanuvchilarini kengaytirdi",
+    "summary": "Microsoft Power BI'ning millionlab foydalanuvchilarini Fabric ilovalari ishlab chiquvchilariga aylantirmoqda. Bu ma'lumot ilovalari uchun agent kodlash imkoniyatlarini sezilarli darajada oshiradi.",
+    "tags": [
+      "Microsoft",
+      "agentlar"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-09-29T10:00:00.000Z",
+    "created": "2026-09-29T17:02:41.639Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/applications/2026/09/29/redmond-to-millions-of-power-bi-users-youre-fabric-app-devs-now/5299552",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "a433ac5378ca",
+    "slug": "tramp-america-gov-ai-portalini-ishga-tushirdi-a433ac",
+    "title": "Tramp America.gov AI portalini ishga tushirdi",
+    "summary": "Donald Tramp federal hukumat xizmatlari va ma'lumotlariga yagona kirish nuqtasi bo'lgan America.gov AI portalini rasman ishga tushirdi. Unga Airbnb asoschilaridan biri Joe Gebbia rahbarlik qiladi.",
+    "tags": [
+      "siyosat",
+      "agentlar"
+    ],
+    "importance": 4,
+    "score": 18,
+    "published": "2026-09-29T15:35:01.000Z",
+    "created": "2026-09-29T17:02:41.639Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/260929/p25",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "2ef106a8fc98",
     "slug": "exoduspoint-anthropic-bilan-ai-boyicha-hamkorlik-qilmoqda-2ef106",
     "title": "ExodusPoint Anthropic bilan AI bo'yicha hamkorlik qilmoqda",
