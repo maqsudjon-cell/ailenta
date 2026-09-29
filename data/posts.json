@@ -1,5 +1,159 @@
 [
   {
+    "id": "b80050304a7a",
+    "slug": "aidan-foydalanganlarni-uyaltirishni-toxtating-tashkilotlanin-b80050",
+    "title": "AI'dan foydalanganlarni uyaltirishni to'xtating, tashkilotlaning",
+    "summary": "Maqolada aytilishicha, AI sanoati insonlarni almashtirishga intilmoqda. Texnologiyaga qarshilik ko'pincha shaxsiy foydalanuvchilarni uyaltirish shaklida bo'ladi. Kompaniyalarga qarshi tashkilotlanish zarur.",
+    "tags": [
+      "mehnat bozori",
+      "siyosat"
+    ],
+    "importance": 3,
+    "score": 23,
+    "published": "2026-09-29T12:00:50.000Z",
+    "created": "2026-09-29T12:38:16.668Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/commentisfree/2026/sep/29/ai-replace-humans",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "a49f9704d0ad",
+    "slug": "ai-fanni-kengaytirishi-mumkin-ammo-shartlar-bor-a49f97",
+    "title": "AI fanni kengaytirishi mumkin, ammo shartlar bor",
+    "summary": "Nature jurnalidagi maqolaga ko'ra, sun'iy intellekt fanni kengaytirishi mumkin. Buning uchun muassasalar allaqachon o'lchanadigan narsalarni mukofotlashni to'xtatishi kerak.",
+    "tags": [
+      "tadqiqot",
+      "ta'lim"
+    ],
+    "importance": 2,
+    "score": 22.8,
+    "published": "2026-09-29T00:00:00.000Z",
+    "created": "2026-09-29T12:38:16.668Z",
+    "coverage": 1,
+    "source": {
+      "name": "Nature",
+      "url": "https://nature.com/articles/d41586-026-02961-z",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "7cd942af4534",
+    "slug": "mashina-organish-fag-mezbon-tasirini-bashorat-qiladi-7cd942",
+    "title": "Mashina o'rganish fag-mezbon ta'sirini bashorat qiladi",
+    "summary": "Nature jurnalidagi tadqiqotda mashina o'rganish yordamida genomlardan fag-mezbon o'zaro ta'sirlarini bashorat qilish usuli ko'rsatilgan. Bu filogeniyaga bog'liq bo'lmagan darajada amalga oshiriladi.",
+    "tags": [
+      "tadqiqot",
+      "tibbiyot"
+    ],
+    "importance": 2,
+    "score": 22.8,
+    "published": "2026-09-29T00:00:00.000Z",
+    "created": "2026-09-29T12:38:16.668Z",
+    "coverage": 1,
+    "source": {
+      "name": "Nature",
+      "url": "https://nature.com/articles/s41564-026-02482-5",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "a37b0826d622",
+    "slug": "ai-laboratoriyalarini-tekshirish-vaqti-keldi-a37b08",
+    "title": "AI laboratoriyalarini tekshirish vaqti keldi",
+    "summary": "Hacker News'dagi maqolada sun'iy intellekt laboratoriyalarini tekshirish zarurligi ta'kidlanadi. Bu AI rivojlanishi bilan bog'liq masalalarni ko'rib chiqishga chaqiriqdir.",
+    "tags": [
+      "qonun",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 21.1,
+    "published": "2026-09-28T19:53:35.000Z",
+    "created": "2026-09-29T12:38:16.668Z",
+    "coverage": 1,
+    "source": {
+      "name": "Hacker News",
+      "url": "https://calnewport.com/its-time-to-investigate-the-ai-labs",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "a3594f429202",
+    "slug": "investorlar-dasturiy-muhandislar-uchun-ai-samaradorligini-ba-a3594f",
+    "title": "Investorlar dasturiy muhandislar uchun AI samaradorligini baholadi",
+    "summary": "Investorlar dasturiy ta'minot muhandislari uchun sun'iy intellektning 32.6% samaradorlik oshishini hisobga olmoqda. Iqtisodchilar bozorlar haddan tashqari oshirib yuborishi mumkinligidan ogohlantirmoqda.",
+    "tags": [
+      "biznes",
+      "mehnat bozori"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-09-29T12:30:00.000Z",
+    "created": "2026-09-29T12:38:16.668Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/ai-and-ml/2026/09/29/investors-are-pricing-in-a-326-ai-productivity-boost-for-software-engineers/5299645",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "fb39aea696a0",
+    "slug": "adp-77-yillik-ish-haqi-tajribasi-ai-haqida-nima-orgatdi-fb39ae",
+    "title": "ADP: 77 yillik ish haqi tajribasi AI haqida nima o'rgatdi",
+    "summary": "ADP kompaniyasi 77 yillik ish haqi tajribasi AI haqida muhim saboqlar berganini ta'kidladi. Kelajak avlod HR texnologiyalari inson tajribasi va mulohazasiga avtomatizatsiya qadar bog'liq bo'ladi.",
+    "tags": [
+      "mehnat bozori",
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 19,
+    "published": "2026-09-29T12:00:00.000Z",
+    "created": "2026-09-29T12:38:16.668Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/09/29/payroll-ai-automation-human-resources",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "fd9bd4e69395",
+    "slug": "11-million-aqsh-ishchisi-ai-tufayli-ishidan-ayrilishi-mumkin-fd9bd4",
+    "title": "11 million AQSh ishchisi AI tufayli ishidan ayrilishi mumkin",
+    "summary": "Semafor xabariga ko'ra, AQShda taxminan 11 million ishchi sun'iy intellekt tufayli ishidan ayrilishi mumkin. Global miqyosda saylovchilar AI'ga nisbatan salbiy munosabatda, chunki u ish o'rinlarini yo'qotish xavfini tug'diradi.",
+    "tags": [
+      "mehnat bozori",
+      "iqtisod"
+    ],
+    "importance": 4,
+    "score": 19,
+    "published": "2026-09-29T11:47:41.000Z",
+    "created": "2026-09-29T12:38:16.668Z",
+    "coverage": 1,
+    "source": {
+      "name": "Semafor",
+      "url": "https://semafor.com/article/09/29/2026/around-11-million-us-workers-may-face-ai-displacement",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "a002a190645e",
     "slug": "ic-star-mikrosxemalar-dizaynini-avtomatlashtiradi-a002a1",
     "title": "IC-STAR mikrosxemalar dizaynini avtomatlashtiradi",
