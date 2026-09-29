@@ -1,5 +1,92 @@
 [
   {
+    "id": "cc449d663807",
+    "slug": "robotchining-bir-kuni-charlie-kemp-va-yordamchi-robotlar-cc449d",
+    "title": "Robotchining bir kuni: Charlie Kemp va yordamchi robotlar",
+    "summary": "Hello Robot asoschisi Charlie Kemp MITda AI o‘rgangan. U nogironligi bor insonlarga yordam beruvchi robotlar yaratadi va o‘z tajribasi bilan bo‘lishdi.",
+    "tags": [
+      "robototexnika"
+    ],
+    "importance": 2,
+    "score": 22,
+    "published": "2026-09-28T21:48:56.000Z",
+    "created": "2026-09-29T09:36:53.425Z",
+    "coverage": 1,
+    "source": {
+      "name": "IEEE Spectrum",
+      "url": "https://robotsguide.com/learn/a-day-in-the-life-of-a-roboticist-charlie-kemp",
+      "title": "A Day in the Life of a Roboticist: Charlie Kemp",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "519655950107",
+    "slug": "esp32s3-klasterida-1-58-bitli-til-modeli-ishga-tushirildi-519655",
+    "title": "ESP32S3 klasterida 1.58-bitli til modeli ishga tushirildi",
+    "summary": "Hacker News'da xabar berilishicha, ESP32S3 klasterida 1.58-bitli (BitNet) til modeli muvaffaqiyatli ishga tushirilgan. Bu texnik yechim AI modellarini kichik qurilmalarda ishlatish imkonini beradi.",
+    "tags": [
+      "chiplar",
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 18.9,
+    "published": "2026-09-28T21:26:41.000Z",
+    "created": "2026-09-29T09:37:09.403Z",
+    "coverage": 1,
+    "source": {
+      "name": "Hacker News",
+      "url": "https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "120091e26838",
+    "slug": "aws-ai-infratuzilmasining-ulgurji-yetkazuvchisi-bo-lishi-ker-120091",
+    "title": "AWS AI infratuzilmasining ulgurji yetkazuvchisi bo‘lishi kerak",
+    "summary": "The Register nashri AWS'ni AI infratuzilmasining \"Home Depot\"i deb atadi. Maqolada AWS'ning AI uchun ulgurji yetkazuvchi sifatidagi rolini qabul qilishi kerakligi ta'kidlangan.",
+    "tags": [
+      "Amazon",
+      "bulut"
+    ],
+    "importance": 2,
+    "score": 18.8,
+    "published": "2026-09-28T21:05:00.000Z",
+    "created": "2026-09-29T09:37:09.403Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/paas-and-iaas/2026/09/28/aws-needs-to-embrace-its-place-as-the-home-depot-of-ai-infrastructure/5299602",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "32b405586eac",
+    "slug": "ai-laboratoriyalari-uchun-asosiy-maqsad-boshqa-32b405",
+    "title": "AI laboratoriyalari uchun asosiy maqsad boshqa",
+    "summary": "Hacker News'dagi maqolada AI laboratoriyalari uchun \"chegarani belgilash\" asosiy maqsad emasligi aytilgan. Bu AI tadqiqotlarining haqiqiy yo‘nalishi haqida fikr bildiradi.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 17.9,
+    "published": "2026-09-28T20:47:26.000Z",
+    "created": "2026-09-29T09:37:09.403Z",
+    "coverage": 1,
+    "source": {
+      "name": "Hacker News",
+      "url": "https://lesswrong.com/posts/Nm4ewbYovtjq69dvH/pacing-the-frontier-is-not-the-actual-goal-for-ai-labs",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "405f39e62fd1",
     "slug": "taste-labs-aiga-didni-orgatishga-urinmoqda-405f39",
     "title": "Taste Labs AI'ga didni o'rgatishga urinmoqda",

@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/chiplar/</link>
   <description>&quot;chiplar&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Tue, 29 Sep 2026 09:15:42 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 29 Sep 2026 09:42:03 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/chiplar/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>ESP32S3 klasterida 1.58-bitli til modeli ishga tushirildi</title>
+    <link>https://ailenta.uz/x/esp32s3-klasterida-1-58-bitli-til-modeli-ishga-tushirildi-519655/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/esp32s3-klasterida-1-58-bitli-til-modeli-ishga-tushirildi-519655/</guid>
+    <pubDate>Mon, 28 Sep 2026 21:26:41 GMT</pubDate>
+    <description>Hacker News'da xabar berilishicha, ESP32S3 klasterida 1.58-bitli (BitNet) til modeli muvaffaqiyatli ishga tushirilgan. Bu texnik yechim AI modellarini kichik qurilmalarda ishlatish imkonini beradi.</description>
+    <category>chiplar</category><category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/esp32s3-klasterida-1-58-bitli-til-modeli-ishga-tushirildi-519655.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/esp32s3-klasterida-1-58-bitli-til-modeli-ishga-tushirildi-519655.jpg"/>
+  </item>
   <item>
     <title>SiMa.ai startapi $150 mln sarmoya jalb qildi</title>
     <link>https://ailenta.uz/x/sima-ai-startapi-150-mln-sarmoya-jalb-qildi-9946e3/</link>
@@ -296,16 +306,6 @@
     <category>Nvidia</category><category>chiplar</category>
     <media:content url="https://ailenta.uz/og/nvidia-chiplari-chiqindisi-komir-giganti-bilan-tenglashdi-97a5a4.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/nvidia-chiplari-chiqindisi-komir-giganti-bilan-tenglashdi-97a5a4.jpg"/>
-  </item>
-  <item>
-    <title>Ricore Radiant D35 chipi PrimeBot bilan hamkorlikda</title>
-    <link>https://ailenta.uz/x/ricore-radiant-d35-chipi-primebot-bilan-hamkorlikda-e391bb/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/ricore-radiant-d35-chipi-primebot-bilan-hamkorlikda-e391bb/</guid>
-    <pubDate>Mon, 21 Sep 2026 08:22:54 GMT</pubDate>
-    <description>Suzhouda joylashgan Ricore kompaniyasining Radiant D35 RISC-V AI chipi PrimeBot uchun hisoblash ekotizimi hamkori bo'ldi. U bulutda o'qitish emas, balki gumanoid robotlar uchun chekka xulosa chiqarishga mo'ljallangan.</description>
-    <category>chiplar</category><category>robototexnika</category>
-    <media:content url="https://ailenta.uz/og/ricore-radiant-d35-chipi-primebot-bilan-hamkorlikda-e391bb.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/ricore-radiant-d35-chipi-primebot-bilan-hamkorlikda-e391bb.jpg"/>
   </item>
 </channel>
 </rss>
