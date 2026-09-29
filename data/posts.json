@@ -1,5 +1,62 @@
 [
   {
+    "id": "583830746b21",
+    "slug": "anthropic-ipo-hujjatida-insoniyatga-xavf-haqida-ogohlantirdi-583830",
+    "title": "Anthropic IPO hujjatida insoniyatga xavf haqida ogohlantirdi",
+    "summary": "Anthropic kompaniyasi oʻzining IPO hujjatida sunʼiy intellekt insoniyat uchun mavjudlik xavfini tugʻdirishi mumkinligidan ogohlantirdi. Bu ogohlantirish kompaniyaning moliyaviy hujjatlarida aks etgan.",
+    "tags": [
+      "Anthropic",
+      "xavfsizlik"
+    ],
+    "importance": 4,
+    "score": 48,
+    "published": "2026-09-29T01:08:28.000Z",
+    "created": "2026-09-29T02:09:40.452Z",
+    "coverage": 4,
+    "source": {
+      "name": "Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSy1KbEtmZ1NBTnFEd3Fkck9jajdOcHNMRnhrRDAzNEV6UWRVaWk4LWZLdlNCeHQ2U29rWUQzaFpmd3ZfUzNQWXQxMVhmX01ELXYyMEk4MzBLRjlrRGdPT0dEMlBsZUU0UFdmZ0VmYVNhTmFtRTJtaXRPNjc5MVBCcFNNaHY",
+      "indirect": true
+    },
+    "also": [
+      {
+        "name": "Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVndoU28yRmZKcU1nd1MtOThsNXYtejlvampCQXFwRXIxcUJWdWZ5R0twWnM2czMyMmt3cERxQmhEYk5pWVh0UExTMVEzU3k0Tk5wa3Zkdkxkc0E3aTIzbEhOVmZrWmZPajJJaFRBb2JxUElza0puQW56MGpXM21lMDBSR1BDTkY3Ullja3pTQW1mQ20wWVhDTnMxRHB1MkFyUFQySkoxQldxNmFkNmp1dG95dndFUmZOb2c"
+      },
+      {
+        "name": "CNA",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbEZQNnNpWndsVHNsWnczMDhoUnFIQXZiNnQ5M1J0NDZWVHR5aWliZUdHc2F1ZWxaU0F0WXVHclYzR2wzZUItdXdYbE1yRnNxc1E4d3hOY3N0MkVpZjR0cVlOV1ZvNi1scVJ5eThsQ1VoR2plaExDQk5hTjJYRHp0VG9CdnJ5MDk2LTFOUzhfM1FkVUZ0ZnNhZFdoek1uWG9H"
+      },
+      {
+        "name": "BNN Bloomberg",
+        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPTDhEVlVxVk5wSGt5bENHQVBtcVNEdW5IVkFpZ3VYRmtBZ1JNVFRIU3VUS1ZFMTQ3djNoZUtfT2NGRk1DU3JfQngwdlBuTnhoaWRROGVmV2U4SGZTXzVkVnNaanllOF8yWUN5bFBBTDlMVTRielZjUHdPaGFJQ1d0dzhoY0VOMDVFcE92YzVSOGdlaF9sOWVyaUhiSV9yX0pvUHRoT2xYQThtM2JlMlpubjhOOXEwanVUbjdsa2NmZU1kQ0tTNk1RXzRRM2N3X0VNbFJnZDRqRVZ5clVIZkNsVWZhaWswVm1takxPZmNDSWVqY2xz"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "9946e3369af8",
+    "slug": "sima-ai-startapi-150-mln-sarmoya-jalb-qildi-9946e3",
+    "title": "SiMa.ai startapi $150 mln sarmoya jalb qildi",
+    "summary": "Fizik AI uchun maxsus chiplar ishlab chiqaruvchi SiMa.ai startapi $150 million sarmoya jalb qildi. Kompaniyaning bahosi $1.45 milliardga yetdi.",
+    "tags": [
+      "chiplar",
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 14.5,
+    "published": "2026-09-28T13:00:00.000Z",
+    "created": "2026-09-29T02:09:40.452Z",
+    "coverage": 1,
+    "source": {
+      "name": "SiliconANGLE",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZ3A4ZGlZWUZtOFlwZWY1WEVodnMyeERjc2pZM2tIb1hQT01hT1RaYlZvMHdxMm5QRl9veWpYQTlLUS0yMTFqbmQtTXh0MHR0dTlLY1ppNWNyN1BrSlZweVBWUS05ZDU2MjBSaUwxU1pwNDNzbGY5MVFxS0h6NDFpWGxFTzdpczIyTkNJanlzaWF0eG44aWNPS01sbGRuSndmZDlBLWZSODFlYkNS",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "d18f81a65e79",
     "slug": "meta-korporativ-ai-biznesini-yo-lga-qo-ymoqda-d18f81",
     "title": "Meta korporativ AI biznesini yoʻlga qoʻymoqda",
