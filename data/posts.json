@@ -1,5 +1,49 @@
 [
   {
+    "id": "68e618c538b3",
+    "slug": "xodimlardan-ai-yozgan-matnlarni-belgilash-talab-qilinmoqda-68e618",
+    "title": "Xodimlardan AI yozgan matnlarni belgilash talab qilinmoqda",
+    "summary": "Sun'iy intellekt kompaniyalari o'z xodimlari chatbotlar yaratgan matnlarni o'ziniki qilib ko'rsatishidan charchadi. Shu sababli ular yozish bo'yicha yangi qoidalarni joriy etmoqda. Ba'zi kompaniyalar xodimlardan AI yozgan matnlarni maxsus belgilar bilan belgilashni talab qilmoqda.",
+    "tags": [
+      "mehnat bozori",
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 18,
+    "published": "2026-09-29T05:31:44.000Z",
+    "created": "2026-09-29T05:44:29.008Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/ai-startups-asking-employees-to-flag-ai-writing-clay-figma-2026-9",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "ef45a3e2b217",
+    "slug": "zhipu-ai-mojarodan-keyin-bulutdagi-malumotlarni-ochirdi-ef45a3",
+    "title": "Zhipu AI mojarodan keyin bulutdagi ma'lumotlarni o'chirdi",
+    "summary": "Zhipu AI kompaniyasi o'zining ZCode dasturlash vositasi atrofidagi mojarodan so'ng barcha bulutli ma'lumotlarni o'chirib tashladi. Ma'lumotlar o'chirilgani uchinchi tomon tashkilotlari tomonidan tasdiqlandi. Kompaniya texnik muammolarni bartaraf etib, foydalanuvchilarga tovon puli to'lashini e'lon qildi.",
+    "tags": [
+      "xavfsizlik",
+      "maxfiylik"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-09-29T02:24:39.000Z",
+    "created": "2026-09-29T05:44:29.008Z",
+    "coverage": 1,
+    "source": {
+      "name": "TechNode",
+      "url": "https://technode.com/2026/09/29/zhipus-zcode-deletes-data-and-announces-compensation-after-data-upload-controversy",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "14dcd2e74069",
     "slug": "pwc-tadqiqoti-ai-xodimlarni-4-guruhga-ajratmoqda-14dcd2",
     "title": "PwC tadqiqoti: AI xodimlarni 4 guruhga ajratmoqda",
