@@ -1,5 +1,94 @@
 [
   {
+    "id": "8727ab4a1263",
+    "slug": "mirrorme-viva-qoli-va-cada-modeli-tort-qolli-pianino-ijro-et-8727ab",
+    "title": "MirrorMe VIVA qo'li va CADA modeli to'rt qo'lli pianino ijro etdi",
+    "summary": "MirrorMe Technology kompaniyasi VIVA chaqqon qo'li va CADA musiqa modeli yordamida inson-robot to'rt qo'lli pianino ijrosini namoyish etdi. Bu 2026-yil 24-sentabr atrofida bo'lib o'tdi.",
+    "tags": [
+      "robototexnika",
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 18,
+    "published": "2026-09-29T02:15:27.000Z",
+    "created": "2026-09-29T03:36:42.891Z",
+    "coverage": 1,
+    "source": {
+      "name": "Pandaily",
+      "url": "https://pandaily.com/mirrorme-viva-cada-dexterous-hand-four-hand-piano",
+      "title": "MirrorMe VIVA Dexterous Hand and CADA Model Demo Four-Hand Piano",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "54cfc328c8dc",
+    "slug": "xitoyda-elektromobilni-5-daqiqada-quvvatlash-texnologiyasi-54cfc3",
+    "title": "Xitoyda elektromobilni 5 daqiqada quvvatlash texnologiyasi",
+    "summary": "Xitoyning uch yirik kompaniyasi elektromobillar uchun oʻta tez quvvatlash texnologiyalarini taqdim etdi. Batareya qizib ketishining oldini olish uchun AIga asoslangan nazorat tizimi qoʻllanilmoqda.",
+    "tags": [
+      "Xitoy",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 45,
+    "published": "2026-09-29T03:16:37.000Z",
+    "created": "2026-09-29T03:36:43.199Z",
+    "coverage": 1,
+    "source": {
+      "name": "Daryo",
+      "url": "https://daryo.uz/2026/09/29/xitoyda-elektromobilni-5-daqiqada-quvvatlash-texnologiyasi-yaratildi",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "9b43c08bd702",
+    "slug": "ai-asoschilari-intellekt-portlashi-xavfidan-ogohlantirdi-9b43c0",
+    "title": "AI asoschilari 'intellekt portlashi' xavfidan ogohlantirdi",
+    "summary": "Zamonaviy AI asoschilari va OpenAI, Anthropic rahbarlari hukumatlarni AI 'intellekt portlashi'ga tayyorlanishga chaqirdi. Ular buni tarixiy texnologik rivojlanish deb atadi.",
+    "tags": [
+      "xavfsizlik",
+      "tadqiqot"
+    ],
+    "importance": 5,
+    "score": 28.8,
+    "published": "2026-09-28T15:00:36.000Z",
+    "created": "2026-09-29T03:36:43.199Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/technology/2026/sep/28/ai-godfathers-warn-of-runaway-intelligence-explosion",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "3fe868b17327",
+    "slug": "delta-intelligence-delta-0-gumanoid-modelini-chiqardi-3fe868",
+    "title": "Delta Intelligence Delta-0 gumanoid modelini chiqardi",
+    "summary": "Delta Intelligence 2026-yil 28-sentabrda Delta-0 gumanoid asosiy modelini taqdim etdi. Model 32 ta rejalashtirilgan qadam va to'qqizta uy vazifasini 210 soniyada bajardi.",
+    "tags": [
+      "robototexnika",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 18,
+    "published": "2026-09-29T02:14:09.000Z",
+    "created": "2026-09-29T03:36:43.199Z",
+    "coverage": 1,
+    "source": {
+      "name": "Pandaily",
+      "url": "https://pandaily.com/delta-intelligence-delta-0-native-humanoid-foundation-model",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "583830746b21",
     "slug": "anthropic-ipo-hujjatida-insoniyatga-xavf-haqida-ogohlantirdi-583830",
     "title": "Anthropic IPO hujjatida insoniyatga xavf haqida ogohlantirdi",
