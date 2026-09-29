@@ -1,5 +1,92 @@
 [
   {
+    "id": "cf468ec39dd6",
+    "slug": "openai-ai-oqitish-xavfsizligi-boyicha-korsatmalar-chiqardi-cf468e",
+    "title": "OpenAI AI o'qitish xavfsizligi bo'yicha ko'rsatmalar chiqardi",
+    "summary": "OpenAI chegaraviy AI modellarini o'qitish uchun dastlabki xavfsizlik ko'rsatmalarini e'lon qildi. Ular texnik himoya choralari, operatsion amaliyotlar va noto'g'ri ishlash holatlarini tekshirishni qamrab oladi.",
+    "tags": [
+      "OpenAI",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 35.3,
+    "published": "2026-09-28T19:00:00.000Z",
+    "created": "2026-09-29T08:44:24.520Z",
+    "coverage": 1,
+    "source": {
+      "name": "OpenAI",
+      "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "72f1b5cc0786",
+    "slug": "ai-super-paclar-oraliq-saylovlarga-tasir-otkazmoqda-72f1b5",
+    "title": "AI Super PAC'lar oraliq saylovlarga ta'sir o'tkazmoqda",
+    "summary": "AI Super PAC'lar AQShdagi oraliq saylovlarga ta'sir o'tkazishga urinmoqda. Bu haqda The New York Times xabar berdi.",
+    "tags": [
+      "siyosat"
+    ],
+    "importance": 3,
+    "score": 27,
+    "published": "2026-09-29T04:02:54.000Z",
+    "created": "2026-09-29T08:44:24.520Z",
+    "coverage": 1,
+    "source": {
+      "name": "The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSTVPUnpiZXRNcnZscHdsb2hCTXRzS0puQ3Zic1JiOWJ4VzY5NnBXc1NzbkpIeGpYRHhnb09qUDRXZXFndE02dU8wM3RXLTBnQ0dmSDE0TzFqMmNETDRhSXJ2QTV0dUxFXzRVMTd1aEk2Q1BqWWJCM0U5NDVMcDcwYnNyZUN6Ymw0VEtMSV9ZTHNpZ0VDZVpLVHRTQ2gyMzFWNnc",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "8653e93ef7e8",
+    "slug": "mistral-bosh-direktori-ai-xavfsizligi-bahsini-tanqid-qildi-8653e9",
+    "title": "Mistral bosh direktori AI xavfsizligi bahsini tanqid qildi",
+    "summary": "Mistral bosh direktori Artur Mensh raqobatchilarning AI xavfsizligi bo'yicha argumentlarini tanqid qildi. Uning fikricha, bu bahs raqobatchilarning \"beparvoligini\" yashirmoqda.",
+    "tags": [
+      "Mistral",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 22,
+    "published": "2026-09-29T08:20:04.000Z",
+    "created": "2026-09-29T08:44:24.520Z",
+    "coverage": 1,
+    "source": {
+      "name": "CNBC",
+      "url": "https://cnbc.com/2026/09/29/mistral-ai-safety-openai-anthropic.html",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "5711541ab1ec",
+    "slug": "zuckerberg-va-amodei-tramp-bilan-uchrashadi-571154",
+    "title": "Zuckerberg va Amodei Tramp bilan uchrashadi",
+    "summary": "Mark Zuckerberg va Dario Amodei kabi texnologiya rahbarlari seshanba kuni Donald Tramp bilan uchrashishi rejalashtirilgan. Uchrashuvda AI xavfsizligi muhokama qilinishi kutilmoqda.",
+    "tags": [
+      "siyosat",
+      "Meta"
+    ],
+    "importance": 4,
+    "score": 21.7,
+    "published": "2026-09-28T20:00:45.000Z",
+    "created": "2026-09-29T08:44:24.520Z",
+    "coverage": 1,
+    "source": {
+      "name": "CNBC",
+      "url": "https://cnbc.com/2026/09/28/trump-ai-tech-lunch.html",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "68e618c538b3",
     "slug": "xodimlardan-ai-yozgan-matnlarni-belgilash-talab-qilinmoqda-68e618",
     "title": "Xodimlardan AI yozgan matnlarni belgilash talab qilinmoqda",
