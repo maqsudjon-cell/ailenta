@@ -1,5 +1,94 @@
 [
   {
+    "id": "0e75f8d0e200",
+    "slug": "jadepuffer-jinoiy-guruhi-azure-identifikatorlarini-ogirladi-0e75f8",
+    "title": "JadePuffer jinoiy guruhi Azure identifikatorlarini o'g'irladi",
+    "summary": "JadePuffer jinoiy guruhi Azure bulut xizmatlarining identifikatorlarini o'g'irlab, bulut resurslarini yo'q qilish uchun foydalangan. Microsoft bu holatni agentli ransomwarega o'xshash deb ogohlantirdi.",
+    "tags": [
+      "Microsoft",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-09-28T20:30:00.000Z",
+    "created": "2026-09-29T00:36:29.943Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/security/2026/09/28/jadepuffer-crims-hijacked-azure-identities-and-used-them-to-blow-up-cloud-resources/5299591",
+      "title": "JadePuffer crims hijacked Azure identities and used them to blow up cloud resources",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "fb0a3b767528",
+    "slug": "anthropic-rahbarlari-kompaniyani-founder-llc-orqali-boshqara-fb0a3b",
+    "title": "Anthropic rahbarlari kompaniyani 'Founder LLC' orqali boshqaradi",
+    "summary": "Anthropic kompaniyasi rahbarlari bozor kuchlaridan ko'ra jamoat manfaatini ustun qo'yish maqsadida AI laboratoriyasini \"Founder LLC\" orqali nazorat qilishadi.",
+    "tags": [
+      "Anthropic",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 30,
+    "published": "2026-09-29T00:09:00.000Z",
+    "created": "2026-09-29T00:37:05.266Z",
+    "coverage": 1,
+    "source": {
+      "name": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPY2tWZFZVM0xSdkV1cmY3M2lIWmhGTVhxZnV0aWpOS3ppd01pXzdDSTVybEw4SGpjbzdITTlQekluVUVuV0hSNlN6OUNvMEZyVTBlX1phS2JJVVBtejNWQ1BCdFBhT3FvN09XRFBnU2RLN1RmNVktT213VkxVbU4xUV9yT1d6SEZVUTQtN0RYV25xcm5XVk14dDhZV09QbkUwbHVlX0RQNGxEWml2bXdRTmxhd0cwQnlBLUsxbzViTUZkQ3p0S0s3d21DSlB1bUV6cnc",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "ac8b98ef9554",
+    "slug": "samsung-ai-infratuzilma-kompaniyasi-helixga-1-mlrd-sarmoya-k-ac8b98",
+    "title": "Samsung AI infratuzilma kompaniyasi Helixga $1 mlrd sarmoya kiritdi",
+    "summary": "Samsung AI infratuzilma kompaniyasi Helixga $1 milliard sarmoya kiritdi. Bu KKR boshchiligidagi konsorsium, jumladan Nvidia tomonidan iyun oyida tashkil etilgan Helix uchun allaqachon jalb qilingan $10 milliardga qo'shimcha.",
+    "tags": [
+      "Samsung",
+      "Nvidia"
+    ],
+    "importance": 4,
+    "score": 18,
+    "published": "2026-09-28T23:56:13.000Z",
+    "created": "2026-09-29T00:37:05.266Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/260928/p42",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "4640f9a3fe45",
+    "slug": "anthropic-ipo-hujjatida-42-mlrd-zarar-va-518-mlrd-xarajatni--4640f9",
+    "title": "Anthropic IPO hujjatida $42 mlrd zarar va $518 mlrd xarajatni ko'rsatdi",
+    "summary": "Anthropic kompaniyasi IPO hujjatida 2025-yilda $42 milliard sof zarar va kelgusi yilda bulut, hisoblash va infratuzilma majburiyatlariga $518 milliard sarflashni rejalashtirganini ma'lum qildi.",
+    "tags": [
+      "Anthropic",
+      "iqtisod"
+    ],
+    "importance": 5,
+    "score": 18,
+    "published": "2026-09-28T23:40:10.000Z",
+    "created": "2026-09-29T00:37:05.266Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/260928/p40",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "3f4d25be6d55",
     "slug": "ekspertlar-nvidianing-xitoydagi-savdosidan-xavotirda-3f4d25",
     "title": "Ekspertlar Nvidia'ning Xitoydagi savdosidan xavotirda",

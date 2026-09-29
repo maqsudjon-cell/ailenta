@@ -2,9 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://ailenta.uz/</loc>
-    <lastmod>2026-09-28</lastmod>
+    <lastmod>2026-09-29</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://ailenta.uz/x/anthropic-rahbarlari-kompaniyani-founder-llc-orqali-boshqara-fb0a3b/</loc>
+    <lastmod>2026-09-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ailenta.uz/x/samsung-ai-infratuzilma-kompaniyasi-helixga-1-mlrd-sarmoya-k-ac8b98/</loc>
+    <lastmod>2026-09-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ailenta.uz/x/anthropic-ipo-hujjatida-42-mlrd-zarar-va-518-mlrd-xarajatni--4640f9/</loc>
+    <lastmod>2026-09-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://ailenta.uz/x/ekspertlar-nvidianing-xitoydagi-savdosidan-xavotirda-3f4d25/</loc>
@@ -50,6 +68,12 @@
   </url>
   <url>
     <loc>https://ailenta.uz/x/disney-xodimlarni-aidan-yillik-baholashda-foydalanishga-unda-e22ca6/</loc>
+    <lastmod>2026-09-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ailenta.uz/x/jadepuffer-jinoiy-guruhi-azure-identifikatorlarini-ogirladi-0e75f8/</loc>
     <lastmod>2026-09-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -11653,7 +11677,31 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://ailenta.uz/mavzu/anthropic/</loc>
+    <lastmod>2026-09-29</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://ailenta.uz/mavzu/biznes/</loc>
+    <lastmod>2026-09-29</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://ailenta.uz/mavzu/samsung/</loc>
+    <lastmod>2026-09-28</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://ailenta.uz/mavzu/nvidia/</loc>
+    <lastmod>2026-09-28</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://ailenta.uz/mavzu/iqtisod/</loc>
     <lastmod>2026-09-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
@@ -11666,12 +11714,6 @@
   </url>
   <url>
     <loc>https://ailenta.uz/mavzu/qonun/</loc>
-    <lastmod>2026-09-28</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://ailenta.uz/mavzu/biznes/</loc>
     <lastmod>2026-09-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
@@ -11701,13 +11743,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://ailenta.uz/mavzu/iqtisod/</loc>
-    <lastmod>2026-09-28</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://ailenta.uz/mavzu/agentlar/</loc>
+    <loc>https://ailenta.uz/mavzu/microsoft/</loc>
     <lastmod>2026-09-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
@@ -11719,13 +11755,13 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://ailenta.uz/mavzu/ozbekiston/</loc>
+    <loc>https://ailenta.uz/mavzu/agentlar/</loc>
     <lastmod>2026-09-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://ailenta.uz/mavzu/anthropic/</loc>
+    <loc>https://ailenta.uz/mavzu/ozbekiston/</loc>
     <lastmod>2026-09-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
@@ -11767,12 +11803,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://ailenta.uz/mavzu/samsung/</loc>
-    <lastmod>2026-09-28</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://ailenta.uz/mavzu/google/</loc>
     <lastmod>2026-09-28</lastmod>
     <changefreq>daily</changefreq>
@@ -11781,12 +11811,6 @@
   <url>
     <loc>https://ailenta.uz/mavzu/openai/</loc>
     <lastmod>2026-09-28</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://ailenta.uz/mavzu/microsoft/</loc>
-    <lastmod>2026-09-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -11882,7 +11906,7 @@
   </url>
   <url>
     <loc>https://ailenta.uz/kun/2026-09-29/</loc>
-    <lastmod>2026-09-28</lastmod>
+    <lastmod>2026-09-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -12062,13 +12086,13 @@
   </url>
   <url>
     <loc>https://ailenta.uz/arxiv/</loc>
-    <lastmod>2026-09-28</lastmod>
+    <lastmod>2026-09-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://ailenta.uz/mavzular/</loc>
-    <lastmod>2026-09-28</lastmod>
+    <lastmod>2026-09-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
