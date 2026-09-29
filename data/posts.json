@@ -1,22 +1,87 @@
 [
   {
-    "id": "8653e93ef7e8",
-    "slug": "mistral-rahbari-raqobatchilarni-beparvolikda-aybladi-8653e9",
-    "title": "Mistral rahbari raqobatchilarni beparvolikda aybladi",
-    "summary": "Mistral bosh direktori Artur Mensh raqobatchilarning AI xavfsizligi haqidagi bahslarini tanqid qildi. Uning fikricha, bu bahslar raqobatchilarning o'z beparvoligini yashirishga xizmat qilmoqda. Bu tanqidlar bir nechta AI agentlari ruxsatsiz harakatlar qilganidan keyin yangradi.",
+    "id": "405f39e62fd1",
+    "slug": "taste-labs-aiga-didni-orgatishga-urinmoqda-405f39",
+    "title": "Taste Labs AI'ga didni o'rgatishga urinmoqda",
+    "summary": "Taste Labs startapi ijodkorlarni yollab, sun'iy intellektga nima yaxshi-yu, nima yomonligini o'rgatmoqda. Bu harakat AI'ning didni belgilashiga oid savollarni tug'diradi.",
     "tags": [
-      "Mistral",
-      "xavfsizlik"
+      "biznes",
+      "tadqiqot"
     ],
-    "importance": 3,
-    "score": 22,
-    "published": "2026-09-29T08:20:04.000Z",
-    "created": "2026-09-29T08:53:35.188Z",
+    "importance": 2,
+    "score": 15,
+    "published": "2026-09-29T08:13:01.000Z",
+    "created": "2026-09-29T09:05:36.336Z",
     "coverage": 1,
     "source": {
-      "name": "CNBC",
-      "url": "https://cnbc.com/2026/09/29/mistral-ai-safety-openai-anthropic.html",
-      "title": "Mistral CEO says U.S. AI safety debate masks competitors’ 'negligence'",
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/taste-labs-ai-good-taste-creativity-slop-2026-9",
+      "title": "A startup's quixotic quest to fight AI slop",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "6a8cbb42d4bb",
+    "slug": "tramp-ai-oltin-davri-ni-targib-qilmoqda-6a8cbb",
+    "title": "Tramp AI \"oltin davri\"ni targ'ib qilmoqda",
+    "summary": "Donald Tramp sun'iy intellektning \"oltin davri\"ni targ'ib qilmoqda. Vashingtonda AI xavflari haqida xavotirlar kuchaygan bo'lsa-da, Oq uy texnologiyaning imkoniyatlariga e'tibor qaratmoqda.",
+    "tags": [
+      "siyosat",
+      "agentlar"
+    ],
+    "importance": 3,
+    "score": 23,
+    "published": "2026-09-29T09:00:00.000Z",
+    "created": "2026-09-29T09:05:48.163Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Washington Post",
+      "url": "https://washingtonpost.com/technology/2026/09/29/trump-is-selling-an-ai-golden-age-fears-about-perils-spiral",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "770298d10e99",
+    "slug": "knowin-glow-robot-oqitish-tizimini-taqdim-etdi-770298",
+    "title": "Knowin GLOW robot o'qitish tizimini taqdim etdi",
+    "summary": "Embodied AI kompaniyasi Knowin GLOW nomli generativ o'rganish tizimi haqida texnik hisobot e'lon qildi. Bu tizim uy robotlariga insonning bir martalik namoyishi orqali vazifalarni o'rganish imkonini beradi.",
+    "tags": [
+      "robototexnika",
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 18,
+    "published": "2026-09-29T07:00:41.000Z",
+    "created": "2026-09-29T09:05:48.163Z",
+    "coverage": 1,
+    "source": {
+      "name": "Pandaily",
+      "url": "https://pandaily.com/knowin-glow-generative-embodied-learning-framework-one-shot-teaching",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "15defc4cccbe",
+    "slug": "kling-ai-kling-4-0-modelini-taqdim-etdi-15defc",
+    "title": "Kling AI Kling 4.0 modelini taqdim etdi",
+    "summary": "Kuaishou'ning Kling AI bo'limi Kling 4.0 modelini e'lon qildi. U 30 soniyagacha bo'lgan videokliplar, 15 tagacha multimodal referenslar va 10 ta kalit kadrni qo'llab-quvvatlaydi. Kling 4.0 Flash 28-sentabrda Ultra Yearly obunachilari uchun ochildi.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 18,
+    "published": "2026-09-29T07:00:16.000Z",
+    "created": "2026-09-29T09:05:48.163Z",
+    "coverage": 1,
+    "source": {
+      "name": "Pandaily",
+      "url": "https://pandaily.com/kling-ai-kling-4-0-30-second-native-video-multi-reference-control",
       "indirect": false
     },
     "also": [],

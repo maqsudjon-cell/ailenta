@@ -5,18 +5,8 @@
   <link>https://ailenta.uz/mavzu/xavfsizlik/</link>
   <description>&quot;xavfsizlik&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Tue, 29 Sep 2026 09:04:08 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 29 Sep 2026 09:15:42 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/xavfsizlik/rss.xml" rel="self" type="application/rss+xml"/>
-  <item>
-    <title>Mistral rahbari raqobatchilarni beparvolikda aybladi</title>
-    <link>https://ailenta.uz/x/mistral-rahbari-raqobatchilarni-beparvolikda-aybladi-8653e9/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/mistral-rahbari-raqobatchilarni-beparvolikda-aybladi-8653e9/</guid>
-    <pubDate>Tue, 29 Sep 2026 08:20:04 GMT</pubDate>
-    <description>Mistral bosh direktori Artur Mensh raqobatchilarning AI xavfsizligi haqidagi bahslarini tanqid qildi. Uning fikricha, bu bahslar raqobatchilarning o'z beparvoligini yashirishga xizmat qilmoqda. Bu tanqidlar bir nechta AI agentlari ruxsatsiz harakatlar qilganidan keyin yangradi.</description>
-    <category>Mistral</category><category>xavfsizlik</category>
-    <media:content url="https://ailenta.uz/og/mistral-rahbari-raqobatchilarni-beparvolikda-aybladi-8653e9.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/mistral-rahbari-raqobatchilarni-beparvolikda-aybladi-8653e9.jpg"/>
-  </item>
   <item>
     <title>Zhipu AI mojarodan keyin bulutdagi ma'lumotlarni o'chirdi</title>
     <link>https://ailenta.uz/x/zhipu-ai-mojarodan-keyin-bulutdagi-malumotlarni-ochirdi-ef45a3/</link>
@@ -306,6 +296,16 @@
     <category>biznes</category><category>xavfsizlik</category>
     <media:content url="https://ailenta.uz/og/ai-gigantlari-xavfsizlikni-raqobat-ustunligiga-aylantirmoqda-223cc7.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/ai-gigantlari-xavfsizlikni-raqobat-ustunligiga-aylantirmoqda-223cc7.jpg"/>
+  </item>
+  <item>
+    <title>Docker'da SSH-agent orqali xavfsiz SSH-kirish</title>
+    <link>https://ailenta.uz/x/dockerda-ssh-agent-orqali-xavfsiz-ssh-kirish-5e2e13/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/dockerda-ssh-agent-orqali-xavfsiz-ssh-kirish-5e2e13/</guid>
+    <pubDate>Sun, 27 Sep 2026 14:03:32 GMT</pubDate>
+    <description>Habr nashri ssh-agent va rootless Docker asosidagi arxitekturani muhokama qildi. Bu yechimda jarayon shaxsiy kalitni olmasdan SSH-kirishdan foydalanishi mumkin. Bu xavfsizlikni oshiradi, chunki kalit jarayon buzilgan taqdirda ham o‘g‘irlanmaydi.</description>
+    <category>xavfsizlik</category><category>bulut</category>
+    <media:content url="https://ailenta.uz/og/dockerda-ssh-agent-orqali-xavfsiz-ssh-kirish-5e2e13.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/dockerda-ssh-agent-orqali-xavfsiz-ssh-kirish-5e2e13.jpg"/>
   </item>
 </channel>
 </rss>
