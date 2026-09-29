@@ -1,5 +1,49 @@
 [
   {
+    "id": "3acd59aeaedb",
+    "slug": "kramer-ai-tasirini-haddan-tashqari-baholashdan-ogohlantirdi-3acd59",
+    "title": "Kramer AI ta'sirini haddan tashqari baholashdan ogohlantirdi",
+    "summary": "CNBC'dan Jim Cramer investorlar sun'iy intellektning bozorga ta'sirini haddan tashqari keng qo'llayotganini aytdi. Bu kuchli kompaniyalarda sarmoya kiritish uchun imkoniyatlar yaratishi mumkin.",
+    "tags": [
+      "iqtisod",
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 19,
+    "published": "2026-09-29T22:24:38.000Z",
+    "created": "2026-09-29T22:41:52.931Z",
+    "coverage": 1,
+    "source": {
+      "name": "CNBC",
+      "url": "https://cnbc.com/2026/09/29/jim-cramer-meta-muse-consumer-inertia.html",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "d6b01888f6d5",
+    "slug": "kramer-ai-sanoati-jamoatchilik-fikrini-yoqotmoqda-dedi-d6b018",
+    "title": "Kramer AI sanoati jamoatchilik fikrini yo'qotmoqda dedi",
+    "summary": "CNBC'dan Jim Cramerning ta'kidlashicha, sun'iy intellekt atrofidagi umumiy fikr o'zgarmoqda. Uning so'zlariga ko'ra, AI sanoati jamoatchilikning ijobiy tasavvurini saqlab qolish kurashida yutqazmoqda, bu esa aksiyalar narxiga ta'sir qilishi mumkin.",
+    "tags": [
+      "iqtisod",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-09-29T22:20:49.000Z",
+    "created": "2026-09-29T22:41:52.931Z",
+    "coverage": 1,
+    "source": {
+      "name": "CNBC",
+      "url": "https://cnbc.com/2026/09/29/jim-cramer-ai-public-perception.html",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "27e461f141a5",
     "slug": "anthropic-otgan-yili-42-mlrd-zarar-kordi-27e461",
     "title": "Anthropic o'tgan yili $42 mlrd zarar ko'rdi",
