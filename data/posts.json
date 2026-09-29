@@ -1,5 +1,94 @@
 [
   {
+    "id": "a002a190645e",
+    "slug": "ic-star-mikrosxemalar-dizaynini-avtomatlashtiradi-a002a1",
+    "title": "IC-STAR mikrosxemalar dizaynini avtomatlashtiradi",
+    "summary": "Yangi IC-STAR texnologiyasi muhandislarga yarimo'tkazgichlarni loyihalashda sun'iy intellekt boshqaruviga o'tish imkonini beradi. Tizim raqamli va analogli mikrosxemalarni ishlab chiqish jarayonini to'liq avtomatlashtiradi.",
+    "tags": [
+      "chiplar"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-09-29T10:00:06.000Z",
+    "created": "2026-09-29T10:10:08.858Z",
+    "coverage": 1,
+    "source": {
+      "name": "IEEE Spectrum",
+      "url": "https://event.on24.com/wcc/r/5507421/A45CEFBA43BC7B2A43F265520AFDBA32",
+      "title": "Unveiling IC-STAR: Full-Flow Autonomy from Digital to Analog",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "276ab0b9cbd9",
+    "slug": "millennium-xodimlariga-ai-egizaklari-beriladi-276ab0",
+    "title": "Millennium xodimlariga AI egizaklari beriladi",
+    "summary": "Millennium xedj-fondi o'z xodimlariga shaxsiylashtirilgan sun'iy intellekt agentlarini taklif qilmoqda. Kompaniya ushbu tashabbus xodimlarning mahsuldorligini oshirishga yordam berishini ma'lum qildi.",
+    "tags": [
+      "agentlar",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 18,
+    "published": "2026-09-29T09:59:02.000Z",
+    "created": "2026-09-29T10:10:08.861Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/millennium-employees-productivity-ai-digital-twin-2026-9",
+      "title": "Millennium employees' new productivity hack: an AI 'twin'",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "d7bf6f066632",
+    "slug": "ai-yordamidagi-soxta-vakansiyalardan-ehtiyot-boling-d7bf6f",
+    "title": "AI yordamidagi soxta vakansiyalardan ehtiyot bo'ling",
+    "summary": "Ish qidirayotganlar sun'iy intellekt yordamida yaratilgan soxta vakansiyalar va fishing xavfidan ogoh bo'lishlari zarur. Firibgarlik usullari borgan sari murakkablashib bormoqda.",
+    "tags": [
+      "xavfsizlik",
+      "mehnat bozori"
+    ],
+    "importance": 2,
+    "score": 23,
+    "published": "2026-09-29T10:00:01.000Z",
+    "created": "2026-09-29T10:11:17.143Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Washington Post",
+      "url": "https://washingtonpost.com/business/2026/09/29/job-scams-have-gotten-more-sophisticated-heres-how-spot-avoid-them",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "183e816e3f6b",
+    "slug": "alibaba-modeli-kiberxavfsizlik-reytingida-yetakchi-boldi-183e81",
+    "title": "Alibaba modeli kiberxavfsizlik reytingida yetakchi bo'ldi",
+    "summary": "Alibaba kompaniyasining XekRung-1.5-27B-Preview modeli CyberGym sinov to'plamida 88.9 foizlik natija ko'rsatdi. Qwen3.8-27B asosida moslashtirilgan ushbu model reytingda birinchi o'rinni egalladi.",
+    "tags": [
+      "xavfsizlik",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-09-29T07:00:03.000Z",
+    "created": "2026-09-29T10:11:17.144Z",
+    "coverage": 1,
+    "source": {
+      "name": "Pandaily",
+      "url": "https://pandaily.com/alibaba-xekrung-27b-cybergym-model-leaderboard-88-9",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "cc449d663807",
     "slug": "robotchining-bir-kuni-charlie-kemp-va-yordamchi-robotlar-cc449d",
     "title": "Robotchining bir kuni: Charlie Kemp va yordamchi robotlar",

@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/chiplar/</link>
   <description>&quot;chiplar&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Tue, 29 Sep 2026 10:06:57 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 29 Sep 2026 10:16:10 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/chiplar/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>IC-STAR mikrosxemalar dizaynini avtomatlashtiradi</title>
+    <link>https://ailenta.uz/x/ic-star-mikrosxemalar-dizaynini-avtomatlashtiradi-a002a1/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/ic-star-mikrosxemalar-dizaynini-avtomatlashtiradi-a002a1/</guid>
+    <pubDate>Tue, 29 Sep 2026 10:00:06 GMT</pubDate>
+    <description>Yangi IC-STAR texnologiyasi muhandislarga yarimo'tkazgichlarni loyihalashda sun'iy intellekt boshqaruviga o'tish imkonini beradi. Tizim raqamli va analogli mikrosxemalarni ishlab chiqish jarayonini to'liq avtomatlashtiradi.</description>
+    <category>chiplar</category>
+    <media:content url="https://ailenta.uz/og/ic-star-mikrosxemalar-dizaynini-avtomatlashtiradi-a002a1.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/ic-star-mikrosxemalar-dizaynini-avtomatlashtiradi-a002a1.jpg"/>
+  </item>
   <item>
     <title>ESP32S3 klasterida 1.58-bitli til modeli ishga tushirildi</title>
     <link>https://ailenta.uz/x/esp32s3-klasterida-1-58-bitli-til-modeli-ishga-tushirildi-519655/</link>
@@ -296,16 +306,6 @@
     <category>Apple</category><category>chiplar</category>
     <media:content url="https://ailenta.uz/og/apple-mac-studio-m5-ultra-sharhi-yuqori-narx-d879ca.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/apple-mac-studio-m5-ultra-sharhi-yuqori-narx-d879ca.jpg"/>
-  </item>
-  <item>
-    <title>Nvidia chiplari chiqindisi ko'mir giganti bilan tenglashdi</title>
-    <link>https://ailenta.uz/x/nvidia-chiplari-chiqindisi-komir-giganti-bilan-tenglashdi-97a5a4/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/nvidia-chiplari-chiqindisi-komir-giganti-bilan-tenglashdi-97a5a4/</guid>
-    <pubDate>Mon, 21 Sep 2026 11:51:55 GMT</pubDate>
-    <description>Yangi hisobotga ko'ra, Nvidia chiplaridan foydalanish tufayli havoga chiqariladigan chiqindilar miqdori Rossiyaning davlat ko'mir ishlab chiqaruvchisi darajasiga yetgan.</description>
-    <category>Nvidia</category><category>chiplar</category>
-    <media:content url="https://ailenta.uz/og/nvidia-chiplari-chiqindisi-komir-giganti-bilan-tenglashdi-97a5a4.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/nvidia-chiplari-chiqindisi-komir-giganti-bilan-tenglashdi-97a5a4.jpg"/>
   </item>
 </channel>
 </rss>
