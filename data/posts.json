@@ -1,5 +1,103 @@
 [
   {
+    "id": "27e461f141a5",
+    "slug": "anthropic-otgan-yili-42-mlrd-zarar-kordi-27e461",
+    "title": "Anthropic o'tgan yili $42 mlrd zarar ko'rdi",
+    "summary": "Anthropic kompaniyasi o'tgan yili $4.6 milliard daromad olgan bo'lsa-da, $42 milliard zarar ko'rgani ma'lum bo'ldi. Bu ma'lumotlar kompaniyaning moliyaviy hujjatlarida aks etgan.",
+    "tags": [
+      "Anthropic",
+      "biznes"
+    ],
+    "importance": 4,
+    "score": 29,
+    "published": "2026-09-29T12:40:49.000Z",
+    "created": "2026-09-29T21:37:22.926Z",
+    "coverage": 2,
+    "source": {
+      "name": "The Verge",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdHBvNmpNUGhCVTFKc2FXeU1NNXV4Y0VCc1RSak45YjY0NHJ5Zk1WLTdnaWFoMkNFSFJHOTNReGViczF1QURhT1ZEVEJ5LVJWenNuMWlvTXJWVnpaYWxHYUJGQ1pvQTJELTU2YmpRODEycmFwcDNTMVoxb2ZSd0lCVDM4am5wbS1MbHBNQ3lTQ2FqaGZz",
+      "indirect": true
+    },
+    "also": [
+      {
+        "name": "Mashable",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1QZU1lRnpwckFTb1poMGtMOHdYTXUwYUFaT0p4ZVYtazU4S296UW9QNHN5ako0QlFNVFdBc0NRaGxTeGlQMGlYSlNlck1WOWl3ZWJ3RkZadTZCOWMyM1dOR2I4TS11RHNBNkRj"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "1ec4d781af85",
+    "slug": "tramp-ai-rahbarlari-bilan-axloqiy-majburiy-kelishuv-imzoladi-1ec4d7",
+    "title": "Tramp AI rahbarlari bilan 'axloqiy majburiy' kelishuv imzoladi",
+    "summary": "Donald Tramp AI sohasining yetakchilari bilan 'axloqiy majburiy' deb atalgan kelishuvni imzolaganini ma'lum qildi. Biroq, Mike Johnson bu hujjatni sanoat uchun ixtiyoriy tamoyillar bayonoti deb atadi.",
+    "tags": [
+      "siyosat",
+      "qonun"
+    ],
+    "importance": 4,
+    "score": 28,
+    "published": "2026-09-29T21:18:27.000Z",
+    "created": "2026-09-29T21:37:22.926Z",
+    "coverage": 2,
+    "source": {
+      "name": "CNBC",
+      "url": "https://cnbc.com/2026/09/29/tech-white-house-ai-lunch-trump.html",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "Techmeme",
+        "url": "https://techmeme.com/260929/p47"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "c341896c8eb0",
+    "slug": "america-gov-chatboti-trampga-zid-javob-berib-cheklandi-c34189",
+    "title": "America.gov chatboti Trampga zid javob berib, cheklandi",
+    "summary": "America.gov saytidagi AI chatbot 2020 yilgi saylovlar va iqlim o'zgarishi bo'yicha Donald Trampga zid ma'lumot berdi. Shundan so'ng, Oq uy chatbotning ba'zi siyosiy savollarga javob berishini to'xtatdi.",
+    "tags": [
+      "siyosat",
+      "maxfiylik"
+    ],
+    "importance": 4,
+    "score": 22,
+    "published": "2026-09-29T20:34:23.000Z",
+    "created": "2026-09-29T21:37:22.926Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/09/29/trumps-new-ai-website-america-gov-said-biden-won-2020then-the-white-house-made-the-chatbot-stop-answering",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "5d0568f91b9f",
+    "slug": "ai-malumot-markazlari-uchun-6t-yillik-daromad-kerak-5d0568",
+    "title": "AI ma'lumot markazlari uchun $6T yillik daromad kerak",
+    "summary": "Xabarlarga ko'ra, sun'iy intellekt (AI) sohasidagi ma'lumot markazlarining jadal rivojlanishini oqlash uchun yiliga $6 trillion daromad talab qilinadi. Bu raqam AI infratuzilmasiga kiritilayotgan ulkan sarmoyalarni aks ettiradi.",
+    "tags": [
+      "iqtisod",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 21.5,
+    "published": "2026-09-29T19:21:25.000Z",
+    "created": "2026-09-29T21:37:22.926Z",
+    "coverage": 1,
+    "source": {
+      "name": "Hacker News",
+      "url": "https://thenationalnews.com/future/technology/2026/09/29/ai-industry-needs-to-earn-6-trillion-by-2031-to-justify-data-centres",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "72001d22fa40",
     "slug": "gpt-6-astra-kiberhujumlarni-besh-barobar-oshirdi-72001d",
     "title": "GPT-6 Astra kiberhujumlarni besh barobar oshirdi",
