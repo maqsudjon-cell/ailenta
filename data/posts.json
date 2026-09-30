@@ -1,5 +1,48 @@
 [
   {
+    "id": "8f48c4509173",
+    "slug": "senat-demokratlari-malumot-markazlari-energiyasi-boyicha-qon-8f48c4",
+    "title": "Senat demokratlari ma'lumot markazlari energiyasi bo'yicha qonun loyihasini blokladi",
+    "summary": "Senat demokratlari ma'lumot markazlarining elektr energiyasi iste'moliga ta'sirini kamaytirishga qaratilgan qonun loyihasini blokladi. Ular bu qonunni «samarasiz» deb atashdi. «Ratepayer Protection Act» 57 ga qarshi 43 ovoz bilan o'ta olmadi.",
+    "tags": [
+      "siyosat",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 23,
+    "published": "2026-09-30T17:48:30.000Z",
+    "created": "2026-09-30T19:06:46.577Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/us-news/2026/sep/30/senate-datacenter-energy-bill",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "988c09b43ccd",
+    "slug": "ai-gollivudda-ishlab-chiqarish-jarayonini-ozgartirmoqda-988c09",
+    "title": "AI Gollivudda ishlab chiqarish jarayonini o'zgartirmoqda",
+    "summary": "Sun'iy intellekt Gollivudning ishlab chiqarish jarayonini o'zgartirib, yangi yulduzga aylanmoqda. Higgsfield AI, Runway va Luma kabi startaplar AI yordamida bu sohani qayta shakllantirmoqda.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 19,
+    "published": "2026-09-30T16:59:20.000Z",
+    "created": "2026-09-30T19:06:46.577Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/09/30/cio-intelligence-sept-30",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "b5e5e43443d2",
     "slug": "openai-kichik-biznes-uchun-ai-oquv-dasturini-kengaytiradi-b5e5e4",
     "title": "OpenAI kichik biznes uchun AI o'quv dasturini kengaytiradi",
