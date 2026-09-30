@@ -1,5 +1,71 @@
 [
   {
+    "id": "b5e5e43443d2",
+    "slug": "openai-kichik-biznes-uchun-ai-oquv-dasturini-kengaytiradi-b5e5e4",
+    "title": "OpenAI kichik biznes uchun AI o'quv dasturini kengaytiradi",
+    "summary": "OpenAI kompaniyasi kichik biznes subyektlari uchun AI bo'yicha amaliy treninglar va mahalliy yordamni kengaytirish maqsadida Amerikaning SBDC tashkiloti bilan hamkorlik boshladi. Shuningdek, kichik jamoalarning AI'dan foydalanishi haqida yangi hisobot taqdim etildi.",
+    "tags": [
+      "OpenAI",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 39,
+    "published": "2026-09-30T10:00:00.000Z",
+    "created": "2026-09-30T17:03:23.098Z",
+    "coverage": 1,
+    "source": {
+      "name": "OpenAI",
+      "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "3119a60f0cfc",
+    "slug": "kompaniyalar-tayyor-ai-agentlaridan-voz-kechishi-mumkin-3119a6",
+    "title": "Kompaniyalar tayyor AI agentlaridan voz kechishi mumkin",
+    "summary": "Tadqiqotlarga ko'ra, 2028-yilga borib har 10 ta korxonadan 7 tasi tashqi ishlab chiquvchilar tomonidan yaratilgan AI agentlaridan voz kechishi kutilmoqda. Bunga mijozlarning tashqi ekspertlarga qaram bo'lib qolishi sabab bo'lishi taxmin qilinmoqda.",
+    "tags": [
+      "agentlar",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 22,
+    "published": "2026-09-30T12:58:00.000Z",
+    "created": "2026-09-30T17:03:23.098Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/ai-and-ml/2026/09/30/7-in-10-enterprises-expected-to-abandon-vendor-built-agentic-ai-by-2028/5300021",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "ed6ae412719e",
+    "slug": "aqsh-yalpi-ichki-mahsuloti-2-2-foizga-osdi-ed6ae4",
+    "title": "AQSH yalpi ichki mahsuloti 2,2 foizga o'sdi",
+    "summary": "AQSH iqtisodiyoti Eron bilan ziddiyatlar va energiya narxi oshishiga qaramay barqarorlik namoyish etdi. Mamlakat yalpi ichki mahsuloti AI texnologiyalariga bo'lgan optimizmning to'satdan pasayishi fonida 2,2 foizga o'sgan.",
+    "tags": [
+      "iqtisod",
+      "siyosat"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-09-30T16:06:24.000Z",
+    "created": "2026-09-30T17:03:23.098Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/09/30/us-gdp-2-2-reversal-optimism-ai-tech",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "ea039df066f8",
     "slug": "ai-stratego-oyinida-yangi-chempion-boldi-ea039d",
     "title": "AI Stratego o'yinida yangi chempion bo'ldi",
