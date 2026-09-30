@@ -1,5 +1,124 @@
 [
   {
+    "id": "cb52c3047cb5",
+    "slug": "aqsh-hukumatining-yangi-ai-chatboti-minecraft-sherini-ozgart-cb52c3",
+    "title": "AQSh hukumatining yangi AI chatboti Minecraft she'rini o'zgartirdi",
+    "summary": "AQSh hukumatining yangi America.gov AI chatboti Minecraft o'yinining yakuniy she'rini qayta yozib berdi. Keyinchalik bot bu ishni qilganini inkor etdi.",
+    "tags": [
+      "hukumat",
+      "agentlar"
+    ],
+    "importance": 2,
+    "score": 30,
+    "published": "2026-09-30T09:48:35.000Z",
+    "created": "2026-09-30T12:02:28.056Z",
+    "coverage": 3,
+    "source": {
+      "name": "Engadget",
+      "url": "https://engadget.com/2272978/the-us-governments-new-ai-chatbot-gives-minecrafts-end-poem-a-bureaucratic-twist",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "Engadget",
+        "url": "https://engadget.com/2272424/america-gov-is-us-government-ai-chatbot"
+      },
+      {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/29/can-a-chatbot-fix-the-government-maze-the-white-house-is-about-to-find-out"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "828c0cca24d2",
+    "slug": "tokio-sudi-ai-ovoz-klonlashni-huquqbuzarlik-deb-topdi-828c0c",
+    "title": "Tokio sudi AI ovoz klonlashni huquqbuzarlik deb topdi",
+    "summary": "Tokio sudi aktyor Kenjiro Tsudaning ovozini AI yordamida klonlagan TikTok akkauntiga qarshi ishda uning foydasiga qaror chiqardi. Sud inson ovozi reklama huquqlari kabi himoyaga ega bo'lishi kerakligini ta'kidladi.",
+    "tags": [
+      "qonun",
+      "maxfiylik"
+    ],
+    "importance": 4,
+    "score": 23,
+    "published": "2026-09-30T11:09:52.000Z",
+    "created": "2026-09-30T12:02:28.056Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/technology/2026/sep/30/ai-tool-copied-actor-kenjiro-tsuda-tokyo-court",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "60a765f6357d",
+    "slug": "beyli-aini-tartibga-solish-hozircha-togri-yol-emas-60a765",
+    "title": "Beyli: AI'ni tartibga solish hozircha to'g'ri yo'l emas",
+    "summary": "Angliya banki rahbari Endryu Beyli AI'ni tartibga solish hozircha to'g'ri boshlanish nuqtasi emasligini aytdi. Uning fikricha, xavflarni cheklash uchun AI'ga \"qat'iy\" sinovlar va himoya choralari kerak.",
+    "tags": [
+      "siyosat",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 23,
+    "published": "2026-09-30T10:20:20.000Z",
+    "created": "2026-09-30T12:02:28.056Z",
+    "coverage": 1,
+    "source": {
+      "name": "BBC News",
+      "url": "https://bbc.co.uk/news/articles/cvzez7k0pn40o?at_medium=RSS&at_campaign=rss",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "62b8bf6845f5",
+    "slug": "ai-moliyaviy-direktorlarning-rolini-ozgartirmoqda-62b8bf",
+    "title": "AI moliyaviy direktorlarning rolini o'zgartirmoqda",
+    "summary": "IBM ma'lumotlariga ko'ra, sun'iy intellekt kompaniyalardagi moliyaviy direktorlarning (CFO) rolini kengaytirmoqda. Ular \"barqarorlik posbonlaridan\" \"transformatsiya agentlariga\" aylanmoqda.",
+    "tags": [
+      "biznes",
+      "mehnat bozori"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-09-30T11:35:50.000Z",
+    "created": "2026-09-30T12:02:28.056Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/09/30/ai-giving-cfo-bigger-slice-c-suite-new-ibm-data-shows",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "e624105571a0",
+    "slug": "aqsh-ai-malumot-markazlari-chip-taminotidan-oshib-ketmoqda-e62410",
+    "title": "AQSh AI ma'lumot markazlari chip ta'minotidan oshib ketmoqda",
+    "summary": "AQShda rejalashtirilayotgan AI ma'lumot markazlari soni chip ta'minoti imkoniyatlaridan ko'proq. Sun'iy yo'ldosh tasvirlari qurilish tezlashayotganini ko'rsatmoqda, ammo chip yetishmovchiligi 2027 yilgacha quvvatni cheklashi mumkin.",
+    "tags": [
+      "chiplar",
+      "bulut"
+    ],
+    "importance": 4,
+    "score": 19,
+    "published": "2026-09-30T10:45:00.000Z",
+    "created": "2026-09-30T12:02:28.056Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/on-prem/2026/09/30/america-is-planning-more-ai-datacenters-than-its-chip-supply-can-fill/5299845",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "a95e96fc56f6",
     "slug": "ai-xavfsizligi-mamlakatlar-oz-standartlarini-saqlashi-kerak-a95e96",
     "title": "AI xavfsizligi: mamlakatlar o'z standartlarini saqlashi kerak",
