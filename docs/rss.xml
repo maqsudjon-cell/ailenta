@@ -5,8 +5,18 @@
   <link>https://ailenta.uz</link>
   <description>Dunyodagi sun'iy intellekt yangiliklari o'zbek tilida. Har soatda yangilanadi, har bir xabarda asl manbaga havola.</description>
   <language>uz</language>
-  <lastBuildDate>Wed, 30 Sep 2026 08:05:53 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 30 Sep 2026 09:06:31 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Simate-beta modeli RoboDojo sinovida birinchi bo'ldi</title>
+    <link>https://ailenta.uz/x/simate-beta-modeli-robodojo-sinovida-birinchi-boldi-dc77b2/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/simate-beta-modeli-robodojo-sinovida-birinchi-boldi-dc77b2/</guid>
+    <pubDate>Wed, 30 Sep 2026 08:04:13 GMT</pubDate>
+    <description>Simate startapi tezkor reaksiyaga ega Simate-beta jismoniy sun'iy intellekt modelini taqdim etdi. Mazkur model RoboDojo sinov to'plamida 33,95 ballik o'rtacha natija bilan birinchi o'rinni egalladi.</description>
+    <category>robototexnika</category>
+    <media:content url="https://ailenta.uz/og/simate-beta-modeli-robodojo-sinovida-birinchi-boldi-dc77b2.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/simate-beta-modeli-robodojo-sinovida-birinchi-boldi-dc77b2.jpg"/>
+  </item>
   <item>
     <title>Startap energiyani lazer orqali uzatmoqchi</title>
     <link>https://ailenta.uz/x/startap-energiyani-lazer-orqali-uzatmoqchi-f0bfe1/</link>
@@ -496,16 +506,6 @@
     <category>biznes</category>
     <media:content url="https://ailenta.uz/og/kling-ai-kling-4-0-modelini-taqdim-etdi-15defc.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/kling-ai-kling-4-0-modelini-taqdim-etdi-15defc.jpg"/>
-  </item>
-  <item>
-    <title>Alibaba modeli kiberxavfsizlik reytingida yetakchi bo'ldi</title>
-    <link>https://ailenta.uz/x/alibaba-modeli-kiberxavfsizlik-reytingida-yetakchi-boldi-183e81/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/alibaba-modeli-kiberxavfsizlik-reytingida-yetakchi-boldi-183e81/</guid>
-    <pubDate>Tue, 29 Sep 2026 07:00:03 GMT</pubDate>
-    <description>Alibaba kompaniyasining XekRung-1.5-27B-Preview modeli CyberGym sinov to'plamida 88.9 foizlik natija ko'rsatdi. Qwen3.8-27B asosida moslashtirilgan ushbu model reytingda birinchi o'rinni egalladi.</description>
-    <category>xavfsizlik</category><category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/alibaba-modeli-kiberxavfsizlik-reytingida-yetakchi-boldi-183e81.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/alibaba-modeli-kiberxavfsizlik-reytingida-yetakchi-boldi-183e81.jpg"/>
   </item>
 </channel>
 </rss>
