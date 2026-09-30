@@ -1,5 +1,107 @@
 [
   {
+    "id": "befc6fc26e78",
+    "slug": "google-ai-javoblari-uchun-nashriyotlarga-kam-haq-tolamoqda-befc6f",
+    "title": "Google AI javoblari uchun nashriyotlarga kam haq to'lamoqda",
+    "summary": "Google AI Overviews, AI Mode va Gemini mahsulotlarida foydalanilgan kontent uchun taxminan 100 ta raqamli nashriyotga haq to'lamoqda. To'lovlar miqdori kam bo'lib, ba'zi nashriyotlar yuqoriroq stavkalarni kutmoqda.",
+    "tags": [
+      "Google",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 18,
+    "published": "2026-09-30T10:17:15.000Z",
+    "created": "2026-09-30T12:38:30.211Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/google-is-paying-almost-no-publishers-almost-nothing-for-content-used-in-ai-answers",
+      "title": "Google is paying almost no publishers almost nothing for content used in AI answers",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "cdaae0199dbb",
+    "slug": "anthropic-ipo-katta-texnologiya-hamkorlariga-bogliqlik-cdaae0",
+    "title": "Anthropic IPO: Katta texnologiya hamkorlariga bog'liqlik",
+    "summary": "Anthropic kompaniyasining IPO prospekti uning yirik texnologiya hamkorlariga chuqur bog'liqligini oshkor qildi. Bu ma'lumotlar kompaniyaning kelajakdagi faoliyati uchun muhim ahamiyatga ega.",
+    "tags": [
+      "Anthropic",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 37.5,
+    "published": "2026-09-29T20:53:00.000Z",
+    "created": "2026-09-30T12:38:35.885Z",
+    "coverage": 3,
+    "source": {
+      "name": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQ1Q4X3lqOUdZYllBZFVuZFBIWGt6dmdua2JoVnZ0aVVnWnd0M2lscWd0UFB6c3QxRmNJdXJ2T3ppbXR5TW8wZ2lzQU5obDR2U2t0WldJUWx4MEo2V29HVldhSEtVUWVPdkdIQ1dVSUtkcG5hTE5UWDVKek9hTjhkNGU4eGNKcmRPY1JjWmRaTXJVblBoWldzNU1PalhocDRfRHdPRnhxVEV5ckRsenJZ",
+      "indirect": true
+    },
+    "also": [
+      {
+        "name": "Centre Daily Times",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5abXNlZVpBVEZWZV9TbEx4SE9MdTFwbVk3RFZQREVIS2t5NDgzc01YaTE1YVQ2UlcwMVNaM0VQc0JjaUtDSHNYTUtfZjlyWDUteURDT2xFdGhkRHBhdXNIRUtpQVI2R3hVZWtCSVNWcFU"
+      },
+      {
+        "name": "The Olympian",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5kZFNNRUNVcGk4Y3ltQl9PRjFDWDh2SFJPY2ZUSk94OXRKMEFjcWZqUDBDTTdxYjZpZWRHNzJTc0lSbnVvMzB3Yk5IaUdSSFpnRmhQTVlLaklTdW1lQmhYX09LMXNIaFgyMlBpX2Q3X0o"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "c6a60d06f020",
+    "slug": "buyuk-britaniya-davlat-xizmatida-ai-qollash-xavflari-ortmoqd-c6a60d",
+    "title": "Buyuk Britaniya davlat xizmatida AI qo'llash xavflari ortmoqda",
+    "summary": "Buyuk Britaniya davlat xizmatida sun'iy intellektdan foydalanish tez sur'atlar bilan kengaymoqda. Bu esa bo'limlarni AI keltirib chiqarishi mumkin bo'lgan jiddiy tahdidlarga nisbatan befarq qilib qo'ymoqda.",
+    "tags": [
+      "siyosat",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 32,
+    "published": "2026-09-30T11:00:38.000Z",
+    "created": "2026-09-30T12:38:35.885Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/commentisfree/2026/sep/30/humans-or-ai-bots-uk-civil-service",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "fde712815d5c",
+    "slug": "airbnb-ai-qidiruv-va-yangi-xizmatlarni-qoshdi-fde712",
+    "title": "Airbnb AI qidiruv va yangi xizmatlarni qo'shdi",
+    "summary": "Airbnb platformasiga sun'iy intellektga asoslangan qidiruv funksiyasi qo'shildi. Kompaniya shuningdek, tanlangan hududlarda ovqat yetkazib berish va kir yuvish kabi yangi xizmatlarni ishga tushirmoqda.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 21,
+    "published": "2026-09-30T12:00:00.000Z",
+    "created": "2026-09-30T12:38:35.885Z",
+    "coverage": 2,
+    "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/30/airbnb-adds-ai-search-more-social-features",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "Engadget",
+        "url": "https://engadget.com/2272794/airbnb-is-adding-a-personalized-map-and-other-discovery-tools"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
     "id": "cb52c3047cb5",
     "slug": "aqsh-hukumatining-yangi-ai-chatboti-minecraft-sherini-ozgart-cb52c3",
     "title": "AQSh hukumatining yangi AI chatboti Minecraft she'rini o'zgartirdi",
