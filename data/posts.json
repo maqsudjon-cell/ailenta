@@ -1,5 +1,76 @@
 [
   {
+    "id": "a95e96fc56f6",
+    "slug": "ai-xavfsizligi-mamlakatlar-oz-standartlarini-saqlashi-kerak-a95e96",
+    "title": "AI xavfsizligi: mamlakatlar o'z standartlarini saqlashi kerak",
+    "summary": "Nyu-Yorkdagi tadbirda AI kompaniyalari xavfsizlik baholovchilarini joylashtirishni istayotgani muhokama qilindi. Unda AQSh-Xitoy raqobatidan chetda qolgan mamlakatlar AI xavfsizlik standartlari ustidan nazoratni qanday saqlab qolishi mumkinligi ko'rib chiqildi.",
+    "tags": [
+      "OpenAI",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 31,
+    "published": "2026-09-30T10:00:00.000Z",
+    "created": "2026-09-30T10:09:29.551Z",
+    "coverage": 2,
+    "source": {
+      "name": "Rest of World",
+      "url": "https://restofworld.org/2026/ai-safety-independent-evaluation",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "The Neuron",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE14UTdwRGVFLWxoQVJ0cjdZaGdITlBEVXYzemhneklVaVBHUWRGa3BFT2RzWm5faHYyRHVZc1RuN0FkOHBTZ0txTUpUN3dUd21VdDVlaWxTUnBNNFBabWpkYW10YlNrUVR4bk1zSFdJRTVIRm90WENJMg"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "9493c00e34b6",
+    "slug": "ai-tasvirlari-saylovlar-uchun-xavf-tugdirmoqda-9493c0",
+    "title": "AI tasvirlari saylovlar uchun xavf tug'dirmoqda",
+    "summary": "Sun'iy intellekt tomonidan yaratilgan deepfeyklar va noto'g'ri ma'lumotlar saylovlar uchun jiddiy xavotir uyg'otmoqda. Saylovchilar haqiqatni yolg'ondan ajratishda qiynalmoqda, bu esa demokratik jarayonlarga salbiy ta'sir ko'rsatishi mumkin.",
+    "tags": [
+      "siyosat",
+      "xavfsizlik"
+    ],
+    "importance": 4,
+    "score": 26,
+    "published": "2026-09-30T10:00:22.000Z",
+    "created": "2026-09-30T10:09:29.552Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/technology/2026/sep/30/ai-deepfakes-politicans",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "60e91e9e8597",
+    "slug": "instinct-ai-startapi-10-mlrdga-baholandi-60e91e",
+    "title": "Instinct AI startapi $10 mlrdga baholandi",
+    "summary": "Noah Shinn asos solgan Instinct AI startapi Series C raundida qo'shimcha $1 milliard sarmoya jalb qildi. Bu kompaniyaning umumiy bahosini $10 milliardga yetkazib, uni Meta'ga raqobatchi sifatida ko'rsatmoqda.",
+    "tags": [
+      "biznes",
+      "startap"
+    ],
+    "importance": 4,
+    "score": 19,
+    "published": "2026-09-30T07:04:00.000Z",
+    "created": "2026-09-30T10:09:29.552Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/09/30/noah-shinn-instinct-ai-assistant-meta-muse-alexandr-wang-tech-series-c-ai-agent-mark-zuckerberg",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "c4e24d930c36",
     "slug": "biznesda-ai-joriy-etishdagi-muammolar-muhokama-qilindi-c4e24d",
     "title": "Biznesda AI joriy etishdagi muammolar muhokama qilindi",

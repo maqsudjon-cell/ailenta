@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/openai/</link>
   <description>&quot;OpenAI&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Wed, 30 Sep 2026 10:06:51 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 30 Sep 2026 10:19:23 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/openai/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>AI xavfsizligi: mamlakatlar o'z standartlarini saqlashi kerak</title>
+    <link>https://ailenta.uz/x/ai-xavfsizligi-mamlakatlar-oz-standartlarini-saqlashi-kerak-a95e96/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/ai-xavfsizligi-mamlakatlar-oz-standartlarini-saqlashi-kerak-a95e96/</guid>
+    <pubDate>Wed, 30 Sep 2026 10:00:00 GMT</pubDate>
+    <description>Nyu-Yorkdagi tadbirda AI kompaniyalari xavfsizlik baholovchilarini joylashtirishni istayotgani muhokama qilindi. Unda AQSh-Xitoy raqobatidan chetda qolgan mamlakatlar AI xavfsizlik standartlari ustidan nazoratni qanday saqlab qolishi mumkinligi ko'rib chiqildi.</description>
+    <category>OpenAI</category><category>xavfsizlik</category>
+    <media:content url="https://ailenta.uz/og/ai-xavfsizligi-mamlakatlar-oz-standartlarini-saqlashi-kerak-a95e96.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/ai-xavfsizligi-mamlakatlar-oz-standartlarini-saqlashi-kerak-a95e96.jpg"/>
+  </item>
   <item>
     <title>OpenAI ilg'or AI xavfsizligi bo'yicha yo'riqnoma chiqardi</title>
     <link>https://ailenta.uz/x/openai-ilgor-ai-xavfsizligi-boyicha-yoriqnoma-chiqardi-cf468e/</link>
@@ -296,16 +306,6 @@
     <category>Anthropic</category><category>OpenAI</category>
     <media:content url="https://ailenta.uz/og/ai-qurolli-biologik-xavf-amodei-va-altman-ogohlantirmoqda-f08fad.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/ai-qurolli-biologik-xavf-amodei-va-altman-ogohlantirmoqda-f08fad.jpg"/>
-  </item>
-  <item>
-    <title>OpenAI ichki repozitoriylarida xavfsizlik muammosi aniqlandi</title>
-    <link>https://ailenta.uz/x/openai-ichki-repozitoriylarida-xavfsizlik-muammosi-aniqlandi-eeec8c/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/openai-ichki-repozitoriylarida-xavfsizlik-muammosi-aniqlandi-eeec8c/</guid>
-    <pubDate>Fri, 18 Sep 2026 02:47:24 GMT</pubDate>
-    <description>OpenAI kompaniyasining ichki repozitoriylarini xavf ostiga qo‘yishi mumkin bo‘lgan xavfsizlik muammolari aniqlandi. Bunga xotira to‘lib ketishi (heap overflow) va SSO tizimidagi noto‘g‘ri sozlamalar sabab bo‘lgan.</description>
-    <category>OpenAI</category><category>xavfsizlik</category>
-    <media:content url="https://ailenta.uz/og/openai-ichki-repozitoriylarida-xavfsizlik-muammosi-aniqlandi-eeec8c.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/openai-ichki-repozitoriylarida-xavfsizlik-muammosi-aniqlandi-eeec8c.jpg"/>
   </item>
 </channel>
 </rss>
