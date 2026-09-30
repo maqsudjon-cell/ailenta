@@ -1,84 +1,17 @@
 [
   {
-    "id": "8abf9ed4bc81",
-    "slug": "turbogpt-22kib-transformerni-13-soniyada-oqitdi-8abf9e",
-    "title": "TurboGPT 22KiB transformerni 13 soniyada o'qitdi",
-    "summary": "TurboGPT loyihasi 22KiB hajmdagi transformerni atigi 13 soniyada o'qitishga muvaffaq bo'ldi. Bu AI modellarini o'qitish tezligida yangi ko'rsatkichdir.",
-    "tags": [
-      "tadqiqot",
-      "chiplar"
-    ],
-    "importance": 2,
-    "score": 16.7,
-    "published": "2026-09-29T19:20:02.000Z",
-    "created": "2026-09-30T00:37:02.225Z",
-    "coverage": 1,
-    "source": {
-      "name": "Hacker News",
-      "url": "https://github.com/lostmsu/TurboGPT",
-      "title": "Show HN: TurboGPT: train 22KiB transformer in 13s",
-      "indirect": false
-    },
-    "also": [],
-    "model": "gemini"
-  },
-  {
-    "id": "ba62519ae675",
-    "slug": "glm-5-3-va-ilgor-kiber-imkoniyatlarning-tarqalishi-ba6251",
-    "title": "GLM-5.3 va ilg'or kiber imkoniyatlarning tarqalishi",
-    "summary": "Anthropic kompaniyasi GLM-5.3 modeli va ilg'or kiber imkoniyatlarning tarqalishi haqida ma'lumot berdi.",
-    "tags": [
-      "Anthropic",
-      "xavfsizlik"
-    ],
-    "importance": 3,
-    "score": 27,
-    "published": "2026-09-29T15:46:00.000Z",
-    "created": "2026-09-30T00:38:10.791Z",
-    "coverage": 1,
-    "source": {
-      "name": "Anthropic",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPX212WWhHNWgzWkdtSlZTV3hiU3ZVdmJoUnJPMl92MVlMd1VadHJrbXJ3RjFvdXJib3dueWk0eUFwY25DallZUTJGd1J2MWRTRkFZcWNoa1g3YVBzaEdKbmF5TE1HakN0cnI5emUwdVlKeTZPY2o5R3RheG54R0E2ODVVZXpVUGZ3MDFVQ0h3bDh0UQ",
-      "indirect": true
-    },
-    "also": [],
-    "model": "gemini"
-  },
-  {
-    "id": "e88728149f39",
-    "slug": "demokratlar-ai-sinov-tizimini-talab-qilmoqda-e88728",
-    "title": "Demokratlar AI sinov tizimini talab qilmoqda",
-    "summary": "Demokratlar sun'iy intellekt uchun sinov tizimini joriy etishni talab qildi. Bu AI xavfsizligi va ishonchliligini ta'minlashga qaratilgan.",
-    "tags": [
-      "siyosat",
-      "qonun"
-    ],
-    "importance": 3,
-    "score": 23,
-    "published": "2026-09-29T22:11:59.000Z",
-    "created": "2026-09-30T00:38:10.791Z",
-    "coverage": 1,
-    "source": {
-      "name": "The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTjkyTm4weGNpZHJEb25aNERhYUFaTmZFd3YxTFFvMFhMaEY0dkZFMWg3VjFtN2hBWHZPQzB2VU5VYXZ0M1dXdUgzeHpjajl3cENBckc3anFrT2ktZjlqcW5PcFFVejdkVmxJYUUtbWlvWFpKRVpGVnZTYlRiVi01NmhQbHd0TlpuX0htVm5uS29MYUd2RzA4OUFGQmhMNktKMUxDYi0zZF94ckhPQ1VEZzJSUWxPaVU",
-      "indirect": true
-    },
-    "also": [],
-    "model": "gemini"
-  },
-  {
     "id": "543f84d44177",
-    "slug": "ai-agentlari-simulyatsiya-qilingan-krizisda-sinovdan-otkazil-543f84",
-    "title": "AI agentlari simulyatsiya qilingan krizisda sinovdan o'tkazildi",
-    "summary": "Emergence World eksperimentida AI agentlari krizis sharoitida simulyatsiya qilingan dunyoda sinovdan o'tkazildi. Eng oddiy agentlar omon qolgani aniqlandi.",
+    "slug": "inqirozli-simulyatsiyada-eng-oddiy-ai-agentlari-omon-qoldi-543f84",
+    "title": "Inqirozli simulyatsiyada eng oddiy AI agentlari omon qoldi",
+    "summary": "Emergence World tajribasining ikkinchi mavsumida AI agentlari uchun stress-test o'tkazildi. Unda OpenAI, Anthropic, Google va xAI modellaridan foydalanildi. Natijada eng murakkab emas, balki eng oddiy tuzilgan agentlar inqirozli muhitda omon qolishi aniqlandi.",
     "tags": [
-      "tadqiqot",
-      "agentlar"
+      "agentlar",
+      "tadqiqot"
     ],
     "importance": 3,
     "score": 17,
     "published": "2026-09-29T20:16:30.000Z",
-    "created": "2026-09-30T00:38:10.791Z",
+    "created": "2026-09-30T00:44:33.249Z",
     "coverage": 1,
     "source": {
       "name": "Habr",
