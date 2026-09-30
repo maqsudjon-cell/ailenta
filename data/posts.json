@@ -1,5 +1,120 @@
 [
   {
+    "id": "ea039df066f8",
+    "slug": "ai-stratego-oyinida-yangi-chempion-boldi-ea039d",
+    "title": "AI Stratego o'yinida yangi chempion bo'ldi",
+    "summary": "Yangi AI tizimi Stratego o‘yinida eng yaxshi inson o‘yinchilarni mag‘lub etib, chempionlikni qo‘lga kiritdi. Bu model harbiy manevrlar va biznes muzokaralarida qaror qabul qiluvchilarga yordam berishi mumkin.",
+    "tags": [
+      "tadqiqot",
+      "agentlar"
+    ],
+    "importance": 2,
+    "score": 19,
+    "published": "2026-09-30T15:00:00.000Z",
+    "created": "2026-09-30T15:37:03.419Z",
+    "coverage": 1,
+    "source": {
+      "name": "MIT News",
+      "url": "https://news.mit.edu/2026/game-playing-ai-stratego-new-champ-0930",
+      "title": "This game-playing AI is the new champ at Stratego",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "28fcd7aa9830",
+    "slug": "12-yoshgacha-bolalarda-smartfonning-oqibatlari-aniqlandi-28fcd7",
+    "title": "12 yoshgacha bolalarda smartfonning oqibatlari aniqlandi",
+    "summary": "Amerikalik olimlar 12 yoshgacha smartfonga ega bo‘lgan bolalarda ovqatlanish buzilishlari ko‘proq uchrayotganini aniqladi. Ijtimoiy tarmoqlar bu holatda muhim omil bo‘lishi mumkin.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 45,
+    "published": "2026-09-30T13:22:08.000Z",
+    "created": "2026-09-30T15:37:24.955Z",
+    "coverage": 1,
+    "source": {
+      "name": "Kun.uz",
+      "url": "https://kun.uz/news/2026/09/30/12-yoshgacha-bolgan-bolaning-smartfon-ishlatishi-oqibatlari-aniqlandi",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "396b95f3429c",
+    "slug": "google-deepmind-ai-yaratgan-oqsillarni-belgilashni-sinovdan--396b95",
+    "title": "Google DeepMind AI yaratgan oqsillarni belgilashni sinovdan o'tkazdi",
+    "summary": "Google DeepMind AI tomonidan yaratilgan oqsillarni biologik funksiyasini saqlagan holda belgilash (watermarking) konsepsiyasini sinovdan o‘tkazdi. Bu texnologiya oqsillarning kelib chiqishini aniqlashga yordam beradi.",
+    "tags": [
+      "Google",
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 29,
+    "published": "2026-09-30T15:03:07.000Z",
+    "created": "2026-09-30T15:37:24.955Z",
+    "coverage": 1,
+    "source": {
+      "name": "Google DeepMind",
+      "url": "https://deepmind.google/blog/introducing-synthid-bio",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "41d438c42521",
+    "slug": "instagram-postlar-uchun-ai-yordamchisini-qoshmoqda-41d438",
+    "title": "Instagram postlar uchun AI yordamchisini qo'shmoqda",
+    "summary": "Instagram o‘zining Edits ilovasiga AI asosidagi \"ijodiy yordamchi\" funksiyasini qo‘shmoqda. Bu yordamchi foydalanuvchining Instagram akkauntidan ma'lumot olib, postlar uchun takliflar beradi.",
+    "tags": [
+      "Meta",
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 21,
+    "published": "2026-09-30T14:30:00.000Z",
+    "created": "2026-09-30T15:37:24.955Z",
+    "coverage": 2,
+    "source": {
+      "name": "The Verge",
+      "url": "https://theverge.com/tech/1002402/instagram-ai-edits-assistant-creators-analytics-youtube",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "Engadget",
+        "url": "https://engadget.com/2273111/meta-introduces-a-new-ai-assistant-for-its-instagram-creators"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "9f49b513f8de",
+    "slug": "mit-jamoat-transporti-uchun-ai-platforma-yaratadi-9f49b5",
+    "title": "MIT jamoat transporti uchun AI platforma yaratadi",
+    "summary": "MIT Transit Lab Google.org'dan 2.1 million dollar moliyalashtirish bilan jamoat transporti agentliklari uchun AI platforma ishlab chiqadi. Bu platforma monitoring, operatsiyalar va yo‘lovchilar bilan aloqani birlashtiradi.",
+    "tags": [
+      "Google",
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 19,
+    "published": "2026-09-30T15:15:00.000Z",
+    "created": "2026-09-30T15:37:24.955Z",
+    "coverage": 1,
+    "source": {
+      "name": "MIT News",
+      "url": "https://news.mit.edu/2026/mit-transit-lab-to-develop-ai-platform-public-transit-agencies-0930",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "2eb413dbe629",
     "slug": "marketingchilarning-atigi-6-i-ai-foydasini-kormoqda-2eb413",
     "title": "Marketingchilarning atigi 6%i AI foydasini ko'rmoqda",
