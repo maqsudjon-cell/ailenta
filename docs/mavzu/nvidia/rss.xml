@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/nvidia/</link>
   <description>&quot;Nvidia&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Wed, 30 Sep 2026 07:05:53 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 30 Sep 2026 07:18:15 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/nvidia/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Red Hat, Nvidia, OpenAI OpenClaw'ning korporativ versiyasini yaratmoqda</title>
+    <link>https://ailenta.uz/x/red-hat-nvidia-openai-openclawning-korporativ-versiyasini-ya-bace4e/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/red-hat-nvidia-openai-openclawning-korporativ-versiyasini-ya-bace4e/</guid>
+    <pubDate>Wed, 30 Sep 2026 05:04:22 GMT</pubDate>
+    <description>Red Hat, Nvidia va OpenAI kompaniyalari &quot;OpenClaw&quot; nomli loyihaning korporativ versiyasi ustida ishlamoqda. Ular uni &quot;agentlar uchun Kubernetes&quot; deb ta'riflamoqda.</description>
+    <category>Red Hat</category><category>Nvidia</category>
+    <media:content url="https://ailenta.uz/og/red-hat-nvidia-openai-openclawning-korporativ-versiyasini-ya-bace4e.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/red-hat-nvidia-openai-openclawning-korporativ-versiyasini-ya-bace4e.jpg"/>
+  </item>
   <item>
     <title>Nvidia Kumo Tabular jadval bashoratida yangi chegarani belgiladi</title>
     <link>https://ailenta.uz/x/nvidia-kumo-tabular-jadval-bashoratida-yangi-chegarani-belgi-493cf3/</link>
@@ -296,16 +306,6 @@
     <category>Nvidia</category><category>biznes</category>
     <media:content url="https://ailenta.uz/og/nvidia-rahbari-aiga-qarshi-kayfiyatga-izoh-berdi-a57a18.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/nvidia-rahbari-aiga-qarshi-kayfiyatga-izoh-berdi-a57a18.jpg"/>
-  </item>
-  <item>
-    <title>Civo Britaniya suveren AI uchun 40 markaz quradi</title>
-    <link>https://ailenta.uz/x/civo-britaniya-suveren-ai-uchun-40-markaz-quradi-e6da67/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/civo-britaniya-suveren-ai-uchun-40-markaz-quradi-e6da67/</guid>
-    <pubDate>Tue, 22 Sep 2026 12:13:00 GMT</pubDate>
-    <description>Civo Britaniyaning suveren AI'sini quvvatlantirish uchun 40 ta chekka ma'lumot markazi qurishni rejalashtirmoqda. Birinchi markaz kelasi mart oyida Xertfordshirda Nvidia Vera Rubin tizimlari bilan ishga tushadi.</description>
-    <category>Nvidia</category><category>bulut</category>
-    <media:content url="https://ailenta.uz/og/civo-britaniya-suveren-ai-uchun-40-markaz-quradi-e6da67.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/civo-britaniya-suveren-ai-uchun-40-markaz-quradi-e6da67.jpg"/>
   </item>
 </channel>
 </rss>

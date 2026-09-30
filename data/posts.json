@@ -1,5 +1,70 @@
 [
   {
+    "id": "f0bfe15000a6",
+    "slug": "startap-energiyani-lazer-orqali-uzatmoqchi-f0bfe1",
+    "title": "Startap energiyani lazer orqali uzatmoqchi",
+    "summary": "Avstraliyaning Aquila Space Technologies startapi elektr energiyasini lazer orqali masofadan uzatish texnologiyasini yaratmoqda. Bu dron, robot va kosmik qurilmalarni simsiz quvvatlash hamda elektr tarmog‘i qiyin hududlarga energiya yetkazish imkonini beradi.",
+    "tags": [
+      "biznes",
+      "robototexnika"
+    ],
+    "importance": 3,
+    "score": 48,
+    "published": "2026-09-30T06:44:26.000Z",
+    "created": "2026-09-30T07:08:10.427Z",
+    "coverage": 1,
+    "source": {
+      "name": "Pivot",
+      "url": "https://pivot.uz/uz/startap-energiyani-lazer-orqali-uzatmoqchi-dron-va-robotlarni-simsiz-quvvatlash-mumkin",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "bace4e1927bf",
+    "slug": "red-hat-nvidia-openai-openclawning-korporativ-versiyasini-ya-bace4e",
+    "title": "Red Hat, Nvidia, OpenAI OpenClaw'ning korporativ versiyasini yaratmoqda",
+    "summary": "Red Hat, Nvidia va OpenAI kompaniyalari \"OpenClaw\" nomli loyihaning korporativ versiyasi ustida ishlamoqda. Ular uni \"agentlar uchun Kubernetes\" deb ta'riflamoqda.",
+    "tags": [
+      "Red Hat",
+      "Nvidia"
+    ],
+    "importance": 3,
+    "score": 22,
+    "published": "2026-09-30T05:04:22.000Z",
+    "created": "2026-09-30T07:08:10.427Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/ai-and-ml/2026/09/30/openclaw-slips-on-a-suit-to-evade-widespread-business-bans/5299962",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "836f2086a095",
+    "slug": "rustda-yozilgan-transformer-bolmagan-til-modeli-yaratildi-836f20",
+    "title": "Rust'da yozilgan transformer bo'lmagan til modeli yaratildi",
+    "summary": "PSSA nomli yangi til modeli Rust dasturlash tilida noldan yozildi. Bu model transformer arxitekturasidan foydalanmaydi.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 20.7,
+    "published": "2026-09-30T03:19:54.000Z",
+    "created": "2026-09-30T07:08:10.427Z",
+    "coverage": 1,
+    "source": {
+      "name": "Hacker News",
+      "url": "https://github.com/Sparticle62ops/pssa",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "9e67bd01b9c5",
     "slug": "ai-greta-garbo-reklama-roligida-paydo-boldi-9e67bd",
     "title": "AI Greta Garbo reklama roligida paydo bo'ldi",

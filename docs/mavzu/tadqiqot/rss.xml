@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/tadqiqot/</link>
   <description>&quot;tadqiqot&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Wed, 30 Sep 2026 07:05:53 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 30 Sep 2026 07:18:15 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/tadqiqot/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Rust'da yozilgan transformer bo'lmagan til modeli yaratildi</title>
+    <link>https://ailenta.uz/x/rustda-yozilgan-transformer-bolmagan-til-modeli-yaratildi-836f20/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/rustda-yozilgan-transformer-bolmagan-til-modeli-yaratildi-836f20/</guid>
+    <pubDate>Wed, 30 Sep 2026 03:19:54 GMT</pubDate>
+    <description>PSSA nomli yangi til modeli Rust dasturlash tilida noldan yozildi. Bu model transformer arxitekturasidan foydalanmaydi.</description>
+    <category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/rustda-yozilgan-transformer-bolmagan-til-modeli-yaratildi-836f20.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/rustda-yozilgan-transformer-bolmagan-til-modeli-yaratildi-836f20.jpg"/>
+  </item>
   <item>
     <title>Inqirozli simulyatsiyada eng oddiy AI agentlari omon qoldi</title>
     <link>https://ailenta.uz/x/inqirozli-simulyatsiyada-eng-oddiy-ai-agentlari-omon-qoldi-543f84/</link>
@@ -296,16 +306,6 @@
     <category>tadqiqot</category><category>agentlar</category>
     <media:content url="https://ailenta.uz/og/youshu-quantum-unitaryspark-va-unitarylab-2-5ni-ishga-tushir-0af03e.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/youshu-quantum-unitaryspark-va-unitarylab-2-5ni-ishga-tushir-0af03e.jpg"/>
-  </item>
-  <item>
-    <title>AI'da tez va sekin fikrlash: metakognitsiya roli</title>
-    <link>https://ailenta.uz/x/aida-tez-va-sekin-fikrlash-metakognitsiya-roli-f1d69b/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/aida-tez-va-sekin-fikrlash-metakognitsiya-roli-f1d69b/</guid>
-    <pubDate>Mon, 28 Sep 2026 03:23:53 GMT</pubDate>
-    <description>Sun'iy intellektda tez va sekin fikrlash jarayonlari hamda metakognitsiyaning roli muhokama qilinmoqda. Bu AI modellarining qanday ishlashini tushunishga yordam beradi.</description>
-    <category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/aida-tez-va-sekin-fikrlash-metakognitsiya-roli-f1d69b.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/aida-tez-va-sekin-fikrlash-metakognitsiya-roli-f1d69b.jpg"/>
   </item>
 </channel>
 </rss>
