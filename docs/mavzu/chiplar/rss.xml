@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/chiplar/</link>
   <description>&quot;chiplar&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Wed, 30 Sep 2026 01:04:48 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 30 Sep 2026 02:05:07 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/chiplar/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>RoboX D9M robot harakati kontrolleri taqdim etildi</title>
+    <link>https://ailenta.uz/x/robox-d9m-robot-harakati-kontrolleri-taqdim-etildi-3e85b8/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/robox-d9m-robot-harakati-kontrolleri-taqdim-etildi-3e85b8/</guid>
+    <pubDate>Wed, 30 Sep 2026 01:57:41 GMT</pubDate>
+    <description>SemiDrive va Radxa kompaniyalari D9-Max chipiga asoslangan RoboX D9M robot harakati kontrollerini chiqardi. O'lchami 100 x 100 mm bo'lgan qurilma 12 yadroli protsessor, 8 TOPS quvvatga ega NPU hamda ROS 2 tizimi bilan jihozlangan.</description>
+    <category>robototexnika</category><category>chiplar</category>
+    <media:content url="https://ailenta.uz/og/robox-d9m-robot-harakati-kontrolleri-taqdim-etildi-3e85b8.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/robox-d9m-robot-harakati-kontrolleri-taqdim-etildi-3e85b8.jpg"/>
+  </item>
   <item>
     <title>IC-STAR mikrosxemalar dizaynini avtomatlashtiradi</title>
     <link>https://ailenta.uz/x/ic-star-mikrosxemalar-dizaynini-avtomatlashtiradi-a002a1/</link>
@@ -296,16 +306,6 @@
     <category>Nvidia</category><category>chiplar</category>
     <media:content url="https://ailenta.uz/og/nvidia-geforce-rtx-60-videokartasi-2028-yilgacha-kechiktiril-48627e.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/nvidia-geforce-rtx-60-videokartasi-2028-yilgacha-kechiktiril-48627e.jpg"/>
-  </item>
-  <item>
-    <title>Apple Mac Studio (M5 Ultra) sharhi: yuqori narx</title>
-    <link>https://ailenta.uz/x/apple-mac-studio-m5-ultra-sharhi-yuqori-narx-d879ca/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/apple-mac-studio-m5-ultra-sharhi-yuqori-narx-d879ca/</guid>
-    <pubDate>Mon, 21 Sep 2026 13:13:39 GMT</pubDate>
-    <description>Apple Mac Studio (M5 Ultra) yuqori benchmark natijalari, katta xotira va Thunderbolt 5 portlariga ega. Biroq, 11,299 dollarlik narxi tufayli u faqat ayrim xaridorlar uchun mos keladi.</description>
-    <category>Apple</category><category>chiplar</category>
-    <media:content url="https://ailenta.uz/og/apple-mac-studio-m5-ultra-sharhi-yuqori-narx-d879ca.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/apple-mac-studio-m5-ultra-sharhi-yuqori-narx-d879ca.jpg"/>
   </item>
 </channel>
 </rss>
