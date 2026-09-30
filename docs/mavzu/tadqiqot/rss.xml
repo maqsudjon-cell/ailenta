@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/tadqiqot/</link>
   <description>&quot;tadqiqot&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Wed, 30 Sep 2026 09:06:31 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 30 Sep 2026 09:43:39 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/tadqiqot/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Biznesda AI joriy etishdagi muammolar muhokama qilindi</title>
+    <link>https://ailenta.uz/x/biznesda-ai-joriy-etishdagi-muammolar-muhokama-qilindi-c4e24d/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/biznesda-ai-joriy-etishdagi-muammolar-muhokama-qilindi-c4e24d/</guid>
+    <pubDate>Wed, 30 Sep 2026 08:11:13 GMT</pubDate>
+    <description>Tadqiqotlarga ko'ra, Rossiyada tashkilotlarning 4,8% AI'dan foydalanadi, yirik kompaniyalarda bu ko'rsatkich 14,9% ni tashkil etadi. AI'ni biznes jarayonlariga xavfsiz va samarali integratsiya qilishda bir qator muammolar mavjud.</description>
+    <category>biznes</category><category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/biznesda-ai-joriy-etishdagi-muammolar-muhokama-qilindi-c4e24d.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/biznesda-ai-joriy-etishdagi-muammolar-muhokama-qilindi-c4e24d.jpg"/>
+  </item>
   <item>
     <title>Rust'da yozilgan transformer bo'lmagan til modeli yaratildi</title>
     <link>https://ailenta.uz/x/rustda-yozilgan-transformer-bolmagan-til-modeli-yaratildi-836f20/</link>
@@ -296,16 +306,6 @@
     <category>tadqiqot</category><category>mehnat bozori</category>
     <media:content url="https://ailenta.uz/og/muallif-ai-detektori-bilan-bir-oy-tajriba-otkazdi-d8aef8.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/muallif-ai-detektori-bilan-bir-oy-tajriba-otkazdi-d8aef8.jpg"/>
-  </item>
-  <item>
-    <title>Youshu Quantum UnitarySpark va UnitaryLab 2.5'ni ishga tushirdi</title>
-    <link>https://ailenta.uz/x/youshu-quantum-unitaryspark-va-unitarylab-2-5ni-ishga-tushir-0af03e/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/youshu-quantum-unitaryspark-va-unitarylab-2-5ni-ishga-tushir-0af03e/</guid>
-    <pubDate>Mon, 28 Sep 2026 07:43:07 GMT</pubDate>
-    <description>Youshu Quantum 2026-yil 20-sentabrda UnitarySpark lokal ish stoli getero hisoblash bazasini va UnitaryLab 2.5 ommaviy beta versiyasini ishga tushirdi. Ular tabiiy til agenti boshqaruvi bilan kvant ilmiy ish oqimlarini birlashtiradi.</description>
-    <category>tadqiqot</category><category>agentlar</category>
-    <media:content url="https://ailenta.uz/og/youshu-quantum-unitaryspark-va-unitarylab-2-5ni-ishga-tushir-0af03e.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/youshu-quantum-unitaryspark-va-unitarylab-2-5ni-ishga-tushir-0af03e.jpg"/>
   </item>
 </channel>
 </rss>
