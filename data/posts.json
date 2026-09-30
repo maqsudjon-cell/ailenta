@@ -1,5 +1,58 @@
 [
   {
+    "id": "9e67bd01b9c5",
+    "slug": "ai-greta-garbo-reklama-roligida-paydo-boldi-9e67bd",
+    "title": "AI Greta Garbo reklama roligida paydo bo'ldi",
+    "summary": "Shved-amerikalik aktrisa Greta Garboning AI versiyasi 99 soniyalik reklama roligida namoyish etildi. Ushbu g'alati reklama AI'ga nisbatan salbiy munosabatni kuchaytirdi.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 29,
+    "published": "2026-09-30T05:00:12.000Z",
+    "created": "2026-09-30T05:03:33.346Z",
+    "coverage": 2,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/film/2026/sep/30/skf-advert-review-lets-hope-this-dull-ai-greta-garbo-is-not-the-future",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "The Guardian",
+        "url": "https://theguardian.com/film/2026/sep/30/ai-greta-garbo-stars-again-ball-bearing-advert"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "a0e859b4326d",
+    "slug": "anthropic-ipo-ai-ambitsiyalari-narxi-oshkor-a0e859",
+    "title": "Anthropic IPO: AI ambitsiyalari narxi oshkor",
+    "summary": "Anthropic kompaniyasining IPO prospekti uning AI ambitsiyalarining yuqori xarajatlarini ochib berdi. Bu ma'lumotlar kompaniyaning kelajakdagi moliyaviy strategiyasiga oid savollarni tug'dirdi.",
+    "tags": [
+      "Anthropic",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 16,
+    "published": "2026-09-29T18:42:38.000Z",
+    "created": "2026-09-30T05:03:33.346Z",
+    "coverage": 2,
+    "source": {
+      "name": "Crunchbase News",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9jUXM3R21DOC1Gb3pxMzVyQXFoYk5YR0lfcWJ0VlJJb1g4NUpUZGFiLWxRNlNwcnF6VWh3RUZEdFhUaVBLQzE0VlQ5TjRmZXJSamhpUlp5WjRoYjM2ck0zQ29GZUtsQl9KYVBVbnc0RWVJR0NqVUFQejRQY2I",
+      "indirect": true
+    },
+    "also": [
+      {
+        "name": "San Francisco Chronicle",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVTR4N3U5RHFKc1JCNk1mTE1HRXhGcFZkcGJ1SndhbTRjVk1KT3RBc3VvWW5xR0lrUHBBaWd6bXRHSW5KZ3VEVGxrVEZYM1hWRVRmbDJXRzZuVGpZVE5TLVIzbUZ2aF9NUTVzV1ZmS2t4YVdFMTh4d1ZoajNuSFZIdzdOMA"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
     "id": "3e85b8a28396",
     "slug": "robox-d9m-robot-harakati-kontrolleri-taqdim-etildi-3e85b8",
     "title": "RoboX D9M robot harakati kontrolleri taqdim etildi",
