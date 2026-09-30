@@ -1,5 +1,114 @@
 [
   {
+    "id": "457b65f6a797",
+    "slug": "ai-ishlatilgan-mikroskop-tasviri-tanlovda-bahs-uygotdi-457b65",
+    "title": "AI ishlatilgan mikroskop tasviri tanlovda bahs uyg'otdi",
+    "summary": "Mukofotga sazovor bo'lgan mikroskop tasvirida AI ishlatilgani nufuzli tanlovda bahs-munozaralarga sabab bo'ldi. Bu holat AI'ning ijodiy sohalardagi roli haqida savollar tug'dirmoqda.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 19.7,
+    "published": "2026-09-30T00:00:00.000Z",
+    "created": "2026-09-30T20:20:51.679Z",
+    "coverage": 1,
+    "source": {
+      "name": "Nature",
+      "url": "https://nature.com/articles/d41586-026-03086-z",
+      "title": "This award-winning microscopy image used AI — igniting controversy in a prestigious competition",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "e20d6d18306f",
+    "slug": "nvidia-va-coreweave-agent-ai-ishlab-chiqarishni-kuchaytirmoq-e20d6d",
+    "title": "Nvidia va CoreWeave agent AI ishlab chiqarishni kuchaytirmoqda",
+    "summary": "CoreWeave Nvidia infratuzilmasini AI uchun mo'ljallangan bulutga integratsiya qildi. Kompaniya Nvidia hisoblash, tarmoq va dasturiy ta'minotini o'z bulutiga kiritdi. Bu agent AI'ni ishlab chiqarishga yo'naltirilgan.",
+    "tags": [
+      "Nvidia",
+      "bulut"
+    ],
+    "importance": 3,
+    "score": 42,
+    "published": "2026-09-30T15:00:00.000Z",
+    "created": "2026-09-30T20:20:52.989Z",
+    "coverage": 1,
+    "source": {
+      "name": "Nvidia",
+      "url": "https://blogs.nvidia.com/blog/coreweave-agentic-ai-vera-rubin",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "e31f8bacba55",
+    "slug": "tibbiy-yozuvlar-firmasi-ai-vositasida-maxfiylik-kamchiliklar-e31f8b",
+    "title": "Tibbiy yozuvlar firmasi AI vositasida maxfiylik kamchiliklarini topdi",
+    "summary": "Yirik tibbiy yozuvlar firmasi AI vositasidan foydalanib, bemorlar maxfiyligiga tahdid soluvchi kamchiliklarni aniqladi. Bu topilmalar AI'ning tibbiyot sohasidagi xavfsizligi bo'yicha savollar tug'diradi.",
+    "tags": [
+      "maxfiylik",
+      "tibbiyot"
+    ],
+    "importance": 3,
+    "score": 27,
+    "published": "2026-09-30T14:57:51.000Z",
+    "created": "2026-09-30T20:20:52.989Z",
+    "coverage": 1,
+    "source": {
+      "name": "The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSXV3OVlGcnRrS1h2cVJoTXJ2NWtFbTNNajBKemhTUFcyOU9sMEJrSFhtejlIZExZY2gxZ0VuTE14c1lTQzVlbURuTXI3UmpnSHZfSjdZdFhwdUR5QVhvcVR1X2FaVWFYbk0tNTJ5LXdUT1FZRnJYMTBtdktsNEgxbm1QbG5kUQ",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "54381c0af4e4",
+    "slug": "weednet-ai-modeli-begona-otlarni-aniqlash-uchun-yaratildi-54381c",
+    "title": "WeedNet AI modeli begona o'tlarni aniqlash uchun yaratildi",
+    "summary": "\"WeedNet\" nomli AI modeli begona o't turlarini aniqlash va tasniflash uchun ishlab chiqildi. Bu model globaldan lokalga yondashuvga asoslangan.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 22.7,
+    "published": "2026-09-30T00:00:00.000Z",
+    "created": "2026-09-30T20:20:52.989Z",
+    "coverage": 1,
+    "source": {
+      "name": "Nature",
+      "url": "https://nature.com/articles/s41467-026-78044-4",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "40099c57cabd",
+    "slug": "psyonic-startapi-robotlarga-qol-orgatish-uchun-pul-tolaydi-40099c",
+    "title": "Psyonic startapi robotlarga qo'l o'rgatish uchun pul to'laydi",
+    "summary": "Psyonic startapi rivojlanayotgan mamlakatlarda protez qo'llarni joylashtirmoqchi. Maqsad — ilg'or gumanoid qo'llar yaratish uchun ma'lumot to'plash. Buning uchun protez foydalanuvchilariga haq to'lanadi.",
+    "tags": [
+      "robototexnika",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-09-30T15:43:34.000Z",
+    "created": "2026-09-30T20:20:52.989Z",
+    "coverage": 1,
+    "source": {
+      "name": "Semafor",
+      "url": "https://semafor.com/article/09/30/2026/solving-for-the-hand-startup-wants-to-pay-prosthetic-users-to-teach-robots",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "8f48c4509173",
     "slug": "senat-demokratlari-malumot-markazlari-energiyasi-boyicha-qon-8f48c4",
     "title": "Senat demokratlari ma'lumot markazlari energiyasi bo'yicha qonun loyihasini blokladi",

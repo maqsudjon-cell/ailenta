@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/bulut/</link>
   <description>&quot;bulut&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Wed, 30 Sep 2026 20:06:04 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 30 Sep 2026 20:26:02 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/bulut/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Nvidia va CoreWeave agent AI ishlab chiqarishni kuchaytirmoqda</title>
+    <link>https://ailenta.uz/x/nvidia-va-coreweave-agent-ai-ishlab-chiqarishni-kuchaytirmoq-e20d6d/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/nvidia-va-coreweave-agent-ai-ishlab-chiqarishni-kuchaytirmoq-e20d6d/</guid>
+    <pubDate>Wed, 30 Sep 2026 15:00:00 GMT</pubDate>
+    <description>CoreWeave Nvidia infratuzilmasini AI uchun mo'ljallangan bulutga integratsiya qildi. Kompaniya Nvidia hisoblash, tarmoq va dasturiy ta'minotini o'z bulutiga kiritdi. Bu agent AI'ni ishlab chiqarishga yo'naltirilgan.</description>
+    <category>Nvidia</category><category>bulut</category>
+    <media:content url="https://ailenta.uz/og/nvidia-va-coreweave-agent-ai-ishlab-chiqarishni-kuchaytirmoq-e20d6d.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/nvidia-va-coreweave-agent-ai-ishlab-chiqarishni-kuchaytirmoq-e20d6d.jpg"/>
+  </item>
   <item>
     <title>AQSh AI ma'lumot markazlari chip ta'minotidan oshib ketmoqda</title>
     <link>https://ailenta.uz/x/aqsh-ai-malumot-markazlari-chip-taminotidan-oshib-ketmoqda-e62410/</link>
@@ -296,16 +306,6 @@
     <category>bulut</category><category>biznes</category>
     <media:content url="https://ailenta.uz/og/datasette-auth-github-1-0-plaginining-yangi-versiyasi-67bfed.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/datasette-auth-github-1-0-plaginining-yangi-versiyasi-67bfed.jpg"/>
-  </item>
-  <item>
-    <title>AI bulut provayderi Nscale ommaviy bo'lishga ariza berdi</title>
-    <link>https://ailenta.uz/x/ai-bulut-provayderi-nscale-ommaviy-bolishga-ariza-berdi-19cba6/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/ai-bulut-provayderi-nscale-ommaviy-bolishga-ariza-berdi-19cba6/</guid>
-    <pubDate>Fri, 18 Sep 2026 20:53:21 GMT</pubDate>
-    <description>AI bulut xizmatlari provayderi Nscale ommaviy bo'lish uchun ariza topshirdi. Kompaniya ommaviy bozorlarga chiqayotgan eng yangi sun'iy intellekt neobulut xizmati hisoblanadi.</description>
-    <category>bulut</category><category>biznes</category>
-    <media:content url="https://ailenta.uz/og/ai-bulut-provayderi-nscale-ommaviy-bolishga-ariza-berdi-19cba6.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/ai-bulut-provayderi-nscale-ommaviy-bolishga-ariza-berdi-19cba6.jpg"/>
   </item>
 </channel>
 </rss>
