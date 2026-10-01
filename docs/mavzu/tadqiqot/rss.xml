@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/tadqiqot/</link>
   <description>&quot;tadqiqot&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Thu, 01 Oct 2026 21:41:46 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 01 Oct 2026 22:07:31 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/tadqiqot/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Stenford professori TCP o'rniga yangi protokol taklif qildi</title>
+    <link>https://ailenta.uz/x/stenford-professori-tcp-orniga-yangi-protokol-taklif-qildi-58dd9f/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/stenford-professori-tcp-orniga-yangi-protokol-taklif-qildi-58dd9f/</guid>
+    <pubDate>Thu, 01 Oct 2026 20:00:45 GMT</pubDate>
+    <description>Stenford professori AI davri uchun tarmoqlarni qayta ko'rib chiqishga qaratilgan Homa nomli yangi protokolni taklif qilmoqda. Bu TCP'ni almashtirishga qaratilgan.</description>
+    <category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/stenford-professori-tcp-orniga-yangi-protokol-taklif-qildi-58dd9f.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/stenford-professori-tcp-orniga-yangi-protokol-taklif-qildi-58dd9f.jpg"/>
+  </item>
   <item>
     <title>Professor AI yordamida 257 maqola yozgani uchun ishlari olib tashlandi</title>
     <link>https://ailenta.uz/x/professor-ai-yordamida-257-maqola-yozgani-uchun-ishlari-olib-7a889d/</link>
@@ -296,16 +306,6 @@
     <category>tadqiqot</category><category>tibbiyot</category>
     <media:content url="https://ailenta.uz/og/mashina-organish-fag-mezbon-tasirini-bashorat-qiladi-7cd942.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/mashina-organish-fag-mezbon-tasirini-bashorat-qiladi-7cd942.jpg"/>
-  </item>
-  <item>
-    <title>ESP32S3 klasterida 1.58-bitli til modeli ishga tushirildi</title>
-    <link>https://ailenta.uz/x/esp32s3-klasterida-1-58-bitli-til-modeli-ishga-tushirildi-519655/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/esp32s3-klasterida-1-58-bitli-til-modeli-ishga-tushirildi-519655/</guid>
-    <pubDate>Mon, 28 Sep 2026 21:26:41 GMT</pubDate>
-    <description>Hacker News'da xabar berilishicha, ESP32S3 klasterida 1.58-bitli (BitNet) til modeli muvaffaqiyatli ishga tushirilgan. Bu texnik yechim AI modellarini kichik qurilmalarda ishlatish imkonini beradi.</description>
-    <category>chiplar</category><category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/esp32s3-klasterida-1-58-bitli-til-modeli-ishga-tushirildi-519655.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/esp32s3-klasterida-1-58-bitli-til-modeli-ishga-tushirildi-519655.jpg"/>
   </item>
 </channel>
 </rss>
