@@ -1,5 +1,117 @@
 [
   {
+    "id": "f2dff8351385",
+    "slug": "ishchilarning-61-i-bir-nechta-ishni-bajarmoqda-f2dff8",
+    "title": "Ishchilarning 61%i bir nechta ishni bajarmoqda",
+    "summary": "Korn Ferry so'roviga ko'ra, 16 000 dan ortiq mutaxassislarning 61 foizi hozirda bir nechta ishni bajarmoqda. Kompaniyalar AI'ga tayanib, ish yukini oshirmoqda va motivatsiyani pasaytirmoqda.",
+    "tags": [
+      "mehnat bozori",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-10-01T14:26:13.000Z",
+    "created": "2026-10-01T15:01:44.459Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/10/01/rise-of-the-two-job-61-of-workers-say-theyre-now-doing-more-than-one-role",
+      "title": "The rise of the ‘two-job job’: 61% of workers say they’re now doing more than one role",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "6d0c7aaad06e",
+    "slug": "yuta-shtatida-40-000-akr-ai-kampus-qurish-rejalari-6d0c7a",
+    "title": "Yuta shtatida 40 000 akr AI kampus qurish rejalari",
+    "summary": "Kevin O’Leary Yuta shtatida dunyodagi eng yirik ma'lumotlar markazi – 40 000 akr maydonga ega AI kampusini qurishni rejalashtirmoqda. Loyiha to'qqiz gigavatt quvvatga ega bo'lishi kutilmoqda.",
+    "tags": [
+      "biznes",
+      "bulut"
+    ],
+    "importance": 3,
+    "score": 18,
+    "published": "2026-10-01T14:00:00.000Z",
+    "created": "2026-10-01T15:04:44.266Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Verge",
+      "url": "https://theverge.com/podcast/1002851/utah-ai-data-center-stratos-kevin-oleary-investigation-backlash",
+      "title": "Inside our months-long investigation into Kevin O’Leary’s Utah data center debacle",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "4e55e8317825",
+    "slug": "meta-ray-ban-ai-kozoynaklari-uchun-elchi-tayinladi-4e55e8",
+    "title": "Meta Ray-Ban AI ko'zoynaklari uchun elchi tayinladi",
+    "summary": "Meta kompaniyasi Ranveer Singxni Hindistonda Ray-Ban va Ray-Ban Meta brendlarining birinchi elchisi etib tayinladi. Bu AI ko'zoynaklariga yangi yangilanishlar bilan birga e'lon qilindi.",
+    "tags": [
+      "Meta",
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 33,
+    "published": "2026-10-01T14:16:04.000Z",
+    "created": "2026-10-01T15:04:56.059Z",
+    "coverage": 1,
+    "source": {
+      "name": "Meta",
+      "url": "https://about.fb.com/news/2026/10/announcing-ranveer-singh-as-brand-ambassador-for-ray-ban-and-ray-ban-meta-in-india-along-with-exciting-new-updates-to-our-ai-glasses",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "fdc23efb58a1",
+    "slug": "metaning-yangi-ai-muse-internetni-bezovta-qilishi-mumkin-fdc23e",
+    "title": "Meta'ning yangi AI Muse internetni bezovta qilishi mumkin",
+    "summary": "BBC xabariga ko'ra, Meta'ning yangi AI Muse internetda foydalanuvchilarni ko'proq bezovta qilishi mumkin. Nashr \"vaziyat yomonlashishi mumkin\" deya ogohlantirmoqda.",
+    "tags": [
+      "Meta",
+      "xavfsizlik"
+    ],
+    "importance": 2,
+    "score": 23,
+    "published": "2026-10-01T09:08:46.000Z",
+    "created": "2026-10-01T15:04:56.059Z",
+    "coverage": 1,
+    "source": {
+      "name": "BBC",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNOVdTQVNoVkxHUnJwXzdIeXEyRVA4aU45TDhiOExPUVVpdS1KTzNEVTEzdjRkZ1lpUFNuS3hIZ1lrY2llRnM1WTlPZGlxQUswMGoyTmFfUXlncmNDUVlPZjdWWmhMVmFPME9PQUhybHNBdEY4eEJBOV9HMnAyS0h3b1ZnUUtOVHlsSWRKZXdHdlI",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "469357c60393",
+    "slug": "anthropic-robotlar-qaysi-ishlarni-bajarishini-bashorat-qildi-469357",
+    "title": "Anthropic robotlar qaysi ishlarni bajarishini bashorat qildi",
+    "summary": "Anthropic kompaniyasi robotlar kelajakda qaysi ishlarni bajarishi mumkinligini bashorat qilish bo'yicha tadqiqot o'tkazdi. Bu AI'ning mehnat bozoriga ta'sirini o'rganishga qaratilgan.",
+    "tags": [
+      "Anthropic",
+      "mehnat bozori"
+    ],
+    "importance": 3,
+    "score": 22.6,
+    "published": "2026-09-30T16:01:00.000Z",
+    "created": "2026-10-01T15:04:56.059Z",
+    "coverage": 1,
+    "source": {
+      "name": "Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5JM0E2czMxTW96bFJFdTVVZXk4SzktdVYya2tuYy1WYmdKN29TeTZ2U3J5V2dqMVZFRUpxelgxemY0a2c2RTl4c2FCRFh1M3ZWOUtETVJNY0NQNEhLZVh0TTRqb2l0ZkQ1NFE",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "6d7f5ae3d57c",
     "slug": "tramp-tufayli-sloveniya-domenlariga-talab-oshdi-6d7f5a",
     "title": "Tramp tufayli Sloveniya domenlariga talab oshdi",
