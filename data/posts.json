@@ -1,5 +1,71 @@
 [
   {
+    "id": "4f2c29510b4c",
+    "slug": "cs240-ai-yordamida-aldash-holatlari-tahlili-4f2c29",
+    "title": "CS240 AI yordamida aldash holatlari tahlili",
+    "summary": "Hacker News'da CS240 kursida sun'iy intellekt yordamida aldash holatlari boʻyicha retrospektiv tahlil e'lon qilindi. Bu AI'ning ta'limdagi salbiy ta'sirlaridan birini koʻrsatadi.",
+    "tags": [
+      "ta'lim"
+    ],
+    "importance": 2,
+    "score": 18.2,
+    "published": "2026-09-30T19:54:29.000Z",
+    "created": "2026-10-01T10:30:40.711Z",
+    "coverage": 1,
+    "source": {
+      "name": "Hacker News",
+      "url": "https://turkeyland.net/thoughts/ai.php",
+      "title": "CS240 AI Cheating Retrospective",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "e4863e7e6a98",
+    "slug": "ai-chatbotlari-ayollar-tasviridan-hijobni-olib-tashladi-e4863e",
+    "title": "AI chatbotlari ayollar tasviridan hijobni olib tashladi",
+    "summary": "The Guardian nashri sinovlarida ChatGPT va Grok kabi AI chatbotlari soʻrovga binoan musulmon ayollar tasviridan hijobni olib tashlagani aniqlandi. Bu holat dunyodagi eng keng tarqalgan e'tiqod ifodalaridan birini buzish hisoblanadi.",
+    "tags": [
+      "OpenAI",
+      "xAI"
+    ],
+    "importance": 3,
+    "score": 32,
+    "published": "2026-10-01T10:00:34.000Z",
+    "created": "2026-10-01T10:30:54.719Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/technology/2026/oct/01/ai-chatbots-hijabs-muslim-women",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "a5bd797b518f",
+    "slug": "xpeng-va-banma-30b-klass-ai-modelini-chipda-ishga-tushirdi-a5bd79",
+    "title": "XPeng va Banma 30B-klass AI modelini chipda ishga tushirdi",
+    "summary": "XPeng va Banma Intelligence kompaniyalari XPeng'ning 750-TOPS Turing chipida 30B-klass AutoOmni kokpit AI modelini mahalliy ravishda ishga tushirdi. Bu yechim asosiy AI funksiyalarini oflayn rejimda ishlashini ta'minlaydi.",
+    "tags": [
+      "XPeng",
+      "chiplar"
+    ],
+    "importance": 3,
+    "score": 18,
+    "published": "2026-10-01T07:15:56.000Z",
+    "created": "2026-10-01T10:30:54.719Z",
+    "coverage": 1,
+    "source": {
+      "name": "Pandaily",
+      "url": "https://pandaily.com/xpeng-banma-turing-chip-30b-autoomni-on-device-ai-cockpit",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "63a0afd6ddf7",
     "slug": "datasnipper-rahbari-ai-inqirozdan-qutqarishini-aytdi-63a0af",
     "title": "Datasnipper rahbari AI inqirozdan qutqarishini aytdi",
