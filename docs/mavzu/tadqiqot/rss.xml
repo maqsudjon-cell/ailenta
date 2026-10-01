@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/tadqiqot/</link>
   <description>&quot;tadqiqot&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Thu, 01 Oct 2026 12:07:59 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 01 Oct 2026 12:42:47 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/tadqiqot/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Professor AI yordamida 257 maqola yozgani uchun ishlari olib tashlandi</title>
+    <link>https://ailenta.uz/x/professor-ai-yordamida-257-maqola-yozgani-uchun-ishlari-olib-7a889d/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/professor-ai-yordamida-257-maqola-yozgani-uchun-ishlari-olib-7a889d/</guid>
+    <pubDate>Thu, 01 Oct 2026 11:10:09 GMT</pubDate>
+    <description>Chikago universiteti professori Nikolas Polson ilmiy ishlarida sun'iy intellektdan foydalanganini tan oldi. Natijada uning 257 ta maqolasi platformadan olib tashlandi. Taqrizchilar AI tufayli ilmiy jurnallarga yuborilayotgan maqolalar soni oshganidan xavotirda.</description>
+    <category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/professor-ai-yordamida-257-maqola-yozgani-uchun-ishlari-olib-7a889d.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/professor-ai-yordamida-257-maqola-yozgani-uchun-ishlari-olib-7a889d.jpg"/>
+  </item>
   <item>
     <title>AIsphere real vaqtda ishlaydigan PixVerse R2 modelini ishga tushirdi</title>
     <link>https://ailenta.uz/x/aisphere-real-vaqtda-ishlaydigan-pixverse-r2-modelini-ishga--816c11/</link>
@@ -296,16 +306,6 @@
     <category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/ai-laboratoriyalari-uchun-asosiy-maqsad-boshqa-32b405.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/ai-laboratoriyalari-uchun-asosiy-maqsad-boshqa-32b405.jpg"/>
-  </item>
-  <item>
-    <title>AI to'qib chiqargan paket nomlari xavf tug'dirmoqda</title>
-    <link>https://ailenta.uz/x/ai-toqib-chiqargan-paket-nomlari-xavf-tugdirmoqda-72336d/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/ai-toqib-chiqargan-paket-nomlari-xavf-tugdirmoqda-72336d/</guid>
-    <pubDate>Mon, 28 Sep 2026 16:18:21 GMT</pubDate>
-    <description>Beshta AI modeli tomonidan bir xil to'qib chiqarilgan 139 ta paket nomi PyPI va npm'da tekshirildi. Ulardan 7 tasi band bo'lib, bittasida 2025-yil dekabrida zararli kod topilgan. Bu AI to'qib chiqarishining xavfsizlikka ta'sirini ko'rsatadi.</description>
-    <category>xavfsizlik</category><category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/ai-toqib-chiqargan-paket-nomlari-xavf-tugdirmoqda-72336d.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/ai-toqib-chiqargan-paket-nomlari-xavf-tugdirmoqda-72336d.jpg"/>
   </item>
 </channel>
 </rss>
