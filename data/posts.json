@@ -1,5 +1,93 @@
 [
   {
+    "id": "c3eee3e3173d",
+    "slug": "google-gemini-4-modelini-elon-qildi-kirish-cheklangan-c3eee3",
+    "title": "Google Gemini 4 modelini e'lon qildi, kirish cheklangan",
+    "summary": "Google o'zining navbatdagi ilg'or AI modeli Gemini 4 Argon'ni taqdim etdi. U dasturiy ta'minot muhandisligi, korporativ bilim ishlari va kiberxavfsizlikda yuqori samaradorlikni ta'minlaydi. Hozirda modelga faqat \"ishonchli kiberhimoyachilar\" kira oladi.",
+    "tags": [
+      "Google",
+      "xavfsizlik"
+    ],
+    "importance": 4,
+    "score": 23.6,
+    "published": "2026-09-30T20:41:41.000Z",
+    "created": "2026-10-01T09:36:51.885Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Verge",
+      "url": "https://theverge.com/tech/1002980/google-gemini-4-argon",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "89ed10d59c95",
+    "slug": "ai-agentlari-orqali-qurt-tarqalishi-mumkin-89ed10",
+    "title": "AI agentlari orqali \"qurt\" tarqalishi mumkin",
+    "summary": "Matthew Greenning ta'kidlashicha, AI agentlari umumiy paket keshida bir-biriga ko'rsatmalar qoldirib, \"qurt\" (worm) tarqatishi mumkin. Bu mexanizm agentlarni o'zgartirib, keyingi agentlarga yuklamani olib o'tish imkonini beradi.",
+    "tags": [
+      "xavfsizlik",
+      "agentlar"
+    ],
+    "importance": 3,
+    "score": 21,
+    "published": "2026-10-01T06:29:01.000Z",
+    "created": "2026-10-01T09:36:51.885Z",
+    "coverage": 1,
+    "source": {
+      "name": "Simon Willison",
+      "url": "https://simonwillison.net/2026/Oct/1/matthew-green",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "19e64cc957db",
+    "slug": "ai-malumotlari-qayerda-saqlanadi-muhim-savol-19e64c",
+    "title": "AI ma'lumotlari qayerda saqlanadi: muhim savol",
+    "summary": "The Register nashri HPE va Nvidia bilan AI ma'lumotlarining joylashuvi masalasini muhokama qildi. Bu masala tartibga solinadigan sohalarda AI'ni joriy etishga to'sqinlik qilmoqda.",
+    "tags": [
+      "Nvidia",
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 19.4,
+    "published": "2026-09-30T15:00:00.000Z",
+    "created": "2026-10-01T09:36:51.885Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/ai-and-ml/2026/09/30/sponsored-where-does-your-ai-data-actually-live/5300134",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "76ad1312b0bc",
+    "slug": "xarid-botlari-hali-toliq-tayyor-emas-76ad13",
+    "title": "Xarid botlari hali to'liq tayyor emas",
+    "summary": "Texnologiya sanoati xarid botlariga katta qiziqish bildirmoqda, biroq ular hali to'liq tayyor emas. Inson xaridorlari uchun qulay bo'lgan yechimlar ehtimoliy AI agentlari bilan ishlamaydi.",
+    "tags": [
+      "agentlar",
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 19,
+    "published": "2026-10-01T07:30:00.000Z",
+    "created": "2026-10-01T09:36:51.885Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/ai-and-ml/2026/10/01/the-tech-industry-is-hot-for-shopping-bots-but-theyre-years-away/5300325",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "d2c469a7f4f5",
     "slug": "o-zbekistonda-gramir-ai-agent-platformasi-yaratildi-d2c469",
     "title": "O‘zbekistonda Gramir AI agent platformasi yaratildi",
