@@ -1,5 +1,71 @@
 [
   {
+    "id": "fe18c8ff7b43",
+    "slug": "ai-fermerlarga-hosilni-qachon-yigishni-orgatmoqda-fe18c8",
+    "title": "AI fermerlarga hosilni qachon yig'ishni o'rgatmoqda",
+    "summary": "Yangi sun'iy intellekt vositalari fermerlarga mevalarni qachon uzish kerakligini aniqlashda yordam bermoqda. Biroq ko'plab dehqonlar texnologiyadan ko'ra o'zlarining shaxsiy tajriba va sezgilariga ishonishni afzal ko'rishmoqda.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 23,
+    "published": "2026-09-30T23:02:21.000Z",
+    "created": "2026-10-01T00:09:01.015Z",
+    "coverage": 1,
+    "source": {
+      "name": "BBC News",
+      "url": "https://bbc.co.uk/news/articles/cgk53dkmyxko?at_medium=RSS&at_campaign=rss",
+      "title": "The AI telling farmers when to harvest",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "0f4f615840d8",
+    "slug": "bill-geyts-ai-tufayli-milliard-odam-halok-bolishini-aytdi-0f4f61",
+    "title": "Bill Geyts AI tufayli milliard odam halok bo'lishini aytdi",
+    "summary": "Microsoft asoschisi Bill Geyts agar sun'iy intellekt nazoratsiz qoldirilsa, u milliardga yaqin insonning o'limiga sabab bo'lishi mumkinligini taxmin qildi. U o'zining ushbu xavotirli bayonotini NBC telekanaliga bergan intervyusida ma'lum qilgan.",
+    "tags": [
+      "Microsoft",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 22.1,
+    "published": "2026-09-30T10:00:23.000Z",
+    "created": "2026-10-01T00:09:05.142Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/commentisfree/2026/sep/30/bill-gates-thinks-ai-could-kill-people-can-we-trust-judgment-after-epstein",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "add25353de85",
+    "slug": "micron-kompaniyasining-daromadi-keskin-osdi-add253",
+    "title": "Micron kompaniyasining daromadi keskin o'sdi",
+    "summary": "Micron kompaniyasi sun'iy intellektga bo'lgan yuqori talab ortidan kutilganidan ko'proq daromad oldi. Kompaniyaning ma'lumotlar markazlaridan olgan daromadi 11 barobarga oshgan va kelgusi chorak uchun ham ijobiy prognozlar berilgan.",
+    "tags": [
+      "biznes",
+      "chiplar"
+    ],
+    "importance": 3,
+    "score": 22,
+    "published": "2026-09-30T20:59:05.000Z",
+    "created": "2026-10-01T00:09:05.142Z",
+    "coverage": 1,
+    "source": {
+      "name": "CNBC",
+      "url": "https://cnbc.com/2026/09/30/micron-mu-q4-earnings-report-2026.html",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "457b65f6a797",
     "slug": "ai-ishlatilgan-mikroskop-tasviri-tanlovda-bahs-uygotdi-457b65",
     "title": "AI ishlatilgan mikroskop tasviri tanlovda bahs uyg'otdi",
