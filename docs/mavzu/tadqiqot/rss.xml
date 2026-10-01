@@ -5,7 +5,7 @@
   <link>https://ailenta.uz/mavzu/tadqiqot/</link>
   <description>&quot;tadqiqot&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Thu, 01 Oct 2026 15:10:06 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 01 Oct 2026 15:41:02 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/tadqiqot/rss.xml" rel="self" type="application/rss+xml"/>
   <item>
     <title>Professor AI yordamida 257 maqola yozgani uchun ishlari olib tashlandi</title>
@@ -26,6 +26,16 @@
     <category>AIsphere</category><category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/aisphere-real-vaqtda-ishlaydigan-pixverse-r2-modelini-ishga--816c11.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/aisphere-real-vaqtda-ishlaydigan-pixverse-r2-modelini-ishga--816c11.jpg"/>
+  </item>
+  <item>
+    <title>Apple AI agentlari uchun o'z-o'zini takomillashtirish usulini taklif qildi</title>
+    <link>https://ailenta.uz/x/apple-ai-agentlari-uchun-oz-ozini-takomillashtirish-usulini--b0d608/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/apple-ai-agentlari-uchun-oz-ozini-takomillashtirish-usulini--b0d608/</guid>
+    <pubDate>Thu, 01 Oct 2026 00:00:00 GMT</pubDate>
+    <description>Apple kompaniyasi RLTL;DR nomli yangi usulni taqdim etdi. Bu usul AI agentlariga muvaffaqiyatsiz urinishlardan so'ng o'z-o'zidan fikr-mulohaza yozish imkonini beradi. Bu esa agentlarning qiyin vazifalarda o'z-o'zini takomillashtirishiga yordam beradi.</description>
+    <category>Apple</category><category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/apple-ai-agentlari-uchun-oz-ozini-takomillashtirish-usulini--b0d608.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/apple-ai-agentlari-uchun-oz-ozini-takomillashtirish-usulini--b0d608.jpg"/>
   </item>
   <item>
     <title>AI fermerlarga hosilni qachon yig'ishni o'rgatmoqda</title>
@@ -296,16 +306,6 @@
     <category>chiplar</category><category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/esp32s3-klasterida-1-58-bitli-til-modeli-ishga-tushirildi-519655.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/esp32s3-klasterida-1-58-bitli-til-modeli-ishga-tushirildi-519655.jpg"/>
-  </item>
-  <item>
-    <title>AI laboratoriyalari uchun asosiy maqsad boshqa</title>
-    <link>https://ailenta.uz/x/ai-laboratoriyalari-uchun-asosiy-maqsad-boshqa-32b405/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/ai-laboratoriyalari-uchun-asosiy-maqsad-boshqa-32b405/</guid>
-    <pubDate>Mon, 28 Sep 2026 20:47:26 GMT</pubDate>
-    <description>Hacker News'dagi maqolada AI laboratoriyalari uchun &quot;chegarani belgilash&quot; asosiy maqsad emasligi aytilgan. Bu AI tadqiqotlarining haqiqiy yo‘nalishi haqida fikr bildiradi.</description>
-    <category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/ai-laboratoriyalari-uchun-asosiy-maqsad-boshqa-32b405.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/ai-laboratoriyalari-uchun-asosiy-maqsad-boshqa-32b405.jpg"/>
   </item>
 </channel>
 </rss>

@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/apple/</link>
   <description>&quot;Apple&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Thu, 01 Oct 2026 15:10:06 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 01 Oct 2026 15:41:02 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/apple/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Apple AI agentlari uchun o'z-o'zini takomillashtirish usulini taklif qildi</title>
+    <link>https://ailenta.uz/x/apple-ai-agentlari-uchun-oz-ozini-takomillashtirish-usulini--b0d608/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/apple-ai-agentlari-uchun-oz-ozini-takomillashtirish-usulini--b0d608/</guid>
+    <pubDate>Thu, 01 Oct 2026 00:00:00 GMT</pubDate>
+    <description>Apple kompaniyasi RLTL;DR nomli yangi usulni taqdim etdi. Bu usul AI agentlariga muvaffaqiyatsiz urinishlardan so'ng o'z-o'zidan fikr-mulohaza yozish imkonini beradi. Bu esa agentlarning qiyin vazifalarda o'z-o'zini takomillashtirishiga yordam beradi.</description>
+    <category>Apple</category><category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/apple-ai-agentlari-uchun-oz-ozini-takomillashtirish-usulini--b0d608.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/apple-ai-agentlari-uchun-oz-ozini-takomillashtirish-usulini--b0d608.jpg"/>
+  </item>
   <item>
     <title>Meta Apple'ning telefon ustunligiga qarshi chiqmoqda</title>
     <link>https://ailenta.uz/x/meta-applening-telefon-ustunligiga-qarshi-chiqmoqda-9f9b88/</link>
@@ -296,16 +306,6 @@
     <category>Apple</category>
     <media:content url="https://ailenta.uz/og/apple-siri-ai-dastlabki-qiziqish-sondi-33d99a.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/apple-siri-ai-dastlabki-qiziqish-sondi-33d99a.jpg"/>
-  </item>
-  <item>
-    <title>Blender va kodlash agentlari macOS'da</title>
-    <link>https://ailenta.uz/x/blender-va-kodlash-agentlari-macosda-22aace/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/blender-va-kodlash-agentlari-macosda-22aace/</guid>
-    <pubDate>Sat, 05 Sep 2026 15:51:09 GMT</pubDate>
-    <description>Simon Willison macOS'da Blender dasturini ChatGPT Codex kodlash agentlari bilan ishlatish tajribasini bo'lishdi. U Blender'ning Python API'si orqali tasvirlar yaratish osonligini ko'rsatdi.</description>
-    <category>Apple</category><category>agentlar</category>
-    <media:content url="https://ailenta.uz/og/blender-va-kodlash-agentlari-macosda-22aace.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/blender-va-kodlash-agentlari-macosda-22aace.jpg"/>
   </item>
 </channel>
 </rss>

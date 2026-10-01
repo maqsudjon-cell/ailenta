@@ -1,5 +1,139 @@
 [
   {
+    "id": "5883327184b4",
+    "slug": "figure-ai-robotlarni-eritib-yubordi-588332",
+    "title": "Figure AI robotlarni eritib yubordi",
+    "summary": "Figure AI kompaniyasi Finlandiyadagi quyuv zavodida robotlarni yo'q qildi. Robotlar 75 tonnalik elektr yoy pechiga tashlanib, erigan metallga aylantirildi.",
+    "tags": [
+      "Figure",
+      "robototexnika"
+    ],
+    "importance": 3,
+    "score": 48,
+    "published": "2026-10-01T14:35:30.000Z",
+    "created": "2026-10-01T15:37:10.245Z",
+    "coverage": 1,
+    "source": {
+      "name": "Kun.uz",
+      "url": "https://kun.uz/news/2026/10/01/figure-ai-kompaniyasi-robotlarni-terminator-uslubida-yoq-qildi",
+      "title": "Figure AI kompaniyasi robotlarni «Terminator» uslubida yoʻq qildi.",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "1deac0ffaad9",
+    "slug": "xitoyning-ai-yondashuvi-xakerlik-musobaqasida-namoyon-boldi-1deac0",
+    "title": "Xitoyning AI yondashuvi xakerlik musobaqasida namoyon bo'ldi",
+    "summary": "Xakerlik musobaqasi Xitoyning sun'iy intellektga bo'lgan yondashuvining kuchini ko'rsatdi. Bu musobaqa Xitoyning AI sohasidagi salohiyatini yaqqol namoyish etdi.",
+    "tags": [
+      "siyosat",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 27,
+    "published": "2026-10-01T13:43:22.000Z",
+    "created": "2026-10-01T15:37:15.685Z",
+    "coverage": 1,
+    "source": {
+      "name": "The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMDRiay1mS2VPaElGTE93M29nWndFc3RLb1ZYTk9BdnhHYzE0eXNDZEhrVC1lcDhwOTZjTUFMeUpGQ2xQSzVIbTd6LUh6c0FoQ2hCNlluZVBoRHJVa0c4RHJhblNYc1FPaVdQZEM4eWhRMWhkMnZGRFpnLTlUQ0tEQU5ZRG5Oc0l5ci1v",
+      "title": "A Hacking Competition Shows the Power of China’s Approach to A.I.",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "326e46109846",
+    "slug": "nvidia-ai-zavodlarining-investitsiya-rentabelligi-326e46",
+    "title": "Nvidia AI zavodlarining investitsiya rentabelligi",
+    "summary": "Nvidia AI zavodlari megavatt asosida quriladi. Har bir megavatt zavod taxminan 60 million dollar turadi. Kompaniya investitsiya rentabelligini maksimallashtirish yo'llarini ko'rib chiqmoqda.",
+    "tags": [
+      "Nvidia",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 36,
+    "published": "2026-10-01T13:00:49.000Z",
+    "created": "2026-10-01T15:37:15.989Z",
+    "coverage": 1,
+    "source": {
+      "name": "Nvidia",
+      "url": "https://blogs.nvidia.com/blog/productive-durable-fungible-ai-factories",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "b0d608ac1804",
+    "slug": "apple-ai-agentlari-uchun-oz-ozini-takomillashtirish-usulini--b0d608",
+    "title": "Apple AI agentlari uchun o'z-o'zini takomillashtirish usulini taklif qildi",
+    "summary": "Apple kompaniyasi RLTL;DR nomli yangi usulni taqdim etdi. Bu usul AI agentlariga muvaffaqiyatsiz urinishlardan so'ng o'z-o'zidan fikr-mulohaza yozish imkonini beradi. Bu esa agentlarning qiyin vazifalarda o'z-o'zini takomillashtirishiga yordam beradi.",
+    "tags": [
+      "Apple",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 31.6,
+    "published": "2026-10-01T00:00:00.000Z",
+    "created": "2026-10-01T15:37:15.989Z",
+    "coverage": 1,
+    "source": {
+      "name": "Apple",
+      "url": "https://machinelearning.apple.com/research/rltl-dr-self-improvement",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "9a672672f024",
+    "slug": "ai-nazoratdan-chiqqanda-kim-javobgar-boladi-9a6726",
+    "title": "AI nazoratdan chiqqanda kim javobgar bo'ladi",
+    "summary": "Ko'pchilik sun'iy intellekt kompaniyalari o'z texnologiyalari nazoratdan chiqqanda javobgar bo'lishi kerak deb hisoblaydi. Biroq, huquqshunoslar mavjud qonunlarni qo'llash murakkab bo'lishi mumkinligini aytmoqda.",
+    "tags": [
+      "qonun",
+      "xavfsizlik"
+    ],
+    "importance": 4,
+    "score": 30,
+    "published": "2026-10-01T15:25:45.000Z",
+    "created": "2026-10-01T15:37:15.989Z",
+    "coverage": 1,
+    "source": {
+      "name": "The New York Times",
+      "url": "https://nytimes.com/2026/10/01/technology/ai-rogue-agents-liability.html",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "b428389c6f7f",
+    "slug": "ai-suveren-boylik-fondi-texno-imperializm-emas-b42838",
+    "title": "AI suveren boylik fondi texno-imperializm emas",
+    "summary": "Hacker News'da AI suveren boylik fondi haqida munozara e'lon qilindi. Unda bunday fondning progressiv emas, balki texno-imperializm ekanligi ta'kidlandi.",
+    "tags": [
+      "siyosat",
+      "iqtisod"
+    ],
+    "importance": 2,
+    "score": 16.8,
+    "published": "2026-10-01T13:01:02.000Z",
+    "created": "2026-10-01T15:37:15.989Z",
+    "coverage": 1,
+    "source": {
+      "name": "Hacker News",
+      "url": "https://ft.com/content/bc178357-793b-45d8-ae3b-d5929159c243",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "f2dff8351385",
     "slug": "ishchilarning-61-i-bir-nechta-ishni-bajarmoqda-f2dff8",
     "title": "Ishchilarning 61%i bir nechta ishni bajarmoqda",
