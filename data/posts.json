@@ -1,5 +1,76 @@
 [
   {
+    "id": "49be62eba636",
+    "slug": "ai-oqsillarini-aniqlovchi-maxfiy-belgi-49be62",
+    "title": "AI oqsillarini aniqlovchi maxfiy belgi",
+    "summary": "Olimlar sun'iy intellekt tomonidan yaratilgan oqsillarni aniqlash uchun maxfiy suv belgisini ishlab chiqdilar. Bu belgi oqsillarning funksiyasini saqlagan holda ularning AI tomonidan yaratilganini ko'rsatadi.",
+    "tags": [
+      "tadqiqot",
+      "tibbiyot"
+    ],
+    "importance": 3,
+    "score": 19.9,
+    "published": "2026-09-30T00:00:00.000Z",
+    "created": "2026-10-01T10:46:39.275Z",
+    "coverage": 2,
+    "source": {
+      "name": "Nature",
+      "url": "https://nature.com/articles/d41586-026-03033-y",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "Nature",
+        "url": "https://nature.com/articles/s41586-026-10965-y"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "bffe928da8e6",
+    "slug": "nvidia-aksiyalari-osish-arafasida-microndan-kutilmalar-bor-bffe92",
+    "title": "Nvidia aksiyalari o'sish arafasida, Micron'dan kutilmalar bor",
+    "summary": "Nvidia aksiyalari sezilarli o'sish bosqichiga yaqinlashmoqda. Investorlar Micron kompaniyasidan ham yangi natijalarni kutmoqda.",
+    "tags": [
+      "Nvidia",
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 16.3,
+    "published": "2026-09-30T15:47:42.000Z",
+    "created": "2026-10-01T10:46:39.275Z",
+    "coverage": 1,
+    "source": {
+      "name": "CNBC",
+      "url": "https://cnbc.com/2026/09/30/nvidia-approaches-a-breakout-level-plus-what-we-want-to-see-from-micron.html",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "816c11dd915b",
+    "slug": "aisphere-real-vaqtda-ishlaydigan-pixverse-r2-modelini-ishga--816c11",
+    "title": "AIsphere real vaqtda ishlaydigan PixVerse R2 modelini ishga tushirdi",
+    "summary": "AIsphere kompaniyasi real vaqtda ishlaydigan PixVerse R2 dunyo modelini taqdim etdi. Bu model matn, tasvir, audio va klaviatura kiritishlarini qabul qilib, interaktiv audiovizual dunyolar yaratadi.",
+    "tags": [
+      "AIsphere",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-10-01T07:17:46.000Z",
+    "created": "2026-10-01T10:46:39.275Z",
+    "coverage": 1,
+    "source": {
+      "name": "Pandaily",
+      "url": "https://pandaily.com/aisphere-pixverse-r2-real-time-world-model-omni-causal-ar",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "4f2c29510b4c",
     "slug": "cs240-ai-yordamida-aldash-holatlari-tahlili-4f2c29",
     "title": "CS240 AI yordamida aldash holatlari tahlili",
