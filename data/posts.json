@@ -1,5 +1,137 @@
 [
   {
+    "id": "6417bbfe4790",
+    "slug": "xato-qiluvchi-ai-aqsh-va-xitoy-ortasida-urushni-keltirib-chi-6417bb",
+    "title": "Xato qiluvchi AI AQSH va Xitoy o'rtasida urushni keltirib chiqarishi mumkin edi",
+    "summary": "Yaqinda AQSH harbiylarining AI chatbotlariga tayanishi Xitoy bilan urushga olib kelishi mumkin bo'lgan xavfsizlik hodisasi yuz berdi. Bu voqea AI xavflari haqidagi tushunchalarni o'zgartirishi mumkin.",
+    "tags": [
+      "xavfsizlik",
+      "siyosat"
+    ],
+    "importance": 5,
+    "score": 29,
+    "published": "2026-10-01T09:00:33.000Z",
+    "created": "2026-10-01T12:03:05.814Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/commentisfree/2026/oct/01/forget-superintelligence-error-prone-ai-nearly-sparked-world-war-iii-this-month",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "d182adb13540",
+    "slug": "kaliforniya-gubernatorligiga-nomzodlar-aini-tartibga-solish--d182ad",
+    "title": "Kaliforniya gubernatorligiga nomzodlar AI'ni tartibga solish bo'yicha bahslashdi",
+    "summary": "Kaliforniya gubernatorligiga nomzodlar Xavier Becerra va Steve Hilton saylovoldi munozarasida AI'ni tartibga solish masalasini muhokama qildilar. Ular soliqlar va immigratsiya bo'yicha ham tortishdilar.",
+    "tags": [
+      "siyosat",
+      "qonun"
+    ],
+    "importance": 2,
+    "score": 26,
+    "published": "2026-10-01T04:02:58.000Z",
+    "created": "2026-10-01T12:03:05.814Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/us-news/2026/oct/01/steve-hilton-xavier-becerra-clash-california-governor-race-debate",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "da0fba6ec184",
+    "slug": "ai-sogliqni-saqlashda-hisob-kitob-tizimiga-kirib-xarajatlarn-da0fba",
+    "title": "AI sog'liqni saqlashda hisob-kitob tizimiga kirib, xarajatlarni oshirmoqda",
+    "summary": "AI kasalxonalarda hisob-kitoblarni kodlashda ishlatilmoqda, bu esa sug'urtachilar fikricha, sog'liqni saqlash tizimiga qo'shimcha xarajatlar yuklamoqda. Blue Cross Blue Shield bu xarajatni 1 milliard dollarga yaqin deb baholadi.",
+    "tags": [
+      "tibbiyot",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-10-01T11:30:01.000Z",
+    "created": "2026-10-01T12:03:05.814Z",
+    "coverage": 1,
+    "source": {
+      "name": "CNBC",
+      "url": "https://cnbc.com/2026/10/01/health-care-costs-insurance-claims-billing-ai.html",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "d9350fd04df7",
+    "slug": "spacex-google-ai-chiplarini-orbitaga-chiqarishga-tayyorlanmo-d9350f",
+    "title": "SpaceX Google AI chiplarini orbitaga chiqarishga tayyorlanmoqda",
+    "summary": "SpaceX Google'ning tensor protsessorlarini (TPU) Planet Labs sun'iy yo'ldoshlarida orbitaga uchirishni rejalashtirmoqda. Bu harakat kosmik ma'lumotlar markazlarini yaratishga qaratilgan.",
+    "tags": [
+      "Google",
+      "chiplar"
+    ],
+    "importance": 4,
+    "score": 19,
+    "published": "2026-10-01T11:20:15.000Z",
+    "created": "2026-10-01T12:03:05.814Z",
+    "coverage": 1,
+    "source": {
+      "name": "CNBC",
+      "url": "https://cnbc.com/2026/10/01/spacex-to-launch-google-ai-chips-to-orbit-with-planet-labs-satellites.html",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "3b83357f2465",
+    "slug": "z-avlodi-aidan-organadi-57-qollashda-qiynaladi-3b8335",
+    "title": "Z avlodi AI'dan o'rganadi, 57% qo'llashda qiynaladi",
+    "summary": "So'rov natijalariga ko'ra, Z avlodi AI'ni o'rganish uchun eng ko'p foydalanadi. Biroq, ularning 57 foizi o'rgangan bilimlarini amalda qo'llashda qiyinchiliklarga duch kelishini aytgan.",
+    "tags": [
+      "ta'lim",
+      "mehnat bozori"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-10-01T11:00:00.000Z",
+    "created": "2026-10-01T12:03:05.814Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/10/01/gen-z-ai-learning-struggle-to-apply-survey",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "1798afeedec6",
+    "slug": "mckinsey-hamkori-aining-oson-yutuqlari-bosh-direktorlarni-ch-1798af",
+    "title": "McKinsey hamkori: AI'ning oson yutuqlari bosh direktorlarni chalg'itmoqda",
+    "summary": "McKinsey katta hamkorining fikricha, AI'ning aloqa markazlari va dasturiy ta'minotni kodlashdagi \"oson yutuqlari\" bosh direktorlarni chalg'itishi mumkin. Bu ishlar AI'ga bog'liq bo'lmagan sabablarga ko'ra allaqachon standartlashtirilgan edi.",
+    "tags": [
+      "biznes",
+      "mehnat bozori"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-10-01T10:30:00.000Z",
+    "created": "2026-10-01T12:03:05.814Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/10/01/mckinsey-senior-partner-why-ais-easiest-wins-are-misleading-ceos",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "49be62eba636",
     "slug": "ai-oqsillarini-aniqlovchi-maxfiy-belgi-49be62",
     "title": "AI oqsillarini aniqlovchi maxfiy belgi",

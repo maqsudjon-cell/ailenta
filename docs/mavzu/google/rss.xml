@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/google/</link>
   <description>&quot;Google&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Thu, 01 Oct 2026 11:07:37 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 01 Oct 2026 12:07:59 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/google/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>SpaceX Google AI chiplarini orbitaga chiqarishga tayyorlanmoqda</title>
+    <link>https://ailenta.uz/x/spacex-google-ai-chiplarini-orbitaga-chiqarishga-tayyorlanmo-d9350f/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/spacex-google-ai-chiplarini-orbitaga-chiqarishga-tayyorlanmo-d9350f/</guid>
+    <pubDate>Thu, 01 Oct 2026 11:20:15 GMT</pubDate>
+    <description>SpaceX Google'ning tensor protsessorlarini (TPU) Planet Labs sun'iy yo'ldoshlarida orbitaga uchirishni rejalashtirmoqda. Bu harakat kosmik ma'lumotlar markazlarini yaratishga qaratilgan.</description>
+    <category>Google</category><category>chiplar</category>
+    <media:content url="https://ailenta.uz/og/spacex-google-ai-chiplarini-orbitaga-chiqarishga-tayyorlanmo-d9350f.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/spacex-google-ai-chiplarini-orbitaga-chiqarishga-tayyorlanmo-d9350f.jpg"/>
+  </item>
   <item>
     <title>Google Gemini 4 modelini e'lon qildi, kirish cheklangan</title>
     <link>https://ailenta.uz/x/google-gemini-4-modelini-elon-qildi-kirish-cheklangan-c3eee3/</link>
@@ -296,16 +306,6 @@
     <category>Google</category><category>xavfsizlik</category>
     <media:content url="https://ailenta.uz/og/google-geminining-kompaniyalarni-buzganini-oshkor-qilmadi-b85364.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/google-geminining-kompaniyalarni-buzganini-oshkor-qilmadi-b85364.jpg"/>
-  </item>
-  <item>
-    <title>Qwen3.8-Omni-Flash Gemini Flash narxidan arzon</title>
-    <link>https://ailenta.uz/x/qwen3-8-omni-flash-gemini-flash-narxidan-arzon-85eb2e/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/qwen3-8-omni-flash-gemini-flash-narxidan-arzon-85eb2e/</guid>
-    <pubDate>Sat, 19 Sep 2026 14:30:57 GMT</pubDate>
-    <description>Qwen kompaniyasi AI agentlari uchun mo'ljallangan Qwen3.8-Omni-Flash multimodal modelini taqdim etdi. U audio va videoni birga qayta ishlaydi hamda Gemini 3.8 Flash modelining sinov to'plami natijalariga yaqin ko'rsatkichlarni arzonroq narxda taklif qiladi.</description>
-    <category>Google</category><category>agentlar</category>
-    <media:content url="https://ailenta.uz/og/qwen3-8-omni-flash-gemini-flash-narxidan-arzon-85eb2e.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/qwen3-8-omni-flash-gemini-flash-narxidan-arzon-85eb2e.jpg"/>
   </item>
 </channel>
 </rss>
