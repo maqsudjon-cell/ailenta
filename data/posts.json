@@ -1,5 +1,54 @@
 [
   {
+    "id": "3e98ea49575d",
+    "slug": "huawei-ai-chiplari-savdosida-nvidiadan-ozib-ketdi-3e98ea",
+    "title": "Huawei AI chiplari savdosida Nvidia'dan o'zib ketdi",
+    "summary": "Huawei rahbari Erik Sxu kompaniyaning mahalliy AI chiplari Xitoyda savdo hajmi bo'yicha Nvidia'dan o'zib ketganini ma'lum qildi. Uning so'zlariga ko'ra, ushbu chiplar unchalik ilg'or bo'lmasa-da, ularga kutilmaganda taqiq qo'yilish xavfi yo'q.",
+    "tags": [
+      "Nvidia",
+      "chiplar"
+    ],
+    "importance": 4,
+    "score": 28,
+    "published": "2026-09-30T20:16:14.000Z",
+    "created": "2026-10-01T00:52:33.906Z",
+    "coverage": 2,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/systems/2026/09/30/huawei-boss-claims-homegrown-ai-chip-sales-top-nvidia-in-china/5300266",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "The Register",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMjJsN0FqMzY3R2dZZHgtcUN0ZjlDYUdHWFpES2d1UkMxbFdmd2VfSmU1eHc1MGotVmg4djFXMTF6VXBaRWhNVE9lRlpPb21aRWE1VDdXcHZDZzBnS2JueVcwc25ld2V5cjQyQzlJLXZqazdlX0hxd2lfNkhHT0hVRXdSUDg0UUNqN1BOUXF6Zy1TYU9McGFMZXZHbFdkRTkwMWxUYkhqQVJXcnJXQmFPaDdTeVh6X0Ry"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "b106f4dc819c",
+    "slug": "ford-rahbari-ai-qaysi-kasblarni-yoq-qilishini-aytdi-b106f4",
+    "title": "Ford rahbari AI qaysi kasblarni yo'q qilishini aytdi",
+    "summary": "Ford bosh ijrochi direktori moliya, qo'ng'iroqlar markazi va boshlang'ich darajadagi dasturchilar kabi soha xodimlari o'rnini AI egallashini ma'lum qildi. Uning fikricha, oddiy ishchilar esa texnologiyadan yordamchi sifatida foydalanadi.",
+    "tags": [
+      "mehnat bozori",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-09-30T22:28:38.000Z",
+    "created": "2026-10-01T00:52:33.906Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/09/30/ford-ceo-jim-farley-ai-impact-jobs-blue-collar-companion",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "fe18c8ff7b43",
     "slug": "ai-fermerlarga-hosilni-qachon-yigishni-orgatmoqda-fe18c8",
     "title": "AI fermerlarga hosilni qachon yig'ishni o'rgatmoqda",
