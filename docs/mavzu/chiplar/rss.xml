@@ -5,7 +5,7 @@
   <link>https://ailenta.uz/mavzu/chiplar/</link>
   <description>&quot;chiplar&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Thu, 01 Oct 2026 01:05:57 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 01 Oct 2026 02:07:10 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/chiplar/rss.xml" rel="self" type="application/rss+xml"/>
   <item>
     <title>Micron kompaniyasining daromadi keskin o'sdi</title>
@@ -46,6 +46,16 @@
     <category>robototexnika</category><category>chiplar</category>
     <media:content url="https://ailenta.uz/og/robox-d9m-robot-harakati-kontrolleri-taqdim-etildi-3e85b8.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/robox-d9m-robot-harakati-kontrolleri-taqdim-etildi-3e85b8.jpg"/>
+  </item>
+  <item>
+    <title>Netlist Google va Nvidia AI chiplariga import taqiqini so'radi</title>
+    <link>https://ailenta.uz/x/netlist-google-va-nvidia-ai-chiplariga-import-taqiqini-sorad-5f78b0/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/netlist-google-va-nvidia-ai-chiplariga-import-taqiqini-sorad-5f78b0/</guid>
+    <pubDate>Tue, 29 Sep 2026 15:50:51 GMT</pubDate>
+    <description>Netlist kompaniyasi AQSHda Google va Nvidia'ning sun'iy intellekt hisoblashlarida ishlatiladigan Micron chiplariga import taqiqini qo'llashni talab qildi.</description>
+    <category>chiplar</category><category>sud</category>
+    <media:content url="https://ailenta.uz/og/netlist-google-va-nvidia-ai-chiplariga-import-taqiqini-sorad-5f78b0.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/netlist-google-va-nvidia-ai-chiplariga-import-taqiqini-sorad-5f78b0.jpg"/>
   </item>
   <item>
     <title>IC-STAR mikrosxemalar dizaynini avtomatlashtiradi</title>
@@ -296,16 +306,6 @@
     <category>Alibaba</category><category>chiplar</category>
     <media:content url="https://ailenta.uz/og/alibaba-zhenwu-v900-ai-chipini-taqdim-etdi-fc703c.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/alibaba-zhenwu-v900-ai-chipini-taqdim-etdi-fc703c.jpg"/>
-  </item>
-  <item>
-    <title>Hygon CPU1000 Physical-AI chekka chipini taqdim etdi</title>
-    <link>https://ailenta.uz/x/hygon-cpu1000-physical-ai-chekka-chipini-taqdim-etdi-616078/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/hygon-cpu1000-physical-ai-chekka-chipini-taqdim-etdi-616078/</guid>
-    <pubDate>Tue, 22 Sep 2026 01:58:42 GMT</pubDate>
-    <description>Hygon Shenzhen shahrida CPU1000-seriyali protsessorini ishga tushirmoqda. Ushbu chip robototexnika, mashinani ko'rish va aqlli ishlab chiqarish uchun kam quvvatli chekka hisoblashga mo'ljallangan bo'lib, kompaniyaning ma'lumot markazi CPU liniyalaridan tashqariga chiqadi.</description>
-    <category>chiplar</category><category>robototexnika</category>
-    <media:content url="https://ailenta.uz/og/hygon-cpu1000-physical-ai-chekka-chipini-taqdim-etdi-616078.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/hygon-cpu1000-physical-ai-chekka-chipini-taqdim-etdi-616078.jpg"/>
   </item>
 </channel>
 </rss>

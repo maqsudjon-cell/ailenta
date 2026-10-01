@@ -1,5 +1,97 @@
 [
   {
+    "id": "5f78b05cc72a",
+    "slug": "netlist-google-va-nvidia-ai-chiplariga-import-taqiqini-sorad-5f78b0",
+    "title": "Netlist Google va Nvidia AI chiplariga import taqiqini so'radi",
+    "summary": "Netlist kompaniyasi AQSHda Google va Nvidia'ning sun'iy intellekt hisoblashlarida ishlatiladigan Micron chiplariga import taqiqini qo'llashni talab qildi.",
+    "tags": [
+      "chiplar",
+      "sud"
+    ],
+    "importance": 3,
+    "score": 27.1,
+    "published": "2026-09-29T15:50:51.000Z",
+    "created": "2026-10-01T02:02:00.773Z",
+    "coverage": 2,
+    "source": {
+      "name": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSmxnMEM4VmZvZUtSUTFlQWI0bWIyRFJmMEh4RTh5ck5obV85T2RMeTJoU1VLN3BwRkE4d3F4ZjNiaDN1RzNtVDczTGNPQnF0ZzIyUnNzSk40TnhaZXZNRmVyUUZ5cjZXUGtWR0puZHZSejFnQkthMHJfQkhxMEZVTWgxVTBQeUJxM3RlaXBKcXB4RDZIOFU3SExnR3lHcUN3dUdlUHhPZ25SN0xPMEJGcnc4d0d5VkwwUmxaMlQ0blZqcU0",
+      "indirect": true
+    },
+    "also": [
+      {
+        "name": "The Economic Times",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQWmVIM3E3ejZKeFBxY3hTcl93R09HRGVzNzFuWHMtV09GWHlOV2U3bW56dS10RTB3VG1YaUd0SXl2R2hfcFhaLURIYVNHZHFmTWs1dWJkMThOY2I0MC14bVdUS0FxcFJERHhjdkl5NWFwU1RJaTNtLXFBT2tFbWMtYlVrYVRhTXprdzkzaHByazNWZDdLeEx0dkFYeTRsSUZldjFKY1hSa0JxNGU0NFFmZ0gxZ0N6WVl6UGlfSVVzMnNxR3E5b2RDMkdod01hVERzZ3VQajRtc20xb25qOW9JZVlR0gHnAUFVX3lxTE1oRkFHOGFZUl9xUmVESzRRbUR2WkZBTFJxM2wwdDF6SFZPT2MzUjNlb19vR0M3UkViOWgtVTZaRVllNkZJTmZtd1BCWnlXQ1MyTTI3aGdib1ZRRmhCTjBidHB6SmZFamNJejAyc2NJVmlmT2FSbHFlSVREWGF6VGg0eVIwRXNtSEpoTThNdU1tdXJPRlhsSEgwekFCMk41ODJzVlo0NnRRd3p1b284Mi1LYkY5c1MtLVdUemd3Z0dCSDZOakFoekpEZDFwS0lWSmVOcjdvM2pfb3FKQXRMd2JpeEUyRE1IZw"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "8925549507dc",
+    "slug": "texnologiya-rahbarlari-amodeini-ai-xavfi-haqida-soroqqa-tutd-892554",
+    "title": "Texnologiya rahbarlari Amodei'ni AI xavfi haqida so'roqqa tutdi",
+    "summary": "Texnologiya kompaniyalari bosh direktorlari Dario Amodei'ni sun'iy intellekt xavflari haqida ochiq gapirgani uchun shaxsiy suhbatda so'roqqa tutishdi.",
+    "tags": [
+      "xavfsizlik",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 27,
+    "published": "2026-09-30T21:27:00.000Z",
+    "created": "2026-10-01T02:02:00.773Z",
+    "coverage": 1,
+    "source": {
+      "name": "WSJ",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMUxDbXlhRUVVckV2eElka25SV0t6cmtxTktUREZhXzlXWW1IbzZENmpJZXhQdTI4dzB6Z2R6MmVYazZaWFVMQUVhV1ZWdzJUYUhDQXk5MkZmYXhDaHYzM2hwYjdUWGNJWWxBWlJHY0UzNC10LXBuXzg3ZHBaTEVac3FqcWNpTzR4YWdWZk9oZk12dVJPX25HMlhhSldQdDBJdk1rbg",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "7afde9d138f1",
+    "slug": "odamlar-ai-chatbotlari-kabi-gapira-boshladi-7afde9",
+    "title": "Odamlar AI chatbotlari kabi gapira boshladi",
+    "summary": "Yangi tadqiqotlarga ko'ra, odamlar sun'iy intellekt chatbotlari bilan ko'p muloqot qilish natijasida ularga o'xshab gapira boshlashmoqda.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 25.2,
+    "published": "2026-09-30T09:30:00.000Z",
+    "created": "2026-10-01T02:02:00.773Z",
+    "coverage": 1,
+    "source": {
+      "name": "WSJ",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE93ajdKZ0t3MThzV2d0OVRxb0xkaHhTai1XZDhTajgxOGdRS19JRzhYZlVCRkNnWjRuSkIwcl9XWG9lZnJIUURqY1BHZndqVVdCZlNXWm9laXlab0VYcXBEN044V2xqYklPaFRaOEhwRmUwZ1U3ZUp3",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "9b9759315765",
+    "slug": "ai-janubi-sharqiy-osiyoda-saylov-xavflarini-kuchaytirishi-mu-9b9759",
+    "title": "AI Janubi-Sharqiy Osiyoda saylov xavflarini kuchaytirishi mumkin",
+    "summary": "Mutaxassislar sun'iy intellekt Janubi-Sharqiy Osiyoda saylov xavflarini oshirishi mumkinligidan xavotirda. AI dezinformatsiyani tarqatish uchun qurol sifatida ishlatilishi mumkin.",
+    "tags": [
+      "siyosat",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 23,
+    "published": "2026-10-01T01:58:40.000Z",
+    "created": "2026-10-01T02:02:00.773Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/technology/2026/oct/01/how-ai-could-supercharge-fake-news-elections-south-east-asia",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "3e98ea49575d",
     "slug": "huawei-ai-chiplari-savdosida-nvidiadan-ozib-ketdi-3e98ea",
     "title": "Huawei AI chiplari savdosida Nvidia'dan o'zib ketdi",
