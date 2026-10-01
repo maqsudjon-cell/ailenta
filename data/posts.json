@@ -1,5 +1,71 @@
 [
   {
+    "id": "f1af9797969b",
+    "slug": "tramp-oq-uyda-suniy-intellekt-kelishuvini-imzoladi-f1af97",
+    "title": "Tramp Oq uyda sun'iy intellekt kelishuvini imzoladi",
+    "summary": "AQSH prezidenti Donald Tramp oltita kompaniya rahbari bilan birgalikda bir sahifalik hujjat imzoladi. «Super intellekt boʻyicha Oq uy kelishuvi» deb nomlangan mazkur bitim sun'iy intellekt xavfsizligini ta'minlashga qaratilgan.",
+    "tags": [
+      "siyosat",
+      "xavfsizlik"
+    ],
+    "importance": 4,
+    "score": 47.4,
+    "published": "2026-09-30T13:29:55.000Z",
+    "created": "2026-10-01T03:02:15.157Z",
+    "coverage": 1,
+    "source": {
+      "name": "Kun.uz",
+      "url": "https://kun.uz/news/2026/09/30/oq-uyda-axloqan-majburiy-kelishuv-nega-tramp-si-xavfsizligi-nazoratini-kompaniyalarning-ozida-qoldirdi",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "00f0cb2a83aa",
+    "slug": "cscale-ai-tarmoqlari-uchun-145-mln-dollar-jalb-qildi-00f0cb",
+    "title": "CScale AI tarmoqlari uchun 145 mln dollar jalb qildi",
+    "summary": "Sun'iy intellekt tarmoqlari bilan shug‘ullanuvchi CScale startapi 145 million dollar investitsiya to‘pladi. Loyihani Nvidia va Intel kompaniyalari moliyalashtirish orqali qo‘llab-quvvatladi.",
+    "tags": [
+      "Nvidia",
+      "Intel"
+    ],
+    "importance": 3,
+    "score": 30,
+    "published": "2026-09-30T21:05:07.000Z",
+    "created": "2026-10-01T03:02:15.157Z",
+    "coverage": 1,
+    "source": {
+      "name": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcmllMmxkQV9WNjNPVmRwcWJXbThtVXpWZVFmWmlOY1dFUmczX3JWMkJQN3dmLS1naDVhN2JreURXZTVGM3o4dC1uVXJta1BSNFVaaThSV3NwYXA3WDIyUS1kNHplY1R0SWYxMnVobUp1WUFsTFdBQ2VPVXM5R280SkI3YS02MS11SzFsYkZBV0diU2ZvNURWQ2JidnNyR0taQWNvaGVRMVhfVW1PWVM5Z011dDJMU0kyejl2emlHZTFWZw",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "98816c26a40e",
+    "slug": "angliya-banki-ai-sohasiga-aralashish-huquqini-soradi-98816c",
+    "title": "Angliya banki AI sohasiga aralashish huquqini so'radi",
+    "summary": "Angliya banki rahbari Endryu Beyli ilg'or sun'iy intellekt modellari moliya tizimiga xavf solishi mumkinligini aytdi. U moliyaviy barqarorlikni saqlash maqsadida regulyatorlarga AI tizimlariga aralashish huquqi berilishi lozimligini bildirdi.",
+    "tags": [
+      "iqtisod",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 23,
+    "published": "2026-09-30T15:22:25.000Z",
+    "created": "2026-10-01T03:02:15.157Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/technology/2026/sep/30/intervene-ai-growing-threat-bank-of-england-boss",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "5f78b05cc72a",
     "slug": "netlist-google-va-nvidia-ai-chiplariga-import-taqiqini-sorad-5f78b0",
     "title": "Netlist Google va Nvidia AI chiplariga import taqiqini so'radi",
