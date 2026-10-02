@@ -1,5 +1,72 @@
 [
   {
+    "id": "5a728633082c",
+    "slug": "vinod-khosla-ai-startapini-tanqid-qildi-5a7286",
+    "title": "Vinod Khosla AI startapini tanqid qildi",
+    "summary": "Vinod Khoslaning Factory nomli AI kodlash startapi haqidagi keskin izohlari ba'zi asoschilar va venchur kapitalistlarining noroziligiga sabab bo'ldi. Bu holat Factory va raqib Cognition o'rtasidagi kelishmovchilik fonida yuz berdi.",
+    "tags": [
+      "biznes",
+      "startap"
+    ],
+    "importance": 2,
+    "score": 14.9,
+    "published": "2026-10-01T17:50:03.000Z",
+    "created": "2026-10-02T05:58:40.409Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/vinod-khosla-trashing-portfolio-company-factory-cognition-feud-2026-10",
+      "title": "Vinod Khosla trashed a portfolio company — and the startup world has thoughts",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "8823ad0e46f1",
+    "slug": "legato-startapi-ai-eshitish-kozoynaklarini-taqdim-etdi-8823ad",
+    "title": "Legato startapi AI eshitish ko'zoynaklarini taqdim etdi",
+    "summary": "Legato startapi an'anaviy eshitish moslamalari bilan bog'liq muammolarni hal qilish maqsadida AI eshitish ko'zoynaklarini ishga tushirdi. Bu mahsulot eshitishni yanada qulay va arzon qilishga qaratilgan.",
+    "tags": [
+      "startap",
+      "tibbiyot"
+    ],
+    "importance": 2,
+    "score": 13,
+    "published": "2026-10-01T13:00:00.000Z",
+    "created": "2026-10-02T05:58:45.279Z",
+    "coverage": 1,
+    "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "29fe7c1feed5",
+    "slug": "satlyt-suniy-yoldoshlarda-ai-uchun-8m-dollar-yigdi-29fe7c",
+    "title": "Satlyt sun'iy yo'ldoshlarda AI uchun 8M dollar yig'di",
+    "summary": "Sobiq Google va SpaceX mahsulot menejeri tomonidan asos solingan Satlyt kompaniyasi sun'iy yo'ldoshlarda AI ishlatish uchun 8 million dollar sarmoya jalb qildi. Kompaniya ochiq dasturiy ta'minot taklif qilmoqda.",
+    "tags": [
+      "startap",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 12.6,
+    "published": "2026-10-01T12:00:00.000Z",
+    "created": "2026-10-02T05:58:45.279Z",
+    "coverage": 1,
+    "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/01/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "d8862a2c0bbf",
     "slug": "davlatga-aloqador-aktyorlar-aqsh-ai-siyosati-ekspertlarini-n-d8862a",
     "title": "Davlatga aloqador aktyorlar AQSH AI siyosati ekspertlarini nishonga oldi",
