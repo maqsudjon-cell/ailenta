@@ -1,42 +1,129 @@
 [
   {
-    "id": "f163f0a1ce05",
-    "slug": "odamlar-ai-video-avatarni-haqiqiy-inson-deb-oylashdi-f163f0",
-    "title": "Odamlar AI video avatarni haqiqiy inson deb o'ylashdi",
-    "summary": "Tavus kompaniyasi real vaqtda videoqo'ng'iroqlarni amalga oshiradigan Griffin nomli modelini taqdim etdi. O'tkazilgan tadqiqotda ishtirokchilarning 48 foizi bir daqiqalik suhbatdan so'ng ushbu AI avatarni haqiqiy odam deb hisoblagan.",
+    "id": "0b9c0a9bf6ae",
+    "slug": "xitoy-davlat-kompaniyasi-nvidia-kelishuvini-oshkor-qildi-0b9c0a",
+    "title": "Xitoy davlat kompaniyasi Nvidia kelishuvini oshkor qildi",
+    "summary": "Xitoyning davlat tomonidan qo'llab-quvvatlanadigan kompaniyasi Nvidia Blackwell chiplari bo'yicha kelishuvni oshkor qildi. Bu haqda Bloomberg nashri xabar bermoqda.",
     "tags": [
-      "tadqiqot"
+      "Nvidia",
+      "chiplar"
     ],
     "importance": 3,
-    "score": 18,
-    "published": "2026-10-01T18:03:40.000Z",
-    "created": "2026-10-02T00:01:13.776Z",
+    "score": 27,
+    "published": "2026-10-01T21:00:00.000Z",
+    "created": "2026-10-02T00:08:10.363Z",
     "coverage": 1,
     "source": {
-      "name": "The Decoder",
-      "url": "https://the-decoder.com/nearly-half-of-test-subjects-mistook-tavus-ai-video-avatar-for-a-real-person-on-a-one-minute-call",
-      "title": "Nearly half of test subjects mistook Tavus&#039; AI video avatar for a real person on a one-minute call",
+      "name": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcHgtcGRUUmk5UVJtZ1dYTlNiSmw5aEtBQ1ZRLXhDZjN0bnFZV3A2UXdRN1ZEbGlEb3RDdGFoTUY5VkI4djZnT0hqRFZKdXpNNVBJeWNsQ0dzbFZfVUUwZWhCUklMVmhuaURGdHNxSEtNYjFnWXRJVG41X283SGlFa2d0MW9mWV9FWnNCU05pZkFrdmc3WGlNeWFPbzl4Qi1UdXpwX2U1WFNUUEM4ejBhMXlkZVA",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "c3df669bffa5",
+    "slug": "interpol-kiberxavflar-tezlashganidan-ogohlantirdi-c3df66",
+    "title": "Interpol kiberxavflar tezlashganidan ogohlantirdi",
+    "summary": "Interpol tashkiloti sun'iy intellekt kiberxavflarni tezlashtirayotgani va aniqlashni qiyinlashtirayotgani haqida ogohlantirdi. Shuningdek, agentlar texnologiyasining rivojlanishi kompaniyalar uchun yangi xavflarni keltirib chiqarmoqda.",
+    "tags": [
+      "xavfsizlik",
+      "agentlar"
+    ],
+    "importance": 3,
+    "score": 22,
+    "published": "2026-10-01T23:53:51.000Z",
+    "created": "2026-10-02T00:08:10.364Z",
+    "coverage": 1,
+    "source": {
+      "name": "CNBC",
+      "url": "https://cnbc.com/2026/10/02/interpol-cyberattack-cyberthreat-agentic-ai.html",
       "indirect": false
     },
     "also": [],
     "model": "gemini"
   },
   {
-    "id": "9b5699b95cce",
-    "slug": "google-kameradagi-matnlarni-oqish-uchun-yangi-funksiya-chiqa-9b5699",
-    "title": "Google kameradagi matnlarni o'qish uchun yangi funksiya chiqardi",
-    "summary": "Google kompaniyasi Gemini Live xizmatida Guided Vision funksiyasini ishga tushirdi. Ushbu AI funksiyasi telefon kamerasi qaratilgan har qanday narsani, jumladan, mayda matnlarni real vaqt rejimida ovozli tasvirlab beradi.",
+    "id": "63911bfb3c3a",
+    "slug": "anthropic-avstraliyani-qonunni-yumshatishga-chaqirdi-63911b",
+    "title": "Anthropic Avstraliyani qonunni yumshatishga chaqirdi",
+    "summary": "Anthropic kompaniyasi Avstraliyani yirik texnologiya kompaniyalariga mualliflik huquqi bilan himoyalangan asarlarda modellarni o'qitishga ruxsat berishga chaqirdi. Taklifga ko'ra, mualliflarga o'z ishlarini o'chirish imkoniyati beriladi.",
     "tags": [
-      "Google"
+      "Anthropic",
+      "qonun"
+    ],
+    "importance": 3,
+    "score": 21,
+    "published": "2026-10-01T19:25:01.000Z",
+    "created": "2026-10-02T00:08:10.364Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/261001/p35",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "559dcd8d71c8",
+    "slug": "ai-agentlari-internet-trafigini-oshirmoqda-559dcd",
+    "title": "AI agentlari internet trafigini oshirmoqda",
+    "summary": "Sun'iy intellekt agentlari tufayli internet trafigi keskin ortmoqda. Bu holat Cloudflare, Akamai va Fastly kabi infratuzilma kompaniyalari uchun yangi o'sish imkoniyatlarini yaratmoqda.",
+    "tags": [
+      "agentlar",
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 19,
+    "published": "2026-10-01T23:04:13.000Z",
+    "created": "2026-10-02T00:08:10.364Z",
+    "coverage": 1,
+    "source": {
+      "name": "CNBC",
+      "url": "https://cnbc.com/2026/10/01/jim-cramer-akamai-ai-traffic.html",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "487a3c06f882",
+    "slug": "mit-olimlari-instructmesh-vositasini-yaratdi-487a3c",
+    "title": "MIT olimlari InstructMesh vositasini yaratdi",
+    "summary": "Yangi yaratilgan InstructMesh vositasi foydalanuvchilarga sun'iy intellekt yordamida yaratilgan 3D modellarni tuzatish va ishlab chiqarish imkonini beradi. Dastur mutaxassislar va yangi boshlovchilar uchun mos keladi.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-10-01T22:00:00.000Z",
+    "created": "2026-10-02T00:08:10.364Z",
+    "coverage": 1,
+    "source": {
+      "name": "MIT News",
+      "url": "https://news.mit.edu/2026/instructmesh-tool-lets-users-repair-ai-3d-models-then-fabricate-them-1001",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "f163f0a1ce05",
+    "slug": "tavus-odamga-oxshash-video-avatarni-taqdim-etdi-f163f0",
+    "title": "Tavus odamga o'xshash video avatarni taqdim etdi",
+    "summary": "Tavus kompaniyasi real vaqtda videoqo'ng'iroqlar qila oladigan Griffin modelini taqdim etdi. O'tkazilgan tadqiqotda ishtirokchilarning 48 foizi bir daqiqalik suhbatdan so'ng uni haqiqiy odam deb o'ylagan.",
+    "tags": [
+      "tadqiqot"
     ],
     "importance": 3,
     "score": 18,
-    "published": "2026-10-01T19:47:51.000Z",
-    "created": "2026-10-02T00:01:14.143Z",
+    "published": "2026-10-01T18:03:40.000Z",
+    "created": "2026-10-02T00:08:10.364Z",
     "coverage": 1,
     "source": {
-      "name": "The Verge",
-      "url": "https://theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision",
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/nearly-half-of-test-subjects-mistook-tavus-ai-video-avatar-for-a-real-person-on-a-one-minute-call",
       "indirect": false
     },
     "also": [],
@@ -44,16 +131,16 @@
   },
   {
     "id": "ba26b22f8e96",
-    "slug": "ideogram-tasvirning-faqat-kerakli-qismini-tahrirlaydi-ba26b2",
-    "title": "Ideogram tasvirning faqat kerakli qismini tahrirlaydi",
-    "summary": "Ideogram kompaniyasi tasvirning qolgan qismlariga zarar yetkazmasdan, faqat tanlangan sohasini tahrirlash imkonini beruvchi yangi Ideogram 4.5 modelini taqdim etdi. Yangi model 2K aniqlikda ishlaydi va uning ochiq og'irlikli versiyasini chiqarish rejalashtirilgan.",
+    "slug": "ideogram-tasvirlarni-qisman-tahrirlash-modelini-chiqardi-ba26b2",
+    "title": "Ideogram tasvirlarni qisman tahrirlash modelini chiqardi",
+    "summary": "Ideogram kompaniyasi tasvirning faqat kerakli qismini tahrirlay oladigan Ideogram 4.5 modelini taqdim etdi. Kompaniya ushbu modelning ochiq og'irlikli versiyasini ham chiqarishni rejalashtirmoqda.",
     "tags": [
       "ochiq model"
     ],
     "importance": 3,
     "score": 18,
     "published": "2026-10-01T17:33:03.000Z",
-    "created": "2026-10-02T00:01:14.143Z",
+    "created": "2026-10-02T00:08:10.364Z",
     "coverage": 1,
     "source": {
       "name": "The Decoder",
