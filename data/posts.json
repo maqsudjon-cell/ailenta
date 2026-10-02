@@ -1,5 +1,103 @@
 [
   {
+    "id": "6cc7bd4c9ba8",
+    "slug": "anthropic-avstraliya-kontentiga-opt-out-taklif-qildi-6cc7bd",
+    "title": "Anthropic Avstraliya kontentiga opt-out taklif qildi",
+    "summary": "Anthropic Avstraliya hukumatiga o‘z modellarini mualliflik huquqi bilan himoyalangan asarlar ustida o‘qitish uchun \"opt-out\" modelini ko‘rib chiqishni taklif qildi. Avstraliya teleradiokompaniyalari (ABC va SBS) AI firmalarini tanqid qilib, media qoidalariga bo‘ysunishni talab qildi.",
+    "tags": [
+      "Anthropic",
+      "qonun"
+    ],
+    "importance": 3,
+    "score": 34,
+    "published": "2026-10-01T15:00:53.000Z",
+    "created": "2026-10-02T13:00:21.909Z",
+    "coverage": 2,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/technology/2026/oct/02/anthropic-ai-opt-out-australia-copyright-abc-cannibalisation-of-news",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "The Guardian",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQeWZoTkRIQzBZSFBSM19FVnlybXpkVVJfOWFnUjlyMjdHeF9UaUR5eVlvUDRMT0ZFLUZlWkFwMlZ2YkNLdHNmazFFMk9QYlhHWW1iNDFvWHhFQ3RETEtkQ1VzR2MtZ0N2NFpTUU5rTXFQWms2OUdoalVUbmhaNU93Z1I1NUFmdDdGdGxUcS1TN09hR1g5UzZaWkI3TXJUeXNxVUwtaVoxeEVhQ3hKS1YwTTdDSjZ6NEhMcGdz"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "106611712fdc",
+    "slug": "amd-nvidiani-yengmay-ham-ai-bozorida-muvaffaqiyat-qozonadi-106611",
+    "title": "AMD Nvidia'ni yengmay ham AI bozorida muvaffaqiyat qozonadi",
+    "summary": "AOL.com nashri AMD kompaniyasi AI bozorida Nvidia'ni to‘liq yengmasdan ham katta muvaffaqiyatga erishishi mumkinligini ta'kidladi. Bu kompaniyaning AI sohasidagi strategiyasi va imkoniyatlari haqida bahslarga sabab bo‘lmoqda.",
+    "tags": [
+      "AMD",
+      "Nvidia"
+    ],
+    "importance": 2,
+    "score": 12.4,
+    "published": "2026-10-01T16:00:53.000Z",
+    "created": "2026-10-02T13:00:21.910Z",
+    "coverage": 2,
+    "source": {
+      "name": "AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5lUXRtVlFTOUtWNFctWHB0M3VvZ1RDTmx0NVpjM192QV9ZdHpxOE5XSjQwdFIxbEt2WUwxMDFCYl9lZHdrOEtsc3FyWTdLODV6LUVtRi1MVzFadnhoUXRKVzVWZmxKX3gyTEZpeVhoUGlyek9wanc",
+      "indirect": true
+    },
+    "also": [
+      {
+        "name": "24/7 Wall St.",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONlZEdU4tNW40NVNla1NnbTlYeFRDNXdOcllzNndZOENsNDctSTNFR0FVTUZ3M2pNVmRXWVBjOXJtcUdXY0p4Tk9GMjJUSHZ5dGMtU2lhYkJjMjBTRVBhSG9Xd0JZWTJJNWxmYVRzUlVUUlpLaTk3eENGcnNGS2taNVgxSDQ2Q050dWxVYmVaVGVCYXBMZlpHRXFKano"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "e983a3b6bc50",
+    "slug": "cisco-nvidia-bilan-xavfsiz-ai-fabrikasini-kengaytirmoqda-e983a3",
+    "title": "Cisco Nvidia bilan xavfsiz AI fabrikasini kengaytirmoqda",
+    "summary": "Cisco kompaniyasi Nvidia bilan hamkorlikda \"rack-scale\" davri uchun xavfsiz AI fabrikasini kengaytirmoqda. Bu harakat AI infratuzilmasini rivojlantirish va xavfsizligini ta'minlashga qaratilgan.",
+    "tags": [
+      "Cisco",
+      "Nvidia"
+    ],
+    "importance": 3,
+    "score": 10,
+    "published": "2026-10-02T11:47:08.000Z",
+    "created": "2026-10-02T13:00:21.910Z",
+    "coverage": 1,
+    "source": {
+      "name": "TahawulTech.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRzVyNTBWT3BWMHBsOU1TcExjYWE2cDRXVWpIdE11dWkwTFRENU15eFVxUkxjcTlXMXNJTmZ3OE5nRHB4MjEtWmtMM1RUdWlHeXdMRjE0RXZxVERxeWM4eEh5SGhTczdYdFIteWlJX1E4OTlzQ3F1ckoyNENwX2E3S0NuR2dna1VQT0NGRVdzLWtWbHZGZGhNdDVNc3VpTUN1OEZxdHZR",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "fd140c0cf6f9",
+    "slug": "anthropic-claude-ai-etikasini-shakllantirish-uchun-mutaxassi-fd140c",
+    "title": "Anthropic Claude AI etikasini shakllantirish uchun mutaxassislarni jalb qildi",
+    "summary": "Anthropic kompaniyasi Claude AI modelining etikasini shakllantirish maqsadida Vedanta rohibi, ilohiyotshunoslar va ruhiy salomatlik bo‘yicha ekspertlarni birlashtirdi. Bu harakat AI rivojlanishida axloqiy tamoyillarga e'tibor qaratishni ko‘rsatadi.",
+    "tags": [
+      "Anthropic",
+      "tadqiqot"
+    ],
+    "importance": 4,
+    "score": 10,
+    "published": "2026-10-02T06:33:04.000Z",
+    "created": "2026-10-02T13:00:21.910Z",
+    "coverage": 1,
+    "source": {
+      "name": "StoryBoard 18",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNNEQ3aV9MSV9LVmhkYmFWcFEyNXU3cU1mcXptWi16OVh1NkJSMlhmWDlHeEhtZlAwN1AxOVg1bjkybzFVQkszSVM1YWpHUXU5V19zOW5yanJ6aFFFVHZZS1NGXzdmVDVrc1lvNmoyVkZIZDVuMXJLei1qV29sQ20tbmxzNWtOWVdKbDVqV056amdxb0Jwa3E3ekhzdlBmVFp6S1BMRTk3S09SbGFOX2FmUTB6U1k5QndYbk9tcmstczFuek1yUG50VWZIU1ljcnBEa3c4dElMeUlwVXdoZ2xiRTZjTW85SGpsdkU3TdIB8gFBVV95cUxOTGdVdlBza01HODc2S0ROSjd4aHNzSmFYeTN3S2NHbnJtaWM3RUVQTmZ6dmZwa0EzV04xWU9hTEVkd0dIZVhNTlE1dE1QV1lqRHNUT1lBZW9hSlA0NmNtN3p3WVJaRWRzZ3hRbkxMY2VUS01MZGlabkNiN0l6UWQ3Y0hZVkNiOGxrMjlzQVRSVlJuZmE5bXJ5RFNjb1BVRXR0RFJaUjl3RW5NMUFzVkdyQ1pWRkxEenVmMXY3dzJXTkQ5SHZEMmJTckVUb1ZOSDRIWVpFa0ZCQkFEZG11Y3I0RU5FRURoTzRvcUhVYTRqUzJuQQ",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "3c001d772362",
     "slug": "dario-amodei-ai-xavfsizligi-boyicha-tanqid-qilindi-3c001d",
     "title": "Dario Amodei AI xavfsizligi bo'yicha tanqid qilindi",
