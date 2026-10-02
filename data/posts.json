@@ -1,5 +1,134 @@
 [
   {
+    "id": "39bb9fda3461",
+    "slug": "microsoft-azure-container-apps-expressni-ishga-tushirdi-39bb9f",
+    "title": "Microsoft Azure Container Apps Express’ni ishga tushirdi",
+    "summary": "Microsoft Azure Container Apps Express va Sandboxes xizmatlarini umumiy foydalanishga chiqardi. Bu xizmatlar AI agentlari uchun tezkor, izolyatsiyalangan va resurslarni tejaydigan muhit yaratishga mo‘ljallangan.",
+    "tags": [
+      "Microsoft",
+      "bulut"
+    ],
+    "importance": 3,
+    "score": 48,
+    "published": "2026-10-02T12:00:00.000Z",
+    "created": "2026-10-02T12:01:52.257Z",
+    "coverage": 1,
+    "source": {
+      "name": "Pivot",
+      "url": "https://pivot.uz/uz/microsoft-azure-container-apps-expressni-umumiy-foydalanishga-chiqardi",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "89bdfddc7786",
+    "slug": "rossiya-ai-yordamida-urush-qo-shiqlari-tarqatmoqda-89bdfd",
+    "title": "Rossiya AI yordamida urush qo‘shiqlari tarqatmoqda",
+    "summary": "Rossiyaliklar Ukrainaga bostirib kirishni ulug‘lovchi AI tomonidan yaratilgan musiqalarni yaratib, tarqatmoqda. Bu qo‘shiqlar AQSHda yaratilgan platformalarda foydalanilmoqda.",
+    "tags": [
+      "siyosat"
+    ],
+    "importance": 3,
+    "score": 27,
+    "published": "2026-10-02T09:04:05.000Z",
+    "created": "2026-10-02T12:01:52.258Z",
+    "coverage": 1,
+    "source": {
+      "name": "The New York Times",
+      "url": "https://nytimes.com/2026/10/02/technology/russian-propaganda-ai-war-songs.html",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "06e466aa5a35",
+    "slug": "ai-va-kvant-hisoblash-iqtisodiyotni-o-zgartirmoqda-06e466",
+    "title": "AI va kvant hisoblash iqtisodiyotni o‘zgartirmoqda",
+    "summary": "AI va kvant hisoblashning qo‘shaloq kuchlari xususiy mulk iqtisodiyotini sezilarli darajada o‘zgartirishi mumkin. Bu kapitalizmning sotsializmni qayta kashf etishiga olib kelishi mumkin.",
+    "tags": [
+      "iqtisod"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-10-02T10:30:00.000Z",
+    "created": "2026-10-02T12:01:52.258Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/10/02/capitalism-may-be-reinventing-socialism-ai-quantum",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "22e00453faa0",
+    "slug": "gumanitar-tashkilotlar-aidan-ehtiyot-bolsin-22e004",
+    "title": "Gumanitar tashkilotlar AI'dan ehtiyot bo'lsin",
+    "summary": "Gumanitar tashkilotlar AI'dan foydalanishi kerak, ammo faqat dalillar, nazorat va qat'iy himoya choralari bilan. Bu AI'ni mas'uliyatli tarzda qo'llash muhimligini ko'rsatadi.",
+    "tags": [
+      "xavfsizlik"
+    ],
+    "importance": 2,
+    "score": 19,
+    "published": "2026-10-02T10:00:00.000Z",
+    "created": "2026-10-02T12:01:52.258Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/10/02/responsible-ai-humanitarian-aid",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "7e8b0812e076",
+    "slug": "ai-uchun-malumot-markazlari-hajmi-o-sib-bormoqda-7e8b08",
+    "title": "AI uchun ma'lumot markazlari hajmi o‘sib bormoqda",
+    "summary": "Ma'lumot markazlari so‘nggi yillarda AI uchun jismoniy infratuzilmani joylashtiruvchi ulkan \"hyperscale\" ob'ektlarga aylandi. Ular millionlab kvadrat fut maydonni egallab, dastlabki ofis binolaridan farq qilmoqda.",
+    "tags": [
+      "bulut",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 18,
+    "published": "2026-10-02T12:00:00.000Z",
+    "created": "2026-10-02T12:01:52.258Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Verge",
+      "url": "https://theverge.com/tech/1003681/microsoft-data-centers-ai-environment-biomimicry",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "f2e33959a5f0",
+    "slug": "ai-buxgalterlarni-tezlik-va-aniqlikda-ortda-qoldirdi-f2e339",
+    "title": "AI buxgalterlarni tezlik va aniqlikda ortda qoldirdi",
+    "summary": "Mercor tadqiqotiga ko‘ra, AI modellar hozirda litsenziyalangan buxgalterlarni tuzilgan buxgalteriya vazifalarida tezlik va aniqlik bo‘yicha ortda qoldirmoqda. Biroq, murakkab APEX Benchmark sinovida hech bir model barcha vazifalarni to‘liq bajara olmadi va inson nazoratisiz hisob-kitoblarni yakunlay olmaydi.",
+    "tags": [
+      "mehnat bozori",
+      "biznes"
+    ],
+    "importance": 4,
+    "score": 18,
+    "published": "2026-10-02T11:15:24.000Z",
+    "created": "2026-10-02T12:01:52.258Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/ai-beats-licensed-accountants-on-speed-and-accuracy-but-still-cant-close-the-books-without-supervision",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "758b24a9a3f1",
     "slug": "ai-qurol-tizimlari-mavjud-inson-qarorlari-muhim-758b24",
     "title": "AI qurol tizimlari mavjud: inson qarorlari muhim",

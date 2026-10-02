@@ -5,8 +5,28 @@
   <link>https://ailenta.uz/mavzu/bulut/</link>
   <description>&quot;bulut&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Fri, 02 Oct 2026 11:08:41 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 02 Oct 2026 12:06:05 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/bulut/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Microsoft Azure Container Apps Express’ni ishga tushirdi</title>
+    <link>https://ailenta.uz/x/microsoft-azure-container-apps-expressni-ishga-tushirdi-39bb9f/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/microsoft-azure-container-apps-expressni-ishga-tushirdi-39bb9f/</guid>
+    <pubDate>Fri, 02 Oct 2026 12:00:00 GMT</pubDate>
+    <description>Microsoft Azure Container Apps Express va Sandboxes xizmatlarini umumiy foydalanishga chiqardi. Bu xizmatlar AI agentlari uchun tezkor, izolyatsiyalangan va resurslarni tejaydigan muhit yaratishga mo‘ljallangan.</description>
+    <category>Microsoft</category><category>bulut</category>
+    <media:content url="https://ailenta.uz/og/microsoft-azure-container-apps-expressni-ishga-tushirdi-39bb9f.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/microsoft-azure-container-apps-expressni-ishga-tushirdi-39bb9f.jpg"/>
+  </item>
+  <item>
+    <title>AI uchun ma'lumot markazlari hajmi o‘sib bormoqda</title>
+    <link>https://ailenta.uz/x/ai-uchun-malumot-markazlari-hajmi-o-sib-bormoqda-7e8b08/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/ai-uchun-malumot-markazlari-hajmi-o-sib-bormoqda-7e8b08/</guid>
+    <pubDate>Fri, 02 Oct 2026 12:00:00 GMT</pubDate>
+    <description>Ma'lumot markazlari so‘nggi yillarda AI uchun jismoniy infratuzilmani joylashtiruvchi ulkan &quot;hyperscale&quot; ob'ektlarga aylandi. Ular millionlab kvadrat fut maydonni egallab, dastlabki ofis binolaridan farq qilmoqda.</description>
+    <category>bulut</category><category>biznes</category>
+    <media:content url="https://ailenta.uz/og/ai-uchun-malumot-markazlari-hajmi-o-sib-bormoqda-7e8b08.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/ai-uchun-malumot-markazlari-hajmi-o-sib-bormoqda-7e8b08.jpg"/>
+  </item>
   <item>
     <title>Yuta shtatida 40 000 akr AI kampus qurish rejalari</title>
     <link>https://ailenta.uz/x/yuta-shtatida-40-000-akr-ai-kampus-qurish-rejalari-6d0c7a/</link>
@@ -286,26 +306,6 @@
     <category>mehnat bozori</category><category>bulut</category>
     <media:content url="https://ailenta.uz/og/malumotlar-markazi-xodimlariga-koproq-haq-tolanmoqda-a01c1b.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/malumotlar-markazi-xodimlariga-koproq-haq-tolanmoqda-a01c1b.jpg"/>
-  </item>
-  <item>
-    <title>Vercel va Cloudflare Jev vositasini joriy qildi</title>
-    <link>https://ailenta.uz/x/vercel-va-cloudflare-jev-vositasini-joriy-qildi-4be5b8/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/vercel-va-cloudflare-jev-vositasini-joriy-qildi-4be5b8/</guid>
-    <pubDate>Sun, 20 Sep 2026 15:50:02 GMT</pubDate>
-    <description>Vercel va Cloudflare kabi kompaniyalar AI vositalarini tanlashni tezlashtiradigan va arzonlashtiradigan Jev texnologiyasini qo'shdi. TypeSafe ma'lumotlariga ko'ra, Jev ish jarayonini baholashda GPT-5.6 va Sonnet 5 modellariga mos keladi.</description>
-    <category>agentlar</category><category>bulut</category>
-    <media:content url="https://ailenta.uz/og/vercel-va-cloudflare-jev-vositasini-joriy-qildi-4be5b8.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/vercel-va-cloudflare-jev-vositasini-joriy-qildi-4be5b8.jpg"/>
-  </item>
-  <item>
-    <title>China Mobile Cloud AI xulosa chiqarishda quvvatni 40% kamaytirdi</title>
-    <link>https://ailenta.uz/x/china-mobile-cloud-ai-xulosa-chiqarishda-quvvatni-40-kamayti-161c17/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/china-mobile-cloud-ai-xulosa-chiqarishda-quvvatni-40-kamayti-161c17/</guid>
-    <pubDate>Sun, 20 Sep 2026 00:31:56 GMT</pubDate>
-    <description>China Mobile Cloud neuromorfik AI xulosa chiqarish texnologiyasidan foydalanib, quvvat sarfini 40% ga qisqartirdi. Bu energiya samaradorligini oshirishdagi muhim yutuqdir.</description>
-    <category>chiplar</category><category>bulut</category>
-    <media:content url="https://ailenta.uz/og/china-mobile-cloud-ai-xulosa-chiqarishda-quvvatni-40-kamayti-161c17.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/china-mobile-cloud-ai-xulosa-chiqarishda-quvvatni-40-kamayti-161c17.jpg"/>
   </item>
 </channel>
 </rss>
