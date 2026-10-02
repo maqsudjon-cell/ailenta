@@ -1,5 +1,97 @@
 [
   {
+    "id": "7170e2014863",
+    "slug": "papa-leo-xiv-ai-tomonidan-yaratilgan-sanatga-qarshi-7170e2",
+    "title": "Papa Leo XIV AI tomonidan yaratilgan san'atga qarshi",
+    "summary": "Papa Leo XIV sun'iy intellekt tomonidan yaratilgan san'atga nisbatan o'z xavotirlarini bildirdi. Uning fikricha, mashina tomonidan statistik hisob-kitoblar asosida yaratilgan narsalar san'atdan ontologik farq qiladi. Algoritmlarda insoniylik uchquni yo'q.",
+    "tags": [
+      "Anthropic"
+    ],
+    "importance": 3,
+    "score": 24,
+    "published": "2026-10-02T15:39:41.000Z",
+    "created": "2026-10-02T16:02:43.856Z",
+    "coverage": 2,
+    "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "Letters from Leo",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB6cUk0c3Z0aFJ5M3RFWUtxSjMwWXQtbG14YTVtbDJ0aWFvTU41dXphcDdzWklPR2JlcEw3bzFMUUtSRHhvUkxfRC05cXBBZHUwS0NNaHhXRFh4bG1hcG1Fdk5QUjhYZXlETTFCVndmdVp2RlRWeXhlSDRR"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "be8c418b785c",
+    "slug": "ben-affleck-ai-xavotirlarini-targibot-deb-atadi-be8c41",
+    "title": "Ben Affleck AI xavotirlarini targ'ibot deb atadi",
+    "summary": "Gollivud yulduzi Ben Affleckning aytishicha, AI ish o'rinlarini yo'qotishi yoki insoniyatni yo'q qilishi haqidagi bashoratlar shunchaki targ'ibotdir. Uning fikricha, aslida ko'proq odamlar ish bilan ta'minlanmoqda. Affleck bu yil o'zining AI startapini Netflix'ga 587 million dollarga sotgan.",
+    "tags": [
+      "mehnat bozori",
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 19,
+    "published": "2026-10-02T14:59:24.000Z",
+    "created": "2026-10-02T16:02:43.856Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/10/02/millionaire-ben-afflect-ai-job-losses-humanity-fears-just-propaganda-embracing-tech-as-a-tool-in-hollywood",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "ac6a9d8e0c9b",
+    "slug": "apple-aili-maxfiy-uy-kamerasini-ishlab-chiqmoqda-ac6a9d",
+    "title": "Apple AI'li maxfiy uy kamerasini ishlab chiqmoqda",
+    "summary": "Apple kompaniyasi videoyozuvsiz faoliyatni tahlil qilish uchun AI'dan foydalanadigan aqlli uy kamerasini ishlab chiqmoqda. Qurilma uydagi harakatlarni yozib olmasdan tahlil qilish orqali maxfiylikni ta'minlaydi.",
+    "tags": [
+      "Apple",
+      "maxfiylik"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-10-02T13:44:31.000Z",
+    "created": "2026-10-02T16:02:43.856Z",
+    "coverage": 1,
+    "source": {
+      "name": "Engadget",
+      "url": "https://engadget.com/2275621/apple-is-reportedly-building-a-smart-home-camera-that-wont-record-video-footage-of-you-or-anyone-else",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "cc213a754efd",
+    "slug": "ai-toqib-chiqarishlari-mijozlarni-yomonlashtirmoqda-cc213a",
+    "title": "AI to'qib chiqarishlari mijozlarni yomonlashtirmoqda",
+    "summary": "AI'ning to'qib chiqarishlari mijozlarning o'zini tutishini yomonlashtirmoqda. Nyu-Yorkdagi ofitsiant Madisonning aytishicha, ba'zi mijozlar AI'dan noto'g'ri ma'lumot olib, allergiya haqida savollar bermayapti. Bu esa xizmat ko'rsatishda muammolarni keltirib chiqarmoqda.",
+    "tags": [
+      "xavfsizlik",
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-10-02T12:00:00.000Z",
+    "created": "2026-10-02T16:02:43.856Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Verge",
+      "url": "https://theverge.com/report/1002963/ai-hallucinations-customer-service-jobs-agents",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "11b3b2edd2c7",
     "slug": "booking-holdings-cfo-ai-roi-aniq-emas-11b3b2",
     "title": "Booking Holdings CFO: AI ROI aniq emas",
