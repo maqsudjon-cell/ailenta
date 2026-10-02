@@ -1,5 +1,115 @@
 [
   {
+    "id": "758b24a9a3f1",
+    "slug": "ai-qurol-tizimlari-mavjud-inson-qarorlari-muhim-758b24",
+    "title": "AI qurol tizimlari mavjud: inson qarorlari muhim",
+    "summary": "G‘azodagi vaziyat AI qurol tizimlaridan foydalanish xavfini ko‘rsatmoqda. Mutaxassislar urush qarorlarida algoritmlar emas, balki insonlar markaziy o‘rinni egallashi kerakligini ta’kidlamoqda.",
+    "tags": [
+      "xavfsizlik",
+      "siyosat"
+    ],
+    "importance": 4,
+    "score": 26,
+    "published": "2026-10-02T10:00:17.000Z",
+    "created": "2026-10-02T11:04:30.353Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/commentisfree/2026/oct/02/ai-weapons-systems-algorithms-war",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "dddc0ad1a02b",
+    "slug": "google-ai-qidiruvini-qachon-ishlatish-va-qachon-o-tkazib-yub-dddc0a",
+    "title": "Google AI qidiruvini qachon ishlatish va qachon o‘tkazib yuborish",
+    "summary": "Google'ning AI qidiruvini qachon ishlatish va qachon o‘tkazib yuborish bo‘yicha tavsiyalar berildi. Aniq ma'lumot qidirganda \"AI Overview\"ni o‘tkazib yuborish kerakligi aytildi.",
+    "tags": [
+      "Google",
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 23,
+    "published": "2026-10-02T09:00:00.000Z",
+    "created": "2026-10-02T11:04:30.353Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Washington Post",
+      "url": "https://washingtonpost.com/technology/2026/10/01/when-you-should-use-googles-ai-search-when-you-should-skip-it",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "6c87bfc5236b",
+    "slug": "ai-kompaniyalarining-o-zini-o-zi-tartibga-solishi-samarasiz-6c87bf",
+    "title": "AI kompaniyalarining o‘zini o‘zi tartibga solishi samarasiz",
+    "summary": "Wired nashri AI kompaniyalarining o‘zini o‘zi tartibga solishini tanqid qildi. Bu yondashuv xavfsizlik masalasida samarasiz ekanligi ta’kidlandi.",
+    "tags": [
+      "xavfsizlik",
+      "qonun"
+    ],
+    "importance": 3,
+    "score": 22.7,
+    "published": "2026-10-01T22:10:42.000Z",
+    "created": "2026-10-02T11:04:30.353Z",
+    "coverage": 1,
+    "source": {
+      "name": "Wired",
+      "url": "https://wired.com/story/whatever-ai-safety-looks-like-its-not-this",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "bcaf2e615dbd",
+    "slug": "afrika-ai-xavfsizligi-bo-yicha-o-z-so-zini-aytmoqchi-bcaf2e",
+    "title": "Afrika AI xavfsizligi bo‘yicha o‘z so‘zini aytmoqchi",
+    "summary": "Afrika kompaniyalari Amerika va Xitoy AI'sini tezda qabul qilmoqda, ammo xavfsizlikka kam e'tibor berilmoqda. Afrika AI xavfsizligi bo‘yicha qaror qabul qilishda o‘z so‘zini aytishni istaydi.",
+    "tags": [
+      "siyosat",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-10-02T10:00:00.000Z",
+    "created": "2026-10-02T11:04:30.353Z",
+    "coverage": 1,
+    "source": {
+      "name": "Rest of World",
+      "url": "https://restofworld.org/2026/african-leaders-un-security-council-ai-safety",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "094d870ba8bb",
+    "slug": "ai-sanoati-tramp-va-vashington-siyosatini-muvozanatlamoqda-094d87",
+    "title": "AI sanoati Tramp va Vashington siyosatini muvozanatlamoqda",
+    "summary": "AI sanoati yetakchilari Oq uydagi iliq kutib olishga qaramay, Demokratlar nazoratidagi Kongressga tayyorgarlik ko‘rmoqda. Ular Tramp va o‘zgaruvchan Vashington siyosati o‘rtasida muvozanatni saqlashga intilmoqda.",
+    "tags": [
+      "siyosat",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-10-02T08:36:49.000Z",
+    "created": "2026-10-02T11:04:30.353Z",
+    "coverage": 1,
+    "source": {
+      "name": "Semafor",
+      "url": "https://semafor.com/article/10/02/2026/the-ai-industry-balances-trump-and-a-changing-washington",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "7dd0e3f8bd3e",
     "slug": "ai-agentlari-dasturchilar-ishini-oz-zimmasiga-olmoqda-7dd0e3",
     "title": "AI agentlari dasturchilar ishini o'z zimmasiga olmoqda",
