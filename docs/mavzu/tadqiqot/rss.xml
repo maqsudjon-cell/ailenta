@@ -5,7 +5,7 @@
   <link>https://ailenta.uz/mavzu/tadqiqot/</link>
   <description>&quot;tadqiqot&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Fri, 02 Oct 2026 20:05:16 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 02 Oct 2026 20:17:01 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/tadqiqot/rss.xml" rel="self" type="application/rss+xml"/>
   <item>
     <title>Napoleonning 200 yillik sirli xati AI yordamida o‘qildi</title>
@@ -16,6 +16,16 @@
     <category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/napoleonning-200-yillik-sirli-xati-ai-yordamida-o-qildi-a76988.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/napoleonning-200-yillik-sirli-xati-ai-yordamida-o-qildi-a76988.jpg"/>
+  </item>
+  <item>
+    <title>arXiv AI sababli maqola topshirishga cheklov qo'ydi</title>
+    <link>https://ailenta.uz/x/arxiv-ai-sababli-maqola-topshirishga-cheklov-qoydi-dcf3f1/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/arxiv-ai-sababli-maqola-topshirishga-cheklov-qoydi-dcf3f1/</guid>
+    <pubDate>Fri, 02 Oct 2026 18:02:32 GMT</pubDate>
+    <description>arXiv ilmiy platformasi AI tomonidan yaratilgan &quot;sifatli bo'lmagan&quot; maqolalar oqimini to'xtatish uchun cheklovlar kiritdi. Endi har bir muallif oyiga faqat ikkita maqola topshira oladi.</description>
+    <category>tadqiqot</category><category>ta'lim</category>
+    <media:content url="https://ailenta.uz/og/arxiv-ai-sababli-maqola-topshirishga-cheklov-qoydi-dcf3f1.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/arxiv-ai-sababli-maqola-topshirishga-cheklov-qoydi-dcf3f1.jpg"/>
   </item>
   <item>
     <title>Circuit Breaker Labs AI'ni bolalar uchun xavfsiz qilmoqchi</title>
@@ -296,16 +306,6 @@
     <category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/weednet-ai-modeli-begona-otlarni-aniqlash-uchun-yaratildi-54381c.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/weednet-ai-modeli-begona-otlarni-aniqlash-uchun-yaratildi-54381c.jpg"/>
-  </item>
-  <item>
-    <title>Inqirozli simulyatsiyada eng oddiy AI agentlari omon qoldi</title>
-    <link>https://ailenta.uz/x/inqirozli-simulyatsiyada-eng-oddiy-ai-agentlari-omon-qoldi-543f84/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/inqirozli-simulyatsiyada-eng-oddiy-ai-agentlari-omon-qoldi-543f84/</guid>
-    <pubDate>Tue, 29 Sep 2026 20:16:30 GMT</pubDate>
-    <description>Emergence World tajribasining ikkinchi mavsumida AI agentlari uchun stress-test o'tkazildi. Unda OpenAI, Anthropic, Google va xAI modellaridan foydalanildi. Natijada eng murakkab emas, balki eng oddiy tuzilgan agentlar inqirozli muhitda omon qolishi aniqlandi.</description>
-    <category>agentlar</category><category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/inqirozli-simulyatsiyada-eng-oddiy-ai-agentlari-omon-qoldi-543f84.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/inqirozli-simulyatsiyada-eng-oddiy-ai-agentlari-omon-qoldi-543f84.jpg"/>
   </item>
 </channel>
 </rss>

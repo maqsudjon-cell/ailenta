@@ -1,5 +1,71 @@
 [
   {
+    "id": "3162f031d959",
+    "slug": "microsoft-ai-kiberxavfsizlikni-qanday-ozgartirayotgani-haqid-3162f0",
+    "title": "Microsoft AI kiberxavfsizlikni qanday o'zgartirayotgani haqida",
+    "summary": "Microsoft Digital Defense Report hisobotida AI kiberxavfsizlik landshaftini qanday o'zgartirayotgani haqida ma'lumot berildi. Unda AI'ning ushbu sohadagi ta'siri tahlil qilingan.",
+    "tags": [
+      "Microsoft",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 33,
+    "published": "2026-10-02T17:45:11.000Z",
+    "created": "2026-10-02T20:11:43.324Z",
+    "coverage": 1,
+    "source": {
+      "name": "Microsoft",
+      "url": "https://microsoft.com/en-us/security/blog/2026/10/01/insights-from-the-2026-microsoft-digital-defense-report",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "dcf3f1d29a91",
+    "slug": "arxiv-ai-sababli-maqola-topshirishga-cheklov-qoydi-dcf3f1",
+    "title": "arXiv AI sababli maqola topshirishga cheklov qo'ydi",
+    "summary": "arXiv ilmiy platformasi AI tomonidan yaratilgan \"sifatli bo'lmagan\" maqolalar oqimini to'xtatish uchun cheklovlar kiritdi. Endi har bir muallif oyiga faqat ikkita maqola topshira oladi.",
+    "tags": [
+      "tadqiqot",
+      "ta'lim"
+    ],
+    "importance": 4,
+    "score": 19,
+    "published": "2026-10-02T18:02:32.000Z",
+    "created": "2026-10-02T20:11:43.324Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/ai-and-ml/2026/10/02/arxiv-imposes-rate-limit-on-paper-submissions-to-stem-the-ai-slop-tide/5300899",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "2f704450b8a5",
+    "slug": "cortiq-mobile-aini-telefonda-oflayn-ishga-tushiradi-2f7044",
+    "title": "Cortiq Mobile AI'ni telefonda oflayn ishga tushiradi",
+    "summary": "Cortiq Mobile ilovasi Android va iOS qurilmalarida ko'plab AI modellarini internetsiz, lokal tarzda ishga tushirish imkonini beradi. Bu chat, tarjima va skriptlar uchun yechimlarni taqdim etadi.",
+    "tags": [
+      "ochiq model",
+      "agentlar"
+    ],
+    "importance": 3,
+    "score": 11,
+    "published": "2026-10-02T14:10:44.000Z",
+    "created": "2026-10-02T20:11:43.324Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1089704",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "a769886e9852",
     "slug": "napoleonning-200-yillik-sirli-xati-ai-yordamida-o-qildi-a76988",
     "title": "Napoleonning 200 yillik sirli xati AI yordamida o‘qildi",
