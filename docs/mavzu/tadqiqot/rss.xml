@@ -5,7 +5,7 @@
   <link>https://ailenta.uz/mavzu/tadqiqot/</link>
   <description>&quot;tadqiqot&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Fri, 02 Oct 2026 00:16:39 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 02 Oct 2026 00:41:11 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/tadqiqot/rss.xml" rel="self" type="application/rss+xml"/>
   <item>
     <title>MIT olimlari InstructMesh vositasini yaratdi</title>
@@ -76,6 +76,16 @@
     <category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/ai-fermerlarga-hosilni-qachon-yigishni-orgatmoqda-fe18c8.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/ai-fermerlarga-hosilni-qachon-yigishni-orgatmoqda-fe18c8.jpg"/>
+  </item>
+  <item>
+    <title>Gemini 4 Argon: yangi davr intellekti</title>
+    <link>https://ailenta.uz/x/gemini-4-argon-yangi-davr-intellekti-311e09/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/gemini-4-argon-yangi-davr-intellekti-311e09/</guid>
+    <pubDate>Wed, 30 Sep 2026 20:01:45 GMT</pubDate>
+    <description>Google DeepMind &quot;Gemini 4 Argon&quot; nomli yangi modelini taqdim etdi. Bu model &quot;chegara intellekti&quot;ning keyingi davrini ifodalaydi.</description>
+    <category>Google</category><category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/gemini-4-argon-yangi-davr-intellekti-311e09.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/gemini-4-argon-yangi-davr-intellekti-311e09.jpg"/>
   </item>
   <item>
     <title>MIT jamoat transporti uchun AI platforma yaratadi</title>
@@ -296,16 +306,6 @@
     <category>robototexnika</category><category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/mirrorme-viva-qoli-va-cada-modeli-tort-qolli-pianino-ijro-et-8727ab.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/mirrorme-viva-qoli-va-cada-modeli-tort-qolli-pianino-ijro-et-8727ab.jpg"/>
-  </item>
-  <item>
-    <title>Delta Intelligence Delta-0 gumanoid modelini chiqardi</title>
-    <link>https://ailenta.uz/x/delta-intelligence-delta-0-gumanoid-modelini-chiqardi-3fe868/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/delta-intelligence-delta-0-gumanoid-modelini-chiqardi-3fe868/</guid>
-    <pubDate>Tue, 29 Sep 2026 02:14:09 GMT</pubDate>
-    <description>Delta Intelligence 2026-yil 28-sentabrda Delta-0 gumanoid asosiy modelini taqdim etdi. Model 32 ta rejalashtirilgan qadam va to'qqizta uy vazifasini 210 soniyada bajardi.</description>
-    <category>robototexnika</category><category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/delta-intelligence-delta-0-gumanoid-modelini-chiqardi-3fe868.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/delta-intelligence-delta-0-gumanoid-modelini-chiqardi-3fe868.jpg"/>
   </item>
 </channel>
 </rss>

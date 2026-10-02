@@ -1,5 +1,76 @@
 [
   {
+    "id": "311e095023e6",
+    "slug": "gemini-4-argon-yangi-davr-intellekti-311e09",
+    "title": "Gemini 4 Argon: yangi davr intellekti",
+    "summary": "Google DeepMind \"Gemini 4 Argon\" nomli yangi modelini taqdim etdi. Bu model \"chegara intellekti\"ning keyingi davrini ifodalaydi.",
+    "tags": [
+      "Google",
+      "tadqiqot"
+    ],
+    "importance": 4,
+    "score": 35,
+    "published": "2026-09-30T20:01:45.000Z",
+    "created": "2026-10-02T00:37:03.649Z",
+    "coverage": 2,
+    "source": {
+      "name": "Google DeepMind",
+      "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "Hacker News",
+        "url": "https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "24ea2fa668bb",
+    "slug": "tartibga-solinadigan-sohalarda-ai-foyda-va-xatarlar-24ea2f",
+    "title": "Tartibga solinadigan sohalarda AI: Foyda va xatarlar",
+    "summary": "Fortune'ning AIQ sammitida tartibga solinadigan sohalarda AI muhokama qilindi. BofA va S&P Global vakillari AI'dan foydalanishdagi foyda va xatarlarni ta'kidladilar.",
+    "tags": [
+      "biznes",
+      "iqtisod"
+    ],
+    "importance": 2,
+    "score": 19,
+    "published": "2026-10-01T23:36:06.000Z",
+    "created": "2026-10-02T00:37:03.649Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/10/01/ai-regulated-industries-bank-of-america-sp-global",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "6bfd344d4812",
+    "slug": "dasturiy-taminot-aksiyalari-ai-tasiridan-song-tiklandi-6bfd34",
+    "title": "Dasturiy ta'minot aksiyalari AI ta'siridan so'ng tiklandi",
+    "summary": "Dasturiy ta'minot aksiyalari AI sababli yuzaga kelgan pasayishdan so'ng tiklandi. Shu bilan birga, chip aksiyalari o'z o'sishini sekinlashtirdi.",
+    "tags": [
+      "iqtisod",
+      "chiplar"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-10-01T22:18:01.000Z",
+    "created": "2026-10-02T00:37:03.649Z",
+    "coverage": 1,
+    "source": {
+      "name": "CNBC",
+      "url": "https://cnbc.com/2026/10/01/jim-cramer-software-stocks-q3.html",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "0b9c0a9bf6ae",
     "slug": "xitoy-davlat-kompaniyasi-nvidia-kelishuvini-oshkor-qildi-0b9c0a",
     "title": "Xitoy davlat kompaniyasi Nvidia kelishuvini oshkor qildi",
