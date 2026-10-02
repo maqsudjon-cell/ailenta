@@ -1,5 +1,115 @@
 [
   {
+    "id": "ac719b52e635",
+    "slug": "korxona-aiga-sarmoya-2026-yilga-kelib-2-5-trln-dollarga-yeta-ac719b",
+    "title": "Korxona AI'ga sarmoya 2026-yilga kelib 2,5 trln dollarga yetadi",
+    "summary": "Korxona AI'si to'liq ishga tushgan va model imkoniyatlari tez rivojlanmoqda. Global miqyosda AI'ga kiritiladigan sarmoya 2026-yilga borib 2,5 trillion dollarga yetishi kutilmoqda. Bu o'tgan yilga nisbatan 44% o'sishni anglatadi.",
+    "tags": [
+      "biznes",
+      "iqtisod"
+    ],
+    "importance": 3,
+    "score": 26,
+    "published": "2026-10-02T15:49:04.000Z",
+    "created": "2026-10-02T18:02:14.893Z",
+    "coverage": 1,
+    "source": {
+      "name": "MIT Technology Review",
+      "url": "https://technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "6dab21e2ee2d",
+    "slug": "ai-hamshiralar-ish-jadvalini-buzib-xavfsizlikka-tahdid-solmo-6dab21",
+    "title": "AI hamshiralar ish jadvalini buzib, xavfsizlikka tahdid solmoqda",
+    "summary": "Yirik shifoxona va radiologiya tarmog'i Palantir AI'dan ish jadvalini optimallashtirish uchun foydalangan. Biroq, hamshiralar va boshqa xodimlar yangi dasturiy ta'minot xatolarga, charchoqqa va norozilikka sabab bo'layotganini aytishmoqda. Ular buni xavfsizlik masalasi deb hisoblashadi.",
+    "tags": [
+      "tibbiyot",
+      "mehnat bozori"
+    ],
+    "importance": 3,
+    "score": 23,
+    "published": "2026-10-02T09:30:00.000Z",
+    "created": "2026-10-02T18:02:14.893Z",
+    "coverage": 1,
+    "source": {
+      "name": "Wired",
+      "url": "https://wired.com/story/ai-making-mess-of-nurses-schedules-they-say-its-a-safety-issue",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "8694e489b545",
+    "slug": "ai-tufayli-200-000-ga-yaqin-ijodiy-ish-orni-yoqoldi-8694e4",
+    "title": "AI tufayli 200 000 ga yaqin ijodiy ish o'rni yo'qoldi",
+    "summary": "AI rivojlanishi bilan 200 000 ga yaqin ijodiy ish o'rni yo'qolgan. \"Ijodiy sinf\" atamasini kiritgan urbanistning aytishicha, AI \"zerikarli ishlarni\" egallaydi. Nyu-Yorkda kino sohasidagi ish o'rinlarining chorak qismi yo'qolgan.",
+    "tags": [
+      "mehnat bozori",
+      "iqtisod"
+    ],
+    "importance": 4,
+    "score": 19,
+    "published": "2026-10-02T17:25:20.000Z",
+    "created": "2026-10-02T18:02:14.893Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/10/02/rise-creative-class-author-richard-florida-ai-grind-jobs",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "a84fd7ae93e8",
+    "slug": "circuit-breaker-labs-aini-bolalar-uchun-xavfsiz-qilmoqchi-a84fd7",
+    "title": "Circuit Breaker Labs AI'ni bolalar uchun xavfsiz qilmoqchi",
+    "summary": "AI'ning psixologik zararlari haqida kam gapiriladi. Circuit Breaker Labs AI'ni bolalar va kattalar uchun xavfsizroq qilishni maqsad qilgan. Kompaniya bu muammoni hal qilish uchun \"kreshtest manekenlari\"ni yaratgan.",
+    "tags": [
+      "xavfsizlik",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-10-02T17:00:00.000Z",
+    "created": "2026-10-02T18:02:14.893Z",
+    "coverage": 1,
+    "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "ac2ea628bba0",
+    "slug": "anthropic-claudening-axloqiy-maqomi-jiddiy-munozaraga-sabab-ac2ea6",
+    "title": "Anthropic Claude'ning \"axloqiy maqomi\" jiddiy munozaraga sabab",
+    "summary": "Anthropic kompaniyasining Claude AI modelining \"axloqiy maqomi\" jiddiy munozaraga aylanmoqda. Bu AI ongi bilan bog'liq savollarni keltirib chiqarmoqda.",
+    "tags": [
+      "Anthropic",
+      "xavfsizlik"
+    ],
+    "importance": 2,
+    "score": 14,
+    "published": "2026-10-02T08:34:05.000Z",
+    "created": "2026-10-02T18:02:14.893Z",
+    "coverage": 1,
+    "source": {
+      "name": "Firstpost",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOeUM3RnVaTnNKQmhLSG5RYjdGa1VrNDB2VmUxRXI2Znk1NVNZRFhwM2hSTVctN0RhZDZaaDZ0NmQtMzhCNlZJYTAzTTBsMnhQQklVWENpU1BfcjF6LUpKQ2NzdjVGU1R4U3FmbC1zVkY1SUNDQ2VHTXpUaGF3TGV2b1g0ZEJMMTNpcERvSWFHcWpGTWhIYXVLbjBHbTdZdm1rakVKVDVFVXREVWg2aGJFSzJTc1lLNHBDczlZOFloSjQ5cWPSAcgBQVVfeXFMT3dZaHVtbXN1ZnpFUFFBMWNQZENycFNDeXRPajI2SlZ3T2RxSlNLUjRBd0FhRExoVmtnRDZDNUVadHdFWVBlclhDUXJ6YXpSRExwOTVCS1BhUk5Ec0pTVTFXbWxtTTlUX296Mk16UUJpUEt2OEFnRW5PYU9nSERzTmp4UXZVTmhETENfRTFrS2J0a01CVXFrMUpmWHhWZ3lidExXZnRfbURQRU1DZXRNN0wxZlU2NTZCUE1DY1oxRXk0MEtGUXF2ejA",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "7170e2014863",
     "slug": "papa-leo-xiv-ai-tomonidan-yaratilgan-sanatga-qarshi-7170e2",
     "title": "Papa Leo XIV AI tomonidan yaratilgan san'atga qarshi",
