@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/tadqiqot/</link>
   <description>&quot;tadqiqot&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Fri, 02 Oct 2026 15:06:41 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 02 Oct 2026 15:42:54 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/tadqiqot/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>AI vositalari xavfsizlik va kiberjinoyatda bir xil</title>
+    <link>https://ailenta.uz/x/ai-vositalari-xavfsizlik-va-kiberjinoyatda-bir-xil-9d90a2/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/ai-vositalari-xavfsizlik-va-kiberjinoyatda-bir-xil-9d90a2/</guid>
+    <pubDate>Fri, 02 Oct 2026 12:36:21 GMT</pubDate>
+    <description>Habr nashrining yozishicha, axborot xavfsizligi mutaxassislari va kiberjinoyatchilar bir xil AI vositalaridan foydalanmoqda. Tadqiqotchi Jiao-Ling Yu Claude Code va Gemini yordamida firibgarlik saytini buzib, jinoyatchilar ham neyron tarmoqlardan faol foydalanishini aniqladi.</description>
+    <category>xavfsizlik</category><category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/ai-vositalari-xavfsizlik-va-kiberjinoyatda-bir-xil-9d90a2.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/ai-vositalari-xavfsizlik-va-kiberjinoyatda-bir-xil-9d90a2.jpg"/>
+  </item>
   <item>
     <title>LMArena AI modellarini taqqoslashga yordam beradi</title>
     <link>https://ailenta.uz/x/lmarena-ai-modellarini-taqqoslashga-yordam-beradi-2f17e5/</link>
@@ -296,16 +306,6 @@
     <category>Microsoft</category><category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/microsoft-quine-ai-tizimini-taqdim-etdi-83e102.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/microsoft-quine-ai-tizimini-taqdim-etdi-83e102.jpg"/>
-  </item>
-  <item>
-    <title>Nvidia Kumo Tabular jadval bashoratida yangi chegarani belgiladi</title>
-    <link>https://ailenta.uz/x/nvidia-kumo-tabular-jadval-bashoratida-yangi-chegarani-belgi-493cf3/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/nvidia-kumo-tabular-jadval-bashoratida-yangi-chegarani-belgi-493cf3/</guid>
-    <pubDate>Tue, 29 Sep 2026 15:30:38 GMT</pubDate>
-    <description>Nvidia Kumo Tabular jadval ma'lumotlarini bashorat qilishda aniqlik va samaradorlik bo'yicha yangi chegarani o'rnatdi. Bu yangi yechim samaradorlikni oshirishga qaratilgan.</description>
-    <category>Nvidia</category><category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/nvidia-kumo-tabular-jadval-bashoratida-yangi-chegarani-belgi-493cf3.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/nvidia-kumo-tabular-jadval-bashoratida-yangi-chegarani-belgi-493cf3.jpg"/>
   </item>
 </channel>
 </rss>
