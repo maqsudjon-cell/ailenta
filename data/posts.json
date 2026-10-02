@@ -1,9 +1,53 @@
 [
   {
+    "id": "3a910c8cb6d3",
+    "slug": "ai-sababli-odamlar-eshitish-qobiliyatini-yo-qotishi-mumkin-3a910c",
+    "title": "AI sababli odamlar eshitish qobiliyatini yo‘qotishi mumkin",
+    "summary": "Tadqiqotlarga ko‘ra, avstraliyaliklar har yili kamroq suhbatlashmoqda va kunlik gapiriladigan so‘zlar soni kamaygan. Mutaxassis fikricha, AI vositalari rivojlanishi bilan insoniyatning eng katta yo‘qotishi boshqalarni eshitish qobiliyati bo‘lishi mumkin.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 23,
+    "published": "2026-10-02T15:00:14.000Z",
+    "created": "2026-10-02T23:07:53.746Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/commentisfree/2026/oct/03/ai-threatens-to-destroy-so-much-of-our-culture-our-greatest-loss-might-be-our-ability-to-listen",
+      "title": "AI threatens to destroy so much of our culture. Our greatest loss might be our ability to listen | Shirleene Robinson",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "4ace2c64e295",
+    "slug": "ai-yetakchilari-va-orqada-qolayotganlar-o-rtasidagi-farq-4ace2c",
+    "title": "AI yetakchilari va orqada qolayotganlar o‘rtasidagi farq",
+    "summary": "ServiceNow vakilining so‘zlariga ko‘ra, AI sohasidagi yetakchilar va orqada qolayotganlar o‘rtasidagi eng katta farq insonlarni o‘qitishda namoyon bo‘ladi. Yetakchi kompaniyalar xodimlarni yollash va ularni o‘qitishga ko‘proq e’tibor qaratmoqda.",
+    "tags": [
+      "mehnat bozori"
+    ],
+    "importance": 3,
+    "score": 22,
+    "published": "2026-10-02T18:39:07.000Z",
+    "created": "2026-10-02T23:07:53.749Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/10/02/servicenow-aiq-data-pacesetters-diana-david",
+      "title": "ServiceNow unpacks the Fortune AIQ list, where the widest gap between AI leaders and laggards is training for humans",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "7f3c1c9e8ff7",
     "slug": "niderlandiya-meta-ai-ko-zoynaklarini-taqiqlashi-mumkin-7f3c1c",
     "title": "Niderlandiya Meta AI ko‘zoynaklarini taqiqlashi mumkin",
-    "summary": "Niderlandiyada maxfiylik bilan bog‘liq xavotirlar sababli Meta kompaniyasining AI ko‘zoynaklarini taqiqlash masalasi ko‘rilmoqda. Yirik optika do‘konlari tarmog‘i allaqachon ushbu qurilma savdosini vaqtincha to‘xtatdi.",
+    "summary": "Niderlandiyada maxfiylik bilan bog‘liq xavotirlar sababli Meta kompaniyasining AI aqlli ko‘zoynaklarini taqiqlash masalasi ko‘rib chiqilmoqda. Yirik optika do‘konlari tarmog‘i allaqachon ushbu mahsulot savdosini vaqtincha to‘xtatgan.",
     "tags": [
       "Meta",
       "maxfiylik"
@@ -11,7 +55,7 @@
     "importance": 4,
     "score": 15,
     "published": "2026-10-02T22:17:12.000Z",
-    "created": "2026-10-02T23:01:17.743Z",
+    "created": "2026-10-02T23:07:53.760Z",
     "coverage": 1,
     "source": {
       "name": "Business Insider",
@@ -23,22 +67,21 @@
     "model": "gemini"
   },
   {
-    "id": "6c72dbcaddad",
-    "slug": "ai-laboratoriyalari-xavfsizlikni-chetlab-o-tayotgani-aytildi-6c72db",
-    "title": "AI laboratoriyalari xavfsizlikni chetlab o‘tayotgani aytildi",
-    "summary": "OpenAI va Anthropic tadqiqotchilari bilan hamkorlik qilgan mutaxassislar yopiq eshiklar ortida modellar xavfsizlik tizimlarisiz ishga tushirilayotganidan ogohlantirdi. Ularning ta’kidlashicha, ichki xavfsizlik choralari ko‘p hollarda joriy etilmagan.",
+    "id": "97742a7d2d49",
+    "slug": "bokuda-tashkent-content-market-taqdimoti-o-tkazildi-97742a",
+    "title": "Bokuda Tashkent Content Market taqdimoti o‘tkazildi",
+    "summary": "Bokuda Tashkent Content Market platformasining taqdimot marosimi bo‘lib o‘tdi. Unda Ozarbayjon televideniye va media sohasi vakillari hamda xalqaro media-forum ishtirokchilari qatnashdi.",
     "tags": [
-      "xavfsizlik",
-      "OpenAI"
+      "O'zbekiston"
     ],
-    "importance": 4,
-    "score": 19,
-    "published": "2026-10-02T22:05:44.000Z",
-    "created": "2026-10-02T23:01:22.703Z",
+    "importance": 2,
+    "score": 45,
+    "published": "2026-10-02T18:01:25.000Z",
+    "created": "2026-10-02T23:08:01.394Z",
     "coverage": 1,
     "source": {
-      "name": "Fortune",
-      "url": "https://fortune.com/2026/10/02/we-cant-trust-them-completely-labs-safeguards",
+      "name": "Daryo",
+      "url": "https://daryo.uz/2026/10/02/bokuda-tashkent-content-market-platformasi-taqdimoti-bolib-otdi",
       "indirect": false
     },
     "also": [],
@@ -46,9 +89,9 @@
   },
   {
     "id": "2b29d7d7fbf1",
-    "slug": "meta-to-rt-oy-avval-yollangan-ai-xodimlarini-bo-shatdi-2b29d7",
-    "title": "Meta to‘rt oy avval yollangan AI xodimlarini bo‘shatdi",
-    "summary": "Meta kompaniyasi ish uslubidagi kelishmovchiliklar sababli Virtue AI startapidan ishga olingan xodimlarni bo‘shatishini ma’lum qildi. Ushbu mutaxassislar kompaniyaga to‘rt oy avval qo‘shilgan edi.",
+    "slug": "meta-to-rt-oy-oldin-yollangan-xodimlarini-ishdan-bo-shatdi-2b29d7",
+    "title": "Meta to‘rt oy oldin yollangan xodimlarini ishdan bo‘shatdi",
+    "summary": "Meta kompaniyasi Virtue AI xavfsizlik startapidan ishga qabul qilingan xodimlarni to‘rt oydan keyin bo‘shatishini ma’lum qildi. Bunga ish uslublaridagi kelishmovchiliklar sabab bo‘lgani aytilmoqda.",
     "tags": [
       "Meta",
       "xavfsizlik"
@@ -56,7 +99,7 @@
     "importance": 3,
     "score": 15,
     "published": "2026-10-02T20:25:21.000Z",
-    "created": "2026-10-02T23:01:22.703Z",
+    "created": "2026-10-02T23:08:01.394Z",
     "coverage": 1,
     "source": {
       "name": "Techmeme",
