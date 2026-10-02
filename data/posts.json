@@ -1,5 +1,70 @@
 [
   {
+    "id": "a769886e9852",
+    "slug": "napoleonning-200-yillik-sirli-xati-ai-yordamida-o-qildi-a76988",
+    "title": "Napoleonning 200 yillik sirli xati AI yordamida o‘qildi",
+    "summary": "Sun'iy intellekt Napoleonning 200 yillik shifrlangan sirli xatini olti soatda o‘qib berdi. Ushbu xat Avstriyaga qarshi urushga tayyorgarlik paytida general Ogyust de Marmon boshchiligidagi fransuz qo‘shinlariga yozilgan edi.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 48,
+    "published": "2026-10-02T18:29:09.000Z",
+    "created": "2026-10-02T19:02:20.757Z",
+    "coverage": 1,
+    "source": {
+      "name": "Daryo",
+      "url": "https://daryo.uz/2026/10/02/napoleonning-200-yillik-sirli-xatini-suniy-intellekt-6-soatda-oqib-berdi",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "3098e54c61ea",
+    "slug": "ai-saylovchilarning-yashirin-ovozlarini-fosh-qilishi-mumkin-3098e5",
+    "title": "AI saylovchilarning yashirin ovozlarini fosh qilishi mumkin",
+    "summary": "Prinston tadqiqotchisi ochiq saylov ma'lumotlarini AI bilan birlashtirib, saylovchilarni ularning ovozlari bilan bog‘lash mumkinligini aniqladi. Shu sababli Jorjiyada favqulodda yig‘ilish o‘tkazildi.",
+    "tags": [
+      "xavfsizlik",
+      "siyosat"
+    ],
+    "importance": 4,
+    "score": 26,
+    "published": "2026-10-02T18:57:05.000Z",
+    "created": "2026-10-02T19:02:20.757Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/us-news/2026/oct/02/midterms-ai-ballot-privacy",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "c93128a7d6b0",
+    "slug": "tashkilotlar-uchun-ai-xarajatlari-oshib-bormoqda-c93128",
+    "title": "Tashkilotlar uchun AI xarajatlari oshib bormoqda",
+    "summary": "Konsaltinq kompaniyalarining hisobotlariga ko‘ra, tashkilotlar uchun AI xarajatlari ortib bormoqda. Endilikda asosiy e’tibor texnologiyaning ishlashiga emas, balki unga sarflanayotgan xarajatlarning barqarorligiga qaratilmoqda.",
+    "tags": [
+      "biznes",
+      "iqtisod"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-10-02T18:02:45.000Z",
+    "created": "2026-10-02T19:02:20.757Z",
+    "coverage": 1,
+    "source": {
+      "name": "Semafor",
+      "url": "https://semafor.com/article/10/02/2026/ai-costs-are-rising-for-organizations-reports-warn",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "ac719b52e635",
     "slug": "korxona-aiga-sarmoya-2026-yilga-kelib-2-5-trln-dollarga-yeta-ac719b",
     "title": "Korxona AI'ga sarmoya 2026-yilga kelib 2,5 trln dollarga yetadi",
