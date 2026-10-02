@@ -1,5 +1,97 @@
 [
   {
+    "id": "d8862a2c0bbf",
+    "slug": "davlatga-aloqador-aktyorlar-aqsh-ai-siyosati-ekspertlarini-n-d8862a",
+    "title": "Davlatga aloqador aktyorlar AQSH AI siyosati ekspertlarini nishonga oldi",
+    "summary": "Davlatga aloqador aktyorlar, jumladan Xitoy xakerlari, AQSHning sun'iy intellekt siyosati bo'yicha ekspertlariga qarshi fishing kampaniyalarini amalga oshirmoqda. Ular ba'zan Anthropic kompaniyasi xodimi sifatida o'zlarini ko'rsatmoqda.",
+    "tags": [
+      "xavfsizlik",
+      "siyosat"
+    ],
+    "importance": 4,
+    "score": 15.5,
+    "published": "2026-10-01T15:53:17.000Z",
+    "created": "2026-10-02T05:03:23.808Z",
+    "coverage": 2,
+    "source": {
+      "name": "Cybersecurity Dive",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVVRnb1NZM2s0cEV0ejVRbm9BZ1hmSVkzME9PeTZBcHkyQll3SnJpYWpzLWpPZlZCRlpDWk9neEsxR0E4ZTc3OWFLNG1tbGdXNUgwSWEwYkNlMktFS2tCbENKcElycXRLMzB6R1hSSVMyeDNZYXVIWlgzUktXbDB6UDdBNHc2OWFMRWlOYW85dmZ2SHQ1WW02Zmt4RzdQREdIRm56MWpUMmE2QQ",
+      "indirect": true
+    },
+    "also": [
+      {
+        "name": "CyberSecurityNews",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZkZxWXUtLUw0QWRSZVFteFdDSFRzYTM0ZUVMYjJwNGpFM0Z0b2lYWGVhV21CSTV4cWJ5bXZJS29TZjgyaWNqOFNkWkhLU3NZRGNlb09CMjJrSzhXc3FBVkNOdGhEeEVCbnhqblljYzlYdDdtV245LTJEV3NrSVpvZtIBhgFBVV95cUxPM2JPbEVJTjVkbm5BU3VlQ0pJQUFibTRCRjM1dXZDUWJ2bWEtTFFrenpxeWlVUm4zNTBtOW5mTGRVYmItWXR3RXh5cFVWeEhvamJXSGRwVHgwcV9IUzNqMHlubUwzOG02clVwZ3c3MDV6VURiZElxOEpaQUFmMXVtVnlfb0UtQQ"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "b10e1a279c6f",
+    "slug": "politsiya-qulflangan-iphone-malumotlariga-kirishning-yangi-y-b10e1a",
+    "title": "Politsiya qulflangan iPhone ma'lumotlariga kirishning yangi yo'llarini topdi",
+    "summary": "Xabarlarga ko'ra, politsiya qulflangan iPhone qurilmalaridagi ma'lumotlarga kirishning yangi usullarini qo'lga kiritgan bo'lishi mumkin. O'quv videosida Apple xavfsizlik funksiyasini chetlab o'tish yo'llari ko'rsatilgan.",
+    "tags": [
+      "Apple",
+      "maxfiylik"
+    ],
+    "importance": 4,
+    "score": 15,
+    "published": "2026-10-01T20:43:15.000Z",
+    "created": "2026-10-02T05:03:23.808Z",
+    "coverage": 1,
+    "source": {
+      "name": "Engadget",
+      "url": "https://engadget.com/2275167/police-may-have-new-ways-to-access-data-on-locked-iphones",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "eddd6741471d",
+    "slug": "opus-5-5-ai-modelining-oziga-xos-yozish-uslubi-aniqlandi-eddd67",
+    "title": "Opus 5.5 AI modelining o'ziga xos yozish uslubi aniqlandi",
+    "summary": "Opus 5.5 sun'iy intellekt modelining yozish uslubida o'ziga xos belgilar topildi. Model \"dependable\" so'zini inson matnlariga nisbatan 23 barobar ko'proq ishlatadi.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-10-01T17:50:19.000Z",
+    "created": "2026-10-02T05:03:23.808Z",
+    "coverage": 1,
+    "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "6da2c84852c2",
+    "slug": "yaponiya-sudi-inson-ovozlari-aidan-himoyalanadi-6da2c8",
+    "title": "Yaponiya sudi: Inson ovozlari AI'dan himoyalanadi",
+    "summary": "Yaponiya sudi sun'iy intellekt bilan bog'liq muhim ishda inson ovozlari himoyalangan deb qaror chiqardi. Bu qaror AI sohasida yangi huquqiy pretsedent yaratadi.",
+    "tags": [
+      "qonun",
+      "maxfiylik"
+    ],
+    "importance": 4,
+    "score": 14.2,
+    "published": "2026-10-01T14:58:44.000Z",
+    "created": "2026-10-02T05:03:23.809Z",
+    "coverage": 1,
+    "source": {
+      "name": "Engadget",
+      "url": "https://engadget.com/2274521/japanese-court-rules-human-voices-are-protected-in-landmark-ai-case",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "a427f4802da0",
     "slug": "ataraxos-suniy-intellekti-stratego-chempionini-yengdi-a427f4",
     "title": "Ataraxos sun'iy intellekti Stratego chempionini yengdi",
