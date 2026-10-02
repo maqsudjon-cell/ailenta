@@ -1,5 +1,173 @@
 [
   {
+    "id": "66950651fadf",
+    "slug": "techradar-oktabr-oyining-eng-yaxshi-gadjetlarini-elon-qildi-669506",
+    "title": "TechRadar oktabr oyining eng yaxshi gadjetlarini e'lon qildi",
+    "summary": "TechRadar oktabr oyida sinovdan o'tkazilgan va yuqori baholangan yangi gadjetlarni jamladi. DJI Osmo 360 II, Garmin Fenix 9 Pro va Apple iPhone 18 Pro 5/5 baho olgan qurilmalar qatoridan joy oldi.",
+    "tags": [
+      "Apple",
+      "biznes"
+    ],
+    "importance": 1,
+    "score": 45,
+    "published": "2026-10-02T07:24:04.000Z",
+    "created": "2026-10-02T08:01:51.081Z",
+    "coverage": 1,
+    "source": {
+      "name": "Pivot",
+      "url": "https://pivot.uz/uz/techradar-oktabr-oyida-sinovdan-otkazgan-eng-yaxshi-gadjetlarni-jamladi",
+      "title": "TechRadar oktabr oyida sinovdan o‘tkazgan eng yaxshi gadjetlarni jamladi",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "ff2c7820e330",
+    "slug": "toshkentda-ozbekiston-shaxmat-jamoasi-sharafiga-dron-shou-ff2c78",
+    "title": "Toshkentda O'zbekiston shaxmat jamoasi sharafiga dron-shou",
+    "summary": "Bugun, 2-oktabr kuni Yangi O'zbekiston bog'ida O'zbekiston shaxmat terma jamoasining g'alabasi sharafiga dron-shou bo'lib o'tadi. Tomoshaga kirish bepul.",
+    "tags": [
+      "O'zbekiston"
+    ],
+    "importance": 1,
+    "score": 45,
+    "published": "2026-10-02T05:30:25.000Z",
+    "created": "2026-10-02T08:01:51.085Z",
+    "coverage": 1,
+    "source": {
+      "name": "Kun.uz",
+      "url": "https://kun.uz/news/2026/10/02/toshkentda-dron-shou-otkaziladi",
+      "title": "Toshkentda dron-shou oʻtkaziladi.",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "ed9d4e321935",
+    "slug": "zhou-yuxiang-xitoy-zavodlariga-ai-sotishda-muvaffaqiyat-qozo-ed9d4e",
+    "title": "Zhou Yuxiang Xitoy zavodlariga AI sotishda muvaffaqiyat qozondi",
+    "summary": "Zhou Yuxiang Xitoyning kichik zavodlariga AI sotish uchun oziq-ovqat yetkazib beruvchilarni yolladi. Uning maqsadi — Xitoyning sanoat AI sohasida yutuqlarga erishish.",
+    "tags": [
+      "biznes",
+      "Xitoy"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-10-02T07:00:00.000Z",
+    "created": "2026-10-02T08:02:31.905Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/10/02/black-lake-yuxiang-zhou-ai-china-google-moment",
+      "title": "Zhou Yuxiang hired food delivery riders to sell AI to factories. Now he’s chasing China’s industrial AI breakthrough",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "4513623c411f",
+    "slug": "ai-200-yillik-shifrlangan-harbiy-xatni-oqishga-yordam-berdi-451362",
+    "title": "AI 200 yillik shifrlangan harbiy xatni o'qishga yordam berdi",
+    "summary": "Tadqiqotchi Karter Cherch Napoleon davridagi shifrlangan harbiy xabarni o'qishga muvaffaq bo'ldi. Uning aytishicha, GPT-6 Astra modeli eski skanni tahlil qilib, shifrni olti soatda yechgan.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 51,
+    "published": "2026-10-02T07:10:46.000Z",
+    "created": "2026-10-02T08:03:13.559Z",
+    "coverage": 1,
+    "source": {
+      "name": "Kun.uz",
+      "url": "https://kun.uz/news/2026/10/02/200-yillik-sir-ochildi-suniy-intellekt-harbiy-xatni-oqishga-yordam-berdi",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "f3c7cc23038f",
+    "slug": "broadcom-anthropicga-chiplar-ijarasi-uchun-42-mlrd-dollar-be-f3c7cc",
+    "title": "Broadcom Anthropic'ga chiplar ijarasi uchun 42 mlrd dollar beradi",
+    "summary": "Broadcom kompaniyasi Anthropic'ga chiplarni ijaraga berish uchun 42 milliard dollargacha kredit ajratadi. Bu chip ishlab chiqaruvchilarning AI rivojlanishini moliyalashtirish tendensiyasiga qo'shilishidir.",
+    "tags": [
+      "Broadcom",
+      "Anthropic"
+    ],
+    "importance": 4,
+    "score": 40,
+    "published": "2026-10-01T22:30:25.000Z",
+    "created": "2026-10-02T08:03:13.559Z",
+    "coverage": 4,
+    "source": {
+      "name": "Semafor",
+      "url": "https://semafor.com/article/10/01/2026/broadcom-to-lend-anthropic-42-billion-to-lease-chips-report",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "Reuters",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbzU3NnV4NFhNazRXQzVkeTV6VVNBSzUyUE0yM25SWGQtaFM1YkU4Y1htNWMtYXBPcU9pRDZfZUhSQnZyYnpvWWJ5ZGE4T3ZPOEZrN3IzeHBxMURHQlZySUhfQTBrb0FPdUxFSHRjVEd2ZFh2VGVuMjluVDhxYmhDa2hHc3hnV1p6c1hxaDJaa0VCQXQ3NmhackVWSVBJRlpXMzJXQ3Q2UHlhVXFaMDNN"
+      },
+      {
+        "name": "The Economic Times",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNLUExZXN1X2tmdzZObzB2eUtYX05XM0tUV2dudGJjbU03eTdWTlNWZVUwUlVCNi1TSXhuTVQydVRUVVNuWFg3ZFJQSzhrWEVnNXVaWU4tUHhQZld6SzFFbllpaHNTd3FiRjhYV1M3cU13Z1pGN0IzQ1k5UHIxYVZPVndERWYxNnBkdVMzZktUbGp5dEtJT05VRi0welM0SDJmOVFxeGtFSXpSanRYQml1a2twaUs1ZEVOaVp4MVFLN1E1QkNwSlRpbTVSWXlxZjg3T3VoaWI1NTA5blhy0gHcAUFVX3lxTE0tQTFlc3Vfa2Z3Nk5vMHZ5S1hfTlczS1RXZ250YmNtTTd5N1ZOU1ZlVTBSVUI2LVNJeG5NVDJ1VFRVU25YWDdkUlBLOGtYRWc1dVpZTi1QeFBmV3pLMUVuWWloc1N3cWJGOFhXUzdxTXdnWkY3QjNDWTlQcjFhVk9Wd0RFZjE2cGR1UzNmS1Rsanl0S0lPTlVGLTB6UzRIMmY5UXF4a0VJelJqdFhCaXVra3BpSzVkRU5pWngxUUs3UTVCQ3BKVGltNVJZeXFmODdPdWhpYjU1MDluWHI"
+      },
+      {
+        "name": "AskTraders",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRGZLbDZZbTUxVEFaWWdUUHgydmZVeHB3TzFYelE3SXNkUVFTN1dGd005TUF4d2daZUMzY3AtTlRzYXNhbHVxbnBhY3d3TTJ5b0RnZ1RnQUkyYWFrc3VLZVJNQnZGTGYwcGN2aWpTWmdPa1cyeTRzSW5NQXJRcVhGYjY1NWcwNjlCb2NsX1RfY0RSaEJwdjlYYUF5MEMzVUZSN0VfWERqWVFjUWJsWC15NmdyTDFtc0VWdlhCR3JFM0s"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "f5f8a68254c8",
+    "slug": "gptzero-30-million-dollarlik-ai-aniqlash-biznesiga-aylandi-f5f8a6",
+    "title": "GPTZero 30 million dollarlik AI-aniqlash biznesiga aylandi",
+    "summary": "Edward Tian va Alex Cui tomonidan asos solingan GPTZero kompaniyasi 30 million dollarlik AI-aniqlash biznesiga aylandi. Ular AI tomonidan yozilgan matnlarni aniqlashga ixtisoslashgan.",
+    "tags": [
+      "biznes",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-10-02T07:00:00.000Z",
+    "created": "2026-10-02T08:03:13.559Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/10/02/hallucination-detection-gptzero-edward-tian-alex-cui",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "15c5834a03d3",
+    "slug": "black-forest-labs-flux-3-image-modelini-ishga-tushirdi-15c583",
+    "title": "Black Forest Labs Flux 3 Image modelini ishga tushirdi",
+    "summary": "Black Forest Labs Flux 3 model oilasining tasvir versiyasi bo'lgan Flux 3 Image'ni chiqardi. U ko'p bosqichli tahrirlashni qo'llab-quvvatlaydi va 4K gacha tasvirlarni yaratadi.",
+    "tags": [
+      "ochiq model",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-10-02T07:44:44.000Z",
+    "created": "2026-10-02T08:03:13.559Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/black-forest-labs-launches-flux-3-image-with-multi-step-editing-that-leaves-the-rest-of-your-picture-alone",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "f921db0bda04",
     "slug": "anthropic-mission-tumanida-yangi-bino-izlamoqda-f921db",
     "title": "Anthropic Mission tumanida yangi bino izlamoqda",
