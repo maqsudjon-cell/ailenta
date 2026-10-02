@@ -1,5 +1,76 @@
 [
   {
+    "id": "7dd0e3f8bd3e",
+    "slug": "ai-agentlari-dasturchilar-ishini-oz-zimmasiga-olmoqda-7dd0e3",
+    "title": "AI agentlari dasturchilar ishini o'z zimmasiga olmoqda",
+    "summary": "AI kodlash agentlari Silikon vodiysidagi muhandislarning mashaqqatli ishini o'z zimmasiga olmoqda. Shunga qaramay, Nvidia chiplarini dasturlashda ishlatiladigan CUDA bo'yicha mutaxassislarga talab yuqori bo'lib qolmoqda.",
+    "tags": [
+      "mehnat bozori",
+      "Nvidia"
+    ],
+    "importance": 3,
+    "score": 21,
+    "published": "2026-10-02T09:00:01.000Z",
+    "created": "2026-10-02T09:36:57.745Z",
+    "coverage": 2,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/cuda-engineers-adapt-ai-reshapes-nvidia-chip-expertise-2026-10",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "KuCoin",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUm5FbVl5TWl2c1FueGtQRlVzSGpvei0yTWJNUHVUTFpDZlNXM3hSem9TREtEUVp1U3llcFZISlJZQm1zWTBOYllueERJSVJjLWh0em1CZWYzZkxBb3hFOEdOcldiTjd3RlNyQ285a0MteVJ4cUhEVl9YNmRqcHlNclQtN19qZHpmaWY3TW1vQXAwVlU4WHoyNUg5WTN1TUVNMGZZUF80VQ"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "44a3c444f7ac",
+    "slug": "aqsh-kompaniyalari-aiga-kamroq-pul-sarflamoqda-44a3c4",
+    "title": "AQSH kompaniyalari AIga kamroq pul sarflamoqda",
+    "summary": "Ramp AI Index ma'lumotlariga ko'ra, AQSH kompaniyalari sun'iy intellektdan ko'proq foydalanmoqda. Biroq, ular AIga sarflayotgan mablag'lar kamaymoqda.",
+    "tags": [
+      "iqtisod",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-10-02T09:09:21.000Z",
+    "created": "2026-10-02T09:36:57.745Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/businesses-are-using-more-ai-and-paying-less-for-it-ramp-ai-index-shows",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "bf28ad395814",
+    "slug": "vclar-aiga-qarshi-konsert-biznesiga-sarmoya-kiritmoqda-bf28ad",
+    "title": "VClar AIga qarshi konsert biznesiga sarmoya kiritmoqda",
+    "summary": "Ko'pgina venchur kapitalistlar AI startaplariga milliardlab mablag' kiritayotgan bir paytda, ayrimlari konsert biznesiga sarmoya kiritmoqda. Ular buni AIga qarshi himoya chorasi sifatida ko'rmoqda.",
+    "tags": [
+      "biznes",
+      "iqtisod"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-10-02T09:00:01.000Z",
+    "created": "2026-10-02T09:36:57.745Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/vcs-funding-rasa-world-concerts-as-a-hedge-against-ai-2026-9",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "66950651fadf",
     "slug": "techradar-oktabr-oyining-eng-yaxshi-gadjetlarini-elon-qildi-669506",
     "title": "TechRadar oktabr oyining eng yaxshi gadjetlarini e'lon qildi",

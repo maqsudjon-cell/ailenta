@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/nvidia/</link>
   <description>&quot;Nvidia&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Fri, 02 Oct 2026 09:05:29 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 02 Oct 2026 09:41:07 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/nvidia/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>AI agentlari dasturchilar ishini o'z zimmasiga olmoqda</title>
+    <link>https://ailenta.uz/x/ai-agentlari-dasturchilar-ishini-oz-zimmasiga-olmoqda-7dd0e3/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/ai-agentlari-dasturchilar-ishini-oz-zimmasiga-olmoqda-7dd0e3/</guid>
+    <pubDate>Fri, 02 Oct 2026 09:00:01 GMT</pubDate>
+    <description>AI kodlash agentlari Silikon vodiysidagi muhandislarning mashaqqatli ishini o'z zimmasiga olmoqda. Shunga qaramay, Nvidia chiplarini dasturlashda ishlatiladigan CUDA bo'yicha mutaxassislarga talab yuqori bo'lib qolmoqda.</description>
+    <category>mehnat bozori</category><category>Nvidia</category>
+    <media:content url="https://ailenta.uz/og/ai-agentlari-dasturchilar-ishini-oz-zimmasiga-olmoqda-7dd0e3.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/ai-agentlari-dasturchilar-ishini-oz-zimmasiga-olmoqda-7dd0e3.jpg"/>
+  </item>
   <item>
     <title>Nvidia chiplari AQSH nazoratiga qaramay Xitoyga yetmoqda</title>
     <link>https://ailenta.uz/x/nvidia-chiplari-aqsh-nazoratiga-qaramay-xitoyga-yetmoqda-f4cafc/</link>
@@ -296,16 +306,6 @@
     <category>Nvidia</category><category>siyosat</category>
     <media:content url="https://ailenta.uz/og/jensen-huang-ai-xavfi-boyicha-haddan-oshishni-tanqid-qildi-34077d.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/jensen-huang-ai-xavfi-boyicha-haddan-oshishni-tanqid-qildi-34077d.jpg"/>
-  </item>
-  <item>
-    <title>Elon Musk xAI Colossus 2 chip sonini ikki barobar oshirmoqchi</title>
-    <link>https://ailenta.uz/x/elon-musk-xai-colossus-2-chip-sonini-ikki-barobar-oshirmoqch-da6fca/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/elon-musk-xai-colossus-2-chip-sonini-ikki-barobar-oshirmoqch-da6fca/</guid>
-    <pubDate>Fri, 25 Sep 2026 06:04:00 GMT</pubDate>
-    <description>Elon Musk yil oxirigacha xAI'ning Colossus 2 tizimidagi Nvidia chiplari sonini ikki barobar oshirishni maqsad qilgan. Bu kompaniyaning AI imkoniyatlarini kengaytirishga qaratilgan.</description>
-    <category>xAI</category><category>Nvidia</category>
-    <media:content url="https://ailenta.uz/og/elon-musk-xai-colossus-2-chip-sonini-ikki-barobar-oshirmoqch-da6fca.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/elon-musk-xai-colossus-2-chip-sonini-ikki-barobar-oshirmoqch-da6fca.jpg"/>
   </item>
 </channel>
 </rss>
