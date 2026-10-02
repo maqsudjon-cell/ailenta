@@ -1,98 +1,110 @@
 [
   {
-    "id": "6cc7bd4c9ba8",
-    "slug": "anthropic-avstraliya-kontentiga-opt-out-taklif-qildi-6cc7bd",
-    "title": "Anthropic Avstraliya kontentiga opt-out taklif qildi",
-    "summary": "Anthropic Avstraliya hukumatiga o‘z modellarini mualliflik huquqi bilan himoyalangan asarlar ustida o‘qitish uchun \"opt-out\" modelini ko‘rib chiqishni taklif qildi. Avstraliya teleradiokompaniyalari (ABC va SBS) AI firmalarini tanqid qilib, media qoidalariga bo‘ysunishni talab qildi.",
+    "id": "7c260bb03201",
+    "slug": "xitoyda-anthropic-tokenlari-uchun-kulrang-bozor-paydo-boldi-7c260b",
+    "title": "Xitoyda Anthropic tokenlari uchun \"kulrang bozor\" paydo bo'ldi",
+    "summary": "The Information nashrining xabar berishicha, Xitoyda Anthropic kompaniyasining tokenlarini qayta sotuvchilar tomonidan \"kulrang bozor\" shakllangan. Bu bozor Anthropic mahsulotlariga norasmiy kirish imkoniyatini yaratmoqda.",
     "tags": [
       "Anthropic",
-      "qonun"
-    ],
-    "importance": 3,
-    "score": 34,
-    "published": "2026-10-01T15:00:53.000Z",
-    "created": "2026-10-02T13:00:21.909Z",
-    "coverage": 2,
-    "source": {
-      "name": "The Guardian",
-      "url": "https://theguardian.com/technology/2026/oct/02/anthropic-ai-opt-out-australia-copyright-abc-cannibalisation-of-news",
-      "indirect": false
-    },
-    "also": [
-      {
-        "name": "The Guardian",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQeWZoTkRIQzBZSFBSM19FVnlybXpkVVJfOWFnUjlyMjdHeF9UaUR5eVlvUDRMT0ZFLUZlWkFwMlZ2YkNLdHNmazFFMk9QYlhHWW1iNDFvWHhFQ3RETEtkQ1VzR2MtZ0N2NFpTUU5rTXFQWms2OUdoalVUbmhaNU93Z1I1NUFmdDdGdGxUcS1TN09hR1g5UzZaWkI3TXJUeXNxVUwtaVoxeEVhQ3hKS1YwTTdDSjZ6NEhMcGdz"
-      }
-    ],
-    "model": "gemini"
-  },
-  {
-    "id": "106611712fdc",
-    "slug": "amd-nvidiani-yengmay-ham-ai-bozorida-muvaffaqiyat-qozonadi-106611",
-    "title": "AMD Nvidia'ni yengmay ham AI bozorida muvaffaqiyat qozonadi",
-    "summary": "AOL.com nashri AMD kompaniyasi AI bozorida Nvidia'ni to‘liq yengmasdan ham katta muvaffaqiyatga erishishi mumkinligini ta'kidladi. Bu kompaniyaning AI sohasidagi strategiyasi va imkoniyatlari haqida bahslarga sabab bo‘lmoqda.",
-    "tags": [
-      "AMD",
-      "Nvidia"
+      "biznes"
     ],
     "importance": 2,
-    "score": 12.4,
-    "published": "2026-10-01T16:00:53.000Z",
-    "created": "2026-10-02T13:00:21.910Z",
-    "coverage": 2,
-    "source": {
-      "name": "AOL.com",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5lUXRtVlFTOUtWNFctWHB0M3VvZ1RDTmx0NVpjM192QV9ZdHpxOE5XSjQwdFIxbEt2WUwxMDFCYl9lZHdrOEtsc3FyWTdLODV6LUVtRi1MVzFadnhoUXRKVzVWZmxKX3gyTEZpeVhoUGlyek9wanc",
-      "indirect": true
-    },
-    "also": [
-      {
-        "name": "24/7 Wall St.",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONlZEdU4tNW40NVNla1NnbTlYeFRDNXdOcllzNndZOENsNDctSTNFR0FVTUZ3M2pNVmRXWVBjOXJtcUdXY0p4Tk9GMjJUSHZ5dGMtU2lhYkJjMjBTRVBhSG9Xd0JZWTJJNWxmYVRzUlVUUlpLaTk3eENGcnNGS2taNVgxSDQ2Q050dWxVYmVaVGVCYXBMZlpHRXFKano"
-      }
-    ],
-    "model": "gemini"
-  },
-  {
-    "id": "e983a3b6bc50",
-    "slug": "cisco-nvidia-bilan-xavfsiz-ai-fabrikasini-kengaytirmoqda-e983a3",
-    "title": "Cisco Nvidia bilan xavfsiz AI fabrikasini kengaytirmoqda",
-    "summary": "Cisco kompaniyasi Nvidia bilan hamkorlikda \"rack-scale\" davri uchun xavfsiz AI fabrikasini kengaytirmoqda. Bu harakat AI infratuzilmasini rivojlantirish va xavfsizligini ta'minlashga qaratilgan.",
-    "tags": [
-      "Cisco",
-      "Nvidia"
-    ],
-    "importance": 3,
-    "score": 10,
-    "published": "2026-10-02T11:47:08.000Z",
-    "created": "2026-10-02T13:00:21.910Z",
+    "score": 27,
+    "published": "2026-10-02T13:00:00.000Z",
+    "created": "2026-10-02T13:07:45.816Z",
     "coverage": 1,
     "source": {
-      "name": "TahawulTech.com",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRzVyNTBWT3BWMHBsOU1TcExjYWE2cDRXVWpIdE11dWkwTFRENU15eFVxUkxjcTlXMXNJTmZ3OE5nRHB4MjEtWmtMM1RUdWlHeXdMRjE0RXZxVERxeWM4eEh5SGhTczdYdFIteWlJX1E4OTlzQ3F1ckoyNENwX2E3S0NuR2dna1VQT0NGRVdzLWtWbHZGZGhNdDVNc3VpTUN1OEZxdHZR",
+      "name": "The Information",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPenN5SVloamF3enAxemVhek1BX2c5Qjg0bWNOd25TQ1oxZUh5VXdMMk9VNGloRG55SjhnajR2WkphQnRzM29HQmJQby1tUG0zRWxlanhQYWlTSUlJckRhVTRPcjE3c21DeW1PUk1vVTVnZUl5bHRZU2g3TFpYRVkyVU1OYXBMYlNHN1BLcG9TUDVoeFV3dVE",
       "indirect": true
     },
     "also": [],
     "model": "gemini"
   },
   {
-    "id": "fd140c0cf6f9",
-    "slug": "anthropic-claude-ai-etikasini-shakllantirish-uchun-mutaxassi-fd140c",
-    "title": "Anthropic Claude AI etikasini shakllantirish uchun mutaxassislarni jalb qildi",
-    "summary": "Anthropic kompaniyasi Claude AI modelining etikasini shakllantirish maqsadida Vedanta rohibi, ilohiyotshunoslar va ruhiy salomatlik bo‘yicha ekspertlarni birlashtirdi. Bu harakat AI rivojlanishida axloqiy tamoyillarga e'tibor qaratishni ko‘rsatadi.",
+    "id": "98ff827a9feb",
+    "slug": "nvidia-4999-dollarlik-dgx-spark-modelini-taqdim-etdi-98ff82",
+    "title": "Nvidia 4999 dollarlik DGX Spark modelini taqdim etdi",
+    "summary": "Nvidia kompaniyasi 4999 dollarlik DGX Spark modelini ishga tushirdi. U avvalgi versiyaning yarmi xotira va saqlash joyiga ega. Shu bilan birga, 128 GB'lik versiya narxi 6950 dollarga ko'tarilib, dastlabki narxidan qariyb 75% oshdi.",
     "tags": [
-      "Anthropic",
-      "tadqiqot"
+      "Nvidia",
+      "chiplar"
     ],
     "importance": 4,
-    "score": 10,
-    "published": "2026-10-02T06:33:04.000Z",
-    "created": "2026-10-02T13:00:21.910Z",
+    "score": 19,
+    "published": "2026-10-02T13:00:00.000Z",
+    "created": "2026-10-02T13:07:45.816Z",
     "coverage": 1,
     "source": {
-      "name": "StoryBoard 18",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNNEQ3aV9MSV9LVmhkYmFWcFEyNXU3cU1mcXptWi16OVh1NkJSMlhmWDlHeEhtZlAwN1AxOVg1bjkybzFVQkszSVM1YWpHUXU5V19zOW5yanJ6aFFFVHZZS1NGXzdmVDVrc1lvNmoyVkZIZDVuMXJLei1qV29sQ20tbmxzNWtOWVdKbDVqV056amdxb0Jwa3E3ekhzdlBmVFp6S1BMRTk3S09SbGFOX2FmUTB6U1k5QndYbk9tcmstczFuek1yUG50VWZIU1ljcnBEa3c4dElMeUlwVXdoZ2xiRTZjTW85SGpsdkU3TdIB8gFBVV95cUxOTGdVdlBza01HODc2S0ROSjd4aHNzSmFYeTN3S2NHbnJtaWM3RUVQTmZ6dmZwa0EzV04xWU9hTEVkd0dIZVhNTlE1dE1QV1lqRHNUT1lBZW9hSlA0NmNtN3p3WVJaRWRzZ3hRbkxMY2VUS01MZGlabkNiN0l6UWQ3Y0hZVkNiOGxrMjlzQVRSVlJuZmE5bXJ5RFNjb1BVRXR0RFJaUjl3RW5NMUFzVkdyQ1pWRkxEenVmMXY3dzJXTkQ5SHZEMmJTckVUb1ZOSDRIWVpFa0ZCQkFEZG11Y3I0RU5FRURoTzRvcUhVYTRqUzJuQQ",
-      "indirect": true
+      "name": "The Register",
+      "url": "https://theregister.com/systems/2026/10/02/nvidia-debuts-4999-dgx-spark-with-half-the-ram-and-storage-amid-memory-crunch/5300622",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "621b26bd2385",
+    "slug": "ai-muvaffaqiyati-boshqaruvi-va-malumotlarga-bogliq-621b26",
+    "title": "AI muvaffaqiyati boshqaruvi va ma'lumotlarga bog'liq",
+    "summary": "Fortune's AIQ sammitida Bank of America va S&P Global rahbarlari AI muvaffaqiyati aniq biznes ehtiyojidan boshlanishi kerakligini ta'kidladi. Ular AI tizimlari ishonchli va kuzatilishi mumkin bo'lgan ma'lumotlar asosida qurilishi lozimligini aytdi.",
+    "tags": [
+      "biznes",
+      "iqtisod"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-10-02T12:54:11.000Z",
+    "created": "2026-10-02T13:07:45.816Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/10/02/bank-of-america-sp-global-why-ai-success-starts-governance-and-data",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "64ac1de380c8",
+    "slug": "excel-canvas-copilot-yordamida-hisobotlar-yaratadi-64ac1d",
+    "title": "Excel Canvas Copilot yordamida hisobotlar yaratadi",
+    "summary": "Excel Canvas funksiyasi Copilot yordamida jadval ma'lumotlaridan diagrammalar va ko'rsatkichlar bilan hisobotlar yaratish imkonini beradi. Ushbu hisobotlar raqamlar o'zgarganda avtomatik ravishda yangilanadi.",
+    "tags": [
+      "Microsoft",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-10-02T12:27:00.000Z",
+    "created": "2026-10-02T13:07:45.816Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/software/2026/10/02/excel-canvas-offers-to-turn-your-workbook-into-the-bosss-next-report/5300812",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "2f17e505e652",
+    "slug": "lmarena-ai-modellarini-taqqoslashga-yordam-beradi-2f17e5",
+    "title": "LMArena AI modellarini taqqoslashga yordam beradi",
+    "summary": "LMArena (arena.ai) platformasi foydalanuvchilar ovozi asosida AI modellarini taqqoslash imkonini beradi. U matn, kod, tasvir va qidiruv kabi vazifalar bo'yicha modellar reytingini ko'rsatadi. Maqola umumiy reytingdan tashqari, interfeys va kategoriya ko'rsatkichlarini tushunish muhimligini tushuntiradi.",
+    "tags": [
+      "tadqiqot",
+      "ochiq model"
+    ],
+    "importance": 2,
+    "score": 17,
+    "published": "2026-10-02T11:24:42.000Z",
+    "created": "2026-10-02T13:07:45.816Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/companies/bothub/articles/1089622",
+      "indirect": false
     },
     "also": [],
     "model": "gemini"
