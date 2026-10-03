@@ -1,5 +1,205 @@
 [
   {
+    "id": "4db8b7735b02",
+    "slug": "mtplx-va-omlx-serverlari-taqqoslandi-4db8b7",
+    "title": "MTPLX va oMLX serverlari taqqoslandi",
+    "summary": "Maqolada MTPLX va oMLX serverlari taqqoslanib, ularning samaradorligi o'rganildi. Tadqiqot lokal kod agenti va Qwen3.8-27B modelida o'tkazildi.",
+    "tags": [
+      "tadqiqot",
+      "ochiq model"
+    ],
+    "importance": 2,
+    "score": 11,
+    "published": "2026-10-03T08:48:47.000Z",
+    "created": "2026-10-03T09:38:00.959Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1089890",
+      "title": "MTPLX против oMLX: одна модель, два сервера, разница в 3–6 раз",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "d4e3054526b7",
+    "slug": "nvidia-dgx-spark-64gb-mahalliy-ai-imkoniyatini-kengaytiradi-d4e305",
+    "title": "Nvidia DGX Spark 64GB mahalliy AI imkoniyatini kengaytiradi",
+    "summary": "Nvidia DGX Spark 64GB 64GB yagona xotira bilan taqdim etiladi. Bu ishlab chiquvchilarga mahalliy AI modellarini qurish va kengaytirish uchun ko'proq imkoniyat beradi.",
+    "tags": [
+      "Nvidia",
+      "chiplar"
+    ],
+    "importance": 3,
+    "score": 38.6,
+    "published": "2026-10-02T13:00:39.000Z",
+    "created": "2026-10-03T09:38:15.219Z",
+    "coverage": 2,
+    "source": {
+      "name": "Nvidia",
+      "url": "https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "PCMag",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQT0FtZXU5cVVkM29RSXBWMGpCdDN5RURMeHFwNG9ZLUNvUnlka296SUhYT2lvYXY0YVdGa1V5cnduZE1mdVRKZU1vQl9IUUQ3ZGhhTGxQM0gzMXZfYmt6cDM4X2twdUx3dnN4Q2xwM3ZQSVFKTjlpUnpVS1pLZjRFYmVhTHdENUZQU2pNRktNTUIxNGEydUs3VExiVXU"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "f99e04c9020c",
+    "slug": "ai-qoshiq-yozish-tajribasi-insonlar-mashinaga-qarshi-f99e04",
+    "title": "AI qo'shiq yozish tajribasi: Insonlar mashinaga qarshi",
+    "summary": "Besh nafar inson bir dam olish kunida yangi musiqa yaratish uchun yig'ildi. Ular AI'dan yaxshiroq ijod qila oladimi yoki farqni ajratish mumkinmi, sinovdan o'tkazildi.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 27,
+    "published": "2026-10-03T09:00:28.000Z",
+    "created": "2026-10-03T09:38:15.219Z",
+    "coverage": 1,
+    "source": {
+      "name": "The New York Times",
+      "url": "https://nytimes.com/2026/10/03/arts/music/human-songwriting-ai-songwriting.html",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "5014b38aa281",
+    "slug": "palantir-ai-davrida-forward-deployed-muhandislarni-taklif-et-5014b3",
+    "title": "Palantir AI davrida \"forward-deployed\" muhandislarni taklif etadi",
+    "summary": "Palantir kompaniyasi \"forward-deployed\" muhandislar xizmatini taklif qilmoqda. Bu mutaxassislar mijozlarga yangi texnologiyalarni, xususan, AI'ni tez o'zlashtirishga yordam beradi.",
+    "tags": [
+      "Palantir",
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 19,
+    "published": "2026-10-03T08:02:00.000Z",
+    "created": "2026-10-03T09:38:15.219Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/channel/2026/10/03/palantirs-fondness-for-french-food-cooked-up-techs-latest-fad-forward-deployed-engineers/5300360",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "88e8f031ed56",
+    "slug": "ai-video-vositalari-gollivudga-kirib-kelmoqda-88e8f0",
+    "title": "AI video vositalari Gollivudga kirib kelmoqda",
+    "summary": "AI video vositalari tez rivojlanib, Gollivudga arzonroq ishlab chiqarish imkoniyatini bermoqda. Bu sohada yangi raqobat to'lqinini keltirib chiqarmoqda.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-10-03T09:30:02.000Z",
+    "created": "2026-10-03T09:38:15.219Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/ai-video-tools-slopcannon-new-competition-hollywood-2026-10",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "f1916c473340",
+    "slug": "kontent-yaratuvchilar-aini-qabul-qilmoqda-f1916c",
+    "title": "Kontent yaratuvchilar AI'ni qabul qilmoqda",
+    "summary": "Ba'zi tanqidlarga qaramay, kontent yaratuvchilar AI'ni faol qo'llamoqda. AI yaratuvchilar konferensiyasida ular bu haqda o'z fikrlarini bildirishdi.",
+    "tags": [
+      "mehnat bozori"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-10-03T08:11:01.000Z",
+    "created": "2026-10-03T09:38:15.219Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/content-creators-embrace-ai-despite-backlash-conference-influencers-hollywood-2026-10",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "d269fda83431",
+    "slug": "relay-36m-sarmoya-jalb-qildi-d269fd",
+    "title": "Relay $36M sarmoya jalb qildi",
+    "summary": "Relay kompaniyasi \"frontline intelligence\"ni yig'ish uchun $36 million sarmoya jalb qildi. U bulutda joylashgan, AI asosidagi aqlli radio aloqa vositalarini ishlab chiqadi.",
+    "tags": [
+      "biznes",
+      "bulut"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-10-03T05:55:57.000Z",
+    "created": "2026-10-03T09:38:15.219Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/261003/p5",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "7a5de2e8a305",
+    "slug": "pdf-hujjatlarida-qidiruv-dasturi-yaratildi-7a5de2",
+    "title": "PDF hujjatlarida qidiruv dasturi yaratildi",
+    "summary": "PDF Desk nomli kichik Python ilovasi yaratildi. U foydalanuvchiga PDF'ga savol berish, javob olish va model havola qilgan sahifani ochish imkonini beradi.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 11,
+    "published": "2026-10-03T08:06:53.000Z",
+    "created": "2026-10-03T09:38:15.219Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1089882",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "822020ec1409",
+    "slug": "greg-lui-300-mln-nvidia-serverlari-kontrabandasi-aybi-822020",
+    "title": "Greg Lui $300 mln Nvidia serverlari kontrabandasi aybi",
+    "summary": "Greg Lui Xitoyga $300 millionlik Nvidia serverlarini kontrabanda qilishda ayblanib hibsga olindi. Bu holat Nvidia mahsulotlarining noqonuniy savdosi bilan bog'liq.",
+    "tags": [
+      "Nvidia",
+      "qonun"
+    ],
+    "importance": 4,
+    "score": 7,
+    "published": "2026-10-03T09:00:11.000Z",
+    "created": "2026-10-03T09:38:15.219Z",
+    "coverage": 1,
+    "source": {
+      "name": "Pasquale Pillitteri",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcWl0UUpHWjY1ZE1NTVl3WUFwX1p3ZE05LXh4TGdnMk9pSExPV21XWnlRMXI2RGIxdy16NTNIc3ZXMGIwVk4wby1MNjRRLURyaC1uYjh5VkVsUmVXOTdaUGplVm9NemRMMUF5NGd3SjRLTG9qLVpyNnRoaEtlUzFEaURPS3B4QW90SWJMUDB5OW1TWXdmWEw2SS13",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "d2f7214c7405",
     "slug": "qozog-istonda-ai-uchun-50-million-dollarlik-fond-tuziladi-d2f721",
     "title": "Qozog‘istonda AI uchun 50 million dollarlik fond tuziladi",
