@@ -1,5 +1,48 @@
 [
   {
+    "id": "4a46493e4f87",
+    "slug": "splice-rahbari-ai-elektron-xatlarini-tanqid-qildi-4a4649",
+    "title": "Splice rahbari AI elektron xatlarini tanqid qildi",
+    "summary": "Splice bosh direktori Kakul Srivastava sun'iy intellekt yordamida yozilgan elektron xatlar muloqotni o'ldirmoqda deb hisoblaydi. Uning fikricha, bunday xatlar suhbatlar sifatiga salbiy ta'sir ko'rsatadi.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-10-03T15:00:00.000Z",
+    "created": "2026-10-03T15:36:57.944Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Verge",
+      "url": "https://theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "2c98e82d4c43",
+    "slug": "claude-modelining-yangi-suv-belgisi-halollikni-taminlaydimi-2c98e8",
+    "title": "Claude modelining yangi suv belgisi halollikni ta'minlaydimi",
+    "summary": "Claude sun'iy intellekt modelida yangi suv belgisi joriy etilishi kutilmoqda. Ushbu texnologiya foydalanuvchilarning halolligini ta'minlash va kontentning sun'iy intellekt tomonidan yaratilganini aniqlashga xizmat qiladi.",
+    "tags": [
+      "Anthropic",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": -4.9,
+    "published": "2026-10-01T21:50:00.000Z",
+    "created": "2026-10-03T15:36:57.944Z",
+    "coverage": 1,
+    "source": {
+      "name": "news.fiu.edu",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcjU3RTRaUEpTcDU1UDJkeGN0QWdOQTVMenFqUWRYQmJ4RVhLZ2V5QU5ySXJ5d2pYc0ZtcXhHbTZTMDhLOFpoOTYxUmJadHUyQ0tySkk0aDhlRjBRd213VE5ZNE8tbjVXRUxuNWxpb1V2VkZLN2NFSkFuM2NQOFg1WDNqUDlFbkJkWC1ZYWhEVHI1RVFR",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "13fada2a7bdf",
     "slug": "claude-4-tasodifiy-tasavvufiy-mavzularga-ogib-ketmoqda-13fada",
     "title": "Claude 4 tasodifiy tasavvufiy mavzularga og'ib ketmoqda",
