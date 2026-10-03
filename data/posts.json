@@ -1,5 +1,118 @@
 [
   {
+    "id": "949f18348bd9",
+    "slug": "konstitutsiyaviy-sudga-mobil-ilova-orqali-qatnashish-949f18",
+    "title": "Konstitutsiyaviy sudga mobil ilova orqali qatnashish",
+    "summary": "Konstitutsiyaviy sudga elektron murojaat qilish, ishni onlayn kuzatish va sud majlislarida mobil ilova orqali qatnashish imkoniyatlari yaratilmoqda. Bu Konstitutsiyaviy qonun Senatning 20-yalpi majlisida maʼqullandi.",
+    "tags": [
+      "qonun",
+      "O'zbekiston"
+    ],
+    "importance": 3,
+    "score": 45,
+    "published": "2026-10-03T04:35:12.000Z",
+    "created": "2026-10-03T05:02:26.939Z",
+    "coverage": 1,
+    "source": {
+      "name": "Kun.uz",
+      "url": "https://kun.uz/news/2026/10/03/konstitutsiyaviy-sudda-mobil-ilova-orqali-qatnashish-mumkin-boladi",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "18de6d2dc93c",
+    "slug": "eliza-ai-yaratilishi-haqida-yangi-sahna-asari-18de6d",
+    "title": "Eliza: AI yaratilishi haqida yangi sahna asari",
+    "summary": "Avstraliyalik dramaturg Tom Xolloueyning \"Eliza\" nomli yangi sahna asari sun'iy intellektning paydo bo'lishiga bag'ishlangan. Unda AI'ning dastlabki davrlari tasvirlangan.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 23,
+    "published": "2026-10-03T01:57:39.000Z",
+    "created": "2026-10-03T05:02:26.939Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/stage/2026/oct/03/eliza-review-melbourne-theatre-company-birth-of-ai",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "50e6bf6a4ab0",
+    "slug": "pentagon-anthropicga-ai-texnologiyasi-boyicha-ultimatum-berd-50e6bf",
+    "title": "Pentagon Anthropic'ga AI texnologiyasi bo'yicha ultimatum berdi",
+    "summary": "Manbalarga ko'ra, Pentagon Anthropic kompaniyasiga sun'iy intellekt texnologiyasi bo'yicha ultimatum qo'ygan.",
+    "tags": [
+      "Anthropic",
+      "siyosat"
+    ],
+    "importance": 4,
+    "score": 12.6,
+    "published": "2026-10-02T08:32:51.000Z",
+    "created": "2026-10-03T05:02:26.939Z",
+    "coverage": 2,
+    "source": {
+      "name": "Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWmk1c3RRZUVnenpEV3lQRUtudTdTV05mVXo4MWxRVW91UkJCVTB0dmo1dDRfQy13Z2hRSkJ5UXN4NlRscjhaTk5uOEhLcElBckVjd0F4Z0hkUHFYejYwWi1tUjM0Vm9DeE9JdjYxWldSbGVOWjhzcEFTNzMxUDNKNG1ic2VhM2ZDVDVsZE15M0JzNzByUTUzZU1yMEppbWvSAaQBQVVfeXFMUFp0N0lQZWF3MHlhZUlzQXl0Wnp1VWxkMnlHZnh1dUM2RENlSll1QU5MVE9keFNUbzJoczlLT1Z3Z09tdHRyT044MVNwTF90YlNXYkNlVGFsWHdNMmdjSkMxOVNpQ3ZZSTBIWU5KUk5YOXBmcElYdmVHWUhqQXlSX0RWaWdrUV82NmRDN1pYU19GckhjOERTb1FHWkJJalk3ODRDM08",
+      "indirect": true
+    },
+    "also": [
+      {
+        "name": "Breaking News, Latest News and Videos",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQX3ZqRkZfWUw5X3dBbVVkUzh3NGVXTXdrOEIwOVRGUHdTeTRaaURSWS1DYVA3aXdUREVFeTM1ZnF0Mm91bzJTb0R6OWR3a0VwaFBPQmFqeVRuQjdrUFZSSFpmbjMzSGZEX2xCeE84c3A2Q3dpRnlEcVZ5MFhLVUE5b0lwUml2eWFacWZDVHJsaVh5VVJMZjZRdmlNSWlkQW1Wa2Rkb3Jn0gGrAUFVX3lxTE9RRnJFaXBvLVJUT0NMMXRtN0JscFBCQTIzRHlQUFdYMjJ2bnZkQ080WGZQYUtqTGNaZTZidWljbFhnNklKVGFaWXBLbXdtV0xkOTlYcnhFOUxMYU1vUnJMclpyR21nYTBLUDh5UURFTy1MbGRUQThiWXNLSVVMWkZJQlpwWTNJQUpGM3dyVGNHZmp6Y0E0R29FaWtkd25sczZ0RktJRTRXcGVkNA"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "41bdb722f99c",
+    "slug": "saraton-dori-javobini-tahlil-qilishda-yangi-ai-modeli-41bdb7",
+    "title": "Saraton dori-javobini tahlil qilishda yangi AI modeli",
+    "summary": "Tadqiqotchilar saraton turlarini yashirin \"subyektlar\" va dori vositalarini \"elementlar\" sifatida ko'rib, farmakogenomik dori-javob tahlili uchun teskari IRT modelini joriy etdi. Model 242,036 ta dori sezgirligi o'lchovlariga qo'llanildi.",
+    "tags": [
+      "tadqiqot",
+      "tibbiyot"
+    ],
+    "importance": 2,
+    "score": 7,
+    "published": "2026-10-03T04:00:00.000Z",
+    "created": "2026-10-03T05:02:26.939Z",
+    "coverage": 1,
+    "source": {
+      "name": "arXiv cs.LG",
+      "url": "https://arxiv.org/abs/2610.00002",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "54c963e93e24",
+    "slug": "adam-optimizatorining-tabiiy-gradientga-yaqinligi-organildi-54c963",
+    "title": "Adam optimizatorining tabiiy gradientga yaqinligi o'rganildi",
+    "summary": "Tadqiqotchilar chuqur o'rganishda standart optimizator bo'lgan Adamning tabiiy gradient tushishiga geometrik munosabatini o'rgandi. Ular Adamning to'liq yangilanish qoidasini o'rganib, uning haqiqiy NGD'dan chetlanishini o'lchadi.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 7,
+    "published": "2026-10-03T04:00:00.000Z",
+    "created": "2026-10-03T05:02:26.939Z",
+    "coverage": 1,
+    "source": {
+      "name": "arXiv cs.LG",
+      "url": "https://arxiv.org/abs/2610.00004",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "a8928705cc1c",
     "slug": "cerebras-aksiyalari-nvidia-bosimi-ostida-tushib-ketdi-a89287",
     "title": "Cerebras aksiyalari Nvidia bosimi ostida tushib ketdi",
