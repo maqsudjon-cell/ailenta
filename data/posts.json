@@ -1,5 +1,114 @@
 [
   {
+    "id": "32ff31b64593",
+    "slug": "aqshda-qotilning-hukmi-ai-videosi-sababli-bekor-qilindi-32ff31",
+    "title": "AQShda qotilning hukmi AI videosi sababli bekor qilindi",
+    "summary": "AQShda sudlanuvchining jazo hukmi sudda jabrlanuvchining sun'iy intellekt yordamida yaratilgan videosi ko'rsatilgani sababli bekor qilindi. Bu haqda Hacker News xabar bermoqda.",
+    "tags": [
+      "xavfsizlik",
+      "sud"
+    ],
+    "importance": 4,
+    "score": 17,
+    "published": "2026-10-03T13:34:18.000Z",
+    "created": "2026-10-03T16:52:57.255Z",
+    "coverage": 1,
+    "source": {
+      "name": "Hacker News",
+      "url": "https://bbc.com/news/articles/cwgkvygg5nzvo",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "c87d5f628b0a",
+    "slug": "capcom-oyinlarni-ai-bilan-birga-yaratishga-tayyorlanmoqda-c87d5f",
+    "title": "Capcom o'yinlarni AI bilan birga yaratishga tayyorlanmoqda",
+    "summary": "Capcom studiyasi kelajakda o'yinlarni sun'iy intellekt bilan hamkorlikda yaratishni rejalashtirmoqda. Kompaniya dasturchisi Satoshi Ishida RE Engine dvigatelini rivojlantirish bo'yicha taqdimot o'tkazdi.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-10-03T16:49:10.000Z",
+    "created": "2026-10-03T16:52:57.255Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Verge",
+      "url": "https://theverge.com/games/1004418/capcom-ai-game-development",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "2c88982fa019",
+    "slug": "anthropic-claude-odob-axloqi-uchun-hinduizmga-tayanadi-2c8898",
+    "title": "Anthropic Claude odob-axloqi uchun hinduizmga tayanadi",
+    "summary": "Anthropic kompaniyasi Claude modelining AI etikasiga yondashuvini shakllantirish uchun hinduizm falsafasidan foydalanmoqda. Bu haqda ET Enterprise AI nashri xabar berdi.",
+    "tags": [
+      "Anthropic",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 10,
+    "published": "2026-10-03T09:34:39.000Z",
+    "created": "2026-10-03T16:52:57.255Z",
+    "coverage": 1,
+    "source": {
+      "name": "ET Enterprise AI",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPUTltZHNqYzIzbUNjNE1CWG41WklIYkhJYUp1cXNOR29URzM5eTFaTlI4SEUyMDBhckh6TmxYTW9udHA4cTNCekpKVkpScTJEaDJZTkRvaUJTWlF3WV9obHA1c1VxSjNIUWE0YURRWkg3bHAwTFgwM1NBbWV1ek1UQW9aanAyQkwyZzhoT2ZTLTBCUnFjaXFFTi1aTGhNUkxpMW11Z2FNUDRsT3d0XzN2X0pPWGVIdHh3dVpXaENIdkF4VEhxOEQyeC1SWkQ0YlZmUjFiWGd2aFZWTkx4MFVCXy1B0gHnAUFVX3lxTFBfaUZqUkhEQlFZeU52T2pfSVczNW9yY2EycHY5XzVIWEVuV0FZamthRzVaZ3J6ZWczZHZWWW1BQkpLMVBreGlMVFI5LWcwTEVfemIwRUIyZlctYXRfcC11RkpISHVPUEZqTzlKb1NwRk03ekxaelQzd3c0SDNjZkhqUS1KbnFJODl5SWFlX3FvNDktSU11Z0pLN1hyNmhsY1Q1MFFxenZnUmZBNjIyRDExR181cUU3SThjYXZQQ3dXNjZidk5PT1BWNlg2NE5MY0xsUU1xLUFxVlhQYWxkUGZWOURVUEltOA",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "ed2fb7443919",
+    "slug": "nvidia-va-micron-aksiyalari-bozor-ozgarishi-fonida-osdi-ed2fb7",
+    "title": "Nvidia va Micron aksiyalari bozor o'zgarishi fonida o'sdi",
+    "summary": "Ish o'rinlari haqidagi ma'lumotlar bozorni larzaga keltirishi ortidan Nvidia va Micron kompaniyalari aksiyalari ko'tarildi. Bu haqda The Tech Buzz nashri xabar bermoqda.",
+    "tags": [
+      "Nvidia",
+      "iqtisod"
+    ],
+    "importance": 2,
+    "score": 7,
+    "published": "2026-10-03T15:37:00.000Z",
+    "created": "2026-10-03T16:52:57.255Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Tech Buzz",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObUFKUmIwcS1Jb09ncmgtcWk0U1J1cGREYUYwcEgtXzFPWTNBczR1NnRXNDd6aTY4cGNBdWYzMGxCR1kwWG1yNnh4TjNCQVdUdHV0dEdKRUVBR2hVcTV6RU1MRVZNTHlzRmtMVkpwR2dkT190WUFkVGttdGdYNHc2QXo5RXFOQQ",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "b1215fe36a19",
+    "slug": "apple-mac-malumotlariga-ai-sorovlarini-belgilab-qoyadi-b1215f",
+    "title": "Apple Mac ma'lumotlariga AI so'rovlarini belgilab qo'yadi",
+    "summary": "Meta kompaniyasining Muse AI dasturi ustidan shikoyatlardan so'ng, Apple Mac ma'lumotlariga yuboriladigan sun'iy intellekt so'rovlarini maxsus belgilashini ma'lum qildi.",
+    "tags": [
+      "Apple",
+      "maxfiylik"
+    ],
+    "importance": 4,
+    "score": 4.5,
+    "published": "2026-10-02T22:42:42.000Z",
+    "created": "2026-10-03T16:52:57.255Z",
+    "coverage": 1,
+    "source": {
+      "name": "sg.finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNaFMzbVlTd1hCV1hvUm1ERFBMMHdNTV9YQy05WXVmSnJrQ05PcnZ1bDdUaHVNbmdXMmNSV1lzRE1NZ3V6MmFNdUljRVBaVXZxUl9scHRlcUxDdm82VUk1ZnVVSXJKOUhyWWZTMUpNSlNlS2hWLWY0VVRRcU9TU2VCeFN3",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "338dfff6d832",
     "slug": "startaplar-barbod-bo-lishining-top-10-sababi-338dff",
     "title": "Startaplar barbod boʻlishining top-10 sababi",
