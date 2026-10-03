@@ -1,17 +1,59 @@
 [
   {
-    "id": "611c3204e991",
-    "slug": "meta-yevropa-ittifoqi-qonuni-boyicha-lobbichilik-qildi-611c32",
-    "title": "Meta Yevropa Ittifoqi qonuni bo'yicha lobbichilik qildi",
-    "summary": "Meta kompaniyasi Lyuksemburg hukumati bilan muzokaralar olib bordi. Bu harakat Yevropa Ittifoqining AI bo'yicha cheklovlari kechiktirilishi oldidan amalga oshirildi.",
+    "id": "dff59105bc85",
+    "slug": "papa-leo-xiv-cherkovni-rassomlar-bilan-aiga-qarshi-birlashis-dff591",
+    "title": "Papa Leo XIV cherkovni rassomlar bilan AIga qarshi birlashishga chaqirdi",
+    "summary": "Papa Leo XIV cherkovni sun'iy intellektga qarshi rassomlar bilan hamkorlik qilishga undadi. U algoritmlarda \"uchqun yo'qligini\" ta'kidladi.",
     "tags": [
-      "Meta",
       "siyosat"
     ],
     "importance": 3,
+    "score": 19.4,
+    "published": "2026-10-02T16:40:04.000Z",
+    "created": "2026-10-03T13:43:12.095Z",
+    "coverage": 1,
+    "source": {
+      "name": "axios.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWWU5SEpjdXJwbE05eUhGVGd3bDRwTm1RdVU0dksxZUpiZXRzck0xTnZVQ2llQ0I5X0dfbXNjNHJJRlQyUUZqT0FCd2VfRE9Ud3o1eTFZdjhEczJqbFc0VEFfUktLRVhWVnUxbDd3UDdXdEI3cVh0Q0FLSHFBZTgzOTlkd25YOG8",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "348d129cb9d4",
+    "slug": "dasturchi-aiga-modx-tizimini-togridan-togri-berdi-348d12",
+    "title": "Dasturchi AIga MODX tizimini to'g'ridan-to'g'ri berdi",
+    "summary": "Dasturchi AI (ChatGPT) bilan veb-ishlab chiqishda fayllarni qo'lda ko'rsatishni to'xtatdi. U AIga MODX tizimini to'g'ridan-to'g'ri berib, kod yozish jarayonini tezlashtirdi va o'zining \"kuryerlik\" ishini kamaytirdi.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 11,
+    "published": "2026-10-03T13:13:08.000Z",
+    "created": "2026-10-03T13:43:12.095Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1089988",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "611c3204e991",
+    "slug": "meta-lyuksemburg-hukumatiga-yi-ai-qonunini-kechiktirish-uchu-611c32",
+    "title": "Meta Lyuksemburg hukumatiga YI AI qonunini kechiktirish uchun bosim o'tkazdi",
+    "summary": "Texnologiya giganti Meta Yevropa Ittifoqining AI qonunini kechiktirishdan oldin Lyuksemburg hukumatiga lobbichilik qildi.",
+    "tags": [
+      "Meta",
+      "qonun"
+    ],
+    "importance": 4,
     "score": 7,
     "published": "2026-10-03T03:06:45.000Z",
-    "created": "2026-10-03T13:36:48.501Z",
+    "created": "2026-10-03T13:43:12.095Z",
     "coverage": 1,
     "source": {
       "name": "Luxembourg Times",
@@ -23,17 +65,17 @@
   },
   {
     "id": "32cb9602daaa",
-    "slug": "nvidianing-oregondagi-talim-dasturi-toxtatildi-32cb96",
-    "title": "Nvidia'ning Oregondagi ta'lim dasturi to'xtatildi",
-    "summary": "Nvidia kompaniyasining Oregon shtati bilan kelishuvi doirasidagi dastur to'xtatib qo'yildi. Ushbu loyiha maktab va kollejlarda AI ta'limini joriy etishga qaratilgan edi.",
+    "slug": "nvidia-oregondagi-ai-talim-dasturini-toxtatdi-32cb96",
+    "title": "Nvidia Oregondagi AI ta'lim dasturini to'xtatdi",
+    "summary": "Nvidia kompaniyasi Oregon bilan AI ta'limini maktab va kollejlarga olib kirish bo'yicha bir yillik kelishuvdan so'ng dasturni to'xtatdi.",
     "tags": [
       "Nvidia",
       "ta'lim"
     ],
-    "importance": 2,
-    "score": -2,
+    "importance": 3,
+    "score": -2.1,
     "published": "2026-10-01T19:32:05.000Z",
-    "created": "2026-10-03T13:36:48.501Z",
+    "created": "2026-10-03T13:43:12.095Z",
     "coverage": 1,
     "source": {
       "name": "Rogue Valley Times",
@@ -45,17 +87,17 @@
   },
   {
     "id": "f50025f87e61",
-    "slug": "meta-soliqdan-qariyb-4-milliard-dollar-tejab-qoldi-f50025",
-    "title": "Meta soliqdan qariyb 4 milliard dollar tejab qoldi",
-    "summary": "Meta kompaniyasi o'tgan yili soliq to'lovlaridan qariyb 4 milliard dollar tejab qoldi. Buning uchun kompaniya o'zining AI ma'lumotlar markazlarini \"eksperimental\" deb atagan.",
+    "slug": "meta-ai-malumotlar-markazlari-orqali-4-mlrd-dollar-soliqni-t-f50025",
+    "title": "Meta AI ma'lumotlar markazlari orqali 4 mlrd dollar soliqni tejadi",
+    "summary": "Meta o'tgan yili AI ma'lumotlar markazlarini \"eksperimental\" deb atash orqali qariyb 4 milliard dollar soliqni tejadi.",
     "tags": [
       "Meta",
-      "iqtisod"
+      "biznes"
     ],
     "importance": 4,
     "score": -4.6,
     "published": "2026-10-01T20:35:00.000Z",
-    "created": "2026-10-03T13:36:48.501Z",
+    "created": "2026-10-03T13:43:12.095Z",
     "coverage": 1,
     "source": {
       "name": "SFist",
