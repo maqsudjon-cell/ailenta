@@ -5,7 +5,7 @@
   <link>https://ailenta.uz/mavzu/talim/</link>
   <description>&quot;ta'lim&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Sat, 03 Oct 2026 13:06:54 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 03 Oct 2026 13:40:06 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/talim/rss.xml" rel="self" type="application/rss+xml"/>
   <item>
     <title>AI tanqidiy fikrlashni susaytiruvchi ikki odat</title>
@@ -26,6 +26,16 @@
     <category>tadqiqot</category><category>ta'lim</category>
     <media:content url="https://ailenta.uz/og/arxiv-ai-sababli-maqola-topshirishga-cheklov-qoydi-dcf3f1.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/arxiv-ai-sababli-maqola-topshirishga-cheklov-qoydi-dcf3f1.jpg"/>
+  </item>
+  <item>
+    <title>Nvidia'ning Oregondagi ta'lim dasturi to'xtatildi</title>
+    <link>https://ailenta.uz/x/nvidianing-oregondagi-talim-dasturi-toxtatildi-32cb96/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/nvidianing-oregondagi-talim-dasturi-toxtatildi-32cb96/</guid>
+    <pubDate>Thu, 01 Oct 2026 19:32:05 GMT</pubDate>
+    <description>Nvidia kompaniyasining Oregon shtati bilan kelishuvi doirasidagi dastur to'xtatib qo'yildi. Ushbu loyiha maktab va kollejlarda AI ta'limini joriy etishga qaratilgan edi.</description>
+    <category>Nvidia</category><category>ta'lim</category>
+    <media:content url="https://ailenta.uz/og/nvidianing-oregondagi-talim-dasturi-toxtatildi-32cb96.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/nvidianing-oregondagi-talim-dasturi-toxtatildi-32cb96.jpg"/>
   </item>
   <item>
     <title>Toshkentda ishlayotgan serb professor AI va ta'lim haqida</title>
@@ -296,16 +306,6 @@
     <category>mehnat bozori</category><category>ta'lim</category>
     <media:content url="https://ailenta.uz/og/20-yoshli-talaba-aiga-chidamli-kasb-uchun-kollejni-tashladi-627bba.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/20-yoshli-talaba-aiga-chidamli-kasb-uchun-kollejni-tashladi-627bba.jpg"/>
-  </item>
-  <item>
-    <title>Gates fondi maktablar uchun AIga $400 mln ajratdi</title>
-    <link>https://ailenta.uz/x/gates-fondi-maktablar-uchun-aiga-400-mln-ajratdi-5bc96b/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/gates-fondi-maktablar-uchun-aiga-400-mln-ajratdi-5bc96b/</guid>
-    <pubDate>Sat, 19 Sep 2026 08:01:00 GMT</pubDate>
-    <description>Gates fondi maktablarda sun'iy intellektni joriy etish uchun 400 million dollar sarflamoqda. O'qituvchilarning ogohlantirishicha, bu harakat ta'limdagi tafovutni kengaytirishi mumkin. Bir o'qituvchi AI o'qituvchi tajribasini qo'llab-quvvatlashi, ammo uni almashtira olmasligini ta'kidladi.</description>
-    <category>ta'lim</category><category>biznes</category>
-    <media:content url="https://ailenta.uz/og/gates-fondi-maktablar-uchun-aiga-400-mln-ajratdi-5bc96b.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/gates-fondi-maktablar-uchun-aiga-400-mln-ajratdi-5bc96b.jpg"/>
   </item>
 </channel>
 </rss>
