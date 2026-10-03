@@ -1,5 +1,115 @@
 [
   {
+    "id": "6be976947ffd",
+    "slug": "anthropic-papani-ai-ongli-bolishiga-ishontirishga-urindi-6be976",
+    "title": "Anthropic Papani AI ongli bo'lishiga ishontirishga urindi",
+    "summary": "Anthropic kompaniyasi Rim Papasini sun'iy intellekt ongli mavjudot bo'lishi mumkinligiga ishontirishga harakat qildi. Bu kompaniyaning AI etikasi va uning salohiyati bo'yicha kengroq muhokamalarining bir qismi.",
+    "tags": [
+      "Anthropic",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 19.6,
+    "published": "2026-10-03T19:33:10.000Z",
+    "created": "2026-10-03T21:43:39.812Z",
+    "coverage": 1,
+    "source": {
+      "name": "Hacker News",
+      "url": "https://telegraph.co.uk/business/2026/10/02/anthropic-lobbied-pope-to-argue-ai-conscious-being",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "a8a626286d75",
+    "slug": "google-ai-overviews-manbalari-topdan-tashqarida-a8a626",
+    "title": "Google AI Overviews manbalari topdan tashqarida",
+    "summary": "Tadqiqotga ko'ra, Google'ning AI Overviews xulosalarining yarmidan ko'pi oddiy qidiruv natijalarining birinchi sahifasidan tashqaridagi manbalardan olinadi. Bu topda bo'lmagan saytlarga ham AI xulosalariga kirish imkonini beradi.",
+    "tags": [
+      "Google",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 11,
+    "published": "2026-10-03T18:59:25.000Z",
+    "created": "2026-10-03T21:43:39.812Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1090034",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "d2377541a6ec",
+    "slug": "ai-nazoratdan-chiqishi-haqiqiy-xavflarni-yashiradi-d23775",
+    "title": "\"AI nazoratdan chiqishi\" haqiqiy xavflarni yashiradi",
+    "summary": "\"AI nazoratdan chiqishi\" haqidagi tushuncha sun'iy intellektning haqiqiy xavfsizlik muammolarini yashiradi. Model tashqarisida nazorat mexanizmlari zarur.",
+    "tags": [
+      "xavfsizlik",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 10,
+    "published": "2026-10-03T11:51:58.000Z",
+    "created": "2026-10-03T21:43:39.812Z",
+    "coverage": 1,
+    "source": {
+      "name": "디지털투데이",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTHp6NmNqRjZjMHRjeHBNSEt6ZjRsV3R3aEdoTVdOYVp3R0pNNkJMUW42SkphTDMxZWZJUTNIb3NzdFhIVkg1cFN5OEp4Y2p1Z25CZDZKdUdJT3Bsb3FHaWxxSmdyX3FjUHh3SHBNUnNibDdfcE1kejhSamlDWDRJQUpZcW13SGNZdWs1dHg4ZE16MVBJRmoxRWNuMl9rQUd2MElXYTB5Mnlkc2hlaVZrQVQtdlBaanM",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "bd0cb56b0d1d",
+    "slug": "ai-pulni-boshqarib-bir-kunda-700-dollar-tejadi-bd0cb5",
+    "title": "AI pulni boshqarib, bir kunda 700 dollar tejadi",
+    "summary": "San-Fransiskolik 22 yoshli texnologiya asoschisi o'z pulini AIga boshqarishga ruxsat berdi. Uning ta'kidlashicha, birinchi kunning o'zida 700 dollar tejagan.",
+    "tags": [
+      "biznes",
+      "iqtisod"
+    ],
+    "importance": 2,
+    "score": 7,
+    "published": "2026-10-03T12:30:53.000Z",
+    "created": "2026-10-03T21:43:39.812Z",
+    "coverage": 1,
+    "source": {
+      "name": "moneywise.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPLU9RdUtickpvTFB6M2EwU1NlOU1qYkRlX0RhNWJNOG5PZ2RIdFpXWGZtMXcwa0p0cTlNNmhacENfX1ZaR21nREpVUGtCUWl5dTF4UlpEZWFTNjdMYXVxeGFjalpTanFXaFhEODdEdFNhd195ek1jOXd0a05QNzhsWXl1QlAtbENHbXVwbm16U3pweF96b2w3UTNSbw",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "9e6066e3dbf6",
+    "slug": "google-bepul-ai-xizmatlariga-ozgartirish-kiritmoqda-9e6066",
+    "title": "Google bepul AI xizmatlariga o'zgartirish kiritmoqda",
+    "summary": "Google o'zining bepul AI xizmatlariga o'zgartirishlar kiritmoqda. Foydalanuvchilar bu o'zgarishlar haqida ma'lumot olishlari kerak.",
+    "tags": [
+      "Google",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 7,
+    "published": "2026-10-03T11:14:04.000Z",
+    "created": "2026-10-03T21:43:39.812Z",
+    "coverage": 1,
+    "source": {
+      "name": "nokiapoweruser.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdVdJUjMzWS02SXpXYmp0TVNINWJLWDdCYXktN2VPU0FSbzRrZmItOHMxQTNqSGhmZVhZRnAwR3g3VmQyYzhxMkpnVXVKZEYyTjh6TzhSTzdJWDBYR2EtbWZqM0VCanB3OFhfMC0wSHNReGFhS09rcmE1SGRabjJIblpwb3JfWFpLcXlFSDFUVlBkN2R5QmlN",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "6d2bead15341",
     "slug": "skott-bessent-ai-rahbarlarini-gannibal-lekterga-oxshatdi-6d2bea",
     "title": "Skott Bessent AI rahbarlarini Gannibal Lekterga o'xshatdi",
