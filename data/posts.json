@@ -1,5 +1,203 @@
 [
   {
+    "id": "b6ac97d16750",
+    "slug": "raqamli-firma-miyasi-kitobi-nashr-etildi-b6ac97",
+    "title": "«Raqamli firma miyasi» kitobi nashr etildi",
+    "summary": "Habr nashri \"Raqamli firma miyasi\" kitobi nashr etilganini ma'lum qildi. Kitobda sun'iy intellektning korxonalar ichida oddiy ish vositasiga aylanishi tahlil qilingan.",
+    "tags": [
+      "biznes",
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 11,
+    "published": "2026-10-03T12:17:58.000Z",
+    "created": "2026-10-03T12:36:49.587Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1089984",
+      "title": "Опубликована книга «Цифровой мозг фирмы»",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "f9086a80eb04",
+    "slug": "google-ai-hisoblash-infratuzilmasini-kosmosga-olib-chiqmoqda-f9086a",
+    "title": "Google AI hisoblash infratuzilmasini kosmosga olib chiqmoqda",
+    "summary": "Google’ning Project Suncatcher loyihasi TPU chiplari bilan jihozlangan sun’iy yo‘ldoshlar orqali AI hisoblash infratuzilmasini kosmosda sinovdan o‘tkazmoqda. Bu loyiha AI imkoniyatlarini kosmik muhitda qo‘llashni o‘rganishga qaratilgan.",
+    "tags": [
+      "Google",
+      "chiplar"
+    ],
+    "importance": 3,
+    "score": 48,
+    "published": "2026-10-03T09:17:24.000Z",
+    "created": "2026-10-03T12:37:05.663Z",
+    "coverage": 1,
+    "source": {
+      "name": "Pivot",
+      "url": "https://pivot.uz/uz/google-ai-hisoblash-infratuzilmasini-kosmosga-olib-chiqmoqda",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "40a2ca1f009d",
+    "slug": "metaning-mashhur-ai-ilovasi-ortidagi-milliarder-40a2ca",
+    "title": "Meta'ning mashhur AI ilovasi ortidagi milliarder",
+    "summary": "WSJ nashri Meta'ning muvaffaqiyatli AI ilovasi ortida turgan milliarder haqida xabar berdi. Bu shaxsning o'ziga xos uslubi va memlarga qiziqishi qayd etilgan.",
+    "tags": [
+      "Meta",
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 26.4,
+    "published": "2026-10-02T23:00:00.000Z",
+    "created": "2026-10-03T12:37:05.663Z",
+    "coverage": 1,
+    "source": {
+      "name": "WSJ",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5YX3laMUtZSWRNdXl6TlhHZVVsZjdDWEJrd3ZJUU92UnJYV1VhekVKeTJ5VjN2Vk4teU9OZWVSSDVsYVBnR1BMaW1laFI3NE1hSDBpdm1pZWZwOXozVlZhamlWR2FXc2t2eW5mMg",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "8cc169a582d8",
+    "slug": "ai-foydalanuvchi-hissiyotlarini-qanday-tushunadi-8cc169",
+    "title": "AI foydalanuvchi hissiyotlarini qanday tushunadi",
+    "summary": "Habr nashri neyrotarmoqlarning foydalanuvchi hissiyotlarini tushunish qobiliyatini tahlil qildi. So'rovda 500 kishining 17,2%i ruhiy salomatlik masalalarida ChatGPT'dan yordam so'raganini bildirdi.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 20,
+    "published": "2026-10-03T12:18:31.000Z",
+    "created": "2026-10-03T12:37:05.663Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/companies/bothub/articles/1089986",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "860a624940b4",
+    "slug": "oltita-ai-kompaniyasi-oq-uy-bilan-kelishuv-imzoladi-860a62",
+    "title": "Oltita AI kompaniyasi Oq uy bilan kelishuv imzoladi",
+    "summary": "Wired nashri xabariga ko'ra, oltita yirik AI kompaniyasi Oq uy bilan xavfsizlik choralarini amalga oshirish bo'yicha ixtiyoriy kelishuv imzoladi. Ushbu kelishuvning ahamiyati aniq emas.",
+    "tags": [
+      "xavfsizlik",
+      "siyosat"
+    ],
+    "importance": 3,
+    "score": 2.2,
+    "published": "2026-09-30T20:30:09.000Z",
+    "created": "2026-10-03T12:37:05.663Z",
+    "coverage": 1,
+    "source": {
+      "name": "Wired",
+      "url": "https://wired.com/story/trumps-ai-safety-accord-is-a-fancy-pinky-swear",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "c43833b694cf",
+    "slug": "ai-qanday-qilib-yangi-axloqiy-hokimiyatga-aylandi-c43833",
+    "title": "AI qanday qilib yangi axloqiy hokimiyatga aylandi",
+    "summary": "Bioengineer.org nashri til modellarining dunyodagi eng yangi axloqiy hokimiyatga aylanishi haqida yozdi. Maqolada AI \"yo'q\" deganda nima sodir bo'lishi tahlil qilingan.",
+    "tags": [
+      "tadqiqot",
+      "siyosat"
+    ],
+    "importance": 3,
+    "score": 2.1,
+    "published": "2026-10-02T12:21:54.000Z",
+    "created": "2026-10-03T12:37:05.663Z",
+    "coverage": 1,
+    "source": {
+      "name": "Bioengineer.org",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMkxDNWtDUXFCVDF1RUJKVV9rR1BuVHU2dEJwNEo3RzhkWkRSc1JYUmhROHFiRk9FVTlpbEVHOXBYdGFnRFdrOW5Xam1SNmdBSklpRnZWOEhqUU5laHFrZjc4RzRDVmp3WnJReGFMUGNaMngwRU1RWVQ2ZjltWnN5dDBac2p4WklfQWhTU0hhR0xyU0ROUVVZN1dpdDdaUDR5eld6QkZB",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "d4171e5c745f",
+    "slug": "america-gov-chatboti-hot-doglar-bilan-toldirilgan-d4171e",
+    "title": "America.gov chatboti hot doglar bilan to'ldirilgan",
+    "summary": "The Register xabariga ko'ra, America.gov saytining yangi chatboti hot doglar haqidagi ma'lumotlar bilan to'ldirilgan. Undan so'ralganda, u 4-iyulning sevimli taomini taqdim etadi.",
+    "tags": [
+      "agentlar",
+      "siyosat"
+    ],
+    "importance": 1,
+    "score": -1.6,
+    "published": "2026-09-30T21:07:03.000Z",
+    "created": "2026-10-03T12:37:05.663Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/public-sector/2026/09/30/hot-dog-americas-new-chatbot-is-packed-with-wieners/5300292",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "9b9fcc6157a1",
+    "slug": "metaning-ai-internetni-toldirishi-mumkin-9b9fcc",
+    "title": "Meta'ning AI internetni to'ldirishi mumkin",
+    "summary": "YourStory.com nashri Meta'ning sun'iy intellekti internetni ma'lumotlar bilan to'ldirishi mumkinligini xabar qildi. Bu AI kontentining keng tarqalishi bilan bog'liq xavotirlarni keltirib chiqarmoqda.",
+    "tags": [
+      "Meta",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": -1.7,
+    "published": "2026-10-02T02:51:54.000Z",
+    "created": "2026-10-03T12:37:05.663Z",
+    "coverage": 1,
+    "source": {
+      "name": "YourStory.com",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSzBiQjRrQWljRnVIVjZGZEhvOUVDZGMzb3Q4N2hjZGVXcWw0VkpfN1NJM0Y5THNuT2dMSXJsX2p4dk9Dajg2dWtIS0d4cGNXcjRNa212RGZxaUVsaTlUS19TSWJaa2RiSGJXazBKcHA3bTQyNFR1dmUtblpPOTFlSVRFcnN3QWZ2THc",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "d348598d13f5",
+    "slug": "dig-ventures-yevropa-ai-startaplariga-120-mln-jalb-qildi-d34859",
+    "title": "Dig Ventures Yevropa AI startaplariga $120 mln jalb qildi",
+    "summary": "Sifted xabariga ko'ra, Dig Ventures Yevropaning AI infratuzilma startaplarini qo'llab-quvvatlash uchun 120 million dollar sarmoya jalb qildi. Bu mablag' mintaqadagi AI rivojiga yo'naltiriladi.",
+    "tags": [
+      "biznes",
+      "iqtisod"
+    ],
+    "importance": 3,
+    "score": -2.4,
+    "published": "2026-10-01T05:00:40.000Z",
+    "created": "2026-10-03T12:37:05.663Z",
+    "coverage": 1,
+    "source": {
+      "name": "Sifted",
+      "url": "https://sifted.eu/articles/dig-ventures-fund-europe-ai-infrastructure",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "aa101b86afdc",
     "slug": "meta-ai-uchun-dunyodagi-eng-yirik-suv-osti-kabel-tarmogini-q-aa101b",
     "title": "Meta AI uchun dunyodagi eng yirik suv osti kabel tarmog'ini qurmoqda",
