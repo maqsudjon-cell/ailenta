@@ -1,39 +1,172 @@
 [
   {
     "id": "aa101b86afdc",
-    "slug": "meta-suvosti-kabellari-tarmogini-kengaytirmoqda-aa101b",
-    "title": "Meta suvosti kabellari tarmog'ini kengaytirmoqda",
-    "summary": "Meta kompaniyasi 6 qit'ani qamrab oluvchi eng yirik suvosti kabel tarmoqlaridan birini qurmoqda. Yangi Petal kabeli kompaniyaning AI talablari uchun ma'lumot o'tkazish quvvatini oshirishga qaratilgan 20 dan ortiq loyihalaridan biridir.",
+    "slug": "meta-ai-uchun-dunyodagi-eng-yirik-suv-osti-kabel-tarmogini-q-aa101b",
+    "title": "Meta AI uchun dunyodagi eng yirik suv osti kabel tarmog'ini qurmoqda",
+    "summary": "Meta AI'ga bo'lgan talabni qondirish uchun dunyodagi eng yirik suv osti kabel tarmoqlaridan birini qurmoqda. Petal kabeli kompaniyaning 20 dan ortiq suv osti loyihalaridan biridir. Bu AI uchun ma'lumotlar sig'imini oshirishga qaratilgan.",
     "tags": [
       "Meta",
       "bulut"
     ],
-    "importance": 3,
+    "importance": 4,
     "score": 19,
     "published": "2026-10-03T10:44:00.000Z",
-    "created": "2026-10-03T12:01:40.620Z",
+    "created": "2026-10-03T12:08:06.514Z",
     "coverage": 1,
     "source": {
       "name": "Fortune",
       "url": "https://fortune.com/2026/10/03/meta-building-undersea-cables-petal-us-france-mark-zuckerberg",
+      "title": "Meta is building one of the world’s biggest undersea cable networks—it’s just one piece of a growing seafloor empire spanning 6 continents",
       "indirect": false
     },
     "also": [],
     "model": "gemini"
   },
   {
+    "id": "0bb7da254e14",
+    "slug": "metaning-muse-agenti-dostlar-haqida-profillar-yaratmoqda-0bb7da",
+    "title": "Meta'ning Muse agenti do'stlar haqida profillar yaratmoqda",
+    "summary": "Millionlab foydalanuvchilar Meta'ning Muse AI agentini yuklab olgan. Biroq, undan foydalanish maxfiylik bilan bog'liq xarajatlarga olib kelishi mumkin. Agent foydalanuvchilarning do'stlari va oila a'zolari haqida batafsil profillar yaratadi.",
+    "tags": [
+      "Meta",
+      "maxfiylik"
+    ],
+    "importance": 4,
+    "score": 26,
+    "published": "2026-10-03T12:00:00.000Z",
+    "created": "2026-10-03T12:08:52.963Z",
+    "coverage": 1,
+    "source": {
+      "name": "Wired",
+      "url": "https://wired.com/story/muse-creates-detailed-profiles-of-all-your-friends-and-family",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "3ffec8d41b22",
+    "slug": "anthropic-va-papa-leo-ai-boyicha-qarama-qarshi-fikrda-3ffec8",
+    "title": "Anthropic va Papa Leo AI bo'yicha qarama-qarshi fikrda",
+    "summary": "Anthropic va Papa Leo XIV bahsli AI konsepsiyasi bo'yicha qarama-qarshi fikrda ekanligi ma'lum bo'ldi. Bu ikki tomonning sun'iy intellektga yondashuvida farqlar bor.",
+    "tags": [
+      "Anthropic",
+      "siyosat"
+    ],
+    "importance": 3,
+    "score": 10,
+    "published": "2026-10-03T00:43:56.000Z",
+    "created": "2026-10-03T12:08:52.963Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fast Company",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9EMzk0Z2dndlBnc096eXhoTG1vcGtlSnpIV2x6TG9qdXJlMXNKSXRlSkxVTDV5VDhrWE1qX0dzRUQ2ejk5bTY1WDVPUnU3LTlyVmszN0xlcUtMS0dQbXJvNVdRcVJqMFVZYVhwaGtrWVhjZ1phaHQ0",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "7429c68cfddb",
+    "slug": "anthropicning-2-trillionlik-ai-orzusi-ziddiyatlarga-asoslang-7429c6",
+    "title": "Anthropic'ning $2 trillionlik AI orzusi ziddiyatlarga asoslangan",
+    "summary": "Anthropic kompaniyasining $2 trillionlik AI orzusi bir qator ziddiyatlarga asoslanganligi aytilmoqda. Bu kompaniyaning ulkan maqsadlariga erishish yo'lidagi murakkabliklarni ko'rsatadi.",
+    "tags": [
+      "Anthropic",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 7,
+    "published": "2026-10-03T08:04:00.000Z",
+    "created": "2026-10-03T12:08:52.963Z",
+    "coverage": 1,
+    "source": {
+      "name": "calcalistech.com",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9rUEZRYzJQa3pnZW94ZTgwbkVfNHExamktQ3l5NVhhdDBWWmJtYUxNTl9tWkdJZGxxSWM5RTBXMXpDZ0lyelU0Y0lHYXF2UmxuR1VVN2FwejVFVTZvcmh2V2NVZUJNdC16",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "6b732c73fcf3",
+    "slug": "sotib-olinmaydigan-ai-golibi-nvidiani-10-barobar-ortda-qoldi-6b732c",
+    "title": "Sotib olinmaydigan AI g'olibi Nvidia'ni 10 barobar ortda qoldirdi",
+    "summary": "Hali sotib olinmaydigan AI g'olibi Nvidia kompaniyasini 10 barobar ortda qoldirgani xabar qilindi. Bu AI sohasidagi yangi kuchli o'yinchi paydo bo'lganini ko'rsatadi.",
+    "tags": [
+      "Nvidia",
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 7,
+    "published": "2026-10-03T01:10:00.000Z",
+    "created": "2026-10-03T12:08:52.963Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Coin Republic",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQWxHdnhVLWJhQjA4b25XdXlwTDlRTm00Z2xuZFNCRlpaZnpHUGlidlVZcTdMNERyZVEyLWtLSjBoSWtzdnpFQW9FVUFkRlFXcnVZMkptSmM0WmVOMngzZ0ZrZFlWU1J2YXROQ1BYcy1NYUVIUUxPNXNtTUVWSC05dGhEeHNwaTk0X0FYdE8yMnZENUFJUjQzc2lXV3FXZ1lxZVRQczNyemPSAa4BQVVfeXFMT2Z5dWxDNWRkb01yME5kTTZnMVB5RFBPNm51OW8wbHVGNnZqUWxGNmVPOExMZEx6d2Y3TVNRUHFST2FPVTBldmxBUmpGMnRxc3g0RjFSQWdGblJWeWRiaU9fTHJQTXo3RHZOQS15UnJycnZJa2s2M0l1d3YzX2ZkbVFCSnRITnMwNXJMdFJjT3RsTnRQTXE5dDJuNk9QVlB6eE1FUThCRFAxQktuYmFR",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "c89c30143860",
+    "slug": "anthropicning-ai-rivoji-katta-xarajatlar-bilan-kelmoqda-c89c30",
+    "title": "Anthropic'ning AI rivoji katta xarajatlar bilan kelmoqda",
+    "summary": "Anthropic kompaniyasining sun'iy intellekt sohasidagi rivojlanishi katta moliyaviy xarajatlar bilan bog'liq. Bu kompaniyaning o'sishi uchun zarur bo'lgan investitsiyalarni ko'rsatadi.",
+    "tags": [
+      "Anthropic",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 4,
+    "published": "2026-10-02T16:37:29.000Z",
+    "created": "2026-10-03T12:08:52.963Z",
+    "coverage": 1,
+    "source": {
+      "name": "BankInfoSecurity",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQOV9yOGx3UnhxSDJrSXNOSE5LOWxvMHdkcVV6Vkx2NWJiQzZkcnpoV1llMWZTMVVTaThCQ1V5Nmpjb2tXbU5kbXZFVWZnbGFFcWVCeXVENjRNNGFibGxTaE55amItVWRoRkRybXNMb0ZrRlMxTEVTNy1VdWZBMnJOQTVsN3dlSkgtd1NMaV9vcEU",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "b27b13e32355",
+    "slug": "diniy-ulamolar-anthropic-bilan-uchrashuvdan-hayratda-qoldi-b27b13",
+    "title": "Diniy ulamolar Anthropic bilan uchrashuvdan hayratda qoldi",
+    "summary": "Diniy ulamolar Anthropic kompaniyasi bilan uchrashuv o'tkazdi. Ular eshitganlaridan hayratda qolishgani xabar qilindi.",
+    "tags": [
+      "Anthropic",
+      "siyosat"
+    ],
+    "importance": 3,
+    "score": 3.5,
+    "published": "2026-10-02T15:17:03.000Z",
+    "created": "2026-10-03T12:08:52.963Z",
+    "coverage": 1,
+    "source": {
+      "name": "Yahoo Tech",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZkFIdEFZZi1GZXVtcXBZOHFwcjZ0bVpiZWg1Q2VzRG8teDc4MDRycGlRajkxbWlhNld0X3pQb3hOMmgtUVVuR3lMS3hQN3pEbTlOSFBBbncxLU5vUlVSWFR0c3EtbHdnY09HNE1fY0dSLTZJNm1McFdnQ3prNTVfOHg3ajVzdlpRbmpURE1fUEFDN1BNR3pUME5xUQ",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "e675c143dc4c",
-    "slug": "anthropic-ai-epic-tizimidagi-xatolarni-aniqladi-e675c1",
-    "title": "Anthropic AI Epic tizimidagi xatolarni aniqladi",
-    "summary": "Epic kompaniyasi dasturiy ta'minot ishlab chiqishni to'xtatdi. Bunga Anthropic sun'iy intellekti 320 million bemor ma'lumotlarini xavf ostiga qo'ygan xatolarni aniqlagani sabab bo'ldi.",
+    "slug": "anthropic-320m-bemor-malumotini-fosh-etuvchi-xatolar-e675c1",
+    "title": "Anthropic 320M bemor ma'lumotini fosh etuvchi xatolar",
+    "summary": "Anthropic'ning AI'si 320 million bemor yozuvlarini fosh etuvchi xatolarni topganidan so'ng, Epic kompaniyasi ishlanmalarni to'xtatdi. Bu AI'ning xavfsizlikni ta'minlashdagi rolini ko'rsatadi.",
     "tags": [
       "Anthropic",
       "xavfsizlik"
     ],
-    "importance": 4,
-    "score": 3.1,
+    "importance": 5,
+    "score": 3,
     "published": "2026-10-02T14:11:48.000Z",
-    "created": "2026-10-03T12:01:40.620Z",
+    "created": "2026-10-03T12:08:52.963Z",
     "coverage": 1,
     "source": {
       "name": "Dealroom",
