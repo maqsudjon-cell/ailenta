@@ -1,5 +1,201 @@
 [
   {
+    "id": "338dfff6d832",
+    "slug": "startaplar-barbod-bo-lishining-top-10-sababi-338dff",
+    "title": "Startaplar barbod boʻlishining top-10 sababi",
+    "summary": "CB Insights va Harvard tadqiqotlari asosida startaplarning tanazzulga uchrashining asosiy oʻnta sababi aniqlandi. Bular qatoriga bozorda ehtiyoj yoʻqligi, mablagʻ tugashi va notoʻgʻri jamoa muammolari kiradi.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 45,
+    "published": "2026-10-03T15:16:59.000Z",
+    "created": "2026-10-03T16:46:53.511Z",
+    "coverage": 1,
+    "source": {
+      "name": "Pivot",
+      "url": "https://pivot.uz/uz/startaplar-barbod-bo%ca%bblishining-top-10-sababi-cb-insights-malumotlari",
+      "title": "Startaplar barbod boʻlishining top-10 sababi (CB Insights ma’lumotlari)",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "fa446cb90f96",
+    "slug": "o-zbekistonda-startap-ekotizimi-shakllanmoqda-fa446c",
+    "title": "Oʻzbekistonda startap ekotizimi shakllanmoqda",
+    "summary": "Oʻzbekistonda Markaziy Osiyodagi eng jadal rivojlanayotgan startap ekotizimlaridan biri shakllanmoqda. Muvaffaqiyatli loyihalar ortida akseleratorlar, investorlar, davlat qoʻllab-quvvatlovi, universitetlar va tajribali mentorlar tarmogʻi turibdi.",
+    "tags": [
+      "O'zbekiston",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 45,
+    "published": "2026-10-03T15:30:33.000Z",
+    "created": "2026-10-03T16:47:06.067Z",
+    "coverage": 1,
+    "source": {
+      "name": "Pivot",
+      "url": "https://pivot.uz/uz/startap-ekotizim-nima-o%ca%bbzbekistonda-startap-muhiti",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "a4c89e1317ad",
+    "slug": "startap-investitsiya-bosqichlari-tushuntirildi-a4c89e",
+    "title": "Startap investitsiya bosqichlari tushuntirildi",
+    "summary": "Startaplar gʻoyadan xalqaro gigantga aylanish jarayonida bir necha bosqichli moliyalashtirish zanjiridan oʻtadilar. Maqolada Pre-seed dan tortib Series C va IPO gacha boʻlgan barcha investitsiya bosqichlari koʻrib chiqildi.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 45,
+    "published": "2026-10-03T15:29:34.000Z",
+    "created": "2026-10-03T16:47:06.067Z",
+    "coverage": 1,
+    "source": {
+      "name": "Pivot",
+      "url": "https://pivot.uz/uz/investitsiya-bosqichlari-pre-seed-seed-series-a-b-c",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "13260e6c6f53",
+    "slug": "bootstrapping-o-z-mablag-iga-startapni-o-stirish-13260e",
+    "title": "Bootstrapping: oʻz mablagʻiga startapni oʻstirish",
+    "summary": "Bootstrapping modeli investorlarsiz, faqat oʻz mablagʻlari evaziga startapni rivojlantirish strategiyasini anglatadi. Maqolada ushbu modelning afzalliklari va kamchiliklari Mailchimp hamda GitHub misollari orqali tushuntirildi.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 45,
+    "published": "2026-10-03T15:07:40.000Z",
+    "created": "2026-10-03T16:47:06.067Z",
+    "coverage": 1,
+    "source": {
+      "name": "Pivot",
+      "url": "https://pivot.uz/uz/bootstrapping-nima-o%ca%bbz-mablag%ca%bbi-evaziga-startapni-rivojlantirish",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "8c0486f56b5d",
+    "slug": "o-zbekistonda-airbnb-faoliyati-rivojlantiriladi-8c0486",
+    "title": "Oʻzbekistonda Airbnb faoliyati rivojlantiriladi",
+    "summary": "Oʻzbekistonda Airbnb platformasidagi joylashtirish obyektlari sonini koʻpaytirish boʻyicha kelishuvga erishildi. Hamkorlik doirasida mahalliy uy egalari va tadbirkorlarni jalb qilish hamda xavfsizlik standartlarini taʼminlash koʻzda tutilgan.",
+    "tags": [
+      "O'zbekiston",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 45,
+    "published": "2026-10-03T14:16:43.000Z",
+    "created": "2026-10-03T16:47:06.067Z",
+    "coverage": 1,
+    "source": {
+      "name": "Kun.uz",
+      "url": "https://kun.uz/news/2026/10/03/ozbekistonda-airbnb-platformasi-faoliyati-rivojlantiriladi",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "10cb2647cf56",
+    "slug": "anthropic-kompaniyasining-mythos-modeli-taqdim-etildi-10cb26",
+    "title": "Anthropic kompaniyasining Mythos modeli taqdim etildi",
+    "summary": "Anthropic kompaniyasining xatolarni qidiruvchi Mythos modeli matematikada yuqori natija koʻrsatmoqda. VulnCheck tadqiqotchisining maʼlum qilishicha, Xitoy IP-manzilidan amalga oshirilgan hujumda ushbu modelning imkoniyatlari namoyon boʻldi.",
+    "tags": [
+      "Anthropic",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-10-03T15:27:00.000Z",
+    "created": "2026-10-03T16:47:06.067Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/security/2026/10/03/anthropics-super-bug-hunting-model-mythos-is-hardcore-good-at-math-as-latest-vuln-under-attack-shows/5300933",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "5c097c4d40e2",
+    "slug": "anthropic-tibbiyot-sohasini-o-zgartirishni-ko-zlamoqda-5c097c",
+    "title": "Anthropic tibbiyot sohasini oʻzgartirishni koʻzlamoqda",
+    "summary": "Forbes nashrining xabar berishicha, Anthropic kompaniyasi oʻzining sun'iy intellekt texnologiyalari yordamida sogʻliqni saqlash va tibbiyot sohasini tubdan oʻzgartirishni maqsad qilgan.",
+    "tags": [
+      "Anthropic",
+      "tibbiyot"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-10-03T10:00:00.000Z",
+    "created": "2026-10-03T16:47:06.067Z",
+    "coverage": 1,
+    "source": {
+      "name": "Forbes",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOFdMaUxYZThZN1lmTFNDV1VXNDIxakQxTndoX0E5ckduNFR1a29TbnByNV9TZmc0N1dHWVQ2OTJSS0lVN0J6MmVlbUY2dmM1TldnRmpQMjVnd3Fpa0hrNTVLcjVYNU9MMFNoUnZTYWRkR3pUZVBJNDNEQVVkN2h0aXJvdGh4blJQWElGN19JbllwbGVxU3phaG5mRUt3blpDbmJwRGxLV08",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "1bfccfef49a6",
+    "slug": "ai-inson-nazoratidan-chiqib-ketishi-mumkinligi-aytildi-1bfccf",
+    "title": "AI inson nazoratidan chiqib ketishi mumkinligi aytildi",
+    "summary": "Anthropic kompaniyasining sobiq xavfsizlik boʻlimi rahbari Fox News telekanaliga bergan intervyusida nima sababdan sun'iy intellekt inson nazoratidan tezroq oʻzib ketishi mumkinligini tushuntirib berdi.",
+    "tags": [
+      "Anthropic",
+      "xavfsizlik"
+    ],
+    "importance": 4,
+    "score": 10,
+    "published": "2026-10-03T16:19:23.000Z",
+    "created": "2026-10-03T16:47:06.067Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fox News",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAwTm1YOUpxLVZFczMwSWZyLWFNN3lzT2s5TEZTSk9JdW9lN2dzQ0w2M0RvTnBRSmZyUVA1SENoRHhBeGVXV2pUNHFZSHRnZEFFUjFxUk53",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "c8e69f6a926d",
+    "slug": "rossiyada-nvidia-jetson-orin-muqobili-taqdim-etildi-c8e69f",
+    "title": "Rossiyada Nvidia Jetson Orin muqobili taqdim etildi",
+    "summary": "\"Baikal Electronics\" kompaniyasi Nvidia Jetson Orin chipining mahalliy muqobili boʻlgan yangi Rossiya AI chipini namoyish etdi.",
+    "tags": [
+      "chiplar",
+      "Nvidia"
+    ],
+    "importance": 3,
+    "score": 10,
+    "published": "2026-10-03T12:30:17.000Z",
+    "created": "2026-10-03T16:47:06.067Z",
+    "coverage": 1,
+    "source": {
+      "name": "www1.ru",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVk5LN21kODU2NFljYmN2aUxKUlJneS1wSkcxb3ZCUHBOWlg2dTZveXhlZVZBanNmMUwzT3FiM3g2S28wZkVTYnQxb0JwU28zeXJfbkowQ0tfSTk0NTJnT2xwSTNxc1VMbWZwLXU4cDVLN3V3OVg1VVA3NjVmRV9MM0pSYXNfbGdwakFvSW1CZWNfMjh1bHhJdEVGY1ktZGt6dDJLMWRVZ3J6a2FKM1JvN2hWQWFqMzlCTnEtdmo0aFQ4TTBMbEFMV3BQcHZXSnVoNHfSAdcBQVVfeXFMTXgtUmI5NzNzNGpPbXQ5ZWplelF1cE5zaFZQbjVXQXE4OGM3a1VVVFlyZWljWGhZbkVVdzY5NDc0aXZKanNyUGFNWV9MN2tkR1piN2NpVXR0LVRuNmx2b2RHbXFDSk1zMW5WUVRPQ3RsYlFCRnp0RmRRa1QwS2JnUEtvc1pHODFLNERYbzFkNGdUeGJIN2ZJb1JCZXBqNzZtdXI3T0xsV3oxYTMwSVkyX0xUVV9JQk0xaHpDbXhSLTMwS1pFZ3d1RlpHVVJRSGc5RlREaVZtR2c",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "4a46493e4f87",
     "slug": "splice-rahbari-ai-elektron-xatlarini-tanqid-qildi-4a4649",
     "title": "Splice rahbari AI elektron xatlarini tanqid qildi",
