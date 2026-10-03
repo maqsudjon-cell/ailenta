@@ -1,5 +1,182 @@
 [
   {
+    "id": "a554dabed460",
+    "slug": "nima-dard-podkasti-va-ai-haqida-tahlil-a554da",
+    "title": "«Nima dard?» podkasti va AI haqida tahlil",
+    "summary": "«Nima dard?» podkastining so'nggi sonida tomoshabinlar fikrlari tahlil qilindi. Unda kitob o'qimaydigan jamiyat, vaksinadan qo'rquv va insonni o'rganayotgan sun'iy intellekt kabi mavzular muhokama etildi.",
+    "tags": [
+      "O'zbekiston"
+    ],
+    "importance": 2,
+    "score": 48,
+    "published": "2026-10-03T06:45:29.000Z",
+    "created": "2026-10-03T11:01:44.152Z",
+    "coverage": 1,
+    "source": {
+      "name": "Kun.uz",
+      "url": "https://kun.uz/news/2026/10/03/nima-dard-aslida-kimning-dardi-jurnalistlarsiz-podkast-haqida",
+      "title": "«Nima dard?» aslida kimning dardi? Jurnalistlarsiz podkast haqida.",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "75aa0a04ecd8",
+    "slug": "ai-kriptoanalizda-xatolarni-topish-vaqtini-qisqartirdi-75aa0a",
+    "title": "AI kriptoanalizda xatolarni topish vaqtini qisqartirdi",
+    "summary": "Sun'iy intellekt kriptoanaliz sohasida xatolarni topish vaqtini oylardan soatlarga qisqartirdi. Bu AI'ning murakkab tizimlardagi zaifliklarni aniqlashdagi samaradorligini ko'rsatadi.",
+    "tags": [
+      "xavfsizlik",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 7,
+    "published": "2026-10-03T10:07:30.000Z",
+    "created": "2026-10-03T11:01:49.776Z",
+    "coverage": 1,
+    "source": {
+      "name": "Quantum Zeitgeist",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQYUx6TnFpS1IwZVRURW5CYUd4TUlOWEpTVWJvNllxMlZJQlg0ZzhUVkluTGk0U3RIdVNxTlRGZHV4UEFfcWxNS0hibUwwV1oxOUxSNUpMV0h5RURHNmRMWGpFQUdWSU5WUVFXcUdQdVZZTkQ0ZFRJV2RxTXpreVpZcEdOMXZLWFk",
+      "title": "AI Cryptanalysis Compresses Flaw-finding Time From Months To Hours.",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "2b94985b1b4a",
+    "slug": "fourierqk-filtr-shakli-va-diqqat-mexanizmlari-tadqiqoti-2b9498",
+    "title": "FourierQK: Filtr shakli va diqqat mexanizmlari tadqiqoti",
+    "summary": "Tadqiqotchilar FourierQK modelida filtr shakli va diqqat mexanizmlarining samaradorligini o'rgandi. Ular beshta filtr xususiyati bo'yicha gipotezalarni sinovdan o'tkazib, asosiy natijalarni aniqladi.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 1,
+    "score": 7,
+    "published": "2026-10-03T04:00:00.000Z",
+    "created": "2026-10-03T11:01:56.944Z",
+    "coverage": 1,
+    "source": {
+      "name": "arXiv cs.LG",
+      "url": "https://arxiv.org/abs/2610.00009",
+      "title": "FourierQK: Filter Shape, Admissibility and the Leakage-Coverage Law",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "0c80bd43570d",
+    "slug": "ai-arzonlashsa-ham-elektr-energiyasiga-talab-oshishi-mumkin-0c80bd",
+    "title": "AI arzonlashsa ham, elektr energiyasiga talab oshishi mumkin",
+    "summary": "Konsalting firmalari AI arzonlashgani sari elektr energiyasiga bo'lgan talab oshishda davom etishini ta'kidlamoqda. McKinsey va BCG hisobotlarida token narxlarining pasayishi va elektr tarmog'iga ta'siri ko'rsatilgan.",
+    "tags": [
+      "iqtisod",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-10-03T09:59:01.000Z",
+    "created": "2026-10-03T11:02:13.268Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/cheaper-ai-models-may-strain-power-grid-consulting-firms-say-2026-10",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "410fdc2911e6",
+    "slug": "ai-tanqidiy-fikrlashni-susaytiruvchi-ikki-odat-410fdc",
+    "title": "AI tanqidiy fikrlashni susaytiruvchi ikki odat",
+    "summary": "BCG rahbari sun'iy intellektga bog'liqlik tanqidiy fikrlashni susaytirishi mumkin bo'lgan ikki odatni qayd etdi. Uning fikricha, bu ko'nikmalarning yo'qolishi \"ekzistensial xavf\" tug'diradi.",
+    "tags": [
+      "mehnat bozori",
+      "ta'lim"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-10-03T09:50:01.000Z",
+    "created": "2026-10-03T11:02:13.268Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/bcg-exec-shares-ai-habits-weaken-critical-thinking-2026-10",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "76cf16cb7075",
+    "slug": "aini-muzokaralarda-qatiyatli-bolishga-orgatish-76cf16",
+    "title": "AI'ni muzokaralarda qat'iyatli bo'lishga o'rgatish",
+    "summary": "Tadqiqotda AI modellarini muzokaralarda qat'iyatli bo'lishga o'rgatish usullari o'rganildi. Oddiy rol o'ynash yetarli emasligi, modelning o'z-o'zidan yon beruvchanligi ta'kidlandi.",
+    "tags": [
+      "tadqiqot",
+      "agentlar"
+    ],
+    "importance": 2,
+    "score": 11,
+    "published": "2026-10-03T09:37:31.000Z",
+    "created": "2026-10-03T11:02:13.268Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1089894",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "620d52ab88b3",
+    "slug": "musk-anthropicni-tanqid-qildi-spacex-kelishuvi-oshdi-620d52",
+    "title": "Musk Anthropicni tanqid qildi, SpaceX kelishuvi oshdi",
+    "summary": "Elon Musk Anthropic AI'ni \"yovuz\" deb ataganiga qaramay, uning SpaceX bilan tuzgan kelishuvi qariyb ikki baravar oshib, 84,5 milliard dollarga yetdi. Bu biznes va shaxsiy fikrlar o'rtasidagi ziddiyatni ko'rsatadi.",
+    "tags": [
+      "Anthropic",
+      "biznes"
+    ],
+    "importance": 4,
+    "score": 7,
+    "published": "2026-10-03T09:34:52.000Z",
+    "created": "2026-10-03T11:02:13.268Z",
+    "coverage": 1,
+    "source": {
+      "name": "moneywise.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOeE5XQjNTYVJVM1hOMTkzcW5NUExMdC1wU2lpMWZnR09MRjZwc19rbl9aNUtEYjByZ2RMdHlGX3RkRVdRLTQwcVhhQUE2OXdtdzZ6MHV1RkJRckdwdWtMWHc3b2V1cmtJRE5kRmg1SDhWdWU2Q0lkTTluME53UGNLUV8wWDhhMDVSMmY4",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "9b835f01227a",
+    "slug": "aidan-kriptovalyuta-bozoridagi-yetakchi-tanga-soraldi-9b835f",
+    "title": "AI'dan kriptovalyuta bozoridagi yetakchi tanga so'raldi",
+    "summary": "Nashr sun'iy intellektdan oktyabr oyida qaysi kriptovalyuta yetakchi bo'lishini so'radi. AI XRP, Solana, Hyperliquid yoki NEAR orasidan eng yaxshisini aniqlashga harakat qildi.",
+    "tags": [
+      "iqtisod",
+      "biznes"
+    ],
+    "importance": 1,
+    "score": 7,
+    "published": "2026-10-03T01:38:00.000Z",
+    "created": "2026-10-03T11:02:13.268Z",
+    "coverage": 1,
+    "source": {
+      "name": "24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQUGV6ZlgyNjFNQzZVYk43RG12LXdEZFd3R19Fcmc4aWpJYTZHQkloNjBKMEVsWG5yeVFCQlI5aHJTYk9QdV9QYXRNSGducEZQdXFCYm5FaUh2UTdTVURDNldlMXRINDd1WFBaZmVOWXpXYlZhMDJoenB2Z1k5V1Bxdk9rNy05R3J1RllFTnZkRVVlTkYtLV9DZERjWkRaWmtncllXUFMtam9vMXhFVFd3T1Nfc2I3di0zcWhpbXBreUlJSnlWVllJWk90bjE5VzZUanZMN2xR",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "4db8b7735b02",
     "slug": "mtplx-va-omlx-serverlari-taqqoslandi-4db8b7",
     "title": "MTPLX va oMLX serverlari taqqoslandi",
