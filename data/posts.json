@@ -1,5 +1,75 @@
 [
   {
+    "id": "50ffc488b606",
+    "slug": "microsoft-7-oktabrda-windows-va-ai-tadbirini-o-tkazadi-50ffc4",
+    "title": "Microsoft 7-oktabrda Windows va AI tadbirini o‘tkazadi",
+    "summary": "Microsoft kompaniyasi 7-oktabr kuni Windows, Surface va AI masalalariga bag‘ishlangan tadbir o‘tkazadi. Unda Nvidia RTX Spark bilan ishlaydigan Surface Laptop Ultra taqdim etilishi kutilmoqda.",
+    "tags": [
+      "Microsoft",
+      "Nvidia"
+    ],
+    "importance": 3,
+    "score": 18,
+    "published": "2026-10-02T13:30:00.000Z",
+    "created": "2026-10-03T00:37:27.751Z",
+    "coverage": 1,
+    "source": {
+      "name": "Engadget",
+      "url": "https://engadget.com/2275196/microsoft-surface-windows-event-october-7-preview",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "a352109ea212",
+    "slug": "amd-va-nvidia-aksiyalari-narxi-ko-tarildi-a35210",
+    "title": "AMD va Nvidia aksiyalari narxi ko‘tarildi",
+    "summary": "Yarimo‘tkazgichlar bozoridagi o‘sish fonida AMD aksiyalari 3 foizga, Nvidia esa 2 foizga qimmatlashdi. Shuningdek, Arm aksiyalari narxi ham 8 foizga ko‘tarilgan.",
+    "tags": [
+      "AMD",
+      "Nvidia"
+    ],
+    "importance": 3,
+    "score": 13,
+    "published": "2026-10-02T15:47:31.000Z",
+    "created": "2026-10-03T00:37:27.751Z",
+    "coverage": 2,
+    "source": {
+      "name": "AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBJUFQwYUlzdXN4M3ZMMG5lWXEtYmRzSVZndVZoQ0d5bnRCSjdheWxMc2xnd0Y2VjlQNU5vakZnR2JIOUgtZVpEQlduVkxjRU5PR2d5cmFjZjF6U3gxNE9GVW5maHpzNmd5Uk9TaUp5bkR2MU1LZE44",
+      "indirect": true
+    },
+    "also": [
+      {
+        "name": "24/7 Wall St.",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQOUVMNnlzM3F6SjRudU9qR25WZnl1bklOSVozNWJJVVhZSTE4dUZDTDdxc3RyaDd1djVwYmdnV1dyS2hITnJ4REtGMmVJeC0xN1REMXVGOGp5dTU0RHNacERQYW1wMzZ0M0ZzZTNJWmZKeDl5b19PQmNzRjBCSS1wWVkwRFFNOFJJNlFfVUFBYlNJVnd1NndsZG5jcmFHYTJHVVl1QWcyTS1ueVo2bEJCZ1hKd2F2Zw"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "658cd200f866",
+    "slug": "anthropic-asoschisi-papaning-ai-tadbiridan-voz-kechmoqchi-658cd2",
+    "title": "Anthropic asoschisi Papaning AI tadbiridan voz kechmoqchi",
+    "summary": "Anthropic hammuassisi Kris Olax Papa Leo XIV ning sun'iy intellekt bo‘yicha ensiklikasi taqdimotida ishtirok etishdan bosh tortish bilan tahdid qildi. Bu haqda ommaviy axboras vositalari xabar bermoqda.",
+    "tags": [
+      "Anthropic"
+    ],
+    "importance": 3,
+    "score": 10,
+    "published": "2026-10-02T23:30:00.000Z",
+    "created": "2026-10-03T00:37:27.752Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Cool Down",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPaEV6UmVjc29WWjZEWkF1azA4LUhXdFhycmp0cVR1bDByWllETFdjbFVnLWdfM2hRdlJJWXJtZEVtQmp2Rk1JZGxlRE5BUjRqcko2Y0d5UXJwVVBHVllpcXFnUEgwRE1lZUdPSlRVQWg0OHRNemJzWVFSVWluNXlEa3VoOWI",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "3a910c8cb6d3",
     "slug": "ai-sababli-odamlar-eshitish-qobiliyatini-yo-qotishi-mumkin-3a910c",
     "title": "AI sababli odamlar eshitish qobiliyatini yo‘qotishi mumkin",
