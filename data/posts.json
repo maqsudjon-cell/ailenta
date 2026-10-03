@@ -1,5 +1,138 @@
 [
   {
+    "id": "1bad689a3696",
+    "slug": "sobiq-kongressmen-david-rivera-10-yilga-qamaldi-1bad68",
+    "title": "Sobiq kongressmen David Rivera 10 yilga qamaldi",
+    "summary": "Sobiq GOP vakili David Rivera 50 million dollarlik lobbichilik uchun 10 yilga qamaldi. U pul yuvish va xorijiy agent sifatida ro'yxatdan o'tmaganlikda aybdor deb topilgan.",
+    "tags": [
+      "siyosat",
+      "qonun"
+    ],
+    "importance": 2,
+    "score": 19,
+    "published": "2026-10-02T20:49:39.000Z",
+    "created": "2026-10-03T00:46:27.134Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/10/02/former-gop-rep-david-rivera-10-years-prison-50-million-maduro",
+      "title": "‘He sold his anti-communism to communists’: Former GOP Rep. David Rivera gets 10 years in prison for $50 million lobbying ‘from the Maduro regime’",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "f709b8e7fb47",
+    "slug": "bir-brauzerda-foydali-qidiruv-vositasi-mavjud-f709b8",
+    "title": "Bir brauzerda foydali qidiruv vositasi mavjud",
+    "summary": "The Washington Post xabariga ko'ra, bir brauzerda foydali qidiruv vositasi bor. U AI-birinchi javoblardan tanaffus qilish imkonini beradi.",
+    "tags": [
+      "biznes",
+      "maxfiylik"
+    ],
+    "importance": 1,
+    "score": 23,
+    "published": "2026-10-02T14:00:00.000Z",
+    "created": "2026-10-03T00:46:47.482Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Washington Post",
+      "url": "https://washingtonpost.com/technology/2026/10/02/search-without-ai-or-your-browser-history-with-mozilla-firefox",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "8ae48c8dd8c5",
+    "slug": "har-bir-saas-biznesi-model-atrofida-shakllanadi-8ae48c",
+    "title": "Har bir SaaS biznesi model atrofida shakllanadi",
+    "summary": "Hacker News xabariga ko'ra, har bir SaaS biznesi model atrofida shakllanadi. Bu AI modellarining biznesga integratsiyasi haqida fikrdir.",
+    "tags": [
+      "biznes",
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 18.4,
+    "published": "2026-10-02T21:06:56.000Z",
+    "created": "2026-10-03T00:46:47.482Z",
+    "coverage": 1,
+    "source": {
+      "name": "Hacker News",
+      "url": "https://blog.sshh.io/p/the-harness-is-the-company",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "61a0639f814e",
+    "slug": "kichik-biznes-egalari-aidan-marketingda-qanday-foydalanadi-61a063",
+    "title": "Kichik biznes egalari AI'dan marketingda qanday foydalanadi",
+    "summary": "Business Insider xabariga ko'ra, uchta kichik biznes egasi AI'dan marketing kampaniyalarida foydalanish tajribalari bilan bo'lishdi. Ular AI'ning afzalliklari va kamchiliklarini aytib o'tishdi.",
+    "tags": [
+      "biznes",
+      "mehnat bozori"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-10-02T18:52:22.000Z",
+    "created": "2026-10-03T00:46:47.482Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/small-business-marketing-benefits-downsides-ai-tools-2026-10",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "20a7cf25e1fa",
+    "slug": "elon-musk-bilan-munosabatlari-tugagan-shivon-zilis-kim-20a7cf",
+    "title": "Elon Musk bilan munosabatlari tugagan Shivon Zilis kim",
+    "summary": "Neuralink direktori Shivon Zilis Elon Muskning to'rt farzandining onasi va OpenAI sobiq boshqaruv kengashi a'zosi. U Musk bilan munosabatlari tugaganini aytdi.",
+    "tags": [
+      "OpenAI",
+      "biznes"
+    ],
+    "importance": 1,
+    "score": 15,
+    "published": "2026-10-02T17:47:57.000Z",
+    "created": "2026-10-03T00:46:47.482Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/shivon-zilis-reported-mother-elon-musk-twins-2022-7",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "e51235461b0b",
+    "slug": "anthropic-vatikanni-ai-ongi-pozitsiyasini-ozgartirishga-unda-e51235",
+    "title": "Anthropic Vatikanni AI ongi pozitsiyasini o'zgartirishga undadi",
+    "summary": "Anthropic kompaniyasi Vatikanni sun'iy intellekt ongi bo'yicha o'z pozitsiyasini qayta ko'rib chiqishga undadi. Bu haqda Diya TV xabar berdi.",
+    "tags": [
+      "Anthropic",
+      "siyosat"
+    ],
+    "importance": 3,
+    "score": 10,
+    "published": "2026-10-02T22:27:00.000Z",
+    "created": "2026-10-03T00:46:47.482Z",
+    "coverage": 1,
+    "source": {
+      "name": "Diya TV",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMV82d243M0g1T01mcFVyYnNFdV9iSENNeHlWekxHNnZlalVlbWtKVVYxeW5TOGlYYXBDYjZXaTRjUV9xWU9VMVJBVm5pLXhEOXo5Mnh5Mnk1Mkd0LVJWOTBjazVmSW40Wlp3X1FnUWVpV0ZTR09NaXVxOVo5eU93OEdub1ZzRmJRNTRLQ2FtY1E",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "50ffc488b606",
     "slug": "microsoft-7-oktabrda-windows-va-ai-tadbirini-o-tkazadi-50ffc4",
     "title": "Microsoft 7-oktabrda Windows va AI tadbirini o‘tkazadi",
