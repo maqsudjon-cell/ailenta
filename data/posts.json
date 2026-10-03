@@ -1,5 +1,49 @@
 [
   {
+    "id": "aa101b86afdc",
+    "slug": "meta-suvosti-kabellari-tarmogini-kengaytirmoqda-aa101b",
+    "title": "Meta suvosti kabellari tarmog'ini kengaytirmoqda",
+    "summary": "Meta kompaniyasi 6 qit'ani qamrab oluvchi eng yirik suvosti kabel tarmoqlaridan birini qurmoqda. Yangi Petal kabeli kompaniyaning AI talablari uchun ma'lumot o'tkazish quvvatini oshirishga qaratilgan 20 dan ortiq loyihalaridan biridir.",
+    "tags": [
+      "Meta",
+      "bulut"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-10-03T10:44:00.000Z",
+    "created": "2026-10-03T12:01:40.620Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/10/03/meta-building-undersea-cables-petal-us-france-mark-zuckerberg",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "e675c143dc4c",
+    "slug": "anthropic-ai-epic-tizimidagi-xatolarni-aniqladi-e675c1",
+    "title": "Anthropic AI Epic tizimidagi xatolarni aniqladi",
+    "summary": "Epic kompaniyasi dasturiy ta'minot ishlab chiqishni to'xtatdi. Bunga Anthropic sun'iy intellekti 320 million bemor ma'lumotlarini xavf ostiga qo'ygan xatolarni aniqlagani sabab bo'ldi.",
+    "tags": [
+      "Anthropic",
+      "xavfsizlik"
+    ],
+    "importance": 4,
+    "score": 3.1,
+    "published": "2026-10-02T14:11:48.000Z",
+    "created": "2026-10-03T12:01:40.620Z",
+    "coverage": 1,
+    "source": {
+      "name": "Dealroom",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcVlQWXBTQnV4OXFicVRMNGRIUE9fMkg1X1puZjN5WmhsWEMwRmdjaE1vZjZ1VlN0alJ4WXFMeDA2WXlpZjZHSGZEVWN0Y3YyZU10RlVfd25vQ1NFYUdmb3Z0RGRhZy1LMDRNcW9VV1Q2dEZqT2plcHhhYTBsajVhbXM4bEU2cU5rcW15c3hXQmI2VDZhNGphRnpMeEN2aUNZR2VVSUdudHRqZ2wzbERkSDFkenlnZWZoVkE",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "a554dabed460",
     "slug": "nima-dard-podkasti-va-ai-haqida-tahlil-a554da",
     "title": "«Nima dard?» podkasti va AI haqida tahlil",
