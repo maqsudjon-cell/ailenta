@@ -1,5 +1,92 @@
 [
   {
+    "id": "caddf7584c39",
+    "slug": "jahon-banki-qozog-iston-startaplariga-75-mln-ajratadi-caddf7",
+    "title": "Jahon banki Qozog‘iston startaplariga $75 mln ajratadi",
+    "summary": "Jahon banki Qozog‘istonda yuqori texnologiyali startaplarni rivojlantirish uchun $75 mln kredit ajratishni ma'qulladi. Bu loyiha yangi ish o‘rinlari yaratish va xususiy investitsiyalarni jalb qilishga qaratilgan.",
+    "tags": [
+      "biznes",
+      "iqtisod"
+    ],
+    "importance": 3,
+    "score": 48,
+    "published": "2026-10-04T06:33:59.000Z",
+    "created": "2026-10-04T08:02:17.892Z",
+    "coverage": 1,
+    "source": {
+      "name": "Pivot",
+      "url": "https://pivot.uz/uz/jahon-banki-qozogistondagi-yuqori-texnologiyali-startaplar-uchun-75-mln-ajratadi",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "8b8ee112998c",
+    "slug": "talabalar-aining-talimdagi-o-rni-haqida-fikr-bildirdi-8b8ee1",
+    "title": "Talabalar AIning ta’limdagi o‘rni haqida fikr bildirdi",
+    "summary": "YouTube'da sun'iy intellektning ta'lim jarayonidagi o'rni haqida talabalarning fikrlari yoritildi. Unda yoshlarning AIga munosabati va uning o'qishga ta'siri muhokama qilindi.",
+    "tags": [
+      "ta'lim"
+    ],
+    "importance": 2,
+    "score": 42.5,
+    "published": "2026-10-03T16:10:52.000Z",
+    "created": "2026-10-04T08:02:17.892Z",
+    "coverage": 1,
+    "source": {
+      "name": "YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE83SC1ON3FqOWVFRUNndlBsV1ByS3RJUkV0ekEzWGRlMzFpb2JDUHlnVXpnTVZZa1QteDRReEZ3cU1KMHZGS01KRlA0aU1kRFBrM3NLclk1MDhrNWZm",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "35bd0af10352",
+    "slug": "deepmind-aining-kelajagi-haqida-yangi-nazariya-taklif-qildi-35bd0a",
+    "title": "DeepMind AIning kelajagi haqida yangi nazariya taklif qildi",
+    "summary": "DeepMind tadqiqotchilari \"Sun'iy Simbiotik Intellekt\" nazariyasini ilgari surdi. Unga ko'ra, umumiy AI yagona supermodel emas, balki agentlar va insonlar tarmog'i sifatida rivojlanadi.",
+    "tags": [
+      "Google",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 17.1,
+    "published": "2026-10-03T10:21:23.000Z",
+    "created": "2026-10-04T08:02:17.892Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/deepmind-researchers-propose-artificial-symbiotic-intelligence-as-an-alternative-to-the-singularity",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "498400752595",
+    "slug": "tesla-ai-chiplarining-xotira-hajmini-qisqartirdi-498400",
+    "title": "Tesla AI chiplarining xotira hajmini qisqartirdi",
+    "summary": "Tesla ta'minot tanqisligi sababli AI chiplarining xotira hajmini qisqartirdi. Bu haqda 조선일보 nashri xabar berdi.",
+    "tags": [
+      "Tesla",
+      "chiplar"
+    ],
+    "importance": 4,
+    "score": 7,
+    "published": "2026-10-04T06:51:03.000Z",
+    "created": "2026-10-04T08:02:17.892Z",
+    "coverage": 1,
+    "source": {
+      "name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNS1I2MHhqR1JDNkRBYnU2c0o4U3hPVjhwNzhvTWx1SFRUU0NOVno4b3hiY21kWDBzUlVPWnlvUW16YkxnVFlNWEJsaXJ6Y3pnVzZaNEdUemFSUWEzM3BENDdDSm5HNldIU0xjM21kVFY4ZVQ1MGwxQU9WTnVxOUJFdzUwT240OHFa",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "95d988910f95",
     "slug": "toshiba-ai-malumot-markazlari-uchun-hdd-ishlab-chiqarishni-o-95d988",
     "title": "Toshiba AI ma'lumot markazlari uchun HDD ishlab chiqarishni oshiradi",
