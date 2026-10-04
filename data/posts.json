@@ -1,5 +1,49 @@
 [
   {
+    "id": "7f0fe70b7438",
+    "slug": "sobiq-vitse-gubernator-aybsizligini-ai-bilan-isbotlamoqchi-7f0fe7",
+    "title": "Sobiq vitse-gubernator aybsizligini AI bilan isbotlamoqchi",
+    "summary": "Nyu-Jersi shtatining sobiq vitse-gubernatori Deyl Kolduell o'zining aybsizligini isbotlash uchun sun'iy intellektdan foydalanmoqda. U jinsiy tegajog'lik mojarosi sababli 25-sentabr kuni iste'foga chiqishga majbur bo'lgan edi.",
+    "tags": [
+      "siyosat"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-10-04T16:16:04.000Z",
+    "created": "2026-10-04T18:01:01.544Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Verge",
+      "url": "https://theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true",
+      "title": "NJ’s former Lt Gov is using AI to say he’s innocent of sexual harassment",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "7cfe0d136916",
+    "slug": "anthropic-yoshlar-uchun-ai-dasturini-boshladi-7cfe0d",
+    "title": "Anthropic yoshlar uchun AI dasturini boshladi",
+    "summary": "Anthropic kompaniyasi yoshlar uchun 150 million dollarlik sun'iy intellektni o'qitish dasturini ishga tushirdi. Mazkur tashabbus yosh avlod vakillariga mo'ljallangan.",
+    "tags": [
+      "Anthropic",
+      "ta'lim"
+    ],
+    "importance": 4,
+    "score": 13,
+    "published": "2026-10-04T14:55:34.000Z",
+    "created": "2026-10-04T18:01:06.055Z",
+    "coverage": 1,
+    "source": {
+      "name": "Inshorts",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOR0tZaEpUYVZYTEhnV0tNVVhDdTZwc0NkZ3F0aUR5TmVodDNBN0l2VDl0aEoxQXNaWFA4UEQwV3VTSEg5VXJSd0FhOVpmbHo2MC1WYWdkTUZCSDB5SEs4X3c5d0UtX1hJSlZISkpKdWE5U3pwRjFMTlZFSGpTTDZoTlI5QVlZOThHQk11QnNPbTRhTVQ0WHZScWV2aHlpMkdEM1F3dk04ZlZhaUlr0gGsAUFVX3lxTE5HS1loSlRhVlhMSGdXS01VWEN1NnBzQ2RncXRpRHlOZWh0M0E3SXZUOXRoSjFBc1pYUDhQRDBXdVNISDlVclJ3QWE5WmZsejYwLVZhZ2RNRkJIMHlISzhfdzl3RS1fWElKVkhKSkp1YTlTenBGMUxOVkVIalNMNmhOUjlBWVk5OEdCTXVCc09tNGFNVDRYdlJxZXZoeWkyR0QzUXd2TThmVmFpSWs",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "a696f6b54e10",
     "slug": "ai-agentlarining-yangi-arxitektura-metodologiyasi-a696f6",
     "title": "AI agentlarining yangi arxitektura metodologiyasi",
