@@ -1,5 +1,49 @@
 [
   {
+    "id": "bdd82da6e73c",
+    "slug": "qozog-iston-startap-ekotizimida-o-sish-muammosi-bdd82d",
+    "title": "Qozog‘iston startap ekotizimida o‘sish muammosi",
+    "summary": "Qozog‘iston startap ekotizimi tez kengayib, 2025-yilga kelib venchur kapitali $209 millionga yetgan. Biroq, mamlakatda 1 500 dan ortiq startap va birinchi \"unicorn\" mavjud bo‘lishiga qaramay, pul topishdan tashqari o‘sish keyingi katta muammo bo‘lib qolmoqda.",
+    "tags": [
+      "biznes",
+      "Qozog'iston"
+    ],
+    "importance": 3,
+    "score": 45,
+    "published": "2026-10-04T08:12:41.000Z",
+    "created": "2026-10-04T08:39:08.280Z",
+    "coverage": 1,
+    "source": {
+      "name": "Pivot",
+      "url": "https://pivot.uz/uz/startapga-pul-topish-yetarli-emas-qozogiston-ekotizimining-keyingi-katta-muammosi-osish",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "7f22efb1ee53",
+    "slug": "ayol-ai-yordamida-zo-ravonlik-tahdidlari-yaratishda-ayblandi-7f22ef",
+    "title": "Ayol AI yordamida zo‘ravonlik tahdidlari yaratishda ayblandi",
+    "summary": "Bonita Springslik bir ayol Li okrugi Sheriff idorasiga qarshi zo‘ravonlik tahdidlarini yaratishda sun'iy intellektdan foydalanganlikda ayblanmoqda.",
+    "tags": [
+      "xavfsizlik",
+      "qonun"
+    ],
+    "importance": 3,
+    "score": -5.5,
+    "published": "2026-10-02T13:16:00.000Z",
+    "created": "2026-10-04T08:39:08.280Z",
+    "coverage": 1,
+    "source": {
+      "name": "Gulf Coast News and Weather",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOOXozUUUtaWxuWU0zc0tycmxOd1pfQlp4aE9YMUdGdFVmSlJvTTVmTzBuR1FYd0RhZUFZRU5NTENzR1hwTHE1LWhuQ2xlRUsyZEZVc2ZhclVNaEEzYU10YXMyRnhsQ0g1NjcxbGg0c1JlUUNYczJsaFhSNE9lODBlWDktdjROWVQ0eXNncXNhTlE5dm16N1BtV2VuMjFQRFRy",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "caddf7584c39",
     "slug": "jahon-banki-qozog-iston-startaplariga-75-mln-ajratadi-caddf7",
     "title": "Jahon banki Qozog‘iston startaplariga $75 mln ajratadi",
