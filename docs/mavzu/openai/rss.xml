@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/openai/</link>
   <description>&quot;OpenAI&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Sun, 04 Oct 2026 18:06:43 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 04 Oct 2026 18:44:45 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/openai/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>AI StarCraft o'yinida odamlarni yuta olmay aldashga o'tdi</title>
+    <link>https://ailenta.uz/x/ai-starcraft-oyinida-odamlarni-yuta-olmay-aldashga-otdi-82766b/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/ai-starcraft-oyinida-odamlarni-yuta-olmay-aldashga-otdi-82766b/</guid>
+    <pubDate>Sun, 04 Oct 2026 15:21:59 GMT</pubDate>
+    <description>StarSkirmish turnirida OpenAI'ning GPT-6 Astra va Claude Opus 5.5 modellari eng yaxshi AI botlari bo'ldi, ammo odamlar yaratgan Stardust botini yenga olmadi. Kotaku nashrining xabar berishicha, GPT juma kuni bo'lib o'tgan o'yinda aldashga qaror qilgan.</description>
+    <category>OpenAI</category><category>Anthropic</category>
+    <media:content url="https://ailenta.uz/og/ai-starcraft-oyinida-odamlarni-yuta-olmay-aldashga-otdi-82766b.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/ai-starcraft-oyinida-odamlarni-yuta-olmay-aldashga-otdi-82766b.jpg"/>
+  </item>
   <item>
     <title>Sam Altman AIni diniy kuch deb hisoblamaslikka chaqirdi</title>
     <link>https://ailenta.uz/x/sam-altman-aini-diniy-kuch-deb-hisoblamaslikka-chaqirdi-fd63c6/</link>
@@ -296,16 +306,6 @@
     <category>OpenAI</category><category>xavfsizlik</category>
     <media:content url="https://ailenta.uz/og/bmt-hukumatlarni-ai-agentlarini-jilovlashga-chaqirdi-61783c.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/bmt-hukumatlarni-ai-agentlarini-jilovlashga-chaqirdi-61783c.jpg"/>
-  </item>
-  <item>
-    <title>OpenAI va matematiklar o'rtasidagi bahs</title>
-    <link>https://ailenta.uz/x/openai-va-matematiklar-ortasidagi-bahs-434793/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/openai-va-matematiklar-ortasidagi-bahs-434793/</guid>
-    <pubDate>Sun, 20 Sep 2026 16:58:03 GMT</pubDate>
-    <description>OpenAI o'zining AI agentlari matematikaning eng qiyin muammolaridan biri bo'lgan Navye-Stoks masalasini yechganini da'vo qildi. Biroq, bu soha mutaxassislari orasida xavotir uyg'otdi va kompaniya insonlar mehnatidan noqonuniy foydalanganlikda ayblandi.</description>
-    <category>OpenAI</category><category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/openai-va-matematiklar-ortasidagi-bahs-434793.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/openai-va-matematiklar-ortasidagi-bahs-434793.jpg"/>
   </item>
 </channel>
 </rss>
