@@ -1,5 +1,54 @@
 [
   {
+    "id": "4b138ee5b031",
+    "slug": "altman-ai-foydasi-uchun-xatarlarga-konishga-chaqirdi-4b138e",
+    "title": "Altman AI foydasi uchun xatarlarga ko'nishga chaqirdi",
+    "summary": "OpenAI rahbari Sam Altman sun'iy intellektning foydalari sababli dunyo ayrim salbiy oqibatlarga ko'nishi kerakligini aytdi. U fojiali xatarlarni rad etib, insonlar AI orqali yomonlikdan ko'ra ko'proq yaxshi ishlar qilishiga ishonch bildirdi.",
+    "tags": [
+      "OpenAI",
+      "xavfsizlik"
+    ],
+    "importance": 4,
+    "score": 21,
+    "published": "2026-10-04T21:01:01.000Z",
+    "created": "2026-10-04T21:36:30.274Z",
+    "coverage": 2,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/sam-altman-says-ai-benefits-outweigh-some-bad-things-happening-2026-10",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "Business Insider",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNEJoclZPTTIzaGRxWmxtclhXWENKLXBrNzNrQ21qY0VFZDZIQ2dCOEFJQ2c3bWV0QTlFbmZiZ29HLVpTMEcwdS0xV09BM2owOE16TFNqaFJVSjhEdVlTaW9sSExfQ1J6TVE5V3dDXzJJakV6ODBSMlVwcHYxR0VPQXNEWW5NLTV5MHhyRFJFeXhrT3NWYWswNHR3YUpvWFkxa3FReg"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "bc54229286cf",
+    "slug": "meta-muse-agenti-odamlar-haqida-malumot-toplaydi-bc5422",
+    "title": "Meta Muse agenti odamlar haqida ma'lumot to'playdi",
+    "summary": "Wired xabariga ko'ra, Meta'ning Muse AI agenti foydalanuvchi hayotidagi har bir inson uchun alohida profil tuzadi. Unda faktlar, munosabatlar tarixi va maslahatlar jamlanadi. Bu esa millionlab yuklab olingan agentda jiddiy maxfiylik muammolarini keltirib chiqarmoqda.",
+    "tags": [
+      "Meta",
+      "maxfiylik"
+    ],
+    "importance": 4,
+    "score": 18,
+    "published": "2026-10-04T19:30:01.000Z",
+    "created": "2026-10-04T21:36:30.274Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/261004/p16",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "fb514e83ae1c",
     "slug": "apple-intelligence-funksiyalarini-ochirish-usuli-fb514e",
     "title": "Apple Intelligence funksiyalarini o'chirish usuli",
