@@ -5,7 +5,7 @@
   <link>https://ailenta.uz/mavzu/chiplar/</link>
   <description>&quot;chiplar&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Sun, 04 Oct 2026 00:42:38 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 04 Oct 2026 01:04:35 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/chiplar/rss.xml" rel="self" type="application/rss+xml"/>
   <item>
     <title>Rossiyada Nvidia Jetson Orin muqobili taqdim etildi</title>
@@ -56,6 +56,16 @@
     <category>Nvidia</category><category>chiplar</category>
     <media:content url="https://ailenta.uz/og/maykl-byurri-nvidia-chiplari-narxidan-ogohlantirdi-072029.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/maykl-byurri-nvidia-chiplari-narxidan-ogohlantirdi-072029.jpg"/>
+  </item>
+  <item>
+    <title>Lumentum bosh direktori lazer tanqisligi haqida ogohlantirdi</title>
+    <link>https://ailenta.uz/x/lumentum-bosh-direktori-lazer-tanqisligi-haqida-ogohlantirdi-796f53/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/lumentum-bosh-direktori-lazer-tanqisligi-haqida-ogohlantirdi-796f53/</guid>
+    <pubDate>Fri, 02 Oct 2026 09:41:34 GMT</pubDate>
+    <description>Lumentum bosh direktori lazer tanqisligi sun'iy intellekt chiplari yetishmovchiligidan uzoqroq davom etishi mumkinligini aytdi. Bu ogohlantirish texnologiya sanoatida yangi muammolarni ko'rsatadi.</description>
+    <category>chiplar</category><category>biznes</category>
+    <media:content url="https://ailenta.uz/og/lumentum-bosh-direktori-lazer-tanqisligi-haqida-ogohlantirdi-796f53.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/lumentum-bosh-direktori-lazer-tanqisligi-haqida-ogohlantirdi-796f53.jpg"/>
   </item>
   <item>
     <title>Nvidia chiplari AQSH nazoratiga qaramay Xitoyga yetmoqda</title>
@@ -296,16 +306,6 @@
     <category>Nvidia</category><category>chiplar</category>
     <media:content url="https://ailenta.uz/og/lg-nvidia-ai-infratuzilmasi-uchun-cduni-sertifikatladi-df8264.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/lg-nvidia-ai-infratuzilmasi-uchun-cduni-sertifikatladi-df8264.jpg"/>
-  </item>
-  <item>
-    <title>GTX 1080 Ti'da MoE-modelni ishga tushirish tajribasi</title>
-    <link>https://ailenta.uz/x/gtx-1080-tida-moe-modelni-ishga-tushirish-tajribasi-0272e9/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/gtx-1080-tida-moe-modelni-ishga-tushirish-tajribasi-0272e9/</guid>
-    <pubDate>Sat, 26 Sep 2026 17:26:17 GMT</pubDate>
-    <description>Habr nashri Qwen 3.8-Flash-Next modelini GTX 1080 Ti videokartasida ishga tushirish bo'yicha tajribalarini bo'lishdi. Tadqiqotchilar DeltaNet + attention arxitekturasi uzun kontekst bilan samarali ishlashini tasdiqladi.</description>
-    <category>chiplar</category><category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/gtx-1080-tida-moe-modelni-ishga-tushirish-tajribasi-0272e9.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/gtx-1080-tida-moe-modelni-ishga-tushirish-tajribasi-0272e9.jpg"/>
   </item>
 </channel>
 </rss>
