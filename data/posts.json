@@ -1,5 +1,92 @@
 [
   {
+    "id": "ca0a45c0070b",
+    "slug": "ai-sababli-insonlar-fikrlashdan-toxtamoqda-ca0a45",
+    "title": "AI sababli insonlar fikrlashdan to'xtamoqda",
+    "summary": "Foydalanuvchilar sun'iy intellekt bergan natijalarni tekshirmasdan qabul qilmoqda. Bu esa odamlarning AI vositalaridan foydalanishda miyani passiv rejimga o'tkazib qo'yishiga sabab bo'lyapti.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 11,
+    "published": "2026-10-04T09:01:33.000Z",
+    "created": "2026-10-04T10:01:21.587Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/companies/ruvds/articles/1089700",
+      "title": "[Перевод] Отключение мозга ничего хорошего не сулит",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "18f3dae8c0d8",
+    "slug": "ai-sanoatini-tartibga-solishda-1930-yillar-tajribasi-18f3da",
+    "title": "AI sanoatini tartibga solishda 1930-yillar tajribasi",
+    "summary": "Sun'iy intellekt sanoati hozirda asosan tartibga solinmagan bo'lib, bu uning keng ko'lamli zarar keltirishi mumkinligi haqidagi xavotirlarni oshirmoqda. Mutaxassislar buni 1930-yillardagi moliya sanoati holatiga o'xshatmoqda.",
+    "tags": [
+      "siyosat",
+      "xavfsizlik"
+    ],
+    "importance": 2,
+    "score": 19,
+    "published": "2026-10-04T09:30:00.000Z",
+    "created": "2026-10-04T10:01:26.681Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/10/04/how-fdr-roosevelt-would-regulate-ai",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "9effe25be8de",
+    "slug": "ai-ishga-olish-jarayonini-murakkablashtirdi-9effe2",
+    "title": "AI ishga olish jarayonini murakkablashtirdi",
+    "summary": "Sun'iy intellekt ishga yollash jarayonida ortiqcha shovqinlarni ko'paytirdi. Biroq, nomzodlarning boshqalardan ajralib turishi uchun asosiy talablar o'zgarmasdan qolmoqda.",
+    "tags": [
+      "mehnat bozori"
+    ],
+    "importance": 2,
+    "score": 19,
+    "published": "2026-10-04T07:00:00.000Z",
+    "created": "2026-10-04T10:01:26.681Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/10/04/job-search-tips-ai-hiring-recruiter",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "7cad64f70f0a",
+    "slug": "claude-yordamida-ish-topgan-nomzod-tajribasi-7cad64",
+    "title": "Claude yordamida ish topgan nomzod tajribasi",
+    "summary": "Ish izlovchi shaxs Claude modelidan karyera murabbiyi sifatida foydalandi. U arizalarni kuzatish va suhbatlar natijasini tahlil qilish orqali muvaffaqiyatli ishga joylashdi.",
+    "tags": [
+      "Anthropic",
+      "mehnat bozori"
+    ],
+    "importance": 2,
+    "score": 18,
+    "published": "2026-10-04T09:49:01.000Z",
+    "created": "2026-10-04T10:01:26.681Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/job-seeker-used-claude-track-search-improve-interviews-2026-10",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "c409b3d7cb66",
     "slug": "ai-texnologiya-sohasidagi-ish-orinlarini-kamaytirmadi-c409b3",
     "title": "AI texnologiya sohasidagi ish o'rinlarini kamaytirmadi",
