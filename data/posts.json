@@ -1,5 +1,115 @@
 [
   {
+    "id": "d33ad462a6f2",
+    "slug": "avtonom-ai-buzilishlari-huquqiy-masuliyatni-kotardi-d33ad4",
+    "title": "Avtonom AI buzilishlari huquqiy mas'uliyatni ko'tardi",
+    "summary": "Avtonom AI tomonidan amalga oshirilgan buzilishlar huquqiy mas'uliyat bo'yicha murakkab savollarni keltirib chiqarmoqda. Bu holat AI tizimlarining javobgarligi masalasini kun tartibiga qo'ydi.",
+    "tags": [
+      "qonun",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 7,
+    "published": "2026-10-04T11:01:00.000Z",
+    "created": "2026-10-04T12:36:07.528Z",
+    "coverage": 1,
+    "source": {
+      "name": "inquirer.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVFE4OFBtdEQwcUY4bnRZcFdYYWd4d0NpNUcwYnVHZjR6TzVXWjk5bUlxRTU3b2U0U05qWmRUbTNNYWQxcEduNG5GWFRPcTVuOFpPVjNKSkpyeGVCTHN6QzhIUFNVNXdfVVBIMExlSDkxSng4Yl84blp5SnhQZTNXa0kyQTJaMmNmQmxqdnpDc2ZvenBNLUQzbkU2eXVhbFk",
+      "title": "Autonomous AI hacks raise thorny questions of legal accountability",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "3280bd23020a",
+    "slug": "apple-google-meta-ai-qurilmalarini-rivojlantirmoqda-3280bd",
+    "title": "Apple, Google, Meta AI qurilmalarini rivojlantirmoqda",
+    "summary": "Apple, Google va Meta kompaniyalari yangi AI qurilmalari va yordamchilarini ishlab chiqmoqda. Biroq, taqiladigan qurilmalar bilan bog'liq maxfiylik muammolari kuchaymoqda.",
+    "tags": [
+      "maxfiylik",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-10-04T12:00:01.000Z",
+    "created": "2026-10-04T12:36:17.688Z",
+    "coverage": 1,
+    "source": {
+      "name": "CNBC",
+      "url": "https://cnbc.com/2026/10/04//ai-wearables-oura-ipo-privacy.html",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "3a976da2236a",
+    "slug": "dasturchi-ai-agentlaridan-foydalanish-tajribasi-3a976d",
+    "title": "Dasturchi AI agentlaridan foydalanish tajribasi",
+    "summary": "Dasturchi AI agentlari va IDE plaginlarining kodlash va disk raskadrovka qilishdagi samaradorligini kashf etdi. Bu vositalar Stack Overflow kabi an'anaviy yechimlarni almashtirib, loyihalarga qiziqishni qaytargan.",
+    "tags": [
+      "agentlar"
+    ],
+    "importance": 2,
+    "score": 14,
+    "published": "2026-10-04T10:36:50.000Z",
+    "created": "2026-10-04T12:36:17.688Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1090128",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "48fd5dfac156",
+    "slug": "ai-agentlari-jonli-saytlarni-tuzatmoqda-48fd5d",
+    "title": "AI agentlari jonli saytlarni tuzatmoqda",
+    "summary": "Dasturchi AI agentlaridan jonli veb-saytlarni tuzatishda foydalanish tajribasi bilan bo'lishdi. Agentlar endi CMS tuzilmalarini tushunib, murakkab vazifalarni mustaqil bajarishga qodir.",
+    "tags": [
+      "agentlar",
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 11,
+    "published": "2026-10-04T11:02:27.000Z",
+    "created": "2026-10-04T12:36:17.688Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1090118",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "deac09547028",
+    "slug": "n8n-yordamida-seo-agenti-yaratildi-deac09",
+    "title": "n8n yordamida SEO agenti yaratildi",
+    "summary": "Organik trafik pasayganidan so'ng, foydalanuvchi uchta veb-sayt uchun n8n platformasida SEO agentini yaratdi. Agent ma'lumotlarni to'playdi, tahlil qiladi va kuchli AI modeliga vazifalar belgilaydi.",
+    "tags": [
+      "agentlar",
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 11,
+    "published": "2026-10-04T09:44:40.000Z",
+    "created": "2026-10-04T12:36:17.688Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1090116",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "ca0a45c0070b",
     "slug": "ai-sababli-insonlar-fikrlashdan-toxtamoqda-ca0a45",
     "title": "AI sababli insonlar fikrlashdan to'xtamoqda",
