@@ -1,5 +1,96 @@
 [
   {
+    "id": "fb514e83ae1c",
+    "slug": "apple-intelligence-funksiyalarini-ochirish-usuli-fb514e",
+    "title": "Apple Intelligence funksiyalarini o'chirish usuli",
+    "summary": "Foydalanuvchilar iPhone va macOS tizimlarida Apple Intelligence sun'iy intellekt funksiyalarini cheklash yoki butunlay o'chirib qo'yish imkoniyatiga ega. Buning uchun maxsus sozlamalar va vositalardan foydalaniladi.",
+    "tags": [
+      "Apple",
+      "maxfiylik"
+    ],
+    "importance": 3,
+    "score": 24.4,
+    "published": "2026-10-04T19:42:25.000Z",
+    "created": "2026-10-04T21:01:32.722Z",
+    "coverage": 2,
+    "source": {
+      "name": "Hacker News",
+      "url": "https://github.com/omlahore/RemoveMacAI",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "Engadget",
+        "url": "https://engadget.com/2274326/how-to-disable-restrict-iphone-apple-intelligence-features"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "567a67be4150",
+    "slug": "macos-uchun-rasmlarni-ai-orqali-qidirish-vositasi-567a67",
+    "title": "macOS uchun rasmlarni AI orqali qidirish vositasi",
+    "summary": "macOS operatsion tizimida har bir rasm va videoning har bir kadrini sun'iy intellekt yordamida qidirish imkonini beruvchi yangi vosita taqdim etildi.",
+    "tags": [
+      "Apple"
+    ],
+    "importance": 2,
+    "score": 19.8,
+    "published": "2026-10-04T09:24:52.000Z",
+    "created": "2026-10-04T21:01:32.722Z",
+    "coverage": 1,
+    "source": {
+      "name": "Hacker News",
+      "url": "https://github.com/allenv0/SCM",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "cdb58d364c0b",
+    "slug": "fulcrum-echo-har-qanday-yozuvchi-uslubida-matn-yaratadi-cdb58d",
+    "title": "Fulcrum Echo har qanday yozuvchi uslubida matn yaratadi",
+    "summary": "Fulcrum Echo sun'iy intellekt vositasi matnlarni istalgan yozuvchining uslubida yozib berishni va'da qilmoqda. Nashr jurnalisti ushbu tizimni amalda sinovdan o'tkazdi.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 19,
+    "published": "2026-10-04T15:15:00.000Z",
+    "created": "2026-10-04T21:01:32.722Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/ai-and-ml/2026/10/04/fulcrum-echo-promises-ai-text-in-the-style-of-any-writer-so-i-tested-it/5300944",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "34128da37aeb",
+    "slug": "anthropic-claude-etikasi-boyicha-maslahat-oldi-34128d",
+    "title": "Anthropic Claude etikasi bo'yicha maslahat oldi",
+    "summary": "Anthropic kompaniyasi Claude modelining etikasi va AI xavfsizligi masalalarida Svami Sarvapriyananda bilan maslahatlashdi.",
+    "tags": [
+      "Anthropic",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 10,
+    "published": "2026-10-04T13:36:28.000Z",
+    "created": "2026-10-04T21:01:32.722Z",
+    "coverage": 1,
+    "source": {
+      "name": "The420.in",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUFc4UHJTZUdkYTlwdnQ0NnNvVnVnSFZlS2hlODJPTlV6VEdjM01MZlFURVBTNEJUbFNzU1FFbVNkNDItUTJqYUtiTjBYZUJTaGVFSTN5d1Bra3dxVEozU2p0SXdqaE1naUV3cjFNT2RvUUtmYmFRUjhDOWYtNk5NRmNGaWE4bkMycHBwcXhhVXE",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "82766b523787",
     "slug": "ai-starcraft-oyinida-odamlarni-yuta-olmay-girromlik-qildi-82766b",
     "title": "AI StarCraft o'yinida odamlarni yuta olmay g'irromlik qildi",
