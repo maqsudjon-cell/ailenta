@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/agentlar/</link>
   <description>&quot;agentlar&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Sun, 04 Oct 2026 15:08:06 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 04 Oct 2026 15:40:52 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/agentlar/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>AI agentlarining yangi arxitektura metodologiyasi</title>
+    <link>https://ailenta.uz/x/ai-agentlarining-yangi-arxitektura-metodologiyasi-a696f6/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/ai-agentlarining-yangi-arxitektura-metodologiyasi-a696f6/</guid>
+    <pubDate>Sun, 04 Oct 2026 15:30:28 GMT</pubDate>
+    <description>Habr nashrida AI agentlarini boshqarish uchun yangi metodologiya muhokama qilindi. Unda direktoriyalar strukturasi agent arxitekturasi sifatida ko'rib chiqiladi. Bu usul inson tekshiruvi talab qilinadigan ketma-ket jarayonlar uchun mavjud freymvorklarga nisbatan samaraliroq bo'lishi mumkin.</description>
+    <category>agentlar</category><category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/ai-agentlarining-yangi-arxitektura-metodologiyasi-a696f6.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/ai-agentlarining-yangi-arxitektura-metodologiyasi-a696f6.jpg"/>
+  </item>
   <item>
     <title>AI agentlari jonli saytlarni tuzatmoqda</title>
     <link>https://ailenta.uz/x/ai-agentlari-jonli-saytlarni-tuzatmoqda-48fd5d/</link>
@@ -296,16 +306,6 @@
     <category>agentlar</category><category>xavfsizlik</category>
     <media:content url="https://ailenta.uz/og/ai-agentlari-uchun-markazlashgan-skill-omborlari-99c8af.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/ai-agentlari-uchun-markazlashgan-skill-omborlari-99c8af.jpg"/>
-  </item>
-  <item>
-    <title>Britaniya startapi AI'ni video o‘yinlar orqali o‘qitmoqda</title>
-    <link>https://ailenta.uz/x/britaniya-startapi-aini-video-o-yinlar-orqali-o-qitmoqda-298f77/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/britaniya-startapi-aini-video-o-yinlar-orqali-o-qitmoqda-298f77/</guid>
-    <pubDate>Mon, 28 Sep 2026 09:00:00 GMT</pubDate>
-    <description>Britaniya startapi video o‘yinlardagi ma'lumotlardan foydalanib, AI modellarini real dunyoda harakatlanishga o‘rgatmoqda. Bu AI'ning jismoniy dunyoda qo‘llanilishini kengaytirishga yordam beradi.</description>
-    <category>tadqiqot</category><category>agentlar</category>
-    <media:content url="https://ailenta.uz/og/britaniya-startapi-aini-video-o-yinlar-orqali-o-qitmoqda-298f77.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/britaniya-startapi-aini-video-o-yinlar-orqali-o-qitmoqda-298f77.jpg"/>
   </item>
 </channel>
 </rss>

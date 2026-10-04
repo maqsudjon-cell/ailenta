@@ -5,8 +5,18 @@
   <link>https://ailenta.uz</link>
   <description>Dunyodagi sun'iy intellekt yangiliklari o'zbek tilida. Har soatda yangilanadi, har bir xabarda asl manbaga havola.</description>
   <language>uz</language>
-  <lastBuildDate>Sun, 04 Oct 2026 15:08:06 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 04 Oct 2026 15:40:52 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>AI agentlarining yangi arxitektura metodologiyasi</title>
+    <link>https://ailenta.uz/x/ai-agentlarining-yangi-arxitektura-metodologiyasi-a696f6/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/ai-agentlarining-yangi-arxitektura-metodologiyasi-a696f6/</guid>
+    <pubDate>Sun, 04 Oct 2026 15:30:28 GMT</pubDate>
+    <description>Habr nashrida AI agentlarini boshqarish uchun yangi metodologiya muhokama qilindi. Unda direktoriyalar strukturasi agent arxitekturasi sifatida ko'rib chiqiladi. Bu usul inson tekshiruvi talab qilinadigan ketma-ket jarayonlar uchun mavjud freymvorklarga nisbatan samaraliroq bo'lishi mumkin.</description>
+    <category>agentlar</category><category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/ai-agentlarining-yangi-arxitektura-metodologiyasi-a696f6.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/ai-agentlarining-yangi-arxitektura-metodologiyasi-a696f6.jpg"/>
+  </item>
   <item>
     <title>Anthropic hammuassisi hammuassis tanlash sirini aytdi</title>
     <link>https://ailenta.uz/x/anthropic-hammuassisi-hammuassis-tanlash-sirini-aytdi-6de2c4/</link>
@@ -496,16 +506,6 @@
     <category>Meta</category><category>bulut</category>
     <media:content url="https://ailenta.uz/og/meta-ai-uchun-dunyodagi-eng-yirik-suv-osti-kabel-tarmogini-q-aa101b.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/meta-ai-uchun-dunyodagi-eng-yirik-suv-osti-kabel-tarmogini-q-aa101b.jpg"/>
-  </item>
-  <item>
-    <title>DeepMind AIning kelajagi haqida yangi nazariya taklif qildi</title>
-    <link>https://ailenta.uz/x/deepmind-aining-kelajagi-haqida-yangi-nazariya-taklif-qildi-35bd0a/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/deepmind-aining-kelajagi-haqida-yangi-nazariya-taklif-qildi-35bd0a/</guid>
-    <pubDate>Sat, 03 Oct 2026 10:21:23 GMT</pubDate>
-    <description>DeepMind tadqiqotchilari &quot;Sun'iy Simbiotik Intellekt&quot; nazariyasini ilgari surdi. Unga ko'ra, umumiy AI yagona supermodel emas, balki agentlar va insonlar tarmog'i sifatida rivojlanadi.</description>
-    <category>Google</category><category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/deepmind-aining-kelajagi-haqida-yangi-nazariya-taklif-qildi-35bd0a.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/deepmind-aining-kelajagi-haqida-yangi-nazariya-taklif-qildi-35bd0a.jpg"/>
   </item>
 </channel>
 </rss>

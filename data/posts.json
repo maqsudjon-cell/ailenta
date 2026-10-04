@@ -1,5 +1,27 @@
 [
   {
+    "id": "a696f6b54e10",
+    "slug": "ai-agentlarining-yangi-arxitektura-metodologiyasi-a696f6",
+    "title": "AI agentlarining yangi arxitektura metodologiyasi",
+    "summary": "Habr nashrida AI agentlarini boshqarish uchun yangi metodologiya muhokama qilindi. Unda direktoriyalar strukturasi agent arxitekturasi sifatida ko'rib chiqiladi. Bu usul inson tekshiruvi talab qilinadigan ketma-ket jarayonlar uchun mavjud freymvorklarga nisbatan samaraliroq bo'lishi mumkin.",
+    "tags": [
+      "agentlar",
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 14,
+    "published": "2026-10-04T15:30:28.000Z",
+    "created": "2026-10-04T15:36:40.488Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1090196",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "c9023e9dd45e",
     "slug": "gpt-6-astra-napoleonning-shifrlangan-xatini-oqidi-c9023e",
     "title": "GPT-6 Astra Napoleonning shifrlangan xatini o'qidi",
