@@ -5,7 +5,7 @@
   <link>https://ailenta.uz/mavzu/tadqiqot/</link>
   <description>&quot;tadqiqot&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Mon, 05 Oct 2026 13:07:12 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 05 Oct 2026 14:06:03 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/tadqiqot/rss.xml" rel="self" type="application/rss+xml"/>
   <item>
     <title>AI yechilmagan matematik muammoni hal qildi</title>
@@ -66,6 +66,16 @@
     <category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/ai-modellar-ar-sahnalarini-baholashda-samarali-e34405.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/ai-modellar-ar-sahnalarini-baholashda-samarali-e34405.jpg"/>
+  </item>
+  <item>
+    <title>Dori qoldiqlarini aniqlovchi HyMLRaman tizimi taklif qilindi</title>
+    <link>https://ailenta.uz/x/dori-qoldiqlarini-aniqlovchi-hymlraman-tizimi-taklif-qilindi-15c63a/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/dori-qoldiqlarini-aniqlovchi-hymlraman-tizimi-taklif-qilindi-15c63a/</guid>
+    <pubDate>Mon, 05 Oct 2026 04:00:00 GMT</pubDate>
+    <description>Tadqiqotchilar dori qoldiqlarini tez aniqlash uchun HyMLRaman tizimini ishlab chiqdi. U amoksitsillin, ibuprofen va paratsetamol kabi oltita moddani aniqlashda generativ model hamda mashina o‘rganishidan foydalanadi.</description>
+    <category>tadqiqot</category><category>tibbiyot</category>
+    <media:content url="https://ailenta.uz/og/dori-qoldiqlarini-aniqlovchi-hymlraman-tizimi-taklif-qilindi-15c63a.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/dori-qoldiqlarini-aniqlovchi-hymlraman-tizimi-taklif-qilindi-15c63a.jpg"/>
   </item>
   <item>
     <title>Algoritmik tekshiruv &quot;greenwashing&quot;ga qarshi kurashadi</title>
@@ -296,16 +306,6 @@
     <category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/ai-qoshiq-yozish-tajribasi-insonlar-mashinaga-qarshi-f99e04.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/ai-qoshiq-yozish-tajribasi-insonlar-mashinaga-qarshi-f99e04.jpg"/>
-  </item>
-  <item>
-    <title>MTPLX va oMLX serverlari taqqoslandi</title>
-    <link>https://ailenta.uz/x/mtplx-va-omlx-serverlari-taqqoslandi-4db8b7/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/mtplx-va-omlx-serverlari-taqqoslandi-4db8b7/</guid>
-    <pubDate>Sat, 03 Oct 2026 08:48:47 GMT</pubDate>
-    <description>Maqolada MTPLX va oMLX serverlari taqqoslanib, ularning samaradorligi o'rganildi. Tadqiqot lokal kod agenti va Qwen3.8-27B modelida o'tkazildi.</description>
-    <category>tadqiqot</category><category>ochiq model</category>
-    <media:content url="https://ailenta.uz/og/mtplx-va-omlx-serverlari-taqqoslandi-4db8b7.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/mtplx-va-omlx-serverlari-taqqoslandi-4db8b7.jpg"/>
   </item>
 </channel>
 </rss>
