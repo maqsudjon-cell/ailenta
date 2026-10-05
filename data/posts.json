@@ -1,5 +1,120 @@
 [
   {
+    "id": "67ad08e939a2",
+    "slug": "gop-senatori-anthropicni-aiga-vaximali-yondashuvda-ogohlanti-67ad08",
+    "title": "GOP senatori Anthropicni AIga \"vaximali\" yondashuvda ogohlantirdi",
+    "summary": "Respublikachi senator Anthropic kompaniyasini sun'iy intellektga \"vaximali\" yondashuvda ayblab, ogohlantirdi. Bu haqda Axios xabar berdi.",
+    "tags": [
+      "Anthropic",
+      "siyosat"
+    ],
+    "importance": 3,
+    "score": 26,
+    "published": "2026-10-05T18:00:28.000Z",
+    "created": "2026-10-05T21:26:02.209Z",
+    "coverage": 1,
+    "source": {
+      "name": "Axios",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZ2dacmRIYW4xWGNpRkNvNE9VWGJvU1o3RFV2c0taOUl5UmNOTmxkczJNV0tiLTF3QlpWd01JZ2piczhRRUc4ZVNkMDZmQVZkRVVma0wzZk9NNV9kTFAxLWpPVEJSUzdYY0tvTGEtUWR6bTBybVJkREZqNUdwVTB6Si1MbnFvV0N4SHo0LTBlS09NOVFNVzJDSzZscE1YNE10bkZfRw",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "17c8e8162aa8",
+    "slug": "ai-rivojlanishida-sekinlashish-yaqinlashmoqda-17c8e8",
+    "title": "AI rivojlanishida sekinlashish yaqinlashmoqda",
+    "summary": "The Register nashri sun'iy intellekt rivojlanishida sekinlashish yaqinlashayotganini ta'kidladi. Nashrga ko'ra, Meta kompaniyasi ham bu holatga ta'sir qilmoqda.",
+    "tags": [
+      "iqtisod",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 24.6,
+    "published": "2026-10-05T08:30:00.000Z",
+    "created": "2026-10-05T21:26:02.209Z",
+    "coverage": 2,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/ai-and-ml/2026/10/05/brighter-isnt-better-and-more-is-less-the-ai-slowdown-is-nigh-no-matter-who-says-what/5300747",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "The Register",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxONFdOcVM3d2poRHRxb0xkY1JQQ2kxMmY2ZXNKY3Z5dmZBMk5VVDZkejlySXhORGhtdFBPTW9uaGdSRjk2UndjOGgwVExveG1rbWlTM3dzZjdYbHlHM2Z4cGpaSTdYWDdDNHcxMjlIQ3Y5emJOZzNFNE5nV1AtSHdfV3JlTjM2WnNMcjVPRjVjS0ZLNmtJVHV6dlBYdTZCZU9yQWctZk1oazhacWNMSXluTGZoUUxYWkpvcWpmX3NSdTlGeUM5NWZDVUlPUmdRQWMzTjRJU05ucUVvUQ"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "81aca6d8af3f",
+    "slug": "nolla-health-ai-yordamida-husnbuzar-retseptlarini-yozmoqda-81aca6",
+    "title": "Nolla Health AI yordamida husnbuzar retseptlarini yozmoqda",
+    "summary": "Nolla Health startapi Yuta shtatida AI yordamida husnbuzar davolash uchun retseptlar yozishni boshladi. Foydalanuvchilar ilova orqali yuzlarini skanerlab, AI tizimiga tahlil qildirishlari mumkin.",
+    "tags": [
+      "tibbiyot",
+      "agentlar"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-10-05T20:14:57.000Z",
+    "created": "2026-10-05T21:26:02.209Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Verge",
+      "url": "https://theverge.com/ai-artificial-intelligence/1005075/nolla-health-acne-ai-prescriptions",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "80c67e7b65f8",
+    "slug": "anthropic-ipo-oldidan-yirik-korporativ-donorga-aylandi-80c67e",
+    "title": "Anthropic IPO oldidan yirik korporativ donorga aylandi",
+    "summary": "Anthropic kompaniyasi IPO oldidan Amerikadagi eng yirik korporativ donorlardan biriga aylandi. 2025-yilda kompaniya xodimlari 540 million dollar xayriya qilgan.",
+    "tags": [
+      "Anthropic",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-10-05T16:00:12.000Z",
+    "created": "2026-10-05T21:26:02.209Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/anthropic-is-quietly-becoming-americas-biggest-corporate-donor-ahead-of-its-mega-ipo",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "3c880ad49aab",
+    "slug": "anthropic-va-aws-fdeni-ilgari-surishni-kuchaytirdi-3c880a",
+    "title": "Anthropic va AWS FDEni ilgari surishni kuchaytirdi",
+    "summary": "Anthropic va AWS kompaniyalari FDE (Full Disk Encryption) ni ilgari surish bo‘yicha sa'y-harakatlarini kuchaytirdi. Bu haqda Channel Dive xabar berdi.",
+    "tags": [
+      "Anthropic",
+      "Amazon"
+    ],
+    "importance": 2,
+    "score": 7,
+    "published": "2026-10-05T19:06:36.000Z",
+    "created": "2026-10-05T21:26:02.209Z",
+    "coverage": 1,
+    "source": {
+      "name": "Channel Dive",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNN010d19ybmZfQS1PcUZEZ3UxTzlCYjJSdERfZXphTU9GUmVSVXpMMFh6aXJ2Nm5jX0dORHNMYWdkS0x2SUhYN2Q0eDJaR0N5cnJNNGF5OHZfZUVRYmxDRlZtYzlxLXpwMUYxckt0WnV0TFljRUU3bVp5Zi12ZTNpMmxPS3RaYUpPbW1EWjJILVFWQ3gzMFlTQUJTSQ",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "3b4cb4cec155",
     "slug": "sam-altman-elon-muskni-bezori-deb-atadi-3b4cb4",
     "title": "Sam Altman Elon Muskni \"bezori\" deb atadi",
