@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/tadqiqot/</link>
   <description>&quot;tadqiqot&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Mon, 05 Oct 2026 12:07:35 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 05 Oct 2026 12:43:28 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/tadqiqot/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>AI yechilmagan matematik muammoni hal qildi</title>
+    <link>https://ailenta.uz/x/ai-yechilmagan-matematik-muammoni-hal-qildi-0155ff/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/ai-yechilmagan-matematik-muammoni-hal-qildi-0155ff/</guid>
+    <pubDate>Mon, 05 Oct 2026 12:00:02 GMT</pubDate>
+    <description>Heidelberg Laureate Forumda matematiklar AI kompaniyalari, jumladan OpenAI, Anthropic va Google tomonidan yechilmagan matematik muammoni hal qilgani haqida muhokama qilishdi.</description>
+    <category>tadqiqot</category><category>OpenAI</category>
+    <media:content url="https://ailenta.uz/og/ai-yechilmagan-matematik-muammoni-hal-qildi-0155ff.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/ai-yechilmagan-matematik-muammoni-hal-qildi-0155ff.jpg"/>
+  </item>
   <item>
     <title>CoreWeave vakili AI modellarining real sinovlari haqida</title>
     <link>https://ailenta.uz/x/coreweave-vakili-ai-modellarining-real-sinovlari-haqida-e098b9/</link>
@@ -296,16 +306,6 @@
     <category>tadqiqot</category><category>ochiq model</category>
     <media:content url="https://ailenta.uz/og/mtplx-va-omlx-serverlari-taqqoslandi-4db8b7.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/mtplx-va-omlx-serverlari-taqqoslandi-4db8b7.jpg"/>
-  </item>
-  <item>
-    <title>PDF hujjatlarida qidiruv dasturi yaratildi</title>
-    <link>https://ailenta.uz/x/pdf-hujjatlarida-qidiruv-dasturi-yaratildi-7a5de2/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/pdf-hujjatlarida-qidiruv-dasturi-yaratildi-7a5de2/</guid>
-    <pubDate>Sat, 03 Oct 2026 08:06:53 GMT</pubDate>
-    <description>PDF Desk nomli kichik Python ilovasi yaratildi. U foydalanuvchiga PDF'ga savol berish, javob olish va model havola qilgan sahifani ochish imkonini beradi.</description>
-    <category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/pdf-hujjatlarida-qidiruv-dasturi-yaratildi-7a5de2.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/pdf-hujjatlarida-qidiruv-dasturi-yaratildi-7a5de2.jpg"/>
   </item>
 </channel>
 </rss>
