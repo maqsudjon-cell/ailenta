@@ -5,7 +5,7 @@
   <link>https://ailenta.uz/mavzu/tadqiqot/</link>
   <description>&quot;tadqiqot&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Mon, 05 Oct 2026 09:21:57 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 05 Oct 2026 09:42:49 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/tadqiqot/rss.xml" rel="self" type="application/rss+xml"/>
   <item>
     <title>Multimodal modellar robot vazifalarining yarmiga yetdi</title>
@@ -36,6 +36,46 @@
     <category>tadqiqot</category><category>iqtisod</category>
     <media:content url="https://ailenta.uz/og/elektromobilga-otish-iqlimga-foydasi-borligi-aniqlandi-7c3d6e.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/elektromobilga-otish-iqlimga-foydasi-borligi-aniqlandi-7c3d6e.jpg"/>
+  </item>
+  <item>
+    <title>LLM'lar noto'g'ri teoremalarni rad etishda qiynalmoqda</title>
+    <link>https://ailenta.uz/x/llmlar-notogri-teoremalarni-rad-etishda-qiynalmoqda-12b51c/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/llmlar-notogri-teoremalarni-rad-etishda-qiynalmoqda-12b51c/</guid>
+    <pubDate>Mon, 05 Oct 2026 04:00:00 GMT</pubDate>
+    <description>Katta til modellari (LLM) ko‘pincha teoremalarni isbotlay olsa-da, noto‘g‘ri teoremalarni rad etishda muammolarga duch keladi. Tadqiqotchilar bu bo‘shliqni bartaraf etish uchun SymCE korpusini yaratdi.</description>
+    <category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/llmlar-notogri-teoremalarni-rad-etishda-qiynalmoqda-12b51c.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/llmlar-notogri-teoremalarni-rad-etishda-qiynalmoqda-12b51c.jpg"/>
+  </item>
+  <item>
+    <title>HakemBench: Turk tilidagi qarorlar uchun yangi sinov to‘plami</title>
+    <link>https://ailenta.uz/x/hakembench-turk-tilidagi-qarorlar-uchun-yangi-sinov-to-plami-22f4f9/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/hakembench-turk-tilidagi-qarorlar-uchun-yangi-sinov-to-plami-22f4f9/</guid>
+    <pubDate>Mon, 05 Oct 2026 04:00:00 GMT</pubDate>
+    <description>HakemBench — bu turk tilidagi qarorlar uchun mo‘ljallangan yangi sinov to‘plami. U 2,346 ta element va 4,275 ta savolni o‘z ichiga oladi hamda yetti yo‘nalishda model sifatini baholaydi.</description>
+    <category>tadqiqot</category><category>ochiq model</category>
+    <media:content url="https://ailenta.uz/og/hakembench-turk-tilidagi-qarorlar-uchun-yangi-sinov-to-plami-22f4f9.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/hakembench-turk-tilidagi-qarorlar-uchun-yangi-sinov-to-plami-22f4f9.jpg"/>
+  </item>
+  <item>
+    <title>MintFlow: Cheklangan oqim moslashuvi uchun yangi usul</title>
+    <link>https://ailenta.uz/x/mintflow-cheklangan-oqim-moslashuvi-uchun-yangi-usul-3fb058/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/mintflow-cheklangan-oqim-moslashuvi-uchun-yangi-usul-3fb058/</guid>
+    <pubDate>Mon, 05 Oct 2026 04:00:00 GMT</pubDate>
+    <description>Tadqiqotchilar MintFlow nomli yangi, o‘qitishsiz cheklangan namuna olish tizimini taqdim etdi. U generativ modellarda cheklovlarni minimal aralashuv bilan qo‘llash imkonini beradi.</description>
+    <category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/mintflow-cheklangan-oqim-moslashuvi-uchun-yangi-usul-3fb058.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/mintflow-cheklangan-oqim-moslashuvi-uchun-yangi-usul-3fb058.jpg"/>
+  </item>
+  <item>
+    <title>AI xavflari kompaniya hisobotlarida qanday aks etadi</title>
+    <link>https://ailenta.uz/x/ai-xavflari-kompaniya-hisobotlarida-qanday-aks-etadi-05ae2f/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/ai-xavflari-kompaniya-hisobotlarida-qanday-aks-etadi-05ae2f/</guid>
+    <pubDate>Mon, 05 Oct 2026 04:00:00 GMT</pubDate>
+    <description>Tadqiqotchilar LLM'lar yordamida 1,362 ta Buyuk Britaniya kompaniyasining 9,821 ta yillik hisobotini tahlil qildi. Maqsad, kompaniyalarning AI'ga munosabati va xavflarni qanday oshkor etishini o‘rganish edi.</description>
+    <category>tadqiqot</category><category>biznes</category>
+    <media:content url="https://ailenta.uz/og/ai-xavflari-kompaniya-hisobotlarida-qanday-aks-etadi-05ae2f.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/ai-xavflari-kompaniya-hisobotlarida-qanday-aks-etadi-05ae2f.jpg"/>
   </item>
   <item>
     <title>Homa: AI klasterlari uchun TCPning yakuni</title>
@@ -266,46 +306,6 @@
     <category>tadqiqot</category><category>tibbiyot</category>
     <media:content url="https://ailenta.uz/og/saraton-dori-javobini-tahlil-qilishda-yangi-ai-modeli-41bdb7.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/saraton-dori-javobini-tahlil-qilishda-yangi-ai-modeli-41bdb7.jpg"/>
-  </item>
-  <item>
-    <title>Adam optimizatorining tabiiy gradientga yaqinligi o'rganildi</title>
-    <link>https://ailenta.uz/x/adam-optimizatorining-tabiiy-gradientga-yaqinligi-organildi-54c963/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/adam-optimizatorining-tabiiy-gradientga-yaqinligi-organildi-54c963/</guid>
-    <pubDate>Sat, 03 Oct 2026 04:00:00 GMT</pubDate>
-    <description>Tadqiqotchilar chuqur o'rganishda standart optimizator bo'lgan Adamning tabiiy gradient tushishiga geometrik munosabatini o'rgandi. Ular Adamning to'liq yangilanish qoidasini o'rganib, uning haqiqiy NGD'dan chetlanishini o'lchadi.</description>
-    <category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/adam-optimizatorining-tabiiy-gradientga-yaqinligi-organildi-54c963.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/adam-optimizatorining-tabiiy-gradientga-yaqinligi-organildi-54c963.jpg"/>
-  </item>
-  <item>
-    <title>Eliza: AI yaratilishi haqida yangi sahna asari</title>
-    <link>https://ailenta.uz/x/eliza-ai-yaratilishi-haqida-yangi-sahna-asari-18de6d/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/eliza-ai-yaratilishi-haqida-yangi-sahna-asari-18de6d/</guid>
-    <pubDate>Sat, 03 Oct 2026 01:57:39 GMT</pubDate>
-    <description>Avstraliyalik dramaturg Tom Xolloueyning &quot;Eliza&quot; nomli yangi sahna asari sun'iy intellektning paydo bo'lishiga bag'ishlangan. Unda AI'ning dastlabki davrlari tasvirlangan.</description>
-    <category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/eliza-ai-yaratilishi-haqida-yangi-sahna-asari-18de6d.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/eliza-ai-yaratilishi-haqida-yangi-sahna-asari-18de6d.jpg"/>
-  </item>
-  <item>
-    <title>Har bir SaaS biznesi model atrofida shakllanadi</title>
-    <link>https://ailenta.uz/x/har-bir-saas-biznesi-model-atrofida-shakllanadi-8ae48c/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/har-bir-saas-biznesi-model-atrofida-shakllanadi-8ae48c/</guid>
-    <pubDate>Fri, 02 Oct 2026 21:06:56 GMT</pubDate>
-    <description>Hacker News xabariga ko'ra, har bir SaaS biznesi model atrofida shakllanadi. Bu AI modellarining biznesga integratsiyasi haqida fikrdir.</description>
-    <category>biznes</category><category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/har-bir-saas-biznesi-model-atrofida-shakllanadi-8ae48c.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/har-bir-saas-biznesi-model-atrofida-shakllanadi-8ae48c.jpg"/>
-  </item>
-  <item>
-    <title>Napoleonning 200 yillik sirli xati AI yordamida o‘qildi</title>
-    <link>https://ailenta.uz/x/napoleonning-200-yillik-sirli-xati-ai-yordamida-o-qildi-a76988/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/napoleonning-200-yillik-sirli-xati-ai-yordamida-o-qildi-a76988/</guid>
-    <pubDate>Fri, 02 Oct 2026 18:29:09 GMT</pubDate>
-    <description>Sun'iy intellekt Napoleonning 200 yillik shifrlangan sirli xatini olti soatda o‘qib berdi. Ushbu xat Avstriyaga qarshi urushga tayyorgarlik paytida general Ogyust de Marmon boshchiligidagi fransuz qo‘shinlariga yozilgan edi.</description>
-    <category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/napoleonning-200-yillik-sirli-xati-ai-yordamida-o-qildi-a76988.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/napoleonning-200-yillik-sirli-xati-ai-yordamida-o-qildi-a76988.jpg"/>
   </item>
 </channel>
 </rss>

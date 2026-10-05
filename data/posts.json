@@ -1,5 +1,136 @@
 [
   {
+    "id": "12b51c682fa6",
+    "slug": "llmlar-notogri-teoremalarni-rad-etishda-qiynalmoqda-12b51c",
+    "title": "LLM'lar noto'g'ri teoremalarni rad etishda qiynalmoqda",
+    "summary": "Katta til modellari (LLM) ko‘pincha teoremalarni isbotlay olsa-da, noto‘g‘ri teoremalarni rad etishda muammolarga duch keladi. Tadqiqotchilar bu bo‘shliqni bartaraf etish uchun SymCE korpusini yaratdi.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 7,
+    "published": "2026-10-05T04:00:00.000Z",
+    "created": "2026-10-05T09:38:10.559Z",
+    "coverage": 1,
+    "source": {
+      "name": "arXiv cs.CL",
+      "url": "https://arxiv.org/abs/2610.02444",
+      "title": "Counterexample Generation via Per-Theorem Symbolic Verifiers: When Imitation Hurts and Reinforcement Repairs",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "be4e41fea3d9",
+    "slug": "aini-tamirlashga-emas-tekshirishga-orgatish-be4e41",
+    "title": "AI'ni ta'mirlashga emas, tekshirishga o'rgatish",
+    "summary": "DevOps sohasida AI'dan foydalanish bo‘yicha maqolada, sun'iy intellektni muammolarni tekshirishga o‘rgatish muhimligi ta’kidlandi. Bu AI'ning murakkab vazifalardagi rolini oshiradi.",
+    "tags": [
+      "agentlar",
+      "mehnat bozori"
+    ],
+    "importance": 2,
+    "score": 11,
+    "published": "2026-10-05T07:47:21.000Z",
+    "created": "2026-10-05T09:38:33.480Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1090338",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "630fef94ebfa",
+    "slug": "llm-agentlari-plm-tizimini-sozlashda-samarali-630fef",
+    "title": "LLM agentlari PLM tizimini sozlashda samarali",
+    "summary": "LLM agentlari yordamida yirik PLM tizimlarini sozlash bo‘yicha tajribalar o‘tkazildi. Natijada, agentlarga to‘g‘ri kontekst berilsa, ular bu vazifani muvaffaqiyatli bajarishi mumkinligi aniqlandi.",
+    "tags": [
+      "agentlar",
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 11,
+    "published": "2026-10-05T06:32:00.000Z",
+    "created": "2026-10-05T09:38:33.480Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1090294",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "22f4f933d9bf",
+    "slug": "hakembench-turk-tilidagi-qarorlar-uchun-yangi-sinov-to-plami-22f4f9",
+    "title": "HakemBench: Turk tilidagi qarorlar uchun yangi sinov to‘plami",
+    "summary": "HakemBench — bu turk tilidagi qarorlar uchun mo‘ljallangan yangi sinov to‘plami. U 2,346 ta element va 4,275 ta savolni o‘z ichiga oladi hamda yetti yo‘nalishda model sifatini baholaydi.",
+    "tags": [
+      "tadqiqot",
+      "ochiq model"
+    ],
+    "importance": 2,
+    "score": 10,
+    "published": "2026-10-05T04:00:00.000Z",
+    "created": "2026-10-05T09:38:33.480Z",
+    "coverage": 1,
+    "source": {
+      "name": "arXiv cs.CL",
+      "url": "https://arxiv.org/abs/2610.02293",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "3fb0589f112d",
+    "slug": "mintflow-cheklangan-oqim-moslashuvi-uchun-yangi-usul-3fb058",
+    "title": "MintFlow: Cheklangan oqim moslashuvi uchun yangi usul",
+    "summary": "Tadqiqotchilar MintFlow nomli yangi, o‘qitishsiz cheklangan namuna olish tizimini taqdim etdi. U generativ modellarda cheklovlarni minimal aralashuv bilan qo‘llash imkonini beradi.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 7,
+    "published": "2026-10-05T04:00:00.000Z",
+    "created": "2026-10-05T09:38:33.480Z",
+    "coverage": 1,
+    "source": {
+      "name": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2610.02260",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "05ae2fbd2810",
+    "slug": "ai-xavflari-kompaniya-hisobotlarida-qanday-aks-etadi-05ae2f",
+    "title": "AI xavflari kompaniya hisobotlarida qanday aks etadi",
+    "summary": "Tadqiqotchilar LLM'lar yordamida 1,362 ta Buyuk Britaniya kompaniyasining 9,821 ta yillik hisobotini tahlil qildi. Maqsad, kompaniyalarning AI'ga munosabati va xavflarni qanday oshkor etishini o‘rganish edi.",
+    "tags": [
+      "tadqiqot",
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 7,
+    "published": "2026-10-05T04:00:00.000Z",
+    "created": "2026-10-05T09:38:33.480Z",
+    "coverage": 1,
+    "source": {
+      "name": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2610.02281",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "3ace8737d50a",
     "slug": "metaning-muse-ai-agenti-aqsh-app-storeda-1-o-ringa-chiqdi-3ace87",
     "title": "Meta’ning Muse AI-agenti AQSh App Store’da 1-o‘ringa chiqdi",
