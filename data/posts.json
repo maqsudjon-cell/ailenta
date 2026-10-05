@@ -1,5 +1,202 @@
 [
   {
+    "id": "794792a4a638",
+    "slug": "homa-ai-klasterlari-uchun-tcpning-yakuni-794792",
+    "title": "Homa: AI klasterlari uchun TCPning yakuni",
+    "summary": "Hacker News manbasida Homa protokoli AI klasterlari uchun TCP protokolining o'rnini bosishi mumkinligi haqida video e'lon qilindi.",
+    "tags": [
+      "chiplar",
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 17.8,
+    "published": "2026-10-04T19:42:25.000Z",
+    "created": "2026-10-05T07:21:25.050Z",
+    "coverage": 1,
+    "source": {
+      "name": "Hacker News",
+      "url": "https://youtube.com/watch?v=eZ8WWZzoaR0",
+      "title": "Homa: The end of TCP for AI clusters [video]",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "764d22703790",
+    "slug": "qiyomat-balig-i-dan-ilhomlanib-ovozsiz-robot-yaratiladi-764d22",
+    "title": "«Qiyomat baligʻi»dan ilhomlanib ovozsiz robot yaratiladi",
+    "summary": "Kornell universiteti olimlari seld qirolining suzish mexanizmini o'rgandi. Ular ushbu mexanizm asosida dengiz jonzotlarini cho'chitmasdan, okean holatini kuzatadigan ovozsiz suvosti robotlarini yaratishni rejalashtirmoqda.",
+    "tags": [
+      "robototexnika",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 48,
+    "published": "2026-10-05T06:30:22.000Z",
+    "created": "2026-10-05T07:21:39.221Z",
+    "coverage": 1,
+    "source": {
+      "name": "Kun.uz",
+      "url": "https://kun.uz/news/2026/10/05/qiyomat-baligining-siri-ochildi-olimlar-undan-ilhomlanib-ovozsiz-robot-yaratmoqchi",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "4a5ecc9853b7",
+    "slug": "aqshda-yangi-jangovar-dron-mustaqil-parvoz-qildi-4a5ecc",
+    "title": "AQShda yangi jangovar dron mustaqil parvoz qildi",
+    "summary": "Northrop Grumman ishlab chiqqan YFQ-48A Talon Blue jangovar droni birinchi marta to'liq mustaqil parvozni amalga oshirdi. U inson aralashuvisiz havoga ko'tarilib, manyovrlar qilib, qo'ndi.",
+    "tags": [
+      "siyosat",
+      "robototexnika"
+    ],
+    "importance": 3,
+    "score": 45,
+    "published": "2026-10-05T06:40:35.000Z",
+    "created": "2026-10-05T07:21:39.221Z",
+    "coverage": 1,
+    "source": {
+      "name": "Kun.uz",
+      "url": "https://kun.uz/news/2026/10/05/aqshda-yangi-jangovar-dron-birinchi-marta-toliq-mustaqil-parvoz-qildi",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "7c3d6eebbe4e",
+    "slug": "elektromobilga-otish-iqlimga-foydasi-borligi-aniqlandi-7c3d6e",
+    "title": "Elektromobilga o'tish iqlimga foydasi borligi aniqlandi",
+    "summary": "Olimlar hali ishlayotgan benzinli avtomobilni elektromobilga almashtirish issiqxona gazlarini kamaytirishi mumkinligini aniqladi. Biroq, bu foyda yillik masofa va elektr energiyasi manbasiga bog'liq.",
+    "tags": [
+      "tadqiqot",
+      "iqtisod"
+    ],
+    "importance": 2,
+    "score": 45,
+    "published": "2026-10-05T06:10:04.000Z",
+    "created": "2026-10-05T07:21:39.221Z",
+    "coverage": 1,
+    "source": {
+      "name": "Kun.uz",
+      "url": "https://kun.uz/news/2026/10/05/soz-mashinani-elektromobilga-almashtirish-foydalimi-olimlar-hisoboti",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "b2a0083c9ee4",
+    "slug": "tolibon-belarusdan-qurol-va-dron-sotib-olmoqda-b2a008",
+    "title": "“Tolibon” Belarusdan qurol va dron sotib olmoqda",
+    "summary": "OAV xabariga ko'ra, \"Tolibon\" Belarusdan qurol-yarog' va dronlar sotib olishni boshlagan. Hindiston Pokiston bilan ziddiyatli munosabatlariga qaramay, bitimlarda vositachilik qilayotgani aytilmoqda.",
+    "tags": [
+      "siyosat"
+    ],
+    "importance": 3,
+    "score": 45,
+    "published": "2026-10-05T04:29:56.000Z",
+    "created": "2026-10-05T07:21:39.221Z",
+    "coverage": 1,
+    "source": {
+      "name": "Daryo",
+      "url": "https://daryo.uz/2026/10/05/tolibon-belarusdan-qurol-yarog-va-dron-sotib-olishni-boshladi-oav",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "8b871f7cf220",
+    "slug": "yevropa-sanoat-ai-sohasida-ustunlikka-erishishi-mumkin-8b871f",
+    "title": "Yevropa sanoat AI sohasida ustunlikka erishishi mumkin",
+    "summary": "Siemens sanoat AIga katta sarmoya kiritmoqda. Yevropaning ishlab chiqaruvchilari bu sohada ustunlik berishi mumkin bo'lgan ma'lumotlarga ega.",
+    "tags": [
+      "biznes",
+      "iqtisod"
+    ],
+    "importance": 2,
+    "score": 19,
+    "published": "2026-10-05T07:00:00.000Z",
+    "created": "2026-10-05T07:21:39.221Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/10/05/siemens-europe-industrial-ai-advantage-data-manufacturing-peter-koerte",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "2b0ec828712c",
+    "slug": "multimodal-modellar-robot-vazifalarining-yarmiga-yetdi-2b0ec8",
+    "title": "Multimodal modellar robot vazifalarining yarmiga yetdi",
+    "summary": "Dalian Texnologiya Universiteti VA-Bench sinov to'plamida 12 ta multimodal modelni robot-qo'l vazifalarida sinovdan o'tkazdi. Qwen3.8-max 53.93% natija bilan yetakchilik qildi, ammo hech biri murakkab vazifani bajara olmadi.",
+    "tags": [
+      "tadqiqot",
+      "robototexnika"
+    ],
+    "importance": 3,
+    "score": 18,
+    "published": "2026-10-05T07:14:31.000Z",
+    "created": "2026-10-05T07:21:39.221Z",
+    "coverage": 1,
+    "source": {
+      "name": "Pandaily",
+      "url": "https://pandaily.com/dalian-university-of-technology-va-bench-multimodal-models-robot-arm-tasks-qwen3-8-max",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "4e87365ea1f5",
+    "slug": "ai-kompaniyalariga-8-ta-pre-seed-sarmoya-kiritildi-4e8736",
+    "title": "AI kompaniyalariga 8 ta pre-seed sarmoya kiritildi",
+    "summary": "AQShning yetakchi investorlari AI-ga asoslangan kompaniyalarga 8 ta pre-seed bosqichidagi sarmoya kiritishdi.",
+    "tags": [
+      "biznes",
+      "iqtisod"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-10-05T05:00:58.000Z",
+    "created": "2026-10-05T07:21:39.221Z",
+    "coverage": 1,
+    "source": {
+      "name": "Sifted",
+      "url": "https://sifted.eu/articles/8-pre-seed-rounds-led-by-tier-1-us-investors-in-ai-native-companies",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "a2a1c9fd29b7",
+    "slug": "sony-raqamli-kamera-modellarining-nomlanishi-tushuntirildi-a2a1c9",
+    "title": "Sony raqamli kamera modellarining nomlanishi tushuntirildi",
+    "summary": "Engadget nashri Sony raqamli kameralarining alfanumerik nomlash sxemalarini tushuntirdi. Unda katta raqam har doim ham yaxshiroq degani emasligi aytilgan.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 1,
+    "score": 14,
+    "published": "2026-10-04T16:45:00.000Z",
+    "created": "2026-10-05T07:21:39.221Z",
+    "coverage": 1,
+    "source": {
+      "name": "Engadget",
+      "url": "https://engadget.com/2274354/sony-digital-camera-model-numbers-explained",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "c5aeeae364aa",
     "slug": "ai-yaratgan-noqonuniy-bolalar-tasvirlari-keskin-ko-paydi-c5aeea",
     "title": "AI yaratgan noqonuniy bolalar tasvirlari keskin ko‘paydi",
