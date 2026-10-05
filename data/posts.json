@@ -1,5 +1,49 @@
 [
   {
+    "id": "b1da7f22e6c3",
+    "slug": "anthropic-mythos-ai-http-serverida-zaiflik-topdi-b1da7f",
+    "title": "Anthropic Mythos AI HTTP serverida zaiflik topdi",
+    "summary": "Anthropic'ning Mythos AI modeli HTTP fayl serverida jiddiy zaiflikni aniqladi. Ushbu zaiflik allaqachon amalda ishlatilgan.",
+    "tags": [
+      "Anthropic",
+      "xavfsizlik"
+    ],
+    "importance": 4,
+    "score": 7,
+    "published": "2026-10-05T06:00:53.000Z",
+    "created": "2026-10-05T06:10:27.964Z",
+    "coverage": 1,
+    "source": {
+      "name": "datacenters.economictimes.indiatimes.com",
+      "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxQeWNPTkdMS0VLMFM0NjhfbkRXbk51TC1meXJjMk5QY05CN19jSFJHSm0yUU9zY3hhMmtxRDY0XzVnZjFiSUFibUJpM2FpcUhDN3lObWVfQnpUeWZDNU41MVplc1JMRy1BYThiZnF2X0ZfVGRwQWVWOHpfeE1ZcG1vQThJZnJoUml1aVotUTIybEs2b3FXRFZ0SFBoNDNVdDYxMS1qcWFtY0VYLUxOTlhiQ05CLTMxTDJ4bGtUU2lBMHd5N1ZyZjV0SU9qQy1hNExmWnpUWTNhal8yaHQxR2dTYzdDLTZxTVNYdERzWEx4eHREQU1jUmFUQ0pQRkRURWpTa1A5VktJY092VGUzSDQ4ZjZFeUdFcTdTX0NzX0Q3TEdYUWlIcjFJRFAzcHllS0JkUkJIUW8wVXgwSExy0gGLAkFVX3lxTE5fZlRpSWJSdy1NMGRkVXBmdHpXTEJiYkxjRXhxcVU2MVMzZmpGRjU4bjk3ajR3SXZ5c2tfRDhHV1lYcnFOczIzZ21MaENtU0Fld0hyemNqVkI2T2QtX2RMZFZFTWdPN0ZyWXlVaUdpQkRCVWJrLWpJZHNuWWpVdU93TWhadkdHQjFmQ2JXRG9TSjBNMkpxc1M1TWZUUHZzXy1ibmxGNHp3eHh6ZFFsQjdXTloxM0Z4VTdRR042dnBSM1NQNEhoRkxIcjlHNVF0QXJJMHFyLWZ3WXhGcjZCQVFrQjJzZER4S3ZFM1lPTjNpV3R1XzVWM25mTHAtRVV5RG14VlFSQ3FpQ2VsMA",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "2f33a8de6709",
+    "slug": "microsoft-ai-jamoasi-bir-sorov-himoyani-buzishini-aniqladi-2f33a8",
+    "title": "Microsoft AI jamoasi bir so'rov himoyani buzishini aniqladi",
+    "summary": "Microsoft'ning AI \"qizil jamoasi\" bitta so'rov sun'iy intellekt himoya choralarini buzishini aniqladi. Bu AI xavfsizligidagi zaiflikni ko'rsatadi.",
+    "tags": [
+      "Microsoft",
+      "xavfsizlik"
+    ],
+    "importance": 4,
+    "score": 7,
+    "published": "2026-10-05T04:30:02.000Z",
+    "created": "2026-10-05T06:10:27.964Z",
+    "coverage": 1,
+    "source": {
+      "name": "NewsBytes",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOGwxeEV4YXpvcDJKMTdfQXJxZjVBY3k5MUt2RTlEZlN3VDNuSVhQSHRxVmZZV2dqaXJwcEFPRG9KWENpTy1keklMNzJXVUlNQVNGRWVLUms5VGJneE01UDRMdVV2cmZiS2EzYjl5N1dYdmZXTWNSWnJ3Y192aUF1cTEzMGszczUxeHYtTVpiNUZ6VVJQSTFjQnlQU0ZTdUpWVnYyUnJpOWoxQ0xrZVR3",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "be1900415203",
     "slug": "janubiy-koreyaning-ai-strategiyasi-tekshiruv-ostida-be1900",
     "title": "Janubiy Koreyaning AI strategiyasi tekshiruv ostida",
