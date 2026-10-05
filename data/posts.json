@@ -1,5 +1,165 @@
 [
   {
+    "id": "3b4cb4cec155",
+    "slug": "sam-altman-elon-muskni-bezori-deb-atadi-3b4cb4",
+    "title": "Sam Altman Elon Muskni \"bezori\" deb atadi",
+    "summary": "OpenAI bosh direktori Sam Altman Elon Muskni \"bezori\" deb atadi. Shunga qaramay, Altman AI xavfsizligi kabi muhim masalalarda Musk bilan ishlashga tayyorligini bildirdi.",
+    "tags": [
+      "OpenAI",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 18,
+    "published": "2026-10-05T18:09:53.000Z",
+    "created": "2026-10-05T18:37:53.389Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/sam-altman-elon-musk-punch-back-cooperation-2026-10",
+      "title": "Sam Altman says Elon Musk is a ‘bully’ who only respects people who punch him back",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "716677eea737",
+    "slug": "reka-ai-rho-1-modeli-matn-tasvir-video-va-robotni-boshqaradi-716677",
+    "title": "Reka AI Rho-1 modeli matn, tasvir, video va robotni boshqaradi",
+    "summary": "Reka AI kompaniyasi 19 milliard parametrlik Rho-1 omni-modelini taqdim etdi. U matn, tasvir, video va robot boshqaruvini yagona neyron tarmoqda qayta ishlaydi. Model 320 ta H100 GPUda uch oyda o‘qitilgan.",
+    "tags": [
+      "tadqiqot",
+      "robototexnika"
+    ],
+    "importance": 3,
+    "score": 24,
+    "published": "2026-10-05T18:26:05.000Z",
+    "created": "2026-10-05T18:37:54.499Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/reka-ais-omni-model-rho-1-handles-text-images-video-and-robot-control-in-a-single-model",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "2e2350774fb9",
+    "slug": "z-avlodi-ai-tufayli-nafaqaga-chiqishdan-xavotirda-2e2350",
+    "title": "Z avlodi AI tufayli nafaqaga chiqishdan xavotirda",
+    "summary": "Z avlodining 51 foizi AI ularning nafaqa jamg‘armasini qisqartirishidan xavotirda. Ular AI ish o‘rinlariga ta’sir qilishi sababli, nafaqaga chiqish uchun yetarli pul topishdan ko‘proq tashvishlanmoqda.",
+    "tags": [
+      "mehnat bozori",
+      "iqtisod"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-10-05T15:18:56.000Z",
+    "created": "2026-10-05T18:37:54.499Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/10/05/gen-z-retirement-worries-in-age-of-ai-new-survey-tiaa-run-out-of-money-career-disruption-personal-finance-advice",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "db3e6ebef5bb",
+    "slug": "tiktok-ai-yordamchi-va-bir-bosishda-to-lov-joriy-etdi-db3e6e",
+    "title": "TikTok AI yordamchi va bir bosishda to‘lov joriy etdi",
+    "summary": "TikTok foydalanuvchilarga mahsulotlarni topish va sotib olishda yordam beruvchi suhbatdosh AI agenti — \"Shopping Assistant\"ni taqdim etdi. U bir bosishda to‘lov imkoniyatini ham o‘z ichiga oladi.",
+    "tags": [
+      "biznes",
+      "agentlar"
+    ],
+    "importance": 3,
+    "score": 18,
+    "published": "2026-10-05T18:29:00.000Z",
+    "created": "2026-10-05T18:37:54.499Z",
+    "coverage": 1,
+    "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "df3ea662a0a4",
+    "slug": "bizneslar-uchun-ai-xarajatlarini-rejalashtirish-qiyinlashmoq-df3ea6",
+    "title": "Bizneslar uchun AI xarajatlarini rejalashtirish qiyinlashmoqda",
+    "summary": "Hacker News xabariga ko‘ra, kompaniyalar uchun sun'iy intellektga sarflanadigan xarajatlarni byudjetlashtirish deyarli imkonsiz bo‘lib bormoqda. Bu AI investitsiyalarining o‘sishi bilan bog‘liq muammo.",
+    "tags": [
+      "biznes",
+      "iqtisod"
+    ],
+    "importance": 2,
+    "score": 17.2,
+    "published": "2026-10-05T13:22:31.000Z",
+    "created": "2026-10-05T18:37:54.500Z",
+    "coverage": 1,
+    "source": {
+      "name": "Hacker News",
+      "url": "https://wsj.com/tech/personal-tech/ai-token-spending-businesses-431ee94a",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "67cb635081f2",
+    "slug": "anthropic-xodimining-ai-xavflari-haqida-ogohlantirishi-67cb63",
+    "title": "Anthropic xodimining AI xavflari haqida ogohlantirishi",
+    "summary": "Anthropic kompaniyasining sobiq xodimi Jacob Coxon Nyu-Yorkdagi yig‘ilishda AI xavflari haqida ogohlantirishlarini takrorladi. U AI firmalarini \"o‘ta ehtiyotsiz\" deb atadi va modellarini nazorat qila olmasligini ta’kidladi.",
+    "tags": [
+      "Anthropic",
+      "xavfsizlik"
+    ],
+    "importance": 4,
+    "score": 16,
+    "published": "2026-10-05T17:48:45.000Z",
+    "created": "2026-10-05T18:37:54.500Z",
+    "coverage": 2,
+    "source": {
+      "name": "New York Post",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNmUzVVVySnJtNFBUYlhrMWlxY0xOMEVySFZTMzFlR25La0ZqSU00TlEtWTRMT3Z1ZE85S3dwTXg0LXZTV2JmeDZ5R1RYaU9qVGFtYzZrNnV4YXZMSEZ1bW5YUEFCQkZpV0t4V1NaRTI2VldmRGFwWEFLNkhzbzU0Nk9sQUpPRmVDNjg4YVBpMm5rR2hLR0FSYlhjZEhWemN2dHVWTW9mLS1mekdmU1RuSTBma2sta3B4T2p1Y3VmWUZnaG0zMmVNRENEOXZjZw",
+      "indirect": true
+    },
+    "also": [
+      {
+        "name": "The Korea Times",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNW1lcW9lLWVGMlFWd3pyWmR5b3c2MGNCNGtGQjVyYWRnb1lCOWdkdmVQMElPWERZVzNJYnRNZ09tTFJuUGhDZmF3WTJFUDJVSHprekxLd0VvS1R6UXZjcUZtRWVZOWpHWHo3LVg1cGpPZmtvdkZ0dGhBalhlZFpISklrVVZYT0RnV2JjdTRHVW1leU9pZ1Ztc1JXRVc4c1lMeVHSAacBQVVfeXFMTWI3RGdVUE5OMkRnVW1uUFNhRkJSWGgwdHBpbEgxRWpxV0xyOEpCNEo5SmVITDY3UkxBYjBkZ1Zxb0ZoakM2V0RER0VMZkdqZmlSeU5qSWsxUjQyYi00MjRwRnA4eE1FanZlWXgtaml5Wkl4aTJ4X2RDUWN3NDQ3cXh5bHlYTlFIekJHU3JTVFJHRk1FdVF1amo2a1ZmMXFWQnRFUjlrck0"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "88b687652847",
+    "slug": "hot-girl-hotline-ai-yordamida-munosabatlar-bo-yicha-maslahat-88b687",
+    "title": "Hot Girl Hotline AI yordamida munosabatlar bo‘yicha maslahat beradi",
+    "summary": "Hot Girl Hotline ikki opa-singil tomonidan asos solingan bo‘lib, yosh ayollarga AI yordamida shaxsiylashtirilgan munosabatlar bo‘yicha maslahatlar beradi. Xizmat xavfsizlik va hissiy bog‘liqlikdan qochishga urg‘u beradi.",
+    "tags": [
+      "biznes",
+      "ta'lim"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-10-05T17:29:22.000Z",
+    "created": "2026-10-05T18:37:54.500Z",
+    "coverage": 1,
+    "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/05/hot-girl-hotline-is-like-dear-abby-for-the-ai-era",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "ea5cfbb46094",
     "slug": "hackerrank-ai-suhbatdoshini-ishga-tushirdi-ea5cfb",
     "title": "HackerRank AI suhbatdoshini ishga tushirdi",

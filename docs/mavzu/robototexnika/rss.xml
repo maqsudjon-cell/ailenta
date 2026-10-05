@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/robototexnika/</link>
   <description>&quot;robototexnika&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Mon, 05 Oct 2026 18:07:01 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 05 Oct 2026 18:43:39 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/robototexnika/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Reka AI Rho-1 modeli matn, tasvir, video va robotni boshqaradi</title>
+    <link>https://ailenta.uz/x/reka-ai-rho-1-modeli-matn-tasvir-video-va-robotni-boshqaradi-716677/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/reka-ai-rho-1-modeli-matn-tasvir-video-va-robotni-boshqaradi-716677/</guid>
+    <pubDate>Mon, 05 Oct 2026 18:26:05 GMT</pubDate>
+    <description>Reka AI kompaniyasi 19 milliard parametrlik Rho-1 omni-modelini taqdim etdi. U matn, tasvir, video va robot boshqaruvini yagona neyron tarmoqda qayta ishlaydi. Model 320 ta H100 GPUda uch oyda o‘qitilgan.</description>
+    <category>tadqiqot</category><category>robototexnika</category>
+    <media:content url="https://ailenta.uz/og/reka-ai-rho-1-modeli-matn-tasvir-video-va-robotni-boshqaradi-716677.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/reka-ai-rho-1-modeli-matn-tasvir-video-va-robotni-boshqaradi-716677.jpg"/>
+  </item>
   <item>
     <title>Safeworld robotlar xavfsizligini ta'minlashga intilmoqda</title>
     <link>https://ailenta.uz/x/safeworld-robotlar-xavfsizligini-taminlashga-intilmoqda-8869fe/</link>
@@ -296,16 +306,6 @@
     <category>OpenAI</category><category>robototexnika</category>
     <media:content url="https://ailenta.uz/og/gpt-6-astra-avtomobil-boshqarish-qobiliyatiga-ega-boldi-586b8b.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/gpt-6-astra-avtomobil-boshqarish-qobiliyatiga-ega-boldi-586b8b.jpg"/>
-  </item>
-  <item>
-    <title>AstroForge keyingi kosmik kemasini AI boshqaruviga beradi</title>
-    <link>https://ailenta.uz/x/astroforge-keyingi-kosmik-kemasini-ai-boshqaruviga-beradi-2bcfe8/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/astroforge-keyingi-kosmik-kemasini-ai-boshqaruviga-beradi-2bcfe8/</guid>
-    <pubDate>Tue, 22 Sep 2026 15:00:00 GMT</pubDate>
-    <description>AstroForge oʻzining navbatdagi kosmik kemasini AI boshqaruviga topshirmoqda. Autonomy-1 nomli zondni kichik, transformerga asoslangan AI modeli boshqaradi.</description>
-    <category>robototexnika</category><category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/astroforge-keyingi-kosmik-kemasini-ai-boshqaruviga-beradi-2bcfe8.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/astroforge-keyingi-kosmik-kemasini-ai-boshqaruviga-beradi-2bcfe8.jpg"/>
   </item>
 </channel>
 </rss>
