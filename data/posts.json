@@ -1,5 +1,143 @@
 [
   {
+    "id": "edd9ab46478d",
+    "slug": "odamlar-ai-tomonidan-yozilgan-kodni-tamirlash-uchun-ishga-ol-edd9ab",
+    "title": "Odamlar AI tomonidan yozilgan kodni ta'mirlash uchun ishga olinmoqda",
+    "summary": "Ba'zi kompaniyalar AI tomonidan yozilgan kodni o‘qish va ta'mirlash uchun besh yillik tajribaga ega mutaxassislarni qidirmoqda. Bu AI agentlari bilan almashtirilgan ish o‘rinlari qayta tiklanayotganini ko‘rsatadi.",
+    "tags": [
+      "mehnat bozori",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 11,
+    "published": "2026-10-05T14:58:52.000Z",
+    "created": "2026-10-05T15:20:54.165Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1090612",
+      "title": "Не ИИ заменит людей, а люди заменят ИИ. И это уже происходит",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "78ad53815846",
+    "slug": "openai-yevropa-ittifoqi-matn-manbai-qoidalariga-yondashuvi-78ad53",
+    "title": "OpenAI Yevropa Ittifoqi matn manbai qoidalariga yondashuvi",
+    "summary": "OpenAI Yevropa Ittifoqi qoidalari bo‘yicha matnni suv belgilashga yondashuvini tushuntirdi. Kompaniya suv belgilari qayerda qo‘llanilishi va aniqlash qanday ishlashini ma’lum qildi.",
+    "tags": [
+      "OpenAI",
+      "qonun"
+    ],
+    "importance": 3,
+    "score": 33,
+    "published": "2026-10-05T15:00:00.000Z",
+    "created": "2026-10-05T15:20:54.519Z",
+    "coverage": 1,
+    "source": {
+      "name": "OpenAI",
+      "url": "https://openai.com/index/eu-text-provenance",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "1d28d12072be",
+    "slug": "ai-agentlari-davrida-bashoratli-tahlil-avtonom-qarorlarga-o--1d28d1",
+    "title": "AI agentlari davrida bashoratli tahlil avtonom qarorlarga o‘tmoqda",
+    "summary": "Korxona AI uchun bashoratli modellar statistik prognozlardan ustunligi allaqachon tasdiqlangan. Endi asosiy masala bashoratli tizimlarni avtonom qarorlar qabul qilishga o‘rgatishdir.",
+    "tags": [
+      "agentlar",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 26,
+    "published": "2026-10-05T13:29:32.000Z",
+    "created": "2026-10-05T15:20:54.519Z",
+    "coverage": 1,
+    "source": {
+      "name": "MIT Technology Review",
+      "url": "https://technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "123ff3152533",
+    "slug": "norvegiya-ai-ko-zoynaklarini-vaqtincha-taqiqlashni-ko-rib-ch-123ff3",
+    "title": "Norvegiya AI ko‘zoynaklarini vaqtincha taqiqlashni ko‘rib chiqmoqda",
+    "summary": "Norvegiya rasmiylari AI ko‘zoynaklarini jamoat joylarida vaqtincha taqiqlashni taklif qildi. Bu aqlli ko‘zoynaklar odamlarni ularning xabarisiz suratga olish va yozib olishni osonlashtirishi sababli.",
+    "tags": [
+      "qonun",
+      "maxfiylik"
+    ],
+    "importance": 4,
+    "score": 25,
+    "published": "2026-10-05T13:51:17.000Z",
+    "created": "2026-10-05T15:20:54.519Z",
+    "coverage": 2,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/10/05/norway-ai-smart-glasses-privacy-ban",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "trendingtopics.eu",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBBTGU1NGRza1FVeTZHaXRtbnBDSTB4bF9uVF9PZUNQZnBmM0ppcWJYTUhRamRoZUJPRE42Um5sZi1pbmw2TDFkWDYxQlBYT0RfcFlGMFRTcHBVUkFyaXRMTlNQaEdjSXN6RHhfUnZFdi1Fb1l6"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "bdb94ac49743",
+    "slug": "senator-adam-schiff-ai-tartibga-solish-haqida-fikr-bildirdi-bdb94a",
+    "title": "Senator Adam Schiff AI tartibga solish haqida fikr bildirdi",
+    "summary": "Kaliforniyalik senator Adam Schiff texnologiya va AI nazorati bo‘yicha qo‘mitalarda ishlaydi. U AI sanoatini qanday tartibga solish mumkinligi haqida intervyu berdi.",
+    "tags": [
+      "siyosat",
+      "qonun"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-10-05T14:30:00.000Z",
+    "created": "2026-10-05T15:20:54.519Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Verge",
+      "url": "https://theverge.com/podcast/1004286/senator-adam-schiff-ai-trump-regulation-corruption",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "c9a670f3af7b",
+    "slug": "sam-altman-aiga-ochiq-kirishni-qo-llab-quvvatlaydi-c9a670",
+    "title": "Sam Altman AIga ochiq kirishni qo‘llab-quvvatlaydi",
+    "summary": "Sam Altman AIga ochiq kirishni noto‘g‘ri foydalanish xavfiga qaramay qo‘llab-quvvatlaydi. U bu borada Anthropic bilan kelishmovchilik borligini ta’kidladi.",
+    "tags": [
+      "OpenAI",
+      "Anthropic"
+    ],
+    "importance": 3,
+    "score": 10,
+    "published": "2026-10-05T11:38:00.000Z",
+    "created": "2026-10-05T15:20:54.519Z",
+    "coverage": 1,
+    "source": {
+      "name": "Adgully.com",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeDFSbno3MDZqejZCNy0ydERSVVQ0bmlya3FXNTRpZlFIXzJFU0RGRnNkeHFkUTJVVG42aWdqc3FNcDB3UnhiUU9TMG1vTDNScS0zUnVJbVVwQ1piOEI5WkRuaWlMMExjTE5hWnE4ZUJtX0F2SVZEeWJKcG1DV2xWNGt1MDR5OElERlRhcnRwd3VGUUJXQjJpLXJvN09tUUtqazhGV0NlcWQ1UlZ1YUNaQzhOVnlMLUk",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "d778e5f3d9bd",
     "slug": "nyu-york-kengashi-ai-xavfsizligi-boyicha-yigilish-otkazdi-d778e5",
     "title": "Nyu-York kengashi AI xavfsizligi bo'yicha yig'ilish o'tkazdi",
