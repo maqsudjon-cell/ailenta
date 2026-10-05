@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://ailenta.uz/x/the-atlantic-nashrida-podkast-sabab-kelishmovchilik-chiqdi-b19d4b/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>AI Lenta</news:name>
+        <news:language>uz</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-05T00:48:16.000Z</news:publication_date>
+      <news:title>The Atlantic nashrida podkast sabab kelishmovchilik chiqdi</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://ailenta.uz/x/menlo-ventures-ai-sekinlashuvini-chalgituvchi-omil-dedi-03e1d1/</loc>
     <news:news>
       <news:publication>
@@ -1044,17 +1055,6 @@
       </news:publication>
       <news:publication_date>2026-10-03T01:10:00.000Z</news:publication_date>
       <news:title>Sotib olinmaydigan AI g'olibi Nvidia'ni 10 barobar ortda qoldirdi</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://ailenta.uz/x/anthropic-va-papa-leo-ai-boyicha-qarama-qarshi-fikrda-3ffec8/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>AI Lenta</news:name>
-        <news:language>uz</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-03T00:43:56.000Z</news:publication_date>
-      <news:title>Anthropic va Papa Leo AI bo'yicha qarama-qarshi fikrda</news:title>
     </news:news>
   </url>
 </urlset>
