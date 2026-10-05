@@ -1,5 +1,47 @@
 [
   {
+    "id": "ea5cfbb46094",
+    "slug": "hackerrank-ai-suhbatdoshini-ishga-tushirdi-ea5cfb",
+    "title": "HackerRank AI suhbatdoshini ishga tushirdi",
+    "summary": "HackerRank kompaniyasining ishga qabul qilish uchun mo‘ljallangan AI vositasi 500 000 dan ortiq intervyu o‘tkazdi. Ushbu tizimni Snowflake, Snorkel va Capgemini kompaniyalari sinovdan o‘tkazmoqda.",
+    "tags": [
+      "mehnat bozori"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-10-05T16:43:35.000Z",
+    "created": "2026-10-05T18:01:12.507Z",
+    "coverage": 1,
+    "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/05/hackerranks-ai-interviewer-offers-a-glimpse-into-what-job-interviews-could-become",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "e0b338e7a3c9",
+    "slug": "amerikaliklarning-ko-pchiligi-ai-to-xtatilishini-istaydi-e0b338",
+    "title": "Amerikaliklarning ko‘pchiligi AI to‘xtatilishini istaydi",
+    "summary": "Quinnipiac universiteti o‘tkazgan so‘rovnomaga ko‘ra, amerikaliklarning 77 foizi AI xavfsizligi tasdiqlanmaguncha uning rivojlanishini sekinlashtirish yoki to‘xtatish tarafdori. Respondentlarning 86 foizi mustaqil xavfsizlik standartlarini qo‘llab-quvvatlagan, 74 foizi esa soha rahbarlariga ishonmasligini bildirgan.",
+    "tags": [
+      "xavfsizlik"
+    ],
+    "importance": 4,
+    "score": 15,
+    "published": "2026-10-05T16:37:08.000Z",
+    "created": "2026-10-05T18:01:12.507Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/most-americans-want-ai-development-to-slow-down-or-stop-entirely-new-poll-finds",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "b3a4c9058fc3",
     "slug": "qora-dengizda-turkiya-kemasi-cho-kib-ketdi-b3a4c9",
     "title": "Qora dengizda Turkiya kemasi choʻkib ketdi",
