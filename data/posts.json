@@ -1,5 +1,214 @@
 [
   {
+    "id": "b3a4c9058fc3",
+    "slug": "qora-dengizda-turkiya-kemasi-cho-kib-ketdi-b3a4c9",
+    "title": "Qora dengizda Turkiya kemasi choʻkib ketdi",
+    "summary": "Qora dengizda Ukrainadan don olib ketayotgan Turkiya kemasi choʻkib ketdi. Dron hujumi sabab boʻlgani aytilmoqda. Ikki ekipaj aʼzosi halok boʻlib, 11 kishi qutqarib olindi.",
+    "tags": [
+      "siyosat",
+      "iqtisod"
+    ],
+    "importance": 3,
+    "score": 45,
+    "published": "2026-10-05T17:25:39.000Z",
+    "created": "2026-10-05T17:32:43.896Z",
+    "coverage": 1,
+    "source": {
+      "name": "Daryo",
+      "url": "https://daryo.uz/2026/10/05/qora-dengizda-turkiya-kemasi-chokib-ketdi-unga-dron-hujum-qilgani-aytilmoqda",
+      "title": "Qora dengizda Turkiya kemasi choʻkib ketdi. Unga dron hujum qilgani aytilmoqda",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "4f0f9f842c46",
+    "slug": "mask-spacex-brendida-ai-o-rniga-si-atamasini-ishlatdi-4f0f9f",
+    "title": "Mask SpaceX brendida AI o‘rniga SI atamasini ishlatdi",
+    "summary": "Elon Musk SpaceX brendida \"AI\" o‘rniga \"SI\" (Sun'iy Intellekt) atamasini ishlatdi. Bu Trampning shu kabi o‘zgarishiga ergashish sifatida baholanmoqda.",
+    "tags": [
+      "xAI",
+      "siyosat"
+    ],
+    "importance": 2,
+    "score": 19,
+    "published": "2026-10-05T14:29:00.000Z",
+    "created": "2026-10-05T17:32:46.145Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/offbeat/2026/10/05/musk-follows-trumps-lead-swaps-ai-for-si-in-spacex-rebrand/5301090",
+      "title": "Musk follows Trump's lead, swaps AI for SI in SpaceX rebrand",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "f644f3352f0c",
+    "slug": "honda-harakatdagi-elektromobilni-simsiz-quvvatlashni-namoyis-f644f3",
+    "title": "Honda harakatdagi elektromobilni simsiz quvvatlashni namoyish etadi",
+    "summary": "Honda harakat vaqtida elektromobillarni simsiz quvvatlash texnologiyasini namoyish etadi. Yoʻl qoplamasiga oʻrnatilgan maxsus modullar elektr energiyasini avtomobilga uzatadi.",
+    "tags": [
+      "biznes",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 45,
+    "published": "2026-10-05T12:32:51.000Z",
+    "created": "2026-10-05T17:32:50.645Z",
+    "coverage": 1,
+    "source": {
+      "name": "Kun.uz",
+      "url": "https://kun.uz/news/2026/10/05/honda-elektromobilni-harakat-vaqtida-quvvatlantiruvchi-yol-maketini-namoyish-etadi",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "ebc51467341e",
+    "slug": "o-zbekistonda-20-ta-startapni-qo-llab-quvvatlash-tanlovi-ebc514",
+    "title": "O‘zbekistonda 20 ta startapni qo‘llab-quvvatlash tanlovi",
+    "summary": "O‘zbekistonda 20 ta texnologik startapni qo‘llab-quvvatlash uchun tanlov eʼlon qilindi. Arizalar 2026-yil 14-oktabrga qadar qabul qilinadi.",
+    "tags": [
+      "O'zbekiston",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 41,
+    "published": "2026-10-05T16:59:00.000Z",
+    "created": "2026-10-05T17:32:50.646Z",
+    "coverage": 1,
+    "source": {
+      "name": "UzDaily",
+      "url": "https://uzdaily.uz/uz/ozbekistonda-20-ta-startapni-qollab-quvvatlash-uchun-tanlov-e%CA%BClon-qilindi",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "ef7bc2d4d117",
+    "slug": "pentagon-anthropic-ai-vositalaridan-foydalanishni-to-xtatdi-ef7bc2",
+    "title": "Pentagon Anthropic AI vositalaridan foydalanishni to‘xtatdi",
+    "summary": "Pentagon Anthropic kompaniyasini \"ta'minot zanjiri xavfi\" deb belgilab, uning AI vositalaridan foydalanishni to‘xtatdi. Bu Anthropic xavfsizlik cheklovlarini olib tashlashdan bosh tortganidan keyin sodir bo‘ldi.",
+    "tags": [
+      "Anthropic",
+      "siyosat"
+    ],
+    "importance": 4,
+    "score": 38,
+    "published": "2026-10-05T16:13:21.000Z",
+    "created": "2026-10-05T17:32:50.646Z",
+    "coverage": 3,
+    "source": {
+      "name": "BBC News",
+      "url": "https://bbc.co.uk/news/articles/c5j9x9pr0240o?at_medium=RSS&at_campaign=rss",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "BBC",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA2TmhRWF82ZDZlOGM0RXRlVmsxRWFFT1NRZFdaSTl0a1hRMllUUWtWOUdRWTVsVWtjbE9Kc1gxUUZlUVRnd09zU2R4dGNVMzZOUS1jeVEzMTdYWkNR"
+      },
+      {
+        "name": "AOL.com",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMlhBUERGLVFkZEs1WWhyUzB4c3lhVFhrekx1SG9FcG9tWFJWVkpiczNQQTQ3Y2VYbkwyd0s3M0gxdHBnS2ZmUWg1LUl4elU2dFNkT0ZDUkRGbWV6RWVYd09aNTdsbnNoWFp5UTRsWjdzNUViLXJGTTRTYzAxOU8yckUxYw"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "a2beb8a05eac",
+    "slug": "ai-ko-krak-bezi-saratonini-davolashda-yordam-bermoqda-a2beb8",
+    "title": "AI ko‘krak bezi saratonini davolashda yordam bermoqda",
+    "summary": "AI ko‘krak bezi saratonini tashxislash va davolashdagi bo‘shliqlarni bartaraf etishga yordam bermoqda. Bu kasallik amerikalik ayollar orasida eng ko‘p uchraydigan saraton turidir.",
+    "tags": [
+      "Nvidia",
+      "tibbiyot"
+    ],
+    "importance": 3,
+    "score": 33,
+    "published": "2026-10-05T13:00:57.000Z",
+    "created": "2026-10-05T17:32:50.646Z",
+    "coverage": 1,
+    "source": {
+      "name": "Nvidia",
+      "url": "https://blogs.nvidia.com/blog/ai-breast-cancer-startups",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "2fe5eeda1271",
+    "slug": "ai-agentlarida-insonni-jarayondan-chiqarish-xavfi-2fe5ee",
+    "title": "AI agentlarida insonni jarayondan chiqarish xavfi",
+    "summary": "Yetakchi AI etika tadqiqotchilari AI agentlarida insonni jarayonda ushlab turish urinishlari aksincha ularni chiqarib yuborishi mumkinligini ta'kidladi. Ular bu holatda insonlar faqat ruxsat beruvchi \"vosita\"ga aylanadi, deb ogohlantirdi.",
+    "tags": [
+      "tadqiqot",
+      "agentlar"
+    ],
+    "importance": 3,
+    "score": 28,
+    "published": "2026-10-05T15:57:11.000Z",
+    "created": "2026-10-05T17:32:50.646Z",
+    "coverage": 1,
+    "source": {
+      "name": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/agentic-ai-humans-in-loop",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "7b441ca2abc3",
+    "slug": "volantis-fotonikani-ai-tezlatgichlariga-integratsiya-qiladi-7b441c",
+    "title": "Volantis fotonikani AI tezlatgichlariga integratsiya qiladi",
+    "summary": "Sam Altman tomonidan qo‘llab-quvvatlanadigan Volantis kompaniyasi fotonikani AI tezlatgichlariga integratsiya qilish rejasini e'lon qildi. Bu xotira va hisoblash o‘rtasidagi \"devorni\" bartaraf etishga qaratilgan.",
+    "tags": [
+      "chiplar",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-10-05T16:32:00.000Z",
+    "created": "2026-10-05T17:32:50.646Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/systems/2026/10/05/altman-backed-volantis-reveals-plan-to-vault-the-memory-wall-by-baking-photonics-into-ai-accelerators/5300959",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "1469bd84211a",
+    "slug": "debian-yadrosi-xavfsizlik-yangilanishida-1-313-ta-tuzatish-1469bd",
+    "title": "Debian yadrosi xavfsizlik yangilanishida 1,313 ta tuzatish",
+    "summary": "Debianning so‘nggi yadro xavfsizlik yangilanishida 1,313 ta tuzatish mavjud. AI yordamida xatolarni topish texnik xodimlarning ish yukini oshirmoqda.",
+    "tags": [
+      "xavfsizlik",
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 19,
+    "published": "2026-10-05T15:35:00.000Z",
+    "created": "2026-10-05T17:32:50.646Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/os-platforms/2026/10/05/debians-latest-kernel-security-update-has-1313-reasons-to-patch/5301124",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "edd9ab46478d",
     "slug": "odamlar-ai-tomonidan-yozilgan-kodni-tamirlash-uchun-ishga-ol-edd9ab",
     "title": "Odamlar AI tomonidan yozilgan kodni ta'mirlash uchun ishga olinmoqda",
