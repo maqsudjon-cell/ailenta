@@ -1,5 +1,70 @@
 [
   {
+    "id": "e098b9ab4596",
+    "slug": "coreweave-vakili-ai-modellarining-real-sinovlari-haqida-e098b9",
+    "title": "CoreWeave vakili AI modellarining real sinovlari haqida",
+    "summary": "CoreWeave kompaniyasi vitse-prezidenti Richard Ahlfeld AI modellarining real sinovlarda muvaffaqiyatsizlikka uchrashi haqida gapirdi. Uning so‘zlariga ko‘ra, jismoniy AI ko‘pincha ma’lumotlar yetishmasligi sababli ishlamay qoladi.",
+    "tags": [
+      "biznes",
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 18,
+    "published": "2026-10-05T08:45:01.000Z",
+    "created": "2026-10-05T10:01:56.402Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/261005/p6",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "e34405001178",
+    "slug": "ai-modellar-ar-sahnalarini-baholashda-samarali-e34405",
+    "title": "AI modellar AR sahnalarini baholashda samarali",
+    "summary": "O‘n bitta AI modeli AR sahnalarini baholashda sinovdan o‘tkazildi. Eng yaxshi model inson baholovchilariga 0.87 darajada mos keldi.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 1,
+    "score": 7,
+    "published": "2026-10-05T05:49:52.000Z",
+    "created": "2026-10-05T10:01:56.402Z",
+    "coverage": 1,
+    "source": {
+      "name": "MIXED Reality News",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQaXpxYVZWNENBY05uUDdKWDlrV3RyMHRmYXdaRmNqallkVk9JNW5yeUR5MlVZTHFGb1E4NXdKaXhnSjlXZ0Q2Z0dWdnFpY0RTTEFGXzVRRDQ0dU9sVUNMWWF2UmcxX3VySGdHbGR0VWkwRlRQQVIxSkxRZ1h5dlpVQXhacWtiV1BCak11ZzFzUWw",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "bfcbb919ee51",
+    "slug": "algoritmik-tekshiruv-greenwashing-ga-qarshi-kurashadi-bfcbb9",
+    "title": "Algoritmik tekshiruv \"greenwashing\"ga qarshi kurashadi",
+    "summary": "Tadqiqotchilar kompaniyalarning \"greenwashing\" amaliyotiga qarshi kurashish uchun algoritmik tekshiruv usulini taklif qildi. Bu usul mashina o‘rganish yordamida korporativ emissiyalarni ob’ektiv baholaydi.",
+    "tags": [
+      "tadqiqot",
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 7,
+    "published": "2026-10-05T04:00:00.000Z",
+    "created": "2026-10-05T10:01:56.402Z",
+    "coverage": 1,
+    "source": {
+      "name": "arXiv cs.LG",
+      "url": "https://arxiv.org/abs/2610.02225",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "12b51c682fa6",
     "slug": "llmlar-notogri-teoremalarni-rad-etishda-qiynalmoqda-12b51c",
     "title": "LLM'lar noto'g'ri teoremalarni rad etishda qiynalmoqda",
