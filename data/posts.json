@@ -1,5 +1,93 @@
 [
   {
+    "id": "8e0790a23349",
+    "slug": "ai-matematikaning-murakkab-muammolarini-hal-qilmoqda-8e0790",
+    "title": "AI matematikaning murakkab muammolarini hal qilmoqda",
+    "summary": "OpenAI, Anthropic va boshqa AI laboratoriyalari o‘tgan yili ko‘plab uzoq yillik matematik muammolarni hal qilishda yutuqlarga erishdi. Ba'zi hollarda ular Millennium Prize muammolaridan birini ham yechishga muvaffaq bo‘ldi.",
+    "tags": [
+      "OpenAI",
+      "Anthropic"
+    ],
+    "importance": 3,
+    "score": 21,
+    "published": "2026-10-05T19:28:59.000Z",
+    "created": "2026-10-05T21:39:19.694Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Verge",
+      "url": "https://theverge.com/ai-artificial-intelligence/1004933/ai-math-openai-breakthrough-solution",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "d6316449b0b3",
+    "slug": "anthropic-bozor-noaniqligida-ipoga-chiqishi-kutilmoqda-d63164",
+    "title": "Anthropic bozor noaniqligida IPOga chiqishi kutilmoqda",
+    "summary": "Anthropic kompaniyasi bozor noaniqligi va AI rivojlanishidagi sekinlashuv chaqiriqlariga qaramay, IPOga chiqishi kutilmoqda. Bu haqda CNN xabar berdi.",
+    "tags": [
+      "Anthropic",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 9.8,
+    "published": "2026-10-05T09:00:45.000Z",
+    "created": "2026-10-05T21:39:19.694Z",
+    "coverage": 1,
+    "source": {
+      "name": "CNN",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1BdEczbUY5VGdZTlMtYm9HeVFjZWlfZzZrYTd3ZE1ydl9hNDA2bFRDR0FQV3lfTzRoQ3lxQlRRM0dJY1E5NENuVVFzT3c2ZU9iZktHLWdZbnJ3bmdNREJpd01Ua0Z3Vl8xVFJPS2JrM3UxYTI5",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "8edeb41826d4",
+    "slug": "jon-stewart-anthropic-xodimini-intervyu-qiladi-8edeb4",
+    "title": "Jon Stewart Anthropic xodimini intervyu qiladi",
+    "summary": "Jon Stewart \"The Daily Show\" ko‘rsatuvida Anthropic kompaniyasining ma'lumot tarqatuvchi xodimini intervyu qilishi kutilmoqda. Bu haqda LateNighter xabar berdi.",
+    "tags": [
+      "Anthropic",
+      "xavfsizlik"
+    ],
+    "importance": 2,
+    "score": 7,
+    "published": "2026-10-05T16:16:59.000Z",
+    "created": "2026-10-05T21:39:19.694Z",
+    "coverage": 1,
+    "source": {
+      "name": "LateNighter",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNU0kzYVMxYTVWU3ppYndTZUQtTmlZVndSM1RyZlN5QlB3SEdhT09oM29DeVpkSXZLVWVGckI5aW9ZSUV2SXViSkZtSnNzZkVwUGZSbEVoY1hpamVZdzdfTlVaOUdXUUp3c1lRcWNucFhLV1hwTWJRd09sVzJ0ODhsTV9nQUJNVk9CVC04VV92bE9JcDlnendF",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "9a6118ae0de4",
+    "slug": "mit-talabalari-qo-lni-harakatga-keltiruvchi-ai-qurilma-yarat-9a6118",
+    "title": "MIT talabalari qo‘lni harakatga keltiruvchi AI qurilma yaratdi",
+    "summary": "MIT talabalar jamoasi qo‘lni jismonan harakatga keltiruvchi AI taqiladigan qurilma yaratdi. Bu haqda Gadget Review xabar berdi.",
+    "tags": [
+      "tadqiqot",
+      "robototexnika"
+    ],
+    "importance": 2,
+    "score": 7,
+    "published": "2026-10-05T14:21:57.000Z",
+    "created": "2026-10-05T21:39:19.694Z",
+    "coverage": 1,
+    "source": {
+      "name": "Gadget Review",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcHVSeVBEUDR3YlRyZ0g3Y0dtUXUxVFFfN2NnNTZYT0poTEJuWG5GdGxFdlZneWZYQmtZb3RHUHR3NGJjOHNmNDdlVG5FTjlOU1BkRkJCZ1ZudjZxSWNhdzlZTFdYVDg5S3d4NlItS1NDb1ZzemhJVXlmRlc4bXlISlRUWEpYeC10VGd0WkRWVjFseV92TWhaQ3d0Z0w",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "67ad08e939a2",
     "slug": "gop-senatori-anthropicni-aiga-vaximali-yondashuvda-ogohlanti-67ad08",
     "title": "GOP senatori Anthropicni AIga \"vaximali\" yondashuvda ogohlantirdi",

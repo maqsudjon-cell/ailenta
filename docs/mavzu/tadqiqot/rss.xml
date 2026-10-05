@@ -5,7 +5,7 @@
   <link>https://ailenta.uz/mavzu/tadqiqot/</link>
   <description>&quot;tadqiqot&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Mon, 05 Oct 2026 21:31:51 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 05 Oct 2026 21:45:16 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/tadqiqot/rss.xml" rel="self" type="application/rss+xml"/>
   <item>
     <title>Reka AI Rho-1 modeli matn, tasvir, video va robotni boshqaradi</title>
@@ -46,6 +46,16 @@
     <category>xavfsizlik</category><category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/debian-yadrosi-xavfsizlik-yangilanishida-1-313-ta-tuzatish-1469bd.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/debian-yadrosi-xavfsizlik-yangilanishida-1-313-ta-tuzatish-1469bd.jpg"/>
+  </item>
+  <item>
+    <title>MIT talabalari qo‘lni harakatga keltiruvchi AI qurilma yaratdi</title>
+    <link>https://ailenta.uz/x/mit-talabalari-qo-lni-harakatga-keltiruvchi-ai-qurilma-yarat-9a6118/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/mit-talabalari-qo-lni-harakatga-keltiruvchi-ai-qurilma-yarat-9a6118/</guid>
+    <pubDate>Mon, 05 Oct 2026 14:21:57 GMT</pubDate>
+    <description>MIT talabalar jamoasi qo‘lni jismonan harakatga keltiruvchi AI taqiladigan qurilma yaratdi. Bu haqda Gadget Review xabar berdi.</description>
+    <category>tadqiqot</category><category>robototexnika</category>
+    <media:content url="https://ailenta.uz/og/mit-talabalari-qo-lni-harakatga-keltiruvchi-ai-qurilma-yarat-9a6118.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/mit-talabalari-qo-lni-harakatga-keltiruvchi-ai-qurilma-yarat-9a6118.jpg"/>
   </item>
   <item>
     <title>Honda harakatdagi elektromobilni simsiz quvvatlashni namoyish etadi</title>
@@ -296,16 +306,6 @@
     <category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/dasturchi-aiga-modx-tizimini-togridan-togri-berdi-348d12.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/dasturchi-aiga-modx-tizimini-togridan-togri-berdi-348d12.jpg"/>
-  </item>
-  <item>
-    <title>AI foydalanuvchi hissiyotlarini qanday tushunadi</title>
-    <link>https://ailenta.uz/x/ai-foydalanuvchi-hissiyotlarini-qanday-tushunadi-8cc169/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/ai-foydalanuvchi-hissiyotlarini-qanday-tushunadi-8cc169/</guid>
-    <pubDate>Sat, 03 Oct 2026 12:18:31 GMT</pubDate>
-    <description>Habr nashri neyrotarmoqlarning foydalanuvchi hissiyotlarini tushunish qobiliyatini tahlil qildi. So'rovda 500 kishining 17,2%i ruhiy salomatlik masalalarida ChatGPT'dan yordam so'raganini bildirdi.</description>
-    <category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/ai-foydalanuvchi-hissiyotlarini-qanday-tushunadi-8cc169.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/ai-foydalanuvchi-hissiyotlarini-qanday-tushunadi-8cc169.jpg"/>
   </item>
 </channel>
 </rss>
