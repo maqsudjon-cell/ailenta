@@ -1,5 +1,72 @@
 [
   {
+    "id": "d498bec4922c",
+    "slug": "seagate-va-toshiba-tdk-biznesi-uchun-kurashmoqda-d498be",
+    "title": "Seagate va Toshiba TDK biznesi uchun kurashmoqda",
+    "summary": "Seagate va Toshiba kompaniyalari TDK'ning qattiq disklar uchun magnit kallaklar ishlab chiqarish biznesini sotib olish uchun kurashmoqda. Ushbu ko'p milliard dollarlik kelishuv AI ma'lumotlar markazlari xotirasiga bo'lgan talab tufayli yuzaga kelgan.",
+    "tags": [
+      "biznes",
+      "iqtisod"
+    ],
+    "importance": 3,
+    "score": 18,
+    "published": "2026-10-06T05:00:14.000Z",
+    "created": "2026-10-06T06:36:23.822Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/261006/p1",
+      "title": "Sources: Seagate and Toshiba are bidding for TDK's HDD magnetic head business in a multibillion-dollar deal, as they compete for AI data center storage demand (Bloomberg)",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "9220c77f12bf",
+    "slug": "ai-kompaniyalariga-qarshi-noroziliklar-kuchaymoqda-9220c7",
+    "title": "AI kompaniyalariga qarshi noroziliklar kuchaymoqda",
+    "summary": "\"Pull The Plug\" kabi guruhlar sun'iy intellekt xavfsizligi bo'yicha ogohlantirishlardan so'ng faollashmoqda. Norozilik ishtirokchilari Nvidia rahbari nutq so'zlaydigan texnologik kechki ovqatni buzishni rejalashtirgan.",
+    "tags": [
+      "Nvidia",
+      "xavfsizlik"
+    ],
+    "importance": 2,
+    "score": 26,
+    "published": "2026-10-06T06:00:04.000Z",
+    "created": "2026-10-06T06:36:31.666Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/technology/2026/oct/06/pull-the-plug-protesters-resort-to-direct-action-against-ai-firms",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "0d50af4c771d",
+    "slug": "schneider-electric-ptcni-sotib-olmoqda-0d50af",
+    "title": "Schneider Electric PTC'ni sotib olmoqda",
+    "summary": "Schneider Electric kompaniyasi ma'lumotlar markazlari infratuzilmasini rivojlantirish maqsadida PTC kompaniyasini 22,6 milliard dollarga sotib olmoqda. Bu kelishuv ma'lumotlar markazlari bumu fonida amalga oshirilmoqda.",
+    "tags": [
+      "biznes",
+      "iqtisod"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-10-05T22:48:15.000Z",
+    "created": "2026-10-06T06:36:31.666Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/systems/2026/10/05/schneider-electric-acquires-ptc-for-226-billion/5301254",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "9dca77ea47f0",
     "slug": "moskva-tomon-bir-oyda-10-mingga-yaqin-dron-uchib-keldi-9dca77",
     "title": "Moskva tomon bir oyda 10 mingga yaqin dron uchib keldi",
