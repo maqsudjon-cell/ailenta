@@ -1,5 +1,117 @@
 [
   {
+    "id": "cbee4f834379",
+    "slug": "cowork-claude-uchun-bulutli-vmga-otdi-cbee4f",
+    "title": "Cowork Claude uchun bulutli VM'ga o'tdi",
+    "summary": "Cowork platformasi Anthropic'ning Claude modeli uchun mahalliy VM'dan bulutli VM'ga o‘tdi. Bu o‘zgarish disk, batareya va ishlash muammolarini hal qilishga qaratilgan. Endi har bir sessiya o‘zining alohida sandbox'iga ega.",
+    "tags": [
+      "Anthropic",
+      "bulut"
+    ],
+    "importance": 2,
+    "score": 23.7,
+    "published": "2026-10-05T23:56:47.000Z",
+    "created": "2026-10-06T12:36:47.734Z",
+    "coverage": 1,
+    "source": {
+      "name": "Simon Willison",
+      "url": "https://simonwillison.net/2026/Oct/5/felix-rieseberg",
+      "title": "Quoting Felix Rieseberg",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "3c6d86e8eedc",
+    "slug": "ai-yozgan-postlar-linkedin-sifatini-buzmoqda-3c6d86",
+    "title": "AI yozgan postlar LinkedIn sifatini buzmoqda",
+    "summary": "Fortune nashri AI tomonidan yaratilgan kontent LinkedIn'dagi postlar sifatini pasaytirayotganini yozdi. Maqolada AI'ning ghostwriting sohasiga ta'siri muhokama qilingan.",
+    "tags": [
+      "mehnat bozori",
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 19,
+    "published": "2026-10-06T11:30:00.000Z",
+    "created": "2026-10-06T12:36:47.743Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/10/06/ai-slop-marketing-ghostwriter-copy",
+      "title": "I’ve spent a decade teaching AI to write. Here’s why your slop posts are ruining your LinkedIn",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "da669a0b69a3",
+    "slug": "ai-insonlarni-almashtirishi-haqida-yangi-bahs-da669a",
+    "title": "AI insonlarni almashtirishi haqida yangi bahs",
+    "summary": "The Guardian nashri \"buyuk almashtirish\" nazariyasi ortida texnologiya sohasida AI insonlarni almashtirishi haqidagi haqiqiy muammo yashiringanini yozdi. Maqolada texnologiya milliarderlari bu g‘oyalarni kuchaytirayotgani aytiladi.",
+    "tags": [
+      "mehnat bozori",
+      "siyosat"
+    ],
+    "importance": 3,
+    "score": 23,
+    "published": "2026-10-06T12:00:13.000Z",
+    "created": "2026-10-06T12:36:58.529Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/commentisfree/2026/oct/06/great-replacement-theory-ai",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "d0c1a9412697",
+    "slug": "italiya-bosh-vaziri-ovozini-aidan-himoya-qildi-d0c1a9",
+    "title": "Italiya Bosh vaziri ovozini AI'dan himoya qildi",
+    "summary": "Italiya Bosh vaziri Giorgia Meloni o‘z ovozini AI tomonidan yaratilgan deepfake'lardan himoya qilish uchun uni ro‘yxatdan o‘tkazdi. U Yevropa Ittifoqi agentligiga to‘rt soniyalik audio yuborgan.",
+    "tags": [
+      "siyosat",
+      "qonun"
+    ],
+    "importance": 3,
+    "score": 23,
+    "published": "2026-10-06T11:24:10.000Z",
+    "created": "2026-10-06T12:36:58.529Z",
+    "coverage": 1,
+    "source": {
+      "name": "BBC News",
+      "url": "https://bbc.co.uk/news/articles/ckly0g1ljq2yo?at_medium=RSS&at_campaign=rss",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "32260d0bcdfd",
+    "slug": "ai-yordamida-20-daqiqada-claymation-reklama-yaratish-32260d",
+    "title": "AI yordamida 20 daqiqada Claymation reklama yaratish",
+    "summary": "Habr maqolasida AI yordamida 20 daqiqada Claymation uslubidagi reklama kreativlarini yaratish jarayoni tasvirlangan. Unda ssenariy, stil, ovoz va video generatsiyasi uchun AI'dan foydalanish ko‘rsatilgan.",
+    "tags": [
+      "biznes",
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 17,
+    "published": "2026-10-06T11:20:50.000Z",
+    "created": "2026-10-06T12:36:58.529Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/companies/syntx_ai/articles/1091046",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "95638771ba76",
     "slug": "rossiya-shturm-robot-tankini-namoyish-etdi-956387",
     "title": "Rossiya \"Shturm\" robot tankini namoyish etdi",

@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/anthropic/</link>
   <description>&quot;Anthropic&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Tue, 06 Oct 2026 12:07:10 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 06 Oct 2026 12:42:50 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/anthropic/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Cowork Claude uchun bulutli VM'ga o'tdi</title>
+    <link>https://ailenta.uz/x/cowork-claude-uchun-bulutli-vmga-otdi-cbee4f/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/cowork-claude-uchun-bulutli-vmga-otdi-cbee4f/</guid>
+    <pubDate>Mon, 05 Oct 2026 23:56:47 GMT</pubDate>
+    <description>Cowork platformasi Anthropic'ning Claude modeli uchun mahalliy VM'dan bulutli VM'ga o‘tdi. Bu o‘zgarish disk, batareya va ishlash muammolarini hal qilishga qaratilgan. Endi har bir sessiya o‘zining alohida sandbox'iga ega.</description>
+    <category>Anthropic</category><category>bulut</category>
+    <media:content url="https://ailenta.uz/og/cowork-claude-uchun-bulutli-vmga-otdi-cbee4f.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/cowork-claude-uchun-bulutli-vmga-otdi-cbee4f.jpg"/>
+  </item>
   <item>
     <title>AI matematikaning murakkab muammolarini hal qilmoqda</title>
     <link>https://ailenta.uz/x/ai-matematikaning-murakkab-muammolarini-hal-qilmoqda-8e0790/</link>
@@ -296,16 +306,6 @@
     <category>Anthropic</category>
     <media:content url="https://ailenta.uz/og/anthropic-asoschisi-papaning-ai-tadbiridan-voz-kechmoqchi-658cd2.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/anthropic-asoschisi-papaning-ai-tadbiridan-voz-kechmoqchi-658cd2.jpg"/>
-  </item>
-  <item>
-    <title>Anthropic Vatikanni AI ongi pozitsiyasini o'zgartirishga undadi</title>
-    <link>https://ailenta.uz/x/anthropic-vatikanni-ai-ongi-pozitsiyasini-ozgartirishga-unda-e51235/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/anthropic-vatikanni-ai-ongi-pozitsiyasini-ozgartirishga-unda-e51235/</guid>
-    <pubDate>Fri, 02 Oct 2026 22:27:00 GMT</pubDate>
-    <description>Anthropic kompaniyasi Vatikanni sun'iy intellekt ongi bo'yicha o'z pozitsiyasini qayta ko'rib chiqishga undadi. Bu haqda Diya TV xabar berdi.</description>
-    <category>Anthropic</category><category>siyosat</category>
-    <media:content url="https://ailenta.uz/og/anthropic-vatikanni-ai-ongi-pozitsiyasini-ozgartirishga-unda-e51235.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/anthropic-vatikanni-ai-ongi-pozitsiyasini-ozgartirishga-unda-e51235.jpg"/>
   </item>
 </channel>
 </rss>
