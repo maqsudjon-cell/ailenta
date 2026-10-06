@@ -1,5 +1,114 @@
 [
   {
+    "id": "408124a86527",
+    "slug": "sam-altman-ai-xavflari-uchun-javobgarlikni-muhokama-qildi-408124",
+    "title": "Sam Altman AI xavflari uchun javobgarlikni muhokama qildi",
+    "summary": "OpenAI bosh direktori Sam Altman AI texnologiyasining foydalari uchun ba'zi salbiy oqibatlarni qabul qilish kerakligini aytdi. The Guardian bu fikrni tanqid qilib, xavflar jamoatchilikka yuklanayotganini ta'kidladi.",
+    "tags": [
+      "OpenAI",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 29,
+    "published": "2026-10-06T15:30:17.000Z",
+    "created": "2026-10-06T18:01:32.437Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/commentisfree/2026/oct/06/ai-sam-altman-billionaire-risks-openai",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "d80932f9446b",
+    "slug": "ai-kelajakda-jurnalistikani-ozgartirishi-bashorat-qilindi-d80932",
+    "title": "AI kelajakda jurnalistikani o'zgartirishi bashorat qilindi",
+    "summary": "Princeton universiteti vakili Arvind Narayanan AI'ning kelajakda \"haqiqat manbai\"ga aylanishini bashorat qildi. Uning fikricha, bu jurnalistika sohasini so'nggi 200 yildagi eng katta o'zgarishlarga olib keladi.",
+    "tags": [
+      "tadqiqot",
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 19,
+    "published": "2026-10-06T17:25:23.000Z",
+    "created": "2026-10-06T18:01:32.438Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/10/06/arvind-narayanan-journalism-future-ai-slop-oracle-source-truth",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "5fa7ba0df483",
+    "slug": "microsoft-nobel-iqtisodchisining-ai-prognozini-elon-qildi-5fa7ba",
+    "title": "Microsoft Nobel iqtisodchisining AI prognozini e'lon qildi",
+    "summary": "Microsoft Nobel mukofoti sovrindori iqtisodchi Daron Acemogluning AI haqidagi prognozini chop etdi. Uning fikricha, AI keyingi o'n yilda YaIMni atigi 1.5% ga oshiradi va ish o'rinlarining ko'pi bilan 5% ini almashtiradi.",
+    "tags": [
+      "Microsoft",
+      "iqtisod"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-10-06T17:31:51.000Z",
+    "created": "2026-10-06T18:01:32.438Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/microsoft-publishes-nobel-economists-bearish-ai-forecast-of-just-1-5-gdp-growth-over-a-decade",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "c5c01980abd9",
+    "slug": "3sum-muammosi-o-n-tezlikda-hal-qilindi-c5c019",
+    "title": "3SUM muammosi O(N¹·⁹⁹⁹²) tezlikda hal qilindi",
+    "summary": "Amerikalik tadqiqotchilar 3SUM muammosini O(N¹·⁹⁹⁹²) tezlikda hal qiluvchi algoritm yaratdilar. Bu ilgari O(N²) dan tezroq yechish mumkin emas deb hisoblangan ushbu muammo uchun muhim yutuqdir.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 14,
+    "published": "2026-10-06T14:18:05.000Z",
+    "created": "2026-10-06T18:01:32.438Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1091158",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "8b006c0460b5",
+    "slug": "ai-yuridik-hujjatlarni-notogri-tanishi-mumkin-8b006c",
+    "title": "AI yuridik hujjatlarni noto'g'ri tanishi mumkin",
+    "summary": "VLM (vizual til modeli) yuridik hujjatlarni tanishda xatoliklarga yo'l qo'yishi mumkin. Haqiqiy loyiha tajribasiga ko'ra, AI mavjud bo'lmagan ma'lumotlarni to'qib chiqarishi va noto'g'ri sifatni ko'rsatishi mumkin.",
+    "tags": [
+      "xavfsizlik",
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 14,
+    "published": "2026-10-06T13:56:22.000Z",
+    "created": "2026-10-06T18:01:32.438Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1091144",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "9adefe78a012",
     "slug": "trumpning-hokimiyati-ai-bilan-boglanmoqda-9adefe",
     "title": "Trumpning hokimiyati AI bilan bog'lanmoqda",
