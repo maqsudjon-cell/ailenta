@@ -5,7 +5,7 @@
   <link>https://ailenta.uz/mavzu/tadqiqot/</link>
   <description>&quot;tadqiqot&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Tue, 06 Oct 2026 16:07:24 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 06 Oct 2026 16:24:25 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/tadqiqot/rss.xml" rel="self" type="application/rss+xml"/>
   <item>
     <title>MIT AQShda STEM ta'limini kuchaytirish tashabbusini e'lon qildi</title>
@@ -26,6 +26,16 @@
     <category>tadqiqot</category><category>biznes</category>
     <media:content url="https://ailenta.uz/og/ai-atir-sanoatida-yoqolib-borayotgan-osimliklarni-qutqarishi-9cf56b.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/ai-atir-sanoatida-yoqolib-borayotgan-osimliklarni-qutqarishi-9cf56b.jpg"/>
+  </item>
+  <item>
+    <title>JEPA AI modeli yetti sohada qo'llanila oladigan bo'ldi</title>
+    <link>https://ailenta.uz/x/jepa-ai-modeli-yetti-sohada-qollanila-oladigan-boldi-4dba29/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/jepa-ai-modeli-yetti-sohada-qollanila-oladigan-boldi-4dba29/</guid>
+    <pubDate>Tue, 06 Oct 2026 11:43:42 GMT</pubDate>
+    <description>PhAI Labs tadqiqotchilari Yann LeCunning JEPA AI arxitekturasini yetti sohada, jumladan robototexnika va biotibbiyotda qo'llash uchun kengaytirdi. Bu ish natijasida jigar saratonini davolash uchun nomzod vosita ham yaratildi, u laboratoriya sinovlarida umidli natijalar ko'rsatdi.</description>
+    <category>tadqiqot</category><category>tibbiyot</category>
+    <media:content url="https://ailenta.uz/og/jepa-ai-modeli-yetti-sohada-qollanila-oladigan-boldi-4dba29.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/jepa-ai-modeli-yetti-sohada-qollanila-oladigan-boldi-4dba29.jpg"/>
   </item>
   <item>
     <title>AI yordamida 20 daqiqada Claymation reklama yaratish</title>
@@ -296,16 +306,6 @@
     <category>Apple</category><category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/apple-shaxsiy-sezish-tizimlarida-chegaralarni-o-rganmoqda-90562d.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/apple-shaxsiy-sezish-tizimlarida-chegaralarni-o-rganmoqda-90562d.jpg"/>
-  </item>
-  <item>
-    <title>Homa: AI klasterlari uchun TCPning yakuni</title>
-    <link>https://ailenta.uz/x/homa-ai-klasterlari-uchun-tcpning-yakuni-794792/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/homa-ai-klasterlari-uchun-tcpning-yakuni-794792/</guid>
-    <pubDate>Sun, 04 Oct 2026 19:42:25 GMT</pubDate>
-    <description>Hacker News manbasida Homa protokoli AI klasterlari uchun TCP protokolining o'rnini bosishi mumkinligi haqida video e'lon qilindi.</description>
-    <category>chiplar</category><category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/homa-ai-klasterlari-uchun-tcpning-yakuni-794792.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/homa-ai-klasterlari-uchun-tcpning-yakuni-794792.jpg"/>
   </item>
 </channel>
 </rss>

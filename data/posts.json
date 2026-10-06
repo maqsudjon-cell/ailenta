@@ -1,5 +1,114 @@
 [
   {
+    "id": "1171c0a9700f",
+    "slug": "lor-al-ai-tasirida-marketing-strategiyasini-ozgartirmoqda-1171c0",
+    "title": "L’Oréal AI ta'sirida marketing strategiyasini o'zgartirmoqda",
+    "summary": "L’Oréal kompaniyasi AI iste'molchilar xarid jarayonini o'zgartirayotgani sababli marketing strategiyasini qayta ko'rib chiqmoqda. Kompaniya vakili Asmita Dubeyning ta'kidlashicha, bugungi kunda marketologlar ma'lumotlar va texnologiyalar infratuzilmasini tushunishlari kerak.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 19,
+    "published": "2026-10-06T15:14:43.000Z",
+    "created": "2026-10-06T16:18:30.090Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/10/06/as-ai-reshapes-the-consumer-journey-loreal-is-rethinking-its-marketing-engine",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "4dba29eb5404",
+    "slug": "jepa-ai-modeli-yetti-sohada-qollanila-oladigan-boldi-4dba29",
+    "title": "JEPA AI modeli yetti sohada qo'llanila oladigan bo'ldi",
+    "summary": "PhAI Labs tadqiqotchilari Yann LeCunning JEPA AI arxitekturasini yetti sohada, jumladan robototexnika va biotibbiyotda qo'llash uchun kengaytirdi. Bu ish natijasida jigar saratonini davolash uchun nomzod vosita ham yaratildi, u laboratoriya sinovlarida umidli natijalar ko'rsatdi.",
+    "tags": [
+      "tadqiqot",
+      "tibbiyot"
+    ],
+    "importance": 4,
+    "score": 18,
+    "published": "2026-10-06T11:43:42.000Z",
+    "created": "2026-10-06T16:18:30.090Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/researchers-stretch-lecuns-jepa-ai-into-a-universal-world-model-that-works-from-physics-to-biology",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "3ea13af0fa9b",
+    "slug": "ai-agentlarini-boshqarish-insonlarni-boshqarishdek-qiyin-3ea13a",
+    "title": "AI agentlarini boshqarish insonlarni boshqarishdek qiyin",
+    "summary": "Business Insider xabariga ko'ra, AI agentlarini boshqarish inson xodimlarini boshqarish kabi murakkab bo'lishi mumkin. Inson xodimlari vaqt o'tishi bilan o'z mahoratini oshirsa, AI agentlari uchun bu holat kuzatilmaydi.",
+    "tags": [
+      "agentlar",
+      "mehnat bozori"
+    ],
+    "importance": 2,
+    "score": 18,
+    "published": "2026-10-06T10:00:01.000Z",
+    "created": "2026-10-06T16:18:30.090Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/ai-agents-managing-more-annoying-managing-people-2026-10",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "f2c9898c912c",
+    "slug": "libreoffice-dasturiga-ai-qoshmasligini-elon-qildi-f2c989",
+    "title": "LibreOffice dasturiga AI qo'shmasligini e'lon qildi",
+    "summary": "LibreOffice ochiq kodli hujjat muharriri ishlab chiqaruvchisi o'z dasturiga AI qo'shishni rejalashtirmayotganini ma'lum qildi. Kompaniya bu qarorni foydalanuvchi maxfiyligini himoya qilish bilan izohladi.",
+    "tags": [
+      "maxfiylik",
+      "ochiq model"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-10-06T15:25:00.000Z",
+    "created": "2026-10-06T16:18:30.090Z",
+    "coverage": 1,
+    "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "bcd3c4243d88",
+    "slug": "sap-techwolf-ai-startapini-sotib-olmoqda-bcd3c4",
+    "title": "SAP TechWolf AI startapini sotib olmoqda",
+    "summary": "SAP kompaniyasi TechWolf AI startapini sotib olishini e'lon qildi. Bitim summasi oshkor etilmagan.",
+    "tags": [
+      "SAP",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-10-06T15:23:05.000Z",
+    "created": "2026-10-06T16:18:30.090Z",
+    "coverage": 1,
+    "source": {
+      "name": "Sifted",
+      "url": "https://sifted.eu/articles/sap-techwolf-acquisition-deal",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "a47e833b5865",
     "slug": "microsoft-power-platform-aini-ilovalarga-integratsiyalashda-a47e83",
     "title": "Microsoft Power Platform AI'ni ilovalarga integratsiyalashda",
