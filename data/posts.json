@@ -1,5 +1,157 @@
 [
   {
+    "id": "9dca77ea47f0",
+    "slug": "moskva-tomon-bir-oyda-10-mingga-yaqin-dron-uchib-keldi-9dca77",
+    "title": "Moskva tomon bir oyda 10 mingga yaqin dron uchib keldi",
+    "summary": "Moskva meri Sobyaninning ma'lum qilishicha, bir oyda poytaxt tomon 10 mingga yaqin dron uchib kelgan. Havo hujumidan mudofaa kuchlari ularning ko‘pini shahardan ancha uzoqda urib tushirgan.",
+    "tags": [
+      "siyosat"
+    ],
+    "importance": 3,
+    "score": 45,
+    "published": "2026-10-06T02:00:57.000Z",
+    "created": "2026-10-06T04:39:14.523Z",
+    "coverage": 1,
+    "source": {
+      "name": "Daryo",
+      "url": "https://daryo.uz/2026/10/06/moskva-tomonga-bir-oyda-qariyb-10-mingta-dron-uchib-keldi-sobyanin",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "90562d73af45",
+    "slug": "apple-shaxsiy-sezish-tizimlarida-chegaralarni-o-rganmoqda-90562d",
+    "title": "Apple shaxsiy sezish tizimlarida chegaralarni o‘rganmoqda",
+    "summary": "Apple foydalanuvchilar tomonidan yaratilgan shaxsiy sezish tizimlarida ontologik chegaralarni muhokama qilmoqda. Tadqiqot tizimlar qanday loyihalashtirilishi va qurilishida odamlarga kuch berishga qaratilgan.",
+    "tags": [
+      "Apple",
+      "tadqiqot"
+    ],
+    "importance": 1,
+    "score": 29.3,
+    "published": "2026-10-05T00:00:00.000Z",
+    "created": "2026-10-06T04:39:14.523Z",
+    "coverage": 1,
+    "source": {
+      "name": "Apple",
+      "url": "https://machinelearning.apple.com/research/ontological-boundary-negotiation",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "5837fbb0ffd9",
+    "slug": "nvidia-microsoft-meta-aksiyalari-rekord-darajaga-yetdi-5837fb",
+    "title": "Nvidia, Microsoft, Meta aksiyalari rekord darajaga yetdi",
+    "summary": "Nvidia, Microsoft va Meta kompaniyalarining aksiyalari rekord darajaga ko‘tarildi. Bu holat obligatsiya daromadlari oshishiga qaramay kuzatilmoqda.",
+    "tags": [
+      "Nvidia",
+      "Microsoft"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-10-05T22:18:13.000Z",
+    "created": "2026-10-06T04:39:14.523Z",
+    "coverage": 1,
+    "source": {
+      "name": "CNBC",
+      "url": "https://cnbc.com/2026/10/05/cramer-ai-stocks-treasury-yields.html",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "5bec21e70991",
+    "slug": "nokia-bosh-direktori-malumot-markazlari-qurilishi-haqida-5bec21",
+    "title": "Nokia bosh direktori ma'lumot markazlari qurilishi haqida",
+    "summary": "Nokia bosh direktori ta'minot cheklovlari bo‘lmaganida ma'lumot markazlari ikki barobar tezroq qurilgan bo‘lishini aytdi. Bu AIga bo‘lgan talabning yuqoriligini ko‘rsatadi.",
+    "tags": [
+      "biznes",
+      "bulut"
+    ],
+    "importance": 2,
+    "score": 19,
+    "published": "2026-10-05T22:00:01.000Z",
+    "created": "2026-10-06T04:39:14.523Z",
+    "coverage": 1,
+    "source": {
+      "name": "CNBC",
+      "url": "https://cnbc.com/2026/10/05/nokia-ai-data-center-buildout.html",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "a350ea261050",
+    "slug": "khanmigo-ai-yordamida-ikki-yillik-maktab-tajribasi-a350ea",
+    "title": "Khanmigo AI yordamida ikki yillik maktab tajribasi",
+    "summary": "Maktabda ikki yillik tajriba doirasida Khanmigo AI yordamida o‘qitish sinovdan o‘tkazilmoqda. Bu loyiha AIning ta'limdagi imkoniyatlarini o‘rganishga qaratilgan.",
+    "tags": [
+      "ta'lim"
+    ],
+    "importance": 2,
+    "score": 17.1,
+    "published": "2026-10-06T00:00:45.000Z",
+    "created": "2026-10-06T04:39:14.523Z",
+    "coverage": 1,
+    "source": {
+      "name": "Hacker News",
+      "url": "https://edworkingpapers.com/ai26-1551",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "f5444b5a32ee",
+    "slug": "hadrian-ai-kiberhujumlar-kuchayishi-fonida-40-mln-yig-di-f5444b",
+    "title": "Hadrian AI kiberhujumlar kuchayishi fonida $40 mln yig‘di",
+    "summary": "Hadrian kompaniyasi AI kiberhujumlarining tezlashishi sharoitida 40 million dollar sarmoya jalb qildi. Bu mablag‘ xavfsizlik texnologiyalarini rivojlantirishga yo‘naltiriladi.",
+    "tags": [
+      "xavfsizlik",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-10-06T05:00:14.000Z",
+    "created": "2026-10-06T04:39:14.524Z",
+    "coverage": 1,
+    "source": {
+      "name": "Sifted",
+      "url": "https://sifted.eu/articles/hadrian-ai-funding-round-cyber-security",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "16203615ddbc",
+    "slug": "dayone-malumot-markazi-operatori-aqshda-ipoga-chiqmoqda-162036",
+    "title": "DayOne ma'lumot markazi operatori AQShda IPOga chiqmoqda",
+    "summary": "Singapurlik ma'lumot markazi operatori DayOne AQShda IPO uchun hujjat topshirdi. Kompaniyaning birinchi yarmidagi daromadi 512 million dollarga yetib, sof zarari 77,2 million dollarni tashkil etdi.",
+    "tags": [
+      "biznes",
+      "iqtisod"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-10-06T03:50:00.000Z",
+    "created": "2026-10-06T04:39:14.524Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/261005/p36",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "e4d0ee14144b",
     "slug": "moworld-modeli-uy-hayvonlari-suratini-4d-shaklga-o-tkazadi-e4d0ee",
     "title": "MoWorld modeli uy hayvonlari suratini 4D shaklga o‘tkazadi",
