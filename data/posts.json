@@ -1,5 +1,203 @@
 [
   {
+    "id": "21c23ab08aaf",
+    "slug": "tadqiqotchilar-ai-apparatlari-evolyutsiyasini-hujjatlashtirm-21c23a",
+    "title": "Tadqiqotchilar AI apparatlari evolyutsiyasini hujjatlashtirmoqda",
+    "summary": "Superkompyuter tadqiqotchilari AI tezlatkich tizimlarining evolyutsiyasini kuzatib boruvchi doimiy tadqiqot olib bormoqda. Bu Lincoln laboratoriyasi xodimlari va homiylari uchun apparat ta'minotini dolzarb saqlashga yordam beradi.",
+    "tags": [
+      "tadqiqot",
+      "chiplar"
+    ],
+    "importance": 2,
+    "score": 19,
+    "published": "2026-10-06T20:55:00.000Z",
+    "created": "2026-10-06T21:39:23.357Z",
+    "coverage": 1,
+    "source": {
+      "name": "MIT News",
+      "url": "https://news.mit.edu/2026/supercomputing-researchers-document-evolution-ai-hardware-1006",
+      "title": "Supercomputing researchers document evolution of AI hardware",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "0582f4c69700",
+    "slug": "tadqiqotchilar-ai-ishlatilgan-siyosiy-reklamalarni-kuzatdi-0582f4",
+    "title": "Tadqiqotchilar AI ishlatilgan siyosiy reklamalarni kuzatdi",
+    "summary": "Tadqiqotchilar AI yordamida yaratilgan 80 million dollarlik siyosiy reklamalarni kuzatdi. Ularning 83 foizi Respublikachilar tomonidan joylashtirilgan.",
+    "tags": [
+      "siyosat",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-10-06T19:01:46.000Z",
+    "created": "2026-10-06T21:39:23.362Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/10/06/political-ads-ai-republican-no-disclaimer",
+      "title": "Researchers tracked $80 million in political ads using AI—and Republicans were behind 83% of them",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "f35836767d4a",
+    "slug": "aqsh-tojikistonga-chegara-nazorati-uchun-dronlar-berdi-f35836",
+    "title": "AQSH Tojikistonga chegara nazorati uchun dronlar berdi",
+    "summary": "AQSH Tojikiston Milliy gvardiyasiga terrorizmga qarshi operatsiyalar doirasida hududlarni kuzatish uchun oltita dron tizimini taqdim etdi. Bu dronlarning umumiy qiymati 2,3 million dollarni tashkil etadi.",
+    "tags": [
+      "siyosat"
+    ],
+    "importance": 2,
+    "score": 45,
+    "published": "2026-10-06T18:58:40.000Z",
+    "created": "2026-10-06T21:39:24.411Z",
+    "coverage": 1,
+    "source": {
+      "name": "Daryo",
+      "url": "https://daryo.uz/2026/10/06/aqsh-tojikistonga-chegara-nazoratida-foydalanish-uchun-oltita-dron-berdi",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "032333f020c5",
+    "slug": "artificial-filmi-ai-yaratuvchilarini-tanqid-qildi-032333",
+    "title": "'Artificial' filmi AI yaratuvchilarini tanqid qildi",
+    "summary": "'Artificial' filmi OpenAI bosh direktori Sam Altman va boshqa AI yaratuvchilarini tanqid qilib, ularning beparvoligini ko‘rsatdi. Film AI xavflari haqida qorong‘u ogohlantirish beradi.",
+    "tags": [
+      "OpenAI",
+      "xavfsizlik"
+    ],
+    "importance": 2,
+    "score": 23,
+    "published": "2026-10-06T18:45:39.000Z",
+    "created": "2026-10-06T21:39:24.411Z",
+    "coverage": 1,
+    "source": {
+      "name": "Wired",
+      "url": "https://wired.com/story/artificial-roasts-ais-creators-and-sends-a-dark-warning-about-its-dangers",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "4c1cffa07012",
+    "slug": "meta-ai-botlar-bilan-biznes-uchun-standartlar-yaratmoqda-4c1cff",
+    "title": "Meta AI botlar bilan biznes uchun standartlar yaratmoqda",
+    "summary": "Meta va OpenAI raisi Bret Taylorning Sierra startapi AI botlar bilan biznes yuritishni osonlashtirish uchun texnologik standartlar to‘plamini yaratmoqda. Bu kompaniyalar AI botlar bilan ishlashdagi \"xaos\"ni tartibga solishga qaratilgan.",
+    "tags": [
+      "Meta",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 22,
+    "published": "2026-10-06T18:48:36.000Z",
+    "created": "2026-10-06T21:39:24.412Z",
+    "coverage": 1,
+    "source": {
+      "name": "CNBC",
+      "url": "https://cnbc.com/2026/10/06/meta-joins-companies-to-tame-chaos-of-doing-business-with-ai-bots.html",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "7157a99521db",
+    "slug": "ai-yaratgan-video-sud-qaroriga-tasir-qildi-7157a9",
+    "title": "AI yaratgan video sud qaroriga ta'sir qildi",
+    "summary": "Sudda marhum akasining AI avatari orqali yaratilgan video hakamga ta'sir ko'rsatdi. Sud bu videoning 'ortiqcha hissiy ta'sirga' ega ekanligini ta'kidladi.",
+    "tags": [
+      "qonun"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-10-06T19:26:09.000Z",
+    "created": "2026-10-06T21:39:24.412Z",
+    "coverage": 1,
+    "source": {
+      "name": "404 Media",
+      "url": "https://404media.co/her-ai-generated-video-swayed-the-judge-the-court-said-it-carried-undue-emotional-weight",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "f8f856737ecb",
+    "slug": "marvellning-ai-chip-bozoridagi-prognozi-muhokama-qilindi-f8f856",
+    "title": "Marvell'ning AI chip bozoridagi prognozi muhokama qilindi",
+    "summary": "Marvell kompaniyasining AI chip bozoridagi uzoq muddatli ijobiy prognozi investorlar uchun muhokama qilindi. Bu prognoz AI chip aksiyalari uchun ahamiyatli.",
+    "tags": [
+      "chiplar",
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 19,
+    "published": "2026-10-06T18:51:01.000Z",
+    "created": "2026-10-06T21:39:24.412Z",
+    "coverage": 1,
+    "source": {
+      "name": "CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPb1Nkb3FYZnpWel9pLWRQSVU2Q2tWeHU0S3RITlV0ZFh4QVNzV1BzNU9zc3ZieGVscUlySGZoeVZ4UUZuaUFvSlFBNU1wQWprbE9KT3lVaFlrM2hNQ1NtZGhYVENjS2tSXzRMcTRvSk1zbW9zenNKcjJvWVRRS0Q3a1p1RjBBb0tkaEVIbDF5QnVITllNWmt0OS1Ld2l4RmVNbG9SLTRRd3Y0MDhxTl9aNnZfRmh3SDF3",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "e3fe42fca714",
+    "slug": "nyu-yorkda-ai-sanoati-tezligi-boyicha-tinglov-otkazildi-e3fe42",
+    "title": "Nyu-Yorkda AI sanoati tezligi bo'yicha tinglov o'tkazildi",
+    "summary": "Nyu-York shahar kengashida AI rahbarlari va sobiq xodimlar ishtirokida tinglov bo'lib o'tdi. Unda texnologiya xodimlari AI sanoati juda tez rivojlanayotganini ta'kidladilar.",
+    "tags": [
+      "siyosat",
+      "xavfsizlik"
+    ],
+    "importance": 4,
+    "score": 18.3,
+    "published": "2026-10-05T21:50:00.000Z",
+    "created": "2026-10-06T21:39:24.412Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Washington Post",
+      "url": "https://washingtonpost.com/technology/2026/10/05/new-york-city-councillors-press-ai-companies-safety-risks",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "2196494782f8",
+    "slug": "ai-qaror-modellari-kontent-moderatsiyasini-ozgartirishi-mumk-219649",
+    "title": "AI qaror modellari kontent moderatsiyasini o'zgartirishi mumkin",
+    "summary": "Musubi kompaniyasi real vaqt rejimida moderatsiya qilish uchun mo'ljallangan PolicyLM-1.7B nomli yengil qaror modelini e'lon qildi. Bu AI qaror modellari kontent moderatsiyasini o'zgartirishi mumkin.",
+    "tags": [
+      "ochiq model",
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 18,
+    "published": "2026-10-06T20:35:20.000Z",
+    "created": "2026-10-06T21:39:24.412Z",
+    "coverage": 1,
+    "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "408124a86527",
     "slug": "sam-altman-ai-xavflari-uchun-javobgarlikni-muhokama-qildi-408124",
     "title": "Sam Altman AI xavflari uchun javobgarlikni muhokama qildi",
