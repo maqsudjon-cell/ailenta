@@ -1,5 +1,158 @@
 [
   {
+    "id": "a47e833b5865",
+    "slug": "microsoft-power-platform-aini-ilovalarga-integratsiyalashda-a47e83",
+    "title": "Microsoft Power Platform AI'ni ilovalarga integratsiyalashda",
+    "summary": "Microsoft Power Platform bizneslarga sun'iy intellektni mavjud ilovalariga kiritishda yordam beradi. Bu platforma kompaniyalarga AI imkoniyatlaridan samarali foydalanishga ko'maklashadi.",
+    "tags": [
+      "Microsoft",
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 29,
+    "published": "2026-10-05T17:32:16.000Z",
+    "created": "2026-10-06T15:39:55.449Z",
+    "coverage": 1,
+    "source": {
+      "name": "Microsoft",
+      "url": "https://microsoft.com/en-us/power-platform/blog/power-apps/your-ai-transformation-starts-with-what-youve-already-built",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "efa141079ac0",
+    "slug": "amerikaliklarning-yarmi-ai-ishlatadi-kamchilik-tolaydi-efa141",
+    "title": "Amerikaliklarning yarmi AI ishlatadi, kamchilik to'laydi",
+    "summary": "Bloomberg.com xabariga ko'ra, amerikalik kattalarning qariyb yarmi sun'iy intellektdan foydalanadi. Biroq, ularning oz qismi bu xizmatlar uchun pul to'laydi.",
+    "tags": [
+      "iqtisod"
+    ],
+    "importance": 2,
+    "score": 27,
+    "published": "2026-10-06T10:29:01.000Z",
+    "created": "2026-10-06T15:39:55.450Z",
+    "coverage": 1,
+    "source": {
+      "name": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUTdCY2dXZWVDSHVCNkxUVmFTSnI5bFg0aFVnaHlvMUFFVFo3Z25VcUhZTGFZbVNrb2sydDJNWm1ORnotaHFRNUw3Q0lHWFhwZElISUhobzJrbGZOMFdSZnJjblVidng3WlhOMXRXN212Vy1LN1ZWNmladllnN0pEYjBPNHFtM3ZPTHVlQXNGQjRpYWE2RW0wNy1WUENlS05TTjFqMnM4dw",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "b9e74935ca41",
+    "slug": "sugurta-davolari-altman-va-amodei-ai-javobgarligini-sinaydi-b9e749",
+    "title": "Sug'urta da'volari Altman va Amodei AI javobgarligini sinaydi",
+    "summary": "Financial Times xabariga ko'ra, sug'urta da'volari Sam Altman va Dario Amodeining \"nazoratdan chiqqan\" AI uchun javobgarligini sinovdan o'tkazadi. Bu AI bilan bog'liq huquqiy masalalarda muhim qadam bo'lishi mumkin.",
+    "tags": [
+      "sud",
+      "qonun"
+    ],
+    "importance": 3,
+    "score": 27,
+    "published": "2026-10-06T04:36:23.000Z",
+    "created": "2026-10-06T15:39:55.450Z",
+    "coverage": 1,
+    "source": {
+      "name": "Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZTRNTmlQbGppQWtHdEFzYnhyYUw4ZUNWdlBjNDVvcWdEUWRaVFJ3NnFQcjZCVXVMNWQ2U1VGYWNmZUhZcUFrb3RqZkg2Qjl0cGZRNkdPeTRGVG9za3o3QklxMV9TTnAzazhiLVUyVm93bTZoNTY2N0RBQlZiRUd0eHZnU2U",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "627eb1843c03",
+    "slug": "ai-yaratgan-qahramon-mualliflik-huquqi-bahsiga-sabab-boldi-627eb1",
+    "title": "AI yaratgan qahramon mualliflik huquqi bahsiga sabab bo'ldi",
+    "summary": "OpenAI vositasida yaratilgan \"Tung Tung Tung Sahur\" qahramoni xalqaro huquqiy bahs markaziga aylandi. AQSh mualliflik huquqi faqat inson tomonidan yaratilgan asarlarga tegishli bo'lib, bu holat AI ijodining chegaralarini sinovdan o'tkazmoqda.",
+    "tags": [
+      "OpenAI",
+      "qonun"
+    ],
+    "importance": 3,
+    "score": 26,
+    "published": "2026-10-06T14:00:16.000Z",
+    "created": "2026-10-06T15:39:55.450Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/technology/2026/oct/06/brain-rot-tung-tung-tung-sahur-noxa-openai-video",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "9cf56bf4ff15",
+    "slug": "ai-atir-sanoatida-yoqolib-borayotgan-osimliklarni-qutqarishi-9cf56b",
+    "title": "AI atir sanoatida yo'qolib borayotgan o'simliklarni qutqarishi mumkin",
+    "summary": "AI yordamida atir ishlab chiqaruvchilar xavf ostidagi o'simliklardan foydalanmasdan hid birikmalarini yaratish ustida ishlamoqda. Bu Aquilaria kabi daraxtlarning noqonuniy kesilishini kamaytirishga yordam berishi mumkin.",
+    "tags": [
+      "tadqiqot",
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 23,
+    "published": "2026-10-06T13:00:15.000Z",
+    "created": "2026-10-06T15:39:55.450Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/science/2026/oct/06/fragrance-biotechnology-endangered-plants-perfume",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "37f93b1545ef",
+    "slug": "ai-ilmiy-mustaqillikni-zaiflashtirishi-mumkin-37f93b",
+    "title": "AI ilmiy mustaqillikni zaiflashtirishi mumkin",
+    "summary": "Nature jurnalining xabar berishicha, sun'iy intellekt ilmiy mustaqillikni nozik yo'llar bilan buzishi mumkin. Bu AI'ning tadqiqot va ilm-fan sohasiga ta'siri borasidagi xavotirlarni kuchaytiradi.",
+    "tags": [
+      "tadqiqot",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 21.6,
+    "published": "2026-10-06T00:00:00.000Z",
+    "created": "2026-10-06T15:39:55.450Z",
+    "coverage": 1,
+    "source": {
+      "name": "Nature",
+      "url": "https://nature.com/articles/d41586-026-03175-z",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "e81043418dfe",
+    "slug": "mit-aqshda-stem-talimini-kuchaytirish-tashabbusini-elon-qild-e81043",
+    "title": "MIT AQShda STEM ta'limini kuchaytirish tashabbusini e'lon qildi",
+    "summary": "MIT \"MIT for America\" tashabbusini e'lon qildi, uning maqsadi AQShda STEM ta'limini mustahkamlashdir. Ushbu harakat AI'dan konstruktiv foydalanishga urg'u berib, bolalar bog'chasidan kollejlarga qadar o'quvchilarga yordam beradi.",
+    "tags": [
+      "ta'lim",
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 19,
+    "published": "2026-10-06T15:00:00.000Z",
+    "created": "2026-10-06T15:39:55.450Z",
+    "coverage": 1,
+    "source": {
+      "name": "MIT News",
+      "url": "https://news.mit.edu/2026/mit-america-initiative-strengthens-stem-education-across-country-1006",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "cbee4f834379",
     "slug": "cowork-claude-uchun-bulutli-vmga-otdi-cbee4f",
     "title": "Cowork Claude uchun bulutli VM'ga o'tdi",
