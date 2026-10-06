@@ -1,5 +1,115 @@
 [
   {
+    "id": "9adefe78a012",
+    "slug": "trumpning-hokimiyati-ai-bilan-boglanmoqda-9adefe",
+    "title": "Trumpning hokimiyati AI bilan bog'lanmoqda",
+    "summary": "Oq uy, Pentagon, AQSh razvedkasi va AI kompaniyalari o'rtasida yangi ittifoqlar shakllanmoqda. Bu holat Trumpning hokimiyati sun'iy intellekt bilan tobora bog'lanib borayotganini ko'rsatadi.",
+    "tags": [
+      "siyosat",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 32,
+    "published": "2026-10-06T13:23:45.000Z",
+    "created": "2026-10-06T17:20:29.524Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/technology/2026/oct/05/trump-power-ai-techscape",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "d8e022ba6de0",
+    "slug": "ai-tizimlarini-tartibga-solish-yetarlimi-d8e022",
+    "title": "AI tizimlarini tartibga solish yetarlimi",
+    "summary": "Martyn Thomas mustaqil nazorat va tartibga solish AI tizimlarining xavfsizligini ta'minlashga yetarlimi, deya savol bermoqda. Uning fikricha, AI modelining xavfsizlik sinovlaridan o'ta olmagani bu masalani yana kun tartibiga olib chiqdi.",
+    "tags": [
+      "qonun",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 29,
+    "published": "2026-10-06T16:56:04.000Z",
+    "created": "2026-10-06T17:20:29.524Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/technology/2026/oct/06/is-regulation-enough-to-stop-ai-systems-killing-us-all",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "a6221988f02f",
+    "slug": "claude-opus-5-5-musiqa-yaratish-qobiliyatini-namoyish-etdi-a62219",
+    "title": "Claude Opus 5.5 musiqa yaratish qobiliyatini namoyish etdi",
+    "summary": "Claude Opus 5.5 modeli kompyuter o'yinlari uchun musiqa yaratish qobiliyatini sinovdan o'tkazdi. Natijalar kutilganidan ham yaxshi bo'lib, AI'ning musiqa bastalashdagi yangi imkoniyatlarini ko'rsatdi.",
+    "tags": [
+      "Anthropic",
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 18,
+    "published": "2026-10-06T15:17:39.000Z",
+    "created": "2026-10-06T17:20:29.524Z",
+    "coverage": 1,
+    "source": {
+      "name": "Simon Willison",
+      "url": "https://simonwillison.net/2026/Oct/6/scrimshaw-jukebox",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "6f93b4ae13a4",
+    "slug": "ai-apparatlari-yozuv-tarifini-ozgartirmoqda-6f93b4",
+    "title": "AI apparatlari 'yozuv' ta'rifini o'zgartirmoqda",
+    "summary": "AI apparatlari bilan texnologiya kompaniyalari \"yozuv\" tushunchasining ta'rifini o'zgartirishga urinmoqda. An'anaviy qurilmalarda yozish aniq bo'lsa, AI bilan bu chegara xiralashmoqda.",
+    "tags": [
+      "maxfiylik",
+      "qonun"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-10-06T16:29:44.000Z",
+    "created": "2026-10-06T17:20:29.524Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Verge",
+      "url": "https://theverge.com/column/1005697/we-cant-just-change-the-definition-of-recording",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "cd5172cc8a3d",
+    "slug": "dasturchilar-ai-sababli-charchoq-va-ishonchsizlikda-cd5172",
+    "title": "Dasturchilar AI sababli charchoq va ishonchsizlikda",
+    "summary": "30 000 ishchini qamrab olgan so'rovga ko'ra, dasturchilar AI kodlash vositalarini keng qo'llamoqda, ammo bu o'zgarishdan charchagan va natijalarga ishonchsizlik bilan qaramoqda. Ular AI ta'sirida ish joylarida qayta sozlashga duch kelmoqda.",
+    "tags": [
+      "mehnat bozori",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-10-06T14:19:59.000Z",
+    "created": "2026-10-06T17:20:29.524Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/developers-are-burned-out-as-ai-coding-reshapes-work-survey-2026-10",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "1171c0a9700f",
     "slug": "lor-al-ai-tasirida-marketing-strategiyasini-ozgartirmoqda-1171c0",
     "title": "L’Oréal AI ta'sirida marketing strategiyasini o'zgartirmoqda",
