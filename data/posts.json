@@ -1,5 +1,117 @@
 [
   {
+    "id": "cf9bc9f0b3d6",
+    "slug": "yangi-belgi-inson-tomonidan-yozilgan-kitoblarni-aniqlaydi-cf9bc9",
+    "title": "Yangi belgi inson tomonidan yozilgan kitoblarni aniqlaydi",
+    "summary": "AI tomonidan yozilgan matnlar ko‘paygan bir paytda, \"organik adabiyot\" uchun yangi belgi joriy etiladi. Bu o‘quvchilarga inson mualliflar yozgan kitoblarni tanlashga yordam beradi.",
+    "tags": [
+      "ta'lim"
+    ],
+    "importance": 2,
+    "score": 23,
+    "published": "2026-10-07T08:30:00.000Z",
+    "created": "2026-10-07T09:12:42.951Z",
+    "coverage": 1,
+    "source": {
+      "name": "Wired",
+      "url": "https://wired.com/story/organic-literature-books-by-people-stamp-ai",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "f7ee40d5e82e",
+    "slug": "ai-xavfsizlik-guruhi-nomzodlardan-talablar-qo-ydi-f7ee40",
+    "title": "AI xavfsizlik guruhi nomzodlardan talablar qo‘ydi",
+    "summary": "Guardrails Action guruhi siyosatchilarga yangi maktubda ogohlantirish berdi. Agar ular xavfsizlik qoidalarini qabul qilmasalar, faol qarshilikka duch kelishlari mumkin.",
+    "tags": [
+      "xavfsizlik",
+      "siyosat"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-10-07T08:53:50.000Z",
+    "created": "2026-10-07T09:12:42.951Z",
+    "coverage": 1,
+    "source": {
+      "name": "Semafor",
+      "url": "https://semafor.com/article/10/07/2026/ai-safety-group-lays-out-demands-for-candidates",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "33e7c0fc3e39",
+    "slug": "rails-asoschisi-rustni-targ-ib-qilgani-uchun-tanqid-qilindi-33e7c0",
+    "title": "Rails asoschisi Rustni targ‘ib qilgani uchun tanqid qilindi",
+    "summary": "David Heinemeier Hansson Rust tilini haddan tashqari targ‘ib qilgani uchun tanqidlarga uchradi. Uning agent tomonidan kodlangan sinovlari qiziqarli natijalar berdi.",
+    "tags": [
+      "agentlar"
+    ],
+    "importance": 1,
+    "score": 19,
+    "published": "2026-10-07T08:45:00.000Z",
+    "created": "2026-10-07T09:12:42.951Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/devops/2026/10/07/rails-originator-roasted-over-rust-boosterism/5301494",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "194d4d9280be",
+    "slug": "barnette-gipotezasi-yechildi-tadqiqotchi-xafa-194d4d",
+    "title": "Barnette gipotezasi yechildi, tadqiqotchi xafa",
+    "summary": "Jake Boggan 24 yil davomida Barnette gipotezasi ustida ishlagan. Muammo yechilgani haqidagi xabar uni uzoqdan xafa qilganini aytdi.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 1,
+    "score": 18,
+    "published": "2026-10-07T04:47:55.000Z",
+    "created": "2026-10-07T09:12:42.951Z",
+    "coverage": 1,
+    "source": {
+      "name": "Simon Willison",
+      "url": "https://simonwillison.net/2026/Oct/7/jake-boggan",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "4d700b5e5bba",
+    "slug": "yaponiyaning-nippan-group-anthropicga-kitob-sotganini-tasdiq-4d700b",
+    "title": "Yaponiyaning Nippan Group Anthropic'ga kitob sotganini tasdiqladi",
+    "summary": "Yaponiyaning Nippan Group kompaniyasi Anthropic'ga kitob sotganini tasdiqladi. Bu xabar AI bilan bog‘liq bahslar fonida e’lon qilindi.",
+    "tags": [
+      "Anthropic",
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 16,
+    "published": "2026-10-07T08:47:01.000Z",
+    "created": "2026-10-07T09:12:42.951Z",
+    "coverage": 2,
+    "source": {
+      "name": "GuruFocus",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPT3paVzF1M0FoMUtvY3o3NFkydXRnV1djR210ZDYzeTJNc1hsaUJ6bTA5MFA5clZrTFVjSEdxNmFzSXhseTJDa0ZnelpqYUZlaXRESFJvWmcxb1JBVVpuOG5jbG1QaXc5VnpXMlBtdXRpQjIxXzNpbVM3ZHFXNDJwZGxoaVR0M3lDVjFEcTdFX3cwVXdBMEhrSUZBd2JPOGZ4djZkYUpHTVVmRHc",
+      "indirect": true
+    },
+    "also": [
+      {
+        "name": "nippon.com",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9XZXlDbkNvM0YxVmt2NDlDd1Jpd2JRdkhlYTViNTVDUWFyb3pmdU1YU3Q0cVRtVUVRMkVnYVVBSzV6MW5IYWgyWVVLdVhEVmJOdWFmckY0U2hpQjRr"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
     "id": "5a85715f63a1",
     "slug": "microsoft-ai-bilan-moslashuvchan-zavod-avtomatizatsiyasi-5a8571",
     "title": "Microsoft: AI bilan moslashuvchan zavod avtomatizatsiyasi",
