@@ -1,5 +1,75 @@
 [
   {
+    "id": "4d71c31301f7",
+    "slug": "investorlar-ai-pufagi-haqida-ogohlantirmoqda-4d71c3",
+    "title": "Investorlar AI pufagi haqida ogohlantirmoqda",
+    "summary": "Texnologiya aksiyalari rekord darajaga yetgan bir paytda, investorlar sun'iy intellekt pufagi haqida ogohlantirmoqda. AI kompaniyalarining o'sishi moliya, sog'liqni saqlash va iste'molchilarga yo'naltirilgan kompaniyalarning pasayishini qoplab ketdi.",
+    "tags": [
+      "iqtisod",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-10-07T10:32:12.000Z",
+    "created": "2026-10-07T12:39:01.821Z",
+    "coverage": 1,
+    "source": {
+      "name": "Semafor",
+      "url": "https://semafor.com/article/10/07/2026/investors-warn-of-ai-bubble-as-tech-stocks-reach-record-highs",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "659aceaca7aa",
+    "slug": "ai-ogohlantirishi-sababli-ayol-hibsga-olindi-659ace",
+    "title": "AI ogohlantirishi sababli ayol hibsga olindi",
+    "summary": "Floridada sherif idorasiga qilingan tahdid ortidan bir ayol hibsga olindi. Bunga Anthropic kompaniyasining AI chatboti tahdidni aniqlab, bergan ogohlantirishi sabab bo'lgan.",
+    "tags": [
+      "Anthropic",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 16,
+    "published": "2026-10-07T06:08:16.000Z",
+    "created": "2026-10-07T12:39:01.822Z",
+    "coverage": 2,
+    "source": {
+      "name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVnRoQ3dKZUNVdVVDZEhaQTUwNkJIU0M3dzUtYXRyWmEyVTVVaE9zYXNMTTUyd1pLcTN4V2JPVzhndzRPci1qeDJFZHQ2OUFqRnRoUVlONHFkWTkybTVTbmJNeElEMjNpQXoyMHhpUXNPR2RuSGpnR2VzN0l0NVZlVnlFQkZxc3NW",
+      "indirect": true
+    },
+    "also": [
+      {
+        "name": "Inshorts",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSVc5TFY4MFBPQU5raXJJdHc2enR1QkctWGxUZHkyd0p5VzV4U1AzX3pyelBHUzRaWVE3Njl6LUtiQmNZdUhmUDVINF9rbHhFSVNJbVlfWENVc014VXZTQldxWFBEX3BORl9tTWdvX0NNQjNhcmU0ZHNiNVZEQzFjTm52OHAxRTJqa2lWMlcwMVRNb29tVDNtRndHNFdEdHIyclp30gGjAUFVX3lxTE5JVzlMVjgwUE9BTmtpckl0dzZ6dHVCRy1YbFRkeTJ3SnlXNXhTUDNfenJ6UEdTNFpZUTc2OXotS2JCY1l1SGZQNUg0X2tseEVJU0ltWV9YQ1VzTXhVdlNCV3FYUERfcE5GX21NZ29fQ01CM2FyZTRkc2I1VkRDMWNObnY4cDFFMmpraVYyVzAxVE1vb21UM21Gd0c0V0R0cjJyWnc"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "5034a77b7a6d",
+    "slug": "google-oyinlar-yaratuvchi-playgroundni-chiqardi-5034a7",
+    "title": "Google o'yinlar yaratuvchi Playground'ni chiqardi",
+    "summary": "Google kompaniyasi sun'iy intellekt yordamida o'yinlar yaratishga mo'ljallangan eksperimental Playground platformasini ishga tushirdi. Ushbu platforma foydalanuvchilarga AI ko'magida o'yinlar yaratish imkonini beradi.",
+    "tags": [
+      "Google"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-10-07T12:00:00.000Z",
+    "created": "2026-10-07T12:39:01.822Z",
+    "coverage": 1,
+    "source": {
+      "name": "Engadget",
+      "url": "https://engadget.com/2279750/googles-experimental-playground-platform-uses-ai-to-create-games-for-you",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "31d8880564bb",
     "slug": "disruptive-10-mlrdgacha-bo-lgan-fondni-maqsad-qilmoqda-31d888",
     "title": "Disruptive $10 mlrdgacha bo‘lgan fondni maqsad qilmoqda",
