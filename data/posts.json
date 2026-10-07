@@ -1,5 +1,48 @@
 [
   {
+    "id": "ddb401736951",
+    "slug": "ai-musiqalarni-botlar-orqali-eshittirgan-shaxs-qamaldi-ddb401",
+    "title": "AI musiqalarni botlar orqali eshittirgan shaxs qamaldi",
+    "summary": "AQSh sudi sun'iy intellekt yaratgan qo'shiqlarni botlar yordamida milliardlab marta eshittirib, 8 million dollardan ortiq gonorar ishlagan Maykl Smitni 18 oyga ozodlikdan mahrum qildi. Bu striming firibgarligi bo'yicha birinchi jinoiy ishdir.",
+    "tags": [
+      "sud",
+      "qonun"
+    ],
+    "importance": 4,
+    "score": 15,
+    "published": "2026-10-07T02:20:01.000Z",
+    "created": "2026-10-07T03:02:26.800Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/261006/p50",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "efbdf6407b7d",
+    "slug": "xitoylik-olimlar-guruch-hujayralari-ai-modelini-yaratdi-efbdf6",
+    "title": "Xitoylik olimlar guruch hujayralari AI modelini yaratdi",
+    "summary": "Xitoylik tadqiqotchilar guruchning to'liq hayotiy siklini aks ettiruvchi 3D hujayra atlasini va RICE scGPT bazaviy modelini yaratdilar. Ushbu tadqiqot Cell jurnalida chop etildi.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-10-07T02:14:57.000Z",
+    "created": "2026-10-07T03:02:26.801Z",
+    "coverage": 1,
+    "source": {
+      "name": "Pandaily",
+      "url": "https://pandaily.com/rice-full-lifecycle-3d-spatiotemporal-cell-atlas-cell-sustech-bgi",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "3a12a266a041",
     "slug": "uy-egasi-anthropic-joyi-uchun-sudlashdi-3a12a2",
     "title": "Uy egasi Anthropic joyi uchun sudlashdi",
