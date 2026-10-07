@@ -1,5 +1,114 @@
 [
   {
+    "id": "06987208eda6",
+    "slug": "rised-agentlar-uchun-oqitish-strategiyasi-069872",
+    "title": "RISED: Agentlar uchun o'qitish strategiyasi",
+    "summary": "Apple LLM agentlarini turli muhitlarda birgalikda o'qitish uchun RISED nomli yangi strategiyani taqdim etdi. Bu yondashuv umumiy agentlarni yaratishga yordam beradi.",
+    "tags": [
+      "Apple",
+      "agentlar"
+    ],
+    "importance": 3,
+    "score": 35.8,
+    "published": "2026-10-06T00:00:00.000Z",
+    "created": "2026-10-07T03:36:36.647Z",
+    "coverage": 1,
+    "source": {
+      "name": "Apple",
+      "url": "https://machinelearning.apple.com/research/rised-multi-environment-selection",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "bd79dfacf14f",
+    "slug": "arthur-hayes-ai-infratuzilmasi-haddan-tashqari-qurilmoqda-de-bd79df",
+    "title": "Arthur Hayes AI infratuzilmasi haddan tashqari qurilmoqda dedi",
+    "summary": "BitMEX sobiq bosh direktori Arthur Hayes AI infratuzilmasi haddan tashqari qurilayotganini aytdi. Uning fikricha, bu sohadagi inqiroz kriptovalyutalarni ko'taradi.",
+    "tags": [
+      "iqtisod",
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 19,
+    "published": "2026-10-07T00:49:34.000Z",
+    "created": "2026-10-07T03:36:36.647Z",
+    "coverage": 1,
+    "source": {
+      "name": "CNBC",
+      "url": "https://cnbc.com/2026/10/07/flop-ai-boom-arthur-hayes-bitcoin-bitmex-coinferencex-.html",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "a678779cd43c",
+    "slug": "donghua-universiteti-robotlar-uchun-yumshoq-tolalar-yaratdi-a67877",
+    "title": "Donghua universiteti robotlar uchun yumshoq tolalar yaratdi",
+    "summary": "Donghua universiteti tadqiqotchilari robotlar uchun yumshoq tolalar ichiga tranzistorlar o'rnatish usulini ishlab chiqdi. Bu tolalar sezish va kontaktsiz boshqarish imkonini beradi.",
+    "tags": [
+      "tadqiqot",
+      "robototexnika"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-10-07T02:14:42.000Z",
+    "created": "2026-10-07T03:36:36.647Z",
+    "coverage": 1,
+    "source": {
+      "name": "Pandaily",
+      "url": "https://pandaily.com/donghua-university-microfluidic-encoded-spinning-integrated-circuit-fibers-nature-electronics",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "75b855b1721e",
+    "slug": "micbot-robot-it-yetkazib-berish-boyicha-nizoni-hal-qildi-75b855",
+    "title": "Micbot robot-it yetkazib berish bo'yicha nizoni hal qildi",
+    "summary": "Micbot kompaniyasi Zhejianglik xaridor bilan robot-it yetkazib berishdagi kechikish va rivojlanish huquqlari bo'yicha nizoni muzokaralar yo'li bilan hal qildi.",
+    "tags": [
+      "robototexnika",
+      "biznes"
+    ],
+    "importance": 1,
+    "score": 15,
+    "published": "2026-10-07T02:14:13.000Z",
+    "created": "2026-10-07T03:36:36.647Z",
+    "coverage": 1,
+    "source": {
+      "name": "Pandaily",
+      "url": "https://pandaily.com/micbot-robot-dog-delivery-dispute-p2-curiosity-s01-secondary-development",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "5c4141ed5418",
+    "slug": "osmir-ai-korsatmasiga-amal-qilib-togda-qolib-ketdi-5c4141",
+    "title": "O'smir AI ko'rsatmasiga amal qilib tog'da qolib ketdi",
+    "summary": "Bir o'smir AI ko'rsatmalariga amal qilgani sababli \"Widowmaker\" tog'ida qolib ketdi. Bu voqea sun'iy intellektga haddan tashqari ishonish xavfini ko'rsatadi.",
+    "tags": [
+      "xavfsizlik"
+    ],
+    "importance": 2,
+    "score": 11,
+    "published": "2026-10-06T18:04:52.000Z",
+    "created": "2026-10-07T03:36:36.647Z",
+    "coverage": 1,
+    "source": {
+      "name": "Futurism",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdTliOEQzYjdHWEE1Y2RLemlOcktpb3VfU2NtazZ2SUdydzNuU3hxZHdWYlFhaWJGNkhMM0xmVXdjVHFISHlURjBsY3VmQUNpYjBuX2V2b21wMFc3S1NqQ0hfd0JxcGdYR3h4NWpTV3ltMG9ybHJ0WWNqNU5WR05WR0hkZXZPMmk2c1lKMllMYw",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "ddb401736951",
     "slug": "ai-musiqalarni-botlar-orqali-eshittirgan-shaxs-qamaldi-ddb401",
     "title": "AI musiqalarni botlar orqali eshittirgan shaxs qamaldi",

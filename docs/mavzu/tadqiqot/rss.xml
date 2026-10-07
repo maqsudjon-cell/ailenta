@@ -5,7 +5,7 @@
   <link>https://ailenta.uz/mavzu/tadqiqot/</link>
   <description>&quot;tadqiqot&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Wed, 07 Oct 2026 03:08:23 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 07 Oct 2026 03:42:44 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/tadqiqot/rss.xml" rel="self" type="application/rss+xml"/>
   <item>
     <title>Xitoylik olimlar guruch hujayralari AI modelini yaratdi</title>
@@ -16,6 +16,16 @@
     <category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/xitoylik-olimlar-guruch-hujayralari-ai-modelini-yaratdi-efbdf6.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/xitoylik-olimlar-guruch-hujayralari-ai-modelini-yaratdi-efbdf6.jpg"/>
+  </item>
+  <item>
+    <title>Donghua universiteti robotlar uchun yumshoq tolalar yaratdi</title>
+    <link>https://ailenta.uz/x/donghua-universiteti-robotlar-uchun-yumshoq-tolalar-yaratdi-a67877/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/donghua-universiteti-robotlar-uchun-yumshoq-tolalar-yaratdi-a67877/</guid>
+    <pubDate>Wed, 07 Oct 2026 02:14:42 GMT</pubDate>
+    <description>Donghua universiteti tadqiqotchilari robotlar uchun yumshoq tolalar ichiga tranzistorlar o'rnatish usulini ishlab chiqdi. Bu tolalar sezish va kontaktsiz boshqarish imkonini beradi.</description>
+    <category>tadqiqot</category><category>robototexnika</category>
+    <media:content url="https://ailenta.uz/og/donghua-universiteti-robotlar-uchun-yumshoq-tolalar-yaratdi-a67877.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/donghua-universiteti-robotlar-uchun-yumshoq-tolalar-yaratdi-a67877.jpg"/>
   </item>
   <item>
     <title>Tadqiqotchilar AI apparatlari evolyutsiyasini hujjatlashtirmoqda</title>
@@ -296,16 +306,6 @@
     <category>iqtisod</category><category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/ai-rivojlanishida-sekinlashish-yaqinlashmoqda-17c8e8.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/ai-rivojlanishida-sekinlashish-yaqinlashmoqda-17c8e8.jpg"/>
-  </item>
-  <item>
-    <title>Multimodal modellar robot vazifalarining yarmiga yetdi</title>
-    <link>https://ailenta.uz/x/multimodal-modellar-robot-vazifalarining-yarmiga-yetdi-2b0ec8/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/multimodal-modellar-robot-vazifalarining-yarmiga-yetdi-2b0ec8/</guid>
-    <pubDate>Mon, 05 Oct 2026 07:14:31 GMT</pubDate>
-    <description>Dalian Texnologiya Universiteti VA-Bench sinov to'plamida 12 ta multimodal modelni robot-qo'l vazifalarida sinovdan o'tkazdi. Qwen3.8-max 53.93% natija bilan yetakchilik qildi, ammo hech biri murakkab vazifani bajara olmadi.</description>
-    <category>tadqiqot</category><category>robototexnika</category>
-    <media:content url="https://ailenta.uz/og/multimodal-modellar-robot-vazifalarining-yarmiga-yetdi-2b0ec8.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/multimodal-modellar-robot-vazifalarining-yarmiga-yetdi-2b0ec8.jpg"/>
   </item>
 </channel>
 </rss>
