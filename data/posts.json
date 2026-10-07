@@ -1,5 +1,269 @@
 [
   {
+    "id": "cfcbfb1e96de",
+    "slug": "tailandda-mamlakatdan-chiqish-solig-i-joriy-etilishi-mumkin-cfcbfb",
+    "title": "Tailandda mamlakatdan chiqish solig‘i joriy etilishi mumkin",
+    "summary": "Tailandda samolyotda mamlakatdan chiqib ketuvchi fuqarolar va xorijliklar uchun soliq joriy etish masalasi ko‘rib chiqilmoqda. Bu soliq aviachipta xarid qilinayotganda undirilishi mumkin. Qonun loyihasi bo‘yicha yakuniy qaror hali qabul qilinmagan.",
+    "tags": [
+      "siyosat"
+    ],
+    "importance": 2,
+    "score": 48,
+    "published": "2026-10-07T13:02:38.000Z",
+    "created": "2026-10-07T15:44:51.278Z",
+    "coverage": 1,
+    "source": {
+      "name": "Kun.uz",
+      "url": "https://kun.uz/news/2026/10/07/sayyohlarga-ham-tegishli-tailandda-mamlakatdan-chiqish-soligi-joriy-etilishi-mumkin",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "ce3cbf50f313",
+    "slug": "sochi-yaqinida-dron-zarbasidan-neft-tankeri-yondi-ce3cbf",
+    "title": "Sochi yaqinida dron zarbasidan neft tankeri yondi",
+    "summary": "Sochi yaqinida dron zarbasi natijasida neft tankeri yonib ketdi. Voqea joyidan ko‘tarilgan tutun ustuni uzoq masofadan ko‘rinib turgan. Hodisa sababli sohil yopilgan.",
+    "tags": [
+      "siyosat"
+    ],
+    "importance": 3,
+    "score": 45,
+    "published": "2026-10-07T12:00:27.000Z",
+    "created": "2026-10-07T15:44:51.279Z",
+    "coverage": 1,
+    "source": {
+      "name": "Kun.uz",
+      "url": "https://kun.uz/news/2026/10/07/sochi-yaqinida-dron-zarbasidan-keyin-neft-tankeri-yonib-ketdi-video",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "0afb343ff967",
+    "slug": "ai-chatbotlar-boylarga-yuqori-narx-taklif-qilmoqda-0afb34",
+    "title": "AI chatbotlar boylarga yuqori narx taklif qilmoqda",
+    "summary": "Tadqiqot shuni ko‘rsatdiki, sun'iy intellekt chatbotlari boy mijozlarga yuqori narxlarni tavsiya qiladi. Bu AI tizimlarining narx belgilashdagi xususiyatlarini ochib beradi.",
+    "tags": [
+      "tadqiqot",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 27,
+    "published": "2026-10-07T11:02:01.000Z",
+    "created": "2026-10-07T15:44:51.279Z",
+    "coverage": 1,
+    "source": {
+      "name": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNbTN4RlBPVnhEaXZTSnd2SWlHRndfNENTRDhtWGV5WHVmTUxyMkxuWTlsbFVBV2NucFpsLXVuWHkzTmM5RGw1S1dQQVRWUG9Cbl9qdFlHM0lOek5DUm1CZ1VEUzBEOFVlbDNnUDY2Y1hldDBERk03RWZoVElEQzFLeGtUcjdYb081aXhQMnd4N1ltbks0d1NDY1dfR0hVNkFJSjJWMTRCQ2Fic2Z6ZW5KbUU5MF8xZ05jQU5McjY2YmhiYktiLUhtVmNn",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "6630f5d269d9",
+    "slug": "mumsnet-ai-kontentdan-foydalanishni-rad-etdi-6630f5",
+    "title": "Mumsnet AI kontentdan foydalanishni rad etdi",
+    "summary": "Mumsnet forumi o‘z kontentida AI ishlatishni rad etdi. Bu holat forumda AI modeli uchun batafsil ko‘rsatmalar paydo bo‘lganidan keyin yuzaga keldi. Foydalanuvchilar saytning izohlarini qabul qilmadi.",
+    "tags": [
+      "maxfiylik"
+    ],
+    "importance": 2,
+    "score": 26,
+    "published": "2026-10-07T14:31:04.000Z",
+    "created": "2026-10-07T15:44:51.279Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/media/2026/oct/07/mumsnet-denies-using-ai-for-content-message-board-prompt",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "5d7fcd4649aa",
+    "slug": "ai-o-qitishda-ko-p-markazli-tarmoq-muammosi-5d7fcd",
+    "title": "AI o‘qitishda ko‘p markazli tarmoq muammosi",
+    "summary": "Sun'iy intellektni bir nechta joylarda o‘qitish yangi tarmoq muammolarini keltirib chiqarmoqda. Bu ma’lumot markazlari o‘rtasidagi aloqa talablarini oshiradi.",
+    "tags": [
+      "bulut",
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 25,
+    "published": "2026-10-07T15:00:00.000Z",
+    "created": "2026-10-07T15:44:51.279Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/ai-and-ml/2026/10/07/sponsored-when-one-datacenter-is-no-longer-enough/5301030",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "259ac77af9d3",
+    "slug": "hiphi-inson-harakati-uchun-yangi-sinov-to-plami-259ac7",
+    "title": "HiPHI: Inson harakati uchun yangi sinov to‘plami",
+    "summary": "HiPHI nomli yangi keng ko‘lamli harakatni qayd etish sinov to‘plami yaratildi. U gumanoid robotlarni o‘qitishdagi ma’lumotlar bo‘shlig‘ini to‘ldirishga yordam beradi. Unda o‘qitilgan siyosatlar real robotlarga o‘tkazilishi mumkin.",
+    "tags": [
+      "robototexnika",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 25,
+    "published": "2026-10-07T13:49:48.000Z",
+    "created": "2026-10-07T15:44:51.279Z",
+    "coverage": 1,
+    "source": {
+      "name": "IEEE Spectrum",
+      "url": "https://content.knowledgehub.wiley.com/hiphi-a-large-scale-benchmark-for-high-precision-human-motion-and-object-interaction",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "77505eef1622",
+    "slug": "gollivud-texnologiya-va-ai-bilan-moliyaviy-bog-lanmoqda-77505e",
+    "title": "Gollivud texnologiya va AI bilan moliyaviy bog‘lanmoqda",
+    "summary": "Zuckerberg, Musk va Altman haqidagi filmlar chiqishi bilan Gollivud texnologiya bilan do‘stona munosabatda ekani ko‘rinmoqda. Yirik studiyalar texnologiya gigantlariga tegishli bo‘lib, barcha AI bilan moliyaviy bog‘lanmoqda.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 23,
+    "published": "2026-10-07T13:43:43.000Z",
+    "created": "2026-10-07T15:44:51.279Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/film/2026/oct/07/the-social-reckoning-musk-and-artificial-zuckerberg-musk-and-altman-movies-tech",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "2cf9bf009882",
+    "slug": "healthleap-ai-dasturi-uchun-38-mln-dollar-yig-di-2cf9bf",
+    "title": "Healthleap AI dasturi uchun 38 mln dollar yig‘di",
+    "summary": "Healthleap kompaniyasi tashxis qo‘yilmagan kasalliklar xavfi ostidagi bemorlarni aniqlovchi AI dasturi uchun 38 million dollar mablag‘ yig‘di. Bu mablag‘ 30 million dollarlik A seriyasi va 8 million dollarlik boshlang‘ich investitsiyalardan iborat.",
+    "tags": [
+      "tibbiyot",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 21,
+    "published": "2026-10-07T15:35:02.000Z",
+    "created": "2026-10-07T15:44:51.279Z",
+    "coverage": 2,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/261007/p25",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/07/healthleap-raises-38m-for-its-ai-that-flags-hospital-patients-who-may-need-a-closer-look"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "692ea6cf61f2",
+    "slug": "ai-poygasi-miyani-nazorat-qilishga-qaratilgan-692ea6",
+    "title": "AI poygasi miyani nazorat qilishga qaratilgan",
+    "summary": "Stenford neyroolim olimi Andrew Hubermanning fikricha, AI bo‘yicha haqiqiy poyga inson miyasini nazorat qilishga qaratilgan. Uning aytishicha, OpenAI, Meta va Anthropic miyani o‘qish va o‘zgartirish uchun raqobatlashuvchi biotexnologiya firmalariga aylanadi.",
+    "tags": [
+      "tadqiqot",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 21,
+    "published": "2026-10-07T13:57:02.000Z",
+    "created": "2026-10-07T15:44:51.279Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/real-ai-arms-race-about-controlling-your-brain-andrew-huberman-2026-10",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "3db88fda920b",
+    "slug": "ai-davri-asoschi-rejimi-ni-talab-qilmoqda-3db88f",
+    "title": "AI davri \"asoschi rejimi\"ni talab qilmoqda",
+    "summary": "AI davri kompaniya rahbarlaridan \"asoschi rejimi\"da ishlashni talab qiladi. Bu texnologiya yetakchilardan ishga yaqin bo‘lishni, tez harakat qilishni va kompaniyalarini qayta ko‘rib chiqishni so‘raydi.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 1,
+    "score": 19,
+    "published": "2026-10-07T14:40:13.000Z",
+    "created": "2026-10-07T15:44:51.279Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/10/07/founder-mode-ai-age-ceo-leadership-business-transformation",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "7422642656df",
+    "slug": "alex-stamos-ai-xavflari-va-silikon-vodiysi-haqida-742264",
+    "title": "Alex Stamos AI xavflari va Silikon vodiysi haqida",
+    "summary": "Cognition CISO va Facebookning sobiq xavfsizlik rahbari Alex Stamos Silikon vodiysidagi \"nigilizm\" va AI xavflari haqida gapirdi. U haqiqiy va tasavvur qilingan AI xavflari o‘rtasidagi farqni muhokama qildi.",
+    "tags": [
+      "xavfsizlik",
+      "siyosat"
+    ],
+    "importance": 2,
+    "score": 19,
+    "published": "2026-10-07T13:21:49.000Z",
+    "created": "2026-10-07T15:44:51.279Z",
+    "coverage": 1,
+    "source": {
+      "name": "Semafor",
+      "url": "https://semafor.com/article/10/07/2026/alex-stamos-future-proof",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "33ac96bb32d8",
+    "slug": "google-ai-kontentni-aniqlovchi-saytni-ishga-tushirdi-33ac96",
+    "title": "Google AI kontentni aniqlovchi saytni ishga tushirdi",
+    "summary": "Google o‘zining SynthID Detector nomli AI kontentni aniqlovchi veb-saytini ishga tushirdi. Bu sayt OpenAI, Google, Apple va boshqa kompaniyalar AI vositalari bilan yaratilgan kontentni belgilaydi.",
+    "tags": [
+      "Google",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 18,
+    "published": "2026-10-07T14:00:00.000Z",
+    "created": "2026-10-07T15:44:51.279Z",
+    "coverage": 1,
+    "source": {
+      "name": "Engadget",
+      "url": "https://engadget.com/2279565/google-synth-id-detector-ai-detection-website-is-now-available",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "4d71c31301f7",
     "slug": "investorlar-ai-pufagi-haqida-ogohlantirmoqda-4d71c3",
     "title": "Investorlar AI pufagi haqida ogohlantirmoqda",
