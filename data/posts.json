@@ -1,5 +1,116 @@
 [
   {
+    "id": "31d8880564bb",
+    "slug": "disruptive-10-mlrdgacha-bo-lgan-fondni-maqsad-qilmoqda-31d888",
+    "title": "Disruptive $10 mlrdgacha bo‘lgan fondni maqsad qilmoqda",
+    "summary": "Dallasdagi Disruptive kompaniyasi kechki bosqich fondi uchun 10 milliard dollargacha mablag‘ yig‘ishni maqsad qilgan va 7.5 milliard dollar ta’minladi. Kompaniya Groq va Reflection AI kabi startaplarni qo‘llab-quvvatlagan.",
+    "tags": [
+      "biznes",
+      "iqtisod"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-10-07T11:00:43.000Z",
+    "created": "2026-10-07T12:07:25.674Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/261007/p13",
+      "title": "Sources: Dallas-based Disruptive is targeting up to $10B for a late-stage fund, and has secured $7.5B; founded in 2012, it has backed Groq and Reflection AI (Kate Clark/Wall Street Journal)",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "7392634d8abd",
+    "slug": "mcdonalds-ai-vositasi-narxlarni-belgilashda-ayblanib-sudga-b-739263",
+    "title": "McDonald’s AI vositasi narxlarni belgilashda ayblanib sudga berildi",
+    "summary": "McDonald’s AI vositasidan mustaqil franchayzing narxlarini belgilashda foydalangani uchun sudga berildi. Da’vogarlar bu harakat monopoliyaga qarshi qonunlarni buzib, menyu narxlarini oshirganini aytmoqda.",
+    "tags": [
+      "sud",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 23,
+    "published": "2026-10-07T11:00:08.000Z",
+    "created": "2026-10-07T12:08:27.359Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/business/2026/oct/07/mcdonalds-ai-prices-lawsuit",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "63cd9a244ad2",
+    "slug": "senator-gallego-ishchilarni-ai-tasiridan-himoyalash-rejasini-63cd9a",
+    "title": "Senator Gallego ishchilarni AI ta'siridan himoyalash rejasini taqdim etdi",
+    "summary": "Arizona demokrat senatori Gallego ishchilarni AI ta'siridan himoyalash bo‘yicha rejasini e’lon qildi. U o‘z kun tartibi haqida Semafor nashriga ma’lumot berdi.",
+    "tags": [
+      "siyosat",
+      "mehnat bozori"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-10-07T11:00:04.000Z",
+    "created": "2026-10-07T12:08:27.359Z",
+    "coverage": 1,
+    "source": {
+      "name": "Semafor",
+      "url": "https://semafor.com/article/10/06/2026/gallego-rolls-out-ambitious-plan-to-insulate-workers-against-ai",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "cd47852c2dda",
+    "slug": "aleph-alpha-va-mistral-yevropaning-ai-ambitsiyalariga-umid-b-cd4785",
+    "title": "Aleph Alpha va Mistral Yevropaning AI ambitsiyalariga umid berdi",
+    "summary": "Aleph Alpha va Mistral kompaniyalarining yangi modellar chiqarishi Yevropaning suveren AI ambitsiyalariga umid uyg‘otdi. Bu Yevropaning AI sohasidagi mavqeini mustahkamlashga yordam berishi kutilmoqda.",
+    "tags": [
+      "Mistral",
+      "siyosat"
+    ],
+    "importance": 3,
+    "score": 18,
+    "published": "2026-10-07T12:39:36.000Z",
+    "created": "2026-10-07T12:08:27.359Z",
+    "coverage": 1,
+    "source": {
+      "name": "Sifted",
+      "url": "https://sifted.eu/articles/aleph-alpha-kolibri-mistral-chonk-frontier-ai",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "8568059327bf",
+    "slug": "anthropic-claude-qadriyatlarini-shakllantirish-uchun-dinga-m-856805",
+    "title": "Anthropic Claude qadriyatlarini shakllantirish uchun dinga murojaat qilmoqda",
+    "summary": "Anthropic Claude modelining qadriyatlarini shakllantirish va AI ongli bo‘lishi mumkinmi degan savolga javob topish uchun dinga murojaat qilmoqda. Bu haqda The Indian Express xabar berdi.",
+    "tags": [
+      "Anthropic",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 10,
+    "published": "2026-10-07T00:51:35.000Z",
+    "created": "2026-10-07T12:08:27.359Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Indian Express",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZk55RFMzTHdPUEpaanlsS0NPRlZWcnlMczBwRTVNajlQQ25BSHJENGVVcVBDOGFTdGhKMU53U1Qtb2NrZ2lqUWk0WGNWRHR4WWljOXQtMVFQdGU1VHJEVFhaOWFqem92NWJxT1RVa3NFNER5SENnR29aVkduUEc5X1F6SWd3RWExUi1CRHJHS1FwRnhRc1ZBWUMwNTN1cVdTNmpNalpvSzMydTF4bmEyUWtsYVFJS0lZTlHSAcABQVVfeXFMUFVkUWRTMjBNanp3YnpLOXlnN2t2TnNSRkdfRG5qVUtzWm1YSXVReW1NZjhEZ3VjNXFiY3JvS2M2ZHNVZEl5Uk5VMU1TSnE0a29JTS1uSzgxS2lPWEpVUWt6cVlDM01UdWIyQTFPR1B5R1lucnFuRWk0OHhSNEFhdlQ3MFBfanZvZDBhci1xSThRM0xqQzhmckdnN2JDV0NMVnFTTFdtaTI1RkRFWGZmLVRqVVhER0o1OWJGZm55V1NJ",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "7b92a9d47fb7",
     "slug": "aqshda-ai-ishlab-chiquvchilariga-qarshi-davo-qilish-taklifi-7b92a9",
     "title": "AQShda AI ishlab chiquvchilariga qarshi da'vo qilish taklifi",
