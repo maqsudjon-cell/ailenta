@@ -5,7 +5,7 @@
   <link>https://ailenta.uz/mavzu/agentlar/</link>
   <description>&quot;agentlar&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Wed, 07 Oct 2026 07:08:35 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 07 Oct 2026 08:09:43 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/agentlar/rss.xml" rel="self" type="application/rss+xml"/>
   <item>
     <title>Mobcoder AI Anthropic bilan agent imkoniyatlarini kengaytirdi</title>
@@ -16,6 +16,16 @@
     <category>Anthropic</category><category>agentlar</category>
     <media:content url="https://ailenta.uz/og/mobcoder-ai-anthropic-bilan-agent-imkoniyatlarini-kengaytird-32693e.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/mobcoder-ai-anthropic-bilan-agent-imkoniyatlarini-kengaytird-32693e.jpg"/>
+  </item>
+  <item>
+    <title>Ikki AI bir-biriga qarshi kod yaratishda ishlatildi</title>
+    <link>https://ailenta.uz/x/ikki-ai-bir-biriga-qarshi-kod-yaratishda-ishlatildi-6c1118/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/ikki-ai-bir-biriga-qarshi-kod-yaratishda-ishlatildi-6c1118/</guid>
+    <pubDate>Wed, 07 Oct 2026 04:04:05 GMT</pubDate>
+    <description>Bir muallif ikkita AI, Claude va Codex'ni bir-biriga qarshi qo'yib kod yaratish usulini sinovdan o'tkazdi. AI'lar raqobatlashib, bir-birining xatolarini tuzatib, kod yozgan.</description>
+    <category>tadqiqot</category><category>agentlar</category>
+    <media:content url="https://ailenta.uz/og/ikki-ai-bir-biriga-qarshi-kod-yaratishda-ishlatildi-6c1118.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/ikki-ai-bir-biriga-qarshi-kod-yaratishda-ishlatildi-6c1118.jpg"/>
   </item>
   <item>
     <title>AI agentlarini boshqarish insonlarni boshqarishdek qiyin</title>
@@ -296,16 +306,6 @@
     <category>hukumat</category><category>agentlar</category>
     <media:content url="https://ailenta.uz/og/aqsh-hukumatining-yangi-ai-chatboti-minecraft-sherini-ozgart-cb52c3.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/aqsh-hukumatining-yangi-ai-chatboti-minecraft-sherini-ozgart-cb52c3.jpg"/>
-  </item>
-  <item>
-    <title>Inqirozli simulyatsiyada eng oddiy AI agentlari omon qoldi</title>
-    <link>https://ailenta.uz/x/inqirozli-simulyatsiyada-eng-oddiy-ai-agentlari-omon-qoldi-543f84/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/inqirozli-simulyatsiyada-eng-oddiy-ai-agentlari-omon-qoldi-543f84/</guid>
-    <pubDate>Tue, 29 Sep 2026 20:16:30 GMT</pubDate>
-    <description>Emergence World tajribasining ikkinchi mavsumida AI agentlari uchun stress-test o'tkazildi. Unda OpenAI, Anthropic, Google va xAI modellaridan foydalanildi. Natijada eng murakkab emas, balki eng oddiy tuzilgan agentlar inqirozli muhitda omon qolishi aniqlandi.</description>
-    <category>agentlar</category><category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/inqirozli-simulyatsiyada-eng-oddiy-ai-agentlari-omon-qoldi-543f84.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/inqirozli-simulyatsiyada-eng-oddiy-ai-agentlari-omon-qoldi-543f84.jpg"/>
   </item>
 </channel>
 </rss>

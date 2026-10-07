@@ -1,5 +1,180 @@
 [
   {
+    "id": "5a85715f63a1",
+    "slug": "microsoft-ai-bilan-moslashuvchan-zavod-avtomatizatsiyasi-5a8571",
+    "title": "Microsoft: AI bilan moslashuvchan zavod avtomatizatsiyasi",
+    "summary": "Microsoft zavod avtomatizatsiyasida AI yordamida moslashuvchan mashinalar yaratish haqida post e'lon qildi. Bu keyingi qadam sifatida ko'rilmoqda.",
+    "tags": [
+      "Microsoft",
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 33,
+    "published": "2026-10-06T22:41:27.000Z",
+    "created": "2026-10-07T08:03:43.798Z",
+    "coverage": 1,
+    "source": {
+      "name": "Microsoft",
+      "url": "https://microsoft.com/en-us/microsoft-cloud/blog/manufacturing/2026/10/06/physical-ai-in-manufacturing-from-intelligent-machines-to-coordinated-operations",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "ced78b3a8238",
+    "slug": "xitoy-studiyalari-ai-bilan-arzon-dramalar-yaratmoqda-ced78b",
+    "title": "Xitoy studiyalari AI bilan arzon dramalar yaratmoqda",
+    "summary": "Xitoy studiyalari ByteDance va Kling modellaridan foydalanib, 100 daqiqalik qisqa dramalarni 3000 dollardan kamroq narxda yaratmoqda. Bu AI'ning ko'ngilochar sohaga ta'sirini ko'rsatadi.",
+    "tags": [
+      "biznes",
+      "Meta"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-10-07T07:00:00.000Z",
+    "created": "2026-10-07T08:03:43.798Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/10/07/ai-entertainment-china-technology",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "d2a02c6a1fb2",
+    "slug": "jim-cramer-ai-rivojiga-sarmoya-kiritishni-tavsiya-qildi-d2a02c",
+    "title": "Jim Cramer AI rivojiga sarmoya kiritishni tavsiya qildi",
+    "summary": "Jim Cramer AI rivojlanishidan foyda ko‘radigan kuchli biznesga ega yirik texnologiya kompaniyalariga sarmoya kiritishni tavsiya etdi. U buni AI bumiga investitsiya qilishning eng yaxshi yo‘llaridan biri deb hisoblaydi.",
+    "tags": [
+      "iqtisod",
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 19,
+    "published": "2026-10-06T22:13:04.000Z",
+    "created": "2026-10-07T08:03:43.798Z",
+    "coverage": 1,
+    "source": {
+      "name": "CNBC",
+      "url": "https://cnbc.com/2026/10/06/jim-cramer-ai-stocks.html",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "3d1ae007a36a",
+    "slug": "erdosproblems-com-ai-hujumiga-uchradi-3d1ae0",
+    "title": "Erdosproblems.com AI hujumiga uchradi",
+    "summary": "Erdosproblems.com sayti AI hujumiga uchragani xabar qilindi. Bu sun'iy intellektning matematik muammolar platformalariga ta'sirini ko'rsatadi.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 16.2,
+    "published": "2026-10-06T12:53:58.000Z",
+    "created": "2026-10-07T08:03:43.798Z",
+    "coverage": 1,
+    "source": {
+      "name": "Hacker News",
+      "url": "https://erdosproblems.com/forum/thread/blog:9",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "016e7380e617",
+    "slug": "tildan-foydalanuvchi-qidiruv-tizimiga-model-integratsiyasi-016e73",
+    "title": "Tildan foydalanuvchi qidiruv tizimiga model integratsiyasi",
+    "summary": "Bir kompaniya o‘zining veb-sayt qidiruv tizimiga til modelini integratsiya qildi. Tizim model ishdan chiqqanda ham uzluksiz ishlashni ta’minlash uchun mo‘ljallangan bo‘lib, tabiiy til so‘rovlarini tushunadi.",
+    "tags": [
+      "biznes",
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 11,
+    "published": "2026-10-07T07:08:18.000Z",
+    "created": "2026-10-07T08:03:43.798Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1091368",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "6c111859abf1",
+    "slug": "ikki-ai-bir-biriga-qarshi-kod-yaratishda-ishlatildi-6c1118",
+    "title": "Ikki AI bir-biriga qarshi kod yaratishda ishlatildi",
+    "summary": "Bir muallif ikkita AI, Claude va Codex'ni bir-biriga qarshi qo'yib kod yaratish usulini sinovdan o'tkazdi. AI'lar raqobatlashib, bir-birining xatolarini tuzatib, kod yozgan.",
+    "tags": [
+      "tadqiqot",
+      "agentlar"
+    ],
+    "importance": 3,
+    "score": 11,
+    "published": "2026-10-07T04:04:05.000Z",
+    "created": "2026-10-07T08:03:43.798Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1091320",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "64df1193f222",
+    "slug": "ai-tadqiqotchisi-aini-oz-dushmanimiz-deb-atadi-64df11",
+    "title": "AI tadqiqotchisi AI'ni \"o'z dushmanimiz\" deb atadi",
+    "summary": "Nyu-Yorkdagi tinglovda AI tadqiqotchisi \"biz o'z dushmanimizni yaratishga shoshilmoqdamiz\" deya ogohlantirdi. Yetakchi AI laboratoriyalari xavfsizlik amaliyotlari bo'yicha tekshirilmoqda.",
+    "tags": [
+      "xavfsizlik",
+      "tadqiqot"
+    ],
+    "importance": 4,
+    "score": 10.8,
+    "published": "2026-10-05T23:28:31.000Z",
+    "created": "2026-10-07T08:03:43.798Z",
+    "coverage": 1,
+    "source": {
+      "name": "CNBC",
+      "url": "https://cnbc.com/2026/10/05/anthropic-openai-google-meta-execs-testify-nyc-council-ai-hearing.html",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "1b7386dd8694",
+    "slug": "llm-loyiha-sxemalarini-qanday-yaxshilaydi-1b7386",
+    "title": "LLM loyiha sxemalarini qanday yaxshilaydi",
+    "summary": "Muallif LLM'lar hujjat versiyalarini solishtirish sxemasini qanday yaxshilaganini muhokama qildi. U butun loyihani qayta yuklamasdan, bosqichma-bosqich o'zgarishlarga e'tibor qaratadi.",
+    "tags": [
+      "tadqiqot",
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 10.3,
+    "published": "2026-10-06T18:16:27.000Z",
+    "created": "2026-10-07T08:03:43.798Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1091266",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "50860d861e36",
     "slug": "jamie-dimon-anthropicning-mythosi-xavflarni-oshirdi-dedi-50860d",
     "title": "Jamie Dimon Anthropic'ning Mythos'i xavflarni oshirdi dedi",
