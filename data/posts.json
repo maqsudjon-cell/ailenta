@@ -1,5 +1,129 @@
 [
   {
+    "id": "50860d861e36",
+    "slug": "jamie-dimon-anthropicning-mythosi-xavflarni-oshirdi-dedi-50860d",
+    "title": "Jamie Dimon Anthropic'ning Mythos'i xavflarni oshirdi dedi",
+    "summary": "Jamie Dimon Anthropic'ning Mythos modeli AI kiberxavfsizlik xavflarini kuchaytirganini aytdi. Uning so‘zlariga ko‘ra, AI xavflari 10 barobar oshgan.",
+    "tags": [
+      "Anthropic",
+      "xavfsizlik"
+    ],
+    "importance": 4,
+    "score": 27,
+    "published": "2026-10-07T04:30:37.000Z",
+    "created": "2026-10-07T06:43:51.229Z",
+    "coverage": 3,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/jamie-dimon-anthropics-mythos-supercharged-ai-cybersecurity-risks-2026-10",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "Business Insider",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdTh1RURaRjBrQThfSFZjOGk1S1lBVm9Wc0VMbnMzSk15YmtjSUZ1cEsxeTZnWjhGcndKUm11Q2x4SHBQbzZwSVo1ZzY0OGxkRzFpck5lbk5RMG5EU0NlUm5uajZVSXVCemJqcHhKZFBVSEJMdU00OUI1X0tlTGZwNG83SE9CdXRLeXh0cVBoakFDbmNUQ2hJU09GVUpMdXZBWHBldGItaDQ"
+      },
+      {
+        "name": "news.sbs.co.kr",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBUMEl6eVQwX3pSSnVjdzVMOGU4MzR0c0IzRkUwZnBORnVvT1R4NjNfMWwyb3cta2tQZ3RBQmwtZ2x3SU9NSHVvR2VxcTN3bUs3WUZId09yREtHSDhGZWNnd0hJVHMzZw"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "0a32c83147aa",
+    "slug": "anthropic-xavfsizlik-dasturlarini-qayta-tuzdi-0a32c8",
+    "title": "Anthropic xavfsizlik dasturlarini qayta tuzdi",
+    "summary": "Anthropic o‘zining Project Glasswing va Cyber Verification Program dasturlarini qayta tuzdi. Endi ular uch bosqichli tahdidlarni aniqlash klubiga aylantirildi.",
+    "tags": [
+      "Anthropic",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 25,
+    "published": "2026-10-06T23:29:27.000Z",
+    "created": "2026-10-07T06:43:51.229Z",
+    "coverage": 2,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/security/2026/10/07/anthropic-reconfigures-its-cool-kids-security-program/5301509",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "The Register",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPelRneFVzclAyMUtSdTcxNEVhT1k3RUlMT1ZtRGVQV1hNQmpRX2VPODZrQkVMZm5vTlFsNlptUVdjOTFEcF9TVEtxaUROZkFyS1NmbHBLQWF2NzI5d3FUTGlyajg0M3Y1NUVfcExlRHpYVE9Ra2hob1IwTG02Z0ZNVHZuWDJ4T1BQbkp3VFh6dXBKZ2FZM2tpcEdRX1hRT0tMdW1qRldEX01iNGFId0E"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "85a18e31e1e9",
+    "slug": "xvf-rahbari-aini-umid-va-xavf-deb-atadi-85a18e",
+    "title": "XVF rahbari AI'ni umid va xavf deb atadi",
+    "summary": "XVF rahbari Kristalina Georgieva AI'ni jahon yetakchilari uchun ham umid, ham xavf deb atadi. Uning ogohlantirishicha, texnologiya o‘sish umidlarini oshirsa-da, inflyatsiya va daromadlarni ham ko‘tarmoqda.",
+    "tags": [
+      "iqtisod",
+      "siyosat"
+    ],
+    "importance": 4,
+    "score": 19,
+    "published": "2026-10-07T06:16:39.000Z",
+    "created": "2026-10-07T06:43:51.229Z",
+    "coverage": 1,
+    "source": {
+      "name": "CNBC",
+      "url": "https://cnbc.com/2026/10/07/economy-inflation-ai-trade-imf-iran-hormuz-trump-.html",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "05ad79e42d19",
+    "slug": "temasek-ai-savdosining-bekor-bolishi-xavfidan-ogohlantirdi-05ad79",
+    "title": "Temasek AI savdosining bekor bo'lishi xavfidan ogohlantirdi",
+    "summary": "Singapurning davlat investitsiya giganti Temasek AI savdosining bekor bo‘lishi bozorlar uchun eng katta xavf ekanligidan ogohlantirdi. Bu hozirgi vaqtda bozorlarga tahdid solayotgan asosiy xavf hisoblanadi.",
+    "tags": [
+      "iqtisod",
+      "biznes"
+    ],
+    "importance": 4,
+    "score": 19,
+    "published": "2026-10-07T05:25:29.000Z",
+    "created": "2026-10-07T06:43:51.229Z",
+    "coverage": 1,
+    "source": {
+      "name": "CNBC",
+      "url": "https://cnbc.com/2026/10/07/singapore-temasek-warns-of-the-biggest-risk-facing-markets.html",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "189a4290cdf5",
+    "slug": "janubiy-koreya-prezidenti-kiberhujumlarga-qarshi-vositalar-y-189a42",
+    "title": "Janubiy Koreya prezidenti kiberhujumlarga qarshi vositalar yaratishga chaqirdi",
+    "summary": "Janubiy Koreya prezidenti barcha kiberhujumlarni to‘xtatuvchi vositalar yaratishga chaqirdi. Uning so‘zlariga ko‘ra, AI davri uchun \"to‘liq xavfsizlik paradigmasini yangilash\" zarur.",
+    "tags": [
+      "siyosat",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-10-07T03:56:25.000Z",
+    "created": "2026-10-07T06:43:51.229Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/public-sector/2026/10/07/south-korean-president-calls-for-creation-of-tools-that-stop-all-cyber-attacks/5301533",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "dc2fef796828",
     "slug": "mistral-large-4-modeli-chiqarildi-dc2fef",
     "title": "Mistral Large 4 modeli chiqarildi",
