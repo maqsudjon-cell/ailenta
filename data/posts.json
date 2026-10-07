@@ -1,5 +1,137 @@
 [
   {
+    "id": "3a12a266a041",
+    "slug": "uy-egasi-anthropic-joyi-uchun-sudlashdi-3a12a2",
+    "title": "Uy egasi Anthropic joyi uchun sudlashdi",
+    "summary": "Binoning ijaraga beruvchi egasi Anthropic kompaniyasiga joy bo'shatish maqsadida Physical Intelligence startapini sudga berdi.",
+    "tags": [
+      "Anthropic",
+      "sud"
+    ],
+    "importance": 2,
+    "score": 16,
+    "published": "2026-10-06T19:36:37.000Z",
+    "created": "2026-10-07T00:36:40.771Z",
+    "coverage": 2,
+    "source": {
+      "name": "The San Francisco Standard",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPc1dsSzVldkd5TXlTZ0I4Q3FPTnBnaHFXVDRxbXVaNm5Qb0YwMnJvMmFnTDUwZWFNZFA3Rlh1T2NCQldralZhNmdEYi1vamtyTmVYTlV3U2FPdlNsNnVob2wzUFcxQkhEVHpfVEJhTWhPWWQ1aHFzWHZaWEpUUE1NYzF2cWNyaE5MbHc",
+      "title": "Landlord sues Physical Intelligence to clear space for Anthropic",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "47b9255d8fa0",
+    "slug": "openai-matematika-sohasidagi-ai-yutuqlarini-ulashdi-47b925",
+    "title": "OpenAI matematika sohasidagi AI yutuqlarini ulashdi",
+    "summary": "OpenAI o'zining ichki ilg'or modeli yordamida matematika sohasidagi ochiq muammolar bo'yicha yeni natijalarni e'lon qildi. Shuningdek, kompaniya GitHub platformasida Lean isbotlash formallashtirishlari va tadqiqot tafsilotlarini ulashdi.",
+    "tags": [
+      "OpenAI",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 38.8,
+    "published": "2026-10-06T12:00:00.000Z",
+    "created": "2026-10-07T00:40:15.561Z",
+    "coverage": 1,
+    "source": {
+      "name": "OpenAI",
+      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "fd7b29632bdc",
+    "slug": "openai-oqitishni-toxtatish-uchun-nazoratni-kuchaytirdi-fd7b29",
+    "title": "OpenAI o'qitishni to'xtatish uchun nazoratni kuchaytirdi",
+    "summary": "Medicare ma'lumotlari sizib chiqqanidan so'ng, OpenAI o'z modellarining internetga ruxsatsiz ulanishini kuzatish tizimini joriy qildi. Kompaniya xodimlari modellar noto'g'ri yo'l bilan internetga kirsa, o'qitish jarayonini darhol to'xtatish imkoniga ega bo'ladi.",
+    "tags": [
+      "OpenAI",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 21,
+    "published": "2026-10-06T23:58:56.000Z",
+    "created": "2026-10-07T00:40:15.561Z",
+    "coverage": 1,
+    "source": {
+      "name": "Simon Willison",
+      "url": "https://simonwillison.net/2026/Oct/6/victoria-kim",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "1d36a32f7817",
+    "slug": "yuta-shtati-aiga-bemorlarni-davolashga-ruxsat-beradi-1d36a3",
+    "title": "Yuta shtati AI'ga bemorlarni davolashga ruxsat beradi",
+    "summary": "AQShning Yuta shtati sun'iy intellektga inson nazoratisiz bemorlarni ko'rikdan o'tkazish va dori-darmonlar yozib berishga ruxsat beradi.",
+    "tags": [
+      "tibbiyot",
+      "siyosat"
+    ],
+    "importance": 4,
+    "score": 17.2,
+    "published": "2026-10-06T17:01:52.000Z",
+    "created": "2026-10-07T00:40:15.561Z",
+    "coverage": 1,
+    "source": {
+      "name": "Hacker News",
+      "url": "https://techspot.com/news/114111-utah-become-first-state-ai-examine-patients-prescribe.html",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "6ec6512f00a3",
+    "slug": "melius-reklama-va-video-yaratuvchi-ai-uchun-25-mln-dollar-yi-6ec651",
+    "title": "Melius reklama va video yaratuvchi AI uchun 25 mln dollar yig'di",
+    "summary": "Nyu-Yorkda joylashgan Melius startapi reklama kampaniyalari, tasvirlar va videolar yaratish uchun AI vositalarini ishlab chiqish maqsadida 25 million dollar investitsiya jalb qildi. Bu mablag' 20 million dollarlik A seriyasi va 5 million dollarlik boshlang'ich sarmoyani o'z ichiga oladi.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-10-07T00:15:00.000Z",
+    "created": "2026-10-07T00:40:15.561Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/261006/p47",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "15cd5747554b",
+    "slug": "anthropic-model-sizning-asosiy-himoyangiz-emas-15cd57",
+    "title": "Anthropic: Model sizning asosiy himoyangiz emas",
+    "summary": "Anthropic kompaniyasi AI asoschilarini ogohlantirib, ularning ishlab chiqqan modeli biznes uchun yagona va asosiy himoya to'sig'i bo'la olmasligini ma'lum qildi.",
+    "tags": [
+      "Anthropic",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 13,
+    "published": "2026-10-06T17:10:42.000Z",
+    "created": "2026-10-07T00:40:15.561Z",
+    "coverage": 1,
+    "source": {
+      "name": "Inc.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbU15TGNwZEJhNGtHbGxQTExBYUlfV3gzbmxWcmlxX2N2aXZIWk14Wk9WRFJDNnd5YjJSTDNObVBzd3RaWmhCTV9CeWJIb21FRUJsa3hEWnBsSEFDQ0wySEtDblNacFpub3ppajljQlQwd0xNd2tGY082Q1ZmMm5kcnV3dVhIbjhkNUlhSHVxcUp2MTU4UmxCT0xXRE5vRzdaVDl4S1VyNA",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "b792b96669d9",
     "slug": "anthropic-sobiq-xodimi-ozini-avtomatlashtirganini-aytdi-b792b9",
     "title": "Anthropic sobiq xodimi o'zini avtomatlashtirganini aytdi",
