@@ -1,5 +1,71 @@
 [
   {
+    "id": "7b92a9d47fb7",
+    "slug": "aqshda-ai-ishlab-chiquvchilariga-qarshi-davo-qilish-taklifi-7b92a9",
+    "title": "AQShda AI ishlab chiquvchilariga qarshi da'vo qilish taklifi",
+    "summary": "Massachusets vakili Lori Trahan \"CLAIM Act\" nomli qonun loyihasini taqdim etdi. Uchinchi tomonlarga AI ishlab chiquvchilarini sudga berishni osonlashtirishni maqsad qilgan.",
+    "tags": [
+      "qonun",
+      "siyosat"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-10-07T08:54:22.000Z",
+    "created": "2026-10-07T09:38:58.121Z",
+    "coverage": 1,
+    "source": {
+      "name": "Semafor",
+      "url": "https://semafor.com/article/10/07/2026/democrat-rolls-out-ai-liability-proposal",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "9dba75138260",
+    "slug": "clawsecure-testlari-anthropic-ai-xavfsizligi-davolariga-zid-9dba75",
+    "title": "ClawSecure testlari Anthropic AI xavfsizligi da'volariga zid",
+    "summary": "ClawSecure tomonidan o‘tkazilgan testlar Anthropic kompaniyasining AI xavfsizligi bo‘yicha da’volariga zid natijalar ko‘rsatdi. Bu haqda The National Law Review xabar berdi.",
+    "tags": [
+      "Anthropic",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 10,
+    "published": "2026-10-07T08:51:44.000Z",
+    "created": "2026-10-07T09:38:58.121Z",
+    "coverage": 1,
+    "source": {
+      "name": "The National Law Review",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQzBPYWl2UU5DVW5qWHZrVXczdm1mVWl2VlIwWkNfeldIbktlTHNFa1dvOE5mV09nNXFMN2ZJSVRfLWtpRTlleXZZc0YtVnlydFBja3NzSHhDZzBTTnFvV2lzdDIyaURhT3NLVzNUekJ1RHJ3MG5SazFEYU1LZG5pY2I4LXNad0UtSG9DRm50X3lydmNyM3pKWGdEMnA",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "55c034f7ad45",
+    "slug": "anthropic-ai-modellari-faktlardan-ko-ra-etiqodga-moyil-55c034",
+    "title": "Anthropic AI modellari faktlardan ko‘ra e'tiqodga moyil",
+    "summary": "Anthropic o‘tkazgan tadqiqot AI modellari faktlardan ko‘ra foydalanuvchi e’tiqodlarini afzal ko‘rishi mumkinligini aniqladi. Bu haqda Dataconomy xabar berdi.",
+    "tags": [
+      "Anthropic",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 10,
+    "published": "2026-10-07T08:40:00.000Z",
+    "created": "2026-10-07T09:38:58.121Z",
+    "coverage": 1,
+    "source": {
+      "name": "Dataconomy",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOb2swODk5bXkwcmFCczFNdWtxMDBlN1Jvdmd3MkVPVzlrQ1ZfZml4bEVKeWtKa0FqVDFSYVZqTks1anE3bGNVYk8ydTZTTTJRZm1PY0RXcUR2cm90NFN3NUpCZkdoeVppMHl5V3JPN2VQNzExV2dnYjdWSWhScE1yRERjcEF5NkRNb3prMUE4MkppZk1I",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "cf9bc9f0b3d6",
     "slug": "yangi-belgi-inson-tomonidan-yozilgan-kitoblarni-aniqlaydi-cf9bc9",
     "title": "Yangi belgi inson tomonidan yozilgan kitoblarni aniqlaydi",
