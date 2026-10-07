@@ -1,5 +1,49 @@
 [
   {
+    "id": "2611117fc08e",
+    "slug": "xitoy-ai-startaplari-aqsh-modellariga-teng-ammo-moliyalashti-261111",
+    "title": "Xitoy AI startaplari AQSh modellariga teng, ammo moliyalashtirishda ortda",
+    "summary": "Xitoyning AI startaplari AQSh modellariga tenglasha oladi, ammo moliyalashtirishda ortda qolmoqda. Ular AQSh venchur sarmoyasining o‘ndan bir qismini oladi va raqobatda qolish uchun yangi manbalar topishi kerak.",
+    "tags": [
+      "iqtisod",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-10-07T21:00:00.000Z",
+    "created": "2026-10-07T21:37:37.615Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/10/07/why-china-ai-startups-need-new-funding",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "5c18f3e8792a",
+    "slug": "musiqachi-claude-code-yordamida-vst-plaginlari-yaratdi-5c18f3",
+    "title": "Musiqachi Claude Code yordamida VST plaginlari yaratdi",
+    "summary": "Dasturlash ko‘nikmalariga ega bo‘lmagan musiqachi Claude Code AI yordamida o‘zining VST plaginlari va sintezatorlarini yaratdi. Uning ta’kidlashicha, AI bilan ishlashda so‘rovlardan ko‘ra qoidalar muhimroq.",
+    "tags": [
+      "Anthropic",
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 11,
+    "published": "2026-10-07T13:24:37.000Z",
+    "created": "2026-10-07T21:37:37.616Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1091628",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "8f8b9c14a921",
     "slug": "sobiq-oq-uy-maslahatchisi-ai-fondi-uchun-pul-yig-moqda-8f8b9c",
     "title": "Sobiq Oq uy maslahatchisi AI fondi uchun pul yig‘moqda",
