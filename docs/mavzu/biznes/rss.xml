@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/biznes/</link>
   <description>&quot;biznes&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Wed, 07 Oct 2026 04:06:53 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 07 Oct 2026 05:06:34 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/biznes/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>OpenBPM 2.0 platformasi chiqarildi</title>
+    <link>https://ailenta.uz/x/openbpm-2-0-platformasi-chiqarildi-8dc6ab/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/openbpm-2-0-platformasi-chiqarildi-8dc6ab/</guid>
+    <pubDate>Wed, 07 Oct 2026 03:40:54 GMT</pubDate>
+    <description>&quot;Хоулмонт&quot; kompaniyasi korxonalarni avtomatlashtirish uchun mo'ljallangan OpenBPM Engine v.2.0 platformasini chiqardi. U Spring Boot 4 va Spring AI'dan faol foydalanadi.</description>
+    <category>biznes</category><category>bulut</category>
+    <media:content url="https://ailenta.uz/og/openbpm-2-0-platformasi-chiqarildi-8dc6ab.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/openbpm-2-0-platformasi-chiqarildi-8dc6ab.jpg"/>
+  </item>
   <item>
     <title>Micbot robot-it yetkazib berish bo'yicha nizoni hal qildi</title>
     <link>https://ailenta.uz/x/micbot-robot-it-yetkazib-berish-boyicha-nizoni-hal-qildi-75b855/</link>
@@ -296,16 +306,6 @@
     <category>biznes</category><category>ta'lim</category>
     <media:content url="https://ailenta.uz/og/hot-girl-hotline-ai-yordamida-munosabatlar-bo-yicha-maslahat-88b687.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/hot-girl-hotline-ai-yordamida-munosabatlar-bo-yicha-maslahat-88b687.jpg"/>
-  </item>
-  <item>
-    <title>O‘zbekistonda 20 ta startapni qo‘llab-quvvatlash tanlovi</title>
-    <link>https://ailenta.uz/x/o-zbekistonda-20-ta-startapni-qo-llab-quvvatlash-tanlovi-ebc514/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/o-zbekistonda-20-ta-startapni-qo-llab-quvvatlash-tanlovi-ebc514/</guid>
-    <pubDate>Mon, 05 Oct 2026 16:59:00 GMT</pubDate>
-    <description>O‘zbekistonda 20 ta texnologik startapni qo‘llab-quvvatlash uchun tanlov eʼlon qilindi. Arizalar 2026-yil 14-oktabrga qadar qabul qilinadi.</description>
-    <category>O'zbekiston</category><category>biznes</category>
-    <media:content url="https://ailenta.uz/og/o-zbekistonda-20-ta-startapni-qo-llab-quvvatlash-tanlovi-ebc514.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/o-zbekistonda-20-ta-startapni-qo-llab-quvvatlash-tanlovi-ebc514.jpg"/>
   </item>
 </channel>
 </rss>

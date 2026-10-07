@@ -1,5 +1,93 @@
 [
   {
+    "id": "dc2fef796828",
+    "slug": "mistral-large-4-modeli-chiqarildi-dc2fef",
+    "title": "Mistral Large 4 modeli chiqarildi",
+    "summary": "Mistral kompaniyasi bir trillion parametrli eng yirik modeli Large 4'ni taqdim etdi. U Yevropa infratuzilmasida o'qitilgan va kiberxavfsizlik ishlari uchun mo'ljallangan.",
+    "tags": [
+      "Mistral",
+      "xavfsizlik"
+    ],
+    "importance": 4,
+    "score": 22.9,
+    "published": "2026-10-06T14:18:08.000Z",
+    "created": "2026-10-07T05:01:49.703Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/mistral-large-4-is-said-to-be-the-most-powerful-open-ai-model-from-europe-and-the-u-s",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "ac8b22b8bfed",
+    "slug": "geoffrey-hinton-ai-uchun-fda-uslubidagi-tizimni-taklif-qildi-ac8b22",
+    "title": "Geoffrey Hinton AI uchun FDA uslubidagi tizimni taklif qildi",
+    "summary": "AI asoschilaridan biri Geoffrey Hinton AI kompaniyalari modellarini chiqarishdan oldin ularning xavfsizligini regulyatorga isbotlashi kerakligini aytdi. U buni dori ishlab chiqaruvchilarga o'xshatdi.",
+    "tags": [
+      "xavfsizlik",
+      "qonun"
+    ],
+    "importance": 4,
+    "score": 15,
+    "published": "2026-10-07T04:01:01.000Z",
+    "created": "2026-10-07T05:01:49.703Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/godfather-of-ai-wants-fda-style-approval-system-2026-10",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "32693eaf6a20",
+    "slug": "mobcoder-ai-anthropic-bilan-agent-imkoniyatlarini-kengaytird-32693e",
+    "title": "Mobcoder AI Anthropic bilan agent imkoniyatlarini kengaytirdi",
+    "summary": "Mobcoder AI kompaniyasi Anthropic hamkorlik tarmog'i orqali o'zining agentlik AI imkoniyatlarini kengaytirdi.",
+    "tags": [
+      "Anthropic",
+      "agentlar"
+    ],
+    "importance": 2,
+    "score": 13,
+    "published": "2026-10-07T04:09:43.000Z",
+    "created": "2026-10-07T05:01:49.703Z",
+    "coverage": 1,
+    "source": {
+      "name": "USA Today",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMUY4WG54cEUyYV9VQ1ZHcERLX1ZMMzhDYlNxcE1Uam9RRmxTWW0xRGFxaW1rQnhvMlNhSDlmbTROTU9YMVVscUlXY3RNSXdpZGEtVE5YN3c0MWtzaEQwYVJvX1dKVFkzMGZUMFYwSVMwZVpkM2I0WmdLUmxqMlNWQnp3QVJJRHh1VjgyMzVkV2drdG1ocENvVFVNSW1xNUZIMGR1Z0V0RHZDclFuVFViRnZZZXVvRi1qSVN4dmpGR21weVg3ZVlQNg",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "8dc6abc0b462",
+    "slug": "openbpm-2-0-platformasi-chiqarildi-8dc6ab",
+    "title": "OpenBPM 2.0 platformasi chiqarildi",
+    "summary": "\"Хоулмонт\" kompaniyasi korxonalarni avtomatlashtirish uchun mo'ljallangan OpenBPM Engine v.2.0 platformasini chiqardi. U Spring Boot 4 va Spring AI'dan faol foydalanadi.",
+    "tags": [
+      "biznes",
+      "bulut"
+    ],
+    "importance": 2,
+    "score": 11,
+    "published": "2026-10-07T03:40:54.000Z",
+    "created": "2026-10-07T05:01:49.703Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/companies/haulmont/articles/1088860",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "06987208eda6",
     "slug": "rised-agentlar-uchun-oqitish-strategiyasi-069872",
     "title": "RISED: Agentlar uchun o'qitish strategiyasi",

@@ -5,8 +5,38 @@
   <link>https://ailenta.uz</link>
   <description>Dunyodagi sun'iy intellekt yangiliklari o'zbek tilida. Har soatda yangilanadi, har bir xabarda asl manbaga havola.</description>
   <language>uz</language>
-  <lastBuildDate>Wed, 07 Oct 2026 04:06:53 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 07 Oct 2026 05:06:34 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Mobcoder AI Anthropic bilan agent imkoniyatlarini kengaytirdi</title>
+    <link>https://ailenta.uz/x/mobcoder-ai-anthropic-bilan-agent-imkoniyatlarini-kengaytird-32693e/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/mobcoder-ai-anthropic-bilan-agent-imkoniyatlarini-kengaytird-32693e/</guid>
+    <pubDate>Wed, 07 Oct 2026 04:09:43 GMT</pubDate>
+    <description>Mobcoder AI kompaniyasi Anthropic hamkorlik tarmog'i orqali o'zining agentlik AI imkoniyatlarini kengaytirdi.</description>
+    <category>Anthropic</category><category>agentlar</category>
+    <media:content url="https://ailenta.uz/og/mobcoder-ai-anthropic-bilan-agent-imkoniyatlarini-kengaytird-32693e.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/mobcoder-ai-anthropic-bilan-agent-imkoniyatlarini-kengaytird-32693e.jpg"/>
+  </item>
+  <item>
+    <title>Geoffrey Hinton AI uchun FDA uslubidagi tizimni taklif qildi</title>
+    <link>https://ailenta.uz/x/geoffrey-hinton-ai-uchun-fda-uslubidagi-tizimni-taklif-qildi-ac8b22/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/geoffrey-hinton-ai-uchun-fda-uslubidagi-tizimni-taklif-qildi-ac8b22/</guid>
+    <pubDate>Wed, 07 Oct 2026 04:01:01 GMT</pubDate>
+    <description>AI asoschilaridan biri Geoffrey Hinton AI kompaniyalari modellarini chiqarishdan oldin ularning xavfsizligini regulyatorga isbotlashi kerakligini aytdi. U buni dori ishlab chiqaruvchilarga o'xshatdi.</description>
+    <category>xavfsizlik</category><category>qonun</category>
+    <media:content url="https://ailenta.uz/og/geoffrey-hinton-ai-uchun-fda-uslubidagi-tizimni-taklif-qildi-ac8b22.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/geoffrey-hinton-ai-uchun-fda-uslubidagi-tizimni-taklif-qildi-ac8b22.jpg"/>
+  </item>
+  <item>
+    <title>OpenBPM 2.0 platformasi chiqarildi</title>
+    <link>https://ailenta.uz/x/openbpm-2-0-platformasi-chiqarildi-8dc6ab/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/openbpm-2-0-platformasi-chiqarildi-8dc6ab/</guid>
+    <pubDate>Wed, 07 Oct 2026 03:40:54 GMT</pubDate>
+    <description>&quot;Хоулмонт&quot; kompaniyasi korxonalarni avtomatlashtirish uchun mo'ljallangan OpenBPM Engine v.2.0 platformasini chiqardi. U Spring Boot 4 va Spring AI'dan faol foydalanadi.</description>
+    <category>biznes</category><category>bulut</category>
+    <media:content url="https://ailenta.uz/og/openbpm-2-0-platformasi-chiqarildi-8dc6ab.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/openbpm-2-0-platformasi-chiqarildi-8dc6ab.jpg"/>
+  </item>
   <item>
     <title>AI musiqalarni botlar orqali eshittirgan shaxs qamaldi</title>
     <link>https://ailenta.uz/x/ai-musiqalarni-botlar-orqali-eshittirgan-shaxs-qamaldi-ddb401/</link>
@@ -338,6 +368,16 @@
     <media:thumbnail url="https://ailenta.uz/og/dasturchilar-ai-sababli-charchoq-va-ishonchsizlikda-cd5172.jpg"/>
   </item>
   <item>
+    <title>Mistral Large 4 modeli chiqarildi</title>
+    <link>https://ailenta.uz/x/mistral-large-4-modeli-chiqarildi-dc2fef/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/mistral-large-4-modeli-chiqarildi-dc2fef/</guid>
+    <pubDate>Tue, 06 Oct 2026 14:18:08 GMT</pubDate>
+    <description>Mistral kompaniyasi bir trillion parametrli eng yirik modeli Large 4'ni taqdim etdi. U Yevropa infratuzilmasida o'qitilgan va kiberxavfsizlik ishlari uchun mo'ljallangan.</description>
+    <category>Mistral</category><category>xavfsizlik</category>
+    <media:content url="https://ailenta.uz/og/mistral-large-4-modeli-chiqarildi-dc2fef.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/mistral-large-4-modeli-chiqarildi-dc2fef.jpg"/>
+  </item>
+  <item>
     <title>3SUM muammosi O(N¹·⁹⁹⁹²) tezlikda hal qilindi</title>
     <link>https://ailenta.uz/x/3sum-muammosi-o-n-tezlikda-hal-qilindi-c5c019/</link>
     <guid isPermaLink="true">https://ailenta.uz/x/3sum-muammosi-o-n-tezlikda-hal-qilindi-c5c019/</guid>
@@ -466,46 +506,6 @@
     <category>robototexnika</category>
     <media:content url="https://ailenta.uz/og/rossiya-shturm-robot-tankini-namoyish-etdi-956387.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/rossiya-shturm-robot-tankini-namoyish-etdi-956387.jpg"/>
-  </item>
-  <item>
-    <title>Amerikaliklarning yarmi AI ishlatadi, kamchilik to'laydi</title>
-    <link>https://ailenta.uz/x/amerikaliklarning-yarmi-ai-ishlatadi-kamchilik-tolaydi-efa141/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/amerikaliklarning-yarmi-ai-ishlatadi-kamchilik-tolaydi-efa141/</guid>
-    <pubDate>Tue, 06 Oct 2026 10:29:01 GMT</pubDate>
-    <description>Bloomberg.com xabariga ko'ra, amerikalik kattalarning qariyb yarmi sun'iy intellektdan foydalanadi. Biroq, ularning oz qismi bu xizmatlar uchun pul to'laydi.</description>
-    <category>iqtisod</category>
-    <media:content url="https://ailenta.uz/og/amerikaliklarning-yarmi-ai-ishlatadi-kamchilik-tolaydi-efa141.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/amerikaliklarning-yarmi-ai-ishlatadi-kamchilik-tolaydi-efa141.jpg"/>
-  </item>
-  <item>
-    <title>AI agentlarini boshqarish insonlarni boshqarishdek qiyin</title>
-    <link>https://ailenta.uz/x/ai-agentlarini-boshqarish-insonlarni-boshqarishdek-qiyin-3ea13a/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/ai-agentlarini-boshqarish-insonlarni-boshqarishdek-qiyin-3ea13a/</guid>
-    <pubDate>Tue, 06 Oct 2026 10:00:01 GMT</pubDate>
-    <description>Business Insider xabariga ko'ra, AI agentlarini boshqarish inson xodimlarini boshqarish kabi murakkab bo'lishi mumkin. Inson xodimlari vaqt o'tishi bilan o'z mahoratini oshirsa, AI agentlari uchun bu holat kuzatilmaydi.</description>
-    <category>agentlar</category><category>mehnat bozori</category>
-    <media:content url="https://ailenta.uz/og/ai-agentlarini-boshqarish-insonlarni-boshqarishdek-qiyin-3ea13a.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/ai-agentlarini-boshqarish-insonlarni-boshqarishdek-qiyin-3ea13a.jpg"/>
-  </item>
-  <item>
-    <title>Kitobda AI to‘qib chiqargan iqtiboslar aniqlandi</title>
-    <link>https://ailenta.uz/x/kitobda-ai-to-qib-chiqargan-iqtiboslar-aniqlandi-643e71/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/kitobda-ai-to-qib-chiqargan-iqtiboslar-aniqlandi-643e71/</guid>
-    <pubDate>Tue, 06 Oct 2026 10:00:00 GMT</pubDate>
-    <description>&quot;The Future of Truth&quot; kitobi muallifi tahrirlash jarayonlaridan so‘ng asarda sun'iy intellekt tomonidan to‘qib chiqarilgan 26 ta soxta iqtibos borligini aniqladi. Muallif ushbu xatoliklarga qarshi kurashishga qaror qilganini ma'lum qildi.</description>
-    <category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/kitobda-ai-to-qib-chiqargan-iqtiboslar-aniqlandi-643e71.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/kitobda-ai-to-qib-chiqargan-iqtiboslar-aniqlandi-643e71.jpg"/>
-  </item>
-  <item>
-    <title>Xitoy AQSh ustunligiga qarshi texnologiyalar yaratmoqda</title>
-    <link>https://ailenta.uz/x/xitoy-aqsh-ustunligiga-qarshi-texnologiyalar-yaratmoqda-076395/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/xitoy-aqsh-ustunligiga-qarshi-texnologiyalar-yaratmoqda-076395/</guid>
-    <pubDate>Tue, 06 Oct 2026 10:00:00 GMT</pubDate>
-    <description>Stiv Feldshteyn o‘zining yangi kitobida Xitoy nafaqat sun'iy intellekt, balki boshqa sohalarda ham AQSh ustunligiga tahdid solayotganini yozadi. Mamlakat akkumulyatorlar, quyosh panellari, dronlar va sun'iy yo‘ldoshlar kabi texnologik imkoniyatlarini faol rivojlantirmoqda.</description>
-    <category>siyosat</category><category>biznes</category>
-    <media:content url="https://ailenta.uz/og/xitoy-aqsh-ustunligiga-qarshi-texnologiyalar-yaratmoqda-076395.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/xitoy-aqsh-ustunligiga-qarshi-texnologiyalar-yaratmoqda-076395.jpg"/>
   </item>
 </channel>
 </rss>

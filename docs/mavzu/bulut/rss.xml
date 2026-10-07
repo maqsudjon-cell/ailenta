@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/bulut/</link>
   <description>&quot;bulut&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Wed, 07 Oct 2026 04:06:53 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 07 Oct 2026 05:06:34 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/bulut/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>OpenBPM 2.0 platformasi chiqarildi</title>
+    <link>https://ailenta.uz/x/openbpm-2-0-platformasi-chiqarildi-8dc6ab/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/openbpm-2-0-platformasi-chiqarildi-8dc6ab/</guid>
+    <pubDate>Wed, 07 Oct 2026 03:40:54 GMT</pubDate>
+    <description>&quot;Хоулмонт&quot; kompaniyasi korxonalarni avtomatlashtirish uchun mo'ljallangan OpenBPM Engine v.2.0 platformasini chiqardi. U Spring Boot 4 va Spring AI'dan faol foydalanadi.</description>
+    <category>biznes</category><category>bulut</category>
+    <media:content url="https://ailenta.uz/og/openbpm-2-0-platformasi-chiqarildi-8dc6ab.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/openbpm-2-0-platformasi-chiqarildi-8dc6ab.jpg"/>
+  </item>
   <item>
     <title>MoWorld modeli uy hayvonlari suratini 4D shaklga o‘tkazadi</title>
     <link>https://ailenta.uz/x/moworld-modeli-uy-hayvonlari-suratini-4d-shaklga-o-tkazadi-e4d0ee/</link>
@@ -296,16 +306,6 @@
     <category>chiplar</category><category>bulut</category>
     <media:content url="https://ailenta.uz/og/ai-serverlari-uchun-ventilyatorsiz-sovutish-kelajagi-6dabcc.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/ai-serverlari-uchun-ventilyatorsiz-sovutish-kelajagi-6dabcc.jpg"/>
-  </item>
-  <item>
-    <title>Civo Britaniya suveren AI uchun 40 markaz quradi</title>
-    <link>https://ailenta.uz/x/civo-britaniya-suveren-ai-uchun-40-markaz-quradi-e6da67/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/civo-britaniya-suveren-ai-uchun-40-markaz-quradi-e6da67/</guid>
-    <pubDate>Tue, 22 Sep 2026 12:13:00 GMT</pubDate>
-    <description>Civo Britaniyaning suveren AI'sini quvvatlantirish uchun 40 ta chekka ma'lumot markazi qurishni rejalashtirmoqda. Birinchi markaz kelasi mart oyida Xertfordshirda Nvidia Vera Rubin tizimlari bilan ishga tushadi.</description>
-    <category>Nvidia</category><category>bulut</category>
-    <media:content url="https://ailenta.uz/og/civo-britaniya-suveren-ai-uchun-40-markaz-quradi-e6da67.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/civo-britaniya-suveren-ai-uchun-40-markaz-quradi-e6da67.jpg"/>
   </item>
 </channel>
 </rss>
