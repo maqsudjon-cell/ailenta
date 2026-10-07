@@ -1,5 +1,183 @@
 [
   {
+    "id": "0ca1450969b5",
+    "slug": "openai-chatgptga-gpt-6-va-intelligent-uini-joriy-etmoqda-0ca145",
+    "title": "OpenAI ChatGPT’ga GPT-6 va Intelligent UI’ni joriy etmoqda",
+    "summary": "OpenAI ChatGPT’ga GPT-6 modelini va Intelligent UI’ni global miqyosda joriy etmoqda. Bu yangilanish tezroq javoblar, vizual va interaktiv tajribalarni taqdim etadi.",
+    "tags": [
+      "OpenAI",
+      "agentlar"
+    ],
+    "importance": 5,
+    "score": 33.4,
+    "published": "2026-10-07T00:00:00.000Z",
+    "created": "2026-10-07T18:37:57.918Z",
+    "coverage": 1,
+    "source": {
+      "name": "OpenAI",
+      "url": "https://openai.com/index/gpt-6-for-everyone",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "deb7e3a39355",
+    "slug": "ai-yetakchilari-texnologiyadan-qo-rqishlari-haqida-deb7e3",
+    "title": "AI yetakchilari texnologiyadan qo‘rqishlari haqida",
+    "summary": "Jurnalist Kevin Roosening so‘zlariga ko‘ra, Dario Amodei kabi AI yetakchilari poygada g‘alaba qozonishni, shu bilan birga uni sekinlashtirishni istaydi. Bu ularning o‘z texnologiyalaridan qo‘rqishlari bilan bog‘liq.",
+    "tags": [
+      "xavfsizlik",
+      "siyosat"
+    ],
+    "importance": 3,
+    "score": 21,
+    "published": "2026-10-07T16:54:56.000Z",
+    "created": "2026-10-07T18:37:57.918Z",
+    "coverage": 2,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/openai-anthropic-trump-regulation-kevin-roose-ai-book-podcast-kafka-2026-10",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "Business Insider",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOTUzMUVEUXRwZW1LXzRoajdLakRVY24taUcycVd0d3QxeDE2ZnlET2VGR2ZTNDdpc0pNbkZOMFdQVXBtbUlKLTlXb2xBNEd6X2xoeHdqRmlnbjZkWG9pdWlCVkNCLWVva0htV0tUVzdhVlBQZDY2ZUJNeUlmRDRFOHNCM2ZWanNVampBbWJ1dHlUcGRQWjJZeVBUVFBoNnYxbjFCaVl3VzJ3Rm8"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "9109e20c6def",
+    "slug": "higgsfield-ai-influencerlar-yaratish-vositasini-ishga-tushir-9109e2",
+    "title": "Higgsfield AI influencerlar yaratish vositasini ishga tushirdi",
+    "summary": "AI video startapi Higgsfield foydalanuvchilarga shaxsiy AI influencerlarni yaratish imkonini beruvchi vositani taqdim etdi. Bu vosita mavjud videolarga o‘z personajlarini kiritishni osonlashtiradi.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 19,
+    "published": "2026-10-07T17:16:39.000Z",
+    "created": "2026-10-07T18:37:57.918Z",
+    "coverage": 1,
+    "source": {
+      "name": "Semafor",
+      "url": "https://semafor.com/article/10/07/2026/creative-tech-startup-higgsfield-launches-ai-influencer-tool",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "3da1bf0dff8b",
+    "slug": "ai-fond-bozori-o-sishi-keksa-amerikaliklar-boyligini-oshirdi-3da1bf",
+    "title": "AI fond bozori o‘sishi keksa amerikaliklar boyligini oshirdi",
+    "summary": "AI tomonidan qo‘llab-quvvatlangan fond bozori o‘sishi tufayli, 55 yoshdan oshgan amerikaliklar boyligi ikki yilda 20% dan ko‘proq oshdi. Ular umumiy sof boylikning qariyb to‘rtdan uch qismini tashkil etadi.",
+    "tags": [
+      "iqtisod",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-10-07T16:12:18.000Z",
+    "created": "2026-10-07T18:37:57.918Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/10/07/how-wealthy-baby-boomers-140-trillion-55-and-older-bank-of-america",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "5f65c4d68146",
+    "slug": "ai-11-ta-kvadratni-optimal-joylashtirish-isbotiga-yordam-ber-5f65c4",
+    "title": "AI 11 ta kvadratni optimal joylashtirish isbotiga yordam berdi",
+    "summary": "Sun'iy intellekt 11 ta kvadratni optimal joylashtirish bo‘yicha isbotni topishga yordam berdi. Bu AI ning matematik muammolarni hal qilishdagi imkoniyatlarini ko‘rsatadi.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 18.2,
+    "published": "2026-10-07T14:10:55.000Z",
+    "created": "2026-10-07T18:37:57.918Z",
+    "coverage": 1,
+    "source": {
+      "name": "Hacker News",
+      "url": "https://github.com/Queuingtheorydotcom/11SquaresFormalized",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "2a686ddce4ea",
+    "slug": "microsoft-windows-qidiruvini-chatbotga-aylantirmoqda-2a686d",
+    "title": "Microsoft Windows qidiruvini chatbotga aylantirmoqda",
+    "summary": "Microsoft Windows qidiruv funksiyasini chatbotga aylantirib, uni yaxshilashi mumkin. Copilot qidiruvining yangi dizayni shu kuzda taqdim etilishi kutilmoqda.",
+    "tags": [
+      "Microsoft",
+      "agentlar"
+    ],
+    "importance": 3,
+    "score": 18,
+    "published": "2026-10-07T17:47:14.000Z",
+    "created": "2026-10-07T18:37:57.918Z",
+    "coverage": 1,
+    "source": {
+      "name": "Engadget",
+      "url": "https://engadget.com/2280310/microsoft-may-have-finally-fixed-windows-search-by-turning-it-into-a-chatbot",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "7b37193e1f4b",
+    "slug": "dasturiy-taminot-blogida-yozish-bo-yicha-tavsiyalar-berildi-7b3719",
+    "title": "Dasturiy ta'minot blogida yozish bo‘yicha tavsiyalar berildi",
+    "summary": "Maykl Linch dasturiy ta'minot blogida yozish bo‘yicha tavsiyalar berdi. U kirish qismini cho‘zmaslik, o‘quvchining bilimini to‘g‘ri baholash va ortiqcha rasmiyatchilikdan qochishni maslahat berdi.",
+    "tags": [
+      "ta'lim"
+    ],
+    "importance": 1,
+    "score": 15,
+    "published": "2026-10-07T14:53:51.000Z",
+    "created": "2026-10-07T18:37:57.918Z",
+    "coverage": 1,
+    "source": {
+      "name": "Simon Willison",
+      "url": "https://simonwillison.net/2026/Oct/7/anti-patterns-in-software-blogging",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "0c22c0152fd9",
+    "slug": "ai-agentini-noldan-yozishning-murakkabliklari-muhokama-qilin-0c22c0",
+    "title": "AI agentini noldan yozishning murakkabliklari muhokama qilindi",
+    "summary": "Habr nashrida AI agentini noldan yozishning murakkabliklari va uning ichki tuzilishi tahlil qilindi. Maqolada agent tizimining qismlari va har birining alohida loyihaga aylanish sabablari ko‘rsatilgan.",
+    "tags": [
+      "tadqiqot",
+      "agentlar"
+    ],
+    "importance": 2,
+    "score": 14,
+    "published": "2026-10-07T13:16:59.000Z",
+    "created": "2026-10-07T18:37:57.918Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1091582",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "ad4e14640e35",
     "slug": "openai-o-smirlar-uchun-chatgptga-yangi-funksiyalar-qo-shdi-ad4e14",
     "title": "OpenAI o‘smirlar uchun ChatGPT’ga yangi funksiyalar qo‘shdi",
