@@ -1,5 +1,186 @@
 [
   {
+    "id": "54fd71d13cc6",
+    "slug": "aws-narxlash-jamoasi-excel-modelini-ai-chatbotga-aylantirdi-54fd71",
+    "title": "AWS narxlash jamoasi Excel modelini AI chatbotga aylantirdi",
+    "summary": "Amazon Web Services (AWS) narxlash jamoasi 18 tabli Excel modelini mijozlar bitimlarini baholash uchun AI chatbotiga aylantirdi. AWS moliya direktori AI qiymati samaradorlikdan oshib, ishni qayta ko'rib chiqishga yordam berishini ta'kidladi.",
+    "tags": [
+      "Amazon",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 25,
+    "published": "2026-10-08T12:33:29.000Z",
+    "created": "2026-10-08T13:03:22.365Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/10/08/aws-pricing-team-18-tab-excel-model-into-ai-chatbot-evaluate-customer-deals-cfo",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "f284485ad4de",
+    "slug": "ai-gigantlari-shaxsiy-malumotlar-boyicha-ozgarishlarga-rozi--f28448",
+    "title": "AI gigantlari shaxsiy ma'lumotlar bo'yicha o'zgarishlarga rozi bo'ldi",
+    "summary": "Amazon, Google, Microsoft, OpenAI va yana oltita kompaniya Buyuk Britaniya nazorat organining tekshiruvidan so'ng shaxsiy ma'lumotlar bilan ishlashda o'zgarishlarga rozi bo'ldi. Biroq, ICO hali ham savollar berishda davom etmoqda.",
+    "tags": [
+      "maxfiylik",
+      "qonun"
+    ],
+    "importance": 4,
+    "score": 22,
+    "published": "2026-10-08T12:35:00.000Z",
+    "created": "2026-10-08T13:03:22.366Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/ai-and-ml/2026/10/08/ai-giants-promise-to-play-nice-with-personal-data-after-uk-watchdog-scrutiny/5301966",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "99da36cb9442",
+    "slug": "yaponiya-va-janubiy-koreya-kompaniyalari-kiberhujumlarga-uch-99da36",
+    "title": "Yaponiya va Janubiy Koreya kompaniyalari kiberhujumlarga uchradi",
+    "summary": "Yaponiya va Janubiy Koreyadagi kompaniyalar yirik kiberhujumlarga duch keldi. Bu hujumlar sun'iy intellekt xakerlik urinishlarini kuchaytirishi mumkinligi haqidagi xavotirlarni kuchaytirdi.",
+    "tags": [
+      "xavfsizlik",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-10-08T11:10:53.000Z",
+    "created": "2026-10-08T13:03:22.366Z",
+    "coverage": 1,
+    "source": {
+      "name": "Semafor",
+      "url": "https://semafor.com/article/10/08/2026/companies-in-japan-south-korea-hit-by-major-cyberattacks",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "aad8c8b6a313",
+    "slug": "24-yoshli-muhandis-malumot-markazlarida-muvaffaqiyat-qozondi-aad8c8",
+    "title": "24 yoshli muhandis ma'lumot markazlarida muvaffaqiyat qozondi",
+    "summary": "24 yoshli muhandis falsafa sohasidan ma'lumot markazlari qurilishidagi daromadli karyeraga o'tdi. U jamoat kollejlari hamkorligidan foydalanib, kutilganidan tezroq martaba pog'onasidan ko'tarildi.",
+    "tags": [
+      "mehnat bozori",
+      "biznes"
+    ],
+    "importance": 1,
+    "score": 15,
+    "published": "2026-10-08T09:17:01.000Z",
+    "created": "2026-10-08T13:03:22.366Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/data-center-constructoin-work-six-figure-job-daily-tasks-2026-10",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "841474dd58de",
+    "slug": "anthropic-muvaffaqiyati-siri-dastlabki-investorga-kora-841474",
+    "title": "Anthropic muvaffaqiyati siri dastlabki investorga ko'ra",
+    "summary": "Dastlabki investorning so'zlariga ko'ra, Anthropic kompaniyasining muvaffaqiyat siri oshkor etildi. Bu haqda Business Insider xabar berdi.",
+    "tags": [
+      "Anthropic",
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-10-08T03:20:11.000Z",
+    "created": "2026-10-08T13:03:22.366Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOODROWkotNzZPQWtFWVluSEhvVW1LRkgtb05lWmR2MzRnSURsQ3dDTHRXWDFfVl94Z05kYzRsanhFX3I1QTAtWFVNMVNFbTkzc2QyOEN6RFJ0cEI4QnJKWi1pcmhPMFdOWXZHNUF0cTRPTl9TSkstcmVuQ1RneDQ2QkQ4T2xTNHNHRUpPcDltZkdmMUpaZlkxdDJYQ0VpdDJsbVUw",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "191ab166abf7",
+    "slug": "aqshda-oxirgi-kashtan-boglaridan-biri-malumot-markazi-uchun--191ab1",
+    "title": "AQShda oxirgi kashtan bog'laridan biri ma'lumot markazi uchun buziladi",
+    "summary": "Amerikadagi oxirgi kashtan bog'laridan biri ma'lumot markazi qurilishi uchun buzilishi kutilmoqda. Bu haqda Hacker News xabar berdi.",
+    "tags": [
+      "biznes",
+      "siyosat"
+    ],
+    "importance": 2,
+    "score": 14.6,
+    "published": "2026-10-07T19:53:40.000Z",
+    "created": "2026-10-08T13:03:22.366Z",
+    "coverage": 1,
+    "source": {
+      "name": "Hacker News",
+      "url": "https://gadgetreview.com/one-of-americas-last-chestnut-groves-is-about-to-be-destroyed-for-a-data-center",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "e0a455365afc",
+    "slug": "ikki-texnologiya-gigantining-ai-detektorlari-bir-birini-korm-e0a455",
+    "title": "Ikki texnologiya gigantining AI detektorlari bir-birini ko'rmaydi",
+    "summary": "Ikki texnologiya giganti tomonidan yaratilgan sun'iy intellekt detektorlari bir-birini aniqlay olmaydi. Bu holat AI tomonidan yaratilgan kontentni aniqlashda muammolarni ko'rsatadi.",
+    "tags": [
+      "tadqiqot",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 13,
+    "published": "2026-10-08T09:22:21.000Z",
+    "created": "2026-10-08T13:03:22.366Z",
+    "coverage": 2,
+    "source": {
+      "name": "Cybernews",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQ3l1NFNITGxYWjMwTHowT3pQOGh6Nl9XZnhGa3UxUWNyMWVTd2szWEUwem1La2NvTkttRnc5aTNPT096bjg3SDZTSllod3Q5bWlTQjdvTDQzM0d1N282U3pXckxhdDFLSTg1ZGxUREJ3VjI4TVZ6X3c1YWRwN0ZNUw",
+      "indirect": true
+    },
+    "also": [
+      {
+        "name": "Cybernews",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBPRmZHLWdJbDVlSjBHMFhlZFl6WHdEeUlGX0U4amJmMEpvM0tzQW5wVnFxT2ZjMUlCVVVraDZTaXpMeHl1WjRlcXJONnVtbEIzbDdVTHVwT29YOHpwYUhQdjFWQTZKS29vZkVWb29FOTI1bllJZlE"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "28ee03a346ff",
+    "slug": "suniy-intellektning-navbatdagi-chegarasi-inson-hujayrasi-28ee03",
+    "title": "Sun'iy intellektning navbatdagi chegarasi — inson hujayrasi",
+    "summary": "The Rundown AI nashrining xabar berishicha, sun'iy intellektning navbatdagi rivojlanish sohasi inson hujayrasi bo'ladi. Bu AI tibbiyot va biologiyada yangi imkoniyatlar ochishini anglatadi.",
+    "tags": [
+      "tibbiyot",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 7,
+    "published": "2026-10-08T12:05:43.000Z",
+    "created": "2026-10-08T13:03:22.366Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Rundown AI",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE41R1ZFX1ppNVpnNFNXVE84bzNma0FrMjFrVktBY3oyQTMwWGN2NjJXeUxiNU9Db05BY1FTRnJlTzBaTWt0eUJKQktoUF9uOElCY2pQTm1vZDFPZkdpYUdjNnh2MkJIUXpnWWtteXdqS2FrbmtGeXNZVU84SQ",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "7b205e40bc63",
     "slug": "fuzozo-jismoniy-shakldagi-ai-hamrohi-7b205e",
     "title": "Fuzozo: jismoniy shakldagi AI hamrohi",
