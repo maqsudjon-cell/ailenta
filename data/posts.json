@@ -1,5 +1,97 @@
 [
   {
+    "id": "68d8fdf82dfa",
+    "slug": "startup-garage-demo-dayda-235-000-dollar-ajratildi-68d8fd",
+    "title": "Startup Garage Demo Dayda 235 000 dollar ajratildi",
+    "summary": "School 21 markazida Startup Garage akseleratorining uchinchi mavsum finali bo‘lib o‘tdi. Unda 10 ta startap o‘z loyihalarini investorlarga taqdim etdi va jami 235 000 dollar miqdorida investitsiya majburiyatini oldi.",
+    "tags": [
+      "O'zbekiston",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 48,
+    "published": "2026-10-08T17:43:20.000Z",
+    "created": "2026-10-08T19:02:23.350Z",
+    "coverage": 1,
+    "source": {
+      "name": "Pivot",
+      "url": "https://pivot.uz/uz/startup-garage-grand-demo-day-235000-soft-commitment-berildi",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "b5b44cfbdf4f",
+    "slug": "tsmc-va-globalfoundries-2-milliard-dollarlik-kelishuv-tuzdi-b5b44c",
+    "title": "TSMC va GlobalFoundries 2 milliard dollarlik kelishuv tuzdi",
+    "summary": "TSMC kompaniyasi AQShda AI ma'lumotlar markazlari uchun yarimo'tkazgichlar ishlab chiqarishni kuchaytirish maqsadida GlobalFoundries bilan hamkorlik qiladi. Kelishuv doirasida GlobalFoundries TSMC uchun AI chiplarining muhim qismlarini ishlab chiqaradi.",
+    "tags": [
+      "chiplar",
+      "biznes"
+    ],
+    "importance": 4,
+    "score": 25,
+    "published": "2026-10-08T17:22:32.000Z",
+    "created": "2026-10-08T19:02:23.350Z",
+    "coverage": 2,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/systems/2026/10/08/tsmc-taps-globalfoundries-to-bolster-us-silicon-interposer-production-in-2b-deal/5302061",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "AOL.com",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQT0luNElIbFoxaWpFUktieEhBUUlzOTNTTTBpWlNUdFk2RWczbk1nVGVPOGd5TGZpR3hJZTJ3YlZiS1FTWjNBelRPTFdJTDlOVTFuTjN5XzVLWG9HTnh6eVdvNHkwT1dmNXhvWmFzU0UxRng2Rm9GeDg4Rm9JY2RGbVF0RUZVQ191"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "d5dc204181b2",
+    "slug": "shai-hulud-virusi-ai-infratuzilmasiga-hujum-qildi-d5dc20",
+    "title": "Shai-Hulud virusi AI infratuzilmasiga hujum qildi",
+    "summary": "Tensorlake tizimining buzilishi ortidan Shai-Hulud zararli dasturi AI infratuzilmasiga kirib oldi. Ma'lumotlarni o'g'irlovchi ushbu virus npm nashr etilganidan bir necha daqiqa o'tib aniqlangan, biroq uning yetkazgan zarari hozircha noma'lum.",
+    "tags": [
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-10-08T16:54:48.000Z",
+    "created": "2026-10-08T19:02:23.350Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/security/2026/10/08/shai-hulud-worm-makes-jump-to-ai-infrastructure-with-tensorlake-compromise/5302054",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "1e4802f6f628",
+    "slug": "anthropic-eng-kichik-ai-modeli-narxini-90-foizga-tushiradi-1e4802",
+    "title": "Anthropic eng kichik AI modeli narxini 90 foizga tushiradi",
+    "summary": "Anthropic kompaniyasi o'zining eng kichik sun'iy intellekt modeli uchun narxlarni 90 foizgacha arzonlashtirmoqda. Bu haqda Quartz nashri xabar berdi.",
+    "tags": [
+      "Anthropic",
+      "biznes"
+    ],
+    "importance": 4,
+    "score": 13,
+    "published": "2026-10-08T18:44:41.000Z",
+    "created": "2026-10-08T19:02:23.351Z",
+    "coverage": 1,
+    "source": {
+      "name": "Quartz",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBxNEdDdXdNZFZiSlZPUUdPRXNtNEVmczRVQzc5NkdQU2h6dW5hLUFLelEwcDVvYlBIdGM5bFlDMUwtdTRxdDQyaEVrWXVOLUpFdklNSjJIWXBMSEpMcE9IbXlROG90bGto",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "a0839e233470",
     "slug": "apple-normalizing-trajectory-models-tadqiqotini-taqdim-etdi-a0839e",
     "title": "Apple Normalizing Trajectory Models tadqiqotini taqdim etdi",
