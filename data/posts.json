@@ -1,5 +1,49 @@
 [
   {
+    "id": "1f74aad911d3",
+    "slug": "google-boti-shoshilinch-tibbiy-yordamda-asqotishi-mumkin-1f74aa",
+    "title": "Google boti shoshilinch tibbiy yordamda asqotishi mumkin",
+    "summary": "Klinik sinovlar davomida 100 ga yaqin bemor shifokorlar qabuliga kirishdan oldin Google kompaniyasining AMIE boti bilan o‘z kasalliklarini muhokama qildi. Tadqiqotlar AI chatbotlari shoshilinch tibbiy yordam ko‘rsatishda foydali bo‘lishini ko‘rsatmoqda.",
+    "tags": [
+      "Google",
+      "tibbiyot"
+    ],
+    "importance": 4,
+    "score": 27,
+    "published": "2026-10-08T22:48:06.000Z",
+    "created": "2026-10-08T23:01:37.578Z",
+    "coverage": 1,
+    "source": {
+      "name": "The New York Times",
+      "url": "https://nytimes.com/2026/10/08/technology/ai-chatbots-urgent-care.html",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "e6cc4d1bbf96",
+    "slug": "ai-savdosi-global-tovar-ayirboshlashni-tiklaydi-e6cc4d",
+    "title": "AI savdosi global tovar ayirboshlashni tiklaydi",
+    "summary": "Jahon savdo tashkiloti payshanba kuni joriy yilda global tovar savdosi 3,9 foizga o‘sishini ma’lum qildi. Yaqin Sharqdagi mojarolar keltirib chiqargan uzilishlar AI savdosining jadal rivojlanishi hisobiga qoplanadi.",
+    "tags": [
+      "iqtisod",
+      "siyosat"
+    ],
+    "importance": 4,
+    "score": 19,
+    "published": "2026-10-08T22:42:22.000Z",
+    "created": "2026-10-08T23:01:37.579Z",
+    "coverage": 1,
+    "source": {
+      "name": "Semafor",
+      "url": "https://semafor.com/article/10/08/2026/growth-in-ai-exports-to-offset-conflict-disruptions-wto-says",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "7c1df4599012",
     "slug": "mark-cuban-ai-emas-sog-liqni-saqlash-xarajatlarini-aybladi-7c1df4",
     "title": "Mark Cuban AI emas, sog‘liqni saqlash xarajatlarini aybladi",
