@@ -1,5 +1,49 @@
 [
   {
+    "id": "8588cf61af9f",
+    "slug": "meta-muse-orqali-kiberhujumlar-boshlandi-8588cf",
+    "title": "Meta Muse orqali kiberhujumlar boshlandi",
+    "summary": "Firibgarlar foydalanuvchilarning ma'lumotlarini o'g'irlash uchun soxta Meta Muse reklamalaridan foydalanmoqda. Ushbu hujumlar Meta kompaniyasi o'zining AI agentini ishga tushirganidan bir necha kun o'tib boshlandi.",
+    "tags": [
+      "Meta",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 21.2,
+    "published": "2026-10-07T19:33:00.000Z",
+    "created": "2026-10-08T09:36:31.239Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/research/2026/10/07/browser-in-browser-attacks-use-fake-meta-muse-ad-lure-to-steal-credentials/5301505",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "207d18085bc1",
+    "slug": "goldman-sachs-ai-rivojiga-qaramay-xodimlar-yolladi-207d18",
+    "title": "Goldman Sachs AI rivojiga qaramay xodimlar yolladi",
+    "summary": "Goldman Sachs kompaniyasi o'z tarixidagi eng ko'p shaxsiy boylik bo'yicha maslahatchilarni ishga qabul qildi. AI mijozlar portfelini modellashtira olsa-da, kompaniya maslahatchilar xizmatidan voz kechmoqchi emas.",
+    "tags": [
+      "biznes",
+      "mehnat bozori"
+    ],
+    "importance": 3,
+    "score": 18,
+    "published": "2026-10-08T09:23:01.000Z",
+    "created": "2026-10-08T09:36:31.240Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/goldman-sachs-private-wealth-advisor-training-ai-2026-10",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "b0518193323e",
     "slug": "o-zbekiston-va-baa-investitsiya-loyihalarini-muhokama-qildi-b05181",
     "title": "O‘zbekiston va BAA investitsiya loyihalarini muhokama qildi",
