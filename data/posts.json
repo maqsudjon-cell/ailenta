@@ -1,5 +1,160 @@
 [
   {
+    "id": "c6e6e5935d79",
+    "slug": "farg-onalik-dasturchi-asocio-mukofotini-oldi-c6e6e5",
+    "title": "Farg‘onalik dasturchi ASOCIO mukofotini oldi",
+    "summary": "Farg‘onalik dasturchi Muhammadkodir Abduvoitovning Braille Recognition startapi ASOCIO Digital & AI Awards 2026 mukofotiga sazovor bo‘ldi. Bu haqda UzDaily xabar bermoqda.",
+    "tags": [
+      "O'zbekiston"
+    ],
+    "importance": 3,
+    "score": 44,
+    "published": "2026-10-08T14:15:00.000Z",
+    "created": "2026-10-08T15:04:40.268Z",
+    "coverage": 1,
+    "source": {
+      "name": "UzDaily",
+      "url": "https://uzdaily.uz/uz/fargonalik-dasturchi-asocio-digital-ai-awards-mukofotini-qolga-kiritdi",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "62fdecba8c1b",
+    "slug": "amerikaliklar-ai-juda-tez-rivojlanyapti-deb-hisoblaydi-62fdec",
+    "title": "Amerikaliklar AI juda tez rivojlanyapti deb hisoblaydi",
+    "summary": "AP-NORC so‘rovnomasiga ko‘ra, amerikaliklarning 64 foizi sun'iy intellekt juda tez rivojlanayotganini ta'kidlagan. Shuningdek, o‘n kishidan sakkiz nafari hukumat ushbu texnologiyani inson nazoratida ushlab turishini xohlaydi.",
+    "tags": [
+      "siyosat",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 25,
+    "published": "2026-10-08T13:38:41.000Z",
+    "created": "2026-10-08T15:04:40.268Z",
+    "coverage": 2,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/10/08/americans-ai-developing-too-fast-poll",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "CoastTV",
+        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNOHdkMDZubW5INmpURmd2Q1NUR0FVdEh4SWJORUJRaHlfMU51d0xLcVVwek1ieTRyMTc5VDY0OElTenVOTm1aWm5JZWFOUE9JOFcwX0Z2cU9TakExMWg5MmZsVnBYVVJMMnFpR2p1RVNfcGVNT2ZGN3lkX2xwYXFVVHhpZ29McGcyeElVMzhkUkpLSEp4MG1UNTl2VnU1NFloTjNQYlBkYXRRRk8xMmlqN241am1xZDN6VXE3WFNhVnJIZG51eVRqakpFSU1jZTlUamh5T2RMd2xwM1hHWk9icHVqOU1pT0RPODhQUjBENXBPYUFwd0ZFcGRfakgzR3pSMUllUmd0elUtUkVE"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "3f7cd588a09c",
+    "slug": "amirlik-lahjasida-so-zlashuvchi-ai-modeli-taqdim-etildi-3f7cd5",
+    "title": "Amirlik lahjasida so‘zlashuvchi AI modeli taqdim etildi",
+    "summary": "Abu-Dabining Texnologik innovatsiyalar instituti amirlik lahjasida o‘qitilgan nutqni aniqlash modelini taqdim etdi. 1,6 milliard parametrli ushbu model 30 milliard parametrli modeldan aniqroq ishlashi ma'lum qilindi.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 22,
+    "published": "2026-10-08T13:06:14.000Z",
+    "created": "2026-10-08T15:04:40.268Z",
+    "coverage": 1,
+    "source": {
+      "name": "Semafor",
+      "url": "https://semafor.com/article/10/08/2026/emirati-dialect-trained-ai-models-are-released-by-abu-dhabis-technology-innovation-institute",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "fb1e407f7e73",
+    "slug": "aqsh-atom-elektr-stansiyalarida-ai-qo-llanila-boshladi-fb1e40",
+    "title": "AQSh atom elektr stansiyalarida AI qo‘llanila boshladi",
+    "summary": "AQShdagi atom elektr stansiyalari sun'iy intellekt texnologiyalarini joriy etishni boshladi. Bir qator kompaniyalar yadroviy reaktorlarni boshqarish va operatsion murakkabliklarni hal qilish uchun AI yechimlarini taklif qilmoqda.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-10-08T14:28:17.000Z",
+    "created": "2026-10-08T15:04:40.268Z",
+    "coverage": 1,
+    "source": {
+      "name": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/ai-assistants-nuclear-power-plant",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "724f7ef3ebe4",
+    "slug": "19-yoshli-dasturchi-ai-startapiga-investitsiya-oldi-724f7e",
+    "title": "19 yoshli dasturchi AI startapiga investitsiya oldi",
+    "summary": "Cal AI ilovasi hammuassisi, 19 yoshli Zak Yadegari shaxsiy AI agentlari startapi uchun 10 million dollar investitsiya jalb qildi. Yangi loyiha Instinct, Muse va Bee kabi platformalar bilan raqobatlashadi.",
+    "tags": [
+      "agentlar",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 18,
+    "published": "2026-10-08T14:00:00.000Z",
+    "created": "2026-10-08T15:04:40.268Z",
+    "coverage": 1,
+    "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/08/cal-ais-19-year-old-founder-just-raised-10m-for-his-new-ai-startup",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "946f48bfb975",
+    "slug": "yevropada-ai-startaplari-tufayli-venchur-moliyalashtirish-o--946f48",
+    "title": "Yevropada AI startaplari tufayli venchur moliyalashtirish o‘sdi",
+    "summary": "Uchinchi chorakda Yevropada venchur moliyalashtirish o‘tgan yilga nisbatan 77 foizga o‘sib, 25 milliard dollarni tashkil etdi. Ushbu o‘sishga asosan sun'iy intellekt startaplari sabab bo‘lgan.",
+    "tags": [
+      "iqtisod",
+      "biznes"
+    ],
+    "importance": 4,
+    "score": 15,
+    "published": "2026-10-08T13:55:01.000Z",
+    "created": "2026-10-08T15:04:40.268Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/261008/p28",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "da76eaed3f36",
+    "slug": "ai-yutuqlari-kripto-hamyonlar-xavfsizligiga-tahdid-solishi-m-da76ea",
+    "title": "AI yutuqlari kripto hamyonlar xavfsizligiga tahdid solishi mumkin",
+    "summary": "Ethereum tadqiqotchilari sun'iy intellektning matematikadagi yutuqlari kripto hamyonlar xavfsizligini buzishi mumkinligini muhokama qilmoqda. Mutaxassislar ushbu xavfga qarshi tayyorgarlik ko‘rishga chaqirmoqda.",
+    "tags": [
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-10-08T13:52:54.000Z",
+    "created": "2026-10-08T15:04:40.268Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/ai-math-breakthroughs-have-ethereum-researchers-debating-how-fast-wallet-security-could-collapse",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "54fd71d13cc6",
     "slug": "aws-narxlash-jamoasi-excel-modelini-ai-chatbotga-aylantirdi-54fd71",
     "title": "AWS narxlash jamoasi Excel modelini AI chatbotga aylantirdi",
