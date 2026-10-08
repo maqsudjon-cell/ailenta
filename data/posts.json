@@ -1,5 +1,49 @@
 [
   {
+    "id": "35be1f379334",
+    "slug": "surface-rtx-spark-dev-box-qurilmasi-sotuvga-chiqdi-35be1f",
+    "title": "Surface RTX Spark Dev Box qurilmasi sotuvga chiqdi",
+    "summary": "Microsoft kompaniyasi Nvidia chiplari bilan ishlaydigan Surface RTX Spark Dev Box qurilmasiga oldindan buyurtma olishni boshladi. Narxi qariyb 6000 dollar bo‘lgan ushbu dasturchilar uchun mo‘ljallangan kompyuter noyabr oyida yetkazib beriladi.",
+    "tags": [
+      "Microsoft",
+      "Nvidia"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-10-07T17:46:44.000Z",
+    "created": "2026-10-08T05:01:38.536Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Verge",
+      "url": "https://theverge.com/tech/1006915/microsoft-surface-rtx-spark-dev-box-preorder",
+      "title": "Surface RTX Spark Dev Box is available for preorder for $5,999",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "739459dfb824",
+    "slug": "janubiy-koreya-banklari-ai-orqali-buzilgani-malum-qilindi-739459",
+    "title": "Janubiy Koreya banklari AI orqali buzilgani ma'lum qilindi",
+    "summary": "CrowdStrike kiberxavfsizlik kompaniyasi Janubiy Koreya banklariga qilingan hujumlarda Xitoyda joylashgan gumondor AI vositalaridan foydalanganini ma’lum qildi. Bu haqda Reuters xabar bermoqda.",
+    "tags": [
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 27,
+    "published": "2026-10-08T00:04:00.000Z",
+    "created": "2026-10-08T05:07:02.317Z",
+    "coverage": 1,
+    "source": {
+      "name": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQODBzZUo1QkNGeDEyT2Q4QU5RYm1ybFpLMVdhc1E0OUtSTC15cGZuemU4Q0JsaE1lUXp0VU05WTl6bHRVUDhLNkFaOXI3TnhIcGJ0R1I1cWdnbEhNYUVvOVZvVzJLREpEMHd3VWUxQUZiLWlwUlFmNmdUbEpQNFkyaWdpTEJzVzNJNlVUYWl3ZjF4eTRha254Rm9xem9Kck15eWpWQlBIUU5hRlRIekJ6RkdvV00yV1lNZXc",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "a42519885a65",
     "slug": "singapur-banki-ai-loyihalarini-tekshirishni-talab-qildi-a42519",
     "title": "Singapur banki AI loyihalarini tekshirishni talab qildi",
