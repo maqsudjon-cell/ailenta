@@ -1,5 +1,93 @@
 [
   {
+    "id": "a63ccea5b537",
+    "slug": "gumanoid-robotlarda-ai-rivojlanishi-sekinlashmoqda-a63cce",
+    "title": "Gumanoid robotlarda AI rivojlanishi sekinlashmoqda",
+    "summary": "MIT Technology Review xabariga ko‘ra, gumanoid robotlar atrofidagi shov-shuvlarga qaramay, ulardagi AI yutuqlari yaqin orada hayotni o‘zgartirmaydi. Robototexnikadagi AI hali ham jiddiy to‘siqlarga duch kelmoqda.",
+    "tags": [
+      "robototexnika",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 26,
+    "published": "2026-10-08T12:10:00.000Z",
+    "created": "2026-10-08T21:37:10.953Z",
+    "coverage": 1,
+    "source": {
+      "name": "MIT Technology Review",
+      "url": "https://technologyreview.com/2026/10/08/1146045/the-download-ai-roadblocks-humanoids-portable-rubber-dams",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "dca3a68226e7",
+    "slug": "gremlin-ai-yordamida-tizimlarni-tezroq-buzmoqda-dca3a6",
+    "title": "Gremlin AI yordamida tizimlarni tezroq buzmoqda",
+    "summary": "The Register xabariga ko‘ra, Gremlin kompaniyasi taqsimlangan tizimlarni tezroq buzish uchun sun'iy intellektdan foydalanmoqda. Bu AI ning nosozliklarni aniqlashdagi samaradorligini ko‘rsatadi.",
+    "tags": [
+      "xavfsizlik",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-10-08T17:09:17.000Z",
+    "created": "2026-10-08T21:37:10.954Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/on-prem/2026/10/08/gremlin-now-uses-ai-to-break-distributed-systems-faster/5302051",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "e1475b62e027",
+    "slug": "kaliforniya-robot-va-inson-janglarini-to-xtatmoqda-e1475b",
+    "title": "Kaliforniya robot va inson janglarini to‘xtatmoqda",
+    "summary": "Kaliforniya shtati atletika komissiyasi o‘tgan oy inson va robot o‘rtasida jang o‘tkazgan startapga faoliyatni to‘xtatish haqida xat yubordi. Bu The New York Times tomonidan xabar qilingan.",
+    "tags": [
+      "robototexnika",
+      "qonun"
+    ],
+    "importance": 3,
+    "score": 18,
+    "published": "2026-10-08T20:06:56.000Z",
+    "created": "2026-10-08T21:37:10.954Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Verge",
+      "url": "https://theverge.com/tech/1008401/california-shut-down-rek-fighting-robot-company-human",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "609b458fa840",
+    "slug": "firmus-iponi-qoldirib-xususiy-moliyalashtirishni-ko-rib-chiq-609b45",
+    "title": "Firmus IPO'ni qoldirib, xususiy moliyalashtirishni ko‘rib chiqmoqda",
+    "summary": "Bloomberg xabariga ko‘ra, Firmus Grid Ltd. kompaniyasi IPO'ni keyinga qoldirishga qaror qildi. Ba'zi investorlar narxlash strategiyasini agressiv deb hisoblagani uchun, kompaniya xususiy moliyalashtirish raundini o‘tkazishni o‘ylamoqda.",
+    "tags": [
+      "biznes",
+      "iqtisod"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-10-08T18:01:12.000Z",
+    "created": "2026-10-08T21:37:10.954Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/261008/p40",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "dc392c2fc2c0",
     "slug": "meta-yangi-ai-logotipi-dizayneri-tanqidga-uchradi-dc392c",
     "title": "Meta yangi AI logotipi dizayneri tanqidga uchradi",

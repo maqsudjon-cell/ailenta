@@ -5,7 +5,7 @@
   <link>https://ailenta.uz/mavzu/tadqiqot/</link>
   <description>&quot;tadqiqot&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Thu, 08 Oct 2026 21:07:13 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 08 Oct 2026 21:43:25 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/tadqiqot/rss.xml" rel="self" type="application/rss+xml"/>
   <item>
     <title>Margaret Hamilton vafot etdi</title>
@@ -46,6 +46,16 @@
     <category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/amirlik-lahjasida-so-zlashuvchi-ai-modeli-taqdim-etildi-3f7cd5.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/amirlik-lahjasida-so-zlashuvchi-ai-modeli-taqdim-etildi-3f7cd5.jpg"/>
+  </item>
+  <item>
+    <title>Gumanoid robotlarda AI rivojlanishi sekinlashmoqda</title>
+    <link>https://ailenta.uz/x/gumanoid-robotlarda-ai-rivojlanishi-sekinlashmoqda-a63cce/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/gumanoid-robotlarda-ai-rivojlanishi-sekinlashmoqda-a63cce/</guid>
+    <pubDate>Thu, 08 Oct 2026 12:10:00 GMT</pubDate>
+    <description>MIT Technology Review xabariga ko‘ra, gumanoid robotlar atrofidagi shov-shuvlarga qaramay, ulardagi AI yutuqlari yaqin orada hayotni o‘zgartirmaydi. Robototexnikadagi AI hali ham jiddiy to‘siqlarga duch kelmoqda.</description>
+    <category>robototexnika</category><category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/gumanoid-robotlarda-ai-rivojlanishi-sekinlashmoqda-a63cce.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/gumanoid-robotlarda-ai-rivojlanishi-sekinlashmoqda-a63cce.jpg"/>
   </item>
   <item>
     <title>Sun'iy intellektning navbatdagi chegarasi — inson hujayrasi</title>
@@ -296,16 +306,6 @@
     <category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/barnette-gipotezasi-yechildi-tadqiqotchi-xafa-194d4d.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/barnette-gipotezasi-yechildi-tadqiqotchi-xafa-194d4d.jpg"/>
-  </item>
-  <item>
-    <title>Ikki AI bir-biriga qarshi kod yaratishda ishlatildi</title>
-    <link>https://ailenta.uz/x/ikki-ai-bir-biriga-qarshi-kod-yaratishda-ishlatildi-6c1118/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/ikki-ai-bir-biriga-qarshi-kod-yaratishda-ishlatildi-6c1118/</guid>
-    <pubDate>Wed, 07 Oct 2026 04:04:05 GMT</pubDate>
-    <description>Bir muallif ikkita AI, Claude va Codex'ni bir-biriga qarshi qo'yib kod yaratish usulini sinovdan o'tkazdi. AI'lar raqobatlashib, bir-birining xatolarini tuzatib, kod yozgan.</description>
-    <category>tadqiqot</category><category>agentlar</category>
-    <media:content url="https://ailenta.uz/og/ikki-ai-bir-biriga-qarshi-kod-yaratishda-ishlatildi-6c1118.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/ikki-ai-bir-biriga-qarshi-kod-yaratishda-ishlatildi-6c1118.jpg"/>
   </item>
 </channel>
 </rss>
