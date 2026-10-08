@@ -1,17 +1,60 @@
 [
   {
-    "id": "9958679ff6ea",
-    "slug": "finlandiyada-malumotlar-markazlariga-investitsiya-kopaydi-995867",
-    "title": "Finlandiyada ma'lumotlar markazlariga investitsiya ko'paydi",
-    "summary": "Finlandiyada sun'iy intellektga bo'lgan talab tufayli ma'lumotlar markazlariga rejalashtirilgan va faol investitsiyalar hajmi 67 milliard yevrodan oshdi. Bunga mamlakatdagi salqin iqlim va qayta tiklanadigan energiya manbalari sabab bo'lmoqda.",
+    "id": "c7f4b559a8fb",
+    "slug": "robototexnikadagi-ai-yutuqlari-hayotni-tezda-ozgartirmaydi-c7f4b5",
+    "title": "Robototexnikadagi AI yutuqlari hayotni tezda o'zgartirmaydi",
+    "summary": "MIT Technology Review va Aventine hamkorligidagi maqolaga ko'ra, robototexnika sohasidagi sun'iy intellekt yutuqlari yaqin orada insonlar hayotini o'zgartirmaydi. Gumanoid robotlar videolarda tez-tez ko'rinayotgan bo'lsa-da, ularning kundalik hayotga kirib kelishi tez fursatda yuz bermaydi.",
     "tags": [
-      "bulut",
-      "iqtisod"
+      "robototexnika",
+      "tadqiqot"
     ],
     "importance": 3,
+    "score": 26,
+    "published": "2026-10-08T09:00:00.000Z",
+    "created": "2026-10-08T11:03:45.512Z",
+    "coverage": 1,
+    "source": {
+      "name": "MIT Technology Review",
+      "url": "https://technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "f02d589e277d",
+    "slug": "kollejlarda-ai-nazoratini-toxtatish-tavsiya-etildi-f02d58",
+    "title": "Kollejlarda AI nazoratini to'xtatish tavsiya etildi",
+    "summary": "Fortune nashrining yozishicha, oliy ta'lim muassasalari talabalarning sun'iy intellektdan foydalanishini nazorat qilishni to'xtatishi lozim. Buning o'rniga, talabalarning o'z fikr va mulohazalarini qanchalik himoya qila olishini sinovdan o'tkazish tavsiya etiladi.",
+    "tags": [
+      "ta'lim"
+    ],
+    "importance": 3,
+    "score": 22,
+    "published": "2026-10-08T09:00:00.000Z",
+    "created": "2026-10-08T11:03:45.512Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/10/08/is-college-worth-it-higher-education",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "9958679ff6ea",
+    "slug": "finlandiyada-malumot-markazlariga-sarmoya-osdi-995867",
+    "title": "Finlandiyada ma'lumot markazlariga sarmoya o'sdi",
+    "summary": "Bloomberg tahliliga ko'ra, Finlandiyada rejalashtirilgan va faol ma'lumotlar markazlari investitsiyalari 67 milliard yevrodan oshdi. Bunga AIga bo'lgan talab, salqin iqlim sharoiti va qayta tiklanadigan energiya manbalari sabab bo'lmoqda.",
+    "tags": [
+      "Google",
+      "biznes"
+    ],
+    "importance": 4,
     "score": 18,
     "published": "2026-10-08T10:55:01.000Z",
-    "created": "2026-10-08T10:58:00.783Z",
+    "created": "2026-10-08T11:03:45.512Z",
     "coverage": 1,
     "source": {
       "name": "Techmeme",
@@ -23,21 +66,43 @@
   },
   {
     "id": "aea2bf64cc4d",
-    "slug": "aqshda-ai-investitsiyalari-inflyatsiyaga-sabab-bolmoqda-aea2bf",
-    "title": "AQShda AI investitsiyalari inflyatsiyaga sabab bo'lmoqda",
-    "summary": "AQSh Federal rezerv tizimining sentabrdagi yig'ilishida rasmiylar sun'iy intellektga yo'naltirilgan investitsiyalarning keskin o'sishini tovarlar inflyatsiyasi oshishining asosiy omili sifatida qayd etdi. Ular boj tariflarini emas, aynan AI investitsiyalarini ko'rsatmoqda.",
+    "slug": "aqshda-ai-investitsiyalari-inflatsiyaga-sabab-bolmoqda-aea2bf",
+    "title": "AQShda AI investitsiyalari inflatsiyaga sabab bo'lmoqda",
+    "summary": "Washington Post nashrining xabar berishicha, AQSh Federal rezerv tizimining sentyabrdagi yig'ilishida rasmiylar tovarlar inflatsiyasi oshishiga tariflar emas, balki sun'iy intellektga kiritilayotgan investitsiyalar sabab bo'layotganini ta'kidlashgan. Rasmiylar buni inflatsiya bosimi omili sifatida ko'rsatishgan.",
     "tags": [
-      "iqtisod",
-      "siyosat"
+      "siyosat",
+      "iqtisod"
     ],
     "importance": 4,
     "score": 15,
     "published": "2026-10-08T10:20:00.000Z",
-    "created": "2026-10-08T10:58:00.783Z",
+    "created": "2026-10-08T11:03:45.512Z",
     "coverage": 1,
     "source": {
       "name": "Techmeme",
       "url": "https://techmeme.com/261008/p15",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "f58611479241",
+    "slug": "exante-kompaniyasi-ai-dasturchisini-qanday-yaratdi-f58611",
+    "title": "EXANTE kompaniyasi AI dasturchisini qanday yaratdi",
+    "summary": "EXANTE kompaniyasi Codey nomli ko'p agentli AI tizimini yaratish va joriy etish tajribasi bilan o'rtoqlashdi. Kompaniya mutaxassislarining ta'kidlashicha, dasturlashga sun'iy intellektni joriy qilish uchun faqat bitta kuchli modelning o'zi yetarli emas.",
+    "tags": [
+      "agentlar",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 11,
+    "published": "2026-10-08T10:49:06.000Z",
+    "created": "2026-10-08T11:03:45.512Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1091956",
       "indirect": false
     },
     "also": [],
