@@ -1,5 +1,49 @@
 [
   {
+    "id": "7c1df4599012",
+    "slug": "mark-cuban-ai-emas-sog-liqni-saqlash-xarajatlarini-aybladi-7c1df4",
+    "title": "Mark Cuban AI emas, sog‘liqni saqlash xarajatlarini aybladi",
+    "summary": "Milliarder Mark Cubanning fikricha, ish o‘rinlarining yo‘qolishida sun'iy intellektni ayblashdan ko‘ra, sog‘liqni saqlash xarajatlarini ayblash osonroq. Uning ta'kidlashicha, raqamlar bu fikrni tasdiqlaydi.",
+    "tags": [
+      "biznes",
+      "mehnat bozori"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-10-08T19:16:29.000Z",
+    "created": "2026-10-08T22:16:04.998Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/10/08/mark-cuban-on-why-ai-is-the-wrong-job-killer-target-its-the-healthcare-costs-stupid",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "14e17ff28376",
+    "slug": "mws-ai-vision-bench-sinov-to-plamiga-antifrod-qo-shildi-14e17f",
+    "title": "MWS AI Vision Bench sinov to‘plamiga antifrod qo‘shildi",
+    "summary": "MWS AI Vision Bench, rus tilidagi hujjatlar uchun multimodal modellarni baholovchi sinov to‘plami, bir yil ichida yangilandi. Unga firibgarlikka qarshi kurash (anti-fraud) vazifasi qo‘shildi.",
+    "tags": [
+      "tadqiqot",
+      "ochiq model"
+    ],
+    "importance": 2,
+    "score": 11,
+    "published": "2026-10-08T13:00:29.000Z",
+    "created": "2026-10-08T22:16:04.998Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/companies/ru_mts/articles/1062176",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "a63ccea5b537",
     "slug": "gumanoid-robotlarda-ai-rivojlanishi-sekinlashmoqda-a63cce",
     "title": "Gumanoid robotlarda AI rivojlanishi sekinlashmoqda",
