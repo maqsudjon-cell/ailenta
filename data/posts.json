@@ -1,5 +1,118 @@
 [
   {
+    "id": "b0518193323e",
+    "slug": "o-zbekiston-va-baa-investitsiya-loyihalarini-muhokama-qildi-b05181",
+    "title": "O‘zbekiston va BAA investitsiya loyihalarini muhokama qildi",
+    "summary": "O‘zbekiston va BAA energetika, sunʼiy intellekt, moliya, qishloq xo‘jaligi, turizm hamda transport sohalarida investitsiyaviy hamkorlikni muhokama qildi. Tomonlar istiqbolli loyihalarni ko‘rib chiqdi.",
+    "tags": [
+      "O'zbekiston",
+      "iqtisod"
+    ],
+    "importance": 3,
+    "score": 44,
+    "published": "2026-10-08T08:15:00.000Z",
+    "created": "2026-10-08T09:17:08.445Z",
+    "coverage": 1,
+    "source": {
+      "name": "UzDaily",
+      "url": "https://uzdaily.uz/uz/ozbekiston-va-baa-istiqbolli-investitsiya-loyihalarini-muhokama-qildi",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "ebed3beb5d49",
+    "slug": "microsoft-kompyuterlarga-ko-proq-ai-kiritmoqda-ebed3b",
+    "title": "Microsoft kompyuterlarga ko‘proq AI kiritmoqda",
+    "summary": "Microsoft kompaniyasi Apple bilan raqobatlashish maqsadida shaxsiy kompyuterlarga ko‘proq sun'iy intellekt imkoniyatlarini joriy etmoqda. Yangi noutbuklar uydagi AI tizimlaridan foydalanishni kengaytiradi.",
+    "tags": [
+      "Microsoft",
+      "Apple"
+    ],
+    "importance": 3,
+    "score": 28.5,
+    "published": "2026-10-07T10:05:00.000Z",
+    "created": "2026-10-08T09:17:08.445Z",
+    "coverage": 2,
+    "source": {
+      "name": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZkNrUEtoYUtLa3FYRlVtVnBCblY5Tmx2aHp5MFJwTldqSndfVUdmWDNTemFjb3l2YW5OaExPOXRyWTlTaUc1MUN2cW1tNVA4VUNJczRwMDVQZTJMTmhjT1hScHVYTklXNjJrOVpNamE3bVBGalo3RVFLbURIUkpFTGxEMEtjU01SaDVMOWM4OThPSWtmMEI0b0RtVDlvc1YwUWx5R2V3MHVIdm8",
+      "indirect": true
+    },
+    "also": [
+      {
+        "name": "The Daily Upside",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQLVdtQW50UWdmdURJMEFFSmNQTG93WkY3bGRBZ2MyRmJZTmtKN2I5M2xZWmVodTNjX3ZHdVJRVGhYSlFDTlpXSXZ2ZkdBaVUtM0tNNnpKc1UxajZXMW9jQUZvWEozQ2xpbUxCdVlGU0ZOWElRZlBGR2ZzaDB2MEJvd3A4a3NZZEI2c0NpVjlOVzZRRmRwemVwVXhPckhua3JG"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "491a8a9b8fc3",
+    "slug": "kaliforniyada-odam-va-robot-jangi-noqonuniy-deb-topildi-491a8a",
+    "title": "Kaliforniyada odam va robot jangi noqonuniy deb topildi",
+    "summary": "San-Fransiskoda startap tomonidan tashkil etilgan odam va robot o‘rtasidagi qafas jangi qonuniy to‘siqlarga duch keldi. Kaliforniya rasmiylari ushbu jangovar sport xavfsizligi sinovini noqonuniy deb hisobladi.",
+    "tags": [
+      "robototexnika",
+      "qonun"
+    ],
+    "importance": 2,
+    "score": 27,
+    "published": "2026-10-08T09:03:22.000Z",
+    "created": "2026-10-08T09:17:08.445Z",
+    "coverage": 1,
+    "source": {
+      "name": "The New York Times",
+      "url": "https://nytimes.com/2026/10/08/technology/human-robot-cage-fights-california-rek.html",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "7d65fe4778ad",
+    "slug": "xodimlar-ishda-ai-ishlatishini-bo-rttirib-ko-rsatmoqda-7d65fe",
+    "title": "Xodimlar ishda AI ishlatishini bo‘rttirib ko‘rsatmoqda",
+    "summary": "Yangi so‘rovnomaga ko‘ra, ko‘plab xodimlar rahbariyat oldida o‘zlarini ko‘rsatish uchun sun'iy intellektdan foydalanish darajasini bo‘rttirib aytmoqda. Kompaniyalar AI talablarini joriy etar ekan, xodimlar bosim ostida qolmoqda.",
+    "tags": [
+      "mehnat bozori"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-10-08T09:01:01.000Z",
+    "created": "2026-10-08T09:17:08.446Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/performative-ai-workers-exaggerating-ai-use-2026-10",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "20988dfaa35b",
+    "slug": "ai-chatbotlar-boy-foydalanuvchilarning-so-rovlarini-rad-etmo-20988d",
+    "title": "AI chatbotlar boy foydalanuvchilarning so‘rovlarini rad etmoqda",
+    "summary": "Sun'iy intellekt chatbotlari badavlat foydalanuvchilarning ayrim topshiriqlarini bajarmayapti. Ushbu holat mutaxassislar tomonidan \"raqib delegatsiyasi\" deb nomlandi.",
+    "tags": [
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 6.8,
+    "published": "2026-10-07T20:45:41.000Z",
+    "created": "2026-10-08T09:17:08.446Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fast Company",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOX0xVZzJzQ1JiaE5GY2ZzTzVZTU1sTEg5WU00U3VLZkFuSGs1MmFUUFhmVmVuWWhHWEtQdzI4Q2h0NXZfa0ZYQzlIS1dJODdUTWIwUTlXdVpzWGhZRGlVazIxQ3k4dThLQi1JRktBakJrWmsyTjFkRnhlS0xELWtJUmt2MG1tVnNRRlVYSVRnNk1aeFpNSWlmNEQtU204YjZLeXB5aG83MjVfbGlLX3ZKS2h3WGhUOV9OY3Nuc0dmakZJSC1CelhNU0lRWjI1Zw",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "23d6e58f7ab7",
     "slug": "kaniyadagi-qochqinlar-kam-haq-evaziga-ai-uchun-ishlamoqda-23d6e5",
     "title": "Kaniyadagi qochqinlar kam haq evaziga AI uchun ishlamoqda",
