@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/agentlar/</link>
   <description>&quot;agentlar&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Thu, 08 Oct 2026 18:08:00 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 08 Oct 2026 18:40:45 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/agentlar/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>AI agentlardagi xatolarni aniqlash usuli</title>
+    <link>https://ailenta.uz/x/ai-agentlardagi-xatolarni-aniqlash-usuli-b52ca1/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/ai-agentlardagi-xatolarni-aniqlash-usuli-b52ca1/</guid>
+    <pubDate>Thu, 08 Oct 2026 14:18:34 GMT</pubDate>
+    <description>Ko‘p bosqichli AI agentlarida xatolar dastlabki bosqichlarda yuz berishi mumkin. Yakuniy natijadan xatoni topish qiyin bo‘lgani sababli, bosqichma-bosqich tekshiruvlar nosozliklarni aniqlashga yordam beradi.</description>
+    <category>tadqiqot</category><category>agentlar</category>
+    <media:content url="https://ailenta.uz/og/ai-agentlardagi-xatolarni-aniqlash-usuli-b52ca1.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/ai-agentlardagi-xatolarni-aniqlash-usuli-b52ca1.jpg"/>
+  </item>
   <item>
     <title>19 yoshli dasturchi AI startapiga investitsiya oldi</title>
     <link>https://ailenta.uz/x/19-yoshli-dasturchi-ai-startapiga-investitsiya-oldi-724f7e/</link>
@@ -296,16 +306,6 @@
     <category>agentlar</category>
     <media:content url="https://ailenta.uz/og/dasturchi-ai-agentlaridan-foydalanish-tajribasi-3a976d.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/dasturchi-ai-agentlaridan-foydalanish-tajribasi-3a976d.jpg"/>
-  </item>
-  <item>
-    <title>n8n yordamida SEO agenti yaratildi</title>
-    <link>https://ailenta.uz/x/n8n-yordamida-seo-agenti-yaratildi-deac09/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/n8n-yordamida-seo-agenti-yaratildi-deac09/</guid>
-    <pubDate>Sun, 04 Oct 2026 09:44:40 GMT</pubDate>
-    <description>Organik trafik pasayganidan so'ng, foydalanuvchi uchta veb-sayt uchun n8n platformasida SEO agentini yaratdi. Agent ma'lumotlarni to'playdi, tahlil qiladi va kuchli AI modeliga vazifalar belgilaydi.</description>
-    <category>agentlar</category><category>biznes</category>
-    <media:content url="https://ailenta.uz/og/n8n-yordamida-seo-agenti-yaratildi-deac09.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/n8n-yordamida-seo-agenti-yaratildi-deac09.jpg"/>
   </item>
 </channel>
 </rss>

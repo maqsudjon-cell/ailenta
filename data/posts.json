@@ -1,5 +1,163 @@
 [
   {
+    "id": "a0839e233470",
+    "slug": "apple-normalizing-trajectory-models-tadqiqotini-taqdim-etdi-a0839e",
+    "title": "Apple Normalizing Trajectory Models tadqiqotini taqdim etdi",
+    "summary": "Apple kompaniyasi Normalizing Trajectory Models (NTM) nomli yangi tadqiqotni e'lon qildi. Bu model diffuziya asosidagi generatsiyani aniq ehtimollik asosida o‘qitish imkonini beradi.",
+    "tags": [
+      "Apple",
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 33.4,
+    "published": "2026-10-08T00:00:00.000Z",
+    "created": "2026-10-08T18:36:46.296Z",
+    "coverage": 1,
+    "source": {
+      "name": "Apple",
+      "url": "https://machinelearning.apple.com/research/normalizing-trajectory-models",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "54a283d7c732",
+    "slug": "anthropic-foydalanish-siyosatini-yangiladi-54a283",
+    "title": "Anthropic foydalanish siyosatini yangiladi",
+    "summary": "Anthropic o‘zining foydalanish siyosatini yangilab, modelni suiiste'mol qilishni taqiqladi. Yangi qoidalar saylovlarga aralashish, aldov kampaniyalari va qurol dasturlarini ham qamrab oladi.",
+    "tags": [
+      "Anthropic",
+      "qonun"
+    ],
+    "importance": 4,
+    "score": 27,
+    "published": "2026-10-08T18:16:24.000Z",
+    "created": "2026-10-08T18:36:46.296Z",
+    "coverage": 2,
+    "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "Unite.AI",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNc1dCVXFBZmRNMWkyUUU0TUw2d1lWb25vaFJpdi1GQkNMb09wcU9JRXNfZ3F6V2N4UTVBNThZSDZxNktzZV9ZLWc0QVNxeHRtOHZ0UFdIeGNma2FMcWloX1hrSGdIUXFDd2F6MmlvcTVrbHl1dG52RnFIbGt5MjBnVkxZREtSSHdtbnQ1MFpVMlAyODNQTGc"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "cd04bd83edbc",
+    "slug": "ai-ish-joyida-xodimlarni-nazorat-qilmoqda-cd04bd",
+    "title": "AI ish joyida xodimlarni nazorat qilmoqda",
+    "summary": "Kompaniyalar ish joyida xodimlarni AI yordamida nazorat qilishni kuchaytirmoqda. Bu holat ish joyidagi kuzatuv bo‘yicha xavotirlarni keltirib chiqarmoqda.",
+    "tags": [
+      "mehnat bozori",
+      "maxfiylik"
+    ],
+    "importance": 3,
+    "score": 26,
+    "published": "2026-10-08T12:23:20.000Z",
+    "created": "2026-10-08T18:36:46.296Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/technology/2026/oct/08/tell-us-have-you-been-monitored-or-assessed-by-ai-at-work",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "f4d36b7d7aeb",
+    "slug": "trump-ai-atamasini-ishlatganlarni-tanqid-qildi-f4d36b",
+    "title": "Trump AI atamasini ishlatganlarni tanqid qildi",
+    "summary": "Donald Trump sun'iy intellektni hali ham \"artificial intelligence\" deb ataydigan har qanday kishini Oq uyning \"dushmani\" deb atadi.",
+    "tags": [
+      "siyosat"
+    ],
+    "importance": 3,
+    "score": 18,
+    "published": "2026-10-08T17:43:04.000Z",
+    "created": "2026-10-08T18:36:46.296Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/trump-super-intelligence-rebrand-enemy-white-house-2026-10",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "606acb3b3f93",
+    "slug": "spacexai-omarchy-linux-loyihasiga-1-5-mln-dollar-ajratdi-606acb",
+    "title": "SpaceXAI Omarchy Linux loyihasiga 1,5 mln dollar ajratdi",
+    "summary": "SpaceXAI Omarchy Linux distributivini qo‘llab-quvvatlashini e'lon qildi. Kompaniya Omacom Foundation'ga asoschi korporativ homiy sifatida qo‘shilib, 1,5 million dollarlik Grok tokenlarini taqdim etadi.",
+    "tags": [
+      "xAI",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-10-08T17:57:01.000Z",
+    "created": "2026-10-08T18:36:46.296Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Verge",
+      "url": "https://theverge.com/tech/1008148/spacexai-omarchy-grok-david-heinemeier-hansson",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "b52ca1c2ca1c",
+    "slug": "ai-agentlardagi-xatolarni-aniqlash-usuli-b52ca1",
+    "title": "AI agentlardagi xatolarni aniqlash usuli",
+    "summary": "Ko‘p bosqichli AI agentlarida xatolar dastlabki bosqichlarda yuz berishi mumkin. Yakuniy natijadan xatoni topish qiyin bo‘lgani sababli, bosqichma-bosqich tekshiruvlar nosozliklarni aniqlashga yordam beradi.",
+    "tags": [
+      "tadqiqot",
+      "agentlar"
+    ],
+    "importance": 2,
+    "score": 11,
+    "published": "2026-10-08T14:18:34.000Z",
+    "created": "2026-10-08T18:36:46.296Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/companies/otus/articles/1091962",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "ad3d69d2fa6e",
+    "slug": "frida-decisions-rus-tili-uchun-tezkor-ai-modeli-ad3d69",
+    "title": "FRIDA Decisions: rus tili uchun tezkor AI modeli",
+    "summary": "FRIDA Decisions rus tili uchun mo‘ljallangan ochiq, tezkor AI modeli taqdim etildi. U matn yaratmasdan, bir o‘tishda variantlarni tanlash, baholash va saralash imkonini beradi.",
+    "tags": [
+      "ochiq model",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 11,
+    "published": "2026-10-08T13:44:10.000Z",
+    "created": "2026-10-08T18:36:46.296Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/companies/sberbank/articles/1092056",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "7b016fc393dc",
     "slug": "jeff-bezos-ai-tufayli-ish-haftasi-qisqarishini-taxmin-qildi-7b016f",
     "title": "Jeff Bezos AI tufayli ish haftasi qisqarishini taxmin qildi",
