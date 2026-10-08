@@ -1,5 +1,200 @@
 [
   {
+    "id": "341c4e29eb5e",
+    "slug": "ai-yordamida-yaratilgan-film-oskar-mukofotiga-tavsiya-etilis-341c4e",
+    "title": "AI yordamida yaratilgan film Oskar mukofotiga tavsiya etilishi mumkin",
+    "summary": "Notanish sayyoradagi to‘rtta hikoyadan iborat filmda inson ongi va tanasi tovar hamda materialga aylangan kelajak tasvirlanadi. Ushbu film sun’iy intellekt yordamida yaratilgan.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 48,
+    "published": "2026-10-08T05:57:12.000Z",
+    "created": "2026-10-08T07:08:36.603Z",
+    "coverage": 1,
+    "source": {
+      "name": "Daryo",
+      "url": "https://daryo.uz/2026/10/08/suniy-intellekt-yordamida-yaratilgan-film-oskarga-tavsiya-etilishi-mumkin",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "a7e9e6bf17d7",
+    "slug": "ai-laboratoriyalari-foyda-keltira-oladimi-a7e9e6",
+    "title": "AI laboratoriyalari foyda keltira oladimi",
+    "summary": "Reuters nashri sun’iy intellekt laboratoriyalarining kelajakda umuman foyda keltira olishi yoki olmasligi haqidagi tahliliy maqolani taqdim etdi.",
+    "tags": [
+      "biznes",
+      "iqtisod"
+    ],
+    "importance": 2,
+    "score": 23.9,
+    "published": "2026-10-07T11:13:38.000Z",
+    "created": "2026-10-08T07:08:36.603Z",
+    "coverage": 1,
+    "source": {
+      "name": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPOWQwZHRuX3IzUDZuLUxYMlItdUlvcWtKRTdkSktsMFRNdDdVZkEzVWpkRWRPblNuQ3d0dndjUWRnR0Z2UzRqWk1ZcVhkTDlFMWFZVnlGNFlaM0VRRUlvUGkzNlRVeWpOaWtJYk5qMWR5YW5FclNtTXdwaHB0QzZlWWVETENrVGVOODhucW1sWWZUallqc0t0d1BBNU4zckxSYnowS1JqM1hzZ1ZwdWJuV3ZVUQ",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "74d9e8d45a1f",
+    "slug": "texnologik-kompaniyalar-xavfli-ai-agentlariga-qarshi-kurashm-74d9e8",
+    "title": "Texnologik kompaniyalar xavfli AI agentlariga qarshi kurashmoqda",
+    "summary": "Agentli sun’iy intellekt tizimlari orqali amalga oshiriladigan kiberhujumlar hukumatlar va texnologik kompaniyalar uchun jiddiy muammolarni keltirib chiqarmoqda.",
+    "tags": [
+      "xavfsizlik",
+      "agentlar"
+    ],
+    "importance": 3,
+    "score": 21.8,
+    "published": "2026-10-07T18:36:32.000Z",
+    "created": "2026-10-08T07:08:36.603Z",
+    "coverage": 1,
+    "source": {
+      "name": "Semafor",
+      "url": "https://semafor.com/article/10/07/2026/tech-companies-play-whack-a-mole-with-rogue-ai",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "8916696b7ae4",
+    "slug": "hilton-yevropada-ishlash-uchun-eng-yaxshi-kompaniya-deb-topi-891669",
+    "title": "Hilton Yevropada ishlash uchun eng yaxshi kompaniya deb topildi",
+    "summary": "Hilton mehmonxonalar tarmog‘i AI davrida ham insonga yo‘naltirilgan yondashuvni saqlab qolgani sababli Fortune ro‘yxatida birinchi o‘rinni egalladi. Kompaniya xodimlarni saqlab qolishga e’tibor qaratmoqda.",
+    "tags": [
+      "mehnat bozori",
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 19,
+    "published": "2026-10-08T04:31:56.000Z",
+    "created": "2026-10-08T07:08:36.603Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/10/08/hilton-betting-on-people-in-an-industry-that-cant-afford-to-lose-them",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "11c354e77122",
+    "slug": "superintellekt-ilmi-va-ai-so-zining-foydaliligi-haqida-11c354",
+    "title": "Superintellekt ilmi va AI so‘zining foydaliligi haqida",
+    "summary": "Nature jurnali superintellekt ilmiy asoslari va nima sababdan sun’iy intellekt (AI) atamasi hamon foydali ekanligi haqida maqola chop etdi.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 15.4,
+    "published": "2026-10-07T00:00:00.000Z",
+    "created": "2026-10-08T07:08:36.603Z",
+    "coverage": 1,
+    "source": {
+      "name": "Nature",
+      "url": "https://nature.com/articles/d41586-026-03198-6",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "afa2fb08ab36",
+    "slug": "vaybkodlash-orqali-muvaffaqiyatli-saas-yaratish-ortidagi-haq-afa2fb",
+    "title": "Vaybkodlash orqali muvaffaqiyatli SaaS yaratish ortidagi haqiqat",
+    "summary": "Cal AI, Rork va Base44 kabi loyihalar muvaffaqiyati faqatgina Claude Code yordamida kod yozishga bog‘liq emas. Ularning ortida katta tajriba, o‘tmishdagi xatolar, marketing va jamoa mehnati yotadi.",
+    "tags": [
+      "tadqiqot",
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 14,
+    "published": "2026-10-08T05:59:42.000Z",
+    "created": "2026-10-08T07:08:36.603Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1091844",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "1976ba42ffeb",
+    "slug": "arzon-kod-yaratishning-kutilmagan-xavflari-va-oqibatlari-1976ba",
+    "title": "Arzon kod yaratishning kutilmagan xavflari va oqibatlari",
+    "summary": "Neyrotarmoqlar yordamida tezda yaratilgan ilovalar ko‘p o‘tmay ma’lumotlar sizib chiqishi yoki tizim ishdan chiqishiga olib kelmoqda. Chunki sun’iy intellekt yozgan kodni mutaxassislar tekshirib chiqmayapti.",
+    "tags": [
+      "xavfsizlik",
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 11,
+    "published": "2026-10-08T04:01:09.000Z",
+    "created": "2026-10-08T07:08:36.603Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1091806",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "f0c5f5f32cd9",
+    "slug": "mashinali-o-qitish-orqali-depressiya-holatini-prognoz-qilish-f0c5f5",
+    "title": "Mashinali o‘qitish orqali depressiya holatini prognoz qilish",
+    "summary": "Tadqiqotchilar longitudinal klinik ma’lumotlar asosida mashinali o‘qitish modelini qo‘llashdi. Tizim bemorlarning 12 va 24 haftadan keyingi depressiya holatini muvaffaqiyatli prognoz qila oladi.",
+    "tags": [
+      "tibbiyot",
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 10,
+    "published": "2026-10-08T04:00:00.000Z",
+    "created": "2026-10-08T07:08:36.603Z",
+    "coverage": 1,
+    "source": {
+      "name": "arXiv cs.LG",
+      "url": "https://arxiv.org/abs/2610.08809",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "eece486f4551",
+    "slug": "prithvi-modelining-ekinlarni-tasniflashdagi-aniqligi-baholan-eece48",
+    "title": "Prithvi modelining ekinlarni tasniflashdagi aniqligi baholandi",
+    "summary": "Tadqiqotchilar Prithvi-EO-2.0 bazaviy modelining 12 ta davlatdagi samaradorligini tekshirishdi. Natijalar shuni ko‘rsatdiki, modelning o‘rtacha aniqlik ko‘rsatkichi 0.65 gacha pasaygan.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 10,
+    "published": "2026-10-08T04:00:00.000Z",
+    "created": "2026-10-08T07:08:36.603Z",
+    "coverage": 1,
+    "source": {
+      "name": "arXiv cs.LG",
+      "url": "https://arxiv.org/abs/2610.08810",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "6745ce583265",
     "slug": "huawei-va-qualcomm-patentlarni-ozaro-litsenziyalaydi-6745ce",
     "title": "Huawei va Qualcomm patentlarni o'zaro litsenziyalaydi",
