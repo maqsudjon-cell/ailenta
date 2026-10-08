@@ -1,5 +1,98 @@
 [
   {
+    "id": "69ff35527020",
+    "slug": "samsung-ai-bumu-ortidan-rekord-daromad-kutmoqda-69ff35",
+    "title": "Samsung AI bumu ortidan rekord daromad kutmoqda",
+    "summary": "Samsung Electronics kompaniyasi uchinchi chorakda operatsion foydasi ilk bor 100 trillion vondan oshishini prognoz qilmoqda. Bu o‘sish sun'iy intellekt sohasidagi faollik ortishi bilan bog‘liq.",
+    "tags": [
+      "biznes",
+      "chiplar"
+    ],
+    "importance": 4,
+    "score": 19,
+    "published": "2026-10-07T22:58:05.000Z",
+    "created": "2026-10-08T00:02:00.303Z",
+    "coverage": 1,
+    "source": {
+      "name": "CNBC",
+      "url": "https://cnbc.com/2026/10/08/samsung-q3-earnings.html",
+      "title": "Samsung forecasts record third-quarter profit of $80 billion on the back of AI boom",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "258958e274f2",
+    "slug": "poellm-zararli-dasturi-3-mingdan-ortiq-serverni-zararladi-258958",
+    "title": "PoeLLM zararli dasturi 3 mingdan ortiq serverni zararladi",
+    "summary": "PoeLLM deb nomlangan yangi zararli dastur 3 mingdan ortiq serverga yuqdi. Ushbu tahdid AI xavfsizligi sohasida yangi muammolarni keltirib chiqarmoqda.",
+    "tags": [
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 22,
+    "published": "2026-10-07T16:01:08.000Z",
+    "created": "2026-10-08T00:02:14.493Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/security/2026/10/07/poetry-is-the-new-ai-security-threat-as-poellm-malware-infects-3k-servers/5301672",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "2175f2a873ae",
+    "slug": "jim-kramer-ai-aksiyalari-katta-ustunlikka-ega-ekanini-aytdi-2175f2",
+    "title": "Jim Kramer AI aksiyalari katta ustunlikka ega ekanini aytdi",
+    "summary": "Jim Kramerning so‘zlariga ko‘ra, yuqori foiz stavkalari bozorni ikkiga ajratmoqda. Kreditga bog‘liq sohalar bosim ostida qolayotgan bir paytda, AI kompaniyalari aksiyalari barqarorlikni saqlab qolmoqda.",
+    "tags": [
+      "biznes",
+      "iqtisod"
+    ],
+    "importance": 2,
+    "score": 19,
+    "published": "2026-10-07T22:22:32.000Z",
+    "created": "2026-10-08T00:02:14.493Z",
+    "coverage": 1,
+    "source": {
+      "name": "CNBC",
+      "url": "https://cnbc.com/2026/10/07/jim-cramer-spacex-wall-street-bull-case.html",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "9774854be369",
+    "slug": "microsoft-yangi-qimmatbaho-surface-noutbukini-taqdim-etdi-977485",
+    "title": "Microsoft yangi qimmatbaho Surface noutbukini taqdim etdi",
+    "summary": "Microsoft kompaniyasi o‘zining AI imkoniyatlariga ega bo‘lgan yangi va qimmatbaho Surface noutbukini namoyish etdi. Ushbu qurilma kompaniyaning sun'iy intellekt sohasidagi qarashlarini rivojlantirishga xizmat qiladi.",
+    "tags": [
+      "Microsoft",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 13,
+    "published": "2026-10-07T23:48:00.000Z",
+    "created": "2026-10-08T00:02:14.493Z",
+    "coverage": 2,
+    "source": {
+      "name": "ABS-CBN",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQM2JyVXM2ZTdyRlBEQnJEaUF3OERuckd5NzRwZWRycV92YTR2UDQ1eFFMaVp4MjBDUWd2U19nVlJSS2JKLUsySGV0ak43emI5SS1IQkdMTllNUUVBV3MtMC0tQ19PTEhsWXltRFpxVUREdWh6c2tCUXg1M3hzWUxTVjBmeU9YV3RObzBCYUZ6ZmZFWVBZdmExUl91WkxPbXFTcmZjU3d4UlFNaF9Ob0lsbDV6bVJ1SHc",
+      "indirect": true
+    },
+    "also": [
+      {
+        "name": "France 24",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcEtJS1FWVnA3R3FFb1h3czRlY3MzT3hrcWZwUmNFTWR3eTdUMVVITE1rRUVyVS10S3JiMXkxTnh0S28xZzZVMmliUk0tajl0eFN1UWNYem1vSXptVnpwZ1JXOVg2QmlrUEowTFFFM0tCdnpiM3cyUW52Znl4aEVnVW5aa2Vwb3RiaF9uMXQ2WEFySHl4U3RGbUE4eERObV82OUVKbGpwUGxHZXc"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
     "id": "2611117fc08e",
     "slug": "xitoy-ai-startaplari-aqsh-modellariga-teng-ammo-moliyalashti-261111",
     "title": "Xitoy AI startaplari AQSh modellariga teng, ammo moliyalashtirishda ortda",
