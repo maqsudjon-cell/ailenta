@@ -1,5 +1,76 @@
 [
   {
+    "id": "33f16be6a875",
+    "slug": "xakerning-rezyumesi-ai-jurnallarida-topildi-33f16b",
+    "title": "Xakerning rezyumesi AI jurnallarida topildi",
+    "summary": "CrowdStrike kompaniyasi Janubiy Koreya banklariga hujum qilgan xakerning rezyumesini ochiq qolgan AI jurnallaridan topdi. Gumonlanuvchi hujumlarda Claude Code va ARTEX kabi AI agentlaridan foydalangan.",
+    "tags": [
+      "xavfsizlik",
+      "agentlar"
+    ],
+    "importance": 4,
+    "score": 31,
+    "published": "2026-10-08T13:27:00.000Z",
+    "created": "2026-10-08T16:01:41.052Z",
+    "coverage": 2,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/cyber-crime/2026/10/08/crowdstrike-finds-possible-bank-hackers-cv-among-exposed-ai-logs/5301908",
+      "title": "CrowdStrike finds possible bank hacker's CV among exposed AI logs",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "91440a517b3d",
+    "slug": "uchta-gigant-ai-chiplari-uchun-qarz-olmoqchi-91440a",
+    "title": "Uchta gigant AI chiplari uchun qarz olmoqchi",
+    "summary": "Oracle, Broadcom va SpaceX kompaniyalari AI chiplarini sotib olish uchun yirik qarz bitimlarini tuzishga intilmoqda. Ushbu kompaniyalar bir vaqtning o'zida milliardlab dollar qarz olishni rejalashtirgan.",
+    "tags": [
+      "chiplar",
+      "biznes"
+    ],
+    "importance": 4,
+    "score": 30.2,
+    "published": "2026-10-07T21:01:00.000Z",
+    "created": "2026-10-08T16:01:47.261Z",
+    "coverage": 2,
+    "source": {
+      "name": "WSJ",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQlQwOUh0Wlhtb1B1T1YxN1ItVmh1ck5xeE5Xa0FWR2ZRcjlDdGZSM1hUVTltMHp1aHhVM1FCYUZKNnIweDhKWjlxUGpGeVlJTFFlNElVQnBkT2VMaERTRTBCVXFTbk1BRFRPRVpRWVA2blBxbnMwR3Q4VUZVQU9iVEFyRExCVW5aSjl3bXFOYlZERUxTY0l4QjA1RS1BVjRQS1lCOW5kSWtqY0t3",
+      "indirect": true
+    },
+    "also": [
+      {
+        "name": "24/7 Wall St.",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPenNhcjh1ZFhIZXZOeUN2ZldoV21fbjNKTEZLVnBZY3pNejRNcXE2Y3MwTXVMaDNpQ1dIOU05eFJjQUl3NWJRLVBLbDlqOHhMbW1xT2pCdHQxZWVsS1pFMkVXM3RxM3k4NjBZUV9oUDJxLUxsOVF5eC00WERHNGY5YUJHYU5fcjZqNXJIcHFLZ0gxWXlOMnZEY0Y3dlNWR241NkpNZjFMMElCLWtDaFJJRl9lOWp2SU9YMkJGRHV3"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "36d8ce8d4b56",
+    "slug": "avstraliyada-ai-videosi-bahsga-sabab-36d8ce",
+    "title": "Avstraliyada AI videosi bahsga sabab",
+    "summary": "Avstraliyaning One Nation partiyasi tomonidan AI yordamida yaratilgan saylovoldi videosi keskin tanqidlarga uchradi. Videoda turli irqiy stereotiplar aks ettirilgan bo'lib, bu siyosatda AI nazoratini kuchaytirish talabini keltirib chiqardi.",
+    "tags": [
+      "siyosat"
+    ],
+    "importance": 2,
+    "score": 23,
+    "published": "2026-10-08T14:00:22.000Z",
+    "created": "2026-10-08T16:01:47.261Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/australia-news/2026/oct/09/one-nations-ai-video-is-vile-and-tired-but-the-ensloppification-of-australian-politics-doesnt-stop-there-ntwnfb",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "c6e6e5935d79",
     "slug": "farg-onalik-dasturchi-asocio-mukofotini-oldi-c6e6e5",
     "title": "Farg‘onalik dasturchi ASOCIO mukofotini oldi",
