@@ -1,5 +1,71 @@
 [
   {
+    "id": "dc392c2fc2c0",
+    "slug": "meta-yangi-ai-logotipi-dizayneri-tanqidga-uchradi-dc392c",
+    "title": "Meta yangi AI logotipi dizayneri tanqidga uchradi",
+    "summary": "Jessica Hische Meta kompaniyasi uchun yeni AI logotipini ishlab chiqqanidan so‘ng keskin noroziliklarga duch keldi. Dizayner ushbu hamkorlik odamlarni g‘azablantirishini kutmaganini ma’lum qildi.",
+    "tags": [
+      "Meta",
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 23,
+    "published": "2026-10-08T19:30:00.000Z",
+    "created": "2026-10-08T21:01:40.781Z",
+    "coverage": 1,
+    "source": {
+      "name": "Wired",
+      "url": "https://wired.com/story/she-designed-metas-new-ai-logo-then-came-the-hate",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "67bcc8b34d35",
+    "slug": "usv-ai-poygasi-uchun-900-million-dollar-yig-di-67bcc8",
+    "title": "USV AI poygasi uchun 900 million dollar yig‘di",
+    "summary": "Union Square Ventures venchur kompaniyasi sun'iy intellekt poygasida raqobatlashish uchun 900 million dollar jalb qildi. Ushbu mablag'ning 500 million dollari erta bosqichdagi loyihalar jamg'armasiga yo'naltiriladi.",
+    "tags": [
+      "biznes",
+      "iqtisod"
+    ],
+    "importance": 3,
+    "score": 18,
+    "published": "2026-10-08T20:40:01.000Z",
+    "created": "2026-10-08T21:01:40.781Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/261008/p47",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "cbb9d3a99a6a",
+    "slug": "google-oflayn-ishlaydigan-ai-qaydlar-ilovasini-chiqardi-cbb9d3",
+    "title": "Google oflayn ishlaydigan AI qaydlar ilovasini chiqardi",
+    "summary": "Google kompaniyasi uchrashuvlar va audio fayllarni butunlay oflayn tarzda matnga aylantiruvchi Google AI Edge Foresight ilovasini taqdim etdi. macOS tizimida ishlovchi ushbu bepul dastur EmbeddingGemma 2 modelidan foydalanadi.",
+    "tags": [
+      "Google",
+      "biznes"
+    ],
+    "importance": 4,
+    "score": 18,
+    "published": "2026-10-08T15:27:30.000Z",
+    "created": "2026-10-08T21:01:40.781Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Verge",
+      "url": "https://theverge.com/tech/1007985/google-ai-notetaking-app-transcribe-offline",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "68d8fdf82dfa",
     "slug": "startup-garage-demo-dayda-235-000-dollar-ajratildi-68d8fd",
     "title": "Startup Garage Demo Dayda 235 000 dollar ajratildi",
