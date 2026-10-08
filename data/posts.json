@@ -1,5 +1,137 @@
 [
   {
+    "id": "7b205e40bc63",
+    "slug": "fuzozo-jismoniy-shakldagi-ai-hamrohi-7b205e",
+    "title": "Fuzozo: jismoniy shakldagi AI hamrohi",
+    "summary": "TechNode muxbiri Fuzozo nomli jismoniy shakldagi AI bilan bir necha kun o'tkazdi. Bu AI ekranda emas, balki yonida o'tirib, suhbatlashib, teginishga javob beradi.",
+    "tags": [
+      "robototexnika",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-10-08T08:13:22.000Z",
+    "created": "2026-10-08T12:36:53.918Z",
+    "coverage": 1,
+    "source": {
+      "name": "TechNode",
+      "url": "https://technode.com/2026/10/08/what-if-your-ai-had-fur-i-spent-several-days-with-fuzozo",
+      "title": "What If Your AI Had Fur? I Spent Several Days with Fuzozo",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "6df51385b161",
+    "slug": "honor-x9e-pro-ozbekistonda-taqdim-etildi-6df513",
+    "title": "HONOR X9e Pro O'zbekistonda taqdim etildi",
+    "summary": "Global texnologik brend HONOR Oʻzbekistonda HONOR X9e Pro smartfonini taqdim etdi. Ushbu yangi model faol hayot tarzi uchun mo'ljallangan.",
+    "tags": [
+      "HONOR",
+      "O'zbekiston"
+    ],
+    "importance": 2,
+    "score": 48,
+    "published": "2026-10-08T10:00:34.000Z",
+    "created": "2026-10-08T12:38:02.451Z",
+    "coverage": 1,
+    "source": {
+      "name": "Kun.uz",
+      "url": "https://kun.uz/news/2026/10/08/honor-x9e-pro-nimasi-bilan-hayratga-soladi-uning-kuchi-nimada",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "8d3f7bc3f758",
+    "slug": "marketpleyslar-va-istemolchi-huquqlari-8d3f7b",
+    "title": "Marketpleyslar va iste'molchi huquqlari",
+    "summary": "Huquqshunos Humoyunmirzo Eshboyev marketpleyslarda mahsulotlarni ko'rsatish masalasini ko'rib chiqdi. Uning fikricha, platforma manfaatlari iste'molchi manfaatlari bilan to'qnashishi mumkin.",
+    "tags": [
+      "biznes",
+      "qonun"
+    ],
+    "importance": 2,
+    "score": 45,
+    "published": "2026-10-08T08:42:00.000Z",
+    "created": "2026-10-08T12:38:02.451Z",
+    "coverage": 1,
+    "source": {
+      "name": "Kun.uz",
+      "url": "https://kun.uz/news/2026/10/08/marketpleys-eng-munosib-mahsulotni-korsatadimi-yoki-oziga-keraklisini",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "4222740c21d4",
+    "slug": "markaziy-osiyo-investitsiya-platformasi-taklif-etildi-422274",
+    "title": "Markaziy Osiyo investitsiya platformasi taklif etildi",
+    "summary": "Prezident Shavkat Mirziyoyev Markaziy Osiyo qo'shma investitsiya loyihalarini moliyaviy-texnik qo'llab-quvvatlash platformasini yaratishni taklif qildi.",
+    "tags": [
+      "siyosat",
+      "iqtisod"
+    ],
+    "importance": 3,
+    "score": 41,
+    "published": "2026-10-08T11:55:00.000Z",
+    "created": "2026-10-08T12:38:02.451Z",
+    "coverage": 1,
+    "source": {
+      "name": "UzDaily",
+      "url": "https://uzdaily.uz/uz/mirziyoyev-markaziy-osiyo-investitsiya-loyihalarini-qollab-quvvatlash-platformasini-taklif-qildi",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "f75df47cc910",
+    "slug": "ai-tufayli-ishdan-boshaganlarga-yordam-taklif-etildi-f75df4",
+    "title": "AI tufayli ishdan bo'shaganlarga yordam taklif etildi",
+    "summary": "Nufuzli tahlil markazi AI tufayli ishdan bo'shagan xodimlar uchun yuqori ishsizlik nafaqalarini moliyalashtirish yo'lini taklif qildi. Bu ishchi kuchidagi xavotirlar davrida muhimdir.",
+    "tags": [
+      "mehnat bozori",
+      "iqtisod"
+    ],
+    "importance": 3,
+    "score": 23,
+    "published": "2026-10-08T12:00:00.000Z",
+    "created": "2026-10-08T12:38:02.451Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Washington Post",
+      "url": "https://washingtonpost.com/technology/2026/10/08/think-tank-says-federal-tax-tweak-could-help-offset-ai-job-losses",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "a72f7cda2711",
+    "slug": "albatross-nomli-robot-qayiq-yaratildi-a72f7c",
+    "title": "ALBATROSS nomli robot qayiq yaratildi",
+    "summary": "ALBATROSS nomli, parashyut yordamida tushiriladigan robot qayiq yaratildi.",
+    "tags": [
+      "robototexnika"
+    ],
+    "importance": 2,
+    "score": 19,
+    "published": "2026-10-08T07:01:00.000Z",
+    "created": "2026-10-08T12:38:02.451Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/offbeat/2026/10/08/its-a-bird-its-a-planewell-more-of-a-spinning-parachute-but-really-its-a-droppable-robot-boat/5301788",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "674e51cedf2e",
     "slug": "cisco-webex-platformasiga-ai-agentlarini-joriy-etadi-674e51",
     "title": "Cisco Webex platformasiga AI agentlarini joriy etadi",
