@@ -1,5 +1,137 @@
 [
   {
+    "id": "8de17014a74a",
+    "slug": "janubiy-koreya-zavodlarni-robotlashtirishda-yetakchi-bo-ldi-8de170",
+    "title": "Janubiy Koreya zavodlarni robotlashtirishda yetakchi bo‘ldi",
+    "summary": "Sanoat robotlarining umumiy soni bo‘yicha Xitoy yetakchi bo‘lsa-da, ishchilar soniga nisbatan Janubiy Koreya oldinda bormoqda. Ushbu mamlakatda qayta ishlash sanoatining har 10 ming xodimiga 1220 ta robot to‘g‘ri keladi.",
+    "tags": [
+      "robototexnika",
+      "iqtisod"
+    ],
+    "importance": 3,
+    "score": 48,
+    "published": "2026-10-08T06:30:54.000Z",
+    "created": "2026-10-08T08:02:11.610Z",
+    "coverage": 1,
+    "source": {
+      "name": "Kun.uz",
+      "url": "https://kun.uz/news/2026/10/08/xitoyda-2-million-robot-bor-ammo-yetakchi-boshqa-zavodlarni-robotlashtirishda-kim-oldinda",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "917a2d0e6dff",
+    "slug": "workbuddy-so-rov-orqali-wechat-mini-dasturini-yaratadi-917a2d",
+    "title": "WorkBuddy so‘rov orqali WeChat mini-dasturini yaratadi",
+    "summary": "WorkBuddy platformasi matnli so‘rov yordamida WeChat mini-dasturini yaratish, bulutli tizimga ulanish va uni ko‘rib chiqish imkoniyatini qo‘shdi. Biroq dasturni tekshirish va ro‘yxatdan o‘tkazish jarayonlari agentdan tashqarida amalga oshiriladi.",
+    "tags": [
+      "agentlar",
+      "bulut"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-10-08T07:45:37.000Z",
+    "created": "2026-10-08T08:02:11.611Z",
+    "coverage": 1,
+    "source": {
+      "name": "Pandaily",
+      "url": "https://pandaily.com/tencent-workbuddy-wechat-mini-program-preview-publish-cloud",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "d0bab0d913a2",
+    "slug": "latent-loyihasi-tennis-o-ynovchi-robot-uchun-mukofot-oldi-d0bab0",
+    "title": "LATENT loyihasi tennis o‘ynovchi robot uchun mukofot oldi",
+    "summary": "Galbot va Sinxua universiteti hamkorligida yaratilgan LATENT loyihasi IROS mukofotiga loyiq ko‘rildi. Sinovlarda Unitree G1 gumanoid roboti tennis to‘plarini 91 foiz aniqlik bilan qaytarishga muvaffaq bo‘ldi.",
+    "tags": [
+      "robototexnika",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-10-08T07:45:21.000Z",
+    "created": "2026-10-08T08:02:11.611Z",
+    "coverage": 1,
+    "source": {
+      "name": "Pandaily",
+      "url": "https://pandaily.com/galbot-tsinghua-latent-iros-2026-humanoid-tennis-forehand-imperfect-data",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "952e69e18b6d",
+    "slug": "google-suniy-intellekt-mahsulotlarini-aniqlovchi-sayt-ochdi-952e69",
+    "title": "Google sun’iy intellekt mahsulotlarini aniqlovchi sayt ochdi",
+    "summary": "Google kompaniyasi har qanday tasvir, video yoki audio fayl sun’iy intellekt yordamida yaratilganini tekshirish imkonini beruvchi yangi SynthID saytini ishga tushirdi. Platformadan istalgan foydalanuvchi bepul foydalanishi mumkin.",
+    "tags": [
+      "Google",
+      "xavfsizlik"
+    ],
+    "importance": 4,
+    "score": 12.6,
+    "published": "2026-10-07T14:00:00.000Z",
+    "created": "2026-10-08T08:02:11.611Z",
+    "coverage": 1,
+    "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/07/googles-new-synthid-website-can-identify-ai-generated-media",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "fb803189bc34",
+    "slug": "anthropic-mualliflik-huquqi-bo-yicha-kelishuvga-erishdi-fb8031",
+    "title": "Anthropic mualliflik huquqi bo‘yicha kelishuvga erishdi",
+    "summary": "Tufts universiteti professorining kitobi Anthropic kompaniyasining mualliflik huquqi bo‘yicha kelishuviga kiritilgan noqonuniy ko‘chirilgan asarlar orasida ekani ma’lum bo‘ldi.",
+    "tags": [
+      "Anthropic",
+      "sud"
+    ],
+    "importance": 2,
+    "score": 7,
+    "published": "2026-10-08T06:03:18.000Z",
+    "created": "2026-10-08T08:02:11.611Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Tufts Daily",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPU2xtR0JsVFl5N0x6dzgzejNqU1NUV3hJbFo0eG1uYTMwRlNZcXU0a2E3MUswS0JoVHNzM3Iyd2pDWDVOUUxmdTZTaWl6azVJNkdWWGdHWXlDOVlYZzc4NzFMRDZqS1hMeWFRZ2pjY2lMeWJXVm1FNmRKZlVrbUZUTlVuSG1ZaFpqY2tfdDQyZ0ZORXdMZ0dQZVFBdUp0UkJEZ0h6ZXlfQjVtdkJvbGpYaUttRFM0cEtvRnpuVkpsWExwZHY1TUJR",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "632853eab83f",
+    "slug": "trinity-talabalari-professorlar-uchun-ai-qoidalarini-so-radi-632853",
+    "title": "Trinity talabalari professorlar uchun AI qoidalarini so‘radi",
+    "summary": "Trinity universiteti talabalari professorlar va o‘qituvchilar uchun sun’iy intellektdan foydalanishni tartibga soluvchi maxsus qoidalarni joriy etishni talab qilmoqda.",
+    "tags": [
+      "ta'lim",
+      "qonun"
+    ],
+    "importance": 2,
+    "score": 7,
+    "published": "2026-10-08T05:07:18.000Z",
+    "created": "2026-10-08T08:02:11.611Z",
+    "coverage": 1,
+    "source": {
+      "name": "Trinitonian",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMElkMV9oZ1JuVFBjU2tVT0NUVTl2czVhYU9XUnlnQ1VHbVk2NVppSERJb0w1TTFtU2xSczkxMEZMNmZYMmEzMjlSSkluZmEyZ3VRWm1pbDFYcThwM3p6MVAwdFNPOTlyWHhLbGgwVXE3NTFfM1AxVXRzdm1qTzl1SklLUldqS2lONjlQOXNLMA",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "341c4e29eb5e",
     "slug": "ai-yordamida-yaratilgan-film-oskar-mukofotiga-tavsiya-etilis-341c4e",
     "title": "AI yordamida yaratilgan film Oskar mukofotiga tavsiya etilishi mumkin",
