@@ -1,5 +1,49 @@
 [
   {
+    "id": "5dba6e7bf30e",
+    "slug": "vitalik-buterin-ai-rivoji-sabab-kripto-bunker-rejimini-qolla-5dba6e",
+    "title": "Vitalik Buterin AI rivoji sabab kripto 'bunker rejimini' qo'lladi",
+    "summary": "Vitalik Buterin sun'iy intellektdagi tezkor matematik yutuqlar fonida kriptovalyutalar uchun 'bunker rejimi'ni qo'llab-quvvatladi. Bu xavfsizlik chorasi sifatida ko'rilmoqda.",
+    "tags": [
+      "iqtisod",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 17.4,
+    "published": "2026-10-08T19:17:51.000Z",
+    "created": "2026-10-09T02:25:14.802Z",
+    "coverage": 1,
+    "source": {
+      "name": "Hacker News",
+      "url": "https://cointelegraph.com/news/justin-drake-urges-crypto-bunker-mode-as-ai-could-break-wallet-security-within-months",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "9a2c8d672208",
+    "slug": "ai-infratuzilmasi-rivojlanishning-asosiy-tosigiga-aylandi-9a2c8d",
+    "title": "AI infratuzilmasi rivojlanishning asosiy to'sig'iga aylandi",
+    "summary": "Sun'iy intellektni rivojlantirishda asosiy cheklovlar hisoblash infratuzilmasi, jumladan GPU-klasterlar va ma'lumotlar markazlariga o'tmoqda. Bu AI sohasining kelajakdagi yo'nalishini belgilaydi.",
+    "tags": [
+      "biznes",
+      "chiplar"
+    ],
+    "importance": 4,
+    "score": 14,
+    "published": "2026-10-08T19:22:43.000Z",
+    "created": "2026-10-09T02:25:14.802Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1092192",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "7e3a51c32d62",
     "slug": "anthropic-kiberxavfsizlik-dasturini-elon-qildi-7e3a51",
     "title": "Anthropic kiberxavfsizlik dasturini e'lon qildi",

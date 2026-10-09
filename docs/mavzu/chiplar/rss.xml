@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/chiplar/</link>
   <description>&quot;chiplar&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Fri, 09 Oct 2026 02:07:42 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 09 Oct 2026 02:29:22 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/chiplar/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>AI infratuzilmasi rivojlanishning asosiy to'sig'iga aylandi</title>
+    <link>https://ailenta.uz/x/ai-infratuzilmasi-rivojlanishning-asosiy-tosigiga-aylandi-9a2c8d/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/ai-infratuzilmasi-rivojlanishning-asosiy-tosigiga-aylandi-9a2c8d/</guid>
+    <pubDate>Thu, 08 Oct 2026 19:22:43 GMT</pubDate>
+    <description>Sun'iy intellektni rivojlantirishda asosiy cheklovlar hisoblash infratuzilmasi, jumladan GPU-klasterlar va ma'lumotlar markazlariga o'tmoqda. Bu AI sohasining kelajakdagi yo'nalishini belgilaydi.</description>
+    <category>biznes</category><category>chiplar</category>
+    <media:content url="https://ailenta.uz/og/ai-infratuzilmasi-rivojlanishning-asosiy-tosigiga-aylandi-9a2c8d.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/ai-infratuzilmasi-rivojlanishning-asosiy-tosigiga-aylandi-9a2c8d.jpg"/>
+  </item>
   <item>
     <title>TSMC va GlobalFoundries 2 milliard dollarlik kelishuv tuzdi</title>
     <link>https://ailenta.uz/x/tsmc-va-globalfoundries-2-milliard-dollarlik-kelishuv-tuzdi-b5b44c/</link>
@@ -296,16 +306,6 @@
     <category>robototexnika</category><category>chiplar</category>
     <media:content url="https://ailenta.uz/og/robox-d9m-robot-harakati-kontrolleri-taqdim-etildi-3e85b8.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/robox-d9m-robot-harakati-kontrolleri-taqdim-etildi-3e85b8.jpg"/>
-  </item>
-  <item>
-    <title>Netlist Google va Nvidia AI chiplariga import taqiqini so'radi</title>
-    <link>https://ailenta.uz/x/netlist-google-va-nvidia-ai-chiplariga-import-taqiqini-sorad-5f78b0/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/netlist-google-va-nvidia-ai-chiplariga-import-taqiqini-sorad-5f78b0/</guid>
-    <pubDate>Tue, 29 Sep 2026 15:50:51 GMT</pubDate>
-    <description>Netlist kompaniyasi AQSHda Google va Nvidia'ning sun'iy intellekt hisoblashlarida ishlatiladigan Micron chiplariga import taqiqini qo'llashni talab qildi.</description>
-    <category>chiplar</category><category>sud</category>
-    <media:content url="https://ailenta.uz/og/netlist-google-va-nvidia-ai-chiplariga-import-taqiqini-sorad-5f78b0.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/netlist-google-va-nvidia-ai-chiplariga-import-taqiqini-sorad-5f78b0.jpg"/>
   </item>
 </channel>
 </rss>
