@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/tadqiqot/</link>
   <description>&quot;tadqiqot&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Fri, 09 Oct 2026 04:07:40 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 09 Oct 2026 05:08:02 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/tadqiqot/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Diffu-LoRA usuli taqdim etildi</title>
+    <link>https://ailenta.uz/x/diffu-lora-usuli-taqdim-etildi-421ab3/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/diffu-lora-usuli-taqdim-etildi-421ab3/</guid>
+    <pubDate>Fri, 09 Oct 2026 04:00:00 GMT</pubDate>
+    <description>Matndan tasvir yaratuvchi diffuziya modellarini shaxsiylashtirish uchun Diffu-LoRA usuli ishlab chiqildi. Ushbu usul darvoza mexanizmiga ega past darajali moslashuv orqali parametrlarni samarali taqsimlash imkonini beradi.</description>
+    <category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/diffu-lora-usuli-taqdim-etildi-421ab3.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/diffu-lora-usuli-taqdim-etildi-421ab3.jpg"/>
+  </item>
   <item>
     <title>ByteDance tadqiqotchilari KV-Cache siqishda xatolik topdi</title>
     <link>https://ailenta.uz/x/bytedance-tadqiqotchilari-kv-cache-siqishda-xatolik-topdi-8d8076/</link>
@@ -296,16 +306,6 @@
     <category>tadqiqot</category><category>agentlar</category>
     <media:content url="https://ailenta.uz/og/ai-agentini-noldan-yozishning-murakkabliklari-muhokama-qilin-0c22c0.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/ai-agentini-noldan-yozishning-murakkabliklari-muhokama-qilin-0c22c0.jpg"/>
-  </item>
-  <item>
-    <title>Anthropic AI agentlar sinovlarida infratuzilma ta'sirini o‘rgandi</title>
-    <link>https://ailenta.uz/x/anthropic-ai-agentlar-sinovlarida-infratuzilma-tasirini-o-rg-23968a/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/anthropic-ai-agentlar-sinovlarida-infratuzilma-tasirini-o-rg-23968a/</guid>
-    <pubDate>Wed, 07 Oct 2026 12:37:24 GMT</pubDate>
-    <description>Anthropic AI agentlari uchun sinov to‘plamlarida infratuzilma shovqinini o‘rganib chiqdi. Tadqiqotga ko‘ra, Terminal-Bench 2.0’da eng qat'iy va cheklanmagan konfiguratsiyalar o‘rtasidagi farq olti foiz punktiga yetgan.</description>
-    <category>Anthropic</category><category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/anthropic-ai-agentlar-sinovlarida-infratuzilma-tasirini-o-rg-23968a.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/anthropic-ai-agentlar-sinovlarida-infratuzilma-tasirini-o-rg-23968a.jpg"/>
   </item>
 </channel>
 </rss>
