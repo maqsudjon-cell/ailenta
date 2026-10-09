@@ -1,5 +1,138 @@
 [
   {
+    "id": "636a235e84dc",
+    "slug": "121ai-beshta-xizmat-orniga-bitta-kabinet-636a23",
+    "title": "121ai: Beshta xizmat o'rniga bitta kabinet",
+    "summary": "Dasturchi Denis 1-ga-1 ishlaydigan mutaxassislar uchun 121ai loyihasini yaratmoqda. Loyiha AI asosida beshta xizmatni bitta kabinetda birlashtirishni maqsad qilgan.",
+    "tags": [
+      "biznes",
+      "agentlar"
+    ],
+    "importance": 2,
+    "score": 11,
+    "published": "2026-10-09T15:00:18.000Z",
+    "created": "2026-10-09T15:36:50.716Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1092446",
+      "title": "Один кабинет вместо пяти сервисов: зачем я делаю 121ai для тех, кто работает 1-на-1",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "a5155b6399ee",
+    "slug": "honda-super-one-elektromobili-avstraliyada-xitga-aylandi-a5155b",
+    "title": "Honda Super-One elektromobili Avstraliyada xitga aylandi",
+    "summary": "Yaponiyaning Honda kompaniyasi tomonidan ishlab chiqilgan Super-One kichik elektromobili Avstraliyada katta qiziqish uyg'otdi. U kutilmagan onlayn-xitga aylandi.",
+    "tags": [
+      "Honda",
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 45,
+    "published": "2026-10-09T13:54:23.000Z",
+    "created": "2026-10-09T15:37:02.289Z",
+    "coverage": 1,
+    "source": {
+      "name": "Kun.uz",
+      "url": "https://kun.uz/news/2026/10/09/honda-super-one-elektromobili-avstraliyada-kutilmagan-onlayn-xitga-aylandi",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "3eab6a9dba14",
+    "slug": "nikon-tanlovida-ai-yaratgan-rasm-mukofot-oldi-3eab6a",
+    "title": "Nikon tanlovida AI yaratgan rasm mukofot oldi",
+    "summary": "Nikon kompaniyasi tanlovda g'olib chiqqan rasm AI tomonidan yaratilganini tasdiqladi. Kamera ishlab chiqaruvchisi endi tanlov qoidalarini qayta ko'rib chiqmoqda.",
+    "tags": [
+      "biznes",
+      "qonun"
+    ],
+    "importance": 3,
+    "score": 23,
+    "published": "2026-10-09T15:32:30.000Z",
+    "created": "2026-10-09T15:37:02.289Z",
+    "coverage": 1,
+    "source": {
+      "name": "BBC News",
+      "url": "https://bbc.co.uk/news/articles/cr86z33pdy9vo?at_medium=RSS&at_campaign=rss",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "ae7d0f8670f4",
+    "slug": "yuridik-firma-malumot-markazlari-moliyasidan-ogohlantirdi-ae7d0f",
+    "title": "Yuridik firma ma'lumot markazlari moliyasidan ogohlantirdi",
+    "summary": "Quinn Emanuel yuridik firmasi ma'lumotlar markazlari qarziga oid ogohlantirish e'lon qildi. Unda AI infratuzilmasini qurish uchun eng yomon ssenariylar bayon etilgan.",
+    "tags": [
+      "biznes",
+      "qonun"
+    ],
+    "importance": 4,
+    "score": 22,
+    "published": "2026-10-09T13:06:57.000Z",
+    "created": "2026-10-09T15:37:02.289Z",
+    "coverage": 1,
+    "source": {
+      "name": "Semafor",
+      "url": "https://semafor.com/article/10/09/2026/quinn-emanuel-issues-warning-over-data-center-financing",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "2873b979cb0f",
+    "slug": "nima-uchun-claudening-200k-kontekst-oynasiga-qaytdim-2873b9",
+    "title": "Nima uchun Claude'ning 200K kontekst oynasiga qaytdim",
+    "summary": "Muallif Claude'ning 200K kontekst oynasiga qaytganini ma'lum qildi. Uning aytishicha, avvalgi obuna limitlari uning loyiha vazifalari uchun yetarli bo'lmay qolgan.",
+    "tags": [
+      "Anthropic",
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 14,
+    "published": "2026-10-09T15:08:41.000Z",
+    "created": "2026-10-09T15:37:02.289Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1092546",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "8690fc41a645",
+    "slug": "samsung-ai-talabi-tufayli-80-mlrd-dollar-foyda-kutmoqda-8690fc",
+    "title": "Samsung AI talabi tufayli 80 mlrd dollar foyda kutmoqda",
+    "summary": "Samsung kompaniyasi AI talabi tufayli choraklik foydasi 80 milliard dollarga yetishini prognoz qilmoqda. AI xotira chiplariga bo'lgan talab chip ishlab chiqaruvchilarning marjasini oshirmoqda.",
+    "tags": [
+      "chiplar",
+      "biznes"
+    ],
+    "importance": 4,
+    "score": 12.9,
+    "published": "2026-10-08T12:14:00.000Z",
+    "created": "2026-10-09T15:37:02.289Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/systems/2026/10/08/samsung-eyes-80b-quarterly-profit-as-memory-buyers-pay-the-price/5301933",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "1915e47be737",
     "slug": "taqsimlangan-ai-oqitish-tarmoqqa-tasir-qilmoqda-1915e4",
     "title": "Taqsimlangan AI o'qitish tarmoqqa ta'sir qilmoqda",
