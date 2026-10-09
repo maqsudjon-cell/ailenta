@@ -1,5 +1,49 @@
 [
   {
+    "id": "8d80763cf318",
+    "slug": "bytedance-tadqiqotchilari-kv-cache-siqishda-xatolik-topdi-8d8076",
+    "title": "ByteDance tadqiqotchilari KV-Cache siqishda xatolik topdi",
+    "summary": "ByteDance Seed tadqiqot guruhi KV-Cache siqilgan modellarida token joylashuviga qarab aniqlik 40 foizgacha o‘zgarishini aniqladi. Ushbu muammo DeepSeek-V4 kabi modellarga ham ta'sir qiladi.",
+    "tags": [
+      "DeepSeek",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-10-09T02:36:37.000Z",
+    "created": "2026-10-09T03:04:08.016Z",
+    "coverage": 1,
+    "source": {
+      "name": "Pandaily",
+      "url": "https://pandaily.com/bytedance-seed-phase-sensitivity-chunked-kv-cache-compression-deepseek-v4",
+      "title": "ByteDance Seed Paper Finds a 'Phase Sensitivity' Blind Spot in Chunked KV-Cache Compression",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "e138de1068f8",
+    "slug": "simplexity-robotics-robotni-ikkita-stanokda-ishlashga-o-rgat-e138de",
+    "title": "Simplexity Robotics robotni ikkita stanokda ishlashga o‘rgatdi",
+    "summary": "Simplexity Robotics kompaniyasi IROS 2026 ko‘rgazmasida bitta robotni ikkita CNC stanogiga xizmat ko‘rsatishga o‘rgatganini namoyish etdi. Robot 600 ta real traektoriya bo‘yicha o‘qitilganidan so‘ng, detallarni 0,5 mm aniqlikda joylashtira olgan.",
+    "tags": [
+      "robototexnika"
+    ],
+    "importance": 3,
+    "score": 18,
+    "published": "2026-10-09T02:37:06.000Z",
+    "created": "2026-10-09T03:04:12.460Z",
+    "coverage": 1,
+    "source": {
+      "name": "Pandaily",
+      "url": "https://pandaily.com/simplexity-robotics-iros-2026-cnc-lathe-tending-600-trajectories-0-5mm",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "5dba6e7bf30e",
     "slug": "vitalik-buterin-ai-rivoji-sabab-kripto-bunker-rejimini-qolla-5dba6e",
     "title": "Vitalik Buterin AI rivoji sabab kripto 'bunker rejimini' qo'lladi",

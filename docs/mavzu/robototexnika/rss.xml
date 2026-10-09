@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/robototexnika/</link>
   <description>&quot;robototexnika&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Fri, 09 Oct 2026 02:29:22 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 09 Oct 2026 03:10:35 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/robototexnika/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Simplexity Robotics robotni ikkita stanokda ishlashga o‘rgatdi</title>
+    <link>https://ailenta.uz/x/simplexity-robotics-robotni-ikkita-stanokda-ishlashga-o-rgat-e138de/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/simplexity-robotics-robotni-ikkita-stanokda-ishlashga-o-rgat-e138de/</guid>
+    <pubDate>Fri, 09 Oct 2026 02:37:06 GMT</pubDate>
+    <description>Simplexity Robotics kompaniyasi IROS 2026 ko‘rgazmasida bitta robotni ikkita CNC stanogiga xizmat ko‘rsatishga o‘rgatganini namoyish etdi. Robot 600 ta real traektoriya bo‘yicha o‘qitilganidan so‘ng, detallarni 0,5 mm aniqlikda joylashtira olgan.</description>
+    <category>robototexnika</category>
+    <media:content url="https://ailenta.uz/og/simplexity-robotics-robotni-ikkita-stanokda-ishlashga-o-rgat-e138de.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/simplexity-robotics-robotni-ikkita-stanokda-ishlashga-o-rgat-e138de.jpg"/>
+  </item>
   <item>
     <title>Kaliforniya robot va inson janglarini to‘xtatmoqda</title>
     <link>https://ailenta.uz/x/kaliforniya-robot-va-inson-janglarini-to-xtatmoqda-e1475b/</link>
@@ -296,16 +306,6 @@
     <category>robototexnika</category><category>chiplar</category>
     <media:content url="https://ailenta.uz/og/robox-d9m-robot-harakati-kontrolleri-taqdim-etildi-3e85b8.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/robox-d9m-robot-harakati-kontrolleri-taqdim-etildi-3e85b8.jpg"/>
-  </item>
-  <item>
-    <title>Knowin GLOW robot o'qitish tizimini taqdim etdi</title>
-    <link>https://ailenta.uz/x/knowin-glow-robot-oqitish-tizimini-taqdim-etdi-770298/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/knowin-glow-robot-oqitish-tizimini-taqdim-etdi-770298/</guid>
-    <pubDate>Tue, 29 Sep 2026 07:00:41 GMT</pubDate>
-    <description>Embodied AI kompaniyasi Knowin GLOW nomli generativ o'rganish tizimi haqida texnik hisobot e'lon qildi. Bu tizim uy robotlariga insonning bir martalik namoyishi orqali vazifalarni o'rganish imkonini beradi.</description>
-    <category>robototexnika</category><category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/knowin-glow-robot-oqitish-tizimini-taqdim-etdi-770298.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/knowin-glow-robot-oqitish-tizimini-taqdim-etdi-770298.jpg"/>
   </item>
 </channel>
 </rss>

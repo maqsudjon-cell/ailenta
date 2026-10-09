@@ -5,8 +5,28 @@
   <link>https://ailenta.uz</link>
   <description>Dunyodagi sun'iy intellekt yangiliklari o'zbek tilida. Har soatda yangilanadi, har bir xabarda asl manbaga havola.</description>
   <language>uz</language>
-  <lastBuildDate>Fri, 09 Oct 2026 02:29:22 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 09 Oct 2026 03:10:35 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Simplexity Robotics robotni ikkita stanokda ishlashga o‘rgatdi</title>
+    <link>https://ailenta.uz/x/simplexity-robotics-robotni-ikkita-stanokda-ishlashga-o-rgat-e138de/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/simplexity-robotics-robotni-ikkita-stanokda-ishlashga-o-rgat-e138de/</guid>
+    <pubDate>Fri, 09 Oct 2026 02:37:06 GMT</pubDate>
+    <description>Simplexity Robotics kompaniyasi IROS 2026 ko‘rgazmasida bitta robotni ikkita CNC stanogiga xizmat ko‘rsatishga o‘rgatganini namoyish etdi. Robot 600 ta real traektoriya bo‘yicha o‘qitilganidan so‘ng, detallarni 0,5 mm aniqlikda joylashtira olgan.</description>
+    <category>robototexnika</category>
+    <media:content url="https://ailenta.uz/og/simplexity-robotics-robotni-ikkita-stanokda-ishlashga-o-rgat-e138de.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/simplexity-robotics-robotni-ikkita-stanokda-ishlashga-o-rgat-e138de.jpg"/>
+  </item>
+  <item>
+    <title>ByteDance tadqiqotchilari KV-Cache siqishda xatolik topdi</title>
+    <link>https://ailenta.uz/x/bytedance-tadqiqotchilari-kv-cache-siqishda-xatolik-topdi-8d8076/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/bytedance-tadqiqotchilari-kv-cache-siqishda-xatolik-topdi-8d8076/</guid>
+    <pubDate>Fri, 09 Oct 2026 02:36:37 GMT</pubDate>
+    <description>ByteDance Seed tadqiqot guruhi KV-Cache siqilgan modellarida token joylashuviga qarab aniqlik 40 foizgacha o‘zgarishini aniqladi. Ushbu muammo DeepSeek-V4 kabi modellarga ham ta'sir qiladi.</description>
+    <category>DeepSeek</category><category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/bytedance-tadqiqotchilari-kv-cache-siqishda-xatolik-topdi-8d8076.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/bytedance-tadqiqotchilari-kv-cache-siqishda-xatolik-topdi-8d8076.jpg"/>
+  </item>
   <item>
     <title>AI yordamida viruslar loyihasini yaratgan olim bilan suhbat</title>
     <link>https://ailenta.uz/x/ai-yordamida-viruslar-loyihasini-yaratgan-olim-bilan-suhbat-ebb614/</link>
@@ -486,26 +506,6 @@
     <category>siyosat</category><category>iqtisod</category>
     <media:content url="https://ailenta.uz/og/aqshda-ai-investitsiyalari-inflatsiyaga-sabab-bolmoqda-aea2bf.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/aqshda-ai-investitsiyalari-inflatsiyaga-sabab-bolmoqda-aea2bf.jpg"/>
-  </item>
-  <item>
-    <title>HONOR X9e Pro O'zbekistonda taqdim etildi</title>
-    <link>https://ailenta.uz/x/honor-x9e-pro-ozbekistonda-taqdim-etildi-6df513/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/honor-x9e-pro-ozbekistonda-taqdim-etildi-6df513/</guid>
-    <pubDate>Thu, 08 Oct 2026 10:00:34 GMT</pubDate>
-    <description>Global texnologik brend HONOR Oʻzbekistonda HONOR X9e Pro smartfonini taqdim etdi. Ushbu yangi model faol hayot tarzi uchun mo'ljallangan.</description>
-    <category>HONOR</category><category>O'zbekiston</category>
-    <media:content url="https://ailenta.uz/og/honor-x9e-pro-ozbekistonda-taqdim-etildi-6df513.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/honor-x9e-pro-ozbekistonda-taqdim-etildi-6df513.jpg"/>
-  </item>
-  <item>
-    <title>Claude maslahati tufayli qutqarilgan o'smir</title>
-    <link>https://ailenta.uz/x/claude-maslahati-tufayli-qutqarilgan-osmir-b5991b/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/claude-maslahati-tufayli-qutqarilgan-osmir-b5991b/</guid>
-    <pubDate>Thu, 08 Oct 2026 09:57:42 GMT</pubDate>
-    <description>16 yoshli o'smir Vankuver yaqinidagi tog' yo'nalishini Anthropic kompaniyasining Claude chatbotida rejalashtirgan. Chatbot uni toqqa chiqish jihozlari talab etiladigan xavfli yo'ldan yuborgani sababli, u vertolyot yordamida qutqarildi.</description>
-    <category>Anthropic</category><category>xavfsizlik</category>
-    <media:content url="https://ailenta.uz/og/claude-maslahati-tufayli-qutqarilgan-osmir-b5991b.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/claude-maslahati-tufayli-qutqarilgan-osmir-b5991b.jpg"/>
   </item>
 </channel>
 </rss>
