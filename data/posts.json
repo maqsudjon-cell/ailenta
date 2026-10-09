@@ -1,5 +1,92 @@
 [
   {
+    "id": "8676093d0021",
+    "slug": "ai-agentlari-poygasi-investorlar-diqqati-chiplarda-867609",
+    "title": "AI agentlari poygasi: investorlar diqqati chiplarda",
+    "summary": "Bloomberg tahliliga ko'ra, AI agentlarining rivojlanishi chiplar va hisoblash infratuzilmasiga bo'lgan talabni sezilarli darajada oshirishi kutilmoqda. Shu sababli investorlar e'tiborini chip ishlab chiqaruvchi kompaniyalarga qaratmoqda.",
+    "tags": [
+      "chiplar",
+      "agentlar"
+    ],
+    "importance": 3,
+    "score": 48,
+    "published": "2026-10-09T16:00:00.000Z",
+    "created": "2026-10-09T16:03:16.037Z",
+    "coverage": 1,
+    "source": {
+      "name": "Pivot",
+      "url": "https://pivot.uz/uz/ai-agentlari-poygasi-investorlar-etiborini-chip-ishlab-chiqaruvchilarga-qaratmoqda",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "c600ade0c9b5",
+    "slug": "a16z-tahlilchisi-istemolchi-ai-imkoniyatlarini-baholadi-c600ad",
+    "title": "a16z tahlilchisi iste'molchi AI imkoniyatlarini baholadi",
+    "summary": "Andreessen Horowitz vakili Oliviya Mur iste'molchi sun'iy intellekt yo'nalishida katta imkoniyatlar borligini ta'kidladi. Uning fikricha, soha faqat obuna va API to'lovlaridan tashqari daromad manbalarini ham topishi kerak.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-10-09T15:43:33.000Z",
+    "created": "2026-10-09T16:03:16.038Z",
+    "coverage": 1,
+    "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/09/a16zs-olivia-moore-on-the-state-of-consumer-ai",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "d7f977077c31",
+    "slug": "ochiq-modellar-taqiqi-boyicha-bahslar-tanqid-qilindi-d7f977",
+    "title": "Ochiq modellar taqiqi bo'yicha bahslar tanqid qilindi",
+    "summary": "Tahlilchi Natan Lambert ochiq og'irlikli modellarni taqiqlash haqidagi bahslarni samarasiz deb atadi. Uning ta'kidlashicha, kiberhujumlarning aksariyati yopiq modellar orqali amalga oshirilgan va ochiq modellarni taqiqlash barcha uchun zararli bo'ladi.",
+    "tags": [
+      "ochiq model",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 11,
+    "published": "2026-10-09T13:36:52.000Z",
+    "created": "2026-10-09T16:03:16.038Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1092328",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "5ba7e9f108d4",
+    "slug": "anthropic-xavfsizlik-xatolarini-tezkor-xabar-qiladi-5ba7e9",
+    "title": "Anthropic xavfsizlik xatolarini tezkor xabar qiladi",
+    "summary": "Anthropic kompaniyasi ochiq kodli dasturiy ta'minot yaratuvchilariga AI xavfsizligi xatolari haqidagi hisobotlarni tezkor yetkazishni yo'lga qo'ymoqda. Shuningdek, kompaniya operatsion texnologiyalar xavfsizligi uchun 11 ta firma bilan hamkorlik qiladi.",
+    "tags": [
+      "Anthropic",
+      "xavfsizlik"
+    ],
+    "importance": 4,
+    "score": 10,
+    "published": "2026-10-09T08:19:33.000Z",
+    "created": "2026-10-09T16:03:16.038Z",
+    "coverage": 1,
+    "source": {
+      "name": "SecurityWeek",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSmZ6S29odWNvTFhrbDRXMFM5bWNQSzNqSjI4ZERBZUdMaEVQX2x1aW9hSko4VEU5QVVqcS1OUDVVNmFXbFlsVEJSRmxES1NHYVlra2czaHMwYm55bURPQzN2M3cwMklEdTZCNkVkOG40T21TY3BhOUloemxaQ3dxTTMxci1TQ1p4LXpDYVVpelRyTnV5dHdkb1NNR2NCdFdaWHVZR1lRRWN1RWxvVWhPTWdSMThyQdIBuwFBVV95cUxOOEE2X0kwZlY4ZjVoWG4zM0lkb0dSVGliRzJNandIRm43VEdwam9jYV9sbnZ0WXpUTjhPTG5TTkplNFpKQjdDSWpOMXFjVkdYN1pVYUJNYTFxcEJ4MVdvS2dzSzRVUGJZT21tdWdFVGtFTzgxVU1hUGttaFlCdThpUDBGTDRoZm42WDB2NHJwcEppZVZUVF9TU3NkN0t5Ui0yb0oweldQejgwUFd5VjZCVThEaTVoX29SQU9B",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "636a235e84dc",
     "slug": "121ai-beshta-xizmat-orniga-bitta-kabinet-636a23",
     "title": "121ai: Beshta xizmat o'rniga bitta kabinet",
