@@ -1,5 +1,70 @@
 [
   {
+    "id": "bfb23f7755a4",
+    "slug": "aqsh-harbiylari-uchuvchisiz-dronga-sarmoya-kiritdi-bfb23f",
+    "title": "AQSh harbiylari uchuvchisiz dronga sarmoya kiritdi",
+    "summary": "AQSh harbiy-dengiz kuchlari uchish-qo'nish yo'lagisiz ishlaydigan qiruvchi dronga yana 150 million dollar ajratdi. Shield AI kompaniyasi ham ushbu moliyalashtirishga teng miqdorda mablag' qo'shdi. Avtonom X-BAT joriy yil oxirida parvoz sinovlaridan o'tadi.",
+    "tags": [
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-10-09T12:44:00.000Z",
+    "created": "2026-10-09T13:01:43.815Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/offbeat/2026/10/09/us-navy-bets-another-150m-on-fighter-drone-that-skips-the-runway/5302237",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "e46fd1fd14f9",
+    "slug": "ai-poygasida-moliyalashtirish-hal-qiluvchi-rol-oynaydi-e46fd1",
+    "title": "AI poygasida moliyalashtirish hal qiluvchi rol o'ynaydi",
+    "summary": "Fortune nashrining ta'kidlashicha, sun'iy intellekt poygasi taqdirini nafaqat yaxshi chiplar, balki moliyalashtirish ham hal qilishi mumkin. Bu sohadagi raqobatda investitsiyalar muhim ahamiyatga ega.",
+    "tags": [
+      "iqtisod",
+      "chiplar"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-10-09T10:00:43.000Z",
+    "created": "2026-10-09T13:01:43.815Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/10/09/ai-financing-broadcom-openai-debt",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "6cc7bf618543",
+    "slug": "politsiya-bloklangan-iphonelarni-ocha-olishi-malum-boldi-6cc7bf",
+    "title": "Politsiya bloklangan iPhone'larni ocha olishi ma'lum bo'ldi",
+    "summary": "Politsiya xodimlari iPhone xavfsizlik tizimini chetlab o'tish yo'lini topishdi. Shuningdek, kimdir LLM qiynoq kamerasini yaratgani va advokatlar ChatGPT'dan faol foydalanayotgani xabar qilindi.",
+    "tags": [
+      "Apple",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 18.5,
+    "published": "2026-10-08T16:11:25.000Z",
+    "created": "2026-10-09T13:01:43.815Z",
+    "coverage": 1,
+    "source": {
+      "name": "404 Media",
+      "url": "https://404media.co/podcast-leak-show-cops-can-break-into-locked-iphones",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "0d57999b2358",
     "slug": "clear-asoschisi-ai-xavfsizligi-shaxsiyatga-bogliq-0d5799",
     "title": "CLEAR asoschisi: AI xavfsizligi shaxsiyatga bog'liq",
