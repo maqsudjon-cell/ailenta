@@ -1,5 +1,115 @@
 [
   {
+    "id": "0d57999b2358",
+    "slug": "clear-asoschisi-ai-xavfsizligi-shaxsiyatga-bogliq-0d5799",
+    "title": "CLEAR asoschisi: AI xavfsizligi shaxsiyatga bog'liq",
+    "summary": "CLEAR asoschisi tezkor AI'ni xavfsiz qilish uchun shaxsiyatni tasdiqlash qatlamini yaxshilash kerakligini ta'kidladi. Uning fikricha, har bir AI agenti o'z vakolatini insondan oladi.",
+    "tags": [
+      "xavfsizlik",
+      "agentlar"
+    ],
+    "importance": 3,
+    "score": 22,
+    "published": "2026-10-09T12:00:00.000Z",
+    "created": "2026-10-09T12:36:44.618Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/10/09/clear-founder-fast-ai-can-be-safe-ai-when-we-fix-the-identity-layer",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "bcd29fe9f5c5",
+    "slug": "ultra-robot-xizmatlari-uchun-62-mln-dollar-yigdi-bcd29f",
+    "title": "Ultra robot xizmatlari uchun 62 mln dollar yig'di",
+    "summary": "Ultra kompaniyasi \"robotlar xizmat sifatida\" biznesi uchun 62 million dollar sarmoya jalb qildi. U shuningdek, AI tadqiqot firmasi Physical Intelligence bilan hamkorlikni e'lon qildi.",
+    "tags": [
+      "robototexnika",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-10-09T10:33:05.000Z",
+    "created": "2026-10-09T12:36:44.619Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/10/09/ultra-raises-62-million-fast-growing-robots-service-tie-up-ai-research-firm-physical-intelligence",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "0bfdbef9c085",
+    "slug": "black-lake-sanoat-aiga-etibor-qaratmoqda-0bfdbe",
+    "title": "Black Lake sanoat AI'ga e'tibor qaratmoqda",
+    "summary": "TechNode nashri Black Lake kompaniyasining sanoat AI'ga qaratilgan faoliyati haqida yozdi. Kompaniya texnologik rivojlanishlar fonida zavod muammolarini hal qilishga intilmoqda.",
+    "tags": [
+      "biznes",
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-10-09T05:36:18.000Z",
+    "created": "2026-10-09T12:36:44.619Z",
+    "coverage": 1,
+    "source": {
+      "name": "TechNode",
+      "url": "https://technode.com/2026/10/09/eight-years-two-tech-booms-one-factory-problem-inside-black-lakes-bet-on-industrial-ai",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "13d6eda7d100",
+    "slug": "moe-modellarini-tezlashtirish-boyicha-tajriba-13d6ed",
+    "title": "MoE modellarini tezlashtirish bo'yicha tajriba",
+    "summary": "Bir havaskor dasturchi GTX 1660 SUPER videokartasida MoE modellarini tezlashtirishga urindi. U llama.cpp'ning -fit flagi -ngl 99'dan 2,44 barobar tezroq ekanligini aniqladi.",
+    "tags": [
+      "tadqiqot",
+      "ochiq model"
+    ],
+    "importance": 2,
+    "score": 14,
+    "published": "2026-10-09T11:30:08.000Z",
+    "created": "2026-10-09T12:36:44.619Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1092436",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "9e321c45e13f",
+    "slug": "nordic-capital-va-anthropic-ai-joriy-etishda-hamkor-9e321c",
+    "title": "Nordic Capital va Anthropic AI joriy etishda hamkor",
+    "summary": "Nordic Capital va Anthropic kompaniyalari sun'iy intellektni joriy etish bo'yicha hamkorlikni yo'lga qo'ydi. Bu hamkorlik AI texnologiyalarini kengroq qo'llashga qaratilgan.",
+    "tags": [
+      "Anthropic",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 10,
+    "published": "2026-10-09T08:34:27.000Z",
+    "created": "2026-10-09T12:36:44.619Z",
+    "coverage": 1,
+    "source": {
+      "name": "Konsulteer",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONU1fbUZvaEd3c0YwRkVqZ0VLNXJpQzg3N1VILVYxVUlRaVVVMjQyUDlmS09ITjh2SWhDR1ZKcUV5MTJvY2lfX1hEUTR4OTZ1aW8yczF0YmlSUEdPLVc3dUl2UHhZTkhPWWk0SnlqMmI0NzFaZ2NRNlpCT0d1cW9MQzRFbVp6V1VOamU0cktpemZXYWVCd2ZSTmRINnJNYlZQQmE3amlFbzJUUWUyS25rYW5yRGIyeElnZ0otYW5sZ2Y2Zw",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "e96e661e5948",
     "slug": "alisher-hasanov-dasturi-startaplari-daromadini-oshirdi-e96e66",
     "title": "Alisher Hasanov dasturi startaplari daromadini oshirdi",

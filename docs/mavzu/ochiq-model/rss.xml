@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/ochiq-model/</link>
   <description>&quot;ochiq model&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Fri, 09 Oct 2026 12:08:04 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 09 Oct 2026 12:43:09 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/ochiq-model/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>MoE modellarini tezlashtirish bo'yicha tajriba</title>
+    <link>https://ailenta.uz/x/moe-modellarini-tezlashtirish-boyicha-tajriba-13d6ed/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/moe-modellarini-tezlashtirish-boyicha-tajriba-13d6ed/</guid>
+    <pubDate>Fri, 09 Oct 2026 11:30:08 GMT</pubDate>
+    <description>Bir havaskor dasturchi GTX 1660 SUPER videokartasida MoE modellarini tezlashtirishga urindi. U llama.cpp'ning -fit flagi -ngl 99'dan 2,44 barobar tezroq ekanligini aniqladi.</description>
+    <category>tadqiqot</category><category>ochiq model</category>
+    <media:content url="https://ailenta.uz/og/moe-modellarini-tezlashtirish-boyicha-tajriba-13d6ed.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/moe-modellarini-tezlashtirish-boyicha-tajriba-13d6ed.jpg"/>
+  </item>
   <item>
     <title>FRIDA Decisions: rus tili uchun tezkor AI modeli</title>
     <link>https://ailenta.uz/x/frida-decisions-rus-tili-uchun-tezkor-ai-modeli-ad3d69/</link>
