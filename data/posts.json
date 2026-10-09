@@ -1,5 +1,70 @@
 [
   {
+    "id": "2ef3ea35a1ba",
+    "slug": "flock-safety-xodimlari-sonini-qisqartirmoqda-2ef3ea",
+    "title": "Flock Safety xodimlari sonini qisqartirmoqda",
+    "summary": "Sun'iy intellektli kuzatuv kameralari ishlab chiqaruvchi Flock Safety startapi xodimlarining 18 foizini yoki taxminan 270 kishini ishdan bo'shatadi. Bunga mahsulotlarga nisbatan maxfiylik xavotirlari va noroziliklar sabab bo'lgan.",
+    "tags": [
+      "maxfiylik",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 23,
+    "published": "2026-10-09T19:46:53.000Z",
+    "created": "2026-10-09T20:01:47.554Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/world/2026/oct/09/flock-job-cuts",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "0b514fc33287",
+    "slug": "kitob-nashriyotlarida-ai-sababli-norozilik-kelib-chiqdi-0b514f",
+    "title": "Kitob nashriyotlarida AI sababli norozilik kelib chiqdi",
+    "summary": "Uchta yirik nashriyot xodimlari rahbariyat ularni reklama, muqova dizayni va elektron xatlar uchun sun'iy intellektdan foydalanishga majburlayotganidan norozi bo'lmoqda. Nashriyotlarda katta til modellaridan yashirincha foydalanish holatlari ko'paygan.",
+    "tags": [
+      "mehnat bozori"
+    ],
+    "importance": 3,
+    "score": 23,
+    "published": "2026-10-09T19:28:49.000Z",
+    "created": "2026-10-09T20:01:47.554Z",
+    "coverage": 1,
+    "source": {
+      "name": "Wired",
+      "url": "https://wired.com/story/book-publishers-are-quietly-using-more-ai-staff-are-revolting",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "f2c7ae02a75d",
+    "slug": "anthropic-siyosiy-dasturlar-rahbarini-ishga-olmoqda-f2c7ae",
+    "title": "Anthropic siyosiy dasturlar rahbarini ishga olmoqda",
+    "summary": "Anthropic kompaniyasi 2028-yilgi saylovlar oldidan prezidentlik kampaniyalari bilan hamkorlikni nazorat qiluvchi rahbar qidirmoqda. Maqsad har bir nomzod va saylangan rasmiylarga texnologiyani hamda uni boshqarish muhimligini tushuntirishdir.",
+    "tags": [
+      "Anthropic",
+      "siyosat"
+    ],
+    "importance": 4,
+    "score": 15.5,
+    "published": "2026-10-08T23:14:52.000Z",
+    "created": "2026-10-09T20:01:47.554Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/10/08/anthropic-presidential-engagement-program-hiring-political-lead-2028-elections",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "e3d2392ef032",
     "slug": "jeff-bezos-ai-3-kunlik-ish-haftasiga-olib-kelishini-aytdi-e3d239",
     "title": "Jeff Bezos AI 3 kunlik ish haftasiga olib kelishini aytdi",
