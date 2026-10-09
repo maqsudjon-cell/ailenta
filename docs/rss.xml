@@ -5,8 +5,18 @@
   <link>https://ailenta.uz</link>
   <description>Dunyodagi sun'iy intellekt yangiliklari o'zbek tilida. Har soatda yangilanadi, har bir xabarda asl manbaga havola.</description>
   <language>uz</language>
-  <lastBuildDate>Fri, 09 Oct 2026 18:07:22 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 09 Oct 2026 18:40:47 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>IEEE yangi AI chiplari dizayni dasturini taqdim etdi</title>
+    <link>https://ailenta.uz/x/ieee-yangi-ai-chiplari-dizayni-dasturini-taqdim-etdi-b1eb96/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/ieee-yangi-ai-chiplari-dizayni-dasturini-taqdim-etdi-b1eb96/</guid>
+    <pubDate>Fri, 09 Oct 2026 18:00:02 GMT</pubDate>
+    <description>IEEE muhandislar uchun AI apparat vositalari murakkabligini o'rganishga yordam beradigan yangi dasturni yo'lga qo'ydi. Loyiha doirasida chekka AI (edge AI) rivojlanishi va uning cheklovlari tahlil qilinadi.</description>
+    <category>chiplar</category><category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/ieee-yangi-ai-chiplari-dizayni-dasturini-taqdim-etdi-b1eb96.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/ieee-yangi-ai-chiplari-dizayni-dasturini-taqdim-etdi-b1eb96.jpg"/>
+  </item>
   <item>
     <title>Anthropic modeli politsiyaga soxta xabar yubordi</title>
     <link>https://ailenta.uz/x/anthropic-modeli-politsiyaga-soxta-xabar-yubordi-d27589/</link>
@@ -36,6 +46,16 @@
     <category>Anthropic</category><category>xavfsizlik</category>
     <media:content url="https://ailenta.uz/og/anthropic-claude-qoidalariga-ozgartirish-kiritdi-797adf.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/anthropic-claude-qoidalariga-ozgartirish-kiritdi-797adf.jpg"/>
+  </item>
+  <item>
+    <title>Danu Robotics chiqindilarni saralovchi robot yaratmoqda</title>
+    <link>https://ailenta.uz/x/danu-robotics-chiqindilarni-saralovchi-robot-yaratmoqda-fc5d99/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/danu-robotics-chiqindilarni-saralovchi-robot-yaratmoqda-fc5d99/</guid>
+    <pubDate>Fri, 09 Oct 2026 16:45:00 GMT</pubDate>
+    <description>Danu startapi asoschisi Emi Ma olti yildan beri qayta ishlanadigan chiqindilarni saralashning samaraliroq usuli ustida ishlamoqda. Kompaniya chiqindilarni saralovchi robotni yaxshilashga intilmoqda.</description>
+    <category>robototexnika</category>
+    <media:content url="https://ailenta.uz/og/danu-robotics-chiqindilarni-saralovchi-robot-yaratmoqda-fc5d99.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/danu-robotics-chiqindilarni-saralovchi-robot-yaratmoqda-fc5d99.jpg"/>
   </item>
   <item>
     <title>AI agentlari poygasi: investorlar diqqati chiplarda</title>
@@ -186,6 +206,16 @@
     <category>biznes</category><category>qonun</category>
     <media:content url="https://ailenta.uz/og/yuridik-firma-malumot-markazlari-moliyasidan-ogohlantirdi-ae7d0f.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/yuridik-firma-malumot-markazlari-moliyasidan-ogohlantirdi-ae7d0f.jpg"/>
+  </item>
+  <item>
+    <title>AI agentlariga katta kod loyihalarini taqdim etish tajribasi</title>
+    <link>https://ailenta.uz/x/ai-agentlariga-katta-kod-loyihalarini-taqdim-etish-tajribasi-48bd30/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/ai-agentlariga-katta-kod-loyihalarini-taqdim-etish-tajribasi-48bd30/</guid>
+    <pubDate>Fri, 09 Oct 2026 12:50:13 GMT</pubDate>
+    <description>Habr foydalanuvchisi MCP serveri orqali AI agentlariga kodlarni o'qitish tajribasi bilan o'rtoqlashdi. Muallif matnli daraxtlar, build papkalari va agentlarning kontekst bilan ishlash xususiyatlarini tahlil qildi.</description>
+    <category>agentlar</category><category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/ai-agentlariga-katta-kod-loyihalarini-taqdim-etish-tajribasi-48bd30.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/ai-agentlariga-katta-kod-loyihalarini-taqdim-etish-tajribasi-48bd30.jpg"/>
   </item>
   <item>
     <title>AQSh harbiylari uchuvchisiz dronga sarmoya kiritdi</title>
@@ -476,36 +506,6 @@
     <category>robototexnika</category>
     <media:content url="https://ailenta.uz/og/simplexity-robotics-robotni-ikkita-stanokda-ishlashga-o-rgat-e138de.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/simplexity-robotics-robotni-ikkita-stanokda-ishlashga-o-rgat-e138de.jpg"/>
-  </item>
-  <item>
-    <title>ByteDance tadqiqotchilari KV-Cache siqishda xatolik topdi</title>
-    <link>https://ailenta.uz/x/bytedance-tadqiqotchilari-kv-cache-siqishda-xatolik-topdi-8d8076/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/bytedance-tadqiqotchilari-kv-cache-siqishda-xatolik-topdi-8d8076/</guid>
-    <pubDate>Fri, 09 Oct 2026 02:36:37 GMT</pubDate>
-    <description>ByteDance Seed tadqiqot guruhi KV-Cache siqilgan modellarida token joylashuviga qarab aniqlik 40 foizgacha o‘zgarishini aniqladi. Ushbu muammo DeepSeek-V4 kabi modellarga ham ta'sir qiladi.</description>
-    <category>DeepSeek</category><category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/bytedance-tadqiqotchilari-kv-cache-siqishda-xatolik-topdi-8d8076.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/bytedance-tadqiqotchilari-kv-cache-siqishda-xatolik-topdi-8d8076.jpg"/>
-  </item>
-  <item>
-    <title>AI yordamida viruslar loyihasini yaratgan olim bilan suhbat</title>
-    <link>https://ailenta.uz/x/ai-yordamida-viruslar-loyihasini-yaratgan-olim-bilan-suhbat-ebb614/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/ai-yordamida-viruslar-loyihasini-yaratgan-olim-bilan-suhbat-ebb614/</guid>
-    <pubDate>Fri, 09 Oct 2026 00:08:24 GMT</pubDate>
-    <description>Stenford universiteti aspiranti Samuel King 2025-yilda mikroskopik viruslarning genetik loyihasini yaratish uchun generativ AI modelidan foydalangan edi. MIT Technology Review nashri ushbu olim ishtirokida davra suhbati tashkil etadi.</description>
-    <category>tibbiyot</category><category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/ai-yordamida-viruslar-loyihasini-yaratgan-olim-bilan-suhbat-ebb614.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/ai-yordamida-viruslar-loyihasini-yaratgan-olim-bilan-suhbat-ebb614.jpg"/>
-  </item>
-  <item>
-    <title>Google boti shoshilinch tibbiy yordamda asqotishi mumkin</title>
-    <link>https://ailenta.uz/x/google-boti-shoshilinch-tibbiy-yordamda-asqotishi-mumkin-1f74aa/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/google-boti-shoshilinch-tibbiy-yordamda-asqotishi-mumkin-1f74aa/</guid>
-    <pubDate>Thu, 08 Oct 2026 22:48:06 GMT</pubDate>
-    <description>Klinik sinovlar davomida 100 ga yaqin bemor shifokorlar qabuliga kirishdan oldin Google kompaniyasining AMIE boti bilan o‘z kasalliklarini muhokama qildi. Tadqiqotlar AI chatbotlari shoshilinch tibbiy yordam ko‘rsatishda foydali bo‘lishini ko‘rsatmoqda.</description>
-    <category>Google</category><category>tibbiyot</category>
-    <media:content url="https://ailenta.uz/og/google-boti-shoshilinch-tibbiy-yordamda-asqotishi-mumkin-1f74aa.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/google-boti-shoshilinch-tibbiy-yordamda-asqotishi-mumkin-1f74aa.jpg"/>
   </item>
 </channel>
 </rss>

@@ -1,5 +1,70 @@
 [
   {
+    "id": "b1eb962139f0",
+    "slug": "ieee-yangi-ai-chiplari-dizayni-dasturini-taqdim-etdi-b1eb96",
+    "title": "IEEE yangi AI chiplari dizayni dasturini taqdim etdi",
+    "summary": "IEEE muhandislar uchun AI apparat vositalari murakkabligini o'rganishga yordam beradigan yangi dasturni yo'lga qo'ydi. Loyiha doirasida chekka AI (edge AI) rivojlanishi va uning cheklovlari tahlil qilinadi.",
+    "tags": [
+      "chiplar",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 25,
+    "published": "2026-10-09T18:00:02.000Z",
+    "created": "2026-10-09T18:34:19.729Z",
+    "coverage": 1,
+    "source": {
+      "name": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/master-ai-chip-principles-ieee",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "fc5d99061639",
+    "slug": "danu-robotics-chiqindilarni-saralovchi-robot-yaratmoqda-fc5d99",
+    "title": "Danu Robotics chiqindilarni saralovchi robot yaratmoqda",
+    "summary": "Danu startapi asoschisi Emi Ma olti yildan beri qayta ishlanadigan chiqindilarni saralashning samaraliroq usuli ustida ishlamoqda. Kompaniya chiqindilarni saralovchi robotni yaxshilashga intilmoqda.",
+    "tags": [
+      "robototexnika"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-10-09T16:45:00.000Z",
+    "created": "2026-10-09T18:34:19.729Z",
+    "coverage": 1,
+    "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "48bd30b41f56",
+    "slug": "ai-agentlariga-katta-kod-loyihalarini-taqdim-etish-tajribasi-48bd30",
+    "title": "AI agentlariga katta kod loyihalarini taqdim etish tajribasi",
+    "summary": "Habr foydalanuvchisi MCP serveri orqali AI agentlariga kodlarni o'qitish tajribasi bilan o'rtoqlashdi. Muallif matnli daraxtlar, build papkalari va agentlarning kontekst bilan ishlash xususiyatlarini tahlil qildi.",
+    "tags": [
+      "agentlar",
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 11,
+    "published": "2026-10-09T12:50:13.000Z",
+    "created": "2026-10-09T18:34:19.729Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1092488",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "797adf2d5306",
     "slug": "anthropic-claude-qoidalariga-ozgartirish-kiritdi-797adf",
     "title": "Anthropic Claude qoidalariga o'zgartirish kiritdi",
