@@ -1,5 +1,71 @@
 [
   {
+    "id": "e96e661e5948",
+    "slug": "alisher-hasanov-dasturi-startaplari-daromadini-oshirdi-e96e66",
+    "title": "Alisher Hasanov dasturi startaplari daromadini oshirdi",
+    "summary": "Alisher Hasanovning O‘zbekistondagi akseleratsiya dasturi mahalliy startaplarga biznes modellarini yaxshilash va barqaror daromadga chiqishga yordam bermoqda. Ishtirokchi kompaniyalarning yillik takrorlanuvchi daromadi 500 ming dollardan 3 million dollargacha yetdi.",
+    "tags": [
+      "O'zbekiston",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 45,
+    "published": "2026-10-09T09:36:20.000Z",
+    "created": "2026-10-09T12:01:41.946Z",
+    "coverage": 1,
+    "source": {
+      "name": "Pivot",
+      "url": "https://pivot.uz/uz/alisher-hasanov-akseleratsiyasidan-otgan-startaplar-3-milliongacha-yillik-takrorlanuvchi-daromadga-erishdi",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "1064eeb6aaa2",
+    "slug": "firmus-investorlar-shubhasi-sababli-birjadan-voz-kechdi-1064ee",
+    "title": "Firmus investorlar shubhasi sababli birjadan voz kechdi",
+    "summary": "Firmus Technologies kompaniyasi investorlar tomonidan uning AI ma'lumotlar markazi biznesiga qiziqish bo'lmagani sababli Avstraliyadagi eng yirik aksiyalar joylashtirishni bekor qildi. Kompaniya boshqaruvi taklifni davom ettirish aksiyadorlar manfaatlariga mos kelmaydi deb qaror qildi.",
+    "tags": [
+      "biznes",
+      "iqtisod"
+    ],
+    "importance": 3,
+    "score": 23,
+    "published": "2026-10-09T04:37:55.000Z",
+    "created": "2026-10-09T12:01:41.947Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/australia-news/2026/oct/09/firmus-pulls-asx-float-datacentre-investor-doubt-australia",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "a170b5a1f0d1",
+    "slug": "oq-uy-sobiq-rasmiysi-ai-biologik-xavfsizligi-haqida-a170b5",
+    "title": "Oq uy sobiq rasmiysi AI biologik xavfsizligi haqida",
+    "summary": "Oq uyning biologik xavfsizlik bo‘yicha sobiq rasmiysi sun'iy intellekt xavfsizligi uchun ixtiyoriy choralardan ko‘proq narsa kerakligini ta'kidladi. Uning fikricha, inqirozdan oldin aniq harakat mexanizmlari joriy etilishi zarur.",
+    "tags": [
+      "xavfsizlik",
+      "siyosat"
+    ],
+    "importance": 2,
+    "score": 19,
+    "published": "2026-10-09T11:30:00.000Z",
+    "created": "2026-10-09T12:01:41.947Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/10/09/ai-biosecurity-warning-signs-action-plan",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "efa3cc0048ca",
     "slug": "anthropic-iposi-nazoratsiz-ai-xavfi-masalasini-kotardi-efa3cc",
     "title": "Anthropic IPO'si nazoratsiz AI xavfi masalasini ko'tardi",
