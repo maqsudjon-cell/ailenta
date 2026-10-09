@@ -1,5 +1,92 @@
 [
   {
+    "id": "7b2cb15b39a3",
+    "slug": "eronlik-chatgpt-foydalanuvchilari-soxta-maqolalar-chop-etdi-7b2cb1",
+    "title": "Eronlik ChatGPT foydalanuvchilari soxta maqolalar chop etdi",
+    "summary": "OpenAI ma'lumotiga ko'ra, Eronlik ChatGPT foydalanuvchilari 20 dan ortiq yangilik manbalarida 100 dan ortiq soxta maqola chop etgan. Bu holat sun'iy intellektni noto'g'ri ishlatish xavfini ko'rsatadi.",
+    "tags": [
+      "OpenAI",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 28.8,
+    "published": "2026-10-09T09:00:00.000Z",
+    "created": "2026-10-09T21:41:18.471Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Washington Post",
+      "url": "https://washingtonpost.com/technology/2026/10/09/chatgpt-users-iran-planted-ai-generated-articles-us-news-media",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "9cbe8a8d5b8a",
+    "slug": "ai-britaniya-rejissyorlarining-kelajagiga-tahdid-solmoqda-9cbe8a",
+    "title": "AI Britaniya rejissyorlarining kelajagiga tahdid solmoqda",
+    "summary": "The Guardian nashrining yozishicha, avtomatlashtirilgan ishlab chiqarish reklama sohasida xarajatlarni kamaytirib, yosh rejissyorlarning tajriba orttirish imkoniyatini cheklamoqda. Bu holat Britaniya kino sanoatida yangi iste'dodlar paydo bo'lishiga salbiy ta'sir ko'rsatishi mumkin.",
+    "tags": [
+      "mehnat bozori",
+      "iqtisod"
+    ],
+    "importance": 3,
+    "score": 23,
+    "published": "2026-10-09T15:00:31.000Z",
+    "created": "2026-10-09T21:41:18.471Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/film/2026/oct/09/ai-threat-britain-directors-ridley-scott-guy-ritchie",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "00d1c91f4638",
+    "slug": "ai-matematik-masalalarni-insonlardan-tezroq-yechmoqda-00d1c9",
+    "title": "AI matematik masalalarni insonlardan tezroq yechmoqda",
+    "summary": "OpenAI'ning matematikadagi yutuqlari AI'ning masalalarni inson tushunishidan tezroq yechishiga olib kelmoqda. Bu holat matematiklar orasida \"o'zlik inqirozi\"ni keltirib chiqarishi mumkin.",
+    "tags": [
+      "OpenAI",
+      "tadqiqot"
+    ],
+    "importance": 4,
+    "score": 15.3,
+    "published": "2026-10-09T00:28:26.000Z",
+    "created": "2026-10-09T21:41:18.471Z",
+    "coverage": 1,
+    "source": {
+      "name": "Platformer",
+      "url": "https://platformer.news/openai-math-breakthroughs-tao-reaction",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "19c45cc3b756",
+    "slug": "blogga-ovoz-yordamida-yangi-funksiya-qoshildi-19c45c",
+    "title": "Blogga ovoz yordamida yangi funksiya qo'shildi",
+    "summary": "Simon Willison o'z blogiga yangi funksiya qo'shdi. U ushbu funksiyani ChatGPT desktop ilovasining ovozli suhbat rejimida, deyarli butunlay ovozi yordamida yaratgan.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-10-09T12:54:06.000Z",
+    "created": "2026-10-09T21:41:18.471Z",
+    "coverage": 1,
+    "source": {
+      "name": "Simon Willison",
+      "url": "https://simonwillison.net/2026/Oct/9/built-using-my-voice",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "2ef3ea35a1ba",
     "slug": "flock-safety-xodimlari-sonini-qisqartirmoqda-2ef3ea",
     "title": "Flock Safety xodimlari sonini qisqartirmoqda",
