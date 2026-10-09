@@ -1,5 +1,93 @@
 [
   {
+    "id": "ffb664430fda",
+    "slug": "aining-yoq-deyish-qobiliyatiga-haddan-tashqari-ishonch-ffb664",
+    "title": "AI'ning \"yo'q\" deyish qobiliyatiga haddan tashqari ishonch",
+    "summary": "MIT Technology Review nashri AI'ning \"yo'q\" deyish qobiliyatiga haddan tashqari ishonch bildirilayotganini ta'kidladi. Maqolada robotlarning itoatsizligi haqidagi ilmiy-fantastik hikoyalar eslatib o'tilgan.",
+    "tags": [
+      "tadqiqot",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 23,
+    "published": "2026-10-09T09:00:00.000Z",
+    "created": "2026-10-09T09:39:10.718Z",
+    "coverage": 1,
+    "source": {
+      "name": "MIT Technology Review",
+      "url": "https://technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "f1be6201db07",
+    "slug": "buyuk-britaniya-innovatsiyalar-orqali-boyishi-mumkin-f1be62",
+    "title": "Buyuk Britaniya innovatsiyalar orqali boyishi mumkin",
+    "summary": "Buyuk Britaniyaning sobiq bosh vaziri Gordon Brown mamlakat innovatsiyalar orqali har bir xonadonni £5,000 ga boyitishi mumkinligini aytdi. U AI va kvant hisoblash kabi sohalardagi yutuqlarni hukumat siyosatining markaziga qo'yishga chaqirdi.",
+    "tags": [
+      "siyosat",
+      "iqtisod"
+    ],
+    "importance": 2,
+    "score": 23,
+    "published": "2026-10-09T05:00:39.000Z",
+    "created": "2026-10-09T09:39:10.718Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/commentisfree/2026/oct/09/gordon-brown-british-households-5000-richer-innovation",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "429b12e0917d",
+    "slug": "ai-davrida-dasturlash-kasbi-dolzarbligini-saqlaydi-429b12",
+    "title": "AI davrida dasturlash kasbi dolzarbligini saqlaydi",
+    "summary": "Carson Grossning fikricha, AI vositalari paydo bo'lishiga qaramay, kompyuterlar yordamida muammolarni hal qilish va murakkablikni boshqarish qobiliyati o'z qadrini yo'qotmaydi. Dasturlash kelajakda ham dolzarb kasb bo'lib qoladi.",
+    "tags": [
+      "mehnat bozori",
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 14.8,
+    "published": "2026-10-08T21:05:44.000Z",
+    "created": "2026-10-09T09:39:10.718Z",
+    "coverage": 1,
+    "source": {
+      "name": "Simon Willison",
+      "url": "https://simonwillison.net/2026/Oct/8/carson-gross",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "56fc230d450e",
+    "slug": "claude-ai-javoblarini-manipulyatsiya-qiluvchi-manbalarga-qar-56fc23",
+    "title": "Claude AI javoblarini manipulyatsiya qiluvchi manbalarga qarshi",
+    "summary": "Claude AI o'zining yangi qoidalarini e'lon qildi. Bu qoidalar sun'iy intellekt javoblariga ta'sir o'tkazish uchun yaratilgan soxta manbalarga qarshi kurashishga qaratilgan.",
+    "tags": [
+      "Anthropic",
+      "xavfsizlik"
+    ],
+    "importance": 4,
+    "score": 7,
+    "published": "2026-10-09T08:00:16.000Z",
+    "created": "2026-10-09T09:39:10.718Z",
+    "coverage": 1,
+    "source": {
+      "name": "Search Engine Journal",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTEpQYV90MkdXV2JLY1p1Qmtqc0JxWlAycFJEVndiTXA5RGM1Sl9hODZtc3JubkdWdm5uazlEVTBmZmtfeks3TElObWNUdk5qTVlyWkV3SU5OVS1NeVF0cVlWeDVURVZFU0lRc1VBR1pmdnVqQjlEZnlPUGNaRU1SejV2YjZOM1k",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "840ea549b235",
     "slug": "ai-orqali-qilingan-fishing-hujumlari-xavfi-ortmoqda-840ea5",
     "title": "AI orqali qilingan fishing hujumlari xavfi ortmoqda",
