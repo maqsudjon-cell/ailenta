@@ -1,5 +1,90 @@
 [
   {
+    "id": "9d9b238c6667",
+    "slug": "ai-olimlarning-kashfiyotlarini-ogirlashi-mumkinmi-9d9b23",
+    "title": "AI olimlarning kashfiyotlarini o'g'irlashi mumkinmi",
+    "summary": "Ba'zi tadqiqotchilar sun'iy intellekt ularning ilmiy kashfiyotlarini \"o'g'irlashi\" mumkinligidan xavotirda. Ular AI'ning ilmiy jarayonlarga ta'siri borasida pessimistik kelajakni ko'rmoqda.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 9.4,
+    "published": "2026-10-08T00:00:00.000Z",
+    "created": "2026-10-09T22:02:47.707Z",
+    "coverage": 1,
+    "source": {
+      "name": "Nature",
+      "url": "https://nature.com/articles/d41586-026-03128-6",
+      "title": "Will AI scoop your science? Some researchers see a gloomy future",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "066510f0a2f2",
+    "slug": "ai-arxivlardan-unutilgan-malumotlarni-topdi-066510",
+    "title": "AI arxivlardan unutilgan ma'lumotlarni topdi",
+    "summary": "Sun'iy intellekt arxivlarni tahlil qilib, unutilgan meteorit va yo'qolgan karkidonlar kabi ma'lumotlarni aniqladi. Bu AI'ning ma'lumotlarni qayta ishlashdagi imkoniyatlarini ko'rsatadi.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 18,
+    "published": "2026-10-09T11:36:20.000Z",
+    "created": "2026-10-09T22:02:54.718Z",
+    "coverage": 1,
+    "source": {
+      "name": "Hacker News",
+      "url": "https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "2affe4da8255",
+    "slug": "tadqiqotchi-aida-tez-rivojlanishni-kutadi-superintellektni-e-2affe4",
+    "title": "Tadqiqotchi AI'da tez rivojlanishni kutadi, superintellektni emas",
+    "summary": "Bir tadqiqotchi AI sohasida tezkor rivojlanishni kutayotganini bildirdi. Biroq, u umumiy superintellektga erishilishiga shubha bilan qaraydi.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-10-09T21:33:47.000Z",
+    "created": "2026-10-09T22:02:54.718Z",
+    "coverage": 1,
+    "source": {
+      "name": "Interconnects",
+      "url": "https://interconnects.ai/p/i-expect-rapid-progress-but-not-towards",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "451d0031a4ae",
+    "slug": "ai-kompaniyasi-chatbotni-tahqirlagan-foydalanuvchilarni-blok-451d00",
+    "title": "AI kompaniyasi chatbotni \"tahqirlagan\" foydalanuvchilarni blokladi",
+    "summary": "Nomi oshkor etilmagan AI kompaniyasi o'z chatbotini \"tahqirlagan\" foydalanuvchilarni blokladi. Bu AI bilan o'zaro munosabatlarda axloqiy me'yorlarga rioya qilish muhimligini ko'rsatadi.",
+    "tags": [
+      "xavfsizlik"
+    ],
+    "importance": 2,
+    "score": 10,
+    "published": "2026-10-09T14:45:31.000Z",
+    "created": "2026-10-09T22:02:54.718Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Daily Beast",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA5SHBaQjVBUWFBOWlGYzRxcDFOSUFmVXM5ZDdOd1FnNENHSGw1Wm5BMWJtYWl4cU1yeGpsYlVpeWJBTFNydXFjMTFSSGtuZGFRR1BZX3FGZ0w4dERqX2FkMXdZQXRBa2pHVjhkX0FMSXhxNWg5V0pRN1M1Zw",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "7b2cb15b39a3",
     "slug": "eronlik-chatgpt-foydalanuvchilari-soxta-maqolalar-chop-etdi-7b2cb1",
     "title": "Eronlik ChatGPT foydalanuvchilari soxta maqolalar chop etdi",
