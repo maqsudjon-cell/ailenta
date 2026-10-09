@@ -5,7 +5,7 @@
   <link>https://ailenta.uz/mavzu/tadqiqot/</link>
   <description>&quot;tadqiqot&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Fri, 09 Oct 2026 06:06:41 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 09 Oct 2026 06:42:51 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/tadqiqot/rss.xml" rel="self" type="application/rss+xml"/>
   <item>
     <title>Diffu-LoRA usuli taqdim etildi</title>
@@ -248,6 +248,16 @@
     <media:thumbnail url="https://ailenta.uz/og/tadqiqotchilar-ai-yordamida-toyota-avtomobilini-boshqardi-c158cc.jpg"/>
   </item>
   <item>
+    <title>Hujayralar faoliyatini bashorat qiluvchi AI loyihasi</title>
+    <link>https://ailenta.uz/x/hujayralar-faoliyatini-bashorat-qiluvchi-ai-loyihasi-2b7c32/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/hujayralar-faoliyatini-bashorat-qiluvchi-ai-loyihasi-2b7c32/</guid>
+    <pubDate>Wed, 07 Oct 2026 17:58:20 GMT</pubDate>
+    <description>Biohub tashkiloti hujayralar faoliyatini bashorat qiluvchi AI modellarini o'qitish uchun 1,8 milliard dollarlik loyihani boshladi. Uni Meta, Google DeepMind va AQSh Energetika vazirligi moliyalashtirmoqda. Birinchi ma'lumotlar to'plami taxminan bir yilda tayyor bo'ladi.</description>
+    <category>Meta</category><category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/hujayralar-faoliyatini-bashorat-qiluvchi-ai-loyihasi-2b7c32.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/hujayralar-faoliyatini-bashorat-qiluvchi-ai-loyihasi-2b7c32.jpg"/>
+  </item>
+  <item>
     <title>AI o‘qitishda ko‘p markazli tarmoq muammosi</title>
     <link>https://ailenta.uz/x/ai-o-qitishda-ko-p-markazli-tarmoq-muammosi-5d7fcd/</link>
     <guid isPermaLink="true">https://ailenta.uz/x/ai-o-qitishda-ko-p-markazli-tarmoq-muammosi-5d7fcd/</guid>
@@ -296,16 +306,6 @@
     <category>Anthropic</category><category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/musiqachi-claude-code-yordamida-vst-plaginlari-yaratdi-5c18f3.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/musiqachi-claude-code-yordamida-vst-plaginlari-yaratdi-5c18f3.jpg"/>
-  </item>
-  <item>
-    <title>AI agentini noldan yozishning murakkabliklari muhokama qilindi</title>
-    <link>https://ailenta.uz/x/ai-agentini-noldan-yozishning-murakkabliklari-muhokama-qilin-0c22c0/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/ai-agentini-noldan-yozishning-murakkabliklari-muhokama-qilin-0c22c0/</guid>
-    <pubDate>Wed, 07 Oct 2026 13:16:59 GMT</pubDate>
-    <description>Habr nashrida AI agentini noldan yozishning murakkabliklari va uning ichki tuzilishi tahlil qilindi. Maqolada agent tizimining qismlari va har birining alohida loyihaga aylanish sabablari ko‘rsatilgan.</description>
-    <category>tadqiqot</category><category>agentlar</category>
-    <media:content url="https://ailenta.uz/og/ai-agentini-noldan-yozishning-murakkabliklari-muhokama-qilin-0c22c0.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/ai-agentini-noldan-yozishning-murakkabliklari-muhokama-qilin-0c22c0.jpg"/>
   </item>
 </channel>
 </rss>
