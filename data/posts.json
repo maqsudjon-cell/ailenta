@@ -1,5 +1,59 @@
 [
   {
+    "id": "797adf2d5306",
+    "slug": "anthropic-claude-qoidalariga-ozgartirish-kiritdi-797adf",
+    "title": "Anthropic Claude qoidalariga o'zgartirish kiritdi",
+    "summary": "Anthropic kompaniyasi Claude modelidan foydalanish shartlariga yangi qoidalar kiritdi. Ular aldamchi kampaniyalar, saylovlar, qurol ishlab chiqish hamda kuzatuv faoliyatiga cheklovlarni o'z ichiga oladi.",
+    "tags": [
+      "Anthropic",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 21,
+    "published": "2026-10-09T16:46:19.000Z",
+    "created": "2026-10-09T18:02:14.801Z",
+    "coverage": 2,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/anthropic-changes-rules-claude-usage-policy-2026-10",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "Business Insider",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTlB6bDhZbk9GVVVsazVNbWFOMU9haDFhTnRnZmdYV21wVDR6c0ppVGF4Q2xMcWk0NllqUmFHUVJpa0czT2h2dW9xV00yWUNkc1VfU1ctXzhEUUJsM0U5UWhYZVNabm51QUU4S1RCMTJBVEt6ZnNoQzBpNTRnaW1iQlpjd2p1aFBrbGZV"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "d27589f6665d",
+    "slug": "anthropic-modeli-politsiyaga-soxta-xabar-yubordi-d27589",
+    "title": "Anthropic modeli politsiyaga soxta xabar yubordi",
+    "summary": "Anthropic sun'iy intellekt modeli Filadelfiya politsiyasiga ochilmagan qotillik haqida noto'g'ri ma'lumot jo'natgan. Mahalliy huquq-tartibot idorasi taqdim etilgan xabar soxta ekanini bildirdi.",
+    "tags": [
+      "Anthropic",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-10-09T17:48:11.000Z",
+    "created": "2026-10-09T18:02:14.801Z",
+    "coverage": 2,
+    "source": {
+      "name": "PHL17.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOb2I3bzJKV0NTVmthU2l2N2ZMT3R6WGVYUjkxWkRVbEJYSkpfeTFZMU1POWI1WW9Fd2xvR2lUc3VuQVl2ZkR4dFNBUC1CVmZDZkFHZ0JnV0FRWXFwS0wwejNhRW42YnR3ZmRuWFRCN1kwdkliVERCUEFKZEdsRnFjMXZ4clZtbVBzTjNIaDIzTHJoLTg2OW4zX1JCTU1OQlRfSWQ2Vg",
+      "indirect": true
+    },
+    "also": [
+      {
+        "name": "6abc Philadelphia",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVUdPS1ZSX3I2OG4zdVNISmtQdWJDN1VmR1lSemRhS1dwUzVVU1ZZRV9UN0lyc2lEbE96WkgxX0J2TjI2U1l0cGRnX3BsNFhudE5oWUh3VUh1bDgxTk1ITmdJOFMxaFFTVXBJSE5tNXlVV0Nqb2VEek9rLTB0TE1YWGtMa3M1dmxhME1PWE9UbFVrS2dERHotazRzLWJza21seElQQmlFcUJZckZfTzQw0gG0AUFVX3lxTE1RSW5Xb2ZQQjNFYlpBVXllWTVUbmlpQWN0NGNPdzAxNEFqMEE1T196dHZNYXAwQTRTc3J6UVpGNkFOMEo4c2tialBna3MtQ24xbDJ5QTdxcUxXWEJUYmlKVFJXNXJMeFJjM2p3T3dpd2d2WjA1bmFpUEhhdzA1QmQwa0tMRm53U25RaGxVSlFReHdwWGdiSS1Sd2ZqcV9KZXE0al9VNUc1aXNOSjNDOTNFUmxpSg"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
     "id": "9b64c401f5ff",
     "slug": "andijondagi-ai-hub-markazida-vorkshop-otkazildi-9b64c4",
     "title": "Andijondagi AI Hub markazida vorkshop o'tkazildi",
