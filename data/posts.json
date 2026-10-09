@@ -1,5 +1,179 @@
 [
   {
+    "id": "1915e47be737",
+    "slug": "taqsimlangan-ai-oqitish-tarmoqqa-tasir-qilmoqda-1915e4",
+    "title": "Taqsimlangan AI o'qitish tarmoqqa ta'sir qilmoqda",
+    "summary": "Ma'lumotlar markazidagi GPU'larni ulash qiyin bo'lsa-da, minglab GPU'larni yuzlab kilometr masofada muvofiqlashtirish yangi qiyinchiliklarni keltirib chiqarmoqda. Bu taqsimlangan AI o'qitish jarayonida tarmoqni o'zgartirmoqda.",
+    "tags": [
+      "bulut",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 25,
+    "published": "2026-10-09T15:00:00.000Z",
+    "created": "2026-10-09T15:02:30.340Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/networks/2026/10/09/sponsored-growing-pains-how-distributed-ai-training-changes-the-network-between-datacenters/5301554",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "95ab1d47c962",
+    "slug": "ai-kompaniyalari-jamoatchilik-isyoniga-tayyorlanmoqda-95ab1d",
+    "title": "AI kompaniyalari jamoatchilik isyoniga tayyorlanmoqda",
+    "summary": "Axios nashrining xabar berishicha, AI kompaniyalari jamoatchilik isyoni yuz bergan taqdirda harakat qilish ssenariylarini rejalashtirmoqda.",
+    "tags": [
+      "xavfsizlik",
+      "biznes"
+    ],
+    "importance": 4,
+    "score": 23,
+    "published": "2026-10-09T09:34:08.000Z",
+    "created": "2026-10-09T15:02:30.340Z",
+    "coverage": 1,
+    "source": {
+      "name": "Axios",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1ha1RBX2ZHb3UzTExKcWhNY05zSVM4Q093ai1JU19kekVLMFFXZHBzUUxpQkpIOHZTN2NUUzBLSUNldEZZNEVjREkxT1gtRzdLZTRsZU1vck1mY09HdUVMQmR1X3lWdzZFcGoxWkJFNDVGcGx1ZTZN",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "157e66793170",
+    "slug": "ai-malumotlar-markazlariga-investitsiya-xavfi-ortmoqda-157e66",
+    "title": "AI ma'lumotlar markazlariga investitsiya xavfi ortmoqda",
+    "summary": "Uoll-strit firmalari AI ma'lumotlar markazlariga investitsiyalarni ommaviy bozorlarga olib chiqmoqda. Biroq siyosiy, likvidlik va loyiha xavflari ortib bormoqda.",
+    "tags": [
+      "bulut",
+      "iqtisod"
+    ],
+    "importance": 3,
+    "score": 22,
+    "published": "2026-10-09T13:59:12.000Z",
+    "created": "2026-10-09T15:02:30.340Z",
+    "coverage": 1,
+    "source": {
+      "name": "CNBC",
+      "url": "https://cnbc.com/2026/10/09/ai-data-centers-investing.html",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "eb04a676f340",
+    "slug": "shaxsiy-kompyuterlar-yetkazib-berish-20-foizga-kamaydi-eb04a6",
+    "title": "Shaxsiy kompyuterlar yetkazib berish 20 foizga kamaydi",
+    "summary": "Global shaxsiy kompyuterlar yetkazib berish hajmi 20 foizga kamaydi. AI sababli butlovchi qismlar taqchilligi narxlarni oshirib, talabni pasaytirib yubordi.",
+    "tags": [
+      "chiplar",
+      "iqtisod"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-10-09T13:44:00.000Z",
+    "created": "2026-10-09T15:02:30.340Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/personal-tech/2026/10/09/global-pc-shipments-crater-20-as-rising-prices-hammer-demand/5302264",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "5716884ab02c",
+    "slug": "ai-tsikli-texnologik-pufak-ssenariysiga-mos-kelmoqda-571688",
+    "title": "AI tsikli texnologik pufak ssenariysiga mos kelmoqda",
+    "summary": "Iqtisodchilar texnologik pufaklarni batafsil tasvirlab berishgan. AI tsikli ushbu rejaga juda mos kelayotgani diqqatga sazovordir.",
+    "tags": [
+      "iqtisod"
+    ],
+    "importance": 2,
+    "score": 19,
+    "published": "2026-10-09T13:20:23.000Z",
+    "created": "2026-10-09T15:02:30.340Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/10/09/ai-savings-banks-wont-say-it-in-earnings",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "b54c4270426b",
+    "slug": "revolut-suniy-intellektli-xarid-xizmatini-yolga-qoyadi-b54c42",
+    "title": "Revolut sun'iy intellektli xarid xizmatini yo'lga qo'yadi",
+    "summary": "Revolut kompaniyasi yangi xizmatni taqdim etadi. Bu AI tijorati rivojlanishi fonida agentli xarid qilish imkonini beradi.",
+    "tags": [
+      "agentlar",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 18,
+    "published": "2026-10-09T15:15:36.000Z",
+    "created": "2026-10-09T15:02:30.341Z",
+    "coverage": 1,
+    "source": {
+      "name": "Sifted",
+      "url": "https://sifted.eu/articles/revolut-agentic-shopping",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "fb7caecd7db7",
+    "slug": "sabi-fikrni-ai-soroviga-aylantiruvchi-kepka-yaratmoqda-fb7cae",
+    "title": "Sabi fikrni AI so'roviga aylantiruvchi kepka yaratmoqda",
+    "summary": "Sabi startapi neyron signallarini AI tizimlari uchun matnli so'rovlarga aylantiruvchi kepka yaratish uchun 50 million dollar sarmoya jalb qildi. 100 ming datchikka ega kepka odamlarga faqat fikrlash orqali AI agentlari bilan muloqot qilish imkonini beradi.",
+    "tags": [
+      "agentlar",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 18,
+    "published": "2026-10-09T14:55:01.000Z",
+    "created": "2026-10-09T15:02:30.341Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/261009/p15",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "9f87250bc5a7",
+    "slug": "yandex-malumotlar-markazida-ketma-ket-muammolar-yuz-berdi-9f8725",
+    "title": "Yandex ma'lumotlar markazida ketma-ket muammolar yuz berdi",
+    "summary": "Yandex kompaniyasi ma'lumotlar markazida muammoga duch keldi. Bu oxirgi 48 soat ichida yuz bergan ikkinchi holatdir.",
+    "tags": [
+      "bulut"
+    ],
+    "importance": 2,
+    "score": 17.1,
+    "published": "2026-10-09T14:20:19.000Z",
+    "created": "2026-10-09T15:02:30.341Z",
+    "coverage": 1,
+    "source": {
+      "name": "Hacker News",
+      "url": "https://united24media.com/war-in-ukraine/yandex-takes-a-second-data-center-hit-in-48-hours-now-its-biggest-russian-site-is-damaged-23277",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "bfb23f7755a4",
     "slug": "aqsh-harbiylari-uchuvchisiz-dronga-sarmoya-kiritdi-bfb23f",
     "title": "AQSh harbiylari uchuvchisiz dronga sarmoya kiritdi",
