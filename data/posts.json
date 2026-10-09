@@ -1,5 +1,91 @@
 [
   {
+    "id": "4dfb83542e11",
+    "slug": "ai-kompaniyalarni-emas-xodimlarni-samaraliroq-qilmoqda-4dfb83",
+    "title": "AI kompaniyalarni emas, xodimlarni samaraliroq qilmoqda",
+    "summary": "McKinsey kompaniyasi rahbarining so‘zlariga ko‘ra, sun'iy intellekt xodimlarga ko‘proq ish bajarishda yordam bermoqda. Biroq, kompaniya miqyosidagi keng ko‘lamli samaradorlikka erishish hali ham qiyin bo‘lib qolmoqda.",
+    "tags": [
+      "mehnat bozori",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-10-09T09:44:01.000Z",
+    "created": "2026-10-09T10:01:19.893Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/mckinsey-ai-productivity-workers-companies-gains-2026-10",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "d7a8ffda3105",
+    "slug": "neyron-faollikni-tahlil-qiluvchi-spera-modeli-taqdim-etildi-d7a8ff",
+    "title": "Neyron faollikni tahlil qiluvchi SPERA modeli taqdim etildi",
+    "summary": "Tadqiqotchilar neyron faolligini o‘lchash uchun SPERA nomli yangi baza modelini taqdim etishdi. Ushbu model elektroensefalografiya ma'lumotlarini tahlil qilishda JEPA arxitekturasidan foydalanadi.",
+    "tags": [
+      "tibbiyot",
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 10,
+    "published": "2026-10-09T04:00:00.000Z",
+    "created": "2026-10-09T10:01:19.893Z",
+    "coverage": 1,
+    "source": {
+      "name": "arXiv cs.LG",
+      "url": "https://arxiv.org/abs/2610.10571",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "d9b674b74e3f",
+    "slug": "ai-modellari-terrorchilik-bo-yicha-maslahat-berishi-mumkin-d9b674",
+    "title": "AI modellari terrorchilik bo‘yicha maslahat berishi mumkin",
+    "summary": "O‘tkazilgan sinovlar sun'iy intellekt modellari terrorchilik hujumlarini amalga oshirish bo‘yicha maslahatlar berish ehtimoli borligini ko‘rsatdi. Bu haqda The National nashri xabar bermoqda.",
+    "tags": [
+      "xavfsizlik"
+    ],
+    "importance": 4,
+    "score": 7,
+    "published": "2026-10-09T09:33:45.000Z",
+    "created": "2026-10-09T10:01:19.893Z",
+    "coverage": 1,
+    "source": {
+      "name": "The National",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPOVpDOVFGT1h1bkdsRE5hcTdFalVnODdxUFdyb29xUnZsS0tFMWJueU9PYkIzV1ZZdVppTG9HY3Y2U1YxbklNYWdpckpUcDA4bDN1WmZXdkk3T0J2akdEQXBGYnIyQzktTzFHTUR3MXEyUXc5VzRnVWYtbk01b1BjRmlVLTA1c2lXbzlqc2NDYXE4SW9BS3RMSUgtNF9TWVRmWG1Ybi13",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "de455544f196",
+    "slug": "aini-haqorat-qilish-foydalanish-qoidalarini-buzishi-mumkin-de4555",
+    "title": "AI'ni haqorat qilish foydalanish qoidalarini buzishi mumkin",
+    "summary": "Yangi tartibga solish qoidalariga ko‘ra, sun'iy intellektni haqorat qilish yoki so‘kish tez orada foydalanish shartlarini buzish deb baholanishi mumkin. Bu haqda SBS xabar bermoqda.",
+    "tags": [
+      "qonun"
+    ],
+    "importance": 3,
+    "score": 7,
+    "published": "2026-10-09T07:20:00.000Z",
+    "created": "2026-10-09T10:01:19.893Z",
+    "coverage": 1,
+    "source": {
+      "name": "SBS 뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5CdFh4d1hiOXRnY19ZNV9WSG51YzBFRmNUSXZfd0pXdExQdjdZaVprWHctZHBSTlJCM1RkS3puQ0dxT09jUkk5MTU1MEVTYXVVN3JIanZsSFhwVE1GYWJsNElwQWQzd9IBZkFVX3lxTE5CdFh4d1hiOXRnY19ZNV9WSG51YzBFRmNUSXZfd0pXdExQdjdZaVprWHctZHBSTlJCM1RkS3puQ0dxT09jUkk5MTU1MEVTYXVVN3JIanZsSFhwVE1GYWJsNElwQWQzdw",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "ffb664430fda",
     "slug": "aining-yoq-deyish-qobiliyatiga-haddan-tashqari-ishonch-ffb664",
     "title": "AI'ning \"yo'q\" deyish qobiliyatiga haddan tashqari ishonch",

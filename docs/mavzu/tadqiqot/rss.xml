@@ -5,7 +5,7 @@
   <link>https://ailenta.uz/mavzu/tadqiqot/</link>
   <description>&quot;tadqiqot&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Fri, 09 Oct 2026 09:45:31 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 09 Oct 2026 10:07:39 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/tadqiqot/rss.xml" rel="self" type="application/rss+xml"/>
   <item>
     <title>AI'ning &quot;yo'q&quot; deyish qobiliyatiga haddan tashqari ishonch</title>
@@ -16,6 +16,16 @@
     <category>tadqiqot</category><category>xavfsizlik</category>
     <media:content url="https://ailenta.uz/og/aining-yoq-deyish-qobiliyatiga-haddan-tashqari-ishonch-ffb664.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/aining-yoq-deyish-qobiliyatiga-haddan-tashqari-ishonch-ffb664.jpg"/>
+  </item>
+  <item>
+    <title>Neyron faollikni tahlil qiluvchi SPERA modeli taqdim etildi</title>
+    <link>https://ailenta.uz/x/neyron-faollikni-tahlil-qiluvchi-spera-modeli-taqdim-etildi-d7a8ff/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/neyron-faollikni-tahlil-qiluvchi-spera-modeli-taqdim-etildi-d7a8ff/</guid>
+    <pubDate>Fri, 09 Oct 2026 04:00:00 GMT</pubDate>
+    <description>Tadqiqotchilar neyron faolligini o‘lchash uchun SPERA nomli yangi baza modelini taqdim etishdi. Ushbu model elektroensefalografiya ma'lumotlarini tahlil qilishda JEPA arxitekturasidan foydalanadi.</description>
+    <category>tibbiyot</category><category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/neyron-faollikni-tahlil-qiluvchi-spera-modeli-taqdim-etildi-d7a8ff.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/neyron-faollikni-tahlil-qiluvchi-spera-modeli-taqdim-etildi-d7a8ff.jpg"/>
   </item>
   <item>
     <title>Diffu-LoRA usuli taqdim etildi</title>
@@ -296,16 +306,6 @@
     <category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/ai-11-ta-kvadratni-optimal-joylashtirish-isbotiga-yordam-ber-5f65c4.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/ai-11-ta-kvadratni-optimal-joylashtirish-isbotiga-yordam-ber-5f65c4.jpg"/>
-  </item>
-  <item>
-    <title>AI poygasi miyani nazorat qilishga qaratilgan</title>
-    <link>https://ailenta.uz/x/ai-poygasi-miyani-nazorat-qilishga-qaratilgan-692ea6/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/ai-poygasi-miyani-nazorat-qilishga-qaratilgan-692ea6/</guid>
-    <pubDate>Wed, 07 Oct 2026 13:57:02 GMT</pubDate>
-    <description>Stenford neyroolim olimi Andrew Hubermanning fikricha, AI bo‘yicha haqiqiy poyga inson miyasini nazorat qilishga qaratilgan. Uning aytishicha, OpenAI, Meta va Anthropic miyani o‘qish va o‘zgartirish uchun raqobatlashuvchi biotexnologiya firmalariga aylanadi.</description>
-    <category>tadqiqot</category><category>xavfsizlik</category>
-    <media:content url="https://ailenta.uz/og/ai-poygasi-miyani-nazorat-qilishga-qaratilgan-692ea6.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/ai-poygasi-miyani-nazorat-qilishga-qaratilgan-692ea6.jpg"/>
   </item>
 </channel>
 </rss>
