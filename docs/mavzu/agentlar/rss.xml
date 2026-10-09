@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/agentlar/</link>
   <description>&quot;agentlar&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Fri, 09 Oct 2026 07:07:35 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 09 Oct 2026 08:07:44 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/agentlar/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>ByteDance o‘zining TRAE platformalarini birlashtirdi</title>
+    <link>https://ailenta.uz/x/bytedance-o-zining-trae-platformalarini-birlashtirdi-8988ef/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/bytedance-o-zining-trae-platformalarini-birlashtirdi-8988ef/</guid>
+    <pubDate>Fri, 09 Oct 2026 07:13:31 GMT</pubDate>
+    <description>ByteDance kompaniyasi TraeWork va TraeCode platformalarini yagona TRAE ilovasiga birlashtirdi. Yangi ilova kompyuter, veb va mobil qurilmalarda Agent hamda IDE rejimlarida ishlaydi, TraeWork xizmati esa 23-oktabrdan to‘xtatiladi.</description>
+    <category>agentlar</category><category>biznes</category>
+    <media:content url="https://ailenta.uz/og/bytedance-o-zining-trae-platformalarini-birlashtirdi-8988ef.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/bytedance-o-zining-trae-platformalarini-birlashtirdi-8988ef.jpg"/>
+  </item>
   <item>
     <title>AI agentlardagi xatolarni aniqlash usuli</title>
     <link>https://ailenta.uz/x/ai-agentlardagi-xatolarni-aniqlash-usuli-b52ca1/</link>
@@ -296,16 +306,6 @@
     <category>agentlar</category><category>biznes</category>
     <media:content url="https://ailenta.uz/og/ai-agentlari-jonli-saytlarni-tuzatmoqda-48fd5d.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/ai-agentlari-jonli-saytlarni-tuzatmoqda-48fd5d.jpg"/>
-  </item>
-  <item>
-    <title>Dasturchi AI agentlaridan foydalanish tajribasi</title>
-    <link>https://ailenta.uz/x/dasturchi-ai-agentlaridan-foydalanish-tajribasi-3a976d/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/dasturchi-ai-agentlaridan-foydalanish-tajribasi-3a976d/</guid>
-    <pubDate>Sun, 04 Oct 2026 10:36:50 GMT</pubDate>
-    <description>Dasturchi AI agentlari va IDE plaginlarining kodlash va disk raskadrovka qilishdagi samaradorligini kashf etdi. Bu vositalar Stack Overflow kabi an'anaviy yechimlarni almashtirib, loyihalarga qiziqishni qaytargan.</description>
-    <category>agentlar</category>
-    <media:content url="https://ailenta.uz/og/dasturchi-ai-agentlaridan-foydalanish-tajribasi-3a976d.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/dasturchi-ai-agentlaridan-foydalanish-tajribasi-3a976d.jpg"/>
   </item>
 </channel>
 </rss>

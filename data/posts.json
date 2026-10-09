@@ -1,5 +1,91 @@
 [
   {
+    "id": "840ea549b235",
+    "slug": "ai-orqali-qilingan-fishing-hujumlari-xavfi-ortmoqda-840ea5",
+    "title": "AI orqali qilingan fishing hujumlari xavfi ortmoqda",
+    "summary": "So‘rovda qatnashgan xavfsizlik mutaxassislarining 44 foizi o‘tgan yili AI yordamida amalga oshirilgan fishing hujumi tizimdan o‘tib ketganini ma’lum qildi. Shu bilan birga, deyarli har to‘rtdan bir mutaxassis ko‘p faktorli autentifikatsiya (MFA) ixtiyoriy ekanini ta’kidlagan.",
+    "tags": [
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-10-09T07:00:00.000Z",
+    "created": "2026-10-09T08:02:39.577Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/10/09/mfa-optional-phishing-attacks-company-trainings",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "2c882db1aae8",
+    "slug": "doubao-work-platformasiga-yangi-ai-modellari-qo-shildi-2c882d",
+    "title": "Doubao Work platformasiga yangi AI modellari qo‘shildi",
+    "summary": "Doubao Work platformasiga yangi Seedream 5.0 Flash tasvir modeli va kundalik ofis vazifalari uchun mo‘ljallangan yengil Doubao 2.1 Lite modeli qo‘shildi. Ushbu modellar yordamida platformada cheksiz ijodiy tuval imkoniyati yaratildi.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-10-09T07:14:00.000Z",
+    "created": "2026-10-09T08:02:39.577Z",
+    "coverage": 1,
+    "source": {
+      "name": "Pandaily",
+      "url": "https://pandaily.com/doubao-work-creation-canvas-seedream-5-0-flash-doubao-2-1-lite",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "8988ef106aad",
+    "slug": "bytedance-o-zining-trae-platformalarini-birlashtirdi-8988ef",
+    "title": "ByteDance o‘zining TRAE platformalarini birlashtirdi",
+    "summary": "ByteDance kompaniyasi TraeWork va TraeCode platformalarini yagona TRAE ilovasiga birlashtirdi. Yangi ilova kompyuter, veb va mobil qurilmalarda Agent hamda IDE rejimlarida ishlaydi, TraeWork xizmati esa 23-oktabrdan to‘xtatiladi.",
+    "tags": [
+      "agentlar",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-10-09T07:13:31.000Z",
+    "created": "2026-10-09T08:02:39.577Z",
+    "coverage": 1,
+    "source": {
+      "name": "Pandaily",
+      "url": "https://pandaily.com/bytedance-trae-merges-traework-traecode-agent-ide-modes-traework-shutdown-oct-23",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "cdd2fc2aff2c",
+    "slug": "kriptofirmalar-anthropic-ai-orqali-xavfsizlikni-tekshiradi-cdd2fc",
+    "title": "Kriptofirmalar Anthropic AI orqali xavfsizlikni tekshiradi",
+    "summary": "Kriptovalyuta kompaniyalari o‘z tizimlaridagi xavfsizlik kamchiliklarini aniqlashga urinmoqda. Buning uchun ular Anthropic kompaniyasining sun’iy intellekt texnologiyalaridan foydalanishni boshladi.",
+    "tags": [
+      "Anthropic",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 10,
+    "published": "2026-10-09T07:12:06.000Z",
+    "created": "2026-10-09T08:02:39.577Z",
+    "coverage": 1,
+    "source": {
+      "name": "Crypto News",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4zRENnbGMyR1RFTDdzN25TVWdfVGdXaDNjOXBFTVZVem1qLTJScWMyM3NsWnJOZnVmclNJX0RPZ2Z5ZFRqbXZ1SDRUU3hUcmM3M05VN3VkLXo3bEdLZ2VnYTRHLW11QzFKQ2J2QW5iSGpjVDVJMDVn",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "2b7c32368e79",
     "slug": "hujayralar-faoliyatini-bashorat-qiluvchi-ai-loyihasi-2b7c32",
     "title": "Hujayralar faoliyatini bashorat qiluvchi AI loyihasi",
