@@ -1,5 +1,115 @@
 [
   {
+    "id": "02684413de5a",
+    "slug": "anthropic-buzilishlari-oq-uyning-ai-hisobotini-talab-qildi-026844",
+    "title": "Anthropic buzilishlari Oq uyning AI hisobotini talab qildi",
+    "summary": "Anthropic kompaniyasidagi buzilishlar Oq uyning AI bilan bog'liq hisobot berish majburiyatini keltirib chiqardi. Bu haqda Axios xabar berdi.",
+    "tags": [
+      "Anthropic",
+      "siyosat"
+    ],
+    "importance": 3,
+    "score": 26,
+    "published": "2026-10-09T22:49:55.000Z",
+    "created": "2026-10-09T22:57:39.368Z",
+    "coverage": 1,
+    "source": {
+      "name": "Axios",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5BVTFycXRsQ3h2aC1KaGZaUlB4clFpdEFHUVVWQ2podDZoRG9RR0NxNUF1U0g3ckZkRFVHd05XQjI5WFU1aHpQRTVFV254VTVFOE5xSS1iUlRLSUpnOGJZRUF6akN2QVBDa3NYNngwaDNqOWVm",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "ba09de56afc4",
+    "slug": "kelgusi-hafta-ai-savdosining-kuchini-korsatadi-ba09de",
+    "title": "Kelgusi hafta AI savdosining kuchini ko'rsatadi",
+    "summary": "Jim Cramerning aytishicha, kelgusi haftadagi daromad hisobotlari korporativ faoliyat va AI savdosining kuchini aniqroq ko'rsatadi.",
+    "tags": [
+      "iqtisod",
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 19,
+    "published": "2026-10-09T22:22:35.000Z",
+    "created": "2026-10-09T22:57:39.368Z",
+    "coverage": 1,
+    "source": {
+      "name": "CNBC",
+      "url": "https://cnbc.com/2026/10/09/jim-cramer-week-ahead-bank-earnings-ai-chips.html",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "95d52c99a70e",
+    "slug": "cloudflare-denoni-sotib-olmoqda-95d52c",
+    "title": "Cloudflare Deno'ni sotib olmoqda",
+    "summary": "Cloudflare Deno'ni sotib olib, o'zining Workers dasturlash modelini yaxshilashni maqsad qilgan. Deno runtime bir yil davomida qo'llab-quvvatlanadi.",
+    "tags": [
+      "Cloudflare",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-10-09T22:48:37.000Z",
+    "created": "2026-10-09T22:57:39.369Z",
+    "coverage": 1,
+    "source": {
+      "name": "Simon Willison",
+      "url": "https://simonwillison.net/2026/Oct/9/deno-is-joining-cloudflare",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "c06a0de6de5c",
+    "slug": "nikon-tanlovida-ai-yaratgan-video-goliblikdan-mahrum-etildi-c06a0d",
+    "title": "Nikon tanlovida AI yaratgan video g'oliblikdan mahrum etildi",
+    "summary": "Nikon o'zining Small World in Motion tanlovida birinchi o'rinni olgan videoni generativ AI qoidalariga zid bo'lgani uchun diskvalifikatsiya qildi. Bu haqda The Verge xabar berdi.",
+    "tags": [
+      "biznes",
+      "qonun"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-10-09T18:06:57.000Z",
+    "created": "2026-10-09T22:57:39.369Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Verge",
+      "url": "https://theverge.com/ai-artificial-intelligence/1008930/nikon-small-world-in-motion-winner-ai",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "acbdcbdf35ad",
+    "slug": "anthropic-ai-uchun-suiistemolga-qarshi-himoyalar-yaratdi-acbdcb",
+    "title": "Anthropic AI uchun suiiste'molga qarshi himoyalar yaratdi",
+    "summary": "Anthropic kompaniyasi AI uchun suiiste'mol va shafqatsizlikdan himoya choralarini yaratdi. Bu haqda Washington Times xabar berdi.",
+    "tags": [
+      "Anthropic",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 10,
+    "published": "2026-10-09T17:48:00.000Z",
+    "created": "2026-10-09T22:57:39.369Z",
+    "coverage": 1,
+    "source": {
+      "name": "Washington Times",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOR3lnWDdkNTk2RnhhM0F0VHdmYkhZZEptZnVybDM4MVI0RDNPVzhPUURIYXpyajAtaU9ReFBjV1RFQ2tkZHBfbzd2clVpQ19MU0VWdTc4aVRTOEo2NE95N3NRS2Y5WFVOMUxyQ3NJRl9EMmVHcVNySzhGdTI3TXlibG80Tk1lZDFHUy1RNV9HbkhEcVgwWFlneFU4bw",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "9d9b238c6667",
     "slug": "ai-olimlarning-kashfiyotlarini-ogirlashi-mumkinmi-9d9b23",
     "title": "AI olimlarning kashfiyotlarini o'g'irlashi mumkinmi",
