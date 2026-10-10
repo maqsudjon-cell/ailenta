@@ -1,5 +1,136 @@
 [
   {
+    "id": "0dacf0522d9a",
+    "slug": "tiktok-reklama-qoidalarini-yumshatdi-firibgarlik-kopaydi-0dacf0",
+    "title": "TikTok reklama qoidalarini yumshatdi, firibgarlik ko'paydi",
+    "summary": "TikTok o'tgan kuzda reklama beruvchilarni darhol bloklash uchun qoidabuzarliklar sonini 37 tadan 13 taga qisqartirdi. Bu firibgarlik holatlarining ko'payishiga olib keldi.",
+    "tags": [
+      "biznes",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-10-09T23:35:01.000Z",
+    "created": "2026-10-10T01:51:34.338Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/261009/p31",
+      "title": "Sources and internal docs: TikTok cut the violations for which an advertiser could be immediately banned from 37 to 13 last fall, leading to a surge in scams (Katharine Schwab/Forbes)",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "27aadcf6f37a",
+    "slug": "anthropic-asoschisi-kompaniya-obrosini-tiklashga-urinmoqda-27aadc",
+    "title": "Anthropic asoschisi kompaniya obro'sini tiklashga urinmoqda",
+    "summary": "Anthropic kompaniyasining asoschilaridan biri kompaniyaning \"woke\" obro'sini tiklashga harakat qilmoqda. Bu haqda Wall Street Journal xabar berdi.",
+    "tags": [
+      "Anthropic",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 27,
+    "published": "2026-10-09T16:36:00.000Z",
+    "created": "2026-10-10T01:52:06.662Z",
+    "coverage": 1,
+    "source": {
+      "name": "WSJ",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9pSTBZMDc1dzdWSm5hVS1uNWpZckxKZFdhbFFzRWtCa050M1hjV2JGMnBNUFBDUTF1dEhzQnVHamQ0NWlOSGttRWZIaWpRN1lkSUxsZl9TelZrLWZoX01zV2hqQ2pOUQ",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "2289ab5792a4",
+    "slug": "ai-modellari-sorovlarni-rad-etish-muammosiga-duch-kelmoqda-2289ab",
+    "title": "AI modellari so'rovlarni rad etish muammosiga duch kelmoqda",
+    "summary": "Bugungi AI modellari ko'plab so'rovlarni rad etishga o'rgatilgan. Tadqiqotchilar sun'iy intellektning \"yo'q\" deyish qobiliyatiga haddan tashqari ishonch bildirilayotganini ta'kidlamoqda.",
+    "tags": [
+      "tadqiqot",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 25.3,
+    "published": "2026-10-09T12:10:00.000Z",
+    "created": "2026-10-10T01:52:06.662Z",
+    "coverage": 1,
+    "source": {
+      "name": "MIT Technology Review",
+      "url": "https://technologyreview.com/2026/10/09/1146250/the-download-ai-refusal-problem-weight-loss-drug-side-effects",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "333ccbe0e05c",
+    "slug": "ongli-ai-haqidagi-xavfli-afsona-333ccb",
+    "title": "Ongli AI haqidagi xavfli afsona",
+    "summary": "Catholic Culture.org nashri \"ongli\" sun'iy intellekt haqidagi afsonani xavfli deb atadi.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 7,
+    "published": "2026-10-09T21:04:09.000Z",
+    "created": "2026-10-10T01:52:06.662Z",
+    "coverage": 1,
+    "source": {
+      "name": "Catholic Culture.org",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE91UkZ1bGxxbTF1dnY5a0ZVby1hdGs1Xy00YXpYREtSNEZHQUQ2b0xZYzJTNGtwa0hEUDZtZTQtdHBVcUhramlpMWp6M0ZKYXFaRmNXTzdZZmctTFBkME1KdERPREE3YXluN3drYzJuVGhoU3ppSUhNZ1Jybw",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "1fe23038baba",
+    "slug": "ai-fizika-sohasida-juda-yaxshi-natijalarga-erishmoqda-1fe230",
+    "title": "AI fizika sohasida juda yaxshi natijalarga erishmoqda",
+    "summary": "Sun'iy intellekt fizika sohasida kutilmaganda yuqori natijalarni ko'rsatmoqda. Bu haqda IBM xabar berdi.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 7,
+    "published": "2026-10-09T16:48:17.000Z",
+    "created": "2026-10-10T01:52:06.662Z",
+    "coverage": 1,
+    "source": {
+      "name": "IBM",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQeUlveXBZREVfa1liMFZ0RXZCVlFkdGVXaU5TaW54Y3VRcHl1ZDlvMDFHZ2VJc3YxTFZweHA2YmNSVnFVdHRTNXdyazUyZ1FRSEJ0dmROdzkySzdSOGxEdTl0cG44RXVoblp5NU9falVlOV9Ka1BkVmFiQzVULXpkMHZvOA",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "cdf43b0119ec",
+    "slug": "ai-kompaniyalari-qoidalar-shakllantirishga-tayyorlanmoqda-cdf43b",
+    "title": "AI kompaniyalari qoidalar shakllantirishga tayyorlanmoqda",
+    "summary": "Sun'iy intellekt kompaniyalari kelajakda yuzaga kelishi mumkin bo'lgan muammolardan so'ng qoidalarni shakllantirishga tayyorgarlik ko'rmoqda. Bu haqda Gizmodo xabar berdi.",
+    "tags": [
+      "qonun",
+      "biznes"
+    ],
+    "importance": 4,
+    "score": 7,
+    "published": "2026-10-09T16:10:51.000Z",
+    "created": "2026-10-10T01:52:06.662Z",
+    "coverage": 1,
+    "source": {
+      "name": "Gizmodo",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNDNvdnFKZXhIUW9fbi1fcmhjNk9saVBtRkdsd0hCeFRGaEJnSUF0Wk5tT21ObWVoR2xHWUFDbmtfeDJBOWJZcWFqeC1wUHMtSXF3MDNIaU1fOHpodFBXWmR1eURObThnc3BCbUxZTk42c3pPbDFDSkVuLThQenBjUTVTTlR1dkNqZmZsRkdFRjdqVWdMWGJxVnR2LUstZWN2dUEyNlF0QQ",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "1d497842c42b",
     "slug": "ai-kompaniyalari-kiberhujumga-tayyorgarlik-kormoqda-1d4978",
     "title": "AI kompaniyalari kiberhujumga tayyorgarlik ko'rmoqda",
