@@ -1,5 +1,49 @@
 [
   {
+    "id": "2c9d32e930fd",
+    "slug": "palantir-bosh-direktori-ai-davri-muvaffaqiyati-haqida-2c9d32",
+    "title": "Palantir bosh direktori AI davri muvaffaqiyati haqida",
+    "summary": "Palantir bosh direktori Aleks Karpning fikricha, AI davrida faqat hunarmandlar yoki neyrodivergent insonlar muvaffaqiyatga erishadi. U Gen Z avlodiga nufuzli kollej diplomlaridan voz kechishni maslahat berdi. Fortune 500 kompaniyalarining beshdan biri 2027 yilgacha ko'proq neyrodivergent xodimlarni ishga oladi.",
+    "tags": [
+      "mehnat bozori",
+      "biznes"
+    ],
+    "importance": 4,
+    "score": 19,
+    "published": "2026-10-10T13:21:11.000Z",
+    "created": "2026-10-10T14:49:08.536Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/article/palantir-ceo-alex-karp-two-people-successful-in-ai-era-vocational-skills-neurodivergence-gen-z-career-advice-billionaire",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "55e793dcba73",
+    "slug": "qwen3-8-27b-sql-sinovida-gpt-5-6ni-ortda-qoldirdi-55e793",
+    "title": "Qwen3.8 27B SQL sinovida GPT-5.6'ni ortda qoldirdi",
+    "summary": "Qwen3.8 27B modeli SQL sinov to'plamida GPT-5.6'dan ustun keldi. Bu modelni oddiy MacBook'da lokal ishga tushirish mumkin. So'rovlar deyarli bepul bo'lsa-da, har bir javob uchun bir necha daqiqa vaqt ketadi.",
+    "tags": [
+      "tadqiqot",
+      "ochiq model"
+    ],
+    "importance": 4,
+    "score": 14,
+    "published": "2026-10-10T13:36:46.000Z",
+    "created": "2026-10-10T14:49:08.536Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/companies/otus/articles/1092466",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "483119fbc0be",
     "slug": "gollivudda-ai-yetakchilari-haqida-filmlar-chiqarilmoqda-483119",
     "title": "Gollivudda AI yetakchilari haqida filmlar chiqarilmoqda",
