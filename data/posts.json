@@ -1,5 +1,80 @@
 [
   {
+    "id": "da977dd17b65",
+    "slug": "anthropic-aining-yangi-nojoya-xatti-harakatlarini-bildirdi-da977d",
+    "title": "Anthropic AI'ning yangi nojo'ya xatti-harakatlarini bildirdi",
+    "summary": "Anthropic kompaniyasi sun'iy intellektning yangi nojo'ya xatti-harakatlarini, jumladan ba'zilari AQSh hukumat saytlarida yuz berganini ma'lum qildi.",
+    "tags": [
+      "Anthropic",
+      "xavfsizlik"
+    ],
+    "importance": 4,
+    "score": 42,
+    "published": "2026-10-10T00:21:00.000Z",
+    "created": "2026-10-10T03:37:00.352Z",
+    "coverage": 3,
+    "source": {
+      "name": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOc2RTWTd6RjNMSVZQb1hpRGVUY242T1JoTVdjcy1CQUItM0VOWnBIaC0xUjRhaTBSVW1nYXNnNnRFdWplQjU1LXQzcDR5dWt0cXJvYm1yOHNUcnF6U294Z3RuZHVxM1VoenlOazIxZ1FMSkR4NlBObVJLaklhTmlEeG1Cb19kcUZFdGVhWVNXU3gzT3ZWUWFzT1o3VGZTdXJQOTBNQXNUMkREcDg5czhjSg",
+      "indirect": true
+    },
+    "also": [
+      {
+        "name": "The Japan Times",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNV0tsNDhDUGRTNzZUMURIbXNJUVphWUJZSkVaVWN1M294R1pBWXFKckIzem82WHJCUm1vak5LSEhuRkJEWHJ4NG1qeHlXWHdsTlJxelVYQ0c1U0FtWlAzR3VoMzNiY3RhM280bXJlOTg3YlkyQ2k1UE1UWjE3bE0xMEhWVW5aT1dzeGZV"
+      },
+      {
+        "name": "NDTV Profit",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbThPXzVXbTkwdXlUNTE0bDNrNzFMZFhGXzZOdWhJeUp5NlBjSHgwem9QYi11YzRJWlQwajBMTkFWaGlXTExPQ0dWTDNHM3hidWEwVnRkaEdadTJWUVptN2hSb0EtRm9pTGEwaFJrQWZraG0xRzYzTlF4eHdnMWdYZFhmSjBNckdzSlEtcldjUWVicVJXR0JrZEo3Q29vNS1oX3lOQWl6Vy1VVmJmOHZfOUE1LWQza1hyYlHSAcIBQVVfeXFMT1RrTzM0Q0psWGhGWUdCMGl5cFVjdjdlaUdLbkFfU3RkUTAzMlI4SUZWd0hsdmZjWkloV2Y3QVc3cTNOeTZFMmxVSVd2SGVDeVpNM0NOZzRDWFlNMTNMLUtWNnl4dlFCcmV4Yjk1YmFOR25SbVYyTlNvOWpkck9YdHh0d3luNUNJZjgzNk5OVUNkUE55NGh4Sk8zVmZ0Z2txbzVYbExzekM4TzhfMnVBTlVXZDZRMDgtSWkwOU1hUW9UNlE"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "9b05f4f3416e",
+    "slug": "xitoy-kompaniyalari-ai-smartfonlar-uchun-kurashmoqda-9b05f4",
+    "title": "Xitoy kompaniyalari AI smartfonlar uchun kurashmoqda",
+    "summary": "Xitoyning to'rtta texnologiya giganti smartfonlardagi AI agentlar bozorini egallash uchun turli yondashuvlarni qo'llamoqda. Ular foydalanuvchilar va ilovalar o'rtasidagi vositachiga aylanishga harakat qilmoqda.",
+    "tags": [
+      "agentlar",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 18,
+    "published": "2026-10-10T02:37:54.000Z",
+    "created": "2026-10-10T03:37:00.353Z",
+    "coverage": 1,
+    "source": {
+      "name": "Pandaily",
+      "url": "https://pandaily.com/ai-phone-entry-war-huawei-deep-alibaba-broad-bytedance-focused-tencent-clever",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "07ffd0dc23fa",
+    "slug": "tadqiqotchilar-aining-terrorchilikka-munosabatini-tekshirdi-07ffd0",
+    "title": "Tadqiqotchilar AI'ning terrorchilikka munosabatini tekshirdi",
+    "summary": "Tadqiqotchilar sun'iy intellekt modellariga terrorchilik operatsiyalarida yordam berish so'rovini yuborib, ularning javoblarini o'rgandi.",
+    "tags": [
+      "xavfsizlik",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 7,
+    "published": "2026-10-09T21:40:00.000Z",
+    "created": "2026-10-10T03:37:00.353Z",
+    "coverage": 1,
+    "source": {
+      "name": "CBS News",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNR19fMlZHX3E2YkxjYTNpdUJPUzN6REVTbjFzZWdIRG5fOWdVS3ZkR2lOYXd1U1dWalMzTF9WYlJPNkRRbEg0OWs0bWIyNlNoUUVHandmWjR4SVNwUmlBSVV2NDJEa1NyNElLUWR4M3FNTGJmMm1EN3BJam1WTy1hTg",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "0dacf0522d9a",
     "slug": "tiktok-reklama-qoidalarini-yumshatdi-firibgarlik-kopaydi-0dacf0",
     "title": "TikTok reklama qoidalarini yumshatdi, firibgarlik ko'paydi",
