@@ -1,5 +1,47 @@
 [
   {
+    "id": "024b571ea95d",
+    "slug": "gemini-android-auto-qongiroqlariga-tasir-qilmoqda-024b57",
+    "title": "Gemini Android Auto qo'ng'iroqlariga ta'sir qilmoqda",
+    "summary": "Gemini AI modeli Android Auto tizimida buklanadigan telefonlardagi qo'ng'iroqlarga muammolar tug'dirishi mumkin.",
+    "tags": [
+      "Google"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-10-10T18:45:00.000Z",
+    "created": "2026-10-10T19:34:19.290Z",
+    "coverage": 1,
+    "source": {
+      "name": "Engadget",
+      "url": "https://engadget.com/2280033/android-auto-bug-affecting-foldable-phones-calling",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "805a88ef4cda",
+    "slug": "trampning-aini-qayta-nomlash-urinishi-suniy-korinmoqda-805a88",
+    "title": "Trampning AIni qayta nomlash urinishi sun'iy ko'rinmoqda",
+    "summary": "AQSh prezidenti Donald Tramp sun'iy intellekt nomini o'zgartirishga urinmoqda. The Verge nashri bu urinishni \"sun'iy\" deb baholadi.",
+    "tags": [
+      "siyosat"
+    ],
+    "importance": 2,
+    "score": 8.1,
+    "published": "2026-10-09T14:25:43.000Z",
+    "created": "2026-10-10T19:34:19.290Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Verge",
+      "url": "https://theverge.com/policy/1008677/trump-super-intelligence-ai-rebranding",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "4db1d5ce71f6",
     "slug": "neyrotarmoqni-backpropsiz-oqitish-tajribasi-4db1d5",
     "title": "Neyrotarmoqni backprop'siz o'qitish tajribasi",
