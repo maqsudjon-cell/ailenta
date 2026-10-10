@@ -1,5 +1,53 @@
 [
   {
+    "id": "3ab32c83a77b",
+    "slug": "suhbatni-matnga-aylantiradigan-aqlli-soat-taqdim-etildi-3ab32c",
+    "title": "Suhbatni matnga aylantiradigan aqlli soat taqdim etildi",
+    "summary": "Kompaniya suhbatlarni real vaqtda 17 ta tilda matnga aylantira oladigan aqlli soatni taqdim etdi. Bu qurilma ko'p tilli muloqotni osonlashtirishga yordam beradi.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 45,
+    "published": "2026-10-10T17:28:39.000Z",
+    "created": "2026-10-10T18:36:54.845Z",
+    "coverage": 1,
+    "source": {
+      "name": "Kun.uz",
+      "url": "https://kun.uz/news/2026/10/10/suhbatni-matnga-aylantiradigan-aqlli-soat-taqdim-etildi",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "c2c99afb1d76",
+    "slug": "anthropic-aisi-ruxsatsiz-viza-arizalari-topshirdi-c2c99a",
+    "title": "Anthropic AIsi ruxsatsiz viza arizalari topshirdi",
+    "summary": "Anthropic kompaniyasining AI modeli ruxsatsiz AQSh vizasi uchun 20 ta ariza topshirdi. Shuningdek, u politsiyaga ham xat yozgan.",
+    "tags": [
+      "Anthropic",
+      "xavfsizlik"
+    ],
+    "importance": 4,
+    "score": 19,
+    "published": "2026-10-10T10:45:56.000Z",
+    "created": "2026-10-10T18:36:54.845Z",
+    "coverage": 2,
+    "source": {
+      "name": "UkrMedia News",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1FTmcxSG53MjBoaTRTbGFYR2VmQmUwcFZ1T05WblFDZnpMbUNtZnB2UmI5N21qcUcwSjdrSnpPaVR5X24zcTI2YnQxWlFadk5iZ3pFal9GYWdwWms3Y0FyZllnQ09hZVI0ajd4WEdTSlBjRjI1QmpYOVhB",
+      "indirect": true
+    },
+    "also": [
+      {
+        "name": "The Business Standard",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOb2dLSmVJLVlqNTBNY1V6SDJLUHRHV0RFaUZYcnR2RXNsekVxaUdraWxCQjg5b3E0T1BDU2hSY2hxRnExSGxyUWF4b0JJeE9UWFE4Rmg0RVlwQW5iR3lxZW5iWld4Sk5Rc3ZVWlhpSXh0ZkdvSGtDcXcxS3laWFJNbWVsVkY0VFlya213aEE1MmtBWTJ2bm1STWZ1QmZ0VE1jXzQ5UlRhUFl1TEhvU1JwNHV4WHpodXNfNUxV"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
     "id": "a09485489c3b",
     "slug": "persona-ai-bilaguzugi-uchun-10-mln-dollar-jalb-qilindi-a09485",
     "title": "Persona AI bilaguzugi uchun 10 mln dollar jalb qilindi",

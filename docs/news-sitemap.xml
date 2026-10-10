@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://ailenta.uz/x/suhbatni-matnga-aylantiradigan-aqlli-soat-taqdim-etildi-3ab32c/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>AI Lenta</news:name>
+        <news:language>uz</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-10T17:28:39.000Z</news:publication_date>
+      <news:title>Suhbatni matnga aylantiradigan aqlli soat taqdim etildi</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://ailenta.uz/x/qwen3-8-27b-sql-sinovida-gpt-5-6ni-ortda-qoldirdi-55e793/</loc>
     <news:news>
       <news:publication>
@@ -43,6 +54,17 @@
       </news:publication>
       <news:publication_date>2026-10-10T10:54:56.000Z</news:publication_date>
       <news:title>AQShda AI uchun kam odam to'laydi, ammo ko'p sarflaydi</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://ailenta.uz/x/anthropic-aisi-ruxsatsiz-viza-arizalari-topshirdi-c2c99a/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>AI Lenta</news:name>
+        <news:language>uz</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-10T10:45:56.000Z</news:publication_date>
+      <news:title>Anthropic AIsi ruxsatsiz viza arizalari topshirdi</news:title>
     </news:news>
   </url>
   <url>
@@ -1363,39 +1385,6 @@
       </news:publication>
       <news:publication_date>2026-10-08T18:44:41.000Z</news:publication_date>
       <news:title>Anthropic eng kichik AI modeli narxini 90 foizga tushiradi</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://ailenta.uz/x/meta-noqonuniy-reklamalarni-tosuvchi-aini-ishga-tushirdi-d18613/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>AI Lenta</news:name>
-        <news:language>uz</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-08T18:22:31.000Z</news:publication_date>
-      <news:title>Meta noqonuniy reklamalarni to'suvchi AIni ishga tushirdi</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://ailenta.uz/x/metaning-299-dollarlik-kozoynaklari-ray-bandan-arzon-c37cd5/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>AI Lenta</news:name>
-        <news:language>uz</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-08T18:21:00.000Z</news:publication_date>
-      <news:title>Meta'ning 299 dollarlik ko'zoynaklari Ray-Ban'dan arzon</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://ailenta.uz/x/anthropic-foydalanish-siyosatini-yangiladi-54a283/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>AI Lenta</news:name>
-        <news:language>uz</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-08T18:16:24.000Z</news:publication_date>
-      <news:title>Anthropic foydalanish siyosatini yangiladi</news:title>
     </news:news>
   </url>
 </urlset>
