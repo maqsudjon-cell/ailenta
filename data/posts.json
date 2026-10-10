@@ -1,5 +1,134 @@
 [
   {
+    "id": "aa61ebf3208b",
+    "slug": "instagram-ai-funksiyalarini-pullik-qiladi-aa61eb",
+    "title": "Instagram AI funksiyalarini pullik qiladi",
+    "summary": "Instagram rahbari Adam Mosseri sun'iy intellekt bo'yicha yangi ma'lumot berdi. U platformada AI imkoniyatlaridan foydalanish pullik bo'lishini tasdiqladi.",
+    "tags": [
+      "Meta",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": -6.8,
+    "published": "2026-10-08T10:11:18.000Z",
+    "created": "2026-10-10T08:45:49.822Z",
+    "coverage": 1,
+    "source": {
+      "name": "TechJuice",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaENKUzRJeFNQV3kzMHRRS1VTN25jYU82V256VmdYZ256MVZjVno0X2pDWHVINmowVzZZemJqOFJvZkVyb3JyUkJvam9od0pmeC1KcHlfaExWcGRxbHF2TVVHLWpONzE2Nzhyb1lxU1hDYVVkTFZVdFhDSVVhdVNoLVZjTXQ5OF9ReWFLWA",
+      "title": "Instagram Will Charge Users for AI Access, Mosseri Confirms",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "0db2d97f1574",
+    "slug": "respublikachilar-malumot-markazlarini-qollamay-qoydi-0db2d9",
+    "title": "Respublikachilar ma'lumot markazlarini qo'llamay qo'ydi",
+    "summary": "Respublikachilar partiyasi nazoratidagi okrugda ma'lumot markazlarini mahalliy qo'llab-quvvatlash pasayib ketdi. Bu holat ushbu obyektlar aynan o'sha hududda joylashtirilganda kuzatilgan.",
+    "tags": [
+      "siyosat"
+    ],
+    "importance": 2,
+    "score": 15.2,
+    "published": "2026-10-09T16:13:08.000Z",
+    "created": "2026-10-10T08:46:23.873Z",
+    "coverage": 1,
+    "source": {
+      "name": "Hacker News",
+      "url": "https://pressaudit.org/f/community/posts/9c163c6e-53b7-46a3-b052-2e3c6954c04f",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "c9bdaa77ddc8",
+    "slug": "home-instead-ai-yordamida-bemorga-qarovchi-topdi-c9bdaa",
+    "title": "Home Instead AI yordamida bemorga qarovchi topdi",
+    "summary": "Home Instead tibbiy xizmatlar kompaniyasi yon amiotrofik skleroz bilan og'rigan va doimiy qarovga muhtoj Merrill Xeylga Kristina Eversni biriktirdi. Bemorga mos mutaxassis sun'iy intellekt yordamida topildi.",
+    "tags": [
+      "tibbiyot"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-10-10T08:30:01.000Z",
+    "created": "2026-10-10T08:46:23.873Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/caregiving-ai-long-term-care-als-honor-home-instead-2026-10",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "cd182da4d07f",
+    "slug": "toshiba-ai-sababli-ishga-olish-tartibini-ozgartirdi-cd182d",
+    "title": "Toshiba AI sababli ishga olish tartibini o'zgartirdi",
+    "summary": "Toshiba kompaniyasining kadrlar bo'yicha rahbari sun'iy intellekt sababli ishga qabul qilish suhbatlarini o'zgartirganini aytdi. Endilikda savollarda kasbiy ko'nikmalardan ko'ra muloqot va shaxsiy sifatlarga ko'proq e'tibor berilmoqda.",
+    "tags": [
+      "mehnat bozori"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-10-10T08:11:01.000Z",
+    "created": "2026-10-10T08:46:23.873Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/how-my-interview-questions-changed-ai-reshapes-the-career-ladder-2026-10",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "3417f0053d99",
+    "slug": "ai-matnlarini-aniqlashda-dastur-va-muharrir-roli-3417f0",
+    "title": "AI matnlarini aniqlashda dastur va muharrir roli",
+    "summary": "Muallif o'zi yaratgan detektor yordamida AI matnlarining 12 ta belgisini tahlil qildi. Kod faqat beshta belgini aniqlay oladi, qolganlarini topish esa faqat muharrir qoidalariga bog'liq bo'lib qolmoqda.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 14,
+    "published": "2026-10-10T08:32:03.000Z",
+    "created": "2026-10-10T08:46:23.873Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1092636",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "10402723d7d6",
+    "slug": "wells-fargo-meta-aksiyalari-1000-dollarga-yetishini-aytdi-104027",
+    "title": "Wells Fargo Meta aksiyalari 1000 dollarga yetishini aytdi",
+    "summary": "Wells Fargo tahlilchilariga ko'ra, Meta kompaniyasi aksiyalari narxi 1000 dollargacha ko'tarilishi mumkin. Sun'iy intellekt sohasidagi rivojlanish ushbu o'sishga turtki bo'ladi.",
+    "tags": [
+      "Meta",
+      "iqtisod"
+    ],
+    "importance": 2,
+    "score": -3.9,
+    "published": "2026-10-08T17:30:00.000Z",
+    "created": "2026-10-10T08:46:23.873Z",
+    "coverage": 1,
+    "source": {
+      "name": "24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQjRVNk95SnNhNndrNzBFZlBua2J1NlZRQm1BSkxSUzNncnVKYmF5SzlKeUdITmc5alNMcVBtUWt6M1NWc28wdWpZQkoza2tXUkpDTFY5UTB4MlJiWGlSRnRBREZBQklnSXdXR2lpWHlDZVE3eVBNTDVhWXBDLWRBZ2JKRHVQUW44XzNHZUpFSUItVFpXUTl0VVJKR3Z6eHRN",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "62830a411adf",
     "slug": "aqsh-senati-ai-malumot-markazlari-haqida-notogri-malumot-ber-62830a",
     "title": "AQSh Senati AI ma'lumot markazlari haqida noto'g'ri ma'lumot berilganini aytdi",

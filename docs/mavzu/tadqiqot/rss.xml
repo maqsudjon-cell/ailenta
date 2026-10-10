@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/tadqiqot/</link>
   <description>&quot;tadqiqot&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Sat, 10 Oct 2026 08:13:22 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 10 Oct 2026 08:52:58 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/tadqiqot/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>AI matnlarini aniqlashda dastur va muharrir roli</title>
+    <link>https://ailenta.uz/x/ai-matnlarini-aniqlashda-dastur-va-muharrir-roli-3417f0/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/ai-matnlarini-aniqlashda-dastur-va-muharrir-roli-3417f0/</guid>
+    <pubDate>Sat, 10 Oct 2026 08:32:03 GMT</pubDate>
+    <description>Muallif o'zi yaratgan detektor yordamida AI matnlarining 12 ta belgisini tahlil qildi. Kod faqat beshta belgini aniqlay oladi, qolganlarini topish esa faqat muharrir qoidalariga bog'liq bo'lib qolmoqda.</description>
+    <category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/ai-matnlarini-aniqlashda-dastur-va-muharrir-roli-3417f0.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/ai-matnlarini-aniqlashda-dastur-va-muharrir-roli-3417f0.jpg"/>
+  </item>
   <item>
     <title>Tadqiqotchilar AI'ning terrorchilikka munosabatini tekshirdi</title>
     <link>https://ailenta.uz/x/tadqiqotchilar-aining-terrorchilikka-munosabatini-tekshirdi-07ffd0/</link>
@@ -296,16 +306,6 @@
     <category>tadqiqot</category><category>ochiq model</category>
     <media:content url="https://ailenta.uz/og/mws-ai-vision-bench-sinov-to-plamiga-antifrod-qo-shildi-14e17f.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/mws-ai-vision-bench-sinov-to-plamiga-antifrod-qo-shildi-14e17f.jpg"/>
-  </item>
-  <item>
-    <title>Gumanoid robotlarda AI rivojlanishi sekinlashmoqda</title>
-    <link>https://ailenta.uz/x/gumanoid-robotlarda-ai-rivojlanishi-sekinlashmoqda-a63cce/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/gumanoid-robotlarda-ai-rivojlanishi-sekinlashmoqda-a63cce/</guid>
-    <pubDate>Thu, 08 Oct 2026 12:10:00 GMT</pubDate>
-    <description>MIT Technology Review xabariga ko‘ra, gumanoid robotlar atrofidagi shov-shuvlarga qaramay, ulardagi AI yutuqlari yaqin orada hayotni o‘zgartirmaydi. Robototexnikadagi AI hali ham jiddiy to‘siqlarga duch kelmoqda.</description>
-    <category>robototexnika</category><category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/gumanoid-robotlarda-ai-rivojlanishi-sekinlashmoqda-a63cce.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/gumanoid-robotlarda-ai-rivojlanishi-sekinlashmoqda-a63cce.jpg"/>
   </item>
 </channel>
 </rss>
