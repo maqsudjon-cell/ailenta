@@ -1,5 +1,47 @@
 [
   {
+    "id": "a06c47bc1069",
+    "slug": "ogirliklarni-saqlash-orniga-hisoblash-usullari-a06c47",
+    "title": "Og'irliklarni saqlash o'rniga hisoblash usullari",
+    "summary": "Neyrotarmoq og'irliklarini katta matritsalarda saqlash o'rniga ularni formulalar yoki kichik modellar orqali hisoblab chiqarish usullari o'rganilmoqda. Bunday yondashuvlar model hajmini qisqartirishga xizmat qiladi.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 17,
+    "published": "2026-10-10T22:01:23.000Z",
+    "created": "2026-10-10T23:01:16.274Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1092220",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "5499e991481a",
+    "slug": "odyssey-3-robotlarga-fizikani-videodan-orgatadi-5499e9",
+    "title": "Odyssey-3 robotlarga fizikani videodan o'rgatadi",
+    "summary": "Odyssey-3 dunyo modeli robotlarga fizika qonuniyatlarini tushunishni o'rgatishga mo'ljallangan. Tizim alohida vazifalarni takrorlash o'rniga ko'plab videolarni kuzatish orqali dunyo qanday ishlashini o'rganadi.",
+    "tags": [
+      "robototexnika"
+    ],
+    "importance": 3,
+    "score": 11,
+    "published": "2026-10-10T22:23:51.000Z",
+    "created": "2026-10-10T23:01:16.275Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1092810",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "a4a1c375ac39",
     "slug": "anthropic-chatbot-suiistemolini-taqiqlashni-istaydi-a4a1c3",
     "title": "Anthropic chatbot suiiste'molini taqiqlashni istaydi",
