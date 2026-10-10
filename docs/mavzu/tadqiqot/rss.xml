@@ -5,7 +5,7 @@
   <link>https://ailenta.uz/mavzu/tadqiqot/</link>
   <description>&quot;tadqiqot&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Sat, 10 Oct 2026 18:43:30 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 10 Oct 2026 19:07:59 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/tadqiqot/rss.xml" rel="self" type="application/rss+xml"/>
   <item>
     <title>Qwen3.8 27B SQL sinovida GPT-5.6'ni ortda qoldirdi</title>
@@ -16,6 +16,16 @@
     <category>tadqiqot</category><category>ochiq model</category>
     <media:content url="https://ailenta.uz/og/qwen3-8-27b-sql-sinovida-gpt-5-6ni-ortda-qoldirdi-55e793.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/qwen3-8-27b-sql-sinovida-gpt-5-6ni-ortda-qoldirdi-55e793.jpg"/>
+  </item>
+  <item>
+    <title>Neyrotarmoqni backprop'siz o'qitish tajribasi</title>
+    <link>https://ailenta.uz/x/neyrotarmoqni-backpropsiz-oqitish-tajribasi-4db1d5/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/neyrotarmoqni-backpropsiz-oqitish-tajribasi-4db1d5/</guid>
+    <pubDate>Sat, 10 Oct 2026 13:18:59 GMT</pubDate>
+    <description>Dasturchi neyrotarmoq qatlamini faqat mahalliy Xebb qoidalari yordamida o'qitishga urinib ko'rdi. Yakunda bu yondashuv oddiy k-means usuliga aylanib, aniqlik hamda unutish ko'rsatkichlari bo'yicha teskari tarqalish usulidan o'za olmadi.</description>
+    <category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/neyrotarmoqni-backpropsiz-oqitish-tajribasi-4db1d5.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/neyrotarmoqni-backpropsiz-oqitish-tajribasi-4db1d5.jpg"/>
   </item>
   <item>
     <title>AI-mentor testlari ham xato qilishi aniqlandi</title>
@@ -296,16 +306,6 @@
     <category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/margaret-hamilton-vafot-etdi-1b012a.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/margaret-hamilton-vafot-etdi-1b012a.jpg"/>
-  </item>
-  <item>
-    <title>AI agentlardagi xatolarni aniqlash usuli</title>
-    <link>https://ailenta.uz/x/ai-agentlardagi-xatolarni-aniqlash-usuli-b52ca1/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/ai-agentlardagi-xatolarni-aniqlash-usuli-b52ca1/</guid>
-    <pubDate>Thu, 08 Oct 2026 14:18:34 GMT</pubDate>
-    <description>Ko‘p bosqichli AI agentlarida xatolar dastlabki bosqichlarda yuz berishi mumkin. Yakuniy natijadan xatoni topish qiyin bo‘lgani sababli, bosqichma-bosqich tekshiruvlar nosozliklarni aniqlashga yordam beradi.</description>
-    <category>tadqiqot</category><category>agentlar</category>
-    <media:content url="https://ailenta.uz/og/ai-agentlardagi-xatolarni-aniqlash-usuli-b52ca1.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/ai-agentlardagi-xatolarni-aniqlash-usuli-b52ca1.jpg"/>
   </item>
 </channel>
 </rss>

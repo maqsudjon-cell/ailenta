@@ -1,5 +1,26 @@
 [
   {
+    "id": "4db1d5ce71f6",
+    "slug": "neyrotarmoqni-backpropsiz-oqitish-tajribasi-4db1d5",
+    "title": "Neyrotarmoqni backprop'siz o'qitish tajribasi",
+    "summary": "Dasturchi neyrotarmoq qatlamini faqat mahalliy Xebb qoidalari yordamida o'qitishga urinib ko'rdi. Yakunda bu yondashuv oddiy k-means usuliga aylanib, aniqlik hamda unutish ko'rsatkichlari bo'yicha teskari tarqalish usulidan o'za olmadi.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 1,
+    "score": 14,
+    "published": "2026-10-10T13:18:59.000Z",
+    "created": "2026-10-10T19:01:21.080Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1092720",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "3ab32c83a77b",
     "slug": "suhbatni-matnga-aylantiradigan-aqlli-soat-taqdim-etildi-3ab32c",
     "title": "Suhbatni matnga aylantiradigan aqlli soat taqdim etildi",
