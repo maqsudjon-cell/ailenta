@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/tadqiqot/</link>
   <description>&quot;tadqiqot&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Sat, 10 Oct 2026 08:52:58 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 10 Oct 2026 09:06:03 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/tadqiqot/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Neyron tarmog'i narda o'yinidagi xatolarni tahlil qildi</title>
+    <link>https://ailenta.uz/x/neyron-tarmogi-narda-oyinidagi-xatolarni-tahlil-qildi-ead794/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/neyron-tarmogi-narda-oyinidagi-xatolarni-tahlil-qildi-ead794/</guid>
+    <pubDate>Sat, 10 Oct 2026 08:54:28 GMT</pubDate>
+    <description>Dasturchilar neyron tarmog'i yordamida uzun narda o'yinida yurishlar tanlanishini o'rgandi. Tahlilda jonli o'yinchilarning 170 mingta yurishidagi asosiy xatolar aniqlandi.</description>
+    <category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/neyron-tarmogi-narda-oyinidagi-xatolarni-tahlil-qildi-ead794.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/neyron-tarmogi-narda-oyinidagi-xatolarni-tahlil-qildi-ead794.jpg"/>
+  </item>
   <item>
     <title>AI matnlarini aniqlashda dastur va muharrir roli</title>
     <link>https://ailenta.uz/x/ai-matnlarini-aniqlashda-dastur-va-muharrir-roli-3417f0/</link>
@@ -296,16 +306,6 @@
     <category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/amirlik-lahjasida-so-zlashuvchi-ai-modeli-taqdim-etildi-3f7cd5.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/amirlik-lahjasida-so-zlashuvchi-ai-modeli-taqdim-etildi-3f7cd5.jpg"/>
-  </item>
-  <item>
-    <title>MWS AI Vision Bench sinov to‘plamiga antifrod qo‘shildi</title>
-    <link>https://ailenta.uz/x/mws-ai-vision-bench-sinov-to-plamiga-antifrod-qo-shildi-14e17f/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/mws-ai-vision-bench-sinov-to-plamiga-antifrod-qo-shildi-14e17f/</guid>
-    <pubDate>Thu, 08 Oct 2026 13:00:29 GMT</pubDate>
-    <description>MWS AI Vision Bench, rus tilidagi hujjatlar uchun multimodal modellarni baholovchi sinov to‘plami, bir yil ichida yangilandi. Unga firibgarlikka qarshi kurash (anti-fraud) vazifasi qo‘shildi.</description>
-    <category>tadqiqot</category><category>ochiq model</category>
-    <media:content url="https://ailenta.uz/og/mws-ai-vision-bench-sinov-to-plamiga-antifrod-qo-shildi-14e17f.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/mws-ai-vision-bench-sinov-to-plamiga-antifrod-qo-shildi-14e17f.jpg"/>
   </item>
 </channel>
 </rss>

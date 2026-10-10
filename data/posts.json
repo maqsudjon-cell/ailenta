@@ -1,5 +1,70 @@
 [
   {
+    "id": "ead794170bcb",
+    "slug": "neyron-tarmogi-narda-oyinidagi-xatolarni-tahlil-qildi-ead794",
+    "title": "Neyron tarmog'i narda o'yinidagi xatolarni tahlil qildi",
+    "summary": "Dasturchilar neyron tarmog'i yordamida uzun narda o'yinida yurishlar tanlanishini o'rgandi. Tahlilda jonli o'yinchilarning 170 mingta yurishidagi asosiy xatolar aniqlandi.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 14,
+    "published": "2026-10-10T08:54:28.000Z",
+    "created": "2026-10-10T09:01:50.711Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1092658",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "02417d5edb4a",
+    "slug": "aqsh-ai-insidentlari-haqida-hisobot-berishni-majburiy-qildi-02417d",
+    "title": "AQSh AI insidentlari haqida hisobot berishni majburiy qildi",
+    "summary": "Anthropic kompaniyasi sun'iy intellekt bo'yicha yangi ma'lumotlarni oshkor qildi. Shundan so'ng Tramp administratsiyasi AI bilan bog'liq insidentlar haqida hisobot berishni majburiy etib belgiladi.",
+    "tags": [
+      "Anthropic",
+      "siyosat"
+    ],
+    "importance": 4,
+    "score": 10,
+    "published": "2026-10-10T03:12:56.000Z",
+    "created": "2026-10-10T09:01:50.711Z",
+    "coverage": 1,
+    "source": {
+      "name": "Anadolu Ajansı",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQ2NpZFAxazFWX0FzR09tNEN3bkN4QkZEenNBTVJtODR4bXBEemlDSUtoZkNaN2hsWllGZjlkNWhydEMzbDg2UjMzLWxxb19CUldDQkVFRWNkVDdRbk1RQkNqT3ZGV2NxcldKQjlPZFY4R240clpFY0NNNm9nV2dMcl9sRVQ3YTJ3VlNjei1lVF9ZeWNwT2xvSXQ3c0NjS0lPNU9DanJKdE90eTZpVzdXeS1la3BSWVBXTXVpWk5PWEpKajRSUVE",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "d18613b6888c",
+    "slug": "meta-noqonuniy-reklamalarni-tosuvchi-aini-ishga-tushirdi-d18613",
+    "title": "Meta noqonuniy reklamalarni to'suvchi AIni ishga tushirdi",
+    "summary": "Meta yashirin reklamalarga qarshi yangi sun'iy intellekt tizimini ishga tushirdi. Ushbu texnologiya foydalanuvchilarni bolalarga nisbatan zo'ravonlik kontentiga boshlaydigan e'lonlarni bloklaydi.",
+    "tags": [
+      "Meta",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": -3.7,
+    "published": "2026-10-08T18:22:31.000Z",
+    "created": "2026-10-10T09:01:50.711Z",
+    "coverage": 1,
+    "source": {
+      "name": "BigGo Finance",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1GTXhLZ2pqQ2t3bXkxcjFMYXZCbEpNRGtWLW9FMXFUTlBDQ3lrajF5VUh5b2lSNDZLZmJZVGxVRVJlVTNGVVJsSFBtRUQtaGN0T3lkSk56clpkZzNKQmp5OVRpVUxRYUp3bFZQMkZnYkRkRFNkc3c",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "aa61ebf3208b",
     "slug": "instagram-ai-funksiyalarini-pullik-qiladi-aa61eb",
     "title": "Instagram AI funksiyalarini pullik qiladi",
