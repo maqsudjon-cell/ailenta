@@ -1,5 +1,71 @@
 [
   {
+    "id": "f7481c3d64c3",
+    "slug": "jon-davis-ai-davridagi-kasb-nomlari-haqida-multfilm-f7481c",
+    "title": "Jon Davis AI davridagi kasb nomlari haqida multfilm",
+    "summary": "Jon Davis AI davridagi kasb nomlari mavzusida multfilm yaratdi. Bu AI'ning mehnat bozoriga ta'siriga yumoristik yondashuvdir.",
+    "tags": [
+      "mehnat bozori"
+    ],
+    "importance": 1,
+    "score": 22.3,
+    "published": "2026-10-10T10:00:54.000Z",
+    "created": "2026-10-10T23:42:22.067Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/commentisfree/picture/2026/oct/10/jon-davis-job-titles-ai-cartoon",
+      "title": "Jon Davis on job titles in the age of AI – cartoon",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "5615b495e4f1",
+    "slug": "ai-va-yadro-urushi-2100-yilgacha-insoniyatga-tahdid-soladi-5615b4",
+    "title": "AI va yadro urushi 2100 yilgacha insoniyatga tahdid soladi",
+    "summary": "Yangi global xavf-xatarlarni baholashga ko'ra, sun'iy intellektdan noto'g'ri foydalanish va yadroviy urush 2100 yilgacha insoniyatni yo'q qilib yuborishi mumkin. Bu inson salomatligiga tahdid soluvchi 17 ta asosiy xavf ro'yxatida yuqori o'rinni egallaydi.",
+    "tags": [
+      "xavfsizlik",
+      "tadqiqot"
+    ],
+    "importance": 4,
+    "score": 23,
+    "published": "2026-10-10T23:01:09.000Z",
+    "created": "2026-10-10T23:44:33.583Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/global-development/2026/oct/11/nuclear-war-and-malicious-use-of-ai-threaten-end-of-humanity-by-2100-says-lancet-assessment",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "70543e9cd2f2",
+    "slug": "ben-affleck-ai-boyicha-chuqur-bilimi-bilan-hayratda-70543e",
+    "title": "Ben Affleck AI bo'yicha chuqur bilimi bilan hayratda",
+    "summary": "Aktyor Ben Affleck neyron tarmoqlari va transformerlar kabi AI texnologiyalari bo'yicha chuqur bilimlari bilan e'tiborni tortmoqda. U avvalroq o'zining AI kino startapini Netflix'ga sotgan.",
+    "tags": [
+      "biznes",
+      "ochiq model"
+    ],
+    "importance": 2,
+    "score": 1.5,
+    "published": "2026-10-08T18:20:32.000Z",
+    "created": "2026-10-10T23:44:33.584Z",
+    "coverage": 1,
+    "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "a06c47bc1069",
     "slug": "ogirliklarni-saqlash-orniga-hisoblash-usullari-a06c47",
     "title": "Og'irliklarni saqlash o'rniga hisoblash usullari",
