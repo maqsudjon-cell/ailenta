@@ -1,5 +1,92 @@
 [
   {
+    "id": "bedd958202e3",
+    "slug": "aqshda-ai-uchun-kam-odam-tolaydi-ammo-kop-sarflaydi-bedd95",
+    "title": "AQShda AI uchun kam odam to'laydi, ammo ko'p sarflaydi",
+    "summary": "Andreessen Horowitz hisobotiga ko'ra, AQSh iste'molchilarining deyarli yarmi AI'dan foydalanadi. Biroq, ularning faqat 4.5 foizi obuna uchun pul to'laydi. Eng ko'p to'lov qiluvchi 1 foiz iste'molchilar oyiga taxminan 900 dollar sarflaydi, asosan professional vositalarga.",
+    "tags": [
+      "iqtisod",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-10-10T10:54:56.000Z",
+    "created": "2026-10-10T11:01:42.540Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/few-people-pay-for-ai-but-those-who-do-spend-bigonly-a-few-users-pay-for-ai-but-those-who-do-pay-a-lot",
+      "title": "Few people pay for AI, but those who do spend big",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "8bef82749cf0",
+    "slug": "buyuk-britaniya-xorijiy-aiga-qaram-bolmasligi-kerak-8bef82",
+    "title": "Buyuk Britaniya xorijiy AIga qaram bo'lmasligi kerak",
+    "summary": "Alan Turing instituti rahbari Jorj Uilyamsonning aytishicha, Buyuk Britaniya xorijiy AI tizimlariga qaram bo'lmasligi kerak. U mamlakat AQSh va Xitoyning yetakchiligi fonida o'zining AI texnologiyalarini rivojlantirishi lozimligini ta'kidladi. Milliy barqarorlik institutning asosiy yo'nalishi hisoblanadi.",
+    "tags": [
+      "siyosat"
+    ],
+    "importance": 3,
+    "score": 23,
+    "published": "2026-10-10T10:00:55.000Z",
+    "created": "2026-10-10T11:01:52.648Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/technology/2026/oct/10/uk-foreign-ai-head-alan-turing-institute-george-williamson",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "dd9ddc6dd91c",
+    "slug": "elon-muskning-bashorati-ari-emanuelga-ilhom-berdi-dd9ddc",
+    "title": "Elon Muskning bashorati Ari Emanuelga ilhom berdi",
+    "summary": "Gollivud vakili Ari Emanuelning aytishicha, Ilon Maskning jonli tadbirlar AI'ga chidamli ekanligi haqidagi bashorati uning biznesiga ilhom bergan.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-10-10T10:21:01.000Z",
+    "created": "2026-10-10T11:01:52.648Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/ari-emanuel-elon-musk-ai-prediction-inspired-live-events-business-2026-10",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "ead3fe59fe05",
+    "slug": "ai-mentor-testlari-ham-xato-qilishi-aniqlandi-ead3fe",
+    "title": "AI-mentor testlari ham xato qilishi aniqlandi",
+    "summary": "Muallif o'zining o'quv platformasiga AI-mentorni joriy qildi va uni baholash uchun 61 ta test yaratdi. Bir hafta o'tgach, u testlarning o'zi ham xato qilishi, ba'zan noto'g'ri javoblarni tasdiqlashi ma'lum bo'ldi.",
+    "tags": [
+      "tadqiqot",
+      "ta'lim"
+    ],
+    "importance": 3,
+    "score": 11,
+    "published": "2026-10-10T10:40:51.000Z",
+    "created": "2026-10-10T11:01:52.648Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1092676",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "3b76b73aef88",
     "slug": "livsyn-robotics-a-seriyasida-investitsiya-jalb-qildi-3b76b7",
     "title": "LivSyn Robotics A seriyasida investitsiya jalb qildi",
