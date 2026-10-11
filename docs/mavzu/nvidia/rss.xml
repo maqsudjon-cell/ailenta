@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/nvidia/</link>
   <description>&quot;Nvidia&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Sun, 11 Oct 2026 09:40:22 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 11 Oct 2026 10:07:07 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/nvidia/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>AI tokenlari arzonlashuvi H100 talabini oshirmoqda</title>
+    <link>https://ailenta.uz/x/ai-tokenlari-arzonlashuvi-h100-talabini-oshirmoqda-b5fb86/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/ai-tokenlari-arzonlashuvi-h100-talabini-oshirmoqda-b5fb86/</guid>
+    <pubDate>Sun, 11 Oct 2026 09:49:59 GMT</pubDate>
+    <description>a16z ma'lumotlariga ko'ra, AI tokenlari narxi tushayotgan bo'lsa-da, H100 chiplari ijara narxi barqaror turibdi yoki oshmoqda. Arzonlashuv xizmatlarga bo'lgan talabni xarajatlar tushishidan ko'ra tezroq oshirmoqda.</description>
+    <category>Nvidia</category><category>chiplar</category>
+    <media:content url="https://ailenta.uz/og/ai-tokenlari-arzonlashuvi-h100-talabini-oshirmoqda-b5fb86.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/ai-tokenlari-arzonlashuvi-h100-talabini-oshirmoqda-b5fb86.jpg"/>
+  </item>
   <item>
     <title>Surface RTX Spark Dev Box qurilmasi sotuvga chiqdi</title>
     <link>https://ailenta.uz/x/surface-rtx-spark-dev-box-qurilmasi-sotuvga-chiqdi-35be1f/</link>
@@ -296,16 +306,6 @@
     <category>Nvidia</category><category>biznes</category>
     <media:content url="https://ailenta.uz/og/ai-malumotlari-qayerda-saqlanadi-muhim-savol-19e64c.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/ai-malumotlari-qayerda-saqlanadi-muhim-savol-19e64c.jpg"/>
-  </item>
-  <item>
-    <title>Nvidia va CoreWeave agent AI ishlab chiqarishni kuchaytirmoqda</title>
-    <link>https://ailenta.uz/x/nvidia-va-coreweave-agent-ai-ishlab-chiqarishni-kuchaytirmoq-e20d6d/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/nvidia-va-coreweave-agent-ai-ishlab-chiqarishni-kuchaytirmoq-e20d6d/</guid>
-    <pubDate>Wed, 30 Sep 2026 15:00:00 GMT</pubDate>
-    <description>CoreWeave Nvidia infratuzilmasini AI uchun mo'ljallangan bulutga integratsiya qildi. Kompaniya Nvidia hisoblash, tarmoq va dasturiy ta'minotini o'z bulutiga kiritdi. Bu agent AI'ni ishlab chiqarishga yo'naltirilgan.</description>
-    <category>Nvidia</category><category>bulut</category>
-    <media:content url="https://ailenta.uz/og/nvidia-va-coreweave-agent-ai-ishlab-chiqarishni-kuchaytirmoq-e20d6d.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/nvidia-va-coreweave-agent-ai-ishlab-chiqarishni-kuchaytirmoq-e20d6d.jpg"/>
   </item>
 </channel>
 </rss>

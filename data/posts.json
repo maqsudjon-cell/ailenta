@@ -1,5 +1,69 @@
 [
   {
+    "id": "254c45074d85",
+    "slug": "pensilvaniyadagi-data-markaz-atrofinda-bahslar-kuchaydi-254c45",
+    "title": "Pensilvaniyadagi data-markaz atrofinda bahslar kuchaydi",
+    "summary": "Pensilvaniyadagi Hazle shaharchasida 165 million dollarlik ma'lumotlar markazi qurilishi bo'yicha bahslar kuchaydi. NorthPoint Development kompaniyasining aholiga rozilik evaziga 10 000 dollar taklif qilgani AI infratuzilmasi atrofidagi kelishmovchiliklarni keltirib chiqardi.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 22,
+    "published": "2026-10-11T09:30:00.000Z",
+    "created": "2026-10-11T10:01:50.386Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/10/11/rural-pennsylvania-northpoint-development-amazon-data-center-backlash-bipartisan-opposition",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "2dfa3d4b8169",
+    "slug": "hpe-ikki-yilda-ai-murojaatlarni-toliq-hal-qiladi-2dfa3d",
+    "title": "HPE: Ikki yilda AI murojaatlarni to'liq hal qiladi",
+    "summary": "HPE tarmoq bo'limi rahbari ikki yil ichida barcha texnik murojaatlarni AI agentlari inson aralashuvisiz hal qilishini bildirdi. Uning ta'kidlashicha, foydalanuvchilar bu tizimlarga avtomobilning avtomatik uzatish qutisidek ishonch bildiradi.",
+    "tags": [
+      "agentlar"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-10-11T09:37:00.000Z",
+    "created": "2026-10-11T10:01:50.387Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/networks/2026/10/11/hpes-networking-boss-says-ai-will-handle-all-trouble-tickets-without-humans-in-two-years/5302179",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "b5fb86d8eefe",
+    "slug": "ai-tokenlari-arzonlashuvi-h100-talabini-oshirmoqda-b5fb86",
+    "title": "AI tokenlari arzonlashuvi H100 talabini oshirmoqda",
+    "summary": "a16z ma'lumotlariga ko'ra, AI tokenlari narxi tushayotgan bo'lsa-da, H100 chiplari ijara narxi barqaror turibdi yoki oshmoqda. Arzonlashuv xizmatlarga bo'lgan talabni xarajatlar tushishidan ko'ra tezroq oshirmoqda.",
+    "tags": [
+      "Nvidia",
+      "chiplar"
+    ],
+    "importance": 3,
+    "score": 18,
+    "published": "2026-10-11T09:49:59.000Z",
+    "created": "2026-10-11T10:01:50.387Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/cheaper-ai-tokens-are-driving-more-demand-and-thats-jensen-huangs-best-case-scenario",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "1fdb12362ff2",
     "slug": "meta-muse-ai-agenti-oquvchiga-yordam-berdi-1fdb12",
     "title": "Meta Muse AI agenti o'quvchiga yordam berdi",
