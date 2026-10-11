@@ -1,5 +1,70 @@
 [
   {
+    "id": "a3ab2bb084c5",
+    "slug": "ai-inson-sanatiga-insoniy-qiymat-yaratmoqda-a3ab2b",
+    "title": "AI inson san'atiga \"insoniy qiymat\" yaratmoqda",
+    "summary": "Sun'iy intellektning rivojlanishi insonlar tomonidan yaratilgan san'at asarlariga bo'lgan talabni oshirib, ularga \"insoniy qiymat\" bermoqda. Bu AI davrida inson ijodining qadrini ko'rsatadi.",
+    "tags": [
+      "mehnat bozori"
+    ],
+    "importance": 3,
+    "score": 16.8,
+    "published": "2026-10-11T11:34:28.000Z",
+    "created": "2026-10-11T13:01:52.210Z",
+    "coverage": 1,
+    "source": {
+      "name": "Hacker News",
+      "url": "https://bbc.com/news/articles/c5vgjm3gk7rzo",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "4c640ca9263a",
+    "slug": "nadella-barcha-ai-modellari-buzilgan-deb-hisoblansin-4c640c",
+    "title": "Nadella: Barcha AI modellari \"buzilgan\" deb hisoblansin",
+    "summary": "Microsoft bosh direktori Satya Nadella barcha AI modellari \"buzilgan\" deb hisoblanishi kerakligini aytdi. U ilg'or AI modellarining xavflari va ularga qarshi turish yo'llari haqida o'z fikrlarini bildirdi.",
+    "tags": [
+      "Microsoft",
+      "xavfsizlik"
+    ],
+    "importance": 5,
+    "score": 13.9,
+    "published": "2026-10-10T22:10:17.000Z",
+    "created": "2026-10-11T13:01:52.211Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Verge",
+      "url": "https://theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "9b5f69491ec3",
+    "slug": "ai-aksiyalari-daromad-va-moliyalashtirish-savollari-bosimida-9b5f69",
+    "title": "AI aksiyalari daromad va moliyalashtirish savollari bosimida",
+    "summary": "AI kompaniyalarining aksiyalari daromad va moliyalashtirish bo'yicha savollar tufayli bozorlarda beqarorlikni boshdan kechirmoqda. Bu holat investorlar orasida xavotir uyg'otmoqda.",
+    "tags": [
+      "iqtisod",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": -4,
+    "published": "2026-10-09T21:30:00.000Z",
+    "created": "2026-10-11T13:01:52.211Z",
+    "coverage": 1,
+    "source": {
+      "name": "Investing News Network",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5xc1ZETzNSQnR0UnducUtIRUtmTWRocmN3a0hNeUJFZC02VDJIa3NaTmVhZmVyTHB5LVNyWWJoU1g5dzRGQmFncjBUeU1KRUNfc2c",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "7ef3282972f8",
     "slug": "keyt-middlton-farzandlariga-smartfon-ishlatishni-cheklaydi-7ef328",
     "title": "Keyt Middlton farzandlariga smartfon ishlatishni cheklaydi",
