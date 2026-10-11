@@ -1,5 +1,27 @@
 [
   {
+    "id": "e96b8175ab18",
+    "slug": "yandex-data-markaziga-hujum-cloudflare-trafigini-kamaytirdi-e96b81",
+    "title": "Yandex data-markaziga hujum Cloudflare trafigini kamaytirdi",
+    "summary": "Yandex'ning data-markaziga qilingan hujumdan so'ng Cloudflare'da bot trafigi keskin kamaygani kuzatildi. Bu holat ikki hodisa o'rtasidagi bog'liqlikni ko'rsatadi.",
+    "tags": [
+      "bulut",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 23,
+    "published": "2026-10-11T10:27:53.000Z",
+    "created": "2026-10-11T13:14:19.724Z",
+    "coverage": 1,
+    "source": {
+      "name": "Hacker News",
+      "url": "https://radar.cloudflare.com/bots/as13238?dateRange=7d",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "a3ab2bb084c5",
     "slug": "ai-inson-sanatiga-insoniy-qiymat-yaratmoqda-a3ab2b",
     "title": "AI inson san'atiga \"insoniy qiymat\" yaratmoqda",
