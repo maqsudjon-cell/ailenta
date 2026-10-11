@@ -1,5 +1,157 @@
 [
   {
+    "id": "7ef3282972f8",
+    "slug": "keyt-middlton-farzandlariga-smartfon-ishlatishni-cheklaydi-7ef328",
+    "title": "Keyt Middlton farzandlariga smartfon ishlatishni cheklaydi",
+    "summary": "Keyt Middlton bolalarning psixologik salomatligi bilan shug'ullanadi. U farzandlarini gadjetlardan uzoq, tabiiy muloqot muhitida tarbiyalaydi.",
+    "tags": [
+      "ta'lim"
+    ],
+    "importance": 2,
+    "score": 45,
+    "published": "2026-10-11T06:50:26.000Z",
+    "created": "2026-10-11T12:36:41.913Z",
+    "coverage": 1,
+    "source": {
+      "name": "Daryo",
+      "url": "https://daryo.uz/2026/10/11/qirollik-oilasi-gadjetlarga-qarshi-keyt-middlton-nega-farzandlariga-smartfondan-foydalanishga-ruxsat-bermasligini-tushuntirdi",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "f0d6eba723a5",
+    "slug": "tramp-ai-bilan-iqtisodiy-osish-va-soliq-vadalarini-qaytardi-f0d6eb",
+    "title": "Tramp AI bilan iqtisodiy o'sish va soliq va'dalarini qaytardi",
+    "summary": "Respublikachilar, jumladan Tramp, AI yordamida iqtisodiy o'sish va soliq imtiyozlari haqidagi va'dalarni qayta ilgari surmoqda. Bu Reagan davridagi muvaffaqiyatsiz siyosatga o'xshash deb baholanmoqda.",
+    "tags": [
+      "siyosat",
+      "iqtisod"
+    ],
+    "importance": 3,
+    "score": 26,
+    "published": "2026-10-11T11:00:25.000Z",
+    "created": "2026-10-11T12:36:41.913Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/business/2026/oct/11/trump-ai-economy-reagan",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "665014fe9ac1",
+    "slug": "ai-infratuzilmaga-hujum-qilishi-mumkin-tayyorlik-yoq-665014",
+    "title": "AI infratuzilmaga hujum qilishi mumkin, tayyorlik yo'q",
+    "summary": "AI tizimlari infratuzilmaga jiddiy hujumlar uyushtirishga qodir, ammo bunga hech kim tayyor emas. AI agentlari robot qo'llarini boshqarishi va OT qurilmalari ekranlarini manipulyatsiya qilishi mumkin.",
+    "tags": [
+      "xavfsizlik",
+      "agentlar"
+    ],
+    "importance": 4,
+    "score": 19,
+    "published": "2026-10-11T11:30:00.000Z",
+    "created": "2026-10-11T12:36:41.913Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/security/2026/10/11/ai-systems-are-fully-capable-of-carrying-out-nightmare-attacks-against-infrastructure-and-nobodys-ready/5302450",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "e33fcf902506",
+    "slug": "aurora-boylar-uchun-10-000-dollarlik-ai-konsyerj-xizmati-e33fcf",
+    "title": "Aurora: boylar uchun 10 000 dollarlik AI konsyerj xizmati",
+    "summary": "Aurora – bu faqat taklifnoma bilan ishlaydigan, yiliga 10 000 dollar turadigan AI konsyerj xizmati. U 12 million dollar sarmoya jalb qilgan bo'lib, AI va inson ekspertlarini birlashtirib, boylarning ehtiyojlarini qondiradi.",
+    "tags": [
+      "biznes",
+      "agentlar"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-10-11T11:29:00.000Z",
+    "created": "2026-10-11T12:36:41.913Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/10/11/meet-aurora-invite-only-ai-concierge-ultrawealthy-pay-10000-a-year-to-anticipate-their-every-need",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "1509d3d26ab5",
+    "slug": "ai-xavfsizligi-bahslari-uchinchi-baholovchilarni-keltirdi-1509d3",
+    "title": "AI xavfsizligi bahslari uchinchi baholovchilarni keltirdi",
+    "summary": "AI xavfsizligi bo'yicha kuchayib borayotgan munozaralar uchinchi tomon baholovchilarining rolini oshirmoqda. Bu kichik guruh ko'p trillion dollarlik AI sanoatining markaziga kirib bormoqda.",
+    "tags": [
+      "xavfsizlik",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-10-11T11:00:01.000Z",
+    "created": "2026-10-11T12:36:41.914Z",
+    "coverage": 1,
+    "source": {
+      "name": "CNBC",
+      "url": "https://cnbc.com/2026/10/11/ais-quiet-safety-gatekeepers-are-stepping-into-the-spotlight.html",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "2ecde3f57bd9",
+    "slug": "10-daqiqa-ai-ishlatish-qiyin-ishlarda-qatiyatni-pasaytiradi-2ecde3",
+    "title": "10 daqiqa AI ishlatish qiyin ishlarda qat'iyatni pasaytiradi",
+    "summary": "Tadqiqotga ko'ra, atigi 10 daqiqa AI'dan foydalanish qiyin vazifalarda qat'iyatni pasaytirishi mumkin. Bu AI'ning inson xulq-atvoriga ta'siri haqida.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 16.6,
+    "published": "2026-10-11T10:47:21.000Z",
+    "created": "2026-10-11T12:36:41.914Z",
+    "coverage": 1,
+    "source": {
+      "name": "Hacker News",
+      "url": "https://vcresearch.berkeley.edu/news/using-ai-just-10-minutes-erodes-your-ability-persist-hard-things",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "f379902df709",
+    "slug": "mahalliy-ai-modellardan-foydalanish-qiziqarli-va-murakkab-f37990",
+    "title": "Mahalliy AI modellardan foydalanish qiziqarli va murakkab",
+    "summary": "Bir muallif shaxsiy ma'lumotlarni bulut xizmatlariga berishdan xavotirlanib, mahalliy AI modellardan foydalanishni o'rganmoqda. Bu jarayonni u qiziqarli, ammo murakkab deb ta'rifladi.",
+    "tags": [
+      "maxfiylik",
+      "bulut"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-10-11T11:00:00.000Z",
+    "created": "2026-10-11T12:36:41.914Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Verge",
+      "url": "https://theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "c982f61c4c23",
     "slug": "anthropic-ai-xavfsizlik-talablariga-duch-keldi-c982f6",
     "title": "Anthropic AI xavfsizlik talablariga duch keldi",

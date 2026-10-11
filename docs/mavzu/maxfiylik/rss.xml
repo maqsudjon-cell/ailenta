@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/maxfiylik/</link>
   <description>&quot;maxfiylik&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Sun, 11 Oct 2026 12:08:31 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 11 Oct 2026 12:43:28 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/maxfiylik/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Mahalliy AI modellardan foydalanish qiziqarli va murakkab</title>
+    <link>https://ailenta.uz/x/mahalliy-ai-modellardan-foydalanish-qiziqarli-va-murakkab-f37990/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/mahalliy-ai-modellardan-foydalanish-qiziqarli-va-murakkab-f37990/</guid>
+    <pubDate>Sun, 11 Oct 2026 11:00:00 GMT</pubDate>
+    <description>Bir muallif shaxsiy ma'lumotlarni bulut xizmatlariga berishdan xavotirlanib, mahalliy AI modellardan foydalanishni o'rganmoqda. Bu jarayonni u qiziqarli, ammo murakkab deb ta'rifladi.</description>
+    <category>maxfiylik</category><category>bulut</category>
+    <media:content url="https://ailenta.uz/og/mahalliy-ai-modellardan-foydalanish-qiziqarli-va-murakkab-f37990.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/mahalliy-ai-modellardan-foydalanish-qiziqarli-va-murakkab-f37990.jpg"/>
+  </item>
   <item>
     <title>Flock Safety xodimlari sonini qisqartirmoqda</title>
     <link>https://ailenta.uz/x/flock-safety-xodimlari-sonini-qisqartirmoqda-2ef3ea/</link>
@@ -296,16 +306,6 @@
     <category>biznes</category><category>maxfiylik</category>
     <media:content url="https://ailenta.uz/og/walmart-ai-orqali-shaxsiylashtirilgan-narxlar-qollamasligini-62caf3.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/walmart-ai-orqali-shaxsiylashtirilgan-narxlar-qollamasligini-62caf3.jpg"/>
-  </item>
-  <item>
-    <title>Supabase mijozlari AI ilovalari orqali ma'lumotlarni oshkor qilmoqda</title>
-    <link>https://ailenta.uz/x/supabase-mijozlari-ai-ilovalari-orqali-malumotlarni-oshkor-q-ca53c4/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/supabase-mijozlari-ai-ilovalari-orqali-malumotlarni-oshkor-q-ca53c4/</guid>
-    <pubDate>Fri, 25 Sep 2026 17:29:46 GMT</pubDate>
-    <description>Ba'zi Supabase mijozlari foydalanuvchilar ma'lumotlarini internetga oshkor qilmoqda. Bu AI tomonidan yaratilgan ilovalar noto'g'ri sozlanganda ma'lumotlarni sizdirishi mumkinligini ko'rsatadi.</description>
-    <category>maxfiylik</category><category>xavfsizlik</category>
-    <media:content url="https://ailenta.uz/og/supabase-mijozlari-ai-ilovalari-orqali-malumotlarni-oshkor-q-ca53c4.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/supabase-mijozlari-ai-ilovalari-orqali-malumotlarni-oshkor-q-ca53c4.jpg"/>
   </item>
 </channel>
 </rss>
