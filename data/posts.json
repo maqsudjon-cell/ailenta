@@ -1,5 +1,71 @@
 [
   {
+    "id": "1fdb12362ff2",
+    "slug": "meta-muse-ai-agenti-oquvchiga-yordam-berdi-1fdb12",
+    "title": "Meta Muse AI agenti o'quvchiga yordam berdi",
+    "summary": "Franco Lopez Meta'ning Muse AI agentidan o'g'lini astronomiya viktorinasiga tayyorlash uchun foydalandi. Agent unga fleshkartalar va maxsus podkast yaratib berdi, natijada o'g'li viktorinani a'lo bahoga topshirdi.",
+    "tags": [
+      "Meta",
+      "agentlar"
+    ],
+    "importance": 2,
+    "score": 18,
+    "published": "2026-10-11T08:59:01.000Z",
+    "created": "2026-10-11T09:36:20.067Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/father-uses-meta-muse-kids-quiz-study-tool-2026-10",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "c19c43c3d06c",
+    "slug": "ai-yordamida-ishga-joylashish-firibgarliklari-c19c43",
+    "title": "AI yordamida ishga joylashish firibgarliklari",
+    "summary": "So'biq ma'lumotlar tahlilchisi AI yordamida amalga oshirilayotgan ishga joylashish firibgarliklari haqida ogohlantirdi. Uning so'zlariga ko'ra, bu firibgarliklarda odatiy ogohlantiruvchi belgilar bo'lmasligi mumkin, shuning uchun xabardorlik muhim.",
+    "tags": [
+      "xavfsizlik",
+      "mehnat bozori"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-10-11T09:16:01.000Z",
+    "created": "2026-10-11T09:36:20.067Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/how-to-spot-red-flags-job-scams-fake-recruiters-2026-10",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "816b4f5ee81a",
+    "slug": "spacex-va-boshqa-gigantlar-ai-chiplariga-milliard-sarflamoqd-816b4f",
+    "title": "SpaceX va boshqa gigantlar AI chiplariga milliard sarflamoqda",
+    "summary": "SpaceX va boshqa texnologiya gigantlari sun'iy intellekt chiplarini sotib olish uchun milliardlab dollar sarflamoqda. Bu AI sohasidagi investitsiyalar hajmining o'sib borayotganini ko'rsatadi.",
+    "tags": [
+      "chiplar",
+      "biznes"
+    ],
+    "importance": 4,
+    "score": 7,
+    "published": "2026-10-11T09:34:25.000Z",
+    "created": "2026-10-11T09:36:20.067Z",
+    "coverage": 1,
+    "source": {
+      "name": "Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVV9EUjBkMklQekpYOUV0WWlvUDZnVzFaOGFXdXI4LWFtOFNXUWZ6Um5LLXc1bUs4YzMwcEliZ0Y4dkJGVnNfRXJON01yc2NwRnQ2S2ZBTGJZVEZoQnhyVWoxVi02U2RodG02ajY3SUJtbzJJcHRnNDdWWUVPRFdnR0pBVVB4NXYt",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "b4559d48854f",
     "slug": "ai-kompaniyalarining-yoqimtoy-maskotlari-b4559d",
     "title": "AI kompaniyalarining yoqimtoy maskotlari",
