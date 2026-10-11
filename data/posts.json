@@ -1,5 +1,48 @@
 [
   {
+    "id": "6b9cbd70a385",
+    "slug": "o-zbekistonda-innovatsiya-va-startap-parklari-ochiladi-6b9cbd",
+    "title": "O‘zbekistonda innovatsiya va startap parklari ochiladi",
+    "summary": "O‘zbekistonda innovatsiya va startap loyihalar parklari tashkil etilmoqda. Ularda tadbirkorlarga mahsulot ishlab chiqarish, ilmiy ishlanmalarni tijoratlashtirish hamda xalqaro bozorlarga chiqish bo‘yicha xizmatlar ko‘rsatiladi.",
+    "tags": [
+      "O'zbekiston",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 45,
+    "published": "2026-10-11T03:00:17.000Z",
+    "created": "2026-10-11T03:01:16.898Z",
+    "coverage": 1,
+    "source": {
+      "name": "Daryo",
+      "url": "https://daryo.uz/2026/10/11/ozbekistonda-innovatsiya-va-startap-loyihalar-parklari-tashkil-etiladi",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "4e9fefc228ac",
+    "slug": "westlake-robotics-shim-buklaydigan-robotlarni-korsatdi-4e9fef",
+    "title": "Westlake Robotics shim buklaydigan robotlarni ko'rsatdi",
+    "summary": "Westlake Robotics kompaniyasining WR1 tizimi boshqaruvidagi humanoid robotlar uy yumushlarini bajardi va shim buklash amaliyotini ko'rsatdi. Kompaniya buni chaqqon qo'llar bilan bajarilgan dunyodagi birinchi natija deb atadi.",
+    "tags": [
+      "robototexnika"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-10-11T01:51:42.000Z",
+    "created": "2026-10-11T03:01:16.898Z",
+    "coverage": 1,
+    "source": {
+      "name": "Pandaily",
+      "url": "https://pandaily.com/westlake-robotics-wr1-humanoid-general-brain-dexterous-hand-clothes-folding",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "b2162afaf147",
     "slug": "meta-anthropicning-hisoblash-resursi-sorovini-rad-etdi-b2162a",
     "title": "Meta Anthropic'ning hisoblash resursi so'rovini rad etdi",
