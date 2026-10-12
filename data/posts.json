@@ -1,5 +1,136 @@
 [
   {
+    "id": "b11d5e8e2e91",
+    "slug": "ai-aktyorlarning-raqamli-qiyofasini-litsenziyalash-b11d5e",
+    "title": "AI aktyorlarning raqamli qiyofasini litsenziyalash",
+    "summary": "AI yordamida yaratilgan aktyorlar va ularning raqamli nusxalari ko‘ngilochar industriyani o‘zgartirmoqda. Bu raqamli qiyofani litsenziyalash va aktyorlar huquqlari masalasini kun tartibiga olib chiqmoqda.",
+    "tags": [
+      "mehnat bozori",
+      "qonun"
+    ],
+    "importance": 3,
+    "score": 48,
+    "published": "2026-10-12T06:00:00.000Z",
+    "created": "2026-10-12T06:36:07.910Z",
+    "coverage": 1,
+    "source": {
+      "name": "Pivot",
+      "url": "https://pivot.uz/uz/ai-aktyorlarni-almashtiryaptimi-endi-ularning-raqamli-qiyofasi-ham-litsenziyalanmoqda",
+      "title": "AI aktyorlarni almashtiryaptimi? Endi ularning raqamli qiyofasi ham litsenziyalanmoqda",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "5c807ccf96dd",
+    "slug": "idish-yuvish-mashinasi-nega-robot-emas-5c807c",
+    "title": "Idish yuvish mashinasi nega robot emas",
+    "summary": "Hacker News nashri \"robot\" tushunchasining ijtimoiy konstruksiya ekanligini muhokama qildi. Maqolada idish yuvish mashinasi kabi qurilmalar nega robot hisoblanmasligi tushuntirilgan.",
+    "tags": [
+      "robototexnika",
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 13.8,
+    "published": "2026-10-11T10:34:43.000Z",
+    "created": "2026-10-12T06:36:07.939Z",
+    "coverage": 1,
+    "source": {
+      "name": "Hacker News",
+      "url": "https://robotgirlgang.com/2026/10/08/robot-is-a-social-construct-why-your-dishwasher-is-not-a-robot",
+      "title": "\"Robot\" Is a Social Construct: Why Your Dishwasher Is Not a Robot",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "6def3e7a2af7",
+    "slug": "dunyo-aiga-berilib-yadroviy-xavfni-unutmoqda-6def3e",
+    "title": "Dunyo AI'ga berilib, yadroviy xavfni unutmoqda",
+    "summary": "Simon Tisdallning fikricha, insoniyat AI'ga haddan tashqari e'tibor qaratib, yadroviy qurollarning tarqalishi keltirib chiqaradigan jiddiy xavfni e'tibordan chetda qoldirmoqda. Uning ta'kidlashicha, bu \"oxirzamon\"ni yaqinlashtirmoqda.",
+    "tags": [
+      "siyosat",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 19.2,
+    "published": "2026-10-11T09:00:22.000Z",
+    "created": "2026-10-12T06:36:16.447Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/commentisfree/2026/oct/11/ai-annihilation-advanced-nuclear-weapons",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "20ab7ee2c3de",
+    "slug": "spekulyativ-xulosa-chiqarishda-kontekstual-tuzatish-20ab7e",
+    "title": "Spekulyativ xulosa chiqarishda kontekstual tuzatish",
+    "summary": "Yangi tadqiqot spekulyativ xulosa chiqarishni tezlashtirish uchun yengil drafter yordamida bir nechta tokenlarni taklif qilishni o'rganadi. Bu usul katta til modellarining xulosa chiqarish jarayonini samaraliroq qiladi.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 16,
+    "published": "2026-10-12T04:00:00.000Z",
+    "created": "2026-10-12T06:36:16.447Z",
+    "coverage": 1,
+    "source": {
+      "name": "arXiv cs.CL",
+      "url": "https://arxiv.org/abs/2610.12570",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "fab27528b09d",
+    "slug": "ai-yordamida-c-kodini-refaktoring-qilish-tajribasi-fab275",
+    "title": "AI yordamida C++ kodini refaktoring qilish tajribasi",
+    "summary": "Habr nashri AI yordamida embedded tizimlardagi murakkab C++ kodini refaktoring qilish tajribasini muhokama qildi. Maqolada AI'ning bu jarayondagi imkoniyatlari va cheklovlari ko'rib chiqilgan.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 14,
+    "published": "2026-10-12T01:05:03.000Z",
+    "created": "2026-10-12T06:36:16.447Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1092774",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "1fdde920bd01",
+    "slug": "autoindexer-kausal-modellarni-oqitishda-yangi-usul-1fdde9",
+    "title": "AutoIndexer: Kausal modellarni o'qitishda yangi usul",
+    "summary": "Yangi tadqiqot AutoIndexer nomli generativ modelni taklif etadi. Bu model o'qitish va xulosa chiqarish mexanizmi orqali avvalgi natijalarni tokenlar orqali moslashuvchan tarzda o'zgartirish imkonini beradi.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 13,
+    "published": "2026-10-12T04:00:00.000Z",
+    "created": "2026-10-12T06:36:16.447Z",
+    "coverage": 1,
+    "source": {
+      "name": "arXiv cs.CL",
+      "url": "https://arxiv.org/abs/2610.12545",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "f8fbb4d8e948",
     "slug": "tiktok-rahbari-aidan-yirik-ilmiy-yutuqlar-kutmoqda-f8fbb4",
     "title": "TikTok rahbari AI'dan yirik ilmiy yutuqlar kutmoqda",
