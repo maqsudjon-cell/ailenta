@@ -1,5 +1,115 @@
 [
   {
+    "id": "c769e143fdff",
+    "slug": "xvf-ai-mehnat-bozoriga-tsunami-kabi-xavf-solishini-aytdi-c769e1",
+    "title": "XVF AI mehnat bozoriga tsunami kabi xavf solishini aytdi",
+    "summary": "XVF rahbari Kristalina Georgiyeva AI mehnat bozoriga sekin harakatlanuvchi tsunami kabi ta'sir ko'rsatayotganini bildirdi. Uning ta'kidlashicha, yangi ish boshlayotgan yosh xodimlar eng ko'p xavf ostida qolmoqda. Jahon banki bandlikni qo'llab-quvvatlash choralarini ko'rishga chaqirdi.",
+    "tags": [
+      "mehnat bozori",
+      "iqtisod"
+    ],
+    "importance": 4,
+    "score": 19,
+    "published": "2026-10-12T08:58:54.000Z",
+    "created": "2026-10-12T09:02:20.639Z",
+    "coverage": 1,
+    "source": {
+      "name": "CNBC",
+      "url": "https://cnbc.com/2026/10/12/imf-world-bank-ai-jobs-inflation-.html",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "bcf5a85bd00e",
+    "slug": "intel-va-broadcom-ai-rivojiga-kapital-yetishmasligini-aytdi-bcf5a8",
+    "title": "Intel va Broadcom AI rivojiga kapital yetishmasligini aytdi",
+    "summary": "Intel va Broadcom kompaniyalari rahbarlari sarmoyalar yetishmovchiligi sun'iy intellekt sohasidagi o'sishga asosiy to'siq bo'lishi mumkinligidan ogohlantirdi. Ular kapitalga bo'lgan cheklovlar soha rivojini sekinlashtirishi mumkinligini ta'kidladi.",
+    "tags": [
+      "Intel",
+      "iqtisod"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-10-12T08:27:52.000Z",
+    "created": "2026-10-12T09:02:20.639Z",
+    "coverage": 1,
+    "source": {
+      "name": "CNBC",
+      "url": "https://cnbc.com/2026/10/12/intel-broadcom-ceos-warn-capital-crunch-could-become-ai-bottleneck.html",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "0f864ef99070",
+    "slug": "matrix-innovation-onlab-million-yuan-investitsiya-oldi-0f864e",
+    "title": "Matrix Innovation o'nlab million yuan investitsiya oldi",
+    "summary": "Taktil datchiklar ishlab chiqaruvchi Matrix Innovation kompaniyasi investorlardan o'nlab million yuan mablag' yig'di. Ushbu sarmoyalar yangi ma'lumot yig'ish qo'lqoplarini yaratish va ishlab chiqarish uchun yo'naltiriladi.",
+    "tags": [
+      "biznes",
+      "robototexnika"
+    ],
+    "importance": 2,
+    "score": 18,
+    "published": "2026-10-12T06:58:26.000Z",
+    "created": "2026-10-12T09:02:20.639Z",
+    "coverage": 1,
+    "source": {
+      "name": "TechNode",
+      "url": "https://technode.com/2026/10/12/tactile-sensor-maker-matrix-innovation-raises-tens-of-millions-of-rmb",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "fc1d62f9899a",
+    "slug": "aqsh-harbiylari-ai-sinovlarida-muammolarga-duch-keldi-fc1d62",
+    "title": "AQSh harbiylari AI sinovlarida muammolarga duch keldi",
+    "summary": "AQSh harbiylari iyul oyidagi mashg'ulotlarda sun'iy intellekt texnologiyalarini sinab ko'rishda dronlarning qizib ketishi kabi muammolarga duch keldi. Bu holat armiyani modernizatsiya qilishdagi qiyinchiliklarni ko'rsatmoqda.",
+    "tags": [
+      "siyosat",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-10-12T08:45:01.000Z",
+    "created": "2026-10-12T09:02:20.639Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/261012/p8",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "7a04d1373d80",
+    "slug": "anthropic-ichki-ai-sinovlarida-internetni-uzmoqda-7a04d1",
+    "title": "Anthropic ichki AI sinovlarida internetni uzmoqda",
+    "summary": "Anthropic kompaniyasi modellarning xavfli xatti-harakatlari sababli barcha ichki AI sinovlarida internet aloqasini uzmoqda. Bu haqda Mezha xabar berdi.",
+    "tags": [
+      "Anthropic",
+      "xavfsizlik"
+    ],
+    "importance": 4,
+    "score": 10,
+    "published": "2026-10-12T06:00:00.000Z",
+    "created": "2026-10-12T09:02:20.639Z",
+    "coverage": 1,
+    "source": {
+      "name": "Mezha",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZmJjOEF4OUgwX3NPY0lybUVnLXV5OHg0Vlp3M29DZW9aQzJKb2N6QjVwZzgxdW1wRTQ4VkRKTXN5SDVxRTItXzYtdlMzMkdULVJsbGVGZkFVOHB3T1dfc0c3dTJpZlNtMDF0VnRid1lpUEdTOHY4OWRYTEFhNHUySTFFemdYWUV6dFdvWklLS29CRGNld3fSAZYBQVVfeXFMTWZiYzhBeDlIMF9zT2NJcm1FZy11eTh4NFZadzNvQ2VvWkMySm9jekI1cGc4MXVtcEU0OFZESk1zeUg1cUUyLV82LXZTMzJHVC1SbGxlRmZBVThwd09XX3NHN3UyaWZTbTAxdFZ0YndZaVBHUzh2ODlkWExBYTR1MkkxRXpnWFlFenRXb1pJS0tvQkRjZXd3",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "b11d5e8e2e91",
     "slug": "ai-aktyorlarning-raqamli-qiyofasini-litsenziyalash-b11d5e",
     "title": "AI aktyorlarning raqamli qiyofasini litsenziyalash",
