@@ -5,7 +5,7 @@
   <link>https://ailenta.uz/mavzu/robototexnika/</link>
   <description>&quot;robototexnika&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Mon, 12 Oct 2026 19:08:04 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 12 Oct 2026 20:04:06 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/robototexnika/rss.xml" rel="self" type="application/rss+xml"/>
   <item>
     <title>Gumanoid robotlar uchun harakatni rejalashtirish va kuzatish</title>
@@ -36,6 +36,16 @@
     <category>robototexnika</category><category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/beingbeyond-being-m0-7-gumanoidlarni-orgatmoqda-5e3f3a.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/beingbeyond-being-m0-7-gumanoidlarni-orgatmoqda-5e3f3a.jpg"/>
+  </item>
+  <item>
+    <title>JAKA Robotics yangi Kargo50 va Zu50 robotlarini taqdim etdi</title>
+    <link>https://ailenta.uz/x/jaka-robotics-yangi-kargo50-va-zu50-robotlarini-taqdim-etdi-9448f3/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/jaka-robotics-yangi-kargo50-va-zu50-robotlarini-taqdim-etdi-9448f3/</guid>
+    <pubDate>Mon, 12 Oct 2026 02:05:59 GMT</pubDate>
+    <description>JAKA Robotics Shanxay sanoat yarmarkasida Kargo50 og'ir yuk ko'taruvchi g'ildirakli gumanoid robotini va 50 kg yuk ko'taruvchi Zu50 kollaborativ robotini namoyish qildi.</description>
+    <category>robototexnika</category>
+    <media:content url="https://ailenta.uz/og/jaka-robotics-yangi-kargo50-va-zu50-robotlarini-taqdim-etdi-9448f3.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/jaka-robotics-yangi-kargo50-va-zu50-robotlarini-taqdim-etdi-9448f3.jpg"/>
   </item>
   <item>
     <title>Idish yuvish mashinasi nega robot emas</title>
@@ -296,16 +306,6 @@
     <category>robototexnika</category><category>biznes</category>
     <media:content url="https://ailenta.uz/og/amerikalik-investorlar-xitoy-robot-zavodlarini-o-rganmoqda-2d7e2f.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/amerikalik-investorlar-xitoy-robot-zavodlarini-o-rganmoqda-2d7e2f.jpg"/>
-  </item>
-  <item>
-    <title>Multimodal modellar robot vazifalarining yarmiga yetdi</title>
-    <link>https://ailenta.uz/x/multimodal-modellar-robot-vazifalarining-yarmiga-yetdi-2b0ec8/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/multimodal-modellar-robot-vazifalarining-yarmiga-yetdi-2b0ec8/</guid>
-    <pubDate>Mon, 05 Oct 2026 07:14:31 GMT</pubDate>
-    <description>Dalian Texnologiya Universiteti VA-Bench sinov to'plamida 12 ta multimodal modelni robot-qo'l vazifalarida sinovdan o'tkazdi. Qwen3.8-max 53.93% natija bilan yetakchilik qildi, ammo hech biri murakkab vazifani bajara olmadi.</description>
-    <category>tadqiqot</category><category>robototexnika</category>
-    <media:content url="https://ailenta.uz/og/multimodal-modellar-robot-vazifalarining-yarmiga-yetdi-2b0ec8.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/multimodal-modellar-robot-vazifalarining-yarmiga-yetdi-2b0ec8.jpg"/>
   </item>
 </channel>
 </rss>

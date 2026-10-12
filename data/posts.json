@@ -1,5 +1,70 @@
 [
   {
+    "id": "8a70427187b8",
+    "slug": "microsoft-ai-repetitori-uchun-talabani-simulyatsiya-qildi-8a7042",
+    "title": "Microsoft AI repetitori uchun talabani simulyatsiya qildi",
+    "summary": "Microsoft AI repetitorlik tizimlarini yaxshilash maqsadida talabalarning o'rganish jarayonini simulyatsiya qilmoqda. Bu AI yordamida ta'lim samaradorligini oshirishga qaratilgan.",
+    "tags": [
+      "Microsoft",
+      "ta'lim"
+    ],
+    "importance": 2,
+    "score": 33,
+    "published": "2026-10-12T17:47:28.000Z",
+    "created": "2026-10-12T19:59:31.370Z",
+    "coverage": 1,
+    "source": {
+      "name": "Microsoft",
+      "url": "https://microsoft.com/en-us/research/blog/simulating-student-learning-for-better-ai-tutoring",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "ca0effb06157",
+    "slug": "meta-muse-wonder-va-muse-wonder-full-modellarini-taqdim-etdi-ca0eff",
+    "title": "Meta Muse Wonder va Muse Wonder Full modellarini taqdim etdi",
+    "summary": "Meta shaxsiy va professional agentlik vazifalari uchun mo'ljallangan Muse Wonder va Muse Wonder Full AI modellarini ishga tushirdi. Ular Active Memory va Active Focus kabi xususiyatlarga ega bo'lib, uzoq muddatli vazifalarni samarali bajarishga yordam beradi.",
+    "tags": [
+      "Meta",
+      "agentlar"
+    ],
+    "importance": 4,
+    "score": 21,
+    "published": "2026-10-12T17:00:13.000Z",
+    "created": "2026-10-12T19:59:31.370Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/261012/p31",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "9448f395985e",
+    "slug": "jaka-robotics-yangi-kargo50-va-zu50-robotlarini-taqdim-etdi-9448f3",
+    "title": "JAKA Robotics yangi Kargo50 va Zu50 robotlarini taqdim etdi",
+    "summary": "JAKA Robotics Shanxay sanoat yarmarkasida Kargo50 og'ir yuk ko'taruvchi g'ildirakli gumanoid robotini va 50 kg yuk ko'taruvchi Zu50 kollaborativ robotini namoyish qildi.",
+    "tags": [
+      "robototexnika"
+    ],
+    "importance": 3,
+    "score": 12.7,
+    "published": "2026-10-12T02:05:59.000Z",
+    "created": "2026-10-12T19:59:31.370Z",
+    "coverage": 1,
+    "source": {
+      "name": "Pandaily",
+      "url": "https://pandaily.com/jaka-robotics-kargo50-heavy-duty-wheeled-humanoid-zu50-cobot-ciif-2026",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "078515a7891b",
     "slug": "aiga-muzlatgichdan-kamroq-tartibga-solish-xavfli-078515",
     "title": "AI'ga muzlatgichdan kamroq tartibga solish xavfli",
