@@ -1,67 +1,29 @@
 [
   {
-    "id": "8a70427187b8",
-    "slug": "microsoft-ai-repetitori-uchun-talabani-simulyatsiya-qildi-8a7042",
-    "title": "Microsoft AI repetitori uchun talabani simulyatsiya qildi",
-    "summary": "Microsoft AI repetitorlik tizimlarini yaxshilash maqsadida talabalarning o'rganish jarayonini simulyatsiya qilmoqda. Bu AI yordamida ta'lim samaradorligini oshirishga qaratilgan.",
+    "id": "5974203bb3c7",
+    "slug": "bred-smit-ai-sohasini-tartibga-solishga-chaqirdi-597420",
+    "title": "Bred Smit AI sohasini tartibga solishga chaqirdi",
+    "summary": "Microsoft prezidenti Bred Smit sun'iy intellektni zudlik bilan tartibga solishga chaqirib, Buyuk Britaniya bu jarayonda yetakchi bo'lish uchun qulay o'rinda ekanini aytdi. Uning so'zlariga ko'ra, hozirda sut va kir yuvish mashinalari AI kompaniyalaridan ko'ra qattiqroq nazorat qilinmoqda.",
     "tags": [
       "Microsoft",
-      "ta'lim"
-    ],
-    "importance": 2,
-    "score": 33,
-    "published": "2026-10-12T17:47:28.000Z",
-    "created": "2026-10-12T19:59:31.370Z",
-    "coverage": 1,
-    "source": {
-      "name": "Microsoft",
-      "url": "https://microsoft.com/en-us/research/blog/simulating-student-learning-for-better-ai-tutoring",
-      "indirect": false
-    },
-    "also": [],
-    "model": "gemini"
-  },
-  {
-    "id": "ca0effb06157",
-    "slug": "meta-muse-wonder-va-muse-wonder-full-modellarini-taqdim-etdi-ca0eff",
-    "title": "Meta Muse Wonder va Muse Wonder Full modellarini taqdim etdi",
-    "summary": "Meta shaxsiy va professional agentlik vazifalari uchun mo'ljallangan Muse Wonder va Muse Wonder Full AI modellarini ishga tushirdi. Ular Active Memory va Active Focus kabi xususiyatlarga ega bo'lib, uzoq muddatli vazifalarni samarali bajarishga yordam beradi.",
-    "tags": [
-      "Meta",
-      "agentlar"
-    ],
-    "importance": 4,
-    "score": 21,
-    "published": "2026-10-12T17:00:13.000Z",
-    "created": "2026-10-12T19:59:31.370Z",
-    "coverage": 1,
-    "source": {
-      "name": "Techmeme",
-      "url": "https://techmeme.com/261012/p31",
-      "indirect": false
-    },
-    "also": [],
-    "model": "gemini"
-  },
-  {
-    "id": "9448f395985e",
-    "slug": "jaka-robotics-yangi-kargo50-va-zu50-robotlarini-taqdim-etdi-9448f3",
-    "title": "JAKA Robotics yangi Kargo50 va Zu50 robotlarini taqdim etdi",
-    "summary": "JAKA Robotics Shanxay sanoat yarmarkasida Kargo50 og'ir yuk ko'taruvchi g'ildirakli gumanoid robotini va 50 kg yuk ko'taruvchi Zu50 kollaborativ robotini namoyish qildi.",
-    "tags": [
-      "robototexnika"
+      "qonun"
     ],
     "importance": 3,
-    "score": 12.7,
-    "published": "2026-10-12T02:05:59.000Z",
-    "created": "2026-10-12T19:59:31.370Z",
-    "coverage": 1,
+    "score": 21,
+    "published": "2026-10-12T15:31:19.000Z",
+    "created": "2026-10-12T20:05:19.472Z",
+    "coverage": 2,
     "source": {
-      "name": "Pandaily",
-      "url": "https://pandaily.com/jaka-robotics-kargo50-heavy-duty-wheeled-humanoid-zu50-cobot-ciif-2026",
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation",
       "indirect": false
     },
-    "also": [],
+    "also": [
+      {
+        "name": "TechCrunch",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMkdWMWdtZHpPVGw2ckJseDNGd1FVVGE5ZVo2cUd6TEpSTE1xRlJNNXY2X1RLRWo0ZTAtOTc2VFRaQTBuMjNrX2ZjYkZyNUphUlBrWnNwb1hmWGNmRDN1bHFkMVRuelNRSHdXNFN3WWVzSXpTLWk4eldfNEVRTDdvVWttZ19zOEFjZjlLbkpKWXpZVlVHV3RyQW1RZ0NfMTBSTHc"
+      }
+    ],
     "model": "gemini"
   },
   {
