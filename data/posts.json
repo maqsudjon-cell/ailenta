@@ -1,5 +1,49 @@
 [
   {
+    "id": "a12dd127bb41",
+    "slug": "buyuk-britaniya-kiberhimoyani-kuchaytiradi-a12dd1",
+    "title": "Buyuk Britaniya kiberhimoyani kuchaytiradi",
+    "summary": "Buyuk Britaniya AI vaziri Kanishka Narayan texnologik kompaniyalar o'z modellarini o'zlari nazorat qilishiga tayanib bo'lmasligini aytdi. Mamlakat kiberhimoyani kuchaytiradi va shaxsiy AI infratuzilmasini barpo etishni rejalashtirmoqda. Narayan yetakchi kompaniyalarni xavfsizlikni oshirishga chaqirdi.",
+    "tags": [
+      "xavfsizlik",
+      "siyosat"
+    ],
+    "importance": 3,
+    "score": 23,
+    "published": "2026-10-11T23:01:39.000Z",
+    "created": "2026-10-12T04:02:15.247Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/technology/2026/oct/12/uk-strengthen-cyber-defences-minister-ai-firms-safety",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "d2672b6d48e3",
+    "slug": "bridge-data-centres-kreditni-6-6-mlrd-dollarga-oshirmoqda-d2672b",
+    "title": "Bridge Data Centres kreditni 6,6 mlrd dollarga oshirmoqda",
+    "summary": "Bain Capital'ga tegishli Bridge Data Centres kredit hajmini 2,8 milliard dollardan 6,6 milliard dollargacha oshirish bo'yicha muzokaralar olib bormoqda. Bu Osiyodagi eng yirik data-markaz bitimlaridan biriga aylanishi mumkin.",
+    "tags": [
+      "biznes",
+      "bulut"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-10-12T03:20:00.000Z",
+    "created": "2026-10-12T04:02:15.247Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/261011/p16",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "b649da707052",
     "slug": "vitalize-shifoxonalar-uchun-ai-platformasiga-31-mln-yigdi-b649da",
     "title": "Vitalize shifoxonalar uchun AI platformasiga $31 mln yig'di",

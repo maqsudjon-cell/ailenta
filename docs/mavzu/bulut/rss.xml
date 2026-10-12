@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/bulut/</link>
   <description>&quot;bulut&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Mon, 12 Oct 2026 03:40:59 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 12 Oct 2026 04:07:33 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/bulut/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Bridge Data Centres kreditni 6,6 mlrd dollarga oshirmoqda</title>
+    <link>https://ailenta.uz/x/bridge-data-centres-kreditni-6-6-mlrd-dollarga-oshirmoqda-d2672b/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/bridge-data-centres-kreditni-6-6-mlrd-dollarga-oshirmoqda-d2672b/</guid>
+    <pubDate>Mon, 12 Oct 2026 03:20:00 GMT</pubDate>
+    <description>Bain Capital'ga tegishli Bridge Data Centres kredit hajmini 2,8 milliard dollardan 6,6 milliard dollargacha oshirish bo'yicha muzokaralar olib bormoqda. Bu Osiyodagi eng yirik data-markaz bitimlaridan biriga aylanishi mumkin.</description>
+    <category>biznes</category><category>bulut</category>
+    <media:content url="https://ailenta.uz/og/bridge-data-centres-kreditni-6-6-mlrd-dollarga-oshirmoqda-d2672b.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/bridge-data-centres-kreditni-6-6-mlrd-dollarga-oshirmoqda-d2672b.jpg"/>
+  </item>
   <item>
     <title>Mahalliy AI modellardan foydalanish qiziqarli va murakkab</title>
     <link>https://ailenta.uz/x/mahalliy-ai-modellardan-foydalanish-qiziqarli-va-murakkab-f37990/</link>
@@ -296,16 +306,6 @@
     <category>Yandex</category><category>bulut</category>
     <media:content url="https://ailenta.uz/og/yandex-aliceai-foundation-modelining-xulosa-chiqarish-narxi-b1a4c9.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/yandex-aliceai-foundation-modelining-xulosa-chiqarish-narxi-b1a4c9.jpg"/>
-  </item>
-  <item>
-    <title>Docker'da SSH-agent orqali xavfsiz SSH-kirish</title>
-    <link>https://ailenta.uz/x/dockerda-ssh-agent-orqali-xavfsiz-ssh-kirish-5e2e13/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/dockerda-ssh-agent-orqali-xavfsiz-ssh-kirish-5e2e13/</guid>
-    <pubDate>Sun, 27 Sep 2026 14:03:32 GMT</pubDate>
-    <description>Habr nashri ssh-agent va rootless Docker asosidagi arxitekturani muhokama qildi. Bu yechimda jarayon shaxsiy kalitni olmasdan SSH-kirishdan foydalanishi mumkin. Bu xavfsizlikni oshiradi, chunki kalit jarayon buzilgan taqdirda ham o‘g‘irlanmaydi.</description>
-    <category>xavfsizlik</category><category>bulut</category>
-    <media:content url="https://ailenta.uz/og/dockerda-ssh-agent-orqali-xavfsiz-ssh-kirish-5e2e13.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/dockerda-ssh-agent-orqali-xavfsiz-ssh-kirish-5e2e13.jpg"/>
   </item>
 </channel>
 </rss>
