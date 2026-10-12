@@ -1,5 +1,181 @@
 [
   {
+    "id": "963632d14ad5",
+    "slug": "toshkentda-keraksiz-buyumlar-uchun-yangi-platforma-963632",
+    "title": "Toshkentda keraksiz buyumlar uchun yangi platforma",
+    "summary": "Toshkentda keraksiz buyumlarga ikkinchi hayot berishga qaratilgan yangi platforma taqdimoti bo‘lib o‘tdi. Uning g‘oyasi bir kishi uchun ahamiyatsiz bo‘lgan buyum boshqasi uchun qadrdon bo‘lishidir.",
+    "tags": [
+      "O'zbekiston",
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 45,
+    "published": "2026-10-12T09:09:53.000Z",
+    "created": "2026-10-12T10:02:45.235Z",
+    "coverage": 1,
+    "source": {
+      "name": "Daryo",
+      "url": "https://daryo.uz/2026/10/12/keraksiz-buyumlarga-ikkinchi-hayot-toshkentda-yangi-platforma-taqdimoti-bolib-otdi",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "d41e6885a089",
+    "slug": "gumanoid-robotlar-uchun-harakatni-rejalashtirish-va-kuzatish-d41e68",
+    "title": "Gumanoid robotlar uchun harakatni rejalashtirish va kuzatish",
+    "summary": "Yangi tadqiqot gumanoid robotlarda professional sportchi harakatini saqlash uchun harakatni rejalashtirish va kuzatishni ajratishni ko‘rib chiqadi. Adaptiv boshqaruv simulyatsiya va real dunyo o‘rtasidagi farqni bartaraf etishda muhimdir.",
+    "tags": [
+      "robototexnika",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 25,
+    "published": "2026-10-12T10:00:03.000Z",
+    "created": "2026-10-12T10:02:45.236Z",
+    "coverage": 1,
+    "source": {
+      "name": "IEEE Spectrum",
+      "url": "https://content.knowledgehub.wiley.com/learning-to-play-like-a-pro-adaptive-motion-planning-and-tracking-for-humanoid-robots",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "2b0364f6a49f",
+    "slug": "stepfun-step-5-preview-tencent-workbuddyda-bepul-2b0364",
+    "title": "StepFun Step 5 Preview Tencent WorkBuddy’da bepul",
+    "summary": "StepFun’ning Step 5 Preview modeli Tencent’ning WorkBuddy ofis agentida mavjud bo‘ldi. U 12-oktabrdan 25-oktabrgacha eksklyuziv ravishda bepul foydalanish uchun taqdim etiladi.",
+    "tags": [
+      "agentlar",
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 18,
+    "published": "2026-10-12T07:09:20.000Z",
+    "created": "2026-10-12T10:02:45.236Z",
+    "coverage": 1,
+    "source": {
+      "name": "Pandaily",
+      "url": "https://pandaily.com/stepfun-step-5-preview-tencent-workbuddy-exclusive-free-access-oct-12-25",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "75489818c573",
+    "slug": "anthropic-foyda-uchun-ai-imkoniyatini-tezlashtirmoqda-754898",
+    "title": "Anthropic foyda uchun AI imkoniyatini tezlashtirmoqda",
+    "summary": "Anthropic kompaniyasi foydani oshirish maqsadida AI imkoniyatlarini tezlashtirmoqda. Buning uchun u bir nechta bulut xizmatlari bilan shartnomalar tuzmoqda.",
+    "tags": [
+      "Anthropic",
+      "bulut"
+    ],
+    "importance": 3,
+    "score": 10,
+    "published": "2026-10-12T01:04:00.000Z",
+    "created": "2026-10-12T10:02:45.236Z",
+    "coverage": 1,
+    "source": {
+      "name": "Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE93Y1ozMVd0amt3aGNhd25FSXlGbmZOZXA4aDRBdEZYaHRDWFk0am5yOFNleThORTBudldRQWJWaTc5Tl9mRHBIR3ZoYWg5Ni03eTNGR1dOTnQ5bk0yVndOcUlnbXU1Qm51RFpyYzRXT0RLbk54OXljNGp30gGOAUFVX3lxTE9DVGRMZmVWLWp3MWN0OEdKUDVhNmwwaFZudC1xendaM0hHNkJmVVdvZ1l5Tkh6MUhOU2ZjYy0xNUNxakxnMnVvQkwzQUphTHhXZ2xtRjRCdDZLYWJhRnI0LUp1cUI2Y0t3MEVVeGstbGI5MThUZnZlcTZnSElHWmY1MUxnWEdTNThvbjVvUFE",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "f2991a2ca05b",
+    "slug": "ai-yetakchilari-bir-yilda-kiberhujumdan-xavotirda-f2991a",
+    "title": "AI yetakchilari bir yilda kiberhujumdan xavotirda",
+    "summary": "AI sohasidagi yetakchilar bir yil ichida \"katastrofik kiberhujum\" sodir bo‘lishidan xavotir bildirmoqda. Bu xavotirlar sun'iy intellektning potentsial xavflari bilan bog‘liq.",
+    "tags": [
+      "xavfsizlik",
+      "siyosat"
+    ],
+    "importance": 4,
+    "score": 7,
+    "published": "2026-10-12T09:44:32.000Z",
+    "created": "2026-10-12T10:02:45.236Z",
+    "coverage": 1,
+    "source": {
+      "name": "Ynetnews",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8wZnhpY0p4WlJ6NTBkeFVTRUlHcGRtSlhOQnFzZnRGUFVEM050Yy1MMVdOWUhDM1NKOHVvV05EeF92eV9NdmdaSlNWUGltRXAxdXJOZkt2MncwR0ZkaFdmanJIdl9zR3pXVDYybTZn",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "8f6894dfd93e",
+    "slug": "tsmc-ai-chip-paketlashni-tezlashtirish-uchun-aqsh-interpozer-8f6894",
+    "title": "TSMC AI chip paketlashni tezlashtirish uchun AQSh interpozerlaridan foydalanmoqda",
+    "summary": "TSMC AI chiplarini paketlash jarayonini tezlashtirish uchun AQSh interpozerlaridan foydalanmoqda. Bu harakat Koreyaga bosim o‘tkazishi mumkin.",
+    "tags": [
+      "chiplar",
+      "biznes"
+    ],
+    "importance": 4,
+    "score": 7,
+    "published": "2026-10-12T07:05:00.000Z",
+    "created": "2026-10-12T10:02:45.236Z",
+    "coverage": 1,
+    "source": {
+      "name": "Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1mVWI3MXB5aElUdEhFRTJEUEp3c0UzVUZJQkcyakgzN0haSTdlSE16YWpEZHRrSzJXZElqN3FGM243blY4NDJiN2x5eS1jNERyX1d6S1hQWmlwMWIwWHFzMS1iY1Q0OGN4b2RZVFhYM0F1M1JWUnFNTXB30gGOAUFVX3lxTE85QjYzRVBONWM3ZTZkTUM1WjkzZzBsbEZHeWZFdWg4dXBWN21nWm5XbE9zU2dzV05vTHhUQnJRVHh6UFBwY2NqSjJ1SnJJZXdTV1RhMEJQUFc4ZWFwdHd4NFNQREc0QzJISHNXUXJ3NTRmOElYMTBNclEwSFF5RExGOFVrNmotNm40Z2lTMHc",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "48970bdd4226",
+    "slug": "ai-xavfsizligi-tekshiruvlari-ishlab-chiquvchi-obyektlarida-48970b",
+    "title": "AI xavfsizligi tekshiruvlari ishlab chiquvchi obyektlarida",
+    "summary": "AI xavfsizligi bo‘yicha tekshiruvlar ishlab chiquvchi kompaniyalarning obyektlariga kirishni boshladi. Bu AI tizimlarining xavfsizligini ta’minlashga qaratilgan yangi qadamdir.",
+    "tags": [
+      "xavfsizlik",
+      "qonun"
+    ],
+    "importance": 4,
+    "score": 7,
+    "published": "2026-10-12T06:19:48.000Z",
+    "created": "2026-10-12T10:02:45.236Z",
+    "coverage": 1,
+    "source": {
+      "name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQS1BFZWFORUxQZ0FwTUFoOHRKY2YyQm9NQkJJdUt4ZHFaVUxEVWMxZGZocGZwMHBHSXQxeWJTaGdEMV8tNFM3VzNaRDg2SlVBS2NPZ2d2Y3d6WmRnNkczbzYySTZHZGE3d2JFRzJLUGpENVA0TjdnWnU2dlNSMzVoVC10b0ZBWEtE",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "0f6f7195ee63",
+    "slug": "mashina-o-rganish-uchun-algebraik-butun-sonli-kvantlash-0f6f71",
+    "title": "Mashina o‘rganish uchun algebraik butun sonli kvantlash",
+    "summary": "Yangi tadqiqot mashina o‘rganish ilovalari uchun algebraik butun sonli kvantlash (AINF) tizimini taklif qiladi. Bu usul yuqori aniqlikdagi siqilgan hisoblash va xatosiz ko‘paytirish-qo‘shish operatsiyalarini ta’minlaydi.",
+    "tags": [
+      "tadqiqot",
+      "chiplar"
+    ],
+    "importance": 3,
+    "score": 7,
+    "published": "2026-10-12T04:00:00.000Z",
+    "created": "2026-10-12T10:02:45.236Z",
+    "coverage": 1,
+    "source": {
+      "name": "arXiv cs.LG",
+      "url": "https://arxiv.org/abs/2610.12494",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "854d3404b5f7",
     "slug": "sentyabrning-eng-kuchli-10-ta-androidi-malum-qilindi-854d34",
     "title": "Sentyabrning eng kuchli 10 ta Android’i ma’lum qilindi",
