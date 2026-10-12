@@ -1,40 +1,17 @@
 [
   {
-    "id": "09c45960b621",
-    "slug": "ai-ko-p-qirrali-mutaxassislarning-qadrini-oshirmoqda-09c459",
-    "title": "AI ko‘p qirrali mutaxassislarning qadrini oshirmoqda",
-    "summary": "Bird kompaniyasi bosh direktori Robert Visning aytishicha, AI yuqori darajadagi tashabbuskor, ko‘p qirrali ishchilarning qadrini oshirmoqda. Uning fikricha, bunday xodimlar turli rollarda mas'uliyatni o‘z zimmalariga olishlari mumkin.",
-    "tags": [
-      "mehnat bozori",
-      "biznes"
-    ],
-    "importance": 3,
-    "score": 15,
-    "published": "2026-10-12T09:11:01.000Z",
-    "created": "2026-10-12T09:32:48.398Z",
-    "coverage": 1,
-    "source": {
-      "name": "Business Insider",
-      "url": "https://businessinsider.com/bird-ceo-says-ai-is-empowering-high-agency-generalist-workers-2026-9",
-      "title": "A tech CEO who cut his staff from over 1,000 to 120 says AI is boosting the value of 'high-agency' generalists",
-      "indirect": false
-    },
-    "also": [],
-    "model": "gemini"
-  },
-  {
     "id": "854d3404b5f7",
     "slug": "sentyabrning-eng-kuchli-10-ta-androidi-malum-qilindi-854d34",
     "title": "Sentyabrning eng kuchli 10 ta Android’i ma’lum qilindi",
-    "summary": "Daryo nashri sentyabr oyining eng kuchli 10 ta Android smartfonini e'lon qildi. Yangi model Qualcomm Snapdragon 8 Elite Extreme Gen 6 chipsetida ishlovchi qurilmalardan ustun keldi.",
+    "summary": "Yangi model Qualcomm Snapdragon 8 Elite Extreme Gen 6 chipsetida ishlovchi barcha qurilmalarni ortda qoldirdi. O‘tgan oy favoriti oltinchi o‘ringa tushib ketdi.",
     "tags": [
       "Qualcomm",
       "chiplar"
     ],
-    "importance": 3,
+    "importance": 2,
     "score": 48,
     "published": "2026-10-12T07:57:34.000Z",
-    "created": "2026-10-12T09:32:54.488Z",
+    "created": "2026-10-12T09:43:05.124Z",
     "coverage": 1,
     "source": {
       "name": "Daryo",
@@ -48,15 +25,15 @@
     "id": "ec6f38511c53",
     "slug": "ai-sababli-ish-o-rinlari-yo-qolishiga-ubi-yechimmi-ec6f38",
     "title": "AI sababli ish o‘rinlari yo‘qolishiga UBI yechimmi",
-    "summary": "The New York Times bir yildan ortiq vaqt davomida universal asosiy daromad (UBI) dasturlari ishtirokchilarini kuzatdi. Elon Musk va boshqa texnologiya rahbarlari AI tufayli ish o‘rinlari yo‘qolishiga UBI'ni yechim sifatida ilgari surmoqda.",
+    "summary": "The New York Times bir yildan ortiq vaqt davomida universal asosiy daromad (UBI) dasturlari ishtirokchilarini kuzatdi. Elon Musk va boshqa texnologiya rahbarlari UBI'ni AI tufayli ish o‘rinlari yo‘qolishiga yechim sifatida targ‘ib qilmoqda.",
     "tags": [
       "mehnat bozori",
-      "siyosat"
+      "iqtisod"
     ],
-    "importance": 4,
+    "importance": 3,
     "score": 27,
     "published": "2026-10-12T09:00:17.000Z",
-    "created": "2026-10-12T09:32:54.488Z",
+    "created": "2026-10-12T09:43:05.125Z",
     "coverage": 1,
     "source": {
       "name": "The New York Times",
@@ -68,17 +45,17 @@
   },
   {
     "id": "d8f6c036a050",
-    "slug": "hukumat-tajribasidan-foydalanib-ai-sohasida-daromad-d8f6c0",
-    "title": "Hukumat tajribasidan foydalanib, AI sohasida daromad",
-    "summary": "The Washington Post tahliliga ko‘ra, DOGE bitiruvchilari hukumatdagi tajribalaridan foydalanib, kiberurush, AI va ma’lumotlar markazlari sohasidagi firmalar uchun kamida yarim milliard dollar mablag‘ yig‘gan.",
+    "slug": "doge-bitiruvchilari-ai-va-malumot-markazlaridan-foyda-kormoq-d8f6c0",
+    "title": "DOGE bitiruvchilari AI va ma'lumot markazlaridan foyda ko'rmoqda",
+    "summary": "The Washington Post tahliliga ko‘ra, DOGE bitiruvchilari hukumatdagi tajribalaridan foydalanib, kiberurush, AI va ma'lumot markazlari sohasidagi firmalar uchun kamida yarim milliard dollar yig‘ishgan.",
     "tags": [
-      "biznes",
-      "siyosat"
+      "siyosat",
+      "biznes"
     ],
     "importance": 3,
     "score": 23,
     "published": "2026-10-12T09:00:00.000Z",
-    "created": "2026-10-12T09:32:54.488Z",
+    "created": "2026-10-12T09:43:05.125Z",
     "coverage": 1,
     "source": {
       "name": "The Washington Post",
@@ -90,9 +67,9 @@
   },
   {
     "id": "db45e2cbd6a4",
-    "slug": "ai-davrida-malumot-markazlari-ishchilari-uchun-xizmatlar-db45e2",
-    "title": "AI davrida ma’lumot markazlari ishchilari uchun xizmatlar",
-    "summary": "Business Insider xabariga ko‘ra, AI rivojlanishi bilan ma’lumot markazlari ishchilari uchun ovqatlanish, yashash, avtoturargoh va dam olish joylari sotilmoqda. Bu AI oltin shoshilinchidan foyda ko‘rish usuli hisoblanadi.",
+    "slug": "ai-davrida-malumot-markazi-ishchilariga-xizmatlar-sotilmoqda-db45e2",
+    "title": "AI davrida ma'lumot markazi ishchilariga xizmatlar sotilmoqda",
+    "summary": "AI'ga bo‘lgan talab ortishi bilan, tadbirkorlar ma'lumot markazi ishchilariga ovqatlanish, yashash, avtoturargoh va dam olish joylarini sotib, foyda ko‘rmoqda. Bu AI \"oltin shoshilishi\"dan pul ishlash usuli hisoblanadi.",
     "tags": [
       "biznes",
       "bulut"
@@ -100,7 +77,7 @@
     "importance": 2,
     "score": 18,
     "published": "2026-10-12T09:06:01.000Z",
-    "created": "2026-10-12T09:32:54.488Z",
+    "created": "2026-10-12T09:43:05.125Z",
     "coverage": 1,
     "source": {
       "name": "Business Insider",
@@ -111,18 +88,40 @@
     "model": "gemini"
   },
   {
+    "id": "09c45960b621",
+    "slug": "bird-bosh-direktori-ai-ishchi-kuchini-o-zgartirayotganini-ay-09c459",
+    "title": "Bird bosh direktori AI ishchi kuchini o‘zgartirayotganini aytdi",
+    "summary": "Bird bosh direktori Robert Vis AI ko‘p qirrali, mas'uliyatni o‘z zimmasiga oladigan mutaxassislarning qadrini oshirayotganini ta'kidladi. Uning kompaniyasi xodimlar sonini 1000 dan 120 kishiga qisqartirgan.",
+    "tags": [
+      "mehnat bozori",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-10-12T09:11:01.000Z",
+    "created": "2026-10-12T09:43:05.125Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/bird-ceo-says-ai-is-empowering-high-agency-generalist-workers-2026-9",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "dc2d5dbcf1e6",
-    "slug": "ai-agentlarini-boshqarish-uchun-yangi-mexanizm-taklif-etildi-dc2d5d",
-    "title": "AI agentlarini boshqarish uchun yangi mexanizm taklif etildi",
-    "summary": "Habr nashri AI agentlarini boshqarish va ularga ijtimoiy ta'sir ko‘rsatish usuli haqida ma'lumot berdi. Tadqiqotda agentlarning resurslarga bo‘lgan huquqini cheklash orqali ularni nazorat qilish mexanizmi ko‘rib chiqilgan.",
+    "slug": "ai-agentlarini-boshqarish-uchun-resursli-avtoritet-modeli-dc2d5d",
+    "title": "AI agentlarini boshqarish uchun resursli avtoritet modeli",
+    "summary": "Habr nashri AI agentlarini boshqarish masalasini ko‘rib chiqdi va ularning harakatlarini cheklash uchun resurslarni taqsimlash mexanizmini muhokama qildi. Bu yechim akademik ishda taklif etilgan bo‘lib, AI agentlarining resurslarga bo‘lgan huquqini belgilaydi.",
     "tags": [
       "agentlar",
       "tadqiqot"
     ],
-    "importance": 4,
+    "importance": 3,
     "score": 14,
     "published": "2026-10-12T08:53:24.000Z",
-    "created": "2026-10-12T09:32:54.488Z",
+    "created": "2026-10-12T09:43:05.125Z",
     "coverage": 1,
     "source": {
       "name": "Habr",
@@ -133,10 +132,10 @@
     "model": "gemini"
   },
   {
-    "id": "5add3be63a11",
-    "slug": "ai-kashshofi-koreyaning-global-modeldagi-rolini-ko-rmoqda-5add3b",
-    "title": "AI kashshofi Koreyaning global modeldagi rolini ko‘rmoqda",
-    "summary": "The Korea Times xabariga ko‘ra, AI kashshofi Koreyaning global modelni rivojlantirishdagi rolini muhim deb hisoblaydi. Bu Koreyaning sun'iy intellekt sohasidagi salohiyatini ko‘rsatadi.",
+    "id": "77245e480276",
+    "slug": "ai-kashshofi-koreyaning-global-model-yaratishdagi-rolini-ko--77245e",
+    "title": "AI kashshofi Koreyaning global model yaratishdagi rolini ko‘rdi",
+    "summary": "AI kashshofi Janubiy Koreyaning global modelni rivojlantirishdagi rolini muhim deb hisoblaydi. Bu haqda The Korea Times xabar berdi.",
     "tags": [
       "siyosat",
       "tadqiqot"
@@ -144,11 +143,11 @@
     "importance": 2,
     "score": 10,
     "published": "2026-10-12T05:38:03.000Z",
-    "created": "2026-10-12T09:32:54.488Z",
+    "created": "2026-10-12T09:43:05.125Z",
     "coverage": 1,
     "source": {
       "name": "The Korea Times",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOeVJBekZOUEx4TU02eHA1azJhOUQtRXN0SEtjV0ZPLVU4OWJpamhmT3ZKSWFZXzg5RzFFcHByaTJBVloyY3E5c3NEWlNsOGZoX0tZbG56c1dxcTJ0YnVZVVpiR09aek9HUk9UUGlncno3QWNjUXlnUFpYNmNkMl9lMFM1d0FtVGpkRVJhVEh6OUhEdXRPM2tjbUVLVzdabERJdHJjaFVEd3BDR3JjV3FpTkZmYUdwdHNq0gG4AUFVX3lxTE55UkF6Rk5QTHhNTTZ4cDVrMmE5RC1Fc3RIS2NXRk8tVTg5YmlqaGZPdkpJYVlfODlHMUVwcHJpMkFWWjJjcTlzc0RaU2w4ZmhfS1lsbnpzV3FxMnRidVlVWmJHT1p6T0dST1RQaWdyejdBY2NReWdQWlg2Y2QyX2UwUzV3QW1UamRFUmFUSHo5SER1dE8za2NtRUtXN1psREl0cmNoVUR3cENHcmNXcWlORmZhR3B0c2o",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVXh2TVNoakRsWG9hWXYxTUkxdExwVGJHakdneXBra2Q3d2V6cjJqeHFZY3VtVVM3RE1JRWZFSGVRNS03QWNPeEZUYXpJUDdTYW1xYUJxbERHMzdVd0w4Q2dEU2lGMkUycEpHcDZtTjEzWXRlN1hydmRnZDI4ckI0dmE2Z2t6cGNpbEdQb2JJckFUUFdpR2NvWURrTnkxQlVZaGJ3R2NqY1FlSnp5Q3ktcFk0WdIBuAFBVV95cUxOeVJBekZOUEx4TU02eHA1azJhOUQtRXN0SEtjV0ZPLVU4OWJpamhmT3ZKSWFZXzg5RzFFcHByaTJBVloyY3E5c3NEWlNsOGZoX0tZbG56c1dxcTJ0YnVZVVpiR09aek9HUk9UUGlncno3QWNjUXlnUFpYNmNkMl9lMFM1d0FtVGpkRVJhVEh6OUhEdXRPM2tjbUVLVzdabERJdHJjaFVEd3BDR3JjV3FpTkZmYUdwdHNq",
       "indirect": true
     },
     "also": [],
@@ -156,16 +155,16 @@
   },
   {
     "id": "520b51d64183",
-    "slug": "resonant-ketma-ketlik-modellarida-yangi-o-qish-fazasi-520b51",
-    "title": "Resonant ketma-ketlik modellarida yangi o‘qish fazasi",
-    "summary": "arXiv'da chop etilgan yangi tadqiqot Resonant ketma-ketlik modellarida kirishga bog‘liq o‘qish fazasini taklif qiladi. Bu yondashuv ResonatorLM kabi modellarda xotirani o‘qish jarayoniga kirishga bog‘liqlikni qo‘shadi.",
+    "slug": "rezonansli-ketma-ketlik-modellarida-yangi-o-qish-fazasi-520b51",
+    "title": "Rezonansli ketma-ketlik modellarida yangi o‘qish fazasi",
+    "summary": "Yangi tadqiqot rezonansli ketma-ketlik modellarida kirishga bog‘liq o‘qish fazasini taklif etadi. Bu usul ResonatorLM modeliga kirishga bog‘liq xotira o‘qish imkoniyatini qo‘shadi.",
     "tags": [
       "tadqiqot"
     ],
-    "importance": 2,
+    "importance": 3,
     "score": 10,
     "published": "2026-10-12T04:00:00.000Z",
-    "created": "2026-10-12T09:32:54.488Z",
+    "created": "2026-10-12T09:43:05.125Z",
     "coverage": 1,
     "source": {
       "name": "arXiv cs.LG",
