@@ -1,5 +1,299 @@
 [
   {
+    "id": "543664fc9c8e",
+    "slug": "aqshda-tibbiy-qarzni-undirishda-ai-ko-proq-qo-llaniladi-543664",
+    "title": "AQShda tibbiy qarzni undirishda AI ko‘proq qo‘llaniladi",
+    "summary": "AQShda tibbiy qarzlar ko'payishi kutilmoqda. AI tibbiy ko'riklarda qaydlar olib borish, tashriflarni kodlash, hisob-kitob xabarlarini yuborish va qarz undirish jarayonlarida faol ishtirok etadi.",
+    "tags": [
+      "biznes",
+      "agentlar"
+    ],
+    "importance": 3,
+    "score": 26,
+    "published": "2026-10-12T12:00:55.000Z",
+    "created": "2026-10-12T15:37:02.950Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/us-news/2026/oct/12/ai-medical-debt-billing",
+      "title": "As US medical debt grows, AI will be used more to collect it",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "acaba290b8fe",
+    "slug": "isroil-ai-gigantlari-uchun-nyu-yorkka-ketishni-to-xtata-olad-acaba2",
+    "title": "Isroil AI gigantlari uchun Nyu-Yorkka ketishni to‘xtata oladimi",
+    "summary": "Isroil texnologiya \"unicorn\"larini yaratmoqda, ammo ularni Nyu-Yorkka ketishdan saqlab qolishga harakat qilmoqda. Tel-Aviv fond birjasining taklifi AQSh investorlarining AI gigantlariga bo'lgan afzalligi bilan qo'llab-quvvatlanadi.",
+    "tags": [
+      "biznes",
+      "iqtisod"
+    ],
+    "importance": 2,
+    "score": 19,
+    "published": "2026-10-12T11:45:04.000Z",
+    "created": "2026-10-12T15:37:27.969Z",
+    "coverage": 1,
+    "source": {
+      "name": "Semafor",
+      "url": "https://semafor.com/article/10/09/2026/israels-stock-exchange-seeks-the-global-stage",
+      "title": "Israel mints tech unicorns. Can it keep them from leaving for New York?",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "321604100856",
+    "slug": "ai-inson-xakerlik-guruhlarini-eskirishi-mumkin-321604",
+    "title": "AI inson xakerlik guruhlarini eskirishi mumkin",
+    "summary": "The Register nashri AI inson xakerlik guruhlarini eskirishi mumkinligini muhokama qildi. Mythos'ning matematik tajribasi inson topa olmaydigan ikkinchi ekspluatatsiya qilingan xatoga olib keldi.",
+    "tags": [
+      "xavfsizlik",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-10-12T10:27:00.000Z",
+    "created": "2026-10-12T15:37:27.973Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/security/2026/10/12/imagine-theres-no-shiny-hunters-ai-could-make-human-hacking-crews-obsolete/5302430",
+      "title": "Imagine there's no Shiny Hunters – AI could make human hacking crews obsolete",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "bb6add898036",
+    "slug": "anthropic-42-mlrd-zarar-ko-rganiga-qaramay-2-trlnga-baholani-bb6add",
+    "title": "Anthropic $42 mlrd zarar ko‘rganiga qaramay $2 trlnga baholanishi mumkin",
+    "summary": "Anthropic daromadini 12 baravar oshirgan bo'lsa-da, katta zarar va infratuzilma majburiyatlariga ega. Shunga qaramay, kompaniyaning ehtimoliy IPO bahosi 2 trillion dollardan oshishi mumkin.",
+    "tags": [
+      "Anthropic",
+      "biznes"
+    ],
+    "importance": 4,
+    "score": 48,
+    "published": "2026-10-12T10:00:00.000Z",
+    "created": "2026-10-12T15:37:28.190Z",
+    "coverage": 1,
+    "source": {
+      "name": "Pivot",
+      "url": "https://pivot.uz/uz/anthropic-42-mlrd-zarar-korganiga-qaramay-2-trlnga-baholanishi-mumkin",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "edcf66fac0da",
+    "slug": "karpathy-ai-imkoniyatlari-haqida-jamoatchilikda-bilim-farqi--edcf66",
+    "title": "Karpathy: AI imkoniyatlari haqida jamoatchilikda bilim farqi bor",
+    "summary": "Anthropic'dan Andrej Karpathy AI sohasida bilim farqi kengayib borayotganini ta'kidladi. Uning so'zlariga ko'ra, dunyo aholisining 75 foizi LLM'lardan deyarli foydalanmagan, ammo 5 mingga yaqin kishi ilg'or agent tizimlariga ega.",
+    "tags": [
+      "Anthropic",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 30,
+    "published": "2026-10-12T12:51:21.000Z",
+    "created": "2026-10-12T15:37:28.190Z",
+    "coverage": 2,
+    "source": {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/anthropics-andrej-karpathy-says-the-external-world-has-seen-the-preview-of-what-ai-can-actually-do",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "The Decoder",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbGUweDhwbVY5LXAzZFZjMThRbTh1SU13ME9Kb0p6V2otaURpRzI5Y2s1N3JWa3Vrankzb2RvNzBpdU9vSXBlM3BlVzhwSkUtTExXNnY3Wm4yd1lNNmZIVkszVE9QQS1Td2pLSUVHLTdzR244SUkxTC1sTGplVGtFZ0JEQ1poV1l3b3N3RmxNY2dGT1gxb3ZWd1VhTDRIOEI1VXpHY2JqbHZGQ0lsLThPTFIwUXBoUEFvaXlPZFlVcGY"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "29254f52c5c1",
+    "slug": "ai-xavfsizligi-uchun-demokratiyani-saqlash-muhim-29254f",
+    "title": "AI xavfsizligi uchun demokratiyani saqlash muhim",
+    "summary": "AI rivojlanishi demokratiyani saqlashni yanada dolzarb qilmoqda, chunki texnologiya institutlarga tahdid solishi mumkin. AI tizimlarining kiberhujumlar va boshqa xavflari hozirda keng muhokama qilinmoqda.",
+    "tags": [
+      "xavfsizlik",
+      "siyosat"
+    ],
+    "importance": 3,
+    "score": 26,
+    "published": "2026-10-12T12:00:54.000Z",
+    "created": "2026-10-12T15:37:28.190Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/commentisfree/2026/oct/12/ai-safety-democracy",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "c68c034bd72c",
+    "slug": "qgis-ai-yordamidagi-hissalarni-taqiqladi-c68c03",
+    "title": "QGIS AI yordamidagi hissalarni taqiqladi",
+    "summary": "QGIS loyihasi sun'iy intellekt yordamida yaratilgan hissalarni taqiqlashga qaror qildi. Bu qaror loyihaning sifat standartlarini saqlashga qaratilgan.",
+    "tags": [
+      "ochiq model",
+      "qonun"
+    ],
+    "importance": 2,
+    "score": 23,
+    "published": "2026-10-12T11:22:24.000Z",
+    "created": "2026-10-12T15:37:28.190Z",
+    "coverage": 1,
+    "source": {
+      "name": "Hacker News",
+      "url": "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "4a62dcf5f98d",
+    "slug": "ota-onalar-farzandlarining-ai-va-ijtimoiy-media-foydalanishi-4a62dc",
+    "title": "Ota-onalar farzandlarining AI va ijtimoiy media foydalanishini cheklamoqda",
+    "summary": "Ko'plab ota-onalar ijtimoiy media va AI'ni bolalar uchun xavfsiz deb hisoblamaydi. Ular farzandlarining ushbu texnologiyalardan foydalanishini cheklash choralarini ko'rmoqda.",
+    "tags": [
+      "maxfiylik",
+      "ta'lim"
+    ],
+    "importance": 3,
+    "score": 23,
+    "published": "2026-10-12T10:00:51.000Z",
+    "created": "2026-10-12T15:37:28.190Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/us-news/2026/oct/12/parents-limiting-social-media-ai-use",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "a64c6db7b9b2",
+    "slug": "ai-infratuzilmasi-uchun-memoriy-savollar-muhokamada-a64c6d",
+    "title": "AI infratuzilmasi uchun me'moriy savollar muhokamada",
+    "summary": "The Register nashri HPE va Nvidia bilan bo'lib o'tadigan uchrashuv oldidan AI infratuzilmasi me'morchiligini belgilovchi savollarni muhokama qilmoqda. Bu AI tizimlarining chegaralarini aniqlashga qaratilgan.",
+    "tags": [
+      "Nvidia",
+      "bulut"
+    ],
+    "importance": 2,
+    "score": 22,
+    "published": "2026-10-12T15:00:00.000Z",
+    "created": "2026-10-12T15:37:28.190Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/ai-and-ml/2026/10/12/sponsored-which-ai-infrastructure-option-actually-holds-a-boundary/5300433",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "da6fcdba1376",
+    "slug": "ai-kompaniyalari-nega-xakerlik-uchun-ayblanmayapti-da6fcd",
+    "title": "AI kompaniyalari nega xakerlik uchun ayblanmayapti",
+    "summary": "Hacker News nashri AI kompaniyalari xakerlik faoliyati uchun nega javobgarlikka tortilmayotgani haqida savol qo'ydi. Bu AI'ning huquqiy va axloqiy masalalari bilan bog'liq.",
+    "tags": [
+      "qonun",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 21.8,
+    "published": "2026-10-12T14:52:37.000Z",
+    "created": "2026-10-12T15:37:28.190Z",
+    "coverage": 1,
+    "source": {
+      "name": "Hacker News",
+      "url": "https://mortoray.com/why-arent-ai-companies-being-charged-for-hacking",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "7aef2d25240b",
+    "slug": "ai-kompaniyasi-ichki-fotosuratdan-uy-aniqlaydi-7aef2d",
+    "title": "AI kompaniyasi ichki fotosuratdan uy aniqlaydi",
+    "summary": "Raven (avvalgi GeoSpy) AI kompaniyasi politsiyaga bitta ichki fotosurat asosida Airbnb yoki Zillow'dagi aniq mulkni topish imkonini beradi. Bu texnologiya maxfiylik masalalarini keltirib chiqaradi.",
+    "tags": [
+      "maxfiylik",
+      "qonun"
+    ],
+    "importance": 4,
+    "score": 19,
+    "published": "2026-10-12T13:00:05.000Z",
+    "created": "2026-10-12T15:37:28.190Z",
+    "coverage": 1,
+    "source": {
+      "name": "404 Media",
+      "url": "https://404media.co/ai-company-lets-cops-pinpoint-specific-houses-based-on-a-single-interior-photo",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "eb3ddd3e0e98",
+    "slug": "1gv-ai-malumot-markazi-30-mlrdga-tushishi-mumkin-eb3ddd",
+    "title": "1GV AI ma'lumot markazi $30 mlrdga tushishi mumkin",
+    "summary": "Bloomberg tahliliga ko'ra, Texasda 1 gigavatt quvvatga ega AI ma'lumot markazini qurish va jihozlash taxminan 30 milliard dollarga tushishi mumkin. Bu xarajatlarning 17 milliard dollari chiplarga, 3 milliard dollari elektr energiyasiga va 2.4 milliard dollari qurilishga sarflanadi.",
+    "tags": [
+      "bulut",
+      "chiplar"
+    ],
+    "importance": 4,
+    "score": 18,
+    "published": "2026-10-12T13:55:13.000Z",
+    "created": "2026-10-12T15:37:28.190Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/261012/p24",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "2ac39c8b3ef6",
+    "slug": "veb-saytlarni-neyrotarmoqlar-uchun-optimallashtirish-2ac39c",
+    "title": "Veb-saytlarni neyrotarmoqlar uchun optimallashtirish",
+    "summary": "Habr nashri veb-saytlarni neyrotarmoqlar uchun optimallashtirish masalasini muhokama qildi. Ko'pincha AI kompaniya haqida eskirgan yoki noto'g'ri ma'lumot beradi, chunki u sayt matnidan emas, balki unga yetib borgan ma'lumotdan foydalanadi.",
+    "tags": [
+      "biznes",
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 17,
+    "published": "2026-10-12T12:05:00.000Z",
+    "created": "2026-10-12T15:37:28.190Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/companies/timeweb/articles/1092172",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "11e7656e56ab",
     "slug": "osiyoda-ai-infratuzilmasiga-sarmoyalar-osmoqda-11e765",
     "title": "Osiyoda AI infratuzilmasiga sarmoyalar o'smoqda",
