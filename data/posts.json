@@ -1,5 +1,71 @@
 [
   {
+    "id": "078515a7891b",
+    "slug": "aiga-muzlatgichdan-kamroq-tartibga-solish-xavfli-078515",
+    "title": "AI'ga muzlatgichdan kamroq tartibga solish xavfli",
+    "summary": "Richard Hermerning ta'kidlashicha, sun'iy intellekt muzlatgichdan ham kamroq tartibga solingan, bu esa insoniyat uchun misli ko'rilmagan xavf tug'diradi. U zudlik bilan jamoatchilik muhokamasi va xalqaro qonunlarni qo'llashga chaqirdi.",
+    "tags": [
+      "qonun",
+      "siyosat"
+    ],
+    "importance": 4,
+    "score": 23,
+    "published": "2026-10-12T17:33:41.000Z",
+    "created": "2026-10-12T18:36:20.961Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/commentisfree/2026/oct/12/ai-regulation-fridge-risk-humanity-public-debate-international-law",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "bdf59882f2c6",
+    "slug": "honeyjar-kompaniyalar-uchun-ai-pr-vositalarini-taklif-etadi-bdf598",
+    "title": "Honeyjar kompaniyalar uchun AI PR vositalarini taklif etadi",
+    "summary": "Honeyjar startapi kompaniyalarning jamoatchilik bilan aloqalarini (PR) va kommunikatsiyalarini yaxshilash uchun AI vositalarini taqdim etmoqda. Bu AI PR jarayonini samaraliroq qilishga yordam berishi kutilmoqda.",
+    "tags": [
+      "biznes",
+      "agentlar"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-10-12T15:45:00.000Z",
+    "created": "2026-10-12T18:36:20.961Z",
+    "coverage": 1,
+    "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "df97c62cc773",
+    "slug": "ai-sanoati-malumot-markazi-muxoliflarini-ishontira-oladimi-df97c6",
+    "title": "AI sanoati ma'lumot markazi muxoliflarini ishontira oladimi",
+    "summary": "AI sanoati ma'lumot markazlariga qarshi bo'lganlarni maxfiylik shartnomalarini (NDA) bekor qilish orqali ishontira oladimi, degan savol muhokama qilinmoqda. Shuningdek, AI sanoatining kommunikatsiya muammosi bor-yo'qligi ham ko'rib chiqilmoqda.",
+    "tags": [
+      "biznes",
+      "siyosat"
+    ],
+    "importance": 2,
+    "score": 12.5,
+    "published": "2026-10-11T16:52:33.000Z",
+    "created": "2026-10-12T18:36:20.961Z",
+    "coverage": 1,
+    "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "307489fe487b",
     "slug": "sakana-ai-ozini-yaxshilovchi-model-usulini-taqdim-etdi-307489",
     "title": "Sakana AI o'zini yaxshilovchi model usulini taqdim etdi",
