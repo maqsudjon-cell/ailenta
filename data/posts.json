@@ -1,5 +1,137 @@
 [
   {
+    "id": "ccfa76baee9a",
+    "slug": "ish-intervyularida-ai-ishlatish-ortmoqda-ammo-aniqlanadi-ccfa76",
+    "title": "Ish intervyularida AI ishlatish ortmoqda, ammo aniqlanadi",
+    "summary": "Buyuk Britaniyadagi ishga yollash agentliklari vakillarining ta'kidlashicha, ish intervyularida AI yordamida javob berish holatlari ko'paygan. Rekruterlar AI ishlatilganini osongina aniqlay oladi.",
+    "tags": [
+      "mehnat bozori",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 23,
+    "published": "2026-10-13T23:01:38.000Z",
+    "created": "2026-10-13T23:05:58.440Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/technology/2026/oct/14/use-of-ai-job-interviews-on-rise-uk-recruiters-cheats",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "4352e4d9af76",
+    "slug": "centene-bosh-direktori-ai-imkoniyatlarini-baholadi-4352e4",
+    "title": "Centene bosh direktori AI imkoniyatlarini baholadi",
+    "summary": "Centene bosh direktori Sara Londonning fikricha, sog'liqni saqlash sohasida AI ning eng katta salohiyati avtomatlashtirishdan tashqarida. U AI ning billing va hujjat ishlarini soddalashtirishdan ko'ra kattaroq imkoniyatlarga ega ekanligini ta'kidladi.",
+    "tags": [
+      "tibbiyot",
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 19,
+    "published": "2026-10-13T20:55:20.000Z",
+    "created": "2026-10-13T23:05:58.440Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/10/13/centene-ceo-health-care-biggest-ai-opportunity-beyond-automation",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "411d96f0264c",
+    "slug": "gemini-vazifalarni-avtomatlashtirishga-yordam-beradi-411d96",
+    "title": "Gemini vazifalarni avtomatlashtirishga yordam beradi",
+    "summary": "Engadget nashri Gemini AI modelining kundalik vazifalarni avtomatlashtirish uchun 5 ta samarali usulini sanab o'tdi. Bu imkoniyatlar foydalanuvchilarga kunlik ishlarini soddalashtirishga yordam beradi.",
+    "tags": [
+      "Google",
+      "agentlar"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-10-13T22:00:00.000Z",
+    "created": "2026-10-13T23:05:58.440Z",
+    "coverage": 1,
+    "source": {
+      "name": "Engadget",
+      "url": "https://engadget.com/2282226/clever-ways-gemini-automate-everyday-tasks",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "e8065733daf9",
+    "slug": "xbox-ai-yordamida-oyin-portlashlarini-qollab-quvvatlaydi-e80657",
+    "title": "Xbox AI yordamida o'yin portlashlarini qo'llab-quvvatlaydi",
+    "summary": "Xbox AI yordamida yaratilgan o'yin portlashlarini rasman qo'llab-quvvatlashini e'lon qildi. Bu retro o'yinlarni yangi qurilmalarga ko'chirish yoki turli o'yin kodlarini birlashtirish imkonini beradi.",
+    "tags": [
+      "Microsoft",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-10-13T19:00:48.000Z",
+    "created": "2026-10-13T23:05:58.440Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Verge",
+      "url": "https://theverge.com/news/1010406/xbox-labs-game-decompiling-emulation-exploration",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "fea6e758c9b5",
+    "slug": "garb-matematiklari-ai-dan-xavotirda-xitoy-esa-ittifoq-tuzmoq-fea6e7",
+    "title": "G'arb matematiklari AI dan xavotirda, Xitoy esa ittifoq tuzmoqda",
+    "summary": "G'arbda 25 nafar Fields medali sovrindori AI tomonidan yaratilgan isbotlardan ogohlantirmoqda. Shu bilan birga, Xitoyda 1000 dan ortiq olim va sakkizta muassasadan iborat ittifoq AI ni matematika tadqiqotlariga joriy etishni maqsad qilgan.",
+    "tags": [
+      "tadqiqot",
+      "siyosat"
+    ],
+    "importance": 4,
+    "score": 15,
+    "published": "2026-10-13T14:37:53.000Z",
+    "created": "2026-10-13T23:05:58.440Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/western-mathematicians-fear-ai-makes-them-dumber-while-china-builds-an-entire-alliance-for-it",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "42e1bcb7c606",
+    "slug": "anthropic-ijrochi-yordamchi-uchun-190-000-taklif-qilmoqda-42e1bc",
+    "title": "Anthropic ijrochi yordamchi uchun $190 000 taklif qilmoqda",
+    "summary": "Anthropic kompaniyasi agentlik AI sohasidagi yutuqlarga qaramay, ijrochi yordamchi lavozimiga yiliga $190 000 maosh taklif qilmoqda. Bu xabar Fast Company nashri tomonidan e'lon qilindi.",
+    "tags": [
+      "Anthropic",
+      "mehnat bozori"
+    ],
+    "importance": 1,
+    "score": 13,
+    "published": "2026-10-13T19:47:50.000Z",
+    "created": "2026-10-13T23:05:58.440Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fast Company",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMWFUcmJzbkxUa1B3bV96TDVRWThrejcwbWZ1M1Ryekx6MDF4SWVscktyUWpGSXdkTTdmZ292ZDJBTUN4YnFxdXVZRVNHdXk5OTVtTm9RN0ptQzNzUjNiYnpGdTc2T3dBMVhjV01rRTd0R01qWWZiN3EyU21hazF1SDcyQzdZa1ZIeVp3SnJfWVYtTUtvSjlNb0szRFE4Vk9mdXB5ZE9ISnRvZWJCOWVXcmN5TDB6dUNZSllYY2stNVN1VmZvMW00",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "a6f929585a9c",
     "slug": "ai-xavfsizligi-uchun-qatiy-javobgarlik-muhokamada-a6f929",
     "title": "AI xavfsizligi uchun qat'iy javobgarlik muhokamada",

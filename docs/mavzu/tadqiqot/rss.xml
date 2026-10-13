@@ -5,7 +5,7 @@
   <link>https://ailenta.uz/mavzu/tadqiqot/</link>
   <description>&quot;tadqiqot&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Tue, 13 Oct 2026 23:03:50 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 13 Oct 2026 23:20:32 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/tadqiqot/rss.xml" rel="self" type="application/rss+xml"/>
   <item>
     <title>KV-kash transporti MiniMax-M3 xulosa chiqarishga ta'siri</title>
@@ -36,6 +36,16 @@
     <category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/ai-sinov-toplamlarining-yarimparchalanish-davri-qisqardi-0c45f0.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/ai-sinov-toplamlarining-yarimparchalanish-davri-qisqardi-0c45f0.jpg"/>
+  </item>
+  <item>
+    <title>G'arb matematiklari AI dan xavotirda, Xitoy esa ittifoq tuzmoqda</title>
+    <link>https://ailenta.uz/x/garb-matematiklari-ai-dan-xavotirda-xitoy-esa-ittifoq-tuzmoq-fea6e7/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/garb-matematiklari-ai-dan-xavotirda-xitoy-esa-ittifoq-tuzmoq-fea6e7/</guid>
+    <pubDate>Tue, 13 Oct 2026 14:37:53 GMT</pubDate>
+    <description>G'arbda 25 nafar Fields medali sovrindori AI tomonidan yaratilgan isbotlardan ogohlantirmoqda. Shu bilan birga, Xitoyda 1000 dan ortiq olim va sakkizta muassasadan iborat ittifoq AI ni matematika tadqiqotlariga joriy etishni maqsad qilgan.</description>
+    <category>tadqiqot</category><category>siyosat</category>
+    <media:content url="https://ailenta.uz/og/garb-matematiklari-ai-dan-xavotirda-xitoy-esa-ittifoq-tuzmoq-fea6e7.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/garb-matematiklari-ai-dan-xavotirda-xitoy-esa-ittifoq-tuzmoq-fea6e7.jpg"/>
   </item>
   <item>
     <title>NetBSD AI'siz FOSS OS sifatida yangi rol topdi</title>
@@ -296,16 +306,6 @@
     <category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/spekulyativ-xulosa-chiqarishda-kontekstual-tuzatish-20ab7e.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/spekulyativ-xulosa-chiqarishda-kontekstual-tuzatish-20ab7e.jpg"/>
-  </item>
-  <item>
-    <title>AutoIndexer: Kausal modellarni o'qitishda yangi usul</title>
-    <link>https://ailenta.uz/x/autoindexer-kausal-modellarni-oqitishda-yangi-usul-1fdde9/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/autoindexer-kausal-modellarni-oqitishda-yangi-usul-1fdde9/</guid>
-    <pubDate>Mon, 12 Oct 2026 04:00:00 GMT</pubDate>
-    <description>Yangi tadqiqot AutoIndexer nomli generativ modelni taklif etadi. Bu model o'qitish va xulosa chiqarish mexanizmi orqali avvalgi natijalarni tokenlar orqali moslashuvchan tarzda o'zgartirish imkonini beradi.</description>
-    <category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/autoindexer-kausal-modellarni-oqitishda-yangi-usul-1fdde9.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/autoindexer-kausal-modellarni-oqitishda-yangi-usul-1fdde9.jpg"/>
   </item>
 </channel>
 </rss>
