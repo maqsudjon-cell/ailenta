@@ -1,5 +1,91 @@
 [
   {
+    "id": "efadf9441346",
+    "slug": "web-edit-0-1a0-dasturi-taqdim-etildi-efadf9",
+    "title": "Web-edit 0.1a0 dasturi taqdim etildi",
+    "summary": "Saymon Uillison papkadagi fayllarni ko'rish va tahrirlash imkonini beruvchi web-edit 0.1a0 veb-ilovasini chiqardi. Ushbu loyiha Codex hamda GPT-6 Astra Extra High yordamida yaratilgan.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 24,
+    "published": "2026-10-12T15:54:36.000Z",
+    "created": "2026-10-13T01:00:46.139Z",
+    "coverage": 1,
+    "source": {
+      "name": "Simon Willison",
+      "url": "https://simonwillison.net/2026/Oct/12/web-edit",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "3cdf4349b71c",
+    "slug": "ai-boyicha-parlament-maktubi-etirozlarga-sabab-boldi-3cdf43",
+    "title": "AI bo'yicha parlament maktubi e'tirozlarga sabab bo'ldi",
+    "summary": "Avstraliya parlament qo'mitasi a'zosi Devid Pokok Bosh vazir maslahatchisi AI bo'yicha xat matnini tahrirlaganidan xavotir bildirdi. Qo'mita raisi esa hujjat hukumat tomonidan tayyorlab qo'yilgani haqidagi tanqidlarni rad etdi.",
+    "tags": [
+      "siyosat",
+      "qonun"
+    ],
+    "importance": 2,
+    "score": 23,
+    "published": "2026-10-13T00:03:19.000Z",
+    "created": "2026-10-13T01:00:46.139Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/technology/2026/oct/13/senior-albanese-adviser-vetted-bipartisan-ai-letter-politics-ntwnfb",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "14f2ff84a2fb",
+    "slug": "linkedin-xodimlar-uchun-yangi-loyihani-yolga-qoymoqda-14f2ff",
+    "title": "LinkedIn xodimlar uchun yangi loyihani yo'lga qo'ymoqda",
+    "summary": "LinkedIn ishchilarga o'z biznesini yo'lga qo'yishni o'rgatuvchi \"Academy of Economic Opportunity\" maktabini sinovdan o'tkazmoqda. Loyihada qatnashish uchun oliy ma'lumot diplomasiga ega bo'lish talab etilmaydi.",
+    "tags": [
+      "mehnat bozori",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-10-12T21:31:44.000Z",
+    "created": "2026-10-13T01:00:46.140Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/10/12/linkedin-piloting-academy-jobs-businesses",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "e29ab94d4bda",
+    "slug": "xitoyda-matematika-boyicha-ai-alyansi-tuzildi-e29ab9",
+    "title": "Xitoyda matematika bo'yicha AI alyansi tuzildi",
+    "summary": "Xitoylik matematika olimlari AI modellarini rivojlantirish uchun yangi alyansga asos soldi. Sakkizta tashkilotni birlashtirgan ushbu tashabbusga 1000 dan ortiq olimlarni jalb qilish rejalashtirilgan.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 18,
+    "published": "2026-10-13T00:15:02.000Z",
+    "created": "2026-10-13T01:00:46.140Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/261012/p42",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "edfea5315b1b",
     "slug": "kichik-ai-modellari-iot-qurilmalarida-ko-payishi-mumkin-edfea5",
     "title": "Kichik AI modellari IoT qurilmalarida ko‘payishi mumkin",
