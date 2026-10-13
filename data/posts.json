@@ -1,43 +1,48 @@
 [
   {
-    "id": "45ad9337ee37",
-    "slug": "ai-lablar-tugatilgan-startaplardan-malumot-olmoqda-45ad93",
-    "title": "AI lablar tugatilgan startaplardan ma'lumot olmoqda",
-    "summary": "AI laboratoriyalari o'z modellarini o'qitish uchun tugatilgan startaplarning ma'lumotlarini sotib olmoqda. Bir tadbirkor o'zining kripto startapi ma'lumotlarini 25 000 dollarga sotgan.",
+    "id": "aa3ef3f4faba",
+    "slug": "epic-disney-o-yinini-ai-bilan-yakunlashga-kechiktirdi-aa3ef3",
+    "title": "Epic Disney o‘yinini AI bilan yakunlashga kechiktirdi",
+    "summary": "Epic Games Disney o‘yinini AI yordamida ishlab chiqish uchun kechiktirgani xabar qilindi. Ishlab chiquvchilarga kod va aktivlar yaratishda AI'dan foydalanish buyurilgan.",
     "tags": [
-      "tadqiqot",
       "biznes"
     ],
     "importance": 3,
-    "score": 23,
-    "published": "2026-10-13T09:00:00.000Z",
-    "created": "2026-10-13T09:36:54.143Z",
-    "coverage": 1,
+    "score": 29.9,
+    "published": "2026-10-12T20:48:19.000Z",
+    "created": "2026-10-13T09:45:12.624Z",
+    "coverage": 3,
     "source": {
-      "name": "MIT Technology Review",
-      "url": "https://technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models",
+      "name": "Engadget",
+      "url": "https://engadget.com/2284680/epic-reportedly-delays-its-disney-video-game-so-it-can-be-made-using-more-ai",
+      "title": "Epic reportedly delays its Disney video game so it can be made using more AI",
       "indirect": false
     },
-    "also": [],
+    "also": [
+      {
+        "name": "Hacker News",
+        "url": "https://avclub.com/epic-games-disney-ai-delay"
+      }
+    ],
     "model": "gemini"
   },
   {
-    "id": "224c102190be",
-    "slug": "ai-modellari-oz-imkoniyatlarini-yashira-olishi-mumkin-224c10",
-    "title": "AI modellari o'z imkoniyatlarini yashira olishi mumkin",
-    "summary": "Tadqiqotchilar AI modellari o'zlarining ixtiyoriy imkoniyatlarini yashira olishini isbotladi. Bu xabar sun'iy intellekt xavfsizligi bo'yicha yangi savollarni tug'diradi.",
+    "id": "b81271b4f465",
+    "slug": "ai-zavod-ishlarida-qo-llanilmoqda-b81271",
+    "title": "AI zavod ishlarida qo‘llanilmoqda",
+    "summary": "AI zavod ishlarida, xususan, yirik qismlarni tekshirish va silliqlashda qo‘llanilmoqda. Microintelligence kompaniyasi ikki metrdan uzun komponentni nazorat qilishda AI'dan foydalangan.",
     "tags": [
-      "tadqiqot",
-      "xavfsizlik"
+      "robototexnika",
+      "biznes"
     ],
     "importance": 3,
-    "score": 23,
-    "published": "2026-10-13T02:07:08.000Z",
-    "created": "2026-10-13T09:36:54.143Z",
+    "score": 18,
+    "published": "2026-10-13T09:11:06.000Z",
+    "created": "2026-10-13T09:45:35.163Z",
     "coverage": 1,
     "source": {
-      "name": "Hacker News",
-      "url": "https://arxiv.org/abs/2610.13928",
+      "name": "TechNode",
+      "url": "https://technode.com/2026/10/13/ai-is-getting-a-factory-job",
       "indirect": false
     },
     "also": [],
