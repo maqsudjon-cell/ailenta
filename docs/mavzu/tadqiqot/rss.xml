@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/tadqiqot/</link>
   <description>&quot;tadqiqot&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Tue, 13 Oct 2026 21:08:23 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 13 Oct 2026 21:43:54 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/tadqiqot/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>KV-kash transporti MiniMax-M3 xulosa chiqarishga ta'siri</title>
+    <link>https://ailenta.uz/x/kv-kash-transporti-minimax-m3-xulosa-chiqarishga-tasiri-6e3143/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/kv-kash-transporti-minimax-m3-xulosa-chiqarishga-tasiri-6e3143/</guid>
+    <pubDate>Tue, 13 Oct 2026 21:29:50 GMT</pubDate>
+    <description>Habr nashrida KV-kash transportining ajratilgan xulosa chiqarish (disaggregated inference) samaradorligiga ta'siri o'rganildi. Tadqiqotda prefill va decode bosqichlari turli GPU-tugunlarda bajariladigan MiniMax-M3 modelining ishlashi Nvidia B200 chiplari yordamida sinovdan o'tkazildi.</description>
+    <category>tadqiqot</category><category>chiplar</category>
+    <media:content url="https://ailenta.uz/og/kv-kash-transporti-minimax-m3-xulosa-chiqarishga-tasiri-6e3143.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/kv-kash-transporti-minimax-m3-xulosa-chiqarishga-tasiri-6e3143.jpg"/>
+  </item>
   <item>
     <title>406 olim AI modellarini internetdan uzishni talab qildi</title>
     <link>https://ailenta.uz/x/406-olim-ai-modellarini-internetdan-uzishni-talab-qildi-06ec99/</link>
@@ -296,16 +306,6 @@
     <category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/autoindexer-kausal-modellarni-oqitishda-yangi-usul-1fdde9.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/autoindexer-kausal-modellarni-oqitishda-yangi-usul-1fdde9.jpg"/>
-  </item>
-  <item>
-    <title>Tushunarli AI vositalarining ishonchliligi baholandi</title>
-    <link>https://ailenta.uz/x/tushunarli-ai-vositalarining-ishonchliligi-baholandi-cbcd28/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/tushunarli-ai-vositalarining-ishonchliligi-baholandi-cbcd28/</guid>
-    <pubDate>Mon, 12 Oct 2026 04:00:00 GMT</pubDate>
-    <description>Yangi tadqiqotga ko'ra, tushunarli AI (XAI) vositalari mashina o'rganish modellariga ishonchni oshirish maqsadida yaratilgan bo'lsa-da, bu maqsadga erisha olmagan. Ular noto'g'ri bashoratlarga haddan tashqari ishonishni rag'batlantirib, asosan nosozliklarni tuzatish vositasi sifatida ishlamoqda.</description>
-    <category>tadqiqot</category><category>xavfsizlik</category>
-    <media:content url="https://ailenta.uz/og/tushunarli-ai-vositalarining-ishonchliligi-baholandi-cbcd28.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/tushunarli-ai-vositalarining-ishonchliligi-baholandi-cbcd28.jpg"/>
   </item>
 </channel>
 </rss>

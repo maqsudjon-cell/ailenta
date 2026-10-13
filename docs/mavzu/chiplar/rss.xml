@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/chiplar/</link>
   <description>&quot;chiplar&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Tue, 13 Oct 2026 21:08:23 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 13 Oct 2026 21:43:54 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/chiplar/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>KV-kash transporti MiniMax-M3 xulosa chiqarishga ta'siri</title>
+    <link>https://ailenta.uz/x/kv-kash-transporti-minimax-m3-xulosa-chiqarishga-tasiri-6e3143/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/kv-kash-transporti-minimax-m3-xulosa-chiqarishga-tasiri-6e3143/</guid>
+    <pubDate>Tue, 13 Oct 2026 21:29:50 GMT</pubDate>
+    <description>Habr nashrida KV-kash transportining ajratilgan xulosa chiqarish (disaggregated inference) samaradorligiga ta'siri o'rganildi. Tadqiqotda prefill va decode bosqichlari turli GPU-tugunlarda bajariladigan MiniMax-M3 modelining ishlashi Nvidia B200 chiplari yordamida sinovdan o'tkazildi.</description>
+    <category>tadqiqot</category><category>chiplar</category>
+    <media:content url="https://ailenta.uz/og/kv-kash-transporti-minimax-m3-xulosa-chiqarishga-tasiri-6e3143.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/kv-kash-transporti-minimax-m3-xulosa-chiqarishga-tasiri-6e3143.jpg"/>
+  </item>
   <item>
     <title>Nvidia DLSS 5 Hogwarts Legacy uchun moslashtirildi</title>
     <link>https://ailenta.uz/x/nvidia-dlss-5-hogwarts-legacy-uchun-moslashtirildi-d5ae71/</link>
@@ -296,16 +306,6 @@
     <category>Tesla</category><category>chiplar</category>
     <media:content url="https://ailenta.uz/og/tesla-ai-chiplarining-xotira-hajmini-qisqartirdi-498400.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/tesla-ai-chiplarining-xotira-hajmini-qisqartirdi-498400.jpg"/>
-  </item>
-  <item>
-    <title>Rossiyada Nvidia Jetson Orin muqobili taqdim etildi</title>
-    <link>https://ailenta.uz/x/rossiyada-nvidia-jetson-orin-muqobili-taqdim-etildi-c8e69f/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/rossiyada-nvidia-jetson-orin-muqobili-taqdim-etildi-c8e69f/</guid>
-    <pubDate>Sat, 03 Oct 2026 12:30:17 GMT</pubDate>
-    <description>&quot;Baikal Electronics&quot; kompaniyasi Nvidia Jetson Orin chipining mahalliy muqobili boʻlgan yangi Rossiya AI chipini namoyish etdi.</description>
-    <category>chiplar</category><category>Nvidia</category>
-    <media:content url="https://ailenta.uz/og/rossiyada-nvidia-jetson-orin-muqobili-taqdim-etildi-c8e69f.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/rossiyada-nvidia-jetson-orin-muqobili-taqdim-etildi-c8e69f.jpg"/>
   </item>
 </channel>
 </rss>

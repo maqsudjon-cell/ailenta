@@ -1,5 +1,185 @@
 [
   {
+    "id": "a6f929585a9c",
+    "slug": "ai-xavfsizligi-uchun-qatiy-javobgarlik-muhokamada-a6f929",
+    "title": "AI xavfsizligi uchun qat'iy javobgarlik muhokamada",
+    "summary": "AI kompaniyalarini xavfsizlikni yaxshilashga majburlash uchun qat'iy javobgarlik g'oyasi tobora ommalashmoqda. Biroq, bu yondashuv ochiq model rivojlanishiga to'sqinlik qilishi va ba'zi kamchiliklarga ega bo'lishi mumkin.",
+    "tags": [
+      "qonun",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 25,
+    "published": "2026-10-13T19:52:42.000Z",
+    "created": "2026-10-13T21:36:46.777Z",
+    "coverage": 2,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/10/13/strict-liability-is-gaining-traction-as-a-solution-to-force-ai-companies-to-institute-better-safety-controls-but-it-has-some-big-downsides-too",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "Fortune",
+        "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOZzhtS0FHZVoxdGJ4MjFiLXhBdVNTS3dfOF90YW13d2N2em5zQ0I3QlRYVzZMeG5XTFljQlllcnJzRlQtZ0xtcENKWFBSQzJtNDd3N3BHTExoQzlxaWxFNHhqdGVVbmlOcXhheWxIc1hKLUtid3lORU1EVWU1bklFek9maUNiRjFkbHoxVHpfQ09VWlJMZl9VTVRpcHFjd3pDX3ZWSFhCREJVTVI1RE1KQVRzRU5hS3NYdFMxVVQ1V0M3YTNzYllCT1hMUmR2QnRhSWUtSWdSQ3FwdUluS3JKakVJb3NNVWZiUExkeHVuU1oxVHJoSE02TWdmYWFzZVI1S1RtQw"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "1976d6bfc99e",
+    "slug": "applied-intuition-qiymati-30-mlrd-dan-oshdi-1976d6",
+    "title": "Applied Intuition qiymati $30 mlrd dan oshdi",
+    "summary": "O'ziyurar avtomobillar simulyatsiya dasturlarini ishlab chiqaruvchi Applied Intuition kompaniyasi $30 milliarddan ortiq baholanadigan sarmoya takliflarini oldi. Bu uning iyun oyidagi $15 milliardlik bahosidan ikki barobar ko'pdir.",
+    "tags": [
+      "biznes",
+      "robototexnika"
+    ],
+    "importance": 4,
+    "score": 24,
+    "published": "2026-10-13T19:50:01.000Z",
+    "created": "2026-10-13T21:36:46.777Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/261013/p39",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "d3c46cec8c77",
+    "slug": "voltaning-5-mlrd-qarz-bitimi-ai-moliyalashtirishini-korsatdi-d3c46c",
+    "title": "Volta'ning $5 mlrd qarz bitimi AI moliyalashtirishini ko'rsatdi",
+    "summary": "Norvegiyadagi Anthropic tomonidan qo'llab-quvvatlanadigan loyiha uchun bu hafta sotilgan $5 milliardlik qarz bitimi kreditorlarning ehtiyotkorligini ko'rsatdi. Bu yuqori foiz stavkalari va kredit reytingi shartlari bilan bog'liq.",
+    "tags": [
+      "Anthropic",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 22,
+    "published": "2026-10-13T20:32:23.000Z",
+    "created": "2026-10-13T21:36:46.777Z",
+    "coverage": 1,
+    "source": {
+      "name": "Semafor",
+      "url": "https://semafor.com/article/10/13/2026/voltas-5-billion-debt-deal-is-a-pulse-check-on-the-ai-financing-boom",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "cd13a57ce59e",
+    "slug": "michael-dell-ai-xavfsizligi-uchun-nazorat-zarurligini-aytdi-cd13a5",
+    "title": "Michael Dell AI xavfsizligi uchun nazorat zarurligini aytdi",
+    "summary": "Dell bosh direktori Michael Dellning ta'kidlashicha, AI modellariga himoya va nazorat kerak. Uning fikricha, xavfsizlikni ta'minlashda kompaniyalar va hukumat birgalikda rol o'ynashi lozim.",
+    "tags": [
+      "biznes",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-10-13T19:08:28.000Z",
+    "created": "2026-10-13T21:36:46.777Z",
+    "coverage": 1,
+    "source": {
+      "name": "CNBC",
+      "url": "https://cnbc.com/2026/10/13/michael-dell-ai-safeguards-government.html",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "4dbb354aabad",
+    "slug": "xalqaro-valyuta-jamgarmasi-ai-global-osishni-oshiradi-dedi-4dbb35",
+    "title": "Xalqaro Valyuta Jamg'armasi AI global o'sishni oshiradi dedi",
+    "summary": "Xalqaro Valyuta Jamg'armasi (XVF) AIga qilingan xarajatlar global iqtisodiy o'sishni oshirishini prognoz qildi. Biroq, XVFning umumiy istiqbolidagi bu kichik yaxshilanish umumiy kengayish sur'atining sekinlashishini anglatadi.",
+    "tags": [
+      "iqtisod",
+      "siyosat"
+    ],
+    "importance": 4,
+    "score": 19,
+    "published": "2026-10-13T11:36:28.000Z",
+    "created": "2026-10-13T21:36:46.777Z",
+    "coverage": 1,
+    "source": {
+      "name": "Semafor",
+      "url": "https://semafor.com/article/10/13/2026/ai-spending-to-drive-global-growth-imf-forecasts",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "6e3143764218",
+    "slug": "kv-kash-transporti-minimax-m3-xulosa-chiqarishga-tasiri-6e3143",
+    "title": "KV-kash transporti MiniMax-M3 xulosa chiqarishga ta'siri",
+    "summary": "Habr nashrida KV-kash transportining ajratilgan xulosa chiqarish (disaggregated inference) samaradorligiga ta'siri o'rganildi. Tadqiqotda prefill va decode bosqichlari turli GPU-tugunlarda bajariladigan MiniMax-M3 modelining ishlashi Nvidia B200 chiplari yordamida sinovdan o'tkazildi.",
+    "tags": [
+      "tadqiqot",
+      "chiplar"
+    ],
+    "importance": 2,
+    "score": 17,
+    "published": "2026-10-13T21:29:50.000Z",
+    "created": "2026-10-13T21:36:46.777Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1094076",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "375761d3a401",
+    "slug": "xbox-labs-ai-vositalari-bilan-yangi-goyalarni-sinovdan-otkaz-375761",
+    "title": "Xbox Labs AI vositalari bilan yangi g'oyalarni sinovdan o'tkazadi",
+    "summary": "Xbox bosh direktori Asha Sharma Xbox Labs nomli yangi jamoani e'lon qildi. Bu kichik jamoa AI vositalari yordamida yaratilgan o'yin portlari va mashuplarini sinovdan o'tkazib, yangi g'oyalarni tadqiq qiladi.",
+    "tags": [
+      "Microsoft",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-10-13T20:40:59.000Z",
+    "created": "2026-10-13T21:36:46.777Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/261013/p42",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "c11832571e04",
+    "slug": "grimesning-yangi-klipida-ai-kam-ishlatildi-c11832",
+    "title": "Grimesning yangi klipida AI kam ishlatildi",
+    "summary": "Grimesning jamoasi Business Insider'ga \"Accelerando\" nomli yangi musiqiy videosida AI kamdan-kam qo'llanilganini ma'lum qildi. Klipni yaratishda 70 dan ortiq rassom ham ishtirok etgan.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 1,
+    "score": 15,
+    "published": "2026-10-13T19:49:09.000Z",
+    "created": "2026-10-13T21:36:46.778Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/grimes-new-music-video-accelerando-ai-artists-2026-10",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "800bd33289d1",
     "slug": "lionsgate-ai-ofitseri-backrooms-haqida-800bd3",
     "title": "Lionsgate AI ofitseri \"Backrooms\" haqida",
