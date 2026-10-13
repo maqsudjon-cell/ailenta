@@ -1,5 +1,106 @@
 [
   {
+    "id": "ebfd74bf5929",
+    "slug": "apple-homeview-299-uy-plansheti-taqdim-etildi-ebfd74",
+    "title": "Apple HomeView: $299 uy plansheti taqdim etildi",
+    "summary": "Apple HomeView nomli $299 narxidagi uy planshetini taqdim etdi. Qurilma kompaniyaning sun'iy intellekt sohasidagi sa'y-harakatlari va Siri AI imkoniyatlarini namoyish etadi.",
+    "tags": [
+      "Apple",
+      "biznes"
+    ],
+    "importance": 4,
+    "score": 45,
+    "published": "2026-10-13T17:23:29.000Z",
+    "created": "2026-10-13T17:42:44.246Z",
+    "coverage": 4,
+    "source": {
+      "name": "The New York Times",
+      "url": "https://nytimes.com/2026/10/13/technology/apple-homeview-tablet.html",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "The Guardian",
+        "url": "https://theguardian.com/technology/2026/oct/13/apple-new-smart-home-device-ai"
+      },
+      {
+        "name": "CNBC",
+        "url": "https://cnbc.com/2026/10/13/apple-homeview-smart-home-siri-ai.html"
+      },
+      {
+        "name": "Engadget",
+        "url": "https://engadget.com/2285178/apple-homeview-hands-on-siri-ai"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "f608394757de",
+    "slug": "epic-games-disney-oyini-uchun-aidan-foydalanadi-f60839",
+    "title": "Epic Games Disney o'yini uchun AI'dan foydalanadi",
+    "summary": "Epic Games e'lon qilinmagan Disney o'yini uchun kod va san'at yaratishda AI'dan foydalanishni rejalashtirmoqda. Loyiha ishlab chiquvchilariga \"AI-birinchi\" ko'rsatma berilgan, bu esa o'yinning mart oyidagi chiqishini kechiktirgan.",
+    "tags": [
+      "biznes",
+      "Anthropic"
+    ],
+    "importance": 3,
+    "score": 18,
+    "published": "2026-10-13T15:12:59.000Z",
+    "created": "2026-10-13T17:42:44.246Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Verge",
+      "url": "https://theverge.com/games/1010097/epic-games-disney-project-ai-coding-art",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "d5ae7179978e",
+    "slug": "nvidia-dlss-5-hogwarts-legacy-uchun-moslashtirildi-d5ae71",
+    "title": "Nvidia DLSS 5 Hogwarts Legacy uchun moslashtirildi",
+    "summary": "Nvidia'ning DLSS 5 texnologiyasi \"Hogwarts Legacy\" o'yinining keyingi oygi debyuti uchun moslashtirildi. Avvalroq, DLSS 5 video o'yinlar uchun generativ AI sifatida taqdim etilganida, yuzlarni o'zgartirib yuborgani tanqid qilingan edi.",
+    "tags": [
+      "Nvidia",
+      "chiplar"
+    ],
+    "importance": 3,
+    "score": 18,
+    "published": "2026-10-13T13:55:45.000Z",
+    "created": "2026-10-13T17:42:44.246Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Verge",
+      "url": "https://theverge.com/news/1009904/dlss-5-hogwarts-legacy-changes-improvements",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "fa1a37fdc416",
+    "slug": "laplace-intelligence-robotlarni-ai-bilan-sinovdan-otkazadi-fa1a37",
+    "title": "Laplace Intelligence robotlarni AI bilan sinovdan o'tkazadi",
+    "summary": "Laplace Intelligence kompaniyasi robotlar va o'ziyurar avtomobillarni joylashtirishdan oldin sinovdan o'tkazish uchun AI agentlari va interaktiv simulyatsiyadan foydalanadi. Michigan universiteti spinouti bo'lgan bu foydali startap TechCrunch Disrupt tanlovida ishtirok etmoqda.",
+    "tags": [
+      "robototexnika",
+      "agentlar"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-10-13T17:30:00.000Z",
+    "created": "2026-10-13T17:42:44.246Z",
+    "coverage": 1,
+    "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "22bcc48630c0",
     "slug": "trampning-ai-direktivasi-savollar-tugdirdi-22bcc4",
     "title": "Trampning AI direktivasi savollar tug'dirdi",
