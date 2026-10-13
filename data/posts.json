@@ -1,5 +1,113 @@
 [
   {
+    "id": "4dc5ab98c5a3",
+    "slug": "yevropada-data-markazlar-elektr-narxini-oshirishi-mumkin-4dc5ab",
+    "title": "Yevropada data-markazlar elektr narxini oshirishi mumkin",
+    "summary": "Moody's prognoziga ko'ra, 2035-yilga borib server fermalari Niderlandiya elektr energiyasining 17 foizini, Irlandiyaning esa 30 foizini iste'mol qilishi mumkin. Hukumatlar aralashmasa, ma'lumot markazlarining ko'payishi energiya narxlarini oshirib yuborishi xavfi bor.",
+    "tags": [
+      "bulut",
+      "iqtisod"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-10-13T10:30:00.000Z",
+    "created": "2026-10-13T12:02:17.316Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/on-prem/2026/10/13/european-datacenter-boom-threatens-higher-energy-bills-unless-governments-intervene/5302583",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "ad715154b1c7",
+    "slug": "baa-bogchalarda-ai-talimini-joriy-etmoqda-ad7151",
+    "title": "BAA bog'chalarda AI ta'limini joriy etmoqda",
+    "summary": "Birlashgan Arab Amirliklarida bolalar bog'chalari uchun sun'iy intellekt savodxonligi joriy etilmoqda. Mamlakat AI bilan ishlash ko'nikmalarini o'qish va yozish kabi asosiy ta'lim darajasiga olib chiqishni maqsad qilgan.",
+    "tags": [
+      "ta'lim"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-10-13T10:00:00.000Z",
+    "created": "2026-10-13T12:02:17.316Z",
+    "coverage": 1,
+    "source": {
+      "name": "Rest of World",
+      "url": "https://restofworld.org/2026/uae-mandates-k12-ai-education-schools",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "6f8f7bd14436",
+    "slug": "aqsh-regulyatorlari-banklardagi-ai-xatarlarini-tekshirmoqda-6f8f7b",
+    "title": "AQSh regulyatorlari banklardagi AI xatarlarini tekshirmoqda",
+    "summary": "AQSh bank nazoratchilari banklardan agentli AI tizimlari va ularning xavfsizlik choralari bo'yicha ma'lumot so'ramoqda. Tekshiruvlar, shuningdek, moliya muassasalarida Xitoyda ishlab chiqilgan modellardan foydalanish holatlarini ham qamrab olgan.",
+    "tags": [
+      "biznes",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 18,
+    "published": "2026-10-13T11:20:08.000Z",
+    "created": "2026-10-13T12:02:17.316Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/261013/p16",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "272682318f2b",
+    "slug": "shanxayda-besh-tonna-yuk-kotaruvchi-robot-taqdim-etildi-272682",
+    "title": "Shanxayda besh tonna yuk ko'taruvchi robot taqdim etildi",
+    "summary": "Shanxaydagi xalqaro sanoat ko'rgazmasida yuk ko'tarish quvvati besh tonnadan oshadigan robot namoyish qilindi. Qurilma yirik sanoat komponentlarini ishonchli tarzda qayta ishlash va ushlab turish vazifalariga mo'ljallangan.",
+    "tags": [
+      "robototexnika"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-10-13T11:37:16.000Z",
+    "created": "2026-10-13T12:02:17.316Z",
+    "coverage": 1,
+    "source": {
+      "name": "TechNode",
+      "url": "https://technode.com/2026/10/13/a-chinese-five-ton-robot-debuts-at-shanghais-ciif-but-real-world-performance-is-what-counts",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "34164d0d160e",
+    "slug": "apple-ai-poygasida-aqlli-uy-qurilmalariga-tayanmoqda-34164d",
+    "title": "Apple AI poygasida aqlli uy qurilmalariga tayanmoqda",
+    "summary": "Apple kompaniyasi \"Welcome Home\" tadbirida yangi aqlli uy qurilmalarini namoyish qilishga tayyorlanmoqda. Kompaniya raqobatchilar AI poygasida faollashgan paytda o'z ekotizimini kengaytirib, mavqeini saqlab qolishni rejalashtirgan.",
+    "tags": [
+      "Apple",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-10-13T10:47:04.000Z",
+    "created": "2026-10-13T12:02:17.316Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/apple-welcome-home-event-new-smart-home-devices-unveiled-2026-10",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "09df25fc57b0",
     "slug": "prime-turkiyada-ai-filmini-namoyish-etadi-09df25",
     "title": "Prime Turkiyada AI filmini namoyish etadi",
