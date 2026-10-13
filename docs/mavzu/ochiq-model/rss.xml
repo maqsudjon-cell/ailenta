@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/ochiq-model/</link>
   <description>&quot;ochiq model&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Tue, 13 Oct 2026 14:08:55 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 13 Oct 2026 15:09:53 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/ochiq-model/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>NetBSD AI'siz FOSS OS sifatida yangi rol topdi</title>
+    <link>https://ailenta.uz/x/netbsd-aisiz-foss-os-sifatida-yangi-rol-topdi-ec003e/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/netbsd-aisiz-foss-os-sifatida-yangi-rol-topdi-ec003e/</guid>
+    <pubDate>Tue, 13 Oct 2026 14:15:00 GMT</pubDate>
+    <description>NetBSD operatsion tizimi &quot;AI'siz ochiq kodli OS&quot; sifatida yangi rol topdi. Bu uning tan olinishini, qabul qilinishini va xayriya mablag'larini oshirishga olib kelmoqda.</description>
+    <category>ochiq model</category><category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/netbsd-aisiz-foss-os-sifatida-yangi-rol-topdi-ec003e.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/netbsd-aisiz-foss-os-sifatida-yangi-rol-topdi-ec003e.jpg"/>
+  </item>
   <item>
     <title>QGIS AI yordamidagi hissalarni taqiqladi</title>
     <link>https://ailenta.uz/x/qgis-ai-yordamidagi-hissalarni-taqiqladi-c68c03/</link>
@@ -296,16 +306,6 @@
     <category>Nvidia</category><category>ochiq model</category>
     <media:content url="https://ailenta.uz/og/nvidia-pair-bosh-turgan-kompyuterlarni-ai-uchun-ishlatadi-40f67a.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/nvidia-pair-bosh-turgan-kompyuterlarni-ai-uchun-ishlatadi-40f67a.jpg"/>
-  </item>
-  <item>
-    <title>AI modellarining badiiy tarjima qobiliyati solishtirildi</title>
-    <link>https://ailenta.uz/x/ai-modellarining-badiiy-tarjima-qobiliyati-solishtirildi-2f802e/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/ai-modellarining-badiiy-tarjima-qobiliyati-solishtirildi-2f802e/</guid>
-    <pubDate>Thu, 03 Sep 2026 13:00:18 GMT</pubDate>
-    <description>Habr nashri Anthropic, OpenAI va Google'ning ilg'or AI modellarini badiiy tarjima, tahrirlash va tekshirish maqsadida solishtirdi. Taqqoslashda Google (Gemini Flash 3.7, Pro 3.1), Anthropic (Claude Opus 5) va OpenAI (GPT Sol 5.6) modellaridan foydalanildi. Barcha solishtiruvlar BookTrans ochiq kodli konveyeri ichida o'tkazildi.</description>
-    <category>tadqiqot</category><category>ochiq model</category>
-    <media:content url="https://ailenta.uz/og/ai-modellarining-badiiy-tarjima-qobiliyati-solishtirildi-2f802e.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/ai-modellarining-badiiy-tarjima-qobiliyati-solishtirildi-2f802e.jpg"/>
   </item>
 </channel>
 </rss>

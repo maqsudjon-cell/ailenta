@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/agentlar/</link>
   <description>&quot;agentlar&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Tue, 13 Oct 2026 14:08:55 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 13 Oct 2026 15:09:53 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/agentlar/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Geoffrey Huntley: AI agentlari uchun diagnostika</title>
+    <link>https://ailenta.uz/x/geoffrey-huntley-ai-agentlari-uchun-diagnostika-858ce7/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/geoffrey-huntley-ai-agentlari-uchun-diagnostika-858ce7/</guid>
+    <pubDate>Tue, 13 Oct 2026 13:32:00 GMT</pubDate>
+    <description>Geoffrey Huntley AI agentlari diagnostika kutubxonalaridan foydalanishini ta'minlash uchun pre-commit hook'lardan foydalanishni taklif qildi. Uning fikricha, bu agentlarning to'g'ri ishlashini kafolatlaydi va qo'lda kod yozish zaruratini kamaytiradi.</description>
+    <category>agentlar</category><category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/geoffrey-huntley-ai-agentlari-uchun-diagnostika-858ce7.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/geoffrey-huntley-ai-agentlari-uchun-diagnostika-858ce7.jpg"/>
+  </item>
   <item>
     <title>SberDevices o'zining frontend agent tizimini yaratdi</title>
     <link>https://ailenta.uz/x/sberdevices-ozining-frontend-agent-tizimini-yaratdi-a87acb/</link>
@@ -296,16 +306,6 @@
     <category>Microsoft</category><category>agentlar</category>
     <media:content url="https://ailenta.uz/og/microsoft-windows-qidiruvini-chatbotga-aylantirmoqda-2a686d.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/microsoft-windows-qidiruvini-chatbotga-aylantirmoqda-2a686d.jpg"/>
-  </item>
-  <item>
-    <title>Cisco Webex platformasiga AI agentlarini joriy etadi</title>
-    <link>https://ailenta.uz/x/cisco-webex-platformasiga-ai-agentlarini-joriy-etadi-674e51/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/cisco-webex-platformasiga-ai-agentlarini-joriy-etadi-674e51/</guid>
-    <pubDate>Wed, 07 Oct 2026 14:00:00 GMT</pubDate>
-    <description>Cisco kompaniyasi o'zining Webex korporativ platformasiga yangi agentli tizimni olib kirmoqda. Dialog deb nomlangan funksiya mijozlar bilan tarqoq muloqotlarni uzluksiz aloqaga aylantirishga yordam beradi.</description>
-    <category>agentlar</category><category>biznes</category>
-    <media:content url="https://ailenta.uz/og/cisco-webex-platformasiga-ai-agentlarini-joriy-etadi-674e51.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/cisco-webex-platformasiga-ai-agentlarini-joriy-etadi-674e51.jpg"/>
   </item>
 </channel>
 </rss>

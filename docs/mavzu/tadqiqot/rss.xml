@@ -5,8 +5,28 @@
   <link>https://ailenta.uz/mavzu/tadqiqot/</link>
   <description>&quot;tadqiqot&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Tue, 13 Oct 2026 14:08:55 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 13 Oct 2026 15:09:53 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/tadqiqot/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>NetBSD AI'siz FOSS OS sifatida yangi rol topdi</title>
+    <link>https://ailenta.uz/x/netbsd-aisiz-foss-os-sifatida-yangi-rol-topdi-ec003e/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/netbsd-aisiz-foss-os-sifatida-yangi-rol-topdi-ec003e/</guid>
+    <pubDate>Tue, 13 Oct 2026 14:15:00 GMT</pubDate>
+    <description>NetBSD operatsion tizimi &quot;AI'siz ochiq kodli OS&quot; sifatida yangi rol topdi. Bu uning tan olinishini, qabul qilinishini va xayriya mablag'larini oshirishga olib kelmoqda.</description>
+    <category>ochiq model</category><category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/netbsd-aisiz-foss-os-sifatida-yangi-rol-topdi-ec003e.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/netbsd-aisiz-foss-os-sifatida-yangi-rol-topdi-ec003e.jpg"/>
+  </item>
+  <item>
+    <title>Geoffrey Huntley: AI agentlari uchun diagnostika</title>
+    <link>https://ailenta.uz/x/geoffrey-huntley-ai-agentlari-uchun-diagnostika-858ce7/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/geoffrey-huntley-ai-agentlari-uchun-diagnostika-858ce7/</guid>
+    <pubDate>Tue, 13 Oct 2026 13:32:00 GMT</pubDate>
+    <description>Geoffrey Huntley AI agentlari diagnostika kutubxonalaridan foydalanishini ta'minlash uchun pre-commit hook'lardan foydalanishni taklif qildi. Uning fikricha, bu agentlarning to'g'ri ishlashini kafolatlaydi va qo'lda kod yozish zaruratini kamaytiradi.</description>
+    <category>agentlar</category><category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/geoffrey-huntley-ai-agentlari-uchun-diagnostika-858ce7.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/geoffrey-huntley-ai-agentlari-uchun-diagnostika-858ce7.jpg"/>
+  </item>
   <item>
     <title>Pediatr: Bolalarga insoniy aloqa yo'qolishi AI dan xavfliroq</title>
     <link>https://ailenta.uz/x/pediatr-bolalarga-insoniy-aloqa-yoqolishi-ai-dan-xavfliroq-04602d/</link>
@@ -46,6 +66,16 @@
     <category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/xitoyda-matematika-boyicha-ai-alyansi-tuzildi-e29ab9.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/xitoyda-matematika-boyicha-ai-alyansi-tuzildi-e29ab9.jpg"/>
+  </item>
+  <item>
+    <title>Apple: Kam resursli tillar uchun AI o'qitish</title>
+    <link>https://ailenta.uz/x/apple-kam-resursli-tillar-uchun-ai-oqitish-adadd9/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/apple-kam-resursli-tillar-uchun-ai-oqitish-adadd9/</guid>
+    <pubDate>Tue, 13 Oct 2026 00:00:00 GMT</pubDate>
+    <description>Apple tadqiqotchilari kam resursli tillar uchun til modellarini oldindan o'qitishda yangi usulni taklif qildi. Ular yuqori resursli yordamchi til ma'lumotlarini aralashtirish giperparametr sozlashdan ustun ekanligini aniqladi. Bu yondashuv umumlashtirishni yaxshilaydi.</description>
+    <category>Apple</category><category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/apple-kam-resursli-tillar-uchun-ai-oqitish-adadd9.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/apple-kam-resursli-tillar-uchun-ai-oqitish-adadd9.jpg"/>
   </item>
   <item>
     <title>Tadqiqot ma'lumotlarini AI tekshiruvlari uchun saqlash</title>
@@ -276,36 +306,6 @@
     <category>tadqiqot</category><category>maxfiylik</category>
     <media:content url="https://ailenta.uz/og/mahalliy-ai-tizimlari-bilan-adabiyot-qidirish-dca66b.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/mahalliy-ai-tizimlari-bilan-adabiyot-qidirish-dca66b.jpg"/>
-  </item>
-  <item>
-    <title>Insoniy muloqot onlayndan ko'proq gormon ishlab chiqaradi</title>
-    <link>https://ailenta.uz/x/insoniy-muloqot-onlayndan-koproq-gormon-ishlab-chiqaradi-699a04/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/insoniy-muloqot-onlayndan-koproq-gormon-ishlab-chiqaradi-699a04/</guid>
-    <pubDate>Sun, 11 Oct 2026 15:52:20 GMT</pubDate>
-    <description>AQSh neyroolim Ben Reynning tadqiqotiga ko'ra, yuzma-yuz uchrashuvlar va suhbatlar onlayn muloqotlarga nisbatan &quot;baxt gormonlari&quot;ni sezilarli darajada oshiradi. Bu AI firmalariga qarshi noroziliklar fonida muhokama qilinmoqda.</description>
-    <category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/insoniy-muloqot-onlayndan-koproq-gormon-ishlab-chiqaradi-699a04.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/insoniy-muloqot-onlayndan-koproq-gormon-ishlab-chiqaradi-699a04.jpg"/>
-  </item>
-  <item>
-    <title>10 daqiqa AI ishlatish qiyin ishlarda qat'iyatni pasaytiradi</title>
-    <link>https://ailenta.uz/x/10-daqiqa-ai-ishlatish-qiyin-ishlarda-qatiyatni-pasaytiradi-2ecde3/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/10-daqiqa-ai-ishlatish-qiyin-ishlarda-qatiyatni-pasaytiradi-2ecde3/</guid>
-    <pubDate>Sun, 11 Oct 2026 10:47:21 GMT</pubDate>
-    <description>Tadqiqotga ko'ra, atigi 10 daqiqa AI'dan foydalanish qiyin vazifalarda qat'iyatni pasaytirishi mumkin. Bu AI'ning inson xulq-atvoriga ta'siri haqida.</description>
-    <category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/10-daqiqa-ai-ishlatish-qiyin-ishlarda-qatiyatni-pasaytiradi-2ecde3.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/10-daqiqa-ai-ishlatish-qiyin-ishlarda-qatiyatni-pasaytiradi-2ecde3.jpg"/>
-  </item>
-  <item>
-    <title>Idish yuvish mashinasi nega robot emas</title>
-    <link>https://ailenta.uz/x/idish-yuvish-mashinasi-nega-robot-emas-5c807c/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/idish-yuvish-mashinasi-nega-robot-emas-5c807c/</guid>
-    <pubDate>Sun, 11 Oct 2026 10:34:43 GMT</pubDate>
-    <description>Hacker News nashri &quot;robot&quot; tushunchasining ijtimoiy konstruksiya ekanligini muhokama qildi. Maqolada idish yuvish mashinasi kabi qurilmalar nega robot hisoblanmasligi tushuntirilgan.</description>
-    <category>robototexnika</category><category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/idish-yuvish-mashinasi-nega-robot-emas-5c807c.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/idish-yuvish-mashinasi-nega-robot-emas-5c807c.jpg"/>
   </item>
 </channel>
 </rss>
