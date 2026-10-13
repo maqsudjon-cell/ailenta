@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/agentlar/</link>
   <description>&quot;agentlar&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Tue, 13 Oct 2026 12:07:27 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 13 Oct 2026 12:47:33 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/agentlar/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>SberDevices o'zining frontend agent tizimini yaratdi</title>
+    <link>https://ailenta.uz/x/sberdevices-ozining-frontend-agent-tizimini-yaratdi-a87acb/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/sberdevices-ozining-frontend-agent-tizimini-yaratdi-a87acb/</guid>
+    <pubDate>Tue, 13 Oct 2026 09:09:39 GMT</pubDate>
+    <description>SberDevices kompaniyasi tashqi yechimlardan foydalana olmagani sababli o'zining frontend agent tizimini yaratdi. Bu tizim agent sikli va deterministik ish jarayonini birlashtiradi.</description>
+    <category>agentlar</category><category>biznes</category>
+    <media:content url="https://ailenta.uz/og/sberdevices-ozining-frontend-agent-tizimini-yaratdi-a87acb.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/sberdevices-ozining-frontend-agent-tizimini-yaratdi-a87acb.jpg"/>
+  </item>
   <item>
     <title>Honeyjar kompaniyalar uchun AI PR vositalarini taklif etadi</title>
     <link>https://ailenta.uz/x/honeyjar-kompaniyalar-uchun-ai-pr-vositalarini-taklif-etadi-bdf598/</link>
@@ -296,16 +306,6 @@
     <category>agentlar</category><category>biznes</category>
     <media:content url="https://ailenta.uz/og/cisco-webex-platformasiga-ai-agentlarini-joriy-etadi-674e51.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/cisco-webex-platformasiga-ai-agentlarini-joriy-etadi-674e51.jpg"/>
-  </item>
-  <item>
-    <title>AI agentini noldan yozishning murakkabliklari muhokama qilindi</title>
-    <link>https://ailenta.uz/x/ai-agentini-noldan-yozishning-murakkabliklari-muhokama-qilin-0c22c0/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/ai-agentini-noldan-yozishning-murakkabliklari-muhokama-qilin-0c22c0/</guid>
-    <pubDate>Wed, 07 Oct 2026 13:16:59 GMT</pubDate>
-    <description>Habr nashrida AI agentini noldan yozishning murakkabliklari va uning ichki tuzilishi tahlil qilindi. Maqolada agent tizimining qismlari va har birining alohida loyihaga aylanish sabablari ko‘rsatilgan.</description>
-    <category>tadqiqot</category><category>agentlar</category>
-    <media:content url="https://ailenta.uz/og/ai-agentini-noldan-yozishning-murakkabliklari-muhokama-qilin-0c22c0.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/ai-agentini-noldan-yozishning-murakkabliklari-muhokama-qilin-0c22c0.jpg"/>
   </item>
 </channel>
 </rss>

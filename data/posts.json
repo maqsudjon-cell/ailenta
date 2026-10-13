@@ -1,5 +1,207 @@
 [
   {
+    "id": "858e08d2bb19",
+    "slug": "ai-investitsiyalari-global-iqtisodiyotga-tasiri-858e08",
+    "title": "AI investitsiyalari global iqtisodiyotga ta'siri",
+    "summary": "Xalqaro iqtisodiy yangiliklar dayjestida Xitoyning davlat qarzi xarajatlari va sun'iy intellektga investitsiyalarning global iqtisodiy o'sishga ta'siri ko'rib chiqildi. Shuningdek, mehnat bozoridagi o'zgarishlar ham muhokama qilindi.",
+    "tags": [
+      "iqtisod",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 44,
+    "published": "2026-10-13T12:26:24.000Z",
+    "created": "2026-10-13T12:40:29.837Z",
+    "coverage": 1,
+    "source": {
+      "name": "Review.uz",
+      "url": "https://review.uz/post/dolgovaya-nagruzka-i-investicii-v-iskusstvenny-intellekt-v-mirovoy-ekonomike",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "d1cb9b6a041e",
+    "slug": "synology-diskstation-neo-nas-qurilmalarini-taqdim-etdi-d1cb9b",
+    "title": "Synology DiskStation neo+ NAS qurilmalarini taqdim etdi",
+    "summary": "Synology kompaniyasi DiskStation neo+ tarmoq ma'lumotlar saqlash qurilmalarining yangi turkumini chiqardi. Unga DS725neo+, DS925neo+, DS1525neo+ va DS1825neo+ nomli to'rtta model kiradi.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 44,
+    "published": "2026-10-13T10:10:00.000Z",
+    "created": "2026-10-13T12:40:29.837Z",
+    "coverage": 1,
+    "source": {
+      "name": "UzDaily",
+      "url": "https://uzdaily.uz/uz/synology-diskstation-neo-nas-qurilmalarining-professional-imkoniyatlari-endi-yanada-hamyonbop-narxda",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "7ba1509c800b",
+    "slug": "tadqiqot-malumotlarini-ai-tekshiruvlari-uchun-saqlash-7ba150",
+    "title": "Tadqiqot ma'lumotlarini AI tekshiruvlari uchun saqlash",
+    "summary": "Nature nashri kelajakdagi AI yordamida ma'lumotlar yaxlitligini tekshirish uchun tadqiqot ma'lumotlarini saqlash muhimligini ta'kidladi. Waters kompaniyasi esa AI Link'ni ishga tushirdi.",
+    "tags": [
+      "tadqiqot",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 28.8,
+    "published": "2026-10-13T00:00:00.000Z",
+    "created": "2026-10-13T12:40:29.837Z",
+    "coverage": 2,
+    "source": {
+      "name": "Nature",
+      "url": "https://nature.com/articles/d41586-026-03244-3",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "Press Release Hub",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNcHg4UTFuLWs0b212RmxKVk5Zd0s5djRveWxDVHpBbC1yTXJkeGNGckNocUh5V0wwYWNYdTFVYXc3aGV2bl9MZ2lPRTRfbWNNSWxHaEtUNTdzU1pxNEt4dzJTZE1meFBQZWtjNlUycUs1ZVBGYlRWNVh0ZHZfdTNQT1NsVVZiLWE0WWxzd0FmZkhfT2VYVW5BQWlxZTRJRzFNZmhrTEd4RHZMekkzeWtOY1hZUi1yNFJZQS1ZN2gzTlFPMDRPcVAxano4bVBxVzZDdFFj"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "e7c0cc6a8c7d",
+    "slug": "geoffrey-hinton-trampni-ai-haqida-bilmaslikda-aybladi-e7c0cc",
+    "title": "Geoffrey Hinton Trampni AI haqida bilmaslikda aybladi",
+    "summary": "AI \"cho'qintirgan otasi\" Geoffrey Hinton Donald Trampni \"korruptsiyaga uchragan, aqldan ozgan jinoyatchi\" deb atadi. Uning so'zlariga ko'ra, Tramp \"superintellekt\" atamasini noto'g'ri ishlatib, AI haqida hech narsa bilmasligini isbotlagan.",
+    "tags": [
+      "siyosat",
+      "xavfsizlik"
+    ],
+    "importance": 4,
+    "score": 23,
+    "published": "2026-10-13T09:00:20.000Z",
+    "created": "2026-10-13T12:40:29.837Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/us-news/2026/oct/13/geoffrey-hinton-trump-ai-tech",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "899d2cfa5c0c",
+    "slug": "niclip-miya-faolligidan-matnni-bashoratlovchi-model-899d2c",
+    "title": "NiCLIP: miya faolligidan matnni bashoratlovchi model",
+    "summary": "Nature nashrida NiCLIP nomli neyroimaging kontrastli til-tasvir oldindan o'qitish modeli taqdim etildi. Bu model miya faolligi tasvirlaridan matnni bashorat qilishga mo'ljallangan.",
+    "tags": [
+      "tadqiqot",
+      "tibbiyot"
+    ],
+    "importance": 3,
+    "score": 22.8,
+    "published": "2026-10-13T00:00:00.000Z",
+    "created": "2026-10-13T12:40:29.837Z",
+    "coverage": 1,
+    "source": {
+      "name": "Nature",
+      "url": "https://nature.com/articles/s41467-026-78451-7",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "7eb7cda751ae",
+    "slug": "ai-yoki-inson-goyasini-aniqlovchi-detektor-7eb7cd",
+    "title": "AI yoki inson g'oyasini aniqlovchi detektor",
+    "summary": "Nature nashrida e'lon qilingan maqolaga ko'ra, yangi detektor g'oyaning sun'iy intellekt yoki inson tomonidan yaratilganini aniqlay oladi. Bu texnologiya mualliflikni belgilashda yordam berishi mumkin.",
+    "tags": [
+      "tadqiqot",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 22.8,
+    "published": "2026-10-13T00:00:00.000Z",
+    "created": "2026-10-13T12:40:29.837Z",
+    "coverage": 1,
+    "source": {
+      "name": "Nature",
+      "url": "https://nature.com/articles/d41586-026-03247-0",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "bf10563d0553",
+    "slug": "ichki-ishlar-vazirligi-aisi-boshpana-tekshiruvida-xato-bf1056",
+    "title": "Ichki ishlar vazirligi AI'si boshpana tekshiruvida xato",
+    "summary": "Ichki ishlar vazirligining boshpana arizalarini ko'rib chiqishga mo'ljallangan AI tizimi har beshta tekshiruvdan bittasida xato qildi. Faollar texnologiya xatolarga yo'l qo'yayotganini va jarayonlar yomonlashayotganini ta'kidladi.",
+    "tags": [
+      "siyosat",
+      "xavfsizlik"
+    ],
+    "importance": 4,
+    "score": 19,
+    "published": "2026-10-13T07:31:00.000Z",
+    "created": "2026-10-13T12:40:29.837Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/public-sector/2026/10/13/home-office-asylum-ai-flunks-one-in-five-accuracy-checks/5302649",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "a87acb806c50",
+    "slug": "sberdevices-ozining-frontend-agent-tizimini-yaratdi-a87acb",
+    "title": "SberDevices o'zining frontend agent tizimini yaratdi",
+    "summary": "SberDevices kompaniyasi tashqi yechimlardan foydalana olmagani sababli o'zining frontend agent tizimini yaratdi. Bu tizim agent sikli va deterministik ish jarayonini birlashtiradi.",
+    "tags": [
+      "agentlar",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 17,
+    "published": "2026-10-13T09:09:39.000Z",
+    "created": "2026-10-13T12:40:29.837Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/companies/sberdevices/articles/1091880",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "7bb16b2f5a5c",
+    "slug": "meta-muse-agenti-kattalar-suhbatlariga-ruxsat-beradi-7bb16b",
+    "title": "Meta Muse agenti kattalar suhbatlariga ruxsat beradi",
+    "summary": "Meta kompaniyasi o'zining Muse agenti foydalanuvchilarga xususiy VM orqali \"kattalar suhbatlarida ishtirok etishga\" ruxsat berishini tasdiqladi. Kompaniya \"qonuniy kattalar xatti-harakatlarini\" bloklamasligini bildirdi.",
+    "tags": [
+      "Meta",
+      "maxfiylik"
+    ],
+    "importance": 4,
+    "score": 15,
+    "published": "2026-10-13T10:25:01.000Z",
+    "created": "2026-10-13T12:40:29.838Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/261013/p12",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "4dc5ab98c5a3",
     "slug": "yevropada-data-markazlar-elektr-narxini-oshirishi-mumkin-4dc5ab",
     "title": "Yevropada data-markazlar elektr narxini oshirishi mumkin",
