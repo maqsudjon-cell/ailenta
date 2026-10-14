@@ -5,7 +5,7 @@
   <link>https://ailenta.uz/mavzu/agentlar/</link>
   <description>&quot;agentlar&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Wed, 14 Oct 2026 09:43:54 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 14 Oct 2026 10:12:06 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/agentlar/rss.xml" rel="self" type="application/rss+xml"/>
   <item>
     <title>AI agentlari kompyuterlarni boshqarishi mumkin</title>
@@ -16,6 +16,16 @@
     <category>xavfsizlik</category><category>agentlar</category>
     <media:content url="https://ailenta.uz/og/ai-agentlari-kompyuterlarni-boshqarishi-mumkin-98ef19.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/ai-agentlari-kompyuterlarni-boshqarishi-mumkin-98ef19.jpg"/>
+  </item>
+  <item>
+    <title>Claude Code bilan &quot;vibe-kodlash&quot; bo'yicha qo'llanma</title>
+    <link>https://ailenta.uz/x/claude-code-bilan-vibe-kodlash-boyicha-qollanma-4a1723/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/claude-code-bilan-vibe-kodlash-boyicha-qollanma-4a1723/</guid>
+    <pubDate>Wed, 14 Oct 2026 08:34:59 GMT</pubDate>
+    <description>Bir foydalanuvchi Claude Code yordamida to'qqiz oylik &quot;vibe-kodlash&quot; tajribasi va qo'llanmasini bo'lishdi. Unda spetsifikatsiya, kod yozish va boshqa agent orqali tekshirish kabi ish jarayoni tasvirlangan.</description>
+    <category>agentlar</category><category>ta'lim</category>
+    <media:content url="https://ailenta.uz/og/claude-code-bilan-vibe-kodlash-boyicha-qollanma-4a1723.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/claude-code-bilan-vibe-kodlash-boyicha-qollanma-4a1723.jpg"/>
   </item>
   <item>
     <title>EchoPolicy-0 MolmoSpaces reytingida birinchi bo'ldi</title>
@@ -296,16 +306,6 @@
     <category>agentlar</category><category>biznes</category>
     <media:content url="https://ailenta.uz/og/exante-kompaniyasi-ai-dasturchisini-qanday-yaratdi-f58611.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/exante-kompaniyasi-ai-dasturchisini-qanday-yaratdi-f58611.jpg"/>
-  </item>
-  <item>
-    <title>Sanoat sun'iy intellekti yangi bosqichga qadam qo'ymoqda</title>
-    <link>https://ailenta.uz/x/sanoat-suniy-intellekti-yangi-bosqichga-qadam-qoymoqda-e09a47/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/sanoat-suniy-intellekti-yangi-bosqichga-qadam-qoymoqda-e09a47/</guid>
-    <pubDate>Thu, 08 Oct 2026 08:17:32 GMT</pubDate>
-    <description>Sanoat sun'iy intellekti bazaviy modellar va agentlar yordamida murakkab vazifalarni avtomatlashtirish imkonini bermoqda. Raqamli tizimlardan farqli o'laroq, sanoat AI jismoniy tizimlar bilan bevosita o'zaro aloqada bo'ladi.</description>
-    <category>agentlar</category><category>robototexnika</category>
-    <media:content url="https://ailenta.uz/og/sanoat-suniy-intellekti-yangi-bosqichga-qadam-qoymoqda-e09a47.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/sanoat-suniy-intellekti-yangi-bosqichga-qadam-qoymoqda-e09a47.jpg"/>
   </item>
 </channel>
 </rss>

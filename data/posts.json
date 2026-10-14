@@ -1,5 +1,119 @@
 [
   {
+    "id": "f80d7048c2cd",
+    "slug": "erkaklar-ai-haqidagi-bilimlarini-soxtalashtirmoqda-f80d70",
+    "title": "Erkaklar AI haqidagi bilimlarini soxtalashtirmoqda",
+    "summary": "Yangi Harvard tadqiqotiga ko'ra, so'rovda qatnashgan erkaklarning yarmidan ko'pi mavjud bo'lmagan AI yetakchilarini taniganliklarini da'vo qilishgan. Bu AI sohasidagi bilimlar haqida noto'g'ri tasavvurlarni ko'rsatadi.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 29,
+    "published": "2026-10-14T09:30:00.000Z",
+    "created": "2026-10-14T10:01:49.039Z",
+    "coverage": 2,
+    "source": {
+      "name": "Wired",
+      "url": "https://wired.com/story/men-cant-stop-faking-how-much-they-know-about-ai",
+      "title": "Men Can’t Stop Faking How Much They Know About AI",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "Business Insider",
+        "url": "https://businessinsider.com/bezos-dimon-gates-musk-cuban-ai-working-days-jobs-unemployment-2026-10"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "21cbef8545f9",
+    "slug": "anthropic-ai-xavfsizlik-startapi-bilan-kelishdi-21cbef",
+    "title": "Anthropic AI xavfsizlik startapi bilan kelishdi",
+    "summary": "Anthropic kompaniyasi AI xavfsizligi bo'yicha startap bilan litsenziyalash va xodimlarni jalb qilish bo'yicha kelishuvga erishdi. Bu kelishuv kompaniyaning xavfsizlik yo'nalishidagi faoliyatini kuchaytiradi.",
+    "tags": [
+      "Anthropic",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 30,
+    "published": "2026-10-14T07:24:00.000Z",
+    "created": "2026-10-14T10:06:53.778Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Information",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNXc0NG5tdXZ1S0E5OV9CTHhSRzhfVVVrLThaUDJvaExBR1F1VldDWmhud1BPVDJmT1NYSVh0UE9iUXctbDRQbzBRUGFnSEplR3gxSnlMMmlEMFhLNzVObWZWM1l0V1RNZm9EY3dVd2lwN202bmttS25qUFZ6azFSYUg3VEFnN1dXU0JGTjlFaXphVGVsaXRGLXU4bEMyZGFYU2hVVXFCUQ",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "c786d7ca05d7",
+    "slug": "olimlar-ai-xavfsizligi-uchun-qatiy-nazoratni-talab-qilmoqda-c786d7",
+    "title": "Olimlar AI xavfsizligi uchun qat'iy nazoratni talab qilmoqda",
+    "summary": "Olimlar global kiberxavflarning oldini olish maqsadida sun'iy intellektga nisbatan qat'iyroq nazorat choralarini joriy etishga chaqirmoqda. Bu AI tizimlarining xavfsizligini ta'minlashga qaratilgan.",
+    "tags": [
+      "xavfsizlik",
+      "qonun"
+    ],
+    "importance": 3,
+    "score": 18.2,
+    "published": "2026-10-13T20:04:01.000Z",
+    "created": "2026-10-14T10:06:53.778Z",
+    "coverage": 1,
+    "source": {
+      "name": "Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNakNFeG1jVFlaX19fYjF3eXV4blNEY3pvVHNRcGc5TVpISW9EMjE1UXFqVncxMUNrZXFxREZDUGg5cmI4OHFSUDhqTTl6dlF0RXpwbENQU2E1NDFIVkZ2Y29USVppenBhYkw1QnZXbWIzWlpQMllWWXBnY3A4MDJtUDRvbHNRelJ3UWlYMklETTRYU2NROXU3ZDZTZWQ3NjNsWElZR2dDT2xTLS12SkFv0gG0AUFVX3lxTE5HdTlOS3l5V3BPYlROd1NtZFJrWlhJaXVMTlYwZzl2TU1PaXV1UHN5NWxnRDBSalBad3ZXOVBURzV1bkhNMmFfQ082WHlrcmJ5NGh2VHdRa3ZuRldLZmtrZ0ZSbHMyVENLTU4zODEycUUxaXdyd2FVUkxGTW9fc3hueC0tb3B3ekJRaE1LSHpLT1pGblJPZVhRZTFBcFl0WVlZbkpWSGJVWkRBa3NreDJXSWhTNg",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "d55596a85c04",
+    "slug": "ai-platformalari-uchun-xavfsizlik-tizimini-qurish-d55596",
+    "title": "AI platformalari uchun xavfsizlik tizimini qurish",
+    "summary": "Maqolada AI platformalari uchun xavfsizlik tizimini yaratish yondashuvi ko'rib chiqiladi. Unda shifrlash, agent tizimlari va muvofiqlik kabi zamonaviy muammolardan himoyalanish usullari muhokama qilingan.",
+    "tags": [
+      "xavfsizlik"
+    ],
+    "importance": 2,
+    "score": 11,
+    "published": "2026-10-14T08:48:58.000Z",
+    "created": "2026-10-14T10:06:53.778Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1094226",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "4a1723ee953e",
+    "slug": "claude-code-bilan-vibe-kodlash-boyicha-qollanma-4a1723",
+    "title": "Claude Code bilan \"vibe-kodlash\" bo'yicha qo'llanma",
+    "summary": "Bir foydalanuvchi Claude Code yordamida to'qqiz oylik \"vibe-kodlash\" tajribasi va qo'llanmasini bo'lishdi. Unda spetsifikatsiya, kod yozish va boshqa agent orqali tekshirish kabi ish jarayoni tasvirlangan.",
+    "tags": [
+      "agentlar",
+      "ta'lim"
+    ],
+    "importance": 2,
+    "score": 11,
+    "published": "2026-10-14T08:34:59.000Z",
+    "created": "2026-10-14T10:06:53.778Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1094214",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "f35ea7a2f7ed",
     "slug": "ai-infratuzilmasi-xarajatlari-daromaddan-oshib-ketadi-f35ea7",
     "title": "AI infratuzilmasi xarajatlari daromaddan oshib ketadi",
