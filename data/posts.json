@@ -1,5 +1,94 @@
 [
   {
+    "id": "6bfaaf873eeb",
+    "slug": "pulse-local-mac-uchun-ai-asosidagi-byudjet-ilovasi-6bfaaf",
+    "title": "Pulse Local: Mac uchun AI asosidagi byudjet ilovasi",
+    "summary": "Hacker News'da Pulse Local nomli Mac byudjet ilovasi taqdim etildi. Ushbu ilovaning AI modellari foydalanuvchi qurilmasida ishlaydi.",
+    "tags": [
+      "Apple",
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 17.2,
+    "published": "2026-10-13T23:13:23.000Z",
+    "created": "2026-10-14T02:09:37.845Z",
+    "coverage": 1,
+    "source": {
+      "name": "Hacker News",
+      "url": "https://pulseos.finance",
+      "title": "Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "4dc99249f8ee",
+    "slug": "albert-invent-kimyoviy-ai-modeli-uchun-55m-sarmoya-oldi-4dc992",
+    "title": "Albert Invent kimyoviy AI modeli uchun $55M sarmoya oldi",
+    "summary": "Albert Invent kimyoviy patentlar va 15 million molekula maʼlumotlari asosida oʻqitilgan AI modelini ishga tushirdi. Kompaniya B seriyali moliyalashtirish bosqichida $55 million sarmoya yigʻdi. Manbaga koʻra, uning bahosi $340 millionga yetgan.",
+    "tags": [
+      "biznes",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 18,
+    "published": "2026-10-14T00:05:01.000Z",
+    "created": "2026-10-14T02:09:38.241Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/261013/p48",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "45be00baf56c",
+    "slug": "claude-opus-5-5-yordamida-olik-jonlar-davomi-yaratildi-45be00",
+    "title": "Claude Opus 5.5 yordamida \"O'lik jonlar\" davomi yaratildi",
+    "summary": "\"Tovarishestvo Vinogradova\" va \"Knijniy.rf\" do'koni Claude Opus 5.5 AI modelidan foydalanib, Gogolning \"O'lik jonlar\" asarining ikkinchi jildini yaratdi. Loyiha \"Klavdiy\" deb nomlangan sun'iy intellekt yordamida amalga oshirildi.",
+    "tags": [
+      "tadqiqot",
+      "ochiq model"
+    ],
+    "importance": 2,
+    "score": 11,
+    "published": "2026-10-13T17:22:11.000Z",
+    "created": "2026-10-14T02:09:38.241Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1094020",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "97f8a97d19ad",
+    "slug": "anthropic-kelajakdagi-ai-qurtlari-uchun-omillarni-topdi-97f8a9",
+    "title": "Anthropic kelajakdagi AI qurtlari uchun omillarni topdi",
+    "summary": "Anthropic kompaniyasi kelajakdagi AI qurtlari (worms) uchun zarur bo'lgan omillarni aniqladi. Bu topilma AI tizimlarining kiberxavfsizligi bilan bog'liq xavotirlarni kuchaytiradi.",
+    "tags": [
+      "Anthropic",
+      "xavfsizlik"
+    ],
+    "importance": 4,
+    "score": 10,
+    "published": "2026-10-13T21:23:58.000Z",
+    "created": "2026-10-14T02:09:38.241Z",
+    "coverage": 1,
+    "source": {
+      "name": "Dark Reading",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQRG9fTjV5OXR5VEFUcmhNU3ZxMlp2ZmVReGJMVFc5MU1JTmNEaFZ0UEl5YnlaWnJFUlBqR1ZjcWlyQzRQNXNZREtULVVaelFjMGYwSkozNzVUY0tCaURVRnc4aGNBX2NidWxTRi1vUld2djZFSTlyOVBiMnByTFBFaA",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "dec59fa05962",
     "slug": "disney-character-ai-startapidan-aktivlarni-soramoqda-dec59f",
     "title": "Disney Character.AI startapidan aktivlarni so'ramoqda",
