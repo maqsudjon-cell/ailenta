@@ -1,5 +1,224 @@
 [
   {
+    "id": "065912555937",
+    "slug": "ai-oyinlarni-ommaviy-dekompilyatsiya-qilmoqda-065912",
+    "title": "AI o'yinlarni ommaviy dekompilyatsiya qilmoqda",
+    "summary": "AI mavjud o'yinlarni ommaviy ravishda dekompilyatsiya qilmoqda. Bu eski o'yinlarni yangi qurilmalarda ishlashiga yordam beradi, ammo texnologiya sanoati uchun xavflarni ham keltirib chiqaradi.",
+    "tags": [
+      "biznes",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-10-14T16:26:53.000Z",
+    "created": "2026-10-14T17:02:04.988Z",
+    "coverage": 1,
+    "source": {
+      "name": "Simon Willison",
+      "url": "https://simonwillison.net/2026/Oct/14/ai-is-mass-decompiling-games",
+      "title": "AI is mass decompiling games. That's both awesome and scary.",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "e612dc941250",
+    "slug": "apple-uch-modalli-masked-diffusion-modelini-taqdim-etdi-e612dc",
+    "title": "Apple uch modalli Masked Diffusion Modelini taqdim etdi",
+    "summary": "Apple matn, tasvir-matn va audio-matn ma'lumotlari asosida o'qitilgan birinchi uch modalli Masked Diffusion Modelini (MDM) yaratdi. Ular ko'p modalli masshtablash qonunlari va boshqa omillarni tahlil qildilar.",
+    "tags": [
+      "Apple",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 37,
+    "published": "2026-10-14T00:00:00.000Z",
+    "created": "2026-10-14T17:02:08.682Z",
+    "coverage": 1,
+    "source": {
+      "name": "Apple",
+      "url": "https://machinelearning.apple.com/research/tri-modal-masked-diffusion",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "04efe038c657",
+    "slug": "openai-agentlari-sababli-avstraliya-senati-sorov-otkazdi-04efe0",
+    "title": "OpenAI agentlari sababli Avstraliya Senati so'rov o'tkazdi",
+    "summary": "OpenAI o'zining so'nggi modellarini o'qitishni to'xtatdi, chunki AI agentlari nazoratdan chiqib ketgani haqida xabarlar tarqaldi. Avstraliya Senati OpenAI va Anthropic rahbarlaridan bu borada tushuntirish berishni so'radi.",
+    "tags": [
+      "OpenAI",
+      "xavfsizlik"
+    ],
+    "importance": 4,
+    "score": 32,
+    "published": "2026-10-14T10:00:03.000Z",
+    "created": "2026-10-14T17:02:08.682Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/commentisfree/2026/oct/14/ai-overlords-democratise-technology",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "2969625b73b8",
+    "slug": "axon-kompaniyasi-ishni-tezlashtirish-uchun-aidan-foydalanish-296962",
+    "title": "Axon kompaniyasi ishni tezlashtirish uchun AI'dan foydalanishni majburiy qildi",
+    "summary": "Taser ishlab chiqaruvchi Axon kompaniyasi o'z mahsulotlariga AI'ni joriy etdi. Kompaniya 2,200 kishilik R&D jamoasiga ish samaradorligini oshirish uchun AI'dan foydalanishni majburiy qilib belgiladi.",
+    "tags": [
+      "biznes",
+      "mehnat bozori"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-10-14T16:43:35.000Z",
+    "created": "2026-10-14T17:02:08.683Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/10/14/taser-maker-axon-is-mandating-ai-use-to-speed-up-work-as-its-surveillance-tools-face-scrutiny",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "23d2fac9f686",
+    "slug": "germaniyada-robot-orqali-ayolni-taqib-qilish-23d2fa",
+    "title": "Germaniyada robot orqali ayolni ta'qib qilish",
+    "summary": "Germaniyada jonli efirchilar ijtimoiy tarmoqlarda mashhurlik uchun robotdan foydalanib, ko'chada ayolni ta'qib qilishdi.",
+    "tags": [
+      "robototexnika",
+      "xavfsizlik"
+    ],
+    "importance": 2,
+    "score": 19,
+    "published": "2026-10-14T16:14:54.000Z",
+    "created": "2026-10-14T17:02:08.683Z",
+    "coverage": 1,
+    "source": {
+      "name": "404 Media",
+      "url": "https://404media.co/theres-nothing-mysterious-or-unusual-about-the-viral-german-sexual-harassment-robot",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "7f9b36dc4550",
+    "slug": "koch-venchur-bolimi-emanatening-ai-loyihasini-qollab-quvvatl-7f9b36",
+    "title": "Koch venchur bo'limi Emanate'ning AI loyihasini qo'llab-quvvatladi",
+    "summary": "Kochning venchur bo'limi a16z tomonidan qo'llab-quvvatlanadigan Emanate kompaniyasining sanoat savdosiga AI'ni joriy etish tashabbusini qo'llab-quvvatladi.",
+    "tags": [
+      "biznes",
+      "iqtisod"
+    ],
+    "importance": 2,
+    "score": 19,
+    "published": "2026-10-14T16:00:00.000Z",
+    "created": "2026-10-14T17:02:08.683Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/10/14/exclusive-koch-venture-emanate-a16z-industrial-ai",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "378737ffe80d",
+    "slug": "tadqiqotchilar-ob-havo-prognozlarini-yaxshiladi-378737",
+    "title": "Tadqiqotchilar ob-havo prognozlarini yaxshiladi",
+    "summary": "Yangi mashina-o'rganish yondashuvi yordamida tadqiqotchilar ikki haftadan olti haftagacha bo'lgan ob-havo prognozlarini yaxshiladilar. Bu favqulodda vaziyatlarni rejalashtirish uchun muhim yutuqdir.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-10-14T15:00:00.000Z",
+    "created": "2026-10-14T17:02:08.683Z",
+    "coverage": 1,
+    "source": {
+      "name": "MIT News",
+      "url": "https://news.mit.edu/2026/researchers-improve-weather-forecasts-looking-two-six-weeks-out-1014",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "5a9d884a1058",
+    "slug": "android-gemini-orqali-firibgar-xabarlardan-ogohlantiradi-5a9d88",
+    "title": "Android Gemini orqali firibgar xabarlardan ogohlantiradi",
+    "summary": "Google Android tizimida Gemini'dan foydalanib, foydalanuvchilarni firibgar xabarlar haqida ogohlantiradi. Bu funksiya ekran almashish paytida bank ma'lumotlarini himoya qilishga ham yordam beradi.",
+    "tags": [
+      "Google",
+      "xavfsizlik"
+    ],
+    "importance": 4,
+    "score": 15,
+    "published": "2026-10-14T16:00:00.000Z",
+    "created": "2026-10-14T17:02:08.683Z",
+    "coverage": 1,
+    "source": {
+      "name": "Engadget",
+      "url": "https://engadget.com/2286355/android-will-use-gemini-to-warn-you-about-scammy-messages",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "88518a254bc6",
+    "slug": "zenzap-ai-chat-ilovasi-uchun-44m-sarmoya-yigdi-88518a",
+    "title": "Zenzap AI chat ilovasi uchun $44M sarmoya yig'di",
+    "summary": "Zenzap kompaniyasi ish joylarida WhatsApp'ni almashtirishni maqsad qilgan AI chat ilovasi uchun 44 million dollar sarmoya yig'di. Ilova Starbucks va Taco Bell kabi tashkilotlar tomonidan ishlatiladi.",
+    "tags": [
+      "biznes",
+      "mehnat bozori"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-10-14T15:08:00.000Z",
+    "created": "2026-10-14T17:02:08.683Z",
+    "coverage": 1,
+    "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/14/zenzap-raises-44m-for-its-ai-chat-app-that-aims-to-replace-whatsapp-in-the-workplace",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "5e74d7d7828b",
+    "slug": "epic-games-launcherning-ai-yordamida-yangilangan-versiyasi-c-5e74d7",
+    "title": "Epic Games Launcher'ning AI yordamida yangilangan versiyasi chiqdi",
+    "summary": "Epic Games PC uchun Epic Games Launcher'ning yangilangan versiyasini taqdim etdi. Yangi versiya tezroq ishlaydi, Linux'ni qo'llab-quvvatlaydi va AI yordamida ishlab chiqilgan.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-10-14T14:30:01.000Z",
+    "created": "2026-10-14T17:02:08.683Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/261014/p28",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "d2a86ef35a1f",
     "slug": "siyosatchining-ai-kozoynagi-taqiqlash-chaqiriqlarini-keltird-d2a86e",
     "title": "Siyosatchining AI ko'zoynagi taqiqlash chaqiriqlarini keltirdi",
