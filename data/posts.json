@@ -1,5 +1,202 @@
 [
   {
+    "id": "80cdd0791771",
+    "slug": "amsterdam-politsiyasi-a-i-serverini-musodara-qildi-80cdd0",
+    "title": "Amsterdam politsiyasi A/I serverini musodara qildi",
+    "summary": "Amsterdam politsiyasi AQSH so'rovi bilan chap qanot ISP A/I kompaniyasining serverini musodara qildi.",
+    "tags": [
+      "qonun",
+      "siyosat"
+    ],
+    "importance": 2,
+    "score": 20.8,
+    "published": "2026-10-14T16:16:25.000Z",
+    "created": "2026-10-14T18:47:07.615Z",
+    "coverage": 1,
+    "source": {
+      "name": "Hacker News",
+      "url": "https://nrc.nl/nieuws/2026/10/14/politie-amsterdam-neemt-op-amerikaans-verzoek-server-in-beslag-van-italiaanse-internetdienstverlener-a-i-a4938960",
+      "title": "Amsterdam police confiscates server left-wing ISP A/I at American request",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "24cc989c02db",
+    "slug": "sentinelone-zararli-dasturlar-tahlilini-tezlashtirdi-24cc98",
+    "title": "SentinelOne zararli dasturlar tahlilini tezlashtirdi",
+    "summary": "SentinelOne OpenAI Daybreak yordamida zararli dasturlarni tahlil qilish vaqtini haftalardan soatlarga qisqartirdi. Bu ko'proq tahdidlarni tekshirish imkoniyatini yaratdi.",
+    "tags": [
+      "OpenAI",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 33,
+    "published": "2026-10-14T12:00:00.000Z",
+    "created": "2026-10-14T18:47:15.051Z",
+    "coverage": 1,
+    "source": {
+      "name": "OpenAI",
+      "url": "https://openai.com/index/sentinelone",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "d00610b3edb3",
+    "slug": "zimbabvelik-yozuvchi-ai-ishlatganini-rad-etdi-d00610",
+    "title": "Zimbabvelik yozuvchi AI ishlatganini rad etdi",
+    "summary": "Zimbabvelik yozuvchi Simbarashe Kundizeza mukofotga sazovor bo'lgan hikoyasini AI yordamida yozganini inkor etdi. The Atlantic nashri uning \"The Blue Fighter\" asari deyarli to'liq AI tomonidan yaratilganini da'vo qilgan.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 23,
+    "published": "2026-10-14T18:34:33.000Z",
+    "created": "2026-10-14T18:47:15.051Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/technology/2026/oct/14/zimbabwean-author-simbarashe-kundizeza-denies-ai-story",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "4edb4571d675",
+    "slug": "ai-fan-sohalarida-nazariy-muammolarni-hal-qilmoqda-4edb45",
+    "title": "AI fan sohalarida nazariy muammolarni hal qilmoqda",
+    "summary": "MIT tadqiqotchilari AI iqtisodiyot, yuqori energiya fizikasi va boshqa sohalardagi nazariy muammolarni hal qilishning asosiy usuliga aylanishi mumkinligini ta'kidladi.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 4,
+    "score": 23,
+    "published": "2026-10-14T18:15:00.000Z",
+    "created": "2026-10-14T18:47:15.051Z",
+    "coverage": 1,
+    "source": {
+      "name": "Wired",
+      "url": "https://wired.com/story/ai-is-coming-for-science-next-watch-out",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "717479e17888",
+    "slug": "asml-buyurtmalari-ai-xarajatlari-xavotirini-kamaytirdi-717479",
+    "title": "ASML buyurtmalari AI xarajatlari xavotirini kamaytirdi",
+    "summary": "ASML kompaniyasining kuchli buyurtmalari AI xarajatlari o'sishi sekinlashishi mumkinligi haqidagi xavotirlarni yumshatdi.",
+    "tags": [
+      "biznes",
+      "iqtisod"
+    ],
+    "importance": 3,
+    "score": 21.1,
+    "published": "2026-10-14T14:38:55.000Z",
+    "created": "2026-10-14T18:47:15.051Z",
+    "coverage": 1,
+    "source": {
+      "name": "Hacker News",
+      "url": "https://reuters.com/business/asml-forecasts-q4-sales-above-expectations-ai-chip-demand-2026-10-14",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "e7ab23fe00f7",
+    "slug": "sunmmio-ai-xulosa-chiqarish-chiplari-uchun-sarmoya-jalb-qild-e7ab23",
+    "title": "SUNMMIO AI xulosa chiqarish chiplari uchun sarmoya jalb qildi",
+    "summary": "Pekinlik SUNMMIO startapi Pre-A2 va A seriyali moliyalashtirish bosqichlarini yakunladi. Kompaniya yirik modellardan xulosa chiqarish uchun 3D-stacked chiplar ishlab chiqadi va bir yilda qariyb 2 milliard RMB yig'di.",
+    "tags": [
+      "chiplar",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 21,
+    "published": "2026-10-14T07:18:53.000Z",
+    "created": "2026-10-14T18:47:15.051Z",
+    "coverage": 1,
+    "source": {
+      "name": "TechNode",
+      "url": "https://technode.com/2026/10/14/ai-inference-chip-startup-sunmmio-completes-pre-a2-and-series-a-funding",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "4823454d4ff0",
+    "slug": "ai-modelining-harorati-turli-syujetlar-yaratadi-482345",
+    "title": "AI modelining \"harorati\" turli syujetlar yaratadi",
+    "summary": "AI yordamida yozuvchilarga modelning \"haroratini\" oshirish tavsiya etiladi. Tadqiqot shuni ko'rsatdiki, hatto 0.2 darajada ham yangi syujetlar paydo bo'ladi, 1.2 darajada esa kod parchalari aralashib ketadi.",
+    "tags": [
+      "tadqiqot",
+      "ochiq model"
+    ],
+    "importance": 2,
+    "score": 11,
+    "published": "2026-10-14T17:46:50.000Z",
+    "created": "2026-10-14T18:47:15.051Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/companies/bothub/articles/1094492",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "b35931e59981",
+    "slug": "ai-muhandislarni-yomonlashtirmoqdami-b35931",
+    "title": "AI muhandislarni yomonlashtirmoqdami",
+    "summary": "AI jamoa tushunishidan oldin notanish texnologiyalarni ishlab chiqarishga qo'shish imkonini beradi. Bu \"texnologik hayvonot bog'i\" va malaka qarzdorligini keltirib chiqaradi.",
+    "tags": [
+      "mehnat bozori",
+      "agentlar"
+    ],
+    "importance": 3,
+    "score": 11,
+    "published": "2026-10-14T15:02:37.000Z",
+    "created": "2026-10-14T18:47:15.051Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1094430",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "1d15ee92ffb3",
+    "slug": "ai-yaratgan-matnlar-oqishga-yaroqsiz-1d15ee",
+    "title": "AI yaratgan matnlar o'qishga yaroqsiz",
+    "summary": "Kamdan-kam original yozgan odamlar AI yordamida batafsil loyihalar va hujjatlar yaratmoqda. Biroq, bu LLM tomonidan yaratilgan matnlar ko'pincha o'qishga yaroqsiz bo'lib chiqmoqda.",
+    "tags": [
+      "tadqiqot",
+      "mehnat bozori"
+    ],
+    "importance": 3,
+    "score": 11,
+    "published": "2026-10-14T13:01:30.000Z",
+    "created": "2026-10-14T18:47:15.051Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/companies/ruvds/articles/1093900",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "1c2fc545e295",
     "slug": "ai-biologik-qurol-rivojlanishida-xavfni-oshirishi-mumkin-1c2fc5",
     "title": "AI biologik qurol rivojlanishida xavfni oshirishi mumkin",
