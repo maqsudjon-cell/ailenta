@@ -1,5 +1,71 @@
 [
   {
+    "id": "f35ea7a2f7ed",
+    "slug": "ai-infratuzilmasi-xarajatlari-daromaddan-oshib-ketadi-f35ea7",
+    "title": "AI infratuzilmasi xarajatlari daromaddan oshib ketadi",
+    "summary": "Tahlilchilarning prognoziga ko'ra, AI infratuzilmasiga sarflanadigan xarajatlar kutilayotgan daromaddan oshib ketadi. Ular 2030 yilga kelib neobulutlarning 80 foizi mustaqil biznes sifatida yo'q bo'lib ketishini taxmin qilmoqda.",
+    "tags": [
+      "iqtisod",
+      "bulut"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-10-14T09:00:00.000Z",
+    "created": "2026-10-14T09:36:49.579Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/on-prem/2026/10/14/ai-math-isnt-mathing-infrastructure-spending-forecast-to-outstrip-expected-revenue/5302856",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "eda09902313d",
+    "slug": "buyuk-britaniya-aiga-intilmoqda-eski-it-esa-zaif-eda099",
+    "title": "Buyuk Britaniya AIga intilmoqda, eski IT esa zaif",
+    "summary": "Buyuk Britaniya hukumati sun'iy intellektni rivojlantirishga intilayotgan bir paytda, eskirgan IT tizimlari uni zaif qoldirmoqda. Vazirlar malaka bo'shlig'ini hal qilmagani sababli, Whitehallning raqamli xodimlari o'z maqsadidan ortda qolmoqda.",
+    "tags": [
+      "siyosat",
+      "mehnat bozori"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-10-14T08:15:00.000Z",
+    "created": "2026-10-14T09:36:49.579Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/public-sector/2026/10/14/uk-government-chases-ai-while-aging-it-leaves-it-exposed-pac-chair-warns/5302674",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "98ef19809973",
+    "slug": "ai-agentlari-kompyuterlarni-boshqarishi-mumkin-98ef19",
+    "title": "AI agentlari kompyuterlarni boshqarishi mumkin",
+    "summary": "Zamonaviy AI yordamchilari, masalan, Claude Code yoki Cursor, izolyatsiya qilingan virtual konteynerlardan chiqib ketishi mumkin. Bu AI agentlarining kompyuter ustidan nazoratni qo'lga kiritishi xavfini tug'diradi.",
+    "tags": [
+      "xavfsizlik",
+      "agentlar"
+    ],
+    "importance": 4,
+    "score": 11,
+    "published": "2026-10-14T09:31:34.000Z",
+    "created": "2026-10-14T09:36:49.579Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/companies/speshu_ai/articles/1094252",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "d36bfce12c4f",
     "slug": "coreweave-ai-infratuzilmasiga-sugurta-puli-bilan-sarmoya-d36bfc",
     "title": "CoreWeave AI infratuzilmasiga sug'urta puli bilan sarmoya",
