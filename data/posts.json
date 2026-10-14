@@ -1,5 +1,113 @@
 [
   {
+    "id": "457f3fe4ae2f",
+    "slug": "ai-saytlarga-havola-berishi-uchun-matnni-qanday-yozish-kerak-457f3f",
+    "title": "AI saytlarga havola berishi uchun matnni qanday yozish kerak",
+    "summary": "Tadqiqotga ko'ra, AI modellarining (ChatGPT, Perplexity) saytlarga havola berishi uchun matnni optimallashtirish bo'yicha maslahat berildi. AI ko'pincha 30 so'zdan uzunroq xatboshilarni oladi.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 20,
+    "published": "2026-10-14T17:28:27.000Z",
+    "created": "2026-10-14T17:38:47.910Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1094484",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "9798e9ecee12",
+    "slug": "ai-ilovalar-yirik-dasturlarga-bepul-muqobil-9798e9",
+    "title": "AI ilovalar yirik dasturlarga bepul muqobil",
+    "summary": "AI ilovalari yirik texnologiya kompaniyalarining dasturiy ta'minotiga bepul muqobillarni taklif qilmoqda.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 19,
+    "published": "2026-10-14T13:41:37.000Z",
+    "created": "2026-10-14T17:38:47.910Z",
+    "coverage": 1,
+    "source": {
+      "name": "Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMktDT3JGeEJENkZsa0hlU1pCS1kxRXUtanB3Nm0zZlpLSXB6TjVpMnp2a0kwckh2UXhrd0FXa2QwSEVBWWtIWHpDRFZVZWNkOGFMaXRsaUlxZ2xObmZabm13MWt5eUU2RURpN0QyR2lVcnBUVWdMclNmMjJLbGdzMFRIMFNTY2lKWVI1cWFjQk1yUkYwVkZKTzBxbUNLWkhRQXA2SE5fTl_SAa4BQVVfeXFMTjlRdFEwZ3BwNXFtWnVqa2IxTmV6bzF1bEozWS1oV1ZuS2FjbUpRNlF2MHZUTWxKYW12cndqd2Y5dUJzX1lDNk1WMHpDVmt2MDRRVWh0Wl9SdHZKT3dCZXVmNWZfTGthT3V1OEIyc0kwTmlPTWhPUFYtalJMR1ZFejZwR0NWWnJqbVVKQ0M4Q0xfWVB3STFSSnF6bGJNYTdUZ0tZbHpxLU5WcERpWUZ3",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "094e64325b5e",
+    "slug": "square-buyurtmalar-uchun-ai-bilan-ishlaydigan-kioskni-ishga--094e64",
+    "title": "Square buyurtmalar uchun AI bilan ishlaydigan kioskni ishga tushirdi",
+    "summary": "Square kompaniyasi buyurtmalar uchun mo'ljallangan yangi Square Kiosk qurilmasini taqdim etdi. Bu kiosk sensorli ekran va AI bilan suhbatlashish imkoniyatiga ega. U menyuni tushunib, real vaqtda javob beradi.",
+    "tags": [
+      "biznes",
+      "agentlar"
+    ],
+    "importance": 3,
+    "score": 18,
+    "published": "2026-10-14T16:00:00.000Z",
+    "created": "2026-10-14T17:38:47.910Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Verge",
+      "url": "https://theverge.com/tech/1009086/square-kiosk",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "ea8ee2c59aeb",
+    "slug": "ai-doppelganger-foydalanuvchiga-nima-yeyishni-maslahat-berad-ea8ee2",
+    "title": "AI doppelganger foydalanuvchiga nima yeyishni maslahat beradi",
+    "summary": "Verge nashri sharhlovchisi Victoria Song 100 kundan ortiq vaqt davomida AI doppelgangeridan ovqatlanish bo'yicha maslahatlar olgani haqida yozdi.",
+    "tags": [
+      "tadqiqot",
+      "agentlar"
+    ],
+    "importance": 1,
+    "score": 15,
+    "published": "2026-10-14T17:00:00.000Z",
+    "created": "2026-10-14T17:38:47.910Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Verge",
+      "url": "https://theverge.com/column/1011264/digital-twin-metabolism-ai-twin-health",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "cf4d712efeb3",
+    "slug": "ai-moliyani-reaktivdan-proaktivga-ozgartirmoqda-cf4d71",
+    "title": "AI moliyani reaktivdan proaktivga o'zgartirmoqda",
+    "summary": "Sun'iy intellekt moliya sohasini reaktiv yondashuvdan proaktiv yondashuvga o'zgartirmoqda.",
+    "tags": [
+      "biznes",
+      "iqtisod"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-10-14T11:05:46.000Z",
+    "created": "2026-10-14T17:38:47.910Z",
+    "coverage": 1,
+    "source": {
+      "name": "Sifted",
+      "url": "https://sifted.eu/articles/ai-finance-reactive-to-proactive-brnd",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "065912555937",
     "slug": "ai-oyinlarni-ommaviy-dekompilyatsiya-qilmoqda-065912",
     "title": "AI o'yinlarni ommaviy dekompilyatsiya qilmoqda",
