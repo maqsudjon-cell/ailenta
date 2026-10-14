@@ -1,5 +1,186 @@
 [
   {
+    "id": "d0bcab019ed5",
+    "slug": "ai-modellarini-terroristik-faoliyatga-moslashtirish-oson-d0bcab",
+    "title": "AI modellarini terroristik faoliyatga moslashtirish oson",
+    "summary": "Tadqiqotga ko'ra, AI modellarini terroristik va ekstremistik faoliyatga yordam berish uchun osonlikcha o'zgartirish mumkin. Cheklovlari olib tashlangan chatbot portlovchi qurilma yasash bo'yicha batafsil ko'rsatmalar bergan.",
+    "tags": [
+      "xavfsizlik",
+      "tadqiqot"
+    ],
+    "importance": 4,
+    "score": 31.8,
+    "published": "2026-10-14T09:00:00.000Z",
+    "created": "2026-10-14T21:36:51.227Z",
+    "coverage": 2,
+    "source": {
+      "name": "Wired",
+      "url": "https://wired.com/story/ai-models-can-be-easily-modified-to-assist-terrorist-and-extremist-activity",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "WIRED",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYjRScVFKdlFPRWxtWklvYVd4dW1TTVNfM3VyOEpVS0dlOGxqRkY1WXlRcXRFTnN6ZjlDbnhYSnUxWmlhNHIzUUtldGlueEhiS2FQM3A5VGdkbkhNSnp4RFo0RmVRVWNrbkVJOGlkejV4SG15azlLSExCTS15MXVoT2NmRkh0QlpQWGdOUlFFTkU2TWg1RjdGMWFjS0FRSXNuMFpDNTBRaw"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "f6cba501345f",
+    "slug": "banklar-ai-malumot-markazlari-qarzini-sotishga-urinmoqda-f6cba5",
+    "title": "Banklar AI ma'lumot markazlari qarzini sotishga urinmoqda",
+    "summary": "Banklar yaqinda kafolatlagan AI ma'lumot markazlari qarzini sotishga harakat qilmoqda. Bu AI infratuzilmasiga kiritilgan sarmoyalar bilan bog'liq moliyaviy harakat.",
+    "tags": [
+      "biznes",
+      "iqtisod"
+    ],
+    "importance": 3,
+    "score": 25.9,
+    "published": "2026-10-14T18:32:52.000Z",
+    "created": "2026-10-14T21:36:51.228Z",
+    "coverage": 1,
+    "source": {
+      "name": "Hacker News",
+      "url": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "7aff82cf50e7",
+    "slug": "ai-buzish-xabarlariga-nazoratdagi-kamchiliklar-sabab-7aff82",
+    "title": "AI buzish xabarlariga nazoratdagi kamchiliklar sabab",
+    "summary": "Mutaxassislarning fikricha, AI buzish haqidagi xabarlarga cheklash va monitoringdagi kamchiliklar sabab bo'lgan. Bu AI tizimlarining xavfsizligini ta'minlash muhimligini ko'rsatadi.",
+    "tags": [
+      "xavfsizlik",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 23,
+    "published": "2026-10-14T17:45:23.000Z",
+    "created": "2026-10-14T21:36:51.228Z",
+    "coverage": 1,
+    "source": {
+      "name": "Hacker News",
+      "url": "https://csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "1b6f90b84b41",
+    "slug": "citi-bosh-direktori-ai-kelajakni-shakllantiradi-1b6f90",
+    "title": "Citi bosh direktori: AI kelajakni shakllantiradi",
+    "summary": "Citi bosh direktori Jeyn Freyzer kompaniyaning qayta tiklanishida og'ir ishlar tugaganini aytdi. Uning fikricha, sun'iy intellekt kelajakdagi rivojlanishni shakllantiradi.",
+    "tags": [
+      "biznes",
+      "iqtisod"
+    ],
+    "importance": 2,
+    "score": 19,
+    "published": "2026-10-14T20:21:55.000Z",
+    "created": "2026-10-14T21:36:51.228Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/10/14/citi-ceo-jane-fraser-on-the-next-phase-of-her-turnaround-to-be-the-best-citi-has-to-beat-the-best",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "29ad24242252",
+    "slug": "linux-kernel-dasturchilari-ai-vositalari-ishlatilganini-tan--29ad24",
+    "title": "Linux kernel dasturchilari AI vositalari ishlatilganini tan oldi",
+    "summary": "Linux kernel dasturchilari AI vositalaridan foydalanganliklarini majburiy ravishda tan oldilar. Linus Torvaldsning ta'kidlashicha, dasturchilar qanday vositalardan foydalanishidan qat'i nazar, o'z kodlarini tushunishlari shart.",
+    "tags": [
+      "mehnat bozori",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-10-14T20:16:31.000Z",
+    "created": "2026-10-14T21:36:51.228Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/ai-and-ml/2026/10/14/linux-kernel-devs-drop-obligatory-confession-of-ai-tool-usage/5303140",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "2dc3c67d4a77",
+    "slug": "bank-of-america-anthropic-mythos-tufayli-1000-kishini-yollad-2dc3c6",
+    "title": "Bank of America Anthropic Mythos tufayli 1000 kishini yolladi",
+    "summary": "Bank of America Anthropic'ning Mythos modeli tomonidan aniqlangan dasturiy ta'minot kamchiliklarini tuzatish uchun 1000 nafar pudratchini yolladi. Bu AIga qarshi himoyalanish xarajatlariga noyob nazar tashlash imkonini berdi.",
+    "tags": [
+      "Bank of America",
+      "Anthropic"
+    ],
+    "importance": 4,
+    "score": 19,
+    "published": "2026-10-14T20:06:28.000Z",
+    "created": "2026-10-14T21:36:51.228Z",
+    "coverage": 1,
+    "source": {
+      "name": "CNBC",
+      "url": "https://cnbc.com/2026/10/14/anthropic-mythos-bank-of-america-hiring-cost.html",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "021013f45386",
+    "slug": "character-ai-bankrotligi-foydalanuvchi-malumotlari-taqdiri-021013",
+    "title": "Character.AI bankrotligi: foydalanuvchi ma'lumotlari taqdiri",
+    "summary": "Character.AI bankrot bo'lganligi sababli, Nyu-York Bosh prokurori foydalanuvchi ma'lumotlarini himoya qilishni talab qilmoqda. 40 ta shtat prokurorlari kompaniyaning bankrotlik ishi bo'yicha o'z qiziqishlarini bildirishdi.",
+    "tags": [
+      "Character.AI",
+      "maxfiylik"
+    ],
+    "importance": 4,
+    "score": 15,
+    "published": "2026-10-14T18:47:54.000Z",
+    "created": "2026-10-14T21:36:51.228Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Verge",
+      "url": "https://theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "1ece708dc9a0",
+    "slug": "lg-cns-anthropicning-koreyadagi-hamkori-boldi-1ece70",
+    "title": "LG CNS Anthropic'ning Koreyadagi hamkori bo'ldi",
+    "summary": "LG CNS Anthropic kompaniyasining Koreyadagi afzal ko'rilgan hamkori etib tayinlandi. Bu hamkorlik Yaponiyaning KDDI kompaniyasi bilan aloqalarni ham mustahkamlaydi.",
+    "tags": [
+      "LG CNS",
+      "Anthropic"
+    ],
+    "importance": 3,
+    "score": 10.9,
+    "published": "2026-10-14T09:15:00.000Z",
+    "created": "2026-10-14T21:36:51.228Z",
+    "coverage": 1,
+    "source": {
+      "name": "KED Global",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1UQmtrSlgxcnZwc0psUXBYWEhxazRpOXdnN2l6cnlWem5Md3NaM1VWRG9RYk5DSTBKQ2x6V2pPal9nOE44cWVLY0p4RmM0UkpTc19peFlVd1Y3dHpjdU45SWZHYlcwWE5mZEs5VVZaVFlELUlTaXlKcWNydUV4V1k",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "80cdd0791771",
     "slug": "amsterdam-politsiyasi-a-i-serverini-musodara-qildi-80cdd0",
     "title": "Amsterdam politsiyasi A/I serverini musodara qildi",
