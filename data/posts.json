@@ -1,5 +1,113 @@
 [
   {
+    "id": "1c2fc545e295",
+    "slug": "ai-biologik-qurol-rivojlanishida-xavfni-oshirishi-mumkin-1c2fc5",
+    "title": "AI biologik qurol rivojlanishida xavfni oshirishi mumkin",
+    "summary": "Mutaxassislar va Buyuk Britaniya razvedka xizmati MI5 rahbari AI biologik qurollarni yaratishda xavfni o'zgartirishi mumkinligidan ogohlantirdi. Texnologiya terrorchilar va davlatlarga yordam berishi mumkin, ammo jiddiy to'siqlar saqlanib qolmoqda.",
+    "tags": [
+      "xavfsizlik",
+      "siyosat"
+    ],
+    "importance": 4,
+    "score": 23,
+    "published": "2026-10-14T17:34:14.000Z",
+    "created": "2026-10-14T18:02:06.623Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/technology/2026/oct/14/could-ai-change-the-stakes-in-the-development-of-bioweapons",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "fb1e703f3f58",
+    "slug": "ai-davri-biznesni-qayta-belgilaydi-fb1e70",
+    "title": "AI davri biznesni qayta belgilaydi",
+    "summary": "Reflection AI hammuassisi Ioannis Antonoglouning ta'kidlashicha, AI davrida kompaniyalar o'z ish usullarini qayta ko'rib chiqishlari kerak. Biznesni o'lchash va amalga oshirishning yangi yo'llarini topish zarur.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 19,
+    "published": "2026-10-14T17:49:45.000Z",
+    "created": "2026-10-14T18:02:06.623Z",
+    "coverage": 1,
+    "source": {
+      "name": "Semafor",
+      "url": "https://semafor.com/article/10/14/2026/the-ai-era-will-force-us-to-redefine-what-businesses-actually-do",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "1e083927c42f",
+    "slug": "youtube-music-ai-yaratgan-kontent-uchun-yorliq-qoshdi-1e0839",
+    "title": "YouTube Music AI yaratgan kontent uchun yorliq qo'shdi",
+    "summary": "YouTube Music platformasi sun'iy intellekt tomonidan yaratilgan kontent uchun yangi yorliqlarni joriy qildi. Bu foydalanuvchilarga bunday materiallarni aniqlashga yordam beradi.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-10-14T17:01:12.000Z",
+    "created": "2026-10-14T18:02:06.623Z",
+    "coverage": 1,
+    "source": {
+      "name": "Engadget",
+      "url": "https://engadget.com/2286764/youtube-music-adds-new-labels-for-ai-generated-content",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "9931ca009c40",
+    "slug": "scimplify-muhim-materiallar-uchun-aiga-25-mln-dollar-yigdi-9931ca",
+    "title": "Scimplify muhim materiallar uchun AI'ga 25 mln dollar yig'di",
+    "summary": "Scimplify startapi Xitoyning muhim materiallar bozoridagi ustunligiga qarshi kurashish uchun 25 million dollar sarmoya jalb qildi. Kompaniya AI yordamida bu sohada faoliyat yuritadi va yillik daromadi 200 million dollarga yetdi.",
+    "tags": [
+      "biznes",
+      "iqtisod"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-10-14T11:00:00.000Z",
+    "created": "2026-10-14T18:02:06.623Z",
+    "coverage": 1,
+    "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "14cee17a15e6",
+    "slug": "cerebras-rahbari-shaxsiy-ai-yordamchilari-bashorati-14cee1",
+    "title": "Cerebras rahbari shaxsiy AI yordamchilari bashorati",
+    "summary": "Cerebras bosh direktori Endryu Feldman har bir uyda shaxsiy AI yordamchilari bo'lishini bashorat qildi. Ular maishiy texnika kabi keng tarqalib, qisman mahalliy qurilmalarda, qisman bulutda ishlaydi.",
+    "tags": [
+      "agentlar",
+      "bulut"
+    ],
+    "importance": 2,
+    "score": 12.2,
+    "published": "2026-10-13T23:05:34.000Z",
+    "created": "2026-10-14T18:02:06.623Z",
+    "coverage": 1,
+    "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "457f3fe4ae2f",
     "slug": "ai-saytlarga-havola-berishi-uchun-matnni-qanday-yozish-kerak-457f3f",
     "title": "AI saytlarga havola berishi uchun matnni qanday yozish kerak",

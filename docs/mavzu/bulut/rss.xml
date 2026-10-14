@@ -5,7 +5,7 @@
   <link>https://ailenta.uz/mavzu/bulut/</link>
   <description>&quot;bulut&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Wed, 14 Oct 2026 17:45:58 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 14 Oct 2026 18:09:23 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/bulut/rss.xml" rel="self" type="application/rss+xml"/>
   <item>
     <title>AI infratuzilmasi xarajatlari daromaddan oshib ketadi</title>
@@ -36,6 +36,16 @@
     <category>Microsoft</category><category>bulut</category>
     <media:content url="https://ailenta.uz/og/microsoft-azure-xarajatlarni-qisqartirayotganini-rad-etdi-fa0f28.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/microsoft-azure-xarajatlarni-qisqartirayotganini-rad-etdi-fa0f28.jpg"/>
+  </item>
+  <item>
+    <title>Cerebras rahbari shaxsiy AI yordamchilari bashorati</title>
+    <link>https://ailenta.uz/x/cerebras-rahbari-shaxsiy-ai-yordamchilari-bashorati-14cee1/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/cerebras-rahbari-shaxsiy-ai-yordamchilari-bashorati-14cee1/</guid>
+    <pubDate>Tue, 13 Oct 2026 23:05:34 GMT</pubDate>
+    <description>Cerebras bosh direktori Endryu Feldman har bir uyda shaxsiy AI yordamchilari bo'lishini bashorat qildi. Ular maishiy texnika kabi keng tarqalib, qisman mahalliy qurilmalarda, qisman bulutda ishlaydi.</description>
+    <category>agentlar</category><category>bulut</category>
+    <media:content url="https://ailenta.uz/og/cerebras-rahbari-shaxsiy-ai-yordamchilari-bashorati-14cee1.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/cerebras-rahbari-shaxsiy-ai-yordamchilari-bashorati-14cee1.jpg"/>
   </item>
   <item>
     <title>Eski Apple TV modellariga Siri AI kelmoqda</title>
@@ -296,16 +306,6 @@
     <category>biznes</category><category>bulut</category>
     <media:content url="https://ailenta.uz/og/firmus-technologies-iposi-va-ai-markazlari-bahslarga-sabab-609801.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/firmus-technologies-iposi-va-ai-markazlari-bahslarga-sabab-609801.jpg"/>
-  </item>
-  <item>
-    <title>Microsoft Azure Container Apps Express’ni ishga tushirdi</title>
-    <link>https://ailenta.uz/x/microsoft-azure-container-apps-expressni-ishga-tushirdi-39bb9f/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/microsoft-azure-container-apps-expressni-ishga-tushirdi-39bb9f/</guid>
-    <pubDate>Fri, 02 Oct 2026 12:00:00 GMT</pubDate>
-    <description>Microsoft Azure Container Apps Express va Sandboxes xizmatlarini umumiy foydalanishga chiqardi. Bu xizmatlar AI agentlari uchun tezkor, izolyatsiyalangan va resurslarni tejaydigan muhit yaratishga mo‘ljallangan.</description>
-    <category>Microsoft</category><category>bulut</category>
-    <media:content url="https://ailenta.uz/og/microsoft-azure-container-apps-expressni-ishga-tushirdi-39bb9f.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/microsoft-azure-container-apps-expressni-ishga-tushirdi-39bb9f.jpg"/>
   </item>
 </channel>
 </rss>
