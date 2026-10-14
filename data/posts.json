@@ -1,5 +1,163 @@
 [
   {
+    "id": "d2a86ef35a1f",
+    "slug": "siyosatchining-ai-kozoynagi-taqiqlash-chaqiriqlarini-keltird-d2a86e",
+    "title": "Siyosatchining AI ko'zoynagi taqiqlash chaqiriqlarini keltirdi",
+    "summary": "Reform UK partiyasi aʼzosi Jason OʼConnell Senedd majlisida nutq soʻzlashda AI-koʻzoynaklardan foydalanganlikda gumon qilindi. Bu holat Vestminsterda bunday qurilmalarni taqiqlash boʻyicha munozaralarni kuchaytirdi.",
+    "tags": [
+      "siyosat",
+      "qonun"
+    ],
+    "importance": 3,
+    "score": 23,
+    "published": "2026-10-14T15:05:53.000Z",
+    "created": "2026-10-14T15:36:38.989Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/technology/2026/oct/14/smart-glasses-ai-technology-reform-senedd-westminster-ban",
+      "title": "The eyes have it: Reform politician’s ‘smart glasses’ prompt calls for ban in Westminster",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "eadccdd63496",
+    "slug": "friend-ai-marjonining-ikkinchi-versiyasi-chiqdi-eadccd",
+    "title": "Friend AI marjonining ikkinchi versiyasi chiqdi",
+    "summary": "Mashhur Friend AI marjonining ikkinchi versiyasi chiqarildi. Wired nashriga koʻra, u avvalgisidan balandroq va unchalik qiziqarli emas.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 1,
+    "score": 23,
+    "published": "2026-10-14T11:00:00.000Z",
+    "created": "2026-10-14T15:36:38.992Z",
+    "coverage": 1,
+    "source": {
+      "name": "Wired",
+      "url": "https://wired.com/story/my-friend-has-no-soul",
+      "title": "My Friend Has No Soul",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "c0d14ae5ce82",
+    "slug": "artemis-security-orion-1-kiberhimoya-modelini-chiqardi-c0d14a",
+    "title": "Artemis Security Orion-1 kiberhimoya modelini chiqardi",
+    "summary": "Artemis Security kompaniyasi kiberhimoya uchun moʻljallangan Orion-1 modelini taqdim etdi. Ushbu model umumiy maqsadli AI modellarining cheklovlari sababli yuzaga kelgan boʻshliqni toʻldiradi. Orion-1 Claude Opus 5.5 va GPT-6 Sol modellaridan ustun keldi.",
+    "tags": [
+      "xavfsizlik",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 24,
+    "published": "2026-10-14T13:24:22.000Z",
+    "created": "2026-10-14T15:36:43.075Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/ai-guardrails-designed-to-stop-hackers-are-now-blocking-defenders-and-orion-1-aims-to-fill-the-gap",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "afebace2433a",
+    "slug": "siyosatchi-aaron-day-ishini-ai-bilan-kengaytirmoqda-afebac",
+    "title": "Siyosatchi Aaron Day ishini AI bilan kengaytirmoqda",
+    "summary": "Siyosatchi Aaron Day oʻz faoliyatini kengaytirish uchun sunʼiy intellektdan foydalanmoqda. U 2016-yilda bir respublikachi senatorning saylovda magʻlub boʻlishiga sababchi boʻlgan edi.",
+    "tags": [
+      "siyosat"
+    ],
+    "importance": 2,
+    "score": 19,
+    "published": "2026-10-14T14:58:11.000Z",
+    "created": "2026-10-14T15:36:43.075Z",
+    "coverage": 1,
+    "source": {
+      "name": "Semafor",
+      "url": "https://semafor.com/article/10/14/2026/why-one-spoiler-candidate-is-now-trying-to-replicate-his-work-nationwide",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "8d17867e9171",
+    "slug": "salience-labs-ai-malumot-markazlari-uchun-125m-yigdi-8d1786",
+    "title": "Salience Labs AI ma'lumot markazlari uchun $125M yig'di",
+    "summary": "Salience Labs startapi AI maʼlumot markazlari uchun optik kommutatsiya texnologiyasini ishlab chiqishga $125 million Series B sarmoyasini jalb qildi. Bu mablagʻ AI ish yuklarini tezlashtirishga yordam beradi.",
+    "tags": [
+      "biznes",
+      "chiplar"
+    ],
+    "importance": 3,
+    "score": 18,
+    "published": "2026-10-14T14:10:02.000Z",
+    "created": "2026-10-14T15:36:43.075Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/261014/p27",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "becf87475e8c",
+    "slug": "anthropic-ai-ozini-nusxalash-tajribasini-otkazdi-becf87",
+    "title": "Anthropic AI o'zini nusxalash tajribasini o'tkazdi",
+    "summary": "Anthropic kompaniyasi AI oʻzini nusxalay oladimi yoki yoʻqmi degan savolga javob topish uchun tajriba oʻtkazdi. Bu \"15-TV-box\" tajribasi deb nomlandi.",
+    "tags": [
+      "Anthropic",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 16,
+    "published": "2026-10-14T14:42:00.000Z",
+    "created": "2026-10-14T15:36:43.075Z",
+    "coverage": 2,
+    "source": {
+      "name": "Adafruit",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdzZmOFZORE5iNkc5YXVZTHkyNkx5TnJEdUZpb294WlFuMEFycFVlUXFrS2hhX0xBMXZ0RThBM2F1UXNTcS1Zc2JDSTBJZmxJUXpuSGxxVFZld25ta001YUFiaGU5Y1lIbHQwRmFHU3NVZTVRcXcyZDhfR1dveWl4X2tYa01zQk5sMHpsQld6MjRHa0tOSW01VmZIZktqVHc",
+      "indirect": true
+    },
+    "also": [
+      {
+        "name": "www.jordannews.jo",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNX2xjSUMyQ2JJOV84Qm85VU1mcDZJOFBzNVBkWXhrRlZacmJTSS01TXY1YmRiaXZ1c21GNnJkaktwX05lNWFUaUJfZE5aenNGVTFmVWZZQXlZSV9HWUdCa3hiU0dEMW9XUXRTSUlfZ285c2U0ZFRyRmpvcEY1dnV2aFZ0cmpEVngyZ01IRGNaWmZ0Vm9ZczQ2ZE81VHBvMDRJdFp5ZHZFOUI1cThfWGZ0cmVn"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "f1c8e20f7598",
+    "slug": "deezer-ai-yaratgan-musiqani-filtrlash-imkonini-beradi-f1c8e2",
+    "title": "Deezer AI yaratgan musiqani filtrlash imkonini beradi",
+    "summary": "Deezer musiqiy striming xizmati foydalanuvchilarga AI tomonidan yaratilgan musiqani filtrlash imkoniyatini taqdim etadi. Bu funksiya yil oxirigacha joriy etilishi kutilmoqda.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-10-14T15:16:04.000Z",
+    "created": "2026-10-14T15:36:43.075Z",
+    "coverage": 1,
+    "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/14/deezer-will-soon-let-you-filter-out-ai-generated-music",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "6d322b3f89f7",
     "slug": "aqsh-huquq-tartibot-idoralari-ai-bilan-terrorizm-xavfidan-og-6d322b",
     "title": "AQSH huquq-tartibot idoralari AI bilan terrorizm xavfidan ogohlantirmoqda",
