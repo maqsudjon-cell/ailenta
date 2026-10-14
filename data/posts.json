@@ -1,9 +1,9 @@
 [
   {
     "id": "d36bfce12c4f",
-    "slug": "coreweave-ai-infratuzilmasini-moliyalashtirishga-intilmoqda-d36bfc",
-    "title": "CoreWeave AI infratuzilmasini moliyalashtirishga intilmoqda",
-    "summary": "CoreWeave kompaniyasi AI infratuzilmasini qurishni moliyalashtirish uchun sug'urta mablag'laridan foydalanishni rejalashtirmoqda. Bu kompaniyaning AI sohasidagi kengayishini qo'llab-quvvatlashga qaratilgan.",
+    "slug": "coreweave-ai-infratuzilmasiga-sugurta-puli-bilan-sarmoya-d36bfc",
+    "title": "CoreWeave AI infratuzilmasiga sug'urta puli bilan sarmoya",
+    "summary": "CoreWeave kompaniyasi AI infratuzilmasini kengaytirish uchun \"cheklanmagan\" sug'urta mablag'laridan foydalanishni rejalashtirmoqda. Bu mablag'lar AI rivojlanishini qo'llab-quvvatlashga yo'naltiriladi.",
     "tags": [
       "biznes",
       "bulut"
@@ -11,7 +11,7 @@
     "importance": 3,
     "score": 27,
     "published": "2026-10-14T04:00:40.000Z",
-    "created": "2026-10-14T07:54:05.680Z",
+    "created": "2026-10-14T08:04:02.853Z",
     "coverage": 1,
     "source": {
       "name": "Financial Times",
@@ -22,17 +22,39 @@
     "model": "gemini"
   },
   {
+    "id": "88b09b6e7985",
+    "slug": "xitoyda-ai-tadqiqotlari-jadal-rivojlanmoqda-88b09b",
+    "title": "Xitoyda AI tadqiqotlari jadal rivojlanmoqda",
+    "summary": "Nature nashri Xitoyda sun'iy intellekt bo'yicha tadqiqotlar jadal rivojlanayotganini xabar qildi. Maqolada bu rivojlanishning kelajakdagi yo'nalishlari muhokama qilingan.",
+    "tags": [
+      "tadqiqot",
+      "siyosat"
+    ],
+    "importance": 4,
+    "score": 23,
+    "published": "2026-10-14T00:00:00.000Z",
+    "created": "2026-10-14T08:04:02.853Z",
+    "coverage": 1,
+    "source": {
+      "name": "Nature",
+      "url": "https://nature.com/articles/d41586-026-03223-8",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "f4cd9013caf5",
-    "slug": "ai-yangilanishlarining-tezligi-tushunishni-qiyinlashtirmoqda-f4cd90",
-    "title": "AI yangilanishlarining tezligi tushunishni qiyinlashtirmoqda",
-    "summary": "Yangi AI modellari shu qadar tez paydo bo'lmoqdagi, ularni to'liq tushunish qiyinlashmoqda. Ba'zilar AI yangilanishlariga doimiy intilishdan voz kechish kerakligini ta'kidlamoqda.",
+    "slug": "ai-modellari-tez-yangilanmoqda-tushunish-qiyin-f4cd90",
+    "title": "AI modellari tez yangilanmoqda, tushunish qiyin",
+    "summary": "Yangi AI modellarining juda tez paydo bo'lishi texnologiyani to'liq tushunishni qiyinlashtirmoqda. Ba'zilar doimiy yangilanishga intilish shart emas deb hisoblaydi.",
     "tags": [
       "tadqiqot"
     ],
     "importance": 2,
     "score": 19,
     "published": "2026-10-14T07:30:00.000Z",
-    "created": "2026-10-14T07:54:05.681Z",
+    "created": "2026-10-14T08:04:02.853Z",
     "coverage": 1,
     "source": {
       "name": "The Register",
@@ -44,9 +66,9 @@
   },
   {
     "id": "22bc5ca0bc0a",
-    "slug": "ishchilar-ai-yutuqlarini-yashirishi-mumkin-22bc5c",
-    "title": "Ishchilar AI yutuqlarini yashirishi mumkin",
-    "summary": "Ishchilar AI yordamida erishilgan yutuqlarni yashirishi mumkin, chunki tezroq ishlash ularni almashtiriladigan qilib ko'rsatishi mumkin. Ish beruvchilar bu yutuqlarni bo'lishish uchun sabab berishlari kerak.",
+    "slug": "ishchilar-ai-samaradorligini-yashirishi-mumkin-22bc5c",
+    "title": "Ishchilar AI samaradorligini yashirishi mumkin",
+    "summary": "Ishchilar AI yordamida erishilgan samaradorlikni yashirishi mumkin, chunki ular o'z o'rinlarini yo'qotishdan qo'rqadi. Ish beruvchilar ularni bu yutuqlarni bo'lishishga undashi kerak.",
     "tags": [
       "mehnat bozori",
       "biznes"
@@ -54,7 +76,7 @@
     "importance": 3,
     "score": 19,
     "published": "2026-10-14T07:00:00.000Z",
-    "created": "2026-10-14T07:54:05.681Z",
+    "created": "2026-10-14T08:04:02.853Z",
     "coverage": 1,
     "source": {
       "name": "Fortune",
@@ -65,18 +87,61 @@
     "model": "gemini"
   },
   {
+    "id": "8499e5245393",
+    "slug": "ai-yetakchilarining-fikrlarini-kuzatuvchi-vosita-yaratildi-8499e5",
+    "title": "AI yetakchilarining fikrlarini kuzatuvchi vosita yaratildi",
+    "summary": "Hacker News'da AI sohasidagi yetakchilarning bayonotlari va ularning qarashlari o'zgarishini kuzatish uchun mo'ljallangan vosita taqdim etildi. Bu vosita AI rivojlanishini tahlil qilishga yordam beradi.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 1,
+    "score": 18.6,
+    "published": "2026-10-14T01:09:13.000Z",
+    "created": "2026-10-14T08:04:02.853Z",
+    "coverage": 1,
+    "source": {
+      "name": "Hacker News",
+      "url": "https://blumify.io/people",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "e95b3925da38",
+    "slug": "phanes-ai-robotlarni-oqitish-uchun-seephys-hubni-chiqardi-e95b39",
+    "title": "PHANES AI robotlarni o'qitish uchun SeePhys Hub'ni chiqardi",
+    "summary": "PHANES AI kompaniyasi SeePhys Hub nomli taqiladigan qurilmalar to'plamini ishga tushirdi. Bu to'plam robotlarni o'qitish uchun inson harakati, ko'rish va sezish ma'lumotlarini yozib oladi.",
+    "tags": [
+      "robototexnika",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 18,
+    "published": "2026-10-14T07:39:20.000Z",
+    "created": "2026-10-14T08:04:02.853Z",
+    "coverage": 1,
+    "source": {
+      "name": "Pandaily",
+      "url": "https://pandaily.com/phanes-ai-seephys-hub-whole-body-multimodal-data-capture-vision-touch-motion-robot-training",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "caa1e3bfc2e6",
     "slug": "tencent-wechatda-ai-dramalar-xizmatini-ishga-tushirdi-caa1e3",
     "title": "Tencent WeChat'da AI dramalar xizmatini ishga tushirdi",
-    "summary": "Tencent WeChat ilovasida Lüpaopao Duanju nomli bepul qisqa dramalar xizmatini taqdim etdi. Ushbu xizmat jonli ijro, animatsion va sun'iy intellekt tomonidan yaratilgan dramalarni o'z ichiga oladi.",
+    "summary": "Tencent WeChat ilovasida Lüpaopao Duanju nomli bepul qisqa dramalar xizmatini ishga tushirdi. Bu xizmat jonli, animatsion va AI tomonidan yaratilgan dramalarni o'z ichiga oladi.",
     "tags": [
-      "biznes",
-      "Tencent"
+      "Tencent",
+      "biznes"
     ],
     "importance": 3,
     "score": 15,
     "published": "2026-10-14T07:18:53.000Z",
-    "created": "2026-10-14T07:54:05.681Z",
+    "created": "2026-10-14T08:04:02.853Z",
     "coverage": 1,
     "source": {
       "name": "TechNode",
