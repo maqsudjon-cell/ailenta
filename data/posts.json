@@ -1,5 +1,49 @@
 [
   {
+    "id": "f36cd9a8d5f8",
+    "slug": "echopolicy-0-molmospaces-reytingida-birinchi-boldi-f36cd9",
+    "title": "EchoPolicy-0 MolmoSpaces reytingida birinchi bo'ldi",
+    "summary": "MagicLab ma'lumotiga ko'ra, EchoPolicy-0 agent freymvorki MolmoSpaces'ning to'rtta vazifasida o'rtacha 75,4% natija ko'rsatib, birinchi o'rinni egalladi. Tizimning MagicBrain komponenti tanlab olish sinovida 94,4% ko'rsatkich qayd etdi.",
+    "tags": [
+      "agentlar",
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-10-14T04:25:38.000Z",
+    "created": "2026-10-14T05:03:47.524Z",
+    "coverage": 1,
+    "source": {
+      "name": "Pandaily",
+      "url": "https://pandaily.com/magiclab-echopolicy-0-ai2-molmospaces-combined-leaderboard-75-4-percent-magicbrain",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "adef8795a71d",
+    "slug": "hello-inc-helloworld-dunyo-modelini-taqdim-etdi-adef87",
+    "title": "Hello Inc. HelloWorld dunyo modelini taqdim etdi",
+    "summary": "Hello Inc. kompaniyasining robotoksi bo'linmasi HelloWorld generativ dunyo modelini e'lon qildi. Tizim sinovlar uchun matnli so'rovlar hamda maketlar asosida ko'p kamerali video va lidar ma'lumotlarini shakllantiradi.",
+    "tags": [
+      "robototexnika",
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-10-14T04:25:25.000Z",
+    "created": "2026-10-14T05:03:47.525Z",
+    "coverage": 1,
+    "source": {
+      "name": "Pandaily",
+      "url": "https://pandaily.com/hello-inc-robotaxi-helloworld-generative-driving-world-model-multi-view-video-lidar",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "6bfaaf873eeb",
     "slug": "pulse-local-mac-uchun-ai-asosidagi-byudjet-ilovasi-6bfaaf",
     "title": "Pulse Local: Mac uchun AI asosidagi byudjet ilovasi",
