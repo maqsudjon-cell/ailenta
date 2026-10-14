@@ -1,5 +1,60 @@
 [
   {
+    "id": "1d1ddc532138",
+    "slug": "facebook-tasmasini-ai-yordamida-sozlash-imkoni-beriladi-1d1ddc",
+    "title": "Facebook tasmasini AI yordamida sozlash imkoni beriladi",
+    "summary": "Meta foydalanuvchilarga Facebook Feed va Reels algoritmlarini o'z so'zlari bilan boshqarish imkonini beruvchi AI vositalarini taqdim etdi. Endilikda odamlar o'z qiziqishlarini so'zlar orqali yozib, qanday kontent ko'rishni mustaqil belgilashi mumkin.",
+    "tags": [
+      "Meta"
+    ],
+    "importance": 3,
+    "score": 51,
+    "published": "2026-10-13T16:00:29.000Z",
+    "created": "2026-10-14T00:36:41.998Z",
+    "coverage": 4,
+    "source": {
+      "name": "Meta",
+      "url": "https://about.fb.com/news/2026/10/introducing-your-algorithm-facebook",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/13/facebook-is-giving-users-more-control-over-their-algorithm"
+      },
+      {
+        "name": "The Verge",
+        "url": "https://theverge.com/tech/1010344/meta-facebook-your-algorithm-ai"
+      },
+      {
+        "name": "Unite.AI",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSWZQdjVGSk0zZDk3ZGMzY1VObVYxamRSdWdqZnRPVGU5bEx3X21sLWVQWHJiM3BPRFA4VjFJWU9QMVVEYko0NDM4MDVRVXh3MmJqZ3NnLTZuM3lxWDNKeWs0UHg2MmF6N2JyYjJaN2JuMzNORE5IcjJBUjJrYVFWYlg0ZmRoQkFHMWw1QjNYX3prVXVO"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "4e62b622aef6",
+    "slug": "michael-jordan-ai-xavflari-haqidagi-fikrlarni-rad-etdi-4e62b6",
+    "title": "Michael Jordan AI xavflari haqidagi fikrlarni rad etdi",
+    "summary": "Mashinali o'rganish bo'yicha yetakchi olim Michael I. Jordan superintellekt xavfi haqidagi ogohlantirishlarni ilmiy fantastika deb atadi. U kompaniyalarning qonuniy nazorat talablarini teatr, yosh tadqiqotchilarning ketishini esa namoyishkorona harakat deb baholadi. Olim Geoffrey Hintonning inson miyasini chipda takrorlash haqidagi qarashlarini ham asossiz deb hisoblaydi.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 18,
+    "published": "2026-10-13T17:12:41.000Z",
+    "created": "2026-10-14T00:36:41.999Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/machine-learning-pioneer-michael-i-jordan-dismantles-ai-doom-rhetoric-as-grand-moralizing-performance",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "ccfa76baee9a",
     "slug": "ish-intervyularida-ai-ishlatish-ortmoqda-ammo-aniqlanadi-ccfa76",
     "title": "Ish intervyularida AI ishlatish ortmoqda, ammo aniqlanadi",
