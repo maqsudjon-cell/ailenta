@@ -1,5 +1,92 @@
 [
   {
+    "id": "d36bfce12c4f",
+    "slug": "coreweave-ai-infratuzilmasini-moliyalashtirishga-intilmoqda-d36bfc",
+    "title": "CoreWeave AI infratuzilmasini moliyalashtirishga intilmoqda",
+    "summary": "CoreWeave kompaniyasi AI infratuzilmasini qurishni moliyalashtirish uchun sug'urta mablag'laridan foydalanishni rejalashtirmoqda. Bu kompaniyaning AI sohasidagi kengayishini qo'llab-quvvatlashga qaratilgan.",
+    "tags": [
+      "biznes",
+      "bulut"
+    ],
+    "importance": 3,
+    "score": 27,
+    "published": "2026-10-14T04:00:40.000Z",
+    "created": "2026-10-14T07:54:05.680Z",
+    "coverage": 1,
+    "source": {
+      "name": "Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSXFndnlSQ240UU1vSGc2d1NlbDVJSEcwcmR1b0hGUUVIVjZlWnNCUVNWRGhUNUplcERJdkVDZWZxa09ONDBFVWRPak5uTEp4VU8yTWtLWHo2MnRSZTkwN2lqRnZKRmVDZkk5N2lPNXp0WElJeVJLZ0xkMENrRnhTNU8wZWI",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "f4cd9013caf5",
+    "slug": "ai-yangilanishlarining-tezligi-tushunishni-qiyinlashtirmoqda-f4cd90",
+    "title": "AI yangilanishlarining tezligi tushunishni qiyinlashtirmoqda",
+    "summary": "Yangi AI modellari shu qadar tez paydo bo'lmoqdagi, ularni to'liq tushunish qiyinlashmoqda. Ba'zilar AI yangilanishlariga doimiy intilishdan voz kechish kerakligini ta'kidlamoqda.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 19,
+    "published": "2026-10-14T07:30:00.000Z",
+    "created": "2026-10-14T07:54:05.681Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/columnists/2026/10/14/it-wont-kill-you-or-humanity-to-get-off-the-ai-upgrade-treadmill/5301778",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "22bc5ca0bc0a",
+    "slug": "ishchilar-ai-yutuqlarini-yashirishi-mumkin-22bc5c",
+    "title": "Ishchilar AI yutuqlarini yashirishi mumkin",
+    "summary": "Ishchilar AI yordamida erishilgan yutuqlarni yashirishi mumkin, chunki tezroq ishlash ularni almashtiriladigan qilib ko'rsatishi mumkin. Ish beruvchilar bu yutuqlarni bo'lishish uchun sabab berishlari kerak.",
+    "tags": [
+      "mehnat bozori",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-10-14T07:00:00.000Z",
+    "created": "2026-10-14T07:54:05.681Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/10/14/the-question-behind-ai-panic-what-happens-to-me-if-it-works",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "caa1e3bfc2e6",
+    "slug": "tencent-wechatda-ai-dramalar-xizmatini-ishga-tushirdi-caa1e3",
+    "title": "Tencent WeChat'da AI dramalar xizmatini ishga tushirdi",
+    "summary": "Tencent WeChat ilovasida Lüpaopao Duanju nomli bepul qisqa dramalar xizmatini taqdim etdi. Ushbu xizmat jonli ijro, animatsion va sun'iy intellekt tomonidan yaratilgan dramalarni o'z ichiga oladi.",
+    "tags": [
+      "biznes",
+      "Tencent"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-10-14T07:18:53.000Z",
+    "created": "2026-10-14T07:54:05.681Z",
+    "coverage": 1,
+    "source": {
+      "name": "TechNode",
+      "url": "https://technode.com/2026/10/14/tencent-launches-free-short-drama-service-inside-wechat",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "9dcc6be80020",
     "slug": "ukraina-dron-zarbalarini-ai-bilan-bashorat-qilmoqchi-9dcc6b",
     "title": "Ukraina dron zarbalarini AI bilan bashorat qilmoqchi",
