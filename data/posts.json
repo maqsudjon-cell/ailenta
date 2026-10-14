@@ -1,5 +1,75 @@
 [
   {
+    "id": "6d322b3f89f7",
+    "slug": "aqsh-huquq-tartibot-idoralari-ai-bilan-terrorizm-xavfidan-og-6d322b",
+    "title": "AQSH huquq-tartibot idoralari AI bilan terrorizm xavfidan ogohlantirmoqda",
+    "summary": "FBI va boshqa AQSH idoralari AI chatbotlaridan terrorchilik hujumlarini rejalashtirishda foydalanish xavfi haqida ogohlantirmoqda. 2025-yil may oyida sodir bo'lgan avtomobil portlashi generativ AI vositasi yordamida amalga oshirilganiga ishora qilindi.",
+    "tags": [
+      "xavfsizlik",
+      "siyosat"
+    ],
+    "importance": 4,
+    "score": 32,
+    "published": "2026-10-14T10:00:03.000Z",
+    "created": "2026-10-14T13:02:03.874Z",
+    "coverage": 2,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/technology/ng-interactive/2026/oct/14/ai-terror-plots-fbi-extremism",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "Techmeme",
+        "url": "https://techmeme.com/261014/p16"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "1d1ca5447a74",
+    "slug": "ai-agentlar-sayohatchilarning-brend-tanlovini-ozgartirmoqda-1d1ca5",
+    "title": "AI agentlar sayohatchilarning brend tanlovini o'zgartirmoqda",
+    "summary": "AI agentlari sayohatchilarning brend tanlash usullarini o'zgartirmoqda. Tezroq va osonroq bron qilish tajribasi sodiqlik ballaridan ustun bo'lmoqda.",
+    "tags": [
+      "agentlar",
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 19,
+    "published": "2026-10-14T12:00:00.000Z",
+    "created": "2026-10-14T13:02:03.875Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/10/14/agentic-ai-travel-brand-loyalty",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "5390f1b229bb",
+    "slug": "texnologiya-gigantlari-bayram-uchun-ai-gadjetlarini-tayyorla-5390f1",
+    "title": "Texnologiya gigantlari bayram uchun AI gadjetlarini tayyorlamoqda",
+    "summary": "Texnologiya kompaniyalari yaqinlashib kelayotgan bayram mavsumi uchun AI gadjetlarini do'konlarga chiqarishga shoshilmoqda. Ular bu yil AI gadjetlari xarid ro'yxatiga kirishiga umid qilmoqda.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-10-14T11:00:01.000Z",
+    "created": "2026-10-14T13:02:03.875Z",
+    "coverage": 1,
+    "source": {
+      "name": "CNBC",
+      "url": "https://cnbc.com/2026/10/14/tech-giants-race-to-get-ai-gadgets-on-shelves-for-holiday-rush.html",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "36f8b63f76cf",
     "slug": "broadcom-bayonotidan-song-chip-aksiyalari-keskin-tushdi-36f8b6",
     "title": "Broadcom bayonotidan so'ng chip aksiyalari keskin tushdi",
