@@ -1,5 +1,48 @@
 [
   {
+    "id": "dec59fa05962",
+    "slug": "disney-character-ai-startapidan-aktivlarni-soramoqda-dec59f",
+    "title": "Disney Character.AI startapidan aktivlarni so'ramoqda",
+    "summary": "Disney kompaniyasi Character.AI startapidan aktivlarni olishga harakat qilmoqda. Chatbotlari o'z-o'ziga zarar yetkazishga undagani aytilgan ushbu startap hozirda sud da'vosi bilan yuzlashmoqda.",
+    "tags": [
+      "sud"
+    ],
+    "importance": 3,
+    "score": 23,
+    "published": "2026-10-13T19:30:00.000Z",
+    "created": "2026-10-14T01:01:39.852Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Washington Post",
+      "url": "https://washingtonpost.com/technology/2026/10/13/ai-app-that-triggered-kids-safety-fears-will-sell-assets-disney",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "fa0f287ecae3",
+    "slug": "microsoft-azure-xarajatlarni-qisqartirayotganini-rad-etdi-fa0f28",
+    "title": "Microsoft Azure xarajatlarni qisqartirayotganini rad etdi",
+    "summary": "Microsoft vakili sun'iy intellekt qayta qurilishi haqidagi xabarlar fonida Azure bo'linmasida xarajatlar qisqartirilmayotganini ma'lum qildi. Kompaniya bu haqdagi xabarlarni rasman inkor etdi.",
+    "tags": [
+      "Microsoft",
+      "bulut"
+    ],
+    "importance": 3,
+    "score": 7,
+    "published": "2026-10-14T00:45:38.000Z",
+    "created": "2026-10-14T01:01:39.853Z",
+    "coverage": 1,
+    "source": {
+      "name": "inkl",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNVEdubmE4TXN2SGlGQ2w4QnY5S3ctTHgzR0NWWm11NFVYYW9sZlVSQTNTeHQwS1hSa3BEbGlfWjJUYXh5T1hVSWxxTzMxYlRPcDVyT0dHLWV0cl9tQl9IeTFiOURvY3lyeE5nUVBsS1hNdk9lMlBLby16VVhCbGlnaDlfS1RyWFZBcW1aeEE4eFktQlBxVDNiZ3AyRWZ5Xy1pZWFzRWNtTXNFZ1VSMy1IMzdyZFllbUoxT3dMVDVHT0ZCRzBGZWs3SFBWMG9JMUppQVFV",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "1d1ddc532138",
     "slug": "facebook-tasmadagi-kontentni-boshqarish-vositasini-chiqardi-1d1ddc",
     "title": "Facebook tasmadagi kontentni boshqarish vositasini chiqardi",
