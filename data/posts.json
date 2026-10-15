@@ -1,5 +1,93 @@
 [
   {
+    "id": "15182b3efcde",
+    "slug": "tadqiqotchilar-1-milliard-foydalanuvchi-zaifligini-topdi-15182b",
+    "title": "Tadqiqotchilar 1 milliard foydalanuvchi zaifligini topdi",
+    "summary": "Xavfsizlik tadqiqotchilari 1 milliard foydalanuvchiga ta'sir qiluvchi zaiflikni aniqladi. Xbow kompaniyasi bu topilma uchun 250 ming dollar mukofot oldi.",
+    "tags": [
+      "xavfsizlik",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 22,
+    "published": "2026-10-14T19:12:33.000Z",
+    "created": "2026-10-15T00:36:33.781Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/security/2026/10/14/security-researchers-spent-6-days-doing-their-chromework-built-1b-user-exploit/5303134",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "fe7e3bf246c6",
+    "slug": "microsoft-ob-havo-bashoratini-yaxshilash-uchun-ai-yaratdi-fe7e3b",
+    "title": "Microsoft ob-havo bashoratini yaxshilash uchun AI yaratdi",
+    "summary": "Microsoft tadqiqotchilari ob-havo bashoratini 2-6 hafta oldindan aniqroq qilish uchun yangi mashina o'rganish vositasini ishlab chiqdi. Bu fermerlar va favqulodda vaziyat xizmatlariga yordam beradi.",
+    "tags": [
+      "Microsoft",
+      "tadqiqot"
+    ],
+    "importance": 4,
+    "score": 18,
+    "published": "2026-10-14T16:05:21.000Z",
+    "created": "2026-10-15T00:36:33.781Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Verge",
+      "url": "https://theverge.com/science/1011127/ai-weather-forecast-microsoft",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "d3bb9ef55af6",
+    "slug": "gudea-ai-yordamida-ijtimoiy-media-inqirozlarini-oldini-oladi-d3bb9e",
+    "title": "Gudea AI yordamida ijtimoiy media inqirozlarini oldini oladi",
+    "summary": "Gudea kompaniyasi tashkilotlarga ijtimoiy media inqirozlarini oldini olishda yordam berish uchun AI'dan foydalanmoqda. U onlayn tarqaladigan noto'g'ri ma'lumotlar va mish-mishlarni kuzatadi.",
+    "tags": [
+      "biznes",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-10-15T00:00:00.000Z",
+    "created": "2026-10-15T00:36:33.781Z",
+    "coverage": 1,
+    "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "09ee95f81d33",
+    "slug": "mckinsey-ishga-qabul-qilishda-ai-mijoz-simulyatsiyasidan-foy-09ee95",
+    "title": "McKinsey ishga qabul qilishda AI mijoz simulyatsiyasidan foydalanadi",
+    "summary": "McKinsey & Company kompaniyasi ishga kiruvchi nomzodlar bilan suhbatda AI mijoz simulyatsiyasini qo'llaydi. Bu 10 daqiqalik suhbatlar konsalting ishining 80% holatlarini aks ettiradi.",
+    "tags": [
+      "mehnat bozori",
+      "biznes"
+    ],
+    "importance": 4,
+    "score": 15,
+    "published": "2026-10-14T22:53:31.000Z",
+    "created": "2026-10-15T00:36:33.781Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Verge",
+      "url": "https://theverge.com/news/1011654/mckinsey-ai-client-interview",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "dbbe27c524fc",
     "slug": "ijtimoiy-platformalar-past-sifatli-ai-kontentiga-qarshi-kura-dbbe27",
     "title": "Ijtimoiy platformalar past sifatli AI kontentiga qarshi kurashmoqda",
