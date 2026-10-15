@@ -1,5 +1,49 @@
 [
   {
+    "id": "d7f4f48324ba",
+    "slug": "kichik-biznes-egalari-ai-unumdorlikni-oshirishini-aytdi-d7f4f4",
+    "title": "Kichik biznes egalari AI unumdorlikni oshirishini aytdi",
+    "summary": "Meta o'tkazgan tadqiqotga ko'ra, to'qqizta APAC bozoridagi kichik biznes egalarining to'rtdan uch qismidan ko'prog'i AI unumdorlikni oshirishini bildirdi. Shu bilan birga, ularning aksariyati ko'proq yo'l-yo'riqqa muhtoj. Texnologiya kichik korxonalarga yirik raqobatchilar bilan bellashish va yangi mijozlar topishga yordam bermoqda.",
+    "tags": [
+      "Meta",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 33,
+    "published": "2026-10-15T00:50:50.000Z",
+    "created": "2026-10-15T03:36:57.717Z",
+    "coverage": 1,
+    "source": {
+      "name": "Meta",
+      "url": "https://about.fb.com/news/2026/10/more-than-three-quarters-of-small-business-owners-say-ai-makes-them-more-productive-but-most-need-more-guidance",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "a976aa414bbd",
+    "slug": "britaniya-kiberhimoyasi-buzilishi-ehtimoli-aytildi-a976aa",
+    "title": "Britaniya kiberhimoyasi buzilishi ehtimoli aytildi",
+    "summary": "Buyuk Britaniyaning AI vaziri Kanishka Narayan mamlakat kiberhimoyasi buzilishi ehtimoli yuqori ekanini bildirdi. U kiberhujumlarga qarshi mudofaani kuchaytirish maqsadida hukumat ilg'or sun'iy intellektdan foydalanishini aytdi.",
+    "tags": [
+      "xavfsizlik",
+      "siyosat"
+    ],
+    "importance": 3,
+    "score": 3.6,
+    "published": "2026-10-12T15:03:42.000Z",
+    "created": "2026-10-15T03:36:57.717Z",
+    "coverage": 1,
+    "source": {
+      "name": "BBC News",
+      "url": "https://bbc.co.uk/news/articles/cr78pe09y05xo?at_medium=RSS&at_campaign=rss",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "fbab22352045",
     "slug": "razer-bosh-direktori-ai-barchani-geymerga-aylantirmoqda-fbab22",
     "title": "Razer bosh direktori: AI barchani geymerga aylantirmoqda",
