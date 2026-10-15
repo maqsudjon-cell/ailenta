@@ -1,5 +1,54 @@
 [
   {
+    "id": "1db4c0aa3e15",
+    "slug": "agibot-50-milliard-yuanlik-baholashga-yaqinlashmoqda-1db4c0",
+    "title": "AGIBOT 50 milliard yuanlik baholashga yaqinlashmoqda",
+    "summary": "Xitoyning AGIBOT AI robot ishlab chiqaruvchisi 1 milliarddan 1,5 milliard yuangacha yangi investitsiya raundini yakunlamoqda. Natijada kompaniya qiymati taxminan 50 milliard yuanga baholanadi. 2023-yilda tashkil etilgan startap Gonkongda aksiyalarini joylashtirishga hozirlik ko'rmoqda.",
+    "tags": [
+      "robototexnika",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 19.3,
+    "published": "2026-10-14T07:18:53.000Z",
+    "created": "2026-10-15T07:01:47.155Z",
+    "coverage": 2,
+    "source": {
+      "name": "TechNode",
+      "url": "https://technode.com/2026/10/14/robot-maker-agibot-nears-new-funding-round-at-rmb-50-billion-valuation",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "TechNode",
+        "url": "https://technode.com/2026/10/13/home-robot-startup-ola-dimensions-raises-hundreds-of-millions-of-rmb-in-fourth-funding-round"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "32840c434ef2",
+    "slug": "scivisual-startapi-onlab-million-yuan-jalb-qildi-32840c",
+    "title": "SciVisual startapi o'nlab million yuan jalb qildi",
+    "summary": "Xitoyning SciVisual ilmiy simulyatsiya va AI ma'lumotlari startapi o'nlab million yuanlik investitsiya raundlarini yakunladi. Loyihaga Shanghai Future Industry Fund va Pudong Venture Capital kabi fondlar sarmoya kiritdi.",
+    "tags": [
+      "tadqiqot",
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-10-15T06:38:41.000Z",
+    "created": "2026-10-15T07:01:47.155Z",
+    "coverage": 1,
+    "source": {
+      "name": "TechNode",
+      "url": "https://technode.com/2026/10/15/scientific-simulation-and-ai-data-startup-scivisual-raises-tens-of-millions-of-rmb",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "325a3d12a559",
     "slug": "tsmc-sof-foyda-boyicha-yangi-rekord-ornatdi-325a3d",
     "title": "TSMC sof foyda bo'yicha yangi rekord o'rnatdi",
