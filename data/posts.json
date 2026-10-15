@@ -1,5 +1,116 @@
 [
   {
+    "id": "5c3f0e837b8d",
+    "slug": "ideal-aerosmith-troublemaker-dronini-namoyish-etdi-5c3f0e",
+    "title": "Ideal Aerosmith Troublemaker dronini namoyish etdi",
+    "summary": "AQShning Ideal Aerosmith kompaniyasi razvedka, kuzatuv va bir martalik zarbalar uchun Troublemaker dronini taqdim etdi. U 10 soatdan ortiq havoda qolishi, 1380 kilometrdan ziyod masofani bosib oʻtishi va 14 kg yuk koʻtarishi mumkin.",
+    "tags": [
+      "biznes",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 45,
+    "published": "2026-10-15T06:50:48.000Z",
+    "created": "2026-10-15T12:36:48.773Z",
+    "coverage": 1,
+    "source": {
+      "name": "Kun.uz",
+      "url": "https://kun.uz/news/2026/10/15/aerodromsiz-uchadi-10-soatdan-ortiq-havoda-qoladi-aqshda-yangi-harbiy-dron-taqdim-etildi",
+      "title": "Aerodromsiz uchadi, 10 soatdan ortiq havoda qoladi: AQShda yangi harbiy dron taqdim etildi.",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "3ae6ea0d60a8",
+    "slug": "anthropic-daromadi-osdi-ai-aksiyalari-xavotirda-3ae6ea",
+    "title": "Anthropic daromadi o'sdi, AI aksiyalari xavotirda",
+    "summary": "Anthropic kompaniyasi uchinchi chorakdagi daromadi yilning dastlabki uch oyiga nisbatan uch barobardan ko'proq o'sganini ma'lum qildi. Biroq, treyderlar AI aksiyalari bo'yicha xavotirlarini kuchaytirmoqda.",
+    "tags": [
+      "Anthropic",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 22,
+    "published": "2026-10-15T10:55:39.000Z",
+    "created": "2026-10-15T12:49:08.969Z",
+    "coverage": 1,
+    "source": {
+      "name": "Semafor",
+      "url": "https://semafor.com/article/10/15/2026/traders-sour-on-ai-stocks-despite-bumper-third-quarter-revenues",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "5ed325eaf40d",
+    "slug": "garb-rivojlanayotgan-mamlakatlar-ai-optimizmidan-saboq-olsin-5ed325",
+    "title": "G'arb rivojlanayotgan mamlakatlar AI optimizmidan saboq olsin",
+    "summary": "Rivojlanayotgan mamlakatlarning sun'iy intellektni ishtiyoq bilan qabul qilishi va ehtiyojga asoslangan innovatsiyalari G'arb uchun saboq bo'lishi mumkin. Bu G'arbning AIga nisbatan xavotirlarini kamaytirishga yordam beradi.",
+    "tags": [
+      "siyosat",
+      "iqtisod"
+    ],
+    "importance": 2,
+    "score": 19,
+    "published": "2026-10-15T10:00:00.000Z",
+    "created": "2026-10-15T12:49:08.969Z",
+    "coverage": 1,
+    "source": {
+      "name": "Rest of World",
+      "url": "https://restofworld.org/2026/west-ai-anxiety-optimism-innovation",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "13c68ef579b0",
+    "slug": "eiliko-robot-oyinchogi-malumotlarni-xitoy-serverlarida-saqla-13c68e",
+    "title": "Eiliko robot o'yinchog'i ma'lumotlarni Xitoy serverlarida saqlaydi",
+    "summary": "Yangi Eiliko robot o'yinchog'i Wi-Fi orqali Xitoyga ulanadi. Uning AI hamrohi foydalanuvchilarning barcha ma'lumotlarini Xitoy serverlarida saqlashi mumkin. Bu ma'lumotlarning xavfsizligi borasida xavotirlarni keltirib chiqarmoqda.",
+    "tags": [
+      "xavfsizlik",
+      "maxfiylik"
+    ],
+    "importance": 4,
+    "score": 18,
+    "published": "2026-10-15T11:00:00.000Z",
+    "created": "2026-10-15T12:49:08.969Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Verge",
+      "url": "https://theverge.com/tech/1010727/eiliko-robot-hack-energize-lab",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "296ed2c2b7b3",
+    "slug": "marc-andreessen-va-biden-ai-siyosatida-kelishmovchilikda-296ed2",
+    "title": "Marc Andreessen va Biden AI siyosatida kelishmovchilikda",
+    "summary": "Manbalarga ko'ra, Marc Andreessen Oq uy xodimi Susie Wiles bilan yaqin. U Biden ma'muriyati bilan AI siyosati bo'yicha kelishmovchilikka tushganini ochiq aytdi. Andreessen ma'muriyat uni siyosiy o'ngga itarganini ta'kidladi.",
+    "tags": [
+      "siyosat",
+      "qonun"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-10-15T11:50:06.000Z",
+    "created": "2026-10-15T12:49:08.969Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/261015/p22",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "41587dd5577f",
     "slug": "robotlarni-inson-ishi-boyicha-oqitish-41587d",
     "title": "Robotlarni inson ishi bo'yicha o'qitish",
