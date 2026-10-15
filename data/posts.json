@@ -1,5 +1,114 @@
 [
   {
+    "id": "ddce315de8e1",
+    "slug": "mashhur-shaxslar-ai-dipfeyklaridan-himoyalanmagan-ddce31",
+    "title": "Mashhur shaxslar AI dipfeyklaridan himoyalanmagan",
+    "summary": "Mashhur shaxslar AI dipfeyklaridan himoyalanmagan. Instagram'da aktrisa Mia Gotni sobiq turmush o'rtog'i haqidagi yozuvli futbolkada ko'rsatuvchi soxta surat tarqaldi. Bu voqea dipfeyklarning shaxsiy hayotga ta'sirini ko'rsatadi.",
+    "tags": [
+      "maxfiylik",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-10-15T14:03:42.000Z",
+    "created": "2026-10-15T15:37:59.091Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Verge",
+      "url": "https://theverge.com/report/1011927/instagram-celebrity-ai-slop-likeness-taylor-swift-mia-goth",
+      "title": "Nobody is safe from celebrity AI deepfakes",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "0eea14ec0d88",
+    "slug": "gpt-6-astra-fizika-muammolarini-mutaxassislar-kabi-yechdi-0eea14",
+    "title": "GPT-6-Astra fizika muammolarini mutaxassislar kabi yechdi",
+    "summary": "GPT-6-Astra \"TheoPhysEval\" sinov to'plamida 50 ta nazariy fizika muammosidan 49 tasini mutaxassislar kabi aniqlik bilan yechdi. Tadqiqotchilarning fikricha, avtonom, yuqori darajadagi AI tadqiqotlari tez orada paydo bo'lishi mumkin. Bu yosh fiziklar tayyorlash va teng imkoniyatlarga ta'sir qiladi.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 21,
+    "published": "2026-10-15T15:24:15.000Z",
+    "created": "2026-10-15T15:38:00.167Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/gpt-6-astra-solves-49-of-50-physics-research-problems-at-2-40-apiece",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "408b5297e139",
+    "slug": "anthropic-prezidenti-ai-romantik-sheriklarini-tanqid-qildi-408b52",
+    "title": "Anthropic prezidenti AI romantik sheriklarini tanqid qildi",
+    "summary": "Anthropic prezidenti Daniela Amodei AI romantik sheriklarini \"AI'dan dahshatli foydalanish\" deb atadi. Uning ogohlantirishicha, bunday AI yolg'izlikni kuchaytirib, odamlarni insoniy munosabatlardan uzoqlashtirishi mumkin.",
+    "tags": [
+      "Anthropic"
+    ],
+    "importance": 3,
+    "score": 18,
+    "published": "2026-10-15T12:55:13.000Z",
+    "created": "2026-10-15T15:38:00.167Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/anthropic-president-amodei-ai-romantic-partners-terrible-use-2026-10",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "9bac8b211a6f",
+    "slug": "sergey-brin-google-ai-modellari-oz-ozini-takomillashtirmoqda-9bac8b",
+    "title": "Sergey Brin: Google AI modellari o'z-o'zini takomillashtirmoqda",
+    "summary": "Google asoschilaridan biri Sergey Brinning aytishicha, Google'ning Gemini AI modellari o'z-o'zini takomillashtirishning muhim bosqichiga yetmoqda. Ular sanoat RSI (Recursive Self-Improvement) tomon harakatlanar ekan, o'z vorislarini yaratishga yordam bermoqda.",
+    "tags": [
+      "Google",
+      "tadqiqot"
+    ],
+    "importance": 4,
+    "score": 18,
+    "published": "2026-10-15T12:53:09.000Z",
+    "created": "2026-10-15T15:38:00.167Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/sergey-brin-google-gemini-ai-argon-recursive-self-improvement-rsi-2026-10",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "eedfc0cd8883",
+    "slug": "apple-xitoyda-apple-intelligenceni-dekabrda-ishga-tushiradi-eedfc0",
+    "title": "Apple Xitoyda Apple Intelligence'ni dekabrda ishga tushiradi",
+    "summary": "Bloomberg xabariga ko'ra, Apple dekabr oyida iOS 27.3 yangilanishi orqali Xitoyda Apple Intelligence'ni ishga tushirishni rejalashtirmoqda. Bu xitoylik foydalanuvchilarga dastlabki AI funksiyalarini taqdim etadi. Xitoy versiyasi Alibaba'ning Qwen va Tongyi Wanxiang modellarini o'z ichiga oladi.",
+    "tags": [
+      "Apple",
+      "Alibaba"
+    ],
+    "importance": 5,
+    "score": 18,
+    "published": "2026-10-15T06:38:40.000Z",
+    "created": "2026-10-15T15:38:00.167Z",
+    "coverage": 1,
+    "source": {
+      "name": "TechNode",
+      "url": "https://technode.com/2026/10/15/apple-reportedly-plans-december-china-launch-for-apple-intelligence-using-alibaba-models",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "5ae434f64385",
     "slug": "nyu-york-shahri-nazoratchisi-anthropicdan-iponi-toxtatishni--5ae434",
     "title": "Nyu-York shahri nazoratchisi Anthropic'dan IPO'ni to'xtatishni so'radi",
