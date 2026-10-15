@@ -5,7 +5,7 @@
   <link>https://ailenta.uz/mavzu/tadqiqot/</link>
   <description>&quot;tadqiqot&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Thu, 15 Oct 2026 14:06:01 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 15 Oct 2026 15:07:39 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/tadqiqot/rss.xml" rel="self" type="application/rss+xml"/>
   <item>
     <title>SciVisual startapi o'nlab million yuan jalb qildi</title>
@@ -56,6 +56,16 @@
     <category>tadqiqot</category><category>agentlar</category>
     <media:content url="https://ailenta.uz/og/agentli-malumotlar-fanidagi-yashirin-kamchiliklar-574863.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/agentli-malumotlar-fanidagi-yashirin-kamchiliklar-574863.jpg"/>
+  </item>
+  <item>
+    <title>AI inson miyasi gen regulyatsiyasini modellashtirdi</title>
+    <link>https://ailenta.uz/x/ai-inson-miyasi-gen-regulyatsiyasini-modellashtirdi-594ff9/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/ai-inson-miyasi-gen-regulyatsiyasini-modellashtirdi-594ff9/</guid>
+    <pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate>
+    <description>Tadqiqotchilar &quot;Seal&quot; yordamida rivojlanayotgan inson miyasida gen regulyatsiyasi va variant effektlarini fazoviy-vaqtinchalik AI asosida modellashtirishni amalga oshirdi. Bu tadqiqot AI'ning tibbiyotdagi imkoniyatlarini ko'rsatadi.</description>
+    <category>tadqiqot</category><category>tibbiyot</category>
+    <media:content url="https://ailenta.uz/og/ai-inson-miyasi-gen-regulyatsiyasini-modellashtirdi-594ff9.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/ai-inson-miyasi-gen-regulyatsiyasini-modellashtirdi-594ff9.jpg"/>
   </item>
   <item>
     <title>Claude Opus 5.5 Max yordamida &quot;Tree Appreciator&quot; o'yini yaratildi</title>
@@ -296,16 +306,6 @@
     <category>tadqiqot</category><category>siyosat</category>
     <media:content url="https://ailenta.uz/og/xitoyda-ai-tadqiqotlari-jadal-rivojlanmoqda-88b09b.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/xitoyda-ai-tadqiqotlari-jadal-rivojlanmoqda-88b09b.jpg"/>
-  </item>
-  <item>
-    <title>KV-kash transporti MiniMax-M3 xulosa chiqarishga ta'siri</title>
-    <link>https://ailenta.uz/x/kv-kash-transporti-minimax-m3-xulosa-chiqarishga-tasiri-6e3143/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/kv-kash-transporti-minimax-m3-xulosa-chiqarishga-tasiri-6e3143/</guid>
-    <pubDate>Tue, 13 Oct 2026 21:29:50 GMT</pubDate>
-    <description>Habr nashrida KV-kash transportining ajratilgan xulosa chiqarish (disaggregated inference) samaradorligiga ta'siri o'rganildi. Tadqiqotda prefill va decode bosqichlari turli GPU-tugunlarda bajariladigan MiniMax-M3 modelining ishlashi Nvidia B200 chiplari yordamida sinovdan o'tkazildi.</description>
-    <category>tadqiqot</category><category>chiplar</category>
-    <media:content url="https://ailenta.uz/og/kv-kash-transporti-minimax-m3-xulosa-chiqarishga-tasiri-6e3143.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/kv-kash-transporti-minimax-m3-xulosa-chiqarishga-tasiri-6e3143.jpg"/>
   </item>
 </channel>
 </rss>
