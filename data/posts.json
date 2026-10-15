@@ -1,5 +1,26 @@
 [
   {
+    "id": "35dcc9dc8962",
+    "slug": "dobot-robotlar-uchun-vega-7-manipulyatorini-taqdim-etdi-35dcc9",
+    "title": "Dobot robotlar uchun VEGA 7 manipulyatorini taqdim etdi",
+    "summary": "Dobot kompaniyasi jismoniy AI va ikki qo'lli robotlar uchun VEGA 7 manipulyatorini chiqardi. Yangi qurilma 7 kilogrammgacha yuk ko'tarish, 725 millimetr masofaga yetish va 50 000 soatlik nosozliksiz ishlash ko'rsatkichiga ega.",
+    "tags": [
+      "robototexnika"
+    ],
+    "importance": 3,
+    "score": 12.9,
+    "published": "2026-10-14T07:40:14.000Z",
+    "created": "2026-10-15T01:01:31.940Z",
+    "coverage": 1,
+    "source": {
+      "name": "Pandaily",
+      "url": "https://pandaily.com/dobot-vega-7-seven-axis-force-control-arm-embodied-ai-50000-hour-mtbf",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "15182b3efcde",
     "slug": "tadqiqotchilar-1-milliard-foydalanuvchi-zaifligini-topdi-15182b",
     "title": "Tadqiqotchilar 1 milliard foydalanuvchi zaifligini topdi",
