@@ -5,7 +5,7 @@
   <link>https://ailenta.uz/mavzu/ochiq-model/</link>
   <description>&quot;ochiq model&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Thu, 15 Oct 2026 07:09:05 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 15 Oct 2026 07:46:48 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/ochiq-model/rss.xml" rel="self" type="application/rss+xml"/>
   <item>
     <title>LLM'lar ko'p tilli xulosa chiqarishda baholanmoqda</title>
@@ -16,6 +16,16 @@
     <category>tadqiqot</category><category>ochiq model</category>
     <media:content url="https://ailenta.uz/og/llmlar-kop-tilli-xulosa-chiqarishda-baholanmoqda-79beaa.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/llmlar-kop-tilli-xulosa-chiqarishda-baholanmoqda-79beaa.jpg"/>
+  </item>
+  <item>
+    <title>Linus Torvalds Linux kernelini AI yordamida rivojlantirmoqda</title>
+    <link>https://ailenta.uz/x/linus-torvalds-linux-kernelini-ai-yordamida-rivojlantirmoqda-f625b9/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/linus-torvalds-linux-kernelini-ai-yordamida-rivojlantirmoqda-f625b9/</guid>
+    <pubDate>Wed, 14 Oct 2026 19:32:31 GMT</pubDate>
+    <description>Linux yaratuvchisi Linus Torvalds Linux kernelini ishlab chiqishda sun'iy intellektdan foydalanishni boshladi. Bu yangilik ochiq kodli dasturiy ta'minot sohasida muhim qadam hisoblanadi.</description>
+    <category>tadqiqot</category><category>ochiq model</category>
+    <media:content url="https://ailenta.uz/og/linus-torvalds-linux-kernelini-ai-yordamida-rivojlantirmoqda-f625b9.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/linus-torvalds-linux-kernelini-ai-yordamida-rivojlantirmoqda-f625b9.jpg"/>
   </item>
   <item>
     <title>AI modelining &quot;harorati&quot; turli syujetlar yaratadi</title>
@@ -296,16 +306,6 @@
     <category>tadqiqot</category><category>ochiq model</category>
     <media:content url="https://ailenta.uz/og/shanxay-ai-laboratoriyasi-atria-dawn-preview-modelini-chiqar-d48fe3.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/shanxay-ai-laboratoriyasi-atria-dawn-preview-modelini-chiqar-d48fe3.jpg"/>
-  </item>
-  <item>
-    <title>IBM Granite Time Series PatchTST-FM-r2 modelini chiqardi</title>
-    <link>https://ailenta.uz/x/ibm-granite-time-series-patchtst-fm-r2-modelini-chiqardi-e8608e/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/ibm-granite-time-series-patchtst-fm-r2-modelini-chiqardi-e8608e/</guid>
-    <pubDate>Wed, 09 Sep 2026 15:36:24 GMT</pubDate>
-    <description>IBM tijorat maqsadlarida foydalanish mumkin bo'lgan litsenziya bilan Granite Time Series PatchTST-FM-r2 modelini taqdim etdi. Bu model vaqt qatorlari tahlili uchun mo'ljallangan.</description>
-    <category>IBM</category><category>ochiq model</category>
-    <media:content url="https://ailenta.uz/og/ibm-granite-time-series-patchtst-fm-r2-modelini-chiqardi-e8608e.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/ibm-granite-time-series-patchtst-fm-r2-modelini-chiqardi-e8608e.jpg"/>
   </item>
 </channel>
 </rss>
