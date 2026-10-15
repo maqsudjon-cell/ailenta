@@ -1,5 +1,81 @@
 [
   {
+    "id": "41587dd5577f",
+    "slug": "robotlarni-inson-ishi-boyicha-oqitish-41587d",
+    "title": "Robotlarni inson ishi bo'yicha o'qitish",
+    "summary": "Minglab ishchilar robotlar uchun o'quv ma'lumotlarini yaratish maqsadida kundalik vazifalarni yozib olmoqda. Bu robotlar zavodlarda, uylarda va hatto urushlarda ishlashi mumkin.",
+    "tags": [
+      "robototexnika",
+      "mehnat bozori"
+    ],
+    "importance": 4,
+    "score": 24,
+    "published": "2026-10-15T10:00:01.000Z",
+    "created": "2026-10-15T11:01:54.635Z",
+    "coverage": 2,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/ai-companies-human-workers-robot-training-data-2026-10",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "Exchange4Media",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMWYyWEEyMDhQRzdaNDdLbTZHUjZScVlNNkJpTzR3M3RLeHBlRFVlZm5VNEwyYnJQSDBMdFJUcE5maHNTZFRVUWY0QWRpbURieDFFd2pRZFNTZFhVN1FRVXlSUk9NMENxVVJsOTU5cFBjTzBjMVNqeHFPMkVKelJCUDJMN1NGUXZJVjh5WW94b3VZMzhmVnhCNjU5d0l3WFBfM2dPN000NTh3RVNqUV9vV2M0NA"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "c09473ae1d51",
+    "slug": "bytedance-mediatekdan-maxsus-ai-chiplari-sotib-olmoqda-c09473",
+    "title": "ByteDance MediaTek'dan maxsus AI chiplari sotib olmoqda",
+    "summary": "Bloomberg xabariga ko'ra, ByteDance MediaTek kompaniyasidan ma'lumot markazlari uchun maxsus AI chiplarini sotib olish bo'yicha muzokaralarni yakunlamoqda. Bu kelishuv ByteDance'ni MediaTek'ning ikkinchi yirik mijoziga aylantirishi mumkin.",
+    "tags": [
+      "ByteDance",
+      "MediaTek"
+    ],
+    "importance": 4,
+    "score": 24,
+    "published": "2026-10-15T06:38:40.000Z",
+    "created": "2026-10-15T11:01:54.635Z",
+    "coverage": 2,
+    "source": {
+      "name": "TechNode",
+      "url": "https://technode.com/2026/10/15/bytedance-nears-deal-to-buy-mediateks-custom-ai-chips-for-data-centers",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "BigGo Finance",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE52STdYMzdQZFV2M2FKQk02Ym1WMkZ0YTJEa3hRR3RVRG9LSU5FRHp0VndIRVhWdlBHQ2ctZjlpZkJLNjlwdENNZmVvT1I1X1F6M3F0SEx1aEJBeGRybTJnSURTRmFhU19tZWhmQ3NTalRzb3FfWWc"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "256b929792d5",
+    "slug": "openai-xodimi-yashirin-yozuv-qurilmasi-uchun-hibsga-olindi-256b92",
+    "title": "OpenAI xodimi yashirin yozuv qurilmasi uchun hibsga olindi",
+    "summary": "OpenAI xodimi Abdulrahman Alfozan kompaniyada yashirin yozuv qurilmasidan foydalanganlikda gumonlanib, 9-oktabrda hibsga olindi. U 12-oktabrga Saudiya Arabistoniga bir tomonlama chipta bron qilgan edi.",
+    "tags": [
+      "OpenAI",
+      "xavfsizlik"
+    ],
+    "importance": 4,
+    "score": 18,
+    "published": "2026-10-15T09:55:03.000Z",
+    "created": "2026-10-15T11:01:54.635Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/261015/p12",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "35e95902f79d",
     "slug": "call-markazlarda-bandlik-5-3-foizga-kamaydi-35e959",
     "title": "Call-markazlarda bandlik 5,3 foizga kamaydi",
