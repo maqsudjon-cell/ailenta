@@ -1,5 +1,68 @@
 [
   {
+    "id": "35e95902f79d",
+    "slug": "call-markazlarda-bandlik-5-3-foizga-kamaydi-35e959",
+    "title": "Call-markazlarda bandlik 5,3 foizga kamaydi",
+    "summary": "Revelio Labs tahliliga ko‘ra, dunyo bo‘yicha call-markazlardagi bandlik 2023-yil dekabridagi eng yuqori darajadan 5,3 foizga kamaygan. Sun’iy intellekt rivojlanishi tufayli sohadagi ish o‘rinlari tendensiyasi o‘zgara boshlagan.",
+    "tags": [
+      "mehnat bozori"
+    ],
+    "importance": 3,
+    "score": 48,
+    "published": "2026-10-15T09:34:56.000Z",
+    "created": "2026-10-15T10:01:43.417Z",
+    "coverage": 1,
+    "source": {
+      "name": "Pivot",
+      "url": "https://pivot.uz/uz/ai-dunyo-boyicha-ish-orinlarining-40-foiziga-tasir-qilishi-mumkin",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "0d5dd9f63929",
+    "slug": "nyu-yorkda-diplomli-yoshlar-ish-topishda-qiynalmoqda-0d5dd9",
+    "title": "Nyu-Yorkda diplomli yoshlar ish topishda qiynalmoqda",
+    "summary": "Nyu-Yorkda oliy ma'lumotli yoshlar diplomga ega bo'lmaganlar kabi mehnat bozorida qiyinchiliklarga duch kelmoqda. Tahlillarga ko'ra, buning sababi sun'iy intellekt texnologiyalari bo'lishi mumkin.",
+    "tags": [
+      "mehnat bozori"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-10-15T09:00:01.000Z",
+    "created": "2026-10-15T10:01:43.417Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/unemployment-new-york-college-degree-2026-10",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "c14c4aa25435",
+    "slug": "a16z-b2c-ai-bozori-boyicha-hisobot-elon-qildi-c14c4a",
+    "title": "a16z B2C AI bozori bo'yicha hisobot e'lon qildi",
+    "summary": "a16z venchur fondi B2C sun'iy intellekt bozori holati haqida hisobot e'lon qildi. Unda turli AI ilovalarining veb-trafigi va to'lovlariga oid ma'lumotlar solishtirilgan.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 11,
+    "published": "2026-10-15T09:46:25.000Z",
+    "created": "2026-10-15T10:01:43.417Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1094680",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "63fe548eff90",
     "slug": "britaniya-qirollik-floti-robot-suvosti-kemasini-qurmoqchi-63fe54",
     "title": "Britaniya Qirollik floti robot suvosti kemasini qurmoqchi",
