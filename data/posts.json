@@ -1,5 +1,121 @@
 [
   {
+    "id": "c8912e4e0f16",
+    "slug": "revers-injeneriya-hamjamiyati-ai-sabab-yopildi-c8912e",
+    "title": "Revers-injeneriya hamjamiyati AI sabab yopildi",
+    "summary": "Video o'yinlarni revers-injeneriya qilish hamjamiyati o'z faoliyatini to'xtatdi. Sun'iy intellekt ilgari murakkab bo'lgan dekompilyatsiya jarayonini juda oson bajarayotgani bunga sabab bo'ldi.",
+    "tags": [
+      "tadqiqot",
+      "xavfsizlik"
+    ],
+    "importance": 2,
+    "score": 19,
+    "published": "2026-10-15T16:31:30.000Z",
+    "created": "2026-10-15T21:01:39.450Z",
+    "coverage": 1,
+    "source": {
+      "name": "404 Media",
+      "url": "https://404media.co/video-game-reverse-engineering-community-shuts-down-because-ai-has-made-it-too-easy",
+      "title": "Video Game Reverse Engineering Community Shuts Down Because AI Has Made It Too Easy",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "14076ec96898",
+    "slug": "tsmc-chip-quvvatlari-uchun-raqobat-kuchaymoqda-14076e",
+    "title": "TSMC chip quvvatlari uchun raqobat kuchaymoqda",
+    "summary": "TSMC rekord darajadagi chorakni yakunladi, biroq barcha mijozlar uchun chip yetkazib bera olmayapti. Nvidia, Apple, Broadcom va AMD kompaniyalari uning ishlab chiqarish quvvatlari uchun raqobatlashmoqda.",
+    "tags": [
+      "chiplar",
+      "biznes"
+    ],
+    "importance": 4,
+    "score": 28,
+    "published": "2026-10-15T16:56:07.000Z",
+    "created": "2026-10-15T21:01:49.449Z",
+    "coverage": 2,
+    "source": {
+      "name": "CNBC",
+      "url": "https://cnbc.com/2026/10/15/nvidia-apple-broadcom-in-fierce-battle-to-make-chips-at-tsmc.html",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "CNBC",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcTFFbGhXV2lUQmRUM2o1WWtweGVWa1VZQThOY3dTaTNkZFppb1I0cGd5eDcxSVpMWVRJVG5IN1JCOGJZQkJOcVIyY09ya0Q0X3FMaFh1dDh0T1lRSTNnNHpCVHhLSWNxMW9XM1RnaVhOV2RJWGJ5UVU4VjdQZFg2X1hOeG10LS15TS1uMzBfWlBoUjdCSVdWQmZvVkFRd9IBowFBVV95cUxPUkZGUlVRSTZaVDQ5OUtSR0MtV1JuN1NKMi0xbXBENDNfaVNucS1SaG92VDFhalBNNlhfS3VBQnlxOG1wS0t3MVNUQ2pmNnVFR2g5dWlQX05kTEFQay03c09NczIyTlplQXpZcmEzWWpsbHBLSDJvZTQxbGIzam9fM1JFT3ZmQWxJZ05hcDkyQzBuMDMzX3E2aDFMM0NCdzBqT1pZ"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "c0a2e19f9297",
+    "slug": "ai-model-hujayralar-muloqot-tilini-aniqladi-c0a2e1",
+    "title": "AI model hujayralar muloqot tilini aniqladi",
+    "summary": "Yangi hisoblash yondashuvi hujayralarning to'qimalarga birikishi uchun qanday muloqot qilishini ko'rsatib berdi. Bu stvol hujayralari muhandisligini tezlashtirish va kasalliklar modellarini yaxshilashga xizmat qiladi.",
+    "tags": [
+      "tibbiyot",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 22,
+    "published": "2026-10-15T20:50:00.000Z",
+    "created": "2026-10-15T21:01:49.449Z",
+    "coverage": 1,
+    "source": {
+      "name": "MIT News",
+      "url": "https://news.mit.edu/2026/ai-model-decodes-language-cells-use-communicate-1015",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "909f8b74e661",
+    "slug": "coreweave-kredit-svoplari-xavfli-darajaga-yetdi-909f8b",
+    "title": "CoreWeave kredit svoplari xavfli darajaga yetdi",
+    "summary": "CoreWeave kompaniyasining kredit defolt svoplari inqirozli darajaga tushdi. Sarmoyadorlarning sun'iy intellekt sohasi qarzlari bo'yicha xavotirlari ortib bormoqda.",
+    "tags": [
+      "iqtisod",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-10-15T20:18:02.000Z",
+    "created": "2026-10-15T21:01:49.449Z",
+    "coverage": 1,
+    "source": {
+      "name": "CNBC",
+      "url": "https://cnbc.com/2026/10/15/coreweave-credit-default-swaps-hit-distress-levels-as-investors-sour-on-ai-debt.html",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "2aae0501d409",
+    "slug": "aqshda-malumot-markazlari-huquqshunoslariga-talab-oshdi-2aae05",
+    "title": "AQShda ma'lumot markazlari huquqshunoslariga talab oshdi",
+    "summary": "AQShning eng yirik 200 ta yuridik firmasi bu yil ma'lumot markazlari bo'yicha 300 ga yaqin huquqshunosni ishga olishni rejalashtirmoqda. Bu o'tgan yilgiga nisbatan 21 foizga ko'p.",
+    "tags": [
+      "mehnat bozori",
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 19,
+    "published": "2026-10-15T12:38:45.000Z",
+    "created": "2026-10-15T21:01:49.449Z",
+    "coverage": 1,
+    "source": {
+      "name": "Semafor",
+      "url": "https://semafor.com/article/10/15/2026/big-law-talent-battle-for-data-center-expertise-moves-south",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "371043c4bb16",
     "slug": "xitoyda-to-rt-metrlik-gigant-robot-namoyish-etildi-371043",
     "title": "Xitoyda to‘rt metrlik gigant robot namoyish etildi",
