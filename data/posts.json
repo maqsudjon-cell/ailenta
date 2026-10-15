@@ -1,5 +1,135 @@
 [
   {
+    "id": "63fe548eff90",
+    "slug": "britaniya-qirollik-floti-robot-suvosti-kemasini-qurmoqchi-63fe54",
+    "title": "Britaniya Qirollik floti robot suvosti kemasini qurmoqchi",
+    "summary": "Buyuk Britaniya Qirollik floti Type 93 robot suvosti kemasini qurish uchun yetkazib beruvchilarni izlamoqda. Dastlabki e'longa ko'ra, suv osti apparatlari va AI dasturchilari jalb qilinadi.",
+    "tags": [
+      "robototexnika"
+    ],
+    "importance": 3,
+    "score": 22,
+    "published": "2026-10-15T08:30:00.000Z",
+    "created": "2026-10-15T09:36:56.047Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/offbeat/2026/10/15/royal-navy-goes-fishing-for-suppliers-to-build-its-type-93-robot-submarine/5303038",
+      "title": "Royal Navy goes fishing for suppliers to build its Type 93 robot submarine",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "12ec601c66e7",
+    "slug": "ota-onalar-tarbiyada-ai-ilovalaridan-foydalanmoqda-12ec60",
+    "title": "Ota-onalar tarbiyada AI ilovalaridan foydalanmoqda",
+    "summary": "Xavflarga qaramay, oilalar bolalarni tarbiyalashdagi ma'muriy vazifalarni bajarish uchun AI botlari va agentlaridan foydalanmoqda. Ota-onalar ushbu texnologiyalarga tobora ko'proq murojaat qilmoqda.",
+    "tags": [
+      "agentlar"
+    ],
+    "importance": 3,
+    "score": 27,
+    "published": "2026-10-15T09:02:14.000Z",
+    "created": "2026-10-15T09:37:15.970Z",
+    "coverage": 1,
+    "source": {
+      "name": "The New York Times",
+      "url": "https://nytimes.com/2026/10/15/style/ai-parenting-motherhood-ollie-fambot.html",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "8ee696bd0740",
+    "slug": "ftc-ai-gigantlaridan-xavfsizlik-hujjatlarini-talab-qildi-8ee696",
+    "title": "FTC AI gigantlaridan xavfsizlik hujjatlarini talab qildi",
+    "summary": "AQSH Federal savdo komissiyasi so'nggi xavfsizlik hodisalari yuzasidan AI gigantlariga so'rov yubordi. Idora kompaniyalardan tegishli hujjatlarni taqdim etishni talab qildi.",
+    "tags": [
+      "xavfsizlik",
+      "qonun"
+    ],
+    "importance": 4,
+    "score": 23,
+    "published": "2026-10-15T09:01:58.000Z",
+    "created": "2026-10-15T09:37:15.970Z",
+    "coverage": 1,
+    "source": {
+      "name": "Axios",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPYjhiN3cyd3BLTEFKVUhHVEVLWU1RdlBUU2dvVEdWb1JaN3UyU0JfV2I4Qnl4ZWFlcFJsU1J1aW1DR3dvT3E1bnkxemE0R05JT3lRWG41UEo2Nmw1NXg5NER3dDg4SXgwd19mNndCV0xFbFlodVM2TDNRUFpjWE9lV2F3Zw",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "2d4f59422add",
+    "slug": "meta-malumot-markazlari-kreditlari-kongressda-korilmoqda-2d4f59",
+    "title": "Meta ma'lumot markazlari kreditlari Kongressda ko'rilmoqda",
+    "summary": "Meta ma'lumot markazlari kreditlari AQSH Kongressi diqqat markaziga tushdi. Bu saylovchilarning AI infratuzilmasi kengayishiga bo'lgan e'tirozlariga javob bo'ldi.",
+    "tags": [
+      "Meta",
+      "siyosat"
+    ],
+    "importance": 3,
+    "score": 22,
+    "published": "2026-10-15T08:56:22.000Z",
+    "created": "2026-10-15T09:37:15.970Z",
+    "coverage": 1,
+    "source": {
+      "name": "Semafor",
+      "url": "https://semafor.com/article/10/15/2026/meta-data-center-credits-draw-congressional-scrutiny",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "0dc5811b5091",
+    "slug": "inovance-zavodlar-uchun-inobot-w1-robotini-taqdim-etdi-0dc581",
+    "title": "Inovance zavodlar uchun InoBot W1 robotini taqdim etdi",
+    "summary": "Inovance kompaniyasi zavod smenalari uchun InoBot W1 gildirakli gumanoid robotini namoyish qildi. Qurilma suyuqlik bilan sovutiladigan tizim va 10 soatlik batareya bilan jihozlangan.",
+    "tags": [
+      "robototexnika"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-10-15T07:50:24.000Z",
+    "created": "2026-10-15T09:37:15.970Z",
+    "coverage": 1,
+    "source": {
+      "name": "Pandaily",
+      "url": "https://pandaily.com/inovance-inobot-w1-liquid-cooled-wheeled-industrial-humanoid-robot-ciif-2026",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "3d93edd2c6bd",
+    "slug": "jensen-huang-tsmc-asoschisi-bilan-boglanish-haqida-gapirdi-3d93ed",
+    "title": "Jensen Huang TSMC asoschisi bilan bog'lanish haqida gapirdi",
+    "summary": "Nvidia rahbari Jensen Huang TSMC asoschisi bilan bog'lanish uchun sariq sahifalar telefon kitobidan foydalanganini aytdi. TSMC kompaniyasi Nvidia uchun ilg'or AI chiplarini ishlab chiqaradi.",
+    "tags": [
+      "Nvidia",
+      "chiplar"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-10-15T06:18:50.000Z",
+    "created": "2026-10-15T09:37:15.970Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/jensen-huang-nvidia-tsmc-morris-chang-cold-calls-ai-chips-2026-10",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "bdb5f9d6d099",
     "slug": "professor-eric-so-ai-va-inson-miyasi-ozaro-tasirini-organmoq-bdb5f9",
     "title": "Professor Eric So AI va inson miyasi o'zaro ta'sirini o'rganmoqda",
