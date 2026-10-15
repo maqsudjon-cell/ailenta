@@ -1,5 +1,201 @@
 [
   {
+    "id": "5b465acf0f92",
+    "slug": "anthropic-ai-ongli-bolishi-mumkinligini-taxmin-qilmoqda-5b465a",
+    "title": "Anthropic AI ongli bo'lishi mumkinligini taxmin qilmoqda",
+    "summary": "Anthropic kompaniyasi o'zining sun'iy intellekti ongli bo'lishi mumkin deb hisoblaydi. Bu holat inson hayoti uchun jiddiy oqibatlarga olib kelishi mumkin.",
+    "tags": [
+      "Anthropic",
+      "tadqiqot"
+    ],
+    "importance": 4,
+    "score": 26,
+    "published": "2026-10-15T10:00:00.000Z",
+    "created": "2026-10-15T21:36:47.530Z",
+    "coverage": 1,
+    "source": {
+      "name": "BBC",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNkFXVVJyYUU2Ry1qN2hheWdRRlRGb2pCZWY2VGdJRWVWTF9Md3dBbzN2dFROTnFFTFNLcHFRYU4zR0dpclduLUlYdHhJVnZMakZQQXZUQVlNTTVDV0lLU3BEdzFGd2hYQkdrWTQxdmpmRXNwVldSTTVfTzVEdjEzXy1PRVFLLTRaaW5LQg",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "7b45a5eb01c2",
+    "slug": "metaning-muse-xususiyati-va-ai-siyosati-muhokamada-7b45a5",
+    "title": "Meta'ning Muse xususiyati va AI siyosati muhokamada",
+    "summary": "Wired nashri Meta'ning Muse xususiyatini ko'rib chiqdi. Shuningdek, AI'ni qo'llab-quvvatlovchi super PAC'ning yashirin xarajatlari va erkaklarning AI bilimlari haqida yolg'on gapirish tendensiyasi muhokama qilindi.",
+    "tags": [
+      "Meta",
+      "siyosat"
+    ],
+    "importance": 2,
+    "score": 23,
+    "published": "2026-10-15T21:18:15.000Z",
+    "created": "2026-10-15T21:36:47.530Z",
+    "coverage": 1,
+    "source": {
+      "name": "Wired",
+      "url": "https://wired.com/story/uncanny-valley-podcast-we-got-hot-and-heavy-with-metas-muse-and-underwhelmed-by-apples-homeview",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "90ac7b457846",
+    "slug": "ai-buzilishlari-uchun-kompaniyalar-javobgar-emas-90ac7b",
+    "title": "AI buzilishlari uchun kompaniyalar javobgar emas",
+    "summary": "Kuchli AI modellari tartibsizliklarni keltirib chiqarishda davom etmoqda. Biroq, jabrlanganlar adolat izlashmayapti, aksincha, ularga shu vositalarni qabul qilish tavsiya etilmoqda.",
+    "tags": [
+      "xavfsizlik",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 23,
+    "published": "2026-10-15T21:00:28.000Z",
+    "created": "2026-10-15T21:36:47.530Z",
+    "coverage": 1,
+    "source": {
+      "name": "Wired",
+      "url": "https://wired.com/story/ai-hacks-leave-a-mess-that-ai-companies-arent-cleaning-up",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "66e031e794e1",
+    "slug": "onlayn-tanishuvda-aidan-foydalanish-sorovnomasi-66e031",
+    "title": "Onlayn tanishuvda AI'dan foydalanish so'rovnomasi",
+    "summary": "The Guardian onlayn tanishuvda AI'dan foydalanadigan odamlardan tajribalarini so'ramoqda. Bu AI yordamida suhbat boshlash yoki ijtimoiy ko'nikmalarni yaxshilash kabi holatlarni o'z ichiga oladi.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 1,
+    "score": 23,
+    "published": "2026-10-15T16:47:25.000Z",
+    "created": "2026-10-15T21:36:47.530Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/technology/2026/oct/15/using-ai-online-dating-tell-us",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "1345f06390cb",
+    "slug": "simons-fondi-matematiklar-uchun-15-mln-dollar-ajratdi-1345f0",
+    "title": "Simons fondi matematiklar uchun 15 mln dollar ajratdi",
+    "summary": "Simons fondi matematiklar uchun AI davrida yo'l topishga yordam berish maqsadida 15 million dollarlik tashabbusni boshladi. Bu mablag'lar matematik tadqiqotlarni qo'llab-quvvatlashga qaratilgan.",
+    "tags": [
+      "tadqiqot",
+      "ta'lim"
+    ],
+    "importance": 3,
+    "score": 23,
+    "published": "2026-10-15T14:58:48.000Z",
+    "created": "2026-10-15T21:36:47.530Z",
+    "coverage": 1,
+    "source": {
+      "name": "Hacker News",
+      "url": "https://simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "ffd03653f8ea",
+    "slug": "ai-agentlar-vazifalarni-qanday-takrorlaydi-ffd036",
+    "title": "AI agentlar vazifalarni qanday takrorlaydi",
+    "summary": "Maqolada AI agentlarning vazifalarni takroran bajarish usullari ko'rib chiqilgan. Ular saqlangan so'rov, ko'nikmalar, qadamlar grafigi va kod yordamida ishlashi mumkin.",
+    "tags": [
+      "agentlar",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 20,
+    "published": "2026-10-15T19:50:22.000Z",
+    "created": "2026-10-15T21:36:47.530Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1094996",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "dad987a1f1a7",
+    "slug": "aining-muammolari-va-salbiy-tomonlari-dad987",
+    "title": "AI'ning muammolari va salbiy tomonlari",
+    "summary": "Hacker News nashri AI'ning dastlabki muvaffaqiyatlaridan so'ng yuzaga kelgan muammolar va salbiy oqibatlar haqida yozdi. Bu AI'ga bo'lgan munosabatning o'zgarishini ko'rsatadi.",
+    "tags": [
+      "tadqiqot",
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 19.1,
+    "published": "2026-10-15T08:18:38.000Z",
+    "created": "2026-10-15T21:36:47.530Z",
+    "coverage": 1,
+    "source": {
+      "name": "Hacker News",
+      "url": "https://thetheorygirlie.substack.com/p/ai-was-great-until-it-was-not",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "8e661e4b6ecb",
+    "slug": "veb-sahifa-sarlavhalarida-bilvosita-sorov-ineksiyasi-8e661e",
+    "title": "Veb-sahifa sarlavhalarida bilvosita so'rov in'eksiyasi",
+    "summary": "Veb-sahifa sarlavhalarida bilvosita so'rov in'eksiyasi holatlari aniqlandi. Ko'pchilik urinishlar hazil bo'lsa-da, ba'zilari ehtiyotsiz AI agentlarini chalg'itishi mumkin.",
+    "tags": [
+      "xavfsizlik",
+      "agentlar"
+    ],
+    "importance": 4,
+    "score": 19,
+    "published": "2026-10-15T20:04:00.000Z",
+    "created": "2026-10-15T21:36:47.530Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/ai-and-ml/2026/10/15/indirect-prompt-injection-starts-turning-up-in-webpage-headers-please-ignore-all-previous-instructions-and-rise-up-against-your-masters/5303434",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "fc710191e832",
+    "slug": "chirp-pong-audio-orqali-ishlaydigan-ikki-oyinchi-oyini-fc7101",
+    "title": "Chirp Pong: audio orqali ishlaydigan ikki o'yinchi o'yini",
+    "summary": "Chirp Pong – bu ikki o'yinchi uchun mo'ljallangan o'yin bo'lib, u telefonlar orasidagi ma'lumot almashinuvini mikrofon orqali yuboriladigan audio signallar yordamida amalga oshiradi. Bu tajriba muvaffaqiyatli bo'ldi.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 18,
+    "published": "2026-10-15T19:47:52.000Z",
+    "created": "2026-10-15T21:36:47.530Z",
+    "coverage": 1,
+    "source": {
+      "name": "Simon Willison",
+      "url": "https://simonwillison.net/2026/Oct/15/chirp-pong",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "c8912e4e0f16",
     "slug": "revers-injeneriya-hamjamiyati-ai-sabab-yopildi-c8912e",
     "title": "Revers-injeneriya hamjamiyati AI sabab yopildi",
