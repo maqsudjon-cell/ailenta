@@ -1,5 +1,113 @@
 [
   {
+    "id": "aa4842cd5278",
+    "slug": "bank-xodimi-firibgarlik-guruhiga-yordam-berganlikda-gumonlan-aa4842",
+    "title": "Bank xodimi firibgarlik guruhiga yordam berganlikda gumonlanmoqda",
+    "summary": "Toshkentda fuqarolar nomiga onlayn kreditlar rasmiylashtirib, pullarni o'zlashtirgan guruh faoliyatiga chek qo'yildi. 8 million dollarlik firibgarlikda gumonlanayotganlar orasida bank bosh ofisi kiberxavfsizlik xodimi ham bor.",
+    "tags": [
+      "xavfsizlik",
+      "O'zbekiston"
+    ],
+    "importance": 3,
+    "score": 45,
+    "published": "2026-10-15T03:55:59.000Z",
+    "created": "2026-10-15T05:01:11.878Z",
+    "coverage": 1,
+    "source": {
+      "name": "Kun.uz",
+      "url": "https://kun.uz/news/2026/10/15/8-million-dollarlik-firibgarlikda-bankning-kiberxavfsizlik-xodimi-ham-qatnashgani-aytilmoqda",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "bc6f89dbf720",
+    "slug": "ish-joylarida-ai-nazorat-tizimlari-keng-tarqalmoqda-bc6f89",
+    "title": "Ish joylarida AI nazorat tizimlari keng tarqalmoqda",
+    "summary": "Ish beruvchilar xodimlarning faoliyati va mahsuldorligini daqiqama-daqiqa monitoring qilishda AI tizimlaridan foydalanmoqda. Katta hajmdagi ma'lumotlarni qayta ishlovchi ushbu tizimlar ishchilarda yuqori darajadagi stressni keltirib chiqarmoqda.",
+    "tags": [
+      "mehnat bozori"
+    ],
+    "importance": 2,
+    "score": 23,
+    "published": "2026-10-15T04:00:21.000Z",
+    "created": "2026-10-15T05:01:11.878Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/science/audio/2026/oct/15/is-your-boss-watching-you-the-rise-of-ai-surveillance-at-work-podcast",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "a75115fe5cc6",
+    "slug": "britaniya-biznes-banki-oltita-ai-fondiga-180-mln-funt-kiritd-a75115",
+    "title": "Britaniya biznes banki oltita AI fondiga 180 mln funt kiritdi",
+    "summary": "British Business Bank sun'iy intellekt sohasidagi oltita fondga 180 million funt sterling ajratdi. Ular orasida Evantic va EF fondlari ham bor.",
+    "tags": [
+      "biznes",
+      "iqtisod"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-10-15T05:00:58.000Z",
+    "created": "2026-10-15T05:01:11.878Z",
+    "coverage": 1,
+    "source": {
+      "name": "Sifted",
+      "url": "https://sifted.eu/articles/british-business-bank-180m-vc-firms",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "a903beba634a",
+    "slug": "osiyo-chip-ishlab-chiqaruvchilari-aksiyalari-keskin-tushdi-a903be",
+    "title": "Osiyo chip ishlab chiqaruvchilari aksiyalari keskin tushdi",
+    "summary": "AQSH Federal zaxira tizimi stavkalari va AI moliyalashtiruvi bo'yicha xavotirlar ortidan Osiyo chip ishlab chiqaruvchilari qimmatli qog'ozlari arzonlashdi. KRX birjasida SK Hynix aksiyalari 10 foizdan ko'proq, Samsung esa qariyb 10 foizga pasaydi.",
+    "tags": [
+      "chiplar",
+      "iqtisod"
+    ],
+    "importance": 4,
+    "score": 15,
+    "published": "2026-10-15T04:05:01.000Z",
+    "created": "2026-10-15T05:01:11.878Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/261015/p1",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "da0f0f087af6",
+    "slug": "llm-modellarini-oqitish-uchun-teskari-mulohaza-usuli-taklif--da0f0f",
+    "title": "LLM modellarini o'qitish uchun teskari mulohaza usuli taklif etildi",
+    "summary": "Tadqiqotchilar faqat yakuniy javoblardan iborat ma'lumotlar bilan mantiqiy modellarni samarali o'qitish usulini ishlab chiqdi. Yangi yondashuv nazorat ostida moslashtirish va mustahkamlovchi o'rganishdagi hisoblash xarajatlarini kamaytirishga qaratilgan.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 10,
+    "published": "2026-10-15T04:00:00.000Z",
+    "created": "2026-10-15T05:01:11.878Z",
+    "coverage": 1,
+    "source": {
+      "name": "arXiv cs.LG",
+      "url": "https://arxiv.org/abs/2610.18878",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "b517b2624d26",
     "slug": "apple-xitoyda-alibaba-aili-buklama-smartfonini-chiqaradi-b517b2",
     "title": "Apple Xitoyda Alibaba AI'li buklama smartfonini chiqaradi",
