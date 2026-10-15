@@ -5,8 +5,28 @@
   <link>https://ailenta.uz/mavzu/tadqiqot/</link>
   <description>&quot;tadqiqot&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Thu, 15 Oct 2026 03:44:19 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 15 Oct 2026 04:09:04 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/tadqiqot/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>LLM'lar ko'p tilli xulosa chiqarishda baholanmoqda</title>
+    <link>https://ailenta.uz/x/llmlar-kop-tilli-xulosa-chiqarishda-baholanmoqda-79beaa/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/llmlar-kop-tilli-xulosa-chiqarishda-baholanmoqda-79beaa/</guid>
+    <pubDate>Thu, 15 Oct 2026 04:00:00 GMT</pubDate>
+    <description>Tadqiqotchilar katta til modellarining ko'p tilli xulosa chiqarish qobiliyatini baholadi. Ingliz va bengal tillarida sakkizta LLM sinovdan o'tkazilib, lingvistik sifat va faktik izchillik tahlil qilindi.</description>
+    <category>tadqiqot</category><category>ochiq model</category>
+    <media:content url="https://ailenta.uz/og/llmlar-kop-tilli-xulosa-chiqarishda-baholanmoqda-79beaa.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/llmlar-kop-tilli-xulosa-chiqarishda-baholanmoqda-79beaa.jpg"/>
+  </item>
+  <item>
+    <title>Agentli ma'lumotlar fanidagi yashirin kamchiliklar</title>
+    <link>https://ailenta.uz/x/agentli-malumotlar-fanidagi-yashirin-kamchiliklar-574863/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/agentli-malumotlar-fanidagi-yashirin-kamchiliklar-574863/</guid>
+    <pubDate>Thu, 15 Oct 2026 04:00:00 GMT</pubDate>
+    <description>Katta til modellari kod yozish to'siqlarini kamaytirib, ma'lumotlar fanida agentlarni rivojlantirdi. Biroq, tadqiqotlar agentli ma'lumotlar fanining mavjud baholashlari metodologik tamoyillarni e'tibordan chetda qoldirayotganini ko'rsatmoqda.</description>
+    <category>tadqiqot</category><category>agentlar</category>
+    <media:content url="https://ailenta.uz/og/agentli-malumotlar-fanidagi-yashirin-kamchiliklar-574863.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/agentli-malumotlar-fanidagi-yashirin-kamchiliklar-574863.jpg"/>
+  </item>
   <item>
     <title>Claude Opus 5.5 Max yordamida &quot;Tree Appreciator&quot; o'yini yaratildi</title>
     <link>https://ailenta.uz/x/claude-opus-5-5-max-yordamida-tree-appreciator-oyini-yaratil-2c3ce0/</link>
@@ -286,26 +306,6 @@
     <category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/ai-sinov-toplamlarining-yarimparchalanish-davri-qisqardi-0c45f0.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/ai-sinov-toplamlarining-yarimparchalanish-davri-qisqardi-0c45f0.jpg"/>
-  </item>
-  <item>
-    <title>G'arb matematiklari AI dan xavotirda, Xitoy esa ittifoq tuzmoqda</title>
-    <link>https://ailenta.uz/x/garb-matematiklari-ai-dan-xavotirda-xitoy-esa-ittifoq-tuzmoq-fea6e7/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/garb-matematiklari-ai-dan-xavotirda-xitoy-esa-ittifoq-tuzmoq-fea6e7/</guid>
-    <pubDate>Tue, 13 Oct 2026 14:37:53 GMT</pubDate>
-    <description>G'arbda 25 nafar Fields medali sovrindori AI tomonidan yaratilgan isbotlardan ogohlantirmoqda. Shu bilan birga, Xitoyda 1000 dan ortiq olim va sakkizta muassasadan iborat ittifoq AI ni matematika tadqiqotlariga joriy etishni maqsad qilgan.</description>
-    <category>tadqiqot</category><category>siyosat</category>
-    <media:content url="https://ailenta.uz/og/garb-matematiklari-ai-dan-xavotirda-xitoy-esa-ittifoq-tuzmoq-fea6e7.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/garb-matematiklari-ai-dan-xavotirda-xitoy-esa-ittifoq-tuzmoq-fea6e7.jpg"/>
-  </item>
-  <item>
-    <title>NetBSD AI'siz FOSS OS sifatida yangi rol topdi</title>
-    <link>https://ailenta.uz/x/netbsd-aisiz-foss-os-sifatida-yangi-rol-topdi-ec003e/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/netbsd-aisiz-foss-os-sifatida-yangi-rol-topdi-ec003e/</guid>
-    <pubDate>Tue, 13 Oct 2026 14:15:00 GMT</pubDate>
-    <description>NetBSD operatsion tizimi &quot;AI'siz ochiq kodli OS&quot; sifatida yangi rol topdi. Bu uning tan olinishini, qabul qilinishini va xayriya mablag'larini oshirishga olib kelmoqda.</description>
-    <category>ochiq model</category><category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/netbsd-aisiz-foss-os-sifatida-yangi-rol-topdi-ec003e.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/netbsd-aisiz-foss-os-sifatida-yangi-rol-topdi-ec003e.jpg"/>
   </item>
 </channel>
 </rss>
