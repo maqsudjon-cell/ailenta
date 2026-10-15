@@ -1,5 +1,54 @@
 [
   {
+    "id": "a72d1e4da6b0",
+    "slug": "openai-tadqiqotchilar-uchun-gpt-rosalindni-taqdim-etdi-a72d1e",
+    "title": "OpenAI tadqiqotchilar uchun GPT-Rosalind'ni taqdim etdi",
+    "summary": "OpenAI akademik laboratoriyalar uchun Rosalind dasturini e'lon qildi. Dastur hayot haqidagi fanlar bo'yicha tadqiqotlarni rivojlantirish maqsadida GPT-Rosalind modeli va tegishli vositalardan homiylik asosida foydalanish imkonini beradi.",
+    "tags": [
+      "OpenAI",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 33,
+    "published": "2026-10-15T19:00:00.000Z",
+    "created": "2026-10-15T22:01:35.876Z",
+    "coverage": 1,
+    "source": {
+      "name": "OpenAI",
+      "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "b015cd8106bb",
+    "slug": "anthropic-kurashi-daromad-osishini-sekinlashtirmoqda-b015cd",
+    "title": "Anthropic kurashi daromad o'sishini sekinlashtirmoqda",
+    "summary": "Claude modelidan nusxa ko'chirayotgan raqiblarga qarshi choralar Anthropic daromadi o'sishi sekinlashishiga sabab bo'layotgan bo'lishi mumkin. Hozirda mazkur startap IPO'ga tayyorgarlik ko'rmoqda.",
+    "tags": [
+      "Anthropic",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 24,
+    "published": "2026-10-15T19:04:45.000Z",
+    "created": "2026-10-15T22:01:35.876Z",
+    "coverage": 2,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/anthropic-ai-copycats-distillation-revenue-growth-ipo-2026-10",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "Business Insider",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUDRncWh3NTRKcnNpN2xZdjN3Ykkxdnd6OFJESy1lZndubTJraWQzTTA3NlNMZ19oSHUteFFJVW1ydTlNWDVNYnRyWGF5Z0l3VXRLc0ZaWllxUlhVSnpHNHA3aXBQTExKRm1OdlhNcUlMelRCWndHbWhOWkhRQmlqZnNoMFlZWk1RMUY5anMwbkk3ODlMN3ZZSA"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
     "id": "3b0eb15d074f",
     "slug": "anthropic-xavflarni-baholash-uchun-notijorat-tashkilotlar-bi-3b0eb1",
     "title": "Anthropic xavflarni baholash uchun notijorat tashkilotlar bilan hamkorlikda",

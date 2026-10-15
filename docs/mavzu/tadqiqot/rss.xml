@@ -5,7 +5,7 @@
   <link>https://ailenta.uz/mavzu/tadqiqot/</link>
   <description>&quot;tadqiqot&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Thu, 15 Oct 2026 21:57:25 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 15 Oct 2026 22:09:02 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/tadqiqot/rss.xml" rel="self" type="application/rss+xml"/>
   <item>
     <title>AI model hujayralar muloqot tilini aniqladi</title>
@@ -36,6 +36,16 @@
     <category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/chirp-pong-audio-orqali-ishlaydigan-ikki-oyinchi-oyini-fc7101.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/chirp-pong-audio-orqali-ishlaydigan-ikki-oyinchi-oyini-fc7101.jpg"/>
+  </item>
+  <item>
+    <title>OpenAI tadqiqotchilar uchun GPT-Rosalind'ni taqdim etdi</title>
+    <link>https://ailenta.uz/x/openai-tadqiqotchilar-uchun-gpt-rosalindni-taqdim-etdi-a72d1e/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/openai-tadqiqotchilar-uchun-gpt-rosalindni-taqdim-etdi-a72d1e/</guid>
+    <pubDate>Thu, 15 Oct 2026 19:00:00 GMT</pubDate>
+    <description>OpenAI akademik laboratoriyalar uchun Rosalind dasturini e'lon qildi. Dastur hayot haqidagi fanlar bo'yicha tadqiqotlarni rivojlantirish maqsadida GPT-Rosalind modeli va tegishli vositalardan homiylik asosida foydalanish imkonini beradi.</description>
+    <category>OpenAI</category><category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/openai-tadqiqotchilar-uchun-gpt-rosalindni-taqdim-etdi-a72d1e.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/openai-tadqiqotchilar-uchun-gpt-rosalindni-taqdim-etdi-a72d1e.jpg"/>
   </item>
   <item>
     <title>AI'dan eng xavfsiz 25 ta kollej mutaxassisligi aniqlandi</title>
@@ -296,16 +306,6 @@
     <category>tadqiqot</category><category>agentlar</category>
     <media:content url="https://ailenta.uz/og/ai-doppelganger-foydalanuvchiga-nima-yeyishni-maslahat-berad-ea8ee2.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/ai-doppelganger-foydalanuvchiga-nima-yeyishni-maslahat-berad-ea8ee2.jpg"/>
-  </item>
-  <item>
-    <title>Microsoft ob-havo bashoratini yaxshilash uchun AI yaratdi</title>
-    <link>https://ailenta.uz/x/microsoft-ob-havo-bashoratini-yaxshilash-uchun-ai-yaratdi-fe7e3b/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/microsoft-ob-havo-bashoratini-yaxshilash-uchun-ai-yaratdi-fe7e3b/</guid>
-    <pubDate>Wed, 14 Oct 2026 16:05:21 GMT</pubDate>
-    <description>Microsoft tadqiqotchilari ob-havo bashoratini 2-6 hafta oldindan aniqroq qilish uchun yangi mashina o'rganish vositasini ishlab chiqdi. Bu fermerlar va favqulodda vaziyat xizmatlariga yordam beradi.</description>
-    <category>Microsoft</category><category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/microsoft-ob-havo-bashoratini-yaxshilash-uchun-ai-yaratdi-fe7e3b.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/microsoft-ob-havo-bashoratini-yaxshilash-uchun-ai-yaratdi-fe7e3b.jpg"/>
   </item>
 </channel>
 </rss>
