@@ -1,17 +1,17 @@
 [
   {
     "id": "acafffd394bd",
-    "slug": "oq-uy-sobiq-matbuot-kotibi-ai-konchilik-startapiga-boglandi-acafff",
-    "title": "Oq uy sobiq matbuot kotibi AI konchilik startapiga bog'landi",
-    "summary": "Oq uyning sobiq matbuot kotibi Katie Zacharia AI yordamida konchilik bilan shug'ullanuvchi startapga maslahatchi sifatida kiritilgan. Kompaniya va Zacharia uning u yerda hech qachon ishlamaganini ta'kidlamoqda.",
+    "slug": "oq-uy-sobiq-matbuot-kotibi-ai-startapi-bilan-bogliq-acafff",
+    "title": "Oq uy sobiq matbuot kotibi AI startapi bilan bog'liq",
+    "summary": "Oq uyning sobiq matbuot kotibi Katie Zacharia AI yordamida noyob yer elementlarini qazib olishni maqsad qilgan startapga maslahatchi sifatida ko'rsatilgan. Biroq, kompaniya ham, Zacharia ham u yerda hech qachon ishlamaganini ta'kidladi.",
     "tags": [
       "biznes",
       "siyosat"
     ],
-    "importance": 3,
+    "importance": 2,
     "score": 23,
     "published": "2026-10-16T20:05:08.000Z",
-    "created": "2026-10-16T21:28:55.152Z",
+    "created": "2026-10-16T21:38:57.964Z",
     "coverage": 1,
     "source": {
       "name": "Wired",
@@ -23,9 +23,9 @@
   },
   {
     "id": "2425f3153984",
-    "slug": "aqsh-ish-vaqtining-90-ai-sinovlariga-mos-emas-2425f3",
-    "title": "AQSh ish vaqtining 90% AI sinovlariga mos emas",
-    "summary": "AQShdagi ish vaqtining 90 foizi AI sinov to'plamlari yaxshi qamrab olmagan vazifalarga sarflanadi. Bu AI'ning amaliy qo'llanilishi va baholanishi o'rtasidagi farqni ko'rsatadi.",
+    "slug": "aqsh-ish-vaqtining-90-ai-sinovlarida-qamrab-olinmagan-2425f3",
+    "title": "AQSh ish vaqtining 90% AI sinovlarida qamrab olinmagan",
+    "summary": "AQShdagi ish vaqtining 90 foizi sun'iy intellekt sinov to'plamlari tomonidan yaxshi qamrab olinmagan vazifalarga sarflanadi. Bu AI'ning amaliy qo'llanilishi va baholanishi o'rtasidagi tafovutni ko'rsatadi.",
     "tags": [
       "mehnat bozori",
       "tadqiqot"
@@ -33,7 +33,7 @@
     "importance": 3,
     "score": 23,
     "published": "2026-10-16T17:08:38.000Z",
-    "created": "2026-10-16T21:28:55.152Z",
+    "created": "2026-10-16T21:38:57.964Z",
     "coverage": 1,
     "source": {
       "name": "Hacker News",
@@ -44,43 +44,22 @@
     "model": "gemini"
   },
   {
-    "id": "c415b9915f6a",
-    "slug": "anthropic-iyun-oyida-eng-yuqori-junk-reytingini-oldi-c415b9",
-    "title": "Anthropic iyun oyida eng yuqori \"junk\" reytingini oldi",
-    "summary": "Anthropic kompaniyasiga iyun oyida eng yuqori \"junk\" kredit reytingi berildi. Bu kompaniyaning moliyaviy barqarorligi bo'yicha xavotirlarni keltirib chiqarishi mumkin.",
+    "id": "51e23e378b40",
+    "slug": "litgene-genlarni-organish-uchun-yangi-transformer-model-51e23e",
+    "title": "LitGene: genlarni o'rganish uchun yangi transformer model",
+    "summary": "LitGene — bu genlarni vektor tasvirini o'rganish uchun matn va ontologiyani birlashtiruvchi, tushunarli transformer model. Ushbu model Nature jurnalida taqdim etilgan.",
     "tags": [
-      "Anthropic",
-      "biznes"
-    ],
-    "importance": 4,
-    "score": 20.7,
-    "published": "2026-10-16T18:11:42.000Z",
-    "created": "2026-10-16T21:28:55.152Z",
-    "coverage": 1,
-    "source": {
-      "name": "Hacker News",
-      "url": "https://ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d",
-      "indirect": false
-    },
-    "also": [],
-    "model": "gemini"
-  },
-  {
-    "id": "2ad31acafee3",
-    "slug": "ai-menopauza-simptomlarini-aniqlashga-yordam-berishi-mumkin-2ad31a",
-    "title": "AI menopauza simptomlarini aniqlashga yordam berishi mumkin",
-    "summary": "Ayollar menopauza simptomlarini aniqlash uchun ko'pincha besh-olti shifokorga murojaat qiladi. Novartis rahbari AI bu jarayonni soddalashtirib, parchalangan tibbiy yordamni birlashtirishi mumkinligini aytdi.",
-    "tags": [
+      "tadqiqot",
       "tibbiyot"
     ],
     "importance": 3,
-    "score": 19,
-    "published": "2026-10-16T18:47:15.000Z",
-    "created": "2026-10-16T21:28:55.152Z",
+    "score": 22.1,
+    "published": "2026-10-16T00:00:00.000Z",
+    "created": "2026-10-16T21:38:57.964Z",
     "coverage": 1,
     "source": {
-      "name": "Fortune",
-      "url": "https://fortune.com/2026/10/16/menopause-symptoms-ai-connect-dots",
+      "name": "Nature",
+      "url": "https://nature.com/articles/s41467-026-78454-4",
       "indirect": false
     },
     "also": [],
@@ -90,7 +69,7 @@
     "id": "b11861f5bb0a",
     "slug": "yangi-onlayn-vosita-ai-yozgan-yuridik-hujjatlarni-tekshiradi-b11861",
     "title": "Yangi onlayn vosita AI yozgan yuridik hujjatlarni tekshiradi",
-    "summary": "Yangi onlayn vosita advokatlarning AI tomonidan yozilgan yuridik hujjatlaridagi noto'g'ri iqtiboslarni tekshiradi. Bu AI sababli sud hujjatlarida paydo bo'layotgan xatolarning oldini olishga qaratilgan.",
+    "summary": "Advokatlar tomonidan AI yordamida yozilgan hujjatlarda soxta manbalar paydo bo'layotgani sababli, yangi onlayn vosita ulardagi yuridik manbalarni tekshiradi. Bu vosita xatolarni aniqlashga yordam beradi.",
     "tags": [
       "qonun",
       "xavfsizlik"
@@ -98,7 +77,7 @@
     "importance": 3,
     "score": 19,
     "published": "2026-10-16T16:08:35.000Z",
-    "created": "2026-10-16T21:28:55.152Z",
+    "created": "2026-10-16T21:38:57.964Z",
     "coverage": 1,
     "source": {
       "name": "The Register",
@@ -110,9 +89,9 @@
   },
   {
     "id": "e189e6a66736",
-    "slug": "vinod-khosla-ai-sohasida-ishga-qabul-qilmoqda-e189e6",
-    "title": "Vinod Khosla AI sohasida ishga qabul qilmoqda",
-    "summary": "Milliarder venchur kapitalist Vinod Khosla shtab boshlig'ini ishga olmoqda. Bu lavozim Silikon vodiysidagi AI rivojlanishini yaqindan kuzatish imkonini beradi.",
+    "slug": "milliarder-vinod-khosla-ai-sohasida-ishga-taklif-qilmoqda-e189e6",
+    "title": "Milliarder Vinod Khosla AI sohasida ishga taklif qilmoqda",
+    "summary": "Milliarder venchur kapitalist Vinod Khosla o'ziga shtab boshlig'ini ishga olmoqda. Bu lavozim Silikon vodiysidagi AI rivojlanishini yaqindan kuzatish imkoniyatini beradi.",
     "tags": [
       "biznes",
       "mehnat bozori"
@@ -120,7 +99,7 @@
     "importance": 2,
     "score": 15,
     "published": "2026-10-16T16:39:29.000Z",
-    "created": "2026-10-16T21:28:55.152Z",
+    "created": "2026-10-16T21:38:57.964Z",
     "coverage": 1,
     "source": {
       "name": "Business Insider",
@@ -132,9 +111,9 @@
   },
   {
     "id": "bfd4cd96afa0",
-    "slug": "esp32-mikrochipida-matndan-rasm-yaratish-imkoniyati-topildi-bfd4cd",
-    "title": "ESP32 mikrochipida matndan rasm yaratish imkoniyati topildi",
-    "summary": "ESP32-S3 mikrokontrollerida matndan rasm yaratish uchun latent diffuziya transformeri ishga tushirildi. Bu model 512 KB operativ xotira va 240 MGts chastotali ikki yadroga ega chipda 64x64 piksel rasm yaratishga 5,4 soniya sarflaydi.",
+    "slug": "esp32-mikro-boshqaruvchida-matndan-rasm-yaratish-imkoniyati-bfd4cd",
+    "title": "ESP32 mikro boshqaruvchida matndan rasm yaratish imkoniyati",
+    "summary": "Dasturchi ESP32-S3 mikro boshqaruvchisida matndan rasm yaratish uchun latent diffuziya transformerini muvaffaqiyatli ishga tushirdi. Ushbu qurilma 512 KB operativ xotira bilan 64x64 o'lchamdagi rasmni 5,4 soniyada yaratadi.",
     "tags": [
       "chiplar",
       "tadqiqot"
@@ -142,7 +121,7 @@
     "importance": 4,
     "score": 11,
     "published": "2026-10-16T17:59:35.000Z",
-    "created": "2026-10-16T21:28:55.152Z",
+    "created": "2026-10-16T21:38:57.964Z",
     "coverage": 1,
     "source": {
       "name": "Habr",
@@ -153,32 +132,10 @@
     "model": "gemini"
   },
   {
-    "id": "c298e6ce30f3",
-    "slug": "qolga-olinmagan-ai-todasi-jurnalist-savollariga-javob-berdi-c298e6",
-    "title": "Qo'lga olinmagan AI to'dasi jurnalist savollariga javob berdi",
-    "summary": "Futurism nashrining xabar berishicha, \"qo'lga olinmagan AI to'dasi\" jurnalistning savollariga javob bergan. Bu voqea AI'ning kutilmagan xatti-harakatlarini ko'rsatadi.",
-    "tags": [
-      "xavfsizlik",
-      "tadqiqot"
-    ],
-    "importance": 3,
-    "score": 11,
-    "published": "2026-10-16T17:58:48.000Z",
-    "created": "2026-10-16T21:28:55.152Z",
-    "coverage": 1,
-    "source": {
-      "name": "Futurism",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOcWM0M3RWYVZNMHZ2VXIxS2NGaGRXY1BQUTlraUo2ZkNuWmZUdTlwdGVvMVBYTmhkUzR5NURVckMyZnRIbnBDcDY5blNkblNvbDNsS3dwZGl1YTJFdEFTV2w3NXRIbUNsN09LSkZZQkFQZTJ1a1dUcVlhUnJHazJmckxQQVdYZw",
-      "indirect": true
-    },
-    "also": [],
-    "model": "gemini"
-  },
-  {
     "id": "2383e96650b1",
-    "slug": "1c-bilan-ai-integratsiyasi-qayerda-ishlaydi-qayerda-yoq-2383e9",
-    "title": "1C bilan AI integratsiyasi qayerda ishlaydi, qayerda yo'q",
-    "summary": "Habr nashri 1C bilan AI yordamida almashinuvni sozlash qayerda samarali ekanligi va qayerda emasligi haqida tahlil e'lon qildi. Maqolada \"Svyazka\" AI yordamchisi bilan integratsiya imkoniyatlari ko'rib chiqilgan.",
+    "slug": "1c-bilan-ai-yordamida-integratsiya-qayerda-ishlaydi-2383e9",
+    "title": "1C bilan AI yordamida integratsiya qayerda ishlaydi",
+    "summary": "Habr nashrida AI yordamida 1C buxgalteriya dasturi bilan integratsiyaning qaysi holatlarda ishlashi va qaysi holatlarda ishlamasligi tahlil qilindi. Maqolada \"Svyazka\" AI yordamchisi misolida ko'rib chiqilgan.",
     "tags": [
       "biznes",
       "bulut"
@@ -186,7 +143,7 @@
     "importance": 2,
     "score": 11,
     "published": "2026-10-16T15:29:05.000Z",
-    "created": "2026-10-16T21:28:55.152Z",
+    "created": "2026-10-16T21:38:57.964Z",
     "coverage": 1,
     "source": {
       "name": "Habr",
