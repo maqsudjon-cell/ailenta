@@ -1,5 +1,70 @@
 [
   {
+    "id": "b063478ecea9",
+    "slug": "ai-infratuzilmasi-qarz-xarajatlari-investorlarni-xavotirga-s-b06347",
+    "title": "AI infratuzilmasi qarz xarajatlari investorlarni xavotirga soldi",
+    "summary": "Oracle'ning 160 milliard dollarlik qarzi \"junk\" statusidan sal yuqori baholangan. Microsoft'ning AAA reytingli qarzini sug'urtalash uch oy oldingiga nisbatan 25% qimmatlashgan. Bu AI infratuzilmasi qarz xarajatlari oshganini ko'rsatadi.",
+    "tags": [
+      "Microsoft",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-10-16T11:08:06.000Z",
+    "created": "2026-10-16T12:37:10.872Z",
+    "coverage": 1,
+    "source": {
+      "name": "Semafor",
+      "url": "https://semafor.com/article/10/16/2026/ai-infrastructure-debt-costs-soar-amid-investor-concerns",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "c81f3d203f6b",
+    "slug": "neyrosetlarning-matn-yozish-odatlari-organildi-c81f3d",
+    "title": "Neyrosetlarning matn yozish odatlari o'rganildi",
+    "summary": "12 ta neyrosetning 84 ta ishchi matndagi yozish odatlari tahlil qilindi. Gemini 10 ta matndan 9 tasini \"Вот\" so'zi bilan boshlaydi, Kimi va Claude Sonnet esa taklifni yakunlashni taklif qiladi.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 14,
+    "published": "2026-10-16T10:13:46.000Z",
+    "created": "2026-10-16T12:37:10.872Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1095030",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "77b7f29f1098",
+    "slug": "rfc-9421-ai-agentlarini-5-5-barobar-tezlashtirdi-77b7f2",
+    "title": "RFC 9421 AI agentlarini 5,5 barobar tezlashtirdi",
+    "summary": "RFC 9421 standarti va wbauth ochiq protokoli AI agentlarini 5,5 barobar tezlashtirdi. Endi agentlar kriptografik pasportdan foydalanib, sovuq startni 5 ms, so'rovni 15,8 ms va xotira sarfini 0,76 MBgacha kamaytirdi.",
+    "tags": [
+      "agentlar",
+      "tadqiqot"
+    ],
+    "importance": 4,
+    "score": 11,
+    "published": "2026-10-16T11:55:59.000Z",
+    "created": "2026-10-16T12:37:10.872Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1095294",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "e629b6ce2806",
     "slug": "o-zto-qimachiliksanoat-va-lamoda-o-zbek-brendlarini-muhokama-e629b6",
     "title": "O‘zto‘qimachiliksanoat va Lamoda o‘zbek brendlarini muhokama qildi",

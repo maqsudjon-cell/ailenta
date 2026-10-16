@@ -5,8 +5,28 @@
   <link>https://ailenta.uz/mavzu/tadqiqot/</link>
   <description>&quot;tadqiqot&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Fri, 16 Oct 2026 12:17:01 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 16 Oct 2026 12:44:48 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/tadqiqot/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>RFC 9421 AI agentlarini 5,5 barobar tezlashtirdi</title>
+    <link>https://ailenta.uz/x/rfc-9421-ai-agentlarini-5-5-barobar-tezlashtirdi-77b7f2/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/rfc-9421-ai-agentlarini-5-5-barobar-tezlashtirdi-77b7f2/</guid>
+    <pubDate>Fri, 16 Oct 2026 11:55:59 GMT</pubDate>
+    <description>RFC 9421 standarti va wbauth ochiq protokoli AI agentlarini 5,5 barobar tezlashtirdi. Endi agentlar kriptografik pasportdan foydalanib, sovuq startni 5 ms, so'rovni 15,8 ms va xotira sarfini 0,76 MBgacha kamaytirdi.</description>
+    <category>agentlar</category><category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/rfc-9421-ai-agentlarini-5-5-barobar-tezlashtirdi-77b7f2.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/rfc-9421-ai-agentlarini-5-5-barobar-tezlashtirdi-77b7f2.jpg"/>
+  </item>
+  <item>
+    <title>Neyrosetlarning matn yozish odatlari o'rganildi</title>
+    <link>https://ailenta.uz/x/neyrosetlarning-matn-yozish-odatlari-organildi-c81f3d/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/neyrosetlarning-matn-yozish-odatlari-organildi-c81f3d/</guid>
+    <pubDate>Fri, 16 Oct 2026 10:13:46 GMT</pubDate>
+    <description>12 ta neyrosetning 84 ta ishchi matndagi yozish odatlari tahlil qilindi. Gemini 10 ta matndan 9 tasini &quot;Вот&quot; so'zi bilan boshlaydi, Kimi va Claude Sonnet esa taklifni yakunlashni taklif qiladi.</description>
+    <category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/neyrosetlarning-matn-yozish-odatlari-organildi-c81f3d.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/neyrosetlarning-matn-yozish-odatlari-organildi-c81f3d.jpg"/>
+  </item>
   <item>
     <title>Postgres 19 relizi AI tekshiruvchilari tufayli kechiktirildi</title>
     <link>https://ailenta.uz/x/postgres-19-relizi-ai-tekshiruvchilari-tufayli-kechiktirildi-f0a5f3/</link>
@@ -286,26 +306,6 @@
     <category>mehnat bozori</category><category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/linux-kernel-dasturchilari-ai-vositalari-ishlatilganini-tan--29ad24.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/linux-kernel-dasturchilari-ai-vositalari-ishlatilganini-tan--29ad24.jpg"/>
-  </item>
-  <item>
-    <title>Linus Torvalds Linux kernelini AI yordamida rivojlantirmoqda</title>
-    <link>https://ailenta.uz/x/linus-torvalds-linux-kernelini-ai-yordamida-rivojlantirmoqda-f625b9/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/linus-torvalds-linux-kernelini-ai-yordamida-rivojlantirmoqda-f625b9/</guid>
-    <pubDate>Wed, 14 Oct 2026 19:32:31 GMT</pubDate>
-    <description>Linux yaratuvchisi Linus Torvalds Linux kernelini ishlab chiqishda sun'iy intellektdan foydalanishni boshladi. Bu yangilik ochiq kodli dasturiy ta'minot sohasida muhim qadam hisoblanadi.</description>
-    <category>tadqiqot</category><category>ochiq model</category>
-    <media:content url="https://ailenta.uz/og/linus-torvalds-linux-kernelini-ai-yordamida-rivojlantirmoqda-f625b9.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/linus-torvalds-linux-kernelini-ai-yordamida-rivojlantirmoqda-f625b9.jpg"/>
-  </item>
-  <item>
-    <title>Zimbabvelik yozuvchi AI ishlatganini rad etdi</title>
-    <link>https://ailenta.uz/x/zimbabvelik-yozuvchi-ai-ishlatganini-rad-etdi-d00610/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/zimbabvelik-yozuvchi-ai-ishlatganini-rad-etdi-d00610/</guid>
-    <pubDate>Wed, 14 Oct 2026 18:34:33 GMT</pubDate>
-    <description>Zimbabvelik yozuvchi Simbarashe Kundizeza mukofotga sazovor bo'lgan hikoyasini AI yordamida yozganini inkor etdi. The Atlantic nashri uning &quot;The Blue Fighter&quot; asari deyarli to'liq AI tomonidan yaratilganini da'vo qilgan.</description>
-    <category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/zimbabvelik-yozuvchi-ai-ishlatganini-rad-etdi-d00610.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/zimbabvelik-yozuvchi-ai-ishlatganini-rad-etdi-d00610.jpg"/>
   </item>
 </channel>
 </rss>
