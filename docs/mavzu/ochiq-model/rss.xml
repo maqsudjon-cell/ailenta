@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/ochiq-model/</link>
   <description>&quot;ochiq model&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Fri, 16 Oct 2026 17:24:41 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 16 Oct 2026 17:40:26 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/ochiq-model/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Reflection AI Beam modelining ochiq og'irliklarini chiqardi</title>
+    <link>https://ailenta.uz/x/reflection-ai-beam-modelining-ochiq-ogirliklarini-chiqardi-d054e8/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/reflection-ai-beam-modelining-ochiq-ogirliklarini-chiqardi-d054e8/</guid>
+    <pubDate>Fri, 16 Oct 2026 16:40:02 GMT</pubDate>
+    <description>Reflection AI kompaniyasi Beam nomli 501 milliard parametrlik modelining Apache 2.0 litsenziyali og'irliklarini chiqardi. Bu model keraksiz tokenlarni jazolaydigan kuchaytirilgan o'rganish (RL) bilan o'qitilgan.</description>
+    <category>ochiq model</category><category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/reflection-ai-beam-modelining-ochiq-ogirliklarini-chiqardi-d054e8.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/reflection-ai-beam-modelining-ochiq-ogirliklarini-chiqardi-d054e8.jpg"/>
+  </item>
   <item>
     <title>Mark Zuckerberg yangi Muse Spark Open modelini namoyish etdi</title>
     <link>https://ailenta.uz/x/mark-zuckerberg-yangi-muse-spark-open-modelini-namoyish-etdi-bc2fe1/</link>
@@ -296,16 +306,6 @@
     <category>Hugging Face</category><category>ochiq model</category>
     <media:content url="https://ailenta.uz/og/hugging-face-transformers-llama-cpp-kvantlarini-qo-llab-quvv-98acfe.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/hugging-face-transformers-llama-cpp-kvantlarini-qo-llab-quvv-98acfe.jpg"/>
-  </item>
-  <item>
-    <title>Alibaba Qwen3.8-Omni-Flash multimodal modelini chiqardi</title>
-    <link>https://ailenta.uz/x/alibaba-qwen3-8-omni-flash-multimodal-modelini-chiqardi-19be83/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/alibaba-qwen3-8-omni-flash-multimodal-modelini-chiqardi-19be83/</guid>
-    <pubDate>Mon, 21 Sep 2026 10:00:00 GMT</pubDate>
-    <description>Alibaba matn, rasm, audio va videoni qayta ishlay oladigan Qwen3.8-Omni-Flash modelini taqdim etdi. Uning kontekst oynasi 1 million tokengacha yetadi va audio/video bilan ishlash xarajatlari 98% dan ko'proqqa kamaygan.</description>
-    <category>Alibaba</category><category>ochiq model</category>
-    <media:content url="https://ailenta.uz/og/alibaba-qwen3-8-omni-flash-multimodal-modelini-chiqardi-19be83.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/alibaba-qwen3-8-omni-flash-multimodal-modelini-chiqardi-19be83.jpg"/>
   </item>
 </channel>
 </rss>

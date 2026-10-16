@@ -1,5 +1,229 @@
 [
   {
+    "id": "d18aa54b072a",
+    "slug": "trustedrouter-startapi-seed-raundini-yakunladi-d18aa5",
+    "title": "TrustedRouter startapi seed raundini yakunladi",
+    "summary": "TrustedRouter startapi AI xarajatlarini kamaytirish va kompaniyalarning yagona AI model ishlab chiqaruvchilariga qaramligini pasaytirish maqsadida seed raundini yakunladi. Bu model-yo'naltirish firmalari orasida o'sib borayotgan kompaniyalardan biridir.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 22,
+    "published": "2026-10-16T16:33:31.000Z",
+    "created": "2026-10-16T17:35:37.931Z",
+    "coverage": 1,
+    "source": {
+      "name": "Semafor",
+      "url": "https://semafor.com/article/10/16/2026/openrouter-challenger-closes-seed-round",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "838f92d9725a",
+    "slug": "tayvan-xitoyga-ai-chip-eksportini-cheklashni-rejalashtirmoqd-838f92",
+    "title": "Tayvan Xitoyga AI chip eksportini cheklashni rejalashtirmoqda",
+    "summary": "Tayvan AQSh savdo kelishuvi doirasida Xitoyga AI serverlari va chiplari eksportini cheklashni rejalashtirmoqda. Cheklangan AI uskunasini Xitoyga jo'natish jinoiy javobgarlikka sabab bo'ladi.",
+    "tags": [
+      "chiplar",
+      "siyosat"
+    ],
+    "importance": 4,
+    "score": 21,
+    "published": "2026-10-16T11:45:05.000Z",
+    "created": "2026-10-16T17:35:37.931Z",
+    "coverage": 2,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/261016/p8",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "BigGo Finance",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE04YWtwcGpkVC04QjEtdkhINlZ2TUM3LTZxYm83MlVxc0NzSlY2MmR3Z1IyX3AwcFNCZmxsSlVUNTFqc2NEeHZnUF9VeVJ5ZXhyX3FDSTlWcV93RzRmSE44a0FJWXhjRDF2d09BUkZtM09PSmVmYlE"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "d95de5a2bdd1",
+    "slug": "politsiya-ai-yordamida-bir-rasm-orqali-uyni-aniqlay-oladi-d95de5",
+    "title": "Politsiya AI yordamida bir rasm orqali uyni aniqlay oladi",
+    "summary": "Yangi ma'lumotlarga ko'ra, politsiya Raven (avval Geospy nomi bilan tanilgan) AI vositasidan foydalanib, birgina fotosurat orqali uyning joylashuvini aniqlay oladi. Sudya Flock qidiruvini konstitutsiyaga zid deb topdi.",
+    "tags": [
+      "xavfsizlik",
+      "maxfiylik"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-10-16T15:40:44.000Z",
+    "created": "2026-10-16T17:35:37.931Z",
+    "coverage": 1,
+    "source": {
+      "name": "404 Media",
+      "url": "https://404media.co/podcast-cops-can-use-ai-to-pinpoint-your-home-with-just-one-photo",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "29ad14162183",
+    "slug": "anthropicning-iposi-tarixdagi-eng-yirigi-bolishi-mumkin-29ad14",
+    "title": "Anthropic'ning IPO'si tarixdagi eng yirigi bo'lishi mumkin",
+    "summary": "Fortune nashrining xabar berishicha, Anthropic kompaniyasining birlamchi ommaviy taklifi (IPO) tarixdagi eng yirik IPO bo'lishi mumkin. Bu holat kompaniyalarning AI byudjetlari bilan izohlanadi.",
+    "tags": [
+      "Anthropic",
+      "biznes"
+    ],
+    "importance": 4,
+    "score": 19,
+    "published": "2026-10-16T12:16:00.000Z",
+    "created": "2026-10-16T17:35:37.931Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSWhjMmwxdGR0NVZiUFJiTGNCbWJaam14LTFmdmlVNUdSOXJNMm9UNzhuSlpvaDJPN0lSMmhHYUFCRG1rRnVtUFhkZjYwdFg2MF9MdUZaUEVMTXBlTmEtVGZOOUlOTHFGWUw4aXE0X2JqT1dTN1ZySFJqVFVMYm9tVFNpYjQyNUtka2hzb0hGdGJfR0luNDJFdmdLODU0UXJRaHlOUTROamI",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "d054e8b8abe6",
+    "slug": "reflection-ai-beam-modelining-ochiq-ogirliklarini-chiqardi-d054e8",
+    "title": "Reflection AI Beam modelining ochiq og'irliklarini chiqardi",
+    "summary": "Reflection AI kompaniyasi Beam nomli 501 milliard parametrlik modelining Apache 2.0 litsenziyali og'irliklarini chiqardi. Bu model keraksiz tokenlarni jazolaydigan kuchaytirilgan o'rganish (RL) bilan o'qitilgan.",
+    "tags": [
+      "ochiq model",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 18,
+    "published": "2026-10-16T16:40:02.000Z",
+    "created": "2026-10-16T17:35:37.931Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/261016/p15",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "16fdc57cac68",
+    "slug": "texnologiya-bozori-ai-qarzlari-va-inflyatsiya-sababli-tushdi-16fdc5",
+    "title": "Texnologiya bozori AI qarzlari va inflyatsiya sababli tushdi",
+    "summary": "AQSh inflyatsiyasi va AI bilan bog'liq qarzlar bo'yicha xavotirlar tufayli texnologiya bozorida sotuvlar chuqurlashdi. Chip ishlab chiqaruvchilar va texnologiya investorlari, jumladan Samsung va SoftBank, zararga uchradi.",
+    "tags": [
+      "iqtisod",
+      "biznes"
+    ],
+    "importance": 4,
+    "score": 17,
+    "published": "2026-10-15T14:33:12.000Z",
+    "created": "2026-10-16T17:35:37.931Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/business/2026/oct/15/tech-market-sell-off-deepens-amid-fears-over-us-inflation-and-ai-debt",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "0ce4507b7a16",
+    "slug": "disney-character-aidan-66-xodimni-ishga-oldi-0ce450",
+    "title": "Disney Character.AI'dan 66 xodimni ishga oldi",
+    "summary": "Disney texnologiya sohasidagi ishdan bo'shatishlardan so'ng, bankrotlikka uchragan Character.AI startapidan 66 nafar xodimni ishga olishga rozi bo'ldi. Kompaniya buning uchun 60 million dollar to'laydi.",
+    "tags": [
+      "biznes",
+      "mehnat bozori"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-10-16T15:01:35.000Z",
+    "created": "2026-10-16T17:35:37.931Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/disney-pays-60-million-characterai-employees-tech-layoffs-karandeep-anand-2026-10",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "e874f1181e68",
+    "slug": "meta-aini-yangilik-saytlarida-oqitishi-mumkin-e874f1",
+    "title": "Meta AI'ni yangilik saytlarida o'qitishi mumkin",
+    "summary": "Meta'ning yangi shartlari 30-oktabrdan kuchga kiradi va kompaniyaga o'z platformalaridan foydalanadigan bizneslar bilan bog'liq veb-saytlarni, jumladan yangilik nashrlarini skrablab, AI'ni o'qitishga ruxsat berishi mumkin.",
+    "tags": [
+      "Meta",
+      "qonun"
+    ],
+    "importance": 4,
+    "score": 15,
+    "published": "2026-10-16T14:02:40.000Z",
+    "created": "2026-10-16T17:35:37.931Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Verge",
+      "url": "https://theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "e6b0c9baa366",
+    "slug": "replit-bosh-direktori-oz-ozini-boshqaruvchi-kompaniya-ni-bas-e6b0c9",
+    "title": "Replit bosh direktori \"o'z-o'zini boshqaruvchi kompaniya\"ni bashorat qildi",
+    "summary": "Replit bosh direktori Amjad Masad kelajakda \"o'z-o'zini boshqaruvchi kompaniyalar\" paydo bo'lishini bashorat qildi. Unda AI agentlari kundalik vazifalarni bajaradi, odamlar esa yuqori darajadagi qarorlarga e'tibor qaratadi.",
+    "tags": [
+      "agentlar",
+      "mehnat bozori"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-10-16T12:55:09.000Z",
+    "created": "2026-10-16T17:35:37.931Z",
+    "coverage": 1,
+    "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "d9ad8c86a401",
+    "slug": "hesaining-kosmo-real-joylarni-3d-aktivlarga-aylantiradi-d9ad8c",
+    "title": "Hesai'ning Kosmo real joylarni 3D aktivlarga aylantiradi",
+    "summary": "Hesai kompaniyasining Kosmo texnologiyasi real joylarni 3D aktivlarga aylantiradi. Bu jismoniy AI'ni o'qitish uchun zarur bo'lgan real dunyo ma'lumotlari yetishmovchiligini bartaraf etishga yordam beradi.",
+    "tags": [
+      "robototexnika",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-10-16T07:14:27.000Z",
+    "created": "2026-10-16T17:35:37.931Z",
+    "coverage": 1,
+    "source": {
+      "name": "TechNode",
+      "url": "https://technode.com/2026/10/16/teaching-robots-the-shape-of-reality-hesai-s-kosmo-turns-real-places-into-3d-assets",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "5bec5406d621",
     "slug": "oqituvchilarning-jamiyatdagi-orni-va-ai-islohotlari-5bec54",
     "title": "O'qituvchilarning jamiyatdagi o'rni va AI islohotlari",
