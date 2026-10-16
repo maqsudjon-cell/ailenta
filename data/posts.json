@@ -1,5 +1,230 @@
 [
   {
+    "id": "e629b6ce2806",
+    "slug": "o-zto-qimachiliksanoat-va-lamoda-o-zbek-brendlarini-muhokama-e629b6",
+    "title": "O‘zto‘qimachiliksanoat va Lamoda o‘zbek brendlarini muhokama qildi",
+    "summary": "“O‘zto‘qimachiliksanoat” uyushmasi va Lamoda kompaniyasi o‘zbek ishlab chiqaruvchilari mahsulotlarini marketpleysga joylashtirishni muhokama qildi. Ular brendlarni ilgari surish va logistika masalalarini ko‘rib chiqdilar.",
+    "tags": [
+      "O'zbekiston",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 41,
+    "published": "2026-10-16T10:00:00.000Z",
+    "created": "2026-10-16T12:00:27.876Z",
+    "coverage": 1,
+    "source": {
+      "name": "UzDaily",
+      "url": "https://uzdaily.uz/uz/oztoqimachiliksanoat-va-lamoda-ozbek-brendlarini-marketpleysga-olib-chiqishni-muhokama-qildi",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "f4b5dae2c188",
+    "slug": "tesla-ucha-oladigan-roadster-elektromobilini-namoyish-etdi-f4b5da",
+    "title": "Tesla ucha oladigan Roadster elektromobilini namoyish etdi",
+    "summary": "Elon Musk SpaceX dvigatellari bilan jihozlangan Roadster sport elektromobilini taqdim etdi. Bu model bir sekunddan kam vaqtda 100 km/soat tezlikka erisha oladi.",
+    "tags": [
+      "Tesla",
+      "biznes"
+    ],
+    "importance": 4,
+    "score": 34,
+    "published": "2026-10-16T08:21:52.000Z",
+    "created": "2026-10-16T12:00:27.876Z",
+    "coverage": 1,
+    "source": {
+      "name": "Daryo",
+      "url": "https://daryo.uz/2026/10/16/tesla-ucha-oladigan-avtomobilni-taqdim-etdi-video",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "9ecf29b97b87",
+    "slug": "ai-modellar-komediyachilar-materialidan-foydalanmoqda-9ecf29",
+    "title": "AI modellar komediyachilar materialidan foydalanmoqda",
+    "summary": "AI tomonidan yaratilgan modellar tarmog‘i komediyachilarning materiallaridan foydalanib, o‘zlarining OnlyFans va Fanvue akkauntlariga trafik jalb qilmoqda. Komediyachilar bunga qarshi turishda qiyinchiliklarga duch kelmoqda.",
+    "tags": [
+      "xavfsizlik",
+      "qonun"
+    ],
+    "importance": 3,
+    "score": 23,
+    "published": "2026-10-16T11:00:00.000Z",
+    "created": "2026-10-16T12:00:27.876Z",
+    "coverage": 1,
+    "source": {
+      "name": "Wired",
+      "url": "https://wired.com/story/ai-generated-hot-girls-are-ripping-off-comedians-to-boost-their-horny-content",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "a910327e32e5",
+    "slug": "ai-demokratiyaga-tahdid-solmoqda-ammo-kurashish-mumkin-a91032",
+    "title": "AI demokratiyaga tahdid solmoqda, ammo kurashish mumkin",
+    "summary": "Carine Fouteauning fikricha, yirik texnologiya kompaniyalari va AI demokratiyaga katta tahdid solmoqda. Ular axborot inqirozini keltirib chiqarib, jamoat manfaatlaridagi jurnalistikani talon-taroj qilmoqda.",
+    "tags": [
+      "siyosat",
+      "qonun"
+    ],
+    "importance": 4,
+    "score": 23,
+    "published": "2026-10-16T07:49:45.000Z",
+    "created": "2026-10-16T12:00:27.876Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/commentisfree/2026/oct/16/ai-existential-threat-real-journalism-democracy-resistance",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "947b28bb8b2c",
+    "slug": "ai-yordamida-dissertatsiya-yozganlar-akademiada-qolmaydi-947b28",
+    "title": "AI yordamida dissertatsiya yozganlar akademiada qolmaydi",
+    "summary": "Nature jurnalining xabar berishicha, AI yordamida dissertatsiya yozgan doktorantlarning akademik sohada qolish ehtimoli kamroq. Bu AI'ning ta'lim va mehnat bozoriga ta'sirini ko'rsatadi.",
+    "tags": [
+      "ta'lim",
+      "mehnat bozori"
+    ],
+    "importance": 3,
+    "score": 23,
+    "published": "2026-10-16T00:00:00.000Z",
+    "created": "2026-10-16T12:00:27.876Z",
+    "coverage": 1,
+    "source": {
+      "name": "Nature",
+      "url": "https://nature.com/articles/d41586-026-03253-2",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "661320cc40ff",
+    "slug": "blueskyning-attie-ai-vositasi-ilovalar-yaratish-imkonini-ber-661320",
+    "title": "Bluesky'ning Attie AI vositasi ilovalar yaratish imkonini beradi",
+    "summary": "Bluesky'ning Attie AI vositasi endi foydalanuvchilarga kichik ijtimoiy ilovalar, jumladan o‘yinlar, so‘rovnomalar va boshqaruv panellarini yaratishga imkon beradi. Bu ilovalarni veb-sayt sifatida boshqalar bilan bo‘lishish mumkin.",
+    "tags": [
+      "biznes",
+      "agentlar"
+    ],
+    "importance": 3,
+    "score": 19.4,
+    "published": "2026-10-15T19:57:16.000Z",
+    "created": "2026-10-16T12:00:27.876Z",
+    "coverage": 2,
+    "source": {
+      "name": "The Verge",
+      "url": "https://theverge.com/tech/1012374/bluesky-ai-attie-small-social-games-apps",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "f0a5f325be5a",
+    "slug": "postgres-19-relizi-ai-tekshiruvchilari-tufayli-kechiktirildi-f0a5f3",
+    "title": "Postgres 19 relizi AI tekshiruvchilari tufayli kechiktirildi",
+    "summary": "Postgres 19 relizi AI tekshiruvchilari insonlar tuzata oladiganidan ko‘proq xatolarni topgani sababli kechiktirildi. Asosiy dasturchilar 10 tagacha funksiyani bekor qilib, relizni noyabrga surishdi.",
+    "tags": [
+      "biznes",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-10-16T10:00:00.000Z",
+    "created": "2026-10-16T12:00:27.876Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "d0b915d1c055",
+    "slug": "elevenlabs-asoschisi-ovozli-ai-kelajagiga-ishonmoqda-d0b915",
+    "title": "ElevenLabs asoschisi ovozli AI kelajagiga ishonmoqda",
+    "summary": "ElevenLabs asoschisi Mati Staniszewski ovozli AI tez orada odatiy holga aylanishiga ishonch bildirmoqda. Uning kompaniyasi chatbotlarning gapirish qobiliyatini rivojlantirish ustida ishlamoqda.",
+    "tags": [
+      "ElevenLabs",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-10-16T08:48:52.000Z",
+    "created": "2026-10-16T12:00:27.876Z",
+    "coverage": 1,
+    "source": {
+      "name": "Semafor",
+      "url": "https://semafor.com/article/10/16/2026/the-22-billion-startup-co-founder-working-to-make-chatbots-talk-back",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "69b1dddeb605",
+    "slug": "aining-malumotga-ehtiyoji-uoll-stritga-yangi-hayot-baxsh-eta-69b1dd",
+    "title": "AI'ning ma'lumotga ehtiyoji Uoll-stritga yangi hayot baxsh etadi",
+    "summary": "AI kompaniyalari ish joyi ma'lumotlarini olish uchun poyga qilmoqda. Bu esa muqobil ma'lumot provayderlari uchun yangi imkoniyatlar yaratmoqda.",
+    "tags": [
+      "iqtisod",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-10-16T11:18:06.000Z",
+    "created": "2026-10-16T12:00:27.876Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/ai-companies-race-to-acquire-workplace-data-for-models-2026-10",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "acf5341d7c2b",
+    "slug": "kling-ai-4-0-video-yaratishda-vizual-sifatdan-boshqaruvga-ot-acf534",
+    "title": "Kling AI 4.0 video yaratishda vizual sifatdan boshqaruvga o'tish",
+    "summary": "Kling AI 4.0 AI video yaratishda raqobatning vizual sifatdan rejissyorlik nazoratiga o‘tayotganini ko‘rsatmoqda. Endi asosiy e'tibor personajlarning izchilligi va hikoyaning yaxlitligiga qaratilmoqda.",
+    "tags": [
+      "tadqiqot",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-10-16T08:34:06.000Z",
+    "created": "2026-10-16T12:00:27.877Z",
+    "coverage": 1,
+    "source": {
+      "name": "TechNode",
+      "url": "https://technode.com/2026/10/16/kling-ai-4-0-suggests-a-shift-in-ai-video-competition-from-visual-quality-to-directorial-control",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "40d3f45816b6",
     "slug": "ibm-ai-davrida-tor-soha-mutaxassisi-bolish-afzalroq-40d3f4",
     "title": "IBM: AI davrida tor soha mutaxassisi bo'lish afzalroq",
