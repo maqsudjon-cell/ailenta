@@ -1,5 +1,159 @@
 [
   {
+    "id": "c9da9f333917",
+    "slug": "hesai-kosmo-3d-dunyo-malumotlar-dvigatelini-ishga-tushirdi-c9da9f",
+    "title": "Hesai Kosmo 3D dunyo ma'lumotlar dvigatelini ishga tushirdi",
+    "summary": "Hesai lidar ishlab chiqaruvchisi Kosmo platformasini taqdim etdi. U Kosmo One 8K AI fazoviy kamerasi va Kosmo World bulut platformasini birlashtirib, real makonlarni robotlarni o'qitish va dunyo modellarini yaratish uchun 3D aktivlarga aylantiradi.",
+    "tags": [
+      "Hesai",
+      "robototexnika"
+    ],
+    "importance": 3,
+    "score": 21,
+    "published": "2026-10-16T06:18:53.000Z",
+    "created": "2026-10-16T07:04:50.502Z",
+    "coverage": 1,
+    "source": {
+      "name": "Pandaily",
+      "url": "https://pandaily.com/hesai-kosmo-3d-world-data-engine-kosmo-one-8k-ai-spatial-camera",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "98e687ff2aba",
+    "slug": "inson-miyasi-kompyuterlari-brayl-harflarini-aniqladi-98e687",
+    "title": "Inson miyasi kompyuterlari Brayl harflarini aniqladi",
+    "summary": "Olimlar inson miyasi organoidlari, ya'ni ildiz hujayralaridan olingan kichik neyron klasterlari Brayl alifbosini yuqori aniqlikda aniqlay olishini kashf etdilar. Bu tadqiqot miya to'qimalarining imkoniyatlarini ko'rsatadi.",
+    "tags": [
+      "tadqiqot",
+      "tibbiyot"
+    ],
+    "importance": 4,
+    "score": 19,
+    "published": "2026-10-16T04:01:00.000Z",
+    "created": "2026-10-16T07:04:50.502Z",
+    "coverage": 1,
+    "source": {
+      "name": "404 Media",
+      "url": "https://404media.co/computers-made-of-human-brain-tissue-identify-braille-letters-in-breakthrough",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "00766cc28fbb",
+    "slug": "anthropic-ipo-uchrashuvida-daromad-va-xavfsizlik-muhokamasi-00766c",
+    "title": "Anthropic IPO uchrashuvida daromad va xavfsizlik muhokamasi",
+    "summary": "Anthropic kompaniyasining IPO oldi uchrashuvida daromadning sezilarli o'sishi va insoniyatning yo'q bo'lib ketishi xavfi yo'qligi muhokama qilindi. Reuters xabariga ko'ra, uchrashuvda \"fikrlash qopqoqlari\" ham tilga olingan.",
+    "tags": [
+      "Anthropic",
+      "biznes"
+    ],
+    "importance": 4,
+    "score": 18.8,
+    "published": "2026-10-14T22:27:00.000Z",
+    "created": "2026-10-16T07:04:50.502Z",
+    "coverage": 1,
+    "source": {
+      "name": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRHl4NDlfRl9CaVdHZzdFMUYzM3Rka2RvbXlYcXR4ZGEwWGt5LS1rSlZmUkx0SFhxMnlCb1AtSElVcWJoT29UX19jcnRlMFpQOW0zOXQ1cXd0eHNpeFZKdkdxM2JCMjZrOXRXTmhWRExOZHY5OGpxcmY1MHJ5QlVRc2hDejdubVcydi1oYmJRc2RKaWRBOWFLbFREY2VEblZ4SVRpdQ",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "0636234727b6",
+    "slug": "jpmorgan-rahbari-aini-hukumatlar-toxtata-olmaydi-063623",
+    "title": "JPMorgan rahbari: AI'ni hukumatlar to'xtata olmaydi",
+    "summary": "JPMorgan bosh direktori Jeymi Dimonning so'zlariga ko'ra, AI shunchalik tez rivojlanmoqdagi, hatto hukumatlar ham uni to'xtata olmaydi. Uning fikricha, AI'ning global tarqalishi va ochiq kodli modellar buni imkonsiz qiladi.",
+    "tags": [
+      "biznes",
+      "siyosat"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-10-16T05:28:49.000Z",
+    "created": "2026-10-16T07:04:50.502Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/jamie-dimon-ai-moving-too-fast-governments-cant-stop-2026-10",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "ca1ee36e5b48",
+    "slug": "yevropada-94-ai-fintech-startap-pul-biznesini-avtomatlashtir-ca1ee3",
+    "title": "Yevropada 94 AI fintech startap pul biznesini avtomatlashtirmoqda",
+    "summary": "Yevropada AI fintech bozorida 94 ta startap pul bilan bog'liq biznes jarayonlarini avtomatlashtirmoqda. Bu kompaniyalar moliyaviy xizmatlar sohasida sun'iy intellekt texnologiyalarini keng qo'llayapti.",
+    "tags": [
+      "biznes",
+      "iqtisod"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-10-16T05:00:03.000Z",
+    "created": "2026-10-16T07:04:50.502Z",
+    "coverage": 1,
+    "source": {
+      "name": "Sifted",
+      "url": "https://sifted.eu/articles/europes-ai-fintech-market-mapped-94-startups-automating-the-business-of-money",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "bc2fe199c7ce",
+    "slug": "mark-zuckerberg-yangi-muse-spark-open-modelini-namoyish-etdi-bc2fe1",
+    "title": "Mark Zuckerberg yangi Muse Spark Open modelini namoyish etdi",
+    "summary": "Mark Zuckerberg o'zining ofis stolining suratini joylashtirib, yangi Muse Spark Open modelini namoyish etdi. Bu orqali u Meta'ning AI sohasidagi yangi ishlanmasini ko'rsatdi.",
+    "tags": [
+      "Meta",
+      "ochiq model"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-10-16T04:02:01.000Z",
+    "created": "2026-10-16T07:04:50.502Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/mark-zuckerberg-office-desk-muse-spark-open-apple-2026-10",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "b7bc5c37c52a",
+    "slug": "leju-robotics-15-robotni-avto-ehtiyot-qismlar-liniyasiga-qoy-b7bc5c",
+    "title": "Leju Robotics 15 robotni avto ehtiyot qismlar liniyasiga qo'ydi",
+    "summary": "Leju Robotics kompaniyasi Xanchjou avto ehtiyot qismlar zavodida 15 ta gumanoid robotni yuklash liniyasiga joylashtirdi. Bu robotlar 15 ta stansiyada ishlamoqda va taxminan 98% muvaffaqiyat darajasini ko'rsatmoqda.",
+    "tags": [
+      "robototexnika",
+      "biznes"
+    ],
+    "importance": 4,
+    "score": 15,
+    "published": "2026-10-16T03:05:17.000Z",
+    "created": "2026-10-16T07:04:50.502Z",
+    "coverage": 1,
+    "source": {
+      "name": "Pandaily",
+      "url": "https://pandaily.com/leju-robotics-zhaofeng-15-humanoid-robots-auto-parts-loading-line-98-percent-1000-hours",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "1bbf19f5e4ca",
     "slug": "ai-kompaniyalari-defoltidan-sugurtalash-narxi-oshdi-1bbf19",
     "title": "AI kompaniyalari defoltidan sug'urtalash narxi oshdi",
