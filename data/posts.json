@@ -1,5 +1,93 @@
 [
   {
+    "id": "dd00c04c9b95",
+    "slug": "sullivan-cromwell-openai-bilan-ai-vositasi-yaratdi-dd00c0",
+    "title": "Sullivan & Cromwell OpenAI bilan AI vositasi yaratdi",
+    "summary": "Sullivan & Cromwell yuridik firmasi OpenAI bilan hamkorlikda Agreement Analyzer nomli AI vositasini ishlab chiqdi. Bu vosita shartnomalar loyihasidagi muammolarni aniqlashga yordam beradi.",
+    "tags": [
+      "OpenAI",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 30.8,
+    "published": "2026-10-15T00:00:00.000Z",
+    "created": "2026-10-16T01:02:04.280Z",
+    "coverage": 1,
+    "source": {
+      "name": "OpenAI",
+      "url": "https://openai.com/index/sullivan-cromwell",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "580642b90a10",
+    "slug": "oq-uyning-ai-boyicha-ishchi-guruhi-oz-nizomini-qabul-qildi-580642",
+    "title": "Oq uyning AI bo'yicha ishchi guruhi o'z nizomini qabul qildi",
+    "summary": "Semafor xabariga ko'ra, Oq uyning sun'iy intellekt bo'yicha ishchi guruhi o'z nizomini rasman qabul qilib, faoliyatini boshladi.",
+    "tags": [
+      "siyosat",
+      "qonun"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-10-16T00:59:14.000Z",
+    "created": "2026-10-16T01:02:04.280Z",
+    "coverage": 1,
+    "source": {
+      "name": "Semafor",
+      "url": "https://semafor.com/article/10/15/2026/white-houses-ai-task-force-gets-to-work",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "8203e45f8737",
+    "slug": "jim-cramer-ai-aksiyalari-sotuvidan-saboq-berdi-8203e4",
+    "title": "Jim Cramer AI aksiyalari sotuvidan saboq berdi",
+    "summary": "CNBC telekanalidan Jim Cramerning aytishicha, payshanba kungi AI aksiyalari sotuvi investorlar uchun muhim saboq bo'ldi. U bozorning eng qizg'in savdosidan tashqari aksiyalarga egalik qilish muhimligini ta'kidladi.",
+    "tags": [
+      "iqtisod",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-10-15T22:16:13.000Z",
+    "created": "2026-10-16T01:02:04.280Z",
+    "coverage": 1,
+    "source": {
+      "name": "CNBC",
+      "url": "https://cnbc.com/2026/10/15/jim-cramer-ai-stocks-diversification.html",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "244831af6248",
+    "slug": "google-aqshda-universal-cart-xarid-qilish-vositasini-ishga-t-244831",
+    "title": "Google AQShda Universal Cart xarid qilish vositasini ishga tushirdi",
+    "summary": "TechCrunch xabariga ko'ra, Google AQShda Universal Cart nomli yangi xarid qilish vositasini ishga tushirdi. U Google Search va Gemini ilovasida mavjud.",
+    "tags": [
+      "Google",
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-10-15T14:29:33.000Z",
+    "created": "2026-10-16T01:02:04.280Z",
+    "coverage": 1,
+    "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "569ae20fadc5",
     "slug": "aqsh-fond-bozorlari-texnologiya-sotuvidan-song-tiklandi-569ae2",
     "title": "AQSh fond bozorlari texnologiya sotuvidan so'ng tiklandi",
