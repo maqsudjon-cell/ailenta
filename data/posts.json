@@ -1,5 +1,212 @@
 [
   {
+    "id": "5bec5406d621",
+    "slug": "oqituvchilarning-jamiyatdagi-orni-va-ai-islohotlari-5bec54",
+    "title": "O'qituvchilarning jamiyatdagi o'rni va AI islohotlari",
+    "summary": "3000 dan ortiq kishi o'rtasida o'tkazilgan so'rovnoma o'qitishni g'amxo'rlik munosabati sifatida ko'rsatdi. AI'ga yo'naltirilgan maktab islohotlari muhokamasi esa deyarli ko'rinmayapti.",
+    "tags": [
+      "ta'lim",
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 19,
+    "published": "2026-10-16T14:22:30.000Z",
+    "created": "2026-10-16T15:36:36.148Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/10/16/teacher-perceptions-survey-us-england-australia",
+      "title": "Americans see teachers as coaches and pastors. Britons and Australians see them as nurses and social workers",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "e925c3137a8a",
+    "slug": "anthropic-metr-tadqiqotchilariga-toliq-kirish-berdi-e925c3",
+    "title": "Anthropic METR tadqiqotchilariga to'liq kirish berdi",
+    "summary": "Anthropic METR tadqiqotchilariga kompaniya ichidagi ma'lumotlarga xodim darajasida kirish imkonini berdi. METR Anthropic'ning xavflari va amaliyotlari bo'yicha o'z baholarini chop etadi, Anthropic ularni bloklash huquqidan voz kechdi.",
+    "tags": [
+      "Anthropic",
+      "xavfsizlik"
+    ],
+    "importance": 4,
+    "score": 29.7,
+    "published": "2026-10-15T19:14:26.000Z",
+    "created": "2026-10-16T15:37:34.641Z",
+    "coverage": 3,
+    "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "TechCrunch",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMkZQVi13WFJwaVFpR281aW9QVHU3R1pTekEwZXpQWnFFUW9DVUFmdDM1MjlBS2tieUFUdndJU0FDal9MT2dUemZOdDh6RVBpRkFXemdjUWNSVzlsNFlqNDhzTmhyRlRudWV4NlQtMlA3elEzbGRLS0doRlo2RDJxcXltbkJ6Z05kVXdLaDM2NG9FcUlKNUtyRnVzVlliRmwzTUROMHBfUlRrYm9EQ2ZFMnFuWUNiRURfRTJz"
+      },
+      {
+        "name": "NewsCord",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOQzdMbS1BNzZ2c3JfYWRaSVdmUF9TdHdPVXlfTU9qUWVEaWM2OGNFV0E5TDlOaUt5S3JubGZGWmV3SVl5RjBsM1ZEbWxPV0VENFdoRGVWa0oyWFVnaEJTMTYyQVI3WUZXTTM1dlJzZ1g5anhqSDRBdGtRYnFEZFJzcHBuaUlhUUxldnNRQWJOLTdjT3NCTnpwWjROSXFCM3pfdVRvdVNGckU1TzdRM0tESWN5LTI1c3NXdE5XbElIX3ZHZmxERy1PUGdGTnA5YU5ncFoxSzZBc1BBcXoxWmY0MmlRZzI5S2loM2c"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "6abb14faab34",
+    "slug": "ntt-global-data-centers-ai-talabi-uchun-ruxsatnomalar-muammo-6abb14",
+    "title": "NTT Global Data Centers AI talabi uchun ruxsatnomalar muammosi",
+    "summary": "AI'ga bo'lgan talab ortib borayotgan bir paytda, NTT Global Data Centers ma'lumot markazlari qurilishini ehtiyot qismlar emas, balki ruxsatnomalar cheklayotganini aniqladi. Bu ma'lumot markazlari rivojlanishiga to'siq bo'lmoqda.",
+    "tags": [
+      "biznes",
+      "bulut"
+    ],
+    "importance": 3,
+    "score": 22,
+    "published": "2026-10-16T15:00:00.000Z",
+    "created": "2026-10-16T15:37:34.642Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/ai-and-ml/2026/10/16/sponsored-global-data-centers-weighs-the-price-tag-of-not-building-fast-enough/5303402",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "10f998d9a6d2",
+    "slug": "ai-mutaxassislariga-talab-soxta-shaxslarni-keltirib-chiqardi-10f998",
+    "title": "AI mutaxassislariga talab soxta shaxslarni keltirib chiqardi",
+    "summary": "AI mutaxassislariga bo'lgan yuqori talab tufayli deepfake va chatbot-firibgarlar paydo bo'lmoqda. Ekspert tarmoqlari AI avatarlarini aniqlash uchun qo'shimcha tekshiruvlar va shaxsni tasdiqlash usullarini ishlab chiqmoqda.",
+    "tags": [
+      "mehnat bozori",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 22,
+    "published": "2026-10-16T13:30:04.000Z",
+    "created": "2026-10-16T15:37:34.642Z",
+    "coverage": 1,
+    "source": {
+      "name": "Semafor",
+      "url": "https://semafor.com/article/10/16/2026/demand-for-ai-expert-brings-deepfakes-and-chatbot-impostors",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "e905109b5632",
+    "slug": "politsiya-ai-yordamida-bolalar-suratlari-bilan-yirtqichni-tu-e90510",
+    "title": "Politsiya AI yordamida bolalar suratlari bilan yirtqichni tutdi",
+    "summary": "Politsiya gumon qilingan yirtqichni ushlash uchun AI tomonidan yaratilgan bolalar fotosuratlaridan foydalandi. Christopher Thomas Mertens 15 yoshli bola deb o'ylagan AI personaji bilan uchrashishga uringanidan so'ng hibsga olindi.",
+    "tags": [
+      "xavfsizlik",
+      "qonun"
+    ],
+    "importance": 4,
+    "score": 19,
+    "published": "2026-10-16T13:57:18.000Z",
+    "created": "2026-10-16T15:37:34.642Z",
+    "coverage": 1,
+    "source": {
+      "name": "404 Media",
+      "url": "https://404media.co/undercover-cops-using-ai-generated-child-arrest",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "156955d06d74",
+    "slug": "brave-brauzeri-ai-chatlari-uchun-shifrlashni-taklif-etadi-156955",
+    "title": "Brave brauzeri AI chatlari uchun shifrlashni taklif etadi",
+    "summary": "Brave brauzeri GLM 5.3 Flash bilan AI chatlari uchun maxfiylikni ta'minlash maqsadida end-to-end shifrlashni joriy etmoqda. Bu ishonchli apparat vositalaridan foydalangan holda amalga oshiriladi.",
+    "tags": [
+      "maxfiylik",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-10-16T12:15:00.000Z",
+    "created": "2026-10-16T15:37:34.642Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/ai-and-ml/2026/10/16/want-your-ai-chats-to-stay-private-brave-tees-up-end-to-end-encryption/5303462",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "e72489597546",
+    "slug": "ai-interpretatsiyasi-boyicha-yangi-tadqiqot-bahslarga-sabab-e72489",
+    "title": "AI interpretatsiyasi bo'yicha yangi tadqiqot bahslarga sabab",
+    "summary": "Yangi maqolaga ko'ra, neyron tarmoqlarni tushunish osonroq bo'lishi mumkin, chunki neyronlarning 90 foizi aniq funksiyaga ega. Bu AI xavfsizligi tadqiqotlari uchun muhim yangilik bo'lib, xavfli xatti-harakatlarni to'g'ridan-to'g'ri aniqlashga yordam beradi.",
+    "tags": [
+      "tadqiqot",
+      "xavfsizlik"
+    ],
+    "importance": 4,
+    "score": 18,
+    "published": "2026-10-16T13:48:08.000Z",
+    "created": "2026-10-16T15:37:34.642Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/is-ai-interpretability-close-to-a-breakthrough-a-new-essay-has-researchers-divided",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "ff3064f5e69f",
+    "slug": "neyroset-javoblaridagi-havolalarning-umr-korish-muddati-ff3064",
+    "title": "Neyroset javoblaridagi havolalarning umr ko'rish muddati",
+    "summary": "Tadqiqotga ko'ra, neyroset javoblaridagi havolalar uzoq yashamaydi. Bir yarim oydan so'ng Perplexity'da 27,5%, Alisa AI'da esa 35,5% eski havolalar qolgan, qolganlari yangi bo'lgan.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 17,
+    "published": "2026-10-16T12:37:03.000Z",
+    "created": "2026-10-16T15:37:34.642Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1095330",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "dde856f2d636",
+    "slug": "datacanvas-ai-dasturiy-taminot-biznesi-keskin-kamaydi-dde856",
+    "title": "DataCanvas AI dasturiy ta'minot biznesi keskin kamaydi",
+    "summary": "Xitoyning DataCanvas kompaniyasining AI asosiy dasturiy ta'minot xizmatlaridan tushgan daromadi keskin kamaydi. 2023 yilda bu xizmatlar umumiy daromadning 76,5 foizini tashkil etgan bo'lsa, 2026 yilning birinchi yarmiga kelib deyarli yo'qoldi.",
+    "tags": [
+      "biznes",
+      "iqtisod"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-10-16T15:17:56.000Z",
+    "created": "2026-10-16T15:37:34.642Z",
+    "coverage": 1,
+    "source": {
+      "name": "TechNode",
+      "url": "https://technode.com/2026/10/16/datacanvas-software-business-hong-kong-ipo",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "b063478ecea9",
     "slug": "ai-infratuzilmasi-qarz-xarajatlari-investorlarni-xavotirga-s-b06347",
     "title": "AI infratuzilmasi qarz xarajatlari investorlarni xavotirga soldi",
