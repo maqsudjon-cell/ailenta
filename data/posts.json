@@ -1,5 +1,70 @@
 [
   {
+    "id": "569ae20fadc5",
+    "slug": "aqsh-fond-bozorlari-texnologiya-sotuvidan-song-tiklandi-569ae2",
+    "title": "AQSh fond bozorlari texnologiya sotuvidan so'ng tiklandi",
+    "summary": "AQSh fond bozorlari bir necha kunlik texnologiya aksiyalari sotuvidan so'ng tiklandi. Investorlar AI rivojlanishi iste'mol talabi va yuqori inflyatsiya tufayli sekinlashishidan xavotirda edilar.",
+    "tags": [
+      "iqtisod",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-10-15T22:23:21.000Z",
+    "created": "2026-10-15T23:57:27.882Z",
+    "coverage": 1,
+    "source": {
+      "name": "Semafor",
+      "url": "https://semafor.com/article/10/15/2026/us-stocks-recover-after-multi-day-tech-selloff",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "49ddb09a6409",
+    "slug": "flex-rahbari-ai-uchun-infratuzilmani-kengaytirishga-chaqirdi-49ddb0",
+    "title": "Flex rahbari AI uchun infratuzilmani kengaytirishga chaqirdi",
+    "summary": "Ta'minot zanjiri giganti Flex bosh direktori Revathi Advaithi AQShning elektr tarmog'i AI o'sishi bilan birga rivojlanishi kerakligini aytdi. Aks holda, bu \"frontier\" modellarning rivojlanishiga salbiy ta'sir ko'rsatishi mumkin.",
+    "tags": [
+      "biznes",
+      "iqtisod"
+    ],
+    "importance": 4,
+    "score": 19,
+    "published": "2026-10-15T21:29:10.000Z",
+    "created": "2026-10-15T23:57:27.882Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/10/15/flex-ceo-revathi-advaithi-says-infrastructure-grid-needs-to-scale-with-ai-or-else-forget-all-the-frontier-models",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "12fa98d37cbb",
+    "slug": "sega-ai-yordamida-yangilangan-oyinni-sotuvdan-olib-tashladi-12fa98",
+    "title": "Sega AI yordamida yangilangan o'yinni sotuvdan olib tashladi",
+    "summary": "Sega \"Total War: Shogun 2\" o'yinining AI yordamida yangilangan versiyasini sotuvdan olib tashladi. Foydalanuvchilar xatolar va AI tomonidan bajarilgan \"upscaling\" sifatidan shikoyat qilishgan.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-10-15T22:35:55.000Z",
+    "created": "2026-10-15T23:57:27.882Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Verge",
+      "url": "https://theverge.com/games/1012512/sega-total-war-shogun-2-remaster-pulled",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "a72d1e4da6b0",
     "slug": "openai-tadqiqotchilar-uchun-gpt-rosalindni-taqdim-etdi-a72d1e",
     "title": "OpenAI tadqiqotchilar uchun GPT-Rosalind'ni taqdim etdi",
