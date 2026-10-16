@@ -1,5 +1,199 @@
 [
   {
+    "id": "d5bc623f1778",
+    "slug": "hindiston-ai-boshqaruvidagi-jangovar-samolyot-prototipini-na-d5bc62",
+    "title": "Hindiston AI boshqaruvidagi jangovar samolyot prototipini namoyish etdi",
+    "summary": "Hindistonning Flying Wedge Defence & Aerospace kompaniyasi AI boshqaruvidagi FWD Supreme jangovar samolyotining to'liq o'lchamli prototipini taqdim etdi. Kompaniya uni mamlakatdagi birinchi shunday ishlanma deb hisoblaydi.",
+    "tags": [
+      "biznes",
+      "robototexnika"
+    ],
+    "importance": 4,
+    "score": 48,
+    "published": "2026-10-16T07:00:43.000Z",
+    "created": "2026-10-16T07:26:03.065Z",
+    "coverage": 1,
+    "source": {
+      "name": "Kun.uz",
+      "url": "https://kun.uz/news/2026/10/16/uchuvchi-orniga-suniy-intellekt-hindiston-uchuvchisiz-jangovar-aviatsiya-poygasiga-qoshildi",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "75cd1164e729",
+    "slug": "xitoy-temiryo-llarini-ai-yordamida-yangilash-rejasini-elon-q-75cd11",
+    "title": "Xitoy temiryoʻllarini AI yordamida yangilash rejasini e'lon qildi",
+    "summary": "Xitoy 2030-yilgacha temiryo'l sohasini texnologik yangilash rejasini taqdim etdi. Rejada 400 km/soatlik poyezdlar, 600 km/soatlik magnit yostiqchali poyezdlar bo'yicha tadqiqotlar va AI yordamida yo'lovchilarga xizmat ko'rsatish ko'zda tutilgan.",
+    "tags": [
+      "biznes",
+      "siyosat"
+    ],
+    "importance": 3,
+    "score": 48,
+    "published": "2026-10-16T06:50:45.000Z",
+    "created": "2026-10-16T07:26:03.065Z",
+    "coverage": 1,
+    "source": {
+      "name": "Kun.uz",
+      "url": "https://kun.uz/news/2026/10/16/400-kmsoatlik-poyezdlar-va-aqlli-chipta-xizmati-xitoy-temiryollarini-yangilamoqchi",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "a5ccdbfa7149",
+    "slug": "putin-ukrainaga-javob-choralarini-boshlaganini-malum-qildi-a5ccdb",
+    "title": "Putin Ukrainaga javob choralarini boshlaganini ma'lum qildi",
+    "summary": "Rossiya prezidenti Vladimir Putin Kiyevdan marketpleyslar va energetika obyektlariga hujumlarni kutmaganini aytdi. Uning so'zlariga ko'ra, Moskva tomoni allaqachon javob choralarini boshlagan.",
+    "tags": [
+      "siyosat"
+    ],
+    "importance": 4,
+    "score": 45,
+    "published": "2026-10-16T04:24:47.000Z",
+    "created": "2026-10-16T07:26:03.065Z",
+    "coverage": 1,
+    "source": {
+      "name": "Daryo",
+      "url": "https://daryo.uz/2026/10/16/ular-boshladi-putin-marketpleyslar-va-energetika-obyektlaridagi-hujumlarga-javoban-ukrainaga-tahdid-qildi",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "f6ab23a0cd45",
+    "slug": "aqsh-lotin-amerikasida-giyohvand-kartellariga-qarshi-kampani-f6ab23",
+    "title": "AQSh Lotin Amerikasida giyohvand kartellariga qarshi kampaniyani kengaytirdi",
+    "summary": "AQSh Lotin Amerikasida giyohvand kartellariga qarshi harbiy kampaniyasini kengaytirmoqda. The New York Times xabariga ko'ra, AQSh Panamaga 600 askar joylashtirmoqda.",
+    "tags": [
+      "siyosat"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-10-15T22:31:24.000Z",
+    "created": "2026-10-16T07:26:03.065Z",
+    "coverage": 1,
+    "source": {
+      "name": "Semafor",
+      "url": "https://semafor.com/article/10/15/2026/us-expands-military-campaign-against-drug-cartels-in-latin-america",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "3bc85857de13",
+    "slug": "reson8-asoschisi-yevropada-ai-gigantini-qurmoqchi-3bc858",
+    "title": "Reson8 asoschisi Yevropada AI gigantini qurmoqchi",
+    "summary": "Reson8 kompaniyasi asoschisi Yevropada yirik AI gigantini qurishni rejalashtirmoqda. Uning so'zlariga ko'ra, bu uning so'nggi imkoniyati.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-10-16T05:00:46.000Z",
+    "created": "2026-10-16T07:26:03.065Z",
+    "coverage": 1,
+    "source": {
+      "name": "Sifted",
+      "url": "https://sifted.eu/articles/reson8-unicorn-interview",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "a39563497ad3",
+    "slug": "flowbudget-oqim-modellar-namunaviy-byudjetini-baholash-a39563",
+    "title": "FlowBudget: Oqim modellar namunaviy byudjetini baholash",
+    "summary": "FlowBudget tadqiqoti oqim moslashuvchi modellar uchun o'qitishsiz namunaviy byudjetni baholash usulini taklif qiladi. Bu usul xulosa chiqarish xarajatlarini optimallashtirishga yordam beradi.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 1,
+    "score": 13,
+    "published": "2026-10-16T04:00:00.000Z",
+    "created": "2026-10-16T07:26:03.065Z",
+    "coverage": 1,
+    "source": {
+      "name": "arXiv cs.LG",
+      "url": "https://arxiv.org/abs/2610.20636",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "ba817711ae6a",
+    "slug": "hcltech-va-anthropic-agent-aini-global-korxonalarga-yetkazad-ba8177",
+    "title": "HCLTech va Anthropic agent AI'ni global korxonalarga yetkazadi",
+    "summary": "HCLTech va Anthropic kompaniyalari global korxonalarda boshqariladigan agentlik AI'ni kengaytirish uchun hamkorlik qildi. Bu hamkorlik AI'ning biznesda qo'llanilishini oshirishga qaratilgan.",
+    "tags": [
+      "Anthropic",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 13,
+    "published": "2026-10-16T01:00:00.000Z",
+    "created": "2026-10-16T07:26:03.065Z",
+    "coverage": 1,
+    "source": {
+      "name": "FutureCIO",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRXhic01vTkFyV1JvZE5hWnVkQmlqeVRVRHFiTFFmUy02bjROTVVnemM0YmZ3c3BJN00zNVFwell0emZYYlNSamlacS0tT3BDT2VNVjNLZ01sd1IyVWJrZDVBQk8xWHVQa1lXY3AyemJkNmJFNmYxUVloNFRheV9BRXpvb1ZSTGlXcm5YSW1jNlFUSS15U01ZT2FFWmNMMF9CS1lDclpLdkdHWVBX",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "16799702719d",
+    "slug": "ai-agenti-korporativ-malumotlardan-uch-xil-javob-oldi-167997",
+    "title": "AI agenti korporativ ma'lumotlardan uch xil javob oldi",
+    "summary": "AI agenti korporativ ma'lumotlar omboridan sentabr oyi daromadi haqida uch xil javob oldi. SQL so'rovlari xatosiz bo'lsa-da, natijalar farq qilgan.",
+    "tags": [
+      "agentlar",
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 11,
+    "published": "2026-10-16T06:10:25.000Z",
+    "created": "2026-10-16T07:26:03.065Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/companies/otus/articles/1088874",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "76b1f090940e",
+    "slug": "hh-maktabi-tanlovida-ai-ishlari-aniqlandi-76b1f0",
+    "title": "hh maktabi tanlovida AI ishlari aniqlandi",
+    "summary": "hh analitiklar maktabiga 25 o'ringa 250 dan ortiq test ishi kelib tushdi. Ko'plab ishlar neyrosetlar yordamida bajarilgan bo'lib, tashkilotchilar LLM matni ortida nomzodning tushunchasini baholashga e'tibor qaratdi.",
+    "tags": [
+      "mehnat bozori",
+      "ta'lim"
+    ],
+    "importance": 2,
+    "score": 11,
+    "published": "2026-10-16T05:31:21.000Z",
+    "created": "2026-10-16T07:26:03.065Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/companies/hh/articles/1094450",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "c9da9f333917",
     "slug": "hesai-kosmo-3d-dunyo-malumotlar-dvigatelini-ishga-tushirdi-c9da9f",
     "title": "Hesai Kosmo 3D dunyo ma'lumotlar dvigatelini ishga tushirdi",
