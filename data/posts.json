@@ -1,5 +1,48 @@
 [
   {
+    "id": "c097029fff22",
+    "slug": "kaliforniyada-eng-yirik-ai-malumotlar-markazi-boyicha-nizo-c09702",
+    "title": "Kaliforniyada eng yirik AI ma'lumotlar markazi bo'yicha nizo",
+    "summary": "Sebastyan Ruchchi Kaliforniyada eng yirik AI ma'lumotlar markazini qurishni rejalashtirmoqda. Loyiha minglab ish o'rinlari va millionlab soliq tushumlarini va'da qilgan bo'lsa-da, qarshiliklarga uchradi.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 29,
+    "published": "2026-10-17T13:00:31.000Z",
+    "created": "2026-10-17T13:01:24.926Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/us-news/ng-interactive/2026/oct/17/california-datacenter-imperial",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "50730ea4ba9f",
+    "slug": "leyboristlar-suniy-intellekt-xavfidan-xavotirda-50730e",
+    "title": "Leyboristlar sun'iy intellekt xavfidan xavotirda",
+    "summary": "Buyuk Britaniyaning Leyboristlar partiyasi yetakchilari sun'iy intellekt xavfsizligi va uning ekstremistik guruhlar tomonidan qo'llanilishi bo'yicha xavotir bildirmoqda. Rasmiylar AI sohasida jamoatchilikdan ortda qolishdan xavfsiramoqda.",
+    "tags": [
+      "siyosat",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 23,
+    "published": "2026-10-17T11:33:20.000Z",
+    "created": "2026-10-17T13:01:24.926Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/technology/2026/oct/17/artificial-intelligence-ai-labour-government-safety-uk-extremism",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "7a794c33e66c",
     "slug": "shimoliy-koreya-aiga-ega-yangi-torpedani-sinovdan-o-tkazdi-7a794c",
     "title": "Shimoliy Koreya AI'ga ega yangi torpedani sinovdan o‘tkazdi",
