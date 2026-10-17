@@ -1,5 +1,71 @@
 [
   {
+    "id": "8f77b86b8af7",
+    "slug": "paysend-bosh-direktori-ai-vositalarini-chekladi-8f77b8",
+    "title": "Paysend bosh direktori AI vositalarini chekladi",
+    "summary": "Paysend bosh direktori Ben Chisell AI vositalaridan faqat eng yaxshi xodimlar foydalanishini chekladi. Boshqa Buyuk Britaniya kompaniyalari esa AI'ni ish joylarida keng joriy etmoqda.",
+    "tags": [
+      "mehnat bozori",
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 19,
+    "published": "2026-10-17T05:00:01.000Z",
+    "created": "2026-10-17T05:51:03.065Z",
+    "coverage": 1,
+    "source": {
+      "name": "CNBC",
+      "url": "https://cnbc.com/2026/10/17/ai-workplace-tokenmaxxing-paysend.html",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "350abc1edf4d",
+    "slug": "anthropic-so-rovi-ai-nobel-kashfiyotiga-erishadi-350abc",
+    "title": "Anthropic so‘rovi: AI Nobel kashfiyotiga erishadi",
+    "summary": "Anthropic o‘tkazgan so‘rovga ko‘ra, xodimlarning 91 foizi AI 2030-yilga borib Nobel darajasidagi kashfiyot qila olishini kutmoqda. AQSh kattalarining 39 foizi ham shunday fikrda.",
+    "tags": [
+      "Anthropic",
+      "tadqiqot"
+    ],
+    "importance": 4,
+    "score": 18,
+    "published": "2026-10-17T01:00:12.000Z",
+    "created": "2026-10-17T05:51:03.066Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/261016/p28",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "783ac5e9934c",
+    "slug": "scarlet-tibbiy-ai-sertifikati-uchun-50-mln-dollar-yig-di-783ac5",
+    "title": "Scarlet tibbiy AI sertifikati uchun 50 mln dollar yig‘di",
+    "summary": "Londonning Scarlet kompaniyasi tibbiy qurilmalar uchun AI va dasturiy ta'minotni sertifikatlaydi. Kompaniya Series B raundida 50 million dollar mablag' jalb qilib, AQSh va Osiyo-Tinch okeani mintaqasiga kengayadi.",
+    "tags": [
+      "tibbiyot",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-10-17T05:30:01.000Z",
+    "created": "2026-10-17T05:51:03.066Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/261017/p4",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "6694fc54b632",
     "slug": "ubtech-robotlar-uchun-thinker-wm-modelini-taqdim-etdi-6694fc",
     "title": "UBTECH robotlar uchun Thinker-WM modelini taqdim etdi",
