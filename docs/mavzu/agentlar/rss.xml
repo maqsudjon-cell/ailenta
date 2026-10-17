@@ -5,18 +5,8 @@
   <link>https://ailenta.uz/mavzu/agentlar/</link>
   <description>&quot;agentlar&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Sat, 17 Oct 2026 00:05:02 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 17 Oct 2026 00:18:51 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/agentlar/rss.xml" rel="self" type="application/rss+xml"/>
-  <item>
-    <title>Claude dasturchilar kodini uzluksiz tekshirishda qo'llandi</title>
-    <link>https://ailenta.uz/x/claude-dasturchilar-kodini-uzluksiz-tekshirishda-qollandi-50e25b/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/claude-dasturchilar-kodini-uzluksiz-tekshirishda-qollandi-50e25b/</guid>
-    <pubDate>Fri, 16 Oct 2026 22:06:37 GMT</pubDate>
-    <description>Dasturchilar kodni tekshirish jarayonini o'zgartirishmoqda. Endi Claude dasturchi kod yozayotgan paytda uni uzluksiz tekshirib boradi, inson esa yakuniy bosqichda ko'rib chiqadi.</description>
-    <category>Anthropic</category><category>agentlar</category>
-    <media:content url="https://ailenta.uz/og/claude-dasturchilar-kodini-uzluksiz-tekshirishda-qollandi-50e25b.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/claude-dasturchilar-kodini-uzluksiz-tekshirishda-qollandi-50e25b.jpg"/>
-  </item>
   <item>
     <title>Replit bosh direktori &quot;o'z-o'zini boshqaruvchi kompaniya&quot;ni bashorat qildi</title>
     <link>https://ailenta.uz/x/replit-bosh-direktori-oz-ozini-boshqaruvchi-kompaniya-ni-bas-e6b0c9/</link>
@@ -306,6 +296,16 @@
     <category>agentlar</category>
     <media:content url="https://ailenta.uz/og/hpe-ikki-yilda-ai-murojaatlarni-toliq-hal-qiladi-2dfa3d.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/hpe-ikki-yilda-ai-murojaatlarni-toliq-hal-qiladi-2dfa3d.jpg"/>
+  </item>
+  <item>
+    <title>Meta Muse AI agenti o'quvchiga yordam berdi</title>
+    <link>https://ailenta.uz/x/meta-muse-ai-agenti-oquvchiga-yordam-berdi-1fdb12/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/meta-muse-ai-agenti-oquvchiga-yordam-berdi-1fdb12/</guid>
+    <pubDate>Sun, 11 Oct 2026 08:59:01 GMT</pubDate>
+    <description>Franco Lopez Meta'ning Muse AI agentidan o'g'lini astronomiya viktorinasiga tayyorlash uchun foydalandi. Agent unga fleshkartalar va maxsus podkast yaratib berdi, natijada o'g'li viktorinani a'lo bahoga topshirdi.</description>
+    <category>Meta</category><category>agentlar</category>
+    <media:content url="https://ailenta.uz/og/meta-muse-ai-agenti-oquvchiga-yordam-berdi-1fdb12.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/meta-muse-ai-agenti-oquvchiga-yordam-berdi-1fdb12.jpg"/>
   </item>
 </channel>
 </rss>
