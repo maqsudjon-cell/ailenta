@@ -1,5 +1,27 @@
 [
   {
+    "id": "6694fc54b632",
+    "slug": "ubtech-robotlar-uchun-thinker-wm-modelini-taqdim-etdi-6694fc",
+    "title": "UBTECH robotlar uchun Thinker-WM modelini taqdim etdi",
+    "summary": "UBTECH kompaniyasi video, chuqurlik va robot harakatlarini birlashtiruvchi Thinker-WM modelini namoyish qildi. Ishlab chiquvchilarning ta'kidlashicha, model jismoniy AI uchun uchta sinov to'plamida eng yuqori natijani ko'rsatgan. Chuqurlik ma'lumotlarining qo'shilishi RoboTwin sinovida vazifani bajarish muvaffaqiyatini 15 foiz punktga oshirgan.",
+    "tags": [
+      "robototexnika",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 18,
+    "published": "2026-10-17T02:19:16.000Z",
+    "created": "2026-10-17T05:01:55.031Z",
+    "coverage": 1,
+    "source": {
+      "name": "Pandaily",
+      "url": "https://pandaily.com/ubtech-thinker-wm-unified-world-model-rgb-depth-action-worldolympiad-ewmbench-worldarena",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "308a8a73b825",
     "slug": "anthropic-aini-koreys-mualliflari-asarlarida-oqitgan-308a8a",
     "title": "Anthropic AI'ni koreys mualliflari asarlarida o'qitgan",
