@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://ailenta.uz/x/anthropic-ai-modellarini-toxtatish-boyicha-loyiha-tuzdi-4c70c8/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>AI Lenta</news:name>
+        <news:language>uz</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-17T00:25:00.000Z</news:publication_date>
+      <news:title>Anthropic AI modellarini to'xtatish bo'yicha loyiha tuzdi</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://ailenta.uz/x/apple-nomaqbul-ai-ilovalariga-cheklov-ornatdi-c89c30/</loc>
     <news:news>
       <news:publication>
@@ -596,14 +607,25 @@
     </news:news>
   </url>
   <url>
-    <loc>https://ailenta.uz/x/diskret-diffuziyada-tezlashtirish-uchun-vista-usuli-f86f8c/</loc>
+    <loc>https://ailenta.uz/x/sinov-toplamlari-tolganda-ai-qobiliyatini-baholash-usuli-4f5a3d/</loc>
     <news:news>
       <news:publication>
         <news:name>AI Lenta</news:name>
         <news:language>uz</news:language>
       </news:publication>
       <news:publication_date>2026-10-16T04:00:00.000Z</news:publication_date>
-      <news:title>Diskret diffuziyada tezlashtirish uchun VISTA usuli</news:title>
+      <news:title>Sinov to'plamlari to'lganda AI qobiliyatini baholash usuli</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://ailenta.uz/x/diskret-diffuziyani-tezlashtirish-uchun-vista-usuli-f86f8c/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>AI Lenta</news:name>
+        <news:language>uz</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-16T04:00:00.000Z</news:publication_date>
+      <news:title>Diskret diffuziyani tezlashtirish uchun VISTA usuli</news:title>
     </news:news>
   </url>
   <url>
@@ -1605,28 +1627,6 @@
       </news:publication>
       <news:publication_date>2026-10-15T01:00:00.000Z</news:publication_date>
       <news:title>Razer bosh direktori: AI barchani geymerga aylantirmoqda</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://ailenta.uz/x/anthropic-tennessi-universiteti-patent-davosidan-qochmoqda-3b730d/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>AI Lenta</news:name>
-        <news:language>uz</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T00:54:29.000Z</news:publication_date>
-      <news:title>Anthropic Tennessi universiteti patent da'vosidan qochmoqda</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://ailenta.uz/x/kichik-biznes-egalari-ai-unumdorlikni-oshirishini-aytdi-d7f4f4/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>AI Lenta</news:name>
-        <news:language>uz</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T00:50:50.000Z</news:publication_date>
-      <news:title>Kichik biznes egalari AI unumdorlikni oshirishini aytdi</news:title>
     </news:news>
   </url>
 </urlset>

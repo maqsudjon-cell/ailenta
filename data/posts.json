@@ -1,16 +1,59 @@
 [
   {
-    "id": "f86f8cbf4aa8",
-    "slug": "diskret-diffuziyada-tezlashtirish-uchun-vista-usuli-f86f8c",
-    "title": "Diskret diffuziyada tezlashtirish uchun VISTA usuli",
-    "summary": "Diskret diffuziya modellarida SMC yo'naltirishini har bir bosqichda qo'llash katta hisoblash resurslarini talab qiladi. Tadqiqotchilar bu xarajatni kamaytirish uchun VISTA deb nomlangan o'qitishni talab qilmaydigan avtomatik usulni taklif etishdi.",
+    "id": "4c70c8cc87f9",
+    "slug": "anthropic-ai-modellarini-toxtatish-boyicha-loyiha-tuzdi-4c70c8",
+    "title": "Anthropic AI modellarini to'xtatish bo'yicha loyiha tuzdi",
+    "summary": "Anthropic hukumatga sun'iy intellekt modellarini faqat favqulodda holatlarda to'xtatishga ruxsat beruvchi qonun loyihasini ishlab chiqdi. Hujjat AIning xavfsizligini tartibga solish bo'yicha takliflarni o'z ichiga oladi.",
+    "tags": [
+      "Anthropic",
+      "qonun"
+    ],
+    "importance": 4,
+    "score": 10,
+    "published": "2026-10-17T00:25:00.000Z",
+    "created": "2026-10-17T00:44:57.152Z",
+    "coverage": 1,
+    "source": {
+      "name": "BigGo Finance",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBDSndNVUxmSlFUOWtHMktlaE5rbXZjNFFlNXNtWnAxeFRXa29jOEdkSFg4dVU2T1VlYmdtRUk3U0FTZzJacnQ5UnBPeE1Fd1BfNGhjNGI2a2lKSm1MaV9CaG9MdUZsWjhqTUlIT055N3NBdUZfU3c",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "4f5a3d65e49a",
+    "slug": "sinov-toplamlari-tolganda-ai-qobiliyatini-baholash-usuli-4f5a3d",
+    "title": "Sinov to'plamlari to'lganda AI qobiliyatini baholash usuli",
+    "summary": "AI rivojlanishi tufayli mavjud sinov to'plamlari o'z samaradorligini yo'qotmoqda. Tadqiqotchilar modellar natijalari maksimal darajaga yetganda ham ularning imkoniyatlarini baholash uchun topshiriq bajarish qaydlaridan foydalanishni taklif qildi.",
     "tags": [
       "tadqiqot"
     ],
     "importance": 2,
-    "score": 6.6,
+    "score": 6.5,
     "published": "2026-10-16T04:00:00.000Z",
-    "created": "2026-10-17T00:36:35.718Z",
+    "created": "2026-10-17T00:44:57.152Z",
+    "coverage": 1,
+    "source": {
+      "name": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2610.20667",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "f86f8cbf4aa8",
+    "slug": "diskret-diffuziyani-tezlashtirish-uchun-vista-usuli-f86f8c",
+    "title": "Diskret diffuziyani tezlashtirish uchun VISTA usuli",
+    "summary": "Tadqiqotchilar diskret diffuziyada Monte-Karlo yo'nalishini tezlashtiruvchi VISTA usulini taqdim etdi. Ushbu qo'shimcha o'qitishni talab qilmaydigan usul hisoblash xarajatlarini kamaytirishga yordam beradi.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 1,
+    "score": 6.5,
+    "published": "2026-10-16T04:00:00.000Z",
+    "created": "2026-10-17T00:44:57.152Z",
     "coverage": 1,
     "source": {
       "name": "arXiv cs.AI",
