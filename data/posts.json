@@ -1,5 +1,206 @@
 [
   {
+    "id": "65442e708214",
+    "slug": "ita-banki-oz-mijozlari-uchun-ai-joriy-etmoqda-65442e",
+    "title": "Itaú banki o'z mijozlari uchun AI joriy etmoqda",
+    "summary": "Braziliyaning Itaú banki mijozlar va xodimlar uchun AI First strategiyasini qo'llamoqda. Buning uchun ia.i so'zlashuv interfeysi va IARA boshqaruv platformasi ishga tushirildi.",
+    "tags": [
+      "OpenAI",
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 33,
+    "published": "2026-10-16T19:00:00.000Z",
+    "created": "2026-10-16T23:57:25.801Z",
+    "coverage": 1,
+    "source": {
+      "name": "OpenAI",
+      "url": "https://openai.com/index/itau-generative-ai",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "edac9c360779",
+    "slug": "anthropic-xodimlari-ai-ish-orinlarini-egallashiga-ishonadi-edac9c",
+    "title": "Anthropic xodimlari AI ish o'rinlarini egallashiga ishonadi",
+    "summary": "Anthropic kompaniyasi 1334 nafar xodimi o'rtasida so'rovnoma o'tkazdi. Natijalarga ko'ra, xodimlar 2030-yilga borib AI ularning ishining 80 foizini bajarishini taxmin qilmoqda.",
+    "tags": [
+      "Anthropic",
+      "mehnat bozori"
+    ],
+    "importance": 3,
+    "score": 24,
+    "published": "2026-10-16T22:48:53.000Z",
+    "created": "2026-10-16T23:57:25.801Z",
+    "coverage": 2,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/anthropic-survey-reveals-ai-potential-impact-on-unemployment-2026-10",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "Business Insider",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTUtQVmpxb255WWNodDByNXRKVWx1VzZfQWFtUTJLeU1qZ25uLVFpVmwwZDhscnRuRjczdTZIZ1luVjRRNEI2SUpPaFZfc0pPeVRPN3otcXlfcTFoeG1vNWxxYXZOM2RhSFl5eC1LRWhaZ0xFRlNzeG9DQjVCcFpYZzNoT1NaTGpRaWUwZFB3Vy1GSV90Yi11WlpkU25RRzZwRlE"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "50e25bfb1e83",
+    "slug": "claude-dasturchilar-kodini-uzluksiz-tekshirishda-qollandi-50e25b",
+    "title": "Claude dasturchilar kodini uzluksiz tekshirishda qo'llandi",
+    "summary": "Dasturchilar kodni tekshirish jarayonini o'zgartirishmoqda. Endi Claude dasturchi kod yozayotgan paytda uni uzluksiz tekshirib boradi, inson esa yakuniy bosqichda ko'rib chiqadi.",
+    "tags": [
+      "Anthropic",
+      "agentlar"
+    ],
+    "importance": 2,
+    "score": 24,
+    "published": "2026-10-16T22:06:37.000Z",
+    "created": "2026-10-16T23:57:25.801Z",
+    "coverage": 1,
+    "source": {
+      "name": "Simon Willison",
+      "url": "https://simonwillison.net/2026/Oct/16/code-review",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "753fd2575467",
+    "slug": "raqamli-malumotlarni-tozalash-boyicha-tavsiyalar-753fd2",
+    "title": "Raqamli ma'lumotlarni tozalash bo'yicha tavsiyalar",
+    "summary": "Mutaxassislar raqamli izlarni tozalash va ma'lumotlarni sun'iy intellektdan himoya qilish bo'yicha maslahatlar berdi. Bu nafaqat unumdorlikni oshiradi, balki atrof-muhitga ta'sirni ham kamaytiradi.",
+    "tags": [
+      "maxfiylik"
+    ],
+    "importance": 1,
+    "score": 23,
+    "published": "2026-10-16T23:00:15.000Z",
+    "created": "2026-10-16T23:57:25.801Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/australia-news/2026/oct/17/decluttering-online-how-to-get-your-digital-house-in-order-protect-data-ai",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "c89c30ae4186",
+    "slug": "apple-ai-nudify-ilovalariga-qarshi-qoidalarni-yangiladi-c89c30",
+    "title": "Apple AI nudify ilovalariga qarshi qoidalarni yangiladi",
+    "summary": "Apple kompaniyasi App Review yo'riqnomasiga o'zgartirish kiritdi. Yangi qoidalar zararli kontent hamda AI yordamida kiyimlarni olib tashlaydigan ilovalarga qarshi kurashishni kuchaytiradi.",
+    "tags": [
+      "Apple",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-10-16T23:45:01.000Z",
+    "created": "2026-10-16T23:57:25.801Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/261016/p26",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "f9efb5e576a0",
+    "slug": "filadelfiyada-yetkazib-berish-robotini-tosqan-ayol-ushlandi-f9efb5",
+    "title": "Filadelfiyada yetkazib berish robotini tosqan ayol ushlandi",
+    "summary": "Filadelfiya markazida yetkazib berish robotining yo'lini tosib qo'ygan ayol hibsga olindi.",
+    "tags": [
+      "robototexnika"
+    ],
+    "importance": 1,
+    "score": 13.4,
+    "published": "2026-10-16T02:04:26.000Z",
+    "created": "2026-10-16T23:57:25.801Z",
+    "coverage": 1,
+    "source": {
+      "name": "Hacker News",
+      "url": "https://6abc.com/post/woman-arrested-blocking-delivery-robot-center-city-philadelphia-confrontation/19941323",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "e37fe0592bd2",
+    "slug": "tsmc-teksasda-zavodlarni-kengaytirishni-organmoqda-e37fe0",
+    "title": "TSMC Teksasda zavodlarni kengaytirishni o'rganmoqda",
+    "summary": "TSMC kompaniyasi Teksas shtatida faoliyatini kengaytirish imkoniyatlarini ko'rib chiqmoqda. Bunga sun'iy intellekt chiplariga bo'lgan talabning ishlab chiqarish hajmidan ortib ketgani sabab bo'ldi.",
+    "tags": [
+      "chiplar",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 7,
+    "published": "2026-10-16T20:55:48.000Z",
+    "created": "2026-10-16T23:57:25.801Z",
+    "coverage": 1,
+    "source": {
+      "name": "The American Bazaar",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMlVjSEJIaVVBbFBJZGlUSlV2TWQzY3VBTVNoZ2h2aE9LM2J1VEhVaGFhdm8xT25TeGF2czhVeTBFRWxST2R0UjNnWFRFX1pRY2hJS1NiUGloQjdwT3kyOWtFb2tqUjkxcTFmeXdWVlZDSFdMODJuMWtCbWw1T3V0bUtlMXJXS3M2cExFbmRjNlFpdDl6UlNNRDJCQ3NIdVJ6b0FfRjVMMlI0ckp5Q2t5Uk5POFltSHQyelg0",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "a50379d7b198",
+    "slug": "aqsh-xavotirlari-sabab-korfazga-ai-chiplari-kechikmoqda-a50379",
+    "title": "AQSh xavotirlari sabab Ko'rfazga AI chiplari kechikmoqda",
+    "summary": "AQSh rasmiylarining xavotirlari sababli Ko'rfaz mamlakatlariga AI chiplarini yetkazib berish kechikmoqda. Cheklovlar texnologiyalar xavfsizligini ta'minlash bilan bog'liq.",
+    "tags": [
+      "chiplar",
+      "siyosat"
+    ],
+    "importance": 3,
+    "score": 6.9,
+    "published": "2026-10-16T11:48:22.000Z",
+    "created": "2026-10-16T23:57:25.802Z",
+    "coverage": 1,
+    "source": {
+      "name": "Arabian Gulf Business Insight | AGBI",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNVJ0dDYtb0U3NHNDOEZsanJMTkF0Z19BTEVxTkpSMDRVeEo1NXh4RWtYcHdzbXNpS0VsSjJIX0xyTGc3NVVoa2xzbGdSTXRySnVEaHItTVpzZzIzMDY5RXlQNWxXaG02eGpWOWdnd0JLS0hpa1JvX0RHUTU5eXVmamlERk5WcG9tX1RhcjU2X1h0Zw",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "cac5f766a130",
+    "slug": "apple-va-meta-ai-sohasida-hamkorlik-boshladi-cac5f7",
+    "title": "Apple va Meta AI sohasida hamkorlik boshladi",
+    "summary": "Apple va Meta kompaniyalari sun'iy intellekt sohasida o'zaro hamkorlikni yo'lga qo'ydi. Mark Zuckerberg ushbu hamkorlik uchun Apple rahbari Tim Kukka minnatdorchilik bildirdi.",
+    "tags": [
+      "Apple",
+      "Meta"
+    ],
+    "importance": 4,
+    "score": 6.9,
+    "published": "2026-10-16T11:36:00.000Z",
+    "created": "2026-10-16T23:57:25.802Z",
+    "coverage": 1,
+    "source": {
+      "name": "24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNa0RQckJQTE1xX0dqQV91TkVmbGk5aWxyV1NTcUx6RjFPT1I4aDV6LVU4cTM3OVRRUWdIaTI0dVBzQmFzYzZsZHhXNWQzdEdfdDltOWxibUJPTWZtc3UyNk1zeHhWR2tBemtpaGx0S2RQZ0xRQXlMQXB6MFJoOVlQNWlDRUJzVXVYMlJOazY1b1BfRXNoWlpjSkhtWDI4Slo1MHVtRFl3anc3VmcxajZXelJJZGNqUzFLOVE5SW5B",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "acafffd394bd",
     "slug": "oq-uy-sobiq-matbuot-kotibi-ai-startapi-bilan-bogliq-acafff",
     "title": "Oq uy sobiq matbuot kotibi AI startapi bilan bog'liq",
