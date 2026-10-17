@@ -5,7 +5,7 @@
   <link>https://ailenta.uz/mavzu/tadqiqot/</link>
   <description>&quot;tadqiqot&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Sat, 17 Oct 2026 00:18:51 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 17 Oct 2026 00:43:35 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/tadqiqot/rss.xml" rel="self" type="application/rss+xml"/>
   <item>
     <title>ESP32 mikro boshqaruvchida matndan rasm yaratish imkoniyati</title>
@@ -136,6 +136,16 @@
     <category>tadqiqot</category><category>tibbiyot</category>
     <media:content url="https://ailenta.uz/og/inson-miyasi-kompyuterlari-brayl-harflarini-aniqladi-98e687.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/inson-miyasi-kompyuterlari-brayl-harflarini-aniqladi-98e687.jpg"/>
+  </item>
+  <item>
+    <title>Diskret diffuziyada tezlashtirish uchun VISTA usuli</title>
+    <link>https://ailenta.uz/x/diskret-diffuziyada-tezlashtirish-uchun-vista-usuli-f86f8c/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/diskret-diffuziyada-tezlashtirish-uchun-vista-usuli-f86f8c/</guid>
+    <pubDate>Fri, 16 Oct 2026 04:00:00 GMT</pubDate>
+    <description>Diskret diffuziya modellarida SMC yo'naltirishini har bir bosqichda qo'llash katta hisoblash resurslarini talab qiladi. Tadqiqotchilar bu xarajatni kamaytirish uchun VISTA deb nomlangan o'qitishni talab qilmaydigan avtomatik usulni taklif etishdi.</description>
+    <category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/diskret-diffuziyada-tezlashtirish-uchun-vista-usuli-f86f8c.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/diskret-diffuziyada-tezlashtirish-uchun-vista-usuli-f86f8c.jpg"/>
   </item>
   <item>
     <title>FlowBudget: Oqim modellar namunaviy byudjetini baholash</title>
@@ -296,16 +306,6 @@
     <category>tadqiqot</category><category>biznes</category>
     <media:content url="https://ailenta.uz/og/scivisual-startapi-onlab-million-yuan-jalb-qildi-32840c.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/scivisual-startapi-onlab-million-yuan-jalb-qildi-32840c.jpg"/>
-  </item>
-  <item>
-    <title>Professor Eric So AI va inson miyasi o'zaro ta'sirini o'rganmoqda</title>
-    <link>https://ailenta.uz/x/professor-eric-so-ai-va-inson-miyasi-ozaro-tasirini-organmoq-bdb5f9/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/professor-eric-so-ai-va-inson-miyasi-ozaro-tasirini-organmoq-bdb5f9/</guid>
-    <pubDate>Thu, 15 Oct 2026 04:00:00 GMT</pubDate>
-    <description>Professor Eric So o'zining yangi kitobida sun'iy intellektning inson miyasi va jamiyatga ta'sirini o'rganadi. U texnologiyaning bizning fikrlash qobiliyatimizga qanday ta'sir qilishini tahlil qiladi.</description>
-    <category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/professor-eric-so-ai-va-inson-miyasi-ozaro-tasirini-organmoq-bdb5f9.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/professor-eric-so-ai-va-inson-miyasi-ozaro-tasirini-organmoq-bdb5f9.jpg"/>
   </item>
 </channel>
 </rss>

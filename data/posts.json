@@ -1,5 +1,26 @@
 [
   {
+    "id": "f86f8cbf4aa8",
+    "slug": "diskret-diffuziyada-tezlashtirish-uchun-vista-usuli-f86f8c",
+    "title": "Diskret diffuziyada tezlashtirish uchun VISTA usuli",
+    "summary": "Diskret diffuziya modellarida SMC yo'naltirishini har bir bosqichda qo'llash katta hisoblash resurslarini talab qiladi. Tadqiqotchilar bu xarajatni kamaytirish uchun VISTA deb nomlangan o'qitishni talab qilmaydigan avtomatik usulni taklif etishdi.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 6.6,
+    "published": "2026-10-16T04:00:00.000Z",
+    "created": "2026-10-17T00:36:35.718Z",
+    "coverage": 1,
+    "source": {
+      "name": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2610.20669",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "c89c30ae4186",
     "slug": "apple-nomaqbul-ai-ilovalariga-cheklov-ornatdi-c89c30",
     "title": "Apple nomaqbul AI ilovalariga cheklov o'rnatdi",
