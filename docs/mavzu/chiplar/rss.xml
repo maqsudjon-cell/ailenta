@@ -5,7 +5,7 @@
   <link>https://ailenta.uz/mavzu/chiplar/</link>
   <description>&quot;chiplar&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Sat, 17 Oct 2026 06:43:55 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 17 Oct 2026 07:08:54 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/chiplar/rss.xml" rel="self" type="application/rss+xml"/>
   <item>
     <title>ESP32 mikro boshqaruvchida matndan rasm yaratish imkoniyati</title>
@@ -36,6 +36,16 @@
     <category>chiplar</category><category>iqtisod</category>
     <media:content url="https://ailenta.uz/og/aqsh-cheklovlari-xitoy-chiplari-rivojiga-turtki-boldi-addaf9.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/aqsh-cheklovlari-xitoy-chiplari-rivojiga-turtki-boldi-addaf9.jpg"/>
+  </item>
+  <item>
+    <title>Cadence AI chip ishlab chiqarishda yangi hamkorlik boshladi</title>
+    <link>https://ailenta.uz/x/cadence-ai-chip-ishlab-chiqarishda-yangi-hamkorlik-boshladi-537f8b/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/cadence-ai-chip-ishlab-chiqarishda-yangi-hamkorlik-boshladi-537f8b/</guid>
+    <pubDate>Fri, 16 Oct 2026 00:46:03 GMT</pubDate>
+    <description>Cadence Design Systems kompaniyasi AI chiplarini ishlab chiqarishni rivojlantirish maqsadida yangi sanoat hamkorligini yo'lga qo'ydi. Bu haqda Simply Wall Street xabar berdi.</description>
+    <category>chiplar</category><category>biznes</category>
+    <media:content url="https://ailenta.uz/og/cadence-ai-chip-ishlab-chiqarishda-yangi-hamkorlik-boshladi-537f8b.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/cadence-ai-chip-ishlab-chiqarishda-yangi-hamkorlik-boshladi-537f8b.jpg"/>
   </item>
   <item>
     <title>TSMC chip quvvatlari uchun raqobat kuchaymoqda</title>
@@ -296,16 +306,6 @@
     <category>chiplar</category><category>iqtisod</category>
     <media:content url="https://ailenta.uz/og/shaxsiy-kompyuterlar-yetkazib-berish-20-foizga-kamaydi-eb04a6.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/shaxsiy-kompyuterlar-yetkazib-berish-20-foizga-kamaydi-eb04a6.jpg"/>
-  </item>
-  <item>
-    <title>AI poygasida moliyalashtirish hal qiluvchi rol o'ynaydi</title>
-    <link>https://ailenta.uz/x/ai-poygasida-moliyalashtirish-hal-qiluvchi-rol-oynaydi-e46fd1/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/ai-poygasida-moliyalashtirish-hal-qiluvchi-rol-oynaydi-e46fd1/</guid>
-    <pubDate>Fri, 09 Oct 2026 10:00:43 GMT</pubDate>
-    <description>Fortune nashrining ta'kidlashicha, sun'iy intellekt poygasi taqdirini nafaqat yaxshi chiplar, balki moliyalashtirish ham hal qilishi mumkin. Bu sohadagi raqobatda investitsiyalar muhim ahamiyatga ega.</description>
-    <category>iqtisod</category><category>chiplar</category>
-    <media:content url="https://ailenta.uz/og/ai-poygasida-moliyalashtirish-hal-qiluvchi-rol-oynaydi-e46fd1.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/ai-poygasida-moliyalashtirish-hal-qiluvchi-rol-oynaydi-e46fd1.jpg"/>
   </item>
 </channel>
 </rss>
