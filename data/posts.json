@@ -1,5 +1,49 @@
 [
   {
+    "id": "8e5ac8331e5d",
+    "slug": "uoll-strit-ai-pufagi-boyicha-bahslashmoqda-8e5ac8",
+    "title": "Uoll-strit AI pufagi bo'yicha bahslashmoqda",
+    "summary": "Uoll-stritda sun'iy intellekt sohasidagi so'nggi ogohlantirishlar haqiqiy xavf yoki yo'qligi muhokama qilinmoqda. Mutaxassislar bozorning qaysi nuqtasi hal qiluvchi bo'lishi borasida bir qarorga kelmagan.",
+    "tags": [
+      "iqtisod",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-10-17T19:43:24.000Z",
+    "created": "2026-10-17T21:36:50.115Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/10/17/ai-boom-vs-bust-bubble-warning-hyperscaler-spending-debt-coreweave-nvidia",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "72a61b821235",
+    "slug": "apple-va-meta-ai-sababli-kelishib-oldi-72a61b",
+    "title": "Apple va Meta AI sababli kelishib oldi",
+    "summary": "Apple va Meta kompaniyalari o'rtasidagi kelishmovchiliklar hal qilindi. Sun'iy intellekt rivoji ikki texnologiya gigantini o'zaro sulh tuzishga majbur qildi.",
+    "tags": [
+      "Apple",
+      "Meta"
+    ],
+    "importance": 3,
+    "score": -4.6,
+    "published": "2026-10-16T04:32:00.000Z",
+    "created": "2026-10-17T21:36:50.115Z",
+    "coverage": 1,
+    "source": {
+      "name": "36Kr",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBTaF9IOVJ4Ny1EWEVRR01ieUJIcTJKRHlsT2hKYTEyTHN4Z21aZ0trWWR3MjJuRUcwS1VfZmc3NFRYWlVKZFAwVUI3V0dBUzVMYWd3",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "9ae363a351de",
     "slug": "nobel-sohibi-ai-mehnat-bozorini-yoq-qilishidan-ogohlantirdi-9ae363",
     "title": "Nobel sohibi AI mehnat bozorini yo'q qilishidan ogohlantirdi",
