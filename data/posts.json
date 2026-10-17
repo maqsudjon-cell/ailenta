@@ -1,5 +1,94 @@
 [
   {
+    "id": "042efcaa7448",
+    "slug": "claude-nist-egri-chiziqlari-sirlarini-ochdi-042efc",
+    "title": "Claude NIST egri chiziqlari sirlarini ochdi",
+    "summary": "25 yil davomida NIST P-192…P-521 standart egri chiziqlari seed'larining kelib chiqishi noma'lum edi. Claude AI modeli yarim soat ichida ularning 1997-1998 yillardagi Unix vaqti bilan bog'liqligini aniqladi.",
+    "tags": [
+      "tadqiqot",
+      "Anthropic"
+    ],
+    "importance": 3,
+    "score": 11,
+    "published": "2026-10-17T16:05:32.000Z",
+    "created": "2026-10-17T16:08:37.876Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1095684",
+      "title": "[Перевод] 25 лет гадали, откуда у кривых NIST seed'ы. Оказалось, это lrand48 и отметка времени, а не хеш шуточной фразы",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "5e2fd51dfbf5",
+    "slug": "ai-aksiyalari-tushdi-bozor-tebrandi-5e2fd5",
+    "title": "AI aksiyalari tushdi, bozor tebrandi",
+    "summary": "O'tgan hafta AI aksiyalari bozorida pasayish kuzatildi. Biroq, banklarning mustahkam daromadlari va texnologiyadan tashqari sohalarga o'tish optimizm uchun asos bo'ldi.",
+    "tags": [
+      "iqtisod",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-10-17T15:42:34.000Z",
+    "created": "2026-10-17T16:09:58.944Z",
+    "coverage": 1,
+    "source": {
+      "name": "CNBC",
+      "url": "https://cnbc.com/investingclub/2026/10/17/ai-stocks-plunge-inflation-heats-up-where-were-still-finding-opportunities.html",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "ed956137616b",
+    "slug": "meta-ai-malumot-yigish-shartlarini-ozgartirdi-ed9561",
+    "title": "Meta AI ma'lumot yig'ish shartlarini o'zgartirdi",
+    "summary": "Meta biznes akkauntlari bilan bog'liq veb-saytlarni skreyping qilish imkonini beruvchi shartlar tilini olib tashladi. Kompaniya bu faqat reklama va biznes mahsulotlariga tegishli ekanligini ta'kidladi.",
+    "tags": [
+      "Meta",
+      "maxfiylik"
+    ],
+    "importance": 4,
+    "score": 15,
+    "published": "2026-10-17T15:50:02.000Z",
+    "created": "2026-10-17T16:09:58.944Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/261017/p14",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "7e3b64945c8d",
+    "slug": "meta-ai-kozoynaklari-sanat-asarlarini-tasvirlaydi-7e3b64",
+    "title": "Meta AI ko'zoynaklari san'at asarlarini tasvirlaydi",
+    "summary": "Milandagi Brera muzeyida Meta'ning AI ko'zoynaklari ko'zi ojiz tashrif buyuruvchilarga sakkizta san'at asarini tasvirlab berdi. Bu texnologiya ularga san'atni his qilish imkonini beradi.",
+    "tags": [
+      "Meta",
+      "robototexnika"
+    ],
+    "importance": 3,
+    "score": 5,
+    "published": "2026-10-16T23:02:35.000Z",
+    "created": "2026-10-17T16:09:58.944Z",
+    "coverage": 1,
+    "source": {
+      "name": "MIXED Reality News",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUjJQLWd0WXBaYXY3a0tfNUFWMFlqZkRCbDZkcXRTUXFULTBzclBySF9XT0pCekR4dER1LXdwaEptUEFDNEJ2OFNmTnNfTzBGM0FSYm9kZEQ1RjB4QXhDTzRFc2prTDc5T2YzVDR6c0hTUGV0dVhMZmFDTnA1bzNMYzVOcUstX1FMSzlGM1JXaw",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "1c1cd0fe4716",
     "slug": "xitoyning-ochiq-ai-modellari-xavotir-uygotmoqda-1c1cd0",
     "title": "Xitoyning ochiq AI modellari xavotir uyg'otmoqda",

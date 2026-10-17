@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/tadqiqot/</link>
   <description>&quot;tadqiqot&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Sat, 17 Oct 2026 16:07:10 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 17 Oct 2026 16:23:08 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/tadqiqot/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Claude NIST egri chiziqlari sirlarini ochdi</title>
+    <link>https://ailenta.uz/x/claude-nist-egri-chiziqlari-sirlarini-ochdi-042efc/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/claude-nist-egri-chiziqlari-sirlarini-ochdi-042efc/</guid>
+    <pubDate>Sat, 17 Oct 2026 16:05:32 GMT</pubDate>
+    <description>25 yil davomida NIST P-192…P-521 standart egri chiziqlari seed'larining kelib chiqishi noma'lum edi. Claude AI modeli yarim soat ichida ularning 1997-1998 yillardagi Unix vaqti bilan bog'liqligini aniqladi.</description>
+    <category>tadqiqot</category><category>Anthropic</category>
+    <media:content url="https://ailenta.uz/og/claude-nist-egri-chiziqlari-sirlarini-ochdi-042efc.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/claude-nist-egri-chiziqlari-sirlarini-ochdi-042efc.jpg"/>
+  </item>
   <item>
     <title>Yurgen Shmidxuber AI ijodkorligi haqida fikr bildirdi</title>
     <link>https://ailenta.uz/x/yurgen-shmidxuber-ai-ijodkorligi-haqida-fikr-bildirdi-8958ac/</link>
@@ -296,16 +306,6 @@
     <category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/onlayn-tanishuvda-aidan-foydalanish-sorovnomasi-66e031.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/onlayn-tanishuvda-aidan-foydalanish-sorovnomasi-66e031.jpg"/>
-  </item>
-  <item>
-    <title>Revers-injeneriya hamjamiyati AI sabab yopildi</title>
-    <link>https://ailenta.uz/x/revers-injeneriya-hamjamiyati-ai-sabab-yopildi-c8912e/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/revers-injeneriya-hamjamiyati-ai-sabab-yopildi-c8912e/</guid>
-    <pubDate>Thu, 15 Oct 2026 16:31:30 GMT</pubDate>
-    <description>Video o'yinlarni revers-injeneriya qilish hamjamiyati o'z faoliyatini to'xtatdi. Sun'iy intellekt ilgari murakkab bo'lgan dekompilyatsiya jarayonini juda oson bajarayotgani bunga sabab bo'ldi.</description>
-    <category>tadqiqot</category><category>xavfsizlik</category>
-    <media:content url="https://ailenta.uz/og/revers-injeneriya-hamjamiyati-ai-sabab-yopildi-c8912e.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/revers-injeneriya-hamjamiyati-ai-sabab-yopildi-c8912e.jpg"/>
   </item>
 </channel>
 </rss>
