@@ -1,5 +1,49 @@
 [
   {
+    "id": "f8d655888dc5",
+    "slug": "ai-genomlarni-tahlil-qilishga-tayyor-emas-f8d655",
+    "title": "AI genomlarni tahlil qilishga tayyor emas",
+    "summary": "Odam hujayralaridagi DNK shunchaki ko'rsatmalar ketma-ketligi emas, balki dinamik tuzilmadir. AI modellarida uni to'liq deshifrlash uchun yetarlicha ma'lumotlar hali yo'q.",
+    "tags": [
+      "tadqiqot",
+      "tibbiyot"
+    ],
+    "importance": 2,
+    "score": 23,
+    "published": "2026-10-17T09:00:00.000Z",
+    "created": "2026-10-17T09:36:04.226Z",
+    "coverage": 1,
+    "source": {
+      "name": "Wired",
+      "url": "https://wired.com/story/why-ai-isnt-ready-to-tackle-our-convoluted-genomes",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "a1865fb6bac8",
+    "slug": "hindistonda-ai-chiplarini-ishlatish-muammosi-a1865f",
+    "title": "Hindistonda AI chiplarini ishlatish muammosi",
+    "summary": "Hindiston tobora ko'proq AI chiplarini sotib olmoqda. Mamlakat uchun asosiy sinov ushbu chiplarning uzluksiz ishlashini ta'minlashdan iborat.",
+    "tags": [
+      "chiplar",
+      "iqtisod"
+    ],
+    "importance": 3,
+    "score": 11,
+    "published": "2026-10-17T08:39:42.000Z",
+    "created": "2026-10-17T09:36:04.227Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOT1RNUGxOYUlvRzAzTERmSV9DWjVjOWdKekVUdXJBZlNnYk5WUktnTGw5YnNHZ19yU3l1RGg3bXAwc2NMZFZQMy1Eb19WaFNON2tDZ3VYaHNKdDlQSDhSX0R3MEl1RWZERFZ4VnowNzlJV2RuTzRleG9IRkdKRm96a2kzeDViSmVzOVFRcVhTLU9JTWlwWHMzZjdTbjlCUDZvdHltZmVHcm0wLTBQeGlNWGZ1QUJHYmo3S0lkbzdEUVd3OUdvMi1oZUdIbTJmaUnSAdQBQVVfeXFMUE1HNmE4ZkJlOV9rTzVsYzVYY0RjcldQeHZaTUVWMHRDSHpQMVdyTmZVRGlRUzZXRU92ay1kVVRqbzFZMVVqQWUxeTFUZVhHYmNyOXN0SmtqRE56QzZ6VnhpMzAzbHNwSm82MkNxVWwwRTQwcE4tandBeUVBRl9JT1h0SkVkZTRMNlhyXzRvUllFZWR2dnpFT0JkcjA0b2FJUnotSEZNRG5BRWVuclV1ZTJnRWtuT1M5SXFRcVJ0dWJfcVN0TmEzcFd1eHQ2OFRuTnplaVA",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "f0f70cff19f2",
     "slug": "sentyabr-oyidagi-yangi-ai-chiplari-va-texnik-sharh-f0f70c",
     "title": "Sentyabr oyidagi yangi AI chiplari va texnik sharh",
