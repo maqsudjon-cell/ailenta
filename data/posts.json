@@ -1,5 +1,71 @@
 [
   {
+    "id": "7ad2073c79f1",
+    "slug": "apple-app-store-qoidalarini-kuchaytirdi-7ad207",
+    "title": "Apple App Store qoidalarini kuchaytirdi",
+    "summary": "Apple App Store qoidalarini yangilab, sun'iy intellekt tomonidan yaratilgan ruxsatsiz shaxsiy tasvirlarga qarshi choralar ko'rdi. Bu o'zgarishlar ilovalar do'konida bunday kontentning tarqalishini oldini olishga qaratilgan.",
+    "tags": [
+      "Apple",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-10-17T12:35:56.000Z",
+    "created": "2026-10-17T14:19:21.040Z",
+    "coverage": 1,
+    "source": {
+      "name": "Engadget",
+      "url": "https://engadget.com/2289567/apple-updates-app-store-rules-ai-nudify-apps",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "193787d3b931",
+    "slug": "blackstone-ai-bozoriga-yirik-sarmoya-kiritmoqda-193787",
+    "title": "Blackstone AI bozoriga yirik sarmoya kiritmoqda",
+    "summary": "Blackstone kompaniyasidan Jon Gray sun'iy intellekt bozoridagi o'sishga katta pul tikishni rejalashtirmoqda. Bu sarmoya asrning eng yirik investitsiyalaridan biri bo'lishi kutilmoqda.",
+    "tags": [
+      "biznes",
+      "iqtisod"
+    ],
+    "importance": 3,
+    "score": 13,
+    "published": "2026-10-15T15:25:59.000Z",
+    "created": "2026-10-17T14:19:21.041Z",
+    "coverage": 1,
+    "source": {
+      "name": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVzg2Ylo3QXRIeG9mV2o2OEJBX0U4RmhVWWtyczlpMzBmMm5RaWoyME40OGdORTRsRW9oLUczTmhSUllwdFg1WW9aRUdDXzEzbTdiTlo1VFlvV2ViY28zVHFOSFRmYmFVVlpFb3BsSHVwUXpNTEQ2NC1mTmFBYTJ3MzZrd3hqVFllZ2ZIdXdqelBLcUNYOWRXYTU4cWlTWEROcnJUUG9Fd0tBcFUtZWdLZ2J4YUNHTXNDSkRTV1hucGtyRTg",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "ac97361d36e9",
+    "slug": "yi-ai-qonunini-sinovdan-otkazmoqda-ac9736",
+    "title": "YI AI qonunini sinovdan o'tkazmoqda",
+    "summary": "Yevropa Ittifoqi sun'iy intellekt qonunini sinovdan o'tkazmoqda. Tashkilot AI inson nazorati ostida qolishi kerakligini ta'kidlamoqda.",
+    "tags": [
+      "qonun",
+      "siyosat"
+    ],
+    "importance": 4,
+    "score": 7,
+    "published": "2026-10-17T13:26:16.000Z",
+    "created": "2026-10-17T14:19:21.041Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Next Web",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNeWFISWdkdm9aNF9sTUh3SWl4a2tQemJabEV5Q1ZZamVZNnhPMTBuZVNSRWU1TEVmSGdOaFRxVkZKVmxyTGs5RTBQV2xrSjBGVEpYQWg3SnRFenc5QTJCa0o0bGEtcXJ0QUY5WGN5YnUyVWh6cXAxa2d3RDVqYlhUQ05pdWk",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "0abd0a00e1c0",
     "slug": "dario-amodei-anthropic-madaniyatiga-40-vaqt-ajratadi-0abd0a",
     "title": "Dario Amodei Anthropic madaniyatiga 40% vaqt ajratadi",
