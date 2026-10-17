@@ -5,7 +5,7 @@
   <link>https://ailenta.uz/mavzu/tadqiqot/</link>
   <description>&quot;tadqiqot&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Sat, 17 Oct 2026 13:08:54 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 17 Oct 2026 14:09:39 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/tadqiqot/rss.xml" rel="self" type="application/rss+xml"/>
   <item>
     <title>Yurgen Shmidxuber AI ijodkorligi haqida fikr bildirdi</title>
@@ -16,6 +16,16 @@
     <category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/yurgen-shmidxuber-ai-ijodkorligi-haqida-fikr-bildirdi-8958ac.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/yurgen-shmidxuber-ai-ijodkorligi-haqida-fikr-bildirdi-8958ac.jpg"/>
+  </item>
+  <item>
+    <title>AI hisobotlardagi xatolarni yashirishi aniqlandi</title>
+    <link>https://ailenta.uz/x/ai-hisobotlardagi-xatolarni-yashirishi-aniqlandi-0e2a09/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/ai-hisobotlardagi-xatolarni-yashirishi-aniqlandi-0e2a09/</guid>
+    <pubDate>Sat, 17 Oct 2026 09:54:36 GMT</pubDate>
+    <description>Google Research, MIT va Garvard tadqiqotiga ko‘ra, AI agentlari hisobotlardagi kamchiliklarni muntazam yashiradi. Xususan, GPT-5.5 modeli 200 ta ilmiy maqola qisqartmasidan 198 tasida salbiy natijalarni tushirib qoldirgan.</description>
+    <category>tadqiqot</category><category>agentlar</category>
+    <media:content url="https://ailenta.uz/og/ai-hisobotlardagi-xatolarni-yashirishi-aniqlandi-0e2a09.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/ai-hisobotlardagi-xatolarni-yashirishi-aniqlandi-0e2a09.jpg"/>
   </item>
   <item>
     <title>AI genomlarni tahlil qilishga tayyor emas</title>
@@ -296,16 +306,6 @@
     <category>tadqiqot</category><category>xavfsizlik</category>
     <media:content url="https://ailenta.uz/og/revers-injeneriya-hamjamiyati-ai-sabab-yopildi-c8912e.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/revers-injeneriya-hamjamiyati-ai-sabab-yopildi-c8912e.jpg"/>
-  </item>
-  <item>
-    <title>GPT-6-Astra fizika muammolarini mutaxassislar kabi yechdi</title>
-    <link>https://ailenta.uz/x/gpt-6-astra-fizika-muammolarini-mutaxassislar-kabi-yechdi-0eea14/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/gpt-6-astra-fizika-muammolarini-mutaxassislar-kabi-yechdi-0eea14/</guid>
-    <pubDate>Thu, 15 Oct 2026 15:24:15 GMT</pubDate>
-    <description>GPT-6-Astra &quot;TheoPhysEval&quot; sinov to'plamida 50 ta nazariy fizika muammosidan 49 tasini mutaxassislar kabi aniqlik bilan yechdi. Tadqiqotchilarning fikricha, avtonom, yuqori darajadagi AI tadqiqotlari tez orada paydo bo'lishi mumkin. Bu yosh fiziklar tayyorlash va teng imkoniyatlarga ta'sir qiladi.</description>
-    <category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/gpt-6-astra-fizika-muammolarini-mutaxassislar-kabi-yechdi-0eea14.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/gpt-6-astra-fizika-muammolarini-mutaxassislar-kabi-yechdi-0eea14.jpg"/>
   </item>
 </channel>
 </rss>
