@@ -1,5 +1,48 @@
 [
   {
+    "id": "d0045f1928c1",
+    "slug": "xitoy-fengqing-ai-ob-havo-tizimini-ishga-tushirdi-d0045f",
+    "title": "Xitoy Fengqing AI ob-havo tizimini ishga tushirdi",
+    "summary": "Xitoy meteorologiya boshqarmasi Fengqing Ensemble V1.0 tizimini amaliyotga joriy qildi. Mustaqil sinovlarda ushbu AI tizimi global 500 hPa balandlik uchun 11 kunlik samarali prognoz ko'rsatkichini namoyish etdi.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-10-17T07:53:05.000Z",
+    "created": "2026-10-17T08:01:48.131Z",
+    "coverage": 1,
+    "source": {
+      "name": "Pandaily",
+      "url": "https://pandaily.com/cma-fengqing-ai-global-ensemble-weather-forecast-system-v1-0-operational-11-day-skill",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "6c9c1ff49b2a",
+    "slug": "meta-biznes-saytlari-malumotlarida-ai-oqitadi-6c9c1f",
+    "title": "Meta biznes saytlari ma'lumotlarida AI o'qitadi",
+    "summary": "Meta tijoriy shartlarini yangiladi. Unga ko'ra, 30-oktabrdan boshlab kompaniya o'ziga ulangan biznes veb-saytlaridagi ma'lumotlardan sun'iy intellektni o'qitishda foydalanish huquqiga ega bo'ladi.",
+    "tags": [
+      "Meta",
+      "maxfiylik"
+    ],
+    "importance": 3,
+    "score": 6.3,
+    "published": "2026-10-16T18:22:52.000Z",
+    "created": "2026-10-17T08:01:48.131Z",
+    "coverage": 1,
+    "source": {
+      "name": "NewsCord",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNMnhLOTVOd21EejM5TzNOYVRVeUlaeXJyWDZDRW51MU4zdl9ETFpvQmt5RzBvWkdpT3h0TjNJSGxMRmFNeml1S2pCa051RWNlMWpPYk9TdmctTlF4eWhRNk9uWjhNRXZtVi05cmRuRl84R2FVTjRYOFk1STctSUNxZjN2YmlDVWhGOE8waWtQeWhzUTdHdGg2Z3FGVzl2V2lqVWdEQm5zeDh5RXE5bzl6TExJQkJjdFZ6VXY3Tkk4OWpJVEo0QUdvYTNuakdYVlZ2QndEWXpKRGtBSHBtNzFRUmZXX3pfY0QwQkE",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "537f8b438759",
     "slug": "cadence-ai-chip-ishlab-chiqarishda-yangi-hamkorlik-boshladi-537f8b",
     "title": "Cadence AI chip ishlab chiqarishda yangi hamkorlik boshladi",
