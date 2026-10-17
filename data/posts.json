@@ -1,5 +1,49 @@
 [
   {
+    "id": "9ae363a351de",
+    "slug": "nobel-sohibi-ai-mehnat-bozorini-yoq-qilishidan-ogohlantirdi-9ae363",
+    "title": "Nobel sohibi AI mehnat bozorini yo'q qilishidan ogohlantirdi",
+    "summary": "Nobel mukofoti sohibi sun'iy intellektning tez rivojlanishi mehnat bozoriga ta'sir qilishidan ogohlantirdi. Uning fikricha, yaqin o'n yil ichida faqat ishchilar, tor mutaxassis muhandislar va tadbirkorlar qolishi mumkin.",
+    "tags": [
+      "mehnat bozori",
+      "iqtisod"
+    ],
+    "importance": 4,
+    "score": 48,
+    "published": "2026-10-17T18:22:50.000Z",
+    "created": "2026-10-17T20:01:59.740Z",
+    "coverage": 1,
+    "source": {
+      "name": "Kun.uz",
+      "url": "https://kun.uz/news/2026/10/17/nobel-mukofoti-sohibi-suniy-intellekt-mehnat-bozorini-yoq-qilib-yuborishidan-ogohlantirdi",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "cf911d8fe0b7",
+    "slug": "daniela-amodei-ai-qiz-dostlaridan-ogohlantirdi-cf911d",
+    "title": "Daniela Amodei AI qiz do'stlaridan ogohlantirdi",
+    "summary": "Daniela Amodei, Business Insider xabariga ko'ra, sun'iy intellektga asoslangan qiz do'stlaridan foydalanishga qarshi ogohlantirdi. U bu boradagi xavotirlarni bildirdi.",
+    "tags": [
+      "Anthropic",
+      "xavfsizlik"
+    ],
+    "importance": 2,
+    "score": 7,
+    "published": "2026-10-17T18:50:06.000Z",
+    "created": "2026-10-17T20:01:59.740Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Next Web",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeU9pT0hLanJfUzlmWWxjU1BRcEJQM3h4andmc29pbHFHWTduMEJvaDd6VkhvQ2JRSGtySDJKaWRhSlFEVFA2Y1BRclhzdkVrdW5fZzNOY3E3UmFCaFc2VGlRc0drQ0ZXbEFKeGRpQ3FKR3hFbU1yczRIVnBaNzhfa1dZN190QWNt",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "c63ad7014c87",
     "slug": "anthropic-robot-va-ai-ishning-80-foiziga-yetishi-mumkin-c63ad7",
     "title": "Anthropic: Robot va AI ishning 80 foiziga yetishi mumkin",
