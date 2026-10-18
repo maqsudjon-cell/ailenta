@@ -1,5 +1,113 @@
 [
   {
+    "id": "41fc43b47836",
+    "slug": "jahon-yetakchilari-kiberhujumlar-xavfini-tushunishi-kerak-41fc43",
+    "title": "Jahon yetakchilari kiberhujumlar xavfini tushunishi kerak",
+    "summary": "Xalqaro Valyuta Jamg'armasi rahbari Kristalina Georgieva kiberhujumlar xavfini ta'kidladi. U Fransiyadagi supermarketlarda muzlatgichlar nazoratiga xakerlar kirib, haroratni oshirgani sababli oziq-ovqat buzilganini misol qildi. AI raqamli firibgarlik xavfini oshirmoqda.",
+    "tags": [
+      "iqtisod",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 23,
+    "published": "2026-10-18T11:46:50.000Z",
+    "created": "2026-10-18T12:01:58.850Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/business/2026/oct/18/world-leaders-threat-cyber-attacks-rogue-fridges-financial-system",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "e2492ba9108f",
+    "slug": "ai-sohasida-ishlashdan-charchash-va-ortda-qolish-hissi-e2492b",
+    "title": "AI sohasida ishlashdan charchash va ortda qolish hissi",
+    "summary": "Bir shaxs AI sohasida ishlashni martaba uchun eng yaxshi qadam deb hisoblagan. Ikki yildan so'ng, u o'zini ortda qolgan va mavzudan charchagan his qilmoqda.",
+    "tags": [
+      "mehnat bozori"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-10-18T10:47:01.000Z",
+    "created": "2026-10-18T12:01:58.850Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/work-in-ai-burned-out-cant-keep-up-career-2026-10",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "876b6d7cf193",
+    "slug": "ai-bilan-ishlashda-inson-malakasi-muhim-876b6d",
+    "title": "AI bilan ishlashda inson malakasi muhim",
+    "summary": "Maqolada neyron tarmoqlar samaradorligi bilan bog'liq muammolar ko'pincha ulardan foydalanuvchi odamlarning malakasi bilan bog'liqligi aytiladi. AI bilan ishlashda insonning o'z kompetensiyasini oshirishi zarur.",
+    "tags": [
+      "mehnat bozori"
+    ],
+    "importance": 2,
+    "score": 14,
+    "published": "2026-10-18T11:08:11.000Z",
+    "created": "2026-10-18T12:01:58.850Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1095746",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "c01daeda8fdf",
+    "slug": "ai-bogbonlarni-qutqarishi-kerak-edi-c01dae",
+    "title": "AI bog'bonlarni qutqarishi kerak edi",
+    "summary": "AI bog'bonlarni og'ir mehnatdan xalos qilishi kutilgan edi. Biroq, Anthropic kompaniyasining robot tadqiqotlari muallifni bu borada qayta o'ylashga majbur qilmoqda.",
+    "tags": [
+      "Anthropic",
+      "robototexnika"
+    ],
+    "importance": 2,
+    "score": 14,
+    "published": "2026-10-17T14:00:00.000Z",
+    "created": "2026-10-18T12:01:58.850Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYUdRN0l4YlNUakdkRUZUU1BtcXA1QVMwZkV1M3ZDWEVpZEF5eUwyN1lST3diQnRDcWpFa04xTDQtT1VmdGw2OGtydUdUWTRaNzU2a3N4QmtQMVlMVGZDNE9yVUpEZVNrdXRPbEFqVVhGSzdXZGpvVjRjUEROZ0I0T3NuYzltWUcybXpvWjB3",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "6784d43d39d2",
+    "slug": "anthropic-xodimlari-ai-ishning-75-bajarishini-kutmoqda-6784d4",
+    "title": "Anthropic xodimlari AI ishning 75% bajarishini kutmoqda",
+    "summary": "Anthropic kompaniyasi xodimlari 2030 yilga kelib sun'iy intellekt ularning ishining o'rtacha 75 foizini bajarishini kutmoqda. Bu AI ning mehnat bozoriga ta'siri haqidagi taxminlarni aks ettiradi.",
+    "tags": [
+      "Anthropic",
+      "mehnat bozori"
+    ],
+    "importance": 3,
+    "score": 10,
+    "published": "2026-10-18T06:41:34.000Z",
+    "created": "2026-10-18T12:01:58.850Z",
+    "coverage": 1,
+    "source": {
+      "name": "TOKENPOST",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5uRXEyRzZGTHdSUXRMaFRDd3drSVhjZGZWRmRrdzZWN0xZdW5mcWtVbTlhNVBHSW94MG5nNHlxdE5nUlBwMDgyTTRmTklBYlVEX2ZvWHptd3oxODg",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "a901debea5bd",
     "slug": "obscura-maxfiy-malumotlarni-himoyalash-shlyuzini-yaratdi-a901de",
     "title": "Obscura maxfiy ma'lumotlarni himoyalash shlyuzini yaratdi",
