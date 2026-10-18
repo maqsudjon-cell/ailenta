@@ -5,18 +5,8 @@
   <link>https://ailenta.uz/mavzu/tadqiqot/</link>
   <description>&quot;tadqiqot&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Sun, 18 Oct 2026 21:09:17 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 18 Oct 2026 21:26:50 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/tadqiqot/rss.xml" rel="self" type="application/rss+xml"/>
-  <item>
-    <title>Copilot ilmiy hujjat tahririda muammolar</title>
-    <link>https://ailenta.uz/x/copilot-ilmiy-hujjat-tahririda-muammolar-a01ca5/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/copilot-ilmiy-hujjat-tahririda-muammolar-a01ca5/</guid>
-    <pubDate>Sun, 18 Oct 2026 18:50:33 GMT</pubDate>
-    <description>Fizik olim MathType dasturi yordamida Word'da yozilgan ilmiy maqolalarni Copilot orqali tahrirlashga uringan. Biroq, sun'iy intellekt bu vazifani bajarishda qiynalgan. Bu AI'ning murakkab hujjat formatlarini tushunishdagi qiyinchiliklarini ko'rsatadi.</description>
-    <category>Microsoft</category><category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/copilot-ilmiy-hujjat-tahririda-muammolar-a01ca5.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/copilot-ilmiy-hujjat-tahririda-muammolar-a01ca5.jpg"/>
-  </item>
   <item>
     <title>Noutbukda mahalliy AI ishlov berish imkoniyatlari</title>
     <link>https://ailenta.uz/x/noutbukda-mahalliy-ai-ishlov-berish-imkoniyatlari-370ca9/</link>
@@ -306,6 +296,16 @@
     <category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/flowbudget-oqim-modellar-namunaviy-byudjetini-baholash-a39563.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/flowbudget-oqim-modellar-namunaviy-byudjetini-baholash-a39563.jpg"/>
+  </item>
+  <item>
+    <title>LitGene: genlarni o'rganish uchun yangi transformer model</title>
+    <link>https://ailenta.uz/x/litgene-genlarni-organish-uchun-yangi-transformer-model-51e23e/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/litgene-genlarni-organish-uchun-yangi-transformer-model-51e23e/</guid>
+    <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
+    <description>LitGene — bu genlarni vektor tasvirini o'rganish uchun matn va ontologiyani birlashtiruvchi, tushunarli transformer model. Ushbu model Nature jurnalida taqdim etilgan.</description>
+    <category>tadqiqot</category><category>tibbiyot</category>
+    <media:content url="https://ailenta.uz/og/litgene-genlarni-organish-uchun-yangi-transformer-model-51e23e.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/litgene-genlarni-organish-uchun-yangi-transformer-model-51e23e.jpg"/>
   </item>
 </channel>
 </rss>

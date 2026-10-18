@@ -1,44 +1,22 @@
 [
   {
-    "id": "a01ca5ce6656",
-    "slug": "copilot-ilmiy-hujjat-tahririda-muammolar-a01ca5",
-    "title": "Copilot ilmiy hujjat tahririda muammolar",
-    "summary": "Fizik olim MathType dasturi yordamida Word'da yozilgan ilmiy maqolalarni Copilot orqali tahrirlashga uringan. Biroq, sun'iy intellekt bu vazifani bajarishda qiynalgan. Bu AI'ning murakkab hujjat formatlarini tushunishdagi qiyinchiliklarini ko'rsatadi.",
+    "id": "2955791fee0d",
+    "slug": "ai-poygasi-kapital-bozorlariga-bogliq-bolib-bormoqda-295579",
+    "title": "AI poygasi kapital bozorlariga bog'liq bo'lib bormoqda",
+    "summary": "Fortune nashrining yozishicha, Nvidia 500 milliard dollarlik moliyalashtirish tashabbusini ilgari surmoqda. Bu holat AI poygasida faqat muhandislik emas, balki kapital bozorlari ham hal qiluvchi omilga aylanayotganini ko'rsatadi.",
     "tags": [
-      "Microsoft",
-      "tadqiqot"
+      "Nvidia",
+      "biznes"
     ],
-    "importance": 2,
-    "score": 11,
-    "published": "2026-10-18T18:50:33.000Z",
-    "created": "2026-10-18T21:03:02.779Z",
+    "importance": 3,
+    "score": 19,
+    "published": "2026-10-18T21:00:00.000Z",
+    "created": "2026-10-18T21:10:51.491Z",
     "coverage": 1,
     "source": {
-      "name": "Habr",
-      "url": "https://habr.com/ru/articles/1095958",
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/10/18/nvidia-ai-financing-capital-markets",
       "indirect": false
-    },
-    "also": [],
-    "model": "gemini"
-  },
-  {
-    "id": "cb65146d05b8",
-    "slug": "anthropic-yosh-xodimlar-ishga-olishni-kamaytirdi-cb6514",
-    "title": "Anthropic yosh xodimlar ishga olishni kamaytirdi",
-    "summary": "Anthropic kompaniyasida yosh xodimlarni ishga olish ulushi kamaydi. Shu bilan birga, xodimlarning yig'ilish vaqti 20 foizga oshdi.",
-    "tags": [
-      "Anthropic",
-      "mehnat bozori"
-    ],
-    "importance": 2,
-    "score": 7,
-    "published": "2026-10-18T17:28:53.000Z",
-    "created": "2026-10-18T21:03:02.779Z",
-    "coverage": 1,
-    "source": {
-      "name": "VOI.ID",
-      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE96MXI4Nm1XWUpUUnBwNXd2ZmdUTHRQZDZSdnUyUVVIUHJuSVBBYUc3TWcyMG5vY2hkVHU5Q3BTWUtqUdIBQkFVX3lxTE96MXI4Nm1XWUpUUnBwNXd2ZmdUTHRQZDZSdnUyUVVIUHJuSVBBYUc3TWcyMG5vY2hkVHU5Q3BTWUtqUQ",
-      "indirect": true
     },
     "also": [],
     "model": "gemini"
