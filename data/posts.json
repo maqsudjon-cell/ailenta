@@ -1,5 +1,70 @@
 [
   {
+    "id": "2c7282ff1d98",
+    "slug": "ai-firibgarliklarni-kuchaytirmoqda-2c7282",
+    "title": "AI firibgarliklarni kuchaytirmoqda",
+    "summary": "Savdo standartlari xodimlari sun'iy intellekt mavjud firibgarliklarni kuchaytirayotganini ma'lum qildi. AI klonlar va soxta veb-saytlar orqali firibgarlikni \"super-zaryadlamoqda\".",
+    "tags": [
+      "xavfsizlik",
+      "qonun"
+    ],
+    "importance": 3,
+    "score": 23,
+    "published": "2026-10-18T23:24:59.000Z",
+    "created": "2026-10-18T23:43:53.897Z",
+    "coverage": 1,
+    "source": {
+      "name": "BBC News",
+      "url": "https://bbc.co.uk/news/articles/c60rl1xvjv89o?at_medium=RSS&at_campaign=rss",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "24e287ee5ed8",
+    "slug": "yangi-ai-modeli-makkajo-xori-hosilini-bashorat-qiladi-24e287",
+    "title": "Yangi AI modeli makkajo‘xori hosilini bashorat qiladi",
+    "summary": "Yangi sun'iy intellekt modeli turli hududlarda makkajo‘xori hosilini bashorat qila oladi. Bu model qishloq xo‘jaligida hosildorlikni oldindan aniqlash imkonini beradi.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 10,
+    "published": "2026-10-18T16:51:19.000Z",
+    "created": "2026-10-18T23:43:53.898Z",
+    "coverage": 1,
+    "source": {
+      "name": "Bioengineer.org",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0xSFVkUDBrSUxpSnpkZklQRmZnRVltaUZwR2w4VUtCSE1DZEFCMEt1MktlTFhUR3JzQmV1SVM2dlFPVnFnQnpmdVZ1N3JLME9ocFdnWlFadF83aS02cFhzU3JUbEdvQTgxcmgyRlFuSXhVTFMxQjBRR0hVWUlpUQ",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "5a827add8ef7",
+    "slug": "anthropic-ai-kompaniya-xodimlarini-o-zgartirmoqda-5a827a",
+    "title": "Anthropic AI kompaniya xodimlarini o‘zgartirmoqda",
+    "summary": "Anthropic kompaniyasi sun'iy intellekt kompaniya xodimlarining tarkibini qanday o‘zgartirayotganini oshkor qildi. AI tufayli kompaniyada \"junkies\" va \"techies\" soni kamaygan.",
+    "tags": [
+      "Anthropic",
+      "mehnat bozori"
+    ],
+    "importance": 3,
+    "score": 10,
+    "published": "2026-10-18T12:23:00.000Z",
+    "created": "2026-10-18T23:43:53.898Z",
+    "coverage": 1,
+    "source": {
+      "name": "dev.ua",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONG9iamo3UG9ELTBxdzB6NkhjRS1hOFpqV0dnUFhlLTN6LUp4d0szczQ3Q3d3NGctNk5DTTVqV3pEazNXRTNtS1FYX01oNlREWjc2bzZFcXhnSWQxODZ6cHAxLTJqcnc3V0xYbE1oVzNwME1nQmpFZVQtZ3Z3LTVoMnpPSVkyWVRyVFdPaw",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "aa8fd4ff421a",
     "slug": "yann-lekun-anthropic-ogohlantirishlarini-tanqid-qildi-aa8fd4",
     "title": "Yann LeKun Anthropic ogohlantirishlarini tanqid qildi",
