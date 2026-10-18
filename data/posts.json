@@ -1,5 +1,48 @@
 [
   {
+    "id": "05b32c9e10a3",
+    "slug": "jahon-banki-kichik-ai-modellarini-yaratishga-chaqirdi-05b32c",
+    "title": "Jahon banki kichik AI modellarini yaratishga chaqirdi",
+    "summary": "Jahon banki rivojlanayotgan mamlakatlarni mobil telefonlarda va past internetda ishlaydigan kichik AI modellarini yaratishga chaqirdi. Tashkilot vakili Paschal Donohoe bu texnologiya iqtisodiy rivojlanishni tezlashtirishini ta'kidladi.",
+    "tags": [
+      "iqtisod"
+    ],
+    "importance": 4,
+    "score": 26,
+    "published": "2026-10-18T10:00:56.000Z",
+    "created": "2026-10-18T11:01:56.401Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/technology/2026/oct/18/world-bank-artificial-intelligence-developing-economies",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "f3ea53dec412",
+    "slug": "ai-siyosati-mablaglari-aqsh-saylovlariga-yonalmoqda-f3ea53",
+    "title": "AI siyosati mablag'lari AQSh saylovlariga yo'nalmoqda",
+    "summary": "Sun'iy intellekt siyosatiga doir mablag'lar AQShdagi saylovlarga yo'naltirilmoqda. OpenTools taqdim etgan ma'lumotlarga ko'ra, AI sohasi va uning xavfsizligini tartibga solish uchun ajratilayotgan summalar miqdori oshgan.",
+    "tags": [
+      "siyosat",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 7,
+    "published": "2026-10-18T10:40:54.000Z",
+    "created": "2026-10-18T11:01:56.401Z",
+    "coverage": 1,
+    "source": {
+      "name": "OpenTools",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNV3JiZWR1aTBHdW1DT01MWXNSQjZOUUJyM0JrOVAzTzVxTjZ6NzloWl9PNTlvTC1aNFpscFRIa0FkVDZLaDFxdUpIU3BPUlFtREpmekUxal96WHRpbE1JaG1MRmNhRVl3T0NLS0xZZmlHT0NBd2VMRDY0THZ4MTJHSjB3",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "63c19444eb0f",
     "slug": "ai-davrida-yaponiya-hunarmandchiligi-tajribasi-63c194",
     "title": "AI davrida Yaponiya hunarmandchiligi tajribasi",
