@@ -1,5 +1,92 @@
 [
   {
+    "id": "e710dbb08cfb",
+    "slug": "microsoft-britaniyadagi-ai-markazi-loyihasidan-chiqdi-e710db",
+    "title": "Microsoft Britaniyadagi AI markazi loyihasidan chiqdi",
+    "summary": "Microsoft elektr ta'minoti muammolari sababli Essex grafstvidagi ma'lumotlar markazi loyihasini tark etdi. Nscale kompaniyasiga tegishli ushbu loyiha Buyuk Britaniyadagi eng yirik AI ma'lumotlar markazi bo'lishi kutilgan edi.",
+    "tags": [
+      "Microsoft",
+      "bulut"
+    ],
+    "importance": 4,
+    "score": 23,
+    "published": "2026-10-18T12:28:45.000Z",
+    "created": "2026-10-18T12:36:10.361Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/uk-news/2026/oct/18/microsoft-drops-huge-ai-datacentre-project-in-essex-over-power-supply-concerns",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "fecb20c465c9",
+    "slug": "taqiladigan-ai-qurilmalari-maxfiylik-xavfini-oshirmoqda-fecb20",
+    "title": "Taqiladigan AI qurilmalari maxfiylik xavfini oshirmoqda",
+    "summary": "Apple, Amazon va Meta kabi kompaniyalarning doimiy tinglab turuvchi AI qurilmalari maxfiylik qoidalariga ta'sir qilmoqda. Bu vositalar foydalanuvchilarning yashirincha yozib olinishi bo'yicha xavotirlarni kuchaytirmoqda.",
+    "tags": [
+      "maxfiylik"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-10-18T12:00:01.000Z",
+    "created": "2026-10-18T12:36:10.361Z",
+    "coverage": 1,
+    "source": {
+      "name": "CNBC",
+      "url": "https://cnbc.com/2026/10/18/ai-wearables-privacy-wiretap-laws.html",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "3751f2799558",
+    "slug": "xitoylik-ai-dahosi-moonshot-ai-kompaniyasini-tark-etdi-3751f2",
+    "title": "Xitoylik AI dahosi Moonshot AI kompaniyasini tark etdi",
+    "summary": "Xitoylik iqtidorli AI mutaxassisi Moonshot AI kompaniyasidan ketganini ma'lum qildi. Shuningdek, u AQShning Anthropic kompaniyasiga o'tayotgani haqidagi xabarlarni rad etdi.",
+    "tags": [
+      "Anthropic",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 10,
+    "published": "2026-10-18T12:17:39.000Z",
+    "created": "2026-10-18T12:36:10.361Z",
+    "coverage": 1,
+    "source": {
+      "name": "news.sbs.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ITjNDcjZoYlJNbWdNTTFrOEZiSHgxY0Q0QXNVYVowSVVTMkFyUzZCd05hZHE1RXpKNXJLbDRvZDV5bEJtOGlyN3BGMjVodmNlTHpxSnJ5SDlqMjZDcHNGSE9uQUhpZGdEbkJHZlNB",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "d55658be56de",
+    "slug": "meta-etirozlardan-song-ai-boyicha-matnlarni-ochirdi-d55658",
+    "title": "Meta e'tirozlardan so'ng AI bo'yicha matnlarni o'chirdi",
+    "summary": "Meta kompaniyasi maxfiylik bilan bog'liq e'tirozlardan so'ng AI modellarini o'qitishga oid matnlarni olib tashladi. Bu qaror foydalanuvchilarning e'tirozlari sababli qabul qilindi.",
+    "tags": [
+      "Meta",
+      "maxfiylik"
+    ],
+    "importance": 3,
+    "score": 9.2,
+    "published": "2026-10-17T22:36:00.000Z",
+    "created": "2026-10-18T12:36:10.361Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Tech Buzz",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQYmlUdjBMZmNDVGJ1Wk1RdGszYk9KckpmQWV0dTJ0LUwteFBPdFktdDB0cUJXV0FnSi1QcnJiamdZS1Jfc3BrS2txUG1PSG8tcmZfYTJBVGxqZE5qQllkVVQ0bDV6czhwcUo3dXNlbVlLd1Y0T0RyaWxJVHpYTnU3OV9EX0RxbDhPQzVCZVo1Y0lwQQ",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "41fc43b47836",
     "slug": "jahon-yetakchilari-kiberhujumlar-xavfini-tushunishi-kerak-41fc43",
     "title": "Jahon yetakchilari kiberhujumlar xavfini tushunishi kerak",
