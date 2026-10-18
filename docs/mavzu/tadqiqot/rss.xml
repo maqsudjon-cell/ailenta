@@ -5,27 +5,17 @@
   <link>https://ailenta.uz/mavzu/tadqiqot/</link>
   <description>&quot;tadqiqot&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Sun, 18 Oct 2026 21:41:29 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 18 Oct 2026 21:54:15 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/tadqiqot/rss.xml" rel="self" type="application/rss+xml"/>
   <item>
-    <title>AI agentining sinov to'plami natijalari shubha ostida</title>
-    <link>https://ailenta.uz/x/ai-agentining-sinov-toplami-natijalari-shubha-ostida-c08c3f/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/ai-agentining-sinov-toplami-natijalari-shubha-ostida-c08c3f/</guid>
+    <title>AI agentining yuqori bahosi qanday tekshirilmoqda</title>
+    <link>https://ailenta.uz/x/ai-agentining-yuqori-bahosi-qanday-tekshirilmoqda-c08c3f/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/ai-agentining-yuqori-bahosi-qanday-tekshirilmoqda-c08c3f/</guid>
     <pubDate>Sun, 18 Oct 2026 21:30:57 GMT</pubDate>
-    <description>Bir dasturchi o'zining ELM nomli AI agentining sinov to'plami (benchmark) natijalarini shubha ostiga oldi. Uning agenti yuqori ball olgan bo'lsa-da, oddiy &quot;zaglushka&quot; ham 34% natija ko'rsatgan. Dasturchi agentning vazifani qanday bajarganini tekshirish usullarini o'rganmoqda.</description>
+    <description>Dasturchi o'zining ELM nomli AI agentining sinov to'plamidagi yuqori baholarini shubha ostiga oldi. U agentning vazifani qanday bajarganini tekshirmoqda, chunki hatto oddiy &quot;zaglushka&quot; ham 34% natija ko'rsatgan. Bu AI agentlarini baholash usullari haqida savollar tug'diradi.</description>
     <category>tadqiqot</category><category>agentlar</category>
-    <media:content url="https://ailenta.uz/og/ai-agentining-sinov-toplami-natijalari-shubha-ostida-c08c3f.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/ai-agentining-sinov-toplami-natijalari-shubha-ostida-c08c3f.jpg"/>
-  </item>
-  <item>
-    <title>Anthropic kompaniyasi sirli kitob xaridlarini amalga oshirdi</title>
-    <link>https://ailenta.uz/x/anthropic-kompaniyasi-sirli-kitob-xaridlarini-amalga-oshirdi-46328d/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/anthropic-kompaniyasi-sirli-kitob-xaridlarini-amalga-oshirdi-46328d/</guid>
-    <pubDate>Sun, 18 Oct 2026 20:32:50 GMT</pubDate>
-    <description>The Korea Daily xabariga ko'ra, AI giganti Anthropic sirli ravishda ko'p miqdorda ishlatilgan kitoblarni sotib olgan. Bu xaridlar kompaniyaning sun'iy intellekt modellarini o'qitish uchun bo'lishi mumkin.</description>
-    <category>Anthropic</category><category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/anthropic-kompaniyasi-sirli-kitob-xaridlarini-amalga-oshirdi-46328d.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/anthropic-kompaniyasi-sirli-kitob-xaridlarini-amalga-oshirdi-46328d.jpg"/>
+    <media:content url="https://ailenta.uz/og/ai-agentining-yuqori-bahosi-qanday-tekshirilmoqda-c08c3f.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/ai-agentining-yuqori-bahosi-qanday-tekshirilmoqda-c08c3f.jpg"/>
   </item>
   <item>
     <title>Noutbukda mahalliy AI ishlov berish imkoniyatlari</title>
@@ -306,6 +296,16 @@
     <category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/diskret-diffuziyani-tezlashtirish-uchun-vista-usuli-f86f8c.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/diskret-diffuziyani-tezlashtirish-uchun-vista-usuli-f86f8c.jpg"/>
+  </item>
+  <item>
+    <title>FlowBudget: Oqim modellar namunaviy byudjetini baholash</title>
+    <link>https://ailenta.uz/x/flowbudget-oqim-modellar-namunaviy-byudjetini-baholash-a39563/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/flowbudget-oqim-modellar-namunaviy-byudjetini-baholash-a39563/</guid>
+    <pubDate>Fri, 16 Oct 2026 04:00:00 GMT</pubDate>
+    <description>FlowBudget tadqiqoti oqim moslashuvchi modellar uchun o'qitishsiz namunaviy byudjetni baholash usulini taklif qiladi. Bu usul xulosa chiqarish xarajatlarini optimallashtirishga yordam beradi.</description>
+    <category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/flowbudget-oqim-modellar-namunaviy-byudjetini-baholash-a39563.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/flowbudget-oqim-modellar-namunaviy-byudjetini-baholash-a39563.jpg"/>
   </item>
 </channel>
 </rss>

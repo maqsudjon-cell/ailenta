@@ -1,21 +1,22 @@
 [
   {
     "id": "14480cc7bcfe",
-    "slug": "ai-tomonidan-toliq-yozilgan-kubernetes-klienti-14480c",
-    "title": "AI tomonidan to'liq yozilgan Kubernetes klienti",
-    "summary": "Sextant nomli bepul, ochiq kodli Kubernetes klienti Claude Code AI tomonidan to'liq yozildi. U inson nazorati ostida ishlab chiqilgan bo'lib, mavjud analoglardan 4-7 barobar tezroq ishlaydi va ikki barobar kam xotira talab qiladi.",
+    "slug": "ai-toliq-yozgan-kubernetes-klienti-sextant-14480c",
+    "title": "AI to'liq yozgan Kubernetes klienti Sextant",
+    "summary": "Claude Code AI yordamida Sextant nomli bepul, ochiq kodli Kubernetes klienti yaratildi. U inson nazorati ostida to'liq AI tomonidan yozilgan. Sextant mavjud analoglardan 4-7 barobar tezroq ishlaydi va ikki barobar kam xotira talab qiladi.",
     "tags": [
-      "Anthropic",
-      "ochiq model"
+      "ochiq model",
+      "agentlar"
     ],
     "importance": 4,
     "score": 14,
     "published": "2026-10-18T21:28:00.000Z",
-    "created": "2026-10-18T21:36:39.462Z",
+    "created": "2026-10-18T21:42:57.793Z",
     "coverage": 1,
     "source": {
       "name": "Habr",
       "url": "https://habr.com/ru/articles/1095984",
+      "title": "Замена Lens, которую целиком написала модель: что получилось и где мы проигрываем",
       "indirect": false
     },
     "also": [],
@@ -23,9 +24,9 @@
   },
   {
     "id": "c08c3f1b0c88",
-    "slug": "ai-agentining-sinov-toplami-natijalari-shubha-ostida-c08c3f",
-    "title": "AI agentining sinov to'plami natijalari shubha ostida",
-    "summary": "Bir dasturchi o'zining ELM nomli AI agentining sinov to'plami (benchmark) natijalarini shubha ostiga oldi. Uning agenti yuqori ball olgan bo'lsa-da, oddiy \"zaglushka\" ham 34% natija ko'rsatgan. Dasturchi agentning vazifani qanday bajarganini tekshirish usullarini o'rganmoqda.",
+    "slug": "ai-agentining-yuqori-bahosi-qanday-tekshirilmoqda-c08c3f",
+    "title": "AI agentining yuqori bahosi qanday tekshirilmoqda",
+    "summary": "Dasturchi o'zining ELM nomli AI agentining sinov to'plamidagi yuqori baholarini shubha ostiga oldi. U agentning vazifani qanday bajarganini tekshirmoqda, chunki hatto oddiy \"zaglushka\" ham 34% natija ko'rsatgan. Bu AI agentlarini baholash usullari haqida savollar tug'diradi.",
     "tags": [
       "tadqiqot",
       "agentlar"
@@ -33,7 +34,7 @@
     "importance": 3,
     "score": 11,
     "published": "2026-10-18T21:30:57.000Z",
-    "created": "2026-10-18T21:36:39.462Z",
+    "created": "2026-10-18T21:43:09.983Z",
     "coverage": 1,
     "source": {
       "name": "Habr",
@@ -47,15 +48,15 @@
     "id": "46328d541666",
     "slug": "anthropic-kompaniyasi-sirli-kitob-xaridlarini-amalga-oshirdi-46328d",
     "title": "Anthropic kompaniyasi sirli kitob xaridlarini amalga oshirdi",
-    "summary": "The Korea Daily xabariga ko'ra, AI giganti Anthropic sirli ravishda ko'p miqdorda ishlatilgan kitoblarni sotib olgan. Bu xaridlar kompaniyaning sun'iy intellekt modellarini o'qitish uchun bo'lishi mumkin.",
+    "summary": "The Korea Daily nashri Anthropic kompaniyasining sirli ravishda ko'p miqdorda kitob xarid qilganini aniqladi. Bu AI gigantining ma'lumot yig'ish strategiyasi haqida savollar tug'dirmoqda.",
     "tags": [
       "Anthropic",
-      "tadqiqot"
+      "biznes"
     ],
     "importance": 3,
     "score": 10,
     "published": "2026-10-18T20:32:50.000Z",
-    "created": "2026-10-18T21:36:39.462Z",
+    "created": "2026-10-18T21:43:09.983Z",
     "coverage": 1,
     "source": {
       "name": "The Korea Daily",
@@ -69,7 +70,7 @@
     "id": "88e9d4cdff8f",
     "slug": "anthropic-choraklik-daromadi-otgan-yilgidan-oshdi-88e9d4",
     "title": "Anthropic choraklik daromadi o'tgan yilgidan oshdi",
-    "summary": "WION xabariga ko'ra, Anthropic kompaniyasining bir chorakdagi daromadi o'tgan yilgi umumiy daromadidan oshib ketdi. Kompaniya 2 trillion dollarlik IPO o'tkazishni maqsad qilgan.",
+    "summary": "WION xabariga ko'ra, Anthropic kompaniyasining bir chorakdagi daromadi o'tgan yilgi umumiy daromadidan oshib ketdi. Kompaniya 2 trillion dollarlik IPO o'tkazishni rejalashtirmoqda.",
     "tags": [
       "Anthropic",
       "biznes"
@@ -77,7 +78,7 @@
     "importance": 5,
     "score": 7,
     "published": "2026-10-18T15:20:00.000Z",
-    "created": "2026-10-18T21:36:39.462Z",
+    "created": "2026-10-18T21:43:09.984Z",
     "coverage": 1,
     "source": {
       "name": "WION",
