@@ -1,5 +1,27 @@
 [
   {
+    "id": "a901debea5bd",
+    "slug": "obscura-maxfiy-malumotlarni-himoyalash-shlyuzini-yaratdi-a901de",
+    "title": "Obscura maxfiy ma'lumotlarni himoyalash shlyuzini yaratdi",
+    "summary": "AI modellariga yuboriladigan so'rovlarni tekshirish uchun Obscura shlyuzi yaratildi. Tizim maxfiy ma'lumotlar bulutga chiqib ketishining oldini oladi va tarmoq ichida ishlaydi.",
+    "tags": [
+      "xavfsizlik",
+      "maxfiylik"
+    ],
+    "importance": 3,
+    "score": 11,
+    "published": "2026-10-18T11:18:08.000Z",
+    "created": "2026-10-18T11:47:08.636Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1095808",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "5f3fe56efca1",
     "slug": "meta-ai-agenti-sababli-ijodkorlar-etiroz-bildirmoqda-5f3fe5",
     "title": "Meta AI agenti sababli ijodkorlar e'tiroz bildirmoqda",
