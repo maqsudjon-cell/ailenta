@@ -1,9 +1,9 @@
 [
   {
     "id": "ff70347e511d",
-    "slug": "ai-kompaniyalari-inson-ishini-organishga-malumot-olmoqda-ff7034",
-    "title": "AI kompaniyalari inson ishini o'rganishga ma'lumot olmoqda",
-    "summary": "AI firmalar inson ishini o'rganish maqsadida kompaniya yozuvlari va ish jarayonlari yozuvlari uchun pul to'lamoqda. Business Insider AI agentlari va robotlarini quvvatlantiruvchi ma'lumotlar poygasini o'rganadi.",
+    "slug": "ai-kompaniyalari-inson-ishini-organishga-malumot-sotib-oladi-ff7034",
+    "title": "AI kompaniyalari inson ishini o'rganishga ma'lumot sotib oladi",
+    "summary": "Business Insider xabariga ko'ra, AI kompaniyalari agentlar va robotlarni quvvatlantirish uchun inson ishining yozuvlari va kompaniya hujjatlarini sotib olmoqda. Bu ma'lumotlar AI modellarini o'qitishda muhim rol o'ynaydi.",
     "tags": [
       "biznes",
       "agentlar"
@@ -11,7 +11,7 @@
     "importance": 3,
     "score": 15,
     "published": "2026-10-18T14:00:01.000Z",
-    "created": "2026-10-18T16:07:57.104Z",
+    "created": "2026-10-18T16:30:54.378Z",
     "coverage": 1,
     "source": {
       "name": "Business Insider",
@@ -22,22 +22,22 @@
     "model": "gemini"
   },
   {
-    "id": "8a319fddb898",
-    "slug": "meta-muse-spark-ai-foydalanuvchi-va-dasturchiga-9-xususiyat-8a319f",
-    "title": "Meta Muse Spark AI: Foydalanuvchi va dasturchiga 9 xususiyat",
-    "summary": "Meta kompaniyasi foydalanuvchilar va dasturchilar uchun mo'ljallangan Muse Spark AI modelining 9 ta yangi xususiyatini taqdim etdi. Bu haqda Google News va Analytics Insight xabar berdi.",
+    "id": "05126ebd6446",
+    "slug": "anthropic-ai-yoshlarga-ish-topishni-qiyinlashtiradi-05126e",
+    "title": "Anthropic: AI yoshlarga ish topishni qiyinlashtiradi",
+    "summary": "Anthropic hisobotiga ko'ra, sun'iy intellekt texnologiya sohasiga yangi kirib kelganlarga ish topishni qiyinlashtirishi mumkin. Bu haqda Moneycontrol.com xabar berdi.",
     "tags": [
-      "Meta",
-      "biznes"
+      "Anthropic",
+      "mehnat bozori"
     ],
     "importance": 3,
-    "score": 1.8,
-    "published": "2026-10-17T07:41:43.000Z",
-    "created": "2026-10-18T16:07:57.104Z",
+    "score": 10,
+    "published": "2026-10-18T15:58:37.000Z",
+    "created": "2026-10-18T16:30:54.378Z",
     "coverage": 1,
     "source": {
-      "name": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQbmhDWmswdENHM0g1LWVsU3p0SmZtdDhQeW5BLXlxQ0JadTBpdlBLNkJEaGpqNW04a184OEI4NFBmMDBUWmk5X0JjZDN3OVpwaE9Tb1R0LTFqd182NGhTYXZCMlRqUXZETXZ5aE5WRnU4NmJTek11WWxrRFhCNDV4U0ktUVZ4SkNFajhuYnNndUxhYXM5WC16UzA4WEVWd2dfSTh6NFUzYUNJeWU4T2JUVVVSSENwZGFMM3RhUWpOeklXMUhnWE5nZkdhTXl6LTNrMlBjRE1n0gHWAUFVX3lxTFBuaENaazB0Q0czSDUtZWxTenRKZm10OFB5bkEteXFDQlp1MGl2UEs2QkRoamo1bThrXzg4Qjg0UGYwMFRaaTlfQmNkM3c5WnBoT1NvVHQtMWp3XzY0aFNhdkIyVGpRdkRNdnloTlZGdTg2YlN6TXVZbGtEWEI0NXhTSS1RVnhKQ0VqOG5ic2d1TGFhczlYLXpTMDhYRVZ3Z19JOHo0VTNhQ0l5ZThPYlRVVVJIQ3BkYUwzdGFRak56SVcxSGdYTmdmR2FNeXotM2syUGNETWc",
+      "name": "Moneycontrol.com",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQQTI0UE5wNy1ObnJUSl9VYW1BT0Q2WkdncGpKTlhLenRPUDBaZjJnRWIyYVlMLWpSTWlqQ2lpY1FoVThYamV3QVFLRmQzUV9fOGM2akpGRlhFTzdzWkZ2blp0bXFDRDVjdGpZOW5MejBib3dlTXBOdFhnTXJMRXp1azUxU3dWcHY2aHozQnpnM2pvaWgwZXpKc2ZtNXhNaHAyUWtzMkJKYVh3VGZkdzNWckFWcUtsSGh1ZTFpbjh0ZG1qcmlheTNrdVJGcXJENndOSGdCVmlLa0IyaTlC0gHiAUFVX3lxTE9LMXQ3d1IzUEhwamx6N2pqQkoyaERtd0hjRmZiVEh6VUdGTHZUTV93aFpzNG43dmZkaDkwdzBTOHhjQWs5N1VsMmRuLVkxdWZhbk9PT3V1U2hOVDZzLTdQRGZKc09nanBDbW5LVFAyMXkxU3lUQ1pJSGQ4Q2pMQlFvdXlMNEJWTUZWbVBLSXJFMmNFWWlMMzA3Ri1pRGMyYVlSSndoS3NOTUczWndqYmpfYV85Sm1hd3ZyazFlTEJIYWkzam5rNW1rLVRSa1ZHV28tQ01hWEM3MVBsQmI4Uy1ZaUE",
       "indirect": true
     },
     "also": [],
