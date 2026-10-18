@@ -1,5 +1,49 @@
 [
   {
+    "id": "ff70347e511d",
+    "slug": "ai-kompaniyalari-inson-ishini-organishga-malumot-olmoqda-ff7034",
+    "title": "AI kompaniyalari inson ishini o'rganishga ma'lumot olmoqda",
+    "summary": "AI firmalar inson ishini o'rganish maqsadida kompaniya yozuvlari va ish jarayonlari yozuvlari uchun pul to'lamoqda. Business Insider AI agentlari va robotlarini quvvatlantiruvchi ma'lumotlar poygasini o'rganadi.",
+    "tags": [
+      "biznes",
+      "agentlar"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-10-18T14:00:01.000Z",
+    "created": "2026-10-18T16:07:57.104Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/ai-workplace-data-training-agents-robots",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "8a319fddb898",
+    "slug": "meta-muse-spark-ai-foydalanuvchi-va-dasturchiga-9-xususiyat-8a319f",
+    "title": "Meta Muse Spark AI: Foydalanuvchi va dasturchiga 9 xususiyat",
+    "summary": "Meta kompaniyasi foydalanuvchilar va dasturchilar uchun mo'ljallangan Muse Spark AI modelining 9 ta yangi xususiyatini taqdim etdi. Bu haqda Google News va Analytics Insight xabar berdi.",
+    "tags": [
+      "Meta",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 1.8,
+    "published": "2026-10-17T07:41:43.000Z",
+    "created": "2026-10-18T16:07:57.104Z",
+    "coverage": 1,
+    "source": {
+      "name": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQbmhDWmswdENHM0g1LWVsU3p0SmZtdDhQeW5BLXlxQ0JadTBpdlBLNkJEaGpqNW04a184OEI4NFBmMDBUWmk5X0JjZDN3OVpwaE9Tb1R0LTFqd182NGhTYXZCMlRqUXZETXZ5aE5WRnU4NmJTek11WWxrRFhCNDV4U0ktUVZ4SkNFajhuYnNndUxhYXM5WC16UzA4WEVWd2dfSTh6NFUzYUNJeWU4T2JUVVVSSENwZGFMM3RhUWpOeklXMUhnWE5nZkdhTXl6LTNrMlBjRE1n0gHWAUFVX3lxTFBuaENaazB0Q0czSDUtZWxTenRKZm10OFB5bkEteXFDQlp1MGl2UEs2QkRoamo1bThrXzg4Qjg0UGYwMFRaaTlfQmNkM3c5WnBoT1NvVHQtMWp3XzY0aFNhdkIyVGpRdkRNdnloTlZGdTg2YlN6TXVZbGtEWEI0NXhTSS1RVnhKQ0VqOG5ic2d1TGFhczlYLXpTMDhYRVZ3Z19JOHo0VTNhQ0l5ZThPYlRVVVJIQ3BkYUwzdGFRak56SVcxSGdYTmdmR2FNeXotM2syUGNETWc",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "61a7a274b6aa",
     "slug": "dinamik-narxlash-va-ai-istemolchilar-noroziligi-61a7a2",
     "title": "Dinamik narxlash va AI: iste'molchilar noroziligi",
