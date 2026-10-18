@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://ailenta.uz/x/copilot-ilmiy-hujjat-tahririda-muammolar-a01ca5/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>AI Lenta</news:name>
+        <news:language>uz</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-18T18:50:33.000Z</news:publication_date>
+      <news:title>Copilot ilmiy hujjat tahririda muammolar</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://ailenta.uz/x/germaniya-sudlariga-ai-yozgan-davolar-kopaydi-343b6e/</loc>
     <news:news>
       <news:publication>
@@ -21,6 +32,17 @@
       </news:publication>
       <news:publication_date>2026-10-18T17:37:36.000Z</news:publication_date>
       <news:title>Erkak AI yaratgan ayol sabab bor-budidan ayrildi</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://ailenta.uz/x/anthropic-yosh-xodimlar-ishga-olishni-kamaytirdi-cb6514/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>AI Lenta</news:name>
+        <news:language>uz</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-18T17:28:53.000Z</news:publication_date>
+      <news:title>Anthropic yosh xodimlar ishga olishni kamaytirdi</news:title>
     </news:news>
   </url>
   <url>
@@ -824,17 +846,6 @@
       </news:publication>
       <news:publication_date>2026-10-16T22:48:53.000Z</news:publication_date>
       <news:title>Anthropic xodimlari AI ish o'rnini egallashiga ishonadi</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://ailenta.uz/x/meta-siyosiy-tashabbusidan-25-mln-dollar-qaytarib-oldi-55698f/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>AI Lenta</news:name>
-        <news:language>uz</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-16T20:58:40.000Z</news:publication_date>
-      <news:title>Meta siyosiy tashabbusidan 25 mln dollar qaytarib oldi</news:title>
     </news:news>
   </url>
 </urlset>
