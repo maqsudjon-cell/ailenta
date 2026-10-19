@@ -1,5 +1,75 @@
 [
   {
+    "id": "69bd463197ee",
+    "slug": "ai-yordamida-smart-tvlar-yana-oddiy-holga-qaytmoqda-69bd46",
+    "title": "AI yordamida smart TV'lar yana oddiy holga qaytmoqda",
+    "summary": "Ba'zi smart TV egalari reklamalar, kuzatuv va sekin interfeyslardan norozi bo'lib, AI agentlaridan foydalanmoqda. Ular bu agentlar yordamida keraksiz dasturlarni olib tashlab, TV'larini nazorat qilishni maqsad qilgan.",
+    "tags": [
+      "agentlar",
+      "maxfiylik"
+    ],
+    "importance": 3,
+    "score": 21,
+    "published": "2026-10-19T16:13:22.000Z",
+    "created": "2026-10-19T21:36:09.765Z",
+    "coverage": 2,
+    "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "TechCrunch",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQUlIQzFzeG5lbUQ1eVppbklieXRmRlhva2tGMmQ5MzZIU0ZEYVlBVUNsVnFLYmJuSk5sdk5jdDc3VDZXZFdUd0hiRUNqbUl0ck9MS3hYWU0yQVEyc1ozQTFJd0MtYm5ZR1h6LVNXdEl3dmVpSXZWaXEtMnY2dDZ4NlJEUkNmTW5qbW1mOGhEOWp4eUE"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "3272b0fd2b2e",
+    "slug": "dasturchi-kodni-tekshirish-uchun-9-ta-ai-modelidan-foydaland-3272b0",
+    "title": "Dasturchi kodni tekshirish uchun 9 ta AI modelidan foydalandi",
+    "summary": "Bir dasturchi o'zining loyihasi uchun kodni tekshirishda to'qqizta turli AI modelidan foydalangan. Ular orasida Codex, GLM, Gemini, DeepSeek, Qwen, MiMo, Sonnet va Opus kabi modellar bo'lgan. Sonnetning xulosalarini Haiku qayta tekshirgan.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 20,
+    "published": "2026-10-19T18:06:43.000Z",
+    "created": "2026-10-19T21:36:09.765Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1096420",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "8f0ccb03f018",
+    "slug": "coreweave-qarz-muammosi-ai-sanoatiga-tasir-qilishi-mumkin-8f0ccb",
+    "title": "CoreWeave qarz muammosi AI sanoatiga ta'sir qilishi mumkin",
+    "summary": "CoreWeave kompaniyasining obligatsiyalari qiyin ahvolga tushib qoldi, investorlar davlat obligatsiyalaridan 1000 bazis punkt ko'proq daromad talab qilmoqda. Bu holat AI infratuzilmasi qurilishi xususiy kredit pufakchasi ekanligi haqidagi savollarni tug'dirmoqda.",
+    "tags": [
+      "biznes",
+      "iqtisod"
+    ],
+    "importance": 4,
+    "score": 15,
+    "published": "2026-10-19T21:28:20.000Z",
+    "created": "2026-10-19T21:36:09.765Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Verge",
+      "url": "https://theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "ef88d01f96b9",
     "slug": "ukrainada-yaralangan-harbiy-dron-yordamida-olib-chiqildi-ef88d0",
     "title": "Ukrainada yaralangan harbiy dron yordamida olib chiqildi",
