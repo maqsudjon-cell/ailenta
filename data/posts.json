@@ -1,5 +1,114 @@
 [
   {
+    "id": "dd8ec3bec8db",
+    "slug": "cern-va-mistral-hamkorlik-shartnomasini-imzoladi-dd8ec3",
+    "title": "CERN va Mistral hamkorlik shartnomasini imzoladi",
+    "summary": "CERN va Mistral strategik hamkorlik o'rnatish niyatini bildiruvchi shartnomani imzoladi. Bu ikki tashkilot o'rtasida kelajakdagi hamkorlikka asos yaratadi.",
+    "tags": [
+      "Mistral",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 23,
+    "published": "2026-10-19T15:28:24.000Z",
+    "created": "2026-10-19T18:36:24.240Z",
+    "coverage": 1,
+    "source": {
+      "name": "Hacker News",
+      "url": "https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "0dbde1ea1153",
+    "slug": "mit-ai-modeli-homila-harakatini-kuzatishni-yaxshilaydi-0dbde1",
+    "title": "MIT AI modeli homila harakatini kuzatishni yaxshilaydi",
+    "summary": "MIT va Boston Children's Hospital tadqiqotchilari homila harakatini skanerlashda kuzatish uchun AI modelini yaratdi. Bu model prenatal diagnostika ishonchliligini oshirib, oilalarni takroriy shifoxona tashriflaridan xalos qilishi mumkin.",
+    "tags": [
+      "tadqiqot",
+      "tibbiyot"
+    ],
+    "importance": 3,
+    "score": 22,
+    "published": "2026-10-19T18:20:00.000Z",
+    "created": "2026-10-19T18:36:24.240Z",
+    "coverage": 1,
+    "source": {
+      "name": "MIT News",
+      "url": "https://news.mit.edu/2026/teaching-ai-about-symmetry-could-make-prenatal-diagnosis-more-reliable-1019",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "bb2f91049337",
+    "slug": "qwen3-4b-modelidan-ai-yozish-uslublari-olib-tashlandi-bb2f91",
+    "title": "Qwen3-4B modelidan AI yozish uslublari olib tashlandi",
+    "summary": "Qwen3-4B modelining yangi versiyasi taqdim etildi. Unda sun'iy intellektga xos bo'lgan yozish uslublari o'qitish jarayonida olib tashlangan.",
+    "tags": [
+      "ochiq model",
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 20.4,
+    "published": "2026-10-19T13:00:47.000Z",
+    "created": "2026-10-19T18:36:24.240Z",
+    "coverage": 1,
+    "source": {
+      "name": "Hacker News",
+      "url": "https://100toolkit.com/blog/deslop-model",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "545214fd4da0",
+    "slug": "ai-tufayli-xavfsizlik-yamalari-tez-buzilmoqda-545214",
+    "title": "AI tufayli xavfsizlik yamalari tez buzilmoqda",
+    "summary": "Terra kompaniyasi GitHub'dagi xavfsizlik yamalari 90 kun ichida buzilganligi haqidagi xabarlar keskin oshganini aniqladi. Bu hujumchilar sun'iy intellektdan foydalanishi sababli xavfsizlikni ta'minlash murakkablashayotganini ko'rsatadi.",
+    "tags": [
+      "xavfsizlik",
+      "biznes"
+    ],
+    "importance": 4,
+    "score": 19,
+    "published": "2026-10-19T18:23:40.000Z",
+    "created": "2026-10-19T18:36:24.240Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/patches/2026/10/19/security-patches-need-patches-now-that-attackers-have-ai/5303927",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "b8233388ccea",
+    "slug": "ai-modellarida-kollaps-xavfi-aniqlandi-b82333",
+    "title": "AI modellarida \"kollaps\" xavfi aniqlandi",
+    "summary": "Oksford, Kembrij, Toronto va Edinburg universitetlari tadqiqotchilari AI modellarini sun'iy intellekt tomonidan yaratilgan ma'lumotlar bilan o'qitish \"model kollapsi\"ga olib kelishini aniqladi. Bu jarayon modellarida qaytarib bo'lmaydigan nuqsonlarni keltirib chiqaradi.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 4,
+    "score": 14,
+    "published": "2026-10-19T16:28:55.000Z",
+    "created": "2026-10-19T18:36:24.240Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1096398",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "1e6f346b0cb7",
     "slug": "mask-bolalarga-spacex-aksiyasini-berishini-aytdi-1e6f34",
     "title": "Mask bolalarga SpaceX aksiyasini berishini aytdi",

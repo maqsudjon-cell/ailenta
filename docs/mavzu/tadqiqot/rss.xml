@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/tadqiqot/</link>
   <description>&quot;tadqiqot&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Mon, 19 Oct 2026 18:09:28 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 19 Oct 2026 18:43:59 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/tadqiqot/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>MIT AI modeli homila harakatini kuzatishni yaxshilaydi</title>
+    <link>https://ailenta.uz/x/mit-ai-modeli-homila-harakatini-kuzatishni-yaxshilaydi-0dbde1/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/mit-ai-modeli-homila-harakatini-kuzatishni-yaxshilaydi-0dbde1/</guid>
+    <pubDate>Mon, 19 Oct 2026 18:20:00 GMT</pubDate>
+    <description>MIT va Boston Children's Hospital tadqiqotchilari homila harakatini skanerlashda kuzatish uchun AI modelini yaratdi. Bu model prenatal diagnostika ishonchliligini oshirib, oilalarni takroriy shifoxona tashriflaridan xalos qilishi mumkin.</description>
+    <category>tadqiqot</category><category>tibbiyot</category>
+    <media:content url="https://ailenta.uz/og/mit-ai-modeli-homila-harakatini-kuzatishni-yaxshilaydi-0dbde1.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/mit-ai-modeli-homila-harakatini-kuzatishni-yaxshilaydi-0dbde1.jpg"/>
+  </item>
   <item>
     <title>Kling AI 4.0 video generatori taqdim etildi</title>
     <link>https://ailenta.uz/x/kling-ai-4-0-video-generatori-taqdim-etildi-eb297e/</link>
@@ -16,6 +26,26 @@
     <category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/kling-ai-4-0-video-generatori-taqdim-etildi-eb297e.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/kling-ai-4-0-video-generatori-taqdim-etildi-eb297e.jpg"/>
+  </item>
+  <item>
+    <title>AI modellarida &quot;kollaps&quot; xavfi aniqlandi</title>
+    <link>https://ailenta.uz/x/ai-modellarida-kollaps-xavfi-aniqlandi-b82333/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/ai-modellarida-kollaps-xavfi-aniqlandi-b82333/</guid>
+    <pubDate>Mon, 19 Oct 2026 16:28:55 GMT</pubDate>
+    <description>Oksford, Kembrij, Toronto va Edinburg universitetlari tadqiqotchilari AI modellarini sun'iy intellekt tomonidan yaratilgan ma'lumotlar bilan o'qitish &quot;model kollapsi&quot;ga olib kelishini aniqladi. Bu jarayon modellarida qaytarib bo'lmaydigan nuqsonlarni keltirib chiqaradi.</description>
+    <category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/ai-modellarida-kollaps-xavfi-aniqlandi-b82333.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/ai-modellarida-kollaps-xavfi-aniqlandi-b82333.jpg"/>
+  </item>
+  <item>
+    <title>Qwen3-4B modelidan AI yozish uslublari olib tashlandi</title>
+    <link>https://ailenta.uz/x/qwen3-4b-modelidan-ai-yozish-uslublari-olib-tashlandi-bb2f91/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/qwen3-4b-modelidan-ai-yozish-uslublari-olib-tashlandi-bb2f91/</guid>
+    <pubDate>Mon, 19 Oct 2026 13:00:47 GMT</pubDate>
+    <description>Qwen3-4B modelining yangi versiyasi taqdim etildi. Unda sun'iy intellektga xos bo'lgan yozish uslublari o'qitish jarayonida olib tashlangan.</description>
+    <category>ochiq model</category><category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/qwen3-4b-modelidan-ai-yozish-uslublari-olib-tashlandi-bb2f91.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/qwen3-4b-modelidan-ai-yozish-uslublari-olib-tashlandi-bb2f91.jpg"/>
   </item>
   <item>
     <title>Dasturchilar uchun RAG va fine-tuning usullari</title>
@@ -276,36 +306,6 @@
     <category>tadqiqot</category><category>tibbiyot</category>
     <media:content url="https://ailenta.uz/og/ai-genomlarni-tahlil-qilishga-tayyor-emas-f8d655.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/ai-genomlarni-tahlil-qilishga-tayyor-emas-f8d655.jpg"/>
-  </item>
-  <item>
-    <title>Xitoy Fengqing AI ob-havo tizimini ishga tushirdi</title>
-    <link>https://ailenta.uz/x/xitoy-fengqing-ai-ob-havo-tizimini-ishga-tushirdi-d0045f/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/xitoy-fengqing-ai-ob-havo-tizimini-ishga-tushirdi-d0045f/</guid>
-    <pubDate>Sat, 17 Oct 2026 07:53:05 GMT</pubDate>
-    <description>Xitoy meteorologiya boshqarmasi Fengqing Ensemble V1.0 tizimini amaliyotga joriy qildi. Mustaqil sinovlarda ushbu AI tizimi global 500 hPa balandlik uchun 11 kunlik samarali prognoz ko'rsatkichini namoyish etdi.</description>
-    <category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/xitoy-fengqing-ai-ob-havo-tizimini-ishga-tushirdi-d0045f.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/xitoy-fengqing-ai-ob-havo-tizimini-ishga-tushirdi-d0045f.jpg"/>
-  </item>
-  <item>
-    <title>UBTECH robotlar uchun Thinker-WM modelini taqdim etdi</title>
-    <link>https://ailenta.uz/x/ubtech-robotlar-uchun-thinker-wm-modelini-taqdim-etdi-6694fc/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/ubtech-robotlar-uchun-thinker-wm-modelini-taqdim-etdi-6694fc/</guid>
-    <pubDate>Sat, 17 Oct 2026 02:19:16 GMT</pubDate>
-    <description>UBTECH kompaniyasi video, chuqurlik va robot harakatlarini birlashtiruvchi Thinker-WM modelini namoyish qildi. Ishlab chiquvchilarning ta'kidlashicha, model jismoniy AI uchun uchta sinov to'plamida eng yuqori natijani ko'rsatgan. Chuqurlik ma'lumotlarining qo'shilishi RoboTwin sinovida vazifani bajarish muvaffaqiyatini 15 foiz punktga oshirgan.</description>
-    <category>robototexnika</category><category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/ubtech-robotlar-uchun-thinker-wm-modelini-taqdim-etdi-6694fc.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/ubtech-robotlar-uchun-thinker-wm-modelini-taqdim-etdi-6694fc.jpg"/>
-  </item>
-  <item>
-    <title>Anthropic so‘rovi: AI Nobel kashfiyotiga erishadi</title>
-    <link>https://ailenta.uz/x/anthropic-so-rovi-ai-nobel-kashfiyotiga-erishadi-350abc/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/anthropic-so-rovi-ai-nobel-kashfiyotiga-erishadi-350abc/</guid>
-    <pubDate>Sat, 17 Oct 2026 01:00:12 GMT</pubDate>
-    <description>Anthropic o‘tkazgan so‘rovga ko‘ra, xodimlarning 91 foizi AI 2030-yilga borib Nobel darajasidagi kashfiyot qila olishini kutmoqda. AQSh kattalarining 39 foizi ham shunday fikrda.</description>
-    <category>Anthropic</category><category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/anthropic-so-rovi-ai-nobel-kashfiyotiga-erishadi-350abc.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/anthropic-so-rovi-ai-nobel-kashfiyotiga-erishadi-350abc.jpg"/>
   </item>
 </channel>
 </rss>

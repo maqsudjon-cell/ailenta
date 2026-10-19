@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/ochiq-model/</link>
   <description>&quot;ochiq model&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Mon, 19 Oct 2026 18:09:28 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 19 Oct 2026 18:43:59 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/ochiq-model/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Qwen3-4B modelidan AI yozish uslublari olib tashlandi</title>
+    <link>https://ailenta.uz/x/qwen3-4b-modelidan-ai-yozish-uslublari-olib-tashlandi-bb2f91/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/qwen3-4b-modelidan-ai-yozish-uslublari-olib-tashlandi-bb2f91/</guid>
+    <pubDate>Mon, 19 Oct 2026 13:00:47 GMT</pubDate>
+    <description>Qwen3-4B modelining yangi versiyasi taqdim etildi. Unda sun'iy intellektga xos bo'lgan yozish uslublari o'qitish jarayonida olib tashlangan.</description>
+    <category>ochiq model</category><category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/qwen3-4b-modelidan-ai-yozish-uslublari-olib-tashlandi-bb2f91.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/qwen3-4b-modelidan-ai-yozish-uslublari-olib-tashlandi-bb2f91.jpg"/>
+  </item>
   <item>
     <title>MoE modellarda ekspertlarni kamaytirishning salbiy ta'siri</title>
     <link>https://ailenta.uz/x/moe-modellarda-ekspertlarni-kamaytirishning-salbiy-tasiri-b3beae/</link>
@@ -296,16 +306,6 @@
     <category>biznes</category><category>ochiq model</category>
     <media:content url="https://ailenta.uz/og/llm-ilovalari-konstruktori-flowise-yopildi-51f949.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/llm-ilovalari-konstruktori-flowise-yopildi-51f949.jpg"/>
-  </item>
-  <item>
-    <title>Ollama'dan foydalanish bo'yicha ogohlantirish</title>
-    <link>https://ailenta.uz/x/ollamadan-foydalanish-boyicha-ogohlantirish-1f1f33/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/ollamadan-foydalanish-boyicha-ogohlantirish-1f1f33/</guid>
-    <pubDate>Tue, 22 Sep 2026 08:44:59 GMT</pubDate>
-    <description>Maqolada Ollama platformasining kamchiliklari va foydalanuvchilarni chalg'itishi muhokama qilinadi. Uning llama.cpp ustidagi oddiy interfeysi mashhurlikka erishgan bo'lsa-da, keyinchalik bulutga yo'naltirilgani tanqid qilinadi.</description>
-    <category>ochiq model</category><category>bulut</category>
-    <media:content url="https://ailenta.uz/og/ollamadan-foydalanish-boyicha-ogohlantirish-1f1f33.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/ollamadan-foydalanish-boyicha-ogohlantirish-1f1f33.jpg"/>
   </item>
 </channel>
 </rss>
