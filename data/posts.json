@@ -1,5 +1,156 @@
 [
   {
+    "id": "af59b3284175",
+    "slug": "nvidia-blackwell-rtx-grafikali-noutbuklarni-chiqardi-af59b3",
+    "title": "Nvidia Blackwell RTX grafikali noutbuklarni chiqardi",
+    "summary": "Nvidia Blackwell RTX grafikasi va AI platformasiga ega yangi noutbuklarni taqdim etdi. Ushbu Windows kompyuterlari 128GB gacha xotira bilan jihozlangan bo‘lib, narxi 2399 dollardan boshlanadi.",
+    "tags": [
+      "Nvidia",
+      "chiplar"
+    ],
+    "importance": 3,
+    "score": 27.9,
+    "published": "2026-10-17T21:00:13.000Z",
+    "created": "2026-10-19T05:12:31.442Z",
+    "coverage": 1,
+    "source": {
+      "name": "Nvidia",
+      "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "2bee2336398d",
+    "slug": "llmlarda-foydalanuvchi-vektor-tasvirlarini-qayta-ko-rish-2bee23",
+    "title": "LLMlarda foydalanuvchi vektor tasvirlarini qayta ko‘rish",
+    "summary": "Yangi tadqiqot LLMlarda foydalanuvchi vektor tasvirlarini qayta ko‘rib chiqadi. Unda mavjud usullarning cheklovlari muhokama qilinib, turli stsenariylar uchun moslashuvchan foydalanuvchi tasvirlarini yaratish taklif etiladi.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 13,
+    "published": "2026-10-19T04:00:00.000Z",
+    "created": "2026-10-19T05:12:31.442Z",
+    "coverage": 1,
+    "source": {
+      "name": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2610.22400",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "b3beae4a8da5",
+    "slug": "moe-modellarda-ekspertlarni-kamaytirishning-salbiy-tasiri-b3beae",
+    "title": "MoE modellarda ekspertlarni kamaytirishning salbiy ta'siri",
+    "summary": "Tadqiqot MoE modellarda so‘rov tokenlarini kamroq ekspertlar orqali o‘tkazishning ta'sirini o‘rgandi. Natijada, ekspertlar sonini yarmiga kamaytirish qisqa javob berishda F1 yo‘qotishiga olib kelishi aniqlandi.",
+    "tags": [
+      "tadqiqot",
+      "ochiq model"
+    ],
+    "importance": 2,
+    "score": 10,
+    "published": "2026-10-19T04:00:00.000Z",
+    "created": "2026-10-19T05:12:31.442Z",
+    "coverage": 1,
+    "source": {
+      "name": "arXiv cs.CL",
+      "url": "https://arxiv.org/abs/2610.22454",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "c38a93269612",
+    "slug": "anthropic-4-yildan-so-ng-ai-ishining-5-insonlarga-qoladi-c38a93",
+    "title": "Anthropic: 4 yildan so‘ng AI ishining 5% insonlarga qoladi",
+    "summary": "Anthropic kompaniyasi 4 yildan keyin sun'iy intellektni rivojlantirish ishlarining atigi 5 foizi insonlar tomonidan bajarilishini bashorat qildi. Bu AI sohasidagi mehnat bozoriga katta ta'sir ko‘rsatishi mumkin.",
+    "tags": [
+      "Anthropic",
+      "mehnat bozori"
+    ],
+    "importance": 4,
+    "score": 10,
+    "published": "2026-10-19T00:52:32.000Z",
+    "created": "2026-10-19T05:12:31.443Z",
+    "coverage": 1,
+    "source": {
+      "name": "36Kr",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9KV1pGM3ZFa04yMUpsWTRRVExDd0tUZGJVVkxIZ3prOXp1UUkyaUNQUGZtckpDVTZaajdPRmtJQWlLbVhaRlBrRWlYMFUtQk55c3Nn",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "4759573a013b",
+    "slug": "kenyalik-ai-startaplari-meta-pitchathonida-g-olib-bo-ldi-475957",
+    "title": "Kenyalik AI startaplari Meta pitchathonida g‘olib bo‘ldi",
+    "summary": "Keniyalik sun'iy intellekt startaplari Meta tomonidan tashkil etilgan pitchathon tanlovida g‘olib chiqdi. Ular Istanbulga borish imkoniyatini qo‘lga kiritdi.",
+    "tags": [
+      "Meta",
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 7,
+    "published": "2026-10-19T05:08:22.000Z",
+    "created": "2026-10-19T05:12:31.443Z",
+    "coverage": 1,
+    "source": {
+      "name": "Africa Business Communities",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOd0VUZ09ZTWxVc0JlaGRfQzdhMzU2U2UwZDJHQWs4TVo4bGtXa2hsWi0yd1JfRTNLcjNDS3Y1VERXNlBkc0RhU3laam8wNjFxdEZPbm11cUE4eThQZnFnSk1hZzMzeTdfTHhnVktrOHlQWWVBTDZaajk2bFpwU3hsMmdUT0pBNU1xQzByTFhybFVnWFpxNUdzVzlPZWdhbUhfQ0E3dw",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "465095df75cc",
+    "slug": "til-modellarida-uzluksiz-o-rganish-bo-yicha-tadqiqot-465095",
+    "title": "Til modellarida uzluksiz o‘rganish bo‘yicha tadqiqot",
+    "summary": "Yangi tadqiqot til modellarida uzluksiz o‘rganish jarayonini o‘rgandi. Unda faktlarni qayta o‘rganishda oldingi tajribaning ahamiyati va uning keyingi yangilanishlarga ta'siri tahlil qilindi.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 7,
+    "published": "2026-10-19T04:00:00.000Z",
+    "created": "2026-10-19T05:12:31.443Z",
+    "coverage": 1,
+    "source": {
+      "name": "arXiv cs.LG",
+      "url": "https://arxiv.org/abs/2610.22381",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "f15730fed155",
+    "slug": "til-modellarining-harakat-nominal-konstruksiyalarini-o-rgani-f15730",
+    "title": "Til modellarining harakat nominal konstruksiyalarini o‘rganish",
+    "summary": "Yangi tadqiqot til modellarining harakat nominal konstruksiyalarini qanday o‘rganishini o‘rgandi. Unda turli grammatik konfiguratsiyalar modellar o‘rganishiga qanday ta'sir ko‘rsatishi tahlil qilindi.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 7,
+    "published": "2026-10-19T04:00:00.000Z",
+    "created": "2026-10-19T05:12:31.443Z",
+    "coverage": 1,
+    "source": {
+      "name": "arXiv cs.CL",
+      "url": "https://arxiv.org/abs/2610.22468",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "a5be6bae30bc",
     "slug": "xitoy-iqtisodiyoti-ai-eksporti-hisobiga-osmoqda-a5be6b",
     "title": "Xitoy iqtisodiyoti AI eksporti hisobiga o'smoqda",
