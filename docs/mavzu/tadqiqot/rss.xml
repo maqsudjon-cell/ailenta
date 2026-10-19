@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/tadqiqot/</link>
   <description>&quot;tadqiqot&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Mon, 19 Oct 2026 17:47:07 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 19 Oct 2026 18:09:28 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/tadqiqot/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Kling AI 4.0 video generatori taqdim etildi</title>
+    <link>https://ailenta.uz/x/kling-ai-4-0-video-generatori-taqdim-etildi-eb297e/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/kling-ai-4-0-video-generatori-taqdim-etildi-eb297e/</guid>
+    <pubDate>Mon, 19 Oct 2026 17:36:26 GMT</pubDate>
+    <description>Kling AI 30 soniyagacha video yaratuvchi 4.0 modelini chiqardi. Yangi versiya stereo audio, ko'p tilli lab harakati va 8 000 tokengacha so'rovlarni qo'llab-quvvatlaydi.</description>
+    <category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/kling-ai-4-0-video-generatori-taqdim-etildi-eb297e.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/kling-ai-4-0-video-generatori-taqdim-etildi-eb297e.jpg"/>
+  </item>
   <item>
     <title>Dasturchilar uchun RAG va fine-tuning usullari</title>
     <link>https://ailenta.uz/x/dasturchilar-uchun-rag-va-fine-tuning-usullari-8b445b/</link>
@@ -296,16 +306,6 @@
     <category>Anthropic</category><category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/anthropic-so-rovi-ai-nobel-kashfiyotiga-erishadi-350abc.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/anthropic-so-rovi-ai-nobel-kashfiyotiga-erishadi-350abc.jpg"/>
-  </item>
-  <item>
-    <title>ESP32 mikro boshqaruvchida matndan rasm yaratish imkoniyati</title>
-    <link>https://ailenta.uz/x/esp32-mikro-boshqaruvchida-matndan-rasm-yaratish-imkoniyati-bfd4cd/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/esp32-mikro-boshqaruvchida-matndan-rasm-yaratish-imkoniyati-bfd4cd/</guid>
-    <pubDate>Fri, 16 Oct 2026 17:59:35 GMT</pubDate>
-    <description>Dasturchi ESP32-S3 mikro boshqaruvchisida matndan rasm yaratish uchun latent diffuziya transformerini muvaffaqiyatli ishga tushirdi. Ushbu qurilma 512 KB operativ xotira bilan 64x64 o'lchamdagi rasmni 5,4 soniyada yaratadi.</description>
-    <category>chiplar</category><category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/esp32-mikro-boshqaruvchida-matndan-rasm-yaratish-imkoniyati-bfd4cd.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/esp32-mikro-boshqaruvchida-matndan-rasm-yaratish-imkoniyati-bfd4cd.jpg"/>
   </item>
 </channel>
 </rss>

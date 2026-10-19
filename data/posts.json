@@ -1,5 +1,75 @@
 [
   {
+    "id": "1e6f346b0cb7",
+    "slug": "mask-bolalarga-spacex-aksiyasini-berishini-aytdi-1e6f34",
+    "title": "Mask bolalarga SpaceX aksiyasini berishini aytdi",
+    "summary": "Elon Musk AQShdagi har bir bolaga SpaceX aksiyasini berishini ma'lum qildi. Ushbu bayonot Anthropic jamoat manfaati fondini tashkil etishini e'lon qilganidan keyin yangradi.",
+    "tags": [
+      "Anthropic",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 36,
+    "published": "2026-10-19T14:23:08.000Z",
+    "created": "2026-10-19T18:01:33.928Z",
+    "coverage": 2,
+    "source": {
+      "name": "The New York Times",
+      "url": "https://nytimes.com/2026/10/19/business/elon-musk-spacex-stock-anthropic-giveaway.html",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "NBC News",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUDRsOTlqdE9oSWhyakM3Zzc5Nnk5Umw3b0NkazBvb0NNUjUyejNGVDNsXzgzeF9fb3NKeFFjRkhZVU9XaDlWZkhweWszMi1zdE5KSHFiSkFwRTBHQ3pQdHB3NU9GTWVZNlZnSGhoT21wdmQtQ2dGQ0dzeHRVZmliZWlZV3pJT0lXczhqaFM0NmJVNmRfUG1ZdDkyUnRzeEFscG55MURTXzllMWdf"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "589d90266f59",
+    "slug": "anthropic-boshlangich-lavozimlarni-qisqartirdi-589d90",
+    "title": "Anthropic boshlang'ich lavozimlarni qisqartirdi",
+    "summary": "Anthropic texnik yo'nalishdagi boshlang'ich lavozimlarga yangi xodimlarni qabul qilishni kamaytirdi. Kompaniya bunga ish jarayoniga AI agentlari tatbiq etilganini sabab qilib ko'rsatdi.",
+    "tags": [
+      "Anthropic",
+      "mehnat bozori"
+    ],
+    "importance": 4,
+    "score": 18,
+    "published": "2026-10-19T16:14:44.000Z",
+    "created": "2026-10-19T18:01:33.928Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/anthropic-chart-shows-junior-hiring-down-company-ai-2026-10",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "eb297e89de6b",
+    "slug": "kling-ai-4-0-video-generatori-taqdim-etildi-eb297e",
+    "title": "Kling AI 4.0 video generatori taqdim etildi",
+    "summary": "Kling AI 30 soniyagacha video yaratuvchi 4.0 modelini chiqardi. Yangi versiya stereo audio, ko'p tilli lab harakati va 8 000 tokengacha so'rovlarni qo'llab-quvvatlaydi.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-10-19T17:36:26.000Z",
+    "created": "2026-10-19T18:01:33.928Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/kling-ai-drops-version-4-0-with-stereo-audio-multilingual-lip-sync-and-a-lighter-flash-variant",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "190687157a4d",
     "slug": "whatsappda-meta-chatbot-korsatmalari-sizib-chiqdi-190687",
     "title": "WhatsApp'da Meta chatbot ko'rsatmalari sizib chiqdi",
