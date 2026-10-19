@@ -5,7 +5,7 @@
   <link>https://ailenta.uz/mavzu/agentlar/</link>
   <description>&quot;agentlar&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Mon, 19 Oct 2026 09:09:13 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 19 Oct 2026 09:44:31 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/agentlar/rss.xml" rel="self" type="application/rss+xml"/>
   <item>
     <title>AI agentlar uchun aniq spetsifikatsiyalar muhim</title>
@@ -16,6 +16,16 @@
     <category>agentlar</category><category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/ai-agentlar-uchun-aniq-spetsifikatsiyalar-muhim-a1eb57.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/ai-agentlar-uchun-aniq-spetsifikatsiyalar-muhim-a1eb57.jpg"/>
+  </item>
+  <item>
+    <title>SenseCore agentik xulosa chiqarishni tezlashtirdi</title>
+    <link>https://ailenta.uz/x/sensecore-agentik-xulosa-chiqarishni-tezlashtirdi-76c289/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/sensecore-agentik-xulosa-chiqarishni-tezlashtirdi-76c289/</guid>
+    <pubDate>Mon, 19 Oct 2026 06:59:58 GMT</pubDate>
+    <description>SenseTime'ning SenseCore platformasi CSDI sammitida Prefill va Decode klasterlarini ajratish texnologiyasini taqdim etdi. Bir testda token o'tkazuvchanligi 5 baravar oshdi va kunlik hajmni 10 trillion tokenga yetkazish rejalashtirildi.</description>
+    <category>agentlar</category>
+    <media:content url="https://ailenta.uz/og/sensecore-agentik-xulosa-chiqarishni-tezlashtirdi-76c289.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/sensecore-agentik-xulosa-chiqarishni-tezlashtirdi-76c289.jpg"/>
   </item>
   <item>
     <title>Rokid va Tencent AI ko'zoynakda taksi chaqirishni joriy etdi</title>
@@ -296,16 +306,6 @@
     <category>mehnat bozori</category><category>agentlar</category>
     <media:content url="https://ailenta.uz/og/nomzodlarning-ai-egizaklari-suhbatdan-otishi-mumkin-fe2036.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/nomzodlarning-ai-egizaklari-suhbatdan-otishi-mumkin-fe2036.jpg"/>
-  </item>
-  <item>
-    <title>AI agentlarini boshqarish uchun resursli avtoritet modeli</title>
-    <link>https://ailenta.uz/x/ai-agentlarini-boshqarish-uchun-resursli-avtoritet-modeli-dc2d5d/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/ai-agentlarini-boshqarish-uchun-resursli-avtoritet-modeli-dc2d5d/</guid>
-    <pubDate>Mon, 12 Oct 2026 08:53:24 GMT</pubDate>
-    <description>Habr nashri AI agentlarini boshqarish masalasini ko‘rib chiqdi va ularning harakatlarini cheklash uchun resurslarni taqsimlash mexanizmini muhokama qildi. Bu yechim akademik ishda taklif etilgan bo‘lib, AI agentlarining resurslarga bo‘lgan huquqini belgilaydi.</description>
-    <category>agentlar</category><category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/ai-agentlarini-boshqarish-uchun-resursli-avtoritet-modeli-dc2d5d.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/ai-agentlarini-boshqarish-uchun-resursli-avtoritet-modeli-dc2d5d.jpg"/>
   </item>
 </channel>
 </rss>
