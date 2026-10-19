@@ -5,8 +5,18 @@
   <link>https://ailenta.uz</link>
   <description>Dunyodagi sun'iy intellekt yangiliklari o'zbek tilida. Har soatda yangilanadi, har bir xabarda asl manbaga havola.</description>
   <language>uz</language>
-  <lastBuildDate>Mon, 19 Oct 2026 22:38:07 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 19 Oct 2026 23:07:32 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Hugging Face AI modellarini baholash haqida gapirdi</title>
+    <link>https://ailenta.uz/x/hugging-face-ai-modellarini-baholash-haqida-gapirdi-2eba6f/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/hugging-face-ai-modellarini-baholash-haqida-gapirdi-2eba6f/</guid>
+    <pubDate>Mon, 19 Oct 2026 22:49:27 GMT</pubDate>
+    <description>Hugging Face siyosat bo'limi rahbari Irene Solaiman AI modellarini sinovdan o'tkazish usullari murakkabligini ta'kidladi. Uning so'zlariga ko'ra, ichki baholash vositalari oson yechim bo'la olmaydi.</description>
+    <category>Hugging Face</category><category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/hugging-face-ai-modellarini-baholash-haqida-gapirdi-2eba6f.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/hugging-face-ai-modellarini-baholash-haqida-gapirdi-2eba6f.jpg"/>
+  </item>
   <item>
     <title>Texas data markazlari qurilishiga ruxsat bermoqda</title>
     <link>https://ailenta.uz/x/texas-data-markazlari-qurilishiga-ruxsat-bermoqda-1fed43/</link>
@@ -496,16 +506,6 @@
     <category>biznes</category><category>tibbiyot</category>
     <media:content url="https://ailenta.uz/og/abby-care-oilaviy-parvarishchilar-uchun-82m-sarmoya-jalb-qil-5bebe3.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/abby-care-oilaviy-parvarishchilar-uchun-82m-sarmoya-jalb-qil-5bebe3.jpg"/>
-  </item>
-  <item>
-    <title>Kichik AI modellari uchun yangi usul taklif qilindi</title>
-    <link>https://ailenta.uz/x/kichik-ai-modellari-uchun-yangi-usul-taklif-qilindi-590003/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/kichik-ai-modellari-uchun-yangi-usul-taklif-qilindi-590003/</guid>
-    <pubDate>Mon, 19 Oct 2026 04:00:00 GMT</pubDate>
-    <description>Tadqiqotchilar til modellaridagi vektor tasvirlar jadvalini 16 megabaytga qisqartirish usulini ko'rsatdi. Gemma 3 270M modelida ushbu jadval muzlatilgan kodlar bilan almashtirildi.</description>
-    <category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/kichik-ai-modellari-uchun-yangi-usul-taklif-qilindi-590003.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/kichik-ai-modellari-uchun-yangi-usul-taklif-qilindi-590003.jpg"/>
   </item>
 </channel>
 </rss>
