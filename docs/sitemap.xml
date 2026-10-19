@@ -7,6 +7,24 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://ailenta.uz/x/dasturchilar-openspec-va-ai-agentlarni-ishlatishga-undaldi-cd90c6/</loc>
+    <lastmod>2026-10-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ailenta.uz/x/microsoft-buyuk-britaniya-ai-superkompyuteridan-voz-kechdi-6e3c2a/</loc>
+    <lastmod>2026-10-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ailenta.uz/x/dasturchilar-uchun-rag-va-fine-tuning-usullari-8b445b/</loc>
+    <lastmod>2026-10-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://ailenta.uz/x/ai-samaradorligi-oshishi-kimga-foyda-keltirishi-muhokamada-ee6305/</loc>
     <lastmod>2026-10-19</lastmod>
     <changefreq>monthly</changefreq>
@@ -26,6 +44,12 @@
   </url>
   <url>
     <loc>https://ailenta.uz/x/ai-tufayli-ayollar-ish-joylarini-yoqotish-xavfi-ostida-1b9bf0/</loc>
+    <lastmod>2026-10-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ailenta.uz/x/ai-skilllaridagi-zaifliklarni-aniqlash-vositalari-864622/</loc>
     <lastmod>2026-10-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -56,6 +80,12 @@
   </url>
   <url>
     <loc>https://ailenta.uz/x/ai-sui-tokenini-tarmoq-sotib-olayotganini-bashorat-qildi-559508/</loc>
+    <lastmod>2026-10-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ailenta.uz/x/anthropic-ishini-yoqotganlarga-yordam-beradi-601561/</loc>
     <lastmod>2026-10-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -20239,7 +20269,25 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://ailenta.uz/mavzu/agentlar/</loc>
+    <lastmod>2026-10-19</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://ailenta.uz/mavzu/microsoft/</loc>
+    <lastmod>2026-10-19</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://ailenta.uz/mavzu/biznes/</loc>
+    <lastmod>2026-10-19</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://ailenta.uz/mavzu/tadqiqot/</loc>
     <lastmod>2026-10-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
@@ -20263,7 +20311,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://ailenta.uz/mavzu/tadqiqot/</loc>
+    <loc>https://ailenta.uz/mavzu/xavfsizlik/</loc>
     <lastmod>2026-10-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
@@ -20281,19 +20329,13 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://ailenta.uz/mavzu/xavfsizlik/</loc>
+    <loc>https://ailenta.uz/mavzu/anthropic/</loc>
     <lastmod>2026-10-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://ailenta.uz/mavzu/huawei/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://ailenta.uz/mavzu/agentlar/</loc>
     <lastmod>2026-10-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
@@ -20306,12 +20348,6 @@
   </url>
   <url>
     <loc>https://ailenta.uz/mavzu/tencent/</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://ailenta.uz/mavzu/anthropic/</loc>
     <lastmod>2026-10-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
@@ -20343,12 +20379,6 @@
   <url>
     <loc>https://ailenta.uz/mavzu/apple/</loc>
     <lastmod>2026-10-19</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://ailenta.uz/mavzu/microsoft/</loc>
-    <lastmod>2026-10-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>

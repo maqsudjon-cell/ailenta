@@ -5,8 +5,28 @@
   <link>https://ailenta.uz/mavzu/tadqiqot/</link>
   <description>&quot;tadqiqot&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Mon, 19 Oct 2026 12:44:46 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 19 Oct 2026 13:12:58 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/tadqiqot/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Dasturchilar uchun RAG va fine-tuning usullari</title>
+    <link>https://ailenta.uz/x/dasturchilar-uchun-rag-va-fine-tuning-usullari-8b445b/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/dasturchilar-uchun-rag-va-fine-tuning-usullari-8b445b/</guid>
+    <pubDate>Mon, 19 Oct 2026 12:15:04 GMT</pubDate>
+    <description>AI dasturiy mahsulotlarga joriy etilganda, LLM kontekstini maxsus ma'lumotlar bilan boyitish kerak. Buning uchun fine-tuning va RAG (Retrieval-Augmented Generation) kabi ikki yondashuv qo'llaniladi.</description>
+    <category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/dasturchilar-uchun-rag-va-fine-tuning-usullari-8b445b.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/dasturchilar-uchun-rag-va-fine-tuning-usullari-8b445b.jpg"/>
+  </item>
+  <item>
+    <title>AI skill'laridagi zaifliklarni aniqlash vositalari</title>
+    <link>https://ailenta.uz/x/ai-skilllaridagi-zaifliklarni-aniqlash-vositalari-864622/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/ai-skilllaridagi-zaifliklarni-aniqlash-vositalari-864622/</guid>
+    <pubDate>Mon, 19 Oct 2026 11:16:00 GMT</pubDate>
+    <description>Muallif AI skill'laridagi zaifliklarni aniqlash uchun skanerlardan foydalanishni o'rgandi. U 12 ta sintetik paketni Cisco Skill Scanner, Nvidia SkillSpector va AgentVerus orqali tekshirdi.</description>
+    <category>xavfsizlik</category><category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/ai-skilllaridagi-zaifliklarni-aniqlash-vositalari-864622.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/ai-skilllaridagi-zaifliklarni-aniqlash-vositalari-864622.jpg"/>
+  </item>
   <item>
     <title>Aqlli shaharlar uchun Edge AI: monitoringdan kognitiv harakat</title>
     <link>https://ailenta.uz/x/aqlli-shaharlar-uchun-edge-ai-monitoringdan-kognitiv-harakat-79044e/</link>
@@ -286,26 +306,6 @@
     <category>chiplar</category><category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/esp32-mikro-boshqaruvchida-matndan-rasm-yaratish-imkoniyati-bfd4cd.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/esp32-mikro-boshqaruvchida-matndan-rasm-yaratish-imkoniyati-bfd4cd.jpg"/>
-  </item>
-  <item>
-    <title>AQSh ish vaqtining 90% AI sinovlarida qamrab olinmagan</title>
-    <link>https://ailenta.uz/x/aqsh-ish-vaqtining-90-ai-sinovlarida-qamrab-olinmagan-2425f3/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/aqsh-ish-vaqtining-90-ai-sinovlarida-qamrab-olinmagan-2425f3/</guid>
-    <pubDate>Fri, 16 Oct 2026 17:08:38 GMT</pubDate>
-    <description>AQShdagi ish vaqtining 90 foizi sun'iy intellekt sinov to'plamlari tomonidan yaxshi qamrab olinmagan vazifalarga sarflanadi. Bu AI'ning amaliy qo'llanilishi va baholanishi o'rtasidagi tafovutni ko'rsatadi.</description>
-    <category>mehnat bozori</category><category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/aqsh-ish-vaqtining-90-ai-sinovlarida-qamrab-olinmagan-2425f3.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/aqsh-ish-vaqtining-90-ai-sinovlarida-qamrab-olinmagan-2425f3.jpg"/>
-  </item>
-  <item>
-    <title>Reflection AI Beam modelining ochiq og'irliklarini chiqardi</title>
-    <link>https://ailenta.uz/x/reflection-ai-beam-modelining-ochiq-ogirliklarini-chiqardi-d054e8/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/reflection-ai-beam-modelining-ochiq-ogirliklarini-chiqardi-d054e8/</guid>
-    <pubDate>Fri, 16 Oct 2026 16:40:02 GMT</pubDate>
-    <description>Reflection AI kompaniyasi Beam nomli 501 milliard parametrlik modelining Apache 2.0 litsenziyali og'irliklarini chiqardi. Bu model keraksiz tokenlarni jazolaydigan kuchaytirilgan o'rganish (RL) bilan o'qitilgan.</description>
-    <category>ochiq model</category><category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/reflection-ai-beam-modelining-ochiq-ogirliklarini-chiqardi-d054e8.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/reflection-ai-beam-modelining-ochiq-ogirliklarini-chiqardi-d054e8.jpg"/>
   </item>
 </channel>
 </rss>

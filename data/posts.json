@@ -1,5 +1,114 @@
 [
   {
+    "id": "6e3c2a3abbd4",
+    "slug": "microsoft-buyuk-britaniya-ai-superkompyuteridan-voz-kechdi-6e3c2a",
+    "title": "Microsoft Buyuk Britaniya AI superkompyuteridan voz kechdi",
+    "summary": "Microsoft Buyuk Britaniyadagi AI superkompyuter loyihasidan voz kechdi. Elektr ta'minoti ulanishidagi kechikishlar mamlakatning AI ambitsiyalarini 2030-yillargacha qoldirishi mumkin.",
+    "tags": [
+      "Microsoft",
+      "biznes"
+    ],
+    "importance": 4,
+    "score": 19,
+    "published": "2026-10-19T12:15:48.000Z",
+    "created": "2026-10-19T13:04:53.831Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/on-prem/2026/10/19/microsoft-abandons-uk-ai-supercomputer-as-grid-struggles-to-keep-up/5303824",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "864622650c95",
+    "slug": "ai-skilllaridagi-zaifliklarni-aniqlash-vositalari-864622",
+    "title": "AI skill'laridagi zaifliklarni aniqlash vositalari",
+    "summary": "Muallif AI skill'laridagi zaifliklarni aniqlash uchun skanerlardan foydalanishni o'rgandi. U 12 ta sintetik paketni Cisco Skill Scanner, Nvidia SkillSpector va AgentVerus orqali tekshirdi.",
+    "tags": [
+      "xavfsizlik",
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 17,
+    "published": "2026-10-19T11:16:00.000Z",
+    "created": "2026-10-19T13:04:53.831Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1094856",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "cd90c6ac22ad",
+    "slug": "dasturchilar-openspec-va-ai-agentlarni-ishlatishga-undaldi-cd90c6",
+    "title": "Dasturchilar OpenSpec va AI agentlarni ishlatishga undaldi",
+    "summary": "Bir kompaniya dasturchilarni AI, keyin esa coding agentlardan foydalanishga undagan. Endi esa ularni OpenSpec'ni faol ishlatishga chaqirmoqda.",
+    "tags": [
+      "mehnat bozori",
+      "agentlar"
+    ],
+    "importance": 2,
+    "score": 14,
+    "published": "2026-10-19T12:24:05.000Z",
+    "created": "2026-10-19T13:04:53.831Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/companies/axiomjdk/articles/1096022",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "8b445b48e1cc",
+    "slug": "dasturchilar-uchun-rag-va-fine-tuning-usullari-8b445b",
+    "title": "Dasturchilar uchun RAG va fine-tuning usullari",
+    "summary": "AI dasturiy mahsulotlarga joriy etilganda, LLM kontekstini maxsus ma'lumotlar bilan boyitish kerak. Buning uchun fine-tuning va RAG (Retrieval-Augmented Generation) kabi ikki yondashuv qo'llaniladi.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 14,
+    "published": "2026-10-19T12:15:04.000Z",
+    "created": "2026-10-19T13:04:53.832Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/companies/skbkontur/articles/1095364",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "601561611fe7",
+    "slug": "anthropic-ishini-yoqotganlarga-yordam-beradi-601561",
+    "title": "Anthropic ishini yo'qotganlarga yordam beradi",
+    "summary": "Anthropic kompaniyasi AI tufayli ish o'rinlarini yo'qotishi mumkin bo'lgan odamlarga yordam berish uchun kompaniyaning katta qismini ajratishga va'da berdi.",
+    "tags": [
+      "Anthropic",
+      "mehnat bozori"
+    ],
+    "importance": 4,
+    "score": 10,
+    "published": "2026-10-19T08:07:23.000Z",
+    "created": "2026-10-19T13:04:53.832Z",
+    "coverage": 1,
+    "source": {
+      "name": "Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRktFR2syRzU0WE8xNnlkUURkUENYVmhzOVFqaUludUFBOFZ5X0dHS2VsTVhPZHZvTDdhN3c4Mm5vZUV3LURjT0J5VEpvV2V3YWJRWThreEtCZjhZWjNJN01pTmR3SFBLbi1lZmd6QUJaTVZRWGp1MUlYaXBjcWl0eEdHRVQ1Wldu",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "ee6305cb2ac4",
     "slug": "ai-samaradorligi-oshishi-kimga-foyda-keltirishi-muhokamada-ee6305",
     "title": "AI samaradorligi oshishi kimga foyda keltirishi muhokamada",
