@@ -1,5 +1,137 @@
 [
   {
+    "id": "89a41c88c104",
+    "slug": "huawei-ai-xulosa-chiqarishdagi-muammoga-yechim-taklif-qildi-89a41c",
+    "title": "Huawei AI xulosa chiqarishdagi muammoga yechim taklif qildi",
+    "summary": "Huawei AI xulosa chiqarish jarayonidagi xotira cheklovlarini OceanStor M900 platformasi bilan hal qilmoqchi. Ushbu Context Memory Storage platformasi keng miqyosli AI xulosa chiqarish iqtisodiyotini yaxshilashga qaratilgan.",
+    "tags": [
+      "Huawei",
+      "chiplar"
+    ],
+    "importance": 3,
+    "score": 22,
+    "published": "2026-10-19T08:00:00.000Z",
+    "created": "2026-10-19T08:03:01.193Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/ai-and-ml/2026/10/19/sponsored-ai-inference-is-running-into-a-memory-bottleneck-huawei-wants-to-tackle-it-with-oceanstor-m900/5303543",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "292cf2bbeefe",
+    "slug": "icann-ai-va-geosiyosat-tahdidlaridan-ogohlantirdi-292cf2",
+    "title": "ICANN AI va geosiyosat tahdidlaridan ogohlantirdi",
+    "summary": "ICANN rahbarlari sun'iy intellekt va geosiyosat ko'proq boshqaruv muammolari va tahdidlarni keltirib chiqarishini kutmoqda. Tashkilot tezroq ishlashga va shaffoflikni oshirishga va'da berdi.",
+    "tags": [
+      "siyosat",
+      "qonun"
+    ],
+    "importance": 2,
+    "score": 19,
+    "published": "2026-10-19T03:28:34.000Z",
+    "created": "2026-10-19T08:03:01.193Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/networks/2026/10/19/icann-vows-to-work-faster-improve-transparency/5303751",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "1c39c9d4ab3f",
+    "slug": "rokid-va-tencent-ai-kozoynakda-taksi-chaqirishni-joriy-etdi-1c39c9",
+    "title": "Rokid va Tencent AI ko'zoynakda taksi chaqirishni joriy etdi",
+    "summary": "Rokid Tencent Mobility Services bilan hamkorlikda AI ko'zoynaklari orqali ovozli taksi chaqirish xizmatini yo'lga qo'ydi. Foydalanuvchilar manzilni ovoz orqali aytib, avtomobil ma'lumotlarini ko'zoynak orqali olishlari mumkin.",
+    "tags": [
+      "Tencent",
+      "agentlar"
+    ],
+    "importance": 3,
+    "score": 18,
+    "published": "2026-10-19T06:41:03.000Z",
+    "created": "2026-10-19T08:03:01.193Z",
+    "coverage": 1,
+    "source": {
+      "name": "TechNode",
+      "url": "https://technode.com/2026/10/19/rokid-brings-voice-based-ride-hailing-to-ai-glasses-through-tencent-partnership",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "a1eb57bfdf93",
+    "slug": "ai-agentlar-uchun-aniq-spetsifikatsiyalar-muhim-a1eb57",
+    "title": "AI agentlar uchun aniq spetsifikatsiyalar muhim",
+    "summary": "Arxitektor Aleksey Sobolekov agentlarga asoslangan dasturiy ta'minotni ishlab chiqishda aniq spetsifikatsiyalar yaratish muhimligini ta'kidladi. Uning so'zlariga ko'ra, ko'pincha spetsifikatsiyalar juda batafsil yoki kontekstdan uzilgan bo'ladi.",
+    "tags": [
+      "agentlar",
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 11,
+    "published": "2026-10-19T07:58:17.000Z",
+    "created": "2026-10-19T08:03:01.193Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1096080",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "334e8b5ae596",
+    "slug": "ai-davrida-startap-qurish-boyicha-eski-maslahatlar-334e8b",
+    "title": "AI davrida startap qurish bo'yicha eski maslahatlar",
+    "summary": "Maqolada AI davrida startap qurish bo'yicha an'anaviy maslahatlar eskirganligi muhokama qilinadi. AI dasturiy ta'minotni soatlarda yozishi mumkin bo'lsa-da, u hali ham 2015-yil usullarini tavsiya qiladi.",
+    "tags": [
+      "biznes",
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 11,
+    "published": "2026-10-19T06:46:03.000Z",
+    "created": "2026-10-19T08:03:01.193Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1095722",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "f1aca4f4e920",
+    "slug": "llmda-tool-calling-xavfsizlik-masalalari-f1aca4",
+    "title": "LLMda tool calling: xavfsizlik masalalari",
+    "summary": "Maqolada Go tilida LLM'ning tool calling funksiyasi muhokama qilinadi. Unda modelning funksiya chaqiruvi operatsiyani bajarishga ruxsat degani emasligi, foydalanuvchi huquqlarini tekshirish zarurligi tushuntiriladi.",
+    "tags": [
+      "xavfsizlik",
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 11,
+    "published": "2026-10-19T06:43:03.000Z",
+    "created": "2026-10-19T08:03:01.193Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1096036",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "b3bf71b094dc",
     "slug": "ace-robotics-ace-brain-0-6-modelini-chiqardi-b3bf71",
     "title": "ACE Robotics ACE-Brain-0.6 modelini chiqardi",

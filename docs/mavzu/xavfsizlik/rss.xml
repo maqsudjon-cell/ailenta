@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/xavfsizlik/</link>
   <description>&quot;xavfsizlik&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Mon, 19 Oct 2026 07:08:44 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 19 Oct 2026 08:10:56 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/xavfsizlik/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>LLMda tool calling: xavfsizlik masalalari</title>
+    <link>https://ailenta.uz/x/llmda-tool-calling-xavfsizlik-masalalari-f1aca4/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/llmda-tool-calling-xavfsizlik-masalalari-f1aca4/</guid>
+    <pubDate>Mon, 19 Oct 2026 06:43:03 GMT</pubDate>
+    <description>Maqolada Go tilida LLM'ning tool calling funksiyasi muhokama qilinadi. Unda modelning funksiya chaqiruvi operatsiyani bajarishga ruxsat degani emasligi, foydalanuvchi huquqlarini tekshirish zarurligi tushuntiriladi.</description>
+    <category>xavfsizlik</category><category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/llmda-tool-calling-xavfsizlik-masalalari-f1aca4.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/llmda-tool-calling-xavfsizlik-masalalari-f1aca4.jpg"/>
+  </item>
   <item>
     <title>Sidneylik erkak AI chatbot bilan otishma rejasini muhokama qildi</title>
     <link>https://ailenta.uz/x/sidneylik-erkak-ai-chatbot-bilan-otishma-rejasini-muhokama-q-276e68/</link>
@@ -296,16 +306,6 @@
     <category>xavfsizlik</category><category>iqtisod</category>
     <media:content url="https://ailenta.uz/og/xvf-rahbari-ai-xatarlaridan-ogohlantirdi-195307.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/xvf-rahbari-ai-xatarlaridan-ogohlantirdi-195307.jpg"/>
-  </item>
-  <item>
-    <title>Humans First yangi AI siyosatini taqdim etdi</title>
-    <link>https://ailenta.uz/x/humans-first-yangi-ai-siyosatini-taqdim-etdi-460cfb/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/humans-first-yangi-ai-siyosatini-taqdim-etdi-460cfb/</guid>
-    <pubDate>Fri, 16 Oct 2026 08:56:36 GMT</pubDate>
-    <description>Humans First konservativ guruhi &quot;America First AI Policy&quot; nomli yangi dasturini e'lon qildi. Tashkilot sun'iy intellekt xavfsizligini kuchaytirish uchun eksport nazorati va viza cheklovlarini joriy etishni taklif qilmoqda.</description>
-    <category>xavfsizlik</category><category>siyosat</category>
-    <media:content url="https://ailenta.uz/og/humans-first-yangi-ai-siyosatini-taqdim-etdi-460cfb.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/humans-first-yangi-ai-siyosatini-taqdim-etdi-460cfb.jpg"/>
   </item>
 </channel>
 </rss>

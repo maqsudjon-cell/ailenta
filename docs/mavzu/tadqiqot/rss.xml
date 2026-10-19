@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/tadqiqot/</link>
   <description>&quot;tadqiqot&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Mon, 19 Oct 2026 07:08:44 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 19 Oct 2026 08:10:56 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/tadqiqot/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>AI agentlar uchun aniq spetsifikatsiyalar muhim</title>
+    <link>https://ailenta.uz/x/ai-agentlar-uchun-aniq-spetsifikatsiyalar-muhim-a1eb57/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/ai-agentlar-uchun-aniq-spetsifikatsiyalar-muhim-a1eb57/</guid>
+    <pubDate>Mon, 19 Oct 2026 07:58:17 GMT</pubDate>
+    <description>Arxitektor Aleksey Sobolekov agentlarga asoslangan dasturiy ta'minotni ishlab chiqishda aniq spetsifikatsiyalar yaratish muhimligini ta'kidladi. Uning so'zlariga ko'ra, ko'pincha spetsifikatsiyalar juda batafsil yoki kontekstdan uzilgan bo'ladi.</description>
+    <category>agentlar</category><category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/ai-agentlar-uchun-aniq-spetsifikatsiyalar-muhim-a1eb57.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/ai-agentlar-uchun-aniq-spetsifikatsiyalar-muhim-a1eb57.jpg"/>
+  </item>
   <item>
     <title>ACE Robotics ACE-Brain-0.6 modelini chiqardi</title>
     <link>https://ailenta.uz/x/ace-robotics-ace-brain-0-6-modelini-chiqardi-b3bf71/</link>
@@ -16,6 +26,26 @@
     <category>robototexnika</category><category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/ace-robotics-ace-brain-0-6-modelini-chiqardi-b3bf71.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/ace-robotics-ace-brain-0-6-modelini-chiqardi-b3bf71.jpg"/>
+  </item>
+  <item>
+    <title>AI davrida startap qurish bo'yicha eski maslahatlar</title>
+    <link>https://ailenta.uz/x/ai-davrida-startap-qurish-boyicha-eski-maslahatlar-334e8b/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/ai-davrida-startap-qurish-boyicha-eski-maslahatlar-334e8b/</guid>
+    <pubDate>Mon, 19 Oct 2026 06:46:03 GMT</pubDate>
+    <description>Maqolada AI davrida startap qurish bo'yicha an'anaviy maslahatlar eskirganligi muhokama qilinadi. AI dasturiy ta'minotni soatlarda yozishi mumkin bo'lsa-da, u hali ham 2015-yil usullarini tavsiya qiladi.</description>
+    <category>biznes</category><category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/ai-davrida-startap-qurish-boyicha-eski-maslahatlar-334e8b.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/ai-davrida-startap-qurish-boyicha-eski-maslahatlar-334e8b.jpg"/>
+  </item>
+  <item>
+    <title>LLMda tool calling: xavfsizlik masalalari</title>
+    <link>https://ailenta.uz/x/llmda-tool-calling-xavfsizlik-masalalari-f1aca4/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/llmda-tool-calling-xavfsizlik-masalalari-f1aca4/</guid>
+    <pubDate>Mon, 19 Oct 2026 06:43:03 GMT</pubDate>
+    <description>Maqolada Go tilida LLM'ning tool calling funksiyasi muhokama qilinadi. Unda modelning funksiya chaqiruvi operatsiyani bajarishga ruxsat degani emasligi, foydalanuvchi huquqlarini tekshirish zarurligi tushuntiriladi.</description>
+    <category>xavfsizlik</category><category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/llmda-tool-calling-xavfsizlik-masalalari-f1aca4.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/llmda-tool-calling-xavfsizlik-masalalari-f1aca4.jpg"/>
   </item>
   <item>
     <title>Kichik AI modellari uchun yangi usul taklif qilindi</title>
@@ -276,36 +306,6 @@
     <category>tadqiqot</category><category>xavfsizlik</category>
     <media:content url="https://ailenta.uz/og/ai-interpretatsiyasi-boyicha-yangi-tadqiqot-bahslarga-sabab-e72489.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/ai-interpretatsiyasi-boyicha-yangi-tadqiqot-bahslarga-sabab-e72489.jpg"/>
-  </item>
-  <item>
-    <title>Neyroset javoblaridagi havolalarning umr ko'rish muddati</title>
-    <link>https://ailenta.uz/x/neyroset-javoblaridagi-havolalarning-umr-korish-muddati-ff3064/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/neyroset-javoblaridagi-havolalarning-umr-korish-muddati-ff3064/</guid>
-    <pubDate>Fri, 16 Oct 2026 12:37:03 GMT</pubDate>
-    <description>Tadqiqotga ko'ra, neyroset javoblaridagi havolalar uzoq yashamaydi. Bir yarim oydan so'ng Perplexity'da 27,5%, Alisa AI'da esa 35,5% eski havolalar qolgan, qolganlari yangi bo'lgan.</description>
-    <category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/neyroset-javoblaridagi-havolalarning-umr-korish-muddati-ff3064.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/neyroset-javoblaridagi-havolalarning-umr-korish-muddati-ff3064.jpg"/>
-  </item>
-  <item>
-    <title>RFC 9421 AI agentlarini 5,5 barobar tezlashtirdi</title>
-    <link>https://ailenta.uz/x/rfc-9421-ai-agentlarini-5-5-barobar-tezlashtirdi-77b7f2/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/rfc-9421-ai-agentlarini-5-5-barobar-tezlashtirdi-77b7f2/</guid>
-    <pubDate>Fri, 16 Oct 2026 11:55:59 GMT</pubDate>
-    <description>RFC 9421 standarti va wbauth ochiq protokoli AI agentlarini 5,5 barobar tezlashtirdi. Endi agentlar kriptografik pasportdan foydalanib, sovuq startni 5 ms, so'rovni 15,8 ms va xotira sarfini 0,76 MBgacha kamaytirdi.</description>
-    <category>agentlar</category><category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/rfc-9421-ai-agentlarini-5-5-barobar-tezlashtirdi-77b7f2.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/rfc-9421-ai-agentlarini-5-5-barobar-tezlashtirdi-77b7f2.jpg"/>
-  </item>
-  <item>
-    <title>Neyrosetlarning matn yozish odatlari o'rganildi</title>
-    <link>https://ailenta.uz/x/neyrosetlarning-matn-yozish-odatlari-organildi-c81f3d/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/neyrosetlarning-matn-yozish-odatlari-organildi-c81f3d/</guid>
-    <pubDate>Fri, 16 Oct 2026 10:13:46 GMT</pubDate>
-    <description>12 ta neyrosetning 84 ta ishchi matndagi yozish odatlari tahlil qilindi. Gemini 10 ta matndan 9 tasini &quot;Вот&quot; so'zi bilan boshlaydi, Kimi va Claude Sonnet esa taklifni yakunlashni taklif qiladi.</description>
-    <category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/neyrosetlarning-matn-yozish-odatlari-organildi-c81f3d.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/neyrosetlarning-matn-yozish-odatlari-organildi-c81f3d.jpg"/>
   </item>
 </channel>
 </rss>
