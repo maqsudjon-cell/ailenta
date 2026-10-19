@@ -1,5 +1,26 @@
 [
   {
+    "id": "5900036f68de",
+    "slug": "kichik-ai-modellari-uchun-yangi-usul-taklif-qilindi-590003",
+    "title": "Kichik AI modellari uchun yangi usul taklif qilindi",
+    "summary": "Tadqiqotchilar til modellaridagi vektor tasvirlar jadvalini 16 megabaytga qisqartirish usulini ko'rsatdi. Gemma 3 270M modelida ushbu jadval muzlatilgan kodlar bilan almashtirildi.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 7,
+    "published": "2026-10-19T04:00:00.000Z",
+    "created": "2026-10-19T06:36:21.335Z",
+    "coverage": 1,
+    "source": {
+      "name": "arXiv cs.CL",
+      "url": "https://arxiv.org/abs/2610.22428",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "af59b3284175",
     "slug": "nvidia-blackwell-rtx-grafikali-noutbuklarni-chiqardi-af59b3",
     "title": "Nvidia Blackwell RTX grafikali noutbuklarni chiqardi",

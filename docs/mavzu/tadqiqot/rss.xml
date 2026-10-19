@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/tadqiqot/</link>
   <description>&quot;tadqiqot&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Mon, 19 Oct 2026 06:11:56 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 19 Oct 2026 06:44:15 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/tadqiqot/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Kichik AI modellari uchun yangi usul taklif qilindi</title>
+    <link>https://ailenta.uz/x/kichik-ai-modellari-uchun-yangi-usul-taklif-qilindi-590003/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/kichik-ai-modellari-uchun-yangi-usul-taklif-qilindi-590003/</guid>
+    <pubDate>Mon, 19 Oct 2026 04:00:00 GMT</pubDate>
+    <description>Tadqiqotchilar til modellaridagi vektor tasvirlar jadvalini 16 megabaytga qisqartirish usulini ko'rsatdi. Gemma 3 270M modelida ushbu jadval muzlatilgan kodlar bilan almashtirildi.</description>
+    <category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/kichik-ai-modellari-uchun-yangi-usul-taklif-qilindi-590003.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/kichik-ai-modellari-uchun-yangi-usul-taklif-qilindi-590003.jpg"/>
+  </item>
   <item>
     <title>LLMlarda foydalanuvchi vektor tasvirlarini qayta ko‘rish</title>
     <link>https://ailenta.uz/x/llmlarda-foydalanuvchi-vektor-tasvirlarini-qayta-ko-rish-2bee23/</link>
@@ -296,16 +306,6 @@
     <category>biznes</category><category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/postgres-19-relizi-ai-tekshiruvchilari-tufayli-kechiktirildi-f0a5f3.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/postgres-19-relizi-ai-tekshiruvchilari-tufayli-kechiktirildi-f0a5f3.jpg"/>
-  </item>
-  <item>
-    <title>Kling AI 4.0 video yaratishda vizual sifatdan boshqaruvga o'tish</title>
-    <link>https://ailenta.uz/x/kling-ai-4-0-video-yaratishda-vizual-sifatdan-boshqaruvga-ot-acf534/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/kling-ai-4-0-video-yaratishda-vizual-sifatdan-boshqaruvga-ot-acf534/</guid>
-    <pubDate>Fri, 16 Oct 2026 08:34:06 GMT</pubDate>
-    <description>Kling AI 4.0 AI video yaratishda raqobatning vizual sifatdan rejissyorlik nazoratiga o‘tayotganini ko‘rsatmoqda. Endi asosiy e'tibor personajlarning izchilligi va hikoyaning yaxlitligiga qaratilmoqda.</description>
-    <category>tadqiqot</category><category>biznes</category>
-    <media:content url="https://ailenta.uz/og/kling-ai-4-0-video-yaratishda-vizual-sifatdan-boshqaruvga-ot-acf534.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/kling-ai-4-0-video-yaratishda-vizual-sifatdan-boshqaruvga-ot-acf534.jpg"/>
   </item>
 </channel>
 </rss>
