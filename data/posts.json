@@ -1,5 +1,54 @@
 [
   {
+    "id": "a5be6bae30bc",
+    "slug": "xitoy-iqtisodiyoti-ai-eksporti-hisobiga-osmoqda-a5be6b",
+    "title": "Xitoy iqtisodiyoti AI eksporti hisobiga o'smoqda",
+    "summary": "Sun'iy intellekt eksportining o'sishi Xitoydagi ichki sustlikni qoplashga yordam bermoqda. Biroq savdo ziddiyatlari va AI bo'yicha shubhalar mamlakat iqtisodiy istiqboliga salbiy ta'sir qilishi mumkin.",
+    "tags": [
+      "iqtisod",
+      "siyosat"
+    ],
+    "importance": 3,
+    "score": 23,
+    "published": "2026-10-19T03:17:46.000Z",
+    "created": "2026-10-19T04:01:18.697Z",
+    "coverage": 1,
+    "source": {
+      "name": "BBC News",
+      "url": "https://bbc.co.uk/news/articles/cm5yn098xz8lo?at_medium=RSS&at_campaign=rss",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "08976fb83c16",
+    "slug": "anthropic-vakili-ai-aqsh-yaimini-oshirishini-aytdi-08976f",
+    "title": "Anthropic vakili AI AQSh YaIMini oshirishini aytdi",
+    "summary": "Anthropic kompaniyasi vakili Klark siyosatchilarga sun'iy intellekt jadal rivojlanayotganini ma'lum qildi. Uning aytishicha, texnologiya AQSh yalpi ichki mahsulotini sezilarli darajada oshirishi mumkin.",
+    "tags": [
+      "Anthropic",
+      "iqtisod"
+    ],
+    "importance": 3,
+    "score": 21.7,
+    "published": "2026-10-17T11:39:54.000Z",
+    "created": "2026-10-19T04:01:18.697Z",
+    "coverage": 2,
+    "source": {
+      "name": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbk9CdFVPN2k3VV9iLUx0SGxFc184WkJQSDVpNGhBTkxVUElnNmFvRk5YeHJNVjloYlFXZWY1MC1TQjBaT3RMSmJXQjl4YUU4X0ZDVllhRGR5T09ncE1vRTVhZVBqZGZYeE1kRG9jRVFram83dWZSd3N1eU9jeWpPckdNTTFyYV9jN1kxTHBWR3YycW1DRlVMU095QzMxVnVNb1RULVZPaXYtVlRaMlF4TEFEd1U4aFpySG83R3BMaDNXYlpPclE",
+      "indirect": true
+    },
+    "also": [
+      {
+        "name": "CNBC",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9BOXg1cnVLam5kdlRzekpwZ2ppalNIaHlYU1poOW9IQlJUMDlOc09zX2RZU2NtckE0bE9KWW1hQ3VGS185MTdSaHNFYnBlYTg0UVY2V2xKWEZUbWlTLTJlX0tFU053c05kaW1heTNxT2nSAXZBVV95cUxNMjJTd05DdHhXYVlhNDdrTWdhTk5XYkpYbEFORE9QeFJZLXhIU21ISjV4akVoVUt4b0w3VHZuUzBnQ3gyQm5Ec2swaGJKMFlqbkRkcm5KcjI3QkFlR04tVHJSalZDQUl2WFJHSDhyUVVGeWpMT1NR"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
     "id": "ef492beeac6b",
     "slug": "x-humanoid-yagona-robot-modeli-yo-l-xaritasini-elon-qildi-ef492b",
     "title": "X-Humanoid yagona robot modeli yo‘l xaritasini e'lon qildi",
