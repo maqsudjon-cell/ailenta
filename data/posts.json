@@ -1,5 +1,71 @@
 [
   {
+    "id": "190687157a4d",
+    "slug": "whatsappda-meta-chatbot-korsatmalari-sizib-chiqdi-190687",
+    "title": "WhatsApp'da Meta chatbot ko'rsatmalari sizib chiqdi",
+    "summary": "WhatsApp veb-saytidagi 80 ga yaqin sahifada Meta chatboti uchun yashirin ko'rsatmalar, jumladan \"NIMA DEMASLIK KERAK\" qoidalari oshkor bo'ldi. Meta bu muammoga xato sabab bo'lganini aytdi.",
+    "tags": [
+      "Meta",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 23,
+    "published": "2026-10-19T16:00:00.000Z",
+    "created": "2026-10-19T17:38:51.748Z",
+    "coverage": 1,
+    "source": {
+      "name": "Wired",
+      "url": "https://wired.com/story/whatsapp-help-pages-leaked-hidden-instructions-for-a-meta-chatbot",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "0e012331f01a",
+    "slug": "firibgarlar-ai-yordamida-sherif-ovozini-klonladi-0e0123",
+    "title": "Firibgarlar AI yordamida sherif ovozini klonladi",
+    "summary": "Politsiya ma'lumotlariga ko'ra, firibgarlar sun'iy intellekt yordamida ma'lum bir sherifning ovozini klonlab, uni taqlid qilishgan. Bu holat AI'ning suiiste'mol qilinishi bilan bog'liq xavotirlarni kuchaytiradi.",
+    "tags": [
+      "xavfsizlik",
+      "qonun"
+    ],
+    "importance": 4,
+    "score": 19,
+    "published": "2026-10-19T16:16:17.000Z",
+    "created": "2026-10-19T17:38:51.748Z",
+    "coverage": 1,
+    "source": {
+      "name": "404 Media",
+      "url": "https://404media.co/police-say-scammers-used-ai-to-clone-a-sheriffs-voice",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "322766d8ff62",
+    "slug": "tolan-ai-yordamchisi-30m-sarmoya-jalb-qildi-322766",
+    "title": "Tolan AI yordamchisi $30M sarmoya jalb qildi",
+    "summary": "Texnologiyadan uzoq foydalanuvchilarga mo'ljallangan Tolan AI yordamchisi USV, Khosla Ventures va Homebrew'dan 30 million dollar sarmoya jalb qildi. Kompaniya foydalanuvchilarining 70% ayollar ekanligini ma'lum qildi.",
+    "tags": [
+      "biznes",
+      "agentlar"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-10-19T17:15:01.000Z",
+    "created": "2026-10-19T17:38:51.748Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/261019/p36",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "03710f6c99ed",
     "slug": "disney-character-aini-bankrotlikka-undadi-03710f",
     "title": "Disney Character.AI'ni bankrotlikka undadi",
