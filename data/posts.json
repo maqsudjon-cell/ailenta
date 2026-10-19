@@ -1,5 +1,92 @@
 [
   {
+    "id": "ef88d01f96b9",
+    "slug": "ukrainada-yaralangan-harbiy-dron-yordamida-olib-chiqildi-ef88d0",
+    "title": "Ukrainada yaralangan harbiy dron yordamida olib chiqildi",
+    "summary": "Ukraina harbiylari yaralangan askarni og‘ir yuk ko‘taruvchi dron yordamida xavfli hududdan evakuatsiya qildi. Ularning ta’kidlashicha, bunday evakuatsiya dunyoda ilk bor amalga oshirilgan.",
+    "tags": [
+      "robototexnika",
+      "siyosat"
+    ],
+    "importance": 4,
+    "score": 45,
+    "published": "2026-10-19T19:00:00.000Z",
+    "created": "2026-10-19T21:02:47.013Z",
+    "coverage": 1,
+    "source": {
+      "name": "Daryo",
+      "url": "https://daryo.uz/2026/10/20/ukrainada-yaralangan-harbiy-dron-yordamida-jang-maydonidan-olib-chiqildi-video",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "92c294f17fe5",
+    "slug": "ai-olamini-ozgartirgan-yangi-davo-elon-qilindi-92c294",
+    "title": "AI olamini o'zgartirgan yangi da'vo e'lon qilindi",
+    "summary": "Goodfire AI startapidan tadqiqotchi Nik Kammarata neyron tarmoqlar tabiati haqida yangi da'vo bilan chiqdi. Uning 26 ming so'zlik blog posti AI olamida katta muhokamalarga sabab bo'ldi.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 4,
+    "score": 26,
+    "published": "2026-10-19T17:45:55.000Z",
+    "created": "2026-10-19T21:02:47.013Z",
+    "coverage": 1,
+    "source": {
+      "name": "MIT Technology Review",
+      "url": "https://technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "5479cb15f2d7",
+    "slug": "analitik-anthropicni-spekulyativ-investitsiya-deb-atadi-5479cb",
+    "title": "Analitik Anthropic'ni \"spekulyativ investitsiya\" deb atadi",
+    "summary": "Tajribali texnologiya analitigi Anthropic kompaniyasini \"juda spekulyativ investitsiya\" deb hisoblashini bildirdi. Bu bayonot Business Insider nashrida e'lon qilindi.",
+    "tags": [
+      "Anthropic",
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-10-19T19:00:00.000Z",
+    "created": "2026-10-19T21:02:47.013Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSDQwNVV6MTgtdGUzVUgwblZKYjJtOVhyd0FUS3AyLVpOdTZrelFGMFRWbHU2eHl6WDZ0SkZySWZWNHppa0dxM2hKV3BFbjh3TjA0bGVYWUxyVHFiTmRFSkJOZThLVkJIVFVlVWpXZzAwZUZHcWhGQ3VONFJCbWVoREdTSUctWlplb1BiN3FUYnVkMUZDVWJYbHUyMFU",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "a3a8ed0bbeb1",
+    "slug": "dengiz-piyodalari-ai-yordamida-yangi-tibbiy-jihozlar-olmoqda-a3a8ed",
+    "title": "Dengiz piyodalari AI yordamida yangi tibbiy jihozlar olmoqda",
+    "summary": "Dengiz piyodalari evakuatsiya kechikkan holatlarda yaradorlarni davolash uchun yangi jihozlar bilan ta'minlanmoqda. Ular orasida ko'chma qon sovutgichlari, tezkor qon isitgichlari va AI yordamidagi ultratovush apparatlari bor.",
+    "tags": [
+      "tibbiyot",
+      "siyosat"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-10-19T18:51:34.000Z",
+    "created": "2026-10-19T21:02:47.013Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/marines-new-medical-gear-for-wars-where-evacuation-delayed-2026-10",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "85177438e254",
     "slug": "nscale-va-anthropic-45-mlrdlik-bitim-tuzishi-mumkin-851774",
     "title": "Nscale va Anthropic $45 mlrdlik bitim tuzishi mumkin",
