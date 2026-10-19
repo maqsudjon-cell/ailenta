@@ -1,5 +1,71 @@
 [
   {
+    "id": "b3bf71b094dc",
+    "slug": "ace-robotics-ace-brain-0-6-modelini-chiqardi-b3bf71",
+    "title": "ACE Robotics ACE-Brain-0.6 modelini chiqardi",
+    "summary": "ACE Robotics fazoviy ma'lumotlar uchun moslashtirilgan 9B parametrli ACE-Brain-0.6 modelini taqdim etdi. Kompaniya hisobotiga ko'ra, model sakkizta fazoviy sinovning oltitasida GPT-6 Astra ustidan g'alaba qozondi.",
+    "tags": [
+      "robototexnika",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 18,
+    "published": "2026-10-19T06:58:07.000Z",
+    "created": "2026-10-19T07:02:31.318Z",
+    "coverage": 1,
+    "source": {
+      "name": "Pandaily",
+      "url": "https://pandaily.com/ace-robotics-ace-brain-0-6-9b-visual-grounding-spatial-supervision-qwen3-5-gpt-6-astra",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "42a145174222",
+    "slug": "fairino-d-seriyasida-sarmoya-jalb-qildi-42a145",
+    "title": "FAIRINO D seriyasida sarmoya jalb qildi",
+    "summary": "Xitoyning FAIRINO robototexnika kompaniyasi Meituan yetakchiligida D seriyali moliyalashtirish bosqichini yakunladi. Kompaniyaning so'nggi ikki investitsiya bosqichi doirasida jami 1 milliard yuanga yaqin mablag' jalb etildi.",
+    "tags": [
+      "robototexnika",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-10-19T06:41:03.000Z",
+    "created": "2026-10-19T07:02:31.318Z",
+    "coverage": 1,
+    "source": {
+      "name": "TechNode",
+      "url": "https://technode.com/2026/10/19/meituan-leads-series-d-funding-for-collaborative-robot-maker-fairino",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "2a06d95a8d77",
+    "slug": "anthropicda-yangi-ishga-qabul-9-ga-kamaydi-2a06d9",
+    "title": "Anthropic'da yangi ishga qabul 9% ga kamaydi",
+    "summary": "Sun'iy intellekt xodimlarni ishga yollash jarayonini o'zgartirmoqda. Natijada Anthropic kompaniyasida tajribasi kam mutaxassislarni texnologik sohalarga ishga qabul qilish darajasi 9 foizgacha pasaydi.",
+    "tags": [
+      "Anthropic",
+      "mehnat bozori"
+    ],
+    "importance": 3,
+    "score": 11,
+    "published": "2026-10-19T06:03:49.000Z",
+    "created": "2026-10-19T07:02:31.318Z",
+    "coverage": 1,
+    "source": {
+      "name": "Firstpost",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTUlMWW9DMS10RE1iQkdVcEhwOEszRkd2QThGZW5yZkItY080UjZCckVtbHA1cmFoalJqNFY0aHRtcUJzUVU2aXJRdEpRVVZsSnlGYk1EZEQtbUxXWFc0ekVPS215OW14Ml9VN3FNRXdTVnY2Nld2aENKZlUySUR4OUY3eThxbzFrcWJWSkV5NTgyYnJILXlhQ0YwUktDbjE0Mjg3ZzRpRmQwOEZjTC1teERwS19CZFFDMnpzSdIBwgFBVV95cUxPVEVUOUZ3aHNNR3VvY1dhNTVlOXFpUUd2cksxSnAxVHUtRDlfdjFobFF5TGxPVDdkZWZReFpmYUlzNUo3Vkw5ckdKWjhpWFdKY1lsRDhTVDNGSWNZZEVGWmhQbk5QRWtLbmZJbHctRDdEVXJFcEdUSU1pLVA5Ul9FN25QRE5Xb3l4VTB5UGE3V2VaZDlRX096TjA0SjZsRkE4cE1yeUhzLVZwNzIwNGdqSmozSnlIcXlBQ2daMmJjUGFkUQ",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "5900036f68de",
     "slug": "kichik-ai-modellari-uchun-yangi-usul-taklif-qilindi-590003",
     "title": "Kichik AI modellari uchun yangi usul taklif qilindi",

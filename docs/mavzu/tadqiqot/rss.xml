@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/tadqiqot/</link>
   <description>&quot;tadqiqot&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Mon, 19 Oct 2026 06:44:15 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 19 Oct 2026 07:08:44 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/tadqiqot/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>ACE Robotics ACE-Brain-0.6 modelini chiqardi</title>
+    <link>https://ailenta.uz/x/ace-robotics-ace-brain-0-6-modelini-chiqardi-b3bf71/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/ace-robotics-ace-brain-0-6-modelini-chiqardi-b3bf71/</guid>
+    <pubDate>Mon, 19 Oct 2026 06:58:07 GMT</pubDate>
+    <description>ACE Robotics fazoviy ma'lumotlar uchun moslashtirilgan 9B parametrli ACE-Brain-0.6 modelini taqdim etdi. Kompaniya hisobotiga ko'ra, model sakkizta fazoviy sinovning oltitasida GPT-6 Astra ustidan g'alaba qozondi.</description>
+    <category>robototexnika</category><category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/ace-robotics-ace-brain-0-6-modelini-chiqardi-b3bf71.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/ace-robotics-ace-brain-0-6-modelini-chiqardi-b3bf71.jpg"/>
+  </item>
   <item>
     <title>Kichik AI modellari uchun yangi usul taklif qilindi</title>
     <link>https://ailenta.uz/x/kichik-ai-modellari-uchun-yangi-usul-taklif-qilindi-590003/</link>
@@ -296,16 +306,6 @@
     <category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/neyrosetlarning-matn-yozish-odatlari-organildi-c81f3d.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/neyrosetlarning-matn-yozish-odatlari-organildi-c81f3d.jpg"/>
-  </item>
-  <item>
-    <title>Postgres 19 relizi AI tekshiruvchilari tufayli kechiktirildi</title>
-    <link>https://ailenta.uz/x/postgres-19-relizi-ai-tekshiruvchilari-tufayli-kechiktirildi-f0a5f3/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/postgres-19-relizi-ai-tekshiruvchilari-tufayli-kechiktirildi-f0a5f3/</guid>
-    <pubDate>Fri, 16 Oct 2026 10:00:00 GMT</pubDate>
-    <description>Postgres 19 relizi AI tekshiruvchilari insonlar tuzata oladiganidan ko‘proq xatolarni topgani sababli kechiktirildi. Asosiy dasturchilar 10 tagacha funksiyani bekor qilib, relizni noyabrga surishdi.</description>
-    <category>biznes</category><category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/postgres-19-relizi-ai-tekshiruvchilari-tufayli-kechiktirildi-f0a5f3.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/postgres-19-relizi-ai-tekshiruvchilari-tufayli-kechiktirildi-f0a5f3.jpg"/>
   </item>
 </channel>
 </rss>
