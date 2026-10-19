@@ -1,5 +1,92 @@
 [
   {
+    "id": "ee6305cb2ac4",
+    "slug": "ai-samaradorligi-oshishi-kimga-foyda-keltirishi-muhokamada-ee6305",
+    "title": "AI samaradorligi oshishi kimga foyda keltirishi muhokamada",
+    "summary": "AI tufayli mehnat samaradorligining oshishi kompaniya rahbarlarini o'ylantirmoqda. PepsiCo, Indeed, Dropbox va Bristol Myers Squibb kabi kompaniyalar AI foydasidan kimlar bahramand bo'lishini qayta ko'rib chiqmoqda.",
+    "tags": [
+      "mehnat bozori",
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 19,
+    "published": "2026-10-19T12:11:39.000Z",
+    "created": "2026-10-19T12:36:55.233Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/10/19/ai-productivity-boom-has-bosses-asking-whats-in-it-for-employees",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "860e1dcad362",
+    "slug": "investorlar-ai-savdosi-xavotirlariga-qaramay-sotib-olmoqda-860e1d",
+    "title": "Investorlar AI savdosi xavotirlariga qaramay sotib olmoqda",
+    "summary": "Investorlar AI savdosi bilan bog'liq xavotirlar tugamaganiga qaramay, dushanba kuni aksiyalarni sotib olishmoqda. Bu savdo kunini boshlash uchun muhim ma'lumot.",
+    "tags": [
+      "iqtisod",
+      "biznes"
+    ],
+    "importance": 1,
+    "score": 19,
+    "published": "2026-10-19T12:00:15.000Z",
+    "created": "2026-10-19T12:36:55.234Z",
+    "coverage": 1,
+    "source": {
+      "name": "CNBC",
+      "url": "https://cnbc.com/2026/10/19/stocks-buying-opportunity-ai-selloff.html",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "1b9bf0eddb84",
+    "slug": "ai-tufayli-ayollar-ish-joylarini-yoqotish-xavfi-ostida-1b9bf0",
+    "title": "AI tufayli ayollar ish joylarini yo'qotish xavfi ostida",
+    "summary": "Texnologik taraqqiyot tarixi shuni ko'rsatadiki, AI keng tarqalgani sari, uning bandlikka ta'siri ayollarga erkaklarnikidan ko'proq ta'sir qiladi. Telefon operatorlari va shaxsiy kompyuterlar bunga misol bo'la oladi.",
+    "tags": [
+      "mehnat bozori"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-10-19T11:20:02.000Z",
+    "created": "2026-10-19T12:36:55.234Z",
+    "coverage": 1,
+    "source": {
+      "name": "CNBC",
+      "url": "https://cnbc.com/2026/10/19/ai-job-losses-women-automation-risk.html",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "b1ad5daf5f4a",
+    "slug": "demokratlar-ai-cheklovlaridan-ustunlik-kutmoqda-b1ad5d",
+    "title": "Demokratlar AI cheklovlaridan ustunlik kutmoqda",
+    "summary": "Demokratlar noyabr oyida Kongress nazoratini qaytarib olsa, AI masalasiga qanday yondashishni hal qilishlari kerak bo'ladi. Ular AI'ni cheklash orqali siyosiy ustunlikka erishish mumkin deb hisoblamoqda.",
+    "tags": [
+      "siyosat",
+      "qonun"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-10-19T12:00:00.000Z",
+    "created": "2026-10-19T12:36:55.234Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Verge",
+      "url": "https://theverge.com/policy/1013113/democrats-ai-midterms",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "371dc8c19628",
     "slug": "yandexga-zarba-rossiyada-aini-sekinlashtirishi-mumkin-371dc8",
     "title": "Yandex'ga zarba Rossiyada AIni sekinlashtirishi mumkin",
