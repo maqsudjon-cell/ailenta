@@ -1,5 +1,115 @@
 [
   {
+    "id": "678424bafb05",
+    "slug": "ai-qabul-qilinishi-boshqa-sohalarga-saboq-beradi-678424",
+    "title": "AI qabul qilinishi boshqa sohalarga saboq beradi",
+    "summary": "AI ish joyida qabul qilinishi bo'yicha hozirgi tushuncha asosan Silikon vodiysi tomonidan shakllangan. Biroq, texnologiya sektori AI qabul qilishda birinchi bo'lib, generativ AI va avtomatizatsiya vositalari yetuklashgani sari, boshqa sohalarda ham o'zgarishlar kutilmoqda.",
+    "tags": [
+      "mehnat bozori",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 26,
+    "published": "2026-10-20T12:00:00.000Z",
+    "created": "2026-10-20T12:37:48.234Z",
+    "coverage": 1,
+    "source": {
+      "name": "MIT Technology Review",
+      "url": "https://technologyreview.com/2026/10/20/1145423/ai-adoption-by-industry-shows-what-other-sectors-can-learn",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "47703fcf6461",
+    "slug": "ai-inson-tajribasiga-hali-ham-muhtoj-47703f",
+    "title": "AI inson tajribasiga hali ham muhtoj",
+    "summary": "AI ba'zi murakkab vazifalarni yaxshi bajarayotgan bo'lsa-da, insonning mulohazasini o'rnini bosa olmaydi. Masalan, avtonom mashinalar murakkab vaziyatlarda yaxshi ishlasa-da, oddiy kundalik vazifalarda, masalan, to'xtash joylarini aniqlashda qiyinchiliklarga duch keladi.",
+    "tags": [
+      "mehnat bozori",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 23,
+    "published": "2026-10-20T12:30:35.000Z",
+    "created": "2026-10-20T12:37:48.234Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/technology/2026/oct/20/ai-human-judgment",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "e29cc6295a4a",
+    "slug": "ai-rivojlanishi-fed-siyosatiga-boysunmaydi-e29cc6",
+    "title": "AI rivojlanishi Fed siyosatiga bo'ysunmaydi",
+    "summary": "AI gigantlari foiz stavkalari oshishiga qaramay qarz olishda davom etmoqda. Bu holat markaziy bankning inflyatsiyaga qarshi asosiy vositasini samarasiz qilmoqda.",
+    "tags": [
+      "iqtisod",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-10-20T12:21:26.000Z",
+    "created": "2026-10-20T12:37:48.234Z",
+    "coverage": 1,
+    "source": {
+      "name": "Semafor",
+      "url": "https://semafor.com/article/10/20/2026/the-ai-boom-doesnt-answer-to-the-fed",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "e00ec6894384",
+    "slug": "ai-innovatsiya-kultini-oz-tarafdorlariga-qarshi-qaratishi-mu-e00ec6",
+    "title": "AI innovatsiya kultini o'z tarafdorlariga qarshi qaratishi mumkin",
+    "summary": "Tomas Frenkning fikricha, AI \"ijodkorlik\" va \"innovatsiya\" kultini o'z tarafdorlariga qarshi qaratishi mumkin. Uning ta'kidlashicha, \"ijodiy sinf\"ga endi hech kim e'tibor bermaydi.",
+    "tags": [
+      "mehnat bozori",
+      "iqtisod"
+    ],
+    "importance": 2,
+    "score": 19,
+    "published": "2026-10-20T12:00:00.000Z",
+    "created": "2026-10-20T12:37:48.234Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/10/20/thomas-frank-interview-the-creativity-con-innovation",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "c9fe1612a387",
+    "slug": "yevropa-fintexida-ai-poygasining-yangi-chegarasi-c9fe16",
+    "title": "Yevropa fintexida AI poygasining yangi chegarasi",
+    "summary": "Yevropa fintex sektorida AI poygasining yangi chegarasi paydo bo'lmoqda. Unda asosiy to'siq miqyosni kengaytirish ekanligi ta'kidlanmoqda.",
+    "tags": [
+      "biznes",
+      "iqtisod"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-10-20T11:00:53.000Z",
+    "created": "2026-10-20T12:37:48.234Z",
+    "coverage": 1,
+    "source": {
+      "name": "Sifted",
+      "url": "https://sifted.eu/articles/transactional-foundation-models",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "9556bc08b341",
     "slug": "toshkentdagi-datavolt-data-markazi-qurilishi-yakunlanmoqda-9556bc",
     "title": "Toshkentdagi DataVolt data-markazi qurilishi yakunlanmoqda",
