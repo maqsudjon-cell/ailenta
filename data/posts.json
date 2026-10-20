@@ -1,5 +1,49 @@
 [
   {
+    "id": "9e55333933a0",
+    "slug": "nyu-yorkda-chatbotlar-boyicha-yangi-qoida-kiritilmoqda-9e5533",
+    "title": "Nyu-Yorkda chatbotlar bo'yicha yangi qoida kiritilmoqda",
+    "summary": "Nyu-Yorkda taklif qilingan yangi qoidaga ko'ra, chatbot mijozning talabini bajara olmasa, kompaniyalar uni zudlik bilan xizmat ko'rsatuvchi xodimga ulashi shart bo'ladi.",
+    "tags": [
+      "qonun",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 25,
+    "published": "2026-10-20T19:47:45.000Z",
+    "created": "2026-10-20T20:02:51.706Z",
+    "coverage": 1,
+    "source": {
+      "name": "Semafor",
+      "url": "https://semafor.com/article/10/20/2026/mamdani-takes-on-ai-chatbot-doom-loops-in-new-york",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "6a3091581e3a",
+    "slug": "bill-gross-ai-orqali-1-mln-yangi-biznes-ochilishini-kutmoqda-6a3091",
+    "title": "Bill Gross AI orqali 1 mln yangi biznes ochilishini kutmoqda",
+    "summary": "Idealab bosh direktori Bill Gross sun'iy intellekt yo'qotilgan ish o'rinlarini qoplash uchun 1 millionta yangi kompaniya ochishga yordam berishini ta'kidladi. U AI yaratgan 1,2 million biznes g'oyasini va agentlarni taklif qilmoqda.",
+    "tags": [
+      "biznes",
+      "mehnat bozori"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-10-20T19:01:22.000Z",
+    "created": "2026-10-20T20:02:51.706Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/10/20/idealabs-bill-gross-thinks-ai-could-help-launch-1-million-new-businesses-making-up-for-any-job-losses-it-causes",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "f1cd67ee3451",
     "slug": "yaponiyada-harakatda-quvvat-oluvchi-yol-sinovi-otadi-f1cd67",
     "title": "Yaponiyada harakatda quvvat oluvchi yo'l sinovi o'tadi",
