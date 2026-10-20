@@ -5,8 +5,28 @@
   <link>https://ailenta.uz/mavzu/tadqiqot/</link>
   <description>&quot;tadqiqot&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Tue, 20 Oct 2026 21:11:44 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 20 Oct 2026 21:45:58 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/tadqiqot/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Audio multiplayer Battle Drones RTS o'yini yaratildi</title>
+    <link>https://ailenta.uz/x/audio-multiplayer-battle-drones-rts-oyini-yaratildi-4dc8a5/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/audio-multiplayer-battle-drones-rts-oyini-yaratildi-4dc8a5/</guid>
+    <pubDate>Tue, 20 Oct 2026 19:34:19 GMT</pubDate>
+    <description>Simon Willison &quot;Battle Drones&quot; nomli real vaqt strategiyasi (RTS) o'yinini yaratdi. Ushbu o'yin yaqin qurilmalar o'rtasida audio orqali sinxronizatsiya qilinadigan multiplayer rejimini qo'llab-quvvatlaydi.</description>
+    <category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/audio-multiplayer-battle-drones-rts-oyini-yaratildi-4dc8a5.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/audio-multiplayer-battle-drones-rts-oyini-yaratildi-4dc8a5.jpg"/>
+  </item>
+  <item>
+    <title>Elevenlabs real vaqtda suhbat uchun yangi AI modelini chiqardi</title>
+    <link>https://ailenta.uz/x/elevenlabs-real-vaqtda-suhbat-uchun-yangi-ai-modelini-chiqar-07acb4/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/elevenlabs-real-vaqtda-suhbat-uchun-yangi-ai-modelini-chiqar-07acb4/</guid>
+    <pubDate>Tue, 20 Oct 2026 19:03:15 GMT</pubDate>
+    <description>Elevenlabs real vaqtda AI suhbatlari uchun mo'ljallangan ikkita yangi nutqdan nutqqa modelini chiqardi. Eleven Realtime v1 Max modeli Big Bench Audio sinovida 98.8% natija va 0.57 soniya javob vaqtini ko'rsatdi.</description>
+    <category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/elevenlabs-real-vaqtda-suhbat-uchun-yangi-ai-modelini-chiqar-07acb4.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/elevenlabs-real-vaqtda-suhbat-uchun-yangi-ai-modelini-chiqar-07acb4.jpg"/>
+  </item>
   <item>
     <title>Yaponiyada harakatda quvvat oluvchi yo'l sinovi o'tadi</title>
     <link>https://ailenta.uz/x/yaponiyada-harakatda-quvvat-oluvchi-yol-sinovi-otadi-f1cd67/</link>
@@ -286,26 +306,6 @@
     <category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/llmlarda-foydalanuvchi-vektor-tasvirlarini-qayta-ko-rish-2bee23.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/llmlarda-foydalanuvchi-vektor-tasvirlarini-qayta-ko-rish-2bee23.jpg"/>
-  </item>
-  <item>
-    <title>MoE modellarda ekspertlarni kamaytirishning salbiy ta'siri</title>
-    <link>https://ailenta.uz/x/moe-modellarda-ekspertlarni-kamaytirishning-salbiy-tasiri-b3beae/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/moe-modellarda-ekspertlarni-kamaytirishning-salbiy-tasiri-b3beae/</guid>
-    <pubDate>Mon, 19 Oct 2026 04:00:00 GMT</pubDate>
-    <description>Tadqiqot MoE modellarda so‘rov tokenlarini kamroq ekspertlar orqali o‘tkazishning ta'sirini o‘rgandi. Natijada, ekspertlar sonini yarmiga kamaytirish qisqa javob berishda F1 yo‘qotishiga olib kelishi aniqlandi.</description>
-    <category>tadqiqot</category><category>ochiq model</category>
-    <media:content url="https://ailenta.uz/og/moe-modellarda-ekspertlarni-kamaytirishning-salbiy-tasiri-b3beae.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/moe-modellarda-ekspertlarni-kamaytirishning-salbiy-tasiri-b3beae.jpg"/>
-  </item>
-  <item>
-    <title>Til modellarida uzluksiz o‘rganish bo‘yicha tadqiqot</title>
-    <link>https://ailenta.uz/x/til-modellarida-uzluksiz-o-rganish-bo-yicha-tadqiqot-465095/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/til-modellarida-uzluksiz-o-rganish-bo-yicha-tadqiqot-465095/</guid>
-    <pubDate>Mon, 19 Oct 2026 04:00:00 GMT</pubDate>
-    <description>Yangi tadqiqot til modellarida uzluksiz o‘rganish jarayonini o‘rgandi. Unda faktlarni qayta o‘rganishda oldingi tajribaning ahamiyati va uning keyingi yangilanishlarga ta'siri tahlil qilindi.</description>
-    <category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/til-modellarida-uzluksiz-o-rganish-bo-yicha-tadqiqot-465095.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/til-modellarida-uzluksiz-o-rganish-bo-yicha-tadqiqot-465095.jpg"/>
   </item>
 </channel>
 </rss>

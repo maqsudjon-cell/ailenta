@@ -1,5 +1,78 @@
 [
   {
+    "id": "652ca5c0387c",
+    "slug": "meta-muse-chat-almashish-funksiyasini-toxtatdi-652ca5",
+    "title": "Meta Muse chat almashish funksiyasini to'xtatdi",
+    "summary": "Meta Muse AI agenti bilan 6,800 ta suhbat, jumladan, kompaniyaning ichki hujjatlari tadqiqotchilar tomonidan topilgan. Shu sababli, Meta Muse chat almashish funksiyasini vaqtincha to'xtatdi.",
+    "tags": [
+      "Meta",
+      "maxfiylik"
+    ],
+    "importance": 4,
+    "score": 30,
+    "published": "2026-10-20T20:00:43.000Z",
+    "created": "2026-10-20T21:37:48.174Z",
+    "coverage": 3,
+    "source": {
+      "name": "Engadget",
+      "url": "https://engadget.com/2292281/meta-suspends-muse-chats-sharing-feature-after-it-left-private-details-exposed",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "The Verge",
+        "url": "https://theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats"
+      },
+      {
+        "name": "Unite.AI",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQY3lsaGp5MV9tSnFid2V4MnFONGR2QzhWbzRVSnV4Z3FIX3EwbTh2MEdxOWZ5ZlNqMERLaDhxdklzSGtlTWxxQlpXaFB6Z1oxTmNsMmVEWU5qRlRZS2o3cG12eHU4UFU3eURESFpqSGVnRVFmSS10bGZEY1pMZHR0LThGV01xYVZhV2Z6R2hBT1NWVmVEdU1lVDVCeDQ"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "4dc8a56e0373",
+    "slug": "audio-multiplayer-battle-drones-rts-oyini-yaratildi-4dc8a5",
+    "title": "Audio multiplayer Battle Drones RTS o'yini yaratildi",
+    "summary": "Simon Willison \"Battle Drones\" nomli real vaqt strategiyasi (RTS) o'yinini yaratdi. Ushbu o'yin yaqin qurilmalar o'rtasida audio orqali sinxronizatsiya qilinadigan multiplayer rejimini qo'llab-quvvatlaydi.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 1,
+    "score": 18,
+    "published": "2026-10-20T19:34:19.000Z",
+    "created": "2026-10-20T21:37:48.175Z",
+    "coverage": 1,
+    "source": {
+      "name": "Simon Willison",
+      "url": "https://simonwillison.net/2026/Oct/20/battledrones",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "07acb4f727b7",
+    "slug": "elevenlabs-real-vaqtda-suhbat-uchun-yangi-ai-modelini-chiqar-07acb4",
+    "title": "Elevenlabs real vaqtda suhbat uchun yangi AI modelini chiqardi",
+    "summary": "Elevenlabs real vaqtda AI suhbatlari uchun mo'ljallangan ikkita yangi nutqdan nutqqa modelini chiqardi. Eleven Realtime v1 Max modeli Big Bench Audio sinovida 98.8% natija va 0.57 soniya javob vaqtini ko'rsatdi.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 18,
+    "published": "2026-10-20T19:03:15.000Z",
+    "created": "2026-10-20T21:37:48.175Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/elevenlabs-releases-two-new-speech-to-speech-models-designed-for-real-time-ai-conversations",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "84cd8d44e982",
     "slug": "hugging-face-torchtpu-bilan-hamkorlikni-elon-qildi-84cd8d",
     "title": "Hugging Face TorchTPU bilan hamkorlikni e'lon qildi",
