@@ -1,5 +1,112 @@
 [
   {
+    "id": "317ac8151cc0",
+    "slug": "aqsh-kritik-minerallar-boyicha-hamkorlikni-kengaytirmoqda-317ac8",
+    "title": "AQSH kritik minerallar bo'yicha hamkorlikni kengaytirmoqda",
+    "summary": "Texnologik rivojlanish va sun'iy intellekt tizimlari sabab kritik minerallarga talab ortib bormoqda. AQSH bu sohada xalqaro hamkorlikni kengaytirmoqda, unda O'zbekiston ham o'ringa ega.",
+    "tags": [
+      "O'zbekiston",
+      "iqtisod"
+    ],
+    "importance": 3,
+    "score": 48,
+    "published": "2026-10-20T13:26:55.000Z",
+    "created": "2026-10-20T15:37:55.647Z",
+    "coverage": 1,
+    "source": {
+      "name": "Kun.uz",
+      "url": "https://kun.uz/news/2026/10/20/aqsh-kritik-minerallar-sohasida-hamkorlikni-kengaytirmoqda-ozbekistonning-orni-qanday",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "f9124cf8fade",
+    "slug": "darmok-ai-dasturi-krossvord-yechishda-insonni-ortda-qoldirdi-f9124c",
+    "title": "Darmok AI dasturi krossvord yechishda insonni ortda qoldirdi",
+    "summary": "Darmok deb nomlangan kompyuter dasturi murakkab krossvordlarni yechishda insonlardan o'zib ketdi. U Times nashrining yillik krossvord musobaqasi yakuniy topishmog'ini muvaffaqiyatli hal qildi.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 26,
+    "published": "2026-10-20T15:27:50.000Z",
+    "created": "2026-10-20T15:37:55.647Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/puzzles/crossword-blog/2026/oct/20/could-this-be-a-deep-blue-moment-for-the-cryptic-crossword",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "c8238f304e1b",
+    "slug": "avstraliyada-aholining-aiga-bolgan-ishonchi-pasaymoqda-c8238f",
+    "title": "Avstraliyada aholining AI'ga bo'lgan ishonchi pasaymoqda",
+    "summary": "Avstraliya siyosiy partiyalari sun'iy intellektga e'tibor qaratayotgan bir paytda, fuqarolarning texnologiyaga ishonchi kamaymoqda. Ishchilar hukumatdan AIning zararlaridan himoya qilishni kutmoqda.",
+    "tags": [
+      "siyosat",
+      "mehnat bozori"
+    ],
+    "importance": 2,
+    "score": 26,
+    "published": "2026-10-20T14:00:38.000Z",
+    "created": "2026-10-20T15:37:55.647Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/technology/commentisfree/2026/oct/21/labor-coalition-poised-to-take-reckless-gamble-on-ai-joint-select-committee",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "563d51871bb6",
+    "slug": "openeuler-xitoy-ish-stoli-operatsion-tizimini-taqdim-etdi-563d51",
+    "title": "openEuler Xitoy ish stoli operatsion tizimini taqdim etdi",
+    "summary": "Xitoyning openEuler loyihasi doirasida AI vositalari va konteynerlar bilan jihozlangan ish stoli operatsion tizimi taqdim etildi. U CentOS negizida yaratilgan bo'lib, mamlakatning dasturiy ta'minot sohasidagi intilishlarini ko'rsatadi.",
+    "tags": [
+      "ochiq model"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-10-20T15:30:00.000Z",
+    "created": "2026-10-20T15:37:55.648Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/os-platforms/2026/10/20/openeuler-brings-chinas-enterprise-linux-ambitions-to-the-desktop/5304145",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "329f44783fbc",
+    "slug": "hpe-spaceborne-computer-4-ai-tizimini-oyga-yuboradi-329f44",
+    "title": "HPE Spaceborne Computer 4 AI tizimini Oyga yuboradi",
+    "summary": "HPE kompaniyasining Spaceborne Computer 4 tizimi Astrolab’ning FLIP roveri bortida Oyga uchiriladi. AI texnologiyalari bilan jihozlangan ushbu kompyuter yil oxirigacha Oyga yetib borishi rejalashtirilgan.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-10-20T14:00:00.000Z",
+    "created": "2026-10-20T15:37:55.648Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/science/2026/10/20/hpe-spaceborne-computer-4-to-launch-ai-straight-to-the-moon-aboard-astrolabs-flip-rover/5303983",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "915350c8a9c0",
     "slug": "ios-dasturchilari-tayyorlash-markazlari-tashkil-etiladi-915350",
     "title": "iOS dasturchilari tayyorlash markazlari tashkil etiladi",
