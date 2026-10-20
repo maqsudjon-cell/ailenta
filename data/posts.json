@@ -1,5 +1,121 @@
 [
   {
+    "id": "39efd0ddde67",
+    "slug": "odamlar-ai-dekompilyatsiyasi-bilan-narsalarni-buzmoqda-39efd0",
+    "title": "Odamlar AI dekompilyatsiyasi bilan narsalarni buzmoqda",
+    "summary": "Odamlar \"AI dekompilyatsiyasi\"dan foydalanib, o'z narsalarini buzishmoqda. Xakerlar guruhi Staples'ni nishonga olgani bunga misol bo'ldi.",
+    "tags": [
+      "xavfsizlik",
+      "qonun"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-10-20T13:51:57.000Z",
+    "created": "2026-10-20T17:34:52.693Z",
+    "coverage": 1,
+    "source": {
+      "name": "404 Media",
+      "url": "https://404media.co/people-are-using-ai-decompiling-to-hack-their-things",
+      "title": "People Are Using 'AI Decompiling' to Hack Their Things",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "94e7f4f5c0e5",
+    "slug": "hugging-face-altk-evolve-mijozlarga-xizmatda-yetakchi-94e7f4",
+    "title": "Hugging Face ALTK-Evolve mijozlarga xizmatda yetakchi",
+    "summary": "Hugging Face'ning ALTK-Evolve modeli o'rganilgan xotira yordamida mijozlarga xizmat ko'rsatish vazifalarida τ²-bench reytingida birinchi o'rinni egalladi. Bu model yetakchi model bo'lmagan holda yuqori natija ko'rsatdi.",
+    "tags": [
+      "Hugging Face",
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 25,
+    "published": "2026-10-20T15:19:48.000Z",
+    "created": "2026-10-20T17:36:37.430Z",
+    "coverage": 1,
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "38d0e37bd3d9",
+    "slug": "ai-aqsh-oraliq-saylovlarida-muhim-masala-38d0e3",
+    "title": "AI AQSH oraliq saylovlarida muhim masala",
+    "summary": "AI AQSH oraliq saylovlarida saylovchilarni qiziqtirgan oltita asosiy masaladan biri sifatida qayd etildi. Bu masalalar saylov natijalariga ta'sir ko'rsatmoqda.",
+    "tags": [
+      "siyosat",
+      "iqtisod"
+    ],
+    "importance": 3,
+    "score": 23,
+    "published": "2026-10-20T16:52:16.000Z",
+    "created": "2026-10-20T17:36:37.430Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/us-news/ng-interactive/2026/oct/20/voter-issues-midterms-elections",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "f847ac6b57da",
+    "slug": "texnologiya-milliarderlarining-tasiri-muhokamada-f847ac",
+    "title": "Texnologiya milliarderlarining ta'siri muhokamada",
+    "summary": "Tanqidchilar texnologiya milliarderlarining dunyoga ta'siri haqida savollar tug'dirmoqda. Misol tariqasida SpaceX'ning Ukrainaga ta'siri va AI yaratgan musiqa san'atkorlar hamda muxlislar o'rtasida bo'linish keltirib chiqarayotgani aytildi.",
+    "tags": [
+      "siyosat",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 23,
+    "published": "2026-10-20T14:31:45.000Z",
+    "created": "2026-10-20T17:36:37.430Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/global/2026/oct/19/musk-ukraine-ai-music",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "01d10aeaf7d7",
+    "slug": "spotify-50-mln-ai-trekni-tavsiyalardan-olib-tashladi-01d10a",
+    "title": "Spotify 50 mln AI trekni tavsiyalardan olib tashladi",
+    "summary": "Spotify AI tomonidan yaratilgan 50 million \"keraksiz va spam\" treklarni tavsiyalar ro'yxatidan olib tashlaganini ma'lum qildi. Biroq, kompaniya ularni butunlay o'chirib tashlamagan.",
+    "tags": [
+      "biznes",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 21,
+    "published": "2026-10-20T17:11:26.000Z",
+    "created": "2026-10-20T17:36:37.430Z",
+    "coverage": 2,
+    "source": {
+      "name": "Engadget",
+      "url": "https://engadget.com/2291954/spotify-is-dancing-around-its-ai-slop-and-spam-problem",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "The Verge",
+        "url": "https://theverge.com/entertainment/1014284/spotify-ai-slop-spam-songs-removed"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
     "id": "bbb8ada6df3f",
     "slug": "jensen-huang-8-mlrd-dollar-soliq-tolashni-sharaf-deb-atadi-bbb8ad",
     "title": "Jensen Huang 8 mlrd dollar soliq to'lashni sharaf deb atadi",
