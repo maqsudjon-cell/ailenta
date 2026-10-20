@@ -1,5 +1,71 @@
 [
   {
+    "id": "145e4380a453",
+    "slug": "anthropic-hisobi-sizdirildi-145e43",
+    "title": "Anthropic hisobi sizdirildi",
+    "summary": "The Washington Post Anthropic kompaniyasining hisobi sizdirilgani haqida xabar berdi.",
+    "tags": [
+      "Anthropic",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 23,
+    "published": "2026-10-19T22:59:45.000Z",
+    "created": "2026-10-20T00:01:39.877Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOV3ZSeFlQcXJNaWYwT0RBeGN4WVhTWjRma2FRdHhzSlFRNmFZRnNOYzBSbDd3eE95ZFNqTkx1OEV0dkFXTXJCWFZsSEV4NHlLTjE4eU5rVDdzN0pfMnNWcFNmWk5jb0xnWHFyRUFZc1lsUFVUa2x6LVFjb214Ul9zU0dvQkh5emJZRWozVVFqNXU5SWN4dzBuZWc5Rm9JYURtMEV2ZE5qTzhDQ1Jlemc",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "b7b0b3a56289",
+    "slug": "town-kompaniyasi-108-mln-sarmoya-jalb-qildi-b7b0b3",
+    "title": "Town kompaniyasi $108 mln sarmoya jalb qildi",
+    "summary": "Korporativ AI agentlari ishlab chiqaruvchi Town startapi 1 milliard dollarlik baho bilan 108 million dollar Series B sarmoyasini jalb qildi. Kompaniya avvalroq iyun oyida 55 million dollar Series A sarmoyasini e'lon qilgan edi.",
+    "tags": [
+      "biznes",
+      "agentlar"
+    ],
+    "importance": 4,
+    "score": 15,
+    "published": "2026-10-19T18:20:00.000Z",
+    "created": "2026-10-20T00:01:39.877Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/261019/p39",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "0d2babeb7a66",
+    "slug": "anthropic-xizmat-shartlariga-ai-huquqlarini-qoshdi-0d2bab",
+    "title": "Anthropic xizmat shartlariga AI huquqlarini qo'shdi",
+    "summary": "Anthropic kompaniyasi o'zining xizmat ko'rsatish shartlariga \"AI huquqlari\"ni kiritdi. Forbes xabariga ko'ra, Microsoft bunga qarshilik ko'rsatmoqda.",
+    "tags": [
+      "Anthropic",
+      "Microsoft"
+    ],
+    "importance": 4,
+    "score": 15,
+    "published": "2026-10-19T12:15:00.000Z",
+    "created": "2026-10-20T00:01:39.877Z",
+    "coverage": 1,
+    "source": {
+      "name": "Forbes",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxON3VjaDhZR19FNzNSZ19HWHd1dU5hYm8xTG5zTzlRcXFxQ2RpU2xXNVZJRFJPUEZDVmNBTUZWMjhhaXlRck1sTHQyb2J1TGlSaDgwREFYUFRZdmZZV3FWNDhSYXJlWDUxUXFfZUVZcHZwemRMQUg2LXJWTnFKRkVTVXFJRFE0elVXZlRWZzdET09Mb0gyYkE3WTk5bm1ubmdBTVVtLXpQVlJTcmlXQUdRS1AyaTVkazFxcWFtT1Jn",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "2eba6fdc38ff",
     "slug": "hugging-face-ai-modellarini-baholash-haqida-gapirdi-2eba6f",
     "title": "Hugging Face AI modellarini baholash haqida gapirdi",
