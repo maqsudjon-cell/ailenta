@@ -1,5 +1,50 @@
 [
   {
+    "id": "c2e7beff3f4b",
+    "slug": "yaponiya-mars-yoldoshiga-mmx-missiyasini-uchirdi-c2e7be",
+    "title": "Yaponiya Mars yo'ldoshiga MMX missiyasini uchirdi",
+    "summary": "Yaponiya Marsning Fobos yo'ldoshidan grunt namunalari olib kelish uchun MMX missiyasini boshladi. Besh yillik loyiha doirasida Fobosga kichik robot tushiriladi va namunalar 2031-yilda Yerga yetkaziladi.",
+    "tags": [
+      "robototexnika",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 48,
+    "published": "2026-10-20T04:20:06.000Z",
+    "created": "2026-10-20T05:24:19.534Z",
+    "coverage": 1,
+    "source": {
+      "name": "Kun.uz",
+      "url": "https://kun.uz/news/2026/10/20/10-gramm-grunt-uchun-besh-yillik-safar-yaponiya-mars-yoldoshiga-apparat-uchirdi",
+      "title": "10 gramm grunt uchun besh yillik safar: Yaponiya Mars yoʻldoshiga apparat uchirdi.",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "da0190405639",
+    "slug": "ispaniya-startaplari-barselona-superkompyuter-markazi-bilan--da0190",
+    "title": "Ispaniya startaplari Barselona superkompyuter markazi bilan hamkorlikda",
+    "summary": "Barselona Superkompyuter Markazining AI Factory Accelerator dasturi Ispaniya startaplariga hisoblash quvvati, texnik yordam va o'qitish imkonini beradi. Ko'plab kompaniyalar Nvidia Inception dasturi a'zolaridir.",
+    "tags": [
+      "Nvidia",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 39,
+    "published": "2026-10-20T05:00:00.000Z",
+    "created": "2026-10-20T05:24:35.345Z",
+    "coverage": 1,
+    "source": {
+      "name": "Nvidia",
+      "url": "https://blogs.nvidia.com/blog/spain-startups-barcelona-supercomputing-center",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "4564aafabe6c",
     "slug": "x-square-robot-x2real-benchmarkini-chiqardi-4564aa",
     "title": "X Square Robot X2Real benchmarkini chiqardi",
