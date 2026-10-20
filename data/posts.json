@@ -1,5 +1,93 @@
 [
   {
+    "id": "1f3e49951ac1",
+    "slug": "tencent-marvis-ai-butleri-kylin-dastur-dokonida-1f3e49",
+    "title": "Tencent Marvis AI butleri Kylin dastur do'konida",
+    "summary": "Tencent kompaniyasining Marvis AI butleri Kylin dastur do'konida paydo bo'ldi. U Kylin Desktop OS V10 SP1 (x86 va ARM) uchun o'rnatilishi mumkin va Kylin xavfsizlik hamda tizim vositalaridan foydalana oladi. Marvis hukumat, davlat va sanoat hamkorlari uchun ochiq.",
+    "tags": [
+      "Tencent",
+      "bulut"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-10-20T01:50:43.000Z",
+    "created": "2026-10-20T01:59:01.958Z",
+    "coverage": 1,
+    "source": {
+      "name": "Pandaily",
+      "url": "https://pandaily.com/tencent-marvis-ai-butler-kylin-software-store-v10-sp1-domestic-cpu",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "01fa4efa237c",
+    "slug": "agibot-lingxi-x2-kasalxonada-46-mingdan-ortiq-sorov-bajardi-01fa4e",
+    "title": "AgiBot Lingxi X2 kasalxonada 46 mingdan ortiq so'rov bajardi",
+    "summary": "AgiBot kompaniyasining Lingxi X2 gumanoid roboti Pekin universiteti xalq kasalxonasida 66 kun davomida 46,686 ta bemor so'rovini bajardi. Ant Group'ning Afu tibbiy yordamchisi bilan ishlaydigan robot kuniga o'rtacha 707 ta, eng ko'pi 1,420 ta o'zaro aloqani amalga oshirdi.",
+    "tags": [
+      "robototexnika",
+      "tibbiyot"
+    ],
+    "importance": 4,
+    "score": 15,
+    "published": "2026-10-20T01:50:16.000Z",
+    "created": "2026-10-20T01:59:01.958Z",
+    "coverage": 1,
+    "source": {
+      "name": "Pandaily",
+      "url": "https://pandaily.com/agibot-lingxi-x2-peking-university-peoples-hospital-guide-ant-afu-46686-interactions",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "e9f6e03adc36",
+    "slug": "mayor-mamdani-ai-boyicha-tartibga-solishni-talab-qildi-e9f6e0",
+    "title": "Mayor Mamdani AI bo'yicha tartibga solishni talab qildi",
+    "summary": "Mayor Zohran Mamdani federal hukumat AI bo'yicha mas'uliyatni tark etganini aytdi. U Nyu-Yorkliklarni AI'ning muqarrar egallashi haqidagi fikrga qarshi turishga va jamoatchilikni himoya qiluvchi tartibga solishni talab qilishga chaqirdi.",
+    "tags": [
+      "siyosat",
+      "qonun"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-10-20T01:27:03.000Z",
+    "created": "2026-10-20T01:59:01.958Z",
+    "coverage": 1,
+    "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "a28a33c804c0",
+    "slug": "foydalanuvchi-bepul-ai-bilan-3d-lampalar-yaratdi-a28a33",
+    "title": "Foydalanuvchi bepul AI bilan 3D lampalar yaratdi",
+    "summary": "Bir foydalanuvchi bepul TRELLIS.2 neyron tarmog'idan foydalanib, rasmlardan 3D lampalar uchun modellar yaratdi. U bu ishlarni o'zining RTX 5060 Ti videokartasida amalga oshirdi va pullik 3D xizmatlaridan foydalanishdan qochdi. Jarayon va fayllar GitHub'da mavjud.",
+    "tags": [
+      "tadqiqot",
+      "ochiq model"
+    ],
+    "importance": 2,
+    "score": 11,
+    "published": "2026-10-19T22:09:32.000Z",
+    "created": "2026-10-20T01:59:01.958Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1096428",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "541dc600793f",
     "slug": "erik-shmidt-anthropic-iposidan-katta-daromad-olishi-mumkin-541dc6",
     "title": "Erik Shmidt Anthropic IPO'sidan katta daromad olishi mumkin",
