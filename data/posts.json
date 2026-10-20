@@ -1,5 +1,93 @@
 [
   {
+    "id": "0e27f9a18573",
+    "slug": "samsung-ai-chiplari-uchun-yangi-zavod-qurmoqda-0e27f9",
+    "title": "Samsung AI chiplari uchun yangi zavod qurmoqda",
+    "summary": "Generativ AI modellariga quvvatli chiplar kerak bo'lgani sababli, Samsung Janubiy Koreyada yirik yarimo'tkazgich ishlab chiqarish majmuasini qurmoqda. Bu majmua AI chiplari uchun xotira chiplariga bo'lgan talabni qondirishga qaratilgan. Uchta zavod allaqachon ishlamoqda, to'rtinchisi esa ishga tushish arafasida.",
+    "tags": [
+      "Samsung",
+      "chiplar"
+    ],
+    "importance": 4,
+    "score": 23,
+    "published": "2026-10-20T09:00:00.000Z",
+    "created": "2026-10-20T09:36:43.957Z",
+    "coverage": 1,
+    "source": {
+      "name": "MIT Technology Review",
+      "url": "https://technologyreview.com/2026/10/20/1145916/dispatch-visit-to-samsung-massive-new-semiconductor-hub",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "54d8fb127b20",
+    "slug": "ai-startap-asoschilari-hamkorlik-uchun-ofislarni-tanlamoqda-54d8fb",
+    "title": "AI startap asoschilari hamkorlik uchun ofislarni tanlamoqda",
+    "summary": "Nyu-Yorkdagi bir ofisda Gen Z startap asoschilari AI yordamida kompaniya qurish har doim ham yolg'iz ishlashni anglatmasligini ko'rsatdi. Ular bir-birlari bilan birga bo'lish uchun oyiga 9 ming dollar to'lab, hamkorlik maydonlaridan foydalanmoqda.",
+    "tags": [
+      "biznes",
+      "mehnat bozori"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-10-20T09:23:06.000Z",
+    "created": "2026-10-20T09:36:43.957Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/gen-z-founders-million-dollar-ai-startups-coworkers-tiny-teams-2026-10",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "ba2ea0069211",
+    "slug": "biznesga-ai-joriy-etishning-5-darajasi-va-ai-native-yondashu-ba2ea0",
+    "title": "Biznesga AI joriy etishning 5 darajasi va AI-Native yondashuv",
+    "summary": "Habr nashri biznesga AI joriy etishning besh darajasini va AI-Native yondashuvini tushuntirdi. Maqolada AI agentlarini ish jarayonlariga qanday kiritish va jarayonlarni AI imkoniyatlari atrofida loyihalash muhokama qilingan.",
+    "tags": [
+      "biznes",
+      "agentlar"
+    ],
+    "importance": 3,
+    "score": 11,
+    "published": "2026-10-20T09:01:02.000Z",
+    "created": "2026-10-20T09:36:43.957Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1096486",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "f007e6323fd1",
+    "slug": "texnologik-singulyarlik-va-ai-rivojlanishi-haqida-f007e6",
+    "title": "Texnologik singulyarlik va AI rivojlanishi haqida",
+    "summary": "Habr nashri texnologik singulyarlikni muhokama qildi. Unda AI yangi qonunlarni kashf etishi, texnologiyalar yaratishi va o'z modellarini shunday tezlikda takomillashtirishi aytiladi, natijada inson faqat uning ish natijalaridan foydalanadi.",
+    "tags": [
+      "tadqiqot",
+      "siyosat"
+    ],
+    "importance": 3,
+    "score": 11,
+    "published": "2026-10-20T08:42:00.000Z",
+    "created": "2026-10-20T09:36:43.957Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1096618",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "ac4847b8a20e",
     "slug": "neolix-avtonom-yetkazishga-400-mln-oldi-ac4847",
     "title": "Neolix avtonom yetkazishga $400 mln oldi",
