@@ -1,5 +1,93 @@
 [
   {
+    "id": "84cd8d44e982",
+    "slug": "hugging-face-torchtpu-bilan-hamkorlikni-elon-qildi-84cd8d",
+    "title": "Hugging Face TorchTPU bilan hamkorlikni e'lon qildi",
+    "summary": "Hugging Face TorchTPU bilan hamkorlikda TPUlarni mahalliy qo'llab-quvvatlashni e'lon qildi. Bu rivojlanish foydalanuvchilarga TPUlardan yanada samarali foydalanish imkonini beradi.",
+    "tags": [
+      "Hugging Face",
+      "chiplar"
+    ],
+    "importance": 3,
+    "score": 21.4,
+    "published": "2026-10-20T00:00:00.000Z",
+    "created": "2026-10-20T21:03:29.231Z",
+    "coverage": 1,
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/blog/hf-torchtpu",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "a87757c6fb36",
+    "slug": "steam-foydalanuvchilari-ai-kontentiga-filtr-soraydi-a87757",
+    "title": "Steam foydalanuvchilari AI kontentiga filtr so'raydi",
+    "summary": "Steam foydalanuvchilari \"Next Fest\" tadbirida \"Vibecoders\" tomonidan yaratilgan AI kontenti ko'paygani sababli \"AI yo'q\" filtri qo'shishni so'rashmoqda. Bu o'yin platformasida AI tomonidan yaratilgan materiallarga nisbatan norozilikni ko'rsatadi.",
+    "tags": [
+      "biznes",
+      "maxfiylik"
+    ],
+    "importance": 2,
+    "score": 21,
+    "published": "2026-10-20T15:48:26.000Z",
+    "created": "2026-10-20T21:03:29.231Z",
+    "coverage": 1,
+    "source": {
+      "name": "Hacker News",
+      "url": "https://ign.com/articles/steam-fans-are-begging-for-a-no-ai-filter-as-steam-next-fest-is-filled-with-slop",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "bdd0e522e19c",
+    "slug": "sharkninja-ciosi-aiga-ozboshimchalik-qilishga-ruxsat-berishn-bdd0e5",
+    "title": "SharkNinja CIO'si AIga \"o'zboshimchalik\" qilishga ruxsat berishni taklif qildi",
+    "summary": "SharkNinja kompaniyasi CIO'si AIga \"biroz o'zboshimchalik\" qilishga ruxsat berish kerakligini aytdi. Uning fikricha, AI chegaralarini boshqalar topishidan ko'ra, o'zimiz topganimiz yaxshi. Salesforce, SharkNinja va PepsiCo rahbarlari AI xavotirlariga qarshi chiqishdi.",
+    "tags": [
+      "biznes",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-10-20T19:43:11.000Z",
+    "created": "2026-10-20T21:03:29.231Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/10/20/let-ai-go-a-little-bit-rogue-says-sharkninja-cio-better-we-find-the-limits-than-someone-else-does",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "68a646f8ef41",
+    "slug": "spacex-ai-daromadlari-830-oshganini-malum-qildi-68a646",
+    "title": "SpaceX AI daromadlari 830% oshganini ma'lum qildi",
+    "summary": "SpaceX uchinchi chorakda 19.6 milliard dollar kapital xarajatlar va 5.2 milliard dollar ulanish xizmatlari daromadi haqida xabar berdi. Kompaniyaning sun'iy intellekt bilan bog'liq daromadlari taxminan 830% ga oshgan.",
+    "tags": [
+      "SpaceX",
+      "biznes"
+    ],
+    "importance": 4,
+    "score": 18,
+    "published": "2026-10-20T20:55:01.000Z",
+    "created": "2026-10-20T21:03:29.231Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/261020/p47",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "9e55333933a0",
     "slug": "nyu-yorkda-chatbotlar-boyicha-yangi-qoida-kiritilmoqda-9e5533",
     "title": "Nyu-Yorkda chatbotlar bo'yicha yangi qoida kiritilmoqda",
