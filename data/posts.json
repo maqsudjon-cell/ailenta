@@ -1,5 +1,93 @@
 [
   {
+    "id": "4a5e94796abf",
+    "slug": "chery-ai-hisoblash-uchun-avtomobil-chiplarini-taqdim-etdi-4a5e94",
+    "title": "Chery AI hisoblash uchun avtomobil chiplarini taqdim etdi",
+    "summary": "Chery o'zining Ziwei avtomobil chiplari qatorini taqdim etdi. Bu chiplar AI hisoblash, kremniy karbid va avtomobil boshqaruvi uchun mo'ljallangan. C100 markaziy hisoblash chipi qurilmadagi fizik AI'ga qaratilgan.",
+    "tags": [
+      "chiplar",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-10-20T07:35:42.000Z",
+    "created": "2026-10-20T07:50:15.496Z",
+    "coverage": 1,
+    "source": {
+      "name": "TechNode",
+      "url": "https://technode.com/2026/10/20/chery-unveils-automotive-chip-lineup-spanning-ai-computing-silicon-carbide-and-vehicle-control",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "5efa9ef85d60",
+    "slug": "stars-micro-system-800g-ai-nic-va-boshqa-chiplarni-taqdim-et-5efa9e",
+    "title": "Stars Micro System 800G AI NIC va boshqa chiplarni taqdim etdi",
+    "summary": "Stars Micro System kompaniyasi Xitoyning birinchi PCIe 6.0 kommutatori C82-4G, 800G ko'p protokollik AI NIC va ko'p rejimli RAID chipini ishga tushirdi. C82-4G 144 tagacha liniyaga ega.",
+    "tags": [
+      "chiplar",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-10-20T07:10:19.000Z",
+    "created": "2026-10-20T07:50:15.497Z",
+    "coverage": 1,
+    "source": {
+      "name": "Pandaily",
+      "url": "https://pandaily.com/stars-micro-system-c82-4g-pcie-6-0-switch-800g-ai-nic-multi-mode-raid",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "365a93cb214c",
+    "slug": "spacemit-v100-risc-v-server-cpu-va-uchta-serverni-chiqardi-365a93",
+    "title": "SpacemiT V100 RISC-V server CPU va uchta serverni chiqardi",
+    "summary": "SpacemiT va XiangShan V100 RISC-V server CPU'sini uchta server bilan birga ishga tushirdi. G5201 AI serveri sakkizta ikki enli kartani qabul qiladi va Kunlunxin M100 bilan tasdiqlangan.",
+    "tags": [
+      "chiplar",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-10-20T07:09:51.000Z",
+    "created": "2026-10-20T07:50:15.497Z",
+    "coverage": 1,
+    "source": {
+      "name": "Pandaily",
+      "url": "https://pandaily.com/spacemit-xiangshan-v100-risc-v-server-cpu-c2201-g5201-s5236-kunlunxin-m100",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "a3563b7b5882",
+    "slug": "alibaba-avtomobil-uchun-xuantie-e908a-risc-v-cpusini-chiqard-a3563b",
+    "title": "Alibaba avtomobil uchun XuanTie E908A RISC-V CPU'sini chiqardi",
+    "summary": "Alibaba'ning DAMO Academy XuanTie E908A'ni ASIL-B va ASIL-D talablariga javob beradigan birinchi RISC-V CPU IP deb e'lon qildi. Kompaniya C950A boshchiligidagi avtomobil va mujassam AI yo'l xaritasini ham taqdim etdi.",
+    "tags": [
+      "Alibaba",
+      "chiplar"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-10-20T07:09:38.000Z",
+    "created": "2026-10-20T07:50:15.497Z",
+    "coverage": 1,
+    "source": {
+      "name": "Pandaily",
+      "url": "https://pandaily.com/damo-academy-xuantie-e908a-automotive-risc-v-cpu-ip-asil-d-roadmap-c950a",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "9def06a99d9a",
     "slug": "yirik-ai-laboratoriyalari-nega-faylasuflarni-yollamoqda-9def06",
     "title": "Yirik AI laboratoriyalari nega faylasuflarni yollamoqda",
