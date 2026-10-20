@@ -5,18 +5,8 @@
   <link>https://ailenta.uz/mavzu/ochiq-model/</link>
   <description>&quot;ochiq model&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Tue, 20 Oct 2026 02:06:57 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 20 Oct 2026 02:26:05 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/ochiq-model/rss.xml" rel="self" type="application/rss+xml"/>
-  <item>
-    <title>Foydalanuvchi bepul AI bilan 3D lampalar yaratdi</title>
-    <link>https://ailenta.uz/x/foydalanuvchi-bepul-ai-bilan-3d-lampalar-yaratdi-a28a33/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/foydalanuvchi-bepul-ai-bilan-3d-lampalar-yaratdi-a28a33/</guid>
-    <pubDate>Mon, 19 Oct 2026 22:09:32 GMT</pubDate>
-    <description>Bir foydalanuvchi bepul TRELLIS.2 neyron tarmog'idan foydalanib, rasmlardan 3D lampalar uchun modellar yaratdi. U bu ishlarni o'zining RTX 5060 Ti videokartasida amalga oshirdi va pullik 3D xizmatlaridan foydalanishdan qochdi. Jarayon va fayllar GitHub'da mavjud.</description>
-    <category>tadqiqot</category><category>ochiq model</category>
-    <media:content url="https://ailenta.uz/og/foydalanuvchi-bepul-ai-bilan-3d-lampalar-yaratdi-a28a33.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/foydalanuvchi-bepul-ai-bilan-3d-lampalar-yaratdi-a28a33.jpg"/>
-  </item>
   <item>
     <title>Qwen3-4B modelidan AI yozish uslublari olib tashlandi</title>
     <link>https://ailenta.uz/x/qwen3-4b-modelidan-ai-yozish-uslublari-olib-tashlandi-bb2f91/</link>
@@ -306,6 +296,16 @@
     <category>tadqiqot</category><category>ochiq model</category>
     <media:content url="https://ailenta.uz/og/tw3cast-gift-eval-sinovida-3-orinni-egalladi-18734c.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/tw3cast-gift-eval-sinovida-3-orinni-egalladi-18734c.jpg"/>
+  </item>
+  <item>
+    <title>LLM ilovalari konstruktori Flowise yopildi</title>
+    <link>https://ailenta.uz/x/llm-ilovalari-konstruktori-flowise-yopildi-51f949/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/llm-ilovalari-konstruktori-flowise-yopildi-51f949/</guid>
+    <pubDate>Thu, 24 Sep 2026 16:45:31 GMT</pubDate>
+    <description>LLM ilovalari uchun vizual konstruktor bo'lgan Flowise loyihasi 2026-yil 29-iyulda yopilganini e'lon qildi. Loyiha GitHub'da 55 ming yulduzga ega bo'lib, 13-avgustda uning repozitoriysi arxivlangan.</description>
+    <category>biznes</category><category>ochiq model</category>
+    <media:content url="https://ailenta.uz/og/llm-ilovalari-konstruktori-flowise-yopildi-51f949.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/llm-ilovalari-konstruktori-flowise-yopildi-51f949.jpg"/>
   </item>
 </channel>
 </rss>
