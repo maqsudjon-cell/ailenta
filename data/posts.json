@@ -1,5 +1,135 @@
 [
   {
+    "id": "49f9d8e726ab",
+    "slug": "ai-energiya-istemoli-ozgarishiga-tasir-qilmoqda-49f9d8",
+    "title": "AI energiya iste'moli o'zgarishiga ta'sir qilmoqda",
+    "summary": "Fortune nashri xabariga ko'ra, AI va boshqa manbalar elektr energiyasiga bo'lgan talabni oshirmoqda. Endi asosiy savol energiya manbalarining to'g'ri kombinatsiyasini yaratishdir.",
+    "tags": [
+      "iqtisod",
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 19,
+    "published": "2026-10-21T05:00:00.000Z",
+    "created": "2026-10-21T07:06:08.985Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/10/21/way-we-consume-energy-changing-abu-dhabis-integrated-system-embraced-that-change",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "655973f69ed7",
+    "slug": "xitoyda-aiga-falsafiy-qarashlar-xavflar-muhokama-qilindi-655973",
+    "title": "Xitoyda AIga falsafiy qarashlar: xavflar muhokama qilindi",
+    "summary": "Arnaud Bertrandning ta'kidlashicha, Xitoyda AIga oid falsafiy qarashlar muhokama qilindi. Ba'zilar AI inson qadriyatlariga moslashtirishni \"halokatli xato\" deb hisoblasa, boshqalar \"insonlarning mashinalashuvi\"dan xavotirda.",
+    "tags": [
+      "tadqiqot",
+      "xavfsizlik"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-10-21T06:40:01.000Z",
+    "created": "2026-10-21T07:06:08.985Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/261021/p7",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "c290bc635363",
+    "slug": "17-aktyor-texnologiya-rahbarlarini-gavdalantirdi-c290bc",
+    "title": "17 aktyor texnologiya rahbarlarini gavdalantirdi",
+    "summary": "Business Insider xabariga ko'ra, texnologiya kompaniyalari rahbarlari haqidagi filmlar janri o'sib bormoqda. Facebook, OpenAI va Apple kabi kompaniyalar asoschilari haqida ekran asarlari yaratilmoqda.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 1,
+    "score": 15,
+    "published": "2026-10-20T19:50:53.000Z",
+    "created": "2026-10-21T07:06:08.985Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/actors-who-played-startup-founders-tech-ceos",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "1f73afad4a4e",
+    "slug": "hanwha-va-anthropic-ai-va-inson-qadriyatlarini-sanatda-organ-1f73af",
+    "title": "Hanwha va Anthropic AI va inson qadriyatlarini san'atda o'rgandi",
+    "summary": "Korea JoongAng Daily xabariga ko'ra, Hanwha va Anthropic kompaniyalari ko'rgazmasida AI va inson qadriyatlari san'at orqali o'rganildi. Bu hamkorlik texnologiya va madaniyatni bog'laydi.",
+    "tags": [
+      "Anthropic",
+      "tadqiqot"
+    ],
+    "importance": 1,
+    "score": 10,
+    "published": "2026-10-21T06:47:39.000Z",
+    "created": "2026-10-21T07:06:08.985Z",
+    "coverage": 1,
+    "source": {
+      "name": "Korea JoongAng Daily",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYXAxeFVOaXNoN2IxWl9XQk9XYndFNmFxNWFndk84YTRsZ1RMOGs3QlVHNTd4WVNtUHkxcjdGd0syUVF1NXUxYm5xcTVfcnRYTS1HUVQ4T3FJWmVWVmtvTGQwd3JQY2dzRGFxMWlZVWl5b29IT1lsc1RINFlSNVpzMXd2c2JLTXBGdS1SVVhHWS1HSkx3U1U1YzFMWDhyNjZHX09VSnk2ZWw5TDk0d1Rfd3pHSGJ2VWc",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "ef4eb907809f",
+    "slug": "h2df-til-modelini-nazoratli-unutish-uchun-yangi-usul-ef4eb9",
+    "title": "H2DF: Til modelini nazoratli \"unutish\" uchun yangi usul",
+    "summary": "Tadqiqotchilar til modellarini nazoratli \"unutish\" uchun H2DF nomli yangi usulni taqdim etdi. Bu usul gradient ko'tarilish usulining kamchiliklarini bartaraf etib, foydali ma'lumotlarning saqlanishini ta'minlaydi.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 10,
+    "published": "2026-10-21T04:00:00.000Z",
+    "created": "2026-10-21T07:06:08.985Z",
+    "coverage": 1,
+    "source": {
+      "name": "arXiv cs.CL",
+      "url": "https://arxiv.org/abs/2610.26864",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "f25783c4e655",
+    "slug": "meta-ai-kitob-torrenti-boyicha-buyruq-oldi-f25783",
+    "title": "Meta AI kitob torrenti bo'yicha buyruq oldi",
+    "summary": "Crypto Briefing xabariga ko'ra, Meta kompaniyasiga AI o'qitish uchun kitoblarni torrent orqali yuklab olish ortida turgan rahbarlarning ismlarini oshkor qilish buyurildi. Bu mualliflik huquqi bilan bog'liq masaladir.",
+    "tags": [
+      "Meta",
+      "sud"
+    ],
+    "importance": 4,
+    "score": 9.5,
+    "published": "2026-10-20T17:44:23.000Z",
+    "created": "2026-10-21T07:06:08.985Z",
+    "coverage": 1,
+    "source": {
+      "name": "Crypto Briefing",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBMWG5Cci03bUpWWE1ieFQxb2NQa1pfc3dyOHpOOS1KNkIyY240ZHZGR0F6RnZTUURHckgtMFI5bjhzQ0JKMkFHb1M5a1l3Q0pZUmFVVlhWMWloSFNWbkxHU1BaS080WWkwc2s4c2tXRUEzNWNUSlJlNWh3",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "ce74de502031",
     "slug": "guardian-aqsh-saylovlari-texnologiya-kompaniyalari-haqida-ce74de",
     "title": "Guardian: AQSH saylovlari texnologiya kompaniyalari haqida",
