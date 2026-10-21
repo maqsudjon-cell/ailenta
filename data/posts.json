@@ -1,5 +1,48 @@
 [
   {
+    "id": "4d4e231edf52",
+    "slug": "xakerlar-hujumlarda-agentli-aidan-foydalanmoqda-4d4e23",
+    "title": "Xakerlar hujumlarda agentli AIdan foydalanmoqda",
+    "summary": "Dunyo bo'ylab jinoyatchilar kiberhujumlarni amalga oshirish uchun agentli sun'iy intellektdan faol foydalanmoqda. Xakerlar noqonuniy harakatlar uchun Anthropic kompaniyasining Claude vositasini ham boshqarishmoqda.",
+    "tags": [
+      "Anthropic",
+      "xavfsizlik"
+    ],
+    "importance": 4,
+    "score": 29,
+    "published": "2026-10-21T14:00:00.000Z",
+    "created": "2026-10-21T15:03:04.912Z",
+    "coverage": 1,
+    "source": {
+      "name": "Wired",
+      "url": "https://wired.com/story/ai-guardrails-arent-stopping-criminal-hackers",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "8aa3af1bbd16",
+    "slug": "ai-aniqlagan-zaiflik-tufayli-yevropada-saytlar-toxtatildi-8aa3af",
+    "title": "AI aniqlagan zaiflik tufayli Yevropada saytlar to'xtatildi",
+    "summary": "PHP dasturlash tilida sun'iy intellekt yordamida jiddiy xavfsizlik zaifliklari aniqlandi. Ushbu yangilanishlar sababli Yevropa bo'ylab ko'plab veb-saytlar faoliyati vaqtincha to'xtatildi.",
+    "tags": [
+      "xavfsizlik"
+    ],
+    "importance": 4,
+    "score": 23,
+    "published": "2026-10-21T14:39:41.000Z",
+    "created": "2026-10-21T15:03:04.913Z",
+    "coverage": 1,
+    "source": {
+      "name": "BBC News",
+      "url": "https://bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&at_campaign=rss",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "076f68545a91",
     "slug": "o-zbekiston-va-qirg-iziston-parlament-hamkorligi-kuchayadi-076f68",
     "title": "O‘zbekiston va Qirg‘iziston parlament hamkorligi kuchayadi",
