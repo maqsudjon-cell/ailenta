@@ -1,5 +1,179 @@
 [
   {
+    "id": "91d72a59f096",
+    "slug": "investorlar-robototexnikaga-milliardlab-mablag-kiritmoqda-91d72a",
+    "title": "Investorlar robototexnikaga milliardlab mablag' kiritmoqda",
+    "summary": "Silikon vodiysi investorlari robototexnika va jismoniy AIga milliardlab dollar sarmoya kiritmoqda. Biroq, ba'zi soha mutaxassislari bu \"robot oltin shoshilishi\" yomon yakunlanishi mumkinligidan ogohlantirmoqda.",
+    "tags": [
+      "robototexnika",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 18,
+    "published": "2026-10-21T09:00:01.000Z",
+    "created": "2026-10-21T10:02:49.639Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/why-silicon-valley-vcs-are-investing-billions-in-robotics-2026-10",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "234d7cd7457f",
+    "slug": "neyrosetning-ichki-fikrlarini-oqish-mumkinmi-234d7c",
+    "title": "Neyrosetning ichki fikrlarini o'qish mumkinmi",
+    "summary": "Til modellari mantiqiy javoblar bersa-da, ularning ichida faqat raqamlar ketma-ketligi keyingi so'zni taxmin qiladi. Agar model javob berishdan oldin nima \"o'ylayotganini\" ko'ra olmasak, uning ichki jarayonlarini tushunish qiyin bo'ladi.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 14,
+    "published": "2026-10-21T09:10:18.000Z",
+    "created": "2026-10-21T10:02:49.639Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/companies/timeweb/articles/1094334",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "0baa1872fe4d",
+    "slug": "neyrosetlar-foydalanuvchi-kayfiyatini-qanday-tushunadi-0baa18",
+    "title": "Neyrosetlar foydalanuvchi kayfiyatini qanday tushunadi",
+    "summary": "\"Neyroset kayfiyatni tushunadi\" iborasi uch xil da'voni o'z ichiga oladi. Modellar vaziyatdagi his-tuyg'ularni yaxshi aniqlaydi va ba'zi modellar ichida emotsional tushunchalar bilan bog'liq ichki tasvirlar topilgan. Biroq, modelning haqiqiy his qilishini tasdiqlovchi tadqiqotlar yo'q.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 14,
+    "published": "2026-10-21T07:35:38.000Z",
+    "created": "2026-10-21T10:02:49.639Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/companies/speshu_ai/articles/1097090",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "9f88f94cf8e9",
+    "slug": "model-oqitilgandan-song-nima-sodir-boladi-9f88f9",
+    "title": "Model o'qitilgandan so'ng nima sodir bo'ladi",
+    "summary": "AI modelining samaradorligi muhim bo'lsa-da, foydalanuvchilar uchun uning ishlash tezligi, yuk ostida qotib qolmasligi va narxi asosiy hisoblanadi. Shuning uchun, modelni xulosa chiqarish (inference) bosqichida optimallashtirish uning mashhurligi uchun juda muhimdir.",
+    "tags": [
+      "tadqiqot",
+      "bulut"
+    ],
+    "importance": 2,
+    "score": 11,
+    "published": "2026-10-21T07:37:33.000Z",
+    "created": "2026-10-21T10:02:49.639Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/companies/ru_mts/articles/1096130",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "52859ccc9ef1",
+    "slug": "anthropic-ai-infratuzilmasiga-1000-trln-von-sarflaydi-52859c",
+    "title": "Anthropic AI infratuzilmasiga 1000 trln von sarflaydi",
+    "summary": "Anthropic kompaniyasi AI infratuzilmasiga 10 yil davomida 1000 trillion von miqdorida mablag' sarflashni rejalashtirmoqda. Bu ulkan xarajatlar kompaniyaning AI rivojlanishiga qaratilgan ulkan investitsiyalarini ko'rsatadi.",
+    "tags": [
+      "Anthropic",
+      "biznes"
+    ],
+    "importance": 4,
+    "score": 10,
+    "published": "2026-10-21T09:39:59.000Z",
+    "created": "2026-10-21T10:02:49.639Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Korea Daily",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE16TC1uaDBIWTRkTWtYcjlaLVVnRVFGeU1xUVVkcFZoeG1xaE1mTVAyd3k3X2IwNzdCZUZfaDY3ODlHaS13ZEtvckVhWmJKLWpOVWpWUnFWLTVSVG1NRFhaR3piNHVOU3g4Rmww",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "72d08e60437a",
+    "slug": "red-hat-texnik-yozishni-orgatishda-ai-saboqlarini-oldi-72d08e",
+    "title": "Red Hat texnik yozishni o'rgatishda AI saboqlarini oldi",
+    "summary": "Red Hat kompaniyasi texnik yozishni o'rgatish jarayonida AI haqida qiyin saboqlarni oldi. Bu tajriba AI bilan ishlashda kutilmagan qiyinchiliklar va o'rganish kerak bo'lgan jihatlar borligini ko'rsatdi.",
+    "tags": [
+      "Red Hat",
+      "ta'lim"
+    ],
+    "importance": 2,
+    "score": 7.1,
+    "published": "2026-10-19T16:11:00.000Z",
+    "created": "2026-10-21T10:02:49.639Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/os-platforms/2026/10/19/red-hat-helps-teach-about-tech-writing/5303868",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "40aa8afe7a98",
+    "slug": "anthropic-brian-mikkelsenni-federal-bozor-rahbari-qildi-40aa8a",
+    "title": "Anthropic Brian Mikkelsenni federal bozor rahbari qildi",
+    "summary": "Anthropic kompaniyasi Brian Mikkelsenni federal fuqarolik bozoriga chiqish bo'limi rahbari etib tayinladi. Bu tayinlov kompaniyaning davlat sektori bilan aloqalarini mustahkamlashga qaratilgan.",
+    "tags": [
+      "Anthropic",
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 7,
+    "published": "2026-10-21T08:59:16.000Z",
+    "created": "2026-10-21T10:02:49.639Z",
+    "coverage": 1,
+    "source": {
+      "name": "GovCon Wire",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOd2RxajZiS3pMeE9CZzBBYkhyZjQza2RHOEVaMnBCcFhmTXhTa2VLT09LbDJsODVnalAyMkd4UUo0R1o3NHlVMUlhVldZbVItRlNxWXhaaWZCaE1WUy1DcTgwRE5UQy1ILTFQNnd5Tm9SajF6RzdVYXRDUUR3OUlRbWlFd1YxUV9DRmRnZU1TbVZmQ0FIb2d3eA",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "0d774c5e8d84",
+    "slug": "janubiy-koreya-sovutish-texnologiyasi-data-markazlarga-xavf-0d774c",
+    "title": "Janubiy Koreya sovutish texnologiyasi data-markazlarga xavf",
+    "summary": "Janubiy Koreyaning sovutish texnologiyasidagi orqada qolishi mamlakatning data-markazlar sohasidagi yetakchiligiga tahdid solmoqda. Bu holat AI infratuzilmasining rivojlanishiga salbiy ta'sir ko'rsatishi mumkin.",
+    "tags": [
+      "iqtisod",
+      "chiplar"
+    ],
+    "importance": 3,
+    "score": 7,
+    "published": "2026-10-21T08:05:58.000Z",
+    "created": "2026-10-21T10:02:49.639Z",
+    "coverage": 1,
+    "source": {
+      "name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdkk1bmhuMnhnejBjVTR0T0luN0FBbnd0NVM3dHJhanJULUxablM0T1ljVXhCek9UZUNWa1JScFVxdjJNSWhQMVY3UTJQVFktUW8wVS1tMDVLcFotSEgwbnRYTzh6YjdwSVFBdlB4ekFmdWJYLVFjeVFJWkhOLTJYY1RLTHpnbGUt",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "0be0f8b04d4d",
     "slug": "ozbekiston-delegatsiyasi-turkpa-yalpi-majlisida-qatnashdi-0be0f8",
     "title": "O'zbekiston delegatsiyasi TurkPA yalpi majlisida qatnashdi",
