@@ -1,5 +1,179 @@
 [
   {
+    "id": "32a11efb07ad",
+    "slug": "space42-global-bozorga-chiqish-uchun-1-7-mlrd-taklif-qildi-32a11e",
+    "title": "Space42 global bozorga chiqish uchun $1.7 mlrd taklif qildi",
+    "summary": "Space42 kompaniyasi global miqyosda kengayish maqsadida $1.7 milliardlik taklif bilan chiqmoqda. Kompaniya daromadining asosiy qismi hukumat mijozlaridan kelayotgan bo'lsa-da, u AI asosidagi geofazoviy razvedka va strategik xaridlarga e'tibor qaratmoqda.",
+    "tags": [
+      "biznes",
+      "iqtisod"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-10-21T09:46:31.000Z",
+    "created": "2026-10-21T11:02:18.722Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/10/21/beyond-the-uae-space42s-1-7-billion-bid-to-go-global",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "d3607ed048f7",
+    "slug": "byd-ikkinchi-avlod-seagull-elektromobilini-taqdim-etdi-d3607e",
+    "title": "BYD ikkinchi avlod Seagull elektromobilini taqdim etdi",
+    "summary": "BYD Xitoyda ikkinchi avlod Seagull elektromobilini sotuvga chiqardi. Uning narxi RMB 65,900 dan boshlanib, beshta variantda mavjud. Yangi model to'rt o'rindiqdan besh o'rindiqqa kengaytirilgan va orqa g'ildirakli tortishga o'tgan.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 1,
+    "score": 15,
+    "published": "2026-10-21T07:46:08.000Z",
+    "created": "2026-10-21T11:02:18.722Z",
+    "coverage": 1,
+    "source": {
+      "name": "TechNode",
+      "url": "https://technode.com/2026/10/21/byd-launches-second-generation-seagull-from-rmb-65900-with-flash-charging-on-higher-trims",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "f8552432e2d4",
+    "slug": "neyron-tarmoqlar-yordamida-multfilm-yaratish-tajribasi-f85524",
+    "title": "Neyron tarmoqlar yordamida multfilm yaratish tajribasi",
+    "summary": "Muallif neyron tarmoqlar yordamida qisqa multfilm yaratish tajribasini bo'lishdi. Uning ta'kidlashicha, neyron tarmoqlar 30 daqiqada bir daqiqa animatsiya yaratishga qodir va bu jarayon arzon.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 14,
+    "published": "2026-10-21T10:17:44.000Z",
+    "created": "2026-10-21T11:02:18.722Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1097206",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "a1e11ba53bce",
+    "slug": "ai-siem-tizimida-96-97-aniqlikni-taminladi-a1e11b",
+    "title": "AI SIEM tizimida 96-97% aniqlikni ta'minladi",
+    "summary": "Medici Lab jamoasi SIEM tizimini qayta qurib, 9 milliard parametrlik til modelini joriy etdi. Bu model endi 96-97% to'g'ri javob beradi, dastlabki 60% ga nisbatan sezilarli yaxshilanishni ko'rsatdi. Butun tizim 150 hostni ikki CPU yadrosida samarali boshqaradi.",
+    "tags": [
+      "xavfsizlik",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 11,
+    "published": "2026-10-21T10:11:59.000Z",
+    "created": "2026-10-21T11:02:18.722Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1097200",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "6b90d9a4d2fa",
+    "slug": "ai-hisoblash-quvvati-aktiv-sinfiga-aylana-oladimi-6b90d9",
+    "title": "AI hisoblash quvvati aktiv sinfiga aylana oladimi",
+    "summary": "Sun'iy intellektning hisoblash quvvati kelajakda alohida aktiv sinfiga aylanishi mumkinmi degan savol muhokama qilinmoqda. Bu savol AI infratuzilmasiga kiritilayotgan sarmoyalar va uning iqtisodiy ahamiyati bilan bog'liq.",
+    "tags": [
+      "iqtisod",
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 7,
+    "published": "2026-10-21T03:42:00.000Z",
+    "created": "2026-10-21T11:02:18.722Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNd3lLc081Q1daQS1rT1RTZXpDYjI0UTFUQVFJaGZ4MVJGT2stZVd6NWV1WUdwRXpTVnZMTl92amVXc1AydG00ZjBZMTMtRXlIQWZ2Z3c0ZW5GbmhzekVESUZOek1LZjhFUXc2Y1BLVHFkVW9TckZoSUZHOXNuXzdzTjB6WjNkSHpCcDNGVXJaSlJhZGJ4ekxadjRhVm9ndm92TnlPcmN5OHlMbUZJTWRWeDNZYk1aZmdRR1VzOWFWWdIBxAFBVV95cUxNVERDNkdENUE0dzRKNldGNXcyS3RFMjlINlprSklsUUhLYUVET21RTXUzRXNDbjlzSW9YSWFxTWRGR3c2d0F6dTdVckxPMnFwNGhZcnAxZlRrNmpMWmlETkhoT0FCOGdFMVFHNjlkOU5kVXhIQ1g1dGtYMzZXajIzdVIta01FY2tPRmVOYWpGTmxhRW1DMERUNVlKeDNFRXZqZTlKSGJvMUJqakFhcjIwenVwRmJjZ3I4SzA1UjNhR2RMMUNZ",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "70f8fbb7e9df",
+    "slug": "meta-prometheus-tizimi-ai-oqitish-uchun-obyekt-saqlashdan-fo-70f8fb",
+    "title": "Meta Prometheus tizimi AI o'qitish uchun obyekt saqlashdan foydalanadi",
+    "summary": "Meta kompaniyasining Prometheus tizimi katta hajmdagi sun'iy intellektni o'qitish ishlari uchun obyekt saqlash texnologiyasidan foydalanmoqda. Bu yondashuv AI modellarini samaraliroq o'qitish imkonini beradi.",
+    "tags": [
+      "Meta",
+      "bulut"
+    ],
+    "importance": 3,
+    "score": 5.7,
+    "published": "2026-10-20T12:20:00.000Z",
+    "created": "2026-10-21T11:02:18.722Z",
+    "coverage": 1,
+    "source": {
+      "name": "Blocks & Files",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPLXB0UDlkMGVWdlhhM0NkcHF4V1RRaUk3VTNJVkJ0b0pMRF9TSk9aMnpRS1U1RnhvNlBESi1WUUZ4OVhqcGxfa3l1Q0F0bWhvRUNKeS1fMmwwQUkzUHpNS0ROUWZQMjRmZEtTdk5IdXhzMTkxZHA1QkVIOGgxQXlvZS1XMG11STh1M2ZEMFRqc285Njg2dkZ0LXZvNTQtLUpCNzUwU3ZBQW5pTktFTGNHS01zMmc5ZzNNeDhLQlcwaw",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "937e80dfd21b",
+    "slug": "meta-ai-strategiyasini-kengaytirmoqda-yangi-daromad-izlaydi-937e80",
+    "title": "Meta AI strategiyasini kengaytirmoqda, yangi daromad izlaydi",
+    "summary": "Meta kompaniyasi o'zining to'liq stackli sun'iy intellekt strategiyasini kengaytirmoqda. Mark Zuckerberg reklama daromadlaridan tashqari yangi daromad manbalarini topish yo'llarini ko'rib chiqmoqda.",
+    "tags": [
+      "Meta",
+      "biznes"
+    ],
+    "importance": 4,
+    "score": 3.3,
+    "published": "2026-10-20T13:41:26.000Z",
+    "created": "2026-10-21T11:02:18.722Z",
+    "coverage": 1,
+    "source": {
+      "name": "Traders Union",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOOWdiMnRUT01hT21rYUl6T1hRNkxzV29waGRDOXNoazhrZm11cEpKT2VaMTdycHJ5QlhwbEFLZkI1YjZkZGQ4LVRNVE9Ia255MXFJUW5HT2VKRmhCTXpfZmZ6S2tseGVwSTlTNnkyRUdkbnRmalJwdlVZLWhVSlpjWnJNZlZXVTRUSEc4LTBuYkc",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "11fe0ed76d78",
+    "slug": "meta-aiga-sarflash-rejalari-texnologiya-poygasini-kuchaytira-11fe0e",
+    "title": "Meta AIga sarflash rejalari texnologiya poygasini kuchaytiradi",
+    "summary": "Meta kompaniyasining sun'iy intellektga sarflash rejalari yirik texnologiya kompaniyalari o'rtasida kapital xarajatlar poygasining kuchayishidan dalolat beradi. Bu holat AI infratuzilmasiga kiritilayotgan sarmoyalarning umumiy o'sishini ko'rsatadi.",
+    "tags": [
+      "Meta",
+      "iqtisod"
+    ],
+    "importance": 3,
+    "score": 3.1,
+    "published": "2026-10-20T13:16:35.000Z",
+    "created": "2026-10-21T11:02:18.722Z",
+    "coverage": 1,
+    "source": {
+      "name": "Crypto Briefing",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBmOC13c25ZSUZsd0VOdTVvcmhsbmFER0FFeERNMnpkTjZleGVDZHRxLVA3RDhsMjJ3azB5eGlnR0NRel9OS1hVbXl6OUhoSnBmX0dDZUxfVjdsVEtsaXJkeU1BNnNlaTdBTU9J",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "91d72a59f096",
     "slug": "investorlar-robototexnikaga-milliardlab-mablag-kiritmoqda-91d72a",
     "title": "Investorlar robototexnikaga milliardlab mablag' kiritmoqda",
