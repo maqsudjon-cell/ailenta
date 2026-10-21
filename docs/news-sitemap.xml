@@ -2,36 +2,58 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
-    <loc>https://ailenta.uz/x/menejerlar-xodimlar-ishini-baholashda-qiynalmoqda-6c14b1/</loc>
+    <loc>https://ailenta.uz/x/ai-menejerlar-uchun-ishni-baholashni-qiyinlashtirmoqda-6c14b1/</loc>
     <news:news>
       <news:publication>
         <news:name>AI Lenta</news:name>
         <news:language>uz</news:language>
       </news:publication>
       <news:publication_date>2026-10-21T14:00:00.000Z</news:publication_date>
-      <news:title>Menejerlar xodimlar ishini baholashda qiynalmoqda</news:title>
+      <news:title>AI menejerlar uchun ishni baholashni qiyinlashtirmoqda</news:title>
     </news:news>
   </url>
   <url>
-    <loc>https://ailenta.uz/x/jensen-xuangning-chiqishida-norozilik-yuz-berdi-50cdeb/</loc>
+    <loc>https://ailenta.uz/x/o-zbekiston-va-qirg-iziston-parlament-hamkorligi-kuchayadi-076f68/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>AI Lenta</news:name>
+        <news:language>uz</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-21T13:25:00.000Z</news:publication_date>
+      <news:title>O‘zbekiston va Qirg‘iziston parlament hamkorligi kuchayadi</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://ailenta.uz/x/workday-moliya-direktori-ai-tasirini-olchash-haqida-668241/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>AI Lenta</news:name>
+        <news:language>uz</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-21T13:21:58.000Z</news:publication_date>
+      <news:title>Workday moliya direktori AI ta'sirini o'lchash haqida</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://ailenta.uz/x/jensen-xuanning-nutqida-norozilik-va-robot-nosozligi-yuz-ber-50cdeb/</loc>
     <news:news>
       <news:publication>
         <news:name>AI Lenta</news:name>
         <news:language>uz</news:language>
       </news:publication>
       <news:publication_date>2026-10-21T13:17:42.000Z</news:publication_date>
-      <news:title>Jensen Xuangning chiqishida norozilik yuz berdi</news:title>
+      <news:title>Jensen Xuanning nutqida norozilik va robot nosozligi yuz berdi</news:title>
     </news:news>
   </url>
   <url>
-    <loc>https://ailenta.uz/x/vikipediyadan-ai-matnlarini-tozalash-ishlari-olib-borilmoqda-acb3a2/</loc>
+    <loc>https://ailenta.uz/x/vikipediya-ai-tomonidan-yozilgan-materiallarni-tozalayapti-acb3a2/</loc>
     <news:news>
       <news:publication>
         <news:name>AI Lenta</news:name>
         <news:language>uz</news:language>
       </news:publication>
       <news:publication_date>2026-10-21T13:00:02.000Z</news:publication_date>
-      <news:title>Vikipediyadan AI matnlarini tozalash ishlari olib borilmoqda</news:title>
+      <news:title>Vikipediya AI tomonidan yozilgan materiallarni tozalayapti</news:title>
     </news:news>
   </url>
   <url>
@@ -43,6 +65,17 @@
       </news:publication>
       <news:publication_date>2026-10-21T12:00:01.000Z</news:publication_date>
       <news:title>Azoma AI xarid agentlari startapi $11.2 mln mablag' jalb qildi</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://ailenta.uz/x/janubiy-koreya-xitoyda-chip-ishlab-chiqarishni-yangilamoqda-7cdcc8/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>AI Lenta</news:name>
+        <news:language>uz</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-21T11:17:09.000Z</news:publication_date>
+      <news:title>Janubiy Koreya Xitoyda chip ishlab chiqarishni yangilamoqda</news:title>
     </news:news>
   </url>
   <url>
@@ -560,6 +593,17 @@
       </news:publication>
       <news:publication_date>2026-10-20T19:30:50.000Z</news:publication_date>
       <news:title>J.Crew sayti ishlamay qoldi, AI tizimi sog'lom dedi</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://ailenta.uz/x/anthropic-s-1-osish-xavflar-va-xarajatlar-2c065d/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>AI Lenta</news:name>
+        <news:language>uz</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20T19:30:00.000Z</news:publication_date>
+      <news:title>Anthropic S-1: O'sish, xavflar va xarajatlar</news:title>
     </news:news>
   </url>
   <url>
@@ -1550,28 +1594,6 @@
       </news:publication>
       <news:publication_date>2026-10-19T15:28:24.000Z</news:publication_date>
       <news:title>CERN va Mistral hamkorlik shartnomasini imzoladi</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://ailenta.uz/x/mask-bolalarga-spacex-aksiyasini-berishini-aytdi-1e6f34/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>AI Lenta</news:name>
-        <news:language>uz</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-19T14:23:08.000Z</news:publication_date>
-      <news:title>Mask bolalarga SpaceX aksiyasini berishini aytdi</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://ailenta.uz/x/agentik-insayderni-himoya-qilish-5a9dd1/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>AI Lenta</news:name>
-        <news:language>uz</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-19T14:10:30.000Z</news:publication_date>
-      <news:title>Agentik insayderni himoya qilish</news:title>
     </news:news>
   </url>
 </urlset>

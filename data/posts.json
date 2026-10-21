@@ -1,21 +1,87 @@
 [
   {
-    "id": "50cdeb9f6926",
-    "slug": "jensen-xuangning-chiqishida-norozilik-yuz-berdi-50cdeb",
-    "title": "Jensen Xuangning chiqishida norozilik yuz berdi",
-    "summary": "Nvidia rahbari Jensen Huang Yevropaning AI kelajagi bo'yicha nutq so'zlayotgan vaqtda Greenpeace faollari tadbirni to'xtatdi. Taqdimot davomida robot namoyishida ham uzilishlar kuzatildi.",
+    "id": "076f68545a91",
+    "slug": "o-zbekiston-va-qirg-iziston-parlament-hamkorligi-kuchayadi-076f68",
+    "title": "O‘zbekiston va Qirg‘iziston parlament hamkorligi kuchayadi",
+    "summary": "O‘zbekiston va Qirg‘iziston parlament nazorati, qonun ijodkorligi, sunʼiy intellekt va hududlararo hamkorlikni rivojlantirishni muhokama qildi. Bu hamkorlik ikki davlat oʻrtasidagi aloqalarni mustahkamlashga qaratilgan.",
     "tags": [
-      "Nvidia"
+      "O'zbekiston",
+      "siyosat"
+    ],
+    "importance": 2,
+    "score": 44,
+    "published": "2026-10-21T13:25:00.000Z",
+    "created": "2026-10-21T14:14:43.234Z",
+    "coverage": 1,
+    "source": {
+      "name": "UzDaily",
+      "url": "https://uzdaily.uz/uz/ozbekiston-va-qirgiziston-parlamentlararo-hamkorlikni-kuchaytiradi",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "2c065dfd2515",
+    "slug": "anthropic-s-1-osish-xavflar-va-xarajatlar-2c065d",
+    "title": "Anthropic S-1: O'sish, xavflar va xarajatlar",
+    "summary": "Anthropic kompaniyasining S-1 hujjatida uning jadal o'sishi, mavjud xavflar va katta hisoblash xarajatlari aks etgan. Bu ma'lumotlar kompaniyaning moliyaviy holati va kelajakdagi istiqbollari haqida tushuncha beradi.",
+    "tags": [
+      "Anthropic",
+      "biznes"
+    ],
+    "importance": 4,
+    "score": 24.3,
+    "published": "2026-10-20T19:30:00.000Z",
+    "created": "2026-10-21T14:14:43.235Z",
+    "coverage": 1,
+    "source": {
+      "name": "WSJ",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5zTlFXZm1uRTJYSXlPWi1OWmJCSkdBcmg2dkRDc2ZiNmNNaFQtYmg5WFBiWUFQRFVUTms0T3hweW9ycWZ1SlljdlNFUTZuOGliSUpVNkpybnJaQ0p2bzBYWmgydU9MVVBQQlJKMGFRdEpCaWM",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "50cdeb9f6926",
+    "slug": "jensen-xuanning-nutqida-norozilik-va-robot-nosozligi-yuz-ber-50cdeb",
+    "title": "Jensen Xuanning nutqida norozilik va robot nosozligi yuz berdi",
+    "summary": "Nvidia bosh direktori Jensen Xuanning Yevropaning AI kelajagi haqidagi nutqi Greenpeace faollari tomonidan to'xtatildi. Shuningdek, tadbirda robot namoyishi va AI Eurovision finali rejadagidek o'tmadi.",
+    "tags": [
+      "Nvidia",
+      "siyosat"
     ],
     "importance": 2,
     "score": 21,
     "published": "2026-10-21T13:17:42.000Z",
-    "created": "2026-10-21T14:00:46.487Z",
+    "created": "2026-10-21T14:14:43.235Z",
     "coverage": 1,
     "source": {
       "name": "Business Insider",
       "url": "https://businessinsider.com/jensen-huang-berlin-gtc-keynote-protester-nvidia-robot-demo-2026-10",
-      "title": "A protester and a robot duck hiccup: 2 moments from Jensen Huang's keynote didn't go to plan",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "6682414f9105",
+    "slug": "workday-moliya-direktori-ai-tasirini-olchash-haqida-668241",
+    "title": "Workday moliya direktori AI ta'sirini o'lchash haqida",
+    "summary": "Workday kompaniyasi moliya direktori Zane Rou AI agentlari, moliya transformatsiyasi va yangi texnologiyalar ta'sirini qanday o'lchash kerakligi haqida fikr bildirdi. Uning ta'kidlashicha, ko'proq natija har doim ham yaxshi biznes degani emas.",
+    "tags": [
+      "biznes",
+      "agentlar"
+    ],
+    "importance": 2,
+    "score": 19,
+    "published": "2026-10-21T13:21:58.000Z",
+    "created": "2026-10-21T14:14:43.235Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/10/21/workday-cfo-autopilot-agents-finance-chiefs-measure-ai",
       "indirect": false
     },
     "also": [],
@@ -23,16 +89,17 @@
   },
   {
     "id": "acb3a24ef951",
-    "slug": "vikipediyadan-ai-matnlarini-tozalash-ishlari-olib-borilmoqda-acb3a2",
-    "title": "Vikipediyadan AI matnlarini tozalash ishlari olib borilmoqda",
-    "summary": "WikiProject AI Cleanup loyihasi ko'ngillilari Vikipediyadagi qoidalarni buzgan sun'iy intellekt matnlarini aniqlab, ularni o'chirmoqda. Ular ensiklopediyadagi mashina yaratgan nozik matnlarni topish uchun maxsus vositalar ishlab chiqmoqda.",
+    "slug": "vikipediya-ai-tomonidan-yozilgan-materiallarni-tozalayapti-acb3a2",
+    "title": "Vikipediya AI tomonidan yozilgan materiallarni tozalayapti",
+    "summary": "Vikipediya muharrirlari 2023-yilda boshlangan \"WikiProject AI Cleanup\" loyihasi doirasida AI tomonidan yaratilgan materiallarni topib, olib tashlamoqda. Ko'ngillilar sun'iy intellekt kontentini aniqlash uchun vositalar ishlab chiqmoqda.",
     "tags": [
-      "tadqiqot"
+      "maxfiylik",
+      "ta'lim"
     ],
-    "importance": 2,
+    "importance": 3,
     "score": 19,
     "published": "2026-10-21T13:00:02.000Z",
-    "created": "2026-10-21T14:01:16.042Z",
+    "created": "2026-10-21T14:14:43.235Z",
     "coverage": 1,
     "source": {
       "name": "IEEE Spectrum",
@@ -43,17 +110,40 @@
     "model": "gemini"
   },
   {
-    "id": "6c14b19c5f4c",
-    "slug": "menejerlar-xodimlar-ishini-baholashda-qiynalmoqda-6c14b1",
-    "title": "Menejerlar xodimlar ishini baholashda qiynalmoqda",
-    "summary": "Yangi so'rovnomaga ko'ra, menejerlarning 50 foizdan ortig'i AI joriy qilingach, xodimlarning ishini baholash qiyinlashganini aytgan. Sun'iy intellekt unumdorlikni oshirishni va'da qilayotgan bo'lsa-da, rahbarlar uchun yangi qiyinchiliklar tug'dirmoqda.",
+    "id": "7cdcc860c962",
+    "slug": "janubiy-koreya-xitoyda-chip-ishlab-chiqarishni-yangilamoqda-7cdcc8",
+    "title": "Janubiy Koreya Xitoyda chip ishlab chiqarishni yangilamoqda",
+    "summary": "Janubiy Koreya chip ishlab chiqaruvchilari Xitoydagi ishlab chiqarish quvvatlarini yangilamoqda. Alibaba, ByteDance va Tencent Nvidia kompaniyasidan jami 35 milliard dollarlik chip buyurtmalari bergan.",
     "tags": [
-      "mehnat bozori"
+      "chiplar",
+      "biznes"
     ],
-    "importance": 2,
+    "importance": 3,
+    "score": 19,
+    "published": "2026-10-21T11:17:09.000Z",
+    "created": "2026-10-21T14:14:43.235Z",
+    "coverage": 1,
+    "source": {
+      "name": "Semafor",
+      "url": "https://semafor.com/article/10/21/2026/south-korean-chip-makers-upgrade-manufacturing-in-china-to-meet-rising-demand",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "6c14b19c5f4c",
+    "slug": "ai-menejerlar-uchun-ishni-baholashni-qiyinlashtirmoqda-6c14b1",
+    "title": "AI menejerlar uchun ishni baholashni qiyinlashtirmoqda",
+    "summary": "Yangi so'rovnomaga ko'ra, menejerlarning 50% dan ortig'i AI joriy etilgandan so'ng xodimlarning ishini baholash qiyinlashganini aytmoqda. AI samaradorlikni oshirishni va'da qilsa-da, hozircha menejerlar uchun muammo tug'dirmoqda.",
+    "tags": [
+      "mehnat bozori",
+      "biznes"
+    ],
+    "importance": 3,
     "score": 15,
     "published": "2026-10-21T14:00:00.000Z",
-    "created": "2026-10-21T14:01:16.042Z",
+    "created": "2026-10-21T14:14:43.235Z",
     "coverage": 1,
     "source": {
       "name": "TechCrunch",
