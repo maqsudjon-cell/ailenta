@@ -1,5 +1,76 @@
 [
   {
+    "id": "0be0f8b04d4d",
+    "slug": "ozbekiston-delegatsiyasi-turkpa-yalpi-majlisida-qatnashdi-0be0f8",
+    "title": "O'zbekiston delegatsiyasi TurkPA yalpi majlisida qatnashdi",
+    "summary": "Oliy Majlis Senati raisi Tanzila Norboyeva boshchiligidagi Oʻzbekiston delegatsiyasi Bishkekda TurkPA Kengashining XV yalpi majlisida qatnashdi. Unda sunʼiy intellekt va texnologik taraqqiyot davrida parlamentlararo hamkorlik masalalari muhokama qilindi.",
+    "tags": [
+      "O'zbekiston",
+      "siyosat"
+    ],
+    "importance": 2,
+    "score": 48,
+    "published": "2026-10-21T07:10:51.000Z",
+    "created": "2026-10-21T09:38:55.284Z",
+    "coverage": 1,
+    "source": {
+      "name": "Kun.uz",
+      "url": "https://kun.uz/news/2026/10/21/tanzila-norboyeva-sadir-japarov-bilan-uchrashdi",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "cb410d58d521",
+    "slug": "tramp-data-markazlarni-dividend-tolashga-chaqirdi-cb410d",
+    "title": "Tramp data-markazlarni dividend to'lashga chaqirdi",
+    "summary": "Donald Tramp data-markazlar kompaniyalari mahalliy aholining qo'llab-quvvatlashiga erishish uchun jamoalarga \"dividend\" to'lashi kerakligini bildirdi. Bu taklif sun'iy intellekt infratuzilmasini moliyalashtirish bo'yicha xavotirlar fonida aytildi.",
+    "tags": [
+      "siyosat",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 25,
+    "published": "2026-10-21T08:53:53.000Z",
+    "created": "2026-10-21T09:38:55.285Z",
+    "coverage": 2,
+    "source": {
+      "name": "CNBC",
+      "url": "https://cnbc.com/2026/10/21/trump-data-centers-community-dividend.html",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "Business Insider",
+        "url": "https://businessinsider.com/trump-data-center-companies-pay-community-dividend-backlash-popular-2026-10"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "a69d1e05218c",
+    "slug": "yevropada-data-markazlar-iqlim-tosiqlariga-uchramoqda-a69d1e",
+    "title": "Yevropada data-markazlar iqlim to'siqlariga uchramoqda",
+    "summary": "Germaniyada data-markazlardan chiquvchi issiqlikni uylarga yo'naltirish rejasi to'xtab qoldi. Yevropa bo'ylab siyosatchilar AI infratuzilmasini kengaytirish va iqlim maqsadlariga erishish o'rtasida muvozanat izlamoqda.",
+    "tags": [
+      "bulut",
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 23,
+    "published": "2026-10-21T08:30:00.000Z",
+    "created": "2026-10-21T09:38:55.285Z",
+    "coverage": 1,
+    "source": {
+      "name": "Wired",
+      "url": "https://wired.com/story/europe-data-centers-climate-change",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "38a3e756a726",
     "slug": "ozbekistonda-startaplarga-ai-resurslari-bepul-beriladi-38a3e7",
     "title": "O'zbekistonda startaplarga AI resurslari bepul beriladi",
