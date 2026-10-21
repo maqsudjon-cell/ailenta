@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/bulut/</link>
   <description>&quot;bulut&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Wed, 21 Oct 2026 02:07:39 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 21 Oct 2026 03:10:03 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/bulut/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>J.Crew sayti ishlamay qoldi, AI tizimi sog'lom dedi</title>
+    <link>https://ailenta.uz/x/j-crew-sayti-ishlamay-qoldi-ai-tizimi-soglom-dedi-6c68af/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/j-crew-sayti-ishlamay-qoldi-ai-tizimi-soglom-dedi-6c68af/</guid>
+    <pubDate>Tue, 20 Oct 2026 19:30:50 GMT</pubDate>
+    <description>Kiyim-kechak sotuvchisi J.Crew'ning veb-sayti ishlamay qoldi. Saytda &quot;JCrew generativ AI backend sog'lom&quot; degan g'alati xabar paydo bo'ldi.</description>
+    <category>biznes</category><category>bulut</category>
+    <media:content url="https://ailenta.uz/og/j-crew-sayti-ishlamay-qoldi-ai-tizimi-soglom-dedi-6c68af.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/j-crew-sayti-ishlamay-qoldi-ai-tizimi-soglom-dedi-6c68af.jpg"/>
+  </item>
   <item>
     <title>Toshkentdagi DataVolt data-markazi qurilishi yakunlanmoqda</title>
     <link>https://ailenta.uz/x/toshkentdagi-datavolt-data-markazi-qurilishi-yakunlanmoqda-9556bc/</link>
@@ -296,16 +306,6 @@
     <category>bulut</category><category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/ai-o-qitishda-ko-p-markazli-tarmoq-muammosi-5d7fcd.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/ai-o-qitishda-ko-p-markazli-tarmoq-muammosi-5d7fcd.jpg"/>
-  </item>
-  <item>
-    <title>OpenBPM 2.0 platformasi chiqarildi</title>
-    <link>https://ailenta.uz/x/openbpm-2-0-platformasi-chiqarildi-8dc6ab/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/openbpm-2-0-platformasi-chiqarildi-8dc6ab/</guid>
-    <pubDate>Wed, 07 Oct 2026 03:40:54 GMT</pubDate>
-    <description>&quot;Хоулмонт&quot; kompaniyasi korxonalarni avtomatlashtirish uchun mo'ljallangan OpenBPM Engine v.2.0 platformasini chiqardi. U Spring Boot 4 va Spring AI'dan faol foydalanadi.</description>
-    <category>biznes</category><category>bulut</category>
-    <media:content url="https://ailenta.uz/og/openbpm-2-0-platformasi-chiqarildi-8dc6ab.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/openbpm-2-0-platformasi-chiqarildi-8dc6ab.jpg"/>
   </item>
 </channel>
 </rss>
