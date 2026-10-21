@@ -1,5 +1,93 @@
 [
   {
+    "id": "a84b6a7bee5c",
+    "slug": "terminal-x-gpt-6-1-bilan-investor-hukmini-88-6-moslashtirdi-a84b6a",
+    "title": "Terminal X GPT-6.1 bilan investor hukmini 88.6% moslashtirdi",
+    "summary": "Terminal X kompaniyasi o'zining Eval Agent vositasi yordamida GPT-6.1 Sol bilan katta investorlarning bahosini 88.6% aniqlikda moslashtirdi. Bu agent fond talablaridan 25% ko'proq og'ishlarni aniqlay oladi.",
+    "tags": [
+      "OpenAI",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 33.3,
+    "published": "2026-10-20T07:00:00.000Z",
+    "created": "2026-10-21T01:49:20.412Z",
+    "coverage": 1,
+    "source": {
+      "name": "OpenAI",
+      "url": "https://openai.com/index/terminal-x",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "5a9dd192c567",
+    "slug": "agentik-insayderni-himoya-qilish-5a9dd1",
+    "title": "Agentik insayderni himoya qilish",
+    "summary": "Microsoft kompaniyasi agentik insayderlarni himoya qilish mavzusida maqola e'lon qildi. Maqolada ushbu masalaning muhimligi yoritilgan.",
+    "tags": [
+      "Microsoft",
+      "xavfsizlik"
+    ],
+    "importance": 1,
+    "score": 23.6,
+    "published": "2026-10-19T14:10:30.000Z",
+    "created": "2026-10-21T01:49:20.413Z",
+    "coverage": 1,
+    "source": {
+      "name": "Microsoft",
+      "url": "https://blogs.microsoft.com/blog/2026/10/19/securing-the-agentic-insider",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "368ff3028a72",
+    "slug": "sk-texnologiya-firmasi-ipo-muvaffaqiyatsizligi-aiga-xavotirn-368ff3",
+    "title": "SK texnologiya firmasi IPO muvaffaqiyatsizligi AIga xavotirni ko'rsatdi",
+    "summary": "Yangi tahlillar shuni ko'rsatdiki, SK texnologiya firmasining IPO muvaffaqiyatsizligi investorlarning AIga bo'lgan xavotirlarini kuchaytirdi. Investorlar chip ishlab chiqaruvchilar va ma'lumot markazlari quruvchilari obligatsiyalari bilan bog'liq kredit defolt svoplarini ko'proq sotib olishmoqda.",
+    "tags": [
+      "biznes",
+      "iqtisod"
+    ],
+    "importance": 3,
+    "score": 21.2,
+    "published": "2026-10-20T11:52:45.000Z",
+    "created": "2026-10-21T01:49:20.413Z",
+    "coverage": 1,
+    "source": {
+      "name": "Semafor",
+      "url": "https://semafor.com/article/10/20/2026/south-korean-tech-firms-ipo-flop-signals-investor-concerns-over-ai",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "dabc0e0223fd",
+    "slug": "thielning-maruzalari-ai-xavfsizligini-tanqid-qildi-dabc0e",
+    "title": "Thielning ma'ruzalari AI xavfsizligini tanqid qildi",
+    "summary": "Piter Tilning Rimdagi sizdirilgan ma'ruzalarida u AI \"xavfsizlik\" harakatini Antixristning xabarchilari deb atadi. Shuningdek, u Bill Geytsni \"Janob Hayd\", Eliezer Yudkowskyni esa \"Gretadan ham Luddit\" deb ta'rifladi.",
+    "tags": [
+      "siyosat",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-10-21T01:10:02.000Z",
+    "created": "2026-10-21T01:49:20.413Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/261020/p57",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "652ca5c0387c",
     "slug": "meta-muse-chat-almashish-funksiyasini-toxtatdi-652ca5",
     "title": "Meta Muse chat almashish funksiyasini to'xtatdi",
