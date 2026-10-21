@@ -1,5 +1,75 @@
 [
   {
+    "id": "6bc0a4e087e6",
+    "slug": "janubiy-sharqiy-osiyo-raqamli-iqtisodiyoti-1-trln-boladi-6bc0a4",
+    "title": "Janubiy-Sharqiy Osiyo raqamli iqtisodiyoti $1 trln bo'ladi",
+    "summary": "AI texnologiyalarining keng qo'llanilishi Janubiy-Sharqiy Osiyo raqamli iqtisodiyotining o'sishini tezlashtirmoqda. Google prognoziga ko'ra, mintaqa raqamli iqtisodiyoti 2026-yilda 368 milliard dollarga, 2035-yilga borib esa 1 trillion dollarga yetadi.",
+    "tags": [
+      "Google",
+      "iqtisod"
+    ],
+    "importance": 3,
+    "score": 33,
+    "published": "2026-10-21T04:00:00.000Z",
+    "created": "2026-10-21T05:01:28.441Z",
+    "coverage": 1,
+    "source": {
+      "name": "Google",
+      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "33d0a1292b0e",
+    "slug": "photon-bridge-lazer-qurilmalari-uchun-10-mln-jalb-qildi-33d0a1",
+    "title": "Photon Bridge lazer qurilmalari uchun €10 mln jalb qildi",
+    "summary": "Fotonika startapi Photon Bridge AI chiplarini o'zaro bog'laydigan lazer qurilmalarini yaratish uchun 10 million yevro investitsiya jalb qildi.",
+    "tags": [
+      "chiplar",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-10-21T05:00:26.000Z",
+    "created": "2026-10-21T05:01:28.442Z",
+    "coverage": 1,
+    "source": {
+      "name": "Sifted",
+      "url": "https://sifted.eu/articles/photon-bridge-laser-device-ai-chips-seed-round",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "23d74f2cc3da",
+    "slug": "xitoy-ai-modellari-janubiy-koreyada-ustunlik-qilmoqda-23d74f",
+    "title": "Xitoy AI modellari Janubiy Koreyada ustunlik qilmoqda",
+    "summary": "Xitoyning sun'iy intellekt modellari Janubiy Koreyaning dasturiy ta'minot ishlab chiqish ekotizimida AQSH modellarini ortda qoldirib, yetakchilikni egallamoqda.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 12.7,
+    "published": "2026-10-20T16:13:47.000Z",
+    "created": "2026-10-21T05:01:28.442Z",
+    "coverage": 2,
+    "source": {
+      "name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQY1NjcEtTcUlkV25FZXU3S0ZFREdITWpLWm13djAxaFFwVXNER1RqanFBYWVNRHIzWHZHSENhSnNPeG5wdU9jd0YxUUV2R2JQTkRNQy0zSFNCdmRKbHFQQWxfc2hCWFJxOHdMV3hCX28zdTdUT3FhVVQxNEk0S29WZUM1OFM0VmdD",
+      "indirect": true
+    },
+    "also": [
+      {
+        "name": "조선일보",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWURud3ptR21iYmpMWmdyVlNsT09TN3ZtLWx1QV9sM3ZYODNtN1V5YzhXVm51YXdmcE14WWtPRVcwVGpDSGpkZE9iemJGanlYN3lKeVMwTzVhWUhTcXMzMUxIVTNGUHFGc3pFV1lDRW1hTklIM1o3YjRCSlFjNHBuV2R1X2kwaFFS"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
     "id": "37c31a12e6ce",
     "slug": "avto-texnologiya-startapi-raqibini-xakerlikda-aybladi-37c31a",
     "title": "Avto texnologiya startapi raqibini xakerlikda aybladi",
