@@ -5,18 +5,8 @@
   <link>https://ailenta.uz/mavzu/talim/</link>
   <description>&quot;ta'lim&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Wed, 21 Oct 2026 12:38:01 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 21 Oct 2026 12:55:29 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/talim/rss.xml" rel="self" type="application/rss+xml"/>
-  <item>
-    <title>InkPeek Android o'quvchilari uchun AI tarjimon</title>
-    <link>https://ailenta.uz/x/inkpeek-android-oquvchilari-uchun-ai-tarjimon-6322c2/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/inkpeek-android-oquvchilari-uchun-ai-tarjimon-6322c2/</guid>
-    <pubDate>Wed, 21 Oct 2026 12:18:31 GMT</pubDate>
-    <description>InkPeek — bu Android o'quvchilari uchun mo'ljallangan tarjimon ilovasi. U oflayn rejimda ishlaydi va internetga ulanganda AI yordamida grammatikani tushuntiradi.</description>
-    <category>ta'lim</category><category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/inkpeek-android-oquvchilari-uchun-ai-tarjimon-6322c2.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/inkpeek-android-oquvchilari-uchun-ai-tarjimon-6322c2.jpg"/>
-  </item>
   <item>
     <title>iOS dasturchilari tayyorlash markazlari tashkil etiladi</title>
     <link>https://ailenta.uz/x/ios-dasturchilari-tayyorlash-markazlari-tashkil-etiladi-915350/</link>
@@ -306,6 +296,16 @@
     <category>mehnat bozori</category><category>ta'lim</category>
     <media:content url="https://ailenta.uz/og/ai-tanqidiy-fikrlashni-susaytiruvchi-ikki-odat-410fdc.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/ai-tanqidiy-fikrlashni-susaytiruvchi-ikki-odat-410fdc.jpg"/>
+  </item>
+  <item>
+    <title>arXiv AI sababli maqola topshirishga cheklov qo'ydi</title>
+    <link>https://ailenta.uz/x/arxiv-ai-sababli-maqola-topshirishga-cheklov-qoydi-dcf3f1/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/arxiv-ai-sababli-maqola-topshirishga-cheklov-qoydi-dcf3f1/</guid>
+    <pubDate>Fri, 02 Oct 2026 18:02:32 GMT</pubDate>
+    <description>arXiv ilmiy platformasi AI tomonidan yaratilgan &quot;sifatli bo'lmagan&quot; maqolalar oqimini to'xtatish uchun cheklovlar kiritdi. Endi har bir muallif oyiga faqat ikkita maqola topshira oladi.</description>
+    <category>tadqiqot</category><category>ta'lim</category>
+    <media:content url="https://ailenta.uz/og/arxiv-ai-sababli-maqola-topshirishga-cheklov-qoydi-dcf3f1.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/arxiv-ai-sababli-maqola-topshirishga-cheklov-qoydi-dcf3f1.jpg"/>
   </item>
 </channel>
 </rss>

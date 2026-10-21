@@ -1,66 +1,21 @@
 [
   {
-    "id": "6322c27d1633",
-    "slug": "inkpeek-android-oquvchilari-uchun-ai-tarjimon-6322c2",
-    "title": "InkPeek Android o'quvchilari uchun AI tarjimon",
-    "summary": "InkPeek — bu Android o'quvchilari uchun mo'ljallangan tarjimon ilovasi. U oflayn rejimda ishlaydi va internetga ulanganda AI yordamida grammatikani tushuntiradi.",
-    "tags": [
-      "ta'lim",
-      "tadqiqot"
-    ],
-    "importance": 2,
-    "score": 11,
-    "published": "2026-10-21T12:18:31.000Z",
-    "created": "2026-10-21T12:29:13.239Z",
-    "coverage": 1,
-    "source": {
-      "name": "Habr",
-      "url": "https://habr.com/ru/articles/1097304",
-      "title": "InkPeek — переводчик для Android-читалок: работает офлайн, а с интернетом ещё и объясняет через AI",
-      "indirect": false
-    },
-    "also": [],
-    "model": "gemini"
-  },
-  {
-    "id": "06da62b723ce",
-    "slug": "anthropic-va-leybllar-ai-oqitishda-bahslashmoqda-06da62",
-    "title": "Anthropic va leybllar AI o'qitishda bahslashmoqda",
-    "summary": "Anthropic va musiqa leybllari sun'iy intellektni o'qitish bilan bog'liq sud ishida asosiy dalillarni taqdim etadi. Reuters bu haqda xabar berdi.",
-    "tags": [
-      "Anthropic",
-      "sud"
-    ],
-    "importance": 3,
-    "score": 33,
-    "published": "2026-10-21T10:18:41.000Z",
-    "created": "2026-10-21T12:29:31.460Z",
-    "coverage": 1,
-    "source": {
-      "name": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNT3pZQUU3NTI4WFhrZkxldDBxUTRpT20za0J4X2JkYTUxdExnbFdaUEoyam5PWmFTa2xNWHpTTGZqdTl6SWhuOW4tcXMyNE9uOHNqcHlIRGhHendlM2JyYkJVRjE1RnNSUDhpVjFZNEY3Vy1kamtSVTJXaFdiWE1oYXlxS2Q1Ylg4NV9kNmhLMElBOTAxdXJVa0E1eEt6NUkxWU9UcTU1MGIyeDdBUy1jcXFvR04",
-      "indirect": true
-    },
-    "also": [],
-    "model": "gemini"
-  },
-  {
-    "id": "3ddfb3ea7120",
-    "slug": "1c-uchun-ai-yordamchisi-kodni-tahlil-qilishni-organdi-3ddfb3",
-    "title": "1C uchun AI yordamchisi kodni tahlil qilishni o'rgandi",
-    "summary": "1C uchun mo'ljallangan AI yordamchisi dasturiy kodni tahlil qilish, kengaytmalarni yaratish va o'zgartirish imkoniyatiga ega bo'ldi. U shuningdek, yangilanishlardan keyin o'zgarishlarni tekshira oladi.",
+    "id": "b359b22458e1",
+    "slug": "azoma-ai-xarid-agentlari-startapi-11-2-mln-mablag-jalb-qildi-b359b2",
+    "title": "Azoma AI xarid agentlari startapi $11.2 mln mablag' jalb qildi",
+    "summary": "Brendlarga o'z mahsulotlarini sun'iy intellekt xarid agentlariga ko'rsatishda yordam beruvchi Azoma startapi 11.2 million dollar sarmoya to'pladi. Kompaniya mijozlari orasida Mars va Unilever kabi yirik korxonalar bor.",
     "tags": [
       "biznes",
-      "tadqiqot"
+      "agentlar"
     ],
     "importance": 2,
-    "score": 14,
-    "published": "2026-10-21T11:46:45.000Z",
-    "created": "2026-10-21T12:29:31.460Z",
+    "score": 15,
+    "published": "2026-10-21T12:00:01.000Z",
+    "created": "2026-10-21T12:40:26.191Z",
     "coverage": 1,
     "source": {
-      "name": "Habr",
-      "url": "https://habr.com/ru/companies/infostart/articles/1097286",
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/azoma-raises-millions-optimize-brands-ai-shopping-agents-2026-10",
       "indirect": false
     },
     "also": [],
