@@ -1,5 +1,134 @@
 [
   {
+    "id": "0397d30cafbc",
+    "slug": "ai-yordamida-31-yillik-matematika-siri-yechildi-0397d3",
+    "title": "AI yordamida 31 yillik matematika siri yechildi",
+    "summary": "Tadqiqotchilar yangi g'oyalar va inson boshqaruvi ostidagi AI yordamida 31 yillik matematika sirini hal qilishdi. Bu Microsoft tomonidan e'lon qilingan.",
+    "tags": [
+      "Microsoft",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 33,
+    "published": "2026-10-21T18:39:50.000Z",
+    "created": "2026-10-21T21:02:21.030Z",
+    "coverage": 1,
+    "source": {
+      "name": "Microsoft",
+      "url": "https://microsoft.com/en-us/research/blog/solving-a-31-year-old-grand-challenge-in-mathematics-the-kls-conjecture",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "9fbf6acb35d6",
+    "slug": "meta-muse-ai-suhbatlarida-maxfiylik-muammosi-aniqlandi-9fbf6a",
+    "title": "Meta Muse AI suhbatlarida maxfiylik muammosi aniqlandi",
+    "summary": "Xavfsizlik tadqiqotchilari Meta'ning Muse AI assistenti bilan bo'lgan shaxsiy suhbatlarga oson kirish mumkinligini aniqladi. Kompaniya ushbu xususiyatni vaqtincha to'xtatdi.",
+    "tags": [
+      "Meta",
+      "maxfiylik"
+    ],
+    "importance": 4,
+    "score": 23,
+    "published": "2026-10-21T12:35:00.000Z",
+    "created": "2026-10-21T21:02:21.030Z",
+    "coverage": 1,
+    "source": {
+      "name": "Wired",
+      "url": "https://wired.com/story/a-design-flaw-in-share-links-exposes-users-personal-conversations-with-meta-muse",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "c91866ae5901",
+    "slug": "ai-smartfon-ekranini-boshqarishi-mumkin-ammo-sekin-va-pullik-c91866",
+    "title": "AI smartfon ekranini boshqarishi mumkin, ammo sekin va pullik",
+    "summary": "AI smartfon ekranini boshqarish imkoniyatiga ega, ammo u sekin ishlaydi, oddiy vazifalarni bajarishda qiynaladi va buning uchun pul undirishi mumkin. Bu foydalanuvchilar uchun noqulaylik tug'dirishi aytildi.",
+    "tags": [
+      "agentlar"
+    ],
+    "importance": 2,
+    "score": 19,
+    "published": "2026-10-21T20:13:33.000Z",
+    "created": "2026-10-21T21:02:21.030Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/ai-and-ml/2026/10/21/reach-new-heights-of-laziness-by-burning-tokens-to-let-an-ai-tap-your-smartphone-screen-for-you/5304567",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "412c1e841c38",
+    "slug": "rust-off-rails-ai-davri-uchun-yangi-veb-stack-412c1e",
+    "title": "Rust off Rails: AI davri uchun yangi veb stack",
+    "summary": "\"Rust off Rails\" AI davri uchun mo'ljallangan, o'ziga xos qarashlarga ega veb stack sifatida taqdim etildi. Bu dasturchilar uchun yangi imkoniyatlar yaratishi kutilmoqda.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 17.6,
+    "published": "2026-10-21T16:34:16.000Z",
+    "created": "2026-10-21T21:02:21.030Z",
+    "coverage": 1,
+    "source": {
+      "name": "Hacker News",
+      "url": "https://rustoffrails.org",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "b1c663d40d39",
+    "slug": "tesla-foydasi-56-ga-tushdi-ai-xarajatlari-oshdi-b1c663",
+    "title": "Tesla foydasi 56%ga tushdi, AI xarajatlari oshdi",
+    "summary": "Tesla kompaniyasining operatsion foydasi o'tgan yilga nisbatan 56%ga kamaydi. Bu AI va tadqiqot-ishlanma xarajatlarining oshishi bilan bog'liq.",
+    "tags": [
+      "biznes",
+      "iqtisod"
+    ],
+    "importance": 4,
+    "score": 15,
+    "published": "2026-10-21T20:52:19.000Z",
+    "created": "2026-10-21T21:02:21.030Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/tesla-profits-under-pressure-ai-2026-10",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "6072b71b0c66",
+    "slug": "gm-onstar-ai-bilan-yangilanadi-inson-operatorlar-qoladi-6072b7",
+    "title": "GM OnStar AI bilan yangilanadi, inson operatorlar qoladi",
+    "summary": "General Motors (GM) OnStar xizmatini AI bilan yangilamoqda. Biroq, avtohalokatlar va favqulodda vaziyatlarda inson operatorlari javob berishda davom etadi.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-10-21T19:57:50.000Z",
+    "created": "2026-10-21T21:02:21.030Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/gm-onstar-ai-makeover-humans-still-help-during-emergency-calls-2026-10",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "e25ece074aed",
     "slug": "malayziyada-davlat-xizmatchilariga-waze-ilovasi-taqiqlandi-e25ece",
     "title": "Malayziyada davlat xizmatchilariga Waze ilovasi taqiqlandi",
