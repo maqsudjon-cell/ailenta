@@ -5,7 +5,7 @@
   <link>https://ailenta.uz/mavzu/biznes/</link>
   <description>&quot;biznes&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Wed, 21 Oct 2026 06:11:53 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 21 Oct 2026 06:44:33 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/biznes/rss.xml" rel="self" type="application/rss+xml"/>
   <item>
     <title>Photon Bridge lazer qurilmalari uchun €10 mln jalb qildi</title>
@@ -26,6 +26,16 @@
     <category>Nvidia</category><category>biznes</category>
     <media:content url="https://ailenta.uz/og/xitoy-kompaniyalari-nvidia-chiplariga-katta-buyurtmalar-berd-7e2717.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/xitoy-kompaniyalari-nvidia-chiplariga-katta-buyurtmalar-berd-7e2717.jpg"/>
+  </item>
+  <item>
+    <title>Sextant dasturining kodini AI yozmoqda</title>
+    <link>https://ailenta.uz/x/sextant-dasturining-kodini-ai-yozmoqda-2875e6/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/sextant-dasturining-kodini-ai-yozmoqda-2875e6/</guid>
+    <pubDate>Tue, 20 Oct 2026 23:49:47 GMT</pubDate>
+    <description>Kubernetes uchun bepul open-source mijoz Sextant dasturining 16 ta yangi versiyasi chiqdi. Dasturning kodi to'liq AI (Claude Code) tomonidan yozilgan bo'lib, inson faqat vazifalarni belgilaydi va tekshiradi.</description>
+    <category>ochiq model</category><category>biznes</category>
+    <media:content url="https://ailenta.uz/og/sextant-dasturining-kodini-ai-yozmoqda-2875e6.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/sextant-dasturining-kodini-ai-yozmoqda-2875e6.jpg"/>
   </item>
   <item>
     <title>Avto texnologiya startapi raqibini xakerlikda aybladi</title>
@@ -296,16 +306,6 @@
     <category>biznes</category><category>iqtisod</category>
     <media:content url="https://ailenta.uz/og/neolix-avtonom-yetkazishga-400-mln-oldi-ac4847.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/neolix-avtonom-yetkazishga-400-mln-oldi-ac4847.jpg"/>
-  </item>
-  <item>
-    <title>Chery AI hisoblash uchun avtomobil chiplarini taqdim etdi</title>
-    <link>https://ailenta.uz/x/chery-ai-hisoblash-uchun-avtomobil-chiplarini-taqdim-etdi-4a5e94/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/chery-ai-hisoblash-uchun-avtomobil-chiplarini-taqdim-etdi-4a5e94/</guid>
-    <pubDate>Tue, 20 Oct 2026 07:35:42 GMT</pubDate>
-    <description>Chery o'zining Ziwei avtomobil chiplari qatorini taqdim etdi. Bu chiplar AI hisoblash, kremniy karbid va avtomobil boshqaruvi uchun mo'ljallangan. C100 markaziy hisoblash chipi qurilmadagi fizik AI'ga qaratilgan.</description>
-    <category>chiplar</category><category>biznes</category>
-    <media:content url="https://ailenta.uz/og/chery-ai-hisoblash-uchun-avtomobil-chiplarini-taqdim-etdi-4a5e94.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/chery-ai-hisoblash-uchun-avtomobil-chiplarini-taqdim-etdi-4a5e94.jpg"/>
   </item>
 </channel>
 </rss>

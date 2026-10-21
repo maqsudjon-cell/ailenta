@@ -1,5 +1,92 @@
 [
   {
+    "id": "ce74de502031",
+    "slug": "guardian-aqsh-saylovlari-texnologiya-kompaniyalari-haqida-ce74de",
+    "title": "Guardian: AQSH saylovlari texnologiya kompaniyalari haqida",
+    "summary": "The Guardian nashri AQSH oraliq saylovlarini texnologiya kompaniyalari va ularning jamoatchilikka xizmat ko'rsatishi bo'yicha referendum deb atadi. OpenAI rahbari Sem Altmanning so'zlari keltirildi.",
+    "tags": [
+      "siyosat",
+      "OpenAI"
+    ],
+    "importance": 2,
+    "score": 26,
+    "published": "2026-10-20T19:16:05.000Z",
+    "created": "2026-10-21T06:36:24.266Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/global/2026/oct/19/midterm-elections-tech-broligarchs",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "f20168ad4a27",
+    "slug": "transformer-xulosa-chiqarish-ichki-dinamikasi-organildi-f20168",
+    "title": "Transformer xulosa chiqarish ichki dinamikasi o'rganildi",
+    "summary": "Tadqiqotchilar transformer modellarining xulosa chiqarish jarayonidagi ichki dinamikasini o'rgandi. Qwen, Llama va Gemma nazorat nuqtalarida qatlamlar tartibi hisoblashda muhim rol o'ynashi aniqlandi.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 16,
+    "published": "2026-10-21T04:00:00.000Z",
+    "created": "2026-10-21T06:36:24.267Z",
+    "coverage": 1,
+    "source": {
+      "name": "arXiv cs.LG",
+      "url": "https://arxiv.org/abs/2610.26866",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "2875e6fb818e",
+    "slug": "sextant-dasturining-kodini-ai-yozmoqda-2875e6",
+    "title": "Sextant dasturining kodini AI yozmoqda",
+    "summary": "Kubernetes uchun bepul open-source mijoz Sextant dasturining 16 ta yangi versiyasi chiqdi. Dasturning kodi to'liq AI (Claude Code) tomonidan yozilgan bo'lib, inson faqat vazifalarni belgilaydi va tekshiradi.",
+    "tags": [
+      "ochiq model",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 11,
+    "published": "2026-10-20T23:49:47.000Z",
+    "created": "2026-10-21T06:36:24.267Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1097014",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "cdf9f89cfa3f",
+    "slug": "hhs-anthropic-kompaniyasiga-shartnoma-beradi-cdf9f8",
+    "title": "HHS Anthropic kompaniyasiga shartnoma beradi",
+    "summary": "AQSH Sog'liqni saqlash va aholiga xizmat ko'rsatish departamenti (HHS) kengroq AI tanlovidan oldin Anthropic kompaniyasiga yagona manbali shartnoma berishni rejalashtirmoqda. Bu FedScoop tomonidan xabar qilindi.",
+    "tags": [
+      "Anthropic",
+      "siyosat"
+    ],
+    "importance": 4,
+    "score": 10,
+    "published": "2026-10-20T23:12:13.000Z",
+    "created": "2026-10-21T06:36:24.267Z",
+    "coverage": 1,
+    "source": {
+      "name": "FedScoop",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9sUW41dkF1aFFTbHotcmJualhBVnlNWmhfY2oxMnpVNFYwTFlXa2MtWmp5N3BydWVDb2owRmliTVpSU3hiYVhVdF96TWtZSm1KQkUtWnlhRUVPWnhmWUlUSlpKYUtsUy1TZ3JHYXF3czc",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "7e2717e56ec7",
     "slug": "xitoy-kompaniyalari-nvidia-chiplariga-katta-buyurtmalar-berd-7e2717",
     "title": "Xitoy kompaniyalari Nvidia chiplariga katta buyurtmalar berdi",

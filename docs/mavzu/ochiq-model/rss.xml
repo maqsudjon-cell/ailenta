@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/ochiq-model/</link>
   <description>&quot;ochiq model&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Wed, 21 Oct 2026 06:11:53 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 21 Oct 2026 06:44:33 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/ochiq-model/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Sextant dasturining kodini AI yozmoqda</title>
+    <link>https://ailenta.uz/x/sextant-dasturining-kodini-ai-yozmoqda-2875e6/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/sextant-dasturining-kodini-ai-yozmoqda-2875e6/</guid>
+    <pubDate>Tue, 20 Oct 2026 23:49:47 GMT</pubDate>
+    <description>Kubernetes uchun bepul open-source mijoz Sextant dasturining 16 ta yangi versiyasi chiqdi. Dasturning kodi to'liq AI (Claude Code) tomonidan yozilgan bo'lib, inson faqat vazifalarni belgilaydi va tekshiradi.</description>
+    <category>ochiq model</category><category>biznes</category>
+    <media:content url="https://ailenta.uz/og/sextant-dasturining-kodini-ai-yozmoqda-2875e6.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/sextant-dasturining-kodini-ai-yozmoqda-2875e6.jpg"/>
+  </item>
   <item>
     <title>openEuler Xitoy ish stoli operatsion tizimini taqdim etdi</title>
     <link>https://ailenta.uz/x/openeuler-xitoy-ish-stoli-operatsion-tizimini-taqdim-etdi-563d51/</link>
@@ -296,16 +306,6 @@
     <category>tadqiqot</category><category>ochiq model</category>
     <media:content url="https://ailenta.uz/og/shaxsiy-agi-raspberry-pida-ikkinchi-miya-fde9d0.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/shaxsiy-agi-raspberry-pida-ikkinchi-miya-fde9d0.jpg"/>
-  </item>
-  <item>
-    <title>TW3Cast GIFT-Eval sinovida 3-o'rinni egalladi</title>
-    <link>https://ailenta.uz/x/tw3cast-gift-eval-sinovida-3-orinni-egalladi-18734c/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/tw3cast-gift-eval-sinovida-3-orinni-egalladi-18734c/</guid>
-    <pubDate>Fri, 25 Sep 2026 04:00:00 GMT</pubDate>
-    <description>TW3Cast nomli vaqt qatorlarini bashorat qilish tizimi GIFT-Eval sinov to'plamida 130 ta ishtirokchi orasida 3-o'rinni egalladi. U agentlar yoki til modellaridan foydalanmasdan, moslashtirilgan asosiy modellarga tayanadi.</description>
-    <category>tadqiqot</category><category>ochiq model</category>
-    <media:content url="https://ailenta.uz/og/tw3cast-gift-eval-sinovida-3-orinni-egalladi-18734c.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/tw3cast-gift-eval-sinovida-3-orinni-egalladi-18734c.jpg"/>
   </item>
 </channel>
 </rss>
