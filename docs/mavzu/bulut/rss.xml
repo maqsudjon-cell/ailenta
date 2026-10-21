@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/bulut/</link>
   <description>&quot;bulut&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Wed, 21 Oct 2026 22:29:16 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 21 Oct 2026 22:39:47 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/bulut/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>OpenCode'da AI bilan bog'liq xavfsizlik buzilishi</title>
+    <link>https://ailenta.uz/x/opencodeda-ai-bilan-bogliq-xavfsizlik-buzilishi-d82db9/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/opencodeda-ai-bilan-bogliq-xavfsizlik-buzilishi-d82db9/</guid>
+    <pubDate>Wed, 21 Oct 2026 17:47:19 GMT</pubDate>
+    <description>OpenCode xavfsizlik buzilishiga uchradi, unda konsol foydalanuvchilari AI provayderlari bilan bog'langan holda &quot;distillation&quot; hujumiga nishon bo'ldi. Bu hodisa ishlab chiquvchi mashinalariga ta'sir qildi.</description>
+    <category>xavfsizlik</category><category>bulut</category>
+    <media:content url="https://ailenta.uz/og/opencodeda-ai-bilan-bogliq-xavfsizlik-buzilishi-d82db9.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/opencodeda-ai-bilan-bogliq-xavfsizlik-buzilishi-d82db9.jpg"/>
+  </item>
   <item>
     <title>Yevropada data-markazlar iqlim to'siqlariga uchramoqda</title>
     <link>https://ailenta.uz/x/yevropada-data-markazlar-iqlim-tosiqlariga-uchramoqda-a69d1e/</link>
@@ -296,16 +306,6 @@
     <category>bulut</category><category>iqtisod</category>
     <media:content url="https://ailenta.uz/og/ai-malumotlar-markazlariga-investitsiya-xavfi-ortmoqda-157e66.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/ai-malumotlar-markazlariga-investitsiya-xavfi-ortmoqda-157e66.jpg"/>
-  </item>
-  <item>
-    <title>Octopus ma'lumotlar markazlari uchun startaplar qidirmoqda</title>
-    <link>https://ailenta.uz/x/octopus-malumotlar-markazlari-uchun-startaplar-qidirmoqda-cc7d84/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/octopus-malumotlar-markazlari-uchun-startaplar-qidirmoqda-cc7d84/</guid>
-    <pubDate>Fri, 09 Oct 2026 10:07:18 GMT</pubDate>
-    <description>Octopus kompaniyasi ma'lumotlar markazlari talabini boshqarish uchun dasturiy ta'minot startaplarini sotib olish imkoniyatlarini qidirmoqda. Bu haqda kompaniyaning AQShdagi rahbari Nik Chaset ma'lum qildi.</description>
-    <category>biznes</category><category>bulut</category>
-    <media:content url="https://ailenta.uz/og/octopus-malumotlar-markazlari-uchun-startaplar-qidirmoqda-cc7d84.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/octopus-malumotlar-markazlari-uchun-startaplar-qidirmoqda-cc7d84.jpg"/>
   </item>
 </channel>
 </rss>

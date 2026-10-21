@@ -1,5 +1,181 @@
 [
   {
+    "id": "b2deaf97c98c",
+    "slug": "openai-kiberhimoyachilarni-ai-bilan-kuchaytirishni-taklif-et-b2deaf",
+    "title": "OpenAI kiberhimoyachilarni AI bilan kuchaytirishni taklif etadi",
+    "summary": "OpenAI ilg'or AI yordamida kiberhimoyachilarni kuchaytirish rejasini taqdim etdi. Bu reja kiberxavfsizlikni modernizatsiya qilish va davlat muassasalarining barqarorligini oshirishni ko'zda tutadi.",
+    "tags": [
+      "OpenAI",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 31.8,
+    "published": "2026-10-21T00:00:00.000Z",
+    "created": "2026-10-21T22:34:12.602Z",
+    "coverage": 1,
+    "source": {
+      "name": "OpenAI",
+      "url": "https://openai.com/index/empowering-cyber-defenders",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "1bfd140f401f",
+    "slug": "ai-phpda-muhim-rce-zaifligini-aniqladi-1bfd14",
+    "title": "AI PHPda muhim RCE zaifligini aniqladi",
+    "summary": "Sun'iy intellekt PHP dasturlash tilida jiddiy masofaviy kod bajarish (RCE) zaifligini topdi. Bu topilma dasturiy ta'minot xavfsizligini oshirishga yordam beradi.",
+    "tags": [
+      "xavfsizlik",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 23,
+    "published": "2026-10-21T13:43:19.000Z",
+    "created": "2026-10-21T22:34:12.602Z",
+    "coverage": 1,
+    "source": {
+      "name": "Hacker News",
+      "url": "https://wiz.io/blog/php2shell-php-rce",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "ddbdfe02a0d3",
+    "slug": "erik-shmidt-anthropicdan-20-mlrd-dollar-foyda-oldi-ddbdfe",
+    "title": "Erik Shmidt Anthropicdan 20 mlrd dollar foyda oldi",
+    "summary": "Erik Shmidtning Anthropic kompaniyasidagi sarmoyasi 20 milliard dollarlik daromad keltirdi. Bu muvaffaqiyat Kemi Klarkning tanishtiruvi bilan boshlangan.",
+    "tags": [
+      "Anthropic",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-10-21T16:45:00.000Z",
+    "created": "2026-10-21T22:34:12.602Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSVN4ZkNmZWs3bjN4bi1ZOWFva2c2YndMdDMwamtVNEtleU5QbDM0MlY3Y3pvLUFER0g3MlA5U00tX1ltVWV1VHd5dnUwRnJPM09Pam5mSVVjZDJKUlFsSWFRbGNpSTYzclZUREhZS2FlbVhPbUI5R3pJb25FT0Y1d2NQUWNNdUhtemcyeDJDc2VuYTRCZVcxbEJLRFlNU0R5",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "ec8cb7ebf377",
+    "slug": "zuckerberg-metaning-ai-monetizatsiya-rejasini-taqdim-etdi-ec8cb7",
+    "title": "Zuckerberg Meta'ning AI monetizatsiya rejasini taqdim etdi",
+    "summary": "Mark Zuckerberg Meta'ning AI monetizatsiya yo'l xaritasini bayon qildi. U hisoblash samaradorligini 10 barobardan ko'proq oshirishni kutayotganini ta'kidladi.",
+    "tags": [
+      "Meta",
+      "biznes"
+    ],
+    "importance": 4,
+    "score": 7,
+    "published": "2026-10-21T21:21:16.000Z",
+    "created": "2026-10-21T22:34:12.602Z",
+    "coverage": 1,
+    "source": {
+      "name": "Storyboard18",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNd1ZfcUI3UHExdW1pSTJ6RkNuTy0tR05IUEh5QzVTcTFtS192UWl1RlR6UWo2c21MelcwamN6RXVFYkdEQXB1SGFhc0U3UmhjbXRfcDh1Qjlld0dlNms2SnVKMWNqOGlCNzJaOGVOYWlRTV9RcFhER0tmYjlkZGI1Z1VZMXVEYnlYQlh0UkNYWXRaZWQwaGk1ZzRJZVQxaDUzN09qMnVCUTdZaXNJVHlPUlI1elpuTUYyRHM40gHAAUFVX3lxTE1RVDg1eFJicHBuYmZ0S29uaDQtSXBRYXRHc2RQbDR0VmMtaUtWRkx5NFdpR00taUhaYUdHSkdHT1VoT2lJVDQzbFJGVWZLNUlXT0JyS0pRb3owNm8talBQa2RkaXg1UjV3Vk54WDRRNDgzUFNUUWE5c1RsQXVyMmdkMG5tLU83dnpFU0FlUHR0ZlU1QWNlSm95UnlnME9FdnExaG1mQjB3S1ZMdlZxT1hIMFFob0oxWk1xaDlnU0NjXw",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "58cdabb45365",
+    "slug": "sudya-metaning-ai-hujjat-tekshiruvini-rad-etdi-58cdab",
+    "title": "Sudya Meta'ning AI hujjat tekshiruvini rad etdi",
+    "summary": "Kaliforniya sudyasi Meta kompaniyasining hujjatlarni ko'rib chiqish uchun AI'dan foydalanish so'rovini rad etdi. Sudya, shuningdek, kompaniyaning \"advokat-mijoz imtiyo\" shlyapalarini tanqid qildi.",
+    "tags": [
+      "Meta",
+      "sud"
+    ],
+    "importance": 3,
+    "score": 7,
+    "published": "2026-10-21T20:56:00.000Z",
+    "created": "2026-10-21T22:34:12.602Z",
+    "coverage": 1,
+    "source": {
+      "name": "New York Post",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNN0Jkb3FGR3l2OC1aREhPcWhrNW9kd1dYU1BiQW5NZEc3UDFvS0F1X1o0dktMSFRxbW1fQ1FUZk1HaC11UW5ydW9FU0NURzZMNEdTU2tiajdlS2p5dWt4NlNJbTJMdXZ0MGZ6MERwR2tBNmRZNk1lbEdXSFN0LUJsUVBQd1hEdmRfRDlYVGlXekFWVEJ4OUsxVnN0dU9fanBLSU1HcmZGa3Z3MFV2eHNySXdlN2xBWGY0ZlNDYUNVQkxMdHR1YlBrbFJCbC1kN0N6TUtIcERQYnZBS3BwTjZmemE0em83a0lhMFRveG1udGRfdw",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "d82db9ae46eb",
+    "slug": "opencodeda-ai-bilan-bogliq-xavfsizlik-buzilishi-d82db9",
+    "title": "OpenCode'da AI bilan bog'liq xavfsizlik buzilishi",
+    "summary": "OpenCode xavfsizlik buzilishiga uchradi, unda konsol foydalanuvchilari AI provayderlari bilan bog'langan holda \"distillation\" hujumiga nishon bo'ldi. Bu hodisa ishlab chiquvchi mashinalariga ta'sir qildi.",
+    "tags": [
+      "xavfsizlik",
+      "bulut"
+    ],
+    "importance": 3,
+    "score": 7,
+    "published": "2026-10-21T17:47:19.000Z",
+    "created": "2026-10-21T22:34:12.602Z",
+    "coverage": 1,
+    "source": {
+      "name": "StepSecurity",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5IMDlSVTJTVTQzXzlNNS1zSXFBRm52eFRjcUw1ZWxZcW9NZlhOekM3QUw2WlhYeUttRFlqQWNPeUFPdVBvUENDWmJYT3kySFZnZ2xCZHB3TU5LaWZLeUhSZ1ZDLUJmc3JH",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "9dec6be7afb7",
+    "slug": "ai-chiplarining-qizishi-yangi-sovutish-texnologiyalarini-tal-9dec6b",
+    "title": "AI chiplarining qizishi yangi sovutish texnologiyalarini talab qilmoqda",
+    "summary": "Sun'iy intellekt chiplarining haddan tashqari qizishi keyingi avlod sovutish texnologiyalari uchun raqobatni kuchaytirmoqda. Bu AI apparat ta'minotining muhim muammosidir.",
+    "tags": [
+      "chiplar",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 7,
+    "published": "2026-10-21T15:36:09.000Z",
+    "created": "2026-10-21T22:34:12.602Z",
+    "coverage": 1,
+    "source": {
+      "name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcG42RUEzV2JaTTVCT1ZhVnpuTzJmVzluWlMtaWloRzVaNFdjY21BdmZXZXVFSkJvT3Rka0JyeVp2WkRzVWVidTF1THBpNVpka0hsU0htWlg5bHIxYU05ZlNPLWNXTF9nY0hQVFJiRE1wWlRMTW5qNFU3VjBSNld0ZnhhSDlRVWxa",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "bcb0992b0eb3",
+    "slug": "tadqiqot-oqituvchilarning-aini-qabul-qilishi-bcb099",
+    "title": "Tadqiqot: O'qituvchilarning AI'ni qabul qilishi",
+    "summary": "Yangi tadqiqot hisobotida o'qituvchilarning sun'iy intellektni qabul qilish sabablari texnologiya nuqtai nazaridan tushuntiriladi. Bu ta'lim sohasida AI integratsiyasini o'rganadi.",
+    "tags": [
+      "ta'lim",
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 7,
+    "published": "2026-10-21T14:08:15.000Z",
+    "created": "2026-10-21T22:34:12.602Z",
+    "coverage": 1,
+    "source": {
+      "name": "Bioengineer.org",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNdDNPbkZjZk1PT1dGXzFjZzF2Znh6cnA2cHZwYk9uenE5NjVHbl9kTTBndTRaMGlTbWVubzVlNVFHbU9fU2tyZjM4WXhqbzQ5VU1wYVYyd1ZKU2hZclNyZ2RrcV92aG40dXowcm9ic2tEMm9sYVY0Nkd1NVllMHVRODR0eGFUSWQzLXA4UkRGa1JDdHdSWEt4elByaUtRNC1aZEpHaUhWcEJIdDJsTm9WX0U0S09QcUd0N2RvY1ZZdVFFMEdYSFhXc3p0aUtGTll3MnZIaDRXem5mRU1UT0JSZTZsWUthY0k",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "2586cc842635",
     "slug": "meta-ai-xarajatlari-sabab-yangi-aksiyalar-chiqaradi-2586cc",
     "title": "Meta AI xarajatlari sabab yangi aksiyalar chiqaradi",
