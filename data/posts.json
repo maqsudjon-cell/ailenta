@@ -1,5 +1,244 @@
 [
   {
+    "id": "10357d63ad94",
+    "slug": "prezident-mirziyoyev-davlat-tili-va-ai-haqida-10357d",
+    "title": "Prezident Mirziyoyev davlat tili va AI haqida",
+    "summary": "Prezident Shavkat Mirziyoyev Oʻzbek tili bayrami kuni tabrigida davlat tilining davlat xizmati, taʼlim va raqamli texnologiyalardagi oʻrnini taʼkidladi. U oʻzbek tilidagi ilmiy manbalarni koʻpaytirish va sunʼiy intellekt imkoniyatlarini kengaytirish zarurligini qayd etdi.",
+    "tags": [
+      "O'zbekiston",
+      "siyosat"
+    ],
+    "importance": 4,
+    "score": 48,
+    "published": "2026-10-21T16:06:42.000Z",
+    "created": "2026-10-21T17:42:26.444Z",
+    "coverage": 1,
+    "source": {
+      "name": "Kun.uz",
+      "url": "https://kun.uz/news/2026/10/21/shavkat-mirziyoyev-davlat-tiliga-hurmat-davlat-xizmatining-sifatida-ham-korinishi-kerak",
+      "title": "Shavkat Mirziyoyev: «Davlat tiliga hurmat davlat xizmatining sifatida ham koʻrinishi kerak».",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "d4ee518a7507",
+    "slug": "ai-nyu-york-demokratik-sotsialistlarini-bolib-yubordi-d4ee51",
+    "title": "AI Nyu-York demokratik sotsialistlarini bo'lib yubordi",
+    "summary": "Semafor xabariga ko'ra, sun'iy intellekt masalasi Nyu-Yorkdagi demokratik sotsialistlar o'rtasida bo'linishga sabab bo'ldi. Sotsialistlar AI sanoatining yomon ekanligiga rozi, ammo buning sabablari bo'yicha fikrlari turlicha.",
+    "tags": [
+      "siyosat"
+    ],
+    "importance": 2,
+    "score": 19,
+    "published": "2026-10-21T16:17:27.000Z",
+    "created": "2026-10-21T17:42:35.319Z",
+    "coverage": 1,
+    "source": {
+      "name": "Semafor",
+      "url": "https://semafor.com/article/10/21/2026/how-ai-divided-a-powerful-chapter-of-the-democratic-socialists-of-america",
+      "title": "How AI divided New York's democratic socialists",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "134776a6513d",
+    "slug": "o-zbekistonda-ai-infratuzilmasidan-bepul-foydalanish-imkoni-134776",
+    "title": "O‘zbekistonda AI infratuzilmasidan bepul foydalanish imkoni",
+    "summary": "O‘zbekistonda ayrim loyihalar sun’iy intellekt infratuzilmasidan bepul foydalanish imkoniyatiga ega bo‘ladi. Katta til modellaridan foydalanuvchi loyihalarga olti oygacha har oy 10 mln token bepul beriladi. Loyihalar tanlov asosida saralanadi.",
+    "tags": [
+      "O'zbekiston",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 48,
+    "published": "2026-10-21T15:46:36.000Z",
+    "created": "2026-10-21T17:42:35.721Z",
+    "coverage": 1,
+    "source": {
+      "name": "Daryo",
+      "url": "https://daryo.uz/2026/10/21/ozbekistonda-ayrim-loyihalar-uchun-suniy-intellekt-infratuzilmasidan-bepul-foydalanishga-ruxsat-berildi",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "e38a3ad2196f",
+    "slug": "ai-nhsga-bemorlarni-parvarishlashni-qayta-korib-chiqishga-yo-e38a3a",
+    "title": "AI NHSga bemorlarni parvarishlashni qayta ko'rib chiqishga yordam beradi",
+    "summary": "Microsoft xabariga ko'ra, sun'iy intellekt Buyuk Britaniya Milliy sog'liqni saqlash xizmati (NHS)ga bemorlarni parvarishlash usullarini qayta ko'rib chiqishda yordam bermoqda. Bu tez yordam yetib kelgunga qadar bemorlarga yordam berishga qaratilgan.",
+    "tags": [
+      "Microsoft",
+      "tibbiyot"
+    ],
+    "importance": 3,
+    "score": 33,
+    "published": "2026-10-21T16:24:40.000Z",
+    "created": "2026-10-21T17:42:35.721Z",
+    "coverage": 1,
+    "source": {
+      "name": "Microsoft",
+      "url": "https://news.microsoft.com/source/emea/features/before-the-ambulance-arrives-how-ai-is-helping-the-nhs-rethink-patient-care",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "136e8f1f2fc7",
+    "slug": "recursive-startapi-ai-yordamida-ai-yaratishga-etibor-qaratmo-136e8f",
+    "title": "Recursive startapi AI yordamida AI yaratishga e'tibor qaratmoqda",
+    "summary": "Recursive startapi sun'iy intellekt yordamida sun'iy intellekt yaratishga qaratilgan. Kompaniya AI yordamida AI yaratishning foydalari xavflaridan ustun ekanligini ta'kidlamoqda. Ularning so'nggi modeli samarali ekanligi aytilmoqda.",
+    "tags": [
+      "tadqiqot",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 26,
+    "published": "2026-10-21T16:00:00.000Z",
+    "created": "2026-10-21T17:42:35.721Z",
+    "coverage": 1,
+    "source": {
+      "name": "Wired",
+      "url": "https://wired.com/story/recursive-self-improvement-flint-latest-model-scary-good",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "fb60860febba",
+    "slug": "just-eat-ai-yaratgan-xato-tasvirlar-uchun-uzr-soradi-fb6086",
+    "title": "Just Eat AI yaratgan xato tasvirlar uchun uzr so'radi",
+    "summary": "Just Eat kompaniyasi ijtimoiy tarmoqlardagi tanqidlardan so'ng AI tomonidan yaratilgan noto'g'ri oziq-ovqat tasvirlari uchun uzr so'radi. Kompaniya vakili noto'g'ri tasvirlar olib tashlanayotganini va vositaning joriy etilishi to'xtatilganini ma'lum qildi.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 23,
+    "published": "2026-10-21T17:04:13.000Z",
+    "created": "2026-10-21T17:42:35.721Z",
+    "coverage": 1,
+    "source": {
+      "name": "BBC News",
+      "url": "https://bbc.co.uk/news/articles/crz981p0klvgo?at_medium=RSS&at_campaign=rss",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "bc9fa35f9407",
+    "slug": "ai-davrida-matematikani-organish-muhimligi-muhokama-qilindi-bc9fa3",
+    "title": "AI davrida matematikani o'rganish muhimligi muhokama qilindi",
+    "summary": "The Guardian o'quvchilari Simon Jenkinsning bolalar uchun matematikadan ko'ra ravon gapirishni o'rganish muhimroq degan maqolasiga munosabat bildirdi. Maktublarda AI davrida matematikani o'rganishning ahamiyati yanada ortib borayotgani ta'kidlandi.",
+    "tags": [
+      "ta'lim"
+    ],
+    "importance": 2,
+    "score": 23,
+    "published": "2026-10-21T16:33:12.000Z",
+    "created": "2026-10-21T17:42:35.721Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/education/2026/oct/21/in-the-age-of-ai-learning-maths-is-even-more-vital",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "ed907b3a1e01",
+    "slug": "musiqa-ixlosmandlari-ai-yaratgan-musiqani-rad-etmoqda-ed907b",
+    "title": "Musiqa ixlosmandlari AI yaratgan musiqani rad etmoqda",
+    "summary": "Musiqa ixlosmandlari va mashhur musiqachilar AI tomonidan yaratilgan musiqaga qarshi chiqmoqda. Spotify o'tgan yili tavsiyalaridan 50 millionga yaqin AI yaratgan qo'shiqni olib tashlaganini ma'lum qildi.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 23,
+    "published": "2026-10-21T13:22:51.000Z",
+    "created": "2026-10-21T17:42:35.721Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/music/2026/oct/21/artificial-intelligence-music-grimes-asap-rocky",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "8874f1aaeb83",
+    "slug": "ai-yordamida-shaxsiylashtirilgan-sogliq-maslahatlari-8874f1",
+    "title": "AI yordamida shaxsiylashtirilgan sog'liq maslahatlari",
+    "summary": "Nature jurnalida sun'iy intellektdan shaxsiylashtirilgan sog'liq maslahatlarini berishda foydalanish haqida xabar berildi. Bu AI ning tibbiyot sohasidagi yangi qo'llanilish usullaridan biri hisoblanadi.",
+    "tags": [
+      "tibbiyot",
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 20.7,
+    "published": "2026-10-21T00:00:00.000Z",
+    "created": "2026-10-21T17:42:35.721Z",
+    "coverage": 1,
+    "source": {
+      "name": "Nature",
+      "url": "https://nature.com/articles/d41586-026-03065-4",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "e31a771e3fa3",
+    "slug": "texnologiya-firmalari-data-markazlarga-munosabatni-kuzatmoqd-e31a77",
+    "title": "Texnologiya firmalari data-markazlarga munosabatni kuzatmoqda",
+    "summary": "Texnologiya firmalari, jumladan Hamlet startapi, shahar kengashi yig'ilishlarini kuzatib, data-markazlarga bo'lgan munosabatni tahlil qilmoqda. Ular mahalliy hukumatlarning video yozuvlarini tahlil qilib, loyihalarga do'stona yoki dushmanona izohlarni belgilaydi.",
+    "tags": [
+      "biznes",
+      "siyosat"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-10-21T17:13:07.000Z",
+    "created": "2026-10-21T17:42:35.721Z",
+    "coverage": 1,
+    "source": {
+      "name": "Semafor",
+      "url": "https://semafor.com/article/10/21/2026/data-center-firms-monitor-city-councils-meetings-to-track-local-sentiment",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "d309067048ea",
+    "slug": "notijorat-tashkilotlar-aiga-qiziqmoqda-ammo-yol-xaritasi-yoq-d30906",
+    "title": "Notijorat tashkilotlar AIga qiziqmoqda, ammo yo'l xaritasi yo'q",
+    "summary": "Notijorat tashkilotlar o'z missiyalarini ilgari surish uchun sun'iy intellektni qo'llashga qiziqmoqda. Biroq, Fortune xabariga ko'ra, ularning juda oz qismi AI ni ish jarayonlariga integratsiya qilgan yoki aniq yo'l xaritasiga ega.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 19,
+    "published": "2026-10-21T15:53:26.000Z",
+    "created": "2026-10-21T17:42:35.721Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/10/21/nonprofits-embracing-ai",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "ee02fd75b16a",
     "slug": "sudanda-bozordagi-dron-hujumi-ortidan-150-ga-yaqin-odam-halo-ee02fd",
     "title": "Sudanda bozordagi dron hujumi ortidan 150 ga yaqin odam halok bo‘ldi",
