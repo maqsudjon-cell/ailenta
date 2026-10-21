@@ -1,5 +1,141 @@
 [
   {
+    "id": "232180e271c3",
+    "slug": "qashqadaryo-va-anxoy-it-hamkorlikni-muhokama-qildi-232180",
+    "title": "Qashqadaryo va Anxoy IT hamkorlikni muhokama qildi",
+    "summary": "Qashqadaryo viloyati Xitoyning Anxoy provinsiyasida muhokamalar o'tkazdi. Tomonlar BPO, sun'iy intellekt, IT ta'limi va kadrlar tayyorlash kabi qo'shma loyihalarni ko'rib chiqdi.",
+    "tags": [
+      "O'zbekiston"
+    ],
+    "importance": 3,
+    "score": 44,
+    "published": "2026-10-21T07:35:00.000Z",
+    "created": "2026-10-21T07:53:45.868Z",
+    "coverage": 1,
+    "source": {
+      "name": "UzDaily",
+      "url": "https://uzdaily.uz/uz/qashqadaryo-viloyati-xitoy-bilan-it-sohasidagi-aloqalarni-rivojlantirmoqda",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "00994789573f",
+    "slug": "spacex-ai-va-starlink-xizmatlari-ortidan-foydaga-kirdi-009947",
+    "title": "SpaceX AI va Starlink xizmatlari ortidan foydaga kirdi",
+    "summary": "SpaceX AI xarajatlari keskin oshganini, lekin Starlink internet xizmati va AI mahsulotlaridan tushgan daromad ikki baravardan ko'proqqa ko'payganini ma'lum qildi. Kompaniya natijada foyda ko'rgan.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 4,
+    "score": 42,
+    "published": "2026-10-20T22:37:38.000Z",
+    "created": "2026-10-21T07:53:45.868Z",
+    "coverage": 3,
+    "source": {
+      "name": "The New York Times",
+      "url": "https://nytimes.com/2026/10/20/technology/spacex-earnings-elon-musk.html",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "Business Insider",
+        "url": "https://businessinsider.com/spacex-ai-spending-third-quarter-earnings-2026-10"
+      },
+      {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "4d31474aa3b7",
+    "slug": "ai-modellari-kiberhujumlar-tolqinini-kuchaytirmoqda-4d3147",
+    "title": "AI modellari kiberhujumlar to'lqinini kuchaytirmoqda",
+    "summary": "Mutaxassislar yangi AI modellari kiberhujumlarni oshirayotganini bildirdi. Shu oyda yuzlab saytlar buzib kirildi va 68 000 kishining bank ma'lumotlari o'g'irlandi.",
+    "tags": [
+      "xavfsizlik"
+    ],
+    "importance": 4,
+    "score": 22,
+    "published": "2026-10-21T07:00:00.000Z",
+    "created": "2026-10-21T07:53:45.868Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/10/21/powerful-new-ai-models-are-powering-a-growing-wave-of-cyber-attacks-experts-say",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "3bf5d973fd18",
+    "slug": "xiaomi-mimo-modelini-tencent-platformalariga-joyladi-3bf5d9",
+    "title": "Xiaomi MiMo modelini Tencent platformalariga joyladi",
+    "summary": "Xiaomi MiMo-V2.6-Pro modeli Tencent'ning WorkBuddy agenti va TokenHub xizmatida foydalanishga topshirildi. Model 1 million tokenli kontekst oynasiga ega.",
+    "tags": [
+      "agentlar"
+    ],
+    "importance": 3,
+    "score": 21,
+    "published": "2026-10-21T06:49:49.000Z",
+    "created": "2026-10-21T07:53:45.868Z",
+    "coverage": 1,
+    "source": {
+      "name": "Pandaily",
+      "url": "https://pandaily.com/xiaomi-mimo-v2-6-pro-tencent-workbuddy-tokenhub-1m-context",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "d34cd54ac12e",
+    "slug": "siyosiy-kampaniyalar-ai-reklamalariga-137-mln-sarfladi-d34cd5",
+    "title": "Siyosiy kampaniyalar AI reklamalariga $137 mln sarfladi",
+    "summary": "Yangi hisobotga ko'ra, siyosiy kampaniyalar AI orqali yaratilgan reklamalarga 137 million dollar sarflagan. AI kampaniya videolarining 70 foizdan ortig'ida bu haqda ogohlantirish ko'rsatilmagan.",
+    "tags": [
+      "siyosat"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-10-21T07:00:00.000Z",
+    "created": "2026-10-21T07:53:45.868Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/10/21/political-campaigns-ai-advertisement-spending-137-million-republicans-misinformation",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "c11379055cfb",
+    "slug": "primebot-va-pekin-universiteti-yangi-robot-usulini-yaratdi-c11379",
+    "title": "PrimeBot va Pekin universiteti yangi robot usulini yaratdi",
+    "summary": "Pekin universiteti va PrimeBot tadqiqotchilari HIL-UMI tizimini taqdim etdi. Usul qo'l moslamasi yordamida robot ma'lumotlarini yig'ish samadorligini HG-DAgger'ga nisbatan 5,6 baravar oshiradi.",
+    "tags": [
+      "robototexnika",
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-10-21T06:49:23.000Z",
+    "created": "2026-10-21T07:53:45.868Z",
+    "coverage": 1,
+    "source": {
+      "name": "Pandaily",
+      "url": "https://pandaily.com/peking-university-primebot-hil-umi-robot-free-human-in-loop-vla-post-training",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "49f9d8e726ab",
     "slug": "ai-energiya-istemoli-ozgarishiga-tasir-qilmoqda-49f9d8",
     "title": "AI energiya iste'moli o'zgarishiga ta'sir qilmoqda",

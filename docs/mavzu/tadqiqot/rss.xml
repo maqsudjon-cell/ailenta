@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/tadqiqot/</link>
   <description>&quot;tadqiqot&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Wed, 21 Oct 2026 07:14:43 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 21 Oct 2026 08:00:12 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/tadqiqot/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>PrimeBot va Pekin universiteti yangi robot usulini yaratdi</title>
+    <link>https://ailenta.uz/x/primebot-va-pekin-universiteti-yangi-robot-usulini-yaratdi-c11379/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/primebot-va-pekin-universiteti-yangi-robot-usulini-yaratdi-c11379/</guid>
+    <pubDate>Wed, 21 Oct 2026 06:49:23 GMT</pubDate>
+    <description>Pekin universiteti va PrimeBot tadqiqotchilari HIL-UMI tizimini taqdim etdi. Usul qo'l moslamasi yordamida robot ma'lumotlarini yig'ish samadorligini HG-DAgger'ga nisbatan 5,6 baravar oshiradi.</description>
+    <category>robototexnika</category><category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/primebot-va-pekin-universiteti-yangi-robot-usulini-yaratdi-c11379.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/primebot-va-pekin-universiteti-yangi-robot-usulini-yaratdi-c11379.jpg"/>
+  </item>
   <item>
     <title>Hanwha va Anthropic AI va inson qadriyatlarini san'atda o'rgandi</title>
     <link>https://ailenta.uz/x/hanwha-va-anthropic-ai-va-inson-qadriyatlarini-sanatda-organ-1f73af/</link>
@@ -296,16 +306,6 @@
     <category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/ai-matematika-sohasini-ozgartirmoqda-ade6d2.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/ai-matematika-sohasini-ozgartirmoqda-ade6d2.jpg"/>
-  </item>
-  <item>
-    <title>AI agentlar uchun aniq spetsifikatsiyalar muhim</title>
-    <link>https://ailenta.uz/x/ai-agentlar-uchun-aniq-spetsifikatsiyalar-muhim-a1eb57/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/ai-agentlar-uchun-aniq-spetsifikatsiyalar-muhim-a1eb57/</guid>
-    <pubDate>Mon, 19 Oct 2026 07:58:17 GMT</pubDate>
-    <description>Arxitektor Aleksey Sobolekov agentlarga asoslangan dasturiy ta'minotni ishlab chiqishda aniq spetsifikatsiyalar yaratish muhimligini ta'kidladi. Uning so'zlariga ko'ra, ko'pincha spetsifikatsiyalar juda batafsil yoki kontekstdan uzilgan bo'ladi.</description>
-    <category>agentlar</category><category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/ai-agentlar-uchun-aniq-spetsifikatsiyalar-muhim-a1eb57.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/ai-agentlar-uchun-aniq-spetsifikatsiyalar-muhim-a1eb57.jpg"/>
   </item>
 </channel>
 </rss>
