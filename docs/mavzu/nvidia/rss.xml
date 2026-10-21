@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/nvidia/</link>
   <description>&quot;Nvidia&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Wed, 21 Oct 2026 17:47:38 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 21 Oct 2026 18:08:46 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/nvidia/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Simulyatsiyada o'qitish, robotda qo'llash: Microduck va Isaac Lab 3.0</title>
+    <link>https://ailenta.uz/x/simulyatsiyada-oqitish-robotda-qollash-microduck-va-isaac-la-13017f/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/simulyatsiyada-oqitish-robotda-qollash-microduck-va-isaac-la-13017f/</guid>
+    <pubDate>Wed, 21 Oct 2026 17:58:42 GMT</pubDate>
+    <description>Microduck roboti Isaac Lab 3.0 yordamida simulyatsiyada o'qitilib, real robotlarda qo'llanilmoqda. Bu yondashuv robototexnikada samaradorlikni oshirishga qaratilgan.</description>
+    <category>robototexnika</category><category>Nvidia</category>
+    <media:content url="https://ailenta.uz/og/simulyatsiyada-oqitish-robotda-qollash-microduck-va-isaac-la-13017f.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/simulyatsiyada-oqitish-robotda-qollash-microduck-va-isaac-la-13017f.jpg"/>
+  </item>
   <item>
     <title>Jensen Xuanning nutqida norozilik va robot nosozligi yuz berdi</title>
     <link>https://ailenta.uz/x/jensen-xuanning-nutqida-norozilik-va-robot-nosozligi-yuz-ber-50cdeb/</link>
@@ -296,16 +306,6 @@
     <category>Nvidia</category><category>chiplar</category>
     <media:content url="https://ailenta.uz/og/nvidia-chiplari-aqsh-nazoratiga-qaramay-xitoyga-yetmoqda-f4cafc.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/nvidia-chiplari-aqsh-nazoratiga-qaramay-xitoyga-yetmoqda-f4cafc.jpg"/>
-  </item>
-  <item>
-    <title>Synopsys chip yaratish uchun agentli AI taqdim etdi</title>
-    <link>https://ailenta.uz/x/synopsys-chip-yaratish-uchun-agentli-ai-taqdim-etdi-d8c50c/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/synopsys-chip-yaratish-uchun-agentli-ai-taqdim-etdi-d8c50c/</guid>
-    <pubDate>Fri, 02 Oct 2026 01:34:00 GMT</pubDate>
-    <description>Synopsys kompaniyasi chiplarni loyihalash uchun agentli sun'iy intellekt tizimini ishga tushirdi. Ushbu loyihada kompaniya Samsung, Nvidia va Intel bilan hamkorlik qilmoqda.</description>
-    <category>Nvidia</category><category>Intel</category>
-    <media:content url="https://ailenta.uz/og/synopsys-chip-yaratish-uchun-agentli-ai-taqdim-etdi-d8c50c.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/synopsys-chip-yaratish-uchun-agentli-ai-taqdim-etdi-d8c50c.jpg"/>
   </item>
 </channel>
 </rss>

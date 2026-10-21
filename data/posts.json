@@ -1,5 +1,115 @@
 [
   {
+    "id": "13017feda779",
+    "slug": "simulyatsiyada-oqitish-robotda-qollash-microduck-va-isaac-la-13017f",
+    "title": "Simulyatsiyada o'qitish, robotda qo'llash: Microduck va Isaac Lab 3.0",
+    "summary": "Microduck roboti Isaac Lab 3.0 yordamida simulyatsiyada o'qitilib, real robotlarda qo'llanilmoqda. Bu yondashuv robototexnikada samaradorlikni oshirishga qaratilgan.",
+    "tags": [
+      "robototexnika",
+      "Nvidia"
+    ],
+    "importance": 3,
+    "score": 25,
+    "published": "2026-10-21T17:58:42.000Z",
+    "created": "2026-10-21T18:01:38.929Z",
+    "coverage": 1,
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/blog/nvidia/microduck-isaac-lab-sim-to-real",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "bc155d9bfb3a",
+    "slug": "ai-rivoji-ai-haqida-yozuvchilarga-foyda-keltirmoqda-bc155d",
+    "title": "AI rivoji AI haqida yozuvchilarga foyda keltirmoqda",
+    "summary": "AI sohasidagi jadal o'sish sun'iy intellekt haqida yozuvchi mutaxassislar uchun ijobiy ta'sir ko'rsatmoqda. Bu tendensiya AQSh iqtisodiyotiga ham ta'sir qilmoqda.",
+    "tags": [
+      "mehnat bozori",
+      "iqtisod"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-10-21T15:47:24.000Z",
+    "created": "2026-10-21T18:01:38.929Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/derek-thompson-ai-substack-data-centers-video-interview-podcast-kafka-2026-10",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "81ac8f63e34c",
+    "slug": "mach9-ai-cad-dasturi-uchun-34-mln-sarmoya-jalb-qildi-81ac8f",
+    "title": "Mach9 AI-CAD dasturi uchun $34 mln sarmoya jalb qildi",
+    "summary": "Mach9 kompaniyasi AI asosidagi CAD dasturi uchun $34 mln miqdorida A seriyali sarmoya oldi. Dastur muhandislar uchun vizual tekshiruvlarni yaxshilashga qaratilgan.",
+    "tags": [
+      "biznes",
+      "robototexnika"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-10-21T14:30:02.000Z",
+    "created": "2026-10-21T18:01:38.929Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/261021/p33",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "a73ae608493b",
+    "slug": "anthropic-ai-50-hayotga-tahdid-solsa-ochiriladi-a73ae6",
+    "title": "Anthropic AI 50 hayotga tahdid solsa o'chiriladi",
+    "summary": "Anthropic kompaniyasi nazoratsiz AI 50 kishining hayotiga tahdid solganidan keyingina o'chirilishi kerakligini taklif qildi. Bu taklif AI xavfsizligi bo'yicha munozaralarga sabab bo'ldi.",
+    "tags": [
+      "Anthropic",
+      "xavfsizlik"
+    ],
+    "importance": 5,
+    "score": 10,
+    "published": "2026-10-21T15:41:04.000Z",
+    "created": "2026-10-21T18:01:38.929Z",
+    "coverage": 1,
+    "source": {
+      "name": "Novara Media",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVFJOUkZGQWhibG0zbnh3N2ppX0phbXJ4cXVwT25sWVd2SDViVm5SU3dwdzV1bjhzcUw5VXNOTGlLTGttRk9keG40cEFMSS12ZU1DU1VpQ1FXM0dVTGU5M0g2bk9MTWV5WHhFUFVJb1pBTG90VXQ1ZjB0M3FoWUxyb0p0RUI4aFZJemdWSmJUWXBMYzlRVVhOREYyRGZlWHV3Skl3dXJTV3V6bExGQ0E",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "4375e77bca0d",
+    "slug": "anthropic-daromadi-14-8-barobar-oshdi-ammo-katta-zarar-kordi-4375e7",
+    "title": "Anthropic daromadi 14.8 barobar oshdi, ammo katta zarar ko'rdi",
+    "summary": "Anthropic kompaniyasining daromadi 14.8 barobar oshganiga qaramay, u 107 trillion von miqdorida zarar ko'rdi. Bu AI startaplarining jadal o'sishi va yuqori xarajatlarini ko'rsatadi.",
+    "tags": [
+      "Anthropic",
+      "biznes"
+    ],
+    "importance": 4,
+    "score": 7,
+    "published": "2026-10-21T15:36:09.000Z",
+    "created": "2026-10-21T18:01:38.929Z",
+    "coverage": 1,
+    "source": {
+      "name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQc1FFV3lmUkFnNnRFODF3WHhMNlVmS3dKU2V4NHpIbTYydTF2TTIxaTFXUDI2VmhGTTFVQ29LMGRqeDgxRzRfMUVNOVpiOHF0cHBlc0dVaFVOWlUtZV9PMHVadTVESUVjaXpqelRJeVh3YWFRb3NON1Y2Yjd1eEFpazJ0RGdvbXNN",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "10357d63ad94",
     "slug": "prezident-mirziyoyev-davlat-tili-va-ai-haqida-10357d",
     "title": "Prezident Mirziyoyev davlat tili va AI haqida",
