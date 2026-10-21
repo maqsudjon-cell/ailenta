@@ -1,5 +1,98 @@
 [
   {
+    "id": "37c31a12e6ce",
+    "slug": "avto-texnologiya-startapi-raqibini-xakerlikda-aybladi-37c31a",
+    "title": "Avto texnologiya startapi raqibini xakerlikda aybladi",
+    "summary": "IQ.Lvbs avto texnologiya startapi xakerlik urinishini raqib kompaniya Comma.ai'ning IP manziliga bog'laganini da'vo qildi. Bu holat raqobatdagi adolatsiz o'yinlarga ishora qilmoqda.",
+    "tags": [
+      "biznes",
+      "xavfsizlik"
+    ],
+    "importance": 2,
+    "score": 19,
+    "published": "2026-10-20T22:00:46.000Z",
+    "created": "2026-10-21T03:37:06.325Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/cyber-crime/2026/10/20/auto-tech-startup-claims-it-traced-hack-attempt-back-to-rivals-ip-address/5304281",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "dd8747983c69",
+    "slug": "anthropic-bulut-hamkorliklarida-muammolarga-duch-kelmoqda-dd8747",
+    "title": "Anthropic bulut hamkorliklarida muammolarga duch kelmoqda",
+    "summary": "Anthropic kompaniyasi bulut provayderlaridan yetarli hisoblash quvvatini olishda qiyinchiliklarga duch kelmoqda. Bu provayderlar Anthropicni raqobatchi sifatida ko'rmoqda, kompaniyaning infratuzilma xarajatlari esa oshib bormoqda.",
+    "tags": [
+      "Anthropic",
+      "bulut"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-10-20T21:25:22.000Z",
+    "created": "2026-10-21T03:37:06.326Z",
+    "coverage": 1,
+    "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "319f79c551ee",
+    "slug": "metaning-muse-ilovasi-40-kunda-10-mln-yuklamaga-yetdi-319f79",
+    "title": "Meta'ning Muse ilovasi 40 kunda 10 mln yuklamaga yetdi",
+    "summary": "Meta'ning Muse ilovasi AQSHda 40 kun ichida 10 million yuklamaga erishdi. Bu ko'rsatkichga atigi 11 ta boshqa ilova yetgan. Yangi ma'lumotlarga ko'ra, Muse foydalanuvchilarni AI raqiblariga qaraganda yaxshiroq ushlab qolmoqda.",
+    "tags": [
+      "Meta",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-10-20T17:12:48.000Z",
+    "created": "2026-10-21T03:37:06.326Z",
+    "coverage": 1,
+    "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "fa2f41f8111b",
+    "slug": "ai-chip-aksiyalari-qayta-kotarilmoqda-fa2f41",
+    "title": "AI chip aksiyalari qayta ko'tarilmoqda",
+    "summary": "Gipermiqyosli kompaniyalarning daromadlari yaqinlashar ekan, AI chip aksiyalari qayta ko'tarildi. Meta kompaniyasining kapital jalb qilish harakatlari ham diqqat markazida.",
+    "tags": [
+      "chiplar",
+      "iqtisod"
+    ],
+    "importance": 3,
+    "score": 11.2,
+    "published": "2026-10-20T11:00:25.000Z",
+    "created": "2026-10-21T03:37:06.326Z",
+    "coverage": 2,
+    "source": {
+      "name": "AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAwMkFmdlZWTTJ3Y005Y1JrSHZIdDh4bjZKQjdrM3FKSUlSR3NkaEIxanZrbWV6TFdLbkRvRGhDemxENlgwamd5SUxzanNuSGJ6VEdkckpkR3hkT1BhcXhBby1sRGtnLVVJemNpclB5WGlnSU1kS21TbS1n",
+      "indirect": true
+    },
+    "also": [
+      {
+        "name": "24/7 Wall St.",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVDBqcUlXdU5sa0R5OWFJdnJNSmUzOW9ONWIxejVfTnJZTkxPbjlsV3l1TER0Ti1neGwwT2x1V2VyQnF2RDlaUkQyOU4zUkxXNXBjUWhvcU9LOXFHUnJUSnVJOHBNd2VtcUxIWjdZd3c0RlUwdE03QVFRZl9JVjBWT25NN2xzV0tvTldtc3dkdk04VXZ4MzFrMERULS1PY1g0ZWJEZ05WQ0tNRy0xTk5zVVJaSE1KeWVzeEcwWlVVb3R1LXBo"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
     "id": "5c1fcf6d10bb",
     "slug": "ai-rallisi-uoll-stritda-susaymoqda-5c1fcf",
     "title": "AI rallisi Uoll-Stritda susaymoqda",

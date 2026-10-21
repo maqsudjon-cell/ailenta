@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/chiplar/</link>
   <description>&quot;chiplar&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Wed, 21 Oct 2026 03:10:03 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 21 Oct 2026 03:44:23 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/chiplar/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>AI chip aksiyalari qayta ko'tarilmoqda</title>
+    <link>https://ailenta.uz/x/ai-chip-aksiyalari-qayta-kotarilmoqda-fa2f41/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/ai-chip-aksiyalari-qayta-kotarilmoqda-fa2f41/</guid>
+    <pubDate>Tue, 20 Oct 2026 11:00:25 GMT</pubDate>
+    <description>Gipermiqyosli kompaniyalarning daromadlari yaqinlashar ekan, AI chip aksiyalari qayta ko'tarildi. Meta kompaniyasining kapital jalb qilish harakatlari ham diqqat markazida.</description>
+    <category>chiplar</category><category>iqtisod</category>
+    <media:content url="https://ailenta.uz/og/ai-chip-aksiyalari-qayta-kotarilmoqda-fa2f41.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/ai-chip-aksiyalari-qayta-kotarilmoqda-fa2f41.jpg"/>
+  </item>
   <item>
     <title>Samsung AI chiplari uchun yangi zavod qurmoqda</title>
     <link>https://ailenta.uz/x/samsung-ai-chiplari-uchun-yangi-zavod-qurmoqda-0e27f9/</link>
@@ -296,16 +306,6 @@
     <category>chiplar</category><category>biznes</category>
     <media:content url="https://ailenta.uz/og/sunmmio-ai-xulosa-chiqarish-chiplari-uchun-sarmoya-jalb-qild-e7ab23.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/sunmmio-ai-xulosa-chiqarish-chiplari-uchun-sarmoya-jalb-qild-e7ab23.jpg"/>
-  </item>
-  <item>
-    <title>KV-kash transporti MiniMax-M3 xulosa chiqarishga ta'siri</title>
-    <link>https://ailenta.uz/x/kv-kash-transporti-minimax-m3-xulosa-chiqarishga-tasiri-6e3143/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/kv-kash-transporti-minimax-m3-xulosa-chiqarishga-tasiri-6e3143/</guid>
-    <pubDate>Tue, 13 Oct 2026 21:29:50 GMT</pubDate>
-    <description>Habr nashrida KV-kash transportining ajratilgan xulosa chiqarish (disaggregated inference) samaradorligiga ta'siri o'rganildi. Tadqiqotda prefill va decode bosqichlari turli GPU-tugunlarda bajariladigan MiniMax-M3 modelining ishlashi Nvidia B200 chiplari yordamida sinovdan o'tkazildi.</description>
-    <category>tadqiqot</category><category>chiplar</category>
-    <media:content url="https://ailenta.uz/og/kv-kash-transporti-minimax-m3-xulosa-chiqarishga-tasiri-6e3143.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/kv-kash-transporti-minimax-m3-xulosa-chiqarishga-tasiri-6e3143.jpg"/>
   </item>
 </channel>
 </rss>

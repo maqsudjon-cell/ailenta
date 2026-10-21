@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/anthropic/</link>
   <description>&quot;Anthropic&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Wed, 21 Oct 2026 03:10:03 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 21 Oct 2026 03:44:23 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/anthropic/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Anthropic bulut hamkorliklarida muammolarga duch kelmoqda</title>
+    <link>https://ailenta.uz/x/anthropic-bulut-hamkorliklarida-muammolarga-duch-kelmoqda-dd8747/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/anthropic-bulut-hamkorliklarida-muammolarga-duch-kelmoqda-dd8747/</guid>
+    <pubDate>Tue, 20 Oct 2026 21:25:22 GMT</pubDate>
+    <description>Anthropic kompaniyasi bulut provayderlaridan yetarli hisoblash quvvatini olishda qiyinchiliklarga duch kelmoqda. Bu provayderlar Anthropicni raqobatchi sifatida ko'rmoqda, kompaniyaning infratuzilma xarajatlari esa oshib bormoqda.</description>
+    <category>Anthropic</category><category>bulut</category>
+    <media:content url="https://ailenta.uz/og/anthropic-bulut-hamkorliklarida-muammolarga-duch-kelmoqda-dd8747.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/anthropic-bulut-hamkorliklarida-muammolarga-duch-kelmoqda-dd8747.jpg"/>
+  </item>
   <item>
     <title>Anthropic va Mask AI xayriyasiga turli yondashmoqda</title>
     <link>https://ailenta.uz/x/anthropic-va-mask-ai-xayriyasiga-turli-yondashmoqda-dd9d61/</link>
@@ -296,16 +306,6 @@
     <category>Anthropic</category><category>robototexnika</category>
     <media:content url="https://ailenta.uz/og/anthropic-robot-va-ai-ishning-80-foiziga-yetishi-mumkin-c63ad7.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/anthropic-robot-va-ai-ishning-80-foiziga-yetishi-mumkin-c63ad7.jpg"/>
-  </item>
-  <item>
-    <title>Claude NIST egri chiziqlari sirlarini ochdi</title>
-    <link>https://ailenta.uz/x/claude-nist-egri-chiziqlari-sirlarini-ochdi-042efc/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/claude-nist-egri-chiziqlari-sirlarini-ochdi-042efc/</guid>
-    <pubDate>Sat, 17 Oct 2026 16:05:32 GMT</pubDate>
-    <description>25 yil davomida NIST P-192…P-521 standart egri chiziqlari seed'larining kelib chiqishi noma'lum edi. Claude AI modeli yarim soat ichida ularning 1997-1998 yillardagi Unix vaqti bilan bog'liqligini aniqladi.</description>
-    <category>tadqiqot</category><category>Anthropic</category>
-    <media:content url="https://ailenta.uz/og/claude-nist-egri-chiziqlari-sirlarini-ochdi-042efc.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/claude-nist-egri-chiziqlari-sirlarini-ochdi-042efc.jpg"/>
   </item>
 </channel>
 </rss>
