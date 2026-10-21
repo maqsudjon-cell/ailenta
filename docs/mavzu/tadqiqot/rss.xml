@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/tadqiqot/</link>
   <description>&quot;tadqiqot&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Wed, 21 Oct 2026 05:09:55 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 21 Oct 2026 05:31:22 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/tadqiqot/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>AI tizimlarida ko'p qirrali moslashuv</title>
+    <link>https://ailenta.uz/x/ai-tizimlarida-kop-qirrali-moslashuv-31ea58/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/ai-tizimlarida-kop-qirrali-moslashuv-31ea58/</guid>
+    <pubDate>Wed, 21 Oct 2026 04:00:00 GMT</pubDate>
+    <description>Tadqiqotchilar AI tizimlarini turli xil foydalanuvchilar afzalliklaridan o'rganish va xatti-harakatlarini shaxsiylashtirish uchun yangi P3L tizimini taklif qildi. Bu anonim fikr-mulohazalardan foydalanish imkonini beradi.</description>
+    <category>tadqiqot</category><category>maxfiylik</category>
+    <media:content url="https://ailenta.uz/og/ai-tizimlarida-kop-qirrali-moslashuv-31ea58.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/ai-tizimlarida-kop-qirrali-moslashuv-31ea58.jpg"/>
+  </item>
   <item>
     <title>Audio multiplayer Battle Drones RTS o'yini yaratildi</title>
     <link>https://ailenta.uz/x/audio-multiplayer-battle-drones-rts-oyini-yaratildi-4dc8a5/</link>
@@ -296,16 +306,6 @@
     <category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/kichik-ai-modellari-uchun-yangi-usul-taklif-qilindi-590003.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/kichik-ai-modellari-uchun-yangi-usul-taklif-qilindi-590003.jpg"/>
-  </item>
-  <item>
-    <title>LLMlarda foydalanuvchi vektor tasvirlarini qayta ko‘rish</title>
-    <link>https://ailenta.uz/x/llmlarda-foydalanuvchi-vektor-tasvirlarini-qayta-ko-rish-2bee23/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/llmlarda-foydalanuvchi-vektor-tasvirlarini-qayta-ko-rish-2bee23/</guid>
-    <pubDate>Mon, 19 Oct 2026 04:00:00 GMT</pubDate>
-    <description>Yangi tadqiqot LLMlarda foydalanuvchi vektor tasvirlarini qayta ko‘rib chiqadi. Unda mavjud usullarning cheklovlari muhokama qilinib, turli stsenariylar uchun moslashuvchan foydalanuvchi tasvirlarini yaratish taklif etiladi.</description>
-    <category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/llmlarda-foydalanuvchi-vektor-tasvirlarini-qayta-ko-rish-2bee23.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/llmlarda-foydalanuvchi-vektor-tasvirlarini-qayta-ko-rish-2bee23.jpg"/>
   </item>
 </channel>
 </rss>

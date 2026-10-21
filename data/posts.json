@@ -1,5 +1,49 @@
 [
   {
+    "id": "7e2717e56ec7",
+    "slug": "xitoy-kompaniyalari-nvidia-chiplariga-katta-buyurtmalar-berd-7e2717",
+    "title": "Xitoy kompaniyalari Nvidia chiplariga katta buyurtmalar berdi",
+    "summary": "Reuters va Financial Times ma'lumotlariga ko'ra, Xitoyning texnologiya kompaniyalari Nvidia chiplariga yirik buyurtmalar bergan. Bu sun'iy intellekt uchun hisoblash quvvatlariga bo'lgan talabning o'sishi bilan bog'liq.",
+    "tags": [
+      "Nvidia",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 44,
+    "published": "2026-10-21T04:47:25.000Z",
+    "created": "2026-10-21T05:23:03.536Z",
+    "coverage": 1,
+    "source": {
+      "name": "Review.uz",
+      "url": "https://review.uz/post/jahon-matbuoti-sharhi-21112026",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "31ea5844c817",
+    "slug": "ai-tizimlarida-kop-qirrali-moslashuv-31ea58",
+    "title": "AI tizimlarida ko'p qirrali moslashuv",
+    "summary": "Tadqiqotchilar AI tizimlarini turli xil foydalanuvchilar afzalliklaridan o'rganish va xatti-harakatlarini shaxsiylashtirish uchun yangi P3L tizimini taklif qildi. Bu anonim fikr-mulohazalardan foydalanish imkonini beradi.",
+    "tags": [
+      "tadqiqot",
+      "maxfiylik"
+    ],
+    "importance": 3,
+    "score": 10,
+    "published": "2026-10-21T04:00:00.000Z",
+    "created": "2026-10-21T05:23:03.536Z",
+    "coverage": 1,
+    "source": {
+      "name": "arXiv cs.LG",
+      "url": "https://arxiv.org/abs/2610.26914",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "6bc0a4e087e6",
     "slug": "janubiy-sharqiy-osiyo-raqamli-iqtisodiyoti-1-trln-boladi-6bc0a4",
     "title": "Janubiy-Sharqiy Osiyo raqamli iqtisodiyoti $1 trln bo'ladi",
