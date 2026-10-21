@@ -1,5 +1,114 @@
 [
   {
+    "id": "e25ece074aed",
+    "slug": "malayziyada-davlat-xizmatchilariga-waze-ilovasi-taqiqlandi-e25ece",
+    "title": "Malayziyada davlat xizmatchilariga Waze ilovasi taqiqlandi",
+    "summary": "Malayziya davlat xizmatchilariga Isroilda yaratilgan Waze ilovasidan foydalanishni taqiqladi. Bu qaror ma'lumotlar xavfsizligini ta'minlash va davlat axborotlarini himoya qilish maqsadida qabul qilindi.",
+    "tags": [
+      "xavfsizlik",
+      "siyosat"
+    ],
+    "importance": 3,
+    "score": 45,
+    "published": "2026-10-21T18:38:14.000Z",
+    "created": "2026-10-21T19:02:41.963Z",
+    "coverage": 1,
+    "source": {
+      "name": "Daryo",
+      "url": "https://daryo.uz/2026/10/21/malayziyada-davlat-xizmatchilariga-isroilda-yaratilgan-waze-ilovasini-ishlatish-taqiqlandi",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "29f2c46e2716",
+    "slug": "gm-2-yil-ichida-ai-boshqaruvli-avtomobillarni-joriy-etadi-29f2c4",
+    "title": "GM 2 yil ichida AI boshqaruvli avtomobillarni joriy etadi",
+    "summary": "General Motors (GM) 2 yil ichida AI yordamida \"ko'zlarsiz\" haydash imkoniyatiga ega avtomobillarni chiqarishni maqsad qilgan. Kompaniya Xitoy raqobatchilariga yetib olish uchun sun'iy intellektdan foydalanmoqda.",
+    "tags": [
+      "biznes",
+      "robototexnika"
+    ],
+    "importance": 3,
+    "score": 30,
+    "published": "2026-10-21T18:23:52.000Z",
+    "created": "2026-10-21T19:02:41.963Z",
+    "coverage": 1,
+    "source": {
+      "name": "The New York Times",
+      "url": "https://nytimes.com/2026/10/21/business/gm-ai-electric-vehicles-china.html",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "c1694d54ef32",
+    "slug": "ai-xakerlarni-murakkab-hujumchilarga-aylantirishi-mumkin-c1694d",
+    "title": "AI xakerlarni murakkab hujumchilarga aylantirishi mumkin",
+    "summary": "AI oddiy \"skript kiddie\" xakerlarni murakkab infratuzilma hujumchilariga aylantirish salohiyatiga ega. Bu haqda The Register nashri xabar berdi.",
+    "tags": [
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-10-21T12:00:00.000Z",
+    "created": "2026-10-21T19:02:41.963Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/security/2026/10/21/ai-has-potential-to-turn-script-kiddies-into-sophisticated-infrastructure-attackers/5304297",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "bc3db2ab0157",
+    "slug": "flapping-airplanes-1-mlrd-sarmoya-jalb-qildi-bc3db2",
+    "title": "Flapping Airplanes $1 mlrd sarmoya jalb qildi",
+    "summary": "Bir yoshli Flapping Airplanes AI startapi 6 milliard dollarlik bahoda 1 milliard dollar sarmoya jalb qildi. Kompaniya AI modellarini kamroq ma'lumot va hisoblash quvvati bilan o'qitish ustida ishlamoqda.",
+    "tags": [
+      "biznes",
+      "chiplar"
+    ],
+    "importance": 4,
+    "score": 18,
+    "published": "2026-10-21T17:45:08.000Z",
+    "created": "2026-10-21T19:02:41.963Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/261021/p43",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "159facaffe78",
+    "slug": "ai-bozor-yetakchilarini-ozgartirmoqda-159fac",
+    "title": "AI bozor yetakchilarini o'zgartirmoqda",
+    "summary": "Venchur investor Sasha Juravlevning fikricha, sun'iy intellekt bozor yetakchilarini va butun bir davrni o'zgartirmoqda. U o'z telegram kanalida bozor haqidagi qarashlari va investitsiya qarorlari haqida ma'lumot beradi.",
+    "tags": [
+      "biznes",
+      "iqtisod"
+    ],
+    "importance": 2,
+    "score": 11,
+    "published": "2026-10-21T12:12:46.000Z",
+    "created": "2026-10-21T19:02:41.963Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1097306",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "13017feda779",
     "slug": "simulyatsiyada-oqitish-robotda-qollash-microduck-va-isaac-la-13017f",
     "title": "Simulyatsiyada o'qitish, robotda qo'llash: Microduck va Isaac Lab 3.0",
