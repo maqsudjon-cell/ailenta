@@ -1,5 +1,71 @@
 [
   {
+    "id": "c293969135c7",
+    "slug": "ai-saylovlarda-notogri-malumot-tarqatishda-qollanilmoqda-c29396",
+    "title": "AI saylovlarda noto'g'ri ma'lumot tarqatishda qo'llanilmoqda",
+    "summary": "Partiyaviy aktyorlar Braziliya, Isroil va AQShdagi muhim saylovlar oldidan AI platformalaridan noto'g'ri ma'lumot tarqatish uchun foydalanmoqda. Bu sun'iy intellektning saylov jarayonlariga ta'sirini ko'rsatadi.",
+    "tags": [
+      "siyosat",
+      "xavfsizlik"
+    ],
+    "importance": 4,
+    "score": 19,
+    "published": "2026-10-22T22:28:04.000Z",
+    "created": "2026-10-22T22:34:15.258Z",
+    "coverage": 1,
+    "source": {
+      "name": "Semafor",
+      "url": "https://semafor.com/article/10/22/2026/ai-is-reshaping-high-stakes-elections-around-the-world",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "cec2f20b5c8c",
+    "slug": "ai-kt-skanerlashda-yurak-yalliglanishini-aniqladi-cec2f2",
+    "title": "AI KT skanerlashda yurak yallig'lanishini aniqladi",
+    "summary": "Sun'iy intellekt KT skanerlash tahlili natijasida bemorlarning 42.9 foizida koronar yallig'lanish borligini aniqladi. Bu AI ning tibbiyotdagi diagnostika imkoniyatlarini ko'rsatadi.",
+    "tags": [
+      "tibbiyot",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 17.8,
+    "published": "2026-10-22T18:02:54.000Z",
+    "created": "2026-10-22T22:34:15.258Z",
+    "coverage": 1,
+    "source": {
+      "name": "Hacker News",
+      "url": "https://biograph.com/newsroom/biograph-completes-first-u.s.-study-with-caristo-diagnostics%E2%80%99-ai-powered-coronary-inflammation-detection-finding-risk-in-over-42-of-asymptomatic-patients",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "b3031fe15863",
+    "slug": "musiqa-nashriyotchilari-claude-matnlaridan-shikoyatda-b3031f",
+    "title": "Musiqa nashriyotchilari Claude matnlaridan shikoyatda",
+    "summary": "Musiqa nashriyotchilari Anthropic kompaniyasining Claude AI modeli yaratgan qo'shiq matnlari haqiqiy matnlarni \"suyultirayotganini\" ta'kidlamoqda. Bu Anthropicga qarshi so'nggi sud jarayonlarida aytildi.",
+    "tags": [
+      "Anthropic",
+      "qonun"
+    ],
+    "importance": 4,
+    "score": 7,
+    "published": "2026-10-22T16:22:12.000Z",
+    "created": "2026-10-22T22:34:15.258Z",
+    "coverage": 1,
+    "source": {
+      "name": "completemusicupdate.com",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQOWpvb1diTkptLTRNVHVVRWtyNlBjTzYyOGZHWnlFdDcxSmNrclNmUHBhQzlqMXkxdkpGVEFPS1FZSmFrb1dzSGN1TVZ3TjNOTDR5dzhzRVFWRUVxV3VMdFktVXVHMFNzSC11WlNQcWx2NXNkdzV6OEZQVGttQnFRVmdsY2wxU2Vlb3dwLUZhLS1LazZBb1htWmFFalo0cDk0RFVrMk5BeVJXQmNKOHlJM083UW5FVTZZS2E1dC03NEN4WU0",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "9c0164f8b2fb",
     "slug": "ai-aksiyalari-pasayishi-jahon-bozorlariga-tasir-qildi-9c0164",
     "title": "AI aksiyalari pasayishi jahon bozorlariga ta'sir qildi",
