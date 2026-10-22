@@ -1,9 +1,31 @@
 [
   {
+    "id": "1f1b14f4d8c1",
+    "slug": "goldman-ai-11-ishchidan-birini-ishdan-boshatishi-mumkin-1f1b14",
+    "title": "Goldman: AI 11 ishchidan birini ishdan bo'shatishi mumkin",
+    "summary": "Goldman Sachs ma'lumotiga ko'ra, sun'iy intellekt 11 ishchidan birini ishdan bo'shatishi mumkin. Kompaniyalar avtomatizatsiya bilan bog'liq ishdan bo'shatishlarni odatda iqtisodiy tanazzulga qoldirgan.",
+    "tags": [
+      "iqtisod",
+      "mehnat bozori"
+    ],
+    "importance": 4,
+    "score": 19,
+    "published": "2026-10-22T18:20:53.000Z",
+    "created": "2026-10-22T18:47:44.259Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/10/22/goldman-sachs-forecast-how-many-jobs-lost-to-ai-9-percent",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "18837672148b",
-    "slug": "nintendo-switch-2-ai-yordamida-buzildi-188376",
-    "title": "Nintendo Switch 2 AI yordamida buzildi",
-    "summary": "Nintendo Switch 2 konsoli eski o'yin va AI yordamida buzilgani xabar qilindi. Modder OpenAI'ning Codex modelidan foydalanib, konsolda Mario Kart World'ning o'zgartirilgan versiyasini ishga tushirgan.",
+    "slug": "nintendo-switch-2-ai-yordamida-buzib-kirildi-188376",
+    "title": "Nintendo Switch 2 AI yordamida buzib kirildi",
+    "summary": "Nintendo Switch 2 konsoli buzib kirilgani va unda o'zgartirilgan Mario Kart World o'yini ishlayotgani ma'lum bo'ldi. Bu \"jailbreak\"ni amalga oshirishda OpenAI'ning Codex modeli yordam bergan.",
     "tags": [
       "OpenAI",
       "xavfsizlik"
@@ -11,7 +33,7 @@
     "importance": 3,
     "score": 15,
     "published": "2026-10-22T17:21:31.000Z",
-    "created": "2026-10-22T18:37:35.293Z",
+    "created": "2026-10-22T18:47:44.259Z",
     "coverage": 1,
     "source": {
       "name": "The Verge",
@@ -22,32 +44,10 @@
     "model": "gemini"
   },
   {
-    "id": "c777cca0670d",
-    "slug": "data-markazlar-texasda-havo-sifatini-yomonlashtirishi-mumkin-c777cc",
-    "title": "Data-markazlar Texasda havo sifatini yomonlashtirishi mumkin",
-    "summary": "Generativ AI infratuzilmasi uchun qurilayotgan yangi data-markazlar Texasda havo ifloslanishini oshirishi mumkin. Bu 2000-yillardan beri kuzatilmagan darajaga yetib, havo sifati bo'yicha erishilgan yutuqlarni yo'qqa chiqarishi mumkin.",
-    "tags": [
-      "siyosat",
-      "biznes"
-    ],
-    "importance": 4,
-    "score": 11.8,
-    "published": "2026-10-21T22:33:44.000Z",
-    "created": "2026-10-22T18:37:35.293Z",
-    "coverage": 1,
-    "source": {
-      "name": "The Verge",
-      "url": "https://theverge.com/ai-artificial-intelligence/1015958/data-center-pollution-rising-report",
-      "indirect": false
-    },
-    "also": [],
-    "model": "gemini"
-  },
-  {
     "id": "8f20a119db75",
-    "slug": "google-robots-txt-ai-oqitish-uchun-kontentni-bloklamaydi-8f20a1",
-    "title": "Google: robots.txt AI o'qitish uchun kontentni bloklamaydi",
-    "summary": "Google'dan Gari Illyesning ta'kidlashicha, robots.txt fayli faqat saytni krauling qilishni cheklaydi. U kontentni AI modellarini o'qitish uchun ishlatishni taqiqlamaydi.",
+    "slug": "google-robots-txt-ai-oqitish-uchun-kontentni-cheklamaydi-8f20a1",
+    "title": "Google: robots.txt AI o'qitish uchun kontentni cheklamaydi",
+    "summary": "Google vakili Gari Illyesning ta'kidlashicha, robots.txt fayli faqat saytni krauling qilishni cheklaydi. U kontentni sun'iy intellektni o'qitish uchun ishlatishni taqiqlamaydi.",
     "tags": [
       "Google",
       "qonun"
@@ -55,7 +55,7 @@
     "importance": 4,
     "score": 11,
     "published": "2026-10-22T11:20:54.000Z",
-    "created": "2026-10-22T18:37:35.293Z",
+    "created": "2026-10-22T18:47:44.259Z",
     "coverage": 1,
     "source": {
       "name": "Habr",
