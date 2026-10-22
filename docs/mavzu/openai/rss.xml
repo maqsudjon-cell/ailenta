@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/openai/</link>
   <description>&quot;OpenAI&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Thu, 22 Oct 2026 18:09:36 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 22 Oct 2026 18:46:00 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/openai/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Nintendo Switch 2 AI yordamida buzildi</title>
+    <link>https://ailenta.uz/x/nintendo-switch-2-ai-yordamida-buzildi-188376/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/nintendo-switch-2-ai-yordamida-buzildi-188376/</guid>
+    <pubDate>Thu, 22 Oct 2026 17:21:31 GMT</pubDate>
+    <description>Nintendo Switch 2 konsoli eski o'yin va AI yordamida buzilgani xabar qilindi. Modder OpenAI'ning Codex modelidan foydalanib, konsolda Mario Kart World'ning o'zgartirilgan versiyasini ishga tushirgan.</description>
+    <category>OpenAI</category><category>xavfsizlik</category>
+    <media:content url="https://ailenta.uz/og/nintendo-switch-2-ai-yordamida-buzildi-188376.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/nintendo-switch-2-ai-yordamida-buzildi-188376.jpg"/>
+  </item>
   <item>
     <title>PHP'da ikki kritik zaiflik topildi, NSA yangilashga chaqirdi</title>
     <link>https://ailenta.uz/x/phpda-ikki-kritik-zaiflik-topildi-nsa-yangilashga-chaqirdi-36de33/</link>
@@ -296,16 +306,6 @@
     <category>tadqiqot</category><category>OpenAI</category>
     <media:content url="https://ailenta.uz/og/ai-yechilmagan-matematik-muammoni-hal-qildi-0155ff.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/ai-yechilmagan-matematik-muammoni-hal-qildi-0155ff.jpg"/>
-  </item>
-  <item>
-    <title>Sam Altman AI xavfi va tartibga solish haqida</title>
-    <link>https://ailenta.uz/x/sam-altman-ai-xavfi-va-tartibga-solish-haqida-33effd/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/sam-altman-ai-xavfi-va-tartibga-solish-haqida-33effd/</guid>
-    <pubDate>Mon, 05 Oct 2026 11:40:01 GMT</pubDate>
-    <description>OpenAI bosh direktori Sam Altman Vanity Fair nashriga bergan intervyusida AI’ning yo‘q bo‘lish xavfi, o‘z-o‘zini nazorat qilish va tartibga solish masalalarini muhokama qildi.</description>
-    <category>OpenAI</category><category>xavfsizlik</category>
-    <media:content url="https://ailenta.uz/og/sam-altman-ai-xavfi-va-tartibga-solish-haqida-33effd.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/sam-altman-ai-xavfi-va-tartibga-solish-haqida-33effd.jpg"/>
   </item>
 </channel>
 </rss>
