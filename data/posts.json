@@ -1,17 +1,44 @@
 [
   {
-    "id": "d1b19037538a",
-    "slug": "xitoy-xakerlari-ai-orqali-minglab-kompaniyaga-hujum-qildi-d1b190",
-    "title": "Xitoy xakerlari AI orqali minglab kompaniyaga hujum qildi",
-    "summary": "Microsoft ma'lumotlariga ko'ra, Xitoy bilan bog'liq xakerlar ConnectWise kompaniyasini buzib kirgan. Ular AI agentlaridan foydalanib, minglab mijozlarga tezda hujum qilgan.",
+    "id": "9c0164f8b2fb",
+    "slug": "ai-aksiyalari-pasayishi-jahon-bozorlariga-tasir-qildi-9c0164",
+    "title": "AI aksiyalari pasayishi jahon bozorlariga ta'sir qildi",
+    "summary": "Ma'lumot markazlari va chip xarajatlari tufayli AI sohasidagi aksiyalar narxi keskin tushib ketdi. Oqibatda S&P 500 indeksi 1,2 foizga, Nasdaq esa 2,6 foizga pasaydi. Boshqa sohalar aksiyalarining aksariyati esa o'sish ko'rsatgan.",
     "tags": [
-      "xavfsizlik",
-      "agentlar"
+      "iqtisod",
+      "chiplar"
+    ],
+    "importance": 4,
+    "score": 32,
+    "published": "2026-10-22T21:50:13.000Z",
+    "created": "2026-10-22T22:12:54.090Z",
+    "coverage": 2,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/business/2026/oct/22/stock-markets-drop-ai-oil",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "The Korea Times",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUmtnVENtdzFwcTdlTDFNZEphMVJZREtlaGU3TW5UVFdWcERIS0pwUVVUS0VrZXMzUGVCSEM2TUxSTEpNV0FmNFZzX3pJTHdyMDN1U29VMmsyUzA5TmZUTmJ5MTZpbE9xNElPTjJWaE1fbXUwQnVfUjhfUlVlcUdwaC0tQ295aXljdUVCRGJSTndZT2tqNmxtdF9USVFtVnYtTlZQZlI0bXFnM2lrYkp1UldUYUEwSHpmb2dPSnE5ckNOT2t50gHEAUFVX3lxTFBSa2dUQ213MXBxN2VMMU1kSmExUllES2VoZTdNblRUV1ZwREhLSnBRVVRLRWtlczNQZUJIQzZNTFJMSk1XQWY0VnNfeklMd3IwM3VTb1UyazJTMDlOZlROYnkxNmlsT3E0SU9OMlZoTV9tdTBCdV9SOF9SVWVxR3BoLS1Db3lpeWN1RUJEYlJOd1lPa2o2bG10X1RJUW1Wdi1OVlBmUjRtcWczaWtiSnVSV1RhQTBIemZvZ09KcTlyQ05Pa3k"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "d1b19037538a",
+    "slug": "connectwise-buzilishida-ai-agentlaridan-foydalanilgan-d1b190",
+    "title": "ConnectWise buzilishida AI agentlaridan foydalanilgan",
+    "summary": "Microsoft ConnectWise kompaniyasiga qilingan kiberhujumda Xitoyga aloqador xakerni aybladi. Tizim buzilishida minglab mijozlar ma'lumotlariga tezkorlik bilan kirish uchun AI agentlaridan foydalanilgan.",
+    "tags": [
+      "Microsoft",
+      "xavfsizlik"
     ],
     "importance": 4,
     "score": 15,
     "published": "2026-10-22T16:47:17.000Z",
-    "created": "2026-10-22T22:01:34.168Z",
+    "created": "2026-10-22T22:12:54.090Z",
     "coverage": 1,
     "source": {
       "name": "TechCrunch",
