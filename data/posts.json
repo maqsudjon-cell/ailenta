@@ -1,5 +1,71 @@
 [
   {
+    "id": "8305dc0f8293",
+    "slug": "chatgptda-suhbatlarni-pin-kod-yoki-face-id-bilan-yashirish-m-8305dc",
+    "title": "ChatGPT’da suhbatlarni PIN-kod yoki Face ID bilan yashirish mumkin",
+    "summary": "OpenAI ChatGPT'da \"Locked Chats\" funksiyasini ishga tushirdi. Bu foydalanuvchilarga shaxsiy suhbatlarni PIN-kod yoki biometrik autentifikatsiya orqali yashirish imkonini beradi.",
+    "tags": [
+      "OpenAI",
+      "maxfiylik"
+    ],
+    "importance": 3,
+    "score": 48,
+    "published": "2026-10-22T07:50:26.000Z",
+    "created": "2026-10-22T08:02:09.268Z",
+    "coverage": 1,
+    "source": {
+      "name": "Pivot",
+      "url": "https://pivot.uz/uz/chatgptda-suhbatlarni-pin-kod-yoki-face-id-bilan-yashirish-mumkin",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "0daeb1a9c6e5",
+    "slug": "ai-integratsiya-spetsifikatsiyasini-yozib-qaror-qabul-qildi-0daeb1",
+    "title": "AI integratsiya spetsifikatsiyasini yozib, qaror qabul qildi",
+    "summary": "AI loyiha uchun integratsiya spetsifikatsiyasini yozib, ba'zi talablarni mijoz bilan kelishmasdan mustaqil ravishda shakllantirdi. Bu holat loyihalar uchun xavfli bo'lishi mumkin.",
+    "tags": [
+      "tadqiqot",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 20,
+    "published": "2026-10-22T07:06:50.000Z",
+    "created": "2026-10-22T08:02:09.268Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/companies/otus/articles/1088892",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "5e923b26669f",
+    "slug": "ppg-asosida-yurak-urish-tezligini-baholash-uchun-ai-modeli-5e923b",
+    "title": "PPG asosida yurak urish tezligini baholash uchun AI modeli",
+    "summary": "Yangi TF-IG modeli fotopletizmografiya (PPG) asosida yurak urish tezligini samarali baholash uchun mo'ljallangan. U vaqt va chastota domenidagi ma'lumotlarni birlashtiradi.",
+    "tags": [
+      "tadqiqot",
+      "tibbiyot"
+    ],
+    "importance": 2,
+    "score": 7,
+    "published": "2026-10-22T04:00:00.000Z",
+    "created": "2026-10-22T08:02:09.268Z",
+    "coverage": 1,
+    "source": {
+      "name": "arXiv cs.LG",
+      "url": "https://arxiv.org/abs/2610.28693",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "d161c4dcc3c5",
     "slug": "tongyan-lingzhi-shaxsiy-ai-modellarini-yaratmoqda-d161c4",
     "title": "Tongyan Lingzhi shaxsiy AI modellarini yaratmoqda",
