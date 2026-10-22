@@ -1,5 +1,71 @@
 [
   {
+    "id": "484943f3dc6f",
+    "slug": "spacex-ai-quvvati-o-zbekiston-elektr-ishlab-chiqarishidan-os-484943",
+    "title": "SpaceX AI quvvati O‘zbekiston elektr ishlab chiqarishidan oshishi mumkin",
+    "summary": "Elon Musk SpaceX'ning AI infratuzilmasini 2027-yil oxirigacha 13 GW hisoblash quvvatiga yetkazishni rejalashtirmoqda. Bu quvvat O‘zbekistonning 2025-yildagi jami elektr ishlab chiqarishidan qariyb 31 foiz yuqori bo‘lishi mumkin.",
+    "tags": [
+      "O'zbekiston",
+      "biznes"
+    ],
+    "importance": 4,
+    "score": 51,
+    "published": "2026-10-22T08:02:30.000Z",
+    "created": "2026-10-22T09:03:02.538Z",
+    "coverage": 1,
+    "source": {
+      "name": "Pivot",
+      "url": "https://pivot.uz/uz/spacexning-ai-hisoblash-quvvati-ozbekistonning-yillik-elektr-ishlab-chiqarish-hajmidan-oshishi-mumkin",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "d9b3705f190a",
+    "slug": "beeline-uzbekistan-ai-strategiyasini-muhokama-qildi-d9b370",
+    "title": "Beeline Uzbekistan AI strategiyasini muhokama qildi",
+    "summary": "VEON rahbariyati Demo Day doirasida Beeline Uzbekistanning raqamli xizmatlari va sunʼiy intellekt strategiyasining keyingi bosqichini muhokama qildi.",
+    "tags": [
+      "O'zbekiston",
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 44,
+    "published": "2026-10-22T08:00:00.000Z",
+    "created": "2026-10-22T09:03:02.539Z",
+    "coverage": 1,
+    "source": {
+      "name": "UzDaily",
+      "url": "https://uzdaily.uz/uz/aloqadan-kengroq-beeline-uzbekistan-raqamli-xizmatlarni-kundalik-hayotning-bir-qismiga-aylantirmoqda",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "3db6bc6806da",
+    "slug": "aqsh-atom-energetikasi-aini-faol-ozlashtirmoqda-3db6bc",
+    "title": "AQSh atom energetikasi AI'ni faol o'zlashtirmoqda",
+    "summary": "AQSh atom energetikasi sanoati sun'iy intellektni faol qo'llashni boshladi. Ko'plab kompaniyalar AI texnologiyalarini atom elektr stansiyalarida xavfsizlik va samaradorlikni oshirish uchun joriy etmoqda.",
+    "tags": [
+      "biznes",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 11,
+    "published": "2026-10-22T08:24:59.000Z",
+    "created": "2026-10-22T09:03:02.539Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1097518",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "8305dc0f8293",
     "slug": "chatgptda-suhbatlarni-pin-kod-yoki-face-id-bilan-yashirish-m-8305dc",
     "title": "ChatGPT’da suhbatlarni PIN-kod yoki Face ID bilan yashirish mumkin",
