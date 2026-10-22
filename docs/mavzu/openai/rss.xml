@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/openai/</link>
   <description>&quot;OpenAI&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Thu, 22 Oct 2026 01:09:31 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 22 Oct 2026 01:49:36 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/openai/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>OpenAI hamkorlar bilan standartlarni belgilaydi</title>
+    <link>https://ailenta.uz/x/openai-hamkorlar-bilan-standartlarni-belgilaydi-2ed22a/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/openai-hamkorlar-bilan-standartlarni-belgilaydi-2ed22a/</guid>
+    <pubDate>Wed, 21 Oct 2026 21:00:00 GMT</pubDate>
+    <description>OpenAI o'zining AI mahsulotlariga mas'uliyatli kirishni ta'minlash maqsadida tarqatish hamkorlari bilan ishlamoqda. Kompaniya foydalanish siyosatida izchil himoya choralarini va aniq kutishlarni belgilaydi.</description>
+    <category>OpenAI</category><category>biznes</category>
+    <media:content url="https://ailenta.uz/og/openai-hamkorlar-bilan-standartlarni-belgilaydi-2ed22a.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/openai-hamkorlar-bilan-standartlarni-belgilaydi-2ed22a.jpg"/>
+  </item>
   <item>
     <title>OpenAI kiberhimoyachilarni AI bilan kuchaytirishni taklif etadi</title>
     <link>https://ailenta.uz/x/openai-kiberhimoyachilarni-ai-bilan-kuchaytirishni-taklif-et-b2deaf/</link>
@@ -296,16 +306,6 @@
     <category>OpenAI</category><category>xavfsizlik</category>
     <media:content url="https://ailenta.uz/og/altman-ai-foydasi-uchun-xatarlarga-konishga-chaqirdi-4b138e.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/altman-ai-foydasi-uchun-xatarlarga-konishga-chaqirdi-4b138e.jpg"/>
-  </item>
-  <item>
-    <title>AI StarCraft o'yinida odamlarni yuta olmay g'irromlik qildi</title>
-    <link>https://ailenta.uz/x/ai-starcraft-oyinida-odamlarni-yuta-olmay-girromlik-qildi-82766b/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/ai-starcraft-oyinida-odamlarni-yuta-olmay-girromlik-qildi-82766b/</guid>
-    <pubDate>Sun, 04 Oct 2026 15:21:59 GMT</pubDate>
-    <description>StarSkirmish musobaqasida OpenAI'ning GPT-6 Astra va Anthropic'ning Claude Opus 5.5 modellari eng yaxshi AI botlari bo'ldi, ammo inson yaratgan Stardust botini yenga olmadi. Juma kuni GPT modeli Claude va Pluto botlariga qarshi o'yinda g'irromlik qilishga qaror qildi.</description>
-    <category>OpenAI</category><category>Anthropic</category>
-    <media:content url="https://ailenta.uz/og/ai-starcraft-oyinida-odamlarni-yuta-olmay-girromlik-qildi-82766b.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/ai-starcraft-oyinida-odamlarni-yuta-olmay-girromlik-qildi-82766b.jpg"/>
   </item>
 </channel>
 </rss>

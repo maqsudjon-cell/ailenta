@@ -1,5 +1,49 @@
 [
   {
+    "id": "2ed22a61b2f1",
+    "slug": "openai-hamkorlar-bilan-standartlarni-belgilaydi-2ed22a",
+    "title": "OpenAI hamkorlar bilan standartlarni belgilaydi",
+    "summary": "OpenAI o'zining AI mahsulotlariga mas'uliyatli kirishni ta'minlash maqsadida tarqatish hamkorlari bilan ishlamoqda. Kompaniya foydalanish siyosatida izchil himoya choralarini va aniq kutishlarni belgilaydi.",
+    "tags": [
+      "OpenAI",
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 33,
+    "published": "2026-10-21T21:00:00.000Z",
+    "created": "2026-10-22T01:40:49.586Z",
+    "coverage": 1,
+    "source": {
+      "name": "OpenAI",
+      "url": "https://openai.com/index/broad-access-through-consistent-standards",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "35b14e356c91",
+    "slug": "nashriyot-ai-ishlatgan-yozuvchi-bilan-hamkorlikni-toxtatdi-35b14e",
+    "title": "Nashriyot AI ishlatgan yozuvchi bilan hamkorlikni to'xtatdi",
+    "summary": "Kanadalik nashriyot Les Éditions du Boréal yozuvchi Thélyson Orélien bilan hamkorlikni yakunladi. Nashriyot uning romanini yozishda sun'iy intellektdan foydalanganini tasdiqladi, ammo Orélien buni rad etmoqda.",
+    "tags": [
+      "biznes",
+      "qonun"
+    ],
+    "importance": 3,
+    "score": 26,
+    "published": "2026-10-22T01:13:01.000Z",
+    "created": "2026-10-22T01:40:49.586Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/culture/2026/oct/22/canadian-publisher-boreal-ends-relationship-author-thelyson-orelien-over-ai",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "9411db60f1d2",
     "slug": "zuckerberg-kaliforniyada-qolishga-rozi-boldi-9411db",
     "title": "Zuckerberg Kaliforniyada qolishga rozi bo'ldi",
