@@ -2,14 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
-    <loc>https://ailenta.uz/x/goldman-ai-11-ishchidan-birini-ishdan-boshatishi-mumkin-1f1b14/</loc>
+    <loc>https://ailenta.uz/x/ai-agentlari-ppodan-250-barobar-kam-tajriba-talab-qiladi-b6b618/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>AI Lenta</news:name>
+        <news:language>uz</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22T18:56:36.000Z</news:publication_date>
+      <news:title>AI agentlari PPO'dan 250 barobar kam tajriba talab qiladi</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://ailenta.uz/x/goldman-sachs-ai-11-ishchidan-birini-siqib-chiqarishi-mumkin-1f1b14/</loc>
     <news:news>
       <news:publication>
         <news:name>AI Lenta</news:name>
         <news:language>uz</news:language>
       </news:publication>
       <news:publication_date>2026-10-22T18:20:53.000Z</news:publication_date>
-      <news:title>Goldman: AI 11 ishchidan birini ishdan bo'shatishi mumkin</news:title>
+      <news:title>Goldman Sachs: AI 11 ishchidan birini siqib chiqarishi mumkin</news:title>
     </news:news>
   </url>
   <url>
@@ -32,6 +43,17 @@
       </news:publication>
       <news:publication_date>2026-10-22T17:21:31.000Z</news:publication_date>
       <news:title>Nintendo Switch 2 AI yordamida buzib kirildi</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://ailenta.uz/x/anthropic-mijozlari-haftalab-davom-etgan-hisob-kitob-muammol-5e250c/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>AI Lenta</news:name>
+        <news:language>uz</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22T16:53:00.000Z</news:publication_date>
+      <news:title>Anthropic mijozlari haftalab davom etgan hisob-kitob muammolaridan shikoyatda</news:title>
     </news:news>
   </url>
   <url>
@@ -670,6 +692,17 @@
       </news:publication>
       <news:publication_date>2026-10-21T20:52:19.000Z</news:publication_date>
       <news:title>Tesla foydasi 56%ga tushdi, AI xarajatlari oshdi</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://ailenta.uz/x/meta-daromadi-64-6-mlrdga-yetdi-ammo-foyda-kamaydi-d8cc46/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>AI Lenta</news:name>
+        <news:language>uz</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-21T20:17:00.000Z</news:publication_date>
+      <news:title>Meta daromadi $64.6 mlrdga yetdi, ammo foyda kamaydi</news:title>
     </news:news>
   </url>
   <url>
@@ -1704,17 +1737,6 @@
       </news:publication>
       <news:publication_date>2026-10-20T19:30:00.000Z</news:publication_date>
       <news:title>Anthropic S-1: O'sish, xavflar va xarajatlar</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://ailenta.uz/x/guardian-aqsh-saylovlari-texnologiya-kompaniyalari-haqida-ce74de/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>AI Lenta</news:name>
-        <news:language>uz</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T19:16:05.000Z</news:publication_date>
-      <news:title>Guardian: AQSH saylovlari texnologiya kompaniyalari haqida</news:title>
     </news:news>
   </url>
 </urlset>

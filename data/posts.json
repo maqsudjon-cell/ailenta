@@ -1,9 +1,9 @@
 [
   {
     "id": "1f1b14f4d8c1",
-    "slug": "goldman-ai-11-ishchidan-birini-ishdan-boshatishi-mumkin-1f1b14",
-    "title": "Goldman: AI 11 ishchidan birini ishdan bo'shatishi mumkin",
-    "summary": "Goldman Sachs ma'lumotiga ko'ra, sun'iy intellekt 11 ishchidan birini ishdan bo'shatishi mumkin. Kompaniyalar avtomatizatsiya bilan bog'liq ishdan bo'shatishlarni odatda iqtisodiy tanazzulga qoldirgan.",
+    "slug": "goldman-sachs-ai-11-ishchidan-birini-siqib-chiqarishi-mumkin-1f1b14",
+    "title": "Goldman Sachs: AI 11 ishchidan birini siqib chiqarishi mumkin",
+    "summary": "Goldman Sachs hisobotiga ko'ra, sun'iy intellekt 11 ishchidan birini ishdan bo'shatishi mumkin. Biroq, kompaniyalar avtomatizatsiya bilan bog'liq ishdan bo'shatishlarni iqtisodiy tanazzulga qoldirishi kutilmoqda.",
     "tags": [
       "iqtisod",
       "mehnat bozori"
@@ -11,12 +11,78 @@
     "importance": 4,
     "score": 19,
     "published": "2026-10-22T18:20:53.000Z",
-    "created": "2026-10-22T18:47:44.259Z",
+    "created": "2026-10-22T19:06:22.785Z",
     "coverage": 1,
     "source": {
       "name": "Fortune",
       "url": "https://fortune.com/2026/10/22/goldman-sachs-forecast-how-many-jobs-lost-to-ai-9-percent",
       "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "d8cc462586b0",
+    "slug": "meta-daromadi-64-6-mlrdga-yetdi-ammo-foyda-kamaydi-d8cc46",
+    "title": "Meta daromadi $64.6 mlrdga yetdi, ammo foyda kamaydi",
+    "summary": "Meta kompaniyasining daromadi 64.6 milliard dollarga yetdi. Biroq, sud kelishuvlari va AIga qilingan sarmoyalar tufayli kompaniya foydasi bosim ostida qoldi.",
+    "tags": [
+      "Meta",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 14.7,
+    "published": "2026-10-21T20:17:00.000Z",
+    "created": "2026-10-22T19:06:22.786Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVnRYbmxBN1VjVzRYU0FieTZJWllTOVZIZVVVVy1ZUVZtM0p2QzM3MmJiWkxXMXhOUDNmQmZQOFBRQ09rUDJzUEFqangyeGZSNjhvQjlnVC1BU0l3bVJDRTAzUE9qZG1kcmdkMnFTa0FnYi05d2lwNjVOd1ZscWtMMg",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "b6b61871023a",
+    "slug": "ai-agentlari-ppodan-250-barobar-kam-tajriba-talab-qiladi-b6b618",
+    "title": "AI agentlari PPO'dan 250 barobar kam tajriba talab qiladi",
+    "summary": "Bir AI ishlab chiquvchisi agentlar yordamida AI yaratdi. Bu AI PPO'ga nisbatan 250 barobar kam tajriba talab qiladi va WorldBased Spiked Neuralsymbolic AI deb nomlanadi.",
+    "tags": [
+      "tadqiqot",
+      "agentlar"
+    ],
+    "importance": 3,
+    "score": 11,
+    "published": "2026-10-22T18:56:36.000Z",
+    "created": "2026-10-22T19:06:22.786Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1098108",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "5e250c382e4e",
+    "slug": "anthropic-mijozlari-haftalab-davom-etgan-hisob-kitob-muammol-5e250c",
+    "title": "Anthropic mijozlari haftalab davom etgan hisob-kitob muammolaridan shikoyatda",
+    "summary": "Kaliforniyadagi Anthropic mijozlari haftalar davomida hisob-kitobdagi nosozliklar bilan kurashganini ma'lum qildi. Ular inson yordamisiz qolganliklarini ta'kidladi.",
+    "tags": [
+      "Anthropic",
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 7,
+    "published": "2026-10-22T16:53:00.000Z",
+    "created": "2026-10-22T19:06:22.786Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Cool Down",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQVpZR0MzMmR5Y3M2SzJYQ1plVWFHbmhhQ0VyanVlUUlJT3gzTmR5NWcyaHk5c1pQVXdQQ180RjN0YlVXemtTOUZCVDFoSWdwVzdtQWl4WHptcEpHM1NNNUVqTWZMaXRnU1FuRTREUDJORGFGVU5IX0QzV0J3a2dwODNaWC15QzNXQ0o4",
+      "indirect": true
     },
     "also": [],
     "model": "gemini"
