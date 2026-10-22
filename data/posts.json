@@ -1,5 +1,68 @@
 [
   {
+    "id": "d161c4dcc3c5",
+    "slug": "tongyan-lingzhi-shaxsiy-ai-modellarini-yaratmoqda-d161c4",
+    "title": "Tongyan Lingzhi shaxsiy AI modellarini yaratmoqda",
+    "summary": "Tongyan Lingzhi loyihasi shaxsiy AI yaratish ustida ishlamoqda. Tizim foydalanuvchi va jamoa ko'nikmalarini yengil LoRA og'irliklarida saqlaydi hamda vaqt o'tishi bilan yangilanib boradi.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 18,
+    "published": "2026-10-22T07:10:57.000Z",
+    "created": "2026-10-22T07:49:26.384Z",
+    "coverage": 1,
+    "source": {
+      "name": "Pandaily",
+      "url": "https://pandaily.com/bigai-tongyan-lingzhi-personal-lora-rsi-self-improving-personal-ai",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "b4e7bb3d0baa",
+    "slug": "flagos-2-2-operatsiyalar-kutubxonasini-kengaytirdi-b4e7bb",
+    "title": "FlagOS 2.2 operatsiyalar kutubxonasini kengaytirdi",
+    "summary": "Pekin sun'iy intellekt akademiyasining FlagOS 2.2 tizimi o'z kutubxonalaridagi operatorlar sonini 1454 taga yetkazdi. Bu ko'rsatkich 10 turdagi AI chiplarida operatsiyalar tezligini taxminan 27 foizga oshirgan.",
+    "tags": [
+      "chiplar"
+    ],
+    "importance": 3,
+    "score": 18,
+    "published": "2026-10-22T07:10:44.000Z",
+    "created": "2026-10-22T07:49:26.384Z",
+    "coverage": 1,
+    "source": {
+      "name": "Pandaily",
+      "url": "https://pandaily.com/baai-flagos-2-2-cross-chip-operator-libraries-1454-operators-ascend-kernelgen",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "e95ab2d5a3ab",
+    "slug": "tairex-shifoxonalar-uchun-ai-avatarlarni-taqdim-etdi-e95ab2",
+    "title": "Tairex shifoxonalar uchun AI avatarlarni taqdim etdi",
+    "summary": "Tsinghua AIR qoshidagi Tairex kompaniyasi MHAC karkasini ishga tushirdi. Tizim shifokorlarga maslahat uchun boshqa mutaxassislarning AI avatarlarini chaqirish imkonini beradi, lekin yakuniy qarorni inson-shifokor qabul qiladi.",
+    "tags": [
+      "tibbiyot"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-10-22T07:11:23.000Z",
+    "created": "2026-10-22T07:49:26.384Z",
+    "coverage": 1,
+    "source": {
+      "name": "Pandaily",
+      "url": "https://pandaily.com/tairex-agent-hospital-mhac-multidisciplinary-human-agent-collaboration-outpatient",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "a0eb3a751306",
     "slug": "venchur-fondlar-ai-startaplar-uchun-raqobatlashmoqda-a0eb3a",
     "title": "Venchur fondlar AI startaplar uchun raqobatlashmoqda",
