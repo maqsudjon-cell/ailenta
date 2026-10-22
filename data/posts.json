@@ -1,5 +1,27 @@
 [
   {
+    "id": "6fcd064ec64e",
+    "slug": "microsoft-2250-ta-bulut-tizimi-buzilganini-bildirdi-6fcd06",
+    "title": "Microsoft 2250 ta bulut tizimi buzilganini bildirdi",
+    "summary": "Microsoft ConnectWise buzilishi oqibatida xitoylik josuslar 2250 ta bulut tizimiga kirganini ma'lum qildi. Xakerlar AI agentlar yordamida ayrim muhitlarga uch soatdan kam vaqt ichida imtiyozli kirish huquqiga ega bo'lgan.",
+    "tags": [
+      "Microsoft",
+      "xavfsizlik"
+    ],
+    "importance": 4,
+    "score": 19,
+    "published": "2026-10-22T11:28:00.000Z",
+    "created": "2026-10-22T14:00:01.575Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/security/2026/10/22/microsoft-says-connectwise-breach-let-chinese-spies-loose-on-2250-cloud-tenants/5304687",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "d9eeede92346",
     "slug": "enact-robototexnika-30-mln-sarmoya-bilan-ish-boshladi-d9eeed",
     "title": "Enact robototexnika $30 mln sarmoya bilan ish boshladi",
