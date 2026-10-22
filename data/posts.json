@@ -1,9 +1,9 @@
 [
   {
     "id": "6fcd064ec64e",
-    "slug": "microsoft-2250-ta-bulut-tizimi-buzilganini-bildirdi-6fcd06",
-    "title": "Microsoft 2250 ta bulut tizimi buzilganini bildirdi",
-    "summary": "Microsoft ConnectWise buzilishi oqibatida xitoylik josuslar 2250 ta bulut tizimiga kirganini ma'lum qildi. Xakerlar AI agentlar yordamida ayrim muhitlarga uch soatdan kam vaqt ichida imtiyozli kirish huquqiga ega bo'lgan.",
+    "slug": "xitoylik-xakerlar-ai-yordamida-bulutga-kirdi-6fcd06",
+    "title": "Xitoylik xakerlar AI yordamida bulutga kirdi",
+    "summary": "Microsoft xabariga ko'ra, ConnectWise buzilishi oqibatida xitoylik josuslar 2 250 ta bulut ijarachisiga kirgan. Hujumda AI agentlaridan foydalanilgan bo'lib, xakerlar ba'zi muhitlarda imtiyozli kirish huquqini 3 soatdan kamroq vaqt ichida qo'lga kiritgan.",
     "tags": [
       "Microsoft",
       "xavfsizlik"
@@ -11,11 +11,32 @@
     "importance": 4,
     "score": 19,
     "published": "2026-10-22T11:28:00.000Z",
-    "created": "2026-10-22T14:00:01.575Z",
+    "created": "2026-10-22T14:06:54.183Z",
     "coverage": 1,
     "source": {
       "name": "The Register",
       "url": "https://theregister.com/security/2026/10/22/microsoft-says-connectwise-breach-let-chinese-spies-loose-on-2250-cloud-tenants/5304687",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "d2c9aa9349dc",
+    "slug": "nirva-ai-kuloni-uchun-33-million-dollar-topladi-d2c9aa",
+    "title": "Nirva AI kuloni uchun 33 million dollar to'pladi",
+    "summary": "Nirva startapi faqat foydalanuvchini tinglaydigan AI kulonini yaratish uchun 33 million dollar jalb qildi. Narxi 249 dollar bo'lgan mazkur qurilma yil oxirigacha yetkazib berilishi rejalashtirilgan.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-10-22T13:26:52.000Z",
+    "created": "2026-10-22T14:06:54.183Z",
+    "coverage": 1,
+    "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/22/nirva-raises-33m-for-a-pendant-that-only-listens-to-you",
       "indirect": false
     },
     "also": [],
