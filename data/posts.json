@@ -1,5 +1,70 @@
 [
   {
+    "id": "70399cbe269f",
+    "slug": "aged-intelligence-society-ayollarga-ai-sohasiga-kirishga-yor-70399c",
+    "title": "Aged Intelligence Society ayollarga AI sohasiga kirishga yordam beradi",
+    "summary": "Aged Intelligence Society ayollarni AI vositalari yordamida o'rta yosh muammolarini hal qilish uchun birlashtiruvchi startapdir. WIRED nashri uning asoschilari bilan suhbatlashdi.",
+    "tags": [
+      "mehnat bozori",
+      "ta'lim"
+    ],
+    "importance": 2,
+    "score": 23,
+    "published": "2026-10-22T19:56:32.000Z",
+    "created": "2026-10-22T20:02:05.844Z",
+    "coverage": 1,
+    "source": {
+      "name": "Wired",
+      "url": "https://wired.com/story/aged-intelligence-society-interview",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "9c6552bd6dc0",
+    "slug": "de-staat-guruhining-klipida-ai-vizual-effektlari-ishlatildi-9c6552",
+    "title": "De Staat guruhining klipida AI vizual effektlari ishlatildi",
+    "summary": "Niderlandiyalik De Staat rok guruhi o'zining \"Freedom\" nomli yangi musiqiy videosida AI yordamida yaratilgan vizual effektlardan foydalandi. Effektlar Matties Grooten tomonidan tayyorlangan.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 1,
+    "score": 15,
+    "published": "2026-10-22T19:42:26.000Z",
+    "created": "2026-10-22T20:02:05.844Z",
+    "coverage": 1,
+    "source": {
+      "name": "Simon Willison",
+      "url": "https://simonwillison.net/2026/Oct/22/de-staat-freedom",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "0d3fe72a38ef",
+    "slug": "ai-agentlar-hisobotlarda-raqam-toqimaslikka-orgatildi-0d3fe7",
+    "title": "AI agentlar hisobotlarda raqam to'qimaslikka o'rgatildi",
+    "summary": "KW-7 AI korporativ yordamchisida AI agentlariga hisobotlarda raqamlarni to'qib chiqarmaslik o'rgatildi. Bu maqsadlarni avtonom bajarish modulini yaratish doirasida amalga oshirildi.",
+    "tags": [
+      "agentlar",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 11,
+    "published": "2026-10-22T19:35:45.000Z",
+    "created": "2026-10-22T20:02:05.844Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1098124",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "1f1b14f4d8c1",
     "slug": "goldman-sachs-ai-11-ishchidan-birini-siqib-chiqarishi-mumkin-1f1b14",
     "title": "Goldman Sachs: AI 11 ishchidan birini siqib chiqarishi mumkin",
