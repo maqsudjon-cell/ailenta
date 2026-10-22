@@ -1,5 +1,70 @@
 [
   {
+    "id": "e8ef5ca88b69",
+    "slug": "ai-kompaniyalari-britaniyada-data-markazlardan-xavotirda-e8ef5c",
+    "title": "AI kompaniyalari Britaniyada data-markazlardan xavotirda",
+    "summary": "Nvidia, Microsoft va Cisco kabi AI kompaniyalari Buyuk Britaniya hukumatini ma'lumot markazlariga qarshi noroziliklarni oldini olishga chaqirdi. Ular 12 oy ichida choralar ko'rilmasa, AQShdagidek qurilishga tahdid soluvchi noroziliklar yuzaga kelishi mumkinligini ogohlantirdi.",
+    "tags": [
+      "Nvidia",
+      "Microsoft"
+    ],
+    "importance": 3,
+    "score": 26,
+    "published": "2026-10-22T05:00:08.000Z",
+    "created": "2026-10-22T05:29:50.193Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/uk-news/2026/oct/22/ai-firms-say-uk-has-a-year-to-head-off-datacentre-protests-before-construction-is-threatened",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "975de910474d",
+    "slug": "taika-waititi-klara-va-quyosh-filmi-haqida-fikr-bildirdi-975de9",
+    "title": "Taika Waititi \"Klara va Quyosh\" filmi haqida fikr bildirdi",
+    "summary": "Rejissyor Taika Waititi Kazuo Ishiguroning \"Klara va Quyosh\" romanini filmga aylantirdi. Film kasal o'smir va uning robot do'sti haqida bo'lib, texnologiya, sevgi va qayg'u mavzularini ko'taradi.",
+    "tags": [
+      "robototexnika"
+    ],
+    "importance": 2,
+    "score": 23,
+    "published": "2026-10-22T04:00:06.000Z",
+    "created": "2026-10-22T05:29:50.193Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/film/2026/oct/22/taika-waititi-kazuo-ishiguro-robot-friend-klara-and-the-sun",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "657ed65f8e61",
+    "slug": "whatsapp-meta-ai-orniga-museni-joriy-etishi-mumkin-657ed6",
+    "title": "WhatsApp Meta AI o'rniga Muse'ni joriy etishi mumkin",
+    "summary": "Xabarlarga ko'ra, WhatsApp tez orada Meta AI o'rniga Muse nomli yangi sun'iy intellektni joriy etishi mumkin. Bu foydalanuvchilar uchun yangi AI funksiyalarini taqdim etadi.",
+    "tags": [
+      "Meta",
+      "agentlar"
+    ],
+    "importance": 3,
+    "score": 7,
+    "published": "2026-10-22T04:33:00.000Z",
+    "created": "2026-10-22T05:29:50.193Z",
+    "coverage": 1,
+    "source": {
+      "name": "Digit",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQ1VVRVhXcG5VYVd6NHlOMlBEOTByRFpadzVzUVotN0Fyd2h3MnZXdzl2RnpyRzBpcXFwa1I5THlockN3RGNZdS1sQ1Nza0hpbkU2eG5lVl8tOUF1cDE5bjlKSEVjMnowUDBMZHVFdnI2WXlsRjBTM2RoYVVacVFvM19MRW9xNUFXVGpoZ1ZrR2ExNmJxc0EtQmplNThENjBIT3A4V2lFTUNWejdsZW00VVFHVdIBugFBVV95cUxNOU4yV1VlS3lSaHhFZV9Nb2tSMGhISHBkSnBEWEM3RjlXMVRLQjBQRmZ0RzYyYV9kb2pKbWhIeFREVkROaFQxNkRjRlpzLW9tVHdJMWlwRVhuY1dDUDBWN212UU9IazdRSXhKMjFXb0l0VHRlRUxIaVJNcklTNHRkbWV0U25kOVctaWhnWnVsVDlCQTl6LWZUckpFSDRBM1dKdS1kMGZ0Rlo4cmEwSXY5OGRpejY2ZGVNU3c",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "712adf9767e0",
     "slug": "fpga-va-mikrosxemalarda-ai-boyicha-sharh-elon-qilindi-712adf",
     "title": "FPGA va mikrosxemalarda AI bo'yicha sharh e'lon qilindi",
