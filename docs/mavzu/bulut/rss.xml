@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/bulut/</link>
   <description>&quot;bulut&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Thu, 22 Oct 2026 21:09:43 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 22 Oct 2026 21:45:25 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/bulut/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Discord Markdown ko'rinishlarini to'g'ri formatlaydi</title>
+    <link>https://ailenta.uz/x/discord-markdown-korinishlarini-togri-formatlaydi-73123e/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/discord-markdown-korinishlarini-togri-formatlaydi-73123e/</guid>
+    <pubDate>Thu, 22 Oct 2026 18:58:19 GMT</pubDate>
+    <description>Discord yangi yangilanishda Markdown ko'rinishlarini to'g'ri formatlashni joriy qildi. Bu o'zgarish LLM va AI agentlari uchun Markdown fayllaridan foydalanadiganlar uchun foydali bo'lishi mumkin.</description>
+    <category>agentlar</category><category>bulut</category>
+    <media:content url="https://ailenta.uz/og/discord-markdown-korinishlarini-togri-formatlaydi-73123e.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/discord-markdown-korinishlarini-togri-formatlaydi-73123e.jpg"/>
+  </item>
   <item>
     <title>Ukraina Rossiya data-markazlariga zarba bermoqda</title>
     <link>https://ailenta.uz/x/ukraina-rossiya-data-markazlariga-zarba-bermoqda-ddbd83/</link>
@@ -296,16 +306,6 @@
     <category>biznes</category><category>bulut</category>
     <media:content url="https://ailenta.uz/og/malumot-markazi-kompaniyasining-ipo-orzusi-barbod-boldi-29cfb1.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/malumot-markazi-kompaniyasining-ipo-orzusi-barbod-boldi-29cfb1.jpg"/>
-  </item>
-  <item>
-    <title>Taqsimlangan AI o'qitish tarmoqqa ta'sir qilmoqda</title>
-    <link>https://ailenta.uz/x/taqsimlangan-ai-oqitish-tarmoqqa-tasir-qilmoqda-1915e4/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/taqsimlangan-ai-oqitish-tarmoqqa-tasir-qilmoqda-1915e4/</guid>
-    <pubDate>Fri, 09 Oct 2026 15:00:00 GMT</pubDate>
-    <description>Ma'lumotlar markazidagi GPU'larni ulash qiyin bo'lsa-da, minglab GPU'larni yuzlab kilometr masofada muvofiqlashtirish yangi qiyinchiliklarni keltirib chiqarmoqda. Bu taqsimlangan AI o'qitish jarayonida tarmoqni o'zgartirmoqda.</description>
-    <category>bulut</category><category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/taqsimlangan-ai-oqitish-tarmoqqa-tasir-qilmoqda-1915e4.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/taqsimlangan-ai-oqitish-tarmoqqa-tasir-qilmoqda-1915e4.jpg"/>
   </item>
 </channel>
 </rss>

@@ -1,5 +1,138 @@
 [
   {
+    "id": "73123e6ebe0b",
+    "slug": "discord-markdown-korinishlarini-togri-formatlaydi-73123e",
+    "title": "Discord Markdown ko'rinishlarini to'g'ri formatlaydi",
+    "summary": "Discord yangi yangilanishda Markdown ko'rinishlarini to'g'ri formatlashni joriy qildi. Bu o'zgarish LLM va AI agentlari uchun Markdown fayllaridan foydalanadiganlar uchun foydali bo'lishi mumkin.",
+    "tags": [
+      "agentlar",
+      "bulut"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-10-22T18:58:19.000Z",
+    "created": "2026-10-22T21:36:56.126Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Verge",
+      "url": "https://theverge.com/news/1017012/discord-markdown-previews-organize-servers-channels",
+      "title": "Discord now formats Markdown previews right",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "0da672660d7b",
+    "slug": "microsoft-va-kutubxonalar-ai-talimini-kengaytirmoqda-0da672",
+    "title": "Microsoft va Kutubxonalar AI ta'limini kengaytirmoqda",
+    "summary": "Microsoft Jamoat Kutubxonalari Assotsiatsiyasi bilan hamkorlikda bepul AI savodxonligi bo'yicha treninglarni kengaytirmoqda. Bu dastur jamoatchilikni sun'iy intellekt haqida xabardor qilishga qaratilgan.",
+    "tags": [
+      "Microsoft",
+      "ta'lim"
+    ],
+    "importance": 3,
+    "score": 36,
+    "published": "2026-10-22T21:12:21.000Z",
+    "created": "2026-10-22T21:36:56.545Z",
+    "coverage": 1,
+    "source": {
+      "name": "Microsoft",
+      "url": "https://blogs.microsoft.com/on-the-issues/2026/10/22/expanding-ai-literacy-with-the-american-library-association-and-community-based-programs",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "ccc3219ff3a4",
+    "slug": "microsoft-aiga-interaktiv-vizualizatsiyalar-yaratishda-yorda-ccc321",
+    "title": "Microsoft AIga interaktiv vizualizatsiyalar yaratishda yordam",
+    "summary": "Microsoft sun'iy intellektga statik diagrammalardan tashqari, foydalanuvchilar o'rganishi mumkin bo'lgan vizualizatsiyalar yaratishda yordam bermoqda. Bu AIning ma'lumotlarni taqdim etish qobiliyatini oshiradi.",
+    "tags": [
+      "Microsoft",
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 33,
+    "published": "2026-10-22T21:22:46.000Z",
+    "created": "2026-10-22T21:36:56.545Z",
+    "coverage": 1,
+    "source": {
+      "name": "Microsoft",
+      "url": "https://microsoft.com/en-us/research/blog/flint-interactive-a-language-for-creating-interactive-data-visualizations",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "2784ceb8bfd5",
+    "slug": "oleary-digital-ai-data-markazi-rejalarini-himoya-qildi-2784ce",
+    "title": "O'Leary Digital AI data markazi rejalarini himoya qildi",
+    "summary": "O'Leary Digital bosh direktori Pol Palandjian o'zining AI data markazi rejalarini himoya qildi. U Bernsteinning shubhali tahlili maxfiy ishlarni hisobga olmaganini ta'kidladi.",
+    "tags": [
+      "biznes",
+      "iqtisod"
+    ],
+    "importance": 2,
+    "score": 18,
+    "published": "2026-10-22T20:06:26.000Z",
+    "created": "2026-10-22T21:36:56.545Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/kevin-oleary-digital-ceo-ai-data-centers-bragawatts-bernstein-response-2026-10",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "d80db79f6b38",
+    "slug": "yangi-oyin-xizmati-generativ-ai-ishlatilgan-oyinlarni-qabul--d80db7",
+    "title": "Yangi o'yin xizmati generativ AI ishlatilgan o'yinlarni qabul qilmaydi",
+    "summary": "Pantaloon nashriyoti \"Playbill\" nomli yangi obuna xizmatini ishga tushirmoqda. Bu xizmat generativ AI texnologiyasidan foydalanilgan o'yinlarni o'z ichiga olmaydi.",
+    "tags": [
+      "biznes",
+      "maxfiylik"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-10-22T20:57:17.000Z",
+    "created": "2026-10-22T21:36:56.545Z",
+    "coverage": 1,
+    "source": {
+      "name": "Engadget",
+      "url": "https://engadget.com/2294854/a-new-subscription-service-promises-an-evolving-collection-of-bold-and-bizarre-indie-games",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "c6b16d28af7e",
+    "slug": "spacex-va-tesla-birlashishni-muhokama-qilmoqda-c6b16d",
+    "title": "SpaceX va Tesla birlashishni muhokama qilmoqda",
+    "summary": "SpaceX va Tesla kompaniyalari birlashishni muhokama qilish uchun maxsus qo'mitalar tuzdi. SpaceX Nvidia chiplariga 40 milliard dollar sarflash uchun qarz olishi sababli yuqori kredit riskiga ega.",
+    "tags": [
+      "Nvidia",
+      "biznes"
+    ],
+    "importance": 5,
+    "score": 15,
+    "published": "2026-10-22T19:45:00.000Z",
+    "created": "2026-10-22T21:36:56.545Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Verge",
+      "url": "https://theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "70399cbe269f",
     "slug": "aged-intelligence-society-ayollarga-ai-sohasiga-kirishga-yor-70399c",
     "title": "Aged Intelligence Society ayollarga AI sohasiga kirishga yordam beradi",

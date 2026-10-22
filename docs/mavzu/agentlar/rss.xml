@@ -5,7 +5,7 @@
   <link>https://ailenta.uz/mavzu/agentlar/</link>
   <description>&quot;agentlar&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Thu, 22 Oct 2026 21:09:43 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 22 Oct 2026 21:45:25 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/agentlar/rss.xml" rel="self" type="application/rss+xml"/>
   <item>
     <title>AI agentlar hisobotlarda raqam to'qimaslikka o'rgatildi</title>
@@ -16,6 +16,16 @@
     <category>agentlar</category><category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/ai-agentlar-hisobotlarda-raqam-toqimaslikka-orgatildi-0d3fe7.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/ai-agentlar-hisobotlarda-raqam-toqimaslikka-orgatildi-0d3fe7.jpg"/>
+  </item>
+  <item>
+    <title>Discord Markdown ko'rinishlarini to'g'ri formatlaydi</title>
+    <link>https://ailenta.uz/x/discord-markdown-korinishlarini-togri-formatlaydi-73123e/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/discord-markdown-korinishlarini-togri-formatlaydi-73123e/</guid>
+    <pubDate>Thu, 22 Oct 2026 18:58:19 GMT</pubDate>
+    <description>Discord yangi yangilanishda Markdown ko'rinishlarini to'g'ri formatlashni joriy qildi. Bu o'zgarish LLM va AI agentlari uchun Markdown fayllaridan foydalanadiganlar uchun foydali bo'lishi mumkin.</description>
+    <category>agentlar</category><category>bulut</category>
+    <media:content url="https://ailenta.uz/og/discord-markdown-korinishlarini-togri-formatlaydi-73123e.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/discord-markdown-korinishlarini-togri-formatlaydi-73123e.jpg"/>
   </item>
   <item>
     <title>AI agentlari PPO'dan 250 barobar kam tajriba talab qiladi</title>
@@ -296,16 +306,6 @@
     <category>agentlar</category><category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/ai-agentlar-vazifalarni-qanday-takrorlaydi-ffd036.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/ai-agentlar-vazifalarni-qanday-takrorlaydi-ffd036.jpg"/>
-  </item>
-  <item>
-    <title>Ota-onalar tarbiyada AI ilovalaridan foydalanmoqda</title>
-    <link>https://ailenta.uz/x/ota-onalar-tarbiyada-ai-ilovalaridan-foydalanmoqda-12ec60/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/ota-onalar-tarbiyada-ai-ilovalaridan-foydalanmoqda-12ec60/</guid>
-    <pubDate>Thu, 15 Oct 2026 09:02:14 GMT</pubDate>
-    <description>Xavflarga qaramay, oilalar bolalarni tarbiyalashdagi ma'muriy vazifalarni bajarish uchun AI botlari va agentlaridan foydalanmoqda. Ota-onalar ushbu texnologiyalarga tobora ko'proq murojaat qilmoqda.</description>
-    <category>agentlar</category>
-    <media:content url="https://ailenta.uz/og/ota-onalar-tarbiyada-ai-ilovalaridan-foydalanmoqda-12ec60.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/ota-onalar-tarbiyada-ai-ilovalaridan-foydalanmoqda-12ec60.jpg"/>
   </item>
 </channel>
 </rss>
