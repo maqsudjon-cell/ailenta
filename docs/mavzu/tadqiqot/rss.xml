@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/tadqiqot/</link>
   <description>&quot;tadqiqot&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Thu, 22 Oct 2026 12:12:30 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 22 Oct 2026 12:41:11 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/tadqiqot/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>AI agentlar kod-revu jarayonini o'zgartirmoqda</title>
+    <link>https://ailenta.uz/x/ai-agentlar-kod-revu-jarayonini-ozgartirmoqda-bb9363/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/ai-agentlar-kod-revu-jarayonini-ozgartirmoqda-bb9363/</guid>
+    <pubDate>Thu, 22 Oct 2026 10:15:02 GMT</pubDate>
+    <description>AI agentlar pull requestlar hajmini oshirdi, ammo kod-revu uchun sarflanadigan vaqt oʻzgarmadi. Natijada, dasturchilar endi kodni satr-ba-satr tekshirish oʻrniga, spetsifikatsiya va arxitekturaga koʻproq eʼtibor qaratmoqda.</description>
+    <category>agentlar</category><category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/ai-agentlar-kod-revu-jarayonini-ozgartirmoqda-bb9363.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/ai-agentlar-kod-revu-jarayonini-ozgartirmoqda-bb9363.jpg"/>
+  </item>
   <item>
     <title>AI agentlar sinovdan o'tkazildi: tushlik buyurtmasi va boshqalar</title>
     <link>https://ailenta.uz/x/ai-agentlar-sinovdan-otkazildi-tushlik-buyurtmasi-va-boshqal-7b05da/</link>
@@ -296,16 +306,6 @@
     <category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/audio-multiplayer-battle-drones-rts-oyini-yaratildi-4dc8a5.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/audio-multiplayer-battle-drones-rts-oyini-yaratildi-4dc8a5.jpg"/>
-  </item>
-  <item>
-    <title>Elevenlabs real vaqtda suhbat uchun yangi AI modelini chiqardi</title>
-    <link>https://ailenta.uz/x/elevenlabs-real-vaqtda-suhbat-uchun-yangi-ai-modelini-chiqar-07acb4/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/elevenlabs-real-vaqtda-suhbat-uchun-yangi-ai-modelini-chiqar-07acb4/</guid>
-    <pubDate>Tue, 20 Oct 2026 19:03:15 GMT</pubDate>
-    <description>Elevenlabs real vaqtda AI suhbatlari uchun mo'ljallangan ikkita yangi nutqdan nutqqa modelini chiqardi. Eleven Realtime v1 Max modeli Big Bench Audio sinovida 98.8% natija va 0.57 soniya javob vaqtini ko'rsatdi.</description>
-    <category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/elevenlabs-real-vaqtda-suhbat-uchun-yangi-ai-modelini-chiqar-07acb4.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/elevenlabs-real-vaqtda-suhbat-uchun-yangi-ai-modelini-chiqar-07acb4.jpg"/>
   </item>
 </channel>
 </rss>

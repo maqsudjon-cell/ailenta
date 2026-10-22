@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://ailenta.uz/x/ai-yordamida-topilgan-zaiflik-ortidan-kiberhujumlar-kuchaydi-20ee9c/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>AI Lenta</news:name>
+        <news:language>uz</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22T12:21:19.000Z</news:publication_date>
+      <news:title>AI yordamida topilgan zaiflik ortidan kiberhujumlar kuchaydi</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://ailenta.uz/x/phpda-ikki-kritik-zaiflik-topildi-nsa-yangilashga-chaqirdi-36de33/</loc>
     <news:news>
       <news:publication>
@@ -43,6 +54,17 @@
       </news:publication>
       <news:publication_date>2026-10-22T10:33:17.000Z</news:publication_date>
       <news:title>Elon Musk Optimusni bolani tarbiyalashga qiyosladi</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://ailenta.uz/x/ai-agentlar-kod-revu-jarayonini-ozgartirmoqda-bb9363/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>AI Lenta</news:name>
+        <news:language>uz</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22T10:15:02.000Z</news:publication_date>
+      <news:title>AI agentlar kod-revu jarayonini o'zgartirmoqda</news:title>
     </news:news>
   </url>
   <url>
@@ -1726,39 +1748,6 @@
       </news:publication>
       <news:publication_date>2026-10-20T13:00:00.000Z</news:publication_date>
       <news:title>Eka Robotics $1.45 mlrdga baholandi</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://ailenta.uz/x/ai-inson-tajribasiga-hali-ham-muhtoj-47703f/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>AI Lenta</news:name>
-        <news:language>uz</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T12:30:35.000Z</news:publication_date>
-      <news:title>AI inson tajribasiga hali ham muhtoj</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://ailenta.uz/x/ai-rivojlanishi-fed-siyosatiga-boysunmaydi-e29cc6/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>AI Lenta</news:name>
-        <news:language>uz</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T12:21:26.000Z</news:publication_date>
-      <news:title>AI rivojlanishi Fed siyosatiga bo'ysunmaydi</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://ailenta.uz/x/meta-prometheus-tizimi-ai-oqitish-uchun-obyekt-saqlashdan-fo-70f8fb/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>AI Lenta</news:name>
-        <news:language>uz</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T12:20:00.000Z</news:publication_date>
-      <news:title>Meta Prometheus tizimi AI o'qitish uchun obyekt saqlashdan foydalanadi</news:title>
     </news:news>
   </url>
 </urlset>

@@ -1,5 +1,49 @@
 [
   {
+    "id": "20ee9c296151",
+    "slug": "ai-yordamida-topilgan-zaiflik-ortidan-kiberhujumlar-kuchaydi-20ee9c",
+    "title": "AI yordamida topilgan zaiflik ortidan kiberhujumlar kuchaydi",
+    "summary": "Veb-dasturchilar AI yordamida koʻplab veb-saytlarga taʼsir qiluvchi xatoni aniqladi. Shundan soʻng, Cloudflare ushbu zaiflikdan foydalanishga urinishlar keskin oshganini qayd etdi.",
+    "tags": [
+      "xavfsizlik",
+      "bulut"
+    ],
+    "importance": 4,
+    "score": 19,
+    "published": "2026-10-22T12:21:19.000Z",
+    "created": "2026-10-22T12:32:27.256Z",
+    "coverage": 1,
+    "source": {
+      "name": "Semafor",
+      "url": "https://semafor.com/article/10/22/2026/web-developers-raise-alarm-bells-over-ai-driven-cyberattacks",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "bb9363bd0339",
+    "slug": "ai-agentlar-kod-revu-jarayonini-ozgartirmoqda-bb9363",
+    "title": "AI agentlar kod-revu jarayonini o'zgartirmoqda",
+    "summary": "AI agentlar pull requestlar hajmini oshirdi, ammo kod-revu uchun sarflanadigan vaqt oʻzgarmadi. Natijada, dasturchilar endi kodni satr-ba-satr tekshirish oʻrniga, spetsifikatsiya va arxitekturaga koʻproq eʼtibor qaratmoqda.",
+    "tags": [
+      "agentlar",
+      "tadqiqot"
+    ],
+    "importance": 4,
+    "score": 11,
+    "published": "2026-10-22T10:15:02.000Z",
+    "created": "2026-10-22T12:32:27.256Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1097830",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "36de334abd68",
     "slug": "phpda-ikki-kritik-zaiflik-topildi-nsa-yangilashga-chaqirdi-36de33",
     "title": "PHP'da ikki kritik zaiflik topildi, NSA yangilashga chaqirdi",
