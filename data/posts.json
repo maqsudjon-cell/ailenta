@@ -1,5 +1,48 @@
 [
   {
+    "id": "e308404ffe1a",
+    "slug": "janubi-sharqiy-osiyoda-ai-biznes-imkoniyatlari-kengaymoqda-e30840",
+    "title": "Janubi-Sharqiy Osiyoda AI biznes imkoniyatlari kengaymoqda",
+    "summary": "Janubi-Sharqiy Osiyoda sun'iy intellektning tez qabul qilinishi biznes uchun yangi imkoniyatlar yaratmoqda. Bain & Company vakili CNBC'ga ko'ra, bu imkoniyatlar faqat pullik obunalardan iborat emas.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-10-22T02:01:48.000Z",
+    "created": "2026-10-22T03:38:04.801Z",
+    "coverage": 1,
+    "source": {
+      "name": "CNBC",
+      "url": "https://cnbc.com/2026/10/22/southeasaisa-singapore-bain-temasek-google-.html",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "f977fa329335",
+    "slug": "anthropic-aini-ochirish-boyicha-oz-qoidalarini-yozdi-f977fa",
+    "title": "Anthropic AI'ni o'chirish bo'yicha o'z qoidalarini yozdi",
+    "summary": "Anthropic kompaniyasi sun'iy intellekt tizimlarini o'chirish bo'yicha o'zining ichki qoidalarini ishlab chiqdi. Bu kompaniyaning AI boshqaruvi bo'yicha yondashuvini aks ettiradi.",
+    "tags": [
+      "Anthropic",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 10,
+    "published": "2026-10-21T17:45:08.000Z",
+    "created": "2026-10-22T03:38:04.801Z",
+    "coverage": 1,
+    "source": {
+      "name": "PYMNTS.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNklqRkxuZlc0bjBpTFdqTzlnaTlJcmY1aHN6MEc4aVRHSkJOYUxic0Z6cEdxbmZmZl9yNFNCZTJqZm1KRHdMTzZDSHBtVHYyNGxhelgzSXY3bWlqOXZOaVdOc0xRRzc1ZE5FV2c0aUljLXBXRlh3SUhucXFZdXc4ZFZzNl9hQnN0ZXNIUEhKVE9NOFNXRTM0TlRsOXdxUzBLM2pDZXBJMTlHNzBDdXc",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "41253299e2ce",
     "slug": "gamma-robotics-gumanoid-robotlar-yaratishni-boshladi-412532",
     "title": "Gamma Robotics gumanoid robotlar yaratishni boshladi",
