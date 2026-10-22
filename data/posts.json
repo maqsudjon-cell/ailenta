@@ -1,5 +1,48 @@
 [
   {
+    "id": "712adf9767e0",
+    "slug": "fpga-va-mikrosxemalarda-ai-boyicha-sharh-elon-qilindi-712adf",
+    "title": "FPGA va mikrosxemalarda AI bo'yicha sharh e'lon qilindi",
+    "summary": "Tadqiqotchilar FPGA va mikrosxemalarda mustahkamlovchi o'rgatishni qo'llashga oid 100 dan ortiq ilmiy ishlarni ko'rib chiqdi. Sharhda apparat va algoritm samaradorligi tahlil qilingan.",
+    "tags": [
+      "chiplar",
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 10,
+    "published": "2026-10-22T04:00:00.000Z",
+    "created": "2026-10-22T05:01:41.380Z",
+    "coverage": 1,
+    "source": {
+      "name": "arXiv cs.LG",
+      "url": "https://arxiv.org/abs/2610.28699",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "fd73060b00c0",
+    "slug": "gemma-4-modeli-arab-nutqini-tanib-olishda-sinab-korildi-fd7306",
+    "title": "Gemma 4 modeli arab nutqini tanib olishda sinab ko'rildi",
+    "summary": "Tadqiqotchilar Gemma 4 modelining 305 million parametrli audio enkoderini arab tili shevalarida nutqni tanib olish uchun sinashdi. Model og'irliklari o'zgartirilmagan holda ham yaxshi natija berdi.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 7,
+    "published": "2026-10-22T04:00:00.000Z",
+    "created": "2026-10-22T05:01:41.380Z",
+    "coverage": 1,
+    "source": {
+      "name": "arXiv cs.CL",
+      "url": "https://arxiv.org/abs/2610.28673",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "e308404ffe1a",
     "slug": "janubi-sharqiy-osiyoda-ai-biznes-imkoniyatlari-kengaymoqda-e30840",
     "title": "Janubi-Sharqiy Osiyoda AI biznes imkoniyatlari kengaymoqda",

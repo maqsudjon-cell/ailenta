@@ -5,8 +5,28 @@
   <link>https://ailenta.uz/mavzu/tadqiqot/</link>
   <description>&quot;tadqiqot&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Thu, 22 Oct 2026 04:09:33 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 22 Oct 2026 05:10:19 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/tadqiqot/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>FPGA va mikrosxemalarda AI bo'yicha sharh e'lon qilindi</title>
+    <link>https://ailenta.uz/x/fpga-va-mikrosxemalarda-ai-boyicha-sharh-elon-qilindi-712adf/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/fpga-va-mikrosxemalarda-ai-boyicha-sharh-elon-qilindi-712adf/</guid>
+    <pubDate>Thu, 22 Oct 2026 04:00:00 GMT</pubDate>
+    <description>Tadqiqotchilar FPGA va mikrosxemalarda mustahkamlovchi o'rgatishni qo'llashga oid 100 dan ortiq ilmiy ishlarni ko'rib chiqdi. Sharhda apparat va algoritm samaradorligi tahlil qilingan.</description>
+    <category>chiplar</category><category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/fpga-va-mikrosxemalarda-ai-boyicha-sharh-elon-qilindi-712adf.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/fpga-va-mikrosxemalarda-ai-boyicha-sharh-elon-qilindi-712adf.jpg"/>
+  </item>
+  <item>
+    <title>Gemma 4 modeli arab nutqini tanib olishda sinab ko'rildi</title>
+    <link>https://ailenta.uz/x/gemma-4-modeli-arab-nutqini-tanib-olishda-sinab-korildi-fd7306/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/gemma-4-modeli-arab-nutqini-tanib-olishda-sinab-korildi-fd7306/</guid>
+    <pubDate>Thu, 22 Oct 2026 04:00:00 GMT</pubDate>
+    <description>Tadqiqotchilar Gemma 4 modelining 305 million parametrli audio enkoderini arab tili shevalarida nutqni tanib olish uchun sinashdi. Model og'irliklari o'zgartirilmagan holda ham yaxshi natija berdi.</description>
+    <category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/gemma-4-modeli-arab-nutqini-tanib-olishda-sinab-korildi-fd7306.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/gemma-4-modeli-arab-nutqini-tanib-olishda-sinab-korildi-fd7306.jpg"/>
+  </item>
   <item>
     <title>AI yordamida 31 yillik matematika siri yechildi</title>
     <link>https://ailenta.uz/x/ai-yordamida-31-yillik-matematika-siri-yechildi-0397d3/</link>
@@ -286,26 +306,6 @@
     <category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/hpe-spaceborne-computer-4-ai-tizimini-oyga-yuboradi-329f44.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/hpe-spaceborne-computer-4-ai-tizimini-oyga-yuboradi-329f44.jpg"/>
-  </item>
-  <item>
-    <title>AI inson tajribasiga hali ham muhtoj</title>
-    <link>https://ailenta.uz/x/ai-inson-tajribasiga-hali-ham-muhtoj-47703f/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/ai-inson-tajribasiga-hali-ham-muhtoj-47703f/</guid>
-    <pubDate>Tue, 20 Oct 2026 12:30:35 GMT</pubDate>
-    <description>AI ba'zi murakkab vazifalarni yaxshi bajarayotgan bo'lsa-da, insonning mulohazasini o'rnini bosa olmaydi. Masalan, avtonom mashinalar murakkab vaziyatlarda yaxshi ishlasa-da, oddiy kundalik vazifalarda, masalan, to'xtash joylarini aniqlashda qiyinchiliklarga duch keladi.</description>
-    <category>mehnat bozori</category><category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/ai-inson-tajribasiga-hali-ham-muhtoj-47703f.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/ai-inson-tajribasiga-hali-ham-muhtoj-47703f.jpg"/>
-  </item>
-  <item>
-    <title>AI shovqinli ma’lumotdan noto‘g‘ri xulosa chiqardi</title>
-    <link>https://ailenta.uz/x/ai-shovqinli-malumotdan-noto-g-ri-xulosa-chiqardi-6b61c9/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/ai-shovqinli-malumotdan-noto-g-ri-xulosa-chiqardi-6b61c9/</guid>
-    <pubDate>Tue, 20 Oct 2026 12:06:45 GMT</pubDate>
-    <description>ChatGPT tasodifiy shovqinli ma’lumotlarda ham trendlarni topib, harakat rejasini taklif qilishi mumkin. Bir tajribada AI-assistentning 30 ta analitik xulosasi statistik tekshiruvdan o‘tmadi. Bu AI xulosalarini tekshirish muhimligini ko‘rsatadi.</description>
-    <category>tadqiqot</category><category>biznes</category>
-    <media:content url="https://ailenta.uz/og/ai-shovqinli-malumotdan-noto-g-ri-xulosa-chiqardi-6b61c9.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/ai-shovqinli-malumotdan-noto-g-ri-xulosa-chiqardi-6b61c9.jpg"/>
   </item>
 </channel>
 </rss>

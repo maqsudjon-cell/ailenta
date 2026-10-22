@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/chiplar/</link>
   <description>&quot;chiplar&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Thu, 22 Oct 2026 04:09:33 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 22 Oct 2026 05:10:19 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/chiplar/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>FPGA va mikrosxemalarda AI bo'yicha sharh e'lon qilindi</title>
+    <link>https://ailenta.uz/x/fpga-va-mikrosxemalarda-ai-boyicha-sharh-elon-qilindi-712adf/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/fpga-va-mikrosxemalarda-ai-boyicha-sharh-elon-qilindi-712adf/</guid>
+    <pubDate>Thu, 22 Oct 2026 04:00:00 GMT</pubDate>
+    <description>Tadqiqotchilar FPGA va mikrosxemalarda mustahkamlovchi o'rgatishni qo'llashga oid 100 dan ortiq ilmiy ishlarni ko'rib chiqdi. Sharhda apparat va algoritm samaradorligi tahlil qilingan.</description>
+    <category>chiplar</category><category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/fpga-va-mikrosxemalarda-ai-boyicha-sharh-elon-qilindi-712adf.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/fpga-va-mikrosxemalarda-ai-boyicha-sharh-elon-qilindi-712adf.jpg"/>
+  </item>
   <item>
     <title>Flapping Airplanes $1 mlrd sarmoya jalb qildi</title>
     <link>https://ailenta.uz/x/flapping-airplanes-1-mlrd-sarmoya-jalb-qildi-bc3db2/</link>
@@ -296,16 +306,6 @@
     <category>Nvidia</category><category>chiplar</category>
     <media:content url="https://ailenta.uz/og/jensen-huang-tsmc-asoschisi-bilan-boglanish-haqida-gapirdi-3d93ed.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/jensen-huang-tsmc-asoschisi-bilan-boglanish-haqida-gapirdi-3d93ed.jpg"/>
-  </item>
-  <item>
-    <title>TSMC sof foyda bo'yicha yangi rekord o'rnatdi</title>
-    <link>https://ailenta.uz/x/tsmc-sof-foyda-boyicha-yangi-rekord-ornatdi-325a3d/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/tsmc-sof-foyda-boyicha-yangi-rekord-ornatdi-325a3d/</guid>
-    <pubDate>Thu, 15 Oct 2026 05:59:57 GMT</pubDate>
-    <description>TSMC uchinchi chorakda AI talabi ortidan ketma-ket oltinchi bor rekord daromad qayd etdi. Kompaniyaning sof foydasi 68.7 foizga oshib, 23.7 milliard dollarni tashkil qildi. Umumiy tushum esa 50.9 foizga o'sib, 46.36 milliard dollarga yetdi.</description>
-    <category>chiplar</category><category>biznes</category>
-    <media:content url="https://ailenta.uz/og/tsmc-sof-foyda-boyicha-yangi-rekord-ornatdi-325a3d.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/tsmc-sof-foyda-boyicha-yangi-rekord-ornatdi-325a3d.jpg"/>
   </item>
 </channel>
 </rss>
