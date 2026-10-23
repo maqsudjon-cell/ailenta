@@ -1,5 +1,98 @@
 [
   {
+    "id": "e7e58cd7761f",
+    "slug": "ai-shifokorlar-jamoasi-kabi-tashxis-qoya-oladimi-e7e58c",
+    "title": "AI shifokorlar jamoasi kabi tashxis qo'ya oladimi",
+    "summary": "Microsoft yangi tadqiqotda sun'iy intellektning shifokorlar jamoasi kabi tashxis qo'yish qobiliyatini sinovdan o'tkazmoqda. Bu tadqiqot AI'ning tibbiyot sohasidagi imkoniyatlarini baholashga qaratilgan.",
+    "tags": [
+      "Microsoft",
+      "tibbiyot"
+    ],
+    "importance": 3,
+    "score": 33,
+    "published": "2026-10-23T15:56:30.000Z",
+    "created": "2026-10-23T22:31:30.512Z",
+    "coverage": 1,
+    "source": {
+      "name": "Microsoft",
+      "url": "https://microsoft.ai/news/building-medical-superintelligence",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "c64e08f47aa5",
+    "slug": "aqshda-malumot-markazlari-muammosini-hal-etish-boyicha-kelis-c64e08",
+    "title": "AQSHda ma'lumot markazlari muammosini hal etish bo'yicha kelishuv",
+    "summary": "Biden va Trump ma'muriyatlarining sobiq amaldorlari ma'lumot markazlaridagi muammolarni hal etish bo'yicha kelishuvga erishdi. Ular mavjud holat AQSH uchun muvaffaqiyatsiz ekanligini ta'kidladi.",
+    "tags": [
+      "siyosat",
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 19,
+    "published": "2026-10-23T10:30:00.000Z",
+    "created": "2026-10-23T22:31:30.512Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/10/23/data-center-mess-how-to-fix-bipartisan",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "7be3186de5fc",
+    "slug": "suhbat-ai-birlamchi-tibbiy-yordamda-sinovdan-otkazilmoqda-7be318",
+    "title": "Suhbat AI birlamchi tibbiy yordamda sinovdan o'tkazilmoqda",
+    "summary": "Nature jurnalining xabariga ko'ra, suhbat sun'iy intellekti birlamchi tibbiy yordam sohasida sinovdan o'tkazilmoqda. Bu AI'ning tibbiyotdagi amaliy qo'llanilishini baholashga qaratilgan.",
+    "tags": [
+      "tibbiyot",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 18.8,
+    "published": "2026-10-23T00:00:00.000Z",
+    "created": "2026-10-23T22:31:30.512Z",
+    "coverage": 1,
+    "source": {
+      "name": "Nature",
+      "url": "https://nature.com/articles/d41591-026-00054-y",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "e0c03db02287",
+    "slug": "ai-davrida-ish-xavfsizligini-taminlovchi-magistratura-e0c03d",
+    "title": "AI davrida ish xavfsizligini ta'minlovchi magistratura",
+    "summary": "Investopedia nashri AI rivojlangan dunyoda ish xavfsizligini ta'minlaydigan magistratura darajalari haqida xabar berdi. Bu ta'lim yo'nalishlari kelajak mehnat bozorida talabgir bo'lishi kutilmoqda.",
+    "tags": [
+      "mehnat bozori",
+      "ta'lim"
+    ],
+    "importance": 2,
+    "score": 13,
+    "published": "2026-10-23T19:05:00.000Z",
+    "created": "2026-10-23T22:31:30.512Z",
+    "coverage": 2,
+    "source": {
+      "name": "Investopedia",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbE9kLVdJbVlCRVdKaWlmbVh1RzA3dUpwZDFzSDVVZUQ3dkxOcTNkdXZrYkFyYmowOUR1WVRxTlZXYXlNQ1B3UXYtazB5YVNwaUpIYU1KSDNTSmMyOWZUc2lwZ2JteUc3Z3BuZl9TYjZ0aU9CV2cwTHNNNlBvNUY5UC11eUppZUpXX0Zhc0R0TWFjVTlzODBRdmtUZjRUWXlwU3ppbHYxUV9IN1Mwa2c",
+      "indirect": true
+    },
+    "also": [
+      {
+        "name": "AOL.com",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPekpSZlgyOGl6ZUFYZy1IX0h1SngwRG95eHhUVm53bEVJN1ZwbXpqOHNWN2hybjBaY1FMREswenBWRjlLVHE3bXdIN1JoUVA4SFM1OE5OcklfTVBxQU5rRnVEVjEySkw5MEhubXc2TS1BQ0hOUnpHem52OVRZamlvRHo0QV9zZw"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
     "id": "4cc4fa83db1d",
     "slug": "meta-ai-malumot-platformasi-sundialni-sotib-oldi-4cc4fa",
     "title": "Meta AI ma'lumot platformasi Sundialni sotib oldi",
