@@ -1,5 +1,54 @@
 [
   {
+    "id": "47740c8fb238",
+    "slug": "meta-yangi-biznes-shartlarini-20-noyabrgacha-kechiktirdi-47740c",
+    "title": "Meta yangi biznes shartlarini 20-noyabrgacha kechiktirdi",
+    "summary": "Nashriyotchilar yangi shartlar saytlardan AI o'qitish uchun ma'lumot yig'ishga ruxsat berishidan xavotir bildirgan. Shundan so'ng Meta kompaniyasi o'zining yangi biznes shartlarini 20-noyabrdan kuchga kiritishini ma'lum qildi.",
+    "tags": [
+      "Meta",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 24,
+    "published": "2026-10-23T14:47:41.000Z",
+    "created": "2026-10-23T15:46:04.318Z",
+    "coverage": 2,
+    "source": {
+      "name": "The Verge",
+      "url": "https://theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "Snopes.com",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBPem5LZXdLcXZnSXpBMThKTkNvemJoYkk4VUR2Rkt4LUIwdWxoOGdSR3pLY2J1NkpydERQNnNkV2FlcThfM1JPS3VZODctel8tR21TWTdCUEc0dm9zMWE4WjhmOGYtM1lWU0R2VjdmWkl2LTJKMDE4cQ"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "0a45f2cde3da",
+    "slug": "aqshda-ai-nazoratini-yoqlovchi-guruh-2-5m-dollar-ajratdi-0a45f2",
+    "title": "AQSHda AI nazoratini yoqlovchi guruh 2,5M dollar ajratdi",
+    "summary": "Tomorrow Together siyosiy guruhi AQSH Senati saylovlariga 2,5 million dollarlik reklama bilan kirdi. Ushbu kampaniya respublikachi senatorlar Jon Husted va Roger Marshallga qarshi qaratilgan.",
+    "tags": [
+      "siyosat",
+      "qonun"
+    ],
+    "importance": 2,
+    "score": 19,
+    "published": "2026-10-23T15:20:42.000Z",
+    "created": "2026-10-23T15:46:04.318Z",
+    "coverage": 1,
+    "source": {
+      "name": "Semafor",
+      "url": "https://semafor.com/article/10/23/2026/democratic-ai-pac-takes-its-fight-to-senate-republicans",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "836883c52b5f",
     "slug": "elektromobilni-quvvatlash-xarajati-va-tejamkorligi-836883",
     "title": "Elektromobilni quvvatlash xarajati va tejamkorligi",
