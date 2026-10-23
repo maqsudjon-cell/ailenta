@@ -1,5 +1,27 @@
 [
   {
+    "id": "526fd413e5cb",
+    "slug": "anthropic-hisobotiga-mutaxassislar-shubha-bildirmoqda-526fd4",
+    "title": "Anthropic hisobotiga mutaxassislar shubha bildirmoqda",
+    "summary": "Anthropic e'lon qilgan hisobotda kompaniya kamroq texnik xodimlarni ishga olayotgani va Claude agentlariga tayanayotgani aytilgan. Biroq ekspertlar sun'iy intellektning mehnat bozoriga ta'siri haqidagi bu da'volarga ishonchsizlik bildirmoqda.",
+    "tags": [
+      "Anthropic",
+      "mehnat bozori"
+    ],
+    "importance": 3,
+    "score": 32,
+    "published": "2026-10-23T14:00:28.000Z",
+    "created": "2026-10-23T14:05:47.760Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/technology/2026/oct/23/anthropic-report-ai-workplace-shifts",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "755478a7b610",
     "slug": "goldman-sachs-rahbari-ai-haqida-755478",
     "title": "Goldman Sachs rahbari AI haqida",
