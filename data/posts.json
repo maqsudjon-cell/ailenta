@@ -1,5 +1,159 @@
 [
   {
+    "id": "836883c52b5f",
+    "slug": "elektromobilni-quvvatlash-xarajati-va-tejamkorligi-836883",
+    "title": "Elektromobilni quvvatlash xarajati va tejamkorligi",
+    "summary": "O'zbekistonda elektromobilni uyda quvvatlash 100 km uchun 18 400 so'mga tushadi. Bu benzinli avtomobilga nisbatan 5 baravar tejamkorroq. Kun.uz Payme bilan birgalikda uy zaryadlash tizimining foydaliligini o'rgandi.",
+    "tags": [
+      "O'zbekiston",
+      "iqtisod"
+    ],
+    "importance": 2,
+    "score": 48,
+    "published": "2026-10-23T11:57:37.000Z",
+    "created": "2026-10-23T15:03:00.299Z",
+    "coverage": 1,
+    "source": {
+      "name": "Kun.uz",
+      "url": "https://kun.uz/news/2026/10/23/elektromobilni-quvvatlash-qanchaga-tushadi-va-u-qachon-ozini-qoplaydi",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "8dfdf262076d",
+    "slug": "audi-keyingi-a8-modeli-uchun-huawei-platformasini-korib-chiq-8dfdf2",
+    "title": "Audi keyingi A8 modeli uchun Huawei platformasini ko'rib chiqmoqda",
+    "summary": "Audi keyingi avlod A8 modelining Xitoyga mo'ljallangan versiyasini ishlab chiqish bo'yicha Huawei bilan muzokaralar olib bormoqda. Germaniyaning Manager Magazin nashri xabariga ko'ra, avtomobil Xitoyda ishlab chiqariladi va Huawei asosiy ishlanmalarni taqdim etadi.",
+    "tags": [
+      "Huawei",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-10-23T13:51:44.000Z",
+    "created": "2026-10-23T15:03:00.299Z",
+    "coverage": 1,
+    "source": {
+      "name": "TechNode",
+      "url": "https://technode.com/2026/10/23/audi-reportedly-seeks-huawei-platform-for-next-generation-a8-built-in-china",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "e9ac2fb87e5d",
+    "slug": "pathos-ai-onkologiya-dori-vositalari-uchun-237m-dollar-yigdi-e9ac2f",
+    "title": "Pathos AI onkologiya dori vositalari uchun 237M dollar yig'di",
+    "summary": "Onkologiya dori vositalarini AI yordamida ishlab chiquvchi Pathos AI kompaniyasi 237 million dollarlik E seriyali moliyalashtirish raundini yakunladi. Bu bilan kompaniyaning bozor qiymati 3 milliard dollarga yetdi.",
+    "tags": [
+      "tibbiyot",
+      "biznes"
+    ],
+    "importance": 4,
+    "score": 15,
+    "published": "2026-10-23T12:40:01.000Z",
+    "created": "2026-10-23T15:03:00.299Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/261023/p9",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "994adf9e3e47",
+    "slug": "ai-matematikaning-kelajagi-haqida-bahslarni-keltirib-chiqard-994adf",
+    "title": "AI matematikaning kelajagi haqida bahslarni keltirib chiqardi",
+    "summary": "Sun'iy intellektdagi yutuqlar matematikaga ta'sir ko'rsatib, tadqiqotlar va matematiklar kelajakdagi roli borasida bahslarga sabab bo'lmoqda.",
+    "tags": [
+      "tadqiqot",
+      "mehnat bozori"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-10-23T11:25:41.000Z",
+    "created": "2026-10-23T15:03:00.299Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/ai-disruption-mathematics-researchers-debate-future-of-the-field-2026-10",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "6c027796c0ae",
+    "slug": "powershellda-ai-yordamida-avtomatik-yangilik-konveyeri-6c0277",
+    "title": "PowerShell'da AI yordamida avtomatik yangilik konveyeri",
+    "summary": "Bir foydalanuvchi PowerShell yordamida avtomatik yangilik konveyeri yaratdi. Bu tizim har kuni LLM haqida beshta maqolani uch daqiqada tayyorlab, inson aralashuvisiz saytga joylashtiradi.",
+    "tags": [
+      "tadqiqot",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 11,
+    "published": "2026-10-23T14:40:22.000Z",
+    "created": "2026-10-23T15:03:00.299Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1098616",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "a8a05a017c8b",
+    "slug": "claude-code-uchun-slimspec-koddan-keyin-spetsifikatsiya-a8a05a",
+    "title": "Claude Code uchun SlimSpec: koddan keyin spetsifikatsiya",
+    "summary": "Dasturchi Claude Code uchun SlimSpec plaginini yaratdi. Bu plagin spetsifikatsiyalarni kodlashdan keyin avtomatik ravishda hosil qiladi. Bu yechim an'anaviy usullarga nisbatan token sarfini sezilarli darajada kamaytirdi.",
+    "tags": [
+      "Anthropic",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 11,
+    "published": "2026-10-23T13:12:12.000Z",
+    "created": "2026-10-23T15:03:00.299Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1098516",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "a7451bec81a9",
+    "slug": "anthropic-ai-va-aqsh-saylovlarida-xolislikka-yondashuvi-a7451b",
+    "title": "Anthropic AI va AQSH saylovlarida xolislikka yondashuvi",
+    "summary": "Anthropic kompaniyasi AI'ning AQSH oraliq saylovlaridagi siyosiy xolislik va saylov yaxlitligiga qanday yondashayotganini tushuntirdi.",
+    "tags": [
+      "Anthropic",
+      "siyosat"
+    ],
+    "importance": 3,
+    "score": 10,
+    "published": "2026-10-23T13:22:39.000Z",
+    "created": "2026-10-23T15:03:00.299Z",
+    "coverage": 1,
+    "source": {
+      "name": "News18",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQb1BiY2FPY0VMS2dqVEcyZkNHTFZURGVxTGxCOUt2Wlc3UkFMNXN4RlJVOS15WTY0RDAxSFhCSktPblJBWmRQd1dic0oyeU50T2VBemNYUHpOTUVRaW05OUFOVWxqZjVuWFF5VWhCQnJqdHhkcl9rRVZ6RUxudVNhS3dMV0haN204d04zczBCNmpjc1JIbXd5SzVEYktKWUlPRVlMR3pkeWdEVlk0NzRhVGNwSm9feHJDSVFnNkRwMHdnTEll0gHKAUFVX3lxTFBqcVVNVG9tSV9XNXlLMEhNd1AwTHR2QjFVZnBNMUEwUXZtUDE4V2JrZ091V1QzYk9RWEduOEhYWTZ0Ri1UZjZxQUlkdDU5ZGlxX0dEYzZjZnBZbHFFbF9kX0M2SDJzQnd2Y1ZURnpzNTRfMzg1ZGJRRktobTBBLVNWblliQ2RZRnQwZ3ExaDFrR01PWGNiYm1LQ29SOUFFXzlqX3VXVzNjdkYwWk5LSHB4LTVLTlhNdllpcVdSSnNjNXYtSEtzbDBHU3c",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "526fd413e5cb",
     "slug": "anthropic-hisobotiga-mutaxassislar-shubha-bildirmoqda-526fd4",
     "title": "Anthropic hisobotiga mutaxassislar shubha bildirmoqda",
