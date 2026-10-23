@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/tadqiqot/</link>
   <description>&quot;tadqiqot&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Fri, 23 Oct 2026 18:46:38 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 23 Oct 2026 19:06:00 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/tadqiqot/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>AI modellari insoniyat haqida salbiy fikr bildirdi</title>
+    <link>https://ailenta.uz/x/ai-modellari-insoniyat-haqida-salbiy-fikr-bildirdi-b13d86/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/ai-modellari-insoniyat-haqida-salbiy-fikr-bildirdi-b13d86/</guid>
+    <pubDate>Fri, 23 Oct 2026 16:26:13 GMT</pubDate>
+    <description>Bir AI tajribasi shuni ko‘rsatdiki, katta til modellari (LLM) insoniyat haqida bahsli fikrlar so‘ralganda, ular biz haqimizda yaxshi gap aytmaydi. Modellarning xulosasiga ko‘ra, insonlar axloqsiz va itoatkor.</description>
+    <category>tadqiqot</category><category>xavfsizlik</category>
+    <media:content url="https://ailenta.uz/og/ai-modellari-insoniyat-haqida-salbiy-fikr-bildirdi-b13d86.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/ai-modellari-insoniyat-haqida-salbiy-fikr-bildirdi-b13d86.jpg"/>
+  </item>
   <item>
     <title>PowerShell'da AI yordamida avtomatik yangilik konveyeri</title>
     <link>https://ailenta.uz/x/powershellda-ai-yordamida-avtomatik-yangilik-konveyeri-6c0277/</link>
@@ -296,16 +306,6 @@
     <category>chiplar</category><category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/fpga-va-mikrosxemalarda-ai-boyicha-sharh-elon-qilindi-712adf.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/fpga-va-mikrosxemalarda-ai-boyicha-sharh-elon-qilindi-712adf.jpg"/>
-  </item>
-  <item>
-    <title>Gemma 4 modeli arab nutqini tanib olishda sinab ko'rildi</title>
-    <link>https://ailenta.uz/x/gemma-4-modeli-arab-nutqini-tanib-olishda-sinab-korildi-fd7306/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/gemma-4-modeli-arab-nutqini-tanib-olishda-sinab-korildi-fd7306/</guid>
-    <pubDate>Thu, 22 Oct 2026 04:00:00 GMT</pubDate>
-    <description>Tadqiqotchilar Gemma 4 modelining 305 million parametrli audio enkoderini arab tili shevalarida nutqni tanib olish uchun sinashdi. Model og'irliklari o'zgartirilmagan holda ham yaxshi natija berdi.</description>
-    <category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/gemma-4-modeli-arab-nutqini-tanib-olishda-sinab-korildi-fd7306.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/gemma-4-modeli-arab-nutqini-tanib-olishda-sinab-korildi-fd7306.jpg"/>
   </item>
 </channel>
 </rss>

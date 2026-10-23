@@ -1,17 +1,83 @@
 [
   {
+    "id": "b13d86d4bf56",
+    "slug": "ai-modellari-insoniyat-haqida-salbiy-fikr-bildirdi-b13d86",
+    "title": "AI modellari insoniyat haqida salbiy fikr bildirdi",
+    "summary": "Bir AI tajribasi shuni ko‘rsatdiki, katta til modellari (LLM) insoniyat haqida bahsli fikrlar so‘ralganda, ular biz haqimizda yaxshi gap aytmaydi. Modellarning xulosasiga ko‘ra, insonlar axloqsiz va itoatkor.",
+    "tags": [
+      "tadqiqot",
+      "xavfsizlik"
+    ],
+    "importance": 2,
+    "score": 19,
+    "published": "2026-10-23T16:26:13.000Z",
+    "created": "2026-10-23T18:48:16.054Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/ai-and-ml/2026/10/23/ai-models-think-humans-are-a-bunch-of-amoral-sheep/5305123",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "e965c4af0fea",
+    "slug": "ayrim-ai-modellar-erkin-nutq-haftaligini-qo-llab-quvvatlamad-e965c4",
+    "title": "Ayrim AI modellar erkin nutq haftaligini qo‘llab-quvvatlamadi",
+    "summary": "Xabarlarga ko‘ra, ayrim \"chap qanot\" AI modellari amerikaliklar uchun Erkin Nutq Haftaligini qo‘llab-quvvatlashdan bosh tortgan. Bu holat AI modellaridagi siyosiy tarafkashlik masalasini yana bir bor kun tartibiga olib chiqdi.",
+    "tags": [
+      "siyosat",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 7,
+    "published": "2026-10-23T16:47:55.000Z",
+    "created": "2026-10-23T18:48:16.054Z",
+    "coverage": 1,
+    "source": {
+      "name": "Newsbusters",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTC1HSDZEcFZOS1VEd2dCQ0NFdE5SMllQc0RqcVlrM2UzaEdRU2F1cW01czNFaUtiV0xpY1hUSnRBc3NueDBNbjBwWWxld21GSC1uWWR5Z0Q5QUVOMnhEcDhSR2QyclVLeXZQYk5iczlLMVVHZ0JSVjNYOGJHTjdaTWc5R3ZtOEJGZTdoeFN6U1VOcy1FdURMUlBrS2c2SmgxdUQ5azFVQzhjUFRQM0ctbW4xNE1JVzF0dlE",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "6d842ce954ff",
+    "slug": "anthropic-ai-nazorati-yetarlicha-demokratik-emas-6d842c",
+    "title": "Anthropic AI nazorati yetarlicha demokratik emas",
+    "summary": "The Hill nashri Anthropic kompaniyasining AI nazorati yetarlicha demokratik emasligini ta’kidladi. Bu tanqid AI rivojlanishida shaffoflik va keng ishtirok etish zarurligini ko‘rsatadi.",
+    "tags": [
+      "Anthropic",
+      "siyosat"
+    ],
+    "importance": 3,
+    "score": 7,
+    "published": "2026-10-23T12:30:00.000Z",
+    "created": "2026-10-23T18:48:16.054Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Hill",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSEl6V3BOTTg3R0pGNnNxMHhCOWctMWxjc0lLMFRTNFg4bV9OSHJKQzRlN3EtTTh1cTl0VGt4RE1xSm4tS1l1a0pzbklwQjU1VW9rSzdaa2pxdm1xOU9PcWhBd0lPc2pfY1ZETlFjZHlJNGNIR3BaNGhrNk44NzY1b0xUbkN6c2fSAYwBQVVfeXFMTkRlYW5hQlYxZHIwVF83UlV4a3dlNTQzV2dCeUdWS3ZVaWNmUkdvS0lvdEN6NjV2UUh2a2lNdUNvanY1dkxmaDBkTmkydnhXaGkxR3Jrc25CejdHdnhNeGZkdVJ3ek1ESlJVa05ER3JZX1FmcTZQZUFoN3p6alAzbFlXWmJuS0YyUHcxVXQ",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "141308582d47",
-    "slug": "meta-daromadi-zuckerbergning-ai-ambitsiyalari-uchun-yetarli--141308",
-    "title": "Meta daromadi Zuckerbergning AI ambitsiyalari uchun yetarli emas",
-    "summary": "Meta kompaniyasi har qachongidan ham ko‘proq daromad olayotgan bo‘lsa-da, bu Mark Zuckerbergning AI sohasidagi ambitsiyalarini moliyalashtirish uchun yetarli emas.",
+    "slug": "meta-daromadi-zuckerbergning-ai-ambitsiyalariga-yetmayapti-141308",
+    "title": "Meta daromadi Zuckerbergning AI ambitsiyalariga yetmayapti",
+    "summary": "Meta kompaniyasi har qachongidan ham ko‘proq daromad olayotgan bo‘lsa-da, bu Mark Zuckerbergning AI sohasidagi ulkan ambitsiyalarini qondirish uchun yetarli emas. Bu Meta'ning sun'iy intellektga katta sarmoya kiritish niyatini ko‘rsatadi.",
     "tags": [
       "Meta",
       "biznes"
     ],
-    "importance": 3,
+    "importance": 4,
     "score": 7,
     "published": "2026-10-23T11:55:09.000Z",
-    "created": "2026-10-23T18:39:57.493Z",
+    "created": "2026-10-23T18:48:16.054Z",
     "coverage": 1,
     "source": {
       "name": "Inc.com",
