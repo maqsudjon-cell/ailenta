@@ -5,7 +5,7 @@
   <link>https://ailenta.uz/mavzu/tadqiqot/</link>
   <description>&quot;tadqiqot&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Fri, 23 Oct 2026 06:06:35 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 23 Oct 2026 06:50:02 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/tadqiqot/rss.xml" rel="self" type="application/rss+xml"/>
   <item>
     <title>AQShda tarixni o'rganuvchi Lighthouse chatbot yaratildi</title>
@@ -96,6 +96,16 @@
     <category>tadqiqot</category><category>Google</category>
     <media:content url="https://ailenta.uz/og/ai-rus-brendlari-haqida-ingliz-tilida-rus-manbalarini-kam-ko-3e1ef1.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/ai-rus-brendlari-haqida-ingliz-tilida-rus-manbalarini-kam-ko-3e1ef1.jpg"/>
+  </item>
+  <item>
+    <title>Armin Ronacher: AI 30 yillik yomon dasturiy ta'minot jazosi</title>
+    <link>https://ailenta.uz/x/armin-ronacher-ai-30-yillik-yomon-dasturiy-taminot-jazosi-6cf146/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/armin-ronacher-ai-30-yillik-yomon-dasturiy-taminot-jazosi-6cf146/</guid>
+    <pubDate>Thu, 22 Oct 2026 15:34:13 GMT</pubDate>
+    <description>Dasturchi Armin Ronacherning fikricha, AI qiziqarli bo‘lsa-da, so‘nggi 30 yilda yaratilgan ko‘plab yomon dasturiy ta'minot uchun &quot;jazo&quot; hisoblanadi. Bu AI bilan bog‘liq xavfsizlik muammolariga ishora.</description>
+    <category>xavfsizlik</category><category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/armin-ronacher-ai-30-yillik-yomon-dasturiy-taminot-jazosi-6cf146.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/armin-ronacher-ai-30-yillik-yomon-dasturiy-taminot-jazosi-6cf146.jpg"/>
   </item>
   <item>
     <title>AI agentlar kodni tekshirish jarayonini o'zgartirmoqda</title>
@@ -296,16 +306,6 @@
     <category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/neyrosetning-ichki-fikrlarini-oqish-mumkinmi-234d7c.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/neyrosetning-ichki-fikrlarini-oqish-mumkinmi-234d7c.jpg"/>
-  </item>
-  <item>
-    <title>AIga insondek munosabatda bo'lishni to'xtatish tajribasi</title>
-    <link>https://ailenta.uz/x/aiga-insondek-munosabatda-bolishni-toxtatish-tajribasi-bb28bb/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/aiga-insondek-munosabatda-bolishni-toxtatish-tajribasi-bb28bb/</guid>
-    <pubDate>Wed, 21 Oct 2026 08:42:32 GMT</pubDate>
-    <description>Bir dasturchi AI bilan yakka tartibda loyihalar yaratish tajribasini boʻlishdi. U AIga insondek munosabatda boʻlishni toʻxtatganini va LLM yordamida mahsulot yaratishdagi qiyinchiliklarni, jumladan kontekst va iteratsiyalar muammolarini tushuntirdi.</description>
-    <category>tadqiqot</category><category>mehnat bozori</category>
-    <media:content url="https://ailenta.uz/og/aiga-insondek-munosabatda-bolishni-toxtatish-tajribasi-bb28bb.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/aiga-insondek-munosabatda-bolishni-toxtatish-tajribasi-bb28bb.jpg"/>
   </item>
 </channel>
 </rss>
