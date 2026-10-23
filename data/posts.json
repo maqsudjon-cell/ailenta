@@ -1,43 +1,131 @@
 [
   {
-    "id": "c744e4ea5afb",
-    "slug": "meta-yangi-qoidalari-ekspertlarni-qanoatlantirmadi-c744e4",
-    "title": "Meta yangi qoidalari ekspertlarni qanoatlantirmadi",
-    "summary": "Meta kompaniyasi o'z qoidalaridan AI modellarini yangilik saytlari hisobiga erkin o'qitish haqidagi bandni olib tashladi. Biroq huquqshunoslar ushbu o'zgarishlar nashrlardan ma'lumot yig'ish xavfini butunlay yo'qotmaganini ta'kidlamoqda.",
+    "id": "7285761e3d37",
+    "slug": "twilio-ai-bilan-ish-samaradorligini-oshirdi-728576",
+    "title": "Twilio AI bilan ish samaradorligini oshirdi",
+    "summary": "Twilio kompaniyasining marketing bo‘limi AI yordamida ikki haftalik ishni bir kunga qisqartirdi. Bu choraklik kampaniyalar sonini 3 tadan 15 tagacha oshirdi, ammo AI ma'lumotlar, boshqaruv va integratsiya ishlarini bajara olmadi.",
     "tags": [
-      "Meta",
-      "qonun"
+      "biznes",
+      "mehnat bozori"
     ],
     "importance": 3,
-    "score": 13.6,
-    "published": "2026-10-22T20:32:05.000Z",
-    "created": "2026-10-23T12:03:42.944Z",
+    "score": 22,
+    "published": "2026-10-23T11:30:00.000Z",
+    "created": "2026-10-23T12:14:06.021Z",
     "coverage": 1,
     "source": {
-      "name": "The Verge",
-      "url": "https://theverge.com/tech/1017082/meta-terms-update-ai-training-concerns",
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/10/23/twilio-cmo-we-shrank-2-weeks-of-work-down-to-one",
       "indirect": false
     },
     "also": [],
     "model": "gemini"
   },
   {
-    "id": "60d66e540cc1",
-    "slug": "ai-kadrlarni-tanlashda-tarafkashlik-qilishi-aniqlandi-60d66e",
-    "title": "AI kadrlarni tanlashda tarafkashlik qilishi aniqlandi",
-    "summary": "Ai2 instituti o'tkazgan FairStress tadqiqotida Tülu 3.1 8B modeli nomzodlarni tanlashda ayol kishini hatto malakasi pastroq bo'lganda ham tanlagan. Model bu xulosasini nomzodning salohiyati va turfa xil tajribasi bilan oqlagan.",
+    "id": "ff55915616e3",
+    "slug": "torvalds-ai-kod-sifati-yaxshi-bolsa-muammo-emas-ff5591",
+    "title": "Torvalds: AI kod sifati yaxshi bo'lsa, muammo emas",
+    "summary": "Linus Torvaldsning fikricha, AI malakali dasturchilar uchun yaxshi vosita. Kernelni qo‘llab-quvvatlovchilar kod sifati yuqori bo‘lsa, AI ishlatilgani haqida so‘ramaydi.",
     "tags": [
-      "tadqiqot",
-      "mehnat bozori"
+      "mehnat bozori",
+      "tadqiqot"
     ],
     "importance": 3,
-    "score": 11,
-    "published": "2026-10-23T11:23:51.000Z",
-    "created": "2026-10-23T12:03:42.944Z",
+    "score": 19,
+    "published": "2026-10-23T11:31:00.000Z",
+    "created": "2026-10-23T12:14:06.022Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/columnists/2026/10/23/torvalds-ai-is-fine-for-competent-devs-but-spare-us-the-drive-by-patches/5304357",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "4d3dae23b846",
+    "slug": "ai-tasiri-yaim-korsatkichlarida-aks-etmayapti-4d3dae",
+    "title": "AI ta'siri YaIM ko'rsatkichlarida aks etmayapti",
+    "summary": "Sun'iy intellektning ta'siri YaIM va mehnat unumdorligi ko‘rsatkichlarida hali aks etmayapti. Kompaniyalar xarajatlarni qisqartirishdan ko‘ra, investitsiya kiritishga o‘tmaguncha bu holat o‘zgarmaydi.",
+    "tags": [
+      "iqtisod",
+      "biznes"
+    ],
+    "importance": 4,
+    "score": 19,
+    "published": "2026-10-23T10:30:00.000Z",
+    "created": "2026-10-23T12:14:06.022Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/10/23/ai-everywhere-except-in-the-gdp-numbers-innovation-lag-general-purpose-technology",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "73558bf56090",
+    "slug": "ai-tufayli-retro-oyinlar-kutilmagan-joylarda-paydo-bolmoqda-73558b",
+    "title": "AI tufayli retro o'yinlar kutilmagan joylarda paydo bo'lmoqda",
+    "summary": "Yangi AI vositalari yordamida retro video o‘yinlar kutilmagan joylarda, masalan, Halo brauzerda yoki Wind Waker iPhone'da paydo bo‘lmoqda. So‘nggi oyda bunday loyihalar tez-tez ommalashdi.",
+    "tags": [
+      "tadqiqot",
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-10-23T12:00:00.000Z",
+    "created": "2026-10-23T12:14:06.022Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Verge",
+      "url": "https://theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "a108e21411fa",
+    "slug": "intel-rahbariyati-ai-chiplari-talabi-haqida-intervyu-berdi-a108e2",
+    "title": "Intel rahbariyati AI chiplari talabi haqida intervyu berdi",
+    "summary": "Intel rahbariyati, jumladan CTO Pushkar Ranade, AI chiplariga bo‘lgan talab, 10nm texnologiyasidan olingan saboqlar va TSMC'ga yetib olish imkoniyatlari haqida intervyu berdi. Intervyu davomida Intelning ilg‘or zavodi ko‘zdan kechirildi.",
+    "tags": [
+      "Intel",
+      "chiplar"
+    ],
+    "importance": 4,
+    "score": 15,
+    "published": "2026-10-23T11:45:14.000Z",
+    "created": "2026-10-23T12:14:06.022Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/261023/p8",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "6bc8e17d0f8f",
+    "slug": "ai-loyihada-kontekstni-yoqotmasligi-uchun-yechimlar-6bc8e1",
+    "title": "AI loyihada kontekstni yo'qotmasligi uchun yechimlar",
+    "summary": "Uzoq muddatli loyihalarda AI kontekstni yo‘qotishi, eskirgan ma'lumotlarga tayanib, avvalgi kelishuvlarga zid harakat qilishi mumkin. Maqolada ChatGPT Projects, ko‘rsatmalar va hujjatlar orqali loyiha kontekstini boshqarish yo‘llari muhokama qilingan.",
+    "tags": [
+      "tadqiqot",
+      "agentlar"
+    ],
+    "importance": 3,
+    "score": 14,
+    "published": "2026-10-23T11:41:53.000Z",
+    "created": "2026-10-23T12:14:06.022Z",
     "coverage": 1,
     "source": {
       "name": "Habr",
-      "url": "https://habr.com/ru/articles/1098436",
+      "url": "https://habr.com/ru/articles/1098458",
       "indirect": false
     },
     "also": [],

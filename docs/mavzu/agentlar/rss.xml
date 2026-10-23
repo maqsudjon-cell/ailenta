@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/agentlar/</link>
   <description>&quot;agentlar&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Fri, 23 Oct 2026 12:12:16 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 23 Oct 2026 12:32:04 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/agentlar/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>AI loyihada kontekstni yo'qotmasligi uchun yechimlar</title>
+    <link>https://ailenta.uz/x/ai-loyihada-kontekstni-yoqotmasligi-uchun-yechimlar-6bc8e1/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/ai-loyihada-kontekstni-yoqotmasligi-uchun-yechimlar-6bc8e1/</guid>
+    <pubDate>Fri, 23 Oct 2026 11:41:53 GMT</pubDate>
+    <description>Uzoq muddatli loyihalarda AI kontekstni yo‘qotishi, eskirgan ma'lumotlarga tayanib, avvalgi kelishuvlarga zid harakat qilishi mumkin. Maqolada ChatGPT Projects, ko‘rsatmalar va hujjatlar orqali loyiha kontekstini boshqarish yo‘llari muhokama qilingan.</description>
+    <category>tadqiqot</category><category>agentlar</category>
+    <media:content url="https://ailenta.uz/og/ai-loyihada-kontekstni-yoqotmasligi-uchun-yechimlar-6bc8e1.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/ai-loyihada-kontekstni-yoqotmasligi-uchun-yechimlar-6bc8e1.jpg"/>
+  </item>
   <item>
     <title>Qoder agentiga Loongson LoongArch qo'llab-quvvatlovi qo'shildi</title>
     <link>https://ailenta.uz/x/qoder-agentiga-loongson-loongarch-qollab-quvvatlovi-qoshildi-5ea0ca/</link>
@@ -296,16 +306,6 @@
     <category>agentlar</category><category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/ai-agenti-korporativ-malumotlardan-uch-xil-javob-oldi-167997.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/ai-agenti-korporativ-malumotlardan-uch-xil-javob-oldi-167997.jpg"/>
-  </item>
-  <item>
-    <title>Veb-sahifa sarlavhalarida bilvosita so'rov in'eksiyasi</title>
-    <link>https://ailenta.uz/x/veb-sahifa-sarlavhalarida-bilvosita-sorov-ineksiyasi-8e661e/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/veb-sahifa-sarlavhalarida-bilvosita-sorov-ineksiyasi-8e661e/</guid>
-    <pubDate>Thu, 15 Oct 2026 20:04:00 GMT</pubDate>
-    <description>Veb-sahifa sarlavhalarida bilvosita so'rov in'eksiyasi holatlari aniqlandi. Ko'pchilik urinishlar hazil bo'lsa-da, ba'zilari ehtiyotsiz AI agentlarini chalg'itishi mumkin.</description>
-    <category>xavfsizlik</category><category>agentlar</category>
-    <media:content url="https://ailenta.uz/og/veb-sahifa-sarlavhalarida-bilvosita-sorov-ineksiyasi-8e661e.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/veb-sahifa-sarlavhalarida-bilvosita-sorov-ineksiyasi-8e661e.jpg"/>
   </item>
 </channel>
 </rss>
