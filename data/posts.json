@@ -1,5 +1,69 @@
 [
   {
+    "id": "abe15fc8b94d",
+    "slug": "ai-va-php-dasturidagi-zaifliklar-xavfi-abe15f",
+    "title": "AI va PHP dasturidagi zaifliklar xavfi",
+    "summary": "Dunyo bo'ylab tashkilotlar PHP dasturiy ta'minotidagi jiddiy zaifliklarni bartaraf etmoqda. Sun'iy intellekt ushbu nuqsonlarni aniqlashga yordam bergan bo'lsa-da, ulardan foydalanish xavfini ham oshirmoqda. Amazon muammo oshkor qilinishidan oldin hujum urinishini aniqlaganini bildirdi.",
+    "tags": [
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 25,
+    "published": "2026-10-22T17:30:45.000Z",
+    "created": "2026-10-23T08:02:01.628Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/commentisfree/2026/oct/22/the-guardian-view-on-ai-safety-the-push-for-global-regulation-must-advance",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "548aa010bfd5",
+    "slug": "spacex-ai-loyihalari-uchun-mablag-yigmoqda-548aa0",
+    "title": "SpaceX AI loyihalari uchun mablag' yig'moqda",
+    "summary": "Elon Musk chiplar va ma'lumotlar markazlarini kengaytirish uchun moliyaviy mablag' yig'ishga harakat qilmoqda. AI bilan bog'liq xavotirlar sababli SpaceX kompaniyasining 40 milliard dollarlik qarz bitimi qimmatlashmoqda.",
+    "tags": [
+      "biznes",
+      "chiplar"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-10-22T20:09:20.000Z",
+    "created": "2026-10-23T08:02:01.628Z",
+    "coverage": 1,
+    "source": {
+      "name": "Semafor",
+      "url": "https://semafor.com/article/10/22/2026/spacex-40b-debt-deal-will-cost-it-as-ai-fears-spread",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "74bd144fb682",
+    "slug": "clariedge-rag-tizimida-sorovlarni-aniqlaydi-74bd14",
+    "title": "ClariEdge RAG tizimida so'rovlarni aniqlaydi",
+    "summary": "Tadqiqotchilar RAG tizimlari uchun mo'ljallangan ClariEdge ma'lumotlar to'plamini taqdim etdi. Ushbu kichik model foydalanuvchilarning noaniq so'rovlarini aniqlab, to'g'ri savol berishga yordam beradi.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 7,
+    "published": "2026-10-23T04:00:00.000Z",
+    "created": "2026-10-23T08:02:01.628Z",
+    "coverage": 1,
+    "source": {
+      "name": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2610.28686",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "50a72835af24",
     "slug": "tesla-superkar-va-arzon-elektromobil-tanlovi-haqida-50a728",
     "title": "Tesla superkar va arzon elektromobil tanlovi haqida",
