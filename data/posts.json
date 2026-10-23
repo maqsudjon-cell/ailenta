@@ -1,5 +1,72 @@
 [
   {
+    "id": "9d27ce4b85ff",
+    "slug": "ai-shifokorlarining-xizmatlari-qimmatga-tushmoqda-9d27ce",
+    "title": "AI shifokorlarining xizmatlari qimmatga tushmoqda",
+    "summary": "Nature nashrining xabar berishicha, sun'iy intellektga asoslangan tibbiy xizmatlar va \"AI shifokorlarining\" tavsiyalari yuqori narxda bo'lishi mumkin. Bu AI'ning tibbiyotdagi iqtisodiy jihatlariga e'tibor qaratadi.",
+    "tags": [
+      "tibbiyot",
+      "iqtisod"
+    ],
+    "importance": 3,
+    "score": 3.6,
+    "published": "2026-10-21T00:00:00.000Z",
+    "created": "2026-10-23T12:37:27.463Z",
+    "coverage": 1,
+    "source": {
+      "name": "Nature",
+      "url": "https://nature.com/articles/d41586-026-03320-8",
+      "title": "AI doctors’ orders come with a sky-high bill",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "fe9e45b7f287",
+    "slug": "komikning-hazili-ai-tomonidan-ogirlandi-meta-ayblanmoqda-fe9e45",
+    "title": "Komikning hazili AI tomonidan o'g'irlandi, Meta ayblanmoqda",
+    "summary": "Komik George Brett Olsonning hazili sun'iy intellekt yaratuvchisi tomonidan o'g'irlangan. U bu holatda Meta kompaniyasini ayblab, o'zini ojiz his qilayotganini bildirdi.",
+    "tags": [
+      "Meta",
+      "qonun"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-10-23T12:00:01.000Z",
+    "created": "2026-10-23T12:37:36.370Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/comedian-ai-creator-stole-my-joke-i-blame-meta-2026-10",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "3b86bfc8b835",
+    "slug": "frontier-ai-va-mustaqil-baholashlar-boyicha-savollar-3b86bf",
+    "title": "Frontier AI va mustaqil baholashlar bo'yicha savollar",
+    "summary": "\"Just Security\" nashri \"Frontier AI\" (eng ilg'or AI) va uning mustaqil baholashlari yuzasidan noqulay savollarni ko'tardi. Bu AI xavfsizligi va nazorati masalalariga e'tibor qaratadi.",
+    "tags": [
+      "xavfsizlik",
+      "siyosat"
+    ],
+    "importance": 3,
+    "score": 3.3,
+    "published": "2026-10-22T15:24:15.000Z",
+    "created": "2026-10-23T12:37:36.370Z",
+    "coverage": 1,
+    "source": {
+      "name": "Just Security",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUHdXZUIzVm5HMld2V0dYNjNPenNoY2NXMXlrNUJYMVpHM093VHR5NUh1WTN1NXpsTlZrM2lKUGI0QmtBY2V6WFBEWTYxWFk5Z2FTdThiMkRRSnFYX1pILTlXSUUtY0FIQ0s4NEtpNHJRdWpZeVYtNWYycUhNUTAtZk9PQ1JjczI5Q3dGRFdfRWs3Z2FJT1dkLUFySQ",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "7285761e3d37",
     "slug": "twilio-ai-bilan-ish-samaradorligini-oshirdi-728576",
     "title": "Twilio AI bilan ish samaradorligini oshirdi",
