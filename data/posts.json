@@ -1,5 +1,49 @@
 [
   {
+    "id": "ebb21e9fdb70",
+    "slug": "huawei-ai-uchun-yangi-xotira-arxitekturasini-korsatdi-ebb21e",
+    "title": "Huawei AI uchun yangi xotira arxitekturasini ko'rsatdi",
+    "summary": "Huawei ASC 2026 anjumanida agentli AI xulosa chiqarishi uchun yangi xotira va tarmoq yechimini taqdim etdi. Laboratoriya sinovlarida KV Cache yukini yengillatish orqali xulosa chiqarish o'tkazuvchanligi 7.3 barobarga oshgani ko'rsatildi.",
+    "tags": [
+      "agentlar",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 21,
+    "published": "2026-10-23T01:51:30.000Z",
+    "created": "2026-10-23T05:27:07.310Z",
+    "coverage": 1,
+    "source": {
+      "name": "Pandaily",
+      "url": "https://pandaily.com/huawei-stellar-ai-fabric-hcf-kv-cache-storage-network-asc-2026",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "98fc2abbb2d4",
+    "slug": "aqshda-tarixni-organuvchi-lighthouse-chatbot-yaratildi-98fc2a",
+    "title": "AQShda tarixni o'rganuvchi Lighthouse chatbot yaratildi",
+    "summary": "AQShning Janubiy Karolina shtati ma'lumotlari asosida Fuqarolik huquqlari davrini o'rganish uchun Lighthouse raqamli yordamchisi yaratildi. Chatbot kontentning ishonchliligi va foydalanuvchilarga zararni kamaytirish tamoyillariga asoslangan.",
+    "tags": [
+      "tadqiqot",
+      "ta'lim"
+    ],
+    "importance": 2,
+    "score": 16,
+    "published": "2026-10-23T04:00:00.000Z",
+    "created": "2026-10-23T05:27:07.310Z",
+    "coverage": 1,
+    "source": {
+      "name": "arXiv cs.CL",
+      "url": "https://arxiv.org/abs/2610.30158",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "822412740c4f",
     "slug": "qozogiston-ai-kelajagi-uchun-hisoblash-quvvatini-kengaytirmo-822412",
     "title": "Qozog'iston AI kelajagi uchun hisoblash quvvatini kengaytirmoqda",
