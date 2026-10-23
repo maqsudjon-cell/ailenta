@@ -1,5 +1,48 @@
 [
   {
+    "id": "48fc33d574a1",
+    "slug": "hindistonda-ishchilar-ai-oqitish-uchun-tasvirga-olinmoqda-48fc33",
+    "title": "Hindistonda ishchilar AI o'qitish uchun tasvirga olinmoqda",
+    "summary": "Hindistonda ishchilarga o'z ish jarayonlarini videoga olish uchun haq to'lanmoqda. Ushbu tasvirlardan sun'iy intellekt modellarini o'qitishda foydalaniladi.",
+    "tags": [
+      "mehnat bozori"
+    ],
+    "importance": 3,
+    "score": 23,
+    "published": "2026-10-23T08:04:17.000Z",
+    "created": "2026-10-23T09:01:58.585Z",
+    "coverage": 1,
+    "source": {
+      "name": "BBC News",
+      "url": "https://bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "d311475552da",
+    "slug": "claude-tajribasi-ai-tibbiyot-cheklovlarini-korsatdi-d31147",
+    "title": "Claude tajribasi AI tibbiyot cheklovlarini ko'rsatdi",
+    "summary": "Claude modeli bilan chayon zahariga qarshi zardob yaratish bo'yicha o'tkazilgan tajriba sun'iy intellektning dori vositalarini yaratishdagi cheklovlarini ko'rsatib berdi.",
+    "tags": [
+      "Anthropic",
+      "tibbiyot"
+    ],
+    "importance": 3,
+    "score": 3.6,
+    "published": "2026-10-22T12:36:00.000Z",
+    "created": "2026-10-23T09:01:58.585Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Tech Buzz",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPY2oxb1pnMkhYT3F2UmZJcEpSYmhMSnByZkNGLUVsMjRrTU1xbVVtVV9OMmdjUXNnMHNKN1NhaVdUVUE4bWQ2Tk1OUzVBamFNeXViS1B3RlhTZktFZlJqZXNPdkdrYkhtUnpLU3NxUlI2N05Ld2JKbldxcUZWNGhLbEliZTJvcGpoY3hFS1NCNzBtYXE1NU9IdGFn",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "abe15fc8b94d",
     "slug": "ai-va-php-dasturidagi-zaifliklar-xavfi-abe15f",
     "title": "AI va PHP dasturidagi zaifliklar xavfi",
