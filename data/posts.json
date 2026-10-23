@@ -1,5 +1,49 @@
 [
   {
+    "id": "822412740c4f",
+    "slug": "qozogiston-ai-kelajagi-uchun-hisoblash-quvvatini-kengaytirmo-822412",
+    "title": "Qozog'iston AI kelajagi uchun hisoblash quvvatini kengaytirmoqda",
+    "summary": "Qozog'iston o'zining sun'iy intellekt ekotizimini infratuzilma rejasidan amaliyotga o'tkazmoqda. Mamlakatda tezlashtirilgan hisoblash quvvatiga bo'lgan talab va taklif ortib bormoqda. Bu AI infratuzilmasidan tortib modellargacha bo'lgan barcha sohalarda kuzatilmoqda.",
+    "tags": [
+      "Nvidia",
+      "siyosat"
+    ],
+    "importance": 3,
+    "score": 36,
+    "published": "2026-10-23T02:00:13.000Z",
+    "created": "2026-10-23T03:36:27.691Z",
+    "coverage": 1,
+    "source": {
+      "name": "Nvidia",
+      "url": "https://blogs.nvidia.com/blog/kazakhstan-ai-compute-ecosystem",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "3b72b9586251",
+    "slug": "bosh-direktorlar-aidan-transformatsion-ozgarishlarni-kormaya-3b72b9",
+    "title": "Bosh direktorlar AI'dan transformatsion o'zgarishlarni ko'rmayapti",
+    "summary": "Kompaniya bosh direktorlari sun'iy intellektdan hali transformatsion o'zgarishlarni sezmayotganliklarini bildirdi. Ular AI'ning biznesga ta'siri borasida kutgan natijalarga erishilmaganini ta'kidlamoqda.",
+    "tags": [
+      "biznes",
+      "mehnat bozori"
+    ],
+    "importance": 2,
+    "score": 7,
+    "published": "2026-10-22T18:56:36.000Z",
+    "created": "2026-10-23T03:36:27.691Z",
+    "coverage": 1,
+    "source": {
+      "name": "HR Dive",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcnE0c2FEemlORE1zS2Q2WUU5SmMtbXVTa0xVdlMycDZ4Q1BZQTZtMkF1bFhHX2UtbkEyZDF5b2JabHI0ZTRLSFhUcGtQTHB6ZkdobVQteG8xLW1iUU9XdnppQV9kb0ZmMkFtUXRncGpZak1va3JWUGNkMnppRDhuaDRpZTBadGxkTWtjZUlWVUs",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "f0567295df84",
     "slug": "aqsh-xazinachiligi-ai-sarmoyalariga-cheklovlar-taklif-qildi-f05672",
     "title": "AQSh Xazinachiligi AI sarmoyalariga cheklovlar taklif qildi",
