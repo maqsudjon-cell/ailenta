@@ -1,5 +1,49 @@
 [
   {
+    "id": "c744e4ea5afb",
+    "slug": "meta-yangi-qoidalari-ekspertlarni-qanoatlantirmadi-c744e4",
+    "title": "Meta yangi qoidalari ekspertlarni qanoatlantirmadi",
+    "summary": "Meta kompaniyasi o'z qoidalaridan AI modellarini yangilik saytlari hisobiga erkin o'qitish haqidagi bandni olib tashladi. Biroq huquqshunoslar ushbu o'zgarishlar nashrlardan ma'lumot yig'ish xavfini butunlay yo'qotmaganini ta'kidlamoqda.",
+    "tags": [
+      "Meta",
+      "qonun"
+    ],
+    "importance": 3,
+    "score": 13.6,
+    "published": "2026-10-22T20:32:05.000Z",
+    "created": "2026-10-23T12:03:42.944Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Verge",
+      "url": "https://theverge.com/tech/1017082/meta-terms-update-ai-training-concerns",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "60d66e540cc1",
+    "slug": "ai-kadrlarni-tanlashda-tarafkashlik-qilishi-aniqlandi-60d66e",
+    "title": "AI kadrlarni tanlashda tarafkashlik qilishi aniqlandi",
+    "summary": "Ai2 instituti o'tkazgan FairStress tadqiqotida Tülu 3.1 8B modeli nomzodlarni tanlashda ayol kishini hatto malakasi pastroq bo'lganda ham tanlagan. Model bu xulosasini nomzodning salohiyati va turfa xil tajribasi bilan oqlagan.",
+    "tags": [
+      "tadqiqot",
+      "mehnat bozori"
+    ],
+    "importance": 3,
+    "score": 11,
+    "published": "2026-10-23T11:23:51.000Z",
+    "created": "2026-10-23T12:03:42.944Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1098436",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "9d44886c3fa3",
     "slug": "pg-e-rahbari-ai-elektr-tarmogiga-foydali-ekanini-aytdi-9d4488",
     "title": "PG&E rahbari AI elektr tarmog'iga foydali ekanini aytdi",
