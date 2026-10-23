@@ -1,5 +1,115 @@
 [
   {
+    "id": "d524ded1295e",
+    "slug": "hugging-faces-yangi-ai-biologiya-modeli-dnk-bilan-gaplashadi-d524de",
+    "title": "Hugging Face’s yangi AI biologiya modeli DNK bilan gaplashadi",
+    "summary": "Hugging Face yangi ochiq kodli AI biologiya modelini taqdim etdi. Bu model DNK tilida \"gaplasha\" oladi va tadqiqotchilarga gen faoliyati hamda salomatlikdagi o'zgarishlarni tushunishga yordam beradi.",
+    "tags": [
+      "Hugging Face",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 24.8,
+    "published": "2026-10-22T10:00:00.000Z",
+    "created": "2026-10-23T01:02:01.776Z",
+    "coverage": 1,
+    "source": {
+      "name": "Wired",
+      "url": "https://wired.com/story/hugging-face-new-ai-biology-model-chat-with-dna",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "82f75c22c6c8",
+    "slug": "etsy-ai-tomonidan-yaratilgan-retsept-va-naqshlarni-taqiqladi-82f75c",
+    "title": "Etsy AI tomonidan yaratilgan retsept va naqshlarni taqiqladi",
+    "summary": "Etsy o'zining onlayn bozorida AI tomonidan yaratilgan retseptlar va naqshlarni taqiqladi. Platforma sotuvchilarga inson ishtirokisiz bot tomonidan yaratilgan ro'yxatlarni joylashtirishni ham chekladi.",
+    "tags": [
+      "biznes",
+      "qonun"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-10-22T23:45:50.000Z",
+    "created": "2026-10-23T01:02:01.776Z",
+    "coverage": 1,
+    "source": {
+      "name": "CNBC",
+      "url": "https://cnbc.com/2026/10/22/etsy-bans-ai-generated-recipes-patterns-from-its-online-marketplace.html",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "6c12e1a41ba7",
+    "slug": "a16z-crypto-nomi-a16z-frontier-aiga-sarmoya-kiritadi-6c12e1",
+    "title": "a16z Crypto nomi a16z Frontier, AIga sarmoya kiritadi",
+    "summary": "Andreessen Horowitz (a16z) o'zining a16z Crypto fondini a16z Frontier deb qayta nomladi. Endi fond AI, robototexnika va boshqa rivojlanayotgan texnologiyalarni qo'llab-quvvatlaydi.",
+    "tags": [
+      "biznes",
+      "iqtisod"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-10-22T23:05:43.000Z",
+    "created": "2026-10-23T01:02:01.776Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/261022/p56",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "5ca5ee3c7d08",
+    "slug": "anthropic-ai-taraqqiyoti-haqida-hisobot-elon-qildi-5ca5ee",
+    "title": "Anthropic AI taraqqiyoti haqida hisobot e'lon qildi",
+    "summary": "Anthropic kompaniyasi AI taraqqiyoti va uning ta'sirini o'lchashdagi kamchiliklar haqida jamoatchilikka foyda hisobotini nashr etdi.",
+    "tags": [
+      "Anthropic",
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 10,
+    "published": "2026-10-23T00:15:16.000Z",
+    "created": "2026-10-23T01:02:01.776Z",
+    "coverage": 1,
+    "source": {
+      "name": "EdTech Innovation Hub",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObGdHcVgwRk5YcWdMdGFjOGUyOGozak02TzNHdWJVUXI5NEt6VWx4VzJfdXNCSy1Vc0xHdWRRX3VGeG5od2xnVXdQVEJWLW5tdnVEbVNRLTdUWVl0UWlTOFdWejA3UXkzWjQzQVhlLUVlY08tWFJDeFVnYk80Um9BTDlsOFhGdThaeW84VllKc3BtS0lUdm9Ja1dON2pHUWV2V2FhOVNFaktwOEpvS1Q0TVV3YzdhVkFfbVN3MGdRNWFTcjZiUk5oVjRrZnVrZw",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "d4428afefae4",
+    "slug": "aqshdagi-eng-yosh-milliarderlar-asosan-ai-asoschilari-d4428a",
+    "title": "AQShdagi eng yosh milliarderlar asosan AI asoschilari",
+    "summary": "AQShdagi eng yosh milliarderlarning aksariyati sun'iy intellekt sohasining asoschilari ekanligi ma'lum bo'ldi.",
+    "tags": [
+      "iqtisod",
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 7,
+    "published": "2026-10-22T19:49:43.000Z",
+    "created": "2026-10-23T01:02:01.776Z",
+    "coverage": 1,
+    "source": {
+      "name": "qz.com",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1hODVZMWotc19aeHlrUFpfZ2N5SU1vVWp0ZWJ3aXJCSVI2RHhleVNqelBrTWdZRHl2eXRSU3R2cjI2b1EwNTRvcEVtcnZZQWRjWldWa1h4NTJBc3ZyTTVIWTd3",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "21a90e06e855",
     "slug": "gartner-ai-sarmoyalaridan-atigi-13-kompaniya-foyda-kordi-21a90e",
     "title": "Gartner: AI sarmoyalaridan atigi 13% kompaniya foyda ko'rdi",
