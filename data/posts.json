@@ -1,5 +1,136 @@
 [
   {
+    "id": "f43c3955871d",
+    "slug": "ai-kiberhujumlar-mutaxassislar-ogohlantirmoqda-f43c39",
+    "title": "AI kiberhujumlar: Mutaxassislar ogohlantirmoqda",
+    "summary": "Kiberxavfsizlik mutaxassislari PHP dasturlash tilidagi jiddiy xato topilganidan so‘ng AI yordamida kiberhujumlar kuchayishidan ogohlantirmoqda. Ular sun'iy intellekt global internet infratuzilmasidagi zaifliklarni fosh etishini taxmin qilmoqda. Sam Altman ham barcha xatolarni tuzatish imkonsiz bo‘lishini aytdi.",
+    "tags": [
+      "xavfsizlik",
+      "OpenAI"
+    ],
+    "importance": 4,
+    "score": 26,
+    "published": "2026-10-23T18:48:48.000Z",
+    "created": "2026-10-23T21:40:24.560Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/technology/2026/oct/23/cybersecurity-ai-hacking-php-vulnerability",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "c636a8319993",
+    "slug": "martha-minow-ai-va-demokratiya-haqida-ogohlantirdi-c636a8",
+    "title": "Martha Minow AI va demokratiya haqida ogohlantirdi",
+    "summary": "Huquqshunos Martha Minow MIT'dagi ma'ruzasida AI'dan foydalanish va uni yengish orqali demokratiyani saqlash haqida gapirdi. U sun'iy intellekt \"Ma'rifat davrining yo'qolishi\"ga olib kelishi mumkinligidan ogohlantirdi.",
+    "tags": [
+      "siyosat",
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 19,
+    "published": "2026-10-23T21:00:00.000Z",
+    "created": "2026-10-23T21:40:24.560Z",
+    "coverage": 1,
+    "source": {
+      "name": "MIT News",
+      "url": "https://news.mit.edu/2026/martha-minow-speaks-on-sustaining-democracy-using-overcoming-ai-1023",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "3260dad8dc86",
+    "slug": "moonshot-kimi-k3-1-prodan-kiber-malumotlarni-olib-tashladi-3260da",
+    "title": "Moonshot Kimi K3.1 Prodan kiber ma'lumotlarni olib tashladi",
+    "summary": "Moonshot kompaniyasi Kimi K3.1 Pro modelining o'qitish bosqichlaridan kiber-ma'lumotlarni olib tashlaganini ma'lum qildi. Bu harakat suiiste'mol qilish xavfini kamaytirish va modelning umumiy foydaliligini saqlab qolish maqsadida amalga oshirilgan.",
+    "tags": [
+      "xavfsizlik",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 18,
+    "published": "2026-10-23T19:35:02.000Z",
+    "created": "2026-10-23T21:40:24.560Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/261023/p19",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "4f1a69c73f38",
+    "slug": "block-kompaniyasi-dessa-nomli-suhbat-ai-modelini-taqdim-etdi-4f1a69",
+    "title": "Block kompaniyasi Dessa nomli suhbat AI modelini taqdim etdi",
+    "summary": "Jack Dorseyning Block kompaniyasi Dessa nomli AI modelini e'lon qildi. U faqat inson suhbatlari asosida o'qitilgan bo'lib, ba'zan biroz noqulay va g'alati suhbatlar olib borishi mumkin.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 18,
+    "published": "2026-10-23T19:32:39.000Z",
+    "created": "2026-10-23T21:40:24.560Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Verge",
+      "url": "https://theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "78336167286e",
+    "slug": "zuckerbergning-ai-sarmoyalari-ozini-oqlay-boshladi-783361",
+    "title": "Zuckerbergning AI sarmoyalari o'zini oqlay boshladi",
+    "summary": "Meta bosh direktori Mark Zuckerbergning AI sohasidagi xavfli sarmoyalari va ishdan bo'shatishlari o'z samarasini bera boshladi. Bu Meta'ning Muse loyihasi muvaffaqiyatidan so'ng kuzatilmoqda.",
+    "tags": [
+      "Meta",
+      "biznes"
+    ],
+    "importance": 4,
+    "score": 15,
+    "published": "2026-10-23T19:08:45.000Z",
+    "created": "2026-10-23T21:40:24.560Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/ceo-mark-zuckerberg-keeps-winning-meta-ai-moves-muse-launch-2026-10",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "efe87dea9c57",
+    "slug": "ai-miya-kt-skanerlarida-qon-ketishini-aniqladi-efe87d",
+    "title": "AI miya KT skanerlarida qon ketishini aniqladi",
+    "summary": "Bir tadqiqotchi Google Colab'da neyron tarmoqni miya KT skanerlarida qon ketishini aniqlashga o'rgatdi. Dastlabki sinovlarda model 0.963 AUC ko'rsatkichiga erishdi, to'liq tekshiruvdan so'ng esa 0.931 bo'ldi.",
+    "tags": [
+      "tibbiyot",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 11,
+    "published": "2026-10-23T21:13:30.000Z",
+    "created": "2026-10-23T21:40:24.560Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1098766",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "b13d86d4bf56",
     "slug": "ai-modellari-insoniyat-haqida-salbiy-fikr-bildirdi-b13d86",
     "title": "AI modellari insoniyat haqida salbiy fikr bildirdi",

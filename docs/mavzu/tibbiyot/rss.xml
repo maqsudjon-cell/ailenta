@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/tibbiyot/</link>
   <description>&quot;tibbiyot&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Fri, 23 Oct 2026 21:10:11 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 23 Oct 2026 21:45:25 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/tibbiyot/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>AI miya KT skanerlarida qon ketishini aniqladi</title>
+    <link>https://ailenta.uz/x/ai-miya-kt-skanerlarida-qon-ketishini-aniqladi-efe87d/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/ai-miya-kt-skanerlarida-qon-ketishini-aniqladi-efe87d/</guid>
+    <pubDate>Fri, 23 Oct 2026 21:13:30 GMT</pubDate>
+    <description>Bir tadqiqotchi Google Colab'da neyron tarmoqni miya KT skanerlarida qon ketishini aniqlashga o'rgatdi. Dastlabki sinovlarda model 0.963 AUC ko'rsatkichiga erishdi, to'liq tekshiruvdan so'ng esa 0.931 bo'ldi.</description>
+    <category>tibbiyot</category><category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/ai-miya-kt-skanerlarida-qon-ketishini-aniqladi-efe87d.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/ai-miya-kt-skanerlarida-qon-ketishini-aniqladi-efe87d.jpg"/>
+  </item>
   <item>
     <title>Pathos AI onkologiya dori vositalari uchun 237M dollar yig'di</title>
     <link>https://ailenta.uz/x/pathos-ai-onkologiya-dori-vositalari-uchun-237m-dollar-yigdi-e9ac2f/</link>
@@ -296,16 +306,6 @@
     <category>tibbiyot</category><category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/neyron-faollikni-tahlil-qiluvchi-spera-modeli-taqdim-etildi-d7a8ff.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/neyron-faollikni-tahlil-qiluvchi-spera-modeli-taqdim-etildi-d7a8ff.jpg"/>
-  </item>
-  <item>
-    <title>AI yordamida viruslar loyihasini yaratgan olim bilan suhbat</title>
-    <link>https://ailenta.uz/x/ai-yordamida-viruslar-loyihasini-yaratgan-olim-bilan-suhbat-ebb614/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/ai-yordamida-viruslar-loyihasini-yaratgan-olim-bilan-suhbat-ebb614/</guid>
-    <pubDate>Fri, 09 Oct 2026 00:08:24 GMT</pubDate>
-    <description>Stenford universiteti aspiranti Samuel King 2025-yilda mikroskopik viruslarning genetik loyihasini yaratish uchun generativ AI modelidan foydalangan edi. MIT Technology Review nashri ushbu olim ishtirokida davra suhbati tashkil etadi.</description>
-    <category>tibbiyot</category><category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/ai-yordamida-viruslar-loyihasini-yaratgan-olim-bilan-suhbat-ebb614.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/ai-yordamida-viruslar-loyihasini-yaratgan-olim-bilan-suhbat-ebb614.jpg"/>
   </item>
 </channel>
 </rss>
