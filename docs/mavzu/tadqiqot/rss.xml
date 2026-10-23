@@ -5,7 +5,7 @@
   <link>https://ailenta.uz/mavzu/tadqiqot/</link>
   <description>&quot;tadqiqot&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Fri, 23 Oct 2026 17:13:28 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 23 Oct 2026 17:42:33 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/tadqiqot/rss.xml" rel="self" type="application/rss+xml"/>
   <item>
     <title>PowerShell'da AI yordamida avtomatik yangilik konveyeri</title>
@@ -26,6 +26,16 @@
     <category>Anthropic</category><category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/claude-code-uchun-slimspec-koddan-keyin-spetsifikatsiya-a8a05a.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/claude-code-uchun-slimspec-koddan-keyin-spetsifikatsiya-a8a05a.jpg"/>
+  </item>
+  <item>
+    <title>AI 45 ming Enron elektron pochtasidan viki yaratdi</title>
+    <link>https://ailenta.uz/x/ai-45-ming-enron-elektron-pochtasidan-viki-yaratdi-4608c7/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/ai-45-ming-enron-elektron-pochtasidan-viki-yaratdi-4608c7/</guid>
+    <pubDate>Fri, 23 Oct 2026 12:02:53 GMT</pubDate>
+    <description>Hacker News foydalanuvchisi AI yordamida 45 ming Enron elektron pochtasidan viki yaratganini ma'lum qildi. Har bir fakt manba bilan tasdiqlangan.</description>
+    <category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/ai-45-ming-enron-elektron-pochtasidan-viki-yaratdi-4608c7.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/ai-45-ming-enron-elektron-pochtasidan-viki-yaratdi-4608c7.jpg"/>
   </item>
   <item>
     <title>AI tufayli retro o'yinlar kutilmagan joylarda paydo bo'lmoqda</title>
@@ -296,16 +306,6 @@
     <category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/gemma-4-modeli-arab-nutqini-tanib-olishda-sinab-korildi-fd7306.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/gemma-4-modeli-arab-nutqini-tanib-olishda-sinab-korildi-fd7306.jpg"/>
-  </item>
-  <item>
-    <title>360M parametrli model terminalni taqlid qilishga o'rgatildi</title>
-    <link>https://ailenta.uz/x/360m-parametrli-model-terminalni-taqlid-qilishga-orgatildi-8802a7/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/360m-parametrli-model-terminalni-taqlid-qilishga-orgatildi-8802a7/</guid>
-    <pubDate>Thu, 22 Oct 2026 02:18:41 GMT</pubDate>
-    <description>WorldTUI loyihasi doirasida 360 million parametrli model terminalni taqlid qilish uchun o'qitildi. Bu model terminal muhitida ishlashga mo'ljallangan.</description>
-    <category>tadqiqot</category><category>ochiq model</category>
-    <media:content url="https://ailenta.uz/og/360m-parametrli-model-terminalni-taqlid-qilishga-orgatildi-8802a7.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/360m-parametrli-model-terminalni-taqlid-qilishga-orgatildi-8802a7.jpg"/>
   </item>
 </channel>
 </rss>
