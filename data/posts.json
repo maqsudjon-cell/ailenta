@@ -1,5 +1,134 @@
 [
   {
+    "id": "50a72835af24",
+    "slug": "tesla-superkar-va-arzon-elektromobil-tanlovi-haqida-50a728",
+    "title": "Tesla superkar va arzon elektromobil tanlovi haqida",
+    "summary": "Naked Science tahlilida Tesla Roadster modelining imkoniyatlari ko'rib chiqildi. Qimmat superkar kompaniyaning ommaviy elektromobillar bozoridagi raqobat muammosini hal qila oladimi degan savol qo'yilgan.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 45,
+    "published": "2026-10-23T06:30:50.000Z",
+    "created": "2026-10-23T07:48:53.884Z",
+    "coverage": 1,
+    "source": {
+      "name": "Kun.uz",
+      "url": "https://kun.uz/news/2026/10/23/teslaga-uchadigan-superkar-kerakmi-yoki-arzon-elektromobil",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "6ac37f1597b9",
+    "slug": "ai-saraton-boyicha-bashorat-qila-oladimi-6ac37f",
+    "title": "AI saraton bo'yicha bashorat qila oladimi",
+    "summary": "Tadqiqotda bitta selfi orqali saratonga chalingan bemorning umrini bashorat qilish g'oyasi ilgari surildi. Shifokorlar yuz ko'rinishidan salomatlikni baholashda foydalansa-da, AI har bir bemor uchun aniq bashorat bera olishi shubhali.",
+    "tags": [
+      "tibbiyot",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 26,
+    "published": "2026-10-23T07:00:03.000Z",
+    "created": "2026-10-23T07:48:53.884Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/commentisfree/2026/oct/23/ai-cancer-survival-doctor-selfie-health-research",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "5ea0ca04a395",
+    "slug": "qoder-agentiga-loongson-loongarch-qollab-quvvatlovi-qoshildi-5ea0ca",
+    "title": "Qoder agentiga Loongson LoongArch qo'llab-quvvatlovi qo'shildi",
+    "summary": "Alibaba kompaniyasining Qoder dasturlash agenti endi Loongson LoongArch64 va Linux ARM64 platformalarida ishlaydi. Shuningdek, UOS va Galaxy Kylin operatsion tizimlari uchun versiyalar chiqarildi.",
+    "tags": [
+      "agentlar"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-10-23T07:13:44.000Z",
+    "created": "2026-10-23T07:48:53.884Z",
+    "coverage": 1,
+    "source": {
+      "name": "Pandaily",
+      "url": "https://pandaily.com/alibaba-qoder-loongson-loongarch-uos-kylin-linux-arm64-support",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "5ed2f5fa5620",
+    "slug": "ai-ilovalari-xavfsizligini-tekshirish-uchun-zarur-namunalar-5ed2f5",
+    "title": "AI ilovalari xavfsizligini tekshirish uchun zarur namunalar",
+    "summary": "Maqolada AI ilovalarini red-teaming orqali xavfsizlikka tekshirish usullari ko'rib chiqilgan. Mualliflar buzilishlar yo'qligi va ma'lumotlar yetarsizligi o'rtasidagi farqni aniqlash yechimini taklif qiladi.",
+    "tags": [
+      "xavfsizlik",
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 11,
+    "published": "2026-10-23T07:30:24.000Z",
+    "created": "2026-10-23T07:48:53.884Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1098234",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "0b13060c669d",
+    "slug": "ilmiy-kashfiyotlar-uchun-specevo-freymvorki-taqdim-etildi-0b1306",
+    "title": "Ilmiy kashfiyotlar uchun SpecEvo freymvorki taqdim etildi",
+    "summary": "Tadqiqotchilar kichik va ilg'or modellar faoliyatini muvofiqlashtiruvchi SpecEvo freymvorkini yaratdilar. Ushbu tizim ilmiy qidiruvlar samaradorligini oshirish va xarajatlarni kamaytirishga qaratilgan.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 10,
+    "published": "2026-10-23T04:00:00.000Z",
+    "created": "2026-10-23T07:48:53.884Z",
+    "coverage": 1,
+    "source": {
+      "name": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2610.28706",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "78316740b278",
+    "slug": "bilimni-kuzatish-modellarida-parametr-tahlili-organildi-783167",
+    "title": "Bilimni kuzatish modellarida parametr tahlili o'rganildi",
+    "summary": "Tadqiqotda bilimni kuzatish modellarining aniqligi va ularning parametrlarini tiklash jarayoni tahlil qilindi. Olimlar LSTM, Transformer va DKVMN modellari asosidagi dekoderlar faoliyatini o'rgandilar.",
+    "tags": [
+      "tadqiqot",
+      "ta'lim"
+    ],
+    "importance": 2,
+    "score": 10,
+    "published": "2026-10-23T04:00:00.000Z",
+    "created": "2026-10-23T07:48:53.884Z",
+    "coverage": 1,
+    "source": {
+      "name": "arXiv cs.LG",
+      "url": "https://arxiv.org/abs/2610.30211",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "fb2a20fc4f31",
     "slug": "anthropic-ipo-investorlarga-katta-daromad-keltirishi-kutilmo-fb2a20",
     "title": "Anthropic IPO investorlarga katta daromad keltirishi kutilmoqda",

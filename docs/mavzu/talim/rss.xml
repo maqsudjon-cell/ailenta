@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/talim/</link>
   <description>&quot;ta'lim&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Fri, 23 Oct 2026 07:08:39 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 23 Oct 2026 07:57:31 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/talim/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Bilimni kuzatish modellarida parametr tahlili o'rganildi</title>
+    <link>https://ailenta.uz/x/bilimni-kuzatish-modellarida-parametr-tahlili-organildi-783167/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/bilimni-kuzatish-modellarida-parametr-tahlili-organildi-783167/</guid>
+    <pubDate>Fri, 23 Oct 2026 04:00:00 GMT</pubDate>
+    <description>Tadqiqotda bilimni kuzatish modellarining aniqligi va ularning parametrlarini tiklash jarayoni tahlil qilindi. Olimlar LSTM, Transformer va DKVMN modellari asosidagi dekoderlar faoliyatini o'rgandilar.</description>
+    <category>tadqiqot</category><category>ta'lim</category>
+    <media:content url="https://ailenta.uz/og/bilimni-kuzatish-modellarida-parametr-tahlili-organildi-783167.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/bilimni-kuzatish-modellarida-parametr-tahlili-organildi-783167.jpg"/>
+  </item>
   <item>
     <title>AQShda tarixni o'rganuvchi Lighthouse chatbot yaratildi</title>
     <link>https://ailenta.uz/x/aqshda-tarixni-organuvchi-lighthouse-chatbot-yaratildi-98fc2a/</link>
@@ -296,16 +306,6 @@
     <category>ta'lim</category><category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/mit-aqshda-stem-talimini-kuchaytirish-tashabbusini-elon-qild-e81043.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/mit-aqshda-stem-talimini-kuchaytirish-tashabbusini-elon-qild-e81043.jpg"/>
-  </item>
-  <item>
-    <title>Khanmigo AI yordamida ikki yillik maktab tajribasi</title>
-    <link>https://ailenta.uz/x/khanmigo-ai-yordamida-ikki-yillik-maktab-tajribasi-a350ea/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/khanmigo-ai-yordamida-ikki-yillik-maktab-tajribasi-a350ea/</guid>
-    <pubDate>Tue, 06 Oct 2026 00:00:45 GMT</pubDate>
-    <description>Maktabda ikki yillik tajriba doirasida Khanmigo AI yordamida o‘qitish sinovdan o‘tkazilmoqda. Bu loyiha AIning ta'limdagi imkoniyatlarini o‘rganishga qaratilgan.</description>
-    <category>ta'lim</category>
-    <media:content url="https://ailenta.uz/og/khanmigo-ai-yordamida-ikki-yillik-maktab-tajribasi-a350ea.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/khanmigo-ai-yordamida-ikki-yillik-maktab-tajribasi-a350ea.jpg"/>
   </item>
 </channel>
 </rss>
