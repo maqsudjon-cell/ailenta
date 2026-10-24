@@ -1,5 +1,91 @@
 [
   {
+    "id": "860965265249",
+    "slug": "ai-markazlari-va-aholi-ortasidagi-kurash-860965",
+    "title": "AI markazlari va aholi o'rtasidagi kurash",
+    "summary": "Uelsning Newport shahrida aholi sun'iy intellekt uchun energiya talab qiluvchi ma'lumot markazlari qurayotgan yirik korporatsiyalarga qarshi chiqmoqda. Mahalliy aholi o'z uylari yonida ulkan inshootlar paydo bo'lishidan norozi.",
+    "tags": [
+      "siyosat",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 23,
+    "published": "2026-10-24T11:00:32.000Z",
+    "created": "2026-10-24T14:07:09.807Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/technology/2026/oct/24/the-datacentre-next-door-on-the-frontline-of-techs-latest-david-v-goliath-battle",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "8ef9c99c3688",
+    "slug": "ai-yordamidagi-maqola-mavjud-bolmagan-manbaga-havola-8ef9c9",
+    "title": "AI yordamidagi maqola mavjud bo'lmagan manbaga havola",
+    "summary": "Z-Library haqidagi sun'iy intellekt yordamida yozilgan maqolada mavjud bo'lmagan TorrentFreak maqolasiga havola berilgan. Bu AI tomonidan yaratilgan kontentdagi xatoliklarni ko'rsatadi.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 17,
+    "published": "2026-10-24T11:18:54.000Z",
+    "created": "2026-10-24T14:07:09.807Z",
+    "coverage": 1,
+    "source": {
+      "name": "Hacker News",
+      "url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "c01f93a565a9",
+    "slug": "ai-oqitishda-mualliflik-huquqi-dalillar-yetishmaydi-c01f93",
+    "title": "AI o'qitishda mualliflik huquqi: Dalillar yetishmaydi",
+    "summary": "Olimlarning fikricha, sun'iy intellektni mualliflik huquqi bilan himoyalangan asarlarda o'qitishda \"bozorning suyulishi\" nazariyasi uchun hali dalillar yo'q. Bu adolatli foydalanish masalasini ochiq qoldiradi.",
+    "tags": [
+      "qonun",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 7.2,
+    "published": "2026-10-23T19:06:07.000Z",
+    "created": "2026-10-24T14:07:09.807Z",
+    "coverage": 1,
+    "source": {
+      "name": "UC Berkeley Haas News",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPaE52VGVDdWtmMlMzMjdPZzJyUkl6UXpKcEdxRzlXNXMzekJvcFR5aS1WcDJ0VU53LWNESy03d0x1WFg0VVV4S1ZhUC1vR2kzOEdsZ050SnYza2FOWGtYR01STzdmWlQwXzhnQWZrV3B0ZTVwTDNMbHo1bklpMVNiWENrZXZaU2JTMWk0eC1qSkxnY2UzeXVaWU5mUW1WLXlGNUFEeC0yZ0VkN2N3ZHpuTEFOeDBKMHJiSFIzbU5CdVRSNVFtOHhIVWpxVkxJUjdqYS12QU4ydElLRjlnZmRn",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "829051f03362",
+    "slug": "anthropic-asoschisi-dario-amodei-lowellda-ajralib-turgan-829051",
+    "title": "Anthropic asoschisi Dario Amodei Lowellda ajralib turgan",
+    "summary": "Anthropic kompaniyasi asoschisi Dario Amodei Lowell maktabida o'qiganida o'zining qobiliyatlari bilan ajralib turgan. Bu uning dastlabki yillariga oid ma'lumot.",
+    "tags": [
+      "Anthropic"
+    ],
+    "importance": 1,
+    "score": 7,
+    "published": "2026-10-24T11:00:28.000Z",
+    "created": "2026-10-24T14:07:09.807Z",
+    "coverage": 1,
+    "source": {
+      "name": "San Francisco Chronicle",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVU9MLWFpZDVudzJmT3hlT3JlN0V3R25ZNHRISDd5QkdwcWFfSUJSS18yLVk2WkM0ZG8yRjBXX1ZwVUNBNW5IbklBU1RKMm9EVlp6eUlJLXFidHJQc1Voc0dVdEhzVDBBRW0yNmxOb3FfQ3RhVGRlXzc4ek9oUXB4aDZqX2FrMExvUkxSOHVDVDd5c0toMG5oTg",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "f57d89839f49",
     "slug": "anthropic-qarori-federal-ai-xaridlariga-tahdid-solmoqda-f57d89",
     "title": "Anthropic qarori federal AI xaridlariga tahdid solmoqda",

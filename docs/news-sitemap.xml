@@ -2,6 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://ailenta.uz/x/ai-yordamidagi-maqola-mavjud-bolmagan-manbaga-havola-8ef9c9/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>AI Lenta</news:name>
+        <news:language>uz</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-24T11:18:54.000Z</news:publication_date>
+      <news:title>AI yordamidagi maqola mavjud bo'lmagan manbaga havola</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://ailenta.uz/x/ai-markazlari-va-aholi-ortasidagi-kurash-860965/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>AI Lenta</news:name>
+        <news:language>uz</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-24T11:00:32.000Z</news:publication_date>
+      <news:title>AI markazlari va aholi o'rtasidagi kurash</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://ailenta.uz/x/anthropic-asoschisi-dario-amodei-lowellda-ajralib-turgan-829051/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>AI Lenta</news:name>
+        <news:language>uz</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-24T11:00:28.000Z</news:publication_date>
+      <news:title>Anthropic asoschisi Dario Amodei Lowellda ajralib turgan</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://ailenta.uz/x/investor-ai-bumidagi-xavotirlar-borttirilgan-9ce54a/</loc>
     <news:news>
       <news:publication>
@@ -263,6 +296,17 @@
       </news:publication>
       <news:publication_date>2026-10-23T19:08:45.000Z</news:publication_date>
       <news:title>Zuckerbergning AI sarmoyalari o'zini oqlay boshladi</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://ailenta.uz/x/ai-oqitishda-mualliflik-huquqi-dalillar-yetishmaydi-c01f93/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>AI Lenta</news:name>
+        <news:language>uz</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-23T19:06:07.000Z</news:publication_date>
+      <news:title>AI o'qitishda mualliflik huquqi: Dalillar yetishmaydi</news:title>
     </news:news>
   </url>
   <url>
@@ -1297,72 +1341,6 @@
       </news:publication>
       <news:publication_date>2026-10-22T14:20:46.000Z</news:publication_date>
       <news:title>AI urushdagi vayronagarchilikni kuchaytirmoqda</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://ailenta.uz/x/bill-geyts-20-yillik-ai-inqilobiga-tayyorlanishga-chaqirdi-d4a36e/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>AI Lenta</news:name>
-        <news:language>uz</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-22T14:00:00.000Z</news:publication_date>
-      <news:title>Bill Geyts 20 yillik AI inqilobiga tayyorlanishga chaqirdi</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://ailenta.uz/x/ukraina-rossiya-data-markazlariga-zarba-bermoqda-ddbd83/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>AI Lenta</news:name>
-        <news:language>uz</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-22T13:58:46.000Z</news:publication_date>
-      <news:title>Ukraina Rossiya data-markazlariga zarba bermoqda</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://ailenta.uz/x/o-zbekistonda-avtomobil-ishlab-chiqarish-cobalt-yetakchi-3d19d6/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>AI Lenta</news:name>
-        <news:language>uz</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-22T13:58:43.000Z</news:publication_date>
-      <news:title>Oʻzbekistonda avtomobil ishlab chiqarish: Cobalt yetakchi</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://ailenta.uz/x/slingshot-ai-yordamida-sugurta-uchun-27-mln-sarmoya-oldi-f4767b/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>AI Lenta</news:name>
-        <news:language>uz</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-22T13:45:07.000Z</news:publication_date>
-      <news:title>Slingshot AI yordamida sug'urta uchun $27 mln sarmoya oldi</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://ailenta.uz/x/nirva-ai-kuloni-uchun-33-million-dollar-topladi-d2c9aa/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>AI Lenta</news:name>
-        <news:language>uz</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-22T13:26:52.000Z</news:publication_date>
-      <news:title>Nirva AI kuloni uchun 33 million dollar to'pladi</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://ailenta.uz/x/ai-savdo-jamoalariga-tasiri-haqida-6b3959/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>AI Lenta</news:name>
-        <news:language>uz</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-22T13:15:00.000Z</news:publication_date>
-      <news:title>AI savdo jamoalariga ta'siri haqida</news:title>
     </news:news>
   </url>
 </urlset>
