@@ -1,5 +1,200 @@
 [
   {
+    "id": "ff7a13383b68",
+    "slug": "ai-millionerlari-ozlarini-aybdor-va-yolgiz-his-qilmoqda-ff7a13",
+    "title": "AI millionerlari o'zlarini aybdor va yolg'iz his qilmoqda",
+    "summary": "Psixoterapevtlar AI sohasidagi yangi millionerlarda \"to'satdan boylik sindromi\" qayta paydo bo'lganini aytmoqda. Ular o'zlarini aybdor, yolg'iz va boshqalardan ajralgan his qilishmoqda. Bu holatni davolash uchun yangi soha shakllanmoqda.",
+    "tags": [
+      "mehnat bozori",
+      "iqtisod"
+    ],
+    "importance": 2,
+    "score": 19,
+    "published": "2026-10-24T09:27:00.000Z",
+    "created": "2026-10-24T11:02:56.450Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/10/24/ai-sudden-wealth-syndrome-therapists-billionaires-isolation",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "521c9a72fe43",
+    "slug": "ai-mijozlarga-xizmat-korsatishni-ozgartirmoqda-521c9a",
+    "title": "AI mijozlarga xizmat ko'rsatishni o'zgartirmoqda",
+    "summary": "Mijozlarga xizmat ko'rsatish murakkab ish bo'lib, AI bu sohani o'zgartirmoqda. AI ishni osonlashtiradimi yoki qo'shimcha muammolar tug'diradimi, hozircha noma'lum.",
+    "tags": [
+      "mehnat bozori"
+    ],
+    "importance": 2,
+    "score": 19,
+    "published": "2026-10-24T05:00:01.000Z",
+    "created": "2026-10-24T11:02:56.450Z",
+    "coverage": 1,
+    "source": {
+      "name": "CNBC",
+      "url": "https://cnbc.com/2026/10/24/ai-customer-service-jobs-work.html",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "a8f2132df5b8",
+    "slug": "ai-kasalliklarni-shifokorlardan-ikki-barobar-yaxshi-tashxisl-a8f213",
+    "title": "AI kasalliklarni shifokorlardan ikki barobar yaxshi tashxislaydi",
+    "summary": "Yangi sun'iy intellekt kasalliklarni tashxislashda shifokorlardan ikki barobar samaraliroq ekanligi ma'lum bo'ldi. Bu AI'ning tibbiyot sohasidagi salohiyatini ko'rsatadi.",
+    "tags": [
+      "tibbiyot",
+      "tadqiqot"
+    ],
+    "importance": 4,
+    "score": 15.8,
+    "published": "2026-10-23T19:31:36.000Z",
+    "created": "2026-10-24T11:02:56.450Z",
+    "coverage": 1,
+    "source": {
+      "name": "Hacker News",
+      "url": "https://gizmodo.com/microsoft-says-its-new-ai-is-more-than-twice-as-good-at-diagnosing-diseases-as-doctors-2000829562",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "6430909168b5",
+    "slug": "modelingiz-aws-trainiumda-ishlaydimi-tekshiring-643090",
+    "title": "Modelingiz AWS Trainium'da ishlaydimi, tekshiring",
+    "summary": "Hugging Face foydalanuvchilarga o'z modellarining AWS Trainium'da ishlashini tekshirish imkoniyatini taqdim etdi. Bu ma'lumot model samaradorligini baholash uchun muhim.",
+    "tags": [
+      "Hugging Face",
+      "bulut"
+    ],
+    "importance": 2,
+    "score": 15.8,
+    "published": "2026-10-23T00:00:00.000Z",
+    "created": "2026-10-24T11:02:56.450Z",
+    "coverage": 1,
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/blog/torch-neuronx-model-support",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "9ce54ab51ff7",
+    "slug": "investor-ai-bumidagi-xavotirlar-borttirilgan-9ce54a",
+    "title": "Investor: AI bumidagi xavotirlar bo'rttirilgan",
+    "summary": "Tajribali texnologiya investori Paul Wick AI bumiga nisbatan \"halokat va tushkunlik\" haqidagi xavotirlar asossiz ekanligini aytdi. Uning fikricha, texnologiya sohasi hozirda dot-com pufakchasidan ko'ra sog'lomroq.",
+    "tags": [
+      "iqtisod",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-10-24T10:38:01.000Z",
+    "created": "2026-10-24T11:02:56.450Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/ai-boom-dotcom-bubble-paul-wick-nvidia-chips-burry-careers-2026-10",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "6e1f486fe8cf",
+    "slug": "uchuvchilar-ai-davrida-konikmalarni-saqlash-6e1f48",
+    "title": "Uchuvchilar AI davrida ko'nikmalarni saqlash",
+    "summary": "Uchuvchilar avtopilotga tayanib, ko'nikmalarini yo'qotish xavfi bilan uzoq vaqtdan beri kurashib kelishgan. Ularning tajribasi AI davrida ishchilarga ko'nikmalarni saqlab qolishda yordam berishi mumkin.",
+    "tags": [
+      "mehnat bozori"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-10-24T09:05:01.000Z",
+    "created": "2026-10-24T11:02:56.450Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/avoid-ai-deskilling-pilots-autopilot-2026-10",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "9c67849c62c9",
+    "slug": "canva-ai-tasvir-generatori-aralash-natijalar-9c6784",
+    "title": "Canva AI tasvir generatori aralash natijalar",
+    "summary": "Business Insider jurnalisti Canva'ning yangi AI tasvir generatorini sinovdan o'tkazdi. Sinov natijalari aralash bo'lib, ba'zi jihatlari yaxshi, ba'zilari esa kamchiliklarga ega ekanligi aniqlandi.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-10-24T08:11:00.000Z",
+    "created": "2026-10-24T11:02:56.450Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUDUtMjNxZkJlOXVlR052Qi1Fc2E2dEZzbHh0UzY2V3BjdU82VU5YbE9YMFRUYTkwbFZ4QnJlaG5sdkFIWVdoY1VvdGlFQkFQWXhXZ2RtdmF1eVhIaUhRczI0OWpYeFgxRlVjUnB3SUIxbWtKVm4zMGtnNTBNeG9SV1NqYnRNZjA",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "3a0c289c63dc",
+    "slug": "yopiq-ai-modellaridagi-senzura-fan-va-rivojlanishga-tasirda-3a0c28",
+    "title": "Yopiq AI modellaridagi senzura fan va rivojlanishga ta'sirda",
+    "summary": "Hugging Face asoschisi Kleman Delangning aytishicha, yopiq AI modellaridagi senzura fan va rivojlanishga ta'sir ko'rsatmoqda. Uning tvit loyihasini tahrirlash so'rovi tijorat modelida xavfsizlik filtri tomonidan bloklangan.",
+    "tags": [
+      "Hugging Face",
+      "tadqiqot"
+    ],
+    "importance": 4,
+    "score": 11,
+    "published": "2026-10-24T08:06:56.000Z",
+    "created": "2026-10-24T11:02:56.450Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1098796",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "d627647f3489",
+    "slug": "xitoy-ai-quvvati-ikki-barobar-oshadi-aqsh-chiplariga-bogliq-d62764",
+    "title": "Xitoy AI quvvati ikki barobar oshadi, AQSH chiplariga bog'liq",
+    "summary": "Xitoyning sun'iy intellekt hisoblash quvvati ikki barobar oshishi kutilmoqda. Biroq, mamlakat bu borada AQSH chiplariga jiddiy bog'liq bo'lib qolmoqda.",
+    "tags": [
+      "siyosat",
+      "chiplar"
+    ],
+    "importance": 4,
+    "score": 7,
+    "published": "2026-10-24T01:00:11.000Z",
+    "created": "2026-10-24T11:02:56.450Z",
+    "coverage": 1,
+    "source": {
+      "name": "South China Morning Post",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZl9scE9GTE5xLXFiT29rTlRCUFA5YWJHUS1JR2hoU2RvUnE0UlZwZk9mTDJnUXdlRGdHcHlaMFYxQ004T04wcXBfTzdxcThlN2xkZW10d2dpNlpSZmpoXzk0Sl9FRUJwSUFQN1FQZjFEOUQ1VFZLa0xNSXluZ1lNYUV2dGpwMzMzZUNzWUpydmtzWXlteWppQjk5NzJQdnRvWmpuNFlWU25OQzF2bGVLYXRsMy1iMy12MjcwZEFrNXo3S2JfN1Ew0gHHAUFVX3lxTE5JTGpieDNTZldrd0REWk1vS2d3N2xZV2E3cDVQTWNMTU1fbHR6SXQ1WGRwQVVfWV9vSUNVd04yOGlsOTE0NlM2QTduUFd4dVRSejNmOUllSWg1bDl3Y29PVE1XRWk2bWNzRVVXeFpuMm5UUHpaNV8ydDRVRmVGR0JPV0tXMEV5eE9nRlpRZHcyc2h1Y3h6SmZoUkpUUk8zbUpLeGtZZmRkaHFiMjhocHI0YkdOTy11QzkyYTdfcUdIc19yTWpmbGM",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "2edf0ac54e97",
     "slug": "yozuvchi-ai-yordamida-1-mln-dollar-daromad-topdi-2edf0a",
     "title": "Yozuvchi AI yordamida 1 mln dollar daromad topdi",

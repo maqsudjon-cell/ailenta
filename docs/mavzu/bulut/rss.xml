@@ -5,7 +5,7 @@
   <link>https://ailenta.uz/mavzu/bulut/</link>
   <description>&quot;bulut&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Sat, 24 Oct 2026 10:09:15 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 24 Oct 2026 11:08:22 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/bulut/rss.xml" rel="self" type="application/rss+xml"/>
   <item>
     <title>PeakVision AI korxonalarga AI joylashuvi va ma'lumotlar nazoratini taklif etadi</title>
@@ -16,6 +16,16 @@
     <category>biznes</category><category>bulut</category>
     <media:content url="https://ailenta.uz/og/peakvision-ai-korxonalarga-ai-joylashuvi-va-malumotlar-nazor-3d4eda.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/peakvision-ai-korxonalarga-ai-joylashuvi-va-malumotlar-nazor-3d4eda.jpg"/>
+  </item>
+  <item>
+    <title>Modelingiz AWS Trainium'da ishlaydimi, tekshiring</title>
+    <link>https://ailenta.uz/x/modelingiz-aws-trainiumda-ishlaydimi-tekshiring-643090/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/modelingiz-aws-trainiumda-ishlaydimi-tekshiring-643090/</guid>
+    <pubDate>Fri, 23 Oct 2026 00:00:00 GMT</pubDate>
+    <description>Hugging Face foydalanuvchilarga o'z modellarining AWS Trainium'da ishlashini tekshirish imkoniyatini taqdim etdi. Bu ma'lumot model samaradorligini baholash uchun muhim.</description>
+    <category>Hugging Face</category><category>bulut</category>
+    <media:content url="https://ailenta.uz/og/modelingiz-aws-trainiumda-ishlaydimi-tekshiring-643090.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/modelingiz-aws-trainiumda-ishlaydimi-tekshiring-643090.jpg"/>
   </item>
   <item>
     <title>Discord Markdown ko'rinishlarini to'g'ri formatlaydi</title>
@@ -296,16 +306,6 @@
     <category>bulut</category><category>xavfsizlik</category>
     <media:content url="https://ailenta.uz/og/yandex-data-markaziga-hujum-cloudflare-trafigini-kamaytirdi-e96b81.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/yandex-data-markaziga-hujum-cloudflare-trafigini-kamaytirdi-e96b81.jpg"/>
-  </item>
-  <item>
-    <title>SpaceX sun'iy yo'ldoshlarni uchuvchi data-markazlarga aylantiradi</title>
-    <link>https://ailenta.uz/x/spacex-suniy-yoldoshlarni-uchuvchi-data-markazlarga-aylantir-ea3fb4/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/spacex-suniy-yoldoshlarni-uchuvchi-data-markazlarga-aylantir-ea3fb4/</guid>
-    <pubDate>Sun, 11 Oct 2026 08:30:48 GMT</pubDate>
-    <description>SpaceX 40 milliard dollarlik AI loyihasi doirasida sun'iy yo'ldoshlarini uchuvchi ma'lumotlar markazlariga aylantirmoqda. Bu kompaniyaning AI sohasidagi ulkan strategik qadamidir.</description>
-    <category>SpaceX</category><category>bulut</category>
-    <media:content url="https://ailenta.uz/og/spacex-suniy-yoldoshlarni-uchuvchi-data-markazlarga-aylantir-ea3fb4.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/spacex-suniy-yoldoshlarni-uchuvchi-data-markazlarga-aylantir-ea3fb4.jpg"/>
   </item>
 </channel>
 </rss>
