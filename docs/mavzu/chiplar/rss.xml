@@ -5,7 +5,7 @@
   <link>https://ailenta.uz/mavzu/chiplar/</link>
   <description>&quot;chiplar&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Sat, 24 Oct 2026 22:46:06 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 24 Oct 2026 23:10:50 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/chiplar/rss.xml" rel="self" type="application/rss+xml"/>
   <item>
     <title>Ciena optik chiplariga bo'lgan AI talabi oshib bormoqda</title>
@@ -16,6 +16,16 @@
     <category>chiplar</category><category>biznes</category>
     <media:content url="https://ailenta.uz/og/ciena-optik-chiplariga-bolgan-ai-talabi-oshib-bormoqda-b743fa.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/ciena-optik-chiplariga-bolgan-ai-talabi-oshib-bormoqda-b743fa.jpg"/>
+  </item>
+  <item>
+    <title>Samsung va SK Hynix aksiyalari: AI pufak xavfi</title>
+    <link>https://ailenta.uz/x/samsung-va-sk-hynix-aksiyalari-ai-pufak-xavfi-e26125/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/samsung-va-sk-hynix-aksiyalari-ai-pufak-xavfi-e26125/</guid>
+    <pubDate>Sat, 24 Oct 2026 13:41:26 GMT</pubDate>
+    <description>Samsung va SK Hynix kompaniyalari rekord daromad ko'rayotganiga qaramay, chip bozoridagi pasayishdan so'ng AI pufakchasidan xavotirlar mavjud. Bu holat aksiyalarni sotib olish bo'yicha savollarni tug'dirmoqda.</description>
+    <category>iqtisod</category><category>chiplar</category>
+    <media:content url="https://ailenta.uz/og/samsung-va-sk-hynix-aksiyalari-ai-pufak-xavfi-e26125.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/samsung-va-sk-hynix-aksiyalari-ai-pufak-xavfi-e26125.jpg"/>
   </item>
   <item>
     <title>Xitoy AI quvvati ikki barobar oshadi, AQSH chiplariga bog'liq</title>
@@ -296,16 +306,6 @@
     <category>chiplar</category>
     <media:content url="https://ailenta.uz/og/sentyabr-oyidagi-yangi-ai-chiplari-va-texnik-sharh-f0f70c.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/sentyabr-oyidagi-yangi-ai-chiplari-va-texnik-sharh-f0f70c.jpg"/>
-  </item>
-  <item>
-    <title>ESP32 mikro boshqaruvchida matndan rasm yaratish imkoniyati</title>
-    <link>https://ailenta.uz/x/esp32-mikro-boshqaruvchida-matndan-rasm-yaratish-imkoniyati-bfd4cd/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/esp32-mikro-boshqaruvchida-matndan-rasm-yaratish-imkoniyati-bfd4cd/</guid>
-    <pubDate>Fri, 16 Oct 2026 17:59:35 GMT</pubDate>
-    <description>Dasturchi ESP32-S3 mikro boshqaruvchisida matndan rasm yaratish uchun latent diffuziya transformerini muvaffaqiyatli ishga tushirdi. Ushbu qurilma 512 KB operativ xotira bilan 64x64 o'lchamdagi rasmni 5,4 soniyada yaratadi.</description>
-    <category>chiplar</category><category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/esp32-mikro-boshqaruvchida-matndan-rasm-yaratish-imkoniyati-bfd4cd.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/esp32-mikro-boshqaruvchida-matndan-rasm-yaratish-imkoniyati-bfd4cd.jpg"/>
   </item>
 </channel>
 </rss>
