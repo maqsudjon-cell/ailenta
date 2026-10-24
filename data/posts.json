@@ -1,5 +1,70 @@
 [
   {
+    "id": "f9d2afbb139e",
+    "slug": "blue-planet-iii-ai-soxtalashtirishga-qarshi-f9d2af",
+    "title": "Blue Planet III AI soxtalashtirishga qarshi",
+    "summary": "BBC'ning \"Blue Planet III\" seriali AI soxtalashtirishiga qarshi kurashish uchun ataylab kamroq sayqallangan kadrlardan foydalanadi. Ishlab chiqaruvchilarning aytishicha, bu tomoshabinlarga tasvirlarning haqiqiyligini kafolatlaydi. Serialda yangi hayvon xatti-harakatlari va zamonaviy texnologiyalar namoyish etiladi.",
+    "tags": [
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 23,
+    "published": "2026-10-23T23:01:16.000Z",
+    "created": "2026-10-24T00:11:17.392Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/media/2026/oct/24/blue-planet-iii-cloudier-footage-prove-authenticity-ai-boom",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "1e6087a69397",
+    "slug": "yangi-ai-qurtlari-aqlli-uy-qurilmalariga-tahdid-1e6087",
+    "title": "Yangi \"AI qurtlari\" aqlli uy qurilmalariga tahdid",
+    "summary": "Yangi \"AI qurtlari\" kelajakda aqlli uy qurilmalariga yuqishi mumkin. Bu AI tizimlari bilan bog'liq xavfsizlik muammolariga e'tibor qaratadi.",
+    "tags": [
+      "xavfsizlik",
+      "agentlar"
+    ],
+    "importance": 4,
+    "score": 7,
+    "published": "2026-10-23T20:17:00.000Z",
+    "created": "2026-10-24T00:11:17.392Z",
+    "coverage": 1,
+    "source": {
+      "name": "BGR",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE40OXVfZjh1UGxUMTQ1bFhKbTZFVzhTTllHNkowUzBlNERvS0xBSmctUE1VUFNOdnhEQ0pOelZkWFBuSy1YckpmTnVUUmtKOVRCajNHS1drMXlmaU4tVVVDbXBiQl9tR0o4dE5J",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "508a81145564",
+    "slug": "meta-muse-aini-xarid-tolovlari-orqali-monetizatsiya-qiladi-508a81",
+    "title": "Meta Muse AI'ni xarid to'lovlari orqali monetizatsiya qiladi",
+    "summary": "Meta kompaniyasi o'zining Muse AI modelini xarid to'lovlari va obunalar orqali monetizatsiya qilishni rejalashtirmoqda. Bu Meta'ning AI mahsulotlaridan daromad olish strategiyasining bir qismi.",
+    "tags": [
+      "Meta",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 5.6,
+    "published": "2026-10-23T08:47:58.000Z",
+    "created": "2026-10-24T00:11:17.392Z",
+    "coverage": 1,
+    "source": {
+      "name": "Indian Television Dot Com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRXdody1vVzRmcVB6TjZ1TnhjQlRncHVKd0pfWnBkeV9WUU0tc0xTYzRvNmFib014c1N0SzJEVDdpMXQ1blVkMU1nM2dMdnVSS0Q2QkhPUlR6N0RrNkZhdXJwbloyTVp1dXZLOGRuS3NaOXpQN3o3WFB0RXNLbUVJcm5YRkxTM0RRbjlrb2tsRlhsQmVuX096Qm1iejZKSjFMQU5MSHNURkZxNjA",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "97be97e5966a",
     "slug": "general-motors-4-avlod-platformasini-elon-qildi-97be97",
     "title": "General Motors 4-avlod platformasini e'lon qildi",
