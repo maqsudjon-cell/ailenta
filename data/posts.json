@@ -1,5 +1,136 @@
 [
   {
+    "id": "c8fd2bcb5855",
+    "slug": "nima-uchun-ai-mafkurasi-dinga-oxshaydi-c8fd2b",
+    "title": "Nima uchun AI mafkurasi dinga o'xshaydi",
+    "summary": "Aleteia EN nashri sun'iy intellekt mafkurasining dinga o'xshash jihatlari haqida maqola chop etdi. Unda AI bilan bog'liq g'oyalar va e'tiqodlar tahlil qilinadi.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 1,
+    "score": 7,
+    "published": "2026-10-24T12:51:00.000Z",
+    "created": "2026-10-24T18:36:18.311Z",
+    "coverage": 1,
+    "source": {
+      "name": "Aleteia EN",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRndNaHFZUGhqRlI2MVdKT1FxcC1KbldNalRYbXBZTlFVV1hDUXFDR1lOc3oxblRpYmhMTTJtU3BPVkljUXJfODlWeXFMSGlUeHlGbEhuVDd5SEJoRGlRdVZ6d3hpaXVHZWxLa3dRQmppczVFT0R2MUNMSi1OQkdqWU55SFFhaTdWdFE",
+      "title": "Why the ideology of AI looks so much like religion",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "934580108444",
+    "slug": "pensilvaniya-ai-reklamalarini-belgilashni-talab-qiladi-934580",
+    "title": "Pensilvaniya AI reklamalarini belgilashni talab qiladi",
+    "summary": "Pensilvaniya gubernatori Josh Shapiro sun'iy intellekt tomonidan yaratilgan reklamalarni belgilashni talab qiluvchi qonunni imzoladi. Ushbu qonun AI tomonidan sezilarli darajada o'zgartirilgan yoki yaratilgan har qanday reklamaga tegishli bo'ladi.",
+    "tags": [
+      "qonun",
+      "siyosat"
+    ],
+    "importance": 4,
+    "score": 18,
+    "published": "2026-10-24T18:32:21.000Z",
+    "created": "2026-10-24T18:44:35.324Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Verge",
+      "url": "https://theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "1b0c9c52f854",
+    "slug": "obsidianda-ai-bilan-eslatmalarni-ozgartirish-qiyin-1b0c9c",
+    "title": "Obsidian'da AI bilan eslatmalarni o'zgartirish qiyin",
+    "summary": "Habr nashri foydalanuvchisi Obsidian'da o'xshash eslatmalarni topish uchun LLM (DeepSeek modeli sinovdan o'tgan) yordamida tavsiyalar olish osonligini bildirdi. Biroq, bu tavsiyalarni Markdown fayllariga xavfsiz qo'llash qiyinroq bo'lgan.",
+    "tags": [
+      "tadqiqot",
+      "DeepSeek"
+    ],
+    "importance": 2,
+    "score": 14,
+    "published": "2026-10-24T17:30:39.000Z",
+    "created": "2026-10-24T18:44:35.324Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1098922",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "103b7bc11ace",
+    "slug": "atlas-loyihasi-ai-bilan-tabiat-qonunlarini-organish-103b7b",
+    "title": "Atlas loyihasi: AI bilan tabiat qonunlarini o'rganish",
+    "summary": "\"Atlas\" mustaqil tadqiqot loyihasi sun'iy intellekt yordamida tabiat qonunlarini yagona ko'p o'lchovli fazoda o'rganishni taklif qiladi. Loyiha mavjud qonunlar orasidagi yashirin bog'liqliklarni topish va yangi matematik tasvirlarni yaratishni maqsad qilgan.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 11,
+    "published": "2026-10-24T17:37:25.000Z",
+    "created": "2026-10-24T18:44:35.324Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1098938",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "be73371826d1",
+    "slug": "ai-tosiqlaridan-7-ta-aksiyadorlik-kompaniya-foyda-koradi-be7337",
+    "title": "AI to'siqlaridan 7 ta aksiyadorlik kompaniya foyda ko'radi",
+    "summary": "The Motley Fool nashri sun'iy intellekt sohasidagi turli \"bottleneck\" muammolarini muhokama qildi. Nashrga ko'ra, bu vaziyatdan 7 ta aksiyadorlik kompaniya foyda ko'rishi kutilmoqda.",
+    "tags": [
+      "iqtisod",
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 0.2,
+    "published": "2026-10-23T13:30:00.000Z",
+    "created": "2026-10-24T18:44:35.324Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZW9pWmdoTWlFaWs3X3ZNdkdYSkRUaFhVcC04a2psYmYyZHFCeHBIbmg2S3FOQ3VPUkdWWE1yY09aZlNaS0VvMXlmQlpvYm1yRHVSMXRkd3hRZG1JNGFqWDFTdGQ4M3gwM1UyZG16QWVuUDB1ZGxobzA0ZU1OVUoySTZ3MkZ3OTNmamkweVRicXVvbFBJ",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "0b17a9a974fd",
+    "slug": "nima-uchun-bazilar-metaning-muse-aisiga-ishonmoqda-0b17a9",
+    "title": "Nima uchun ba'zilar Meta'ning Muse AI'siga ishonmoqda",
+    "summary": "Fox News nashri Meta kompaniyasining \"Muse AI\" sun'iy intellektiga ba'zi odamlar nima uchun ishonayotganini tahlil qildi. Maqolada ushbu AI'ning ta'sir mexanizmlari ko'rib chiqiladi.",
+    "tags": [
+      "Meta",
+      "xavfsizlik"
+    ],
+    "importance": 2,
+    "score": 0.1,
+    "published": "2026-10-23T13:22:44.000Z",
+    "created": "2026-10-24T18:44:35.324Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fox News",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBDT3JCMXgyY1ExQ3hyZ3QzSFd0Vkp2Zm85NGVvbm9pd0tRNFdKMzVSS211TFlJSmVIQjFMOWJKUVIxUE52R2FpWDR0RUhfaUo2b3NtbmRBMGJ5OTE5YVdmZEJ3M2VWTUtDVEotYng1LWliRFnSAXNBVV95cUxQQ09yQjF4MmNRMUN4cmd0M0hXdFZKdmZvOTRlb25vaXdLUTRXSjM1UkttdUxZSUplSEIxTDliSlFSMVBOdkdhaVg0dEVIX2lKNm9zbW5kQTBieTkxOWFXZmRCdzNlVk1LQ1RKLWJ4NS1pYkRZ",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "128c778d038c",
     "slug": "ai-yordamida-php-tilidagi-eski-zaifliklar-topildi-128c77",
     "title": "AI yordamida PHP tilidagi eski zaifliklar topildi",
