@@ -5,7 +5,7 @@
   <link>https://ailenta.uz/mavzu/xavfsizlik/</link>
   <description>&quot;xavfsizlik&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Sat, 24 Oct 2026 16:55:37 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 24 Oct 2026 17:14:23 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/xavfsizlik/rss.xml" rel="self" type="application/rss+xml"/>
   <item>
     <title>AI: har kimning qo'lidagi skalpelga o'xshaydi</title>
@@ -16,6 +16,16 @@
     <category>siyosat</category><category>xavfsizlik</category>
     <media:content url="https://ailenta.uz/og/ai-har-kimning-qolidagi-skalpelga-oxshaydi-b9ada3.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/ai-har-kimning-qolidagi-skalpelga-oxshaydi-b9ada3.jpg"/>
+  </item>
+  <item>
+    <title>AI yordamida PHP tilidagi eski zaifliklar topildi</title>
+    <link>https://ailenta.uz/x/ai-yordamida-php-tilidagi-eski-zaifliklar-topildi-128c77/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/ai-yordamida-php-tilidagi-eski-zaifliklar-topildi-128c77/</guid>
+    <pubDate>Sat, 24 Oct 2026 12:00:00 GMT</pubDate>
+    <description>Xavfsizlik bo'yicha tadqiqotchilar PHP dasturlash tilidagi ko'p yillik zaifliklarni topishda AI vositalaridan foydalandi. Shundan so'ng, tizimlarga AI yordamidagi kiberhujumlar boshlandi.</description>
+    <category>xavfsizlik</category><category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/ai-yordamida-php-tilidagi-eski-zaifliklar-topildi-128c77.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/ai-yordamida-php-tilidagi-eski-zaifliklar-topildi-128c77.jpg"/>
   </item>
   <item>
     <title>Anthropic modeli kiber mashg'ulotda insondek ko'rindi</title>
@@ -296,16 +306,6 @@
     <category>xavfsizlik</category><category>siyosat</category>
     <media:content url="https://ailenta.uz/og/malayziyada-davlat-xizmatchilariga-waze-ilovasi-taqiqlandi-e25ece.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/malayziyada-davlat-xizmatchilariga-waze-ilovasi-taqiqlandi-e25ece.jpg"/>
-  </item>
-  <item>
-    <title>OpenCode'da AI bilan bog'liq xavfsizlik buzilishi</title>
-    <link>https://ailenta.uz/x/opencodeda-ai-bilan-bogliq-xavfsizlik-buzilishi-d82db9/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/opencodeda-ai-bilan-bogliq-xavfsizlik-buzilishi-d82db9/</guid>
-    <pubDate>Wed, 21 Oct 2026 17:47:19 GMT</pubDate>
-    <description>OpenCode xavfsizlik buzilishiga uchradi, unda konsol foydalanuvchilari AI provayderlari bilan bog'langan holda &quot;distillation&quot; hujumiga nishon bo'ldi. Bu hodisa ishlab chiquvchi mashinalariga ta'sir qildi.</description>
-    <category>xavfsizlik</category><category>bulut</category>
-    <media:content url="https://ailenta.uz/og/opencodeda-ai-bilan-bogliq-xavfsizlik-buzilishi-d82db9.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/opencodeda-ai-bilan-bogliq-xavfsizlik-buzilishi-d82db9.jpg"/>
   </item>
 </channel>
 </rss>

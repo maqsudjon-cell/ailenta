@@ -5,7 +5,7 @@
   <link>https://ailenta.uz/mavzu/tadqiqot/</link>
   <description>&quot;tadqiqot&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Sat, 24 Oct 2026 16:55:37 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 24 Oct 2026 17:14:23 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/tadqiqot/rss.xml" rel="self" type="application/rss+xml"/>
   <item>
     <title>Block yangi ovoz modeli inson ovoziga o'xshaydi</title>
@@ -26,6 +26,16 @@
     <category>tadqiqot</category><category>mehnat bozori</category>
     <media:content url="https://ailenta.uz/og/ai-tajribasiz-advokatlar-ishini-yaxshilamoqda-143277.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/ai-tajribasiz-advokatlar-ishini-yaxshilamoqda-143277.jpg"/>
+  </item>
+  <item>
+    <title>AI yordamida PHP tilidagi eski zaifliklar topildi</title>
+    <link>https://ailenta.uz/x/ai-yordamida-php-tilidagi-eski-zaifliklar-topildi-128c77/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/ai-yordamida-php-tilidagi-eski-zaifliklar-topildi-128c77/</guid>
+    <pubDate>Sat, 24 Oct 2026 12:00:00 GMT</pubDate>
+    <description>Xavfsizlik bo'yicha tadqiqotchilar PHP dasturlash tilidagi ko'p yillik zaifliklarni topishda AI vositalaridan foydalandi. Shundan so'ng, tizimlarga AI yordamidagi kiberhujumlar boshlandi.</description>
+    <category>xavfsizlik</category><category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/ai-yordamida-php-tilidagi-eski-zaifliklar-topildi-128c77.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/ai-yordamida-php-tilidagi-eski-zaifliklar-topildi-128c77.jpg"/>
   </item>
   <item>
     <title>AI yordamidagi maqola mavjud bo'lmagan manbaga havola</title>
@@ -296,16 +306,6 @@
     <category>Microsoft</category><category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/microsoft-aiga-interaktiv-vizualizatsiyalar-yaratishda-yorda-ccc321.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/microsoft-aiga-interaktiv-vizualizatsiyalar-yaratishda-yorda-ccc321.jpg"/>
-  </item>
-  <item>
-    <title>De Staat guruhining klipida AI vizual effektlari ishlatildi</title>
-    <link>https://ailenta.uz/x/de-staat-guruhining-klipida-ai-vizual-effektlari-ishlatildi-9c6552/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/de-staat-guruhining-klipida-ai-vizual-effektlari-ishlatildi-9c6552/</guid>
-    <pubDate>Thu, 22 Oct 2026 19:42:26 GMT</pubDate>
-    <description>Niderlandiyalik De Staat rok guruhi o'zining &quot;Freedom&quot; nomli yangi musiqiy videosida AI yordamida yaratilgan vizual effektlardan foydalandi. Effektlar Matties Grooten tomonidan tayyorlangan.</description>
-    <category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/de-staat-guruhining-klipida-ai-vizual-effektlari-ishlatildi-9c6552.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/de-staat-guruhining-klipida-ai-vizual-effektlari-ishlatildi-9c6552.jpg"/>
   </item>
 </channel>
 </rss>

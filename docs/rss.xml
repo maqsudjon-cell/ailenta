@@ -5,7 +5,7 @@
   <link>https://ailenta.uz</link>
   <description>Dunyodagi sun'iy intellekt yangiliklari o'zbek tilida. Har soatda yangilanadi, har bir xabarda asl manbaga havola.</description>
   <language>uz</language>
-  <lastBuildDate>Sat, 24 Oct 2026 16:55:37 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 24 Oct 2026 17:14:23 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/rss.xml" rel="self" type="application/rss+xml"/>
   <item>
     <title>Block yangi ovoz modeli inson ovoziga o'xshaydi</title>
@@ -56,6 +56,16 @@
     <category>tadqiqot</category><category>mehnat bozori</category>
     <media:content url="https://ailenta.uz/og/ai-tajribasiz-advokatlar-ishini-yaxshilamoqda-143277.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/ai-tajribasiz-advokatlar-ishini-yaxshilamoqda-143277.jpg"/>
+  </item>
+  <item>
+    <title>AI yordamida PHP tilidagi eski zaifliklar topildi</title>
+    <link>https://ailenta.uz/x/ai-yordamida-php-tilidagi-eski-zaifliklar-topildi-128c77/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/ai-yordamida-php-tilidagi-eski-zaifliklar-topildi-128c77/</guid>
+    <pubDate>Sat, 24 Oct 2026 12:00:00 GMT</pubDate>
+    <description>Xavfsizlik bo'yicha tadqiqotchilar PHP dasturlash tilidagi ko'p yillik zaifliklarni topishda AI vositalaridan foydalandi. Shundan so'ng, tizimlarga AI yordamidagi kiberhujumlar boshlandi.</description>
+    <category>xavfsizlik</category><category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/ai-yordamida-php-tilidagi-eski-zaifliklar-topildi-128c77.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/ai-yordamida-php-tilidagi-eski-zaifliklar-topildi-128c77.jpg"/>
   </item>
   <item>
     <title>AI yordamidagi maqola mavjud bo'lmagan manbaga havola</title>
@@ -496,16 +506,6 @@
     <category>tadqiqot</category><category>biznes</category>
     <media:content url="https://ailenta.uz/og/powershellda-ai-yordamida-avtomatik-yangilik-konveyeri-6c0277.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/powershellda-ai-yordamida-avtomatik-yangilik-konveyeri-6c0277.jpg"/>
-  </item>
-  <item>
-    <title>Anthropic AI kripto xatolarini topdi, biri ekspluatatsiya qilindi</title>
-    <link>https://ailenta.uz/x/anthropic-ai-kripto-xatolarini-topdi-biri-ekspluatatsiya-qil-4e3478/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/anthropic-ai-kripto-xatolarini-topdi-biri-ekspluatatsiya-qil-4e3478/</guid>
-    <pubDate>Fri, 23 Oct 2026 14:10:23 GMT</pubDate>
-    <description>Anthropic AI simulyatsiyalarda ikkita yangi kripto xatosini aniqladi. Ulardan biri to'rt kundan keyin haqiqiy xaker tomonidan ekspluatatsiya qilingan.</description>
-    <category>Anthropic</category><category>xavfsizlik</category>
-    <media:content url="https://ailenta.uz/og/anthropic-ai-kripto-xatolarini-topdi-biri-ekspluatatsiya-qil-4e3478.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/anthropic-ai-kripto-xatolarini-topdi-biri-ekspluatatsiya-qil-4e3478.jpg"/>
   </item>
 </channel>
 </rss>

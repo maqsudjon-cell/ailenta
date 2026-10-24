@@ -1,5 +1,27 @@
 [
   {
+    "id": "128c778d038c",
+    "slug": "ai-yordamida-php-tilidagi-eski-zaifliklar-topildi-128c77",
+    "title": "AI yordamida PHP tilidagi eski zaifliklar topildi",
+    "summary": "Xavfsizlik bo'yicha tadqiqotchilar PHP dasturlash tilidagi ko'p yillik zaifliklarni topishda AI vositalaridan foydalandi. Shundan so'ng, tizimlarga AI yordamidagi kiberhujumlar boshlandi.",
+    "tags": [
+      "xavfsizlik",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 23,
+    "published": "2026-10-24T12:00:00.000Z",
+    "created": "2026-10-24T17:06:03.206Z",
+    "coverage": 1,
+    "source": {
+      "name": "Wired",
+      "url": "https://wired.com/story/kernel-panic-the-php-meltdown-shows-how-ai-makes-bugs-more-exploitable",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "688136660c10",
     "slug": "block-yangi-ovoz-modeli-inson-ovoziga-oxshaydi-688136",
     "title": "Block yangi ovoz modeli inson ovoziga o'xshaydi",
