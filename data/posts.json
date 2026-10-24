@@ -1,5 +1,49 @@
 [
   {
+    "id": "1827ea3db0ac",
+    "slug": "360-kompaniyasi-ai-operatsion-tizimini-amalda-qollamoqda-1827ea",
+    "title": "360 kompaniyasi AI operatsion tizimini amalda qo'llamoqda",
+    "summary": "360 kompaniyasi asoschisi Chjou Xongyi kompaniyaning AI operatsion tizimi ayrim tashkilotlar tomonidan ishlatilayotganini ma'lum qildi. Tizim hisoblash resurslari, modellar va agentlar yaratish imkoniyatlarini o'z ichiga oladi.",
+    "tags": [
+      "biznes",
+      "agentlar"
+    ],
+    "importance": 3,
+    "score": 18,
+    "published": "2026-10-24T07:07:49.000Z",
+    "created": "2026-10-24T07:30:21.301Z",
+    "coverage": 1,
+    "source": {
+      "name": "Pandaily",
+      "url": "https://pandaily.com/360-zhou-hongyi-sovereign-ai-operating-system-enterprise-private-deployment-agent-factory",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "2e617ecb3884",
+    "slug": "iflytek-spark-tibbiy-modelini-v3-7-versiyasiga-yangiladi-2e617e",
+    "title": "iFLYTEK Spark tibbiy modelini V3.7 versiyasiga yangiladi",
+    "summary": "iFLYTEK Healthcare o'zining Spark tibbiy modelini V3.7 versiyasiga yangiladi. Dastur nutq, tasvir va matnni birlashtiradi hamda MedBench 5.0 sinov to'plamida 99,6 ball to'pladi.",
+    "tags": [
+      "tibbiyot",
+      "agentlar"
+    ],
+    "importance": 3,
+    "score": 18,
+    "published": "2026-10-24T02:08:05.000Z",
+    "created": "2026-10-24T07:30:21.302Z",
+    "coverage": 1,
+    "source": {
+      "name": "Pandaily",
+      "url": "https://pandaily.com/iflytek-healthcare-spark-medical-model-v3-7-multimodal-agents-medbench-5-0",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "51135b623d17",
     "slug": "jared-kushner-oziga-qoyilgan-ayblovlarni-rad-etdi-51135b",
     "title": "Jared Kushner o'ziga qo'yilgan ayblovlarni rad etdi",
