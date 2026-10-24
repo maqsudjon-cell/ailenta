@@ -1,5 +1,138 @@
 [
   {
+    "id": "305699ef7e0d",
+    "slug": "futbolchi-kristian-volpato-ai-klonini-litsenziyaladi-305699",
+    "title": "Futbolchi Kristian Volpato AI klonini litsenziyaladi",
+    "summary": "Avstraliyalik futbolchi Kristian Volpato o'zining sun'iy intellekt klonini litsenziyalagan so'nggi sportchi bo'ldi. Bu sportchilarning raqamli shaxsiyatlarini nazorat qilish va monetizatsiya qilishga urinishlarining bir qismidir.",
+    "tags": [
+      "biznes",
+      "maxfiylik"
+    ],
+    "importance": 3,
+    "score": 26,
+    "published": "2026-10-24T19:00:40.000Z",
+    "created": "2026-10-24T19:38:42.024Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/technology/2026/oct/25/synthetic-twin-why-socceroo-cristian-volpato-is-the-latest-footballer-to-license-his-ai-clone",
+      "title": "‘Synthetic twin’: Why Socceroo Cristian Volpato is the latest footballer to license his AI clone",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "2bf4fc136805",
+    "slug": "ai-modellaridagi-hhh-senzura-cheklovlari-aylanib-otildi-2bf4fc",
+    "title": "AI modellaridagi HHH-senzura cheklovlari aylanib o'tildi",
+    "summary": "Habr nashri zamonaviy generativ AI modellaridagi HHH (Helpful, Honest, Harmless) tamoyiliga asoslangan senzura cheklovlarini aylanib o'tish usulini tasvirladi. Bu AI bilan chuqur ekzistensial mavzularda suhbatlashishga imkon beradi.",
+    "tags": [
+      "tadqiqot",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 20,
+    "published": "2026-10-24T17:19:24.000Z",
+    "created": "2026-10-24T19:42:22.130Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1098936",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "bca46128e2c8",
+    "slug": "har-bir-bola-aiga-ega-boladi-lekin-oqituvchiga-emas-bca461",
+    "title": "Har bir bola AI'ga ega bo'ladi, lekin o'qituvchiga emas",
+    "summary": "Fortune nashri yaqin kelajakda har bir bolada sun'iy intellektga asoslangan o'qituvchi bo'lishini ta'kidladi. Bu AI vositalari faqat boy bolalar uchun imtiyoz bo'ladi degan xavotirlarga javobdir.",
+    "tags": [
+      "ta'lim",
+      "siyosat"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-10-24T19:00:00.000Z",
+    "created": "2026-10-24T19:42:22.130Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/10/24/every-child-will-get-ai-not-every-child-will-get-a-teacher",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "dbe76530e989",
+    "slug": "ai-loyihalari-qabristoni-muvaffaqiyatsiz-startaplar-dbe765",
+    "title": "AI loyihalari qabristoni: Muvaffaqiyatsiz startaplar",
+    "summary": "TechCrunch nashri muvaffaqiyatsizlikka uchragan yoki kutilgan natijalarni bermagan AI loyihalari va startaplari ro'yxatini e'lon qildi. Ro'yxatda Apple'ning Siri AI'si va OpenAI'ning \"super ilova\"si kabi loyihalar bor.",
+    "tags": [
+      "biznes",
+      "Apple"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-10-24T19:00:00.000Z",
+    "created": "2026-10-24T19:42:22.130Z",
+    "coverage": 1,
+    "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "f691d30729f8",
+    "slug": "meta-facebook-va-instagramda-ai-personalarini-ishga-tushirad-f691d3",
+    "title": "Meta Facebook va Instagramda AI personalarini ishga tushiradi",
+    "summary": "Mashable xabariga ko'ra, Meta kompaniyasi kelasi oyda Facebook va Instagram platformalarida sun'iy intellektga asoslangan \"personalar\"ni ishga tushirishi mumkin. Bu yangi AI funksiyasi foydalanuvchilarga taqdim etiladi.",
+    "tags": [
+      "Meta",
+      "biznes"
+    ],
+    "importance": 4,
+    "score": 11,
+    "published": "2026-10-24T09:00:00.000Z",
+    "created": "2026-10-24T19:42:22.130Z",
+    "coverage": 1,
+    "source": {
+      "name": "Mashable",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVEJmZXNzSHZOOGxKb1lfOWJ6VjMwd3FiY1ZBMHBnWFRQYkdWSUJWc2ZmWTJEai1Bd1VDc2ZiOGR3b3lOU1ZyeTM3bFBhdmlmZXFzNEwyNjZVejhSdWhiOGg0Sll6XzMyYmR0NnVJbTRDVXhjX1ZGUzN2aXJYWXRRaQ",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "93c942537e6f",
+    "slug": "ai-chiplari-ortidagi-kompaniya-katta-yutuqqa-erishishi-mumki-93c942",
+    "title": "AI chiplari ortidagi kompaniya katta yutuqqa erishishi mumkin",
+    "summary": "24/7 Wall St. nashri dunyodagi sun'iy intellekt chiplarini ishlab chiqaruvchi kompaniya katta muvaffaqiyatga erishishi mumkinligini ta'kidladi. Bu kompaniya AI bozorida muhim rol o'ynashi kutilmoqda.",
+    "tags": [
+      "chiplar",
+      "biznes"
+    ],
+    "importance": 2,
+    "score": -0.3,
+    "published": "2026-10-23T13:30:00.000Z",
+    "created": "2026-10-24T19:42:22.130Z",
+    "coverage": 1,
+    "source": {
+      "name": "24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbldrdE92SjNYOC1XekxDRkJsZEJYa0hFNnBjN3NHSncwUnJPR0EwX1F4TmJjNUFTR1BJMFZCWHRteG1nVk13eGpJNUxYeHlSZzVIN0paZW43YWNCc3B2aVVaWTJ4N3k2NU80ZjUwa3ZYRUJxQXItajVaQmFjTXMtX2M1UHBjOFNIMFNPanIwcFhKZk5qZzRFUlQ5V0NGUE5IUi11MEdRN0cyUQ",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "c6eca6551a73",
     "slug": "ai-reklama-samaradorligi-meta-daromadini-oshirdi-c6eca6",
     "title": "AI reklama samaradorligi Meta daromadini oshirdi",
