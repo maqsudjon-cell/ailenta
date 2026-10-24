@@ -2,9 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://ailenta.uz/</loc>
-    <lastmod>2026-10-23</lastmod>
+    <lastmod>2026-10-24</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://ailenta.uz/x/anthropic-modeli-kiber-mashgulotda-insondek-korindi-0bc3d0/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://ailenta.uz/x/blue-planet-iii-ai-soxtalashtirishga-qarshi-f9d2af/</loc>
@@ -22357,8 +22363,14 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://ailenta.uz/mavzu/anthropic/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://ailenta.uz/mavzu/xavfsizlik/</loc>
-    <lastmod>2026-10-23</lastmod>
+    <lastmod>2026-10-24</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -22412,12 +22424,6 @@
   </url>
   <url>
     <loc>https://ailenta.uz/mavzu/openai/</loc>
-    <lastmod>2026-10-23</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://ailenta.uz/mavzu/anthropic/</loc>
     <lastmod>2026-10-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
@@ -22640,7 +22646,7 @@
   </url>
   <url>
     <loc>https://ailenta.uz/kun/2026-10-24/</loc>
-    <lastmod>2026-10-23</lastmod>
+    <lastmod>2026-10-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -22970,13 +22976,13 @@
   </url>
   <url>
     <loc>https://ailenta.uz/arxiv/</loc>
-    <lastmod>2026-10-23</lastmod>
+    <lastmod>2026-10-24</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://ailenta.uz/mavzular/</loc>
-    <lastmod>2026-10-23</lastmod>
+    <lastmod>2026-10-24</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
