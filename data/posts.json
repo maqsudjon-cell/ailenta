@@ -1,5 +1,93 @@
 [
   {
+    "id": "b9ada37d0455",
+    "slug": "ai-har-kimning-qolidagi-skalpelga-oxshaydi-b9ada3",
+    "title": "AI: har kimning qo'lidagi skalpelga o'xshaydi",
+    "summary": "Habr nashri AI'ni skalpelga qiyoslab, uni oyiga 20 dollarga har kimga taqdim etilishini yozdi. Malakali qo'llarda u imkonsiz ishlarni bajarishga yordam bersa, tajribasiz qo'llarda kutilmagan natijalar berishi mumkin.",
+    "tags": [
+      "siyosat",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 11,
+    "published": "2026-10-24T15:27:31.000Z",
+    "created": "2026-10-24T16:17:32.039Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1098924",
+      "title": "AI: скальпель у каждого в руках",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "5699208333bf",
+    "slug": "claude-opus-4-5-battledrones-uchun-yangi-xarita-yaratdi-569920",
+    "title": "Claude Opus 4.5 Battledrones uchun yangi xarita yaratdi",
+    "summary": "Simon Willison Claude Opus 4.5 AI modelidan foydalanib, \"Battledrones\" o'yiniga \"Compass Rose\" nomli to'rt o'yinchi uchun xarita qo'shdi. AI shuningdek, ko'p o'yinchi rejimini qo'llab-quvvatlash uchun tarmoq kodini o'zgartirdi.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 20.9,
+    "published": "2026-10-24T03:59:57.000Z",
+    "created": "2026-10-24T16:21:50.036Z",
+    "coverage": 1,
+    "source": {
+      "name": "Simon Willison",
+      "url": "https://simonwillison.net/2026/Oct/24/battledrones",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "68bb40779ea6",
+    "slug": "anthropic-noyabrda-ipo-otkazishga-ulgurarmikan-68bb40",
+    "title": "Anthropic noyabrda IPO o'tkazishga ulgurarmikan",
+    "summary": "MarketWatch xabariga ko'ra, Anthropic kompaniyasi noyabr oyida birlamchi ommaviy taklif (IPO) o'tkazish uchun hujjatlarni topshirishga ulgurmayapti. Kompaniya uchun vaqt tugab bormoqda.",
+    "tags": [
+      "Anthropic",
+      "biznes"
+    ],
+    "importance": 4,
+    "score": 4.5,
+    "published": "2026-10-23T22:00:00.000Z",
+    "created": "2026-10-24T16:21:50.036Z",
+    "coverage": 1,
+    "source": {
+      "name": "MarketWatch",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTFJNeGlNaWk2VGtvUkxlb243b1oxaWhVRXdnQjhHRVhrWmJjM1R5Vnpia1E4ZFlEQmtMY1ZVeTg4SzZ6YXFPOXNLdFU2cWd0UGZidFJnRGQ0TDBwOW9kVEUydUpmcGFKU3BhTFB3eTFmb1loLTlHLUhxU041ZXZVMEtPMTF4TnNrNHY4MEJlSzdTczQtUWh2aEF1c25fSDVCLWlKSVU5cEoxNXVoOGo3OU5wVmFlX0dmV3NfemVIXzM",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "af0a48aa3be8",
+    "slug": "gubernator-aidan-himoya-uchun-direktiva-chiqardi-af0a48",
+    "title": "Gubernator AI'dan himoya uchun direktiva chiqardi",
+    "summary": "Gubernator shtatning kiberxavfsizligini mustahkamlash va sun'iy intellektga qarshi himoyalanish uchun ijrochi direktiva chiqardi. Bu chora AI bilan bog'liq xavflarni kamaytirishga qaratilgan.",
+    "tags": [
+      "siyosat",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 2.6,
+    "published": "2026-10-23T17:20:00.000Z",
+    "created": "2026-10-24T16:21:50.036Z",
+    "coverage": 1,
+    "source": {
+      "name": "WDBJ7",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOX0VkWkdVSXFYMy1PSTJGYmxEUEg2c0l6UVIwa0N6eHg1QmxqZlo4UG8tSDhTMWdIajl3S3hoWDA5bWRPa0xUUHI1S0Q4YTY3TlFLZ0liV09QZHNyYVVlVkFhcnhKa2NjdzRMd3Q4NHlaTUpnWXNjc1ZzR1B6RzhJVlhFQzdSOWp1SVdSRUI0bzVfNWxpdTExb003Z0JSZU1ER2diU0VmZ1lpNjlrRmF0VVZTV0lJdkVO0gHMAUFVX3lxTE9ETktER2J1LXRQQmpuaEJFSkhNSXBzazUtaGZyQkw2Yzc0S0czaGU4MHZiR1FTc3doNFBUSXA5QzRQTjJtOThHWHV1M3FTNTRvYlhESms2djNraENFVnJ5WlJnUUxsRUJTYW5tLVl1SzlqbFFXajVtdzl6U1NQVEpfOE1fV2s1QVgxOHhLWl9fUFNyUmwtekpOYzh1WWJhbTBZaXRrQzhjSUtzZmZ4VVNnSWxkaWJyZ2pZNmtfR0xaU044ZGxsX293WFJuNw",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "b743fa26648f",
     "slug": "ciena-optik-chiplariga-bolgan-ai-talabi-oshib-bormoqda-b743fa",
     "title": "Ciena optik chiplariga bo'lgan AI talabi oshib bormoqda",

@@ -5,7 +5,7 @@
   <link>https://ailenta.uz/mavzu/tadqiqot/</link>
   <description>&quot;tadqiqot&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Sat, 24 Oct 2026 16:15:33 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 24 Oct 2026 16:28:46 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/tadqiqot/rss.xml" rel="self" type="application/rss+xml"/>
   <item>
     <title>AI tajribasiz advokatlar ishini yaxshilamoqda</title>
@@ -46,6 +46,16 @@
     <category>Hugging Face</category><category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/yopiq-ai-modellaridagi-senzura-fan-va-rivojlanishga-tasirda-3a0c28.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/yopiq-ai-modellaridagi-senzura-fan-va-rivojlanishga-tasirda-3a0c28.jpg"/>
+  </item>
+  <item>
+    <title>Claude Opus 4.5 Battledrones uchun yangi xarita yaratdi</title>
+    <link>https://ailenta.uz/x/claude-opus-4-5-battledrones-uchun-yangi-xarita-yaratdi-569920/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/claude-opus-4-5-battledrones-uchun-yangi-xarita-yaratdi-569920/</guid>
+    <pubDate>Sat, 24 Oct 2026 03:59:57 GMT</pubDate>
+    <description>Simon Willison Claude Opus 4.5 AI modelidan foydalanib, &quot;Battledrones&quot; o'yiniga &quot;Compass Rose&quot; nomli to'rt o'yinchi uchun xarita qo'shdi. AI shuningdek, ko'p o'yinchi rejimini qo'llab-quvvatlash uchun tarmoq kodini o'zgartirdi.</description>
+    <category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/claude-opus-4-5-battledrones-uchun-yangi-xarita-yaratdi-569920.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/claude-opus-4-5-battledrones-uchun-yangi-xarita-yaratdi-569920.jpg"/>
   </item>
   <item>
     <title>AI miya KT skanerlarida qon ketishini aniqladi</title>
@@ -296,16 +306,6 @@
     <category>agentlar</category><category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/ai-agentlar-hisobotlarda-raqam-toqimaslikka-orgatildi-0d3fe7.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/ai-agentlar-hisobotlarda-raqam-toqimaslikka-orgatildi-0d3fe7.jpg"/>
-  </item>
-  <item>
-    <title>AI agentlari PPO'dan 250 barobar kam tajriba talab qiladi</title>
-    <link>https://ailenta.uz/x/ai-agentlari-ppodan-250-barobar-kam-tajriba-talab-qiladi-b6b618/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/ai-agentlari-ppodan-250-barobar-kam-tajriba-talab-qiladi-b6b618/</guid>
-    <pubDate>Thu, 22 Oct 2026 18:56:36 GMT</pubDate>
-    <description>Bir AI ishlab chiquvchisi agentlar yordamida AI yaratdi. Bu AI PPO'ga nisbatan 250 barobar kam tajriba talab qiladi va WorldBased Spiked Neuralsymbolic AI deb nomlanadi.</description>
-    <category>tadqiqot</category><category>agentlar</category>
-    <media:content url="https://ailenta.uz/og/ai-agentlari-ppodan-250-barobar-kam-tajriba-talab-qiladi-b6b618.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/ai-agentlari-ppodan-250-barobar-kam-tajriba-talab-qiladi-b6b618.jpg"/>
   </item>
 </channel>
 </rss>
