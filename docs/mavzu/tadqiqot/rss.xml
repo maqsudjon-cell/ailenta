@@ -5,7 +5,7 @@
   <link>https://ailenta.uz/mavzu/tadqiqot/</link>
   <description>&quot;tadqiqot&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Sun, 25 Oct 2026 16:11:39 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 25 Oct 2026 17:00:14 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/tadqiqot/rss.xml" rel="self" type="application/rss+xml"/>
   <item>
     <title>AIga axloqni o'rgatishda dinni qo'llash taklif qilindi</title>
@@ -268,6 +268,16 @@
     <media:thumbnail url="https://ailenta.uz/og/claude-code-uchun-slimspec-koddan-keyin-spetsifikatsiya-a8a05a.jpg"/>
   </item>
   <item>
+    <title>AI PHP dasturlash tilidagi xatolarni aniqladi</title>
+    <link>https://ailenta.uz/x/ai-php-dasturlash-tilidagi-xatolarni-aniqladi-0047de/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/ai-php-dasturlash-tilidagi-xatolarni-aniqladi-0047de/</guid>
+    <pubDate>Fri, 23 Oct 2026 12:24:17 GMT</pubDate>
+    <description>Sun'iy intellekt PHP dasturlash tilida uzoq vaqtdan beri yashirin bo'lgan kamchiliklarni fosh etdi. Bu kashfiyot global kiberxavfsizlik sohasida favqulodda choralarni keltirib chiqardi.</description>
+    <category>xavfsizlik</category><category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/ai-php-dasturlash-tilidagi-xatolarni-aniqladi-0047de.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/ai-php-dasturlash-tilidagi-xatolarni-aniqladi-0047de.jpg"/>
+  </item>
+  <item>
     <title>AI 45 ming Enron elektron pochtasidan viki yaratdi</title>
     <link>https://ailenta.uz/x/ai-45-ming-enron-elektron-pochtasidan-viki-yaratdi-4608c7/</link>
     <guid isPermaLink="true">https://ailenta.uz/x/ai-45-ming-enron-elektron-pochtasidan-viki-yaratdi-4608c7/</guid>
@@ -296,16 +306,6 @@
     <category>tadqiqot</category><category>agentlar</category>
     <media:content url="https://ailenta.uz/og/ai-loyihada-kontekstni-yoqotmasligi-uchun-yechimlar-6bc8e1.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/ai-loyihada-kontekstni-yoqotmasligi-uchun-yechimlar-6bc8e1.jpg"/>
-  </item>
-  <item>
-    <title>Torvalds: AI kod sifati yaxshi bo'lsa, muammo emas</title>
-    <link>https://ailenta.uz/x/torvalds-ai-kod-sifati-yaxshi-bolsa-muammo-emas-ff5591/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/torvalds-ai-kod-sifati-yaxshi-bolsa-muammo-emas-ff5591/</guid>
-    <pubDate>Fri, 23 Oct 2026 11:31:00 GMT</pubDate>
-    <description>Linus Torvaldsning fikricha, AI malakali dasturchilar uchun yaxshi vosita. Kernelni qo‘llab-quvvatlovchilar kod sifati yuqori bo‘lsa, AI ishlatilgani haqida so‘ramaydi.</description>
-    <category>mehnat bozori</category><category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/torvalds-ai-kod-sifati-yaxshi-bolsa-muammo-emas-ff5591.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/torvalds-ai-kod-sifati-yaxshi-bolsa-muammo-emas-ff5591.jpg"/>
   </item>
 </channel>
 </rss>
