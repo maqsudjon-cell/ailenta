@@ -1,5 +1,70 @@
 [
   {
+    "id": "e849138802dd",
+    "slug": "ai-riman-kvazigipotezasini-isbotladi-e84913",
+    "title": "AI Riman kvazigipotezasini isbotladi",
+    "summary": "OpenAI taqdim etgan natijalar orasida Riman kvazigipotezasining isbotlanishi ajralib turdi. Stenford universiteti olimi Jared Dyuker Lixtman buni sun'iy intellektning matematikadagi eng katta yutug'i deb atadi.",
+    "tags": [
+      "OpenAI",
+      "tadqiqot"
+    ],
+    "importance": 4,
+    "score": 11,
+    "published": "2026-10-25T08:52:40.000Z",
+    "created": "2026-10-25T09:36:23.858Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1098970",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "caed26789152",
+    "slug": "koreya-ai-xizmatlarining-yarmi-xitoy-modellariga-asoslangan-caed26",
+    "title": "Koreya AI xizmatlarining yarmi Xitoy modellariga asoslangan",
+    "summary": "Janubiy Koreyadagi yangi sun'iy intellekt xizmatlarining deyarli yarmi Xitoyning bazaviy modellariga tayanmoqda. Bu haqda The Korea Times nashri ma'lum qildi.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 7,
+    "published": "2026-10-25T06:22:03.000Z",
+    "created": "2026-10-25T09:36:23.859Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Korea Times",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPbV9ERFlCUzM2aUpaSzdCQkdJdzZfWE5QUzNlQTQ0di1MaHJsMGNLUTdFbXNnZXNGZE51TFNGdXZxWUxTLVJHZnA0Nm5ZOWxHUVluVUFJc2V2UzNYVVFhcklOVlctODAtOU5xcllYMjhBNXQzQzF5TU5tcFlManV2NmNKd01OZVNZVUxLUjFNbGpmVmhodTJDeDA4YXRkUFBiaUFfbzF0YjRXVnNsM2VjVWQwYndOajRGTWV0cktlRXdtam9qNFNBNEI5NkE0TXRubHfSAdIBQVVfeXFMT21fRERZQlMzNmlKWks3QkJHSXc2X1hOUFMzZUE0NHYtTGhybDBjS1E3RW1zZ2VzRmROdUxTRnV2cVlMUy1SR2ZwNDZuWTlsR1FZblVBSXNldlMzWFVRYXJJTlZXLTgwLTlOcXJZWDI4QTV0M0MxeU1ObXBZTGp1djZjSndNTmVTWVVMS1IxTWxqZlZoaHUyQ3gwOGF0ZFBQYmlBX28xdGI0V1ZzbDNlY1VkMGJ3Tmo0Rk1ldHJLZUV3bWpvajRTQTRCOTZBNE10bmx3",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "afe881e8e897",
+    "slug": "anthropic-yevropada-ai-konsaltingini-yolga-qoymoqchi-afe881",
+    "title": "Anthropic Yevropada AI konsaltingini yo'lga qo'ymoqchi",
+    "summary": "Anthropic va Hg kompaniyalari Yevropa korxonalari uchun sun'iy intellekt bo'yicha konsalting xizmatini yo'lga qo'yishni rejalashtirmoqda. Bu haqda The Next Web xabar berdi.",
+    "tags": [
+      "Anthropic",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": -2.9,
+    "published": "2026-10-23T13:21:44.000Z",
+    "created": "2026-10-25T09:36:23.859Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Next Web",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1TOEtTX3h3bmV3VnpPQmp0eGJWbmF0NGhCY2RycVkxLXNlQUFnRDUyNEw4cFNibkRwY3JqUXgtdGF4WUhVakRtY1VFTFg1cjgycGVZNjJnTXdyX3hucUhiZ2lVOEFQSkxFaVZZR25jcjhMdw",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "bfbef711de5c",
     "slug": "palantir-rahbari-ai-va-neyroturli-xodimlar-haqida-gapirdi-bfbef7",
     "title": "Palantir rahbari AI va neyroturli xodimlar haqida gapirdi",
