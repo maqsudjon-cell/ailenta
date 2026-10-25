@@ -1,5 +1,27 @@
 [
   {
+    "id": "48e2274fdf2b",
+    "slug": "openai-modellarni-oqitish-muhiti-xavfsizligini-oshirdi-48e227",
+    "title": "OpenAI modellarni o'qitish muhiti xavfsizligini oshirdi",
+    "summary": "OpenAI kompaniyasi ilg'or modellarni o'qitish va baholash muhitida xavfsizlikni kuchaytirdi. Buning uchun oflayn muhitlar hamda yuqori hisoblash quvvatiga ega red-teaming usullaridan foydalanilgan.",
+    "tags": [
+      "OpenAI",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 28,
+    "published": "2026-10-23T10:00:00.000Z",
+    "created": "2026-10-25T01:23:36.878Z",
+    "coverage": 1,
+    "source": {
+      "name": "OpenAI",
+      "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "151c5a74a1ce",
     "slug": "meta-aksiyalari-7-foizga-arzonlashdi-151c5a",
     "title": "Meta aksiyalari 7 foizga arzonlashdi",
