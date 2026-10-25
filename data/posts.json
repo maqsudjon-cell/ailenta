@@ -1,5 +1,179 @@
 [
   {
+    "id": "d3bdf9761b38",
+    "slug": "aiga-axloqni-orgatishda-dinni-qollash-taklif-qilindi-d3bdf9",
+    "title": "AIga axloqni o'rgatishda dinni qo'llash taklif qilindi",
+    "summary": "Texnologiya rahbarlari AIga axloqiy qadriyatlarni o'rgatishda dindan foydalanishni taklif qilmoqda. Antropologlar bu yondashuv ayrim an'analarni ustun qo'yib, boshqalarini buzishi mumkinligidan ogohlantirdi. OpenAI bosh direktori Sam Altman AI insoniyatning axloqiy qarashlarini aks ettirishi kerakligini aytgan.",
+    "tags": [
+      "OpenAI",
+      "tadqiqot"
+    ],
+    "importance": 4,
+    "score": 25,
+    "published": "2026-10-25T15:22:28.000Z",
+    "created": "2026-10-25T16:02:57.078Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/10/25/tech-leaders-religion-ai-morality-traditions-anthropic-openai",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "283aef7b5aec",
+    "slug": "aqshda-media-va-sanat-sohasida-200-ming-ish-orni-yoqoldi-283aef",
+    "title": "AQShda media va san'at sohasida 200 ming ish o'rni yo'qoldi",
+    "summary": "AQShda media, kino va san'at sohalarida 200 ming ish o'rni yo'qolgani qayd etildi. Bu yo'qotishlarda sun'iy intellektning ta'siri qanchalik ekanligi muhokama qilinmoqda.",
+    "tags": [
+      "mehnat bozori",
+      "iqtisod"
+    ],
+    "importance": 3,
+    "score": 21.1,
+    "published": "2026-10-24T23:11:54.000Z",
+    "created": "2026-10-25T16:02:57.078Z",
+    "coverage": 1,
+    "source": {
+      "name": "Hacker News",
+      "url": "https://apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "6597a1303e38",
+    "slug": "texnologiya-sohasidan-tashqarida-ai-foydasi-korinmayapti-6597a1",
+    "title": "Texnologiya sohasidan tashqarida AI foydasi ko'rinmayapti",
+    "summary": "Texnologiya sektoridan tashqaridagi sohalarda sun'iy intellektdan sezilarli foyda olinayotgani haqida belgilar yo'q. Bu AI investitsiyalarining qaytimi bo'yicha savollarni tug'dirmoqda.",
+    "tags": [
+      "iqtisod",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 19.7,
+    "published": "2026-10-24T19:47:19.000Z",
+    "created": "2026-10-25T16:02:57.078Z",
+    "coverage": 1,
+    "source": {
+      "name": "Hacker News",
+      "url": "https://apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "fb83976eb530",
+    "slug": "aqsh-va-xitoy-ai-bloklari-orasidagi-davlatlar-kuchaymoqda-fb8397",
+    "title": "AQSh va Xitoy AI bloklari orasidagi davlatlar kuchaymoqda",
+    "summary": "AQSh va Xitoy dunyoni raqib AI bloklariga bo'layotgan bir paytda, o'rtadagi \"o'zgaruvchan davlatlar\" ta'sirga ega bo'lmoqda. Qozog'iston AQSh va Xitoy investitsiyalaridan foyda ko'rmoqda, ammo nozik vaziyatda.",
+    "tags": [
+      "siyosat",
+      "iqtisod"
+    ],
+    "importance": 4,
+    "score": 19,
+    "published": "2026-10-25T15:33:53.000Z",
+    "created": "2026-10-25T16:02:57.078Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/10/25/us-china-rival-ai-blocs-swing-countries-hedging",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "81c8fd74d5e2",
+    "slug": "ai-yaratgan-tilni-tushunish-nima-uchun-qiyin-81c8fd",
+    "title": "AI yaratgan tilni tushunish nima uchun qiyin",
+    "summary": "Sun'iy intellekt tomonidan yaratilgan tilning nima uchun tushunish qiyin ekanligi muhokama qilinmoqda. Bu AI modellarining tabiiy tilni qayta ishlashdagi kamchiliklariga ishora qiladi.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 19,
+    "published": "2026-10-24T18:04:57.000Z",
+    "created": "2026-10-25T16:02:57.078Z",
+    "coverage": 1,
+    "source": {
+      "name": "Hacker News",
+      "url": "https://arxiv.org/abs/2610.29162",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "611184d5aa6f",
+    "slug": "eng-mashhur-ai-taqiladigan-qurilmalari-royxati-611184",
+    "title": "Eng mashhur AI taqiladigan qurilmalari ro'yxati",
+    "summary": "Eng mashhur AI taqiladigan qurilmalari va gadjetlari ro'yxati tuzildi. Ro'yxatga Muse Charm, Bee, Friend, Plaud kabi mahsulotlar kiritilgan.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-10-25T14:10:00.000Z",
+    "created": "2026-10-25T16:02:57.078Z",
+    "coverage": 1,
+    "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "5ff7d3131369",
+    "slug": "ai-agentlarni-solishtirish-nima-uchun-qiyin-5ff7d3",
+    "title": "AI agentlarni solishtirish nima uchun qiyin",
+    "summary": "AI agentlarning \"kuchi\"ni o'lchash va ularni solishtirish qiyinligi muhokama qilinmoqda. Xitoy AI agentlari uchun 20 ta kichik vazifa, 60 ta agent va 200 ta vosita kabi mezonlarni taklif qildi.",
+    "tags": [
+      "agentlar",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 11,
+    "published": "2026-10-25T15:07:25.000Z",
+    "created": "2026-10-25T16:02:57.078Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1099142",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "6c16e5784741",
+    "slug": "ai-davri-muammolariga-inson-beparvoligi-sabab-6c16e5",
+    "title": "AI davri muammolariga inson beparvoligi sabab",
+    "summary": "Inson beparvoligi AI davrining eng katta muammolarini keltirib chiqarmoqda. OpenAI modellari bu hafta topgan xatolar o'n yildan ortiq vaqtdan beri mavjud bo'lgan.",
+    "tags": [
+      "xavfsizlik",
+      "OpenAI"
+    ],
+    "importance": 3,
+    "score": 7.9,
+    "published": "2026-10-23T16:40:50.000Z",
+    "created": "2026-10-25T16:02:57.078Z",
+    "coverage": 1,
+    "source": {
+      "name": "Semafor",
+      "url": "https://semafor.com/article/10/23/2026/human-complacency-creates-the-ai-ages-biggest-problems",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "ed849a13eb41",
     "slug": "nikon-golibi-ai-sabab-unvonidan-mahrum-boldi-ed849a",
     "title": "Nikon g'olibi AI sabab unvonidan mahrum bo'ldi",
