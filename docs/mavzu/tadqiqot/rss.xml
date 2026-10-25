@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/tadqiqot/</link>
   <description>&quot;tadqiqot&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Sun, 25 Oct 2026 08:10:14 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 25 Oct 2026 09:10:11 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/tadqiqot/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Kalman filtri AI yaratgan kodni yaxshilashga yordam berdi</title>
+    <link>https://ailenta.uz/x/kalman-filtri-ai-yaratgan-kodni-yaxshilashga-yordam-berdi-6758d0/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/kalman-filtri-ai-yaratgan-kodni-yaxshilashga-yordam-berdi-6758d0/</guid>
+    <pubDate>Sun, 25 Oct 2026 08:56:34 GMT</pubDate>
+    <description>Python kodini optimallashtirish bo'yicha o'tkazilgan sinovda Kalman filtri sun'iy intellekt baholashlarini yaxshiladi. 720 ta model javobida o'tkazilgan tahlil simulyatsiyada tuzatishlar hajmini kamaytirishga yordam berdi.</description>
+    <category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/kalman-filtri-ai-yaratgan-kodni-yaxshilashga-yordam-berdi-6758d0.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/kalman-filtri-ai-yaratgan-kodni-yaxshilashga-yordam-berdi-6758d0.jpg"/>
+  </item>
   <item>
     <title>Blue Planet III kadrlaridagi kamchiliklarni saqlab qoladi</title>
     <link>https://ailenta.uz/x/blue-planet-iii-kadrlaridagi-kamchiliklarni-saqlab-qoladi-26a10e/</link>
@@ -296,16 +306,6 @@
     <category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/ilmiy-kashfiyotlar-uchun-specevo-freymvorki-taqdim-etildi-0b1306.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/ilmiy-kashfiyotlar-uchun-specevo-freymvorki-taqdim-etildi-0b1306.jpg"/>
-  </item>
-  <item>
-    <title>Bilimni kuzatish modellarida parametr tahlili o'rganildi</title>
-    <link>https://ailenta.uz/x/bilimni-kuzatish-modellarida-parametr-tahlili-organildi-783167/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/bilimni-kuzatish-modellarida-parametr-tahlili-organildi-783167/</guid>
-    <pubDate>Fri, 23 Oct 2026 04:00:00 GMT</pubDate>
-    <description>Tadqiqotda bilimni kuzatish modellarining aniqligi va ularning parametrlarini tiklash jarayoni tahlil qilindi. Olimlar LSTM, Transformer va DKVMN modellari asosidagi dekoderlar faoliyatini o'rgandilar.</description>
-    <category>tadqiqot</category><category>ta'lim</category>
-    <media:content url="https://ailenta.uz/og/bilimni-kuzatish-modellarida-parametr-tahlili-organildi-783167.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/bilimni-kuzatish-modellarida-parametr-tahlili-organildi-783167.jpg"/>
   </item>
 </channel>
 </rss>

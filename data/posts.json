@@ -1,5 +1,48 @@
 [
   {
+    "id": "bfbef711de5c",
+    "slug": "palantir-rahbari-ai-va-neyroturli-xodimlar-haqida-gapirdi-bfbef7",
+    "title": "Palantir rahbari AI va neyroturli xodimlar haqida gapirdi",
+    "summary": "Palantir rahbari Aleks Karp sun'iy intellekt davrida neyroturli xodimlar muvaffaqiyat qozonishini ta'kidladi. Psixolog Daniel Vendler bu fikrga qisman qo'shildi, ammo bunday insonlarni ulug'lashdan ogohlantirdi.",
+    "tags": [
+      "Palantir",
+      "mehnat bozori"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-10-25T08:09:00.000Z",
+    "created": "2026-10-25T09:02:03.584Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/10/25/palantir-ceo-alex-karp-neurodivergent-people-tech-ai-think-differently",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "6758d058bc51",
+    "slug": "kalman-filtri-ai-yaratgan-kodni-yaxshilashga-yordam-berdi-6758d0",
+    "title": "Kalman filtri AI yaratgan kodni yaxshilashga yordam berdi",
+    "summary": "Python kodini optimallashtirish bo'yicha o'tkazilgan sinovda Kalman filtri sun'iy intellekt baholashlarini yaxshiladi. 720 ta model javobida o'tkazilgan tahlil simulyatsiyada tuzatishlar hajmini kamaytirishga yordam berdi.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 11,
+    "published": "2026-10-25T08:56:34.000Z",
+    "created": "2026-10-25T09:02:03.584Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1098756",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "9453d965d5e5",
     "slug": "meituan-waimai-restoranlarga-bepul-ai-menejer-beradi-9453d9",
     "title": "Meituan Waimai restoranlarga bepul AI menejer beradi",
