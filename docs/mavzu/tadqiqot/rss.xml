@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/tadqiqot/</link>
   <description>&quot;tadqiqot&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Sun, 25 Oct 2026 15:10:55 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 25 Oct 2026 15:46:29 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/tadqiqot/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Nikon g'olibi AI sabab unvonidan mahrum bo'ldi</title>
+    <link>https://ailenta.uz/x/nikon-golibi-ai-sabab-unvonidan-mahrum-boldi-ed849a/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/nikon-golibi-ai-sabab-unvonidan-mahrum-boldi-ed849a/</guid>
+    <pubDate>Sun, 25 Oct 2026 09:51:17 GMT</pubDate>
+    <description>Nikon fotosurat tanlovining g'olibi ilmiy xodimlar uning ishida sun'iy intellekt izlarini topgach, unvonidan ayrildi. Bu holat AI tomonidan yaratilgan kontent bilan bog'liq muammolarni ko'rsatadi.</description>
+    <category>tadqiqot</category><category>qonun</category>
+    <media:content url="https://ailenta.uz/og/nikon-golibi-ai-sabab-unvonidan-mahrum-boldi-ed849a.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/nikon-golibi-ai-sabab-unvonidan-mahrum-boldi-ed849a.jpg"/>
+  </item>
   <item>
     <title>Kalman filtri AI yaratgan kodni yaxshilashga yordam berdi</title>
     <link>https://ailenta.uz/x/kalman-filtri-ai-yaratgan-kodni-yaxshilashga-yordam-berdi-6758d0/</link>
@@ -296,16 +306,6 @@
     <category>tibbiyot</category><category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/ai-saraton-boyicha-bashorat-qila-oladimi-6ac37f.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/ai-saraton-boyicha-bashorat-qila-oladimi-6ac37f.jpg"/>
-  </item>
-  <item>
-    <title>ClariEdge RAG tizimida so'rovlarni aniqlaydi</title>
-    <link>https://ailenta.uz/x/clariedge-rag-tizimida-sorovlarni-aniqlaydi-74bd14/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/clariedge-rag-tizimida-sorovlarni-aniqlaydi-74bd14/</guid>
-    <pubDate>Fri, 23 Oct 2026 04:00:00 GMT</pubDate>
-    <description>Tadqiqotchilar RAG tizimlari uchun mo'ljallangan ClariEdge ma'lumotlar to'plamini taqdim etdi. Ushbu kichik model foydalanuvchilarning noaniq so'rovlarini aniqlab, to'g'ri savol berishga yordam beradi.</description>
-    <category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/clariedge-rag-tizimida-sorovlarni-aniqlaydi-74bd14.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/clariedge-rag-tizimida-sorovlarni-aniqlaydi-74bd14.jpg"/>
   </item>
 </channel>
 </rss>
