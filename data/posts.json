@@ -1,9 +1,52 @@
 [
   {
+    "id": "570af7d1cf9f",
+    "slug": "ai-kozoynaklari-qachon-naushnik-ornini-bosa-oladi-570af7",
+    "title": "AI ko'zoynaklari qachon naushnik o'rnini bosa oladi",
+    "summary": "Aqlli AI ko'zoynaklari keng tarqalmoqda, ammo ularning ovoz sifati muhim. Bu qurilmalarning audio imkoniyatlari foydalanish maqsadiga bog'liq.",
+    "tags": [
+      "robototexnika"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-10-25T12:45:00.000Z",
+    "created": "2026-10-25T17:05:21.868Z",
+    "coverage": 1,
+    "source": {
+      "name": "Engadget",
+      "url": "https://engadget.com/2292076/when-ai-glasses-worth-headphones-replacement",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "0154279a98e0",
+    "slug": "ai-modelini-tanlashda-shov-shuvga-uchmaslik-yollari-015427",
+    "title": "AI modelini tanlashda shov-shuvga uchmaslik yo'llari",
+    "summary": "Muse Wonder Full taqdim etildi, ammo AI modelini tanlashda ehtiyot bo'lish kerak. Shov-shuvlarga berilmasdan, to'g'ri tanlov qilish muhimligi ta'kidlanmoqda.",
+    "tags": [
+      "tadqiqot",
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 10,
+    "published": "2026-10-25T09:20:34.000Z",
+    "created": "2026-10-25T17:05:21.868Z",
+    "coverage": 1,
+    "source": {
+      "name": "Times Argus",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQUHc1eklCNnJ5RFFyTkpreE16blBqT0s4MkxlVGRlUlVBNkZyTG1NSHRlRUdOaWlwdUlsYi1mT3B1aGJMVXNkNHpXZGtmNlBuVzBtUWRHdk5Kdkw3S3VZTERYNnNJaHdleTAwdXVYSlp0SXpCMHRWTUxfaEQ5V0VrVGtXZGZvMWg5V2VGVThnOURiSHFKWUlhRzhhazVndlBJLTlxdVBYekZPMVgyTzlKY2hYNVdXXzFrTFV3WTNybnFBUzlZLVZHQU43Q1BzMGhDREdNS0lPTmFJcEFWelNCLXB4OVVPcU1VSFRRUUV3Q1g",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "0047dea7f101",
-    "slug": "ai-php-dasturlash-tilidagi-xatolarni-aniqladi-0047de",
-    "title": "AI PHP dasturlash tilidagi xatolarni aniqladi",
-    "summary": "Sun'iy intellekt PHP dasturlash tilida uzoq vaqtdan beri yashirin bo'lgan kamchiliklarni fosh etdi. Bu kashfiyot global kiberxavfsizlik sohasida favqulodda choralarni keltirib chiqardi.",
+    "slug": "ai-php-dasturlashdagi-xatolarni-aniqladi-0047de",
+    "title": "AI PHP dasturlashdagi xatolarni aniqladi",
+    "summary": "Sun'iy intellekt PHP dasturlash tilidagi uzoq vaqtdan beri yashirin bo'lgan xatolarni topdi. Bu esa global kiberxavfsizlik choralarini faollashtirdi.",
     "tags": [
       "xavfsizlik",
       "tadqiqot"
@@ -11,7 +54,7 @@
     "importance": 4,
     "score": 6.8,
     "published": "2026-10-23T12:24:17.000Z",
-    "created": "2026-10-25T16:52:28.344Z",
+    "created": "2026-10-25T17:05:21.868Z",
     "coverage": 1,
     "source": {
       "name": "BBC News",
@@ -23,17 +66,17 @@
   },
   {
     "id": "e8d699d56e47",
-    "slug": "afrika-ai-auditlari-moliyani-kuzatishi-kerak-e8d699",
-    "title": "Afrika AI auditlari moliyani kuzatishi kerak",
-    "summary": "Afrika AI auditlari moliyaviy oqimlarni kuzatishi kerakligi ta'kidlanmoqda. Bu yondashuv AI loyihalarining shaffofligi va samaradorligini oshirishga yordam beradi.",
+    "slug": "afrika-ai-auditlari-moliyaviy-oqimlarni-kuzatishi-kerak-e8d699",
+    "title": "Afrika AI auditlari moliyaviy oqimlarni kuzatishi kerak",
+    "summary": "Afrikadagi sun'iy intellekt auditlari moliyaviy oqimlarni kuzatishi zarurligi ta'kidlanmoqda. Bu AI loyihalarida shaffoflik va mas'uliyatni ta'minlash uchun muhim.",
     "tags": [
       "siyosat",
       "iqtisod"
     ],
     "importance": 2,
-    "score": -6.8,
+    "score": -6.9,
     "published": "2026-10-23T18:14:58.000Z",
-    "created": "2026-10-25T16:52:28.344Z",
+    "created": "2026-10-25T17:05:21.868Z",
     "coverage": 1,
     "source": {
       "name": "Khusoko",
