@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/tadqiqot/</link>
   <description>&quot;tadqiqot&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Sun, 25 Oct 2026 20:13:08 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 25 Oct 2026 21:08:27 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/tadqiqot/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Kichik LLM'dan avtonom terminal agent yaratish imkoniyati</title>
+    <link>https://ailenta.uz/x/kichik-llmdan-avtonom-terminal-agent-yaratish-imkoniyati-399392/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/kichik-llmdan-avtonom-terminal-agent-yaratish-imkoniyati-399392/</guid>
+    <pubDate>Sun, 25 Oct 2026 19:30:43 GMT</pubDate>
+    <description>Katta til modellarining rivojlanishi sharoitida, kichikroq 8 milliard parametrlik LLM'dan avtonom terminal agent yaratish imkoniyati o'rganilmoqda. Maqsad, bunday agentning dasturiy ta'minotni ishlab chiqishda kattaroq modellarga teng foyda keltira olishini aniqlash.</description>
+    <category>agentlar</category><category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/kichik-llmdan-avtonom-terminal-agent-yaratish-imkoniyati-399392.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/kichik-llmdan-avtonom-terminal-agent-yaratish-imkoniyati-399392.jpg"/>
+  </item>
   <item>
     <title>AIga axloqni o'rgatishda dinni qo'llash taklif qilindi</title>
     <link>https://ailenta.uz/x/aiga-axloqni-orgatishda-dinni-qollash-taklif-qilindi-d3bdf9/</link>
@@ -296,16 +306,6 @@
     <category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/ai-45-ming-enron-elektron-pochtasidan-viki-yaratdi-4608c7.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/ai-45-ming-enron-elektron-pochtasidan-viki-yaratdi-4608c7.jpg"/>
-  </item>
-  <item>
-    <title>AI tufayli retro o'yinlar kutilmagan joylarda paydo bo'lmoqda</title>
-    <link>https://ailenta.uz/x/ai-tufayli-retro-oyinlar-kutilmagan-joylarda-paydo-bolmoqda-73558b/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/ai-tufayli-retro-oyinlar-kutilmagan-joylarda-paydo-bolmoqda-73558b/</guid>
-    <pubDate>Fri, 23 Oct 2026 12:00:00 GMT</pubDate>
-    <description>Yangi AI vositalari yordamida retro video o‘yinlar kutilmagan joylarda, masalan, Halo brauzerda yoki Wind Waker iPhone'da paydo bo‘lmoqda. So‘nggi oyda bunday loyihalar tez-tez ommalashdi.</description>
-    <category>tadqiqot</category><category>biznes</category>
-    <media:content url="https://ailenta.uz/og/ai-tufayli-retro-oyinlar-kutilmagan-joylarda-paydo-bolmoqda-73558b.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/ai-tufayli-retro-oyinlar-kutilmagan-joylarda-paydo-bolmoqda-73558b.jpg"/>
   </item>
 </channel>
 </rss>

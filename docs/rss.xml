@@ -5,8 +5,18 @@
   <link>https://ailenta.uz</link>
   <description>Dunyodagi sun'iy intellekt yangiliklari o'zbek tilida. Har soatda yangilanadi, har bir xabarda asl manbaga havola.</description>
   <language>uz</language>
-  <lastBuildDate>Sun, 25 Oct 2026 20:13:09 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 25 Oct 2026 21:08:27 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Kichik LLM'dan avtonom terminal agent yaratish imkoniyati</title>
+    <link>https://ailenta.uz/x/kichik-llmdan-avtonom-terminal-agent-yaratish-imkoniyati-399392/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/kichik-llmdan-avtonom-terminal-agent-yaratish-imkoniyati-399392/</guid>
+    <pubDate>Sun, 25 Oct 2026 19:30:43 GMT</pubDate>
+    <description>Katta til modellarining rivojlanishi sharoitida, kichikroq 8 milliard parametrlik LLM'dan avtonom terminal agent yaratish imkoniyati o'rganilmoqda. Maqsad, bunday agentning dasturiy ta'minotni ishlab chiqishda kattaroq modellarga teng foyda keltira olishini aniqlash.</description>
+    <category>agentlar</category><category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/kichik-llmdan-avtonom-terminal-agent-yaratish-imkoniyati-399392.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/kichik-llmdan-avtonom-terminal-agent-yaratish-imkoniyati-399392.jpg"/>
+  </item>
   <item>
     <title>Data-markazlar kechikishi uchun jarimalar oshdi</title>
     <link>https://ailenta.uz/x/data-markazlar-kechikishi-uchun-jarimalar-oshdi-d31a58/</link>
@@ -146,6 +156,16 @@
     <category>Anthropic</category><category>mehnat bozori</category>
     <media:content url="https://ailenta.uz/og/sobiq-siyosiy-xodim-anthropic-kompaniyasiga-ishga-kirdi-e394d8.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/sobiq-siyosiy-xodim-anthropic-kompaniyasiga-ishga-kirdi-e394d8.jpg"/>
+  </item>
+  <item>
+    <title>Thariq Anthropic'dan ketdi, xabar X'da sizdirildi</title>
+    <link>https://ailenta.uz/x/thariq-anthropicdan-ketdi-xabar-xda-sizdirildi-9b3907/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/thariq-anthropicdan-ketdi-xabar-xda-sizdirildi-9b3907/</guid>
+    <pubDate>Sun, 25 Oct 2026 11:52:22 GMT</pubDate>
+    <description>Anthropic kompaniyasining xodimi Thariq o'z lavozimini tark etdi. Uning ketishi haqidagi ma'lumot rasmiy e'londan avval X platformasida sizdirilgan.</description>
+    <category>Anthropic</category><category>biznes</category>
+    <media:content url="https://ailenta.uz/og/thariq-anthropicdan-ketdi-xabar-xda-sizdirildi-9b3907.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/thariq-anthropicdan-ketdi-xabar-xda-sizdirildi-9b3907.jpg"/>
   </item>
   <item>
     <title>Anthropic bepul OSS Scanner xavfsizlik vositasini chiqardi</title>
@@ -486,26 +506,6 @@
     <category>chiplar</category><category>biznes</category>
     <media:content url="https://ailenta.uz/og/ciena-optik-chiplariga-bolgan-ai-talabi-oshib-bormoqda-b743fa.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/ciena-optik-chiplariga-bolgan-ai-talabi-oshib-bormoqda-b743fa.jpg"/>
-  </item>
-  <item>
-    <title>AI: har kimning qo'lidagi skalpelga o'xshaydi</title>
-    <link>https://ailenta.uz/x/ai-har-kimning-qolidagi-skalpelga-oxshaydi-b9ada3/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/ai-har-kimning-qolidagi-skalpelga-oxshaydi-b9ada3/</guid>
-    <pubDate>Sat, 24 Oct 2026 15:27:31 GMT</pubDate>
-    <description>Habr nashri AI'ni skalpelga qiyoslab, uni oyiga 20 dollarga har kimga taqdim etilishini yozdi. Malakali qo'llarda u imkonsiz ishlarni bajarishga yordam bersa, tajribasiz qo'llarda kutilmagan natijalar berishi mumkin.</description>
-    <category>siyosat</category><category>xavfsizlik</category>
-    <media:content url="https://ailenta.uz/og/ai-har-kimning-qolidagi-skalpelga-oxshaydi-b9ada3.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/ai-har-kimning-qolidagi-skalpelga-oxshaydi-b9ada3.jpg"/>
-  </item>
-  <item>
-    <title>AI tajribasiz advokatlar ishini yaxshilamoqda</title>
-    <link>https://ailenta.uz/x/ai-tajribasiz-advokatlar-ishini-yaxshilamoqda-143277/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/ai-tajribasiz-advokatlar-ishini-yaxshilamoqda-143277/</guid>
-    <pubDate>Sat, 24 Oct 2026 14:34:05 GMT</pubDate>
-    <description>133 nafar patent advokati ishtirokidagi tadqiqot AI tajribasiz yuristlar ishini darhol yaxshilashini ko'rsatdi. Biroq AI olib tashlanganda faqat tajribali mutaxassislar o'z ko'nikmalarini saqlab qoldi.</description>
-    <category>tadqiqot</category><category>mehnat bozori</category>
-    <media:content url="https://ailenta.uz/og/ai-tajribasiz-advokatlar-ishini-yaxshilamoqda-143277.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/ai-tajribasiz-advokatlar-ishini-yaxshilamoqda-143277.jpg"/>
   </item>
 </channel>
 </rss>

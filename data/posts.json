@@ -1,5 +1,49 @@
 [
   {
+    "id": "399392ab7d57",
+    "slug": "kichik-llmdan-avtonom-terminal-agent-yaratish-imkoniyati-399392",
+    "title": "Kichik LLM'dan avtonom terminal agent yaratish imkoniyati",
+    "summary": "Katta til modellarining rivojlanishi sharoitida, kichikroq 8 milliard parametrlik LLM'dan avtonom terminal agent yaratish imkoniyati o'rganilmoqda. Maqsad, bunday agentning dasturiy ta'minotni ishlab chiqishda kattaroq modellarga teng foyda keltira olishini aniqlash.",
+    "tags": [
+      "agentlar",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 17,
+    "published": "2026-10-25T19:30:43.000Z",
+    "created": "2026-10-25T21:02:49.441Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1099230",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "9b39079d4cc6",
+    "slug": "thariq-anthropicdan-ketdi-xabar-xda-sizdirildi-9b3907",
+    "title": "Thariq Anthropic'dan ketdi, xabar X'da sizdirildi",
+    "summary": "Anthropic kompaniyasining xodimi Thariq o'z lavozimini tark etdi. Uning ketishi haqidagi ma'lumot rasmiy e'londan avval X platformasida sizdirilgan.",
+    "tags": [
+      "Anthropic",
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 7,
+    "published": "2026-10-25T11:52:22.000Z",
+    "created": "2026-10-25T21:02:49.441Z",
+    "coverage": 1,
+    "source": {
+      "name": "Pasquale Pillitteri",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOTJGZlBQZ0F0Q3NhZ3Fsa0J5bEoyS3lCa2NfcUo1ZUQ3UjNDa3p2SmdEYWlLR1pYTkozSV9aN296MDdaS1IxRlBvSUVIUHlpc2Z1d2JGWGVrQU8tUjVkb3dmc0tRWktWWlhQNmVFSUUzS1VnNmljVVBhTHlXd21yNWd3SEI3dVZmdUE5dnM5WG5BbFpxc1JvMzJyMjVWdXg1U1dDenFYOA",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "d31a5880f00a",
     "slug": "data-markazlar-kechikishi-uchun-jarimalar-oshdi-d31a58",
     "title": "Data-markazlar kechikishi uchun jarimalar oshdi",

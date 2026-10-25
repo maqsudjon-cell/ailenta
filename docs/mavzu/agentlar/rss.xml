@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/agentlar/</link>
   <description>&quot;agentlar&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Sun, 25 Oct 2026 20:13:08 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 25 Oct 2026 21:08:27 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/agentlar/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Kichik LLM'dan avtonom terminal agent yaratish imkoniyati</title>
+    <link>https://ailenta.uz/x/kichik-llmdan-avtonom-terminal-agent-yaratish-imkoniyati-399392/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/kichik-llmdan-avtonom-terminal-agent-yaratish-imkoniyati-399392/</guid>
+    <pubDate>Sun, 25 Oct 2026 19:30:43 GMT</pubDate>
+    <description>Katta til modellarining rivojlanishi sharoitida, kichikroq 8 milliard parametrlik LLM'dan avtonom terminal agent yaratish imkoniyati o'rganilmoqda. Maqsad, bunday agentning dasturiy ta'minotni ishlab chiqishda kattaroq modellarga teng foyda keltira olishini aniqlash.</description>
+    <category>agentlar</category><category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/kichik-llmdan-avtonom-terminal-agent-yaratish-imkoniyati-399392.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/kichik-llmdan-avtonom-terminal-agent-yaratish-imkoniyati-399392.jpg"/>
+  </item>
   <item>
     <title>AI agentlarni solishtirish nima uchun qiyin</title>
     <link>https://ailenta.uz/x/ai-agentlarni-solishtirish-nima-uchun-qiyin-5ff7d3/</link>
@@ -296,16 +306,6 @@
     <category>ochiq model</category><category>agentlar</category>
     <media:content url="https://ailenta.uz/og/ai-toliq-yozgan-kubernetes-klienti-sextant-14480c.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/ai-toliq-yozgan-kubernetes-klienti-sextant-14480c.jpg"/>
-  </item>
-  <item>
-    <title>AI kompaniyalari inson ishini o'rganishga ma'lumot sotib oladi</title>
-    <link>https://ailenta.uz/x/ai-kompaniyalari-inson-ishini-organishga-malumot-sotib-oladi-ff7034/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/ai-kompaniyalari-inson-ishini-organishga-malumot-sotib-oladi-ff7034/</guid>
-    <pubDate>Sun, 18 Oct 2026 14:00:01 GMT</pubDate>
-    <description>Business Insider xabariga ko'ra, AI kompaniyalari agentlar va robotlarni quvvatlantirish uchun inson ishining yozuvlari va kompaniya hujjatlarini sotib olmoqda. Bu ma'lumotlar AI modellarini o'qitishda muhim rol o'ynaydi.</description>
-    <category>biznes</category><category>agentlar</category>
-    <media:content url="https://ailenta.uz/og/ai-kompaniyalari-inson-ishini-organishga-malumot-sotib-oladi-ff7034.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/ai-kompaniyalari-inson-ishini-organishga-malumot-sotib-oladi-ff7034.jpg"/>
   </item>
 </channel>
 </rss>
