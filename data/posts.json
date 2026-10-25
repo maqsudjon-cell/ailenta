@@ -1,5 +1,91 @@
 [
   {
+    "id": "d6122c4631f5",
+    "slug": "neighbours-seriali-ai-yordamida-qayta-montaj-qilinmoqda-d6122c",
+    "title": "Neighbours seriali AI yordamida qayta montaj qilinmoqda",
+    "summary": "RoseBerry Media kompaniyasi mashhur Neighbours teleseriali qismlarini AI yordamida vertikal mikro-epizodlarga aylantirmoqda. Loyiha Margot Robbi qahramoniga qaratilgan bo'lib, serialdagi boshqa aktyorlar bu qarordan norozi bo'lmoqda.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 23,
+    "published": "2026-10-25T14:00:06.000Z",
+    "created": "2026-10-25T14:04:33.642Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/tv-and-radio/2026/oct/26/neighbours-soap-recut-ai-microdrama-mobile-series-feat-margot-robbie",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "ee7b6db38f5e",
+    "slug": "airbnb-rahbari-ai-davriga-moslashish-haqida-ogohlantirdi-ee7b6d",
+    "title": "Airbnb rahbari AI davriga moslashish haqida ogohlantirdi",
+    "summary": "Airbnb bosh direktori Brayan Cheski AI davrida ikki toifa xodimlar saqlanib qololmasligini aytdi. Uning fikricha, o'zgarishlarga qarshilik ko'rsatuvchilar va faqat majlis o'tkazish bilan cheklanadigan sof menejerlar ishidan ayrilishi mumkin.",
+    "tags": [
+      "mehnat bozori",
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 19,
+    "published": "2026-10-25T13:23:04.000Z",
+    "created": "2026-10-25T14:04:33.643Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/article/airbnb-ceo-brian-chesky-warns-two-types-of-people-wont-survive-the-ai-era-pure-people-managers-and-workers-who-resist-change",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "6bffee9c13e8",
+    "slug": "r-opensource-hamjamiyati-ai-loyihalarini-taqiqladi-6bffee",
+    "title": "r/opensource hamjamiyati AI loyihalarini taqiqladi",
+    "summary": "Reddit tarmog'idagi r/opensource hamjamiyati yangi qoidalarni e'lon qilib, AI loyihalarini taqiqladi. Moderatorlar AI orqali yaratilgan, AI qo'llangan yoki unga mo'ljallangan loyihalar ochiq kodli dasturiy ta'minot tamoyillariga mos kelmasligini bildirdi.",
+    "tags": [
+      "ochiq model"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-10-25T13:25:32.000Z",
+    "created": "2026-10-25T14:04:33.643Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Verge",
+      "url": "https://theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "9ba82dcbf81e",
+    "slug": "anthropic-bepul-oss-scanner-xavfsizlik-vositasini-chiqardi-9ba82d",
+    "title": "Anthropic bepul OSS Scanner xavfsizlik vositasini chiqardi",
+    "summary": "Anthropic kompaniyasi OSS Scanner nomli sun'iy intellektga asoslangan bepul zaiflik skanerini taqdim etdi. Ushbu vosita tizimlardagi xavfsizlik kamchiliklarini aniqlashga mo'ljallangan.",
+    "tags": [
+      "Anthropic",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 10,
+    "published": "2026-10-25T11:32:29.000Z",
+    "created": "2026-10-25T14:04:33.643Z",
+    "coverage": 1,
+    "source": {
+      "name": "MarkTechPost",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMFM1ZFlGVDdIend1emlIOGt4S1RhZ2xNVzdJU2lweGtXZFpFUWF2Q0cxVHRMTWRTVURCODR0bDA4aG1selVHaWJWZFhpc0xGVXhrN2Q3VnJDaXRjZEU5OGlOWnRFUG1EY3E4RTBLNUNTS1RvZHZXWWk3cmFsNDV0R0c2VFdyOVFiSUhfYkJkNzYwQVJzX1FkM09DSXU4MEhEZGdteXhOQllJUTZJLXfSAa4BQVVfeXFMTTBTNWRZRlQ3SHp3dXppSDhreEtUYWdsTVc3SVNpcHhrV2RaRVFhdkNHMVR0TE1kU1VEQjg0dGwwOGhtbHpVR2liVmRYaXNMRlV4azdkN1ZyQ2l0Y2RFOThpTlp0RVBtRGNxOEUwSzVDU0tUb2R2V1lpN3JhbDQ1dEdHNlRXcjlRYklIX2JCZDc2MEFSc19RZDNPQ0l1ODBIRGRnbXl4TkJZSVE2SS13",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "5431bd7fa76b",
     "slug": "samsung-tensorflow-lite-modeli-orqali-kuzatuv-5431bd",
     "title": "Samsung TensorFlow Lite modeli orqali kuzatuv",
