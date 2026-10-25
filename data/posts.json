@@ -1,5 +1,93 @@
 [
   {
+    "id": "5431bd7fa76b",
+    "slug": "samsung-tensorflow-lite-modeli-orqali-kuzatuv-5431bd",
+    "title": "Samsung TensorFlow Lite modeli orqali kuzatuv",
+    "summary": "Samsung kompaniyasi foydalanuvchilarni kuzatish uchun 960x540 o'lchamli tasvirlarda TensorFlow Lite modelini ishga tushirmoqda. Bu harakat maxfiylik bilan bog'liq savollarni tug'diradi.",
+    "tags": [
+      "Samsung",
+      "maxfiylik"
+    ],
+    "importance": 3,
+    "score": 17.2,
+    "published": "2026-10-25T10:42:01.000Z",
+    "created": "2026-10-25T12:10:58.945Z",
+    "coverage": 1,
+    "source": {
+      "name": "Hacker News",
+      "url": "https://twitter.com/mike64_t/status/2114150399406202896",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "6f9ed043fa8a",
+    "slug": "google-ai-qidiruv-ozgarishlari-nashriyotga-tasir-qildi-6f9ed0",
+    "title": "Google AI qidiruv o'zgarishlari nashriyotga ta'sir qildi",
+    "summary": "Google'ning sun'iy intellektga asoslangan qidiruv tizimidagi o'zgarishlar onlayn nashriyot sanoatini o'zgartirib yubordi. Raqamli nashriyot sohasi bu o'zgarishlarga moslashishga harakat qilmoqda.",
+    "tags": [
+      "Google",
+      "biznes"
+    ],
+    "importance": 4,
+    "score": 15,
+    "published": "2026-10-25T12:00:00.000Z",
+    "created": "2026-10-25T12:10:58.945Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Verge",
+      "url": "https://theverge.com/column/1017983/google-ai-search-online-publishing",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "7927c9f33aef",
+    "slug": "ai-rahbarlari-siyosiy-javobgarlikka-aylanmoqda-7927c9",
+    "title": "AI rahbarlari siyosiy javobgarlikka aylanmoqda",
+    "summary": "AQSh qonunchilari va xodimlari AI rahbarlarini siyosiy javobgarlikka aylanayotganini ta'kidlamoqda. Ularning farovonlik va ekzistensial xavflar haqidagi qarama-qarshi bayonotlari bunga sabab bo'lmoqda.",
+    "tags": [
+      "siyosat",
+      "qonun"
+    ],
+    "importance": 4,
+    "score": 15,
+    "published": "2026-10-25T11:00:54.000Z",
+    "created": "2026-10-25T12:10:58.945Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/261025/p7",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "e394d8dc0da1",
+    "slug": "sobiq-siyosiy-xodim-anthropic-kompaniyasiga-ishga-kirdi-e394d8",
+    "title": "Sobiq siyosiy xodim Anthropic kompaniyasiga ishga kirdi",
+    "summary": "Sobiq siyosiy xodim Manny Yekutielning matbuot kotibi Anthropic kompaniyasiga ishga kirdi. Bu San-Fransiskodagi yana bir siyosiy xodimning AI gigantiga o'tishini anglatadi.",
+    "tags": [
+      "Anthropic",
+      "mehnat bozori"
+    ],
+    "importance": 1,
+    "score": 10,
+    "published": "2026-10-25T12:00:00.000Z",
+    "created": "2026-10-25T12:10:58.945Z",
+    "coverage": 1,
+    "source": {
+      "name": "Mission Local",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRVFhWkpsY3lDbkxJampTVXNNNnQyTGtLRHNVU3pnalhOM2pxRHhEZW90c2RmNDlhZTJIejRkdXEzQlpuR2JXbEZUX0VkbDctQlF2aEhqQk80RFdjcTh5d2VKYkNlb3M2ZEdwbkltcXIxSUNFZkYzLVRLSno0bnR1SzhMWjEyenJBNC1Rc0hUVXBCbXRYRUJKSg",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "0fb8b73a177c",
     "slug": "yarador-askar-dron-orqali-evakuatsiya-qilindi-0fb8b7",
     "title": "Yarador askar dron orqali evakuatsiya qilindi",
