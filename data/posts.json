@@ -1,5 +1,49 @@
 [
   {
+    "id": "d31a5880f00a",
+    "slug": "data-markazlar-kechikishi-uchun-jarimalar-oshdi-d31a58",
+    "title": "Data-markazlar kechikishi uchun jarimalar oshdi",
+    "summary": "Data-markaz ijarachilari qurilish kechikkani uchun kuniga 5 million dollardan ortiq jarima talab qilmoqda. Bahorda bu ko'rsatkich 1 million dollar edi. Marsh kabi brokerlar kechikishlarni sug'urtalash xizmatlarini yo'lga qo'ymoqda.",
+    "tags": [
+      "bulut",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-10-25T19:10:13.000Z",
+    "created": "2026-10-25T19:50:05.964Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/261025/p10",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "310cceb814c6",
+    "slug": "anthropic-mualliflik-huquqi-sabab-sudga-berildi-310cce",
+    "title": "Anthropic mualliflik huquqi sabab sudga berildi",
+    "summary": "Anthropic kompaniyasi mualliflik huquqiga ega materiallarni noqonuniy ishlatganlik aybi bilan sudga berildi. Da'voda kompaniyaning ijodiy asarlardan ruxsatsiz foydalangani ta'kidlanmoqda.",
+    "tags": [
+      "Anthropic",
+      "sud"
+    ],
+    "importance": 3,
+    "score": 7,
+    "published": "2026-10-25T15:14:00.000Z",
+    "created": "2026-10-25T19:50:05.964Z",
+    "coverage": 1,
+    "source": {
+      "name": "A.V. Club",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1fUjlMUkF1ZmRLbHZwUWdTbV9sdmt1M0FTZFhYY3FlWnFJVEN0dEo2QVVJemY1RVRvTS1UWkVtZXExXzd5YUZZMERzU3lQZHptaTNHOFpXN3NXaS1XM2d1RkhHNTM0UUZNRlpkRlh3SWVxdWpY",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "a865700831d7",
     "slug": "ikki-ai-chip-ishlab-chiqaruvchi-kompaniya-aqsh-daromadining--a86570",
     "title": "Ikki AI chip ishlab chiqaruvchi kompaniya AQSh daromadining 34%ini tashkil etdi",
