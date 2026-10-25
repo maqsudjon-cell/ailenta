@@ -1,5 +1,68 @@
 [
   {
+    "id": "0fb8b73a177c",
+    "slug": "yarador-askar-dron-orqali-evakuatsiya-qilindi-0fb8b7",
+    "title": "Yarador askar dron orqali evakuatsiya qilindi",
+    "summary": "Tarixda birinchi marta yarador askar dron yordamida evakuatsiya qilindi. U yarim yil davomida evakuatsiyani kutgan va og'ir jarohatlari sababli oyoqlarini kesib tashlashiga to'g'ri kelgan.",
+    "tags": [
+      "robototexnika"
+    ],
+    "importance": 3,
+    "score": 45,
+    "published": "2026-10-25T09:43:53.000Z",
+    "created": "2026-10-25T11:01:25.709Z",
+    "coverage": 1,
+    "source": {
+      "name": "Kun.uz",
+      "url": "https://kun.uz/news/2026/10/25/tarixda-ilk-bor-yarador-askar-dron-orqali-evakuatsiya-qilindi",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "b711f76b6f8d",
+    "slug": "data-markaz-shovqinini-chiqaruvchi-oyinchoq-yaratildi-b711f7",
+    "title": "Data-markaz shovqinini chiqaruvchi o'yinchoq yaratildi",
+    "summary": "Bezzy nomli data-markaz ko'rinishidagi yumshoq o'yinchoq taqdim etildi. U siqilganda haqiqiy data-markazning g'ovullagan shovqinini chiqaradi va uning barcha nusxalari sotib bo'lingan.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 1,
+    "score": 15,
+    "published": "2026-10-25T09:17:01.000Z",
+    "created": "2026-10-25T11:01:25.709Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/plushie-ai-data-center-noise-hug-art-project-2026-10",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "7687604399cd",
+    "slug": "jeff-kinni-aining-bolalarga-tasiridan-xavotirda-768760",
+    "title": "Jeff Kinni AI'ning bolalarga ta'siridan xavotirda",
+    "summary": "\"Diary of a Wimpy Kid\" kitobi muallifi Jeff Kinni sun'iy intellekt ko'p narsalarni juda osonlashtirayotganidan xavotir bildirdi. U bolalarda mutolaa va fikrlashni rivojlantirish uchun muloqotni yo'lga qo'yish hamda ularning qiziqishlarini qo'llab-quvvatlashni taklif qilmoqda.",
+    "tags": [
+      "ta'lim"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-10-25T09:15:01.000Z",
+    "created": "2026-10-25T11:01:25.709Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/diary-of-a-wimpy-kid-author-jeff-kinney-parenting-advice-2026-10",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "e849138802dd",
     "slug": "ai-riman-kvazigipotezasini-isbotladi-e84913",
     "title": "AI Riman kvazigipotezasini isbotladi",
