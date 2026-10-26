@@ -1,5 +1,49 @@
 [
   {
+    "id": "74cb04474005",
+    "slug": "softbank-malayziyaga-50-milliard-dollar-kiritmoqchi-74cb04",
+    "title": "SoftBank Malayziyaga 50 milliard dollar kiritmoqchi",
+    "summary": "SoftBank Group Malayziyaning texnologiya sektoriga, jumladan, sun'iy intellekt va data-markazlarga 50 milliard dollar investitsiya kiritishni rejalashtirmoqda. Mamlakat o'zini AI markaziga aylantirishni maqsad qilgan.",
+    "tags": [
+      "biznes",
+      "iqtisod"
+    ],
+    "importance": 4,
+    "score": 22,
+    "published": "2026-10-26T04:56:16.000Z",
+    "created": "2026-10-26T05:01:50.987Z",
+    "coverage": 1,
+    "source": {
+      "name": "CNBC",
+      "url": "https://cnbc.com/2026/10/26/softbank-masayoshi-son-malaysia-ai-billions.html",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "665cf6d14401",
+    "slug": "anthropic-ai-real-ilmiy-tadqiqotlarni-otkaza-olmaydi-665cf6",
+    "title": "Anthropic: AI real ilmiy tadqiqotlarni o'tkaza olmaydi",
+    "summary": "Anthropic o'tkazgan tadqiqot sun'iy intellekt hali real dunyoda haqiqiy ilmiy tadqiqotlarni mustaqil ravishda bajara olmasligini tasdiqladi. Modellarning imkoniyatlari hozircha chegaralangan.",
+    "tags": [
+      "Anthropic",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 10,
+    "published": "2026-10-26T04:35:46.000Z",
+    "created": "2026-10-26T05:01:50.988Z",
+    "coverage": 1,
+    "source": {
+      "name": "36Kr",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE55WlZnZjlNaHBVM0NZejZqTlNoT2NuMVVESWJ0cEpONGpzbWY0ekl1VFV0enYwRVdPLTZmaUZ4SVlFTzlwSkFoZ0kzdTh0V3hjajA0",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "70dca72778bc",
     "slug": "sk-hynix-aksiyadorlariga-12-mlrd-dollar-dividend-tolaydi-70dca7",
     "title": "SK Hynix aksiyadorlariga 12 mlrd dollar dividend to'laydi",

@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/tadqiqot/</link>
   <description>&quot;tadqiqot&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Mon, 26 Oct 2026 04:10:35 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 26 Oct 2026 05:10:49 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/tadqiqot/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Anthropic: AI real ilmiy tadqiqotlarni o'tkaza olmaydi</title>
+    <link>https://ailenta.uz/x/anthropic-ai-real-ilmiy-tadqiqotlarni-otkaza-olmaydi-665cf6/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/anthropic-ai-real-ilmiy-tadqiqotlarni-otkaza-olmaydi-665cf6/</guid>
+    <pubDate>Mon, 26 Oct 2026 04:35:46 GMT</pubDate>
+    <description>Anthropic o'tkazgan tadqiqot sun'iy intellekt hali real dunyoda haqiqiy ilmiy tadqiqotlarni mustaqil ravishda bajara olmasligini tasdiqladi. Modellarning imkoniyatlari hozircha chegaralangan.</description>
+    <category>Anthropic</category><category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/anthropic-ai-real-ilmiy-tadqiqotlarni-otkaza-olmaydi-665cf6.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/anthropic-ai-real-ilmiy-tadqiqotlarni-otkaza-olmaydi-665cf6.jpg"/>
+  </item>
   <item>
     <title>AI yangi CRISPR topgani haqidagi da'volar rad etildi</title>
     <link>https://ailenta.uz/x/ai-yangi-crispr-topgani-haqidagi-davolar-rad-etildi-5d40b9/</link>
@@ -296,16 +306,6 @@
     <category>tadqiqot</category><category>biznes</category>
     <media:content url="https://ailenta.uz/og/powershellda-ai-yordamida-avtomatik-yangilik-konveyeri-6c0277.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/powershellda-ai-yordamida-avtomatik-yangilik-konveyeri-6c0277.jpg"/>
-  </item>
-  <item>
-    <title>Claude Code uchun SlimSpec: koddan keyin spetsifikatsiya</title>
-    <link>https://ailenta.uz/x/claude-code-uchun-slimspec-koddan-keyin-spetsifikatsiya-a8a05a/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/claude-code-uchun-slimspec-koddan-keyin-spetsifikatsiya-a8a05a/</guid>
-    <pubDate>Fri, 23 Oct 2026 13:12:12 GMT</pubDate>
-    <description>Dasturchi Claude Code uchun SlimSpec plaginini yaratdi. Bu plagin spetsifikatsiyalarni kodlashdan keyin avtomatik ravishda hosil qiladi. Bu yechim an'anaviy usullarga nisbatan token sarfini sezilarli darajada kamaytirdi.</description>
-    <category>Anthropic</category><category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/claude-code-uchun-slimspec-koddan-keyin-spetsifikatsiya-a8a05a.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/claude-code-uchun-slimspec-koddan-keyin-spetsifikatsiya-a8a05a.jpg"/>
   </item>
 </channel>
 </rss>
