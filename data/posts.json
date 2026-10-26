@@ -1,5 +1,32 @@
 [
   {
+    "id": "d99b7b1fe04c",
+    "slug": "ftc-anthropic-rahbarlaridan-korsatma-berishni-talab-qildi-d99b7b",
+    "title": "FTC Anthropic rahbarlaridan ko'rsatma berishni talab qildi",
+    "summary": "AQSh Federal savdo komissiyasi AI xavfsizligi bo'yicha surishtiruv doirasida Anthropic rahbarlaridan ko'rsatma berishni talab qilmoqda. Idora iste'molchilarga yetkazilishi mumkin bo'lgan zararlar yuzasidan surishtiruvni kengaytirmoqda.",
+    "tags": [
+      "Anthropic",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 32,
+    "published": "2026-10-26T18:03:45.000Z",
+    "created": "2026-10-26T20:40:23.414Z",
+    "coverage": 2,
+    "source": {
+      "name": "Axios",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5TSU12YjBVSEl2R0ZuM2lEWEUzWXZfdzRtaWRkT2NEM21hcUFPSzJqLXY5VTlxWGE4N3VVYWVQemt4SVdJMHVQY3BfNjgteURQYkFNcFdUaU9wd255MXhucjg1Q0dOdnhWTmhPRkZDM05tcnNGX2ZKRQ",
+      "indirect": true
+    },
+    "also": [
+      {
+        "name": "The Hill",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaWhIZUhOb2dydEt5eWV1alRJMlVfZTlyVkc2MnI2ODlmYjZFZTR2WGItYkUxVzktRDFVa1VQQmxLQXZLekNtMGFUTkNObjBVUm1Lbkc3YnhLcExwZDNFZFNqN2QwRk93NThfa3VEVE9HMWZLSTdkbGVTVzNlZFZmOTNyZ2swVW9i0gGOAUFVX3lxTE54YXNnYWwzTDBZOHR3bDRJMTZpZ08wWGRZYk1fV19VVXROZF9oS0hVcEZYWVFJWm5VUGRKSjF1Mkg1cDBQTE5tYVcwVTZMN3hBWmJPc3ZFT2pYQnFLNlpVMG9zUTBKeHA4WGZtUDNVeWp2dVdIdkZsaVhDaGh0R081ZC1qcDBYSnpQWWRPekE"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
     "id": "6da9259b7604",
     "slug": "raf-boshligi-ai-boshqaruvidagi-dronlar-kelajagini-takidladi-6da925",
     "title": "RAF boshlig'i AI boshqaruvidagi dronlar kelajagini ta'kidladi",
