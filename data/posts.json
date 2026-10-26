@@ -1,5 +1,101 @@
 [
   {
+    "id": "2e3615cd9a1c",
+    "slug": "metaga-42-mlrd-dollar-jarima-solindi-2e3615",
+    "title": "Meta'ga 42 mlrd dollar jarima solindi",
+    "summary": "Meta kompaniyasiga 42 milliard dollar miqdorida jarima belgilandi. U ushbu sohada faoliyat yuritayotgan sun'iy intellekt kompaniyalari uchun jiddiy ogohlantirish sifatida baholanmoqda.",
+    "tags": [
+      "Meta",
+      "qonun"
+    ],
+    "importance": 4,
+    "score": 29,
+    "published": "2026-10-26T09:20:16.000Z",
+    "created": "2026-10-26T11:01:57.973Z",
+    "coverage": 2,
+    "source": {
+      "name": "Axios",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9KM3hoTFZSak5qaG1SYkxFd2gyc3J5NlF6QUo0N2xKUE9SdHlLRjNEVzVvMkF6NGM2SjR4T3lnYVJEQWdvRUh5ZWE5dUR4UXpKanZRalpnQ0lwMDljaTNDWUEyZFZWTkZZbU92X3Fibw",
+      "indirect": true
+    },
+    "also": [
+      {
+        "name": "Mezha.net",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdjBIUFVfUUhFUFU1V3V2UkktbU9xSVhUajhpYVFnN3JldEtCNXZMTXRvcmtsQV9NX01YaTAwVl9WTzhBSDJPdU95dG5sWXNOUW9qOF81Nm1QNjBMa2dnclhIMFdyUnZhdEtnaWQ5dV9qWlhnYXVSMElFdUVIS29sZUhSSQ"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "b1ed3616cfdf",
+    "slug": "llama-cpp-yordamida-lokal-ai-stekni-ishga-tushirish-b1ed36",
+    "title": "llama.cpp yordamida lokal AI-stekni ishga tushirish",
+    "summary": "Habr saytida llama.cpp orqali lokal sun'iy intellekt stekini yaratish bo'yicha yo'riqnoma e'lon qilindi. Unda ixcham modelni yuklab olish, xotira parametrlarini sozlash va chat-serverni ishga tushirish ko'rib chiqilgan.",
+    "tags": [
+      "ochiq model"
+    ],
+    "importance": 2,
+    "score": 20,
+    "published": "2026-10-26T10:55:34.000Z",
+    "created": "2026-10-26T11:01:57.973Z",
+    "coverage": 2,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1099482",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "Habr",
+        "url": "https://habr.com/ru/articles/1099472"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "5b79006b76c2",
+    "slug": "ai-va-ml-loyihalarini-qabul-qilish-mezonlari-tushuntirildi-5b7900",
+    "title": "AI va ML loyihalarini qabul qilish mezonlari tushuntirildi",
+    "summary": "ML-muhandis Yevgeniy Makutin sun'iy intellekt loyihalarida natijalar sifatini o'lchash va shartnomada qabul qilish shartlarini mustahkamlash usullari haqida yozdi. Neyrotarmoqlar natijasi ehtimollikka asoslangani sababli ularni baholash alohida yondashuvni talab etadi.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 11,
+    "published": "2026-10-26T10:08:12.000Z",
+    "created": "2026-10-26T11:01:57.973Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/companies/dalee_group/articles/1098404",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "2281fa13ef3f",
+    "slug": "vayb-koding-dasturchilar-ruhiyatiga-tasir-qilmoqda-2281fa",
+    "title": "Vayb-koding dasturchilar ruhiyatiga ta'sir qilmoqda",
+    "summary": "AI-agentlar yordamida kod yozish dasturchilarni muammolarni mustaqil hal qilish zavqidan mahrum etishi ta'kidlanmoqda. Sun'iy intellekt topshiriqlarni tez bajarishi oqibatida mutaxassislarda kasbiy qoniqarsizlik va depressiya paydo bo'lishi mumkin.",
+    "tags": [
+      "mehnat bozori",
+      "agentlar"
+    ],
+    "importance": 2,
+    "score": 11,
+    "published": "2026-10-26T10:02:12.000Z",
+    "created": "2026-10-26T11:01:57.973Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1099442",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "048458fcf1d0",
     "slug": "anthropic-birjaga-chiqishi-iqtisodiyotga-tasir-qiladi-048458",
     "title": "Anthropic birjaga chiqishi iqtisodiyotga ta'sir qiladi",
