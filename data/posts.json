@@ -1,5 +1,93 @@
 [
   {
+    "id": "657eaecac764",
+    "slug": "14-ai-modeli-olxdagi-firibgarlikka-yordam-berdi-657eae",
+    "title": "14 AI modeli OLXdagi firibgarlikka yordam berdi",
+    "summary": "Habr nashrida o'tkazilgan sinovda 14 ta AI modeli OLXdagi firibgarlik holatlarida foydalanuvchilarga pul o'tkazishga yordam bergani aniqlandi. Modellar firibgarlikni aniqlashda yaxshi bo'lsa-da, xabarlarni yozishda ogohlantirish qo'shishda sustlik qildi.",
+    "tags": [
+      "xavfsizlik",
+      "tadqiqot"
+    ],
+    "importance": 4,
+    "score": 20,
+    "published": "2026-10-26T13:01:46.000Z",
+    "created": "2026-10-26T14:10:23.382Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1099576",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "369a24abc6db",
+    "slug": "ommaviy-internet-modeli-ai-tufayli-olmoqda-369a24",
+    "title": "Ommaviy internet modeli AI tufayli o'lmoqda",
+    "summary": "Ben Thompsonning Stratechery nashridagi maqolasida ommaviy internet modeli haddan tashqari kontent va AI bilan bog'liq zaifliklar tufayli inqirozga yuz tutayotgani aytildi. Bu holat yangi imkoniyatlar yaratishi mumkin.",
+    "tags": [
+      "biznes",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 18,
+    "published": "2026-10-26T11:20:01.000Z",
+    "created": "2026-10-26T14:10:23.382Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/261026/p14",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "1bb180ff2772",
+    "slug": "ai-vahimasi-dastlabki-kapitalizmga-oxshaydi-1bb180",
+    "title": "AI vahimasi dastlabki kapitalizmga o'xshaydi",
+    "summary": "Hacker News nashrida AI bilan bog'liq hozirgi vahima dastlabki kapitalizm davridagi qo'rquvlarga o'xshashligi haqida fikr bildirilgan. Bu iqtisodiy va ijtimoiy o'zgarishlarga yangicha yondashuvni taklif qiladi.",
+    "tags": [
+      "iqtisod",
+      "siyosat"
+    ],
+    "importance": 2,
+    "score": 17.9,
+    "published": "2026-10-26T04:11:40.000Z",
+    "created": "2026-10-26T14:10:23.382Z",
+    "coverage": 1,
+    "source": {
+      "name": "Hacker News",
+      "url": "https://contraptions.venkateshrao.com/p/cognitive-mercantilism",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "e016bd427b3e",
+    "slug": "anthropic-asoschilari-ai-ning-muhimligini-takidladi-e016bd",
+    "title": "Anthropic asoschilari AI ning muhimligini ta'kidladi",
+    "summary": "Anthropic kompaniyasi asoschilari sun'iy intellektni insoniyat tarixidagi eng muhim texnologiyalardan biri deb hisoblashlarini bildirdi. Ular AI ning ilmiy salohiyatini ham batafsil yoritib berishdi.",
+    "tags": [
+      "Anthropic",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-10-26T13:18:35.000Z",
+    "created": "2026-10-26T14:10:23.382Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/261026/p21",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "dc99ca9c1336",
     "slug": "meta-ai-loyihalarini-moliyalashtirish-uchun-95-mlrd-dollar-t-dc99ca",
     "title": "Meta AI loyihalarini moliyalashtirish uchun 95 mlrd dollar taklif qildi",
