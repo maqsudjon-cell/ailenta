@@ -1,29 +1,73 @@
 [
   {
-    "id": "d99b7b1fe04c",
-    "slug": "ftc-anthropic-rahbarlaridan-korsatma-berishni-talab-qildi-d99b7b",
-    "title": "FTC Anthropic rahbarlaridan ko'rsatma berishni talab qildi",
-    "summary": "AQSh Federal savdo komissiyasi AI xavfsizligi bo'yicha surishtiruv doirasida Anthropic rahbarlaridan ko'rsatma berishni talab qilmoqda. Idora iste'molchilarga yetkazilishi mumkin bo'lgan zararlar yuzasidan surishtiruvni kengaytirmoqda.",
+    "id": "95af72448410",
+    "slug": "anthropic-ipoga-tayyorlanmoqda-yetti-asoschi-kimlar-95af72",
+    "title": "Anthropic IPOga tayyorlanmoqda: Yetti asoschi kimlar?",
+    "summary": "Anthropic kompaniyasini 2021-yilda OpenAI’ning sobiq xodimlari AI xavfsizligi bo‘yicha kelishmovchiliklar tufayli tashkil etgan. Kompaniyaning IPOga chiqishi ularni milliarderga aylantirishi mumkin.",
     "tags": [
       "Anthropic",
-      "xavfsizlik"
+      "biznes"
     ],
-    "importance": 3,
-    "score": 32,
-    "published": "2026-10-26T18:03:45.000Z",
-    "created": "2026-10-26T20:40:23.414Z",
+    "importance": 4,
+    "score": 39,
+    "published": "2026-10-26T15:24:56.000Z",
+    "created": "2026-10-26T20:55:31.648Z",
     "coverage": 2,
     "source": {
-      "name": "Axios",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5TSU12YjBVSEl2R0ZuM2lEWEUzWXZfdzRtaWRkT2NEM21hcUFPSzJqLXY5VTlxWGE4N3VVYWVQemt4SVdJMHVQY3BfNjgteURQYkFNcFdUaU9wd255MXhucjg1Q0dOdnhWTmhPRkZDM05tcnNGX2ZKRQ",
-      "indirect": true
+      "name": "The New York Times",
+      "url": "https://nytimes.com/2026/10/26/technology/anthropic-founders.html",
+      "indirect": false
     },
     "also": [
       {
-        "name": "The Hill",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaWhIZUhOb2dydEt5eWV1alRJMlVfZTlyVkc2MnI2ODlmYjZFZTR2WGItYkUxVzktRDFVa1VQQmxLQXZLekNtMGFUTkNObjBVUm1Lbkc3YnhLcExwZDNFZFNqN2QwRk93NThfa3VEVE9HMWZLSTdkbGVTVzNlZFZmOTNyZ2swVW9i0gGOAUFVX3lxTE54YXNnYWwzTDBZOHR3bDRJMTZpZ08wWGRZYk1fV19VVXROZF9oS0hVcEZYWVFJWm5VUGRKSjF1Mkg1cDBQTE5tYVcwVTZMN3hBWmJPc3ZFT2pYQnFLNlpVMG9zUTBKeHA4WGZtUDNVeWp2dVdIdkZsaVhDaGh0R081ZC1qcDBYSnpQWWRPekE"
+        "name": "The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9PbzlzS0lIOG1uTVhFNkR2U2NzSTJwc0xWX0xLOVFIRkVyblRlenRncmVaOHVlLTd3TkRuRTJBNGNoM3g5YlBWZUt0ZGxsdExtMncxdkhNc0I1b2RjSW9ybFB5SVd3Y1I3REctdVhsQW1Uc2hOMUJrTg"
       }
     ],
+    "model": "gemini"
+  },
+  {
+    "id": "5138c2c84820",
+    "slug": "ai-kapital-poygasi-saralash-bosqichiga-kirdi-5138c2",
+    "title": "AI kapital poygasi saralash bosqichiga kirdi",
+    "summary": "Reuters nashri AI sohasidagi kapital poygasi saralash bosqichiga kirganini ta'kidladi. Bu sun'iy intellekt kompaniyalari o'rtasidagi raqobat kuchayganini anglatadi.",
+    "tags": [
+      "iqtisod",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 27,
+    "published": "2026-10-26T18:42:33.000Z",
+    "created": "2026-10-26T20:55:31.649Z",
+    "coverage": 1,
+    "source": {
+      "name": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZ3VpR1Y1MkdlcVBhS0FCa1pLUEdHcnpraTFiZnRnblU1dmx4VC0xN2VZWmRESU9uS0hHS1BleFUzT0FIRC0yZ0Q0NUQtbWZNS1lYVmRhSzEzSWVMVldjXzZQckZtYnJoYVZpeEx3cWo5RnU1ZWg1dDc3UGVXaG5OVi16N2VRcXFGVVQ2OWhFNXdPVWJ0c0hfcE1QRmZxRkM4SkR6ZFRuU0E",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "7a662a6b33e3",
+    "slug": "anthropic-ipo-hujjatini-ai-detektoridan-otkazishdi-7a662a",
+    "title": "Anthropic IPO hujjatini AI detektoridan o'tkazishdi",
+    "summary": "Business Insider Anthropicning 335 sahifalik IPO hujjatini AI yozuv detektoridan o'tkazdi. Bu AI kompaniyasi o'z hujjatlarini yozishda sun'iy intellektga qanchalik tayanganini ko'rsatadi.",
+    "tags": [
+      "Anthropic",
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 21,
+    "published": "2026-10-26T20:36:22.000Z",
+    "created": "2026-10-26T20:55:31.649Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/anthropic-ipo-paperwork-ai-writing-detector-pangram-2026-10",
+      "indirect": false
+    },
+    "also": [],
     "model": "gemini"
   },
   {
