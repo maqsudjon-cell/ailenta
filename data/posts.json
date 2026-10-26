@@ -1,5 +1,98 @@
 [
   {
+    "id": "1b8c870c8d92",
+    "slug": "talimning-ai-bilan-bogliq-kelajagi-1b8c87",
+    "title": "Ta'limning AI bilan bog'liq kelajagi",
+    "summary": "Microsoft AI ta'siridagi dunyoda ta'limning kelajagi haqida maqola chop etdi. Unda sinfxonalardan karyeragacha bo'lgan o'zgarishlar muhokama qilingan.",
+    "tags": [
+      "Microsoft",
+      "ta'lim"
+    ],
+    "importance": 2,
+    "score": 33,
+    "published": "2026-10-26T18:15:28.000Z",
+    "created": "2026-10-26T18:41:49.641Z",
+    "coverage": 1,
+    "source": {
+      "name": "Microsoft",
+      "url": "https://blogs.microsoft.com/on-the-issues/2026/10/26/learning-curves-the-future-of-education-from-classrooms-to-careers-in-an-ai-driven-world",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "188e9fbc4643",
+    "slug": "google-miya-xaritalash-boyicha-ai-darsini-chiqardi-188e9f",
+    "title": "Google miya xaritalash bo'yicha AI darsini chiqardi",
+    "summary": "Google \"Polar Peaks\" nomli yangi AI Quest darsini taqdim etdi. Unda neyrofanlar orqali AI savodxonligi o'rgatiladi.",
+    "tags": [
+      "Google",
+      "ta'lim"
+    ],
+    "importance": 2,
+    "score": 33,
+    "published": "2026-10-26T16:00:00.000Z",
+    "created": "2026-10-26T18:41:49.642Z",
+    "coverage": 1,
+    "source": {
+      "name": "Google",
+      "url": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "299eb2563957",
+    "slug": "ai-xavfsizligida-kundalik-zararlarga-etibor-299eb2",
+    "title": "AI xavfsizligida kundalik zararlarga e'tibor",
+    "summary": "MIT Technology Review nashrida AI xavfsizligi bo'yicha muhokamalar kundalik zararlarni e'tiborsiz qoldirayotgani aytildi. Maqolada AI ning keng tarqalgan salbiy ta'sirlariga urg'u berilgan.",
+    "tags": [
+      "xavfsizlik",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 32,
+    "published": "2026-10-26T12:40:00.000Z",
+    "created": "2026-10-26T18:41:49.642Z",
+    "coverage": 2,
+    "source": {
+      "name": "MIT Technology Review",
+      "url": "https://technologyreview.com/2026/10/26/1147650/the-download-everyday-ai-harms-nuclear-spaceflight",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "MIT Technology Review",
+        "url": "https://technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "8f2805dc7cf4",
+    "slug": "ai-kitob-mukofoti-hakamlari-tez-oqish-muammosiga-duch-8f2805",
+    "title": "AI kitob mukofoti hakamlari tez o'qish muammosiga duch",
+    "summary": "Prix Pascal de Littérature IA mukofoti hakamlari qisqa muddatda ko'p kitob o'qishga majbur. Nomzodlar ro'yxati 30-noyabrda e'lon qilinadi.",
+    "tags": [
+      "ta'lim",
+      "tadqiqot"
+    ],
+    "importance": 1,
+    "score": 23,
+    "published": "2026-10-26T17:38:50.000Z",
+    "created": "2026-10-26T18:41:49.642Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/technology/2026/oct/26/ai-book-prize-judges-face-a-major-speed-reading-challenge",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "20541754f381",
     "slug": "t-hujayra-retseptorlarini-bashorat-qilish-uchun-ml-sinov-top-205417",
     "title": "T hujayra retseptorlarini bashorat qilish uchun ML sinov to'plami",
