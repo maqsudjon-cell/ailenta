@@ -1,5 +1,27 @@
 [
   {
+    "id": "f16aefe89a6e",
+    "slug": "openai-ilmiy-tushunchani-rivojlantirish-uchun-hamkorlikda-f16aef",
+    "title": "OpenAI ilmiy tushunchani rivojlantirish uchun hamkorlikda",
+    "summary": "OpenAI Kakeya taxmini, Eksponensial vaqt gipotezasi va kvant xromodinamikasi bo'yicha model natijalarini e'lon qildi. Bu tadqiqotchilarga ularni tekshirish va rivojlantirish imkonini beradi.",
+    "tags": [
+      "OpenAI",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 36,
+    "published": "2026-10-26T14:30:00.000Z",
+    "created": "2026-10-26T23:04:33.066Z",
+    "coverage": 1,
+    "source": {
+      "name": "OpenAI",
+      "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "15acd576142b",
     "slug": "proton-xodimlarni-ai-boyicha-qayta-suhbatdan-otkazadi-15acd5",
     "title": "Proton xodimlarni AI bo'yicha qayta suhbatdan o'tkazadi",

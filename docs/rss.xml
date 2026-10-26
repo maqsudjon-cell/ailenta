@@ -5,7 +5,7 @@
   <link>https://ailenta.uz</link>
   <description>Dunyodagi sun'iy intellekt yangiliklari o'zbek tilida. Har soatda yangilanadi, har bir xabarda asl manbaga havola.</description>
   <language>uz</language>
-  <lastBuildDate>Mon, 26 Oct 2026 22:06:58 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 26 Oct 2026 23:10:20 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/rss.xml" rel="self" type="application/rss+xml"/>
   <item>
     <title>Anthropic IPO hujjatini AI detektoridan o'tkazishdi</title>
@@ -96,6 +96,16 @@
     <category>Anthropic</category><category>siyosat</category>
     <media:content url="https://ailenta.uz/og/anthropic-trump-mamuriyati-nishoni-bolishdan-ogohlantirdi-2e2a33.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/anthropic-trump-mamuriyati-nishoni-bolishdan-ogohlantirdi-2e2a33.jpg"/>
+  </item>
+  <item>
+    <title>OpenAI ilmiy tushunchani rivojlantirish uchun hamkorlikda</title>
+    <link>https://ailenta.uz/x/openai-ilmiy-tushunchani-rivojlantirish-uchun-hamkorlikda-f16aef/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/openai-ilmiy-tushunchani-rivojlantirish-uchun-hamkorlikda-f16aef/</guid>
+    <pubDate>Mon, 26 Oct 2026 14:30:00 GMT</pubDate>
+    <description>OpenAI Kakeya taxmini, Eksponensial vaqt gipotezasi va kvant xromodinamikasi bo'yicha model natijalarini e'lon qildi. Bu tadqiqotchilarga ularni tekshirish va rivojlantirish imkonini beradi.</description>
+    <category>OpenAI</category><category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/openai-ilmiy-tushunchani-rivojlantirish-uchun-hamkorlikda-f16aef.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/openai-ilmiy-tushunchani-rivojlantirish-uchun-hamkorlikda-f16aef.jpg"/>
   </item>
   <item>
     <title>Pydantic AI: tipizatsiyalangan agentlar uchun yechim</title>
@@ -496,16 +506,6 @@
     <category>tibbiyot</category><category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/t-hujayra-retseptorlarini-bashorat-qilish-uchun-ml-sinov-top-205417.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/t-hujayra-retseptorlarini-bashorat-qilish-uchun-ml-sinov-top-205417.jpg"/>
-  </item>
-  <item>
-    <title>AI sarmoyalari ko'p kompaniyalarga daromad keltirmadi</title>
-    <link>https://ailenta.uz/x/ai-sarmoyalari-kop-kompaniyalarga-daromad-keltirmadi-202c94/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/ai-sarmoyalari-kop-kompaniyalarga-daromad-keltirmadi-202c94/</guid>
-    <pubDate>Sun, 25 Oct 2026 22:32:42 GMT</pubDate>
-    <description>Apollo tahliliga ko'ra, AQSh korporatsiyalarining AIga kiritgan ulkan sarmoyalari &quot;Muhtasham yettilik&quot;dan tashqaridagi kompaniyalarga daromad keltirmadi. Bu holat investorlarning yirik texnologik kompaniyalar hisobotlari oldidan xavotirini oshirmoqda.</description>
-    <category>iqtisod</category><category>biznes</category>
-    <media:content url="https://ailenta.uz/og/ai-sarmoyalari-kop-kompaniyalarga-daromad-keltirmadi-202c94.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/ai-sarmoyalari-kop-kompaniyalarga-daromad-keltirmadi-202c94.jpg"/>
   </item>
 </channel>
 </rss>
