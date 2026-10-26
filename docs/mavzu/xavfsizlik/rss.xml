@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/xavfsizlik/</link>
   <description>&quot;xavfsizlik&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Mon, 26 Oct 2026 08:25:38 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 26 Oct 2026 09:10:10 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/xavfsizlik/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>LiteLLM kutubxonasiga zararli kod joylashtirildi</title>
+    <link>https://ailenta.uz/x/litellm-kutubxonasiga-zararli-kod-joylashtirildi-5dd465/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/litellm-kutubxonasiga-zararli-kod-joylashtirildi-5dd465/</guid>
+    <pubDate>Mon, 26 Oct 2026 08:51:24 GMT</pubDate>
+    <description>PyPI va Docker platformalaridagi LiteLLM 1.107.0 versiyasiga zararli kod joylashtirildi. Ushbu ochiq kodli shlyuz model kalitlarini saqlaydi va bir yil ichida ikkinchi marta shunday hujumga uchradi.</description>
+    <category>xavfsizlik</category>
+    <media:content url="https://ailenta.uz/og/litellm-kutubxonasiga-zararli-kod-joylashtirildi-5dd465.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/litellm-kutubxonasiga-zararli-kod-joylashtirildi-5dd465.jpg"/>
+  </item>
   <item>
     <title>AI botlar va insonlar saytlarda turli ma'lumot ko'rishi mumkin</title>
     <link>https://ailenta.uz/x/ai-botlar-va-insonlar-saytlarda-turli-malumot-korishi-mumkin-498a02/</link>
@@ -296,16 +306,6 @@
     <category>xavfsizlik</category><category>siyosat</category>
     <media:content url="https://ailenta.uz/og/frontier-ai-va-mustaqil-baholashlar-boyicha-savollar-3b86bf.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/frontier-ai-va-mustaqil-baholashlar-boyicha-savollar-3b86bf.jpg"/>
-  </item>
-  <item>
-    <title>AI fishing hujumlarini osonlashtirmoqda</title>
-    <link>https://ailenta.uz/x/ai-fishing-hujumlarini-osonlashtirmoqda-abfcbf/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/ai-fishing-hujumlarini-osonlashtirmoqda-abfcbf/</guid>
-    <pubDate>Thu, 22 Oct 2026 15:00:00 GMT</pubDate>
-    <description>Sun'iy intellekt (AI) fishing hujumlarini amalga oshirishni har qachongidan ham osonlashtirmoqda. Bu hisobni egallab olish xavfini oshirmoqda.</description>
-    <category>xavfsizlik</category>
-    <media:content url="https://ailenta.uz/og/ai-fishing-hujumlarini-osonlashtirmoqda-abfcbf.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/ai-fishing-hujumlarini-osonlashtirmoqda-abfcbf.jpg"/>
   </item>
 </channel>
 </rss>

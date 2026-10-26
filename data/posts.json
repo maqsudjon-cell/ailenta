@@ -1,5 +1,49 @@
 [
   {
+    "id": "5dd465b3bdc2",
+    "slug": "litellm-kutubxonasiga-zararli-kod-joylashtirildi-5dd465",
+    "title": "LiteLLM kutubxonasiga zararli kod joylashtirildi",
+    "summary": "PyPI va Docker platformalaridagi LiteLLM 1.107.0 versiyasiga zararli kod joylashtirildi. Ushbu ochiq kodli shlyuz model kalitlarini saqlaydi va bir yil ichida ikkinchi marta shunday hujumga uchradi.",
+    "tags": [
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 11,
+    "published": "2026-10-26T08:51:24.000Z",
+    "created": "2026-10-26T09:01:27.240Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1099402",
+      "title": "Разбор инцидента LiteLLM 1.107.0: как увели релизный конвейер и почему подпись не помогла",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "202c94a73eea",
+    "slug": "ai-sarmoyalari-kop-kompaniyalarga-daromad-keltirmadi-202c94",
+    "title": "AI sarmoyalari ko'p kompaniyalarga daromad keltirmadi",
+    "summary": "Apollo tahliliga ko'ra, AQSh korporatsiyalarining AIga kiritgan ulkan sarmoyalari \"Muhtasham yettilik\"dan tashqaridagi kompaniyalarga daromad keltirmadi. Bu holat investorlarning yirik texnologik kompaniyalar hisobotlari oldidan xavotirini oshirmoqda.",
+    "tags": [
+      "iqtisod",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-10-25T22:32:42.000Z",
+    "created": "2026-10-26T09:01:29.844Z",
+    "coverage": 1,
+    "source": {
+      "name": "Semafor",
+      "url": "https://semafor.com/article/10/25/2026/hunting-for-ai-gains-outside-magnificent-7",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "6ba6e00b8520",
     "slug": "elon-musk-ai-bulut-kompaniyalariga-mablag-yetishmasligidan-o-6ba6e0",
     "title": "Elon Musk AI bulut kompaniyalariga mablag' yetishmasligidan ogohlantirdi",
