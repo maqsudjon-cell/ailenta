@@ -1,5 +1,69 @@
 [
   {
+    "id": "799cd99fdf85",
+    "slug": "data-markazlar-sohasi-saylovdagi-nomzodni-qollamoqda-799cd9",
+    "title": "Data-markazlar sohasi saylovdagi nomzodni qo'llamoqda",
+    "summary": "Janubiy Karolinadagi Senat poygasida data-markazlar sanoatini qo'llab-quvvatlovchi super PAC tashkil etildi. U respublikachi Darlin Grem nomzodini qo'llab-quvvatlashni boshladi.",
+    "tags": [
+      "siyosat"
+    ],
+    "importance": 2,
+    "score": 30,
+    "published": "2026-10-26T09:03:34.000Z",
+    "created": "2026-10-26T09:36:10.754Z",
+    "coverage": 1,
+    "source": {
+      "name": "The New York Times",
+      "url": "https://nytimes.com/2026/10/26/us/politics/darline-graham-data-centers-south-carolina.html",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "8fe25f42c3e6",
+    "slug": "sobiq-doge-xodimlari-anthropic-tizimiga-buzib-kirdi-8fe25f",
+    "title": "Sobiq DOGE xodimlari Anthropic tizimiga buzib kirdi",
+    "summary": "Sobiq DOGE xodimlari tomonidan tuzilgan AI startapi Anthropic tizimiga kirdi. Tizimga buzib kirish uchun atigi 12 soat vaqt ketdi.",
+    "tags": [
+      "Anthropic",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 26,
+    "published": "2026-10-26T09:11:47.000Z",
+    "created": "2026-10-26T09:36:10.754Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWGRfa29NR1l4a19INEZWSXZWakhia2ZKTnRpQTVYeFNTUXRhdURvSTltbV9RRVJkbzVndVhsMUg0Y3N1MkZVNm11QVB5ZWtFVlhGY2NSSkp1MU84Qm0taWMtcURQcm9EbjZFTjV4Sk9NMTFwLV9Xc1BqM3RqWFhlLWpQZl8tOHJwdktBT2kxTUV6d2ZnWXg1cWwyVWtNSVl2UVA2LU1mWkNlcFZKd1BhNlpRbXZMeGZ0SEdR",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "6d8ba0a0b78a",
+    "slug": "ikki-tilli-ai-radio-boshlovchisi-yaratildi-6d8ba0",
+    "title": "Ikki tilli AI radio boshlovchisi yaratildi",
+    "summary": "Coyotec nomli AI radio boshlovchisi ispan va ingliz tillarida gapiradi. U tinglovchilar e'tiborini qozonib, ularga migratsiya xizmatidan himoyalanish yo'llarini tushuntirmoqda.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 23,
+    "published": "2026-10-26T09:00:00.000Z",
+    "created": "2026-10-26T09:36:10.754Z",
+    "coverage": 1,
+    "source": {
+      "name": "Wired",
+      "url": "https://wired.com/story/this-ai-radio-hosts-speaks-spanish-and-backs-immigrants-its-winning-over-listeners",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "5dd465b3bdc2",
     "slug": "litellm-kutubxonasiga-zararli-kod-joylashtirildi-5dd465",
     "title": "LiteLLM kutubxonasiga zararli kod joylashtirildi",
