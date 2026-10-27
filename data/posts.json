@@ -1,5 +1,54 @@
 [
   {
+    "id": "ef520603f791",
+    "slug": "ai-modellari-fikrlash-qobiliyatiga-egami-ef5206",
+    "title": "AI modellari fikrlash qobiliyatiga egami",
+    "summary": "Meduza nashri sun'iy intellektning aqli va his qilish qobiliyati bor-yo'qligi haqida material e'lon qildi. Unda Anthropic o'z modellariga nisbatan shafqatsizlikni taqiqlagani, Microsoft esa bunday yondashuv nazoratni qiyinlashtirishi haqida ogohlantirgani aytilgan.",
+    "tags": [
+      "Anthropic",
+      "Microsoft"
+    ],
+    "importance": 3,
+    "score": 48,
+    "published": "2026-10-27T09:05:00.000Z",
+    "created": "2026-10-27T12:02:20.873Z",
+    "coverage": 1,
+    "source": {
+      "name": "Gazeta.uz",
+      "url": "https://gazeta.uz/uz/2026/10/27/artificial-intelligence",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "172677796290",
+    "slug": "britaniya-hukumatining-ai-rejasida-ekologlar-qatnashmadi-172677",
+    "title": "Britaniya hukumatining AI rejasida ekologlar qatnashmadi",
+    "summary": "Surishtiruvga ko'ra, Buyuk Britaniya hukumati AI data-markazlarini kengaytirish rejasini ishlab chiqishda biror ekologik guruh bilan uchrashmagan. Biroq rasmiylar 137 ta biznes vakillari bilan muzokaralar o'tkazgan. Shuningdek, 38 nafar sobiq amaldor AI kompaniyalariga ishga o'tgani aniqlandi.",
+    "tags": [
+      "siyosat",
+      "bulut"
+    ],
+    "importance": 3,
+    "score": 32,
+    "published": "2026-10-27T07:00:04.000Z",
+    "created": "2026-10-27T12:02:20.873Z",
+    "coverage": 2,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/uk-news/2026/oct/27/uk-government-environmental-groups-ai-datacentres-expansion-plans-investigation",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "The Register",
+        "url": "https://theregister.com/on-prem/2026/10/27/uk-ministers-had-plenty-of-time-for-ai-datacenter-bosses-but-none-for-environmental-groups/5305654"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
     "id": "071461a22d52",
     "slug": "broadcom-rahbari-anthropic-qarz-bitimiga-komaklashdi-071461",
     "title": "Broadcom rahbari Anthropic qarz bitimiga ko'maklashdi",
