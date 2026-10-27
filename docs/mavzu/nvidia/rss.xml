@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/nvidia/</link>
   <description>&quot;Nvidia&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Tue, 27 Oct 2026 15:11:11 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 27 Oct 2026 15:44:26 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/nvidia/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>AI demensiya tadqiqotlarini tezlashtirmoqda</title>
+    <link>https://ailenta.uz/x/ai-demensiya-tadqiqotlarini-tezlashtirmoqda-4a299d/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/ai-demensiya-tadqiqotlarini-tezlashtirmoqda-4a299d/</guid>
+    <pubDate>Tue, 27 Oct 2026 15:00:20 GMT</pubDate>
+    <description>Dunyo bo'ylab 57 million kishi demensiya bilan yashaydi. AI tadqiqotchilarga ma'lumotlarni sintez qilish va kasallikni o'rganish sur'atini oshirishga yordam bermoqda.</description>
+    <category>Nvidia</category><category>tibbiyot</category>
+    <media:content url="https://ailenta.uz/og/ai-demensiya-tadqiqotlarini-tezlashtirmoqda-4a299d.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/ai-demensiya-tadqiqotlarini-tezlashtirmoqda-4a299d.jpg"/>
+  </item>
   <item>
     <title>Qozog'iston AI kelajagi uchun hisoblash quvvatini kengaytirmoqda</title>
     <link>https://ailenta.uz/x/qozogiston-ai-kelajagi-uchun-hisoblash-quvvatini-kengaytirmo-822412/</link>
@@ -296,16 +306,6 @@
     <category>Nvidia</category><category>chiplar</category>
     <media:content url="https://ailenta.uz/og/nvidia-dgx-spark-64gb-mahalliy-ai-imkoniyatini-kengaytiradi-d4e305.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/nvidia-dgx-spark-64gb-mahalliy-ai-imkoniyatini-kengaytiradi-d4e305.jpg"/>
-  </item>
-  <item>
-    <title>Nvidia 4999 dollarlik DGX Spark modelini taqdim etdi</title>
-    <link>https://ailenta.uz/x/nvidia-4999-dollarlik-dgx-spark-modelini-taqdim-etdi-98ff82/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/nvidia-4999-dollarlik-dgx-spark-modelini-taqdim-etdi-98ff82/</guid>
-    <pubDate>Fri, 02 Oct 2026 13:00:00 GMT</pubDate>
-    <description>Nvidia kompaniyasi 4999 dollarlik DGX Spark modelini ishga tushirdi. U avvalgi versiyaning yarmi xotira va saqlash joyiga ega. Shu bilan birga, 128 GB'lik versiya narxi 6950 dollarga ko'tarilib, dastlabki narxidan qariyb 75% oshdi.</description>
-    <category>Nvidia</category><category>chiplar</category>
-    <media:content url="https://ailenta.uz/og/nvidia-4999-dollarlik-dgx-spark-modelini-taqdim-etdi-98ff82.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/nvidia-4999-dollarlik-dgx-spark-modelini-taqdim-etdi-98ff82.jpg"/>
   </item>
 </channel>
 </rss>
