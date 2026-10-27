@@ -1,5 +1,71 @@
 [
   {
+    "id": "5384b14d9e29",
+    "slug": "xitoyda-ozbek-talabalari-uchun-ai-dasturlari-rejalashtirilmo-5384b1",
+    "title": "Xitoyda o'zbek talabalari uchun AI dasturlari rejalashtirilmoqda",
+    "summary": "Xitoyning Szyasin Nanyan politexnika institutida o'zbekistonlik talabalar uchun ikki va uch yillik ta'lim dasturlari muhokama qilindi. Ushbu dasturlar sun'iy intellekt, yangi energetika va muhandislik kabi yo'nalishlarni qamrab oladi.",
+    "tags": [
+      "O'zbekiston",
+      "ta'lim"
+    ],
+    "importance": 3,
+    "score": 48,
+    "published": "2026-10-27T04:50:53.000Z",
+    "created": "2026-10-27T06:05:14.778Z",
+    "coverage": 1,
+    "source": {
+      "name": "Kun.uz",
+      "url": "https://kun.uz/news/2026/10/27/xitoyda-ozbekistonliklar-uchun-talim-dasturlari-rejalashtirilmoqda-58080",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "5d150c4f5300",
+    "slug": "adliya-vazirligi-anthropic-taqiqi-boyicha-shikoyat-qildi-5d150c",
+    "title": "Adliya vazirligi Anthropic taqiqi bo'yicha shikoyat qildi",
+    "summary": "AQSh Adliya vazirligi (DOJ) sudning agentliklarga Anthropicdan foydalanish taqiqini bekor qilgan qarori ustidan shikoyat qildi. Bu qarorning apellyatsiya sudida ko'rib chiqilishini anglatadi.",
+    "tags": [
+      "Anthropic",
+      "qonun"
+    ],
+    "importance": 3,
+    "score": 26.4,
+    "published": "2026-10-26T16:30:52.000Z",
+    "created": "2026-10-27T06:05:14.778Z",
+    "coverage": 1,
+    "source": {
+      "name": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORkNjb2FLcGRnbnJTd0l6VjNEbmQ3c2Fyd0pwR0xSUTRSQnJ6b3kzckJqSDBtdXNNUlhPWlVhMFFVbjVBMW9CWjlhbVBnekxiY3M4NW9DaGZ5VDdCWk9aWWQxSGg5Q2E1QjV0WFhKZVBOUDFlQ092R25nUFh2UnlRYVdjb2UyTndZVzNOLXk5cURWeWE3MnJxckVwc0dSNjRoR1FKMV8xRzRSdkdkS0ctZw",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "499f931ef699",
+    "slug": "xitoy-bozorlari-ai-poygasi-sabab-trillionlab-dollar-yoqotdi-499f93",
+    "title": "Xitoy bozorlari AI poygasi sabab trillionlab dollar yo'qotdi",
+    "summary": "Xitoy fond bozorlari so'nggi oylarda trillionlab dollar yo'qotdi. Bu AQSh bilan AI ustunligi uchun raqobat va foyda yetishmasligi bilan bog'liq xavotirlar tufayli yuzaga keldi. STAR 50 indeksi iyundan beri 40% ga tushib ketdi.",
+    "tags": [
+      "iqtisod",
+      "siyosat"
+    ],
+    "importance": 5,
+    "score": 26,
+    "published": "2026-10-27T04:42:50.000Z",
+    "created": "2026-10-27T06:05:14.778Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/world/2026/oct/27/chinese-markets-lose-trillions-ai-race-beijing",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "b521cb6b48c6",
     "slug": "chatgpt-foydalanuvchilarni-404-mediaga-yo-naltirmoqda-b521cb",
     "title": "ChatGPT foydalanuvchilarni 404 Media’ga yo‘naltirmoqda",
