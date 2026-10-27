@@ -1,5 +1,54 @@
 [
   {
+    "id": "8cb333260a17",
+    "slug": "check-point-openai-daybreak-bilan-xavfsizlikni-kuchaytirmoqd-8cb333",
+    "title": "Check Point OpenAI Daybreak bilan xavfsizlikni kuchaytirmoqda",
+    "summary": "Check Point kompaniyasi OpenAI Daybreak yordamida zaifliklarni tadqiq qilishni tezlashtirmoqda. Bu tahlilchilarga xavfsizlik ma'lumotlarini mijozlar himoyasiga tezroq aylantirish imkonini beradi.",
+    "tags": [
+      "OpenAI",
+      "xavfsizlik"
+    ],
+    "importance": 2,
+    "score": 30,
+    "published": "2026-10-27T00:00:00.000Z",
+    "created": "2026-10-27T19:37:49.834Z",
+    "coverage": 1,
+    "source": {
+      "name": "OpenAI",
+      "url": "https://openai.com/index/check-point-daybreak",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "195cb6337f5e",
+    "slug": "disruptive-ai-va-mudofaa-uchun-10-mlrd-dollar-yigdi-195cb6",
+    "title": "Disruptive AI va mudofaa uchun 10 mlrd dollar yig'di",
+    "summary": "Disruptive kompaniyasi sun'iy intellekt, mudofaa va dasturiy ta'minot sohalariga sarmoya kiritish uchun 10 milliard dollarlik fond yaratdi. Fond Groq va ElevenLabs kabi startaplarga sarmoya kiritgan.",
+    "tags": [
+      "biznes",
+      "iqtisod"
+    ],
+    "importance": 3,
+    "score": 21,
+    "published": "2026-10-27T18:55:35.000Z",
+    "created": "2026-10-27T19:37:49.834Z",
+    "coverage": 2,
+    "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "Techmeme",
+        "url": "https://techmeme.com/261027/p19"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
     "id": "38013a6f2564",
     "slug": "anthropic-iposi-ai-bozorida-235-mlrd-dollarlik-kelishuvlarga-38013a",
     "title": "Anthropic IPOsi AI bozorida 235 mlrd dollarlik kelishuvlarga yetakchilik qildi",
