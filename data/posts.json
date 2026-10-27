@@ -1,5 +1,91 @@
 [
   {
+    "id": "afc52bf2bcfc",
+    "slug": "buyuk-britaniyadagi-muhokamada-ai-botlar-ishlatildi-afc52b",
+    "title": "Buyuk Britaniyadagi muhokamada AI botlar ishlatildi",
+    "summary": "2023-yilda Buyuk Britaniyadagi bir martalik veyplarni taqiqlash muhokamasida javoblarning uchdan to'rt qismini AI botlari yaratgani aniqlandi. Ushbu harakat qonun loyihasining qabul qilinishiga to'sqinlik qilish uchun amalga oshirilgan.",
+    "tags": [
+      "qonun",
+      "siyosat"
+    ],
+    "importance": 3,
+    "score": 23,
+    "published": "2026-10-27T22:30:45.000Z",
+    "created": "2026-10-27T23:01:54.693Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/society/2026/oct/27/ai-bots-flooded-2023-uk-government-consultation-disposable-vapes-ban",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "67f0b179673c",
+    "slug": "mit-tinglovchisi-verizon-uchun-ai-yechimlari-yaratdi-67f0b1",
+    "title": "MIT tinglovchisi Verizon uchun AI yechimlari yaratdi",
+    "summary": "Prabha Jha MIT Open Learning dasturidagi tajribasidan foydalanib, Verizon kompaniyasi uchun AI yechimlarini ishlab chiqdi. Shuningdek, u MITdagi hamkasblari bilan birgalikda kitob yozdi.",
+    "tags": [
+      "ta'lim",
+      "tadqiqot"
+    ],
+    "importance": 1,
+    "score": 19,
+    "published": "2026-10-27T20:55:00.000Z",
+    "created": "2026-10-27T23:01:54.693Z",
+    "coverage": 1,
+    "source": {
+      "name": "MIT News",
+      "url": "https://news.mit.edu/2026/learner-prabha-jha-collaborates-with-mit-peers-to-develop-book-of-ai-insights-1027",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "7569570cfb50",
+    "slug": "freebsd-asoschisi-ai-yordamida-loyihani-kochirdi-756957",
+    "title": "FreeBSD asoschisi AI yordamida loyihani ko'chirdi",
+    "summary": "FreeBSD asoschisi AI ko'magida Omarchy loyihasini o'n kunda FreeBSD operatsion tizimiga ko'chirdi. Daemonarchy deb nomlangan ushbu ish dasturiy ta'minotda AI hissasi bo'yicha munozaralarni oshirishi mumkin.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 18.7,
+    "published": "2026-10-27T10:15:00.000Z",
+    "created": "2026-10-27T23:01:54.693Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/os-platforms/2026/10/27/freebsd-founder-ports-omarchy-to-freebsd-in-ten-days-ten-releases/5305446",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "f376eece8b40",
+    "slug": "github-universe-bejida-gemini-bilan-emulyator-yaratildi-f376ee",
+    "title": "GitHub Universe bejida Gemini bilan emulyator yaratildi",
+    "summary": "Steve Francia Gemini bilan birga GitHub Universe konferensiyasi bejida NES va Game Boy emulyatorini ishga tushirdi. Endi qurilmada Game Boy Color o'yinlarini o'ynash imkoniyati mavjud.",
+    "tags": [
+      "Google"
+    ],
+    "importance": 2,
+    "score": 18,
+    "published": "2026-10-27T19:34:18.000Z",
+    "created": "2026-10-27T23:01:54.693Z",
+    "coverage": 1,
+    "source": {
+      "name": "Simon Willison",
+      "url": "https://simonwillison.net/2026/Oct/27/game-boy-color-on-my-conference-badge",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "c824bef4cb93",
     "slug": "anthropic-ai-biologiyada-kashfiyotlarni-sekinlashtiradi-c824be",
     "title": "Anthropic: AI biologiyada kashfiyotlarni sekinlashtiradi",
