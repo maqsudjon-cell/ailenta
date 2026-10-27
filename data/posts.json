@@ -1,5 +1,27 @@
 [
   {
+    "id": "95d5916fd628",
+    "slug": "glm-5-3-workers-ai-modelida-kv-kesh-xavfi-95d591",
+    "title": "GLM-5.3 Workers AI modelida KV kesh xavfi",
+    "summary": "GLM-5.3 Workers AI modelida so‘rovlararo KV keshining oshkor bo‘lishi aniqlandi. Bu texnik muammo modelning xavfsizligiga ta'sir qilishi mumkin.",
+    "tags": [
+      "xavfsizlik",
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 23.4,
+    "published": "2026-10-26T22:41:48.000Z",
+    "created": "2026-10-27T09:36:50.516Z",
+    "coverage": 1,
+    "source": {
+      "name": "Hacker News",
+      "url": "https://blog.cloudflare.com/kv-cache-exposure-remediation",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "aa77c6716b9a",
     "slug": "germaniyaning-neura-kompaniyasida-robotlar-o-rgatilmoqda-aa77c6",
     "title": "Germaniyaning Neura kompaniyasida robotlar o‘rgatilmoqda",

@@ -4531,7 +4531,8 @@
     "https://news.google.com/rss/articles/CBMisAFBVV95cUxORkNjb2FLcGRnbnJTd0l6VjNEbmQ3c2Fyd0pwR0xSUTRSQnJ6b3kzckJqSDBtdXNNUlhPWlVhMFFVbjVBMW9CWjlhbVBnekxiY3M4NW9DaGZ5VDdCWk9aWWQxSGg5Q2E1QjV0WFhKZVBOUDFlQ092R25nUFh2UnlRYVdjb2UyTndZVzNOLXk5cURWeWE3MnJxckVwc0dSNjRoR1FKMV8xRzRSdkdkS0ctZw",
     "https://theguardian.com/world/2026/oct/27/chinese-markets-lose-trillions-ai-race-beijing",
     "https://kun.uz/news/2026/10/27/janubiy-afrikalik-ayol-suniy-intellektda-kitoblar-yozish-orqali-millionerga-aylandi-58100",
-    "https://nytimes.com/2026/10/27/business/neura-robotics-germany-china-ai.html"
+    "https://nytimes.com/2026/10/27/business/neura-robotics-germany-china-ai.html",
+    "https://blog.cloudflare.com/kv-cache-exposure-remediation"
   ],
   "titles": [
     "anthropic to resume external testing of ai models following security incidents",
@@ -8822,6 +8823,7 @@
     "doj appeals court ruling lifting ban on agency anthropic use",
     "chinese markets lose trillions as race for ai supremacy with us takes its toll",
     "janubiy afrikalik ayol sun iy intellektda kitoblar yozi orqali millionerga aylandi",
-    "in the a i robogym machines train to be more like humans"
+    "in the a i robogym machines train to be more like humans",
+    "cross request kv cache exposure in the glm 5 3 workers ai model 155 responses"
   ]
 }
