@@ -1,5 +1,54 @@
 [
   {
+    "id": "031487784200",
+    "slug": "anthropic-ai-uchun-tabiiy-gazga-bogliqlikni-oshkor-etdi-031487",
+    "title": "Anthropic AI uchun tabiiy gazga bog'liqlikni oshkor etdi",
+    "summary": "Anthropic kompaniyasi IPO hujjatlarida generativ AI uchun ma'lumot markazlarining tabiiy gazga bog'liqligi oshib borayotganini ma'lum qildi. Elektr ta'minoti va yetarli quvvatga ega ma'lumot markazlari uchun raqobat kuchli.",
+    "tags": [
+      "Anthropic",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 27,
+    "published": "2026-10-26T21:45:31.000Z",
+    "created": "2026-10-27T00:36:12.368Z",
+    "coverage": 2,
+    "source": {
+      "name": "The Verge",
+      "url": "https://theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "The Verge",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOaHJjRElTTVd1TFppMk1PZnBuZjdYaFNuLVZUU0ZDTUdlYmszVkM2RUNQNmk4elRxclp2VDE3RE9XSVY4YjVrUGlGZDRzUFg2THg5R1Q3cnNkMF9WTXBJTVRvU01pUlVOZlU4QUVNZE1MN3lpNHFOMWYxVl9nQURNU0RaT2lBLW5hYnc3NENDX2R2V0xEMjBEQlFpYzZJVzg0Qi1tSmNhR3J1YzhO"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "789d32319956",
+    "slug": "britaniya-ichki-ishlar-vazirligi-aini-yashirin-qollamoqda-789d32",
+    "title": "Britaniya Ichki ishlar vazirligi AI'ni yashirin qo'llamoqda",
+    "summary": "Open Rights Group hisobotiga ko'ra, Britaniya Ichki ishlar vazirligi immigratsiya bilan bog'liq vazifalarda AI'ni yashirincha qo'llamoqda. Bu boshpana izlovchilar yoshini aniqlash va chegarani kuzatish kabi ishlarni o'z ichiga oladi.",
+    "tags": [
+      "siyosat",
+      "maxfiylik"
+    ],
+    "importance": 4,
+    "score": 23,
+    "published": "2026-10-27T00:01:02.000Z",
+    "created": "2026-10-27T00:36:12.368Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/politics/2026/oct/27/digital-hostile-environment-ai-secretly-embedded-home-office-report",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "f16aefe89a6e",
     "slug": "openai-ilmiy-tushunchani-rivojlantirish-uchun-hamkorlikda-f16aef",
     "title": "OpenAI ilmiy tushunchani rivojlantirish uchun hamkorlikda",
