@@ -1,5 +1,93 @@
 [
   {
+    "id": "c824bef4cb93",
+    "slug": "anthropic-ai-biologiyada-kashfiyotlarni-sekinlashtiradi-c824be",
+    "title": "Anthropic: AI biologiyada kashfiyotlarni sekinlashtiradi",
+    "summary": "Anthropic ilgari AI modellari ilmiy kashfiyotlarga olib kelishini ta'kidlagan edi. Biroq, kompaniya IPO hujjatida bu jarayonning tezligi haqidagi kutishlarni pasaytirdi.",
+    "tags": [
+      "Anthropic",
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 26,
+    "published": "2026-10-27T19:39:04.000Z",
+    "created": "2026-10-27T22:04:21.504Z",
+    "coverage": 1,
+    "source": {
+      "name": "Wired",
+      "url": "https://wired.com/story/anthropic-says-it-will-revolutionize-biology-some-day",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "eb1c5143cda2",
+    "slug": "ai-sanoat-dasturida-4-ta-jiddiy-xato-topdi-eb1c51",
+    "title": "AI sanoat dasturida 4 ta jiddiy xato topdi",
+    "summary": "Sun'iy intellekt \"xakeri\" 4 soatdan kamroq vaqt ichida sanoat nazorat dasturida 4 ta jiddiy xato topdi. Bular tadqiqot tajribalarini buzishi mumkin bo'lgan EPICS xatolaridir.",
+    "tags": [
+      "xavfsizlik",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-10-27T19:11:02.000Z",
+    "created": "2026-10-27T22:04:21.504Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/security/2026/10/27/ai-hacker-finds-4-severe-bugs-in-popular-industrial-control-software-in-under-4-hours/5305811",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "02295b71c6d3",
+    "slug": "ai-modeli-senat-saylovlari-natijasini-bashorat-qildi-02295b",
+    "title": "AI modeli Senat saylovlari natijasini bashorat qildi",
+    "summary": "Shimoli-g'arbiy universitet olimining bashorat modeli Demokratlarning Senatda 5 o'rinni egallashini ko'rsatmoqda. Respublikachilarning imkoniyatlari Texas, Meyn va Michigan shtatlarida biroz oshgan.",
+    "tags": [
+      "siyosat",
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 19,
+    "published": "2026-10-27T18:16:03.000Z",
+    "created": "2026-10-27T22:04:21.504Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/10/27/democrats-odds-flipping-senate-what-states-are-in-play",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "09dcfa46a37c",
+    "slug": "xitoyda-sanoat-foydasi-ai-rivoji-bilan-oshdi-09dcfa",
+    "title": "Xitoyda sanoat foydasi AI rivoji bilan oshdi",
+    "summary": "Xitoyning yirik sanoat kompaniyalari foydasi 2026-yilning dastlabki to'qqiz oyida 15% dan oshdi. Bu o'sish AI rivojlanishi fonida kuzatildi.",
+    "tags": [
+      "iqtisod",
+      "siyosat"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-10-27T13:00:15.000Z",
+    "created": "2026-10-27T22:04:21.504Z",
+    "coverage": 1,
+    "source": {
+      "name": "Semafor",
+      "url": "https://semafor.com/article/10/27/2026/chinas-industrial-profits-surge-amid-ai-buildout",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "af9bd96c2da8",
     "slug": "xitoyda-ai-kompaniyalari-aksiyalari-pasaymoqda-af9bd9",
     "title": "Xitoyda AI kompaniyalari aksiyalari pasaymoqda",
