@@ -1,5 +1,71 @@
 [
   {
+    "id": "af9bd96c2da8",
+    "slug": "xitoyda-ai-kompaniyalari-aksiyalari-pasaymoqda-af9bd9",
+    "title": "Xitoyda AI kompaniyalari aksiyalari pasaymoqda",
+    "summary": "So'nggi oylarda Xitoyning sun'iy intellekt kompaniyalari aksiyalari narxi shiddat bilan pasayib bormoqda. OAV buni ushbu sohadagi pufakning yorilishi bilan bog'lamoqda.",
+    "tags": [
+      "biznes",
+      "iqtisod"
+    ],
+    "importance": 3,
+    "score": 48,
+    "published": "2026-10-27T13:26:32.000Z",
+    "created": "2026-10-27T21:01:43.668Z",
+    "coverage": 1,
+    "source": {
+      "name": "Kun.uz",
+      "url": "https://kun.uz/news/2026/10/27/xitoyning-suniy-intellekt-pufagi-yorila-boshladi-oav-58190",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "e62a2b295adc",
+    "slug": "walmart-xodimlari-ai-boyicha-trening-olmoqda-e62a2b",
+    "title": "Walmart xodimlari AI bo'yicha trening olmoqda",
+    "summary": "Walmart kompaniyasi OpenAI va Google treninglari xodimlarga AI vositalaridan foydalanishda ishonch bag'ishlayotganini ma'lum qildi. Bu dastur 2,1 million xodimlarga taalluqlidir.",
+    "tags": [
+      "OpenAI",
+      "Google"
+    ],
+    "importance": 3,
+    "score": 25,
+    "published": "2026-10-27T20:48:38.000Z",
+    "created": "2026-10-27T21:01:43.668Z",
+    "coverage": 1,
+    "source": {
+      "name": "CNBC",
+      "url": "https://cnbc.com/2026/10/27/walmart-ai-training-workers.html",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "02e5283231a5",
+    "slug": "aqshda-biznes-maktablariga-ariza-topshirish-25-ga-kamaydi-02e528",
+    "title": "AQShda biznes maktablariga ariza topshirish 25% ga kamaydi",
+    "summary": "Sun'iy intellekt boshlang'ich ishlarga xavf solayotgani sababli AQShda biznes maktablariga arizalar 25 foizga kamaydi. Gen Z vakillari qo'shimcha ta'lim yordam berishiga shubha qilmoqda.",
+    "tags": [
+      "mehnat bozori",
+      "ta'lim"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-10-27T14:53:46.000Z",
+    "created": "2026-10-27T21:01:43.668Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/10/27/business-school-applications-decline-gen-z-question-degrees-gmac-data-ai-impact-entry-level-job-market",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "8cb333260a17",
     "slug": "check-point-openai-daybreak-bilan-xavfsizlikni-kuchaytirmoqd-8cb333",
     "title": "Check Point OpenAI Daybreak bilan xavfsizlikni kuchaytirmoqda",
