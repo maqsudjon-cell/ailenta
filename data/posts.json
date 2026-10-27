@@ -1,5 +1,92 @@
 [
   {
+    "id": "ce4f767dec36",
+    "slug": "niderlandiya-ai-hisobiga-25-ming-davlat-xizmatchisini-qisqar-ce4f76",
+    "title": "Niderlandiya AI hisobiga 25 ming davlat xizmatchisini qisqartirmoqchi",
+    "summary": "Niderlandiya hukumati sun'iy intellektni joriy etib, davlat idoralarida xodimlar sonini qisqartirishni rejalashtirmoqda. Bu islohot 2035-yilga borib yiliga 3,5 milliard yevro tejash imkonini beradi.",
+    "tags": [
+      "siyosat",
+      "mehnat bozori"
+    ],
+    "importance": 4,
+    "score": 48,
+    "published": "2026-10-27T18:31:21.000Z",
+    "created": "2026-10-27T18:37:17.688Z",
+    "coverage": 1,
+    "source": {
+      "name": "Daryo",
+      "url": "https://daryo.uz/2026/10/27/niderlandiya-suniy-intellekt-hisobiga-25-ming-davlat-xizmatchisini-ishdan-boshatmoqchi",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "099c4912233a",
+    "slug": "politsiya-ai-yordamida-shubhali-haydovchilarni-to-xtatmoqda-099c49",
+    "title": "Politsiya AI yordamida 'shubhali' haydovchilarni to‘xtatmoqda",
+    "summary": "Xabarlarga ko‘ra, politsiya sun'iy intellekt texnologiyasidan foydalanib, yo‘llarda 'shubhali' harakat qilgan haydovchilarni aniqlamoqda va to‘xtatmoqda.",
+    "tags": [
+      "xavfsizlik",
+      "siyosat"
+    ],
+    "importance": 3,
+    "score": 21.9,
+    "published": "2026-10-27T16:40:15.000Z",
+    "created": "2026-10-27T18:37:17.688Z",
+    "coverage": 1,
+    "source": {
+      "name": "Hacker News",
+      "url": "https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "0e021f269900",
+    "slug": "olimlar-romanni-ai-yozganini-aniqlay-oladimi-0e021f",
+    "title": "Olimlar romanni AI yozganini aniqlay oladimi",
+    "summary": "Nature jurnalining savoliga ko‘ra, olimlar sun'iy intellekt tomonidan yozilgan romanlarni ishonchli tarzda aniqlay olish qobiliyatiga egami, degan masala muhokama qilinmoqda.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 20.4,
+    "published": "2026-10-27T00:00:00.000Z",
+    "created": "2026-10-27T18:37:17.688Z",
+    "coverage": 1,
+    "source": {
+      "name": "Nature",
+      "url": "https://nature.com/articles/d41586-026-03394-4",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "2d2074361838",
+    "slug": "microsoft-bosh-direktori-maoshi-rekord-yilda-6-kamaydi-2d2074",
+    "title": "Microsoft bosh direktori maoshi rekord yilda 6% kamaydi",
+    "summary": "Microsoft bosh direktori Satya Nadellaning maoshi kompaniya uchun rekord darajadagi muvaffaqiyatli yilda 6 foizga kamaydi. Shu bilan birga, kompaniya daromadi va operatsion foydasi oshgan.",
+    "tags": [
+      "Microsoft",
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 19,
+    "published": "2026-10-27T15:51:00.000Z",
+    "created": "2026-10-27T18:37:17.688Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/saas/2026/10/27/take-it-on-the-chin-satnad-microsoft-chief-execs-pay-slips-6-in-record-year/5305737",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "8431415cb471",
     "slug": "alphago-usuli-ai-toqib-chiqarishini-hal-etishi-mumkin-843141",
     "title": "AlphaGo usuli AI to'qib chiqarishini hal etishi mumkin",
