@@ -1,5 +1,27 @@
 [
   {
+    "id": "08df27b80fcd",
+    "slug": "ai-yaratgan-iqtiboslar-ilmiy-qoidabuzarlik-08df27",
+    "title": "AI yaratgan iqtiboslar ilmiy qoidabuzarlik",
+    "summary": "Nature jurnalida e'lon qilingan maqolaga ko'ra, sun'iy intellekt tomonidan to'qib chiqarilgan ilmiy iqtiboslar tadqiqotdagi qoidabuzarlik sifatida baholanishi lozim. Bu ilmiy ishlarning ishonchliligini ta'minlash uchun muhim.",
+    "tags": [
+      "tadqiqot",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 22.6,
+    "published": "2026-10-27T00:00:00.000Z",
+    "created": "2026-10-27T13:02:06.796Z",
+    "coverage": 1,
+    "source": {
+      "name": "Nature",
+      "url": "https://nature.com/articles/d41586-026-03407-2",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "b518c840f711",
     "slug": "qattiq-jism-transformatorlari-va-ai-elektr-ehtiyoji-b518c8",
     "title": "Qattiq jism transformatorlari va AI elektr ehtiyoji",

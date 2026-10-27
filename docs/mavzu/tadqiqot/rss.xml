@@ -5,7 +5,7 @@
   <link>https://ailenta.uz/mavzu/tadqiqot/</link>
   <description>&quot;tadqiqot&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Tue, 27 Oct 2026 12:45:23 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 27 Oct 2026 13:11:06 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/tadqiqot/rss.xml" rel="self" type="application/rss+xml"/>
   <item>
     <title>Qattiq jism transformatorlari va AI elektr ehtiyoji</title>
@@ -16,6 +16,16 @@
     <category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/qattiq-jism-transformatorlari-va-ai-elektr-ehtiyoji-b518c8.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/qattiq-jism-transformatorlari-va-ai-elektr-ehtiyoji-b518c8.jpg"/>
+  </item>
+  <item>
+    <title>AI yaratgan iqtiboslar ilmiy qoidabuzarlik</title>
+    <link>https://ailenta.uz/x/ai-yaratgan-iqtiboslar-ilmiy-qoidabuzarlik-08df27/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/ai-yaratgan-iqtiboslar-ilmiy-qoidabuzarlik-08df27/</guid>
+    <pubDate>Tue, 27 Oct 2026 00:00:00 GMT</pubDate>
+    <description>Nature jurnalida e'lon qilingan maqolaga ko'ra, sun'iy intellekt tomonidan to'qib chiqarilgan ilmiy iqtiboslar tadqiqotdagi qoidabuzarlik sifatida baholanishi lozim. Bu ilmiy ishlarning ishonchliligini ta'minlash uchun muhim.</description>
+    <category>tadqiqot</category><category>xavfsizlik</category>
+    <media:content url="https://ailenta.uz/og/ai-yaratgan-iqtiboslar-ilmiy-qoidabuzarlik-08df27.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/ai-yaratgan-iqtiboslar-ilmiy-qoidabuzarlik-08df27.jpg"/>
   </item>
   <item>
     <title>GLM-5.3 Workers AI modelida KV kesh xavfi</title>
@@ -296,16 +306,6 @@
     <category>tadqiqot</category><category>DeepSeek</category>
     <media:content url="https://ailenta.uz/og/obsidianda-ai-bilan-eslatmalarni-ozgartirish-qiyin-1b0c9c.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/obsidianda-ai-bilan-eslatmalarni-ozgartirish-qiyin-1b0c9c.jpg"/>
-  </item>
-  <item>
-    <title>AI modellaridagi HHH-senzura cheklovlari aylanib o'tildi</title>
-    <link>https://ailenta.uz/x/ai-modellaridagi-hhh-senzura-cheklovlari-aylanib-otildi-2bf4fc/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/ai-modellaridagi-hhh-senzura-cheklovlari-aylanib-otildi-2bf4fc/</guid>
-    <pubDate>Sat, 24 Oct 2026 17:19:24 GMT</pubDate>
-    <description>Habr nashri zamonaviy generativ AI modellaridagi HHH (Helpful, Honest, Harmless) tamoyiliga asoslangan senzura cheklovlarini aylanib o'tish usulini tasvirladi. Bu AI bilan chuqur ekzistensial mavzularda suhbatlashishga imkon beradi.</description>
-    <category>tadqiqot</category><category>xavfsizlik</category>
-    <media:content url="https://ailenta.uz/og/ai-modellaridagi-hhh-senzura-cheklovlari-aylanib-otildi-2bf4fc.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/ai-modellaridagi-hhh-senzura-cheklovlari-aylanib-otildi-2bf4fc.jpg"/>
   </item>
 </channel>
 </rss>
