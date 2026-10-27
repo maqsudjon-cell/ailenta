@@ -1,5 +1,69 @@
 [
   {
+    "id": "b521cb6b48c6",
+    "slug": "chatgpt-foydalanuvchilarni-404-mediaga-yo-naltirmoqda-b521cb",
+    "title": "ChatGPT foydalanuvchilarni 404 Media’ga yo‘naltirmoqda",
+    "summary": "Foydalanuvchilar odatiy texnik muammolar bo'yicha ChatGPT'ga murojaat qilganda, model ularga 404 Media nashri yordam bera olishini aytmoqda. Bu yirik texnologik platformalarda mijozlarni qo'llab-quvvatlash xizmati yo'qligi sababli yuzaga kelmoqda.",
+    "tags": [
+      "OpenAI"
+    ],
+    "importance": 3,
+    "score": 21,
+    "published": "2026-10-26T19:00:25.000Z",
+    "created": "2026-10-27T04:01:39.008Z",
+    "coverage": 1,
+    "source": {
+      "name": "Simon Willison",
+      "url": "https://simonwillison.net/2026/Oct/26/jason-koebler",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "d57e9a8a9f2d",
+    "slug": "ieee-xplore-kutubxonasiga-ai-yordamchisi-qo-shildi-d57e9a",
+    "title": "IEEE Xplore kutubxonasiga AI yordamchisi qo‘shildi",
+    "summary": "IEEE tashkiloti ilmiy maqolalar bazasiga asoslangan AI Research Suite vositasini taqdim etdi. Ushbu tizim tadqiqotchilarga tasdiqlangan ilmiy natijalarga tayanib javob beradi.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 19,
+    "published": "2026-10-26T18:00:03.000Z",
+    "created": "2026-10-27T04:01:39.008Z",
+    "coverage": 1,
+    "source": {
+      "name": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/ieee-xplore-digital-library-ai",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "a688eb73dc8e",
+    "slug": "ai-daromadi-faqat-yirik-kompaniyalarga-tegishli-a688eb",
+    "title": "AI daromadi faqat yirik kompaniyalarga tegishli",
+    "summary": "Apollo investitsiya kompaniyasiga ko'ra, sun'iy intellektdan keladigan daromad asosan yirik texnologik gigantlarga tegishli bo'lmoqda. S&P 500 indeksidagi boshqa kompaniyalar hozircha bundan sezilarli foyda ko'rmayapti.",
+    "tags": [
+      "iqtisod",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 18.2,
+    "published": "2026-10-26T13:59:00.000Z",
+    "created": "2026-10-27T04:01:39.008Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/ai-and-ml/2026/10/26/private-equity-giant-ai-payoff-strictly-limited-to-big-tech/5305358",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "3dc689c9c8a5",
     "slug": "anthropic-ipo-uchun-s-1-hujjatini-topshirdi-3dc689",
     "title": "Anthropic IPO uchun S-1 hujjatini topshirdi",
