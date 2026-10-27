@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/tadqiqot/</link>
   <description>&quot;tadqiqot&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Tue, 27 Oct 2026 13:11:06 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 27 Oct 2026 13:36:35 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/tadqiqot/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>AI ilmiy nashrlarni soxta maqolalar bilan to‘ldirmoqda</title>
+    <link>https://ailenta.uz/x/ai-ilmiy-nashrlarni-soxta-maqolalar-bilan-to-ldirmoqda-42c92f/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/ai-ilmiy-nashrlarni-soxta-maqolalar-bilan-to-ldirmoqda-42c92f/</guid>
+    <pubDate>Tue, 27 Oct 2026 13:00:03 GMT</pubDate>
+    <description>IEEE Spectrum xabariga ko‘ra, sun'iy intellekt tomonidan yaratilgan past sifatli kontent ilmiy nashrlarni to‘ldirmoqda. 2025-yilga kelib, barcha akademik maqolalarning 57 foizida AI ta'siri aniqlanishi kutilmoqda.</description>
+    <category>tadqiqot</category><category>xavfsizlik</category>
+    <media:content url="https://ailenta.uz/og/ai-ilmiy-nashrlarni-soxta-maqolalar-bilan-to-ldirmoqda-42c92f.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/ai-ilmiy-nashrlarni-soxta-maqolalar-bilan-to-ldirmoqda-42c92f.jpg"/>
+  </item>
   <item>
     <title>Qattiq jism transformatorlari va AI elektr ehtiyoji</title>
     <link>https://ailenta.uz/x/qattiq-jism-transformatorlari-va-ai-elektr-ehtiyoji-b518c8/</link>
@@ -16,6 +26,16 @@
     <category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/qattiq-jism-transformatorlari-va-ai-elektr-ehtiyoji-b518c8.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/qattiq-jism-transformatorlari-va-ai-elektr-ehtiyoji-b518c8.jpg"/>
+  </item>
+  <item>
+    <title>AI suv belgilashda jamoatchilik nazorati muhim</title>
+    <link>https://ailenta.uz/x/ai-suv-belgilashda-jamoatchilik-nazorati-muhim-57e6cc/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/ai-suv-belgilashda-jamoatchilik-nazorati-muhim-57e6cc/</guid>
+    <pubDate>Tue, 27 Oct 2026 00:00:00 GMT</pubDate>
+    <description>Nature jurnaliga ko‘ra, sun'iy intellektda suv belgilash (watermarking) harakatlari mustaqil jamoatchilik nazoratini rag‘batlantirishi kerak.</description>
+    <category>xavfsizlik</category><category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/ai-suv-belgilashda-jamoatchilik-nazorati-muhim-57e6cc.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/ai-suv-belgilashda-jamoatchilik-nazorati-muhim-57e6cc.jpg"/>
   </item>
   <item>
     <title>AI yaratgan iqtiboslar ilmiy qoidabuzarlik</title>
@@ -286,26 +306,6 @@
     <category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/ai-yaratgan-tilni-tushunish-nima-uchun-qiyin-81c8fd.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/ai-yaratgan-tilni-tushunish-nima-uchun-qiyin-81c8fd.jpg"/>
-  </item>
-  <item>
-    <title>Atlas loyihasi: AI bilan tabiat qonunlarini o'rganish</title>
-    <link>https://ailenta.uz/x/atlas-loyihasi-ai-bilan-tabiat-qonunlarini-organish-103b7b/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/atlas-loyihasi-ai-bilan-tabiat-qonunlarini-organish-103b7b/</guid>
-    <pubDate>Sat, 24 Oct 2026 17:37:25 GMT</pubDate>
-    <description>&quot;Atlas&quot; mustaqil tadqiqot loyihasi sun'iy intellekt yordamida tabiat qonunlarini yagona ko'p o'lchovli fazoda o'rganishni taklif qiladi. Loyiha mavjud qonunlar orasidagi yashirin bog'liqliklarni topish va yangi matematik tasvirlarni yaratishni maqsad qilgan.</description>
-    <category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/atlas-loyihasi-ai-bilan-tabiat-qonunlarini-organish-103b7b.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/atlas-loyihasi-ai-bilan-tabiat-qonunlarini-organish-103b7b.jpg"/>
-  </item>
-  <item>
-    <title>Obsidian'da AI bilan eslatmalarni o'zgartirish qiyin</title>
-    <link>https://ailenta.uz/x/obsidianda-ai-bilan-eslatmalarni-ozgartirish-qiyin-1b0c9c/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/obsidianda-ai-bilan-eslatmalarni-ozgartirish-qiyin-1b0c9c/</guid>
-    <pubDate>Sat, 24 Oct 2026 17:30:39 GMT</pubDate>
-    <description>Habr nashri foydalanuvchisi Obsidian'da o'xshash eslatmalarni topish uchun LLM (DeepSeek modeli sinovdan o'tgan) yordamida tavsiyalar olish osonligini bildirdi. Biroq, bu tavsiyalarni Markdown fayllariga xavfsiz qo'llash qiyinroq bo'lgan.</description>
-    <category>tadqiqot</category><category>DeepSeek</category>
-    <media:content url="https://ailenta.uz/og/obsidianda-ai-bilan-eslatmalarni-ozgartirish-qiyin-1b0c9c.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/obsidianda-ai-bilan-eslatmalarni-ozgartirish-qiyin-1b0c9c.jpg"/>
   </item>
 </channel>
 </rss>
