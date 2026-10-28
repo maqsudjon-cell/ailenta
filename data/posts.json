@@ -1,5 +1,92 @@
 [
   {
+    "id": "516d6345c17a",
+    "slug": "ai-rahbarlari-jamoatchilikdan-uzoqlashmoqda-516d63",
+    "title": "AI rahbarlari jamoatchilikdan uzoqlashmoqda",
+    "summary": "Texnologiya rahbarlari AI yordamida oilalari bilan bog'lanishlari haqida maqtanishlari ularning jamoatchilikdan uzoqlashganini ko'rsatmoqda. Bu holat ularning keng omma uchun mahsulot yaratish qobiliyatiga shubha tug'diradi.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-10-28T15:53:52.000Z",
+    "created": "2026-10-28T16:02:05.764Z",
+    "coverage": 1,
+    "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "b3f129f70fcb",
+    "slug": "anthropic-80-mlrd-zarar-va-osgan-daromadni-oshkor-qildi-b3f129",
+    "title": "Anthropic $80 mlrd zarar va o'sgan daromadni oshkor qildi",
+    "summary": "Anthropic kompaniyasi ommaviy listingga tayyorlanar ekan, $80 milliard zarar va oshgan daromadni ma'lum qildi. Bu ma'lumotlar kompaniyaning moliyaviy holatini aks ettiradi.",
+    "tags": [
+      "Anthropic",
+      "iqtisod"
+    ],
+    "importance": 5,
+    "score": 11.1,
+    "published": "2026-10-26T22:16:39.000Z",
+    "created": "2026-10-28T16:02:05.764Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNmtiU2pPX05WX0lNRndwX1E5VkZ5ejV6azhBVUpfWWJMM1RMeHcycHo5OGcyemtKZUVWOFdwQ3FYUW1zR2N0eEFqUEJPZ09JSkU0NzNZQzExX1FuMjRXaUtyODNSeDlRdWpsLVItdE01YXhwc0JreW5veWdHSUJXRjI5c0hTa0pmQ0ZKYzlVZGhKbmNmdlN6QTJjX3dRZU93LWZpVFc1UWppSEl5UlVrWnQ4SWsybkE",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "18c7cb1068cc",
+    "slug": "ai-startap-anthropicni-buzganini-davo-qildi-18c7cb",
+    "title": "AI startap Anthropic'ni buzganini da'vo qildi",
+    "summary": "Bir AI startapi Anthropic kompaniyasini 12 soat ichida buzib kirganini da'vo qildi. Ular xodimlar ma'lumotlari va ichki xabarlarga kirish huquqini qo'lga kiritganini aytdi.",
+    "tags": [
+      "Anthropic",
+      "xavfsizlik"
+    ],
+    "importance": 4,
+    "score": 10,
+    "published": "2026-10-28T15:25:00.000Z",
+    "created": "2026-10-28T16:02:05.764Z",
+    "coverage": 1,
+    "source": {
+      "name": "TechRadar",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPWmpGczFQQV9hVlZieUJPWHBmWkJqU1NjZGtoSkZhSjI5d2JFanJCaFdDQ3lxOFljNHVPMWUwbExZZU05OFNpNlFfV2lzVXoxV2o0am92OUQ1NlZSZXNhT19CenFQRTVJUXZiN051MXdnOEZoVkViRUNBYnNEaGtIZXMtR2lDTklSYTl6dThsOGgxT3RtQmYzREZHTWVnNlF1U1djUDU1R3lzWnR2bU5JdFJjcm9VODR2R1lEaVNUcXNpcjlPQXMwSktNMS1UcHpfUVRVa3dhS1pvQnM",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "c63d4c8c1553",
+    "slug": "anthropic-ai-javobgarligi-sugurtadan-oshishi-mumkin-c63d4c",
+    "title": "Anthropic AI javobgarligi sug'urtadan oshishi mumkin",
+    "summary": "Anthropic kompaniyasi sun'iy intellekt bilan bog'liq javobgarlik sug'urta imkoniyatlaridan oshib ketishi mumkinligidan ogohlantirdi. Bu AI sohasidagi potentsial moliyaviy xavflarni ko'rsatadi.",
+    "tags": [
+      "Anthropic",
+      "qonun"
+    ],
+    "importance": 3,
+    "score": 10,
+    "published": "2026-10-28T13:03:27.000Z",
+    "created": "2026-10-28T16:02:05.764Z",
+    "coverage": 1,
+    "source": {
+      "name": "Program Business",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPR3QyWU9ZY0hfaENuaXRNWTF6M3hJbHMxZ251R0VVRGt6cmhZZmNxZ2pCa3NFNHNFalJFYm1OSTIxRi01amgwTG5pYkEzTFNEY1A1elI3NFBfZnJPYUs0YUgxclhHVnY1TG5SNHh6OU9sdFA1aUR6QlB1U25PUTZ4dGQ0WVBZSVJIREotclFFOUw3X3Vuaml2MnN3",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "47d2587ed918",
     "slug": "ai-video-oyinlar-mashuplarini-yaratmoqda-47d258",
     "title": "AI video o'yinlar mashuplarini yaratmoqda",
