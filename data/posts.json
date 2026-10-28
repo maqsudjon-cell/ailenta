@@ -1,5 +1,133 @@
 [
   {
+    "id": "9692c354a415",
+    "slug": "avstraliya-ai-islohoti-mualliflikka-tahdid-9692c3",
+    "title": "Avstraliya AI islohoti mualliflikka tahdid",
+    "summary": "Avstraliya hukumati AI investitsiyalarini jalb qilish uchun mualliflik huquqini islohot qilmoqda. Mutaxassislar bu qaror mamlakatdagi ijodiy ekotizimga zarar yetkazishidan xavotirda.",
+    "tags": [
+      "siyosat",
+      "qonun"
+    ],
+    "importance": 3,
+    "score": 16.3,
+    "published": "2026-10-26T22:21:17.000Z",
+    "created": "2026-10-28T03:01:49.131Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/commentisfree/2026/oct/27/in-a-rush-to-lure-ai-companies-the-australian-government-risks-undoing-a-creative-ecosystem-that-has-taken-decades-to-build",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "617cead0412e",
+    "slug": "greg-ebbott-malumotlar-markazlaridan-9-mln-dollar-oldi-617cea",
+    "title": "Greg Ebbott ma'lumotlar markazlaridan 9 mln dollar oldi",
+    "summary": "Greg Ebbott ma'lumotlar markazlari donorlaridan 9 million dollar mablag' qabul qildi. Endi u ushbu sohani tartibga solish ishlarini olib bormoqda.",
+    "tags": [
+      "siyosat",
+      "iqtisod"
+    ],
+    "importance": 3,
+    "score": 15.9,
+    "published": "2026-10-27T13:04:27.000Z",
+    "created": "2026-10-28T03:01:49.131Z",
+    "coverage": 1,
+    "source": {
+      "name": "Hacker News",
+      "url": "https://gadgetreview.com/greg-abbott-took-9m-from-data-center-donors-now-he-regulates-them",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "8ee28bb14c4f",
+    "slug": "ai-kozoynaklaridan-foydalanilayotganini-aniqlash-usullari-8ee28b",
+    "title": "AI ko'zoynaklaridan foydalanilayotganini aniqlash usullari",
+    "summary": "Atrofdagilar AI ko'zoynaklaridan foydalanayotganini bilish bo'yicha tavsiyalar berildi. Bu usullar hamrohning aqlli qurilma ishlatayotganini tezda aniqlashga yordam beradi.",
+    "tags": [
+      "maxfiylik"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-10-27T22:30:00.000Z",
+    "created": "2026-10-28T03:01:49.131Z",
+    "coverage": 1,
+    "source": {
+      "name": "Engadget",
+      "url": "https://engadget.com/2296049/best-ways-tell-if-someone-wearing-ai-glasses",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "5696411a74ec",
+    "slug": "eski-nokia-telefoniga-suniy-intellekt-funksiyasi-qoshildi-569641",
+    "title": "Eski Nokia telefoniga sun'iy intellekt funksiyasi qo'shildi",
+    "summary": "Eski Nokia telefoni dastlab ko'zda tutilmagan AI yangilanishini oldi. Natijada ushbu oddiy qurilmaga yangi imkoniyatlar taqdim etildi.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-10-27T18:30:00.000Z",
+    "created": "2026-10-28T03:01:49.131Z",
+    "coverage": 1,
+    "source": {
+      "name": "Engadget",
+      "url": "https://engadget.com/2295625/old-nokia-phone-ai-upgrade-never-designed-for",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "51d51d3a9a58",
+    "slug": "firefox-smart-window-funksiyasiga-ai-integratsiya-qilindi-51d51d",
+    "title": "Firefox Smart Window funksiyasiga AI integratsiya qilindi",
+    "summary": "Mozilla kompaniyasi Firefox brauzeridagi Smart Window funksiyasini yangiladi. Endi u ochiq tablardagi ma'lumotlar yordamida onlayn shakllarni to'ldirishga ko'maklashadi.",
+    "tags": [
+      "agentlar"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-10-27T16:14:18.000Z",
+    "created": "2026-10-28T03:01:49.131Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Verge",
+      "url": "https://theverge.com/ai-artificial-intelligence/1019551/firefox-smart-window-ai-fill-forms",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "2d1cc6aaea46",
+    "slug": "opera-brauzerda-mahalliy-ai-uchun-webai-standartini-yaratdi-2d1cc6",
+    "title": "Opera brauzerda mahalliy AI uchun WebAI standartini yaratdi",
+    "summary": "Opera kompaniyasi WebAI deb nomlangan yangi veb-standartni taqdim etdi. U foydalanuvchilarga brauzerning o'zida AI modellarini mahalliy ishga tushirish imkoniyatini beradi.",
+    "tags": [
+      "ochiq model"
+    ],
+    "importance": 3,
+    "score": 14.2,
+    "published": "2026-10-27T13:00:00.000Z",
+    "created": "2026-10-28T03:01:49.131Z",
+    "coverage": 1,
+    "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "7afb98bf1433",
     "slug": "bank-of-america-parollarni-ai-agentlariga-bermaslikni-soradi-7afb98",
     "title": "Bank of America parollarni AI agentlariga bermaslikni so'radi",

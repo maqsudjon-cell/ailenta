@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/ochiq-model/</link>
   <description>&quot;ochiq model&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Wed, 28 Oct 2026 02:11:13 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 28 Oct 2026 03:08:58 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/ochiq-model/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Opera brauzerda mahalliy AI uchun WebAI standartini yaratdi</title>
+    <link>https://ailenta.uz/x/opera-brauzerda-mahalliy-ai-uchun-webai-standartini-yaratdi-2d1cc6/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/opera-brauzerda-mahalliy-ai-uchun-webai-standartini-yaratdi-2d1cc6/</guid>
+    <pubDate>Tue, 27 Oct 2026 13:00:00 GMT</pubDate>
+    <description>Opera kompaniyasi WebAI deb nomlangan yangi veb-standartni taqdim etdi. U foydalanuvchilarga brauzerning o'zida AI modellarini mahalliy ishga tushirish imkoniyatini beradi.</description>
+    <category>ochiq model</category>
+    <media:content url="https://ailenta.uz/og/opera-brauzerda-mahalliy-ai-uchun-webai-standartini-yaratdi-2d1cc6.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/opera-brauzerda-mahalliy-ai-uchun-webai-standartini-yaratdi-2d1cc6.jpg"/>
+  </item>
   <item>
     <title>llama.cpp yordamida lokal AI-stekni ishga tushirish</title>
     <link>https://ailenta.uz/x/llama-cpp-yordamida-lokal-ai-stekni-ishga-tushirish-b1ed36/</link>
@@ -296,16 +306,6 @@
     <category>ochiq model</category><category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/black-forest-labs-flux-3-image-modelini-ishga-tushirdi-15c583.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/black-forest-labs-flux-3-image-modelini-ishga-tushirdi-15c583.jpg"/>
-  </item>
-  <item>
-    <title>Huawei openJiuwen platformasiga yangi imkoniyatlar qo'shdi</title>
-    <link>https://ailenta.uz/x/huawei-openjiuwen-platformasiga-yangi-imkoniyatlar-qoshdi-175fba/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/huawei-openjiuwen-platformasiga-yangi-imkoniyatlar-qoshdi-175fba/</guid>
-    <pubDate>Fri, 02 Oct 2026 01:54:06 GMT</pubDate>
-    <description>Huawei o'zining ochiq kodli agent platformasi openJiuwen'ga WorkSwarm uchun to'liq dupleks ovozli va video funksiyalarini qo'shdi. Bu foydalanuvchilarga agent vazifalarni bajarayotganda suhbatni davom ettirish imkonini beradi.</description>
-    <category>Huawei</category><category>ochiq model</category>
-    <media:content url="https://ailenta.uz/og/huawei-openjiuwen-platformasiga-yangi-imkoniyatlar-qoshdi-175fba.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/huawei-openjiuwen-platformasiga-yangi-imkoniyatlar-qoshdi-175fba.jpg"/>
   </item>
 </channel>
 </rss>
