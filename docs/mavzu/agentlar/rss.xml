@@ -5,8 +5,28 @@
   <link>https://ailenta.uz/mavzu/agentlar/</link>
   <description>&quot;agentlar&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Wed, 28 Oct 2026 21:11:28 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 28 Oct 2026 21:48:09 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/agentlar/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>AI agent tizimlari qanday ishlaydi</title>
+    <link>https://ailenta.uz/x/ai-agent-tizimlari-qanday-ishlaydi-25f3e1/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/ai-agent-tizimlari-qanday-ishlaydi-25f3e1/</guid>
+    <pubDate>Wed, 28 Oct 2026 18:16:45 GMT</pubDate>
+    <description>Katta til modellari (LLM) fikrlash va javob berishga qodir, ammo tizim vazifalarni mustaqil bajarishi kerak bo'lsa, AI agentlari maydoni boshlanadi. Maqolada agent tizimlarining tuzilishi, rejalashtirish va o'zaro ta'sir usullari ko'rib chiqiladi.</description>
+    <category>agentlar</category><category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/ai-agent-tizimlari-qanday-ishlaydi-25f3e1.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/ai-agent-tizimlari-qanday-ishlaydi-25f3e1.jpg"/>
+  </item>
+  <item>
+    <title>Til modellari marshrutizatori ichidan</title>
+    <link>https://ailenta.uz/x/til-modellari-marshrutizatori-ichidan-7d1bf4/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/til-modellari-marshrutizatori-ichidan-7d1bf4/</guid>
+    <pubDate>Wed, 28 Oct 2026 14:41:24 GMT</pubDate>
+    <description>Maqolada til modellari uchun so'rovlarni optimal ijrochiga yo'naltiruvchi FAIRouter kutubxonasi muhokama qilinadi. Hozirda faqat LLMlar qo'llab-quvvatlansa-da, kelajakda ijrochilar sinfini asboblar va agentlar bilan kengaytirish rejalashtirilgan.</description>
+    <category>tadqiqot</category><category>agentlar</category>
+    <media:content url="https://ailenta.uz/og/til-modellari-marshrutizatori-ichidan-7d1bf4.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/til-modellari-marshrutizatori-ichidan-7d1bf4.jpg"/>
+  </item>
   <item>
     <title>Legora yuridik ishlar uchun AI tizimini yaratmoqda</title>
     <link>https://ailenta.uz/x/legora-yuridik-ishlar-uchun-ai-tizimini-yaratmoqda-2fc8e6/</link>
@@ -286,26 +306,6 @@
     <category>tadqiqot</category><category>agentlar</category>
     <media:content url="https://ailenta.uz/og/ai-oz-ozini-boshqarish-boyicha-tajribani-boshladi-21fbd6.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/ai-oz-ozini-boshqarish-boyicha-tajribani-boshladi-21fbd6.jpg"/>
-  </item>
-  <item>
-    <title>Biznesga AI joriy etishning 5 darajasi va AI-Native yondashuv</title>
-    <link>https://ailenta.uz/x/biznesga-ai-joriy-etishning-5-darajasi-va-ai-native-yondashu-ba2ea0/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/biznesga-ai-joriy-etishning-5-darajasi-va-ai-native-yondashu-ba2ea0/</guid>
-    <pubDate>Tue, 20 Oct 2026 09:01:02 GMT</pubDate>
-    <description>Habr nashri biznesga AI joriy etishning besh darajasini va AI-Native yondashuvini tushuntirdi. Maqolada AI agentlarini ish jarayonlariga qanday kiritish va jarayonlarni AI imkoniyatlari atrofida loyihalash muhokama qilingan.</description>
-    <category>biznes</category><category>agentlar</category>
-    <media:content url="https://ailenta.uz/og/biznesga-ai-joriy-etishning-5-darajasi-va-ai-native-yondashu-ba2ea0.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/biznesga-ai-joriy-etishning-5-darajasi-va-ai-native-yondashu-ba2ea0.jpg"/>
-  </item>
-  <item>
-    <title>AQSH armiyasi AI agentlarini kiberhujum uchun sinamoqda</title>
-    <link>https://ailenta.uz/x/aqsh-armiyasi-ai-agentlarini-kiberhujum-uchun-sinamoqda-4ea1db/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/aqsh-armiyasi-ai-agentlarini-kiberhujum-uchun-sinamoqda-4ea1db/</guid>
-    <pubDate>Tue, 20 Oct 2026 06:15:01 GMT</pubDate>
-    <description>Sizdirilgan hujjatlarga ko'ra, AQSH armiyasi kiber qo'mondonligi ECHOTRIBBLE dasturi ustida ishlamoqda. Bu dastur AI agentlariga tarmoqlar bo'ylab avtonom ravishda tarqalib, nishonlarni topish va yo'q qilish imkonini beradi.</description>
-    <category>xavfsizlik</category><category>agentlar</category>
-    <media:content url="https://ailenta.uz/og/aqsh-armiyasi-ai-agentlarini-kiberhujum-uchun-sinamoqda-4ea1db.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/aqsh-armiyasi-ai-agentlarini-kiberhujum-uchun-sinamoqda-4ea1db.jpg"/>
   </item>
 </channel>
 </rss>
