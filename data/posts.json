@@ -1,5 +1,120 @@
 [
   {
+    "id": "47d2587ed918",
+    "slug": "ai-video-oyinlar-mashuplarini-yaratmoqda-47d258",
+    "title": "AI video o'yinlar mashuplarini yaratmoqda",
+    "summary": "Sun'iy intellekt vositalari yordamida mashhur video o'yinlarning g'alati mashuplari yaratilmoqda. Bu holat mualliflik huquqi va sanoatga ta'siri borasida savollar tug'dirmoqda.",
+    "tags": [
+      "biznes",
+      "qonun"
+    ],
+    "importance": 3,
+    "score": 23,
+    "published": "2026-10-28T15:00:05.000Z",
+    "created": "2026-10-28T15:37:06.812Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/games/2026/oct/28/social-media-is-full-of-weird-video-game-mashups-where-are-they-all-coming-from",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "3ac83b3dcfc3",
+    "slug": "ai-foydasi-haqiqat-ammo-muddat-muammo-3ac83b",
+    "title": "AI foydasi haqiqat, ammo muddat muammo",
+    "summary": "Fortune nashri AI'ning foydasi haqiqat ekanligini, ammo uning rivojlanish muddatlari muammo ekanini yozdi. Sun'iy intellektning kelajagini bashorat qilish qiyinligi ta'kidlandi.",
+    "tags": [
+      "iqtisod",
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 22,
+    "published": "2026-10-28T12:51:58.000Z",
+    "created": "2026-10-28T15:37:06.813Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/10/28/will-ai-pay-off-when-bubble-risk-anthropic-ipo",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "d63165261460",
+    "slug": "claude-opus-5-5-bilan-oyin-yaratishda-burilish-nuqtasi-d63165",
+    "title": "Claude Opus 5.5 bilan o'yin yaratishda burilish nuqtasi",
+    "summary": "Muallifning fikricha, 2026-yil oktyabr oyida Claude Opus 5.5 kabi AI modellarining takomillashuvi bilan \"vibe coding\" video o'yinlarini yaratishda burilish nuqtasi yuz berdi.",
+    "tags": [
+      "Anthropic",
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 18,
+    "published": "2026-10-28T13:55:15.000Z",
+    "created": "2026-10-28T15:37:06.813Z",
+    "coverage": 1,
+    "source": {
+      "name": "Simon Willison",
+      "url": "https://simonwillison.net/2026/Oct/28/vibe-game-development",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "bf6cf2f49e50",
+    "slug": "anthropic-bir-kishilik-mithril-startapini-sotib-oldi-bf6cf2",
+    "title": "Anthropic bir kishilik Mithril startapini sotib oldi",
+    "summary": "Anthropic kompaniyasi bir kishilik Mithril nomli biotexnologiya startapini sotib oldi. Bu xarid bilan Anthropic dori dasturlarini boshlamoqda.",
+    "tags": [
+      "Anthropic",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 17,
+    "published": "2026-10-28T07:02:44.000Z",
+    "created": "2026-10-28T15:37:06.813Z",
+    "coverage": 2,
+    "source": {
+      "name": "NDTV",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPRjZYNUtVSTd1SkR1cGNOd1JzalhVdlpDcFE1MERoRUdleW9FOWZ2T1ZYOFdUQ21OLVRtSW00OUJibGpDMFdTbzFPa1dwZGN4ZXlSSVEyYmhLYnNydlcyOV9zaFRfejU5SHhmZmhoYVluVzdHN21XRjZzRm1teHpzdXRpWXRWOExDZGZZOEFkblNrNTQ2aGNNMk5laTgxTzdzNWhoc1I3TVNSXzE5NTREUW16bGxGLWtyUWFwX0pNRGN2d1lPTzVDQUUwNjdwVE8zY3hORkwzemw1TndrOC1ja1hFSlhJOFdj0gHwAUFVX3lxTFAwMFNTSmJNa3hXb1hpcVZlWEVRdVpFbWpVMkc4WEJmTnpGTk1zVU9sc0VxUXRLblJzZG9iQWJGbVFBNTVvWVc1QzUzTnNoVFQ0NFFlamtTSjZPUzNPUEU1VGNrS0FWZjRreEdCWWVwVW5IRVFaNXNOVXA4RUlvcWc1TXJJWnFuUnR6LWRzakJ4ckQwNDNKM0V6LVVGT2RScUlCWGdWSFQxalVnWW9hNThlaUR1RXRXeXdYYmZ5UXoxVFhTdWxKbm5ZNUxsSWxDaVUxZUFROGlURU83bnZIQzBBUzg0dDBZaXhnb3J4SS1XVw",
+      "indirect": true
+    },
+    "also": [
+      {
+        "name": "Quartz",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1XY3FHSmo5aHdLVjQ1dTVYdUx5Vm5BYmJJX3JjVnNuZDgwRHN1T28zUTlqQ2w0VHJMU3pDblIzV2QzVmh1NnJrWjc5di1QVnhQaXFaNzMySDAzXzF6MWZleGtSU1drVUwtM2hiZmRmdTk3SG5Ea3F1UlBXOFJNWlU"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "fdcf20ad2cf6",
+    "slug": "microsoft-va-epic-games-aini-ogirlik-deb-hisobladi-fdcf20",
+    "title": "Microsoft va Epic Games AI'ni o'g'irlik deb hisobladi",
+    "summary": "Microsoft va Epic Games kompaniyalari sun'iy intellektni o'g'irlik deb hisoblash bo'yicha kutilmaganda kelishib oldilar.",
+    "tags": [
+      "Microsoft",
+      "qonun"
+    ],
+    "importance": 3,
+    "score": 16.7,
+    "published": "2026-10-28T10:10:58.000Z",
+    "created": "2026-10-28T15:37:06.813Z",
+    "coverage": 1,
+    "source": {
+      "name": "Hacker News",
+      "url": "https://kotaku.com/now-that-the-shoe-is-on-the-other-foot-microsoft-and-epic-games-suddenly-agree-that-ai-is-theft-2000749316",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "803eec2b975d",
     "slug": "ai-yoki-iqlim-inqirozi-insoniyatga-tahdidlar-803eec",
     "title": "AI yoki iqlim inqirozi: insoniyatga tahdidlar",
