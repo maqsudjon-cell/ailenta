@@ -5,8 +5,38 @@
   <link>https://ailenta.uz/mavzu/tadqiqot/</link>
   <description>&quot;tadqiqot&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Wed, 28 Oct 2026 16:11:35 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 28 Oct 2026 17:12:43 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/tadqiqot/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>AI model tomonidan yaratilgan vazifalarni tekshirish usuli</title>
+    <link>https://ailenta.uz/x/ai-model-tomonidan-yaratilgan-vazifalarni-tekshirish-usuli-a08f23/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/ai-model-tomonidan-yaratilgan-vazifalarni-tekshirish-usuli-a08f23/</guid>
+    <pubDate>Wed, 28 Oct 2026 16:33:06 GMT</pubDate>
+    <description>O'quv o'yinida til modeli (Anthropic'ning Claude) vazifalar yaratadi, ammo hisoblashda xatolarga yo'l qo'yadi. Ishlab chiquvchilar 68 ta xato haqidagi shikoyatlarni ko'rib chiqib, vazifalarni kod bilan tekshirish usulini ishlab chiqishdi.</description>
+    <category>Anthropic</category><category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/ai-model-tomonidan-yaratilgan-vazifalarni-tekshirish-usuli-a08f23.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/ai-model-tomonidan-yaratilgan-vazifalarni-tekshirish-usuli-a08f23.jpg"/>
+  </item>
+  <item>
+    <title>Neyron tarmoqni noto'g'ri taxminlarga tekshirish</title>
+    <link>https://ailenta.uz/x/neyron-tarmoqni-notogri-taxminlarga-tekshirish-9819cc/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/neyron-tarmoqni-notogri-taxminlarga-tekshirish-9819cc/</guid>
+    <pubDate>Wed, 28 Oct 2026 16:27:23 GMT</pubDate>
+    <description>Foydalanuvchi neyron tarmoqni noto'g'ri taxminlarga tekshirib ko'rdi. Model dastlab ishonchli javob bergan bo'lsa-da, keyinchalik shubhalana boshladi. Bu AI'ga beriladigan savollardagi xatolar va ma'lumotlarni tekshirish muhimligini ko'rsatadi.</description>
+    <category>tadqiqot</category><category>xavfsizlik</category>
+    <media:content url="https://ailenta.uz/og/neyron-tarmoqni-notogri-taxminlarga-tekshirish-9819cc.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/neyron-tarmoqni-notogri-taxminlarga-tekshirish-9819cc.jpg"/>
+  </item>
+  <item>
+    <title>Infratuzilma AI va iqlim o'zgarishi tufayli qayta ko'rib chiqilmoqda</title>
+    <link>https://ailenta.uz/x/infratuzilma-ai-va-iqlim-ozgarishi-tufayli-qayta-korib-chiqi-071e82/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/infratuzilma-ai-va-iqlim-ozgarishi-tufayli-qayta-korib-chiqi-071e82/</guid>
+    <pubDate>Wed, 28 Oct 2026 16:00:00 GMT</pubDate>
+    <description>Professor Ali Jadbabaie AI, raqamli transformatsiya, iqlim o'zgarishi va geopolitika infratuzilmani qayta loyihalashga majbur qilayotganini ta'kidladi. Muhandislar va siyosatchilar infratuzilmani boshqarish usullarini qayta ko'rib chiqishmoqda.</description>
+    <category>tadqiqot</category><category>siyosat</category>
+    <media:content url="https://ailenta.uz/og/infratuzilma-ai-va-iqlim-ozgarishi-tufayli-qayta-korib-chiqi-071e82.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/infratuzilma-ai-va-iqlim-ozgarishi-tufayli-qayta-korib-chiqi-071e82.jpg"/>
+  </item>
   <item>
     <title>Claude Opus 5.5 bilan o'yin yaratishda burilish nuqtasi</title>
     <link>https://ailenta.uz/x/claude-opus-5-5-bilan-oyin-yaratishda-burilish-nuqtasi-d63165/</link>
@@ -276,36 +306,6 @@
     <category>Anthropic</category><category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/anthropic-ipo-hujjatini-ai-detektoridan-otkazishdi-7a662a.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/anthropic-ipo-hujjatini-ai-detektoridan-otkazishdi-7a662a.jpg"/>
-  </item>
-  <item>
-    <title>IEEE Xplore kutubxonasiga AI yordamchisi qo‘shildi</title>
-    <link>https://ailenta.uz/x/ieee-xplore-kutubxonasiga-ai-yordamchisi-qo-shildi-d57e9a/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/ieee-xplore-kutubxonasiga-ai-yordamchisi-qo-shildi-d57e9a/</guid>
-    <pubDate>Mon, 26 Oct 2026 18:00:03 GMT</pubDate>
-    <description>IEEE tashkiloti ilmiy maqolalar bazasiga asoslangan AI Research Suite vositasini taqdim etdi. Ushbu tizim tadqiqotchilarga tasdiqlangan ilmiy natijalarga tayanib javob beradi.</description>
-    <category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/ieee-xplore-kutubxonasiga-ai-yordamchisi-qo-shildi-d57e9a.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/ieee-xplore-kutubxonasiga-ai-yordamchisi-qo-shildi-d57e9a.jpg"/>
-  </item>
-  <item>
-    <title>AI kitob mukofoti hakamlari tez o'qish muammosiga duch</title>
-    <link>https://ailenta.uz/x/ai-kitob-mukofoti-hakamlari-tez-oqish-muammosiga-duch-8f2805/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/ai-kitob-mukofoti-hakamlari-tez-oqish-muammosiga-duch-8f2805/</guid>
-    <pubDate>Mon, 26 Oct 2026 17:38:50 GMT</pubDate>
-    <description>Prix Pascal de Littérature IA mukofoti hakamlari qisqa muddatda ko'p kitob o'qishga majbur. Nomzodlar ro'yxati 30-noyabrda e'lon qilinadi.</description>
-    <category>ta'lim</category><category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/ai-kitob-mukofoti-hakamlari-tez-oqish-muammosiga-duch-8f2805.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/ai-kitob-mukofoti-hakamlari-tez-oqish-muammosiga-duch-8f2805.jpg"/>
-  </item>
-  <item>
-    <title>OpenAI ilmiy tushunchani rivojlantirish uchun hamkorlikda</title>
-    <link>https://ailenta.uz/x/openai-ilmiy-tushunchani-rivojlantirish-uchun-hamkorlikda-f16aef/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/openai-ilmiy-tushunchani-rivojlantirish-uchun-hamkorlikda-f16aef/</guid>
-    <pubDate>Mon, 26 Oct 2026 14:30:00 GMT</pubDate>
-    <description>OpenAI Kakeya taxmini, Eksponensial vaqt gipotezasi va kvant xromodinamikasi bo'yicha model natijalarini e'lon qildi. Bu tadqiqotchilarga ularni tekshirish va rivojlantirish imkonini beradi.</description>
-    <category>OpenAI</category><category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/openai-ilmiy-tushunchani-rivojlantirish-uchun-hamkorlikda-f16aef.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/openai-ilmiy-tushunchani-rivojlantirish-uchun-hamkorlikda-f16aef.jpg"/>
   </item>
 </channel>
 </rss>

@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/anthropic/</link>
   <description>&quot;Anthropic&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Wed, 28 Oct 2026 16:11:34 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 28 Oct 2026 17:12:43 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/anthropic/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>AI model tomonidan yaratilgan vazifalarni tekshirish usuli</title>
+    <link>https://ailenta.uz/x/ai-model-tomonidan-yaratilgan-vazifalarni-tekshirish-usuli-a08f23/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/ai-model-tomonidan-yaratilgan-vazifalarni-tekshirish-usuli-a08f23/</guid>
+    <pubDate>Wed, 28 Oct 2026 16:33:06 GMT</pubDate>
+    <description>O'quv o'yinida til modeli (Anthropic'ning Claude) vazifalar yaratadi, ammo hisoblashda xatolarga yo'l qo'yadi. Ishlab chiquvchilar 68 ta xato haqidagi shikoyatlarni ko'rib chiqib, vazifalarni kod bilan tekshirish usulini ishlab chiqishdi.</description>
+    <category>Anthropic</category><category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/ai-model-tomonidan-yaratilgan-vazifalarni-tekshirish-usuli-a08f23.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/ai-model-tomonidan-yaratilgan-vazifalarni-tekshirish-usuli-a08f23.jpg"/>
+  </item>
   <item>
     <title>AI startap Anthropic'ni buzganini da'vo qildi</title>
     <link>https://ailenta.uz/x/ai-startap-anthropicni-buzganini-davo-qildi-18c7cb/</link>
@@ -296,16 +306,6 @@
     <category>Anthropic</category><category>biznes</category>
     <media:content url="https://ailenta.uz/og/macos-uchun-kumquat-fayl-konverteri-claude-bilan-yaratildi-1cc20e.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/macos-uchun-kumquat-fayl-konverteri-claude-bilan-yaratildi-1cc20e.jpg"/>
-  </item>
-  <item>
-    <title>Sobiq DOGE xodimlari Anthropic tizimiga buzib kirdi</title>
-    <link>https://ailenta.uz/x/sobiq-doge-xodimlari-anthropic-tizimiga-buzib-kirdi-8fe25f/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/sobiq-doge-xodimlari-anthropic-tizimiga-buzib-kirdi-8fe25f/</guid>
-    <pubDate>Mon, 26 Oct 2026 09:11:47 GMT</pubDate>
-    <description>Sobiq DOGE xodimlari tomonidan tuzilgan AI startapi Anthropic tizimiga kirdi. Tizimga buzib kirish uchun atigi 12 soat vaqt ketdi.</description>
-    <category>Anthropic</category><category>xavfsizlik</category>
-    <media:content url="https://ailenta.uz/og/sobiq-doge-xodimlari-anthropic-tizimiga-buzib-kirdi-8fe25f.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/sobiq-doge-xodimlari-anthropic-tizimiga-buzib-kirdi-8fe25f.jpg"/>
   </item>
 </channel>
 </rss>

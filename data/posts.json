@@ -1,5 +1,115 @@
 [
   {
+    "id": "071e826394b5",
+    "slug": "infratuzilma-ai-va-iqlim-ozgarishi-tufayli-qayta-korib-chiqi-071e82",
+    "title": "Infratuzilma AI va iqlim o'zgarishi tufayli qayta ko'rib chiqilmoqda",
+    "summary": "Professor Ali Jadbabaie AI, raqamli transformatsiya, iqlim o'zgarishi va geopolitika infratuzilmani qayta loyihalashga majbur qilayotganini ta'kidladi. Muhandislar va siyosatchilar infratuzilmani boshqarish usullarini qayta ko'rib chiqishmoqda.",
+    "tags": [
+      "tadqiqot",
+      "siyosat"
+    ],
+    "importance": 2,
+    "score": 19,
+    "published": "2026-10-28T16:00:00.000Z",
+    "created": "2026-10-28T17:03:08.712Z",
+    "coverage": 1,
+    "source": {
+      "name": "MIT News",
+      "url": "https://news.mit.edu/2026/3-questions-why-infrastructure-is-entering-defining-era-1028",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "f9b8d788e496",
+    "slug": "valve-ai-kontentiga-oid-xavotirlarga-javob-berdi-f9b8d7",
+    "title": "Valve AI kontentiga oid xavotirlarga javob berdi",
+    "summary": "Valve kompaniyasi AI tomonidan yaratilgan \"slop\" va klonlardan xavotirlangan o'yin ishlab chiquvchilariga javob berdi. Bu javob o'yin sanoatida AI kontenti bilan bog'liq muammolarga e'tibor qaratadi.",
+    "tags": [
+      "biznes",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 17.1,
+    "published": "2026-10-28T13:27:24.000Z",
+    "created": "2026-10-28T17:03:08.713Z",
+    "coverage": 1,
+    "source": {
+      "name": "Hacker News",
+      "url": "https://invenglobal.com/articles/27761/valve-responds-to-developers-fearing-ai-slop-and-clones",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "5e4098babe95",
+    "slug": "chrome-ai-yordamida-gmaildan-malumotlarni-avtomatik-toldirad-5e4098",
+    "title": "Chrome AI yordamida Gmail'dan ma'lumotlarni avtomatik to'ldiradi",
+    "summary": "Chrome brauzerining AI asosidagi avtomatik to'ldirish funksiyasi endi Gmail'dan ma'lumotlarni olishi mumkin. Bu yangilanish foydalanuvchi ruxsati bilan parvoz tasdiqlashlari, buyurtma tafsilotlari kabi ma'lumotlarni shakllarga kiritadi.",
+    "tags": [
+      "Google",
+      "maxfiylik"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-10-28T17:00:00.000Z",
+    "created": "2026-10-28T17:03:08.713Z",
+    "coverage": 1,
+    "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "a08f23f875f2",
+    "slug": "ai-model-tomonidan-yaratilgan-vazifalarni-tekshirish-usuli-a08f23",
+    "title": "AI model tomonidan yaratilgan vazifalarni tekshirish usuli",
+    "summary": "O'quv o'yinida til modeli (Anthropic'ning Claude) vazifalar yaratadi, ammo hisoblashda xatolarga yo'l qo'yadi. Ishlab chiquvchilar 68 ta xato haqidagi shikoyatlarni ko'rib chiqib, vazifalarni kod bilan tekshirish usulini ishlab chiqishdi.",
+    "tags": [
+      "Anthropic",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 14,
+    "published": "2026-10-28T16:33:06.000Z",
+    "created": "2026-10-28T17:03:08.713Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1100788",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "9819ccbd31ed",
+    "slug": "neyron-tarmoqni-notogri-taxminlarga-tekshirish-9819cc",
+    "title": "Neyron tarmoqni noto'g'ri taxminlarga tekshirish",
+    "summary": "Foydalanuvchi neyron tarmoqni noto'g'ri taxminlarga tekshirib ko'rdi. Model dastlab ishonchli javob bergan bo'lsa-da, keyinchalik shubhalana boshladi. Bu AI'ga beriladigan savollardagi xatolar va ma'lumotlarni tekshirish muhimligini ko'rsatadi.",
+    "tags": [
+      "tadqiqot",
+      "xavfsizlik"
+    ],
+    "importance": 2,
+    "score": 11,
+    "published": "2026-10-28T16:27:23.000Z",
+    "created": "2026-10-28T17:03:08.713Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/companies/bothub/articles/1100786",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "516d6345c17a",
     "slug": "ai-rahbarlari-jamoatchilikdan-uzoqlashmoqda-516d63",
     "title": "AI rahbarlari jamoatchilikdan uzoqlashmoqda",
