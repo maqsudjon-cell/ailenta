@@ -1,5 +1,49 @@
 [
   {
+    "id": "a32c247e99cc",
+    "slug": "elizabeth-uorren-anthropicdan-javob-talab-qildi-a32c24",
+    "title": "Elizabeth Uorren Anthropic'dan javob talab qildi",
+    "summary": "AQSh senatori Elizabeth Warren Anthropic kompaniyasidan sun'iy intellekt bilan bog'liq ekzistensial xavflar bo'yicha javob berishni talab qildi. Senator kompaniyaning AI xavfsizligi yuzasidan ko'rayotgan choralari bilan qiziqmoqda.",
+    "tags": [
+      "Anthropic",
+      "siyosat"
+    ],
+    "importance": 3,
+    "score": 27,
+    "published": "2026-10-28T09:00:00.000Z",
+    "created": "2026-10-28T10:07:34.077Z",
+    "coverage": 1,
+    "source": {
+      "name": "WSJ",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYktCNVFvYUdKVHlVdnBGeWI0MWNyZW5OMkpVNk11OVBISmdxVXRyUFM4RUsxenRHUWVTTU9OQUd0aGY3ZHUtRmVNUlR4UzdvelJVb1FyTWI3MHNQQ09iUVlkLVVRVjlDOTJ3OEtZaXJLVnYtakRMMFBCTk1TcXRqRFpmQ3pibS1XSklhNlFvLWNQajRCS1h0akVZa0k0STNnTHhlalNFWVViNVlGUmY0MkUyZ0p3a0E",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "a7e992097b19",
+    "slug": "chatbase-ai-davrida-jamoasini-ikki-baravar-oshirmoqda-a7e992",
+    "title": "Chatbase AI davrida jamoasini ikki baravar oshirmoqda",
+    "summary": "Chatbase startapi rahbari Yasser Elsaid sun'iy intellekt davrida kichik jamoalar yetarli degan fikri xato bo'lganini ta'kidladi. U sifatli mahsulotlar yaratish uchun hali ham insonlar kerak deb hisoblab, 40 kishilik jamoasini kengaytirmoqda.",
+    "tags": [
+      "biznes",
+      "mehnat bozori"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-10-28T09:05:01.000Z",
+    "created": "2026-10-28T10:07:34.078Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/tech-founder-wrong-about-lean-teams-ai-era-chatbase-2026-10",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "c635c47edb31",
     "slug": "ai-dasturlardagi-koplab-xatolarni-topmoqda-c635c4",
     "title": "AI dasturlardagi ko'plab xatolarni topmoqda",
