@@ -1,5 +1,49 @@
 [
   {
+    "id": "b5c1a2fd18c8",
+    "slug": "ai-chat-botlari-saylov-yoriqnomasida-xatolik-qildi-b5c1a2",
+    "title": "AI chat-botlari saylov yo'riqnomasida xatolik qildi",
+    "summary": "Washington Post nashri AI chat-botlaridan saylovchilar uchun yo'riqnoma tuzishni so'radi. Chat-botlar mavjud bo'lmagan poygalarni o'ylab topdi va nomzodlarni noto'g'ri ko'rsatdi.",
+    "tags": [
+      "tadqiqot",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 23,
+    "published": "2026-10-28T16:00:00.000Z",
+    "created": "2026-10-28T20:36:47.476Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVVJGWXlFRXFvSGV3NFV2SkpnQzFmTUNJbHJJVGtSeDlnMy1JczVMajBMU2ZaUFpvUkZPbzc4WkZudzFIY0pxQUVDUGMzNUkydkpCeENlRE9ZdTFLLTYwQ2dWb2x1QVpUdGc3STI3S1k3QWtDb09CbkdvZkNLUEtlUTlGTzZWTDFMb0wtbXI1QS14ZGtJVDI1M2syb19KTl9BdEwyZTM1S09wa0NVdlJzdEpOeHBLcy16dVE",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "f010b1f4f032",
+    "slug": "xai-shovqindan-shikoyat-qilmaganlar-uyini-sotib-olmoqda-f010b1",
+    "title": "xAI shovqindan shikoyat qilmaganlar uyini sotib olmoqda",
+    "summary": "Elon Muskning xAI kompaniyasiga qarashli tuzilma Missisipidada joylashgan xonadonlarni sotib olishni taklif qilmoqda. Buning evaziga aholi ma'lumotlar markaziga qarshi sud da'vosiga qo'shilmasligi kerak.",
+    "tags": [
+      "xAI",
+      "sud"
+    ],
+    "importance": 3,
+    "score": 18,
+    "published": "2026-10-28T14:44:00.000Z",
+    "created": "2026-10-28T20:36:47.476Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Verge",
+      "url": "https://theverge.com/ai-artificial-intelligence/1020596/xai-mississippi-neighborhood-data-center-lawsuit",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "1e0e09ee5df1",
     "slug": "ozbekiston-briks-parlament-forumida-ishtirok-etdi-1e0e09",
     "title": "O'zbekiston BRIKS parlament forumida ishtirok etdi",
