@@ -1,5 +1,102 @@
 [
   {
+    "id": "c2d76a72f6e5",
+    "slug": "anthropic-xavfli-ai-modellarini-sudlar-bloklashi-kerak-c2d76a",
+    "title": "Anthropic: xavfli AI modellarini sudlar bloklashi kerak",
+    "summary": "Anthropic Kaliforniya gubernatoriga xavfli AI modellarini sudlar bloklashi kerakligini ma'lum qildi. Kompaniya sudlarga bunday vakolat berilishini taklif etdi.",
+    "tags": [
+      "Anthropic",
+      "qonun"
+    ],
+    "importance": 4,
+    "score": 42,
+    "published": "2026-10-28T19:04:22.000Z",
+    "created": "2026-10-28T23:26:28.743Z",
+    "coverage": 3,
+    "source": {
+      "name": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQb3lwQkM2YlRwQ3lBT0UxOUtJTks3bkNxb0Rfbm90ZFAxdGZyT05KMXY2ZEVEYTJZeHFqd0YyMTFVQXBfOEtWeHFUdGt3cWRTNXhqTjloNGVEdkoyU0RxUHowMUw4UXNwVWUzdjQzMmZpTmRCakZjdzJLcE10dGcyUm15TGY5Y0I0Q0VhM3ZtUUlsTUFHWlAtT01XRkZYZXY5cjdzMmYwTnlfSkZkaWxtaTI5dmphVHhkQVhRUko1b1ctTldPaGlFamVONlE",
+      "indirect": true
+    },
+    "also": [
+      {
+        "name": "Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQmNjcUN4RkpfcHVCeGVXcFlrdWNVRFBsdnFOSEd2OUtFOFhqOXR6dnV4cHJJU25SdXlpd0J3T1BPd29LRmtabzNSaE9fZDFhVDZzcUdSX0VsT21kV2tYZlJGRG13VGxVRXdtZ0lNSGdERzllSHRONG9jZHhONGNFamdxWTNoTml3RDJfSUFjdHp4bmM"
+      },
+      {
+        "name": "Politico",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUjZraEFFWjNFWGtzOUFEVW12Q1lRb0o1ay03UWU3RC1UYzRUVDRkQjJ2MGNtQXptUExnRE5MSE92RjQydzB6bE9RNTVUdVFhenNyYUo5QjllUUhETW0xcjJfd056Nnp4U25vWU1iQlhLYXdBS1JRSlZQTnBBTGlYSHVR"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "4dd749414004",
+    "slug": "xitoyda-ai-pufakchasi-yorildi-aqshda-ham-shunday-boladimi-4dd749",
+    "title": "Xitoyda AI pufakchasi yorildi, AQShda ham shunday bo'ladimi",
+    "summary": "Xitoyda AI pufakchasi allaqachon yorilgani haqida xabar berildi. Bu holat AQShda ham takrorlanishi mumkinmi degan savollar tug'dirmoqda.",
+    "tags": [
+      "iqtisod",
+      "siyosat"
+    ],
+    "importance": 3,
+    "score": 7,
+    "published": "2026-10-28T16:42:56.000Z",
+    "created": "2026-10-28T23:26:28.743Z",
+    "coverage": 1,
+    "source": {
+      "name": "NPR",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbWZGaHpJc2RYa1hpd3FJWTdOQ0lLMXBLcDBNeURQSWdaTkRNc3IwV3BFSmhiMUxnZE9sTnVDbXFGX081MjFYeVI0bk9TT1NEY2NkaTBEY0c5ZnNhbmd6Ykh6QWJEOHg1bHBrZ1lnX0IwMWdJemk0Wk1RMlpNOUo4WFo0cVRwRjA1Q3VacVI2MGlOQ2Q0SmRxWmtiUDRoV0ppeW9QXy1aeGJuMEl0UmlyRk9R",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "98fd5ebaa576",
+    "slug": "ai-konstitutsiyalari-mamuriy-huquqshunoslarga-muhtoj-98fd5e",
+    "title": "AI konstitutsiyalari ma'muriy huquqshunoslarga muhtoj",
+    "summary": "Yale Journal on Regulation nashri AI konstitutsiyalarini ishlab chiqishda ma'muriy huquqshunoslarning zarurligini ta'kidladi. Bu AI'ni tartibga solish bo'yicha muhim masaladir.",
+    "tags": [
+      "qonun",
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 7,
+    "published": "2026-10-28T13:05:23.000Z",
+    "created": "2026-10-28T23:26:28.743Z",
+    "coverage": 1,
+    "source": {
+      "name": "Yale Journal on Regulation",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBFR1U2UnVuUWMzU0JjNHpjM3dfanNWWG9HRWRiVGdKSEZ5TmNXSUFvVkZRRkxNNXJhRW5xUE9jb0RPd2NYV1dvQ3N4eEl6NXIybUx1R2h6clVGUjhDWEFaUjZZdWFTOVZhWmdpS1ZkN2VVSnd5LVdRTzdmOGM3UQ",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "838fb6fc490a",
+    "slug": "recopii-pii-ni-niqoblash-uchun-yangi-tizim-838fb6",
+    "title": "ReCoPII: PII ni niqoblash uchun yangi tizim",
+    "summary": "ReCoPII deb nomlangan yangi tizim shaxsiy ma'lumotlarni (PII) niqoblash uchun kontekstual ma'lumotlar to'plamlarini yaratishga mo'ljallangan. Bu tizim maxfiylik cheklovlarini hisobga olgan holda PII ni ajratishga yordam beradi.",
+    "tags": [
+      "maxfiylik",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 7,
+    "published": "2026-10-28T04:00:00.000Z",
+    "created": "2026-10-28T23:26:28.743Z",
+    "coverage": 1,
+    "source": {
+      "name": "arXiv cs.CL",
+      "url": "https://arxiv.org/abs/2610.35925",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "c41ab6329c5f",
     "slug": "sk-hynix-daromadi-ai-aksiyalari-osishini-korsatdi-c41ab6",
     "title": "SK Hynix daromadi AI aksiyalari o'sishini ko'rsatdi",
