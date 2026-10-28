@@ -1,5 +1,47 @@
 [
   {
+    "id": "9d3c6c85611d",
+    "slug": "xai-mississippidagi-uylarni-sotib-olmoqda-9d3c6c",
+    "title": "xAI Mississippidagi uylarni sotib olmoqda",
+    "summary": "Elon Muskning xAI kompaniyasi Mississippida ma'lumotlar markazi yaqinidagi xonadonlarni sotib olmoqda. Agentlar 400 dan ortiq uyni sotib olishni rejalashtirgan. Uy egalariga kompaniyaga qarshi da'vo qilmaslik sharti bilan sotish taklif etilmoqda.",
+    "tags": [
+      "xAI"
+    ],
+    "importance": 3,
+    "score": 29,
+    "published": "2026-10-28T11:30:01.000Z",
+    "created": "2026-10-28T12:01:48.528Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/us-news/2026/oct/28/datacenter-noise-lawsuit-elon-musk-mississippi",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "a7f329bb1936",
+    "slug": "123-reg-ai-kiberhujumiga-uchraganini-malum-qildi-a7f329",
+    "title": "123 Reg AI kiberhujumiga uchraganini ma'lum qildi",
+    "summary": "123 Reg kompaniyasi mijozlar ma'lumotlariga qilingan kiberhujum haqida ma'lum qildi. Kompaniya rahbarlari ushbu hujum ortida Xitoy xakerlari turgan bo'lishi mumkinligini taxmin qilmoqda.",
+    "tags": [
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-10-28T11:45:00.000Z",
+    "created": "2026-10-28T12:01:48.528Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/cyber-crime/2026/10/28/123-reg-discloses-ai-cyberattack-on-customer-data-suspects-china-nexus/5305936",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "2fc8e689e413",
     "slug": "legora-yuridik-ishlar-uchun-ai-tizimini-yaratmoqda-2fc8e6",
     "title": "Legora yuridik ishlar uchun AI tizimini yaratmoqda",
