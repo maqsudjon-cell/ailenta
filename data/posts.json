@@ -1,5 +1,97 @@
 [
   {
+    "id": "2fc8e689e413",
+    "slug": "legora-yuridik-ishlar-uchun-ai-tizimini-yaratmoqda-2fc8e6",
+    "title": "Legora yuridik ishlar uchun AI tizimini yaratmoqda",
+    "summary": "Legora kompaniyasi yuridik jarayonlarni tezlashtirish uchun OpenAI modellaridan foydalanmoqda. Tizim shartnomalar tahlilini kengaytirib, huquqshunoslar ishini yengillashtirishga qaratilgan.",
+    "tags": [
+      "OpenAI",
+      "agentlar"
+    ],
+    "importance": 2,
+    "score": 39,
+    "published": "2026-10-28T09:30:00.000Z",
+    "created": "2026-10-28T11:01:49.563Z",
+    "coverage": 1,
+    "source": {
+      "name": "OpenAI",
+      "url": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "e5fe428e264a",
+    "slug": "malayziyada-12-11-mln-dollarlik-ai-chiplari-ushlandi-e5fe42",
+    "title": "Malayziyada 12,11 mln dollarlik AI chiplari ushlandi",
+    "summary": "Malayziya bojxona xizmati aeroport orqali kontrabanda qilingan ilg'or AI chiplarini musodara qildi. Qiymati 12,11 million dollarga teng bo'lgan ushbu chiplar eksport nazoratini buzganlikda gumon qilinmoqda.",
+    "tags": [
+      "chiplar",
+      "iqtisod"
+    ],
+    "importance": 3,
+    "score": 24,
+    "published": "2026-10-28T10:30:04.000Z",
+    "created": "2026-10-28T11:01:49.563Z",
+    "coverage": 2,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/261028/p14",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "Yahoo! Finance Canada",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUGo0V2paTkdlcmdTeFIyVVVwdmxjV3lKb2VmUklvXy1TeHdsYjZxN19ITXBPclNUbjVwSTE0ZjVubWY3RURyNlBBR3VVRjY3dFh6TGRoTGlnUWZDOEZQSk5ULVJ4dFU2ZG5EVnYyVjZtUVYzcWlUOTh3d1V0SGdQR2FzMU54bW9MYXNMUg"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "614dd327b184",
+    "slug": "macmillan-samarasiz-ai-yordamchisi-loyihasini-yopdi-614dd3",
+    "title": "Macmillan samarasiz AI yordamchisi loyihasini yopdi",
+    "summary": "Macmillan nashriyoti xodimlari NOA nomli AI yordamchisining foydasiz bo'lganini ma'lum qildi. Keyinchalik ushbu loyiha yopildi. Shuningdek, yozuvchilar AI nashriyotlar bilan munosabatlarga salbiy ta'sir ko'rsatayotganini aytmoqda.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 23,
+    "published": "2026-10-28T10:15:00.000Z",
+    "created": "2026-10-28T11:01:49.563Z",
+    "coverage": 1,
+    "source": {
+      "name": "Wired",
+      "url": "https://wired.com/story/macmillan-staff-say-the-publisher-threw-a-party-for-a-workplace-ai-assistant-that-was-later-killed",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "f093bddf8360",
+    "slug": "nyu-york-gubernatori-bolalar-uchun-botlarni-taqiqladi-f093bd",
+    "title": "Nyu-York gubernatori bolalar uchun botlarni taqiqladi",
+    "summary": "Nyu-York shtati gubernatori Keti Hokul bolalar bilan muloqot qiluvchi botlarni taqiqlashini e'lon qildi. U sun'iy intellekt tez rivojlanayotgan bir paytda fojiali hodisalarning oldini olish zarurligini ta'kidladi.",
+    "tags": [
+      "qonun",
+      "siyosat"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-10-28T10:00:00.000Z",
+    "created": "2026-10-28T11:01:49.563Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/10/28/new-york-state-kathy-hochul-bans-ai-chatbots-romantic-baby-monitors",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "a32c247e99cc",
     "slug": "elizabeth-uorren-anthropicdan-javob-talab-qildi-a32c24",
     "title": "Elizabeth Uorren Anthropic'dan javob talab qildi",
