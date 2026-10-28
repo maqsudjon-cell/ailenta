@@ -1,5 +1,92 @@
 [
   {
+    "id": "a11e815827a1",
+    "slug": "avstraliya-ai-chatbotlarining-hissiy-yaqinligini-taqiqlaydi-a11e81",
+    "title": "Avstraliya AI chatbotlarining hissiy yaqinligini taqiqlaydi",
+    "summary": "Avstraliya hukumati AI chatbotlarining \"hissiy yaqinlik\" yaratishini taqiqlashni rejalashtirmoqda. Bosh vazir Entoni Albaneze bolalarning AI agentlarini eng yaqin do'st deb bilishi haqida xavotir bildirdi. Hukumat ijtimoiy media va AI uchun nazorat organini tashkil etishga bosim ostida.",
+    "tags": [
+      "siyosat",
+      "qonun"
+    ],
+    "importance": 4,
+    "score": 23,
+    "published": "2026-10-28T05:31:55.000Z",
+    "created": "2026-10-28T06:02:05.153Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/australia-news/2026/oct/28/emotional-intimacy-ai-chatbots-ban-digital-duty-of-care-laws-australian-politics",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "0e28d1a86d48",
+    "slug": "ai-talabi-chip-komponentlari-yetkazib-berishni-cheklamoqda-0e28d1",
+    "title": "AI talabi chip komponentlari yetkazib berishni cheklamoqda",
+    "summary": "Sanoat mutaxassislari AI talabining ortishi sababli PCB va chip substratlari iste'molchi elektronikasi ishlab chiqaruvchilari uchun asosiy ta'minot cheklovlari bo'layotganini aytmoqda.",
+    "tags": [
+      "chiplar",
+      "iqtisod"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-10-28T05:40:01.000Z",
+    "created": "2026-10-28T06:02:05.153Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/261028/p6",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "b86b40f417d1",
+    "slug": "cxmt-past-samaradorlikka-qaramay-hbm3e-ishlab-chiqarishni-bo-b86b40",
+    "title": "CXMT past samaradorlikka qaramay HBM3E ishlab chiqarishni boshlaydi",
+    "summary": "Manbalarga ko'ra, CXMT kompaniyasi HBM3E xotira chiplarini ishlab chiqarishni boshlashni rejalashtirmoqda. Bu chiplar AI protsessorlarida qo'llaniladi, ammo ularning samaradorligi 20-30% atrofida.",
+    "tags": [
+      "chiplar"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-10-28T05:30:48.000Z",
+    "created": "2026-10-28T06:02:05.153Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/261028/p5",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "31a397f1991b",
+    "slug": "baidu-avtonom-boshqaruv-uchun-world-model-yaratmoqda-31a397",
+    "title": "Baidu avtonom boshqaruv uchun \"world model\" yaratmoqda",
+    "summary": "Baidu kompaniyasi avtonom boshqaruv ambitsiyalari kengayishi bilan \"world model\"ni ishlab chiqmoqda. Bu modellar jismoniy muhitni o'rganib, uning o'zgarishini bashorat qiladi.",
+    "tags": [
+      "Baidu",
+      "tadqiqot"
+    ],
+    "importance": 4,
+    "score": 15,
+    "published": "2026-10-28T05:14:46.000Z",
+    "created": "2026-10-28T06:02:05.153Z",
+    "coverage": 1,
+    "source": {
+      "name": "TechNode",
+      "url": "https://technode.com/2026/10/28/baidu-reportedly-developing-world-model-as-autonomous-driving-ambitions-expand",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "a254d1078b63",
     "slug": "infosys-ai-sababli-osish-sekinlashishini-kutmoqda-a254d1",
     "title": "Infosys AI sababli o'sish sekinlashishini kutmoqda",
