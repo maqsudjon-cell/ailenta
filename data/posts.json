@@ -1,5 +1,26 @@
 [
   {
+    "id": "48ea5131e236",
+    "slug": "ai-modellarining-oqish-paytidagi-moslashuvi-organildi-48ea51",
+    "title": "AI modellarining o'qish paytidagi moslashuvi o'rganildi",
+    "summary": "Tadqiqotchilar matn o'qish jarayonida modellar gradient qadamlarini bajara olishini sinab ko'rishdi. Qwen3 va Gemma-4 kabi modellarda o'tkazilgan tajribada navbatdagi token yo'qotishi 5-8 foizga kamayishi aniqlandi.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 13,
+    "published": "2026-10-28T04:00:00.000Z",
+    "created": "2026-10-28T04:02:08.779Z",
+    "coverage": 1,
+    "source": {
+      "name": "arXiv cs.LG",
+      "url": "https://arxiv.org/abs/2610.33025",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "9692c354a415",
     "slug": "avstraliya-ai-islohoti-mualliflikka-tahdid-9692c3",
     "title": "Avstraliya AI islohoti mualliflikka tahdid",
