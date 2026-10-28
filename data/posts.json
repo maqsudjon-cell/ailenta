@@ -1,5 +1,48 @@
 [
   {
+    "id": "a254d1078b63",
+    "slug": "infosys-ai-sababli-osish-sekinlashishini-kutmoqda-a254d1",
+    "title": "Infosys AI sababli o'sish sekinlashishini kutmoqda",
+    "summary": "Avtomatlashtirishdan keladigan tejash shartnomalar narxiga ta'sir qilgani uchun Infosys o'sish sekinlashishini taxmin qilmoqda. Shu bilan birga, sun'iy intellekt kompaniya biznesini ushlab turishga yordam bermoqda.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-10-28T02:18:02.000Z",
+    "created": "2026-10-28T05:01:57.236Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/channel/2026/10/28/ai-slows-growth-for-infosys-and-keeps-it-afloat-at-the-same-time/5305879",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "e2b598e63f5d",
+    "slug": "project-zero-v8-dvigatelida-ai-agentini-sinadi-e2b598",
+    "title": "Project Zero V8 dvigatelida AI agentini sinadi",
+    "summary": "Project Zero Chrome dvigatelida zaifliklarni qidirishda Fuzzilli fazzeri va BigSleep AI agentini taqqosladi. Olti oy ichida BigSleep 45 ta, Fuzzilli esa 37 ta zaiflikni topishga erishdi.",
+    "tags": [
+      "xavfsizlik",
+      "agentlar"
+    ],
+    "importance": 3,
+    "score": 14,
+    "published": "2026-10-27T19:13:24.000Z",
+    "created": "2026-10-28T05:01:57.236Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1100292",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "48ea5131e236",
     "slug": "ai-modellarining-oqish-paytidagi-moslashuvi-organildi-48ea51",
     "title": "AI modellarining o'qish paytidagi moslashuvi o'rganildi",
