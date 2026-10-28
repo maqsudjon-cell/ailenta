@@ -1,5 +1,54 @@
 [
   {
+    "id": "bc535f299322",
+    "slug": "anthropic-ipo-hujjatida-energiya-muammolari-haqida-bc535f",
+    "title": "Anthropic IPO hujjatida energiya muammolari haqida",
+    "summary": "Anthropic o'zining IPO prospektida AI rivojlanishini energiya qiyinchiliklari sekinlashtirishi mumkinligini ma'lum qildi. Kompaniya chip xaridlari va ma'lumotlar markazlari ijarasi uchun 400 milliard dollar majburiyatini oldi.",
+    "tags": [
+      "Anthropic",
+      "biznes"
+    ],
+    "importance": 4,
+    "score": 31,
+    "published": "2026-10-27T13:33:59.000Z",
+    "created": "2026-10-28T00:46:49.948Z",
+    "coverage": 2,
+    "source": {
+      "name": "Semafor",
+      "url": "https://semafor.com/article/10/27/2026/anthropic-says-energy-difficulties-could-slow-down-the-ai-buildout",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "Semafor",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSUdlS0NoOTBWMDlWQjlEaVM2RnNSdkFFNzNocDhZWjZjbENreWlvVVIwUHlTYXVfYlZTcXNhRTJiQUFCSzlnVGlWWElXRWZhaEItcUM1dmp3cU05SlNnVVpLc3dCcURJVWZqeXlrVzFpamlaUnJiMkdqWnFlYW9rSmdGeGZwR0JEX0tWY2Uxc0Q4MTk5X1I3aFdxdHVCN3plUmk2MzdNTHpXeFNCanc"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "25f88def35ec",
+    "slug": "anthropic-ipo-hujjatida-ai-xavflari-haqida-25f88d",
+    "title": "Anthropic IPO hujjatida AI xavflari haqida",
+    "summary": "Anthropic o'zining IPO prospektida moliyaviy ma'lumotlarni oshkor qildi. Kompaniya investorlarni AI modellari odamlarni shantaj qilishi, o'chirishga qarshilik ko'rsatishi yoki nazoratdan chiqishi mumkinligidan ogohlantirdi.",
+    "tags": [
+      "Anthropic",
+      "xavfsizlik"
+    ],
+    "importance": 4,
+    "score": 16.6,
+    "published": "2026-10-26T15:47:05.000Z",
+    "created": "2026-10-28T00:46:49.948Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/ai-and-ml/2026/10/26/trumpets-blare-and-skies-part-as-ai-hypefest-culminates-in-anthropic-ipo-filing/5305456",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "44f21a6b6026",
     "slug": "sk-hynix-uchinchi-chorakda-kutilgandan-yuqori-foyda-kordi-44f21a",
     "title": "SK Hynix uchinchi chorakda kutilgandan yuqori foyda ko'rdi",
