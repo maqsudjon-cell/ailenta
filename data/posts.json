@@ -1,5 +1,48 @@
 [
   {
+    "id": "44f21a6b6026",
+    "slug": "sk-hynix-uchinchi-chorakda-kutilgandan-yuqori-foyda-kordi-44f21a",
+    "title": "SK Hynix uchinchi chorakda kutilgandan yuqori foyda ko'rdi",
+    "summary": "Janubiy Koreyaning SK Hynix chip ishlab chiqaruvchisi uchinchi chorakdagi moliyaviy hisobotini e'lon qildi. Kompaniyaning foydasi AI xotira chiplariga bo'lgan talab tufayli kutilgandan yuqori bo'ldi.",
+    "tags": [
+      "chiplar",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-10-27T23:45:49.000Z",
+    "created": "2026-10-27T23:54:11.947Z",
+    "coverage": 1,
+    "source": {
+      "name": "CNBC",
+      "url": "https://cnbc.com/2026/10/28/sk-hynix-third-quarter-profit.html",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "3a61d58890b4",
+    "slug": "ibm-meynfreymlarni-ai-bilan-modernizatsiya-qiladi-3a61d5",
+    "title": "IBM meynfreymlarni AI bilan modernizatsiya qiladi",
+    "summary": "IBM kompaniyasi meynfreymlarni modernizatsiya qilish uchun sun'iy intellektdan foydalanishini ma'lum qildi. Shu maqsadda kompaniya IBM Z Atlas deb nomlangan vositani yaratishni rejalashtirmoqda.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 15.9,
+    "published": "2026-10-27T04:07:15.000Z",
+    "created": "2026-10-27T23:54:11.947Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/systems/2026/10/27/ibm-admits-mainframes-need-to-be-modernized-and-will-use-ai-to-do-the-job/5305618",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "afc52bf2bcfc",
     "slug": "buyuk-britaniyadagi-muhokamada-ai-botlar-ishlatildi-afc52b",
     "title": "Buyuk Britaniyadagi muhokamada AI botlar ishlatildi",
