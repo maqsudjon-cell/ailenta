@@ -1,5 +1,137 @@
 [
   {
+    "id": "c635c47edb31",
+    "slug": "ai-dasturlardagi-koplab-xatolarni-topmoqda-c635c4",
+    "title": "AI dasturlardagi ko'plab xatolarni topmoqda",
+    "summary": "Sun'iy intellekt dasturiy ta'minotdagi ko'plab kamchiliklarni aniqladi. Muhandislar xakerlar ulardan foydalanishidan oldin bu xatolarni tuzatishga shoshilmoqda.",
+    "tags": [
+      "xavfsizlik",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 30,
+    "published": "2026-10-28T09:04:38.000Z",
+    "created": "2026-10-28T09:38:28.406Z",
+    "coverage": 1,
+    "source": {
+      "name": "The New York Times",
+      "url": "https://nytimes.com/2026/10/28/technology/silicon-valley-bugs-ai.html",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "5893a044bf5b",
+    "slug": "ai-favqulodda-vaziyat-ogohlantirishlari-kelmoqda-5893a0",
+    "title": "AI favqulodda vaziyat ogohlantirishlari kelmoqda",
+    "summary": "Insonlar favqulodda vaziyatlardagi aloqa bilan qiynaladi. Chatbotlar bu borada yordam berishi mumkin, agar odamlar ularni jiddiy qabul qilsa.",
+    "tags": [
+      "xavfsizlik",
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 23,
+    "published": "2026-10-28T08:30:00.000Z",
+    "created": "2026-10-28T09:38:28.406Z",
+    "coverage": 1,
+    "source": {
+      "name": "Wired",
+      "url": "https://wired.com/story/ai-emergency-alerts-coming-humans-not-ready",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "79d22a6379b4",
+    "slug": "afrikada-ota-onalar-ai-matematik-oqituvchisini-qabul-qilmoqd-79d22a",
+    "title": "Afrikada ota-onalar AI matematik o'qituvchisini qabul qilmoqda",
+    "summary": "Rori nomli AI matematik o'qituvchisi Liberiya, Ruanda, Gana va Syerra-Leonedagi 250 000 ga yaqin talabaga yetib bordi. Ota-onalar ushbu vositani qo'llab-quvvatlamoqda.",
+    "tags": [
+      "ta'lim",
+      "Afrika"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-10-28T09:00:24.000Z",
+    "created": "2026-10-28T09:38:28.406Z",
+    "coverage": 1,
+    "source": {
+      "name": "Semafor",
+      "url": "https://semafor.com/article/10/26/2026/across-africa-parents-embrace-ai-math-tutor",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "a84e4346d457",
+    "slug": "taobao-ai-yordamida-kurerlar-uchun-ish-haqi-farqini-kamaytir-a84e43",
+    "title": "Taobao AI yordamida kurerlar uchun ish haqi farqini kamaytirdi",
+    "summary": "Taobao kompaniyasi oddiy AI vositasi yordamida kar kurerlarning soatlik ish haqi farqini taxminan uchdan biriga qisqartirdi. Bu mehnat bozorida inklyuzivlikni oshirishga yordam berdi.",
+    "tags": [
+      "mehnat bozori",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-10-28T09:00:19.000Z",
+    "created": "2026-10-28T09:38:28.407Z",
+    "coverage": 1,
+    "source": {
+      "name": "Semafor",
+      "url": "https://semafor.com/article/10/26/2026/taobaos-ai-enabled-deliveries-help-close-pay-gap-for-deaf-couriers",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "b5af1f8001f3",
+    "slug": "hindiston-sud-tizimida-ai-hujjatlarni-tezlashtirmoqda-b5af1f",
+    "title": "Hindiston sud tizimida AI hujjatlarni tezlashtirmoqda",
+    "summary": "Adalat AI kompaniyasi vositalari Hindistonning 11 shtatidagi 6000 ta sud zalida qo'llanilmoqda. Bu adliya tizimining ish sur'atini tezlashtirishga yordam bermoqda.",
+    "tags": [
+      "sud",
+      "siyosat"
+    ],
+    "importance": 4,
+    "score": 19,
+    "published": "2026-10-28T09:00:14.000Z",
+    "created": "2026-10-28T09:38:28.407Z",
+    "coverage": 1,
+    "source": {
+      "name": "Semafor",
+      "url": "https://semafor.com/article/10/26/2026/ai-takes-on-the-paperwork-clogging-indias-court-system",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "4303ba3814f8",
+    "slug": "ai-loyihalarining-asosiy-tosigi-integratsiya-4303ba",
+    "title": "AI loyihalarining asosiy to'sig'i — integratsiya",
+    "summary": "Katta kompaniyalarda AI loyihalarining asosiy to'sig'i model tanlash yoki GPU quvvati emas. 2026-yilda AI loyihalari aynan integratsiya bosqichida to'xtab qolmoqda.",
+    "tags": [
+      "biznes",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 17,
+    "published": "2026-10-28T08:07:12.000Z",
+    "created": "2026-10-28T09:38:28.407Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/companies/diasoft_company/articles/1100442",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "9016970e7a2d",
     "slug": "helsing-yangi-havo-mudofaa-tizimini-taqdim-etdi-901697",
     "title": "Helsing yangi havo mudofaa tizimini taqdim etdi",
