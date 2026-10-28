@@ -5,7 +5,7 @@
   <link>https://ailenta.uz/mavzu/biznes/</link>
   <description>&quot;biznes&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Wed, 28 Oct 2026 13:30:33 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 28 Oct 2026 13:45:29 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/biznes/rss.xml" rel="self" type="application/rss+xml"/>
   <item>
     <title>Hasbro AI yordamida Mr. Potato Headni jonlantirmoqda</title>
@@ -36,6 +36,16 @@
     <category>biznes</category><category>sud</category>
     <media:content url="https://ailenta.uz/og/eve-startapi-ai-bilan-yuridik-kurashda-yordam-beradi-2aa2b9.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/eve-startapi-ai-bilan-yuridik-kurashda-yordam-beradi-2aa2b9.jpg"/>
+  </item>
+  <item>
+    <title>Dalet Labs AI tasvirlar bilan xarid ilovasini ishga tushirdi</title>
+    <link>https://ailenta.uz/x/dalet-labs-ai-tasvirlar-bilan-xarid-ilovasini-ishga-tushirdi-ed9c33/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/dalet-labs-ai-tasvirlar-bilan-xarid-ilovasini-ishga-tushirdi-ed9c33/</guid>
+    <pubDate>Wed, 28 Oct 2026 12:00:01 GMT</pubDate>
+    <description>Dalet Labs kompaniyasi Scene nomli yangi ilovani taqdim etdi. Bu ilovada xarid qilish mumkin bo'lgan, AI tomonidan yaratilgan tasvirlar lentasi mavjud bo'ladi. Startap loyiha uchun 7 million dollar sarmoya jalb qilgan.</description>
+    <category>biznes</category><category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/dalet-labs-ai-tasvirlar-bilan-xarid-ilovasini-ishga-tushirdi-ed9c33.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/dalet-labs-ai-tasvirlar-bilan-xarid-ilovasini-ishga-tushirdi-ed9c33.jpg"/>
   </item>
   <item>
     <title>Macmillan samarasiz AI yordamchisi loyihasini yopdi</title>
@@ -296,16 +306,6 @@
     <category>Anthropic</category><category>biznes</category>
     <media:content url="https://ailenta.uz/og/anthropic-ipo-uchun-s-1-hujjatini-topshirdi-3dc689.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/anthropic-ipo-uchun-s-1-hujjatini-topshirdi-3dc689.jpg"/>
-  </item>
-  <item>
-    <title>macOS uchun Kumquat fayl konverteri Claude bilan yaratildi</title>
-    <link>https://ailenta.uz/x/macos-uchun-kumquat-fayl-konverteri-claude-bilan-yaratildi-1cc20e/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/macos-uchun-kumquat-fayl-konverteri-claude-bilan-yaratildi-1cc20e/</guid>
-    <pubDate>Mon, 26 Oct 2026 13:07:45 GMT</pubDate>
-    <description>Habr nashrida macOS uchun Kumquat nomli fayl konverteri yaratilgani haqida hikoya qilindi. Ushbu dastur fayllarni JPGga aylantirish, siqish va matnni tanib olish kabi funksiyalarga ega bo'lib, Claude yordamida yozilgan.</description>
-    <category>Anthropic</category><category>biznes</category>
-    <media:content url="https://ailenta.uz/og/macos-uchun-kumquat-fayl-konverteri-claude-bilan-yaratildi-1cc20e.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/macos-uchun-kumquat-fayl-konverteri-claude-bilan-yaratildi-1cc20e.jpg"/>
   </item>
 </channel>
 </rss>

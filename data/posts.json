@@ -1,5 +1,93 @@
 [
   {
+    "id": "803eec2b975d",
+    "slug": "ai-yoki-iqlim-inqirozi-insoniyatga-tahdidlar-803eec",
+    "title": "AI yoki iqlim inqirozi: insoniyatga tahdidlar",
+    "summary": "The Guardian nashri AI va iqlim inqirozi insoniyatga tahdid solayotganini yozdi. Maqolada bu xavflarning ildizi shaxsiy kompaniyalarning foyda olishga intilishi ekanligi ta'kidlangan.",
+    "tags": [
+      "siyosat",
+      "iqtisod"
+    ],
+    "importance": 3,
+    "score": 23,
+    "published": "2026-10-28T12:00:04.000Z",
+    "created": "2026-10-28T13:35:58.790Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/commentisfree/2026/oct/28/ai-climate-crisis-humanity",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "ed9c339462da",
+    "slug": "dalet-labs-ai-tasvirlar-bilan-xarid-ilovasini-ishga-tushirdi-ed9c33",
+    "title": "Dalet Labs AI tasvirlar bilan xarid ilovasini ishga tushirdi",
+    "summary": "Dalet Labs kompaniyasi Scene nomli yangi ilovani taqdim etdi. Bu ilovada xarid qilish mumkin bo'lgan, AI tomonidan yaratilgan tasvirlar lentasi mavjud bo'ladi. Startap loyiha uchun 7 million dollar sarmoya jalb qilgan.",
+    "tags": [
+      "biznes",
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-10-28T12:00:01.000Z",
+    "created": "2026-10-28T13:35:58.790Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/dalet-labs-raises-preseed-millions-shopping-app-scene-pitch-deck-2026-10",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "9cb990e4805d",
+    "slug": "tadqiqot-til-modellarida-oz-oziga-zarar-yetkazish-mexanizmi-9cb990",
+    "title": "Tadqiqot: Til modellarida o'z-o'ziga zarar yetkazish mexanizmi",
+    "summary": "Yangi tadqiqotga ko'ra, til modellarida o'z-o'ziga zarar yetkazish mexanizmi topilgan. \"The Pain Axis: LLMs Represent Self-Directed Harm and Act on It\" nomli ushbu ishda neyron tarmoqlarda shunga o'xshash xususiyatlar mavjudligi aytiladi.",
+    "tags": [
+      "tadqiqot",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 11,
+    "published": "2026-10-28T12:27:18.000Z",
+    "created": "2026-10-28T13:35:58.790Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/companies/ru_mts/articles/1100164",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "389ab8c96373",
+    "slug": "ai-yordamida-tejangan-vaqtni-olchash-boyicha-tadqiqot-389ab8",
+    "title": "AI yordamida tejangan vaqtni o'lchash bo'yicha tadqiqot",
+    "summary": "arXiv'da chop etilgan tadqiqot AI yordamida tejangan vaqtni o'lchash usullarini ko'rib chiqadi. Unda vaqtni hisoblashda yuzaga keladigan xatolarni ham inobatga olish muhimligi ta'kidlangan.",
+    "tags": [
+      "tadqiqot",
+      "mehnat bozori"
+    ],
+    "importance": 2,
+    "score": 10,
+    "published": "2026-10-28T04:00:00.000Z",
+    "created": "2026-10-28T13:35:58.790Z",
+    "coverage": 1,
+    "source": {
+      "name": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2610.35942",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "01c125be9900",
     "slug": "britaniyalik-investorlar-anthropic-aksiyalarini-qanday-sotib-01c125",
     "title": "Britaniyalik investorlar Anthropic aksiyalarini qanday sotib olishi mumkin",
