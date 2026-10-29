@@ -1,5 +1,48 @@
 [
   {
+    "id": "bbfb9487249d",
+    "slug": "erdo-g-on-turkiy-davlatlarni-aida-birlashishga-chaqirdi-bbfb94",
+    "title": "Erdo‘g‘on turkiy davlatlarni AIda birlashishga chaqirdi",
+    "summary": "Turkiya prezidenti Turkiy davlatlar tashkiloti sammiti oldidan maqola e'lon qildi. U a'zo mamlakatlarni integratsiyani kuchaytirish, O'rta yo'lakni rivojlantirish va AI sohasida kuchlarni birlashtirishga chaqirdi.",
+    "tags": [
+      "siyosat",
+      "iqtisod"
+    ],
+    "importance": 3,
+    "score": 48,
+    "published": "2026-10-29T15:13:59.000Z",
+    "created": "2026-10-29T15:47:41.203Z",
+    "coverage": 1,
+    "source": {
+      "name": "Daryo",
+      "url": "https://daryo.uz/2026/10/29/xxi-asr-turk-dunyosi-asri-boladi-erdogon",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "ac42675551a6",
+    "slug": "oracle-har-bir-ai-topshirig-i-uchun-haq-olmoqchi-ac4267",
+    "title": "Oracle har bir AI topshirig‘i uchun haq olmoqchi",
+    "summary": "Oracle AI xizmatlari uchun obunalarga qo'shimcha to'lov joriy qilmoqchi. Kompaniya foydalanuvchilar soniga emas, balki bajarilgan har bir AI topshirig'iga haq olishni rejalashtirmoqda.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-10-29T15:30:00.000Z",
+    "created": "2026-10-29T15:47:41.204Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/applications/2026/10/29/oracle-wants-to-bill-you-for-every-ai-task-not-just-every-seat/5306403",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "6a4dc94a574c",
     "slug": "proton-bosh-direktori-ai-boyicha-ikki-xil-pozitsiyada-6a4dc9",
     "title": "Proton bosh direktori AI bo'yicha ikki xil pozitsiyada",
