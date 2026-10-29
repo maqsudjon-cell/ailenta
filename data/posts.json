@@ -1,5 +1,115 @@
 [
   {
+    "id": "fe75c1c98e68",
+    "slug": "anthropic-ilm-fan-uchun-ai-loyihasini-kengaytirmoqda-fe75c1",
+    "title": "Anthropic \"Ilm-fan uchun AI\" loyihasini kengaytirmoqda",
+    "summary": "Anthropic o'zining \"Ilm-fan uchun AI\" tashabbusini fondlar va tadqiqot institutlariga kengaytirmoqda. Bu harakat sun'iy intellektni ilmiy sohalarda qo'llash imkoniyatlarini oshirishga qaratilgan.",
+    "tags": [
+      "Anthropic",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 30,
+    "published": "2026-10-28T20:14:19.000Z",
+    "created": "2026-10-29T02:40:42.295Z",
+    "coverage": 1,
+    "source": {
+      "name": "Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTE8xTmRrRUZtQndpOVdCTUFQQ2ZXSjl5Tk4zeXB0RzhSVzRYaUt3S091Y3FmRnVvT1c0UXhIVW0xZF83R2c1VUwtNjhNUkcxYWI0MFRXWXcxT2ZLdkF6bUd5V0JpTWJla3BzOWNORmdFN0ZTUkplbmZRcjRNdm5GSUVDUXp5QWwxNkRoN3JCVXo",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "52ced88a57d9",
+    "slug": "llm-ishlashi-model-hajmiga-bogliq-52ced8",
+    "title": "LLM ishlashi model hajmiga bog'liq",
+    "summary": "Ted Sandersning so'zlariga ko'ra, katta til modellarining (LLM) ishlashi ko'p o'lchovli bo'lsa-da, asosan model hajmiga bog'liq. Kattaroq modellar odatda samaraliroq, ishonchliroq va token uchun qimmatroq bo'ladi.",
+    "tags": [
+      "tadqiqot",
+      "ochiq model"
+    ],
+    "importance": 3,
+    "score": 21,
+    "published": "2026-10-28T23:23:21.000Z",
+    "created": "2026-10-29T02:40:42.295Z",
+    "coverage": 1,
+    "source": {
+      "name": "Simon Willison",
+      "url": "https://simonwillison.net/2026/Oct/28/ted-sanders",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "c07d95a36ab6",
+    "slug": "ai-boshqaruvidagi-tadqiqotga-nazorat-kerak-c07d95",
+    "title": "AI boshqaruvidagi tadqiqotga nazorat kerak",
+    "summary": "Hosseini Anthropic'ning molekulyar biologiya laboratoriyasi misolida AI boshqaruvidagi tadqiqotlarga nazorat zarurligini ta'kidladi. Bu sun'iy intellekt ishtirokidagi ilmiy ishlarning xavfsizligi va etikasi masalasini ko'taradi.",
+    "tags": [
+      "Anthropic",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 7,
+    "published": "2026-10-28T23:55:58.000Z",
+    "created": "2026-10-29T02:40:42.295Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Daily Northwestern",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNFNEVDVtQVJITG4xUDY4TThJZDhXNFpOTHpnNUdIenZfeGJjdjI2X0ZVU3FLU1ZLMzVXMlRYcmI5dm9zU1doMURaRDFYZDQzVzlKYW1vUGhpUXBGenZBUExSX05oMzJuaXNzYkZtYkxOV2FuQzZ2b1BHWVFSeENaUnMtQVVXaEhHMTBfTUFySWktQXFoNTlrVW1aWXN5VG42QXdQanJ3N2E2dmZhaEwzUVJoRDNtTEJ0bGh1UndhQU9adXhUMzJRVEU5OTZYbEZXWTNLVw",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "21c179c23d3d",
+    "slug": "ai-xodimlari-boyliklari-yoqolishidan-xavotirda-21c179",
+    "title": "AI xodimlari boyliklari yo'qolishidan xavotirda",
+    "summary": "The Business Journals xabariga ko'ra, yaqinda boyigan AI sohasidagi xodimlar o'z boyliklari yo'qolib ketishidan xavotirda. Bu sun'iy intellekt bozorining o'zgaruvchanligi bilan bog'liq.",
+    "tags": [
+      "mehnat bozori",
+      "iqtisod"
+    ],
+    "importance": 2,
+    "score": 6,
+    "published": "2026-10-28T12:13:00.000Z",
+    "created": "2026-10-29T02:40:42.295Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Business Journals",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPV01kV1ZNZTE5TGU3Skl3Z2RRcEdfTVdiOFp2TG5SRVh4TUFSUXhmWVJCaEVkVmVIWGgwZjZTRkZzckROSDJzZTlzMmJCZkZRbHY1aUtfcWNER1drXzdiRU9pNnZvY01FUFNiSlhKMUU3bHpmdHJDVzh6RVdvU1hQMEc2dElMb2FkcXZxSFE2MTM3UkFwMExGV2pNOUQ1UjZzSDdKakhBVmNScTdN",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "b939d7ffb139",
+    "slug": "meta-muse-ai-yordamchisini-janubi-sharqiy-osiyoga-kiritmoqda-b939d7",
+    "title": "Meta Muse AI yordamchisini Janubi-Sharqiy Osiyoga kiritmoqda",
+    "summary": "Vietnam.vn xabariga ko'ra, Meta o'zining Muse AI yordamchisini Janubi-Sharqiy Osiyo bozoriga olib kirmoqda. Bu Meta'ning mintaqadagi sun'iy intellekt xizmatlarini kengaytirishini anglatadi.",
+    "tags": [
+      "Meta",
+      "agentlar"
+    ],
+    "importance": 3,
+    "score": 5,
+    "published": "2026-10-28T09:31:38.000Z",
+    "created": "2026-10-29T02:40:42.295Z",
+    "coverage": 1,
+    "source": {
+      "name": "Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPLWpJRk9mNlVKOWJQR19pbUp3MTdKT2hBaUJXaGQtTk4yaUpFQXNZcHFqc1hLemYzUTU4aVV1U0xERkxQUXVjamdNNlpCalBwNjVyV1pMekJqdEFnemNkUkFwTV9xV3EtaEY0T2I3X2lXdnJtend3LUZZZnBPaFNNNA",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "6e4063072a87",
     "slug": "adam-mosseri-ai-atrofidagi-salbiylik-ortishini-aytdi-6e4063",
     "title": "Adam Mosseri AI atrofidagi salbiylik ortishini aytdi",

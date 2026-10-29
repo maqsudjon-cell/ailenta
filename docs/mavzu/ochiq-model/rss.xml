@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/ochiq-model/</link>
   <description>&quot;ochiq model&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Thu, 29 Oct 2026 02:11:08 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 29 Oct 2026 02:50:24 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/ochiq-model/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>LLM ishlashi model hajmiga bog'liq</title>
+    <link>https://ailenta.uz/x/llm-ishlashi-model-hajmiga-bogliq-52ced8/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/llm-ishlashi-model-hajmiga-bogliq-52ced8/</guid>
+    <pubDate>Wed, 28 Oct 2026 23:23:21 GMT</pubDate>
+    <description>Ted Sandersning so'zlariga ko'ra, katta til modellarining (LLM) ishlashi ko'p o'lchovli bo'lsa-da, asosan model hajmiga bog'liq. Kattaroq modellar odatda samaraliroq, ishonchliroq va token uchun qimmatroq bo'ladi.</description>
+    <category>tadqiqot</category><category>ochiq model</category>
+    <media:content url="https://ailenta.uz/og/llm-ishlashi-model-hajmiga-bogliq-52ced8.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/llm-ishlashi-model-hajmiga-bogliq-52ced8.jpg"/>
+  </item>
   <item>
     <title>Opera brauzerda mahalliy AI uchun WebAI standartini yaratdi</title>
     <link>https://ailenta.uz/x/opera-brauzerda-mahalliy-ai-uchun-webai-standartini-yaratdi-2d1cc6/</link>
@@ -296,16 +306,6 @@
     <category>tadqiqot</category><category>ochiq model</category>
     <media:content url="https://ailenta.uz/og/lmarena-ai-modellarini-taqqoslashga-yordam-beradi-2f17e5.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/lmarena-ai-modellarini-taqqoslashga-yordam-beradi-2f17e5.jpg"/>
-  </item>
-  <item>
-    <title>Black Forest Labs Flux 3 Image modelini ishga tushirdi</title>
-    <link>https://ailenta.uz/x/black-forest-labs-flux-3-image-modelini-ishga-tushirdi-15c583/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/black-forest-labs-flux-3-image-modelini-ishga-tushirdi-15c583/</guid>
-    <pubDate>Fri, 02 Oct 2026 07:44:44 GMT</pubDate>
-    <description>Black Forest Labs Flux 3 model oilasining tasvir versiyasi bo'lgan Flux 3 Image'ni chiqardi. U ko'p bosqichli tahrirlashni qo'llab-quvvatlaydi va 4K gacha tasvirlarni yaratadi.</description>
-    <category>ochiq model</category><category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/black-forest-labs-flux-3-image-modelini-ishga-tushirdi-15c583.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/black-forest-labs-flux-3-image-modelini-ishga-tushirdi-15c583.jpg"/>
   </item>
 </channel>
 </rss>
