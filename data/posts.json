@@ -1,5 +1,71 @@
 [
   {
+    "id": "6a4dc94a574c",
+    "slug": "proton-bosh-direktori-ai-boyicha-ikki-xil-pozitsiyada-6a4dc9",
+    "title": "Proton bosh direktori AI bo'yicha ikki xil pozitsiyada",
+    "summary": "Proton bosh direktori Andy Yen ommaviy ravishda AI va yirik texnologiya kompaniyalarini tanqid qiladi. Biroq, ichki tomondan u muhandislarni xavfsizlik xavotirlariga qaramay, Protonni AI bilan qurishga undamoqda.",
+    "tags": [
+      "xavfsizlik",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-10-29T14:21:49.000Z",
+    "created": "2026-10-29T15:08:22.269Z",
+    "coverage": 1,
+    "source": {
+      "name": "404 Media",
+      "url": "https://404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "cec407323f5f",
+    "slug": "nyt-cooking-ai-retsept-ozgartirishlarini-sinovdan-otkazmoqda-cec407",
+    "title": "NYT Cooking AI retsept o'zgartirishlarini sinovdan o'tkazmoqda",
+    "summary": "The New York Times o'zining Cooking ilovasida AI yordamida retseptlarni o'zgartirish funksiyasini sinovdan o'tkazmoqda. Bu xususiyat ingredientlar va jihozlarni almashtirish, shuningdek, retseptlarni miqyosini o'zgartirish imkonini beradi.",
+    "tags": [
+      "tadqiqot",
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-10-29T14:39:37.000Z",
+    "created": "2026-10-29T15:08:22.269Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Verge",
+      "url": "https://theverge.com/ai-artificial-intelligence/1022193/nyt-cooking-app-ai-recipe-modification-tool",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "308e2075fe62",
+    "slug": "agentlar-eski-kodni-yangilash-uchun-toza-kontur-usulida-308e20",
+    "title": "Agentlar eski kodni yangilash uchun \"toza kontur\" usulida",
+    "summary": "Maqolada agentlar yordamida eski kodni yangilashning \"toza kontur\" usuli tasvirlangan. Bunda agent tizimning yangi versiyasini eski kodni ko'rmasdan yozadi. Shuningdek, DeepSeek bilan agent xatti-harakatlari bo'yicha tajriba o'tkazilgan.",
+    "tags": [
+      "tadqiqot",
+      "agentlar"
+    ],
+    "importance": 3,
+    "score": 11,
+    "published": "2026-10-29T14:32:05.000Z",
+    "created": "2026-10-29T15:08:22.270Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1101314",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "cdfe332acbcd",
     "slug": "aqshda-aini-tartibga-solish-boyicha-reja-taklif-qilindi-cdfe33",
     "title": "AQShda AIni tartibga solish bo'yicha reja taklif qilindi",
