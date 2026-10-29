@@ -1,5 +1,48 @@
 [
   {
+    "id": "bcd29904c938",
+    "slug": "aqshda-ai-tartibga-solinishi-qollab-quvvatlanmoqda-bcd299",
+    "title": "AQShda AI tartibga solinishi qo'llab-quvvatlanmoqda",
+    "summary": "Semafor o'tkazgan so'rovnomaga ko'ra, saylovchilar sun'iy intellekt bo'yicha me'yoriy qoidalarni afzal ko'rmoqda. Ular hatto bu qoidalar AQSh raqobatbardoshligiga ta'sir qilsa ham xavfsizlik choralarini qo'llab-quvvatlaydi.",
+    "tags": [
+      "siyosat",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-10-29T11:05:19.000Z",
+    "created": "2026-10-29T21:56:11.065Z",
+    "coverage": 1,
+    "source": {
+      "name": "Semafor",
+      "url": "https://semafor.com/article/10/29/2026/ai-disillusionment-puts-regulation-at-forefront-ahead-of-midterms",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "b58f98a3e6c3",
+    "slug": "vrchat-platformasi-ai-yorliqlarini-kiritmaydi-b58f98",
+    "title": "VRChat platformasi AI yorliqlarini kiritmaydi",
+    "summary": "Foydalanuvchilar so'rovnomada buni xohlayotganini ko'rsatgan bo'lsa-da, VRChat AI yorliqlarini qo'shmasligini bildirdi. Platforma barcha foydalanuvchilarni birdek mamnun qilish qiyinligini ta'kidladi.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-10-29T21:48:05.000Z",
+    "created": "2026-10-29T21:56:11.066Z",
+    "coverage": 1,
+    "source": {
+      "name": "Engadget",
+      "url": "https://engadget.com/2301786/vrchat-says-its-not-adding-ai-labels-despite-user-survey-showing-people-want-that",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "03a9c782d970",
     "slug": "serval-150-mln-jalb-qilib-servicenowga-raqib-boldi-03a9c7",
     "title": "Serval $150 mln jalb qilib ServiceNow'ga raqib bo'ldi",
