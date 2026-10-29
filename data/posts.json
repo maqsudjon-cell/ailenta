@@ -1,5 +1,91 @@
 [
   {
+    "id": "7daf7f3b186d",
+    "slug": "nato-dronlarni-bashorat-qiluvchi-ai-tizimini-qollamoqda-7daf7f",
+    "title": "NATO dronlarni bashorat qiluvchi AI tizimini qo'llamoqda",
+    "summary": "Initiative 13 yoki Model 13 deb nomlangan AI tizimi tutashuv chizig'idan 31 milyagacha bo'lgan hududni qamrab oladi. U ukrainalik komandirlarga Rossiyaning keyingi zarbalarini ko'rsatib beradi.",
+    "tags": [
+      "xavfsizlik",
+      "siyosat"
+    ],
+    "importance": 4,
+    "score": 18,
+    "published": "2026-10-29T06:46:12.000Z",
+    "created": "2026-10-29T07:02:16.551Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/nato-drone-predicting-ai-give-ukraine-commanders-glimpse-russia-strikes-2026-10",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "2644cce92ebf",
+    "slug": "fransiyada-sanoat-humanoid-robotlari-taqdim-etiladi-2644cc",
+    "title": "Fransiyada sanoat humanoid robotlari taqdim etiladi",
+    "summary": "Fransiyaning robototexnika startapi yangi gumanoid robotlarini taqdim etdi. Ular atigi 20 daqiqalik o'qitishdan so'ng sanoatda ishga tushirilishi va'da qilinmoqda.",
+    "tags": [
+      "robototexnika"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-10-29T05:00:50.000Z",
+    "created": "2026-10-29T07:02:16.552Z",
+    "coverage": 1,
+    "source": {
+      "name": "Sifted",
+      "url": "https://sifted.eu/articles/french-robotics-startup-industrial-humanoids-20-minutes-of-training",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "15bc19000377",
+    "slug": "odamlar-va-ai-agentlar-uchun-yengil-ui-freymvorki-yaratildi-15bc19",
+    "title": "Odamlar va AI agentlar uchun yengil UI freymvorki yaratildi",
+    "summary": "Rust tilida odamlar va AI agentlar uchun yengil UI freymvork ishlab chiqildi. Tizim grafik UI ko'rsatishi yoki AI agentlar uchun interfeysni JSON formatida aks ettirishi mumkin.",
+    "tags": [
+      "agentlar"
+    ],
+    "importance": 2,
+    "score": 11,
+    "published": "2026-10-29T06:30:10.000Z",
+    "created": "2026-10-29T07:02:16.552Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1100946",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "b67e06ec883e",
+    "slug": "meta-foydalanuvchilarni-ai-ozgarishlaridan-ogohlantirdi-b67e06",
+    "title": "Meta foydalanuvchilarni AI o'zgarishlaridan ogohlantirdi",
+    "summary": "Facebook va Instagram foydalanuvchilariga 20-noyabrga qadar yangilanishlardan voz kechish imkoniyati berildi. Ogohlantirish platformadagi sun'iy intellektga oid yangi o'zgarishlar bilan bog'liq.",
+    "tags": [
+      "Meta",
+      "maxfiylik"
+    ],
+    "importance": 3,
+    "score": 5.8,
+    "published": "2026-10-28T15:56:55.000Z",
+    "created": "2026-10-29T07:02:16.552Z",
+    "coverage": 1,
+    "source": {
+      "name": "My London",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPa2pTZW92R08yQWNEVkxUNEFhVWNDWTN0LTAxOS1aM1ZZekpOSDBOWk1falpjbk13d3hPd3VhOUtMUmh5ZmN4WnpUcGktUXVWMWpYbTMtLW8yV2p5c2E3V3I0dUE3bEF5NlQ4S25VVFNEdV9aSFQ4bHh6UjZQbUx4QUtmbl8zR0NnNElYctIBjAFBVV95cUxPa2pTZW92R08yQWNEVkxUNEFhVWNDWTN0LTAxOS1aM1ZZekpOSDBOWk1falpjbk13d3hPd3VhOUtMUmh5ZmN4WnpUcGktUXVWMWpYbTMtLW8yV2p5c2E3V3I0dUE3bEF5NlQ4S25VVFNEdV9aSFQ4bHh6UjZQbUx4QUtmbl8zR0NnNElYcg",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "0d1885f21df0",
     "slug": "safe-road-ilovasi-malumotlar-sizib-chiqqanini-rad-etdi-0d1885",
     "title": "Safe Road ilovasi ma'lumotlar sizib chiqqanini rad etdi",

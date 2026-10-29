@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/agentlar/</link>
   <description>&quot;agentlar&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Thu, 29 Oct 2026 06:45:12 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 29 Oct 2026 07:11:58 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/agentlar/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Odamlar va AI agentlar uchun yengil UI freymvorki yaratildi</title>
+    <link>https://ailenta.uz/x/odamlar-va-ai-agentlar-uchun-yengil-ui-freymvorki-yaratildi-15bc19/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/odamlar-va-ai-agentlar-uchun-yengil-ui-freymvorki-yaratildi-15bc19/</guid>
+    <pubDate>Thu, 29 Oct 2026 06:30:10 GMT</pubDate>
+    <description>Rust tilida odamlar va AI agentlar uchun yengil UI freymvork ishlab chiqildi. Tizim grafik UI ko'rsatishi yoki AI agentlar uchun interfeysni JSON formatida aks ettirishi mumkin.</description>
+    <category>agentlar</category>
+    <media:content url="https://ailenta.uz/og/odamlar-va-ai-agentlar-uchun-yengil-ui-freymvorki-yaratildi-15bc19.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/odamlar-va-ai-agentlar-uchun-yengil-ui-freymvorki-yaratildi-15bc19.jpg"/>
+  </item>
   <item>
     <title>AI agent tizimlari qanday ishlaydi</title>
     <link>https://ailenta.uz/x/ai-agent-tizimlari-qanday-ishlaydi-25f3e1/</link>
@@ -296,16 +306,6 @@
     <category>biznes</category><category>agentlar</category>
     <media:content url="https://ailenta.uz/og/workday-moliya-direktori-ai-tasirini-olchash-haqida-668241.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/workday-moliya-direktori-ai-tasirini-olchash-haqida-668241.jpg"/>
-  </item>
-  <item>
-    <title>Azoma AI xarid agentlari startapi $11.2 mln mablag' jalb qildi</title>
-    <link>https://ailenta.uz/x/azoma-ai-xarid-agentlari-startapi-11-2-mln-mablag-jalb-qildi-b359b2/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/azoma-ai-xarid-agentlari-startapi-11-2-mln-mablag-jalb-qildi-b359b2/</guid>
-    <pubDate>Wed, 21 Oct 2026 12:00:01 GMT</pubDate>
-    <description>Brendlarga o'z mahsulotlarini sun'iy intellekt xarid agentlariga ko'rsatishda yordam beruvchi Azoma startapi 11.2 million dollar sarmoya to'pladi. Kompaniya mijozlari orasida Mars va Unilever kabi yirik korxonalar bor.</description>
-    <category>biznes</category><category>agentlar</category>
-    <media:content url="https://ailenta.uz/og/azoma-ai-xarid-agentlari-startapi-11-2-mln-mablag-jalb-qildi-b359b2.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/azoma-ai-xarid-agentlari-startapi-11-2-mln-mablag-jalb-qildi-b359b2.jpg"/>
   </item>
 </channel>
 </rss>
