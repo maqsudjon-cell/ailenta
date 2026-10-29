@@ -1,5 +1,133 @@
 [
   {
+    "id": "75b60e53a529",
+    "slug": "ozbekistonda-ichki-aviaqatnovlar-rivojlantiriladi-75b60e",
+    "title": "O'zbekistonda ichki aviaqatnovlar rivojlantiriladi",
+    "summary": "O'zbekiston 2030-yilgacha ichki aviaqatnovlarda yo'lovchilar sonini 2,5 millionga yetkazishni rejalashtirmoqda. Shuningdek, mamlakatda aeroportlarni rivojlantirish va tranzitni yengillashtirish ko'zda tutilgan.",
+    "tags": [
+      "O'zbekiston"
+    ],
+    "importance": 2,
+    "score": 44,
+    "published": "2026-10-29T17:40:00.000Z",
+    "created": "2026-10-29T18:01:47.416Z",
+    "coverage": 1,
+    "source": {
+      "name": "UzDaily",
+      "url": "https://uzdaily.uz/uz/%C3%B6zbekistonda-i%C3%A7ki-aviaqatnovlar-25-mln-y%C3%B6lov%C3%A7iga-yetkaziladi",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "d72bb5f34f04",
+    "slug": "meta-va-cnib-kozi-ojizlar-uchun-hamkorlik-boshladi-d72bb5",
+    "title": "Meta va CNIB ko'zi ojizlar uchun hamkorlik boshladi",
+    "summary": "Meta va CNIB tashkiloti ko'zi ojiz va ko'rish qobiliyati cheklangan kanadaliklarga AI ko'zoynaklaridan foydalanishda yordam berish uchun hamkorlik qilmoqda. Meta ajratgan mablag' CNIB faoliyatini qo'llab-quvvatlaydi.",
+    "tags": [
+      "Meta"
+    ],
+    "importance": 3,
+    "score": 36,
+    "published": "2026-10-29T17:00:36.000Z",
+    "created": "2026-10-29T18:01:47.417Z",
+    "coverage": 1,
+    "source": {
+      "name": "Meta",
+      "url": "https://about.fb.com/news/2026/10/the-future-is-for-everyone-meta-and-cnib-partner-to-support-canadians-who-are-blind-deafblind-or-have-low-vision",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "7bf0065ceb16",
+    "slug": "openai-yangilangan-model-spec-yoriqnomasini-elon-qildi-7bf006",
+    "title": "OpenAI yangilangan Model Spec yo'riqnomasini e'lon qildi",
+    "summary": "OpenAI kompaniyasi sun'iy intellektni to'g'ri qaror qabul qilish va inson niyatlariga moslashishga yo'naltiruvchi yangilangan Model Spec hujjatini taqdim etdi. Unda AI rivojlanishi uchun beshta asosiy qadriyat belgilangan.",
+    "tags": [
+      "OpenAI",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 36,
+    "published": "2026-10-29T17:00:00.000Z",
+    "created": "2026-10-29T18:01:47.417Z",
+    "coverage": 1,
+    "source": {
+      "name": "OpenAI",
+      "url": "https://openai.com/index/updated-model-spec",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "2d9928289658",
+    "slug": "ropes-gray-openai-bilan-birga-yuridik-ai-yaratmoqda-2d9928",
+    "title": "Ropes & Gray OpenAI bilan birga yuridik AI yaratmoqda",
+    "summary": "Ropes & Gray kompaniyasi OpenAI bilan birgalikda tranzaksion tekshiruvlar uchun sun'iy intellekt ishlab chiqmoqda. Yuristler mijozlarga maslahat berishdan oldin guruhlangan hujjatlar va hisobotlarni ko'rib chiqadi.",
+    "tags": [
+      "OpenAI",
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 36,
+    "published": "2026-10-29T07:00:00.000Z",
+    "created": "2026-10-29T18:01:47.417Z",
+    "coverage": 1,
+    "source": {
+      "name": "OpenAI",
+      "url": "https://openai.com/index/ropes-gray-ai-diligence",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "c1536c694606",
+    "slug": "korporativ-ai-uchun-malumotlar-bazasi-talablari-aytildi-c1536c",
+    "title": "Korporativ AI uchun ma'lumotlar bazasi talablari aytildi",
+    "summary": "Maykl Stounbreyker va Bryus Momjian korporativ sun'iy intellektga hech kim nazorat qilmaydigan ma'lumotlar bazasi nima uchun kerakligini tushuntirib berdi. Ular PostgreSQL 19 versiyasining kelajagiga ham to'xtalgan.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 19,
+    "published": "2026-10-29T15:00:00.000Z",
+    "created": "2026-10-29T18:01:47.417Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/databases/2026/10/29/partner-content-built-to-bend-postgress-inventor-and-a-steward-on-what-ai-really-needs/5305957",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "4dcfcc0d1943",
+    "slug": "dream-startapi-qurilish-uchun-ai-dunyo-modelini-yaratmoqda-4dcfcc",
+    "title": "Dream startapi qurilish uchun AI dunyo modelini yaratmoqda",
+    "summary": "Palantir sobiq rahbarlari a16z fondidan 17 million dollar mablag' jalb qilib Dream startapiga asos soldi. Kompaniya qurilish sohasi uchun fizika qonunlari va AQSh binolar ma'lumotlariga asoslangan dunyo modelini o'qitmoqda.",
+    "tags": [
+      "iqtisod"
+    ],
+    "importance": 3,
+    "score": 18,
+    "published": "2026-10-29T16:21:00.000Z",
+    "created": "2026-10-29T18:01:47.417Z",
+    "coverage": 1,
+    "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "deef57dceb9f",
     "slug": "anthropic-texasdagi-data-markazi-loyihasi-toxtatildi-deef57",
     "title": "Anthropic Texasdagi data-markazi loyihasi to'xtatildi",

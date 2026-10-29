@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/tadqiqot/</link>
   <description>&quot;tadqiqot&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Thu, 29 Oct 2026 17:40:51 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 29 Oct 2026 18:09:24 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/tadqiqot/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Korporativ AI uchun ma'lumotlar bazasi talablari aytildi</title>
+    <link>https://ailenta.uz/x/korporativ-ai-uchun-malumotlar-bazasi-talablari-aytildi-c1536c/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/korporativ-ai-uchun-malumotlar-bazasi-talablari-aytildi-c1536c/</guid>
+    <pubDate>Thu, 29 Oct 2026 15:00:00 GMT</pubDate>
+    <description>Maykl Stounbreyker va Bryus Momjian korporativ sun'iy intellektga hech kim nazorat qilmaydigan ma'lumotlar bazasi nima uchun kerakligini tushuntirib berdi. Ular PostgreSQL 19 versiyasining kelajagiga ham to'xtalgan.</description>
+    <category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/korporativ-ai-uchun-malumotlar-bazasi-talablari-aytildi-c1536c.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/korporativ-ai-uchun-malumotlar-bazasi-talablari-aytildi-c1536c.jpg"/>
+  </item>
   <item>
     <title>NYT Cooking AI retsept o'zgartirishlarini sinovdan o'tkazmoqda</title>
     <link>https://ailenta.uz/x/nyt-cooking-ai-retsept-ozgartirishlarini-sinovdan-otkazmoqda-cec407/</link>
@@ -296,16 +306,6 @@
     <category>maxfiylik</category><category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/recopii-pii-ni-niqoblash-uchun-yangi-tizim-838fb6.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/recopii-pii-ni-niqoblash-uchun-yangi-tizim-838fb6.jpg"/>
-  </item>
-  <item>
-    <title>AI yordamida tejangan vaqtni o'lchash bo'yicha tadqiqot</title>
-    <link>https://ailenta.uz/x/ai-yordamida-tejangan-vaqtni-olchash-boyicha-tadqiqot-389ab8/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/ai-yordamida-tejangan-vaqtni-olchash-boyicha-tadqiqot-389ab8/</guid>
-    <pubDate>Wed, 28 Oct 2026 04:00:00 GMT</pubDate>
-    <description>arXiv'da chop etilgan tadqiqot AI yordamida tejangan vaqtni o'lchash usullarini ko'rib chiqadi. Unda vaqtni hisoblashda yuzaga keladigan xatolarni ham inobatga olish muhimligi ta'kidlangan.</description>
-    <category>tadqiqot</category><category>mehnat bozori</category>
-    <media:content url="https://ailenta.uz/og/ai-yordamida-tejangan-vaqtni-olchash-boyicha-tadqiqot-389ab8.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/ai-yordamida-tejangan-vaqtni-olchash-boyicha-tadqiqot-389ab8.jpg"/>
   </item>
 </channel>
 </rss>
