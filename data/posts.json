@@ -1,5 +1,133 @@
 [
   {
+    "id": "0d1885f21df0",
+    "slug": "safe-road-ilovasi-malumotlar-sizib-chiqqanini-rad-etdi-0d1885",
+    "title": "Safe Road ilovasi ma'lumotlar sizib chiqqanini rad etdi",
+    "summary": "Safe Road ilovasi foydalanuvchilarining shaxsiy ma'lumotlari tarqalgani va Telegram botlarida sotilayotgani haqida xabarlar tarqaldi. Kompaniya bu xabarlarni qat'iyan rad etdi. Ular buni bozordagi nosog'lom raqobat deb baholamoqda.",
+    "tags": [
+      "O'zbekiston",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 45,
+    "published": "2026-10-29T04:49:09.000Z",
+    "created": "2026-10-29T06:02:26.070Z",
+    "coverage": 1,
+    "source": {
+      "name": "Daryo",
+      "url": "https://daryo.uz/2026/10/29/safe-road-ilovasi-foydalanuvchilarining-malumotlari-tarqalgani-aytilmoqda",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "596f834d39ef",
+    "slug": "aqshda-xodimlarning-ishga-bagliqligi-pasayib-ketdi-596f83",
+    "title": "AQShda xodimlarning ishga bag'liqligi pasayib ketdi",
+    "summary": "Gallup so'roviga ko'ra, AQShda xodimlarning o'z ishiga bo'lgan ishtiyoqi 2011-yildan beridagi eng past darajaga tushdi. Masofaviy ish va AI bunga asosiy omil sifatida ko'rsatilgan.",
+    "tags": [
+      "mehnat bozori"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-10-29T04:01:01.000Z",
+    "created": "2026-10-29T06:02:26.070Z",
+    "coverage": 1,
+    "source": {
+      "name": "CNBC",
+      "url": "https://cnbc.com/2026/10/29/us-employee-engagement-gallup-poll.html",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "64beab874307",
+    "slug": "fujifilm-lenta-ishlab-chiqarishni-5-baravarga-oshiradi-64beab",
+    "title": "Fujifilm lenta ishlab chiqarishni 5 baravarga oshiradi",
+    "summary": "Fujifilm kompaniyasi lentali xotira moslamalarini ishlab chiqarish quvvatini 5 baravar oshirishini ma'lum qildi. Bunga sun'iy intellektga bo'lgan talabning ortishi sabab bo'lmoqda.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-10-29T03:34:32.000Z",
+    "created": "2026-10-29T06:02:26.070Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/storage/2026/10/29/tape-is-so-not-dead-that-fujifilm-will-increase-production-capacity-5x/5306189",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "3dae1357694a",
+    "slug": "tencent-visual-imkoniyatga-ega-hy4-ai-modellarini-chiqaradi-3dae13",
+    "title": "Tencent visual imkoniyatga ega Hy4 AI modellarini chiqaradi",
+    "summary": "Tencent kompaniyasi tez orada Hy4 va Hy4 flash AI modellarini chiqarishni rejalashtirmoqda. Ushbu modellar tasvirlarni tushunish imkoniyatiga ega bo'ladi hamda fikrlash topshiriqlarida samaradorlikni oshiradi.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 18,
+    "published": "2026-10-29T05:16:52.000Z",
+    "created": "2026-10-29T06:02:26.070Z",
+    "coverage": 1,
+    "source": {
+      "name": "TechNode",
+      "url": "https://technode.com/2026/10/29/tencent-says-upcoming-hy4-and-hy4-flash-models-will-support-visual-understanding",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "12264c863967",
+    "slug": "li-auto-oz-chipiga-ega-yangi-i6-krossoverini-chiqardi-12264c",
+    "title": "Li Auto o'z chipiga ega yangi i6 krossoverini chiqardi",
+    "summary": "Li Auto kompaniyasi Mach M100 avtopilot chipi bilan jihozlangan i6 elektr krossoverining yangilangan versiyasini taqdim etdi. Avtomobil kattaroq akkumulyatorga ega bo'lib, uning narxi 239 800 yuandan boshlanadi.",
+    "tags": [
+      "chiplar",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-10-29T05:16:52.000Z",
+    "created": "2026-10-29T06:02:26.070Z",
+    "coverage": 1,
+    "source": {
+      "name": "TechNode",
+      "url": "https://technode.com/2026/10/29/li-auto-launches-updated-i6-suv-with-in-house-driving-chip-and-larger-battery",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "2c233d767c11",
+    "slug": "shopify-rahbari-ai-bilan-stressli-majlislarni-aniqlaydi-2c233d",
+    "title": "Shopify rahbari AI bilan stressli majlislarni aniqlaydi",
+    "summary": "Shopify bosh ijrochi direktori Tobi Lyutke o'zining vino yerto'lasida shaxsiy AI yordamchisini yo'lga qo'ydi. Ushbu tizim Fitbit ma'lumotlari asosida eng ko'p stress keltirib chiqaradigan uchrashuvlarni aniqlaydi.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-10-29T04:01:01.000Z",
+    "created": "2026-10-29T06:02:26.070Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/shopify-ceo-cellar-ai-server-that-tracks-stress-2026-10",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "8dfbd3ab88d8",
     "slug": "meta-ai-infratuzilmasi-uchun-kapital-yigmoqchi-8dfbd3",
     "title": "Meta AI infratuzilmasi uchun kapital yig'moqchi",
