@@ -1,5 +1,70 @@
 [
   {
+    "id": "1e0e2c583cc8",
+    "slug": "viktoriya-advokatlarining-yarmi-ai-ishlatmoqda-1e0e2c",
+    "title": "Viktoriya advokatlarining yarmi AI ishlatmoqda",
+    "summary": "Yangi tadqiqotga ko'ra, Viktoriyadagi advokatlarning 55 foizi o'z ishida sun'iy intellektdan foydalanadi. Biroq ularning atigi to'rtdan bir qismi mijozlar uchun to'lovlarni kamaytirgan. Shuningdek, mijozlarning chatbotlardan foydalanishi advokatlar ishini ko'paytirgan.",
+    "tags": [
+      "tadqiqot",
+      "qonun"
+    ],
+    "importance": 3,
+    "score": 23,
+    "published": "2026-10-29T23:00:37.000Z",
+    "created": "2026-10-29T23:12:17.494Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/law/2026/oct/30/victorian-lawyers-ai-clients-fees",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "b7fa399b3e35",
+    "slug": "smartbird-oyoq-kiyim-biznesidan-ai-infratuzilmasiga-otdi-b7fa39",
+    "title": "Smartbird oyoq kiyim biznesidan AI infratuzilmasiga o'tdi",
+    "summary": "Smartbird kompaniyasi bosh direktori Nadya Karlsten kompaniya qanday qilib krossovkalar sotishdan AI infratuzilmasi yo'nalishiga o'tgani haqida gapirdi. Bu haqda u Business Insider tadbirida ma'lum qildi.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-10-29T22:08:52.000Z",
+    "created": "2026-10-29T23:12:17.494Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/smartbird-ceo-sneakers-ai-allbirds-2026-10",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "169aca9d9c2a",
+    "slug": "microsoft-60-ming-xodimiga-kongilli-ketishni-taklif-qildi-169aca",
+    "title": "Microsoft 60 ming xodimiga ko'ngilli ketishni taklif qildi",
+    "summary": "Microsoft kompaniyasi AQSh, Buyuk Britaniya va Kanadadagi taxminan 60 ming xodimiga ko'ngilli ravishda ishdan bo'shashni taklif qilmoqda. Bu AI sababli kompaniya shtatidagi o'zgarishlar bilan bog'liq.",
+    "tags": [
+      "Microsoft",
+      "mehnat bozori"
+    ],
+    "importance": 4,
+    "score": 15,
+    "published": "2026-10-29T16:00:00.000Z",
+    "created": "2026-10-29T23:12:17.494Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Verge",
+      "url": "https://theverge.com/tech/1022023/microsoft-exit-offer-layoffs-notepad",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "bcd29904c938",
     "slug": "aqshda-ai-tartibga-solinishi-qollab-quvvatlanmoqda-bcd299",
     "title": "AQShda AI tartibga solinishi qo'llab-quvvatlanmoqda",
