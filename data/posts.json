@@ -1,5 +1,48 @@
 [
   {
+    "id": "deef57dceb9f",
+    "slug": "anthropic-texasdagi-data-markazi-loyihasi-toxtatildi-deef57",
+    "title": "Anthropic Texasdagi data-markazi loyihasi to'xtatildi",
+    "summary": "Bloomberg xabariga ko'ra, banklar Anthropic bilan bog'liq Texasdagi ma'lumotlar markazi uchun obligatsiyalar sotuvini to'xtatdi.",
+    "tags": [
+      "Anthropic",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 30,
+    "published": "2026-10-29T13:51:24.000Z",
+    "created": "2026-10-29T17:09:06.925Z",
+    "coverage": 1,
+    "source": {
+      "name": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTWZ1cFJjWU12d2ZBMU9WVTFvbXFMdXBwaUFMRko0VXBXYkZadEM1dDRsRi04QjR6TjE1NmhpOGY3bDBNdjlrWXUtT29uc2NTNmpVTzE4QnQ0ZkRtNURPOG1OZW5QOGFyMGJ2R196NFhxTThFZGlpSV9PdlVBRFJXdm0wdHRzSnpOTEtPR18ybFpXSGZESWNxeEhEdGotYUJNOHhXYVR3XzlDVlVabjhV",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "8b27ac144217",
+    "slug": "mark-kyuban-data-markazlar-boyicha-ogohlantirdi-8b27ac",
+    "title": "Mark Kyuban data-markazlar bo'yicha ogohlantirdi",
+    "summary": "Mark Kyuban ko'plab mahalliy jamoalar ma'lumotlar markazlari bo'yicha muzokaralarda xatoga yo'l qo'yganini aytdi. Uning ta'kidlashicha, ular shartnomalarda tuzoqqa tushib qolmoqda.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-10-29T14:31:08.000Z",
+    "created": "2026-10-29T17:09:06.925Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/mark-cuban-data-centers-contractual-terrorism-communities-2026-10",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "bbfb9487249d",
     "slug": "erdo-g-on-turkiy-davlatlarni-aida-birlashishga-chaqirdi-bbfb94",
     "title": "Erdo‘g‘on turkiy davlatlarni AIda birlashishga chaqirdi",
