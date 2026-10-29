@@ -1,5 +1,71 @@
 [
   {
+    "id": "6e4063072a87",
+    "slug": "adam-mosseri-ai-atrofidagi-salbiylik-ortishini-aytdi-6e4063",
+    "title": "Adam Mosseri AI atrofidagi salbiylik ortishini aytdi",
+    "summary": "Instagram rahbari Adam Mosseri bergan intervyusida ko'pchilik sun'iy intellektni yoqtirmasligini tan oldi. Uning ta'kidlashicha, ushbu texnologiyaga nisbatan salbiy munosabat kelgusida yanada kuchayib boradi.",
+    "tags": [
+      "Meta"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-10-28T23:05:39.000Z",
+    "created": "2026-10-29T00:01:23.325Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Verge",
+      "url": "https://theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity",
+      "title": "Adam Mosseri says negativity around AI is ‘going to get worse’",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "7601a6c3f779",
+    "slug": "alphabet-daromadi-25-foizga-osdi-7601a6",
+    "title": "Alphabet daromadi 25 foizga o'sdi",
+    "summary": "Kompaniya daromadi 25 foizga oshgan bo'lsa-da, investitsiyalar qiymatidagi o'zgarishlar sababli sof foyda tushdi. Alphabet sun'iy intellekt infratuzilmasiga katta mablag' sarflamoqda va kelasi yili investitsiyalarni yanada oshirishini ma'lum qildi.",
+    "tags": [
+      "Google",
+      "biznes"
+    ],
+    "importance": 4,
+    "score": 27,
+    "published": "2026-10-28T22:13:58.000Z",
+    "created": "2026-10-29T00:01:23.643Z",
+    "coverage": 1,
+    "source": {
+      "name": "The New York Times",
+      "url": "https://nytimes.com/2026/10/28/technology/alphabet-earnings-google-ai.html",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "9898e8eeb704",
+    "slug": "microsoft-ai-xarajatlari-prognozini-pasaytirdi-9898e8",
+    "title": "Microsoft AI xarajatlari prognozini pasaytirdi",
+    "summary": "Kompaniyaning moliya direktori Emi Xud uchinchi tomon quvvatlaridagi kechikishlar tufayli kapital xarajatlar prognozi qisqartirilganini ma'lum qildi. Uoll-strit esa kompaniyaning AI sarf-xarajatlari samarasini qat'iy tekshirmoqda.",
+    "tags": [
+      "Microsoft",
+      "biznes"
+    ],
+    "importance": 4,
+    "score": 15,
+    "published": "2026-10-28T22:58:41.000Z",
+    "created": "2026-10-29T00:01:23.643Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/microsoft-trims-ai-spending-plans-to-170b-as-azure-revenue-surges-2026-10",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "c2d76a72f6e5",
     "slug": "anthropic-xavfli-ai-modellarini-sudlar-bloklashi-kerak-c2d76a",
     "title": "Anthropic: xavfli AI modellarini sudlar bloklashi kerak",
