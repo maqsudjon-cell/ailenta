@@ -1,5 +1,71 @@
 [
   {
+    "id": "fb897472fc24",
+    "slug": "microsoft-ai-rahbari-ish-jarayonlarini-ozgartirmoqda-fb8974",
+    "title": "Microsoft AI rahbari ish jarayonlarini o'zgartirmoqda",
+    "summary": "Microsoft kompaniyasining Copilot va AI agentlari bo'yicha rahbari ish uslublarini qayta shakllantirmoqda. Bu o'zgarishlar Office va boshqa muhim bo'limlarga ta'sir qilmoqda.",
+    "tags": [
+      "Microsoft",
+      "agentlar"
+    ],
+    "importance": 3,
+    "score": 18,
+    "published": "2026-10-29T09:00:01.000Z",
+    "created": "2026-10-29T09:37:15.640Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/microsoft-copilot-office-boss-flattens-teams-tightens-rto-trules-2026-10",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "4c07c0125bb6",
+    "slug": "matematiklarga-ai-davrida-muloqot-konikmalari-kerak-4c07c0",
+    "title": "Matematiklarga AI davrida muloqot ko'nikmalari kerak",
+    "summary": "Kornell universiteti professori AI hisoblash ishlarini bajarayotganini ta'kidladi. Shu sababli matematiklar muloqot va ijtimoiy ko'nikmalarni rivojlantirishi zarur.",
+    "tags": [
+      "ta'lim",
+      "mehnat bozori"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-10-29T09:17:01.000Z",
+    "created": "2026-10-29T09:37:15.641Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/cornell-professor-steven-strogatz-mathematicians-need-rizz-ai-era-2026-10",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "5e8d2e7b213d",
+    "slug": "ai-xizmatlarining-server-infratuzilmasi-qanday-ishlaydi-5e8d2e",
+    "title": "AI xizmatlarining server infratuzilmasi qanday ishlaydi",
+    "summary": "Selectel vakili AI xizmatlarining server infratuzilmasi qanday tuzilganini tushuntirib berdi. Tizimda KV-kesh, partiyalash, kvantlash va GPU apparat vositalari qo'llaniladi.",
+    "tags": [
+      "bulut",
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 14,
+    "published": "2026-10-29T08:00:43.000Z",
+    "created": "2026-10-29T09:37:15.641Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/companies/selectel/articles/1099322",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "fafc66f35bed",
     "slug": "afl-cio-ai-qonun-loyihasini-tayyorlamoqda-fafc66",
     "title": "AFL-CIO AI qonun loyihasini tayyorlamoqda",
