@@ -5,7 +5,7 @@
   <link>https://ailenta.uz/mavzu/chiplar/</link>
   <description>&quot;chiplar&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Thu, 29 Oct 2026 12:46:02 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 29 Oct 2026 13:10:18 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/chiplar/rss.xml" rel="self" type="application/rss+xml"/>
   <item>
     <title>Li Auto o'z chipiga ega yangi i6 krossoverini chiqardi</title>
@@ -26,6 +26,16 @@
     <category>iqtisod</category><category>chiplar</category>
     <media:content url="https://ailenta.uz/og/sk-hynix-daromadi-ai-aksiyalari-osishini-korsatdi-c41ab6.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/sk-hynix-daromadi-ai-aksiyalari-osishini-korsatdi-c41ab6.jpg"/>
+  </item>
+  <item>
+    <title>HP AI talabi tufayli ishlab chiqarishni Xitoyga qaytarmoqda</title>
+    <link>https://ailenta.uz/x/hp-ai-talabi-tufayli-ishlab-chiqarishni-xitoyga-qaytarmoqda-13c777/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/hp-ai-talabi-tufayli-ishlab-chiqarishni-xitoyga-qaytarmoqda-13c777/</guid>
+    <pubDate>Wed, 28 Oct 2026 22:26:21 GMT</pubDate>
+    <description>HP kompaniyasi xotira va saqlash chiplari narxining oshishi sababli ishlab chiqarishning bir qismini Xitoyga qaytarmoqda. Bu o'sish sun'iy intellektga bo'lgan talab bilan bog'liq.</description>
+    <category>chiplar</category><category>biznes</category>
+    <media:content url="https://ailenta.uz/og/hp-ai-talabi-tufayli-ishlab-chiqarishni-xitoyga-qaytarmoqda-13c777.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/hp-ai-talabi-tufayli-ishlab-chiqarishni-xitoyga-qaytarmoqda-13c777.jpg"/>
   </item>
   <item>
     <title>Malayziyada 12,11 mln dollarlik AI chiplari ushlandi</title>
@@ -296,16 +306,6 @@
     <category>xavfsizlik</category><category>chiplar</category>
     <media:content url="https://ailenta.uz/og/tencent-marvis-ai-yordamchisini-kylin-tizimiga-chiqardi-1f3e49.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/tencent-marvis-ai-yordamchisini-kylin-tizimiga-chiqardi-1f3e49.jpg"/>
-  </item>
-  <item>
-    <title>Hugging Face TorchTPU bilan hamkorlikni e'lon qildi</title>
-    <link>https://ailenta.uz/x/hugging-face-torchtpu-bilan-hamkorlikni-elon-qildi-84cd8d/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/hugging-face-torchtpu-bilan-hamkorlikni-elon-qildi-84cd8d/</guid>
-    <pubDate>Tue, 20 Oct 2026 00:00:00 GMT</pubDate>
-    <description>Hugging Face TorchTPU bilan hamkorlikda TPUlarni mahalliy qo'llab-quvvatlashni e'lon qildi. Bu rivojlanish foydalanuvchilarga TPUlardan yanada samarali foydalanish imkonini beradi.</description>
-    <category>Hugging Face</category><category>chiplar</category>
-    <media:content url="https://ailenta.uz/og/hugging-face-torchtpu-bilan-hamkorlikni-elon-qildi-84cd8d.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/hugging-face-torchtpu-bilan-hamkorlikni-elon-qildi-84cd8d.jpg"/>
   </item>
 </channel>
 </rss>

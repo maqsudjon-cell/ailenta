@@ -1,5 +1,114 @@
 [
   {
+    "id": "56241823441c",
+    "slug": "uklon-ozbekiston-taksi-bozorida-ustun-mavqega-ega-562418",
+    "title": "Uklon O'zbekiston taksi bozorida ustun mavqega ega",
+    "summary": "O'zbekiston Raqobat qo'mitasi Uklon UB kompaniyasini taksi xizmatlari bozorida ustun mavqega ega deb topdi. Bu kompaniya raqamli platforma operatori sifatida tan olindi.",
+    "tags": [
+      "O'zbekiston",
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 41,
+    "published": "2026-10-29T10:35:00.000Z",
+    "created": "2026-10-29T13:02:41.082Z",
+    "coverage": 1,
+    "source": {
+      "name": "UzDaily",
+      "url": "https://uzdaily.uz/uz/uklon-%C3%B6zbekistonda-raqamli-platforma-bozorida-ustun-mavqega-ega-operator-deb-topildi",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "10b1813a086d",
+    "slug": "ai-botlari-yosh-ayol-komediyachilarning-hazillarini-ogirlamo-10b181",
+    "title": "AI botlari yosh ayol komediyachilarning hazillarini o'g'irlamoqda",
+    "summary": "Sun'iy intellekt botlari yosh ayol komediyachilarning hazillarini so'zma-so'z o'g'irlayotgani aniqlandi. Bu holat tomoshabinlarga sezilmas ta'sir ko'rsatmoqda.",
+    "tags": [
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 27,
+    "published": "2026-10-29T11:15:18.000Z",
+    "created": "2026-10-29T13:02:41.082Z",
+    "coverage": 1,
+    "source": {
+      "name": "The New York Times",
+      "url": "https://nytimes.com/2026/10/29/arts/ai-bots-jokes-theft-comedians.html",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "e323a8905e89",
+    "slug": "kompaniyalarga-bosh-kvant-ofitseri-kerakmi-e323a8",
+    "title": "Kompaniyalarga bosh kvant ofitseri kerakmi",
+    "summary": "Sun'iy intellektning rivojlanishi bosh AI ofitseri lavozimini muhim qildi. Kvant kompyuterlari tijorat maqsadlarida qo'llanila boshlagach, yangi ijrochi lavozim paydo bo'lishi mumkin.",
+    "tags": [
+      "biznes",
+      "mehnat bozori"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-10-29T11:03:04.000Z",
+    "created": "2026-10-29T13:02:41.082Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/10/29/does-your-company-need-a-chief-quantum-officer",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "13c777157c53",
+    "slug": "hp-ai-talabi-tufayli-ishlab-chiqarishni-xitoyga-qaytarmoqda-13c777",
+    "title": "HP AI talabi tufayli ishlab chiqarishni Xitoyga qaytarmoqda",
+    "summary": "HP kompaniyasi xotira va saqlash chiplari narxining oshishi sababli ishlab chiqarishning bir qismini Xitoyga qaytarmoqda. Bu o'sish sun'iy intellektga bo'lgan talab bilan bog'liq.",
+    "tags": [
+      "chiplar",
+      "biznes"
+    ],
+    "importance": 4,
+    "score": 18,
+    "published": "2026-10-28T22:26:21.000Z",
+    "created": "2026-10-29T13:02:41.082Z",
+    "coverage": 1,
+    "source": {
+      "name": "Semafor",
+      "url": "https://semafor.com/article/10/28/2026/hp-shifts-production-back-to-china-as-costs-soar",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "061637e5f408",
+    "slug": "gazprom-neft-neft-retseptlari-uchun-neyroset-yaratdi-061637",
+    "title": "Gazprom Neft neft retseptlari uchun neyroset yaratdi",
+    "summary": "\"Gazprom Neft\" kompaniyasi neft retsepturalari uchun \"Alximik\" nomli neyrosetni ishlab chiqdi. Bu dasturiy ta'minot ishlab chiqish muddatini olti oydan bir oyga qisqartirdi.",
+    "tags": [
+      "biznes",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 11,
+    "published": "2026-10-29T12:50:30.000Z",
+    "created": "2026-10-29T13:02:41.082Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1101256",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "01444c3c3864",
     "slug": "anthropic-ipo-jarayoniga-yaqinlashmoqda-01444c",
     "title": "Anthropic IPO jarayoniga yaqinlashmoqda",
