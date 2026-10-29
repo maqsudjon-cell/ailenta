@@ -1,5 +1,144 @@
 [
   {
+    "id": "01444c3c3864",
+    "slug": "anthropic-ipo-jarayoniga-yaqinlashmoqda-01444c",
+    "title": "Anthropic IPO jarayoniga yaqinlashmoqda",
+    "summary": "Anthropic kompaniyasining aksiyalarni ommaviy joylashtirish jarayoni yaqinlashmoqda. Shuningdek, AQSh prezidenti Donald Trampning sun'iy intellekt atamasiga taqiqi muhokama qilinmoqda.",
+    "tags": [
+      "Anthropic",
+      "biznes"
+    ],
+    "importance": 4,
+    "score": 36,
+    "published": "2026-10-29T09:58:29.000Z",
+    "created": "2026-10-29T12:36:22.963Z",
+    "coverage": 2,
+    "source": {
+      "name": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9uRm8xcE1GWDVFcWEtVEVzdi1DS0N6RGFPSmRxZUxQUGk0RF9SWmFLVWlxa0NZWE5aVXhvX2JXQnJ4MmNRemI5MG5FbVlUcXBmV01EQjVhSE5YRnFNNUNsM0kzdVEwcTQ",
+      "indirect": true
+    },
+    "also": [
+      {
+        "name": "www.marketscreener.com",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMXNBVU9CWlpqNlRnX2lmVkY2UER0U0hjX2hLN3kxWVBoREM1MFBsdkNIT2F0bTlHdFR4RVd2SmRTTjByaWR6X1dXNXJNTWg4T3Z3QXNNYy1oWHBNNzJKVHRYLWZPdXpqdmMxby0tLVQ3NmI0ekJNSFRSSW1Yd05hUWpBYlJLaUY0T2RwSVg2ZDM5a1FMMXg5RUwwLXF0Qkx5Yk9VOTNuNU5kd0d5ZlNmYzNydXlhZw"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "0446a1efc5ff",
+    "slug": "shimoliy-karolinaning-anthropicdagi-ulushi-oshdi-0446a1",
+    "title": "Shimoliy Karolinaning Anthropic'dagi ulushi oshdi",
+    "summary": "Shimoliy Karolina shtatining Anthropic kompaniyasidagi 250 million dollarlik ulushi sun'iy intellektga qilingan tikishlar ortidan 560 million dollargacha qimmatlashdi.",
+    "tags": [
+      "Anthropic",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 28,
+    "published": "2026-10-29T11:15:51.000Z",
+    "created": "2026-10-29T12:36:22.964Z",
+    "coverage": 2,
+    "source": {
+      "name": "CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNUk4ZVFORlJsQmozaC1tWWtmVWYxc1o4REthQlV4Ulh4THhhaTg3TXk1NEJnaV9jWnZDR3lTc3RxTUdNQkl1VVFZd0NlbWN3aGxWX0tNR3AxT05UMUNtMi1xYkVnMlZBM0pWaFRrd2tSTHBmbUw3aTFjRUFxbTZwWlVBUlVTLU9LeGxlbVB0aGI3RXFzMjBmU21RWUNxaldCYld3VEo5YVhSQ2piRVRaN3dUYw",
+      "indirect": true
+    },
+    "also": [
+      {
+        "name": "FourWeekMBA",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPb25RenNiaUxGRkp4OU1XZGxUZWc0S2R2MG5ZSm0wWXIzcTB1Nml0bkhmQ0psRWVBdGMzNUlSdVJ4SE84UXJZeWxYdk5udURiTjcxYlFQNkZJNGhDRzdOcUJZVWFTcExqeU5vOXp1LThzZFUyaHJqNjY3QzlOV0xUQXJILVk3NG13VUlF"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "8456c9a49070",
+    "slug": "bashoratchilar-ai-chatbotlariga-qarshi-chiqmoqda-8456c9",
+    "title": "Bashoratchilar AI chatbotlariga qarshi chiqmoqda",
+    "summary": "Soha vakillari sun'iy intellekt yaratgan bashoratlar insoniy hamdardlikdan xoli ekanini ta'kidlamoqda. AI chatbotlari esa foydalanuvchilar bilan ruhiy bog'lanish hosil qilishini da'vo qilmoqda.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 26,
+    "published": "2026-10-29T11:00:31.000Z",
+    "created": "2026-10-29T12:36:22.964Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/technology/ng-interactive/2026/oct/29/psychics-push-back-ai-readings",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "908a0a0d4588",
+    "slug": "ai-kiberxakerlarga-ustunlik-bermoqda-908a0a",
+    "title": "AI kiberxakerlarga ustunlik bermoqda",
+    "summary": "Cyber 60 ro'yxatiga kirgan kiberxavfsizlik startaplari muassislari sun'iy intellekt xakerlarga ustunlik berayotganini ta'kidladi. Ular kiberhujumchilar ustun kelayotganidan ogohlantirmoqda.",
+    "tags": [
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-10-29T11:57:06.000Z",
+    "created": "2026-10-29T12:36:22.964Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/10/29/attackers-winning-cyber-60-founders-ai-giving-hackers-upper-hand",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "f16090fc4b5d",
+    "slug": "kevin-uorsh-ai-investorlarini-ogohlantirdi-f16090",
+    "title": "Kevin Uorsh AI investorlarini ogohlantirdi",
+    "summary": "FZT raisi Kevin Uorsh sun'iy intellekt sohasidagi investorlarni yuqori foiz stavkalaridan ogohlantirdi. Uning so'zlariga ko'ra, qarz olish xarajatlari oshishi sababli investorlar loyihalarni sinchiklab tanlamoqda.",
+    "tags": [
+      "iqtisod",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-10-29T11:54:12.000Z",
+    "created": "2026-10-29T12:36:22.964Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/10/29/fed-chair-kevin-warsh-warning-ai-investors-interest-rates-get-in-the-cracks-cfo",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "a845716b53b9",
+    "slug": "etsy-platformasida-ai-elonlariga-cheklov-qoyildi-a84571",
+    "title": "Etsy platformasida AI e'lonlariga cheklov qo'yildi",
+    "summary": "Etsy kompaniyasining yangi rahbari Kruti Patel Goyal sun'iy intellekt yordamida yaratilgan e'lonlarga talablarni kuchaytirdi. Kompaniya qidiruvni yaxshilash uchun ham AI texnologiyalaridan foydalanmoqda.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-10-29T11:54:08.000Z",
+    "created": "2026-10-29T12:36:22.964Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/10/29/etsy-ceo-ai-listings-crack-down-buyers-return",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "7100efddac6d",
     "slug": "fotograf-behzod-boltayev-ai-davrida-sanat-haqida-7100ef",
     "title": "Fotograf Behzod Boltayev AI davrida san'at haqida",
