@@ -1,5 +1,97 @@
 [
   {
+    "id": "9b3326b45d14",
+    "slug": "anthropic-kompaniyasining-ilk-xodimi-ishdan-charchashni-esla-9b3326",
+    "title": "Anthropic kompaniyasining ilk xodimi ishdan charchashni esladi",
+    "summary": "Anthropicning ilk xodimlaridan biri kompaniyaning dastlabki xavfsizlik madaniyati, aksiyalar va ishdan charchash holatlari haqida yozdi. U o'z postida FBI tashrifi haqida ham ma'lumot bergan.",
+    "tags": [
+      "Anthropic",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 24,
+    "published": "2026-10-29T18:13:55.000Z",
+    "created": "2026-10-29T18:56:49.609Z",
+    "coverage": 2,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/early-anthropic-employee-dishes-ai-lab-2026-10",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "Business Insider",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQS2FSRzRNSXEwMi12VlQxVV9sRVA1RW5nRl9ta3hLNFhjbVRoNmE1Nl9xZlpfNGpnU2tzemxMTjZFNWtQUTdtc1haRkktLUN0YzVGY0hIYzJfZ09lSVBwT1paR0VqY1BOeEhtQTRxc2JHTE5QaGdMOUM3WVExRHk5ZXNldXI"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "d0bd16593b1c",
+    "slug": "neyrosetlar-mahsulotlarni-nima-uchun-umumiy-tariflaydi-d0bd16",
+    "title": "Neyrosetlar mahsulotlarni nima uchun umumiy ta'riflaydi",
+    "summary": "Neyrosetlar mahsulotlarni saytdagi batafsil ma'lumotlarga qaramay, ko'pincha umumiy so'zlar bilan ta'riflaydi. Buning sababi, AI butun saytni emas, balki faqat topilgan fragmentlarni o'qiydi. Vercel va MERJ AI robotlari skriptlarni ishga tushirmasligini aniqladi.",
+    "tags": [
+      "tadqiqot",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 20,
+    "published": "2026-10-29T18:22:46.000Z",
+    "created": "2026-10-29T18:56:49.609Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1101396",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "23a190a4e5af",
+    "slug": "meta-osmirlarning-oziga-zarar-yetkazish-qidiruvlari-haqida-o-23a190",
+    "title": "Meta o'smirlarning o'ziga zarar yetkazish qidiruvlari haqida ogohlantiradi",
+    "summary": "Meta kompaniyasi Facebook'da o'smirlar o'ziga zarar yetkazish bilan bog'liq kontentni takroran qidirsa, ota-onalarni ogohlantiradi. Shuningdek, Meta AI bilan bo'lgan suhbatlar haqida ham xabar beriladi.",
+    "tags": [
+      "Meta",
+      "xavfsizlik"
+    ],
+    "importance": 4,
+    "score": 15,
+    "published": "2026-10-29T18:20:21.000Z",
+    "created": "2026-10-29T18:56:49.609Z",
+    "coverage": 1,
+    "source": {
+      "name": "Engadget",
+      "url": "https://engadget.com/2301410/meta-will-now-alert-parents-if-teens-repeatedly-search-for-self-harm-content-on-facebook",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "066f3bd17c5f",
+    "slug": "granola-va-wispr-ortasida-ovozli-ai-raqobati-kuchaymoqda-066f3b",
+    "title": "Granola va Wispr o'rtasida ovozli AI raqobati kuchaymoqda",
+    "summary": "Wispr o'zining diktovka ilovasiga yig'ilish qaydlarini qo'shganidan so'ng, Granola ham yig'ilish qaydlarini oluvchi ilovasiga diktovka funksiyasini qo'shdi. Bu ovozli AI bozorida raqobatni kuchaytirmoqda.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-10-29T17:54:38.000Z",
+    "created": "2026-10-29T18:56:49.609Z",
+    "coverage": 1,
+    "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "75b60e53a529",
     "slug": "ozbekistonda-ichki-aviaqatnovlar-rivojlantiriladi-75b60e",
     "title": "O'zbekistonda ichki aviaqatnovlar rivojlantiriladi",

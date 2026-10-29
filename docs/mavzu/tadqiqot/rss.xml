@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/tadqiqot/</link>
   <description>&quot;tadqiqot&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Thu, 29 Oct 2026 18:09:24 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 29 Oct 2026 19:02:44 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/tadqiqot/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Neyrosetlar mahsulotlarni nima uchun umumiy ta'riflaydi</title>
+    <link>https://ailenta.uz/x/neyrosetlar-mahsulotlarni-nima-uchun-umumiy-tariflaydi-d0bd16/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/neyrosetlar-mahsulotlarni-nima-uchun-umumiy-tariflaydi-d0bd16/</guid>
+    <pubDate>Thu, 29 Oct 2026 18:22:46 GMT</pubDate>
+    <description>Neyrosetlar mahsulotlarni saytdagi batafsil ma'lumotlarga qaramay, ko'pincha umumiy so'zlar bilan ta'riflaydi. Buning sababi, AI butun saytni emas, balki faqat topilgan fragmentlarni o'qiydi. Vercel va MERJ AI robotlari skriptlarni ishga tushirmasligini aniqladi.</description>
+    <category>tadqiqot</category><category>xavfsizlik</category>
+    <media:content url="https://ailenta.uz/og/neyrosetlar-mahsulotlarni-nima-uchun-umumiy-tariflaydi-d0bd16.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/neyrosetlar-mahsulotlarni-nima-uchun-umumiy-tariflaydi-d0bd16.jpg"/>
+  </item>
   <item>
     <title>Korporativ AI uchun ma'lumotlar bazasi talablari aytildi</title>
     <link>https://ailenta.uz/x/korporativ-ai-uchun-malumotlar-bazasi-talablari-aytildi-c1536c/</link>
@@ -296,16 +306,6 @@
     <category>Baidu</category><category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/baidu-avtonom-haydash-uchun-world-model-yaratmoqda-31a397.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/baidu-avtonom-haydash-uchun-world-model-yaratmoqda-31a397.jpg"/>
-  </item>
-  <item>
-    <title>ReCoPII: PII ni niqoblash uchun yangi tizim</title>
-    <link>https://ailenta.uz/x/recopii-pii-ni-niqoblash-uchun-yangi-tizim-838fb6/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/recopii-pii-ni-niqoblash-uchun-yangi-tizim-838fb6/</guid>
-    <pubDate>Wed, 28 Oct 2026 04:00:00 GMT</pubDate>
-    <description>ReCoPII deb nomlangan yangi tizim shaxsiy ma'lumotlarni (PII) niqoblash uchun kontekstual ma'lumotlar to'plamlarini yaratishga mo'ljallangan. Bu tizim maxfiylik cheklovlarini hisobga olgan holda PII ni ajratishga yordam beradi.</description>
-    <category>maxfiylik</category><category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/recopii-pii-ni-niqoblash-uchun-yangi-tizim-838fb6.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/recopii-pii-ni-niqoblash-uchun-yangi-tizim-838fb6.jpg"/>
   </item>
 </channel>
 </rss>
