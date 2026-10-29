@@ -1,5 +1,97 @@
 [
   {
+    "id": "e0d4418bfb4d",
+    "slug": "iiv-safe-servicedan-malumotlar-sizganini-tekshirmoqda-e0d441",
+    "title": "IIV SAFE Service'dan ma'lumotlar sizganini tekshirmoqda",
+    "summary": "O'zbekiston IIV SAFE Service platformasidan shaxsiy ma'lumotlar sizib chiqqani haqidagi xabarlarni tekshirmoqda. Surishtiruv Davlat xavfsizlik xizmati va AUTODOC bilan birgalikda olib borilmoqda.",
+    "tags": [
+      "O'zbekiston",
+      "xavfsizlik"
+    ],
+    "importance": 4,
+    "score": 41,
+    "published": "2026-10-29T18:45:00.000Z",
+    "created": "2026-10-29T21:01:37.629Z",
+    "coverage": 1,
+    "source": {
+      "name": "UzDaily",
+      "url": "https://uzdaily.uz/uz/%C3%B6zbekiston-iiv-safe-service-platformasidan-malumotlar-sizib-%C3%A7iqi%C5%9Fi-haqidagi-xabarlarni-tek%C5%9Firmoqda",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "f7727d46f295",
+    "slug": "amazon-suniy-intellektga-investitsiyalarni-oshiradi-f7727d",
+    "title": "Amazon sun'iy intellektga investitsiyalarni oshiradi",
+    "summary": "Amazon aksiyalar narxi tushayotgan bir paytda sun'iy intellektga investitsiyalarni ko'paytirganini e'lon qildi. Kompaniya bu borada xarajatlarni oshirgan navbatdagi texnologik gigantga aylandi.",
+    "tags": [
+      "Amazon",
+      "iqtisod"
+    ],
+    "importance": 3,
+    "score": 30,
+    "published": "2026-10-29T20:53:41.000Z",
+    "created": "2026-10-29T21:01:37.629Z",
+    "coverage": 1,
+    "source": {
+      "name": "The New York Times",
+      "url": "https://nytimes.com/2026/10/29/technology/amazon-earnings-tech-spending.html",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "4f6d231b4cc2",
+    "slug": "ares-ai-chiplarini-moliyalashtirishdan-qochmoqda-4f6d23",
+    "title": "Ares AI chiplarini moliyalashtirishdan qochmoqda",
+    "summary": "Ares kompaniyasi bosh direktori sun'iy intellekt chiplarini qo'llab-quvvatlashdan saqlanayotganini bildirdi. U buning sababi sifatida sohaning murakkabligini ko'rsatdi.",
+    "tags": [
+      "chiplar",
+      "iqtisod"
+    ],
+    "importance": 3,
+    "score": 27,
+    "published": "2026-10-29T19:38:19.000Z",
+    "created": "2026-10-29T21:01:37.629Z",
+    "coverage": 1,
+    "source": {
+      "name": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQN2p1c0Q3VHNqWEdvLUFNSk5PemZpc1A4QllkUFJvNWhLRHEwWEU5bFk0UEk0VnFiZ0lYNm4yUGxrMXZoVWdVVWNnZFhWbEF3SklaYzRHcy1nVlI3clBTVXJydW9yWnZNRWZsaVFpcEhMT0hBMDNDbzc5WVRoZy1PNXU2aTdBeEtReHIxZUs0Y0lLcWVNMkdsRzJhanF5UnZKLTg4UEdoR3pEVkNxdWZiS0hXWQ",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "2db3ff079bd0",
+    "slug": "reddit-foydalanuvchilardan-tizimga-kirishni-talab-qiladi-2db3ff",
+    "title": "Reddit foydalanuvchilardan tizimga kirishni talab qiladi",
+    "summary": "Qidiruv trafigi kamayishi fonida Reddit foydalanuvchilardan platformaga kirishni talab qiladigan tizimga o'tmoqda. Kompaniya ushbu sinovlarni AQShdan tashqarida boshlamoqda.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 21,
+    "published": "2026-10-29T20:32:49.000Z",
+    "created": "2026-10-29T21:01:37.629Z",
+    "coverage": 2,
+    "source": {
+      "name": "Engadget",
+      "url": "https://engadget.com/2301687/reddit-will-move-to-logged-in-only-as-ai-eats-search-traffic",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
     "id": "a80dd20eaec8",
     "slug": "spawn-oyinida-ai-agentlar-orqali-dunyo-ozgartiriladi-a80dd2",
     "title": "Spawn o'yinida AI agentlar orqali dunyo o'zgartiriladi",
