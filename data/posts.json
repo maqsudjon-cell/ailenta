@@ -1,44 +1,37 @@
 [
   {
-    "id": "9b3326b45d14",
-    "slug": "anthropic-kompaniyasining-ilk-xodimi-ishdan-charchashni-esla-9b3326",
-    "title": "Anthropic kompaniyasining ilk xodimi ishdan charchashni esladi",
-    "summary": "Anthropicning ilk xodimlaridan biri kompaniyaning dastlabki xavfsizlik madaniyati, aksiyalar va ishdan charchash holatlari haqida yozdi. U o'z postida FBI tashrifi haqida ham ma'lumot bergan.",
+    "id": "a80dd20eaec8",
+    "slug": "spawn-oyinida-ai-agentlar-orqali-dunyo-ozgartiriladi-a80dd2",
+    "title": "Spawn o'yinida AI agentlar orqali dunyo o'zgartiriladi",
+    "summary": "Jacob Sansbury yaratgan Spawn ko'p foydalanuvchili o'yin muhitini taqdim etdi. Unda o'yinchilar so'rovlar yordamida o'yin dunyosini va obyektlarni real vaqtda o'zgartirishi mumkin.",
     "tags": [
-      "Anthropic",
-      "biznes"
+      "agentlar"
     ],
-    "importance": 3,
-    "score": 24,
-    "published": "2026-10-29T18:13:55.000Z",
-    "created": "2026-10-29T18:56:49.609Z",
-    "coverage": 2,
+    "importance": 2,
+    "score": 21,
+    "published": "2026-10-29T17:00:26.000Z",
+    "created": "2026-10-29T19:04:23.083Z",
+    "coverage": 1,
     "source": {
-      "name": "Business Insider",
-      "url": "https://businessinsider.com/early-anthropic-employee-dishes-ai-lab-2026-10",
+      "name": "Simon Willison",
+      "url": "https://simonwillison.net/2026/Oct/29/how-i-built-the-most-ai-pilled-company-in-the-world",
       "indirect": false
     },
-    "also": [
-      {
-        "name": "Business Insider",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQS2FSRzRNSXEwMi12VlQxVV9sRVA1RW5nRl9ta3hLNFhjbVRoNmE1Nl9xZlpfNGpnU2tzemxMTjZFNWtQUTdtc1haRkktLUN0YzVGY0hIYzJfZ09lSVBwT1paR0VqY1BOeEhtQTRxc2JHTE5QaGdMOUM3WVExRHk5ZXNldXI"
-      }
-    ],
+    "also": [],
     "model": "gemini"
   },
   {
     "id": "d0bd16593b1c",
-    "slug": "neyrosetlar-mahsulotlarni-nima-uchun-umumiy-tariflaydi-d0bd16",
-    "title": "Neyrosetlar mahsulotlarni nima uchun umumiy ta'riflaydi",
-    "summary": "Neyrosetlar mahsulotlarni saytdagi batafsil ma'lumotlarga qaramay, ko'pincha umumiy so'zlar bilan ta'riflaydi. Buning sababi, AI butun saytni emas, balki faqat topilgan fragmentlarni o'qiydi. Vercel va MERJ AI robotlari skriptlarni ishga tushirmasligini aniqladi.",
+    "slug": "ai-nega-mahsulotlarni-umumiy-sozlar-bilan-tasvirlaydi-d0bd16",
+    "title": "AI nega mahsulotlarni umumiy so'zlar bilan tasvirlaydi",
+    "summary": "Neyron tarmoqlar saytdagi barcha matnlarni emas, faqat ba'zi parchalarini o'qiydi. Vercel va MERJ tadqiqotiga ko'ra, ChatGPT va Claude skriptlarni ishga tushirmaydi, shu sababli ko'p ma'lumotlar AI'gacha yetib bormaydi.",
     "tags": [
-      "tadqiqot",
-      "xavfsizlik"
+      "tadqiqot"
     ],
-    "importance": 3,
+    "importance": 2,
     "score": 20,
     "published": "2026-10-29T18:22:46.000Z",
-    "created": "2026-10-29T18:56:49.609Z",
+    "created": "2026-10-29T19:04:23.083Z",
     "coverage": 1,
     "source": {
       "name": "Habr",
@@ -49,18 +42,40 @@
     "model": "gemini"
   },
   {
+    "id": "d593a2e5b066",
+    "slug": "google-xodimlari-soni-205-mingga-yetdi-d593a2",
+    "title": "Google xodimlari soni 205 mingga yetdi",
+    "summary": "Google kompaniyasining umumiy xodimlari soni sentabr oyi oxirida deyarli 205 ming nafarga yetdi. Sun'iy intellekt bumu fonida kadrlar ko'payishi boshqa texnologik kompaniyalardagi qisqartirishlarga zid kelmoqda.",
+    "tags": [
+      "Google",
+      "mehnat bozori"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-10-29T18:56:31.000Z",
+    "created": "2026-10-29T19:04:23.083Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/google-employee-count-soars-tech-industry-layoffs-chart-2026-10",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "23a190a4e5af",
-    "slug": "meta-osmirlarning-oziga-zarar-yetkazish-qidiruvlari-haqida-o-23a190",
-    "title": "Meta o'smirlarning o'ziga zarar yetkazish qidiruvlari haqida ogohlantiradi",
-    "summary": "Meta kompaniyasi Facebook'da o'smirlar o'ziga zarar yetkazish bilan bog'liq kontentni takroran qidirsa, ota-onalarni ogohlantiradi. Shuningdek, Meta AI bilan bo'lgan suhbatlar haqida ham xabar beriladi.",
+    "slug": "meta-ota-onalarni-osmirlar-qidiruvlari-haqida-ogohlantiradi-23a190",
+    "title": "Meta ota-onalarni o'smirlar qidiruvlari haqida ogohlantiradi",
+    "summary": "Meta Facebook platformasida o'smirlar o'ziga zarar yetkazish mazmunidagi kontentni ko'p qidirsa, ota-onalarni ogohlantirishni boshlaydi. Shuningdek, kompaniya Meta AI bilan bo'lgan suhbatlar haqida ham xabar beradi.",
     "tags": [
       "Meta",
       "xavfsizlik"
     ],
-    "importance": 4,
+    "importance": 3,
     "score": 15,
     "published": "2026-10-29T18:20:21.000Z",
-    "created": "2026-10-29T18:56:49.609Z",
+    "created": "2026-10-29T19:04:23.083Z",
     "coverage": 1,
     "source": {
       "name": "Engadget",
@@ -72,16 +87,16 @@
   },
   {
     "id": "066f3bd17c5f",
-    "slug": "granola-va-wispr-ortasida-ovozli-ai-raqobati-kuchaymoqda-066f3b",
-    "title": "Granola va Wispr o'rtasida ovozli AI raqobati kuchaymoqda",
-    "summary": "Wispr o'zining diktovka ilovasiga yig'ilish qaydlarini qo'shganidan so'ng, Granola ham yig'ilish qaydlarini oluvchi ilovasiga diktovka funksiyasini qo'shdi. Bu ovozli AI bozorida raqobatni kuchaytirmoqda.",
+    "slug": "granola-ilovasiga-diktovka-funksiyasi-qoshildi-066f3b",
+    "title": "Granola ilovasiga diktovka funksiyasi qo'shildi",
+    "summary": "Granola uchrashuv eslatmalari ilovasiga diktovka funksiyasini qo'shdi. Bu qadam Wispr ilovasi bilan raqobatlashish hamda ovozli xizmatlar imkoniyatini kengaytirish uchun amalga oshirildi.",
     "tags": [
       "biznes"
     ],
     "importance": 2,
     "score": 15,
     "published": "2026-10-29T17:54:38.000Z",
-    "created": "2026-10-29T18:56:49.609Z",
+    "created": "2026-10-29T19:04:23.083Z",
     "coverage": 1,
     "source": {
       "name": "TechCrunch",
