@@ -5,7 +5,7 @@
   <link>https://ailenta.uz/mavzu/agentlar/</link>
   <description>&quot;agentlar&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Thu, 29 Oct 2026 02:50:24 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 29 Oct 2026 03:10:41 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/agentlar/rss.xml" rel="self" type="application/rss+xml"/>
   <item>
     <title>AI agent tizimlari qanday ishlaydi</title>
@@ -76,6 +76,16 @@
     <category>agentlar</category>
     <media:content url="https://ailenta.uz/og/firefox-smart-window-funksiyasiga-ai-integratsiya-qilindi-51d51d.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/firefox-smart-window-funksiyasiga-ai-integratsiya-qilindi-51d51d.jpg"/>
+  </item>
+  <item>
+    <title>Ant Group LingGuang 2.0 AI yordamchisini taqdim etdi</title>
+    <link>https://ailenta.uz/x/ant-group-lingguang-2-0-ai-yordamchisini-taqdim-etdi-6569cb/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/ant-group-lingguang-2-0-ai-yordamchisini-taqdim-etdi-6569cb/</guid>
+    <pubDate>Tue, 27 Oct 2026 05:51:08 GMT</pubDate>
+    <description>Ant Group kompaniyasi doimiy xotiraga ega LingGuang 2.0 AI yordamchisini taqdim etdi. U muloqot tugaganidan keyin ham topshiriqlarni bajarishda davom etadi.</description>
+    <category>agentlar</category>
+    <media:content url="https://ailenta.uz/og/ant-group-lingguang-2-0-ai-yordamchisini-taqdim-etdi-6569cb.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/ant-group-lingguang-2-0-ai-yordamchisini-taqdim-etdi-6569cb.jpg"/>
   </item>
   <item>
     <title>Pydantic AI: tipizatsiyalangan agentlar uchun yechim</title>
@@ -296,16 +306,6 @@
     <category>biznes</category><category>agentlar</category>
     <media:content url="https://ailenta.uz/og/azoma-ai-xarid-agentlari-startapi-11-2-mln-mablag-jalb-qildi-b359b2.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/azoma-ai-xarid-agentlari-startapi-11-2-mln-mablag-jalb-qildi-b359b2.jpg"/>
-  </item>
-  <item>
-    <title>Xiaomi MiMo modelini Tencent platformalariga joyladi</title>
-    <link>https://ailenta.uz/x/xiaomi-mimo-modelini-tencent-platformalariga-joyladi-3bf5d9/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/xiaomi-mimo-modelini-tencent-platformalariga-joyladi-3bf5d9/</guid>
-    <pubDate>Wed, 21 Oct 2026 06:49:49 GMT</pubDate>
-    <description>Xiaomi MiMo-V2.6-Pro modeli Tencent'ning WorkBuddy agenti va TokenHub xizmatida foydalanishga topshirildi. Model 1 million tokenli kontekst oynasiga ega.</description>
-    <category>agentlar</category>
-    <media:content url="https://ailenta.uz/og/xiaomi-mimo-modelini-tencent-platformalariga-joyladi-3bf5d9.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/xiaomi-mimo-modelini-tencent-platformalariga-joyladi-3bf5d9.jpg"/>
   </item>
 </channel>
 </rss>
