@@ -1,5 +1,48 @@
 [
   {
+    "id": "cdfe332acbcd",
+    "slug": "aqshda-aini-tartibga-solish-boyicha-reja-taklif-qilindi-cdfe33",
+    "title": "AQShda AIni tartibga solish bo'yicha reja taklif qilindi",
+    "summary": "Michigan senatiga nomzod Abdul El-Sayed \"AI Under Democracy\" nomli rejasini taqdim etdi. U sun'iy intellekt kompaniyalariga jamoat mulkchiligi shaklini joriy etish va islohotlar o'tkazishni taklif qilmoqda.",
+    "tags": [
+      "siyosat",
+      "qonun"
+    ],
+    "importance": 2,
+    "score": 23,
+    "published": "2026-10-29T13:00:44.000Z",
+    "created": "2026-10-29T14:02:16.440Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/commentisfree/2026/oct/29/abdul-el-sayed-ai-companies-public-ownership",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "d0e2301d55a3",
+    "slug": "deepgram-kompaniyasi-daily-xizmatini-sotib-oldi-d0e230",
+    "title": "Deepgram kompaniyasi Daily xizmatini sotib oldi",
+    "summary": "Deepgram kompaniyasi ovozli AI infratuzilmasini kuchaytirish uchun Pipecat yaratuvchisi bo'lgan Daily'ni sotib oldi. Pipecat loyihasi ochiq kodli bo'lib qoladi.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-10-29T13:00:00.000Z",
+    "created": "2026-10-29T14:02:16.440Z",
+    "coverage": 1,
+    "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "56241823441c",
     "slug": "uklon-ozbekiston-taksi-bozorida-ustun-mavqega-ega-562418",
     "title": "Uklon O'zbekiston taksi bozorida ustun mavqega ega",
