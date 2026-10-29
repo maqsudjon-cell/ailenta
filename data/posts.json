@@ -1,5 +1,76 @@
 [
   {
+    "id": "03a9c782d970",
+    "slug": "serval-150-mln-jalb-qilib-servicenowga-raqib-boldi-03a9c7",
+    "title": "Serval $150 mln jalb qilib ServiceNow'ga raqib bo'ldi",
+    "summary": "Serval startapi $3 milliard baho bilan $150 million sarmoya jalb qildi. Kompaniya ServiceNow'ga raqobat qilishni maqsad qilgan, ServiceNow esa AI startap qurishni osonlashtiradi, ammo korxonani boshqarishni emas, deb hisoblaydi.",
+    "tags": [
+      "biznes",
+      "iqtisod"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-10-29T18:34:21.000Z",
+    "created": "2026-10-29T21:44:32.402Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/10/29/serval-servicenow-fight-series-c-3-billion-valuation-sequoia",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "a12b5e49602b",
+    "slug": "anthropic-johns-hopkins-saraton-xaritalash-texnologiyasini-t-a12b5e",
+    "title": "Anthropic Johns Hopkins saraton xaritalash texnologiyasini tanladi",
+    "summary": "Anthropic kompaniyasi Johns Hopkins tadqiqotchilarining saraton hujayralarini xaritalash texnologiyasini o'zining AI loyihasi uchun tanladi. Bu hamkorlik sun'iy intellektni tibbiyot sohasida qo'llashga qaratilgan.",
+    "tags": [
+      "Anthropic",
+      "tibbiyot"
+    ],
+    "importance": 3,
+    "score": 16,
+    "published": "2026-10-29T14:34:00.000Z",
+    "created": "2026-10-29T21:44:32.402Z",
+    "coverage": 2,
+    "source": {
+      "name": "Mirage News",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNOHBPdXNobXpma3NBQTVXS21vdk9vQ1RtbFpzVENodUp3ZzN2Vmc4WXIzMWk0a1AtMU9kQVg5NzBKT3VnT01wV3NOTWlvR01aWkZWRTBuU2N6cmN3NklRdkFqWkUzd2pWcGZ1NlNFN19kVnFsQ2ttcFN3RWdHTHIyd2gyb1M3TkY5X2c",
+      "indirect": true
+    },
+    "also": [
+      {
+        "name": "Newswise",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQT1A3VnQxMS1xakNDc0N3Z1k1cEpVRGt3RE9MTnpWNTFEX2NVUmhzMVoyZnFIMDNSWVNXZFAzVWNXdHlTemdFX2RDUWtWdkhMdi01RXBlWnpSU3BfNlBYaUhOOHI0V3VqY1lsLWN0eFdfdVFhTUlxbHZXbHlOSGxEZGQ1d0FGbENKZFRleTF2VjRFT2wwQW9SQm54SWNRZ210RW94TVZwWVVzYXNrZzVyWlVQOWtDaVF2dElSSGFpVEd3X2FnZXBDaWoyUVdDcHdSd1JzaTZmemtpb19tbk41Z190ZWFwRUpF0gHoAUFVX3lxTFBPUDdWdDExLXFqQ0NzQ3dnWTVwSlVEa3dET0xOelY1MURfY1VSaHMxWjJmcUgwM1JZU1dkUDNVY1d0eVN6Z0VfZENRa1Z2SEx2LTVFcGVaelJTcF82UFhpSE44cjRXdWpjWWwtY3R4V191UWFNSXFsdldseU5IbERkZDV3QUZsQ0pkVGV5MXZWNEVPbDBBb1JCbnhJY1FnbXRFb3hNVnBZVXNhc2tnNXJaVVA5a0NpUXZ0SVJIYWlUR3dfYWdlcENpajJRV0Nwd1J3UnNpNmZ6a2lvX21uTjVnX3RlYXBFSkU"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "7587406daf7d",
+    "slug": "rivian-va-vw-qoshma-korxonaga-ai-yordamchisini-qoshdi-758740",
+    "title": "Rivian va VW qo'shma korxonaga AI yordamchisini qo'shdi",
+    "summary": "Rivian va Volkswagen kompaniyalari o'zlarining $5,8 milliardlik qo'shma korxonasini kengaytirib, unga sun'iy intellekt yordamchisini kiritishga kelishib oldi. Bu hamkorlik avtomobil texnologiyalarini rivojlantirishga qaratilgan.",
+    "tags": [
+      "biznes",
+      "robototexnika"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-10-29T20:05:47.000Z",
+    "created": "2026-10-29T21:44:32.402Z",
+    "coverage": 1,
+    "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "e0d4418bfb4d",
     "slug": "iiv-safe-servicedan-malumotlar-sizganini-tekshirmoqda-e0d441",
     "title": "IIV SAFE Service'dan ma'lumotlar sizganini tekshirmoqda",
