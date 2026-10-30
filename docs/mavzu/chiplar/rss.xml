@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/chiplar/</link>
   <description>&quot;chiplar&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Fri, 30 Oct 2026 02:12:03 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 30 Oct 2026 02:32:13 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/chiplar/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Raspberry Pi Pico 2 W da ishlaydigan kichik dunyo modeli</title>
+    <link>https://ailenta.uz/x/raspberry-pi-pico-2-w-da-ishlaydigan-kichik-dunyo-modeli-c30c38/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/raspberry-pi-pico-2-w-da-ishlaydigan-kichik-dunyo-modeli-c30c38/</guid>
+    <pubDate>Thu, 29 Oct 2026 20:32:28 GMT</pubDate>
+    <description>Kichik dunyo modeli Raspberry Pi Pico 2 W qurilmasida o'yinlarni ishga tushirmoqda. Bu texnologiya cheklangan resurslarga ega qurilmalarda AI imkoniyatlarini kengaytiradi.</description>
+    <category>tadqiqot</category><category>chiplar</category>
+    <media:content url="https://ailenta.uz/og/raspberry-pi-pico-2-w-da-ishlaydigan-kichik-dunyo-modeli-c30c38.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/raspberry-pi-pico-2-w-da-ishlaydigan-kichik-dunyo-modeli-c30c38.jpg"/>
+  </item>
   <item>
     <title>Ares AI chiplarini moliyalashtirishdan qochmoqda</title>
     <link>https://ailenta.uz/x/ares-ai-chiplarini-moliyalashtirishdan-qochmoqda-4f6d23/</link>
@@ -296,16 +306,6 @@
     <category>chiplar</category><category>biznes</category>
     <media:content url="https://ailenta.uz/og/spacemit-v100-risc-v-server-cpu-va-uchta-serverni-chiqardi-365a93.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/spacemit-v100-risc-v-server-cpu-va-uchta-serverni-chiqardi-365a93.jpg"/>
-  </item>
-  <item>
-    <title>Alibaba avtomobil uchun XuanTie E908A RISC-V CPU'sini chiqardi</title>
-    <link>https://ailenta.uz/x/alibaba-avtomobil-uchun-xuantie-e908a-risc-v-cpusini-chiqard-a3563b/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/alibaba-avtomobil-uchun-xuantie-e908a-risc-v-cpusini-chiqard-a3563b/</guid>
-    <pubDate>Tue, 20 Oct 2026 07:09:38 GMT</pubDate>
-    <description>Alibaba'ning DAMO Academy XuanTie E908A'ni ASIL-B va ASIL-D talablariga javob beradigan birinchi RISC-V CPU IP deb e'lon qildi. Kompaniya C950A boshchiligidagi avtomobil va mujassam AI yo'l xaritasini ham taqdim etdi.</description>
-    <category>Alibaba</category><category>chiplar</category>
-    <media:content url="https://ailenta.uz/og/alibaba-avtomobil-uchun-xuantie-e908a-risc-v-cpusini-chiqard-a3563b.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/alibaba-avtomobil-uchun-xuantie-e908a-risc-v-cpusini-chiqard-a3563b.jpg"/>
   </item>
 </channel>
 </rss>
