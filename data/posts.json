@@ -1,5 +1,91 @@
 [
   {
+    "id": "0d0051ae5e99",
+    "slug": "microsoft-fy2027-q1-hisobotini-elon-qildi-0d0051",
+    "title": "Microsoft FY2027 Q1 hisobotini e’lon qildi",
+    "summary": "Microsoft 2027-moliya yilining birinchi choragida daromad va sof foydasini oshirdi. O'sishga asosan Azure va bulutli xizmatlar yordam berdi. Shu bilan birga, kompaniya sun'iy intellekt infratuzilmasiga milliardlab dollar sarflamoqda.",
+    "tags": [
+      "Microsoft",
+      "bulut"
+    ],
+    "importance": 4,
+    "score": 51,
+    "published": "2026-10-30T06:58:01.000Z",
+    "created": "2026-10-30T08:01:39.390Z",
+    "coverage": 1,
+    "source": {
+      "name": "Pivot",
+      "url": "https://pivot.uz/uz/microsoft-fy2027-q1-moliyaviy-hisobotini-elon-qildi",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "a35f00ca3490",
+    "slug": "o-zbekistonda-it-xizmatlari-hajmi-71-4-trln-so-mga-yetdi-a35f00",
+    "title": "O‘zbekistonda IT xizmatlari hajmi 71,4 trln so‘mga yetdi",
+    "summary": "O‘zbekistonda aloqa va axborotlashtirish xizmatlari hajmi 2026-yilning sakkiz oyida 71,4 trillion so‘mga yetdi. Ushbu sohada dasturlash xizmatlari yetakchilik qilmoqda.",
+    "tags": [
+      "O'zbekiston",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 45,
+    "published": "2026-10-30T07:43:54.000Z",
+    "created": "2026-10-30T08:01:39.390Z",
+    "coverage": 1,
+    "source": {
+      "name": "Pivot",
+      "url": "https://pivot.uz/uz/ozbekistonda-aloqa-va-it-xizmatlari-hajmi-714-trln-somga-yetdi-dasturlash-xizmatlari-yetakchilik-qilmoqda",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "3f35454137cc",
+    "slug": "foxconn-ai-serverlar-bozorida-50-foiz-ulushni-kozlamoqda-3f3545",
+    "title": "Foxconn AI serverlar bozorida 50 foiz ulushni ko'zlamoqda",
+    "summary": "Foxconn kompaniyasi bir necha yil ichida global sun'iy intellekt serverlari bozorining 50 foiziga egalik qilishni rejalashtirmoqda. Kompaniya rahbarining ta'kidlashicha, AI texnologiyalariga talab yuqoriligicha qolmoqda.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-10-30T07:43:39.000Z",
+    "created": "2026-10-30T08:01:39.390Z",
+    "coverage": 1,
+    "source": {
+      "name": "CNBC",
+      "url": "https://cnbc.com/2026/10/30/hon-hai-technology-group-foxconn-ai-server-young-liu-.html",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "14d2e302bc05",
+    "slug": "zhuoyu-yuk-mashinalari-uchun-haydash-modelini-taqdim-etdi-14d2e3",
+    "title": "Zhuoyu yuk mashinalari uchun haydash modelini taqdim etdi",
+    "summary": "Zhuoyu Technology kompaniyasi yengil avtomobillar uchun mo'ljallangan haydash modelini og'ir yuk mashinalariga moslashtirdi. Ommaviy ishlab chiqarilayotgan PDS 4 tizimi yonilg'i sarfini 4,5 dan 7,5 foizgacha tejaydi.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-10-30T07:30:31.000Z",
+    "created": "2026-10-30T08:01:39.390Z",
+    "coverage": 1,
+    "source": {
+      "name": "Pandaily",
+      "url": "https://pandaily.com/zhuoyu-technology-commercial-vehicle-driver-assistance-pds-4-heavy-truck-highway-noa-mass-production",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "ca5a8f25a74b",
     "slug": "aws-har-14-sekundda-bitta-ai-tezlatkichini-ornatmoqda-ca5a8f",
     "title": "AWS har 14 sekundda bitta AI tezlatkichini o'rnatmoqda",
