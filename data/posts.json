@@ -1,5 +1,47 @@
 [
   {
+    "id": "7f423a21a4d6",
+    "slug": "ozbekiston-va-jahon-banki-ai-loyihalarini-muhokama-qildi-7f423a",
+    "title": "O'zbekiston va Jahon banki AI loyihalarini muhokama qildi",
+    "summary": "O'zbekiston Qishloq xo'jaligi vazirligi va Jahon banki agrar sohani raqamlashtirish masalalarini ko'rib chiqdi. Tomonlar Agroportal va sun'iy intellekt loyihalarini muhokama qilishdi.",
+    "tags": [
+      "O'zbekiston"
+    ],
+    "importance": 3,
+    "score": 44,
+    "published": "2026-10-30T09:30:00.000Z",
+    "created": "2026-10-30T09:36:12.567Z",
+    "coverage": 1,
+    "source": {
+      "name": "UzDaily",
+      "url": "https://uzdaily.uz/uz/%C3%B6zbekiston-va-jahon-banki-qi%C5%9Floq-x%C3%B6jaligini-raqamla%C5%9Ftiri%C5%9Fni-muhokama-qildi",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "6cd7bd90695a",
+    "slug": "sam-altman-matematiklarning-xavotirini-tushunishini-aytdi-6cd7bd",
+    "title": "Sam Altman matematiklarning xavotirini tushunishini aytdi",
+    "summary": "OpenAI bosh direktori Sam Altman sun'iy intellekt sabab xavotirga tushayotgan matematiklarga hamdardlik bildirdi. U ushbu sohani rivojlantirgan hamjamiyatlar manfaatlarini e'tiborga oluvchi yechim topishni xohlashini aytdi.",
+    "tags": [
+      "OpenAI"
+    ],
+    "importance": 3,
+    "score": 18,
+    "published": "2026-10-30T09:07:01.000Z",
+    "created": "2026-10-30T09:36:12.567Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/sam-altman-openai-math-reaction-criticism-2026-10",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "093de8ba35b0",
     "slug": "noetix-9-998-yuanlik-bumi-humanoid-robotini-taqdim-etdi-093de8",
     "title": "Noetix 9 998 yuanlik Bumi humanoid robotini taqdim etdi",
