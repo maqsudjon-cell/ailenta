@@ -1,5 +1,49 @@
 [
   {
+    "id": "4109480da7f7",
+    "slug": "uy-robotlari-uchun-sugurta-paydo-bolmoqda-410948",
+    "title": "Uy robotlari uchun sug'urta paydo bo'lmoqda",
+    "summary": "Sug'urta kompaniyalari uy sharoitida ishlatiladigan humanoid robotlar egalarini yuzaga kelishi mumkin bo'lgan tartibsizliklardan himoya qilishni ko'zlamoqda. Bu robot texnologiyalari rivojlanishi bilan bog'liq yangi xizmatdir.",
+    "tags": [
+      "robototexnika",
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 22,
+    "published": "2026-10-30T10:14:00.000Z",
+    "created": "2026-10-30T11:02:13.064Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/ai-and-ml/2026/10/30/domestic-droid-gone-amok-dont-worry-youre-covered/5306396",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "bb406d8f0695",
+    "slug": "truth-ai-yordamida-dasturiy-taminotni-tekshiradi-bb406d",
+    "title": "&Truth AI yordamida dasturiy ta'minotni tekshiradi",
+    "summary": "&Truth nomli yangi startap AI yordamida dasturiy ta'minotni rasmiy tekshirishni avtomatlashtirish uchun 70 million dollar urug'lik sarmoya bilan ishga tushdi. Bu jarayon dasturning to'g'ri ishlashini matematik usulda isbotlaydi.",
+    "tags": [
+      "biznes",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-10-30T06:30:03.000Z",
+    "created": "2026-10-30T11:02:13.064Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/261030/p4",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "7f423a21a4d6",
     "slug": "ozbekiston-va-jahon-banki-ai-loyihalarini-muhokama-qildi-7f423a",
     "title": "O'zbekiston va Jahon banki AI loyihalarini muhokama qildi",
