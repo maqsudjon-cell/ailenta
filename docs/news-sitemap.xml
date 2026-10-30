@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://ailenta.uz/x/intel-qiymatining-chorak-qismi-yoqoldi-60c3bb/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>AI Lenta</news:name>
+        <news:language>uz</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T02:42:58.000Z</news:publication_date>
+      <news:title>Intel qiymatining chorak qismi yo'qoldi</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://ailenta.uz/x/tencent-hunyuan-hy-nomas-va-sinov-toplamini-chiqardi-af1a74/</loc>
     <news:news>
       <news:publication>
@@ -1627,17 +1638,6 @@
       </news:publication>
       <news:publication_date>2026-10-28T04:00:00.000Z</news:publication_date>
       <news:title>AI modellarining o'qish paytidagi moslashuvi o'rganildi</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://ailenta.uz/x/meta-ai-infratuzilmasi-uchun-kapital-yigmoqchi-8dfbd3/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>AI Lenta</news:name>
-        <news:language>uz</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T02:52:55.000Z</news:publication_date>
-      <news:title>Meta AI infratuzilmasi uchun kapital yig'moqchi</news:title>
     </news:news>
   </url>
 </urlset>

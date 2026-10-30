@@ -1,5 +1,27 @@
 [
   {
+    "id": "60c3bbde0212",
+    "slug": "intel-qiymatining-chorak-qismi-yoqoldi-60c3bb",
+    "title": "Intel qiymatining chorak qismi yo'qoldi",
+    "summary": "Kompaniya bosh direktori ma'lumotlar markazlari uchun CPU bozorida katta o'sishni bashorat qilmoqda. Biroq, ishlab chiqarishdagi muammolar Intelning bu imkoniyatdan foydalana olmasligiga olib kelishi mumkin.",
+    "tags": [
+      "Intel",
+      "chiplar"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-10-30T02:42:58.000Z",
+    "created": "2026-10-30T03:02:20.191Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/systems/2026/10/30/pc-chip-plunge-wipes-out-a-quarter-of-intels-value/5306531",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "c30c38a613a7",
     "slug": "raspberry-pi-pico-2-w-da-ishlaydigan-kichik-dunyo-modeli-c30c38",
     "title": "Raspberry Pi Pico 2 W da ishlaydigan kichik dunyo modeli",

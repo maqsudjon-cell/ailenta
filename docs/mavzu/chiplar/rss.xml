@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/chiplar/</link>
   <description>&quot;chiplar&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Fri, 30 Oct 2026 02:32:13 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 30 Oct 2026 03:12:03 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/chiplar/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Intel qiymatining chorak qismi yo'qoldi</title>
+    <link>https://ailenta.uz/x/intel-qiymatining-chorak-qismi-yoqoldi-60c3bb/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/intel-qiymatining-chorak-qismi-yoqoldi-60c3bb/</guid>
+    <pubDate>Fri, 30 Oct 2026 02:42:58 GMT</pubDate>
+    <description>Kompaniya bosh direktori ma'lumotlar markazlari uchun CPU bozorida katta o'sishni bashorat qilmoqda. Biroq, ishlab chiqarishdagi muammolar Intelning bu imkoniyatdan foydalana olmasligiga olib kelishi mumkin.</description>
+    <category>Intel</category><category>chiplar</category>
+    <media:content url="https://ailenta.uz/og/intel-qiymatining-chorak-qismi-yoqoldi-60c3bb.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/intel-qiymatining-chorak-qismi-yoqoldi-60c3bb.jpg"/>
+  </item>
   <item>
     <title>Raspberry Pi Pico 2 W da ishlaydigan kichik dunyo modeli</title>
     <link>https://ailenta.uz/x/raspberry-pi-pico-2-w-da-ishlaydigan-kichik-dunyo-modeli-c30c38/</link>
@@ -296,16 +306,6 @@
     <category>chiplar</category><category>biznes</category>
     <media:content url="https://ailenta.uz/og/stars-micro-system-800g-ai-nic-va-boshqa-chiplarni-taqdim-et-5efa9e.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/stars-micro-system-800g-ai-nic-va-boshqa-chiplarni-taqdim-et-5efa9e.jpg"/>
-  </item>
-  <item>
-    <title>SpacemiT V100 RISC-V server CPU va uchta serverni chiqardi</title>
-    <link>https://ailenta.uz/x/spacemit-v100-risc-v-server-cpu-va-uchta-serverni-chiqardi-365a93/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/spacemit-v100-risc-v-server-cpu-va-uchta-serverni-chiqardi-365a93/</guid>
-    <pubDate>Tue, 20 Oct 2026 07:09:51 GMT</pubDate>
-    <description>SpacemiT va XiangShan V100 RISC-V server CPU'sini uchta server bilan birga ishga tushirdi. G5201 AI serveri sakkizta ikki enli kartani qabul qiladi va Kunlunxin M100 bilan tasdiqlangan.</description>
-    <category>chiplar</category><category>biznes</category>
-    <media:content url="https://ailenta.uz/og/spacemit-v100-risc-v-server-cpu-va-uchta-serverni-chiqardi-365a93.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/spacemit-v100-risc-v-server-cpu-va-uchta-serverni-chiqardi-365a93.jpg"/>
   </item>
 </channel>
 </rss>
