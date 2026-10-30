@@ -1,5 +1,70 @@
 [
   {
+    "id": "178e7ffe1d27",
+    "slug": "kanada-ai-startapiga-1-1-mlrd-gacha-sarmoya-kiritadi-178e7f",
+    "title": "Kanada AI startapiga $1,1 mlrd gacha sarmoya kiritadi",
+    "summary": "Kanada hukumati Torontodagi AI startapiga 1,1 milliard dollargacha sarmoya kiritib, kompaniya ulushiga ega bo'ladi. Bu orqali mamlakat AQSh texnologiyalariga bo'lgan qaramlikni kamaytirishni maqsad qilgan.",
+    "tags": [
+      "siyosat",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-10-29T22:45:40.000Z",
+    "created": "2026-10-30T03:37:29.635Z",
+    "coverage": 1,
+    "source": {
+      "name": "Semafor",
+      "url": "https://semafor.com/article/10/29/2026/canada-to-take-equity-stake-in-ai-firm",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "7ce380c836b2",
+    "slug": "tencent-workbuddy-platformasiga-yangi-funksiya-qoshdi-7ce380",
+    "title": "Tencent WorkBuddy platformasiga yangi funksiya qo'shdi",
+    "summary": "Tencent kompaniyasining WorkBuddy AI agentlar platformasi mobil ilova orqali masofadan boshqarish funksiyasini ishga tushirdi. Foydalanuvchilar kompyuter ish stolini real vaqt rejimida ko'rishlari va amallarni bajarishlari mumkin.",
+    "tags": [
+      "agentlar"
+    ],
+    "importance": 3,
+    "score": 18,
+    "published": "2026-10-30T03:32:54.000Z",
+    "created": "2026-10-30T03:37:29.635Z",
+    "coverage": 1,
+    "source": {
+      "name": "TechNode",
+      "url": "https://technode.com/2026/10/30/tencents-workbuddy-adds-remote-control-letting-users-manage-ai-tasks-from-their-phones",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "0a4653d5964a",
+    "slug": "anthropic-tsmc-chiplariga-qaramlikdan-ogohlantirdi-0a4653",
+    "title": "Anthropic TSMC chiplariga qaramlikdan ogohlantirdi",
+    "summary": "Anthropic kompaniyasi o'zining S-1 hujjatida Tayvanning TSMC kompaniyasi chiplariga kuchli bog'liqligini bildirdi. U Xitoy bilan geosiyosiy keskinliklar sababli yuzaga kelishi mumkin bo'lgan xavflardan ogohlantirgan.",
+    "tags": [
+      "Anthropic",
+      "chiplar"
+    ],
+    "importance": 4,
+    "score": 18,
+    "published": "2026-10-30T03:10:00.000Z",
+    "created": "2026-10-30T03:37:29.635Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/261029/p70",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "60c3bbde0212",
     "slug": "intel-qiymatining-chorak-qismi-yoqoldi-60c3bb",
     "title": "Intel qiymatining chorak qismi yo'qoldi",

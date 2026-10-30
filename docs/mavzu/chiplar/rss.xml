@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/chiplar/</link>
   <description>&quot;chiplar&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Fri, 30 Oct 2026 03:12:03 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 30 Oct 2026 03:43:05 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/chiplar/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Anthropic TSMC chiplariga qaramlikdan ogohlantirdi</title>
+    <link>https://ailenta.uz/x/anthropic-tsmc-chiplariga-qaramlikdan-ogohlantirdi-0a4653/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/anthropic-tsmc-chiplariga-qaramlikdan-ogohlantirdi-0a4653/</guid>
+    <pubDate>Fri, 30 Oct 2026 03:10:00 GMT</pubDate>
+    <description>Anthropic kompaniyasi o'zining S-1 hujjatida Tayvanning TSMC kompaniyasi chiplariga kuchli bog'liqligini bildirdi. U Xitoy bilan geosiyosiy keskinliklar sababli yuzaga kelishi mumkin bo'lgan xavflardan ogohlantirgan.</description>
+    <category>Anthropic</category><category>chiplar</category>
+    <media:content url="https://ailenta.uz/og/anthropic-tsmc-chiplariga-qaramlikdan-ogohlantirdi-0a4653.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/anthropic-tsmc-chiplariga-qaramlikdan-ogohlantirdi-0a4653.jpg"/>
+  </item>
   <item>
     <title>Intel qiymatining chorak qismi yo'qoldi</title>
     <link>https://ailenta.uz/x/intel-qiymatining-chorak-qismi-yoqoldi-60c3bb/</link>
@@ -296,16 +306,6 @@
     <category>chiplar</category><category>biznes</category>
     <media:content url="https://ailenta.uz/og/chery-ai-hisoblash-uchun-avtomobil-chiplarini-taqdim-etdi-4a5e94.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/chery-ai-hisoblash-uchun-avtomobil-chiplarini-taqdim-etdi-4a5e94.jpg"/>
-  </item>
-  <item>
-    <title>Stars Micro System 800G AI NIC va boshqa chiplarni taqdim etdi</title>
-    <link>https://ailenta.uz/x/stars-micro-system-800g-ai-nic-va-boshqa-chiplarni-taqdim-et-5efa9e/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/stars-micro-system-800g-ai-nic-va-boshqa-chiplarni-taqdim-et-5efa9e/</guid>
-    <pubDate>Tue, 20 Oct 2026 07:10:19 GMT</pubDate>
-    <description>Stars Micro System kompaniyasi Xitoyning birinchi PCIe 6.0 kommutatori C82-4G, 800G ko'p protokollik AI NIC va ko'p rejimli RAID chipini ishga tushirdi. C82-4G 144 tagacha liniyaga ega.</description>
-    <category>chiplar</category><category>biznes</category>
-    <media:content url="https://ailenta.uz/og/stars-micro-system-800g-ai-nic-va-boshqa-chiplarni-taqdim-et-5efa9e.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/stars-micro-system-800g-ai-nic-va-boshqa-chiplarni-taqdim-et-5efa9e.jpg"/>
   </item>
 </channel>
 </rss>
