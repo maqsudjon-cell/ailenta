@@ -5,7 +5,7 @@
   <link>https://ailenta.uz/mavzu/tadqiqot/</link>
   <description>&quot;tadqiqot&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Fri, 30 Oct 2026 11:08:23 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 30 Oct 2026 12:09:39 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/tadqiqot/rss.xml" rel="self" type="application/rss+xml"/>
   <item>
     <title>Talabalarning AI haqidagi tasavvurlari o'rganildi</title>
@@ -36,6 +36,16 @@
     <category>tadqiqot</category><category>chiplar</category>
     <media:content url="https://ailenta.uz/og/raspberry-pi-pico-2-w-da-ishlaydigan-kichik-dunyo-modeli-c30c38.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/raspberry-pi-pico-2-w-da-ishlaydigan-kichik-dunyo-modeli-c30c38.jpg"/>
+  </item>
+  <item>
+    <title>Iste'molchilar shaxsiy AIga qiziqish bildirmoqda</title>
+    <link>https://ailenta.uz/x/istemolchilar-shaxsiy-aiga-qiziqish-bildirmoqda-296e57/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/istemolchilar-shaxsiy-aiga-qiziqish-bildirmoqda-296e57/</guid>
+    <pubDate>Thu, 29 Oct 2026 19:18:20 GMT</pubDate>
+    <description>Iste'molchilar sun'iy intellektning shaxsiy yordamchi sifatida qo'llanilishiga qiziqish bildirmoqda. Bu tendensiya taqiladigan qurilmalardagi AI rivoji bilan bog'liq.</description>
+    <category>Qualcomm</category><category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/istemolchilar-shaxsiy-aiga-qiziqish-bildirmoqda-296e57.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/istemolchilar-shaxsiy-aiga-qiziqish-bildirmoqda-296e57.jpg"/>
   </item>
   <item>
     <title>AI nega mahsulotlarni umumiy so'zlar bilan tasvirlaydi</title>
@@ -296,16 +306,6 @@
     <category>biznes</category><category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/dalet-labs-ai-tasvirlar-bilan-xarid-ilovasini-ishga-tushirdi-ed9c33.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/dalet-labs-ai-tasvirlar-bilan-xarid-ilovasini-ishga-tushirdi-ed9c33.jpg"/>
-  </item>
-  <item>
-    <title>Sanoat AI avtonomiyasi va inson nazorati</title>
-    <link>https://ailenta.uz/x/sanoat-ai-avtonomiyasi-va-inson-nazorati-c3f87b/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/sanoat-ai-avtonomiyasi-va-inson-nazorati-c3f87b/</guid>
-    <pubDate>Wed, 28 Oct 2026 12:00:00 GMT</pubDate>
-    <description>MIT Technology Review sanoatda AI avtonomiyasi va inson nazoratini birlashtirish mavzusini ko'rib chiqmoqda. Bu yondashuv samaradorlikni oshirishga qaratilgan.</description>
-    <category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/sanoat-ai-avtonomiyasi-va-inson-nazorati-c3f87b.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/sanoat-ai-avtonomiyasi-va-inson-nazorati-c3f87b.jpg"/>
   </item>
 </channel>
 </rss>

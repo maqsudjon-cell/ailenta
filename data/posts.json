@@ -1,5 +1,49 @@
 [
   {
+    "id": "296e570e8a26",
+    "slug": "istemolchilar-shaxsiy-aiga-qiziqish-bildirmoqda-296e57",
+    "title": "Iste'molchilar shaxsiy AIga qiziqish bildirmoqda",
+    "summary": "Iste'molchilar sun'iy intellektning shaxsiy yordamchi sifatida qo'llanilishiga qiziqish bildirmoqda. Bu tendensiya taqiladigan qurilmalardagi AI rivoji bilan bog'liq.",
+    "tags": [
+      "Qualcomm",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 17.1,
+    "published": "2026-10-29T19:18:20.000Z",
+    "created": "2026-10-30T12:01:54.794Z",
+    "coverage": 1,
+    "source": {
+      "name": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/ai-personal-assistant-intelligent-wearables",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "498eca97dbc8",
+    "slug": "kioxia-ai-sabab-chip-narxi-oshishidan-ogohlantirdi-498eca",
+    "title": "Kioxia AI sabab chip narxi oshishidan ogohlantirdi",
+    "summary": "NAND chip ishlab chiqaruvchi Kioxia kompaniyasi ikkinchi chorakda 12,7 milliard dollar foyda ko'rdi. U AI tufayli flesh xotira chip narxlarining oshishidan ogohlantirdi.",
+    "tags": [
+      "chiplar",
+      "iqtisod"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-10-30T11:50:01.000Z",
+    "created": "2026-10-30T12:01:54.795Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/261030/p11",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "4109480da7f7",
     "slug": "uy-robotlari-uchun-sugurta-paydo-bolmoqda-410948",
     "title": "Uy robotlari uchun sug'urta paydo bo'lmoqda",
