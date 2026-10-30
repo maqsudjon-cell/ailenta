@@ -1,5 +1,70 @@
 [
   {
+    "id": "25cc4c9bb2e3",
+    "slug": "openai-saytlarning-ai-oqitish-imtiyozlarini-hurmat-qiladi-25cc4c",
+    "title": "OpenAI saytlarning AI o'qitish imtiyozlarini hurmat qiladi",
+    "summary": "OpenAI veb-sayt operatorlariga AI o'qitish imtiyozlarini bildirishda yordam berish uchun umumiy robots.txt signalini hurmat qiladi. Bu ishtirokchi provayderlarga ma'lumotlarni qanday ishlatishni tushunishga yordam beradi.",
+    "tags": [
+      "OpenAI",
+      "maxfiylik"
+    ],
+    "importance": 3,
+    "score": 39,
+    "published": "2026-10-30T09:30:00.000Z",
+    "created": "2026-10-30T18:40:59.575Z",
+    "coverage": 1,
+    "source": {
+      "name": "OpenAI",
+      "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "c7606af40dbb",
+    "slug": "openai-chatgptda-zoravonlikning-oldini-olishni-kuchaytirmoqd-c7606a",
+    "title": "OpenAI ChatGPTda zo'ravonlikning oldini olishni kuchaytirmoqda",
+    "summary": "OpenAI ChatGPTda zo'ravonlikning oldini olish choralarini kuchaytirmoqda. Kompaniya kengaytirilgan himoya vositalari, erta aralashuvlar va jamoat xavfsizligi hisobotiga yangi majburiyatni joriy etmoqda.",
+    "tags": [
+      "OpenAI",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 36,
+    "published": "2026-10-30T09:00:00.000Z",
+    "created": "2026-10-30T18:40:59.575Z",
+    "coverage": 1,
+    "source": {
+      "name": "OpenAI",
+      "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "9e37c40a85b3",
+    "slug": "ai-sre-mutaxassislarini-boshatmay-malakasini-tushirmoqda-9e37c4",
+    "title": "AI SRE mutaxassislarini bo'shatmay, malakasini tushirmoqda",
+    "summary": "Sun'iy intellekt Site Reliability Engineer (SRE) mutaxassislarini to'g'ridan-to'g'ri almashtirmayapti. Aksincha, u ularning malakasini pasaytirmoqda, bu esa ish vazifalarida o'zgarishlarga olib kelishi mumkin.",
+    "tags": [
+      "mehnat bozori"
+    ],
+    "importance": 2,
+    "score": 23,
+    "published": "2026-10-30T15:52:18.000Z",
+    "created": "2026-10-30T18:40:59.575Z",
+    "coverage": 1,
+    "source": {
+      "name": "Hacker News",
+      "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "06f6a66d1dfb",
     "slug": "aqsh-texnologiya-aksiyalari-ai-xarajatlari-sabab-tushmoqda-06f6a6",
     "title": "AQSH texnologiya aksiyalari AI xarajatlari sabab tushmoqda",
