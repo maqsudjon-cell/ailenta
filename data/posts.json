@@ -1,74 +1,9 @@
 [
   {
-    "id": "9b894388109d",
-    "slug": "anthropic-video-oyinlarni-qayta-yozishga-qarshi-9b8943",
-    "title": "Anthropic video o'yinlarni qayta yozishga qarshi",
-    "summary": "Anthropic kompaniyasi video o'yinlarni qayta yozish amaliyotiga qarshi choralar ko'rmoqda.",
-    "tags": [
-      "Anthropic",
-      "biznes"
-    ],
-    "importance": 2,
-    "score": 18.5,
-    "published": "2026-10-30T14:22:52.000Z",
-    "created": "2026-10-30T20:06:39.497Z",
-    "coverage": 1,
-    "source": {
-      "name": "Hacker News",
-      "url": "https://twitter.com/chasmmmmmmmmmmm/status/2116062991686721968",
-      "indirect": false
-    },
-    "also": [],
-    "model": "gemini"
-  },
-  {
-    "id": "c490e3915488",
-    "slug": "microsoft-ai-rivoji-uchun-25-milliard-dollar-qarz-oladi-c490e3",
-    "title": "Microsoft AI rivoji uchun 25 milliard dollar qarz oladi",
-    "summary": "Microsoft sun'iy intellektni rivojlantirish maqsadida 25 milliard dollar qarz jalb qilishni rejalashtirmoqda. Kompaniya mustahkam kredit reytingiga ega.",
-    "tags": [
-      "Microsoft",
-      "biznes"
-    ],
-    "importance": 4,
-    "score": 16,
-    "published": "2026-10-30T00:38:13.000Z",
-    "created": "2026-10-30T20:06:39.497Z",
-    "coverage": 1,
-    "source": {
-      "name": "CNBC",
-      "url": "https://cnbc.com/2026/10/29/microsoft-25-billion-debt-offering.html",
-      "indirect": false
-    },
-    "also": [],
-    "model": "gemini"
-  },
-  {
-    "id": "abf1986abc86",
-    "slug": "starbucks-ai-yordamida-shaxsiy-menyularni-taqdim-etadi-abf198",
-    "title": "Starbucks AI yordamida shaxsiy menyularni taqdim etadi",
-    "summary": "Starbucks AI yordamida avtomobil orqali xizmat ko'rsatish nuqtalarida mijozlarga shaxsiy raqamli menyularni ko'rsatishni rejalashtirmoqda. Bu tajriba to'lovni ham osonlashtirishi kutilmoqda.",
-    "tags": [
-      "biznes"
-    ],
-    "importance": 2,
-    "score": 15,
-    "published": "2026-10-30T17:38:04.000Z",
-    "created": "2026-10-30T20:06:39.497Z",
-    "coverage": 1,
-    "source": {
-      "name": "The Verge",
-      "url": "https://theverge.com/ai-artificial-intelligence/1023440/starbucks-ai-personalized-menu-drive-thru",
-      "indirect": false
-    },
-    "also": [],
-    "model": "gemini"
-  },
-  {
     "id": "d906f2ca87fc",
-    "slug": "theranos-xabar-beruvchisi-ai-sohasidagi-aldovdan-ogohlantird-d906f2",
-    "title": "Theranos xabar beruvchisi AI sohasidagi aldovdan ogohlantirdi",
-    "summary": "Theranos kompaniyasining sobiq xodimi Tayler Shults AI rivojlanishi davrida odamlarni aldash uchun katta imkoniyatlar mavjudligidan ogohlantirdi. U foyda ko'rmagan kompaniyalarning yuqori baholanishiga e'tibor qaratdi.",
+    "slug": "ai-rivoji-odamlarni-aldash-uchun-imkoniyat-shults-d906f2",
+    "title": "AI rivoji odamlarni aldash uchun imkoniyat — Shults",
+    "summary": "Theranos kompaniyasining sobiq xodimi Tayler Shults AI rivojlanishi odamlarni aldash uchun katta imkoniyat yaratishidan ogohlantirdi. U foyda ko'rmagan kompaniyalar trillion dollarlik baholarda kapital jalb qilayotganini ta'kidladi.",
     "tags": [
       "xavfsizlik",
       "biznes"
@@ -76,7 +11,7 @@
     "importance": 3,
     "score": 15,
     "published": "2026-10-30T16:03:45.000Z",
-    "created": "2026-10-30T20:06:39.497Z",
+    "created": "2026-10-30T20:18:39.715Z",
     "coverage": 1,
     "source": {
       "name": "TechCrunch",
