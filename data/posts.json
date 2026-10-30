@@ -1,5 +1,156 @@
 [
   {
+    "id": "d242eb003b2e",
+    "slug": "anthropic-asoschisi-aqsh-markazida-ai-imkoniyatlarini-kormoq-d242eb",
+    "title": "Anthropic asoschisi AQSh markazida AI imkoniyatlarini ko'rmoqda",
+    "summary": "Anthropic kompaniyasi asoschilaridan biri AQShning markaziy hududlarida sun'iy intellekt uchun yangi imkoniyatlar mavjudligini ta'kidladi. Bu haqda Axios xabar berdi.",
+    "tags": [
+      "Anthropic",
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 26,
+    "published": "2026-10-29T19:13:20.000Z",
+    "created": "2026-10-30T00:02:00.808Z",
+    "coverage": 1,
+    "source": {
+      "name": "Axios",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQ012STE3di1JZFV4S1ZZb19GbnJrdDhOQWZOSVR5c2pLVFZuOS1LX0JtVkR5aDJ4ckUtRlM2cXJyRFlQVFBZSDJHbU9xWjh2Unc1bkpoZmc3anVORE9pSWhIM1RFWFRSNElMbHpjUUZZZ1dGcHJFOWlpN2c2T19tVk5NdC1CeThoTzBpR0kyQzNQMk14TWV4aHNB",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "502de87809f2",
+    "slug": "ben-hylak-mahsulotlar-agentlarga-ulanishi-kerak-502de8",
+    "title": "Ben Hylak: Mahsulotlar agentlarga ulanishi kerak",
+    "summary": "Ben Hylakning fikricha, har bir mahsulot agentlarga ma'lumot uzatuvchi \"headless mcp\" bo'lishi lozim. Uning ta'kidlashicha, bu foydalanuvchilarga asosiy jarayonlar haqida o'ylamaslik imkonini beradi.",
+    "tags": [
+      "agentlar",
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 21,
+    "published": "2026-10-29T14:06:27.000Z",
+    "created": "2026-10-30T00:02:00.808Z",
+    "coverage": 1,
+    "source": {
+      "name": "Simon Willison",
+      "url": "https://simonwillison.net/2026/Oct/29/ben-hylak",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "822cef4330a8",
+    "slug": "model-ashley-graham-tadbirkorlikka-otish-yolini-bolishdi-822cef",
+    "title": "Model Ashley Graham tadbirkorlikka o'tish yo'lini bo'lishdi",
+    "summary": "Model Ashley Graham Business Insider's The Long Play tadbirida o'zining modellikdan tadbirkorlikka o'tish yo'lini so'zlab berdi. U o'z faoliyatida haqiqiylikni muhim deb biladi.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 1,
+    "score": 15,
+    "published": "2026-10-29T23:25:30.000Z",
+    "created": "2026-10-30T00:02:00.808Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/model-ashley-graham-rejection-better-business-2026-10",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "385acc7bf02e",
+    "slug": "barry-diller-ai-davrida-media-monetizatsiyasi-rejasini-aytdi-385acc",
+    "title": "Barry Diller AI davrida media monetizatsiyasi rejasini aytdi",
+    "summary": "Media rahbari Barry Diller Business Insider's The Long Play tadbirida sun'iy intellekt davrida an'anaviy mediani monetizatsiya qilish rejalari haqida fikr bildirdi.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-10-29T22:07:54.000Z",
+    "created": "2026-10-30T00:02:00.808Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/barry-diller-career-pivots-ai-in-media-mgm-deal-2026-10",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "989cb8d1fca0",
+    "slug": "kimi-k3-ochiq-modeli-yopiq-ai-yetakchilarini-ortda-qoldirdi-989cb8",
+    "title": "Kimi K3 ochiq modeli yopiq AI yetakchilarini ortda qoldirdi",
+    "summary": "Kimi K3 ochiq og'irlikdagi modeli ba'zi mustaqil sinov to'plamlarida GPT va Anthropic kabi yopiq yechimlardan ustun keldi. Uning og'irliklarini yuklab olish va o'rnatish mumkin.",
+    "tags": [
+      "ochiq model",
+      "tadqiqot"
+    ],
+    "importance": 4,
+    "score": 14,
+    "published": "2026-10-29T15:53:18.000Z",
+    "created": "2026-10-30T00:02:00.808Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/companies/pt/articles/1101328",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "0bf4745a3f57",
+    "slug": "li-auto-yangilangan-2026-i6-elektromobilini-taqdim-etdi-0bf474",
+    "title": "Li Auto yangilangan 2026 i6 elektromobilini taqdim etdi",
+    "summary": "Li Auto kompaniyasi 2026-yilgi Li Auto i6 modelini taqdim etdi. Yangilangan elektromobil batareya tizimi, aqlli kokpit va haydovchiga yordam berish texnologiyalariga ega. Uning narxi 249 800 RMB dan boshlanadi.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 13.2,
+    "published": "2026-10-29T07:27:29.000Z",
+    "created": "2026-10-30T00:02:00.808Z",
+    "coverage": 1,
+    "source": {
+      "name": "TechNode",
+      "url": "https://technode.com/2026/10/29/can-the-upgraded-li-auto-i6-hold-its-ground-in-chinas-crowded-electric-suv-market",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "b86dd5620810",
+    "slug": "ai-laboratoriyalarida-ishga-yollashda-raqobatlashish-b86dd5",
+    "title": "AI laboratoriyalarida ishga yollashda raqobatlashish",
+    "summary": "Maqolada tez rivojlanayotgan sun'iy intellekt laboratoriyalari bilan ishga yollash jarayonida qanday raqobatlashish mumkinligi muhokama qilingan. Bu sohada iste'dodlarni jalb qilish muhim ahamiyatga ega.",
+    "tags": [
+      "mehnat bozori",
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 12.2,
+    "published": "2026-10-29T05:00:00.000Z",
+    "created": "2026-10-30T00:02:00.808Z",
+    "coverage": 1,
+    "source": {
+      "name": "Sifted",
+      "url": "https://sifted.eu/articles/how-to-outcompete-ai-labs",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "1e0e2c583cc8",
     "slug": "viktoriya-advokatlarining-yarmi-ai-ishlatmoqda-1e0e2c",
     "title": "Viktoriya advokatlarining yarmi AI ishlatmoqda",
