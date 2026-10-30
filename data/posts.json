@@ -1,5 +1,36 @@
 [
   {
+    "id": "205a002f8608",
+    "slug": "ai-gigantlari-malumot-yigishga-qarshi-standartni-qollaydi-205a00",
+    "title": "AI gigantlari ma'lumot yig'ishga qarshi standartni qo'llaydi",
+    "summary": "OpenAI, Google, Microsoft va Anthropic nashriyotlar uchun ma'lumot yig'ishni rad etishning yangi standartini qabul qiladi. Ushbu mexanizm nashriyotlarga AI o'qitish sozlamalarini bir nechta kompaniyalarga birdek qo'llash imkonini beradi.",
+    "tags": [
+      "OpenAI",
+      "maxfiylik"
+    ],
+    "importance": 4,
+    "score": 36,
+    "published": "2026-10-30T20:26:10.000Z",
+    "created": "2026-10-30T21:36:05.057Z",
+    "coverage": 3,
+    "source": {
+      "name": "The Verge",
+      "url": "https://theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "The Verge",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPOU5qeERzcFEybnR3WlpRcnlNaUZvLWJMQlYxVnp1VmdaYWxYcmxRRm5WX2Y2a3oxRmMyVC1JenBOb0tkUkhrM3dFWmFfZDBLcWppSmtxczR4T0pGd05tS09tVlN1aERUZURtWU9iV3AxdW9fMU9RdEc5ZDhrb3FWZU8yT2g4V0FRUEl2aUNCaURUX1Nt"
+      },
+      {
+        "name": "How-To Geek",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQT2xRTkxGSGo1T1FfUGJLc3o0X21KYVNTa2lwcU1VdEplWjZKa0J6NkpEOWRKcHo5WnpEQ3FVbWxYa3hDdWI3RlB5Ml9JaW9rdjdheC1ldGVtMGJ6dGUzQ3c2R1h1UjFveWRpaDhGeEdJYVBHS21HOWJ4ajdFMkd1ejZVM2NZMWdtNlE3ZzRtb3RDQQ"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
     "id": "5a1dea183cd6",
     "slug": "sam-altman-operativ-xotira-haqida-fikr-bildirdi-5a1dea",
     "title": "Sam Altman operativ xotira haqida fikr bildirdi",
