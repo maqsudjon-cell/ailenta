@@ -1,5 +1,90 @@
 [
   {
+    "id": "d1f4c5e7265d",
+    "slug": "talabalarning-ai-haqidagi-tasavvurlari-organildi-d1f4c5",
+    "title": "Talabalarning AI haqidagi tasavvurlari o'rganildi",
+    "summary": "Tyumen davlat universiteti psixologlari talabalarning sun'iy intellekt haqidagi tasavvurlarini o'rgandi. Tadqiqot talabalar AIni tezkor vosita deb bilishi bilan birga, unga fikrlash va ijod kabi insonga xos xususiyatlarni ham nisbat berishini ko'rsatdi.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 48,
+    "published": "2026-10-30T05:10:31.000Z",
+    "created": "2026-10-30T06:01:35.831Z",
+    "coverage": 1,
+    "source": {
+      "name": "Kun.uz",
+      "url": "https://kun.uz/news/2026/10/30/talabalar-suniy-intellektni-oylaydigan-mashina-deb-tasavvur-qilmoqda-58583",
+      "title": "Talabalar sunʼiy intellektni «öylaydigan» maşina deb tasavvur qilmoqda",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "9f2def2693b1",
+    "slug": "xitoyda-chivinlarni-yoqotadigan-ai-qurilmasi-yaratildi-9f2def",
+    "title": "Xitoyda chivinlarni yo'qotadigan AI qurilmasi yaratildi",
+    "summary": "Xitoy startapi chivinlarni yo'q qilish uchun sun'iy intellekt va lazerdan foydalanadigan qurilma ishlab chiqdi. Biroq qurilma ishlayotgan paytda atrofdagilar xavfsizligi bo'yicha xavotirlar mavjud.",
+    "tags": [
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 30,
+    "published": "2026-10-30T04:01:06.000Z",
+    "created": "2026-10-30T06:02:34.668Z",
+    "coverage": 1,
+    "source": {
+      "name": "The New York Times",
+      "url": "https://nytimes.com/video/technology/100000011221955/ai-lasers-mosquitoes.html",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "22372f1517c5",
+    "slug": "01-ai-xitoy-davlat-investitsiyasini-jalb-qildi-22372f",
+    "title": "01.AI Xitoy davlat investitsiyasini jalb qildi",
+    "summary": "Li Kay-fu tomonidan tashkil etilgan 01.AI kompaniyasi Xanchjou davlat investorlaridan yuzlab million yuan miqdorida sarmoya oldi. Kelishuvga ko'ra, kompaniya o'z qarorgohini Linpin tumanida joylashtiradi.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 18,
+    "published": "2026-10-30T05:46:56.000Z",
+    "created": "2026-10-30T06:02:34.668Z",
+    "coverage": 1,
+    "source": {
+      "name": "TechNode",
+      "url": "https://technode.com/2026/10/30/kai-fu-lees-01-ai-secures-hangzhou-state-investment-worth-hundreds-of-millions-of-rmb",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "fc951c4b77e9",
+    "slug": "xiaomi-sobiq-rahbari-ai-uyqu-tizimini-taqdim-etdi-fc951c",
+    "title": "Xiaomi sobiq rahbari AI uyqu tizimini taqdim etdi",
+    "summary": "Xiaomi kompaniyasining sobiq rahbari Vang Teng tomonidan asos solingan ISHO startapi aqlli uzuk va AI asosidagi uyqu tizimini taqdim etdi. Qurilmalar inson fiziologik signallarini kuzatib, uyqu holatini tahlil qiladi.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-10-30T05:46:56.000Z",
+    "created": "2026-10-30T06:02:34.668Z",
+    "coverage": 1,
+    "source": {
+      "name": "TechNode",
+      "url": "https://technode.com/2026/10/30/former-xiaomi-executive-launches-smart-ring-and-ai-powered-sleep-system",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "2801f9d144ca",
     "slug": "spacexning-eng-yirik-daromadi-anthropic-bilan-bogliq-2801f9",
     "title": "SpaceX'ning eng yirik daromadi Anthropic bilan bog'liq",
