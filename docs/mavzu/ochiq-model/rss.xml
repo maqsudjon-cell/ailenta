@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/ochiq-model/</link>
   <description>&quot;ochiq model&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Fri, 30 Oct 2026 22:07:42 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 30 Oct 2026 23:09:59 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/ochiq-model/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Qwen modeliga NES emulyatori o'rnatildi</title>
+    <link>https://ailenta.uz/x/qwen-modeliga-nes-emulyatori-ornatildi-4e2c9c/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/qwen-modeliga-nes-emulyatori-ornatildi-4e2c9c/</guid>
+    <pubDate>Fri, 30 Oct 2026 21:59:22 GMT</pubDate>
+    <description>Drew Breunig Qwen3.5-4B modelining og'irliklariga Nintendo Entertainment System (NES) 6502 CPU uchun emulyatorni joylashtirdi. Endi Qwen ichida Super Mario Bros kabi NES o'yinlarini o'ynash mumkin. Bu qwenputer loyihasidan ilhomlanib yaratilgan.</description>
+    <category>tadqiqot</category><category>ochiq model</category>
+    <media:content url="https://ailenta.uz/og/qwen-modeliga-nes-emulyatori-ornatildi-4e2c9c.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/qwen-modeliga-nes-emulyatori-ornatildi-4e2c9c.jpg"/>
+  </item>
   <item>
     <title>Tencent Hunyuan Hy-Nomas va sinov to'plamini chiqardi</title>
     <link>https://ailenta.uz/x/tencent-hunyuan-hy-nomas-va-sinov-toplamini-chiqardi-af1a74/</link>
@@ -296,16 +306,6 @@
     <category>tadqiqot</category><category>ochiq model</category>
     <media:content url="https://ailenta.uz/og/hakembench-turk-tilidagi-qarorlar-uchun-yangi-sinov-to-plami-22f4f9.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/hakembench-turk-tilidagi-qarorlar-uchun-yangi-sinov-to-plami-22f4f9.jpg"/>
-  </item>
-  <item>
-    <title>MTPLX va oMLX serverlari taqqoslandi</title>
-    <link>https://ailenta.uz/x/mtplx-va-omlx-serverlari-taqqoslandi-4db8b7/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/mtplx-va-omlx-serverlari-taqqoslandi-4db8b7/</guid>
-    <pubDate>Sat, 03 Oct 2026 08:48:47 GMT</pubDate>
-    <description>Maqolada MTPLX va oMLX serverlari taqqoslanib, ularning samaradorligi o'rganildi. Tadqiqot lokal kod agenti va Qwen3.8-27B modelida o'tkazildi.</description>
-    <category>tadqiqot</category><category>ochiq model</category>
-    <media:content url="https://ailenta.uz/og/mtplx-va-omlx-serverlari-taqqoslandi-4db8b7.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/mtplx-va-omlx-serverlari-taqqoslandi-4db8b7.jpg"/>
   </item>
 </channel>
 </rss>

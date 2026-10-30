@@ -1,5 +1,49 @@
 [
   {
+    "id": "7bf5b5bbb082",
+    "slug": "anthropic-ipo-ai-xavflari-va-biznes-omillari-7bf5b5",
+    "title": "Anthropic IPO: AI xavflari va biznes omillari",
+    "summary": "Anthropic AQSH fond bozorida ommaviy taklif (IPO) uchun ariza berdi. Kompaniya 92 sahifalik hujjatda sun'iy intellektning jamiyat va insoniyatga tahdidlarini tan oldi. Bu IPO AI sanoati uchun muhim sinov bo'lishi mumkin.",
+    "tags": [
+      "Anthropic",
+      "biznes"
+    ],
+    "importance": 4,
+    "score": 29,
+    "published": "2026-10-30T19:57:13.000Z",
+    "created": "2026-10-30T23:02:09.329Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/global/video/2026/oct/30/anthropic-92-page-risk-factor-document-ipo-filing-video-explainer",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "4e2c9c66b20a",
+    "slug": "qwen-modeliga-nes-emulyatori-ornatildi-4e2c9c",
+    "title": "Qwen modeliga NES emulyatori o'rnatildi",
+    "summary": "Drew Breunig Qwen3.5-4B modelining og'irliklariga Nintendo Entertainment System (NES) 6502 CPU uchun emulyatorni joylashtirdi. Endi Qwen ichida Super Mario Bros kabi NES o'yinlarini o'ynash mumkin. Bu qwenputer loyihasidan ilhomlanib yaratilgan.",
+    "tags": [
+      "tadqiqot",
+      "ochiq model"
+    ],
+    "importance": 3,
+    "score": 18,
+    "published": "2026-10-30T21:59:22.000Z",
+    "created": "2026-10-30T23:02:09.329Z",
+    "coverage": 1,
+    "source": {
+      "name": "Simon Willison",
+      "url": "https://simonwillison.net/2026/Oct/30/nesformer",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "3f421dfac052",
     "slug": "universitet-xodimi-ai-ishlatmaslik-huquqini-oldi-3f421d",
     "title": "Universitet xodimi AI ishlatmaslik huquqini oldi",
