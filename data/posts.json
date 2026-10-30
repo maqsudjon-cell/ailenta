@@ -1,5 +1,115 @@
 [
   {
+    "id": "53e19775ea3e",
+    "slug": "ozbekiston-xitoydan-benzin-importini-muhokama-qilmoqda-53e197",
+    "title": "O'zbekiston Xitoydan benzin importini muhokama qilmoqda",
+    "summary": "O‘zbekneftgaz Xitoyning CNPC va PetroChina kompaniyalari bilan Ai-92 va undan yuqori markali benzin importini muhokama qilmoqda. Shuningdek, dizel yoqilg‘isi yetkazib berish va Buxoro neftni qayta ishlash zavodi uchun neft importini oshirish bo‘yicha muzokaralar olib borilmoqda.",
+    "tags": [
+      "O'zbekiston",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 48,
+    "published": "2026-10-30T12:56:27.000Z",
+    "created": "2026-10-30T14:02:30.106Z",
+    "coverage": 1,
+    "source": {
+      "name": "Daryo",
+      "url": "https://daryo.uz/2026/10/30/ozbekiston-xitoydan-ai-92-va-undan-yuqori-markali-benzin-import-qilishni-muhokama-qilmoqda",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "e761e8869ed8",
+    "slug": "makkaga-uchirilgan-dron-urib-tushirildi-e761e8",
+    "title": "Makkaga uchirilgan dron urib tushirildi",
+    "summary": "Saudiya Arabistoni Yaman husiylari muqaddas Makka shahri tomon yana bir dron uchirganini ma’lum qildi. Dron urib tushirilgan, biroq husiylar bu ayblovni rad etmoqda.",
+    "tags": [
+      "siyosat",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 45,
+    "published": "2026-10-30T10:46:49.000Z",
+    "created": "2026-10-30T14:02:30.107Z",
+    "coverage": 1,
+    "source": {
+      "name": "Daryo",
+      "url": "https://daryo.uz/2026/10/30/makkaga-uchirilgan-navbatdagi-dron-urib-tushirildi",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "b907565ccab4",
+    "slug": "rakuten-capital-janubi-sharqiy-osiyo-vc-modelini-ozgartirish-b90756",
+    "title": "Rakuten Capital Janubi-Sharqiy Osiyo VC modelini o'zgartirish taklifi",
+    "summary": "Rakuten Capital vakili Saemin Ahn Janubi-Sharqiy Osiyo venchur kapitali uchun boshqa model zarurligini ta'kidladi. Uning fikricha, mintaqa startaplari AQSH uslubidagi investitsiyalarni oqlash uchun yetarli miqyos va chiqishlarga ega emas.",
+    "tags": [
+      "biznes",
+      "iqtisod"
+    ],
+    "importance": 2,
+    "score": 19,
+    "published": "2026-10-30T07:00:00.000Z",
+    "created": "2026-10-30T14:02:30.107Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/10/30/saemin-ahn-southeast-asia-venture-capital",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "5f6e6b9b3ba3",
+    "slug": "binance-muhandis-noutbuki-buzilishi-ortidan-mablaglarni-muzl-5f6e6b",
+    "title": "Binance muhandis noutbuki buzilishi ortidan mablag'larni muzlatdi",
+    "summary": "Binance kompaniyasi muhandisning noutbuki buzilishi natijasida yuzaga kelgan 6,3 milliard dollarlik ruxsatsiz savdolar ortidan mablag'larni muzlatib qo'ydi. Bu voqea kripto birjalaridagi xavfsizlik muammolarini yana bir bor ko'rsatdi.",
+    "tags": [
+      "xavfsizlik",
+      "biznes"
+    ],
+    "importance": 4,
+    "score": 19,
+    "published": "2026-10-30T04:22:12.000Z",
+    "created": "2026-10-30T14:02:30.107Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/security/2026/10/30/in-the-year-ai-re-wrote-the-infosec-rulebook-its-comforting-to-know-crypto-exchanges-still-have-bad-security/5306539",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "57a8e8b59c00",
+    "slug": "gta-bosh-direktori-ai-hit-yaratishni-osonlashtirmaydi-dedi-57a8e8",
+    "title": "GTA bosh direktori AI hit yaratishni osonlashtirmaydi dedi",
+    "summary": "\"Grand Theft Auto\" ortidagi kompaniya bosh direktori Strauss Zelnickning aytishicha, sun'iy intellekt muvaffaqiyatli mahsulotlar yaratishni osonlashtirmaydi. Uning fikricha, muvaffaqiyatsizliklar kompaniyalarga eng yaxshi ishlarni qilish imkonini beradi.",
+    "tags": [
+      "biznes",
+      "iqtisod"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-10-30T13:13:25.000Z",
+    "created": "2026-10-30T14:02:30.107Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/ceo-grand-theft-auto-strauss-zelnick-ai-health-2026-10",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "43e6a5896fd8",
     "slug": "afrika-aida-yetishib-olish-emas-qurishga-etibor-qaratmoqda-43e6a5",
     "title": "Afrika AIda yetishib olish emas, qurishga e'tibor qaratmoqda",
