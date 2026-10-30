@@ -1,5 +1,70 @@
 [
   {
+    "id": "ca5a8f25a74b",
+    "slug": "aws-har-14-sekundda-bitta-ai-tezlatkichini-ornatmoqda-ca5a8f",
+    "title": "AWS har 14 sekundda bitta AI tezlatkichini o'rnatmoqda",
+    "summary": "AWS har 14 sekundda bitta AI tezlatkichini o'rnatmoqda va yillik daromadini 1 trillion dollarga yetkazishni ko'zlamoqda. Bulutli kompaniya sun'iy intellekt infratuzilmasini jadal kengaytirmoqda.",
+    "tags": [
+      "Amazon",
+      "bulut"
+    ],
+    "importance": 4,
+    "score": 19,
+    "published": "2026-10-30T05:42:24.000Z",
+    "created": "2026-10-30T07:01:49.415Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/off-prem/2026/10/30/aws-installs-an-ai-accelerator-every-14-seconds-and-eyes-1-trillion-annual-revenue/5306547",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "eaaae5b60cbf",
+    "slug": "ark-invest-anthropic-xarajatlari-foydaga-olib-kelishi-mumkin-eaaae5",
+    "title": "Ark Invest: Anthropic xarajatlari foydaga olib kelishi mumkin",
+    "summary": "Ark Invest tahlilchilariga ko'ra, Anthropic kompaniyasining sun'iy intellektga qilayotgan katta xarajatlari uning daromadli bo'lishiga xizmat qilishi mumkin. Ushbu investitsiyalar kompaniya kelajakdagi moliyaviy muvaffaqiyatining kalitiga aylanishi kutilmoqda.",
+    "tags": [
+      "Anthropic",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-10-30T03:11:10.000Z",
+    "created": "2026-10-30T07:01:49.415Z",
+    "coverage": 1,
+    "source": {
+      "name": "CNBC",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNR25fSGlQWHBHeFp3cVRsVWd2a2VyZFBCS1hBbjViMURRYzMxZDZWdUoxbWh0SlVqM0lNSWw4S1RaZXI2UTNsend0cjVTUUlwdHdDdGhUbWg1WlJtbXExejZuNW9jaUpIZV9HM1piRnFtVnEwQTEyWFhzZFk0LVJkYWc2dG14Zm9jck9PdkxMYVIteFVtRTVoaUhlNDVtejVJM3pCUjJOc2kyZ21xbnpkeg",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "1aa60b4696b6",
+    "slug": "ukrainada-ai-boshqaruvidagi-qurollar-havo-mudofaasiga-kirdi-1aa60b",
+    "title": "Ukrainada AI boshqaruvidagi qurollar havo mudofaasiga kirdi",
+    "summary": "Ukrainaning Brave1 tashkiloti sun'iy intellekt bilan boshqariladigan qurol minoralari havo mudofaasining ajralmas qismiga aylanganini bildirdi. Ikki yil oldin tajriba bo'lgan ushbu texnologiya endi amalda qo'llanilmoqda.",
+    "tags": [
+      "robototexnika"
+    ],
+    "importance": 4,
+    "score": 15,
+    "published": "2026-10-30T06:52:34.000Z",
+    "created": "2026-10-30T07:01:49.415Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/ai-controlled-gun-turrets-ukraine-war-reality-shahed-geran-defense2026-10",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "d1f4c5e7265d",
     "slug": "talabalarning-ai-haqidagi-tasavvurlari-organildi-d1f4c5",
     "title": "Talabalarning AI haqidagi tasavvurlari o'rganildi",
