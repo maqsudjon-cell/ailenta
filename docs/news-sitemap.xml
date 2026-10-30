@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://ailenta.uz/x/sam-altman-operativ-xotira-haqida-fikr-bildirdi-5a1dea/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>AI Lenta</news:name>
+        <news:language>uz</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T20:48:43.000Z</news:publication_date>
+      <news:title>Sam Altman operativ xotira haqida fikr bildirdi</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://ailenta.uz/x/ai-rivoji-odamlarni-aldash-uchun-imkoniyat-shults-d906f2/</loc>
     <news:news>
       <news:publication>
@@ -1429,17 +1440,6 @@
       </news:publication>
       <news:publication_date>2026-10-28T22:00:50.000Z</news:publication_date>
       <news:title>Anthropic tadqiqoti: AI ekspert hukmini buzishi mumkin</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://ailenta.uz/x/korxona-kontekstida-ai-qiymatini-yaratish-d29f17/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>AI Lenta</news:name>
-        <news:language>uz</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T20:32:02.000Z</news:publication_date>
-      <news:title>Korxona kontekstida AI qiymatini yaratish</news:title>
     </news:news>
   </url>
 </urlset>
