@@ -1,5 +1,69 @@
 [
   {
+    "id": "9fedf01bf3b9",
+    "slug": "marvell-lumentum-bilan-yirik-bitimga-yaqinlashmoqda-9fedf0",
+    "title": "Marvell Lumentum bilan yirik bitimga yaqinlashmoqda",
+    "summary": "Bloomberg bergan ma'lumotga ko'ra, Marvell kompaniyasi sun'iy intellekt yo'nalishidagi imkoniyatlarini kengaytirish uchun Lumentum bilan yirik bitim tuzishga yaqin turibdi.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 27,
+    "published": "2026-10-29T15:38:02.000Z",
+    "created": "2026-10-30T00:36:13.333Z",
+    "coverage": 1,
+    "source": {
+      "name": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTGdUMkpHa2JOcFhCMTFQU0tLaTJkTU54TmQ2aGJnVVVMR2VzeGdzLS1ONXd0U3hqQ0xPZUlEeTgyOWVXMHRQQ0hIeW5aX21JRkpNY3FlRUdNM1ZJMS1ZX3JwMWUteGVLdFFaVlNZMjZXUWtSSXNVRlEwdnRvbU9iQVBnNS1ycUgxMU5LTGtQQ0hSTWNOTkhBZ3FNRC1HaEZXZG9UMUd1QlBfeG1qZ044cTQtTk9Ydw",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "b36a902471af",
+    "slug": "howler-ai-savollarga-javob-berib-chatni-ochiradi-b36a90",
+    "title": "Howler AI savollarga javob berib chatni o'chiradi",
+    "summary": "Howler xizmati foydalanuvchilar savollariga sun'iy intellekt orqali javob beradi hamda chat tarixini saqlamay o'chirib tashlaydi. Xizmat bolalar fantastik romani uslubida ishlab chiqilgan.",
+    "tags": [
+      "maxfiylik"
+    ],
+    "importance": 2,
+    "score": 19,
+    "published": "2026-10-29T20:04:05.000Z",
+    "created": "2026-10-30T00:36:13.333Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/offbeat/2026/10/29/howler-will-have-ai-answer-your-questions-then-burn-the-chat/5306484",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "0d167b858471",
+    "slug": "anthropic-ai-kurslari-foydalanuvchilari-1-1-mln-ga-yetdi-0d167b",
+    "title": "Anthropic AI kurslari foydalanuvchilari 1,1 mln ga yetdi",
+    "summary": "Anthropic kompaniyasining sun'iy intellekt savodxonligi bo'yicha kurslari 1,1 million foydalanuvchiga yetdi. Bu haqda ETIH EdTech News xabar berdi.",
+    "tags": [
+      "Anthropic",
+      "ta'lim"
+    ],
+    "importance": 3,
+    "score": 10,
+    "published": "2026-10-30T00:21:06.000Z",
+    "created": "2026-10-30T00:36:13.333Z",
+    "coverage": 1,
+    "source": {
+      "name": "EdTech Innovation Hub",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQYWdYN0d0ZUlIQldGb2NPdXpKM3BUQmJXS09pTEhsa1BaZ3RYMmhjSTdCUmQtNFU1Q3R0bkdnRTdFQ0gzMy1sbXB1ZGNxY3ZpU0NuLWYzQTJFb1hacDltYVdUY0pheElpWDM3S2hZTWF6dzE2MU81RFAyODVDekgtOHhSWURPZ1BJVXR3WFpYSFhWYlktMUxlbU9oUDFVUHNtSV9xRDFpT3JOa3RaVzFUclJYYnFOX0ZCOWxpeU9mNXBJR0o1bl93",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "d242eb003b2e",
     "slug": "anthropic-asoschisi-aqsh-markazida-ai-imkoniyatlarini-kormoq-d242eb",
     "title": "Anthropic asoschisi AQSh markazida AI imkoniyatlarini ko'rmoqda",
