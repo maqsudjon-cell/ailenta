@@ -1,5 +1,49 @@
 [
   {
+    "id": "691aeb39c444",
+    "slug": "ai-agentlari-yordamida-ozga-sayyoraliklar-izlanmoqda-691aeb",
+    "title": "AI agentlari yordamida o'zga sayyoraliklar izlanmoqda",
+    "summary": "AI yordamida o'zga sayyoralik razvedka izlashda katta qadam tashlandi. Bu jarayon insonlar tomonidan yaratilgan AI agentlari boshqa AI agentlarini tinglashga qaratilgan.",
+    "tags": [
+      "Nvidia",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 36,
+    "published": "2026-10-30T15:00:10.000Z",
+    "created": "2026-10-30T16:23:21.117Z",
+    "coverage": 1,
+    "source": {
+      "name": "Nvidia",
+      "url": "https://blogs.nvidia.com/blog/ai-joins-the-search-for-extraterrestrial-signals",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "9385b63eba9f",
+    "slug": "intel-aksiyalari-50-yildan-ortiq-vaqtdagi-eng-yomon-kunini-o-9385b6",
+    "title": "Intel aksiyalari 50 yildan ortiq vaqtdagi eng yomon kunini o'tkazdi",
+    "summary": "Intel aksiyalari zaif prognozlar tufayli 50 yildan ortiq vaqtdagi eng yomon kunini boshdan kechirdi. Investorlar texnologiya gigantlarining AIga katta xarajatlaridan xavotirda.",
+    "tags": [
+      "Intel",
+      "iqtisod"
+    ],
+    "importance": 4,
+    "score": 19,
+    "published": "2026-10-30T15:43:48.000Z",
+    "created": "2026-10-30T16:23:21.117Z",
+    "coverage": 1,
+    "source": {
+      "name": "CNBC",
+      "url": "https://cnbc.com/2026/10/30/amazon-intel-earnings-big-tech-ai-spending-concerns.html",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "bfd02bc81f3f",
     "slug": "ai-arvoh-ovida-ghosttube-seer-ilovasi-bfd02b",
     "title": "AI arvoh ovida: GhostTube Seer ilovasi",
