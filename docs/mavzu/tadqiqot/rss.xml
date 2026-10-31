@@ -5,7 +5,7 @@
   <link>https://ailenta.uz/mavzu/tadqiqot/</link>
   <description>&quot;tadqiqot&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Sat, 31 Oct 2026 09:09:00 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 31 Oct 2026 09:46:35 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/tadqiqot/rss.xml" rel="self" type="application/rss+xml"/>
   <item>
     <title>FAIRouter AI model routeri NuGet'da chiqarildi</title>
@@ -26,6 +26,16 @@
     <category>DeepSeek</category><category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/xitoy-ai-laboratoriyalari-yangi-usulni-sinamoqda-ac6968.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/xitoy-ai-laboratoriyalari-yangi-usulni-sinamoqda-ac6968.jpg"/>
+  </item>
+  <item>
+    <title>AI yordamida 3D o'yin lokatsiyalarini prototiplash</title>
+    <link>https://ailenta.uz/x/ai-yordamida-3d-oyin-lokatsiyalarini-prototiplash-12c83e/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/ai-yordamida-3d-oyin-lokatsiyalarini-prototiplash-12c83e/</guid>
+    <pubDate>Sat, 31 Oct 2026 07:00:43 GMT</pubDate>
+    <description>Habr nashri AI yordamida 3D o'yin lokatsiyalari va darajalarini prototiplashni sinovdan o'tkazdi. Testda Nano Banana Pro, Grok Image 2, Qwen Image 3 va Seedream 5.0 Lite modellari ishlatildi.</description>
+    <category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/ai-yordamida-3d-oyin-lokatsiyalarini-prototiplash-12c83e.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/ai-yordamida-3d-oyin-lokatsiyalarini-prototiplash-12c83e.jpg"/>
   </item>
   <item>
     <title>Mahalliy AI modellarini firibgarlikda ishlatish mumkin</title>
@@ -296,16 +306,6 @@
     <category>Anthropic</category><category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/anthropic-ilm-fan-uchun-ai-loyihasini-kengaytirmoqda-fe75c1.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/anthropic-ilm-fan-uchun-ai-loyihasini-kengaytirmoqda-fe75c1.jpg"/>
-  </item>
-  <item>
-    <title>AI agent tizimlari qanday ishlaydi</title>
-    <link>https://ailenta.uz/x/ai-agent-tizimlari-qanday-ishlaydi-25f3e1/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/ai-agent-tizimlari-qanday-ishlaydi-25f3e1/</guid>
-    <pubDate>Wed, 28 Oct 2026 18:16:45 GMT</pubDate>
-    <description>Katta til modellari (LLM) fikrlash va javob berishga qodir, ammo tizim vazifalarni mustaqil bajarishi kerak bo'lsa, AI agentlari maydoni boshlanadi. Maqolada agent tizimlarining tuzilishi, rejalashtirish va o'zaro ta'sir usullari ko'rib chiqiladi.</description>
-    <category>agentlar</category><category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/ai-agent-tizimlari-qanday-ishlaydi-25f3e1.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/ai-agent-tizimlari-qanday-ishlaydi-25f3e1.jpg"/>
   </item>
 </channel>
 </rss>

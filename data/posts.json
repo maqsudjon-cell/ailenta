@@ -1,5 +1,69 @@
 [
   {
+    "id": "12c83e7ec931",
+    "slug": "ai-yordamida-3d-oyin-lokatsiyalarini-prototiplash-12c83e",
+    "title": "AI yordamida 3D o'yin lokatsiyalarini prototiplash",
+    "summary": "Habr nashri AI yordamida 3D o'yin lokatsiyalari va darajalarini prototiplashni sinovdan o'tkazdi. Testda Nano Banana Pro, Grok Image 2, Qwen Image 3 va Seedream 5.0 Lite modellari ishlatildi.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 14,
+    "published": "2026-10-31T07:00:43.000Z",
+    "created": "2026-10-31T09:36:38.092Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/companies/studyai/articles/1101390",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "7419ab2b76f0",
+    "slug": "bhaskar-chakravorti-anthropicni-ai-xavf-bayonotiga-chaqirdi-7419ab",
+    "title": "Bhaskar Chakravorti Anthropic'ni AI xavf bayonotiga chaqirdi",
+    "summary": "Bhaskar Chakravorti Anthropic kompaniyasini AI bilan bog'liq ommaviy xavf bayonotini e'lon qilishga chaqirdi. Bu chaqiriq sun'iy intellekt xavfsizligi masalasiga qaratilgan.",
+    "tags": [
+      "Anthropic",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 7.4,
+    "published": "2026-10-30T15:01:13.000Z",
+    "created": "2026-10-31T09:36:38.092Z",
+    "coverage": 1,
+    "source": {
+      "name": "UA.NEWS",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUXFUcWFzaVN0ZGF0ekFHVHI0VDBoSUEwOHNpQTdiMkFNRnBlaGd6Yks4UUkzbjEya3pBc3RHV2hUTDhPLXhfUmVDdnpVempSUUMyS1BDRDZlODhkLXlkbmNSajF5ZFA3bENOcUVyVUNHZWJOSUFVMXdabE5TN0JlRkdEbkVSRGk1bmpQWHl3d3RaVUtETkozSjNPTjIySktLcDNrOXZ1Qkw4alI5ZEJyQ3k3V18",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "c1c77a784f69",
+    "slug": "anthropic-claude-modelining-cheklovini-olib-tashladi-c1c77a",
+    "title": "Anthropic Claude modelining cheklovini olib tashladi",
+    "summary": "Anthropic kompaniyasi o'zining Claude modelidan foydalanishdagi eng katta cheklovlardan birini bekor qildi. Biroq, bu o'zgarish barcha foydalanuvchilar uchun amal qilmaydi.",
+    "tags": [
+      "Anthropic"
+    ],
+    "importance": 3,
+    "score": 6.5,
+    "published": "2026-10-30T20:15:41.000Z",
+    "created": "2026-10-31T09:36:38.092Z",
+    "coverage": 1,
+    "source": {
+      "name": "The New Stack",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA2WWg2bVhLZjRZVDBxMExxSjVlY1U4ZGJyVFlxT0xNTXhxd1prSlZYV2JsQlM5NzBnLWVPcjExQlVjRV9lY3Q1VUJGVEJKX0lMZ000RUJlR25QZllZeGNr",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "828ddfeadf3b",
     "slug": "uoll-strit-ai-xarajatlari-xavotiri-tufayli-pasaydi-828ddf",
     "title": "Uoll-strit AI xarajatlari xavotiri tufayli pasaydi",
