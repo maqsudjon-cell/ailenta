@@ -1,5 +1,71 @@
 [
   {
+    "id": "828ddfeadf3b",
+    "slug": "uoll-strit-ai-xarajatlari-xavotiri-tufayli-pasaydi-828ddf",
+    "title": "Uoll-strit AI xarajatlari xavotiri tufayli pasaydi",
+    "summary": "AI kompaniyalarining katta xarajatlari haqidagi xavotirlar texnologiya sektorida sotuvlarga sabab bo'ldi. Natijada, Uoll-strit keskin pasayish bilan yopildi.",
+    "tags": [
+      "iqtisod",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 17.3,
+    "published": "2026-10-30T21:32:35.000Z",
+    "created": "2026-10-31T09:02:57.725Z",
+    "coverage": 1,
+    "source": {
+      "name": "Hacker News",
+      "url": "https://reuters.com/business/nasdaq-futures-tumble-amazon-intel-results-deepen-ai-spending-woes-2026-10-30",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "6f2d3a28a5c0",
+    "slug": "fairouter-ai-model-routeri-nugetda-chiqarildi-6f2d3a",
+    "title": "FAIRouter AI model routeri NuGet'da chiqarildi",
+    "summary": "Ochiq kodli FAIRouter AI model routerining C# versiyasi NuGet platformasida chiqarildi. Loyiha AI modellaridan tez, arzon va sifatli javob olishni maqsad qilgan.",
+    "tags": [
+      "ochiq model",
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 11,
+    "published": "2026-10-31T08:53:46.000Z",
+    "created": "2026-10-31T09:02:57.725Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1101942",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "ea36b5ffc5dc",
+    "slug": "lrmoe-moe-model-oqitish-samaradorligini-oshirish-tizimi-ea36b5",
+    "title": "LRMoE: MoE model o'qitish samaradorligini oshirish tizimi",
+    "summary": "Yangi LRMoE tadqiqoti xotira cheklangan tugunlarda Mixture-of-Experts (MoE) modellarini samarali o'qitishga qaratilgan. U notekis yo'naltirish va xotira cheklovlari sababli yuzaga keladigan muammolarni hal qiladi.",
+    "tags": [
+      "tadqiqot",
+      "chiplar"
+    ],
+    "importance": 3,
+    "score": 10,
+    "published": "2026-10-31T04:00:00.000Z",
+    "created": "2026-10-31T09:02:57.725Z",
+    "coverage": 1,
+    "source": {
+      "name": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2610.37720",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "ac69681cb873",
     "slug": "xitoy-ai-laboratoriyalari-yangi-usulni-sinamoqda-ac6968",
     "title": "Xitoy AI laboratoriyalari yangi usulni sinamoqda",

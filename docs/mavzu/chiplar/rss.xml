@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/chiplar/</link>
   <description>&quot;chiplar&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Sat, 31 Oct 2026 08:10:08 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 31 Oct 2026 09:09:00 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/chiplar/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>LRMoE: MoE model o'qitish samaradorligini oshirish tizimi</title>
+    <link>https://ailenta.uz/x/lrmoe-moe-model-oqitish-samaradorligini-oshirish-tizimi-ea36b5/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/lrmoe-moe-model-oqitish-samaradorligini-oshirish-tizimi-ea36b5/</guid>
+    <pubDate>Sat, 31 Oct 2026 04:00:00 GMT</pubDate>
+    <description>Yangi LRMoE tadqiqoti xotira cheklangan tugunlarda Mixture-of-Experts (MoE) modellarini samarali o'qitishga qaratilgan. U notekis yo'naltirish va xotira cheklovlari sababli yuzaga keladigan muammolarni hal qiladi.</description>
+    <category>tadqiqot</category><category>chiplar</category>
+    <media:content url="https://ailenta.uz/og/lrmoe-moe-model-oqitish-samaradorligini-oshirish-tizimi-ea36b5.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/lrmoe-moe-model-oqitish-samaradorligini-oshirish-tizimi-ea36b5.jpg"/>
+  </item>
   <item>
     <title>Powerlattice AI chiplari uchun $86 mln mablag' jalb qildi</title>
     <link>https://ailenta.uz/x/powerlattice-ai-chiplari-uchun-86-mln-mablag-jalb-qildi-8cfa07/</link>
@@ -296,16 +306,6 @@
     <category>chiplar</category><category>biznes</category>
     <media:content url="https://ailenta.uz/og/photon-bridge-lazer-qurilmalari-uchun-10-mln-jalb-qildi-33d0a1.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/photon-bridge-lazer-qurilmalari-uchun-10-mln-jalb-qildi-33d0a1.jpg"/>
-  </item>
-  <item>
-    <title>AI chip aksiyalari qayta ko'tarilmoqda</title>
-    <link>https://ailenta.uz/x/ai-chip-aksiyalari-qayta-kotarilmoqda-fa2f41/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/ai-chip-aksiyalari-qayta-kotarilmoqda-fa2f41/</guid>
-    <pubDate>Tue, 20 Oct 2026 11:00:25 GMT</pubDate>
-    <description>Gipermiqyosli kompaniyalarning daromadlari yaqinlashar ekan, AI chip aksiyalari qayta ko'tarildi. Meta kompaniyasining kapital jalb qilish harakatlari ham diqqat markazida.</description>
-    <category>chiplar</category><category>iqtisod</category>
-    <media:content url="https://ailenta.uz/og/ai-chip-aksiyalari-qayta-kotarilmoqda-fa2f41.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/ai-chip-aksiyalari-qayta-kotarilmoqda-fa2f41.jpg"/>
   </item>
 </channel>
 </rss>
