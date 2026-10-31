@@ -5,7 +5,7 @@
   <link>https://ailenta.uz/mavzu/tadqiqot/</link>
   <description>&quot;tadqiqot&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Fri, 30 Oct 2026 23:09:58 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 31 Oct 2026 00:11:36 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/tadqiqot/rss.xml" rel="self" type="application/rss+xml"/>
   <item>
     <title>Qwen modeliga NES emulyatori o'rnatildi</title>
@@ -16,6 +16,16 @@
     <category>tadqiqot</category><category>ochiq model</category>
     <media:content url="https://ailenta.uz/og/qwen-modeliga-nes-emulyatori-ornatildi-4e2c9c.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/qwen-modeliga-nes-emulyatori-ornatildi-4e2c9c.jpg"/>
+  </item>
+  <item>
+    <title>PHP tilidagi xatolikni AI vositasi aniqladi</title>
+    <link>https://ailenta.uz/x/php-tilidagi-xatolikni-ai-vositasi-aniqladi-5b910c/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/php-tilidagi-xatolikni-ai-vositasi-aniqladi-5b910c/</guid>
+    <pubDate>Fri, 30 Oct 2026 17:10:09 GMT</pubDate>
+    <description>AI vositasi PHP dasturlash tilidagi uzoq vaqt davomida sezilmagan xatoliklarni topdi. Mutaxassislar bu kamchiliklar tuzatilishidan oldin oshkor qilinganini ta'kidlamoqda.</description>
+    <category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/php-tilidagi-xatolikni-ai-vositasi-aniqladi-5b910c.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/php-tilidagi-xatolikni-ai-vositasi-aniqladi-5b910c.jpg"/>
   </item>
   <item>
     <title>AI arvoh ovida: GhostTube Seer ilovasi</title>
@@ -296,16 +306,6 @@
     <category>Anthropic</category><category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/claude-opus-5-5-bilan-oyin-yaratishda-burilish-nuqtasi-d63165.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/claude-opus-5-5-bilan-oyin-yaratishda-burilish-nuqtasi-d63165.jpg"/>
-  </item>
-  <item>
-    <title>AI konstitutsiyalari ma'muriy huquqshunoslarga muhtoj</title>
-    <link>https://ailenta.uz/x/ai-konstitutsiyalari-mamuriy-huquqshunoslarga-muhtoj-98fd5e/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/ai-konstitutsiyalari-mamuriy-huquqshunoslarga-muhtoj-98fd5e/</guid>
-    <pubDate>Wed, 28 Oct 2026 13:05:23 GMT</pubDate>
-    <description>Yale Journal on Regulation nashri AI konstitutsiyalarini ishlab chiqishda ma'muriy huquqshunoslarning zarurligini ta'kidladi. Bu AI'ni tartibga solish bo'yicha muhim masaladir.</description>
-    <category>qonun</category><category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/ai-konstitutsiyalari-mamuriy-huquqshunoslarga-muhtoj-98fd5e.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/ai-konstitutsiyalari-mamuriy-huquqshunoslarga-muhtoj-98fd5e.jpg"/>
   </item>
 </channel>
 </rss>

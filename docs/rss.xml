@@ -5,7 +5,7 @@
   <link>https://ailenta.uz</link>
   <description>Dunyodagi sun'iy intellekt yangiliklari o'zbek tilida. Har soatda yangilanadi, har bir xabarda asl manbaga havola.</description>
   <language>uz</language>
-  <lastBuildDate>Fri, 30 Oct 2026 23:09:59 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 31 Oct 2026 00:11:37 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/rss.xml" rel="self" type="application/rss+xml"/>
   <item>
     <title>Qwen modeliga NES emulyatori o'rnatildi</title>
@@ -46,6 +46,16 @@
     <category>Anthropic</category><category>biznes</category>
     <media:content url="https://ailenta.uz/og/anthropic-ipo-ai-xavflari-va-biznes-omillari-7bf5b5.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/anthropic-ipo-ai-xavflari-va-biznes-omillari-7bf5b5.jpg"/>
+  </item>
+  <item>
+    <title>PHP tilidagi xatolikni AI vositasi aniqladi</title>
+    <link>https://ailenta.uz/x/php-tilidagi-xatolikni-ai-vositasi-aniqladi-5b910c/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/php-tilidagi-xatolikni-ai-vositasi-aniqladi-5b910c/</guid>
+    <pubDate>Fri, 30 Oct 2026 17:10:09 GMT</pubDate>
+    <description>AI vositasi PHP dasturlash tilidagi uzoq vaqt davomida sezilmagan xatoliklarni topdi. Mutaxassislar bu kamchiliklar tuzatilishidan oldin oshkor qilinganini ta'kidlamoqda.</description>
+    <category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/php-tilidagi-xatolikni-ai-vositasi-aniqladi-5b910c.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/php-tilidagi-xatolikni-ai-vositasi-aniqladi-5b910c.jpg"/>
   </item>
   <item>
     <title>AI rivoji odamlarni aldash uchun imkoniyat — Shults</title>
@@ -496,16 +506,6 @@
     <category>Tencent</category><category>ochiq model</category>
     <media:content url="https://ailenta.uz/og/tencent-hunyuan-hy-nomas-va-sinov-toplamini-chiqardi-af1a74.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/tencent-hunyuan-hy-nomas-va-sinov-toplamini-chiqardi-af1a74.jpg"/>
-  </item>
-  <item>
-    <title>Huawei AI dori kashfiyoti uchun hisoblash bazasi bo'ladi</title>
-    <link>https://ailenta.uz/x/huawei-ai-dori-kashfiyoti-uchun-hisoblash-bazasi-boladi-158cb7/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/huawei-ai-dori-kashfiyoti-uchun-hisoblash-bazasi-boladi-158cb7/</guid>
-    <pubDate>Fri, 30 Oct 2026 02:01:53 GMT</pubDate>
-    <description>Huawei dori vositalarini ishlab chiqarmasligini, balki AI yordamida dori kashfiyoti uchun hisoblash, saqlash va tarmoq infratuzilmasini taqdim etishni maqsad qilganini bildirdi.</description>
-    <category>Huawei</category><category>tibbiyot</category>
-    <media:content url="https://ailenta.uz/og/huawei-ai-dori-kashfiyoti-uchun-hisoblash-bazasi-boladi-158cb7.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/huawei-ai-dori-kashfiyoti-uchun-hisoblash-bazasi-boladi-158cb7.jpg"/>
   </item>
 </channel>
 </rss>

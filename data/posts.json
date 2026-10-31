@@ -1,5 +1,26 @@
 [
   {
+    "id": "5b910c8a04fa",
+    "slug": "php-tilidagi-xatolikni-ai-vositasi-aniqladi-5b910c",
+    "title": "PHP tilidagi xatolikni AI vositasi aniqladi",
+    "summary": "AI vositasi PHP dasturlash tilidagi uzoq vaqt davomida sezilmagan xatoliklarni topdi. Mutaxassislar bu kamchiliklar tuzatilishidan oldin oshkor qilinganini ta'kidlamoqda.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 23,
+    "published": "2026-10-30T17:10:09.000Z",
+    "created": "2026-10-31T00:01:42.109Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/technology/2026/oct/30/credit-where-its-due-to-ai-for-uncovering-the-php-flaw-and-discredit-to-the-leaker",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "7bf5b5bbb082",
     "slug": "anthropic-ipo-ai-xavflari-va-biznes-omillari-7bf5b5",
     "title": "Anthropic IPO: AI xavflari va biznes omillari",
