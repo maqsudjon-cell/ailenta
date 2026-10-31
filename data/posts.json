@@ -1,5 +1,92 @@
 [
   {
+    "id": "c6df280b0e71",
+    "slug": "moda-brendlari-ai-stilistlar-yordamida-qaytmoqda-c6df28",
+    "title": "Moda brendlari AI stilistlar yordamida qaytmoqda",
+    "summary": "Gap, M&S va Topshop kabi yirik moda brendlari AI stilistlardan foydalanib, bozorga qaytishga harakat qilmoqda. Ular hashamatli moda va mashhur shaxslar bilan hamkorlikka e'tibor qaratmoqda.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 23,
+    "published": "2026-10-31T16:00:47.000Z",
+    "created": "2026-10-31T20:03:10.238Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/fashion/2026/oct/31/a-listers-ai-stylists-high-street-brands-fashion-comeback",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "c9d3502ce91b",
+    "slug": "ai-agentlari-uchun-ruxsat-berish-qoidalari-zarur-c9d350",
+    "title": "AI agentlari uchun ruxsat berish qoidalari zarur",
+    "summary": "EqualAI bosh direktori AI agentlari foydalanuvchi nomidan harakat qilishidan oldin ruxsat berish qoidalariga ega bo'lishi kerakligini ta'kidladi. Bu agentlarning xavfsiz ishlashi uchun muhim.",
+    "tags": [
+      "xavfsizlik",
+      "agentlar"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-10-31T12:00:00.000Z",
+    "created": "2026-10-31T20:03:10.238Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/10/31/personal-ai-assistant-agents-authorization-liability-equalai",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "1e10f2c14503",
+    "slug": "ai-muhandislik-kasbini-ozgartirdi-1e10f2",
+    "title": "AI muhandislik kasbini o'zgartirdi",
+    "summary": "Anthropic tomonidan bloklanish holatlari muhandislik kasbini qanchalik o'zgartirganini ko'rsatdi. Bir yil ichida AI tufayli ish usullari shunchalik o'zgarganki, eski usullarga qaytish istagi yo'q.",
+    "tags": [
+      "mehnat bozori",
+      "Anthropic"
+    ],
+    "importance": 2,
+    "score": 11,
+    "published": "2026-10-31T14:21:22.000Z",
+    "created": "2026-10-31T20:03:10.239Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1102092",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "3582237b1991",
+    "slug": "tbook-formati-va-uning-ekotizimi-rivojlanmoqda-358223",
+    "title": "TBook formati va uning ekotizimi rivojlanmoqda",
+    "summary": "TBook formati yaratilganidan to'rt oy o'tib, Google Play'da ilova, uchta OS uchun ish stoli o'quvchisi va oflayn lug'atlar paydo bo'ldi. Shuningdek, onlayn konverter va Telegram-bot ham ishga tushirildi.",
+    "tags": [
+      "tadqiqot",
+      "ochiq model"
+    ],
+    "importance": 1,
+    "score": 11,
+    "published": "2026-10-31T12:45:21.000Z",
+    "created": "2026-10-31T20:03:10.239Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1100334",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "32be2f43f432",
     "slug": "avstraliyalik-ijodkorlar-yangi-ai-taklifiga-qarshi-chiqdi-32be2f",
     "title": "Avstraliyalik ijodkorlar yangi AI taklifiga qarshi chiqdi",
