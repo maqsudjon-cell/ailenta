@@ -1,5 +1,97 @@
 [
   {
+    "id": "6e8b356d3f3a",
+    "slug": "milliy-ilovada-84-davlatga-unionpay-pul-o-tkazmalari-6e8b35",
+    "title": "Milliy ilovada 84 davlatga UnionPay pul o‘tkazmalari",
+    "summary": "O‘zbekiston Milliy bankining Milliy mobil ilovasida UnionPay MoneyExpress xalqaro pul o‘tkazmalari xizmati ishga tushirildi. Endi foydalanuvchilar NBU kartalaridan 84 ta mamlakatdagi UnionPay kartalariga pul yuborishi mumkin. Komissiya 1 foizni tashkil etadi.",
+    "tags": [
+      "O'zbekiston",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 45,
+    "published": "2026-10-31T10:30:45.000Z",
+    "created": "2026-10-31T12:36:19.431Z",
+    "coverage": 1,
+    "source": {
+      "name": "Pivot",
+      "url": "https://pivot.uz/uz/milliy-ilova-orqali-84-ta-mamlakatga-xalqaro-pul-otkazmalarini-amalga-oshirish-mumkin",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "ec443941d2fd",
+    "slug": "anthropic-ipoda-hayot-fanlariga-katta-etibor-qaratmoqda-ec4439",
+    "title": "Anthropic IPO'da hayot fanlariga katta e'tibor qaratmoqda",
+    "summary": "Anthropic kompaniyasi IPO uchun S-1 arizasida Claude modelining dori kashfiyoti va biologiya tadqiqotlarini tezlashtira olishini ta'kidladi. Hayot fanlari kompaniyaning IPO strategiyasida markaziy o‘rin tutadi.",
+    "tags": [
+      "Anthropic",
+      "biznes"
+    ],
+    "importance": 4,
+    "score": 24,
+    "published": "2026-10-31T10:10:01.000Z",
+    "created": "2026-10-31T12:36:19.431Z",
+    "coverage": 2,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/anthropic-ipo-filing-boosting-biotech-research-2026-10",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "Business Insider",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNFJmNElsa1htSEJ3bTFzb1VTZEZoYXFsU2FuVm45cC1KQy1DQXVyekNGZ0tKUjlMd3Q5ZGxFaGpNOVU0QXpBSFQ4eTRnOFVaU2RsQW9DalBTbER3WWpCUGoya1JCVHB1MXIyOHNmQ3duTTN1VHl4U3VETElMUEFWZGNIdkhKbUp5R2NtWkhsOA"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "1d78de13bdea",
+    "slug": "volta-autodoxer-ai-qurbonlar-malumotini-ogirlaydi-1d78de",
+    "title": "Volta-Autodoxer AI qurbonlar ma'lumotini o'g'irlaydi",
+    "summary": "\"Volta-Autodoxer\" nomli yangi zararli dastur AI vositalaridan foydalanib, qurbonlarning ma'lumotlarini o‘g‘irlaydi. U kirish ma'lumotlari, kredit karta raqamlari va boshqa shaxsiy ma'lumotlarni yig‘adi.",
+    "tags": [
+      "xavfsizlik"
+    ],
+    "importance": 4,
+    "score": 23,
+    "published": "2026-10-31T12:00:00.000Z",
+    "created": "2026-10-31T12:36:19.431Z",
+    "coverage": 1,
+    "source": {
+      "name": "Wired",
+      "url": "https://wired.com/story/kernel-panic-volta-autodoxer-ai-infostealer-malware",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "74381c57069a",
+    "slug": "microsoft-365-family-bulut-xotirasi-ozgaradi-74381c",
+    "title": "Microsoft 365 Family bulut xotirasi o'zgaradi",
+    "summary": "Microsoft 365 Family obunasi yangilanganda, bulut xotirasining hajmi o‘zgaradi. Foydalanuvchilar kichikroq umumiy xotira modeliga o‘tishlari mumkin.",
+    "tags": [
+      "Microsoft",
+      "bulut"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-10-31T12:15:00.000Z",
+    "created": "2026-10-31T12:36:19.431Z",
+    "coverage": 1,
+    "source": {
+      "name": "Engadget",
+      "url": "https://engadget.com/2301048/this-microsoft-365-family-plan-cloud-storage-change-may-leave-you-frustrated",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "12c83e7ec931",
     "slug": "ai-yordamida-3d-oyin-lokatsiyalarini-prototiplash-12c83e",
     "title": "AI yordamida 3D o'yin lokatsiyalarini prototiplash",
