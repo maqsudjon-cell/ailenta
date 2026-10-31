@@ -1,5 +1,120 @@
 [
   {
+    "id": "a16a92230c9b",
+    "slug": "demokratlar-bruklinda-ai-daromadlarini-muhokama-qildi-a16a92",
+    "title": "Demokratlar Bruklinda AI daromadlarini muhokama qildi",
+    "summary": "Bruklindagi tadbirda demokratlar AI orqali kim boyib ketayotganini muhokama qildi. Bu muhokama oraliq saylovlar oldidan bo'lib o'tdi.",
+    "tags": [
+      "siyosat",
+      "iqtisod"
+    ],
+    "importance": 2,
+    "score": 22,
+    "published": "2026-10-30T20:12:43.000Z",
+    "created": "2026-10-31T00:36:34.961Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/10/30/newsreel-midterms-phone-free-brooklyn-ai-data-centers-democrats",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "5516c01947fa",
+    "slug": "jinoyatchi-ai-xizmatlariga-7k-sarfladi-5516c0",
+    "title": "Jinoyatchi AI xizmatlariga $7K+ sarfladi",
+    "summary": "Jinoyatchi tovlamachilik hujumlarida AI xizmatlaridan foydalangan. U bu maqsadga $7K dan ortiq mablag' sarflagan.",
+    "tags": [
+      "xavfsizlik",
+      "sud"
+    ],
+    "importance": 2,
+    "score": 19,
+    "published": "2026-10-30T19:37:12.000Z",
+    "created": "2026-10-31T00:36:34.961Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/security/2026/10/30/crim-spent-7k-on-ai-services-in-extortion-attacks-then-left-evidence-for-all-to-see/5306754",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "72c0da8dfd2f",
+    "slug": "anthropic-masuliyatli-ai-missiyasini-ozi-nazorat-qiladi-72c0da",
+    "title": "Anthropic mas'uliyatli AI missiyasini o'zi nazorat qiladi",
+    "summary": "Anthropic kompaniyasi mas'uliyatli AI bo'yicha o'zining ommaviy missiyasini o'zi nazorat qilishini ma'lum qildi. Bu haqda Bloomberg Law News xabar berdi.",
+    "tags": [
+      "Anthropic",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 16,
+    "published": "2026-10-30T19:20:00.000Z",
+    "created": "2026-10-31T00:36:34.961Z",
+    "coverage": 2,
+    "source": {
+      "name": "Bloomberg Law News",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbnZYdmpYbTRGT29sVk5TMjAtT2FSYk9pV3Y0Z0VQeHpJbVgyaWJrV2RtRnlkQWMzTUZ3RGxzcjVQZTV4NU9GOENPTEs2T0ZRVERCZjBfa1lnLWk3T2JoTk1vTTBuSUR2OUtfblptM2pNTkhyeWh4d3lISV95WV91M3VUd0VDd3lodFFINElhYU5tYy0tajNYazM3cGxyQQ",
+      "indirect": true
+    },
+    "also": [
+      {
+        "name": "Bloomberg Tax",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbThQdklOSXVzUktxU3FqR1BWMXNNbzZKTTdkZ0dGRzRUM05naDR5V29ZUXJvek5IR1RZRk9pV2lGNFl3OG9WaE9sd3QyT1UwYTBLRUFLOFZVdllheEg2TUoxMVdmaE5rSGdUai1obXFpd2tneTg3NXhaelBpYXFxRHVZM2hUaEpscEpYS3FCMnFaNll6a3REMmhlbWs5MU5xRmw1LVV4eG1OdjhvV0tFcG85VXVKeUU"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "d5c6bb8a1621",
+    "slug": "baseten-ai-startapi-qiymati-30-mlrdga-yetishi-kutilmoqda-d5c6bb",
+    "title": "Baseten AI startapi qiymati $30 mlrdga yetishi kutilmoqda",
+    "summary": "Baseten AI startapi $2 milliard miqdorida yangi mablag' jalb qilmoqda. Bu uning qiymatini $30 milliardgacha oshirishi mumkin. Avvalroq, iyun oyida kompaniya $1.5 milliard jalb qilib, $13 milliardga baholangan edi.",
+    "tags": [
+      "biznes",
+      "iqtisod"
+    ],
+    "importance": 4,
+    "score": 15,
+    "published": "2026-10-31T00:20:02.000Z",
+    "created": "2026-10-31T00:36:34.962Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/261030/p29",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "8cfa07b3a3e0",
+    "slug": "powerlattice-ai-chiplari-uchun-86-mln-mablag-jalb-qildi-8cfa07",
+    "title": "Powerlattice AI chiplari uchun $86 mln mablag' jalb qildi",
+    "summary": "Powerlattice startapi AI hisoblash quvvati ehtiyojlarini 50%+ ga kamaytiruvchi chipletlar ishlab chiqarish uchun $86 million mablag' yig'di. Kompaniya 2025-yilda $31 million jalb qilgan edi.",
+    "tags": [
+      "chiplar",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-10-30T22:05:00.000Z",
+    "created": "2026-10-31T00:36:34.962Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/261030/p27",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "5b910c8a04fa",
     "slug": "php-tilidagi-xatolikni-ai-vositasi-aniqladi-5b910c",
     "title": "PHP tilidagi xatolikni AI vositasi aniqladi",
