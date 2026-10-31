@@ -1,5 +1,158 @@
 [
   {
+    "id": "c1a245d07cac",
+    "slug": "aqsh-kosmosda-ai-uchun-20-ming-data-markaz-joylashtiradi-c1a245",
+    "title": "AQSH kosmosda AI uchun 20 ming data-markaz joylashtiradi",
+    "summary": "Amerikaning Cowboy Space kompaniyasi Big Iron raketasi yordamida yuqori orbitaga AI uchun data-markazlar chiqarishni rejalashtirmoqda. Ular Yerga yaqin past orbitaga 20 mingta hisoblash markazini joylashtirmoqchi.",
+    "tags": [
+      "bulut"
+    ],
+    "importance": 4,
+    "score": 48,
+    "published": "2026-10-31T06:10:03.000Z",
+    "created": "2026-10-31T06:39:21.073Z",
+    "coverage": 1,
+    "source": {
+      "name": "Kun.uz",
+      "url": "https://kun.uz/news/2026/10/31/aqsh-kosmosda-ulkan-hisoblash-tarmogini-yaratmoqchi-58765",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "bcd29d554fe3",
+    "slug": "binance-6-3-milliardlik-xakerlik-hujumiga-uchradi-bcd29d",
+    "title": "Binance $6.3 milliardlik xakerlik hujumiga uchradi",
+    "summary": "Tarixdagi eng yirik kiber o'g'irlik Binance kompaniyasida sodir bo'ldi. Hujumchilar kriptovalyutalarni o'g'irlash va pullarni yuvish uchun sun'iy intellekt va boshqa ilg'or texnikalardan foydalangan.",
+    "tags": [
+      "xavfsizlik",
+      "biznes"
+    ],
+    "importance": 4,
+    "score": 27,
+    "published": "2026-10-30T21:17:37.000Z",
+    "created": "2026-10-31T06:39:21.074Z",
+    "coverage": 1,
+    "source": {
+      "name": "The New York Times",
+      "url": "https://nytimes.com/2026/10/30/technology/binance-hack-ai-north-korea.html",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "69f5dc264da1",
+    "slug": "ai-boyliklari-model-yaratuvchilardan-tarqatuvchilarga-otadi-69f5dc",
+    "title": "AI boyliklari model yaratuvchilardan tarqatuvchilarga o'tadi",
+    "summary": "AI modellari keng tarqalib, oddiy mahsulotga aylangan sari, uzoq muddatli boylik ularni yaratgan laboratoriyalarga emas, balki tarqatish va to'lov tizimlarini nazorat qiluvchilarga o'tadi.",
+    "tags": [
+      "biznes",
+      "iqtisod"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-10-31T06:30:01.000Z",
+    "created": "2026-10-31T06:39:21.074Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/261031/p6",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "fdc6e1d8e3bf",
+    "slug": "meynda-ai-data-markazlari-boyicha-noroziliklar-yuzaga-chiqdi-fdc6e1",
+    "title": "Meynda AI data-markazlari bo'yicha noroziliklar yuzaga chiqdi",
+    "summary": "Meyndagi saylovoldi munozarasida bir kishi AI data-markazlari iqlimni buzayotgani va suvni zaharlayotganini aytib norozilik bildirdi. Bu voqea Senat nazoratiga ta'sir qilishi mumkin.",
+    "tags": [
+      "siyosat",
+      "bulut"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-10-30T11:00:00.000Z",
+    "created": "2026-10-31T06:39:21.074Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Verge",
+      "url": "https://theverge.com/ai-artificial-intelligence/1021080/maine-senate-race-susan-collins-ai-data-centers",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "3e4e3eed2bbf",
+    "slug": "runware-ai-data-markazlarini-ommaviy-ishlab-chiqarishni-reja-3e4e3e",
+    "title": "Runware AI data-markazlarini ommaviy ishlab chiqarishni rejalashtirmoqda",
+    "summary": "Runware startapi yig'ish liniyasida tayyor AI data-markazlarini ommaviy ishlab chiqarish uchun zavod qurmoqda. Kompaniya bu usulda keng miqyosda yetkazib berish imkoniyatini sinovdan o'tkazadi.",
+    "tags": [
+      "biznes",
+      "bulut"
+    ],
+    "importance": 3,
+    "score": 12.8,
+    "published": "2026-10-30T13:00:00.000Z",
+    "created": "2026-10-31T06:39:21.074Z",
+    "coverage": 1,
+    "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "b34fd80e81cc",
+    "slug": "mahalliy-ai-modellarini-firibgarlikda-ishlatish-mumkin-b34fd8",
+    "title": "Mahalliy AI modellarini firibgarlikda ishlatish mumkin",
+    "summary": "O'tkazilgan tajribada mahalliy AI modellarini firibgarlikda ishlatish mumkinligi aniqlandi. Ular, ayniqsa, qozoq tilida firibgarlik sxemalarini aniqlay olmagan. Oddiy himoya qatlami bu muammoni hal qildi.",
+    "tags": [
+      "xavfsizlik",
+      "tadqiqot"
+    ],
+    "importance": 4,
+    "score": 11,
+    "published": "2026-10-31T05:20:39.000Z",
+    "created": "2026-10-31T06:39:21.074Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1101972",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "a077eae3b524",
+    "slug": "70-yillik-urinishlarga-qaramay-dasturchi-orni-muhim-a077ea",
+    "title": "70 yillik urinishlarga qaramay, dasturchi o'rni muhim",
+    "summary": "COBOLdan AIgacha bo'lgan 70 yillik urinishlarga qaramay, dasturchilarsiz ishlash imkonsiz bo'lib qolmoqda. Yangi vositalar rutinga yordam bersa-da, tizimni boshqarish va muammolarni hal qilish inson zimmasida qoladi.",
+    "tags": [
+      "mehnat bozori",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 11,
+    "published": "2026-10-30T18:40:45.000Z",
+    "created": "2026-10-31T06:39:21.074Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/companies/lukit_ru/articles/1100404",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "338da94bd234",
     "slug": "startaplar-haqidagi-qonun-loyihasi-muhokama-qilindi-338da9",
     "title": "Startaplar haqidagi qonun loyihasi muhokama qilindi",

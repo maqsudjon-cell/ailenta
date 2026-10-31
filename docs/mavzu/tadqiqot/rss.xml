@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/tadqiqot/</link>
   <description>&quot;tadqiqot&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Sat, 31 Oct 2026 06:10:47 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 31 Oct 2026 06:49:11 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/tadqiqot/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Mahalliy AI modellarini firibgarlikda ishlatish mumkin</title>
+    <link>https://ailenta.uz/x/mahalliy-ai-modellarini-firibgarlikda-ishlatish-mumkin-b34fd8/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/mahalliy-ai-modellarini-firibgarlikda-ishlatish-mumkin-b34fd8/</guid>
+    <pubDate>Sat, 31 Oct 2026 05:20:39 GMT</pubDate>
+    <description>O'tkazilgan tajribada mahalliy AI modellarini firibgarlikda ishlatish mumkinligi aniqlandi. Ular, ayniqsa, qozoq tilida firibgarlik sxemalarini aniqlay olmagan. Oddiy himoya qatlami bu muammoni hal qildi.</description>
+    <category>xavfsizlik</category><category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/mahalliy-ai-modellarini-firibgarlikda-ishlatish-mumkin-b34fd8.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/mahalliy-ai-modellarini-firibgarlikda-ishlatish-mumkin-b34fd8.jpg"/>
+  </item>
   <item>
     <title>Qwen modeliga NES emulyatori o'rnatildi</title>
     <link>https://ailenta.uz/x/qwen-modeliga-nes-emulyatori-ornatildi-4e2c9c/</link>
@@ -16,6 +26,16 @@
     <category>tadqiqot</category><category>ochiq model</category>
     <media:content url="https://ailenta.uz/og/qwen-modeliga-nes-emulyatori-ornatildi-4e2c9c.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/qwen-modeliga-nes-emulyatori-ornatildi-4e2c9c.jpg"/>
+  </item>
+  <item>
+    <title>70 yillik urinishlarga qaramay, dasturchi o'rni muhim</title>
+    <link>https://ailenta.uz/x/70-yillik-urinishlarga-qaramay-dasturchi-orni-muhim-a077ea/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/70-yillik-urinishlarga-qaramay-dasturchi-orni-muhim-a077ea/</guid>
+    <pubDate>Fri, 30 Oct 2026 18:40:45 GMT</pubDate>
+    <description>COBOLdan AIgacha bo'lgan 70 yillik urinishlarga qaramay, dasturchilarsiz ishlash imkonsiz bo'lib qolmoqda. Yangi vositalar rutinga yordam bersa-da, tizimni boshqarish va muammolarni hal qilish inson zimmasida qoladi.</description>
+    <category>mehnat bozori</category><category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/70-yillik-urinishlarga-qaramay-dasturchi-orni-muhim-a077ea.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/70-yillik-urinishlarga-qaramay-dasturchi-orni-muhim-a077ea.jpg"/>
   </item>
   <item>
     <title>PHP tilidagi xatolikni AI vositasi aniqladi</title>
@@ -286,26 +306,6 @@
     <category>tadqiqot</category><category>siyosat</category>
     <media:content url="https://ailenta.uz/og/infratuzilma-ai-va-iqlim-ozgarishi-tufayli-qayta-korib-chiqi-071e82.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/infratuzilma-ai-va-iqlim-ozgarishi-tufayli-qayta-korib-chiqi-071e82.jpg"/>
-  </item>
-  <item>
-    <title>Til modellari marshrutizatori ichidan</title>
-    <link>https://ailenta.uz/x/til-modellari-marshrutizatori-ichidan-7d1bf4/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/til-modellari-marshrutizatori-ichidan-7d1bf4/</guid>
-    <pubDate>Wed, 28 Oct 2026 14:41:24 GMT</pubDate>
-    <description>Maqolada til modellari uchun so'rovlarni optimal ijrochiga yo'naltiruvchi FAIRouter kutubxonasi muhokama qilinadi. Hozirda faqat LLMlar qo'llab-quvvatlansa-da, kelajakda ijrochilar sinfini asboblar va agentlar bilan kengaytirish rejalashtirilgan.</description>
-    <category>tadqiqot</category><category>agentlar</category>
-    <media:content url="https://ailenta.uz/og/til-modellari-marshrutizatori-ichidan-7d1bf4.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/til-modellari-marshrutizatori-ichidan-7d1bf4.jpg"/>
-  </item>
-  <item>
-    <title>Claude Opus 5.5 bilan o'yin yaratishda burilish nuqtasi</title>
-    <link>https://ailenta.uz/x/claude-opus-5-5-bilan-oyin-yaratishda-burilish-nuqtasi-d63165/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/claude-opus-5-5-bilan-oyin-yaratishda-burilish-nuqtasi-d63165/</guid>
-    <pubDate>Wed, 28 Oct 2026 13:55:15 GMT</pubDate>
-    <description>Muallifning fikricha, 2026-yil oktyabr oyida Claude Opus 5.5 kabi AI modellarining takomillashuvi bilan &quot;vibe coding&quot; video o'yinlarini yaratishda burilish nuqtasi yuz berdi.</description>
-    <category>Anthropic</category><category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/claude-opus-5-5-bilan-oyin-yaratishda-burilish-nuqtasi-d63165.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/claude-opus-5-5-bilan-oyin-yaratishda-burilish-nuqtasi-d63165.jpg"/>
   </item>
 </channel>
 </rss>
