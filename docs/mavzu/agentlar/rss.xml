@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/agentlar/</link>
   <description>&quot;agentlar&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Sat, 31 Oct 2026 07:13:50 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 31 Oct 2026 07:35:36 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/agentlar/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Muxtor AI agentlarini cheklash usullari ko'rib chiqildi</title>
+    <link>https://ailenta.uz/x/muxtor-ai-agentlarini-cheklash-usullari-korib-chiqildi-d1353c/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/muxtor-ai-agentlarini-cheklash-usullari-korib-chiqildi-d1353c/</guid>
+    <pubDate>Fri, 30 Oct 2026 13:02:02 GMT</pubDate>
+    <description>Mustaqil ishlaydigan AI agentlari topshiriqlarni bajarish jarayonida izolyatsiyalangan muhitdan chiqib ketishi xavfi mavjud. Dasturchilar agentlarning xavfsiz ishlashini ta'minlash uchun ularni cheklash yechimlarini izlamoqda.</description>
+    <category>agentlar</category><category>xavfsizlik</category>
+    <media:content url="https://ailenta.uz/og/muxtor-ai-agentlarini-cheklash-usullari-korib-chiqildi-d1353c.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/muxtor-ai-agentlarini-cheklash-usullari-korib-chiqildi-d1353c.jpg"/>
+  </item>
   <item>
     <title>Tencent WorkBuddy platformasiga yangi funksiya qo'shdi</title>
     <link>https://ailenta.uz/x/tencent-workbuddy-platformasiga-yangi-funksiya-qoshdi-7ce380/</link>
@@ -296,16 +306,6 @@
     <category>agentlar</category><category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/ai-agentlar-hisobotlarda-raqam-toqimaslikka-orgatildi-0d3fe7.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/ai-agentlar-hisobotlarda-raqam-toqimaslikka-orgatildi-0d3fe7.jpg"/>
-  </item>
-  <item>
-    <title>Discord Markdown ko'rinishlarini to'g'ri formatlaydi</title>
-    <link>https://ailenta.uz/x/discord-markdown-korinishlarini-togri-formatlaydi-73123e/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/discord-markdown-korinishlarini-togri-formatlaydi-73123e/</guid>
-    <pubDate>Thu, 22 Oct 2026 18:58:19 GMT</pubDate>
-    <description>Discord yangi yangilanishda Markdown ko'rinishlarini to'g'ri formatlashni joriy qildi. Bu o'zgarish LLM va AI agentlari uchun Markdown fayllaridan foydalanadiganlar uchun foydali bo'lishi mumkin.</description>
-    <category>agentlar</category><category>bulut</category>
-    <media:content url="https://ailenta.uz/og/discord-markdown-korinishlarini-togri-formatlaydi-73123e.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/discord-markdown-korinishlarini-togri-formatlaydi-73123e.jpg"/>
   </item>
 </channel>
 </rss>

@@ -1,5 +1,49 @@
 [
   {
+    "id": "d1353c2e8ee3",
+    "slug": "muxtor-ai-agentlarini-cheklash-usullari-korib-chiqildi-d1353c",
+    "title": "Muxtor AI agentlarini cheklash usullari ko'rib chiqildi",
+    "summary": "Mustaqil ishlaydigan AI agentlari topshiriqlarni bajarish jarayonida izolyatsiyalangan muhitdan chiqib ketishi xavfi mavjud. Dasturchilar agentlarning xavfsiz ishlashini ta'minlash uchun ularni cheklash yechimlarini izlamoqda.",
+    "tags": [
+      "agentlar",
+      "xavfsizlik"
+    ],
+    "importance": 2,
+    "score": 8.5,
+    "published": "2026-10-30T13:02:02.000Z",
+    "created": "2026-10-31T07:15:36.119Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/companies/ru_mts/articles/1097646",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "e7e1cd612f90",
+    "slug": "anthropic-tajribasi-tahlilchilar-harakatini-korsatdi-e7e1cd",
+    "title": "Anthropic tajribasi tahlilchilar harakatini ko'rsatdi",
+    "summary": "Anthropic kompaniyasi yangi tajriba o'tkazdi. Unda tahlilchilar 86 foiz holatda tanga tashlash orqali tanlangan qarorga ergashgani aniqlandi.",
+    "tags": [
+      "Anthropic",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 7.8,
+    "published": "2026-10-30T13:43:10.000Z",
+    "created": "2026-10-31T07:15:36.119Z",
+    "coverage": 1,
+    "source": {
+      "name": "Bitcoin Foundation",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPc0ZRTFRMdXpLUDE5eEhadDBmMGd6NEoxcmJleF9KS3lmVHNkMkltSlVHaUNJV2dxWkJ2MmIwbWltUkgwMTdXQXMxWGJuaDZFcENXaVY0WlJhczBrUDQ2Mkt4cTIxT0QxaE9jMkNnUEhNS29GcFp2N2EwLXhwVl9aSTRIVFNTMXBxbVhsQVNTUkdaNW83Z3lpMVI3SE1HMmNOSGZvWUhQWm5qLTg5",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "c1a245d07cac",
     "slug": "aqsh-kosmosda-ai-uchun-20-ming-data-markaz-joylashtiradi-c1a245",
     "title": "AQSH kosmosda AI uchun 20 ming data-markaz joylashtiradi",

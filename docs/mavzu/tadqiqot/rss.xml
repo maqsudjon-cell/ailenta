@@ -5,7 +5,7 @@
   <link>https://ailenta.uz/mavzu/tadqiqot/</link>
   <description>&quot;tadqiqot&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Sat, 31 Oct 2026 07:13:50 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 31 Oct 2026 07:35:36 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/tadqiqot/rss.xml" rel="self" type="application/rss+xml"/>
   <item>
     <title>Mahalliy AI modellarini firibgarlikda ishlatish mumkin</title>
@@ -66,6 +66,16 @@
     <category>Nvidia</category><category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/ai-agentlari-yordamida-ozga-sayyoraliklar-izlanmoqda-691aeb.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/ai-agentlari-yordamida-ozga-sayyoraliklar-izlanmoqda-691aeb.jpg"/>
+  </item>
+  <item>
+    <title>Anthropic tajribasi tahlilchilar harakatini ko'rsatdi</title>
+    <link>https://ailenta.uz/x/anthropic-tajribasi-tahlilchilar-harakatini-korsatdi-e7e1cd/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/anthropic-tajribasi-tahlilchilar-harakatini-korsatdi-e7e1cd/</guid>
+    <pubDate>Fri, 30 Oct 2026 13:43:10 GMT</pubDate>
+    <description>Anthropic kompaniyasi yangi tajriba o'tkazdi. Unda tahlilchilar 86 foiz holatda tanga tashlash orqali tanlangan qarorga ergashgani aniqlandi.</description>
+    <category>Anthropic</category><category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/anthropic-tajribasi-tahlilchilar-harakatini-korsatdi-e7e1cd.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/anthropic-tajribasi-tahlilchilar-harakatini-korsatdi-e7e1cd.jpg"/>
   </item>
   <item>
     <title>Talabalarning AI haqidagi tasavvurlari o'rganildi</title>
@@ -296,16 +306,6 @@
     <category>tadqiqot</category><category>xavfsizlik</category>
     <media:content url="https://ailenta.uz/og/ai-chat-botlari-saylov-yoriqnomasida-xatolik-qildi-b5c1a2.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/ai-chat-botlari-saylov-yoriqnomasida-xatolik-qildi-b5c1a2.jpg"/>
-  </item>
-  <item>
-    <title>Infratuzilma AI va iqlim o'zgarishi tufayli qayta ko'rib chiqilmoqda</title>
-    <link>https://ailenta.uz/x/infratuzilma-ai-va-iqlim-ozgarishi-tufayli-qayta-korib-chiqi-071e82/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/infratuzilma-ai-va-iqlim-ozgarishi-tufayli-qayta-korib-chiqi-071e82/</guid>
-    <pubDate>Wed, 28 Oct 2026 16:00:00 GMT</pubDate>
-    <description>Professor Ali Jadbabaie AI, raqamli transformatsiya, iqlim o'zgarishi va geopolitika infratuzilmani qayta loyihalashga majbur qilayotganini ta'kidladi. Muhandislar va siyosatchilar infratuzilmani boshqarish usullarini qayta ko'rib chiqishmoqda.</description>
-    <category>tadqiqot</category><category>siyosat</category>
-    <media:content url="https://ailenta.uz/og/infratuzilma-ai-va-iqlim-ozgarishi-tufayli-qayta-korib-chiqi-071e82.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/infratuzilma-ai-va-iqlim-ozgarishi-tufayli-qayta-korib-chiqi-071e82.jpg"/>
   </item>
 </channel>
 </rss>
