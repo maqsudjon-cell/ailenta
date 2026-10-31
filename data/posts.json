@@ -1,5 +1,49 @@
 [
   {
+    "id": "b7497452be25",
+    "slug": "ai-detektorlari-inson-yozuv-uslubini-ozgartirmoqda-b74974",
+    "title": "AI detektorlari inson yozuv uslubini o'zgartirmoqda",
+    "summary": "AI detektorlari, masalan Pangram, inson yozuv uslubiga ta'sir ko'rsatmoqda. Mualliflar AI tomonidan yozilgan deb topilmaslik uchun ba'zi iboralarni tashlab, hatto xatolar qo'shmoqda.",
+    "tags": [
+      "tadqiqot",
+      "maxfiylik"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-10-31T13:40:53.000Z",
+    "created": "2026-10-31T13:54:07.256Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/261031/p8",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "6eab28a4a972",
+    "slug": "aqsh-kuchlari-yevropada-ai-bilan-hujumlarga-tayyorlanmoqda-6eab28",
+    "title": "AQSh kuchlari Yevropada AI bilan hujumlarga tayyorlanmoqda",
+    "summary": "AQSh kuchlari Yevropada yirik raketa va dron hujumlariga qarshi mudofaa uchun tayyorgarlik ko'rmoqda. Bu jarayonda sun'iy intellektdan foydalanish ko'zda tutilgan.",
+    "tags": [
+      "siyosat",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-10-31T13:27:01.000Z",
+    "created": "2026-10-31T13:54:07.257Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/ai-could-assist-targeting-for-us-forces-facing-drone-missiles-2026-10",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "382d5fd79fdc",
     "slug": "britaniyalik-yolgizlarning-39-foizi-aidan-foydalanmoqda-382d5f",
     "title": "Britaniyalik yolg'izlarning 39 foizi AI'dan foydalanmoqda",
