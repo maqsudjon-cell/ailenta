@@ -1,5 +1,90 @@
 [
   {
+    "id": "77c7be88c8a6",
+    "slug": "o-zbekistonda-kiberxavfsizlik-mutaxassislari-malaka-oshiradi-77c7be",
+    "title": "O‘zbekistonda kiberxavfsizlik mutaxassislari malaka oshiradi",
+    "summary": "Davlat organlari va tashkilotlarining kiberxavfsizlik xodimlari har ikki yilda malaka oshiradi. Ular Cyber university davlat universitetida o‘qitiladi. Tizim 1-noyabrdan ishga tushadi.",
+    "tags": [
+      "O'zbekiston",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 45,
+    "published": "2026-10-31T15:26:16.000Z",
+    "created": "2026-10-31T15:36:49.634Z",
+    "coverage": 1,
+    "source": {
+      "name": "Daryo",
+      "url": "https://daryo.uz/2026/10/31/ozbekistonda-kiberxavfsizlik-mutaxassislari-har-ikki-yilda-malaka-oshiradigan-boldi",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "5c63943fda49",
+    "slug": "professor-miller-respublikachilarning-senatdagi-imkoniyatini-5c6394",
+    "title": "Professor Miller respublikachilarning Senatdagi imkoniyatini baholadi",
+    "summary": "Northwestern universiteti professori Thomas Millerning \"Nowcast\" modeli respublikachilarning Senatni saqlab qolish imkoniyatini oltidan bir deb baholadi. Model iqtisodiy va moliyaviy ma'lumotlar hamda tikish bozorlari ma'lumotlarini o'z ichiga oladi.",
+    "tags": [
+      "siyosat",
+      "iqtisod"
+    ],
+    "importance": 2,
+    "score": 22,
+    "published": "2026-10-31T07:05:00.000Z",
+    "created": "2026-10-31T15:36:49.634Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/10/31/top-data-scientist-tom-miller-midterm-election-model-republicans-one-chance-in-six-senate-control",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "ade2d7581a3b",
+    "slug": "texnologiya-ixlosmandlari-uchun-xellouin-liboslari-ade2d7",
+    "title": "Texnologiya ixlosmandlari uchun Xellouin liboslari",
+    "summary": "Matnda texnologiya ixlosmandlari uchun Xellouin liboslari g'oyalari berilgan. Ular orasida AI agenti belgisi yoki PHP zaifligi kabi variantlar mavjud.",
+    "tags": [],
+    "importance": 1,
+    "score": 15.5,
+    "published": "2026-10-30T21:26:59.000Z",
+    "created": "2026-10-31T15:36:49.634Z",
+    "coverage": 1,
+    "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "f9e2a37f56c7",
+    "slug": "ai-yordamida-multserial-yaratish-konveyeri-sinovdan-otkazild-f9e2a3",
+    "title": "AI yordamida multserial yaratish konveyeri sinovdan o'tkazildi",
+    "summary": "Habr nashri bulutli AI modellaridan foydalanib, \"O'rmon ko'chasi\" nomli vertikal multserial yaratish konveyerini sinovdan o'tkazdi. 24 soniyalik bir seriya Wan, Kling, Veo va boshqa modellar yordamida qayta yig'ildi.",
+    "tags": [
+      "bulut",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 11,
+    "published": "2026-10-31T14:55:39.000Z",
+    "created": "2026-10-31T15:36:49.634Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1102098",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "b7497452be25",
     "slug": "ai-detektorlari-inson-yozuv-uslubini-ozgartirmoqda-b74974",
     "title": "AI detektorlari inson yozuv uslubini o'zgartirmoqda",
