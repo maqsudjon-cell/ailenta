@@ -1,5 +1,27 @@
 [
   {
+    "id": "594f44f4d349",
+    "slug": "ai-toqib-chiqarish-va-ishonchning-yoqolishi-594f44",
+    "title": "AI to'qib chiqarish va ishonchning yo'qolishi",
+    "summary": "Ijtimoiy tarmoqlarda AI tomonidan yaratilgan kontent ko'payib bormoqda. Bu holat foydalanuvchilar orasida ishonchsizlikni keltirib chiqarmoqda. AI'ning \"to'qib chiqarish\" hodisasi haqida muhokamalar kuchaymoqda.",
+    "tags": [
+      "xavfsizlik",
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 28,
+    "published": "2026-11-01T14:00:01.000Z",
+    "created": "2026-11-01T16:53:39.505Z",
+    "coverage": 1,
+    "source": {
+      "name": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/ai-slop-trust-science",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "abfc16c2bf1f",
     "slug": "anthropic-yei-va-shveysariyaga-tijorat-cheklovlari-abfc16",
     "title": "Anthropic YEI va Shveysariyaga tijorat cheklovlari",
