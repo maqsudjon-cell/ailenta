@@ -1,5 +1,26 @@
 [
   {
+    "id": "14074b4203bb",
+    "slug": "boot-sektorda-ishlaydigan-til-modeli-yaratildi-14074b",
+    "title": "Boot sektorda ishlaydigan til modeli yaratildi",
+    "summary": "Hacker News'da boot sektorda joylashgan til modeli namoyish etildi. Bu model kompyuterning ishga tushirish qismida faoliyat ko'rsatadi.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 16.8,
+    "published": "2026-10-31T12:58:29.000Z",
+    "created": "2026-11-01T00:04:37.303Z",
+    "coverage": 1,
+    "source": {
+      "name": "Hacker News",
+      "url": "https://github.com/kerlenton/bootgpt",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "950aedd8e8cc",
     "slug": "xbox-menejeri-ai-oyin-sanoatida-keng-qollanishini-aytdi-950aed",
     "title": "Xbox menejeri AI o'yin sanoatida keng qo'llanishini aytdi",
