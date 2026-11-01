@@ -1,5 +1,48 @@
 [
   {
+    "id": "e3c2e19ab9b4",
+    "slug": "chatbotlar-piyoda-sayohatchilarni-adashtirmoqda-e3c2e1",
+    "title": "Chatbotlar piyoda sayohatchilarni adashtirmoqda",
+    "summary": "Sayohat rejasini AI'ga topshirish insonlarning tanqidiy fikrlashidan voz kechishiga olib kelmoqda. Bu holat kimsasiz joylarda xavfli oqibatlarga sabab bo'lishi mumkin.",
+    "tags": [
+      "xavfsizlik"
+    ],
+    "importance": 2,
+    "score": 23,
+    "published": "2026-11-01T10:30:00.000Z",
+    "created": "2026-11-01T11:01:33.178Z",
+    "coverage": 1,
+    "source": {
+      "name": "Wired",
+      "url": "https://wired.com/story/chatbots-are-leading-hikers-astray-with-dangerous-consequences",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "2d7117a920e0",
+    "slug": "ai-xarajatlari-boyicha-xavotirlar-bozorga-tasir-qildi-2d7117",
+    "title": "AI xarajatlari bo'yicha xavotirlar bozorga ta'sir qildi",
+    "summary": "Yirik texnologiya kompaniyalarining hisobotlari AI xarajatlari bo'yicha xavotirlarni qayta uyg'otdi. Oqibatda investorlar o'z mablag'larini himoyalangan aksiyalarga o'tkaza boshladi.",
+    "tags": [
+      "biznes",
+      "iqtisod"
+    ],
+    "importance": 3,
+    "score": 16,
+    "published": "2026-10-31T15:37:11.000Z",
+    "created": "2026-11-01T11:01:33.179Z",
+    "coverage": 1,
+    "source": {
+      "name": "CNBC",
+      "url": "https://cnbc.com/investingclub/2026/10/31/stocks-started-the-week-with-promise-but-ended-in-despair.html",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "2f09d209d830",
     "slug": "smartfonsiz-yashashni-afzal-koradigan-mashhurlar-2f09d2",
     "title": "Smartfonsiz yashashni afzal ko'radigan mashhurlar",
