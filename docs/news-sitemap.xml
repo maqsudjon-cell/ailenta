@@ -46,17 +46,6 @@
     </news:news>
   </url>
   <url>
-    <loc>https://ailenta.uz/x/ai-toqib-chiqarish-va-ishonchning-yoqolishi-594f44/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>AI Lenta</news:name>
-        <news:language>uz</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-01T14:00:01.000Z</news:publication_date>
-      <news:title>AI to'qib chiqarish va ishonchning yo'qolishi</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://ailenta.uz/x/stellantis-texnik-direktori-ai-boyicha-maslahat-berdi-446db4/</loc>
     <news:news>
       <news:publication>
@@ -65,6 +54,17 @@
       </news:publication>
       <news:publication_date>2026-11-01T13:30:00.000Z</news:publication_date>
       <news:title>Stellantis texnik direktori AI bo'yicha maslahat berdi</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://ailenta.uz/x/indie-oyin-ishlab-chiquvchisi-ai-asset-yaratishda-qiynaldi-1320dc/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>AI Lenta</news:name>
+        <news:language>uz</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-01T13:05:50.000Z</news:publication_date>
+      <news:title>Indie o'yin ishlab chiquvchisi AI asset yaratishda qiynaldi</news:title>
     </news:news>
   </url>
   <url>
@@ -703,17 +703,6 @@
       </news:publication>
       <news:publication_date>2026-10-30T18:40:45.000Z</news:publication_date>
       <news:title>70 yillik urinishlarga qaramay, dasturchi o'rni muhim</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://ailenta.uz/x/php-tilidagi-xatolikni-ai-vositasi-aniqladi-5b910c/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>AI Lenta</news:name>
-        <news:language>uz</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-30T17:10:09.000Z</news:publication_date>
-      <news:title>PHP tilidagi xatolikni AI vositasi aniqladi</news:title>
     </news:news>
   </url>
 </urlset>
