@@ -1,5 +1,49 @@
 [
   {
+    "id": "8d1228cc85cb",
+    "slug": "ai-matematiklar-karyerasiga-tasir-korsatmoqda-8d1228",
+    "title": "AI matematiklar karyerasiga ta'sir ko'rsatmoqda",
+    "summary": "Sun'iy intellekt matematika sohasini o'zgartirayotgani sababli, ba'zi yosh matematiklar o'z karyeralarini qayta ko'rib chiqmoqda. Ayrim talabalar individual ishlarning ahamiyati qolmasligini aytib, umidsizlikka tushmoqda.",
+    "tags": [
+      "mehnat bozori",
+      "ta'lim"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-11-01T19:08:12.000Z",
+    "created": "2026-11-01T22:28:28.640Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/math-ai-mathematicians-careers-jobs-future-mit-2026-11",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "4f4263b05903",
+    "slug": "hugging-faceda-anthropicning-malumotlar-sizishi-4f4263",
+    "title": "Hugging Face'da Anthropic'ning ma'lumotlar sizishi",
+    "summary": "Hugging Face platformasida \"Anthropic Leak\" nomli ma'lumotlar sizishi aniqlandi. Unda tasodifiy raqamli tensorlar mavjudligi xabar qilingan.",
+    "tags": [
+      "Anthropic",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 10,
+    "published": "2026-11-01T19:17:24.000Z",
+    "created": "2026-11-01T22:28:28.641Z",
+    "coverage": 1,
+    "source": {
+      "name": "FourWeekMBA",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQ2VWNzlBTFFFdTUwcjF5QTVrSnh1UklVbHZ4NDg1cjFSbVFlbkJmZ0ppYlAtSmVvNWl2M01KYWxQMEdBYTY5VmVaSFZZVjBOaEpnMDB4RGJ6OTVXakxQV2RUQ3Y2djRkcHVZOGdxaF9EejAtdFJibHJRdFRVeEVSb2RyUlV2YkkyOGpiMw",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "7075e05043ea",
     "slug": "snl-songgi-epizodida-ai-startap-madaniyatini-tanqid-qildi-7075e0",
     "title": "SNL so'nggi epizodida AI startap madaniyatini tanqid qildi",
