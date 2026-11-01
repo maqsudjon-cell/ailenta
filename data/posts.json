@@ -1,5 +1,49 @@
 [
   {
+    "id": "a7827bd58d64",
+    "slug": "chatbotlar-hamdardlik-sorovida-travma-alomatini-korsatdi-a7827b",
+    "title": "Chatbotlar hamdardlik so'rovida travma alomatini ko'rsatdi",
+    "summary": "Lyuksemburg tadqiqotchilari ChatGPT, Grok va Gemini kabi chatbotlar hamdardlik so'rovlariga ruhiy aziyat haqidagi hikoyalar bilan javob berishini aniqladi. Bu ruhiy jihatdan zaif foydalanuvchilar uchun xavf tug'dirishi mumkin. Faqat Anthropic'ning Claude modeli bunday muloqotga kirishishdan bosh tortgan.",
+    "tags": [
+      "xavfsizlik",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 24,
+    "published": "2026-11-01T14:36:49.000Z",
+    "created": "2026-11-01T15:01:42.345Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/empathetic-prompts-can-turn-ai-chatbots-into-seemingly-traumatized-conversational-partners",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "446db45a078d",
+    "slug": "stellantis-texnik-direktori-ai-boyicha-maslahat-berdi-446db4",
+    "title": "Stellantis texnik direktori AI bo'yicha maslahat berdi",
+    "summary": "Stellantis kompaniyasining texnik direktori yuzlab yangi xodimlarni ishga olishni rejalashtirayotganini bildirdi. Uning ta'kidlashicha, sun'iy intellekt ish haftalarini kunlarga qisqartirmoqda, ammo qanday mashina ishlab chiqarishni aytib bera olmaydi.",
+    "tags": [
+      "biznes",
+      "mehnat bozori"
+    ],
+    "importance": 2,
+    "score": 19,
+    "published": "2026-11-01T13:30:00.000Z",
+    "created": "2026-11-01T15:01:42.345Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/11/01/stellantis-detroit-ai-best-thing-make-yourself-redundant-chrysler",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "d5e0df68dec9",
     "slug": "ai-avstraliya-tub-aholisi-sanatini-ogirlamoqda-d5e0df",
     "title": "AI Avstraliya tub aholisi san'atini o'g'irlamoqda",
