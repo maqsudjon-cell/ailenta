@@ -1,5 +1,48 @@
 [
   {
+    "id": "abfc16c2bf1f",
+    "slug": "anthropic-yei-va-shveysariyaga-tijorat-cheklovlari-abfc16",
+    "title": "Anthropic YEI va Shveysariyaga tijorat cheklovlari",
+    "summary": "Anthropic kompaniyasi Yevropa Iqtisodiy Hududi va Shveysariya aholisi uchun o'z xizmatlaridan tijorat maqsadlarida foydalanishni chekladi. Bu qoidalar kompaniyaning iste'molchilar shartlarida ko'rsatilgan.",
+    "tags": [
+      "Anthropic",
+      "qonun"
+    ],
+    "importance": 3,
+    "score": 17,
+    "published": "2026-11-01T11:43:24.000Z",
+    "created": "2026-11-01T16:28:21.302Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1100830",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "335470692abe",
+    "slug": "ai-klonlar-adobe-kabi-kompaniyalarga-tahdid-solmoqda-335470",
+    "title": "AI klonlar Adobe kabi kompaniyalarga tahdid solmoqda",
+    "summary": "AI asosidagi dasturiy ta'minot klonlari Adobe kabi yirik kompaniyalar uchun raqobatni kuchaytirmoqda. Bu holat bozorda o'zgarishlarga sabab bo'lishi mumkin.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-11-01T15:30:00.000Z",
+    "created": "2026-11-01T16:28:21.303Z",
+    "coverage": 1,
+    "source": {
+      "name": "Engadget",
+      "url": "https://engadget.com/2302459/ai-software-clones-coming-for-big-name-companies-adobe",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "75993fd49c95",
     "slug": "aqshda-ai-siyosatini-maykl-kratsios-boshqarmoqda-75993f",
     "title": "AQShda AI siyosatini Maykl Kratsios boshqarmoqda",
