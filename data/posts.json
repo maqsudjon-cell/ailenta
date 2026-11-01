@@ -1,5 +1,48 @@
 [
   {
+    "id": "7075e05043ea",
+    "slug": "snl-songgi-epizodida-ai-startap-madaniyatini-tanqid-qildi-7075e0",
+    "title": "SNL so'nggi epizodida AI startap madaniyatini tanqid qildi",
+    "summary": "\"Saturday Night Live\" (SNL) o'zining so'nggi epizodida sun'iy intellekt startap madaniyatini tanqid ostiga oldi. Bu tanqid \"predatory tech guys\" kabi mavzularni qamrab oldi.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-11-01T17:13:48.000Z",
+    "created": "2026-11-01T21:38:17.008Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/saturday-night-live-snl-ai-startup-culture-tech-comedy-2026-11",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "7be4f1ba0d35",
+    "slug": "ai-javoblariga-kirish-uchun-sahifa-boshini-tekshirish-7be4f1",
+    "title": "AI javoblariga kirish uchun sahifa boshini tekshirish",
+    "summary": "TJ Robertsonning tadqiqotiga ko'ra, ChatGPT va Google AI javoblarida keltirilgan sahifalar ko'pincha to'g'ridan-to'g'ri javob bilan boshlangan. Biroq, u buni sabab emas, balki bog'liqlik deb hisoblaydi.",
+    "tags": [
+      "tadqiqot",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 14,
+    "published": "2026-11-01T17:56:13.000Z",
+    "created": "2026-11-01T21:38:17.008Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1102378",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "785674f7f8a3",
     "slug": "microsoft-ai-rahbari-ai-shuurga-ega-bolmasligi-kerak-dedi-785674",
     "title": "Microsoft AI rahbari AI shuurga ega bo'lmasligi kerak dedi",
