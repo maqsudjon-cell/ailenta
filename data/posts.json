@@ -1,5 +1,27 @@
 [
   {
+    "id": "99dda9588ed7",
+    "slug": "xitoy-ai-modellari-siyosiy-qarashlarda-xilma-xil-99dda9",
+    "title": "Xitoy AI modellari siyosiy qarashlarda xilma-xil",
+    "summary": "Vals AI o‘tkazgan tadqiqotda 25 ta sun'iy intellekt modeli Xitoy hukumati pozitsiyasiga mosligi bo‘yicha sinovdan o‘tkazildi. Natijalarga ko‘ra, Xitoy modellari siyosiy savollarga kutilgandan ko‘ra har xil javob berishi va so‘rov tili natijaga kuchli ta'sir qilishi aniqlandi.",
+    "tags": [
+      "tadqiqot",
+      "siyosat"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-11-01T12:33:01.000Z",
+    "created": "2026-11-01T13:02:33.706Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/chinese-ai-models-are-politically-complex-not-just-government-mouthpieces-study-finds",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "d2e749886b05",
     "slug": "anthropic-ipo-arizasida-xayriya-rejalarini-malum-qildi-d2e749",
     "title": "Anthropic IPO arizasida xayriya rejalarini ma'lum qildi",
