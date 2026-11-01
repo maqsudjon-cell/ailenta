@@ -1,5 +1,27 @@
 [
   {
+    "id": "dd36e267f38b",
+    "slug": "ai-detektorlari-oliy-talimga-tasiri-dd36e2",
+    "title": "AI detektorlari oliy ta'limga ta'siri",
+    "summary": "Talabalar akademik ishlarda LLM'lardan foydalanishni ko'paytirmoqda, bu esa oliy ta'lim tizimini xavotirga solmoqda. AI detektorlari AI tomonidan yaratilgan matnlarni aniqlash orqali bu muammoga qarshi kurashmoqda.",
+    "tags": [
+      "ta'lim",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 9.4,
+    "published": "2026-10-31T11:59:47.000Z",
+    "created": "2026-11-01T04:01:51.230Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1102058",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "8459965ed014",
     "slug": "anthropic-kaliforniya-demokratlariga-900-ming-dollar-xayriya-845996",
     "title": "Anthropic Kaliforniya Demokratlariga 900 ming dollar xayriya qildi",
