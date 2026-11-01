@@ -1,5 +1,32 @@
 [
   {
+    "id": "5464a863f83d",
+    "slug": "anthropicning-ichki-ai-xarajati-xodimlar-maoshidan-oshdi-5464a8",
+    "title": "Anthropic'ning ichki AI xarajati xodimlar maoshidan oshdi",
+    "summary": "Anthropic kompaniyasining IPO arizasidagi ma'lumotlarga ko'ra, uning ichki AI tizimlaridan foydalanish qiymati xodimlar maoshidan oshib ketgan. Bu ko'rsatkich kompaniyaning mijozlarga taqdim etadigan chakana narxlari asosida baholangan.",
+    "tags": [
+      "Anthropic",
+      "biznes"
+    ],
+    "importance": 4,
+    "score": 21,
+    "published": "2026-11-01T15:00:01.000Z",
+    "created": "2026-11-01T18:13:28.001Z",
+    "coverage": 2,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "Business Insider",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPckZlQklSTUE5MnZLZDM2U1RWbGFtQzRmVU1mTTk5YUVLNEVta3FmZnM5OWIxUW9DN253ZlctTGk4RFEybHFGQU9hXzNSdkE5SGZRbjNKLUd6RE9OaEN6NWkzd2dpcnRDRjdGR01DN0JyQWVjcFhkaEs5UmlmNS1oZV9VSVhjbHk3d0M3aHVwa0lfODdOZFF4NnVHSTBRUy1EZlE"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
     "id": "1320dc0e0ee2",
     "slug": "indie-oyin-ishlab-chiquvchisi-ai-asset-yaratishda-qiynaldi-1320dc",
     "title": "Indie o'yin ishlab chiquvchisi AI asset yaratishda qiynaldi",
