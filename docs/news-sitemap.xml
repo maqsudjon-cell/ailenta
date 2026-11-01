@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://ailenta.uz/x/aqshda-ai-siyosatini-maykl-kratsios-boshqarmoqda-75993f/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>AI Lenta</news:name>
+        <news:language>uz</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-01T15:30:00.000Z</news:publication_date>
+      <news:title>AQShda AI siyosatini Maykl Kratsios boshqarmoqda</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://ailenta.uz/x/chatbotlar-hamdardlik-sorovida-travma-alomatini-korsatdi-a7827b/</loc>
     <news:news>
       <news:publication>
@@ -703,17 +714,6 @@
       </news:publication>
       <news:publication_date>2026-10-30T15:46:28.000Z</news:publication_date>
       <news:title>AQSH texnologiya aksiyalari AI xarajatlari sabab tushmoqda</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://ailenta.uz/x/intel-aksiyalari-50-yildan-ortiq-vaqtdagi-eng-yomon-kunini-o-9385b6/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>AI Lenta</news:name>
-        <news:language>uz</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-30T15:43:48.000Z</news:publication_date>
-      <news:title>Intel aksiyalari 50 yildan ortiq vaqtdagi eng yomon kunini o'tkazdi</news:title>
     </news:news>
   </url>
 </urlset>
