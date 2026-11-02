@@ -1,21 +1,109 @@
 [
   {
-    "id": "302b11fd2d8e",
-    "slug": "suse-xodimlarining-10-foizini-qisqartirmoqda-302b11",
-    "title": "SUSE xodimlarining 10 foizini qisqartirmoqda",
-    "summary": "Linux distribyutori SUSE sun'iy intellekt va avtomatlashtirish ta'sirida ishchilarining taxminan 10 foizini ishdan bo'shatmoqda. Kompaniya rahbari zamonaviy vositalar kundalik ish jarayonlari va dasturiy ta'minot kompaniyalari faoliyatini tubdan o'zgartirayotganini bildirdi.",
+    "id": "9e34257f2e6e",
+    "slug": "xitoyning-robototexnika-aiga-sarmoyasi-9e3425",
+    "title": "Xitoyning robototexnika AI'ga sarmoyasi",
+    "summary": "Review.uz nashri Financial Times va Reuters materiallari asosida Xitoyning robototexnika sohasidagi sun'iy intellektga kiritayotgan sarmoyalari haqida ma'lumot berdi. Bu global press sharhining bir qismi bo'lib, AQSHning muhim minerallarni qo'llab-quvvatlashi va Xitoyning kimyoviy mahsulotlar eksporti ham yoritilgan.",
     "tags": [
-      "mehnat bozori",
-      "biznes"
+      "Xitoy",
+      "robototexnika"
+    ],
+    "importance": 2,
+    "score": 44,
+    "published": "2026-11-02T13:13:27.000Z",
+    "created": "2026-11-02T20:10:53.751Z",
+    "coverage": 1,
+    "source": {
+      "name": "Review.uz",
+      "url": "https://review.uz/post/jahon-matbuoti-sharhi-2112026",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "0262bad651e9",
+    "slug": "model-demokratlarga-senatda-90-imkoniyat-bermoqda-0262ba",
+    "title": "Model Demokratlarga Senatda 90% imkoniyat bermoqda",
+    "summary": "Yetakchi ma'lumot olimining modeli Demokratlarga Senatda 90% g'alaba qozonish imkoniyatini bermoqda. Kanzasda senator Rojer Marshallning qayta saylanish imkoniyatlari keskin pasaygan.",
+    "tags": [
+      "siyosat",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-11-02T16:11:33.000Z",
+    "created": "2026-11-02T20:10:53.752Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/11/02/midterm-election-odds-us-senate-republicans-democrats-kansas-roger-marshall-blue-wave",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "41f295d871a1",
+    "slug": "ai-kompaniyalarini-baholash-qiyinligi-takidlandi-41f295",
+    "title": "AI kompaniyalarini baholash qiyinligi ta'kidlandi",
+    "summary": "Milliarder investor Hovard Marks Anthropic kabi AI kompaniyalarini baholash juda qiyinligini aytdi. Uning fikricha, besh yildan keyin bunday kompaniyalarning faoliyati yoki daromadini bashorat qilish mushkul.",
+    "tags": [
+      "biznes",
+      "iqtisod"
+    ],
+    "importance": 3,
+    "score": 18,
+    "published": "2026-11-02T15:43:47.000Z",
+    "created": "2026-11-02T20:10:53.752Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/howard-marks-ai-anthropic-stocks-nasdaq-investing-valuation-buffett-burry-2026-11",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "c48ef4b6aa4d",
+    "slug": "agentli-orqa-eshiklar-oqitish-orqali-zaharlanishi-c48ef4",
+    "title": "Agentli orqa eshiklar o'qitish orqali zaharlanishi",
+    "summary": "Tadqiqotchilar agentli tizimlarda o'qitish jarayonida \"zaharlanish\" orqali orqa eshiklar yaratish mumkinligini aniqladi. Bu AI xavfsizligi uchun yangi tahdidlarni ko'rsatadi.",
+    "tags": [
+      "xavfsizlik",
+      "tadqiqot"
+    ],
+    "importance": 4,
+    "score": 16.8,
+    "published": "2026-11-02T18:30:58.000Z",
+    "created": "2026-11-02T20:10:53.752Z",
+    "coverage": 1,
+    "source": {
+      "name": "Hacker News",
+      "url": "https://arxiv.org/abs/2610.37741",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "b524e84b6629",
+    "slug": "ai-yuridik-sohada-muvaffaqiyatsizliklarning-oldini-oladi-b524e8",
+    "title": "AI yuridik sohada muvaffaqiyatsizliklarning oldini oladi",
+    "summary": "LexisNexis va Business Insider tomonidan o'tkazilgan tadbirda AI'ning yuridik sohadagi roli muhokama qilindi. Sun'iy intellekt yirik yuridik firmalarning kelajakdagi muvaffaqiyatsizliklarining oldini olishi mumkinligi ta'kidlandi.",
+    "tags": [
+      "biznes",
+      "qonun"
     ],
     "importance": 3,
     "score": 15,
-    "published": "2026-11-02T19:15:01.000Z",
-    "created": "2026-11-02T19:58:55.380Z",
+    "published": "2026-11-02T15:30:35.000Z",
+    "created": "2026-11-02T20:10:53.752Z",
     "coverage": 1,
     "source": {
-      "name": "Techmeme",
-      "url": "https://techmeme.com/261102/p35",
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/weil-gotshal-wind-down-ai-big-law-2026-11",
       "indirect": false
     },
     "also": [],
