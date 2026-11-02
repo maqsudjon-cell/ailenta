@@ -1,5 +1,137 @@
 [
   {
+    "id": "13d2cc1b2e28",
+    "slug": "ai-agentlar-kodlashda-kop-token-ishlatmoqda-13d2cc",
+    "title": "AI agentlar kodlashda ko'p token ishlatmoqda",
+    "summary": "AI agentlar kodlash vazifalarini bajarishda oddiy chat so'rovlariga qaraganda 10-50 barobar ko'proq token sarflaydi. Ular kodni rejalashtirish, yaratish, sinovdan o'tkazish va xatolarni tuzatish uchun takroriy jarayonlarni amalga oshiradi.",
+    "tags": [
+      "agentlar",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 26,
+    "published": "2026-11-02T13:10:32.000Z",
+    "created": "2026-11-02T15:02:20.427Z",
+    "coverage": 1,
+    "source": {
+      "name": "MIT Technology Review",
+      "url": "https://technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "1566b1183418",
+    "slug": "eqt-ai-infratuzilmasiga-ishonadi-lekin-kreditdan-uzoq-1566b1",
+    "title": "EQT AI infratuzilmasiga ishonadi, lekin kreditdan uzoq",
+    "summary": "Shvetsiyaning nufuzli oilasi tomonidan qo'llab-quvvatlanadigan EQT kompaniyasi AI infratuzilmasining rivojlanishiga ishonadi. Biroq, ular xususiy kredit investitsiyalaridan chetda qolmoqda.",
+    "tags": [
+      "biznes",
+      "iqtisod"
+    ],
+    "importance": 2,
+    "score": 22,
+    "published": "2026-11-02T12:44:36.000Z",
+    "created": "2026-11-02T15:02:20.427Z",
+    "coverage": 1,
+    "source": {
+      "name": "Semafor",
+      "url": "https://semafor.com/article/11/02/2026/bragawatts-and-why-all-data-center-investing-isnt-created-equal",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "5d9d19580f5c",
+    "slug": "microsoft-ai-martaba-pogonasini-yoq-qilmoqda-5d9d19",
+    "title": "Microsoft: AI martaba pog'onasini yo'q qilmoqda",
+    "summary": "Microsoft rahbari AI an'anaviy martaba pog'onasini yo'q qilayotganini ta'kidladi. Bu o'zgarish, aniq mezonlar yo'qligi sababli, tarixan chetda qolgan ishchilar uchun martaba o'sishini qiyinlashtirishi mumkin.",
+    "tags": [
+      "Microsoft",
+      "mehnat bozori"
+    ],
+    "importance": 4,
+    "score": 19,
+    "published": "2026-11-02T13:15:11.000Z",
+    "created": "2026-11-02T15:02:20.427Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/11/02/a-microsoft-exec-says-ai-is-killing-the-career-ladder-but-its-replacement-comes-with-a-catch",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "66c1f7fc98ec",
+    "slug": "larridin-ai-xarajatlarini-kuzatish-uchun-30-mln-oldi-66c1f7",
+    "title": "Larridin AI xarajatlarini kuzatish uchun $30 mln oldi",
+    "summary": "Larridin startapi Pelion Ventures va a16z kabi investorlardan 30 million dollar sarmoya jalb qildi. Kompaniya bu mablag'ni korxonalarga AI xarajatlarini kuzatish va investitsiyalardan olinadigan daromadlarni baholashda yordam berish uchun ishlatadi.",
+    "tags": [
+      "biznes",
+      "iqtisod"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-11-02T14:00:01.000Z",
+    "created": "2026-11-02T15:02:20.427Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/larridin-ai-spending-measurement-series-a-30-million-2026-11",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "4040ae18545d",
+    "slug": "creandum-ai-uchun-750-mlnlik-fondni-jalb-qildi-4040ae",
+    "title": "Creandum AI uchun $750 mlnlik fondni jalb qildi",
+    "summary": "Creandum kompaniyasi AI sohasidagi rivojlanishni qo'llab-quvvatlash maqsadida 750 million dollarlik eng yirik fondni yig'di. Bu mablag' AI bozoridagi o'sishni moliyalashtirishga yo'naltiriladi.",
+    "tags": [
+      "iqtisod",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-11-02T12:04:11.000Z",
+    "created": "2026-11-02T15:02:20.427Z",
+    "coverage": 1,
+    "source": {
+      "name": "Sifted",
+      "url": "https://sifted.eu/articles/creandum-750-largest-vc-fund-back-ai-san-francisco",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "a100926f52ce",
+    "slug": "london-ai-kompaniyalari-uchun-eng-yaxshi-joy-a10092",
+    "title": "London AI kompaniyalari uchun eng yaxshi joy",
+    "summary": "London AI kompaniyalarini tashkil etish uchun dunyodagi eng qulay joy deb e'tirof etilmoqda. Bu shahar AI startaplari uchun jozibador muhitni taklif etadi.",
+    "tags": [
+      "iqtisod",
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-11-02T05:00:30.000Z",
+    "created": "2026-11-02T15:02:20.427Z",
+    "coverage": 1,
+    "source": {
+      "name": "Sifted",
+      "url": "https://sifted.eu/articles/london-is-the-best-place-in-the-world-to-launch-an-ai-company",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "153847a78cc8",
     "slug": "intel-chip-ishlab-chiqarishni-xeon-protsessorlariga-burmoqda-153847",
     "title": "Intel chip ishlab chiqarishni Xeon protsessorlariga burmoqda",

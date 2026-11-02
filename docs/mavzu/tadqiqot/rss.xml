@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/tadqiqot/</link>
   <description>&quot;tadqiqot&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Mon, 02 Nov 2026 14:12:17 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 02 Nov 2026 15:08:41 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/tadqiqot/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>AI agentlar kodlashda ko'p token ishlatmoqda</title>
+    <link>https://ailenta.uz/x/ai-agentlar-kodlashda-kop-token-ishlatmoqda-13d2cc/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/ai-agentlar-kodlashda-kop-token-ishlatmoqda-13d2cc/</guid>
+    <pubDate>Mon, 02 Nov 2026 13:10:32 GMT</pubDate>
+    <description>AI agentlar kodlash vazifalarini bajarishda oddiy chat so'rovlariga qaraganda 10-50 barobar ko'proq token sarflaydi. Ular kodni rejalashtirish, yaratish, sinovdan o'tkazish va xatolarni tuzatish uchun takroriy jarayonlarni amalga oshiradi.</description>
+    <category>agentlar</category><category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/ai-agentlar-kodlashda-kop-token-ishlatmoqda-13d2cc.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/ai-agentlar-kodlashda-kop-token-ishlatmoqda-13d2cc.jpg"/>
+  </item>
   <item>
     <title>Matematika AI imperiyalarini qanday ag'darishi mumkin</title>
     <link>https://ailenta.uz/x/matematika-ai-imperiyalarini-qanday-agdarishi-mumkin-d78ed4/</link>
@@ -296,16 +306,6 @@
     <category>tadqiqot</category><category>qonun</category>
     <media:content url="https://ailenta.uz/og/viktoriya-advokatlarining-yarmi-ai-ishlatmoqda-1e0e2c.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/viktoriya-advokatlarining-yarmi-ai-ishlatmoqda-1e0e2c.jpg"/>
-  </item>
-  <item>
-    <title>Raspberry Pi Pico 2 W da ishlaydigan kichik dunyo modeli</title>
-    <link>https://ailenta.uz/x/raspberry-pi-pico-2-w-da-ishlaydigan-kichik-dunyo-modeli-c30c38/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/raspberry-pi-pico-2-w-da-ishlaydigan-kichik-dunyo-modeli-c30c38/</guid>
-    <pubDate>Thu, 29 Oct 2026 20:32:28 GMT</pubDate>
-    <description>Kichik dunyo modeli Raspberry Pi Pico 2 W qurilmasida o'yinlarni ishga tushirmoqda. Bu texnologiya cheklangan resurslarga ega qurilmalarda AI imkoniyatlarini kengaytiradi.</description>
-    <category>tadqiqot</category><category>chiplar</category>
-    <media:content url="https://ailenta.uz/og/raspberry-pi-pico-2-w-da-ishlaydigan-kichik-dunyo-modeli-c30c38.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/raspberry-pi-pico-2-w-da-ishlaydigan-kichik-dunyo-modeli-c30c38.jpg"/>
   </item>
 </channel>
 </rss>
