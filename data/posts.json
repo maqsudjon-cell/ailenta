@@ -1,5 +1,113 @@
 [
   {
+    "id": "1d0ccc83bec1",
+    "slug": "ryanair-yoqilgi-xarajatlarini-kamaytirish-uchun-aidan-foydal-1d0ccc",
+    "title": "Ryanair yoqilg'i xarajatlarini kamaytirish uchun AI'dan foydalanadi",
+    "summary": "Ryanair yoqilg'i narxlarining €2 mlrdga oshishi sababli xarajatlarni kamaytirish choralarini ko'rib chiqmoqda. Kompaniya ish haqi muzlatish, ekipaj sonini qisqartirish va AI'dan foydalanishni oshirishni rejalashtirmoqda. Yevropa aviakompaniyalari chipta narxlarini 20% gacha oshirishi mumkin.",
+    "tags": [
+      "biznes",
+      "iqtisod"
+    ],
+    "importance": 3,
+    "score": 23,
+    "published": "2026-11-02T09:06:51.000Z",
+    "created": "2026-11-02T09:37:54.356Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/business/2026/nov/02/ryanair-considers-pay-freezes-reducing-crew-on-flights-fuel-costs-soar-ai",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "3200a25c2906",
+    "slug": "ai-yaratgan-vikilar-oyin-madaniyatini-buzmoqda-3200a2",
+    "title": "AI yaratgan vikilar o'yin madaniyatini buzmoqda",
+    "summary": "Sun'iy intellekt tomonidan yaratilgan fan vikilarida xatolar ko'payib bormoqda. Bu holat o'yin madaniyatiga salbiy ta'sir ko'rsatmoqda.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 18.3,
+    "published": "2026-11-02T01:47:07.000Z",
+    "created": "2026-11-02T09:37:54.356Z",
+    "coverage": 1,
+    "source": {
+      "name": "Hacker News",
+      "url": "https://eurogamer.net/ai-fan-wikis-errors-complicating-games-culture",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "a54f938c8acc",
+    "slug": "llm-agentlar-va-generativ-ai-arxitektura-kasbini-ozgartirmoq-a54f93",
+    "title": "LLM agentlar va generativ AI arxitektura kasbini o'zgartirmoqda",
+    "summary": "LLM agentlar va generativ AI dasturiy ta'minot arxitekturasi kasbini tubdan o'zgartirmoqda. Ilgari kod yozish emas, balki integratsiya asosiy muammo edi. Endi bu soha yangi qiyinchiliklarga duch kelmoqda.",
+    "tags": [
+      "mehnat bozori",
+      "agentlar"
+    ],
+    "importance": 3,
+    "score": 14,
+    "published": "2026-11-02T09:00:16.000Z",
+    "created": "2026-11-02T09:37:54.356Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/companies/raiffeisenbank/articles/1102548",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "92a634f712d9",
+    "slug": "m-video-aini-dasturiy-taminot-va-biznesda-kengaytirmoqda-92a634",
+    "title": "M.Video AI'ni dasturiy ta'minot va biznesda kengaytirmoqda",
+    "summary": "M.Video kompaniyasi dasturiy ta'minot ishlab chiqish va operatsion jarayonlarda AI'dan foydalanishni kengaytirmoqda. AI vositalari kodni tekshirish, test stsenariylarini tayyorlash va mijozlar murojaatlarini tahlil qilishda yordam beradi. Kompaniya korporativ AI platformasini yaratishni ham rejalashtirmoqda.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 11,
+    "published": "2026-11-02T09:14:22.000Z",
+    "created": "2026-11-02T09:37:54.356Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1102594",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "a7f6b64a2eb9",
+    "slug": "ai-agentlar-xotiradan-qanday-foydalanishi-organildi-a7f6b6",
+    "title": "AI agentlar xotiradan qanday foydalanishi o'rganildi",
+    "summary": "AI agentlar uchun xotira yaratuvchi kompaniya 13 ming log faylini tahlil qildi. Tadqiqot agentlarning xotiradan foydalanishi haqidagi ko'plab taxminlar noto'g'ri ekanligini ko'rsatdi. Olingan xulosalar barcha AI agentlar uchun muhimdir.",
+    "tags": [
+      "tadqiqot",
+      "agentlar"
+    ],
+    "importance": 3,
+    "score": 11,
+    "published": "2026-11-02T09:10:29.000Z",
+    "created": "2026-11-02T09:37:54.356Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1102588",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "14e5ebbed9e9",
     "slug": "xitoyda-110-ta-robot-raqs-tushib-rekord-ornatdi-14e5eb",
     "title": "Xitoyda 110 ta robot raqs tushib rekord o'rnatdi",
