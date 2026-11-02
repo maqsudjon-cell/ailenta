@@ -1,5 +1,71 @@
 [
   {
+    "id": "170164550047",
+    "slug": "appledan-john-ternus-ilk-hisobotga-tayyorlanmoqda-170164",
+    "title": "Apple'dan John Ternus ilk hisobotga tayyorlanmoqda",
+    "summary": "Apple rahbari John Ternus o'zining ilk moliyaviy hisobotini taqdim etadi. Investorlar xotira chiplari narxi, iPhone Duo savdosi va kompaniyaning AI strategiyasiga e'tibor qaratmoqda.",
+    "tags": [
+      "Apple",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 48,
+    "published": "2026-11-02T11:05:35.000Z",
+    "created": "2026-11-02T15:36:23.000Z",
+    "coverage": 1,
+    "source": {
+      "name": "Pivot",
+      "url": "https://pivot.uz/uz/applening-yangi-rahbari-john-ternus-ilk-moliyaviy-sinovga-tayyorlanmoqda",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "a004828f23de",
+    "slug": "ai-saylovchilarni-mikro-maqsadlashni-osonlashtirmoqda-a00482",
+    "title": "AI saylovchilarni mikro-maqsadlashni osonlashtirmoqda",
+    "summary": "AI yordamida shaxsiylashtirilgan xabarlar saylovchilarga aniq yetkazilmoqda. Bu saylov kampaniyalarida yangi imkoniyatlar yaratadi, ammo dezinformatsiya xavfini ham oshiradi.",
+    "tags": [
+      "siyosat",
+      "xavfsizlik"
+    ],
+    "importance": 4,
+    "score": 27,
+    "published": "2026-11-02T14:55:57.000Z",
+    "created": "2026-11-02T15:36:23.001Z",
+    "coverage": 1,
+    "source": {
+      "name": "The New York Times",
+      "url": "https://nytimes.com/2026/11/02/business/media/ai-microtargeting-midterm-elections.html",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "3a624981a118",
+    "slug": "timlidning-sorovi-llm-vazifa-bahosini-20-ga-ozgartirdi-3a6249",
+    "title": "Timlidning so'rovi LLM vazifa bahosini 20% ga o'zgartirdi",
+    "summary": "Tajribaga ko'ra, timlidning birgina so'rovi ikkita LLM'ning vazifa bahosini taxminan 20% ga o'zgartirishi mumkin. Bu holat poker-rejalashtirishda \"langar effekti\" qanday ishlashini ko'rsatadi.",
+    "tags": [
+      "tadqiqot",
+      "mehnat bozori"
+    ],
+    "importance": 3,
+    "score": 14,
+    "published": "2026-11-02T13:50:38.000Z",
+    "created": "2026-11-02T15:36:23.001Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/companies/otus/articles/1088898",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "13d2cc1b2e28",
     "slug": "ai-agentlar-kodlashda-kop-token-ishlatmoqda-13d2cc",
     "title": "AI agentlar kodlashda ko'p token ishlatmoqda",
