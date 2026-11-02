@@ -1,9 +1,30 @@
 [
   {
+    "id": "44c3f62ac1cd",
+    "slug": "mask-spacexni-nasadan-uzoqlashtirmoqda-44c3f6",
+    "title": "Mask SpaceX’ni NASA’dan uzoqlashtirmoqda",
+    "summary": "SpaceX yangi davlat buyurtmalariga kamroq qiziqish bildirmoqda, lekin amaldagi shartnomalarini bajarishda davom etmoqda. Tahlilchi Erik Berger buni Ilon Maskning sun'iy intellekt sohasida ustunlikka erishish maqsadi bilan bog'ladi.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 48,
+    "published": "2026-11-02T07:00:11.000Z",
+    "created": "2026-11-02T07:07:16.063Z",
+    "coverage": 1,
+    "source": {
+      "name": "Kun.uz",
+      "url": "https://kun.uz/news/2026/11/02/maskning-yangi-maqsadi-spacexni-nasadan-uzoqlashtirmoqda-58893",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "fe08be22fac5",
-    "slug": "aqshda-ai-loyihalariga-investitsiyalar-sekinlashmoqda-fe08be",
-    "title": "AQSHda AI loyihalariga investitsiyalar sekinlashmoqda",
-    "summary": "Texnologiya kompaniyalarining daromadlari kutilganidan past bo‘lgach, ba’zi investorlar AQSH iqtisodiy o‘sishi bo‘yicha kutilmalarini kamaytirdi. Bu holat AI infratuzilmasini kengaytirish barqarorligiga bo‘lgan xavotirlar ortidan yuzaga keldi.",
+    "slug": "ai-sohasidagi-daromadlar-kutilmalarni-oqlamadi-fe08be",
+    "title": "AI sohasidagi daromadlar kutilmalarni oqlamadi",
+    "summary": "Texnologiya kompaniyalarining daromadlari kutilganidan past bo'lgach, ba'zi investorlar AQSh iqtisodiy o'sishi bo'yicha taxminlarini kamaytirdi. Bunga AI infratuzilmasini jadal rivojlantirishning barqarorligiga bo'lgan xavotirlar sabab bo'ldi.",
     "tags": [
       "iqtisod",
       "biznes"
@@ -11,7 +32,7 @@
     "importance": 3,
     "score": 19,
     "published": "2026-11-01T22:39:25.000Z",
-    "created": "2026-11-02T06:55:05.914Z",
+    "created": "2026-11-02T07:07:16.063Z",
     "coverage": 1,
     "source": {
       "name": "Semafor",
