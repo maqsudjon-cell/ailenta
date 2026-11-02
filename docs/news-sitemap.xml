@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://ailenta.uz/x/openai-va-anthropic-saylovlar-boyicha-guruhlar-tuzadi-ccd312/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>AI Lenta</news:name>
+        <news:language>uz</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-02T09:45:37.000Z</news:publication_date>
+      <news:title>OpenAI va Anthropic saylovlar bo'yicha guruhlar tuzadi</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://ailenta.uz/x/m-video-aini-dasturiy-taminot-va-biznesda-kengaytirmoqda-92a634/</loc>
     <news:news>
       <news:publication>
@@ -736,17 +747,6 @@
       </news:publication>
       <news:publication_date>2026-10-31T10:30:45.000Z</news:publication_date>
       <news:title>Milliy ilovada 84 davlatga UnionPay pul o‘tkazmalari</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://ailenta.uz/x/anthropic-ipoda-hayot-fanlariga-katta-etibor-qaratmoqda-ec4439/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>AI Lenta</news:name>
-        <news:language>uz</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-31T10:10:01.000Z</news:publication_date>
-      <news:title>Anthropic IPO'da hayot fanlariga katta e'tibor qaratmoqda</news:title>
     </news:news>
   </url>
 </urlset>

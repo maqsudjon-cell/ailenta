@@ -1,5 +1,27 @@
 [
   {
+    "id": "ccd31203a27d",
+    "slug": "openai-va-anthropic-saylovlar-boyicha-guruhlar-tuzadi-ccd312",
+    "title": "OpenAI va Anthropic saylovlar bo'yicha guruhlar tuzadi",
+    "summary": "OpenAI va Anthropic o'z platformalari oraliq saylovlar haqida aniq ma'lumot berishini ta'minlash uchun maxsus guruhlar tashkil etadi. Ular ushbu jarayonni nazorat qiladi.",
+    "tags": [
+      "OpenAI",
+      "Anthropic"
+    ],
+    "importance": 3,
+    "score": 25,
+    "published": "2026-11-02T09:45:37.000Z",
+    "created": "2026-11-02T10:01:47.322Z",
+    "coverage": 1,
+    "source": {
+      "name": "Semafor",
+      "url": "https://semafor.com/article/11/02/2026/election-war-rooms-enter-the-ai-age",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "1d0ccc83bec1",
     "slug": "ryanair-yoqilgi-xarajatlarini-kamaytirish-uchun-aidan-foydal-1d0ccc",
     "title": "Ryanair yoqilg'i xarajatlarini kamaytirish uchun AI'dan foydalanadi",
