@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/agentlar/</link>
   <description>&quot;agentlar&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Mon, 02 Nov 2026 18:56:55 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 02 Nov 2026 19:16:43 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/agentlar/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Agentli AI'da tahlil sifatini oshirish muammosi</title>
+    <link>https://ailenta.uz/x/agentli-aida-tahlil-sifatini-oshirish-muammosi-ca1c10/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/agentli-aida-tahlil-sifatini-oshirish-muammosi-ca1c10/</guid>
+    <pubDate>Mon, 02 Nov 2026 17:00:00 GMT</pubDate>
+    <description>Generativ AI korxona tahlilini o'zgartirdi, agentli AI esa ish jarayonlarini avtomatlashtirishni va agent xulosalari asosida harakat qilishni va'da qilmoqda. Biroq, agentlar tomonidan yaratilayotgan xulosalar sifati hozircha muammo bo'lib qolmoqda.</description>
+    <category>agentlar</category><category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/agentli-aida-tahlil-sifatini-oshirish-muammosi-ca1c10.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/agentli-aida-tahlil-sifatini-oshirish-muammosi-ca1c10.jpg"/>
+  </item>
   <item>
     <title>AI agentlar kodlashda ko'p token ishlatmoqda</title>
     <link>https://ailenta.uz/x/ai-agentlar-kodlashda-kop-token-ishlatmoqda-13d2cc/</link>
@@ -296,16 +306,6 @@
     <category>biznes</category><category>agentlar</category>
     <media:content url="https://ailenta.uz/og/360-kompaniyasi-ai-operatsion-tizimini-amalda-qollamoqda-1827ea.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/360-kompaniyasi-ai-operatsion-tizimini-amalda-qollamoqda-1827ea.jpg"/>
-  </item>
-  <item>
-    <title>iFLYTEK Spark tibbiy modelini V3.7 versiyasiga yangiladi</title>
-    <link>https://ailenta.uz/x/iflytek-spark-tibbiy-modelini-v3-7-versiyasiga-yangiladi-2e617e/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/iflytek-spark-tibbiy-modelini-v3-7-versiyasiga-yangiladi-2e617e/</guid>
-    <pubDate>Sat, 24 Oct 2026 02:08:05 GMT</pubDate>
-    <description>iFLYTEK Healthcare o'zining Spark tibbiy modelini V3.7 versiyasiga yangiladi. Dastur nutq, tasvir va matnni birlashtiradi hamda MedBench 5.0 sinov to'plamida 99,6 ball to'pladi.</description>
-    <category>tibbiyot</category><category>agentlar</category>
-    <media:content url="https://ailenta.uz/og/iflytek-spark-tibbiy-modelini-v3-7-versiyasiga-yangiladi-2e617e.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/iflytek-spark-tibbiy-modelini-v3-7-versiyasiga-yangiladi-2e617e.jpg"/>
   </item>
 </channel>
 </rss>

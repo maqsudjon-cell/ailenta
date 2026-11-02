@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/tadqiqot/</link>
   <description>&quot;tadqiqot&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Mon, 02 Nov 2026 18:56:55 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 02 Nov 2026 19:16:43 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/tadqiqot/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Agentli AI'da tahlil sifatini oshirish muammosi</title>
+    <link>https://ailenta.uz/x/agentli-aida-tahlil-sifatini-oshirish-muammosi-ca1c10/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/agentli-aida-tahlil-sifatini-oshirish-muammosi-ca1c10/</guid>
+    <pubDate>Mon, 02 Nov 2026 17:00:00 GMT</pubDate>
+    <description>Generativ AI korxona tahlilini o'zgartirdi, agentli AI esa ish jarayonlarini avtomatlashtirishni va agent xulosalari asosida harakat qilishni va'da qilmoqda. Biroq, agentlar tomonidan yaratilayotgan xulosalar sifati hozircha muammo bo'lib qolmoqda.</description>
+    <category>agentlar</category><category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/agentli-aida-tahlil-sifatini-oshirish-muammosi-ca1c10.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/agentli-aida-tahlil-sifatini-oshirish-muammosi-ca1c10.jpg"/>
+  </item>
   <item>
     <title>Timlidning so'rovi LLM vazifa bahosini 20% ga o'zgartirdi</title>
     <link>https://ailenta.uz/x/timlidning-sorovi-llm-vazifa-bahosini-20-ga-ozgartirdi-3a6249/</link>
@@ -296,16 +306,6 @@
     <category>Nvidia</category><category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/ai-agentlari-yordamida-ozga-sayyoraliklar-izlanmoqda-691aeb.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/ai-agentlari-yordamida-ozga-sayyoraliklar-izlanmoqda-691aeb.jpg"/>
-  </item>
-  <item>
-    <title>Anthropic tajribasi tahlilchilar harakatini ko'rsatdi</title>
-    <link>https://ailenta.uz/x/anthropic-tajribasi-tahlilchilar-harakatini-korsatdi-e7e1cd/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/anthropic-tajribasi-tahlilchilar-harakatini-korsatdi-e7e1cd/</guid>
-    <pubDate>Fri, 30 Oct 2026 13:43:10 GMT</pubDate>
-    <description>Anthropic kompaniyasi yangi tajriba o'tkazdi. Unda tahlilchilar 86 foiz holatda tanga tashlash orqali tanlangan qarorga ergashgani aniqlandi.</description>
-    <category>Anthropic</category><category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/anthropic-tajribasi-tahlilchilar-harakatini-korsatdi-e7e1cd.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/anthropic-tajribasi-tahlilchilar-harakatini-korsatdi-e7e1cd.jpg"/>
   </item>
 </channel>
 </rss>
