@@ -1,5 +1,68 @@
 [
   {
+    "id": "b6749912446f",
+    "slug": "ai-kozoynaklari-retseptli-kozoynaklarni-almashtira-oladimi-b67499",
+    "title": "AI ko'zoynaklari retseptli ko'zoynaklarni almashtira oladimi",
+    "summary": "AI ko'zoynaklari retseptli ko'zoynaklar o'rnini bosa oladi. Biroq, ularni sotib olishdan oldin afzallik va kamchiliklarini o'rganish tavsiya etiladi.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-11-02T00:00:00.000Z",
+    "created": "2026-11-02T03:02:03.093Z",
+    "coverage": 1,
+    "source": {
+      "name": "Engadget",
+      "url": "https://engadget.com/2300320/ai-glasses-replace-prescription-should-they",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "7a06514023fd",
+    "slug": "llmlar-dasturiy-taminotga-ishonchni-pasaytirmoqda-7a0651",
+    "title": "LLM'lar dasturiy ta'minotga ishonchni pasaytirmoqda",
+    "summary": "Kyle Kingsburyning ta'kidlashicha, LLM'lar hujjatlar, dasturiy ta'minot va ularni ishlab chiqaruvchi tashkilotlarga bo'lgan ishonchni kamaytiradi. Bu yetuk tizim belgilarini soxtalashtirishni osonlashtiradi.",
+    "tags": [
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-11-01T16:49:04.000Z",
+    "created": "2026-11-02T03:02:03.093Z",
+    "coverage": 1,
+    "source": {
+      "name": "Simon Willison",
+      "url": "https://simonwillison.net/2026/Nov/1/kyle-kingsbury",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "d43bf15c3ab4",
+    "slug": "ai-tadqiqot-va-ishlanmalarning-26-foizini-boshqarmoqda-d43bf1",
+    "title": "AI tadqiqot va ishlanmalarning 26 foizini boshqarmoqda",
+    "summary": "Xabarlarga ko'ra, sun'iy intellekt tadqiqot va ishlanmalarning 26 foizini tashkil etmoqda. Bu AI'ning o'z-o'zini takomillashtirish tezligi xavotirli darajada ekanligini ko'rsatadi.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 4,
+    "score": 7,
+    "published": "2026-11-02T02:41:10.000Z",
+    "created": "2026-11-02T03:02:03.093Z",
+    "coverage": 1,
+    "source": {
+      "name": "news.sbs.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB2OW5tUWRwdHBqRzVxa1d3NXQyWC1zWVNhTy01ME5KZC1jSVk0dE9na0JTZHZTNUxGSlozQXlmb2RUM2hmUlFGMjN2OVJNaDRxVzMwc08zRVM4MktOOFFHRGVPdWtqNjg4Y05DMlF3",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "778b0730c5e8",
     "slug": "oq-uy-ai-sinov-doirasi-loyihasini-berishdan-bosh-tortdi-778b07",
     "title": "Oq uy AI sinov doirasi loyihasini berishdan bosh tortdi",
