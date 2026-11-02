@@ -1,5 +1,77 @@
 [
   {
+    "id": "624e23d0cdf0",
+    "slug": "mit-professorlari-pritzker-mukofotiga-loyiq-korildi-624e23",
+    "title": "MIT professorlari Pritzker mukofotiga loyiq ko'rildi",
+    "summary": "Regina Barzilay va Jim Collins AI yordamida antibiotik kashf etgani uchun Pritzker mukofotini qo'lga kiritdi. Ushbu yutuq sun'iy intellekt orqali dori vositalarini yaratishda muhim bosqich deb topildi.",
+    "tags": [
+      "tadqiqot",
+      "tibbiyot"
+    ],
+    "importance": 3,
+    "score": 18.8,
+    "published": "2026-11-02T05:35:00.000Z",
+    "created": "2026-11-02T18:01:37.451Z",
+    "coverage": 1,
+    "source": {
+      "name": "MIT News",
+      "url": "https://news.mit.edu/2026/regina-barzilay-jim-collins-win-pritzker-prize-ai-and-science-research-excellence-1102",
+      "title": "Regina Barzilay and Jim Collins win Pritzker Prize for AI and Science Research Excellence for work in AI-enabled antibiotic discovery",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "de3657a54534",
+    "slug": "microsoft-va-lumen-ai-tarmoqlarini-birgalikda-sotadi-de3657",
+    "title": "Microsoft va Lumen AI tarmoqlarini birgalikda sotadi",
+    "summary": "Microsoft va Lumen korporativ AI tarmoqlarini birgalikda sotish bo'yicha hamkorlikni kengaytirmoqda. Ular kompaniyalarga sun'iy intellektga tayyor tarmoq infratuzilmasini taklif etadi.",
+    "tags": [
+      "Microsoft",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 33,
+    "published": "2026-11-02T17:51:17.000Z",
+    "created": "2026-11-02T18:01:43.397Z",
+    "coverage": 1,
+    "source": {
+      "name": "Microsoft",
+      "url": "https://news.microsoft.com/source/2026/11/02/lumen-and-microsoft-expand-collaboration-to-co-sell-enterprise-ai-ready-networks",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "fb9ff410aee0",
+    "slug": "anthropic-yangilangan-s-1-hisobotini-taqdim-etdi-fb9ff4",
+    "title": "Anthropic yangilangan S-1 hisobotini taqdim etdi",
+    "summary": "Anthropic uchinchi chorakda 17 milliard dollar daromad olganini ma'lum qildi. Kompaniyaning hisoblash va infratuzilma bo'yicha majburiyatlari hamda ijara shartnomalari 895.4 milliard dollarga yetdi.",
+    "tags": [
+      "Anthropic",
+      "biznes"
+    ],
+    "importance": 4,
+    "score": 25,
+    "published": "2026-11-02T17:52:01.000Z",
+    "created": "2026-11-02T18:01:43.397Z",
+    "coverage": 2,
+    "source": {
+      "name": "CNBC",
+      "url": "https://cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "Techmeme",
+        "url": "https://techmeme.com/261102/p29"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
     "id": "88838224c9a0",
     "slug": "navoiyuran-va-marubeni-raqamlashtirishni-muhokama-qildi-888382",
     "title": "\"Navoiyuran\" va Marubeni raqamlashtirishni muhokama qildi",
