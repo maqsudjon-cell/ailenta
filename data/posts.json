@@ -1,5 +1,49 @@
 [
   {
+    "id": "720535ac5550",
+    "slug": "bir-hujayrali-omiks-tahlili-uchun-yangi-ai-modeli-yaratildi-720535",
+    "title": "Bir hujayrali omiks tahlili uchun yangi AI modeli yaratildi",
+    "summary": "Tadqiqotchilar bir hujayrali ko'p omiksli tahlil uchun oldindan o'qitilgan modelni ishlab chiqishdi. Yangi usul yuqori darajada o'zgaruvchan belgilarni tanlash cheklovlarini yengib o'tishga yordam beradi.",
+    "tags": [
+      "tadqiqot",
+      "tibbiyot"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-11-02T00:00:00.000Z",
+    "created": "2026-11-02T22:01:35.560Z",
+    "coverage": 1,
+    "source": {
+      "name": "Nature",
+      "url": "https://nature.com/articles/s41467-026-78933-8",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "45d05ccb9538",
+    "slug": "ai-gistologik-tasvirlardan-molekulyar-bashoratni-oshirdi-45d05c",
+    "title": "AI gistologik tasvirlardan molekulyar bashoratni oshirdi",
+    "summary": "Genomga asoslangan tayanch modelining vektor tasvirlari gistologik tasvirlardan molekulyar bashorat qilish aniqligini oshirdi. Ushbu yondashuv tibbiyotda molekulyar tahlillarni aniqroq o'tkazish imkonini beradi.",
+    "tags": [
+      "tadqiqot",
+      "tibbiyot"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-11-02T00:00:00.000Z",
+    "created": "2026-11-02T22:01:35.560Z",
+    "coverage": 1,
+    "source": {
+      "name": "Nature",
+      "url": "https://nature.com/articles/s41467-026-78947-2",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "37ade4d3ebf8",
     "slug": "san-fransiskoda-ai-soliq-va-kochmas-mulk-inqirozi-37ade4",
     "title": "San-Fransiskoda AI, soliq va ko'chmas mulk inqirozi",

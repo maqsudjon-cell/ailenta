@@ -5,7 +5,7 @@
   <link>https://ailenta.uz/mavzu/tadqiqot/</link>
   <description>&quot;tadqiqot&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Mon, 02 Nov 2026 21:47:27 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 02 Nov 2026 22:11:48 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/tadqiqot/rss.xml" rel="self" type="application/rss+xml"/>
   <item>
     <title>Agentli orqa eshiklar o'qitish orqali zaharlanishi</title>
@@ -116,6 +116,26 @@
     <category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/ai-yaratgan-vikilar-oyin-madaniyatini-buzmoqda-3200a2.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/ai-yaratgan-vikilar-oyin-madaniyatini-buzmoqda-3200a2.jpg"/>
+  </item>
+  <item>
+    <title>Bir hujayrali omiks tahlili uchun yangi AI modeli yaratildi</title>
+    <link>https://ailenta.uz/x/bir-hujayrali-omiks-tahlili-uchun-yangi-ai-modeli-yaratildi-720535/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/bir-hujayrali-omiks-tahlili-uchun-yangi-ai-modeli-yaratildi-720535/</guid>
+    <pubDate>Mon, 02 Nov 2026 00:00:00 GMT</pubDate>
+    <description>Tadqiqotchilar bir hujayrali ko'p omiksli tahlil uchun oldindan o'qitilgan modelni ishlab chiqishdi. Yangi usul yuqori darajada o'zgaruvchan belgilarni tanlash cheklovlarini yengib o'tishga yordam beradi.</description>
+    <category>tadqiqot</category><category>tibbiyot</category>
+    <media:content url="https://ailenta.uz/og/bir-hujayrali-omiks-tahlili-uchun-yangi-ai-modeli-yaratildi-720535.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/bir-hujayrali-omiks-tahlili-uchun-yangi-ai-modeli-yaratildi-720535.jpg"/>
+  </item>
+  <item>
+    <title>AI gistologik tasvirlardan molekulyar bashoratni oshirdi</title>
+    <link>https://ailenta.uz/x/ai-gistologik-tasvirlardan-molekulyar-bashoratni-oshirdi-45d05c/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/ai-gistologik-tasvirlardan-molekulyar-bashoratni-oshirdi-45d05c/</guid>
+    <pubDate>Mon, 02 Nov 2026 00:00:00 GMT</pubDate>
+    <description>Genomga asoslangan tayanch modelining vektor tasvirlari gistologik tasvirlardan molekulyar bashorat qilish aniqligini oshirdi. Ushbu yondashuv tibbiyotda molekulyar tahlillarni aniqroq o'tkazish imkonini beradi.</description>
+    <category>tadqiqot</category><category>tibbiyot</category>
+    <media:content url="https://ailenta.uz/og/ai-gistologik-tasvirlardan-molekulyar-bashoratni-oshirdi-45d05c.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/ai-gistologik-tasvirlardan-molekulyar-bashoratni-oshirdi-45d05c.jpg"/>
   </item>
   <item>
     <title>Proton zaryadini AI o'zgartirmadi</title>
@@ -286,26 +306,6 @@
     <category>tadqiqot</category><category>ochiq model</category>
     <media:content url="https://ailenta.uz/og/qwen-modeliga-nes-emulyatori-ornatildi-4e2c9c.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/qwen-modeliga-nes-emulyatori-ornatildi-4e2c9c.jpg"/>
-  </item>
-  <item>
-    <title>70 yillik urinishlarga qaramay, dasturchi o'rni muhim</title>
-    <link>https://ailenta.uz/x/70-yillik-urinishlarga-qaramay-dasturchi-orni-muhim-a077ea/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/70-yillik-urinishlarga-qaramay-dasturchi-orni-muhim-a077ea/</guid>
-    <pubDate>Fri, 30 Oct 2026 18:40:45 GMT</pubDate>
-    <description>COBOLdan AIgacha bo'lgan 70 yillik urinishlarga qaramay, dasturchilarsiz ishlash imkonsiz bo'lib qolmoqda. Yangi vositalar rutinga yordam bersa-da, tizimni boshqarish va muammolarni hal qilish inson zimmasida qoladi.</description>
-    <category>mehnat bozori</category><category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/70-yillik-urinishlarga-qaramay-dasturchi-orni-muhim-a077ea.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/70-yillik-urinishlarga-qaramay-dasturchi-orni-muhim-a077ea.jpg"/>
-  </item>
-  <item>
-    <title>PHP tilidagi xatolikni AI vositasi aniqladi</title>
-    <link>https://ailenta.uz/x/php-tilidagi-xatolikni-ai-vositasi-aniqladi-5b910c/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/php-tilidagi-xatolikni-ai-vositasi-aniqladi-5b910c/</guid>
-    <pubDate>Fri, 30 Oct 2026 17:10:09 GMT</pubDate>
-    <description>AI vositasi PHP dasturlash tilidagi uzoq vaqt davomida sezilmagan xatoliklarni topdi. Mutaxassislar bu kamchiliklar tuzatilishidan oldin oshkor qilinganini ta'kidlamoqda.</description>
-    <category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/php-tilidagi-xatolikni-ai-vositasi-aniqladi-5b910c.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/php-tilidagi-xatolikni-ai-vositasi-aniqladi-5b910c.jpg"/>
   </item>
 </channel>
 </rss>
