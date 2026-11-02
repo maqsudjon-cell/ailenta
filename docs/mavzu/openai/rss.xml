@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/openai/</link>
   <description>&quot;OpenAI&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Mon, 02 Nov 2026 08:08:44 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 02 Nov 2026 08:23:01 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/openai/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>AI platformalari o'rtasida umumiy kontekst yaratish usuli</title>
+    <link>https://ailenta.uz/x/ai-platformalari-ortasida-umumiy-kontekst-yaratish-usuli-a42358/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/ai-platformalari-ortasida-umumiy-kontekst-yaratish-usuli-a42358/</guid>
+    <pubDate>Mon, 02 Nov 2026 07:17:41 GMT</pubDate>
+    <description>Habr platformasida ChatGPT va Claude kabi AI xizmatlari o'rtasida loyiha kontekstini saqlash usuli taqdim etildi. Uning asosida GitHub va ochiq kodli AI Context Kit vositasi yotadi.</description>
+    <category>OpenAI</category><category>Anthropic</category>
+    <media:content url="https://ailenta.uz/og/ai-platformalari-ortasida-umumiy-kontekst-yaratish-usuli-a42358.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/ai-platformalari-ortasida-umumiy-kontekst-yaratish-usuli-a42358.jpg"/>
+  </item>
   <item>
     <title>Sam Altman operativ xotira haqida fikr bildirdi</title>
     <link>https://ailenta.uz/x/sam-altman-operativ-xotira-haqida-fikr-bildirdi-5a1dea/</link>
@@ -296,16 +306,6 @@
     <category>OpenAI</category><category>biznes</category>
     <media:content url="https://ailenta.uz/og/sullivan-cromwell-openai-bilan-ai-vositasi-yaratdi-dd00c0.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/sullivan-cromwell-openai-bilan-ai-vositasi-yaratdi-dd00c0.jpg"/>
-  </item>
-  <item>
-    <title>SentinelOne zararli dasturlar tahlilini tezlashtirdi</title>
-    <link>https://ailenta.uz/x/sentinelone-zararli-dasturlar-tahlilini-tezlashtirdi-24cc98/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/sentinelone-zararli-dasturlar-tahlilini-tezlashtirdi-24cc98/</guid>
-    <pubDate>Wed, 14 Oct 2026 12:00:00 GMT</pubDate>
-    <description>SentinelOne OpenAI Daybreak yordamida zararli dasturlarni tahlil qilish vaqtini haftalardan soatlarga qisqartirdi. Bu ko'proq tahdidlarni tekshirish imkoniyatini yaratdi.</description>
-    <category>OpenAI</category><category>xavfsizlik</category>
-    <media:content url="https://ailenta.uz/og/sentinelone-zararli-dasturlar-tahlilini-tezlashtirdi-24cc98.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/sentinelone-zararli-dasturlar-tahlilini-tezlashtirdi-24cc98.jpg"/>
   </item>
 </channel>
 </rss>

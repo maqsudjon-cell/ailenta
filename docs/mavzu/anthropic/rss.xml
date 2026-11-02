@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/anthropic/</link>
   <description>&quot;Anthropic&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Mon, 02 Nov 2026 08:08:44 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 02 Nov 2026 08:23:01 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/anthropic/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>AI platformalari o'rtasida umumiy kontekst yaratish usuli</title>
+    <link>https://ailenta.uz/x/ai-platformalari-ortasida-umumiy-kontekst-yaratish-usuli-a42358/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/ai-platformalari-ortasida-umumiy-kontekst-yaratish-usuli-a42358/</guid>
+    <pubDate>Mon, 02 Nov 2026 07:17:41 GMT</pubDate>
+    <description>Habr platformasida ChatGPT va Claude kabi AI xizmatlari o'rtasida loyiha kontekstini saqlash usuli taqdim etildi. Uning asosida GitHub va ochiq kodli AI Context Kit vositasi yotadi.</description>
+    <category>OpenAI</category><category>Anthropic</category>
+    <media:content url="https://ailenta.uz/og/ai-platformalari-ortasida-umumiy-kontekst-yaratish-usuli-a42358.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/ai-platformalari-ortasida-umumiy-kontekst-yaratish-usuli-a42358.jpg"/>
+  </item>
   <item>
     <title>Hugging Face'da Anthropic'ning ma'lumotlar sizishi</title>
     <link>https://ailenta.uz/x/hugging-faceda-anthropicning-malumotlar-sizishi-4f4263/</link>
@@ -296,16 +306,6 @@
     <category>Anthropic</category><category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/ai-boshqaruvidagi-tadqiqotga-nazorat-kerak-c07d95.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/ai-boshqaruvidagi-tadqiqotga-nazorat-kerak-c07d95.jpg"/>
-  </item>
-  <item>
-    <title>Anthropic tadqiqoti: AI ekspert hukmini buzishi mumkin</title>
-    <link>https://ailenta.uz/x/anthropic-tadqiqoti-ai-ekspert-hukmini-buzishi-mumkin-ef8c2b/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/anthropic-tadqiqoti-ai-ekspert-hukmini-buzishi-mumkin-ef8c2b/</guid>
-    <pubDate>Wed, 28 Oct 2026 22:00:50 GMT</pubDate>
-    <description>Anthropic kompaniyasi o'tkazgan tadqiqotga ko'ra, sun'iy intellekt ekspertlarning hukmini osongina buzishi mumkin. Bu AI xavfsizligi bo'yicha yangi xavotirlarni keltirib chiqaradi.</description>
-    <category>Anthropic</category><category>xavfsizlik</category>
-    <media:content url="https://ailenta.uz/og/anthropic-tadqiqoti-ai-ekspert-hukmini-buzishi-mumkin-ef8c2b.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/anthropic-tadqiqoti-ai-ekspert-hukmini-buzishi-mumkin-ef8c2b.jpg"/>
   </item>
 </channel>
 </rss>

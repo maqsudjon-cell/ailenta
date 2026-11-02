@@ -1,16 +1,16 @@
 [
   {
     "id": "14e5ebbed9e9",
-    "slug": "xitoyda-110-robot-raqs-guruhi-ginness-rekordini-ornatdi-14e5eb",
-    "title": "Xitoyda 110 robot raqs guruhi Ginness rekordini o'rnatdi",
-    "summary": "AGIBOT kompaniyasi Xitoyda 110 ta odamsimon robotdan iborat raqs guruhi bilan Ginness rekordini o'rnatdi. Robotlar bir vaqtda sinxron raqs ijro etib, harakatlar uyg'unligini saqlab qoldi.",
+    "slug": "xitoyda-110-ta-robot-raqs-tushib-rekord-ornatdi-14e5eb",
+    "title": "Xitoyda 110 ta robot raqs tushib rekord o'rnatdi",
+    "summary": "Xitoyning AGIBOT kompaniyasi yaratgan 110 ta odamsimon robot bir vaqtda sinxron raqs ijro etib, Ginness rekordini o'rnatdi. Robotlar sakrab va turli shakllarda saf tortib, harakatlar uyg'unligini saqlab qoldi.",
     "tags": [
       "robototexnika"
     ],
     "importance": 3,
     "score": 48,
     "published": "2026-11-02T07:50:52.000Z",
-    "created": "2026-11-02T07:58:36.228Z",
+    "created": "2026-11-02T08:10:15.875Z",
     "coverage": 1,
     "source": {
       "name": "Kun.uz",
@@ -21,22 +21,44 @@
     "model": "gemini"
   },
   {
-    "id": "4e4be9da8c01",
-    "slug": "sietl-va-toshkent-suniy-intellektda-hamkorlik-qiladi-4e4be9",
-    "title": "Sietl va Toshkent sun'iy intellektda hamkorlik qiladi",
-    "summary": "Vashingtonda O'zbekiston va AQSH o'rtasida sun'iy intellekt sohasidagi hamkorlikni rivojlantirishga bag'ishlangan forum bo'lib o'tdi. Uni Amerika–O'zbekiston biznes va investitsiya kengashi, IT Park Uzbekistan va Jahon raqamli texnologiyalar akademiyasi tashkil etdi.",
+    "id": "3b8a15cde8bf",
+    "slug": "fargonalik-migrantlar-oyiga-1-850-dollar-yubormoqda-3b8a15",
+    "title": "Farg'onalik migrantlar oyiga 1 850 dollar yubormoqda",
+    "summary": "Farg'onada xorijda ishlayotgan bir kishiga to'g'ri keladigan o'rtacha oylik pul o'tkazmasi 1 850 dollarni tashkil etmoqda. Qoraqalpog'iston va Toshkent viloyatida bu ko'rsatkich 400 dollarga ham yetmaydi. Prezident ushbu tafovut sabab tayyorgarlik ishlarini qayta ko'rish zarurligini aytdi.",
     "tags": [
-      "O'zbekiston",
-      "siyosat"
+      "mehnat bozori",
+      "O'zbekiston"
     ],
-    "importance": 4,
+    "importance": 3,
     "score": 48,
-    "published": "2026-11-02T06:35:57.000Z",
-    "created": "2026-11-02T07:58:36.228Z",
+    "published": "2026-11-02T06:50:22.000Z",
+    "created": "2026-11-02T08:10:15.876Z",
     "coverage": 1,
     "source": {
-      "name": "Daryo",
-      "url": "https://daryo.uz/2026/11/02/sietl-va-toshkent-suniy-intellekt-sohasida-hamkorlik-qiladi",
+      "name": "Kun.uz",
+      "url": "https://kun.uz/news/2026/11/02/fargonalik-migrantlar-uyiga-oyiga-ortacha-1-850-dollar-yubormoqda-58904",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "a42358adb96a",
+    "slug": "ai-platformalari-ortasida-umumiy-kontekst-yaratish-usuli-a42358",
+    "title": "AI platformalari o'rtasida umumiy kontekst yaratish usuli",
+    "summary": "Habr platformasida ChatGPT va Claude kabi AI xizmatlari o'rtasida loyiha kontekstini saqlash usuli taqdim etildi. Uning asosida GitHub va ochiq kodli AI Context Kit vositasi yotadi.",
+    "tags": [
+      "OpenAI",
+      "Anthropic"
+    ],
+    "importance": 2,
+    "score": 17,
+    "published": "2026-11-02T07:17:41.000Z",
+    "created": "2026-11-02T08:10:15.876Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1102508",
       "indirect": false
     },
     "also": [],
