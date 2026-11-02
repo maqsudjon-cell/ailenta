@@ -1,5 +1,227 @@
 [
   {
+    "id": "0c518b9561a4",
+    "slug": "ai-ipolarini-toxtatish-va-milliarderlarni-soliqqa-tortish-ch-0c518b",
+    "title": "AI IPO'larini to'xtatish va milliarderlarni soliqqa tortish chaqirig'i",
+    "summary": "Naomi Klein va Ilana Glazer AI kompaniyalarining IPO'larini to'xtatish hamda milliarderlarni soliqqa tortishga chaqirdi. Ular boylarning boyligi oshib borayotganini ta'kidlab, bu holat jamiyatga salbiy ta'sir ko'rsatishini aytdi.",
+    "tags": [
+      "siyosat",
+      "iqtisod"
+    ],
+    "importance": 4,
+    "score": 29,
+    "published": "2026-11-02T10:00:38.000Z",
+    "created": "2026-11-02T12:03:46.663Z",
+    "coverage": 2,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/commentisfree/2026/nov/02/ai-ipos-tax-billionaires",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "San Francisco Chronicle",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRGFHUXQydFNwOWVUSTRyVDBhWmdKdFJPdVhtUmpINFNYOERodU4tTEhZY2NfUzJ5LTV1VUk2SkJtdENkY3MzelNFYTVvdVAwVnZ2aTE2OEQ2QmVha0FUQm9GWDlOZ0pVRzJoNG9JVVdoUGpycWhCS05fZDFyckxGNncxMDhzSlMySUlKTUdKM3NHSm5HNVRObEkyUU5NVUox"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "3fb867eacf79",
+    "slug": "yuzlab-ai-ilovalarida-yashirin-deepfake-xususiyatlari-topild-3fb867",
+    "title": "Yuzlab AI ilovalarida yashirin deepfake xususiyatlari topildi",
+    "summary": "WIRED nashri 400 ga yaqin AI ilovasi va veb-saytida yashirin xususiyatlarni aniqladi. Ushbu vositalar foydalanuvchilarga zo'ravonlik mazmunidagi AI-generatsiya qilingan tasvirlar va videolarni yaratish imkonini bergan.",
+    "tags": [
+      "xavfsizlik",
+      "maxfiylik"
+    ],
+    "importance": 5,
+    "score": 23,
+    "published": "2026-11-02T10:00:00.000Z",
+    "created": "2026-11-02T12:03:46.664Z",
+    "coverage": 1,
+    "source": {
+      "name": "Wired",
+      "url": "https://wired.com/story/hundreds-of-mundane-ai-apps-are-hiding-abusive-deepfake-features",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "a25d5f10bd8e",
+    "slug": "tim-berners-leening-agentli-veb-goyasi-bugun-amalga-oshmoqda-a25d5f",
+    "title": "Tim Berners-Lee'ning agentli veb g'oyasi bugun amalga oshmoqda",
+    "summary": "Internet asoschisi Tim Berners-Lee 2001-yilda \"Semantik veb\" g'oyasini ilgari surgan edi. Bu avtonom dasturiy agentlar tomonidan boshqariladigan internetni nazarda tutgan bo'lib, hozirda bu konsepsiya amalga oshmoqda.",
+    "tags": [
+      "agentlar",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 23,
+    "published": "2026-11-02T09:35:19.000Z",
+    "created": "2026-11-02T12:03:46.664Z",
+    "coverage": 1,
+    "source": {
+      "name": "MIT Technology Review",
+      "url": "https://technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "4b795773d113",
+    "slug": "proton-zaryadini-ai-ozgartirmadi-4b7957",
+    "title": "Proton zaryadini AI o'zgartirmadi",
+    "summary": "Sarlavhada proton zaryadining o'zgarishi haqida xabar berilgan bo'lib, bu jarayonda sun'iy intellekt ishtirok etmagani ta'kidlanmoqda.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 1,
+    "score": 19.4,
+    "published": "2026-11-01T18:53:55.000Z",
+    "created": "2026-11-02T12:03:46.664Z",
+    "coverage": 1,
+    "source": {
+      "name": "Hacker News",
+      "url": "https://blog.raed.dev/posts/proton-loser-thinking",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "9798cd98bee2",
+    "slug": "alphabet-yevrobond-chiqardi-ai-qarz-bozorlarini-sinovdan-otk-9798cd",
+    "title": "Alphabet yevrobond chiqardi, AI qarz bozorlarini sinovdan o'tkazmoqda",
+    "summary": "Alphabet kompaniyasi yevrobond chiqardi. Bu harakat investorlarning qancha qarzni o'zlashtira olish chegaralariga yaqinlashayotganini sinovdan o'tkazmoqda.",
+    "tags": [
+      "Alphabet",
+      "iqtisod"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-11-02T11:59:05.000Z",
+    "created": "2026-11-02T12:03:46.664Z",
+    "coverage": 1,
+    "source": {
+      "name": "Semafor",
+      "url": "https://semafor.com/article/11/02/2026/alphabet-launches-second-euro-bond-sale",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "d78ed45682ab",
+    "slug": "matematika-ai-imperiyalarini-qanday-agdarishi-mumkin-d78ed4",
+    "title": "Matematika AI imperiyalarini qanday ag'darishi mumkin",
+    "summary": "Jahon AI bozori yopiq elit klubiga aylanmoqda, Microsoft, Google, Meta va Anthropic kabi kompaniyalar uni monopollashtirmoqda. Maqolada toza matematika bu gegemoniyani qanday buzishi mumkinligi muhokama qilinadi.",
+    "tags": [
+      "iqtisod",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 17,
+    "published": "2026-11-02T10:20:57.000Z",
+    "created": "2026-11-02T12:03:46.664Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1102656",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "3375345e6229",
+    "slug": "saudi-aramco-humain-ai-firmasidan-49-ulush-sotib-oldi-337534",
+    "title": "Saudi Aramco Humain AI firmasidan 49% ulush sotib oldi",
+    "summary": "Saudi Aramco Humain AI firmasining 49 foiz ulushini 2.6 milliard dollarga sotib oldi. Bu kelishuv Saudiya Arabistonini global AI markaziga aylantirishga qaratilgan.",
+    "tags": [
+      "biznes",
+      "iqtisod"
+    ],
+    "importance": 4,
+    "score": 15,
+    "published": "2026-11-02T11:47:14.000Z",
+    "created": "2026-11-02T12:03:46.664Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/saudi-aramco-takes-49-percent-stake-in-ai-firm-humain-with-2-6-billion-deal",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "23d5d9a4d8a9",
+    "slug": "aidan-himoyalanish-uchun-4-ta-maslahat-berildi-23d5d9",
+    "title": "AI'dan himoyalanish uchun 4 ta maslahat berildi",
+    "summary": "Wharton professori Ethan Mollickning ta'kidlashicha, AI kutilganidan ancha qobiliyatli. Uning fikricha, odamlar va ularning farzandlari AI'ga moslashish yo'llarini topishlari kerak.",
+    "tags": [
+      "mehnat bozori",
+      "ta'lim"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-11-02T11:00:01.000Z",
+    "created": "2026-11-02T12:03:46.664Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/ai-jobs-future-ethan-mollick-skill-interview-peter-kafka-2026-11",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "68e311f74bc0",
+    "slug": "50-ish-izlovchilar-ai-va-yoshga-qarshi-68e311",
+    "title": "50+ ish izlovchilar AI va yoshga qarshi",
+    "summary": "50 yoshdan oshgan uch nafar ish izlovchi yoshga oid kamsitishlar va AI sharoitida qanday qilib ish topganliklari haqida bo'lishdi. Ular tajriba va yangi imkoniyatlardan foydalanish muhimligini ta'kidladi.",
+    "tags": [
+      "mehnat bozori"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-11-02T10:13:01.000Z",
+    "created": "2026-11-02T12:03:46.664Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/strategies-helping-job-seekers-over-50-navigate-rejection-and-pivot2026-11",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "a4ea759e8854",
+    "slug": "xpeng-mona-l05-xitoyda-139-800-yuandan-sotuvga-chiqarildi-a4ea75",
+    "title": "XPENG MONA L05 Xitoyda 139 800 yuandan sotuvga chiqarildi",
+    "summary": "XPENG kompaniyasi MONA L05 SUV modelini Xitoyda 139 800 yuandan boshlab sotuvga chiqardi. U EV va kengaytirilgan masofali versiyalarda, 635 kmgacha masofa va VLA haydovchi yordami bilan taklif etiladi.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-11-02T10:12:10.000Z",
+    "created": "2026-11-02T12:03:46.664Z",
+    "coverage": 1,
+    "source": {
+      "name": "Pandaily",
+      "url": "https://pandaily.com/xpeng-mona-l05-launch-china-rmb-139800-ev-erev-oct2026",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "ccd31203a27d",
     "slug": "openai-va-anthropic-saylovlar-boyicha-guruhlar-tuzadi-ccd312",
     "title": "OpenAI va Anthropic saylovlar bo'yicha guruhlar tuzadi",

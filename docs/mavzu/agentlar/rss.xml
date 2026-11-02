@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/agentlar/</link>
   <description>&quot;agentlar&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Mon, 02 Nov 2026 11:07:46 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 02 Nov 2026 12:11:51 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/agentlar/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Tim Berners-Lee'ning agentli veb g'oyasi bugun amalga oshmoqda</title>
+    <link>https://ailenta.uz/x/tim-berners-leening-agentli-veb-goyasi-bugun-amalga-oshmoqda-a25d5f/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/tim-berners-leening-agentli-veb-goyasi-bugun-amalga-oshmoqda-a25d5f/</guid>
+    <pubDate>Mon, 02 Nov 2026 09:35:19 GMT</pubDate>
+    <description>Internet asoschisi Tim Berners-Lee 2001-yilda &quot;Semantik veb&quot; g'oyasini ilgari surgan edi. Bu avtonom dasturiy agentlar tomonidan boshqariladigan internetni nazarda tutgan bo'lib, hozirda bu konsepsiya amalga oshmoqda.</description>
+    <category>agentlar</category><category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/tim-berners-leening-agentli-veb-goyasi-bugun-amalga-oshmoqda-a25d5f.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/tim-berners-leening-agentli-veb-goyasi-bugun-amalga-oshmoqda-a25d5f.jpg"/>
+  </item>
   <item>
     <title>AI agentlar xotiradan qanday foydalanishi o'rganildi</title>
     <link>https://ailenta.uz/x/ai-agentlar-xotiradan-qanday-foydalanishi-organildi-a7f6b6/</link>
@@ -296,16 +306,6 @@
     <category>xavfsizlik</category><category>agentlar</category>
     <media:content url="https://ailenta.uz/og/yangi-ai-qurtlari-aqlli-uy-qurilmalariga-tahdid-1e6087.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/yangi-ai-qurtlari-aqlli-uy-qurilmalariga-tahdid-1e6087.jpg"/>
-  </item>
-  <item>
-    <title>AI loyihada kontekstni yo'qotmasligi uchun yechimlar</title>
-    <link>https://ailenta.uz/x/ai-loyihada-kontekstni-yoqotmasligi-uchun-yechimlar-6bc8e1/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/ai-loyihada-kontekstni-yoqotmasligi-uchun-yechimlar-6bc8e1/</guid>
-    <pubDate>Fri, 23 Oct 2026 11:41:53 GMT</pubDate>
-    <description>Uzoq muddatli loyihalarda AI kontekstni yo‘qotishi, eskirgan ma'lumotlarga tayanib, avvalgi kelishuvlarga zid harakat qilishi mumkin. Maqolada ChatGPT Projects, ko‘rsatmalar va hujjatlar orqali loyiha kontekstini boshqarish yo‘llari muhokama qilingan.</description>
-    <category>tadqiqot</category><category>agentlar</category>
-    <media:content url="https://ailenta.uz/og/ai-loyihada-kontekstni-yoqotmasligi-uchun-yechimlar-6bc8e1.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/ai-loyihada-kontekstni-yoqotmasligi-uchun-yechimlar-6bc8e1.jpg"/>
   </item>
 </channel>
 </rss>
