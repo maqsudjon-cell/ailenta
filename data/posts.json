@@ -1,5 +1,47 @@
 [
   {
+    "id": "7188b9d1d891",
+    "slug": "ukraina-va-rossiyada-ogohlantirish-ilovalari-buzildi-7188b9",
+    "title": "Ukraina va Rossiyada ogohlantirish ilovalari buzildi",
+    "summary": "Ukraina hamda Rossiyada aholini xavfdan ogohlantiruvchi mobil ilovalar kiberhujumga uchradi. Foydalanuvchilarga radiatsiya, kimyoviy xavf va yadroviy zarbalar haqida soxta xabarlar yuborilgan.",
+    "tags": [
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 45,
+    "published": "2026-11-02T04:35:00.000Z",
+    "created": "2026-11-02T05:01:45.154Z",
+    "coverage": 1,
+    "source": {
+      "name": "Daryo",
+      "url": "https://daryo.uz/2026/11/02/hakerlar-ukraina-va-rossiyadagi-favqulodda-ogohlantirish-ilovalariga-buzib-kirdi",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "59704ddc8a95",
+    "slug": "hindiston-ai-boyicha-yangi-rejani-taklif-etdi-59704d",
+    "title": "Hindiston AI bo'yicha yangi rejani taklif etdi",
+    "summary": "Hindiston mahalliy sun'iy intellektni rivojlantirish uchun yangi rejani taklif qildi. Unda yirik texnologiya kompaniyalariga barcha ma'lumotlarni ochiq bermaslik va modelni ma'lumotlar tomon yo'naltirish ko'zda tutilgan.",
+    "tags": [
+      "siyosat"
+    ],
+    "importance": 3,
+    "score": 22,
+    "published": "2026-11-02T04:39:50.000Z",
+    "created": "2026-11-02T05:01:45.154Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/public-sector/2026/11/02/india-floats-ai-plan-under-which-the-model-travels-to-the-data-rather-than-the-data-travelling-to-the-model/5306872",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "1ec2b6f8ce72",
     "slug": "anthropic-aisi-sichqon-miyasida-jarrohlik-otkazdi-1ec2b6",
     "title": "Anthropic AI'si sichqon miyasida jarrohlik o'tkazdi",
