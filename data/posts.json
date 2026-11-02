@@ -1,5 +1,71 @@
 [
   {
+    "id": "37ade4d3ebf8",
+    "slug": "san-fransiskoda-ai-soliq-va-kochmas-mulk-inqirozi-37ade4",
+    "title": "San-Fransiskoda AI, soliq va ko'chmas mulk inqirozi",
+    "summary": "San-Fransiskoda AI, soliqlar va ko'chmas mulk muammolari BART transport tizimidagi inqirozga sabab bo'lmoqda. Bu omillar shaharning iqtisodiy holatiga ta'sir ko'rsatmoqda.",
+    "tags": [
+      "siyosat",
+      "iqtisod"
+    ],
+    "importance": 2,
+    "score": 27,
+    "published": "2026-11-02T13:54:03.000Z",
+    "created": "2026-11-02T21:41:15.790Z",
+    "coverage": 1,
+    "source": {
+      "name": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbFh1MlIwUTZxbDZfc25qelFVX2tMb25QUFJCR3RQQjVmelB2TDl5MmFpMjA3dlg3TnRVUXlIaHJLM0RPOGZza01pQ0RCNl9NYmN5VHowcWJUVlNpSjZDMmdOZnVPaUJDcEZXQ3M3UFdXR29VeXR6aTVvVHlCRUZQNlhQOV9hdHBCanNzZXpjakZBSGdJNmNNNWNJODRYWlZ4ZmFLRV91YWhzRnc2VGxTZVZlb2NOVmJQX2JzZjdDWGM",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "a750601d7fd9",
+    "slug": "ai-yuridik-tizimlardagi-boshliqlarni-topishi-mumkin-a75060",
+    "title": "AI yuridik tizimlardagi bo'shliqlarni topishi mumkin",
+    "summary": "Sun'iy intellekt qonunchilikdagi yashirin bo'shliqlarni aniqlab, yuridik tizimlarni buzishi mumkin. Bu qonun hujjatlarida ham \"xatolar\" bo'lishi mumkinligini ko'rsatadi.",
+    "tags": [
+      "sud",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-11-02T21:12:21.000Z",
+    "created": "2026-11-02T21:41:15.791Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/ai-and-ml/2026/11/02/ai-could-break-legal-systems-by-finding-previously-hidden-loopholes/5307066",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "1af0c7f5eece",
+    "slug": "saudiya-arabistoni-ai-ambitsiyalari-uchun-aramcoga-murojaat--1af0c7",
+    "title": "Saudiya Arabistoni AI ambitsiyalari uchun Aramcoga murojaat qildi",
+    "summary": "Saudiya Arabistoni o'zining AI sohasidagi ambitsiyalarini kuchaytirish uchun Aramco kompaniyasidan foydalanmoqda. Neft giganti Davlat investitsiya fondiga tegishli HUMAIN AI firmasining 49% ulushini sotib oldi.",
+    "tags": [
+      "siyosat",
+      "biznes"
+    ],
+    "importance": 4,
+    "score": 19,
+    "published": "2026-11-02T13:42:16.000Z",
+    "created": "2026-11-02T21:41:15.791Z",
+    "coverage": 1,
+    "source": {
+      "name": "Semafor",
+      "url": "https://semafor.com/article/11/02/2026/saudi-turns-to-aramco-to-fuel-ai-ambitions",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "4ae8548065a0",
     "slug": "oracle-20-milliard-dollarlik-qarz-limitini-toldirdi-4ae854",
     "title": "Oracle 20 milliard dollarlik qarz limitini to'ldirdi",
