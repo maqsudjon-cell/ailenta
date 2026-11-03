@@ -1,5 +1,54 @@
 [
   {
+    "id": "b94f3c12e719",
+    "slug": "ai-qurolli-zararli-dasturlar-buyuk-britaniya-infratuzilmasig-b94f3c",
+    "title": "AI qurolli zararli dasturlar Buyuk Britaniya infratuzilmasiga tahdid",
+    "summary": "Buyuk Britaniya Milliy kiberxavfsizlik markazi (NCSC) 2028 yilgacha AI qurolli zararli dasturlar muhim infratuzilmalarga hujum qilishini kutmoqda. Bu elektr stansiyalari, aeroportlar va shifoxonalarga qaratilgan bo'lishi mumkin.",
+    "tags": [
+      "xavfsizlik",
+      "siyosat"
+    ],
+    "importance": 4,
+    "score": 23,
+    "published": "2026-11-03T00:01:32.000Z",
+    "created": "2026-11-03T00:39:54.918Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/technology/2026/nov/03/ai-powered-malware-artificial-intelligence-hacking-critical-uk-infrastructure",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "77e6ff0dd912",
+    "slug": "siyosiy-ai-chatbotlar-saylovchilarni-chalgitishi-mumkin-77e6ff",
+    "title": "Siyosiy AI chatbotlar saylovchilarni chalg'itishi mumkin",
+    "summary": "Sun'iy intellektga asoslangan chatbotlar siyosiy maslahatchi sifatida foydalanilmoqda. Ularning javoblari saylovchilarni noto'g'ri yo'lga boshlashi mumkinligi haqida ogohlantirilmoqda.",
+    "tags": [
+      "siyosat",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 13,
+    "published": "2026-11-02T20:02:41.000Z",
+    "created": "2026-11-03T00:39:54.919Z",
+    "coverage": 2,
+    "source": {
+      "name": "NPR",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZ3BHS185cFY1Q0Z5eEIxekY1Mm5aNFYzWjgwSTNJbGpkcm1zU0pSOXdBanc1UEtIRERCdngwNHRaanNmVm9lYl9VMkhtY1kxWGFNdVZtRkNYVkVWWHN5ektNenp5UUlQX3VaSEpkekNzemZZc29YcG1PeFRiVUZxajVR",
+      "indirect": true
+    },
+    "also": [
+      {
+        "name": "WXXI News",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbFhEbkExZkN1Q1lGVFVSZWVCVVA4X3hmazdacjRfR1M2MlpCX2JPLWRmZXk2d0JMdE05aUNDSGhqZF9XVTRfTmd6OFF0QXV2S043anBETXc1SUFBSGdNeHZWZlgtWjNHUkpUZFlrLWRnUkYxWWtlU0JaNl94NHo0SnZvcHpYYTAwbmphSUFoZzNXUmVKUDFtYURaX0lkQk9lZDI4cHpNWlhPZTBRLUF5Q2JIY2RLYTA5anVZTjRB"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
     "id": "6df942a733f7",
     "slug": "anthropic-s-1-hisobotida-rsi-chegarasiga-yaqinligini-aytdi-6df942",
     "title": "Anthropic S-1 hisobotida RSI chegarasiga yaqinligini aytdi",
