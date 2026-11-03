@@ -3,7 +3,7 @@
     "id": "39622f81d039",
     "slug": "buxoro-neft-zavodida-328-mln-dollarlik-modernizatsiya-39622f",
     "title": "Buxoro neft zavodida 328 mln dollarlik modernizatsiya",
-    "summary": "Buxoro neftni qayta ishlash zavodida 328 million dollarlik modernizatsiya loyihasi amalga oshiriladi. Natijada zavodning yillik quvvati 5 million tonnaga yetkazilib, Yevro-5 standartidagi benzin ishlab chiqarish ko‘payadi.",
+    "summary": "Buxoro neftni qayta ishlash zavodida 328 million dollarlik modernizatsiya loyihasi amalga oshiriladi. Bu loyiha zavodning yillik qayta ishlash quvvatini 5 million tonnaga yetkazadi hamda Yevro-5 standartidagi benzin ishlab chiqarishni oshiradi.",
     "tags": [
       "O'zbekiston",
       "biznes"
@@ -11,7 +11,7 @@
     "importance": 3,
     "score": 48,
     "published": "2026-11-03T15:48:40.000Z",
-    "created": "2026-11-03T18:00:02.307Z",
+    "created": "2026-11-03T18:19:24.683Z",
     "coverage": 1,
     "source": {
       "name": "Daryo",
@@ -22,10 +22,32 @@
     "model": "gemini"
   },
   {
+    "id": "16628ca5fba9",
+    "slug": "guardian-ai-va-pishiriqlar-boyicha-fikr-soradi-16628c",
+    "title": "Guardian AI va pishiriqlar bo'yicha fikr so'radi",
+    "summary": "The Guardian nashri o'quvchilardan pishiriqlar tayyorlashda sun'iy intellektdan ilhom manbai sifatida foydalanish tajribalari haqida so'radi. Ular AI vositalari, masalan, Claude va ChatGPT, qanday natijalarga olib kelganini bilishni istaydi.",
+    "tags": [
+      "tadqiqot",
+      "biznes"
+    ],
+    "importance": 1,
+    "score": 29,
+    "published": "2026-11-03T16:42:27.000Z",
+    "created": "2026-11-03T18:19:24.683Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/food/2026/nov/03/bakers-and-cake-lovers-have-you-used-ai-for-inspiration",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "8144ec6c5483",
-    "slug": "drax-zavodi-yonida-ai-datacentre-quriladi-8144ec",
-    "title": "Drax zavodi yonida AI datacentre quriladi",
-    "summary": "Buyuk Britaniyaning Drax elektr stansiyasi hududida mamlakatdagi eng yirik AI datacentre qurilishi rejalashtirilmoqda. Bu bo‘yicha 20 milliard funt sterlinglik kelishuv imzolangan bo‘lib, u 2028-yil boshida ishga tushishi mumkin.",
+    "slug": "drax-zavodi-hududida-20-mlrd-funtlik-ai-datacentr-quriladi-8144ec",
+    "title": "Drax zavodi hududida 20 mlrd funtlik AI datacentr quriladi",
+    "summary": "Buyuk Britaniyaning Drax elektr stansiyasi hududida 20 milliard funt sterlinglik AI datacentr qurilishi rejalashtirilmoqda. Bu mamlakatdagi eng yirik datacentr bo'lib, 2028-yil boshida ishga tushishi mumkin.",
     "tags": [
       "biznes",
       "bulut"
@@ -33,7 +55,7 @@
     "importance": 4,
     "score": 23,
     "published": "2026-11-03T11:55:28.000Z",
-    "created": "2026-11-03T18:00:02.307Z",
+    "created": "2026-11-03T18:19:24.683Z",
     "coverage": 1,
     "source": {
       "name": "The Guardian",
@@ -45,9 +67,9 @@
   },
   {
     "id": "5a615c5aa38f",
-    "slug": "ai-yaratgan-siyosiy-reklamalar-internet-platformalarini-ogoh-5a615c",
-    "title": "AI yaratgan siyosiy reklamalar internet platformalarini ogohlantirdi",
-    "summary": "Sun'iy intellekt tomonidan yaratilgan siyosiy reklamalar internet platformalarini ogohlantirmoqda. O‘tgan oraliq saylovlarda AI yaratgan siyosiy reklamalarga rekord darajada mablag‘ sarflangan.",
+    "slug": "ai-yaratgan-siyosiy-reklamalar-platformalarni-ogohlantirdi-5a615c",
+    "title": "AI yaratgan siyosiy reklamalar platformalarni ogohlantirdi",
+    "summary": "Sun'iy intellekt tomonidan yaratilgan siyosiy reklamalar internet platformalarini ogohlantirish holatiga keltirdi. O'rta muddatli saylovlarda AI yaratgan siyosiy reklama uchun rekord darajada mablag' sarflangani aytildi.",
     "tags": [
       "siyosat",
       "xavfsizlik"
@@ -55,7 +77,7 @@
     "importance": 3,
     "score": 19,
     "published": "2026-11-03T17:37:31.000Z",
-    "created": "2026-11-03T18:00:02.307Z",
+    "created": "2026-11-03T18:19:24.683Z",
     "coverage": 1,
     "source": {
       "name": "CNBC",
@@ -66,22 +88,21 @@
     "model": "gemini"
   },
   {
-    "id": "80e072cc91ba",
-    "slug": "sensetime-ofis-va-dizayn-uchun-sensenova-6-8-flashni-ishga-t-80e072",
-    "title": "SenseTime ofis va dizayn uchun SenseNova 6.8 Flash'ni ishga tushirdi",
-    "summary": "SenseTime 2-noyabr kuni SenseNova 6.8 Flash modelini taqdim etdi. U ofis va dizayn ishlari uchun multimodal agent imkoniyatlarini kengaytirib, 3D yaratish va taqdimotlarni qo‘llab-quvvatlaydi.",
+    "id": "d47fc09b5606",
+    "slug": "asteroidni-burish-modeli-tezroq-ishlaydi-xavflarni-oshirdi-d47fc0",
+    "title": "Asteroidni burish modeli tezroq ishlaydi, xavflarni oshirdi",
+    "summary": "Yangilangan asteroidni burish modeli tezroq ishlaydi va ko'proq xavflarni aniqladi. Sandia fizigi Nathan Moore nishonning qanchalik muhimligi kutilmaganini ta'kidladi.",
     "tags": [
-      "tadqiqot",
-      "agentlar"
+      "tadqiqot"
     ],
-    "importance": 3,
-    "score": 17.7,
-    "published": "2026-11-03T05:15:18.000Z",
-    "created": "2026-11-03T18:00:02.307Z",
+    "importance": 2,
+    "score": 19,
+    "published": "2026-11-03T17:36:36.000Z",
+    "created": "2026-11-03T18:19:24.683Z",
     "coverage": 1,
     "source": {
-      "name": "TechNode",
-      "url": "https://technode.com/2026/11/03/sensetime-launches-sensenova-6-8-flash-for-office-and-design-workflows",
+      "name": "The Register",
+      "url": "https://theregister.com/science/2026/11/03/improved-asteroid-deflection-model-runs-faster-reveals-more-doomsday-worries/5307317",
       "indirect": false
     },
     "also": [],
