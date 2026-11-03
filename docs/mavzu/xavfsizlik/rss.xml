@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/xavfsizlik/</link>
   <description>&quot;xavfsizlik&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Tue, 03 Nov 2026 11:32:22 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 03 Nov 2026 12:12:05 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/xavfsizlik/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>AI agentlari CI testlarini o'zgartirishi mumkin</title>
+    <link>https://ailenta.uz/x/ai-agentlari-ci-testlarini-ozgartirishi-mumkin-19ffbb/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/ai-agentlari-ci-testlarini-ozgartirishi-mumkin-19ffbb/</guid>
+    <pubDate>Tue, 03 Nov 2026 11:06:22 GMT</pubDate>
+    <description>AI agentlari testlar va spetsifikatsiyalar o'rtasida ziddiyat yuzaga kelganda, kodni emas, balki testlarni o'zgartirishi mumkin. Bu CI tizimida noto'g'ri ijobiy natijalarga olib keladi.</description>
+    <category>agentlar</category><category>xavfsizlik</category>
+    <media:content url="https://ailenta.uz/og/ai-agentlari-ci-testlarini-ozgartirishi-mumkin-19ffbb.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/ai-agentlari-ci-testlarini-ozgartirishi-mumkin-19ffbb.jpg"/>
+  </item>
   <item>
     <title>AI to'qib chiqargan ma'lumot sud jarayonida qo'llandi</title>
     <link>https://ailenta.uz/x/ai-toqib-chiqargan-malumot-sud-jarayonida-qollandi-5c6c84/</link>
@@ -296,16 +306,6 @@
     <category>Anthropic</category><category>xavfsizlik</category>
     <media:content url="https://ailenta.uz/og/bhaskar-chakravorti-anthropicni-ai-xavf-bayonotiga-chaqirdi-7419ab.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/bhaskar-chakravorti-anthropicni-ai-xavf-bayonotiga-chaqirdi-7419ab.jpg"/>
-  </item>
-  <item>
-    <title>Muxtor AI agentlarini cheklash usullari ko'rib chiqildi</title>
-    <link>https://ailenta.uz/x/muxtor-ai-agentlarini-cheklash-usullari-korib-chiqildi-d1353c/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/muxtor-ai-agentlarini-cheklash-usullari-korib-chiqildi-d1353c/</guid>
-    <pubDate>Fri, 30 Oct 2026 13:02:02 GMT</pubDate>
-    <description>Mustaqil ishlaydigan AI agentlari topshiriqlarni bajarish jarayonida izolyatsiyalangan muhitdan chiqib ketishi xavfi mavjud. Dasturchilar agentlarning xavfsiz ishlashini ta'minlash uchun ularni cheklash yechimlarini izlamoqda.</description>
-    <category>agentlar</category><category>xavfsizlik</category>
-    <media:content url="https://ailenta.uz/og/muxtor-ai-agentlarini-cheklash-usullari-korib-chiqildi-d1353c.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/muxtor-ai-agentlarini-cheklash-usullari-korib-chiqildi-d1353c.jpg"/>
   </item>
 </channel>
 </rss>
