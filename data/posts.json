@@ -1,5 +1,186 @@
 [
   {
+    "id": "83dd1055a8c2",
+    "slug": "world-of-warcraft-forever-ai-bilan-tolib-ketdi-83dd10",
+    "title": "World of Warcraft: Forever AI bilan to'lib ketdi",
+    "summary": "World of Warcraft: Forever o'yini sun'iy intellekt tomonidan yaratilgan kontent bilan to'lib ketmoqda. Bu muammo Warcraft Logs API'ni o'zgartirishga va dasturchilarning ishini o'g'irlashga olib kelmoqda.",
+    "tags": [
+      "biznes",
+      "xavfsizlik"
+    ],
+    "importance": 2,
+    "score": 19,
+    "published": "2026-11-03T14:00:00.000Z",
+    "created": "2026-11-03T15:39:48.922Z",
+    "coverage": 1,
+    "source": {
+      "name": "404 Media",
+      "url": "https://404media.co/world-of-warcraft-forever-is-already-overrun-with-ai-slop",
+      "title": "World of Warcraft: Forever Is Already Overrun with AI Slop",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "f58abcca3916",
+    "slug": "toshkentda-qozoq-bolalar-ishi-tergov-boshlandi-f58abc",
+    "title": "Toshkentda qozoq bolalar ishi: tergov boshlandi",
+    "summary": "Toshkentda futbol turniriga kelgan 20 nafar qozoq bola va ularga hamrohlik qilgan shaxslar shifoxonaga yotqizildi. Holat yuzasidan jinoyat ishi qo'zg'atildi.",
+    "tags": [
+      "O'zbekiston"
+    ],
+    "importance": 3,
+    "score": 44,
+    "published": "2026-11-03T12:45:00.000Z",
+    "created": "2026-11-03T15:40:17.962Z",
+    "coverage": 1,
+    "source": {
+      "name": "UzDaily",
+      "url": "https://uzdaily.uz/uz/to%C5%9Fkentda-qozo%C4%9Fistonliklar-%C5%9Fifoxonaga-yotqizilgani-b%C3%B6yi%C3%A7a-i%C5%9F-q%C3%B6z%C4%9Fatildi",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "2179e65d5ada",
+    "slug": "mit-ozbekiston-va-markaziy-osiyoning-aiga-tayyorligini-bahol-2179e6",
+    "title": "MIT O'zbekiston va Markaziy Osiyoning AIga tayyorligini baholadi",
+    "summary": "MIT tadqiqoti O'zbekiston va Markaziy Osiyoning sun'iy intellektni rivojlantirishga tayyorligini o'rgandi. Hisobotda infratuzilma, ilmiy nashrlar va startaplar tahlil qilingan.",
+    "tags": [
+      "O'zbekiston",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 41,
+    "published": "2026-11-03T14:55:00.000Z",
+    "created": "2026-11-03T15:40:17.962Z",
+    "coverage": 1,
+    "source": {
+      "name": "UzDaily",
+      "url": "https://uzdaily.uz/uz/mit-tadqiqoti-%C3%B6zbekiston-va-markaziy-osiyoning-suniy-intellektni-rivojlantiri%C5%9Fga-tayyorligini-baholadi",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "53c6adc7891f",
+    "slug": "pok-mon-sinovi-ai-uchun-eng-yaxshi-javascript-freymvorklarin-53c6ad",
+    "title": "Pokémon sinovi AI uchun eng yaxshi JavaScript freymvorklarini aniqladi",
+    "summary": "O'tkazilgan sinovlar sun'iy intellekt uchun eng samarali JavaScript freymvorklarini aniqladi. Claude modeliga ko'ra, React kabi murakkab vositalardan ko'ra, HTMLga asoslangan yengil vositalar afzalroq.",
+    "tags": [
+      "Anthropic",
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 28,
+    "published": "2026-11-03T14:51:35.000Z",
+    "created": "2026-11-03T15:40:17.962Z",
+    "coverage": 2,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/devops/2026/11/03/pokemon-bakeoff-reveals-best-javascript-frameworks-for-ai/5307249",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "The Register",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQM1AxWldEcnJYSWV2RENtVFdGRGlmaFh3UW5oUXFGODVHVXkwSW11NlF2dnN6dDBxSFNxVnBoY1VmU0MyTm5nV2kyeG1STlMxdFR1V19oU2pUY0p5ZHAtdFFoM3NHcjdsTkFLODBtVUdFYzRPamcwZVNzVjZwV3NJcHY4bzlCcnpDdnJLclpDdzZWQWEwRmdlejZPYWFCd2VOakp3NlRhLVNncmdtay04ZA"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "aca6994d7627",
+    "slug": "keniya-startapi-kichik-biznes-uchun-aini-qayta-korib-chiqmoq-aca699",
+    "title": "Keniya startapi kichik biznes uchun AI'ni qayta ko'rib chiqmoqda",
+    "summary": "Keniya startapi kichik bizneslar uchun sun'iy intellektni moslashtirish ustida ishlamoqda. Mutembei Kariuki Afrikada AI'ni joriy etishdagi internet, hisoblash resurslari va ma'lumotlar sifatidagi to'siqlarni ta'kidladi.",
+    "tags": [
+      "biznes",
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 28,
+    "published": "2026-11-03T14:30:02.000Z",
+    "created": "2026-11-03T15:40:17.962Z",
+    "coverage": 1,
+    "source": {
+      "name": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/ai-small-business-mobile-money-startup",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "f6d1eacfb839",
+    "slug": "demokratlar-ai-rivoji-fonida-texnologiyaga-qarshi-reklamalar-f6d1ea",
+    "title": "Demokratlar AI rivoji fonida texnologiyaga qarshi reklamalarni ko'paytirdi",
+    "summary": "Yangi tahlilga ko'ra, demokrat nomzodlar 130 dan ortiq federal va gubernatorlik saylovlarida texnologiyaga yoki ma'lumot markazlariga qarshi reklamalar joylashtirgan. Bu AI sohasidagi tezkor o'sish davrida kuzatilmoqda.",
+    "tags": [
+      "siyosat",
+      "iqtisod"
+    ],
+    "importance": 3,
+    "score": 22,
+    "published": "2026-11-03T14:54:08.000Z",
+    "created": "2026-11-03T15:40:17.962Z",
+    "coverage": 1,
+    "source": {
+      "name": "Semafor",
+      "url": "https://semafor.com/article/11/03/2026/democrats-run-more-anti-tech-ads-amid-ai-boom",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "2f77ded22f8d",
+    "slug": "universitetlar-ai-bilan-aisiz-oqishni-baholashi-kerak-2f77de",
+    "title": "Universitetlar AI bilan/AIsiz o'qishni baholashi kerak",
+    "summary": "Nature nashri universitetlarni sun'iy intellekt yordamida va yordamisiz o'rganish jarayonini baholashga chaqirdi. Bu AI davrida ta'lim sifatini ta'minlash uchun muhim hisoblanadi.",
+    "tags": [
+      "ta'lim",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 21.6,
+    "published": "2026-11-03T00:00:00.000Z",
+    "created": "2026-11-03T15:40:17.962Z",
+    "coverage": 1,
+    "source": {
+      "name": "Nature",
+      "url": "https://nature.com/articles/d41586-026-03559-1",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "69e182cc9830",
+    "slug": "adipec-urush-muammo-ai-esa-imkoniyat-69e182",
+    "title": "ADIPEC: Urush muammo, AI esa imkoniyat",
+    "summary": "Abu Dabidagi ADIPEC energetika tadbirida urush asosiy muammo sifatida ko'rildi. Shu bilan birga, sun'iy intellekt energetika sohasida katta imkoniyatlar yaratayotgani ta'kidlandi.",
+    "tags": [
+      "iqtisod",
+      "siyosat"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-11-03T13:23:14.000Z",
+    "created": "2026-11-03T15:40:17.962Z",
+    "coverage": 1,
+    "source": {
+      "name": "Semafor",
+      "url": "https://semafor.com/article/11/03/2026/at-adipec-war-is-the-challenge-and-ai-the-opportunity",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "09dd580ac1a6",
     "slug": "ai-yoshlarni-ishga-olishni-toxtatishda-qollanilmoqda-09dd58",
     "title": "AI yoshlarni ishga olishni to'xtatishda qo'llanilmoqda",
