@@ -1,5 +1,49 @@
 [
   {
+    "id": "7ad98d8fb978",
+    "slug": "palantir-rekord-darajadagi-daromad-osishini-qayd-etdi-7ad98d",
+    "title": "Palantir rekord darajadagi daromad o'sishini qayd etdi",
+    "summary": "Palantir Technologies kompaniyasi 2.3 milliard dollar daromad bilan 96% o'sish sur'atini ko'rsatdi. Biroq, boshqa texnologiya aksiyalaridagi AI sotuvi fonida Palantir aksiyalari 1.5% o'sgandan so'ng tushib ketdi.",
+    "tags": [
+      "biznes",
+      "iqtisod"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-11-02T21:47:03.000Z",
+    "created": "2026-11-03T01:01:58.985Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/11/02/palantir-q3-results-stock-ai-trade-selloff",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "1f8e5bbdaa58",
+    "slug": "ai-model-ogirliklariga-risc-v-cpu-ornatildi-doom-ishga-tushi-1f8e5b",
+    "title": "AI model og'irliklariga RISC-V CPU o'rnatildi, DOOM ishga tushirildi",
+    "summary": "Sun'iy intellekt modelining og'irliklariga 32-bitli RISC-V CPU to'g'ridan-to'g'ri kompilyatsiya qilindi. Natijada, ushbu modelda DOOM o'yini muvaffaqiyatli ishga tushirildi.",
+    "tags": [
+      "tadqiqot",
+      "chiplar"
+    ],
+    "importance": 3,
+    "score": 10,
+    "published": "2026-11-02T13:30:00.000Z",
+    "created": "2026-11-03T01:01:58.985Z",
+    "coverage": 1,
+    "source": {
+      "name": "Yahoo Tech",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUXBZb2FSTlpZSXg4MzZyWG5KVnpTWW5rVmFycXBtN21rVl9zcGpjY3hkSWFLVlBwNXhxQmZ4dHE0cjF1NndaRDNrQm11RllqbWp1R2RIVWVINkhpRUs2NmtEN1M4YUZ2X2ZfcmR5OGpUMl8wU0l2WFpxWUtaSnY0UkxHY1c",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "b94f3c12e719",
     "slug": "ai-qurolli-zararli-dasturlar-buyuk-britaniya-infratuzilmasig-b94f3c",
     "title": "AI qurolli zararli dasturlar Buyuk Britaniya infratuzilmasiga tahdid",

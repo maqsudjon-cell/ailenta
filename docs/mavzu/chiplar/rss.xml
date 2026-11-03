@@ -5,7 +5,7 @@
   <link>https://ailenta.uz/mavzu/chiplar/</link>
   <description>&quot;chiplar&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Tue, 03 Nov 2026 00:50:04 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 03 Nov 2026 01:09:58 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/chiplar/rss.xml" rel="self" type="application/rss+xml"/>
   <item>
     <title>Marvell va Lumentum 115 mlrd dollarlik birlashuvni e'lon qildi</title>
@@ -16,6 +16,16 @@
     <category>biznes</category><category>chiplar</category>
     <media:content url="https://ailenta.uz/og/marvell-va-lumentum-115-mlrd-dollarlik-birlashuvni-elon-qild-1496a9.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/marvell-va-lumentum-115-mlrd-dollarlik-birlashuvni-elon-qild-1496a9.jpg"/>
+  </item>
+  <item>
+    <title>AI model og'irliklariga RISC-V CPU o'rnatildi, DOOM ishga tushirildi</title>
+    <link>https://ailenta.uz/x/ai-model-ogirliklariga-risc-v-cpu-ornatildi-doom-ishga-tushi-1f8e5b/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/ai-model-ogirliklariga-risc-v-cpu-ornatildi-doom-ishga-tushi-1f8e5b/</guid>
+    <pubDate>Mon, 02 Nov 2026 13:30:00 GMT</pubDate>
+    <description>Sun'iy intellekt modelining og'irliklariga 32-bitli RISC-V CPU to'g'ridan-to'g'ri kompilyatsiya qilindi. Natijada, ushbu modelda DOOM o'yini muvaffaqiyatli ishga tushirildi.</description>
+    <category>tadqiqot</category><category>chiplar</category>
+    <media:content url="https://ailenta.uz/og/ai-model-ogirliklariga-risc-v-cpu-ornatildi-doom-ishga-tushi-1f8e5b.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/ai-model-ogirliklariga-risc-v-cpu-ornatildi-doom-ishga-tushi-1f8e5b.jpg"/>
   </item>
   <item>
     <title>Janubiy Koreya AI uchun rekord byudjet ajratadi</title>
@@ -296,16 +306,6 @@
     <category>biznes</category><category>chiplar</category>
     <media:content url="https://ailenta.uz/og/flapping-airplanes-1-mlrd-sarmoya-jalb-qildi-bc3db2.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/flapping-airplanes-1-mlrd-sarmoya-jalb-qildi-bc3db2.jpg"/>
-  </item>
-  <item>
-    <title>AI chiplarining qizishi yangi sovutish texnologiyalarini talab qilmoqda</title>
-    <link>https://ailenta.uz/x/ai-chiplarining-qizishi-yangi-sovutish-texnologiyalarini-tal-9dec6b/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/ai-chiplarining-qizishi-yangi-sovutish-texnologiyalarini-tal-9dec6b/</guid>
-    <pubDate>Wed, 21 Oct 2026 15:36:09 GMT</pubDate>
-    <description>Sun'iy intellekt chiplarining haddan tashqari qizishi keyingi avlod sovutish texnologiyalari uchun raqobatni kuchaytirmoqda. Bu AI apparat ta'minotining muhim muammosidir.</description>
-    <category>chiplar</category><category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/ai-chiplarining-qizishi-yangi-sovutish-texnologiyalarini-tal-9dec6b.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/ai-chiplarining-qizishi-yangi-sovutish-texnologiyalarini-tal-9dec6b.jpg"/>
   </item>
 </channel>
 </rss>

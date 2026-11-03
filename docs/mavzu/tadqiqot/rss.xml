@@ -5,7 +5,7 @@
   <link>https://ailenta.uz/mavzu/tadqiqot/</link>
   <description>&quot;tadqiqot&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Tue, 03 Nov 2026 00:50:04 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 03 Nov 2026 01:09:58 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/tadqiqot/rss.xml" rel="self" type="application/rss+xml"/>
   <item>
     <title>Agentli orqa eshiklar o'qitish orqali zaharlanishi</title>
@@ -76,6 +76,16 @@
     <category>tadqiqot</category><category>mehnat bozori</category>
     <media:content url="https://ailenta.uz/og/timlidning-sorovi-llm-vazifa-bahosini-20-ga-ozgartirdi-3a6249.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/timlidning-sorovi-llm-vazifa-bahosini-20-ga-ozgartirdi-3a6249.jpg"/>
+  </item>
+  <item>
+    <title>AI model og'irliklariga RISC-V CPU o'rnatildi, DOOM ishga tushirildi</title>
+    <link>https://ailenta.uz/x/ai-model-ogirliklariga-risc-v-cpu-ornatildi-doom-ishga-tushi-1f8e5b/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/ai-model-ogirliklariga-risc-v-cpu-ornatildi-doom-ishga-tushi-1f8e5b/</guid>
+    <pubDate>Mon, 02 Nov 2026 13:30:00 GMT</pubDate>
+    <description>Sun'iy intellekt modelining og'irliklariga 32-bitli RISC-V CPU to'g'ridan-to'g'ri kompilyatsiya qilindi. Natijada, ushbu modelda DOOM o'yini muvaffaqiyatli ishga tushirildi.</description>
+    <category>tadqiqot</category><category>chiplar</category>
+    <media:content url="https://ailenta.uz/og/ai-model-ogirliklariga-risc-v-cpu-ornatildi-doom-ishga-tushi-1f8e5b.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/ai-model-ogirliklariga-risc-v-cpu-ornatildi-doom-ishga-tushi-1f8e5b.jpg"/>
   </item>
   <item>
     <title>AI agentlar kodlashda ko'p token ishlatmoqda</title>
@@ -296,16 +306,6 @@
     <category>DeepSeek</category><category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/xitoy-ai-laboratoriyalari-yangi-usulni-sinamoqda-ac6968.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/xitoy-ai-laboratoriyalari-yangi-usulni-sinamoqda-ac6968.jpg"/>
-  </item>
-  <item>
-    <title>AI yordamida 3D o'yin lokatsiyalarini prototiplash</title>
-    <link>https://ailenta.uz/x/ai-yordamida-3d-oyin-lokatsiyalarini-prototiplash-12c83e/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/ai-yordamida-3d-oyin-lokatsiyalarini-prototiplash-12c83e/</guid>
-    <pubDate>Sat, 31 Oct 2026 07:00:43 GMT</pubDate>
-    <description>Habr nashri AI yordamida 3D o'yin lokatsiyalari va darajalarini prototiplashni sinovdan o'tkazdi. Testda Nano Banana Pro, Grok Image 2, Qwen Image 3 va Seedream 5.0 Lite modellari ishlatildi.</description>
-    <category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/ai-yordamida-3d-oyin-lokatsiyalarini-prototiplash-12c83e.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/ai-yordamida-3d-oyin-lokatsiyalarini-prototiplash-12c83e.jpg"/>
   </item>
 </channel>
 </rss>
