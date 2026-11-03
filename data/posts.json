@@ -1,5 +1,69 @@
 [
   {
+    "id": "5c6c84836547",
+    "slug": "ai-toqib-chiqargan-malumot-sud-jarayonida-qollandi-5c6c84",
+    "title": "AI to'qib chiqargan ma'lumot sud jarayonida qo'llandi",
+    "summary": "Qirollik prokuratura xizmati prokurori Ravinder Dhillon Oliy suddagi ishda sun'iy intellekt to'qib chiqargan soxta huquqiy manbaga tayanib javob berdi. Bu holat sud tizimida AI to'qib chiqarishi bilan bog'liq xavotirlarni oshirdi.",
+    "tags": [
+      "sud",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 23,
+    "published": "2026-11-03T06:00:40.000Z",
+    "created": "2026-11-03T06:41:20.374Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/technology/2026/nov/03/a-serious-failure-cps-prosecutor-cites-imaginary-case-to-high-court-after-ai-search",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "ce4f8e1c2043",
+    "slug": "toyota-ai-ogirliklarini-saqlovchi-chip-tayyorladi-ce4f8e",
+    "title": "Toyota AI og'irliklarini saqlovchi chip tayyorladi",
+    "summary": "Toyota kompaniyasi model og'irliklari va operatsion tizimni o'rnatilgan xotirada saqlaydigan chipni namoyish etdi. Ushbu yechim tashqi xotiraga murojaat qilishni kamaytirib, jismoniy sun'iy intellekt ishini tezlashtirishga qaratilgan.",
+    "tags": [
+      "chiplar"
+    ],
+    "importance": 3,
+    "score": 22,
+    "published": "2026-11-03T03:25:32.000Z",
+    "created": "2026-11-03T06:41:20.374Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/systems/2026/11/03/toyota-shows-off-soc-that-stores-model-weights-and-its-os-on-integrated-memory/5307117",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "7d245e7a73f0",
+    "slug": "mercedes-benz-e-class-modeliga-doubao-ai-integratsiya-qilind-7d245e",
+    "title": "Mercedes-Benz E-Class modeliga Doubao AI integratsiya qilindi",
+    "summary": "Mercedes-Benz Xitoyda yangilangan E-Class avtomobillarini taqdim etdi. Avtomobilning AI kokpitiga ByteDance kompaniyasining Doubao modeli va virtual yordamchisi integratsiya qilingan.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 18,
+    "published": "2026-11-03T05:13:56.000Z",
+    "created": "2026-11-03T06:41:20.374Z",
+    "coverage": 1,
+    "source": {
+      "name": "TechNode",
+      "url": "https://technode.com/2026/11/03/mercedes-benz-brings-doubao-ai-and-china-developed-cockpit-to-updated-e-class",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "5a6391ab7400",
     "slug": "huawei-chipida-samsung-va-sk-hynix-xotirasi-ishlatiladi-5a6391",
     "title": "Huawei chipida Samsung va SK Hynix xotirasi ishlatiladi",

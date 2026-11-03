@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/chiplar/</link>
   <description>&quot;chiplar&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Tue, 03 Nov 2026 06:11:27 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 03 Nov 2026 06:51:29 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/chiplar/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Toyota AI og'irliklarini saqlovchi chip tayyorladi</title>
+    <link>https://ailenta.uz/x/toyota-ai-ogirliklarini-saqlovchi-chip-tayyorladi-ce4f8e/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/toyota-ai-ogirliklarini-saqlovchi-chip-tayyorladi-ce4f8e/</guid>
+    <pubDate>Tue, 03 Nov 2026 03:25:32 GMT</pubDate>
+    <description>Toyota kompaniyasi model og'irliklari va operatsion tizimni o'rnatilgan xotirada saqlaydigan chipni namoyish etdi. Ushbu yechim tashqi xotiraga murojaat qilishni kamaytirib, jismoniy sun'iy intellekt ishini tezlashtirishga qaratilgan.</description>
+    <category>chiplar</category>
+    <media:content url="https://ailenta.uz/og/toyota-ai-ogirliklarini-saqlovchi-chip-tayyorladi-ce4f8e.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/toyota-ai-ogirliklarini-saqlovchi-chip-tayyorladi-ce4f8e.jpg"/>
+  </item>
   <item>
     <title>Huawei chipida Samsung va SK Hynix xotirasi ishlatiladi</title>
     <link>https://ailenta.uz/x/huawei-chipida-samsung-va-sk-hynix-xotirasi-ishlatiladi-5a6391/</link>
@@ -296,16 +306,6 @@
     <category>chiplar</category>
     <media:content url="https://ailenta.uz/og/flagos-2-2-operatsiyalar-kutubxonasini-kengaytirdi-b4e7bb.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/flagos-2-2-operatsiyalar-kutubxonasini-kengaytirdi-b4e7bb.jpg"/>
-  </item>
-  <item>
-    <title>FPGA va mikrosxemalarda AI bo'yicha sharh e'lon qilindi</title>
-    <link>https://ailenta.uz/x/fpga-va-mikrosxemalarda-ai-boyicha-sharh-elon-qilindi-712adf/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/fpga-va-mikrosxemalarda-ai-boyicha-sharh-elon-qilindi-712adf/</guid>
-    <pubDate>Thu, 22 Oct 2026 04:00:00 GMT</pubDate>
-    <description>Tadqiqotchilar FPGA va mikrosxemalarda mustahkamlovchi o'rgatishni qo'llashga oid 100 dan ortiq ilmiy ishlarni ko'rib chiqdi. Sharhda apparat va algoritm samaradorligi tahlil qilingan.</description>
-    <category>chiplar</category><category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/fpga-va-mikrosxemalarda-ai-boyicha-sharh-elon-qilindi-712adf.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/fpga-va-mikrosxemalarda-ai-boyicha-sharh-elon-qilindi-712adf.jpg"/>
   </item>
 </channel>
 </rss>
