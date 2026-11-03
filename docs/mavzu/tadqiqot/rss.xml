@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/tadqiqot/</link>
   <description>&quot;tadqiqot&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Tue, 03 Nov 2026 10:00:08 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 03 Nov 2026 10:24:51 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/tadqiqot/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>AI yordamida kod yozish va agentlarni tekshirish</title>
+    <link>https://ailenta.uz/x/ai-yordamida-kod-yozish-va-agentlarni-tekshirish-04fec2/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/ai-yordamida-kod-yozish-va-agentlarni-tekshirish-04fec2/</guid>
+    <pubDate>Tue, 03 Nov 2026 09:00:13 GMT</pubDate>
+    <description>Habr nashri AI yordamida kod yozish va agentlarni kod-rev'yu qilish tajribasi haqida xabar berdi. Claude Code bilan uch kunda yozilgan kodni tekshirish uchun uch hafta ketgan.</description>
+    <category>tadqiqot</category><category>agentlar</category>
+    <media:content url="https://ailenta.uz/og/ai-yordamida-kod-yozish-va-agentlarni-tekshirish-04fec2.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/ai-yordamida-kod-yozish-va-agentlarni-tekshirish-04fec2.jpg"/>
+  </item>
   <item>
     <title>AI boshqa AI og'irliklarini o'zgartira oladi</title>
     <link>https://ailenta.uz/x/ai-boshqa-ai-ogirliklarini-ozgartira-oladi-478729/</link>
@@ -296,16 +306,6 @@
     <category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/britaniyalik-yolgizlarning-39-foizi-aidan-foydalanmoqda-382d5f.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/britaniyalik-yolgizlarning-39-foizi-aidan-foydalanmoqda-382d5f.jpg"/>
-  </item>
-  <item>
-    <title>FAIRouter AI model routeri NuGet'da chiqarildi</title>
-    <link>https://ailenta.uz/x/fairouter-ai-model-routeri-nugetda-chiqarildi-6f2d3a/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/fairouter-ai-model-routeri-nugetda-chiqarildi-6f2d3a/</guid>
-    <pubDate>Sat, 31 Oct 2026 08:53:46 GMT</pubDate>
-    <description>Ochiq kodli FAIRouter AI model routerining C# versiyasi NuGet platformasida chiqarildi. Loyiha AI modellaridan tez, arzon va sifatli javob olishni maqsad qilgan.</description>
-    <category>ochiq model</category><category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/fairouter-ai-model-routeri-nugetda-chiqarildi-6f2d3a.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/fairouter-ai-model-routeri-nugetda-chiqarildi-6f2d3a.jpg"/>
   </item>
 </channel>
 </rss>

@@ -1,43 +1,65 @@
 [
   {
-    "id": "2e7aa3c019c6",
-    "slug": "larridin-ai-samaradorligini-kuzatish-uchun-30-mln-dollar-yig-2e7aa3",
-    "title": "Larridin AI samaradorligini kuzatish uchun 30 mln dollar yig'di",
-    "summary": "Larridin kompaniyasi Pelion Ventures boshchiligidagi A seriyali moliyalashtirishda 30 million dollar mablag' yig'di. U AI'ning xodimlar samaradorligiga ta'sirini kuzatish va uni yaxshiroq joriy etish yo'nalishlarini aniqlashga yordam beradi.",
+    "id": "1ec3c6dace55",
+    "slug": "mohira-asadova-ai-qoshiqlariga-munosabat-bildirdi-1ec3c6",
+    "title": "Mohira Asadova AI qo'shiqlariga munosabat bildirdi",
+    "summary": "Xonanda Mohira Asadova sun'iy intellekt orqali yaratilayotgan qo'shiqlarga o'z munosabatini bildirdi. U soxta ijro qiladiganlarni tinglamasligini ta'kidladi.",
     "tags": [
-      "biznes",
+      "O'zbekiston",
       "mehnat bozori"
     ],
-    "importance": 3,
-    "score": 15,
-    "published": "2026-11-03T03:10:00.000Z",
-    "created": "2026-11-03T09:49:38.339Z",
+    "importance": 2,
+    "score": 48,
+    "published": "2026-11-03T06:54:50.000Z",
+    "created": "2026-11-03T10:04:15.059Z",
     "coverage": 1,
     "source": {
-      "name": "Techmeme",
-      "url": "https://techmeme.com/261102/p49",
+      "name": "Daryo",
+      "url": "https://daryo.uz/2026/11/03/soxta-ijrodan-qulogimni-asrayman-xonanda-mohira-asadova-suniy-intellekt-orqali-yaratilayotgan-qoshiqlar-haqida",
       "indirect": false
     },
     "also": [],
     "model": "gemini"
   },
   {
-    "id": "c95b9b948484",
-    "slug": "edirny-tsupis-ai-bilan-malumot-xavfsizligini-taminladi-c95b9b",
-    "title": "EDIRNY TSUPIS AI bilan ma'lumot xavfsizligini ta'minladi",
-    "summary": "EDIRNY TSUPIS kompaniyasi Shtab AI'ni yopiq konturda joriy etib, ma'lumotlarni tashqi modellarga chiqarmasdan AI'dan foydalanish tajribasini baham ko'rdi. Bu AI'ni biznesga xavfsiz integratsiya qilish muammosini hal etishga qaratilgan.",
+    "id": "e29ecdd01170",
+    "slug": "talabalar-xavfsiz-talaba-ilovasini-o-rnatishga-majburlanmoqd-e29ecd",
+    "title": "Talabalar “Xavfsiz talaba” ilovasini o‘rnatishga majburlanmoqda",
+    "summary": "Talabalar “Xavfsiz talaba” ilovasini o‘rnatishga majburlanayotgani xabar qilindi. Ta’lim va ilm-fan vazirligi bu masalani nazoratga olib, ishchi guruh tuzdi.",
     "tags": [
-      "xavfsizlik",
-      "maxfiylik"
+      "O'zbekiston",
+      "ta'lim"
     ],
     "importance": 3,
-    "score": 11,
-    "published": "2026-11-03T08:23:31.000Z",
-    "created": "2026-11-03T09:49:38.339Z",
+    "score": 45,
+    "published": "2026-11-03T06:48:31.000Z",
+    "created": "2026-11-03T10:04:15.059Z",
+    "coverage": 1,
+    "source": {
+      "name": "Daryo",
+      "url": "https://daryo.uz/2026/11/03/talabalar-xavfsiz-talaba-ilovasini-ornatishga-majburlanayotgani-aytilmoqda",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "04fec2a5283c",
+    "slug": "ai-yordamida-kod-yozish-va-agentlarni-tekshirish-04fec2",
+    "title": "AI yordamida kod yozish va agentlarni tekshirish",
+    "summary": "Habr nashri AI yordamida kod yozish va agentlarni kod-rev'yu qilish tajribasi haqida xabar berdi. Claude Code bilan uch kunda yozilgan kodni tekshirish uchun uch hafta ketgan.",
+    "tags": [
+      "tadqiqot",
+      "agentlar"
+    ],
+    "importance": 2,
+    "score": 14,
+    "published": "2026-11-03T09:00:13.000Z",
+    "created": "2026-11-03T10:04:15.059Z",
     "coverage": 1,
     "source": {
       "name": "Habr",
-      "url": "https://habr.com/ru/companies/shtab/articles/1103050",
+      "url": "https://habr.com/ru/companies/haulmont/articles/1101452",
       "indirect": false
     },
     "also": [],

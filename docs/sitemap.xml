@@ -7,13 +7,25 @@
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://ailenta.uz/x/edirny-tsupis-ai-bilan-malumot-xavfsizligini-taminladi-c95b9b/</loc>
+    <loc>https://ailenta.uz/x/ai-yordamida-kod-yozish-va-agentlarni-tekshirish-04fec2/</loc>
     <lastmod>2026-11-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://ailenta.uz/x/ai-boshqa-ai-ogirliklarini-ozgartira-oladi-478729/</loc>
+    <lastmod>2026-11-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ailenta.uz/x/mohira-asadova-ai-qoshiqlariga-munosabat-bildirdi-1ec3c6/</loc>
+    <lastmod>2026-11-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ailenta.uz/x/talabalar-xavfsiz-talaba-ilovasini-o-rnatishga-majburlanmoqd-e29ecd/</loc>
     <lastmod>2026-11-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -38,12 +50,6 @@
   </url>
   <url>
     <loc>https://ailenta.uz/x/huawei-chipida-samsung-va-sk-hynix-xotirasi-ishlatiladi-5a6391/</loc>
-    <lastmod>2026-11-03</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://ailenta.uz/x/larridin-ai-samaradorligini-kuzatish-uchun-30-mln-dollar-yig-2e7aa3/</loc>
     <lastmod>2026-11-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -25831,25 +25837,43 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ailenta.uz/mavzu/xavfsizlik/</loc>
-    <lastmod>2026-11-03</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://ailenta.uz/mavzu/maxfiylik/</loc>
-    <lastmod>2026-11-03</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://ailenta.uz/mavzu/tadqiqot/</loc>
     <lastmod>2026-11-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://ailenta.uz/mavzu/agentlar/</loc>
+    <lastmod>2026-11-03</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://ailenta.uz/mavzu/ozbekiston/</loc>
+    <lastmod>2026-11-03</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://ailenta.uz/mavzu/mehnat-bozori/</loc>
+    <lastmod>2026-11-03</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://ailenta.uz/mavzu/talim/</loc>
+    <lastmod>2026-11-03</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://ailenta.uz/mavzu/sud/</loc>
+    <lastmod>2026-11-03</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://ailenta.uz/mavzu/xavfsizlik/</loc>
     <lastmod>2026-11-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
@@ -25862,12 +25886,6 @@
   </url>
   <url>
     <loc>https://ailenta.uz/mavzu/chiplar/</loc>
-    <lastmod>2026-11-03</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://ailenta.uz/mavzu/mehnat-bozori/</loc>
     <lastmod>2026-11-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
@@ -25909,18 +25927,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://ailenta.uz/mavzu/agentlar/</loc>
-    <lastmod>2026-11-02</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://ailenta.uz/mavzu/ozbekiston/</loc>
-    <lastmod>2026-11-02</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://ailenta.uz/mavzu/openai/</loc>
     <lastmod>2026-11-02</lastmod>
     <changefreq>daily</changefreq>
@@ -25951,7 +25957,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://ailenta.uz/mavzu/talim/</loc>
+    <loc>https://ailenta.uz/mavzu/maxfiylik/</loc>
     <lastmod>2026-11-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
