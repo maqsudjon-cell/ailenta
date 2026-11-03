@@ -1,5 +1,48 @@
 [
   {
+    "id": "47872983325c",
+    "slug": "ai-boshqa-ai-ogirliklarini-ozgartira-oladi-478729",
+    "title": "AI boshqa AI og'irliklarini o'zgartira oladi",
+    "summary": "\"Weight-Space Programming\" deb nomlangan yangi usul AI modellarining og'irliklarini to'g'ridan-to'g'ri o'zgartirish imkonini beradi. Bu usul sinov to'plami natijalarini yaxshilashga yordam beradi.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-11-03T08:15:00.000Z",
+    "created": "2026-11-03T09:36:25.755Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/ai-and-ml/2026/11/03/forget-retraining-ai-can-now-tweak-another-ais-weights/5307105",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "59e51e1e5fd1",
+    "slug": "anthropic-ipo-prospekti-savollarga-javob-bermadi-59e51e",
+    "title": "Anthropic IPO prospekti savollarga javob bermadi",
+    "summary": "Anthropic kompaniyasining IPO prospekti ko'plab va'dalarni o'z ichiga olgan, ammo qiyin savollarga aniq javob bermagan. OpenAI ham shunga o'xshash vaziyatga duch kelishi mumkin.",
+    "tags": [
+      "Anthropic",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 15.4,
+    "published": "2026-11-02T12:30:00.000Z",
+    "created": "2026-11-03T09:36:25.756Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/ai-and-ml/2026/11/02/anthropics-ipo-prospectus-is-big-on-promises-short-on-answers-to-tough-questions/5306811",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "5c6c84836547",
     "slug": "ai-toqib-chiqargan-malumot-sud-jarayonida-qollandi-5c6c84",
     "title": "AI to'qib chiqargan ma'lumot sud jarayonida qo'llandi",
