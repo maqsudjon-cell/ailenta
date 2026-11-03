@@ -1,5 +1,71 @@
 [
   {
+    "id": "09dd580ac1a6",
+    "slug": "ai-yoshlarni-ishga-olishni-toxtatishda-qollanilmoqda-09dd58",
+    "title": "AI yoshlarni ishga olishni to'xtatishda qo'llanilmoqda",
+    "summary": "Tarixdagi eng kuchli texnologiya bo'lgan AI yoshlarni ishga olishni to'xtatish uchun ishlatilmoqda. Buning o'rniga, AI'ni energiya, suv va sog'liqni saqlash xarajatlariga yo'naltirish tavsiya etiladi.",
+    "tags": [
+      "mehnat bozori",
+      "iqtisod"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-11-03T11:30:00.000Z",
+    "created": "2026-11-03T13:11:46.311Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/11/03/ai-layoffs-young-workers-hiring-data-centers-grid-water-midterms",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "6524f4b51195",
+    "slug": "ai-davrida-texnik-suhbatlarni-otkazish-usullari-6524f4",
+    "title": "AI davrida texnik suhbatlarni o'tkazish usullari",
+    "summary": "AI-suflyorlar tufayli standart texnik suhbatlar va live coding ma'nosini yo'qotmoqda. SymbioWay kompaniyasi nomzodlarga AI agentlaridan foydalanishga ruxsat berib, vazifalarni o'zgartirdi. Bu chuqur tushunchasiz neyron tarmoq yordam bera olmaydigan qilib yaratildi.",
+    "tags": [
+      "mehnat bozori",
+      "agentlar"
+    ],
+    "importance": 3,
+    "score": 17,
+    "published": "2026-11-03T12:53:54.000Z",
+    "created": "2026-11-03T13:11:46.311Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1103212",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "f5683ee55ad9",
+    "slug": "ai-arkanoid-oyinini-organib-dastur-yozdi-f5683e",
+    "title": "AI Arkanoid o'yinini o'rganib, dastur yozdi",
+    "summary": "AI 1988 yilgi DOS-Arkanoid o'yinini ekranga qarab o'rgandi. U o'yin uchun dastur yozdi va bu dastur 10 ta partiyadan 10 tasida 33-raundgacha yetib bordi. AI o'zi o'ynamadi, balki o'yinchi dasturini yaratdi.",
+    "tags": [
+      "tadqiqot",
+      "agentlar"
+    ],
+    "importance": 3,
+    "score": 17,
+    "published": "2026-11-03T12:16:11.000Z",
+    "created": "2026-11-03T13:11:46.311Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1103182",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "42d633464c8d",
     "slug": "huawei-mijozlarga-ai-chip-xotirasini-topishni-aytdi-42d633",
     "title": "Huawei mijozlarga AI chip xotirasini topishni aytdi",

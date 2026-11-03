@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/tadqiqot/</link>
   <description>&quot;tadqiqot&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Tue, 03 Nov 2026 12:43:11 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 03 Nov 2026 13:21:55 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/tadqiqot/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>AI Arkanoid o'yinini o'rganib, dastur yozdi</title>
+    <link>https://ailenta.uz/x/ai-arkanoid-oyinini-organib-dastur-yozdi-f5683e/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/ai-arkanoid-oyinini-organib-dastur-yozdi-f5683e/</guid>
+    <pubDate>Tue, 03 Nov 2026 12:16:11 GMT</pubDate>
+    <description>AI 1988 yilgi DOS-Arkanoid o'yinini ekranga qarab o'rgandi. U o'yin uchun dastur yozdi va bu dastur 10 ta partiyadan 10 tasida 33-raundgacha yetib bordi. AI o'zi o'ynamadi, balki o'yinchi dasturini yaratdi.</description>
+    <category>tadqiqot</category><category>agentlar</category>
+    <media:content url="https://ailenta.uz/og/ai-arkanoid-oyinini-organib-dastur-yozdi-f5683e.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/ai-arkanoid-oyinini-organib-dastur-yozdi-f5683e.jpg"/>
+  </item>
   <item>
     <title>AI yordamida kod yozish va agentlarni tekshirish</title>
     <link>https://ailenta.uz/x/ai-yordamida-kod-yozish-va-agentlarni-tekshirish-04fec2/</link>
@@ -296,16 +306,6 @@
     <category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/boot-sektorda-ishlaydigan-til-modeli-yaratildi-14074b.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/boot-sektorda-ishlaydigan-til-modeli-yaratildi-14074b.jpg"/>
-  </item>
-  <item>
-    <title>TBook formati va uning ekotizimi rivojlanmoqda</title>
-    <link>https://ailenta.uz/x/tbook-formati-va-uning-ekotizimi-rivojlanmoqda-358223/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/tbook-formati-va-uning-ekotizimi-rivojlanmoqda-358223/</guid>
-    <pubDate>Sat, 31 Oct 2026 12:45:21 GMT</pubDate>
-    <description>TBook formati yaratilganidan to'rt oy o'tib, Google Play'da ilova, uchta OS uchun ish stoli o'quvchisi va oflayn lug'atlar paydo bo'ldi. Shuningdek, onlayn konverter va Telegram-bot ham ishga tushirildi.</description>
-    <category>tadqiqot</category><category>ochiq model</category>
-    <media:content url="https://ailenta.uz/og/tbook-formati-va-uning-ekotizimi-rivojlanmoqda-358223.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/tbook-formati-va-uning-ekotizimi-rivojlanmoqda-358223.jpg"/>
   </item>
 </channel>
 </rss>

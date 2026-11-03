@@ -5,8 +5,28 @@
   <link>https://ailenta.uz/mavzu/agentlar/</link>
   <description>&quot;agentlar&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Tue, 03 Nov 2026 12:43:11 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 03 Nov 2026 13:21:55 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/agentlar/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>AI davrida texnik suhbatlarni o'tkazish usullari</title>
+    <link>https://ailenta.uz/x/ai-davrida-texnik-suhbatlarni-otkazish-usullari-6524f4/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/ai-davrida-texnik-suhbatlarni-otkazish-usullari-6524f4/</guid>
+    <pubDate>Tue, 03 Nov 2026 12:53:54 GMT</pubDate>
+    <description>AI-suflyorlar tufayli standart texnik suhbatlar va live coding ma'nosini yo'qotmoqda. SymbioWay kompaniyasi nomzodlarga AI agentlaridan foydalanishga ruxsat berib, vazifalarni o'zgartirdi. Bu chuqur tushunchasiz neyron tarmoq yordam bera olmaydigan qilib yaratildi.</description>
+    <category>mehnat bozori</category><category>agentlar</category>
+    <media:content url="https://ailenta.uz/og/ai-davrida-texnik-suhbatlarni-otkazish-usullari-6524f4.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/ai-davrida-texnik-suhbatlarni-otkazish-usullari-6524f4.jpg"/>
+  </item>
+  <item>
+    <title>AI Arkanoid o'yinini o'rganib, dastur yozdi</title>
+    <link>https://ailenta.uz/x/ai-arkanoid-oyinini-organib-dastur-yozdi-f5683e/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/ai-arkanoid-oyinini-organib-dastur-yozdi-f5683e/</guid>
+    <pubDate>Tue, 03 Nov 2026 12:16:11 GMT</pubDate>
+    <description>AI 1988 yilgi DOS-Arkanoid o'yinini ekranga qarab o'rgandi. U o'yin uchun dastur yozdi va bu dastur 10 ta partiyadan 10 tasida 33-raundgacha yetib bordi. AI o'zi o'ynamadi, balki o'yinchi dasturini yaratdi.</description>
+    <category>tadqiqot</category><category>agentlar</category>
+    <media:content url="https://ailenta.uz/og/ai-arkanoid-oyinini-organib-dastur-yozdi-f5683e.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/ai-arkanoid-oyinini-organib-dastur-yozdi-f5683e.jpg"/>
+  </item>
   <item>
     <title>AI agentlari CI testlarini o'zgartirishi mumkin</title>
     <link>https://ailenta.uz/x/ai-agentlari-ci-testlarini-ozgartirishi-mumkin-19ffbb/</link>
@@ -286,26 +306,6 @@
     <category>agentlar</category>
     <media:content url="https://ailenta.uz/og/xiaomi-doirasida-hachimodock-ai-qurilmasi-yaratildi-f7205d.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/xiaomi-doirasida-hachimodock-ai-qurilmasi-yaratildi-f7205d.jpg"/>
-  </item>
-  <item>
-    <title>Fresche IBM i uchun bepul OpsIQ AI yordamchisini chiqardi</title>
-    <link>https://ailenta.uz/x/fresche-ibm-i-uchun-bepul-opsiq-ai-yordamchisini-chiqardi-5cbc26/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/fresche-ibm-i-uchun-bepul-opsiq-ai-yordamchisini-chiqardi-5cbc26/</guid>
-    <pubDate>Mon, 26 Oct 2026 04:04:29 GMT</pubDate>
-    <description>Fresche kompaniyasi IBM i platformasi uchun OpsIQ nomli bepul AI yordamchisini ishga tushirdi. Tizim operatsiyalarni boshqarish va jarayonlarni yengillashtirishga qaratilgan.</description>
-    <category>biznes</category><category>agentlar</category>
-    <media:content url="https://ailenta.uz/og/fresche-ibm-i-uchun-bepul-opsiq-ai-yordamchisini-chiqardi-5cbc26.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/fresche-ibm-i-uchun-bepul-opsiq-ai-yordamchisini-chiqardi-5cbc26.jpg"/>
-  </item>
-  <item>
-    <title>Kichik LLM'dan avtonom terminal agent yaratish imkoniyati</title>
-    <link>https://ailenta.uz/x/kichik-llmdan-avtonom-terminal-agent-yaratish-imkoniyati-399392/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/kichik-llmdan-avtonom-terminal-agent-yaratish-imkoniyati-399392/</guid>
-    <pubDate>Sun, 25 Oct 2026 19:30:43 GMT</pubDate>
-    <description>Katta til modellarining rivojlanishi sharoitida, kichikroq 8 milliard parametrlik LLM'dan avtonom terminal agent yaratish imkoniyati o'rganilmoqda. Maqsad, bunday agentning dasturiy ta'minotni ishlab chiqishda kattaroq modellarga teng foyda keltira olishini aniqlash.</description>
-    <category>agentlar</category><category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/kichik-llmdan-avtonom-terminal-agent-yaratish-imkoniyati-399392.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/kichik-llmdan-avtonom-terminal-agent-yaratish-imkoniyati-399392.jpg"/>
   </item>
 </channel>
 </rss>
