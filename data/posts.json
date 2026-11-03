@@ -1,5 +1,93 @@
 [
   {
+    "id": "39622f81d039",
+    "slug": "buxoro-neft-zavodida-328-mln-dollarlik-modernizatsiya-39622f",
+    "title": "Buxoro neft zavodida 328 mln dollarlik modernizatsiya",
+    "summary": "Buxoro neftni qayta ishlash zavodida 328 million dollarlik modernizatsiya loyihasi amalga oshiriladi. Natijada zavodning yillik quvvati 5 million tonnaga yetkazilib, Yevro-5 standartidagi benzin ishlab chiqarish ko‘payadi.",
+    "tags": [
+      "O'zbekiston",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 48,
+    "published": "2026-11-03T15:48:40.000Z",
+    "created": "2026-11-03T18:00:02.307Z",
+    "coverage": 1,
+    "source": {
+      "name": "Daryo",
+      "url": "https://daryo.uz/2026/11/03/buxoro-neftni-qayta-ishlash-zavodida-328-mln-dollarlik-modernizatsiya-loyihasi-amalga-oshiriladi",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "8144ec6c5483",
+    "slug": "drax-zavodi-yonida-ai-datacentre-quriladi-8144ec",
+    "title": "Drax zavodi yonida AI datacentre quriladi",
+    "summary": "Buyuk Britaniyaning Drax elektr stansiyasi hududida mamlakatdagi eng yirik AI datacentre qurilishi rejalashtirilmoqda. Bu bo‘yicha 20 milliard funt sterlinglik kelishuv imzolangan bo‘lib, u 2028-yil boshida ishga tushishi mumkin.",
+    "tags": [
+      "biznes",
+      "bulut"
+    ],
+    "importance": 4,
+    "score": 23,
+    "published": "2026-11-03T11:55:28.000Z",
+    "created": "2026-11-03T18:00:02.307Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/business/2026/nov/03/uk-drax-power-station-ai-datacentre",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "5a615c5aa38f",
+    "slug": "ai-yaratgan-siyosiy-reklamalar-internet-platformalarini-ogoh-5a615c",
+    "title": "AI yaratgan siyosiy reklamalar internet platformalarini ogohlantirdi",
+    "summary": "Sun'iy intellekt tomonidan yaratilgan siyosiy reklamalar internet platformalarini ogohlantirmoqda. O‘tgan oraliq saylovlarda AI yaratgan siyosiy reklamalarga rekord darajada mablag‘ sarflangan.",
+    "tags": [
+      "siyosat",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-11-03T17:37:31.000Z",
+    "created": "2026-11-03T18:00:02.307Z",
+    "coverage": 1,
+    "source": {
+      "name": "CNBC",
+      "url": "https://cnbc.com/2026/11/03/ai-generated-slopaganda-in-political-ads-puts-platforms-on-alert.html",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "80e072cc91ba",
+    "slug": "sensetime-ofis-va-dizayn-uchun-sensenova-6-8-flashni-ishga-t-80e072",
+    "title": "SenseTime ofis va dizayn uchun SenseNova 6.8 Flash'ni ishga tushirdi",
+    "summary": "SenseTime 2-noyabr kuni SenseNova 6.8 Flash modelini taqdim etdi. U ofis va dizayn ishlari uchun multimodal agent imkoniyatlarini kengaytirib, 3D yaratish va taqdimotlarni qo‘llab-quvvatlaydi.",
+    "tags": [
+      "tadqiqot",
+      "agentlar"
+    ],
+    "importance": 3,
+    "score": 17.7,
+    "published": "2026-11-03T05:15:18.000Z",
+    "created": "2026-11-03T18:00:02.307Z",
+    "coverage": 1,
+    "source": {
+      "name": "TechNode",
+      "url": "https://technode.com/2026/11/03/sensetime-launches-sensenova-6-8-flash-for-office-and-design-workflows",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "3ee6a34d50f4",
     "slug": "buyuk-britaniya-2028-yilgacha-ai-ransomware-hujumlaridan-ogo-3ee6a3",
     "title": "Buyuk Britaniya 2028-yilgacha AI-ransomware hujumlaridan ogohlantirildi",
