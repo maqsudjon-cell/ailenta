@@ -1,5 +1,52 @@
 [
   {
+    "id": "36315b3cb5b6",
+    "slug": "netflix-kayfiyatga-qarab-kontent-tavsiya-qiluvchi-ai-tabini--36315b",
+    "title": "Netflix kayfiyatga qarab kontent tavsiya qiluvchi AI tabini sinovdan o'tkazmoqda",
+    "summary": "Netflix \"AI Discover\" nomli yangi eksperimental funksiyani sinovdan o'tkazmoqda. Bu funksiya foydalanuvchilarga kayfiyatlariga qarab kontent tavsiyalarini olish imkonini beradi.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 21,
+    "published": "2026-11-03T18:42:16.000Z",
+    "created": "2026-11-03T18:48:28.264Z",
+    "coverage": 2,
+    "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "The Verge",
+        "url": "https://theverge.com/streaming/1025029/netflix-ai-discover-recommendations"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "d47fc09b5606",
+    "slug": "asteroidlarni-burish-modeli-tezroq-ishlaydi-yangi-xavflarni--d47fc0",
+    "title": "Asteroidlarni burish modeli tezroq ishlaydi, yangi xavflarni ko'rsatdi",
+    "summary": "Asteroidlarni burish bo'yicha takomillashtirilgan model tezroq ishlaydi. U kutilganidan ko'ra ko'proq xavflarni aniqladi.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 19,
+    "published": "2026-11-03T17:36:36.000Z",
+    "created": "2026-11-03T18:48:28.265Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/science/2026/11/03/improved-asteroid-deflection-model-runs-faster-reveals-more-doomsday-worries/5307317",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "39622f81d039",
     "slug": "buxoro-neft-zavodida-328-mln-dollarlik-modernizatsiya-39622f",
     "title": "Buxoro neft zavodida 328 mln dollarlik modernizatsiya",
