@@ -1,5 +1,92 @@
 [
   {
+    "id": "08b710f1e780",
+    "slug": "heimstaden-kochmas-mulkni-boshqarishda-aini-qollamoqda-08b710",
+    "title": "Heimstaden ko'chmas mulkni boshqarishda AI'ni qo'llamoqda",
+    "summary": "Heimstaden kompaniyasi Yevropa bo'ylab mulkni boshqarish va xarajatlarni kamaytirish uchun OpenAI'ning ChatGPT Enterprise va Codex vositalaridan foydalanmoqda. Bu orqali xodimlarning imkoniyatlari kengaytirilmoqda.",
+    "tags": [
+      "OpenAI",
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 36,
+    "published": "2026-11-03T08:00:00.000Z",
+    "created": "2026-11-03T11:01:57.086Z",
+    "coverage": 1,
+    "source": {
+      "name": "OpenAI",
+      "url": "https://openai.com/index/heimstaden",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "6fd6ad7938fa",
+    "slug": "openai-bug-bounty-mukofotlari-miqdorini-oshirmoqda-6fd6ad",
+    "title": "OpenAI bug bounty mukofotlari miqdorini oshirmoqda",
+    "summary": "OpenAI kiberxavfsizlik bo'yicha mustaqil tadqiqotchilar uchun Bug Bounty mukofotlarini oshirmoqda. Shuningdek, hisobot sifati, sodiqlik va ustuvor kampaniyalar uchun bonuslar joriy etiladi.",
+    "tags": [
+      "OpenAI",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 31,
+    "published": "2026-11-02T18:00:00.000Z",
+    "created": "2026-11-03T11:01:57.086Z",
+    "coverage": 1,
+    "source": {
+      "name": "OpenAI",
+      "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "daa010733622",
+    "slug": "marvell-optik-tarmoqlar-uchun-fotonikaga-sarmoya-kiritmoqda-daa010",
+    "title": "Marvell optik tarmoqlar uchun fotonikaga sarmoya kiritmoqda",
+    "summary": "Marvell kompaniyasi optik tarmoqlarni rivojlantirish maqsadida fotonika sohasiga sarmoya kiritmoqda. Kompaniya Nvidia va boshqa ishlab chiqaruvchilar yirik tizimlarga o'tishi bilan optikaga talab oshishini kutmoqda.",
+    "tags": [
+      "chiplar",
+      "Nvidia"
+    ],
+    "importance": 3,
+    "score": 17,
+    "published": "2026-11-02T18:02:55.000Z",
+    "created": "2026-11-03T11:01:57.086Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/systems/2026/11/02/marvell-wants-to-be-a-copper-topper-bets-115b-on-photonics-leader-to-push-optical-networking/5307028",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "3fa361c8b64e",
+    "slug": "uorton-iqtisodchisi-ai-boyicha-qarashlari-ozgarganini-aytdi-3fa361",
+    "title": "Uorton iqtisodchisi AI bo'yicha qarashlari o'zgarganini aytdi",
+    "summary": "Uorton moliya bo'yicha dotsenti Silven Katrin sun'iy intellekt iqtisodiyotni rivojlantirishi mumkinligini bildirdi. Biroq u AI poygasi yuqori darajadagi noaniqlik xavfini keltirib chiqarishini ta'kidladi.",
+    "tags": [
+      "iqtisod"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-11-03T10:51:01.000Z",
+    "created": "2026-11-03T11:01:57.086Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/wharton-economist-finance-professor-ai-views-radically-shifted-2026-11",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "1ec3c6dace55",
     "slug": "mohira-asadova-ai-qoshiqlariga-munosabat-bildirdi-1ec3c6",
     "title": "Mohira Asadova AI qo'shiqlariga munosabat bildirdi",
