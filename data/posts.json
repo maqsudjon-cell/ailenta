@@ -1,5 +1,115 @@
 [
   {
+    "id": "6df942a733f7",
+    "slug": "anthropic-s-1-hisobotida-rsi-chegarasiga-yaqinligini-aytdi-6df942",
+    "title": "Anthropic S-1 hisobotida RSI chegarasiga yaqinligini aytdi",
+    "summary": "Anthropic kompaniyasi o'zining S-1 hisobotida RSI (o'z-o'zini takomillashtiruvchi AI) chegarasiga yaqinlashayotganini ma'lum qildi. Kompaniya rivojlanishdagi sezilarli tezlashishni sodir bo'lgandan keyin aniqlay olmasligi mumkinligini ta'kidladi.",
+    "tags": [
+      "Anthropic",
+      "xavfsizlik"
+    ],
+    "importance": 5,
+    "score": 15,
+    "published": "2026-11-02T23:05:00.000Z",
+    "created": "2026-11-03T00:02:11.511Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/261102/p44",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "0fa4ef7744d9",
+    "slug": "ai-ish-usullarini-ozgartirdi-ammo-ofislar-ozgarmadi-0fa4ef",
+    "title": "AI ish usullarini o'zgartirdi, ammo ofislar o'zgarmadi",
+    "summary": "Sun'iy intellekt ish jarayonlarini tubdan o'zgartirganiga qaramay, ko'plab ofis muhitlari va ish joylari avvalgidek qolmoqda. Bu holat AI'ning ishga ta'siri haqida savollar tug'diradi.",
+    "tags": [
+      "mehnat bozori",
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 12.2,
+    "published": "2026-11-02T05:00:06.000Z",
+    "created": "2026-11-03T00:02:11.512Z",
+    "coverage": 1,
+    "source": {
+      "name": "Sifted",
+      "url": "https://sifted.eu/articles/the-future-office-ai",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "7c46500180a4",
+    "slug": "ai-dasturchilar-jamoasida-muammolar-keltirib-chiqardi-7c4650",
+    "title": "AI dasturchilar jamoasida muammolar keltirib chiqardi",
+    "summary": "Sun'iy intellekt kod yozishni arzonlashtirgan bo'lsa-da, dasturchilar jamoasining uchta asosiy jihatini buzdi. Natijada, AI paydo bo'lgandan keyin jamoani boshqarish qiyinlashdi.",
+    "tags": [
+      "mehnat bozori",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 11,
+    "published": "2026-11-02T17:40:53.000Z",
+    "created": "2026-11-03T00:02:11.512Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/companies/otus/articles/1101862",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "fe2068db5eff",
+    "slug": "aini-inson-manfaatlari-bilan-moslashtirish-shubhali-fe2068",
+    "title": "AI'ni inson manfaatlari bilan moslashtirish shubhali",
+    "summary": "Sun'iy intellekt texnologiyalari tez rivojlanayotgani sababli, uning xavfsizligi haqida ogohlantirishlar ko'paymoqda. AI'ni inson manfaatlari bilan moslashtirish (alignment) taklif etilsa-da, bu yondashuv shubhali deb hisoblanmoqda.",
+    "tags": [
+      "xavfsizlik",
+      "tadqiqot"
+    ],
+    "importance": 4,
+    "score": 11,
+    "published": "2026-11-02T15:55:27.000Z",
+    "created": "2026-11-03T00:02:11.512Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1102856",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "569892c55288",
+    "slug": "gpt-rubik-kubi-kriptografik-muammosini-hal-qildi-569892",
+    "title": "GPT Rubik kubi kriptografik muammosini hal qildi",
+    "summary": "Habr nashrida e'lon qilingan Rubik kubidagi shifrlangan xabar bilan bog'liq kriptografik muammoni hech kim yechmagach, GPT chatiga imkoniyat berildi. AI ushbu murakkab vazifani muvaffaqiyatli hal qildi.",
+    "tags": [
+      "tadqiqot",
+      "OpenAI"
+    ],
+    "importance": 2,
+    "score": 11,
+    "published": "2026-11-02T15:42:18.000Z",
+    "created": "2026-11-03T00:02:11.512Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1102854",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "95df259b49dc",
     "slug": "qts-kompaniyasi-yangi-obligatsiyalar-chiqarmoqda-95df25",
     "title": "QTS kompaniyasi yangi obligatsiyalar chiqarmoqda",
