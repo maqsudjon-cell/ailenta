@@ -1,5 +1,54 @@
 [
   {
+    "id": "a4abd1e2a1c1",
+    "slug": "anthropic-hisoblash-xarajatlarida-qiyinchilikka-uchramoqda-a4abd1",
+    "title": "Anthropic hisoblash xarajatlarida qiyinchilikka uchramoqda",
+    "summary": "Anthropic kompaniyasining hisoblash marjalari yaxshilanish o'rniga yomonlashmoqda. Kompaniya hisoblash resurslari iqtisodiyoti bilan bog'liq muammolarni hal qilishga urinmoqda.",
+    "tags": [
+      "Anthropic",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 21,
+    "published": "2026-11-03T17:07:01.000Z",
+    "created": "2026-11-04T00:07:11.703Z",
+    "coverage": 2,
+    "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "TechCrunch",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVXVNOUEtckp5ZnZwTmRXOVVSejA4blBNT1VOdmpOUmhOTE93cUhJRE1wbVRydUMyQTBiVHZENDhGVER1eGY4cDJlRGRMR0xuN3Y1YTNxamdZNmtNMlNBU0szOEVMcFp3N2tsdXBBeTA2Ulp5amtGcndSbnhhVEdXVkg3Z2djLUgzSjdmUmZfSkFWdnNBcDM5TQ"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "769f8c33e56c",
+    "slug": "freshworks-xodimlarni-30-foizga-kamaytirib-1-mlrd-arrga-eris-769f8c",
+    "title": "Freshworks xodimlarni 30 foizga kamaytirib $1 mlrd ARRga erishdi",
+    "summary": "Freshworks kompaniyasi xodimlar sonini 30 foizga qisqartirib, yillik daromadni 1 milliard dollardan oshirdi. Kompaniya rahbari boshlang'ich vazifalarni AIga topshirganini bildirdi.",
+    "tags": [
+      "mehnat bozori",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-11-03T21:15:00.000Z",
+    "created": "2026-11-04T00:07:11.704Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/11/03/freshworks-1-billion-arr-dennis-woodside-ai-what-companies-stop-doing",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "0110f4f23a99",
     "slug": "amd-choraklik-daromad-boyicha-kutilmalardan-oshib-ketdi-0110f4",
     "title": "AMD choraklik daromad bo'yicha kutilmalardan oshib ketdi",
