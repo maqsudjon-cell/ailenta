@@ -1,5 +1,225 @@
 [
   {
+    "id": "6d378d6d5c27",
+    "slug": "o-zbekiston-ai-tadqiqotlari-soni-bo-yicha-qozog-istondan-o-z-6d378d",
+    "title": "O‘zbekiston AI tadqiqotlari soni bo‘yicha Qozog‘istondan o‘zdi",
+    "summary": "O‘zbekistonda AI bo‘yicha ilmiy maqolalar soni 2021-yildagi 26 tadan 2025-yilda 861 taga yetdi. Bu ko‘rsatkich Qozog‘istonnikidan oshib ketdi. MIT tadqiqoti mintaqadagi ilmiy salohiyat va GPU tanqisligini ko‘rsatadi.",
+    "tags": [
+      "O'zbekiston",
+      "tadqiqot"
+    ],
+    "importance": 4,
+    "score": 51,
+    "published": "2026-11-04T12:27:07.000Z",
+    "created": "2026-11-04T15:37:06.931Z",
+    "coverage": 1,
+    "source": {
+      "name": "Pivot",
+      "url": "https://pivot.uz/uz/ozbekiston-ai-tadqiqotlari-soni-boyicha-qozogistondan-ozib-ketdi-mit-tadqiqoti-nimalarni-korsatdi",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "e1dedb839ae8",
+    "slug": "o-zbekistonda-kriminogen-vaziyatni-baholashning-yangi-modeli-e1dedb",
+    "title": "O‘zbekistonda kriminogen vaziyatni baholashning yangi modeli",
+    "summary": "O‘zbekistonda hududlardagi xavfsizlikni baholash uchun \"kriminogen barqarorlik indeksi\" joriy etiladi. Bu indeks aholining xavfsizlik hissi va yashirin jinoyatchilikni hisobga oladi. Jinoyatchilik xavflarini AI yordamida prognozlash ham rejalashtirilmoqda.",
+    "tags": [
+      "O'zbekiston",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 48,
+    "published": "2026-11-04T13:25:58.000Z",
+    "created": "2026-11-04T15:37:06.931Z",
+    "coverage": 1,
+    "source": {
+      "name": "Daryo",
+      "url": "https://daryo.uz/2026/11/04/ozbekistonda-kriminogen-vaziyatni-baholashning-yangi-modeli-joriy-etiladi",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "c755d572a9e5",
+    "slug": "o-zbekistonda-7823-tonna-sifatsiz-yoqilg-i-sotuvi-oldi-olind-c755d5",
+    "title": "O‘zbekistonda 7823 tonna sifatsiz yoqilg‘i sotuvi oldi olindi",
+    "summary": "O‘zenergoinspeksiya 2026-yil boshidan beri 330 holatda 7823 tonna sifatsiz neft mahsulotining sotuvga chiqarilishini oldini oldi. Bu holatlarning 240 tasi AI-92 va AI-95 markali benzinga to‘g‘ri kelgan.",
+    "tags": [
+      "O'zbekiston",
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 48,
+    "published": "2026-11-04T13:20:11.000Z",
+    "created": "2026-11-04T15:37:06.931Z",
+    "coverage": 1,
+    "source": {
+      "name": "Kun.uz",
+      "url": "https://kun.uz/news/2026/11/04/sifatsiz-yonilgi-aniqlangan-330-holatning-240-tasi-benzinga-togri-kelgan-ozenergoinspektsiya-59296",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "75679f5aa60b",
+    "slug": "daybreak-red-aws-govcloud-us-east-hududida-ishga-tushdi-75679f",
+    "title": "Daybreak Red AWS GovCloud (US-East) hududida ishga tushdi",
+    "summary": "Daybreak Red xizmati AWS GovCloud (US-East) hududida mavjud bo‘ldi. U GPT-5.6 Cyber modelini Amazon Bedrock orqali tasdiqlangan mijozlarga kiberxavfsizlik ishlari uchun taqdim etadi.",
+    "tags": [
+      "OpenAI",
+      "bulut"
+    ],
+    "importance": 3,
+    "score": 33,
+    "published": "2026-11-04T07:00:00.000Z",
+    "created": "2026-11-04T15:37:06.931Z",
+    "coverage": 1,
+    "source": {
+      "name": "OpenAI",
+      "url": "https://openai.com/index/daybreak-red-aws-govcloud",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "72e5ebf789e1",
+    "slug": "avstraliya-hukumati-ai-tufayli-yangi-robodebt-xavfi-ostida-72e5eb",
+    "title": "Avstraliya hukumati AI tufayli yangi robodebt xavfi ostida",
+    "summary": "Centre for Public Integrity hisobotiga ko‘ra, Avstraliya hukumati algoritmlar va AI'dan foydalanishda shaffoflik yo‘qligi sababli \"robodebt\" janjaliga duch kelishi mumkin. Hisobot barcha avtomatlashtirilgan qarorlar uchun majburiy audit va ochiq reestr zarurligini ta’kidlaydi.",
+    "tags": [
+      "siyosat",
+      "qonun"
+    ],
+    "importance": 3,
+    "score": 26,
+    "published": "2026-11-04T14:00:37.000Z",
+    "created": "2026-11-04T15:37:06.931Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/australia-news/2026/nov/05/albanese-government-warned-its-sleepwalking-into-another-robodebt-scenario-over-use-of-algorithms-and-ai",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "b07ce855472d",
+    "slug": "avstraliyaliklar-aidan-iqlimdan-koproq-xavotirda-b07ce8",
+    "title": "Avstraliyaliklar AI'dan iqlimdan ko'proq xavotirda",
+    "summary": "Scanlon hisobotiga ko‘ra, avstraliyaliklar kelajak uchun iqlim o‘zgarishi va urushdan ko‘ra AI'dan ko‘proq xavotirda. Biroq, ularning asosiy tashvishlari global iqtisodiy pasayish va yashash xarajatlari bo‘lib qolmoqda.",
+    "tags": [
+      "siyosat",
+      "iqtisod"
+    ],
+    "importance": 3,
+    "score": 26,
+    "published": "2026-11-04T14:00:36.000Z",
+    "created": "2026-11-04T15:37:06.931Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/australia-news/2026/nov/04/social-cohesion-report-australia-cost-of-living-economy-immigration-multiculturalism-ai-ntwnfb",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "68c44263a0af",
+    "slug": "ai-40-yillik-texnik-qarzni-to-lashga-majbur-qilmoqda-68c442",
+    "title": "AI 40 yillik texnik qarzni to‘lashga majbur qilmoqda",
+    "summary": "Sun'iy intellektning rivojlanishi kompaniyalarni 40 yillik texnik qarzlarini to‘lashga majbur qilmoqda. Bu AI'ni samarali qo‘llash uchun eski tizimlarni yangilash zarurligini ko‘rsatadi.",
+    "tags": [
+      "biznes",
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 23,
+    "published": "2026-11-04T11:52:17.000Z",
+    "created": "2026-11-04T15:37:06.931Z",
+    "coverage": 1,
+    "source": {
+      "name": "Hacker News",
+      "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "edbf4ed1a954",
+    "slug": "generativ-ai-asoslari-intuitiv-matematik-qo-llanma-edbf4e",
+    "title": "Generativ AI asoslari: Intuitiv matematik qo‘llanma",
+    "summary": "\"The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer\" nomli kitob nashr etildi. Unda generativ AI'ning matematik asoslari sodda tilda tushuntirilgan.",
+    "tags": [
+      "tadqiqot",
+      "ta'lim"
+    ],
+    "importance": 1,
+    "score": 20.6,
+    "published": "2026-11-03T21:40:53.000Z",
+    "created": "2026-11-04T15:37:06.931Z",
+    "coverage": 1,
+    "source": {
+      "name": "Hacker News",
+      "url": "https://arxiv.org/abs/2605.29713",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "82ca81727e12",
+    "slug": "yuridik-sohada-ananaviy-biznes-modeli-bosim-ostida-82ca81",
+    "title": "Yuridik sohada an'anaviy biznes modeli bosim ostida",
+    "summary": "Yuridik sohaning an'anaviy biznes modeli bosim ostida qolmoqda. Tashqi kapitalga qarshi tabu qayta ko‘rib chiqilishi kerakligi aytilmoqda.",
+    "tags": [
+      "biznes",
+      "qonun"
+    ],
+    "importance": 1,
+    "score": 19,
+    "published": "2026-11-04T13:30:00.000Z",
+    "created": "2026-11-04T15:37:06.931Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/11/04/weil-gotshal-is-a-canary-in-the-legal-coal-mine",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "761261bd1171",
+    "slug": "moliyachilar-ai-xarajatlarini-qayta-ko-rib-chiqishi-kerak-761261",
+    "title": "Moliyachilar AI xarajatlarini qayta ko‘rib chiqishi kerak",
+    "summary": "Ekspertlar moliyaviy direktorlarga investitsiyalarni sinovdan o‘tkazish, likvidlikni mustahkamlash va AI xarajatlarini qayta ko‘rib chiqishni tavsiya etmoqda. Bu qarz olish xarajatlari yengillashmasligi fonida muhim.",
+    "tags": [
+      "iqtisod",
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 19,
+    "published": "2026-11-04T13:00:40.000Z",
+    "created": "2026-11-04T15:37:06.931Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/11/04/midterms-wont-ease-borrowing-costs-heres-what-cfo-should-do-now",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "cf172aa39d54",
     "slug": "yevropada-supermarket-muzlatkichlari-kiberhujumga-uchradi-cf172a",
     "title": "Yevropada supermarket muzlatkichlari kiberhujumga uchradi",
