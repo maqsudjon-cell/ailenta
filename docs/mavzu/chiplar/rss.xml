@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/chiplar/</link>
   <description>&quot;chiplar&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Wed, 04 Nov 2026 08:16:09 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 04 Nov 2026 09:12:16 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/chiplar/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>AMD Intel'dan o'zib ketish arafasida</title>
+    <link>https://ailenta.uz/x/amd-inteldan-ozib-ketish-arafasida-6306f4/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/amd-inteldan-ozib-ketish-arafasida-6306f4/</guid>
+    <pubDate>Wed, 04 Nov 2026 04:24:06 GMT</pubDate>
+    <description>AMD bosh ijrochi direktori kompaniya ta'minot zanjiri ma'lumot markazlari va AIga bo'lgan yuqori talabga bardosh bera olishini aytdi. Kompaniya eng yirik x86 protsessorlar yetkazib beruvchisi sifatida Intel'dan o'zib ketish arafasida turibdi.</description>
+    <category>AMD</category><category>chiplar</category>
+    <media:content url="https://ailenta.uz/og/amd-inteldan-ozib-ketish-arafasida-6306f4.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/amd-inteldan-ozib-ketish-arafasida-6306f4.jpg"/>
+  </item>
   <item>
     <title>AMD choraklik daromad bo'yicha kutilmalardan oshib ketdi</title>
     <link>https://ailenta.uz/x/amd-choraklik-daromad-boyicha-kutilmalardan-oshib-ketdi-0110f4/</link>
@@ -296,16 +306,6 @@
     <category>chiplar</category><category>biznes</category>
     <media:content url="https://ailenta.uz/og/ai-chiplari-ortidagi-kompaniya-katta-yutuqqa-erishishi-mumki-93c942.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/ai-chiplari-ortidagi-kompaniya-katta-yutuqqa-erishishi-mumki-93c942.jpg"/>
-  </item>
-  <item>
-    <title>Intel rahbariyati AI chiplari talabi haqida intervyu berdi</title>
-    <link>https://ailenta.uz/x/intel-rahbariyati-ai-chiplari-talabi-haqida-intervyu-berdi-a108e2/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/intel-rahbariyati-ai-chiplari-talabi-haqida-intervyu-berdi-a108e2/</guid>
-    <pubDate>Fri, 23 Oct 2026 11:45:14 GMT</pubDate>
-    <description>Intel rahbariyati, jumladan CTO Pushkar Ranade, AI chiplariga bo‘lgan talab, 10nm texnologiyasidan olingan saboqlar va TSMC'ga yetib olish imkoniyatlari haqida intervyu berdi. Intervyu davomida Intelning ilg‘or zavodi ko‘zdan kechirildi.</description>
-    <category>Intel</category><category>chiplar</category>
-    <media:content url="https://ailenta.uz/og/intel-rahbariyati-ai-chiplari-talabi-haqida-intervyu-berdi-a108e2.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/intel-rahbariyati-ai-chiplari-talabi-haqida-intervyu-berdi-a108e2.jpg"/>
   </item>
 </channel>
 </rss>

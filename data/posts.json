@@ -1,5 +1,140 @@
 [
   {
+    "id": "6306f482a642",
+    "slug": "amd-inteldan-ozib-ketish-arafasida-6306f4",
+    "title": "AMD Intel'dan o'zib ketish arafasida",
+    "summary": "AMD bosh ijrochi direktori kompaniya ta'minot zanjiri ma'lumot markazlari va AIga bo'lgan yuqori talabga bardosh bera olishini aytdi. Kompaniya eng yirik x86 protsessorlar yetkazib beruvchisi sifatida Intel'dan o'zib ketish arafasida turibdi.",
+    "tags": [
+      "AMD",
+      "chiplar"
+    ],
+    "importance": 4,
+    "score": 22,
+    "published": "2026-11-04T04:24:06.000Z",
+    "created": "2026-11-04T09:01:51.055Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/systems/2026/11/04/amd-on-track-to-overtake-intel-as-biggest-x86-outfit/5307448",
+      "title": "AMD on track to overtake Intel as biggest x86 outfit",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "51819f0e1215",
+    "slug": "ogayo-shtatida-ai-malumot-markazlariga-taqiqlar-kopaymoqda-51819f",
+    "title": "Ogayo shtatida AI ma'lumot markazlariga taqiqlar ko'paymoqda",
+    "summary": "Ogayo shtatida AI infratuzilmasiga nisbatan 125 ta mahalliy taqiq mavjud. O'tkazilgan 21 ta ovoz berish natijalariga ko'ra, ma'lumot markazlari qurilishiga qarshi cheklovlar soni yanada ortishi kutilmoqda.",
+    "tags": [
+      "iqtisod",
+      "siyosat"
+    ],
+    "importance": 3,
+    "score": 22,
+    "published": "2026-11-04T06:35:39.000Z",
+    "created": "2026-11-04T09:02:02.562Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/11/04/ohio-data-center-ballot-measures-midterm-elections",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "67d4444f06e0",
+    "slug": "anthropic-javoblarni-tekshiruvchi-flashproveni-taqdim-etdi-67d444",
+    "title": "Anthropic javoblarni tekshiruvchi FlashProve'ni taqdim etdi",
+    "summary": "Anthropic kompaniyasi sun'iy intellekt modellarining javoblarini tekshirish uchun FlashProve vositasini taqdim etdi. Ushbu yangi ishlanma model bergan javoblarning to'g'riligini tasdiqlashga yordam beradi.",
+    "tags": [
+      "Anthropic",
+      "tadqiqot"
+    ],
+    "importance": 4,
+    "score": 19,
+    "published": "2026-11-04T02:00:00.000Z",
+    "created": "2026-11-04T09:02:02.562Z",
+    "coverage": 2,
+    "source": {
+      "name": "TronWeekly",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBBOEJiSDZyS2dLWWlhbll4YnRSZ2ota1dmOG9GUG5RYW1iNUtvS3JfOGJtVFpXdXU5b3FDREhheG1xeXdwTUVoTlR3RmJkanVWd2doZHI2Z2FIM1BDQ0F6bXUzNXNCTFZJVkMwUHpUeUhsRFduRThTY3pR",
+      "indirect": true
+    },
+    "also": [
+      {
+        "name": "UA.NEWS",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMlRhend4ZzB1aXdVbF9VQk40a3BXWjd6MzZRUGpUYnNBYVF2M3pIclk4ZnFCOTUwUFQ5Z2FDUHBHbmRuZlZGay1Dbl9jTGQwVXY2UVBtbUQ4S2VUWFJqRTdRMkQtMExjOHRWbEV0Z211ZHoxRGstdElUWGxmeUMyN3k1dnBwanpwVkdibF9MVU5vTnlUMm11Q1ZSSlFpT3FSd2Z4cWtXVGQ"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "0ee0672481de",
+    "slug": "bytedancening-seedance-modeli-daromadi-xorijdan-kelmoqda-0ee067",
+    "title": "ByteDance'ning Seedance modeli daromadi xorijdan kelmoqda",
+    "summary": "ByteDance kompaniyasining Seedance video yaratish modeli daromadining 50 foizi xorijiy bozorlar hissasiga to'g'ri kelmoqda. O'tgan olti oy ichida modelning xorijdagi daromadi qariyb besh baravarga oshgan.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 18,
+    "published": "2026-11-04T07:58:51.000Z",
+    "created": "2026-11-04T09:02:02.563Z",
+    "coverage": 1,
+    "source": {
+      "name": "TechNode",
+      "url": "https://technode.com/2026/11/04/overseas-markets-reportedly-account-for-half-of-seedance-revenue",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "9c6315022ac0",
+    "slug": "valve-steam-platformasida-oyinlar-qoidalarini-ozgartirdi-9c6315",
+    "title": "Valve Steam platformasida o'yinlar qoidalarini o'zgartirdi",
+    "summary": "Valve kompaniyasi AI yordamida yaratilgan o'yinlar oqimi sababli Steam platformasida o'yinlarni chiqarish qoidalarini yangiladi. Bu chora tasdiqlash navbatlaridagi tiqilinchlarni kamaytirishga qaratilgan.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-11-04T08:28:09.000Z",
+    "created": "2026-11-04T09:02:02.563Z",
+    "coverage": 1,
+    "source": {
+      "name": "Engadget",
+      "url": "https://engadget.com/2306215/valve-changed-its-steam-release-rules-amid-a-flood-of-ai-games",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "85c73b966dde",
+    "slug": "tencent-ai-qidiruv-tizimini-chiqarishga-hozirlik-kormoqda-85c73b",
+    "title": "Tencent AI qidiruv tizimini chiqarishga hozirlik ko'rmoqda",
+    "summary": "Tencent kompaniyasi internet qidiruvi va AI javoblarini birlashtirgan yangi qidiruv tizimini ishga tushirishga hozirlik ko'rmoqda. Yangi mahsulot sodda interfeysga ega bo'lib, ishonchli manbalarga ustuvorlik beradi.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-11-04T08:02:17.000Z",
+    "created": "2026-11-04T09:02:02.563Z",
+    "coverage": 1,
+    "source": {
+      "name": "TechNode",
+      "url": "https://technode.com/2026/11/04/tencent-reportedly-preparing-consumer-ai-search-engine",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "7f0749eec394",
     "slug": "canva-xodimlarning-22-foizini-qisqartirishini-elon-qildi-7f0749",
     "title": "Canva xodimlarning 22 foizini qisqartirishini e'lon qildi",
