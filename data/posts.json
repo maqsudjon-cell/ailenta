@@ -1,5 +1,76 @@
 [
   {
+    "id": "aced40dc9aba",
+    "slug": "demokratlar-g-alabasi-aqsh-ai-datacentrlariga-tasir-qilishi--aced40",
+    "title": "Demokratlar g‘alabasi AQSH AI datacentrlariga ta’sir qilishi mumkin",
+    "summary": "Texas, Jorjiya, Ogayo va Pensilvaniyada demokratlarning gubernatorlik saylovlaridagi g‘alabalari AQSHdagi AI datacentrlarining 50% loyihalarini ko‘proq tekshiruv va qarshiliklarga duchor qilishi mumkin. Bu holat ma’lumot markazlari quruvchilari uchun qiyinchilik tug‘dirishi kutilmoqda.",
+    "tags": [
+      "siyosat",
+      "bulut"
+    ],
+    "importance": 3,
+    "score": 21,
+    "published": "2026-11-04T06:55:07.000Z",
+    "created": "2026-11-04T09:37:41.871Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/261104/p6",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "855688c450b2",
+    "slug": "anthropic-o-z-o-zini-rivojlantiruvchi-ai-imkoniyatiga-yaqin-855688",
+    "title": "Anthropic o‘z-o‘zini rivojlantiruvchi AI imkoniyatiga yaqin",
+    "summary": "Anthropic kompaniyasi o‘z-o‘zini rivojlantiruvchi sun'iy intellekt (RSI) imkoniyatiga juda yaqin ekanligini ma’lum qildi. Bu AI o‘zini o‘zi o‘qitishda shunchalik yaxshilanadiki, uning imkoniyatlari keskin tezlashadi.",
+    "tags": [
+      "Anthropic",
+      "tadqiqot"
+    ],
+    "importance": 5,
+    "score": 17.7,
+    "published": "2026-11-02T22:14:50.000Z",
+    "created": "2026-11-04T09:37:41.871Z",
+    "coverage": 2,
+    "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "TechCrunch",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPa0VUSzBwdmlqRHY0N1duclMzOVBhVk5FbjllcHNiX0ludVpmX25neDhaWlFLUmx4R21mY20wNjVOVE1uZUdDajNzNDNHdGkwY3BvYVpMOFI5cmF4TWRDaUppTmJrTE5NaHJPbmdkWWJEWGJPNmNyVl9ZUE1Lb1U5WV9PckEzd3RMZzhVMW53cHBSMHh2Y2VDU2tnY3BoMFpZczdObkp1VEV4ZXNfWUE"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "489a4163d879",
+    "slug": "demokratlar-kongressda-g-alaba-qozondi-osiyo-texno-aksiyalar-489a41",
+    "title": "Demokratlar Kongressda g‘alaba qozondi, Osiyo texno aksiyalari tushdi",
+    "summary": "AQSH Kongressida demokratlarning g‘alabasi Osiyo texnologiya aksiyalarining pasayishiga olib keldi. Investorlar Trampning AI infratuzilmasi va kripto bo‘yicha siyosiy kun tartibiga asoslangan savdolarni qayta ko‘rib chiqmoqda.",
+    "tags": [
+      "siyosat",
+      "iqtisod"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-11-04T06:15:04.000Z",
+    "created": "2026-11-04T09:37:41.871Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/261104/p3",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "6306f482a642",
     "slug": "amd-inteldan-ozib-ketish-arafasida-6306f4",
     "title": "AMD Intel'dan o'zib ketish arafasida",
