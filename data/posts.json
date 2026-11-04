@@ -1,5 +1,49 @@
 [
   {
+    "id": "f3846775ebd2",
+    "slug": "drax-britaniyada-20-mlrd-funtlik-datamarkaz-qurmoqchi-f38467",
+    "title": "Drax Britaniyada 20 mlrd funtlik datamarkaz qurmoqchi",
+    "summary": "Drax kompaniyasi Buyuk Britaniyadagi elektr stansiyasida 20 milliard funtlik ma'lumot markazi qurishni rejalashtirmoqda. Loyihani amalga oshirish uchun rejalashtirish ruxsati, hukumat ma'qullashi va mijoz topish talab etiladi.",
+    "tags": [
+      "bulut",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 16.1,
+    "published": "2026-11-03T13:27:33.000Z",
+    "created": "2026-11-04T16:21:52.419Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/on-prem/2026/11/03/drax-wants-to-feed-britains-ai-habit-with-20b-datacenter-at-biomass-power-station/5307237",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "3a25e7bbcd42",
+    "slug": "claude-o-ziga-kiritilgan-tushunchalarni-seza-oladi-3a25e7",
+    "title": "Claude o‘ziga kiritilgan tushunchalarni seza oladi",
+    "summary": "Anthropic tadqiqotchisi Claude modelida muayyan tushunchalar faolligini sun'iy oshirib tajriba o‘tkazdi. Model 20 foiz holatda kiritilgan aralashuvni to‘g‘ri sezgan va tushunchani aniq aytib bergan.",
+    "tags": [
+      "Anthropic",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 14,
+    "published": "2026-11-04T16:09:21.000Z",
+    "created": "2026-11-04T16:21:52.419Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1103596",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "6d378d6d5c27",
     "slug": "o-zbekiston-ai-tadqiqotlari-soni-bo-yicha-qozog-istondan-o-z-6d378d",
     "title": "O‘zbekiston AI tadqiqotlari soni bo‘yicha Qozog‘istondan o‘zdi",
