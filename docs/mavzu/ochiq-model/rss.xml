@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/ochiq-model/</link>
   <description>&quot;ochiq model&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Wed, 04 Nov 2026 19:13:22 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 04 Nov 2026 20:12:24 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/ochiq-model/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Datasette Apps 0.3a0 versiyasi chiqarildi</title>
+    <link>https://ailenta.uz/x/datasette-apps-0-3a0-versiyasi-chiqarildi-42f481/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/datasette-apps-0-3a0-versiyasi-chiqarildi-42f481/</guid>
+    <pubDate>Wed, 04 Nov 2026 00:29:36 GMT</pubDate>
+    <description>Datasette Apps 0.3a0 versiyasi e'lon qilindi. Bu versiya Datasette ichida HTML ilovalarini joylashtirish va tahrirlash imkonini beradi. U Datasette Agent orqali LLM yordamida ilovalar yaratishni osonlashtiradi.</description>
+    <category>tadqiqot</category><category>ochiq model</category>
+    <media:content url="https://ailenta.uz/og/datasette-apps-0-3a0-versiyasi-chiqarildi-42f481.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/datasette-apps-0-3a0-versiyasi-chiqarildi-42f481.jpg"/>
+  </item>
   <item>
     <title>TBook formati va uning ekotizimi rivojlanmoqda</title>
     <link>https://ailenta.uz/x/tbook-formati-va-uning-ekotizimi-rivojlanmoqda-358223/</link>
@@ -296,16 +306,6 @@
     <category>tadqiqot</category><category>ochiq model</category>
     <media:content url="https://ailenta.uz/og/mws-ai-vision-bench-sinov-to-plamiga-antifrod-qo-shildi-14e17f.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/mws-ai-vision-bench-sinov-to-plamiga-antifrod-qo-shildi-14e17f.jpg"/>
-  </item>
-  <item>
-    <title>AI qaror modellari kontent moderatsiyasini o'zgartirishi mumkin</title>
-    <link>https://ailenta.uz/x/ai-qaror-modellari-kontent-moderatsiyasini-ozgartirishi-mumk-219649/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/ai-qaror-modellari-kontent-moderatsiyasini-ozgartirishi-mumk-219649/</guid>
-    <pubDate>Tue, 06 Oct 2026 20:35:20 GMT</pubDate>
-    <description>Musubi kompaniyasi real vaqt rejimida moderatsiya qilish uchun mo'ljallangan PolicyLM-1.7B nomli yengil qaror modelini e'lon qildi. Bu AI qaror modellari kontent moderatsiyasini o'zgartirishi mumkin.</description>
-    <category>ochiq model</category><category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/ai-qaror-modellari-kontent-moderatsiyasini-ozgartirishi-mumk-219649.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/ai-qaror-modellari-kontent-moderatsiyasini-ozgartirishi-mumk-219649.jpg"/>
   </item>
 </channel>
 </rss>

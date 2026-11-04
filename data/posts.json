@@ -1,5 +1,181 @@
 [
   {
+    "id": "4fbbac825ceb",
+    "slug": "ai-2026-yilgi-oraliq-saylov-natijalariga-tasir-qilmoqda-4fbbac",
+    "title": "AI 2026-yilgi oraliq saylov natijalariga ta'sir qilmoqda",
+    "summary": "Sun'iy intellekt, texnologiya va ma'lumot markazlari 2026-yilgi oraliq saylovlarda muhim rol o‘ynamoqda. Bu omillar AQSHning bir qancha shtatlaridagi saylov natijalariga ta'sir ko‘rsatmoqda.",
+    "tags": [
+      "siyosat",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-11-04T19:56:44.000Z",
+    "created": "2026-11-04T20:02:01.330Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/midterms-key-races-election-night-results-2026-2026-11",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "f1f26a9d7d87",
+    "slug": "duckduckgo-googlening-ai-siyosatidan-norozi-maktablarga-muro-f1f26a",
+    "title": "DuckDuckGo Google'ning AI siyosatidan norozi maktablarga murojaatda",
+    "summary": "DuckDuckGo Google'ning AI cheklovlaridan norozi maktablarga o‘z qidiruv tizimini taklif qilmoqda. Kompaniya o‘qituvchilarga AI funksiyalarini o‘chirish imkoniyatini ko‘rsatmoqda.",
+    "tags": [
+      "Google",
+      "ta'lim"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-11-04T19:29:52.000Z",
+    "created": "2026-11-04T20:02:01.330Z",
+    "coverage": 1,
+    "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "7326ddedf7ec",
+    "slug": "ai-rivoji-optik-tolaga-talabni-oshirmoqda-7326dd",
+    "title": "AI rivoji optik tolaga talabni oshirmoqda",
+    "summary": "Sun'iy intellektning jadal rivojlanishi optik tolali tarmoqlarga bo‘lgan talabni oshirmoqda. Ma'lumot markazlarida ko‘proq optik tola zarur bo‘lib, yetkazib beruvchilar bu talabni qondirishga harakat qilmoqda.",
+    "tags": [
+      "biznes",
+      "chiplar"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-11-04T19:02:04.000Z",
+    "created": "2026-11-04T20:02:01.330Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/fiber-manufacturers-are-ramping-up-to-meet-data-center-demand-2026-11",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "89272e1a67f6",
+    "slug": "texnologiya-nashrlari-ai-davrida-omon-qola-oladimi-89272e",
+    "title": "Texnologiya nashrlari AI davrida omon qola oladimi",
+    "summary": "Sifted nashri sun'iy intellekt va influencerlarning yuksalishi sharoitida texnologiya nashrlari o‘z faoliyatini davom ettira oladimi, degan savolni o‘rtaga tashladi. Maqolada bu mavzu muhokama qilingan.",
+    "tags": [
+      "biznes",
+      "media"
+    ],
+    "importance": 1,
+    "score": 13.8,
+    "published": "2026-11-04T05:00:07.000Z",
+    "created": "2026-11-04T20:02:01.330Z",
+    "coverage": 1,
+    "source": {
+      "name": "Sifted",
+      "url": "https://sifted.eu/articles/tech-media-future-etn-20vc-sifted-summit",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "42f4810ce572",
+    "slug": "datasette-apps-0-3a0-versiyasi-chiqarildi-42f481",
+    "title": "Datasette Apps 0.3a0 versiyasi chiqarildi",
+    "summary": "Datasette Apps 0.3a0 versiyasi e'lon qilindi. Bu versiya Datasette ichida HTML ilovalarini joylashtirish va tahrirlash imkonini beradi. U Datasette Agent orqali LLM yordamida ilovalar yaratishni osonlashtiradi.",
+    "tags": [
+      "tadqiqot",
+      "ochiq model"
+    ],
+    "importance": 2,
+    "score": 12,
+    "published": "2026-11-04T00:29:36.000Z",
+    "created": "2026-11-04T20:02:01.330Z",
+    "coverage": 1,
+    "source": {
+      "name": "Simon Willison",
+      "url": "https://simonwillison.net/2026/Nov/4/datasette-apps",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "4a5440967965",
+    "slug": "ai-pufakchasi-qachon-yoriladi-the-verge-muhokamasi-4a5440",
+    "title": "AI pufakchasi qachon yoriladi: The Verge muhokamasi",
+    "summary": "The Verge nashri muallifi AI pufakchasi qachon yorilishi haqidagi savollardan charchaganini bildirdi. Uning ta'kidlashicha, agar bu savolga javobni bilsa, bozorda katta pul tikkan bo‘lardi.",
+    "tags": [
+      "iqtisod",
+      "biznes"
+    ],
+    "importance": 1,
+    "score": 11.6,
+    "published": "2026-11-03T23:37:45.000Z",
+    "created": "2026-11-04T20:02:01.330Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Verge",
+      "url": "https://theverge.com/ai-artificial-intelligence/1025826/ai-bubble-pimco-apollo-bonds",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "0091e9d8a5d7",
+    "slug": "loyihalar-kontekstini-repozitoriyda-saqlash-usuli-0091e9",
+    "title": "Loyihalar kontekstini repozitoriyda saqlash usuli",
+    "summary": "Habr nashri muallifi loyiha kontekstini chatda emas, repozitoriyda saqlashni taklif qildi. U \"GRACE\" metodikasiga asoslangan \"doubled-graph\" utilitasini ishlab chiqqanini ma'lum qildi.",
+    "tags": [
+      "tadqiqot",
+      "dasturlash"
+    ],
+    "importance": 2,
+    "score": 11,
+    "published": "2026-11-04T17:55:31.000Z",
+    "created": "2026-11-04T20:02:01.330Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1103614",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "d8711ed97078",
+    "slug": "ai-chatbot-villanova-bitiruvchilariga-papa-leo-bilan-uchrash-d8711e",
+    "title": "AI chatbot Villanova bitiruvchilariga Papa Leo bilan uchrashishga yordam berdi",
+    "summary": "Times Union nashrining xabar berishicha, sun'iy intellektga asoslangan chatbot Villanova universiteti bitiruvchilariga Papa Leo bilan uchrashishga yordam bergan. Bu g‘ayrioddiy voqea muhokamalarga sabab bo‘ldi.",
+    "tags": [
+      "tadqiqot",
+      "ijtimoiy"
+    ],
+    "importance": 1,
+    "score": 10,
+    "published": "2026-11-04T11:05:43.000Z",
+    "created": "2026-11-04T20:02:01.330Z",
+    "coverage": 1,
+    "source": {
+      "name": "Times Union",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObld3SjRWNVk3TWt6c1JhdkxxRVdsM3NERTV5eGhBSmhuc2hCTXZ0R2FKS2xKMGNBZjRQNG1fQ0p5VzVWeXBWSzE1dFRBYlNUTV9Ed0QwY1U1MWlPekUteXgxWTNlNkJLeTVDVjJKWkJmMWNacFZJYXdSRnAyYjFXTUNrcU9kdDUyVXgydlZMWHBzTDRmMUJB",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "e5014ca6bf02",
     "slug": "ai-yordamida-webb-malumotlarida-yashirin-sayyora-topildi-e5014c",
     "title": "AI yordamida Webb ma'lumotlarida yashirin sayyora topildi",
