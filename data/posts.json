@@ -1,5 +1,71 @@
 [
   {
+    "id": "cf172aa39d54",
+    "slug": "yevropada-supermarket-muzlatkichlari-kiberhujumga-uchradi-cf172a",
+    "title": "Yevropada supermarket muzlatkichlari kiberhujumga uchradi",
+    "summary": "Bir qancha Yevropa mamlakatlarida supermarket muzlatkichlari kiberhujum tufayli ishdan chiqdi. Yevropa Ittifoqi buni oziq-ovqat ta’minotini buzishga qaratilgan harakat deb qoraladi. Buyuk Britaniya kiberxavfsizlik tashkiloti AI yordamida hujumlar 2028-yilgacha kuchayishidan ogohlantirdi.",
+    "tags": [
+      "xavfsizlik",
+      "siyosat"
+    ],
+    "importance": 4,
+    "score": 20.5,
+    "published": "2026-11-03T18:21:30.000Z",
+    "created": "2026-11-04T12:37:00.347Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/news/audio/2026/nov/03/cold-war-why-are-fridges-being-hacked-and-what-could-be-next-the-latest",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "5d68d32feca3",
+    "slug": "nigeriya-saylovchilar-ro-yxatidan-ai-yaratgan-malumot-topild-5d68d3",
+    "title": "Nigeriya saylovchilar ro‘yxatidan AI yaratgan ma’lumot topildi",
+    "summary": "Nigeriya saylovchilar ro‘yxatida sun'iy intellekt tomonidan yaratilgan ma’lumotlar aniqlandi. Bu holat yanvar oyidagi prezidentlik saylovlari yaxlitligiga bo‘lgan ishonchni yanada pasaytirish xavfini tug‘diradi.",
+    "tags": [
+      "siyosat",
+      "xavfsizlik"
+    ],
+    "importance": 4,
+    "score": 19,
+    "published": "2026-11-04T12:13:34.000Z",
+    "created": "2026-11-04T12:37:00.347Z",
+    "coverage": 1,
+    "source": {
+      "name": "Semafor",
+      "url": "https://semafor.com/article/11/04/2026/ai-generated-data-found-on-nigeria-voter-roll",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "8bedfb614617",
+    "slug": "braziliya-sudi-metaning-ai-o-qitishini-chekladi-8bedfb",
+    "title": "Braziliya sudi Meta’ning AI o‘qitishini chekladi",
+    "summary": "Braziliya sudi Meta kompaniyasining mahalliy OAV materiallaridan AI o‘qitishda foydalanishini chekladi. Bu qaror prezident Lula da Silvaning Meta saylovlarda raqibini qo‘llab-quvvatlagani haqidagi da’volaridan so‘ng qabul qilindi.",
+    "tags": [
+      "Meta",
+      "sud"
+    ],
+    "importance": 4,
+    "score": 19,
+    "published": "2026-11-04T11:37:45.000Z",
+    "created": "2026-11-04T12:37:00.347Z",
+    "coverage": 1,
+    "source": {
+      "name": "Semafor",
+      "url": "https://semafor.com/article/11/04/2026/brazilian-court-curbs-metas-use-of-local-media-to-train-ai",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "228f75686949",
     "slug": "polsha-ishbilarmonlari-delegatsiyasi-toshkentga-keldi-228f75",
     "title": "Polsha ishbilarmonlari delegatsiyasi Toshkentga keldi",
