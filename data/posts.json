@@ -1,5 +1,178 @@
 [
   {
+    "id": "a4f4c423c542",
+    "slug": "openai-linux-kernelidagi-948-zaiflikni-bartaraf-etdi-a4f4c4",
+    "title": "OpenAI Linux kernelidagi 948 zaiflikni bartaraf etdi",
+    "summary": "OpenAI Linux kernelida 948 ta mahalliy imtiyozlarni oshirish zaifliklarini topdi. Kompaniya avtonom tizim yordamida bu zaifliklar uchun yamoqlar yaratdi va tasdiqladi.",
+    "tags": [
+      "OpenAI",
+      "xavfsizlik"
+    ],
+    "importance": 4,
+    "score": 31.8,
+    "published": "2026-11-04T08:00:00.000Z",
+    "created": "2026-11-04T23:04:05.183Z",
+    "coverage": 1,
+    "source": {
+      "name": "OpenAI",
+      "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "d0229837e66a",
+    "slug": "figma-ai-funksiyalarini-mijozlarga-bepul-taqdim-etmoqda-d02298",
+    "title": "Figma AI funksiyalarini mijozlarga bepul taqdim etmoqda",
+    "summary": "Figma mijozlariga ko‘proq AI funksiyalaridan bir xil narxda foydalanish imkonini bermoqda. Kompaniya bu harakat uzoq muddatda natijalarni yaxshilashiga umid qilmoqda.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 22,
+    "published": "2026-11-04T23:00:03.000Z",
+    "created": "2026-11-04T23:04:05.184Z",
+    "coverage": 1,
+    "source": {
+      "name": "CNBC",
+      "url": "https://cnbc.com/2026/11/04/figma-fig-q3-earnings-report-2026.html",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "85a105547bed",
+    "slug": "fransiyada-qon-xizmatiga-kiberhujum-uyushtirildi-85a105",
+    "title": "Fransiyada qon xizmatiga kiberhujum uyushtirildi",
+    "summary": "Fransiyaning milliy qon xizmatiga xakerlar hujum qildi. Bu AI yordamida kiberurush xavotirlari kuchaygan bir paytda sodir bo‘ldi.",
+    "tags": [
+      "xavfsizlik",
+      "siyosat"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-11-04T22:44:56.000Z",
+    "created": "2026-11-04T23:04:05.184Z",
+    "coverage": 1,
+    "source": {
+      "name": "Semafor",
+      "url": "https://semafor.com/article/11/04/2026/cyberattacks-in-europe-target-supermarkets-blood-banks",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "d482131a72d5",
+    "slug": "apple-siri-ai-ilova-integratsiyasini-sinovdan-o-tkazmoqda-d48213",
+    "title": "Apple Siri AI ilova integratsiyasini sinovdan o‘tkazmoqda",
+    "summary": "Apple ikki yildan ko‘proq vaqt o‘tgach, ishlab chiquvchilarga Siri AI ilova integratsiyasini sinovdan o‘tkazishga ruxsat berdi. Bu funksiya 2024-yilda va'da qilingan edi.",
+    "tags": [
+      "Apple",
+      "agentlar"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-11-04T20:56:16.000Z",
+    "created": "2026-11-04T23:04:05.184Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/ai-and-ml/2026/11/04/hey-siri-plug-into-my-app-like-you-said-youd-do-way-back-in-2024/5307659",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "05c8795b9082",
+    "slug": "jaron-lanier-ai-va-ijtimoiy-tarmoqlar-o-xshashliklari-haqida-05c879",
+    "title": "Jaron Lanier AI va ijtimoiy tarmoqlar o‘xshashliklari haqida",
+    "summary": "Jaron Lanier sun'iy intellekt va ijtimoiy tarmoqlar o‘rtasidagi o‘xshashliklar haqida fikr bildirdi. Bu mavzu Hacker News nashrida muhokama qilindi.",
+    "tags": [
+      "tadqiqot",
+      "maxfiylik"
+    ],
+    "importance": 2,
+    "score": 16.7,
+    "published": "2026-11-04T14:10:14.000Z",
+    "created": "2026-11-04T23:04:05.184Z",
+    "coverage": 1,
+    "source": {
+      "name": "Hacker News",
+      "url": "https://youtube.com/watch?v=WxaRn8kX2eI",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "4e9ac309da83",
+    "slug": "ai-agentlarini-orkestratsiya-qilish-uchun-yangi-plagin-4e9ac3",
+    "title": "AI agentlarini orkestratsiya qilish uchun yangi plagin",
+    "summary": "Habr nashri AI agentlarini orkestratsiya qilish muammolarini muhokama qildi. Maqolada Claude Code va Codex uchun \"pepper-orchestrator\" plaginining ishlash prinsipi tushuntirilgan. Bu plagin vazifalarni bo‘lib, agentlar orasida taqsimlaydi va mustaqil tekshiruvdan o‘tkazadi.",
+    "tags": [
+      "agentlar",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 11,
+    "published": "2026-11-04T21:50:23.000Z",
+    "created": "2026-11-04T23:04:05.184Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1103656",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "426acebaf05e",
+    "slug": "omnimodal-vektor-tasvirlar-bo-yicha-yangi-tadqiqot-426ace",
+    "title": "Omnimodal vektor tasvirlar bo‘yicha yangi tadqiqot",
+    "summary": "arXiv'da omnimodal vektor tasvirlar bo‘yicha yangi tadqiqot e'lon qilindi. Unda vektor tasvir modellarini tadqiq qilishdagi parchalanish va ularning umumiy prinsiplarga yaqinlashuvi muhokama qilingan.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 7.6,
+    "published": "2026-11-04T05:00:00.000Z",
+    "created": "2026-11-04T23:04:05.184Z",
+    "coverage": 1,
+    "source": {
+      "name": "arXiv cs.CL",
+      "url": "https://arxiv.org/abs/2611.00172",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "8dcc15b5d747",
+    "slug": "yangi-ai-laboratoriyasi-muhim-yutuqni-elon-qildi-8dcc15",
+    "title": "Yangi AI laboratoriyasi muhim yutuqni e'lon qildi",
+    "summary": "Professor Jeyms Uittington va doktor Ruairidh Battleday yashirin AI laboratoriyasidan muhim yutuqni taqdim etdi. Bu haqda Sifted nashri xabar berdi.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 6.1,
+    "published": "2026-11-03T12:40:06.000Z",
+    "created": "2026-11-04T23:04:05.184Z",
+    "coverage": 1,
+    "source": {
+      "name": "Sifted",
+      "url": "https://sifted.eu/articles/breakthrough-from-stealth-frontier-ai-lab-brnd",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "be5008f37aa9",
     "slug": "anthropic-ai-verifikatsiya-texnologiyasini-taqdim-etdi-be5008",
     "title": "Anthropic AI verifikatsiya texnologiyasini taqdim etdi",
