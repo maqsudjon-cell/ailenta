@@ -1,5 +1,93 @@
 [
   {
+    "id": "228f75686949",
+    "slug": "polsha-ishbilarmonlari-delegatsiyasi-toshkentga-keldi-228f75",
+    "title": "Polsha ishbilarmonlari delegatsiyasi Toshkentga keldi",
+    "summary": "Polsha Savdo palatasi prezidenti Andjey Arendarskiy boshchiligidagi delegatsiya O‘zbekistonga tashrif buyurdi. Ular O‘zbekiston bilan savdo, investitsiya va sanoat hamkorligini kengaytirishni rejalashtirmoqda.",
+    "tags": [
+      "O'zbekiston",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 44,
+    "published": "2026-11-04T10:45:00.000Z",
+    "created": "2026-11-04T11:38:34.583Z",
+    "coverage": 1,
+    "source": {
+      "name": "UzDaily",
+      "url": "https://uzdaily.uz/uz/to%C5%9Fkentga-pol%C5%9Fa-i%C5%9Fbilarmonlari-delegatsiyasi-keldi",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "cb9694261944",
+    "slug": "adnoc-o-z-faoliyatida-ai-qo-llashni-kengaytiradi-cb9694",
+    "title": "ADNOC o‘z faoliyatida AI qo‘llashni kengaytiradi",
+    "summary": "ADNOC kompaniyasi o‘z faoliyatida sun'iy intellektdan foydalanishni kengaytirmoqda. Bu qaror kompaniyaning barqarorligini mustahkamlashga qaratilgan.",
+    "tags": [
+      "biznes",
+      "iqtisod"
+    ],
+    "importance": 2,
+    "score": 19,
+    "published": "2026-11-04T11:00:33.000Z",
+    "created": "2026-11-04T11:38:34.583Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/11/04/adnoc-to-expand-ai-use-across-its-operations-to-strengthen-resilience",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "b45d2a79843a",
+    "slug": "microsoft-ai-pclarni-targ-ib-qilishda-davom-etmoqda-b45d2a",
+    "title": "Microsoft AI PC'larni targ‘ib qilishda davom etmoqda",
+    "summary": "Microsoft kompaniyasi yuqori RAM narxlari va cheklangan byudjetlarga qaramay, AI PC'larni faol ravishda targ‘ib qilmoqda. Kompaniya rahbariyati sotuvlarni oshirish uchun ijodiy yondashuvlardan foydalanmoqda.",
+    "tags": [
+      "Microsoft",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-11-04T10:15:00.000Z",
+    "created": "2026-11-04T11:38:34.583Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/personal-tech/2026/11/04/microsofts-ai-pc-push-meets-a-wall-of-ram-prices-but-redmond-is-still-beating-the-drum/5307335",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "8ad9e18397be",
+    "slug": "texnologiya-kompaniyalari-ai-bo-yicha-nomzodlarga-talab-qo-y-8ad9e1",
+    "title": "Texnologiya kompaniyalari AI bo‘yicha nomzodlarga talab qo‘ymoqda",
+    "summary": "Texnologiya kompaniyalari ishga qabul qilishda nomzodlardan sun'iy intellekt bo‘yicha bilim va ko‘nikmalarga ega bo‘lishni talab qilmoqda. Biroq, ular AIga haddan tashqari bog‘lanib qolmaslikni ham maslahat berishadi.",
+    "tags": [
+      "mehnat bozori",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-11-04T10:40:34.000Z",
+    "created": "2026-11-04T11:38:34.583Z",
+    "coverage": 1,
+    "source": {
+      "name": "Sifted",
+      "url": "https://sifted.eu/articles/job-applicants-be-ai-pilled",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "233d6eb137f2",
     "slug": "ai-kod-yozuvchi-agentlar-dasturchi-unumdorligini-oshirdi-233d6e",
     "title": "AI kod yozuvchi agentlar dasturchi unumdorligini oshirdi",
