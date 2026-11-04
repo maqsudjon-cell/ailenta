@@ -1,5 +1,115 @@
 [
   {
+    "id": "dc34df3985a1",
+    "slug": "ai-otasi-geoffrey-hinton-insoniyatga-ai-kerak-emasdi-dc34df",
+    "title": "AI otasi Geoffrey Hinton: Insoniyatga AI kerak emasdi",
+    "summary": "AI asoschilaridan biri Geoffrey Hinton sun'iy intellektni rivojlantirmaslik yaxshiroq bo'lishi mumkinligini aytdi. U AI bu yil yoki keyingi yilda moliyaviy yoki energetika tizimlarida yirik uzilishlarga sabab bo'lishi mumkinligidan ogohlantirdi.",
+    "tags": [
+      "xavfsizlik",
+      "tadqiqot"
+    ],
+    "importance": 4,
+    "score": 26,
+    "published": "2026-11-03T21:35:42.000Z",
+    "created": "2026-11-04T00:36:22.084Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "bc4177032a04",
+    "slug": "palette-kichik-model-dizayn-tilida-deklar-yaratishga-orgatil-bc4177",
+    "title": "Palette: Kichik model dizayn tilida deklar yaratishga o'rgatildi",
+    "summary": "Hugging Face tomonidan taqdim etilgan Palette loyihasi kichik modelni foydalanuvchining dizayn tilida taqdimotlar yaratishga o'rgatishga qaratilgan.",
+    "tags": [
+      "Hugging Face",
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 25,
+    "published": "2026-11-03T16:35:36.000Z",
+    "created": "2026-11-04T00:36:22.084Z",
+    "coverage": 1,
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "b9ac8133ed4a",
+    "slug": "bitiruvchilar-ai-boshqarmoqda-boshqa-tajribalarni-otkazib-yu-b9ac81",
+    "title": "Bitiruvchilar AI boshqarmoqda, boshqa tajribalarni o'tkazib yubormoqdami",
+    "summary": "Bitiruvchilar ish joyida sun'iy intellektni boshqarishga ko'proq vaqt sarflamoqda. Bu ularning boshqa muhim ish tajribalarini o'tkazib yuborishiga olib kelishi mumkinligi muhokama qilinmoqda.",
+    "tags": [
+      "mehnat bozori",
+      "ta'lim"
+    ],
+    "importance": 3,
+    "score": 23,
+    "published": "2026-11-04T00:04:35.000Z",
+    "created": "2026-11-04T00:36:22.084Z",
+    "coverage": 1,
+    "source": {
+      "name": "BBC News",
+      "url": "https://bbc.co.uk/news/articles/c820vz6wyp65o?at_medium=RSS&at_campaign=rss",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "f3900be82c6f",
+    "slug": "aqsh-texnologiya-gigantlarining-ai-qarzi-3-2-trln-dollarga-y-f3900b",
+    "title": "AQSH texnologiya gigantlarining AI qarzi 3.2 trln dollarga yetdi",
+    "summary": "AQSH texnologiya gigantlarining yashirin AI qarzi olti oy ichida 90 foizga o'sib, 3.2 trillion dollarga yetdi. Bu AI infratuzilmasiga katta sarmoyalar kiritilayotganini ko'rsatadi.",
+    "tags": [
+      "iqtisod",
+      "biznes"
+    ],
+    "importance": 4,
+    "score": 21.9,
+    "published": "2026-11-03T21:26:44.000Z",
+    "created": "2026-11-04T00:36:22.084Z",
+    "coverage": 1,
+    "source": {
+      "name": "Hacker News",
+      "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "5a3345f135c4",
+    "slug": "anthropic-ipo-hujjatlarida-choraklik-ish-haqi-1-7-mlrd-dolla-5a3345",
+    "title": "Anthropic IPO hujjatlarida choraklik ish haqi 1.7 mlrd dollar",
+    "summary": "Anthropic kompaniyasi IPO hujjatlarida choraklik ish haqi fondi 1.7 milliard dollarni tashkil etishini ma'lum qildi. Bu har bir xodimga oyiga taxminan 107 ming dollar to'g'ri kelishini anglatadi.",
+    "tags": [
+      "Anthropic",
+      "biznes"
+    ],
+    "importance": 4,
+    "score": 17.6,
+    "published": "2026-11-03T11:16:07.000Z",
+    "created": "2026-11-04T00:36:22.084Z",
+    "coverage": 1,
+    "source": {
+      "name": "Hacker News",
+      "url": "https://techspot.com/news/114428-anthropic-ipo-filing-reveals-17-billion-quarterly-personnel.html",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "a4abd1e2a1c1",
     "slug": "anthropic-hisoblash-xarajatlarida-qiyinchilikka-uchramoqda-a4abd1",
     "title": "Anthropic hisoblash xarajatlarida qiyinchilikka uchramoqda",
