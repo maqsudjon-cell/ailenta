@@ -1,5 +1,136 @@
 [
   {
+    "id": "e5014ca6bf02",
+    "slug": "ai-yordamida-webb-malumotlarida-yashirin-sayyora-topildi-e5014c",
+    "title": "AI yordamida Webb ma'lumotlarida yashirin sayyora topildi",
+    "summary": "Tadqiqotchilar mashinani o‘rganish usullari yordamida Webb teleskopi ma'lumotlarida yashirin sayyorani aniqladi. Bu usul sayyoralarni aniqlash sezgirligini 15 barobargacha oshirdi.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-11-04T18:03:00.000Z",
+    "created": "2026-11-04T18:36:49.585Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/ai-and-ml/2026/11/04/boffins-use-machine-learning-tricks-to-create-a-starlight-dimmer-switch/5307625",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "bc9627ab69e3",
+    "slug": "amerikaliklar-ai-va-ijtimoiy-tarmoqlar-haqida-xavotirda-bc9627",
+    "title": "Amerikaliklar AI va ijtimoiy tarmoqlar haqida xavotirda",
+    "summary": "Ko‘plab amerikaliklar ijtimoiy tarmoqlarning bolalarga ta'siri, AI bilan bog‘liq xavotirlar va ma'lumot markazlariga qarshi siyosiy noroziliklarga e'tibor qaratmoqda.",
+    "tags": [
+      "siyosat",
+      "maxfiylik"
+    ],
+    "importance": 2,
+    "score": 19,
+    "published": "2026-11-04T17:26:57.000Z",
+    "created": "2026-11-04T18:36:49.585Z",
+    "coverage": 1,
+    "source": {
+      "name": "Semafor",
+      "url": "https://semafor.com/article/11/04/2026/californias-billionaire-tax-is-a-referendum-on-the-tech-industry",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "42af486580e7",
+    "slug": "nothing-kompaniyasi-dekabrda-ilk-ai-qurilmasini-chiqaradi-42af48",
+    "title": "Nothing kompaniyasi dekabrda ilk AI qurilmasini chiqaradi",
+    "summary": "Nothing kompaniyasi bosh direktori Karl Pey dekabr oyida ilk AI qurilmasini ishga tushirishini ma'lum qildi. Kompaniya avvalroq \"AI-native\" qurilmalar va AI operatsion tizimi rejalarini e'lon qilgan edi.",
+    "tags": [
+      "agentlar",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-11-04T18:26:07.000Z",
+    "created": "2026-11-04T18:36:49.585Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Verge",
+      "url": "https://theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "87bf89c71a3c",
+    "slug": "pangram-ai-tasvir-va-video-aniqlash-modelini-chiqardi-87bf89",
+    "title": "Pangram AI tasvir va video aniqlash modelini chiqardi",
+    "summary": "Pangram kompaniyasi AI tasvir va videolarni aniqlash uchun Pangram Image 1.0 modelini taqdim etdi. Shuningdek, AI videolarni aniqlash uchun kichikroq Image Flash 1.0 modeli ham chiqarildi.",
+    "tags": [
+      "tadqiqot",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-11-04T17:02:08.000Z",
+    "created": "2026-11-04T18:36:49.585Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/261104/p43",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "472484bded0a",
+    "slug": "applening-ai-asosidagi-siri-recaps-funksiyasi-sinovdan-otkaz-472484",
+    "title": "Apple'ning AI asosidagi Siri Recaps funksiyasi sinovdan o'tkazildi",
+    "summary": "Apple'ning AI yordamida ishlaydigan Siri Recaps funksiyasi foydalanuvchiga foydali bo‘lib chiqdi. Biroq, maxfiylik bilan bog‘liq ba'zi xavotirlar mavjud va uni takomillashtirish kerak.",
+    "tags": [
+      "Apple",
+      "maxfiylik"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-11-04T16:51:35.000Z",
+    "created": "2026-11-04T18:36:49.585Z",
+    "coverage": 1,
+    "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/04/i-tried-apples-siri-recaps-theyre-surprisingly-useful-and-a-little-unsettling",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "9c5bd0794caa",
+    "slug": "telegram-uchun-neyron-tarmoqli-antispam-bot-yangilandi-9c5bd0",
+    "title": "Telegram uchun neyron tarmoqli antispam bot yangilandi",
+    "summary": "Neyron tarmoqqa asoslangan Telegram antispam boti TAB yangilandi. Endi u statistika sayti, tushunarli yo‘riqnoma va Telegram ichida shaxsiy kabinetga ega.",
+    "tags": [
+      "tadqiqot",
+      "xavfsizlik"
+    ],
+    "importance": 2,
+    "score": 11,
+    "published": "2026-11-04T12:16:22.000Z",
+    "created": "2026-11-04T18:36:49.585Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1103506",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "500371f1626c",
     "slug": "byd-great-han-elektromobili-19-kunda-4-mingta-sotildi-500371",
     "title": "BYD Great Han elektromobili 19 kunda 4 mingta sotildi",
