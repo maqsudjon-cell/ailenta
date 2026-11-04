@@ -1,5 +1,54 @@
 [
   {
+    "id": "a512001ac143",
+    "slug": "meta-ai-xarajatlari-uchun-25-mlrd-dollargacha-qarz-olmoqda-a51200",
+    "title": "Meta AI xarajatlari uchun 25 mlrd dollargacha qarz olmoqda",
+    "summary": "Meta AI modellari va infratuzilma xarajatlarini oshirmoqda. Kompaniya obligatsiyalar sotuvi orqali 20 dan 25 milliard dollargacha mablag' yig'ishni rejalashtirmoqda.",
+    "tags": [
+      "Meta",
+      "biznes"
+    ],
+    "importance": 4,
+    "score": 25,
+    "published": "2026-11-03T18:33:49.000Z",
+    "created": "2026-11-04T01:02:31.871Z",
+    "coverage": 2,
+    "source": {
+      "name": "CNBC",
+      "url": "https://cnbc.com/2026/11/03/meta-bond-sale-ai-funding.html",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "CNBC",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4xMlVlY0MtTHpoVEU4UlM3dk9mTzF4dl9pOUJWLUFuY2tPR3diQ3UzODhyYUN0aWctV3RDUF9Ba2RzR0k3QUw3ZXdLd013NlRSNEpEbl9jSWNMMUhRNEg3UGw1RGpObGxMTEVqenhfUdIBdEFVX3lxTE9jZzllUGdZQ2R0d1pmQ0cwNm9uWU5sZHV1dUx5dW5Oa1Y4TWZPaU9ZT0NQSVhKYWZYN0tJM2otdUh5dEhCMVB4dk9oZGdKUk1MQTVpX3RlZnZNblExaVNRLWpQT2FxX1BhX09NeTRYb0dLOXZk"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "f7b02949050d",
+    "slug": "ballistic-ventures-490-mln-dollarlik-fondlar-yigmoqda-f7b029",
+    "title": "Ballistic Ventures 490 mln dollarlik fondlar yig'moqda",
+    "summary": "Kiberxavfsizlikka ixtisoslashgan Ballistic Ventures kompaniyasi AI bumu fonida 490 million dollar yig'ishni rejalashtirmoqda. Mablag'ning 360 million dollari asosiy fondga, 130 million dollari esa alohida investitsiya vositasiga yo'naltiriladi.",
+    "tags": [
+      "biznes",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-11-03T21:43:08.000Z",
+    "created": "2026-11-04T01:02:31.871Z",
+    "coverage": 1,
+    "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "dc34df3985a1",
     "slug": "ai-otasi-geoffrey-hinton-insoniyatga-ai-kerak-emasdi-dc34df",
     "title": "AI otasi Geoffrey Hinton: Insoniyatga AI kerak emasdi",
