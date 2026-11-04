@@ -5,7 +5,7 @@
   <link>https://ailenta.uz/mavzu/tadqiqot/</link>
   <description>&quot;tadqiqot&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Wed, 04 Nov 2026 17:10:43 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 04 Nov 2026 18:14:41 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/tadqiqot/rss.xml" rel="self" type="application/rss+xml"/>
   <item>
     <title>Claude o‘ziga kiritilgan tushunchalarni seza oladi</title>
@@ -16,6 +16,26 @@
     <category>Anthropic</category><category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/claude-o-ziga-kiritilgan-tushunchalarni-seza-oladi-3a25e7.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/claude-o-ziga-kiritilgan-tushunchalarni-seza-oladi-3a25e7.jpg"/>
+  </item>
+  <item>
+    <title>AI'ni modelni kattalashtirmay kengaytirish usuli</title>
+    <link>https://ailenta.uz/x/aini-modelni-kattalashtirmay-kengaytirish-usuli-1ab788/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/aini-modelni-kattalashtirmay-kengaytirish-usuli-1ab788/</guid>
+    <pubDate>Wed, 04 Nov 2026 13:16:17 GMT</pubDate>
+    <description>MTS kompaniyasi &quot;Agentlar boyligi&quot; tadqiqotini muhokama qilib, AI tizimlarini model hajmini oshirmasdan kengaytirishni taklif etdi. Yuzlab kichik, ixtisoslashgan agentlar birgalikda yirik universal AI'dan ko‘ra yaxshiroq ishlashi mumkin.</description>
+    <category>tadqiqot</category><category>agentlar</category>
+    <media:content url="https://ailenta.uz/og/aini-modelni-kattalashtirmay-kengaytirish-usuli-1ab788.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/aini-modelni-kattalashtirmay-kengaytirish-usuli-1ab788.jpg"/>
+  </item>
+  <item>
+    <title>Gemma modelini 8GB VRAM'li noutbukda optimallashtirish</title>
+    <link>https://ailenta.uz/x/gemma-modelini-8gb-vramli-noutbukda-optimallashtirish-a4a998/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/gemma-modelini-8gb-vramli-noutbukda-optimallashtirish-a4a998/</guid>
+    <pubDate>Wed, 04 Nov 2026 12:52:59 GMT</pubDate>
+    <description>Foydalanuvchi 8GB VRAM'li Nvidia RTX 2000 Ada videokartali noutbukda gemma-4-12B-it QAT modelini samarali ishga tushirishni sinovdan o‘tkazdi. Cheklangan VRAM'ga qaramay, 8192 token kontekstli lokal modelni joylashtirish mumkinligi aniqlandi.</description>
+    <category>chiplar</category><category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/gemma-modelini-8gb-vramli-noutbukda-optimallashtirish-a4a998.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/gemma-modelini-8gb-vramli-noutbukda-optimallashtirish-a4a998.jpg"/>
   </item>
   <item>
     <title>O‘zbekiston AI tadqiqotlari soni bo‘yicha Qozog‘istondan o‘zdi</title>
@@ -286,26 +306,6 @@
     <category>iqtisod</category><category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/matematika-ai-imperiyalarini-qanday-agdarishi-mumkin-d78ed4.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/matematika-ai-imperiyalarini-qanday-agdarishi-mumkin-d78ed4.jpg"/>
-  </item>
-  <item>
-    <title>Tim Berners-Lee'ning agentli veb g'oyasi bugun amalga oshmoqda</title>
-    <link>https://ailenta.uz/x/tim-berners-leening-agentli-veb-goyasi-bugun-amalga-oshmoqda-a25d5f/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/tim-berners-leening-agentli-veb-goyasi-bugun-amalga-oshmoqda-a25d5f/</guid>
-    <pubDate>Mon, 02 Nov 2026 09:35:19 GMT</pubDate>
-    <description>Internet asoschisi Tim Berners-Lee 2001-yilda &quot;Semantik veb&quot; g'oyasini ilgari surgan edi. Bu avtonom dasturiy agentlar tomonidan boshqariladigan internetni nazarda tutgan bo'lib, hozirda bu konsepsiya amalga oshmoqda.</description>
-    <category>agentlar</category><category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/tim-berners-leening-agentli-veb-goyasi-bugun-amalga-oshmoqda-a25d5f.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/tim-berners-leening-agentli-veb-goyasi-bugun-amalga-oshmoqda-a25d5f.jpg"/>
-  </item>
-  <item>
-    <title>AI agentlar xotiradan qanday foydalanishi o'rganildi</title>
-    <link>https://ailenta.uz/x/ai-agentlar-xotiradan-qanday-foydalanishi-organildi-a7f6b6/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/ai-agentlar-xotiradan-qanday-foydalanishi-organildi-a7f6b6/</guid>
-    <pubDate>Mon, 02 Nov 2026 09:10:29 GMT</pubDate>
-    <description>AI agentlar uchun xotira yaratuvchi kompaniya 13 ming log faylini tahlil qildi. Tadqiqot agentlarning xotiradan foydalanishi haqidagi ko'plab taxminlar noto'g'ri ekanligini ko'rsatdi. Olingan xulosalar barcha AI agentlar uchun muhimdir.</description>
-    <category>tadqiqot</category><category>agentlar</category>
-    <media:content url="https://ailenta.uz/og/ai-agentlar-xotiradan-qanday-foydalanishi-organildi-a7f6b6.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/ai-agentlar-xotiradan-qanday-foydalanishi-organildi-a7f6b6.jpg"/>
   </item>
 </channel>
 </rss>

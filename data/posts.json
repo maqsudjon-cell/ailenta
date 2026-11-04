@@ -1,5 +1,138 @@
 [
   {
+    "id": "500371f1626c",
+    "slug": "byd-great-han-elektromobili-19-kunda-4-mingta-sotildi-500371",
+    "title": "BYD Great Han elektromobili 19 kunda 4 mingta sotildi",
+    "summary": "BYD kompaniyasining yangi flagman elektromobili Great Han Xitoyda 19 kun ichida 4 ming dona sotildi. Bu model 250 ming yuandan yuqori narx segmentida joylashgan bo‘lib, BYD’ning premium bozorga kirish strategiyasining bir qismidir.",
+    "tags": [
+      "BYD",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 45,
+    "published": "2026-11-04T14:10:48.000Z",
+    "created": "2026-11-04T18:02:12.050Z",
+    "coverage": 1,
+    "source": {
+      "name": "Pivot",
+      "url": "https://pivot.uz/uz/byd-premium-elektromobillar-bozoridagi-mavqeini-mustahkamlamoqda-great-han-19-kunda-4-mingta-sotildi",
+      "title": "BYD premium elektromobillar bozoridagi mavqeini mustahkamlamoqda: Great Han 19 kunda 4 mingta sotildi",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "6bee7ce701b5",
+    "slug": "ai-va-hpc-uchun-server-savdosi-bu-yil-20-oshdi-6bee7c",
+    "title": "AI va HPC uchun server savdosi bu yil 20% oshdi",
+    "summary": "Bu yil AI va yuqori unumdorlikdagi hisoblash (HPC) uchun joyida o‘rnatiladigan serverlar savdosi 20% ga oshdi. Daromad o‘sishi sotuv hajmining oshishi va xarajatlarning ko‘payishi bilan bog‘liq.",
+    "tags": [
+      "chiplar",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-11-04T17:30:00.000Z",
+    "created": "2026-11-04T18:04:12.509Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/on-prem/2026/11/04/bare-metal-boom-on-prem-server-sales-for-hpc-and-ai-up-20-this-year/5307611",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "91ae461455e0",
+    "slug": "godaddy-bosh-direktori-ai-yozgan-matnlarni-o-qimaydi-91ae46",
+    "title": "GoDaddy bosh direktori AI yozgan matnlarni o‘qimaydi",
+    "summary": "GoDaddy bosh direktori Aman Bhutani sun'iy intellekt yordamida yozilgan ishlarni o‘qimasligini ma’lum qildi. Uning fikricha, agar yozishga vaqt ajratilmasa, uni o‘qishni kutmaslik kerak.",
+    "tags": [
+      "biznes",
+      "mehnat bozori"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-11-04T16:36:12.000Z",
+    "created": "2026-11-04T18:04:12.509Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/godaddy-ceo-says-wont-read-work-written-ai-2026-11",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "3fd5d1ee6f93",
+    "slug": "sam-altman-ram-yetishmovchiligi-haqida-hazillashdi-3fd5d1",
+    "title": "Sam Altman RAM yetishmovchiligi haqida hazillashdi",
+    "summary": "OpenAI bosh direktori Sam Altman X'dagi ismini \"Ram Altman\" deb o‘zgartirib, AI sanoatidagi xotira yetishmovchiligi haqida hazillashdi. U odamlarning kompyuterlarida ko‘p xotira bo‘lishini istashini ta’kidladi.",
+    "tags": [
+      "OpenAI",
+      "chiplar"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-11-04T14:46:01.000Z",
+    "created": "2026-11-04T18:04:12.509Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Verge",
+      "url": "https://theverge.com/ai-artificial-intelligence/1026292/sam-altman-ram-shortage-pcs-comments",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "1ab788f29a02",
+    "slug": "aini-modelni-kattalashtirmay-kengaytirish-usuli-1ab788",
+    "title": "AI'ni modelni kattalashtirmay kengaytirish usuli",
+    "summary": "MTS kompaniyasi \"Agentlar boyligi\" tadqiqotini muhokama qilib, AI tizimlarini model hajmini oshirmasdan kengaytirishni taklif etdi. Yuzlab kichik, ixtisoslashgan agentlar birgalikda yirik universal AI'dan ko‘ra yaxshiroq ishlashi mumkin.",
+    "tags": [
+      "tadqiqot",
+      "agentlar"
+    ],
+    "importance": 3,
+    "score": 14,
+    "published": "2026-11-04T13:16:17.000Z",
+    "created": "2026-11-04T18:04:12.510Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/companies/ru_mts/articles/1103346",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "a4a998ba77ad",
+    "slug": "gemma-modelini-8gb-vramli-noutbukda-optimallashtirish-a4a998",
+    "title": "Gemma modelini 8GB VRAM'li noutbukda optimallashtirish",
+    "summary": "Foydalanuvchi 8GB VRAM'li Nvidia RTX 2000 Ada videokartali noutbukda gemma-4-12B-it QAT modelini samarali ishga tushirishni sinovdan o‘tkazdi. Cheklangan VRAM'ga qaramay, 8192 token kontekstli lokal modelni joylashtirish mumkinligi aniqlandi.",
+    "tags": [
+      "chiplar",
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 14,
+    "published": "2026-11-04T12:52:59.000Z",
+    "created": "2026-11-04T18:04:12.510Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1103522",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "f3846775ebd2",
     "slug": "drax-britaniyada-20-mlrd-funtlik-datamarkaz-qurmoqchi-f38467",
     "title": "Drax Britaniyada 20 mlrd funtlik datamarkaz qurmoqchi",
