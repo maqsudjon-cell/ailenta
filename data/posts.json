@@ -1,5 +1,69 @@
 [
   {
+    "id": "7f0749eec394",
+    "slug": "canva-xodimlarning-22-foizini-qisqartirishini-elon-qildi-7f0749",
+    "title": "Canva xodimlarning 22 foizini qisqartirishini e'lon qildi",
+    "summary": "Canva kompaniyasi qayta tashkil etish doirasida xodimlarining 22 foizini qisqartirayotganini ma'lum qildi. Kompaniya bu qarorni texnologik o'zgarishlar sur'ati bilan bog'lagan.",
+    "tags": [
+      "biznes",
+      "mehnat bozori"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-11-04T00:14:41.000Z",
+    "created": "2026-11-04T02:02:47.889Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/saas/2026/11/04/aussie-adobe-assailant-canva-announces-layoffs-in-re-org-affecting-22-of-staff/5307422",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "f2b4eea992e3",
+    "slug": "nexus-mods-ai-ishlatilganini-oshkor-qilishni-majburiy-qildi-f2b4ee",
+    "title": "Nexus Mods AI ishlatilganini oshkor qilishni majburiy qildi",
+    "summary": "Nexus Mods platformasi yangi kontent yuklashda sun'iy intellektdan foydalanilganini ko'rsatishni majburiy qildi. Mualliflar o'z ishlarida AI ishlatilganini ma'lum qilishlari shart.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-11-04T00:42:10.000Z",
+    "created": "2026-11-04T02:02:47.889Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Verge",
+      "url": "https://theverge.com/games/1026085/nexus-mods-ai-disclosures",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "97ea381abb97",
+    "slug": "malumot-markazlari-eski-reaktiv-dvigatellardan-foydalanmoqda-97ea38",
+    "title": "Ma'lumot markazlari eski reaktiv dvigatellardan foydalanmoqda",
+    "summary": "Elektr tarmog'iga ulanish vaqti uzaygani sababli ma'lumot markazlari quruvchilari eski reaktiv dvigatellardan foydalanmoqda. Bu chora energiya tanqisligini hal qilish uchun qo'llanilmoqda.",
+    "tags": [
+      "bulut"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-11-03T22:19:53.000Z",
+    "created": "2026-11-04T02:02:47.889Z",
+    "coverage": 1,
+    "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "a512001ac143",
     "slug": "meta-ai-xarajatlari-uchun-25-mlrd-dollargacha-qarz-olmoqda-a51200",
     "title": "Meta AI xarajatlari uchun 25 mlrd dollargacha qarz olmoqda",
