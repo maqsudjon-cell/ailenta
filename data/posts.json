@@ -1,5 +1,71 @@
 [
   {
+    "id": "85123022012a",
+    "slug": "tayvanda-ai-rivojlanishi-fonida-mehnat-nizolari-kuchaymoqda-851230",
+    "title": "Tayvanda AI rivojlanishi fonida mehnat nizolari kuchaymoqda",
+    "summary": "Tayvanning yarimo‘tkazgich sanoatida mehnat nizolari va kasaba uyushmalarining faollashuvi kuzatilmoqda. Bu AI rivojlanishidan olingan foydaning notekis taqsimlanishidan ishchilarning noroziligini ko‘rsatadi.",
+    "tags": [
+      "mehnat bozori",
+      "iqtisod"
+    ],
+    "importance": 2,
+    "score": 19,
+    "published": "2026-11-05T11:00:00.000Z",
+    "created": "2026-11-05T11:19:48.389Z",
+    "coverage": 1,
+    "source": {
+      "name": "Rest of World",
+      "url": "https://restofworld.org/2026/taiwan-labor-strike-ai-profits",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "894502c59a3b",
+    "slug": "demokratlar-ai-bo-yicha-g-oyalarni-muhokama-qilmoqda-894502",
+    "title": "Demokratlar AI bo‘yicha g‘oyalarni muhokama qilmoqda",
+    "summary": "Demokratlar Kongressni nazoratga olgach, sun'iy intellekt bo‘yicha ko‘plab g‘oyalarni muhokama qiladi. Biroq, bu borada umumiy kelishuvga erishish qiyin bo‘lmoqda.",
+    "tags": [
+      "siyosat",
+      "qonun"
+    ],
+    "importance": 2,
+    "score": 19,
+    "published": "2026-11-05T09:52:18.000Z",
+    "created": "2026-11-05T11:19:48.389Z",
+    "coverage": 1,
+    "source": {
+      "name": "Semafor",
+      "url": "https://semafor.com/article/11/05/2026/democrats-are-fired-up-on-ai-consensus-is-harder",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "030ca1c01bf5",
+    "slug": "shaxsiy-ai-agenti-lora-yordamida-o-zini-takomillashtirmoqda-030ca1",
+    "title": "Shaxsiy AI agenti LoRA yordamida o‘zini takomillashtirmoqda",
+    "summary": "Shaxsiy AI agenti LoRA moslashtirish usuli orqali o‘zini takomillashtirmoqda. Tizim to‘plangan o‘quv misollaridan foydalanib, o‘zining shaxsiy tarixini model og‘irliklariga o‘tkazadi. Bu uning sifatini oshirmoqda.",
+    "tags": [
+      "tadqiqot",
+      "agentlar"
+    ],
+    "importance": 2,
+    "score": 17,
+    "published": "2026-11-05T10:03:27.000Z",
+    "created": "2026-11-05T11:19:48.389Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1103860",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "156871b2db4e",
     "slug": "elon-musk-aqsh-saylovlariga-446-mln-dollar-sarfladi-156871",
     "title": "Elon Musk AQSh saylovlariga 446 mln dollar sarfladi",
