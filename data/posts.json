@@ -1,5 +1,92 @@
 [
   {
+    "id": "c53afcafc431",
+    "slug": "ai-kamchiliklarini-fosh-etuvchi-bloger-bilan-hamkorlik-c53afc",
+    "title": "AI kamchiliklarini fosh etuvchi bloger bilan hamkorlik",
+    "summary": "AI chatbotlarining kamchiliklarini muntazam fosh etib, mashhur bo‘lgan Husk ismli blogerga OpenAI va Anthropic kabi kompaniyalar murojaat qildi. Ular bloger bilan hamkorlik qilish istagini bildirishgan.",
+    "tags": [
+      "OpenAI",
+      "Anthropic"
+    ],
+    "importance": 3,
+    "score": 29,
+    "published": "2026-11-05T11:45:00.000Z",
+    "created": "2026-11-05T12:36:54.904Z",
+    "coverage": 1,
+    "source": {
+      "name": "Wired",
+      "url": "https://wired.com/story/wired-world-fair-2026-evan-ratliff-and-husk",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "35aa0f6dd588",
+    "slug": "ai-yordamida-delfinlar-tilini-organish-35aa0f",
+    "title": "AI yordamida delfinlar tilini o'rganish",
+    "summary": "Wild Dolphin Project asoschisi Denise Herzing delfinlar audio va video yozuvlarini tushunish uchun AI'dan foydalanmoqda. Bu loyiha dengiz sutemizuvchilari bilan aloqani o'rganishga qaratilgan.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 23,
+    "published": "2026-11-05T12:00:00.000Z",
+    "created": "2026-11-05T12:36:54.904Z",
+    "coverage": 1,
+    "source": {
+      "name": "Wired",
+      "url": "https://wired.com/story/wired-world-fair-2026-denise-herzing-wild-dolphin",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "868ca6b0cd8c",
+    "slug": "ricursive-chip-dizayni-uchun-ripple-65b-modelini-chiqardi-868ca6",
+    "title": "Ricursive chip dizayni uchun Ripple-65B modelini chiqardi",
+    "summary": "Ricursive kompaniyasi ilg‘or chip dizaynini avtomatlashtirish uchun mo‘ljallangan Ripple-65B Preview AI modelini chiqardi. Ushbu ochiq og‘irlikli model Apache 2.0 litsenziyasi ostida taqdim etilgan.",
+    "tags": [
+      "chiplar",
+      "ochiq model"
+    ],
+    "importance": 3,
+    "score": 18,
+    "published": "2026-11-05T11:10:01.000Z",
+    "created": "2026-11-05T12:36:54.904Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/261105/p14",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "c1c324530f0e",
+    "slug": "rahbarlar-ai-yaratgan-matnlardan-charchadi-c1c324",
+    "title": "Rahbarlar AI yaratgan matnlardan charchadi",
+    "summary": "Ish beruvchilar AI tomonidan yaratilgan, grammatik jihatdan mukammal, ammo keraksiz darajada uzun xabarlardan norozi. Bu AI'ning ish joyidagi samaradorligi borasida savollar tug‘dirmoqda.",
+    "tags": [
+      "mehnat bozori",
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-11-05T10:07:01.000Z",
+    "created": "2026-11-05T12:36:54.904Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/ai-generated-workslop-leads-to-policies-firings-boss-fed-up-2026-11",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "f93567576105",
     "slug": "openai-infratuzilma-bo-yicha-yangi-hujjatlarni-taqdim-etdi-f93567",
     "title": "OpenAI infratuzilma bo‘yicha yangi hujjatlarni taqdim etdi",

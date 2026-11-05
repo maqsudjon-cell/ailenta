@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/tadqiqot/</link>
   <description>&quot;tadqiqot&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Thu, 05 Nov 2026 12:10:19 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 05 Nov 2026 12:47:19 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/tadqiqot/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>AI yordamida delfinlar tilini o'rganish</title>
+    <link>https://ailenta.uz/x/ai-yordamida-delfinlar-tilini-organish-35aa0f/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/ai-yordamida-delfinlar-tilini-organish-35aa0f/</guid>
+    <pubDate>Thu, 05 Nov 2026 12:00:00 GMT</pubDate>
+    <description>Wild Dolphin Project asoschisi Denise Herzing delfinlar audio va video yozuvlarini tushunish uchun AI'dan foydalanmoqda. Bu loyiha dengiz sutemizuvchilari bilan aloqani o'rganishga qaratilgan.</description>
+    <category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/ai-yordamida-delfinlar-tilini-organish-35aa0f.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/ai-yordamida-delfinlar-tilini-organish-35aa0f.jpg"/>
+  </item>
   <item>
     <title>Shaxsiy AI agenti LoRA yordamida o‘zini takomillashtirmoqda</title>
     <link>https://ailenta.uz/x/shaxsiy-ai-agenti-lora-yordamida-o-zini-takomillashtirmoqda-030ca1/</link>
@@ -296,16 +306,6 @@
     <category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/asteroidni-burish-modeli-tezroq-ishlaydi-xavflarni-oshirdi-d47fc0.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/asteroidni-burish-modeli-tezroq-ishlaydi-xavflarni-oshirdi-d47fc0.jpg"/>
-  </item>
-  <item>
-    <title>Guardian AI va pishiriqlar bo'yicha fikr so'radi</title>
-    <link>https://ailenta.uz/x/guardian-ai-va-pishiriqlar-boyicha-fikr-soradi-16628c/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/guardian-ai-va-pishiriqlar-boyicha-fikr-soradi-16628c/</guid>
-    <pubDate>Tue, 03 Nov 2026 16:42:27 GMT</pubDate>
-    <description>The Guardian nashri o'quvchilardan pishiriqlar tayyorlashda sun'iy intellektdan ilhom manbai sifatida foydalanish tajribalari haqida so'radi. Ular AI vositalari, masalan, Claude va ChatGPT, qanday natijalarga olib kelganini bilishni istaydi.</description>
-    <category>tadqiqot</category><category>biznes</category>
-    <media:content url="https://ailenta.uz/og/guardian-ai-va-pishiriqlar-boyicha-fikr-soradi-16628c.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/guardian-ai-va-pishiriqlar-boyicha-fikr-soradi-16628c.jpg"/>
   </item>
 </channel>
 </rss>
