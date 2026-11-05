@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/bulut/</link>
   <description>&quot;bulut&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Thu, 05 Nov 2026 15:48:54 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 05 Nov 2026 16:13:50 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/bulut/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Mercedes-Benz avtomobillarida lokal AI joriy etiladi</title>
+    <link>https://ailenta.uz/x/mercedes-benz-avtomobillarida-lokal-ai-joriy-etiladi-131d2f/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/mercedes-benz-avtomobillarida-lokal-ai-joriy-etiladi-131d2f/</guid>
+    <pubDate>Thu, 05 Nov 2026 15:45:01 GMT</pubDate>
+    <description>Mercedes-Benz kompaniyasi Liquid AI startapi bilan hamkorlikda yangi so'zlashuv modellarini taqdim etdi. Ushbu AI modellari bulutga tayanmasdan, to'g'ridan-to'g'ri avtomobilning o'zida ishlaydi.</description>
+    <category>bulut</category><category>biznes</category>
+    <media:content url="https://ailenta.uz/og/mercedes-benz-avtomobillarida-lokal-ai-joriy-etiladi-131d2f.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/mercedes-benz-avtomobillarida-lokal-ai-joriy-etiladi-131d2f.jpg"/>
+  </item>
   <item>
     <title>Demokratlar g‘alabasidan so‘ng kosmik datamarkazlarga qiziqish</title>
     <link>https://ailenta.uz/x/demokratlar-g-alabasidan-so-ng-kosmik-datamarkazlarga-qiziqi-273dfe/</link>
@@ -296,16 +306,6 @@
     <category>bulut</category><category>biznes</category>
     <media:content url="https://ailenta.uz/og/yevropada-data-markazlar-iqlim-tosiqlariga-uchramoqda-a69d1e.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/yevropada-data-markazlar-iqlim-tosiqlariga-uchramoqda-a69d1e.jpg"/>
-  </item>
-  <item>
-    <title>Model o'qitilgandan so'ng nima sodir bo'ladi</title>
-    <link>https://ailenta.uz/x/model-oqitilgandan-song-nima-sodir-boladi-9f88f9/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/model-oqitilgandan-song-nima-sodir-boladi-9f88f9/</guid>
-    <pubDate>Wed, 21 Oct 2026 07:37:33 GMT</pubDate>
-    <description>AI modelining samaradorligi muhim bo'lsa-da, foydalanuvchilar uchun uning ishlash tezligi, yuk ostida qotib qolmasligi va narxi asosiy hisoblanadi. Shuning uchun, modelni xulosa chiqarish (inference) bosqichida optimallashtirish uning mashhurligi uchun juda muhimdir.</description>
-    <category>tadqiqot</category><category>bulut</category>
-    <media:content url="https://ailenta.uz/og/model-oqitilgandan-song-nima-sodir-boladi-9f88f9.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/model-oqitilgandan-song-nima-sodir-boladi-9f88f9.jpg"/>
   </item>
 </channel>
 </rss>
