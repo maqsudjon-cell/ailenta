@@ -1,5 +1,120 @@
 [
   {
+    "id": "a5dda5b25f75",
+    "slug": "binance-ai-bilan-6-3-mlrd-dollar-ogirlashga-urinish-a5dda5",
+    "title": "Binance: AI bilan 6.3 mlrd dollar o'g'irlashga urinish",
+    "summary": "Binance kriptovalyuta birjasi xakerlar bir necha oy davomida 6.3 milliard dollarlik o‘g‘irlikni rejalashtirganini ma'lum qildi. Ular soxta ish intervyulari orqali muhandisning kompyuteriga kirib, ichki AI vositasidan foydalangan.",
+    "tags": [
+      "xavfsizlik",
+      "biznes"
+    ],
+    "importance": 4,
+    "score": 19.6,
+    "published": "2026-11-03T18:09:36.000Z",
+    "created": "2026-11-05T15:38:42.861Z",
+    "coverage": 2,
+    "source": {
+      "name": "The New York Times",
+      "url": "https://nytimes.com/2026/11/03/technology/binance-hack-report.html",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "The Guardian",
+        "url": "https://theguardian.com/business/2026/nov/03/hackers-63bn-binance-heist-malware-bogus-job-interviews-cryptocurrency"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "600826703541",
+    "slug": "ai-talabi-tufayli-dram-daromadi-369-foizga-oshdi-600826",
+    "title": "AI talabi tufayli DRAM daromadi 369 foizga oshdi",
+    "summary": "AI'ga bo‘lgan yuqori talab tufayli DRAM xotira chiplari ishlab chiqaruvchilarining daromadi 369 foizga oshdi. Bu holat ta'minotni cheklab, narxlarning ko‘tarilishiga olib kelmoqda.",
+    "tags": [
+      "chiplar",
+      "iqtisod"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-11-05T15:07:34.000Z",
+    "created": "2026-11-05T15:38:42.862Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/systems/2026/11/05/memory-makers-mint-megabucks-while-buyers-beg-for-mercy/5307846",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "aecc9a23fd3c",
+    "slug": "dropbox-ai-infratuzilmasini-kuchaytirish-uchun-tigris-datani-aecc9a",
+    "title": "Dropbox AI infratuzilmasini kuchaytirish uchun Tigris Data'ni sotib oldi",
+    "summary": "Dropbox o‘zining AI infratuzilmasini mustahkamlash maqsadida Tigris Data kompaniyasini 350 million dollarga sotib oldi. Ushbu kelishuv DBX Agent Cloud nomli yangi saqlash platformasini rivojlantirishga yordam berishi kutilmoqda.",
+    "tags": [
+      "Dropbox",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 18,
+    "published": "2026-11-05T15:19:05.000Z",
+    "created": "2026-11-05T15:38:42.862Z",
+    "coverage": 1,
+    "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "8e485a84c39e",
+    "slug": "amd-ai-chip-talabi-tufayli-prognozlarni-oshirib-yubordi-8e485a",
+    "title": "AMD AI chip talabi tufayli prognozlarni oshirib yubordi",
+    "summary": "AMD kompaniyasi AI chiplariga bo‘lgan talabning keskin o‘sishi ortidan o‘zining moliyaviy prognozlarini oshirib yubordi. Bu kompaniya kutilganidan yuqori natijalarga erishganini ko‘rsatadi.",
+    "tags": [
+      "AMD",
+      "chiplar"
+    ],
+    "importance": 3,
+    "score": 15.5,
+    "published": "2026-11-03T22:44:51.000Z",
+    "created": "2026-11-05T15:38:42.862Z",
+    "coverage": 1,
+    "source": {
+      "name": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYURlOUxxRUMybEdmbkJoTHZiZEVTTUtCN0gyZ1RsV0s3YlEteXR1NFZIWDNwXzJKTUdCRUpJY0RWNlRqVC02M0VaMFgtY0piUFNGSkhKQmZ3bTVwMHFERHN6ZExPSnVFbWdBWDYxQnNnX0RJRnF6QVlld0FBeDhySGlrUEZ4bEtmWkkybFFVRU9EcnhRd2F5c1M1eGc2OFk5VG95X0dUa1dWUGhPZzJJ",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "9a0bf6938b4f",
+    "slug": "claudening-buyuk-britaniyadagi-ai-bozoridagi-ulushi-oshdi-9a0bf6",
+    "title": "Claude'ning Buyuk Britaniyadagi AI bozoridagi ulushi oshdi",
+    "summary": "Claude AI modelining Buyuk Britaniyadagi AI obuna xarajatlaridagi ulushi bozor o‘sishi bilan birga to‘rt baravarga oshdi. Bu Anthropic kompaniyasining mintaqadagi mavqeyini mustahkamlaganini ko‘rsatadi.",
+    "tags": [
+      "Anthropic",
+      "iqtisod"
+    ],
+    "importance": 2,
+    "score": 11,
+    "published": "2026-11-05T12:18:02.000Z",
+    "created": "2026-11-05T15:38:42.862Z",
+    "coverage": 1,
+    "source": {
+      "name": "Unite.AI",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbXl1c0VnMGtXNW52aGxTNmVNSGlBTzkwUDBibTNYWENOeDAyQ3Q2YmEtNm1Md09uNktmMjhLdG9XQ19UUDNJLW1PN3I3VmFmTnZoQy1jcml6YS04WUJfOFpfcW9NeWZzZk93ZXZReXg3UUtqZXVpN1pKQ1hKOVlTRjFmNGl0WUdKRkN4cUZZNHBNWDd3",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "e63b8d0c30c6",
     "slug": "potential-sciences-startapi-dori-yaratishni-tezlashtirmoqda-e63b8d",
     "title": "Potential Sciences startapi dori yaratishni tezlashtirmoqda",
