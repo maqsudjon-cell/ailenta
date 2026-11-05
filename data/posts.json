@@ -1,5 +1,70 @@
 [
   {
+    "id": "3251e3a5b5b1",
+    "slug": "samarqandda-23-yoshli-yigit-sudda-oqlandi-3251e3",
+    "title": "Samarqandda 23 yoshli yigit sudda oqlandi",
+    "summary": "Jinoyat ishlari bo‘yicha Ishtixon tuman sudi narkojinoyatda ayblangan 23 yoshli yigitni oqladi. U 2026-yil 15-martdan buyon qamoqda saqlangan edi. Sudda IIB xodimlari jinoyatni o‘zlari uyushtirgani ma'lum bo‘ldi.",
+    "tags": [
+      "O'zbekiston"
+    ],
+    "importance": 2,
+    "score": 48,
+    "published": "2026-11-05T07:12:17.000Z",
+    "created": "2026-11-05T13:02:38.501Z",
+    "coverage": 1,
+    "source": {
+      "name": "Kun.uz",
+      "url": "https://kun.uz/news/2026/11/05/samarqandda-7-oy-qamoqda-saqlangan-yigit-oqlandi-operlarning-qopqoni-ozlarini-fosh-qilib-qoydi-59413",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "a06afd7026d3",
+    "slug": "saylovlarda-ai-chatbotlaridan-foydalanmaslik-tavsiya-etildi-a06afd",
+    "title": "Saylovlarda AI chatbotlaridan foydalanmaslik tavsiya etildi",
+    "summary": "ChatGPT va Claude kabi AI chatbotlari saylov kunida yordam bera olmaydi. Bunga ulardagi to'qib chiqarishlar va tarafkashlik muammolari sabab qilib ko'rsatilgan.",
+    "tags": [
+      "OpenAI",
+      "siyosat"
+    ],
+    "importance": 2,
+    "score": 18.3,
+    "published": "2026-11-03T14:45:08.000Z",
+    "created": "2026-11-05T13:02:38.501Z",
+    "coverage": 1,
+    "source": {
+      "name": "Wired",
+      "url": "https://wired.com/story/heres-why-you-shouldnt-use-ai-to-vote",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "fd04855a6f41",
+    "slug": "discovered-materials-muammolar-uchun-1-mln-dollar-ajratdi-fd0485",
+    "title": "Discovered Materials muammolar uchun 1 mln dollar ajratdi",
+    "summary": "Discovered Materials startapi materialshunoslikdagi beshta hal etilmagan muammoning har biriga 200 ming dollardan taklif qilmoqda. Kompaniya chip materiallarini izlashda AI'dan foydalanadi.",
+    "tags": [
+      "chiplar",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-11-05T13:00:00.000Z",
+    "created": "2026-11-05T13:02:38.501Z",
+    "coverage": 1,
+    "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "c53afcafc431",
     "slug": "ai-kamchiliklarini-fosh-etuvchi-bloger-bilan-hamkorlik-c53afc",
     "title": "AI kamchiliklarini fosh etuvchi bloger bilan hamkorlik",
