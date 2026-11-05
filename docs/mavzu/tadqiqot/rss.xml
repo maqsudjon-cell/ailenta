@@ -5,7 +5,7 @@
   <link>https://ailenta.uz/mavzu/tadqiqot/</link>
   <description>&quot;tadqiqot&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Thu, 05 Nov 2026 20:11:29 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 05 Nov 2026 20:27:45 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/tadqiqot/rss.xml" rel="self" type="application/rss+xml"/>
   <item>
     <title>Grimes AI yaratgan filmda rol o'ynaydi</title>
@@ -26,6 +26,16 @@
     <category>tadqiqot</category><category>xavfsizlik</category>
     <media:content url="https://ailenta.uz/og/aining-arxitektura-drifti-muammosi-va-yechimlari-72c938.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/aining-arxitektura-drifti-muammosi-va-yechimlari-72c938.jpg"/>
+  </item>
+  <item>
+    <title>Anthropic 207,049 ta ilmiy sessiyani o‘rgandi</title>
+    <link>https://ailenta.uz/x/anthropic-207-049-ta-ilmiy-sessiyani-o-rgandi-608627/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/anthropic-207-049-ta-ilmiy-sessiyani-o-rgandi-608627/</guid>
+    <pubDate>Thu, 05 Nov 2026 15:15:15 GMT</pubDate>
+    <description>Anthropic kompaniyasi 207,049 ta ilmiy sessiyani o‘rganib chiqdi. Tadqiqot natijalariga ko‘ra, ma'lumotlar bilan ishlash yetakchi o‘rinni egalladi.</description>
+    <category>Anthropic</category><category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/anthropic-207-049-ta-ilmiy-sessiyani-o-rgandi-608627.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/anthropic-207-049-ta-ilmiy-sessiyani-o-rgandi-608627.jpg"/>
   </item>
   <item>
     <title>Potential Sciences startapi dori yaratishni tezlashtirmoqda</title>
@@ -296,16 +306,6 @@
     <category>Anthropic</category><category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/anthropic-javoblarni-tekshiruvchi-flashproveni-taqdim-etdi-67d444.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/anthropic-javoblarni-tekshiruvchi-flashproveni-taqdim-etdi-67d444.jpg"/>
-  </item>
-  <item>
-    <title>Datasette Apps 0.3a0 versiyasi chiqarildi</title>
-    <link>https://ailenta.uz/x/datasette-apps-0-3a0-versiyasi-chiqarildi-42f481/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/datasette-apps-0-3a0-versiyasi-chiqarildi-42f481/</guid>
-    <pubDate>Wed, 04 Nov 2026 00:29:36 GMT</pubDate>
-    <description>Datasette Apps 0.3a0 versiyasi e'lon qilindi. Bu versiya Datasette ichida HTML ilovalarini joylashtirish va tahrirlash imkonini beradi. U Datasette Agent orqali LLM yordamida ilovalar yaratishni osonlashtiradi.</description>
-    <category>tadqiqot</category><category>ochiq model</category>
-    <media:content url="https://ailenta.uz/og/datasette-apps-0-3a0-versiyasi-chiqarildi-42f481.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/datasette-apps-0-3a0-versiyasi-chiqarildi-42f481.jpg"/>
   </item>
 </channel>
 </rss>
