@@ -1,5 +1,91 @@
 [
   {
+    "id": "e63b8d0c30c6",
+    "slug": "potential-sciences-startapi-dori-yaratishni-tezlashtirmoqda-e63b8d",
+    "title": "Potential Sciences startapi dori yaratishni tezlashtirmoqda",
+    "summary": "Buyuk Britaniya hukumati tomonidan qo‘llab-quvvatlanadigan Potential Sciences startapi yangi dori vositalarini ishlab chiqishni tezlashtirishni maqsad qilgan. Buning uchun kompaniya AI modellarini kompyuterda yaratilgan biokimyoviy ma'lumotlar asosida o‘qitmoqda.",
+    "tags": [
+      "tibbiyot",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 26,
+    "published": "2026-11-05T13:00:00.000Z",
+    "created": "2026-11-05T15:02:20.414Z",
+    "coverage": 1,
+    "source": {
+      "name": "Wired",
+      "url": "https://wired.com/story/finding-new-drugs-is-laborious-this-ai-startup-is-skipping-the-lab-work",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "10f89758aa1d",
+    "slug": "ibm-rahbari-ai-ishlatish-uni-o-qitishdan-qimmatligini-aytdi-10f897",
+    "title": "IBM rahbari AI ishlatish uni o‘qitishdan qimmatligini aytdi",
+    "summary": "IBM bosh direktori AI'ni ishga tushirish uni o‘qitishdan ko‘ra qimmatroqqa tushayotganini ta'kidladi. Uning fikricha, sun'iy intellektdan foydalanishni cheklash mag'lubiyatga olib keladi.",
+    "tags": [
+      "iqtisod",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 22,
+    "published": "2026-11-05T13:30:00.000Z",
+    "created": "2026-11-05T15:02:20.414Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/11/05/ibm-arvind-krishna-ai-inference-cost-curve-rationing-tokens",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "36b2f2d4045b",
+    "slug": "ai-kompaniyalari-neft-sohasidagi-mijozlarni-jalb-qilmoqda-36b2f2",
+    "title": "AI kompaniyalari neft sohasidagi mijozlarni jalb qilmoqda",
+    "summary": "Texnologik kompaniyalar neft quduqlari va qayta ishlash zavodlarini boshqarish uchun maxsus AI vositalarini taklif etmoqda. Ular neft va gaz sohasidagi mijozlar bilan hamkorlik shartnomalarini tuzishga intilmoqda.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-11-05T14:11:09.000Z",
+    "created": "2026-11-05T15:02:20.414Z",
+    "coverage": 1,
+    "source": {
+      "name": "Semafor",
+      "url": "https://semafor.com/article/11/05/2026/ai-companies-race-to-lock-down-oil-clients",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "89beac2608dd",
+    "slug": "elevenlabs-va-soundcloud-yangi-integratsiyani-taqdim-etdi-89beac",
+    "title": "ElevenLabs va SoundCloud yangi integratsiyani taqdim etdi",
+    "summary": "ElevenLabs AI musiqiy platformasi SoundCloud bilan integratsiyani yo‘lga qo‘ydi. Endi foydalanuvchilar AI yaratgan musiqalarni fayllarni ko‘chirib olmasdan to‘g‘ridan-to‘g‘ri SoundCloud platformasiga joylashtirishlari mumkin.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-11-05T15:00:00.000Z",
+    "created": "2026-11-05T15:02:20.414Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Verge",
+      "url": "https://theverge.com/ai-artificial-intelligence/1027427/ai-music-soundcloud-elevenlabs",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "3251e3a5b5b1",
     "slug": "samarqandda-23-yoshli-yigit-sudda-oqlandi-3251e3",
     "title": "Samarqandda 23 yoshli yigit sudda oqlandi",
