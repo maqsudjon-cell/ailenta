@@ -1,5 +1,49 @@
 [
   {
+    "id": "e420417a0c5b",
+    "slug": "anthropic-aisi-arzonlashuvi-biznesga-muammo-tugdirmoqda-e42041",
+    "title": "Anthropic AI'si arzonlashuvi biznesga muammo tug'dirmoqda",
+    "summary": "Anthropic kompaniyasining sun'iy intellekt xizmatlari arzonlashib bormoqda. Bu holat kompaniya biznesi uchun muammolarni keltirib chiqarmoqda.",
+    "tags": [
+      "Anthropic",
+      "iqtisod"
+    ],
+    "importance": 3,
+    "score": 0.9,
+    "published": "2026-11-03T21:50:17.000Z",
+    "created": "2026-11-05T01:01:44.423Z",
+    "coverage": 1,
+    "source": {
+      "name": "Decrypt",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1zbVB6eFBEN0lFX1o0aFBhRWVrSW4waHRxZzctOHo2YmVDbHF1b05DYjVvZ3pnLWFJajEyUmNxaXlobXRGN1JZWlJNcTNMcUNXR01KOGQ1Vm9ZNmRNMEJMRjBXWVdDbl9naFAzenQxU0R3T3lObFNhWU9HYw",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "4d0c96380c75",
+    "slug": "meta-ai-chat-reklamalarini-joriy-etishni-korib-chiqmoqda-4d0c96",
+    "title": "Meta AI chat reklamalarini joriy etishni ko'rib chiqmoqda",
+    "summary": "Meta kompaniyasi sun'iy intellektga asoslangan chat reklamalarini joriy etish imkoniyatini o'rganmoqda. Bu qidiruv va ijtimoiy media reklamalari byudjetlarini qayta taqsimlashga olib kelishi mumkin.",
+    "tags": [
+      "Meta",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": -3.6,
+    "published": "2026-11-03T10:35:00.000Z",
+    "created": "2026-11-05T01:01:44.423Z",
+    "coverage": 1,
+    "source": {
+      "name": "BigGo Finance",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5Wbk4ycTBzaW1RdmF1Y0ZucUs4Uno4SC1yTTNSWi1icmJNUDN2SGdjRC1kdlctaWtzMExna05ibzVzRXRJTXpSWmkwNndqRmVuMlRkT0pwYnpab1ZpeTJLWTJIOUtnUTFTa1ZQQ2VIRmgtZ1k0NVE",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "273dfe82d77d",
     "slug": "demokratlar-g-alabasidan-so-ng-kosmik-datamarkazlarga-qiziqi-273dfe",
     "title": "Demokratlar g‘alabasidan so‘ng kosmik datamarkazlarga qiziqish",
