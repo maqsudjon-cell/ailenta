@@ -1,5 +1,164 @@
 [
   {
+    "id": "76a07abc4dc2",
+    "slug": "buyuk-britaniya-ai-uchun-muhim-minerallarda-xitoyga-bog-liq-76a07a",
+    "title": "Buyuk Britaniya AI uchun muhim minerallarda Xitoyga bog‘liq",
+    "summary": "Parlament tekshiruvi Buyuk Britaniyaning mudofaa va AI uchun zarur bo‘lgan muhim xomashyoda Xitoyga \"xavfli\" darajada bog‘liq ekanligini aniqladi. Deputatlar markazlashgan siyosat va moliyalashtirishni talab qildi.",
+    "tags": [
+      "siyosat",
+      "iqtisod"
+    ],
+    "importance": 3,
+    "score": 23,
+    "published": "2026-11-05T05:00:55.000Z",
+    "created": "2026-11-05T07:02:24.143Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/world/2026/nov/05/uk-dangerously-reliant-on-china-critical-minerals-military-ai-renewable-energy",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "add3fdcdf6eb",
+    "slug": "oracle-aqsh-bosimi-ostida-tencent-bilan-chip-shartnomasini-b-add3fd",
+    "title": "Oracle AQSH bosimi ostida Tencent bilan chip shartnomasini bekor qildi",
+    "summary": "Oracle AQSH ma'muriyati bosimi tufayli Tencent bilan 7 milliard dollarlik AI chip ijarasi bo‘yicha besh yillik shartnomani bekor qildi. Bu kelishuv Tencent'ga Oracle ma'lumot markazlarida 100 000 ga yaqin ilg‘or AI chipiga kirish imkonini berishi kerak edi.",
+    "tags": [
+      "Oracle",
+      "chiplar"
+    ],
+    "importance": 4,
+    "score": 21,
+    "published": "2026-11-05T06:03:02.000Z",
+    "created": "2026-11-05T07:02:24.143Z",
+    "coverage": 2,
+    "source": {
+      "name": "TechNode",
+      "url": "https://technode.com/2026/11/05/oracle-reportedly-cancels-7-billion-tencent-ai-chip-lease-under-us-pressure",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "BigGo Finance",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5IdEVBSmdyY1BaQXRJWms2Tm9lOVNtZVhXUEpOTy1ZVllCWGgxYVRJallEWDFOYnBGMnJxMllIWTJaOWlfMzdreFFlazl5WFI0OWZBNm5iU1pOVHJJTHU5LVBIa3pMU2FQYmZJZHlKOHFndGZzV1E"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "82ebf2690e46",
+    "slug": "pixar-asoschisi-ed-catmull-ai-davrida-karyera-haqida-maslaha-82ebf2",
+    "title": "Pixar asoschisi Ed Catmull AI davrida karyera haqida maslahat berdi",
+    "summary": "Pixar asoschisi Ed Catmullning fikricha, AI davrida eng aqlli karyera harakati – kelajakni qurishga yordam berishdir. U ishchilarni AI bilan shug‘ullanishga chaqirdi.",
+    "tags": [
+      "mehnat bozori",
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-11-05T05:06:10.000Z",
+    "created": "2026-11-05T07:02:24.143Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/pixar-cofounder-ed-catmull-advice-workers-worried-ai-2026-11",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "b9844244586e",
+    "slug": "helsing-bosh-direktori-mindmax-startapiga-2-5-mln-funt-sarmo-b98442",
+    "title": "Helsing bosh direktori Mindmax startapiga 2,5 mln funt sarmoya kiritdi",
+    "summary": "Helsing kompaniyasi bosh direktori AI ta'lim startapi Mindmax'ga 2,5 million funt sterling miqdorida sarmoya kiritishni qo‘llab-quvvatladi. Bu mablag‘ startapning rivojlanishiga yordam beradi.",
+    "tags": [
+      "biznes",
+      "ta'lim"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-11-05T05:00:27.000Z",
+    "created": "2026-11-05T07:02:24.143Z",
+    "coverage": 1,
+    "source": {
+      "name": "Sifted",
+      "url": "https://sifted.eu/articles/memrise-mindmax-helsing-funding-round-memory",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "473a023bdb2d",
+    "slug": "agentli-ai-tizimlari-uchun-resurs-orkestratsiyasi-tadqiqoti-473a02",
+    "title": "Agentli AI tizimlari uchun resurs orkestratsiyasi tadqiqoti",
+    "summary": "Yangi tadqiqot agentli AI tizimlari uchun noaniqlikni hisobga oluvchi resurs orkestratsiyasini taklif etadi. LLM'larga asoslangan bu tizimlarning resurs talablari ishga tushirish vaqtida noma'lum bo‘ladi.",
+    "tags": [
+      "tadqiqot",
+      "agentlar"
+    ],
+    "importance": 2,
+    "score": 13,
+    "published": "2026-11-05T05:00:00.000Z",
+    "created": "2026-11-05T07:02:24.143Z",
+    "coverage": 1,
+    "source": {
+      "name": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2611.05392",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "23c526b47ef6",
+    "slug": "mashinalar-qo-zg-oloni-bekor-qilindi-ai-hali-aql-emas-23c526",
+    "title": "Mashinalar qo‘zg‘oloni bekor qilindi: AI hali aql emas",
+    "summary": "Habr nashri AI tizimlarining xatolari emas, balki ularning o‘z maqsadlarisiz aqlga aylana olmasligi haqida yozdi. Maqolada zamonaviy AI tizimlari falsafiy aql tushunchasi bilan solishtirilgan.",
+    "tags": [
+      "tadqiqot",
+      "xavfsizlik"
+    ],
+    "importance": 2,
+    "score": 11,
+    "published": "2026-11-05T06:01:18.000Z",
+    "created": "2026-11-05T07:02:24.143Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1103598",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "c153bd90ad81",
+    "slug": "kvant-mashina-o-rganishi-klinik-malumotlarda-sinovdan-o-tdi-c153bd",
+    "title": "Kvant mashina o‘rganishi klinik ma'lumotlarda sinovdan o‘tdi",
+    "summary": "Yangi tadqiqot kvant mashina o‘rganish modellarini oltita klinik ma'lumotlar to‘plamida klassik modellar bilan solishtirdi. Natijalar kvant modellarining klassiklardan ustun emasligini ko‘rsatdi.",
+    "tags": [
+      "tadqiqot",
+      "tibbiyot"
+    ],
+    "importance": 2,
+    "score": 10,
+    "published": "2026-11-05T05:00:00.000Z",
+    "created": "2026-11-05T07:02:24.143Z",
+    "coverage": 1,
+    "source": {
+      "name": "arXiv cs.LG",
+      "url": "https://arxiv.org/abs/2611.05442",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "548b7ff4ba61",
     "slug": "ai-xavfsizligi-sentinelonega-investitsiya-holatini-ozgartiri-548b7f",
     "title": "AI xavfsizligi SentinelOne'ga investitsiya holatini o'zgartirishi mumkin",
