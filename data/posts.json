@@ -1,5 +1,142 @@
 [
   {
+    "id": "3df4d68063a5",
+    "slug": "nvidia-ai-xotira-muammosini-hal-qilishda-yetakchi-3df4d6",
+    "title": "Nvidia AI xotira muammosini hal qilishda yetakchi",
+    "summary": "Katta modellar va agent ilovalari GPU xotirasiga bosimni oshirmoqda. Nvidia xotira yetkazib beruvchilar bilan hamkorlikda eng yangi texnologiyalarni joriy etmoqda. Kompaniya HBM3e va HBM4 texnologiyalarini tezlashtirilgan hisoblash tizimlariga birinchi bo'lib qo'llagan.",
+    "tags": [
+      "Nvidia",
+      "chiplar"
+    ],
+    "importance": 4,
+    "score": 39,
+    "published": "2026-11-05T16:00:00.000Z",
+    "created": "2026-11-05T18:37:33.918Z",
+    "coverage": 1,
+    "source": {
+      "name": "Nvidia",
+      "url": "https://blogs.nvidia.com/blog/memory-full-stack-codesign",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "468ebb76666d",
+    "slug": "goncourt-mukofoti-sovrindori-ai-ishlatganini-tan-oldi-468ebb",
+    "title": "Goncourt mukofoti sovrindori AI ishlatganini tan oldi",
+    "summary": "Prix Goncourt adabiy mukofoti sovrindori Philippe Jaenada o‘z romanini yozishda sun'iy intellektdan foydalanganini ma'lum qildi. Bu boshqa bir kitob AI ishlatgani sababli ro‘yxatdan chiqarilganidan so‘ng yuz berdi.",
+    "tags": [
+      "biznes",
+      "qonun"
+    ],
+    "importance": 3,
+    "score": 29,
+    "published": "2026-11-05T18:08:58.000Z",
+    "created": "2026-11-05T18:37:33.918Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/books/2026/nov/05/winner-of-the-prix-goncourt-literary-prize-admits-to-using-ai-philippe-jaenada",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "189779f0923d",
+    "slug": "ai-firibgarliklari-qirolining-etiroflari-189779",
+    "title": "AI firibgarliklari qirolining e'tiroflari",
+    "summary": "AI firibgarliklari bilan shug'ullangan shaxsning ko'tarilishi va qulashi haqida xabar berildi. Bu voqea AI bilan bog'liq yangi xavotirlarni yuzaga keltirdi.",
+    "tags": [
+      "xavfsizlik",
+      "qonun"
+    ],
+    "importance": 2,
+    "score": 25,
+    "published": "2026-11-05T14:30:59.000Z",
+    "created": "2026-11-05T18:37:33.918Z",
+    "coverage": 2,
+    "source": {
+      "name": "404 Media",
+      "url": "https://404media.co/an-ai-fraud-kingpins-confessions",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "404 Media",
+        "url": "https://404media.co/the-confessions-of-an-ai-fraud-kingpin-onlyfake-owner-nazarenko"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "619ab044248f",
+    "slug": "avstraliyada-ai-va-datamarkazlar-foydasi-korinmayapti-619ab0",
+    "title": "Avstraliyada AI va datamarkazlar foydasi ko'rinmayapti",
+    "summary": "Avstraliyaliklar AI va datamarkazlarning foydasini hali sezmayapti. Bu texnologiyalar mualliflik huquqi, energiya va suv iste'moli hamda ish o'rinlariga ta'sir ko'rsatmoqda.",
+    "tags": [
+      "siyosat",
+      "iqtisod"
+    ],
+    "importance": 3,
+    "score": 23,
+    "published": "2026-11-05T14:00:26.000Z",
+    "created": "2026-11-05T18:37:33.918Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/australia-news/2026/nov/06/ai-datacentre-boom-could-be-political-kryptonite-australia",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "c90c493d2edf",
+    "slug": "aini-tushunarli-qilish-har-bir-baytda-c90c49",
+    "title": "AI'ni tushunarli qilish: har bir baytda",
+    "summary": "Matn AI'ni qanday qilib oddiy va tushunarli qilish haqida. Bu jarayon har bir kichik qadamda amalga oshiriladi.",
+    "tags": [
+      "tadqiqot",
+      "ta'lim"
+    ],
+    "importance": 1,
+    "score": 20.4,
+    "published": "2026-11-05T00:00:00.000Z",
+    "created": "2026-11-05T18:37:33.918Z",
+    "coverage": 1,
+    "source": {
+      "name": "Nature",
+      "url": "https://nature.com/articles/s41592-026-03338-w",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "9bfc288acd53",
+    "slug": "kripto-treker-xakerligi-chainalysis-vositalari-nishonda-9bfc28",
+    "title": "Kripto-treker xakerligi: Chainalysis vositalari nishonda",
+    "summary": "Oktyabr oyida kripto-treker xakerligi sodir bo'ldi. Agentik \"on-path attack\" usuli bilan Chainalysis kompaniyasining huquq-tartibot idoralariga yordam beruvchi vositalariga hujum qilindi.",
+    "tags": [
+      "xavfsizlik",
+      "qonun"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-11-05T18:03:00.000Z",
+    "created": "2026-11-05T18:37:33.918Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/cyber-crime/2026/11/05/october-crypto-tracker-hack-access-cracked-law-enforcement-tokens-packed/5307852",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "131d2f9d4f0b",
     "slug": "mercedes-benz-avtomobillarida-lokal-ai-joriy-etiladi-131d2f",
     "title": "Mercedes-Benz avtomobillarida lokal AI joriy etiladi",

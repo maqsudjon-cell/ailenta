@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/chiplar/</link>
   <description>&quot;chiplar&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Thu, 05 Nov 2026 18:12:17 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 05 Nov 2026 18:45:50 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/chiplar/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Nvidia AI xotira muammosini hal qilishda yetakchi</title>
+    <link>https://ailenta.uz/x/nvidia-ai-xotira-muammosini-hal-qilishda-yetakchi-3df4d6/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/nvidia-ai-xotira-muammosini-hal-qilishda-yetakchi-3df4d6/</guid>
+    <pubDate>Thu, 05 Nov 2026 16:00:00 GMT</pubDate>
+    <description>Katta modellar va agent ilovalari GPU xotirasiga bosimni oshirmoqda. Nvidia xotira yetkazib beruvchilar bilan hamkorlikda eng yangi texnologiyalarni joriy etmoqda. Kompaniya HBM3e va HBM4 texnologiyalarini tezlashtirilgan hisoblash tizimlariga birinchi bo'lib qo'llagan.</description>
+    <category>Nvidia</category><category>chiplar</category>
+    <media:content url="https://ailenta.uz/og/nvidia-ai-xotira-muammosini-hal-qilishda-yetakchi-3df4d6.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/nvidia-ai-xotira-muammosini-hal-qilishda-yetakchi-3df4d6.jpg"/>
+  </item>
   <item>
     <title>AI talabi tufayli DRAM daromadi 369 foizga oshdi</title>
     <link>https://ailenta.uz/x/ai-talabi-tufayli-dram-daromadi-369-foizga-oshdi-600826/</link>
@@ -296,16 +306,6 @@
     <category>iqtisod</category><category>chiplar</category>
     <media:content url="https://ailenta.uz/og/sk-hynix-daromadi-ai-aksiyalari-osishini-korsatdi-c41ab6.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/sk-hynix-daromadi-ai-aksiyalari-osishini-korsatdi-c41ab6.jpg"/>
-  </item>
-  <item>
-    <title>HP AI talabi tufayli ishlab chiqarishni Xitoyga qaytarmoqda</title>
-    <link>https://ailenta.uz/x/hp-ai-talabi-tufayli-ishlab-chiqarishni-xitoyga-qaytarmoqda-13c777/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/hp-ai-talabi-tufayli-ishlab-chiqarishni-xitoyga-qaytarmoqda-13c777/</guid>
-    <pubDate>Wed, 28 Oct 2026 22:26:21 GMT</pubDate>
-    <description>HP kompaniyasi xotira va saqlash chiplari narxining oshishi sababli ishlab chiqarishning bir qismini Xitoyga qaytarmoqda. Bu o'sish sun'iy intellektga bo'lgan talab bilan bog'liq.</description>
-    <category>chiplar</category><category>biznes</category>
-    <media:content url="https://ailenta.uz/og/hp-ai-talabi-tufayli-ishlab-chiqarishni-xitoyga-qaytarmoqda-13c777.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/hp-ai-talabi-tufayli-ishlab-chiqarishni-xitoyga-qaytarmoqda-13c777.jpg"/>
   </item>
 </channel>
 </rss>
