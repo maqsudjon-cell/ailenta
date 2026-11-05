@@ -1,5 +1,223 @@
 [
   {
+    "id": "273dfe82d77d",
+    "slug": "demokratlar-g-alabasidan-so-ng-kosmik-datamarkazlarga-qiziqi-273dfe",
+    "title": "Demokratlar g‘alabasidan so‘ng kosmik datamarkazlarga qiziqish",
+    "summary": "Demokratlar Texas va boshqa AI infratuzilma markazlarida g‘alaba qozonganidan so‘ng, datamarkaz ixlosmandlari past Yer orbitasiga e'tibor qaratmoqda. Ular kosmik datamarkazlarda yechim izlamoqda.",
+    "tags": [
+      "siyosat",
+      "bulut"
+    ],
+    "importance": 2,
+    "score": 26,
+    "published": "2026-11-04T23:13:14.000Z",
+    "created": "2026-11-05T00:06:10.826Z",
+    "coverage": 1,
+    "source": {
+      "name": "Wired",
+      "url": "https://wired.com/story/the-blue-wave-has-tech-bros-scrambling-for-data-centers-in-space",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "6952b5a07b22",
+    "slug": "avstraliyada-saylovda-ai-yaratgan-videolar-bahsi-6952b5",
+    "title": "Avstraliyada saylovda AI yaratgan videolar bahsi",
+    "summary": "Avstraliyaning Viktoriya shtatida yirik partiyalar saylov reklamalarida AI yaratgan videolar bo‘yicha bahslashmoqda. Mutaxassislar bu holat siyosatga bo‘lgan ishonchni pasaytirishi mumkinligini aytmoqda.",
+    "tags": [
+      "siyosat",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 23,
+    "published": "2026-11-04T23:00:46.000Z",
+    "created": "2026-11-05T00:06:10.826Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/australia-news/2026/nov/05/victoria-election-2026-ai-generated-video-ads-ntwnfb",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "9237dfef9309",
+    "slug": "qualcomm-smartfon-savdosi-pasayishi-sabab-datamarkazlarga-et-9237df",
+    "title": "Qualcomm smartfon savdosi pasayishi sabab datamarkazlarga e'tibor",
+    "summary": "Smartfon savdosi 2025-yilga nisbatan 20 foizga kamayganligi sababli, Qualcomm datamarkazlar biznesiga katta e'tibor qaratmoqda. Kompaniya Amazon va Meta bilan hamkorlikda AI datamarkazlari bozoriga kirishni rejalashtirmoqda.",
+    "tags": [
+      "Qualcomm",
+      "bulut"
+    ],
+    "importance": 3,
+    "score": 18,
+    "published": "2026-11-04T22:42:15.000Z",
+    "created": "2026-11-05T00:06:10.826Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Verge",
+      "url": "https://theverge.com/ai-artificial-intelligence/1026867/qualcomm-earnings-data-centers",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "cd8fbc4188ca",
+    "slug": "shimoliy-dakotada-faqat-bir-shahar-datamarkazlarni-qo-llab-q-cd8fbc",
+    "title": "Shimoliy Dakotada faqat bir shahar datamarkazlarni qo‘llab-quvvatladi",
+    "summary": "Oraliq saylovlarda datamarkazlar bo‘yicha 45 ta taklifdan faqat bitta kichik shahar ularni cheklashga qarshi ovoz berdi. Bu Shimoliy Dakotada sodir bo‘ldi.",
+    "tags": [
+      "siyosat",
+      "bulut"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-11-04T23:09:39.000Z",
+    "created": "2026-11-05T00:06:10.826Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/ai-data-center-backlash-vote-election-harwood-north-dakota-2026-11",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "b586c30ec89d",
+    "slug": "snapchat-30-milliondan-ortiq-pullik-obunachiga-ega-b586c3",
+    "title": "Snapchat+ 30 milliondan ortiq pullik obunachiga ega",
+    "summary": "Snap kompaniyasi Snapchat+ va boshqa rejalari bo‘yicha 30 milliondan ortiq pullik obunachiga ega. Foydalanuvchilar AI yordamida ishlaydigan effektlar uchun pul to‘lashga tayyor ko‘rinadi.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-11-04T22:55:57.000Z",
+    "created": "2026-11-05T00:06:10.826Z",
+    "coverage": 1,
+    "source": {
+      "name": "Engadget",
+      "url": "https://engadget.com/2307356/snap-has-more-than-30-million-paid-subscribers-across-snapchat-and-other-plans",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "5902afc5dd8b",
+    "slug": "sam-altman-ai-xotira-tanqisligi-haqida-hazillashdi-5902af",
+    "title": "Sam Altman AI xotira tanqisligi haqida hazillashdi",
+    "summary": "Sam Altman ijtimoiy tarmoqlarda o‘z ismini \"Ram Altman\" deb o‘zgartirib, AI sanoatidagi xotira tanqisligi haqida hazillashdi. Bu AI tizimlarining xotiraga bo‘lgan talabiga ishora.",
+    "tags": [
+      "OpenAI",
+      "chiplar"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-11-04T17:18:12.000Z",
+    "created": "2026-11-05T00:06:10.826Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/openais-sam-altman-briefly-changes-name-ram-altman-on-x-2026-11",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "801f575b69c4",
+    "slug": "anthropic-ogohlantirishi-ai-nazoratini-o-zgartirishga-chaqir-801f57",
+    "title": "Anthropic ogohlantirishi AI nazoratini o‘zgartirishga chaqirmoqda",
+    "summary": "Anthropic kompaniyasining keskin ogohlantirishi sun'iy intellektni Silikon vodiysi nazoratidan chiqarish zarurligini ko‘rsatmoqda. Bu AI boshqaruvi bo‘yicha muhim munozaralarga sabab bo‘lmoqda.",
+    "tags": [
+      "Anthropic",
+      "siyosat"
+    ],
+    "importance": 3,
+    "score": 7,
+    "published": "2026-11-04T17:06:49.000Z",
+    "created": "2026-11-05T00:06:10.826Z",
+    "coverage": 1,
+    "source": {
+      "name": "Crain's Chicago Business",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZm5yalE3Ylc4bTdXaDN6SnFRRUE2NzJPcVJOeUlwQzlxSlRpLXlneGZ5RzZEVlFCSnE2RURpUEd1dWJLZzVWVkhMeDIwSzFxcU0tQy1OVVBOVDJHQmVPWUFZQWtWU1BGcmVNSEZRZXNJOURla25aQkxDdVRCcDdZSVVYTmgtczVXYXpmd0VQX1NYeDU4UWtZVEQ5NUJoeFhGNEVZUHFWeDhlQWF6X0N6T0c1TDVmN2RwS01qTg",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "23d3fdb0b9ae",
+    "slug": "demokratlar-g-alabasiga-qaramay-ai-chip-aksiyalari-ko-tarild-23d3fd",
+    "title": "Demokratlar g‘alabasiga qaramay AI chip aksiyalari ko‘tarildi",
+    "summary": "Demokratlar g‘alaba qozonganiga qaramay, Nvidia va AMD kabi AI chip kompaniyalarining aksiyalari ko‘tarildi. AMD'ning kuchli prognozi investorlar optimizmini oshirdi.",
+    "tags": [
+      "Nvidia",
+      "AMD"
+    ],
+    "importance": 3,
+    "score": 7,
+    "published": "2026-11-04T12:06:36.000Z",
+    "created": "2026-11-05T00:06:10.826Z",
+    "coverage": 1,
+    "source": {
+      "name": "TipRanks",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZE9GTGx3TUlCbEdndklGSTI2YnR2MjhxMkZUM3FFWEFFTElJX3dUV2RkLTVRNS1DNHd4THRDdW9iaHozLW1MSW85Y1NsdDVxWXQ3cnAzOXBGaGtaT1NnWjAxbzRQbkQ2SkVCNzZqYzlWV3UyT2c1WmRVYXRmR2lSVnZYMUhWS19yUWhXNlZSRkthM3BLVTRZNWtyUXJMYXdzQUpoX3ZtVDZyNF9JbXJZTmdvVzE1TXdsbXVNMlgzR2RYRzkwNXdV",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "920897af8d01",
+    "slug": "anthropic-o-z-o-zini-takomillashtiruvchi-ai-sekinlatadi-920897",
+    "title": "Anthropic o‘z-o‘zini takomillashtiruvchi AI sekinlatadi",
+    "summary": "O‘nlab milliard dollar sarflaganidan so‘ng, Anthropic o‘z-o‘zini takomillashtiruvchi sun'iy intellektni rivojlantirishni sekinlashtirishga asoslar ko‘rmoqda. Bu kompaniyaning tadqiqot strategiyasidagi o‘zgarishni anglatadi.",
+    "tags": [
+      "Anthropic",
+      "tadqiqot"
+    ],
+    "importance": 4,
+    "score": 5.4,
+    "published": "2026-11-04T00:26:08.000Z",
+    "created": "2026-11-05T00:06:10.826Z",
+    "coverage": 1,
+    "source": {
+      "name": "R&D World",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOTXk1MUM1T211NlhyM0tfUDZnN1czZTdGdGVpSUZqb3RnNktPd3dOZ2xjNDVMLXoxd1R5WE9iN0hrX0NaNmpreWxoNm1Nb1gyRElOUXI1WkJSMFh3aS1FZGpKNDRCTnAweGJyeHUwbmE5VnM3WmFPcXoxSWtLc0JJX2dUREg1SHlPZDZGS1lqakIzVzdDNDZ6N050SF9hajV3UXlVOU15Z0tjbTNTRDNDLU5oV1ZodG5FY0dwZVZMY0kzR2ZsN1JEVU9mbWo",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "dc386692b027",
+    "slug": "murakkab-tarmoqlarda-hamjamiyatni-aniqlash-bo-yicha-tadqiqot-dc3866",
+    "title": "Murakkab tarmoqlarda hamjamiyatni aniqlash bo‘yicha tadqiqot",
+    "summary": "Yangi tadqiqot murakkab tarmoqlarda hamjamiyatni aniqlash uchun uchta yangi ierarxik tizimni taklif qiladi. Bu yondashuv turli klasterlash algoritmlari va grafik tasvirlash modellarini qo‘llab-quvvatlaydi.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 1,
+    "score": 4.2,
+    "published": "2026-11-04T05:00:00.000Z",
+    "created": "2026-11-05T00:06:10.826Z",
+    "coverage": 1,
+    "source": {
+      "name": "arXiv cs.LG",
+      "url": "https://arxiv.org/abs/2303.12212",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "a4f4c423c542",
     "slug": "openai-linux-kernelidagi-948-zaiflikni-bartaraf-etdi-a4f4c4",
     "title": "OpenAI Linux kernelidagi 948 zaiflikni bartaraf etdi",
