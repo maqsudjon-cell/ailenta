@@ -1,5 +1,26 @@
 [
   {
+    "id": "6addc22997bd",
+    "slug": "til-modellarida-javoblar-xilma-xilligi-tahlil-qilindi-6addc2",
+    "title": "Til modellarida javoblar xilma-xilligi tahlil qilindi",
+    "summary": "Tadqiqotchilar shartli o‘zaro axborot yondashuvi yordamida til modellarida javoblar xilma-xilligini tahlil qildi. Tahlilda harorat parametriga bog‘liq uchta chekli xatti-harakat aniqlandi. Natijalarni promptlarni siqish va bilimlar grafiklarida qo‘llash taklif etildi.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 3,
+    "published": "2026-11-04T05:00:00.000Z",
+    "created": "2026-11-05T03:01:33.301Z",
+    "coverage": 1,
+    "source": {
+      "name": "arXiv cs.CL",
+      "url": "https://arxiv.org/abs/2611.03836",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "e420417a0c5b",
     "slug": "anthropic-aisi-arzonlashuvi-biznesga-muammo-tugdirmoqda-e42041",
     "title": "Anthropic AI'si arzonlashuvi biznesga muammo tug'dirmoqda",
