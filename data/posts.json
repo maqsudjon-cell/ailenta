@@ -1,5 +1,116 @@
 [
   {
+    "id": "5fe47db2d0c3",
+    "slug": "tunguz-ai-uchun-80-gvt-quvvat-chegarasini-kormoqda-5fe47d",
+    "title": "Tunguz AI uchun 80 GVt quvvat chegarasini ko'rmoqda",
+    "summary": "Tunguz AI uchun maksimal 80 GVt quvvat chegarasini prognoz qilmoqda. Anthropic kompaniyasining sotuvlarining 58 foizi hisoblash quvvatiga sarflanmoqda.",
+    "tags": [
+      "Anthropic",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 10,
+    "published": "2026-11-05T09:34:34.000Z",
+    "created": "2026-11-05T09:36:46.185Z",
+    "coverage": 1,
+    "source": {
+      "name": "FourWeekMBA",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZVJqd2huMUZRU0tZdzB5Vm90dDFrMEJsYXNTbUY4bmVvSzR0TU9vR1BFclJSVU5ZRXd2eEpEaEcxWDNoYXV0eVdoNlUwTEdVRGtWSjNSWDBBNTlEYTFBVGpDemREN25zcnNHLXlzNVVETVdMSi1mQzhMX05KQkJRcUU2MHQyWExJZnMwTFdEaw",
+      "title": "Tunguz Sees 80 GW AI Ceiling; Anthropic Compute 58% of Sales",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "08c83ee59849",
+    "slug": "revolut-sobiq-xodimlari-haido-ai-startapini-ishga-tushirdi-08c83e",
+    "title": "Revolut sobiq xodimlari Haido AI startapini ishga tushirdi",
+    "summary": "Revolut kompaniyasining sobiq xodimlari Haido nomli AI wealthtech startapini taqdim etdi. Bu yangi kompaniya moliyaviy texnologiyalar sohasida sun'iy intellektga asoslangan xizmatlarni taklif qiladi.",
+    "tags": [
+      "biznes",
+      "mehnat bozori"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-11-05T09:08:50.000Z",
+    "created": "2026-11-05T09:37:04.827Z",
+    "coverage": 1,
+    "source": {
+      "name": "Sifted",
+      "url": "https://sifted.eu/articles/haido-emerges-from-stealth",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "31a48387d71d",
+    "slug": "model-boshqa-model-ogirliklarini-oqitishsiz-tahrirladi-31a483",
+    "title": "Model boshqa model og'irliklarini o'qitishsiz tahrirladi",
+    "summary": "Tadqiqotda bir model boshqa modelning og'irliklarini o'qitishsiz tahrirlagani muhokama qilinadi. Maqolada Qwen, Gemma, Llama va MoE modellarining og'irliklari joylashuvi hamda bu usulning cheklovlari tahlil qilingan.",
+    "tags": [
+      "tadqiqot",
+      "ochiq model"
+    ],
+    "importance": 3,
+    "score": 14,
+    "published": "2026-11-05T09:04:44.000Z",
+    "created": "2026-11-05T09:37:04.827Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1103804",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "02717d2119fb",
+    "slug": "amodei-mualliflik-huquqi-davosini-rad-etishga-erishdi-02717d",
+    "title": "Amodei mualliflik huquqi da'vosini rad etishga erishdi",
+    "summary": "Dario Amodei, mualliflik huquqini bevosita buzish bo‘yicha da’voni rad etishga muvaffaq bo‘ldi. Sud da’voni o‘zgartirish imkoniyati bilan rad etish haqida qaror chiqardi.",
+    "tags": [
+      "sud",
+      "qonun"
+    ],
+    "importance": 3,
+    "score": 11,
+    "published": "2026-11-05T01:24:03.000Z",
+    "created": "2026-11-05T09:37:04.827Z",
+    "coverage": 1,
+    "source": {
+      "name": "Unite.AI",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQU0ZSVVdMZHozdEtRUHkzQjlXTWczUFktRGhCUm50dWhoQjVSLWVhUzZJV2Y0RmJmMjJJWmp6Rkp2a08yc01NYUN3SDVnenJkaUdwZFMxcW9rNk9JZk5ITDNoYUF4OEJZdTJKUlJmbUQ5TmcyaUM3cWozMXdabVN3Z0NWMC1zUVdWSmF3UDQzcnBMX3M",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "1d86d0c37279",
+    "slug": "anthropic-sinovida-ai-hujumchisi-bloklandi-1d86d0",
+    "title": "Anthropic sinovida AI hujumchisi bloklandi",
+    "summary": "Anthropic o‘tkazgan sinovda mikrosegmentatsiya yordamida AI hujumchisi bloklandi. Bu AI tizimlarining xavfsizligini ta’minlashda muhim qadam hisoblanadi.",
+    "tags": [
+      "Anthropic",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 10,
+    "published": "2026-11-05T09:00:00.000Z",
+    "created": "2026-11-05T09:37:04.827Z",
+    "coverage": 1,
+    "source": {
+      "name": "SecurityBrief Asia",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUWVQM21mVFJ1enNUeHNyNGVmeVlDaFEteGs1bVBuenZURUFxLTNNSFdTSDBQUFVIN3FjTUdoMWVUdzg3RGV4QjRKUUFLcmJLSzdKS3YxX0poRHlVZ0JmTENTUUZ4NmtLd1FMMzhTRTNNaDN0M2s3bm9vTE95OGQyVEQ5WXptRTBZM2pkU3FzMGVNS08tQVE",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "20113f84928a",
     "slug": "buyuk-britaniyada-ai-konikmalariga-talab-keskin-oshdi-20113f",
     "title": "Buyuk Britaniyada AI ko'nikmalariga talab keskin oshdi",

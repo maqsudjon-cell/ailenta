@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/ochiq-model/</link>
   <description>&quot;ochiq model&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Thu, 05 Nov 2026 09:12:42 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 05 Nov 2026 09:47:33 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/ochiq-model/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Model boshqa model og'irliklarini o'qitishsiz tahrirladi</title>
+    <link>https://ailenta.uz/x/model-boshqa-model-ogirliklarini-oqitishsiz-tahrirladi-31a483/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/model-boshqa-model-ogirliklarini-oqitishsiz-tahrirladi-31a483/</guid>
+    <pubDate>Thu, 05 Nov 2026 09:04:44 GMT</pubDate>
+    <description>Tadqiqotda bir model boshqa modelning og'irliklarini o'qitishsiz tahrirlagani muhokama qilinadi. Maqolada Qwen, Gemma, Llama va MoE modellarining og'irliklari joylashuvi hamda bu usulning cheklovlari tahlil qilingan.</description>
+    <category>tadqiqot</category><category>ochiq model</category>
+    <media:content url="https://ailenta.uz/og/model-boshqa-model-ogirliklarini-oqitishsiz-tahrirladi-31a483.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/model-boshqa-model-ogirliklarini-oqitishsiz-tahrirladi-31a483.jpg"/>
+  </item>
   <item>
     <title>Datasette Apps 0.3a0 versiyasi chiqarildi</title>
     <link>https://ailenta.uz/x/datasette-apps-0-3a0-versiyasi-chiqarildi-42f481/</link>
@@ -296,16 +306,6 @@
     <category>ochiq model</category><category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/frida-decisions-rus-tili-uchun-tezkor-ai-modeli-ad3d69.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/frida-decisions-rus-tili-uchun-tezkor-ai-modeli-ad3d69.jpg"/>
-  </item>
-  <item>
-    <title>MWS AI Vision Bench sinov to‘plamiga antifrod qo‘shildi</title>
-    <link>https://ailenta.uz/x/mws-ai-vision-bench-sinov-to-plamiga-antifrod-qo-shildi-14e17f/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/mws-ai-vision-bench-sinov-to-plamiga-antifrod-qo-shildi-14e17f/</guid>
-    <pubDate>Thu, 08 Oct 2026 13:00:29 GMT</pubDate>
-    <description>MWS AI Vision Bench, rus tilidagi hujjatlar uchun multimodal modellarni baholovchi sinov to‘plami, bir yil ichida yangilandi. Unga firibgarlikka qarshi kurash (anti-fraud) vazifasi qo‘shildi.</description>
-    <category>tadqiqot</category><category>ochiq model</category>
-    <media:content url="https://ailenta.uz/og/mws-ai-vision-bench-sinov-to-plamiga-antifrod-qo-shildi-14e17f.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/mws-ai-vision-bench-sinov-to-plamiga-antifrod-qo-shildi-14e17f.jpg"/>
   </item>
 </channel>
 </rss>
