@@ -1,5 +1,93 @@
 [
   {
+    "id": "eb62250389ea",
+    "slug": "demokratlar-g-alabasi-ortidan-ai-aksiyalari-tushib-ketdi-eb6225",
+    "title": "Demokratlar g‘alabasi ortidan AI aksiyalari tushib ketdi",
+    "summary": "AQSHdagi oraliq saylovlarda Demokratlar g‘alabasi ortidan texnologiya aksiyalari keskin tushib ketdi. Bozorlardan trillionlab dollar yo‘qotildi, bu AI rivojlanishining sekinlashishi xavotirlari bilan bog‘liq.",
+    "tags": [
+      "siyosat",
+      "iqtisod"
+    ],
+    "importance": 5,
+    "score": 32,
+    "published": "2026-11-06T17:58:05.000Z",
+    "created": "2026-11-06T19:54:35.428Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/commentisfree/2026/nov/06/the-guardian-view-on-the-ai-backlash-american-voters-want-a-say-in-their-future",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "11e1f12c24d5",
+    "slug": "ai-aksiyalari-trillionlab-yo-qotishlardan-so-ng-ko-tarildi-11e1f1",
+    "title": "AI aksiyalari trillionlab yo‘qotishlardan so‘ng ko‘tarildi",
+    "summary": "Demokratlar g‘alabasi AI rivojlanishini sekinlashtirishi mumkin degan xavotirlar tufayli texnologiya aksiyalari sotilganidan so‘ng, AI aksiyalari qayta ko‘tarildi.",
+    "tags": [
+      "iqtisod",
+      "siyosat"
+    ],
+    "importance": 3,
+    "score": 23,
+    "published": "2026-11-06T19:37:10.000Z",
+    "created": "2026-11-06T19:54:35.428Z",
+    "coverage": 1,
+    "source": {
+      "name": "BBC News",
+      "url": "https://bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "ba5f1cdb14f5",
+    "slug": "chemeleon-molekulalar-xatti-harakatini-bashorat-qiladi-ba5f1c",
+    "title": "CheMeleon molekulalar xatti-harakatini bashorat qiladi",
+    "summary": "CheMeleon nomli mashina o‘rganish usuli kam ma'lumotlar asosida molekulalar xatti-harakatini bashorat qilish imkonini beradi. Bu yangi dori va molekulalarni ishlab chiqishni soddalashtiradi.",
+    "tags": [
+      "tadqiqot",
+      "tibbiyot"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-11-06T19:00:00.000Z",
+    "created": "2026-11-06T19:54:35.428Z",
+    "coverage": 1,
+    "source": {
+      "name": "MIT News",
+      "url": "https://news.mit.edu/2026/how-to-predict-molecule-behavior-with-scant-data-1106",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "7e14bbabfdd7",
+    "slug": "aqshda-malumot-markazlari-qurilishiga-cheklovlar-kutilmoqda-7e14bb",
+    "title": "AQSHda ma'lumot markazlari qurilishiga cheklovlar kutilmoqda",
+    "summary": "AQSH oraliq saylovlaridan so‘ng, yangi saylangan Demokrat gubernatorlar ma'lumot markazlari qurilishini to‘xtatishga va cheklashga va'da berdi. Bu rejalashtirilgan quvvatning taxminan 40% ga ta'sir qilishi mumkin.",
+    "tags": [
+      "siyosat",
+      "bulut"
+    ],
+    "importance": 4,
+    "score": 18,
+    "published": "2026-11-06T09:25:00.000Z",
+    "created": "2026-11-06T19:54:35.428Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/261106/p6",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "2440204bed8f",
     "slug": "yevrokomissiya-tiktokni-ruhiyatga-zarar-yetkazishda-aybladi-244020",
     "title": "Yevrokomissiya TikTok’ni ruhiyatga zarar yetkazishda aybladi",
