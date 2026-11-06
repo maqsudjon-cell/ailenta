@@ -1,22 +1,132 @@
 [
   {
+    "id": "431b61b6bf40",
+    "slug": "aqsh-saylovchilari-ai-loyihalarini-rad-etdi-431b61",
+    "title": "AQSH saylovchilari AI loyihalarini rad etdi",
+    "summary": "AQSHdagi oraliq saylovlarda saylovchilar ma'lumotlar markazi loyihalarini rad etdi. Ular texnologiyani tartibga solishni va'da qilgan demokrat nomzodlarni sayladi.",
+    "tags": [
+      "siyosat",
+      "qonun"
+    ],
+    "importance": 4,
+    "score": 23.3,
+    "published": "2026-11-04T19:53:16.000Z",
+    "created": "2026-11-06T00:44:56.852Z",
+    "coverage": 1,
+    "source": {
+      "name": "The New York Times",
+      "url": "https://nytimes.com/2026/11/04/technology/midterm-elections-ai-data-centers.html",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "ff430ec6d234",
+    "slug": "meta-ai-o-qitish-shartlarini-vaqtincha-to-xtatdi-ff430e",
+    "title": "Meta AI o‘qitish shartlarini vaqtincha to‘xtatdi",
+    "summary": "Meta kompaniyasi o‘zining yangi AI o‘qitish shartlarini vaqtincha to‘xtatdi. Bu qaror jamoatchilikning noroziligidan so‘ng qabul qilindi.",
+    "tags": [
+      "Meta",
+      "maxfiylik"
+    ],
+    "importance": 3,
+    "score": 22,
+    "published": "2026-11-05T21:01:55.000Z",
+    "created": "2026-11-06T00:44:56.852Z",
+    "coverage": 1,
+    "source": {
+      "name": "404 Media",
+      "url": "https://404media.co/meta-generative-ai-commercial-terms-on-pause",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "abe8194f34cf",
-    "slug": "anthropic-haqida-uchinchi-tomon-xavfsizlik-hisoboti-chiqdi-abe819",
-    "title": "Anthropic haqida uchinchi tomon xavfsizlik hisoboti chiqdi",
-    "summary": "Anthropic shtab-kvartirasida faoliyat yuritgan uchinchi tomon xavfsizlik tadqiqotchilari o‘zlarining birinchi hisobotini e'lon qildi. Bu hisobot kompaniyaning AI xavfsizligi bo‘yicha muhim ma'lumotlarni o‘z ichiga oladi.",
+    "slug": "anthropic-ai-rivojlanishi-bo-yicha-hisobot-chiqdi-abe819",
+    "title": "Anthropic AI rivojlanishi bo‘yicha hisobot chiqdi",
+    "summary": "Uchinchi tomon xavfsizlik tadqiqotchilari Anthropicning AI rivojlanishi haqida hisobot e'lon qildi. Ushbu hisobotda kompaniyaning sun'iy intellekt faoliyati tahlil qilingan.",
     "tags": [
       "Anthropic",
       "xavfsizlik"
     ],
-    "importance": 4,
+    "importance": 3,
     "score": 18,
     "published": "2026-11-05T20:40:40.000Z",
-    "created": "2026-11-06T00:28:43.391Z",
+    "created": "2026-11-06T00:44:56.852Z",
     "coverage": 1,
     "source": {
       "name": "Business Insider",
       "url": "https://businessinsider.com/anthropic-metr-ai-researchers-report-productivity-recursive-self-improvement-2026-11",
       "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "6f78e24cdb5b",
+    "slug": "facebook-ai-deepfake-firibgar-reklamalarni-ishlatgan-6f78e2",
+    "title": "Facebook AI deepfake firibgar reklamalarni ishlatgan",
+    "summary": "Mark Kuban Facebookning AI deepfake firibgar reklamalarini bilib turib ishlatganini aytdi. Hujjatlarga ko‘ra, bu firibgarlikdan 16 milliard dollar daromad olingan.",
+    "tags": [
+      "Meta",
+      "xavfsizlik"
+    ],
+    "importance": 4,
+    "score": 16.7,
+    "published": "2026-11-05T23:09:57.000Z",
+    "created": "2026-11-06T00:44:56.852Z",
+    "coverage": 1,
+    "source": {
+      "name": "Hacker News",
+      "url": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "455d54aa578b",
+    "slug": "ai-boshqaruvi-kelgusi-o-n-yillikni-belgilaydi-455d54",
+    "title": "AI boshqaruvi kelgusi o‘n yillikni belgilaydi",
+    "summary": "AWS va Anthropic hamkori Caylent bosh direktori AI boshqaruvi kelgusi o‘n yillikni belgilashini ta'kidladi. Uning fikricha, bu soha rivojlanishida muhim rol o‘ynaydi.",
+    "tags": [
+      "Anthropic",
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 10,
+    "published": "2026-11-05T16:30:00.000Z",
+    "created": "2026-11-06T00:44:56.852Z",
+    "coverage": 1,
+    "source": {
+      "name": "CRN",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWWl2SlRJUHY0TlVnMXg3b1RLR2pxVjFlMFNzRTRsY19UQnQwNVRHZ3dBS2tyUExJaEV4RnRCZWlzbWdCb3d0SnUtVTV2WERiNWJsX0JZR25SdlpjQTczRE1EMTQweDBFb0d2a0sxR2o3Z3dZUDAxMlBNZmRxeGhKcnBSNkc0QU5yZTNSVm1zMEgtQWNhNXl0dUpaV2wwT3Vic0thYzZfUXZNXzF4MExlVTRwZ3I",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "82534b0ef833",
+    "slug": "anthropic-riotning-28-mlrd-dollarlik-ijara-shartnomasida-vet-82534b",
+    "title": "Anthropic Riotning 28 mlrd dollarlik ijara shartnomasida veto oldi",
+    "summary": "Riot kompaniyasining 28 milliard dollarlik AI ijara shartnomasi Anthropicga ixtiyoriy elektr uzilishlariga veto qo‘yish huquqini beradi. Bu kelishuv Anthropicning energetika sohasidagi ta'sirini oshiradi.",
+    "tags": [
+      "Anthropic",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 10,
+    "published": "2026-11-05T13:10:25.000Z",
+    "created": "2026-11-06T00:44:56.852Z",
+    "coverage": 1,
+    "source": {
+      "name": "CryptoSlate",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcDdLOFVIQ0lNX3loS0t3cnlJSkxSaldobG9IT1pWXzBQanVzRllpSkxqNks5dnc1UmlSVTMwQzloME1zUGVDTGdmRVpfUXFzTXdqVDRpOGlXdzBJQjRJRnREZ3J6TnR0Q2FYSkx5NWJoUE5sTUxQWHZNX2J6MnBvaTNtb1lCVDhsOEtLblVTeVpFbkZrS3NMRFdBNEZzdw",
+      "indirect": true
     },
     "also": [],
     "model": "gemini"
