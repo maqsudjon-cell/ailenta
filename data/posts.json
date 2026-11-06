@@ -1,5 +1,49 @@
 [
   {
+    "id": "ed7a344f8f02",
+    "slug": "ai-xavfidan-qorqib-idora-xodimlari-ishdan-boshamoqda-ed7a34",
+    "title": "AI xavfidan qo'rqib idora xodimlari ishdan bo'shamoqda",
+    "summary": "Anthropic AI tadqiqotchisi Mrinank Sharma o'zi yaratishga yordam bergan texnologiya dunyoga xavf solayotganidan ogohlantirib, ishdan bo'shadi. Uning X platformasidagi maktubini 15,3 million kishi ko'rib chiqdi. Sharma endi she'riyat bo'yicha ta'lim olmoqchi.",
+    "tags": [
+      "Anthropic",
+      "mehnat bozori"
+    ],
+    "importance": 3,
+    "score": 29,
+    "published": "2026-11-06T14:00:45.000Z",
+    "created": "2026-11-06T15:02:20.261Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/technology/2026/nov/06/ai-disruption-job-quitting",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "c8f683bc8f43",
+    "slug": "angliya-banki-ai-undorlikni-oshirishiga-shubha-bildirdi-c8f683",
+    "title": "Angliya banki AI undorlikni oshirishiga shubha bildirdi",
+    "summary": "Angliya banki sun'iy intellekt tufayli mehnat undorligi oshishi haqidagi fikrlarga shubha bildirdi. Tashkilotga ko'ra, GPU chiplariga milliardlab dollar sarflash avtomatik ravishda barchaning ish samaradorligini oshirmaydi.",
+    "tags": [
+      "iqtisod",
+      "chiplar"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-11-06T11:43:00.000Z",
+    "created": "2026-11-06T15:02:20.261Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/ai-and-ml/2026/11/06/bank-of-england-pours-cold-water-on-ai-productivity-boom/5308059",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "05ba36190b43",
     "slug": "ai-ege-imtihonini-tekshirishda-faqat-belgilaydi-05ba36",
     "title": "AI EGE imtihonini tekshirishda faqat belgilaydi",
