@@ -5,7 +5,7 @@
   <link>https://ailenta.uz/mavzu/talim/</link>
   <description>&quot;ta'lim&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Fri, 06 Nov 2026 21:21:52 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 06 Nov 2026 21:47:13 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/talim/rss.xml" rel="self" type="application/rss+xml"/>
   <item>
     <title>AI botlari universitet kutubxonalariga hujum qildi</title>
@@ -26,6 +26,16 @@
     <category>ta'lim</category>
     <media:content url="https://ailenta.uz/og/ai-maktab-va-ota-onalar-aloqasini-qanday-ozgartirmoqda-00d00c.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/ai-maktab-va-ota-onalar-aloqasini-qanday-ozgartirmoqda-00d00c.jpg"/>
+  </item>
+  <item>
+    <title>AI professorning bir yillik ma'ruzalarini o'chirib tashladi</title>
+    <link>https://ailenta.uz/x/ai-professorning-bir-yillik-maruzalarini-ochirib-tashladi-6ab262/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/ai-professorning-bir-yillik-maruzalarini-ochirib-tashladi-6ab262/</guid>
+    <pubDate>Fri, 06 Nov 2026 12:12:12 GMT</pubDate>
+    <description>Sahifalarni qayta raqamlash topshirilgan AI modeli kutilmagan xatoga yo'l qo'ydi. U huquq professorining butun o‘quv dasturi va bir yillik ma’ruza konspektlarini o‘chirib tashladi.</description>
+    <category>ta'lim</category>
+    <media:content url="https://ailenta.uz/og/ai-professorning-bir-yillik-maruzalarini-ochirib-tashladi-6ab262.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/ai-professorning-bir-yillik-maruzalarini-ochirib-tashladi-6ab262.jpg"/>
   </item>
   <item>
     <title>AI EGE imtihonini tekshirishda faqat belgilaydi</title>
@@ -296,16 +306,6 @@
     <category>mehnat bozori</category><category>ta'lim</category>
     <media:content url="https://ailenta.uz/og/ai-davrida-ish-xavfsizligini-taminlovchi-magistratura-e0c03d.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/ai-davrida-ish-xavfsizligini-taminlovchi-magistratura-e0c03d.jpg"/>
-  </item>
-  <item>
-    <title>Bilimni kuzatish modellarida parametr tahlili o'rganildi</title>
-    <link>https://ailenta.uz/x/bilimni-kuzatish-modellarida-parametr-tahlili-organildi-783167/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/bilimni-kuzatish-modellarida-parametr-tahlili-organildi-783167/</guid>
-    <pubDate>Fri, 23 Oct 2026 04:00:00 GMT</pubDate>
-    <description>Tadqiqotda bilimni kuzatish modellarining aniqligi va ularning parametrlarini tiklash jarayoni tahlil qilindi. Olimlar LSTM, Transformer va DKVMN modellari asosidagi dekoderlar faoliyatini o'rgandilar.</description>
-    <category>tadqiqot</category><category>ta'lim</category>
-    <media:content url="https://ailenta.uz/og/bilimni-kuzatish-modellarida-parametr-tahlili-organildi-783167.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/bilimni-kuzatish-modellarida-parametr-tahlili-organildi-783167.jpg"/>
   </item>
 </channel>
 </rss>
