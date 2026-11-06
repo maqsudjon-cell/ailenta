@@ -1,5 +1,49 @@
 [
   {
+    "id": "d54b20a79ea2",
+    "slug": "aws-kiro-bot-orkestratori-sifatida-yangi-rol-oladi-d54b20",
+    "title": "AWS Kiro bot orkestratori sifatida yangi rol oladi",
+    "summary": "AWS o‘zining agentli dasturchi vositalarini agent orkestratsiyasi uchun qayta jihozlamoqda. Bu Kiroga bot orkestratori sifatida yangi identifikator qo‘shishni maqsad qilgan.",
+    "tags": [
+      "Amazon",
+      "bulut"
+    ],
+    "importance": 3,
+    "score": 22,
+    "published": "2026-11-05T22:09:20.000Z",
+    "created": "2026-11-06T01:50:52.115Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/ai-and-ml/2026/11/05/aws-kiro-aims-to-solve-identity-crisis-by-adding-another-identity-bot-orchestrator/5307965",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "7b483b246446",
+    "slug": "hindiston-fintechlariga-ai-hujumlari-kuchaymoqda-7b483b",
+    "title": "Hindiston fintechlariga AI hujumlari kuchaymoqda",
+    "summary": "CERT-IN tashkiloti Hindiston fintech kompaniyalariga AI yordamida uyushtirilgan hujumlar sezilarli darajada oshganidan ogohlantirdi. Hujumlar ko‘pincha dam olish kunlari sodir bo‘lmoqda.",
+    "tags": [
+      "xavfsizlik",
+      "iqtisod"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-11-06T01:17:40.000Z",
+    "created": "2026-11-06T01:50:52.115Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/security/2026/11/06/threat-actor-targets-indian-fintechs-on-weekends-when-defenders-arent-watching/5308000",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "6f78e24cdb5b",
     "slug": "facebook-ai-deepfake-firibgar-reklamalarini-bilib-turib-joyl-6f78e2",
     "title": "Facebook AI deepfake firibgar reklamalarini bilib turib joylagan",
