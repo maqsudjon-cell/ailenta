@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/microsoft/</link>
   <description>&quot;Microsoft&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Fri, 06 Nov 2026 08:21:58 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 06 Nov 2026 09:10:14 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/microsoft/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>AI yordamchisining .NET kod sifatiga ta'siri o‘lchandi</title>
+    <link>https://ailenta.uz/x/ai-yordamchisining-net-kod-sifatiga-tasiri-o-lchandi-4237f6/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/ai-yordamchisining-net-kod-sifatiga-tasiri-o-lchandi-4237f6/</guid>
+    <pubDate>Fri, 06 Nov 2026 08:44:20 GMT</pubDate>
+    <description>Copilot agenti dotnet/runtime repozitoriyasida 1734 ta pull request ochib, 1205 tasini birlashtirishga erishdi. Dasturchilar AI kodi unumdorlikka qanday ta'sir qilganini 46 ta operatsiya bo‘yicha sinovdan o‘tkazdi.</description>
+    <category>Microsoft</category><category>agentlar</category>
+    <media:content url="https://ailenta.uz/og/ai-yordamchisining-net-kod-sifatiga-tasiri-o-lchandi-4237f6.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/ai-yordamchisining-net-kod-sifatiga-tasiri-o-lchandi-4237f6.jpg"/>
+  </item>
   <item>
     <title>Windows xavfsizlik kamchiliklarini topish AI bilan tezlashdi</title>
     <link>https://ailenta.uz/x/windows-xavfsizlik-kamchiliklarini-topish-ai-bilan-tezlashdi-9c9e5f/</link>
@@ -296,16 +306,6 @@
     <category>Anthropic</category><category>Microsoft</category>
     <media:content url="https://ailenta.uz/og/anthropic-xizmat-shartlariga-ai-huquqlarini-qoshdi-0d2bab.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/anthropic-xizmat-shartlariga-ai-huquqlarini-qoshdi-0d2bab.jpg"/>
-  </item>
-  <item>
-    <title>Microsoft Britaniyadagi AI markazi loyihasidan chiqdi</title>
-    <link>https://ailenta.uz/x/microsoft-britaniyadagi-ai-markazi-loyihasidan-chiqdi-e710db/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/microsoft-britaniyadagi-ai-markazi-loyihasidan-chiqdi-e710db/</guid>
-    <pubDate>Sun, 18 Oct 2026 12:28:45 GMT</pubDate>
-    <description>Microsoft elektr ta'minoti muammolari sababli Essex grafstvidagi ma'lumotlar markazi loyihasini tark etdi. Nscale kompaniyasiga tegishli ushbu loyiha Buyuk Britaniyadagi eng yirik AI ma'lumotlar markazi bo'lishi kutilgan edi.</description>
-    <category>Microsoft</category><category>bulut</category>
-    <media:content url="https://ailenta.uz/og/microsoft-britaniyadagi-ai-markazi-loyihasidan-chiqdi-e710db.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/microsoft-britaniyadagi-ai-markazi-loyihasidan-chiqdi-e710db.jpg"/>
   </item>
 </channel>
 </rss>

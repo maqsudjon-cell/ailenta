@@ -1,5 +1,93 @@
 [
   {
+    "id": "7981c9361de6",
+    "slug": "apple-xitoyda-qwen-ai-modelini-sinovdan-o-tkazmoqda-7981c9",
+    "title": "Apple Xitoyda Qwen AI modelini sinovdan o‘tkazmoqda",
+    "summary": "Xitoyda Apple Intelligence beta-test rejimida ishga tushib, unga Alibaba’ning Qwen modeli integratsiya qilindi. U Siri va boshqa vositalarda ishlatilmoqda. Hugging Face platformasida Qwen yuklab olishlari 2 milliarddan oshgan.",
+    "tags": [
+      "Apple",
+      "Hugging Face"
+    ],
+    "importance": 4,
+    "score": 24,
+    "published": "2026-11-06T08:19:29.000Z",
+    "created": "2026-11-06T09:01:53.946Z",
+    "coverage": 1,
+    "source": {
+      "name": "TechNode",
+      "url": "https://technode.com/2026/11/06/apples-china-ai-partner-has-had-a-rough-ride",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "87a7b47ae353",
+    "slug": "google-aini-taqiqlagan-maktablarni-qidiruvdan-mahrum-qiladi-87a7b4",
+    "title": "Google AI’ni taqiqlagan maktablarni qidiruvdan mahrum qiladi",
+    "summary": "Kompyuterlarda sun'iy intellektni bloklagan maktablar endi Google qidiruv xizmatidan foydalana olmaydi. Ta'lim texnologiyalari bo‘yicha mutaxassislar kompaniyaning ushbu qarorini tanqid ostiga oldi.",
+    "tags": [
+      "Google",
+      "ta'lim"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-11-06T07:55:00.000Z",
+    "created": "2026-11-06T09:01:53.946Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/11/06/google-search-schools-banning-ai-edtech-backfire",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "4237f66b2412",
+    "slug": "ai-yordamchisining-net-kod-sifatiga-tasiri-o-lchandi-4237f6",
+    "title": "AI yordamchisining .NET kod sifatiga ta'siri o‘lchandi",
+    "summary": "Copilot agenti dotnet/runtime repozitoriyasida 1734 ta pull request ochib, 1205 tasini birlashtirishga erishdi. Dasturchilar AI kodi unumdorlikka qanday ta'sir qilganini 46 ta operatsiya bo‘yicha sinovdan o‘tkazdi.",
+    "tags": [
+      "Microsoft",
+      "agentlar"
+    ],
+    "importance": 2,
+    "score": 17,
+    "published": "2026-11-06T08:44:20.000Z",
+    "created": "2026-11-06T09:01:53.946Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1104356",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "f235830c2bc8",
+    "slug": "katta-va-kichik-modellar-muloqoti-uchun-platour-yaratildi-f23583",
+    "title": "Katta va kichik modellar muloqoti uchun PLatour yaratildi",
+    "summary": "Tadqiqotchilar katta va kichik modellar o‘rtasida ma'lumot almashishni ta'minlaydigan PLatour karkasini taqdim etdi. Tizim katta model so‘rovlarini kichik modelning tezkor yaratish imkoniyati bilan birlashtiradi.",
+    "tags": [
+      "tadqiqot",
+      "ochiq model"
+    ],
+    "importance": 2,
+    "score": 10,
+    "published": "2026-11-06T05:00:00.000Z",
+    "created": "2026-11-06T09:01:53.946Z",
+    "coverage": 1,
+    "source": {
+      "name": "arXiv cs.CL",
+      "url": "https://arxiv.org/abs/2611.06976",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "ce458fc5a46c",
     "slug": "qirg-izistonda-militsiyaning-suniy-intellekt-yordamchisi-pay-ce458f",
     "title": "Qirg‘izistonda militsiyaning sun’iy intellekt yordamchisi paydo bo‘ldi",

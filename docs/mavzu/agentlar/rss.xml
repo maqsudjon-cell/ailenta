@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/agentlar/</link>
   <description>&quot;agentlar&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Fri, 06 Nov 2026 08:21:58 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 06 Nov 2026 09:10:14 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/agentlar/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>AI yordamchisining .NET kod sifatiga ta'siri o‘lchandi</title>
+    <link>https://ailenta.uz/x/ai-yordamchisining-net-kod-sifatiga-tasiri-o-lchandi-4237f6/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/ai-yordamchisining-net-kod-sifatiga-tasiri-o-lchandi-4237f6/</guid>
+    <pubDate>Fri, 06 Nov 2026 08:44:20 GMT</pubDate>
+    <description>Copilot agenti dotnet/runtime repozitoriyasida 1734 ta pull request ochib, 1205 tasini birlashtirishga erishdi. Dasturchilar AI kodi unumdorlikka qanday ta'sir qilganini 46 ta operatsiya bo‘yicha sinovdan o‘tkazdi.</description>
+    <category>Microsoft</category><category>agentlar</category>
+    <media:content url="https://ailenta.uz/og/ai-yordamchisining-net-kod-sifatiga-tasiri-o-lchandi-4237f6.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/ai-yordamchisining-net-kod-sifatiga-tasiri-o-lchandi-4237f6.jpg"/>
+  </item>
   <item>
     <title>Qirg‘izistonda militsiyaning sun’iy intellekt yordamchisi paydo bo‘ldi</title>
     <link>https://ailenta.uz/x/qirg-izistonda-militsiyaning-suniy-intellekt-yordamchisi-pay-ce458f/</link>
@@ -296,16 +306,6 @@
     <category>xavfsizlik</category><category>agentlar</category>
     <media:content url="https://ailenta.uz/og/bank-of-america-parollarni-ai-agentlariga-bermaslikni-soradi-7afb98.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/bank-of-america-parollarni-ai-agentlariga-bermaslikni-soradi-7afb98.jpg"/>
-  </item>
-  <item>
-    <title>Project Zero V8 dvigatelida AI agentini sinadi</title>
-    <link>https://ailenta.uz/x/project-zero-v8-dvigatelida-ai-agentini-sinadi-e2b598/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/project-zero-v8-dvigatelida-ai-agentini-sinadi-e2b598/</guid>
-    <pubDate>Tue, 27 Oct 2026 19:13:24 GMT</pubDate>
-    <description>Project Zero Chrome dvigatelida zaifliklarni qidirishda Fuzzilli fazzeri va BigSleep AI agentini taqqosladi. Olti oy ichida BigSleep 45 ta, Fuzzilli esa 37 ta zaiflikni topishga erishdi.</description>
-    <category>xavfsizlik</category><category>agentlar</category>
-    <media:content url="https://ailenta.uz/og/project-zero-v8-dvigatelida-ai-agentini-sinadi-e2b598.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/project-zero-v8-dvigatelida-ai-agentini-sinadi-e2b598.jpg"/>
   </item>
 </channel>
 </rss>
