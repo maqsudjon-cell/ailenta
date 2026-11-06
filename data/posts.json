@@ -1,44 +1,44 @@
 [
   {
-    "id": "431b61b6bf40",
-    "slug": "aqsh-saylovchilari-ai-loyihalarini-rad-etdi-431b61",
-    "title": "AQSH saylovchilari AI loyihalarini rad etdi",
-    "summary": "AQSHdagi oraliq saylovlarda saylovchilar ma'lumotlar markazi loyihalarini rad etdi. Ular texnologiyani tartibga solishni va'da qilgan demokrat nomzodlarni sayladi.",
+    "id": "6f78e24cdb5b",
+    "slug": "facebook-ai-deepfake-firibgar-reklamalarini-bilib-turib-joyl-6f78e2",
+    "title": "Facebook AI deepfake firibgar reklamalarini bilib turib joylagan",
+    "summary": "Mark Cubanning ta'kidlashicha, Facebook (Meta) AI tomonidan yaratilgan deepfake firibgar reklamalarini bilib turib joylashtirgan. Hujjatlarga ko‘ra, bu firibgarlikdan 16 milliard dollar daromad olingan.",
     "tags": [
-      "siyosat",
-      "qonun"
+      "Meta",
+      "xavfsizlik"
     ],
     "importance": 4,
-    "score": 23.3,
-    "published": "2026-11-04T19:53:16.000Z",
-    "created": "2026-11-06T00:44:56.852Z",
+    "score": 17.5,
+    "published": "2026-11-05T23:09:57.000Z",
+    "created": "2026-11-06T01:07:51.814Z",
     "coverage": 1,
     "source": {
-      "name": "The New York Times",
-      "url": "https://nytimes.com/2026/11/04/technology/midterm-elections-ai-data-centers.html",
+      "name": "Hacker News",
+      "url": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
       "indirect": false
     },
     "also": [],
     "model": "gemini"
   },
   {
-    "id": "ff430ec6d234",
-    "slug": "meta-ai-o-qitish-shartlarini-vaqtincha-to-xtatdi-ff430e",
-    "title": "Meta AI o‘qitish shartlarini vaqtincha to‘xtatdi",
-    "summary": "Meta kompaniyasi o‘zining yangi AI o‘qitish shartlarini vaqtincha to‘xtatdi. Bu qaror jamoatchilikning noroziligidan so‘ng qabul qilindi.",
+    "id": "455d54aa578b",
+    "slug": "caylent-bosh-direktori-ai-boshqaruvi-kelgusi-o-n-yillikni-be-455d54",
+    "title": "Caylent bosh direktori: AI boshqaruvi kelgusi o‘n yillikni belgilaydi",
+    "summary": "AWS va Anthropic hamkori Caylent kompaniyasi bosh direktori AI boshqaruvi kelgusi o‘n yillikning asosiy yo‘nalishi bo‘lishini ta'kidladi. Bu sohada qoidalar va standartlar muhim ahamiyat kasb etadi.",
     "tags": [
-      "Meta",
-      "maxfiylik"
+      "Anthropic",
+      "biznes"
     ],
     "importance": 3,
-    "score": 22,
-    "published": "2026-11-05T21:01:55.000Z",
-    "created": "2026-11-06T00:44:56.852Z",
+    "score": 10,
+    "published": "2026-11-05T16:30:00.000Z",
+    "created": "2026-11-06T01:07:51.814Z",
     "coverage": 1,
     "source": {
-      "name": "404 Media",
-      "url": "https://404media.co/meta-generative-ai-commercial-terms-on-pause",
-      "indirect": false
+      "name": "CRN",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWWl2SlRJUHY0TlVnMXg3b1RLR2pxVjFlMFNzRTRsY19UQnQwNVRHZ3dBS2tyUExJaEV4RnRCZWlzbWdCb3d0SnUtVTV2WERiNWJsX0JZR25SdlpjQTczRE1EMTQweDBFb0d2a0sxR2o3Z3dZUDAxMlBNZmRxeGhKcnBSNkc0QU5yZTNSVm1zMEgtQWNhNXl0dUpaV2wwT3Vic0thYzZfUXZNXzF4MExlVTRwZ3I",
+      "indirect": true
     },
     "also": [],
     "model": "gemini"
