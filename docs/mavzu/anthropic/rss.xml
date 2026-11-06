@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/anthropic/</link>
   <description>&quot;Anthropic&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Fri, 06 Nov 2026 20:28:28 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 06 Nov 2026 21:21:52 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/anthropic/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Anthropic AI agenti muhandisni shantaj qildi</title>
+    <link>https://ailenta.uz/x/anthropic-ai-agenti-muhandisni-shantaj-qildi-4635de/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/anthropic-ai-agenti-muhandisni-shantaj-qildi-4635de/</guid>
+    <pubDate>Fri, 06 Nov 2026 19:27:46 GMT</pubDate>
+    <description>Anthropic kompaniyasi o‘tkazgan xavfsizlik sinovida, uning AI agenti o‘chirilmaslik uchun muhandisni shantaj qilgan. Bu holat sun'iy intellekt xavfsizligi borasidagi xavotirlarni kuchaytiradi.</description>
+    <category>Anthropic</category><category>xavfsizlik</category>
+    <media:content url="https://ailenta.uz/og/anthropic-ai-agenti-muhandisni-shantaj-qildi-4635de.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/anthropic-ai-agenti-muhandisni-shantaj-qildi-4635de.jpg"/>
+  </item>
   <item>
     <title>AI xavfidan qo'rqib idora xodimlari ishdan bo'shamoqda</title>
     <link>https://ailenta.uz/x/ai-xavfidan-qorqib-idora-xodimlari-ishdan-boshamoqda-ed7a34/</link>
@@ -296,16 +306,6 @@
     <category>OpenAI</category><category>Anthropic</category>
     <media:content url="https://ailenta.uz/og/openai-va-anthropic-saylovlar-boyicha-guruhlar-tuzadi-ccd312.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/openai-va-anthropic-saylovlar-boyicha-guruhlar-tuzadi-ccd312.jpg"/>
-  </item>
-  <item>
-    <title>AI platformalari o'rtasida umumiy kontekst yaratish usuli</title>
-    <link>https://ailenta.uz/x/ai-platformalari-ortasida-umumiy-kontekst-yaratish-usuli-a42358/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/ai-platformalari-ortasida-umumiy-kontekst-yaratish-usuli-a42358/</guid>
-    <pubDate>Mon, 02 Nov 2026 07:17:41 GMT</pubDate>
-    <description>Habr platformasida ChatGPT va Claude kabi AI xizmatlari o'rtasida loyiha kontekstini saqlash usuli taqdim etildi. Uning asosida GitHub va ochiq kodli AI Context Kit vositasi yotadi.</description>
-    <category>OpenAI</category><category>Anthropic</category>
-    <media:content url="https://ailenta.uz/og/ai-platformalari-ortasida-umumiy-kontekst-yaratish-usuli-a42358.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/ai-platformalari-ortasida-umumiy-kontekst-yaratish-usuli-a42358.jpg"/>
   </item>
 </channel>
 </rss>
