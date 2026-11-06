@@ -1,5 +1,71 @@
 [
   {
+    "id": "9c9e5f41bc57",
+    "slug": "windows-xavfsizlik-kamchiliklarini-topish-ai-bilan-tezlashdi-9c9e5f",
+    "title": "Windows xavfsizlik kamchiliklarini topish AI bilan tezlashdi",
+    "summary": "Sun'iy intellekt Windows tizimidagi xavfsizlik kamchiliklarini aniqlash va tuzatish jarayonini tezlashtirmoqda. Bu xavfsizlik zaifliklarini bartaraf etish samaradorligini oshiradi.",
+    "tags": [
+      "Microsoft",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 33,
+    "published": "2026-11-05T21:09:30.000Z",
+    "created": "2026-11-06T00:02:30.969Z",
+    "coverage": 1,
+    "source": {
+      "name": "Microsoft",
+      "url": "https://blogs.windows.com/windowsexperience/2026/11/05/a-new-standard-for-vulnerability-management-in-the-ai-era",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "1f9981de5700",
+    "slug": "flipsnack-chatgpt-reklamalari-bilan-azolar-sonini-oshirdi-1f9981",
+    "title": "Flipsnack ChatGPT reklamalari bilan a'zolar sonini oshirdi",
+    "summary": "Flipsnack kompaniyasi ChatGPT Ads kampaniyalari orqali foydalanuvchilarni mahsulotni sinab ko'rishga jalb qildi. Bu ro'yxatdan o'tish narxini kamaytirib, yangi a'zolar o'sishini ta'minladi.",
+    "tags": [
+      "OpenAI",
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 28.5,
+    "published": "2026-11-05T00:45:15.000Z",
+    "created": "2026-11-06T00:02:30.969Z",
+    "coverage": 1,
+    "source": {
+      "name": "OpenAI",
+      "url": "https://openai.com/ads/customers/flipsnack",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "89300c2abdb0",
+    "slug": "jim-kramer-ai-aksiyalari-sotuvi-hali-tugamaganini-aytdi-89300c",
+    "title": "Jim Kramer AI aksiyalari sotuvi hali tugamaganini aytdi",
+    "summary": "Jim Kramer sun'iy intellekt aksiyalarining sotuvi hali davom etishi haqida ogohlantirdi. Biroq u ushbu holat dot-kom halokatiga o'xshamasligini ta'kidladi.",
+    "tags": [
+      "iqtisod",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-11-05T23:17:51.000Z",
+    "created": "2026-11-06T00:02:30.969Z",
+    "coverage": 1,
+    "source": {
+      "name": "CNBC",
+      "url": "https://cnbc.com/2026/11/05/jim-cramer-ai-stocks-sell-off.html",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "e48398347dea",
     "slug": "aqsh-kongressmenlari-jensen-huangdan-brifing-so-radi-e48398",
     "title": "AQSH kongressmenlari Jensen Huangdan brifing so‘radi",
