@@ -1,5 +1,72 @@
 [
   {
+    "id": "05ba36190b43",
+    "slug": "ai-ege-imtihonini-tekshirishda-faqat-belgilaydi-05ba36",
+    "title": "AI EGE imtihonini tekshirishda faqat belgilaydi",
+    "summary": "Ijtimoiy fanlar bo'yicha EGE imtihonining kengaytirilgan javoblarini tekshiruvchi Telegram botida AI modeli faqat javoblarni belgilaydi. Ballarni esa oddiy kod hisoblaydi, modelga baho qo'yish vazifasi yuklatilmagan.",
+    "tags": [
+      "ta'lim",
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 11,
+    "published": "2026-11-06T08:58:19.000Z",
+    "created": "2026-11-06T11:36:42.716Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1104376",
+      "title": "Модель размечает, код считает: как устроена ИИ-проверка ЕГЭ по обществознанию",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "755cb1808727",
+    "slug": "telegraph-farage-bilan-hamkorlikni-ai-sabab-toxtatdi-755cb1",
+    "title": "Telegraph Farage bilan hamkorlikni AI sabab to'xtatdi",
+    "summary": "Daily Telegraph gazetasi Nigel Farage bilan hamkorlikni to'xtatdi. Bu qaror siyosatdan ko'ra, nashrning sun'iy intellektga o'tishi bilan bog'liq ekani aytilmoqda.",
+    "tags": [
+      "biznes",
+      "mehnat bozori"
+    ],
+    "importance": 2,
+    "score": 23,
+    "published": "2026-11-06T11:00:51.000Z",
+    "created": "2026-11-06T11:36:54.412Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/commentisfree/2026/nov/06/nigel-farage-telegraph-story-newspaper-ai",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "43b5e560b5f2",
+    "slug": "kalepa-ai-platformasi-75-mln-sarmoya-jalb-qildi-43b5e5",
+    "title": "Kalepa AI platformasi $75 mln sarmoya jalb qildi",
+    "summary": "Sug'urta anderraytingi, narxlash va portfelni boshqarishni qo'llab-quvvatlovchi Kalepa AI platformasi $470 million bahoda $75 million Series B sarmoya jalb qildi.",
+    "tags": [
+      "biznes",
+      "iqtisod"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-11-06T06:50:13.000Z",
+    "created": "2026-11-06T11:36:54.412Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/261106/p4",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "06db8198a9f2",
     "slug": "aqsh-sudyasi-ai-bilan-yozilgan-sud-hujjatlarini-tanqid-qildi-06db81",
     "title": "AQSH sudyasi AI bilan yozilgan sud hujjatlarini tanqid qildi",
