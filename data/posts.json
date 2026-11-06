@@ -1,17 +1,105 @@
 [
   {
-    "id": "2825546d6701",
-    "slug": "aqsh-kongressi-ai-xavfsizligini-kuchaytirmoqchi-282554",
-    "title": "AQSh Kongressi AI xavfsizligini kuchaytirmoqchi",
-    "summary": "Kongressdagi yangi Demokratlar ko'pchiliki AI xavfsizligini ustuvor vazifa qilib belgilashi kutilmoqda. Mutaxassislar ular kiberxavfsizlik va davlat dasturlari nazoratini kuchaytirishini aytmoqda.",
+    "id": "b5d45a3a31c9",
+    "slug": "ai-kompaniyalar-ish-fayllari-va-elektron-pochtalarni-sotib-o-b5d45a",
+    "title": "AI kompaniyalar ish fayllari va elektron pochtalarni sotib olmoqda",
+    "summary": "Ma'lumot brokerlari AI modellarini o'qitish uchun korporativ fayllar va elektron pochta xabarlarini yig'moqda. Bu holat ba'zi kompaniyalar tomonidan norozilik bilan kutib olinmoqda.",
+    "tags": [
+      "maxfiylik",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 23,
+    "published": "2026-11-06T16:00:00.000Z",
+    "created": "2026-11-06T16:17:54.673Z",
+    "coverage": 1,
+    "source": {
+      "name": "Wired",
+      "url": "https://wired.com/story/ai-companies-really-really-want-to-buy-your-work-files-and-emails",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "7c70b636a2cf",
+    "slug": "ai-xarajatlari-toxtab-qoldi-foydalanish-osishda-7c70b6",
+    "title": "AI xarajatlari to'xtab qoldi, foydalanish o'sishda",
+    "summary": "Ramp ma'lumotlariga ko'ra, AI'dan foydalanish o'sishda davom etayotgan bo'lsa-da, unga sarflanayotgan xarajatlar to'xtab qolgan. Bu Anthropic IPO'si yaqinlashayotgan bir paytda investorlarning AI giper-o'sishi haqidagi taxminlariga ta'sir qilishi mumkin.",
+    "tags": [
+      "biznes",
+      "iqtisod"
+    ],
+    "importance": 3,
+    "score": 18,
+    "published": "2026-11-06T15:54:47.000Z",
+    "created": "2026-11-06T16:17:54.673Z",
+    "coverage": 1,
+    "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "5046827bcbdd",
+    "slug": "ai-botlari-universitet-kutubxonalariga-hujum-qildi-504682",
+    "title": "AI botlari universitet kutubxonalariga hujum qildi",
+    "summary": "Universitet kutubxonalariga AI botlari hujum qilmoqda. Bu holat jamoatchilikning kutubxona resurslariga kirish imkoniyatini xavf ostiga qo'yishi mumkin.",
     "tags": [
       "xavfsizlik",
-      "siyosat"
+      "ta'lim"
+    ],
+    "importance": 2,
+    "score": 17.2,
+    "published": "2026-11-06T14:13:09.000Z",
+    "created": "2026-11-06T16:17:54.673Z",
+    "coverage": 1,
+    "source": {
+      "name": "Hacker News",
+      "url": "https://cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "8a86fd1e1641",
+    "slug": "nates-honey-6-mlrd-asalarisini-ai-bilan-himoya-qilmoqda-8a86fd",
+    "title": "Nate's Honey 6 mlrd asalarisini AI bilan himoya qilmoqda",
+    "summary": "AQSHda asalarilarning yashab qolishi qiyinlashayotgan bir paytda, asal ishlab chiqaruvchilar AI va robot asalarilar uyalaridan foydalanmoqda. Nate's Honey 6 milliard asalarisini himoya qilish uchun AI'dan foydalanadi.",
+    "tags": [
+      "robototexnika",
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-11-06T14:05:12.000Z",
+    "created": "2026-11-06T16:17:54.673Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/how-nates-honey-uses-ai-to-protect-6-billion-bees-2026-11",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "2825546d6701",
+    "slug": "demokratlar-ai-xavfsizligini-ustuvor-vazifa-qildi-282554",
+    "title": "Demokratlar AI xavfsizligini ustuvor vazifa qildi",
+    "summary": "Ekspertlarning fikricha, yangi Demokratik kongressdagi ko'pchilik CISA'ni qayta tiklash va AI xavfsizligiga ustuvor ahamiyat berishga intiladi. Ular mahalliy kiber grantlarni ham jonlantirishni rejalashtirmoqda.",
+    "tags": [
+      "siyosat",
+      "xavfsizlik"
     ],
     "importance": 3,
     "score": 15,
     "published": "2026-11-06T13:20:44.000Z",
-    "created": "2026-11-06T16:04:55.785Z",
+    "created": "2026-11-06T16:17:54.673Z",
     "coverage": 1,
     "source": {
       "name": "Techmeme",
@@ -23,16 +111,16 @@
   },
   {
     "id": "a394d9aad7a2",
-    "slug": "underdog-32-megabaytli-nutq-modelini-taqdim-etdi-a394d9",
-    "title": "Underdog 32 megabaytli nutq modelini taqdim etdi",
-    "summary": "Underdog startapi bor-yo'g'i 32 megabayt hajmli modelni namoyish qildi. Kichik hajmiga qaramay, ushbu model nutq va musiqa yaratish imkoniyatiga ega.",
+    "slug": "underdog-32mb-hajmli-nutq-modelini-namoyish-etdi-a394d9",
+    "title": "Underdog 32MB hajmli nutq modelini namoyish etdi",
+    "summary": "Underdog kompaniyasi yangi, atigi 32MB hajmli nutq modelini namoyish etdi. Kichik hajmiga qaramay, ushbu model ham nutq, ham musiqa yaratish imkoniyatiga ega.",
     "tags": [
       "tadqiqot"
     ],
     "importance": 2,
     "score": 15,
     "published": "2026-11-06T13:02:16.000Z",
-    "created": "2026-11-06T16:04:55.785Z",
+    "created": "2026-11-06T16:17:54.673Z",
     "coverage": 1,
     "source": {
       "name": "TechCrunch",
