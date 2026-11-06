@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/tadqiqot/</link>
   <description>&quot;tadqiqot&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Fri, 06 Nov 2026 21:47:13 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 06 Nov 2026 22:09:59 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/tadqiqot/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>AI agentini testlashda TDD samaradorligi past chiqdi</title>
+    <link>https://ailenta.uz/x/ai-agentini-testlashda-tdd-samaradorligi-past-chiqdi-b7589d/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/ai-agentini-testlashda-tdd-samaradorligi-past-chiqdi-b7589d/</guid>
+    <pubDate>Fri, 06 Nov 2026 19:17:07 GMT</pubDate>
+    <description>Dan Lu GPT-6 Astra agentiga Pandoc'ni amalga oshirishni topshirib, turli testlash usullarini sinovdan o‘tkazdi. Natijalarga ko‘ra, TDD (Test-Driven Development) yashirin testlarda 40,5% samaradorlik ko‘rsatib, boshqa usullardan ortda qoldi.</description>
+    <category>tadqiqot</category><category>agentlar</category>
+    <media:content url="https://ailenta.uz/og/ai-agentini-testlashda-tdd-samaradorligi-past-chiqdi-b7589d.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/ai-agentini-testlashda-tdd-samaradorligi-past-chiqdi-b7589d.jpg"/>
+  </item>
   <item>
     <title>CheMeleon molekulalar xatti-harakatini bashorat qiladi</title>
     <link>https://ailenta.uz/x/chemeleon-molekulalar-xatti-harakatini-bashorat-qiladi-ba5f1c/</link>
@@ -296,16 +306,6 @@
     <category>tadqiqot</category><category>agentlar</category>
     <media:content url="https://ailenta.uz/og/aini-modelni-kattalashtirmay-kengaytirish-usuli-1ab788.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/aini-modelni-kattalashtirmay-kengaytirish-usuli-1ab788.jpg"/>
-  </item>
-  <item>
-    <title>Gemma modelini 8GB VRAM'li noutbukda optimallashtirish</title>
-    <link>https://ailenta.uz/x/gemma-modelini-8gb-vramli-noutbukda-optimallashtirish-a4a998/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/gemma-modelini-8gb-vramli-noutbukda-optimallashtirish-a4a998/</guid>
-    <pubDate>Wed, 04 Nov 2026 12:52:59 GMT</pubDate>
-    <description>Foydalanuvchi 8GB VRAM'li Nvidia RTX 2000 Ada videokartali noutbukda gemma-4-12B-it QAT modelini samarali ishga tushirishni sinovdan o‘tkazdi. Cheklangan VRAM'ga qaramay, 8192 token kontekstli lokal modelni joylashtirish mumkinligi aniqlandi.</description>
-    <category>chiplar</category><category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/gemma-modelini-8gb-vramli-noutbukda-optimallashtirish-a4a998.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/gemma-modelini-8gb-vramli-noutbukda-optimallashtirish-a4a998.jpg"/>
   </item>
 </channel>
 </rss>
