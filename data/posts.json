@@ -1,5 +1,159 @@
 [
   {
+    "id": "ce458fc5a46c",
+    "slug": "qirg-izistonda-militsiyaning-suniy-intellekt-yordamchisi-pay-ce458f",
+    "title": "Qirg‘izistonda militsiyaning sun’iy intellekt yordamchisi paydo bo‘ldi",
+    "summary": "Qirg‘izistonda militsiya uchun \"Myizambek\" nomli AI chatbot ishga tushirildi. Fuqarolar ushbu chatbot orqali turli holatlar bo‘yicha xabar berishlari mumkin.",
+    "tags": [
+      "siyosat",
+      "agentlar"
+    ],
+    "importance": 3,
+    "score": 51,
+    "published": "2026-11-06T04:09:10.000Z",
+    "created": "2026-11-06T06:36:49.021Z",
+    "coverage": 1,
+    "source": {
+      "name": "Daryo",
+      "url": "https://daryo.uz/2026/11/06/qirgizistonda-militsiyaning-suniy-intellekt-yordamchisi-paydo-boldi",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "db1a37076543",
+    "slug": "bill-geyts-ai-koviddan-yomonroq-pandemiya-bo-lishi-mumkin-db1a37",
+    "title": "Bill Geyts: AI koviddan yomonroq pandemiya bo‘lishi mumkin",
+    "summary": "Bill Geyts sun’iy intellekt yordamida bioqurol yaratish va kiberhujumlar uyushtirish xavfidan ogohlantirdi. U Tramp ma’muriyatini AI nazoratiga e’tiborsizligi uchun tanqid qildi.",
+    "tags": [
+      "xavfsizlik",
+      "siyosat"
+    ],
+    "importance": 4,
+    "score": 48,
+    "published": "2026-11-06T06:28:45.000Z",
+    "created": "2026-11-06T06:36:49.022Z",
+    "coverage": 1,
+    "source": {
+      "name": "Daryo",
+      "url": "https://daryo.uz/2026/11/06/suniy-intellekt-koviddan-ham-yomonroq-pandemiya-bolishi-mumkin-bill-geyts",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "1bf1cdc5ebe9",
+    "slug": "mo-va-janubiy-kavkaz-startaplari-qiymati-42-6-mlrdga-yetdi-1bf1cd",
+    "title": "MO va Janubiy Kavkaz startaplari qiymati $42,6 mlrdga yetdi",
+    "summary": "Markaziy Osiyo va Janubiy Kavkazdagi sakkiz mamlakat startaplarining umumiy qiymati 2020-yildan beri $42,6 mlrdga yetdi. 2026-yil 7-oktabrgacha ular $692 mln venchur investitsiya jalb qilgan.",
+    "tags": [
+      "iqtisod",
+      "biznes"
+    ],
+    "importance": 4,
+    "score": 45,
+    "published": "2026-11-06T03:59:51.000Z",
+    "created": "2026-11-06T06:36:49.022Z",
+    "coverage": 1,
+    "source": {
+      "name": "Pivot",
+      "url": "https://pivot.uz/uz/markaziy-osiyo-va-janubiy-kavkaz-startaplari-qiymati-426-mlrdga-yetdi",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "06fc6a9cd4b5",
+    "slug": "potential-sciences-uk-sovereign-ai-funddan-sarmoya-jalb-qild-06fc6a",
+    "title": "Potential Sciences UK Sovereign AI Fund'dan sarmoya jalb qildi",
+    "summary": "AI startapi Potential Sciences kimyoviy ma'lumotlar to‘plamlarini yaratish uchun Buyuk Britaniyaning Sovereign AI Fund'idan sarmoya oldi. Bu sakkiz xonali raqamli investitsiya hisoblanadi.",
+    "tags": [
+      "biznes",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 18,
+    "published": "2026-11-06T05:00:13.000Z",
+    "created": "2026-11-06T06:36:49.022Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/261106/p1",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "faf1f8f27b0f",
+    "slug": "yopiq-ai-modellar-narx-ishlash-samaradorligida-ustun-faf1f8",
+    "title": "Yopiq AI modellar narx-ishlash samaradorligida ustun",
+    "summary": "Hacker News xabariga ko‘ra, yopiq sun'iy intellekt modellar narx va ishlash samaradorligi bo‘yicha yetakchilik qilmoqda. Bu sohadagi tendensiyani ko‘rsatadi.",
+    "tags": [
+      "tadqiqot",
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 17,
+    "published": "2026-11-06T02:49:56.000Z",
+    "created": "2026-11-06T06:36:49.022Z",
+    "coverage": 1,
+    "source": {
+      "name": "Hacker News",
+      "url": "https://village.dev/blog/closed-ai-models-now-dominate-the-price-performance-frontier",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "398bff6027b6",
+    "slug": "airbnb-bosh-direktori-cheskyning-ai-labiga-sarmoya-kiritishi-398bff",
+    "title": "Airbnb bosh direktori Cheskyning AI labiga sarmoya kiritishi mumkin",
+    "summary": "Airbnb bosh direktori Brian Cheskyning yashirin AI laboratoriyasiga sarmoya kiritish va texnologiyalarini litsenziyalash imkoniyatiga ega. Hozirda Chesky uni o‘z mablag‘lari hisobidan moliyalashtirmoqda.",
+    "tags": [
+      "Airbnb",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-11-06T01:50:07.000Z",
+    "created": "2026-11-06T06:36:49.022Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/261105/p67",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "7f65ad4fe8be",
+    "slug": "ludditlar-bugungi-ai-davrida-inson-va-mashina-urushi-7f65ad",
+    "title": "Ludditlar: bugungi AI davrida inson va mashina urushi",
+    "summary": "Habr nashri luddizm tarixi va uning bugungi sun'iy intellekt davriga ta'siri haqida maqola chop etdi. Unda insonning mashinalarga qarshi kurashining sabablari tahlil qilingan.",
+    "tags": [
+      "mehnat bozori",
+      "siyosat"
+    ],
+    "importance": 2,
+    "score": 11,
+    "published": "2026-11-06T05:25:40.000Z",
+    "created": "2026-11-06T06:36:49.022Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1104236",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "d54b20a79ea2",
     "slug": "aws-kiro-bot-orkestratori-sifatida-yangi-rol-oladi-d54b20",
     "title": "AWS Kiro bot orkestratori sifatida yangi rol oladi",
