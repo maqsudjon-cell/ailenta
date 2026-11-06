@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/robototexnika/</link>
   <description>&quot;robototexnika&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Fri, 06 Nov 2026 15:12:37 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 06 Nov 2026 15:47:25 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/robototexnika/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Gumanoid robot kvartirani tozaladi</title>
+    <link>https://ailenta.uz/x/gumanoid-robot-kvartirani-tozaladi-f7e467/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/gumanoid-robot-kvartirani-tozaladi-f7e467/</guid>
+    <pubDate>Fri, 06 Nov 2026 13:10:00 GMT</pubDate>
+    <description>MIT Technology Review xabariga ko‘ra, gumanoid robot kvartirani tozalagan. Bu kelajakdan bir parcha kabi tuyulgan. Xabar yangi gumanoid-robot tozalash xizmati haqida.</description>
+    <category>robototexnika</category>
+    <media:content url="https://ailenta.uz/og/gumanoid-robot-kvartirani-tozaladi-f7e467.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/gumanoid-robot-kvartirani-tozaladi-f7e467.jpg"/>
+  </item>
   <item>
     <title>Xitoyning robototexnika AI'ga sarmoyasi</title>
     <link>https://ailenta.uz/x/xitoyning-robototexnika-aiga-sarmoyasi-9e3425/</link>
@@ -296,16 +306,6 @@
     <category>robototexnika</category><category>agentlar</category>
     <media:content url="https://ailenta.uz/og/x-square-robot-x2real-benchmarkini-chiqardi-4564aa.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/x-square-robot-x2real-benchmarkini-chiqardi-4564aa.jpg"/>
-  </item>
-  <item>
-    <title>Ukrainada yaralangan harbiy dron yordamida olib chiqildi</title>
-    <link>https://ailenta.uz/x/ukrainada-yaralangan-harbiy-dron-yordamida-olib-chiqildi-ef88d0/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/ukrainada-yaralangan-harbiy-dron-yordamida-olib-chiqildi-ef88d0/</guid>
-    <pubDate>Mon, 19 Oct 2026 19:00:00 GMT</pubDate>
-    <description>Ukraina harbiylari yaralangan askarni og‘ir yuk ko‘taruvchi dron yordamida xavfli hududdan evakuatsiya qildi. Ularning ta’kidlashicha, bunday evakuatsiya dunyoda ilk bor amalga oshirilgan.</description>
-    <category>robototexnika</category><category>siyosat</category>
-    <media:content url="https://ailenta.uz/og/ukrainada-yaralangan-harbiy-dron-yordamida-olib-chiqildi-ef88d0.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/ukrainada-yaralangan-harbiy-dron-yordamida-olib-chiqildi-ef88d0.jpg"/>
   </item>
 </channel>
 </rss>

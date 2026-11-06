@@ -1,5 +1,156 @@
 [
   {
+    "id": "86847dda1bfd",
+    "slug": "mirziyoyev-ostonada-xavfsizlik-va-ai-tahdidlarini-muhokama-q-86847d",
+    "title": "Mirziyoyev Ostonada xavfsizlik va AI tahdidlarini muhokama qildi",
+    "summary": "Shavkat Mirziyoyev Ostonada Aqaba jarayoni doirasida uchrashuvlar o‘tkazdi. Muloqotda xalqaro va mintaqaviy xavfsizlik, terrorizmga qarshi kurash hamda sun’iy intellekt bilan bog‘liq tahdidlar muhokama qilindi.",
+    "tags": [
+      "O'zbekiston",
+      "siyosat"
+    ],
+    "importance": 4,
+    "score": 48,
+    "published": "2026-11-06T15:32:19.000Z",
+    "created": "2026-11-06T15:36:58.052Z",
+    "coverage": 1,
+    "source": {
+      "name": "Daryo",
+      "url": "https://daryo.uz/2026/11/06/shavkat-mirziyoyev-ostonada-bir-qator-uchrashuv-va-suhbatlar-otkazdi",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "00d00c18e3ae",
+    "slug": "ai-maktab-va-ota-onalar-aloqasini-qanday-ozgartirmoqda-00d00c",
+    "title": "AI maktab va ota-onalar aloqasini qanday o'zgartirmoqda",
+    "summary": "The Guardian nashri ota-onalar va o‘qituvchilardan AI tomonidan yaratilgan elektron xatlar haqidagi tajribalarini so‘ramoqda. ChatGPT va Claude kabi AI vositalari maktablar va oilalar o‘rtasidagi muloqotga qanday ta’sir ko‘rsatayotgani o‘rganilmoqda.",
+    "tags": [
+      "ta'lim"
+    ],
+    "importance": 2,
+    "score": 29,
+    "published": "2026-11-06T13:55:43.000Z",
+    "created": "2026-11-06T15:36:58.052Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/technology/2026/nov/06/teachers-and-parents-what-are-your-experiences-of-ai-generated-emails",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "f7e4679419a0",
+    "slug": "gumanoid-robot-kvartirani-tozaladi-f7e467",
+    "title": "Gumanoid robot kvartirani tozaladi",
+    "summary": "MIT Technology Review xabariga ko‘ra, gumanoid robot kvartirani tozalagan. Bu kelajakdan bir parcha kabi tuyulgan. Xabar yangi gumanoid-robot tozalash xizmati haqida.",
+    "tags": [
+      "robototexnika"
+    ],
+    "importance": 2,
+    "score": 29,
+    "published": "2026-11-06T13:10:00.000Z",
+    "created": "2026-11-06T15:36:58.052Z",
+    "coverage": 1,
+    "source": {
+      "name": "MIT Technology Review",
+      "url": "https://technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "106bce712f12",
+    "slug": "vashington-ai-hisoblash-quvvati-savdosiga-tosiq-qoydi-106bce",
+    "title": "Vashington AI hisoblash quvvati savdosiga to'siq qo'ydi",
+    "summary": "Uoll-strit AI hisoblash quvvatini savdo qilinadigan tovar qilishga intilmoqda. Ammo Tramp ma’muriyatining milliy xavfsizlikka oid xavotirlari bu harakatga to‘siq bo‘lishi mumkin.",
+    "tags": [
+      "siyosat",
+      "iqtisod"
+    ],
+    "importance": 3,
+    "score": 22,
+    "published": "2026-11-06T14:25:53.000Z",
+    "created": "2026-11-06T15:36:58.052Z",
+    "coverage": 1,
+    "source": {
+      "name": "Semafor",
+      "url": "https://semafor.com/article/11/06/2026/wall-streets-push-to-trade-ai-compute-hits-washington-roadblock",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "a95d1ec04243",
+    "slug": "3d-harakatdan-sogliqni-bashorat-qiluvchi-model-yaratildi-a95d1e",
+    "title": "3D harakatdan sog'liqni bashorat qiluvchi model yaratildi",
+    "summary": "Nature nashri xabariga ko‘ra, 3D skelet harakatidan ko‘p tizimli sog‘liq fenotiplarini bashorat qilish uchun yurish asosiy modeli yaratildi. Bu tibbiyotda yangi imkoniyatlar ochishi mumkin.",
+    "tags": [
+      "tibbiyot",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 21.6,
+    "published": "2026-11-06T00:00:00.000Z",
+    "created": "2026-11-06T15:36:58.052Z",
+    "coverage": 1,
+    "source": {
+      "name": "Nature",
+      "url": "https://nature.com/articles/s41591-026-04724-9",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "cc84fd5cfc3e",
+    "slug": "ai-tadqiqot-va-ishlanmalarining-daholigiga-shubha-bor-cc84fd",
+    "title": "AI tadqiqot va ishlanmalarining daholigiga shubha bor",
+    "summary": "Hacker News'da AI tadqiqot va ishlanmalarining daholigiga ishonish qiyinligi haqida fikr bildirildi. Bu AI sohasidagi innovatsiyalarga nisbatan tanqidiy nuqtai nazarni aks ettiradi.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 1,
+    "score": 21,
+    "published": "2026-11-06T05:19:04.000Z",
+    "created": "2026-11-06T15:36:58.052Z",
+    "coverage": 1,
+    "source": {
+      "name": "Hacker News",
+      "url": "https://lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "814cfaad0a44",
+    "slug": "ai-s-p-493-uchun-foyda-keltirmaydi-agar-ish-qayta-qurilmasa-814cfa",
+    "title": "AI S&P 493 uchun foyda keltirmaydi, agar ish qayta qurilmasa",
+    "summary": "Fortune xabariga ko‘ra, AI S&P 493 kompaniyalari uchun foyda keltirmaydi, agar bosh direktorlar ishni qayta tashkil etmasa. Ishdan bo‘shatishlarni AI daromadi deb hisoblashni to‘xtatish kerakligi aytildi.",
+    "tags": [
+      "iqtisod",
+      "mehnat bozori"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-11-06T12:00:00.000Z",
+    "created": "2026-11-06T15:36:58.053Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/11/06/ai-payoff-sp-493-apollo-slok-operating-model-ceos-adam-dumey",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "ed7a344f8f02",
     "slug": "ai-xavfidan-qorqib-idora-xodimlari-ishdan-boshamoqda-ed7a34",
     "title": "AI xavfidan qo'rqib idora xodimlari ishdan bo'shamoqda",
