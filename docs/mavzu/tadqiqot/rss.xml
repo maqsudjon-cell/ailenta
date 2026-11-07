@@ -5,7 +5,7 @@
   <link>https://ailenta.uz/mavzu/tadqiqot/</link>
   <description>&quot;tadqiqot&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Sat, 07 Nov 2026 09:54:29 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 07 Nov 2026 10:08:16 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/tadqiqot/rss.xml" rel="self" type="application/rss+xml"/>
   <item>
     <title>AI aqlli termostatlar isitish xarajatini kamaytiradimi</title>
@@ -268,6 +268,16 @@
     <media:thumbnail url="https://ailenta.uz/og/mansi-tilini-oqiydigan-tesseract-modeli-yaratildi-d21493.jpg"/>
   </item>
   <item>
+    <title>Baidu robotaksilar uchun yangi dunyo modelini sinamoqda</title>
+    <link>https://ailenta.uz/x/baidu-robotaksilar-uchun-yangi-dunyo-modelini-sinamoqda-d2921e/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/baidu-robotaksilar-uchun-yangi-dunyo-modelini-sinamoqda-d2921e/</guid>
+    <pubDate>Thu, 05 Nov 2026 06:54:18 GMT</pubDate>
+    <description>Baidu kompaniyasining Apollo bo'linmasi Shenzhen shahridagi tadbirda Apollo World modelini namoyish etdi. Ushbu multimodal dunyo modeli robotaksilarni o'qitish va ularning harakatini yaxshilash uchun mo'ljallangan.</description>
+    <category>robototexnika</category><category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/baidu-robotaksilar-uchun-yangi-dunyo-modelini-sinamoqda-d2921e.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/baidu-robotaksilar-uchun-yangi-dunyo-modelini-sinamoqda-d2921e.jpg"/>
+  </item>
+  <item>
     <title>Mashinalar qo‘zg‘oloni bekor qilindi: AI hali aql emas</title>
     <link>https://ailenta.uz/x/mashinalar-qo-zg-oloni-bekor-qilindi-ai-hali-aql-emas-23c526/</link>
     <guid isPermaLink="true">https://ailenta.uz/x/mashinalar-qo-zg-oloni-bekor-qilindi-ai-hali-aql-emas-23c526/</guid>
@@ -296,16 +306,6 @@
     <category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/dinamik-simulyatsiyalar-uchun-inos-modeli-taklif-etildi-8b65ad.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/dinamik-simulyatsiyalar-uchun-inos-modeli-taklif-etildi-8b65ad.jpg"/>
-  </item>
-  <item>
-    <title>Agentli AI tizimlari uchun resurs orkestratsiyasi tadqiqoti</title>
-    <link>https://ailenta.uz/x/agentli-ai-tizimlari-uchun-resurs-orkestratsiyasi-tadqiqoti-473a02/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/agentli-ai-tizimlari-uchun-resurs-orkestratsiyasi-tadqiqoti-473a02/</guid>
-    <pubDate>Thu, 05 Nov 2026 05:00:00 GMT</pubDate>
-    <description>Yangi tadqiqot agentli AI tizimlari uchun noaniqlikni hisobga oluvchi resurs orkestratsiyasini taklif etadi. LLM'larga asoslangan bu tizimlarning resurs talablari ishga tushirish vaqtida noma'lum bo‘ladi.</description>
-    <category>tadqiqot</category><category>agentlar</category>
-    <media:content url="https://ailenta.uz/og/agentli-ai-tizimlari-uchun-resurs-orkestratsiyasi-tadqiqoti-473a02.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/agentli-ai-tizimlari-uchun-resurs-orkestratsiyasi-tadqiqoti-473a02.jpg"/>
   </item>
 </channel>
 </rss>

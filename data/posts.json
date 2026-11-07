@@ -1,5 +1,49 @@
 [
   {
+    "id": "d991f7788a03",
+    "slug": "datavita-ai-markazi-milliy-elektr-tarmogiga-otadi-d991f7",
+    "title": "DataVita AI markazi milliy elektr tarmog'iga o'tadi",
+    "summary": "DataVita Glazgo yaqinidagi yirik AI ma'lumot markazini qayta tiklanuvchi energiya bilan ta'minlash va'dasidan voz kechdi. Kompaniya loyiha to'liq National Grid milliy elektr tarmog'idan quvvat olishini tan oldi.",
+    "tags": [
+      "bulut",
+      "iqtisod"
+    ],
+    "importance": 3,
+    "score": 23,
+    "published": "2026-11-07T10:00:08.000Z",
+    "created": "2026-11-07T10:01:32.533Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/uk-news/2026/nov/07/lanarkshire-ai-datacentre-datavita-chapelhall-national-grid-renewable-energy",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "d2921ecc5a9c",
+    "slug": "baidu-robotaksilar-uchun-yangi-dunyo-modelini-sinamoqda-d2921e",
+    "title": "Baidu robotaksilar uchun yangi dunyo modelini sinamoqda",
+    "summary": "Baidu kompaniyasining Apollo bo'linmasi Shenzhen shahridagi tadbirda Apollo World modelini namoyish etdi. Ushbu multimodal dunyo modeli robotaksilarni o'qitish va ularning harakatini yaxshilash uchun mo'ljallangan.",
+    "tags": [
+      "robototexnika",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 5.4,
+    "published": "2026-11-05T06:54:18.000Z",
+    "created": "2026-11-07T10:01:32.533Z",
+    "coverage": 1,
+    "source": {
+      "name": "TechNode",
+      "url": "https://technode.com/2026/11/05/baidu-tests-a-new-way-to-train-robotaxis",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "495a0d67034c",
     "slug": "kapitalbank-smartfon-orqali-to-lov-qilishni-yo-lga-qo-ydi-495a0d",
     "title": "Kapitalbank smartfon orqali to‘lov qilishni yo‘lga qo‘ydi",
