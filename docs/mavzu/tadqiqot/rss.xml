@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/tadqiqot/</link>
   <description>&quot;tadqiqot&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Sat, 07 Nov 2026 10:08:16 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 07 Nov 2026 10:54:15 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/tadqiqot/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>AI ishdagi gender tafovutiga ta'sir o'tkazmoqda</title>
+    <link>https://ailenta.uz/x/ai-ishdagi-gender-tafovutiga-tasir-otkazmoqda-9585ec/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/ai-ishdagi-gender-tafovutiga-tasir-otkazmoqda-9585ec/</guid>
+    <pubDate>Sat, 07 Nov 2026 10:00:00 GMT</pubDate>
+    <description>Sun'iy intellekt ishdagi gender tengsizligiga qanday ta'sir qilishini ko'rsatuvchi yangi tadqiqot e'lon qilindi. Unga ko'ra, AI qo'llaniladigan sohalarda erkaklar karerada tezroq o'smoqda, ayollar esa o'z mavqeyini yo'qotmoqda.</description>
+    <category>tadqiqot</category><category>mehnat bozori</category>
+    <media:content url="https://ailenta.uz/og/ai-ishdagi-gender-tafovutiga-tasir-otkazmoqda-9585ec.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/ai-ishdagi-gender-tafovutiga-tasir-otkazmoqda-9585ec.jpg"/>
+  </item>
   <item>
     <title>AI aqlli termostatlar isitish xarajatini kamaytiradimi</title>
     <link>https://ailenta.uz/x/ai-aqlli-termostatlar-isitish-xarajatini-kamaytiradimi-47f917/</link>
@@ -296,16 +306,6 @@
     <category>mehnat bozori</category><category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/pixar-asoschisi-ed-catmull-ai-davrida-karyera-haqida-maslaha-82ebf2.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/pixar-asoschisi-ed-catmull-ai-davrida-karyera-haqida-maslaha-82ebf2.jpg"/>
-  </item>
-  <item>
-    <title>Dinamik simulyatsiyalar uchun INOS modeli taklif etildi</title>
-    <link>https://ailenta.uz/x/dinamik-simulyatsiyalar-uchun-inos-modeli-taklif-etildi-8b65ad/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/dinamik-simulyatsiyalar-uchun-inos-modeli-taklif-etildi-8b65ad/</guid>
-    <pubDate>Thu, 05 Nov 2026 05:00:00 GMT</pubDate>
-    <description>Tadqiqotchilar dinamik tizimlarni simulyatsiya qilish uchun Implicit Neural Operator Solver (INOS) modelini taqdim etdi. Ushbu neyron operator statik muvozanat yechimlaridan oldindan o'qitiladi va Newmark-beta integratsiyasida qayta ishlatiladi.</description>
-    <category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/dinamik-simulyatsiyalar-uchun-inos-modeli-taklif-etildi-8b65ad.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/dinamik-simulyatsiyalar-uchun-inos-modeli-taklif-etildi-8b65ad.jpg"/>
   </item>
 </channel>
 </rss>

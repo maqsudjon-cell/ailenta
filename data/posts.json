@@ -1,5 +1,49 @@
 [
   {
+    "id": "9585ec62a582",
+    "slug": "ai-ishdagi-gender-tafovutiga-tasir-otkazmoqda-9585ec",
+    "title": "AI ishdagi gender tafovutiga ta'sir o'tkazmoqda",
+    "summary": "Sun'iy intellekt ishdagi gender tengsizligiga qanday ta'sir qilishini ko'rsatuvchi yangi tadqiqot e'lon qilindi. Unga ko'ra, AI qo'llaniladigan sohalarda erkaklar karerada tezroq o'smoqda, ayollar esa o'z mavqeyini yo'qotmoqda.",
+    "tags": [
+      "tadqiqot",
+      "mehnat bozori"
+    ],
+    "importance": 3,
+    "score": 26,
+    "published": "2026-11-07T10:00:00.000Z",
+    "created": "2026-11-07T10:43:39.312Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Washington Post",
+      "url": "https://washingtonpost.com/business/2026/11/07/men-see-more-career-advancement-jobs-with-ai-women-lose-ground",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "c674dc92e6ee",
+    "slug": "harwood-shahri-ai-malumot-markazlari-foydasiga-ovoz-berdi-c674dc",
+    "title": "Harwood shahri AI ma'lumot markazlari foydasiga ovoz berdi",
+    "summary": "Shimoliy Dakotaning Harwood shahri aholisi AI ma'lumot markazlari qurilishini sekinlashtirishga qaratilgan taklifga qarshi ovoz berdi. Bu shahar umumiy saylov tendensiyasiga qarshi chiqqan yagona hudud bo'ldi.",
+    "tags": [
+      "bulut",
+      "iqtisod"
+    ],
+    "importance": 2,
+    "score": 19,
+    "published": "2026-11-07T10:19:00.000Z",
+    "created": "2026-11-07T10:43:39.312Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/11/07/harwood-north-dakota-data-center-ballot-measure-midterm-elections-2026",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "d991f7788a03",
     "slug": "datavita-ai-markazi-milliy-elektr-tarmogiga-otadi-d991f7",
     "title": "DataVita AI markazi milliy elektr tarmog'iga o'tadi",
