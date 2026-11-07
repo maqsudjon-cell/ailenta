@@ -1,5 +1,48 @@
 [
   {
+    "id": "0f0e00fd4a24",
+    "slug": "fireworks-ai-sorovlarini-togri-modelga-yonaltiradi-0f0e00",
+    "title": "Fireworks AI so'rovlarini to'g'ri modelga yo'naltiradi",
+    "summary": "Fireworks kompaniyasining ta'kidlashicha, barcha modellar ishlatilmasa, AI uchun pul bekorga sarflanadi. Boshqariladigan xulosa chiqarish so'rovlarni tegishli vazifa uchun to'g'ri modelga avtomatik ravishda yo'naltiradi.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 25,
+    "published": "2026-11-07T15:00:00.000Z",
+    "created": "2026-11-07T15:01:51.922Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/ai-and-ml/2026/11/07/fireworks-says-youre-wasting-money-on-ai-unless-youre-using-all-the-models/5308277",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "aae4a2d509f9",
+    "slug": "wall-street-anthropic-uchun-10-ta-etf-tayyorladi-aae4a2",
+    "title": "Wall Street Anthropic uchun 10 ta ETF tayyorladi",
+    "summary": "Wall Street moliya bozorida Anthropic kompaniyasi bilan bog'liq 10 ta kredit yelkali ETF fondi tayyorlandi. Ular yarmining stavkasi kompaniyaga qarshi tikilgan.",
+    "tags": [
+      "Anthropic",
+      "iqtisod"
+    ],
+    "importance": 3,
+    "score": 7,
+    "published": "2026-11-07T14:28:00.000Z",
+    "created": "2026-11-07T15:01:51.922Z",
+    "coverage": 1,
+    "source": {
+      "name": "24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNWJtcElRUUgxQjZEb1RVZ0liYnVrdjhHaGdFNFI4TTgxNmVwTXJ5MFFRTkJMR002amZzbkxtWWJDNDl3cF9ubmRPbkI0MGxlRU1lRi1ndVRQN2E5cWFmRHl4b093bVpIdTNSMW9oVTVrWlZfbzJQRkZHXzd2VkhWb1VnNl9QTXpLU1B6cmd3eWhqdXQ5U0VBY3J0dGVVUFRQeFk4SzdlM0t2Zmxta0lzdk52aXpJNHFUUUx2Vnp5QlY4U0R0NF9R",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "1ecc759cee1d",
     "slug": "aqsh-kongressmeni-ai-chiplari-aksiyalarini-sotib-oldi-1ecc75",
     "title": "AQSH kongressmeni AI chiplari aksiyalarini sotib oldi",
