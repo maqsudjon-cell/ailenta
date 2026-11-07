@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/tadqiqot/</link>
   <description>&quot;tadqiqot&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Sat, 07 Nov 2026 12:47:52 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 07 Nov 2026 13:08:16 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/tadqiqot/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Xitoy AI modellaridagi targ'ibotni kamaytirish usuli topildi</title>
+    <link>https://ailenta.uz/x/xitoy-ai-modellaridagi-targibotni-kamaytirish-usuli-topildi-3e407a/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/xitoy-ai-modellaridagi-targibotni-kamaytirish-usuli-topildi-3e407a/</guid>
+    <pubDate>Sat, 07 Nov 2026 12:32:45 GMT</pubDate>
+    <description>Nous Research Alibaba kompaniyasining Qwen3.8-27B modelini moslashtirib, Arete-27B modelini yaratdi. Qo'shimcha o'qitish natijasida modeldagi targ'ibot darajasi 22 foizdan bir foizdan kamga tushdi.</description>
+    <category>tadqiqot</category><category>ochiq model</category>
+    <media:content url="https://ailenta.uz/og/xitoy-ai-modellaridagi-targibotni-kamaytirish-usuli-topildi-3e407a.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/xitoy-ai-modellaridagi-targibotni-kamaytirish-usuli-topildi-3e407a.jpg"/>
+  </item>
   <item>
     <title>Neyron tarmoqlar havolalarni to'qib chiqarmaydi</title>
     <link>https://ailenta.uz/x/neyron-tarmoqlar-havolalarni-toqib-chiqarmaydi-da4869/</link>
@@ -296,16 +306,6 @@
     <category>tadqiqot</category><category>ochiq model</category>
     <media:content url="https://ailenta.uz/og/model-boshqa-model-ogirliklarini-oqitishsiz-tahrirladi-31a483.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/model-boshqa-model-ogirliklarini-oqitishsiz-tahrirladi-31a483.jpg"/>
-  </item>
-  <item>
-    <title>Mansi tilini o'qiydigan Tesseract modeli yaratildi</title>
-    <link>https://ailenta.uz/x/mansi-tilini-oqiydigan-tesseract-modeli-yaratildi-d21493/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/mansi-tilini-oqiydigan-tesseract-modeli-yaratildi-d21493/</guid>
-    <pubDate>Thu, 05 Nov 2026 08:48:58 GMT</pubDate>
-    <description>Yugra axborot texnologiyalari ilmiy-tadqiqot instituti ochiq Tesseract 5 dvigatelini mansi tilidagi bosma matnlarni o'qish uchun qayta o'qitdi. Natijada ramzlardagi xatoliklar ulushi 18,5 foizdan 0,85 foizgacha kamaydi.</description>
-    <category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/mansi-tilini-oqiydigan-tesseract-modeli-yaratildi-d21493.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/mansi-tilini-oqiydigan-tesseract-modeli-yaratildi-d21493.jpg"/>
   </item>
 </channel>
 </rss>

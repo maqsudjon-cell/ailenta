@@ -1,5 +1,49 @@
 [
   {
+    "id": "19ec048c8740",
+    "slug": "ai-maktablarga-kirishi-fonida-sud-davolari-kopaymoqda-19ec04",
+    "title": "AI maktablarga kirishi fonida sud da'volari ko'paymoqda",
+    "summary": "Snap, Meta va Google kompaniyalari AI vositalarini maktablarga joriy etmoqda. Shu bilan birga, ushbu kompaniyalar bolalar xavfsizligi bo'yicha ortib borayotgan sud da'volariga duch kelmoqda.",
+    "tags": [
+      "sud",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 22,
+    "published": "2026-11-07T12:00:01.000Z",
+    "created": "2026-11-07T13:01:36.059Z",
+    "coverage": 1,
+    "source": {
+      "name": "CNBC",
+      "url": "https://cnbc.com/2026/11/07/snap-social-media-teen-safety-lawsuits.html",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "3e407aae56c8",
+    "slug": "xitoy-ai-modellaridagi-targibotni-kamaytirish-usuli-topildi-3e407a",
+    "title": "Xitoy AI modellaridagi targ'ibotni kamaytirish usuli topildi",
+    "summary": "Nous Research Alibaba kompaniyasining Qwen3.8-27B modelini moslashtirib, Arete-27B modelini yaratdi. Qo'shimcha o'qitish natijasida modeldagi targ'ibot darajasi 22 foizdan bir foizdan kamga tushdi.",
+    "tags": [
+      "tadqiqot",
+      "ochiq model"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-11-07T12:32:45.000Z",
+    "created": "2026-11-07T13:01:36.059Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/state-propaganda-in-some-chinese-ai-models-is-only-a-thin-layer-that-fine-tuning-can-strip-away",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "ebdd4a54c09a",
     "slug": "gijduvonda-noqonuniy-shagal-qazish-dron-bilan-aniqlandi-ebdd4a",
     "title": "G'ijduvonda noqonuniy shag'al qazish dron bilan aniqlandi",

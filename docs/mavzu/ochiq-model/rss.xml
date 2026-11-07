@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/ochiq-model/</link>
   <description>&quot;ochiq model&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Sat, 07 Nov 2026 12:47:52 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 07 Nov 2026 13:08:16 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/ochiq-model/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Xitoy AI modellaridagi targ'ibotni kamaytirish usuli topildi</title>
+    <link>https://ailenta.uz/x/xitoy-ai-modellaridagi-targibotni-kamaytirish-usuli-topildi-3e407a/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/xitoy-ai-modellaridagi-targibotni-kamaytirish-usuli-topildi-3e407a/</guid>
+    <pubDate>Sat, 07 Nov 2026 12:32:45 GMT</pubDate>
+    <description>Nous Research Alibaba kompaniyasining Qwen3.8-27B modelini moslashtirib, Arete-27B modelini yaratdi. Qo'shimcha o'qitish natijasida modeldagi targ'ibot darajasi 22 foizdan bir foizdan kamga tushdi.</description>
+    <category>tadqiqot</category><category>ochiq model</category>
+    <media:content url="https://ailenta.uz/og/xitoy-ai-modellaridagi-targibotni-kamaytirish-usuli-topildi-3e407a.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/xitoy-ai-modellaridagi-targibotni-kamaytirish-usuli-topildi-3e407a.jpg"/>
+  </item>
   <item>
     <title>Rus tili uchun Ru-Zhev 1.3 ochiq modeli taqdim etildi</title>
     <link>https://ailenta.uz/x/rus-tili-uchun-ru-zhev-1-3-ochiq-modeli-taqdim-etildi-f0c761/</link>
@@ -296,16 +306,6 @@
     <category>tadqiqot</category><category>ochiq model</category>
     <media:content url="https://ailenta.uz/og/qwen3-8-27b-sql-sinovida-gpt-5-6ni-ortda-qoldirdi-55e793.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/qwen3-8-27b-sql-sinovida-gpt-5-6ni-ortda-qoldirdi-55e793.jpg"/>
-  </item>
-  <item>
-    <title>Ochiq modellar taqiqi bo'yicha bahslar tanqid qilindi</title>
-    <link>https://ailenta.uz/x/ochiq-modellar-taqiqi-boyicha-bahslar-tanqid-qilindi-d7f977/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/ochiq-modellar-taqiqi-boyicha-bahslar-tanqid-qilindi-d7f977/</guid>
-    <pubDate>Fri, 09 Oct 2026 13:36:52 GMT</pubDate>
-    <description>Tahlilchi Natan Lambert ochiq og'irlikli modellarni taqiqlash haqidagi bahslarni samarasiz deb atadi. Uning ta'kidlashicha, kiberhujumlarning aksariyati yopiq modellar orqali amalga oshirilgan va ochiq modellarni taqiqlash barcha uchun zararli bo'ladi.</description>
-    <category>ochiq model</category><category>xavfsizlik</category>
-    <media:content url="https://ailenta.uz/og/ochiq-modellar-taqiqi-boyicha-bahslar-tanqid-qilindi-d7f977.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/ochiq-modellar-taqiqi-boyicha-bahslar-tanqid-qilindi-d7f977.jpg"/>
   </item>
 </channel>
 </rss>
