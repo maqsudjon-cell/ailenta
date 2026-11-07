@@ -1,5 +1,69 @@
 [
   {
+    "id": "352039091475",
+    "slug": "maxda-pullik-ai-botini-yaratish-352039",
+    "title": "MAXda pullik AI botini yaratish",
+    "summary": "MAX platformasida ChatGPT yoki Gemini'ga savol berish va rasm yaratish imkonini beruvchi bot ishga tushirildi. Muallif ushbu pullik botni yaratishdagi moliyaviy va huquqiy jihatlarni muhokama qiladi.",
+    "tags": [
+      "biznes",
+      "OpenAI"
+    ],
+    "importance": 2,
+    "score": 17,
+    "published": "2026-11-07T12:46:01.000Z",
+    "created": "2026-11-07T20:28:18.305Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1104888",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "ac30c3ff268d",
+    "slug": "ai-kiberxavfsizlik-sohasiga-tasiri-muhokama-qilindi-ac30c3",
+    "title": "AI kiberxavfsizlik sohasiga ta'siri muhokama qilindi",
+    "summary": "Kiberxavfsizlik bo'yicha mutaxassis Alex Stamos AI'ning ushbu sohaga ta'sirini muhokama qildi. Uning so'zlariga ko'ra, sun'iy intellekt kiberxavfsizlikda murakkab vaziyatni yuzaga keltirgan.",
+    "tags": [
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-11-07T15:00:00.000Z",
+    "created": "2026-11-07T20:28:18.305Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Verge",
+      "url": "https://theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "f2452bb24bd9",
+    "slug": "habrda-maqola-korilishini-ml-yordamida-bashorat-qilish-f2452b",
+    "title": "Habrda maqola ko'rilishini ML yordamida bashorat qilish",
+    "summary": "Muallif Python va mashina o'rganishdan foydalanib, Habr'dagi maqolalar ko'rilishini bashorat qildi. U Random Forest va til modelini qo'llab, ko'rilishlarga ta'sir etuvchi omillarni tahlil qildi.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 11,
+    "published": "2026-11-07T19:02:07.000Z",
+    "created": "2026-11-07T20:28:18.305Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1104972",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "3e05579b8ef1",
     "slug": "spacex-texasda-superkompyuter-qurmoqda-3e0557",
     "title": "SpaceX Texasda superkompyuter qurmoqda",
