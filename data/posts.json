@@ -1,5 +1,48 @@
 [
   {
+    "id": "f19371425ae0",
+    "slug": "ai-va-ml-boyicha-ish-orinlari-bozori-tahlil-qilindi-f19371",
+    "title": "AI va ML bo'yicha ish o'rinlari bozori tahlil qilindi",
+    "summary": "Mutaxassislar hh.ru saytidagi 226 ta vakansiyani o'rganib chiqib, ML, DL va amaliy AI bozori tahlilini taqdim etdi. Tadqiqot davomida tegishli ish o'rinlari e'lonlari to'planib, qayta ishlandi.",
+    "tags": [
+      "mehnat bozori",
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 11,
+    "published": "2026-11-07T15:48:54.000Z",
+    "created": "2026-11-07T21:06:00.035Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1104938",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "19e9235c5847",
+    "slug": "ai-malumot-markazlarining-suv-sarfini-olchash-murakkab-19e923",
+    "title": "AI ma'lumot markazlarining suv sarfini o'lchash murakkab",
+    "summary": "AI ma'lumot markazlari mahalliy suv va elektr ta'minotini sarflayotgani sababli e'tirozlarga uchramoqda. Ularning sovutish uchun suvdan qanday foydalanishini aniq o'lchash birmuncha murakkab jarayon hisoblanadi.",
+    "tags": [
+      "iqtisod"
+    ],
+    "importance": 3,
+    "score": 3.7,
+    "published": "2026-11-05T18:52:21.000Z",
+    "created": "2026-11-07T21:06:00.035Z",
+    "coverage": 1,
+    "source": {
+      "name": "CNBC",
+      "url": "https://cnbc.com/2026/11/05/meta-spacex-ai-data-centers-use-millions-of-gallons-of-water-a-day.html",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "352039091475",
     "slug": "maxda-pullik-ai-botini-yaratish-352039",
     "title": "MAXda pullik AI botini yaratish",
