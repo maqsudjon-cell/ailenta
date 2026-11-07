@@ -1,5 +1,140 @@
 [
   {
+    "id": "47f917e5002e",
+    "slug": "ai-aqlli-termostatlar-isitish-xarajatini-kamaytiradimi-47f917",
+    "title": "AI aqlli termostatlar isitish xarajatini kamaytiradimi",
+    "summary": "Bir jurnalist ikki yil davomida aqlli termostatlar va AI tizimining isitish xarajatlarini kamaytirish samaradorligini sinovdan o'tkazdi. Natijalar shuni ko'rsatdiki, AI boshqaruvidagi tizim xarajatlarni 25% gacha, ya'ni yiliga 180 funt sterlinggacha tejashga yordam berishi mumkin.",
+    "tags": [
+      "tadqiqot",
+      "iqtisod"
+    ],
+    "importance": 2,
+    "score": 32,
+    "published": "2026-11-07T07:00:07.000Z",
+    "created": "2026-11-07T08:03:05.146Z",
+    "coverage": 2,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/money/2026/nov/07/can-ai-save-you-money-heating-bill",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "6d9493e62910",
+    "slug": "yangwang-u9x-elektromobili-tezlik-boyicha-rekord-ornatdi-6d9493",
+    "title": "Yangwang U9X elektromobili tezlik bo'yicha rekord o'rnatdi",
+    "summary": "Yangwang U9X elektromobili soatiga 503,17 km tezlikka erishib, jahon rekordini o'rnatdi. Ushbu giperkarga to'rtta motor o'rnatilgan bo'lib, ularning umumiy quvvati 3000 ot kuchidan oshadi. Rekord Xalqaro avtomobil federatsiyasi va Ginnesning rekordlar kitobi tomonidan tasdiqlandi.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 1,
+    "score": 45,
+    "published": "2026-11-07T06:52:55.000Z",
+    "created": "2026-11-07T08:03:05.147Z",
+    "coverage": 1,
+    "source": {
+      "name": "Kun.uz",
+      "url": "https://kun.uz/news/2026/11/07/soatiga-50317-km-tezlik-yangwang-u9x-elektromobili-jahon-rekordini-ornatdi-59682",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "aa7e5a885182",
+    "slug": "ai-aksiyalari-oraliq-saylovlar-zarbasidan-keyin-tushdi-aa7e5a",
+    "title": "AI aksiyalari oraliq saylovlar zarbasidan keyin tushdi",
+    "summary": "AQSHdagi oraliq saylovlar natijalari AI aksiyalariga salbiy ta'sir ko'rsatdi. Yuqori foiz stavkalari, katta kapital xarajatlar va daromadlar haqidagi savollar tufayli AI savdosi allaqachon bosim ostida edi.",
+    "tags": [
+      "siyosat",
+      "iqtisod"
+    ],
+    "importance": 4,
+    "score": 22,
+    "published": "2026-11-06T20:44:13.000Z",
+    "created": "2026-11-07T08:03:05.147Z",
+    "coverage": 1,
+    "source": {
+      "name": "CNBC",
+      "url": "https://cnbc.com/2026/11/06/ai-data-center-midterms-selloff.html",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "26cb7e01817a",
+    "slug": "global-aksiyalar-aqsh-ai-sekinlashuvi-xavotirlari-tufayli-tu-26cb7e",
+    "title": "Global aksiyalar AQSH AI sekinlashuvi xavotirlari tufayli tushdi",
+    "summary": "AQSHda ma'lumot markazlari qurilishi va AI sanoatiga nisbatan qattiqroq nazorat bo'lishi mumkinligi haqidagi xavotirlar investorlarning global aksiyalarni sotishiga sabab bo'ldi. Bu holat Osiyo va Yevropa bozorlariga ham tarqaldi.",
+    "tags": [
+      "siyosat",
+      "iqtisod"
+    ],
+    "importance": 4,
+    "score": 20.4,
+    "published": "2026-11-06T13:25:50.000Z",
+    "created": "2026-11-07T08:03:05.147Z",
+    "coverage": 1,
+    "source": {
+      "name": "BBC News",
+      "url": "https://bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "11ef7c96853a",
+    "slug": "huawei-harmonyos-uchun-ai-yordamchi-chiqardi-11ef7c",
+    "title": "Huawei HarmonyOS uchun AI yordamchi chiqardi",
+    "summary": "Huawei HarmonyOS operatsion tizimi uchun mustaqil kompyuter yordamchisini taqdim etdi. Bu yordamchi ofis vazifalarini avtomatlashtirish, bulut yoki lokal ijro etish, telefon vazifalarini boshqarish va AI-point a'zolik hisob-kitoblarini o'z ichiga oladi.",
+    "tags": [
+      "Huawei",
+      "agentlar"
+    ],
+    "importance": 3,
+    "score": 18,
+    "published": "2026-11-07T07:06:42.000Z",
+    "created": "2026-11-07T08:03:05.147Z",
+    "coverage": 1,
+    "source": {
+      "name": "Pandaily",
+      "url": "https://pandaily.com/huawei-harmonyos-pc-standalone-assistant-work-office-agent-release",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "f4716af33bce",
+    "slug": "ai-yordamchisi-tomonidan-tuzatilgan-xatoni-qachon-qabul-qili-f4716a",
+    "title": "AI yordamchisi tomonidan tuzatilgan xatoni qachon qabul qilish mumkin",
+    "summary": "AI yordamchisi tomonidan tuzatilgan xatoni qachon to'liq qabul qilish mumkinligi muhokama qilindi. Odatda, o'zgarishlarni ko'rib chiqish va testlarni ishga tushirgandan so'ng, agar ortiqcha o'zgarishlar bo'lmasa va loyiha ishlasa, qabul qilish mumkin.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 1,
+    "score": 11,
+    "published": "2026-11-07T04:04:27.000Z",
+    "created": "2026-11-07T08:03:05.147Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1104786",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "417fb9239b58",
     "slug": "fransiya-dron-tashuvchi-esminets-konseptini-namoyish-etdi-417fb9",
     "title": "Fransiya dron tashuvchi esminets konseptini namoyish etdi",

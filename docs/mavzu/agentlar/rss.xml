@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/agentlar/</link>
   <description>&quot;agentlar&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Sat, 07 Nov 2026 07:13:10 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 07 Nov 2026 08:13:19 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/agentlar/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Huawei HarmonyOS uchun AI yordamchi chiqardi</title>
+    <link>https://ailenta.uz/x/huawei-harmonyos-uchun-ai-yordamchi-chiqardi-11ef7c/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/huawei-harmonyos-uchun-ai-yordamchi-chiqardi-11ef7c/</guid>
+    <pubDate>Sat, 07 Nov 2026 07:06:42 GMT</pubDate>
+    <description>Huawei HarmonyOS operatsion tizimi uchun mustaqil kompyuter yordamchisini taqdim etdi. Bu yordamchi ofis vazifalarini avtomatlashtirish, bulut yoki lokal ijro etish, telefon vazifalarini boshqarish va AI-point a'zolik hisob-kitoblarini o'z ichiga oladi.</description>
+    <category>Huawei</category><category>agentlar</category>
+    <media:content url="https://ailenta.uz/og/huawei-harmonyos-uchun-ai-yordamchi-chiqardi-11ef7c.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/huawei-harmonyos-uchun-ai-yordamchi-chiqardi-11ef7c.jpg"/>
+  </item>
   <item>
     <title>AI agentini testlashda TDD samaradorligi past chiqdi</title>
     <link>https://ailenta.uz/x/ai-agentini-testlashda-tdd-samaradorligi-past-chiqdi-b7589d/</link>
@@ -296,16 +306,6 @@
     <category>agentlar</category>
     <media:content url="https://ailenta.uz/og/odamlar-va-ai-agentlar-uchun-yengil-ui-freymvorki-yaratildi-15bc19.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/odamlar-va-ai-agentlar-uchun-yengil-ui-freymvorki-yaratildi-15bc19.jpg"/>
-  </item>
-  <item>
-    <title>AI agent tizimlari qanday ishlaydi</title>
-    <link>https://ailenta.uz/x/ai-agent-tizimlari-qanday-ishlaydi-25f3e1/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/ai-agent-tizimlari-qanday-ishlaydi-25f3e1/</guid>
-    <pubDate>Wed, 28 Oct 2026 18:16:45 GMT</pubDate>
-    <description>Katta til modellari (LLM) fikrlash va javob berishga qodir, ammo tizim vazifalarni mustaqil bajarishi kerak bo'lsa, AI agentlari maydoni boshlanadi. Maqolada agent tizimlarining tuzilishi, rejalashtirish va o'zaro ta'sir usullari ko'rib chiqiladi.</description>
-    <category>agentlar</category><category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/ai-agent-tizimlari-qanday-ishlaydi-25f3e1.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/ai-agent-tizimlari-qanday-ishlaydi-25f3e1.jpg"/>
   </item>
 </channel>
 </rss>
