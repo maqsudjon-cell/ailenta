@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/tadqiqot/</link>
   <description>&quot;tadqiqot&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Sat, 07 Nov 2026 01:12:10 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 07 Nov 2026 01:43:10 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/tadqiqot/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Anthropic AIga ilmiy modellarni qaytarishni tavsiya etdi</title>
+    <link>https://ailenta.uz/x/anthropic-aiga-ilmiy-modellarni-qaytarishni-tavsiya-etdi-5f6ec2/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/anthropic-aiga-ilmiy-modellarni-qaytarishni-tavsiya-etdi-5f6ec2/</guid>
+    <pubDate>Fri, 06 Nov 2026 19:37:04 GMT</pubDate>
+    <description>Anthropic kompaniyasi AIga ilmiy modellar diapazonini qaytarishni tavsiya etuvchi maqola e'lon qildi. Bu AI tizimlarining ilmiy ma'lumotlarni qanday taqdim etishi kerakligi haqidagi muhim masalani ko'taradi.</description>
+    <category>Anthropic</category><category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/anthropic-aiga-ilmiy-modellarni-qaytarishni-tavsiya-etdi-5f6ec2.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/anthropic-aiga-ilmiy-modellarni-qaytarishni-tavsiya-etdi-5f6ec2.jpg"/>
+  </item>
   <item>
     <title>AI agentini testlashda TDD samaradorligi past chiqdi</title>
     <link>https://ailenta.uz/x/ai-agentini-testlashda-tdd-samaradorligi-past-chiqdi-b7589d/</link>
@@ -76,6 +86,16 @@
     <category>biznes</category><category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/potential-sciences-uk-sovereign-ai-funddan-sarmoya-jalb-qild-06fc6a.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/potential-sciences-uk-sovereign-ai-funddan-sarmoya-jalb-qild-06fc6a.jpg"/>
+  </item>
+  <item>
+    <title>AI agentlari matematik isbotlarni avtomatlashtirdi</title>
+    <link>https://ailenta.uz/x/ai-agentlari-matematik-isbotlarni-avtomatlashtirdi-b09238/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/ai-agentlari-matematik-isbotlarni-avtomatlashtirdi-b09238/</guid>
+    <pubDate>Fri, 06 Nov 2026 05:00:00 GMT</pubDate>
+    <description>Tadqiqotchilar AI agentlari yordamida matematik isbotlarni avtomatlashtiruvchi AutoIP nomli Lean kutubxonasini yaratdilar. Bu AIning murakkab matematik vazifalarni bajarishdagi imkoniyatlarini ko'rsatadi.</description>
+    <category>tadqiqot</category><category>agentlar</category>
+    <media:content url="https://ailenta.uz/og/ai-agentlari-matematik-isbotlarni-avtomatlashtirdi-b09238.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/ai-agentlari-matematik-isbotlarni-avtomatlashtirdi-b09238.jpg"/>
   </item>
   <item>
     <title>Katta va kichik modellar muloqoti uchun PLatour yaratildi</title>
@@ -286,26 +306,6 @@
     <category>tadqiqot</category><category>xavfsizlik</category>
     <media:content url="https://ailenta.uz/og/pangram-ai-tasvir-va-video-aniqlash-modelini-chiqardi-87bf89.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/pangram-ai-tasvir-va-video-aniqlash-modelini-chiqardi-87bf89.jpg"/>
-  </item>
-  <item>
-    <title>Claude o‘ziga kiritilgan tushunchalarni seza oladi</title>
-    <link>https://ailenta.uz/x/claude-o-ziga-kiritilgan-tushunchalarni-seza-oladi-3a25e7/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/claude-o-ziga-kiritilgan-tushunchalarni-seza-oladi-3a25e7/</guid>
-    <pubDate>Wed, 04 Nov 2026 16:09:21 GMT</pubDate>
-    <description>Anthropic tadqiqotchisi Claude modelida muayyan tushunchalar faolligini sun'iy oshirib tajriba o‘tkazdi. Model 20 foiz holatda kiritilgan aralashuvni to‘g‘ri sezgan va tushunchani aniq aytib bergan.</description>
-    <category>Anthropic</category><category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/claude-o-ziga-kiritilgan-tushunchalarni-seza-oladi-3a25e7.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/claude-o-ziga-kiritilgan-tushunchalarni-seza-oladi-3a25e7.jpg"/>
-  </item>
-  <item>
-    <title>Jaron Lanier AI va ijtimoiy tarmoqlar o‘xshashliklari haqida</title>
-    <link>https://ailenta.uz/x/jaron-lanier-ai-va-ijtimoiy-tarmoqlar-o-xshashliklari-haqida-05c879/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/jaron-lanier-ai-va-ijtimoiy-tarmoqlar-o-xshashliklari-haqida-05c879/</guid>
-    <pubDate>Wed, 04 Nov 2026 14:10:14 GMT</pubDate>
-    <description>Jaron Lanier sun'iy intellekt va ijtimoiy tarmoqlar o‘rtasidagi o‘xshashliklar haqida fikr bildirdi. Bu mavzu Hacker News nashrida muhokama qilindi.</description>
-    <category>tadqiqot</category><category>maxfiylik</category>
-    <media:content url="https://ailenta.uz/og/jaron-lanier-ai-va-ijtimoiy-tarmoqlar-o-xshashliklari-haqida-05c879.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/jaron-lanier-ai-va-ijtimoiy-tarmoqlar-o-xshashliklari-haqida-05c879.jpg"/>
   </item>
 </channel>
 </rss>

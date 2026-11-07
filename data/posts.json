@@ -1,5 +1,49 @@
 [
   {
+    "id": "5f6ec2733026",
+    "slug": "anthropic-aiga-ilmiy-modellarni-qaytarishni-tavsiya-etdi-5f6ec2",
+    "title": "Anthropic AIga ilmiy modellarni qaytarishni tavsiya etdi",
+    "summary": "Anthropic kompaniyasi AIga ilmiy modellar diapazonini qaytarishni tavsiya etuvchi maqola e'lon qildi. Bu AI tizimlarining ilmiy ma'lumotlarni qanday taqdim etishi kerakligi haqidagi muhim masalani ko'taradi.",
+    "tags": [
+      "Anthropic",
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 14,
+    "published": "2026-11-06T19:37:04.000Z",
+    "created": "2026-11-07T01:34:45.665Z",
+    "coverage": 1,
+    "source": {
+      "name": "Unite.AI",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRHkyc3BVUlF6aGlham92cTdmanNaN3BwMEhld3haZG01cEgtRjhuTHAwMllvQmRsUDc4d0J5WVItc0pJUGZ3U3R4ckpyUGZvSVlTbWZLc1RKMVZSb01udWVMYVdPcXFoM1F4WGl5RVB1NnZsWDVWaEswZDVZR1FPVTAteDBqcW1RazlFN3NmSElTNm5l",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "b09238dcb5e3",
+    "slug": "ai-agentlari-matematik-isbotlarni-avtomatlashtirdi-b09238",
+    "title": "AI agentlari matematik isbotlarni avtomatlashtirdi",
+    "summary": "Tadqiqotchilar AI agentlari yordamida matematik isbotlarni avtomatlashtiruvchi AutoIP nomli Lean kutubxonasini yaratdilar. Bu AIning murakkab matematik vazifalarni bajarishdagi imkoniyatlarini ko'rsatadi.",
+    "tags": [
+      "tadqiqot",
+      "agentlar"
+    ],
+    "importance": 3,
+    "score": 3.7,
+    "published": "2026-11-06T05:00:00.000Z",
+    "created": "2026-11-07T01:34:45.665Z",
+    "coverage": 1,
+    "source": {
+      "name": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2611.06962",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "1234ae891841",
     "slug": "coreweave-va-nebius-moliyaviy-hisobotlarini-elon-qiladi-1234ae",
     "title": "CoreWeave va Nebius moliyaviy hisobotlarini e'lon qiladi",
