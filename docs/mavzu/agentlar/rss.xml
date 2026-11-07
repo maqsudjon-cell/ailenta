@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/agentlar/</link>
   <description>&quot;agentlar&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Sat, 07 Nov 2026 16:12:21 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 07 Nov 2026 17:11:30 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/agentlar/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>AI agentlari uchun mo'ljallangan imtihon qayta tuzildi</title>
+    <link>https://ailenta.uz/x/ai-agentlari-uchun-moljallangan-imtihon-qayta-tuzildi-f87af7/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/ai-agentlari-uchun-moljallangan-imtihon-qayta-tuzildi-f87af7/</guid>
+    <pubDate>Sat, 07 Nov 2026 16:29:52 GMT</pubDate>
+    <description>Dasturlash bo'yicha AI agentlarini baholovchi sinov to'plamida xatoliklar aniqlandi. 23 nafar muhandis imtihondagi topshiriqlarni tuzatish uchun 404 soat sarfladi. Tizim yangilangunga qadar AI agentlari topshiriqlarning 99,4 foizini bajargani aytilgan edi.</description>
+    <category>agentlar</category><category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/ai-agentlari-uchun-moljallangan-imtihon-qayta-tuzildi-f87af7.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/ai-agentlari-uchun-moljallangan-imtihon-qayta-tuzildi-f87af7.jpg"/>
+  </item>
   <item>
     <title>Huawei HarmonyOS uchun AI yordamchi chiqardi</title>
     <link>https://ailenta.uz/x/huawei-harmonyos-uchun-ai-yordamchi-chiqardi-11ef7c/</link>
@@ -296,16 +306,6 @@
     <category>Microsoft</category><category>agentlar</category>
     <media:content url="https://ailenta.uz/og/microsoft-ai-rahbari-ish-jarayonlarini-ozgartirmoqda-fb8974.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/microsoft-ai-rahbari-ish-jarayonlarini-ozgartirmoqda-fb8974.jpg"/>
-  </item>
-  <item>
-    <title>Odamlar va AI agentlar uchun yengil UI freymvorki yaratildi</title>
-    <link>https://ailenta.uz/x/odamlar-va-ai-agentlar-uchun-yengil-ui-freymvorki-yaratildi-15bc19/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/odamlar-va-ai-agentlar-uchun-yengil-ui-freymvorki-yaratildi-15bc19/</guid>
-    <pubDate>Thu, 29 Oct 2026 06:30:10 GMT</pubDate>
-    <description>Rust tilida odamlar va AI agentlar uchun yengil UI freymvork ishlab chiqildi. Tizim grafik UI ko'rsatishi yoki AI agentlar uchun interfeysni JSON formatida aks ettirishi mumkin.</description>
-    <category>agentlar</category>
-    <media:content url="https://ailenta.uz/og/odamlar-va-ai-agentlar-uchun-yengil-ui-freymvorki-yaratildi-15bc19.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/odamlar-va-ai-agentlar-uchun-yengil-ui-freymvorki-yaratildi-15bc19.jpg"/>
   </item>
 </channel>
 </rss>

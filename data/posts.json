@@ -1,5 +1,48 @@
 [
   {
+    "id": "c7cadefc098f",
+    "slug": "inkling-2-small-modeli-sinovlarda-sokinish-ishlatdi-c7cade",
+    "title": "Inkling 2 Small modeli sinovlarda so'kinish ishlatdi",
+    "summary": "Vals AI tahliliga ko'ra, Thinking Machines kompaniyasining Inkling 2 Small AI modeli 2 655 ta sinov to'plami davomida 316 marta so'kingan. Bu holat asosan barbod bo'lgan uzoq topshiriqlarda kuzatilgan. Muvaffaqiyatsiz bajarilgan topshiriqlarning 96 foizida so'kinish bo'lmagan.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 18,
+    "published": "2026-11-07T16:31:00.000Z",
+    "created": "2026-11-07T17:03:00.732Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/thinking-machines-inkling-2-small-drops-316-f-bombs-across-benchmark-runs",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "f87af78a7669",
+    "slug": "ai-agentlari-uchun-moljallangan-imtihon-qayta-tuzildi-f87af7",
+    "title": "AI agentlari uchun mo'ljallangan imtihon qayta tuzildi",
+    "summary": "Dasturlash bo'yicha AI agentlarini baholovchi sinov to'plamida xatoliklar aniqlandi. 23 nafar muhandis imtihondagi topshiriqlarni tuzatish uchun 404 soat sarfladi. Tizim yangilangunga qadar AI agentlari topshiriqlarning 99,4 foizini bajargani aytilgan edi.",
+    "tags": [
+      "agentlar",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 11,
+    "published": "2026-11-07T16:29:52.000Z",
+    "created": "2026-11-07T17:03:00.733Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1104950",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "1b38e92404eb",
     "slug": "alice-huangning-gayrioddiy-ai-chip-menejerlik-faoliyati-1b38e9",
     "title": "Alice Huangning g'ayrioddiy AI chip menejerlik faoliyati",
