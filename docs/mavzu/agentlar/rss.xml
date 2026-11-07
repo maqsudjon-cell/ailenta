@@ -5,7 +5,7 @@
   <link>https://ailenta.uz/mavzu/agentlar/</link>
   <description>&quot;agentlar&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Sat, 07 Nov 2026 02:09:05 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 07 Nov 2026 02:23:24 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/agentlar/rss.xml" rel="self" type="application/rss+xml"/>
   <item>
     <title>AI agentini testlashda TDD samaradorligi past chiqdi</title>
@@ -26,6 +26,16 @@
     <category>Meta</category><category>agentlar</category>
     <media:content url="https://ailenta.uz/og/meta-muse-ai-yordamchisida-maxsus-spaces-yaratadi-641709.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/meta-muse-ai-yordamchisida-maxsus-spaces-yaratadi-641709.jpg"/>
+  </item>
+  <item>
+    <title>Uchrashuvlar uchun AI yordamchi bot yaratildi</title>
+    <link>https://ailenta.uz/x/uchrashuvlar-uchun-ai-yordamchi-bot-yaratildi-b18597/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/uchrashuvlar-uchun-ai-yordamchi-bot-yaratildi-b18597/</guid>
+    <pubDate>Fri, 06 Nov 2026 15:10:51 GMT</pubDate>
+    <description>Bir dasturchi Teams, Yandex Telebridge va MTS Link uchrashuvlariga avtomatik qo'shiladigan bot yaratdi. Bot suhbatlarni yozib olib, bir necha daqiqada transkripsiya va kelishuvlar xulosasini taqdim etadi.</description>
+    <category>agentlar</category><category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/uchrashuvlar-uchun-ai-yordamchi-bot-yaratildi-b18597.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/uchrashuvlar-uchun-ai-yordamchi-bot-yaratildi-b18597.jpg"/>
   </item>
   <item>
     <title>AI yordamchisining .NET kod sifatiga ta'siri o‘lchandi</title>
@@ -296,16 +306,6 @@
     <category>agentlar</category><category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/ai-agent-tizimlari-qanday-ishlaydi-25f3e1.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/ai-agent-tizimlari-qanday-ishlaydi-25f3e1.jpg"/>
-  </item>
-  <item>
-    <title>Til modellari marshrutizatori ichidan</title>
-    <link>https://ailenta.uz/x/til-modellari-marshrutizatori-ichidan-7d1bf4/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/til-modellari-marshrutizatori-ichidan-7d1bf4/</guid>
-    <pubDate>Wed, 28 Oct 2026 14:41:24 GMT</pubDate>
-    <description>Maqolada til modellari uchun so'rovlarni optimal ijrochiga yo'naltiruvchi FAIRouter kutubxonasi muhokama qilinadi. Hozirda faqat LLMlar qo'llab-quvvatlansa-da, kelajakda ijrochilar sinfini asboblar va agentlar bilan kengaytirish rejalashtirilgan.</description>
-    <category>tadqiqot</category><category>agentlar</category>
-    <media:content url="https://ailenta.uz/og/til-modellari-marshrutizatori-ichidan-7d1bf4.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/til-modellari-marshrutizatori-ichidan-7d1bf4.jpg"/>
   </item>
 </channel>
 </rss>

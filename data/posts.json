@@ -1,5 +1,94 @@
 [
   {
+    "id": "f94bb101fed3",
+    "slug": "nearlink-alliance-embodied-ai-connectivity-blue-bookni-nashr-f94bb1",
+    "title": "NearLink Alliance Embodied AI Connectivity Blue Bookni nashr etdi",
+    "summary": "NearLink Alliance 30 dan ortiq hamkorlar bilan \"Embodied AI Connectivity Blue Book\"ni e'lon qildi. Unda robot ichki aloqalari, ko'p qurilma hamkorligi va qurilma-chekka-bulut koordinatsiyasi uchun talablar belgilangan.",
+    "tags": [
+      "robototexnika",
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 18,
+    "published": "2026-11-07T01:58:47.000Z",
+    "created": "2026-11-07T02:10:39.935Z",
+    "coverage": 1,
+    "source": {
+      "name": "Pandaily",
+      "url": "https://pandaily.com/nearlink-alliance-embodied-ai-short-range-connectivity-blue-book",
+      "title": "NearLink Alliance Publishes Embodied AI Connectivity Blue Book With 30-Plus Contributors",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "44e3f1d6ace1",
+    "slug": "cometal-sanoat-kooperatsiyasi-platformasini-yaratdi-44e3f1",
+    "title": "COMETAL sanoat kooperatsiyasi platformasini yaratdi",
+    "summary": "COMETAL kompaniyasi sanoat kooperatsiyasi uchun platforma yaratdi. Unda neyron tarmoqlar platformani sinovdan o'tkazadi, inson tilidagi so'rovlar bo'yicha grafiklar tuzadi va kodni ishlab chiqarishga joylashtiradi.",
+    "tags": [
+      "biznes",
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 11,
+    "published": "2026-11-06T15:15:28.000Z",
+    "created": "2026-11-07T02:10:43.994Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/companies/severstal/articles/1104690",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "b18597a21cf5",
+    "slug": "uchrashuvlar-uchun-ai-yordamchi-bot-yaratildi-b18597",
+    "title": "Uchrashuvlar uchun AI yordamchi bot yaratildi",
+    "summary": "Bir dasturchi Teams, Yandex Telebridge va MTS Link uchrashuvlariga avtomatik qo'shiladigan bot yaratdi. Bot suhbatlarni yozib olib, bir necha daqiqada transkripsiya va kelishuvlar xulosasini taqdim etadi.",
+    "tags": [
+      "agentlar",
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 11,
+    "published": "2026-11-06T15:10:51.000Z",
+    "created": "2026-11-07T02:10:43.994Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1104684",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "b058d05cbea2",
+    "slug": "anthropic-claudening-oyin-klonlash-cheklovini-yumshatdi-b058d0",
+    "title": "Anthropic Claude'ning o'yin klonlash cheklovini yumshatdi",
+    "summary": "Anthropic kompaniyasi Claude AI modelining o'yinlarni klonlash bo'yicha cheklovini yumshatdi. Endi Claude foydalanuvchi so'ragan janrda original o'yinlar yaratishni taklif qiladi.",
+    "tags": [
+      "Anthropic",
+      "qonun"
+    ],
+    "importance": 2,
+    "score": -0.9,
+    "published": "2026-11-05T11:00:00.000Z",
+    "created": "2026-11-07T02:10:43.994Z",
+    "coverage": 1,
+    "source": {
+      "name": "Tom's Hardware",
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQRjZtdTRhY2hIeDlfYkV1ZEFWQThWNUZBczNJYUdTd0xHSUM1aU5CZ2VkNGpfWU9Lb1hsOV9hM2VjNEtYdGZUZklkYWJZZkNsZmNWQUtsTnhzTERKTktMR1RfZzQ2RjJEVnl6ZFJObzVQVzNnRzVsM0w2N1Q2MEloM0xzTnJWcTRZc1BHRmpoZ0RIY2k4OWJOdlV2Zll3bm5oaXNtTUdpTExLWjcxSkpaTUNvYjNNRHJKQ000RzBfRk96bzJTZjROb1ZfcldCYjNoUk1GeGltVXFWdi0tbkVhd0pzcGRPUU1fUTFKYW1TMzJOQ2V4WmVjQ1RnSUVUMUtRNjNrLUtrZmZYZw",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "5f6ec2733026",
     "slug": "anthropic-aiga-ilmiy-modellarni-qaytarishni-tavsiya-etdi-5f6ec2",
     "title": "Anthropic AIga ilmiy modellarni qaytarishni tavsiya etdi",
