@@ -1,5 +1,49 @@
 [
   {
+    "id": "495a0d67034c",
+    "slug": "kapitalbank-smartfon-orqali-to-lov-qilishni-yo-lga-qo-ydi-495a0d",
+    "title": "Kapitalbank smartfon orqali to‘lov qilishni yo‘lga qo‘ydi",
+    "summary": "\"Kapitalbank\" ATB Visa virtual kartalari yordamida smartfon orqali to‘lov qilish imkoniyatini taqdim etdi. Yangi xizmatdan iPhone va boshqa Apple qurilmalari egalari foydalanishlari mumkin.",
+    "tags": [
+      "Apple",
+      "O'zbekiston"
+    ],
+    "importance": 2,
+    "score": 45,
+    "published": "2026-11-07T08:30:00.000Z",
+    "created": "2026-11-07T09:37:11.092Z",
+    "coverage": 1,
+    "source": {
+      "name": "Daryo",
+      "url": "https://daryo.uz/2026/11/07/kapitalbankning-visa-virtual-kartalari-bilan-endi-smartfon-orqali-tolov-qilish-mumkin",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "f0c761fe4a4a",
+    "slug": "rus-tili-uchun-ru-zhev-1-3-ochiq-modeli-taqdim-etildi-f0c761",
+    "title": "Rus tili uchun Ru-Zhev 1.3 ochiq modeli taqdim etildi",
+    "summary": "Rus tilidagi matnlar bilan ishlash uchun mo‘ljallangan Ru-Zhev 1.3 ochiq modeli chiqarildi. Ushbu model protsessorda ishlaydi va uning vaznlari Hugging Face platformasiga joylashtirilgan.",
+    "tags": [
+      "Hugging Face",
+      "ochiq model"
+    ],
+    "importance": 2,
+    "score": 11,
+    "published": "2026-11-07T08:01:06.000Z",
+    "created": "2026-11-07T09:37:11.092Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1104810",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "d9e814fadac6",
     "slug": "ozbekiston-va-koreya-ai-boyicha-kadrlar-tayyorlaydi-d9e814",
     "title": "O'zbekiston va Koreya AI bo'yicha kadrlar tayyorlaydi",

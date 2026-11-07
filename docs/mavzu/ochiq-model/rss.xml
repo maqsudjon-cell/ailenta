@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/ochiq-model/</link>
   <description>&quot;ochiq model&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Sat, 07 Nov 2026 09:35:13 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 07 Nov 2026 09:54:29 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/ochiq-model/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Rus tili uchun Ru-Zhev 1.3 ochiq modeli taqdim etildi</title>
+    <link>https://ailenta.uz/x/rus-tili-uchun-ru-zhev-1-3-ochiq-modeli-taqdim-etildi-f0c761/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/rus-tili-uchun-ru-zhev-1-3-ochiq-modeli-taqdim-etildi-f0c761/</guid>
+    <pubDate>Sat, 07 Nov 2026 08:01:06 GMT</pubDate>
+    <description>Rus tilidagi matnlar bilan ishlash uchun mo‘ljallangan Ru-Zhev 1.3 ochiq modeli chiqarildi. Ushbu model protsessorda ishlaydi va uning vaznlari Hugging Face platformasiga joylashtirilgan.</description>
+    <category>Hugging Face</category><category>ochiq model</category>
+    <media:content url="https://ailenta.uz/og/rus-tili-uchun-ru-zhev-1-3-ochiq-modeli-taqdim-etildi-f0c761.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/rus-tili-uchun-ru-zhev-1-3-ochiq-modeli-taqdim-etildi-f0c761.jpg"/>
+  </item>
   <item>
     <title>Katta va kichik modellar muloqoti uchun PLatour yaratildi</title>
     <link>https://ailenta.uz/x/katta-va-kichik-modellar-muloqoti-uchun-platour-yaratildi-f23583/</link>
@@ -296,16 +306,6 @@
     <category>ochiq model</category><category>xavfsizlik</category>
     <media:content url="https://ailenta.uz/og/ochiq-modellar-taqiqi-boyicha-bahslar-tanqid-qilindi-d7f977.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/ochiq-modellar-taqiqi-boyicha-bahslar-tanqid-qilindi-d7f977.jpg"/>
-  </item>
-  <item>
-    <title>MoE modellarini tezlashtirish bo'yicha tajriba</title>
-    <link>https://ailenta.uz/x/moe-modellarini-tezlashtirish-boyicha-tajriba-13d6ed/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/moe-modellarini-tezlashtirish-boyicha-tajriba-13d6ed/</guid>
-    <pubDate>Fri, 09 Oct 2026 11:30:08 GMT</pubDate>
-    <description>Bir havaskor dasturchi GTX 1660 SUPER videokartasida MoE modellarini tezlashtirishga urindi. U llama.cpp'ning -fit flagi -ngl 99'dan 2,44 barobar tezroq ekanligini aniqladi.</description>
-    <category>tadqiqot</category><category>ochiq model</category>
-    <media:content url="https://ailenta.uz/og/moe-modellarini-tezlashtirish-boyicha-tajriba-13d6ed.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/moe-modellarini-tezlashtirish-boyicha-tajriba-13d6ed.jpg"/>
   </item>
 </channel>
 </rss>
