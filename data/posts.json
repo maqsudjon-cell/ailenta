@@ -1,5 +1,49 @@
 [
   {
+    "id": "1234ae891841",
+    "slug": "coreweave-va-nebius-moliyaviy-hisobotlarini-elon-qiladi-1234ae",
+    "title": "CoreWeave va Nebius moliyaviy hisobotlarini e'lon qiladi",
+    "summary": "AI ma'lumot markazlari kompaniyalari CoreWeave va Nebius kelasi haftada moliyaviy hisobotlarini taqdim etadi. Shuningdek, Federal zaxira tizimining foiz stavkasi bo'yicha qaroriga ta'sir qiluvchi inflyatsiya ko'rsatkichlari e'lon qilinadi.",
+    "tags": [
+      "biznes",
+      "iqtisod"
+    ],
+    "importance": 2,
+    "score": 22,
+    "published": "2026-11-06T23:13:10.000Z",
+    "created": "2026-11-07T00:06:26.584Z",
+    "coverage": 1,
+    "source": {
+      "name": "CNBC",
+      "url": "https://cnbc.com/2026/11/06/cramer-coreweave-nebius-earnings.html",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "27d6e52c02d1",
+    "slug": "metr-anthropic-ai-rivojlanishi-tezlashganini-aniqladi-27d6e5",
+    "title": "METR Anthropic AI rivojlanishi tezlashganini aniqladi",
+    "summary": "METR tashkiloti Anthropic ma'lumotlarini audit qilib, model yaratish tezligi ikki baravarga oshganini bildirdi. Ushbu tezlashuvning 80 foizi AI yordamida olib borilgan tadqiqotlar hisobiga to'g'ri kelgan.",
+    "tags": [
+      "Anthropic",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 21,
+    "published": "2026-11-06T13:40:07.000Z",
+    "created": "2026-11-07T00:06:26.584Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/metr-finds-anthropic-may-have-crossed-its-own-ai-acceleration-warning-threshold-back-in-july",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "6ab2623ca4e1",
     "slug": "ai-professorning-o-quv-rejasini-tasodifan-o-chirib-tashladi-6ab262",
     "title": "AI professorning o‘quv rejasini tasodifan o‘chirib tashladi",
