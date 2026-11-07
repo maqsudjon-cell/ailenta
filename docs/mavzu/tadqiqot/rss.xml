@@ -5,7 +5,7 @@
   <link>https://ailenta.uz/mavzu/tadqiqot/</link>
   <description>&quot;tadqiqot&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Sat, 07 Nov 2026 08:13:19 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 07 Nov 2026 09:10:38 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/tadqiqot/rss.xml" rel="self" type="application/rss+xml"/>
   <item>
     <title>AI aqlli termostatlar isitish xarajatini kamaytiradimi</title>
@@ -36,6 +36,16 @@
     <category>robototexnika</category><category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/nearlink-alliance-embodied-ai-connectivity-blue-bookni-nashr-f94bb1.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/nearlink-alliance-embodied-ai-connectivity-blue-bookni-nashr-f94bb1.jpg"/>
+  </item>
+  <item>
+    <title>Anthropic modeli kvant hisoblash masalasini hal qildi</title>
+    <link>https://ailenta.uz/x/anthropic-modeli-kvant-hisoblash-masalasini-hal-qildi-7a08fc/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/anthropic-modeli-kvant-hisoblash-masalasini-hal-qildi-7a08fc/</guid>
+    <pubDate>Sat, 07 Nov 2026 00:49:10 GMT</pubDate>
+    <description>Anthropic kompaniyasining hali taqdim etilmagan AI modeli kvant hisoblash sohasidagi ko‘p yillik muammoni yechishga yordam berdi. Model 18 yillik gipotezani uch kun ichida isbotlashga muvaffaq bo‘ldi.</description>
+    <category>Anthropic</category><category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/anthropic-modeli-kvant-hisoblash-masalasini-hal-qildi-7a08fc.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/anthropic-modeli-kvant-hisoblash-masalasini-hal-qildi-7a08fc.jpg"/>
   </item>
   <item>
     <title>Anthropic AIga ilmiy modellarni qaytarishni tavsiya etdi</title>
@@ -296,16 +306,6 @@
     <category>tadqiqot</category><category>agentlar</category>
     <media:content url="https://ailenta.uz/og/agentli-ai-tizimlari-uchun-resurs-orkestratsiyasi-tadqiqoti-473a02.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/agentli-ai-tizimlari-uchun-resurs-orkestratsiyasi-tadqiqoti-473a02.jpg"/>
-  </item>
-  <item>
-    <title>Kvant mashina o‘rganishi klinik ma'lumotlarda sinovdan o‘tdi</title>
-    <link>https://ailenta.uz/x/kvant-mashina-o-rganishi-klinik-malumotlarda-sinovdan-o-tdi-c153bd/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/kvant-mashina-o-rganishi-klinik-malumotlarda-sinovdan-o-tdi-c153bd/</guid>
-    <pubDate>Thu, 05 Nov 2026 05:00:00 GMT</pubDate>
-    <description>Yangi tadqiqot kvant mashina o‘rganish modellarini oltita klinik ma'lumotlar to‘plamida klassik modellar bilan solishtirdi. Natijalar kvant modellarining klassiklardan ustun emasligini ko‘rsatdi.</description>
-    <category>tadqiqot</category><category>tibbiyot</category>
-    <media:content url="https://ailenta.uz/og/kvant-mashina-o-rganishi-klinik-malumotlarda-sinovdan-o-tdi-c153bd.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/kvant-mashina-o-rganishi-klinik-malumotlarda-sinovdan-o-tdi-c153bd.jpg"/>
   </item>
 </channel>
 </rss>

@@ -1,5 +1,58 @@
 [
   {
+    "id": "d9e814fadac6",
+    "slug": "o-zbekiston-va-koreya-ai-bo-yicha-kadrlar-tayyorlaydi-d9e814",
+    "title": "O‘zbekiston va Koreya AI bo‘yicha kadrlar tayyorlaydi",
+    "summary": "O‘zbekiston Migratsiya agentligi va Janubiy Koreyaning Xanseo universiteti kelishuv imzoladi. Tomonlar aviatsiya, dronlar, sun’iy intellekt va logistika sohalarida mutaxassislar tayyorlashga kelishib oldi.",
+    "tags": [
+      "O'zbekiston",
+      "ta'lim"
+    ],
+    "importance": 3,
+    "score": 44,
+    "published": "2026-11-07T06:00:00.000Z",
+    "created": "2026-11-07T09:02:13.733Z",
+    "coverage": 1,
+    "source": {
+      "name": "UzDaily",
+      "url": "https://uzdaily.uz/uz/%C3%B6zbekiston-va-janubiy-koreya-aviatsiya-sohasi-u%C3%A7un-mutaxassislar-tayyorlaydi",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "7a08fc6095be",
+    "slug": "anthropic-modeli-kvant-hisoblash-masalasini-hal-qildi-7a08fc",
+    "title": "Anthropic modeli kvant hisoblash masalasini hal qildi",
+    "summary": "Anthropic kompaniyasining hali taqdim etilmagan AI modeli kvant hisoblash sohasidagi ko‘p yillik muammoni yechishga yordam berdi. Model 18 yillik gipotezani uch kun ichida isbotlashga muvaffaq bo‘ldi.",
+    "tags": [
+      "Anthropic",
+      "tadqiqot"
+    ],
+    "importance": 4,
+    "score": 33,
+    "published": "2026-11-07T00:49:10.000Z",
+    "created": "2026-11-07T09:02:13.734Z",
+    "coverage": 3,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/anthropic-quantum-computing-breakthrough-aaronson-ambainis-math-physics-psi-2026-11",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "Business Insider",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeVV2MmJnQVdxRkgtcmdrS2JNeUNWOGZfOV9hdi1yVG1WTXAxd0RWSlpJN3lZSFRwOUxvS1BSVjY5eTJDdHJYZFRaY0U3aTNfTURBYUdUbGRBVzJadXJmMWZGdzZjV3c1RGlWb3dBT2RDZldOUGxWLTlQcDVQMGhxX3NhclJidXg4WkRVczFhRUtHWi1VZTItcDIyRnRIOFZadDNwd1l5SU9IVmt4dU94XzVtckhadw"
+      },
+      {
+        "name": "BigGo Finance",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9kVDN2SklZVUVwcy1lVmhBVXg4dk9QS2JQd0RlSWl3c2NXeW9GRVB2TkVodnhfd0NSYTlEYlFxYm96a0JnSHNYMlQyQXlRUDRRODZ2S0l3VERNRTVpVGZwZzh2LVN2VFRNVDRSR2xRQ0NBZHdTZkE"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
     "id": "47f917e5002e",
     "slug": "ai-aqlli-termostatlar-isitish-xarajatini-kamaytiradimi-47f917",
     "title": "AI aqlli termostatlar isitish xarajatini kamaytiradimi",
