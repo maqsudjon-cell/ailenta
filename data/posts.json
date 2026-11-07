@@ -1,5 +1,114 @@
 [
   {
+    "id": "ebdd4a54c09a",
+    "slug": "gijduvonda-noqonuniy-shagal-qazish-dron-bilan-aniqlandi-ebdd4a",
+    "title": "G'ijduvonda noqonuniy shag'al qazish dron bilan aniqlandi",
+    "summary": "G'ijduvon tumanida dron yordamida o'tkazilgan reydda noqonuniy qum-shag'al qazib olingani aniqlandi. Tabiatga yetkazilgan zarar 8,9 mlrd so'mga baholanmoqda.",
+    "tags": [
+      "O'zbekiston",
+      "qonun"
+    ],
+    "importance": 3,
+    "score": 45,
+    "published": "2026-11-07T11:01:19.000Z",
+    "created": "2026-11-07T12:02:01.671Z",
+    "coverage": 1,
+    "source": {
+      "name": "Kun.uz",
+      "url": "https://kun.uz/news/2026/11/07/noqonuniy-shagal-qazib-olingani-dron-yordamida-aniqlandi-59700",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "1d679bab49d6",
+    "slug": "ukraina-rossiyaga-yirik-dron-hujumi-uyushtirdi-1d679b",
+    "title": "Ukraina Rossiyaga yirik dron hujumi uyushtirdi",
+    "summary": "Ukraina Rossiyaga yirik dron hujumi uyushtirdi. Natijada Saratovdagi neft zavodi va Oryoldagi harbiy korxonada yong'in chiqdi. Oryol gubernatori hujumni tasdiqladi.",
+    "tags": [
+      "siyosat",
+      "xavfsizlik"
+    ],
+    "importance": 4,
+    "score": 45,
+    "published": "2026-11-07T09:06:24.000Z",
+    "created": "2026-11-07T12:02:01.671Z",
+    "coverage": 1,
+    "source": {
+      "name": "Daryo",
+      "url": "https://daryo.uz/2026/11/07/ukraina-rossiyaga-yirik-dron-hujumi-uyushtirdi-saratovdagi-neft-zavodi-va-oryoldagi-harbiy-korxona-yonmoqda-video",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "0f9272323d34",
+    "slug": "menejerlar-ai-ozgarishlarini-boshqarmoqda-rahbarlar-emas-0f9272",
+    "title": "Menejerlar AI o'zgarishlarini boshqarmoqda, rahbarlar emas",
+    "summary": "Korn Ferry so'roviga ko'ra, menejerlar AI bilan bog'liq noaniqliklarni o'z zimmalariga olmoqda, rahbarlar esa bunga tayyor emas. Gallup ma'lumotiga ko'ra, AQSH ishchilarining atigi 25% aniq AI rejasini eshitgan.",
+    "tags": [
+      "mehnat bozori",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-11-07T11:30:00.000Z",
+    "created": "2026-11-07T12:02:01.671Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/11/07/korn-ferry-survey-ai-transformation-leaders-middle-managers",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "4b60a31db0ce",
+    "slug": "sand-ai-video-yaratish-startapi-200-mln-dollar-jalb-qildi-4b60a3",
+    "title": "Sand.ai video yaratish startapi 200 mln dollar jalb qildi",
+    "summary": "Pekindagi video yaratishga ixtisoslashgan Sand.ai AI startapi Series A+ bosqichida 200 mln dollar sarmoya jalb qildi. So'nggi 10 oy ichida kompaniyaning umumiy moliyalashtiruvi 300 mln dollarga yetdi.",
+    "tags": [
+      "biznes",
+      "tadqiqot"
+    ],
+    "importance": 4,
+    "score": 18,
+    "published": "2026-11-07T05:45:02.000Z",
+    "created": "2026-11-07T12:02:01.671Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/261107/p1",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "da4869e683b2",
+    "slug": "neyron-tarmoqlar-havolalarni-toqib-chiqarmaydi-da4869",
+    "title": "Neyron tarmoqlar havolalarni to'qib chiqarmaydi",
+    "summary": "Tadqiqotga ko'ra, neyron tarmoqlar tomonidan berilgan havolalarning aksariyati haqiqiy bo'lib, ular to'qib chiqarilmagan. Ishlamaydigan havolalar ko'pincha o'chirilgan maqolalarga tegishli bo'ladi.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 11,
+    "published": "2026-11-07T11:06:56.000Z",
+    "created": "2026-11-07T12:02:01.671Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1104870",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "891eb6c7fd09",
     "slug": "meta-ai-yangi-yangilanish-bilan-yaxshilanadi-891eb6",
     "title": "Meta AI yangi yangilanish bilan yaxshilanadi",
