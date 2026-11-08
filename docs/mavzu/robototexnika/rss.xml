@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/robototexnika/</link>
   <description>&quot;robototexnika&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Sun, 08 Nov 2026 23:08:35 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 08 Nov 2026 23:32:04 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/robototexnika/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Dunyo modellari AI ni 3D fazoga o'tkazmoqda</title>
+    <link>https://ailenta.uz/x/dunyo-modellari-ai-ni-3d-fazoga-otkazmoqda-b2811d/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/dunyo-modellari-ai-ni-3d-fazoga-otkazmoqda-b2811d/</guid>
+    <pubDate>Sun, 08 Nov 2026 10:00:00 GMT</pubDate>
+    <description>Dunyo modellari sun'iy intellektni matndan uch o'lchamli fazoga o'tkazmoqda. Ushbu modellar robotlar va avtonom avtomobillarga harakatlanishni o'rgatish uchun fizika qonunlarini simulyatsiya qiladi.</description>
+    <category>robototexnika</category><category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/dunyo-modellari-ai-ni-3d-fazoga-otkazmoqda-b2811d.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/dunyo-modellari-ai-ni-3d-fazoga-otkazmoqda-b2811d.jpg"/>
+  </item>
   <item>
     <title>Xitoyda inson qiyofasidagi teleboshlovchi robotlar</title>
     <link>https://ailenta.uz/x/xitoyda-inson-qiyofasidagi-teleboshlovchi-robotlar-1da4cf/</link>
@@ -296,16 +306,6 @@
     <category>robototexnika</category><category>biznes</category>
     <media:content url="https://ailenta.uz/og/yita-robot-startapi-100-mln-rmbdan-ortiq-mablag-jalb-qildi-bf0f1b.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/yita-robot-startapi-100-mln-rmbdan-ortiq-mablag-jalb-qildi-bf0f1b.jpg"/>
-  </item>
-  <item>
-    <title>PrimeBot va Pekin universiteti yangi robot usulini yaratdi</title>
-    <link>https://ailenta.uz/x/primebot-va-pekin-universiteti-yangi-robot-usulini-yaratdi-c11379/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/primebot-va-pekin-universiteti-yangi-robot-usulini-yaratdi-c11379/</guid>
-    <pubDate>Wed, 21 Oct 2026 06:49:23 GMT</pubDate>
-    <description>Pekin universiteti va PrimeBot tadqiqotchilari HIL-UMI tizimini taqdim etdi. Usul qo'l moslamasi yordamida robot ma'lumotlarini yig'ish samadorligini HG-DAgger'ga nisbatan 5,6 baravar oshiradi.</description>
-    <category>robototexnika</category><category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/primebot-va-pekin-universiteti-yangi-robot-usulini-yaratdi-c11379.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/primebot-va-pekin-universiteti-yangi-robot-usulini-yaratdi-c11379.jpg"/>
   </item>
 </channel>
 </rss>

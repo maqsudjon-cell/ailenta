@@ -5,7 +5,7 @@
   <link>https://ailenta.uz/mavzu/tadqiqot/</link>
   <description>&quot;tadqiqot&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Sun, 08 Nov 2026 23:08:35 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 08 Nov 2026 23:32:04 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/tadqiqot/rss.xml" rel="self" type="application/rss+xml"/>
   <item>
     <title>AI musiqasini aniqlash qiyin, ammo ba'zi belgilari bor</title>
@@ -56,6 +56,16 @@
     <category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/tadqiqotchilar-ai-ongli-emasligini-takidladi-df8052.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/tadqiqotchilar-ai-ongli-emasligini-takidladi-df8052.jpg"/>
+  </item>
+  <item>
+    <title>Dunyo modellari AI ni 3D fazoga o'tkazmoqda</title>
+    <link>https://ailenta.uz/x/dunyo-modellari-ai-ni-3d-fazoga-otkazmoqda-b2811d/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/dunyo-modellari-ai-ni-3d-fazoga-otkazmoqda-b2811d/</guid>
+    <pubDate>Sun, 08 Nov 2026 10:00:00 GMT</pubDate>
+    <description>Dunyo modellari sun'iy intellektni matndan uch o'lchamli fazoga o'tkazmoqda. Ushbu modellar robotlar va avtonom avtomobillarga harakatlanishni o'rgatish uchun fizika qonunlarini simulyatsiya qiladi.</description>
+    <category>robototexnika</category><category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/dunyo-modellari-ai-ni-3d-fazoga-otkazmoqda-b2811d.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/dunyo-modellari-ai-ni-3d-fazoga-otkazmoqda-b2811d.jpg"/>
   </item>
   <item>
     <title>Claude yaratuvchisi AI tomonidan yaratilgan videolarni tanqid qildi</title>
@@ -296,16 +306,6 @@
     <category>Anthropic</category><category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/metr-anthropic-ai-rivojlanishi-tezlashganini-aniqladi-27d6e5.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/metr-anthropic-ai-rivojlanishi-tezlashganini-aniqladi-27d6e5.jpg"/>
-  </item>
-  <item>
-    <title>Underdog 32MB hajmli nutq modelini namoyish etdi</title>
-    <link>https://ailenta.uz/x/underdog-32mb-hajmli-nutq-modelini-namoyish-etdi-a394d9/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/underdog-32mb-hajmli-nutq-modelini-namoyish-etdi-a394d9/</guid>
-    <pubDate>Fri, 06 Nov 2026 13:02:16 GMT</pubDate>
-    <description>Underdog kompaniyasi yangi, atigi 32MB hajmli nutq modelini namoyish etdi. Kichik hajmiga qaramay, ushbu model ham nutq, ham musiqa yaratish imkoniyatiga ega.</description>
-    <category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/underdog-32mb-hajmli-nutq-modelini-namoyish-etdi-a394d9.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/underdog-32mb-hajmli-nutq-modelini-namoyish-etdi-a394d9.jpg"/>
   </item>
 </channel>
 </rss>
