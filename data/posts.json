@@ -1,5 +1,49 @@
 [
   {
+    "id": "b6dfde138b9f",
+    "slug": "frilanserlar-hisobni-tiklash-uchun-aidan-foydalanmoqda-b6dfde",
+    "title": "Frilanserlar hisobni tiklash uchun AI'dan foydalanmoqda",
+    "summary": "Uber va Instacart kabi kompaniyalar frilanserlar hisoblarini ogohlantirishsiz bloklamoqda. Shu sababli ba'zi xizmat ko'rsatuvchilar o'z hisoblarini tiklash uchun AI vositalariga murojaat qilmoqda.",
+    "tags": [
+      "mehnat bozori",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-11-08T10:43:01.000Z",
+    "created": "2026-11-08T12:01:41.006Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/uber-instacart-workers-ai-help-account-deactivations-2026-10",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "adea9352b9c1",
+    "slug": "xitoy-bir-yilda-120-mvtli-ai-kampusini-barpo-etdi-adea93",
+    "title": "Xitoy bir yilda 120 MVtli AI kampusini barpo etdi",
+    "summary": "Xitoyda bir yil ichida 120 MVt quvvatga ega sun'iy intellekt kampusi qurildi. Ushbu loyiha AQSHdagi xarajatlarning beshdan bir qismiga tushgan.",
+    "tags": [
+      "iqtisod",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 7,
+    "published": "2026-11-08T11:53:13.000Z",
+    "created": "2026-11-08T12:01:41.006Z",
+    "coverage": 1,
+    "source": {
+      "name": "FourWeekMBA",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTlREZU9fVEN2MHQyeldxSjhJRkpoUzY0bFBIZXVqaU9HdjNxUm5XSnlLTWNhNjFWUFdVdV83S1l5UTE2N3c4R3dOaWNpbFRraThXYW1LVGU1WTlDaFJNVzliVDZjUFRyMmU4LXdmdXN5cllfN0Q0OGpVSkxpT3FiNmJXRkpFdmJMcTlwOExUaU1JUQ",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "8d5a66c3ea7f",
     "slug": "buyuk-britaniya-idoralari-ai-murojaatlaridan-qiynalmoqda-8d5a66",
     "title": "Buyuk Britaniya idoralari AI murojaatlaridan qiynalmoqda",
