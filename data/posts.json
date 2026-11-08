@@ -1,5 +1,146 @@
 [
   {
+    "id": "0e9685bcbd49",
+    "slug": "ai-badiiy-qimmatga-ega-matn-yoza-oladimi-0e9685",
+    "title": "AI badiiy qimmatga ega matn yoza oladimi",
+    "summary": "Muallif sun'iy intellektga o'z hikoyasi asosida sahna yozishni so'ragan. AI qahramonlarga o'g'il va umumiy o'tmishni qo'shib, ularni yarashtirishga uringan. Bu AI'ning ijodiy yozish qobiliyatini ko'rsatadi.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 11,
+    "published": "2026-11-08T15:21:53.000Z",
+    "created": "2026-11-08T17:01:43.373Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/companies/bothub/articles/1105138",
+      "title": "Промты не горят: может ли ИИ написать художественно ценный текст",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "928d455baa4f",
+    "slug": "ajoyib-yettilik-1-trln-dan-ortiq-bozor-qiymatini-yoqotdi-928d45",
+    "title": "\\\"Ajoyib yettilik\\\" $1 trln dan ortiq bozor qiymatini yo'qotdi",
+    "summary": "AQSh fond bozorida “Ajoyib yettilik” kompaniyalari aksiyalari keskin pasaydi. Apple, Microsoft, Google, Amazon, Nvidia, Meta va Tesla bir kunda $1 trln dan ortiq bozor qiymatini yo‘qotdi. Eng katta yo‘qotish Nvidia hissasiga to‘g‘ri keldi.",
+    "tags": [
+      "biznes",
+      "iqtisod"
+    ],
+    "importance": 4,
+    "score": 48,
+    "published": "2026-11-08T06:12:52.000Z",
+    "created": "2026-11-08T17:02:00.798Z",
+    "coverage": 1,
+    "source": {
+      "name": "Pivot",
+      "url": "https://pivot.uz/uz/ajoyib-yettilik-bir-kunda-1-trln-dan-ortiq-bozor-qiymatini-yoqotdi",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "d5418a8635ce",
+    "slug": "apple-rahbariyati-ai-sohasidagi-harakatlarni-kuchaytirmoqda-d5418a",
+    "title": "Apple rahbariyati AI sohasidagi harakatlarni kuchaytirmoqda",
+    "summary": "Apple kompaniyasi rahbariyati sun'iy intellekt yo'nalishidagi ishlarni jadallashtirishni talab qilmoqda. John Ternus dasturiy ta'minot bo'limi rahbari Craig Federighidan Siri'ni haqiqiy AI agentiga aylantirishni so'ragan.",
+    "tags": [
+      "Apple",
+      "agentlar"
+    ],
+    "importance": 3,
+    "score": 27,
+    "published": "2026-11-08T16:20:06.000Z",
+    "created": "2026-11-08T17:02:00.798Z",
+    "coverage": 2,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/261108/p9",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "FourWeekMBA",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMWNvNjdjN3hBOUQ5dXBTQ1VxZ01xTy11R2Y4SjhENTV3UzZlaThXaWFxdzdadnpfNUl2RzBoZGNQWGZVcURoaDFjcDk0QVcxWmh3S3VKX3FjWTRGbi0xX2JXMVIxZzYwQjdBZzkzRDQtN1ozOWl2ZmYwT3RzZUF4d2ZWUFRqb28"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "a29f3a1accdc",
+    "slug": "ai-musiqasini-aniqlash-qiyin-ammo-bazi-belgilari-bor-a29f3a",
+    "title": "AI musiqasini aniqlash qiyin, ammo ba'zi belgilari bor",
+    "summary": "Sun'iy intellekt tomonidan yaratilgan qo'shiqlar Spotify va boshqa platformalarni to'ldirmoqda. Ushbu qo'shiqlardagi vokal, matn va instrumental belgilar ularni aniqlashga yordam berishi mumkin.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-11-08T16:15:00.000Z",
+    "created": "2026-11-08T17:02:00.798Z",
+    "coverage": 1,
+    "source": {
+      "name": "Engadget",
+      "url": "https://engadget.com/2308062/ai-music-difficult-to-detect-telltale-signs",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "5755c624af6e",
+    "slug": "ai-modelini-tanlash-uchun-agent-yaratish-boyicha-qollanma-5755c6",
+    "title": "AI modelini tanlash uchun agent yaratish bo'yicha qo'llanma",
+    "summary": "Muallif o'z maqolasida AI modellarini baholash va tanlash uchun agent yaratish tajribasi bilan bo'lishdi. U qimmat va murakkab modellardan ko'ra, o'z vazifalariga mos keladigan modellarni tanlashga e'tibor qaratgan.",
+    "tags": [
+      "agentlar",
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 14,
+    "published": "2026-11-08T15:00:19.000Z",
+    "created": "2026-11-08T17:02:00.798Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1104780",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "a862ac76886e",
+    "slug": "anthropicning-895-mlrdlik-ai-sarmoyasi-xavf-ostida-a862ac",
+    "title": "Anthropic'ning $895 mlrdlik AI sarmoyasi xavf ostida",
+    "summary": "Anthropic kompaniyasining $895 milliardlik sun'iy intellektga yo'naltirilgan sarmoyasi Uoll-strit uchun yangi qarz muammosiga aylanishi mumkin. Bu kompaniyaning moliyaviy kelajagi borasida xavotirlarni kuchaytirmoqda.",
+    "tags": [
+      "Anthropic",
+      "iqtisod"
+    ],
+    "importance": 3,
+    "score": 13,
+    "published": "2026-11-08T16:20:41.000Z",
+    "created": "2026-11-08T17:02:00.798Z",
+    "coverage": 2,
+    "source": {
+      "name": "AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbDNlQ0NLMFJPZzFKUTYySDJfV2xkQWFNVllxQlFHWTRtWXVZdDNZdW41VHFrQUJOYjJmZDlMT0NjWWpLZGlSNW5nTW9OQU5VbkFEVVdxWVgzWF9ONWhTbWlCMUJRUHFUTmZPMWt1SGQ5NXFMdnYtY29FMnkxQXhCaA",
+      "indirect": true
+    },
+    "also": [
+      {
+        "name": "24/7 Wall St.",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbG9kZlo4VzNzM2ZiX1BHci1HV0RKWS1wc3ZfdFh6WUtYUlUzZHEwZ1Y2d3dyZlk1cUY1ZGFiUXBueWdhUFhrMDBhUzFqS1phb3RYdHpTR3dXVjBUOHpJSEpCUkFMZXdKRFozaUF1SDZDVWVIVUlrTUIwRXZmR2ZzUVNQMnNfdFByMWRmLTV5eXhXUEhxNHJDVWZPeXc5R1BnUE0wdlR3Z3c3NG1ZZU96VWk0cFA4bUhhM2FWMDNDSQ"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
     "id": "363f0d446855",
     "slug": "devin-cli-yangilanishida-silicon-modeli-paydo-boldi-363f0d",
     "title": "Devin CLI yangilanishida Silicon modeli paydo bo'ldi",
