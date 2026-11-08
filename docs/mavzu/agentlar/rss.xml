@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/agentlar/</link>
   <description>&quot;agentlar&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Sun, 08 Nov 2026 15:47:05 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 08 Nov 2026 16:10:07 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/agentlar/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Devin CLI yangilanishida Silicon modeli paydo bo'ldi</title>
+    <link>https://ailenta.uz/x/devin-cli-yangilanishida-silicon-modeli-paydo-boldi-363f0d/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/devin-cli-yangilanishida-silicon-modeli-paydo-boldi-363f0d/</guid>
+    <pubDate>Sun, 08 Nov 2026 14:32:49 GMT</pubDate>
+    <description>Devin CLI buyruq satri vositasining yangi versiyasiga Silicon modeli kiritildi. Ushbu model besh bosqichdan iborat ro'yxatda taqdim etilgan.</description>
+    <category>agentlar</category>
+    <media:content url="https://ailenta.uz/og/devin-cli-yangilanishida-silicon-modeli-paydo-boldi-363f0d.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/devin-cli-yangilanishida-silicon-modeli-paydo-boldi-363f0d.jpg"/>
+  </item>
   <item>
     <title>AI agentlari uchun mo'ljallangan imtihon qayta tuzildi</title>
     <link>https://ailenta.uz/x/ai-agentlari-uchun-moljallangan-imtihon-qayta-tuzildi-f87af7/</link>
@@ -296,16 +306,6 @@
     <category>agentlar</category><category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/ben-hylak-mahsulotlar-agentlarga-ulanishi-kerak-502de8.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/ben-hylak-mahsulotlar-agentlarga-ulanishi-kerak-502de8.jpg"/>
-  </item>
-  <item>
-    <title>Microsoft AI rahbari ish jarayonlarini o'zgartirmoqda</title>
-    <link>https://ailenta.uz/x/microsoft-ai-rahbari-ish-jarayonlarini-ozgartirmoqda-fb8974/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/microsoft-ai-rahbari-ish-jarayonlarini-ozgartirmoqda-fb8974/</guid>
-    <pubDate>Thu, 29 Oct 2026 09:00:01 GMT</pubDate>
-    <description>Microsoft kompaniyasining Copilot va AI agentlari bo'yicha rahbari ish uslublarini qayta shakllantirmoqda. Bu o'zgarishlar Office va boshqa muhim bo'limlarga ta'sir qilmoqda.</description>
-    <category>Microsoft</category><category>agentlar</category>
-    <media:content url="https://ailenta.uz/og/microsoft-ai-rahbari-ish-jarayonlarini-ozgartirmoqda-fb8974.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/microsoft-ai-rahbari-ish-jarayonlarini-ozgartirmoqda-fb8974.jpg"/>
   </item>
 </channel>
 </rss>
