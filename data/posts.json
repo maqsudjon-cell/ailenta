@@ -1,16 +1,38 @@
 [
   {
+    "id": "b621b929538c",
+    "slug": "darpa-ai-yordamida-raqamli-bozorlardagi-kamchiliklarni-izlay-b621b9",
+    "title": "DARPA AI yordamida raqamli bozorlardagi kamchiliklarni izlaydi",
+    "summary": "DARPA sun'iy intellekt yordamida raqamli bozorlardagi yashirin kamchiliklarni topishni maqsad qilgan. Bu dushmanlar iqtisodiy tartibsizliklarni keltirib chiqarish uchun foydalanishi mumkin bo'lgan qoidalarni o'rganishni o'z ichiga oladi.",
+    "tags": [
+      "xavfsizlik",
+      "iqtisod"
+    ],
+    "importance": 4,
+    "score": 15,
+    "published": "2026-11-08T14:00:01.000Z",
+    "created": "2026-11-08T14:13:39.606Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/darpa-wants-to-find-weak-points-digital-markets-2026-11",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "df8052273099",
-    "slug": "olimlar-aida-shuur-paydo-bolishi-mumkinligini-rad-etdi-df8052",
-    "title": "Olimlar AIda shuur paydo bo'lishi mumkinligini rad etdi",
-    "summary": "Olimlar Anil Set, Ned Blok va Jiulio Tononi hozirgi AI tizimlari va kremniy uskunalarida shuur paydo bo'lmasligini ta'kidladi. Ularning fikricha, shuurning faqat hisoblashga bog'liqligi haqidagi qarash xatodir. Tadqiqotchilar AI tizimlariga huquqlar berishdan ogohlantirmoqda.",
+    "slug": "tadqiqotchilar-ai-ongli-emasligini-takidladi-df8052",
+    "title": "Tadqiqotchilar AI ongli emasligini ta'kidladi",
+    "summary": "Anil Seth, Ned Block va Giulio Tononi ismli tadqiqotchilar Nature jurnalida AI tizimlari ongli emasligini ta'kidladi. Ular ong faqat hisoblashga bog'liq degan taxminni xato deb hisoblab, AI tizimlariga huquq berishdan ogohlantirdi.",
     "tags": [
       "tadqiqot"
     ],
     "importance": 3,
     "score": 15,
     "published": "2026-11-08T13:49:21.000Z",
-    "created": "2026-11-08T13:57:31.015Z",
+    "created": "2026-11-08T14:13:39.606Z",
     "coverage": 1,
     "source": {
       "name": "The Decoder",
