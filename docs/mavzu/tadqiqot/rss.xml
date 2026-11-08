@@ -5,7 +5,7 @@
   <link>https://ailenta.uz/mavzu/tadqiqot/</link>
   <description>&quot;tadqiqot&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Sun, 08 Nov 2026 18:15:48 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 08 Nov 2026 18:43:28 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/tadqiqot/rss.xml" rel="self" type="application/rss+xml"/>
   <item>
     <title>AI musiqasini aniqlash qiyin, ammo ba'zi belgilari bor</title>
@@ -56,6 +56,16 @@
     <category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/tadqiqotchilar-ai-ongli-emasligini-takidladi-df8052.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/tadqiqotchilar-ai-ongli-emasligini-takidladi-df8052.jpg"/>
+  </item>
+  <item>
+    <title>Claude yaratuvchisi AI tomonidan yaratilgan videolarni tanqid qildi</title>
+    <link>https://ailenta.uz/x/claude-yaratuvchisi-ai-tomonidan-yaratilgan-videolarni-tanqi-e915d3/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/claude-yaratuvchisi-ai-tomonidan-yaratilgan-videolarni-tanqi-e915d3/</guid>
+    <pubDate>Sun, 08 Nov 2026 08:31:03 GMT</pubDate>
+    <description>Claude AI modelining yaratuvchisi sun'iy intellekt tomonidan yaratilgan videolarni &quot;AI axlati&quot; deb tanqid qildi. Bu AI kontent sifati haqida munozaralarni keltirib chiqarmoqda.</description>
+    <category>Anthropic</category><category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/claude-yaratuvchisi-ai-tomonidan-yaratilgan-videolarni-tanqi-e915d3.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/claude-yaratuvchisi-ai-tomonidan-yaratilgan-videolarni-tanqi-e915d3.jpg"/>
   </item>
   <item>
     <title>Anthropic AI modellarining nusxalanishini o'rgandi</title>
@@ -296,16 +306,6 @@
     <category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/ai-kompyuter-fanining-asosiy-tamoyiliga-tasir-korsatdi-81fe33.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/ai-kompyuter-fanining-asosiy-tamoyiliga-tasir-korsatdi-81fe33.jpg"/>
-  </item>
-  <item>
-    <title>AI EGE imtihonini tekshirishda faqat belgilaydi</title>
-    <link>https://ailenta.uz/x/ai-ege-imtihonini-tekshirishda-faqat-belgilaydi-05ba36/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/ai-ege-imtihonini-tekshirishda-faqat-belgilaydi-05ba36/</guid>
-    <pubDate>Fri, 06 Nov 2026 08:58:19 GMT</pubDate>
-    <description>Ijtimoiy fanlar bo'yicha EGE imtihonining kengaytirilgan javoblarini tekshiruvchi Telegram botida AI modeli faqat javoblarni belgilaydi. Ballarni esa oddiy kod hisoblaydi, modelga baho qo'yish vazifasi yuklatilmagan.</description>
-    <category>ta'lim</category><category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/ai-ege-imtihonini-tekshirishda-faqat-belgilaydi-05ba36.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/ai-ege-imtihonini-tekshirishda-faqat-belgilaydi-05ba36.jpg"/>
   </item>
 </channel>
 </rss>
