@@ -5,7 +5,7 @@
   <link>https://ailenta.uz/mavzu/tadqiqot/</link>
   <description>&quot;tadqiqot&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Sun, 08 Nov 2026 03:12:39 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 08 Nov 2026 03:46:58 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/tadqiqot/rss.xml" rel="self" type="application/rss+xml"/>
   <item>
     <title>Habrda maqola ko'rilishini ML yordamida bashorat qilish</title>
@@ -208,6 +208,16 @@
     <media:thumbnail url="https://ailenta.uz/og/underdog-32mb-hajmli-nutq-modelini-namoyish-etdi-a394d9.jpg"/>
   </item>
   <item>
+    <title>AI kompyuter fanining asosiy tamoyiliga ta'sir ko'rsatdi</title>
+    <link>https://ailenta.uz/x/ai-kompyuter-fanining-asosiy-tamoyiliga-tasir-korsatdi-81fe33/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/ai-kompyuter-fanining-asosiy-tamoyiliga-tasir-korsatdi-81fe33/</guid>
+    <pubDate>Fri, 06 Nov 2026 10:02:06 GMT</pubDate>
+    <description>Sun'iy intellekt kompyuter fanining asosiy tamoyillaridan birini o'zgartirdi. Bu haqda The New York Times nashri xabar berdi.</description>
+    <category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/ai-kompyuter-fanining-asosiy-tamoyiliga-tasir-korsatdi-81fe33.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/ai-kompyuter-fanining-asosiy-tamoyiliga-tasir-korsatdi-81fe33.jpg"/>
+  </item>
+  <item>
     <title>AI EGE imtihonini tekshirishda faqat belgilaydi</title>
     <link>https://ailenta.uz/x/ai-ege-imtihonini-tekshirishda-faqat-belgilaydi-05ba36/</link>
     <guid isPermaLink="true">https://ailenta.uz/x/ai-ege-imtihonini-tekshirishda-faqat-belgilaydi-05ba36/</guid>
@@ -296,16 +306,6 @@
     <category>tadqiqot</category><category>xavfsizlik</category>
     <media:content url="https://ailenta.uz/og/aining-arxitektura-drifti-muammosi-va-yechimlari-72c938.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/aining-arxitektura-drifti-muammosi-va-yechimlari-72c938.jpg"/>
-  </item>
-  <item>
-    <title>Anthropic 207,049 ta ilmiy sessiyani o‘rgandi</title>
-    <link>https://ailenta.uz/x/anthropic-207-049-ta-ilmiy-sessiyani-o-rgandi-608627/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/anthropic-207-049-ta-ilmiy-sessiyani-o-rgandi-608627/</guid>
-    <pubDate>Thu, 05 Nov 2026 15:15:15 GMT</pubDate>
-    <description>Anthropic kompaniyasi 207,049 ta ilmiy sessiyani o‘rganib chiqdi. Tadqiqot natijalariga ko‘ra, ma'lumotlar bilan ishlash yetakchi o‘rinni egalladi.</description>
-    <category>Anthropic</category><category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/anthropic-207-049-ta-ilmiy-sessiyani-o-rgandi-608627.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/anthropic-207-049-ta-ilmiy-sessiyani-o-rgandi-608627.jpg"/>
   </item>
 </channel>
 </rss>

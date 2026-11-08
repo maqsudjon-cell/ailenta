@@ -1,5 +1,138 @@
 [
   {
+    "id": "e9227fdbfb7f",
+    "slug": "ai-javoblari-jurnalistika-materiallariga-tayanmoqda-e9227f",
+    "title": "AI javoblari jurnalistika materiallariga tayanmoqda",
+    "summary": "DW nashri sun'iy intellekt javoblari jurnalistika materiallariga tayanayotganini ta'kidladi. Maqolada ushbu jarayonda kimga haq to'lanishi kerakligi haqidagi masala ko'tarilgan.",
+    "tags": [
+      "iqtisod"
+    ],
+    "importance": 2,
+    "score": 6.9,
+    "published": "2026-11-07T15:16:40.000Z",
+    "created": "2026-11-08T03:35:57.286Z",
+    "coverage": 1,
+    "source": {
+      "name": "DW.com",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE80QVhvQkctSW5hSjgyVHg4Rlp5dk5zc1lscThGclU1ZUxRNllub2RnR3Y4a25EVngzNEZZZS1ITHBLZll3RlEwY3diTGpnN0VaYXgySjhjZ3I1NHVDd1JmWUtET3JsUl9IZ09ZMENSSWJWYXlhR1JJ0gF3QVVfeXFMT1ZzNFB0VjkyTHJEYkZPUm9LdEUxX1huR1U1ZkxfRWxtZEdRM3h4V1hjUGZYaVp4RlVpRUtheDBQLXhjTzZ5TWtpR2VrT0F1TVRPZ3NBQzNyclBKaDNLaGhvY2UzcnFZdWpHQUhjdU9JV0x0dUc4Ync",
+      "title": "AI answers rely on journalism. Who gets paid?",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "3bed5fd42fbd",
+    "slug": "amerikaliklar-ai-bumi-tugashidan-xavotirda-3bed5f",
+    "title": "Amerikaliklar AI bumi tugashidan xavotirda",
+    "summary": "Yangi so'rovnomaga ko'ra, amerikaliklar AI bumi tugashi mumkinligidan xavotirga tushmoqda. Boshqa iqtisodiy xavflar qatorida bu omil ham fuqarolarda xavotir uyg'otgan.",
+    "tags": [
+      "iqtisod"
+    ],
+    "importance": 2,
+    "score": 23,
+    "published": "2026-11-07T18:00:00.000Z",
+    "created": "2026-11-08T03:36:17.889Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Washington Post",
+      "url": "https://washingtonpost.com/technology/2026/11/07/americans-are-worried-about-ai-boom-going-bust-survey-finds",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "4d50799fe186",
+    "slug": "demokratlar-galabasidan-song-aksiyalar-arzonlashdi-4d5079",
+    "title": "Demokratlar g'alabasidan so'ng aksiyalar arzonlashdi",
+    "summary": "AQSHdagi oraliq saylovlarda demokratlar g'alaba qozongach, global texnologiya aksiyalari keskin tushdi. Apple, Tesla va Nvidia kabi yirik kompaniyalar bir savdo kunida taxminan 1 trillion dollar yo'qotdi.",
+    "tags": [
+      "iqtisod",
+      "siyosat"
+    ],
+    "importance": 4,
+    "score": 23,
+    "published": "2026-11-06T17:04:41.000Z",
+    "created": "2026-11-08T03:36:17.889Z",
+    "coverage": 2,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/news/video/2026/nov/06/could-the-ai-bubble-burst-after-democrats-midterms-sweep-the-latest",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "The Guardian",
+        "url": "https://theguardian.com/news/audio/2026/nov/06/could-the-ai-bubble-burst-after-democrats-midterms-sweep-the-latest"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "0926217eefe6",
+    "slug": "big-tech-ai-poygasi-kichik-biznes-vaqtini-tejaydi-092621",
+    "title": "Big Tech AI poygasi kichik biznes vaqtini tejaydi",
+    "summary": "Yirik texnologiya kompaniyalarining AI poygasi kichik biznes egalariga vaqtni tejashga yordam beradi. Lekin u tadbirkorlar uchun yangi mijozlarni topib bera olmaydi.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 17.9,
+    "published": "2026-11-07T12:45:00.000Z",
+    "created": "2026-11-08T03:36:17.889Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/11/07/alignable-ai-assistants-small-business-referrals-eric-groves",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "81fe330c9f49",
+    "slug": "ai-kompyuter-fanining-asosiy-tamoyiliga-tasir-korsatdi-81fe33",
+    "title": "AI kompyuter fanining asosiy tamoyiliga ta'sir ko'rsatdi",
+    "summary": "Sun'iy intellekt kompyuter fanining asosiy tamoyillaridan birini o'zgartirdi. Bu haqda The New York Times nashri xabar berdi.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 15.2,
+    "published": "2026-11-06T10:02:06.000Z",
+    "created": "2026-11-08T03:36:17.889Z",
+    "coverage": 1,
+    "source": {
+      "name": "The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSEpJYzllMkoxeFFPVDVISGp6T1hLcDc2Vm9oVnk5SFFGWWVPdjBXY2hGNG1lLTJ6cm1Dc2tpVlJOc0pqMjF1b0FCY3lYeU96QlFOaGM4TlNZZEtzNXN1MXFPNzBTY01UNFM4OG0zOXRnWmJkMVI5b2UwZFNzTkFWdUVTMWc",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "de35c994f3f8",
+    "slug": "aws-har-bir-bosqich-uchun-alohida-model-tanlashni-aytdi-de35c9",
+    "title": "AWS har bir bosqich uchun alohida model tanlashni aytdi",
+    "summary": "AWS kompaniyasining ta'kidlashicha, yagona AI modeli barcha vazifalarni bajara olmaydi. Shu sababli har bir bosqich uchun eng mos modelni tanlash muhim hisoblanadi.",
+    "tags": [
+      "bulut"
+    ],
+    "importance": 2,
+    "score": 10,
+    "published": "2026-11-07T22:55:00.000Z",
+    "created": "2026-11-08T03:36:17.889Z",
+    "coverage": 1,
+    "source": {
+      "name": "BigGo Finance",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA5VnNfUkFKeHlLeEVZbmxHeTRkRk5ZZ0V6SGhHVEItUmJRYzFwWnN2VmFldlE3VzFTemh0c3gxOXZLZVpvcHV1WXFYNGRhQTRGYUYyYXcyVk4yRmJBYVBveUtMMHVDVEwzZEZXaUZmT0M0Yzc0NWc",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "f19371425ae0",
     "slug": "ai-va-ml-boyicha-ish-orinlari-bozori-tahlil-qilindi-f19371",
     "title": "AI va ML bo'yicha ish o'rinlari bozori tahlil qilindi",
