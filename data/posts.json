@@ -1,5 +1,49 @@
 [
   {
+    "id": "ab9ed220c8a9",
+    "slug": "aqsh-saylovlaridan-song-global-bozorlarda-ai-xavotiri-ab9ed2",
+    "title": "AQSH saylovlaridan so'ng global bozorlarda AI xavotiri",
+    "summary": "AQSHdagi oraliq saylovlardan so'ng, Demokratlarning g'alabasi ortidan global fond bozorlari keskin pasaydi. Bu pasayishga, ayniqsa, AQSH texnologiya aksiyalarining tushishi va AIga nisbatan katta xavotirlar sabab bo'ldi.",
+    "tags": [
+      "iqtisod",
+      "siyosat"
+    ],
+    "importance": 4,
+    "score": 8.5,
+    "published": "2026-11-06T21:23:54.000Z",
+    "created": "2026-11-08T21:42:51.417Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/business/2026/nov/06/global-stocks-plunge-amid-ai-slowdown-fears-after-democrats-midterm-triumph",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "01fb872a207f",
+    "slug": "anthropic-ai-tadqiqotlari-tezlashmoqda-tekshirish-muammosi-01fb87",
+    "title": "Anthropic AI tadqiqotlari tezlashmoqda, tekshirish muammosi",
+    "summary": "Anthropic kompaniyasining sun'iy intellekt bo'yicha tadqiqotlari tezlashmoqda. Bu esa ushbu tadqiqot natijalarini kim tekshirishi kerakligi borasidagi muammolarni keltirib chiqarmoqda.",
+    "tags": [
+      "Anthropic",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 3.6,
+    "published": "2026-11-08T01:03:31.000Z",
+    "created": "2026-11-08T21:42:51.417Z",
+    "coverage": 1,
+    "source": {
+      "name": "WeRSM",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5TSGZtY283M3RHQlh1bmJjSElHX3ZtUzNScVd1RHkyaHduZDdNTi1mM0JfRnM1TWVleTExQnRUeDlxY0NIX0VrQ1ZRTzRfeGdQMGJ6bGpmOXo4VU5kcmVRNGRkeWtZVTBPc3VtTFljcTh6VUVzNEw3T0lBUXRvS3c",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "80b7554371b5",
     "slug": "132-mlrd-ai-bitimlarining-8-mlrdi-gibrid-shaklda-80b755",
     "title": "$132 mlrd AI bitimlarining $8 mlrdi gibrid shaklda",
