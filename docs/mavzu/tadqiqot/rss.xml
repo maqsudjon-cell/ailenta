@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/tadqiqot/</link>
   <description>&quot;tadqiqot&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Sun, 08 Nov 2026 06:12:18 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 08 Nov 2026 06:38:05 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/tadqiqot/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Anthropic Fellowship dasturi: shartlar va moliyalashtirish</title>
+    <link>https://ailenta.uz/x/anthropic-fellowship-dasturi-shartlar-va-moliyalashtirish-0b6365/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/anthropic-fellowship-dasturi-shartlar-va-moliyalashtirish-0b6365/</guid>
+    <pubDate>Sun, 08 Nov 2026 00:09:53 GMT</pubDate>
+    <description>CASRAI nashri Anthropic kompaniyasining Fellowship dasturi haqida ma’lumot berdi. Unda dasturga qabul qilish shartlari, moliyalashtirish imkoniyatlari va ariza topshirish tartibi yoritilgan.</description>
+    <category>Anthropic</category><category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/anthropic-fellowship-dasturi-shartlar-va-moliyalashtirish-0b6365.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/anthropic-fellowship-dasturi-shartlar-va-moliyalashtirish-0b6365.jpg"/>
+  </item>
   <item>
     <title>Habrda maqola ko'rilishini ML yordamida bashorat qilish</title>
     <link>https://ailenta.uz/x/habrda-maqola-korilishini-ml-yordamida-bashorat-qilish-f2452b/</link>
@@ -296,16 +306,6 @@
     <category>biznes</category><category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/grimes-ai-yaratgan-filmda-rol-oynaydi-37e23c.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/grimes-ai-yaratgan-filmda-rol-oynaydi-37e23c.jpg"/>
-  </item>
-  <item>
-    <title>AI'ning &quot;arxitektura drifti&quot; muammosi va yechimlari</title>
-    <link>https://ailenta.uz/x/aining-arxitektura-drifti-muammosi-va-yechimlari-72c938/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/aining-arxitektura-drifti-muammosi-va-yechimlari-72c938/</guid>
-    <pubDate>Thu, 05 Nov 2026 16:44:41 GMT</pubDate>
-    <description>Sun'iy intellektga berilgan aniq ko'rsatmalarga qaramay, u o'z bilganicha harakat qilishi &quot;arxitektura drifti&quot; deb ataladi. Masalan, ChatGPT 101 marta so'ralganda ham tasvirni o'zgartirib yuborgan. Bu muammoni hal qilish uchun aniq spetsifikatsiyalar va AI'ning ularni o'qishi muhim.</description>
-    <category>tadqiqot</category><category>xavfsizlik</category>
-    <media:content url="https://ailenta.uz/og/aining-arxitektura-drifti-muammosi-va-yechimlari-72c938.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/aining-arxitektura-drifti-muammosi-va-yechimlari-72c938.jpg"/>
   </item>
 </channel>
 </rss>
