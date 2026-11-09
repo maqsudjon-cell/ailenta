@@ -1,5 +1,70 @@
 [
   {
+    "id": "a2f31abfba25",
+    "slug": "astrofotograf-suratini-ai-ijodi-deb-oylashdi-a2f31a",
+    "title": "Astrofotograf suratini AI ijodi deb o'ylashdi",
+    "summary": "Yangi zelandiyalik astrofotograf Brendan Larsen tungi osmondagi 14 mingta yo'ldosh izlarini bitta tasvirga jamladi. Taranaki tog'i ustidagi g'ayrioddiy manzara tarmoqlarda qiziqish uyg'otdi. Ko'pchilik bu tasvirni sun'iy intellekt yaratgan deb o'yladi.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 48,
+    "published": "2026-11-09T05:40:26.000Z",
+    "created": "2026-11-09T06:01:22.149Z",
+    "coverage": 1,
+    "source": {
+      "name": "Kun.uz",
+      "url": "https://kun.uz/news/2026/11/09/14-mingta-yoldosh-izi-aks-etgan-tasvirni-kopchilik-suniy-intellekt-ishi-deb-oyladi-59840",
+      "title": "14 mingta yöldoş izi aks etgan tasvirni köpçilik sunʼiy intellekt işi deb öyladi",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "b539ffb5ae62",
+    "slug": "aqshda-aerodromsiz-uchadigan-jangovar-dron-yaratilmoqda-b539ff",
+    "title": "AQShda aerodromsiz uchadigan jangovar dron yaratilmoqda",
+    "summary": "AQShning Shield AI kompaniyasi X-BAT nomli jangovar uchuvchisiz apparatni ishlab chiqmoqda. U aerodromlarsiz, kemalar va olis orollardan parvoz qilishga mo'ljallangan. Kompaniya dronning to'liq yuk bilan parvoz masofasi 3700 kilometrdan oshishini bildirdi.",
+    "tags": [
+      "robototexnika"
+    ],
+    "importance": 3,
+    "score": 48,
+    "published": "2026-11-09T05:20:41.000Z",
+    "created": "2026-11-09T06:01:29.170Z",
+    "coverage": 1,
+    "source": {
+      "name": "Kun.uz",
+      "url": "https://kun.uz/news/2026/11/09/aerodromsiz-uchishga-moljallangan-jangovar-dron-3700-kmdan-ortiqqa-parvoz-qilishi-kutilmoqda-59831",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "8422634c9a06",
+    "slug": "worldparticle-modeli-moddalar-harakatini-simulyatsiya-qiladi-842263",
+    "title": "WorldParticle modeli moddalar harakatini simulyatsiya qiladi",
+    "summary": "MIT tadqiqotchilari yaratgan WorldParticle sun'iy intellekt modeli moddalar harakatini o'rganadi. Tizim qum sirpanishidan tortib oqsillar taxlanishigacha bo'lgan jarayonlarni simulyatsiya qiladi. U yumshoq robotlar va dorilar yaratishda yordam berishi kutilmoqda.",
+    "tags": [
+      "tadqiqot",
+      "tibbiyot"
+    ],
+    "importance": 4,
+    "score": 22,
+    "published": "2026-11-09T05:00:00.000Z",
+    "created": "2026-11-09T06:01:29.170Z",
+    "coverage": 1,
+    "source": {
+      "name": "MIT News",
+      "url": "https://news.mit.edu/2026/single-ai-model-simulates-many-substances-behavior-1109",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "477d20e59c64",
     "slug": "tencent-olimi-ai-biologiyada-xavf-tugdirishini-aytdi-477d20",
     "title": "Tencent olimi AI biologiyada xavf tug'dirishini aytdi",
