@@ -1,5 +1,76 @@
 [
   {
+    "id": "6bb4fd993972",
+    "slug": "nvidia-rahbari-huangning-ishqiy-munosabatlari-aqsh-xavfsizli-6bb4fd",
+    "title": "Nvidia rahbari Huangning ishqiy munosabatlari AQSh xavfsizligiga tahdid",
+    "summary": "Nvidia bosh direktori Jensen Huangning xitoylik ayol bilan ishqiy munosabatlari AQSh xavfsizligiga zarar yetkazishi mumkin. Bu ayol Pekin uchun ishlaganlikda gumon qilinmoqda. Voqea jiddiy ahamiyat kasb etmoqda.",
+    "tags": [
+      "Nvidia",
+      "xavfsizlik"
+    ],
+    "importance": 5,
+    "score": 32,
+    "published": "2026-11-09T20:01:05.000Z",
+    "created": "2026-11-09T21:41:44.879Z",
+    "coverage": 2,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/technology/2026/nov/09/nvidia-affair-huang-trump-national-security",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "The Guardian",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRURCbUtEUmhHRUdsNXRmUzdZb2NBVWY1OGdhdWtwY1VkM0lGY0N2NFFFRnVFUzkwcnBSSk9qTjR4UGE4a0FTQTBaNGFfNi1xY0JqNzJYZVpPT2s1ZHYtb29GRDlvTU5HbXJmMjEtd241UHNtR19YbjdRaDR6YVd3a28tOXBFT0pfVS12bS13a3I0M0dzLUo1LUhB"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "4e6aef26fb14",
+    "slug": "silikon-vodiysida-aiga-munosabat-ozgarmoqda-4e6aef",
+    "title": "Silikon vodiysida AIga munosabat o'zgarmoqda",
+    "summary": "Sun'iy intellektga nisbatan jamoatchilik noroziligi ortib borayotgani sababli, ba'zi texnologiya yetakchilari \"har qanday narxda qurish\" tamoyilidan voz kechishga chaqirmoqda. Bu sohada katta o'zgarishlar kuzatilmoqda.",
+    "tags": [
+      "siyosat",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 23,
+    "published": "2026-11-09T15:17:59.000Z",
+    "created": "2026-11-09T21:41:44.880Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Washington Post",
+      "url": "https://washingtonpost.com/technology/2026/11/09/trumps-tech-allies-face-revolt-within-their-own-industry",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "92c7545f4c38",
+    "slug": "ai-pufakchasi-kutishi-mumkin-ammo-chiqish-rejasi-emas-92c754",
+    "title": "AI pufakchasi kutishi mumkin, ammo chiqish rejasi emas",
+    "summary": "Sun'iy intellekt infratuzilmasiga sarflanayotgan investitsiyalar o'lchanadigan daromadlardan oshib ketmoqda. Yetkazib beruvchilarning moliyaviy holati muammolar qachon yuzaga kelishini aniqlashda muhim ahamiyatga ega.",
+    "tags": [
+      "iqtisod",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-11-09T14:02:00.000Z",
+    "created": "2026-11-09T21:41:44.880Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/ai-and-ml/2026/11/09/the-ai-bubble-can-wait-but-your-exit-plan-cant/5308415",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "932fe34bad72",
     "slug": "kuken-industries-openai-api-orqali-chizmalarni-qidirmoqda-932fe3",
     "title": "Kuken Industries OpenAI API orqali chizmalarni qidirmoqda",
