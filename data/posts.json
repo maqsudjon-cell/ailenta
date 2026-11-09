@@ -1,5 +1,138 @@
 [
   {
+    "id": "f2380c0279cc",
+    "slug": "ai-chatbotga-vijdon-berish-istagi-f2380c",
+    "title": "AI chatbotga vijdon berish istagi",
+    "summary": "Bir AI kompaniyasi o'zining chatbotiga vijdon berishni xohlamoqda. Bu fikr jamoatchilikda turli munozaralarga sabab bo'lmoqda.",
+    "tags": [
+      "xavfsizlik",
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 26,
+    "published": "2026-11-09T12:36:04.000Z",
+    "created": "2026-11-09T13:18:08.130Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZ0hhX1U4aHV4OTRSb3JZRDZPQ1NEYWtzVDRVYU5jX2tUMVNpU2NZakVrN0hjRTV1Qy1vb2k1cElOOUxXZi1GeEdXX1B2WlhRMEZXUHMwWXlfNWs1TlpaR1FhLWliZEZpN3JIaHd4bWFmcmRTdGFFRTQyZWJsTjQ2TVE3bGNyMTY4dnFHVlk5Y0pIOGFLUExRVnFZTE52bkJncHJ1YUFTZG9RQk1RXzJBZDJn",
+      "title": "An AI company wants its chatbot to have a conscience. God help us.",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "05bd9f0351a0",
+    "slug": "kimyo-sanoatida-ai-innovatsiyalari-05bd9f",
+    "title": "Kimyo sanoatida AI innovatsiyalari",
+    "summary": "Lubrizol kompaniyasi AI, bulutli hisoblash va ilg'or modellashtirish yordamida innovatsiyalarni tezlashtirmoqda. Bu tadqiqotchilarga g'oyalarni tezroq sinash va yaxshiroq qarorlar qabul qilish imkonini beradi.",
+    "tags": [
+      "biznes",
+      "bulut"
+    ],
+    "importance": 3,
+    "score": 26,
+    "published": "2026-11-09T13:00:00.000Z",
+    "created": "2026-11-09T13:18:31.081Z",
+    "coverage": 1,
+    "source": {
+      "name": "MIT Technology Review",
+      "url": "https://technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "45fb196cb1bb",
+    "slug": "ai-sababli-charchoqqa-qarshi-kurash-45fb19",
+    "title": "AI sababli charchoqqa qarshi kurash",
+    "summary": "Maqolada sun'iy intellekt bilan ishlash natijasida yuzaga keladigan aqliy charchoqqa qarshi kurashish usullari muhokama qilinadi. Muallif o'z tajribalari bilan bo'lishadi.",
+    "tags": [
+      "mehnat bozori",
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 20.7,
+    "published": "2026-11-08T19:37:42.000Z",
+    "created": "2026-11-09T13:18:31.081Z",
+    "coverage": 1,
+    "source": {
+      "name": "Hacker News",
+      "url": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "d8283c68ecae",
+    "slug": "ai-aks-sado-kameralari-va-texno-yetakchilik-d8283c",
+    "title": "AI aks-sado kameralari va texno yetakchilik",
+    "summary": "Maqolada AI aks-sado kameralari va texnologiya sohasidagi yetakchilarning fikrlari tahlil qilinadi. Unda Sam Altman, Linus Torvalds va Yen kabi shaxslar misolida turli yondashuvlar ko'rib chiqiladi.",
+    "tags": [
+      "biznes",
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 19,
+    "published": "2026-11-09T11:59:00.000Z",
+    "created": "2026-11-09T13:18:31.081Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/ai-and-ml/2026/11/09/ai-echo-chambers-and-sanity-in-tech-leadership-three-case-studies/5308046",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "0eee26edbd7c",
+    "slug": "ai-uchun-inson-proksi-bolish-0eee26",
+    "title": "AI uchun \"inson proksi\" bo'lish",
+    "summary": "Maqolada insonlarning sun'iy intellekt uchun \"proksi\" sifatida ishlashi ishdan bo'shatishga sabab bo'lishi mumkinligi haqida fikr bildirilgan. Bu AI va inson mehnatining o'zaro munosabatlarini muhokama qiladi.",
+    "tags": [
+      "mehnat bozori",
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 16.7,
+    "published": "2026-11-09T06:55:38.000Z",
+    "created": "2026-11-09T13:18:31.081Z",
+    "coverage": 1,
+    "source": {
+      "name": "Hacker News",
+      "url": "https://swiftrocks.com/being-a-meat-proxy-for-ai-should-be-grounds-for-getting-people-fired",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "f04202bdbbcc",
+    "slug": "pwc-ai-tasirida-xodimlarni-oqitadi-f04202",
+    "title": "PwC AI ta'sirida xodimlarni o'qitadi",
+    "summary": "PwC kompaniyasi 85 000 ga yaqin xodimini tanqidiy fikrlash va qaror qabul qilish bo'yicha sertifikatlashni rejalashtirmoqda. Bu AI ish o'rinlarini o'zgartirishi sababli amalga oshirilmoqda.",
+    "tags": [
+      "mehnat bozori",
+      "biznes"
+    ],
+    "importance": 4,
+    "score": 15,
+    "published": "2026-11-09T13:10:19.000Z",
+    "created": "2026-11-09T13:18:31.081Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/pwc-planning-critical-thinking-certification-as-ai-changes-work-2026-11",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "194a8a7bbf0d",
     "slug": "ozbekiston-fvv-akademiyasi-zagreb-bilan-hamkorlikni-kengayti-194a8a",
     "title": "O'zbekiston FVV akademiyasi Zagreb bilan hamkorlikni kengaytiradi",
