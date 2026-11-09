@@ -1,5 +1,49 @@
 [
   {
+    "id": "932fe34bad72",
+    "slug": "kuken-industries-openai-api-orqali-chizmalarni-qidirmoqda-932fe3",
+    "title": "Kuken Industries OpenAI API orqali chizmalarni qidirmoqda",
+    "summary": "Kuken Industries 70 yillik sovutish minorasi chizmalarini qidirish uchun OpenAI API’dan foydalanmoqda. Muhandislar ta'mirlash uchun zarur chizmani ilgari deyarli bir soatda topgan bo'lsa, endi bu jarayon 4,5 daqiqa vaqt olmoqda.",
+    "tags": [
+      "OpenAI",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 32.6,
+    "published": "2026-11-09T08:00:00.000Z",
+    "created": "2026-11-09T21:01:39.278Z",
+    "coverage": 1,
+    "source": {
+      "name": "OpenAI",
+      "url": "https://openai.com/index/kuken",
+      "title": "Kuken Industries searches 70 years of drawings in minutes",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "24fbdd6b452d",
+    "slug": "instagram-ai-orqali-filtrlar-yaratish-funksiyasini-chiqardi-24fbdd",
+    "title": "Instagram AI orqali filtrlar yaratish funksiyasini chiqardi",
+    "summary": "Instagram foydalanuvchilari uchun AI so'rovlari orqali yangi filtrlar yaratuvchi Effect Builder vositasini ishga tushirdi. Ushbu xizmat hozirda AQShning 18 yoshdan oshgan foydalanuvchilari uchun mavjud.",
+    "tags": [
+      "Meta"
+    ],
+    "importance": 3,
+    "score": 18,
+    "published": "2026-11-09T18:07:23.000Z",
+    "created": "2026-11-09T21:02:02.096Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Verge",
+      "url": "https://theverge.com/tech/1030061/instagram-ai-effect-builder-filters",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "d7b907cc6283",
     "slug": "janubiy-afrikalik-yozuvchi-ai-dan-foydalanishni-himoya-qildi-d7b907",
     "title": "Janubiy afrikalik yozuvchi AI dan foydalanishni himoya qildi",

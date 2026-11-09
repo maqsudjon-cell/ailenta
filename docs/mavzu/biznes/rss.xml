@@ -5,7 +5,7 @@
   <link>https://ailenta.uz/mavzu/biznes/</link>
   <description>&quot;biznes&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Mon, 09 Nov 2026 20:08:15 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 09 Nov 2026 21:12:58 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/biznes/rss.xml" rel="self" type="application/rss+xml"/>
   <item>
     <title>Goldman Sachs: AI infratuzilmasiga investitsiyalar kuchli</title>
@@ -126,6 +126,16 @@
     <category>biznes</category>
     <media:content url="https://ailenta.uz/og/ada-va-dialpad-kompaniyalari-birlashishga-kelishib-oldi-fda227.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/ada-va-dialpad-kompaniyalari-birlashishga-kelishib-oldi-fda227.jpg"/>
+  </item>
+  <item>
+    <title>Kuken Industries OpenAI API orqali chizmalarni qidirmoqda</title>
+    <link>https://ailenta.uz/x/kuken-industries-openai-api-orqali-chizmalarni-qidirmoqda-932fe3/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/kuken-industries-openai-api-orqali-chizmalarni-qidirmoqda-932fe3/</guid>
+    <pubDate>Mon, 09 Nov 2026 08:00:00 GMT</pubDate>
+    <description>Kuken Industries 70 yillik sovutish minorasi chizmalarini qidirish uchun OpenAI API’dan foydalanmoqda. Muhandislar ta'mirlash uchun zarur chizmani ilgari deyarli bir soatda topgan bo'lsa, endi bu jarayon 4,5 daqiqa vaqt olmoqda.</description>
+    <category>OpenAI</category><category>biznes</category>
+    <media:content url="https://ailenta.uz/og/kuken-industries-openai-api-orqali-chizmalarni-qidirmoqda-932fe3.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/kuken-industries-openai-api-orqali-chizmalarni-qidirmoqda-932fe3.jpg"/>
   </item>
   <item>
     <title>AI uchun &quot;inson proksi&quot; bo'lish</title>
@@ -296,16 +306,6 @@
     <category>Anthropic</category><category>biznes</category>
     <media:content url="https://ailenta.uz/og/anthropic-pastroq-baho-bilan-ipo-otkazishni-rejalashtirmoqda-6b2b8c.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/anthropic-pastroq-baho-bilan-ipo-otkazishni-rejalashtirmoqda-6b2b8c.jpg"/>
-  </item>
-  <item>
-    <title>NYT Cooking AI yordamchisi taom tayyorlashda yordam berdi</title>
-    <link>https://ailenta.uz/x/nyt-cooking-ai-yordamchisi-taom-tayyorlashda-yordam-berdi-bb9dc9/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/nyt-cooking-ai-yordamchisi-taom-tayyorlashda-yordam-berdi-bb9dc9/</guid>
-    <pubDate>Sat, 07 Nov 2026 15:50:00 GMT</pubDate>
-    <description>The Verge nashri xabariga ko‘ra, NYT Cooking’ning AI yordamchisi bir foydalanuvchining kechki ovqatini saqlab qolgan, ammo tortini buzishiga oz qolgan. Bu AI’ning oshxonadagi imkoniyatlari va cheklovlarini ko‘rsatadi.</description>
-    <category>biznes</category>
-    <media:content url="https://ailenta.uz/og/nyt-cooking-ai-yordamchisi-taom-tayyorlashda-yordam-berdi-bb9dc9.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/nyt-cooking-ai-yordamchisi-taom-tayyorlashda-yordam-berdi-bb9dc9.jpg"/>
   </item>
 </channel>
 </rss>
