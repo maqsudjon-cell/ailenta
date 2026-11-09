@@ -1,5 +1,134 @@
 [
   {
+    "id": "1f48a488b99e",
+    "slug": "markaziy-osiyoda-ai-nazorati-va-shaxsiy-daxlsizlik-1f48a4",
+    "title": "Markaziy Osiyoda AI nazorati va shaxsiy daxlsizlik",
+    "summary": "Markaziy Osiyo davlatlari terrorizm va ekstremizmga qarshi kurashda AI imkoniyatlaridan foydalanishga intilmoqda. Shu bilan birga, raqamli nazorat tizimlarining fuqarolar shaxsiy hayotiga aralashuvi masalasi tahlil qilinmoqda.",
+    "tags": [
+      "maxfiylik",
+      "xavfsizlik"
+    ],
+    "importance": 2,
+    "score": 48,
+    "published": "2026-11-09T10:43:58.000Z",
+    "created": "2026-11-09T11:02:18.343Z",
+    "coverage": 1,
+    "source": {
+      "name": "Daryo",
+      "url": "https://daryo.uz/2026/11/09/xavfsizlik-uchun-kuzatuv-suniy-intellekt-insonlar-hayotiga-qanchalik-aralashishi-mumkin",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "8525904104b3",
+    "slug": "ozbekistonda-kriminogen-malumotlar-platformasi-yaratiladi-852590",
+    "title": "O'zbekistonda kriminogen ma'lumotlar platformasi yaratiladi",
+    "summary": "O'zbekistonda jinoyatchilik sabablarini tahlil qilish va prognozlash platformasi ishga tushiriladi. Tizim 2027-yilda Olmazorda sinovdan o'tkaziladi.",
+    "tags": [
+      "O'zbekiston"
+    ],
+    "importance": 3,
+    "score": 41,
+    "published": "2026-11-09T10:50:00.000Z",
+    "created": "2026-11-09T11:02:18.344Z",
+    "coverage": 1,
+    "source": {
+      "name": "UzDaily",
+      "url": "https://uzdaily.uz/uz/%C3%B6zbekistonda-kriminogen-malumotlarning-yagona-platformasi-yaratiladi",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "111b66d97ab0",
+    "slug": "ai-va-iqlim-masalasi-bmt-anjumanida-muhokama-qilindi-111b66",
+    "title": "AI va iqlim masalasi BMT anjumanida muhokama qilindi",
+    "summary": "Turkiyada o'tayotgan BMT iqlim konferensiyasida sun'iy intellekt asosiy mavzulardan biri bo'ldi. Anjuman mezboni mamlakatlarni AIdan iqlim harakatlarida foydalanishga chaqirdi.",
+    "tags": [
+      "iqtisod",
+      "siyosat"
+    ],
+    "importance": 2,
+    "score": 26,
+    "published": "2026-11-09T10:00:00.000Z",
+    "created": "2026-11-09T11:02:18.344Z",
+    "coverage": 1,
+    "source": {
+      "name": "MIT Technology Review",
+      "url": "https://technologyreview.com/2026/11/09/1148166/the-climate-case-for-ai-has-not-been-made",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "0eb379a38804",
+    "slug": "uelsda-ai-qoshiqlarini-sinovdan-otkazish-yolga-qoyildi-0eb379",
+    "title": "Uelsda AI qo'shiqlarini sinovdan o'tkazish yo'lga qo'yildi",
+    "summary": "Uelslik musiqa ishqibozi sun'iy intellekt va insonlar yaratgan qo'shiqlarni o'zaro bellashtiruvchi loyihani boshladi. Tinglovchilar AI va inson muallifligidagi musiqalarni baholashlari mumkin.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 1,
+    "score": 19,
+    "published": "2026-11-09T10:15:00.000Z",
+    "created": "2026-11-09T11:02:18.344Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/offbeat/2026/11/09/ai-slop-fm-radio-experiment-puts-machines-on-trial-one-dodgy-tune-at-a-time/5308161",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "cd43bf874da6",
+    "slug": "ai-xavfsizligi-guruhlari-yangi-rejalarni-tayyorlamoqda-cd43bf",
+    "title": "AI xavfsizligi guruhlari yangi rejalarni tayyorlamoqda",
+    "summary": "Sun'iy intellekt xavfsizligi tarafdorlari AQShdagi oraliq saylovlarni yutuq deb baholamoqda. Ular Vashingtonda kelgusi harakatlar rejasini tuzishga kirishdi.",
+    "tags": [
+      "xavfsizlik",
+      "siyosat"
+    ],
+    "importance": 2,
+    "score": 19,
+    "published": "2026-11-09T09:57:23.000Z",
+    "created": "2026-11-09T11:02:18.344Z",
+    "coverage": 1,
+    "source": {
+      "name": "Semafor",
+      "url": "https://semafor.com/article/11/09/2026/ai-safety-groups-outline-their-plans-for-a-new-washington",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "f56476e0d181",
+    "slug": "bozorlardagi-xavotirga-ai-emas-aqsh-qarzi-sabab-korsatildi-f56476",
+    "title": "Bozorlardagi xavotirga AI emas AQSh qarzi sabab ko'rsatildi",
+    "summary": "Yetakchi iqtisodchining ta'kidlashicha, bozorlardagi pasayish sun'iy intellekt bilan emas, balki AQSh davlat qarzi va byudjet bosimi bilan bog'liq. Wall Street xavotirlariga moliyaviy muammolar sabab bo'lmoqda.",
+    "tags": [
+      "iqtisod"
+    ],
+    "importance": 2,
+    "score": 18.1,
+    "published": "2026-11-08T20:46:04.000Z",
+    "created": "2026-11-09T11:02:18.344Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/11/08/us-debt-ai-stock-market-selloff-bond-yields-treasury-risk-premium",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "d26aca29d913",
     "slug": "softbank-aqshda-ai-sekinlashuviga-tayyorlanmoqda-d26aca",
     "title": "SoftBank AQSHda AI sekinlashuviga tayyorlanmoqda",
