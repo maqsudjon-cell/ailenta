@@ -1,5 +1,70 @@
 [
   {
+    "id": "029f6fbf433f",
+    "slug": "turkiyada-ai-via-tizimi-oavni-kuzatadi-029f6f",
+    "title": "Turkiyada AI Via+ tizimi OAVni kuzatadi",
+    "summary": "Turkiya 800 dan ortiq telekanal va internet-platformani tunu kun kuzatib boruvchi Via+ tizimini ishga tushirishga tayyorlanmoqda. Ushbu tizim sun'iy intellekt yordamida ehtimoliy qoidabuzarliklarni avtomatik aniqlaydi hamda regulyator uchun hisobotlar tayyorlaydi.",
+    "tags": [
+      "siyosat",
+      "qonun"
+    ],
+    "importance": 3,
+    "score": 48,
+    "published": "2026-11-09T15:29:48.000Z",
+    "created": "2026-11-09T17:02:36.215Z",
+    "coverage": 1,
+    "source": {
+      "name": "Kun.uz",
+      "url": "https://kun.uz/news/2026/11/09/turkiyada-oav-tsenzurasiga-moljallangan-polat-gumbaz-yaratilmoqda-59953",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "819e18556c4e",
+    "slug": "spines-ai-orqali-kitob-nashri-uchun-64-mln-dollar-yigdi-819e18",
+    "title": "Spines AI orqali kitob nashri uchun 64 mln dollar yig'di",
+    "summary": "Spines kompaniyasi AI agentlari yordamida kitob nashr etishni avtomatlashtirish uchun 64 million dollar investitsiya jalb qildi. Platforma qo'lyozmalarni tahrir qiladi, tarjima etadi hamda muqovalarni loyihalashtiradi. Mualliflar ushbu xizmat uchun haq to'laydi.",
+    "tags": [
+      "iqtisod",
+      "agentlar"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-11-09T16:16:39.000Z",
+    "created": "2026-11-09T17:02:36.215Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/11/09/publisher-spines-raises-64-million-in-new-funding-to-accelerate-effort-to-automate-book-publishing-with-ai-agents",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "3d88a52bb7e7",
+    "slug": "yi-ai-chatbotlarga-yangi-cheklovlar-3d88a5",
+    "title": "YI AI chatbotlarga yangi cheklovlar",
+    "summary": "Yevropa Ittifoqining Digital Fairness Act qonun loyihasi kompaniyalardan qaramlik chaqiruvchi funksiyalarni o'chirish imkoniyatini berishni talab qiladi. Hujjat, shuningdek, insoniy munosabatlarni taqlid qiluvchi sun'iy intellekt tizimlari va chatbotlarni nishonga oladi.",
+    "tags": [
+      "qonun"
+    ],
+    "importance": 4,
+    "score": 18,
+    "published": "2026-11-09T15:40:00.000Z",
+    "created": "2026-11-09T17:02:36.215Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/261109/p28",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "3c2c5fb07220",
     "slug": "ai-sous-chef-oziq-ovqatdan-retsept-taklif-qiluvchi-ilova-3c2c5f",
     "title": "AI Sous-chef: oziq-ovqatdan retsept taklif qiluvchi ilova",
