@@ -1,5 +1,98 @@
 [
   {
+    "id": "f6f0db1a747d",
+    "slug": "ai-xavfi-superintellektga-erishmasada-halokatli-bolishi-mumk-f6f0db",
+    "title": "AI xavfi: Superintellektga erishmasada, halokatli bo'lishi mumkin",
+    "summary": "Mutaxassislar sun'iy intellektning superintellektga erishmasligiga qaramay, halokatli xavf tug'dirishidan ogohlantirmoqda. Geoffrey Hinton va Anthropic bosh direktori Dario Amodei nazoratsiz AI tizimlarini tushunish va boshqarish qiyin bo'lishini ta'kidladi.",
+    "tags": [
+      "Anthropic",
+      "xavfsizlik"
+    ],
+    "importance": 4,
+    "score": 26,
+    "published": "2026-11-09T11:00:07.000Z",
+    "created": "2026-11-09T11:56:47.335Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/commentisfree/2026/nov/09/ai-superintelligence-risk",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "54915ac6a8cb",
+    "slug": "ai-altsgeymer-kasalligi-dasturlarini-aniqladi-54915a",
+    "title": "AI Altsgeymer kasalligi dasturlarini aniqladi",
+    "summary": "Bir hujayrali mashina o'rganish texnologiyasi Altsgeymer kasalligining genetik jihatdan bog'liq, hujayra turiga xos dasturlarini aniqladi. Bu kasallikni tushunishda yangi imkoniyatlar ochadi.",
+    "tags": [
+      "tadqiqot",
+      "tibbiyot"
+    ],
+    "importance": 3,
+    "score": 23,
+    "published": "2026-11-09T00:00:00.000Z",
+    "created": "2026-11-09T11:56:47.335Z",
+    "coverage": 1,
+    "source": {
+      "name": "Nature",
+      "url": "https://nature.com/articles/s41467-026-77651-5",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "7dc16de5a6db",
+    "slug": "cathie-wood-anthropic-bosh-direktorini-tanqid-qildi-7dc16d",
+    "title": "Cathie Wood Anthropic bosh direktorini tanqid qildi",
+    "summary": "Cathie Wood Anthropic bosh direktori Dario Amodeining sun'iy intellekt bo'yicha \"vaximali\" izohlarini tanqid qildi. Uning so'zlari AI atrofida vahima keltirib chiqarganini aytdi.",
+    "tags": [
+      "Anthropic",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 13,
+    "published": "2026-11-09T07:59:29.000Z",
+    "created": "2026-11-09T11:56:47.335Z",
+    "coverage": 2,
+    "source": {
+      "name": "KuCoin",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1TZFF5SWkwUW9JNDlzYkFmQUZHVHc3N2FxS0tXNmN5X3VoTUtwNXFtRUdXTlBzWTZKeE1PMTJWb3YxeDV2RXh5Q2lZMWtFSjAxZHd4WC1rRWlkNld3RU1CaFNIQWlsODZ6YVpjbmE2ZHNETDA",
+      "indirect": true
+    },
+    "also": [
+      {
+        "name": "BeInCrypto",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5OSXdCRmlWNkxKSC1mN01UclB3XzVYUXI0R2lpMnNneERaejgwenlVZHdkNXY3WGp5S1VEVmVPM1dLNm1GQUZhYi12Y0pja3cwNDNzS0JRS1FFZUQ2c1B2V1JESUFWazdpRkJudXNGZkN5cHc"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "754d2242f83a",
+    "slug": "dasturchi-ishga-joylashishda-botlar-bilan-raqobatlashdi-754d22",
+    "title": "Dasturchi ishga joylashishda botlar bilan raqobatlashdi",
+    "summary": "Dasturchi ishga joylashishda botlarning tezkorligiga qarshi kurashish uchun o'z arizalarini avtomatlashtirdi. Ba'zi vakansiyalarga botlar 18 daqiqada 264 ta javob yuborgan.",
+    "tags": [
+      "mehnat bozori",
+      "robototexnika"
+    ],
+    "importance": 2,
+    "score": 11,
+    "published": "2026-11-09T11:01:49.000Z",
+    "created": "2026-11-09T11:56:47.335Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1105448",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "1f48a488b99e",
     "slug": "markaziy-osiyoda-ai-nazorati-va-shaxsiy-daxlsizlik-1f48a4",
     "title": "Markaziy Osiyoda AI nazorati va shaxsiy daxlsizlik",
