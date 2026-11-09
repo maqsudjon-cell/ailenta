@@ -1,5 +1,94 @@
 [
   {
+    "id": "3c2c5fb07220",
+    "slug": "ai-sous-chef-oziq-ovqatdan-retsept-taklif-qiluvchi-ilova-3c2c5f",
+    "title": "AI Sous-chef: oziq-ovqatdan retsept taklif qiluvchi ilova",
+    "summary": "AI Sous-chef jamoaviy loyihasi doirasida Android ilovasi va Telegram-bot yaratildi. U foydalanuvchi mahsulotlarini suratga olib yoki ro'yxat kiritish orqali taom retseptlari va tayyorlash bosqichlarini taklif qiladi.",
+    "tags": [
+      "tadqiqot",
+      "agentlar"
+    ],
+    "importance": 2,
+    "score": 11,
+    "published": "2026-11-09T13:19:52.000Z",
+    "created": "2026-11-09T15:02:18.087Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1105496",
+      "title": "AI Sous-chef: как мы собрали приложение с облачными моделями и вынесли промпты из кода",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "f0e365f78de6",
+    "slug": "nvidia-rahbari-jensen-huang-inqiroz-firmasi-yolladi-f0e365",
+    "title": "Nvidia rahbari Jensen Huang inqiroz firmasi yolladi",
+    "summary": "Nvidia bosh direktori Jensen Huang 2025-yil oktabr oyida Heller inqiroz kommunikatsiyalari firmasini yollagan. Bu harakat uning Megaspeed bilan aloqalari haqidagi NYT hisoboti va Xitoy josusi bilan bog'liqligi sababli yuzaga kelgan.",
+    "tags": [
+      "Nvidia",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-11-09T14:50:02.000Z",
+    "created": "2026-11-09T15:02:53.375Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/261109/p26",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "97df08c68014",
+    "slug": "ai-fotosuratlariga-qarshi-prototip-kamera-yaratildi-97df08",
+    "title": "AI fotosuratlariga qarshi prototip kamera yaratildi",
+    "summary": "Chuqur feklar (deep fakes) hujumiga qarshi kurashish uchun prototip kamera ishlab chiqildi. Bu kamera har bir fotosuratning kelib chiqishini kriptografik dalil bilan ta'minlaydi.",
+    "tags": [
+      "xavfsizlik",
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-11-09T14:45:00.000Z",
+    "created": "2026-11-09T15:02:53.375Z",
+    "coverage": 1,
+    "source": {
+      "name": "Engadget",
+      "url": "https://engadget.com/2307723/caim-1-camera-fighting-against-ai-photography",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "239bd3ec0b2b",
+    "slug": "jonathan-kanter-big-techga-qarshi-ai-yordamida-kurashadi-239bd3",
+    "title": "Jonathan Kanter Big Techga qarshi AI yordamida kurashadi",
+    "summary": "Adliya vazirligining Monopoliyaga qarshi bo'limi sobiq rahbari Jonathan Kanter xususiy sektorda noqonuniy monopoliyalarga qarshi kurashni davom ettirmoqda. U bu kurashda sun'iy intellektdan foydalanmoqda.",
+    "tags": [
+      "qonun",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-11-09T14:30:00.000Z",
+    "created": "2026-11-09T15:02:53.375Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Verge",
+      "url": "https://theverge.com/policy/1029652/kanter-doj-biden-legal-tech",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "f79fc02fe55f",
     "slug": "defex-robotics-y-combinator-akseleratoriga-qabul-qilindi-f79fc0",
     "title": "Defex Robotics Y Combinator akseleratoriga qabul qilindi",
