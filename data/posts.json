@@ -1,5 +1,71 @@
 [
   {
+    "id": "06a03f318a5d",
+    "slug": "jensen-huang-atrofidagi-janjal-xavfsizlik-xavfini-oshirdi-06a03f",
+    "title": "Jensen Huang atrofidagi janjal xavfsizlik xavfini oshirdi",
+    "summary": "Nvidia rahbari Jensen Huang Xitoy ayg'oqchisi deb gumon qilingan shaxs bilan aloqada bo'lgani ma'lum bo'ldi. Ushbu shaxsiy janjal texnologiya sohasida milliy xavfsizlik bo'yicha xavotirlarni keltirib chiqardi.",
+    "tags": [
+      "Nvidia",
+      "xavfsizlik"
+    ],
+    "importance": 4,
+    "score": 23,
+    "published": "2026-11-09T06:01:52.000Z",
+    "created": "2026-11-09T08:02:08.160Z",
+    "coverage": 1,
+    "source": {
+      "name": "BBC News",
+      "url": "https://bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "3cd31a20fa3f",
+    "slug": "aqshda-ai-ornini-bosgan-xodimlar-ishga-qaytarilmoqda-3cd31a",
+    "title": "AQSHda AI o'rnini bosgan xodimlar ishga qaytarilmoqda",
+    "summary": "AQSHda sun'iy intellekt o'rnini bosgan xodimlarning deyarli 20 foizi ishga qaytarilmoqda. Ular yuqoriroq maosh, ish o'rni kafolati va AI shaffofligini talab qilmoqda. Kompaniyalar xodimlarning imkoniyatlarini to'liq tushunmasdan shoshilinch qarorlar qabul qilgani ta'kidlandi.",
+    "tags": [
+      "mehnat bozori",
+      "iqtisod"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-11-09T07:00:00.000Z",
+    "created": "2026-11-09T08:02:08.160Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/11/09/ai-rebounding-20-us-workers-replaced-higher-pay-job-security",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "400ef03e1031",
+    "slug": "spacex-anthropic-bilan-bitim-narxini-ozgartirishi-mumkin-400ef0",
+    "title": "SpaceX Anthropic bilan bitim narxini o'zgartirishi mumkin",
+    "summary": "Chamath Palihapitiya ta'kidlashicha, SpaceX shartnomasidagi 90 kunlik chiqish bandi Anthropic bilan hisoblash bitimi narxini qayta ko'rib chiqish imkonini beradi.",
+    "tags": [
+      "Anthropic",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 7,
+    "published": "2026-11-09T04:35:00.000Z",
+    "created": "2026-11-09T08:02:08.160Z",
+    "coverage": 1,
+    "source": {
+      "name": "BigGo Finance",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBkMGZiT0VmU0Z4QVY1eWk2Q1Mzb3lPY09scmZDMl9JRUxHZHV1c1A3eXBnVmxBd3NtTFQ1UWVialc2MF9VZFhpbUVmZklsN25DZG52bnFpSlBfbm12V3I3Y1Z5Tmw0Z2c1WndsTWI3Rm9JQ0h3NVE",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "01ce7b7eb825",
     "slug": "phpda-tasvirlarda-chegaralarni-topish-uchun-cnnlar-01ce7b",
     "title": "PHPda tasvirlarda chegaralarni topish uchun CNNlar",
