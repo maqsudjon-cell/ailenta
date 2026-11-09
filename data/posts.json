@@ -1,5 +1,137 @@
 [
   {
+    "id": "01ce7b7eb825",
+    "slug": "phpda-tasvirlarda-chegaralarni-topish-uchun-cnnlar-01ce7b",
+    "title": "PHPda tasvirlarda chegaralarni topish uchun CNNlar",
+    "summary": "Habr nashrida PHP dasturchilari uchun sun'iy intellekt bo'yicha maqolalar seriyasining 8-qismi chop etildi. Unda tasvirlardagi chegaralarni aniqlash uchun svyortkali neyron tarmoqlardan (CNN) foydalanish tushuntirilgan.",
+    "tags": [
+      "tadqiqot",
+      "ta'lim"
+    ],
+    "importance": 2,
+    "score": 14,
+    "published": "2026-11-08T21:17:35.000Z",
+    "created": "2026-11-09T06:36:06.346Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1105232",
+      "title": "AI для PHP‑разработчиков. Часть 8: Свёрточные нейронные сети: ищем границы на изображениях с помощью чистого PHP",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "6ee1dee33e4b",
+    "slug": "ai-agentlari-pr-tavsiflarini-juda-batafsil-yozmoqda-6ee1de",
+    "title": "AI agentlari PR tavsiflarini juda batafsil yozmoqda",
+    "summary": "Simon Willisonning ta'kidlashicha, Claude Code yoki Codex kabi AI agentlari loyihalarga o'zgartirish kiritishda PR tavsiflarini juda batafsil yozadi. Bu tavsiflar muammo, yechim va tekshirish bosqichlarini to'liq qamrab oladi.",
+    "tags": [
+      "Anthropic",
+      "agentlar"
+    ],
+    "importance": 2,
+    "score": 21,
+    "published": "2026-11-09T04:25:05.000Z",
+    "created": "2026-11-09T06:36:33.894Z",
+    "coverage": 1,
+    "source": {
+      "name": "Simon Willison",
+      "url": "https://simonwillison.net/2026/Nov/9/details-summary",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "5ed31e818d11",
+    "slug": "linus-torvalds-ai-yaratgan-patchlar-oqimi-choqqisiga-chiqdi-5ed31e",
+    "title": "Linus Torvalds AI yaratgan patchlar oqimi cho'qqisiga chiqdi",
+    "summary": "Linus Torvaldsning kuzatishicha, Linux loyihalaridan birida sun'iy intellekt tomonidan yaratilgan tuzatishlar (patchlar) soni eng yuqori nuqtasiga yetgan. Hozirda tuzatishlar yangi xato hisobotlaridan tezroq kelmoqda.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-11-09T04:53:08.000Z",
+    "created": "2026-11-09T06:36:33.894Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/security/2026/11/09/linus-torvalds-sees-signs-ai-prompted-patch-flood-has-peaked/5308345",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "08c4f8350526",
+    "slug": "alp-toglarida-ai-pufakchasi-xavotirlari-muhokama-qilindi-08c4f8",
+    "title": "Alp tog'larida AI pufakchasi xavotirlari muhokama qilindi",
+    "summary": "Rise venchur salonida San-Fransisko ishonchi, voqelikni baholash va sun'iy intellekt pufakchasi bilan bog'liq xavotirlar muhokama qilindi.",
+    "tags": [
+      "iqtisod",
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-11-09T05:00:20.000Z",
+    "created": "2026-11-09T06:36:33.894Z",
+    "coverage": 1,
+    "source": {
+      "name": "Sifted",
+      "url": "https://sifted.eu/articles/sf-confidence-reality-checks-and-ai-bubble-anxiety-come-to-the-rise-venture-salon-in-the-alps",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "4cea94d8df65",
+    "slug": "ai-agentlari-orasida-kontekstni-yoqotmasdan-vazifa-uzatish-4cea94",
+    "title": "AI agentlari orasida kontekstni yo'qotmasdan vazifa uzatish",
+    "summary": "Habr nashrida bir AI agentidan boshqasiga vazifani kontekstni yo'qotmasdan uzatish usuli muhokama qilindi. Agent-hub ilovasida buning uchun /handoff buyrug'i qo'shilgan bo'lib, u agentga vazifa haqida qisqa ma'lumot tuzishni so'raydi.",
+    "tags": [
+      "agentlar",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 14,
+    "published": "2026-11-09T06:26:39.000Z",
+    "created": "2026-11-09T06:36:33.894Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1105018",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "9fe7ce7fdb5b",
+    "slug": "mcq-format-llmlar-rad-etish-darajasini-pasaytiradi-9fe7ce",
+    "title": "MCQ format LLMlar rad etish darajasini pasaytiradi",
+    "summary": "Tadqiqotlar shuni ko'rsatdiki, katta til modellarida (LLM) ko'p tanlovli savol (MCQ) formati rad etish darajasini pasaytiradi. Bu esa modellarning xavfsizlik xatti-harakatlariga sezilarli ta'sir ko'rsatishi mumkin.",
+    "tags": [
+      "tadqiqot",
+      "xavfsizlik"
+    ],
+    "importance": 4,
+    "score": 10,
+    "published": "2026-11-09T05:00:00.000Z",
+    "created": "2026-11-09T06:36:33.894Z",
+    "coverage": 1,
+    "source": {
+      "name": "arXiv cs.CL",
+      "url": "https://arxiv.org/abs/2611.08639",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "a2f31abfba25",
     "slug": "astrofotograf-suratini-ai-ijodi-deb-oylashdi-a2f31a",
     "title": "Astrofotograf suratini AI ijodi deb o'ylashdi",
