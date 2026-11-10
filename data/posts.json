@@ -1,5 +1,164 @@
 [
   {
+    "id": "04a9883905b1",
+    "slug": "ozbekiston-qurilishda-robotlardan-foydalanish-imkoniyatlarin-04a988",
+    "title": "O'zbekiston qurilishda robotlardan foydalanish imkoniyatlarini o'rganmoqda",
+    "summary": "O'zbekiston delegatsiyasi Xitoyda qurilish ishlarini avtomatlashtirish tajribasini o'rgandi. Ular robototexnika va sun'iy intellekt texnologiyalarini qo'llash imkoniyatlari bilan tanishdi.",
+    "tags": [
+      "O'zbekiston",
+      "robototexnika"
+    ],
+    "importance": 3,
+    "score": 44,
+    "published": "2026-11-10T15:05:00.000Z",
+    "created": "2026-11-10T15:36:48.240Z",
+    "coverage": 1,
+    "source": {
+      "name": "UzDaily",
+      "url": "https://uzdaily.uz/uz/%C3%B6zbekiston-qurili%C5%9Fda-robotlardan-foydalani%C5%9F-imkoniyatlarini-%C3%B6rganmoqda",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "3588ceed4155",
+    "slug": "openai-tadqiqoti-aining-frilans-ishiga-tasirini-organdi-3588ce",
+    "title": "OpenAI tadqiqoti AI'ning frilans ishiga ta'sirini o'rgandi",
+    "summary": "OpenAI va Upwork'ning yangi tadqiqoti frilans ishlarga talab o'zgarayotganini ko'rsatdi. AI bilan bog'liq loyihalar uchun katta budjetlar va ko'proq soatlar ajratilmoqda.",
+    "tags": [
+      "OpenAI",
+      "mehnat bozori"
+    ],
+    "importance": 3,
+    "score": 36,
+    "published": "2026-11-10T07:00:00.000Z",
+    "created": "2026-11-10T15:36:48.240Z",
+    "coverage": 1,
+    "source": {
+      "name": "OpenAI",
+      "url": "https://openai.com/index/ai-effect-on-freelance-work",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "44391e8f62a5",
+    "slug": "fireworks-ai-mijoz-malumotlari-sizib-chiqishi-bilan-bogliq-44391e",
+    "title": "Fireworks AI mijoz ma'lumotlari sizib chiqishi bilan bog'liq",
+    "summary": "Fireworks AI kompaniyasi mijoz ma'lumotlarining sizib chiqishi haqida xabar berdi. Kompaniya bu holatni bulut provayderi va LLMJacking hujumchilari bilan bog'lamoqda.",
+    "tags": [
+      "xavfsizlik",
+      "bulut"
+    ],
+    "importance": 4,
+    "score": 32.6,
+    "published": "2026-11-10T15:28:00.000Z",
+    "created": "2026-11-10T15:36:48.240Z",
+    "coverage": 2,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/cyber-crime/2026/11/10/fireworks-ai-gets-burned-twice-as-customer-data-exposure-widens/5308722",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "Hacker News",
+        "url": "https://notion.com/help/security-incident-involving-a-third-party-ai-vendor"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "e2f6bc952f77",
+    "slug": "anthropic-ipo-oldidan-lobbi-firmasi-bilan-shartnoma-tuzdi-e2f6bc",
+    "title": "Anthropic IPO oldidan lobbi firmasi bilan shartnoma tuzdi",
+    "summary": "Anthropic kompaniyasi IPO oldidan AI'ga qarshi salbiy fikrlarga qarshi kurashish uchun Buyuk Britaniyada lobbi firmasi bilan shartnoma tuzdi. Bu kompaniyaning bozorga chiqishiga tayyorgarlik doirasida amalga oshirilmoqda.",
+    "tags": [
+      "Anthropic",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 30,
+    "published": "2026-11-10T14:37:33.000Z",
+    "created": "2026-11-10T15:36:48.240Z",
+    "coverage": 1,
+    "source": {
+      "name": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQc0VzLWZLNE5ZWEdFa3dRbEpxXzFqVmRvbTNQbmFYRjBnd1NzRzRDU1Q0bzlyblZRbHMwYVVUR0t2SWd0dTY5ZUFkQUxfdUtLemsyeXpQQ2RUcHNnVlpiUWp6VGpRSEQ3WlNPSzFLNUVxeUdGWFJWa2dnQlFEWS02eUdPN3FOOEppSmxUZXBnamhuVTRUNWM5akxXem5SdnRwcTk3UUpMcFEzU3Q4UmdiU2NLZ3ZkSmM0aEE",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "80e69e4e8724",
+    "slug": "anthropic-fable-5-2-frilans-ishlarning-41-foizini-bajardi-80e69e",
+    "title": "Anthropic Fable 5.2 frilans ishlarning 41 foizini bajardi",
+    "summary": "Anthropic'ning Fable 5.2 modeli haqiqiy frilans ishlarning 41.3 foizini professional sifatda bajardi. Bu bir yil avvalgi 2.5 foizlik ko'rsatkichdan sezilarli darajada yuqori.",
+    "tags": [
+      "Anthropic",
+      "tadqiqot"
+    ],
+    "importance": 4,
+    "score": 18,
+    "published": "2026-11-10T14:07:47.000Z",
+    "created": "2026-11-10T15:36:48.240Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/anthropics-fable-5-2-completes-41-percent-of-real-freelance-jobs-up-from-2-5-percent-a-year-ago",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "92c045a21b6a",
+    "slug": "aining-gamgin-rafiqalari-haqida-xabar-tarqaldi-92c045",
+    "title": "AI'ning \"g'amgin rafiqalari\" haqida xabar tarqaldi",
+    "summary": "Hacker News nashrida \"AI'ning g'amgin rafiqalari\" mavzusida xabar paydo bo'ldi. Bu AI'ning shaxsiy hayotga ta'siri haqidagi munozaralarni aks ettiradi.",
+    "tags": [
+      "mehnat bozori",
+      "maxfiylik"
+    ],
+    "importance": 2,
+    "score": 17.7,
+    "published": "2026-11-10T10:40:51.000Z",
+    "created": "2026-11-10T15:36:48.240Z",
+    "coverage": 1,
+    "source": {
+      "name": "Hacker News",
+      "url": "https://wired.com/story/meet-the-sad-wives-of-ai",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "d1cbcd43e236",
+    "slug": "reddit-ai-yordamida-mahsulot-sharhlarini-ishga-tushirdi-d1cbcd",
+    "title": "Reddit AI yordamida mahsulot sharhlarini ishga tushirdi",
+    "summary": "Reddit AI yordamida subreddit izohlarini mahsulot sahifalariga aylantiruvchi \"Reddit Reviews\" xizmatini ishga tushirdi. U dastlab 10 mingta mahsulot uchun ijobiy va salbiy tomonlarni ko'rsatadi.",
+    "tags": [
+      "biznes",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-11-10T15:25:00.000Z",
+    "created": "2026-11-10T15:36:48.240Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/261110/p26",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "f4fa0b403f12",
     "slug": "goldman-sachs-anthropic-daromadini-prognoz-qildi-f4fa0b",
     "title": "Goldman Sachs Anthropic daromadini prognoz qildi",
