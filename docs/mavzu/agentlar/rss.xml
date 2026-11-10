@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/agentlar/</link>
   <description>&quot;agentlar&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Tue, 10 Nov 2026 20:18:44 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 10 Nov 2026 21:05:23 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/agentlar/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Qo'llab-quvvatlash xizmati uchun AI agentlar tizimi qurildi</title>
+    <link>https://ailenta.uz/x/qollab-quvvatlash-xizmati-uchun-ai-agentlar-tizimi-qurildi-5f50b1/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/qollab-quvvatlash-xizmati-uchun-ai-agentlar-tizimi-qurildi-5f50b1/</guid>
+    <pubDate>Tue, 10 Nov 2026 20:38:22 GMT</pubDate>
+    <description>Claude Haiku 5.5 modelida mingta murojaatni klassifikatsiya qilish 0.23 dollar, Sonnet 5.5'da esa 4.50 dollar turadi. Mutaxassislar tizim uzilishlarining oldini oluvchi agentlar arxitekturasini taqdim etdi.</description>
+    <category>agentlar</category><category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/qollab-quvvatlash-xizmati-uchun-ai-agentlar-tizimi-qurildi-5f50b1.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/qollab-quvvatlash-xizmati-uchun-ai-agentlar-tizimi-qurildi-5f50b1.jpg"/>
+  </item>
   <item>
     <title>AI agent davlat xaridlarida mijoz topishga yordam berdi</title>
     <link>https://ailenta.uz/x/ai-agent-davlat-xaridlarida-mijoz-topishga-yordam-berdi-20161c/</link>
@@ -296,16 +306,6 @@
     <category>agentlar</category><category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/agentli-aida-tahlil-sifatini-oshirish-muammosi-ca1c10.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/agentli-aida-tahlil-sifatini-oshirish-muammosi-ca1c10.jpg"/>
-  </item>
-  <item>
-    <title>AI agentlar kodlashda ko'p token ishlatmoqda</title>
-    <link>https://ailenta.uz/x/ai-agentlar-kodlashda-kop-token-ishlatmoqda-13d2cc/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/ai-agentlar-kodlashda-kop-token-ishlatmoqda-13d2cc/</guid>
-    <pubDate>Mon, 02 Nov 2026 13:10:32 GMT</pubDate>
-    <description>AI agentlar kodlash vazifalarini bajarishda oddiy chat so'rovlariga qaraganda 10-50 barobar ko'proq token sarflaydi. Ular kodni rejalashtirish, yaratish, sinovdan o'tkazish va xatolarni tuzatish uchun takroriy jarayonlarni amalga oshiradi.</description>
-    <category>agentlar</category><category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/ai-agentlar-kodlashda-kop-token-ishlatmoqda-13d2cc.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/ai-agentlar-kodlashda-kop-token-ishlatmoqda-13d2cc.jpg"/>
   </item>
 </channel>
 </rss>

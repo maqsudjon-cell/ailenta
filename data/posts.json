@@ -1,5 +1,93 @@
 [
   {
+    "id": "6fcd75d626dd",
+    "slug": "psi-kvant-hisoblash-boyicha-savolga-ai-bilan-javob-topdi-6fcd75",
+    "title": "PSI kvant hisoblash bo'yicha savolga AI bilan javob topdi",
+    "summary": "PSI kompaniyasi kvant hisoblash sohasidagi fundamental savolga javob berish uchun Anthropic'ning hali chiqarilmagan modelidan foydalandi. Olimlar ushbu savol ustida deyarli yigirma yildan beri izlanish olib borayotgan edi.",
+    "tags": [
+      "Anthropic",
+      "tadqiqot"
+    ],
+    "importance": 4,
+    "score": 21,
+    "published": "2026-11-10T19:03:52.000Z",
+    "created": "2026-11-10T20:57:05.734Z",
+    "coverage": 1,
+    "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "0dcc05c96498",
+    "slug": "spacex-oyda-ai-suniy-yoldosh-fabrikalarini-qurmoqchi-0dcc05",
+    "title": "SpaceX Oyda AI sun'iy yo'ldosh fabrikalarini qurmoqchi",
+    "summary": "Elon Musk Oyda sun'iy intellekt sun'iy yo'ldosh fabrikalarini barpo etishni rejalashtirmoqda. SpaceX kompaniyasi NASA'ning Oyda baza qurish bo'yicha 10 milliard dollarlik shartnomalari uchun kurash olib boradi.",
+    "tags": [
+      "biznes",
+      "tadqiqot"
+    ],
+    "importance": 4,
+    "score": 19,
+    "published": "2026-11-10T18:17:06.000Z",
+    "created": "2026-11-10T20:57:05.734Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/11/10/elon-musk-wants-to-build-ai-satellite-factories-on-the-moonand-now-spacex-will-compete-for-nasas-10-billion-in-contracts-to-build-a-lunar-base",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "d0d8f6f9f730",
+    "slug": "korfaz-jamgarmalari-ai-aksiyalari-sotuvidan-tasirlandi-d0d8f6",
+    "title": "Ko'rfaz jamg'armalari AI aksiyalari sotuvidan ta'sirlandi",
+    "summary": "Global miqyosda davlat suveren jamg'armalari va pensiya fondlari AI kompaniyalarida 335.5 milliard dollarlik sarmoyaga ega. Ular AI sohasidagi aksiyalar sotuvidan ta'sirlangan sarmoyadorlar orasida bo'ldi.",
+    "tags": [
+      "iqtisod",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-11-10T13:19:33.000Z",
+    "created": "2026-11-10T20:57:05.734Z",
+    "coverage": 1,
+    "source": {
+      "name": "Semafor",
+      "url": "https://semafor.com/article/11/10/2026/gulf-sovereign-wealth-funds-are-among-those-hit-by-the-ai-sell-off",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "5f50b156f4a2",
+    "slug": "qollab-quvvatlash-xizmati-uchun-ai-agentlar-tizimi-qurildi-5f50b1",
+    "title": "Qo'llab-quvvatlash xizmati uchun AI agentlar tizimi qurildi",
+    "summary": "Claude Haiku 5.5 modelida mingta murojaatni klassifikatsiya qilish 0.23 dollar, Sonnet 5.5'da esa 4.50 dollar turadi. Mutaxassislar tizim uzilishlarining oldini oluvchi agentlar arxitekturasini taqdim etdi.",
+    "tags": [
+      "agentlar",
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 14,
+    "published": "2026-11-10T20:38:22.000Z",
+    "created": "2026-11-10T20:57:05.734Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1106294",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "4ce47cf5608f",
     "slug": "google-rambler-texnologiyasi-pixel-10da-ham-ishga-tushdi-4ce47c",
     "title": "Google Rambler texnologiyasi Pixel 10'da ham ishga tushdi",
