@@ -1,5 +1,184 @@
 [
   {
+    "id": "f4fa0b403f12",
+    "slug": "goldman-sachs-anthropic-daromadini-prognoz-qildi-f4fa0b",
+    "title": "Goldman Sachs Anthropic daromadini prognoz qildi",
+    "summary": "Goldman Sachs tahlilchilari Anthropic kompaniyasining 2030-yilga borib daromadi 600 milliard dollardan oshishini kutmoqda. Bu prognoz AI bozoridagi o'sish salohiyatini ko'rsatadi.",
+    "tags": [
+      "Anthropic",
+      "iqtisod"
+    ],
+    "importance": 3,
+    "score": 27,
+    "published": "2026-11-10T14:52:07.000Z",
+    "created": "2026-11-10T15:06:48.552Z",
+    "coverage": 1,
+    "source": {
+      "name": "Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPc0tWeGNDOUh5S1RleHBrVDlUdGNiRjktVDZGbmtRNlBUcXkwbDRfNXBuSXZ4Yk1NNVBOUTZXNDRlc09LdDI0VlpKMlFRMUVCaVh6VndVSWlwT2NkNElsc1JxUDVZUWFYZ2pWY3NFTFNKQm9fZnk1YkNTZWV6dnFVc2s0T2o",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "e11d8fcf8258",
+    "slug": "ai-modellar-uchun-yangi-linux-operatsion-tizimi-e11d8f",
+    "title": "AI modellar uchun yangi Linux operatsion tizimi",
+    "summary": "Cyanogen asoschilaridan biri Kora nomli yangi Linuxga asoslangan operatsion tizimni yaratdi. U mahalliy AI modellarini ishga tushiruvchi foydalanuvchilar uchun mo'ljallangan.",
+    "tags": [
+      "tadqiqot",
+      "ochiq model"
+    ],
+    "importance": 2,
+    "score": 23,
+    "published": "2026-11-10T14:00:00.000Z",
+    "created": "2026-11-10T15:06:48.552Z",
+    "coverage": 1,
+    "source": {
+      "name": "Wired",
+      "url": "https://wired.com/story/kora-new-linux-based-desktop-operating-system-is-built-for-ai-nerds",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "5f7d32bf188e",
+    "slug": "pelosi-vorisi-aini-tartibga-solishni-rejalashtirmoqda-5f7d32",
+    "title": "Pelosi vorisi AI'ni tartibga solishni rejalashtirmoqda",
+    "summary": "Nensi Pelosining vorisi Skott Viner sun'iy intellektni tartibga solishga tayyor. Kaliforniya shtati senatori sifatida u ilg'or AI xavflarini cheklashga qaratilgan qonun hujjatlarini ishlab chiqqan.",
+    "tags": [
+      "siyosat",
+      "qonun"
+    ],
+    "importance": 3,
+    "score": 23,
+    "published": "2026-11-10T13:10:00.000Z",
+    "created": "2026-11-10T15:06:48.552Z",
+    "coverage": 1,
+    "source": {
+      "name": "MIT Technology Review",
+      "url": "https://technologyreview.com/2026/11/10/1148150/the-download-pelosi-successor-ai-regulation-data-center-backlash",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "00b72ea2f5b7",
+    "slug": "alterra-labs-tibbiy-ai-uchun-12-5-mln-sarmoya-oldi-00b72e",
+    "title": "Alterra Labs tibbiy AI uchun $12.5 mln sarmoya oldi",
+    "summary": "Alterra Labs tibbiy AI modellarini o'qitish muhitlarini yaratish uchun 12.5 million dollar sarmoya jalb qildi. Kompaniya asoschisi Akash Kapur AI'ga klinik qaror qabul qilishni o'rgatishni maqsad qilgan.",
+    "tags": [
+      "tibbiyot",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 22,
+    "published": "2026-11-10T13:00:00.000Z",
+    "created": "2026-11-10T15:06:48.552Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/11/10/alterra-labs-12-5-million-seed-round-training-environments-medical-ai",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "f650f08e36be",
+    "slug": "spotify-ai-djga-yangi-ovoz-va-funksiyalar-qoshdi-f650f0",
+    "title": "Spotify AI DJ'ga yangi ovoz va funksiyalar qo'shdi",
+    "summary": "Spotify Premium foydalanuvchilari endi AI DJ'ni yangi ovozlar va shaxslar bilan sozlashlari mumkin. Shuningdek, qo'shiqlar orasidagi sharhlarni kamaytirish imkoniyati ham qo'shildi.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 21,
+    "published": "2026-11-10T14:00:00.000Z",
+    "created": "2026-11-10T15:06:48.552Z",
+    "coverage": 2,
+    "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/10/spotifys-ai-dj-gets-new-voices-personalities-and-an-option-for-less-chatter",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "Engadget",
+        "url": "https://engadget.com/2311665/spotify-adds-new-voices-for-its-ai-dj"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "d29470dea3fe",
+    "slug": "nyu-york-pensiya-fondi-aiga-haddan-tashqari-sarmoyadan-xavot-d29470",
+    "title": "Nyu-York pensiya fondi AI'ga haddan tashqari sarmoyadan xavotirda",
+    "summary": "Nyu-York shahri nazoratchisi Mark Levin AI sohasidagi \"haddan tashqari konsentratsiya\"ni xavf deb hisoblaydi. Shaharning 325 milliard dollarlik pensiya fondi bu holatdan ehtiyot bo'lmoqda.",
+    "tags": [
+      "iqtisod",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-11-10T14:09:17.000Z",
+    "created": "2026-11-10T15:06:48.552Z",
+    "coverage": 1,
+    "source": {
+      "name": "Semafor",
+      "url": "https://semafor.com/article/11/10/2026/nycs-325b-pension-giant-cant-hide-from-ai-but-it-wants-to",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "506e3fe2297d",
+    "slug": "stenfordning-ai-tadqiqoti-allaqachon-eskirganini-tan-oldi-506e3f",
+    "title": "Stenfordning AI tadqiqoti allaqachon eskirganini tan oldi",
+    "summary": "Stenford universiteti tomonidan o'tkazilgan uzoq muddatli AI tadqiqoti allaqachon eskirganini tan oldi. Besh yillik sharh ish, fan va jamoat hayotidagi o'zgarishlarni ko'rsatadi.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-11-10T14:00:00.000Z",
+    "created": "2026-11-10T15:06:48.552Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/ai-and-ml/2026/11/10/stanfords-century-long-ai-study-admits-its-already-out-of-date/5308574",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "7b63c73a7aea",
+    "slug": "lumen-ai-aloqasiga-otishda-mis-tarmoqdan-1-5-mlrd-kutmoqda-7b63c7",
+    "title": "Lumen AI aloqasiga o'tishda mis tarmoqdan $1.5 mlrd kutmoqda",
+    "summary": "Lumen kompaniyasi AI aloqasiga o'tish jarayonida eski mis tarmoqlaridan 1.5 milliard dollargacha daromad olishni kutmoqda. Kompaniya kelgusi yil oxirigacha mis tarmog'ining chorak qismini yopishni rejalashtirgan.",
+    "tags": [
+      "biznes",
+      "iqtisod"
+    ],
+    "importance": 2,
+    "score": 19,
+    "published": "2026-11-10T13:17:40.000Z",
+    "created": "2026-11-10T15:06:48.552Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/11/10/lumen-cfo-expects-1-5-billion-legacy-copper-pivot-ai-connectivity",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "3e6400074850",
     "slug": "sakkiz-davlat-va-ai-lablar-parij-deklaratsiyasini-imzoladi-3e6400",
     "title": "Sakkiz davlat va AI lablar Parij deklaratsiyasini imzoladi",
