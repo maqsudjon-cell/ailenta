@@ -1,5 +1,91 @@
 [
   {
+    "id": "1254b83d645d",
+    "slug": "mistral-ai-mualliflik-huquqi-takliflariga-qarshi-chiqdi-1254b8",
+    "title": "Mistral AI mualliflik huquqi takliflariga qarshi chiqdi",
+    "summary": "Mistral kompaniyasi AI uchun yangi mualliflik huquqi takliflariga e'tiroz bildirdi. Bu ijodkorlar orasida norozilikka sabab bo'ldi.",
+    "tags": [
+      "Mistral",
+      "qonun"
+    ],
+    "importance": 3,
+    "score": 18,
+    "published": "2026-11-10T17:04:26.000Z",
+    "created": "2026-11-10T18:06:53.418Z",
+    "coverage": 1,
+    "source": {
+      "name": "Sifted",
+      "url": "https://sifted.eu/articles/mistral-copyright-law-proposal",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "a548f4bc427d",
+    "slug": "indie-oyinlar-hamjamiyati-ai-sabab-bolindi-a548f4",
+    "title": "Indie o'yinlar hamjamiyati AI sabab bo'lindi",
+    "summary": "Indie o'yinlar hamjamiyatida AI'dan foydalanish bo'yicha kelishmovchiliklar yuzaga keldi. Ba'zi hakamlar generativ AI ishlatilgan o'yinlarga ovoz bermasliklarini bildirdi.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-11-10T17:32:47.000Z",
+    "created": "2026-11-10T18:06:53.418Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Verge",
+      "url": "https://theverge.com/games/1030994/big-walk-independent-games-festival-igf-ai",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "20161c3b2e57",
+    "slug": "ai-agent-davlat-xaridlarida-mijoz-topishga-yordam-berdi-20161c",
+    "title": "AI agent davlat xaridlarida mijoz topishga yordam berdi",
+    "summary": "Bir mutaxassis AI agentidan davlat xaridlarida mijozlarni topish uchun foydalandi. Agent texnik vazifalarni tahlil qilib, potentsial mijozlarni aniqlashga yordam berdi.",
+    "tags": [
+      "agentlar",
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 11,
+    "published": "2026-11-10T17:58:10.000Z",
+    "created": "2026-11-10T18:06:53.418Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1106272",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "eca74c3feb60",
+    "slug": "ai-nutq-sintezida-hissiy-diapazonni-yaratish-qiyin-eca74c",
+    "title": "AI nutq sintezida hissiy diapazonni yaratish qiyin",
+    "summary": "Mahalliy TTS modellarida hissiy diapazonni (shivir-shivir, pauzalar, emotsional o'zgarishlar) yaratish qiyin. Kichik modellar bunday o'zgarishlarni silliqlab, o'rtacha intonatsiyani ushlab turadi.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 11,
+    "published": "2026-11-10T17:07:56.000Z",
+    "created": "2026-11-10T18:06:53.418Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1106246",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "da6f6d58caba",
     "slug": "nvidia-asoschisi-xuang-munosabatlari-tekshirilmoqda-da6f6d",
     "title": "Nvidia asoschisi Xuang munosabatlari tekshirilmoqda",
