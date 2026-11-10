@@ -1,5 +1,133 @@
 [
   {
+    "id": "f9d2cc10f00e",
+    "slug": "ozbekistonda-smartfonlar-ekspertizaga-yuborilmoqda-f9d2cc",
+    "title": "O'zbekistonda smartfonlar ekspertizaga yuborilmoqda",
+    "summary": "6-noyabrdan boshlab O'zbekistonga mobil qurilmalarni olib kirish ustidan nazorat kuchaytirildi. Ayrim smartfonlar 30 kungacha ekspertizaga yuborilmoqda. Foydalanuvchilarning aytishicha, qurilmalarni bir kunda rasmiylashtirish uchun 400 dollardan 1 100 dollargacha mablag' so'ralmoqda.",
+    "tags": [
+      "O'zbekiston"
+    ],
+    "importance": 3,
+    "score": 45,
+    "published": "2026-11-10T07:37:37.000Z",
+    "created": "2026-11-10T07:49:21.080Z",
+    "coverage": 1,
+    "source": {
+      "name": "Daryo",
+      "url": "https://daryo.uz/2026/11/10/ozbekistonda-chetdan-olib-kirilgan-ayrim-iphone-smartfonlari-30-kungacha-ekspertizaga-yuborilayotgani-aytilmoqda",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "458bb1a34baf",
+    "slug": "coreweave-obligatsiyalari-daromadliligi-16-foizdan-oshdi-458bb1",
+    "title": "CoreWeave obligatsiyalari daromadliligi 16 foizdan oshdi",
+    "summary": "Sun'iy intellekt sohasida kredit xatarlari ortishi fonida CoreWeave kompaniyasining obligatsiyalari daromadliligi 16 foizdan oshib ketdi. Bu sohada moliyaviy bosim kuchayib borayotganidan dalolat beradi.",
+    "tags": [
+      "iqtisod",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 19.6,
+    "published": "2026-11-10T03:20:06.000Z",
+    "created": "2026-11-10T07:49:21.080Z",
+    "coverage": 1,
+    "source": {
+      "name": "Hacker News",
+      "url": "https://cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "6bf387dff5bd",
+    "slug": "aqshda-aiga-qarshi-populizm-rivojlanmoqda-6bf387",
+    "title": "AQShda AIga qarshi populizm rivojlanmoqda",
+    "summary": "Demokratlar partiyasining oraliq saylovlardagi g'alabasi texnologiya sohasiga nisbatan jamiyatda norozilik ortayotganini ko'rsatmoqda. AQSh siyosatida sun'iy intellektga qarshi populizm muhim o'rin egallashi kutilmoqda.",
+    "tags": [
+      "siyosat"
+    ],
+    "importance": 2,
+    "score": 19.5,
+    "published": "2026-11-09T11:00:08.000Z",
+    "created": "2026-11-10T07:49:21.080Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/commentisfree/2026/nov/07/anti-ai-populism-is-the-future-of-american-politics",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "f60cbf1284a6",
+    "slug": "mit-olimlari-xavfsiz-gerbitsidlar-yaratishga-grant-oldi-f60cbf",
+    "title": "MIT olimlari xavfsiz gerbitsidlar yaratishga grant oldi",
+    "summary": "ARPA-H tashkiloti MIT boshchiligidagi jamoaga 53 million dollargacha grant ajratdi. Tadqiqotchilar sun'iy intellekt yordamida o'simliklarni himoya qiluvchi xavfsizroq vositalarni ishlab chiqadi.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-11-10T05:00:00.000Z",
+    "created": "2026-11-10T07:49:21.080Z",
+    "coverage": 1,
+    "source": {
+      "name": "MIT News",
+      "url": "https://news.mit.edu/2026/mit-led-team-receives-funding-next-generation-alternatives-modern-weed-killers-1110",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "43cc39916176",
+    "slug": "ai-chiplari-kontrabandasiga-qarshi-tizim-muhokama-qilindi-43cc39",
+    "title": "AI chiplari kontrabandasiga qarshi tizim muhokama qilindi",
+    "summary": "Mutaxassislar AI chiplari kontrabandasini to'xtatish uchun maxsus kuzatuv tizimlaridan foydalanish samaradorligini muhokama qilmoqda. Ushbu texnologiya chiplarning noqonuniy savdosiga chek qo'yishi kutilmoqda.",
+    "tags": [
+      "chiplar",
+      "xavfsizlik"
+    ],
+    "importance": 2,
+    "score": 16.3,
+    "published": "2026-11-09T13:04:24.000Z",
+    "created": "2026-11-10T07:49:21.080Z",
+    "coverage": 1,
+    "source": {
+      "name": "IEEE Spectrum",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBJTGRjX2U3QjVZRHpoMmo4cFZqaFFxam5nZ0FrR1BJLV83U0Faa0l4dkZuZGVVSzZscmtMZWJnWGRLWWh3YXd3TGVPYnk5M0l3M2FN",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "0cb7ad579ad8",
+    "slug": "otter-ai-30-dan-ortiq-tilni-qollab-quvvatlaydi-0cb7ad",
+    "title": "Otter AI 30 dan ortiq tilni qo'llab-quvvatlaydi",
+    "summary": "Otter AI servisi o'z tizimiga 27 ta yangi tilni qo'shdi. Shuningdek, xizmat muloqot davomida so'zlashuvchilar bir tildan boshqasiga o'tganda ham suhbatni kuzatib borish imkoniyatini taqdim etadi.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-11-10T07:00:00.000Z",
+    "created": "2026-11-10T07:49:21.080Z",
+    "coverage": 1,
+    "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "6fc030d329ca",
     "slug": "land-of-startups-tanlovida-25-golib-aniqlanadi-6fc030",
     "title": "Land of Startups tanlovida 25 g'olib aniqlanadi",
