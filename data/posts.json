@@ -1,5 +1,69 @@
 [
   {
+    "id": "3e6400074850",
+    "slug": "sakkiz-davlat-va-ai-lablar-parij-deklaratsiyasini-imzoladi-3e6400",
+    "title": "Sakkiz davlat va AI lablar Parij deklaratsiyasini imzoladi",
+    "summary": "Sakkiz davlat va OpenAI, Anthropic, Microsoft, Mistral AI kabi kompaniyalar \"AI xavfsizligi va himoyasi bo‘yicha Parij chaqirig‘i\"ni imzoladi. Kelishuvda AI modellarini to‘xtatish mexanizmlari, mustaqil auditlar va xavflarni oshkor etish nazarda tutilgan. Biroq, unda majburiy sanksiyalar yoki muddatlar yo‘q.",
+    "tags": [
+      "xavfsizlik"
+    ],
+    "importance": 4,
+    "score": 24,
+    "published": "2026-11-10T13:37:16.000Z",
+    "created": "2026-11-10T13:40:44.618Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/eight-countries-and-top-ai-labs-agree-to-shutdown-mechanisms-in-new-paris-declaration",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "12db1bd0d8b6",
+    "slug": "cheklovsiz-ai-chatbotlar-internetni-toldirmoqda-12db1b",
+    "title": "Cheklovsiz AI chatbotlar internetni to'ldirmoqda",
+    "summary": "\"Abliterators\" deb nomlangan guruh internetga cheklovsiz AI modellarini tarqatmoqda. Bu modellar kiberhimoyani yaxshilash yoki xavfli maqsadlarda ishlatilishi mumkin.",
+    "tags": [
+      "xavfsizlik",
+      "ochiq model"
+    ],
+    "importance": 3,
+    "score": 23,
+    "published": "2026-11-10T11:00:00.000Z",
+    "created": "2026-11-10T13:40:44.618Z",
+    "coverage": 1,
+    "source": {
+      "name": "Wired",
+      "url": "https://wired.com/story/tear-down-those-guardrails-meet-the-renegades-freeing-chatbots-from-corporate-enslavers",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "534e23320d33",
+    "slug": "aidan-foydalanish-kod-bazasini-zaiflashtiradi-534e23",
+    "title": "AI'dan foydalanish kod bazasini zaiflashtiradi",
+    "summary": "Hacker News xabariga ko'ra, sun'iy intellektdan foydalanish kod bazasining zaiflashishiga olib keladi.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 19.5,
+    "published": "2026-11-10T10:25:58.000Z",
+    "created": "2026-11-10T13:40:44.618Z",
+    "coverage": 1,
+    "source": {
+      "name": "Hacker News",
+      "url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "82835b132b21",
     "slug": "gollivud-illyustratorlari-ai-sababli-xavf-ostida-82835b",
     "title": "Gollivud illyustratorlari AI sababli xavf ostida",

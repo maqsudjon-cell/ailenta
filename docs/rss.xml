@@ -5,8 +5,18 @@
   <link>https://ailenta.uz</link>
   <description>Dunyodagi sun'iy intellekt yangiliklari o'zbek tilida. Har soatda yangilanadi, har bir xabarda asl manbaga havola.</description>
   <language>uz</language>
-  <lastBuildDate>Tue, 10 Nov 2026 13:13:14 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 10 Nov 2026 13:47:32 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Sakkiz davlat va AI lablar Parij deklaratsiyasini imzoladi</title>
+    <link>https://ailenta.uz/x/sakkiz-davlat-va-ai-lablar-parij-deklaratsiyasini-imzoladi-3e6400/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/sakkiz-davlat-va-ai-lablar-parij-deklaratsiyasini-imzoladi-3e6400/</guid>
+    <pubDate>Tue, 10 Nov 2026 13:37:16 GMT</pubDate>
+    <description>Sakkiz davlat va OpenAI, Anthropic, Microsoft, Mistral AI kabi kompaniyalar &quot;AI xavfsizligi va himoyasi bo‘yicha Parij chaqirig‘i&quot;ni imzoladi. Kelishuvda AI modellarini to‘xtatish mexanizmlari, mustaqil auditlar va xavflarni oshkor etish nazarda tutilgan. Biroq, unda majburiy sanksiyalar yoki muddatlar yo‘q.</description>
+    <category>xavfsizlik</category>
+    <media:content url="https://ailenta.uz/og/sakkiz-davlat-va-ai-lablar-parij-deklaratsiyasini-imzoladi-3e6400.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/sakkiz-davlat-va-ai-lablar-parij-deklaratsiyasini-imzoladi-3e6400.jpg"/>
+  </item>
   <item>
     <title>Gollivud illyustratorlari AI sababli xavf ostida</title>
     <link>https://ailenta.uz/x/gollivud-illyustratorlari-ai-sababli-xavf-ostida-82835b/</link>
@@ -46,6 +56,26 @@
     <category>biznes</category><category>iqtisod</category>
     <media:content url="https://ailenta.uz/og/venture-global-ai-markazlariga-gaz-energiyasini-taklif-etdi-195e3a.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/venture-global-ai-markazlariga-gaz-energiyasini-taklif-etdi-195e3a.jpg"/>
+  </item>
+  <item>
+    <title>Cheklovsiz AI chatbotlar internetni to'ldirmoqda</title>
+    <link>https://ailenta.uz/x/cheklovsiz-ai-chatbotlar-internetni-toldirmoqda-12db1b/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/cheklovsiz-ai-chatbotlar-internetni-toldirmoqda-12db1b/</guid>
+    <pubDate>Tue, 10 Nov 2026 11:00:00 GMT</pubDate>
+    <description>&quot;Abliterators&quot; deb nomlangan guruh internetga cheklovsiz AI modellarini tarqatmoqda. Bu modellar kiberhimoyani yaxshilash yoki xavfli maqsadlarda ishlatilishi mumkin.</description>
+    <category>xavfsizlik</category><category>ochiq model</category>
+    <media:content url="https://ailenta.uz/og/cheklovsiz-ai-chatbotlar-internetni-toldirmoqda-12db1b.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/cheklovsiz-ai-chatbotlar-internetni-toldirmoqda-12db1b.jpg"/>
+  </item>
+  <item>
+    <title>AI'dan foydalanish kod bazasini zaiflashtiradi</title>
+    <link>https://ailenta.uz/x/aidan-foydalanish-kod-bazasini-zaiflashtiradi-534e23/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/aidan-foydalanish-kod-bazasini-zaiflashtiradi-534e23/</guid>
+    <pubDate>Tue, 10 Nov 2026 10:25:58 GMT</pubDate>
+    <description>Hacker News xabariga ko'ra, sun'iy intellektdan foydalanish kod bazasining zaiflashishiga olib keladi.</description>
+    <category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/aidan-foydalanish-kod-bazasini-zaiflashtiradi-534e23.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/aidan-foydalanish-kod-bazasini-zaiflashtiradi-534e23.jpg"/>
   </item>
   <item>
     <title>AI chatbotlar miyaga ta'sirini qanday kamaytirish mumkin</title>
@@ -476,36 +506,6 @@
     <category>O'zbekiston</category><category>robototexnika</category>
     <media:content url="https://ailenta.uz/og/defex-robotics-y-combinator-akseleratoriga-qabul-qilindi-f79fc0.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/defex-robotics-y-combinator-akseleratoriga-qabul-qilindi-f79fc0.jpg"/>
-  </item>
-  <item>
-    <title>Meta Instagramda o'smirlar himoyasini kuchaytirmoqda</title>
-    <link>https://ailenta.uz/x/meta-instagramda-osmirlar-himoyasini-kuchaytirmoqda-81bf65/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/meta-instagramda-osmirlar-himoyasini-kuchaytirmoqda-81bf65/</guid>
-    <pubDate>Mon, 09 Nov 2026 12:00:45 GMT</pubDate>
-    <description>Meta o'zining AI yoshni aniqlash texnologiyasini global miqyosda kengaytirmoqda. Bu orqali millionlab o'smirlar Instagramda himoya ostiga olinadi.</description>
-    <category>Meta</category><category>xavfsizlik</category>
-    <media:content url="https://ailenta.uz/og/meta-instagramda-osmirlar-himoyasini-kuchaytirmoqda-81bf65.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/meta-instagramda-osmirlar-himoyasini-kuchaytirmoqda-81bf65.jpg"/>
-  </item>
-  <item>
-    <title>Vinod Khosla AI statik veb-saytlarni yo'qotishiga ishonmoqda</title>
-    <link>https://ailenta.uz/x/vinod-khosla-ai-statik-veb-saytlarni-yoqotishiga-ishonmoqda-c232b9/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/vinod-khosla-ai-statik-veb-saytlarni-yoqotishiga-ishonmoqda-c232b9/</guid>
-    <pubDate>Mon, 09 Nov 2026 12:00:01 GMT</pubDate>
-    <description>Milliarder venchur kapitalist Vinod Khosla Coframe startapiga sarmoya kiritmoqda. Ushbu kompaniya veb-saytlarni &quot;jonli internet&quot;ga aylantirishni maqsad qilgan.</description>
-    <category>biznes</category>
-    <media:content url="https://ailenta.uz/og/vinod-khosla-ai-statik-veb-saytlarni-yoqotishiga-ishonmoqda-c232b9.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/vinod-khosla-ai-statik-veb-saytlarni-yoqotishiga-ishonmoqda-c232b9.jpg"/>
-  </item>
-  <item>
-    <title>O'zbekiston FVV akademiyasi Zagreb bilan hamkorlikni kengaytiradi</title>
-    <link>https://ailenta.uz/x/ozbekiston-fvv-akademiyasi-zagreb-bilan-hamkorlikni-kengayti-194a8a/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/ozbekiston-fvv-akademiyasi-zagreb-bilan-hamkorlikni-kengayti-194a8a/</guid>
-    <pubDate>Mon, 09 Nov 2026 12:00:00 GMT</pubDate>
-    <description>O'zbekiston FVV akademiyasi va Zagreb universiteti mutaxassislar tayyorlash, sun'iy intellekt, raqamli texnologiyalar hamda ilmiy tadqiqotlar bo'yicha hamkorlik qiladi.</description>
-    <category>O'zbekiston</category><category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/ozbekiston-fvv-akademiyasi-zagreb-bilan-hamkorlikni-kengayti-194a8a.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/ozbekiston-fvv-akademiyasi-zagreb-bilan-hamkorlikni-kengayti-194a8a.jpg"/>
   </item>
 </channel>
 </rss>
