@@ -1,5 +1,114 @@
 [
   {
+    "id": "f37b680abcf7",
+    "slug": "openai-xavfsizlik-uchun-control-room-tizimini-ishga-tushirdi-f37b68",
+    "title": "OpenAI xavfsizlik uchun Control Room tizimini ishga tushirdi",
+    "summary": "OpenAI tadqiqot infratuzilmasidagi model ish yuklarini kuzatish va xavfsizlik muammolari yuzaga kelganda ularni tezda to'xtatish uchun \"Control Room\" tizimini yaratdi. Bu tizim xavfsizlikni ta'minlashga qaratilgan.",
+    "tags": [
+      "OpenAI",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 33,
+    "published": "2026-11-09T13:00:00.000Z",
+    "created": "2026-11-10T00:40:16.934Z",
+    "coverage": 1,
+    "source": {
+      "name": "OpenAI",
+      "url": "https://openai.com/index/control-room",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "51e8be1176c6",
+    "slug": "demokratlar-trampning-ai-siyosati-boyicha-javob-talab-qilmoq-51e8be",
+    "title": "Demokratlar Trampning AI siyosati bo'yicha javob talab qilmoqda",
+    "summary": "Demokratlar Donald Trampning sun'iy intellekt siyosati bo'yicha javob talab qilmoqda. Bu talab josuslik mojarosi fonida yuzaga kelgan.",
+    "tags": [
+      "siyosat",
+      "xavfsizlik"
+    ],
+    "importance": 4,
+    "score": 27,
+    "published": "2026-11-09T23:48:34.000Z",
+    "created": "2026-11-10T00:40:16.934Z",
+    "coverage": 1,
+    "source": {
+      "name": "The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdVdORGUzSXZqX3lyWG91Z051MmJsbExiTHotVnAyMnV3b0FNeDBuWlgtMDdINW50Y1I2WGlIS3hHX3pfSzU1eEtKR1pfejlEdGQ4QUFqM28yeEt5bWNpSlZpQTlha3NqZ0NxY0xFNTNtdDJKU2gzbnRkQTl6S1BZbEZaVQ",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "edc250081f21",
+    "slug": "jensen-huang-mojarosi-aqsh-ai-bozoriga-foyda-keltirishi-mumk-edc250",
+    "title": "Jensen Huang mojarosi AQSh AI bozoriga foyda keltirishi mumkin",
+    "summary": "Nvidia bosh direktori Jensen Huang bilan bog'liq mojaro Xitoyga GPU yetkazib berishni to'xtatishi mumkin. Bu esa AQShning sun'iy intellekt bozoriga ko'proq ta'minot qoldirib, uning rivojlanishiga yordam beradi.",
+    "tags": [
+      "Nvidia",
+      "iqtisod"
+    ],
+    "importance": 2,
+    "score": 21,
+    "published": "2026-11-09T21:23:04.000Z",
+    "created": "2026-11-10T00:40:16.934Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/nvidia-jensen-huang-scandal-free-up-ai-chips-for-us-2026-11",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "586d37dc5945",
+    "slug": "ste80-humanizer-ai-matnini-insoniylashtirish-vositasi-586d37",
+    "title": "STE80 Humanizer: AI matnini insoniylashtirish vositasi",
+    "summary": "\"STE80 Humanizer\" deb nomlangan vosita sun'iy intellekt tomonidan yaratilgan matnlarni inson tiliga yaqinlashtirishni maqsad qilgan. U ASD-STE100 standartiga o'xshash tamoyillarga asoslanadi.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 1,
+    "score": 17,
+    "published": "2026-11-09T18:05:44.000Z",
+    "created": "2026-11-10T00:40:16.934Z",
+    "coverage": 1,
+    "source": {
+      "name": "Hacker News",
+      "url": "https://github.com/Dodaios/ste80-humanizer",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "22878e0f6736",
+    "slug": "david-ellison-ai-kinoga-cgidan-koproq-tasir-qiladi-22878e",
+    "title": "David Ellison: AI kinoga CGI'dan ko'proq ta'sir qiladi",
+    "summary": "Paramount Skydance bosh direktori David Ellisonning fikricha, sun'iy intellekt kino sanoatiga CGI'dan ham kattaroq ta'sir ko'rsatishi mumkin. U AI'ni \"zamonaviy tarixning eng katta ijodiy imkoniyati\" deb atadi.",
+    "tags": [
+      "biznes",
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-11-10T00:28:49.000Z",
+    "created": "2026-11-10T00:40:16.934Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Verge",
+      "url": "https://theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "6bb4fd993972",
     "slug": "nvidia-rahbari-huangning-ishqiy-munosabatlari-aqsh-xavfsizli-6bb4fd",
     "title": "Nvidia rahbari Huangning ishqiy munosabatlari AQSh xavfsizligiga tahdid",
