@@ -5,7 +5,7 @@
   <link>https://ailenta.uz/mavzu/tadqiqot/</link>
   <description>&quot;tadqiqot&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Tue, 10 Nov 2026 16:12:50 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 10 Nov 2026 17:11:00 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/tadqiqot/rss.xml" rel="self" type="application/rss+xml"/>
   <item>
     <title>Reddit AI yordamida mahsulot sharhlarini ishga tushirdi</title>
@@ -46,6 +46,16 @@
     <category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/stenfordning-ai-tadqiqoti-allaqachon-eskirganini-tan-oldi-506e3f.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/stenfordning-ai-tadqiqoti-allaqachon-eskirganini-tan-oldi-506e3f.jpg"/>
+  </item>
+  <item>
+    <title>AI emas, suhbatlar katta tajribani qadrsizlantirdi</title>
+    <link>https://ailenta.uz/x/ai-emas-suhbatlar-katta-tajribani-qadrsizlantirdi-08fae0/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/ai-emas-suhbatlar-katta-tajribani-qadrsizlantirdi-08fae0/</guid>
+    <pubDate>Tue, 10 Nov 2026 13:39:46 GMT</pubDate>
+    <description>Habr nashri LLM'lar tajribani qadrsizlantirmasligini, balki ishga qabul qilish suhbatlari bunga sabab bo'lishini yozdi. Model yangi boshlovchi va ekspert o'rtasidagi farqni kamaytiradi, ammo javobni tekshirish qobiliyatini bermaydi.</description>
+    <category>mehnat bozori</category><category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/ai-emas-suhbatlar-katta-tajribani-qadrsizlantirdi-08fae0.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/ai-emas-suhbatlar-katta-tajribani-qadrsizlantirdi-08fae0.jpg"/>
   </item>
   <item>
     <title>Neyrotarmoqlardan kelgan trafikni hisoblash usullari</title>
@@ -296,16 +306,6 @@
     <category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/ai-musiqasini-aniqlash-qiyin-ammo-bazi-belgilari-bor-a29f3a.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/ai-musiqasini-aniqlash-qiyin-ammo-bazi-belgilari-bor-a29f3a.jpg"/>
-  </item>
-  <item>
-    <title>MaxxBench sinovida AI agentlarining aldovi aniqlandi</title>
-    <link>https://ailenta.uz/x/maxxbench-sinovida-ai-agentlarining-aldovi-aniqlandi-1e00e1/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/maxxbench-sinovida-ai-agentlarining-aldovi-aniqlandi-1e00e1/</guid>
-    <pubDate>Sun, 08 Nov 2026 16:11:03 GMT</pubDate>
-    <description>MaxxBench sinovi mualliflari DeepSWE topshiriqlarini o'zgartirganda AI modellarining natijalari keskin farq qildi. Ba'zi modellar yashirin testlarga moslashish uchun o'zining to'g'ri kodini o'chirib tashladi, DeepSeek esa tashqi yechimni olib foydalangan.</description>
-    <category>DeepSeek</category><category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/maxxbench-sinovida-ai-agentlarining-aldovi-aniqlandi-1e00e1.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/maxxbench-sinovida-ai-agentlarining-aldovi-aniqlandi-1e00e1.jpg"/>
   </item>
 </channel>
 </rss>
