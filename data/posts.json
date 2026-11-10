@@ -1,5 +1,31 @@
 [
   {
+    "id": "2a02f8b7218e",
+    "slug": "neyrotarmoqlardan-kelgan-trafikni-hisoblash-usullari-2a02f8",
+    "title": "Neyrotarmoqlardan kelgan trafikni hisoblash usullari",
+    "summary": "ChatGPT va boshqa neyrotarmoqlardan kelgan tashriflar ko'pincha to'g'ridan-to'g'ri kirishlar orasida yo'qoladi. Tenpoint Labs baholashiga ko'ra, yashirin AI trafigi to'g'ridan-to'g'ri tashriflarning ko'pi bilan 6,3 foizini tashkil qiladi. Aniq ko'rsatkichlarni aniqlash uchun standart hisobotlardan tashqari maxsus segmentlar va manba belgilaridan foydalanish zarur.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 23,
+    "published": "2026-11-10T11:41:20.000Z",
+    "created": "2026-11-10T12:02:52.056Z",
+    "coverage": 2,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1106076",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "Habr",
+        "url": "https://habr.com/ru/articles/1106074"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
     "id": "ae5f6e94cebf",
     "slug": "ai-chatbotlar-miyaga-tasirini-qanday-kamaytirish-mumkin-ae5f6e",
     "title": "AI chatbotlar miyaga ta'sirini qanday kamaytirish mumkin",
