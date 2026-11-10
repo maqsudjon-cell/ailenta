@@ -1,5 +1,49 @@
 [
   {
+    "id": "7f999d401d7a",
+    "slug": "eronlik-xakerlar-muzlatgichlarga-hujum-qildi-7f999d",
+    "title": "Eronlik xakerlar muzlatgichlarga hujum qildi",
+    "summary": "Eronlik xakerlar Fransiyadagi muzlatgichlarga nisbatan unchalik murakkab bo'lmagan hujumlar uyushtirdi. 2023-yilda ular BAAda deepfake reportaj, Isroil firmasi uskunalarida esa \"Isroilga o'lim\" shiorini namoyish etgan.",
+    "tags": [
+      "xavfsizlik",
+      "siyosat"
+    ],
+    "importance": 3,
+    "score": 22.5,
+    "published": "2026-11-09T19:40:45.000Z",
+    "created": "2026-11-10T09:02:35.714Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/technology/2026/nov/09/cyber-attack-french-supermarket-freezers-iran-europe",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "a88648dc2f44",
+    "slug": "toutiao-sobiq-rahbari-ai-talim-loyihasini-tasdiqladi-a88648",
+    "title": "Toutiao sobiq rahbari AI ta'lim loyihasini tasdiqladi",
+    "summary": "ByteDance'ning Toutiao ilovasi sobiq bosh direktori Chen Lin AI ta'limi sohasidagi loyihasini tasdiqladi. Uning 2024-yil oxirida ro'yxatdan o'tgan kompaniyasi maktablar uchun Xiaolu Aixue AI platformasini boshqaradi.",
+    "tags": [
+      "ta'lim",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-11-10T07:53:43.000Z",
+    "created": "2026-11-10T09:02:35.714Z",
+    "coverage": 1,
+    "source": {
+      "name": "TechNode",
+      "url": "https://technode.com/2026/11/10/former-toutiao-ceo-chen-lin-confirms-ai-education-venture",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "f9d2cc10f00e",
     "slug": "ozbekistonda-smartfonlar-nazorati-kuchaytirildi-f9d2cc",
     "title": "O'zbekistonda smartfonlar nazorati kuchaytirildi",
