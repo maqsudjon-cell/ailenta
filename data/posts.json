@@ -1,5 +1,71 @@
 [
   {
+    "id": "12a9550d1f6a",
+    "slug": "yolgon-signal-jane-street-malumotlar-markazini-suv-bosishiga-12a955",
+    "title": "Yolg'on signal Jane Street ma'lumotlar markazini suv bosishiga oz qoldi",
+    "summary": "Nyu-Yorkdagi Jane Street kompaniyasining yagona ma'lumotlar markazida yolg'on tutun signali deyarli suv toshqiniga sabab bo'ldi. Bu hodisa jiddiy oqibatlarga olib kelishi mumkin edi.",
+    "tags": [
+      "xavfsizlik",
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 23,
+    "published": "2026-11-11T16:38:44.000Z",
+    "created": "2026-11-11T21:14:43.169Z",
+    "coverage": 1,
+    "source": {
+      "name": "Hacker News",
+      "url": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "90fbcad0e292",
+    "slug": "ai-sanoati-uchun-ogir-hafta-90fbca",
+    "title": "AI sanoati uchun og'ir hafta",
+    "summary": "Axios nashri AI sanoati uchun og'ir hafta bo'lganini xabar qildi. Tafsilotlar berilmagan.",
+    "tags": [
+      "iqtisod",
+      "biznes"
+    ],
+    "importance": 1,
+    "score": 23,
+    "published": "2026-11-11T16:30:56.000Z",
+    "created": "2026-11-11T21:14:43.169Z",
+    "coverage": 1,
+    "source": {
+      "name": "Axios",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5STzlCTEFvX01KVHZJZGRLM2NnQzVyTV9CQjNYT3dqWDBUZmlRdVpNVUIxNWp5TVRZV1lrcjctR0NqZjRTQ2xsWGktN3dVQU1MazM1UTF2SGMxNUlxMDVDNmZJOTVuQkxXNWh3Vi01ekt2RzA",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "850c0644106f",
+    "slug": "coreweave-ai-osishini-moliyalashtirish-usullarini-ozgartirdi-850c06",
+    "title": "CoreWeave AI o'sishini moliyalashtirish usullarini o'zgartirdi",
+    "summary": "CoreWeave AI o'sishini moliyalashtirish uchun mijozlardan oldindan to'lovlar va qisqa muddatli shartnomalarni so'ramoqda. Bu kompaniyaning uchinchi chorakdagi hisobotida qayd etildi.",
+    "tags": [
+      "CoreWeave",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-11-11T19:54:00.000Z",
+    "created": "2026-11-11T21:14:43.169Z",
+    "coverage": 1,
+    "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "8c999d6885d2",
     "slug": "jiostar-ai-tizimlarini-500-million-foydalanuvchiga-mosladi-8c999d",
     "title": "JioStar AI tizimlarini 500 million foydalanuvchiga mosladi",
