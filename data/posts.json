@@ -1,5 +1,49 @@
 [
   {
+    "id": "9b37705e7e7a",
+    "slug": "avstraliya-xavfli-ai-sotishni-taqiqlashi-mumkin-9b3770",
+    "title": "Avstraliya xavfli AI sotishni taqiqlashi mumkin",
+    "summary": "Avstraliyada xavfli sun'iy intellektni ataylab sotish jinoiy javobgarlikka sabab bo'lishi mumkin. Yangi tartibga soluvchi organ model yaratuvchilardan mahsulotni sinovdan o'tkazishni va tekshiruvlarga ruxsat berishni talab qiladi.",
+    "tags": [
+      "qonun",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-11-11T02:14:13.000Z",
+    "created": "2026-11-11T06:03:01.758Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/public-sector/2026/11/11/australia-may-make-knowingly-selling-unsafe-ai-a-crime/5308999",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "1fbf3ed8711e",
+    "slug": "uzoq-kontekst-uchun-adindex-usuli-taklif-etildi-1fbf3e",
+    "title": "Uzoq kontekst uchun ADIndex usuli taklif etildi",
+    "summary": "Tadqiqotchilar uzoq kontekstda xulosa chiqarish tezligini oshirish maqsadida ADIndex usulini taqdim etdi. Bu yechim DeepSeek siyrak e'tibor tizimidagi indekslash kechikishlarini kamaytirish uchun ishlab chiqilgan.",
+    "tags": [
+      "DeepSeek",
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 13,
+    "published": "2026-11-11T05:00:00.000Z",
+    "created": "2026-11-11T06:03:01.759Z",
+    "coverage": 1,
+    "source": {
+      "name": "arXiv cs.LG",
+      "url": "https://arxiv.org/abs/2611.12956",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "a3f9078912ac",
     "slug": "vision-ai-chiqindilarni-saralashga-yordam-bermoqda-a3f907",
     "title": "Vision AI chiqindilarni saralashga yordam bermoqda",
