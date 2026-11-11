@@ -1,5 +1,91 @@
 [
   {
+    "id": "accc2da7c61d",
+    "slug": "navoiyda-yoshlar-biznes-inkubatori-ish-boshladi-accc2d",
+    "title": "Navoiyda Yoshlar biznes-inkubatori ish boshladi",
+    "summary": "AloqaBank Navoiy viloyatida yoshlar bandligini ta’minlash va tadbirkorlikni qo‘llab-quvvatlash uchun Yoshlar biznes-inkubatori faoliyatini yo‘lga qo‘ydi. Yangi markaz yoshlarning kasbiy salohiyatini oshirishga xizmat qiladi.",
+    "tags": [
+      "O'zbekiston",
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 45,
+    "published": "2026-11-11T07:00:01.000Z",
+    "created": "2026-11-11T09:01:56.844Z",
+    "coverage": 1,
+    "source": {
+      "name": "Daryo",
+      "url": "https://daryo.uz/2026/11/11/navoiyda-aloqabankning-yoshlar-biznes-inkubatori-faoliyati-yolga-qoyildi",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "7b4d4336cd68",
+    "slug": "jst-ishchi-guruhi-raisi-toshkentga-keldi-7b4d43",
+    "title": "JST ishchi guruhi raisi Toshkentga keldi",
+    "summary": "JST ishchi guruhi raisi Sung Yo Choy Toshkentda O‘zbekistonning tashkilotga a’zo bo‘lish jarayonini muhokama qildi. Muloqotda qonunchilik islohotlari va muzokaralar atroflicha ko‘rib chiqildi.",
+    "tags": [
+      "O'zbekiston",
+      "siyosat"
+    ],
+    "importance": 2,
+    "score": 44,
+    "published": "2026-11-11T08:40:00.000Z",
+    "created": "2026-11-11T09:01:56.845Z",
+    "coverage": 1,
+    "source": {
+      "name": "UzDaily",
+      "url": "https://uzdaily.uz/uz/jstga-azo-b%C3%B6li%C5%9F-b%C3%B6yi%C3%A7a-i%C5%9F%C3%A7i-guruh-rahbari-to%C5%9Fkentga-ta%C5%9Frif-buyurdi",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "de2d9610178a",
+    "slug": "huawei-osta-nomli-yangi-brendni-tasdiqladi-de2d96",
+    "title": "Huawei OSTA nomli yangi brendni tasdiqladi",
+    "summary": "Huawei kompaniyasi rahbari Richard Yu 20-noyabr kuni OSTA nomli yangi smartfon brendi taqdim etilishini ma'lum qildi. Ushbu brend ostida OSTA O1 Pro modeli chiqarilishi rejalashtirilgan.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-11-11T06:55:11.000Z",
+    "created": "2026-11-11T09:01:56.845Z",
+    "coverage": 1,
+    "source": {
+      "name": "TechNode",
+      "url": "https://technode.com/2026/11/11/huawei-confirms-new-osta-smartphone-brand-ahead-of-november-20-debut",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "b353a5fa6121",
+    "slug": "til-modellarida-toqib-chiqarish-kamaytirildi-b353a5",
+    "title": "Til modellarida to'qib chiqarish kamaytirildi",
+    "summary": "Tadqiqotchilar multimodal diffuzion til modellarida to‘qib chiqarish holatlarini kamaytirish usulini taklif etdi. Izlanishda entropiya tebranishlari to‘qib chiqarish bilan bog‘liqligi aniqlandi.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 7,
+    "published": "2026-11-11T05:00:00.000Z",
+    "created": "2026-11-11T09:01:56.845Z",
+    "coverage": 1,
+    "source": {
+      "name": "arXiv cs.CL",
+      "url": "https://arxiv.org/abs/2611.12901",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "288293ddb70b",
     "slug": "angliyada-ai-sabab-ananaviy-imtihonlarga-qaytilishi-mumkin-288293",
     "title": "Angliyada AI sabab an'anaviy imtihonlarga qaytilishi mumkin",

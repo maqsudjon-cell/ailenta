@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/tadqiqot/</link>
   <description>&quot;tadqiqot&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Wed, 11 Nov 2026 08:33:50 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 11 Nov 2026 09:13:02 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/tadqiqot/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Til modellarida to'qib chiqarish kamaytirildi</title>
+    <link>https://ailenta.uz/x/til-modellarida-toqib-chiqarish-kamaytirildi-b353a5/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/til-modellarida-toqib-chiqarish-kamaytirildi-b353a5/</guid>
+    <pubDate>Wed, 11 Nov 2026 05:00:00 GMT</pubDate>
+    <description>Tadqiqotchilar multimodal diffuzion til modellarida to‘qib chiqarish holatlarini kamaytirish usulini taklif etdi. Izlanishda entropiya tebranishlari to‘qib chiqarish bilan bog‘liqligi aniqlandi.</description>
+    <category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/til-modellarida-toqib-chiqarish-kamaytirildi-b353a5.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/til-modellarida-toqib-chiqarish-kamaytirildi-b353a5.jpg"/>
+  </item>
   <item>
     <title>Uzoq kontekst uchun ADIndex usuli taklif etildi</title>
     <link>https://ailenta.uz/x/uzoq-kontekst-uchun-adindex-usuli-taklif-etildi-1fbf3e/</link>
@@ -296,16 +306,6 @@
     <category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/ai-modellari-boshqa-tillarda-koproq-energiya-sarflaydi-5cb60c.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/ai-modellari-boshqa-tillarda-koproq-energiya-sarflaydi-5cb60c.jpg"/>
-  </item>
-  <item>
-    <title>Janubiy afrikalik yozuvchi AI dan foydalanishni himoya qildi</title>
-    <link>https://ailenta.uz/x/janubiy-afrikalik-yozuvchi-ai-dan-foydalanishni-himoya-qildi-d7b907/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/janubiy-afrikalik-yozuvchi-ai-dan-foydalanishni-himoya-qildi-d7b907/</guid>
-    <pubDate>Mon, 09 Nov 2026 07:21:33 GMT</pubDate>
-    <description>Janubiy afrikalik yozuvchi 20 oy ichida 370 ta kitob yozishda sun'iy intellektdan foydalanganini tasdiqladi. U o'zining bu usulini himoya qilib chiqdi.</description>
-    <category>mehnat bozori</category><category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/janubiy-afrikalik-yozuvchi-ai-dan-foydalanishni-himoya-qildi-d7b907.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/janubiy-afrikalik-yozuvchi-ai-dan-foydalanishni-himoya-qildi-d7b907.jpg"/>
   </item>
 </channel>
 </rss>
