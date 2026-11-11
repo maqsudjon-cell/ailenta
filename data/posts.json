@@ -1,5 +1,48 @@
 [
   {
+    "id": "ee7b3c266844",
+    "slug": "ai-axborot-manbaiga-aylandi-ammo-yangilik-yaratishga-emas-ee7b3c",
+    "title": "AI axborot manbaiga aylandi, ammo yangilik yaratishga emas",
+    "summary": "AI axborotga kirish eshigiga aylanib bormoqda. Biroq, jamoatchilik hali ham sun'iy intellektning yangiliklar yaratishini istamayapti.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 16.8,
+    "published": "2026-11-11T00:15:33.000Z",
+    "created": "2026-11-11T07:15:19.820Z",
+    "coverage": 1,
+    "source": {
+      "name": "Hacker News",
+      "url": "https://niemanlab.org/2026/11/ai-is-becoming-an-information-gateway-audiences-still-dont-want-it-making-their-news",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "5b1da44af807",
+    "slug": "ai-foydalanuvchilarining-ish-kunlari-uzunroq-5b1da4",
+    "title": "AI foydalanuvchilarining ish kunlari uzunroq",
+    "summary": "Tadqiqotga ko'ra, sun'iy intellektdan foydalanuvchilarning ish kunlari AI'dan foydalanmaydiganlarga nisbatan 90 daqiqagacha uzunroq bo'lishi mumkin.",
+    "tags": [
+      "mehnat bozori",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 14.5,
+    "published": "2026-11-10T12:57:24.000Z",
+    "created": "2026-11-11T07:15:19.820Z",
+    "coverage": 1,
+    "source": {
+      "name": "Hacker News",
+      "url": "https://activtrak.com/news/productivity-lab-ai-users-longer-workdays",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "b22522d14a17",
     "slug": "kirin-9050-chipida-30-mlrd-parametrli-model-ishlatildi-b22522",
     "title": "Kirin 9050 chipida 30 mlrd parametrli model ishlatildi",
