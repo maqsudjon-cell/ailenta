@@ -1,5 +1,53 @@
 [
   {
+    "id": "b22522d14a17",
+    "slug": "kirin-9050-chipida-30-mlrd-parametrli-model-ishlatildi-b22522",
+    "title": "Kirin 9050 chipida 30 mlrd parametrli model ishlatildi",
+    "summary": "Huawei kompaniyasi Kirin 9050 chipida 30 milliard parametrli model qurilmada qanday ishlashini ma'lum qildi. Shuningdek, 1 milliarddan kam parametrli agentli til modeliga ega BotPsy shaxsiy yordamchisi taqdim etildi.",
+    "tags": [
+      "Hugging Face",
+      "chiplar"
+    ],
+    "importance": 3,
+    "score": 37,
+    "published": "2026-11-11T05:01:16.000Z",
+    "created": "2026-11-11T07:01:51.919Z",
+    "coverage": 2,
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/blog/qvac/botpsy",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "TechNode",
+        "url": "https://technode.com/2026/11/11/huawei-details-how-kirin-9050-runs-a-30-billion-parameter-model-on-device"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "d593a225101e",
+    "slug": "aqsh-va-xitoy-ai-boyicha-muloqot-kanalini-yolga-qoymoqda-d593a2",
+    "title": "AQSh va Xitoy AI bo'yicha muloqot kanalini yo'lga qo'ymoqda",
+    "summary": "Vashington va Pekin jiddiy hodisalarni bartaraf etish uchun AI bo'yicha muloqot hamda aloqa kanalini yo'lga qo'yishga kelishib oldi. Bessentning ta'kidlashicha, ikkala mamlakat hamkorlik va raqobat borasida xomxayollarga berilmasligi kerak.",
+    "tags": [
+      "siyosat"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-11-11T05:15:50.000Z",
+    "created": "2026-11-11T07:01:51.919Z",
+    "coverage": 1,
+    "source": {
+      "name": "CNBC",
+      "url": "https://cnbc.com/2026/11/11/trump-xi-summit-ai-nvidia-.html",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "1622930ee4a5",
     "slug": "anthropic-3-4-mlrdga-tabiiy-gaz-turbinalari-sotib-oldi-162293",
     "title": "Anthropic $3.4 mlrdga tabiiy gaz turbinalari sotib oldi",

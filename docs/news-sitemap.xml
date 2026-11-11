@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://ailenta.uz/x/aqsh-va-xitoy-ai-boyicha-muloqot-kanalini-yolga-qoymoqda-d593a2/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>AI Lenta</news:name>
+        <news:language>uz</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-11T05:15:50.000Z</news:publication_date>
+      <news:title>AQSh va Xitoy AI bo'yicha muloqot kanalini yo'lga qo'ymoqda</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://ailenta.uz/x/kirin-9050-chipida-30-mlrd-parametrli-model-ishlatildi-b22522/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>AI Lenta</news:name>
+        <news:language>uz</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-11T05:01:16.000Z</news:publication_date>
+      <news:title>Kirin 9050 chipida 30 mlrd parametrli model ishlatildi</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://ailenta.uz/x/uzoq-kontekst-uchun-adindex-usuli-taklif-etildi-1fbf3e/</loc>
     <news:news>
       <news:publication>
@@ -1308,28 +1330,6 @@
       </news:publication>
       <news:publication_date>2026-11-09T07:21:33.000Z</news:publication_date>
       <news:title>Janubiy afrikalik yozuvchi AI dan foydalanishni himoya qildi</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://ailenta.uz/x/aqshda-ai-ornini-bosgan-xodimlar-ishga-qaytarilmoqda-3cd31a/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>AI Lenta</news:name>
-        <news:language>uz</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-09T07:00:00.000Z</news:publication_date>
-      <news:title>AQSHda AI o'rnini bosgan xodimlar ishga qaytarilmoqda</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://ailenta.uz/x/ai-uchun-inson-proksi-bolish-0eee26/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>AI Lenta</news:name>
-        <news:language>uz</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-09T06:55:38.000Z</news:publication_date>
-      <news:title>AI uchun &quot;inson proksi&quot; bo'lish</news:title>
     </news:news>
   </url>
 </urlset>
