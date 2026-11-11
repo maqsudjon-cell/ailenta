@@ -1,5 +1,69 @@
 [
   {
+    "id": "42c2be2b71be",
+    "slug": "amd-ai-orqali-dram-xotiraga-ehtiyojni-kamaytirmoqda-42c2be",
+    "title": "AMD AI orqali DRAM xotiraga ehtiyojni kamaytirmoqda",
+    "summary": "AMD kompaniyasining Mext jamoasi sun'iy intellekt imkoniyatlaridan foydalanib, samaraliroq SWAP texnologiyasini taklif etmoqda. Bu orqali operativ xotiradan foydalanish hajmini kamaytirish ko'zlangan.",
+    "tags": [
+      "AMD"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-11-11T09:59:00.000Z",
+    "created": "2026-11-11T10:01:29.810Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/systems/2026/11/11/amd-where-were-going-we-dont-need-as-much-dram/5308953",
+      "title": "AMD: Where we're going we don't need (as much) DRAM",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "4e74a2b6dc8b",
+    "slug": "ai-davrida-tajribali-xodimlar-ustunlikka-ega-bolmoqda-4e74a2",
+    "title": "AI davrida tajribali xodimlar ustunlikka ega bo'lmoqda",
+    "summary": "Sun'iy intellekt davrida tajriba muhim ustunlik ekani haqidagi dalillar ko'paymoqda. Shu sababli mehnat bozorida milleniallar va Gen X avlodi vakillari muvaffaqiyat qozonmoqda.",
+    "tags": [
+      "mehnat bozori"
+    ],
+    "importance": 3,
+    "score": 23,
+    "published": "2026-11-11T10:00:00.000Z",
+    "created": "2026-11-11T10:01:39.579Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Washington Post",
+      "url": "https://washingtonpost.com/technology/2026/11/11/middle-aged-workers-are-doing-better-than-young-people-job-market",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "a44764839f5b",
+    "slug": "ochiq-kodli-loyihalar-ai-kontributlarini-taqiqlamoqda-a44764",
+    "title": "Ochiq kodli loyihalar AI kontributlarini taqiqlamoqda",
+    "summary": "Ochiq kodli dasturiy ta'minot loyihalarida sun'iy intellekt tomonidan yaratilgan hissalarni taqiqlash holatlari kuzatilmoqda. Ushbu loyihalar AI taqdim etgan kontributlarni qabul qilmaslikni afzal ko'rmoqda.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 16.8,
+    "published": "2026-11-11T08:51:45.000Z",
+    "created": "2026-11-11T10:01:39.579Z",
+    "coverage": 1,
+    "source": {
+      "name": "Hacker News",
+      "url": "https://osssaysno.com",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "541a6d047468",
     "slug": "sae-yordamida-mavzularni-kuzatish-usuli-taklif-etildi-541a6d",
     "title": "SAE yordamida mavzularni kuzatish usuli taklif etildi",
