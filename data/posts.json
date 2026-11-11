@@ -1,5 +1,88 @@
 [
   {
+    "id": "f058cbf20748",
+    "slug": "bankirlar-anthropic-ipo-bahosini-oshirmoqchi-f058cb",
+    "title": "Bankirlar Anthropic IPO bahosini oshirmoqchi",
+    "summary": "OAV xabarlariga ko'ra, bankirlar Anthropic kompaniyasining IPO bahosini oshirishga tayyorlanmoqda. Financial Times baholash 1.5 trillion dollardan ortishi mumkinligini yozmoqda.",
+    "tags": [
+      "Anthropic",
+      "biznes"
+    ],
+    "importance": 4,
+    "score": 45,
+    "published": "2026-11-11T07:59:00.000Z",
+    "created": "2026-11-11T11:03:29.762Z",
+    "coverage": 4,
+    "source": {
+      "name": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUTgtOV9zN3Ywb2UycWxaSlNwOGltSV91cjMtRWdlNnJibWhnTVgtQkZkd0ZYU0NweVB5MEhaMkd6ZVNpUXlra3JiQ2ltcU4xUUUta0pPV2dqb19uWWpLZWVkanNqTnlsVEo2YmdFeGw2M2dNcGtGVHdGb1hBMTN4MFRteXhkbUctZWIxSURUQjcxczZxbmdtbGQ0d3ZLWWJCcjFQQVpwb1pjNHNzWlE",
+      "indirect": true
+    },
+    "also": [
+      {
+        "name": "Bloomberg.com",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZ2lUS1ZEb0daUGhGSkJtcURham5DLUNTWDcwQ1RIamR5RHhBRHBGdVJTY3JNVVlWUHdiTS04VEg0Yk1MYmVaSXRvOHlMS19BbDZWcENScnRmNEp0U1ZPZmF5bFEtbW5IR3dYM0lnbDJxbVA3bjJRWHpqZkpOZG5zeGd2ckdISl9jX2x1V0JzTlVCR2lnZ1RmclFmTXQ4WkZjc3BFazViXzVzZHNxLW1xT3lFaw"
+      },
+      {
+        "name": "Financial Times",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOemcxaS1wZzZyUGhITkh5Unh5cnVndFpLa3cxc1ZwLUxVeDFmUVBjREdnVlU2NFJIMWxhYW5OX243TVhJRUVCeXFFY0ZrelJWVzMyLTJ2R1BVUnQySmtsck5xWWJNUU5RX21HMHF4bVNBMERHSGxQWEppbnJVay11dDFCb2c"
+      },
+      {
+        "name": "AFR",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaWQ5Nk9iMlJCSHhQYWdiMjR1SGc4TEJ5eDAwWTJSMU1ISlRzM0hySkhuWW8yZmVjQ1p4ZWs2VzZZMktyeU5zQUJSLTFvY3ZyYnVqejVySDFsc2c4WHBOOUpFWlNNdTlCUlR3X1ExSUdUYXBpTm1ya3o4MDYyOHd0RV8wMzlCU3pZMjBzajhWMFdHeHFQS3VEdU43UmtHdVFmbUJCNzhtcUw"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "f724697ad479",
+    "slug": "anthropic-ozining-ai-ofis-toplamini-taqdim-etdi-f72469",
+    "title": "Anthropic o'zining AI ofis to'plamini taqdim etdi",
+    "summary": "Anthropic kompaniyasi o'zining sun'iy intellektga asoslangan ofis dasturlari to'plamini taqdim etdi. Kompaniya ilgari korporativ va dasturlash vositalariga e'tibor qaratgan bo'lib, endi o'z qamrovini kengaytirmoqda.",
+    "tags": [
+      "Anthropic"
+    ],
+    "importance": 3,
+    "score": 27.8,
+    "published": "2026-11-10T17:30:00.000Z",
+    "created": "2026-11-11T11:03:29.762Z",
+    "coverage": 2,
+    "source": {
+      "name": "The Verge",
+      "url": "https://theverge.com/ai-artificial-intelligence/1030709/anthropic-has-its-own-ai-powered-office-suite-now",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "The Verge",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcjc0QUZNb0FYTVFPN2d1Vld4eTZPWk52NHNKN1Jiblc5MW9ZNkV2Tm0xWU8zR0VtazQ1NV9LQlk2QnJPelVvaXp2QWJDVUxicmowX2Z5TWVhdjE0RlhnanNaSm9ITndEMFpJUjlCUXpVdHljRFY4N2VuRm44cmwxRU1aMnNrTElDeVN3ZGR4YXVBeWNWX29sSzFfYjRlVDNrTEFaU1llSkljU0VQRnc"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "9659f7f66482",
+    "slug": "maktab-noutbukidagi-ai-xavfi-oz-vaqtida-aniqlanmadi-9659f7",
+    "title": "Maktab noutbukidagi AI xavfi o'z vaqtida aniqlanmadi",
+    "summary": "Ota-onalarning da'vo qilishicha, 13 yoshli qiz maktab kompyuterida o'z joniga qasd qilishni rejalashtirish uchun Gemini'dan foydalangan. Biroq maktab monitoring tizimi bir necha hafta davomida bundan xabar topmagan.",
+    "tags": [
+      "Google",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 26,
+    "published": "2026-11-11T11:00:00.000Z",
+    "created": "2026-11-11T11:03:29.762Z",
+    "coverage": 1,
+    "source": {
+      "name": "Wired",
+      "url": "https://wired.com/story/teen-girl-asked-gemini-about-suicide-for-months-until-it-was-flagged",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "42c2be2b71be",
     "slug": "amd-ai-orqali-dram-xotiraga-ehtiyojni-kamaytirmoqda-42c2be",
     "title": "AMD AI orqali DRAM xotiraga ehtiyojni kamaytirmoqda",
