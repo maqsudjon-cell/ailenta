@@ -1,5 +1,70 @@
 [
   {
+    "id": "281df356d71d",
+    "slug": "aqsh-brokerlari-xitoyga-ai-malumotlarini-sotmoqda-281df3",
+    "title": "AQSh brokerlari Xitoyga AI ma'lumotlarini sotmoqda",
+    "summary": "ChinaTalk surishtiruviga ko'ra, AQSh ma'lumot brokerlari Xitoy laboratoriyalariga taxminan yarim milliard dollarlik AI o'qitish ma'lumotlarini sotmoqda. Ular orasida OpenAI va Anthropic uchun yaratilgan RL muhitlari ham mavjud.",
+    "tags": [
+      "biznes",
+      "tadqiqot"
+    ],
+    "importance": 4,
+    "score": 24,
+    "published": "2026-11-11T13:51:11.000Z",
+    "created": "2026-11-11T15:01:58.447Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/us-data-brokers-are-selling-half-a-billion-dollars-in-rl-training-environments-to-chinese-ai-labs",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "7218220fa4fb",
+    "slug": "deepl-ovozli-tarjima-uchun-yangi-aure-modelini-taqdim-etdi-721822",
+    "title": "DeepL ovozli tarjima uchun yangi Aure modelini taqdim etdi",
+    "summary": "DeepL kompaniyasi DeepL Voice uchun mo'ljallangan yangi Aure modelini e'lon qildi. Ushbu model real vaqtdagi tarjimalarda so'zlovchining ohangi, hissiyoti, urg'usi va gapirish tempini saqlab qoladi.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-11-11T13:50:30.000Z",
+    "created": "2026-11-11T15:01:58.447Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/with-its-new-voice-model-deepl-voice-now-translates-intonation-and-speaking-speed-into-other-languages-as-well",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "4e2cc233acf7",
+    "slug": "ai-agentining-tarmoqqa-hujumi-boyicha-sinov-otkazildi-4e2cc2",
+    "title": "AI agentining tarmoqqa hujumi bo'yicha sinov o'tkazildi",
+    "summary": "Mutaxassislar AI agentining korporativ tarmoq orqali hujum qilish imkoniyatlarini sinovdan o'tkazdi. ML va AI asosidagi himoya majmuasi ushbu hujumning 15 ta bosqichidan 14 tasini aniqlashga erishdi.",
+    "tags": [
+      "xavfsizlik",
+      "agentlar"
+    ],
+    "importance": 2,
+    "score": 11,
+    "published": "2026-11-11T13:00:47.000Z",
+    "created": "2026-11-11T15:01:58.447Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/companies/pt/articles/1099820",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "b3c1cda7edca",
     "slug": "epshteyn-ishi-o-zbekistonlik-jabrlanuvchi-model-agentligi-ha-b3c1cd",
     "title": "Epshteyn ishi: o‘zbekistonlik jabrlanuvchi model agentligi haqida",
