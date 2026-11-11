@@ -5,7 +5,7 @@
   <link>https://ailenta.uz</link>
   <description>Dunyodagi sun'iy intellekt yangiliklari o'zbek tilida. Har soatda yangilanadi, har bir xabarda asl manbaga havola.</description>
   <language>uz</language>
-  <lastBuildDate>Wed, 11 Nov 2026 09:13:02 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 11 Nov 2026 09:43:12 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/rss.xml" rel="self" type="application/rss+xml"/>
   <item>
     <title>JST ishchi guruhi raisi Toshkentga keldi</title>
@@ -86,6 +86,16 @@
     <category>Hugging Face</category><category>chiplar</category>
     <media:content url="https://ailenta.uz/og/kirin-9050-chipida-30-mlrd-parametrli-model-ishlatildi-b22522.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/kirin-9050-chipida-30-mlrd-parametrli-model-ishlatildi-b22522.jpg"/>
+  </item>
+  <item>
+    <title>SAE yordamida mavzularni kuzatish usuli taklif etildi</title>
+    <link>https://ailenta.uz/x/sae-yordamida-mavzularni-kuzatish-usuli-taklif-etildi-541a6d/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/sae-yordamida-mavzularni-kuzatish-usuli-taklif-etildi-541a6d/</guid>
+    <pubDate>Wed, 11 Nov 2026 05:00:00 GMT</pubDate>
+    <description>Tadqiqotchilar Gemma-3 modelida har bir token mavzusini aniqlovchi TopicScope freymvorkini taqdim etdi. Ushbu usul SAE xususiyatlaridan foydalanib, javob davomida mavzu o'zgarishini kuzatish imkonini beradi.</description>
+    <category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/sae-yordamida-mavzularni-kuzatish-usuli-taklif-etildi-541a6d.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/sae-yordamida-mavzularni-kuzatish-usuli-taklif-etildi-541a6d.jpg"/>
   </item>
   <item>
     <title>Til modellarida to'qib chiqarish kamaytirildi</title>
@@ -496,16 +506,6 @@
     <category>mehnat bozori</category><category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/ai-emas-suhbatlar-katta-tajribani-qadrsizlantirdi-08fae0.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/ai-emas-suhbatlar-katta-tajribani-qadrsizlantirdi-08fae0.jpg"/>
-  </item>
-  <item>
-    <title>Sakkiz davlat va AI lablar Parij deklaratsiyasini imzoladi</title>
-    <link>https://ailenta.uz/x/sakkiz-davlat-va-ai-lablar-parij-deklaratsiyasini-imzoladi-3e6400/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/sakkiz-davlat-va-ai-lablar-parij-deklaratsiyasini-imzoladi-3e6400/</guid>
-    <pubDate>Tue, 10 Nov 2026 13:37:16 GMT</pubDate>
-    <description>Sakkiz davlat va OpenAI, Anthropic, Microsoft, Mistral AI kabi kompaniyalar &quot;AI xavfsizligi va himoyasi bo‘yicha Parij chaqirig‘i&quot;ni imzoladi. Kelishuvda AI modellarini to‘xtatish mexanizmlari, mustaqil auditlar va xavflarni oshkor etish nazarda tutilgan. Biroq, unda majburiy sanksiyalar yoki muddatlar yo‘q.</description>
-    <category>xavfsizlik</category>
-    <media:content url="https://ailenta.uz/og/sakkiz-davlat-va-ai-lablar-parij-deklaratsiyasini-imzoladi-3e6400.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/sakkiz-davlat-va-ai-lablar-parij-deklaratsiyasini-imzoladi-3e6400.jpg"/>
   </item>
 </channel>
 </rss>

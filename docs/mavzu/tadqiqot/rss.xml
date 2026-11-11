@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/tadqiqot/</link>
   <description>&quot;tadqiqot&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Wed, 11 Nov 2026 09:13:02 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 11 Nov 2026 09:43:12 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/tadqiqot/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>SAE yordamida mavzularni kuzatish usuli taklif etildi</title>
+    <link>https://ailenta.uz/x/sae-yordamida-mavzularni-kuzatish-usuli-taklif-etildi-541a6d/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/sae-yordamida-mavzularni-kuzatish-usuli-taklif-etildi-541a6d/</guid>
+    <pubDate>Wed, 11 Nov 2026 05:00:00 GMT</pubDate>
+    <description>Tadqiqotchilar Gemma-3 modelida har bir token mavzusini aniqlovchi TopicScope freymvorkini taqdim etdi. Ushbu usul SAE xususiyatlaridan foydalanib, javob davomida mavzu o'zgarishini kuzatish imkonini beradi.</description>
+    <category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/sae-yordamida-mavzularni-kuzatish-usuli-taklif-etildi-541a6d.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/sae-yordamida-mavzularni-kuzatish-usuli-taklif-etildi-541a6d.jpg"/>
+  </item>
   <item>
     <title>Til modellarida to'qib chiqarish kamaytirildi</title>
     <link>https://ailenta.uz/x/til-modellarida-toqib-chiqarish-kamaytirildi-b353a5/</link>
@@ -296,16 +306,6 @@
     <category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/hindiston-3-ta-milliy-ai-modelini-taqdim-etdi-228481.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/hindiston-3-ta-milliy-ai-modelini-taqdim-etdi-228481.jpg"/>
-  </item>
-  <item>
-    <title>AI modellari boshqa tillarda ko'proq energiya sarflaydi</title>
-    <link>https://ailenta.uz/x/ai-modellari-boshqa-tillarda-koproq-energiya-sarflaydi-5cb60c/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/ai-modellari-boshqa-tillarda-koproq-energiya-sarflaydi-5cb60c/</guid>
-    <pubDate>Mon, 09 Nov 2026 08:03:10 GMT</pubDate>
-    <description>Sun'iy intellekt modellari ingliz tilida bo'lmagan matnlarni qayta ishlashda ko'proq energiya sarflaydi. Tadqiqotda boshqa tillardagi matnlar model uchun qo'shimcha resurs talab qilishi ko'rsatilgan.</description>
-    <category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/ai-modellari-boshqa-tillarda-koproq-energiya-sarflaydi-5cb60c.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/ai-modellari-boshqa-tillarda-koproq-energiya-sarflaydi-5cb60c.jpg"/>
   </item>
 </channel>
 </rss>

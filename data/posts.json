@@ -1,5 +1,26 @@
 [
   {
+    "id": "541a6d047468",
+    "slug": "sae-yordamida-mavzularni-kuzatish-usuli-taklif-etildi-541a6d",
+    "title": "SAE yordamida mavzularni kuzatish usuli taklif etildi",
+    "summary": "Tadqiqotchilar Gemma-3 modelida har bir token mavzusini aniqlovchi TopicScope freymvorkini taqdim etdi. Ushbu usul SAE xususiyatlaridan foydalanib, javob davomida mavzu o'zgarishini kuzatish imkonini beradi.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 7,
+    "published": "2026-11-11T05:00:00.000Z",
+    "created": "2026-11-11T09:36:16.189Z",
+    "coverage": 1,
+    "source": {
+      "name": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2611.12935",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "accc2da7c61d",
     "slug": "navoiyda-yoshlar-biznes-inkubatori-ish-boshladi-accc2d",
     "title": "Navoiyda Yoshlar biznes-inkubatori ish boshladi",
