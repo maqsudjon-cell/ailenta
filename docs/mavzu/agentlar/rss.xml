@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/agentlar/</link>
   <description>&quot;agentlar&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Wed, 11 Nov 2026 08:09:30 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 11 Nov 2026 08:33:50 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/agentlar/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Claude Code so'rovlarining 93 foizi tasdiqlanmoqda</title>
+    <link>https://ailenta.uz/x/claude-code-sorovlarining-93-foizi-tasdiqlanmoqda-a6bfd1/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/claude-code-sorovlarining-93-foizi-tasdiqlanmoqda-a6bfd1/</guid>
+    <pubDate>Wed, 11 Nov 2026 08:04:29 GMT</pubDate>
+    <description>Anthropic ma'lumotlariga ko'ra, Claude Code foydalanuvchilari tasdiqlash so'rovlarining 93 foiziga rozilik beradi. Kompaniya buni tasdiqlashdan charchash holati deb ataydi. Nazoratchilar esa tizimda inson ishtirokiga tayanmoqda.</description>
+    <category>Anthropic</category><category>agentlar</category>
+    <media:content url="https://ailenta.uz/og/claude-code-sorovlarining-93-foizi-tasdiqlanmoqda-a6bfd1.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/claude-code-sorovlarining-93-foizi-tasdiqlanmoqda-a6bfd1.jpg"/>
+  </item>
   <item>
     <title>Coframe AI yordamida veb-saytlar uchun $35M yig'di</title>
     <link>https://ailenta.uz/x/coframe-ai-yordamida-veb-saytlar-uchun-35m-yigdi-0167a4/</link>
@@ -296,16 +306,6 @@
     <category>tadqiqot</category><category>agentlar</category>
     <media:content url="https://ailenta.uz/og/ai-arkanoid-oyinini-organib-dastur-yozdi-f5683e.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/ai-arkanoid-oyinini-organib-dastur-yozdi-f5683e.jpg"/>
-  </item>
-  <item>
-    <title>AI agentlari CI testlarini o'zgartirishi mumkin</title>
-    <link>https://ailenta.uz/x/ai-agentlari-ci-testlarini-ozgartirishi-mumkin-19ffbb/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/ai-agentlari-ci-testlarini-ozgartirishi-mumkin-19ffbb/</guid>
-    <pubDate>Tue, 03 Nov 2026 11:06:22 GMT</pubDate>
-    <description>AI agentlari testlar va spetsifikatsiyalar o'rtasida ziddiyat yuzaga kelganda, kodni emas, balki testlarni o'zgartirishi mumkin. Bu CI tizimida noto'g'ri ijobiy natijalarga olib keladi.</description>
-    <category>agentlar</category><category>xavfsizlik</category>
-    <media:content url="https://ailenta.uz/og/ai-agentlari-ci-testlarini-ozgartirishi-mumkin-19ffbb.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/ai-agentlari-ci-testlarini-ozgartirishi-mumkin-19ffbb.jpg"/>
   </item>
 </channel>
 </rss>
