@@ -1,5 +1,116 @@
 [
   {
+    "id": "d78bf49ce594",
+    "slug": "railway-ai-provayder-kalitlari-ogirlanganini-bildirdi-d78bf4",
+    "title": "Railway AI provayder kalitlari o'g'irlanganini bildirdi",
+    "summary": "Railway kompaniyasi oktyabr oyidagi xakerlik hujumi AI provayder kalitlarini qayta sotishni maqsad qilganini ma'lum qildi. O'g'irlangan kalitlar orqali ruxsatsiz xarajatlar taxminan 740 ming dollarni tashkil etgan.",
+    "tags": [
+      "xavfsizlik",
+      "bulut"
+    ],
+    "importance": 4,
+    "score": 15,
+    "published": "2026-11-10T23:40:01.000Z",
+    "created": "2026-11-10T23:51:04.928Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/261110/p57",
+      "title": "In a report, Railway says it believes the October hack targeted AI provider keys for resale, and unauthorized spend on the stolen keys was estimated at ~$740K (Lawrence Abrams/BleepingComputer)",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "e18f58ec7dc7",
+    "slug": "anthropic-asoschilari-ipo-orqali-har-biri-250m-oladi-e18f58",
+    "title": "Anthropic asoschilari IPO orqali har biri $250M oladi",
+    "summary": "Anthropic kompaniyasining yetti nafar asoschisi IPO doirasida har biri taxminan 250 million dollar naqd pul olishni rejalashtirmoqda. Ular kompaniya nazoratini o'zlarida saqlab qolishadi.",
+    "tags": [
+      "Anthropic",
+      "biznes"
+    ],
+    "importance": 4,
+    "score": 15,
+    "published": "2026-11-10T19:57:52.000Z",
+    "created": "2026-11-10T23:56:31.357Z",
+    "coverage": 1,
+    "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "56cf60b777aa",
+    "slug": "anthropic-ipo-uchun-41-5-million-yuridik-xarajat-ajratdi-56cf60",
+    "title": "Anthropic IPO uchun $41.5 million yuridik xarajat ajratdi",
+    "summary": "Anthropic kompaniyasi IPO jarayoni uchun 41.5 million dollar miqdorida yuridik xarajatlar byudjetini belgiladi. Bu mablag' nufuzli yuridik firmalarga yo'naltiriladi.",
+    "tags": [
+      "Anthropic",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-11-10T18:37:06.000Z",
+    "created": "2026-11-10T23:56:31.357Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/anthropic-41-million-ipo-legal-fees-wilson-sonsini-2026-11",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "4d0aa5a4d043",
+    "slug": "anthropic-1-trilliondan-ortiq-bahoga-erishishni-maqsad-qilmo-4d0aa5",
+    "title": "Anthropic $1 trilliondan ortiq bahoga erishishni maqsad qilmoqda",
+    "summary": "The Economist xabariga ko'ra, Anthropic kompaniyasi 1 trillion dollardan ortiq bozor bahosiga erishishni maqsad qilmoqda. Bu kompaniyaning ulkan ambitsiyalaridan dalolat beradi.",
+    "tags": [
+      "Anthropic",
+      "biznes"
+    ],
+    "importance": 4,
+    "score": 7,
+    "published": "2026-11-10T20:31:14.000Z",
+    "created": "2026-11-10T23:56:31.357Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Economist",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTmZuOHpvOXlKUWVGZGQ0MGZkRWppYWJZb3VFNS1KeTd0NXVmZDZXNnV2YkZfRW9qRFZrTHVFdUlDNzZET19tUXJyYVNoYnNoZ3ROZ0lPd2t3RmRscktpVkhCcjdjLUFuczh2RGZmcXNDb3JHazRKcmV0a1NrbUVXVG8tQkVJTTZJNHdjdDV1TkhOQnJNN0JB",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "9ccc0e40910c",
+    "slug": "meta-ai-yoshni-tekshirishni-global-joriy-etdi-9ccc0e",
+    "title": "Meta AI yoshni tekshirishni global joriy etdi",
+    "summary": "Meta kompaniyasi sun'iy intellektga asoslangan yoshni tekshirish tizimini global miqyosda ishga tushirdi. Bu o'smirlarni himoya qilishga qaratilgan.",
+    "tags": [
+      "Meta",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 7,
+    "published": "2026-11-10T20:01:30.000Z",
+    "created": "2026-11-10T23:56:31.357Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Upturn",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUUVyRFNsWlhLbzNOQ1RGVFhPNURVLXIyUkxWNUF0bU5lUFNmaFBYcXRIMFdramhLcEFUaTlULTQzZVFENkUwLTN2UE9vVW90MUtaRThpenc0bUZ2bUQ4dUFsckg1UXZJeXFPQzIxa0VLdjVHLWtpMXp2UTc3NnlCUnFrZ0xjSk5YV2J5a0FTRVZkT3BreUQ2U3JB",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "1b86ea55a24d",
     "slug": "albanese-ai-va-mualliflik-huquqi-muammosini-hal-qilmoqda-1b86ea",
     "title": "Albanese AI va mualliflik huquqi muammosini hal qilmoqda",
