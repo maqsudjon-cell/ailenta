@@ -1,5 +1,181 @@
 [
   {
+    "id": "b3c1cda7edca",
+    "slug": "epshteyn-ishi-o-zbekistonlik-jabrlanuvchi-model-agentligi-ha-b3c1cd",
+    "title": "Epshteyn ishi: o‘zbekistonlik jabrlanuvchi model agentligi haqida",
+    "summary": "Roza Gilles ismli o‘zbekistonlik jabrlanuvchi Epshteyn tomonidan uch yil davomida zo‘rlangani haqida ko‘rsatma berdi. U model agentligi rahbari uni qanday yollagani haqida ma’lumot berdi. BBC bu ish bo‘yicha yozishmalar va ko‘rsatmalarni o‘rgandi.",
+    "tags": [
+      "O'zbekiston",
+      "sud"
+    ],
+    "importance": 3,
+    "score": 48,
+    "published": "2026-11-11T10:56:20.000Z",
+    "created": "2026-11-11T12:38:00.132Z",
+    "coverage": 1,
+    "source": {
+      "name": "Daryo",
+      "url": "https://daryo.uz/2026/11/11/epshteyn-ishi-ozbekistonlik-jabrlanuvchi-model-agentligi-uni-qanday-yollaganini-aytib-berdi",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "c7afe5c53263",
+    "slug": "o-zbekiston-startaplari-gonkongda-loyihalarini-taqdim-etdi-c7afe5",
+    "title": "O‘zbekiston startaplari Gonkongda loyihalarini taqdim etdi",
+    "summary": "O‘zbekistonning beshta startapi Gonkongdagi xalqaro forumlarda qatnashdi. Ular investorlar va texnologik kompaniyalar bilan hamkorlikni muhokama qildi.",
+    "tags": [
+      "O'zbekiston",
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 27,
+    "published": "2026-11-11T10:50:00.000Z",
+    "created": "2026-11-11T12:38:00.133Z",
+    "coverage": 1,
+    "source": {
+      "name": "UzDaily",
+      "url": "https://uzdaily.uz/uz/%C3%B6zbekiston-startaplari-gonkongda-investorlarga-loyihalarini-taqdim-etdi",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "79f0efb383ce",
+    "slug": "nvidia-rahbari-xitoy-josusligi-bo-yicha-tekshirilmoqda-79f0ef",
+    "title": "Nvidia rahbari Xitoy josusligi bo‘yicha tekshirilmoqda",
+    "summary": "Nvidia bosh direktori Jensen Huang Xitoy josuslik kampaniyasi nishoni bo‘lganmi, degan savol tekshirilmoqda. Nyu-York janubiy okrugi sobiq prokurori bu ishni o‘rganish uchun tayinlangan.",
+    "tags": [
+      "Nvidia",
+      "xavfsizlik"
+    ],
+    "importance": 4,
+    "score": 18.3,
+    "published": "2026-11-10T22:43:33.000Z",
+    "created": "2026-11-11T12:38:00.133Z",
+    "coverage": 1,
+    "source": {
+      "name": "Semafor",
+      "url": "https://semafor.com/article/11/10/2026/he-took-down-andrew-cuomo-now-jensen-huang-is-in-his-crosshairs",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "9ed23e0b2515",
+    "slug": "bytedance-yaqin-haftalarda-ai-yordamchisini-ishga-tushiradi-9ed23e",
+    "title": "ByteDance yaqin haftalarda AI yordamchisini ishga tushiradi",
+    "summary": "ByteDance asoschisi Chjan Yiming kompaniya yaqin haftalarda Muse’ga o‘xshash AI yordamchisini chiqarishini aytdi. Ular 2029-2030 yillarga borib AI sohasida yetakchi bo‘lishni rejalashtirmoqda.",
+    "tags": [
+      "ByteDance",
+      "agentlar"
+    ],
+    "importance": 4,
+    "score": 15,
+    "published": "2026-11-11T12:21:08.000Z",
+    "created": "2026-11-11T12:38:00.133Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/261111/p20",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "401e0d69bb70",
+    "slug": "softbank-ai-uchun-13gv-turbinalar-zahirasini-yaratdi-401e0d",
+    "title": "SoftBank AI uchun 13GV+ turbinalar zahirasini yaratdi",
+    "summary": "SoftBank AI’ni quvvatlantirish uchun 13GV+ turbinalar zahirasini yaratdi, bu oltita Guver to‘g‘oniga teng. Bekor qilingan buyurtmalar tufayli kompaniya $3.7 milliard zarar ko‘rdi.",
+    "tags": [
+      "SoftBank",
+      "iqtisod"
+    ],
+    "importance": 4,
+    "score": 15,
+    "published": "2026-11-11T11:50:55.000Z",
+    "created": "2026-11-11T12:38:00.133Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/261111/p18",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "5bc0f5e25190",
+    "slug": "xitoyda-dori-ishlab-chiqaruvchilar-ai-yordamchilaridan-foyda-5bc0f5",
+    "title": "Xitoyda dori ishlab chiqaruvchilar AI yordamchilaridan foydalanmoqda",
+    "summary": "Xitoyda korrupsiyaga qarshi kurashdan so‘ng, dori ishlab chiqaruvchilar shifokorlarga yetib borish uchun AI yordamchilariga murojaat qilmoqda. Alibaba va boshqa kompaniyalar bu sohada raqamli yordamchilar taklif etmoqda.",
+    "tags": [
+      "Alibaba",
+      "tibbiyot"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-11-11T11:45:01.000Z",
+    "created": "2026-11-11T12:38:00.133Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/261111/p17",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "557460b98636",
+    "slug": "xitoyda-ai-asosidagi-elektron-tijorat-savdosi-oshdi-557460",
+    "title": "Xitoyda AI asosidagi elektron tijorat savdosi oshdi",
+    "summary": "Xitoyning bir oylik Singles Day festivalida AI asosidagi elektron tijorat keng qo‘llanildi. 7-oktabrdan 31-oktabrgacha bo‘lgan davrda tadbir savdolari 2.4% ga o‘sdi.",
+    "tags": [
+      "iqtisod",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-11-11T11:01:35.000Z",
+    "created": "2026-11-11T12:38:00.133Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/261111/p12",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "3f40e841929e",
+    "slug": "ai-gigantlari-pentagon-bilan-harbiy-tizimlar-yaratmoqda-3f40e8",
+    "title": "AI gigantlari Pentagon bilan harbiy tizimlar yaratmoqda",
+    "summary": "The Intercept xabariga ko‘ra, AI gigantlari va Pentagon urush hamda kuzatuv tizimlarini birgalikda yaratmoqda. Bu kompaniyalarning xavfsiz va axloqiy AI haqidagi bayonotlariga zid keladi.",
+    "tags": [
+      "siyosat",
+      "xavfsizlik"
+    ],
+    "importance": 5,
+    "score": 14,
+    "published": "2026-11-11T12:22:48.000Z",
+    "created": "2026-11-11T12:38:00.133Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1106618",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "0464fc37b248",
     "slug": "ai-datacentrlari-energiya-uchun-gaz-stansiyalarini-rejalasht-0464fc",
     "title": "AI datacentrlari energiya uchun gaz stansiyalarini rejalashtirmoqda",
