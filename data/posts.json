@@ -1,5 +1,92 @@
 [
   {
+    "id": "8c999d6885d2",
+    "slug": "jiostar-ai-tizimlarini-500-million-foydalanuvchiga-mosladi-8c999d",
+    "title": "JioStar AI tizimlarini 500 million foydalanuvchiga mosladi",
+    "summary": "JioStar bosh me'mori Vidjay Seshadri 500 million foydalanuvchi miqyosida AI texnologiyalarini joriy etish tajribasi haqida gapirdi. U baholash, xavfsizlik va modellarni amaliyotga o'tkazish bo'yicha saboqlarni tushuntirdi.",
+    "tags": [
+      "OpenAI"
+    ],
+    "importance": 2,
+    "score": 29.8,
+    "published": "2026-11-11T00:00:00.000Z",
+    "created": "2026-11-11T20:01:57.488Z",
+    "coverage": 1,
+    "source": {
+      "name": "OpenAI",
+      "url": "https://openai.com/index/jiostar-vijay-seshadri",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "148cfca08abe",
+    "slug": "aqshda-korporativ-ai-xarajatlari-osishi-sekinlashdi-148cfc",
+    "title": "AQShda korporativ AI xarajatlari o'sishi sekinlashdi",
+    "summary": "Ramp AI Index ma'lumotlariga ko'ra, oktyabr oyida AQSh kompaniyalarining AI xarajatlari 1,65 foizga oshdi. Kompaniyalarning 1 foizi OpenAI va Anthropic daromadlarining 80 foizini ta'minlamoqda. Mijozlarni qo'llab-quvvatlash yangi o'sish yo'nalishi bo'lmoqda.",
+    "tags": [
+      "iqtisod",
+      "Anthropic"
+    ],
+    "importance": 3,
+    "score": 21,
+    "published": "2026-11-11T19:35:11.000Z",
+    "created": "2026-11-11T20:01:57.488Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/us-corporate-ai-spending-hits-a-new-high-in-october-but-growth-slows-to-1-65-percent",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "e2316fb53de9",
+    "slug": "ai-startaplarini-sotib-olish-boyicha-bitimlar-kopaydi-e2316f",
+    "title": "AI startaplarini sotib olish bo'yicha bitimlar ko'paydi",
+    "summary": "SpaceX, Nvidia, Amazon va Stripe kabi kompaniyalar AI startaplarini sotib olish bo'yicha rekord darajadagi bitimlarni amalga oshirmoqda. Bu jarayon venchur moliyalashtirilgan startaplar uchun likvidlikni oshirmoqda.",
+    "tags": [
+      "biznes",
+      "Nvidia"
+    ],
+    "importance": 3,
+    "score": 18,
+    "published": "2026-11-11T19:46:54.000Z",
+    "created": "2026-11-11T20:01:57.488Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/nvidia-spacex-deals-fuel-historic-boom-ai-startup-manda-2026-10",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "1deaf3a08d51",
+    "slug": "united-airlines-ai-agentlariga-chipta-olishni-taqiqladi-1deaf3",
+    "title": "United Airlines AI agentlariga chipta olishni taqiqladi",
+    "summary": "United Airlines shaxsiy AI yordamchilarining chiptalarni buyurtma qilishiga yo'l qo'ymasligini bildirdi. Kompaniya buni ma'lumotlar maxfiyligi tavakkalchiliklari hamda aviatsiya qoidalarining buzilishi ehtimoli bilan izohladi.",
+    "tags": [
+      "maxfiylik",
+      "agentlar"
+    ],
+    "importance": 4,
+    "score": 18,
+    "published": "2026-11-11T18:40:01.000Z",
+    "created": "2026-11-11T20:01:57.488Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/261111/p39",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "c90609be6e5b",
     "slug": "apple-uzoq-kontekstli-qidiruvni-yaxshilamoqda-c90609",
     "title": "Apple uzoq kontekstli qidiruvni yaxshilamoqda",
