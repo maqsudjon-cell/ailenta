@@ -1,5 +1,27 @@
 [
   {
+    "id": "a3f9078912ac",
+    "slug": "vision-ai-chiqindilarni-saralashga-yordam-bermoqda-a3f907",
+    "title": "Vision AI chiqindilarni saralashga yordam bermoqda",
+    "summary": "Kompyuter ko'rishi va robototexnika konveyerdagi kiyim-kechak, shisha hamda aralash chiqindilarni saralashda qo'llanilmoqda. Ushbu texnologiya minglab tonna materiallarni chiqindi poligonlariga tushishdan saqlab qoladi.",
+    "tags": [
+      "Nvidia",
+      "robototexnika"
+    ],
+    "importance": 2,
+    "score": 33,
+    "published": "2026-11-11T03:00:20.000Z",
+    "created": "2026-11-11T04:04:01.048Z",
+    "coverage": 1,
+    "source": {
+      "name": "Nvidia",
+      "url": "https://blogs.nvidia.com/blog/ai-recycling-startups",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "75958c70a9a7",
     "slug": "daylight-ai-xavfsizlik-uchun-80m-sarmoya-jalb-qildi-75958c",
     "title": "Daylight AI xavfsizlik uchun $80M sarmoya jalb qildi",
