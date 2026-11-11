@@ -1,5 +1,47 @@
 [
   {
+    "id": "8e332e1e45e3",
+    "slug": "til-modellarida-hissiyotlarni-ifodalash-organildi-8e332e",
+    "title": "Til modellarida hissiyotlarni ifodalash o'rganildi",
+    "summary": "Tadqiqotchilar yettita katta til modelini GoEmotions matnlar to'plamida sinovdan o'tkazdi. Ishda modellar tomonidan bildirilgan 27 ta hissiyot toifasining ichki tuzilishi va ularni guruhlash imkoniyatlari tahlil qilindi.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 4,
+    "published": "2026-11-10T05:00:00.000Z",
+    "created": "2026-11-11T00:36:06.434Z",
+    "coverage": 1,
+    "source": {
+      "name": "arXiv cs.CL",
+      "url": "https://arxiv.org/abs/2611.08683",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "459b6fe4cc10",
+    "slug": "elon-musk-xitoy-avtoishlab-chiqaruvchilarini-maqtadi-459b6f",
+    "title": "Elon Musk Xitoy avtoishlab chiqaruvchilarini maqtadi",
+    "summary": "Tesla rahbari Elon Musk investor Ron Baron bilan suhbatda Xitoy avtomobil ishlab chiqaruvchilarining raqobatbardoshligini tan oldi. U Model Y elektromobili Xitoyda eng ko'p sotilayotgani va mahalliy raqobatchilar kuchli ekanini ta'kidladi.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 2.3,
+    "published": "2026-11-09T04:52:00.000Z",
+    "created": "2026-11-11T00:36:06.434Z",
+    "coverage": 1,
+    "source": {
+      "name": "TechNode",
+      "url": "https://technode.com/2026/11/09/elon-musk-praises-chinese-automakers-as-tesla-competes-in-china",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "d78bf49ce594",
     "slug": "railway-ai-provayder-kalitlari-ogirlanganini-bildirdi-d78bf4",
     "title": "Railway AI provayder kalitlari o'g'irlanganini bildirdi",
