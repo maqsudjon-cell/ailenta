@@ -1,5 +1,116 @@
 [
   {
+    "id": "0464fc37b248",
+    "slug": "ai-datacentrlari-energiya-uchun-gaz-stansiyalarini-rejalasht-0464fc",
+    "title": "AI datacentrlari energiya uchun gaz stansiyalarini rejalashtirmoqda",
+    "summary": "Tadqiqotga ko'ra, AI datacentrlari energiya ehtiyojini qondirish uchun o'z hududlarida gaz elektr stansiyalari qurishni rejalashtirmoqda. AQSh va Yevropadagi datacentrlar uchun 181 GVt quvvatli gaz stansiyalari taklif qilingan.",
+    "tags": [
+      "bulut",
+      "iqtisod"
+    ],
+    "importance": 4,
+    "score": 23,
+    "published": "2026-11-11T12:00:48.000Z",
+    "created": "2026-11-11T12:02:27.232Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/world/2026/nov/11/ai-datacentres-on-site-gas-fired-power-stations",
+      "title": "AI datacentres plan on-site power stations on huge scale despite climate risks, research reveals",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "9d3b3415c7e5",
+    "slug": "baa-banklari-aini-strategik-ustuvorlik-deb-bilmoqda-9d3b34",
+    "title": "BAA banklari AI'ni strategik ustuvorlik deb bilmoqda",
+    "summary": "Dubay banklari yanada ilg'or AI tizimlarini joriy etishga intilmoqda. Ular sun'iy intellektni moliyaviy xizmatlarni o'zgartiruvchi strategik ustuvorlik deb hisoblaydi.",
+    "tags": [
+      "biznes",
+      "iqtisod"
+    ],
+    "importance": 2,
+    "score": 19,
+    "published": "2026-11-11T09:40:41.000Z",
+    "created": "2026-11-11T12:02:27.244Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/11/11/inside-the-ai-revolution-reshaping-dubais-banking-sector",
+      "title": "Will AI change banking more in the next five years than the past 30? UAE lenders think so",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "1ea920972882",
+    "slug": "hindistonda-ai-yaratgan-kitoblar-sabab-kutubxona-mojarosi-1ea920",
+    "title": "Hindistonda AI yaratgan kitoblar sabab kutubxona mojarosi",
+    "summary": "Hindistondagi yangi yirik kutubxona AI tomonidan yaratilgan kitoblar bilan bog'liq mojaro tufayli tanqidga uchradi. Tamil Nadu hukumati shtatdagi kutubxona fondlarini ichki auditdan o'tkazishni buyurdi.",
+    "tags": [
+      "ta'lim"
+    ],
+    "importance": 3,
+    "score": 23,
+    "published": "2026-11-11T11:33:24.000Z",
+    "created": "2026-11-11T12:02:37.030Z",
+    "coverage": 1,
+    "source": {
+      "name": "BBC News",
+      "url": "https://bbc.co.uk/news/articles/c54gne3plvrxo?at_medium=RSS&at_campaign=rss",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "fba1c8a4e785",
+    "slug": "ai-oqitish-boyicha-pudratchilar-maoshdan-shikoyat-qilmoqda-fba1c8",
+    "title": "AI o'qitish bo'yicha pudratchilar maoshdan shikoyat qilmoqda",
+    "summary": "Handshake kompaniyasining yigirmaga yaqin pudratchisi AI o'qitish ishlari uchun yuzlab yoki minglab dollar kam maosh olganini aytdi. Ular bu yil kompaniya tomonidan kam to'langanini bildirdi.",
+    "tags": [
+      "mehnat bozori",
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 18,
+    "published": "2026-11-11T11:00:01.000Z",
+    "created": "2026-11-11T12:02:37.031Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/workers-filed-pay-disputes-at-ai-training-startup-handshake-2026-11",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "1aa7a9c6c78d",
+    "slug": "google-spirit-airlines-malumotlarini-ai-uchun-sotib-oldi-1aa7a9",
+    "title": "Google Spirit Airlines ma'lumotlarini AI uchun sotib oldi",
+    "summary": "Spirit Airlines yopilganidan so'ng, Google uning ichki ma'lumotlarini AI o'qitish uchun 10 million dollarga sotib olish bo'yicha tenderda g'olib chiqdi. Maxfiylik bilan bog'liq xavotirlar bu jarayonni ushlab turgandi.",
+    "tags": [
+      "Google",
+      "maxfiylik"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-11-11T11:54:36.000Z",
+    "created": "2026-11-11T12:02:37.031Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/google-spirit-airlines-data-privacy-union-deal-2026-11",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "f058cbf20748",
     "slug": "bankirlar-anthropic-ipo-bahosini-oshirmoqchi-f058cb",
     "title": "Bankirlar Anthropic IPO bahosini oshirmoqchi",
