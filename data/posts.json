@@ -1,5 +1,48 @@
 [
   {
+    "id": "288293ddb70b",
+    "slug": "ai-sabab-ananaviy-imtihonlarga-qaytish-tavsiya-qilindi-288293",
+    "title": "AI sabab an'anaviy imtihonlarga qaytish tavsiya qilindi",
+    "summary": "Angliya oliy ta'lim regulyatori OfS universitetlarga an'anaviy imtihonlar va yuzma-yuz taqdimotlarga qaytishni tavsiya qildi. O'qituvchilar AI sababli talabalarning kurs ishlarini baholash deyarli imkonsiz bo'lib qolganidan shikoyat qilmoqda.",
+    "tags": [
+      "ta'lim"
+    ],
+    "importance": 3,
+    "score": 23,
+    "published": "2026-11-11T07:00:33.000Z",
+    "created": "2026-11-11T07:58:25.057Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/education/2026/nov/11/ai-close-to-impossible-assess-university-coursework-regulator",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "26a96166f51f",
+    "slug": "xuang-mojarosi-sabab-chip-eksporti-cheklanishi-mumkin-26a961",
+    "title": "Xuang mojarosi sabab chip eksporti cheklanishi mumkin",
+    "summary": "Politico manbalariga ko'ra, Nvidia rahbari Jensen Huang bilan bog'liq josuslik mojarosi AQShda chiplar eksportiga yangi cheklovlar joriy etish ehtimolini oshirdi. Bu masala Milliy mudofaa ruxsatnomasi to'g'risidagi qonun doirasida ko'rib chiqilishi mumkin.",
+    "tags": [
+      "Nvidia",
+      "chiplar"
+    ],
+    "importance": 4,
+    "score": 15,
+    "published": "2026-11-11T05:05:26.000Z",
+    "created": "2026-11-11T07:58:25.057Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/261111/p1",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "ee7b3c266844",
     "slug": "ai-axborot-manbaiga-aylandi-ammo-yangilik-yaratishga-emas-ee7b3c",
     "title": "AI axborot manbaiga aylandi, ammo yangilik yaratishga emas",
