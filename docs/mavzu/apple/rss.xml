@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/apple/</link>
   <description>&quot;Apple&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Wed, 11 Nov 2026 18:15:21 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 11 Nov 2026 18:43:22 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/apple/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Apple uzoq kontekstli qidiruvni yaxshilamoqda</title>
+    <link>https://ailenta.uz/x/apple-uzoq-kontekstli-qidiruvni-yaxshilamoqda-c90609/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/apple-uzoq-kontekstli-qidiruvni-yaxshilamoqda-c90609/</guid>
+    <pubDate>Tue, 10 Nov 2026 00:00:00 GMT</pubDate>
+    <description>Apple kompaniyasi NeurIPS 2026 konferensiyasida qabul qilingan tadqiqot ishini taqdim etdi. Unda davlat fazosi modellari (SSM) va &quot;state souping&quot; usuli orqali uzoq kontekstli ma'lumotlarni samarali qidirish muhokama qilingan. Bu usul tokenlarni mustaqil kodlash orqali kontekst yaratishga yordam beradi.</description>
+    <category>Apple</category><category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/apple-uzoq-kontekstli-qidiruvni-yaxshilamoqda-c90609.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/apple-uzoq-kontekstli-qidiruvni-yaxshilamoqda-c90609.jpg"/>
+  </item>
   <item>
     <title>Apple rahbariyati AI sohasidagi harakatlarni kuchaytirmoqda</title>
     <link>https://ailenta.uz/x/apple-rahbariyati-ai-sohasidagi-harakatlarni-kuchaytirmoqda-d5418a/</link>
@@ -296,16 +306,6 @@
     <category>Apple</category><category>agentlar</category>
     <media:content url="https://ailenta.uz/og/rised-agentlar-uchun-oqitish-strategiyasi-069872.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/rised-agentlar-uchun-oqitish-strategiyasi-069872.jpg"/>
-  </item>
-  <item>
-    <title>Apple shaxsiy sezish tizimlarida chegaralarni o‘rganmoqda</title>
-    <link>https://ailenta.uz/x/apple-shaxsiy-sezish-tizimlarida-chegaralarni-o-rganmoqda-90562d/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/apple-shaxsiy-sezish-tizimlarida-chegaralarni-o-rganmoqda-90562d/</guid>
-    <pubDate>Mon, 05 Oct 2026 00:00:00 GMT</pubDate>
-    <description>Apple foydalanuvchilar tomonidan yaratilgan shaxsiy sezish tizimlarida ontologik chegaralarni muhokama qilmoqda. Tadqiqot tizimlar qanday loyihalashtirilishi va qurilishida odamlarga kuch berishga qaratilgan.</description>
-    <category>Apple</category><category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/apple-shaxsiy-sezish-tizimlarida-chegaralarni-o-rganmoqda-90562d.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/apple-shaxsiy-sezish-tizimlarida-chegaralarni-o-rganmoqda-90562d.jpg"/>
   </item>
 </channel>
 </rss>

@@ -1,5 +1,49 @@
 [
   {
+    "id": "c90609be6e5b",
+    "slug": "apple-uzoq-kontekstli-qidiruvni-yaxshilamoqda-c90609",
+    "title": "Apple uzoq kontekstli qidiruvni yaxshilamoqda",
+    "summary": "Apple kompaniyasi NeurIPS 2026 konferensiyasida qabul qilingan tadqiqot ishini taqdim etdi. Unda davlat fazosi modellari (SSM) va \"state souping\" usuli orqali uzoq kontekstli ma'lumotlarni samarali qidirish muhokama qilingan. Bu usul tokenlarni mustaqil kodlash orqali kontekst yaratishga yordam beradi.",
+    "tags": [
+      "Apple",
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 23.8,
+    "published": "2026-11-10T00:00:00.000Z",
+    "created": "2026-11-11T18:36:30.595Z",
+    "coverage": 1,
+    "source": {
+      "name": "Apple",
+      "url": "https://machinelearning.apple.com/research/weighted-state-souping",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "4706cdbd2049",
+    "slug": "ai-agenti-32-yillik-jeep-cherokeeni-diagnostika-qildi-4706cd",
+    "title": "AI agenti 32 yillik Jeep Cherokee'ni diagnostika qildi",
+    "summary": "MZULALI taxallusi ostidagi dasturchi 1994-yilgi Jeep Cherokee avtomobilini AI agentlari yordamida diagnostika qilish uchun \"xj-scanner\" loyihasini e'lon qildi. Bu tizim avtomobilga Claude Code, Codex yoki boshqa agentlarni ulash, xatolarni o'qish va sensor ko'rsatkichlarini kuzatish imkonini beradi.",
+    "tags": [
+      "agentlar",
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 14,
+    "published": "2026-11-11T18:34:24.000Z",
+    "created": "2026-11-11T18:36:30.595Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1106830",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "3059651df1a9",
     "slug": "buyuk-britaniyada-ai-sabab-imtihon-shakli-ozgartiriladi-305965",
     "title": "Buyuk Britaniyada AI sabab imtihon shakli o'zgartiriladi",
