@@ -1,5 +1,158 @@
 [
   {
+    "id": "6bca75666d2b",
+    "slug": "qozog-iston-imd-raqamli-va-ai-reytingida-markaziy-osiyo-yeta-6bca75",
+    "title": "Qozog‘iston IMD raqamli va AI reytingida Markaziy Osiyo yetakchisi",
+    "summary": "Qozog‘iston IMD’ning 2026-yilgi Raqamli va AI reytingida 70 ta iqtisodiyot orasida 41-o‘rinni egalladi. Mamlakat 75,87 ball to‘plab, Markaziy Osiyodan reytingga kiritilgan yagona davlat bo‘ldi. Bu AI’ni o‘zlashtirish va davlat xizmatlarini raqamlashtirishdagi rivojlanishni ko‘rsatadi.",
+    "tags": [
+      "siyosat",
+      "iqtisod"
+    ],
+    "importance": 3,
+    "score": 48,
+    "published": "2026-11-12T09:23:50.000Z",
+    "created": "2026-11-12T09:37:45.183Z",
+    "coverage": 1,
+    "source": {
+      "name": "Pivot",
+      "url": "https://pivot.uz/uz/qozogiston-imd-raqamli-va-ai-reytingida-markaziy-osiyo-yetakchisi-boldi",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "f48eca7add16",
+    "slug": "xitoyda-1600-ot-kuchiga-ega-eng-kuchli-traktor-namoyish-etil-f48eca",
+    "title": "Xitoyda 1600 ot kuchiga ega eng kuchli traktor namoyish etildi",
+    "summary": "Xitoyda 1600 ot kuchiga ega, dunyodagi eng kuchli traktor taqdim etildi. Bu model avvalgi rekordchi John Deere 9RX 830 traktoridan deyarli ikki barobar kuchli. Uning 762 mm kenglikdagi gusenitsalari tuproqni ezmaslik uchun mo‘ljallangan.",
+    "tags": [
+      "iqtisod"
+    ],
+    "importance": 1,
+    "score": 48,
+    "published": "2026-11-12T07:42:36.000Z",
+    "created": "2026-11-12T09:37:45.183Z",
+    "coverage": 1,
+    "source": {
+      "name": "Daryo",
+      "url": "https://daryo.uz/2026/11/12/1600-ot-kuchi-xitoyda-dunyodagi-eng-kuchli-traktor-namoyish-qilindi",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "807b306b2f47",
+    "slug": "coreweave-natijalari-texnologiya-bozorini-jonlantirdi-807b30",
+    "title": "CoreWeave natijalari texnologiya bozorini jonlantirdi",
+    "summary": "CoreWeave kompaniyasining kutilganidan yuqori daromadlari AQSh texnologiya aksiyalarining keskin o‘sishiga sabab bo‘ldi. Bu o‘tgan haftadagi pasayishdan so‘ng AI bozorining tiklanishiga yordam berdi.",
+    "tags": [
+      "iqtisod",
+      "bulut"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-11-11T22:19:52.000Z",
+    "created": "2026-11-12T09:37:45.184Z",
+    "coverage": 1,
+    "source": {
+      "name": "Semafor",
+      "url": "https://semafor.com/article/11/11/2026/coreweave-results-drive-broad-tech-rally",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "79e917c98c6e",
+    "slug": "ai-so-rovnomalarni-to-ldirishda-73-86-aniqlikka-erishdi-79e917",
+    "title": "AI so‘rovnomalarni to‘ldirishda 73-86% aniqlikka erishdi",
+    "summary": "Bir tadqiqotda LLM so‘rovnomalarni to‘ldirish uchun o‘qitildi. Dastlabki versiya taxminan uchdan bir qismida to‘g‘ri bo‘lgan bo‘lsa, hozirda tizim 73-86% aniqlikni ko‘rsatmoqda. Bu kichik modelning katta modellardan ustunligini ko‘rsatdi.",
+    "tags": [
+      "tadqiqot",
+      "ochiq model"
+    ],
+    "importance": 2,
+    "score": 17,
+    "published": "2026-11-12T07:07:31.000Z",
+    "created": "2026-11-12T09:37:45.184Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1106918",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "ae23509ad5a0",
+    "slug": "fireworks-ai-tizimida-foydalanuvchi-chatlari-sizib-chiqdi-ae2350",
+    "title": "Fireworks AI tizimida foydalanuvchi chatlari sizib chiqdi",
+    "summary": "Notion platformasi Fireworks AI infratuzilma yetkazib beruvchisidagi xavfsizlik insidenti haqida xabar berdi. Natijada, Notion AI chatlarining stenogrammalari oz miqdordagi ish joylarida sizib chiqqan.",
+    "tags": [
+      "xavfsizlik",
+      "bulut"
+    ],
+    "importance": 4,
+    "score": 11,
+    "published": "2026-11-12T09:07:10.000Z",
+    "created": "2026-11-12T09:37:45.184Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1106956",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "9fb1edd56453",
+    "slug": "raea-jsx-yordamida-rustda-animatsiyalar-yaratish-imkoniyati-9fb1ed",
+    "title": "raea: JSX yordamida Rustda animatsiyalar yaratish imkoniyati",
+    "summary": "raea platformasi 9-noyabrda ishga tushirildi. U React yordamida sahnalarni yozish va Bevy o‘yin dvigateli orqali Rustda kadrlar chizish imkonini beradi. Bu brauzersiz animatsiyalar yaratishga mo‘ljallangan.",
+    "tags": [
+      "tadqiqot",
+      "dasturlash"
+    ],
+    "importance": 2,
+    "score": 11,
+    "published": "2026-11-12T08:37:47.000Z",
+    "created": "2026-11-12T09:37:45.184Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1106878",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "b3f3c285ef6a",
+    "slug": "xitoyda-96-gb-xotirali-rtx-5090-gpu-modifikatsiyalari-b3f3c2",
+    "title": "Xitoyda 96 GB xotirali RTX 5090 GPU modifikatsiyalari",
+    "summary": "Xitoy kompaniyalari RTX 4090 va 5090 video kartalarining xotirasini ikki-uch barobar oshirgan modifikatsiyalangan versiyalarini taklif qilmoqda. Bu AI generatsiyasi uchun zarur bo‘lgan kuchli GPUlar tanqisligi va yuqori narxlar sababli yuzaga kelgan.",
+    "tags": [
+      "chiplar",
+      "iqtisod"
+    ],
+    "importance": 3,
+    "score": 11,
+    "published": "2026-11-12T07:07:07.000Z",
+    "created": "2026-11-12T09:37:45.184Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/companies/mclouds/articles/1094350",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "b05a24a66c03",
     "slug": "robin-li-aining-keyingi-bosqichini-elon-qildi-b05a24",
     "title": "Robin Li AI'ning keyingi bosqichini e'lon qildi",
