@@ -1,5 +1,203 @@
 [
   {
+    "id": "f31566cea4eb",
+    "slug": "microsoft-minglab-shifokorlarga-ai-yordamchisini-berdi-f31566",
+    "title": "Microsoft minglab shifokorlarga AI yordamchisini berdi",
+    "summary": "Microsoft minglab tibbiyot mutaxassislariga AI tadqiqot yordamchisini taqdim etish jarayoni haqida ma'lumot berdi. Bu yordamchi tibbiyot sohasida AI imkoniyatlarini kengaytirishga qaratilgan.",
+    "tags": [
+      "Microsoft",
+      "tibbiyot"
+    ],
+    "importance": 3,
+    "score": 32.1,
+    "published": "2026-11-11T21:40:16.000Z",
+    "created": "2026-11-12T11:56:36.833Z",
+    "coverage": 1,
+    "source": {
+      "name": "Microsoft",
+      "url": "https://commandline.microsoft.com/from-custom-infrastructure-to-hosted-agents",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "8899996eb1df",
+    "slug": "uk-va-germaniya-osish-prognozlarini-ortda-qoldirishi-kutilmo-889999",
+    "title": "UK va Germaniya o'sish prognozlarini ortda qoldirishi kutilmoqda",
+    "summary": "Buyuk Britaniya so'nggi yillardagi eng tez choraklik o'sish sur'atini qayd etdi. Bu holatga sun'iy intellektga bo'lgan xarajatlar va iste'molchilarning energiya inqiroziga bardosh berishi sabab bo'ldi.",
+    "tags": [
+      "iqtisod",
+      "siyosat"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-11-12T11:44:18.000Z",
+    "created": "2026-11-12T11:56:36.833Z",
+    "coverage": 1,
+    "source": {
+      "name": "Semafor",
+      "url": "https://semafor.com/article/11/12/2026/uk-and-germany-are-expected-to-beat-growth-forecasts-despite-headwinds",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "d2296a64c0dc",
+    "slug": "hugging-face-multi-vektor-embedding-oqitish-usuli-taklif-etd-d2296a",
+    "title": "Hugging Face multi-vektor embedding o'qitish usuli taklif etdi",
+    "summary": "Hugging Face kompaniyasi multi-vektor embedding modellarini o'qitish uchun token pooling-aware usulini taqdim etdi. Bu tadqiqot model samaradorligini oshirishga qaratilgan.",
+    "tags": [
+      "Hugging Face",
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 15.4,
+    "published": "2026-11-11T00:00:00.000Z",
+    "created": "2026-11-12T11:56:36.833Z",
+    "coverage": 1,
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/blog/token-pooling",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "5dbe3dedc626",
+    "slug": "ai-jamiyatida-handoverism-goyalari-muhokama-qilinmoqda-5dbe3d",
+    "title": "AI jamiyatida \"handoverism\" g'oyalari muhokama qilinmoqda",
+    "summary": "AI hamjamiyatida insoniyat o'z kelajagini sun'iy intellektga ishonib topshirishi mumkin bo'lgan \"handoverism\" g'oyalari ko'rib chiqilmoqda. Bu g'oyalar amalda qanday ko'rinishga ega bo'lishi mumkinligi tahlil qilinmoqda.",
+    "tags": [
+      "tadqiqot",
+      "siyosat"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-11-12T10:30:05.000Z",
+    "created": "2026-11-12T11:56:36.833Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/261112/p10",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "bf2c82674c28",
+    "slug": "ai-uchun-xomashyo-kerak-investorlar-qayta-ishlashga-sarmoya-bf2c82",
+    "title": "AI uchun xomashyo kerak, investorlar qayta ishlashga sarmoya",
+    "summary": "AI ma'lumot markazlari qurilishi uchun ko'proq xomashyo talab qilinmoqda. Bir investor muhim komponentlarni qayta ishlovchi kompaniyalarga sarmoya kiritishni maqsad qilgan.",
+    "tags": [
+      "iqtisod",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-11-12T10:26:01.000Z",
+    "created": "2026-11-12T11:56:36.833Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/ai-data-centers-recycling-investment-opportunity-2026-11",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "c848bc199f5c",
+    "slug": "standard-bots-aqshda-robototexnika-giganti-quradi-c848bc",
+    "title": "Standard Bots AQShda robototexnika giganti quradi",
+    "summary": "Standard Bots bosh direktori Evan Beard AQShda dunyodagi eng yirik robot ishlab chiqaruvchisini yaratishni maqsad qilgan. U bu borada Vashington hukumatidan yordam kutmoqda.",
+    "tags": [
+      "robototexnika",
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-11-12T10:00:03.000Z",
+    "created": "2026-11-12T11:56:36.833Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/he-wants-to-build-americas-robotics-giant-will-washington-help-2026-11",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "d003a62559ac",
+    "slug": "amodei-ai-saraton-va-altsgeymerni-davolaydi-shifokorlar-shub-d003a6",
+    "title": "Amodei: AI saraton va Altsgeymerni davolaydi, shifokorlar shubhada",
+    "summary": "Anthropic rahbari Dario Amodei sun'iy intellekt o'n yil ichida saraton va Altsgeymer kasalliklarini davolashini taxmin qildi. Biroq, shifokorlar bu fikrga shubha bilan qaramoqda.",
+    "tags": [
+      "Anthropic",
+      "tibbiyot"
+    ],
+    "importance": 3,
+    "score": 12.4,
+    "published": "2026-11-11T17:28:00.000Z",
+    "created": "2026-11-12T11:56:36.833Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVUlHU2pHQjBYRF8xX3dyb3Y1RW0tM0FremhIN3YxY2h4UUMtT29jU0xkbGxxMFJXOTFMT0dianR3emllTjFOZTBkdXh3RWdLLTlCTmtRSDh6VEg4ZnQ2SG1IMzZnb2h0T0Q4Tk5BS1VSaEtXaEZVSEIwaU50N3dCMW1DTzJEVjE5WnBOQWtLQUU3LUZmTHBQSTZ5TXRyMmxheks4WEVqTQ",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "8141c000479e",
+    "slug": "ai-biznes-analitiklar-ishiga-tasiri-va-kasb-qiymati-muhokama-8141c0",
+    "title": "AI biznes-analitiklar ishiga ta'siri va kasb qiymati muhokamasi",
+    "summary": "AI agentlari ishga kirishi bilan biznes-analitiklar o'z kasbining qiymati va kelajagi haqida savollar tug'dirmoqda. Habr nashrida AI'ning bu sohaga ta'siri va professional rivojlanish yo'nalishlari tahlil qilindi.",
+    "tags": [
+      "mehnat bozori",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 11,
+    "published": "2026-11-12T10:54:34.000Z",
+    "created": "2026-11-12T11:56:36.833Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/companies/svoi_ru/articles/1107012",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "523985981722",
+    "slug": "pok-mon-fan-loyihasi-ishlab-chiquvchisi-ai-cheklovlaridan-no-523985",
+    "title": "Pokémon fan loyihasi ishlab chiquvchisi AI cheklovlaridan norozi",
+    "summary": "Pokémon fan loyihasi ishlab chiquvchisi intellektual mulk huquqlarini buzishga qarshi AI cheklovlaridan noroziligini bildirdi. U har oy minglab dollar sarflaganini ta'kidladi.",
+    "tags": [
+      "sud",
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 7,
+    "published": "2026-11-12T11:00:24.000Z",
+    "created": "2026-11-12T11:56:36.834Z",
+    "coverage": 1,
+    "source": {
+      "name": "Kotaku",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZFA2V3poVXZySkFIWGhMNkgzOHB0V09lcXNseUpkUU02aEFfdmNBMDhhT3FWTWxoZWoxNVpPWXVXZ1JiRUlEQVRUNklJRk90UXZRNWNOckVYVUx5S0NWVlktSW91M1luMTFKRWlxUlRJYy13bEZITXpySFp0Qk5ndG5yV3FTeWNuUEtkMEl3cGxLb2lJSmpPRk1R",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "e7f47bdf9a71",
     "slug": "silent-lynx-xakerlari-ai-bilan-markaziy-osiyoga-hujum-qildi-e7f47b",
     "title": "Silent Lynx xakerlari AI bilan Markaziy Osiyoga hujum qildi",

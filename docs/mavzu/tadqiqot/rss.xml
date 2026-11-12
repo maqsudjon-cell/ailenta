@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/tadqiqot/</link>
   <description>&quot;tadqiqot&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Thu, 12 Nov 2026 11:11:11 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 12 Nov 2026 12:03:16 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/tadqiqot/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>AI jamiyatida &quot;handoverism&quot; g'oyalari muhokama qilinmoqda</title>
+    <link>https://ailenta.uz/x/ai-jamiyatida-handoverism-goyalari-muhokama-qilinmoqda-5dbe3d/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/ai-jamiyatida-handoverism-goyalari-muhokama-qilinmoqda-5dbe3d/</guid>
+    <pubDate>Thu, 12 Nov 2026 10:30:05 GMT</pubDate>
+    <description>AI hamjamiyatida insoniyat o'z kelajagini sun'iy intellektga ishonib topshirishi mumkin bo'lgan &quot;handoverism&quot; g'oyalari ko'rib chiqilmoqda. Bu g'oyalar amalda qanday ko'rinishga ega bo'lishi mumkinligi tahlil qilinmoqda.</description>
+    <category>tadqiqot</category><category>siyosat</category>
+    <media:content url="https://ailenta.uz/og/ai-jamiyatida-handoverism-goyalari-muhokama-qilinmoqda-5dbe3d.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/ai-jamiyatida-handoverism-goyalari-muhokama-qilinmoqda-5dbe3d.jpg"/>
+  </item>
   <item>
     <title>Baidu Qianfan platformasiga ikkita yangi modelni qo'shdi</title>
     <link>https://ailenta.uz/x/baidu-qianfan-platformasiga-ikkita-yangi-modelni-qoshdi-89f849/</link>
@@ -188,6 +198,16 @@
     <media:thumbnail url="https://ailenta.uz/og/ai-axborot-manbaiga-aylandi-ammo-yangilik-yaratishga-emas-ee7b3c.jpg"/>
   </item>
   <item>
+    <title>Hugging Face multi-vektor embedding o'qitish usuli taklif etdi</title>
+    <link>https://ailenta.uz/x/hugging-face-multi-vektor-embedding-oqitish-usuli-taklif-etd-d2296a/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/hugging-face-multi-vektor-embedding-oqitish-usuli-taklif-etd-d2296a/</guid>
+    <pubDate>Wed, 11 Nov 2026 00:00:00 GMT</pubDate>
+    <description>Hugging Face kompaniyasi multi-vektor embedding modellarini o'qitish uchun token pooling-aware usulini taqdim etdi. Bu tadqiqot model samaradorligini oshirishga qaratilgan.</description>
+    <category>Hugging Face</category><category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/hugging-face-multi-vektor-embedding-oqitish-usuli-taklif-etd-d2296a.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/hugging-face-multi-vektor-embedding-oqitish-usuli-taklif-etd-d2296a.jpg"/>
+  </item>
+  <item>
     <title>&quot;The Trinity&quot; agenti og'irliklar o'zgartirmay o'zini yaxshiladi</title>
     <link>https://ailenta.uz/x/the-trinity-agenti-ogirliklar-ozgartirmay-ozini-yaxshiladi-68bbe3/</link>
     <guid isPermaLink="true">https://ailenta.uz/x/the-trinity-agenti-ogirliklar-ozgartirmay-ozini-yaxshiladi-68bbe3/</guid>
@@ -286,26 +306,6 @@
     <category>mehnat bozori</category><category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/ai-foydalanuvchilarining-ish-kunlari-uzunroq-5b1da4.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/ai-foydalanuvchilarining-ish-kunlari-uzunroq-5b1da4.jpg"/>
-  </item>
-  <item>
-    <title>Neyrotarmoqlardan kelgan trafikni hisoblash usullari</title>
-    <link>https://ailenta.uz/x/neyrotarmoqlardan-kelgan-trafikni-hisoblash-usullari-2a02f8/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/neyrotarmoqlardan-kelgan-trafikni-hisoblash-usullari-2a02f8/</guid>
-    <pubDate>Tue, 10 Nov 2026 11:41:20 GMT</pubDate>
-    <description>ChatGPT va boshqa neyrotarmoqlardan kelgan tashriflar ko'pincha to'g'ridan-to'g'ri kirishlar orasida yo'qoladi. Tenpoint Labs baholashiga ko'ra, yashirin AI trafigi to'g'ridan-to'g'ri tashriflarning ko'pi bilan 6,3 foizini tashkil qiladi. Aniq ko'rsatkichlarni aniqlash uchun standart hisobotlardan tashqari maxsus segmentlar va manba belgilaridan foydalanish zarur.</description>
-    <category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/neyrotarmoqlardan-kelgan-trafikni-hisoblash-usullari-2a02f8.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/neyrotarmoqlardan-kelgan-trafikni-hisoblash-usullari-2a02f8.jpg"/>
-  </item>
-  <item>
-    <title>AI'dan foydalanish kod bazasini zaiflashtiradi</title>
-    <link>https://ailenta.uz/x/aidan-foydalanish-kod-bazasini-zaiflashtiradi-534e23/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/aidan-foydalanish-kod-bazasini-zaiflashtiradi-534e23/</guid>
-    <pubDate>Tue, 10 Nov 2026 10:25:58 GMT</pubDate>
-    <description>Hacker News xabariga ko'ra, sun'iy intellektdan foydalanish kod bazasining zaiflashishiga olib keladi.</description>
-    <category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/aidan-foydalanish-kod-bazasini-zaiflashtiradi-534e23.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/aidan-foydalanish-kod-bazasini-zaiflashtiradi-534e23.jpg"/>
   </item>
 </channel>
 </rss>
