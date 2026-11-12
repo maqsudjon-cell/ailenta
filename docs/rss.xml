@@ -5,7 +5,7 @@
   <link>https://ailenta.uz</link>
   <description>Dunyodagi sun'iy intellekt yangiliklari o'zbek tilida. Har soatda yangilanadi, har bir xabarda asl manbaga havola.</description>
   <language>uz</language>
-  <lastBuildDate>Thu, 12 Nov 2026 06:45:30 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 12 Nov 2026 07:18:37 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/rss.xml" rel="self" type="application/rss+xml"/>
   <item>
     <title>AI agentlari korporativ arxitekturadagi xatolar</title>
@@ -86,6 +86,16 @@
     <category>Nvidia</category><category>siyosat</category>
     <media:content url="https://ailenta.uz/og/aqsh-vazirlari-nvidia-mijozi-boyicha-bahslashdi-fe64af.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/aqsh-vazirlari-nvidia-mijozi-boyicha-bahslashdi-fe64af.jpg"/>
+  </item>
+  <item>
+    <title>Meta AI: Xususiyatlari, narxi va undan foydalanish</title>
+    <link>https://ailenta.uz/x/meta-ai-xususiyatlari-narxi-va-undan-foydalanish-f76429/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/meta-ai-xususiyatlari-narxi-va-undan-foydalanish-f76429/</guid>
+    <pubDate>Wed, 11 Nov 2026 21:45:33 GMT</pubDate>
+    <description>TechRepublic nashri Meta AI haqida ma'lumotnoma chop etdi. Unda Meta AI'ning xususiyatlari, narxlari va undan qanday foydalanish haqida batafsil ma'lumot berilgan.</description>
+    <category>Meta</category>
+    <media:content url="https://ailenta.uz/og/meta-ai-xususiyatlari-narxi-va-undan-foydalanish-f76429.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/meta-ai-xususiyatlari-narxi-va-undan-foydalanish-f76429.jpg"/>
   </item>
   <item>
     <title>OpenAI modeli virtual o'rdakni boshqarishda qo'llandi</title>
@@ -496,16 +506,6 @@
     <category>mehnat bozori</category>
     <media:content url="https://ailenta.uz/og/ai-davrida-tajribali-xodimlar-ustunlikka-ega-bolmoqda-4e74a2.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/ai-davrida-tajribali-xodimlar-ustunlikka-ega-bolmoqda-4e74a2.jpg"/>
-  </item>
-  <item>
-    <title>AMD AI orqali DRAM xotiraga ehtiyojni kamaytirmoqda</title>
-    <link>https://ailenta.uz/x/amd-ai-orqali-dram-xotiraga-ehtiyojni-kamaytirmoqda-42c2be/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/amd-ai-orqali-dram-xotiraga-ehtiyojni-kamaytirmoqda-42c2be/</guid>
-    <pubDate>Wed, 11 Nov 2026 09:59:00 GMT</pubDate>
-    <description>AMD kompaniyasining Mext jamoasi sun'iy intellekt imkoniyatlaridan foydalanib, samaraliroq SWAP texnologiyasini taklif etmoqda. Bu orqali operativ xotiradan foydalanish hajmini kamaytirish ko'zlangan.</description>
-    <category>AMD</category>
-    <media:content url="https://ailenta.uz/og/amd-ai-orqali-dram-xotiraga-ehtiyojni-kamaytirmoqda-42c2be.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/amd-ai-orqali-dram-xotiraga-ehtiyojni-kamaytirmoqda-42c2be.jpg"/>
   </item>
 </channel>
 </rss>
