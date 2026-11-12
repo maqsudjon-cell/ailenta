@@ -1,21 +1,43 @@
 [
   {
-    "id": "dc1e873c6b99",
-    "slug": "xitoyga-10-trillion-vonlik-ai-chiplari-noqonuniy-otkazildi-dc1e87",
-    "title": "Xitoyga 10 trillion vonlik AI chiplari noqonuniy o'tkazildi",
-    "summary": "Xitoyga 10 trillion von qiymatidagi sun'iy intellekt chiplari noqonuniy ravishda olib o'tilgani ma'lum bo'ldi. Ushbu harakatlarga erining ham aloqadorligi bo'yicha shubha bildirilmoqda.",
+    "id": "4443c3f3c02e",
+    "slug": "pensiya-jamgarmalari-ai-pufakchasini-kuchaytirmoqda-4443c3",
+    "title": "Pensiya jamg'armalari AI pufakchasini kuchaytirmoqda",
+    "summary": "Hacker News xabariga ko'ra, pensiya jamg'armalari sun'iy intellekt bozoridagi \"pufakcha\"ni kuchaytirmoqda. Bu holat AI savdosiga ta'sir ko'rsatmoqda.",
     "tags": [
-      "chiplar",
-      "qonun"
+      "iqtisod",
+      "biznes"
     ],
     "importance": 3,
-    "score": 7,
-    "published": "2026-11-11T21:29:05.000Z",
-    "created": "2026-11-12T01:02:26.108Z",
+    "score": 20.3,
+    "published": "2026-11-11T19:06:43.000Z",
+    "created": "2026-11-12T01:14:11.572Z",
     "coverage": 1,
     "source": {
-      "name": "SBS 뉴스",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5GM0FzdTJ5QTRLTThPbnNMM0VVQV8xUmxKMFl6Sk0xSTBjU2lualhJcXYtaWpMcFZmNXEwRUM0cTN1RTd6Vk11aEpNaDhFSFBnZGp1OTNKb2JtT192aVdZQU1GNEJfeTRXdk51aFdn0gFmQVVfeXFMT19yQTlaZzBRRnNIWEVCdjJxRFEyS0V1VnQwLUlNem9UcHBwSzZfUV9xX1JnUUFFblZaVnI3TVg4Z3YyOWlpYVBPVXdtcDlrYVNibmNmejhEaDRFSnEwU3U5eWNXOUxR",
+      "name": "Hacker News",
+      "url": "https://lpeproject.org/blog/your-retirement-savings-are-fueling-the-ai-bubble",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "2087c8155555",
+    "slug": "lsu-va-meta-ai-sogliqni-saqlashda-hamkorlik-qiladi-2087c8",
+    "title": "LSU va Meta AI sog'liqni saqlashda hamkorlik qiladi",
+    "summary": "LSU universiteti va Meta AI beshta loyiha bo'yicha hamkorlikni yo'lga qo'ydi. Ushbu loyihalar AI yordamida sog'liqni saqlash sohasidagi muammolarni hal qilishga qaratilgan.",
+    "tags": [
+      "Meta",
+      "tibbiyot"
+    ],
+    "importance": 3,
+    "score": 6.2,
+    "published": "2026-11-11T11:04:32.000Z",
+    "created": "2026-11-12T01:14:11.573Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Reveille, LSU's student newspaper",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOTWpKV2NIWDNWRW5GQmJoWVdBU0lNM0s4Mkd4TU1YSkdEZGZjMk12Mk96MlN1S0h3VkFZTUw4amZOWktETlFUczQ0ay1xWno4c2FXWl9lWm54X296cDJKUS1xb0lpOFBRdWhaRWJLWjZtMnFNTU5rWFhmMFh5VTQzVWJpOTJFdEZBbGcxNm82RzFWVHB1eXk4Nl9uN3o2SFcyQldvUE1lbmw2UV8teTQ1YWktNnJhRHl1Z3YwODhrVTVTcndkcS1TcXZUYmFFOEFrbWYzV1Jn",
       "indirect": true
     },
     "also": [],
