@@ -1,5 +1,181 @@
 [
   {
+    "id": "c9f4964f1d88",
+    "slug": "qozoq-hakerlari-tojikiston-hukumat-hujjatlarini-ogirladi-c9f496",
+    "title": "Qozoq hakerlari Tojikiston hukumat hujjatlarini o'g'irladi",
+    "summary": "CloudSEK ma'lumotlariga ko'ra, Qozog'istonga aloqador hakerlar Tojikistonning mudofaa va milliy xavfsizlik sohalariga oid 2 mingdan ortiq hujjatni o'g'irlagan. Kiberhujumda avtonom sun'iy intellekt agentlaridan foydalanilgan.",
+    "tags": [
+      "xavfsizlik",
+      "siyosat"
+    ],
+    "importance": 3,
+    "score": 48,
+    "published": "2026-11-12T13:02:16.000Z",
+    "created": "2026-11-12T17:05:43.762Z",
+    "coverage": 1,
+    "source": {
+      "name": "Kun.uz",
+      "url": "https://kun.uz/news/2026/11/12/qozogistonga-aloqador-hakerlar-tojikiston-hukumatining-hujjatlarini-ogirladi-oav-60387",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "1bafa17d30b9",
+    "slug": "ai-buyuk-britaniya-iqtisodiyotiga-osishga-yordam-berdi-1bafa1",
+    "title": "AI Buyuk Britaniya iqtisodiyotiga o'sishga yordam berdi",
+    "summary": "Buyuk Britaniya iqtisodiyoti uchinchi chorakda 0,7% o'sib, so'nggi ikki yarim yildagi eng tez kengayishni ko'rsatdi. Bu o'sishga sun'iy intellekt yordam bergani aytilmoqda.",
+    "tags": [
+      "iqtisod",
+      "siyosat"
+    ],
+    "importance": 3,
+    "score": 23,
+    "published": "2026-11-12T13:08:12.000Z",
+    "created": "2026-11-12T17:05:43.763Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/business/2026/nov/12/ai-uk-economy-john-healey",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "ea64cad924f9",
+    "slug": "jensen-huang-kongressda-guvohlik-berishga-rozi-boldi-ea64ca",
+    "title": "Jensen Huang Kongressda guvohlik berishga rozi bo'ldi",
+    "summary": "AQSh Vakillar Palatasi Tashqi ishlar qo'mitasi raisi Brian Mastning so'zlariga ko'ra, Jensen Huang Shukrona kunidan oldin Kongressda guvohlik berishga rozi bo'lgan. Uning Xitoy ayg'oqchisi bilan aloqasi haqidagi xabarlar ortidan lavozimidan chetlatilgani aytilmoqda.",
+    "tags": [
+      "Nvidia",
+      "siyosat"
+    ],
+    "importance": 4,
+    "score": 15,
+    "published": "2026-11-12T16:35:00.000Z",
+    "created": "2026-11-12T17:05:43.763Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/261112/p41",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "0439bb91184a",
+    "slug": "aqsh-armiyasi-abrams-tanklari-uchun-ai-dronlarga-sarmoya-0439bb",
+    "title": "AQSh armiyasi Abrams tanklari uchun AI dronlarga sarmoya",
+    "summary": "AQSh armiyasi Anduril'ning Ghost-X dronlariga AI dasturini o'rnatishga qiziqmoqda. Bu dronlar Abrams tanklari uchun yashirin tahdidlar, jumladan minalar va dushman dronlarini aniqlashga yordam beradi.",
+    "tags": [
+      "siyosat",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-11-12T16:06:01.000Z",
+    "created": "2026-11-12T17:05:43.763Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/us-army-ai-software-drone-protect-abrams-tanks-hidden-threats-2026-11",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "9caafb72b516",
+    "slug": "jensen-huang-mojarosiga-aloqador-shaxslar-muhokamada-9caafb",
+    "title": "Jensen Huang mojarosiga aloqador shaxslar muhokamada",
+    "summary": "Jensen Huangning mojarosi va Xitoy ayg'oqchisi bilan bog'liq da'volar Nvidia'ni larzaga soldi. Uning oilasidan tortib AQSh rasmiylarigacha ko'plab shaxslar bu ishga aralashgan.",
+    "tags": [
+      "Nvidia",
+      "siyosat"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-11-12T16:02:00.000Z",
+    "created": "2026-11-12T17:05:43.763Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/jensen-huang-scandal-characters-people-being-talked-about-family-officials-2026-11",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "044263d4278b",
+    "slug": "jensen-huangning-qulashi-xitoyga-katta-yutuq-berdi-044263",
+    "title": "Jensen Huangning qulashi Xitoyga katta yutuq berdi",
+    "summary": "Jensen Huangning lavozimidan chetlatilishi Xitoyga AI poygasida katta yutuq berdi. Bu voqea Xitoyning texnologiya sohasidagi mavqeini mustahkamlashi mumkin.",
+    "tags": [
+      "Nvidia",
+      "siyosat"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-11-12T15:20:21.000Z",
+    "created": "2026-11-12T17:05:43.763Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/nvidia-ceo-jensen-huang-downfall-benefits-china-ai-race-2026-11",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "df5c4c0af68f",
+    "slug": "nvidia-bosh-direktori-jensen-huangga-voris-izlanmoqda-df5c4c",
+    "title": "Nvidia bosh direktori Jensen Huangga voris izlanmoqda",
+    "summary": "Nvidia'da vorislik rejasi yo'q va bosh direktor Jensen Huangning ahvoli og'ir. Kompaniya rahbariyatiga potentsial vorislar ro'yxati tuzilmoqda.",
+    "tags": [
+      "Nvidia",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 14.3,
+    "published": "2026-11-12T03:13:10.000Z",
+    "created": "2026-11-12T17:05:43.763Z",
+    "coverage": 1,
+    "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "6f3c74a04fea",
+    "slug": "britaniyaning-fractile-kompaniyasi-ai-chiplari-uchun-720-mln-6f3c74",
+    "title": "Britaniyaning Fractile kompaniyasi AI chiplari uchun 720 mln dollar oldi",
+    "summary": "Britaniyaning Fractile kompaniyasi 720 million dollarlik sarmoya jalb qildi. Bu mablag' uni maxsus AI chiplarini ishlab chiqarish poygasida eng ko'p moliyalashtirilgan kompaniyalardan biriga aylantirdi.",
+    "tags": [
+      "chiplar",
+      "biznes"
+    ],
+    "importance": 4,
+    "score": 11.2,
+    "published": "2026-11-11T19:34:55.000Z",
+    "created": "2026-11-12T17:05:43.763Z",
+    "coverage": 1,
+    "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "bc8323ce9592",
     "slug": "uzbekistan-airways-airgain-platformasini-joriy-etadi-bc8323",
     "title": "Uzbekistan Airways AirGain platformasini joriy etadi",
