@@ -1,5 +1,48 @@
 [
   {
+    "id": "e163141dbe2b",
+    "slug": "freebsd-hisobotida-ai-muhokamalari-aks-etdi-e16314",
+    "title": "FreeBSD hisobotida AI muhokamalari aks etdi",
+    "summary": "FreeBSD loyihasining so'nggi hisobotida sun'iy intellektdan foydalanish bo'yicha munozaralar davom etayotgani keltirildi. Unda ishtirokchilarning faqat ozchilik qismi AIni taqiqlash tarafdori ekani ma'lum bo'ldi.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 19,
+    "published": "2026-11-12T12:32:18.000Z",
+    "created": "2026-11-12T14:07:35.140Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/os-platforms/2026/11/12/the-latest-freebsd-report-is-here-and-the-ai-debate-is-ongoing/5309206",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "a2fc0cd4dff5",
+    "slug": "spacex-va-xai-kessel-server-tizimini-ishlab-chiqmoqda-a2fc0c",
+    "title": "SpaceX va xAI Kessel server tizimini ishlab chiqmoqda",
+    "summary": "SpaceX va xAI kompaniyalari Kessel deb nomlangan server tizimini loyihalashtirmoqda. Ushbu platforma 36 ta Nvidia Vera protsessori hamda 72 ta Rubin grafik tezlatgichiga asoslangan bo'lib, yer va orbitadagi ma'lumotlar markazlarida ishlatilishi ko'zda tutilgan.",
+    "tags": [
+      "Nvidia",
+      "xAI"
+    ],
+    "importance": 4,
+    "score": 14,
+    "published": "2026-11-12T14:00:17.000Z",
+    "created": "2026-11-12T14:07:35.140Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/companies/selectel/articles/1107166",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "a0aaa9419194",
     "slug": "avito-bi-jamoasi-ai-agentlaridan-foydalanmoqda-a0aaa9",
     "title": "Avito BI jamoasi AI agentlaridan foydalanmoqda",

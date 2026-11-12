@@ -5,8 +5,18 @@
   <link>https://ailenta.uz</link>
   <description>Dunyodagi sun'iy intellekt yangiliklari o'zbek tilida. Har soatda yangilanadi, har bir xabarda asl manbaga havola.</description>
   <language>uz</language>
-  <lastBuildDate>Thu, 12 Nov 2026 13:38:55 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 12 Nov 2026 14:14:07 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>SpaceX va xAI Kessel server tizimini ishlab chiqmoqda</title>
+    <link>https://ailenta.uz/x/spacex-va-xai-kessel-server-tizimini-ishlab-chiqmoqda-a2fc0c/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/spacex-va-xai-kessel-server-tizimini-ishlab-chiqmoqda-a2fc0c/</guid>
+    <pubDate>Thu, 12 Nov 2026 14:00:17 GMT</pubDate>
+    <description>SpaceX va xAI kompaniyalari Kessel deb nomlangan server tizimini loyihalashtirmoqda. Ushbu platforma 36 ta Nvidia Vera protsessori hamda 72 ta Rubin grafik tezlatgichiga asoslangan bo'lib, yer va orbitadagi ma'lumotlar markazlarida ishlatilishi ko'zda tutilgan.</description>
+    <category>Nvidia</category><category>xAI</category>
+    <media:content url="https://ailenta.uz/og/spacex-va-xai-kessel-server-tizimini-ishlab-chiqmoqda-a2fc0c.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/spacex-va-xai-kessel-server-tizimini-ishlab-chiqmoqda-a2fc0c.jpg"/>
+  </item>
   <item>
     <title>Avito BI jamoasi AI agentlaridan foydalanmoqda</title>
     <link>https://ailenta.uz/x/avito-bi-jamoasi-ai-agentlaridan-foydalanmoqda-a0aaa9/</link>
@@ -16,6 +26,16 @@
     <category>agentlar</category>
     <media:content url="https://ailenta.uz/og/avito-bi-jamoasi-ai-agentlaridan-foydalanmoqda-a0aaa9.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/avito-bi-jamoasi-ai-agentlaridan-foydalanmoqda-a0aaa9.jpg"/>
+  </item>
+  <item>
+    <title>FreeBSD hisobotida AI muhokamalari aks etdi</title>
+    <link>https://ailenta.uz/x/freebsd-hisobotida-ai-muhokamalari-aks-etdi-e16314/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/freebsd-hisobotida-ai-muhokamalari-aks-etdi-e16314/</guid>
+    <pubDate>Thu, 12 Nov 2026 12:32:18 GMT</pubDate>
+    <description>FreeBSD loyihasining so'nggi hisobotida sun'iy intellektdan foydalanish bo'yicha munozaralar davom etayotgani keltirildi. Unda ishtirokchilarning faqat ozchilik qismi AIni taqiqlash tarafdori ekani ma'lum bo'ldi.</description>
+    <category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/freebsd-hisobotida-ai-muhokamalari-aks-etdi-e16314.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/freebsd-hisobotida-ai-muhokamalari-aks-etdi-e16314.jpg"/>
   </item>
   <item>
     <title>UK va Germaniya o'sish prognozlarini ortda qoldirishi kutilmoqda</title>
@@ -486,26 +506,6 @@
     <category>Nvidia</category><category>siyosat</category>
     <media:content url="https://ailenta.uz/og/huangga-silicon-valley-ittifoqchilari-yordam-berdi-ca3a48.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/huangga-silicon-valley-ittifoqchilari-yordam-berdi-ca3a48.jpg"/>
-  </item>
-  <item>
-    <title>Amodei: AI saraton va Altsgeymerni davolaydi, shifokorlar shubhada</title>
-    <link>https://ailenta.uz/x/amodei-ai-saraton-va-altsgeymerni-davolaydi-shifokorlar-shub-d003a6/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/amodei-ai-saraton-va-altsgeymerni-davolaydi-shifokorlar-shub-d003a6/</guid>
-    <pubDate>Wed, 11 Nov 2026 17:28:00 GMT</pubDate>
-    <description>Anthropic rahbari Dario Amodei sun'iy intellekt o'n yil ichida saraton va Altsgeymer kasalliklarini davolashini taxmin qildi. Biroq, shifokorlar bu fikrga shubha bilan qaramoqda.</description>
-    <category>Anthropic</category><category>tibbiyot</category>
-    <media:content url="https://ailenta.uz/og/amodei-ai-saraton-va-altsgeymerni-davolaydi-shifokorlar-shub-d003a6.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/amodei-ai-saraton-va-altsgeymerni-davolaydi-shifokorlar-shub-d003a6.jpg"/>
-  </item>
-  <item>
-    <title>Yolg'on signal Jane Street ma'lumotlar markazini suv bosishiga oz qoldi</title>
-    <link>https://ailenta.uz/x/yolgon-signal-jane-street-malumotlar-markazini-suv-bosishiga-12a955/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/yolgon-signal-jane-street-malumotlar-markazini-suv-bosishiga-12a955/</guid>
-    <pubDate>Wed, 11 Nov 2026 16:38:44 GMT</pubDate>
-    <description>Nyu-Yorkdagi Jane Street kompaniyasining yagona ma'lumotlar markazida yolg'on tutun signali deyarli suv toshqiniga sabab bo'ldi. Bu hodisa jiddiy oqibatlarga olib kelishi mumkin edi.</description>
-    <category>xavfsizlik</category><category>biznes</category>
-    <media:content url="https://ailenta.uz/og/yolgon-signal-jane-street-malumotlar-markazini-suv-bosishiga-12a955.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/yolgon-signal-jane-street-malumotlar-markazini-suv-bosishiga-12a955.jpg"/>
   </item>
 </channel>
 </rss>
