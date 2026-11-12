@@ -1,5 +1,26 @@
 [
   {
+    "id": "a0aaa9419194",
+    "slug": "avito-bi-jamoasi-ai-agentlaridan-foydalanmoqda-a0aaa9",
+    "title": "Avito BI jamoasi AI agentlaridan foydalanmoqda",
+    "summary": "Avito kompaniyasining BI dasturchisi AI agentlari yordamida dashbord tayyorlash tajribasini ulashdi. Ushbu yondashuv murakkab dashbordlarni yig'ish vaqtini 20 kundan 8–10 kungacha qisqartirdi.",
+    "tags": [
+      "agentlar"
+    ],
+    "importance": 2,
+    "score": 11,
+    "published": "2026-11-12T12:48:12.000Z",
+    "created": "2026-11-12T13:15:39.923Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/companies/avito/articles/1101552",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "f31566cea4eb",
     "slug": "microsoft-minglab-shifokorlarga-ai-yordamchisini-berdi-f31566",
     "title": "Microsoft minglab shifokorlarga AI yordamchisini berdi",
