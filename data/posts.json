@@ -1,5 +1,176 @@
 [
   {
+    "id": "b05a24a66c03",
+    "slug": "robin-li-aining-keyingi-bosqichini-elon-qildi-b05a24",
+    "title": "Robin Li AI'ning keyingi bosqichini e'lon qildi",
+    "summary": "Baidu asoschisi Robin Li sun'iy intellektning keyingi bosqichi aqlli tashkilot bo'lishini aytdi. U kompaniyalarni ish jarayonlarini topshiriqlar atrofida qayta tashkil etishga chaqirdi.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-11-12T08:10:47.000Z",
+    "created": "2026-11-12T09:02:42.230Z",
+    "coverage": 1,
+    "source": {
+      "name": "TechNode",
+      "url": "https://technode.com/2026/11/12/baidus-robin-li-says-ais-next-phase-is-the-intelligent-organization-outlines-three-principles",
+      "title": "Baidu’s Robin Li says AI’s next phase is the “intelligent organization,” outlines three principles",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "a865d7bae4f0",
+    "slug": "mit-olimlari-iqlimni-prognozlovchi-ai-usulini-yaratdi-a865d7",
+    "title": "MIT olimlari iqlimni prognozlovchi AI usulini yaratdi",
+    "summary": "MIT olimlari inson faoliyatining iqlimga ta'sirini tezroq simulyatsiya qiluvchi AI modellarini yaratish uchun yangi o'qitish usulini ishlab chiqdi. Bu yondashuv iqlimni prognoz qilish modellarini tezroq yaratishga yordam beradi.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 22,
+    "published": "2026-11-12T05:00:00.000Z",
+    "created": "2026-11-12T09:02:52.004Z",
+    "coverage": 1,
+    "source": {
+      "name": "MIT News",
+      "url": "https://news.mit.edu/2026/new-research-could-lead-faster-trustworthy-ai-models-climate-prediction-1112",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "fc86c113ee7a",
+    "slug": "buxgalteriya-gen-z-uchun-daromadli-sohaga-aylanmoqda-fc86c1",
+    "title": "Buxgalteriya Gen Z uchun daromadli sohaga aylanmoqda",
+    "summary": "Ilgari buxgalteriya sun'iy intellekt yo'q qilishi taxmin qilingan va zerikarli kasb deb hisoblangan edi. Hozirda ushbu soha Z avlodi uchun yuqori daromadli martaba yo'liga aylanmoqda.",
+    "tags": [
+      "mehnat bozori"
+    ],
+    "importance": 2,
+    "score": 19,
+    "published": "2026-11-12T08:02:00.000Z",
+    "created": "2026-11-12T09:02:52.004Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/11/12/boring-accounting-job-millennials-abandoned-seasonal-tax-jobs-gen-z-six-figure-career-monster-2026",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "620856e7bbb6",
+    "slug": "jeff-bezos-ai-tufayli-bitta-maosh-yetarli-bolishini-aytdi-620856",
+    "title": "Jeff Bezos AI tufayli bitta maosh yetarli bo'lishini aytdi",
+    "summary": "Jeff Bezos sun'iy intellekt oilalarga bitta maosh bilan yashash imkonini berishini taxmin qildi. Anthropic rahbari Dario Amodei va Bill Geyts esa o'tish davri qiyin kechishidan ogohlantirdi.",
+    "tags": [
+      "biznes",
+      "mehnat bozori"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-11-12T08:01:00.000Z",
+    "created": "2026-11-12T09:02:52.004Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/11/12/jeff-bezos-ai-single-income-households-iphone-skeptics",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "89f84995331f",
+    "slug": "baidu-qianfan-platformasiga-ikkita-yangi-modelni-qoshdi-89f849",
+    "title": "Baidu Qianfan platformasiga ikkita yangi modelni qo'shdi",
+    "summary": "Baidu kompaniyasi Qianfan platformasiga ERNIE Lightning va ERNIE-Wizshot-ME modellarini joylashtirdi. ERNIE Lightning qidiruv uchun mo'ljallangan bo'lsa, Wizshot-ME portretlarni 1080p videoga aylantiradi.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-11-12T08:39:38.000Z",
+    "created": "2026-11-12T09:02:52.004Z",
+    "coverage": 1,
+    "source": {
+      "name": "Pandaily",
+      "url": "https://pandaily.com/baidu-ernie-lightning-wizshot-me-micro-expression-video-models-qianfan",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "2bd24edcdc9e",
+    "slug": "bytedance-tezroq-seedance-2-5-flash-modelini-chiqardi-2bd24e",
+    "title": "ByteDance tezroq Seedance 2.5 Flash modelini chiqardi",
+    "summary": "ByteDance kompaniyasi video yaratishni ikki baravar tezlashtiradigan Seedance 2.5 Flash modelini taqdim etdi. Yangi model 34 foizga arzonroq bo'lib, uning API kirishi 15-noyabrda ochiladi.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-11-12T08:39:30.000Z",
+    "created": "2026-11-12T09:02:52.004Z",
+    "coverage": 1,
+    "source": {
+      "name": "Pandaily",
+      "url": "https://pandaily.com/bytedance-seedance-2-5-flash-faster-lower-cost-video-model-volcano-ark-api",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "59b499240d01",
+    "slug": "baidu-token-exchange-ai-model-bozorini-ishga-tushirdi-59b499",
+    "title": "Baidu Token Exchange AI model bozorini ishga tushirdi",
+    "summary": "Baidu kompaniyasi bir nechta yetkazib beruvchilar modellarini yagona API ostida birlashtirgan Token Exchange platformasini taqdim etdi. Tizim kuniga 700 milliard tokenga xizmat ko'rsatmoqda.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-11-12T08:39:20.000Z",
+    "created": "2026-11-12T09:02:52.004Z",
+    "coverage": 1,
+    "source": {
+      "name": "Pandaily",
+      "url": "https://pandaily.com/baidu-token-exchange-model-marketplace-fingerprinting-supplier-credit-ratings",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "757de7dfb42f",
+    "slug": "tencent-50-foiz-xodimlarni-qisqartirishini-rad-etdi-757de7",
+    "title": "Tencent 50 foiz xodimlarni qisqartirishini rad etdi",
+    "summary": "Tencent kompaniyasiga yaqin manba xodimlarning yarmini qisqartirish haqidagi xabarlarni rad etdi. Avvalroq kompaniya resurslarni AI yo'nalishiga yo'naltirayotgani haqida mish-mishlar tarqalgan edi.",
+    "tags": [
+      "mehnat bozori",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-11-12T07:09:11.000Z",
+    "created": "2026-11-12T09:02:52.004Z",
+    "coverage": 1,
+    "source": {
+      "name": "TechNode",
+      "url": "https://technode.com/2026/11/12/source-close-to-tencent-denies-rumor-of-50-layoffs",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "17b3c15dff1d",
     "slug": "ozbekistonda-davlat-xizmatchilari-organilmoqda-17b3c1",
     "title": "O'zbekistonda davlat xizmatchilari o'rganilmoqda",
