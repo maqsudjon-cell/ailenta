@@ -1,5 +1,70 @@
 [
   {
+    "id": "17b3c15dff1d",
+    "slug": "ozbekistonda-davlat-xizmatchilari-organilmoqda-17b3c1",
+    "title": "O'zbekistonda davlat xizmatchilari o'rganilmoqda",
+    "summary": "O'zbekistonda davlat sektori xodimlarining sun'iy intellekt texnologiyalari sabab yuzaga keladigan o'zgarishlarga qanchalik tayyorligi aniqlanmoqda. Shu maqsadda xodimlar o'rtasida maxsus so'rovnoma o'tkazilmoqda.",
+    "tags": [
+      "O'zbekiston",
+      "mehnat bozori"
+    ],
+    "importance": 3,
+    "score": 48,
+    "published": "2026-11-12T07:44:20.000Z",
+    "created": "2026-11-12T08:03:52.100Z",
+    "coverage": 1,
+    "source": {
+      "name": "Kun.uz",
+      "url": "https://kun.uz/news/2026/11/12/davlat-xizmatchilarining-suniy-intellektga-tayyorligi-organilmoqda-60341",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "fa2869a9473a",
+    "slug": "ish-beruvchilarga-ai-tasiri-haqida-qollanma-chiqdi-fa2869",
+    "title": "Ish beruvchilarga AI ta'siri haqida qo'llanma chiqdi",
+    "summary": "Mehnat munosabatlari vaziri Amanda Rishvort Qantas va Canva kompaniyalaridagi qisqartirishlar ortidan AI bo'yicha tavsiyalar e'lon qildi. Tizim xodimlar ish soatini kamaytirishi yoki aksincha, ishni qiyinlashtirishi mumkinligi ta'kidlandi.",
+    "tags": [
+      "mehnat bozori",
+      "siyosat"
+    ],
+    "importance": 3,
+    "score": 23,
+    "published": "2026-11-12T06:55:44.000Z",
+    "created": "2026-11-12T08:03:52.101Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/technology/2026/nov/12/fewer-hours-and-higher-wages-or-more-burnout-and-surveillance-employers-told-to-prepare-for-ai",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "4ef7c8541d41",
+    "slug": "alisa-ai-foydalanuvchi-nomidan-qongiroq-qilmoqda-4ef7c8",
+    "title": "Alisa AI foydalanuvchi nomidan qo'ng'iroq qilmoqda",
+    "summary": "Alisa AI yordamchisi foydalanuvchi topshirig'i bilan tashkilot va shaxslarga qo'ng'iroq qilishni sinovdan o'tkazmoqda. U xizmatlarga yozilish, joy band qilish va savollar berib javob olish kabi vazifalarni mustaqil bajaradi.",
+    "tags": [
+      "agentlar"
+    ],
+    "importance": 3,
+    "score": 14,
+    "published": "2026-11-12T07:20:32.000Z",
+    "created": "2026-11-12T08:03:52.101Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1106924",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "f7642985a340",
     "slug": "meta-ai-xususiyatlari-narxi-va-undan-foydalanish-f76429",
     "title": "Meta AI: Xususiyatlari, narxi va undan foydalanish",
