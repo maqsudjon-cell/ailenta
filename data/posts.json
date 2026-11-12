@@ -1,5 +1,27 @@
 [
   {
+    "id": "b1bde400e8cf",
+    "slug": "openai-modeli-virtual-ordakni-boshqarishda-qollandi-b1bde4",
+    "title": "OpenAI modeli virtual o'rdakni boshqarishda qo'llandi",
+    "summary": "OpenAI modeli Microduck nomli virtual o'rdakni yurishga o'rgatish uchun ishlatildi. Ushbu tajriba sun'iy intellektning robototexnika sohasidagi imkoniyatlarini ko'rsatib berdi.",
+    "tags": [
+      "OpenAI",
+      "robototexnika"
+    ],
+    "importance": 2,
+    "score": 26,
+    "published": "2026-11-11T19:55:54.000Z",
+    "created": "2026-11-12T03:36:25.067Z",
+    "coverage": 1,
+    "source": {
+      "name": "Wired",
+      "url": "https://wired.com/story/i-trained-a-microduck-to-be-my-cats-butler",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "3707d8597189",
     "slug": "megaspeed-asoschisi-elis-xuan-xitoyga-qaytdi-3707d8",
     "title": "Megaspeed asoschisi Elis Xuan Xitoyga qaytdi",
