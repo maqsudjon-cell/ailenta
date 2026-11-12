@@ -1,5 +1,98 @@
 [
   {
+    "id": "7a40c143d10d",
+    "slug": "meta-ai-boti-moliyani-inqilob-qilmaydi-7a40c1",
+    "title": "Meta AI boti moliyani inqilob qilmaydi",
+    "summary": "Meta'ning AI boti foydalanuvchilar moliyasida inqilob qilmasligi xabar qilindi. Bloomberg.com nashri bu haqda ma'lum qildi.",
+    "tags": [
+      "Meta",
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 33,
+    "published": "2026-11-12T05:00:00.000Z",
+    "created": "2026-11-12T06:36:38.072Z",
+    "coverage": 2,
+    "source": {
+      "name": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONWJmZ01vZE41aVVUeFA2VTZyVVNFeHBLMFctdVNfd0hieVNON1gtb1gxZl9zbDNzOVVQUGNfVVd4OHd5UVltQ3hRRUZzZzdsRWtyMmRFcEp5elczUk40X0hDYm1BRlRrckwwZFlZUFB2c3gyMmI3WDE3a2pSVTMzdVA3T1BrcERmdE50N3diUkRhVk0taEZ3dVZQWEZtdFVyUVFDZHdtRXJReENwTmxwenBHMC1WaUU",
+      "indirect": true
+    },
+    "also": [
+      {
+        "name": "Howl.Link",
+        "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE5YWGUzMzQwcHozeTJRbko2cXU2NE5fdGs3alVURXNmUGpQYzgyNENXQlFnUHhIdHhRQkg4"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "a65a4c0bb030",
+    "slug": "yangi-generativ-model-gen-korrelyatsiyasini-saqlaydi-a65a4c",
+    "title": "Yangi generativ model gen korrelyatsiyasini saqlaydi",
+    "summary": "Nature jurnalida e'lon qilingan tadqiqotda gen korrelyatsiya tuzilishini saqlovchi kovariatsiyani hisobga oluvchi variatsion generativ model ishlab chiqildi. Bu model bir hujayrali transkriptomik ma'lumotlar bilan ishlashga mo'ljallangan.",
+    "tags": [
+      "tadqiqot",
+      "tibbiyot"
+    ],
+    "importance": 2,
+    "score": 23,
+    "published": "2026-11-12T00:00:00.000Z",
+    "created": "2026-11-12T06:36:38.072Z",
+    "coverage": 1,
+    "source": {
+      "name": "Nature",
+      "url": "https://nature.com/articles/s42003-026-11268-8",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "f3295cf67f08",
+    "slug": "ai-xavfsizligi-ishlab-chiqarishda-nimaga-etibor-berish-kerak-f3295c",
+    "title": "AI xavfsizligi: ishlab chiqarishda nimaga e'tibor berish kerak",
+    "summary": "Habr nashrida AI tizimlarining ishlab chiqarishdagi xavfsizligi haqida maqola chop etildi. Unda kod misollari, insidentlar tafsilotlari va AI yordamchilari bilan ishlaydigan dasturchilar uchun tavsiyalar berilgan.",
+    "tags": [
+      "xavfsizlik",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 20,
+    "published": "2026-11-12T05:40:50.000Z",
+    "created": "2026-11-12T06:36:38.072Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1106884",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "c60b6f125e54",
+    "slug": "ai-agentlari-korporativ-arxitekturadagi-xatolar-c60b6f",
+    "title": "AI agentlari korporativ arxitekturadagi xatolar",
+    "summary": "Habr nashrida AI agentlari korporativ tizimlarda yuzaga keltiradigan oltita me'moriy xato muhokama qilindi. Maqolada agentlarning jarayonlarni chetlab o'tishi va xavfsizlik muammolari ko'rsatilgan.",
+    "tags": [
+      "xavfsizlik",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 14,
+    "published": "2026-11-12T06:32:55.000Z",
+    "created": "2026-11-12T06:36:38.072Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/companies/otus/articles/1088908",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "8eebca952873",
     "slug": "tencent-yuanbao-search-ai-qidiruvini-ishga-tushirdi-8eebca",
     "title": "Tencent Yuanbao Search AI qidiruvini ishga tushirdi",
