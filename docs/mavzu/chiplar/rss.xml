@@ -5,18 +5,8 @@
   <link>https://ailenta.uz/mavzu/chiplar/</link>
   <description>&quot;chiplar&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Thu, 12 Nov 2026 04:15:54 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 12 Nov 2026 04:44:51 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/chiplar/rss.xml" rel="self" type="application/rss+xml"/>
-  <item>
-    <title>AQSh Xitoyga chip yetkazishni cheklovchi qoidani yakunlamoqda</title>
-    <link>https://ailenta.uz/x/aqsh-xitoyga-chip-yetkazishni-cheklovchi-qoidani-yakunlamoqd-b49868/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/aqsh-xitoyga-chip-yetkazishni-cheklovchi-qoidani-yakunlamoqd-b49868/</guid>
-    <pubDate>Thu, 12 Nov 2026 03:25:00 GMT</pubDate>
-    <description>AQSh Savdo vazirligi Xitoyga ilg'or AI chiplarini masofadan kirish va kontrabanda yo'li bilan yetkazishni oldini oluvchi qoidani yakunlamoqda. Bu qoida ma'lumotlar markazlari orqali amalga oshiriladigan harakatlarga qaratilgan.</description>
-    <category>siyosat</category><category>chiplar</category>
-    <media:content url="https://ailenta.uz/og/aqsh-xitoyga-chip-yetkazishni-cheklovchi-qoidani-yakunlamoqd-b49868.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/aqsh-xitoyga-chip-yetkazishni-cheklovchi-qoidani-yakunlamoqd-b49868.jpg"/>
-  </item>
   <item>
     <title>Nvidia rahbari mojarosi chip eksportini xavfga qo'ydi</title>
     <link>https://ailenta.uz/x/nvidia-rahbari-mojarosi-chip-eksportini-xavfga-qoydi-26a961/</link>
@@ -306,6 +296,16 @@
     <category>chiplar</category><category>Nvidia</category>
     <media:content url="https://ailenta.uz/og/marvell-optik-tarmoqlar-uchun-fotonikaga-sarmoya-kiritmoqda-daa010.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/marvell-optik-tarmoqlar-uchun-fotonikaga-sarmoya-kiritmoqda-daa010.jpg"/>
+  </item>
+  <item>
+    <title>AI model og'irliklariga RISC-V CPU o'rnatildi, DOOM ishga tushirildi</title>
+    <link>https://ailenta.uz/x/ai-model-ogirliklariga-risc-v-cpu-ornatildi-doom-ishga-tushi-1f8e5b/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/ai-model-ogirliklariga-risc-v-cpu-ornatildi-doom-ishga-tushi-1f8e5b/</guid>
+    <pubDate>Mon, 02 Nov 2026 13:30:00 GMT</pubDate>
+    <description>Sun'iy intellekt modelining og'irliklariga 32-bitli RISC-V CPU to'g'ridan-to'g'ri kompilyatsiya qilindi. Natijada, ushbu modelda DOOM o'yini muvaffaqiyatli ishga tushirildi.</description>
+    <category>tadqiqot</category><category>chiplar</category>
+    <media:content url="https://ailenta.uz/og/ai-model-ogirliklariga-risc-v-cpu-ornatildi-doom-ishga-tushi-1f8e5b.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/ai-model-ogirliklariga-risc-v-cpu-ornatildi-doom-ishga-tushi-1f8e5b.jpg"/>
   </item>
 </channel>
 </rss>
