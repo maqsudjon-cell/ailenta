@@ -1,5 +1,49 @@
 [
   {
+    "id": "b49868ed46c8",
+    "slug": "aqsh-xitoyga-chip-yetkazishni-cheklovchi-qoidani-yakunlamoqd-b49868",
+    "title": "AQSh Xitoyga chip yetkazishni cheklovchi qoidani yakunlamoqda",
+    "summary": "AQSh Savdo vazirligi Xitoyga ilg'or AI chiplarini masofadan kirish va kontrabanda yo'li bilan yetkazishni oldini oluvchi qoidani yakunlamoqda. Bu qoida ma'lumotlar markazlari orqali amalga oshiriladigan harakatlarga qaratilgan.",
+    "tags": [
+      "siyosat",
+      "chiplar"
+    ],
+    "importance": 4,
+    "score": 15,
+    "published": "2026-11-12T03:25:00.000Z",
+    "created": "2026-11-12T04:04:42.605Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/261111/p53",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "8eebca952873",
+    "slug": "tencent-yuanbao-ai-qidiruv-mahsulotini-ishga-tushirdi-8eebca",
+    "title": "Tencent Yuanbao AI qidiruv mahsulotini ishga tushirdi",
+    "summary": "Tencent so.qq.com va QQ Browser'da Yuanbao nomli mustaqil AI qidiruv mahsulotini taqdim etdi. U veb, WeChat va ilmiy maqolalardan AI javoblarini taqdim etadi, manbalarni ko'rsatadi.",
+    "tags": [
+      "Tencent",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-11-12T02:19:02.000Z",
+    "created": "2026-11-12T04:04:42.605Z",
+    "coverage": 1,
+    "source": {
+      "name": "Pandaily",
+      "url": "https://pandaily.com/tencent-yuanbao-search-standalone-ai-search-so-qq-com",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "b1bde400e8cf",
     "slug": "openai-modeli-virtual-ordakni-boshqarishda-qollandi-b1bde4",
     "title": "OpenAI modeli virtual o'rdakni boshqarishda qo'llandi",
