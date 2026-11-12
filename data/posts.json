@@ -1,5 +1,71 @@
 [
   {
+    "id": "a8e50be354d1",
+    "slug": "anthropic-rekord-daromadga-erishdi-a8e50b",
+    "title": "Anthropic rekord daromadga erishdi",
+    "summary": "Anthropic kompaniyasi qisqa vaqt ichida rekord darajadagi daromadga erishdi. Bu ularning moliyaviy ko'rsatkichlarida sezilarli o'sishni ko'rsatadi.",
+    "tags": [
+      "Anthropic",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 14.1,
+    "published": "2026-11-11T19:44:00.000Z",
+    "created": "2026-11-12T10:01:56.335Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNXzhDNlFDWjd0ZkVXejIyay15Z3NySWNKc3czUzdqNHJyR2lpekUxZTJkb2NUUzJ3TXVYZHJxVFZoRVlLSDBPT3F1WDFlN195VlB2RkV5VlFLWlZTS1ZOYUVPZEJLOXhJMDUxd2U2cXVYSFlFSW8xT3FlYVZJd3pyOEFJTmRnbE9sQW5yT1VxTFZzWUpIeXRRM0VR",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "6b14acc5e4a0",
+    "slug": "spaceweb-aini-avtotestlarga-jalb-qilish-modelini-yaratdi-6b14ac",
+    "title": "SpaceWeb AI'ni avtotestlarga jalb qilish modelini yaratdi",
+    "summary": "SpaceWeb kompaniyasi QA-muhandislari AI agentlarini avtotestlash jarayonlariga integratsiya qilish modelini ishlab chiqdi. Bu AI'dan test-keyslar tayyorlash va mehnat sarfini baholashda foydalanishni o'z ichiga oladi.",
+    "tags": [
+      "mehnat bozori",
+      "agentlar"
+    ],
+    "importance": 2,
+    "score": 11,
+    "published": "2026-11-12T09:39:18.000Z",
+    "created": "2026-11-12T10:01:56.335Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/companies/runity/articles/1107000",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "30242298ab33",
+    "slug": "meta-ai-kozoynaklari-terlash-muammosi-tufayli-tanqid-qilindi-302422",
+    "title": "Meta AI ko'zoynaklari terlash muammosi tufayli tanqid qilindi",
+    "summary": "Meta AI ko'zoynaklari terlash bilan bog'liq muammo yuzaga kelgani sababli tanqidlarga uchradi. Bu holat foydalanuvchilar orasida masxara qilishlarga sabab bo'ldi.",
+    "tags": [
+      "Meta",
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 3.5,
+    "published": "2026-11-11T13:14:53.000Z",
+    "created": "2026-11-12T10:01:56.335Z",
+    "coverage": 1,
+    "source": {
+      "name": "www.techtimes.co.uk",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUTNXaDNGOUlVblNKSGpXTHNHbHBFeVVkUm85Qll6QXY3MDB3SXoycFBTMnZMNnE0Nm9YallZWkVwVmNUVEcwREpLYWhWYl9OaS1ZRDltNzZpMkVrYWhIYndhWDlxbHpHdUZ5bExlS0l3YlR5Vzd5bF82cHVpMGxxcjh0Si05dXBTQm1vVndKbFQ1azNE",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "6bca75666d2b",
     "slug": "qozog-iston-imd-raqamli-va-ai-reytingida-markaziy-osiyo-yeta-6bca75",
     "title": "Qozog‘iston IMD raqamli va AI reytingida Markaziy Osiyo yetakchisi",
