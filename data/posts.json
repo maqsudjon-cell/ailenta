@@ -1,5 +1,49 @@
 [
   {
+    "id": "e7f47bdf9a71",
+    "slug": "silent-lynx-xakerlari-ai-bilan-markaziy-osiyoga-hujum-qildi-e7f47b",
+    "title": "Silent Lynx xakerlari AI bilan Markaziy Osiyoga hujum qildi",
+    "summary": "CloudSEK kiberxavfsizlik kompaniyasi Silent Lynx xakerlar guruhi Markaziy Osiyoda kiberjosuslik operatsiyasini o'tkazganini aniqladi. Hujumda AI agentlaridan foydalanilgan. Natijada Tojikistondan 2 000 dan ortiq hujjat o'g'irlangan hamda O'zbekistonning Smart Forestry platformasiga ruxsatsiz kirilgan.",
+    "tags": [
+      "xavfsizlik",
+      "O'zbekiston"
+    ],
+    "importance": 4,
+    "score": 51,
+    "published": "2026-11-12T10:25:42.000Z",
+    "created": "2026-11-12T11:01:48.137Z",
+    "coverage": 1,
+    "source": {
+      "name": "Pivot",
+      "url": "https://pivot.uz/uz/silent-lynx-xakerlari-ai-yordamida-markaziy-osiyo-davlatlariga-hujum-qildi-ozbekiston-tizimi-ham-nishonga-olindi",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "a57e4d62b90b",
+    "slug": "jensen-huangni-qollagan-koplab-izohlar-soxta-bolib-chiqdi-a57e4d",
+    "title": "Jensen Huangni qo'llagan ko'plab izohlar soxta bo'lib chiqdi",
+    "summary": "Nvidia rahbari Jensen Huangning xitoylik ayg'oqchi bilan aloqasi haqidagi xabarlardan so'ng, internetda uni qo'llab-quvvatlagan ko'plab izohlar soxta ekani ma'lum bo'ldi. Dunyoning ayrim eng boy kishilari ham uning yonini olgan.",
+    "tags": [
+      "Nvidia",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 23,
+    "published": "2026-11-12T10:00:00.000Z",
+    "created": "2026-11-12T11:01:48.138Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Washington Post",
+      "url": "https://washingtonpost.com/technology/2026/11/12/elon-musk-bill-ackman-online-bots-defend-jensen-huang-online",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "a8e50be354d1",
     "slug": "anthropic-rekord-daromadga-erishdi-a8e50b",
     "title": "Anthropic rekord daromadga erishdi",
