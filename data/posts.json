@@ -1,5 +1,47 @@
 [
   {
+    "id": "f0aa48e29df4",
+    "slug": "davlat-jamgarmalari-aiga-sarmoyani-oshirmoqda-f0aa48",
+    "title": "Davlat jamg'armalari AI'ga sarmoyani oshirmoqda",
+    "summary": "Davlat jamg'armalari sun'iy intellekt va strategik infratuzilmaga investitsiyalarni kengaytirmoqda. Xalqaro taraqqiyot banklari esa iqlimni moliyalashtirishni 120 milliard dollargacha oshirishni rejalashtirmoqda.",
+    "tags": [
+      "iqtisod"
+    ],
+    "importance": 2,
+    "score": 44,
+    "published": "2026-11-12T13:31:13.000Z",
+    "created": "2026-11-12T18:38:27.738Z",
+    "coverage": 1,
+    "source": {
+      "name": "Review.uz",
+      "url": "https://review.uz/post/jahon-matbuoti-sharhi-12-11-2026",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "9b8878698ad6",
+    "slug": "dasturchi-oltita-ai-servisni-sinovdan-otkazdi-9b8878",
+    "title": "Dasturchi oltita AI servisni sinovdan o'tkazdi",
+    "summary": "Dasturchi Pit Millspo sayt yaratuvchi oltita mashhur AI servisni taqqoslab ko'rdi. Barcha servislarga shaxsiy saytlar yaratish haqidagi chiqishlar uchun sayt ishlab chiqish topshirig'i berildi.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 11,
+    "published": "2026-11-12T18:19:09.000Z",
+    "created": "2026-11-12T18:38:27.738Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1107270",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "7ca0fec9fce8",
     "slug": "apple-til-modellarini-moslashtirish-chegaralarini-aniqladi-7ca0fe",
     "title": "Apple til modellarini moslashtirish chegaralarini aniqladi",
