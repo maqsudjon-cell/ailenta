@@ -1,5 +1,69 @@
 [
   {
+    "id": "7ca0fec9fce8",
+    "slug": "apple-til-modellarini-moslashtirish-chegaralarini-aniqladi-7ca0fe",
+    "title": "Apple til modellarini moslashtirish chegaralarini aniqladi",
+    "summary": "Apple tadqiqotchilari til modellarini inson afzalliklariga moslashtirishning nazariy cheklovlarini o'rgandi. Ular KL-regulyatsiyalangan moslashtirish bo'yicha axborot-nazariy cheklovlarni tavsifladi.",
+    "tags": [
+      "Apple",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 30.6,
+    "published": "2026-11-12T00:00:00.000Z",
+    "created": "2026-11-12T18:01:49.626Z",
+    "coverage": 1,
+    "source": {
+      "name": "Apple",
+      "url": "https://machinelearning.apple.com/research/theoretical-limits-alignment",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "fed107fd7337",
+    "slug": "saylov-mavsumida-soxta-ai-kontentlari-memlarga-aylandi-fed107",
+    "title": "Saylov mavsumida soxta AI kontentlari memlarga aylandi",
+    "summary": "Ushbu saylov mavsumida paydo bo'lgan AI feyklari o'sishi tadqiqotchilar kutganidan farqli kechdi. Odamlarni aldovchi soxtaliklar o'rniga asosan memlar ko'paygani kuzatildi.",
+    "tags": [
+      "siyosat"
+    ],
+    "importance": 3,
+    "score": 27,
+    "published": "2026-11-12T17:13:28.000Z",
+    "created": "2026-11-12T18:01:49.626Z",
+    "coverage": 1,
+    "source": {
+      "name": "The New York Times",
+      "url": "https://nytimes.com/2026/11/12/technology/artifical-intelligence-fakes-midterm-memes.html",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "5fb6d7fe9d2d",
+    "slug": "oyin-ishlab-chiquvchilar-orasida-ai-qollanishi-ortdi-5fb6d7",
+    "title": "O'yin ishlab chiquvchilar orasida AI qo'llanishi ortdi",
+    "summary": "GDC Festival of Gaming so'rovnomasiga ko'ra, ko'proq o'yin ishlab chiquvchilar o'z ishida generativ AI vositalaridan foydalanmoqda. So'ralganlarning 40 foizi AI'dan ishining bir qismi sifatida foydalanishini bildirdi.",
+    "tags": [
+      "mehnat bozori"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-11-12T17:00:00.000Z",
+    "created": "2026-11-12T18:01:49.626Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Verge",
+      "url": "https://theverge.com/games/1032085/gdc-festival-of-gaming-annual-survey-ai-layoffs",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "c9f4964f1d88",
     "slug": "qozoq-hakerlari-tojikiston-hukumat-hujjatlarini-ogirladi-c9f496",
     "title": "Qozoq hakerlari Tojikiston hukumat hujjatlarini o'g'irladi",
