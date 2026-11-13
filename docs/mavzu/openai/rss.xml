@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/openai/</link>
   <description>&quot;OpenAI&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Fri, 13 Nov 2026 03:13:13 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 13 Nov 2026 03:47:37 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/openai/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Microsoft'dagi nosozlik 74 mamlakatga ta'sir qildi</title>
+    <link>https://ailenta.uz/x/microsoftdagi-nosozlik-74-mamlakatga-tasir-qildi-a6787f/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/microsoftdagi-nosozlik-74-mamlakatga-tasir-qildi-a6787f/</guid>
+    <pubDate>Fri, 13 Nov 2026 03:20:35 GMT</pubDate>
+    <description>Microsoft servislarida yuz bergan texnik nosozlik dunyoning 74 ta mamlakat va hududiga ta'sir ko'rsatdi. Muammo nafaqat foydalanuvchilarga, balki OpenAI va Anthropic kabi kompaniyalarga ham ta'sir qildi.</description>
+    <category>Microsoft</category><category>OpenAI</category>
+    <media:content url="https://ailenta.uz/og/microsoftdagi-nosozlik-74-mamlakatga-tasir-qildi-a6787f.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/microsoftdagi-nosozlik-74-mamlakatga-tasir-qildi-a6787f.jpg"/>
+  </item>
   <item>
     <title>OpenWebUI'da katta token muammosi agentni ajratishga olib keldi</title>
     <link>https://ailenta.uz/x/openwebuida-katta-token-muammosi-agentni-ajratishga-olib-kel-f68fe8/</link>
@@ -296,16 +306,6 @@
     <category>OpenAI</category><category>biznes</category>
     <media:content url="https://ailenta.uz/og/ropes-gray-openai-bilan-birga-yuridik-ai-yaratmoqda-2d9928.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/ropes-gray-openai-bilan-birga-yuridik-ai-yaratmoqda-2d9928.jpg"/>
-  </item>
-  <item>
-    <title>Legora yuridik ishlar uchun AI tizimini yaratmoqda</title>
-    <link>https://ailenta.uz/x/legora-yuridik-ishlar-uchun-ai-tizimini-yaratmoqda-2fc8e6/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/legora-yuridik-ishlar-uchun-ai-tizimini-yaratmoqda-2fc8e6/</guid>
-    <pubDate>Wed, 28 Oct 2026 09:30:00 GMT</pubDate>
-    <description>Legora kompaniyasi yuridik jarayonlarni tezlashtirish uchun OpenAI modellaridan foydalanmoqda. Tizim shartnomalar tahlilini kengaytirib, huquqshunoslar ishini yengillashtirishga qaratilgan.</description>
-    <category>OpenAI</category><category>agentlar</category>
-    <media:content url="https://ailenta.uz/og/legora-yuridik-ishlar-uchun-ai-tizimini-yaratmoqda-2fc8e6.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/legora-yuridik-ishlar-uchun-ai-tizimini-yaratmoqda-2fc8e6.jpg"/>
   </item>
 </channel>
 </rss>
