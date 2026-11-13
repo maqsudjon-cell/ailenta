@@ -1,5 +1,70 @@
 [
   {
+    "id": "90d79223706e",
+    "slug": "gondola-codex-yordamida-daromadini-ikki-baravar-oshirdi-90d792",
+    "title": "Gondola Codex yordamida daromadini ikki baravar oshirdi",
+    "summary": "Gondola kompaniyasi Codex va ChatGPT vositalaridan foydalanib daromadini ikki baravarga oshirdi. Codex bosh muhandisning ish unumdorligini 50 foizga oshirishga yordam berdi. Sun'iy intellekt jamoaning kundalik ish jarayonini soddalashtirdi.",
+    "tags": [
+      "OpenAI",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 33,
+    "published": "2026-11-12T12:00:00.000Z",
+    "created": "2026-11-13T00:04:15.101Z",
+    "coverage": 1,
+    "source": {
+      "name": "OpenAI",
+      "url": "https://openai.com/business/customer-stories/gondola",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "cd6f5daf065d",
+    "slug": "ai-malumotlar-markazlarini-qurish-davom-etadi-cd6f5d",
+    "title": "AI ma'lumotlar markazlarini qurish davom etadi",
+    "summary": "Yirik texnologiya kompaniyalari AI loyihalariga nisbatan qarshiliklarga duch kelmoqda. Shunga qaramay, ularda yuzaga kelayotgan kechikishlarni yengib o'tish uchun yetarli resurslar mavjud.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 27,
+    "published": "2026-11-12T14:42:23.000Z",
+    "created": "2026-11-13T00:04:15.101Z",
+    "coverage": 1,
+    "source": {
+      "name": "The New York Times",
+      "url": "https://nytimes.com/2026/11/12/technology/voters-data-centers-construction.html",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "2cbaf845c56e",
+    "slug": "nvidia-qollab-quvvatlagan-nscale-ipo-hujjatlarini-yangiladi-2cbaf8",
+    "title": "Nvidia qo'llab-quvvatlagan Nscale IPO hujjatlarini yangiladi",
+    "summary": "Nvidia tomonidan moliyalashtiriladigan Nscale bulutli platformasi AQShdagi IPO uchun hujjatlarini yangiladi. Yangilangan hujjatlarga ko'ra, kompaniyaning zarari ortib bormoqda.",
+    "tags": [
+      "Nvidia",
+      "bulut"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-11-12T23:12:15.000Z",
+    "created": "2026-11-13T00:04:15.101Z",
+    "coverage": 1,
+    "source": {
+      "name": "CNBC",
+      "url": "https://cnbc.com/2026/11/12/nscale-updates-ipo-prospectus-that-shows-widening-loss.html",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "8e8861da5f70",
     "slug": "cisco-ai-infratuzilmasidan-tushum-ikki-baravar-oshishini-ayt-8e8861",
     "title": "Cisco AI infratuzilmasidan tushum ikki baravar oshishini aytdi",
