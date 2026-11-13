@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/meta/</link>
   <description>&quot;Meta&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Fri, 13 Nov 2026 06:44:45 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 13 Nov 2026 07:15:12 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/meta/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Meta 3D sahnalarni tiklash uchun yangi dataset chiqardi</title>
+    <link>https://ailenta.uz/x/meta-3d-sahnalarni-tiklash-uchun-yangi-dataset-chiqardi-68b7e7/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/meta-3d-sahnalarni-tiklash-uchun-yangi-dataset-chiqardi-68b7e7/</guid>
+    <pubDate>Fri, 13 Nov 2026 04:49:12 GMT</pubDate>
+    <description>Meta kompaniyasi Hugging Face platformasida XRStereo nomli ma'lumotlar to'plamini e'lon qildi. Ushbu dataset stereo videolardan 3D sahnalarni tiklaydigan modellarni o'qitish uchun mo'ljallangan.</description>
+    <category>Meta</category><category>Hugging Face</category>
+    <media:content url="https://ailenta.uz/og/meta-3d-sahnalarni-tiklash-uchun-yangi-dataset-chiqardi-68b7e7.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/meta-3d-sahnalarni-tiklash-uchun-yangi-dataset-chiqardi-68b7e7.jpg"/>
+  </item>
   <item>
     <title>Meta AI boti moliyani inqilob qilmaydi</title>
     <link>https://ailenta.uz/x/meta-ai-boti-moliyani-inqilob-qilmaydi-7a40c1/</link>
@@ -296,16 +306,6 @@
     <category>Meta</category><category>biznes</category>
     <media:content url="https://ailenta.uz/og/meta-ai-infratuzilmasi-uchun-kapital-yigmoqchi-8dfbd3.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/meta-ai-infratuzilmasi-uchun-kapital-yigmoqchi-8dfbd3.jpg"/>
-  </item>
-  <item>
-    <title>AMD va Meta AI sohasida hamkorlikni kengaytirmoqda</title>
-    <link>https://ailenta.uz/x/amd-va-meta-ai-sohasida-hamkorlikni-kengaytirmoqda-e86b53/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/amd-va-meta-ai-sohasida-hamkorlikni-kengaytirmoqda-e86b53/</guid>
-    <pubDate>Tue, 27 Oct 2026 07:00:00 GMT</pubDate>
-    <description>AMD va Meta kompaniyalari Helios tizimlarini sinovdan o'tkazish barobarida sun'iy intellekt sohasidagi hamkorlikni kengaytirmoqda. Bu loyiha yangi tizimlarni amalda tekshirishni o'z ichiga oladi.</description>
-    <category>AMD</category><category>Meta</category>
-    <media:content url="https://ailenta.uz/og/amd-va-meta-ai-sohasida-hamkorlikni-kengaytirmoqda-e86b53.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/amd-va-meta-ai-sohasida-hamkorlikni-kengaytirmoqda-e86b53.jpg"/>
   </item>
 </channel>
 </rss>

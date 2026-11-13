@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/hugging-face/</link>
   <description>&quot;Hugging Face&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Fri, 13 Nov 2026 06:44:45 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 13 Nov 2026 07:15:12 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/hugging-face/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Meta 3D sahnalarni tiklash uchun yangi dataset chiqardi</title>
+    <link>https://ailenta.uz/x/meta-3d-sahnalarni-tiklash-uchun-yangi-dataset-chiqardi-68b7e7/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/meta-3d-sahnalarni-tiklash-uchun-yangi-dataset-chiqardi-68b7e7/</guid>
+    <pubDate>Fri, 13 Nov 2026 04:49:12 GMT</pubDate>
+    <description>Meta kompaniyasi Hugging Face platformasida XRStereo nomli ma'lumotlar to'plamini e'lon qildi. Ushbu dataset stereo videolardan 3D sahnalarni tiklaydigan modellarni o'qitish uchun mo'ljallangan.</description>
+    <category>Meta</category><category>Hugging Face</category>
+    <media:content url="https://ailenta.uz/og/meta-3d-sahnalarni-tiklash-uchun-yangi-dataset-chiqardi-68b7e7.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/meta-3d-sahnalarni-tiklash-uchun-yangi-dataset-chiqardi-68b7e7.jpg"/>
+  </item>
   <item>
     <title>Kirin 9050 chipida 30 mlrd parametrli model ishlatildi</title>
     <link>https://ailenta.uz/x/kirin-9050-chipida-30-mlrd-parametrli-model-ishlatildi-b22522/</link>
@@ -296,16 +306,6 @@
     <category>Hugging Face</category><category>xavfsizlik</category>
     <media:content url="https://ailenta.uz/og/hugging-face-kiberhujumi-kutilgandan-jiddiyroq-boldi-2b66fb.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/hugging-face-kiberhujumi-kutilgandan-jiddiyroq-boldi-2b66fb.jpg"/>
-  </item>
-  <item>
-    <title>Hugging Face mahalliy AI uchun yangi paket taqdim etdi</title>
-    <link>https://ailenta.uz/x/hugging-face-mahalliy-ai-uchun-yangi-paket-taqdim-etdi-85562d/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/hugging-face-mahalliy-ai-uchun-yangi-paket-taqdim-etdi-85562d/</guid>
-    <pubDate>Tue, 01 Sep 2026 00:00:00 GMT</pubDate>
-    <description>Hugging Face kompaniyasi mahalliy sun'iy intellektni ishga tushirish uchun mo'ljallangan yangi paketni taqdim etdi. Ushbu to'plam o'z ichiga 200 dan ortiq WebGPU yadrolarini oladi.</description>
-    <category>Hugging Face</category>
-    <media:content url="https://ailenta.uz/og/hugging-face-mahalliy-ai-uchun-yangi-paket-taqdim-etdi-85562d.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/hugging-face-mahalliy-ai-uchun-yangi-paket-taqdim-etdi-85562d.jpg"/>
   </item>
 </channel>
 </rss>
