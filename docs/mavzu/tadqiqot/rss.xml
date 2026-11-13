@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/tadqiqot/</link>
   <description>&quot;tadqiqot&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Fri, 13 Nov 2026 16:13:36 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 13 Nov 2026 17:14:19 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/tadqiqot/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>AI Kurt Gödelning yozuvlaridagi sirlarni ochmoqda</title>
+    <link>https://ailenta.uz/x/ai-kurt-g-delning-yozuvlaridagi-sirlarni-ochmoqda-a1e895/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/ai-kurt-g-delning-yozuvlaridagi-sirlarni-ochmoqda-a1e895/</guid>
+    <pubDate>Fri, 13 Nov 2026 16:38:27 GMT</pubDate>
+    <description>Sun'iy intellekt avstriyalik matematik Kurt Gödelning 1009 sahifalik yozuvlaridagi yuzlab isbotlangan teoremalarni aniqlashga yordam bermoqda. Gödelning nashr etilmagan ishlari o'n minglab sahifalarni tashkil etadi.</description>
+    <category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/ai-kurt-g-delning-yozuvlaridagi-sirlarni-ochmoqda-a1e895.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/ai-kurt-g-delning-yozuvlaridagi-sirlarni-ochmoqda-a1e895.jpg"/>
+  </item>
   <item>
     <title>Ford'da AI loyihalash vaqtini ikki baravar qisqartirdi</title>
     <link>https://ailenta.uz/x/fordda-ai-loyihalash-vaqtini-ikki-baravar-qisqartirdi-7a3798/</link>
@@ -296,16 +306,6 @@
     <category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/ai-axborot-manbaiga-aylandi-ammo-yangilik-yaratishga-emas-ee7b3c.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/ai-axborot-manbaiga-aylandi-ammo-yangilik-yaratishga-emas-ee7b3c.jpg"/>
-  </item>
-  <item>
-    <title>Hugging Face multi-vektor embedding o'qitish usuli taklif etdi</title>
-    <link>https://ailenta.uz/x/hugging-face-multi-vektor-embedding-oqitish-usuli-taklif-etd-d2296a/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/hugging-face-multi-vektor-embedding-oqitish-usuli-taklif-etd-d2296a/</guid>
-    <pubDate>Wed, 11 Nov 2026 00:00:00 GMT</pubDate>
-    <description>Hugging Face kompaniyasi multi-vektor embedding modellarini o'qitish uchun token pooling-aware usulini taqdim etdi. Bu tadqiqot model samaradorligini oshirishga qaratilgan.</description>
-    <category>Hugging Face</category><category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/hugging-face-multi-vektor-embedding-oqitish-usuli-taklif-etd-d2296a.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/hugging-face-multi-vektor-embedding-oqitish-usuli-taklif-etd-d2296a.jpg"/>
   </item>
 </channel>
 </rss>
