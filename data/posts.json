@@ -1,5 +1,49 @@
 [
   {
+    "id": "3405e4788ebd",
+    "slug": "wildberries-ai-assistentida-spekulativ-dekodlashni-qolladi-3405e4",
+    "title": "Wildberries AI assistentida spekulativ dekodlashni qo'lladi",
+    "summary": "Wildberries o'zining BerryLM AI assistentini spekulativ dekodlash usuliga o'tkazdi. Assistent bitta xabarga o'rtacha 26 marta LLM chaqiruvini bajaradi. Yangi usul javob qaytarish tezligini oshirishga qaratilgan.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 11,
+    "published": "2026-11-13T09:36:15.000Z",
+    "created": "2026-11-13T11:06:49.555Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/companies/rwb/articles/1106046",
+      "title": "Спекулятивный декодинг в проде: сравнение методов в ИИ-ассистенте покупателя на Wildberries",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "9e417e21ccc5",
+    "slug": "aws-koinotdagi-ai-malumot-markazlarini-samarasiz-deb-bildi-9e417e",
+    "title": "AWS koinotdagi AI ma'lumot markazlarini samarasiz deb bildi",
+    "summary": "AWS bosh direktori Mett Garman koinotdagi ma'lumotlar markazlarini kelgusi bir yoki ikki o'n yillikda amaliy emas deb aytdi. U bunday loyihalarning iqtisodiy jihatdan o'zini oqlashi ehtimoldan yiroqligini bildirdi.",
+    "tags": [
+      "Amazon",
+      "bulut"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-11-13T10:33:01.000Z",
+    "created": "2026-11-13T11:07:21.052Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/aws-ceo-matt-garman-ai-data-centers-in-space-2026-11",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "772deae9fe40",
     "slug": "ukg-vakili-aining-soatbay-xodimlarga-tasirini-baholadi-772dea",
     "title": "UKG vakili AI'ning soatbay xodimlarga ta'sirini baholadi",
