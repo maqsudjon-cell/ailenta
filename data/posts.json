@@ -1,5 +1,27 @@
 [
   {
+    "id": "718ff997c5f2",
+    "slug": "malumotlar-markazlari-jamoatchilik-fikrini-chalgitmoqda-718ff9",
+    "title": "Ma'lumotlar markazlari jamoatchilik fikrini chalg'itmoqda",
+    "summary": "Yangi tadqiqotga ko'ra, ma'lumotlar markazlari sanoati aholi qarshiligini susaytirish uchun dezinformatsiya va targ'ibot usullaridan foydalanmoqda. Yirik texnologiya kompaniyalari ushbu ob'ektlar yetkazadigan zararni yashirishga urinmoqda.",
+    "tags": [
+      "bulut",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 23,
+    "published": "2026-11-13T13:00:18.000Z",
+    "created": "2026-11-13T20:01:36.848Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/commentisfree/2026/nov/13/datacenter-industry-propaganda",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "166360049c0b",
     "slug": "komil-allamjonov-universitet-yigilishida-qatnashdi-166360",
     "title": "Komil Allamjonov universitet yig'ilishida qatnashdi",
