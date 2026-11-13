@@ -1,5 +1,92 @@
 [
   {
+    "id": "ece4b84db3e9",
+    "slug": "ai-tibbiyot-xodimlarining-ishini-yengillashtirmoqda-ece4b8",
+    "title": "AI tibbiyot xodimlarining ishini yengillashtirmoqda",
+    "summary": "Sun'iy intellekt shifokorlarga kundalik vazifalarni bajarishda va bemorlarga ko'proq vaqt ajratishda yordam bermoqda. Sog'liqni saqlash tizimlari va startaplar AI'ni bemorlarni klinik sinovlarga saralash hamda radiologlarni qo'llab-quvvatlashda qo'llamoqda.",
+    "tags": [
+      "Nvidia",
+      "tibbiyot"
+    ],
+    "importance": 3,
+    "score": 33,
+    "published": "2026-11-13T13:00:42.000Z",
+    "created": "2026-11-13T15:12:37.051Z",
+    "coverage": 1,
+    "source": {
+      "name": "Nvidia",
+      "url": "https://blogs.nvidia.com/blog/how-ai-is-helping-care-teams",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "245deba2bfd0",
+    "slug": "silikon-vodiysi-rahbarlari-saylovlarda-adashdi-245deb",
+    "title": "Silikon vodiysi rahbarlari saylovlarda adashdi",
+    "summary": "OpenAI rahbari Sam Altman va Elon Musk kabi Silikon vodiysi yetakchilari kelajakni bashorat qilish bilan tanilgan. Biroq ular AQShdagi oraliq saylovlar natijalarini to'g'ri baholay olmadi.",
+    "tags": [
+      "OpenAI",
+      "siyosat"
+    ],
+    "importance": 3,
+    "score": 23,
+    "published": "2026-11-13T10:00:00.000Z",
+    "created": "2026-11-13T15:12:37.051Z",
+    "coverage": 1,
+    "source": {
+      "name": "MIT Technology Review",
+      "url": "https://technologyreview.com/2026/11/13/1148498/silicon-valley-claims-to-know-the-future-so-why-did-it-get-the-midterms-so-wrong",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "f2a831455755",
+    "slug": "ai-agentlari-yevropa-banklari-uchun-xavf-tugdirmoqda-f2a831",
+    "title": "AI agentlari Yevropa banklari uchun xavf tug'dirmoqda",
+    "summary": "Binance yo'qotgan 6,3 milliard dollarlik zaifliklar Yevropa banklarida ham kuzatilmoqda. Mutaxassislarga ko'ra, sun'iy intellekt agentlari an'anaviy moliya tizimi uchun yanada kattaroq xavf tug'dirishi mumkin.",
+    "tags": [
+      "agentlar",
+      "iqtisod"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-11-13T13:40:24.000Z",
+    "created": "2026-11-13T15:12:37.051Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/11/13/the-weaknesses-that-cost-binance-6-3-billion-are-already-hitting-europes-banks",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "929f1b6e1042",
+    "slug": "yevropa-ittifoqining-ai-sammiti-soyada-qolishi-kutilmoqda-929f1b",
+    "title": "Yevropa Ittifoqining AI sammiti soyada qolishi kutilmoqda",
+    "summary": "Yevropa Ittifoqining sun'iy intellekt bo'yicha sammiti Ukraina urushi sababli ikkinchi darajaga tushib qolishi kutilmoqda. Tashkilotning AI sohasidagi harakatlari hozirgacha belgilangan maqsadlarga to'liq erishgani yo'q.",
+    "tags": [
+      "siyosat"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-11-13T11:46:50.000Z",
+    "created": "2026-11-13T15:12:37.051Z",
+    "coverage": 1,
+    "source": {
+      "name": "Semafor",
+      "url": "https://semafor.com/article/11/13/2026/european-leaders-ai-summit-expected-to-be-overshadowed-by-ukraine-war",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "54fcd66a9de2",
     "slug": "jar-prezidenti-ai-investitsiyalarini-jalb-qilmoqchi-54fcd6",
     "title": "JAR prezidenti AI investitsiyalarini jalb qilmoqchi",
