@@ -1,5 +1,93 @@
 [
   {
+    "id": "10ab37804642",
+    "slug": "ai-apple-ilova-tekshiruvini-murakkablashtirmoqda-10ab37",
+    "title": "AI Apple ilova tekshiruvini murakkablashtirmoqda",
+    "summary": "Sun'iy intellekt Apple'ning ilovalarni tekshirish jarayonini sintezator dasturchilari uchun qiyinlashtirmoqda. Bu holat dasturchilar uchun muammolarni keltirib chiqarmoqda.",
+    "tags": [
+      "Apple",
+      "mehnat bozori"
+    ],
+    "importance": 2,
+    "score": 17.6,
+    "published": "2026-11-12T21:09:49.000Z",
+    "created": "2026-11-13T00:36:16.297Z",
+    "coverage": 1,
+    "source": {
+      "name": "Hacker News",
+      "url": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "2b4a13dbe497",
+    "slug": "ai-mualliflik-huquqi-kelishuvida-yozuvchi-ulush-oldi-2b4a13",
+    "title": "AI mualliflik huquqi kelishuvida yozuvchi ulush oldi",
+    "summary": "AI bo'yicha muhim mualliflik huquqi kelishuvida Keene shahridan bir yozuvchi ulushga ega bo'ldi. Bu kelishuv sohada muhim ahamiyatga ega.",
+    "tags": [
+      "qonun",
+      "sud"
+    ],
+    "importance": 3,
+    "score": 7,
+    "published": "2026-11-12T23:21:05.000Z",
+    "created": "2026-11-13T00:36:16.297Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Keene Sentinel",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPaEN6YnRaWXBZbE9LZk1KTEVJN21oM0NtRlo5ZFExMFNuVElHTzB3bU1jWW1mMFREYTRkSjRIYUdNdXdBMzY4ZU90THQzR0lxQlhFallIYTItSnZ3VXpFZnp6eUtuLUpMTmJlWTZiT2g5RDFsemxUUmFoVGNiT1dmUTZzWlM5UmE1cWU4SWxROTZ3YzZPMXR0Z1htMXU1cjhJcmhHaEpqemp4UnlMb19SdWFtUHpjRUVhYTZHVzh3bEdKM2wtM0xzTDgxOVF3djRwV2dCc3NvWXIyZDQ0SGJ6aUJ1LXYwMkRP",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "3901ced450a6",
+    "slug": "ucla-ai-kompaniyalari-bilan-masuliyatni-muhokama-qildi-3901ce",
+    "title": "UCLA AI kompaniyalari bilan mas'uliyatni muhokama qildi",
+    "summary": "UCLA universiteti AI kompaniyalari bilan aloqalari mas'uliyatni talab qilishini ta'kidladi. Tadqiqotchilar bu masalani hal qilishlari kerakligi aytildi.",
+    "tags": [
+      "ta'lim",
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 7,
+    "published": "2026-11-12T22:43:00.000Z",
+    "created": "2026-11-13T00:36:16.297Z",
+    "coverage": 1,
+    "source": {
+      "name": "Daily Bruin",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPV2NWbEIxWkI0eE1icnNua3JkZmRsVFpabFgzM1NpVzllRGpQeV9vaFpJdldublkwZmhtYU1KZzZKYWlrT2xWV2U4WFo0a19iN3pMTzJCa2VDWXNxOHE5b2J0TTZyYk82U0ZrWURqblZDQTZneG85VWtJWTJ3OXVlcl9la2QtTW50cjU3OGZRcENnVGdsZ21uUzJLa3ZuTUxwM09tYlpJbWdiZzhmM1B2QWotSEdPdw",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "ad3fc55077be",
+    "slug": "ai-xarajatlari-oshishi-kassa-oqimi-xavfini-tugdirmoqda-ad3fc5",
+    "title": "AI xarajatlari oshishi kassa oqimi xavfini tug'dirmoqda",
+    "summary": "AI xarajatlari ortib borayotgani sababli, moliyaviy direktorlar (CFOlar) kassa oqimi bilan bog'liq xavflarga duch kelmoqda. Bu kompaniyalar uchun moliyaviy qiyinchiliklarni keltirib chiqarishi mumkin.",
+    "tags": [
+      "iqtisod",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 7,
+    "published": "2026-11-12T21:27:36.000Z",
+    "created": "2026-11-13T00:36:16.297Z",
+    "coverage": 1,
+    "source": {
+      "name": "CFO Dive",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbWU3bU1CNmVsclJLRFdXVkFqNC1Fb25nSE9teEpjd1liRTMxUkVfQ3ZjVElOSUNfRE5CZlJzZWh3OW5aZFdhX2VoeFpxUWFaMWFnSnNjdTlTeWtDWFNyeVJyVVFZZkZ5NnczS0g2dmxrLXJSRUtwT3NiT0FyeGF6NnJ1YS1jS3M",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "90d79223706e",
     "slug": "gondola-codex-yordamida-daromadini-ikki-baravar-oshirdi-90d792",
     "title": "Gondola Codex yordamida daromadini ikki baravar oshirdi",
