@@ -5,8 +5,28 @@
   <link>https://ailenta.uz</link>
   <description>Dunyodagi sun'iy intellekt yangiliklari o'zbek tilida. Har soatda yangilanadi, har bir xabarda asl manbaga havola.</description>
   <language>uz</language>
-  <lastBuildDate>Fri, 13 Nov 2026 02:37:33 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 13 Nov 2026 03:13:13 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>HiSilicon CS6286 sensori AI bilan dashcam quvvatini oshirdi</title>
+    <link>https://ailenta.uz/x/hisilicon-cs6286-sensori-ai-bilan-dashcam-quvvatini-oshirdi-b7598c/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/hisilicon-cs6286-sensori-ai-bilan-dashcam-quvvatini-oshirdi-b7598c/</guid>
+    <pubDate>Fri, 13 Nov 2026 02:32:44 GMT</pubDate>
+    <description>HiSilicon kompaniyasi CS6286 nomli yangi tasvir sensorini taqdim etdi. Unda 50 GOPS quvvatga ega AI dvigateli mavjud bo'lib, dashcamlarning kuzatuv rejimini yetti kundan ortiq uzaytiradi.</description>
+    <category>chiplar</category>
+    <media:content url="https://ailenta.uz/og/hisilicon-cs6286-sensori-ai-bilan-dashcam-quvvatini-oshirdi-b7598c.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/hisilicon-cs6286-sensori-ai-bilan-dashcam-quvvatini-oshirdi-b7598c.jpg"/>
+  </item>
+  <item>
+    <title>Alibaba Qwen3.8 modeli G'arb dunyoqarashiga moslashtirildi</title>
+    <link>https://ailenta.uz/x/alibaba-qwen3-8-modeli-garb-dunyoqarashiga-moslashtirildi-04770e/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/alibaba-qwen3-8-modeli-garb-dunyoqarashiga-moslashtirildi-04770e/</guid>
+    <pubDate>Fri, 13 Nov 2026 01:25:00 GMT</pubDate>
+    <description>Alibaba kompaniyasining Qwen3.8 ochiq og'irlikli AI modeli G'arb dunyoqarashiga moslashtirildi. Endi u Xitoy hukumati yoqtirmaydigan fikrlarni ham ifodalay oladi.</description>
+    <category>Alibaba</category><category>ochiq model</category>
+    <media:content url="https://ailenta.uz/og/alibaba-qwen3-8-modeli-garb-dunyoqarashiga-moslashtirildi-04770e.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/alibaba-qwen3-8-modeli-garb-dunyoqarashiga-moslashtirildi-04770e.jpg"/>
+  </item>
   <item>
     <title>AI mualliflik huquqi kelishuvida yozuvchi ulush oldi</title>
     <link>https://ailenta.uz/x/ai-mualliflik-huquqi-kelishuvida-yozuvchi-ulush-oldi-2b4a13/</link>
@@ -486,26 +506,6 @@
     <category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/bytedance-tezroq-seedance-2-5-flash-modelini-chiqardi-2bd24e.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/bytedance-tezroq-seedance-2-5-flash-modelini-chiqardi-2bd24e.jpg"/>
-  </item>
-  <item>
-    <title>Baidu Token Exchange AI model bozorini ishga tushirdi</title>
-    <link>https://ailenta.uz/x/baidu-token-exchange-ai-model-bozorini-ishga-tushirdi-59b499/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/baidu-token-exchange-ai-model-bozorini-ishga-tushirdi-59b499/</guid>
-    <pubDate>Thu, 12 Nov 2026 08:39:20 GMT</pubDate>
-    <description>Baidu kompaniyasi bir nechta yetkazib beruvchilar modellarini yagona API ostida birlashtirgan Token Exchange platformasini taqdim etdi. Tizim kuniga 700 milliard tokenga xizmat ko'rsatmoqda.</description>
-    <category>biznes</category>
-    <media:content url="https://ailenta.uz/og/baidu-token-exchange-ai-model-bozorini-ishga-tushirdi-59b499.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/baidu-token-exchange-ai-model-bozorini-ishga-tushirdi-59b499.jpg"/>
-  </item>
-  <item>
-    <title>raea: JSX yordamida Rustda animatsiyalar yaratish imkoniyati</title>
-    <link>https://ailenta.uz/x/raea-jsx-yordamida-rustda-animatsiyalar-yaratish-imkoniyati-9fb1ed/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/raea-jsx-yordamida-rustda-animatsiyalar-yaratish-imkoniyati-9fb1ed/</guid>
-    <pubDate>Thu, 12 Nov 2026 08:37:47 GMT</pubDate>
-    <description>raea platformasi 9-noyabrda ishga tushirildi. U React yordamida sahnalarni yozish va Bevy o‘yin dvigateli orqali Rustda kadrlar chizish imkonini beradi. Bu brauzersiz animatsiyalar yaratishga mo‘ljallangan.</description>
-    <category>tadqiqot</category><category>dasturlash</category>
-    <media:content url="https://ailenta.uz/og/raea-jsx-yordamida-rustda-animatsiyalar-yaratish-imkoniyati-9fb1ed.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/raea-jsx-yordamida-rustda-animatsiyalar-yaratish-imkoniyati-9fb1ed.jpg"/>
   </item>
 </channel>
 </rss>

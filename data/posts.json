@@ -1,5 +1,48 @@
 [
   {
+    "id": "04770e7c192a",
+    "slug": "alibaba-qwen3-8-modeli-garb-dunyoqarashiga-moslashtirildi-04770e",
+    "title": "Alibaba Qwen3.8 modeli G'arb dunyoqarashiga moslashtirildi",
+    "summary": "Alibaba kompaniyasining Qwen3.8 ochiq og'irlikli AI modeli G'arb dunyoqarashiga moslashtirildi. Endi u Xitoy hukumati yoqtirmaydigan fikrlarni ham ifodalay oladi.",
+    "tags": [
+      "Alibaba",
+      "ochiq model"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-11-13T01:25:00.000Z",
+    "created": "2026-11-13T03:01:32.839Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/ai-and-ml/2026/11/13/alibabas-qwen38-re-educated-with-a-more-western-worldview/5309555",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "b7598ccdccf8",
+    "slug": "hisilicon-cs6286-sensori-ai-bilan-dashcam-quvvatini-oshirdi-b7598c",
+    "title": "HiSilicon CS6286 sensori AI bilan dashcam quvvatini oshirdi",
+    "summary": "HiSilicon kompaniyasi CS6286 nomli yangi tasvir sensorini taqdim etdi. Unda 50 GOPS quvvatga ega AI dvigateli mavjud bo'lib, dashcamlarning kuzatuv rejimini yetti kundan ortiq uzaytiradi.",
+    "tags": [
+      "chiplar"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-11-13T02:32:44.000Z",
+    "created": "2026-11-13T03:01:32.839Z",
+    "coverage": 1,
+    "source": {
+      "name": "Pandaily",
+      "url": "https://pandaily.com/hisilicon-cs6286-8mp-image-sensor-on-sensor-ai-dashcam-sentry-mode",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "10ab37804642",
     "slug": "ai-apple-ilova-tekshiruvini-murakkablashtirmoqda-10ab37",
     "title": "AI Apple ilova tekshiruvini murakkablashtirmoqda",
