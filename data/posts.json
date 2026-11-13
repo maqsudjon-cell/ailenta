@@ -1,5 +1,70 @@
 [
   {
+    "id": "54fcd66a9de2",
+    "slug": "jar-prezidenti-ai-investitsiyalarini-jalb-qilmoqchi-54fcd6",
+    "title": "JAR prezidenti AI investitsiyalarini jalb qilmoqchi",
+    "summary": "Janubiy Afrika Respublikasi prezidenti Ramafosa AI bo'yicha investitsiya jalb qilish maqsadida Kaliforniyaga safar qiladi. U bu orqali Vashingtondagi muammolardan chetlanishni ko'zlamoqda.",
+    "tags": [
+      "biznes",
+      "siyosat"
+    ],
+    "importance": 2,
+    "score": 19,
+    "published": "2026-11-13T12:55:50.000Z",
+    "created": "2026-11-13T13:03:46.233Z",
+    "coverage": 1,
+    "source": {
+      "name": "Semafor",
+      "url": "https://semafor.com/article/11/13/2026/s-africas-ramaphosa-takes-ai-pitch-to-musk-turf",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "7a37985488bf",
+    "slug": "fordda-ai-loyihalash-vaqtini-ikki-baravar-qisqartirdi-7a3798",
+    "title": "Ford'da AI loyihalash vaqtini ikki baravar qisqartirdi",
+    "summary": "Ford kompaniyasida 40 yildan buyon loydan avtomobil modellari yasovchi mutaxassis AI va virtual reallik vositalari orqali ish vaqtini ikki baravarga qisqartirdi. Zavodlarda 3D bosma qismlari va VR ko'zoynaklari joriy etilmoqda.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 19,
+    "published": "2026-11-13T12:30:00.000Z",
+    "created": "2026-11-13T13:03:46.233Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/11/13/ford-rebirth-clay-sculptor-virtual-reality-glasses-ai",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "4ae3018d7917",
+    "slug": "ai-chatbotlari-soxta-dokon-saytlarini-tavsiya-qilmoqda-4ae301",
+    "title": "AI chatbotlari soxta do'kon saytlarini tavsiya qilmoqda",
+    "summary": "Podqi kompaniyasi o'tkazgan tadqiqotga ko'ra, xarid qilishda AI chatbotlaridan foydalanish xaridorlarni soxta va xavfli saytlarga yo'naltirishi mumkin. Sinov jarayonida ChatGPT, Gemini va Perplexity xizmatlariga xaridga oid so'rovlar berilgan.",
+    "tags": [
+      "xavfsizlik",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 17.8,
+    "published": "2026-11-12T17:00:00.000Z",
+    "created": "2026-11-13T13:03:46.233Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Verge",
+      "url": "https://theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "62e52b4bd2de",
     "slug": "chip-cheklovlari-aiga-salbiy-tasir-korsatishi-mumkin-62e52b",
     "title": "Chip cheklovlari AI'ga salbiy ta'sir ko'rsatishi mumkin",
