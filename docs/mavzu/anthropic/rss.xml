@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/anthropic/</link>
   <description>&quot;Anthropic&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Fri, 13 Nov 2026 21:13:20 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 13 Nov 2026 21:48:30 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/anthropic/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Claude modelidagi xatoliklarni tasniflash</title>
+    <link>https://ailenta.uz/x/claude-modelidagi-xatoliklarni-tasniflash-8e9572/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/claude-modelidagi-xatoliklarni-tasniflash-8e9572/</guid>
+    <pubDate>Fri, 13 Nov 2026 20:28:23 GMT</pubDate>
+    <description>Ingliz tili o'qituvchisi Claude bilan ishlash jarayonida model takrorlaydigan xatoliklar ro'yxatini tuzdi. U bu xatoliklarni &quot;Klodizmlar&quot; deb ataydi.</description>
+    <category>tadqiqot</category><category>Anthropic</category>
+    <media:content url="https://ailenta.uz/og/claude-modelidagi-xatoliklarni-tasniflash-8e9572.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/claude-modelidagi-xatoliklarni-tasniflash-8e9572.jpg"/>
+  </item>
   <item>
     <title>Foydalanuvchi Anthropic'ning yashirin saytlar ro'yxatini topdi</title>
     <link>https://ailenta.uz/x/foydalanuvchi-anthropicning-yashirin-saytlar-royxatini-topdi-3ff22c/</link>
@@ -296,16 +306,6 @@
     <category>Anthropic</category><category>agentlar</category>
     <media:content url="https://ailenta.uz/og/ai-agentlari-pr-tavsiflarini-juda-batafsil-yozmoqda-6ee1de.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/ai-agentlari-pr-tavsiflarini-juda-batafsil-yozmoqda-6ee1de.jpg"/>
-  </item>
-  <item>
-    <title>Tencent olimi AI biologiyada xavf tug'dirishini aytdi</title>
-    <link>https://ailenta.uz/x/tencent-olimi-ai-biologiyada-xavf-tugdirishini-aytdi-477d20/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/tencent-olimi-ai-biologiyada-xavf-tugdirishini-aytdi-477d20/</guid>
-    <pubDate>Mon, 09 Nov 2026 03:15:01 GMT</pubDate>
-    <description>Tencent kompaniyasining bosh AI olimi Yao Shunyu sun'iy intellekt tez orada biologiyani o'zlashtirib, zarar yetkazish imkoniyatiga ega bo'lishini bildirdi. Uning ta'kidlashicha, Anthropic yopiq modellar foydasiga kuchli dalillarga ega.</description>
-    <category>Anthropic</category><category>xavfsizlik</category>
-    <media:content url="https://ailenta.uz/og/tencent-olimi-ai-biologiyada-xavf-tugdirishini-aytdi-477d20.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/tencent-olimi-ai-biologiyada-xavf-tugdirishini-aytdi-477d20.jpg"/>
   </item>
 </channel>
 </rss>

@@ -5,7 +5,7 @@
   <link>https://ailenta.uz/mavzu/bulut/</link>
   <description>&quot;bulut&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Fri, 13 Nov 2026 21:13:20 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 13 Nov 2026 21:48:30 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/bulut/rss.xml" rel="self" type="application/rss+xml"/>
   <item>
     <title>Ma'lumotlar markazlari jamoatchilik fikrini chalg'itmoqda</title>
@@ -26,6 +26,16 @@
     <category>Amazon</category><category>bulut</category>
     <media:content url="https://ailenta.uz/og/aws-koinotdagi-ai-malumot-markazlarini-samarasiz-deb-bildi-9e417e.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/aws-koinotdagi-ai-malumot-markazlarini-samarasiz-deb-bildi-9e417e.jpg"/>
+  </item>
+  <item>
+    <title>AI Marketplace nima: AWS, Hugging Face va OpenRouter</title>
+    <link>https://ailenta.uz/x/ai-marketplace-nima-aws-hugging-face-va-openrouter-d5c5bc/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/ai-marketplace-nima-aws-hugging-face-va-openrouter-d5c5bc/</guid>
+    <pubDate>Fri, 13 Nov 2026 08:38:22 GMT</pubDate>
+    <description>AI Magazine nashri AI Marketplace tushunchasini tushuntirib berdi. Maqolada AWS, Hugging Face va OpenRouter kabi platformalar misol qilib keltirilgan.</description>
+    <category>bulut</category><category>Hugging Face</category>
+    <media:content url="https://ailenta.uz/og/ai-marketplace-nima-aws-hugging-face-va-openrouter-d5c5bc.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/ai-marketplace-nima-aws-hugging-face-va-openrouter-d5c5bc.jpg"/>
   </item>
   <item>
     <title>Samsung Modine Manufacturing'ni sotib olishi mumkin</title>
@@ -296,16 +306,6 @@
     <category>bulut</category>
     <media:content url="https://ailenta.uz/og/malumot-markazlari-eski-reaktiv-dvigatellardan-foydalanmoqda-97ea38.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/malumot-markazlari-eski-reaktiv-dvigatellardan-foydalanmoqda-97ea38.jpg"/>
-  </item>
-  <item>
-    <title>Drax Britaniyada 20 mlrd funtlik datamarkaz qurmoqchi</title>
-    <link>https://ailenta.uz/x/drax-britaniyada-20-mlrd-funtlik-datamarkaz-qurmoqchi-f38467/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/drax-britaniyada-20-mlrd-funtlik-datamarkaz-qurmoqchi-f38467/</guid>
-    <pubDate>Tue, 03 Nov 2026 13:27:33 GMT</pubDate>
-    <description>Drax kompaniyasi Buyuk Britaniyadagi elektr stansiyasida 20 milliard funtlik ma'lumot markazi qurishni rejalashtirmoqda. Loyihani amalga oshirish uchun rejalashtirish ruxsati, hukumat ma'qullashi va mijoz topish talab etiladi.</description>
-    <category>bulut</category><category>biznes</category>
-    <media:content url="https://ailenta.uz/og/drax-britaniyada-20-mlrd-funtlik-datamarkaz-qurmoqchi-f38467.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/drax-britaniyada-20-mlrd-funtlik-datamarkaz-qurmoqchi-f38467.jpg"/>
   </item>
 </channel>
 </rss>
