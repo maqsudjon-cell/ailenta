@@ -1,5 +1,49 @@
 [
   {
+    "id": "f26df73e335c",
+    "slug": "ai-matnini-aniqlashda-inson-va-mashina-ozaro-bogliqligi-f26df7",
+    "title": "AI matnini aniqlashda inson va mashina o'zaro bog'liqligi",
+    "summary": "AI tomonidan yaratilgan matnlarni aniqlashda insonlar mashina detektorlariga tayanmoqda. Bu holat Tyuring testining yangi talqinini keltirib chiqarib, inson va AI o'rtasidagi farqni xiralashtirmoqda.",
+    "tags": [
+      "tadqiqot",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 11,
+    "published": "2026-11-14T08:00:15.000Z",
+    "created": "2026-11-14T08:03:43.696Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1107708",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "043ae30d3d14",
+    "slug": "aini-dasturiy-taminot-ishlab-chiqishga-integratsiya-qilish-043ae3",
+    "title": "AI'ni dasturiy ta'minot ishlab chiqishga integratsiya qilish",
+    "summary": "Bir SaaS kompaniyasi AI'ni dasturiy ta'minot ishlab chiqishga joriy etishning olti bosqichini bosib o'tdi. Ular AI chatidan kod nusxalashdan to'liq agentlar tomonidan funksiyalarni yaratishgacha yetib kelishdi. Hozirda yarim avtonom agent fabrikasi sinovdan o'tkazilmoqda.",
+    "tags": [
+      "biznes",
+      "bulut"
+    ],
+    "importance": 3,
+    "score": 11,
+    "published": "2026-11-14T02:20:32.000Z",
+    "created": "2026-11-14T08:03:43.696Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1106718",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "56962616d8a3",
     "slug": "tencent-hunyuan-hy-realtime-ovoz-modeli-yangilandi-569626",
     "title": "Tencent Hunyuan Hy Realtime ovoz modeli yangilandi",

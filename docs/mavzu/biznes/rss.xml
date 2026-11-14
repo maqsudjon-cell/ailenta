@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/biznes/</link>
   <description>&quot;biznes&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Sat, 14 Nov 2026 07:12:17 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 14 Nov 2026 08:12:53 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/biznes/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>AI'ni dasturiy ta'minot ishlab chiqishga integratsiya qilish</title>
+    <link>https://ailenta.uz/x/aini-dasturiy-taminot-ishlab-chiqishga-integratsiya-qilish-043ae3/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/aini-dasturiy-taminot-ishlab-chiqishga-integratsiya-qilish-043ae3/</guid>
+    <pubDate>Sat, 14 Nov 2026 02:20:32 GMT</pubDate>
+    <description>Bir SaaS kompaniyasi AI'ni dasturiy ta'minot ishlab chiqishga joriy etishning olti bosqichini bosib o'tdi. Ular AI chatidan kod nusxalashdan to'liq agentlar tomonidan funksiyalarni yaratishgacha yetib kelishdi. Hozirda yarim avtonom agent fabrikasi sinovdan o'tkazilmoqda.</description>
+    <category>biznes</category><category>bulut</category>
+    <media:content url="https://ailenta.uz/og/aini-dasturiy-taminot-ishlab-chiqishga-integratsiya-qilish-043ae3.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/aini-dasturiy-taminot-ishlab-chiqishga-integratsiya-qilish-043ae3.jpg"/>
+  </item>
   <item>
     <title>Moonshot AI IPOga tayyorgarlik ko'rmoqda</title>
     <link>https://ailenta.uz/x/moonshot-ai-ipoga-tayyorgarlik-kormoqda-d39ade/</link>
@@ -296,16 +306,6 @@
     <category>mehnat bozori</category><category>biznes</category>
     <media:content url="https://ailenta.uz/og/tencent-50-foiz-xodimlarni-qisqartirishini-rad-etdi-757de7.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/tencent-50-foiz-xodimlarni-qisqartirishini-rad-etdi-757de7.jpg"/>
-  </item>
-  <item>
-    <title>AI agentlari korporativ arxitekturadagi xatolar</title>
-    <link>https://ailenta.uz/x/ai-agentlari-korporativ-arxitekturadagi-xatolar-c60b6f/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/ai-agentlari-korporativ-arxitekturadagi-xatolar-c60b6f/</guid>
-    <pubDate>Thu, 12 Nov 2026 06:32:55 GMT</pubDate>
-    <description>Habr nashrida AI agentlari korporativ tizimlarda yuzaga keltiradigan oltita me'moriy xato muhokama qilindi. Maqolada agentlarning jarayonlarni chetlab o'tishi va xavfsizlik muammolari ko'rsatilgan.</description>
-    <category>xavfsizlik</category><category>biznes</category>
-    <media:content url="https://ailenta.uz/og/ai-agentlari-korporativ-arxitekturadagi-xatolar-c60b6f.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/ai-agentlari-korporativ-arxitekturadagi-xatolar-c60b6f.jpg"/>
   </item>
 </channel>
 </rss>
