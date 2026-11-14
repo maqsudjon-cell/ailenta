@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://ailenta.uz/x/ai-adabiyot-dunyosini-larzaga-soldi-623a16/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>AI Lenta</news:name>
+        <news:language>uz</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-14T09:00:40.000Z</news:publication_date>
+      <news:title>AI adabiyot dunyosini larzaga soldi</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://ailenta.uz/x/ai-matnini-aniqlashda-inson-va-mashina-ozaro-bogliqligi-f26df7/</loc>
     <news:news>
       <news:publication>
@@ -945,28 +956,6 @@
       </news:publication>
       <news:publication_date>2026-11-12T10:00:00.000Z</news:publication_date>
       <news:title>Jensen Huangni qo'llagan ko'plab izohlar soxta bo'lib chiqdi</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://ailenta.uz/x/spaceweb-aini-avtotestlarga-jalb-qilish-modelini-yaratdi-6b14ac/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>AI Lenta</news:name>
-        <news:language>uz</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-12T09:39:18.000Z</news:publication_date>
-      <news:title>SpaceWeb AI'ni avtotestlarga jalb qilish modelini yaratdi</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://ailenta.uz/x/qozog-iston-imd-raqamli-va-ai-reytingida-markaziy-osiyo-yeta-6bca75/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>AI Lenta</news:name>
-        <news:language>uz</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-12T09:23:50.000Z</news:publication_date>
-      <news:title>Qozog‘iston IMD raqamli va AI reytingida Markaziy Osiyo yetakchisi</news:title>
     </news:news>
   </url>
 </urlset>
