@@ -5,7 +5,7 @@
   <link>https://ailenta.uz/mavzu/tadqiqot/</link>
   <description>&quot;tadqiqot&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Sat, 14 Nov 2026 08:12:53 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 14 Nov 2026 09:13:25 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/tadqiqot/rss.xml" rel="self" type="application/rss+xml"/>
   <item>
     <title>AI matnini aniqlashda inson va mashina o'zaro bog'liqligi</title>
@@ -16,6 +16,16 @@
     <category>tadqiqot</category><category>xavfsizlik</category>
     <media:content url="https://ailenta.uz/og/ai-matnini-aniqlashda-inson-va-mashina-ozaro-bogliqligi-f26df7.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/ai-matnini-aniqlashda-inson-va-mashina-ozaro-bogliqligi-f26df7.jpg"/>
+  </item>
+  <item>
+    <title>Fotosuratdan 3D-model yaratuvchi AI muammolari</title>
+    <link>https://ailenta.uz/x/fotosuratdan-3d-model-yaratuvchi-ai-muammolari-6a9324/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/fotosuratdan-3d-model-yaratuvchi-ai-muammolari-6a9324/</guid>
+    <pubDate>Sat, 14 Nov 2026 07:18:11 GMT</pubDate>
+    <description>Neyron tarmoqlar fotosuratlardan 3D-modellarni hosil qilishi mumkin. Biroq hosil bo'lgan fayllarda o'lcham xatolari va texnik nuqsonlar uchraydi. AI muhandisi Artyom Kuznetsov shu haqda ma'lumot berdi.</description>
+    <category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/fotosuratdan-3d-model-yaratuvchi-ai-muammolari-6a9324.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/fotosuratdan-3d-model-yaratuvchi-ai-muammolari-6a9324.jpg"/>
   </item>
   <item>
     <title>AI ikki yilda kuchli tadqiqotchilarga tenglashishi mumkin</title>
@@ -296,16 +306,6 @@
     <category>biznes</category><category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/aqsh-brokerlari-xitoyga-ai-malumotlarini-sotmoqda-281df3.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/aqsh-brokerlari-xitoyga-ai-malumotlarini-sotmoqda-281df3.jpg"/>
-  </item>
-  <item>
-    <title>DeepL ovozli tarjima uchun yangi Aure modelini taqdim etdi</title>
-    <link>https://ailenta.uz/x/deepl-ovozli-tarjima-uchun-yangi-aure-modelini-taqdim-etdi-721822/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/deepl-ovozli-tarjima-uchun-yangi-aure-modelini-taqdim-etdi-721822/</guid>
-    <pubDate>Wed, 11 Nov 2026 13:50:30 GMT</pubDate>
-    <description>DeepL kompaniyasi DeepL Voice uchun mo'ljallangan yangi Aure modelini e'lon qildi. Ushbu model real vaqtdagi tarjimalarda so'zlovchining ohangi, hissiyoti, urg'usi va gapirish tempini saqlab qoladi.</description>
-    <category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/deepl-ovozli-tarjima-uchun-yangi-aure-modelini-taqdim-etdi-721822.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/deepl-ovozli-tarjima-uchun-yangi-aure-modelini-taqdim-etdi-721822.jpg"/>
   </item>
 </channel>
 </rss>
