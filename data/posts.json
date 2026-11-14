@@ -1,21 +1,64 @@
 [
   {
     "id": "91f21c34177c",
-    "slug": "bitfarms-ai-malumot-markazlari-uchun-energiya-taminotiga-otm-91f21c",
-    "title": "Bitfarms AI ma'lumot markazlari uchun energiya ta'minotiga o'tmoqda",
-    "summary": "Ben Gagnon Bitfarms kompaniyasini Keel Infrastructure'ga aylantirmoqda. U kriptovalyuta qazishdan voz kechib, AI ma'lumot markazlari uchun energiya ta'minotiga e'tibor qaratmoqda.",
+    "slug": "bitfarms-kripto-mayningni-ai-markazlariga-almashtirmoqda-91f21c",
+    "title": "Bitfarms kripto-mayningni AI markazlariga almashtirmoqda",
+    "summary": "Ben Gagnon Bitfarms kompaniyasini Keel Infrastructure brendiga o'zgartirmoqda. Kompaniya kriptovalyuta mayningidan voz kechib, sun'iy intellekt ma'lumotlar markazlarini elektr energiyasi bilan ta'minlashga o'tmoqda.",
     "tags": [
-      "biznes",
-      "bulut"
+      "biznes"
     ],
     "importance": 3,
     "score": 22,
     "published": "2026-11-14T10:00:00.000Z",
-    "created": "2026-11-14T11:01:00.426Z",
+    "created": "2026-11-14T11:09:01.209Z",
     "coverage": 1,
     "source": {
       "name": "Fortune",
       "url": "https://fortune.com/2026/11/14/ben-gagnon-keel-infrastructure-ai-data-center-gold-rush",
+      "title": "Meet ‘Captain Keel,’ the 37-year-old steering a Bitcoin miner into the AI data center gold rush",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "d77d7d9d77a2",
+    "slug": "amerikaliklarning-72-foizi-aidan-sovga-qidirmoqchi-emas-d77d7d",
+    "title": "Amerikaliklarning 72 foizi AI'dan sovg'a qidirmoqchi emas",
+    "summary": "Bank of America o'tkazgan so'rovnomaga ko'ra, xaridorlarning 72 foizi bayram sovg'alari uchun AI'dan foydalanishni rejalashtirmayapti. Respondentlar texnologiyaga bo'lgan ishonchsizlik va sovg'alarni shaxsan tanlash istagini sabab qilib ko'rsatgan.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-11-14T09:00:00.000Z",
+    "created": "2026-11-14T11:09:21.892Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/11/14/ai-holiday-shopping-bank-of-america-survey-2026",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "27e1a6281af9",
+    "slug": "ota-onalar-ai-sababli-kollej-jamgarmasini-ozgartirmoqda-27e1a6",
+    "title": "Ota-onalar AI sababli kollej jamg'armasini o'zgartirmoqda",
+    "summary": "Sun'iy intellekt mehnat bozori va oliy ta'limga ta'sir ko'rsatayotgani sababli ba'zi ota-onalar o'qish uchun pul tejash strategiyasini o'zgartirmoqda. Ular oliy ma'lumotsiz kelajakka tayyorgarlik ko'rish yo'llarini izlamoqda.",
+    "tags": [
+      "mehnat bozori",
+      "ta'lim"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-11-14T11:00:01.000Z",
+    "created": "2026-11-14T11:09:21.892Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/ai-kids-college-529-savings-rethink-2026-11",
       "indirect": false
     },
     "also": [],
