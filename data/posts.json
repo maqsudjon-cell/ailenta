@@ -1,5 +1,26 @@
 [
   {
+    "id": "4cb83f2a3259",
+    "slug": "suniy-intellekt-aviatsiya-sohasiga-kirib-kelmoqda-4cb83f",
+    "title": "Sun'iy intellekt aviatsiya sohasiga kirib kelmoqda",
+    "summary": "Odatda yangi texnologiyalarni sekin qabul qiladigan aviatsiya sohasida sun'iy intellekt qo'llanila boshlandi. Bu texnologiya uchuvchilar va havo harakatini boshqaruvchilar o'rnini egallashi kutilmoqda.",
+    "tags": [
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 23,
+    "published": "2026-11-14T11:00:00.000Z",
+    "created": "2026-11-14T12:36:17.709Z",
+    "coverage": 1,
+    "source": {
+      "name": "Wired",
+      "url": "https://wired.com/story/no-pilots-few-air-traffic-controllers-what-could-go-wrong",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "91f21c34177c",
     "slug": "bitfarms-kripto-mayningni-ai-markazlariga-almashtirmoqda-91f21c",
     "title": "Bitfarms kripto-mayningni AI markazlariga almashtirmoqda",
