@@ -1,5 +1,26 @@
 [
   {
+    "id": "d07d1c5f23eb",
+    "slug": "cpuda-ai-modelini-tezlashtirish-usuli-organildi-d07d1c",
+    "title": "CPU'da AI modelini tezlashtirish usuli o'rganildi",
+    "summary": "Muallif faqat protsessor va tezkor xotira yordamida Qwen3.8-Flash-Next Gyro modelini tezlashtirish ustida tajriba o'tkazdi. Llama kodini optimallashtirish jarayonida Opus modelidan foydalanildi.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 14,
+    "published": "2026-11-15T10:57:30.000Z",
+    "created": "2026-11-15T11:02:19.648Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1108016",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "2ba9904748b8",
     "slug": "cloudflare-kitesurf-dvigatelining-manba-kodini-ochdi-2ba990",
     "title": "Cloudflare Kitesurf dvigatelining manba kodini ochdi",

@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/tadqiqot/</link>
   <description>&quot;tadqiqot&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Sun, 15 Nov 2026 10:11:23 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 15 Nov 2026 11:09:38 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/tadqiqot/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>CPU'da AI modelini tezlashtirish usuli o'rganildi</title>
+    <link>https://ailenta.uz/x/cpuda-ai-modelini-tezlashtirish-usuli-organildi-d07d1c/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/cpuda-ai-modelini-tezlashtirish-usuli-organildi-d07d1c/</guid>
+    <pubDate>Sun, 15 Nov 2026 10:57:30 GMT</pubDate>
+    <description>Muallif faqat protsessor va tezkor xotira yordamida Qwen3.8-Flash-Next Gyro modelini tezlashtirish ustida tajriba o'tkazdi. Llama kodini optimallashtirish jarayonida Opus modelidan foydalanildi.</description>
+    <category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/cpuda-ai-modelini-tezlashtirish-usuli-organildi-d07d1c.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/cpuda-ai-modelini-tezlashtirish-usuli-organildi-d07d1c.jpg"/>
+  </item>
   <item>
     <title>Translated 45 tilli Lara Mini modelini ishga tushirdi</title>
     <link>https://ailenta.uz/x/translated-45-tilli-lara-mini-modelini-ishga-tushirdi-346ce3/</link>
@@ -296,16 +306,6 @@
     <category>biznes</category><category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/yandex-metrica-ai-assistent-orqali-tahlil-qilinadi-2879ee.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/yandex-metrica-ai-assistent-orqali-tahlil-qilinadi-2879ee.jpg"/>
-  </item>
-  <item>
-    <title>Adobe AI eksperimentlari fotosuratlarni jonlantiradi</title>
-    <link>https://ailenta.uz/x/adobe-ai-eksperimentlari-fotosuratlarni-jonlantiradi-6e40d6/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/adobe-ai-eksperimentlari-fotosuratlarni-jonlantiradi-6e40d6/</guid>
-    <pubDate>Wed, 11 Nov 2026 14:00:00 GMT</pubDate>
-    <description>Adobe o'zining yillik Max konferensiyasida yangi AI eksperimental xususiyatlarini namoyish etdi. Ular tasvirlarni 3D sahnalarga aylantirish, AI personajlarini yaratish va fotosuratlarni nusxalash/joylashtirish orqali tahrirlash imkonini beradi.</description>
-    <category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/adobe-ai-eksperimentlari-fotosuratlarni-jonlantiradi-6e40d6.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/adobe-ai-eksperimentlari-fotosuratlarni-jonlantiradi-6e40d6.jpg"/>
   </item>
 </channel>
 </rss>
