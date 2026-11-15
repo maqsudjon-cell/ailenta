@@ -1,5 +1,49 @@
 [
   {
+    "id": "a23beef7bff8",
+    "slug": "spotify-va-youtube-music-ai-boshlovchilarni-sinamoqda-a23bee",
+    "title": "Spotify va YouTube Music AI boshlovchilarni sinamoqda",
+    "summary": "YouTube Music va Spotify musiqa ro'yxatlarini shakllantirish uchun AI olib boruvchilarini joriy etmoqda. Biroq ularning noqulay suhbatlari va qo'shiqlar haqidagi asossiz ma'lumotlari tinglovchilarga ma'qul kelmayapti.",
+    "tags": [
+      "Google",
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 23,
+    "published": "2026-11-15T12:00:00.000Z",
+    "created": "2026-11-15T12:36:19.125Z",
+    "coverage": 1,
+    "source": {
+      "name": "Wired",
+      "url": "https://wired.com/story/ai-djs-completely-kill-my-groove",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "5d09d1e98e76",
+    "slug": "jensen-huang-nvidia-rahbari-lavozimidan-istefoga-chiqdi-5d09d1",
+    "title": "Jensen Huang Nvidia rahbari lavozimidan iste'foga chiqdi",
+    "summary": "Jensen Huang Nvidia kompaniyasi rahbari lavozimidan iste'foga chiqdi. Ushbu iste'fo kompaniyaning Xitoydagi faoliyati va AQSh hukumati bilan munosabatlari atrofidagi voqealar fonida yuz berdi.",
+    "tags": [
+      "Nvidia",
+      "biznes"
+    ],
+    "importance": 5,
+    "score": 1.5,
+    "published": "2026-11-13T14:47:16.000Z",
+    "created": "2026-11-15T12:36:19.125Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Verge",
+      "url": "https://theverge.com/podcast/1032866/jensen-huang-nvidia-china-trump-vergecast",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "6d3711dbaf06",
     "slug": "aida-sirlarni-saqlash-uchun-aksilrazvedka-urfga-kirdi-6d3711",
     "title": "AI'da sirlarni saqlash uchun aksilrazvedka urfga kirdi",
