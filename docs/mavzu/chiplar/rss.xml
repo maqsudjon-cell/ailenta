@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/chiplar/</link>
   <description>&quot;chiplar&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Sun, 15 Nov 2026 07:27:27 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 15 Nov 2026 08:08:39 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/chiplar/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Huawei Kirin 9050 uchun Balong AI modemini taqdim etdi</title>
+    <link>https://ailenta.uz/x/huawei-kirin-9050-uchun-balong-ai-modemini-taqdim-etdi-3b1e5c/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/huawei-kirin-9050-uchun-balong-ai-modemini-taqdim-etdi-3b1e5c/</guid>
+    <pubDate>Sun, 15 Nov 2026 07:12:34 GMT</pubDate>
+    <description>Huawei kompaniyasining Kirin 9050 chipiga o'rnatilgan Balong AI modemi to'rtta SIM-kartadan uchtasini kutish rejimida ushlab tura oladi. U xorijdan yo'naltirilgan firibgarlik qo'ng'iroqlarining 90 foizdan ortig'ini aniqlaydi va tezroq ma'lumot uzatadi.</description>
+    <category>Huawei</category><category>chiplar</category>
+    <media:content url="https://ailenta.uz/og/huawei-kirin-9050-uchun-balong-ai-modemini-taqdim-etdi-3b1e5c.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/huawei-kirin-9050-uchun-balong-ai-modemini-taqdim-etdi-3b1e5c.jpg"/>
+  </item>
   <item>
     <title>Shenzhen sammitida AI chiplari va savdo masalasi ko'riladi</title>
     <link>https://ailenta.uz/x/shenzhen-sammitida-ai-chiplari-va-savdo-masalasi-koriladi-fa3e3a/</link>
@@ -296,16 +306,6 @@
     <category>OpenAI</category><category>chiplar</category>
     <media:content url="https://ailenta.uz/og/sam-altman-ram-yetishmovchiligi-haqida-hazillashdi-3fd5d1.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/sam-altman-ram-yetishmovchiligi-haqida-hazillashdi-3fd5d1.jpg"/>
-  </item>
-  <item>
-    <title>Gemma modelini 8GB VRAM'li noutbukda optimallashtirish</title>
-    <link>https://ailenta.uz/x/gemma-modelini-8gb-vramli-noutbukda-optimallashtirish-a4a998/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/gemma-modelini-8gb-vramli-noutbukda-optimallashtirish-a4a998/</guid>
-    <pubDate>Wed, 04 Nov 2026 12:52:59 GMT</pubDate>
-    <description>Foydalanuvchi 8GB VRAM'li Nvidia RTX 2000 Ada videokartali noutbukda gemma-4-12B-it QAT modelini samarali ishga tushirishni sinovdan o‘tkazdi. Cheklangan VRAM'ga qaramay, 8192 token kontekstli lokal modelni joylashtirish mumkinligi aniqlandi.</description>
-    <category>chiplar</category><category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/gemma-modelini-8gb-vramli-noutbukda-optimallashtirish-a4a998.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/gemma-modelini-8gb-vramli-noutbukda-optimallashtirish-a4a998.jpg"/>
   </item>
 </channel>
 </rss>
