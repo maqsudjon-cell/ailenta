@@ -1,5 +1,28 @@
 [
   {
+    "id": "2ba9904748b8",
+    "slug": "cloudflare-kitesurf-dvigatelining-manba-kodini-ochdi-2ba990",
+    "title": "Cloudflare Kitesurf dvigatelining manba kodini ochdi",
+    "summary": "Cloudflare AI agentlar uchun mo'ljallangan Kitesurf tajriba brauzer dvigatelining kodini ochiq qildi. Endi dasturchilar kodni o'zgartirishi, uni lokal ishga tushirishi va o'z bulut tizimlarida ishlatishi mumkin.",
+    "tags": [
+      "agentlar",
+      "bulut"
+    ],
+    "importance": 3,
+    "score": 11,
+    "published": "2026-11-15T09:23:52.000Z",
+    "created": "2026-11-15T09:36:36.187Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1107996",
+      "title": "Cloudflare открыла исходный код Kitesurf — браузерного движка для AI‑агентов",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "9b9a2302aa14",
     "slug": "janubiy-koreyada-ai-yordamida-imtihonda-girromlik-qilindi-9b9a23",
     "title": "Janubiy Koreyada AI yordamida imtihonda g'irromlik qilindi",

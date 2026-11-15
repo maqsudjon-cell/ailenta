@@ -5,8 +5,18 @@
   <link>https://ailenta.uz</link>
   <description>Dunyodagi sun'iy intellekt yangiliklari o'zbek tilida. Har soatda yangilanadi, har bir xabarda asl manbaga havola.</description>
   <language>uz</language>
-  <lastBuildDate>Sun, 15 Nov 2026 09:10:30 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 15 Nov 2026 09:45:28 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Cloudflare Kitesurf dvigatelining manba kodini ochdi</title>
+    <link>https://ailenta.uz/x/cloudflare-kitesurf-dvigatelining-manba-kodini-ochdi-2ba990/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/cloudflare-kitesurf-dvigatelining-manba-kodini-ochdi-2ba990/</guid>
+    <pubDate>Sun, 15 Nov 2026 09:23:52 GMT</pubDate>
+    <description>Cloudflare AI agentlar uchun mo'ljallangan Kitesurf tajriba brauzer dvigatelining kodini ochiq qildi. Endi dasturchilar kodni o'zgartirishi, uni lokal ishga tushirishi va o'z bulut tizimlarida ishlatishi mumkin.</description>
+    <category>agentlar</category><category>bulut</category>
+    <media:content url="https://ailenta.uz/og/cloudflare-kitesurf-dvigatelining-manba-kodini-ochdi-2ba990.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/cloudflare-kitesurf-dvigatelining-manba-kodini-ochdi-2ba990.jpg"/>
+  </item>
   <item>
     <title>Janubiy Koreyada AI yordamida imtihonda g'irromlik qilindi</title>
     <link>https://ailenta.uz/x/janubiy-koreyada-ai-yordamida-imtihonda-girromlik-qilindi-9b9a23/</link>
@@ -496,16 +506,6 @@
     <category>Meta</category><category>Hugging Face</category>
     <media:content url="https://ailenta.uz/og/meta-3d-sahnalarni-tiklash-uchun-yangi-dataset-chiqardi-68b7e7.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/meta-3d-sahnalarni-tiklash-uchun-yangi-dataset-chiqardi-68b7e7.jpg"/>
-  </item>
-  <item>
-    <title>Microsoft'dagi nosozlik 74 mamlakatga ta'sir qildi</title>
-    <link>https://ailenta.uz/x/microsoftdagi-nosozlik-74-mamlakatga-tasir-qildi-a6787f/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/microsoftdagi-nosozlik-74-mamlakatga-tasir-qildi-a6787f/</guid>
-    <pubDate>Fri, 13 Nov 2026 03:20:35 GMT</pubDate>
-    <description>Microsoft servislarida yuz bergan texnik nosozlik dunyoning 74 ta mamlakat va hududiga ta'sir ko'rsatdi. Muammo nafaqat foydalanuvchilarga, balki OpenAI va Anthropic kabi kompaniyalarga ham ta'sir qildi.</description>
-    <category>Microsoft</category><category>OpenAI</category>
-    <media:content url="https://ailenta.uz/og/microsoftdagi-nosozlik-74-mamlakatga-tasir-qildi-a6787f.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/microsoftdagi-nosozlik-74-mamlakatga-tasir-qildi-a6787f.jpg"/>
   </item>
 </channel>
 </rss>
