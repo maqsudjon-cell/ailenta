@@ -1,5 +1,48 @@
 [
   {
+    "id": "8eab833d38d8",
+    "slug": "adabiyotda-ai-tomonidan-yaratilgan-matnlar-mojarosi-8eab83",
+    "title": "Adabiyotda AI tomonidan yaratilgan matnlar mojarosi",
+    "summary": "So'nggi paytlarda adabiy tanlovlarda AI yordamida yaratilgan matnlar bilan bog'liq bir nechta mojarolar yuzaga keldi. Gonkur va Voloshin mukofotlari hakamlar hay'ati AI generatsiyasida gumon qilingan asarlarni ro'yxatdan chiqardi.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 11,
+    "published": "2026-11-15T12:22:45.000Z",
+    "created": "2026-11-16T00:05:38.398Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/companies/onlinepatent/articles/1108040",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "2a9b10ad9daf",
+    "slug": "adobe-fireflyning-xavfsiz-ai-imiji-shubha-ostida-2a9b10",
+    "title": "Adobe Firefly'ning xavfsiz AI imiji shubha ostida",
+    "summary": "Adobe Firefly dastlab xavfsiz AI varianti sifatida taqdim etilgan edi. Biroq, so'nggi paytlarda uning bu imiji bilan bog'liq savollar paydo bo'lmoqda.",
+    "tags": [
+      "xavfsizlik",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 7,
+    "published": "2026-11-15T14:00:00.000Z",
+    "created": "2026-11-16T00:05:38.398Z",
+    "coverage": 1,
+    "source": {
+      "name": "Yahoo Tech",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVUZPQU9wQzJIbURNMFBfaDVZaUtPeTY0TTFibWhhbTJBOHVSREg4QlRLT3FVUFlCbks5d1BSMlJ0c0tYV1FOd1FPeDFpMndpRjYxWnQtNWtGRllsNHFqakZzNWE1c1dZdTdWUmxfLTNabGRVeGpoNm9PVU1Sd2R2Y19IVTVKWHFjd3JFME5PcmNfZw",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "511e76aa2be9",
     "slug": "jensen-huang-ketishi-ai-sanoatiga-tasir-qildi-511e76",
     "title": "Jensen Huang ketishi AI sanoatiga ta'sir qildi",
