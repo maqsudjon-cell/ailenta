@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/bulut/</link>
   <description>&quot;bulut&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Mon, 16 Nov 2026 10:11:07 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 16 Nov 2026 11:09:11 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/bulut/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Kosmik ma'lumotlar markazlarining iqtisodiy tahlili</title>
+    <link>https://ailenta.uz/x/kosmik-malumotlar-markazlarining-iqtisodiy-tahlili-c885c4/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/kosmik-malumotlar-markazlarining-iqtisodiy-tahlili-c885c4/</guid>
+    <pubDate>Mon, 16 Nov 2026 11:00:44 GMT</pubDate>
+    <description>R&amp;D MWS mutaxassisi orbitada 13 kVt quvvatga ega ma'lumotlar markazini qurish xarajatlarini tahlil qildi. Tadqiqotda uskunalarni yetkazib berish va chekka hisoblashlar uchun resurslar sarfi ko'rib chiqildi.</description>
+    <category>bulut</category><category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/kosmik-malumotlar-markazlarining-iqtisodiy-tahlili-c885c4.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/kosmik-malumotlar-markazlarining-iqtisodiy-tahlili-c885c4.jpg"/>
+  </item>
   <item>
     <title>Cloudflare Kitesurf dvigatelining manba kodini ochdi</title>
     <link>https://ailenta.uz/x/cloudflare-kitesurf-dvigatelining-manba-kodini-ochdi-2ba990/</link>
@@ -296,16 +306,6 @@
     <category>Microsoft</category><category>bulut</category>
     <media:content url="https://ailenta.uz/og/microsoft-ai-datamarkazlari-loyihalarida-kechikishlar-bor-79a4d3.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/microsoft-ai-datamarkazlari-loyihalarida-kechikishlar-bor-79a4d3.jpg"/>
-  </item>
-  <item>
-    <title>Daybreak Red AWS GovCloud (US-East) hududida ishga tushdi</title>
-    <link>https://ailenta.uz/x/daybreak-red-aws-govcloud-us-east-hududida-ishga-tushdi-75679f/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/daybreak-red-aws-govcloud-us-east-hududida-ishga-tushdi-75679f/</guid>
-    <pubDate>Wed, 04 Nov 2026 07:00:00 GMT</pubDate>
-    <description>Daybreak Red xizmati AWS GovCloud (US-East) hududida mavjud bo‘ldi. U GPT-5.6 Cyber modelini Amazon Bedrock orqali tasdiqlangan mijozlarga kiberxavfsizlik ishlari uchun taqdim etadi.</description>
-    <category>OpenAI</category><category>bulut</category>
-    <media:content url="https://ailenta.uz/og/daybreak-red-aws-govcloud-us-east-hududida-ishga-tushdi-75679f.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/daybreak-red-aws-govcloud-us-east-hududida-ishga-tushdi-75679f.jpg"/>
   </item>
 </channel>
 </rss>

@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/anthropic/</link>
   <description>&quot;Anthropic&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Mon, 16 Nov 2026 10:11:07 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 16 Nov 2026 11:09:11 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/anthropic/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>AI agentlarining ishonchligi va xatolardan tiklanishi</title>
+    <link>https://ailenta.uz/x/ai-agentlarining-ishonchligi-va-xatolardan-tiklanishi-5fc10f/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/ai-agentlarining-ishonchligi-va-xatolardan-tiklanishi-5fc10f/</guid>
+    <pubDate>Mon, 16 Nov 2026 10:23:41 GMT</pubDate>
+    <description>Microsoft, Anthropic va Meta muhandislari AI agentlarining ishonchliligi bo'yicha ma'ruzalar taqdim etdi. UndoBench sinovlarida koding agentlari nosozlikdan so'ng yarim holatda ham o'zini tiklay olmagani aniqlandi.</description>
+    <category>agentlar</category><category>Anthropic</category>
+    <media:content url="https://ailenta.uz/og/ai-agentlarining-ishonchligi-va-xatolardan-tiklanishi-5fc10f.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/ai-agentlarining-ishonchligi-va-xatolardan-tiklanishi-5fc10f.jpg"/>
+  </item>
   <item>
     <title>Claude modelidagi xatoliklarni tasniflash</title>
     <link>https://ailenta.uz/x/claude-modelidagi-xatoliklarni-tasniflash-8e9572/</link>
@@ -296,16 +306,6 @@
     <category>Anthropic</category><category>biznes</category>
     <media:content url="https://ailenta.uz/og/spacex-anthropic-bilan-bitim-narxini-ozgartirishi-mumkin-400ef0.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/spacex-anthropic-bilan-bitim-narxini-ozgartirishi-mumkin-400ef0.jpg"/>
-  </item>
-  <item>
-    <title>AI agentlari PR tavsiflarini juda batafsil yozmoqda</title>
-    <link>https://ailenta.uz/x/ai-agentlari-pr-tavsiflarini-juda-batafsil-yozmoqda-6ee1de/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/ai-agentlari-pr-tavsiflarini-juda-batafsil-yozmoqda-6ee1de/</guid>
-    <pubDate>Mon, 09 Nov 2026 04:25:05 GMT</pubDate>
-    <description>Simon Willisonning ta'kidlashicha, Claude Code yoki Codex kabi AI agentlari loyihalarga o'zgartirish kiritishda PR tavsiflarini juda batafsil yozadi. Bu tavsiflar muammo, yechim va tekshirish bosqichlarini to'liq qamrab oladi.</description>
-    <category>Anthropic</category><category>agentlar</category>
-    <media:content url="https://ailenta.uz/og/ai-agentlari-pr-tavsiflarini-juda-batafsil-yozmoqda-6ee1de.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/ai-agentlari-pr-tavsiflarini-juda-batafsil-yozmoqda-6ee1de.jpg"/>
   </item>
 </channel>
 </rss>

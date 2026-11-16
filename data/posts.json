@@ -1,5 +1,113 @@
 [
   {
+    "id": "b1eea3094fb2",
+    "slug": "xitoyda-ai-seriali-4-milliard-marta-tomosha-qilindi-b1eea3",
+    "title": "Xitoyda AI seriali 4 milliard marta tomosha qilindi",
+    "summary": "Xitoyda sun'iy intellekt yordamida yaratilgan qisqa metrajli serial 4 milliard marta tomosha qilindi. Loyihani kino sohasiga aloqasi bo'lmagan oddiy jamoa: sobiq taksi haydovchisi, kuryer va sobiq ofis xodimi yaratgan.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 4,
+    "score": 48,
+    "published": "2026-11-16T09:58:35.000Z",
+    "created": "2026-11-16T11:02:23.882Z",
+    "coverage": 1,
+    "source": {
+      "name": "Daryo",
+      "url": "https://daryo.uz/2026/11/16/xitoyda-suniy-intellekt-yordamida-yaratilgan-qisqa-metrajli-serial-4-milliard-marta-tomosha-qilindi",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "a2cd97d54fdd",
+    "slug": "aqshda-ai-va-chiplar-nazorati-boyicha-bahslar-bolmoqda-a2cd97",
+    "title": "AQShda AI va chiplar nazorati bo'yicha bahslar bo'lmoqda",
+    "summary": "AQSh Demokratlar partiyasi vakillari navbatdagi Kongressda sun'iy intellekt hamda chiplar eksporti ustidan nazoratni kim olib borishini muhokama qilmoqda.",
+    "tags": [
+      "chiplar",
+      "siyosat"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-11-16T09:58:35.000Z",
+    "created": "2026-11-16T11:02:23.882Z",
+    "coverage": 1,
+    "source": {
+      "name": "Semafor",
+      "url": "https://semafor.com/article/11/16/2026/democrats-debate-who-gets-oversight-of-ai",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "5fc10f4d9bba",
+    "slug": "ai-agentlarining-ishonchligi-va-xatolardan-tiklanishi-5fc10f",
+    "title": "AI agentlarining ishonchligi va xatolardan tiklanishi",
+    "summary": "Microsoft, Anthropic va Meta muhandislari AI agentlarining ishonchliligi bo'yicha ma'ruzalar taqdim etdi. UndoBench sinovlarida koding agentlari nosozlikdan so'ng yarim holatda ham o'zini tiklay olmagani aniqlandi.",
+    "tags": [
+      "agentlar",
+      "Anthropic"
+    ],
+    "importance": 3,
+    "score": 14,
+    "published": "2026-11-16T10:23:41.000Z",
+    "created": "2026-11-16T11:02:23.882Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1108290",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "c885c484fd13",
+    "slug": "kosmik-malumotlar-markazlarining-iqtisodiy-tahlili-c885c4",
+    "title": "Kosmik ma'lumotlar markazlarining iqtisodiy tahlili",
+    "summary": "R&D MWS mutaxassisi orbitada 13 kVt quvvatga ega ma'lumotlar markazini qurish xarajatlarini tahlil qildi. Tadqiqotda uskunalarni yetkazib berish va chekka hisoblashlar uchun resurslar sarfi ko'rib chiqildi.",
+    "tags": [
+      "bulut",
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 11,
+    "published": "2026-11-16T11:00:44.000Z",
+    "created": "2026-11-16T11:02:23.882Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/companies/ru_mts/articles/1108316",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "c8820df9ab3f",
+    "slug": "kospi-indeksi-ai-kayfiyati-pasayishi-fonida-tushdi-c8820d",
+    "title": "KOSPI indeksi AI kayfiyati pasayishi fonida tushdi",
+    "summary": "Janubiy Koreyaning KOSPI indeksi sun'iy intellekt sektoridagi sust kayfiyat sababli 3,59 foizga pasaydi.",
+    "tags": [
+      "iqtisod"
+    ],
+    "importance": 3,
+    "score": 7,
+    "published": "2026-11-16T08:17:57.000Z",
+    "created": "2026-11-16T11:02:23.883Z",
+    "coverage": 1,
+    "source": {
+      "name": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQ29KbEQzMUhkOW5rdVN2QnpEcTFjUTA2bEphdUprd05GMkxXa19oU0p4VF81bzJ6RV9OTXNxNjNZSVc1SzEyZ3ZjYWtqdWs2cEV3bVIyWUxqeXJfdHYzM2RfZUh2blhxX3d3SDFiY25GNWl0STV5YldsYkgzdnVVa2gzbjVSNWZZaTJuaThB",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "6ce5b1f2cfd1",
     "slug": "9-yoshli-ozarbayjonlik-qiz-ai-startapini-taqdim-etdi-6ce5b1",
     "title": "9 yoshli ozarbayjonlik qiz AI startapini taqdim etdi",
