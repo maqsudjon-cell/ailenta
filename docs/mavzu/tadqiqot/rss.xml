@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/tadqiqot/</link>
   <description>&quot;tadqiqot&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Mon, 16 Nov 2026 02:10:44 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 16 Nov 2026 03:05:05 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/tadqiqot/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>GeoThinker-F ishlash tezligi 3,6 baravar oshdi</title>
+    <link>https://ailenta.uz/x/geothinker-f-ishlash-tezligi-3-6-baravar-oshdi-56abf8/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/geothinker-f-ishlash-tezligi-3-6-baravar-oshdi-56abf8/</guid>
+    <pubDate>Mon, 16 Nov 2026 02:09:26 GMT</pubDate>
+    <description>Sun Yat-sen universiteti tadqiqotchilari GeoThinker-F modelini taqdim etdi. U 3D kodlovchini olib tashlash orqali fazoviy fikrlash kechikishini 1,45 soniyadan 0,40 soniyagacha qisqartirishga erishdi.</description>
+    <category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/geothinker-f-ishlash-tezligi-3-6-baravar-oshdi-56abf8.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/geothinker-f-ishlash-tezligi-3-6-baravar-oshdi-56abf8.jpg"/>
+  </item>
   <item>
     <title>OpenAI Standard Model'ni isbotlashda AI'dan foydalandi</title>
     <link>https://ailenta.uz/x/openai-standard-modelni-isbotlashda-aidan-foydalandi-87d701/</link>
@@ -296,16 +306,6 @@
     <category>tadqiqot</category><category>ochiq model</category>
     <media:content url="https://ailenta.uz/og/ai-so-rovnomalarni-to-ldirishda-73-86-aniqlikka-erishdi-79e917.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/ai-so-rovnomalarni-to-ldirishda-73-86-aniqlikka-erishdi-79e917.jpg"/>
-  </item>
-  <item>
-    <title>AI xavfsizligi: ishlab chiqarishda nimaga e'tibor berish kerak</title>
-    <link>https://ailenta.uz/x/ai-xavfsizligi-ishlab-chiqarishda-nimaga-etibor-berish-kerak-f3295c/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/ai-xavfsizligi-ishlab-chiqarishda-nimaga-etibor-berish-kerak-f3295c/</guid>
-    <pubDate>Thu, 12 Nov 2026 05:40:50 GMT</pubDate>
-    <description>Habr nashrida AI tizimlarining ishlab chiqarishdagi xavfsizligi haqida maqola chop etildi. Unda kod misollari, insidentlar tafsilotlari va AI yordamchilari bilan ishlaydigan dasturchilar uchun tavsiyalar berilgan.</description>
-    <category>xavfsizlik</category><category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/ai-xavfsizligi-ishlab-chiqarishda-nimaga-etibor-berish-kerak-f3295c.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/ai-xavfsizligi-ishlab-chiqarishda-nimaga-etibor-berish-kerak-f3295c.jpg"/>
   </item>
 </channel>
 </rss>
