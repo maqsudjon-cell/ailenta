@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/chiplar/</link>
   <description>&quot;chiplar&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Mon, 16 Nov 2026 13:13:23 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 16 Nov 2026 14:11:29 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/chiplar/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Los Alamos NextSilicon chipini sinovdan o'tkazadi</title>
+    <link>https://ailenta.uz/x/los-alamos-nextsilicon-chipini-sinovdan-otkazadi-843775/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/los-alamos-nextsilicon-chipini-sinovdan-otkazadi-843775/</guid>
+    <pubDate>Mon, 16 Nov 2026 13:00:00 GMT</pubDate>
+    <description>Los Alamos milliy laboratoriyasi NextSilicon kompaniyasining Maverick-2 chipini Darwin test tizimida sinaydi. Ushbu kichik test tizimi GPU-siz superkompyuterlarning yangi avlodini yaratishga imkon beradi.</description>
+    <category>chiplar</category><category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/los-alamos-nextsilicon-chipini-sinovdan-otkazadi-843775.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/los-alamos-nextsilicon-chipini-sinovdan-otkazadi-843775.jpg"/>
+  </item>
   <item>
     <title>AQShda AI va chiplar nazorati bo'yicha bahslar bo'lmoqda</title>
     <link>https://ailenta.uz/x/aqshda-ai-va-chiplar-nazorati-boyicha-bahslar-bolmoqda-a2cd97/</link>
@@ -296,16 +306,6 @@
     <category>biznes</category><category>chiplar</category>
     <media:content url="https://ailenta.uz/og/ai-rivoji-optik-tolaga-talabni-oshirmoqda-7326dd.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/ai-rivoji-optik-tolaga-talabni-oshirmoqda-7326dd.jpg"/>
-  </item>
-  <item>
-    <title>AI va HPC uchun server savdosi bu yil 20% oshdi</title>
-    <link>https://ailenta.uz/x/ai-va-hpc-uchun-server-savdosi-bu-yil-20-oshdi-6bee7c/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/ai-va-hpc-uchun-server-savdosi-bu-yil-20-oshdi-6bee7c/</guid>
-    <pubDate>Wed, 04 Nov 2026 17:30:00 GMT</pubDate>
-    <description>Bu yil AI va yuqori unumdorlikdagi hisoblash (HPC) uchun joyida o‘rnatiladigan serverlar savdosi 20% ga oshdi. Daromad o‘sishi sotuv hajmining oshishi va xarajatlarning ko‘payishi bilan bog‘liq.</description>
-    <category>chiplar</category><category>biznes</category>
-    <media:content url="https://ailenta.uz/og/ai-va-hpc-uchun-server-savdosi-bu-yil-20-oshdi-6bee7c.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/ai-va-hpc-uchun-server-savdosi-bu-yil-20-oshdi-6bee7c.jpg"/>
   </item>
 </channel>
 </rss>

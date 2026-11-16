@@ -1,5 +1,69 @@
 [
   {
+    "id": "103010204906",
+    "slug": "iphone-duo-egalarining-uchdan-biri-smartfonini-qaytargan-103010",
+    "title": "iPhone Duo egalarining uchdan biri smartfonini qaytargan",
+    "summary": "6 000 nafar foydalanuvchi o'rtasida o'tkazilgan so'rovnoma Apple buklama smartfoni qanday kutib olinganini ko'rsatdi. Unga ko'ra, har uchinchi egalari smartfonni qaytarib berganini ma'lum qilgan.",
+    "tags": [
+      "Apple"
+    ],
+    "importance": 3,
+    "score": 45,
+    "published": "2026-11-16T13:35:41.000Z",
+    "created": "2026-11-16T14:02:42.368Z",
+    "coverage": 1,
+    "source": {
+      "name": "Kun.uz",
+      "url": "https://kun.uz/news/2026/11/16/iphone-duo-egalarining-har-uchinchisi-smartfonni-qaytarib-berganini-aytdi-60874",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "84377556b27b",
+    "slug": "los-alamos-nextsilicon-chipini-sinovdan-otkazadi-843775",
+    "title": "Los Alamos NextSilicon chipini sinovdan o'tkazadi",
+    "summary": "Los Alamos milliy laboratoriyasi NextSilicon kompaniyasining Maverick-2 chipini Darwin test tizimida sinaydi. Ushbu kichik test tizimi GPU-siz superkompyuterlarning yangi avlodini yaratishga imkon beradi.",
+    "tags": [
+      "chiplar",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-11-16T13:00:00.000Z",
+    "created": "2026-11-16T14:02:42.369Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/systems/2026/11/16/los-alamos-boffins-to-put-nextsilicons-maverick-2-through-natural-selection-in-darwin-testbed/5309862",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "b03813f2b2da",
+    "slug": "audible-audiokitoblar-uchun-ai-sharhlarini-joriy-etmoqda-b03813",
+    "title": "Audible audiokitoblar uchun AI sharhlarini joriy etmoqda",
+    "summary": "Audible platformasi foydalanuvchilarga mos audiokitoblarni topishda yordam beruvchi AI funksiyasini taqdim etdi. Yangi imkoniyat AI sharhlari hamda muallif izohlarini bir joyga jamlaydi.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-11-16T14:00:00.000Z",
+    "created": "2026-11-16T14:02:42.369Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Verge",
+      "url": "https://theverge.com/tech/1034083/audible-audio-discovery-ai-feature-availability",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "c603bb9c607c",
     "slug": "ukda-malumotlar-markazlari-loyihalari-3-baravar-kopaydi-c603bb",
     "title": "UKda ma'lumotlar markazlari loyihalari 3 baravar ko'paydi",

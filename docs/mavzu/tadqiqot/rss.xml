@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/tadqiqot/</link>
   <description>&quot;tadqiqot&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Mon, 16 Nov 2026 13:13:23 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 16 Nov 2026 14:11:29 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/tadqiqot/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Los Alamos NextSilicon chipini sinovdan o'tkazadi</title>
+    <link>https://ailenta.uz/x/los-alamos-nextsilicon-chipini-sinovdan-otkazadi-843775/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/los-alamos-nextsilicon-chipini-sinovdan-otkazadi-843775/</guid>
+    <pubDate>Mon, 16 Nov 2026 13:00:00 GMT</pubDate>
+    <description>Los Alamos milliy laboratoriyasi NextSilicon kompaniyasining Maverick-2 chipini Darwin test tizimida sinaydi. Ushbu kichik test tizimi GPU-siz superkompyuterlarning yangi avlodini yaratishga imkon beradi.</description>
+    <category>chiplar</category><category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/los-alamos-nextsilicon-chipini-sinovdan-otkazadi-843775.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/los-alamos-nextsilicon-chipini-sinovdan-otkazadi-843775.jpg"/>
+  </item>
   <item>
     <title>Kosmik ma'lumotlar markazlarining iqtisodiy tahlili</title>
     <link>https://ailenta.uz/x/kosmik-malumotlar-markazlarining-iqtisodiy-tahlili-c885c4/</link>
@@ -296,16 +306,6 @@
     <category>xavfsizlik</category><category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/ai-chatbotlari-soxta-dokon-saytlarini-tavsiya-qilmoqda-4ae301.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/ai-chatbotlari-soxta-dokon-saytlarini-tavsiya-qilmoqda-4ae301.jpg"/>
-  </item>
-  <item>
-    <title>FreeBSD hisobotida AI muhokamalari aks etdi</title>
-    <link>https://ailenta.uz/x/freebsd-hisobotida-ai-muhokamalari-aks-etdi-e16314/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/freebsd-hisobotida-ai-muhokamalari-aks-etdi-e16314/</guid>
-    <pubDate>Thu, 12 Nov 2026 12:32:18 GMT</pubDate>
-    <description>FreeBSD loyihasining so'nggi hisobotida sun'iy intellektdan foydalanish bo'yicha munozaralar davom etayotgani keltirildi. Unda ishtirokchilarning faqat ozchilik qismi AIni taqiqlash tarafdori ekani ma'lum bo'ldi.</description>
-    <category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/freebsd-hisobotida-ai-muhokamalari-aks-etdi-e16314.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/freebsd-hisobotida-ai-muhokamalari-aks-etdi-e16314.jpg"/>
   </item>
 </channel>
 </rss>
