@@ -1,5 +1,69 @@
 [
   {
+    "id": "c139bc3ee135",
+    "slug": "ai-kompaniyalarida-hr-rahbarlarini-tayinlash-bahslanmoqda-c139bc",
+    "title": "AI kompaniyalarida HR rahbarlarini tayinlash bahslanmoqda",
+    "summary": "Wharton professori OpenAI va Anthropic kabi AI kompaniyalari HR bo'limiga texnik rahbarlarni tayinlayotganini xato deb hisoblamoqda. Uning ta'kidlashicha, bu yondashuv ma'lum xavflarni keltirib chiqarishi mumkin.",
+    "tags": [
+      "OpenAI",
+      "Anthropic"
+    ],
+    "importance": 2,
+    "score": 25,
+    "published": "2026-11-16T14:15:51.000Z",
+    "created": "2026-11-16T15:41:21.312Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/11/16/ai-companies-technologists-run-hr-chros-engineers-cappelli-wharton",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "a534b12f7f39",
+    "slug": "elon-musk-snl-korsatuvidagi-parodiyani-tanqid-qildi-a534b1",
+    "title": "Elon Musk SNL ko'rsatuvidagi parodiyani tanqid qildi",
+    "summary": "Elon Musk SNL ko'rsatuvining texnologiya sohasiga bag'ishlangan parodiyasini kulgili emas deb atadi. U ko'rsatuvda o'ziga berilgan obrazni 10 balldan 5 ballga baholadi.",
+    "tags": [
+      "xAI"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-11-16T15:27:04.000Z",
+    "created": "2026-11-16T15:41:21.313Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/snl-elon-musk-criticism-jensen-huang-sketch-cia-john-mulaney-2026-11",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "b05515a98d2b",
+    "slug": "nato-maxsus-kuchlari-yuqori-texnologiyalarsiz-mashq-qilmoqda-b05515",
+    "title": "NATO maxsus kuchlari yuqori texnologiyalarsiz mashq qilmoqda",
+    "summary": "NATO harbiy kuchlari dushman dronlari va datchiklari kuzatuvidan qochish uchun yuqori texnologik uskunalarsiz mashg'ulot o'tkazmoqda. Ushbu yondashuv Ukrainadagi harbiy harakatlar tajribasiga asoslangan.",
+    "tags": [
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-11-16T14:56:39.000Z",
+    "created": "2026-11-16T15:41:21.313Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/elite-western-forces-train-without-high-tech-survive-modern-battlefield-2026-11",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "103010204906",
     "slug": "iphone-duo-egalarining-uchdan-biri-smartfonini-qaytargan-103010",
     "title": "iPhone Duo egalarining uchdan biri smartfonini qaytargan",
