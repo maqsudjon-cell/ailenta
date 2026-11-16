@@ -1,5 +1,70 @@
 [
   {
+    "id": "f7dc17315c16",
+    "slug": "jensen-huang-nvidia-boshqaruviga-qaytishni-muhokama-qilmoqda-f7dc17",
+    "title": "Jensen Huang Nvidia boshqaruviga qaytishni muhokama qilmoqda",
+    "summary": "Nvidia asoschisi Jensen Huang kompaniya boshqaruviga qaytish imkoniyatini ko'rib chiqmoqda. Uning qaytishini qo'llab-quvvatlayotgan Silikon vodiysi rahbarlari maxsus tashabbus guruhini shakllantirmoqda. Biroq rahbariyatdagi o'zgarishlar va siyosiy bosim bu jarayonni murakkablashtirishi mumkin.",
+    "tags": [
+      "Nvidia",
+      "biznes"
+    ],
+    "importance": 4,
+    "score": 48,
+    "published": "2026-11-16T07:02:07.000Z",
+    "created": "2026-11-16T09:36:31.704Z",
+    "coverage": 1,
+    "source": {
+      "name": "Pivot",
+      "url": "https://pivot.uz/uz/jensen-huang-nvidiaga-qaytishni-korib-chiqmoqda",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "76d31c6b3b38",
+    "slug": "banklarda-p2p-otkazmalar-tartibi-ozgardi-76d31c",
+    "title": "Banklarda P2P o'tkazmalar tartibi o'zgardi",
+    "summary": "Banklar va to'lov tashkilotlari P2P o'tkazmalarida tasdiqlash talab etilmaydigan eng yuqori summani mustaqil belgilash huquqini oldi. Chegaradan yuqori o'tkazmalar majburiy tasdiqlanadi. Tasdiqlanmagan o'tkazmalardagi firibgarlik uchun bank va to'lov tashkilotlarining o'zi javobgar bo'ladi.",
+    "tags": [
+      "O'zbekiston",
+      "iqtisod"
+    ],
+    "importance": 3,
+    "score": 45,
+    "published": "2026-11-16T09:06:13.000Z",
+    "created": "2026-11-16T09:36:31.704Z",
+    "coverage": 1,
+    "source": {
+      "name": "Kun.uz",
+      "url": "https://kun.uz/news/2026/11/16/bank-ilovalarida-p2p-otkazmalar-va-biometrik-identifikatsiya-tartibi-ozgardi-60806",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "74ef6a281a7e",
+    "slug": "llm-modellarini-moslashtirish-boyicha-yangi-yondashuv-74ef6a",
+    "title": "LLM modellarini moslashtirish bo'yicha yangi yondashuv",
+    "summary": "Katta til modellarini tamoyillarga moslashtirish uchun Reflect-Reasoning usuli taklif etildi. Ushbu yondashuv generatsiyadan keyingi tanqid va qayta ko'rib chiqish orqali model javoblarini yaxshilash imkonini beradi.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 13,
+    "published": "2026-11-16T05:00:00.000Z",
+    "created": "2026-11-16T09:36:31.704Z",
+    "coverage": 1,
+    "source": {
+      "name": "arXiv cs.LG",
+      "url": "https://arxiv.org/abs/2611.17398",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "d96d05c3159e",
     "slug": "imtihonda-ai-ishlatgan-koreya-fuqarosi-aybini-tan-oldi-d96d05",
     "title": "Imtihonda AI ishlatgan Koreya fuqarosi aybini tan oldi",

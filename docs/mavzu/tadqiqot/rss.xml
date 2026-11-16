@@ -5,7 +5,7 @@
   <link>https://ailenta.uz/mavzu/tadqiqot/</link>
   <description>&quot;tadqiqot&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Mon, 16 Nov 2026 09:10:33 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 16 Nov 2026 09:45:14 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/tadqiqot/rss.xml" rel="self" type="application/rss+xml"/>
   <item>
     <title>O‘zbekistonda o‘zbek tilidagi AI rivojlantiriladi</title>
@@ -16,6 +16,16 @@
     <category>O'zbekiston</category><category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/o-zbekistonda-o-zbek-tilidagi-ai-rivojlantiriladi-4cd36f.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/o-zbekistonda-o-zbek-tilidagi-ai-rivojlantiriladi-4cd36f.jpg"/>
+  </item>
+  <item>
+    <title>LLM modellarini moslashtirish bo'yicha yangi yondashuv</title>
+    <link>https://ailenta.uz/x/llm-modellarini-moslashtirish-boyicha-yangi-yondashuv-74ef6a/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/llm-modellarini-moslashtirish-boyicha-yangi-yondashuv-74ef6a/</guid>
+    <pubDate>Mon, 16 Nov 2026 05:00:00 GMT</pubDate>
+    <description>Katta til modellarini tamoyillarga moslashtirish uchun Reflect-Reasoning usuli taklif etildi. Ushbu yondashuv generatsiyadan keyingi tanqid va qayta ko'rib chiqish orqali model javoblarini yaxshilash imkonini beradi.</description>
+    <category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/llm-modellarini-moslashtirish-boyicha-yangi-yondashuv-74ef6a.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/llm-modellarini-moslashtirish-boyicha-yangi-yondashuv-74ef6a.jpg"/>
   </item>
   <item>
     <title>GeoThinker-F fazoviy fikrlashni 3,6 baravar tezlashtirdi</title>
@@ -296,16 +306,6 @@
     <category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/baidu-qianfan-platformasiga-ikkita-yangi-modelni-qoshdi-89f849.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/baidu-qianfan-platformasiga-ikkita-yangi-modelni-qoshdi-89f849.jpg"/>
-  </item>
-  <item>
-    <title>ByteDance tezroq Seedance 2.5 Flash modelini chiqardi</title>
-    <link>https://ailenta.uz/x/bytedance-tezroq-seedance-2-5-flash-modelini-chiqardi-2bd24e/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/bytedance-tezroq-seedance-2-5-flash-modelini-chiqardi-2bd24e/</guid>
-    <pubDate>Thu, 12 Nov 2026 08:39:30 GMT</pubDate>
-    <description>ByteDance kompaniyasi video yaratishni ikki baravar tezlashtiradigan Seedance 2.5 Flash modelini taqdim etdi. Yangi model 34 foizga arzonroq bo'lib, uning API kirishi 15-noyabrda ochiladi.</description>
-    <category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/bytedance-tezroq-seedance-2-5-flash-modelini-chiqardi-2bd24e.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/bytedance-tezroq-seedance-2-5-flash-modelini-chiqardi-2bd24e.jpg"/>
   </item>
 </channel>
 </rss>
