@@ -1,5 +1,118 @@
 [
   {
+    "id": "f50b1f91b1e6",
+    "slug": "ai-kontent-zavodi-musiqachiga-mualliflik-muammosi-tugdirdi-f50b1f",
+    "title": "AI kontent zavodi musiqachiga mualliflik muammosi tug'dirdi",
+    "summary": "Sun'iy intellektga asoslangan kontent zavodi haqiqiy musiqachini mualliflik huquqi mojarosiga tortdi. Muallif ushbu tizimda aniq muammo borligini ta'kidlagan.",
+    "tags": [
+      "qonun"
+    ],
+    "importance": 2,
+    "score": 25,
+    "published": "2026-11-16T15:25:10.000Z",
+    "created": "2026-11-16T19:54:23.833Z",
+    "coverage": 2,
+    "source": {
+      "name": "404 Media",
+      "url": "https://404media.co/ai-powered-copyright-hell",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "404 Media",
+        "url": "https://404media.co/how-an-ai-content-mill-put-a-real-musician-through-copyright-hell"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "8c974ad51bbc",
+    "slug": "aqsh-ittifoqchilaridagi-ai-kompaniyalarini-cheklamaydi-8c974a",
+    "title": "AQSh ittifoqchilaridagi AI kompaniyalarini cheklamaydi",
+    "summary": "AQSh Davlat departamenti rasmiysi mamlakat ittifoqchi davlatlardagi xorijiy texnologiya kompaniyalarini cheklamasligini aytdi. Muloqotda Nvidia atrofidagi bahslar va AI ta'minot zanjirlari xavfsizligi muhokama qilindi.",
+    "tags": [
+      "Nvidia",
+      "siyosat"
+    ],
+    "importance": 3,
+    "score": 22,
+    "published": "2026-11-16T19:09:59.000Z",
+    "created": "2026-11-16T19:54:23.833Z",
+    "coverage": 1,
+    "source": {
+      "name": "Semafor",
+      "url": "https://semafor.com/article/11/16/2026/us-wont-restrict-foreign-tech-companies-in-allied-countries-helberg-says",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "ce2308399501",
+    "slug": "citigroup-rahbari-ai-sohasida-talab-muammosini-kormoqda-ce2308",
+    "title": "Citigroup rahbari AI sohasida talab muammosini ko'rmoqda",
+    "summary": "Citigroup bosh direktori Jeyn Freyzer AI bo'yicha talab tomonida muammo borligini ta'kidladi. U investorlarning AI bo'yicha tanlovchanligi ortayotganini va bankning Xitoy bilan aloqalarini muhokama qildi.",
+    "tags": [
+      "biznes",
+      "iqtisod"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-11-16T19:44:10.000Z",
+    "created": "2026-11-16T19:54:23.833Z",
+    "coverage": 1,
+    "source": {
+      "name": "Semafor",
+      "url": "https://semafor.com/article/11/16/2026/citigroup-ceo-jane-fraser-sees-demand-side-problem-for-ai",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "2e5cd845978a",
+    "slug": "ai-qidiruvida-kompaniya-saytlari-chetda-qolmoqda-2e5cd8",
+    "title": "AI qidiruvida kompaniya saytlari chetda qolmoqda",
+    "summary": "O'tkazilgan tahlilga ko'ra, ChatGPT, Perplexity va Google AI agregatorlari 94 foiz holatda kompaniyalarning rasmiy saytlarini chetlab o'tadi. Neyrotizimlar ma'lumotlarni bevosita saytlardan emas, tashqi kataloglardan yig'ishni afzal ko'rmoqda.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 14,
+    "published": "2026-11-16T17:54:23.000Z",
+    "created": "2026-11-16T19:54:23.833Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1108582",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "e62f059879c3",
+    "slug": "ruscha-tts-ovozlashtirishda-urgu-muammolariga-duch-kelindi-e62f05",
+    "title": "Ruscha TTS ovozlashtirishda urg'u muammolariga duch kelindi",
+    "summary": "Dasturchilar Euro Truck Simulator 2 o'yini uchun ElevenLabs va OpenAI TTS dvigatellaridan foydalanishda urg'u xatolariga duch kelishdi. Tizimlar rus tilidagi so'zlarga urg'uni noto'g'ri qo'yishi ma'lum bo'ldi.",
+    "tags": [
+      "OpenAI",
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 14,
+    "published": "2026-11-16T15:38:57.000Z",
+    "created": "2026-11-16T19:54:23.833Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1108538",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "46cac4ef4527",
     "slug": "xitoy-top500-royxatida-yetakchilikni-saqlab-qolmoqda-46cac4",
     "title": "Xitoy Top500 ro'yxatida yetakchilikni saqlab qolmoqda",
