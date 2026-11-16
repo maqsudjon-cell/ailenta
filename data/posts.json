@@ -1,5 +1,49 @@
 [
   {
+    "id": "46cac4ef4527",
+    "slug": "xitoy-top500-royxatida-yetakchilikni-saqlab-qolmoqda-46cac4",
+    "title": "Xitoy Top500 ro'yxatida yetakchilikni saqlab qolmoqda",
+    "summary": "Xitoy Top500 superkompyuterlar ro'yxatida o'z yetakchiligini saqlab qolmoqda. AQSH esa AI va yuqori unumdorlikdagi hisoblash (HPC) integratsiyasiga e'tibor qaratmoqda.",
+    "tags": [
+      "siyosat",
+      "chiplar"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-11-16T19:00:00.000Z",
+    "created": "2026-11-16T19:03:38.079Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/systems/2026/11/16/chinas-grip-on-top500-remains-uncontested-as-us-chases-ai-hpc-fusion/5310205",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "9cd6ea486f4e",
+    "slug": "knit-health-ai-modeli-35-mln-dollar-sarmoya-oldi-9cd6ea",
+    "title": "Knit Health AI modeli 35 mln dollar sarmoya oldi",
+    "summary": "Knit Health startapi bemorlarning ehtiyojlarini bashorat qilish uchun AI modelidan foydalanib, 35 million dollar Series A sarmoyasini jalb qildi. Kompaniya davolash ta'sirini prognoz qilish va yo'naltirishlarni optimallashtirishni maqsad qilgan.",
+    "tags": [
+      "tibbiyot",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 18,
+    "published": "2026-11-16T14:35:05.000Z",
+    "created": "2026-11-16T19:03:38.079Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/261116/p29",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "33b407066304",
     "slug": "ai-chatbotlari-shaxsiy-malumotlarni-oqishi-mumkin-33b407",
     "title": "AI chatbotlari shaxsiy ma'lumotlarni o'qishi mumkin",
