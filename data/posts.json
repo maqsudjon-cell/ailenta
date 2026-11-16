@@ -1,5 +1,96 @@
 [
   {
+    "id": "2dfe0e4c190d",
+    "slug": "listee-va-uzpost-tovar-yetkazishda-hamkorlik-qiladi-2dfe0e",
+    "title": "Listee va UzPost tovar yetkazishda hamkorlik qiladi",
+    "summary": "Listee platformasi va UzPost jismoniy shaxslar o'rtasida tovarlarni yetkazib berish bo'yicha kelishuvga erishdi. Fuqarolar mamlakat bo'ylab tovarlarni 1 600 dan ortiq UzPost bo'limlari orqali yuborishlari va qabul qilishlari mumkin.",
+    "tags": [
+      "O'zbekiston"
+    ],
+    "importance": 3,
+    "score": 45,
+    "published": "2026-11-16T10:00:17.000Z",
+    "created": "2026-11-16T11:52:15.096Z",
+    "coverage": 1,
+    "source": {
+      "name": "Kun.uz",
+      "url": "https://kun.uz/news/2026/11/16/listee-va-uzpost-buyumlarni-qayta-sotish-platformasi-ozbekiston-boylab-tovarlarni-etkazib-berish-imkoniyatlarini-kengaytirmoqda-60815",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "611410a1d41c",
+    "slug": "markaziy-bank-ai-boyicha-oz-yechimlarini-ishlab-chiqmoqda-611410",
+    "title": "Markaziy bank AI bo'yicha o'z yechimlarini ishlab chiqmoqda",
+    "summary": "O'zbekiston Markaziy banki sun'iy intellekt bo'yicha o'z vositalarini yaratmoqda. Tashkilot global platformalarga qaramlikni kamaytirish yollarini o'rganmoqda.",
+    "tags": [
+      "O'zbekiston"
+    ],
+    "importance": 3,
+    "score": 44,
+    "published": "2026-11-16T11:50:00.000Z",
+    "created": "2026-11-16T11:52:15.096Z",
+    "coverage": 1,
+    "source": {
+      "name": "UzDaily",
+      "url": "https://uzdaily.uz/uz/%C3%B6zbekiston-markaziy-banki-suniy-intellekt-sohasida-%C3%B6z-ye%C3%A7imlarini-i%C5%9Flab-%C3%A7iqmoqda",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "b80a4cbc0437",
+    "slug": "anthropic-ipo-va-gta-6-bir-kunda-bolib-otadi-b80a4c",
+    "title": "Anthropic IPO va GTA 6 bir kunda bo'lib o'tadi",
+    "summary": "Anthropic kompaniyasining IPO o'tkazishi va Grand Theft Auto 6 o'yinining chiqishi bir payshanba kuniga to'g'ri kelmoqda. Bu kun AI hamda o'yin sanoati uchun sinov bo'ladi.",
+    "tags": [
+      "Anthropic",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 21,
+    "published": "2026-11-16T11:44:27.000Z",
+    "created": "2026-11-16T11:52:15.096Z",
+    "coverage": 2,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/anthropic-ipo-gta-6-release-ai-gaming-2026-11",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "Business Insider",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxONHZ3VXF6MzBwQ2JXMkxrSm5vcWtnaFlJa19WY3Z1N3lMdDIyMzQwTUJMaFFFMWRKS2NoSEdUWDlENldNY2RteXdKOUNEdWUzbS1Fb3lfckpOWXdvTGxLUUdvUkxjc2VCeGZfUXQ0cTRxYUZrVm1SNmZWR0taR1VqZmZvTQ"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "f03c9fc12272",
+    "slug": "apollo-ai-sababli-xodimlar-soni-osishini-qisqartirmoqda-f03c9f",
+    "title": "Apollo AI sababli xodimlar soni o'sishini qisqartirmoqda",
+    "summary": "Apollo kompaniyasi yillik daromadni 20 foizga oshirishni rejalashtirmoqda, ammo bunga erishish uchun ko'p xodim talab etilmaydi. Kompaniya xodimlar o'sishini kamaytirishini sun'iy intellekt bilan izohladi.",
+    "tags": [
+      "mehnat bozori",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-11-16T10:58:01.000Z",
+    "created": "2026-11-16T11:52:15.096Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/apollo-exec-plans-to-lower-annual-hiring-ai-2026-11",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "b1eea3094fb2",
     "slug": "xitoyda-ai-seriali-4-milliard-marta-tomosha-qilindi-b1eea3",
     "title": "Xitoyda AI seriali 4 milliard marta tomosha qilindi",
