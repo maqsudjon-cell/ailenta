@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/tadqiqot/</link>
   <description>&quot;tadqiqot&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Mon, 16 Nov 2026 06:13:48 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 16 Nov 2026 06:51:06 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/tadqiqot/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>O‘zbekistonda o‘zbek tilidagi AI rivojlantiriladi</title>
+    <link>https://ailenta.uz/x/o-zbekistonda-o-zbek-tilidagi-ai-rivojlantiriladi-4cd36f/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/o-zbekistonda-o-zbek-tilidagi-ai-rivojlantiriladi-4cd36f/</guid>
+    <pubDate>Mon, 16 Nov 2026 05:50:02 GMT</pubDate>
+    <description>O‘zbekistonda o‘zbek tilining raqamli muhitdagi mavqeini mustahkamlash maqsad qilingan. Buning uchun o‘zbek tilidagi sun’iy intellekt modellarini rivojlantirish choralari ishlab chiqiladi.</description>
+    <category>O'zbekiston</category><category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/o-zbekistonda-o-zbek-tilidagi-ai-rivojlantiriladi-4cd36f.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/o-zbekistonda-o-zbek-tilidagi-ai-rivojlantiriladi-4cd36f.jpg"/>
+  </item>
   <item>
     <title>GeoThinker-F fazoviy fikrlashni 3,6 baravar tezlashtirdi</title>
     <link>https://ailenta.uz/x/geothinker-f-fazoviy-fikrlashni-3-6-baravar-tezlashtirdi-56abf8/</link>
@@ -296,16 +306,6 @@
     <category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/bytedance-tezroq-seedance-2-5-flash-modelini-chiqardi-2bd24e.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/bytedance-tezroq-seedance-2-5-flash-modelini-chiqardi-2bd24e.jpg"/>
-  </item>
-  <item>
-    <title>raea: JSX yordamida Rustda animatsiyalar yaratish imkoniyati</title>
-    <link>https://ailenta.uz/x/raea-jsx-yordamida-rustda-animatsiyalar-yaratish-imkoniyati-9fb1ed/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/raea-jsx-yordamida-rustda-animatsiyalar-yaratish-imkoniyati-9fb1ed/</guid>
-    <pubDate>Thu, 12 Nov 2026 08:37:47 GMT</pubDate>
-    <description>raea platformasi 9-noyabrda ishga tushirildi. U React yordamida sahnalarni yozish va Bevy o‘yin dvigateli orqali Rustda kadrlar chizish imkonini beradi. Bu brauzersiz animatsiyalar yaratishga mo‘ljallangan.</description>
-    <category>tadqiqot</category><category>dasturlash</category>
-    <media:content url="https://ailenta.uz/og/raea-jsx-yordamida-rustda-animatsiyalar-yaratish-imkoniyati-9fb1ed.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/raea-jsx-yordamida-rustda-animatsiyalar-yaratish-imkoniyati-9fb1ed.jpg"/>
   </item>
 </channel>
 </rss>
