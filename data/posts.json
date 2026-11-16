@@ -1,5 +1,69 @@
 [
   {
+    "id": "87d7014c15ee",
+    "slug": "openai-standard-modelni-isbotlashda-aidan-foydalandi-87d701",
+    "title": "OpenAI Standard Model'ni isbotlashda AI'dan foydalandi",
+    "summary": "OpenAI Standard Model'ni panjarada ta'riflash bo'yicha yangi tadqiqotni e'lon qildi. Kompaniya ushbu gipotezani batafsil isbotga aylantirishda GPT-6 Astra modelidan foydalanganini bildirdi.",
+    "tags": [
+      "OpenAI",
+      "tadqiqot"
+    ],
+    "importance": 4,
+    "score": 36,
+    "published": "2026-11-15T22:00:01.000Z",
+    "created": "2026-11-16T02:01:30.663Z",
+    "coverage": 1,
+    "source": {
+      "name": "OpenAI",
+      "url": "https://openai.com/index/step-toward-defining-the-standard-model",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "4b4d48f19f03",
+    "slug": "datasette-uchun-yangi-geofazoviy-plagin-elon-qilindi-4b4d48",
+    "title": "Datasette uchun yangi geofazoviy plagin e'lon qilindi",
+    "summary": "Saymon Uillison Datasette uchun datasette-maplibre 0.1a0 plaginini taqdim etdi. U MapLibre GL va OpenFreeMap vositalarini birlashtirgan bo'lib, Claude Fable 5.2 so'rovi yordamida yaratilgan.",
+    "tags": [
+      "agentlar"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-11-15T23:58:36.000Z",
+    "created": "2026-11-16T02:01:30.663Z",
+    "coverage": 1,
+    "source": {
+      "name": "Simon Willison",
+      "url": "https://simonwillison.net/2026/Nov/15/datasette-maplibre",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "b0aa4ff5b72d",
+    "slug": "qmd-koding-agentlarida-token-sarfini-40-foizgacha-tejaydi-b0aa4f",
+    "title": "QMD koding agentlarida token sarfini 40 foizgacha tejaydi",
+    "summary": "Dasturchi koding agentlari fayllarni qidirishda semantik qidiruvdan foydalanishi bo'yicha tajriba o'tkazdi. QMD yordamida ushbu usul token sarfini 40 foizgacha tejashga yordam berdi.",
+    "tags": [
+      "agentlar"
+    ],
+    "importance": 2,
+    "score": 11,
+    "published": "2026-11-16T00:00:14.000Z",
+    "created": "2026-11-16T02:01:30.663Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1108142",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "8eab833d38d8",
     "slug": "adabiyotda-ai-tomonidan-yaratilgan-matnlar-mojarosi-8eab83",
     "title": "Adabiyotda AI tomonidan yaratilgan matnlar mojarosi",

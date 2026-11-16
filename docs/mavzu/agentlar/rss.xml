@@ -5,8 +5,28 @@
   <link>https://ailenta.uz/mavzu/agentlar/</link>
   <description>&quot;agentlar&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Mon, 16 Nov 2026 01:13:35 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 16 Nov 2026 02:10:44 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/agentlar/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>QMD koding agentlarida token sarfini 40 foizgacha tejaydi</title>
+    <link>https://ailenta.uz/x/qmd-koding-agentlarida-token-sarfini-40-foizgacha-tejaydi-b0aa4f/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/qmd-koding-agentlarida-token-sarfini-40-foizgacha-tejaydi-b0aa4f/</guid>
+    <pubDate>Mon, 16 Nov 2026 00:00:14 GMT</pubDate>
+    <description>Dasturchi koding agentlari fayllarni qidirishda semantik qidiruvdan foydalanishi bo'yicha tajriba o'tkazdi. QMD yordamida ushbu usul token sarfini 40 foizgacha tejashga yordam berdi.</description>
+    <category>agentlar</category>
+    <media:content url="https://ailenta.uz/og/qmd-koding-agentlarida-token-sarfini-40-foizgacha-tejaydi-b0aa4f.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/qmd-koding-agentlarida-token-sarfini-40-foizgacha-tejaydi-b0aa4f.jpg"/>
+  </item>
+  <item>
+    <title>Datasette uchun yangi geofazoviy plagin e'lon qilindi</title>
+    <link>https://ailenta.uz/x/datasette-uchun-yangi-geofazoviy-plagin-elon-qilindi-4b4d48/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/datasette-uchun-yangi-geofazoviy-plagin-elon-qilindi-4b4d48/</guid>
+    <pubDate>Sun, 15 Nov 2026 23:58:36 GMT</pubDate>
+    <description>Saymon Uillison Datasette uchun datasette-maplibre 0.1a0 plaginini taqdim etdi. U MapLibre GL va OpenFreeMap vositalarini birlashtirgan bo'lib, Claude Fable 5.2 so'rovi yordamida yaratilgan.</description>
+    <category>agentlar</category>
+    <media:content url="https://ailenta.uz/og/datasette-uchun-yangi-geofazoviy-plagin-elon-qilindi-4b4d48.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/datasette-uchun-yangi-geofazoviy-plagin-elon-qilindi-4b4d48.jpg"/>
+  </item>
   <item>
     <title>Cloudflare Kitesurf dvigatelining manba kodini ochdi</title>
     <link>https://ailenta.uz/x/cloudflare-kitesurf-dvigatelining-manba-kodini-ochdi-2ba990/</link>
@@ -286,26 +306,6 @@
     <category>Meta</category><category>agentlar</category>
     <media:content url="https://ailenta.uz/og/meta-ai-suhbatlarni-eslab-tosiqlarni-yengadi-45bb83.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/meta-ai-suhbatlarni-eslab-tosiqlarni-yengadi-45bb83.jpg"/>
-  </item>
-  <item>
-    <title>Huawei HarmonyOS uchun AI yordamchi chiqardi</title>
-    <link>https://ailenta.uz/x/huawei-harmonyos-uchun-ai-yordamchi-chiqardi-11ef7c/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/huawei-harmonyos-uchun-ai-yordamchi-chiqardi-11ef7c/</guid>
-    <pubDate>Sat, 07 Nov 2026 07:06:42 GMT</pubDate>
-    <description>Huawei HarmonyOS operatsion tizimi uchun mustaqil kompyuter yordamchisini taqdim etdi. Bu yordamchi ofis vazifalarini avtomatlashtirish, bulut yoki lokal ijro etish, telefon vazifalarini boshqarish va AI-point a'zolik hisob-kitoblarini o'z ichiga oladi.</description>
-    <category>Huawei</category><category>agentlar</category>
-    <media:content url="https://ailenta.uz/og/huawei-harmonyos-uchun-ai-yordamchi-chiqardi-11ef7c.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/huawei-harmonyos-uchun-ai-yordamchi-chiqardi-11ef7c.jpg"/>
-  </item>
-  <item>
-    <title>AI agentini testlashda TDD samaradorligi past chiqdi</title>
-    <link>https://ailenta.uz/x/ai-agentini-testlashda-tdd-samaradorligi-past-chiqdi-b7589d/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/ai-agentini-testlashda-tdd-samaradorligi-past-chiqdi-b7589d/</guid>
-    <pubDate>Fri, 06 Nov 2026 19:17:07 GMT</pubDate>
-    <description>Dan Lu GPT-6 Astra agentiga Pandoc'ni amalga oshirishni topshirib, turli testlash usullarini sinovdan o‘tkazdi. Natijalarga ko‘ra, TDD (Test-Driven Development) yashirin testlarda 40,5% samaradorlik ko‘rsatib, boshqa usullardan ortda qoldi.</description>
-    <category>tadqiqot</category><category>agentlar</category>
-    <media:content url="https://ailenta.uz/og/ai-agentini-testlashda-tdd-samaradorligi-past-chiqdi-b7589d.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/ai-agentini-testlashda-tdd-samaradorligi-past-chiqdi-b7589d.jpg"/>
   </item>
 </channel>
 </rss>
