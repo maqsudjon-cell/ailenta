@@ -5,8 +5,18 @@
   <link>https://ailenta.uz</link>
   <description>Dunyodagi sun'iy intellekt yangiliklari o'zbek tilida. Har soatda yangilanadi, har bir xabarda asl manbaga havola.</description>
   <language>uz</language>
-  <lastBuildDate>Mon, 16 Nov 2026 22:36:42 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 16 Nov 2026 23:11:26 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Honeywell rahbari jismoniy AIni yechim sifatida ko'rmoqda</title>
+    <link>https://ailenta.uz/x/honeywell-rahbari-jismoniy-aini-yechim-sifatida-kormoqda-ba4bec/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/honeywell-rahbari-jismoniy-aini-yechim-sifatida-kormoqda-ba4bec/</guid>
+    <pubDate>Mon, 16 Nov 2026 22:04:46 GMT</pubDate>
+    <description>Honeywell kompaniyasi bosh direktori Vimal Kapur avtomatlashtirish insonlar uchun juda murakkablashib ketganini aytdi. U shifoxonalar va ma'lumotlar markazlari uchun jismoniy AI yechim bo'lishini ta'kidladi.</description>
+    <category>biznes</category>
+    <media:content url="https://ailenta.uz/og/honeywell-rahbari-jismoniy-aini-yechim-sifatida-kormoqda-ba4bec.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/honeywell-rahbari-jismoniy-aini-yechim-sifatida-kormoqda-ba4bec.jpg"/>
+  </item>
   <item>
     <title>AQSH AI chiplarini sotishga yangi cheklovlar qo'ydi</title>
     <link>https://ailenta.uz/x/aqsh-ai-chiplarini-sotishga-yangi-cheklovlar-qoydi-46203e/</link>
@@ -496,16 +506,6 @@
     <category>agentlar</category>
     <media:content url="https://ailenta.uz/og/qmd-koding-agentlarida-token-sarfini-40-foizgacha-tejaydi-b0aa4f.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/qmd-koding-agentlarida-token-sarfini-40-foizgacha-tejaydi-b0aa4f.jpg"/>
-  </item>
-  <item>
-    <title>Datasette uchun yangi geofazoviy plagin e'lon qilindi</title>
-    <link>https://ailenta.uz/x/datasette-uchun-yangi-geofazoviy-plagin-elon-qilindi-4b4d48/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/datasette-uchun-yangi-geofazoviy-plagin-elon-qilindi-4b4d48/</guid>
-    <pubDate>Sun, 15 Nov 2026 23:58:36 GMT</pubDate>
-    <description>Saymon Uillison Datasette uchun datasette-maplibre 0.1a0 plaginini taqdim etdi. U MapLibre GL va OpenFreeMap vositalarini birlashtirgan bo'lib, Claude Fable 5.2 so'rovi yordamida yaratilgan.</description>
-    <category>agentlar</category>
-    <media:content url="https://ailenta.uz/og/datasette-uchun-yangi-geofazoviy-plagin-elon-qilindi-4b4d48.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/datasette-uchun-yangi-geofazoviy-plagin-elon-qilindi-4b4d48.jpg"/>
   </item>
 </channel>
 </rss>
