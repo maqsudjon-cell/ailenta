@@ -1,5 +1,115 @@
 [
   {
+    "id": "33b407066304",
+    "slug": "ai-chatbotlari-shaxsiy-malumotlarni-oqishi-mumkin-33b407",
+    "title": "AI chatbotlari shaxsiy ma'lumotlarni o'qishi mumkin",
+    "summary": "Sun'iy intellekt chatbotlariga foydalanuvchilar o'zlarining eng shaxsiy ma'lumotlarini aytmoqda. Bu AI kompaniyalari shaxsiy yozishmalarni o'qishi mumkinligini anglatadi.",
+    "tags": [
+      "maxfiylik",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 48,
+    "published": "2026-11-16T15:01:54.000Z",
+    "created": "2026-11-16T18:37:03.236Z",
+    "coverage": 1,
+    "source": {
+      "name": "Kun.uz",
+      "url": "https://kun.uz/news/2026/11/16/si-kompaniyalari-shaxsiy-yozishmalaringizni-oqiy-oladi-buni-qanday-xavfsizroq-qilish-mumkin-60883",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "7808cf408943",
+    "slug": "bmt-tadqiqoti-ai-modellar-iqlim-ilmi-boyicha-zaif-7808cf",
+    "title": "BMT tadqiqoti: AI modellar iqlim ilmi bo'yicha zaif",
+    "summary": "BMT tomonidan qo'llab-quvvatlangan tadqiqotga ko'ra, AI modellar iqlim o'zgarishi haqidagi oddiy faktlarni aniq tasdiqlasa-da, foydalanuvchi biroz rozi bo'lmaganda noto'g'ri javoblarga o'tadi. Ular iqlim inqirozini inkor etuvchilarga aylanishi mumkin.",
+    "tags": [
+      "tadqiqot",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 26,
+    "published": "2026-11-16T16:05:58.000Z",
+    "created": "2026-11-16T18:37:03.236Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/environment/2026/nov/16/ai-models-fallible-denial-climate-science-unesco-cop31",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "2cb18a210c5d",
+    "slug": "ubuntu-ai-tomonidan-yaratilgan-xavfsizlik-tuzatishlarini-old-2cb18a",
+    "title": "Ubuntu AI tomonidan yaratilgan xavfsizlik tuzatishlarini oldi",
+    "summary": "Ubuntu Pro obunachilari AI tomonidan yaratilgan xavfsizlik tuzatishlariga erta kirish imkoniyatiga ega bo'ldi. Bu tuzatishlar to'liq sinovdan o'tmasdan taqdim etiladi, ammo oddiy yangilanishlar inson tomonidan tasdiqlanadi.",
+    "tags": [
+      "xavfsizlik",
+      "bulut"
+    ],
+    "importance": 2,
+    "score": 19,
+    "published": "2026-11-16T18:01:00.000Z",
+    "created": "2026-11-16T18:37:03.236Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/os-platforms/2026/11/16/ubuntu-gets-ai-generated-security-fixes-for-those-feeling-brave/5310139",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "1ae9e8ecfbee",
+    "slug": "ai-nafaqat-xarajatlarni-kamaytiradi-balki-osishni-yaratadi-1ae9e8",
+    "title": "AI nafaqat xarajatlarni kamaytiradi, balki o'sishni yaratadi",
+    "summary": "AI g'oyalarni ko'paytirib, dastlabki tajribalarni arzonlashtirmoqda. Bu esa kompaniyalarga nafaqat xarajatlarni kamaytirish, balki o'sishni ham yaratish imkonini beradi.",
+    "tags": [
+      "biznes",
+      "iqtisod"
+    ],
+    "importance": 2,
+    "score": 19,
+    "published": "2026-11-16T15:06:54.000Z",
+    "created": "2026-11-16T18:37:03.236Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/11/16/idealab-ai-create-growth-bill-gross-productivity",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "f04ba9e918d6",
+    "slug": "samsung-ai-infratuzilmasini-kengaytirishni-rejalashtirmoqda-f04ba9",
+    "title": "Samsung AI infratuzilmasini kengaytirishni rejalashtirmoqda",
+    "summary": "Acwa rahbari sanoatdagi qiyinchiliklar AI infratuzilmasini qurishni sekinlashtirmasligini aytdi. Samsung AI sektoridagi ishtirokini ma'lumotlar markazlari qurish orqali chuqurlashtirishni xohlayotganini bildirdi.",
+    "tags": [
+      "Samsung",
+      "bulut"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-11-16T13:26:01.000Z",
+    "created": "2026-11-16T18:37:03.236Z",
+    "coverage": 1,
+    "source": {
+      "name": "Semafor",
+      "url": "https://semafor.com/article/11/16/2026/industry-headwinds-wont-slow-ai-infrastructure-buildout-ceo-says",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "0f88f97f5627",
     "slug": "delta-rahbari-aviatashuvdagi-uzilishda-aini-ayblamadi-0f88f9",
     "title": "Delta rahbari aviatashuvdagi uzilishda AIni ayblamadi",
