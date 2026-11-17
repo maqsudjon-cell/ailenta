@@ -1,5 +1,91 @@
 [
   {
+    "id": "143e2a32ce13",
+    "slug": "tcs-avstraliya-kompaniyasidagi-350-ta-ish-ornini-egallaydi-143e2a",
+    "title": "TCS Avstraliya kompaniyasidagi 350 ta ish o'rnini egallaydi",
+    "summary": "TCS kompaniyasi Avstraliyaning Bunnings Warehouse chakana savdo tarmog'idagi texnologik ishlarni o'z zimmashiga olmoqda. Natijada ushbu kompaniyadagi 350 ta texnologik ish o'rni qisqarishi kutilmoqda.",
+    "tags": [
+      "mehnat bozori",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-11-17T03:51:20.000Z",
+    "created": "2026-11-17T06:37:32.950Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/channel/2026/11/17/350-tech-jobs-hammered-as-tcs-takes-over-work-at-iconic-australian-retailer/5310324",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "844378a0935c",
+    "slug": "baidu-rahbari-ai-pufakchasi-xavfidan-ogohlantirdi-844378",
+    "title": "Baidu rahbari AI pufakchasi xavfidan ogohlantirdi",
+    "summary": "Baidu bosh direktori Robin Li sun'iy intellekt ilovalari kutilgan natijani bermasa, sohada pufakcha yuzaga kelishi mumkinligini aytdi. U infratuzilmaga katta xarajat qilinayotganiga qaramay, ilovalar ortda qolayotganidan ogohlantirdi.",
+    "tags": [
+      "biznes",
+      "iqtisod"
+    ],
+    "importance": 4,
+    "score": 18,
+    "published": "2026-11-17T06:27:58.000Z",
+    "created": "2026-11-17T06:37:32.950Z",
+    "coverage": 1,
+    "source": {
+      "name": "TechNode",
+      "url": "https://technode.com/2026/11/17/baidus-robin-li-warns-of-ai-bubble-risk-as-applications-lag-infrastructure-spending",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "7f1c6aab4b3b",
+    "slug": "sobiq-rahbarlar-ai-uzugi-yaratuvchi-startap-tuzdi-7f1c6a",
+    "title": "Sobiq rahbarlar AI uzugi yaratuvchi startap tuzdi",
+    "summary": "Meituan va Feishu kompaniyalarining sobiq rahbarlari Huling Technology startapiga asos soldi. Kompaniya ovoz yozib oluvchi AI uzugini yaratish uchun o'nlab million yuan investitsiya jalb qildi.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-11-17T06:28:31.000Z",
+    "created": "2026-11-17T06:37:32.950Z",
+    "coverage": 1,
+    "source": {
+      "name": "TechNode",
+      "url": "https://technode.com/2026/11/17/former-meituan-and-feishu-executives-reportedly-team-up-to-build-an-ai-recording-ring",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "ccba437d0167",
+    "slug": "huawei-kirin-9050-displey-protsessori-haqida-malumot-berdi-ccba43",
+    "title": "Huawei Kirin 9050 displey protsessori haqida ma'lumot berdi",
+    "summary": "Huawei kompaniyasi Kirin 9050 chiplari seriyasidagi displey protsessori haqida ma'lumot berdi. U AI-HDR2020 texnologiyasi yordamida standart dinamik diapazondagi kontent yorqinligi va ranglarini yaxshilaydi.",
+    "tags": [
+      "chiplar"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-11-17T06:28:09.000Z",
+    "created": "2026-11-17T06:37:32.950Z",
+    "coverage": 1,
+    "source": {
+      "name": "TechNode",
+      "url": "https://technode.com/2026/11/17/huawei-details-kirin-9050-display-processor-that-enhances-sdr-content",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "c284df009d60",
     "slug": "mubadala-rahbari-global-ai-iqtisodida-hisoblash-quvvati-yeti-c284df",
     "title": "Mubadala rahbari global AI iqtisodida hisoblash quvvati yetishmaydi",
