@@ -5,7 +5,7 @@
   <link>https://ailenta.uz/mavzu/apple/</link>
   <description>&quot;Apple&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Tue, 17 Nov 2026 23:23:39 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 17 Nov 2026 23:48:36 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/apple/rss.xml" rel="self" type="application/rss+xml"/>
   <item>
     <title>macOS 27.3 beta versiyasida yangi ogohlantirish kiritildi</title>
@@ -26,6 +26,16 @@
     <category>Apple</category>
     <media:content url="https://ailenta.uz/og/iphone-duo-egalarining-uchdan-biri-smartfonini-qaytargan-103010.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/iphone-duo-egalarining-uchdan-biri-smartfonini-qaytargan-103010.jpg"/>
+  </item>
+  <item>
+    <title>Apple 3D modellarni yaxshilash uchun yangi usul taqdim etdi</title>
+    <link>https://ailenta.uz/x/apple-3d-modellarni-yaxshilash-uchun-yangi-usul-taqdim-etdi-24e843/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/apple-3d-modellarni-yaxshilash-uchun-yangi-usul-taqdim-etdi-24e843/</guid>
+    <pubDate>Mon, 16 Nov 2026 00:00:00 GMT</pubDate>
+    <description>Apple kompaniyasi 3D modellarni yaratishda murakkab obyektlarning mayda detallarini aks ettirish muammosini hal qilishga qaratilgan &quot;Split-and-Scale Latent 3D Representations&quot; nomli tadqiqotni e'lon qildi. Bu yondashuv 3D generativ modellarning imkoniyatlarini kengaytiradi.</description>
+    <category>Apple</category><category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/apple-3d-modellarni-yaxshilash-uchun-yangi-usul-taqdim-etdi-24e843.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/apple-3d-modellarni-yaxshilash-uchun-yangi-usul-taqdim-etdi-24e843.jpg"/>
   </item>
   <item>
     <title>AI Apple ilova tekshiruvini murakkablashtirmoqda</title>
@@ -296,16 +306,6 @@
     <category>Apple</category><category>biznes</category>
     <media:content url="https://ailenta.uz/og/apple-home-ai-kameralar-xulosalari-uchun-qimmatroq-turadi-0f0e69.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/apple-home-ai-kameralar-xulosalari-uchun-qimmatroq-turadi-0f0e69.jpg"/>
-  </item>
-  <item>
-    <title>Apple Huxe startapining texnologiyasini litsenziyaladi</title>
-    <link>https://ailenta.uz/x/apple-huxe-startapining-texnologiyasini-litsenziyaladi-ac1984/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/apple-huxe-startapining-texnologiyasini-litsenziyaladi-ac1984/</guid>
-    <pubDate>Sat, 10 Oct 2026 19:50:00 GMT</pubDate>
-    <description>Apple shaxsiy podkastlar yaratuvchi Huxe startapi jamoasini ishga olish va uning texnologiyasini litsenziyalash bo'yicha kelishuvni oshkor qildi. Ushbu qadam kompaniyaning sun'iy intellekt yordamida podkastlar yaratish sohasiga kirishiga ishora qiladi.</description>
-    <category>Apple</category><category>biznes</category>
-    <media:content url="https://ailenta.uz/og/apple-huxe-startapining-texnologiyasini-litsenziyaladi-ac1984.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/apple-huxe-startapining-texnologiyasini-litsenziyaladi-ac1984.jpg"/>
   </item>
 </channel>
 </rss>

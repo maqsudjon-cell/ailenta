@@ -1,9 +1,31 @@
 [
   {
+    "id": "24e843e375a7",
+    "slug": "apple-3d-modellarni-yaxshilash-uchun-yangi-usul-taqdim-etdi-24e843",
+    "title": "Apple 3D modellarni yaxshilash uchun yangi usul taqdim etdi",
+    "summary": "Apple kompaniyasi 3D modellarni yaratishda murakkab obyektlarning mayda detallarini aks ettirish muammosini hal qilishga qaratilgan \"Split-and-Scale Latent 3D Representations\" nomli tadqiqotni e'lon qildi. Bu yondashuv 3D generativ modellarning imkoniyatlarini kengaytiradi.",
+    "tags": [
+      "Apple",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 21.8,
+    "published": "2026-11-16T00:00:00.000Z",
+    "created": "2026-11-17T23:33:11.630Z",
+    "coverage": 1,
+    "source": {
+      "name": "Apple",
+      "url": "https://machinelearning.apple.com/research/split-scale-latent-3d",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "626241678ef3",
-    "slug": "mistral-bosh-direktori-yevropada-ipo-otkazishni-rejalashtirm-626241",
-    "title": "Mistral bosh direktori Yevropada IPO o'tkazishni rejalashtirmoqda",
-    "summary": "Mistral AI kompaniyasi bosh direktori Artur Menshning ta'kidlashicha, kompaniya bu yil emas, balki kelajakda Yevropada birlamchi ommaviy taklif (IPO) o'tkazishga tayyorgarlik ko'rmoqda.",
+    "slug": "mistral-rahbari-yevropani-ipo-uchun-tabiiy-joy-deb-atadi-626241",
+    "title": "Mistral rahbari Yevropani IPO uchun tabiiy joy deb atadi",
+    "summary": "Mistral kompaniyasi bosh direktori Artur Menshning so‘zlariga ko‘ra, Yevropa kompaniyaning birlamchi ommaviy taklifi (IPO) uchun tabiiy joy hisoblanadi. U bu yil IPO bo‘lmasligini, ammo tayyorgarlik ketayotganini bildirdi.",
     "tags": [
       "Mistral",
       "biznes"
@@ -11,33 +33,11 @@
     "importance": 3,
     "score": 19,
     "published": "2026-11-17T21:49:01.000Z",
-    "created": "2026-11-17T23:11:41.915Z",
+    "created": "2026-11-17T23:33:11.630Z",
     "coverage": 1,
     "source": {
       "name": "Semafor",
       "url": "https://semafor.com/article/11/17/2026/europe-the-natural-location-for-mistral-ipo-ceo-says",
-      "indirect": false
-    },
-    "also": [],
-    "model": "gemini"
-  },
-  {
-    "id": "8c40bc4f002e",
-    "slug": "sambanova-eski-data-markazlardan-foydalanishni-taklif-etdi-8c40bc",
-    "title": "SambaNova eski data markazlardan foydalanishni taklif etdi",
-    "summary": "SambaNova bosh direktori Rodrigo Liangning aytishicha, data markaz sanoati eski infratuzilmalarni qayta ishlatishi kerak. Bu jamoalarga kamroq salbiy ta'sir ko'rsatadi.",
-    "tags": [
-      "chiplar",
-      "biznes"
-    ],
-    "importance": 2,
-    "score": 19,
-    "published": "2026-11-17T21:15:42.000Z",
-    "created": "2026-11-17T23:11:41.915Z",
-    "coverage": 1,
-    "source": {
-      "name": "Semafor",
-      "url": "https://semafor.com/article/11/17/2026/data-center-industry-should-repurpose-older-infrastructure-sambanova-ceo-says",
       "indirect": false
     },
     "also": [],

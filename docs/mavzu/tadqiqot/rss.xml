@@ -5,7 +5,7 @@
   <link>https://ailenta.uz/mavzu/tadqiqot/</link>
   <description>&quot;tadqiqot&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Tue, 17 Nov 2026 23:23:39 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 17 Nov 2026 23:48:36 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/tadqiqot/rss.xml" rel="self" type="application/rss+xml"/>
   <item>
     <title>Fei-Fei Li universitetlar AI'dan chetda qolayotganini aytdi</title>
@@ -178,6 +178,16 @@
     <media:thumbnail url="https://ailenta.uz/og/medgpt-saraton-holatlarida-shifokorlardan-ozib-ketdi-fdcc8f.jpg"/>
   </item>
   <item>
+    <title>Apple 3D modellarni yaxshilash uchun yangi usul taqdim etdi</title>
+    <link>https://ailenta.uz/x/apple-3d-modellarni-yaxshilash-uchun-yangi-usul-taqdim-etdi-24e843/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/apple-3d-modellarni-yaxshilash-uchun-yangi-usul-taqdim-etdi-24e843/</guid>
+    <pubDate>Mon, 16 Nov 2026 00:00:00 GMT</pubDate>
+    <description>Apple kompaniyasi 3D modellarni yaratishda murakkab obyektlarning mayda detallarini aks ettirish muammosini hal qilishga qaratilgan &quot;Split-and-Scale Latent 3D Representations&quot; nomli tadqiqotni e'lon qildi. Bu yondashuv 3D generativ modellarning imkoniyatlarini kengaytiradi.</description>
+    <category>Apple</category><category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/apple-3d-modellarni-yaxshilash-uchun-yangi-usul-taqdim-etdi-24e843.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/apple-3d-modellarni-yaxshilash-uchun-yangi-usul-taqdim-etdi-24e843.jpg"/>
+  </item>
+  <item>
     <title>OpenAI Standard Model'ni isbotlashda AI'dan foydalandi</title>
     <link>https://ailenta.uz/x/openai-standard-modelni-isbotlashda-aidan-foydalandi-87d701/</link>
     <guid isPermaLink="true">https://ailenta.uz/x/openai-standard-modelni-isbotlashda-aidan-foydalandi-87d701/</guid>
@@ -296,16 +306,6 @@
     <category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/ai-ikki-yilda-kuchli-tadqiqotchilarga-tenglashishi-mumkin-53de3f.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/ai-ikki-yilda-kuchli-tadqiqotchilarga-tenglashishi-mumkin-53de3f.jpg"/>
-  </item>
-  <item>
-    <title>Claude modelidagi xatoliklarni tasniflash</title>
-    <link>https://ailenta.uz/x/claude-modelidagi-xatoliklarni-tasniflash-8e9572/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/claude-modelidagi-xatoliklarni-tasniflash-8e9572/</guid>
-    <pubDate>Fri, 13 Nov 2026 20:28:23 GMT</pubDate>
-    <description>Ingliz tili o'qituvchisi Claude bilan ishlash jarayonida model takrorlaydigan xatoliklar ro'yxatini tuzdi. U bu xatoliklarni &quot;Klodizmlar&quot; deb ataydi.</description>
-    <category>tadqiqot</category><category>Anthropic</category>
-    <media:content url="https://ailenta.uz/og/claude-modelidagi-xatoliklarni-tasniflash-8e9572.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/claude-modelidagi-xatoliklarni-tasniflash-8e9572.jpg"/>
   </item>
 </channel>
 </rss>
