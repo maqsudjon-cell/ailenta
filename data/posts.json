@@ -1,5 +1,113 @@
 [
   {
+    "id": "42b85cf3ad15",
+    "slug": "blackstone-aws-kampuslarini-sotib-olib-ijaraga-beradi-42b85c",
+    "title": "Blackstone AWS kampuslarini sotib olib ijaraga beradi",
+    "summary": "Blackstone qo'shma korxonasi AWS kampuslarini sotib olib, ularni Amazon kompaniyasiga qayta ijaraga beradi. Omdia tahlilchisiga ko'ra, bu qadam AI xarajatlari ortishi fonida ko'chmas mulkni balansdan chiqarish bilan bog'liq.",
+    "tags": [
+      "Amazon",
+      "bulut"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-11-17T12:31:00.000Z",
+    "created": "2026-11-17T12:38:13.922Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/on-prem/2026/11/17/reit-move-blackstone-joint-venture-buys-aws-campuses-to-lease-back-to-the-cloud-giant/5310355",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "cde4be31cee3",
+    "slug": "ipsos-kiberxavfsizlik-hodisasi-roy-berganini-malum-qildi-cde4be",
+    "title": "Ipsos kiberxavfsizlik hodisasi ro'y berganini ma'lum qildi",
+    "summary": "Ipsos bozor tadqiqotlari kompaniyasi kiberxavfsizlik hodisasi sodir bo'lganini ma'lum qildi. Kompaniya hodisa sababi va ko'lamini o'rganish uchun tashqi mutaxassislarni jalb etgan.",
+    "tags": [
+      "xavfsizlik"
+    ],
+    "importance": 2,
+    "score": 19,
+    "published": "2026-11-17T11:44:00.000Z",
+    "created": "2026-11-17T12:38:13.922Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/security/2026/11/17/opinion-pollster-ipsos-fesses-up-to-cybersecurity-incident/5310405",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "733bb0038393",
+    "slug": "ispaniyada-malumotlar-markazlari-saylov-mavzusiga-aylandi-733bb0",
+    "title": "Ispaniyada ma'lumotlar markazlari saylov mavzusiga aylandi",
+    "summary": "Ispaniyada ma'lumotlar markazlari bo'yicha siyosat saylovlarning asosiy mavzusiga aylandi. Bu holat mavjud bitimlarga to'sqinlik qilmoqda hamda milliardlab dollar investitsiyalarga salbiy ta'sir ko'rsatishi mumkin.",
+    "tags": [
+      "siyosat",
+      "iqtisod"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-11-17T10:25:54.000Z",
+    "created": "2026-11-17T12:38:13.922Z",
+    "coverage": 1,
+    "source": {
+      "name": "CNBC",
+      "url": "https://cnbc.com/2026/11/17/spain-data-center-decree-election.html",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "1aa7bf412227",
+    "slug": "aqsh-xitoy-uskunalarini-import-qilishni-taqiqlamoqchi-1aa7bf",
+    "title": "AQSH Xitoy uskunalarini import qilishni taqiqlamoqchi",
+    "summary": "Tramp administratsiyasi Amazon kabi yirik kompaniyalar e'tiroziga qaramay, Xitoyning yangi optik uzatgich modellarini import qilishni taqiqlash taklifini ilgari surmoqda. Bu ma'lumotlar markazlari uskunalariga tegishli.",
+    "tags": [
+      "Amazon",
+      "siyosat"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-11-17T12:20:02.000Z",
+    "created": "2026-11-17T12:38:13.922Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/261117/p19",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "971accadb775",
+    "slug": "disney-yillik-xarajatlarni-3-milliardga-kamaytirmoqchi-971acc",
+    "title": "Disney yillik xarajatlarni $3 milliardga kamaytirmoqchi",
+    "summary": "Disney kompaniyasi yillik xarajatlarni 3 milliard dollarga qisqartirish rejasini oshkor qildi. Kompaniya aksiyalari bosh direktor Josh D'Amaroning AI va strimingga qaratilgan strategiyasi fonida o'sdi.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-11-17T11:51:38.000Z",
+    "created": "2026-11-17T12:38:13.922Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/disney-earnings-wall-street-stock-rally-layoff-reports-streaming-hulu-2026-11",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "bca5328d48cc",
     "slug": "ai-sorovlari-orqali-oyiga-800-daromad-topish-mumkin-bca532",
     "title": "AI so'rovlari orqali oyiga $800 daromad topish mumkin",
