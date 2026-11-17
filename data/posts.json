@@ -1,5 +1,70 @@
 [
   {
+    "id": "63cf6fdfd296",
+    "slug": "aqsh-rasmiysi-tizim-uzilishlarida-aini-aybladi-63cf6f",
+    "title": "AQSH rasmiysi tizim uzilishlarida AI'ni aybladi",
+    "summary": "AQSH Milliy xavfsizlik kotibi Markveyn Mullin bank hisoblari va aviachiptalar tizimidagi uzilishlar ortida super intellekt turganini aytdi. U bu haqda Fox News telekanaliga bergan intervyusida ma'lum qildi.",
+    "tags": [
+      "siyosat",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-11-17T17:00:00.000Z",
+    "created": "2026-11-17T18:03:16.705Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/11/17/trump-administration-ai-outages-mullin-gary-marcus-banks-airlines",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "17fea66d77b2",
+    "slug": "sesame-workshop-ai-asosidagi-oyinchoqlar-chiqarmaydi-17fea6",
+    "title": "Sesame Workshop AI asosidagi o'yinchoqlar chiqarmaydi",
+    "summary": "Sesame Workshop rahbari Sherri Vestin kompaniya AI bilan ishlaydigan insoniy ko'rinishdagi o'yinchoqlarni yaratmasligini aytdi. Kompaniya katta daromad olish imkoniyati bo'lsa ham bu ishni qilmasligini bildirdi.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 19,
+    "published": "2026-11-17T16:26:10.000Z",
+    "created": "2026-11-17T18:03:16.705Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/11/17/sesame-workshop-ceo-never-see-ai-powered-elmo-toy",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "cdafd8ebe9f4",
+    "slug": "aqsh-megaspeed-kompaniyasi-boyicha-surishtiruv-boshladi-cdafd8",
+    "title": "AQSH Megaspeed kompaniyasi bo'yicha surishtiruv boshladi",
+    "summary": "AQSH Adliya va Savdo vazirliklari Megaspeed kompaniyasi bo'yicha surishtiruv olib borilayotganini ma'lum qildi. Singapurda joylashgan data markazi Nvidia rahbari Yensen Huangning iste'fosi bilan bog'langan.",
+    "tags": [
+      "Nvidia",
+      "qonun"
+    ],
+    "importance": 4,
+    "score": 18,
+    "published": "2026-11-17T16:19:03.000Z",
+    "created": "2026-11-17T18:03:16.705Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Verge",
+      "url": "https://theverge.com/policy/1035410/doj-megaspeed-nvidia-investigation-update",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "0aac2d806117",
     "slug": "aqshda-ai-uchun-data-markazlar-qurilishi-davom-etmoqda-0aac2d",
     "title": "AQSHda AI uchun data markazlar qurilishi davom etmoqda",
