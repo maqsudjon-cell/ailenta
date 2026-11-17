@@ -1,5 +1,27 @@
 [
   {
+    "id": "f054a54f8228",
+    "slug": "revolut-openai-yordamida-dasturlash-vaqtini-qisqartirdi-f054a5",
+    "title": "Revolut OpenAI yordamida dasturlash vaqtini qisqartirdi",
+    "summary": "Revolut OpenAI modellari va Codex tizimidan foydalanib, kod yozish vaqtini 30–60 foizga kamaytirdi. Fintex kompaniyasi ushbu vositalarni moliyaviy jinoyatlarni tekshirish ko'lamini kengaytirishda ham qo'llamoqda.",
+    "tags": [
+      "OpenAI",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 28.8,
+    "published": "2026-11-16T09:30:00.000Z",
+    "created": "2026-11-17T08:01:59.986Z",
+    "coverage": 1,
+    "source": {
+      "name": "OpenAI",
+      "url": "https://openai.com/business/customer-stories/revolut",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "475fa2daa743",
     "slug": "gliner2-5-modelini-moslashtirish-tajribasi-475fa2",
     "title": "GLiNER2.5 modelini moslashtirish tajribasi",
