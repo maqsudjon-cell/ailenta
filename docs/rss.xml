@@ -5,7 +5,7 @@
   <link>https://ailenta.uz</link>
   <description>Dunyodagi sun'iy intellekt yangiliklari o'zbek tilida. Har soatda yangilanadi, har bir xabarda asl manbaga havola.</description>
   <language>uz</language>
-  <lastBuildDate>Tue, 17 Nov 2026 06:46:29 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 17 Nov 2026 07:16:53 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/rss.xml" rel="self" type="application/rss+xml"/>
   <item>
     <title>Sobiq rahbarlar AI uzugi yaratuvchi startap tuzdi</title>
@@ -36,6 +36,16 @@
     <category>biznes</category><category>iqtisod</category>
     <media:content url="https://ailenta.uz/og/baidu-rahbari-ai-pufakchasi-xavfidan-ogohlantirdi-844378.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/baidu-rahbari-ai-pufakchasi-xavfidan-ogohlantirdi-844378.jpg"/>
+  </item>
+  <item>
+    <title>GLiNER2.5 modelini moslashtirish tajribasi</title>
+    <link>https://ailenta.uz/x/gliner2-5-modelini-moslashtirish-tajribasi-475fa2/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/gliner2-5-modelini-moslashtirish-tajribasi-475fa2/</guid>
+    <pubDate>Tue, 17 Nov 2026 05:49:14 GMT</pubDate>
+    <description>GLiNER2.5 modeli 5000 ta sintetik matn yordamida moslashtirildi va LoRA hamda QLoRA kabi usullar solishtirildi. Tajriba natijasida F1 sinov ko'rsatkichi 22,51 foizdan 94,13 foizga ko'tarildi.</description>
+    <category>DeepSeek</category><category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/gliner2-5-modelini-moslashtirish-tajribasi-475fa2.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/gliner2-5-modelini-moslashtirish-tajribasi-475fa2.jpg"/>
   </item>
   <item>
     <title>Mubadala rahbari global AI iqtisodida hisoblash quvvati yetishmaydi</title>
@@ -496,16 +506,6 @@
     <category>iqtisod</category><category>siyosat</category>
     <media:content url="https://ailenta.uz/og/sobiq-regulyator-ai-pufakchasi-yorilishini-bashorat-qildi-bb1705.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/sobiq-regulyator-ai-pufakchasi-yorilishini-bashorat-qildi-bb1705.jpg"/>
-  </item>
-  <item>
-    <title>9 yoshli ozarbayjonlik qiz AI startapini taqdim etdi</title>
-    <link>https://ailenta.uz/x/9-yoshli-ozarbayjonlik-qiz-ai-startapini-taqdim-etdi-6ce5b1/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/9-yoshli-ozarbayjonlik-qiz-ai-startapini-taqdim-etdi-6ce5b1/</guid>
-    <pubDate>Mon, 16 Nov 2026 10:00:00 GMT</pubDate>
-    <description>9 yoshli Yasmin Yusifli AQShda badiiy gimnastika murabbiylari uchun mo'ljallangan Coachley.ai platformasini taqdim etdi. Startap musobaqa qoidalarini tahlil qilish va dasturlarni rejalashtirishni avtomatlashtirishga qaratilgan.</description>
-    <category>biznes</category>
-    <media:content url="https://ailenta.uz/og/9-yoshli-ozarbayjonlik-qiz-ai-startapini-taqdim-etdi-6ce5b1.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/9-yoshli-ozarbayjonlik-qiz-ai-startapini-taqdim-etdi-6ce5b1.jpg"/>
   </item>
 </channel>
 </rss>

@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/deepseek/</link>
   <description>&quot;DeepSeek&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Tue, 17 Nov 2026 06:46:29 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 17 Nov 2026 07:16:53 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/deepseek/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>GLiNER2.5 modelini moslashtirish tajribasi</title>
+    <link>https://ailenta.uz/x/gliner2-5-modelini-moslashtirish-tajribasi-475fa2/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/gliner2-5-modelini-moslashtirish-tajribasi-475fa2/</guid>
+    <pubDate>Tue, 17 Nov 2026 05:49:14 GMT</pubDate>
+    <description>GLiNER2.5 modeli 5000 ta sintetik matn yordamida moslashtirildi va LoRA hamda QLoRA kabi usullar solishtirildi. Tajriba natijasida F1 sinov ko'rsatkichi 22,51 foizdan 94,13 foizga ko'tarildi.</description>
+    <category>DeepSeek</category><category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/gliner2-5-modelini-moslashtirish-tajribasi-475fa2.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/gliner2-5-modelini-moslashtirish-tajribasi-475fa2.jpg"/>
+  </item>
   <item>
     <title>Uzoq kontekst uchun ADIndex usuli taklif etildi</title>
     <link>https://ailenta.uz/x/uzoq-kontekst-uchun-adindex-usuli-taklif-etildi-1fbf3e/</link>

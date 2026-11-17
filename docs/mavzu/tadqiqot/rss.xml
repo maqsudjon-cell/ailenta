@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/tadqiqot/</link>
   <description>&quot;tadqiqot&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Tue, 17 Nov 2026 06:46:29 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 17 Nov 2026 07:16:53 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/tadqiqot/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>GLiNER2.5 modelini moslashtirish tajribasi</title>
+    <link>https://ailenta.uz/x/gliner2-5-modelini-moslashtirish-tajribasi-475fa2/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/gliner2-5-modelini-moslashtirish-tajribasi-475fa2/</guid>
+    <pubDate>Tue, 17 Nov 2026 05:49:14 GMT</pubDate>
+    <description>GLiNER2.5 modeli 5000 ta sintetik matn yordamida moslashtirildi va LoRA hamda QLoRA kabi usullar solishtirildi. Tajriba natijasida F1 sinov ko'rsatkichi 22,51 foizdan 94,13 foizga ko'tarildi.</description>
+    <category>DeepSeek</category><category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/gliner2-5-modelini-moslashtirish-tajribasi-475fa2.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/gliner2-5-modelini-moslashtirish-tajribasi-475fa2.jpg"/>
+  </item>
   <item>
     <title>AI javoblari kompaniya saytlarini 94% hollarda e'tiborsiz qoldiradi</title>
     <link>https://ailenta.uz/x/ai-javoblari-kompaniya-saytlarini-94-hollarda-etiborsiz-qold-2e5cd8/</link>
@@ -296,16 +306,6 @@
     <category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/ai-ishlanmalarida-nutqni-tanib-olish-sifati-baholandi-1cd4b9.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/ai-ishlanmalarida-nutqni-tanib-olish-sifati-baholandi-1cd4b9.jpg"/>
-  </item>
-  <item>
-    <title>UCLA AI kompaniyalari bilan mas'uliyatni muhokama qildi</title>
-    <link>https://ailenta.uz/x/ucla-ai-kompaniyalari-bilan-masuliyatni-muhokama-qildi-3901ce/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/ucla-ai-kompaniyalari-bilan-masuliyatni-muhokama-qildi-3901ce/</guid>
-    <pubDate>Thu, 12 Nov 2026 22:43:00 GMT</pubDate>
-    <description>UCLA universiteti AI kompaniyalari bilan aloqalari mas'uliyatni talab qilishini ta'kidladi. Tadqiqotchilar bu masalani hal qilishlari kerakligi aytildi.</description>
-    <category>ta'lim</category><category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/ucla-ai-kompaniyalari-bilan-masuliyatni-muhokama-qildi-3901ce.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/ucla-ai-kompaniyalari-bilan-masuliyatni-muhokama-qildi-3901ce.jpg"/>
   </item>
 </channel>
 </rss>

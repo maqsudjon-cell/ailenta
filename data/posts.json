@@ -1,5 +1,27 @@
 [
   {
+    "id": "475fa2daa743",
+    "slug": "gliner2-5-modelini-moslashtirish-tajribasi-475fa2",
+    "title": "GLiNER2.5 modelini moslashtirish tajribasi",
+    "summary": "GLiNER2.5 modeli 5000 ta sintetik matn yordamida moslashtirildi va LoRA hamda QLoRA kabi usullar solishtirildi. Tajriba natijasida F1 sinov ko'rsatkichi 22,51 foizdan 94,13 foizga ko'tarildi.",
+    "tags": [
+      "DeepSeek",
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 14,
+    "published": "2026-11-17T05:49:14.000Z",
+    "created": "2026-11-17T07:09:22.989Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1108138",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "143e2a32ce13",
     "slug": "tcs-avstraliya-kompaniyasidagi-350-ta-ish-ornini-egallaydi-143e2a",
     "title": "TCS Avstraliya kompaniyasidagi 350 ta ish o'rnini egallaydi",
