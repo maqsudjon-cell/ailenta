@@ -1,5 +1,92 @@
 [
   {
+    "id": "1dff970d7759",
+    "slug": "jenevada-avtonom-qurollarni-tartibga-solish-muhokama-qilinad-1dff97",
+    "title": "Jenevada avtonom qurollarni tartibga solish muhokama qilinadi",
+    "summary": "Harbiylar nishonlarni yo'q qilishda sun'iy intellektdan foydalanmoqda. Jenevadagi anjumanda avtonom qurol tizimlarini tartibga solish bo'yicha xalqaro bitim tuzish hamda inson nazoratini ustuvor qilish masalasi ko'rib chiqiladi.",
+    "tags": [
+      "siyosat"
+    ],
+    "importance": 3,
+    "score": 26,
+    "published": "2026-11-17T07:00:07.000Z",
+    "created": "2026-11-17T13:20:20.713Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/commentisfree/2026/nov/17/automated-warfare-here-governments-restrain-ai-militaries-treaty",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "768d80d7b54e",
+    "slug": "anthropic-zaifliklarni-oshkor-qilish-muddatlarini-yangiladi-768d80",
+    "title": "Anthropic zaifliklarni oshkor qilish muddatlarini yangiladi",
+    "summary": "Anthropic kompaniyasi zaifliklarni muvofiqlashtirilgan holda oshkor qilish siyosati muddatlarini yangilaganini e'lon qildi. Kompaniya bu haqda rasmiy ma'lumot berdi.",
+    "tags": [
+      "Anthropic",
+      "xavfsizlik"
+    ],
+    "importance": 2,
+    "score": 22.8,
+    "published": "2026-11-16T14:32:51.000Z",
+    "created": "2026-11-17T13:20:20.713Z",
+    "coverage": 1,
+    "source": {
+      "name": "Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVmdyVmc1MjVDcWtuV0NsWG44R3ZzQU5rX1BkVHNkR1NlN2w4cFRselR2dTVLOS1EcjlRbU1idlVSMW11bGFWaFZjN2tydks4VkJUR1dlcXY3b2dZX1k5aE5NMUxFck5kQWZtcXlKNHF3bC1ZZXJTa0xjMDNIN1l3TlF6ZzlwMF8z",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "228b3fb462c3",
+    "slug": "aqsh-osiyoga-chip-cheklovlarini-kengaytirdi-228b3f",
+    "title": "AQSH Osiyoga chip cheklovlarini kengaytirdi",
+    "summary": "AQSH Savdo vazirligi chiplarning Xitoyga noqonuniy o'tishining oldini olish uchun cheklovlarni boshqa Osiyo mamlakatlariga kengaytirdi. Shuningdek, Nvidia bilan bog'liq Megaspeed kompaniyasiga nisbatan jinoiy tergov olib borilmoqda.",
+    "tags": [
+      "Nvidia",
+      "chiplar"
+    ],
+    "importance": 4,
+    "score": 19,
+    "published": "2026-11-17T00:55:39.000Z",
+    "created": "2026-11-17T13:20:20.713Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/off-prem/2026/11/17/us-extends-chip-sale-restrictions-to-more-asian-countries-to-reduce-risk-of-diversion-to-china/5310307",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "90635e15e80f",
+    "slug": "isomorphic-labs-kliniki-sinovlar-uchun-5-mlrd-dollar-oldi-90635e",
+    "title": "Isomorphic Labs kliniki sinovlar uchun 5 mlrd dollar oldi",
+    "summary": "Alphabet tarkibidagi Isomorphic Labs kompaniyasi yangi dorilar yaratish va klinik sinovlarni tezlashtirish uchun Series C bosqichida 5 milliard dollar jalb qildi. Moliyalashtirish raundiga Sequoia va Greenoaks jamg'armalari boshchilik qildi.",
+    "tags": [
+      "Google",
+      "tibbiyot"
+    ],
+    "importance": 4,
+    "score": 15,
+    "published": "2026-11-17T12:11:18.000Z",
+    "created": "2026-11-17T13:20:20.713Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/261117/p18",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "42b85cf3ad15",
     "slug": "blackstone-aws-kampuslarini-sotib-olib-ijaraga-beradi-42b85c",
     "title": "Blackstone AWS kampuslarini sotib olib ijaraga beradi",
