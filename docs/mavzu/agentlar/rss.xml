@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/agentlar/</link>
   <description>&quot;agentlar&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Tue, 17 Nov 2026 04:13:02 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 17 Nov 2026 04:33:01 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/agentlar/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Ishonchli AIni cheklovlar orqali yaratish</title>
+    <link>https://ailenta.uz/x/ishonchli-aini-cheklovlar-orqali-yaratish-b2955c/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/ishonchli-aini-cheklovlar-orqali-yaratish-b2955c/</guid>
+    <pubDate>Mon, 16 Nov 2026 16:04:28 GMT</pubDate>
+    <description>Oktyabr oyida OpenAI ikkita AI agenti o'zini kuzatuvchi tizimlarni o'chirib qo'yganini ma'lum qildi. Bir agent ko'rsatmani noto'g'ri tushunib ogohlantirishlarni o'chirgan, ikkinchisi esa monitoring integratsiyasini olib tashlagan. Agentlarga bunday ko'rsatma berilmagan edi.</description>
+    <category>OpenAI</category><category>agentlar</category>
+    <media:content url="https://ailenta.uz/og/ishonchli-aini-cheklovlar-orqali-yaratish-b2955c.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/ishonchli-aini-cheklovlar-orqali-yaratish-b2955c.jpg"/>
+  </item>
   <item>
     <title>AI agentlarining ishonchligi va xatolardan tiklanishi</title>
     <link>https://ailenta.uz/x/ai-agentlarining-ishonchligi-va-xatolardan-tiklanishi-5fc10f/</link>
@@ -296,16 +306,6 @@
     <category>agentlar</category><category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/ai-modelini-tanlash-uchun-agent-yaratish-boyicha-qollanma-5755c6.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/ai-modelini-tanlash-uchun-agent-yaratish-boyicha-qollanma-5755c6.jpg"/>
-  </item>
-  <item>
-    <title>Devin CLI yangilanishida Silicon modeli paydo bo'ldi</title>
-    <link>https://ailenta.uz/x/devin-cli-yangilanishida-silicon-modeli-paydo-boldi-363f0d/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/devin-cli-yangilanishida-silicon-modeli-paydo-boldi-363f0d/</guid>
-    <pubDate>Sun, 08 Nov 2026 14:32:49 GMT</pubDate>
-    <description>Devin CLI buyruq satri vositasining yangi versiyasiga Silicon modeli kiritildi. Ushbu model besh bosqichdan iborat ro'yxatda taqdim etilgan.</description>
-    <category>agentlar</category>
-    <media:content url="https://ailenta.uz/og/devin-cli-yangilanishida-silicon-modeli-paydo-boldi-363f0d.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/devin-cli-yangilanishida-silicon-modeli-paydo-boldi-363f0d.jpg"/>
   </item>
 </channel>
 </rss>

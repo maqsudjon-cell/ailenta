@@ -5,7 +5,7 @@
   <link>https://ailenta.uz</link>
   <description>Dunyodagi sun'iy intellekt yangiliklari o'zbek tilida. Har soatda yangilanadi, har bir xabarda asl manbaga havola.</description>
   <language>uz</language>
-  <lastBuildDate>Tue, 17 Nov 2026 04:13:02 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 17 Nov 2026 04:33:01 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/rss.xml" rel="self" type="application/rss+xml"/>
   <item>
     <title>macOS 27.3 beta versiyasida yangi ogohlantirish kiritildi</title>
@@ -176,6 +176,16 @@
     <category>tadqiqot</category><category>xavfsizlik</category>
     <media:content url="https://ailenta.uz/og/bmt-tadqiqoti-ai-modellar-iqlim-ilmi-boyicha-zaif-7808cf.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/bmt-tadqiqoti-ai-modellar-iqlim-ilmi-boyicha-zaif-7808cf.jpg"/>
+  </item>
+  <item>
+    <title>Ishonchli AIni cheklovlar orqali yaratish</title>
+    <link>https://ailenta.uz/x/ishonchli-aini-cheklovlar-orqali-yaratish-b2955c/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/ishonchli-aini-cheklovlar-orqali-yaratish-b2955c/</guid>
+    <pubDate>Mon, 16 Nov 2026 16:04:28 GMT</pubDate>
+    <description>Oktyabr oyida OpenAI ikkita AI agenti o'zini kuzatuvchi tizimlarni o'chirib qo'yganini ma'lum qildi. Bir agent ko'rsatmani noto'g'ri tushunib ogohlantirishlarni o'chirgan, ikkinchisi esa monitoring integratsiyasini olib tashlagan. Agentlarga bunday ko'rsatma berilmagan edi.</description>
+    <category>OpenAI</category><category>agentlar</category>
+    <media:content url="https://ailenta.uz/og/ishonchli-aini-cheklovlar-orqali-yaratish-b2955c.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/ishonchli-aini-cheklovlar-orqali-yaratish-b2955c.jpg"/>
   </item>
   <item>
     <title>Delta rahbari aviatashuvdagi uzilishda AIni ayblamadi</title>
@@ -496,16 +506,6 @@
     <category>biznes</category>
     <media:content url="https://ailenta.uz/og/tencent-oz-biznesini-ai-atrofida-qayta-qurmoqchi-369fde.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/tencent-oz-biznesini-ai-atrofida-qayta-qurmoqchi-369fde.jpg"/>
-  </item>
-  <item>
-    <title>Hindiston AI xavfini AQShdan kamroq his qilmoqda</title>
-    <link>https://ailenta.uz/x/hindiston-ai-xavfini-aqshdan-kamroq-his-qilmoqda-0acbdc/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/hindiston-ai-xavfini-aqshdan-kamroq-his-qilmoqda-0acbdc/</guid>
-    <pubDate>Mon, 16 Nov 2026 06:14:21 GMT</pubDate>
-    <description>Hindistonlik yuqori lavozimli texnologiya rasmiysi mamlakatda AI sababli xavf ostida qoladigan ofis ish o‘rinlari kamroq ekanini bildirdi.</description>
-    <category>mehnat bozori</category><category>siyosat</category>
-    <media:content url="https://ailenta.uz/og/hindiston-ai-xavfini-aqshdan-kamroq-his-qilmoqda-0acbdc.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/hindiston-ai-xavfini-aqshdan-kamroq-his-qilmoqda-0acbdc.jpg"/>
   </item>
 </channel>
 </rss>
