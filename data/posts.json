@@ -1,5 +1,71 @@
 [
   {
+    "id": "1351659c125f",
+    "slug": "buyuk-britaniya-aktyorlari-raqamli-nusxalari-ustidan-huquq-o-135165",
+    "title": "Buyuk Britaniya aktyorlari raqamli nusxalari ustidan huquq oldi",
+    "summary": "Buyuk Britaniyadagi aktyorlar o'zlarining \"raqamli nusxalari\" ustidan ko'proq huquqlarga ega bo'ladi. Equity kasaba uyushmasi televideniye va kino prodyuserlari bilan AI himoyasi bo'yicha kelishuvga erishdi. Endi aktyorlar raqamli nusxalari ishlatilganda to'lov olish va bunga rozilik berish huquqiga ega.",
+    "tags": [
+      "mehnat bozori",
+      "qonun"
+    ],
+    "importance": 3,
+    "score": 23,
+    "published": "2026-11-17T09:00:08.000Z",
+    "created": "2026-11-17T09:03:05.811Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/technology/2026/nov/17/actors-uk-rights-digital-replicas-ai-protections",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "0afb7c05dc2b",
+    "slug": "demokratlar-ai-investitsiyasini-toxtatmay-energiya-narxini-p-0afb7c",
+    "title": "Demokratlar: AI investitsiyasini to'xtatmay, energiya narxini pasaytirish",
+    "summary": "Saylovchilar energiya narxlarining oshishidan yengillik istamoqda. Demokratlar iqtisodiyotni rivojlantirishga yordam beradigan AI investitsiyalarini to'xtatmasdan, bu muammoni hal qilish yo'lini topishlari lozim.",
+    "tags": [
+      "siyosat",
+      "iqtisod"
+    ],
+    "importance": 2,
+    "score": 19,
+    "published": "2026-11-17T08:00:00.000Z",
+    "created": "2026-11-17T09:03:05.811Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/11/17/democrats-ai-data-center-backlash-electricity-costs-regulation-economic-growth",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "3652cf3cf396",
+    "slug": "honeywell-rahbari-ai-ishchilarni-almashtirmaydi-3652cf",
+    "title": "Honeywell rahbari: AI ishchilarni almashtirmaydi",
+    "summary": "Honeywell bosh direktori Vimal Kapurning aytishicha, AI ishchilarni almashtirishga qaratilmagan. C.H. Robinson kompaniyasi AI yordamida 60% samaradorlik oshganini ma'lum qildi. Rahbarlar AI sanoat ishlarini o'zgartirayotganini va ishchilardan yangi ko'nikmalarni o'rganishni talab qilayotganini ta'kidladi.",
+    "tags": [
+      "mehnat bozori",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-11-17T07:00:00.000Z",
+    "created": "2026-11-17T09:03:05.811Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/11/17/honeywell-ceo-vimal-kapur-physical-ai-not-replacing-workers-reskilling-jobs-ch-robinson-dave-bozeman-productivity-gains",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "f054a54f8228",
     "slug": "revolut-openai-yordamida-dasturlash-vaqtini-qisqartirdi-f054a5",
     "title": "Revolut OpenAI yordamida dasturlash vaqtini qisqartirdi",
