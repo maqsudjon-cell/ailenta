@@ -5,8 +5,28 @@
   <link>https://ailenta.uz/mavzu/tadqiqot/</link>
   <description>&quot;tadqiqot&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Tue, 17 Nov 2026 14:21:19 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 17 Nov 2026 15:15:02 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/tadqiqot/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Neyroslopga qarshi manifest</title>
+    <link>https://ailenta.uz/x/neyroslopga-qarshi-manifest-ec6659/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/neyroslopga-qarshi-manifest-ec6659/</guid>
+    <pubDate>Tue, 17 Nov 2026 13:30:55 GMT</pubDate>
+    <description>Habr nashri sun'iy intellekt yordamida yaratilgan matnlarning sifati va &quot;neyslop&quot; chegarasini belgilash bo'yicha muhokamalar haqida xabar berdi. Bu masala uch yildan beri ko'tarilmoqda.</description>
+    <category>tadqiqot</category><category>mehnat bozori</category>
+    <media:content url="https://ailenta.uz/og/neyroslopga-qarshi-manifest-ec6659.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/neyroslopga-qarshi-manifest-ec6659.jpg"/>
+  </item>
+  <item>
+    <title>Facebook va Instagram'ga AI tarjimani olib kelgan prototip</title>
+    <link>https://ailenta.uz/x/facebook-va-instagramga-ai-tarjimani-olib-kelgan-prototip-abd2d9/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/facebook-va-instagramga-ai-tarjimani-olib-kelgan-prototip-abd2d9/</guid>
+    <pubDate>Tue, 17 Nov 2026 12:53:06 GMT</pubDate>
+    <description>Analytics Insight nashri Facebook va Instagram'ga sun'iy intellekt tarjimasini olib kelishga yordam bergan prototip haqida xabar berdi.</description>
+    <category>Meta</category><category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/facebook-va-instagramga-ai-tarjimani-olib-kelgan-prototip-abd2d9.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/facebook-va-instagramga-ai-tarjimani-olib-kelgan-prototip-abd2d9.jpg"/>
+  </item>
   <item>
     <title>GLiNER2.5 modelini moslashtirish tajribasi</title>
     <link>https://ailenta.uz/x/gliner2-5-modelini-moslashtirish-tajribasi-475fa2/</link>
@@ -286,26 +306,6 @@
     <category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/fordda-ai-loyihalash-vaqtini-ikki-baravar-qisqartirdi-7a3798.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/fordda-ai-loyihalash-vaqtini-ikki-baravar-qisqartirdi-7a3798.jpg"/>
-  </item>
-  <item>
-    <title>Wildberries AI assistentida spekulativ dekodlashni qo'lladi</title>
-    <link>https://ailenta.uz/x/wildberries-ai-assistentida-spekulativ-dekodlashni-qolladi-3405e4/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/wildberries-ai-assistentida-spekulativ-dekodlashni-qolladi-3405e4/</guid>
-    <pubDate>Fri, 13 Nov 2026 09:36:15 GMT</pubDate>
-    <description>Wildberries o'zining BerryLM AI assistentini spekulativ dekodlash usuliga o'tkazdi. Assistent bitta xabarga o'rtacha 26 marta LLM chaqiruvini bajaradi. Yangi usul javob qaytarish tezligini oshirishga qaratilgan.</description>
-    <category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/wildberries-ai-assistentida-spekulativ-dekodlashni-qolladi-3405e4.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/wildberries-ai-assistentida-spekulativ-dekodlashni-qolladi-3405e4.jpg"/>
-  </item>
-  <item>
-    <title>AI ishlanmalarida nutqni tanib olish sifati baholandi</title>
-    <link>https://ailenta.uz/x/ai-ishlanmalarida-nutqni-tanib-olish-sifati-baholandi-1cd4b9/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/ai-ishlanmalarida-nutqni-tanib-olish-sifati-baholandi-1cd4b9/</guid>
-    <pubDate>Fri, 13 Nov 2026 04:56:00 GMT</pubDate>
-    <description>Muallif AI yordamida dasturlashda texnik atamalarni nutq orqali tanib olish sifati bo'yicha tajriba o'tkazdi. Tadqiqotda WER metrikasining o'ziga xos xususiyatlari va ma'lumotlar to'plami tahlil qilindi.</description>
-    <category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/ai-ishlanmalarida-nutqni-tanib-olish-sifati-baholandi-1cd4b9.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/ai-ishlanmalarida-nutqni-tanib-olish-sifati-baholandi-1cd4b9.jpg"/>
   </item>
 </channel>
 </rss>

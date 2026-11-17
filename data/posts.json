@@ -1,5 +1,180 @@
 [
   {
+    "id": "84c1d32f1232",
+    "slug": "ai-taqiladigan-qurilmalar-zaif-paytlardan-foydalanishi-mumki-84c1d3",
+    "title": "AI taqiladigan qurilmalar zaif paytlardan foydalanishi mumkin",
+    "summary": "Nature nashri xabariga ko'ra, sun'iy intellektga ega taqiladigan qurilmalar odamlarning eng zaif paytlaridan foydalanish xavfini tug'dirishi mumkin.",
+    "tags": [
+      "xavfsizlik",
+      "maxfiylik"
+    ],
+    "importance": 3,
+    "score": 21.9,
+    "published": "2026-11-17T00:00:00.000Z",
+    "created": "2026-11-17T15:05:43.530Z",
+    "coverage": 1,
+    "source": {
+      "name": "Nature",
+      "url": "https://nature.com/articles/d41586-026-03742-4",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "07b0bcf856f9",
+    "slug": "amerikaliklar-ai-davrida-kapitalizmga-shubha-bilan-qaramoqda-07b0bc",
+    "title": "Amerikaliklar AI davrida kapitalizmga shubha bilan qaramoqda",
+    "summary": "Just Capital so'roviga ko'ra, amerikaliklarning to'rtdan uchi innovatsiyaning eng yaxshi kunlari hozir yoki kelajakda ekanligiga ishonadi. Biroq, ular AI davrida kapitalizm ularga foyda keltirishidan xavotirda.",
+    "tags": [
+      "iqtisod",
+      "mehnat bozori"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-11-17T13:45:00.000Z",
+    "created": "2026-11-17T15:05:43.530Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/11/17/americans-capitalism-ai-era-companies-reskilling-just-capital",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "f813501ead70",
+    "slug": "virgin-group-rahbari-ai-va-liderlik-haqida-gapirdi-f81350",
+    "title": "Virgin Group rahbari AI va liderlik haqida gapirdi",
+    "summary": "Virgin Group bosh direktori o'zining kundalik odatlari, Virgin Atlantic, Virgin Hotels va Virgin Voyages kompaniyalarini boshqarish haqida so'zlab berdi. U AI'dan foydalanish va odamlarga yo'naltirilgan liderlikni muhokama qildi.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 1,
+    "score": 15,
+    "published": "2026-11-17T10:03:01.000Z",
+    "created": "2026-11-17T15:05:43.530Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/virgin-groups-ceo-josh-bayliss-how-i-do-my-job-2026-11",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "ec6659206146",
+    "slug": "neyroslopga-qarshi-manifest-ec6659",
+    "title": "Neyroslopga qarshi manifest",
+    "summary": "Habr nashri sun'iy intellekt yordamida yaratilgan matnlarning sifati va \"neyslop\" chegarasini belgilash bo'yicha muhokamalar haqida xabar berdi. Bu masala uch yildan beri ko'tarilmoqda.",
+    "tags": [
+      "tadqiqot",
+      "mehnat bozori"
+    ],
+    "importance": 2,
+    "score": 11,
+    "published": "2026-11-17T13:30:55.000Z",
+    "created": "2026-11-17T15:05:43.530Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1108904",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "6516c6696195",
+    "slug": "audible-foydalanuvchilarga-audiokitoblarni-topishda-aidan-fo-6516c6",
+    "title": "Audible foydalanuvchilarga audiokitoblarni topishda AI'dan foydalanadi",
+    "summary": "Audible kompaniyasi foydalanuvchilarga audiokitoblarni topishda yordam berish uchun sun'iy intellektga murojaat qildi. Yangi AI tomonidan yaratilgan audio oldindan ko'rishlar kitob mavzularini va o'quvchilarning fikrlarini umumlashtiradi.",
+    "tags": [
+      "biznes",
+      "agentlar"
+    ],
+    "importance": 2,
+    "score": 10.6,
+    "published": "2026-11-16T15:52:19.000Z",
+    "created": "2026-11-17T15:05:43.530Z",
+    "coverage": 1,
+    "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/16/audible-turns-to-ai-to-help-users-discover-audiobooks",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "abd2d9df14f2",
+    "slug": "facebook-va-instagramga-ai-tarjimani-olib-kelgan-prototip-abd2d9",
+    "title": "Facebook va Instagram'ga AI tarjimani olib kelgan prototip",
+    "summary": "Analytics Insight nashri Facebook va Instagram'ga sun'iy intellekt tarjimasini olib kelishga yordam bergan prototip haqida xabar berdi.",
+    "tags": [
+      "Meta",
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 7,
+    "published": "2026-11-17T12:53:06.000Z",
+    "created": "2026-11-17T15:05:43.530Z",
+    "coverage": 1,
+    "source": {
+      "name": "Analytics Insight",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONDFnRFV0S3dtZTA2dVZNeTZzbEh0azlYZm5XRFppcHhKQlZSVUFsajM5NUtrOHgxTU04UVViRWNPRjJKR1o2dkkwa3FHdG50R2xJYXRHOHBvNVptNF9KUFozdjBMaDJ4Sko4YmRXMHg1VnhCdG5qOFRyLVBpUUlVS0ljQU1ZcDlibUNxcjlwdXI0TlZaVDh3UW5WS2ozMnBKQW92aTNWNjFjTVlFbXdlY19tY3NaNmxjUzhkM2NJMmFoWWJJNG9PctIB1gFBVV95cUxNUWoxM3NwZldUVkh2Q3NLVnh3eW9kaGhreHdGODVYMEJDNFdCVkdlNUtidHVGNHVjOENPX1NUTEg2a3JMOUxodXNaeTAwSG5SMWhRTjlaR2kyX0JkQXdDLVRuT2s3aVQ3NGFWQVJhdXZwNnhJZlRENVlEV3d4Y1ZxWmJhd1lEQnlBNjNQLWpjWW1fR1JfMEtRUUx0RVBudjdYMGdZXzhlNnpxdjZvVUlBUTB6bWpscnhjZDVOQl90bUZqUUtxWTRkQ29NX3JsMGIwQl9fLVl3",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "cc06690ca9d3",
+    "slug": "avstriyalik-tadbirkor-ai-firewall-bilan-kichik-biznesni-himo-cc0669",
+    "title": "Avstriyalik tadbirkor AI firewall bilan kichik biznesni himoyalaydi",
+    "summary": "Avstriyalik tadbirkor Marino Müller MB Cyber Security kompaniyasi orqali kichik bizneslarni avtonom AI firewall yordamida himoya qilmoqda.",
+    "tags": [
+      "xavfsizlik",
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 7,
+    "published": "2026-11-17T12:12:13.000Z",
+    "created": "2026-11-17T15:05:43.530Z",
+    "coverage": 1,
+    "source": {
+      "name": "www.trendingtopics.eu",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQa0g0Z1FvYVlYZUEyZHNiUFFSZnZ3LXp3LWxTQnRvaVlyamNnNWpZTk1aRmJ5cG1TR2tISDRTUEp0OHRDbldhUzBlOWtncVg0ZHhLV3pWa3ZQSUZGRU04QjJBMDRpTHFxZnNhNk5Jci1XdVY1SzRiVGgxdzYwSXBQNUNZZmVPSXBqX1VJVE05eWs4RUgxQVJ6TmtrUDVCZEU1NVQ0Tl9VR3RGcXlt",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "85e313ccbe7c",
+    "slug": "xitoyning-ai-ustunligi-osiyoning-taqdiri-emas-85e313",
+    "title": "Xitoyning AI ustunligi Osiyoning taqdiri emas",
+    "summary": "East Asia Forum nashri Xitoyning sun'iy intellekt sohasidagi ustunligi Osiyo mintaqasining muqarrar taqdiri emasligi haqida xabar berdi.",
+    "tags": [
+      "siyosat",
+      "iqtisod"
+    ],
+    "importance": 3,
+    "score": 7,
+    "published": "2026-11-17T11:03:45.000Z",
+    "created": "2026-11-17T15:05:43.530Z",
+    "coverage": 1,
+    "source": {
+      "name": "East Asia Forum",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbjFMOVZaYXdNemFmc0JtbmgzcGdsLXVHRnJlems4YjRycHNTemN4MFNZU0xJUGkzd1g5bWY2N3hyUmNJdVNOX0tLN2w2ekFwOTl0SEFiUGlubjQ0bGNDQ2N0VTZTV0hqOFZWcWRlMVM0ejZicVRCVHBWc29uM2gyRWVMbHRTZw",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "63e247d2b73a",
     "slug": "xitoyda-9-milliard-dollarlik-davlat-data-markazi-tarmogi-qur-63e247",
     "title": "Xitoyda 9 milliard dollarlik davlat data markazi tarmog'i qurildi",
