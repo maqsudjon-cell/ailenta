@@ -1,5 +1,137 @@
 [
   {
+    "id": "0aac2d806117",
+    "slug": "aqshda-ai-uchun-data-markazlar-qurilishi-davom-etmoqda-0aac2d",
+    "title": "AQSHda AI uchun data markazlar qurilishi davom etmoqda",
+    "summary": "AQSHda AI uchun data markazlar qurilishi to'xtamayapti. Energiya kompaniyalari bu sohada hali ham katta imkoniyatlarni ko'rmoqda.",
+    "tags": [
+      "iqtisod",
+      "bulut"
+    ],
+    "importance": 2,
+    "score": 22,
+    "published": "2026-11-17T14:28:36.000Z",
+    "created": "2026-11-17T16:37:32.468Z",
+    "coverage": 1,
+    "source": {
+      "name": "Semafor",
+      "url": "https://semafor.com/article/11/17/2026/ai-isnt-out-of-energy-yet",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "df92921082e9",
+    "slug": "voyage-labs-ai-sayohat-yordamchisi-uchun-12-mln-jalb-qildi-df9292",
+    "title": "Voyage Labs AI sayohat yordamchisi uchun $12 mln jalb qildi",
+    "summary": "Voyage Labs startapi ixtisoslashgan AI sayohat yordamchisi uchun 12 million dollar sarmoya jalb qildi. Google Maps sobiq xodimi tomonidan asos solingan kompaniya ushbu yo'nalishga e'tibor qaratmoqda.",
+    "tags": [
+      "biznes",
+      "agentlar"
+    ],
+    "importance": 2,
+    "score": 21,
+    "published": "2026-11-17T15:00:00.000Z",
+    "created": "2026-11-17T16:37:32.468Z",
+    "coverage": 1,
+    "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/17/voyage-labs-raises-12-million-for-a-specialized-ai-travel-assistant",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "1964698ed547",
+    "slug": "xakerlar-ai-yetkazib-beruvchidan-uber-haydovchilari-malumoti-196469",
+    "title": "Xakerlar AI yetkazib beruvchidan Uber haydovchilari ma'lumotini o'g'irladi",
+    "summary": "Xakerlar AI yetkazib beruvchi kompaniyaga hujum qilib, Uber haydovchilarining litsenziya ma'lumotlarini o'g'irladi. Uberning ta'kidlashicha, o'g'irlangan hisob ma'lumotlari jinoyatchilarga ushbu ma'lumotlarga kirish imkonini bergan.",
+    "tags": [
+      "xavfsizlik",
+      "Uber"
+    ],
+    "importance": 4,
+    "score": 19,
+    "published": "2026-11-17T16:15:00.000Z",
+    "created": "2026-11-17T16:37:32.468Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/security/2026/11/17/hackers-smash-n-grab-ai-vendor-take-off-with-license-data-of-uber-drivers/5310464",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "71840d41a230",
+    "slug": "the-ai-scientist-41-hollarda-xato-qilmoqda-71840d",
+    "title": "The AI Scientist 41% hollarda xato qilmoqda",
+    "summary": "\"The AI Scientist\" avtonom AI'si eksperimentlarning 41 foizida xato qilib, ilmiy bo'lmagan to'qib chiqarishlar (hallucinations) hosil qilmoqda. Habr nashri DeepTech tizimlaridagi ushbu muammoni tahlil qildi.",
+    "tags": [
+      "tadqiqot",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 14,
+    "published": "2026-11-17T14:51:44.000Z",
+    "created": "2026-11-17T16:37:32.468Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1108970",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "7d1f622b002d",
+    "slug": "ai-eksperti-boston-robototexnikasida-katta-salohiyat-kormoqd-7d1f62",
+    "title": "AI eksperti Boston robototexnikasida katta salohiyat ko'rmoqda",
+    "summary": "Bir AI eksperti Bostonning robototexnika sohasidagi salohiyatini \"ulkan\" deb baholadi. U mintaqaning kelajagiga katta umid bilan qarayotganini bildirdi.",
+    "tags": [
+      "robototexnika",
+      "iqtisod"
+    ],
+    "importance": 2,
+    "score": 7,
+    "published": "2026-11-17T10:45:00.000Z",
+    "created": "2026-11-17T16:37:32.468Z",
+    "coverage": 1,
+    "source": {
+      "name": "MassLive",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdVh1aEZPLUpYaWdIV01wdU9SUTlfUmFTMEV4aFlOM2RJaGF5SUdxZkZHTkpWYkp4ZC1iR29zbDVNYmNBbkc3UEtzZE9RX3ZvMllZdGNPNExEd1RUa2VDSmwyZU02VDJKLWpxcmRIeDF5ZjhGcU5uckJHc1dWbk9VU2NRVHhNVnVVWjFjS1ItU2V5cUJBWDBSUlhOVUJUZzhhOFZ2djdpQnBTX0ZNbXlJ",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "69780833aead",
+    "slug": "bessent-savdo-vazirligi-etirozlariga-qaramay-ai-chip-qoidasi-697808",
+    "title": "Bessent Savdo vazirligi e'tirozlariga qaramay AI chip qoidasini ilgari surdi",
+    "summary": "Bessent Savdo vazirligining e'tirozlariga qaramay, AI chiplariga oid yangi qoidani ilgari surdi.",
+    "tags": [
+      "siyosat",
+      "chiplar"
+    ],
+    "importance": 3,
+    "score": 6.4,
+    "published": "2026-11-17T03:06:00.000Z",
+    "created": "2026-11-17T16:37:32.468Z",
+    "coverage": 1,
+    "source": {
+      "name": "Politico",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSnRIQ2pkaE9LMG5IYzczNmdEZUlPYnc4SmJsRzduc0VzUnhBX2E1eklOYlItMHU5SWE0bjA3RWNWdElJWF9BT25CQTcwX2tMaktXYXlyQ0k0QndwblJOci1mR09sS3N4dVotcHJUZ0ktSkJkekhKRzZOcWZ0ckZmVjdmNXYyXzFvOElSdWtROTFVaEV0ekk3RVJBRk5uLTZWbmtqbjNPTl85Mmc",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "84c1d32f1232",
     "slug": "ai-taqiladigan-qurilmalar-zaif-paytlardan-foydalanishi-mumki-84c1d3",
     "title": "AI taqiladigan qurilmalar zaif paytlardan foydalanishi mumkin",
