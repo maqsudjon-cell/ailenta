@@ -1,5 +1,69 @@
 [
   {
+    "id": "c2e053d45c86",
+    "slug": "z-avlodining-uchdan-bir-qismi-ai-dostligiga-tayanmoqda-c2e053",
+    "title": "Z avlodining uchdan bir qismi AI do'stligiga tayanmoqda",
+    "summary": "Gallup hisobotiga ko'ra, Z avlodining uchdan bir qismidan ko'prog'i muloqot uchun sun'iy intellektdan foydalanadi. AI bilan muloqot qiladigan yoshlarda yolg'izlik darajasi boshqalarga qaraganda yuqoriroq ekani aniqlandi.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 23,
+    "published": "2026-11-18T05:01:00.000Z",
+    "created": "2026-11-18T06:03:47.044Z",
+    "coverage": 1,
+    "source": {
+      "name": "Wired",
+      "url": "https://wired.com/story/over-a-third-of-gen-z-rely-on-ai-for-friendship",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "461a1fe87414",
+    "slug": "ai-matn-detektorlarini-takomillashtirish-usuli-yaratildi-461a1f",
+    "title": "AI matn detektorlarini takomillashtirish usuli yaratildi",
+    "summary": "Moslashuvchanroq o'qitish usuli yangi modellar paydo bo'lganda AI matn detektorlarining barqarorligini oshiradi. Bu usul sun'iy intellekt yaratgan matnlarni aniqlash samaradorligini yaxshilaydi.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 22,
+    "published": "2026-11-18T05:00:00.000Z",
+    "created": "2026-11-18T06:03:47.044Z",
+    "coverage": 1,
+    "source": {
+      "name": "MIT News",
+      "url": "https://news.mit.edu/2026/helping-ai-text-detectors-keep-up-with-changing-conditions-1118",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "eeb5d6aa47cd",
+    "slug": "jeff-bezos-it-kompaniyalarini-ayblamaslikka-chaqirdi-eeb5d6",
+    "title": "Jeff Bezos IT kompaniyalarini ayblamaslikka chaqirdi",
+    "summary": "Amazon asoschisi Jeff Bezos yirik texnologiya kompaniyalarini ayblash AQSH muammolarini hal etmasligini aytdi. Uning ta'kidlashicha, siyosatchilar AI xavfsizligi va data markazlari fonida sohani aybdorga aylantirmoqda.",
+    "tags": [
+      "Amazon",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-11-18T05:01:01.000Z",
+    "created": "2026-11-18T06:03:47.044Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/jeff-bezos-big-tech-political-technique-villain-2026-11",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "7a9e51a5eadb",
     "slug": "cot-fikrlash-jarayonini-nazorat-qilish-organildi-7a9e51",
     "title": "CoT fikrlash jarayonini nazorat qilish o'rganildi",
