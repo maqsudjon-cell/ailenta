@@ -1,9 +1,9 @@
 [
   {
     "id": "f9c522b584f7",
-    "slug": "ai-uskunalariga-talab-osiyo-eksportini-rekord-darajaga-oshir-f9c522",
-    "title": "AI uskunalariga talab Osiyo eksportini rekord darajaga oshirdi",
-    "summary": "Xitoy, Yaponiya va Janubiy Koreya kompaniyalari global AI infratuzilmasi uchun zarur chip ishlab chiqaruvchi asosiy ishtirokchilarga aylandi. Bu ularning eksportini rekord darajaga yetkazdi.",
+    "slug": "ai-chiplariga-talab-osiyo-eksportini-rekord-darajaga-kotardi-f9c522",
+    "title": "AI chiplariga talab Osiyo eksportini rekord darajaga ko'tardi",
+    "summary": "Xitoy, Yaponiya va Janubiy Koreya kompaniyalari AI infratuzilmasi uchun zarur chiplarning asosiy ishlab chiqaruvchilariga aylandi. Bu mahsulotlarga bo'lgan yuqori talab Osiyo mamlakatlarining eksport hajmini rekord darajaga yetkazdi.",
     "tags": [
       "chiplar",
       "iqtisod"
@@ -11,7 +11,7 @@
     "importance": 3,
     "score": 19,
     "published": "2026-11-18T11:25:15.000Z",
-    "created": "2026-11-18T12:07:40.451Z",
+    "created": "2026-11-18T12:23:52.766Z",
     "coverage": 1,
     "source": {
       "name": "Semafor",
@@ -22,64 +22,21 @@
     "model": "gemini"
   },
   {
-    "id": "246f1a63c5a1",
-    "slug": "baidu-va-xiaomi-ai-daromadi-kamligidan-ogohlantirdi-246f1a",
-    "title": "Baidu va Xiaomi AI daromadi kamligidan ogohlantirdi",
-    "summary": "Baidu va Xiaomi bosh direktorlari AI shov-shuvi hamda undan olinadigan moliyaviy daromad o'rtasidagi tafovut ortib borayotganidan ogohlantirdi.",
+    "id": "c096e2b01c9c",
+    "slug": "pangram-detektori-yozuvchi-romanini-ai-yaratgan-deb-topdi-c096e2",
+    "title": "Pangram detektori yozuvchi romanini AI yaratgan deb topdi",
+    "summary": "Pangram dasturi perulik yozuvchi Devid Silva Roxasning mukofotga sazovor bo'lgan romanini 99 foiz AI tomonidan yaratilgan deb belgiladi. Bu holat adabiyot va sun'iy intellekt o'rtasidagi bahslarga sabab bo'ldi.",
     "tags": [
-      "biznes",
-      "iqtisod"
-    ],
-    "importance": 3,
-    "score": 18.7,
-    "published": "2026-11-17T14:19:59.000Z",
-    "created": "2026-11-18T12:07:40.452Z",
-    "coverage": 1,
-    "source": {
-      "name": "Hacker News",
-      "url": "https://scmp.com/tech/big-tech/article/3374774/baidu-xiaomi-ceos-warn-growing-gap-between-ai-hype-and-returns",
-      "indirect": false
-    },
-    "also": [],
-    "model": "gemini"
-  },
-  {
-    "id": "8a327052e250",
-    "slug": "ai-sanoatida-diniy-va-kvasidiniy-qarashlar-kuchaymoqda-8a3270",
-    "title": "AI sanoatida diniy va kvasidiniy qarashlar kuchaymoqda",
-    "summary": "New Yorker nashri xabariga ko'ra, sun'iy intellekt sohasida apokalipsis haqidagi ogohlantirishlar va maxfiy bashoratlar bilan bog'liq diniy kayfiyatlar tarqalmoqda.",
-    "tags": [
-      "biznes"
+      "tadqiqot"
     ],
     "importance": 2,
     "score": 15,
-    "published": "2026-11-18T11:40:01.000Z",
-    "created": "2026-11-18T12:07:40.452Z",
+    "published": "2026-11-18T12:00:58.000Z",
+    "created": "2026-11-18T12:23:52.766Z",
     "coverage": 1,
     "source": {
       "name": "Techmeme",
-      "url": "https://techmeme.com/261118/p14",
-      "indirect": false
-    },
-    "also": [],
-    "model": "gemini"
-  },
-  {
-    "id": "629fd25d6f12",
-    "slug": "palmer-lakki-dengizdagi-slab-platformasini-taqdim-etdi-629fd2",
-    "title": "Palmer Lakki dengizdagi SLAB platformasini taqdim etdi",
-    "summary": "Palmer Lakki suzuvchi ma'lumotlar markazlaridan ko'ra qiziqroq bo'lgan yangi SLAB platformasini ilgari surmoqda. U ushbu loyihani qonunlardan xoli shahar-davlat sifatida tasvirlamoqda.",
-    "tags": [
-      "bulut"
-    ],
-    "importance": 2,
-    "score": 15,
-    "published": "2026-11-18T09:41:44.000Z",
-    "created": "2026-11-18T12:07:40.452Z",
-    "coverage": 1,
-    "source": {
-      "name": "Engadget",
-      "url": "https://engadget.com/2320221/palmer-luckeys-slab-seastead-is-way-cooler-than-a-floating-data-center",
+      "url": "https://techmeme.com/261118/p16",
       "indirect": false
     },
     "also": [],
