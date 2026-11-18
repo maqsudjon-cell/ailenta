@@ -1,5 +1,49 @@
 [
   {
+    "id": "e4700bdcf02b",
+    "slug": "yann-lecun-ai-kiberhujumlar-otish-davri-dedi-e4700b",
+    "title": "Yann LeCun AI kiberhujumlar o'tish davri dedi",
+    "summary": "AMI asoschisi Yann LeCun yaqinda sodir bo'lgan AI kiberhujumlarini \"qisqa o'tish davri\" deb atadi. Uning fikricha, biz dasturiy tizimlar uchun misli ko'rilmagan xavfsizlikka erishmoqdamiz.",
+    "tags": [
+      "xavfsizlik",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-11-18T01:02:32.000Z",
+    "created": "2026-11-18T02:07:16.453Z",
+    "coverage": 1,
+    "source": {
+      "name": "Semafor",
+      "url": "https://semafor.com/article/11/17/2026/recent-ai-cyberattacks-are-part-of-a-short-period-of-transition-says-yann-lecun",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "5a76136e8f2d",
+    "slug": "aqsh-xitoyga-ai-quvvatini-cheklamoqda-xitoy-javob-berdi-5a7613",
+    "title": "AQSH Xitoyga AI quvvatini cheklamoqda, Xitoy javob berdi",
+    "summary": "AQSH chip eksporti nazoratini kuchaytirib, Xitoyning chet elda AI quvvatini ijaraga olishini bloklamoqda. Biroq, Reuters ma'lumotiga ko'ra, Xitoy AQSH AI modellarini sanoat miqyosida distillash orqali apparat tanqisligini qoplamoqda.",
+    "tags": [
+      "chiplar",
+      "siyosat"
+    ],
+    "importance": 5,
+    "score": 18,
+    "published": "2026-11-17T16:47:21.000Z",
+    "created": "2026-11-18T02:07:16.454Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/the-us-wants-to-block-china-from-renting-ai-power-abroad-but-china-already-built-a-parallel-supply-chain-from-us-ai-output",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "5d0f303f6120",
     "slug": "angliyada-imtihonda-ai-ishlatganlar-chetlatilishi-mumkin-5d0f30",
     "title": "Angliyada imtihonda AI ishlatganlar chetlatilishi mumkin",
