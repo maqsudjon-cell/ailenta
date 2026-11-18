@@ -1,5 +1,115 @@
 [
   {
+    "id": "dddf05f2b4fe",
+    "slug": "nvidia-jensen-huangni-qaytarish-petitsiyasi-190-ming-imzo-dddf05",
+    "title": "Nvidia: Jensen Huangni qaytarish petitsiyasi 190 ming imzo",
+    "summary": "Elon Musk qo‘llab-quvvatlagan onlayn petitsiya Nvidia asoschisi Jensen Huangni CEO lavozimiga qaytarishni talab qilmoqda. Unga 190 mingdan ortiq imzo yig‘ilgan bo‘lsa-da, kompaniya kengashi bu taklifni rad etdi.",
+    "tags": [
+      "Nvidia",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 48,
+    "published": "2026-11-18T07:28:01.000Z",
+    "created": "2026-11-18T17:08:44.110Z",
+    "coverage": 1,
+    "source": {
+      "name": "Pivot",
+      "url": "https://pivot.uz/uz/jensen-huangni-nvidiaga-qaytarish-petitsiyasiga-190-mingdan-ortiq-imzo-yigildi",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "f457fa2439c8",
+    "slug": "aqsh-senatorlari-ai-zaifliklarini-tuzatishga-chaqirdi-f457fa",
+    "title": "AQSH senatorlari AI zaifliklarini tuzatishga chaqirdi",
+    "summary": "AQSH senatorlari Jay Claytonga maktub yo‘llab, yirik kompaniyalar va davlat idoralaridagi uzilishlardan so‘ng AI infratuzilmasidagi zaifliklarni aniqlash va tuzatishni talab qildi.",
+    "tags": [
+      "siyosat",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 23,
+    "published": "2026-11-18T15:53:10.000Z",
+    "created": "2026-11-18T17:08:44.110Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/us-news/2026/nov/18/jay-clayton-ai-tech-outages-infrastructure",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "e1df6ffebcb5",
+    "slug": "ai-javobgarlikka-tortilishi-shart-deydi-nature-e1df6f",
+    "title": "AI javobgarlikka tortilishi shart, deydi Nature",
+    "summary": "Nature nashri AI javobgarlikka tortilishi kerakligini ta’kidladi. Qadriyatlar haqidagi bayonotlar inson qadr-qimmatini himoya qila olmaydi, deyiladi xabarda.",
+    "tags": [
+      "qonun",
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 21,
+    "published": "2026-11-18T00:00:00.000Z",
+    "created": "2026-11-18T17:08:44.110Z",
+    "coverage": 1,
+    "source": {
+      "name": "Nature",
+      "url": "https://nature.com/articles/d41586-026-03717-5",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "24b01c999fdb",
+    "slug": "ai-keshining-noto-g-ri-sozlamasi-katta-xarajatga-olib-keladi-24b01c",
+    "title": "AI keshining noto‘g‘ri sozlamasi katta xarajatga olib keladi",
+    "summary": "AI keshini noto‘g‘ri sozlash katta moliyaviy xarajatlarga olib kelishi mumkinligi haqida ogohlantirildi.",
+    "tags": [
+      "biznes",
+      "bulut"
+    ],
+    "importance": 2,
+    "score": 19,
+    "published": "2026-11-18T16:17:00.000Z",
+    "created": "2026-11-18T17:08:44.110Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/ai-and-ml/2026/11/18/the-wrong-setting-for-ai-cache-can-cost-you-a-lot-of-cash/5310831",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "4537957bd72f",
+    "slug": "missisipi-gubernatori-ai-infratuzilmasi-zarurligini-takidlad-453795",
+    "title": "Missisipi gubernatori AI infratuzilmasi zarurligini ta'kidladi",
+    "summary": "Missisipi gubernatori Tate Reevesning aytishicha, AI infratuzilmasi haqidagi xabarlar uning zarurligi haqida bo‘lmay qolganda yomonlashgan. Uning fikricha, har bir amerikalik ma’lumot markazlaridan muntazam foydalanadi.",
+    "tags": [
+      "siyosat",
+      "iqtisod"
+    ],
+    "importance": 2,
+    "score": 19,
+    "published": "2026-11-18T15:49:58.000Z",
+    "created": "2026-11-18T17:08:44.110Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/11/18/mississippi-governor-data-center-messaging-midterm-elections",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "3c4c3cdd8565",
     "slug": "yevropa-ai-sohasi-raqobatda-ortda-qolmoqda-3c4c3c",
     "title": "Yevropa AI sohasi raqobatda ortda qolmoqda",
