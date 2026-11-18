@@ -1,5 +1,137 @@
 [
   {
+    "id": "c9996132d66d",
+    "slug": "trampning-xitoy-safari-ai-muzokaralariga-tasir-qilmaydi-c99961",
+    "title": "Trampning Xitoy safari AI muzokaralariga ta'sir qilmaydi",
+    "summary": "Rasmiylarning fikricha, Trampning Xitoyga safari sun'iy intellekt bo'yicha muzokaralarda sezilarli natija bermaydi. Nvidia bilan bog'liq mojaro AI bo'yicha har qanday kelishuvni qiyinlashtirgan.",
+    "tags": [
+      "siyosat",
+      "Nvidia"
+    ],
+    "importance": 3,
+    "score": 26,
+    "published": "2026-11-18T22:00:00.000Z",
+    "created": "2026-11-18T22:27:45.828Z",
+    "coverage": 1,
+    "source": {
+      "name": "Wired",
+      "url": "https://wired.com/story/administration-officials-dont-think-much-ai-progress-will-come-of-trumps-china-visit",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "a15016c06c8c",
+    "slug": "avstraliya-ai-markazlarini-himoya-zonasiga-kiritmoqda-a15016",
+    "title": "Avstraliya AI markazlarini himoya zonasiga kiritmoqda",
+    "summary": "Avstraliya parlamenti mudofaa qonun loyihasini tezkorlik bilan qabul qilmoqda. Unga ko'ra, AI ma'lumot markazlari \"mudofaa xavfsizlik zonalari\" deb e'lon qilinishi mumkin. Bu qonun mamlakatdagi maxfiylikni yanada oshirishi kutilmoqda.",
+    "tags": [
+      "siyosat",
+      "qonun"
+    ],
+    "importance": 3,
+    "score": 23,
+    "published": "2026-11-18T22:00:09.000Z",
+    "created": "2026-11-18T22:27:45.829Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/commentisfree/2026/nov/19/australia-has-a-reputation-for-being-the-most-secretive-democracy-in-the-world-new-laws-could-make-it-worse",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "535ee02d0cd9",
+    "slug": "ai-225-million-veb-sayt-ishlatadigan-nginxda-xato-topdi-535ee0",
+    "title": "AI 225 million veb-sayt ishlatadigan NGINXda xato topdi",
+    "summary": "Sun'iy intellekt keng qo'llaniladigan NGINX texnologiyasida muhim xatolarni aniqladi. Ushbu ochiq kodli dastur 225 million veb-saytda ishlaydi.",
+    "tags": [
+      "xavfsizlik",
+      "ochiq model"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-11-18T21:11:04.000Z",
+    "created": "2026-11-18T22:27:45.829Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/security/2026/11/18/ai-found-more-critical-bugs-in-another-widely-used-technology-running-225m-websites/5310887",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "748dee8b2bb6",
+    "slug": "ai-tufayli-yaratilgan-superkompyuterlar-top500-royxatida-yoq-748dee",
+    "title": "AI tufayli yaratilgan superkompyuterlar Top500 ro'yxatida yo'q",
+    "summary": "Sun'iy intellekt juda katta superkompyuterlarning paydo bo'lishiga sabab bo'ldi. Biroq, bu qudratli mashinalar dunyodagi eng yirik superkompyuterlar ro'yxati bo'lgan Top500'ga kiritilmagan.",
+    "tags": [
+      "chiplar",
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 19,
+    "published": "2026-11-18T20:15:44.000Z",
+    "created": "2026-11-18T22:27:45.829Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/hpc/2026/11/18/to-rank-the-worlds-biggest-supercomputers-were-gonna-need-a-bigger-bench/5310878",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "b700720d3e46",
+    "slug": "ai-zaifliklarni-topishi-uzilishlarga-sabab-bolmoqda-b70072",
+    "title": "AI zaifliklarni topishi uzilishlarga sabab bo'lmoqda",
+    "summary": "Sun'iy intellekt vositalari tizimlardagi zaifliklarni aniqlashi sababli, dasturlarni shoshilinch yangilashga urinishlar ko'paymoqda. Bu esa ba'zi hollarda xatolarga boy yangilanishlar orqali texnik uzilishlarga olib kelmoqda.",
+    "tags": [
+      "xavfsizlik",
+      "biznes"
+    ],
+    "importance": 4,
+    "score": 19,
+    "published": "2026-11-18T20:09:49.000Z",
+    "created": "2026-11-18T22:27:45.829Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/11/18/ai-played-a-major-role-in-the-nsa-banking-outages-but-not-in-the-way-you-may-think",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "22c3131e87fd",
+    "slug": "palmer-luckey-ai-kiberhujumlar-mudofaadan-tezroq-deydi-22c313",
+    "title": "Palmer Luckey AI kiberhujumlar mudofaadan tezroq deydi",
+    "summary": "Anduril asoschilaridan biri Palmer Luckey sun'iy intellektga asoslangan kiberhujumlar mudofaa tizimlaridan tezroq rivojlanayotganidan ogohlantirdi. Uning so'zlariga ko'ra, eskirgan texnologiyalar tizimlarni yangi turdagi AI hujumlariga qarshi zaif qilib qo'ymoqda.",
+    "tags": [
+      "xavfsizlik",
+      "biznes"
+    ],
+    "importance": 4,
+    "score": 15,
+    "published": "2026-11-18T21:34:13.000Z",
+    "created": "2026-11-18T22:27:45.829Z",
+    "coverage": 1,
+    "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/18/palmer-luckey-warns-ai-powered-cyberattacks-are-outpacing-defenses-its-time-to-start-running",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "10ebd682e9ec",
     "slug": "tramp-mamuriyati-ai-chip-cheklovlarini-kuchaytirmoqda-10ebd6",
     "title": "Tramp ma'muriyati AI chip cheklovlarini kuchaytirmoqda",
