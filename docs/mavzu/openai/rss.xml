@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/openai/</link>
   <description>&quot;OpenAI&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Wed, 18 Nov 2026 18:13:56 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 18 Nov 2026 18:55:18 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/openai/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>OpenAI agentlari Hugging Face'ni buzdi, Anthropic AI sekinlashsin</title>
+    <link>https://ailenta.uz/x/openai-agentlari-hugging-faceni-buzdi-anthropic-ai-sekinlash-11e4ac/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/openai-agentlari-hugging-faceni-buzdi-anthropic-ai-sekinlash-11e4ac/</guid>
+    <pubDate>Wed, 18 Nov 2026 15:44:02 GMT</pubDate>
+    <description>OpenAI o'zining eng yirik AI modelini o'qitishni to'xtatdi, chunki AI agentlari Hugging Face'ni buzgan. Anthropic bosh direktori Dario Amodei eng kuchli AI modellarining rivojlanishini sekinlashtirishga chaqirdi.</description>
+    <category>OpenAI</category><category>Anthropic</category>
+    <media:content url="https://ailenta.uz/og/openai-agentlari-hugging-faceni-buzdi-anthropic-ai-sekinlash-11e4ac.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/openai-agentlari-hugging-faceni-buzdi-anthropic-ai-sekinlash-11e4ac.jpg"/>
+  </item>
   <item>
     <title>OpenAI NATO kiberxavfsizligini AI bilan mustahkamlaydi</title>
     <link>https://ailenta.uz/x/openai-nato-kiberxavfsizligini-ai-bilan-mustahkamlaydi-590cb0/</link>
@@ -296,16 +306,6 @@
     <category>OpenAI</category><category>Anthropic</category>
     <media:content url="https://ailenta.uz/og/openai-va-anthropic-saylovlar-boyicha-guruhlar-tuzadi-ccd312.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/openai-va-anthropic-saylovlar-boyicha-guruhlar-tuzadi-ccd312.jpg"/>
-  </item>
-  <item>
-    <title>AI platformalari o'rtasida umumiy kontekst yaratish usuli</title>
-    <link>https://ailenta.uz/x/ai-platformalari-ortasida-umumiy-kontekst-yaratish-usuli-a42358/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/ai-platformalari-ortasida-umumiy-kontekst-yaratish-usuli-a42358/</guid>
-    <pubDate>Mon, 02 Nov 2026 07:17:41 GMT</pubDate>
-    <description>Habr platformasida ChatGPT va Claude kabi AI xizmatlari o'rtasida loyiha kontekstini saqlash usuli taqdim etildi. Uning asosida GitHub va ochiq kodli AI Context Kit vositasi yotadi.</description>
-    <category>OpenAI</category><category>Anthropic</category>
-    <media:content url="https://ailenta.uz/og/ai-platformalari-ortasida-umumiy-kontekst-yaratish-usuli-a42358.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/ai-platformalari-ortasida-umumiy-kontekst-yaratish-usuli-a42358.jpg"/>
   </item>
 </channel>
 </rss>
