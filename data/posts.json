@@ -1,5 +1,26 @@
 [
   {
+    "id": "c238d305b0ef",
+    "slug": "ai-agentlari-brauzer-oyinini-mustaqil-yaratdi-c238d3",
+    "title": "AI agentlari brauzer o'yinini mustaqil yaratdi",
+    "summary": "Sun'iy intellekt agentlari inson aralashuvisiz brauzer o'yinini ishlab chiqish bo'yicha tajribani yakunladi. Modellari foydalanuvchilar topshiriqlari bo'yicha 228 ta relizni amalga oshirdi. Kod yozish va tekshirish to'liq algoritm tomonidan bajarildi.",
+    "tags": [
+      "agentlar"
+    ],
+    "importance": 3,
+    "score": 11,
+    "published": "2026-11-18T08:57:04.000Z",
+    "created": "2026-11-18T09:01:50.732Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1109238",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "c2e053d45c86",
     "slug": "z-avlodining-uchdan-bir-qismi-ai-dostligiga-tayanmoqda-c2e053",
     "title": "Z avlodining uchdan bir qismi AI do'stligiga tayanmoqda",
