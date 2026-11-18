@@ -1,5 +1,93 @@
 [
   {
+    "id": "145d6d67c25e",
+    "slug": "xitoylik-qopqoq-ishlab-chiqaruvchi-ai-shov-shuvini-pasaytird-145d6d",
+    "title": "Xitoylik qopqoq ishlab chiqaruvchi AI shov-shuvini pasaytirdi",
+    "summary": "The Register xabariga ko'ra, xitoylik shisha qopqoq ishlab chiqaruvchi kompaniya AI shov-shuvini pasaytirdi. Ular raqamli bo'lmagan texnologiyalarni o'zgartirib, avtomatlashtirib bo'lmasligini ko'rsatdi.",
+    "tags": [
+      "biznes",
+      "iqtisod"
+    ],
+    "importance": 2,
+    "score": 19,
+    "published": "2026-11-18T06:32:00.000Z",
+    "created": "2026-11-18T14:25:13.985Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/columnists/2026/11/18/a-chinese-bottle-cap-manufacturer-brilliantly-deflated-ai-hype/5310651",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "4dcc8c7b7ddc",
+    "slug": "twilio-marketingni-ai-orkestratorlariga-moslashtirmoqda-4dcc8c",
+    "title": "Twilio marketingni AI orkestratorlariga moslashtirmoqda",
+    "summary": "Twilio kompaniyasi marketing bo'limini qayta tuzib, AI \"orkestratorlari\"ga o'tmoqda. Kompaniya tor mutaxassislardan AI yordamida ko'proq vazifalarni bajaradigan jamoaga o'tmoqda.",
+    "tags": [
+      "biznes",
+      "mehnat bozori"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-11-18T12:35:01.000Z",
+    "created": "2026-11-18T14:25:13.986Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/twilio-cmo-restructures-marketing-organization-ai-orchestrators-2026-11",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "37a699b95eba",
+    "slug": "yevropa-ai-kompaniyalari-yini-mahalliy-aini-qollashga-undadi-37a699",
+    "title": "Yevropa AI kompaniyalari YI'ni mahalliy AI'ni qo'llashga undadi",
+    "summary": "ElevenLabs, Lovable va DeepL kompaniyalari rahbarlari Yevropa Ittifoqini mahalliy sun'iy intellektni qo'llab-quvvatlashga undamoqda. Ular Yevropaning AI sohasidagi raqobatbardoshligini oshirishni maqsad qilgan.",
+    "tags": [
+      "siyosat",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-11-18T12:30:18.000Z",
+    "created": "2026-11-18T14:25:13.986Z",
+    "coverage": 1,
+    "source": {
+      "name": "Sifted",
+      "url": "https://sifted.eu/articles/elevenlabs-lovable-deepl-yann-lecun-eu-ai-open-letter",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "55dde3921be9",
+    "slug": "hindistonning-humyn-labs-robototexnika-uchun-47-mln-jalb-qil-55dde3",
+    "title": "Hindistonning Humyn Labs robototexnika uchun $47 mln jalb qildi",
+    "summary": "Hindistonning Humyn Labs kompaniyasi AQSH robototexnika firmalariga ma'lumot yetkazish uchun 47 million dollar sarmoya jalb qildi. Fevral oyida tashkil etilgan kompaniyaning daromadining 90 foizi AQSHdan keladi.",
+    "tags": [
+      "robototexnika",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-11-18T11:30:00.000Z",
+    "created": "2026-11-18T14:25:13.986Z",
+    "coverage": 1,
+    "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "43bb68a9f477",
     "slug": "ai-chatbotlar-terror-hujumini-rejalashga-yordam-berdi-43bb68",
     "title": "AI chatbotlar terror hujumini rejalashga yordam berdi",
