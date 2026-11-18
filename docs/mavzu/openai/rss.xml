@@ -5,7 +5,7 @@
   <link>https://ailenta.uz/mavzu/openai/</link>
   <description>&quot;OpenAI&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Wed, 18 Nov 2026 20:23:23 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 18 Nov 2026 21:09:09 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/openai/rss.xml" rel="self" type="application/rss+xml"/>
   <item>
     <title>OpenAI agentlari Hugging Face'ni buzdi, Anthropic AI sekinlashsin</title>
@@ -16,6 +16,16 @@
     <category>OpenAI</category><category>Anthropic</category>
     <media:content url="https://ailenta.uz/og/openai-agentlari-hugging-faceni-buzdi-anthropic-ai-sekinlash-11e4ac.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/openai-agentlari-hugging-faceni-buzdi-anthropic-ai-sekinlash-11e4ac.jpg"/>
+  </item>
+  <item>
+    <title>OpenAI AI xavfini boshqarish usullarini tushuntirdi</title>
+    <link>https://ailenta.uz/x/openai-ai-xavfini-boshqarish-usullarini-tushuntirdi-8b6ac2/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/openai-ai-xavfini-boshqarish-usullarini-tushuntirdi-8b6ac2/</guid>
+    <pubDate>Wed, 18 Nov 2026 06:00:00 GMT</pubDate>
+    <description>OpenAI o'zining ilg'or AI modellaridagi xavflarni boshqarish usullarini tushuntirdi. Kompaniya o'qitishdan tortib joylashtirishgacha bo'lgan jarayonlarda modelni moslashtirish, sandboxing, himoya choralari va monitoringdan foydalanadi.</description>
+    <category>OpenAI</category><category>xavfsizlik</category>
+    <media:content url="https://ailenta.uz/og/openai-ai-xavfini-boshqarish-usullarini-tushuntirdi-8b6ac2.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/openai-ai-xavfini-boshqarish-usullarini-tushuntirdi-8b6ac2.jpg"/>
   </item>
   <item>
     <title>OpenAI NATO kiberxavfsizligini AI bilan mustahkamlaydi</title>
@@ -296,16 +306,6 @@
     <category>tadqiqot</category><category>OpenAI</category>
     <media:content url="https://ailenta.uz/og/gpt-rubik-kubi-kriptografik-muammosini-hal-qildi-569892.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/gpt-rubik-kubi-kriptografik-muammosini-hal-qildi-569892.jpg"/>
-  </item>
-  <item>
-    <title>OpenAI va Anthropic saylovlar bo'yicha guruhlar tuzadi</title>
-    <link>https://ailenta.uz/x/openai-va-anthropic-saylovlar-boyicha-guruhlar-tuzadi-ccd312/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/openai-va-anthropic-saylovlar-boyicha-guruhlar-tuzadi-ccd312/</guid>
-    <pubDate>Mon, 02 Nov 2026 09:45:37 GMT</pubDate>
-    <description>OpenAI va Anthropic o'z platformalari oraliq saylovlar haqida aniq ma'lumot berishini ta'minlash uchun maxsus guruhlar tashkil etadi. Ular ushbu jarayonni nazorat qiladi.</description>
-    <category>OpenAI</category><category>Anthropic</category>
-    <media:content url="https://ailenta.uz/og/openai-va-anthropic-saylovlar-boyicha-guruhlar-tuzadi-ccd312.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/openai-va-anthropic-saylovlar-boyicha-guruhlar-tuzadi-ccd312.jpg"/>
   </item>
 </channel>
 </rss>

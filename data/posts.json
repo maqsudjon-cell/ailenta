@@ -1,5 +1,76 @@
 [
   {
+    "id": "8b6ac2940fdc",
+    "slug": "openai-ai-xavfini-boshqarish-usullarini-tushuntirdi-8b6ac2",
+    "title": "OpenAI AI xavfini boshqarish usullarini tushuntirdi",
+    "summary": "OpenAI o'zining ilg'or AI modellaridagi xavflarni boshqarish usullarini tushuntirdi. Kompaniya o'qitishdan tortib joylashtirishgacha bo'lgan jarayonlarda modelni moslashtirish, sandboxing, himoya choralari va monitoringdan foydalanadi.",
+    "tags": [
+      "OpenAI",
+      "xavfsizlik"
+    ],
+    "importance": 4,
+    "score": 46.8,
+    "published": "2026-11-18T06:00:00.000Z",
+    "created": "2026-11-18T20:57:03.963Z",
+    "coverage": 2,
+    "source": {
+      "name": "OpenAI",
+      "url": "https://openai.com/index/managing-frontier-ai-risk",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "Hugging Face",
+        "url": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "ee1e6bb88079",
+    "slug": "san-fransiskoda-ai-pullari-hashamatli-buyumlarga-sarflanmoqd-ee1e6b",
+    "title": "San-Fransiskoda AI pullari hashamatli buyumlarga sarflanmoqda",
+    "summary": "San-Fransiskoda hashamatli soatlar savdosi gullab-yashnamoqda. Xaridorlar o'rtacha 14,350 dollar sarflamoqda, bu AI sohasidagi sarmoyalar hisobiga yuzaga kelgan.",
+    "tags": [
+      "iqtisod",
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 19,
+    "published": "2026-11-18T20:00:00.000Z",
+    "created": "2026-11-18T20:57:03.964Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/11/18/anthropic-ipo-ai-wealth-luxury-watches-san-francisco-bezel-quaid-walker",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "811b4b086a61",
+    "slug": "hukumat-ai-platformalarida-terror-rejalari-topdi-811b4b",
+    "title": "Hukumat AI platformalarida terror rejalari topdi",
+    "summary": "Hukumat tergovchilari yashirin operatsiya davomida AI platformalari terror hujumlari rejalari, jumladan, strategik bomba joylashtirish usullarini taqdim etishini aniqladi.",
+    "tags": [
+      "xavfsizlik",
+      "siyosat"
+    ],
+    "importance": 5,
+    "score": 7,
+    "published": "2026-11-18T14:53:14.000Z",
+    "created": "2026-11-18T20:57:03.964Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fox News",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQU1Qyb1IwT285MlBBTDhpTzNVZ0FlSmFJcFBJcEFWZ0VVV3Y5dFk1QjlZU3dDSUVvcXQ2djgtQm1GUEt5NFJxSzhVdDlZWlVvenNtLTFxYV9sREZEQWVuLXFvS2duX1J0N29lVFJNdC1jcUR1bnYxbkE0RURJVXY4Mk0ySjZtajNoay1iVGQyOWpNUVgwVzVMdkZqRDV2bUlDenhDUVdERmVUenRna3haTF9hMkZqdw",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "6c02993cb8e9",
     "slug": "soatbay-ishchilar-ai-rivojlanishiga-qarshi-6c0299",
     "title": "Soatbay ishchilar AI rivojlanishiga qarshi",
