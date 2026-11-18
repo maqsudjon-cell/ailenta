@@ -1,5 +1,93 @@
 [
   {
+    "id": "3c4c3cdd8565",
+    "slug": "yevropa-ai-sohasi-raqobatda-ortda-qolmoqda-3c4c3c",
+    "title": "Yevropa AI sohasi raqobatda ortda qolmoqda",
+    "summary": "Germaniya raqamli vazirligi bosh direktori Yevropaning AI sektori hali ham orqada ekanligini ta'kidladi. U raqobatbardosh bo'lish uchun ko'proq innovatsiyalarga qulay tartibga solish zarurligini aytdi.",
+    "tags": [
+      "siyosat",
+      "iqtisod"
+    ],
+    "importance": 3,
+    "score": 18,
+    "published": "2026-11-18T01:33:24.000Z",
+    "created": "2026-11-18T16:04:19.851Z",
+    "coverage": 1,
+    "source": {
+      "name": "Semafor",
+      "url": "https://semafor.com/article/11/17/2026/europes-ai-sector-not-doom-and-gloom-but-still-lags",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "569017a70fd8",
+    "slug": "ai-agentlari-kod-yozishda-inson-rivojlanishidan-ortda-569017",
+    "title": "AI agentlari kod yozishda inson rivojlanishidan ortda",
+    "summary": "Daniel Stenbergning ta'kidlashicha, AI agentlari C kodini Rustga o'girayotgan bir paytda, inson dasturchilar curl loyihasida 300 dan ortiq o'zgarish va 200 dan ortiq xato tuzatish kiritgan. AI tomonidan qayta yozilgan kodlarda bu tuzatishlar yo'q.",
+    "tags": [
+      "agentlar",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-11-18T15:58:27.000Z",
+    "created": "2026-11-18T16:04:19.852Z",
+    "coverage": 1,
+    "source": {
+      "name": "Simon Willison",
+      "url": "https://simonwillison.net/2026/Nov/18/daniel-stenberg",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "5e0fcdb75fb3",
+    "slug": "aqsh-xitoy-ai-modellarini-oshkor-qilishni-talab-qilishi-mumk-5e0fcd",
+    "title": "AQSH Xitoy AI modellarini oshkor qilishni talab qilishi mumkin",
+    "summary": "Reuters xabariga ko'ra, Tramp ma'muriyati AQSH kompaniyalaridan Xitoy AI modellaridan foydalanishlarini veb-saytlarida oshkor etishni talab qilishni ko'rib chiqmoqda. Bu Xitoy AI modellaridan foydalanishni kamaytirishga qaratilgan.",
+    "tags": [
+      "siyosat",
+      "biznes"
+    ],
+    "importance": 4,
+    "score": 15,
+    "published": "2026-11-18T14:36:07.000Z",
+    "created": "2026-11-18T16:04:19.852Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/261118/p23",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "92cbaddc4bbe",
+    "slug": "rayneo-smart-kozoynaklari-ai-yordamida-ikkinchi-orinda-92cbad",
+    "title": "RayNeo smart ko'zoynaklari AI yordamida ikkinchi o'rinda",
+    "summary": "TCL Electronics tomonidan tashkil etilgan RayNeo kompaniyasi AR va smart ko'zoynaklar ishlab chiqaradi. U 2026-yilning ikkinchi choragida AR/VR garnituralari yetkazib berish bo'yicha global miqyosda 12% ulush bilan ikkinchi o'rinni egalladi.",
+    "tags": [
+      "biznes",
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-11-18T07:08:56.000Z",
+    "created": "2026-11-18T16:04:19.852Z",
+    "coverage": 1,
+    "source": {
+      "name": "TechNode",
+      "url": "https://technode.com/2026/11/18/can-rayneos-smart-glasses-become-a-habit",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "f13277b4a20d",
     "slug": "koreya-elchixonasi-ai-va-iqlim-ozgarishi-tanlovi-goliblarini-f13277",
     "title": "Koreya elchixonasi AI va iqlim o'zgarishi tanlovi g'oliblarini taqdirladi",
