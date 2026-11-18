@@ -1,5 +1,49 @@
 [
   {
+    "id": "f38228c9ef56",
+    "slug": "mit-olimlari-aining-jamiyatga-tasirini-o-rganmoqda-f38228",
+    "title": "MIT olimlari AI’ning jamiyatga ta’sirini o‘rganmoqda",
+    "summary": "MIT Human Insight Collaborative ko‘magida tadqiqotchilar sun’iy intellektning insoniyat tajribasiga ta’sirini va oliy ta’limni qanday o‘zgartirayotganini o‘rganmoqda.",
+    "tags": [
+      "tadqiqot",
+      "ta'lim"
+    ],
+    "importance": 2,
+    "score": 19,
+    "published": "2026-11-17T20:40:00.000Z",
+    "created": "2026-11-18T04:06:52.931Z",
+    "coverage": 1,
+    "source": {
+      "name": "MIT News",
+      "url": "https://news.mit.edu/2026/putting-spotlight-ai-society-humanity-1117",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "ffe4b9c88a23",
+    "slug": "ai-davrida-matematika-ko-nikmalari-nima-uchun-kerak-ffe4b9",
+    "title": "AI davrida matematika ko‘nikmalari nima uchun kerak",
+    "summary": "MIT dotsenti Jon Urshel sun’iy intellekt vositalari rivojlanayotganiga qaramay, matematikaning asosiy ko‘nikmalarini o‘rganish nima uchun hamon muhimligini tushuntirdi.",
+    "tags": [
+      "ta'lim",
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 14.6,
+    "published": "2026-11-17T05:00:00.000Z",
+    "created": "2026-11-18T04:06:52.932Z",
+    "coverage": 1,
+    "source": {
+      "name": "MIT News",
+      "url": "https://news.mit.edu/2026/qa-why-building-math-muscles-remains-important-ai-era-1117",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "e4700bdcf02b",
     "slug": "yann-lecun-ai-kiberhujumlar-otish-davri-dedi-e4700b",
     "title": "Yann LeCun AI kiberhujumlar o'tish davri dedi",
