@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/tadqiqot/</link>
   <description>&quot;tadqiqot&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Wed, 18 Nov 2026 19:13:17 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 18 Nov 2026 20:23:23 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/tadqiqot/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Rust-anything loyihasi AI yordamida kodni Rustga o'giradi</title>
+    <link>https://ailenta.uz/x/rust-anything-loyihasi-ai-yordamida-kodni-rustga-ogiradi-2b8d93/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/rust-anything-loyihasi-ai-yordamida-kodni-rustga-ogiradi-2b8d93/</guid>
+    <pubDate>Wed, 18 Nov 2026 17:30:21 GMT</pubDate>
+    <description>GitHub'da &quot;rust-anything&quot; nomli ochiq loyiha e'lon qilindi. U AI agentlari, jumladan Claude Code va Codex yordamida turli dasturlash tillaridagi kodni Rustga o'girishga yordam beradi. Loyiha kodni qismlarga bo'lib o'zgartiradi va jarayon davomida xatoliklarni tekshiradi.</description>
+    <category>tadqiqot</category><category>ochiq model</category>
+    <media:content url="https://ailenta.uz/og/rust-anything-loyihasi-ai-yordamida-kodni-rustga-ogiradi-2b8d93.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/rust-anything-loyihasi-ai-yordamida-kodni-rustga-ogiradi-2b8d93.jpg"/>
+  </item>
   <item>
     <title>AI agentlari kod yozishda inson rivojlanishidan ortda</title>
     <link>https://ailenta.uz/x/ai-agentlari-kod-yozishda-inson-rivojlanishidan-ortda-569017/</link>
@@ -26,6 +36,16 @@
     <category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/faylasuf-thomas-nagel-ai-ongi-goyasini-rad-etdi-780f51.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/faylasuf-thomas-nagel-ai-ongi-goyasini-rad-etdi-780f51.jpg"/>
+  </item>
+  <item>
+    <title>Will Wrightning yangi o'yini AI bilan xotiralarni xaritalaydi</title>
+    <link>https://ailenta.uz/x/will-wrightning-yangi-oyini-ai-bilan-xotiralarni-xaritalaydi-d414dc/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/will-wrightning-yangi-oyini-ai-bilan-xotiralarni-xaritalaydi-d414dc/</guid>
+    <pubDate>Wed, 18 Nov 2026 14:00:00 GMT</pubDate>
+    <description>SimCity va The Sims yaratuvchisi Will Wright AI asosida yangi o'yin ustida ishlamoqda. &quot;MyMems&quot; deb nomlangan bu o'yin foydalanuvchilarning xotiralarini xaritalashga qaratilgan.</description>
+    <category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/will-wrightning-yangi-oyini-ai-bilan-xotiralarni-xaritalaydi-d414dc.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/will-wrightning-yangi-oyini-ai-bilan-xotiralarni-xaritalaydi-d414dc.jpg"/>
   </item>
   <item>
     <title>Tengdoshlar baholovi AI yaratgan matnga bardosh bera oladimi</title>
@@ -286,26 +306,6 @@
     <category>chiplar</category><category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/los-alamos-nextsilicon-chipini-sinovdan-otkazadi-843775.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/los-alamos-nextsilicon-chipini-sinovdan-otkazadi-843775.jpg"/>
-  </item>
-  <item>
-    <title>Kosmik ma'lumotlar markazlarining iqtisodiy tahlili</title>
-    <link>https://ailenta.uz/x/kosmik-malumotlar-markazlarining-iqtisodiy-tahlili-c885c4/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/kosmik-malumotlar-markazlarining-iqtisodiy-tahlili-c885c4/</guid>
-    <pubDate>Mon, 16 Nov 2026 11:00:44 GMT</pubDate>
-    <description>R&amp;D MWS mutaxassisi orbitada 13 kVt quvvatga ega ma'lumotlar markazini qurish xarajatlarini tahlil qildi. Tadqiqotda uskunalarni yetkazib berish va chekka hisoblashlar uchun resurslar sarfi ko'rib chiqildi.</description>
-    <category>bulut</category><category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/kosmik-malumotlar-markazlarining-iqtisodiy-tahlili-c885c4.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/kosmik-malumotlar-markazlarining-iqtisodiy-tahlili-c885c4.jpg"/>
-  </item>
-  <item>
-    <title>Gana laboratoriyasi AI biologik xavfi haqida ogohlantirdi</title>
-    <link>https://ailenta.uz/x/gana-laboratoriyasi-ai-biologik-xavfi-haqida-ogohlantirdi-6f1bc1/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/gana-laboratoriyasi-ai-biologik-xavfi-haqida-ogohlantirdi-6f1bc1/</guid>
-    <pubDate>Mon, 16 Nov 2026 11:00:23 GMT</pubDate>
-    <description>Ganadagi MinoHealth tadqiqotchilari sinov tariqasida o'zlarining til modelini buzib ko'rishdi. Natijada minglab zaharli moddalar retseptlari paydo bo'ldi va bu tartibga solish talabini kuchaytirdi.</description>
-    <category>tadqiqot</category><category>xavfsizlik</category>
-    <media:content url="https://ailenta.uz/og/gana-laboratoriyasi-ai-biologik-xavfi-haqida-ogohlantirdi-6f1bc1.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/gana-laboratoriyasi-ai-biologik-xavfi-haqida-ogohlantirdi-6f1bc1.jpg"/>
   </item>
 </channel>
 </rss>

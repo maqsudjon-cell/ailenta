@@ -1,5 +1,114 @@
 [
   {
+    "id": "6c02993cb8e9",
+    "slug": "soatbay-ishchilar-ai-rivojlanishiga-qarshi-6c0299",
+    "title": "Soatbay ishchilar AI rivojlanishiga qarshi",
+    "summary": "Soatbay ishchilar 7.86% inflyatsiya bilan yashamoqda. Shu sababli ular AI rivojlanishiga qarshi ovoz berishdi. Bu norozilik va AI kengayishi bir muammo sifatida ko'rilmoqda.",
+    "tags": [
+      "iqtisod",
+      "mehnat bozori"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-11-18T19:30:00.000Z",
+    "created": "2026-11-18T20:14:00.272Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/11/18/hourly-workers-inflation-data-center-backlash-workwhile-simon-khalaf",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "f8ba41dfccb1",
+    "slug": "disney-star-wars-animatroniklari-ai-yordamida-mehmonlar-bila-f8ba41",
+    "title": "Disney Star Wars animatroniklari AI yordamida mehmonlar bilan",
+    "summary": "Disney Walt Imagineering R&D bo'limi uchta yangi Audio-Animatronic prototipini taqdim etdi. Ular Amazon AI'sidan foydalanib, mehmonlar bilan o'zaro aloqada bo'ladi. Bu animatroniklar oldindan belgilangan harakatlardan farqli o'laroq, spontan xatti-harakatlarni namoyish etadi.",
+    "tags": [
+      "Amazon",
+      "robototexnika"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-11-18T17:50:57.000Z",
+    "created": "2026-11-18T20:14:00.272Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Verge",
+      "url": "https://theverge.com/tech/1036729/disney-star-wars-anzellans-animatronic-amazon-aws-cloud-ai",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "d414dc9f436f",
+    "slug": "will-wrightning-yangi-oyini-ai-bilan-xotiralarni-xaritalaydi-d414dc",
+    "title": "Will Wrightning yangi o'yini AI bilan xotiralarni xaritalaydi",
+    "summary": "SimCity va The Sims yaratuvchisi Will Wright AI asosida yangi o'yin ustida ishlamoqda. \"MyMems\" deb nomlangan bu o'yin foydalanuvchilarning xotiralarini xaritalashga qaratilgan.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-11-18T14:00:00.000Z",
+    "created": "2026-11-18T20:14:00.272Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Verge",
+      "url": "https://theverge.com/games/1036140/will-wright-mymems-ai-game-interview",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "14742faf8ad0",
+    "slug": "rossiya-ai-texnologiyalari-boyicha-qonunlarni-korib-chiqmoqd-14742f",
+    "title": "Rossiya AI texnologiyalari bo'yicha qonunlarni ko'rib chiqmoqda",
+    "summary": "Habr nashri Rossiya Federatsiyasining normativ hujjatlarida \"sun'iy intellekt texnologiyalari\" tushunchasini tahlil qildi. Tadqiqot AI sohasidagi qonunchilikni va davlatning bu texnologiyalarni qanday tartibga solayotganini o'rganadi.",
+    "tags": [
+      "qonun",
+      "siyosat"
+    ],
+    "importance": 2,
+    "score": 14,
+    "published": "2026-11-18T19:07:19.000Z",
+    "created": "2026-11-18T20:14:00.272Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1109594",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "2b8d93a860ee",
+    "slug": "rust-anything-loyihasi-ai-yordamida-kodni-rustga-ogiradi-2b8d93",
+    "title": "Rust-anything loyihasi AI yordamida kodni Rustga o'giradi",
+    "summary": "GitHub'da \"rust-anything\" nomli ochiq loyiha e'lon qilindi. U AI agentlari, jumladan Claude Code va Codex yordamida turli dasturlash tillaridagi kodni Rustga o'girishga yordam beradi. Loyiha kodni qismlarga bo'lib o'zgartiradi va jarayon davomida xatoliklarni tekshiradi.",
+    "tags": [
+      "tadqiqot",
+      "ochiq model"
+    ],
+    "importance": 2,
+    "score": 14,
+    "published": "2026-11-18T17:30:21.000Z",
+    "created": "2026-11-18T20:14:00.272Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1109572",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "11e4ac4d1092",
     "slug": "openai-agentlari-hugging-faceni-buzdi-anthropic-ai-sekinlash-11e4ac",
     "title": "OpenAI agentlari Hugging Face'ni buzdi, Anthropic AI sekinlashsin",
