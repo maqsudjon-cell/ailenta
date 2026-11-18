@@ -1,5 +1,71 @@
 [
   {
+    "id": "7a9e51a5eadb",
+    "slug": "cot-fikrlash-jarayonini-nazorat-qilish-organildi-7a9e51",
+    "title": "CoT fikrlash jarayonini nazorat qilish o'rganildi",
+    "summary": "Tadqiqotchilar sun'iy intellekt agentlarining fikrlash zanjiri ustidan nazoratni o'rgandi. Ta'kidlanishicha, fikrlash zanjirini boshqarish imkoniyati modelning yashirin maqsadlarini monitoring qilishni qiyinlashtirishi mumkin.",
+    "tags": [
+      "tadqiqot",
+      "xavfsizlik"
+    ],
+    "importance": 2,
+    "score": 16,
+    "published": "2026-11-18T05:00:00.000Z",
+    "created": "2026-11-18T05:07:12.172Z",
+    "coverage": 1,
+    "source": {
+      "name": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2611.21799",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "59a1d83a86a7",
+    "slug": "inqirozli-vaziyatlar-uchun-crisisbench-testi-yaratildi-59a1d8",
+    "title": "Inqirozli vaziyatlar uchun CrisisBench testi yaratildi",
+    "summary": "Tadqiqotchilar inqirozli psixologik maslahat beruvchi AI modellarini baholash uchun CrisisBench sinov to'plamini taqdim etdi. U 1 085 ta bir martalik va 1 185 ta ko'p marta muloqot qiluvchi vazifalarni o'z ichiga oladi.",
+    "tags": [
+      "tibbiyot",
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 13,
+    "published": "2026-11-18T05:00:00.000Z",
+    "created": "2026-11-18T05:07:12.172Z",
+    "coverage": 1,
+    "source": {
+      "name": "arXiv cs.CL",
+      "url": "https://arxiv.org/abs/2611.21622",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "c267813b00db",
+    "slug": "tech-yetakchilari-jensen-xuangning-ketishini-fitna-deb-bildi-c26781",
+    "title": "Tech yetakchilari Jensen Xuangning ketishini fitna deb bildi",
+    "summary": "Nvidia kompaniyasining sobiq rahbari Jensen Xuangning iste'fosi texnologiya sohasida muhokamalarga sabab bo'ldi. Sanoat yetakchilari uni qaytarishni talab qilmoqda va bu voqeani unga qarshi fitna deb hisoblamoqda.",
+    "tags": [
+      "Nvidia",
+      "biznes"
+    ],
+    "importance": 5,
+    "score": 7.9,
+    "published": "2026-11-16T23:17:34.000Z",
+    "created": "2026-11-18T05:07:12.172Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Verge",
+      "url": "https://theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "c4c800675733",
     "slug": "tsmc-ai-chip-mijozlaridan-oldindan-tolov-talab-qilmoqda-c4c800",
     "title": "TSMC AI chip mijozlaridan oldindan to'lov talab qilmoqda",
