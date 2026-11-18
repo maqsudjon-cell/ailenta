@@ -1,5 +1,49 @@
 [
   {
+    "id": "5d0f303f6120",
+    "slug": "angliyada-imtihonda-ai-ishlatganlar-chetlatilishi-mumkin-5d0f30",
+    "title": "Angliyada imtihonda AI ishlatganlar chetlatilishi mumkin",
+    "summary": "Angliya imtihon regulyatori Ofqual imtihonlarda AI yoki aqlli ko‘zoynaklardan foydalangan o‘quvchilar GCSE va A-levels malakalaridan mahrum qilinishini bildirdi. Tashkilot rahbari Ian Bauckham bunday taqiladigan texnologiyalarni firibgarlik uchun sotishni taqiqlashga chaqirdi.",
+    "tags": [
+      "ta'lim",
+      "qonun"
+    ],
+    "importance": 3,
+    "score": 23,
+    "published": "2026-11-18T00:01:25.000Z",
+    "created": "2026-11-18T00:44:44.595Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/education/2026/nov/18/ofqual-urges-life-altering-penalties-for-students-who-use-tech-to",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "35007ba6c346",
+    "slug": "avstraliya-ijodkorlari-aidan-himoya-talab-qildi-35007b",
+    "title": "Avstraliya ijodkorlari AI'dan himoya talab qildi",
+    "summary": "Avstraliyalik ijodkorlar va musiqachilar hukumatni mualliflik huquqi qonunchiligini yumshatmaslikka chaqirdi. Ular AI kompaniyalarining faol lobbisi fonida intellektual mulk himoyasini kuchli saqlashni talab qilmoqda.",
+    "tags": [
+      "qonun",
+      "siyosat"
+    ],
+    "importance": 3,
+    "score": 23,
+    "published": "2026-11-17T14:00:15.000Z",
+    "created": "2026-11-18T00:44:44.595Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/technology/2026/nov/18/paul-kelly-albanese-ai-copyright-protections-creatives-campaign",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "24e843e375a7",
     "slug": "apple-3d-modellarni-yaxshilash-uchun-yangi-usul-taqdim-etdi-24e843",
     "title": "Apple 3D modellarni yaxshilash uchun yangi usul taqdim etdi",
