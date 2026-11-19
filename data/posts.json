@@ -1,5 +1,71 @@
 [
   {
+    "id": "bcdd69086ac8",
+    "slug": "geologiyada-zamonaviy-yondashuvlar-boyicha-anjuman-otdi-bcdd69",
+    "title": "Geologiyada zamonaviy yondashuvlar bo'yicha anjuman o'tdi",
+    "summary": "Tog'-kon sanoati va geologiya vazirligi hamda Geologiya fanlari universiteti hamkorligida matbuot anjumani o'tkazildi. Unda yangi avlod geologlarini tayyorlashda zamonaviy yondashuvlar muhokama qilindi.",
+    "tags": [
+      "O'zbekiston",
+      "ta'lim"
+    ],
+    "importance": 2,
+    "score": 44,
+    "published": "2026-11-19T13:50:00.000Z",
+    "created": "2026-11-19T15:38:16.010Z",
+    "coverage": 1,
+    "source": {
+      "name": "UzDaily",
+      "url": "https://uzdaily.uz/uz/raqamli-davrda-geologiya-universitet-suniy-intellekt-3d-modellashtirish-va-muhim-minerallarga-pul-tikmoqda",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "181f9c874eb7",
+    "slug": "malumot-markazlari-joylashuvi-boyicha-tadqiqot-otkazildi-181f9c",
+    "title": "Ma'lumot markazlari joylashuvi bo'yicha tadqiqot o'tkazildi",
+    "summary": "Yangi tadqiqotga ko'ra, ma'lumotlar markazlari qora-tovushli va boshqa ozchilik mahallalarida joylashish ehtimoli yuqori. Xususan, osiyoliklar ko'pchilikni tashkil etuvchi hududlarda bu ko'rsatkich 4,2 baravarga yetadi.",
+    "tags": [
+      "tadqiqot",
+      "bulut"
+    ],
+    "importance": 2,
+    "score": 19,
+    "published": "2026-11-19T15:00:00.000Z",
+    "created": "2026-11-19T15:38:16.010Z",
+    "coverage": 1,
+    "source": {
+      "name": "404 Media",
+      "url": "https://404media.co/redlining-ai-data-centers-and-race-study",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "488834721fb0",
+    "slug": "deepmind-xodimlari-kasaba-uyushmasi-tuzmoqda-488834",
+    "title": "DeepMind xodimlari kasaba uyushmasi tuzmoqda",
+    "summary": "DeepMind kompaniyasi xodimlari o'z kasaba uyushmasini tashkil etmoqda. Bu haqda Hacker News platformasida xabar berildi.",
+    "tags": [
+      "Google",
+      "mehnat bozori"
+    ],
+    "importance": 3,
+    "score": 18.9,
+    "published": "2026-11-19T09:28:56.000Z",
+    "created": "2026-11-19T15:38:16.010Z",
+    "coverage": 1,
+    "source": {
+      "name": "Hacker News",
+      "url": "https://gdmunion.co.uk",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "a3c4c81e9a5b",
     "slug": "ishchilar-ai-tasirini-rahbarlar-tushunmaydi-deydi-a3c4c8",
     "title": "Ishchilar AI ta'sirini rahbarlar tushunmaydi deydi",
