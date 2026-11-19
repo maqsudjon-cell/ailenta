@@ -1,9 +1,75 @@
 [
   {
     "id": "c947a91205a6",
-    "slug": "xmt-rahbari-ai-talabi-foiz-stavkalarini-oshirishidan-ogohlan-c947a9",
-    "title": "XMT rahbari AI talabi foiz stavkalarini oshirishidan ogohlantirdi",
-    "summary": "Xalqaro Valyuta Jamg'armasi rahbari Kristalina Georgieva sun'iy intellektga bo'lgan yuqori talab global foiz stavkalarini oshirishga majbur qilishini aytdi. Uning so'zlariga ko'ra, AI uskunalari narxi iste'mol narxlarini ko'tarmoqda.",
+    "slug": "xvj-rahbari-ai-talabi-butun-dunyoda-foizlarni-oshiradi-c947a9",
+    "title": "XVJ rahbari: AI talabi butun dunyoda foizlarni oshiradi",
+    "summary": "Xalqaro Valyuta Jamg'armasi (XVJ) rahbari Kristalina Georgieva AI'ga bo'lgan talab butun dunyoda foiz stavkalarini oshirishini ogohlantirdi. Uning so'zlariga ko'ra, AI uskunalari va tegishli texnologiyalarga bo'lgan yuqori talab iste'mol narxlarini ko'tarmoqda.",
+    "tags": [
+      "IMF",
+      "iqtisod"
+    ],
+    "importance": 4,
+    "score": 26,
+    "published": "2026-11-19T12:51:16.000Z",
+    "created": "2026-11-19T13:49:25.619Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/world/2026/nov/19/imf-head-warns-ai-demand-push-up-interest-rates-apec",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "4f4f5641c981",
+    "slug": "canva-foydalanuvchilarga-ai-funksiyalarini-ochirishga-ruxsat-4f4f56",
+    "title": "Canva foydalanuvchilarga AI funksiyalarini o'chirishga ruxsat berdi",
+    "summary": "Canva foydalanuvchilarning noroziligidan so'ng, generativ AI funksiyalarini o'chirish tugmasini qo'shdi. Endi bepul va pullik foydalanuvchilar \"Magic Expand\" kabi AI xususiyatlarini o'chirib qo'yishi mumkin.",
+    "tags": [
+      "biznes",
+      "maxfiylik"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-11-19T12:55:01.000Z",
+    "created": "2026-11-19T13:49:25.619Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/261119/p26",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "ef2fd180fd67",
+    "slug": "llmlardan-notogri-foydalanish-muammosi-muhokama-qilindi-ef2fd1",
+    "title": "LLM'lardan noto'g'ri foydalanish muammosi muhokama qilindi",
+    "summary": "Muzokarada bozorning katta til modellaridan (LLM) noto'g'ri foydalanishi tanqid qilindi. Mutaxassislar LLM'larga kontekst qo'shmasdan va tartibsiz ma'lumotlar bilan ishlash \"mo'jiza\" kutish ekanini ta'kidladi.",
+    "tags": [
+      "biznes",
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 11,
+    "published": "2026-11-19T12:01:22.000Z",
+    "created": "2026-11-19T13:49:25.619Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/companies/h3llo_cloud/articles/1109868",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "e6848fff17a5",
+    "slug": "ai-kod-yozishni-tezlashtirsa-ham-natija-tezlashmasligi-mumki-e6848f",
+    "title": "AI kod yozishni tezlashtirsa ham natija tezlashmasligi mumkin",
+    "summary": "GitHub Copilot, Cursor va Claude Code kabi AI vositalari dasturiy kod yozish xarajatlarini kamaytirmoqda. Biroq bu dasturiy ta'minotni yetkazib berish jarayonini to'liq tezlashtirmaydi. Tizimdagi cheklovlar ishlanmaning boshqa bosqichlariga ko'chmoqda.",
     "tags": [
       "iqtisod",
       "siyosat"
