@@ -1,5 +1,49 @@
 [
   {
+    "id": "a3c4c81e9a5b",
+    "slug": "ishchilar-ai-tasirini-rahbarlar-tushunmaydi-deydi-a3c4c8",
+    "title": "Ishchilar AI ta'sirini rahbarlar tushunmaydi deydi",
+    "summary": "Adecco ma'lumotlariga ko'ra, ishchilarning atigi 19% rahbarlari AI'ning mehnat bozoriga ta'sirini tushunadi deb hisoblaydi. Bu AI'ning ishga qabul qilishga ta'siri allaqachon sezilayotganini ko'rsatadi.",
+    "tags": [
+      "mehnat bozori",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-11-19T13:00:00.000Z",
+    "created": "2026-11-19T14:06:56.319Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/11/19/ai-leadership-test-workers-empathy-adecco-denis-machuel",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "97ccf1ecd5ed",
+    "slug": "superhuman-go-agentini-docs-va-mailga-integratsiya-qildi-97ccf1",
+    "title": "Superhuman Go agentini Docs va Mail'ga integratsiya qildi",
+    "summary": "Superhuman kompaniyasi o'zining Go agentini asosiy yordamchi sifatida Docs va Mail ilovalarida taqdim etmoqda. Bu Go agentining kengroq platformalarda foydalanish imkoniyatini oshiradi.",
+    "tags": [
+      "agentlar",
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-11-19T14:00:00.000Z",
+    "created": "2026-11-19T14:06:56.319Z",
+    "coverage": 1,
+    "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/19/superhuman-pushes-its-go-assistant-everywhere",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "c947a91205a6",
     "slug": "xvj-rahbari-ai-talabi-butun-dunyoda-foizlarni-oshiradi-c947a9",
     "title": "XVJ rahbari: AI talabi butun dunyoda foizlarni oshiradi",
