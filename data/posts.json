@@ -1,5 +1,92 @@
 [
   {
+    "id": "0b998456a3ae",
+    "slug": "megarobo-biotexnologiya-uchun-200m-mablag-oldi-0b9984",
+    "title": "MegaRobo biotexnologiya uchun $200M mablag' oldi",
+    "summary": "Pekinda joylashgan MegaRobo kompaniyasi biotexnologiya tadqiqotlari uchun robototexnika va AI'dan foydalanadi. Kompaniya taxminan 200 million dollar mablag' yig'di va 2022-yilda 300 million dollar yig'ib, \"unicorn\"ga aylangan edi.",
+    "tags": [
+      "robototexnika",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-11-19T04:45:01.000Z",
+    "created": "2026-11-19T05:02:16.310Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/261118/p63",
+      "title": "Beijing-based MegaRobo, which uses robotics and AI to automate lab work for biotech research, raised ~$200M; it became a unicorn after raising $300M in 2022 (Bloomberg)",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "8f496da0008d",
+    "slug": "putin-tramp-si-ai-va-iqtisodiy-hamkorlikni-muhokama-qildi-8f496d",
+    "title": "Putin, Tramp, Si AI va iqtisodiy hamkorlikni muhokama qildi",
+    "summary": "Rossiya, AQSH va Xitoy rahbarlari sun'iy intellekt, iqtisodiy yutuqlar va hamkorlik masalalarini muhokama qildi. Sammitda uch tomonlama muzokaralar asosiy siyosiy voqea bo'ldi.",
+    "tags": [
+      "siyosat",
+      "iqtisod"
+    ],
+    "importance": 5,
+    "score": 48,
+    "published": "2026-11-19T04:31:38.000Z",
+    "created": "2026-11-19T05:11:43.096Z",
+    "coverage": 1,
+    "source": {
+      "name": "Daryo",
+      "url": "https://daryo.uz/2026/11/19/putin-tramp-va-si-szinpin-uchrashdi-dunyo-yetakchilarining-asosiy-bayonotlari",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "68f14fafc9ad",
+    "slug": "gisteretik-tizimlarni-modellashtirishda-neyron-tarmoqlar-tad-68f14f",
+    "title": "Gisteretik tizimlarni modellashtirishda neyron tarmoqlar tadqiqoti",
+    "summary": "Yangi tadqiqot gisteretik tizimlarni modellashtirish uchun neyron tarmoqlarning rivojlanishi va imkoniyatlarini ko'rib chiqadi. Unda Prandtl, Preisach va boshqa neyron tarmoq modellarining mexanizmlari tahlil qilingan.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 1,
+    "score": 13,
+    "published": "2026-11-19T05:00:00.000Z",
+    "created": "2026-11-19T05:11:43.096Z",
+    "coverage": 1,
+    "source": {
+      "name": "arXiv cs.LG",
+      "url": "https://arxiv.org/abs/2611.23240",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "87229f6af8ba",
+    "slug": "spiking-neyron-tarmoqlar-uchun-biologik-ilhomlangan-kodlash-87229f",
+    "title": "Spiking neyron tarmoqlar uchun biologik ilhomlangan kodlash",
+    "summary": "Yangi tadqiqot Spiking neyron tarmoqlarning (SNN) energiya samaradorligini oshirishga qaratilgan. Unda biologik ilhomlangan spike-kodlash sxemalari va o'qitishni yaxshilash usullari birlashtirilgan.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 1,
+    "score": 10,
+    "published": "2026-11-19T05:00:00.000Z",
+    "created": "2026-11-19T05:11:43.096Z",
+    "coverage": 1,
+    "source": {
+      "name": "arXiv cs.LG",
+      "url": "https://arxiv.org/abs/2611.23242",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "d513f095ac8d",
     "slug": "elon-musk-rul-bolmagan-avtonom-tesla-model-y-rejasini-aytdi-d513f0",
     "title": "Elon Musk rul bo'lmagan avtonom Tesla Model Y rejasini aytdi",
