@@ -5,8 +5,28 @@
   <link>https://ailenta.uz/mavzu/tadqiqot/</link>
   <description>&quot;tadqiqot&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Thu, 19 Nov 2026 09:22:08 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 19 Nov 2026 09:47:18 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/tadqiqot/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>AI OCR yordamida sahifalarni raqamlash arzonlashdi</title>
+    <link>https://ailenta.uz/x/ai-ocr-yordamida-sahifalarni-raqamlash-arzonlashdi-ab196d/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/ai-ocr-yordamida-sahifalarni-raqamlash-arzonlashdi-ab196d/</guid>
+    <pubDate>Thu, 19 Nov 2026 09:28:01 GMT</pubDate>
+    <description>Erkin mavjud AI modellari tufayli skanerlangan kitoblar va hujjatlardan matnni olish ancha arzonlashdi. Endi bir million sahifani 130 dollardan kamroq narxga raqamlashtirish mumkin, bu 18 oy ichida xarajatlarning besh baravar kamayganini ko'rsatadi.</description>
+    <category>tadqiqot</category><category>biznes</category>
+    <media:content url="https://ailenta.uz/og/ai-ocr-yordamida-sahifalarni-raqamlash-arzonlashdi-ab196d.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/ai-ocr-yordamida-sahifalarni-raqamlash-arzonlashdi-ab196d.jpg"/>
+  </item>
+  <item>
+    <title>Yangi bepul plagin AI kodlari xavfsizligini tekshiradi</title>
+    <link>https://ailenta.uz/x/yangi-bepul-plagin-ai-kodlari-xavfsizligini-tekshiradi-6b0199/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/yangi-bepul-plagin-ai-kodlari-xavfsizligini-tekshiradi-6b0199/</guid>
+    <pubDate>Thu, 19 Nov 2026 08:56:21 GMT</pubDate>
+    <description>AI bilan kod yozish tez va qulay bo'lsa-da, agentlar har doim ham xavfsizlikni hisobga olmaydi. Veracode ma'lumotlariga ko'ra, AI modellari deyarli yarim vazifalarda ma'lum zaifliklarga ega kodlarni chiqargan. Yangi bepul PT AI plaginlari endi AI yaratgan kodlardagi xavfsizlikni tekshiradi.</description>
+    <category>xavfsizlik</category><category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/yangi-bepul-plagin-ai-kodlari-xavfsizligini-tekshiradi-6b0199.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/yangi-bepul-plagin-ai-kodlari-xavfsizligini-tekshiradi-6b0199.jpg"/>
+  </item>
   <item>
     <title>Ma'lumot cheklovi rus AI modellarining ustunligini kamaytiradi</title>
     <link>https://ailenta.uz/x/malumot-cheklovi-rus-ai-modellarining-ustunligini-kamaytirad-b531a4/</link>
@@ -286,26 +306,6 @@
     <category>tadqiqot</category><category>mehnat bozori</category>
     <media:content url="https://ailenta.uz/og/neyroslopga-qarshi-manifest-ec6659.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/neyroslopga-qarshi-manifest-ec6659.jpg"/>
-  </item>
-  <item>
-    <title>Facebook va Instagram'ga AI tarjimani olib kelgan prototip</title>
-    <link>https://ailenta.uz/x/facebook-va-instagramga-ai-tarjimani-olib-kelgan-prototip-abd2d9/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/facebook-va-instagramga-ai-tarjimani-olib-kelgan-prototip-abd2d9/</guid>
-    <pubDate>Tue, 17 Nov 2026 12:53:06 GMT</pubDate>
-    <description>Analytics Insight nashri Facebook va Instagram'ga sun'iy intellekt tarjimasini olib kelishga yordam bergan prototip haqida xabar berdi.</description>
-    <category>Meta</category><category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/facebook-va-instagramga-ai-tarjimani-olib-kelgan-prototip-abd2d9.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/facebook-va-instagramga-ai-tarjimani-olib-kelgan-prototip-abd2d9.jpg"/>
-  </item>
-  <item>
-    <title>GLiNER2.5 modelini moslashtirish tajribasi</title>
-    <link>https://ailenta.uz/x/gliner2-5-modelini-moslashtirish-tajribasi-475fa2/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/gliner2-5-modelini-moslashtirish-tajribasi-475fa2/</guid>
-    <pubDate>Tue, 17 Nov 2026 05:49:14 GMT</pubDate>
-    <description>GLiNER2.5 modeli 5000 ta sintetik matn yordamida moslashtirildi va LoRA hamda QLoRA kabi usullar solishtirildi. Tajriba natijasida F1 sinov ko'rsatkichi 22,51 foizdan 94,13 foizga ko'tarildi.</description>
-    <category>DeepSeek</category><category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/gliner2-5-modelini-moslashtirish-tajribasi-475fa2.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/gliner2-5-modelini-moslashtirish-tajribasi-475fa2.jpg"/>
   </item>
 </channel>
 </rss>

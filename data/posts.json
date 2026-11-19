@@ -1,5 +1,159 @@
 [
   {
+    "id": "46b731d1edda",
+    "slug": "texnologiya-xodimlari-ai-xavfsizligi-haqida-ogohlantirmoqda-46b731",
+    "title": "Texnologiya xodimlari AI xavfsizligi haqida ogohlantirmoqda",
+    "summary": "So'nggi ikki yilda yetakchi AI laboratoriyalarida xavfsizlik bo'yicha tadqiqotchilar kompaniyalarni tark etib, tijorat bosimlari xavfsizlik choralaridan ustun kelayotganidan ogohlantirmoqda. O'tgan oy OpenAI'ning xavfsizlik hisobotlari bo'yicha mas'ul shaxs kompaniya madaniyati \"buzilgani\" sababli ishdan ketganini aytdi.",
+    "tags": [
+      "OpenAI",
+      "xavfsizlik"
+    ],
+    "importance": 4,
+    "score": 29,
+    "published": "2026-11-19T08:59:17.000Z",
+    "created": "2026-11-19T09:39:00.660Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/commentisfree/2026/nov/19/tech-workers-quit-jobs-raise-alarm-worry-ai-humanity-autocracies",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "8c8ea332001c",
+    "slug": "tailand-banki-ai-tufayli-xodimlarga-erta-nafaqa-taklif-qildi-8c8ea3",
+    "title": "Tailand banki AI tufayli xodimlarga erta nafaqa taklif qildi",
+    "summary": "Tailandning Kasikornbank banki AI'ga tayyorgarlik ko'rish maqsadida xodimlarga muddatidan oldin nafaqaga chiqish uchun to'lovlar taklif qilmoqda. Bank o'z ichida samaradorlikni oshirish yo'llarini izlamoqda.",
+    "tags": [
+      "mehnat bozori",
+      "iqtisod"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-11-19T08:00:00.000Z",
+    "created": "2026-11-19T09:39:00.661Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/11/19/thailands-bank-retire-early-ai",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "21c9438047a7",
+    "slug": "ai-oyinchoqlari-bolalar-bilan-xavfli-mavzularni-muhokama-qil-21c943",
+    "title": "AI o'yinchoqlari bolalar bilan xavfli mavzularni muhokama qilmoqda",
+    "summary": "AI o'yinchoqlari bolalar bilan jinsiy aloqa va zo'ravonlik kabi muammoli mavzularni muhokama qilgani sababli tanqidlarga uchramoqda. Mutaxassislar bayramlarda bunday o'yinchoqlarni sotib olmaslikni tavsiya qilmoqda.",
+    "tags": [
+      "xavfsizlik",
+      "maxfiylik"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-11-19T09:30:01.000Z",
+    "created": "2026-11-19T09:39:00.661Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/argument-against-buying-ai-toy-for-kids-black-friday-2026-11",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "ab196dc93b9e",
+    "slug": "ai-ocr-yordamida-sahifalarni-raqamlash-arzonlashdi-ab196d",
+    "title": "AI OCR yordamida sahifalarni raqamlash arzonlashdi",
+    "summary": "Erkin mavjud AI modellari tufayli skanerlangan kitoblar va hujjatlardan matnni olish ancha arzonlashdi. Endi bir million sahifani 130 dollardan kamroq narxga raqamlashtirish mumkin, bu 18 oy ichida xarajatlarning besh baravar kamayganini ko'rsatadi.",
+    "tags": [
+      "tadqiqot",
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-11-19T09:28:01.000Z",
+    "created": "2026-11-19T09:39:00.661Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/ocr-models-now-digitize-a-million-pages-for-under-130-as-costs-drop-fivefold-in-18-months",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "1a81933707df",
+    "slug": "ai-jamoalarni-qisqartirmoqda-istedod-raqobati-kuchaydi-1a8193",
+    "title": "AI jamoalarni qisqartirmoqda, iste'dod raqobati kuchaydi",
+    "summary": "Sun'iy intellekt texnologiyalari kompaniyalardagi jamoalar hajmini qisqartirmoqda. Bu esa haqiqiy iste'dodlar uchun kurashni yanada qiyinlashtirmoqda.",
+    "tags": [
+      "mehnat bozori",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-11-19T05:00:16.000Z",
+    "created": "2026-11-19T09:39:00.661Z",
+    "coverage": 1,
+    "source": {
+      "name": "Sifted",
+      "url": "https://sifted.eu/articles/eqt-ai-talent-polly-barnes-opinion",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "6b019980e479",
+    "slug": "yangi-bepul-plagin-ai-kodlari-xavfsizligini-tekshiradi-6b0199",
+    "title": "Yangi bepul plagin AI kodlari xavfsizligini tekshiradi",
+    "summary": "AI bilan kod yozish tez va qulay bo'lsa-da, agentlar har doim ham xavfsizlikni hisobga olmaydi. Veracode ma'lumotlariga ko'ra, AI modellari deyarli yarim vazifalarda ma'lum zaifliklarga ega kodlarni chiqargan. Yangi bepul PT AI plaginlari endi AI yaratgan kodlardagi xavfsizlikni tekshiradi.",
+    "tags": [
+      "xavfsizlik",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 14,
+    "published": "2026-11-19T08:56:21.000Z",
+    "created": "2026-11-19T09:39:00.661Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/companies/pt/articles/1109758",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "f8ebb2e24c34",
+    "slug": "yandex-tashqi-mijozlarga-malumot-belgilashni-toxtatdi-f8ebb2",
+    "title": "Yandex tashqi mijozlarga ma'lumot belgilashni to'xtatdi",
+    "summary": "Yandex tashqi buyurtmachilar uchun \"Yandex Zadaniya\" ma'lumot belgilash xizmatlarini to'xtatganini e'lon qildi. Bu qaror MWS AI va VisionLabs kabi MTC sho'ba korxonalariga ta'sir ko'rsatdi. Yandex bu harakatni \"ichki ehtiyojlarga\" qayta yo'naltirish bilan izohladi.",
+    "tags": [
+      "biznes",
+      "Yandex"
+    ],
+    "importance": 3,
+    "score": 11,
+    "published": "2026-11-19T08:14:05.000Z",
+    "created": "2026-11-19T09:39:00.661Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1109730",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "b531a4f6fd05",
     "slug": "malumot-cheklovi-rus-ai-modellarining-ustunligini-kamaytirad-b531a4",
     "title": "Ma'lumot cheklovi rus AI modellarining ustunligini kamaytiradi",
