@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/tadqiqot/</link>
   <description>&quot;tadqiqot&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Thu, 19 Nov 2026 07:18:22 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 19 Nov 2026 08:15:48 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/tadqiqot/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Ma'lumot cheklovi rus AI modellarining ustunligini kamaytiradi</title>
+    <link>https://ailenta.uz/x/malumot-cheklovi-rus-ai-modellarining-ustunligini-kamaytirad-b531a4/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/malumot-cheklovi-rus-ai-modellarining-ustunligini-kamaytirad-b531a4/</guid>
+    <pubDate>Thu, 19 Nov 2026 07:30:07 GMT</pubDate>
+    <description>ITMO instituti va bir qator mutaxassislar tadqiqotiga ko'ra, cheklovlar rus tilidagi modellarning raqobatbardoshligini pasaytirishi mumkin. Mahalliy modellar til va madaniy kontekstda ustun bo'lsa-da, bu afzallikni saqlash uchun yetarli hajmda sifatli ma'lumotlar zarur.</description>
+    <category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/malumot-cheklovi-rus-ai-modellarining-ustunligini-kamaytirad-b531a4.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/malumot-cheklovi-rus-ai-modellarining-ustunligini-kamaytirad-b531a4.jpg"/>
+  </item>
   <item>
     <title>Gisteretik tizimlarni modellashtirishda neyron tarmoqlar tadqiqoti</title>
     <link>https://ailenta.uz/x/gisteretik-tizimlarni-modellashtirishda-neyron-tarmoqlar-tad-68f14f/</link>
@@ -296,16 +306,6 @@
     <category>DeepSeek</category><category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/gliner2-5-modelini-moslashtirish-tajribasi-475fa2.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/gliner2-5-modelini-moslashtirish-tajribasi-475fa2.jpg"/>
-  </item>
-  <item>
-    <title>AI davrida matematika ko‘nikmalari nima uchun kerak</title>
-    <link>https://ailenta.uz/x/ai-davrida-matematika-ko-nikmalari-nima-uchun-kerak-ffe4b9/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/ai-davrida-matematika-ko-nikmalari-nima-uchun-kerak-ffe4b9/</guid>
-    <pubDate>Tue, 17 Nov 2026 05:00:00 GMT</pubDate>
-    <description>MIT dotsenti Jon Urshel sun’iy intellekt vositalari rivojlanayotganiga qaramay, matematikaning asosiy ko‘nikmalarini o‘rganish nima uchun hamon muhimligini tushuntirdi.</description>
-    <category>ta'lim</category><category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/ai-davrida-matematika-ko-nikmalari-nima-uchun-kerak-ffe4b9.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/ai-davrida-matematika-ko-nikmalari-nima-uchun-kerak-ffe4b9.jpg"/>
   </item>
 </channel>
 </rss>

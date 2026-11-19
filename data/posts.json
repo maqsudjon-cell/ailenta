@@ -1,5 +1,26 @@
 [
   {
+    "id": "b531a4f6fd05",
+    "slug": "malumot-cheklovi-rus-ai-modellarining-ustunligini-kamaytirad-b531a4",
+    "title": "Ma'lumot cheklovi rus AI modellarining ustunligini kamaytiradi",
+    "summary": "ITMO instituti va bir qator mutaxassislar tadqiqotiga ko'ra, cheklovlar rus tilidagi modellarning raqobatbardoshligini pasaytirishi mumkin. Mahalliy modellar til va madaniy kontekstda ustun bo'lsa-da, bu afzallikni saqlash uchun yetarli hajmda sifatli ma'lumotlar zarur.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 11,
+    "published": "2026-11-19T07:30:07.000Z",
+    "created": "2026-11-19T08:06:47.305Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1108350",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "8aac4f92184d",
     "slug": "xitoyda-ai-yaratgan-film-xarajatini-qoplamadi-8aac4f",
     "title": "Xitoyda AI yaratgan film xarajatini qoplamadi",
