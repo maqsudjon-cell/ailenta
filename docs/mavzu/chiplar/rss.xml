@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/chiplar/</link>
   <description>&quot;chiplar&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Thu, 19 Nov 2026 17:37:41 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 19 Nov 2026 18:11:47 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/chiplar/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>AQSh cheklovlari sabab Xitoy AI firmalari qiyinchilikda</title>
+    <link>https://ailenta.uz/x/aqsh-cheklovlari-sabab-xitoy-ai-firmalari-qiyinchilikda-41781a/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/aqsh-cheklovlari-sabab-xitoy-ai-firmalari-qiyinchilikda-41781a/</guid>
+    <pubDate>Thu, 19 Nov 2026 17:02:41 GMT</pubDate>
+    <description>AQShning AI chiplari eksportiga qo'ygan cheklovlari Xitoy kompaniyalariga zarba berdi. TSMC va Samsung xitoylik mijozlarga chip yetkazishni to'xtatdi. Moonshot AI esa Indoneziyadagi 150 million dollarlik bitimdan voz kechdi.</description>
+    <category>chiplar</category><category>iqtisod</category>
+    <media:content url="https://ailenta.uz/og/aqsh-cheklovlari-sabab-xitoy-ai-firmalari-qiyinchilikda-41781a.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/aqsh-cheklovlari-sabab-xitoy-ai-firmalari-qiyinchilikda-41781a.jpg"/>
+  </item>
   <item>
     <title>AI tadqiqotchisi AI'ni to'xtatish uchun chiplarni nishonga olishni aytdi</title>
     <link>https://ailenta.uz/x/ai-tadqiqotchisi-aini-toxtatish-uchun-chiplarni-nishonga-oli-999f50/</link>
@@ -296,16 +306,6 @@
     <category>Nvidia</category><category>chiplar</category>
     <media:content url="https://ailenta.uz/og/nvidia-rahbari-mojarosi-chip-eksportini-xavfga-qoydi-26a961.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/nvidia-rahbari-mojarosi-chip-eksportini-xavfga-qoydi-26a961.jpg"/>
-  </item>
-  <item>
-    <title>Kirin 9050 chipida 30 mlrd parametrli model ishlatildi</title>
-    <link>https://ailenta.uz/x/kirin-9050-chipida-30-mlrd-parametrli-model-ishlatildi-b22522/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/kirin-9050-chipida-30-mlrd-parametrli-model-ishlatildi-b22522/</guid>
-    <pubDate>Wed, 11 Nov 2026 05:01:16 GMT</pubDate>
-    <description>Huawei kompaniyasi Kirin 9050 chipida 30 milliard parametrli model qurilmada qanday ishlashini ma'lum qildi. Shuningdek, 1 milliarddan kam parametrli agentli til modeliga ega BotPsy shaxsiy yordamchisi taqdim etildi.</description>
-    <category>Hugging Face</category><category>chiplar</category>
-    <media:content url="https://ailenta.uz/og/kirin-9050-chipida-30-mlrd-parametrli-model-ishlatildi-b22522.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/kirin-9050-chipida-30-mlrd-parametrli-model-ishlatildi-b22522.jpg"/>
   </item>
 </channel>
 </rss>
