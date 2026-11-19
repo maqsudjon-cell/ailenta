@@ -1,5 +1,93 @@
 [
   {
+    "id": "ba182f3e6d57",
+    "slug": "yevropa-orbitadagi-chiqindilarni-tozalash-uchun-apparat-yara-ba182f",
+    "title": "Yevropa orbitadagi chiqindilarni tozalash uchun apparat yaratadi",
+    "summary": "ClearSpace-1 apparati eski sun'iy yo'ldoshlarni robot qo'llari bilan ushlab, Yer atmosferasida yoqib yuboradi. Ilk missiya 2030-yilga rejalashtirilgan.",
+    "tags": [
+      "siyosat",
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 48,
+    "published": "2026-11-19T16:24:21.000Z",
+    "created": "2026-11-19T17:25:43.612Z",
+    "coverage": 1,
+    "source": {
+      "name": "Daryo",
+      "url": "https://daryo.uz/2026/11/19/yevropa-orbitadagi-chiqindilarni-tozalash-uchun-maxsus-apparat-yaratadi",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "79657384096f",
+    "slug": "anthropic-eng-yirik-ipolardan-birini-otkazdi-796573",
+    "title": "Anthropic eng yirik IPO'lardan birini o'tkazdi",
+    "summary": "Anthropic kompaniyasi aksiyalarini birjaga chiqarib, 81 milliard dollar jalb qildi. Kompaniyaning bozor qiymati qariyb 1,5 trillion dollarga baholandi.",
+    "tags": [
+      "Anthropic",
+      "iqtisod"
+    ],
+    "importance": 4,
+    "score": 48,
+    "published": "2026-11-19T15:22:27.000Z",
+    "created": "2026-11-19T17:25:43.612Z",
+    "coverage": 1,
+    "source": {
+      "name": "Daryo",
+      "url": "https://daryo.uz/2026/11/19/tarixdagi-eng-yirik-ipo-claudeni-yaratgan-kompaniya-81-mlrd-dollar-jalb-qildi",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "a346c7a4748f",
+    "slug": "niderlandiya-ai-aqlli-kozoynaklarini-sotib-olmaslikni-tavsiy-a346c7",
+    "title": "Niderlandiya AI aqlli ko'zoynaklarini sotib olmaslikni tavsiya qildi",
+    "summary": "Niderlandiya nazorat organi AI aqlli ko'zoynaklarini sotib olmaslikni maslahat berdi. Sinovlar shuni ko'rsatdiki, ba'zi ko'zoynaklar dori ko'rsatmalarini noto'g'ri o'qigan yoki tez yordam chaqirgan.",
+    "tags": [
+      "xavfsizlik",
+      "qonun"
+    ],
+    "importance": 3,
+    "score": 23,
+    "published": "2026-11-19T16:33:17.000Z",
+    "created": "2026-11-19T17:25:43.612Z",
+    "coverage": 1,
+    "source": {
+      "name": "BBC News",
+      "url": "https://bbc.co.uk/news/articles/ckq6eyrzrzy5o?at_medium=RSS&at_campaign=rss",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "5445ad9494f5",
+    "slug": "ai-agentlari-uchun-sayt-xaritasi-samaradorlikni-oshirishi-mu-5445ad",
+    "title": "AI agentlari uchun sayt xaritasi samaradorlikni oshirishi mumkin",
+    "summary": "Tadqiqotga ko'ra, AI agentlari uchun sayt xaritasi javob topish vaqtini qisqartirishi mumkin. Sinovda u olingan matn hajmini 58% ga qisqartirdi, ammo kirish tokenlari 3,5% ga oshdi.",
+    "tags": [
+      "tadqiqot",
+      "agentlar"
+    ],
+    "importance": 2,
+    "score": 11,
+    "published": "2026-11-19T16:31:55.000Z",
+    "created": "2026-11-19T17:25:43.612Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1109612",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "e2019583b7a1",
     "slug": "pebble-index-01-ai-uzugi-sharhi-e20195",
     "title": "Pebble Index 01 AI uzugi sharhi",
