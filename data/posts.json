@@ -1,5 +1,27 @@
 [
   {
+    "id": "f94c17ebc850",
+    "slug": "tibecg-modeli-ekgdagi-demografik-malumotlarni-himoyalaydi-f94c17",
+    "title": "TIBECG modeli EKGdagi demografik ma'lumotlarni himoyalaydi",
+    "summary": "Tadqiqotchilar elektrokardiogramma ma'lumotlarini uzatishda maxfiylikni ta'minlovchi TIBECG modelini sinovdan o'tkazishdi. Tizim yosh va jins ma'lumotlarisiz 6 386 ta yozuv bo'yicha tahlil o'tkazish imkonini beradi.",
+    "tags": [
+      "tibbiyot",
+      "maxfiylik"
+    ],
+    "importance": 2,
+    "score": 4,
+    "published": "2026-11-18T05:00:00.000Z",
+    "created": "2026-11-19T00:37:41.506Z",
+    "coverage": 1,
+    "source": {
+      "name": "arXiv cs.LG",
+      "url": "https://arxiv.org/abs/2611.21694",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "da91062c630c",
     "slug": "aqshda-4-ta-ai-chatboti-terrorchilik-rejasini-tuzdi-da9106",
     "title": "AQSHda 4 ta AI chatboti terrorchilik rejasini tuzdi",
