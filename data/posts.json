@@ -1,43 +1,108 @@
 [
   {
-    "id": "e6848fff17a5",
-    "slug": "ai-kod-yozishni-tezlashtirsa-ham-natija-tezlashmasligi-mumki-e6848f",
-    "title": "AI kod yozishni tezlashtirsa ham natija tezlashmasligi mumkin",
-    "summary": "GitHub Copilot, Cursor va Claude Code kabi AI vositalari dasturiy kod yozish xarajatlarini kamaytirmoqda. Biroq bu dasturiy ta'minotni yetkazib berish jarayonini to'liq tezlashtirmaydi. Tizimdagi cheklovlar ishlanmaning boshqa bosqichlariga ko'chmoqda.",
+    "id": "c947a91205a6",
+    "slug": "xmt-rahbari-ai-talabi-foiz-stavkalarini-oshirishidan-ogohlan-c947a9",
+    "title": "XMT rahbari AI talabi foiz stavkalarini oshirishidan ogohlantirdi",
+    "summary": "Xalqaro Valyuta Jamg'armasi rahbari Kristalina Georgieva sun'iy intellektga bo'lgan yuqori talab global foiz stavkalarini oshirishga majbur qilishini aytdi. Uning so'zlariga ko'ra, AI uskunalari narxi iste'mol narxlarini ko'tarmoqda.",
     "tags": [
-      "tadqiqot",
-      "agentlar"
+      "iqtisod",
+      "siyosat"
     ],
-    "importance": 2,
-    "score": 17,
-    "published": "2026-11-19T10:30:52.000Z",
-    "created": "2026-11-19T12:41:28.754Z",
+    "importance": 4,
+    "score": 26,
+    "published": "2026-11-19T12:51:16.000Z",
+    "created": "2026-11-19T13:20:31.253Z",
     "coverage": 1,
     "source": {
-      "name": "Habr",
-      "url": "https://habr.com/ru/articles/1109822",
+      "name": "The Guardian",
+      "url": "https://theguardian.com/world/2026/nov/19/imf-head-warns-ai-demand-push-up-interest-rates-apec",
       "indirect": false
     },
     "also": [],
     "model": "gemini"
   },
   {
-    "id": "bec8407e5e92",
-    "slug": "korporativ-ai-loyihalarining-95-foizi-foyda-keltirmayapti-bec840",
-    "title": "Korporativ AI loyihalarining 95 foizi foyda keltirmayapti",
-    "summary": "MIT tadqiqotchilari uch yuzdan ortiq korporativ AI joriy etish holatlarini tahlil qildi. Natijalarga ko'ra, ushbu loyihalarning 95 foizi kompaniyalarning sof foydasiga hech qanday o'lchanadigan ta'sir ko'rsatmagan.",
+    "id": "999f5028f2af",
+    "slug": "ai-tadqiqotchisi-aini-toxtatish-uchun-chiplarni-nishonga-oli-999f50",
+    "title": "AI tadqiqotchisi AI'ni to'xtatish uchun chiplarni nishonga olishni aytdi",
+    "summary": "Bir AI tadqiqotchisining fikricha, saylovchilar sun'iy intellektni to'xtatishni istaydi. U AI'ni to'xtatish uchun chiplarni nishonga olish kerakligini ta'kidladi.",
+    "tags": [
+      "siyosat",
+      "chiplar"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-11-19T11:30:00.000Z",
+    "created": "2026-11-19T13:20:31.253Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/11/19/midterms-ai-moratorium-pause-data-centers-hardwired-pause-david-krueger",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "7cd396eaf07a",
+    "slug": "apple-aisi-ikki-hafta-davomida-suhbatlarni-umumlashtirdi-7cd396",
+    "title": "Apple AI'si ikki hafta davomida suhbatlarni umumlashtirdi",
+    "summary": "The Verge jurnalisti Apple Watch Ultra 4'dagi Apple va Amazon'ning doimiy tinglovchi AI funksiyasini sinovdan o'tkazdi. Bu funksiya suhbatlarni avtomatik ravishda umumlashtirib beradi.",
+    "tags": [
+      "Apple",
+      "maxfiylik"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-11-19T13:00:00.000Z",
+    "created": "2026-11-19T13:20:31.253Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Verge",
+      "url": "https://theverge.com/tech/1037100/apple-siri-recap-audio-intelligence-hands-on",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "4f4f5641c981",
+    "slug": "canva-generativ-ai-funksiyalarini-ochirish-imkonini-berdi-4f4f56",
+    "title": "Canva generativ AI funksiyalarini o'chirish imkonini berdi",
+    "summary": "Canva foydalanuvchilarning noroziligidan so'ng, generativ AI funksiyalarini o'chirish tugmasini qo'shdi. Endi bepul va pullik foydalanuvchilar Magic Expand kabi AI xususiyatlarini o'chirib qo'yishi mumkin.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-11-19T12:55:01.000Z",
+    "created": "2026-11-19T13:20:31.253Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/261119/p26",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "94f7c4a8e77e",
+    "slug": "ai-yaratgan-kodning-atigi-24-ishlab-chiqarishga-chiqmoqda-94f7c4",
+    "title": "AI yaratgan kodning atigi 24% ishlab chiqarishga chiqmoqda",
+    "summary": "SimpleOne tadqiqotiga ko'ra, jamoalarning 83% AI'dan kod yaratishda foydalanadi. Biroq, AI yordamida yaratilgan kodning atigi 24% ishchi tizimlarga chiqariladi. Bu tekshirish, tuzatish va sinovlarga ketadigan vaqt bilan bog'liq.",
     "tags": [
       "biznes",
-      "iqtisod"
+      "tadqiqot"
     ],
     "importance": 3,
     "score": 11,
-    "published": "2026-11-19T12:30:27.000Z",
-    "created": "2026-11-19T12:41:28.754Z",
+    "published": "2026-11-19T12:38:25.000Z",
+    "created": "2026-11-19T13:20:31.253Z",
     "coverage": 1,
     "source": {
       "name": "Habr",
-      "url": "https://habr.com/ru/articles/1109892",
+      "url": "https://habr.com/ru/companies/simpleone/articles/1109878",
       "indirect": false
     },
     "also": [],
