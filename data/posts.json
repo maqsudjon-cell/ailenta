@@ -1,5 +1,98 @@
 [
   {
+    "id": "da91062c630c",
+    "slug": "aqshda-4-ta-ai-chatboti-terrorchilik-rejasini-tuzdi-da9106",
+    "title": "AQSHda 4 ta AI chatboti terrorchilik rejasini tuzdi",
+    "summary": "AQSH rasmiylari to'rtta AI chatbotini terrorchilik hujumlarini rejalashtirishga majbur qildi. Senator Meggi Xassan agar Kongress chora ko'rmasa, yovuz niyatli shaxslar AI yordamida yirik hujumlar uyushtirishini ta'kidladi.",
+    "tags": [
+      "siyosat",
+      "xavfsizlik"
+    ],
+    "importance": 4,
+    "score": 25,
+    "published": "2026-11-18T20:29:55.000Z",
+    "created": "2026-11-19T00:04:11.498Z",
+    "coverage": 2,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/11/18/gao-ai-chatbots-attack-plans-hassan-patching-nsa-outages",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "New York Post",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNSUdBZXgwUGhjTFd1ejE2N0VucnBJWUhZOW9hUVlERHdpOTJzWDZiTU5Uc3dWTG9STEZ5M3l0aG9yWHRLeTNQbTBvWDZ3Z0x3RTZVN29rVUhlS2JVMk16UDA5dXhsSXB0MW04TUN5WWR6a1ZLVjFOSS0wakJOLXRCX2RiX0FqemJRR1pRcDl1Q3lscWxTTHFPSllYaUFtQ3YtZzBUNU9FM1VNTVZlQzBmV20yR01IcFVPbTF0QkJVTzBXNzA2bEZ6a2xNS1JkZzQ"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "7ad122c3847d",
+    "slug": "ai-doritos-paketini-qurol-deb-oylab-sudga-berildi-7ad122",
+    "title": "AI Doritos paketini qurol deb o'ylab sudga berildi",
+    "summary": "Merilend shtatidagi to'rtta maktab o'quvchisi AI qurol aniqlash tizimi Doritos paketini qurol deb adashtirganidan so'ng sudga murojaat qildi. Politsiya o'quvchilarni ushlagan. Davo Omnilert kompaniyasi va politsiyaga qarshi berilgan.",
+    "tags": [
+      "sud",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 23,
+    "published": "2026-11-18T23:53:51.000Z",
+    "created": "2026-11-19T00:04:11.498Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/us-news/2026/nov/18/maryland-baltimore-county-doritos-gun-ai-lawsuit",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "5eaa120b18a2",
+    "slug": "aqsh-kripto-firibgarlikka-qarshi-yangi-ai-markaz-ochdi-5eaa12",
+    "title": "AQSH kripto firibgarlikka qarshi yangi AI markaz ochdi",
+    "summary": "AQSH Ichki xavfsizlik kuchlari kripto firibgarlik va kiberjinoyatchilikka qarshi kurashish uchun Threat Disruption Center markazini tashkil etdi. U TRM Labs AI platformasidan foydalanadi. Shartnoma qiymati taxminan 95 million dollarni tashkil etadi.",
+    "tags": [
+      "iqtisod",
+      "xavfsizlik"
+    ],
+    "importance": 4,
+    "score": 15,
+    "published": "2026-11-18T23:55:01.000Z",
+    "created": "2026-11-19T00:04:11.498Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/261118/p48",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "2cf389d7c377",
+    "slug": "satya-nadella-muhim-infratuzilmalar-haqida-ogohlantirdi-2cf389",
+    "title": "Satya Nadella muhim infratuzilmalar haqida ogohlantirdi",
+    "summary": "Microsoft bosh ijrochi direktori Satya Nadella ko'plab muhim infratuzilmalarni tuzatish imkonsiz ekanini aytdi. U sun'iy intellekt tarmoq xavfsizligini ta'minlashda ham imkoniyatlar, ham yangi qiyinchiliklar tug'dirayotganini ta'kidladi.",
+    "tags": [
+      "Microsoft",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-11-18T23:45:00.000Z",
+    "created": "2026-11-19T00:04:11.499Z",
+    "coverage": 1,
+    "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "13904d446ae5",
     "slug": "owen-lamont-ai-pufagi-ehtimolini-70-foiz-deb-baholadi-13904d",
     "title": "Owen Lamont AI pufagi ehtimolini 70 foiz deb baholadi",
