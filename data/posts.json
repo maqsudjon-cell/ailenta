@@ -1,5 +1,49 @@
 [
   {
+    "id": "e6848fff17a5",
+    "slug": "ai-kod-yozishni-tezlashtirsa-ham-natija-tezlashmasligi-mumki-e6848f",
+    "title": "AI kod yozishni tezlashtirsa ham natija tezlashmasligi mumkin",
+    "summary": "GitHub Copilot, Cursor va Claude Code kabi AI vositalari dasturiy kod yozish xarajatlarini kamaytirmoqda. Biroq bu dasturiy ta'minotni yetkazib berish jarayonini to'liq tezlashtirmaydi. Tizimdagi cheklovlar ishlanmaning boshqa bosqichlariga ko'chmoqda.",
+    "tags": [
+      "tadqiqot",
+      "agentlar"
+    ],
+    "importance": 2,
+    "score": 17,
+    "published": "2026-11-19T10:30:52.000Z",
+    "created": "2026-11-19T12:41:28.754Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1109822",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "bec8407e5e92",
+    "slug": "korporativ-ai-loyihalarining-95-foizi-foyda-keltirmayapti-bec840",
+    "title": "Korporativ AI loyihalarining 95 foizi foyda keltirmayapti",
+    "summary": "MIT tadqiqotchilari uch yuzdan ortiq korporativ AI joriy etish holatlarini tahlil qildi. Natijalarga ko'ra, ushbu loyihalarning 95 foizi kompaniyalarning sof foydasiga hech qanday o'lchanadigan ta'sir ko'rsatmagan.",
+    "tags": [
+      "biznes",
+      "iqtisod"
+    ],
+    "importance": 3,
+    "score": 11,
+    "published": "2026-11-19T12:30:27.000Z",
+    "created": "2026-11-19T12:41:28.754Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1109892",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "03653e2f997a",
     "slug": "tesla-cybercab-obunasi-model-3-dan-qimmatroqqa-tushadi-03653e",
     "title": "Tesla Cybercab obunasi Model 3 dan qimmatroqqa tushadi",

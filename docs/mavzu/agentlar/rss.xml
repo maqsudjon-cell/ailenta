@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/agentlar/</link>
   <description>&quot;agentlar&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Thu, 19 Nov 2026 12:37:05 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 19 Nov 2026 13:05:50 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/agentlar/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>AI kod yozishni tezlashtirsa ham natija tezlashmasligi mumkin</title>
+    <link>https://ailenta.uz/x/ai-kod-yozishni-tezlashtirsa-ham-natija-tezlashmasligi-mumki-e6848f/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/ai-kod-yozishni-tezlashtirsa-ham-natija-tezlashmasligi-mumki-e6848f/</guid>
+    <pubDate>Thu, 19 Nov 2026 10:30:52 GMT</pubDate>
+    <description>GitHub Copilot, Cursor va Claude Code kabi AI vositalari dasturiy kod yozish xarajatlarini kamaytirmoqda. Biroq bu dasturiy ta'minotni yetkazib berish jarayonini to'liq tezlashtirmaydi. Tizimdagi cheklovlar ishlanmaning boshqa bosqichlariga ko'chmoqda.</description>
+    <category>tadqiqot</category><category>agentlar</category>
+    <media:content url="https://ailenta.uz/og/ai-kod-yozishni-tezlashtirsa-ham-natija-tezlashmasligi-mumki-e6848f.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/ai-kod-yozishni-tezlashtirsa-ham-natija-tezlashmasligi-mumki-e6848f.jpg"/>
+  </item>
   <item>
     <title>AI agentlari kod yozishda inson rivojlanishidan ortda</title>
     <link>https://ailenta.uz/x/ai-agentlari-kod-yozishda-inson-rivojlanishidan-ortda-569017/</link>
@@ -296,16 +306,6 @@
     <category>agentlar</category><category>Anthropic</category>
     <media:content url="https://ailenta.uz/og/agent-tizimini-qurish-va-claude-modellarining-narxi-5f50b1.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/agent-tizimini-qurish-va-claude-modellarining-narxi-5f50b1.jpg"/>
-  </item>
-  <item>
-    <title>AI agent davlat xaridlarida mijoz topishga yordam berdi</title>
-    <link>https://ailenta.uz/x/ai-agent-davlat-xaridlarida-mijoz-topishga-yordam-berdi-20161c/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/ai-agent-davlat-xaridlarida-mijoz-topishga-yordam-berdi-20161c/</guid>
-    <pubDate>Tue, 10 Nov 2026 17:58:10 GMT</pubDate>
-    <description>Bir mutaxassis AI agentidan davlat xaridlarida mijozlarni topish uchun foydalandi. Agent texnik vazifalarni tahlil qilib, potentsial mijozlarni aniqlashga yordam berdi.</description>
-    <category>agentlar</category><category>biznes</category>
-    <media:content url="https://ailenta.uz/og/ai-agent-davlat-xaridlarida-mijoz-topishga-yordam-berdi-20161c.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/ai-agent-davlat-xaridlarida-mijoz-topishga-yordam-berdi-20161c.jpg"/>
   </item>
 </channel>
 </rss>
