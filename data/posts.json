@@ -1,5 +1,27 @@
 [
   {
+    "id": "e486efe85b2a",
+    "slug": "chatprd-platformasida-token-firibgarligi-kopaydi-e486ef",
+    "title": "ChatPRD platformasida token firibgarligi ko'paydi",
+    "summary": "ChatPRD platformasi rahbari Kler Vo bepul sinov davridan suiiste'mol maqsadi bilan foydalanish holatlari ko'payganini ma'lum qildi. Ayrim guruhlar bepul tokenlarni qayta sotish yoki ulardan o'z tijorat loyihalarida foydalanish uchun ishlatmoqda.",
+    "tags": [
+      "biznes",
+      "xavfsizlik"
+    ],
+    "importance": 2,
+    "score": 21,
+    "published": "2026-11-20T02:49:57.000Z",
+    "created": "2026-11-20T03:01:53.169Z",
+    "coverage": 1,
+    "source": {
+      "name": "Simon Willison",
+      "url": "https://simonwillison.net/2026/Nov/20/token-fraud-is-here-and-its-bad",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "6aed67d410fc",
     "slug": "biomap-dori-xavfsizligini-baholovchi-ai-tizimini-taqdim-etdi-6aed67",
     "title": "BioMap dori xavfsizligini baholovchi AI tizimini taqdim etdi",
