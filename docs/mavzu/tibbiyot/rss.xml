@@ -5,7 +5,7 @@
   <link>https://ailenta.uz/mavzu/tibbiyot/</link>
   <description>&quot;tibbiyot&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Fri, 20 Nov 2026 19:14:41 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 20 Nov 2026 20:12:04 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/tibbiyot/rss.xml" rel="self" type="application/rss+xml"/>
   <item>
     <title>BioMap dori xavfsizligini baholovchi AI tizimini taqdim etdi</title>
@@ -16,6 +16,16 @@
     <category>tibbiyot</category><category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/biomap-dori-xavfsizligini-baholovchi-ai-tizimini-taqdim-etdi-6aed67.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/biomap-dori-xavfsizligini-baholovchi-ai-tizimini-taqdim-etdi-6aed67.jpg"/>
+  </item>
+  <item>
+    <title>OpenAI dori izlash uchun MedChemBench’ni taqdim etdi</title>
+    <link>https://ailenta.uz/x/openai-dori-izlash-uchun-medchembenchni-taqdim-etdi-f4784c/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/openai-dori-izlash-uchun-medchembenchni-taqdim-etdi-f4784c/</guid>
+    <pubDate>Fri, 20 Nov 2026 00:00:00 GMT</pubDate>
+    <description>MedChemBench AI modellarining molekulyar tuzilmalarni tushunishini baholaydi. Tizim tajriba dalillaridan xulosa chiqarish va birikmalarni tanlash imkonini beradi. Bu dori kashfiyotining ilk bosqichlarida qo'llaniladi.</description>
+    <category>OpenAI</category><category>tibbiyot</category>
+    <media:content url="https://ailenta.uz/og/openai-dori-izlash-uchun-medchembenchni-taqdim-etdi-f4784c.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/openai-dori-izlash-uchun-medchembenchni-taqdim-etdi-f4784c.jpg"/>
   </item>
   <item>
     <title>Onkologiya uchun multimodal asosiy model yaratildi</title>
@@ -296,16 +306,6 @@
     <category>tadqiqot</category><category>tibbiyot</category>
     <media:content url="https://ailenta.uz/og/ai-gistologik-tasvirlardan-molekulyar-bashoratni-oshirdi-45d05c.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/ai-gistologik-tasvirlardan-molekulyar-bashoratni-oshirdi-45d05c.jpg"/>
-  </item>
-  <item>
-    <title>Anthropic AI'si sichqon miyasida jarrohlik o'tkazdi</title>
-    <link>https://ailenta.uz/x/anthropic-aisi-sichqon-miyasida-jarrohlik-otkazdi-1ec2b6/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/anthropic-aisi-sichqon-miyasida-jarrohlik-otkazdi-1ec2b6/</guid>
-    <pubDate>Sun, 01 Nov 2026 14:00:13 GMT</pubDate>
-    <description>Anthropic kompaniyasining AI tizimi sichqon miyasida mustaqil ravishda jarrohlik amaliyotini bajarishi axloqiy bahslarga sabab bo'ldi. Bu haqda Root-Nation xabar bermoqda.</description>
-    <category>Anthropic</category><category>tibbiyot</category>
-    <media:content url="https://ailenta.uz/og/anthropic-aisi-sichqon-miyasida-jarrohlik-otkazdi-1ec2b6.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/anthropic-aisi-sichqon-miyasida-jarrohlik-otkazdi-1ec2b6.jpg"/>
   </item>
 </channel>
 </rss>

@@ -1,5 +1,114 @@
 [
   {
+    "id": "3ea993db7e3c",
+    "slug": "openai-model-imkoniyatlari-ogirlanishidan-himoyalanmoqda-3ea993",
+    "title": "OpenAI model imkoniyatlari o'g'irlanishidan himoyalanmoqda",
+    "summary": "OpenAI kompaniyasi modellar imkoniyatlarini nusxalashga qarshi ko'p bosqichli yondashuvni taqdim etdi. Tizim o'qitish, himoyalash va aniqlash choralarini o'z ichiga oladi. Bu usul imkoniyatlarni o'g'irlashdan saqlaydi.",
+    "tags": [
+      "OpenAI",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 36,
+    "published": "2026-11-20T10:00:00.000Z",
+    "created": "2026-11-20T20:03:04.176Z",
+    "coverage": 1,
+    "source": {
+      "name": "OpenAI",
+      "url": "https://openai.com/index/combatting-adversarial-distillation",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "f4784c304003",
+    "slug": "openai-dori-izlash-uchun-medchembenchni-taqdim-etdi-f4784c",
+    "title": "OpenAI dori izlash uchun MedChemBench’ni taqdim etdi",
+    "summary": "MedChemBench AI modellarining molekulyar tuzilmalarni tushunishini baholaydi. Tizim tajriba dalillaridan xulosa chiqarish va birikmalarni tanlash imkonini beradi. Bu dori kashfiyotining ilk bosqichlarida qo'llaniladi.",
+    "tags": [
+      "OpenAI",
+      "tibbiyot"
+    ],
+    "importance": 3,
+    "score": 29.8,
+    "published": "2026-11-20T00:00:00.000Z",
+    "created": "2026-11-20T20:03:04.177Z",
+    "coverage": 1,
+    "source": {
+      "name": "OpenAI",
+      "url": "https://openai.com/index/introducing-medchembench",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "b8e1839046bc",
+    "slug": "levent-alp-ge-claude-bilan-riman-gipotezasini-isbotladi-b8e183",
+    "title": "Levent Alpöge Claude bilan Riman gipotezasini isbotladi",
+    "summary": "Matematik Levent Alpöge Claude modeli yordamida Riman gipotezasini isbotlaganini ma'lum qildi. Uning ta'kidlashicha, ushbu usul Umumlashtirilgan Riman gipotezasini ham qamrab oladi.",
+    "tags": [
+      "Anthropic",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 21,
+    "published": "2026-11-20T16:30:48.000Z",
+    "created": "2026-11-20T20:03:04.177Z",
+    "coverage": 1,
+    "source": {
+      "name": "Simon Willison",
+      "url": "https://simonwillison.net/2026/Nov/20/levent-alpoge",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "eafdb2ec2e04",
+    "slug": "jensen-huang-senat-komissiyasida-korsatma-beradi-eafdb2",
+    "title": "Jensen Huang Senat komissiyasida ko'rsatma beradi",
+    "summary": "Nvidia sobiq bosh direktori Jensen Huang AQSh Senatining bank komissiyasida ko'rsatma beradi. U xitoylik ayg'oqchi bilan aloqadorlikda ayblanib, tanqidlarga uchragan edi.",
+    "tags": [
+      "Nvidia",
+      "siyosat"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-11-20T19:42:53.000Z",
+    "created": "2026-11-20T20:03:04.177Z",
+    "coverage": 1,
+    "source": {
+      "name": "CNBC",
+      "url": "https://cnbc.com/2026/11/20/jensen-huang-nvidia-senate-testimony.html",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "e12f2d9519ad",
+    "slug": "aqsh-rossiya-va-xitoy-yadroviy-liniyani-muhokama-qildi-e12f2d",
+    "title": "AQSh, Rossiya va Xitoy yadroviy liniyani muhokama qildi",
+    "summary": "AQSh, Rossiya va Xitoy rahbarlari 90 daqiqalik muzokaralarda yadroviy muloqot liniyasi bo'yicha kelishib oldi. Uchrashuvda AI reglamenti va muhim minerallar ta'minoti muhokama qilinmadi.",
+    "tags": [
+      "siyosat"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-11-20T17:55:10.000Z",
+    "created": "2026-11-20T20:03:04.177Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/11/20/trump-putin-xi-shenzhen-summit-nuclear-ukraine",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "b10920485f19",
     "slug": "tizim-uzilishlari-ai-hujumlari-tekshiruviga-sabab-boldi-b10920",
     "title": "Tizim uzilishlari AI hujumlari tekshiruviga sabab bo'ldi",
