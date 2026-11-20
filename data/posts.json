@@ -1,5 +1,27 @@
 [
   {
+    "id": "65aa91323796",
+    "slug": "hugging-facega-6-mlrd-sozli-ozbekcha-korpus-joylandi-65aa91",
+    "title": "Hugging Face'ga 6 mlrd so'zli o'zbekcha korpus joylandi",
+    "summary": "Sun'iy intellekt modellarining o'zbek tilini tushunishini oshirish uchun 5,6 million hujjatdan iborat ochiq baza yaratildi. Ushbu korpus Hugging Face platformasiga joylashtirildi. Ma'lumotlarni Qwen kabi yirik til modellariga taqdim etish bo'yicha ishlar boshlandi.",
+    "tags": [
+      "Hugging Face",
+      "O'zbekiston"
+    ],
+    "importance": 4,
+    "score": 51,
+    "published": "2026-11-20T05:02:00.000Z",
+    "created": "2026-11-20T06:06:02.066Z",
+    "coverage": 1,
+    "source": {
+      "name": "Gazeta.uz",
+      "url": "https://gazeta.uz/uz/2026/11/20/uzbek-words",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "319be70e7e08",
     "slug": "nextdc-uylar-yaqinida-malumotlar-markazi-qurmaydi-319be7",
     "title": "NextDC uylar yaqinida ma'lumotlar markazi qurmaydi",

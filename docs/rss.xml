@@ -5,8 +5,18 @@
   <link>https://ailenta.uz</link>
   <description>Dunyodagi sun'iy intellekt yangiliklari o'zbek tilida. Har soatda yangilanadi, har bir xabarda asl manbaga havola.</description>
   <language>uz</language>
-  <lastBuildDate>Fri, 20 Nov 2026 05:11:05 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 20 Nov 2026 06:15:40 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Hugging Face'ga 6 mlrd so'zli o'zbekcha korpus joylandi</title>
+    <link>https://ailenta.uz/x/hugging-facega-6-mlrd-sozli-ozbekcha-korpus-joylandi-65aa91/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/hugging-facega-6-mlrd-sozli-ozbekcha-korpus-joylandi-65aa91/</guid>
+    <pubDate>Fri, 20 Nov 2026 05:02:00 GMT</pubDate>
+    <description>Sun'iy intellekt modellarining o'zbek tilini tushunishini oshirish uchun 5,6 million hujjatdan iborat ochiq baza yaratildi. Ushbu korpus Hugging Face platformasiga joylashtirildi. Ma'lumotlarni Qwen kabi yirik til modellariga taqdim etish bo'yicha ishlar boshlandi.</description>
+    <category>Hugging Face</category><category>O'zbekiston</category>
+    <media:content url="https://ailenta.uz/og/hugging-facega-6-mlrd-sozli-ozbekcha-korpus-joylandi-65aa91.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/hugging-facega-6-mlrd-sozli-ozbekcha-korpus-joylandi-65aa91.jpg"/>
+  </item>
   <item>
     <title>AI rivojlanishi inson va AI hamkorligiga xavf soladi</title>
     <link>https://ailenta.uz/x/ai-rivojlanishi-inson-va-ai-hamkorligiga-xavf-soladi-f1ae0f/</link>
@@ -496,16 +506,6 @@
     <category>mehnat bozori</category><category>biznes</category>
     <media:content url="https://ailenta.uz/og/ai-jamoalarni-qisqartirmoqda-istedod-raqobati-kuchaydi-1a8193.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/ai-jamoalarni-qisqartirmoqda-istedod-raqobati-kuchaydi-1a8193.jpg"/>
-  </item>
-  <item>
-    <title>Gisteretik tizimlarni modellashtirishda neyron tarmoqlar tadqiqoti</title>
-    <link>https://ailenta.uz/x/gisteretik-tizimlarni-modellashtirishda-neyron-tarmoqlar-tad-68f14f/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/gisteretik-tizimlarni-modellashtirishda-neyron-tarmoqlar-tad-68f14f/</guid>
-    <pubDate>Thu, 19 Nov 2026 05:00:00 GMT</pubDate>
-    <description>Yangi tadqiqot gisteretik tizimlarni modellashtirish uchun neyron tarmoqlarning rivojlanishi va imkoniyatlarini ko'rib chiqadi. Unda Prandtl, Preisach va boshqa neyron tarmoq modellarining mexanizmlari tahlil qilingan.</description>
-    <category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/gisteretik-tizimlarni-modellashtirishda-neyron-tarmoqlar-tad-68f14f.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/gisteretik-tizimlarni-modellashtirishda-neyron-tarmoqlar-tad-68f14f.jpg"/>
   </item>
 </channel>
 </rss>
