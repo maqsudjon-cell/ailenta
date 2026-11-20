@@ -1,5 +1,27 @@
 [
   {
+    "id": "6aed67d410fc",
+    "slug": "biomap-dori-xavfsizligini-baholovchi-ai-tizimini-taqdim-etdi-6aed67",
+    "title": "BioMap dori xavfsizligini baholovchi AI tizimini taqdim etdi",
+    "summary": "BioMap kompaniyasi klinik bo'lmagan dori xavfsizligini baholash uchun AI tizimini chiqardi. U xTrimoTox yordamida toksiklikni taxmin qiladi va tadqiqot jarayonlariga integratsiya qilinadi. Modelni tekshirish uchun jonivorlardagi sinovlardan foydalaniladi.",
+    "tags": [
+      "tibbiyot",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 18,
+    "published": "2026-11-20T02:05:42.000Z",
+    "created": "2026-11-20T02:40:25.981Z",
+    "coverage": 1,
+    "source": {
+      "name": "Pandaily",
+      "url": "https://pandaily.com/biomap-xtrimotox-nonclinical-drug-safety-assessment-system",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "b16b1f08b291",
     "slug": "sud-ai-yaratgan-asoslarni-qollashni-taqiqladi-b16b1f",
     "title": "Sud AI yaratgan asoslarni qo'llashni taqiqladi",
