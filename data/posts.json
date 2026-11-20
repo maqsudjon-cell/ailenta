@@ -1,5 +1,47 @@
 [
   {
+    "id": "319be70e7e08",
+    "slug": "nextdc-uylar-yaqinida-malumotlar-markazi-qurmaydi-319be7",
+    "title": "NextDC uylar yaqinida ma'lumotlar markazi qurmaydi",
+    "summary": "NextDC kompaniyasi Melburnda aholi e'tirozlaridan so'ng yangi ma'lumotlar markazlarini uylar yaqinida qurmasligini ma'lum qildi. Ushbu norozilik sababli kompaniya aksiyalari narxi 40 foizga tushib ketgan va loyiha kechiktirilgan.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 23,
+    "published": "2026-11-20T04:37:08.000Z",
+    "created": "2026-11-20T05:01:36.467Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/australia-news/2026/nov/20/nextdc-vows-to-keep-future-datacentres-away-from-homes-after-community-backlash-in-melbourne",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "f1ae0f2c9ddc",
+    "slug": "ai-rivojlanishi-inson-va-ai-hamkorligiga-xavf-soladi-f1ae0f",
+    "title": "AI rivojlanishi inson va AI hamkorligiga xavf soladi",
+    "summary": "Tadqiqotchilar o'yinlar nazariyasi modeliga tayanib, AI imkoniyatlari oshgani sayin inson va AI o'rtasidagi hamkorlik beqarorlashishini ta'kidlamoqda. AI ustunlikka erishgan sari insonlarning ta'sir imkoniyati va manfaatlari kamayib boradi.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 10,
+    "published": "2026-11-20T05:00:00.000Z",
+    "created": "2026-11-20T05:01:36.467Z",
+    "coverage": 1,
+    "source": {
+      "name": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2611.23322",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "e804b2b7a543",
     "slug": "aqsh-senati-baaja-islohotlar-qonunini-maqulladi-e804b2",
     "title": "AQSh Senati BAAJA islohotlar qonunini ma'qulladi",
