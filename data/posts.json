@@ -1,5 +1,49 @@
 [
   {
+    "id": "91e141c77fef",
+    "slug": "alif-shop-applening-rasmiy-hamkoriga-aylandi-91e141",
+    "title": "Alif Shop Apple'ning rasmiy hamkoriga aylandi",
+    "summary": "Alif Shop O‘zbekiston marketpleyslari orasida birinchilardan bo‘lib Apple’ning vakolatli hamkori maqomini oldi. Endi xaridorlar Apple texnikasini ushbu platformada rasmiy kafolat bilan sotib olishlari mumkin.",
+    "tags": [
+      "Apple",
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 45,
+    "published": "2026-11-20T13:00:07.000Z",
+    "created": "2026-11-20T13:23:57.035Z",
+    "coverage": 1,
+    "source": {
+      "name": "Daryo",
+      "url": "https://daryo.uz/2026/11/20/alif-shop-ozbekistonda-applening-vakolatli-hamkori-maqomini-olgan-birinchi-marketpleys-boldi",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "4a59191af360",
+    "slug": "yirik-kompaniyalarda-texnik-uzilishlar-kuzatildi-4a5919",
+    "title": "Yirik kompaniyalarda texnik uzilishlar kuzatildi",
+    "summary": "Microsoft, Apple, aviatsiyalar va banklar tizimlarida uzilishlar yuz berdi. Bruce Schneier ta'kidlashicha, ushbu muammolar kiberhujumlar natijasi emas.",
+    "tags": [
+      "Microsoft",
+      "Apple"
+    ],
+    "importance": 3,
+    "score": 23,
+    "published": "2026-11-20T11:00:31.000Z",
+    "created": "2026-11-20T13:23:57.035Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/commentisfree/2026/nov/20/cyber-attacks-outages-blame-economy",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "000028228240",
     "slug": "frostbite-ai-tomonidan-yaratilgan-yangi-cpu-arxitekturasi-000028",
     "title": "Frostbite: AI tomonidan yaratilgan yangi CPU arxitekturasi",
