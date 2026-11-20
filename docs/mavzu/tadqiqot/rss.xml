@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/tadqiqot/</link>
   <description>&quot;tadqiqot&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Fri, 20 Nov 2026 12:47:33 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 20 Nov 2026 13:11:37 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/tadqiqot/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Frostbite: AI tomonidan yaratilgan yangi CPU arxitekturasi</title>
+    <link>https://ailenta.uz/x/frostbite-ai-tomonidan-yaratilgan-yangi-cpu-arxitekturasi-000028/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/frostbite-ai-tomonidan-yaratilgan-yangi-cpu-arxitekturasi-000028/</guid>
+    <pubDate>Fri, 20 Nov 2026 10:01:41 GMT</pubDate>
+    <description>AI tomonidan Frostbite nomli yangi CPU arxitekturasi kashf etilib, loyihalashtirildi va tasdiqlandi. Bu AI ning chip dizaynidagi imkoniyatlarini ko'rsatadi.</description>
+    <category>chiplar</category><category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/frostbite-ai-tomonidan-yaratilgan-yangi-cpu-arxitekturasi-000028.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/frostbite-ai-tomonidan-yaratilgan-yangi-cpu-arxitekturasi-000028.jpg"/>
+  </item>
   <item>
     <title>AI rivojlanishi inson va AI hamkorligiga xavf soladi</title>
     <link>https://ailenta.uz/x/ai-rivojlanishi-inson-va-ai-hamkorligiga-xavf-soladi-f1ae0f/</link>
@@ -296,16 +306,6 @@
     <category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/ai-matn-detektorlarini-takomillashtirish-usuli-yaratildi-461a1f.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/ai-matn-detektorlarini-takomillashtirish-usuli-yaratildi-461a1f.jpg"/>
-  </item>
-  <item>
-    <title>CoT fikrlash jarayonini nazorat qilish o'rganildi</title>
-    <link>https://ailenta.uz/x/cot-fikrlash-jarayonini-nazorat-qilish-organildi-7a9e51/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/cot-fikrlash-jarayonini-nazorat-qilish-organildi-7a9e51/</guid>
-    <pubDate>Wed, 18 Nov 2026 05:00:00 GMT</pubDate>
-    <description>Tadqiqotchilar sun'iy intellekt agentlarining fikrlash zanjiri ustidan nazoratni o'rgandi. Ta'kidlanishicha, fikrlash zanjirini boshqarish imkoniyati modelning yashirin maqsadlarini monitoring qilishni qiyinlashtirishi mumkin.</description>
-    <category>tadqiqot</category><category>xavfsizlik</category>
-    <media:content url="https://ailenta.uz/og/cot-fikrlash-jarayonini-nazorat-qilish-organildi-7a9e51.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/cot-fikrlash-jarayonini-nazorat-qilish-organildi-7a9e51.jpg"/>
   </item>
 </channel>
 </rss>
