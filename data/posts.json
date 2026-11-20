@@ -1,5 +1,49 @@
 [
   {
+    "id": "b16b1f08b291",
+    "slug": "sud-ai-yaratgan-asoslarni-qollashni-taqiqladi-b16b1f",
+    "title": "Sud AI yaratgan asoslarni qo'llashni taqiqladi",
+    "summary": "AQSh sudi Konstitutsiyaning to'rtinchi tuzatishiga tayangan holda qaror chiqardi. Unga ko'ra, tintuv va hibsga olish uchun AI tomonidan shakllantirilgan asoslantiruvchi sabablardan foydalanish taqiqlanadi.",
+    "tags": [
+      "sud",
+      "qonun"
+    ],
+    "importance": 3,
+    "score": 17,
+    "published": "2026-11-19T22:56:59.000Z",
+    "created": "2026-11-20T02:01:41.447Z",
+    "coverage": 1,
+    "source": {
+      "name": "Hacker News",
+      "url": "https://techdirt.com/2026/11/19/court-tells-cops-that-the-4th-amendment-doesnt-cover-ai-generated-probable-cause",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "ee7ae25663a5",
+    "slug": "oq-uy-kiberxavfsizlik-boyicha-yangi-direktorni-tayinladi-ee7ae2",
+    "title": "Oq uy kiberxavfsizlik bo'yicha yangi direktorni tayinladi",
+    "summary": "Oq uy Mudofaa vazirligi axborot texnologiyalari rahbari Kirsten Devisni milliy kiberdirektor etib tayinladi. U bu lavozimda iste'foga chiqayotgan Shon Kernkrossning o'rnini egallaydi.",
+    "tags": [
+      "siyosat",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-11-19T22:45:01.000Z",
+    "created": "2026-11-20T02:01:41.447Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/261119/p53",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "b8b621e609b5",
     "slug": "redwood-materials-ai-uchun-batareyalarni-qayta-ishlaydi-b8b621",
     "title": "Redwood Materials AI uchun batareyalarni qayta ishlaydi",
