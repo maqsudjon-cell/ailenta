@@ -1,5 +1,76 @@
 [
   {
+    "id": "3f1655cf3cf3",
+    "slug": "76-rahbarlar-kompaniyasini-ai-yetakchisi-deb-hisoblaydi-3f1655",
+    "title": "76% rahbarlar kompaniyasini AI yetakchisi deb hisoblaydi",
+    "summary": "Collective[i] asoschisi ma'lumotlariga ko'ra, rahbarlarning 76 foizi o'z kompaniyalarini AI sohasida yetakchi deb biladi. Biroq, ularning faqat 10 foizi haqiqatda shunday. Bu AI texnologiyalarini joriy etishdagi nomutanosiblikni ko'rsatadi.",
+    "tags": [
+      "biznes",
+      "iqtisod"
+    ],
+    "importance": 3,
+    "score": 25,
+    "published": "2026-11-20T11:30:00.000Z",
+    "created": "2026-11-20T12:22:12.334Z",
+    "coverage": 2,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/11/20/ai-adoption-k-shaped-leaders-anthropic-ipo-stephen-messer",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "Fortune",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdUlGT0RHRXhRc3RGVmVkdUg2OEMzTEgtdmlORThkMjNFdEtyZUwxWkpCcWlFdnlUUWRHUWZaS3JUYkQwZXFPRHdVVU1BbWhlc1RqT3NJcW10MmdMWFpZbDMzZklzUzFVS0lYZkFzcFdFc05SR1EyMUJJV0ZrbVJKNkxDUlZwM3I4c191WWJ3em01bkE"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "9c99530973c7",
+    "slug": "meta-ai-yordamchisi-instagramda-kuzatuvni-osonlashtirdi-9c9953",
+    "title": "Meta AI yordamchisi Instagram'da kuzatuvni osonlashtirdi",
+    "summary": "Meta kompaniyasining AI yordamchisi Instagram'da sizni kuzatmaydigan foydalanuvchilarni aniqlab, ularni kuzatishdan chiqarishi mumkin. Ba'zi foydalanuvchilar bu imkoniyatdan faol foydalanmoqda.",
+    "tags": [
+      "Meta",
+      "maxfiylik"
+    ],
+    "importance": 2,
+    "score": 23,
+    "published": "2026-11-20T12:00:00.000Z",
+    "created": "2026-11-20T12:22:12.334Z",
+    "coverage": 1,
+    "source": {
+      "name": "Wired",
+      "url": "https://wired.com/story/muse-is-unleashing-a-world-of-pettiness-on-instagram",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "c997f6cb902e",
+    "slug": "ai-kam-maoshli-ishchilarga-yashirin-kognitiv-soliq-yuklamoqd-c997f6",
+    "title": "AI kam maoshli ishchilarga yashirin \"kognitiv soliq\" yuklamoqda",
+    "summary": "AI iqtisodiyotni o'zgartirib, eng kam maosh oluvchi ishchilarga yashirin \"kognitiv soliq\" yuklamoqda. Bu ularning aqliy yukini oshirib, ish haqi va turar joy muammolari bilan birga kelmoqda. Iqtisodiyot AI ta'sirida o'zgarayotgan bir paytda ijtimoiy ta'minotni qayta ko'rib chiqish zarur.",
+    "tags": [
+      "mehnat bozori",
+      "iqtisod"
+    ],
+    "importance": 4,
+    "score": 23,
+    "published": "2026-11-20T11:00:31.000Z",
+    "created": "2026-11-20T12:22:12.334Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/technology/2026/nov/20/ai-low-paid-workers-cognitive-tax",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "300c6fa1696c",
     "slug": "mistral-osiyo-tinch-okeani-qarorgohini-singapurda-ochadi-300c6f",
     "title": "Mistral Osiyo-Tinch okeani qarorgohini Singapurda ochadi",
