@@ -1,5 +1,47 @@
 [
   {
+    "id": "b3dfce16cf85",
+    "slug": "vhseek-biologiya-asosiy-modeli-virus-mezbon-aloqalarini-ochm-b3dfce",
+    "title": "VHSeek: biologiya asosiy modeli virus-mezbon aloqalarini ochmoqda",
+    "summary": "Nature jurnalida VHSeek nomli biologiya asosiy modeli haqida maqola chop etildi. Ushbu model viruslarning mezbonlar bilan bog'liqligini aniqlash uchun virus tasvirlaridan foydalanadi.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-11-20T00:00:00.000Z",
+    "created": "2026-11-20T22:01:55.064Z",
+    "coverage": 1,
+    "source": {
+      "name": "Nature",
+      "url": "https://nature.com/articles/s41467-026-79392-x",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "05809e1ecdc0",
+    "slug": "home-depot-mijozlar-uchun-ai-botini-ishga-tushirdi-05809e",
+    "title": "Home Depot mijozlar uchun AI botini ishga tushirdi",
+    "summary": "Home Depot yirik chakana sotuvchilardan biri bo'lib, mijozlarga murakkab DIY loyihalarida yordam beruvchi AI botini taqdim etdi. Bu xaridorlarga ikkinchi marta do'konga borishdan qochishga yordam beradi.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-11-20T15:43:56.000Z",
+    "created": "2026-11-20T22:01:55.064Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/home-depots-ai-bot-helps-shoppers-avoid-dreaded-second-trip-2026-11",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "480a8b723958",
     "slug": "kaotik-tizimlar-uchun-yangi-ai-yondashuvi-yaratildi-480a8b",
     "title": "Kaotik tizimlar uchun yangi AI yondashuvi yaratildi",
