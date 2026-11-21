@@ -1,5 +1,49 @@
 [
   {
+    "id": "a6180198c72e",
+    "slug": "shimoliy-koreya-siyosiy-savollarni-cheklovchi-ai-yaratdi-a61801",
+    "title": "Shimoliy Koreya siyosiy savollarni cheklovchi AI yaratdi",
+    "summary": "Zamin.uz xabariga ko‘ra, Shimoliy Koreya o‘zining AI chatbotini yaratdi. Unda siyosiy savollarni berish taqiqlangan.",
+    "tags": [
+      "siyosat",
+      "maxfiylik"
+    ],
+    "importance": 3,
+    "score": 47,
+    "published": "2026-11-21T07:07:00.000Z",
+    "created": "2026-11-21T08:05:57.972Z",
+    "coverage": 1,
+    "source": {
+      "name": "Zamin.uz",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNYlNmemp2TnpBLTBjb3Z1Y3M3YVFTbXRDNkxhU19OZkFEbE9kNXVKandtMFppQ3FQQkNPRUtmZHlXTWg0bmRrNG0xOUg0M04wVF9EM2pJSGpPYWx0RFQyYlpFMHZDMlZzeGVDckZSY2lwTmlQWVlKaTQ3VkJpYnRlZkxCaEllcVBLN3dBblNmSmtKUzctdWpCSXRVUkRScldIUVhFa3ZiVElDbC1hSDRnNTgzOXJiX3hYUzBzaVVMRlR1Q254dHFFb1AtanpPZw",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "1a4c952333a8",
+    "slug": "robot-qo-llar-insoniyatni-ortda-qoldirishi-mumkinmi-1a4c95",
+    "title": "Robot qo‘llar insoniyatni ortda qoldirishi mumkinmi",
+    "summary": "Mutaxassislar AI ning dunyoni egallashiga to‘sqinlik qiluvchi inson qo‘llarining chaqqonligini takrorlashga harakat qilmoqda. Muhandislar robot qo‘llarni yaratish bo‘yicha poygada.",
+    "tags": [
+      "robototexnika",
+      "mehnat bozori"
+    ],
+    "importance": 3,
+    "score": 23,
+    "published": "2026-11-21T06:00:52.000Z",
+    "created": "2026-11-21T08:05:57.973Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/technology/2026/nov/21/robot-hands-future-of-humanity-ai",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "f3f091af5181",
     "slug": "aqsh-eksport-cheklovlari-boshqa-chiplarga-ham-tarqaldi-f3f091",
     "title": "AQSh eksport cheklovlari boshqa chiplarga ham tarqaldi",
