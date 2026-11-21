@@ -1,5 +1,27 @@
 [
   {
+    "id": "d18fec50623f",
+    "slug": "aqsh-chiplari-xitoy-ai-modellariga-xizmat-qilmoqda-d18fec",
+    "title": "AQSh chiplari Xitoy AI modellariga xizmat qilmoqda",
+    "summary": "AQSh chiplari va bulutli xizmatlari o‘rnatilgan ma’lumotlar markazlari Xitoyning AI modellariga xizmat ko‘rsatmoqda. Ushbu infratuzilma Xitoy sun’iy intellekt modellarining tarqalishiga sharoit yaratib bermoqda.",
+    "tags": [
+      "chiplar",
+      "bulut"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-11-21T10:00:00.000Z",
+    "created": "2026-11-21T11:04:47.404Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/11/21/data-centers-us-chips-serve-chinese-models",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "c2770c43291e",
     "slug": "gofundme-pro-va-donorperfect-ai-botlar-hujumiga-uchradi-c2770c",
     "title": "GoFundMe Pro va DonorPerfect AI-botlar hujumiga uchradi",
