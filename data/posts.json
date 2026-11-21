@@ -1,5 +1,92 @@
 [
   {
+    "id": "145c6a512c78",
+    "slug": "dj-lag-gta-vi-saundtrekida-ishtirok-etganini-nishonladi-145c6a",
+    "title": "DJ Lag GTA VI saundtrekida ishtirok etganini nishonladi",
+    "summary": "Durbanlik DJ Lag (Lwazi Asanda Gwala) GTA VI o‘yinining saundtrekida joy olganini nishonladi. U Burna Boy va Asake kabi boshqa afrikalik ijodkorlar qatorida o‘rin olgan.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 1,
+    "score": 15.4,
+    "published": "2026-11-20T14:27:39.000Z",
+    "created": "2026-11-21T11:33:49.560Z",
+    "coverage": 1,
+    "source": {
+      "name": "Semafor",
+      "url": "https://semafor.com/article/11/20/2026/durbans-dj-lag-celebrates-place-on-gta-vi-soundtrack",
+      "title": "Durban's DJ Lag celebrates place on GTA VI soundtrack",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "586308755ae0",
+    "slug": "ai-sababli-uzilishlar-va-kiberhujumlar-taraqqiyot-belgisi-586308",
+    "title": "AI sababli uzilishlar va kiberhujumlar taraqqiyot belgisi",
+    "summary": "Sun'iy intellekt tufayli yuzaga kelayotgan uzilishlar va kiberhujumlar tarixiy jarayonlarga mos keladi. Yangi innovatsiyalar hayotni yaxshilashdan oldin ko'pincha falokatli muvaffaqiyatsizliklarga olib keladi.",
+    "tags": [
+      "xavfsizlik",
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 30,
+    "published": "2026-11-21T10:02:09.000Z",
+    "created": "2026-11-21T11:34:22.781Z",
+    "coverage": 1,
+    "source": {
+      "name": "The New York Times",
+      "url": "https://nytimes.com/2026/11/21/science/outages-tech-history.html",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "458ddeae17f7",
+    "slug": "travel-leisure-cto-ai-jamoani-tezlashtirdi-ish-kop-458dde",
+    "title": "Travel + Leisure CTO: AI jamoani tezlashtirdi, ish ko'p",
+    "summary": "Travel + Leisure Co. texnik direktori Sy Esfahani AI jamoasiga ishlarni tezroq bajarishga yordam berayotganini aytdi. Shunga qaramay, insonlar uchun hali 10 yillik ish zaxirasi mavjud.",
+    "tags": [
+      "biznes",
+      "mehnat bozori"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-11-21T10:47:01.000Z",
+    "created": "2026-11-21T11:34:22.781Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/travel-and-leisure-co-cto-ai-faster-more-work-backlog-2026-11",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "6555fa76d142",
+    "slug": "ev-ustaxonasi-model-3ni-tesla-miniveniga-aylantirdi-6555fa",
+    "title": "EV ustaxonasi Model 3'ni Tesla miniveniga aylantirdi",
+    "summary": "Geoffrey Hoffman Tesla Model 3 asosida elektr miniven prototipini yaratdi. Uning maqsadi – Tesla ishlab chiqarmagan elektr furgonni yaratish edi.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 1,
+    "score": 15,
+    "published": "2026-11-21T10:13:01.000Z",
+    "created": "2026-11-21T11:34:22.781Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/tesla-model-3-van-conversion-2026-11",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "d18fec50623f",
     "slug": "aqsh-chiplari-xitoy-ai-modellariga-xizmat-qilmoqda-d18fec",
     "title": "AQSh chiplari Xitoy AI modellariga xizmat qilmoqda",
