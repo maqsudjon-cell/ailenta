@@ -1,5 +1,27 @@
 [
   {
+    "id": "6e086317ffb3",
+    "slug": "tadqiqot-ai-tizimlarida-maxfiylik-muammosini-korsatdi-6e0863",
+    "title": "Tadqiqot AI tizimlarida maxfiylik muammosini ko'rsatdi",
+    "summary": "Tadqiqotchi sun'iy intellekt ta'minot zanjiriga 2 millionta kuzatuv kodini joylashtirib, tajriba o'tkazdi. Natijada foydalanuvchi ma'lumotlari maxfiy qolmasligi va ularning tarqalib ketish xavfi mavjudligi tasdiqlandi.",
+    "tags": [
+      "maxfiylik",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 11,
+    "published": "2026-11-20T20:59:08.000Z",
+    "created": "2026-11-21T02:01:41.038Z",
+    "coverage": 1,
+    "source": {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "299f0513234e",
     "slug": "ai-bumi-yakunlanishi-xavotiri-aksiyalar-bozorini-tushirdi-299f05",
     "title": "AI bumi yakunlanishi xavotiri aksiyalar bozorini tushirdi",
