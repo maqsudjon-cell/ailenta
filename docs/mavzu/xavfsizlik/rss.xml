@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/xavfsizlik/</link>
   <description>&quot;xavfsizlik&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Sat, 21 Nov 2026 21:48:17 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 21 Nov 2026 22:16:06 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/xavfsizlik/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Signal AI kuzatuviga qarshi skrinshotlarni chekladi</title>
+    <link>https://ailenta.uz/x/signal-ai-kuzatuviga-qarshi-skrinshotlarni-chekladi-f3487a/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/signal-ai-kuzatuviga-qarshi-skrinshotlarni-chekladi-f3487a/</guid>
+    <pubDate>Sat, 21 Nov 2026 21:37:10 GMT</pubDate>
+    <description>Signal messenjeri AI kuzatuvi xavfi tufayli Android va iOS ilovalarida foydalanuvchilarning skrinshot olish imkoniyatini chekladi. Bu choralar maxfiylikni himoya qilishga qaratilgan.</description>
+    <category>maxfiylik</category><category>xavfsizlik</category>
+    <media:content url="https://ailenta.uz/og/signal-ai-kuzatuviga-qarshi-skrinshotlarni-chekladi-f3487a.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/signal-ai-kuzatuviga-qarshi-skrinshotlarni-chekladi-f3487a.jpg"/>
+  </item>
   <item>
     <title>Vermont monastiri o'zining &quot;AI xudosini&quot; yaratmoqda</title>
     <link>https://ailenta.uz/x/vermont-monastiri-ozining-ai-xudosini-yaratmoqda-77a328/</link>
@@ -296,16 +306,6 @@
     <category>xavfsizlik</category><category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/ai-modellarining-odamlarni-nishonga-olishga-tayyorligi-f7c40c.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/ai-modellarining-odamlarni-nishonga-olishga-tayyorligi-f7c40c.jpg"/>
-  </item>
-  <item>
-    <title>AI modellarini prompt-in'ektsiyalardan himoyalash filtri yaratildi</title>
-    <link>https://ailenta.uz/x/ai-modellarini-prompt-inektsiyalardan-himoyalash-filtri-yara-eca5c1/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/ai-modellarini-prompt-inektsiyalardan-himoyalash-filtri-yara-eca5c1/</guid>
-    <pubDate>Wed, 18 Nov 2026 12:57:03 GMT</pubDate>
-    <description>Katta til modellarini (LLM) prompt-in'ektsiya hujumlaridan himoyalash uchun filtr ishlab chiqildi. Bu filtr so'rovlarni asosiy modelga uzatishdan oldin tekshirib, maxfiy ma'lumotlarning oshkor bo'lishini oldini oladi.</description>
-    <category>xavfsizlik</category><category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/ai-modellarini-prompt-inektsiyalardan-himoyalash-filtri-yara-eca5c1.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/ai-modellarini-prompt-inektsiyalardan-himoyalash-filtri-yara-eca5c1.jpg"/>
   </item>
 </channel>
 </rss>

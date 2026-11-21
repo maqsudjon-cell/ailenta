@@ -5,7 +5,7 @@
   <link>https://ailenta.uz/mavzu/tadqiqot/</link>
   <description>&quot;tadqiqot&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Sat, 21 Nov 2026 21:48:17 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 21 Nov 2026 22:16:06 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/tadqiqot/rss.xml" rel="self" type="application/rss+xml"/>
   <item>
     <title>Vermont monastiri o'zining &quot;AI xudosini&quot; yaratmoqda</title>
@@ -76,6 +76,16 @@
     <category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/kaotik-tizimlar-uchun-yangi-ai-yondashuvi-yaratildi-480a8b.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/kaotik-tizimlar-uchun-yangi-ai-yondashuvi-yaratildi-480a8b.jpg"/>
+  </item>
+  <item>
+    <title>AI va inson Riemann gipotezasini yechganini da'vo qildi</title>
+    <link>https://ailenta.uz/x/ai-va-inson-riemann-gipotezasini-yechganini-davo-qildi-321bf9/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/ai-va-inson-riemann-gipotezasini-yechganini-davo-qildi-321bf9/</guid>
+    <pubDate>Fri, 20 Nov 2026 19:32:08 GMT</pubDate>
+    <description>Sun'iy intellekt 167 yillik Riemann gipotezasiga yechim topganini da'vo qildi. Shu bilan birga, inson tomonidan ham ushbu muammoga yechim taklif etilgani xabar qilindi.</description>
+    <category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/ai-va-inson-riemann-gipotezasini-yechganini-davo-qildi-321bf9.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/ai-va-inson-riemann-gipotezasini-yechganini-davo-qildi-321bf9.jpg"/>
   </item>
   <item>
     <title>METR AI imkoniyatlari bo'yicha yangi hisobot chiqardi</title>
@@ -296,16 +306,6 @@
     <category>chiplar</category><category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/ai-tufayli-yaratilgan-superkompyuterlar-top500-royxatida-yoq-748dee.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/ai-tufayli-yaratilgan-superkompyuterlar-top500-royxatida-yoq-748dee.jpg"/>
-  </item>
-  <item>
-    <title>Rust-anything loyihasi AI yordamida kodni Rustga o'giradi</title>
-    <link>https://ailenta.uz/x/rust-anything-loyihasi-ai-yordamida-kodni-rustga-ogiradi-2b8d93/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/rust-anything-loyihasi-ai-yordamida-kodni-rustga-ogiradi-2b8d93/</guid>
-    <pubDate>Wed, 18 Nov 2026 17:30:21 GMT</pubDate>
-    <description>GitHub'da &quot;rust-anything&quot; nomli ochiq loyiha e'lon qilindi. U AI agentlari, jumladan Claude Code va Codex yordamida turli dasturlash tillaridagi kodni Rustga o'girishga yordam beradi. Loyiha kodni qismlarga bo'lib o'zgartiradi va jarayon davomida xatoliklarni tekshiradi.</description>
-    <category>tadqiqot</category><category>ochiq model</category>
-    <media:content url="https://ailenta.uz/og/rust-anything-loyihasi-ai-yordamida-kodni-rustga-ogiradi-2b8d93.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/rust-anything-loyihasi-ai-yordamida-kodni-rustga-ogiradi-2b8d93.jpg"/>
   </item>
 </channel>
 </rss>

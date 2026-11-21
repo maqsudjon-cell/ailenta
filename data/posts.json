@@ -1,5 +1,75 @@
 [
   {
+    "id": "321bf9e3c390",
+    "slug": "ai-va-inson-riemann-gipotezasini-yechganini-davo-qildi-321bf9",
+    "title": "AI va inson Riemann gipotezasini yechganini da'vo qildi",
+    "summary": "Sun'iy intellekt 167 yillik Riemann gipotezasiga yechim topganini da'vo qildi. Shu bilan birga, inson tomonidan ham ushbu muammoga yechim taklif etilgani xabar qilindi.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 4,
+    "score": 15.2,
+    "published": "2026-11-20T19:32:08.000Z",
+    "created": "2026-11-21T22:03:58.353Z",
+    "coverage": 2,
+    "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "DNE Africa",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1zZFA4T05qRkxDa0FaMWdYOFQtUmtteVVLR2JCdFBGUHRyanNVeHNiLUwzcjRmVkFZbVNfR3RXVU5JeDM2bkxvRkYwQnAzY201czlYSzlGLVZyQV9EcmlCYUQxejB3aXM4cDhuM2dYUWNzTEll"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "f3487ac9886e",
+    "slug": "signal-ai-kuzatuviga-qarshi-skrinshotlarni-chekladi-f3487a",
+    "title": "Signal AI kuzatuviga qarshi skrinshotlarni chekladi",
+    "summary": "Signal messenjeri AI kuzatuvi xavfi tufayli Android va iOS ilovalarida foydalanuvchilarning skrinshot olish imkoniyatini chekladi. Bu choralar maxfiylikni himoya qilishga qaratilgan.",
+    "tags": [
+      "maxfiylik",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-11-21T21:37:10.000Z",
+    "created": "2026-11-21T22:03:58.353Z",
+    "coverage": 1,
+    "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "e5db30e41275",
+    "slug": "xitoy-ai-tokenlari-uchun-hisob-kitob-qoidalarini-rejalashtir-e5db30",
+    "title": "Xitoy AI tokenlari uchun hisob-kitob qoidalarini rejalashtirmoqda",
+    "summary": "Xitoy AI tokenlaridan foydalanish bo'yicha hisob-kitob qoidalarini joriy etishni rejalashtirmoqda. Mamlakatda AI tokenlarining kunlik ishlatilishi 500T dan oshgan.",
+    "tags": [
+      "siyosat",
+      "iqtisod"
+    ],
+    "importance": 3,
+    "score": 7,
+    "published": "2026-11-21T17:53:37.000Z",
+    "created": "2026-11-21T22:03:58.353Z",
+    "coverage": 1,
+    "source": {
+      "name": "FourWeekMBA",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORlk5Y1lfUlFFN0dwNFZGXzFXMEo5MklUcUJ6ZktDR1F3eFg0ZTZVWF8yVGQ3d1J6R1FIRXdqSm1NaHJkWGY0dzI2N2lrVWxONnhvcThaQkdDWWhCdU1EOG1KU0pNTXNiNkhpV1diX2xtOGJ4TC11NGdpNFdFaGJzZzFVVWRBRHBmeDAxSEZ3",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "71addc9e73b4",
     "slug": "redwood-ai-yordamida-eski-batareyalarni-saralaydi-71addc",
     "title": "Redwood AI yordamida eski batareyalarni saralaydi",
