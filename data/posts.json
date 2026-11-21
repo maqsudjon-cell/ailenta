@@ -1,5 +1,92 @@
 [
   {
+    "id": "7bf61e2387f5",
+    "slug": "alibaba-cloud-o-zbekiston-va-qozog-iston-ai-startaplarini-qo-7bf61e",
+    "title": "Alibaba Cloud O‘zbekiston va Qozog‘iston AI startaplarini qo‘llaydi",
+    "summary": "Alibaba Cloud \"Startup Speed Up\" dasturi doirasida O‘zbekiston va Qozog‘istondan 20 ta AI startapi tanlandi. Ularga Alibaba Cloud AI modellari va bulutli infratuzilmasidan foydalanish uchun jami $40 minglik kredit ajratiladi. Har bir jamoa yiliga $2 minggacha kredit olishi mumkin.",
+    "tags": [
+      "Alibaba Cloud",
+      "O'zbekiston"
+    ],
+    "importance": 3,
+    "score": 51,
+    "published": "2026-11-21T06:00:00.000Z",
+    "created": "2026-11-21T11:56:32.730Z",
+    "coverage": 1,
+    "source": {
+      "name": "Pivot",
+      "url": "https://pivot.uz/uz/alibaba-cloud-ozbekiston-va-qozogistondagi-20-ta-ai-startapni-qollab-quvvatlaydi",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "b44bb98f095f",
+    "slug": "markaziy-osiyo-davlatlari-bat-platformasi-bo-yicha-kelishdi-b44bb9",
+    "title": "Markaziy Osiyo davlatlari BAT platformasi bo‘yicha kelishdi",
+    "summary": "Qozog‘iston, O‘zbekiston, Qirg‘iziston va Tojikiston COP31 doirasida mintaqaviy raqamli BAT platformasini rivojlantirish bo‘yicha memorandum imzoladi. Bu sanoat korxonalarining atrof-muhitga ta’sirini kamaytirish va ekologik nazoratni takomillashtirishga qaratilgan.",
+    "tags": [
+      "O'zbekiston",
+      "siyosat"
+    ],
+    "importance": 3,
+    "score": 45,
+    "published": "2026-11-21T11:29:20.000Z",
+    "created": "2026-11-21T11:56:32.731Z",
+    "coverage": 1,
+    "source": {
+      "name": "Pivot",
+      "url": "https://pivot.uz/uz/markaziy-osiyo-sanoat-ekologiyasini-raqamlashtirmoqchi-tort-davlat-bat-platformasini-yaratish-boyicha-kelishdi",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "e70f703bd1e1",
+    "slug": "skein-nomonoton-kontekstga-ega-dasturiy-taminot-agenti-e70f70",
+    "title": "Skein: nomonoton kontekstga ega dasturiy ta'minot agenti",
+    "summary": "Skein – bu nomonoton kontekstga ega dasturiy ta'minot agenti. U ReAct arxitekturasi asosida ishlaydi, bunda modelga vositalar tavsifi beriladi va u ularni chaqiradi. Agent chaqiruvni bajarib, natijani modelga qaytaradi.",
+    "tags": [
+      "agentlar",
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 11,
+    "published": "2026-11-21T10:24:23.000Z",
+    "created": "2026-11-21T11:56:32.731Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1110628",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "25f8f4f43ee8",
+    "slug": "ai-eski-o-yinlarni-tiklashga-yordam-bermoqda-25f8f4",
+    "title": "AI eski o‘yinlarni tiklashga yordam bermoqda",
+    "summary": "Video Game History Foundation ma'lumotiga ko'ra, klassik o'yinlarning 85% dan ortig'ini sotib olish imkonsiz. Ko'plab eski o'yinlarning dastlabki kodlari yo'qolgan. AI endi dasturchilarga yo'qolgan kodlarni tiklashda yordam beradi.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 11,
+    "published": "2026-11-21T08:00:46.000Z",
+    "created": "2026-11-21T11:56:32.731Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/companies/selectel/articles/1110292",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "145c6a512c78",
     "slug": "dj-lag-gta-vi-saundtrekida-ishtirok-etganini-nishonladi-145c6a",
     "title": "DJ Lag GTA VI saundtrekida ishtirok etganini nishonladi",
