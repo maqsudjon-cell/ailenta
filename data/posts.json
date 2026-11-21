@@ -1,5 +1,49 @@
 [
   {
+    "id": "c939b776a632",
+    "slug": "ozbekiston-yangilangan-alifboga-otish-rejasini-taqdim-etdi-c939b7",
+    "title": "O'zbekiston yangilangan alifboga o'tish rejasini taqdim etdi",
+    "summary": "O'zbekistonda yangilangan o'zbek alifbosiga o'tish dasturi ishlab chiqildi. Hukumat OpenAI va boshqa kompaniyalarga mahsulotlarini moslashtirish uchun murojaat yo'llaydi. Darsliklar 2031 yilgacha almashtiriladi.",
+    "tags": [
+      "O'zbekiston",
+      "OpenAI"
+    ],
+    "importance": 4,
+    "score": 48,
+    "published": "2026-11-21T12:34:00.000Z",
+    "created": "2026-11-21T13:29:14.874Z",
+    "coverage": 1,
+    "source": {
+      "name": "Gazeta.uz",
+      "url": "https://gazeta.uz/uz/2026/11/21/alphabet-uzb",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "85c8df5e7e6d",
+    "slug": "coreweave-ai-bumining-xavfli-biznes-modelini-aks-ettirmoqda-85c8df",
+    "title": "CoreWeave AI bumining xavfli biznes modelini aks ettirmoqda",
+    "summary": "CoreWeave kompaniyasi AI bumining xavfli biznes modelini ifodalovchi ma'lumotlar markazlari qurilishini ramziy qildi. Maqolada bu investitsiyalarning rentabelligi shubhali ekanligi ta'kidlanadi.",
+    "tags": [
+      "biznes",
+      "bulut"
+    ],
+    "importance": 3,
+    "score": 26,
+    "published": "2026-11-21T13:00:01.000Z",
+    "created": "2026-11-21T13:29:14.874Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/business/2026/nov/21/debt-laden-cloud-computing-company-coreweave-ai-boom",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "7bf61e2387f5",
     "slug": "alibaba-cloud-ozbekiston-va-qozogiston-20-ai-startapini-qoll-7bf61e",
     "title": "Alibaba Cloud O'zbekiston va Qozog'iston 20 AI startapini qo'llab",
