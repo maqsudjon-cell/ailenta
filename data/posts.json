@@ -1,5 +1,48 @@
 [
   {
+    "id": "3f7da0b8575d",
+    "slug": "claude-yordamida-macos-dasturlari-tahlil-qilindi-3f7da0",
+    "title": "Claude yordamida macOS dasturlari tahlil qilindi",
+    "summary": "Tadqiqotchi Claude AI modeliga toza macOS virtual mashinasiga 900 dan ortiq dasturlarni o'rnatish vazifasini topshirdi. So'ngra ushbu dasturlar foydalanishdan keyin qancha fayl qoldirishini tahlil qildi.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 11,
+    "published": "2026-11-21T12:11:16.000Z",
+    "created": "2026-11-21T19:02:20.988Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1110656",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "97b20df2e79d",
+    "slug": "olimlar-ota-aqlli-ai-yaratilishiga-shubha-qilmoqda-97b20d",
+    "title": "Olimlar o'ta aqlli AI yaratilishiga shubha qilmoqda",
+    "summary": "Anthropic tadqiqotchilari va rahbariyati sun'iy intellekt insoniyatga xavf solishi haqida bahslashdi. Biroq soha mutaxassislari o'ta aqlli AI vujudga kelishiga shubha bilan qarashmoqda.",
+    "tags": [
+      "Anthropic",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 7.8,
+    "published": "2026-11-19T12:00:03.000Z",
+    "created": "2026-11-21T19:02:20.989Z",
+    "coverage": 1,
+    "source": {
+      "name": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/ai-superintelligence-debate",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "5a6cd3024694",
     "slug": "anthropic-hammuassisi-ai-shuuri-haqida-soz-yuritdi-5a6cd3",
     "title": "Anthropic hammuassisi AI shuuri haqida so'z yuritdi",
