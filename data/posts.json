@@ -1,5 +1,49 @@
 [
   {
+    "id": "7bac73473e11",
+    "slug": "together-ai-sorovlarida-sorov-sizib-chiqishi-aniqlandi-7bac73",
+    "title": "Together.ai so'rovlarida so'rov sizib chiqishi aniqlandi",
+    "summary": "Together.ai platformasida so'rovlar (prompt) sizib chiqishi bilan bog'liq muammo aniqlandi. Bu holat foydalanuvchi so'rovlarining maxfiyligiga ta'sir qilishi mumkin.",
+    "tags": [
+      "xavfsizlik",
+      "maxfiylik"
+    ],
+    "importance": 2,
+    "score": 14.3,
+    "published": "2026-11-22T03:07:27.000Z",
+    "created": "2026-11-22T21:37:08.500Z",
+    "coverage": 1,
+    "source": {
+      "name": "Hacker News",
+      "url": "https://together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "ca4c5e792249",
+    "slug": "ai-anonim-ekspert-baholashdagi-zaiflikni-fosh-etdi-ca4c5e",
+    "title": "AI anonim ekspert baholashdagi zaiflikni fosh etdi",
+    "summary": "Sun'iy intellekt anonim ekspert baholash tizimlaridagi jiddiy zaiflikni aniqladi. Bu holat ilmiy nashrlardagi baholash jarayonlariga ta'sir ko'rsatishi mumkin.",
+    "tags": [
+      "tadqiqot",
+      "xavfsizlik"
+    ],
+    "importance": 2,
+    "score": 7,
+    "published": "2026-11-22T20:05:03.000Z",
+    "created": "2026-11-22T21:37:08.501Z",
+    "coverage": 1,
+    "source": {
+      "name": "CryptoSlate",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNR3lMOVBEZlVaODQ3cEtlZ0Z6T2Z5R0R0bldwcHRpd0M4cVVRa1RFd3MtX0hNVXpzSTZveGhhT0tHOC1HSktCdGc2bnJaRlp3X2Ywem0yMkw4RDRCdF9VM3FwdWNMN1locWs1bG5Ja19UekQ4b2VHcVJpc3FUWWNESV9uMGhYLUR6MjYw",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "c886425c727d",
     "slug": "irlandiya-dpc-9-ta-ai-loyihasini-kechiktirdi-yoki-bekor-qild-c88642",
     "title": "Irlandiya DPC 9 ta AI loyihasini kechiktirdi yoki bekor qildi",
