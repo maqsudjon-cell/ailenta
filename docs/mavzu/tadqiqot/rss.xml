@@ -5,7 +5,7 @@
   <link>https://ailenta.uz/mavzu/tadqiqot/</link>
   <description>&quot;tadqiqot&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Sun, 22 Nov 2026 06:08:58 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 22 Nov 2026 06:45:24 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/tadqiqot/rss.xml" rel="self" type="application/rss+xml"/>
   <item>
     <title>Vermont monastiri o'zining &quot;AI xudosini&quot; yaratmoqda</title>
@@ -228,6 +228,16 @@
     <media:thumbnail url="https://ailenta.uz/og/aining-yangi-turi-qaror-qabul-qiluvchi-modellar-025f5a.jpg"/>
   </item>
   <item>
+    <title>Avstraliyalik olimlar inson jigarini 7 hafta tirik saqladi</title>
+    <link>https://ailenta.uz/x/avstraliyalik-olimlar-inson-jigarini-7-hafta-tirik-saqladi-195eb8/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/avstraliyalik-olimlar-inson-jigarini-7-hafta-tirik-saqladi-195eb8/</guid>
+    <pubDate>Thu, 19 Nov 2026 13:10:00 GMT</pubDate>
+    <description>Avstraliyadagi tadqiqotchilar inson jigarini tana tashqarisida rekord darajadagi yetti hafta davomida tirik saqlashga erishdi. Organ hayotni ta'minlovchi maxsus tizim yordamida ushlab turilgan.</description>
+    <category>tibbiyot</category><category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/avstraliyalik-olimlar-inson-jigarini-7-hafta-tirik-saqladi-195eb8.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/avstraliyalik-olimlar-inson-jigarini-7-hafta-tirik-saqladi-195eb8.jpg"/>
+  </item>
+  <item>
     <title>AI yaratgan kodning atigi 24% ishlab chiqarishga chiqmoqda</title>
     <link>https://ailenta.uz/x/ai-yaratgan-kodning-atigi-24-ishlab-chiqarishga-chiqmoqda-94f7c4/</link>
     <guid isPermaLink="true">https://ailenta.uz/x/ai-yaratgan-kodning-atigi-24-ishlab-chiqarishga-chiqmoqda-94f7c4/</guid>
@@ -296,16 +306,6 @@
     <category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/spiking-neyron-tarmoqlar-uchun-biologik-ilhomlangan-kodlash-87229f.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/spiking-neyron-tarmoqlar-uchun-biologik-ilhomlangan-kodlash-87229f.jpg"/>
-  </item>
-  <item>
-    <title>Horizon Robotics LoFT video geometriya modelini e'lon qildi</title>
-    <link>https://ailenta.uz/x/horizon-robotics-loft-video-geometriya-modelini-elon-qildi-014c83/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/horizon-robotics-loft-video-geometriya-modelini-elon-qildi-014c83/</guid>
-    <pubDate>Thu, 19 Nov 2026 01:53:13 GMT</pubDate>
-    <description>Horizon Robotics kompaniyasi LoFT nomli video geometriya modelini taqdim etdi. Bu model video geometriyani qayta tiklash uchun mo'ljallangan. Hozircha uning maqolasi, kodi va og'irliklari mavjud emas.</description>
-    <category>Horizon Robotics</category><category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/horizon-robotics-loft-video-geometriya-modelini-elon-qildi-014c83.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/horizon-robotics-loft-video-geometriya-modelini-elon-qildi-014c83.jpg"/>
   </item>
 </channel>
 </rss>

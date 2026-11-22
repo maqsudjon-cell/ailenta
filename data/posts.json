@@ -1,5 +1,69 @@
 [
   {
+    "id": "73546d837efb",
+    "slug": "berlindagi-sanat-majmuasida-harbiy-ai-tadbiri-otkazildi-73546d",
+    "title": "Berlindagi san'at majmuasida harbiy AI tadbiri o'tkazildi",
+    "summary": "Berlinning Kraftwerk san'at majmuasida 11-noyabr kuni qurol-yarog' kompaniyasining harbiy AI tadbiri bo'lib o'tdi. Majmua zali harbiy shtab shaklida bezatilgani jamoatchilik hamda klub a'zolarining e'tiroziga sabab bo'ldi.",
+    "tags": [
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 23,
+    "published": "2026-11-22T06:00:21.000Z",
+    "created": "2026-11-22T06:36:05.333Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/world/2026/nov/22/military-ai-event-berlin-kraftwerk-arts-complex",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "f55bdf249390",
+    "slug": "byd-olti-orinli-ti9-gibrid-krossoverini-taqdim-etdi-f55bdf",
+    "title": "BYD olti o'rinli Ti9 gibrid krossoverini taqdim etdi",
+    "summary": "BYD kompaniyasining Fang Cheng Bao brendi Ti9 gibrid krossoverini namoyish qildi. Narxi 279 900 yugandan 329 900 yugangacha bo'lgan ushbu olti o'rinli model buklanuvchi rul g'ildiragiga va DMS platformasiga ega.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 3.7,
+    "published": "2026-11-20T14:14:16.000Z",
+    "created": "2026-11-22T06:36:05.333Z",
+    "coverage": 1,
+    "source": {
+      "name": "TechNode",
+      "url": "https://technode.com/2026/11/20/byd-launches-six-seat-ti9-suv-from-rmb-279900-offers-folding-steering-wheel",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "195eb8806210",
+    "slug": "avstraliyalik-olimlar-inson-jigarini-7-hafta-tirik-saqladi-195eb8",
+    "title": "Avstraliyalik olimlar inson jigarini 7 hafta tirik saqladi",
+    "summary": "Avstraliyadagi tadqiqotchilar inson jigarini tana tashqarisida rekord darajadagi yetti hafta davomida tirik saqlashga erishdi. Organ hayotni ta'minlovchi maxsus tizim yordamida ushlab turilgan.",
+    "tags": [
+      "tibbiyot",
+      "tadqiqot"
+    ],
+    "importance": 4,
+    "score": 1.6,
+    "published": "2026-11-19T13:10:00.000Z",
+    "created": "2026-11-22T06:36:05.333Z",
+    "coverage": 1,
+    "source": {
+      "name": "MIT Technology Review",
+      "url": "https://technologyreview.com/2026/11/19/1148979/the-download-liver-kept-alive-sila-battery-deal-ai-hype",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "877f48487e8a",
     "slug": "xitoyga-ai-chiplarini-noqonuniy-olib-otish-holati-aniqlandi-877f48",
     "title": "Xitoyga AI chiplarini noqonuniy olib o'tish holati aniqlandi",
