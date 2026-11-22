@@ -18,7 +18,7 @@ import { join, dirname } from "node:path";
 import { fileURLToPath } from "node:url";
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
-const UA = "AiLentaBot/1.0 (https://ai.maqsudjon.com; polatovmaqsudjon1@gmail.com)";
+const UA = "AiLentaBot/1.0 (https://ailenta.uz; polatovmaqsudjon1@gmail.com)";
 const WIDTH = 1200;
 const THUMB_WIDTH = 400;   // lentadagi kichik rasm uchun alohida — katta faylni 64 pikselga siqish isrof
 

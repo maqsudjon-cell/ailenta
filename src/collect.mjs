@@ -9,7 +9,7 @@ import { dirname, join } from "node:path";
 import { fileURLToPath } from "node:url";
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
-const UA = "Mozilla/5.0 (compatible; AiLentaBot/1.0; +https://ai.maqsudjon.com)";
+const UA = "Mozilla/5.0 (compatible; AiLentaBot/1.0; +https://ailenta.uz)";
 const TIMEOUT = 20_000;
 
 // ---------- kichik yordamchilar ----------

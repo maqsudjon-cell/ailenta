@@ -220,7 +220,7 @@ ishlamay qoladi.
 
 ## Jonli
 
-- Sayt: https://ai.maqsudjon.com
+- Sayt: https://ailenta.uz
 - Repo: https://github.com/maqsudjon-cell/ailenta
 - Ish oqimi har 3 soatda o'zi ishlaydi; qo'lda: Actions → Lenta → Run workflow
 
