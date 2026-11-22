@@ -78,7 +78,7 @@ export async function buildImages(posts) {
     slug: "ai-lenta",
     title: "Sun'iy intellekt yangiliklari, o'zbekcha",
     tags: ["agentlar"],
-    source: { name: "ai.maqsudjon.com" },
+    source: { name: "ailenta.uz" },
   }), 1200)).jpeg({ quality: 88, mozjpeg: true }).toBuffer());
 
   // Favicon: SVG zamonaviy brauzerlar uchun, PNG qolganlari uchun.

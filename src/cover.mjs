@@ -103,7 +103,7 @@ function wrap(text, maxWidth, fontSize, maxLines) {
 
 // photoData — "data:image/jpeg;base64,..." ko'rinishida. Bo'lsa, o'ng tomondagi
 // geometrik naqsh o'rniga haqiqiy surat qo'yiladi.
-export function coverSvg(post, { width = 1200, height = 630, photoData = null, handle = "ailentauz", domain = "ai.maqsudjon.com" } = {}) {
+export function coverSvg(post, { width = 1200, height = 630, photoData = null, handle = "ailentauz", domain = "ailenta.uz" } = {}) {
   const color = topicColor(post.tags);
   const glyph = topicGlyph(post.tags, color, 24);
   const seed = seedOf(post.slug || post.id || post.title);
