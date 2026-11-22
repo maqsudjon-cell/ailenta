@@ -1,5 +1,49 @@
 [
   {
+    "id": "7e0181fbaee9",
+    "slug": "goldman-sachs-ai-sarmoyalarida-xavfli-vaziyat-7e0181",
+    "title": "Goldman Sachs: AI sarmoyalarida xavfli vaziyat",
+    "summary": "Goldman Sachs \"AI unwind\" holati xavfli tus olayotganini ma'lum qildi. Xedj fondlar AIga sarmoyalarini qisqartirgan bo'lsa-da, boshqa investorlar hali ham faol.",
+    "tags": [
+      "iqtisod",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-11-21T14:47:44.000Z",
+    "created": "2026-11-22T02:01:38.635Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/11/21/goldman-sachs-sp-500-correction-ai-unwind-bottom-three-conditions-hedge-funds-positioning",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "e93487c233f2",
+    "slug": "ai-xavfsizlik-mexanizmlari-buzilmoqda-e93487",
+    "title": "AI xavfsizlik mexanizmlari buzilmoqda",
+    "summary": "Tadqiqotchilar AI xavfsizlik mexanizmlari (guardrails) buzilayotganini aniqladi. Bu holat simulyatsiya qilingan suhbatlarda takroriy tazyiqlarga olib kelmoqda.",
+    "tags": [
+      "xavfsizlik",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": -2.1,
+    "published": "2026-11-20T15:20:14.000Z",
+    "created": "2026-11-22T02:01:38.635Z",
+    "coverage": 1,
+    "source": {
+      "name": "Tech Xplore",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTnhROTZMbDZRbDZicVFlV1M4amQxS1hNVHhtd01TUWZaMDljVkIwQTNScnZlU19FcEp5RGd0c2FKZk9PeE9tb2ZXOEtSSHJBN1BWS0dYcVd3R0RIUHZYUkZ3U1NzOHBGZjJ6dDgyRDdMLXNQVXJvd2RpOXhhaFJITjN3cTNCQk9C",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "31739de0b0b3",
     "slug": "aqsh-texnologiya-aksiyalari-eng-katta-yoqotishga-uchradi-31739d",
     "title": "AQSh texnologiya aksiyalari eng katta yo'qotishga uchradi",

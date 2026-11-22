@@ -5,7 +5,7 @@
   <link>https://ailenta.uz/mavzu/tadqiqot/</link>
   <description>&quot;tadqiqot&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Sun, 22 Nov 2026 01:50:24 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 22 Nov 2026 02:11:14 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/tadqiqot/rss.xml" rel="self" type="application/rss+xml"/>
   <item>
     <title>Vermont monastiri o'zining &quot;AI xudosini&quot; yaratmoqda</title>
@@ -106,6 +106,16 @@
     <category>Anthropic</category><category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/levent-alp-ge-claude-bilan-riman-gipotezasini-isbotladi-b8e183.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/levent-alp-ge-claude-bilan-riman-gipotezasini-isbotladi-b8e183.jpg"/>
+  </item>
+  <item>
+    <title>AI xavfsizlik mexanizmlari buzilmoqda</title>
+    <link>https://ailenta.uz/x/ai-xavfsizlik-mexanizmlari-buzilmoqda-e93487/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/ai-xavfsizlik-mexanizmlari-buzilmoqda-e93487/</guid>
+    <pubDate>Fri, 20 Nov 2026 15:20:14 GMT</pubDate>
+    <description>Tadqiqotchilar AI xavfsizlik mexanizmlari (guardrails) buzilayotganini aniqladi. Bu holat simulyatsiya qilingan suhbatlarda takroriy tazyiqlarga olib kelmoqda.</description>
+    <category>xavfsizlik</category><category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/ai-xavfsizlik-mexanizmlari-buzilmoqda-e93487.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/ai-xavfsizlik-mexanizmlari-buzilmoqda-e93487.jpg"/>
   </item>
   <item>
     <title>Frostbite: AI tomonidan yaratilgan yangi CPU arxitekturasi</title>
@@ -296,16 +306,6 @@
     <category>Horizon Robotics</category><category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/horizon-robotics-loft-video-geometriya-modelini-elon-qildi-014c83.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/horizon-robotics-loft-video-geometriya-modelini-elon-qildi-014c83.jpg"/>
-  </item>
-  <item>
-    <title>AI tufayli yaratilgan superkompyuterlar Top500 ro'yxatida yo'q</title>
-    <link>https://ailenta.uz/x/ai-tufayli-yaratilgan-superkompyuterlar-top500-royxatida-yoq-748dee/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/ai-tufayli-yaratilgan-superkompyuterlar-top500-royxatida-yoq-748dee/</guid>
-    <pubDate>Wed, 18 Nov 2026 20:15:44 GMT</pubDate>
-    <description>Sun'iy intellekt juda katta superkompyuterlarning paydo bo'lishiga sabab bo'ldi. Biroq, bu qudratli mashinalar dunyodagi eng yirik superkompyuterlar ro'yxati bo'lgan Top500'ga kiritilmagan.</description>
-    <category>chiplar</category><category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/ai-tufayli-yaratilgan-superkompyuterlar-top500-royxatida-yoq-748dee.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/ai-tufayli-yaratilgan-superkompyuterlar-top500-royxatida-yoq-748dee.jpg"/>
   </item>
 </channel>
 </rss>
