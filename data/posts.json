@@ -1,5 +1,48 @@
 [
   {
+    "id": "99bb0f44a01f",
+    "slug": "ai-kiberxavfsizlikdagi-eski-muammolarni-ochmoqda-99bb0f",
+    "title": "AI kiberxavfsizlikdagi eski muammolarni ochmoqda",
+    "summary": "Internetning dastlabki kunlaridan beri kiberxavfsizlikka yetarlicha e'tibor berilmagan. Hozirda AI uzoq yillik zaif kodlardagi yashirin muammolarni aniqlamoqda. Bu esa o'nlab yillar davomida e'tiborsiz qoldirilgan xavfsizlik kamchiliklari uchun hisob-kitob vaqtini keltirmoqda.",
+    "tags": [
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 27,
+    "published": "2026-11-21T19:11:51.000Z",
+    "created": "2026-11-22T07:01:57.428Z",
+    "coverage": 1,
+    "source": {
+      "name": "The New York Times",
+      "url": "https://nytimes.com/2026/11/21/us/politics/tech-outages-ai-disruptions.html",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "037da6f4d565",
+    "slug": "tesla-fsd-v15ni-real-vaqtli-ai-video-bilan-chiqardi-037da6",
+    "title": "Tesla FSD v15'ni real vaqtli AI video bilan chiqardi",
+    "summary": "Tesla FSD v15 avtopilot tizimini taqdim etdi. Unda avtomobil atrofini fotorealistik ko'rsatish tizimi mavjud. Elon Musk buni o'yin dvigatellaridan foydalanmasdan real vaqtli AI video yaratish deb atadi.",
+    "tags": [
+      "Tesla",
+      "robototexnika"
+    ],
+    "importance": 4,
+    "score": 15,
+    "published": "2026-11-22T06:40:16.000Z",
+    "created": "2026-11-22T07:01:57.428Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/261122/p4",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "73546d837efb",
     "slug": "berlindagi-sanat-majmuasida-harbiy-ai-tadbiri-otkazildi-73546d",
     "title": "Berlindagi san'at majmuasida harbiy AI tadbiri o'tkazildi",
