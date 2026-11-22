@@ -1,5 +1,76 @@
 [
   {
+    "id": "315e82c2f910",
+    "slug": "ai-iqlim-uchun-falokatga-aylanmoqda-315e82",
+    "title": "AI iqlim uchun falokatga aylanmoqda",
+    "summary": "Hacker News va Brian Merchantning xabar berishicha, sun'iy intellekt iqlim uchun tobora katta falokatga aylanmoqda. Bu AI texnologiyasining atrof-muhitga ta'siri haqidagi xavotirlarni kuchaytirmoqda.",
+    "tags": [
+      "iqtisod",
+      "siyosat"
+    ],
+    "importance": 3,
+    "score": 24.7,
+    "published": "2026-11-22T12:19:46.000Z",
+    "created": "2026-11-22T22:03:45.437Z",
+    "coverage": 2,
+    "source": {
+      "name": "Hacker News",
+      "url": "https://bloodinthemachine.com/p/ai-is-becoming-a-disaster-for-the",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "Blood in the Machine | Brian Merchant",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBCdkhwaXNFZ2RuR05meEZpbmF1aG9Ha2Q3Ti1kcDZyV0xRd0RWajRvN1A3RWk2cDVYdUJublpiX2ZIZUpJa1FieVptZ2VFekVMMlRzN3pTQnI5TFRocWRDUF9aRHRNVzhQQklmc0xVMFRpSVFkNnA4eA"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "69ab1dabb075",
+    "slug": "ayol-eriga-ai-orqali-javob-berdi-u-sezmadi-69ab1d",
+    "title": "Ayol eriga AI orqali javob berdi, u sezmadi",
+    "summary": "Polly Hudson ismli ayol eriga AI yordamida javob berishni boshlaganini va erining buni sezmaganini yozdi. Uning tajribasi AI shaxsiy muloqotda inson o'rnini bosishi mumkinligini ko'rsatdi.",
+    "tags": [
+      "maxfiylik",
+      "Apple"
+    ],
+    "importance": 2,
+    "score": 23,
+    "published": "2026-11-22T16:00:31.000Z",
+    "created": "2026-11-22T22:03:45.437Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/commentisfree/2026/nov/22/stopped-talking-to-husband-let-ai-do-it-instead",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "e53408e9fae7",
+    "slug": "ai-avtomatizatsiyasi-doimiy-ozgarishlarga-olib-keldi-e53408",
+    "title": "AI avtomatizatsiyasi doimiy o'zgarishlarga olib keldi",
+    "summary": "Habr nashri AI avtomatizatsiyasi vaqtni tejash o'rniga doimiy qayta ishlash va tuzatishlarga olib kelgan uchta holatni tahlil qildi. Bu AI tizimlarini sozlash va tekshirish muhimligini ko'rsatadi.",
+    "tags": [
+      "tadqiqot",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 11,
+    "published": "2026-11-22T18:52:19.000Z",
+    "created": "2026-11-22T22:03:45.437Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1109850",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "7bac73473e11",
     "slug": "together-ai-sorovlarida-sorov-sizib-chiqishi-aniqlandi-7bac73",
     "title": "Together.ai so'rovlarida so'rov sizib chiqishi aniqlandi",
