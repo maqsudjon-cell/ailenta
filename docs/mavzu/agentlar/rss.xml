@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/agentlar/</link>
   <description>&quot;agentlar&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Sun, 22 Nov 2026 14:15:23 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 22 Nov 2026 15:10:59 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/agentlar/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>AI agentlar ruxsatini cheklash mexanizmlari muhokama qilindi</title>
+    <link>https://ailenta.uz/x/ai-agentlar-ruxsatini-cheklash-mexanizmlari-muhokama-qilindi-cece9d/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/ai-agentlar-ruxsatini-cheklash-mexanizmlari-muhokama-qilindi-cece9d/</guid>
+    <pubDate>Sun, 22 Nov 2026 13:31:57 GMT</pubDate>
+    <description>Habr nashri AI agentlarining ruxsatlarini cheklash bo'yicha to'rt darajali xavfsizlik mexanizmlarini tahlil qildi. Agentlar ba'zan ruxsatsiz harakatlarni amalga oshirishi mumkinligi ta'kidlandi.</description>
+    <category>xavfsizlik</category><category>agentlar</category>
+    <media:content url="https://ailenta.uz/og/ai-agentlar-ruxsatini-cheklash-mexanizmlari-muhokama-qilindi-cece9d.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/ai-agentlar-ruxsatini-cheklash-mexanizmlari-muhokama-qilindi-cece9d.jpg"/>
+  </item>
   <item>
     <title>DOS muhitida kod yozish uchun ClawDOS AI agenti yaratildi</title>
     <link>https://ailenta.uz/x/dos-muhitida-kod-yozish-uchun-clawdos-ai-agenti-yaratildi-97bf05/</link>
@@ -296,16 +306,6 @@
     <category>Anthropic</category><category>agentlar</category>
     <media:content url="https://ailenta.uz/og/claude-code-sorovlarining-93-foizi-tasdiqlanmoqda-a6bfd1.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/claude-code-sorovlarining-93-foizi-tasdiqlanmoqda-a6bfd1.jpg"/>
-  </item>
-  <item>
-    <title>Coframe AI yordamida veb-saytlar uchun $35M yig'di</title>
-    <link>https://ailenta.uz/x/coframe-ai-yordamida-veb-saytlar-uchun-35m-yigdi-0167a4/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/coframe-ai-yordamida-veb-saytlar-uchun-35m-yigdi-0167a4/</guid>
-    <pubDate>Tue, 10 Nov 2026 22:45:00 GMT</pubDate>
-    <description>Coframe kompaniyasi AI yordamida har bir tashrifchi uchun veb-saytlarni shaxsiylashtiradi. Kompaniya Series A bosqichida $25 million sarmoya jalb qilib, umumiy mablag'ini $35 millionga yetkazdi.</description>
-    <category>biznes</category><category>agentlar</category>
-    <media:content url="https://ailenta.uz/og/coframe-ai-yordamida-veb-saytlar-uchun-35m-yigdi-0167a4.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/coframe-ai-yordamida-veb-saytlar-uchun-35m-yigdi-0167a4.jpg"/>
   </item>
 </channel>
 </rss>

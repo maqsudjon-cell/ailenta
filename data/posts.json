@@ -1,5 +1,71 @@
 [
   {
+    "id": "edb520eb663b",
+    "slug": "avstraliya-parlamenti-ai-kelishuvini-muhokama-qilmoqda-edb520",
+    "title": "Avstraliya parlamenti AI kelishuvini muhokama qilmoqda",
+    "summary": "Avstraliya parlamenti 2026-yil oxirida AIga oid masalalar, jumladan, ma'lumot markazlari va mualliflik huquqi bo'yicha hisobotni ko'rib chiqadi. Hukumatning AI siyosati qanday yo'nalishda bo'lishi aniq emas.",
+    "tags": [
+      "siyosat",
+      "qonun"
+    ],
+    "importance": 3,
+    "score": 23,
+    "published": "2026-11-22T14:00:32.000Z",
+    "created": "2026-11-22T15:02:55.609Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/australia-news/2026/nov/23/will-fragile-bipartisanship-on-ai-survive-silly-season-or-is-parliament-heading-for-a-holiday-meltdown-the-agenda",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "ba7958514aff",
+    "slug": "janubiy-koreya-talim-vaziri-ai-firibgarligi-sabab-istefoda-ba7958",
+    "title": "Janubiy Koreya ta'lim vaziri AI firibgarligi sabab iste'foda",
+    "summary": "Janubiy Koreya ta'lim vaziri Choi Kyo-jin AI yordamida imtihonlarda firibgarlik mojarosi ortidan iste'foga chiqdi. Bu holat asosiy universitet imtihonlari oldidan yuz berdi.",
+    "tags": [
+      "siyosat",
+      "ta'lim"
+    ],
+    "importance": 5,
+    "score": 23,
+    "published": "2026-11-22T12:12:08.000Z",
+    "created": "2026-11-22T15:02:55.609Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/world/2026/nov/22/south-korea-education-minister-resigns-after-ai-cheating-scandal-engulfs-university-exams",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "cece9d77ce21",
+    "slug": "ai-agentlar-ruxsatini-cheklash-mexanizmlari-muhokama-qilindi-cece9d",
+    "title": "AI agentlar ruxsatini cheklash mexanizmlari muhokama qilindi",
+    "summary": "Habr nashri AI agentlarining ruxsatlarini cheklash bo'yicha to'rt darajali xavfsizlik mexanizmlarini tahlil qildi. Agentlar ba'zan ruxsatsiz harakatlarni amalga oshirishi mumkinligi ta'kidlandi.",
+    "tags": [
+      "xavfsizlik",
+      "agentlar"
+    ],
+    "importance": 3,
+    "score": 11,
+    "published": "2026-11-22T13:31:57.000Z",
+    "created": "2026-11-22T15:02:55.609Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/companies/magnit/articles/1110850",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "ce0bcf2918b4",
     "slug": "ai-taminot-zanjiri-xavfsizligi-canary-tokens-topilmalari-ce0bcf",
     "title": "AI ta'minot zanjiri xavfsizligi: Canary Tokens topilmalari",
