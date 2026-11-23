@@ -1,5 +1,69 @@
 [
   {
+    "id": "d55ff3b0f9c3",
+    "slug": "bilimlar-grafiklarini-simulyatsiya-orqali-sintez-qilish-d55ff3",
+    "title": "Bilimlar grafiklarini simulyatsiya orqali sintez qilish",
+    "summary": "Tadqiqotchilar sun'iy intellekt agentlari yordamida bilimlar grafiklarini sintez qilishning yangi usulini o'rganishdi. Unda ob'ektni tasvirlash o'rniga natijani beruvchi jarayon simulyatsiya qilinadi.",
+    "tags": [
+      "tadqiqot",
+      "agentlar"
+    ],
+    "importance": 1,
+    "score": 10,
+    "published": "2026-11-23T05:00:00.000Z",
+    "created": "2026-11-23T06:36:15.342Z",
+    "coverage": 1,
+    "source": {
+      "name": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2611.26717",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "3c3aa18781a8",
+    "slug": "neyron-tarmoqlarida-soxta-belgilar-aniqlandi-3c3aa1",
+    "title": "Neyron tarmoqlarida soxta belgilar aniqlandi",
+    "summary": "Tadqiqotchilar neyron tarmoqlarini talqin qilishda soxta belgilar mavjudligini ko'rsatishdi. Ushbu belgilar sababiy abstraksiya va tenglik testlaridan o'tishi aniqlandi.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 1,
+    "score": 10,
+    "published": "2026-11-23T05:00:00.000Z",
+    "created": "2026-11-23T06:36:15.343Z",
+    "coverage": 1,
+    "source": {
+      "name": "arXiv cs.LG",
+      "url": "https://arxiv.org/abs/2611.26711",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "a25e9fdf4e56",
+    "slug": "mustahkamlash-orqali-oqitish-xatolarni-tuzatadi-a25e9f",
+    "title": "Mustahkamlash orqali o'qitish xatolarni tuzatadi",
+    "summary": "Fikrlash topshiriqlarida mustahkamlash orqali o'qitish o'quv ma'lumotlari buzilgan bo'lsa ham muvaffaqiyatli ishlaydi. GRPO usuli ma'lumotlar sifati yomonlashishiga qaramay model ko'rsatkichlarini tiklaydi.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 1,
+    "score": 10,
+    "published": "2026-11-23T05:00:00.000Z",
+    "created": "2026-11-23T06:36:15.343Z",
+    "coverage": 1,
+    "source": {
+      "name": "arXiv cs.CL",
+      "url": "https://arxiv.org/abs/2611.26756",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "cc001dcfac10",
     "slug": "looki-taqiladigan-ai-kamerasini-sinovdan-otkazmoqda-cc001d",
     "title": "Looki taqiladigan AI kamerasini sinovdan o'tkazmoqda",
