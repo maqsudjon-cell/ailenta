@@ -1,5 +1,71 @@
 [
   {
+    "id": "4a58effbc03e",
+    "slug": "san-fransiskoda-ai-bumni-va-inqiroz-xavotirlari-4a58ef",
+    "title": "San-Fransiskoda AI bumni va inqiroz xavotirlari",
+    "summary": "San-Fransiskoda sun'iy intellekt sohasida jadal rivojlanish kuzatilmoqda. Biroq, soha xodimlari sektorning haddan tashqari qizib ketganidan xavotirda.",
+    "tags": [
+      "iqtisod",
+      "mehnat bozori"
+    ],
+    "importance": 3,
+    "score": 23,
+    "published": "2026-11-23T00:08:00.000Z",
+    "created": "2026-11-23T01:01:47.054Z",
+    "coverage": 1,
+    "source": {
+      "name": "BBC News",
+      "url": "https://bbc.co.uk/news/articles/cqe9k09j9jv4o?at_medium=RSS&at_campaign=rss",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "8cc270b18470",
+    "slug": "claude-fable-5-2-html-select-box-uslubini-yaratdi-8cc270",
+    "title": "Claude Fable 5.2 HTML select box uslubini yaratdi",
+    "summary": "Dasturchi Claude Fable 5.2 modelidan foydalanib, HTML select box elementlari uchun turli uslublarni ko'rsatuvchi sahifa yaratdi. Bu turli brauzerlardagi ko'rinish muammosini hal qilishga yordam beradi.",
+    "tags": [
+      "Anthropic",
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-11-22T19:45:06.000Z",
+    "created": "2026-11-23T01:01:47.054Z",
+    "coverage": 1,
+    "source": {
+      "name": "Simon Willison",
+      "url": "https://simonwillison.net/2026/Nov/22/select-styling",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "87a8d6fab8c1",
+    "slug": "yangi-ai-fishing-mexanizmi-6-chatbotdan-foydalanmoqda-87a8d6",
+    "title": "Yangi AI fishing mexanizmi 6 chatbotdan foydalanmoqda",
+    "summary": "Yangi sun'iy intellekt fishing mexanizmi bloklangan firibgarliklarni qayta yozish uchun oltita chatbotdan foydalanadi. Bu yangi vosita kiberxavfsizlikka tahdid solmoqda.",
+    "tags": [
+      "xavfsizlik",
+      "agentlar"
+    ],
+    "importance": 4,
+    "score": 7,
+    "published": "2026-11-22T22:20:00.000Z",
+    "created": "2026-11-23T01:01:47.054Z",
+    "coverage": 1,
+    "source": {
+      "name": "TechRadar",
+      "url": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxOOTRwMDR6bVkxRHVRTUt0enMyUVFVNVlsdGtkNGRqeUxRdFprelpBaXV1Nk5Mb0QyanlCX0ZoR29GNUZ0c1Fpcm1TOGw2c1hwcVU3Y0xuRUtxWVBkUUdNcXRJVVpXVC03dy1iZzdhelotUjVfdjg2XzE1T0tGLU1HS2xCcHZLRkJGX2E4c2pudWlnNDhua2pqYk12RDd5NExpNkNwZFY1NTlVU1p5QmdjQ2pQdlhtMmpSdFRkaXo5X0kxTDBQS3dkX0N6eXhzQ0U5cE96dVlTNmRlSWxrTFVaTjBNQmNmYkdSVjhiM2tmdmxKMXItaDR3SlI1eVgtMHNWV2lpYlUwVFRDUlBndjRiY041ZXNOOHJfM3Rla2JyMFdrMHZWQnJ1OFhGVVV1bjVkYzBWNHRFdXAzd2xtOFpoU3N2eHNHbVFLVGUzYktEc3dTZS1TOUZnZWlnbXpxV29iSWREYTMtdUREME11ZU0wbA",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "c4b6f13dc91c",
     "slug": "elon-musk-ai-kompaniyalarida-naqd-pul-kamayishini-aytdi-c4b6f1",
     "title": "Elon Musk AI kompaniyalarida naqd pul kamayishini aytdi",
