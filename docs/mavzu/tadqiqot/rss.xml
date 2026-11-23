@@ -5,7 +5,7 @@
   <link>https://ailenta.uz/mavzu/tadqiqot/</link>
   <description>&quot;tadqiqot&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Mon, 23 Nov 2026 16:15:58 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 23 Nov 2026 17:15:12 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/tadqiqot/rss.xml" rel="self" type="application/rss+xml"/>
   <item>
     <title>Z.ai Loop Transformer arxitekturasi GLM-5.4 modelida</title>
@@ -228,6 +228,16 @@
     <media:thumbnail url="https://ailenta.uz/og/insonlar-ai-hamrohlar-bilan-ajralishdan-ruhiy-jarohat-olmoqd-8527f7.jpg"/>
   </item>
   <item>
+    <title>Mashinalarga qanday huquqlar berishimiz kerak</title>
+    <link>https://ailenta.uz/x/mashinalarga-qanday-huquqlar-berishimiz-kerak-0095f9/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/mashinalarga-qanday-huquqlar-berishimiz-kerak-0095f9/</guid>
+    <pubDate>Sat, 21 Nov 2026 12:30:00 GMT</pubDate>
+    <description>Agar biz sun'iy intellekt agentlarini ongli deb hisoblay boshlasak, bu ular bilan va bir-birimiz bilan munosabatlarimizni o'zgartirishi mumkin. Bu savol AI rivojlanishi bilan dolzarb bo'lmoqda.</description>
+    <category>siyosat</category><category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/mashinalarga-qanday-huquqlar-berishimiz-kerak-0095f9.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/mashinalarga-qanday-huquqlar-berishimiz-kerak-0095f9.jpg"/>
+  </item>
+  <item>
     <title>Claude yordamida macOS dasturlari tahlil qilindi</title>
     <link>https://ailenta.uz/x/claude-yordamida-macos-dasturlari-tahlil-qilindi-3f7da0/</link>
     <guid isPermaLink="true">https://ailenta.uz/x/claude-yordamida-macos-dasturlari-tahlil-qilindi-3f7da0/</guid>
@@ -296,16 +306,6 @@
     <category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/metr-ai-imkoniyatlari-boyicha-yangi-hisobot-chiqardi-583b7a.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/metr-ai-imkoniyatlari-boyicha-yangi-hisobot-chiqardi-583b7a.jpg"/>
-  </item>
-  <item>
-    <title>Levent Alpöge Claude bilan Riman gipotezasini isbotladi</title>
-    <link>https://ailenta.uz/x/levent-alp-ge-claude-bilan-riman-gipotezasini-isbotladi-b8e183/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/levent-alp-ge-claude-bilan-riman-gipotezasini-isbotladi-b8e183/</guid>
-    <pubDate>Fri, 20 Nov 2026 16:30:48 GMT</pubDate>
-    <description>Matematik Levent Alpöge Claude modeli yordamida Riman gipotezasini isbotlaganini ma'lum qildi. Uning ta'kidlashicha, ushbu usul Umumlashtirilgan Riman gipotezasini ham qamrab oladi.</description>
-    <category>Anthropic</category><category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/levent-alp-ge-claude-bilan-riman-gipotezasini-isbotladi-b8e183.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/levent-alp-ge-claude-bilan-riman-gipotezasini-isbotladi-b8e183.jpg"/>
   </item>
 </channel>
 </rss>

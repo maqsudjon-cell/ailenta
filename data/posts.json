@@ -1,5 +1,71 @@
 [
   {
+    "id": "c4aa81e8683c",
+    "slug": "xitoy-ai-aqshga-yadroviy-ustunlik-berishidan-xavotirda-c4aa81",
+    "title": "Xitoy AI AQShga yadroviy ustunlik berishidan xavotirda",
+    "summary": "Xitoy harbiylari tadqiqotchilari sun'iy intellektning rivojlanishi AQShga yadroviy qurollar balansida ustunlik berishidan xavotirda. Ular AI AQShga Xitoyning yadroviy raketalarini topish va yo'q qilish imkonini berishidan qo'rqishadi.",
+    "tags": [
+      "siyosat",
+      "xavfsizlik"
+    ],
+    "importance": 4,
+    "score": 15,
+    "published": "2026-11-23T14:43:23.000Z",
+    "created": "2026-11-23T17:02:37.733Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/chinese-military-fears-ai-could-let-the-us-find-and-destroy-its-nuclear-missiles",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "9d3501a43428",
+    "slug": "ai-sorov-provayderi-maxfiylik-kamchiliklarini-fosh-etdi-9d3501",
+    "title": "AI so'rov provayderi maxfiylik kamchiliklarini fosh etdi",
+    "summary": "Sun'iy intellektga berilgan maxfiy ma'lumotlarni o'z ichiga olgan so'rovlar provayderlardagi maxfiylik kamchiliklarini fosh etmoqda. Bu holat foydalanuvchi ma'lumotlarining xavfsizligi borasidagi xavotirlarni kuchaytiradi.",
+    "tags": [
+      "maxfiylik",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 7,
+    "published": "2026-11-23T10:39:13.000Z",
+    "created": "2026-11-23T17:02:37.733Z",
+    "coverage": 1,
+    "source": {
+      "name": "Cybernews",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBIbDFEZmxZTzhmWGs4dlJjbEtEYXpkTDU0T2NHV2FpY3hMZi1RWTdOc08wUnBBcDNLdmIwVktkZ3lDY214TTZkbkNQWHNqd0Q4TWIyYzFQMUhRVl81NkV1RlA3LTVpUnA5",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "0095f9c5ba83",
+    "slug": "mashinalarga-qanday-huquqlar-berishimiz-kerak-0095f9",
+    "title": "Mashinalarga qanday huquqlar berishimiz kerak",
+    "summary": "Agar biz sun'iy intellekt agentlarini ongli deb hisoblay boshlasak, bu ular bilan va bir-birimiz bilan munosabatlarimizni o'zgartirishi mumkin. Bu savol AI rivojlanishi bilan dolzarb bo'lmoqda.",
+    "tags": [
+      "siyosat",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 2.8,
+    "published": "2026-11-21T12:30:00.000Z",
+    "created": "2026-11-23T17:02:37.733Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/11/21/ai-consciousness-debate-why-google-deepmind-and-anthropic-are-turning-to-philosophers",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "8d146afdef88",
     "slug": "trampning-ai-chiplariga-cheklovi-osiyoga-tasir-etdi-8d146a",
     "title": "Trampning AI chiplariga cheklovi Osiyoga ta'sir etdi",
