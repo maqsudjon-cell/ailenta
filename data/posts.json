@@ -1,9 +1,9 @@
 [
   {
     "id": "61aee1bb7676",
-    "slug": "aqsh-senatori-nvidia-sobiq-rahbari-mojarosini-tanqid-qildi-61aee1",
-    "title": "AQSh senatori Nvidia sobiq rahbari mojarosini tanqid qildi",
-    "summary": "AQSh senatori Jon Kennedi Nvidia sobiq rahbari Jenshen Xuang va Xitoy ayg'oqchisi o'rtasidagi munosabatlarni tanqid qildi. U Xitoy eng yaxshi AI chiplari bo'yicha eksport cheklovlarini qanday chetlab o'tganini surishtirmoqda.",
+    "slug": "aqsh-senatori-nvidia-rahbarining-janjalini-tanqid-qildi-61aee1",
+    "title": "AQSh senatori Nvidia rahbarining janjalini tanqid qildi",
+    "summary": "AQSh senatori Jon Kennedi Nvidia sobiq rahbari Jensen Huang atrofidagi janjalni tanqid qildi. U Xitoy Nvidia kompaniyasining ilg'or AI chiplari eksport nazoratini qanday aylanib o'tgani haqida savol ko'tardi.",
     "tags": [
       "Nvidia",
       "chiplar"
@@ -11,11 +11,33 @@
     "importance": 3,
     "score": 29,
     "published": "2026-11-22T20:23:36.000Z",
-    "created": "2026-11-23T02:01:06.074Z",
+    "created": "2026-11-23T02:15:17.484Z",
     "coverage": 1,
     "source": {
       "name": "The Guardian",
       "url": "https://theguardian.com/us-news/2026/nov/22/jensen-huang-nvidia-john-kennedy",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "4771ec0142aa",
+    "slug": "intuit-mailchimp-servisini-3-68-milliard-dollarga-sotmoqda-4771ec",
+    "title": "Intuit Mailchimp servisini 3,68 milliard dollarga sotmoqda",
+    "summary": "Intuit kompaniyasi AI ta'sirida o'sish strategiyasi o'zgargani sababli Mailchimp servisini 3,68 milliard dollarga sotmoqda. Moliya direktori Sandeep Aujla kompaniya mijozlarni jalb qilish tizimini qayta ko'rib chiqayotganini aytdi.",
+    "tags": [
+      "biznes",
+      "iqtisod"
+    ],
+    "importance": 3,
+    "score": -1.3,
+    "published": "2026-11-20T11:32:00.000Z",
+    "created": "2026-11-23T02:15:17.485Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/11/20/intuit-sell-mailchimp-3-68-billion-ai-reshapes-growth-strategy-cfo",
       "indirect": false
     },
     "also": [],
