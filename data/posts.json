@@ -1,5 +1,48 @@
 [
   {
+    "id": "a0076c449a77",
+    "slug": "qirg-iziston-aidan-iqtisodiy-foyda-olishda-eng-past-salohiya-a0076c",
+    "title": "Qirg‘iziston AI'dan iqtisodiy foyda olishda eng past salohiyatga ega",
+    "summary": "YTTB hisobotiga ko‘ra, Qirg‘iziston AI joriy etilishidan mehnat unumdorligi o‘sishi bo‘yicha eng kam iqtisodiy samara kutayotgan beshta davlatdan biri. AI texnologiyalari kelgusi 10 yilda mamlakatda yillik mehnat unumdorligini 0,1 foiz punktga oshirishi kutilmoqda.",
+    "tags": [
+      "iqtisod"
+    ],
+    "importance": 3,
+    "score": 48,
+    "published": "2026-11-23T03:48:46.000Z",
+    "created": "2026-11-23T03:55:14.109Z",
+    "coverage": 1,
+    "source": {
+      "name": "Pivot",
+      "url": "https://pivot.uz/uz/qirgiziston-suniy-intellektdan-iqtisodiy-foyda-olish-salohiyati-eng-past-davlatlar-beshligiga-kirdi",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "c2a60bdb361d",
+    "slug": "ai-savdosi-pasayishi-osiyo-chip-aksiyalarini-tushirdi-c2a60b",
+    "title": "AI savdosi pasayishi Osiyo chip aksiyalarini tushirdi",
+    "summary": "BigGo Finance xabariga ko'ra, AI bilan bog'liq aksiyalar savdosining pasayishi Osiyo chip kompaniyalarining aksiyalarini tushirdi. Seul fond birjasi 4,4% ga pasaydi.",
+    "tags": [
+      "chiplar",
+      "iqtisod"
+    ],
+    "importance": 4,
+    "score": 7,
+    "published": "2026-11-23T03:25:00.000Z",
+    "created": "2026-11-23T03:55:14.109Z",
+    "coverage": 1,
+    "source": {
+      "name": "BigGo Finance",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1vZGhhaDFONDlRSmp0ZEFZLTJ0Nk9pSnpRWFJzTkxFbmw3dWZ1ZDRWQkttNkJqQXdfRUpQRUlLaXJpbFFvTlFEbG5PTGVpdGN5eU1BS1ZBZjlKb0NkZTNsR00tOVprVDVraHo0MXZJdllTMWhsTFE",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "ddce66357073",
     "slug": "ai-batareya-qoshimchasini-aniqladi-zavodlarda-ddce66",
     "title": "AI batareya qo'shimchasini aniqladi, zavodlarda",
