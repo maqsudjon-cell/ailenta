@@ -1,5 +1,92 @@
 [
   {
+    "id": "48cc59639f18",
+    "slug": "ai-muammolarni-yechsa-ham-matematikani-tark-etmayman-48cc59",
+    "title": "AI muammolarni yechsa ham matematikani tark etmayman",
+    "summary": "Ken Ono Claude modeli Riemann gipotezasini isbotlagani va AI rivojlanayotganiga qaramay, matematikani tark etmasligini bildirdi. U inson hukmi va fikrlashi baribir muhim bo'lib qolishini ta'kidladi.",
+    "tags": [
+      "Anthropic",
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 28,
+    "published": "2026-11-22T11:00:26.000Z",
+    "created": "2026-11-23T09:02:01.114Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/commentisfree/2026/nov/22/why-i-wont-leave-mathematics-despite-ai-solving-centuries-old-problems",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "ed041c5729fd",
+    "slug": "morgan-freeman-hollywoodda-ai-uchun-qoidalar-talab-qildi-ed041c",
+    "title": "Morgan Freeman Hollywoodda AI uchun qoidalar talab qildi",
+    "summary": "Aktyor Morgan Freeman va uning hamkori Lori McCreary AI Hollywoodni egallashidan oldin rozilik va haq to'lash bo'yicha qoidalar o'rnatishga chaqirmoqda. Ular uch o'n yillikdan beri kino texnologiyalari bilan ishlamoqda.",
+    "tags": [
+      "qonun",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-11-23T08:04:00.000Z",
+    "created": "2026-11-23T09:02:01.115Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/11/23/morgan-freeman-lori-mccreary-revelations-entertainment-ai-voice-hollywood",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "01c736ce54eb",
+    "slug": "aidfinder-jabrlanganlarga-yordam-beruvchi-ai-yaratdi-01c736",
+    "title": "AidFinder jabrlanganlarga yordam beruvchi AI yaratdi",
+    "summary": "Miami shahridagi AidFinder startapi Palisades yong'inidan omon qolganlarga yordam dasturlarini topish va hujjatlarni tayyorlashda ko'maklashuvchi sun'iy intellekt yaratdi. Endi startap davlat organlariga ushbu tizimni sotib olishni taklif qilmoqda.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 19,
+    "published": "2026-11-23T08:03:00.000Z",
+    "created": "2026-11-23T09:02:01.115Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/11/23/aidfinder-ai-disaster-recovery-palisades-fire-nostrant",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "1d6cc0c9d8e1",
+    "slug": "linkedin-rahbari-ish-bozori-muzlab-qolganini-aytdi-1d6cc0",
+    "title": "LinkedIn rahbari ish bozori muzlab qolganini aytdi",
+    "summary": "LinkedIn rahbari Daniel Shapero ish bozori harakatsiz bo'lib qolganini aytdi. Uning ta'kidlashicha, ish beruvchilar Z avlodi vakillarini sun'iy intellektni yaxshi tushunadi deb o'ylagani uchun ularga ustunlik berishi mumkin.",
+    "tags": [
+      "mehnat bozori",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-11-23T08:02:00.000Z",
+    "created": "2026-11-23T09:02:01.115Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/11/23/linkedin-ceo-warns-job-market-is-frozen-gen-z-could-have-the-upper-hand-thanks-to-ai",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "b489199e0081",
     "slug": "tokio-ai-savdosi-pasayishiga-chidamli-ekani-aytildi-b48919",
     "title": "Tokio AI savdosi pasayishiga chidamli ekani aytildi",
