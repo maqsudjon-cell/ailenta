@@ -1,5 +1,47 @@
 [
   {
+    "id": "5a756121695f",
+    "slug": "san-fransiskoda-robotlashtirilgan-xizmatlar-sinovdan-otdi-5a7561",
+    "title": "San-Fransiskoda robotlashtirilgan xizmatlar sinovdan o'tdi",
+    "summary": "Business Insider jurnalisti Lloyd Lee San-Fransiskodagi Waymo robotaksilari va robot xizmatchilarni sinab ko'rdi. Biroq robot tozalagichlar uning uyini tartibsiz holatda qoldirdi.",
+    "tags": [
+      "robototexnika"
+    ],
+    "importance": 2,
+    "score": 18,
+    "published": "2026-11-23T09:11:01.000Z",
+    "created": "2026-11-23T09:37:13.968Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/san-francisco-robot-services-humanoids-waymo-2026-11",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "8a2da5c76c2f",
+    "slug": "spotta-mehmonxonalarda-taxtaparakni-aniqlashda-ai-qollamoqda-8a2da5",
+    "title": "Spotta mehmonxonalarda taxtaparakni aniqlashda AI qo'llamoqda",
+    "summary": "Buyuk Britaniyaning Spotta startapi mehmonxonalar uchun mo'ljallangan qopqonlarda sun'iy intellektdan foydalanmoqda. Bed Pod tizimi mehmonga taxtaparaklar va boshqa hasharotlar haqida barvaqt xabar berish imkonini beradi.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 11,
+    "published": "2026-11-23T09:05:54.000Z",
+    "created": "2026-11-23T09:37:13.968Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1111100",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "48cc59639f18",
     "slug": "ai-muammolarni-yechsa-ham-matematikani-tark-etmayman-48cc59",
     "title": "AI muammolarni yechsa ham matematikani tark etmayman",
