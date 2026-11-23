@@ -1,5 +1,158 @@
 [
   {
+    "id": "a2d90aa05a65",
+    "slug": "javohir-sindarov-shaxmat-chempionatida-ai-darsini-beradi-a2d90a",
+    "title": "Javohir Sindarov shaxmat chempionatida AI darsini beradi",
+    "summary": "O'zbekistonlik Javohir Sindarov va hindistonlik Gukesh Dommaraju o'rtasida shaxmat bo'yicha jahon chempionati bo'lib o'tadi. Bu voqea AI shaxmatni zabt etgan bo'lsa-da, inson qobiliyatlarining ahamiyatini ko'rsatadi.",
+    "tags": [
+      "O'zbekiston",
+      "tadqiqot"
+    ],
+    "importance": 4,
+    "score": 23,
+    "published": "2026-11-23T13:00:31.000Z",
+    "created": "2026-11-23T15:02:02.699Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/sport/ng-interactive/2026/nov/23/chess-world-championship-ai",
+      "title": "AI conquered chess. What happened next should give us hope",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "ecef48d59930",
+    "slug": "avstraliya-lugati-pervert-kozoynakni-yil-sozi-deb-topdi-ecef48",
+    "title": "Avstraliya lug'ati 'pervert ko'zoynak'ni yil so'zi deb topdi",
+    "summary": "Avstraliyaning Macquarie lug'ati 'pervert ko'zoynak'ni yil so'zi deb e'lon qildi. Meta Ray-Bans kabi kamerali aqlli ko'zoynaklar ba'zi joylarda maxfiylik sababli taqiqlangan.",
+    "tags": [
+      "Meta",
+      "maxfiylik"
+    ],
+    "importance": 3,
+    "score": 23,
+    "published": "2026-11-23T13:55:40.000Z",
+    "created": "2026-11-23T15:02:14.200Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/science/2026/nov/23/pervert-glasses-meta-word-of-the-year-macquarie-dictionary-nudify-aidr",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "7f245206e65f",
+    "slug": "wired-ai-xavfsizligi-boyicha-jonli-efir-otkazadi-7f2452",
+    "title": "Wired AI xavfsizligi bo'yicha jonli efir o'tkazadi",
+    "summary": "Mutaxassislar AI haqiqiy xavf tug'dirishiga rozi. Wired 2-dekabr kuni AI xavfsizligi bo'yicha savollarga javob berish uchun jonli efir tashkil etadi.",
+    "tags": [
+      "xavfsizlik"
+    ],
+    "importance": 2,
+    "score": 23,
+    "published": "2026-11-23T12:00:00.000Z",
+    "created": "2026-11-23T15:02:14.200Z",
+    "coverage": 1,
+    "source": {
+      "name": "Wired",
+      "url": "https://wired.com/story/livestream-will-anyone-keep-us-safe-from-ai",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "18ce96d31ac8",
+    "slug": "limfadenopatiyani-aniqlovchi-multimodal-ai-modeli-18ce96",
+    "title": "Limfadenopatiyani aniqlovchi multimodal AI modeli",
+    "summary": "Nature jurnalida tushunarsiz limfadenopatiyani tashxislash uchun multimodal ultratovushli asosiy model haqida maqola chop etildi. Bu tadqiqot tibbiyot sohasida AI imkoniyatlarini kengaytiradi.",
+    "tags": [
+      "tibbiyot",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 21.8,
+    "published": "2026-11-23T00:00:00.000Z",
+    "created": "2026-11-23T15:02:14.200Z",
+    "coverage": 1,
+    "source": {
+      "name": "Nature",
+      "url": "https://nature.com/articles/s41467-026-79690-4",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "4886ca7677fc",
+    "slug": "unix-ruxsatlaridan-ilhomlangan-ai-foydalanish-modeli-4886ca",
+    "title": "Unix ruxsatlaridan ilhomlangan AI foydalanish modeli",
+    "summary": "Unix ruxsatlaridan ilhomlangan '0rwx' nomli AI foydalanish modeli yaratildi. Bu model AI dan foydalanishni soddalashtirishga qaratilgan.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 1,
+    "score": 19.3,
+    "published": "2026-11-22T23:53:00.000Z",
+    "created": "2026-11-23T15:02:14.200Z",
+    "coverage": 1,
+    "source": {
+      "name": "Hacker News",
+      "url": "https://0rwx.com",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "610255704ee8",
+    "slug": "katta-ai-endi-fikrlash-usulingizni-ogirlamoqda-610255",
+    "title": "Katta AI endi fikrlash usulingizni o'g'irlamoqda",
+    "summary": "Fortune nashri katta AI endi shaxsiy ma'lumotlarga emas, balki insonlarning fikrlash usuliga e'tibor qaratayotganini yozdi. Bu holat avvalgi xatolarga o'xshash xavotirlarni keltirib chiqarmoqda.",
+    "tags": [
+      "maxfiylik",
+      "siyosat"
+    ],
+    "importance": 2,
+    "score": 19,
+    "published": "2026-11-23T13:00:00.000Z",
+    "created": "2026-11-23T15:02:14.200Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/11/23/big-ai-data-know-how-enterprise-prompts-openai-anthropic-tom-chavez",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "b4f8fe3fb79f",
+    "slug": "plural-sten-tamkivi-yevropa-ai-tolqini-haqida-b4f8fe",
+    "title": "Plural Sten Tamkivi Yevropa AI to'lqini haqida",
+    "summary": "Plural kompaniyasidan Sten Tamkivi 1 milliard yevrolik fondi va mudofaa texnologiyalari haqida gapirdi. U Yevropa AI to'lqinini o'tkazib yubormaganini ta'kidladi.",
+    "tags": [
+      "biznes",
+      "siyosat"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-11-23T10:49:28.000Z",
+    "created": "2026-11-23T15:02:14.200Z",
+    "coverage": 1,
+    "source": {
+      "name": "Sifted",
+      "url": "https://sifted.eu/articles/plural-fund-ai-podcast",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "5dabfec96c42",
     "slug": "ai-bozoridagi-pasayish-toxtadi-ammo-xavotirlar-davom-etmoqda-5dabfe",
     "title": "AI bozoridagi pasayish to'xtadi, ammo xavotirlar davom etmoqda",
