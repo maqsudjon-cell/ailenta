@@ -1,5 +1,49 @@
 [
   {
+    "id": "a05c3134ff48",
+    "slug": "amodei-ai-ishlarni-olgach-oyinlar-tinchlantiradi-degan-a05c31",
+    "title": "Amodei AI ishlarni olgach, o'yinlar tinchlantiradi degan",
+    "summary": "Xabarlarga ko'ra, Anthropic bosh direktori Dario Amodei 2015-yilda sun'iy intellekt odamlarning ishini tortib olgach, o'yinlar ommani tinchlantirishi mumkinligini aytgan. Bu uning kelajak haqidagi qarashlaridan biri.",
+    "tags": [
+      "Anthropic",
+      "siyosat"
+    ],
+    "importance": 2,
+    "score": 17.9,
+    "published": "2026-11-23T12:41:14.000Z",
+    "created": "2026-11-23T21:36:41.338Z",
+    "coverage": 1,
+    "source": {
+      "name": "Hacker News",
+      "url": "https://theverge.com/ai-artificial-intelligence/1039745/dario-amodei-video-games-ai-joblessness",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "2dac6f709f49",
+    "slug": "ai-malumot-markazlari-bmt-iqlim-muzokaralariga-tasir-etdi-2dac6f",
+    "title": "AI ma'lumot markazlari BMT iqlim muzokaralariga ta'sir etdi",
+    "summary": "Birlashgan Millatlar Tashkilotining COP31 iqlim konferensiyasida AI ma'lumot markazlarining yuqori energiya iste'moli muhokama qilindi. Bu holat toza energiya inqilobi va global iqtisodiyotni elektrlashtirishga qo'shimcha qiyinchilik tug'dirmoqda.",
+    "tags": [
+      "siyosat",
+      "iqtisod"
+    ],
+    "importance": 4,
+    "score": 15,
+    "published": "2026-11-23T21:09:37.000Z",
+    "created": "2026-11-23T21:36:41.338Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Verge",
+      "url": "https://theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "932119e2ecf9",
     "slug": "nothing-ai-transkripsiya-funksiyali-ear-note-quloqchinini-ch-932119",
     "title": "Nothing AI transkripsiya funksiyali Ear Note quloqchinini chiqardi",
