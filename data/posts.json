@@ -1,5 +1,69 @@
 [
   {
+    "id": "b43e2a7ea93b",
+    "slug": "fotograf-renkin-ai-texnologiyalarini-tanqid-qildi-b43e2a",
+    "title": "Fotograf Renkin AI texnologiyalarini tanqid qildi",
+    "summary": "Mashhur fotograf Renkin sun'iy intellektni jirkanch deb atadi va uni yaratganlarni tanqid qildi. U mashhurlar fotosuratlari to'plangan yangi kitobini taqdim etdi.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 23,
+    "published": "2026-11-23T08:00:50.000Z",
+    "created": "2026-11-23T10:02:17.704Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/artanddesign/2026/nov/23/rankin-photographer-interview-contact-david-bowie-oasis",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "d5d555eefb0e",
+    "slug": "ai-agentlari-tushunish-qarzi-muammosini-keltirmoqda-d5d555",
+    "title": "AI agentlari tushunish qarzi muammosini keltirmoqda",
+    "summary": "Kompaniyalar sun'iy intellekt agentlariga tekshirish imkoniyatidan ko'ra ko'proq tayanmoqda. Claude Fermat teoremasi isbotini rasmiylashtirgani va OpenAI ko'plab qo'lyozmalarni chop etgani ta'kidlandi.",
+    "tags": [
+      "agentlar",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 14,
+    "published": "2026-11-23T08:47:17.000Z",
+    "created": "2026-11-23T10:02:17.705Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/companies/alfa/articles/1108834",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "557ec745e42b",
+    "slug": "colgate-mahsulot-talabini-taxmin-qilishda-ai-ni-sinamoqda-557ec7",
+    "title": "Colgate mahsulot talabini taxmin qilishda AI ni sinamoqda",
+    "summary": "Colgate kompaniyasi mahsulotlarga bo'lgan talabni oldindan aytib berish uchun sun'iy intellektdan foydalanuvchi xaridorlar tizimini sinovdan o'tkazmoqda. Bu haqda Wisevoter nashri xabar berdi.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 7,
+    "published": "2026-11-23T06:34:17.000Z",
+    "created": "2026-11-23T10:02:17.705Z",
+    "coverage": 1,
+    "source": {
+      "name": "Wisevoter",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZUxVS25rYVBxRGhkRlhabENKR096cUhrb29GcW45S1IyU1FZX2oyUGs3bTVrdGJEbnpGVWNwMUpFeTN0aThEeDR0c1JtN2ZSSGpuTGdQa1JURHBQeVpVSWlMTlFYdnFCRkVHYUhjd0pLTHoyQ2NOU2drUjBQcnNkVlBsOGlZX1RwdkZ0Mw",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "5a756121695f",
     "slug": "san-fransiskoda-robotlashtirilgan-xizmatlar-sinovdan-otdi-5a7561",
     "title": "San-Fransiskoda robotlashtirilgan xizmatlar sinovdan o'tdi",
