@@ -1,5 +1,71 @@
 [
   {
+    "id": "932119e2ecf9",
+    "slug": "nothing-ai-transkripsiya-funksiyali-ear-note-quloqchinini-ch-932119",
+    "title": "Nothing AI transkripsiya funksiyali Ear Note quloqchinini chiqardi",
+    "summary": "Nothing kompaniyasi Ear Note nomli yangi AI qurilmasini taqdim etdi. Bu quloqchinlar suhbatlarni yozib olish va transkripsiya qilish imkoniyatiga ega.",
+    "tags": [
+      "maxfiylik",
+      "Apple"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-11-23T19:04:52.000Z",
+    "created": "2026-11-23T20:02:20.374Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Verge",
+      "url": "https://theverge.com/gadgets/1040357/nothing-ear-note-earbuds-ai-recording",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "f85d62b9ee81",
+    "slug": "koproq-agentlar-har-doim-ham-yaxshi-degani-emas-f85d62",
+    "title": "Ko'proq agentlar har doim ham yaxshi degani emas",
+    "summary": "Ushbu maqolada ko'proq AI agentlari har doim ham samaraliroq bo'lmasligi muhokama qilinadi. Misol sifatida 32 ta GPT-6.2 Astra agenti keltirilgan.",
+    "tags": [
+      "tadqiqot",
+      "agentlar"
+    ],
+    "importance": 2,
+    "score": 11,
+    "published": "2026-11-23T14:41:09.000Z",
+    "created": "2026-11-23T20:02:20.374Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/companies/spring_aio/articles/1111390",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "7c377e772fb7",
+    "slug": "ai-davrida-kiberxavfsizlik-boyicha-4-qadam-7c377e",
+    "title": "AI davrida kiberxavfsizlik bo'yicha 4 qadam",
+    "summary": "Microsoft kompaniyasi AI davrida har bir tashkilot amalga oshirishi kerak bo'lgan 4 ta kiberxavfsizlik qadamini tavsiya qildi. Bu choralar xavfsizlikni oshirishga qaratilgan.",
+    "tags": [
+      "Microsoft",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 10.6,
+    "published": "2026-11-20T23:57:00.000Z",
+    "created": "2026-11-23T20:02:20.374Z",
+    "coverage": 1,
+    "source": {
+      "name": "Microsoft",
+      "url": "https://blogs.microsoft.com/on-the-issues/2026/11/19/security-fundamentals-to-enable-the-frontier",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "a7e101bbbee1",
     "slug": "xiaomi-ilk-bor-elektromobillarini-xitoydan-tashqarida-sotish-a7e101",
     "title": "Xiaomi ilk bor elektromobillarini Xitoydan tashqarida sotishni boshladi",
