@@ -1,5 +1,68 @@
 [
   {
+    "id": "ce25a41e6241",
+    "slug": "ajrimlar-sohasida-yangi-ai-biznes-goyalari-paydo-bolmoqda-ce25a4",
+    "title": "Ajrimlar sohasida yangi AI biznes g'oyalari paydo bo'lmoqda",
+    "summary": "Ajrashgan shaxslar sun'iy intellektga asoslangan yangi biznes g'oyalarini ilgari surmoqda. Bu haqda Business Insider nashri xabar berdi.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-11-23T10:00:01.000Z",
+    "created": "2026-11-23T12:02:49.850Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/using-ai-in-a-divorce-coparenting-texts-emails-you-regret-2026-11",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "67c594e9b4f2",
+    "slug": "oyin-yaratish-va-roliklar-tayyorlashda-ai-qollandi-67c594",
+    "title": "O'yin yaratish va roliklar tayyorlashda AI qo'llandi",
+    "summary": "Muallif MMORPG o'yinini yaratish bo'yicha o'quv roliklarini tayyorlash vaqtini 12 soatdan 1 soatga qisqartirdi. Platformada AI sahnalarni joylashtirish, tasvirga olish va ovoz berishni amalga oshiradi.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 11,
+    "published": "2026-11-23T11:26:18.000Z",
+    "created": "2026-11-23T12:02:49.850Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1111140",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "f679c3cf88f9",
+    "slug": "2035-yilgacha-ai-rivojlanish-tendensiyalari-tahlil-qilingan-f679c3",
+    "title": "2035 yilgacha AI rivojlanish tendensiyalari tahlil qilingan",
+    "summary": "Muallif METR, Epoch AI va XAEA tomonidan e'lon qilingan ko'rsatkichlarni 2035 yilgacha davom ettirib tahlil qildi. U grafiklar qachon fizik cheklovlarga to'qnash kelishini o'rgangan.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 11,
+    "published": "2026-11-23T11:18:40.000Z",
+    "created": "2026-11-23T12:02:49.850Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1111232",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "b43e2a7ea93b",
     "slug": "fotograf-renkin-ai-texnologiyalarini-tanqid-qildi-b43e2a",
     "title": "Fotograf Renkin AI texnologiyalarini tanqid qildi",
