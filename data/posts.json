@@ -1,5 +1,93 @@
 [
   {
+    "id": "a7e101bbbee1",
+    "slug": "xiaomi-ilk-bor-elektromobillarini-xitoydan-tashqarida-sotish-a7e101",
+    "title": "Xiaomi ilk bor elektromobillarini Xitoydan tashqarida sotishni boshladi",
+    "summary": "Kompaniya BAA bozoriga chiqdi va xaridorlarga bir nechta model taklif etmoqda. Dastlabki avtomobillar dekabr oyida yetkazib beriladi.",
+    "tags": [
+      "Xiaomi",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 48,
+    "published": "2026-11-23T18:45:28.000Z",
+    "created": "2026-11-23T19:02:51.750Z",
+    "coverage": 1,
+    "source": {
+      "name": "Daryo",
+      "url": "https://daryo.uz/2026/11/23/xiaomi-ilk-bor-elektromobillarini-xitoydan-tashqarida-sotishni-boshladi",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "f1a693980bc2",
+    "slug": "tramp-nvidia-xuangni-qayta-ishga-olishga-ko-ndirganini-aytdi-f1a693",
+    "title": "Tramp Nvidia Xuangni qayta ishga olishga ko‘ndirganini aytdi",
+    "summary": "Donald Tramp Nvidia direktorlar kengashini Jensen Xuangni qayta ishga olishga ko‘ndirganini ma’lum qildi. U bu bilan korporativ Amerikaga kim boshqaruvda ekanini eslatmoqchi.",
+    "tags": [
+      "siyosat",
+      "Nvidia"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-11-23T17:56:25.000Z",
+    "created": "2026-11-23T19:02:51.750Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/trump-nvidia-jensen-huang-back-ceo-call-2026-11",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "d9c0007da80e",
+    "slug": "ayrim-ijtimoiy-tarmoqlar-ai-spamini-bloklash-imkonini-beradi-d9c000",
+    "title": "Ayrim ijtimoiy tarmoqlar AI spamini bloklash imkonini beradi",
+    "summary": "Ba’zi ijtimoiy media platformalari AI tomonidan yaratilgan kontentni filtrlash vositalarini taklif etadi. Boshqa saytlarda esa buning uchun qo‘shimcha harakat talab qilinadi.",
+    "tags": [
+      "maxfiylik",
+      "xavfsizlik"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-11-23T17:45:00.000Z",
+    "created": "2026-11-23T19:02:51.750Z",
+    "coverage": 1,
+    "source": {
+      "name": "Engadget",
+      "url": "https://engadget.com/2320284/how-block-ai-slop-spam-social-media-platforms",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "b9ff31b935c7",
+    "slug": "ai-bozoridagi-pufak-pasayishni-boshladi-b9ff31",
+    "title": "AI bozoridagi «pufak» pasayishni boshladi",
+    "summary": "The Atlantic nashri xabariga ko‘ra, sun’iy intellekt bozoridagi «pufak» pasayishni boshladi. Bu AI sohasidagi haddan tashqari optimizmning kamayishini anglatadi.",
+    "tags": [
+      "iqtisod",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 7,
+    "published": "2026-11-23T12:30:00.000Z",
+    "created": "2026-11-23T19:02:51.750Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Atlantic",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVEo1Rll5MUo0c01renIwSUlOTDBxV2ZhRmM1ZU5QTHd2bFJvMEpQWWoyeEg3VmtIbHlGVjhidVZlM1hEdV9nRkpHQ2haRVp5QTBDRTBmR0lKVDRYYlJjWmlDaWltMjBxdi1UcnBreDRfbXAwMWhpMHZ1a0JuVUt3Ymhn",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "c4aa81e8683c",
     "slug": "xitoy-ai-aqshga-yadroviy-ustunlik-berishidan-xavotirda-c4aa81",
     "title": "Xitoy AI AQShga yadroviy ustunlik berishidan xavotirda",
