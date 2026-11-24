@@ -1,5 +1,27 @@
 [
   {
+    "id": "58c64dd3bfb5",
+    "slug": "tangimap-tizimi-jismoniy-boshqaruv-vositalarini-sozlaydi-58c64d",
+    "title": "TangiMap tizimi jismoniy boshqaruv vositalarini sozlaydi",
+    "summary": "MIT tadqiqotchilari TangiMap nomli AI agent tizimini yaratdilar. Ushbu tizim tugmalar va surgichlar kabi jismoniy boshqaruv vositalarini qayta dasturlaydi. Bu foydalanuvchilarga suratlar tahrirlash va musiqani jonli ijro etishda qulaylik yaratadi.",
+    "tags": [
+      "tadqiqot",
+      "agentlar"
+    ],
+    "importance": 3,
+    "score": 25,
+    "published": "2026-11-24T19:30:00.000Z",
+    "created": "2026-11-24T21:36:12.146Z",
+    "coverage": 1,
+    "source": {
+      "name": "MIT News",
+      "url": "https://news.mit.edu/2026/tangimap-agentic-system-personalizes-physical-controls-help-users-dj-their-art-1124",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "86b5e76f4d87",
     "slug": "o-zbekiston-2027-yilda-yangi-hisoblash-klasterini-ochadi-86b5e7",
     "title": "O‘zbekiston 2027-yilda yangi hisoblash klasterini ochadi",
