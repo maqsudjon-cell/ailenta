@@ -1,5 +1,48 @@
 [
   {
+    "id": "8d8ce2d8f0e9",
+    "slug": "ochishlar-va-ai-mutaxassislar-xavflarni-muhokama-qildi-8d8ce2",
+    "title": "O'chishlar va AI: mutaxassislar xavflarni muhokama qildi",
+    "summary": "AQShda texnologiya, aviatsiya va bank tizimlaridagi uzilishlardan so'ng kiberxavfsizlik ekspertlari yuzaga kelayotgan xavflarni muhokama qildi. Ular sun'iy intellekt va moliyalashtirish yetishmovchiligi tizimlar inqiroziga olib kelishi mumkinligini ta'kidladi.",
+    "tags": [
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 23,
+    "published": "2026-11-23T16:58:17.000Z",
+    "created": "2026-11-24T02:28:01.031Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/technology/2026/nov/23/tech-outages-security-experts",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "c642a9ca0e22",
+    "slug": "michigan-universiteti-malumot-markazini-tasdiqladi-c642a9",
+    "title": "Michigan universiteti ma'lumot markazini tasdiqladi",
+    "summary": "Michigan universiteti vasiylari bahsli ma'lumotlar markazi loyihasini 7 ga 1 ovoz bilan ma'qulladi. Mahalliy ma'muriyat ushbu qarorga qarshi kurashishni davom ettirishini bildirdi.",
+    "tags": [
+      "bulut",
+      "siyosat"
+    ],
+    "importance": 2,
+    "score": 19,
+    "published": "2026-11-23T19:56:37.000Z",
+    "created": "2026-11-24T02:28:01.031Z",
+    "coverage": 1,
+    "source": {
+      "name": "404 Media",
+      "url": "https://404media.co/ypsilanti-michigan-data-center-vote",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "a210b656f294",
     "slug": "xpeng-x-world-1-6-modelini-taqdim-etdi-a210b6",
     "title": "XPeng X-World 1.6 modelini taqdim etdi",
