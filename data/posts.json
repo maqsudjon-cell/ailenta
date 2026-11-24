@@ -1,5 +1,92 @@
 [
   {
+    "id": "bf4d79992d6e",
+    "slug": "yoshlar-ai-tufayli-ota-onalaridan-norozi-bf4d79",
+    "title": "Yoshlar AI tufayli ota-onalaridan norozi",
+    "summary": "Yoshlar kelajaklari haqida xavotirda bo'lib, AI tarafdori bo'lgan ota-onalaridan tobora ko'proq norozi bo'lmoqda. Bu holat bayram yig'inlarida keskinlikni keltirib chiqarishi mumkin.",
+    "tags": [
+      "mehnat bozori"
+    ],
+    "importance": 2,
+    "score": 23,
+    "published": "2026-11-24T10:45:00.000Z",
+    "created": "2026-11-24T12:02:27.707Z",
+    "coverage": 1,
+    "source": {
+      "name": "Wired",
+      "url": "https://wired.com/story/dont-bring-up-ai-if-you-want-to-enjoy-your-thanksgiving",
+      "title": "Don’t Bring Up AI if You Want to Enjoy Your Thanksgiving",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "c37b5261be82",
+    "slug": "kate-bush-va-grace-jones-avstraliya-hukumatiga-murojaat-qild-c37b52",
+    "title": "Kate Bush va Grace Jones Avstraliya hukumatiga murojaat qildi",
+    "summary": "7,000 dan ortiq san'atkorlar, jumladan Kate Bush va Grace Jones, Avstraliya hukumatini mualliflik huquqini himoya qilishga chaqirdi. Ular AI kompaniyalarining lobbichiligiga qarshi qonunni zaiflashtirmaslikni so'radi.",
+    "tags": [
+      "qonun",
+      "siyosat"
+    ],
+    "importance": 3,
+    "score": 26,
+    "published": "2026-11-24T05:58:15.000Z",
+    "created": "2026-11-24T12:02:46.427Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/technology/2026/nov/24/kate-bush-grace-jones-australian-artists-copyright-law-ai",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "1a5058e6eb20",
+    "slug": "ai-keniyaliklarning-nutqini-tushunishda-qiynalmoqda-1a5058",
+    "title": "AI Keniyaliklarning nutqini tushunishda qiynalmoqda",
+    "summary": "Ovozli AI Keniyaliklarning nutqini tushunishda qiyinchiliklarga duch kelmoqda. Bu Swahili va ingliz tillarini aralashtirish, mahalliy jargon va aksentlar bilan bog'liq.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 19,
+    "published": "2026-11-24T12:00:03.000Z",
+    "created": "2026-11-24T12:02:46.427Z",
+    "coverage": 1,
+    "source": {
+      "name": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/swahili-speech-recognition",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "e6f5de8ea641",
+    "slug": "anthropic-kompaniyasi-ommaviy-bozorga-chiqdi-e6f5de",
+    "title": "Anthropic kompaniyasi ommaviy bozorga chiqdi",
+    "summary": "Anthropic kompaniyasi ommaviy bozorga chiqdi. Shuningdek, Jensen Huang Nvidia'ga qaytish istagini bildirgan.",
+    "tags": [
+      "Anthropic",
+      "biznes"
+    ],
+    "importance": 4,
+    "score": 8.9,
+    "published": "2026-11-21T19:12:00.000Z",
+    "created": "2026-11-24T12:02:46.427Z",
+    "coverage": 1,
+    "source": {
+      "name": "The New York Times",
+      "url": "https://nytimes.com/2026/11/20/podcasts/hardfork-gta6-nvidia-anthropic.html",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "63f90f482b3d",
     "slug": "infernode-inferno-otga-64-bitli-yangilanish-berdi-63f90f",
     "title": "InferNode Inferno OTga 64 bitli yangilanish berdi",
