@@ -1,5 +1,93 @@
 [
   {
+    "id": "c2a4f7c190b0",
+    "slug": "aqsh-alibaba-kompaniyasini-qora-royxatga-kiritdi-c2a4f7",
+    "title": "AQSh Alibaba kompaniyasini qora ro'yxatga kiritdi",
+    "summary": "AQSh Alibaba'ga tegishli bir kompaniyani qora ro'yxatga kiritdi. Bu qaror kompaniyaning sun'iy intellekt sohasidagi intilishlariga salbiy ta'sir ko'rsatadi.",
+    "tags": [
+      "biznes",
+      "siyosat"
+    ],
+    "importance": 3,
+    "score": 27,
+    "published": "2026-11-24T08:06:01.000Z",
+    "created": "2026-11-24T09:07:42.546Z",
+    "coverage": 1,
+    "source": {
+      "name": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNc2hMdW1ld1ZLcS1NQk9hNjN3Q3BrMFc2WUZvelRPS2dTMmNUYXVqbFkwOUJoei1URzV5WTNvalhfRUdxQldmcVdsV2F5VzUzdzhZR08wMFVlREVsZV9rcFNTel9SYkNMWk1EbW82ZGlyQjlCbjVOVExWeVJZOXpfckRGMEJTdUE3QkJvWTA0dERBOUVmakRfbzFfNG5tYlJqUnMteUJaWlE5NjA2cFVjejZYcw",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "b64972249074",
+    "slug": "vue-llm-yordamida-ai-chatni-mavjud-tizimga-integratsiya-qili-b64972",
+    "title": "Vue-llm yordamida AI chatni mavjud tizimga integratsiya qilish",
+    "summary": "BIGPLAY frontend dasturchisi mavjud backendga tegmasdan, ichki admin paneliga analitik AI chatni integratsiya qildi. U `vue-llm` ochiq kodli kutubxonasidan foydalanib, SQL so'rovlari orqali ma'lumotlarni olish va grafiklar yaratish imkonini berdi.",
+    "tags": [
+      "tadqiqot",
+      "ochiq model"
+    ],
+    "importance": 2,
+    "score": 14,
+    "published": "2026-11-24T08:01:07.000Z",
+    "created": "2026-11-24T09:07:42.546Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1111342",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "bdd1aebfc7a8",
+    "slug": "sarvam-ai-yangi-sarvam-105b-1711-modelini-chiqardi-bdd1ae",
+    "title": "Sarvam AI yangi SARVAM-105B-1711 modelini chiqardi",
+    "summary": "Hindistonning Sarvam AI kompaniyasi SARVAM-105B-1711 modelining yangi versiyasini e'lon qildi. U tokenlarni qayta ishlash narxini 0,45 dollardan 0,15 dollarga tushirdi va sinov to'plami ballarini 42,6 dan 73,9 gacha oshirdi.",
+    "tags": [
+      "tadqiqot",
+      "agentlar"
+    ],
+    "importance": 3,
+    "score": 11,
+    "published": "2026-11-24T09:00:15.000Z",
+    "created": "2026-11-24T09:07:42.547Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/companies/selectel/articles/1111400",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "832698fc73bf",
+    "slug": "yandex-yandex-pin-nomli-taqiluvchi-ai-qurilmasini-taqdim-etd-832698",
+    "title": "Yandex \"Yandex Pin\" nomli taqiluvchi AI qurilmasini taqdim etdi",
+    "summary": "Yandex 2026-yil 24-noyabrda \"Yandex Pin\" nomli yangi taqiluvchi AI qurilmasini namoyish etdi. Ushbu gadjet suhbatlardagi muhim ma'lumotlarni eslab qolishga, uchrashuvlarni umumlashtirishga va vazifalarni aniqlashga yordam beradi.",
+    "tags": [
+      "biznes",
+      "agentlar"
+    ],
+    "importance": 3,
+    "score": 11,
+    "published": "2026-11-24T07:02:28.000Z",
+    "created": "2026-11-24T09:07:42.547Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1104920",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "06bcc2dc8c1b",
     "slug": "archspace-ai-tadqiqotidagi-omadsizliklarni-elon-qilmoqda-06bcc2",
     "title": "ArchSpace AI tadqiqotidagi omadsizliklarni e'lon qilmoqda",
