@@ -1,5 +1,70 @@
 [
   {
+    "id": "30e2b270bca0",
+    "slug": "ai-bilan-bog-liq-43-mingta-vakansiya-tahlil-qilindi-30e2b2",
+    "title": "AI bilan bog‘liq 43 mingta vakansiya tahlil qilindi",
+    "summary": "Habr nashri ish qidirish platformalaridagi AI bilan bog‘liq vakansiyalarni tahlil qildi. 13 oy davomida, 2025-yil oktabridan 2026-yil oktabrigacha bo‘lgan 43 mingga yaqin vakansiya o‘rganildi. Tahlilda neyron tarmoqlarga kimlar ehtiyoj sezayotgani va ularga qancha haq to‘lanayotgani ko‘rib chiqildi.",
+    "tags": [
+      "mehnat bozori",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 11,
+    "published": "2026-11-24T13:29:49.000Z",
+    "created": "2026-11-24T15:05:10.659Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1111836",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "0b045d6b1d8d",
+    "slug": "ai-slop-ga-qarshi-kurashda-tadqiqotchilarni-jazolamaslik-0b045d",
+    "title": "AI \"slop\"ga qarshi kurashda tadqiqotchilarni jazolamaslik",
+    "summary": "Nature nashri AI tomonidan yaratilgan sifatsiz kontentga qarshi kurashishda qonuniy tadqiqotchilarni jazolamaslikka chaqirdi. Bu AI sohasidagi muammolarni hal qilishda e'tiborga olish kerak bo'lgan muhim jihatdir.",
+    "tags": [
+      "tadqiqot",
+      "qonun"
+    ],
+    "importance": 2,
+    "score": 22.1,
+    "published": "2026-11-24T00:00:00.000Z",
+    "created": "2026-11-24T14:14:52.795Z",
+    "coverage": 1,
+    "source": {
+      "name": "Nature",
+      "url": "https://nature.com/articles/d41586-026-03824-3",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "dfdc988b12a7",
+    "slug": "ai-ongi-boyicha-ilm-noaniqlikni-tan-olishi-kerak-dfdc98",
+    "title": "AI ongi bo'yicha ilm noaniqlikni tan olishi kerak",
+    "summary": "Nature nashri AI ongi bo'yicha ilmiy tadqiqotlarda noaniqlikni tan olish zarurligini ta'kidladi. Bu mavzu bo'yicha ilmiy yondashuvda ehtiyotkorlik muhimdir.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 22.1,
+    "published": "2026-11-24T00:00:00.000Z",
+    "created": "2026-11-24T14:14:52.796Z",
+    "coverage": 1,
+    "source": {
+      "name": "Nature",
+      "url": "https://nature.com/articles/d41586-026-03822-5",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "f61756ed0e13",
     "slug": "google-siz-ishtirokingizda-shaxsiy-ai-telekanalini-yaratmoqd-f61756",
     "title": "Google siz ishtirokingizda shaxsiy AI telekanalini yaratmoqda",
