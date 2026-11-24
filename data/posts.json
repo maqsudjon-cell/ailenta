@@ -1,5 +1,92 @@
 [
   {
+    "id": "67f39fd2289d",
+    "slug": "o-zbekiston-va-qozog-iston-londonda-startap-xab-ochdi-67f39f",
+    "title": "O‘zbekiston va Qozog‘iston Londonda startap-xab ochdi",
+    "summary": "O‘zbekiston va Qozog‘iston Londonda Eurasia Growth Hub’ni ishga tushirdi. Bu xab startaplarning xalqaro bozor va investorlarga chiqishini qo‘llab-quvvatlaydi.",
+    "tags": [
+      "O'zbekiston",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 41,
+    "published": "2026-11-24T16:25:00.000Z",
+    "created": "2026-11-24T17:09:01.919Z",
+    "coverage": 1,
+    "source": {
+      "name": "UzDaily",
+      "url": "https://uzdaily.uz/uz/%C3%B6zbekiston-va-qozo%C4%9Fiston-londonda-startap-xab-o%C3%A7di",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "a1954c7a4413",
+    "slug": "ai-agentlari-korxona-tarmoqlariga-yuklamani-oshirmoqda-a1954c",
+    "title": "AI agentlari korxona tarmoqlariga yuklamani oshirmoqda",
+    "summary": "Kompaniyalar sun'iy intellektni joriy etishi bilan korxona tarmoqlari katta bosim ostida qolmoqda. AI agentlari tomonidan bajariladigan vazifalar odamlar tomonidan bajarilganiga nisbatan 450% ko‘proq tarmoq trafigini hosil qiladi.",
+    "tags": [
+      "biznes",
+      "agentlar"
+    ],
+    "importance": 3,
+    "score": 29,
+    "published": "2026-11-24T15:15:16.000Z",
+    "created": "2026-11-24T17:09:01.920Z",
+    "coverage": 1,
+    "source": {
+      "name": "MIT Technology Review",
+      "url": "https://technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "b6222c5bc341",
+    "slug": "jensen-huangning-deepfeyklari-yangi-ai-slop-ga-aylandi-b6222c",
+    "title": "Jensen Huangning deepfeyklari yangi AI \"slop\"ga aylandi",
+    "summary": "Nvidia sobiq bosh direktori Jensen Huangning deepfeyk videolari ijtimoiy tarmoqlarda tarqalmoqda. Instagramda 6 millionga yaqin ko‘rilgan videoda u raqsga tushayotgani tasvirlangan.",
+    "tags": [
+      "xavfsizlik"
+    ],
+    "importance": 2,
+    "score": 18,
+    "published": "2026-11-24T16:30:00.000Z",
+    "created": "2026-11-24T17:09:01.920Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Verge",
+      "url": "https://theverge.com/tech/1041222/jensen-huang-nvidia-scandal-deepfakes",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "bbaf6332f2bf",
+    "slug": "pinterest-ota-onalarga-ai-kontentini-cheklash-imkonini-berad-bbaf63",
+    "title": "Pinterest ota-onalarga AI kontentini cheklash imkonini beradi",
+    "summary": "Pinterest platformasi ota-onalarga o‘smirlar ko‘radigan AI tomonidan yaratilgan kontentni cheklash imkoniyatini taqdim etadi. Boshqa platformalar AI chatbotlariga kirishni cheklasa, Pinterest lentadagi kontentga e'tibor qaratmoqda.",
+    "tags": [
+      "maxfiylik",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-11-24T16:02:37.000Z",
+    "created": "2026-11-24T17:09:01.920Z",
+    "coverage": 1,
+    "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/24/pinterest-will-now-let-parents-limit-the-ai-generated-content-their-teens-see",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "30e2b270bca0",
     "slug": "ai-bilan-bog-liq-43-mingta-vakansiya-tahlil-qilindi-30e2b2",
     "title": "AI bilan bog‘liq 43 mingta vakansiya tahlil qilindi",
