@@ -5,7 +5,7 @@
   <link>https://ailenta.uz/mavzu/tadqiqot/</link>
   <description>&quot;tadqiqot&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Tue, 24 Nov 2026 02:40:17 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 24 Nov 2026 02:57:20 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/tadqiqot/rss.xml" rel="self" type="application/rss+xml"/>
   <item>
     <title>XPeng X-World 1.6 modelini taqdim etdi</title>
@@ -116,6 +116,36 @@
     <category>tibbiyot</category><category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/novartis-ai-saratonni-davolash-umidlarini-rad-etdi-3d7b4b.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/novartis-ai-saratonni-davolash-umidlarini-rad-etdi-3d7b4b.jpg"/>
+  </item>
+  <item>
+    <title>Chiziqli neyron tarmoqlar yo'qotish landshafti tadqiqoti</title>
+    <link>https://ailenta.uz/x/chiziqli-neyron-tarmoqlar-yoqotish-landshafti-tadqiqoti-f6d163/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/chiziqli-neyron-tarmoqlar-yoqotish-landshafti-tadqiqoti-f6d163/</guid>
+    <pubDate>Mon, 23 Nov 2026 05:00:00 GMT</pubDate>
+    <description>Yangi tadqiqot chiziqli neyron tarmoqlarning yo'qotish landshaftini o'rganib chiqdi. Unda &quot;kritik talveg&quot; deb nomlangan oraliq tuzilma kiritilib, gradient tushishining kritik nuqtalarni chetlab o'tishi tushuntirilgan.</description>
+    <category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/chiziqli-neyron-tarmoqlar-yoqotish-landshafti-tadqiqoti-f6d163.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/chiziqli-neyron-tarmoqlar-yoqotish-landshafti-tadqiqoti-f6d163.jpg"/>
+  </item>
+  <item>
+    <title>Federativ o'qitish uchun yangi himoya usuli</title>
+    <link>https://ailenta.uz/x/federativ-oqitish-uchun-yangi-himoya-usuli-37b4f9/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/federativ-oqitish-uchun-yangi-himoya-usuli-37b4f9/</guid>
+    <pubDate>Mon, 23 Nov 2026 05:00:00 GMT</pubDate>
+    <description>Yangi tadqiqotda federativ o'qitishda modellarni zaharlash hujumlaridan himoya qilish uchun &quot;FedTether&quot; nomli yangi agregatsiya usuli taklif etildi. Bu usul buzilgan qurilmalardan keladigan xavflarni kamaytirishga yordam beradi.</description>
+    <category>tadqiqot</category><category>xavfsizlik</category>
+    <media:content url="https://ailenta.uz/og/federativ-oqitish-uchun-yangi-himoya-usuli-37b4f9.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/federativ-oqitish-uchun-yangi-himoya-usuli-37b4f9.jpg"/>
+  </item>
+  <item>
+    <title>Text-to-SQL tizimlarida kontekst banklari tadqiqoti</title>
+    <link>https://ailenta.uz/x/text-to-sql-tizimlarida-kontekst-banklari-tadqiqoti-8489bb/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/text-to-sql-tizimlarida-kontekst-banklari-tadqiqoti-8489bb/</guid>
+    <pubDate>Mon, 23 Nov 2026 05:00:00 GMT</pubDate>
+    <description>Yangi tadqiqot Text-to-SQL tizimlarida ishlatiladigan kontekst banklaridagi nomuvofiqliklarni tuzatishga qaratilgan. Unda korxonalarda yillar davomida shakllanadigan ma'lumotlar bazalarining izchilligi va umumlashtirish muammolari ko'rib chiqilgan.</description>
+    <category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/text-to-sql-tizimlarida-kontekst-banklari-tadqiqoti-8489bb.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/text-to-sql-tizimlarida-kontekst-banklari-tadqiqoti-8489bb.jpg"/>
   </item>
   <item>
     <title>Bilimlar grafiklarini simulyatsiya orqali sintez qilish</title>
@@ -276,36 +306,6 @@
     <category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/claude-yordamida-macos-dasturlari-tahlil-qilindi-3f7da0.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/claude-yordamida-macos-dasturlari-tahlil-qilindi-3f7da0.jpg"/>
-  </item>
-  <item>
-    <title>Osmo startapi hidlarni aniqlovchi AI modelini yaratmoqda</title>
-    <link>https://ailenta.uz/x/osmo-startapi-hidlarni-aniqlovchi-ai-modelini-yaratmoqda-05cf85/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/osmo-startapi-hidlarni-aniqlovchi-ai-modelini-yaratmoqda-05cf85/</guid>
-    <pubDate>Sat, 21 Nov 2026 11:57:04 GMT</pubDate>
-    <description>Osmo startapi hidlarni aniqlash uchun dunyodagi birinchi asosiy modelni yaratmoqda. Tadqiqotchilar keyinchalik neyron tarmoqlarni matnli so‘rovlar asosida yangi hidlarni yaratishga o‘rgatishni rejalashtirmoqda.</description>
-    <category>tadqiqot</category><category>biznes</category>
-    <media:content url="https://ailenta.uz/og/osmo-startapi-hidlarni-aniqlovchi-ai-modelini-yaratmoqda-05cf85.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/osmo-startapi-hidlarni-aniqlovchi-ai-modelini-yaratmoqda-05cf85.jpg"/>
-  </item>
-  <item>
-    <title>AI sababli uzilishlar va kiberhujumlar taraqqiyot belgisi</title>
-    <link>https://ailenta.uz/x/ai-sababli-uzilishlar-va-kiberhujumlar-taraqqiyot-belgisi-586308/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/ai-sababli-uzilishlar-va-kiberhujumlar-taraqqiyot-belgisi-586308/</guid>
-    <pubDate>Sat, 21 Nov 2026 10:02:09 GMT</pubDate>
-    <description>Sun'iy intellekt tufayli yuzaga kelayotgan uzilishlar va kiberhujumlar tarixiy jarayonlarga mos keladi. Yangi innovatsiyalar hayotni yaxshilashdan oldin ko'pincha falokatli muvaffaqiyatsizliklarga olib keladi.</description>
-    <category>xavfsizlik</category><category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/ai-sababli-uzilishlar-va-kiberhujumlar-taraqqiyot-belgisi-586308.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/ai-sababli-uzilishlar-va-kiberhujumlar-taraqqiyot-belgisi-586308.jpg"/>
-  </item>
-  <item>
-    <title>Tadqiqot AI tizimlarida maxfiylik muammosini ko'rsatdi</title>
-    <link>https://ailenta.uz/x/tadqiqot-ai-tizimlarida-maxfiylik-muammosini-korsatdi-6e0863/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/tadqiqot-ai-tizimlarida-maxfiylik-muammosini-korsatdi-6e0863/</guid>
-    <pubDate>Fri, 20 Nov 2026 20:59:08 GMT</pubDate>
-    <description>Tadqiqotchi sun'iy intellekt ta'minot zanjiriga 2 millionta kuzatuv kodini joylashtirib, tajriba o'tkazdi. Natijada foydalanuvchi ma'lumotlari maxfiy qolmasligi va ularning tarqalib ketish xavfi mavjudligi tasdiqlandi.</description>
-    <category>maxfiylik</category><category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/tadqiqot-ai-tizimlarida-maxfiylik-muammosini-korsatdi-6e0863.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/tadqiqot-ai-tizimlarida-maxfiylik-muammosini-korsatdi-6e0863.jpg"/>
   </item>
 </channel>
 </rss>

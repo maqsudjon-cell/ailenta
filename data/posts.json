@@ -1,42 +1,63 @@
 [
   {
-    "id": "8d8ce2d8f0e9",
-    "slug": "ochishlar-va-ai-mutaxassislar-xavflarni-muhokama-qildi-8d8ce2",
-    "title": "O'chishlar va AI: mutaxassislar xavflarni muhokama qildi",
-    "summary": "AQShda texnologiya, aviatsiya va bank tizimlaridagi uzilishlardan so'ng kiberxavfsizlik ekspertlari yuzaga kelayotgan xavflarni muhokama qildi. Ular sun'iy intellekt va moliyalashtirish yetishmovchiligi tizimlar inqiroziga olib kelishi mumkinligini ta'kidladi.",
+    "id": "f6d163dedaee",
+    "slug": "chiziqli-neyron-tarmoqlar-yoqotish-landshafti-tadqiqoti-f6d163",
+    "title": "Chiziqli neyron tarmoqlar yo'qotish landshafti tadqiqoti",
+    "summary": "Yangi tadqiqot chiziqli neyron tarmoqlarning yo'qotish landshaftini o'rganib chiqdi. Unda \"kritik talveg\" deb nomlangan oraliq tuzilma kiritilib, gradient tushishining kritik nuqtalarni chetlab o'tishi tushuntirilgan.",
     "tags": [
-      "xavfsizlik"
+      "tadqiqot"
     ],
-    "importance": 3,
-    "score": 23,
-    "published": "2026-11-23T16:58:17.000Z",
-    "created": "2026-11-24T02:28:01.031Z",
+    "importance": 2,
+    "score": 3.1,
+    "published": "2026-11-23T05:00:00.000Z",
+    "created": "2026-11-24T02:42:25.742Z",
     "coverage": 1,
     "source": {
-      "name": "The Guardian",
-      "url": "https://theguardian.com/technology/2026/nov/23/tech-outages-security-experts",
+      "name": "arXiv cs.LG",
+      "url": "https://arxiv.org/abs/2611.26671",
       "indirect": false
     },
     "also": [],
     "model": "gemini"
   },
   {
-    "id": "c642a9ca0e22",
-    "slug": "michigan-universiteti-malumot-markazini-tasdiqladi-c642a9",
-    "title": "Michigan universiteti ma'lumot markazini tasdiqladi",
-    "summary": "Michigan universiteti vasiylari bahsli ma'lumotlar markazi loyihasini 7 ga 1 ovoz bilan ma'qulladi. Mahalliy ma'muriyat ushbu qarorga qarshi kurashishni davom ettirishini bildirdi.",
+    "id": "37b4f98aea36",
+    "slug": "federativ-oqitish-uchun-yangi-himoya-usuli-37b4f9",
+    "title": "Federativ o'qitish uchun yangi himoya usuli",
+    "summary": "Yangi tadqiqotda federativ o'qitishda modellarni zaharlash hujumlaridan himoya qilish uchun \"FedTether\" nomli yangi agregatsiya usuli taklif etildi. Bu usul buzilgan qurilmalardan keladigan xavflarni kamaytirishga yordam beradi.",
     "tags": [
-      "bulut",
-      "siyosat"
+      "tadqiqot",
+      "xavfsizlik"
     ],
     "importance": 2,
-    "score": 19,
-    "published": "2026-11-23T19:56:37.000Z",
-    "created": "2026-11-24T02:28:01.031Z",
+    "score": 3.1,
+    "published": "2026-11-23T05:00:00.000Z",
+    "created": "2026-11-24T02:42:25.742Z",
     "coverage": 1,
     "source": {
-      "name": "404 Media",
-      "url": "https://404media.co/ypsilanti-michigan-data-center-vote",
+      "name": "arXiv cs.LG",
+      "url": "https://arxiv.org/abs/2611.26731",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "8489bbda89cb",
+    "slug": "text-to-sql-tizimlarida-kontekst-banklari-tadqiqoti-8489bb",
+    "title": "Text-to-SQL tizimlarida kontekst banklari tadqiqoti",
+    "summary": "Yangi tadqiqot Text-to-SQL tizimlarida ishlatiladigan kontekst banklaridagi nomuvofiqliklarni tuzatishga qaratilgan. Unda korxonalarda yillar davomida shakllanadigan ma'lumotlar bazalarining izchilligi va umumlashtirish muammolari ko'rib chiqilgan.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 3.1,
+    "published": "2026-11-23T05:00:00.000Z",
+    "created": "2026-11-24T02:42:25.742Z",
+    "coverage": 1,
+    "source": {
+      "name": "arXiv cs.CL",
+      "url": "https://arxiv.org/abs/2611.26775",
       "indirect": false
     },
     "also": [],
