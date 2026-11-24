@@ -1,5 +1,136 @@
 [
   {
+    "id": "0b045d6b1d8d",
+    "slug": "ai-slop-ga-qarshi-kurashda-tadqiqotchilarni-jazolamaslik-0b045d",
+    "title": "AI \"slop\"ga qarshi kurashda tadqiqotchilarni jazolamaslik",
+    "summary": "Nature nashri AI tomonidan yaratilgan sifatsiz kontentga qarshi kurashishda qonuniy tadqiqotchilarni jazolamaslikka chaqirdi. Bu AI sohasidagi muammolarni hal qilishda e'tiborga olish kerak bo'lgan muhim jihatdir.",
+    "tags": [
+      "tadqiqot",
+      "qonun"
+    ],
+    "importance": 2,
+    "score": 22.1,
+    "published": "2026-11-24T00:00:00.000Z",
+    "created": "2026-11-24T14:14:52.795Z",
+    "coverage": 1,
+    "source": {
+      "name": "Nature",
+      "url": "https://nature.com/articles/d41586-026-03824-3",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "dfdc988b12a7",
+    "slug": "ai-ongi-boyicha-ilm-noaniqlikni-tan-olishi-kerak-dfdc98",
+    "title": "AI ongi bo'yicha ilm noaniqlikni tan olishi kerak",
+    "summary": "Nature nashri AI ongi bo'yicha ilmiy tadqiqotlarda noaniqlikni tan olish zarurligini ta'kidladi. Bu mavzu bo'yicha ilmiy yondashuvda ehtiyotkorlik muhimdir.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 22.1,
+    "published": "2026-11-24T00:00:00.000Z",
+    "created": "2026-11-24T14:14:52.796Z",
+    "coverage": 1,
+    "source": {
+      "name": "Nature",
+      "url": "https://nature.com/articles/d41586-026-03822-5",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "f61756ed0e13",
+    "slug": "google-foydalanuvchi-ishtirokidagi-ai-tv-kanalini-yaratmoqda-f61756",
+    "title": "Google foydalanuvchi ishtirokidagi AI TV kanalini yaratmoqda",
+    "summary": "Google foydalanuvchini bosh qahramon sifatida tasvirlaydigan shaxsiylashtirilgan AI TV kanalini ishlab chiqmoqda. Bu yangi model foydalanuvchilar uchun moslashtirilgan videolar yaratadi.",
+    "tags": [
+      "Google",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 22,
+    "published": "2026-11-24T13:42:30.000Z",
+    "created": "2026-11-24T14:14:52.796Z",
+    "coverage": 1,
+    "source": {
+      "name": "404 Media",
+      "url": "https://404media.co/googles-customized-ai-tv-channel-starring-you",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "c513e5054979",
+    "slug": "hinton-bay-area-600-radiologga-muhtoj-c513e5",
+    "title": "Hinton: Bay Area 600 radiologga muhtoj",
+    "summary": "Geoffrey Hintonning AI radiologiya ishlarini egallaydi degan bashorati ortidan, o'n yil o'tib, Bay Area hududida 600 nafar tasvirlash texnigi yetishmayapti. AI ish o'rinlarini egallash o'rniga, ularni to'ldirish qiyinlashdi.",
+    "tags": [
+      "mehnat bozori",
+      "tibbiyot"
+    ],
+    "importance": 4,
+    "score": 22,
+    "published": "2026-11-24T13:30:00.000Z",
+    "created": "2026-11-24T14:14:52.796Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/11/24/geoffrey-hinton-radiologists-ai-predictions",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "cd73b5dbfdcc",
+    "slug": "michigan-universiteti-malumot-markazini-tadqiqot-markazi-ded-cd73b5",
+    "title": "Michigan universiteti ma'lumot markazini \"tadqiqot markazi\" dedi",
+    "summary": "Michigan universiteti Ypsilanti Township aholisiga yuborgan xatlarda yangi ma'lumot markazini \"tadqiqot hisoblash markazi\" deb atamoqda. Bu nomlanish mahalliy aholi orasida muhokamalarga sabab bo'lmoqda.",
+    "tags": [
+      "tadqiqot",
+      "bulut"
+    ],
+    "importance": 2,
+    "score": 19,
+    "published": "2026-11-24T13:41:32.000Z",
+    "created": "2026-11-24T14:14:52.796Z",
+    "coverage": 1,
+    "source": {
+      "name": "404 Media",
+      "url": "https://404media.co/university-of-michigan-mailer-lanl-data-center",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "e0ad3efb80c2",
+    "slug": "aida-jevons-paradoksi-arzon-tokenlar-xarajatni-qoplamaydi-e0ad3e",
+    "title": "AIda Jevons paradoksi: Arzon tokenlar xarajatni qoplamaydi",
+    "summary": "Hacker News'da Jevons paradoksi AI sohasida muhokama qilinmoqda. Unga ko'ra, tokenlar arzonlashgani bilan, kapital xarajatlarni qoplash qiyin bo'ladi.",
+    "tags": [
+      "iqtisod",
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 17.3,
+    "published": "2026-11-24T09:39:50.000Z",
+    "created": "2026-11-24T14:14:52.796Z",
+    "coverage": 1,
+    "source": {
+      "name": "Hacker News",
+      "url": "https://philippdubach.com/posts/cheaper-ai-tokens-wont-pay-for-capex",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "8b547b27d33c",
     "slug": "baa-bolalar-oqishini-kuzatuvchi-ai-yordamchisini-ishga-tushi-8b547b",
     "title": "BAA bolalar o'qishini kuzatuvchi AI yordamchisini ishga tushirdi",
