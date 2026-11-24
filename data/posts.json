@@ -1,5 +1,49 @@
 [
   {
+    "id": "b5a7f09780ea",
+    "slug": "ai-matematiklar-orasida-xavotir-uygotmoqda-b5a7f0",
+    "title": "AI matematiklar orasida xavotir uyg'otmoqda",
+    "summary": "Nature nashrining xabar berishicha, sun'iy intellekt sohasidagi tezkor o'zgarishlar matematiklar orasida xavotir uyg'otmoqda. Bu holat kelajak avlod matematiklariga ta'sir ko'rsatishi mumkin.",
+    "tags": [
+      "tadqiqot",
+      "mehnat bozori"
+    ],
+    "importance": 2,
+    "score": 15.4,
+    "published": "2026-11-23T00:00:00.000Z",
+    "created": "2026-11-24T07:02:38.827Z",
+    "coverage": 1,
+    "source": {
+      "name": "Nature",
+      "url": "https://nature.com/articles/d41586-026-03795-5",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "897fbfd91ce9",
+    "slug": "claudeda-ai-agentlarining-kompaniyasi-yaratildi-897fbf",
+    "title": "Claude'da AI agentlarining \"kompaniyasi\" yaratildi",
+    "summary": "YouTube'da bir foydalanuvchi Claude yordamida AI agentlarining \"shtabini\" yaratdi. Bu agentlar vazifalarni taqsimlab, rollarni belgilab, hatto bir-birini yollab va ishdan bo'shatib, o'zaro hamkorlik qiladi.",
+    "tags": [
+      "agentlar",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 11,
+    "published": "2026-11-24T02:47:05.000Z",
+    "created": "2026-11-24T07:02:38.827Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1111538",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "740f9df765ec",
     "slug": "tempest-britaniya-songgi-odamli-qiruvchisi-bolishi-mumkin-740f9d",
     "title": "Tempest Britaniya so'nggi odamli qiruvchisi bo'lishi mumkin",
