@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/agentlar/</link>
   <description>&quot;agentlar&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Tue, 24 Nov 2026 10:15:44 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 24 Nov 2026 11:15:01 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/agentlar/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>InferNode Inferno OTga 64 bitli yangilanish berdi</title>
+    <link>https://ailenta.uz/x/infernode-inferno-otga-64-bitli-yangilanish-berdi-63f90f/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/infernode-inferno-otga-64-bitli-yangilanish-berdi-63f90f/</guid>
+    <pubDate>Tue, 24 Nov 2026 10:09:00 GMT</pubDate>
+    <description>InferNode tizimi Bell Labs’ning Inferno operatsion tizimiga 64 bitli yangi imkoniyat berdi. U Plan 9 davomchisi sifatida AI agentlarini joylashtirish uchun foydalanilmoqda.</description>
+    <category>agentlar</category>
+    <media:content url="https://ailenta.uz/og/infernode-inferno-otga-64-bitli-yangilanish-berdi-63f90f.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/infernode-inferno-otga-64-bitli-yangilanish-berdi-63f90f.jpg"/>
+  </item>
   <item>
     <title>Sarvam AI yangi SARVAM-105B-1711 modelini chiqardi</title>
     <link>https://ailenta.uz/x/sarvam-ai-yangi-sarvam-105b-1711-modelini-chiqardi-bdd1ae/</link>
@@ -296,16 +306,6 @@
     <category>biznes</category><category>agentlar</category>
     <media:content url="https://ailenta.uz/og/ai-aviakompaniyaga-reyslar-jadvalini-ozgartirishga-yordam-be-77b1b3.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/ai-aviakompaniyaga-reyslar-jadvalini-ozgartirishga-yordam-be-77b1b3.jpg"/>
-  </item>
-  <item>
-    <title>Avito BI jamoasi AI agentlaridan foydalanmoqda</title>
-    <link>https://ailenta.uz/x/avito-bi-jamoasi-ai-agentlaridan-foydalanmoqda-a0aaa9/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/avito-bi-jamoasi-ai-agentlaridan-foydalanmoqda-a0aaa9/</guid>
-    <pubDate>Thu, 12 Nov 2026 12:48:12 GMT</pubDate>
-    <description>Avito kompaniyasining BI dasturchisi AI agentlari yordamida dashbord tayyorlash tajribasini ulashdi. Ushbu yondashuv murakkab dashbordlarni yig'ish vaqtini 20 kundan 8–10 kungacha qisqartirdi.</description>
-    <category>agentlar</category>
-    <media:content url="https://ailenta.uz/og/avito-bi-jamoasi-ai-agentlaridan-foydalanmoqda-a0aaa9.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/avito-bi-jamoasi-ai-agentlaridan-foydalanmoqda-a0aaa9.jpg"/>
   </item>
 </channel>
 </rss>

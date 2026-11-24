@@ -1,5 +1,47 @@
 [
   {
+    "id": "63f90f482b3d",
+    "slug": "infernode-inferno-otga-64-bitli-yangilanish-berdi-63f90f",
+    "title": "InferNode Inferno OTga 64 bitli yangilanish berdi",
+    "summary": "InferNode tizimi Bell Labs’ning Inferno operatsion tizimiga 64 bitli yangi imkoniyat berdi. U Plan 9 davomchisi sifatida AI agentlarini joylashtirish uchun foydalanilmoqda.",
+    "tags": [
+      "agentlar"
+    ],
+    "importance": 2,
+    "score": 19,
+    "published": "2026-11-24T10:09:00.000Z",
+    "created": "2026-11-24T11:03:00.539Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/os-platforms/2026/11/24/infernode-gives-bell-labs-inferno-os-a-64-bit-second-wind/5311704",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "f4c5fea692fc",
+    "slug": "vk-ikkinchi-recsys-meetup-tadbirini-otkazadi-f4c5fe",
+    "title": "VK ikkinchi RecSys Meetup tadbirini o'tkazadi",
+    "summary": "VK AI jamoasi Moskvada 3 va 4-dekabr kunlari ikkinchi RecSys Meetup tadbirini tashkil etadi. Anjumanda tavsiya tizimlari hamda ML texnologiyalari bo'yicha mahsulot tajribalari taqdim etiladi.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 1,
+    "score": 11,
+    "published": "2026-11-24T09:30:23.000Z",
+    "created": "2026-11-24T11:03:00.539Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/companies/vk/articles/1111654",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "ea91e3604351",
     "slug": "oq-uy-tramp-jensen-huangning-qaytishiga-aralashganini-aytdi-ea91e3",
     "title": "Oq uy Tramp Jensen Huangning qaytishiga aralashganini aytdi",
