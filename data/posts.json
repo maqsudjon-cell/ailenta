@@ -1,5 +1,48 @@
 [
   {
+    "id": "c55ba18e4cc4",
+    "slug": "dell-uchinchi-chorakda-sotuvlarini-ikki-baravarga-oshirdi-c55ba1",
+    "title": "Dell uchinchi chorakda sotuvlarini ikki baravarga oshirdi",
+    "summary": "Dell kompaniyasining sotuvlari uchinchi chorakda AI serverlariga bo'lgan talab tufayli ikki baravardan ko'proqqa oshdi. Kompaniya 25 milliard dollarlik aksiyalarni qayta sotib olishga ruxsat berdi.",
+    "tags": [
+      "iqtisod",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-11-24T22:07:45.000Z",
+    "created": "2026-11-24T23:01:53.281Z",
+    "coverage": 1,
+    "source": {
+      "name": "CNBC",
+      "url": "https://cnbc.com/2026/11/24/dell-earnings-report-q3-2027.html",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "ef2ea07a8f96",
+    "slug": "britaniya-ai-kiberhujumlari-haqida-ogohlantirdi-ef2ea0",
+    "title": "Britaniya AI kiberhujumlari haqida ogohlantirdi",
+    "summary": "Buyuk Britaniya kiberxavfsizlik agentligi AI vositalari orqali amalga oshirilayotgan hujumlar zaif xavfsizlik tizimlarini oshkor qilayotganini bildirdi. Agentlik oddiy kamchiliklarni bartaraf etish va kuchli himoyani yo'lga qo'yish muhimligini ta'kidladi.",
+    "tags": [
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-11-24T18:02:59.000Z",
+    "created": "2026-11-24T23:01:53.282Z",
+    "coverage": 1,
+    "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "58c64dd3bfb5",
     "slug": "tangimap-tizimi-jismoniy-boshqaruv-vositalarini-sozlaydi-58c64d",
     "title": "TangiMap tizimi jismoniy boshqaruv vositalarini sozlaydi",
