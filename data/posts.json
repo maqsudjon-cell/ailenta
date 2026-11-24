@@ -1,5 +1,49 @@
 [
   {
+    "id": "8b547b27d33c",
+    "slug": "baa-bolalar-oqishini-kuzatuvchi-ai-yordamchisini-ishga-tushi-8b547b",
+    "title": "BAA bolalar o'qishini kuzatuvchi AI yordamchisini ishga tushirdi",
+    "summary": "BAA bolalarning o'qishidagi bo'shliqlarni erta aniqlash uchun AI yordamchisini ishga tushirdi. Ushbu vosita mavjud maktab yozuvlaridan foydalanadi.",
+    "tags": [
+      "siyosat",
+      "ta'lim"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-11-24T12:41:34.000Z",
+    "created": "2026-11-24T13:02:01.579Z",
+    "coverage": 1,
+    "source": {
+      "name": "Semafor",
+      "url": "https://semafor.com/article/11/24/2026/uae-launches-ai-assistant-to-track-childrens-learning",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "2c78d5be4c45",
+    "slug": "franklin-templeton-aiga-ortiqcha-sarmoyadan-ogohlantirdi-2c78d5",
+    "title": "Franklin Templeton AIga ortiqcha sarmoyadan ogohlantirdi",
+    "summary": "Franklin Templeton kompaniyasi investorlarni AI sohasiga haddan tashqari ko'p sarmoya kiritishdan ogohlantirdi. Bu xabar Crypto Briefing nashrida e'lon qilindi.",
+    "tags": [
+      "iqtisod",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 7,
+    "published": "2026-11-24T11:27:03.000Z",
+    "created": "2026-11-24T13:02:01.580Z",
+    "coverage": 1,
+    "source": {
+      "name": "Crypto Briefing",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOM01NVjRZemRKVjRPZ3Z2SGw3aWkza3pWQWw5QzhiZkJqQW13cXlHX1MtYWJYSXpiY3lkdUJabEtoM0RsdlFUQmZYaDZnaGpkMS0yVG92OFpRUHVyaDViMGRRa3djbVJSdVFkMWgxVDRMSlZSRHFzaXQ4aGtMWFFWTUVlM0ZVS3ZyTFRCR0xWNGo2NGhYdVN3bTVOVQ",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "d2ff2e607c9e",
     "slug": "jamoa-uchun-yagona-ai-tizimidan-voz-kechish-sabablari-d2ff2e",
     "title": "Jamoa uchun yagona AI tizimidan voz kechish sabablari",
