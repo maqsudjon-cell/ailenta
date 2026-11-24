@@ -1,5 +1,68 @@
 [
   {
+    "id": "86b5e76f4d87",
+    "slug": "o-zbekiston-2027-yilda-yangi-hisoblash-klasterini-ochadi-86b5e7",
+    "title": "O‘zbekiston 2027-yilda yangi hisoblash klasterini ochadi",
+    "summary": "O‘zbekiston 2027-yilda quvvati 7 ekzaflopsdan ortiq hisoblash klasterini ishga tushiradi. Mamlakatda sun’iy intellekt sohasidagi loyihalar ham kengaytiriladi.",
+    "tags": [
+      "O'zbekiston"
+    ],
+    "importance": 4,
+    "score": 44,
+    "published": "2026-11-24T16:15:00.000Z",
+    "created": "2026-11-24T19:01:58.334Z",
+    "coverage": 1,
+    "source": {
+      "name": "UzDaily",
+      "url": "https://uzdaily.uz/uz/%C3%B6zbekiston-suniy-intellekt-u%C3%A7un-hisobla%C5%9F-quvvatlarini-o%C5%9Firadi",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "6b409afd01c6",
+    "slug": "ant-group-ling-3-2-air-multimodal-modelini-elon-qildi-6b409a",
+    "title": "Ant Group Ling-3.2-air multimodal modelini e'lon qildi",
+    "summary": "Ant Group matn, tasvir va video kirishiga ega Ling-3.2-air modelini chiqardi. Tizim jami 124 milliard va 5,5 milliard faol parametrga ega bo'lib, uning og'irliklari yuklab olish uchun ochiq.",
+    "tags": [
+      "ochiq model"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-11-24T07:06:23.000Z",
+    "created": "2026-11-24T19:01:58.334Z",
+    "coverage": 1,
+    "source": {
+      "name": "Pandaily",
+      "url": "https://pandaily.com/ant-group-ling-3-2-air-multimodal-open-weights",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "c10838716165",
+    "slug": "z-ai-kompaniyasi-glm-5-4-modelini-taqdim-etdi-c10838",
+    "title": "Z.ai kompaniyasi GLM-5.4 modelini taqdim etdi",
+    "summary": "Z.ai kompaniyasi Loop Transformer me'morchiligida yaratilgan GLM-5.4 modelini taqdim etdi. Unda umumiy og'irlikdagi qatlamlar bir o'tishda ikki marta bajariladi. Yangi model uchun sinov to'plamlari e'lon qilinmagan.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 14,
+    "published": "2026-11-24T15:14:46.000Z",
+    "created": "2026-11-24T19:01:58.334Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1111878",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "f40083bfec63",
     "slug": "indoneziya-xitoyga-ai-sohasida-hamkorlikni-taklif-qildi-f40083",
     "title": "Indoneziya Xitoyga AI sohasida hamkorlikni taklif qildi",

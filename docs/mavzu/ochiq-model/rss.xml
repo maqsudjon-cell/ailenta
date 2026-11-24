@@ -5,7 +5,7 @@
   <link>https://ailenta.uz/mavzu/ochiq-model/</link>
   <description>&quot;ochiq model&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Tue, 24 Nov 2026 18:46:42 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 24 Nov 2026 19:14:01 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/ochiq-model/rss.xml" rel="self" type="application/rss+xml"/>
   <item>
     <title>Vue-llm yordamida AI chatni mavjud tizimga integratsiya qilish</title>
@@ -16,6 +16,16 @@
     <category>tadqiqot</category><category>ochiq model</category>
     <media:content url="https://ailenta.uz/og/vue-llm-yordamida-ai-chatni-mavjud-tizimga-integratsiya-qili-b64972.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/vue-llm-yordamida-ai-chatni-mavjud-tizimga-integratsiya-qili-b64972.jpg"/>
+  </item>
+  <item>
+    <title>Ant Group Ling-3.2-air multimodal modelini e'lon qildi</title>
+    <link>https://ailenta.uz/x/ant-group-ling-3-2-air-multimodal-modelini-elon-qildi-6b409a/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/ant-group-ling-3-2-air-multimodal-modelini-elon-qildi-6b409a/</guid>
+    <pubDate>Tue, 24 Nov 2026 07:06:23 GMT</pubDate>
+    <description>Ant Group matn, tasvir va video kirishiga ega Ling-3.2-air modelini chiqardi. Tizim jami 124 milliard va 5,5 milliard faol parametrga ega bo'lib, uning og'irliklari yuklab olish uchun ochiq.</description>
+    <category>ochiq model</category>
+    <media:content url="https://ailenta.uz/og/ant-group-ling-3-2-air-multimodal-modelini-elon-qildi-6b409a.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/ant-group-ling-3-2-air-multimodal-modelini-elon-qildi-6b409a.jpg"/>
   </item>
   <item>
     <title>AI 225 million veb-sayt ishlatadigan NGINXda xato topdi</title>
@@ -296,16 +306,6 @@
     <category>ochiq model</category><category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/qwen3-4b-modelidan-ai-yozish-uslublari-olib-tashlandi-bb2f91.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/qwen3-4b-modelidan-ai-yozish-uslublari-olib-tashlandi-bb2f91.jpg"/>
-  </item>
-  <item>
-    <title>MoE modellarda ekspertlarni kamaytirishning salbiy ta'siri</title>
-    <link>https://ailenta.uz/x/moe-modellarda-ekspertlarni-kamaytirishning-salbiy-tasiri-b3beae/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/moe-modellarda-ekspertlarni-kamaytirishning-salbiy-tasiri-b3beae/</guid>
-    <pubDate>Mon, 19 Oct 2026 04:00:00 GMT</pubDate>
-    <description>Tadqiqot MoE modellarda so‘rov tokenlarini kamroq ekspertlar orqali o‘tkazishning ta'sirini o‘rgandi. Natijada, ekspertlar sonini yarmiga kamaytirish qisqa javob berishda F1 yo‘qotishiga olib kelishi aniqlandi.</description>
-    <category>tadqiqot</category><category>ochiq model</category>
-    <media:content url="https://ailenta.uz/og/moe-modellarda-ekspertlarni-kamaytirishning-salbiy-tasiri-b3beae.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/moe-modellarda-ekspertlarni-kamaytirishning-salbiy-tasiri-b3beae.jpg"/>
   </item>
 </channel>
 </rss>
