@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/tadqiqot/</link>
   <description>&quot;tadqiqot&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Tue, 24 Nov 2026 03:11:40 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 24 Nov 2026 03:50:23 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/tadqiqot/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Uzun kontekstli AI xarajatini kamaytirish usuli yaraldi</title>
+    <link>https://ailenta.uz/x/uzun-kontekstli-ai-xarajatini-kamaytirish-usuli-yaraldi-7f53cf/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/uzun-kontekstli-ai-xarajatini-kamaytirish-usuli-yaraldi-7f53cf/</guid>
+    <pubDate>Tue, 24 Nov 2026 02:29:16 GMT</pubDate>
+    <description>Seul tadqiqotchilari uzun kontekstli sun'iy intellekt xarajatlarini kamaytiruvchi plag-in usulini ishlab chiqishdi. Ushbu yechim modellar bilan ishlash narxini arzonlashtirishga qaratilgan.</description>
+    <category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/uzun-kontekstli-ai-xarajatini-kamaytirish-usuli-yaraldi-7f53cf.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/uzun-kontekstli-ai-xarajatini-kamaytirish-usuli-yaraldi-7f53cf.jpg"/>
+  </item>
   <item>
     <title>XPeng X-World 1.6 modelini taqdim etdi</title>
     <link>https://ailenta.uz/x/xpeng-x-world-1-6-modelini-taqdim-etdi-a210b6/</link>
@@ -296,16 +306,6 @@
     <category>siyosat</category><category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/mashinalarga-qanday-huquqlar-berishimiz-kerak-0095f9.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/mashinalarga-qanday-huquqlar-berishimiz-kerak-0095f9.jpg"/>
-  </item>
-  <item>
-    <title>Claude yordamida macOS dasturlari tahlil qilindi</title>
-    <link>https://ailenta.uz/x/claude-yordamida-macos-dasturlari-tahlil-qilindi-3f7da0/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/claude-yordamida-macos-dasturlari-tahlil-qilindi-3f7da0/</guid>
-    <pubDate>Sat, 21 Nov 2026 12:11:16 GMT</pubDate>
-    <description>Tadqiqotchi Claude AI modeliga toza macOS virtual mashinasiga 900 dan ortiq dasturlarni o'rnatish vazifasini topshirdi. So'ngra ushbu dasturlar foydalanishdan keyin qancha fayl qoldirishini tahlil qildi.</description>
-    <category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/claude-yordamida-macos-dasturlari-tahlil-qilindi-3f7da0.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/claude-yordamida-macos-dasturlari-tahlil-qilindi-3f7da0.jpg"/>
   </item>
 </channel>
 </rss>
