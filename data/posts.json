@@ -1,5 +1,70 @@
 [
   {
+    "id": "65b4aa83f7d0",
+    "slug": "zhipu-glm-5-4-modelini-vizyon-va-million-token-bilan-chiqard-65b4aa",
+    "title": "Zhipu GLM-5.4 modelini vizyon va million token bilan chiqardi",
+    "summary": "Zhipu kompaniyasi GLM-5.4 modelini o'zining Coding Plan xizmati orqali taqdim etdi. Model vizual tushunish va bir million token kontekst oynasiga ega.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 12.5,
+    "published": "2026-11-23T06:51:56.000Z",
+    "created": "2026-11-24T01:06:09.655Z",
+    "coverage": 1,
+    "source": {
+      "name": "TechNode",
+      "url": "https://technode.com/2026/11/23/zhipu-rolls-out-glm-5-4-with-vision-and-million-token-context",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "253d81ec0981",
+    "slug": "jeffries-xitoyga-ai-chiplari-sotish-taqiqini-talab-qildi-253d81",
+    "title": "Jeffries Xitoyga AI chiplari sotish taqiqini talab qildi",
+    "summary": "Jeffries milliy mudofaa qonuniga Xitoyga cheklangan AI chiplarini sotishni taqiqlash bandini kiritishni talab qildi. Bu AQSh siyosatidagi muhim qadamdir.",
+    "tags": [
+      "siyosat",
+      "chiplar"
+    ],
+    "importance": 4,
+    "score": 7,
+    "published": "2026-11-23T20:44:00.000Z",
+    "created": "2026-11-24T01:06:09.655Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Center Square",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcWRTQlBHNjluc0plRF92djRWTV9xeGN6bmNHeUNWbzBDRy1TUWVOempGQ19OVkR1NUdxaUFWN2pza0N0cmdwWnF2ZnpqNGlFWHZ2NkY4eEdiWlpYaE1md2hKVzlHdUM5RG9UdTlVam1tMnZHelAzZnNVQ1ZYZ1BpWmZsVGJwck4zcW1LM3Q5OXhHZWJv0gGaAUFVX3lxTE8zcGxtcEJLbnBCeURmS3FvMTRLblRQYWltZjlvemNQU1NNR1YyZzF2ak9XdG5yd3hHaVJKVXVrYkJqZC1xdUZNZDFwVnRYdVpuRmx4bXZqVEFwSjE5LW9vT08xNGRIbEJ4YWYyYy1RcjhJaThyMUtISlNpUHc3RERjX2ZEU3RwZHl4Q01IRkRBQUhKcUNJekhUT1E",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "3f38b7272082",
+    "slug": "kpmg-aini-mijoz-malumotlari-nazorati-bilan-bogladi-3f38b7",
+    "title": "KPMG AI'ni mijoz ma'lumotlari nazorati bilan bog'ladi",
+    "summary": "KPMG vakili Todd Lohr AI'ni kengroq joriy etish mijoz ma'lumotlarini nazorat qilish bilan bog'liqligini ta'kidladi. Bu maxfiylik va biznes uchun muhim.",
+    "tags": [
+      "maxfiylik",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 7,
+    "published": "2026-11-23T19:38:36.000Z",
+    "created": "2026-11-24T01:06:09.655Z",
+    "coverage": 1,
+    "source": {
+      "name": "Superpower Daily",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPOHRtOHF4VFJvZ0NDZGZSTU5WcnI4d0VVeERBSV9pUG84MjN0U0VfWGpFZjZHTWxzTnRqVTBITElLNVo4WVhLLVhmNS1PR0N6c055bnpiNGR1c090TnVDb2RHTHpNRnJGdi1pSHluT0hXQkV4cng3YW1EMENTYzBFMGxvU0cxT1FjN29lbVh5c3BTVGc2czRiTUFEX3dhZFc0MGR3",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "8ecad1077200",
     "slug": "ai-osiyoda-kengaymoqda-foydani-olchash-qiyin-8ecad1",
     "title": "AI Osiyoda kengaymoqda, foydani o'lchash qiyin",
