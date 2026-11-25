@@ -1,5 +1,70 @@
 [
   {
+    "id": "48f1b6dff691",
+    "slug": "ai-sababli-talabalar-dissertatsiyani-ogzaki-himoya-qilmoqda-48f1b6",
+    "title": "AI sababli talabalar dissertatsiyani og'zaki himoya qilmoqda",
+    "summary": "Sun'iy intellekt yozma ishlarni baholashni ishonchsiz qilgani sababli, universitetlar talabalardan dissertatsiyalarini og'zaki himoya qilishni talab qilmoqda. Sidney universiteti barcha talabalar uchun buni majburiy qildi.",
+    "tags": [
+      "ta'lim"
+    ],
+    "importance": 3,
+    "score": 23,
+    "published": "2026-11-25T14:00:29.000Z",
+    "created": "2026-11-25T15:02:04.938Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/australia-news/2026/nov/25/australian-universities-tackle-ai-plagiarism-oral-assessment-honours-masters-phd",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "4a3444f1385c",
+    "slug": "sobiq-amaldor-ai-aholi-royxati-malumotlarini-yigmoqda-4a3444",
+    "title": "Sobiq amaldor: AI aholi ro'yxati ma'lumotlarini yig'moqda",
+    "summary": "AQSHning sobiq amaldori sun'iy intellekt allaqachon aholi ro'yxati ma'lumotlarini to'playotganini ma'lum qildi. Bu ma'lumotlar keyinchalik tahlil qilinishi mumkin.",
+    "tags": [
+      "maxfiylik",
+      "siyosat"
+    ],
+    "importance": 4,
+    "score": 19,
+    "published": "2026-11-25T13:00:00.000Z",
+    "created": "2026-11-25T15:02:04.939Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/11/25/former-biden-official-ai-is-already-collecting-your-census-data",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "eb58171fabfd",
+    "slug": "huangning-qarori-nvidia-aksiyalarini-pasaytirdi-eb5817",
+    "title": "Huangning qarori Nvidia aksiyalarini pasaytirdi",
+    "summary": "Jensen Huangning Nvidia kompaniyasida vorislik rejalashtirish chaqiriqlariga qarshi chiqishi aksiyalarning bozor oldi savdolarida pasayishiga olib keldi. Bu texnologiya sohasidagi xavotirlarni kuchaytirdi.",
+    "tags": [
+      "Nvidia",
+      "iqtisod"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-11-25T11:43:37.000Z",
+    "created": "2026-11-25T15:02:04.939Z",
+    "coverage": 1,
+    "source": {
+      "name": "CNBC",
+      "url": "https://cnbc.com/2026/11/25/futures-sink-further-into-the-red-as-tech-worries-resurge.html",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "9129f077b3bb",
     "slug": "enterprise-uzbekistan-londonda-huquqiy-modelini-taqdim-etdi-9129f0",
     "title": "Enterprise Uzbekistan Londonda huquqiy modelini taqdim etdi",
