@@ -1,5 +1,93 @@
 [
   {
+    "id": "971f2eda2137",
+    "slug": "universitetlar-ai-tajribalarini-natijaga-aylantirishi-971f2e",
+    "title": "Universitetlar AI tajribalarini natijaga aylantirishi",
+    "summary": "Microsoft universitetlarga AI tajribalarini amaliy natijalarga aylantirishga yordam beradigan uchta savolni taqdim etdi. Bu savollar AI loyihalarini samarali boshqarishga qaratilgan.",
+    "tags": [
+      "Microsoft",
+      "ta'lim"
+    ],
+    "importance": 2,
+    "score": 26.4,
+    "published": "2026-11-23T19:37:01.000Z",
+    "created": "2026-11-25T00:02:08.670Z",
+    "coverage": 1,
+    "source": {
+      "name": "Microsoft",
+      "url": "https://microsoft.com/en-us/education/blog/2026/11/how-higher-education-leaders-can-turn-institutional-intelligence-into-impact",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "4d83f53e63e2",
+    "slug": "maple-5-3m-sarmoya-jalb-qilib-malumotni-himoyalaydi-4d83f5",
+    "title": "Maple $5.3M sarmoya jalb qilib, ma'lumotni himoyalaydi",
+    "summary": "Maple startapi foydalanuvchi ma'lumotlarini himoya qilish uchun 5.3 million dollar sarmoya jalb qildi. Uning shifrlangan AI arxitekturasi hatto kompaniyaning o'zini ham ma'lumotlarga kirishdan cheklaydi.",
+    "tags": [
+      "xavfsizlik",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-11-24T21:19:52.000Z",
+    "created": "2026-11-25T00:02:08.670Z",
+    "coverage": 1,
+    "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "f0197120c327",
+    "slug": "ai-agentlari-inson-vositasisiz-muloqot-qilishi-f01971",
+    "title": "AI agentlari inson vositasisiz muloqot qilishi",
+    "summary": "Habr nashri AI agentlarining inson vositasisiz o'zaro muloqot qilish zarurligini ta'kidladi. Hozirda ular inson orqali bog'langan bo'lsa-da, kelajakda to'g'ridan-to'g'ri aloqa muhim bo'ladi.",
+    "tags": [
+      "tadqiqot",
+      "agentlar"
+    ],
+    "importance": 2,
+    "score": 11,
+    "published": "2026-11-24T18:15:30.000Z",
+    "created": "2026-11-25T00:02:08.670Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1110526",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "e443eee677cf",
+    "slug": "yangi-ai-suv-belgilari-mualliflikni-xiralashtirmoqda-e443ee",
+    "title": "Yangi AI suv belgilari mualliflikni xiralashtirmoqda",
+    "summary": "Yangi AI suv belgilari (watermarks) inson va sun'iy intellekt tomonidan yozilgan matnlar o'rtasidagi farqni aniqlashni qiyinlashtirmoqda. Bu mualliflik masalasida noaniqlikni keltirib chiqarmoqda.",
+    "tags": [
+      "xavfsizlik",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 7,
+    "published": "2026-11-24T22:12:51.000Z",
+    "created": "2026-11-25T00:02:08.670Z",
+    "coverage": 1,
+    "source": {
+      "name": "New University",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOd2p0VzNmWUxOUVNnaDN4NUI2U2tBQTlFbDk3T29zR29iRjBqUE5TUlJwYy10UUFYamJpbzAxZ2dONFA2ZTBnNk1tUTctbHpxaVJlU1dQMkJEQlplRHQ1YnZWZUxGT2dNY2RycWttaU1qZTRXVDhFRU15YVhVbWd1ckhyRmZsclhITmlEeXBUeDA",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "c55ba18e4cc4",
     "slug": "dell-uchinchi-chorakda-sotuvlarini-ikki-baravarga-oshirdi-c55ba1",
     "title": "Dell uchinchi chorakda sotuvlarini ikki baravarga oshirdi",
