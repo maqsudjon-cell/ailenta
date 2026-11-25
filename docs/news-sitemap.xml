@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://ailenta.uz/x/ilmiy-maqolalarda-ai-kontenti-keskin-kopaydi-933c44/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>AI Lenta</news:name>
+        <news:language>uz</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-25T08:13:48.000Z</news:publication_date>
+      <news:title>Ilmiy maqolalarda AI kontenti keskin ko'paydi</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://ailenta.uz/x/oceanbase-korxonalar-uchun-ai-platformasini-yaratmoqda-0d4909/</loc>
     <news:news>
       <news:publication>
@@ -1044,39 +1055,6 @@
       </news:publication>
       <news:publication_date>2026-11-23T09:11:01.000Z</news:publication_date>
       <news:title>San-Fransiskoda robotlashtirilgan xizmatlar sinovdan o'tdi</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://ailenta.uz/x/spotta-mehmonxonalarda-taxtaparakni-aniqlashda-ai-qollamoqda-8a2da5/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>AI Lenta</news:name>
-        <news:language>uz</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-23T09:05:54.000Z</news:publication_date>
-      <news:title>Spotta mehmonxonalarda taxtaparakni aniqlashda AI qo'llamoqda</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://ailenta.uz/x/uoll-strit-ai-savdosini-optimizmni-kamaytirib-saqlaydi-f2bcef/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>AI Lenta</news:name>
-        <news:language>uz</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-23T09:01:08.000Z</news:publication_date>
-      <news:title>Uoll-strit AI savdosini optimizmni kamaytirib saqlaydi</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://ailenta.uz/x/ai-agentlari-tushunish-qarzi-muammosini-keltirmoqda-d5d555/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>AI Lenta</news:name>
-        <news:language>uz</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-23T08:47:17.000Z</news:publication_date>
-      <news:title>AI agentlari tushunish qarzi muammosini keltirmoqda</news:title>
     </news:news>
   </url>
 </urlset>
