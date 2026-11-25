@@ -1,5 +1,95 @@
 [
   {
+    "id": "88aef6d95408",
+    "slug": "nyu-yorkda-ai-chat-botli-oyinchoqlar-taqiqlandi-88aef6",
+    "title": "Nyu-Yorkda AI chat-botli o'yinchoqlar taqiqlandi",
+    "summary": "Nyu-York gubernatori Keti Hochul AI chat-botlari bilan ishlaydigan o'yinchoqlarni ishlab chiqarish va sotishga besh yillik taqiq qo'yuvchi qonunni imzoladi. Bu taqiq bolalar bilan suhbatlashish uchun internetdan foydalanadigan yumshoq o'yinchoqlar, qo'g'irchoqlar va robotlarni o'z ichiga oladi.",
+    "tags": [
+      "qonun",
+      "xavfsizlik"
+    ],
+    "importance": 4,
+    "score": 26,
+    "published": "2026-11-25T15:29:21.000Z",
+    "created": "2026-11-25T18:36:11.087Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/us-news/2026/nov/25/new-york-bans-ai-toys",
+      "title": "New York bans AI toys, including those using internet to talk to children",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "b09edc81c39d",
+    "slug": "kuchli-ammo-oldindan-aytib-bolmaydigan-ai-sotilmaydi-b09edc",
+    "title": "Kuchli, ammo oldindan aytib bo'lmaydigan AI sotilmaydi",
+    "summary": "Semafor nashri xabariga ko'ra, kuchli, ammo oldindan aytib bo'lmaydigan sun'iy intellekt mahsulotini hech kim sotib olmaydi. Ish o'rinlarini almashtiruvchi AI yaratishdagi muvaffaqiyatsizlik jamiyat uchun yaxshi yangilikdir.",
+    "tags": [
+      "biznes",
+      "mehnat bozori"
+    ],
+    "importance": 2,
+    "score": 19,
+    "published": "2026-11-25T17:31:33.000Z",
+    "created": "2026-11-25T18:36:11.114Z",
+    "coverage": 1,
+    "source": {
+      "name": "Semafor",
+      "url": "https://semafor.com/article/11/25/2026/powerful-but-unpredictable-ai-is-a-product-no-one-will-buy",
+      "title": "Powerful but unpredictable AI is a product no one will buy",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "f5b8a2db69f0",
+    "slug": "ai-rivojlanishi-boyicha-xavotirlar-saqlanib-qolmoqda-f5b8a2",
+    "title": "AI rivojlanishi bo'yicha xavotirlar saqlanib qolmoqda",
+    "summary": "BBC News xabariga ko'ra, sun'iy intellekt sohasidagi jadal o'sish bilan bog'liq xavotirlar yo'qolgani yo'q. Nvidia rahbari Jensen Xuangning qaytishi ham bu muammolarni hal qilmaydi.",
+    "tags": [
+      "iqtisod",
+      "xavfsizlik"
+    ],
+    "importance": 2,
+    "score": 21.1,
+    "published": "2026-11-24T18:21:43.000Z",
+    "created": "2026-11-25T18:36:52.581Z",
+    "coverage": 1,
+    "source": {
+      "name": "BBC News",
+      "url": "https://bbc.co.uk/news/articles/c6894evgpel5o?at_medium=RSS&at_campaign=rss",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "bc6da71a174e",
+    "slug": "minecraft-yaratuvchisi-aiga-qarshi-fikrini-ozgartirdi-bc6da7",
+    "title": "Minecraft yaratuvchisi AIga qarshi fikrini o'zgartirdi",
+    "summary": "Minecraft yaratuvchisi Markus \"Notch\" Persson avval \"AIga qarshi\" deb yozgan bo'lsa, to'rt oy o'tib Anthropic'dan Claude uchun ko'proq tokenlar so'rab murojaat qildi. U AI yordamida nimanidir yaratayotganini aytdi.",
+    "tags": [
+      "Anthropic",
+      "ochiq model"
+    ],
+    "importance": 3,
+    "score": 17,
+    "published": "2026-11-25T16:20:26.000Z",
+    "created": "2026-11-25T18:36:52.581Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1112364",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "a7b92716be77",
     "slug": "oilada-ai-xavflari-haqida-gaplashish-qiyinlashmoqda-a7b927",
     "title": "Oilada AI xavflari haqida gaplashish qiyinlashmoqda",

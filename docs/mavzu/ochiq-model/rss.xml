@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/ochiq-model/</link>
   <description>&quot;ochiq model&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Wed, 25 Nov 2026 18:14:23 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 25 Nov 2026 18:46:32 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/ochiq-model/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Minecraft yaratuvchisi AIga qarshi fikrini o'zgartirdi</title>
+    <link>https://ailenta.uz/x/minecraft-yaratuvchisi-aiga-qarshi-fikrini-ozgartirdi-bc6da7/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/minecraft-yaratuvchisi-aiga-qarshi-fikrini-ozgartirdi-bc6da7/</guid>
+    <pubDate>Wed, 25 Nov 2026 16:20:26 GMT</pubDate>
+    <description>Minecraft yaratuvchisi Markus &quot;Notch&quot; Persson avval &quot;AIga qarshi&quot; deb yozgan bo'lsa, to'rt oy o'tib Anthropic'dan Claude uchun ko'proq tokenlar so'rab murojaat qildi. U AI yordamida nimanidir yaratayotganini aytdi.</description>
+    <category>Anthropic</category><category>ochiq model</category>
+    <media:content url="https://ailenta.uz/og/minecraft-yaratuvchisi-aiga-qarshi-fikrini-ozgartirdi-bc6da7.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/minecraft-yaratuvchisi-aiga-qarshi-fikrini-ozgartirdi-bc6da7.jpg"/>
+  </item>
   <item>
     <title>Amap interaktiv video uchun Iris og'irliklarini chiqardi</title>
     <link>https://ailenta.uz/x/amap-interaktiv-video-uchun-iris-ogirliklarini-chiqardi-0b553f/</link>
@@ -296,16 +306,6 @@
     <category>ochiq model</category><category>biznes</category>
     <media:content url="https://ailenta.uz/og/sextant-dasturining-kodini-ai-yozmoqda-2875e6.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/sextant-dasturining-kodini-ai-yozmoqda-2875e6.jpg"/>
-  </item>
-  <item>
-    <title>openEuler Xitoy ish stoli operatsion tizimini taqdim etdi</title>
-    <link>https://ailenta.uz/x/openeuler-xitoy-ish-stoli-operatsion-tizimini-taqdim-etdi-563d51/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/openeuler-xitoy-ish-stoli-operatsion-tizimini-taqdim-etdi-563d51/</guid>
-    <pubDate>Tue, 20 Oct 2026 15:30:00 GMT</pubDate>
-    <description>Xitoyning openEuler loyihasi doirasida AI vositalari va konteynerlar bilan jihozlangan ish stoli operatsion tizimi taqdim etildi. U CentOS negizida yaratilgan bo'lib, mamlakatning dasturiy ta'minot sohasidagi intilishlarini ko'rsatadi.</description>
-    <category>ochiq model</category>
-    <media:content url="https://ailenta.uz/og/openeuler-xitoy-ish-stoli-operatsion-tizimini-taqdim-etdi-563d51.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/openeuler-xitoy-ish-stoli-operatsion-tizimini-taqdim-etdi-563d51.jpg"/>
   </item>
 </channel>
 </rss>
