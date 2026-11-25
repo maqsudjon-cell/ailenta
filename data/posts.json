@@ -1,5 +1,71 @@
 [
   {
+    "id": "0d4f5559103b",
+    "slug": "aqshda-chip-ortiqchaligi-xavotirlari-kuchaymoqda-0d4f55",
+    "title": "AQSHda chip ortiqchaligi xavotirlari kuchaymoqda",
+    "summary": "Tahlilchilar AQSHda chip ortiqchaligi yuzasidan xavotir bildirmoqda. AI rivojlanishi ma'lumot markazlari uchun zarur quvvat va chiplar yetishmovchiligi bilan cheklangan.",
+    "tags": [
+      "chiplar",
+      "iqtisod"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-11-25T12:02:17.000Z",
+    "created": "2026-11-25T12:36:17.148Z",
+    "coverage": 1,
+    "source": {
+      "name": "Semafor",
+      "url": "https://semafor.com/article/11/25/2026/analysts-raise-concerns-over-impending-us-chip-glut",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "00b88325333d",
+    "slug": "ai-tibbiyotda-daromad-uchun-ishlatilmoqda-00b883",
+    "title": "AI tibbiyotda daromad uchun ishlatilmoqda",
+    "summary": "Bir bemorning MRI natijasi noto'g'ri o'qilgani sababli operatsiya qilingan. Bu xatoni aniqlashi mumkin bo'lgan AI mavjud, ammo tibbiyotda AI asosan daromadni oshirish uchun qo'llanilmoqda.",
+    "tags": [
+      "tibbiyot",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-11-25T12:00:00.000Z",
+    "created": "2026-11-25T12:36:17.148Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/11/25/garner-health-ceo-ai-healthcare-incentives-misread-mri",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "3c5c825485e5",
+    "slug": "ai-tibbiyot-kompaniyalari-narxlarni-kamaytirishni-taklif-etd-3c5c82",
+    "title": "AI tibbiyot kompaniyalari narxlarni kamaytirishni taklif etdi",
+    "summary": "AI tibbiyot kompaniyalari Medicare'dan o'z narxlarini pasaytirishni so'ramoqda. Bu tibbiyot sohasida AI \"dividendi\" yoki \"solig'i\" bo'lishi mumkinligi haqida savol tug'diradi.",
+    "tags": [
+      "tibbiyot",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-11-25T12:00:00.000Z",
+    "created": "2026-11-25T12:36:17.148Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/11/25/medicare-should-cut-our-prices-ai",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "4e9dcbd36a6c",
     "slug": "zelenskiy-suniy-intellektdan-foydalanaman-va-u-yoqadi-4e9dcb",
     "title": "Zelenskiy: Sun'iy intellektdan foydalanaman va u yoqadi",
