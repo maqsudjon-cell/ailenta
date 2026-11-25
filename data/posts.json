@@ -1,5 +1,49 @@
 [
   {
+    "id": "0d490977e6fe",
+    "slug": "oceanbase-korxonalar-uchun-ai-platformasini-yaratmoqda-0d4909",
+    "title": "OceanBase korxonalar uchun AI platformasini yaratmoqda",
+    "summary": "OceanBase kompaniyasi to'lov tizimlari va bank ish yuklamalarini boshqarishdan so'ng, endi korxonalarga AI agentlarini ishga tushirishda yordam berishni maqsad qilgan.",
+    "tags": [
+      "biznes",
+      "agentlar"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-11-25T07:00:16.000Z",
+    "created": "2026-11-25T07:01:33.147Z",
+    "coverage": 1,
+    "source": {
+      "name": "TechNode",
+      "url": "https://technode.com/2026/11/25/oceanbases-databricks-moment-building-an-enterprise-ai-platform-on-its-core-database-roots",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "2ca8dee2bf96",
+    "slug": "nvda-va-ant-ai-bozorida-pasayishga-sabab-boldi-2ca8de",
+    "title": "NVDA va ANT AI bozorida pasayishga sabab bo'ldi",
+    "summary": "Nvidia (NVDA) va Ant Group (ANT) kompaniyalari AI bozorida pasayishga olib keldi. Bu holat fyuchers narxlarining tushishiga sabab bo'ldi.",
+    "tags": [
+      "Nvidia",
+      "iqtisod"
+    ],
+    "importance": 3,
+    "score": 7,
+    "published": "2026-11-24T22:06:00.000Z",
+    "created": "2026-11-25T07:01:33.147Z",
+    "coverage": 1,
+    "source": {
+      "name": "Investor's Business Daily",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObWw4eE5yZDh5Y2txUlN4SkdLSTNKTVNsOUoydXcyUmZUUTg1TmpHMC0xZUVjYUN0ZS1RekJYcm5hQ2IzdGdManRvSFlMOVFWSExTYzUzRHhQcldZZDRYUzdkMDZFVFk3bV8xbVhUaDZJb3RNNy1FN0tGWHZVeUR1ZC14RjVwdjZEV2tucDYwN3I5Q1BPenk1TUdTcHBucVIxYlNETnMwZ3A5NnlvMlEtYXBFb2hlajExcElDa2thRXhlRnN5dmc",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "8d70bbdb3525",
     "slug": "hakerlar-aqsh-razvedka-idoralari-tizimiga-buzib-kirdi-8d70bb",
     "title": "Hakerlar AQSH razvedka idoralari tizimiga buzib kirdi",
