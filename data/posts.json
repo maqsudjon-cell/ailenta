@@ -1,42 +1,63 @@
 [
   {
-    "id": "53d7bcdf5df6",
-    "slug": "yevropa-kvant-texnologiyasiga-15-9-milliard-dollar-sarfladi-53d7bc",
-    "title": "Yevropa kvant texnologiyasiga 15.9 milliard dollar sarfladi",
-    "summary": "Yevropa kvant poygasida g'olib chiqish uchun 15.9 milliard dollar sarfladi. AI inqilobida ortda qolgan qit'a ushbu yangi texnologiya orqali yetakchilikni qo'lga kiritishni mo'ljallamoqda.",
+    "id": "7d3614cb9346",
+    "slug": "anthropic-matematiki-ai-bilan-muammoni-tahlil-qildi-7d3614",
+    "title": "Anthropic matematiki AI bilan muammoni tahlil qildi",
+    "summary": "Anthropic kompaniyasida ishlaydigan matematik Levent Alpoge va uning hamkorlari sun'iy intellekt yordamida murakkab matematik masalalarni o'rgandi. Ular Riman gipotezasini tahlil qilishda ko'p sonli tajribalarni amalga oshirdi.",
     "tags": [
-      "iqtisod",
-      "siyosat"
+      "Anthropic",
+      "tadqiqot"
     ],
     "importance": 3,
-    "score": 19,
-    "published": "2026-11-25T08:29:01.000Z",
-    "created": "2026-11-25T09:58:28.223Z",
+    "score": 29,
+    "published": "2026-11-25T10:05:15.000Z",
+    "created": "2026-11-25T10:19:38.789Z",
     "coverage": 1,
     "source": {
-      "name": "Fortune",
-      "url": "https://fortune.com/2026/11/25/europe-has-spent-15-9-billion-win-quantum-race",
+      "name": "The Guardian",
+      "url": "https://theguardian.com/commentisfree/2026/nov/25/ai-mathematics-human-knowledge-progress-technology-industry",
       "indirect": false
     },
     "also": [],
     "model": "gemini"
   },
   {
-    "id": "6b0979d7a5d1",
-    "slug": "byd-uchinchi-avlod-tang-ev-elektromobilini-chiqardi-6b0979",
-    "title": "BYD uchinchi avlod Tang EV elektromobilini chiqardi",
-    "summary": "BYD 850 km masofa zaxirasiga ega uchinchi avlod Tang EV elektromobilini chiqardi. Besh o'rindiqli ushbu SUV narxi 187 900 yuandan 219 900 yuangacha qilib belgilandi.",
+    "id": "965f5a0be2a8",
+    "slug": "ea-fc-27-o-yiniga-ai-yaratgan-jon-motson-qo-shildi-965f5a",
+    "title": "EA FC 27 o‘yiniga AI yaratgan Jon Motson qo‘shildi",
+    "summary": "EA kompaniyasi FC 27 video o'yiniga 26-noyabr kuni sun'iy intellekt yordamida yaratilgan Jon Motsonni qo'shadi. Ushbu qadam uning o'g'li va rafiqasining roziligi bilan amalga oshirildi.",
     "tags": [
       "biznes"
     ],
-    "importance": 2,
-    "score": 15,
-    "published": "2026-11-25T03:19:05.000Z",
-    "created": "2026-11-25T09:58:28.223Z",
+    "importance": 3,
+    "score": 23,
+    "published": "2026-11-25T10:11:34.000Z",
+    "created": "2026-11-25T10:19:38.789Z",
     "coverage": 1,
     "source": {
-      "name": "TechNode",
-      "url": "https://technode.com/2026/11/25/byd-launches-third-generation-tang-ev-with-850km-range-and-steer-by-wire-technology",
+      "name": "BBC News",
+      "url": "https://bbc.co.uk/news/articles/c65y10j841jpo?at_medium=RSS&at_campaign=rss",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "53d7bcdf5df6",
+    "slug": "yevropa-kvant-sohasi-uchun-15-9-milliard-dollar-sarfladi-53d7bc",
+    "title": "Yevropa kvant sohasi uchun 15.9 milliard dollar sarfladi",
+    "summary": "Yevropa sun'iy intellekt inqilobida ortda qolganidan so'ng kvant texnologiyalarida ustunlikni egallash uchun 15.9 milliard dollar sarfladi. Bu investitsiya qit'aga yangi texnologiyalar sohasida imkoniyat taqdim etishi kutilmoqda.",
+    "tags": [
+      "iqtisod"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-11-25T08:29:01.000Z",
+    "created": "2026-11-25T10:19:38.789Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/11/25/europe-has-spent-15-9-billion-win-quantum-race",
       "indirect": false
     },
     "also": [],
