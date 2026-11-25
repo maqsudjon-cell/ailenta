@@ -1,5 +1,68 @@
 [
   {
+    "id": "8d70bbdb3525",
+    "slug": "hakerlar-aqsh-razvedka-idoralari-tizimiga-buzib-kirdi-8d70bb",
+    "title": "Hakerlar AQSH razvedka idoralari tizimiga buzib kirdi",
+    "summary": "AQSH razvedka idoralari tizimiga kiberhujumlar amalga oshirildi. Ushbu hujumlar xitoylik muhandis yaratgan Artex nomli sun'iy intellekt vositasi yordamida bajarilgani taxmin qilinmoqda.",
+    "tags": [
+      "xavfsizlik"
+    ],
+    "importance": 4,
+    "score": 48,
+    "published": "2026-11-25T06:26:57.000Z",
+    "created": "2026-11-25T06:36:25.510Z",
+    "coverage": 1,
+    "source": {
+      "name": "Daryo",
+      "url": "https://daryo.uz/2026/11/25/hakerlar-aqsh-razvedka-idoralarining-tizimiga-buzib-kirdi-nyt",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "1be370d52d2a",
+    "slug": "ozbekistonda-ai-asosida-filmlar-yaratiladi-1be370",
+    "title": "O'zbekistonda AI asosida filmlar yaratiladi",
+    "summary": "O'zbekistonda sun'iy intellekt texnologiyalari yordamida filmlar yaratilishi rejalashtirilmoqda. Buning uchun mamlakat tarixi va madaniyatiga oid ma'lumotlar bazasi — maxsus data-set ishga tushiriladi.",
+    "tags": [
+      "O'zbekiston"
+    ],
+    "importance": 3,
+    "score": 48,
+    "published": "2026-11-25T05:55:14.000Z",
+    "created": "2026-11-25T06:36:25.510Z",
+    "coverage": 1,
+    "source": {
+      "name": "Daryo",
+      "url": "https://daryo.uz/2026/11/25/ozbekistonda-suniy-intellekt-texnologiyalari-asosida-filmlar-yaratiladi",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "92b9a0982aba",
+    "slug": "ai-sohasidagi-mutaxassislar-kriptoga-qaytishi-aytildi-92b9a0",
+    "title": "AI sohasidagi mutaxassislar kriptoga qaytishi aytildi",
+    "summary": "Maelstrom investitsiya direktori Artur Heyts AI sohasi 2027-yilda qiyinchilikka duch kelishini aytdi. Uning fikricha, shundan so'ng startap mutaxassislari yana kriptovalyuta sohasiga qaytadi.",
+    "tags": [
+      "iqtisod"
+    ],
+    "importance": 2,
+    "score": 19,
+    "published": "2026-11-25T06:09:44.000Z",
+    "created": "2026-11-25T06:36:25.510Z",
+    "coverage": 1,
+    "source": {
+      "name": "CNBC",
+      "url": "https://cnbc.com/2026/11/25/talents-crypto-ai-investment.html",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "aa33fe05c91d",
     "slug": "dell-va-hpe-kompaniyalari-ai-bilan-ozgarganini-elon-qildi-aa33fe",
     "title": "Dell va HPE kompaniyalari AI bilan o'zgarganini e'lon qildi",
