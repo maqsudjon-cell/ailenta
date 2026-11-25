@@ -1,21 +1,43 @@
 [
   {
-    "id": "933c447f4bf4",
-    "slug": "ilmiy-maqolalarda-ai-kontenti-keskin-kopaydi-933c44",
-    "title": "Ilmiy maqolalarda AI kontenti keskin ko'paydi",
-    "summary": "Tadqiqotlarga ko'ra, 2025-yilga kelib chop etilgan ilmiy maqolalarning 57 foizida katta til modellarining ta'siri aniqlandi. 2023-yilda bu ko'rsatkich 12 foizni tashkil etgan edi. Sohadagi filtrlash tizimlari bunday kontentni to'xtatishda qiyinchilikka uchramoqda.",
+    "id": "1c833aea5309",
+    "slug": "ozbekistonda-tibbiyotni-raqamlashtirish-va-ai-kengaymoqda-1c833a",
+    "title": "O'zbekistonda tibbiyotni raqamlashtirish va AI kengaymoqda",
+    "summary": "O'zbekiston sog'liqni saqlash tizimida DMED hamda sun'iy intellekt tizimlari joriy etilmoqda. Mamlakatda tibbiyot xizmatlarini raqamlashtirish va integratsiya qilish ishlari kengaytirilishi kutilmoqda.",
     "tags": [
-      "tadqiqot",
-      "ta'lim"
+      "O'zbekiston",
+      "tibbiyot"
     ],
     "importance": 3,
-    "score": 11,
-    "published": "2026-11-25T08:13:48.000Z",
-    "created": "2026-11-25T08:57:43.759Z",
+    "score": 44,
+    "published": "2026-11-25T07:00:00.000Z",
+    "created": "2026-11-25T09:08:36.088Z",
     "coverage": 1,
     "source": {
-      "name": "Habr",
-      "url": "https://habr.com/ru/articles/1111896",
+      "name": "UzDaily",
+      "url": "https://uzdaily.uz/uz/%C3%B6zbekistonda-so%C4%9Fliqni-saqla%C5%9F-tizimini-raqamla%C5%9Ftiri%C5%9F-kengaytirilmoqda",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "bdeaaf77ada1",
+    "slug": "meta-ozining-muse-ai-agentini-buyuk-britaniyada-chiqardi-bdeaaf",
+    "title": "Meta o'zining Muse AI agentini Buyuk Britaniyada chiqardi",
+    "summary": "Meta kompaniyasi Muse nomli shaxsiy AI agentini Buyuk Britaniyadagi kattalar uchun taqdim etdi. Foydalanuvchilar uni elektron pochta va kalendar kabi ilovalarga ulashlari mumkin. Agent muhim amallarni bajarishdan oldin ruxsat so'raydi.",
+    "tags": [
+      "Meta",
+      "agentlar"
+    ],
+    "importance": 4,
+    "score": 29.9,
+    "published": "2026-11-24T06:00:04.000Z",
+    "created": "2026-11-25T09:08:36.089Z",
+    "coverage": 1,
+    "source": {
+      "name": "Meta",
+      "url": "https://about.fb.com/news/2026/11/muse-now-available-in-the-uk-muse-does-the-work-you-stay-in-control",
       "indirect": false
     },
     "also": [],

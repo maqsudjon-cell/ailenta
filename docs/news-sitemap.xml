@@ -2,17 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
-    <loc>https://ailenta.uz/x/ilmiy-maqolalarda-ai-kontenti-keskin-kopaydi-933c44/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>AI Lenta</news:name>
-        <news:language>uz</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-25T08:13:48.000Z</news:publication_date>
-      <news:title>Ilmiy maqolalarda AI kontenti keskin ko'paydi</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://ailenta.uz/x/oceanbase-korxonalar-uchun-ai-platformasini-yaratmoqda-0d4909/</loc>
     <news:news>
       <news:publication>
@@ -32,6 +21,17 @@
       </news:publication>
       <news:publication_date>2026-11-25T07:00:01.000Z</news:publication_date>
       <news:title>Chipotle AI yordamida taomga talabni taxmin qilmoqda</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://ailenta.uz/x/ozbekistonda-tibbiyotni-raqamlashtirish-va-ai-kengaymoqda-1c833a/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>AI Lenta</news:name>
+        <news:language>uz</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-25T07:00:00.000Z</news:publication_date>
+      <news:title>O'zbekistonda tibbiyotni raqamlashtirish va AI kengaymoqda</news:title>
     </news:news>
   </url>
   <url>
@@ -527,6 +527,17 @@
       </news:publication>
       <news:publication_date>2026-11-24T06:30:07.000Z</news:publication_date>
       <news:title>Tempest Britaniya so'nggi odamli qiruvchisi bo'lishi mumkin</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://ailenta.uz/x/meta-ozining-muse-ai-agentini-buyuk-britaniyada-chiqardi-bdeaaf/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>AI Lenta</news:name>
+        <news:language>uz</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-24T06:00:04.000Z</news:publication_date>
+      <news:title>Meta o'zining Muse AI agentini Buyuk Britaniyada chiqardi</news:title>
     </news:news>
   </url>
   <url>
@@ -1033,28 +1044,6 @@
       </news:publication>
       <news:publication_date>2026-11-23T10:00:01.000Z</news:publication_date>
       <news:title>Ajrimlar sohasida yangi AI biznes g'oyalari paydo bo'lmoqda</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://ailenta.uz/x/aqsh-gubernatorlari-ai-nazorati-rollarini-bolishni-taklif-qi-750a17/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>AI Lenta</news:name>
-        <news:language>uz</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-23T09:15:03.000Z</news:publication_date>
-      <news:title>AQSh gubernatorlari AI nazorati rollarini bo'lishni taklif qildi</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://ailenta.uz/x/san-fransiskoda-robotlashtirilgan-xizmatlar-sinovdan-otdi-5a7561/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>AI Lenta</news:name>
-        <news:language>uz</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-23T09:11:01.000Z</news:publication_date>
-      <news:title>San-Fransiskoda robotlashtirilgan xizmatlar sinovdan o'tdi</news:title>
     </news:news>
   </url>
 </urlset>
