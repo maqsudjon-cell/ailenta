@@ -1,5 +1,71 @@
 [
   {
+    "id": "92419877312e",
+    "slug": "aqsh-shtatlari-character-aining-shaxsiy-chatlarni-sotishiga--924198",
+    "title": "AQSH shtatlari Character AI'ning shaxsiy chatlarni sotishiga qarshi",
+    "summary": "TechCrunch xabariga ko'ra, AQSH shtatlari Character.ai kompaniyasining foydalanuvchilar shaxsiy chatlarini sotish rejasiga qarshi chiqmoqda. Taklif etilayotgan bankrotlik savdosi 21 milliondan ortiq AQSH akkauntlarining, shu jumladan 2.1 million voyaga yetmaganlarning maxfiy ma'lumotlarini o'z ichiga oladi.",
+    "tags": [
+      "maxfiylik",
+      "sud"
+    ],
+    "importance": 4,
+    "score": 15,
+    "published": "2026-11-25T17:35:58.000Z",
+    "created": "2026-11-25T19:07:59.748Z",
+    "coverage": 1,
+    "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "dec3f7d4f422",
+    "slug": "voynich-qolyozmasini-ai-agentlari-deshifrlash-loyihasi-dec3f7",
+    "title": "Voynich qo'lyozmasini AI agentlari deshifrlash loyihasi",
+    "summary": "GitHub foydalanuvchisi Ayan Bandyopadhyay Voynich Swarm loyihasini ishga tushirdi. Bu loyiha AI agentlari yordamida Voynich qo'lyozmasini kollektiv ilmiy tadqiqot orqali deshifrlashga qaratilgan bo'lib, har kim o'z AI agenti bilan qo'shilishi mumkin.",
+    "tags": [
+      "agentlar",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 11,
+    "published": "2026-11-25T18:10:40.000Z",
+    "created": "2026-11-25T19:07:59.748Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1112398",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "93e131fbe100",
+    "slug": "hindiston-ai-qonunchiligi-hujjatlari-yakuniy-bosqichda-93e131",
+    "title": "Hindiston AI qonunchiligi hujjatlari yakuniy bosqichda",
+    "summary": "The Economic Times xabariga ko'ra, MeitY kotibi S Krishnan Hindistonning sun'iy intellekt bo'yicha qonunchilik hujjatlari yakuniy bosqichda ekanligini va tez orada e'lon qilinishini ma'lum qildi.",
+    "tags": [
+      "qonun",
+      "siyosat"
+    ],
+    "importance": 3,
+    "score": 11,
+    "published": "2026-11-25T15:20:57.000Z",
+    "created": "2026-11-25T19:07:59.748Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQeGl1aU50aE9NMVNOcDN2U2YtSmlVV3ZCX3lwOGc1X1U2ZGtvLW4zNklWM2kxc2tXM3RNVWx2d2dZZWI3QW9NWkRUNXdaZFpERHI4eEFiYkJyaVpfTVdkb01tNExkS2lZVWx2TnM4Vmtpcms4Q19ldUlxYTVNV3ZIbEtXaWFxZklaOFV3RzJHMTFCR2RPWTNNcFVfVjJTc3EycjJBZ1ZJNFotb2NBZVZITnFLNmhqeFlPUjVsaVhxbmVIcURFWXZjeGRES3liRVJYclFaWEIxajdxRjlVZFlxTHhiN0FzVVBMUm1JTnRQT3ozczRqR0xsb29Dem4wd9IBgwJBVV95cUxQc0RLa2pVOU9NZzVRZDNzeWs3VG5FczJULW11WU9HdE4xVkpMbC1rYXhFNXdpUlJBaGpleWcxWGVxWjM2RkpjZEt2X3FZaldkZ2ltcE9TV3RSUkd3LUh5X184Tk1VaEd1ODNVWEw5S2FoeGtJcW56SkUxbkE3SW4xeVlNZklONWp6Y1BDZ0M1eHFWS01ieHl5cUdFYTFsQ3d0QWM0TWhpV1RHS0lTeTNMTFV1eTBiUGctNHhGd2hlWW8xNkhaVFFiUHlyZnlWY3IyMkhzV2R2X2x5bTNWcGhFUFVLSUZydHZvcUwzSEs5RlNLQ3c0ZGdhUGNQdTJybDR2QWVv",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "88aef6d95408",
     "slug": "nyu-yorkda-ai-chat-botli-oyinchoqlar-taqiqlandi-88aef6",
     "title": "Nyu-Yorkda AI chat-botli o'yinchoqlar taqiqlandi",

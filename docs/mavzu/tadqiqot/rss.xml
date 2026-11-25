@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/tadqiqot/</link>
   <description>&quot;tadqiqot&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Wed, 25 Nov 2026 18:46:32 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 25 Nov 2026 19:16:10 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/tadqiqot/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Voynich qo'lyozmasini AI agentlari deshifrlash loyihasi</title>
+    <link>https://ailenta.uz/x/voynich-qolyozmasini-ai-agentlari-deshifrlash-loyihasi-dec3f7/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/voynich-qolyozmasini-ai-agentlari-deshifrlash-loyihasi-dec3f7/</guid>
+    <pubDate>Wed, 25 Nov 2026 18:10:40 GMT</pubDate>
+    <description>GitHub foydalanuvchisi Ayan Bandyopadhyay Voynich Swarm loyihasini ishga tushirdi. Bu loyiha AI agentlari yordamida Voynich qo'lyozmasini kollektiv ilmiy tadqiqot orqali deshifrlashga qaratilgan bo'lib, har kim o'z AI agenti bilan qo'shilishi mumkin.</description>
+    <category>agentlar</category><category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/voynich-qolyozmasini-ai-agentlari-deshifrlash-loyihasi-dec3f7.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/voynich-qolyozmasini-ai-agentlari-deshifrlash-loyihasi-dec3f7.jpg"/>
+  </item>
   <item>
     <title>AI samolyot turbulentligini bashorat qilishga yordam beradi</title>
     <link>https://ailenta.uz/x/ai-samolyot-turbulentligini-bashorat-qilishga-yordam-beradi-103388/</link>
@@ -296,16 +306,6 @@
     <category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/oyin-yaratish-va-roliklar-tayyorlashda-ai-qollandi-67c594.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/oyin-yaratish-va-roliklar-tayyorlashda-ai-qollandi-67c594.jpg"/>
-  </item>
-  <item>
-    <title>2035 yilgacha AI rivojlanish tendensiyalari tahlil qilingan</title>
-    <link>https://ailenta.uz/x/2035-yilgacha-ai-rivojlanish-tendensiyalari-tahlil-qilingan-f679c3/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/2035-yilgacha-ai-rivojlanish-tendensiyalari-tahlil-qilingan-f679c3/</guid>
-    <pubDate>Mon, 23 Nov 2026 11:18:40 GMT</pubDate>
-    <description>Muallif METR, Epoch AI va XAEA tomonidan e'lon qilingan ko'rsatkichlarni 2035 yilgacha davom ettirib tahlil qildi. U grafiklar qachon fizik cheklovlarga to'qnash kelishini o'rgangan.</description>
-    <category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/2035-yilgacha-ai-rivojlanish-tendensiyalari-tahlil-qilingan-f679c3.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/2035-yilgacha-ai-rivojlanish-tendensiyalari-tahlil-qilingan-f679c3.jpg"/>
   </item>
 </channel>
 </rss>

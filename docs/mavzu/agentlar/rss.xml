@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/agentlar/</link>
   <description>&quot;agentlar&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Wed, 25 Nov 2026 18:46:32 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 25 Nov 2026 19:16:10 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/agentlar/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Voynich qo'lyozmasini AI agentlari deshifrlash loyihasi</title>
+    <link>https://ailenta.uz/x/voynich-qolyozmasini-ai-agentlari-deshifrlash-loyihasi-dec3f7/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/voynich-qolyozmasini-ai-agentlari-deshifrlash-loyihasi-dec3f7/</guid>
+    <pubDate>Wed, 25 Nov 2026 18:10:40 GMT</pubDate>
+    <description>GitHub foydalanuvchisi Ayan Bandyopadhyay Voynich Swarm loyihasini ishga tushirdi. Bu loyiha AI agentlari yordamida Voynich qo'lyozmasini kollektiv ilmiy tadqiqot orqali deshifrlashga qaratilgan bo'lib, har kim o'z AI agenti bilan qo'shilishi mumkin.</description>
+    <category>agentlar</category><category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/voynich-qolyozmasini-ai-agentlari-deshifrlash-loyihasi-dec3f7.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/voynich-qolyozmasini-ai-agentlari-deshifrlash-loyihasi-dec3f7.jpg"/>
+  </item>
   <item>
     <title>OceanBase korxonalar uchun AI platformasini yaratmoqda</title>
     <link>https://ailenta.uz/x/oceanbase-korxonalar-uchun-ai-platformasini-yaratmoqda-0d4909/</link>
@@ -296,16 +306,6 @@
     <category>agentlar</category><category>ta'lim</category>
     <media:content url="https://ailenta.uz/og/sber-ai-agentlari-boyicha-sertifikatlashni-yolga-qoydi-287782.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/sber-ai-agentlari-boyicha-sertifikatlashni-yolga-qoydi-287782.jpg"/>
-  </item>
-  <item>
-    <title>QMD koding agentlarida token sarfini 40 foizgacha tejaydi</title>
-    <link>https://ailenta.uz/x/qmd-koding-agentlarida-token-sarfini-40-foizgacha-tejaydi-b0aa4f/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/qmd-koding-agentlarida-token-sarfini-40-foizgacha-tejaydi-b0aa4f/</guid>
-    <pubDate>Mon, 16 Nov 2026 00:00:14 GMT</pubDate>
-    <description>Dasturchi koding agentlari fayllarni qidirishda semantik qidiruvdan foydalanishi bo'yicha tajriba o'tkazdi. QMD yordamida ushbu usul token sarfini 40 foizgacha tejashga yordam berdi.</description>
-    <category>agentlar</category>
-    <media:content url="https://ailenta.uz/og/qmd-koding-agentlarida-token-sarfini-40-foizgacha-tejaydi-b0aa4f.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/qmd-koding-agentlarida-token-sarfini-40-foizgacha-tejaydi-b0aa4f.jpg"/>
   </item>
 </channel>
 </rss>
