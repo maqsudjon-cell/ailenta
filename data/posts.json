@@ -1,5 +1,92 @@
 [
   {
+    "id": "a7b92716be77",
+    "slug": "oilada-ai-xavflari-haqida-gaplashish-qiyinlashmoqda-a7b927",
+    "title": "Oilada AI xavflari haqida gaplashish qiyinlashmoqda",
+    "summary": "Sun'iy intellekt sohasidagi mutaxassislar uchun oilaviy yig'inlarda AI xavflari haqida suhbatlashish noqulay mavzuga aylanishi mumkin. Bu yilgi bayram dasturxonida bu masala munozaralarga sabab bo'lishi kutilmoqda.",
+    "tags": [
+      "siyosat",
+      "xavfsizlik"
+    ],
+    "importance": 2,
+    "score": 30,
+    "published": "2026-11-25T10:04:13.000Z",
+    "created": "2026-11-25T17:02:06.335Z",
+    "coverage": 1,
+    "source": {
+      "name": "The New York Times",
+      "url": "https://nytimes.com/2026/11/25/technology/thanksgiving-ai-doom-family.html",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "038c78552333",
+    "slug": "matematiklar-ai-yutuqlaridan-hayratda-038c78",
+    "title": "Matematiklar AI yutuqlaridan hayratda",
+    "summary": "Matematiklar sun'iy intellekt sohasidagi yutuqlardan hayratda va xursand. Ular AI yordamida murakkab muammolarni hal qilish imkoniyatlari haqida fikr bildirmoqda.",
+    "tags": [
+      "tadqiqot",
+      "ta'lim"
+    ],
+    "importance": 2,
+    "score": 21,
+    "published": "2026-11-25T00:00:00.000Z",
+    "created": "2026-11-25T17:02:06.335Z",
+    "coverage": 1,
+    "source": {
+      "name": "Nature",
+      "url": "https://nature.com/articles/d41586-026-03835-0",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "641d392a0bcd",
+    "slug": "hp-ai-kompyuterlarini-daromad-manbai-deb-bilmoqda-641d39",
+    "title": "HP AI kompyuterlarini daromad manbai deb bilmoqda",
+    "summary": "HP kompaniyasi qisqarib borayotgan bozorda yuqori narxli AI kompyuterlarini daromad manbai sifatida ko'rmoqda. Xotira tanqisligi tufayli kompyuter yetkazib berish hajmi kamayishi kutilmoqda, ammo AI uchun mo'ljallangan yuqori marjali modellar foydani saqlab qoladi.",
+    "tags": [
+      "HP",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-11-25T17:00:00.000Z",
+    "created": "2026-11-25T17:02:06.335Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/personal-tech/2026/11/25/hp-sees-premium-priced-ai-pcs-as-its-meal-ticket-in-a-shrinking-market/5312174",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "06f7fa4dfc1f",
+    "slug": "every-media-aiga-yonaltirilgan-kompaniya-sarmoya-oldi-06f7fa",
+    "title": "Every media AIga yo'naltirilgan kompaniya sarmoya oldi",
+    "summary": "AIga yo'naltirilgan Every media kompaniyasi 17.5 million dollar sarmoya jalb qildi. Kompaniyaning bahosi 110 million dollarga yetdi, bu venchur kapitali tomonidan qo'llab-quvvatlanadigan medianing muvaffaqiyatiga ishonch bildiradi.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-11-25T10:15:16.000Z",
+    "created": "2026-11-25T17:02:06.335Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/11/25/every-raises-17-5-million-110-million-valuation-betting-venture-backed-media-can-work",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "48f1b6dff691",
     "slug": "ai-sababli-talabalar-dissertatsiyani-ogzaki-himoya-qilmoqda-48f1b6",
     "title": "AI sababli talabalar dissertatsiyani og'zaki himoya qilmoqda",
