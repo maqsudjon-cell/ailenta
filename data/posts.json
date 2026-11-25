@@ -1,5 +1,68 @@
 [
   {
+    "id": "4e9dcbd36a6c",
+    "slug": "zelenskiy-suniy-intellektdan-foydalanaman-va-u-yoqadi-4e9dcb",
+    "title": "Zelenskiy: Sun'iy intellektdan foydalanaman va u yoqadi",
+    "summary": "Ukraina prezidenti Vladimir Zelenskiy sun'iy intellektdan foydalanishini ma'lum qildi. Uning so'zlariga ko'ra, davlat organlari ham AI'dan keng foydalanmoqda, chunki mulozimlar tayyorlaydigan taqdimotlar bir xil.",
+    "tags": [
+      "siyosat"
+    ],
+    "importance": 2,
+    "score": 45,
+    "published": "2026-11-25T12:00:13.000Z",
+    "created": "2026-11-25T12:02:09.311Z",
+    "coverage": 1,
+    "source": {
+      "name": "Daryo",
+      "url": "https://daryo.uz/2026/11/25/suniy-intellektdan-foydalanaman-va-u-menga-yoqadi-zelenskiy",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "1033887459b7",
+    "slug": "ai-samolyot-turbulentligini-bashorat-qilishga-yordam-beradi-103388",
+    "title": "AI samolyot turbulentligini bashorat qilishga yordam beradi",
+    "summary": "Yangi mashina o'rganish va AI usullari yordamida samolyot turbulentligini bashorat qilish imkoniyatlari oshmoqda. Bu usullar terabaytlab ma'lumotlardan foydalanadi.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 26,
+    "published": "2026-11-25T11:30:00.000Z",
+    "created": "2026-11-25T12:02:09.311Z",
+    "coverage": 1,
+    "source": {
+      "name": "Wired",
+      "url": "https://wired.com/story/airplane-turbulence-is-extremely-hard-to-predict-and-avoid",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "3cf282c1884e",
+    "slug": "yahoo-ai-yordamida-qidiruvni-yaxshilashni-rejalashtirmoqda-3cf282",
+    "title": "Yahoo AI yordamida qidiruvni yaxshilashni rejalashtirmoqda",
+    "summary": "Yahoo kompaniyasi AI yordamida qidiruv xizmatlarini takomillashtirishni maqsad qilgan. Bu foydalanuvchilarni ko'proq havolalar va qidiruv imkoniyatlari bilan ta'minlashga qaratilgan.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-11-25T11:00:02.000Z",
+    "created": "2026-11-25T12:02:09.311Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/yahoo-jim-lanzone-ai-search-scout-podcast-kafka-2026-11",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "6d2775bbc9ca",
     "slug": "mit-iqlimni-bashorat-qiluvchi-ai-usulini-ishlab-chiqdi-6d2775",
     "title": "MIT iqlimni bashorat qiluvchi AI usulini ishlab chiqdi",
