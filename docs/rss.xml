@@ -5,8 +5,28 @@
   <link>https://ailenta.uz</link>
   <description>Dunyodagi sun'iy intellekt yangiliklari o'zbek tilida. Har soatda yangilanadi, har bir xabarda asl manbaga havola.</description>
   <language>uz</language>
-  <lastBuildDate>Wed, 25 Nov 2026 10:38:45 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 25 Nov 2026 11:09:15 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Afrikada AI ishqiy chat-botlari ommalashmoqda</title>
+    <link>https://ailenta.uz/x/afrikada-ai-ishqiy-chat-botlari-ommalashmoqda-3a57c2/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/afrikada-ai-ishqiy-chat-botlari-ommalashmoqda-3a57c2/</guid>
+    <pubDate>Wed, 25 Nov 2026 11:00:00 GMT</pubDate>
+    <description>Xorijiy sun'iy intellekt chat-botlari Afrikada yoshlar muloqotiga ta'sir o'tkazmoqda. Mahalliy cheklovlar yo'qligi sababli sintetik munosabatlarga qaramlik ortib bormoqda.</description>
+    <category>xavfsizlik</category>
+    <media:content url="https://ailenta.uz/og/afrikada-ai-ishqiy-chat-botlari-ommalashmoqda-3a57c2.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/afrikada-ai-ishqiy-chat-botlari-ommalashmoqda-3a57c2.jpg"/>
+  </item>
+  <item>
+    <title>MIT iqlimni bashorat qiluvchi AI usulini ishlab chiqdi</title>
+    <link>https://ailenta.uz/x/mit-iqlimni-bashorat-qiluvchi-ai-usulini-ishlab-chiqdi-6d2775/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/mit-iqlimni-bashorat-qiluvchi-ai-usulini-ishlab-chiqdi-6d2775/</guid>
+    <pubDate>Wed, 25 Nov 2026 10:47:51 GMT</pubDate>
+    <description>MIT tadqiqotchilari AI iqlim modellarini o'qitish uchun yangi usul yaratdi. Algoritm model barqarorligini oshirish uchun ataylab noaniq va ekstremal ssenariylarni hosil qiladi. Bu modellashtirishni bir marta amalga oshirishga imkon beradi.</description>
+    <category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/mit-iqlimni-bashorat-qiluvchi-ai-usulini-ishlab-chiqdi-6d2775.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/mit-iqlimni-bashorat-qiluvchi-ai-usulini-ishlab-chiqdi-6d2775.jpg"/>
+  </item>
   <item>
     <title>EA FC 27 o‘yiniga AI yaratgan Jon Motson qo‘shildi</title>
     <link>https://ailenta.uz/x/ea-fc-27-o-yiniga-ai-yaratgan-jon-motson-qo-shildi-965f5a/</link>
@@ -278,6 +298,16 @@
     <media:thumbnail url="https://ailenta.uz/og/jensen-huangning-deepfeyklari-yangi-ai-slop-ga-aylandi-b6222c.jpg"/>
   </item>
   <item>
+    <title>Yensen Xuang Nvidia rahbarligiga qaytdi</title>
+    <link>https://ailenta.uz/x/yensen-xuang-nvidia-rahbarligiga-qaytdi-0602ae/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/yensen-xuang-nvidia-rahbarligiga-qaytdi-0602ae/</guid>
+    <pubDate>Tue, 24 Nov 2026 16:27:41 GMT</pubDate>
+    <description>Nvidia bosh ijrochi direktori Yensen Xuang o'z lavozimiga qaytdi. U xitoylik ayg'oqchi bilan aloqasi sababli ishdan olingan edi. Silicon Valley yetakchilari uning qaytishini qo'llab-quvvatladi.</description>
+    <category>Nvidia</category><category>biznes</category>
+    <media:content url="https://ailenta.uz/og/yensen-xuang-nvidia-rahbarligiga-qaytdi-0602ae.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/yensen-xuang-nvidia-rahbarligiga-qaytdi-0602ae.jpg"/>
+  </item>
+  <item>
     <title>O‘zbekiston va Qozog‘iston Londonda startap-xab ochdi</title>
     <link>https://ailenta.uz/x/o-zbekiston-va-qozog-iston-londonda-startap-xab-ochdi-67f39f/</link>
     <guid isPermaLink="true">https://ailenta.uz/x/o-zbekiston-va-qozog-iston-londonda-startap-xab-ochdi-67f39f/</guid>
@@ -476,36 +506,6 @@
     <category>biznes</category><category>siyosat</category>
     <media:content url="https://ailenta.uz/og/aqsh-alibaba-kompaniyasini-qora-royxatga-kiritdi-c2a4f7.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/aqsh-alibaba-kompaniyasini-qora-royxatga-kiritdi-c2a4f7.jpg"/>
-  </item>
-  <item>
-    <title>Vue-llm yordamida AI chatni mavjud tizimga integratsiya qilish</title>
-    <link>https://ailenta.uz/x/vue-llm-yordamida-ai-chatni-mavjud-tizimga-integratsiya-qili-b64972/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/vue-llm-yordamida-ai-chatni-mavjud-tizimga-integratsiya-qili-b64972/</guid>
-    <pubDate>Tue, 24 Nov 2026 08:01:07 GMT</pubDate>
-    <description>BIGPLAY frontend dasturchisi mavjud backendga tegmasdan, ichki admin paneliga analitik AI chatni integratsiya qildi. U `vue-llm` ochiq kodli kutubxonasidan foydalanib, SQL so'rovlari orqali ma'lumotlarni olish va grafiklar yaratish imkonini berdi.</description>
-    <category>tadqiqot</category><category>ochiq model</category>
-    <media:content url="https://ailenta.uz/og/vue-llm-yordamida-ai-chatni-mavjud-tizimga-integratsiya-qili-b64972.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/vue-llm-yordamida-ai-chatni-mavjud-tizimga-integratsiya-qili-b64972.jpg"/>
-  </item>
-  <item>
-    <title>ArchSpace AI tadqiqotidagi omadsizliklarni e'lon qilmoqda</title>
-    <link>https://ailenta.uz/x/archspace-ai-tadqiqotidagi-omadsizliklarni-elon-qilmoqda-06bcc2/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/archspace-ai-tadqiqotidagi-omadsizliklarni-elon-qilmoqda-06bcc2/</guid>
-    <pubDate>Tue, 24 Nov 2026 07:16:00 GMT</pubDate>
-    <description>Shanghai AI Laboratory’ning InternLM jamoasi va xitoylik tadqiqotchilar ArchSpace platformasida omadsiz sinovlarni e'lon qilishni yo'lga qo'ydi. Bu boshqa tadqiqotchilarning samarasiz g'oyalarga vaqt va resurs sarflashining oldini oladi.</description>
-    <category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/archspace-ai-tadqiqotidagi-omadsizliklarni-elon-qilmoqda-06bcc2.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/archspace-ai-tadqiqotidagi-omadsizliklarni-elon-qilmoqda-06bcc2.jpg"/>
-  </item>
-  <item>
-    <title>Ant Group Ling-3.2-air multimodal modelini e'lon qildi</title>
-    <link>https://ailenta.uz/x/ant-group-ling-3-2-air-multimodal-modelini-elon-qildi-6b409a/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/ant-group-ling-3-2-air-multimodal-modelini-elon-qildi-6b409a/</guid>
-    <pubDate>Tue, 24 Nov 2026 07:06:23 GMT</pubDate>
-    <description>Ant Group matn, tasvir va video kirishiga ega Ling-3.2-air modelini chiqardi. Tizim jami 124 milliard va 5,5 milliard faol parametrga ega bo'lib, uning og'irliklari yuklab olish uchun ochiq.</description>
-    <category>ochiq model</category>
-    <media:content url="https://ailenta.uz/og/ant-group-ling-3-2-air-multimodal-modelini-elon-qildi-6b409a.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/ant-group-ling-3-2-air-multimodal-modelini-elon-qildi-6b409a.jpg"/>
   </item>
 </channel>
 </rss>

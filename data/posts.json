@@ -1,5 +1,69 @@
 [
   {
+    "id": "6d2775bbc9ca",
+    "slug": "mit-iqlimni-bashorat-qiluvchi-ai-usulini-ishlab-chiqdi-6d2775",
+    "title": "MIT iqlimni bashorat qiluvchi AI usulini ishlab chiqdi",
+    "summary": "MIT tadqiqotchilari AI iqlim modellarini o'qitish uchun yangi usul yaratdi. Algoritm model barqarorligini oshirish uchun ataylab noaniq va ekstremal ssenariylarni hosil qiladi. Bu modellashtirishni bir marta amalga oshirishga imkon beradi.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 21,
+    "published": "2026-11-25T10:47:51.000Z",
+    "created": "2026-11-25T11:01:40.894Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/mit-team-discovers-that-unrealistic-training-data-makes-ai-climate-predictions-more-reliable",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "0602ae489587",
+    "slug": "yensen-xuang-nvidia-rahbarligiga-qaytdi-0602ae",
+    "title": "Yensen Xuang Nvidia rahbarligiga qaytdi",
+    "summary": "Nvidia bosh ijrochi direktori Yensen Xuang o'z lavozimiga qaytdi. U xitoylik ayg'oqchi bilan aloqasi sababli ishdan olingan edi. Silicon Valley yetakchilari uning qaytishini qo'llab-quvvatladi.",
+    "tags": [
+      "Nvidia",
+      "biznes"
+    ],
+    "importance": 5,
+    "score": 20.4,
+    "published": "2026-11-24T16:27:41.000Z",
+    "created": "2026-11-25T11:01:40.894Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/technology/2026/nov/24/mistake-corrected-jensen-huang-resinstated-nvidia-analysis",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "3a57c2f0cc85",
+    "slug": "afrikada-ai-ishqiy-chat-botlari-ommalashmoqda-3a57c2",
+    "title": "Afrikada AI ishqiy chat-botlari ommalashmoqda",
+    "summary": "Xorijiy sun'iy intellekt chat-botlari Afrikada yoshlar muloqotiga ta'sir o'tkazmoqda. Mahalliy cheklovlar yo'qligi sababli sintetik munosabatlarga qaramlik ortib bormoqda.",
+    "tags": [
+      "xavfsizlik"
+    ],
+    "importance": 2,
+    "score": 19,
+    "published": "2026-11-25T11:00:00.000Z",
+    "created": "2026-11-25T11:01:40.894Z",
+    "coverage": 1,
+    "source": {
+      "name": "Rest of World",
+      "url": "https://restofworld.org/2026/ai-companion-apps-africa-character-ai",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "7d3614cb9346",
     "slug": "anthropic-matematiki-ai-bilan-muammoni-tahlil-qildi-7d3614",
     "title": "Anthropic matematiki AI bilan muammoni tahlil qildi",

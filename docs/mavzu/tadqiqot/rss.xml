@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/tadqiqot/</link>
   <description>&quot;tadqiqot&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Wed, 25 Nov 2026 10:38:45 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 25 Nov 2026 11:09:14 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/tadqiqot/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>MIT iqlimni bashorat qiluvchi AI usulini ishlab chiqdi</title>
+    <link>https://ailenta.uz/x/mit-iqlimni-bashorat-qiluvchi-ai-usulini-ishlab-chiqdi-6d2775/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/mit-iqlimni-bashorat-qiluvchi-ai-usulini-ishlab-chiqdi-6d2775/</guid>
+    <pubDate>Wed, 25 Nov 2026 10:47:51 GMT</pubDate>
+    <description>MIT tadqiqotchilari AI iqlim modellarini o'qitish uchun yangi usul yaratdi. Algoritm model barqarorligini oshirish uchun ataylab noaniq va ekstremal ssenariylarni hosil qiladi. Bu modellashtirishni bir marta amalga oshirishga imkon beradi.</description>
+    <category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/mit-iqlimni-bashorat-qiluvchi-ai-usulini-ishlab-chiqdi-6d2775.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/mit-iqlimni-bashorat-qiluvchi-ai-usulini-ishlab-chiqdi-6d2775.jpg"/>
+  </item>
   <item>
     <title>Anthropic matematiki AI bilan muammoni tahlil qildi</title>
     <link>https://ailenta.uz/x/anthropic-matematiki-ai-bilan-muammoni-tahlil-qildi-7d3614/</link>
@@ -296,16 +306,6 @@
     <category>agentlar</category><category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/ai-agentlari-tushunish-qarzi-muammosini-keltirmoqda-d5d555.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/ai-agentlari-tushunish-qarzi-muammosini-keltirmoqda-d5d555.jpg"/>
-  </item>
-  <item>
-    <title>Zhipu GLM-5.4 modelini vizyon va million token bilan chiqardi</title>
-    <link>https://ailenta.uz/x/zhipu-glm-5-4-modelini-vizyon-va-million-token-bilan-chiqard-65b4aa/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/zhipu-glm-5-4-modelini-vizyon-va-million-token-bilan-chiqard-65b4aa/</guid>
-    <pubDate>Mon, 23 Nov 2026 06:51:56 GMT</pubDate>
-    <description>Zhipu kompaniyasi GLM-5.4 modelini o'zining Coding Plan xizmati orqali taqdim etdi. Model vizual tushunish va bir million token kontekst oynasiga ega.</description>
-    <category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/zhipu-glm-5-4-modelini-vizyon-va-million-token-bilan-chiqard-65b4aa.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/zhipu-glm-5-4-modelini-vizyon-va-million-token-bilan-chiqard-65b4aa.jpg"/>
   </item>
 </channel>
 </rss>
