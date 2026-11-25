@@ -1,22 +1,66 @@
 [
   {
+    "id": "c2a262c73751",
+    "slug": "ai-inqirozi-25-trln-dollarlik-bitcoin-osishiga-olib-keladi-c2a262",
+    "title": "AI inqirozi 25 trln dollarlik Bitcoin o'sishiga olib keladi",
+    "summary": "Forbes nashri xabariga ko'ra, sun'iy intellekt sohasidagi katta inqiroz 25 trillion dollarlik Bitcoin narxining o'sishiga sabab bo'lishi bashorat qilinmoqda.",
+    "tags": [
+      "iqtisod",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-11-25T12:34:14.000Z",
+    "created": "2026-11-25T19:45:50.795Z",
+    "coverage": 1,
+    "source": {
+      "name": "Forbes",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZmxWSk5HTFBVRER1SUJkQklZQ3JFdV8wdzN3ZlQwRm8tbDhMcmp4NVdlWFduUGhNTHBzUWZvYUdoTlo0Z0ZBSXN3dG8wQ3ROZ2ZQa0hRMmFZSEN2V3FqX3d0VGZRX1IxWnAtWjBMQzZReE83RmtEcEh6eEg3OTh5T3NKanByc29ha0hXQV8tZDljdks4TFpYOXF5YUY0OVVKRGlrcU93UEJxVWs0MGFvUXM2M0V2R0RsSEkzMlNaak5sUmlDNjhUcnpDblU5eWNB",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "b21f3f66e823",
     "slug": "ai-agentlar-kodi-qayerda-bajariladi-b21f3f",
     "title": "AI agentlar kodi qayerda bajariladi",
-    "summary": "Ilya Kuchmin AI agentlarining kodi qayerda bajarilishi haqida savol ko'tardi. Agentlar uchun sandboks muhitlari rivojlanib, to'liq infratuzilmaga aylangan. Ba'zi agentlarga esa butun kompyuter kerak emasligi ta'kidlanmoqda.",
+    "summary": "Habr nashri AI agentlari tomonidan yozilgan kod qayerda bajarilishi haqida maqola chop etdi. Agentlar uchun sandboks muhitlari to'liq infratuzilmaga aylandi, ammo ko'plab agentlarga butun kompyuter kerak emas.",
     "tags": [
       "agentlar",
       "tadqiqot"
     ],
-    "importance": 3,
+    "importance": 2,
     "score": 11,
     "published": "2026-11-25T14:35:19.000Z",
-    "created": "2026-11-25T19:30:52.478Z",
+    "created": "2026-11-25T19:45:50.795Z",
     "coverage": 1,
     "source": {
       "name": "Habr",
       "url": "https://habr.com/ru/companies/spring_aio/articles/1112322",
       "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "cedee578231c",
+    "slug": "ai-reklamalari-kopayishi-bilan-soxta-sovgalar-va-yoqotishlar-cedee5",
+    "title": "AI reklamalari ko'payishi bilan soxta sovg'alar va yo'qotishlar",
+    "summary": "The Economic Times nashri sun'iy intellekt reklamalari ko'payishi bilan soxta sovg'alar va real moliyaviy yo'qotishlar kuzatilayotganini xabar qildi.",
+    "tags": [
+      "xavfsizlik",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 9,
+    "published": "2026-11-25T02:51:07.000Z",
+    "created": "2026-11-25T19:45:50.795Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSjZISmt1c01kWHNKdnRGdDFaZ1FtQVJuVEFkaU5mZE1QeE5HTjRBM2JjejVabFp5SFlzM3Vkb3VRQ1Z5UWpzLTlrb1F4Um45QkpUWjFUaHktRkRUY1ZXOG1vYnl4NEdNYTV6bEQwLURRNWtvUkFFb2NYbDE1Q1VSTmI3Y01lT19hYzFJSkJVUWdYMW1mRTFUVVY0OE5ZangwTEJuVzMxTVUtU0VVX1VFbTgwMVJUVm5xUHQ2ek5ZTm1rT3JlUHfSAcsBQVVfeXFMUDhReDJnN2tGVm5jZXA4amI5N2RTb2lzQl9taDc3dV82OXRlcnd2YmlJYUw0RnJlZ2ZVQ1ItU0JvWGhQNEJyWW9RRnducVJIRmtLTEpvam42Q21TZmYzNVpjZXcxRXMyR2QxUzRsTTB6a1VONGxGaEFKNGNwTmlHU1lvdjZBSS1TcC1yOWJPOFpRVVNCeXJwbnhleTRadWFhVUdVcURXRF93WjFXNEs0UG93VER0WmVLUkp0Y2JkZmRNOWp4aTlYVkFvQVU",
+      "indirect": true
     },
     "also": [],
     "model": "gemini"
