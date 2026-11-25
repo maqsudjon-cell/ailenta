@@ -1,9 +1,31 @@
 [
   {
     "id": "1c833aea5309",
-    "slug": "ozbekistonda-tibbiyotni-raqamlashtirish-va-ai-kengaymoqda-1c833a",
-    "title": "O'zbekistonda tibbiyotni raqamlashtirish va AI kengaymoqda",
-    "summary": "O'zbekiston sog'liqni saqlash tizimida DMED hamda sun'iy intellekt tizimlari joriy etilmoqda. Mamlakatda tibbiyot xizmatlarini raqamlashtirish va integratsiya qilish ishlari kengaytirilishi kutilmoqda.",
+    "slug": "ozbekistonda-tibbiyotni-raqamlashtirish-kengaytirilmoqda-1c833a",
+    "title": "O'zbekistonda tibbiyotni raqamlashtirish kengaytirilmoqda",
+    "summary": "O'zbekistonda DMED va sun'iy intellekt tizimlari joriy etilmoqda. Mamlakatda tibbiyot xizmatlarini raqamlashtirish va ularni integratsiya qilish ishlari kengaytirilishi belgilangan.",
+    "tags": [
+      "O'zbekiston",
+      "tibbiyot"
+    ],
+    "importance": 3,
+    "score": 44,
+    "published": "2026-11-25T07:00:00.000Z",
+    "created": "2026-11-25T09:35:43.359Z",
+    "coverage": 1,
+    "source": {
+      "name": "UzDaily",
+      "url": "https://uzdaily.uz/uz/%C3%B6zbekistonda-so%C4%9Fliqni-saqla%C5%9F-tizimini-raqamla%C5%9Ftiri%C5%9F-kengaytirilmoqda",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "933c447f4bf4",
+    "slug": "ilmiy-maqolalarda-ai-kontenti-keskin-kopaydi-933c44",
+    "title": "Ilmiy maqolalarda AI kontenti keskin ko'paydi",
+    "summary": "Tadqiqotlarga ko'ra, 2025-yilga kelib chop etilgan ilmiy maqolalarning 57 foizida katta til modellarining ta'siri aniqlandi. 2023-yilda bu ko'rsatkich 12 foizni tashkil etgan edi. Sohadagi filtrlash tizimlari bunday kontentni to'xtatishda qiyinchilikka uchramoqda.",
     "tags": [
       "O'zbekiston",
       "tibbiyot"
