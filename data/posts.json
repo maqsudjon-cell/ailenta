@@ -1,5 +1,27 @@
 [
   {
+    "id": "b21f3f66e823",
+    "slug": "ai-agentlar-kodi-qayerda-bajariladi-b21f3f",
+    "title": "AI agentlar kodi qayerda bajariladi",
+    "summary": "Ilya Kuchmin AI agentlarining kodi qayerda bajarilishi haqida savol ko'tardi. Agentlar uchun sandboks muhitlari rivojlanib, to'liq infratuzilmaga aylangan. Ba'zi agentlarga esa butun kompyuter kerak emasligi ta'kidlanmoqda.",
+    "tags": [
+      "agentlar",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 11,
+    "published": "2026-11-25T14:35:19.000Z",
+    "created": "2026-11-25T19:30:52.478Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/companies/spring_aio/articles/1112322",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "92419877312e",
     "slug": "aqsh-shtatlari-character-aining-shaxsiy-chatlarni-sotishiga--924198",
     "title": "AQSH shtatlari Character AI'ning shaxsiy chatlarni sotishiga qarshi",
