@@ -5,8 +5,28 @@
   <link>https://ailenta.uz/mavzu/tadqiqot/</link>
   <description>&quot;tadqiqot&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Thu, 26 Nov 2026 06:14:20 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 26 Nov 2026 06:54:21 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/tadqiqot/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>AI'da ishlash: 26 ta ochiq dars</title>
+    <link>https://ailenta.uz/x/aida-ishlash-26-ta-ochiq-dars-6e199a/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/aida-ishlash-26-ta-ochiq-dars-6e199a/</guid>
+    <pubDate>Thu, 26 Nov 2026 05:05:44 GMT</pubDate>
+    <description>Habr nashri LLM'lar bilan eksperimentlardan to'liq AI yechimlariga o'tishga yordam beradigan 26 ta ochiq darsni jamladi. Bu darslar AI/ML texnologiyalarini tushunish va muhandislik ko'nikmalarini rivojlantirishga yordam beradi.</description>
+    <category>ta'lim</category><category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/aida-ishlash-26-ta-ochiq-dars-6e199a.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/aida-ishlash-26-ta-ochiq-dars-6e199a.jpg"/>
+  </item>
+  <item>
+    <title>Galaxea G0.7 asosiy modelini uzoq kontekst va tez rejim bilan chiqardi</title>
+    <link>https://ailenta.uz/x/galaxea-g0-7-asosiy-modelini-uzoq-kontekst-va-tez-rejim-bila-c7d440/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/galaxea-g0-7-asosiy-modelini-uzoq-kontekst-va-tez-rejim-bila-c7d440/</guid>
+    <pubDate>Thu, 26 Nov 2026 02:20:15 GMT</pubDate>
+    <description>Galaxea kompaniyasi G0.7 embodied foundation modelini taqdim etdi. Ushbu model besh daqiqagacha kuzatuv tarixidan foydalanadi va &quot;Fast mode&quot;da 16 bosqichli harakat qismlarini 60 ms ichida dekodlay oladi.</description>
+    <category>tadqiqot</category><category>ochiq model</category>
+    <media:content url="https://ailenta.uz/og/galaxea-g0-7-asosiy-modelini-uzoq-kontekst-va-tez-rejim-bila-c7d440.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/galaxea-g0-7-asosiy-modelini-uzoq-kontekst-va-tez-rejim-bila-c7d440.jpg"/>
+  </item>
   <item>
     <title>AI kelajakda o'yin yaratishni osonlashtiradi</title>
     <link>https://ailenta.uz/x/ai-kelajakda-oyin-yaratishni-osonlashtiradi-b6c8bf/</link>
@@ -286,26 +306,6 @@
     <category>tadqiqot</category><category>xavfsizlik</category>
     <media:content url="https://ailenta.uz/og/ai-ongi-haqidagi-ilm-noaniqlikni-tan-olishi-kerak-dfdc98.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/ai-ongi-haqidagi-ilm-noaniqlikni-tan-olishi-kerak-dfdc98.jpg"/>
-  </item>
-  <item>
-    <title>Ko'proq agentlar har doim ham yaxshi degani emas</title>
-    <link>https://ailenta.uz/x/koproq-agentlar-har-doim-ham-yaxshi-degani-emas-f85d62/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/koproq-agentlar-har-doim-ham-yaxshi-degani-emas-f85d62/</guid>
-    <pubDate>Mon, 23 Nov 2026 14:41:09 GMT</pubDate>
-    <description>Ushbu maqolada ko'proq AI agentlari har doim ham samaraliroq bo'lmasligi muhokama qilinadi. Misol sifatida 32 ta GPT-6.2 Astra agenti keltirilgan.</description>
-    <category>tadqiqot</category><category>agentlar</category>
-    <media:content url="https://ailenta.uz/og/koproq-agentlar-har-doim-ham-yaxshi-degani-emas-f85d62.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/koproq-agentlar-har-doim-ham-yaxshi-degani-emas-f85d62.jpg"/>
-  </item>
-  <item>
-    <title>Z.ai Loop Transformer arxitekturasi GLM-5.4 modelida</title>
-    <link>https://ailenta.uz/x/z-ai-loop-transformer-arxitekturasi-glm-5-4-modelida-c17efb/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/z-ai-loop-transformer-arxitekturasi-glm-5-4-modelida-c17efb/</guid>
-    <pubDate>Mon, 23 Nov 2026 14:30:41 GMT</pubDate>
-    <description>Xitoyning Z.ai laboratoriyasi (avvalgi Zhipu AI) Loop Transformer arxitekturasiga asoslangan GLM-5.4 modelini taqdim etdi. Bu model neyron tarmoqlarni hajmini oshirmasdan aqlliroq qilish imkonini beradi.</description>
-    <category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/z-ai-loop-transformer-arxitekturasi-glm-5-4-modelida-c17efb.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/z-ai-loop-transformer-arxitekturasi-glm-5-4-modelida-c17efb.jpg"/>
   </item>
 </channel>
 </rss>

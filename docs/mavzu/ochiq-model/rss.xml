@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/ochiq-model/</link>
   <description>&quot;ochiq model&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Thu, 26 Nov 2026 06:14:20 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 26 Nov 2026 06:54:21 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/ochiq-model/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Galaxea G0.7 asosiy modelini uzoq kontekst va tez rejim bilan chiqardi</title>
+    <link>https://ailenta.uz/x/galaxea-g0-7-asosiy-modelini-uzoq-kontekst-va-tez-rejim-bila-c7d440/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/galaxea-g0-7-asosiy-modelini-uzoq-kontekst-va-tez-rejim-bila-c7d440/</guid>
+    <pubDate>Thu, 26 Nov 2026 02:20:15 GMT</pubDate>
+    <description>Galaxea kompaniyasi G0.7 embodied foundation modelini taqdim etdi. Ushbu model besh daqiqagacha kuzatuv tarixidan foydalanadi va &quot;Fast mode&quot;da 16 bosqichli harakat qismlarini 60 ms ichida dekodlay oladi.</description>
+    <category>tadqiqot</category><category>ochiq model</category>
+    <media:content url="https://ailenta.uz/og/galaxea-g0-7-asosiy-modelini-uzoq-kontekst-va-tez-rejim-bila-c7d440.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/galaxea-g0-7-asosiy-modelini-uzoq-kontekst-va-tez-rejim-bila-c7d440.jpg"/>
+  </item>
   <item>
     <title>Minecraft yaratuvchisi AIga qarshi fikrini o'zgartirdi</title>
     <link>https://ailenta.uz/x/minecraft-yaratuvchisi-aiga-qarshi-fikrini-ozgartirdi-bc6da7/</link>
@@ -296,16 +306,6 @@
     <category>tadqiqot</category><category>ochiq model</category>
     <media:content url="https://ailenta.uz/og/360m-parametrli-model-terminalni-taqlid-qilishga-orgatildi-8802a7.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/360m-parametrli-model-terminalni-taqlid-qilishga-orgatildi-8802a7.jpg"/>
-  </item>
-  <item>
-    <title>Sextant dasturining kodini AI yozmoqda</title>
-    <link>https://ailenta.uz/x/sextant-dasturining-kodini-ai-yozmoqda-2875e6/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/sextant-dasturining-kodini-ai-yozmoqda-2875e6/</guid>
-    <pubDate>Tue, 20 Oct 2026 23:49:47 GMT</pubDate>
-    <description>Kubernetes uchun bepul open-source mijoz Sextant dasturining 16 ta yangi versiyasi chiqdi. Dasturning kodi to'liq AI (Claude Code) tomonidan yozilgan bo'lib, inson faqat vazifalarni belgilaydi va tekshiradi.</description>
-    <category>ochiq model</category><category>biznes</category>
-    <media:content url="https://ailenta.uz/og/sextant-dasturining-kodini-ai-yozmoqda-2875e6.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/sextant-dasturining-kodini-ai-yozmoqda-2875e6.jpg"/>
   </item>
 </channel>
 </rss>

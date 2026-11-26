@@ -1,5 +1,158 @@
 [
   {
+    "id": "827bde4db6de",
+    "slug": "ozbekiston-muftiysi-fatvolar-uchun-yagona-raqamli-platforma--827bde",
+    "title": "O'zbekiston muftiysi fatvolar uchun yagona raqamli platforma taklif qildi",
+    "summary": "O'zbekiston musulmonlari idorasi raisi Shayx Nuriddin Xoliqnazar Istanbuldagi yig'ilishda fatvolar uchun yagona raqamli platforma yaratishni taklif etdi. U shuningdek, internetda fatvo e'lon qilish va AI'dan foydalanish mezonlarini ishlab chiqishni ilgari surdi.",
+    "tags": [
+      "O'zbekiston",
+      "siyosat"
+    ],
+    "importance": 3,
+    "score": 45,
+    "published": "2026-11-26T06:30:50.000Z",
+    "created": "2026-11-26T06:41:34.751Z",
+    "coverage": 1,
+    "source": {
+      "name": "Kun.uz",
+      "url": "https://kun.uz/news/2026/11/26/ozbekiston-muftiysi-fatvolar-uchun-yagona-raqamli-platforma-yaratishni-taklif-qildi-62343",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "836aefbcb02a",
+    "slug": "xitoyda-12-km-balandlikda-ishlaydigan-dron-dvigateli-yaratil-836aef",
+    "title": "Xitoyda 12 km balandlikda ishlaydigan dron dvigateli yaratildi",
+    "summary": "Xitoyning Anhui Haery Aviation Power kompaniyasi og'ir dronlar uchun Yousun DB626 porşenli dvigatelini taqdim etishga tayyorlanmoqda. U 200 kilovatt quvvatga ega bo'lib, 4000 metrgacha balandlikda nominal quvvatini saqlaydi.",
+    "tags": [
+      "Xitoy",
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 45,
+    "published": "2026-11-26T06:10:14.000Z",
+    "created": "2026-11-26T06:41:34.751Z",
+    "coverage": 1,
+    "source": {
+      "name": "Kun.uz",
+      "url": "https://kun.uz/news/2026/11/26/xitoyda-12-kilometr-balandlikda-ham-ishlaydigan-dron-dvigateli-yaratildi-62338",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "6e199a95c9c6",
+    "slug": "aida-ishlash-26-ta-ochiq-dars-6e199a",
+    "title": "AI'da ishlash: 26 ta ochiq dars",
+    "summary": "Habr nashri LLM'lar bilan eksperimentlardan to'liq AI yechimlariga o'tishga yordam beradigan 26 ta ochiq darsni jamladi. Bu darslar AI/ML texnologiyalarini tushunish va muhandislik ko'nikmalarini rivojlantirishga yordam beradi.",
+    "tags": [
+      "ta'lim",
+      "tadqiqot"
+    ],
+    "importance": 1,
+    "score": 17,
+    "published": "2026-11-26T05:05:44.000Z",
+    "created": "2026-11-26T06:41:34.751Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/companies/otus/articles/1111806",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "aecd14cb6e00",
+    "slug": "jensen-xuangning-bozorlardagi-tasiri-allaqachon-susaydi-aecd14",
+    "title": "Jensen Xuangning bozorlardagi ta'siri allaqachon susaydi",
+    "summary": "Semafor xabariga ko'ra, Jensen Xuangning bozorlardagi ta'siri va AI'ga bo'lgan qiziqish susaygan. Moliyaviy qonunlar AI va uning yetakchisini tezda quvib yetmoqda.",
+    "tags": [
+      "Nvidia",
+      "iqtisod"
+    ],
+    "importance": 2,
+    "score": 17,
+    "published": "2026-11-25T13:35:49.000Z",
+    "created": "2026-11-26T06:41:34.751Z",
+    "coverage": 1,
+    "source": {
+      "name": "Semafor",
+      "url": "https://semafor.com/article/11/25/2026/the-dopamine-hit-in-markets-from-jensen-huangs-comeback-has-already-faded",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "3ce7a4d282e1",
+    "slug": "avstraliya-bosh-vaziri-albanese-eng-past-darajada-3ce7a4",
+    "title": "Avstraliya bosh vaziri Albanese eng past darajada",
+    "summary": "The Guardian xabariga ko'ra, Avstraliya bosh vaziri Entoni Albanese parlamentning so'nggi haftasini eng past darajada yakunlamoqda. Global tartibsizliklar fonida uning rahbariyatiga jamoatchilik ishonchini tiklash imkoniyati mavjud.",
+    "tags": [
+      "siyosat"
+    ],
+    "importance": 1,
+    "score": 15.3,
+    "published": "2026-11-24T23:22:51.000Z",
+    "created": "2026-11-26T06:41:34.751Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/commentisfree/2026/nov/25/anthony-albanese-approval-rating-poll-results",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "c3a2d5e1d403",
+    "slug": "huawei-3d-chiplar-va-optoelektronika-bilan-ai-hisoblash-c3a2d5",
+    "title": "Huawei 3D chiplar va optoelektronika bilan AI hisoblash",
+    "summary": "Huawei 7-Innovatsiya va Intellektual Mulk Forumida Tau Scaling Law, UnifiedBus va Hi-ONE NPO dvigatelini taqdim etdi. Kompaniya 3D chiplar va optoelektronika yordamida AI hisoblash qoidalarini qayta yozmoqda.",
+    "tags": [
+      "Huawei",
+      "chiplar"
+    ],
+    "importance": 4,
+    "score": 15,
+    "published": "2026-11-26T03:27:27.000Z",
+    "created": "2026-11-26T06:41:34.751Z",
+    "coverage": 1,
+    "source": {
+      "name": "Pandaily",
+      "url": "https://pandaily.com/huawei-ip-forum-tau-unifiedbus-hi-one-ai-compute",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "c7d440c39759",
+    "slug": "galaxea-g0-7-asosiy-modelini-uzoq-kontekst-va-tez-rejim-bila-c7d440",
+    "title": "Galaxea G0.7 asosiy modelini uzoq kontekst va tez rejim bilan chiqardi",
+    "summary": "Galaxea kompaniyasi G0.7 embodied foundation modelini taqdim etdi. Ushbu model besh daqiqagacha kuzatuv tarixidan foydalanadi va \"Fast mode\"da 16 bosqichli harakat qismlarini 60 ms ichida dekodlay oladi.",
+    "tags": [
+      "tadqiqot",
+      "ochiq model"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-11-26T02:20:15.000Z",
+    "created": "2026-11-26T06:41:34.751Z",
+    "coverage": 1,
+    "source": {
+      "name": "Pandaily",
+      "url": "https://pandaily.com/galaxea-g07-embodied-foundation-model-wam-fast-mode",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "bd2aa0a3cffa",
     "slug": "o-zbekistonda-suniy-intellekt-etikasi-qonun-darajasiga-ko-ta-bd2aa0",
     "title": "O‘zbekistonda sun’iy intellekt etikasi qonun darajasiga ko‘tarilishi mumkin",

@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/talim/</link>
   <description>&quot;ta'lim&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Thu, 26 Nov 2026 06:14:20 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 26 Nov 2026 06:54:21 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/talim/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>AI'da ishlash: 26 ta ochiq dars</title>
+    <link>https://ailenta.uz/x/aida-ishlash-26-ta-ochiq-dars-6e199a/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/aida-ishlash-26-ta-ochiq-dars-6e199a/</guid>
+    <pubDate>Thu, 26 Nov 2026 05:05:44 GMT</pubDate>
+    <description>Habr nashri LLM'lar bilan eksperimentlardan to'liq AI yechimlariga o'tishga yordam beradigan 26 ta ochiq darsni jamladi. Bu darslar AI/ML texnologiyalarini tushunish va muhandislik ko'nikmalarini rivojlantirishga yordam beradi.</description>
+    <category>ta'lim</category><category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/aida-ishlash-26-ta-ochiq-dars-6e199a.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/aida-ishlash-26-ta-ochiq-dars-6e199a.jpg"/>
+  </item>
   <item>
     <title>AI sababli talabalar dissertatsiyani og'zaki himoya qilmoqda</title>
     <link>https://ailenta.uz/x/ai-sababli-talabalar-dissertatsiyani-ogzaki-himoya-qilmoqda-48f1b6/</link>
@@ -296,16 +306,6 @@
     <category>ta'lim</category><category>biznes</category>
     <media:content url="https://ailenta.uz/og/toutiao-sobiq-rahbari-ai-talim-loyihasini-tasdiqladi-a88648.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/toutiao-sobiq-rahbari-ai-talim-loyihasini-tasdiqladi-a88648.jpg"/>
-  </item>
-  <item>
-    <title>PHPda tasvirlarda chegaralarni topish uchun CNNlar</title>
-    <link>https://ailenta.uz/x/phpda-tasvirlarda-chegaralarni-topish-uchun-cnnlar-01ce7b/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/phpda-tasvirlarda-chegaralarni-topish-uchun-cnnlar-01ce7b/</guid>
-    <pubDate>Sun, 08 Nov 2026 21:17:35 GMT</pubDate>
-    <description>Habr nashrida PHP dasturchilari uchun sun'iy intellekt bo'yicha maqolalar seriyasining 8-qismi chop etildi. Unda tasvirlardagi chegaralarni aniqlash uchun svyortkali neyron tarmoqlardan (CNN) foydalanish tushuntirilgan.</description>
-    <category>tadqiqot</category><category>ta'lim</category>
-    <media:content url="https://ailenta.uz/og/phpda-tasvirlarda-chegaralarni-topish-uchun-cnnlar-01ce7b.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/phpda-tasvirlarda-chegaralarni-topish-uchun-cnnlar-01ce7b.jpg"/>
   </item>
 </channel>
 </rss>
