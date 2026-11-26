@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/agentlar/</link>
   <description>&quot;agentlar&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Thu, 26 Nov 2026 13:10:27 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 26 Nov 2026 13:35:13 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/agentlar/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>AI agentlarga qanday vazifalarni ishonib topshiramiz</title>
+    <link>https://ailenta.uz/x/ai-agentlarga-qanday-vazifalarni-ishonib-topshiramiz-a777ad/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/ai-agentlarga-qanday-vazifalarni-ishonib-topshiramiz-a777ad/</guid>
+    <pubDate>Thu, 26 Nov 2026 13:02:09 GMT</pubDate>
+    <description>Habr nashri AI agentlarga qanday vazifalarni ishonib topshirish mumkinligi va qaysilarini nazoratsiz qoldirmaslik kerakligi haqida so‘rovnoma o‘tkazdi. Bu AI agentlarining mustaqil ishlashiga bo‘lgan ishonch chegaralarini aniqlashga qaratilgan.</description>
+    <category>agentlar</category><category>mehnat bozori</category>
+    <media:content url="https://ailenta.uz/og/ai-agentlarga-qanday-vazifalarni-ishonib-topshiramiz-a777ad.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/ai-agentlarga-qanday-vazifalarni-ishonib-topshiramiz-a777ad.jpg"/>
+  </item>
   <item>
     <title>Voynich qo'lyozmasini AI agentlari deshifrlash loyihasi</title>
     <link>https://ailenta.uz/x/voynich-qolyozmasini-ai-agentlari-deshifrlash-loyihasi-dec3f7/</link>
@@ -296,16 +306,6 @@
     <category>biznes</category><category>agentlar</category>
     <media:content url="https://ailenta.uz/og/audible-foydalanuvchilarga-audiokitoblarni-topishda-aidan-fo-6516c6.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/audible-foydalanuvchilarga-audiokitoblarni-topishda-aidan-fo-6516c6.jpg"/>
-  </item>
-  <item>
-    <title>AI agentlarining ishonchligi va xatolardan tiklanishi</title>
-    <link>https://ailenta.uz/x/ai-agentlarining-ishonchligi-va-xatolardan-tiklanishi-5fc10f/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/ai-agentlarining-ishonchligi-va-xatolardan-tiklanishi-5fc10f/</guid>
-    <pubDate>Mon, 16 Nov 2026 10:23:41 GMT</pubDate>
-    <description>Microsoft, Anthropic va Meta muhandislari AI agentlarining ishonchliligi bo'yicha ma'ruzalar taqdim etdi. UndoBench sinovlarida koding agentlari nosozlikdan so'ng yarim holatda ham o'zini tiklay olmagani aniqlandi.</description>
-    <category>agentlar</category><category>Anthropic</category>
-    <media:content url="https://ailenta.uz/og/ai-agentlarining-ishonchligi-va-xatolardan-tiklanishi-5fc10f.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/ai-agentlarining-ishonchligi-va-xatolardan-tiklanishi-5fc10f.jpg"/>
   </item>
 </channel>
 </rss>

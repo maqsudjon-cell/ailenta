@@ -1,9 +1,9 @@
 [
   {
     "id": "39a5ba9955ef",
-    "slug": "signal-asoschisi-moxie-marlinspike-ai-va-maxfiylik-haqida-39a5ba",
-    "title": "Signal asoschisi Moxie Marlinspike AI va maxfiylik haqida",
-    "summary": "Signal asoschisi Moxie Marlinspike AI va kriptografiya bo‘yicha intervyu berdi. U o‘zining maxfiylikka yo‘naltirilgan Confer AI chat xizmati, foydalanuvchilar emas, balki AI modellarini kuzatish haqida gapirdi.",
+    "slug": "signal-asoschisi-moxie-marlinspike-ai-va-kriptografiya-haqid-39a5ba",
+    "title": "Signal asoschisi Moxie Marlinspike AI va kriptografiya haqida",
+    "summary": "Signal asoschisi Moxie Marlinspike AI va kriptografiya, shuningdek, uning maxfiylikka yo‘naltirilgan AI chat xizmati Confer haqida intervyu berdi. U foydalanuvchilar emas, balki AI modellarini kuzatish g‘oyasini muhokama qildi.",
     "tags": [
       "xavfsizlik",
       "maxfiylik"
@@ -11,7 +11,7 @@
     "importance": 3,
     "score": 15,
     "published": "2026-11-26T08:55:02.000Z",
-    "created": "2026-11-26T13:00:28.009Z",
+    "created": "2026-11-26T13:18:17.510Z",
     "coverage": 1,
     "source": {
       "name": "Techmeme",
@@ -26,7 +26,7 @@
     "id": "9f6601128726",
     "slug": "o-zbekistonda-raqamli-qo-riqlash-tizimi-taklif-qilindi-9f6601",
     "title": "O‘zbekistonda “Raqamli qo‘riqlash” tizimi taklif qilindi",
-    "summary": "O‘zbekistonda “Raqamli qo‘riqlash” yagona axborot tizimini joriy etish taklif qilindi. Bu tizim shartnomalarni elektron rasmiylashtirish, tezkor guruhlarni kuzatish va AI yordamida xavflarni aniqlashni o‘z ichiga oladi.",
+    "summary": "O‘zbekistonda “Raqamli qo‘riqlash” yagona axborot tizimini joriy etish taklif qilindi. Bu tizim shartnomalarni elektron rasmiylashtirish, tezkor guruhlarni kuzatish va AI yordamida xavflarni aniqlashni ko‘zda tutadi.",
     "tags": [
       "O'zbekiston",
       "xavfsizlik"
@@ -34,7 +34,7 @@
     "importance": 4,
     "score": 48,
     "published": "2026-11-26T12:10:41.000Z",
-    "created": "2026-11-26T13:00:28.197Z",
+    "created": "2026-11-26T13:18:32.508Z",
     "coverage": 1,
     "source": {
       "name": "Daryo",
@@ -45,9 +45,53 @@
     "model": "gemini"
   },
   {
+    "id": "4d4c29c362aa",
+    "slug": "thomson-reuters-keyingi-modeli-uchun-aqsh-va-xitoy-ai-ishlat-4d4c29",
+    "title": "Thomson Reuters keyingi modeli uchun AQSH va Xitoy AI ishlatmoqda",
+    "summary": "Thomson Reuters o‘zining Thomson 1.1 modelini yaratishda Google Gemma va Z.ai GLM modellarini birlashtirmoqda. Kompaniya AI xarajatlarini kamaytirish maqsadida AQSH va Xitoyning ochiq kodli modellaridan foydalanmoqda.",
+    "tags": [
+      "Google",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 18,
+    "published": "2026-11-26T10:00:01.000Z",
+    "created": "2026-11-26T13:18:32.508Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/thomson-reuters-us-china-ai-cut-model-costs-2026-11",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "a777adfccb4e",
+    "slug": "ai-agentlarga-qanday-vazifalarni-ishonib-topshiramiz-a777ad",
+    "title": "AI agentlarga qanday vazifalarni ishonib topshiramiz",
+    "summary": "Habr nashri AI agentlarga qanday vazifalarni ishonib topshirish mumkinligi va qaysilarini nazoratsiz qoldirmaslik kerakligi haqida so‘rovnoma o‘tkazdi. Bu AI agentlarining mustaqil ishlashiga bo‘lgan ishonch chegaralarini aniqlashga qaratilgan.",
+    "tags": [
+      "agentlar",
+      "mehnat bozori"
+    ],
+    "importance": 2,
+    "score": 11,
+    "published": "2026-11-26T13:02:09.000Z",
+    "created": "2026-11-26T13:18:32.508Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/specials/1112580",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "d6bdbe49e6bf",
-    "slug": "konnektikutda-ai-sohasidagi-ish-o-rinlari-soni-ortmoqda-d6bdbe",
-    "title": "Konnektikutda AI sohasidagi ish o‘rinlari soni ortmoqda",
+    "slug": "konnektikutda-ai-sohasidagi-ish-o-rinlari-soni-o-smoqda-d6bdbe",
+    "title": "Konnektikutda AI sohasidagi ish o‘rinlari soni o‘smoqda",
     "summary": "CT Insider xabariga ko‘ra, Konnektikut shtatida sun'iy intellekt sohasidagi ish o‘rinlari soni o‘sib bormoqda. Hozirda 650 ta AI bilan bog‘liq bo‘sh ish o‘rni mavjud.",
     "tags": [
       "mehnat bozori",
@@ -56,7 +100,7 @@
     "importance": 2,
     "score": 7,
     "published": "2026-11-26T09:01:36.000Z",
-    "created": "2026-11-26T13:00:28.197Z",
+    "created": "2026-11-26T13:18:32.508Z",
     "coverage": 1,
     "source": {
       "name": "CT Insider",
