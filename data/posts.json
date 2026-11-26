@@ -1,5 +1,49 @@
 [
   {
+    "id": "cd90ab3bbfc7",
+    "slug": "rossiyada-dron-hujumi-tasvirlari-uchun-jinoiy-javobgarlik-cd90ab",
+    "title": "Rossiyada dron hujumi tasvirlari uchun jinoiy javobgarlik",
+    "summary": "Rossiya Davlat dumasiga dron hujumi oqibatlari aks etgan tasvirlarni tarqatganlik uchun jinoiy javobgarlik belgilovchi qonun loyihasi kiritildi. Eng og‘ir holatda besh yilgacha qamoq jazosi ko‘zda tutilgan.",
+    "tags": [
+      "siyosat",
+      "qonun"
+    ],
+    "importance": 3,
+    "score": 45,
+    "published": "2026-11-26T16:51:57.000Z",
+    "created": "2026-11-26T17:02:01.410Z",
+    "coverage": 1,
+    "source": {
+      "name": "Daryo",
+      "url": "https://daryo.uz/2026/11/26/rossiyada-dron-hujumi-oqibatlari-aks-etgan-tasvirlarni-tarqatganlarni-qamash-taklif-etildi",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "a0a9f6c7a9e9",
+    "slug": "american-express-britaniya-bizneslariga-1-3-mln-beradi-a0a9f6",
+    "title": "American Express Britaniya bizneslariga $1.3 mln beradi",
+    "summary": "American Express Britaniyadagi kichik biznes egalariga $1.3 million naqd pul ajratmoqda. Bu AI tufayli barqaror ish joylari orzusi yo‘qolgan bir paytda, ko‘plab odamlar o‘z biznesini boshlayotgani bilan bog‘liq.",
+    "tags": [
+      "iqtisod",
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 19,
+    "published": "2026-11-26T14:36:11.000Z",
+    "created": "2026-11-26T17:02:01.410Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/11/26/american-express-is-giving-away-1-3-million-cash-to-british-small-business-owners-grant-apply-founders",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "569ea1125ce7",
     "slug": "ko-zi-ojiz-er-xotin-ai-yordamida-mustaqil-yashamoqda-569ea1",
     "title": "Ko‘zi ojiz er-xotin AI yordamida mustaqil yashamoqda",
