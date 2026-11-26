@@ -1,5 +1,159 @@
 [
   {
+    "id": "569ea1125ce7",
+    "slug": "ko-zi-ojiz-er-xotin-ai-yordamida-mustaqil-yashamoqda-569ea1",
+    "title": "Ko‘zi ojiz er-xotin AI yordamida mustaqil yashamoqda",
+    "summary": "Daryo nashri ko‘zi ojiz Jahongir va Shahrizoda ismli yosh oila haqida hikoya qildi. Ular sun’iy intellekt ilovalari yordamida uyda va ko‘chada mustaqil hayot kechirmoqda. Oilaning asosiy daromadi dastur o‘rnatishdan tushadi.",
+    "tags": [
+      "O'zbekiston",
+      "ijtimoiy"
+    ],
+    "importance": 2,
+    "score": 48,
+    "published": "2026-11-26T14:00:58.000Z",
+    "created": "2026-11-26T16:03:27.294Z",
+    "coverage": 1,
+    "source": {
+      "name": "Daryo",
+      "url": "https://daryo.uz/2026/11/26/hassa-tutsam-odamlar-yordam-bermay-qoyadi-suniy-intellekt-komagida-mustaqil-yashayotgan-kozi-ojiz-er-xotin-hikoyasi",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "069f94445fa0",
+    "slug": "jack-despain-zhou-ai-shaxssizlashtirishga-olib-kelmoqda-069f94",
+    "title": "Jack Despain Zhou: AI shaxssizlashtirishga olib kelmoqda",
+    "summary": "Jack Despain Zhouning fikricha, sun'iy intellektning mavjud ta'sirlaridan biri shaxssizlashtirishdir. U YouTube videolarida, konferensiyalarda va elektron pochta xabarlarida Claude tomonidan yaratilgan kontentni ko‘rayotganini ta'kidladi.",
+    "tags": [
+      "tadqiqot",
+      "xavfsizlik"
+    ],
+    "importance": 2,
+    "score": 18,
+    "published": "2026-11-26T15:09:31.000Z",
+    "created": "2026-11-26T16:03:27.294Z",
+    "coverage": 1,
+    "source": {
+      "name": "Simon Willison",
+      "url": "https://simonwillison.net/2026/Nov/26/jack-despain-zhou",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "7fff96f9ef2d",
+    "slug": "zoe-kleinman-jensen-xuangni-almashtirib-bo-lmaydi-7fff96",
+    "title": "Zoe Kleinman: Jensen Xuangni almashtirib bo‘lmaydi",
+    "summary": "BBC texnologiya va AI muharriri Zoe Kleinmanning fikricha, Jensen Xuangni almashtirib bo‘lmaydi. U Nvidia bosh direktori o‘zini ishdan bo‘shatib bo‘lmaydigan holga keltirganini ta'kidladi.",
+    "tags": [
+      "Nvidia",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 15.8,
+    "published": "2026-11-25T10:03:12.000Z",
+    "created": "2026-11-26T16:03:27.294Z",
+    "coverage": 1,
+    "source": {
+      "name": "BBC News",
+      "url": "https://bbc.co.uk/news/articles/c3rrgqj2zx5yo?at_medium=RSS&at_campaign=rss",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "6bff7af530a8",
+    "slug": "ai-laboratoriyalari-kriptotizimlarni-buzuvchi-yutuqlarga-ega-6bff7a",
+    "title": "AI laboratoriyalari kriptotizimlarni buzuvchi yutuqlarga ega",
+    "summary": "Manbalarga ko‘ra, yetakchi AI laboratoriyalari joriy kriptotizimlarni buzishi mumkin bo‘lgan, hali e'lon qilinmagan algoritmlarga ega. Ularning aniq tabiati hozircha noma'lum.",
+    "tags": [
+      "xavfsizlik",
+      "tadqiqot"
+    ],
+    "importance": 5,
+    "score": 15,
+    "published": "2026-11-26T09:50:19.000Z",
+    "created": "2026-11-26T16:03:27.294Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/261126/p8",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "583153fb64fd",
+    "slug": "habr-rus-tilida-modernbert-modelini-o-qitish-usullari-583153",
+    "title": "Habr: Rus tilida ModernBERT modelini o‘qitish usullari",
+    "summary": "Habr nashrida MWS AI markazi rus tili uchun ikki ModernBERT modelini qanday o‘qitgani haqida maqola chop etildi. Maqolada rus tilidagi enkoderlarni noldan o‘qitish va mavjud ko‘p tilli model lug‘atini almashtirish usullari muhokama qilingan.",
+    "tags": [
+      "tadqiqot",
+      "ochiq model"
+    ],
+    "importance": 2,
+    "score": 11,
+    "published": "2026-11-26T13:40:07.000Z",
+    "created": "2026-11-26T16:03:27.294Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/companies/ru_mts/articles/1112532",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "2fd11b170381",
+    "slug": "yevropa-ish-joyi-yig-ilishlariga-aini-kiritishga-tayyormi-2fd11b",
+    "title": "Yevropa ish joyi yig‘ilishlariga AI'ni kiritishga tayyormi",
+    "summary": "UC Today nashri Yevropaning ish joyi yig‘ilishlariga sun'iy intellektni kiritishga tayyorligi haqida savol qo‘ydi. Bu AI'ning mehnat bozoriga ta'siri va uning ish jarayonlariga integratsiyasi masalasini ko‘taradi.",
+    "tags": [
+      "mehnat bozori",
+      "siyosat"
+    ],
+    "importance": 2,
+    "score": 7,
+    "published": "2026-11-26T13:58:51.000Z",
+    "created": "2026-11-26T16:03:27.294Z",
+    "coverage": 1,
+    "source": {
+      "name": "UC Today",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAwRFZSdmNERnpwXzJxeUtfb3dIUm8xMVJSdjUyaERGLUdIaUlVbTRHT0NTcUJrblgzSjdtNWFiX0JjZF9Gd3NuSG1DQTNhZmFObkI2Q3FmUTRRVEtHVmd5SkpURjRCTlpZVlRUeDlWMWVLWjYxOHc2UQ",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "72fd424c711a",
+    "slug": "jensen-huang-xodimlarga-minnatdorchilik-bildirdi-72fd42",
+    "title": "Jensen Huang xodimlarga minnatdorchilik bildirdi",
+    "summary": "Nvidia asoschisi Jensen Huang xodimlari bilan yig‘ilishda Oq uyga minnatdorchilik bildirdi. U kompaniyani boshqarish uchun ikkinchi imkoniyat berilganidan minnatdor ekanini aytdi.",
+    "tags": [
+      "Nvidia",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 2.9,
+    "published": "2026-11-24T21:48:27.000Z",
+    "created": "2026-11-26T16:03:27.294Z",
+    "coverage": 1,
+    "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "b5f1b0286a82",
     "slug": "huawei-xitoyning-ai-rivojlanishida-markaziy-o-rin-egallamoqd-b5f1b0",
     "title": "Huawei Xitoyning AI rivojlanishida markaziy o‘rin egallamoqda",

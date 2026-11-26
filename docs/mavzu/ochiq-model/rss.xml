@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/ochiq-model/</link>
   <description>&quot;ochiq model&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Thu, 26 Nov 2026 15:48:53 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 26 Nov 2026 16:16:06 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/ochiq-model/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Habr: Rus tilida ModernBERT modelini o‘qitish usullari</title>
+    <link>https://ailenta.uz/x/habr-rus-tilida-modernbert-modelini-o-qitish-usullari-583153/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/habr-rus-tilida-modernbert-modelini-o-qitish-usullari-583153/</guid>
+    <pubDate>Thu, 26 Nov 2026 13:40:07 GMT</pubDate>
+    <description>Habr nashrida MWS AI markazi rus tili uchun ikki ModernBERT modelini qanday o‘qitgani haqida maqola chop etildi. Maqolada rus tilidagi enkoderlarni noldan o‘qitish va mavjud ko‘p tilli model lug‘atini almashtirish usullari muhokama qilingan.</description>
+    <category>tadqiqot</category><category>ochiq model</category>
+    <media:content url="https://ailenta.uz/og/habr-rus-tilida-modernbert-modelini-o-qitish-usullari-583153.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/habr-rus-tilida-modernbert-modelini-o-qitish-usullari-583153.jpg"/>
+  </item>
   <item>
     <title>Galaxea G0.7 asosiy modelini uzoq kontekst va tez rejim bilan chiqardi</title>
     <link>https://ailenta.uz/x/galaxea-g0-7-asosiy-modelini-uzoq-kontekst-va-tez-rejim-bila-c7d440/</link>
@@ -296,16 +306,6 @@
     <category>ochiq model</category>
     <media:content url="https://ailenta.uz/og/r-opensource-hamjamiyati-ai-loyihalarini-taqiqladi-6bffee.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/r-opensource-hamjamiyati-ai-loyihalarini-taqiqladi-6bffee.jpg"/>
-  </item>
-  <item>
-    <title>360M parametrli model terminalni taqlid qilishga o'rgatildi</title>
-    <link>https://ailenta.uz/x/360m-parametrli-model-terminalni-taqlid-qilishga-orgatildi-8802a7/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/360m-parametrli-model-terminalni-taqlid-qilishga-orgatildi-8802a7/</guid>
-    <pubDate>Thu, 22 Oct 2026 02:18:41 GMT</pubDate>
-    <description>WorldTUI loyihasi doirasida 360 million parametrli model terminalni taqlid qilish uchun o'qitildi. Bu model terminal muhitida ishlashga mo'ljallangan.</description>
-    <category>tadqiqot</category><category>ochiq model</category>
-    <media:content url="https://ailenta.uz/og/360m-parametrli-model-terminalni-taqlid-qilishga-orgatildi-8802a7.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/360m-parametrli-model-terminalni-taqlid-qilishga-orgatildi-8802a7.jpg"/>
   </item>
 </channel>
 </rss>
