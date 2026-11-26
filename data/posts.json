@@ -1,5 +1,72 @@
 [
   {
+    "id": "39a5ba9955ef",
+    "slug": "signal-asoschisi-moxie-marlinspike-ai-va-maxfiylik-haqida-39a5ba",
+    "title": "Signal asoschisi Moxie Marlinspike AI va maxfiylik haqida",
+    "summary": "Signal asoschisi Moxie Marlinspike AI va kriptografiya bo‘yicha intervyu berdi. U o‘zining maxfiylikka yo‘naltirilgan Confer AI chat xizmati, foydalanuvchilar emas, balki AI modellarini kuzatish haqida gapirdi.",
+    "tags": [
+      "xavfsizlik",
+      "maxfiylik"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-11-26T08:55:02.000Z",
+    "created": "2026-11-26T13:00:28.009Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/261126/p6",
+      "title": "Q&A with Signal's Moxie Marlinspike on AI and cryptography, his privacy-focused AI chat service Confer, surveilling AI models rather than users, and more (Tyler Cowen/Conversations with Tyler)",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "9f6601128726",
+    "slug": "o-zbekistonda-raqamli-qo-riqlash-tizimi-taklif-qilindi-9f6601",
+    "title": "O‘zbekistonda “Raqamli qo‘riqlash” tizimi taklif qilindi",
+    "summary": "O‘zbekistonda “Raqamli qo‘riqlash” yagona axborot tizimini joriy etish taklif qilindi. Bu tizim shartnomalarni elektron rasmiylashtirish, tezkor guruhlarni kuzatish va AI yordamida xavflarni aniqlashni o‘z ichiga oladi.",
+    "tags": [
+      "O'zbekiston",
+      "xavfsizlik"
+    ],
+    "importance": 4,
+    "score": 48,
+    "published": "2026-11-26T12:10:41.000Z",
+    "created": "2026-11-26T13:00:28.197Z",
+    "coverage": 1,
+    "source": {
+      "name": "Daryo",
+      "url": "https://daryo.uz/2026/11/26/ozbekistonda-raqamli-qoriqlash-yagona-axborot-tizimini-joriy-etish-taklif-qilindi",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "d6bdbe49e6bf",
+    "slug": "konnektikutda-ai-sohasidagi-ish-o-rinlari-soni-ortmoqda-d6bdbe",
+    "title": "Konnektikutda AI sohasidagi ish o‘rinlari soni ortmoqda",
+    "summary": "CT Insider xabariga ko‘ra, Konnektikut shtatida sun'iy intellekt sohasidagi ish o‘rinlari soni o‘sib bormoqda. Hozirda 650 ta AI bilan bog‘liq bo‘sh ish o‘rni mavjud.",
+    "tags": [
+      "mehnat bozori",
+      "iqtisod"
+    ],
+    "importance": 2,
+    "score": 7,
+    "published": "2026-11-26T09:01:36.000Z",
+    "created": "2026-11-26T13:00:28.197Z",
+    "coverage": 1,
+    "source": {
+      "name": "CT Insider",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSURBUlRndk9SdU9jdUdjTGlHcE41aWhWVnByOUxHNzcwdXEzUFdBRmFfdG0tc0Z4ZUc2a3k5MW80d3RjTlhBNXBpd3BwcHNpTWQ3eUtuVGpnN3FOU3UzQjZlM0pSX09kUXg0cWJBOWFjRV9HWHJ4MFhiNFNwb3BBVkZ0eFNfN3BDU1B4eQ",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "403442a1249f",
     "slug": "lotiniy-amerika-ai-uchun-resurslar-yetkazib-berishi-mumkin-403442",
     "title": "Lotiniy Amerika AI uchun resurslar yetkazib berishi mumkin",
