@@ -5,7 +5,7 @@
   <link>https://ailenta.uz</link>
   <description>Dunyodagi sun'iy intellekt yangiliklari o'zbek tilida. Har soatda yangilanadi, har bir xabarda asl manbaga havola.</description>
   <language>uz</language>
-  <lastBuildDate>Thu, 26 Nov 2026 00:22:21 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 26 Nov 2026 00:50:50 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/rss.xml" rel="self" type="application/rss+xml"/>
   <item>
     <title>AQSH eksport qoidalari Osiyodagi AIni sekinlashtirmoqda</title>
@@ -66,6 +66,16 @@
     <category>HP</category><category>biznes</category>
     <media:content url="https://ailenta.uz/og/hp-ai-kompyuterlarini-daromad-manbai-deb-bilmoqda-641d39.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/hp-ai-kompyuterlarini-daromad-manbai-deb-bilmoqda-641d39.jpg"/>
+  </item>
+  <item>
+    <title>Epochal sun'iy intellektni arxivlar orqali o'qitmoqda</title>
+    <link>https://ailenta.uz/x/epochal-suniy-intellektni-arxivlar-orqali-oqitmoqda-2b2798/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/epochal-suniy-intellektni-arxivlar-orqali-oqitmoqda-2b2798/</guid>
+    <pubDate>Wed, 25 Nov 2026 16:28:40 GMT</pubDate>
+    <description>Ilon Maskning xAI kompaniyasini yaratishda qatnashgan uch mutaxassis Epochal loyihasini ishlab chiqmoqda. Mazkur startap kelajakni bashorat qiluvchi sun'iy intellektni internetning eski arxiv nusxalari yordamida o'qitmoqda.</description>
+    <category>xAI</category><category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/epochal-suniy-intellektni-arxivlar-orqali-oqitmoqda-2b2798.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/epochal-suniy-intellektni-arxivlar-orqali-oqitmoqda-2b2798.jpg"/>
   </item>
   <item>
     <title>Minecraft yaratuvchisi AIga qarshi fikrini o'zgartirdi</title>
@@ -496,16 +506,6 @@
     <category>xavfsizlik</category><category>biznes</category>
     <media:content url="https://ailenta.uz/og/maple-5-3m-sarmoya-jalb-qilib-malumotni-himoyalaydi-4d83f5.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/maple-5-3m-sarmoya-jalb-qilib-malumotni-himoyalaydi-4d83f5.jpg"/>
-  </item>
-  <item>
-    <title>TangiMap tizimi jismoniy boshqaruv vositalarini sozlaydi</title>
-    <link>https://ailenta.uz/x/tangimap-tizimi-jismoniy-boshqaruv-vositalarini-sozlaydi-58c64d/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/tangimap-tizimi-jismoniy-boshqaruv-vositalarini-sozlaydi-58c64d/</guid>
-    <pubDate>Tue, 24 Nov 2026 19:30:00 GMT</pubDate>
-    <description>MIT tadqiqotchilari TangiMap nomli AI agent tizimini yaratdilar. Ushbu tizim tugmalar va surgichlar kabi jismoniy boshqaruv vositalarini qayta dasturlaydi. Bu foydalanuvchilarga suratlar tahrirlash va musiqani jonli ijro etishda qulaylik yaratadi.</description>
-    <category>tadqiqot</category><category>agentlar</category>
-    <media:content url="https://ailenta.uz/og/tangimap-tizimi-jismoniy-boshqaruv-vositalarini-sozlaydi-58c64d.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/tangimap-tizimi-jismoniy-boshqaruv-vositalarini-sozlaydi-58c64d.jpg"/>
   </item>
 </channel>
 </rss>
