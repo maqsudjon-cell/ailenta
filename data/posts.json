@@ -1,5 +1,151 @@
 [
   {
+    "id": "bd2aa0a3cffa",
+    "slug": "o-zbekistonda-suniy-intellekt-etikasi-qonun-darajasiga-ko-ta-bd2aa0",
+    "title": "O‘zbekistonda sun’iy intellekt etikasi qonun darajasiga ko‘tarilishi mumkin",
+    "summary": "Raqamli texnologiyalar vaziri Sherzod Shermatovning ma'lum qilishicha, O'zbekistonda sun'iy intellektdan foydalanishning etik qoidalari qonunchilik darajasida mustahkamlanadi. Vazirlik UNESCO va OECD kabi tashkilotlar bilan hamkorlikda tegishli hujjatlarni ishlab chiqqan.",
+    "tags": [
+      "O'zbekiston",
+      "qonun"
+    ],
+    "importance": 4,
+    "score": 48,
+    "published": "2026-11-26T03:45:24.000Z",
+    "created": "2026-11-26T03:49:16.561Z",
+    "coverage": 1,
+    "source": {
+      "name": "Pivot",
+      "url": "https://pivot.uz/uz/ozbekistonda-suniy-intellektdan-foydalanish-etikasi-qonun-darajasiga-kotarilishi-mumkin",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "e689aec10050",
+    "slug": "anthropic-rahbari-raqib-ai-bosh-direktorlarini-tanqid-qildi-e689ae",
+    "title": "Anthropic rahbari raqib AI bosh direktorlarini tanqid qildi",
+    "summary": "Anthropic bosh direktori Dario Amodei raqib AI kompaniyalari rahbarlarini \"hissiyotlarga asoslangan tijorat va siyosiy pozitsiya\"da aybladi. Uning AIga siyosiy boshqaruvni topshirishni qo'llab-quvvatlashi haqidagi taxminlar \"befoyda\" ekanligini ta'kidladi.",
+    "tags": [
+      "Anthropic",
+      "siyosat"
+    ],
+    "importance": 3,
+    "score": 24,
+    "published": "2026-11-25T23:56:50.000Z",
+    "created": "2026-11-26T03:49:16.561Z",
+    "coverage": 2,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/dario-amodei-anthropic-calls-out-rival-ai-ceos-over-messaging-2026-11",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "Business Insider",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUEt5UmlCcWdJVWhqQVEzQnJwUlMxcjdFZEZjZzV5cy12N0NCeTlYMzg5aWgyY0ZnaWV2UUVkc2Q4UzhmcGJyQ19LaS11Z2ZGLWRoMG44b2RiWVJmV1ZRUHlSU0YzM1RPbG1JczhzbWxNNHBqZEw2Qkt4SlpDc1dFTUhNNU04NmFYcldRd2ctWEYzc3prZGREcmhTaWhldkZiNGhN"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "bee872523568",
+    "slug": "ai-rivojlanishi-retsessiyani-keltirib-chiqarishi-mumkin-bee872",
+    "title": "AI rivojlanishi retsessiyani keltirib chiqarishi mumkin",
+    "summary": "Xedj fond menejerining fikricha, sun'iy intellektning jadal rivojlanishi iqtisodiy retsessiyaga sabab bo'lishi mumkin. Biroq, ma'lumot markazlari sarmoya kiritish uchun jozibador imkoniyat bo'lib qolmoqda.",
+    "tags": [
+      "iqtisod",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-11-26T01:34:58.000Z",
+    "created": "2026-11-26T03:49:16.561Z",
+    "coverage": 1,
+    "source": {
+      "name": "CNBC",
+      "url": "https://cnbc.com/2026/11/26/mispricing-risk-fund-managers-ai-volatility.html",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "6e65d2141bfd",
+    "slug": "fcc-elon-muskning-millionlab-suniy-yoldoshlariga-ruxsat-berd-6e65d2",
+    "title": "FCC Elon Muskning millionlab sun'iy yo'ldoshlariga ruxsat berdi",
+    "summary": "FCC Elon Muskning \"Starmind\" loyihasi doirasida millionlab ma'lumot markazi sun'iy yo'ldoshlarini uchirishga ruxsat berdi. Biroq, loyiha ishga tushirilishidan ancha uzoqda ekanligi ta'kidlanmoqda.",
+    "tags": [
+      "siyosat",
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-11-25T22:54:07.000Z",
+    "created": "2026-11-26T03:49:16.561Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/off-prem/2026/11/25/the-sky-was-once-full-of-stars-kids-then-the-fcc-let-elon-musk-launch-a-million-datacenter-satellites/5312268",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "66425fe95362",
+    "slug": "ai-kompaniyasi-xodimlari-modellardan-xavotirda-66425f",
+    "title": "AI kompaniyasi xodimlari modellardan xavotirda",
+    "summary": "Xabarlarga ko'ra, sun'iy intellekt kompaniyasi xodimlari ichki modellar xavfsiz chiqarish uchun juda kuchli ekanligidan ogohlantirmoqda. Ular bu modellar jamoatchilikka zarar yetkazishi mumkinligidan xavotirda.",
+    "tags": [
+      "xavfsizlik",
+      "mehnat bozori"
+    ],
+    "importance": 4,
+    "score": 19,
+    "published": "2026-11-25T21:07:20.000Z",
+    "created": "2026-11-26T03:49:16.561Z",
+    "coverage": 3,
+    "source": {
+      "name": "myfox28columbus.com",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPbmNhb3Vxd2xvSkZwaEJTbTlMN3lBQkFPaW9Ib2piV01LenUwakk0ZFZiY09hakdlZlNDR0JnVXpXcVBvMHhDb3hOTFpQcEZwNDk4OGQwamxEQk5nZnV2UElKbmlSeWI0NnlpN0xCbHVNcGdMeVUxX3ZTREJIclljMW90MzZtWklOVW5qbnhuRlFBMFNkc3BhSHdLSGduaDVhSkJQX0xUclJpbUlfVEFJdlVKUGYwdkMwemdhZzhTNlNSSEpRMGdYYnZZTkVSVVN0TmdvdGR5WEd2NFdyaFdwSlptM2U",
+      "indirect": true
+    },
+    "also": [
+      {
+        "name": "KOKH",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQWEpZclJtbzFwYnhHeXUzRGwybVhBSk44R2QzTzdvV3hCakxoZ05pZmlUMWhsWm9ZbXpOdGFhT19xZFlGeUg4WGlFc2xPaDhuMThCQTRYajBOSkJWbFk5cEtJbHJ3em0xd1FKY2lKSXBBM09BM1V5Z2N4SlEtT0Q1emQxbzdVMDFZb2NoNjZsN0M3TW9RTUQxejE4UU85ZTVXUXdWV3FDOFBPS1Y2bl9RRVNNUGNmdlR2aEU3MU01TXdVYmZ0cWMtcWNEVGVxZE5KLVBvSDkyYlo"
+      },
+      {
+        "name": "National News Desk",
+        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQZHRPS0l6c3BsVXdkWUNtTndaZjVTTlVTUXJfTnpSWmhFWjN4Q2ZWbGp0bEhGRW8wbG9KbFdpVWRSUHFtdXprcE1ET2N1azZYa2F2N0FnM3VrbWc5ZXpuZm1oYk1mRVN2R2lidFctbnkzdUFqLUNFUmsxQy1lNllnSXZTX1padk93d3czWG5EdnRPVWV2SHc0MkNPNm5XSnp4MlBIQWM1ZkVrQXpFMjlub05uSlFHeURCRW8takVFTHJtRXdQOWxjeERjYjJ1cXlXSEphNDdxbTAtLXVxZUl1LTBzN0VVWmRVNmNmMDNQc092akFXeVE"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "b6c8bf8ceac1",
+    "slug": "ai-kelajakda-oyin-yaratishni-osonlashtiradi-b6c8bf",
+    "title": "AI kelajakda o'yin yaratishni osonlashtiradi",
+    "summary": "Take-Two kompaniyasi GTA VI o'yinini yaratishda generativ AI ishlatilmaganini ma'lum qildi. Biroq, Ben Federning fikricha, AI tez orada yangi ijodkorlarga o'yinlarni osonlik bilan yaratish imkonini beradi.",
+    "tags": [
+      "biznes",
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 19,
+    "published": "2026-11-25T20:13:26.000Z",
+    "created": "2026-11-26T03:49:16.561Z",
+    "coverage": 1,
+    "source": {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/11/25/gta-vi-take-two-ceo-ben-feder-ai-videogames-filmmaker",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "2b27983ad7f0",
     "slug": "epochal-suniy-intellektni-arxivlar-orqali-oqitmoqda-2b2798",
     "title": "Epochal sun'iy intellektni arxivlar orqali o'qitmoqda",
