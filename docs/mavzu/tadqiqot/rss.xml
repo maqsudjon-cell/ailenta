@@ -5,7 +5,7 @@
   <link>https://ailenta.uz/mavzu/tadqiqot/</link>
   <description>&quot;tadqiqot&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Thu, 26 Nov 2026 09:24:41 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 26 Nov 2026 09:54:21 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/tadqiqot/rss.xml" rel="self" type="application/rss+xml"/>
   <item>
     <title>MIT neyron tarmoq og‘irliklarini dasturlash usulini taqdim etdi</title>
@@ -46,6 +46,26 @@
     <category>ta'lim</category><category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/aida-ishlash-26-ta-ochiq-dars-6e199a.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/aida-ishlash-26-ta-ochiq-dars-6e199a.jpg"/>
+  </item>
+  <item>
+    <title>MOZAIC: audio-video deepfeyk aniqlash sinov to'plami</title>
+    <link>https://ailenta.uz/x/mozaic-audio-video-deepfeyk-aniqlash-sinov-toplami-b02e0b/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/mozaic-audio-video-deepfeyk-aniqlash-sinov-toplami-b02e0b/</guid>
+    <pubDate>Thu, 26 Nov 2026 05:00:00 GMT</pubDate>
+    <description>MOZAIC — bu audio-video deepfeyklarni aniqlash uchun mo'ljallangan yangi sinov to'plami. U har bir klipni video va audio haqiqiy yoki soxta ekanligining to'rt xil kombinatsiyasida taqdim etadi. Bu har bir modalitening hissasini bevosita o'lchash imkonini beradi.</description>
+    <category>tadqiqot</category><category>xavfsizlik</category>
+    <media:content url="https://ailenta.uz/og/mozaic-audio-video-deepfeyk-aniqlash-sinov-toplami-b02e0b.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/mozaic-audio-video-deepfeyk-aniqlash-sinov-toplami-b02e0b.jpg"/>
+  </item>
+  <item>
+    <title>To'liq bo'lmagan ma'lumotlar uchun COFRS modeli taklif etildi</title>
+    <link>https://ailenta.uz/x/toliq-bolmagan-malumotlar-uchun-cofrs-modeli-taklif-etildi-9b5199/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/toliq-bolmagan-malumotlar-uchun-cofrs-modeli-taklif-etildi-9b5199/</guid>
+    <pubDate>Thu, 26 Nov 2026 05:00:00 GMT</pubDate>
+    <description>Tadqiqotchilar to'liq bo'lmagan ma'lumotlar tizimlarida atributlarni kamaytirish uchun Conservative Overlap Fuzzy Rough Set (COFRS) modelini taklif qildi. Bu model yo'qolgan qiymatlarni global miqyosda jazolaydi va ularni universal belgi sifatida moslashtirmaydi.</description>
+    <category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/toliq-bolmagan-malumotlar-uchun-cofrs-modeli-taklif-etildi-9b5199.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/toliq-bolmagan-malumotlar-uchun-cofrs-modeli-taklif-etildi-9b5199.jpg"/>
   </item>
   <item>
     <title>Galaxea G0.7 asosiy modelini uzoq kontekst va tez rejim bilan chiqardi</title>
@@ -286,26 +306,6 @@
     <category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/uzun-kontekstli-ai-xarajatini-kamaytirish-usuli-yaraldi-7f53cf.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/uzun-kontekstli-ai-xarajatini-kamaytirish-usuli-yaraldi-7f53cf.jpg"/>
-  </item>
-  <item>
-    <title>XPeng X-World 1.6 modelini taqdim etdi</title>
-    <link>https://ailenta.uz/x/xpeng-x-world-1-6-modelini-taqdim-etdi-a210b6/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/xpeng-x-world-1-6-modelini-taqdim-etdi-a210b6/</guid>
-    <pubDate>Tue, 24 Nov 2026 01:59:33 GMT</pubDate>
-    <description>XPeng kompaniyasi haydash sun'iy intellektini sinash uchun X-World 1.6 modelini yangiladi. Tizim yozib olingan yo'llarda takroriy virtual shahar sinovlarini o'tkazish imkonini beradi.</description>
-    <category>tadqiqot</category><category>robototexnika</category>
-    <media:content url="https://ailenta.uz/og/xpeng-x-world-1-6-modelini-taqdim-etdi-a210b6.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/xpeng-x-world-1-6-modelini-taqdim-etdi-a210b6.jpg"/>
-  </item>
-  <item>
-    <title>AI &quot;slop&quot;ga qarshi kurashda tadqiqotchilarni jazolamaslik</title>
-    <link>https://ailenta.uz/x/ai-slop-ga-qarshi-kurashda-tadqiqotchilarni-jazolamaslik-0b045d/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/ai-slop-ga-qarshi-kurashda-tadqiqotchilarni-jazolamaslik-0b045d/</guid>
-    <pubDate>Tue, 24 Nov 2026 00:00:00 GMT</pubDate>
-    <description>Nature nashri AI tomonidan yaratilgan sifatsiz kontentga qarshi kurashishda qonuniy tadqiqotchilarni jazolamaslikka chaqirdi. Bu AI sohasidagi muammolarni hal qilishda e'tiborga olish kerak bo'lgan muhim jihatdir.</description>
-    <category>tadqiqot</category><category>qonun</category>
-    <media:content url="https://ailenta.uz/og/ai-slop-ga-qarshi-kurashda-tadqiqotchilarni-jazolamaslik-0b045d.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/ai-slop-ga-qarshi-kurashda-tadqiqotchilarni-jazolamaslik-0b045d.jpg"/>
   </item>
 </channel>
 </rss>
