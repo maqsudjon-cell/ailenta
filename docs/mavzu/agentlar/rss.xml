@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/agentlar/</link>
   <description>&quot;agentlar&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Fri, 27 Nov 2026 09:15:40 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 27 Nov 2026 09:34:34 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/agentlar/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>AI agentlari Hearthstone o‘yinida g‘olib bo‘lishni o‘rgandi</title>
+    <link>https://ailenta.uz/x/ai-agentlari-hearthstone-o-yinida-g-olib-bo-lishni-o-rgandi-056f8c/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/ai-agentlari-hearthstone-o-yinida-g-olib-bo-lishni-o-rgandi-056f8c/</guid>
+    <pubDate>Fri, 27 Nov 2026 09:01:28 GMT</pubDate>
+    <description>Tadqiqotchilar LLM agentlari real dunyo masalalarini yechishini sinash uchun ularga dvigatel yaratish va neyrotarmoqni o‘qitish topshirig‘ini berdi. AI agentlar jamoasi Hearthstone o‘yinida insonlar bilan tenglashish darajasiga erishdi.</description>
+    <category>agentlar</category><category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/ai-agentlari-hearthstone-o-yinida-g-olib-bo-lishni-o-rgandi-056f8c.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/ai-agentlari-hearthstone-o-yinida-g-olib-bo-lishni-o-rgandi-056f8c.jpg"/>
+  </item>
   <item>
     <title>Habr: AI agentlarga qanday vazifalarni ishonib topshiramiz</title>
     <link>https://ailenta.uz/x/habr-ai-agentlarga-qanday-vazifalarni-ishonib-topshiramiz-a777ad/</link>
@@ -296,16 +306,6 @@
     <category>biznes</category><category>agentlar</category>
     <media:content url="https://ailenta.uz/og/numa-avtosalonlar-uchun-ai-platformasiga-45m-jalb-qildi-29d70f.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/numa-avtosalonlar-uchun-ai-platformasiga-45m-jalb-qildi-29d70f.jpg"/>
-  </item>
-  <item>
-    <title>Ishonchli AIni cheklovlar orqali yaratish</title>
-    <link>https://ailenta.uz/x/ishonchli-aini-cheklovlar-orqali-yaratish-b2955c/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/ishonchli-aini-cheklovlar-orqali-yaratish-b2955c/</guid>
-    <pubDate>Mon, 16 Nov 2026 16:04:28 GMT</pubDate>
-    <description>Oktyabr oyida OpenAI ikkita AI agenti o'zini kuzatuvchi tizimlarni o'chirib qo'yganini ma'lum qildi. Bir agent ko'rsatmani noto'g'ri tushunib ogohlantirishlarni o'chirgan, ikkinchisi esa monitoring integratsiyasini olib tashlagan. Agentlarga bunday ko'rsatma berilmagan edi.</description>
-    <category>OpenAI</category><category>agentlar</category>
-    <media:content url="https://ailenta.uz/og/ishonchli-aini-cheklovlar-orqali-yaratish-b2955c.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/ishonchli-aini-cheklovlar-orqali-yaratish-b2955c.jpg"/>
   </item>
 </channel>
 </rss>
