@@ -1,5 +1,115 @@
 [
   {
+    "id": "f1ac5e7bbd9d",
+    "slug": "jensen-xuang-qaytishi-ai-bozor-xavotirlarini-kamaytirmadi-f1ac5e",
+    "title": "Jensen Xuang qaytishi AI bozor xavotirlarini kamaytirmadi",
+    "summary": "Jensen Xuangning qaytishi AI bozorida qisqa muddatli o'sishga sabab bo'ldi. Biroq, doimiy bozor beqarorligi sarmoyadorlarga yangi imkoniyat yaratdi.",
+    "tags": [
+      "Nvidia",
+      "iqtisod"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-11-27T18:46:20.000Z",
+    "created": "2026-11-27T21:36:38.527Z",
+    "coverage": 1,
+    "source": {
+      "name": "CNBC",
+      "url": "https://cnbc.com/investingclub/2026/11/27/jensen-huangs-return-did-little-to-ease-ai-jitters-we-bought-on-weakness.html",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "bb30bb98f305",
+    "slug": "yevropada-ishchilarning-44-i-aidan-haftalik-foydalanmoqda-bb30bb",
+    "title": "Yevropada ishchilarning 44%i AI'dan haftalik foydalanmoqda",
+    "summary": "Yevropa Markaziy banki so'roviga ko'ra, avgust oyida Yevropa Ittifoqi ishchilarining 44 foizi ishda AI'dan haftalik foydalangan. Ularning 18 foizi har kuni AI'dan foydalanib, AQSH darajasidan oshgan.",
+    "tags": [
+      "mehnat bozori",
+      "iqtisod"
+    ],
+    "importance": 3,
+    "score": 18,
+    "published": "2026-11-27T18:15:00.000Z",
+    "created": "2026-11-27T21:36:38.527Z",
+    "coverage": 1,
+    "source": {
+      "name": "Techmeme",
+      "url": "https://techmeme.com/261127/p10",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "71b3d40142e7",
+    "slug": "samsung-kamera-ilovasiga-ai-rejimini-qoshishi-kutilmoqda-71b3d4",
+    "title": "Samsung kamera ilovasiga AI rejimini qo'shishi kutilmoqda",
+    "summary": "Xabarlarga ko'ra, Samsung o'zining kamera ilovasiga AI rejimini qo'shmoqda. Bu xususiyat Apple iOS 27'da qo'shgan Siri rejimiga o'xshash bo'lishi mumkin.",
+    "tags": [
+      "Samsung",
+      "Apple"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-11-27T20:06:02.000Z",
+    "created": "2026-11-27T21:36:38.527Z",
+    "coverage": 1,
+    "source": {
+      "name": "Engadget",
+      "url": "https://engadget.com/2329765/samsung-is-reportedly-giving-its-camera-app-an-ai-mode",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "d6b7f760dc7c",
+    "slug": "conduct-kompaniyasi-korxonalar-uchun-ai-operatsion-tizim-yar-d6b7f7",
+    "title": "Conduct kompaniyasi korxonalar uchun AI operatsion tizim yaratmoqda",
+    "summary": "Conduct kompaniyasi bosh direktori korxona IT jamoalari uchun AI operatsion tizimini yaratish haqida gapirdi. Ular o'z mahsulotini migratsiya dasturi emasligini ta'kidladi.",
+    "tags": [
+      "biznes",
+      "bulut"
+    ],
+    "importance": 2,
+    "score": 13.2,
+    "published": "2026-11-27T05:00:27.000Z",
+    "created": "2026-11-27T21:36:38.527Z",
+    "coverage": 1,
+    "source": {
+      "name": "Sifted",
+      "url": "https://sifted.eu/articles/conduct-ceo-on-building-an-ai-operating-system-for-enterprise-it-teams",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "ca506d6df214",
+    "slug": "ai-agentlari-dizaynerlarga-kod-yozish-imkonini-bermoqda-ca506d",
+    "title": "AI agentlari dizaynerlarga kod yozish imkonini bermoqda",
+    "summary": "AI agentlari dizaynerlarga kod yozish imkoniyatini berib, ularni \"dasturchi\"ga aylantirmoqda. Bu jarayon dizayn maketlarini tezda ishlaydigan ekranlarga aylantirishga yordam beradi.",
+    "tags": [
+      "agentlar",
+      "mehnat bozori"
+    ],
+    "importance": 3,
+    "score": 11,
+    "published": "2026-11-27T21:28:42.000Z",
+    "created": "2026-11-27T21:36:38.527Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1113430",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "ab9a7b7cc5d1",
     "slug": "britaniya-ai-markazlari-boyicha-konsultatsiyani-rad-etdi-ab9a7b",
     "title": "Britaniya AI markazlari bo'yicha konsultatsiyani rad etdi",
