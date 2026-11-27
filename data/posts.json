@@ -1,5 +1,53 @@
 [
   {
+    "id": "75b8b514d8af",
+    "slug": "afrikada-aini-joriy-etishda-xarajatlar-asosiy-omil-bolmoqda-75b8b5",
+    "title": "Afrikada AI'ni joriy etishda xarajatlar asosiy omil bo'lmoqda",
+    "summary": "Afrikada raqamli imkoniyatlarni kengaytirishda vositalarning arzonligi hal qiluvchi ahamiyatga ega. Bu haqda texnologiya yetakchilari Semafor nashriga ma'lum qildi.",
+    "tags": [
+      "biznes",
+      "iqtisod"
+    ],
+    "importance": 3,
+    "score": 25,
+    "published": "2026-11-27T14:30:06.000Z",
+    "created": "2026-11-27T15:03:27.897Z",
+    "coverage": 2,
+    "source": {
+      "name": "Semafor",
+      "url": "https://semafor.com/article/11/27/2026/cost-is-key-in-africas-ai-rollout",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "Semafor",
+        "url": "https://semafor.com/article/11/27/2026/ai-debt-boom-could-push-up-funding-costs-as-south-africa-approaches-refinancing"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "b2fd5a37d3a7",
+    "slug": "mercedes-xitoyda-doubao-aili-gibrid-clani-taqdim-etdi-b2fd5a",
+    "title": "Mercedes Xitoyda Doubao AI'li gibrid CLA'ni taqdim etdi",
+    "summary": "Mercedes-Benz Guançjou avtosalonida yangi gibrid CLA modelini taqdim etdi. Avtomobil saloni va haydovchiga yordam berish uchun Xitoyda ishlab chiqilgan AI xizmatlari bilan jihozlangan.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 18,
+    "published": "2026-11-27T13:47:10.000Z",
+    "created": "2026-11-27T15:03:27.897Z",
+    "coverage": 1,
+    "source": {
+      "name": "TechNode",
+      "url": "https://technode.com/2026/11/27/mercedes-launches-hybrid-cla-in-china-with-doubao-ai-and-momenta-driving-system",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "60e1f7d85c08",
     "slug": "ai-aktrisasi-tilli-norvud-oz-xususiyatlari-haqida-gapirdi-60e1f7",
     "title": "AI aktrisasi Tilli Norvud o'z xususiyatlari haqida gapirdi",
