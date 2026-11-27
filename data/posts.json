@@ -1,5 +1,49 @@
 [
   {
+    "id": "ab9a7b7cc5d1",
+    "slug": "britaniya-ai-markazlari-boyicha-konsultatsiyani-rad-etdi-ab9a7b",
+    "title": "Britaniya AI markazlari bo'yicha konsultatsiyani rad etdi",
+    "summary": "Buyuk Britaniya hukumati AI ma'lumot markazlari bo'yicha milliy maslahatlashuvni rad etdi. Vazirlar loyiha darajasidagi ekologik tekshiruvlarga ishora qilmoqda. Ushbu masaladagi petitsiya 39 000 dan ortiq imzo to'pladi.",
+    "tags": [
+      "siyosat",
+      "bulut"
+    ],
+    "importance": 3,
+    "score": 19,
+    "published": "2026-11-27T12:38:00.000Z",
+    "created": "2026-11-27T18:02:40.473Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/off-prem/2026/11/27/uk-government-rejects-national-consultation-on-ai-datacenters/5312501",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "4600d1095287",
+    "slug": "aqsh-xitoyga-ai-chiplari-sizishiga-qarshi-kurashmoqchi-4600d1",
+    "title": "AQSH Xitoyga AI chiplari sizishiga qarshi kurashmoqchi",
+    "summary": "AQSH senatorlari Xitoyga AI chiplari sizib chiqishiga qarshi choralarni kuchaytirishga va'da berdi. Latnik ushbu masala bo'yicha senatorlar e'tiroziga uchradi.",
+    "tags": [
+      "chiplar",
+      "siyosat"
+    ],
+    "importance": 3,
+    "score": 1.2,
+    "published": "2026-11-26T15:30:00.000Z",
+    "created": "2026-11-27T18:02:40.473Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Hill",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaXU0eGQ4RzVOeVNoR3owZXNLQ0hZZ05iVzJFRVVvOUNkQ0s2TnRmS1o3STdnWFBiMFNTNHNBWHBMNjdIVlhXc3hPbWM2SE5Ba2MwV3I0T1k1eWl0WGVZUFV2N3BlcnNKa05PQmRWZm5NeFc3N2FEOFZvUkFEVnE1UF85enFDT09kRzhV0gGQAUFVX3lxTE51Y25sN2t0bUZYNWFaQm5DTkZFclYzb2JVLWEwWEIwX1VFLWFSUjJ4eWRZTU9BU1lUd1J5Q3ZDNEpXajVPcU1aa3haRjZ1SUtJRXlEZlhVSHlPaUQwcGZBYnNra3NGM0dNYVhiMWVhR0MzMGhIeGFoemhmS2dyRUNUT2pISlU3MzY0a0VwdkJDcQ",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "d7f02f7cb5d8",
     "slug": "dungeons-dragons-mualliflarga-ai-kelishuvi-pulini-beradi-d7f02f",
     "title": "Dungeons & Dragons mualliflarga AI kelishuvi pulini beradi",
