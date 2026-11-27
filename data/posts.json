@@ -1,5 +1,71 @@
 [
   {
+    "id": "a66081d49a92",
+    "slug": "ai-targibotchilari-insoniyat-qirilishidan-xavotirda-emas-a66081",
+    "title": "AI targ'ibotchilari insoniyat qirilishidan xavotirda emas",
+    "summary": "Silikon vodiysi yetakchilarining qarashlari o'rganildi. Ba'zi AI targ'ibotchilari insoniyat yo'q bo'lib ketishi ehtimolidan tashvishlanmaydi. Ularning munosabatiga muayyan e'tiqodlar to'plami sabab bo'lmoqda.",
+    "tags": [
+      "tadqiqot",
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 27,
+    "published": "2026-11-27T10:01:01.000Z",
+    "created": "2026-11-27T12:01:59.375Z",
+    "coverage": 1,
+    "source": {
+      "name": "The New York Times",
+      "url": "https://nytimes.com/2026/11/27/magazine/ai-silicon-valley-human-extinction.html",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "a555d35dd70c",
+    "slug": "yevropaning-ai-suverenitetiga-intilishi-qiyinchilikda-a555d3",
+    "title": "Yevropaning AI suverenitetiga intilishi qiyinchilikda",
+    "summary": "Yevropada ma'lumot markazlariga xarajatlar ortmoqda. Shunga qaramay, modellar, chiplar va asosiy ta'sir imkoniyatlari AQSH hamda Osiyoda to'plangan.",
+    "tags": [
+      "bulut",
+      "chiplar"
+    ],
+    "importance": 3,
+    "score": 22,
+    "published": "2026-11-27T11:32:00.000Z",
+    "created": "2026-11-27T12:01:59.375Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Register",
+      "url": "https://theregister.com/ai-and-ml/2026/11/27/europes-ai-sovereignty-push-lots-of-cloud-not-much-silver-lining/5312120",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "3dbff94cc364",
+    "slug": "ai-xavfidan-qorquvchilar-jamgarmalarini-ozgartirmoqda-3dbff9",
+    "title": "AI xavfidan qo'rquvchilar jamg'armalarini o'zgartirmoqda",
+    "summary": "AI xavfsizligi bo'yicha mutaxassislar jamg'arma va investitsiya rejalarini qayta ko'rmoqda. Ular kelgusi o'n yilliklarda sun'iy intellekt insoniyatni yo'q qilishi mumkinligidan xavotirda.",
+    "tags": [
+      "xavfsizlik",
+      "iqtisod"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-11-27T10:45:36.000Z",
+    "created": "2026-11-27T12:01:59.375Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/ai-apocalypse-fears-changing-how-researchers-save-invest-retirement-2026-11",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "56cfa857c24c",
     "slug": "17-yoshli-ai-asoschisi-linkedin-orqali-bmtgacha-yetib-bordi-56cfa8",
     "title": "17 yoshli AI asoschisi LinkedIn orqali BMTgacha yetib bordi",
