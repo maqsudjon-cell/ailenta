@@ -1,17 +1,38 @@
 [
   {
+    "id": "abac43c4a0fa",
+    "slug": "xiaomi-ikkinchi-avlod-ai-kozoynaklarini-dekabrda-chiqaradi-abac43",
+    "title": "Xiaomi ikkinchi avlod AI ko'zoynaklarini dekabrda chiqaradi",
+    "summary": "Xiaomi dekabr oyi o'rtalarida ikkinchi avlod AI ko'zoynaklarini taqdim etishni rejalashtirmoqda. Ular Xiaomi 18 smartfoni bilan birga sotuvga chiqishi kutilmoqda. Qatorda displeyli va elektroximik linzali modellar bo'lishi aytilmoqda.",
+    "tags": [
+      "Xiaomi"
+    ],
+    "importance": 3,
+    "score": 18,
+    "published": "2026-11-27T13:46:04.000Z",
+    "created": "2026-11-27T15:41:27.905Z",
+    "coverage": 1,
+    "source": {
+      "name": "TechNode",
+      "url": "https://technode.com/2026/11/27/xiaomi-reportedly-plans-december-launch-for-second-generation-ai-glasses-including-display-version",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "b209b6abfbf4",
-    "slug": "rossiya-ai-modellarini-ananaviy-qadriyatlarga-tekshiradi-b209b6",
-    "title": "Rossiya AI modellarini an'anaviy qadriyatlarga tekshiradi",
-    "summary": "Rossiya Raqamli rivojlanish vazirligi yirik AI modellarining qonunchilik va an'anaviy qadriyatlarga mosligini baholash loyihasini e'lon qildi. Sun'iy intellekt modellarini baholash davlat byudjeti hisobidan amalga oshiriladi.",
+    "slug": "rossiya-ai-modellarini-ananaviy-qadriyatlar-ga-baholaydi-b209b6",
+    "title": "Rossiya AI modellarini \"an'anaviy qadriyatlar\"ga baholaydi",
+    "summary": "Rossiya Raqamli rivojlanish vazirligi yirik fundamental AI modellarining mamlakat qonunchiligi va \"an'anaviy ma'naviy qadriyatlar\"ga muvofiqligini tasdiqlash qoidalarini e'lon qildi. Ushbu baholash byudjet hisobidan amalga oshiriladi.",
     "tags": [
       "siyosat",
       "qonun"
     ],
-    "importance": 3,
+    "importance": 4,
     "score": 11,
     "published": "2026-11-27T14:53:06.000Z",
-    "created": "2026-11-27T15:27:14.532Z",
+    "created": "2026-11-27T15:41:27.905Z",
     "coverage": 1,
     "source": {
       "name": "Habr",
