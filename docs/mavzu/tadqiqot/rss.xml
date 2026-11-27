@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/tadqiqot/</link>
   <description>&quot;tadqiqot&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Fri, 27 Nov 2026 08:12:19 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 27 Nov 2026 09:15:40 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/tadqiqot/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>AI matn detektorlari qanday ishlashi o‘rganildi</title>
+    <link>https://ailenta.uz/x/ai-matn-detektorlari-qanday-ishlashi-o-rganildi-8f4f14/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/ai-matn-detektorlari-qanday-ishlashi-o-rganildi-8f4f14/</guid>
+    <pubDate>Fri, 27 Nov 2026 07:00:17 GMT</pubDate>
+    <description>AI matn detektorlari matnning til modeli uchun qanchalik taxmin qilinishiga tayanadi. Mutaxassislar uchta ochiq modelda beshta matnni sinab ko'rib, detektorlar ko'rsatkichini to'liq isbot deb bo'lmasligini ta'kidladi.</description>
+    <category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/ai-matn-detektorlari-qanday-ishlashi-o-rganildi-8f4f14.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/ai-matn-detektorlari-qanday-ishlashi-o-rganildi-8f4f14.jpg"/>
+  </item>
   <item>
     <title>Matematika uchun AutoformBench sinov to‘plami yaratildi</title>
     <link>https://ailenta.uz/x/matematika-uchun-autoformbench-sinov-to-plami-yaratildi-be1cc5/</link>
@@ -296,16 +306,6 @@
     <category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/vk-ikkinchi-recsys-meetup-tadbirini-otkazadi-f4c5fe.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/vk-ikkinchi-recsys-meetup-tadbirini-otkazadi-f4c5fe.jpg"/>
-  </item>
-  <item>
-    <title>Sarvam AI yangi SARVAM-105B-1711 modelini chiqardi</title>
-    <link>https://ailenta.uz/x/sarvam-ai-yangi-sarvam-105b-1711-modelini-chiqardi-bdd1ae/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/sarvam-ai-yangi-sarvam-105b-1711-modelini-chiqardi-bdd1ae/</guid>
-    <pubDate>Tue, 24 Nov 2026 09:00:15 GMT</pubDate>
-    <description>Hindistonning Sarvam AI kompaniyasi SARVAM-105B-1711 modelining yangi versiyasini e'lon qildi. U tokenlarni qayta ishlash narxini 0,45 dollardan 0,15 dollarga tushirdi va sinov to'plami ballarini 42,6 dan 73,9 gacha oshirdi.</description>
-    <category>tadqiqot</category><category>agentlar</category>
-    <media:content url="https://ailenta.uz/og/sarvam-ai-yangi-sarvam-105b-1711-modelini-chiqardi-bdd1ae.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/sarvam-ai-yangi-sarvam-105b-1711-modelini-chiqardi-bdd1ae.jpg"/>
   </item>
 </channel>
 </rss>

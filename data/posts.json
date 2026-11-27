@@ -1,5 +1,47 @@
 [
   {
+    "id": "a148956bfb4d",
+    "slug": "xalqaro-kompaniyalarda-11-nafar-o-zbekistonlik-ayol-ishlamoq-a14895",
+    "title": "Xalqaro kompaniyalarda 11 nafar o‘zbekistonlik ayol ishlamoqda",
+    "summary": "The Tech nashri xalqaro texnologiya kompaniyalarida faoliyat yuritayotgan 11 nafar o‘zbekistonlik ayol haqida material e’lon qildi. Ular AQSh va Yevropa kompaniyalarida dasturiy ta’minot hamda AI yo‘nalishlarida ishlamoqda.",
+    "tags": [
+      "O'zbekiston"
+    ],
+    "importance": 3,
+    "score": 48,
+    "published": "2026-11-27T08:48:26.000Z",
+    "created": "2026-11-27T09:02:45.962Z",
+    "coverage": 1,
+    "source": {
+      "name": "Pivot",
+      "url": "https://pivot.uz/uz/ozbekistonlik-11-nafar-ayol-xalqaro-texnologiya-kompaniyalarida-faoliyat-yuritmoqda",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "8f4f14a8d5e5",
+    "slug": "ai-matn-detektorlari-qanday-ishlashi-o-rganildi-8f4f14",
+    "title": "AI matn detektorlari qanday ishlashi o‘rganildi",
+    "summary": "AI matn detektorlari matnning til modeli uchun qanchalik taxmin qilinishiga tayanadi. Mutaxassislar uchta ochiq modelda beshta matnni sinab ko'rib, detektorlar ko'rsatkichini to'liq isbot deb bo'lmasligini ta'kidladi.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 11,
+    "published": "2026-11-27T07:00:17.000Z",
+    "created": "2026-11-27T09:02:45.962Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1111494",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "355eb2e5ee20",
     "slug": "q-ant-yoruglik-tolqinida-ishlaydigan-chip-yaratmoqda-355eb2",
     "title": "Q.ANT yorug'lik to'lqinida ishlaydigan chip yaratmoqda",
