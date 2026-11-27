@@ -1,5 +1,26 @@
 [
   {
+    "id": "355eb2e5ee20",
+    "slug": "q-ant-yoruglik-tolqinida-ishlaydigan-chip-yaratmoqda-355eb2",
+    "title": "Q.ANT yorug'lik to'lqinida ishlaydigan chip yaratmoqda",
+    "summary": "Germaniyaning Q.ANT kompaniyasi AI modellarini yuritish uchun energiya sarfini kamaytirmoqchi. Kompaniya murakkab hisob-kitoblarni bajarishda elektr energiyasi o'rniga yorug'lik to'lqinlaridan foydalanadigan chiplarni ishlab chiqmoqda.",
+    "tags": [
+      "chiplar"
+    ],
+    "importance": 3,
+    "score": 23,
+    "published": "2026-11-27T07:00:00.000Z",
+    "created": "2026-11-27T08:02:37.779Z",
+    "coverage": 1,
+    "source": {
+      "name": "Wired",
+      "url": "https://wired.com/story/a-new-breed-of-chip-runs-ai-models-using-waves-of-light",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "be1cc5587b8c",
     "slug": "matematika-uchun-autoformbench-sinov-to-plami-yaratildi-be1cc5",
     "title": "Matematika uchun AutoformBench sinov to‘plami yaratildi",
