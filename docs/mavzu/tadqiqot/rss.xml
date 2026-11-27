@@ -5,8 +5,28 @@
   <link>https://ailenta.uz/mavzu/tadqiqot/</link>
   <description>&quot;tadqiqot&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Fri, 27 Nov 2026 04:08:57 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 27 Nov 2026 05:15:02 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/tadqiqot/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>AI kontekstini kengaytirish bo‘yicha yangi yondashuv</title>
+    <link>https://ailenta.uz/x/ai-kontekstini-kengaytirish-bo-yicha-yangi-yondashuv-5aa9e3/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/ai-kontekstini-kengaytirish-bo-yicha-yangi-yondashuv-5aa9e3/</guid>
+    <pubDate>Fri, 27 Nov 2026 05:00:00 GMT</pubDate>
+    <description>Tadqiqotchilar sun'iy intellektdagi xatoliklar ko'pincha modelning kuchsizligidan emas, balki vaziyat va kontekst mos kelmasligidan kelib chiqishini ma'lum qildi. Ushbu muammoni bartaraf etish uchun kontekstni kengaytirish tushunchasi taklif etildi.</description>
+    <category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/ai-kontekstini-kengaytirish-bo-yicha-yangi-yondashuv-5aa9e3.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/ai-kontekstini-kengaytirish-bo-yicha-yangi-yondashuv-5aa9e3.jpg"/>
+  </item>
+  <item>
+    <title>Matematik isbotlar uchun AutoformBench sinov to'plami</title>
+    <link>https://ailenta.uz/x/matematik-isbotlar-uchun-autoformbench-sinov-toplami-be1cc5/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/matematik-isbotlar-uchun-autoformbench-sinov-toplami-be1cc5/</guid>
+    <pubDate>Fri, 27 Nov 2026 05:00:00 GMT</pubDate>
+    <description>Tadqiqotchilar Lean 4 muhitida ilg‘or matematik isbotlarni rasmiylashtirish uchun AutoformBench sinov to'plamini taqdim etdi. U 24 ta manbadan olingan 341 ta rasmiylashtirish vazifasini o‘z ichiga oladi. Yangi to'plam AI tizimlarining matematik qobiliyatlarini sinashga xizmat qiladi.</description>
+    <category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/matematik-isbotlar-uchun-autoformbench-sinov-toplami-be1cc5.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/matematik-isbotlar-uchun-autoformbench-sinov-toplami-be1cc5.jpg"/>
+  </item>
   <item>
     <title>Jack Despain Zhou: AI shaxssizlashtirishga olib kelmoqda</title>
     <link>https://ailenta.uz/x/jack-despain-zhou-ai-shaxssizlashtirishga-olib-kelmoqda-069f94/</link>
@@ -286,26 +306,6 @@
     <category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/vk-ikkinchi-recsys-meetup-tadbirini-otkazadi-f4c5fe.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/vk-ikkinchi-recsys-meetup-tadbirini-otkazadi-f4c5fe.jpg"/>
-  </item>
-  <item>
-    <title>Sarvam AI yangi SARVAM-105B-1711 modelini chiqardi</title>
-    <link>https://ailenta.uz/x/sarvam-ai-yangi-sarvam-105b-1711-modelini-chiqardi-bdd1ae/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/sarvam-ai-yangi-sarvam-105b-1711-modelini-chiqardi-bdd1ae/</guid>
-    <pubDate>Tue, 24 Nov 2026 09:00:15 GMT</pubDate>
-    <description>Hindistonning Sarvam AI kompaniyasi SARVAM-105B-1711 modelining yangi versiyasini e'lon qildi. U tokenlarni qayta ishlash narxini 0,45 dollardan 0,15 dollarga tushirdi va sinov to'plami ballarini 42,6 dan 73,9 gacha oshirdi.</description>
-    <category>tadqiqot</category><category>agentlar</category>
-    <media:content url="https://ailenta.uz/og/sarvam-ai-yangi-sarvam-105b-1711-modelini-chiqardi-bdd1ae.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/sarvam-ai-yangi-sarvam-105b-1711-modelini-chiqardi-bdd1ae.jpg"/>
-  </item>
-  <item>
-    <title>Vue-llm yordamida AI chatni mavjud tizimga integratsiya qilish</title>
-    <link>https://ailenta.uz/x/vue-llm-yordamida-ai-chatni-mavjud-tizimga-integratsiya-qili-b64972/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/vue-llm-yordamida-ai-chatni-mavjud-tizimga-integratsiya-qili-b64972/</guid>
-    <pubDate>Tue, 24 Nov 2026 08:01:07 GMT</pubDate>
-    <description>BIGPLAY frontend dasturchisi mavjud backendga tegmasdan, ichki admin paneliga analitik AI chatni integratsiya qildi. U `vue-llm` ochiq kodli kutubxonasidan foydalanib, SQL so'rovlari orqali ma'lumotlarni olish va grafiklar yaratish imkonini berdi.</description>
-    <category>tadqiqot</category><category>ochiq model</category>
-    <media:content url="https://ailenta.uz/og/vue-llm-yordamida-ai-chatni-mavjud-tizimga-integratsiya-qili-b64972.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/vue-llm-yordamida-ai-chatni-mavjud-tizimga-integratsiya-qili-b64972.jpg"/>
   </item>
 </channel>
 </rss>

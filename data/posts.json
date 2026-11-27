@@ -1,5 +1,68 @@
 [
   {
+    "id": "5aa9e3310d13",
+    "slug": "ai-kontekstini-kengaytirish-bo-yicha-yangi-yondashuv-5aa9e3",
+    "title": "AI kontekstini kengaytirish bo‘yicha yangi yondashuv",
+    "summary": "Tadqiqotchilar sun'iy intellektdagi xatoliklar ko'pincha modelning kuchsizligidan emas, balki vaziyat va kontekst mos kelmasligidan kelib chiqishini ma'lum qildi. Ushbu muammoni bartaraf etish uchun kontekstni kengaytirish tushunchasi taklif etildi.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 16,
+    "published": "2026-11-27T05:00:00.000Z",
+    "created": "2026-11-27T05:02:46.345Z",
+    "coverage": 1,
+    "source": {
+      "name": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2611.33160",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "be1cc5587b8c",
+    "slug": "matematik-isbotlar-uchun-autoformbench-sinov-toplami-be1cc5",
+    "title": "Matematik isbotlar uchun AutoformBench sinov to'plami",
+    "summary": "Tadqiqotchilar Lean 4 muhitida ilg‘or matematik isbotlarni rasmiylashtirish uchun AutoformBench sinov to'plamini taqdim etdi. U 24 ta manbadan olingan 341 ta rasmiylashtirish vazifasini o‘z ichiga oladi. Yangi to'plam AI tizimlarining matematik qobiliyatlarini sinashga xizmat qiladi.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 10,
+    "published": "2026-11-27T05:00:00.000Z",
+    "created": "2026-11-27T05:02:46.345Z",
+    "coverage": 1,
+    "source": {
+      "name": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2611.33165",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "e1355159ec76",
+    "slug": "ubisoft-dasturchilari-ai-ishlatmaslik-sababini-asoslaydi-e13551",
+    "title": "Ubisoft dasturchilari AI ishlatmaslik sababini asoslaydi",
+    "summary": "Xabarlarga ko'ra, Ubisoft dasturchilari yangi o‘yinlarni taklif qilishda generativ sun'iy intellektdan nima sababdan foydalanmasligini asoslab berishga majbur bo‘lmoqda. Ushbu talab yangi o'yin loyihalarini taqdim etish jarayoniga tegishli.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 3,
+    "score": 7,
+    "published": "2026-11-26T21:33:17.000Z",
+    "created": "2026-11-27T05:02:46.345Z",
+    "coverage": 1,
+    "source": {
+      "name": "TweakTown",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQZy1tTmloQWNNS3Btdm5mMmNhdzNlb0Z1VUo3REs1SzVoMFpINTJHeTlpLUVSVVpuSWF3NldQU2YtN2QwUF82eWVMYlJXRHpBS3pGSkhNbFpnb0t3bTE1T3g5S291SlNsZzVaQTg2MmlUR1hJWmIzdUQ4OWZvejd2ZEF1LWpQRVlfUHIwcmtQV3UwNHF2WWppajN0UGRJOXBFbjB3dVNESXdmcWQ3QTE4V05vaGo4LXcxUEdLelUzYS1QVndFbVdvQkpfbENiakdNTjNoTFpjb24wZw",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "d2812299c769",
     "slug": "xiaomi-hyperos-1-20-had-yangilanishini-elon-qildi-d28122",
     "title": "Xiaomi HyperOS 1.20 HAD yangilanishini e'lon qildi",
