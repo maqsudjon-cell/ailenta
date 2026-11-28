@@ -1,21 +1,88 @@
 [
   {
-    "id": "a58623c994aa",
-    "slug": "sber-gigachat-4-llm-modellar-liniyasini-taqdim-etdi-a58623",
-    "title": "Sber GigaChat 4 LLM modellar liniyasini taqdim etdi",
-    "summary": "Sber kompaniyasi GigaChat 4 deb nomlangan yangi LLM modellar seriyasini e'lon qildi. Ushbu modellar liniyasi 2026-yil 26-noyabrda taqdim etildi.",
+    "id": "77ab3d65a278",
+    "slug": "google-deepcrossattention-modelni-3-barobar-tezlashtirdi-77ab3d",
+    "title": "Google DeepCrossAttention modelni 3 barobar tezlashtirdi",
+    "summary": "Google DeepCrossAttention mexanizmi model sifatini saqlagan holda uni uch barobar tezroq ishlashiga erishdi. Bu yangilik AI modellarining samaradorligini oshirishga yordam beradi.",
     "tags": [
+      "Google",
       "tadqiqot"
     ],
     "importance": 3,
-    "score": 14,
-    "published": "2026-11-27T18:41:23.000Z",
-    "created": "2026-11-28T03:36:42.496Z",
+    "score": 22.3,
+    "published": "2026-11-27T23:06:29.000Z",
+    "created": "2026-11-28T03:51:42.562Z",
     "coverage": 1,
     "source": {
-      "name": "Habr",
-      "url": "https://habr.com/ru/articles/1113400",
+      "name": "Hacker News",
+      "url": "https://research.google/blog/supercharging-transformer-residual-connections",
       "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "4e825df2be8b",
+    "slug": "ai-notogri-maslahati-sabab-ayol-uydan-chiqarildi-4e825d",
+    "title": "AI noto'g'ri maslahati sabab ayol uydan chiqarildi",
+    "summary": "AI yordamchisi ijara muddatini kechiktirish mumkinligi haqida noto'g'ri ma'lumot berdi. Natijada, ayol uydan chiqarib yuborildi. Bu AI mas'uliyati masalasini ko'taradi.",
+    "tags": [
+      "xavfsizlik",
+      "qonun"
+    ],
+    "importance": 4,
+    "score": 18.4,
+    "published": "2026-11-28T01:32:56.000Z",
+    "created": "2026-11-28T03:51:42.562Z",
+    "coverage": 1,
+    "source": {
+      "name": "Hacker News",
+      "url": "https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "55060e027bba",
+    "slug": "matematiklar-ai-onlayn-xavfsizlikni-buzishidan-xavotirda-55060e",
+    "title": "Matematiklar AI onlayn xavfsizlikni buzishidan xavotirda",
+    "summary": "Matematiklar sun'iy intellekt onlayn xavfsizlik tizimlarini yaroqsiz holga keltirishi mumkinligidan xavotir bildirmoqda. Bu AI rivojlanishi bilan bog'liq yangi xavfsizlik muammolarini yuzaga chiqaradi.",
+    "tags": [
+      "xavfsizlik",
+      "tadqiqot"
+    ],
+    "importance": 4,
+    "score": 17.9,
+    "published": "2026-11-27T11:09:04.000Z",
+    "created": "2026-11-28T03:51:42.562Z",
+    "coverage": 1,
+    "source": {
+      "name": "Hacker News",
+      "url": "https://thetimes.com/uk/technology-uk/article/ai-making-online-security-useless-smr73d3n8",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "97b870a288dc",
+    "slug": "datasection-ai-buyurtmasi-sabab-prognozini-89-qisqartirdi-97b870",
+    "title": "Datasection AI buyurtmasi sabab prognozini 89% qisqartirdi",
+    "summary": "Datasection kompaniyasi AI buyurtmasi va BIS chip qoidalari tufayli o'z prognozini 89 foizga qisqartirdi. Bu AI va chip sanoatidagi o'zgarishlarning biznesga ta'sirini ko'rsatadi.",
+    "tags": [
+      "iqtisod",
+      "chiplar"
+    ],
+    "importance": 3,
+    "score": 7,
+    "published": "2026-11-28T00:00:00.000Z",
+    "created": "2026-11-28T03:51:42.562Z",
+    "coverage": 1,
+    "source": {
+      "name": "explainx.ai",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTVZISU1hYmVSdWMwcmN1SFBsSDVEYXFtM1lmc3d3QWNtZ3VLY25rUnFKTTgyYS1fbjBZMjFGcW1FZ1lZbzRIUXJ0UzhmbmFGdlF2MzczS2V5aVdiZFF3aTRQZVhhVlR3X2ZSQWFsRGdJMlFzdFZSQVkzbW5xNW80S094STlrX21vam0yc2lSNk1vcUxJTEc4dHNJSktFb0F4SXhv",
+      "indirect": true
     },
     "also": [],
     "model": "gemini"
