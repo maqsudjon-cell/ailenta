@@ -1,5 +1,166 @@
 [
   {
+    "id": "d8ea4c49bc57",
+    "slug": "jensen-huangning-keyingi-qadamlari-ai-ustunligini-belgilaydi-d8ea4c",
+    "title": "Jensen Huangning keyingi qadamlari AI ustunligini belgilaydi",
+    "summary": "Nvidia bosh direktori Jensen Huangning kelgusi harakatlari global AI ustunligi poygasiga ta'sir qilishi mumkin. Kompaniya va u faoliyat yuritayotgan dunyo o'zgargan.",
+    "tags": [
+      "Nvidia",
+      "biznes"
+    ],
+    "importance": 4,
+    "score": 20.8,
+    "published": "2026-11-27T10:00:00.000Z",
+    "created": "2026-11-28T18:36:25.782Z",
+    "coverage": 2,
+    "source": {
+      "name": "The Washington Post",
+      "url": "https://washingtonpost.com/technology/2026/11/27/what-jensen-huang-does-next-could-shape-global-race-ai-dominance",
+      "indirect": false
+    },
+    "also": [
+      {
+        "name": "The Washington Post",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTVVId25KSXJqbHR2LXZBTmhILXQzU1RYQnFfSjVaWDE5ODROSGFLN295dHRlNEJUeHNIaUlxSzktR2hzZzVWcGVKaE5Kb2tObGFXUzlJb25BY1M3MXpoTjJtWTUzZnZMSVNPa2NNNS15UzcxOWppNFVWZU00WWdudDA5aXMzLXdoRVBTMzUtaXZVcVV3amlRcm5BSUVMUUxJZ2xBdGZxR3diNWhnT2MyVC16b1J0bDl5Rmc"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "51e0eb9f7901",
+    "slug": "donald-knuth-ai-yaratgan-xatolar-sabab-mukofotlarni-toxtatdi-51e0eb",
+    "title": "Donald Knuth AI yaratgan xatolar sabab mukofotlarni to'xtatdi",
+    "summary": "Mashhur kompyuter olimi Donald Knuth AI tomonidan yaratilgan xato hisobotlari ko'paygani sababli mukofot dasturini to'xtatdi. Bu AI'ning ma'lumotlar sifatiga ta'sirini ko'rsatadi.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 19.1,
+    "published": "2026-11-28T17:53:02.000Z",
+    "created": "2026-11-28T18:36:25.783Z",
+    "coverage": 1,
+    "source": {
+      "name": "Hacker News",
+      "url": "https://cs.stanford.edu/~knuth/moratorium.html",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "6f458eba73e2",
+    "slug": "ai-youtubega-koproq-havola-bermoqda-nima-muhim-6f458e",
+    "title": "AI YouTube'ga ko'proq havola bermoqda: nima muhim",
+    "summary": "AI modellar YouTube'ga tobora ko'proq havola bermoqda. Tadqiqotlar AI javoblarida brend ko'rinishini oshirish uchun sarlavha, tavsif va subtitrlarni optimallashtirishni ko'rsatadi.",
+    "tags": [
+      "tadqiqot",
+      "biznes"
+    ],
+    "importance": 2,
+    "score": 17,
+    "published": "2026-11-28T13:19:55.000Z",
+    "created": "2026-11-28T18:36:25.783Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1113554",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "7adfbf2eb1a7",
+    "slug": "jamoat-joyida-ai-bilan-gaplashish-noqulaymi-7adfbf",
+    "title": "Jamoat joyida AI bilan gaplashish noqulaymi",
+    "summary": "Ovozli interfeys AI kelajagi deb hisoblansa-da, ko'pchilik jamoat joylarida AI bilan gaplashishdan xijolat tortmoqda. Bu AI'ning kundalik hayotga integratsiyasidagi ijtimoiy muammolarni ko'rsatadi.",
+    "tags": [
+      "maxfiylik"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-11-28T12:04:01.000Z",
+    "created": "2026-11-28T18:36:25.783Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/talking-to-ai-voice-public-feels-weird-2026-11",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "1a03e25b8321",
+    "slug": "windows-11-va-virtualboxda-ai-uchun-ram-muammosi-1a03e2",
+    "title": "Windows 11 va VirtualBox'da AI uchun RAM muammosi",
+    "summary": "Windows 11 va VirtualBox'da 192 GB RAMni lokal AI va agentlar uchun to'liq ajratishda texnik muammolar yuzaga keldi. VirtualBox mavjud xotiradan foydalanishni rad etgan.",
+    "tags": [
+      "chiplar",
+      "agentlar"
+    ],
+    "importance": 2,
+    "score": 11,
+    "published": "2026-11-28T14:16:58.000Z",
+    "created": "2026-11-28T18:36:25.783Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1113562",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "f32f36035cb4",
+    "slug": "ai-riemann-gipotezasini-yechishga-yaqinlashmoqda-f32f36",
+    "title": "AI Riemann gipotezasini yechishga yaqinlashmoqda",
+    "summary": "Sun'iy intellekt oddiy hisob-kitoblardan eng murakkab matematik muammolarni, jumladan Riemann gipotezasini hal qilishga o'tmoqda. Bu AI'ning matematik qobiliyatlaridagi sezilarli o'sishni ko'rsatadi.",
+    "tags": [
+      "tadqiqot"
+    ],
+    "importance": 4,
+    "score": 7.9,
+    "published": "2026-11-27T17:45:47.000Z",
+    "created": "2026-11-28T18:36:25.783Z",
+    "coverage": 2,
+    "source": {
+      "name": "DW.com",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE04U1dQRGxVTlBrSm5fS2NvWGt1Wm9KVVcyc2k3U1NRQjNoRm5pYWdmSWU3MHNuLVBTOHhBQVAxUFlVazc1alRtb0dITVlXN2M1T01TR3BHR3FYdHNKbnZZSmJRVlJ5RTFEclZJUGpwNlRWWXhY0gF0QVVfeXFMTThTV1BEbFVOUGtKbl9LY29Ya3Vab0pVVzJzaTdTU1FCM2hGbmlhZ2ZJZTcwc24tUFM4eEFBUDFQWVVrNzVqVG1vR0hNWVc3YzVPTVNHcEdHcVh0c0pudllKYlFWUnlFMURyVklQanA2VFZZeFg",
+      "indirect": true
+    },
+    "also": [
+      {
+        "name": "DW.com",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBaT0QwWE1kcEZicmhDdHV1WmU0Z25RQzdBUmYwR296Y0h0bWFDOEo4c2o0M0lwMmRZZ0hYdklyWFNaQlBwSWZJOWlMSGgzZlNXZUcyS01WU29zajJLRzNyT20xTmhiaElBYW9xWTA3X25Vb3JN0gF0QVVfeXFMTThTV1BEbFVOUGtKbl9LY29Ya3Vab0pVVzJzaTdTU1FCM2hGbmlhZ2ZJZTcwc24tUFM4eEFBUDFQWVVrNzVqVG1vR0hNWVc3YzVPTVNHcEdHcVh0c0pudllKYlFWUnlFMURyVklQanA2VFZZeFg"
+      }
+    ],
+    "model": "gemini"
+  },
+  {
+    "id": "a56679fd7f95",
+    "slug": "vazir-buthelezi-batho-pele-ai-chatbotini-ishga-tushirdi-a56679",
+    "title": "Vazir Buthelezi Batho Pele AI chatbotini ishga tushirdi",
+    "summary": "Vazir Buthelezi Batho Pele AI chatbotini ishga tushirdi. Ushbu chatbot innovatsiyalar va ta'sirni birlashtirib, davlat xizmatlarini yaxshilashga qaratilgan.",
+    "tags": [
+      "siyosat",
+      "agentlar"
+    ],
+    "importance": 3,
+    "score": 7.6,
+    "published": "2026-11-28T00:38:41.000Z",
+    "created": "2026-11-28T18:36:25.783Z",
+    "coverage": 1,
+    "source": {
+      "name": "DPSA",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPak92blltc29yMGtXT3liaXozVW40dFh1VE13X19lRi1JNEpBNnBpZTA0MVYycU9EempsV295QldqSmowUkVmc2s4NG8xOFRNcjFqM1lOMkxzOU1OVkl0LU0tcjRyTkhKUE1iUWxta21XTk9zZERTWlBOYkp2OVJNbWwwS3BWNV9FWXI2dTMtVUoxMk1sVFdSdGQtUV9VTE04bVc1c3JoeVBJZWlKa3ZMMVhCMlRJSi1Vc2c",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "d2854c11f6e4",
     "slug": "kanadaliklar-aining-bayram-xaridiga-qarshi-d2854c",
     "title": "Kanadaliklar AIning bayram xaridiga qarshi",

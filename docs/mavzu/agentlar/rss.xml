@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/agentlar/</link>
   <description>&quot;agentlar&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Sat, 28 Nov 2026 18:20:11 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 28 Nov 2026 18:44:22 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/agentlar/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Windows 11 va VirtualBox'da AI uchun RAM muammosi</title>
+    <link>https://ailenta.uz/x/windows-11-va-virtualboxda-ai-uchun-ram-muammosi-1a03e2/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/windows-11-va-virtualboxda-ai-uchun-ram-muammosi-1a03e2/</guid>
+    <pubDate>Sat, 28 Nov 2026 14:16:58 GMT</pubDate>
+    <description>Windows 11 va VirtualBox'da 192 GB RAMni lokal AI va agentlar uchun to'liq ajratishda texnik muammolar yuzaga keldi. VirtualBox mavjud xotiradan foydalanishni rad etgan.</description>
+    <category>chiplar</category><category>agentlar</category>
+    <media:content url="https://ailenta.uz/og/windows-11-va-virtualboxda-ai-uchun-ram-muammosi-1a03e2.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/windows-11-va-virtualboxda-ai-uchun-ram-muammosi-1a03e2.jpg"/>
+  </item>
   <item>
     <title>AI agentlari 2 soatda 64 ta pull-rekvest yaratdi</title>
     <link>https://ailenta.uz/x/ai-agentlari-2-soatda-64-ta-pull-rekvest-yaratdi-d40296/</link>
@@ -46,6 +56,16 @@
     <category>qonun</category><category>agentlar</category>
     <media:content url="https://ailenta.uz/og/ai-yordamchisining-xatosi-sabab-ayol-uydan-chiqarildi-4e825d.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/ai-yordamchisining-xatosi-sabab-ayol-uydan-chiqarildi-4e825d.jpg"/>
+  </item>
+  <item>
+    <title>Vazir Buthelezi Batho Pele AI chatbotini ishga tushirdi</title>
+    <link>https://ailenta.uz/x/vazir-buthelezi-batho-pele-ai-chatbotini-ishga-tushirdi-a56679/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/vazir-buthelezi-batho-pele-ai-chatbotini-ishga-tushirdi-a56679/</guid>
+    <pubDate>Sat, 28 Nov 2026 00:38:41 GMT</pubDate>
+    <description>Vazir Buthelezi Batho Pele AI chatbotini ishga tushirdi. Ushbu chatbot innovatsiyalar va ta'sirni birlashtirib, davlat xizmatlarini yaxshilashga qaratilgan.</description>
+    <category>siyosat</category><category>agentlar</category>
+    <media:content url="https://ailenta.uz/og/vazir-buthelezi-batho-pele-ai-chatbotini-ishga-tushirdi-a56679.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/vazir-buthelezi-batho-pele-ai-chatbotini-ishga-tushirdi-a56679.jpg"/>
   </item>
   <item>
     <title>AI agentlari dizaynerlarga kod yozish imkonini bermoqda</title>
@@ -286,26 +306,6 @@
     <category>agentlar</category>
     <media:content url="https://ailenta.uz/og/dos-muhitida-kod-yozish-uchun-clawdos-ai-agenti-yaratildi-97bf05.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/dos-muhitida-kod-yozish-uchun-clawdos-ai-agenti-yaratildi-97bf05.jpg"/>
-  </item>
-  <item>
-    <title>AI agentlari uchun sayt xaritasi samaradorlikni oshirishi mumkin</title>
-    <link>https://ailenta.uz/x/ai-agentlari-uchun-sayt-xaritasi-samaradorlikni-oshirishi-mu-5445ad/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/ai-agentlari-uchun-sayt-xaritasi-samaradorlikni-oshirishi-mu-5445ad/</guid>
-    <pubDate>Thu, 19 Nov 2026 16:31:55 GMT</pubDate>
-    <description>Tadqiqotga ko'ra, AI agentlari uchun sayt xaritasi javob topish vaqtini qisqartirishi mumkin. Sinovda u olingan matn hajmini 58% ga qisqartirdi, ammo kirish tokenlari 3,5% ga oshdi.</description>
-    <category>tadqiqot</category><category>agentlar</category>
-    <media:content url="https://ailenta.uz/og/ai-agentlari-uchun-sayt-xaritasi-samaradorlikni-oshirishi-mu-5445ad.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/ai-agentlari-uchun-sayt-xaritasi-samaradorlikni-oshirishi-mu-5445ad.jpg"/>
-  </item>
-  <item>
-    <title>Superhuman Go agentini Docs va Mail'ga integratsiya qildi</title>
-    <link>https://ailenta.uz/x/superhuman-go-agentini-docs-va-mailga-integratsiya-qildi-97ccf1/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/superhuman-go-agentini-docs-va-mailga-integratsiya-qildi-97ccf1/</guid>
-    <pubDate>Thu, 19 Nov 2026 14:00:00 GMT</pubDate>
-    <description>Superhuman kompaniyasi o'zining Go agentini asosiy yordamchi sifatida Docs va Mail ilovalarida taqdim etmoqda. Bu Go agentining kengroq platformalarda foydalanish imkoniyatini oshiradi.</description>
-    <category>agentlar</category><category>biznes</category>
-    <media:content url="https://ailenta.uz/og/superhuman-go-agentini-docs-va-mailga-integratsiya-qildi-97ccf1.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/superhuman-go-agentini-docs-va-mailga-integratsiya-qildi-97ccf1.jpg"/>
   </item>
 </channel>
 </rss>
