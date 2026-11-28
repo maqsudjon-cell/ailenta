@@ -1,5 +1,48 @@
 [
   {
+    "id": "468850f5675e",
+    "slug": "ai-agentlari-topshiriqlarning-90-ida-barbod-boldi-468850",
+    "title": "AI agentlari topshiriqlarning 90%ida barbod bo'ldi",
+    "summary": "TokenWave AI tadqiqotchilari AI agentlarining dasturchilar o'rnida ishlashini tekshirdi. Claude Opus 5.5 va GPT-6 Astra kabi eng kuchli modellar ham topshiriqlarning 8 foizdan kamrog'ini to'liq bajardi.",
+    "tags": [
+      "agentlar",
+      "tadqiqot"
+    ],
+    "importance": 4,
+    "score": 17,
+    "published": "2026-11-28T11:47:21.000Z",
+    "created": "2026-11-28T12:02:03.802Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1113528",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "c6d18fe5cec6",
+    "slug": "suanli-cn-bulut-platformasiga-yangi-funksiyalar-qoshildi-c6d18f",
+    "title": "Suanli.cn bulut platformasiga yangi funksiyalar qo'shildi",
+    "summary": "Suanli.cn hisoblash-bulut platformasi ishlab chiqish mashinalari va taqsimlangan o'qitish funksiyalarini qo'shdi. Tizim operatori A100 chipi qo'llab-quvvatlanadigan 100 ta jamoa uchun sinov davri ochilishini ma'lum qildi.",
+    "tags": [
+      "bulut"
+    ],
+    "importance": 2,
+    "score": 15,
+    "published": "2026-11-28T09:58:45.000Z",
+    "created": "2026-11-28T12:02:03.802Z",
+    "coverage": 1,
+    "source": {
+      "name": "Pandaily",
+      "url": "https://pandaily.com/suanli-compute-cloud-platform-upgrade-chtf-dongsheng",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "81f36d73613c",
     "slug": "xorijliklarga-jshshir-berish-platformasi-ishga-tushmadi-81f36d",
     "title": "Xorijliklarga JSHSHIR berish platformasi ishga tushmadi",

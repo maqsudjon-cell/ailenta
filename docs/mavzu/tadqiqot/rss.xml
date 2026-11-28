@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/tadqiqot/</link>
   <description>&quot;tadqiqot&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Sat, 28 Nov 2026 11:12:10 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 28 Nov 2026 12:12:10 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/tadqiqot/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>AI agentlari topshiriqlarning 90%ida barbod bo'ldi</title>
+    <link>https://ailenta.uz/x/ai-agentlari-topshiriqlarning-90-ida-barbod-boldi-468850/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/ai-agentlari-topshiriqlarning-90-ida-barbod-boldi-468850/</guid>
+    <pubDate>Sat, 28 Nov 2026 11:47:21 GMT</pubDate>
+    <description>TokenWave AI tadqiqotchilari AI agentlarining dasturchilar o'rnida ishlashini tekshirdi. Claude Opus 5.5 va GPT-6 Astra kabi eng kuchli modellar ham topshiriqlarning 8 foizdan kamrog'ini to'liq bajardi.</description>
+    <category>agentlar</category><category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/ai-agentlari-topshiriqlarning-90-ida-barbod-boldi-468850.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/ai-agentlari-topshiriqlarning-90-ida-barbod-boldi-468850.jpg"/>
+  </item>
   <item>
     <title>GGUF modellarida kvantlash usullari tushuntirildi</title>
     <link>https://ailenta.uz/x/gguf-modellarida-kvantlash-usullari-tushuntirildi-8e7302/</link>
@@ -296,16 +306,6 @@
     <category>ochiq model</category><category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/amap-interaktiv-video-uchun-iris-ogirliklarini-chiqardi-0b553f.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/amap-interaktiv-video-uchun-iris-ogirliklarini-chiqardi-0b553f.jpg"/>
-  </item>
-  <item>
-    <title>PenGPT: Qo'l yozuvi va eskizlar uchun generativ transformer</title>
-    <link>https://ailenta.uz/x/pengpt-qol-yozuvi-va-eskizlar-uchun-generativ-transformer-a58808/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/pengpt-qol-yozuvi-va-eskizlar-uchun-generativ-transformer-a58808/</guid>
-    <pubDate>Wed, 25 Nov 2026 00:54:49 GMT</pubDate>
-    <description>PenGPT qo'l yozuvi va eskizlar uchun mo'ljallangan generativ transformer modelidir. Bu model ushbu turdagi vizual ma'lumotlarni yaratishga qodir.</description>
-    <category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/pengpt-qol-yozuvi-va-eskizlar-uchun-generativ-transformer-a58808.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/pengpt-qol-yozuvi-va-eskizlar-uchun-generativ-transformer-a58808.jpg"/>
   </item>
 </channel>
 </rss>
