@@ -3,20 +3,41 @@
     "id": "6347a3eda928",
     "slug": "ai-1808-yilgi-albom-sirini-22-daqiqada-yechdi-6347a3",
     "title": "AI 1808-yilgi albom sirini 22 daqiqada yechdi",
-    "summary": "Sun'iy intellekt tarixchiga 1808-yildagi chizmalar albomi sirini 22 daqiqa ichida ochishga yordam berdi. Bu haqda NEWS.am TECH nashri xabar berdi.",
+    "summary": "Sun'iy intellekt tarixchiga 1808-yilga tegishli albom sirini ochishda yordam berdi. U ushbu jumboqni 22 daqiqada hal qildi.",
     "tags": [
       "tadqiqot"
     ],
     "importance": 2,
-    "score": -4.8,
+    "score": -4.9,
     "published": "2026-11-26T14:30:00.000Z",
-    "created": "2026-11-28T08:02:06.822Z",
+    "created": "2026-11-28T08:16:32.027Z",
     "coverage": 1,
     "source": {
       "name": "NEWS.am TECH",
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBaZmZHWEp0SDNwWjMxZDV5VXItVXUxOU5kWmxVamZERUpydHdMUTJ4cXBjaWE5WTI4aGthcUlEN1pWV3ZDdEpmNw",
       "title": "AI helped a historian solve the mystery of an 1808 sketchbook in 22 minutes",
       "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "801e669f2b75",
+    "slug": "character-ai-kompaniyasi-kasodga-uchradi-801e66",
+    "title": "Character AI kompaniyasi kasodga uchradi",
+    "summary": "Character.AI kompaniyasi Delaver shtati federal sudida kasodga uchradi. Tizimda 2025-yil 13-mart holatiga ko'ra AQSHdan 21,6 million ro'yxatdan o'tgan akkount mavjud bo'lgan.",
+    "tags": [
+      "biznes"
+    ],
+    "importance": 4,
+    "score": 14,
+    "published": "2026-11-28T07:24:03.000Z",
+    "created": "2026-11-28T08:16:39.016Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/articles/1113448",
+      "indirect": false
     },
     "also": [],
     "model": "gemini"
