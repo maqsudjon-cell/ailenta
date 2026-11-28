@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/tadqiqot/</link>
   <description>&quot;tadqiqot&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Sat, 28 Nov 2026 08:38:10 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 28 Nov 2026 09:12:05 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/tadqiqot/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>GGUF modellarida kvantlash usullari tushuntirildi</title>
+    <link>https://ailenta.uz/x/gguf-modellarida-kvantlash-usullari-tushuntirildi-8e7302/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/gguf-modellarida-kvantlash-usullari-tushuntirildi-8e7302/</guid>
+    <pubDate>Sat, 28 Nov 2026 08:00:03 GMT</pubDate>
+    <description>Hugging Face platformasidagi GGUF modellarida turli kvantlash usullari qo'llaniladi. Maqolada 16 bitli ko'rsatkichlarni 4 bitgacha kamaytirish jarayoni tushuntirilgan.</description>
+    <category>Hugging Face</category><category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/gguf-modellarida-kvantlash-usullari-tushuntirildi-8e7302.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/gguf-modellarida-kvantlash-usullari-tushuntirildi-8e7302.jpg"/>
+  </item>
   <item>
     <title>Sber GigaChat 4 LLM modellar liniyasini taqdim etdi</title>
     <link>https://ailenta.uz/x/sber-gigachat-4-llm-modellar-liniyasini-taqdim-etdi-a58623/</link>
@@ -296,16 +306,6 @@
     <category>tadqiqot</category>
     <media:content url="https://ailenta.uz/og/pengpt-qol-yozuvi-va-eskizlar-uchun-generativ-transformer-a58808.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/pengpt-qol-yozuvi-va-eskizlar-uchun-generativ-transformer-a58808.jpg"/>
-  </item>
-  <item>
-    <title>Matematiklar AI yutuqlaridan hayratda</title>
-    <link>https://ailenta.uz/x/matematiklar-ai-yutuqlaridan-hayratda-038c78/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/matematiklar-ai-yutuqlaridan-hayratda-038c78/</guid>
-    <pubDate>Wed, 25 Nov 2026 00:00:00 GMT</pubDate>
-    <description>Matematiklar sun'iy intellekt sohasidagi yutuqlardan hayratda va xursand. Ular AI yordamida murakkab muammolarni hal qilish imkoniyatlari haqida fikr bildirmoqda.</description>
-    <category>tadqiqot</category><category>ta'lim</category>
-    <media:content url="https://ailenta.uz/og/matematiklar-ai-yutuqlaridan-hayratda-038c78.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/matematiklar-ai-yutuqlaridan-hayratda-038c78.jpg"/>
   </item>
 </channel>
 </rss>

@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/hugging-face/</link>
   <description>&quot;Hugging Face&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Sat, 28 Nov 2026 08:38:10 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 28 Nov 2026 09:12:05 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/hugging-face/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>GGUF modellarida kvantlash usullari tushuntirildi</title>
+    <link>https://ailenta.uz/x/gguf-modellarida-kvantlash-usullari-tushuntirildi-8e7302/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/gguf-modellarida-kvantlash-usullari-tushuntirildi-8e7302/</guid>
+    <pubDate>Sat, 28 Nov 2026 08:00:03 GMT</pubDate>
+    <description>Hugging Face platformasidagi GGUF modellarida turli kvantlash usullari qo'llaniladi. Maqolada 16 bitli ko'rsatkichlarni 4 bitgacha kamaytirish jarayoni tushuntirilgan.</description>
+    <category>Hugging Face</category><category>tadqiqot</category>
+    <media:content url="https://ailenta.uz/og/gguf-modellarida-kvantlash-usullari-tushuntirildi-8e7302.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/gguf-modellarida-kvantlash-usullari-tushuntirildi-8e7302.jpg"/>
+  </item>
   <item>
     <title>Hugging Face'ga 6 mlrd so'zli o'zbekcha korpus joylandi</title>
     <link>https://ailenta.uz/x/hugging-facega-6-mlrd-sozli-ozbekcha-korpus-joylandi-65aa91/</link>
@@ -296,16 +306,6 @@
     <category>Nvidia</category><category>Hugging Face</category>
     <media:content url="https://ailenta.uz/og/nvidia-hugging-faceni-14-milliard-dollarga-sotib-olmoqchi-723b1e.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/nvidia-hugging-faceni-14-milliard-dollarga-sotib-olmoqchi-723b1e.jpg"/>
-  </item>
-  <item>
-    <title>LLM benchmarklari nimalarni o'lchaydi</title>
-    <link>https://ailenta.uz/x/llm-benchmarklari-nimalarni-olchaydi-23bdbf/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/llm-benchmarklari-nimalarni-olchaydi-23bdbf/</guid>
-    <pubDate>Tue, 01 Sep 2026 21:39:07 GMT</pubDate>
-    <description>Hugging Face LLM benchmarklari aslida nimalarni o'lchayotganini tahlil qiluvchi tadqiqotni e'lon qildi. Bu tadqiqot mavjud baholash usullarining samaradorligini shubha ostiga qo'yadi.</description>
-    <category>Hugging Face</category><category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/llm-benchmarklari-nimalarni-olchaydi-23bdbf.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/llm-benchmarklari-nimalarni-olchaydi-23bdbf.jpg"/>
   </item>
 </channel>
 </rss>

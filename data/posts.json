@@ -1,5 +1,91 @@
 [
   {
+    "id": "d538bd604a7f",
+    "slug": "yaponiya-ai-qonuniga-jazolar-kiritishni-rejalashtirmoqda-d538bd",
+    "title": "Yaponiya AI qonuniga jazolar kiritishni rejalashtirmoqda",
+    "summary": "Yaponiya sun'iy intellekt to'g'risidagi qonunchilikni qayta ko'rib chiqishni rejalashtirmoqda. Yangilangan qonun loyihasiga qoidabuzarliklar uchun jazo choralari kiritiladi.",
+    "tags": [
+      "qonun"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-11-27T23:39:00.000Z",
+    "created": "2026-11-28T09:02:43.612Z",
+    "coverage": 1,
+    "source": {
+      "name": "The Japan Times",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNaXpMcEdaaDRhWS1Jek1FNE1oLU9lNzFNc3h1REUxRlQ0aEZ2UC1CUi0wLUtoa29xVnNhcG5POXRZT3FDZE9qT1pVc0xydmZzd1A3bmVUZHVsUHoxM3pocUdWb0dHbUhkLTFFWk1PZG5IaUk3RVFQbHJnZ2dGcE53cW91Uk1oeGs0aDdPYU9DTVk0aC0t",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "8e7302fbcd5d",
+    "slug": "gguf-modellarida-kvantlash-usullari-tushuntirildi-8e7302",
+    "title": "GGUF modellarida kvantlash usullari tushuntirildi",
+    "summary": "Hugging Face platformasidagi GGUF modellarida turli kvantlash usullari qo'llaniladi. Maqolada 16 bitli ko'rsatkichlarni 4 bitgacha kamaytirish jarayoni tushuntirilgan.",
+    "tags": [
+      "Hugging Face",
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 11,
+    "published": "2026-11-28T08:00:03.000Z",
+    "created": "2026-11-28T09:02:43.612Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/companies/selectel/articles/1111748",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "0e4271f253a6",
+    "slug": "ai-xavfsizlik-guruhlari-ochiq-imzo-chekishdan-qorqmoqda-0e4271",
+    "title": "AI xavfsizlik guruhlari ochiq imzo chekishdan qo'rqmoqda",
+    "summary": "Hendrycks ta'kidlashicha, AI xavfsizligi bo'yicha guruhlar MisAnthropic tashabbusini yashirincha qo'llab-quvvatlagan. Biroq ular bunga ochiqcha imzo chekishdan qochgan.",
+    "tags": [
+      "xavfsizlik"
+    ],
+    "importance": 3,
+    "score": 7,
+    "published": "2026-11-28T06:09:47.000Z",
+    "created": "2026-11-28T09:02:43.612Z",
+    "coverage": 1,
+    "source": {
+      "name": "Digg",
+      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9PRzJKa0hGU3JicEk4UzRadFcyN3F3TmI3M1dHM2FJbUhzSno2UlJDejFLd2E4Nlk5LXBSNzY3MzRGUQ",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "4714038d4825",
+    "slug": "farmatsevtlar-ai-laboratoriyalariga-1t-tolashi-mumkin-471403",
+    "title": "Farmatsevtlar AI laboratoriyalariga $1T to'lashi mumkin",
+    "summary": "Warwick ta'kidlashicha, farmatsevtika kompaniyalari kasalliklarga davo topish uchun AI laboratoriyalariga murojaat qilishi mumkin. Bunda har yili 1 trillion dollar to'lanishi taxmin qilinmoqda.",
+    "tags": [
+      "tibbiyot",
+      "iqtisod"
+    ],
+    "importance": 3,
+    "score": 6,
+    "published": "2026-11-27T18:25:04.000Z",
+    "created": "2026-11-28T09:02:43.612Z",
+    "coverage": 1,
+    "source": {
+      "name": "Crypto Briefing",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPak45cFdveU81MHZUaUFGRWhVWldKNzZrLTlvR2Z4MWdxSWF3Ty1yVE10eXByaFJqc1pVaURuMGt5RkJoWlY0SWVuYW0xcXh2M2dmQXcyLUhVNDItWWZGZkU5TUNqOHYyZEtWYk5QeFRkY2RHT2d5S0s2dmxlMGdsRUNIeVA2dzF0VG9fWHRGc3g1Q3lGLVE",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "6347a3eda928",
     "slug": "ai-1808-yilgi-albom-sirini-22-daqiqada-yechdi-6347a3",
     "title": "AI 1808-yilgi albom sirini 22 daqiqada yechdi",
