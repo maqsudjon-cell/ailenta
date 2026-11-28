@@ -1,5 +1,48 @@
 [
   {
+    "id": "0fbf0f5ec005",
+    "slug": "ai-aksiyalari-narxi-arzonlashmoqda-0fbf0f",
+    "title": "AI aksiyalari narxi arzonlashmoqda",
+    "summary": "Investorlar sun'iy intellekt bumingiz barqarorligiga shubha bildirayotgani sababli AI aksiyalari so'nggi paytlarda tushib ketdi. Bozor ishtirokchilari Nvidia rahbarining qaytishi vaziyatni o'zgartira olishiga umid qilmoqda.",
+    "tags": [
+      "iqtisod",
+      "Nvidia"
+    ],
+    "importance": 3,
+    "score": 12.2,
+    "published": "2026-11-27T12:00:22.000Z",
+    "created": "2026-11-28T17:07:59.306Z",
+    "coverage": 1,
+    "source": {
+      "name": "CNBC",
+      "url": "https://cnbc.com/2026/11/27/tech-download-jensen-huang-ai-market.html",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "d40296e8f28d",
+    "slug": "ai-agentlari-2-soatda-64-ta-pull-rekvest-yaratdi-d40296",
+    "title": "AI agentlari 2 soatda 64 ta pull-rekvest yaratdi",
+    "summary": "Uchta loyihada Claude Code platformasining 11 ta AI agenti yordamida ikki soatda 64 ta pull-rekvest yaratildi. Tajriba shuni ko'rsatdiki, koding sifatini tekshirish va ko'rib chiqishda inson omili asosiy sekinlashtiruvchi to'siqqa aylandi.",
+    "tags": [
+      "agentlar"
+    ],
+    "importance": 2,
+    "score": 11,
+    "published": "2026-11-28T13:05:28.000Z",
+    "created": "2026-11-28T17:07:59.306Z",
+    "coverage": 1,
+    "source": {
+      "name": "Habr",
+      "url": "https://habr.com/ru/companies/otus/articles/1108096",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "0181274522ce",
     "slug": "q-ant-tejamkor-foton-ai-protsessorlarini-yaratmoqda-018127",
     "title": "Q.ANT tejamkor foton AI protsessorlarini yaratmoqda",

@@ -5,8 +5,18 @@
   <link>https://ailenta.uz/mavzu/agentlar/</link>
   <description>&quot;agentlar&quot; mavzusidagi sun'iy intellekt xabarlari o'zbek tilida.</description>
   <language>uz</language>
-  <lastBuildDate>Sat, 28 Nov 2026 16:24:04 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 28 Nov 2026 17:15:25 GMT</lastBuildDate>
   <atom:link href="https://ailenta.uz/mavzu/agentlar/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>AI agentlari 2 soatda 64 ta pull-rekvest yaratdi</title>
+    <link>https://ailenta.uz/x/ai-agentlari-2-soatda-64-ta-pull-rekvest-yaratdi-d40296/</link>
+    <guid isPermaLink="true">https://ailenta.uz/x/ai-agentlari-2-soatda-64-ta-pull-rekvest-yaratdi-d40296/</guid>
+    <pubDate>Sat, 28 Nov 2026 13:05:28 GMT</pubDate>
+    <description>Uchta loyihada Claude Code platformasining 11 ta AI agenti yordamida ikki soatda 64 ta pull-rekvest yaratildi. Tajriba shuni ko'rsatdiki, koding sifatini tekshirish va ko'rib chiqishda inson omili asosiy sekinlashtiruvchi to'siqqa aylandi.</description>
+    <category>agentlar</category>
+    <media:content url="https://ailenta.uz/og/ai-agentlari-2-soatda-64-ta-pull-rekvest-yaratdi-d40296.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+    <media:thumbnail url="https://ailenta.uz/og/ai-agentlari-2-soatda-64-ta-pull-rekvest-yaratdi-d40296.jpg"/>
+  </item>
   <item>
     <title>AI agentlari topshiriqlarning 90%ida barbod bo'ldi</title>
     <link>https://ailenta.uz/x/ai-agentlari-topshiriqlarning-90-ida-barbod-boldi-468850/</link>
@@ -296,16 +306,6 @@
     <category>agentlar</category><category>biznes</category>
     <media:content url="https://ailenta.uz/og/superhuman-go-agentini-docs-va-mailga-integratsiya-qildi-97ccf1.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
     <media:thumbnail url="https://ailenta.uz/og/superhuman-go-agentini-docs-va-mailga-integratsiya-qildi-97ccf1.jpg"/>
-  </item>
-  <item>
-    <title>AI agentlari kod yozishda inson rivojlanishidan ortda</title>
-    <link>https://ailenta.uz/x/ai-agentlari-kod-yozishda-inson-rivojlanishidan-ortda-569017/</link>
-    <guid isPermaLink="true">https://ailenta.uz/x/ai-agentlari-kod-yozishda-inson-rivojlanishidan-ortda-569017/</guid>
-    <pubDate>Wed, 18 Nov 2026 15:58:27 GMT</pubDate>
-    <description>Daniel Stenbergning ta'kidlashicha, AI agentlari C kodini Rustga o'girayotgan bir paytda, inson dasturchilar curl loyihasida 300 dan ortiq o'zgarish va 200 dan ortiq xato tuzatish kiritgan. AI tomonidan qayta yozilgan kodlarda bu tuzatishlar yo'q.</description>
-    <category>agentlar</category><category>tadqiqot</category>
-    <media:content url="https://ailenta.uz/og/ai-agentlari-kod-yozishda-inson-rivojlanishidan-ortda-569017.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-    <media:thumbnail url="https://ailenta.uz/og/ai-agentlari-kod-yozishda-inson-rivojlanishidan-ortda-569017.jpg"/>
   </item>
 </channel>
 </rss>
