@@ -1,5 +1,92 @@
 [
   {
+    "id": "88f1db8a1172",
+    "slug": "leopold-aschenbrennerning-ai-haqidagi-bashoratlari-88f1db",
+    "title": "Leopold Aschenbrennerning AI haqidagi bashoratlari",
+    "summary": "Sobiq OpenAI tadqiqotchisi Leopold Aschenbrenner sun'iy intellekt kelajagi haqida bir qancha bashoratlarini e'lon qildi. Uning investorlarga yozgan maktubi orqali bu ma'lumotlar oshkor bo'ldi.",
+    "tags": [
+      "OpenAI",
+      "tadqiqot"
+    ],
+    "importance": 3,
+    "score": 18,
+    "published": "2026-11-28T21:11:15.000Z",
+    "created": "2026-11-28T22:08:09.167Z",
+    "coverage": 1,
+    "source": {
+      "name": "Business Insider",
+      "url": "https://businessinsider.com/leopold-aschenbrenner-leaked-investor-letter-situational-awareness-ai-predictions-anthropic-2026-11",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "779dae5174fd",
+    "slug": "ios-27ning-ayrim-ai-funksiyalari-eski-iphonelarda-yoq-779dae",
+    "title": "iOS 27'ning ayrim AI funksiyalari eski iPhone'larda yo'q",
+    "summary": "iOS 27 operatsion tizimining ba'zi yangi funksiyalari, jumladan Siri AI va kamera vositalari, faqat yangi iPhone modellarida ishlaydi. Eski qurilmalar bu imkoniyatlardan foydalana olmaydi.",
+    "tags": [
+      "Apple"
+    ],
+    "importance": 3,
+    "score": 15,
+    "published": "2026-11-28T19:45:00.000Z",
+    "created": "2026-11-28T22:08:09.167Z",
+    "coverage": 1,
+    "source": {
+      "name": "Engadget",
+      "url": "https://engadget.com/2326029/ios-27-features-not-on-older-iphones",
+      "indirect": false
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "0749d96cdfa9",
+    "slug": "ai-strategiyasi-tashkiliy-tuzilma-muammosi-sifatida-0749d9",
+    "title": "AI strategiyasi tashkiliy tuzilma muammosi sifatida",
+    "summary": "Medium nashrida chop etilgan maqolada AI strategiyasini ishlab chiqish ko'pincha tashkiliy tuzilma bilan bog'liq muammolarga duch kelishi ta'kidlandi. Bu AI'ni joriy etishdagi asosiy to'siqlardan biri hisoblanadi.",
+    "tags": [
+      "biznes",
+      "tadqiqot"
+    ],
+    "importance": 2,
+    "score": 7,
+    "published": "2026-11-28T16:51:01.000Z",
+    "created": "2026-11-28T22:08:09.167Z",
+    "coverage": 1,
+    "source": {
+      "name": "Medium",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMzBKc0dIRGhRSUlmZmxfUGgtM2tsb1F0WjA3dk1wTFpZc2wwSGJmSnlNckVvRm9MN3I3dXBhLXBZSXl6bmtSS3NOMnY4OEduSHlsd2Z1S1VZNm5aQm1acng0cWlNQ01NeVJMdm80RnJJVUVuWVZILTB5aVNZbkM1bENKWVpEZWdCYW9saXh0OWVtNnF5ZG1wc1diWkpmUUJY",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
+    "id": "c8d635325874",
+    "slug": "ai-chatbotlar-nutq-cheklovida-siyosiy-tanqidni-rad-etdi-c8d635",
+    "title": "AI chatbotlar nutq cheklovida siyosiy tanqidni rad etdi",
+    "summary": "Yangi tadqiqot shuni ko'rsatdiki, nutq erkinligiga cheklovlar qo'yilgan sharoitlarda AI chatbotlari siyosiy tanqidlarni qabul qilishdan ko'ra ko'proq rad etgan. Bu ularning xulq-atvoriga ta'sirini ko'rsatadi.",
+    "tags": [
+      "xavfsizlik",
+      "tadqiqot"
+    ],
+    "importance": 4,
+    "score": 3.6,
+    "published": "2026-11-28T01:33:00.000Z",
+    "created": "2026-11-28T22:08:09.167Z",
+    "coverage": 1,
+    "source": {
+      "name": "www.tokenpost.com",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0tVGd2VXlOQkxaTGNTa2g1eG5XaFNHZ09abTh3aFRLbnZhVXV0RmtFUnp5cmFWNC1hUDhJWmhLX0s1RG9pbFBUYzM0NmZiNFNQLXhvaVI4cEtJeGc",
+      "indirect": true
+    },
+    "also": [],
+    "model": "gemini"
+  },
+  {
     "id": "fba254ca12db",
     "slug": "ai-shifrlash-matematikasini-yechgani-aytilmoqda-fba254",
     "title": "AI shifrlash matematikasini yechgani aytilmoqda",
